@@ -1,90 +1,109 @@
-> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/FAQ/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204125458id_/http%3A//www.kaboose.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Kids Domain Privacy Policy
+# Kaboose, Inc - Privacy Policy
 
-| 
-
-##  PRIVACY STATEMENT
-
-Hey Kids!  
-Hey Parents! We at Kids Domain want everyone's visit here to be safe. This statement tells you how we do that. Specifically, we'll tell you what information we collect from visitors ("Visitors") to the Kidsdomain.com Web site (the "Site"), and how we use such information. If we make any changes to this statement they will be posted on this page and will be effective when posted. Your continued use of this Site following the posting of any change shows your acceptance of the changes. 
-
-We are compliant with the Children's Online Privacy Protection Act (Coppa). 
-
-**KIDS NOTICE**
-
-When using our Site you may be asked to provide your e-mail address and age to receive one of our newsletters or to enter a contest. If you give us your e-mail address for a newsletter and you are under the age of 13, we will also ask you for your parent or guardian's e-mail address, so we can let them know that you asked us for a newsletter. 
-
-You may also be asked to create a screen name and password in order to participate in certain areas of the Site. If you are asked to create a screen name, please do not use your real name, try to think of something special and different. We will not use this information to contact you, only to make your access on the Site easier. 
-
-We will also ask for your parent or guardian's e-mail address if you win a contest or sweepstakes, so we can send you your prize. 
-
-Remember, always check with your parent or guardian when surfing the net! 
-
-**PARENTS NOTICE**
-
-It is important for you to talk with your child about using the Internet safely. Here are a few items to start the discussion, you may have a few of your own to add: 
-
-  * Never give out your full name, address, or phone number without your parent's permission. 
-  * If someone sends you something inappropriate, let your parents or teacher know. 
-  * Never agree to meet someone you've been talking to on the net without your parent's permission. 
-  * Treat others as you would like to be treated! 
-
-   
-We have a page of [safety information for families](http://www.kidsdomain.com/brain/computer/surfing/index.html) with additional information. **OUR GENERAL PRIVACY POLICY**
-
-**I. INFORMATION COLLECTED**
-
-We only collect personally identifiable information that is voluntarily submitted to us. We may request such information to, among other things, allow a Visitor to receive one of our newsletters or to enter a contest. When such information is requested, the Visitor will be told the purpose for such information. The Site will not require a Visitor to disclose more information than is reasonably necessary to participate in an activity on the Site as a condition of such participation. 
-
-As with most sites, certain non-personally identifiable information is recorded by the standard operation of our server. Such information may include: the name of the ISP from which a Visitor accesses the Internet, the date and time a Visitor accessed the Site, the Internet address of the Web site from which a Visitor entered our Site and where a Visitor goes after leaving this Site. This information is used to measure and monitor the use of our Site and to improve its content. Data which would personally identify a Visitor is known only when voluntarily submitted. 
-
-**II. USE OF INFORMATION**
-
-E-mail addresses that are submitted for entry in a contest or sweepstakes will only be used for the purpose of determining a winner. If a child under the age of 13 is selected as the winner, we will notify that child that he/she has won and request that they provide us with a parent or guardian e-mail address, so that we may award the prize. Also, if permission is granted by a parent of guardian, we may post the winner's first name and home state. Once the prize is awarded, only information related to the person who won the prize will be maintained for internal administrative purposes. 
-
-Similarly, if a child wants to receive our newsletter, we will require a parent's e-mail address so that we may notify the parent or guardian of the child's request and allow the parent or guardian the opportunity to rescind that specific request. 
-
-We may also use e-mail addresses for internal Site administration purposes, to respond to specific inquiries initiated by Visitors, and to comply with a law or legal action as directed by a court, regulatory agency or other entity acting with governmental authority. 
-
-**III. COOKIES**
-
-Cookies are small pieces of information stored on your computer which may be used to access information relating to your past use of the Site. This Site does not currently use "cookie" technology. However, we use an outside advertising company to display advertisements on our Site, which does use cookies. The ad company may receive and use cookies placed by certain ad banners displayed on our Site. We do not have access to information that would confirm the use of cookies by this advertising company. Most Internet browsers include preference settings that allow Visitors to be notified and control whether cookies are transferred to their computers. Please review your browser's documentation or "help" feature for more information on that functionality. 
-
-**IV. SECURITY**
-
-Our Site uses industry standard security measures to protect against the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will try our best to make sure that your transmissions to and from the Site are kept secure. 
-
-**V. OTHER WEB SITES; LINKS**
-
-The content of the Kids Domain Site is designed for family use. In addition to our own content, we also provide links to software publishers and sites children may be interested in. We do screen the other sites initially, but in the end, we cannot be responsible for what appears on other sites. We are also not responsible for the privacy policies of those other sites. 
-
-**VI. ACCESS; CORRECT; UPDATE**
-
-Because this Site does not maintain any personally identifiable information that would require ongoing review or updating by Visitors of the Site, there is nothing for Visitors to access, correct or update! 
-
-**VII. CHOICE; OPT OUT**
-
-Newsletters can be stopped at any point by visiting our Site at the links provided below and making such a request. In addition, if a child chooses to receive one of our newsletters, an e-mail will be sent to that child's parent or guardian offering the opportunity for that parent or guardian to stop delivery of the newsletter. 
-
-For the Kids Newsletter: [www.kidsdomain.com/kids/kids_newsletter.cgi](http://www.kidsdomain.com/kids/kids_newsletter.cgi)   
-For the Grownups Newsletter: [www.kidsdomain.com/grown/grown_newsletter.cgi](http://www.kidsdomain.com/grown/grown_newsletter.cgi) 
+  
 
 
-   
-Thanks, and we hope your visit to the Kids Domain is fun! 
+WELCOME
 
-Kids Domain  
-PMB 245  
-2220 Airport Freeway, #440  
-Bedford, TX 76022  
-817-285-8168  
-[Tigger@KidsDomain.com](mailto:tigger@kidsdomain.com) 
+Kaboose Inc. works hard to provide you with the best services, information and the highest quality interaction on the Internet. We respect the privacy of our users and the concerns of parents for their children visiting our sites.
+
+The Internet is a vast resource and we encourage you to become actively involved in your child's online experience and urge you to participate in their development. In keeping with the Children's Online Privacy Protection Act (COPPA) we have created this privacy policy to demonstrate our firm commitment to our users' privacy and to explain our information gathering and dissemination practices.
+
+If you are interested in reading more about COPPA you can visit the FTC web site at <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/>
+
+PERSONALLY IDENTIFIABLE INFORMATION
+
+What We Collect And How We Use It
+
+Anybody can access Kaboose. In particular, children can surf this site, view content and play some games without any personally identifiable information being collected. However, some activities may require that a person provide personally identifiable information. We do not collect more personally identifiable information than necessary to participate in any of the site's activities, and we do not sell or transfer any personally identifiable information collected at this site to third parties without consent.
+
+Kaboose does not collect more personally identifiable information from kids under 13 than is necessary for them to participate in our online activities. We urge parents to instruct their children never to give out their real names, addresses or phone numbers when using the Internet.
+
+We do not actively solicit, request, or re-use any information from visitors except in the following instances:
+
+Requests For Information and Feedback
+
+We offer a feedback feature so users can communicate with us. There is a text box for users to write whatever they want to tell us and they are invited to share certain information about themselves although it is not required. If people e-mail us with questions or comments and wish a reply, they need to provide an e-mail address or mailing address. Real names need not be used to request e-mail replies.
+
+If a user requests to receive communications from Kaboose (newsletters or company updates, for example) they need to provide a valid e-mail address. Real names need not be used to request newsletters.
+
+Contests, Promotions and Electronic Mailing
+
+Email addresses that are submitted for entry in a contest or sweepstakes will only be used for the purpose of determining a winner. When entering, children under the age of 13 are required to provide the email address of a parent/guardian. Kaboose will send an email to the parent giving them the option of removing their child from the contest if they so choose. Should a user under the age of 13 be selected as the winner (depending on eligibility and legal requirements per the contest rules and regulations), Kaboose will notify that child that he/she has won and request the parent or guardian complete a release and waiver form so that we may award the prize. Also, if permission is granted by a parent/guardian, we may post the winner's first name, age and home state/province. Once the prize is awarded, only information related to the winner will be maintained for internal administrative purposes.
+
+Similarly, if a child wants to receive a newsletter, we will require a parent's email address so that we may notify the parent or guardian of the child's request and allow the parent or guardian the opportunity to rescind that specific request.
+
+Parents can request to have their child's information deleted and refuse to permit further collection of information by us. In order to do that, simply [contact us](javascript:openContactUs\(2,1\);).
+
+Cards
+
+Children can send different types of cards; Emoz, Animated Cards and Zeeks Cards, which are electronic postcards, including a Tell-A-Friend postcards. Children may choose from a variety of pre-approved messages when sending cards, and may send them to anyone they wish. The sender is required to enter a nickname but nothing more. No personal information is collected. The recipient's email address is removed once they have viewed their card.
+
+NON-PERSONAL INFORMATION COLLECTION
+
+Polls and Surveys
+
+From time to time we may ask our site visitors to answer survey questions. Surveys generally deal with the site, our products or categories of products. We may ask for age or age ranges, gender, and other non-personally identifiable information. No personally identifiable information is requested and the information collected from a child is not tied to any personally identifiable information that may have been previously provided. We may have agencies administering our surveys, but these agencies are acting solely on our behalf. We may post sample answers to polls or surveys at the site, no identifying information is ever included. Information gathered from polls and surveys are for internal use by Kaboose, but aggregate information may be shared with others.
+
+COOKIES AND TRACKING TECHNOLOGY
+
+This site uses cookie and tracking technology. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Web site's computers and stored on your computer's hard drive. Cookies are an essential part of how the Internet works today, and allow server computers to recognize your computer's browser when you return. This enables Web sites to store information about your preferences on its site. Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information, or transmit it to anyone. Cookie and tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the web site, and understanding how visitors use the site. Cookies can also help tailor the site to visitors' needs and help customize the site for visitors. For example, we may use cookies to keep track of game high scores or to make sure a visitor does not see the same information repeatedly. The site may also use cookies to deliver content specific to a visitor's interest. We use general IP address information to better understand how the site is utilized. Personal information cannot be collected via cookies and other tracking technology, however, if personally identifiable information was previously provided, cookies may be tied to such information. Aggregate, but not individual, cookie and tracking information may be shared with third parties.
+
+Third Party Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+SHARING INFORMATION
+
+Except for the following limited and necessary instances, we do not share personally identifiable information collected at this site with third parties:
+
+  * Kaboose has your consent to share the information;
+  * Kaboose needs to share your information to provide a product or service you have requested;
+  * Kaboose needs to send the information to companies who work on behalf of Kaboose to provide a product or service to you;
+  * Kaboose responds to subpoenas, court orders or legal process; or
+  * Kaboose finds that your actions while using Kaboose services violate the Kaboose Terms of Use; or any of our usage guidelines for specific products or services.
 
 
-[Kids Home](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/kids.html) \- [Grownups Place](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/grown.html) \- [KD Review](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/review/) \- [Downloads](https://web.archive.org/web/20011211180812id_/http%3A//kidsdomain.com/down/)
 
-The Kids Domain - www.kidsdomain.com  
-© 2001 Kaboose Inc., All Rights Reserved  
-Kid's Domain and the Kid's Domain Logo are service marks of Kaboose Inc.  
-Send comments and suggestions to: [tigger@kidsdomain.com](mailto:tigger@kidsdomain.com)
+Kaboose may sometimes share "general" information about our site visitors with our advertisers, potential partners, or other third parties. This information will only be provided in the aggregate.
+
+LINKS
+
+The content of the Kaboose Network is designed for family use. In addition to our own content, we also provide links to software publishers and sites children may be interested in. We make every effort to link only to sites with content suitable for all ages, but in the end, we cannot be responsible for what appears on other sites. Additionally, we cannot be responsible for the privacy policies and information gathering practices of those other sites.
+
+SECURITY, REVIEW AND DELETION OF INFORMATION
+
+Kaboose uses industry standard security measures to protect against the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we try our best to make sure that your transmissions to and from the Site are kept secure. Information is kept secure. Only authorized Kaboose employees and its agents (who have agreed to keep information secure) have access to information and only to help Kaboose administer the site. The limited personally identifiable information collected from a child is password protected.
+
+You may request at any time that the information collected about your child be deleted. Parents may contact us at privacy@kaboose.com about reviewing or deleting the information collected. You may also use this email address to contact us about any questions you may have about this policy or our practices.
+
+CONTACTING US
+
+If you have any questions about this privacy statement, the practices of this site you can contact us at:
+
+Kaboose Inc.  
+505 University Avenue  
+Suite 1400  
+Toronto, ON  
+M5G 1X3  
+Canada
+
+To contact Kaboose by e-mail please [click here](javascript:openContactUs\(\);).  
+416-593-6489 
+
+Kaboose hopes this document answers your questions and concerns about our privacy policies. Protecting the privacy of our visitors is vitally important to us. When Kaboose makes any changes to its Privacy Statement, the updated Privacy Statement will be posted on this page. We encourage you to periodically review this Privacy Statement.
+
+© 2004 Kaboose Inc., All Rights Reserved
+
+Thanks for stopping by! We hope your visit to the Kaboose Network is fun, safe and enjoyable!
+
+Last updated: 12 July 2004
+
+  
+
