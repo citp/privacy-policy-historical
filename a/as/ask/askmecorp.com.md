@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askmecorp.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205191600id_/http%3A//www.askmecorp.com/privacy.asp%3Fsi1%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmecorp.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405023644id_/http%3A//www.askmecorp.com/privacy.asp%3Fsi1%3D2) for the most accurate reproduction.*
 
-# AskMeCorp
+# Welcome to Askme Corporation
 
 Our postal address is:   
 AskMe Corporation  
