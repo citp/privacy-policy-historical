@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163405id_/http%3A//fox40.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207042528id_/http%3A//fox40.trb.com/go/services/privacy) for the most accurate reproduction.*
 
 # FOX40 KTXL | Privacy Policy
 
