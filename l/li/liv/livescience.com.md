@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescience.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204104832id_/http%3A//www.imaginova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescience.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403222443id_/http%3A//www.imaginova.com/privacy) for the most accurate reproduction.*
 
 # Imaginova: About Us: History
 
@@ -8,7 +8,7 @@ Privacy Statement
 
 **
 
-Welcome to the Imaginova Corp. ("Imaginova") web properties, including the web sites Space.com, StarryNight.com, LiveScience.com, SpaceNews.com, and Imaginova.com (the "Sites") all of which are owned and operated by Imaginova. Imaginova has created this Privacy Statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Sites. This Statement applies only to information collected through the Sites and not to information collected offline or through other web sites owned or operated by Imaginova. 
+Welcome to the Imaginova Corp. ("Imaginova") web properties, including the web sites Space.com, StarryNight.com, LiveScience.com, Telescope.com, SpaceNews.com, and Imaginova.com (the "Sites") all of which are owned and operated by Imaginova. Imaginova has created this Privacy Statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Sites. This Statement applies only to information collected through the Sites and not to information collected offline or through other web sites owned or operated by Imaginova. 
 
 **
 
