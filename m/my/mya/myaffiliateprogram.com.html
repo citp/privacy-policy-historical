@@ -1,858 +1,531 @@
-<!--The following is the downloaded HTML source of the myaffiliateprogram.com privacy policy that was archived on 2003-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030607104426id_/http%3A//www.myaffiliateprogram.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myaffiliateprogram.com privacy policy that was archived on 2003-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031210235645id_/http%3A//myaffiliateprogram.com/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
-	<title>My Affiliate Program Software</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>My Affiliate Program – Privacy Policy</title>
 
-<script language="JavaScript">
+
+<meta name="robots" content="index,follow">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+<link href="myap_01.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="http://www.myaffiliateprogram.com/referdetect.js"></script>
+<script language="Javascript">
 <!--
-window.name = "window1";
-function unpop(name){
-close(window);
+
+aOff=new Image();
+aOff.src='http://www.kowabunga.com/hotbar/nv_myap_up.gif';
+aOn=new Image();
+aOn.src='http://www.kowabunga.com/hotbar/nv_myap_ov.gif';
+
+bOff=new Image();
+bOff.src='http://www.kowabunga.com/hotbar/nv_myaff_up.gif';
+bOn=new Image();
+bOn.src='http://www.kowabunga.com/hotbar/nv_myaff_ov.gif';
+
+cOff=new Image();
+cOff.src='http://www.kowabunga.com/hotbar/nv_affc_up.gif';
+cOn=new Image();
+cOn.src='http://www.kowabunga.com/hotbar/nv_affc_ov.gif';
+
+dOff=new Image();
+dOff.src='http://www.kowabunga.com/hotbar/nv_webr_up.gif';
+dOn=new Image();
+dOn.src='http://www.kowabunga.com/hotbar/nv_webr_ov.gif';
+
+eOff=new Image();
+eOff.src='http://www.kowabunga.com/hotbar/nv_kowa_up.gif';
+eOn=new Image();
+eOn.src='http://www.kowabunga.com/hotbar/nv_kowa_ov.gif';
+
+fOff=new Image();
+fOff.src='http://www.kowabunga.com/hotbar/nv_optin_up.gif';
+fOn=new Image();
+fOn.src='http://www.kowabunga.com/hotbar/nv_optin_ov.gif';
+
+gOff=new Image();
+gOff.src='http://www.kowabunga.com/hotbar/nv_team_up.gif';
+gOn=new Image();
+gOn.src='http://www.kowabunga.com/hotbar/nv_team_ov.gif';
+
+hOff=new Image();
+hOff.src='http://www.kowabunga.com/hotbar/nv_taff_up.gif';
+hOn=new Image();
+hOn.src='http://www.kowabunga.com/hotbar/nv_taff_ov.gif';
+
+function openInter(type)
+{
+	if (document.getElementById)
+	if(type=='on')
+		document.getElementById("idd").style.visibility="visible"; 
+			else document.getElementById("idd").style.visibility="hidden";
+
+	return false;
 }
 
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
+function changeImg(src,identifier)
+{
+	eval('document.'+identifier+'.src='+src+'.src;');
 }
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-function P7_JumpMenu(selObj,restore){ //v0.5 by GozoStudios
-	var theFullString = selObj.options[selObj.selectedIndex].value;
-	if (restore) selObj.selectedIndex=0;
-	var theLength = theFullString.length;
-	var endPos = theFullString.lastIndexOf("~");
-	var theUrl, theTarget, theParent;
-	if (endPos > 0) {theUrl = theFullString.substring(0,endPos);}
-	else {theUrl = theFullString;}
-	endPos++
-	if (endPos < theLength) {theTarget = theFullString.substring(endPos,theLength)}
-	else {theTarget = "window:Main";}
-	if (theTarget == "window:New") {window.open(theUrl);}
-	else if (theTarget == "window:Main") {eval("parent.location='"+theUrl+"'");}
-	else {eval("parent.frames[\'"+theTarget+"\'].location='"+theUrl+"'");}
-	}
 
 //-->
-</script>
-<style type="text/css">
-<!--
-p, ul, div, td {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	color: #333333;
-	text-decoration: none;
-}
-a.table-head:visited {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #ffffff;
-	text-decoration: underline;
-}
-a.table-head:link {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #ffffff;
-	text-decoration: underline;
-}
-a.table-head:hover {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #ffffff;
-	text-decoration: none;
-}
-a.table-head:active {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #ffffff;
-	text-decoration: underline;
-}
-a:visited {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #518586;
-	text-decoration: underline;
-}
-a:link {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #518586;
-	text-decoration: underline;
-}
-a:hover {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #BF2022;
-	text-decoration: none;
-}
-a:active {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #518586;
-	text-decoration: underline;
-}
-.bold-red {
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: 700;
-	color: #990000;
-}
-.bold-white {
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: 700;
-	color: #FFFFFF;
-}	
-.headline-dark {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 17px;
-	font-weight: bold;
-	color: #FF8808;
-}
-.headline-manji {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	font-weight: bold;
-	color: #FF8808;
-}
-.headline-red {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 17px;
-	font-weight: 700;
-	color: #990000;
-}
-.headline-white {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 17px;
-	font-weight: 700;
-	color: #FFFFFF;
-}
-.headline-yellow {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 17px;
-	font-weight: 700;
-	color: #FFCC00;
-}
-.subhead-dark {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: 700;
-	color: #2A4445;
-}
-.subscript {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 10px;
-	font-weight: normal;
-	color: #000000;
-}
-.headline-tan {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 17px;
-	font-weight: 700;
-	color: #B9A283;
-}
-.box-header-green {
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: #667A7C;
-	text-align: left;
-	vertical-align: middle;
-}
-.box-body-grey {
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: #F0F0F0;
-	text-align: left;
-	vertical-align: top;
-}
-.masthead-01 {
-	font-family: Arial, Helvetica, sans-serif;
-	border-color: #CCCCCC #333333 #333333 #CCCCCC;
-	border-style: solid;
-	border-top-width: 1px;
-	border-right-width: 1px;
-	border-bottom-width: 2px;
-	border-left-width: 1px;
-}
-.subhead-red {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-weight: normal;
-	color: #ff0000;
-}
-.subhead-redbold {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	font-weight: 700;
-	color: #990000;
-}
-.subhead-tan {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: 700;
-	color: #BF2022;
-}
-.subhead-white {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	font-weight: 700;
-	color: #FFFFFF;
-}
-.bold-dark {
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: bold;
-	color: #000000;
-}
-.body-white {
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: normal;
-	color: #FFFFFF;
-}
-.box-body-grey-slim {
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: #F0F0F0;
-	padding: 2px;
-	text-align: left;
-	vertical-align: top;
-}
-.box-header-dark-slim {
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: #3E434B;
-	text-align: left;
-	vertical-align: middle;
-}
-.butt-standard {
-	font-size: 11px;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	background-color: #CCCCCC;
-	color: #000000;
-}
-.butt-text-field {
-	background-image: url(images/form_bkg1.gif);
-	background-repeat: no-repeat;
-	background-color: #FFFFFF;
-}
-.box-body-clear {
-	font-family: Arial, Helvetica, sans-serif;
-	text-align: left;
-	vertical-align: top;
-}
-.box-body-clear-slim {
-	font-family: Arial, Helvetica, sans-serif;
-	text-align: left;
-	vertical-align: top;
-}
-.form-small-normal {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #000000;
-	font-size: 11px;
-	font-weight: normal;
-}
-.form-small-bold {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #000000;
-	font-size: 11px;
-	font-weight: 700;
-}
-.form-small-redbold {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #FF0000;
-	font-size: 11px;
-	font-weight: 700;
-}
--->
-</style>
-</head>
+</script></head>
 
-<body bgcolor="#222529" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images/software_over.gif','images/options_over.gif','images/services_over.gif','images/pricing_over.gif','images/tour_over.gif','images/tech_specs_over.gif','images/clients_over.gif','images/click_to_order_over.gif')">
 
-<table width="757" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-	<td background="images/top_bg.gif" width="757">
-		<div align="center"><img src="images/dot.gif" width="757" height="9" alt="" border="0"></div>
-	</td>
-	</tr>
-	<tr>
-	<td width="757" bgcolor="#23262A">
-		<table width="757" cellpadding="0" cellspacing="0" border="0" align="left" background="">
-			<form action="http://www.myaffiliateprogram.com/logadmin.asp" method="post"></form>
-			<tbody><tr>
-			<td width="188">
-				<div align="center"><a href="index.asp"><img src="images/logo.gif" width="188" height="59" alt="" border="0"></a></div>
-			</td>
-			<td width="125" align="center" background="images/first_form_bg.gif">
-				<div align="center"><font style="font-size:11px; font-family:Geneva, Arial, Helvetica, sans-serif;"><input type="text" name="username" size="12"></font></div>
-			</td>
-			<td width="129" align="center" background="images/second_form_bg.gif">
-				<div align="center"><font style="font-size:11px; font-family:Geneva, Arial, Helvetica, sans-serif;"><input type="password" name="password" size="10"></font></div>
-			</td>
-			<td width="58" align="center" background="images/sign_in_bg.gif">
-				<div align="center"><input type="image" onclick="submit" value="sign_in" src="images/sign_in.gif" border="0" name="sign_in" width="50" height="13"></div>
-			</td>
-			<td width="46">
-				<div align="center"><img src="images/sign_in_2.gif" width="46" height="59" alt="" border="0"></div>
-			</td>
-			<td width="211" align="left" background="images/drop_down_bg.gif">
-				<div align="left">
-					<select name="menu1" onchange="P7_JumpMenu(this,0)">
-					<option value="~">Please Select</option>
-					<option>---SOFTWARE---</option>
-					<option value="categorization.asp~">Categorization</option>
-					<option value="catpromo.asp~">Timed Promotions</option>
-					<option value="domain.asp~">Private Domain</option>
-					<option value="override.asp~">Override</option>
-					<option value="optinpro.asp~">Opt-In Pro</option>
-					<option value="selfrep.asp~">Self Replicating Pages</option>
-					<option>---TECH SPECS---</option>
-					<option value="receiptpage.asp~">Shopping Cart</option>
-					<option value="youtrack.asp~">You Track</option>
-					<option value="postforms.asp~">Simple Orders</option>
-					<option value="youtrack.asp~">Offline Orders</option>
-					<option value="yourlink.asp~">Your Link</option>
-					<option>---ORDERING INFO---</option>
-					<option value="order.asp~">Order</option>
-					<option value="eula.asp~">Terms of Service</option>
-					<option value="emaileula.asp~">Email Terms of Service</option>
-					<option value="eula.asp~">Advanced Accounts</option>
-					<option>---CUSTOMER FORMS---</option>
-					<option value="http://www.myaffiliateprogram.com/customrequest.asp~">Custom Request Form</option>
-					<option value="http://www.myaffiliateprogram.com/srp.asp~">Self Replicating Pages Form</option>
-					<option value="http://www.myaffiliateprogram.com/changebillingform.asp~">Change Billing Form</option>
-					<option value="http://www.myaffiliateprogram.com/orderdomain.asp~">Custom Domain Form</option>
-					<option value="http://www.myaffiliateprogram.com/emailmarkorder.asp~">Opt-In Pro Form</option>
-					</select>
-				</div>
-			</td>
-			</tr>
-			
-		</tbody></table>
-	</td>
-	</tr>
-	<tr>
-	<td background="images/head_end.gif" width="757">
-		<div align="center"><img src="images/dot.gif" width="757" height="9" alt="" border="0"></div>
-	</td>
-	</tr>
+
+<body bgcolor="#FFFFFF" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody><tr> 
+    <td width="50%" align="left" background="http://www.kowabunga.com/hotbar/bkg_01.gif" bgcolor="#333333"><img src="http://www.kowabunga.com/hotbar/lgo_bar_01.gif"></td>
+    <td width="50%" align="right" background="http://www.kowabunga.com/hotbar/bkg_01.gif" bgcolor="#333333"><a href="#" onmouseover="openInter('on');"><img src="http://www.kowabunga.com/hotbar/nv_aamain.gif" border="0" width="327" height="25" name="iddimage" alt=""></a></td>
+</tr>
 </tbody></table>
-<!-- end head table -->
 
-<!-- second table -->
-<table width="757" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
-	<tbody><tr>
-	<td width="524" valign="top">
-		<table width="524" cellpadding="0" cellspacing="0" border="0" align="center">
-			<tbody><tr>
-			<td width="524"><div align="center"><img src="images/top_iznad_menija.gif" width="524" height="11" alt="" border="0"></div></td>
-			</tr>
-			
-			<!-- start meni -->
-			<tr><td width="524" bgcolor="#476C65">
-				<table width="524" cellpadding="0" cellspacing="0" border="0" align="center">
-					<tbody><tr>
-					<td width="17"><div align="center"><img src="images/dot.gif" width="17" height="1" alt="" border="0"></div></td>
-					<td width="49"><div align="center"><a href="features.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image47','','images/software_over.gif',1)"><img src="images/software.gif" name="Image47" width="49" height="7" border="0"></a></div></td>
-					<td width="31"><div align="center"><img src="images/dot.gif" width="31" height="1" alt="" border="0"></div></td>
-					<td width="37"><div align="center"><a href="options.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image46','','images/options_over.gif',1)"><img src="images/options.gif" name="Image46" width="37" height="7" border="0"></a></div></td>
-					<td width="31"><div align="center"><img src="images/dot.gif" width="31" height="1" alt="" border="0"></div></td>
-					<td width="43"><div align="center"><a href="services.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image48','','images/services_over.gif',1)"><img src="images/services.gif" name="Image48" width="43" height="7" border="0"></a></div></td>
-					<td width="25"><div align="center"><img src="images/dot.gif" width="25" height="1" alt="" border="0"></div></td>
-					<td width="33"><div align="center"><a href="pricing.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image49','','images/pricing_over.gif',1)"><img src="images/pricing.gif" name="Image49" width="33" height="7" border="0"></a></div></td>
-					<td width="25"><div align="center"><img src="images/dot.gif" width="25" height="1" alt="" border="0"></div></td>
-					<td width="23"><div align="center"><a href="tour.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image50','','images/tour_over.gif',1)"><img src="images/tour.gif" name="Image50" width="23" height="7" border="0"></a></div></td>
-					<td width="28"><div align="center"><img src="images/dot.gif" width="28" height="1" alt="" border="0"></div></td>
-					<td width="56"><div align="center"><a href="techspecs.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image51','','images/tech_specs_over.gif',1)"><img src="images/tech_specs.gif" name="Image51" width="56" height="7" border="0"></a></div></td>
-					<td width="28"><div align="center"><img src="images/dot.gif" width="28" height="1" alt="" border="0"></div></td>
-					<td width="36"><div align="center"><a href="clients.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image52','','images/clients_over.gif',1)"><img src="images/clients.gif" name="Image52" width="36" height="7" border="0"></a></div></td>
-					<td width="62"><div align="center"><img src="images/dot.gif" width="62" height="1" alt="" border="0"></div></td>
-					</tr>
-				</tbody></table>
-			</td>
-			<!-- end meni -->
-			
-			</tr><tr>
-			<td width="524"><div align="center"><img src="images/top_ispod_menija.gif" width="524" height="22" alt="" border="0"></div></td>
-			</tr>
-			<tr>
-			
-			<!-- naslovna slika -->
-			<td width="524">
-				<table width="524" cellpadding="0" cellspacing="0" border="0" align="center">
-					<tbody><tr>
-					<td width="130"><div align="center"><img src="images/header_1_small.jpg" width="130" height="98" alt="" border="0"></div></td>
-					<td width="394"><div align="center"><img src="images/header_1_small.gif" width="394" height="98" alt="" border="0"></div></td>
-					</tr>
-				</tbody></table>
-			</td>
-			<!-- end naslovna slika -->
-			
-			</tr>
-		</tbody></table>
+<div id="idd" style="position: absolute; top:0; z-index: 1000; visibility: hidden;">
+<table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="100%" align="right"><table width="213" bgcolor="#333333" cellpadding="0" cellspacing="0" border="0">
 
-<!-- left side contents goes here -->
-<p>
-	<table width="524" cellpadding="0" cellspacing="0" border="0" align="center">
-		<tbody><tr>
-		<td width="24"><div align="center"><img src="images/dot.gif" width="24" height="1" alt="" border="0"></div></td>
-		<td>
-			<!-- tabela sa sadrzajem -->
-			<table width="500" cellpadding="0" cellspacing="0" border="0" align="center">
-				
-				<tbody><tr>
-				<td valign="top">
-				<table width="500" cellpadding="0" cellspacing="0" border="0" align="center">
-					<tbody><tr>
-					<td width="418" valign="top">
-					<div class="headline-dark" align="left">My Affiliate Program™ Privacy Statement</div>
-					</td>
-					<td width="2"><img src="images/dot.gif" width="2" height="1" alt="" border="0"></td>
-					<td width="80"><img src="images/small_general.gif" width="80" height="82" alt="" border="0"></td>
-					</tr>
-				</tbody></table>
-				<!-- main content -->
-				<p align="justify">
-				Read our Confidentiality Statement by <span class="bold-dark"><a href="confidentiality.asp">clicking here</a></span>. (Our Confidentiality Statement outlines our policies when interacting with our Clients' Files) 
-				</p><p align="justify">
-				<span class="subhead-tan">Privacy Statement for KowaBunga! Technologies<br>
-				We respect you and we hold your personal information private.</span>
-      			</p><p align="justify">
-				KowaBunga! Technologies has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Myaffiliateprogram.com 
-				</p><p align="justify">
-				<span class="subhead-tan">We never disclose your personal information to any third party.</span> 
-				</p><p align="justify">
-				We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
-				</p><p align="justify">
-				Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
-				</p><p align="justify">
-				Our site's registration form requires users to give us contact information (like their name and email address) and unique identifiers (like their social security number). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as social security numbers) are collected for use as account numbers in our record system. 
-				</p><p align="justify">
-				Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. 
-				</p><p align="justify">
-				<span class="bold-dark">Public Forums</span><br>
-        		This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-				</p><p align="justify"> <span class="bold-dark">Security</span><br>
-				This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-				</p><p>
-				<span class="bold-dark">WebTrends Live</span><br>
-				WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please <a href="http://www.webtrendslive.com/wtl_system/privacy_policy.htm">click here </a>
-				</p>
-				<p align="justify"><span class="bold-dark">Choice/Opt-Out</span><br>
-				We do not provide your personal information, including email address, to any third party. </p><p align="justify"> You will only receive communications from KowaBunga! Technologies. 
-				</p><p align="justify">
-				This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-				</p><p align="justify">
-				You can send email to <span class="bold-dark"><a href="mailto:rachel@kowabunga.net">rachel@kowabunga.net</a></span>
-				</p><p align="justify">
-				<span class="bold-dark">Correct/Update</span><br>
-				This site gives users the following options for changing and modifying information previously provided. 
-				</p><p align="justify"> You can send email to <span class="bold-dark"><a href="mailto:rachel@kowabunga.net">rachel@kowabunga.net</a></span> 
-				</p><p align="justify"> <span class="bold-dark">Contacting the Web Site</span><br>
-				If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-				</p><p align="justify"> Rachel Honoway<br>
-				KowaBunga! Technologies<br>
-				962 Newburgh Rd<br>
-				Westland, MI 48185<br>
-				<span class="bold-dark"><a href="mailto:rachel@kowabunga.net">rachel@kowabunga.net</a></span>
-				</p>
-				<table align="center">
-					<tbody><tr>
-						<td>
-						<div align="center"><span class="bold-dark"><a href="javascript:history.go(-1);">Back</a></span></div>		
-						</td>
-					</tr>
-				</tbody></table>
-				<br><br>
-				</td>
-				</tr>
-			</tbody></table>
-			<!-- kraj tabele sa sadrzajem -->
-		</td>
-		</tr>
-	</tbody></table>
-</p>		
-<!-- end left side contents -->
-
-	</td><td valign="top" width="6"><div align="center"><img src="images/uska_top.gif" width="6" height="52" alt="" border="0"></div></td>
-	
-	<!-- desni dio -->
-	<td valign="top" width="227">
-
-		<!-- buttons table -->
-		<table width="227" cellpadding="0" cellspacing="0" border="0" align="center">
-			<tbody><tr>
-			<td width="25"><div align="center"><img src="images/right_1.gif" width="25" height="82" alt="" border="0"></div></td>
-			<td width="27">
-				<table width="27" cellpadding="0" cellspacing="0" border="0" align="center">
-					<tbody><tr>
-					<td width="27"><div align="center"><img src="images/above_button_1.gif" width="27" height="12" alt="" border="0"></div></td>
-					</tr>
-					<tr>
-					<td width="27"><div align="center"><a href="index.asp"><img src="images/button_1.gif" width="27" height="27" alt="" border="0"></a></div></td>
-					</tr>
-					<tr>
-					<td width="27"><div align="center"><img src="images/below_button_1.gif" width="27" height="43" alt="" border="0"></div></td>
-					</tr>
-				</tbody></table>
-			</td>
-			<td width="12"><div align="center"><img src="images/right_2.gif" width="12" height="82" alt="" border="0"></div></td>
-			<td width="27">
-				<table width="27" cellpadding="0" cellspacing="0" border="0" align="center">
-					<tbody><tr>
-					<td width="27"><div align="center"><img src="images/above_button_2.gif" width="27" height="23" alt="" border="0"></div></td>
-					</tr>
-					<tr>
-					<td width="27"><div align="center"><a href="contactus.asp"><img src="images/button_2.gif" width="27" height="27" alt="" border="0"></a></div></td>
-					</tr>
-					<tr>
-					<td width="27"><div align="center"><img src="images/below_button_2.gif" width="27" height="32" alt="" border="0"></div></td>
-					</tr>
-				</tbody></table>
-			</td>
-			<td width="8"><div align="center"><img src="images/right_3.gif" width="8" height="82" alt="" border="0"></div></td>
-			<td width="28">
-				<table width="28" cellpadding="0" cellspacing="0" border="0" align="center">
-					<tbody><tr>
-					<td width="28"><div align="center"><img src="images/above_button_3.gif" width="28" height="37" alt="" border="0"></div></td>
-					</tr>
-					<tr>
-					<td width="28"><div align="center"><a href="joinour.asp"><img src="images/button_3.gif" width="28" height="27" alt="" border="0"></a></div></td>
-					</tr>
-					<tr>
-					<td width="28"><div align="center"><img src="images/below_button_3.gif" width="28" height="18" alt="" border="0"></div></td>
-					</tr>
-				</tbody></table>
-			</td>
-			<td width="5"><div align="center"><img src="images/right_4.gif" width="5" height="82" alt="" border="0"></div></td>
-			<td width="27">
-				<table width="27" cellpadding="0" cellspacing="0" border="0" align="center">
-					<tbody><tr>
-					<td width="27"><div align="center"><img src="images/above_button_4.gif" width="27" height="55" alt="" border="0"></div></td>
-					</tr>
-					<tr>
-					<td width="27"><div align="center"><a href="testimonials.asp"><img src="images/button_4.gif" width="27" height="27" alt="" border="0"></a></div></td>
-					</tr>
-				</tbody></table>
-			</td>
-			<td width="68"><div align="center"><img src="images/right_5.gif" width="68" height="82" alt="" border="0"></div></td>
-			</tr>
-		</tbody></table>
-		<!-- end buttons table -->
-
-		<!-- click to order -->
-		<table width="227" cellpadding="0" cellspacing="0" border="0" align="center">
-			<tbody><tr>
-			<td width="20"><div align="center"><img src="images/below_buttons_left.gif" width="20" height="45" alt="" border="0"></div></td>
-			<td width="118"><div align="center"><a href="order.asp"><img src="images/below_buttons.gif" width="118" height="45" alt="" border="0"></a></div></td>
-			<td width="89"><div align="center"><img src="images/below_buttons_right.gif" width="89" height="45" alt="" border="0"></div></td>
-			</tr>
-		</tbody></table>
-		<table width="227" cellpadding="0" cellspacing="0" border="0" align="center">
-			<tbody><tr>
-			<td width="26"><div align="center"><img src="images/click_to_order_left.gif" width="26" height="8" alt="" border="0"></div></td>
-			<td width="151"><div align="center"><a href="order.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image53','','images/click_to_order_over.gif',1)"><img src="images/click_to_order.gif" name="Image53" width="151" height="8" border="0"></a></div></td>
-			<td width="50"><div align="center"><img src="images/click_to_order_right.gif" width="50" height="8" alt="" border="0"></div></td>
-			</tr>
-			<tr><td colspan="3"><div align="center"><img src="images/click_to_order_below.gif" width="227" height="13" alt="" border="0"></div></td>
-		</tr></tbody></table>
-		<!-- end click to order -->
-
-<!-- right side contents -->
-
-<div align="center"><img src="images/dot.gif" width="1" height="5" alt="" border="0"></div>
-
-<table width="227" cellpadding="0" cellspacing="0" border="0" align="center">
 <tbody><tr>
-<td width="18"><div align="center"><img src="images/dot.gif" width="18" height="1" alt="" border="0"></div></td>
-<td width="191">
-<!-- start features -->
-<div align="center">
-	<table width="191" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-		<td class="box-header-green" width="16" align="left"><div align="center"><img src="images/tbl_01a_left.gif" width="16" height="20" alt="" border="0"></div></td>
-		<td class="box-header-green" width="159"><div align="center" class="bold-white">SOFTWARE</div></td>
-		<td class="box-header-green" width="16" align="right"><div align="center"><img src="images/tbl_01a_right.gif" width="16" height="20" alt="" border="0"></div></td>
-		</tr>
-	</tbody></table>
-	<table width="191" cellpadding="0" cellspacing="0" border="0" align="center">
-		<tbody><tr>
-		<td class="box-header-green" width="1"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		<td class="box-body-grey" width="189">
-			<table width="100%" cellpadding="8" cellspacing="0" border="0" align="center">
-				<tbody><tr>
-				<td>
-				<div><font color="red">»</font> <a href="flex.asp">Flexibility</a></div>
-				<div><font color="red">»</font> <a href="selfserveaff.asp">Affiliate Administration</a></div>
-				
-              <div><font color="red">»</font> <a href="repmanage.asp">Reporting 
-                &amp; Management</a><font color="red"><br>
-                »</font> <a href="salesactivities.asp">Sale &amp; Activity Management</a></div>
-				<div><font color="red">»</font> <a href="paying.asp">Paying Your Affiliates</a></div>
-				<div><font color="red">»</font> <a href="affcommunicate.asp">Affiliate Communication</a></div>
-				
-              <div><font color="red">»</font> <a href="affrecruit.asp">Recruiting 
-                Affiliates</a><br>
-                <font color="red">»</font> <a href="transhistory.asp">Transaction 
-                History</a> <br>
-                <font color="red">»</font> <a href="supertrack.asp">Super Track 
-                Sub-ID's</a> </div>
-				<div><font color="red">»</font> <a href="catpromo.asp">Categorization &amp; Promotion</a></div>
-				
-              <div><font color="red">»</font> <a href="unlimitedlinks.asp">Unlimited 
-                Marketing Material</a><br>
-                <font color="red">»</font> <a href="zoom.asp">Zoom Stats</a> 
-              </div>
-				<div><font color="red">»</font> <a href="optinpro.asp">Opt-In Pro</a></div>
-				<div><font color="red">»</font> <a href="integrate.asp">Integration</a></div>
-				
-              <div><font color="red">»</font> <a href="extras.asp">Extras</a><font color="red"><br>
-                »</font> <a href="enterprise.asp">Enterprise Version</a></div>
-				<div><font color="red">»</font> <a href="faqs.asp">FAQ's</a></div>
-				</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="1" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-		<tr>
-		<td colspan="3" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-	</tbody></table>
-</div>
-<!-- end features -->
+            <td><a href="#" onmouseout="openInter('off')"><img src="http://www.kowabunga.com/hotbar/nv_aamain.gif" border="0" width="327" height="25" alt=""></a></td>
+          </tr>
 
-<div align="center"><img src="images/dot.gif" width="1" height="5" alt="" border="0"></div>
+<tr>
+            <td><a href="http://www.myap.com" onmouseover="openInter('on'); document.a.src=aOn.src;" onmouseout="openInter('off'); document.a.src=aOff.src;"><img src="http://www.kowabunga.com/hotbar/nv_myap_up.gif" border="0" width="327" height="21" name="a" alt=""></a></td>
+          </tr>
+
+<tr>
+            <td><a href="http://www.myaffstats.com" onmouseover="openInter('on'); document.b.src=bOn.src;" onmouseout="openInter('off'); document.b.src=bOff.src;"><img src="http://www.kowabunga.com/hotbar/nv_myaff_up.gif" border="0" width="327" height="21" name="b" alt=""></a></td>
+          </tr>
+
+<tr>
+            <td><a href="http://www.affiliatecash.com" onmouseover="openInter('on'); document.c.src=cOn.src;" onmouseout="openInter('off'); document.c.src=cOff.src;"><img src="http://www.kowabunga.com/hotbar/nv_affc_up.gif" border="0" width="327" height="21" name="c" alt=""></a></td>
+          </tr>
 
 
-<!-- start features -->
-<div align="center">
-	<table width="191" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-		<td class="box-header-green" width="16" align="left"><div align="center"><img src="images/tbl_01a_left.gif" width="16" height="20" alt="" border="0"></div></td>
-		<td class="box-header-green" width="159"><div align="center" class="bold-white">OPTIONAL FEATURES</div></td>
-		<td class="box-header-green" width="16" align="right"><div align="center"><img src="images/tbl_01a_right.gif" width="16" height="20" alt="" border="0"></div></td>
-		</tr>
-	</tbody></table>
-	<table width="191" cellpadding="0" cellspacing="0" border="0" align="center">
-		<tbody><tr>
-		<td class="box-header-green" width="1"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		<td class="box-body-grey" width="189">
-			<table width="100%" cellpadding="8" cellspacing="0" border="0" align="center">
-				<tbody><tr>
-				<td height="117">
-				<div><font color="red">»</font> <a href="domain.asp">Private Domain</a></div>
-				
-              <div></div>
-				<div><font color="red">»</font> <a href="selfrep.asp">Self Rep Pages</a></div>
-				
-              <div><font color="red">»</font> <a href="referdetect.asp">Refer Detect</a></div>
-				
-              <div></div>
-				
-              <div><font color="red">»</font> <a href="ppctrack.asp">PPC Track</a><br>
-                <div><font color="red">»</font> <a href="linknitro.asp">Link Nitro</a></div>
-              </div>
-				
-              <div></div>
-				
-              <div></div>
-				
-              <div><font color="red">»</font> <a href="myaffstats.asp">MyAffStats</a></div>
-				
-              <div></div>
-				</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="1" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-		<tr>
-		<td height="2" colspan="3" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-	</tbody></table>
-</div>
-<!-- end features -->
 
-<div align="center"><img src="images/dot.gif" width="1" height="5" alt="" border="0"></div>
+<tr>
+            <td><a href="http://www.kowabunga.com" onmouseover="openInter('on'); document.e.src=eOn.src;" onmouseout="openInter('off'); document.e.src=eOff.src;"><img src="http://www.kowabunga.com/hotbar/nv_kowa_up.gif" border="0" width="327" height="21" name="e" alt=""></a></td>
+          </tr>
 
+<tr>
+            <td><a href="http://www.optinpro.com/" onmouseover="openInter('on'); document.f.src=fOn.src;" onmouseout="openInter('off'); document.f.src=fOff.src"><img src="http://www.kowabunga.com/hotbar/nv_optin_up.gif" border="0" width="327" height="21" name="f" alt=""></a></td>
+          </tr>
 
-<!-- start features -->
-<div align="center">
-	<table width="191" cellpadding="0" cellspacing="0" border="0" align="center">
-		<tbody><tr>
-		<td colspan="3" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-		<tr>
-		<td class="box-header-green" width="1"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		<td class="box-body-clear" width="189">
-			<table width="100%" cellpadding="3" cellspacing="0" border="0" align="center">
-				<tbody><tr>
-				<td valign="top" width="67">
-					<div align="center">
-					<a href="javascript:;" onmousedown="MM_openBrWindow('popup.htm','bookzoom','scrollbars=yes,width=366,height=510')">
-						<img src="images/email.gif" width="67" height="55" alt="" border="0">
-					</a>
-					</div>
-				</td>
-				<td width="122">
-					<div align="center">
-						Email me the features!
-					</div>
-					<div align="center">
-					<span class="bold-dark"><a href="javascript:;" onmousedown="MM_openBrWindow('popup.htm','bookzoom','scrollbars=yes,width=366,height=510')">click here</a></span>
-					</div>
-				</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="1" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-		<tr>
-		<td colspan="3" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-	</tbody></table>
-</div>
-<!-- end features -->
+<tr>
+            <td><a href="http://www.teamaffiliate.com" onmouseover="openInter('on'); document.g.src=gOn.src;" onmouseout="openInter('off'); document.g.src=gOff.src"><img src="http://www.kowabunga.com/hotbar/nv_team_up.gif" border="0" width="327" height="21" name="g" alt=""></a></td>
+          </tr>
 
-<div align="center"><img src="images/dot.gif" width="1" height="5" alt="" border="0"></div>
+<tr>
+            <td><a href="http://www.affiliate-net.net/index.asp" onmouseover="openInter('on'); document.h.src=hOn.src;" onmouseout="openInter('off'); document.h.src=hOff.src"><img src="http://www.kowabunga.com/hotbar/nv_taff_up.gif" border="0" width="327" height="21" name="h" alt=""></a></td>
+          </tr>
 
-
-<!-- start features -->
-<div align="center">
-	<table width="191" cellpadding="0" cellspacing="0" border="0" align="center">
-		<tbody><tr>
-		<td colspan="3" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-		<tr>
-		<td class="box-header-green" width="1"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		<td class="box-body-clear" width="189">
-			<table width="100%" cellpadding="3" cellspacing="0" border="0" align="center">
-				<tbody><tr>
-				<td valign="top" width="67">
-					<div align="center">
-					<a href="printfeatures.pdf">
-						<img src="images/printable.gif" width="67" height="55" alt="" border="0">
-					</a>
-					</div>
-				</td>
-				<td width="122">
-					<div align="center">
-						Printer-friendly version?
-					</div>
-					<div align="center">
-						<span class="bold-dark"><a href="printfeatures.pdf">click here</a></span>
-					</div>
-				</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="1" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-		<tr>
-		<td colspan="3" class="box-header-green"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-	</tbody></table>
-</div>
-<!-- end features -->
-
-<div align="center"><img src="images/dot.gif" width="1" height="5" alt="" border="0"></div>
-
-<!-- start join affiliate -->
-<div align="center">
-	<table width="191" cellpadding="0" cellspacing="0" border="0" align="center">
-		<tbody><tr>
-		<td class="box-header-green" colspan="3"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-		<tr>
-		<td class="box-header-green" width="1"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		<td class="box-body-clear" width="189">
-			<table width="100%" cellpadding="8" cellspacing="0" border="0" align="center">
-				<tbody><tr>
-				<td>
-					<div align="center"><img src="images/dot.gif" width="1" height="4" alt="" border="0"></div>
-					<div align="center"><span class="bold-dark">ONLINE HELP</span></div>
-					<div align="center"><img src="images/dot.gif" width="1" height="4" alt="" border="0"></div>
-					<div align="center"><a target="_blank" href="http://hc2.humanclick.com/hc/618227/?cmd=file&amp;file=visitorWantsToChat&amp;site=618227&amp;byhref=1"><img src="images/online_help.gif" width="152" height="37" alt="" border="0"></a></div>
-					<div align="center"><img src="images/dot.gif" width="1" height="2" alt="" border="0"></div>
-					<div align="center">Live Representatives standing by from 10am to 6pm EST,<br>Monday - Friday.</div>
-					<div align="center"><span class="bold-dark"><a target="_blank" href="http://hc2.humanclick.com/hc/618227/?cmd=file&amp;file=visitorWantsToChat&amp;site=618227&amp;byhref=1">click here</a></span></div>
-					<div align="center"><img src="images/dot.gif" width="1" height="5" alt="" border="0"></div>
-				</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td class="box-header-green" width="1"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-		<tr>
-		<td class="box-header-green" colspan="3"><div align="center"><img src="images/dot.gif" width="1" height="1" alt="" border="0"></div></td>
-		</tr>
-	</tbody></table>
-</div>
-<!-- end join affiliate -->
-
-<div align="center"><img src="images/dot.gif" width="1" height="5" alt="" border="0"></div>
-
-</td>
-<td width="18"><div align="center"><img src="images/dot.gif" width="18" height="1" alt="" border="0"></div></td>
-</tr>
 </tbody></table>
+</td></tr></tbody></table></div>
 
-<!-- end right side contents -->
-
-</td>
-<!-- end desni dio -->
-	
-</tr>
-</tbody></table>
-
-<table width="757" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-  <tbody><tr>
-    <td width="757">
-		<div align="center"><a href="sitemap.asp">Site Map</a> | <a href="privacy.asp">Privacy Statement</a> | <a href="confidentiality.asp">Confidentiality Statement</a> | <a href="guarantee.asp">Satisfaction Guarantee</a> | <a href="contactus.asp">Contact Us</a></div>
-		<div class="subscript" align="center">Copyright © 2001 - 2002 MyAffiliateProgram.com</div>
-		<br>
-
-Reference #: NA
-
-	</td>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="203"><a href="index.asp"><img src="images/lgo_myap_01.gif" alt="My Affiliate Program Software" width="203" height="95" border="0"></a></td>
+    <td width="15"><img src="images/key_vert.gif" width="15" height="56"></td>
+    <td width="338" align="center" class="b11">My Affiliate Program Privacy Policy.</td>
+    <td width="10"><img src="images/key_vert.gif" width="15" height="56"></td>
+    <td width="191"><a href="switchtomyap.asp"><img src="images/mast_switch_01.gif" alt="Save Money, Switch To MyAP" width="190" height="95" border="0"></a></td>
   </tr>
 </tbody></table>
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="218" valign="top"> 
+   		<!-- left side contents goes here -->
+			<table width="218" border="0" cellpadding="0" cellspacing="0">
 
-<!-- end second table -->
-<!--
-<script language=javascript>
-<!--
-var colordepth="unknown";
-var height="unknown";
-var width="unknown";
-if (1) {
-var height=screen.height;
-var width=screen.width;
-var colordepth=screen.colorDepth;
-}
-bnav = "IE5.0";
-var target = "http://www.myaffiliateprogram.com"; 
-var banner = "none"
+<tbody><tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="specials.asp" class="nav">Holiday Specials!</a></td>
+</tr>
 
-document.write('<img src="https://www.myaffiliateprogram.com/webcid2/log.asp?ban='+banner+'&nav='+bnav+'&domid=2&doc=http://www.myaffiliateprogram.com/v5.asp&clr='+colordepth+'&ht='+height+'&wd='+width+'&ref='+target+'" width=1 height=1 border=0>');
-// -->
-<!-- </script>
--->
-<script language="javascript" src="kowabunga.js"></script>
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://hc2.humanclick.com/hc/618227/x.js?cmd=file&amp;file=chatScript3&amp;site=618227&amp;category=en;corporate;1"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="myap_pro.asp" class="nav">MyAP Pro</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="myap_enterprise.asp" class="nav">MyAP Enterprise</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="pricing.asp" class="nav">Pricing</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tour.asp" class="nav">Quick Tour</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="demo.asp" class="nav">Request A Demo</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="order.asp" class="nav">Order Now!</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="modules.asp" class="nav">MyAP Modules</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="myap_technicalinformation.asp" class="nav">MyAP Technical Info</a></td>
+</tr>
+
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hc2.humanclick.com/hc/618227/?cmd=file&amp;file=visitorWantsToChat&amp;site=618227&amp;byhref=1" target="chat618227" onclick="javascript:window.open('http://hc2.humanclick.com/hc/618227/?cmd=file&amp;file=visitorWantsToChat&amp;site=618227&amp;referrer='+document.location,'chat618227','width=472,height=320');return false;" class="nav">Launch Live Help Window</a></td>
+</tr>
+
+<tr> 
+<td height="23"><br><center><a href="http://hc2.humanclick.com/hc/618227/?cmd=file&amp;file=visitorWantsToChat&amp;site=618227&amp;byhref=1" target="chat618227" onclick="javascript:window.open('http://hc2.humanclick.com/hc/618227/?cmd=file&amp;file=visitorWantsToChat&amp;site=618227&amp;referrer='+document.location,'chat618227','width=472,height=320');return false;"><img src="http://hc2.humanclick.com/hc/618227/?cmd=repstate&amp;site=618227&amp;imageUrl=http://www.myap.com/images&amp;ver=1" name="hcIcon" width="140" height="34" border="0" alt=""></a></center><br></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="services.asp" class="nav">Services &amp; Consulting</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="kbdifference.asp" class="nav">The KowaBunga! Difference</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="getmoreinformation.asp" class="nav">Get More Information</a></td>
+</tr>
+
+<tr> 
+<td height="23"><br></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="contactus.asp" class="nav">Contact Us</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="clients.asp" class="nav">Clients</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="testimonials.asp" class="nav">Testimonials</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="learnaffiliatemarketing.asp" class="nav">Learn Affiliate Marketing</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="switchtomyap.asp" class="nav">Switch To MyAP</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="about.asp" class="nav">About KowaBunga!</a></td>
+</tr>
+
+<tr> 
+<td height="23" background="images/mm_g.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.asp" class="nav">Home</a></td>
+</tr>
+
+<tr> 
+<td height="23">
+<br>
+
+<table width="176" border="0" cellspacing="0" cellpadding="0" align="center">
+
+<tbody><tr> 
+<td height="27" align="center" background="images/rsb_tbl_t2.gif" class="bbh">MyAP Merchants!</td>
+</tr>
+
+<tr> 
+<td background="images/rsb_tbl_bkg.gif" class="pad" align="center">
+<br>
+<b><font color="red">Want The Opportunity To Reach Super Affiliates for $25/Month?</font></b>
+<p class="b11">
+Read About <a href="modules_myaffstats.asp">MyAffStats</a>!
+<br>
+</p></td>
+</tr>
+
+<tr> 
+<td><img src="images/rsb_tbl_b.gif" width="176" height="10" alt=""></td>
+</tr>
+</tbody></table>
+
+<p>
+<br>
+</p></td>
+</tr>
+</tbody></table>
+       
+       	<!-- left side call to actions -->
+       	<center>
+<table width="176" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td height="27" align="center" background="images/rsb_tbl_t2.gif" class="bbh">
+FREE Newsletter!</td>
+</tr>
+
+<tr> 
+<td background="images/rsb_tbl_bkg.gif" class="pad" align="center">
+<br>
+<img src="images/images_enews.jpg" alt="">
+<p class="b11">
+<b><font color="red">KowaBunga! Extreme E-News</font></b> offers Affiliate marketing tips, tricks, expert guest articles and more!
+</p><p class="b11">
+<a href="http://www.kowabunga.com/newsletter.php" target="_blank">Sign Up Here</a>!
+<br>
+</p></td>
+</tr>
+
+<tr> 
+<td><img src="images/rsb_tbl_b.gif" width="176" height="10" alt=""></td>
+</tr>
+</tbody></table>
+</center>
+
+
+
+
+       	<br><br>
+       	<table width="176" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr> 
+<td height="27" align="center" background="images/rsb_tbl_t2.gif" class="bbh">
+SPECIAL OFFER!</td>
+</tr>
+<tr> 
+
+<td background="images/rsb_tbl_bkg.gif" class="pad" align="center">
+<br>
+<p class="b11"><b>The Complete Branding Package!
+<br>
+<font color="red">Save $200</font></b>
+<br>
+Only $1,543 and $100/month
+</p><p class="b11">
+Comes with:
+<br>
+<a href="myap_pro.asp">MyAP Pro</a><br>
+<a href="modules_referdetectlite.asp">ReferDetect Lite</a><br>
+<a href="modules_customdomains.asp">Private Domain</a><br>
+</p><p class="b11">
+<a href="specials.asp">View Details!</a>
+<br>
+</p></td>
+</tr>
+
+<tr> 
+<td><img src="images/rsb_tbl_b.gif" width="176" height="10" alt=""></td>
+</tr>
+</tbody></table>   	
+       	
+<!-- end left side content -->
+    </td>
+    
+    <!-- spacer cell -->
+    <td width="19">&nbsp;</td>
+    <!-- end spacer cell -->
+    
+    <!-- main content goes here -->
+    
+    <td width="513" valign="top">
+    
+	<table width="502" border="0" cellspacing="0" cellpadding="0">
+	
+	<!-- flash -->        
+<tbody><tr> 
+          <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="502" height="101">
+              <param name="movie" value="flash/woman_01a.swf">
+              <param name="quality" value="high"><param name="wmode" value="transparent">
+              <embed src="flash/woman_01a.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="502" height="101"></object></td>
+        </tr>
+        <tr> 
+          <td><img src="images/1.gif" width="1" height="5"></td>
+        </tr>
+        <tr> 
+          <td><img src="images/hdr_MyAP_about.gif" width="501" height="47"></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+    		<!-- breadcrumbs -->
+        <tr> 
+          <td align="right" class="b11"><a href="index.asp">Home</a>&nbsp;<span class="b11l">/</span>&nbsp;<a href="about.asp">About
+            Us</a>&nbsp;<span class="b11l">/</span>&nbsp;<a href="legal.asp">Legal Information</a>&nbsp;<span class="b11l">/</span>&nbsp;Privacy Policy&nbsp;<span class="b11l">/</span></td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table>
+      
+	<!-- content -->
+
+      <table width="502" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="312" valign="top"><p><span class="bb">KowaBunga! Legal Information</span></p><p>
+
+<b>Privacy Statement for KowaBunga! Technologies</b><br>
+
+
+      
+We respect you and we hold your personal information private. 
+</p><p>
+KowaBunga! Technologies has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Myaffiliateprogram.com 
+</p><p>
+We never disclose your personal information to any third party. 
+</p><p>
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
+</p><p>
+Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
+</p><p>
+Our site's registration form requires users to give us contact information (like their name and email address) and unique identifiers (like their social security number). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as social security numbers) are collected for use as account numbers in our record system. 
+</p><p>
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. 
+</p><p>
+Public Forums<br>
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+</p><p>
+Security<br>
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+</p><p>
+WebTrends Live<br>
+WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click here 
+</p><p>
+Choice/Opt-Out<br>
+We do not provide your personal information, including email address, to any third party. 
+</p><p>
+You will only receive communications from KowaBunga! Technologies. 
+</p><p>
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+</p><p>
+You can send email to rachel@kowabunga.net 
+</p><p>
+Correct/Update<br>
+This site gives users the following options for changing and modifying information previously provided. 
+</p><p>
+You can send email to rachel@kowabunga.net 
+</p><p>
+Contacting the Web Site<br>
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:</p><p>
+
+Rachel Honoway<br>
+KowaBunga! Technologies<br>
+962 Newburgh Rd<br>
+Westland, MI 48185<br>
+rachel@kowabunga.net 
+
+ 
+
+
+</p></td>
+
+
+<!-- right hand column -->
+
+
+          <td width="190" align="right" valign="top" border="1"> 
+           
+<table width="176" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td><img src="images/rsb_tbl_t.gif" width="176" height="10"></td>
+              </tr>
+              <tr> 
+
+
+<!-- secondary nav -->
+
+                <td background="images/rsb_tbl_bkg.gif" class="pad" align="left">
+                    <p class="b11">•&nbsp;<a href="privacy.asp">Privacy statement</a><br>
+•&nbsp;<a href="eula.asp">Eula</a><br>
+•&nbsp;<a href="confidence.asp">Confidentiality</a><br>
+&nbsp;&nbsp;<a href="confidence.asp">statement</a><br>
+•&nbsp;<a href="oip_tos.asp">Opt-In Pro</a><br>
+&nbsp;&nbsp;<a href="oip_tos.asp">terms of service</a><br></p></td>
+              </tr>
+              <tr> 
+                <td><img src="images/rsb_tbl_b.gif" width="176" height="10"></td>
+              </tr>
+</tbody></table>
+
+
+ 
+
+<br>
+<table>
+<tbody><tr> 
+<td align="center" valign="top"><a href="order.asp"><img src="images/button_ordermyap.gif" alt="Order My Affiliate Program Software Today!" width="176" height="97" border="0"></a>
+</td>
+</tr>
+</tbody></table>
+
+<br>
+
+       	 <table width="176" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td height="27" align="center" background="images/rsb_tbl_t2.gif" class="bbh">
+Our Clients Say...
+</td>
+</tr>
+<tr> 
+<td background="images/rsb_tbl_bkg.gif" class="pad"><br>
+<font color="red"><span class="b11"><b>
+"It is nice to see that there are companies who go the extra mile to accomodate new members.</b></span></font>
+<p>
+If you ever need a strong endorsement, please let me know."
+</p><p>
+<i>CIC, Inc.</i>
+
+</p><p>
+
+<a href="testimonials.asp">Read More Testimonials</a>
+<br>
+
+</p></td>
+</tr>
+<tr> 
+<td>
+<img src="images/rsb_tbl_b.gif" width="176" height="10"></td>
+</tr>
+</tbody></table>
+
+
+          </td>
+        </tr>
+      </tbody></table>
+
+      <table width="502" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td></td>
+        </tr>
+      </tbody></table>
+      <table width="502" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td height="30">&nbsp;</td>
+        </tr>
+        
+        <tr> 
+          <td><img src="images/key_hori.gif" width="502" height="13"></td>
+        </tr>
+
+<tr> 
+<td align="right" class="b11"><span class="b11l">Copyright © 1998-2003 KowaBunga! Technologies.
+<p>
+<a href="legal.asp">Legal Information</a>  |  <a href="sitemap.asp">SiteMap</a>  |  <a href="satisfaction.asp">Satisfaction Guarantee</a>
+<br>
+<a href="affiliates.asp">Become An Affiliate</a>  |  <a href="resellers.asp">Become A Reseller</a>  |  <a href="index.asp">Home</a>
+<br>
+
+Reference #: 99
+
+</p><p>
+
 <!-- START OF WEBTRENDS LIVE TAG -->
-<!-- Copyright 2002 NetIQ Corporation -->
+<!-- Copyright 2003 NetIQ Corporation -->
 <!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm -->
-<script language="JavaScript">
+<script language="JavaScript" type="text/javascript">
 <!--
 // Modification of this code is not allowed and will permanently disable your account!
 // SiteName:  My Affiliate Program
@@ -907,11 +580,23 @@ function wtl_Tag5_138882()
 
 wtl_Tag5_138882();
 //-->
-</script><img id="WTL_138882" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S138882/button5.asp?tagver=5&amp;si=138882&amp;fw=0&amp;server=&amp;Group=&amp;tz=0&amp;ch=20&amp;cl=K2JK4PA&amp;ti=My%20Affiliate%20Program%20Software&amp;url=https%3A//web.archive.org/web/20030607104426id_/http%253A//www.myaffiliateprogram.com/privacy.asp&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="WTL_138882" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S138882/button5.asp?tagver=5&amp;si=138882&amp;fw=0&amp;server=&amp;Group=&amp;tz=0&amp;ch=20&amp;cl=K2JK4RA&amp;ti=My%20Affiliate%20Program%20%u2013%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20031210235645id_/http%253A//myaffiliateprogram.com/privacy.asp&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <noscript>
 <IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S138882/button5.asp?tagver=5&si=138882&fw=0&js=No&">
 </noscript>
 <!-- END OF WEBTRENDS LIVE TAG -->
+
+
+<a href="whatsnew.asp">What's New @ MyAP.com?</a></p></span></td>
+</tr>
+
+</tbody></table>
+<p>&nbsp;</p></td>
+</tr>
+</tbody></table>
+
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://hc2.humanclick.com/hc/618227/x.js?cmd=file&amp;file=chatScript3&amp;site=618227&amp;imageUrl=http://www.myap.com/images/"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
 
 
 </body></html>
