@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoreflect.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208073705id_/http%3A//www.photoreflect.com/scripts/prsm.dll%3FPage%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoreflect.com privacy policy that was archived on 2005-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050317100554id_/http%3A//www.photoreflect.com/scripts/prsm.dll%3FPage%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # PhotoReflect
 
