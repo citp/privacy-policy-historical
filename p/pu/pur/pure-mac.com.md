@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206175400id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602181607id_/http%3A//pure-mac.com/privacy.html) for the most accurate reproduction.*
 
 # Pure Mac
 
 * * *
 
   
-[ ](http://ad.doubleclick.net/jump/vpn000223.about.com/compute;svc=;site=macsupport;chan=compute;syn=vpn000223;pos=slot1;sz=468x60;ord=138807473483202770)
+
 
 * * *
 
-[](http://mojofarm.mediaplex.com/ad/ck/131-450-2446-0?mpt=1582141237701-0)   
+[](http://mojofarm.mediaplex.com/ad/ck/131-450-2446-0?mpt=1582141228899-0)   
   
 ** Privacy Statement for Pure Mac **
 
@@ -33,4 +33,4 @@ If you have any questions about this privacy statement, the practices of this si
 [pristine@pure-mac.com](mailto:pristine@pure-mac.com)
 
   
-Pure Mac © 1996-2000
+Pure Mac © 1996-2001
