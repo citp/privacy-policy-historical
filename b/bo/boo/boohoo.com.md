@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018121014id_/http%3A//www.yahoo.com/r/pv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411002427id_/http%3A//www.yahoo.com/r/pv) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
 | **More about Yahoo! Privacy**  
 ---  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.  
+|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
 [Find them here](https://web.archive.org/privacy/us/all.html).   
 **Assistance**  
 · | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
@@ -45,7 +45,7 @@
 
 
   * Yahoo! will not sell or rent your personally identifiable information to anyone. 
-  * Yahoo! will send personally identifiable information about you to other companies or people when: 
+  * Yahoo! may send personally identifiable information about you to other companies or people when: 
     * We have your consent to share the information; 
     * We need to share your information to provide the product or service you have requested; 
     * We need to send the information to companies who work on behalf of Yahoo! to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); 
@@ -79,7 +79,7 @@
 **Questions or Suggestions**  
 
 
-  * If you have questions or suggestions complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback) or send an email to [privacypolicy@yahoo-inc.com](mailto:privacypolicy@yahoo-inc.com). 
+  * If you have questions or suggestions complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback). 
   * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/watchdog.html), an independent privacy organization. 
 
 
