@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216235056id_/http%3A//cablewholesale.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609085438id_/http%3A//www.cablewholesale.com/about/privacy.htm) for the most accurate reproduction.*
 
 # About CableWholesale.com, Inc. / National Technology -- Privacy Policy
 
