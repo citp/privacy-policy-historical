@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603180244id_/http%3A//www.heartmath.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204212359id_/http%3A//heartmath.com/home/aboutheartmath/privacy_policy.html) for the most accurate reproduction.*
 
-# OPD Home Page™ Home Page
+# HeartMath LLC Privacy Statement
 
-**HEARTMATH LLC PRIVACY STATEMENT**
+****
 
 This privacy statement discloses the privacy practices for HeartMath LLC Web sites. 
 
