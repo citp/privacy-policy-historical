@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208045619id_/http%3A//mathforum.org/announce/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403154112id_/http%3A//mathforum.org/announce/privacy.html) for the most accurate reproduction.*
 
 # Math Forum: Privacy Policy
 
@@ -27,7 +27,7 @@ At any time you may request the removal of your name or other personal informati
 
 We want to be very clear: We will not obtain personal identifying information about you when you visit our site unless you choose to provide such information to us.
 
-We do not sell our customer names, addresses, or other information to third parties for any purpose.
+We do not sell or rent our customer names, addresses, or other information to third parties for any purpose.
 
 This site contains links to other sites. The Math Forum is not responsible for the privacy practices or the content of such Web sites.
 
