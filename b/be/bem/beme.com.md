@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beme.com privacy policy that was archived on 2001-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010505040111id_/http%3A//www.beme.com/displayarticle.asp%3FChannelID%3D15%26contentitemid%3D15270) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beme.com privacy policy that was archived on 2001-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010827234618id_/http%3A//beme.com/displayarticle.asp%3FChannelID%3D15%26contentitemid%3D15270) for the most accurate reproduction.*
 
 # What's happening in your world
 
