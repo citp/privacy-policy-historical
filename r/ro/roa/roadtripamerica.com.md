@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
 
 # About RoadTrip America: Features, Travel, Maps, Books
 
 Copyright & Trademark Notice      Privacy Policy Statement  
-[RTA's Contributors, Guides, & Correspondents](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/guides.htm)
+[RTA's Contributors, Guides, & Correspondents](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/guides.htm)  
+[Contact Information](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/address.htm)
 
 ******A MESSAGE FROM THE EDITORS** **—** **  
 **
 
 ******RoadTrip America** ® **** debuted on February 14, 1996, but its real beginning dates to a devastating wildfire that destroyed over 200 homes in the hills above ****Pasadena, California, in October 1993\. In a great cleansing roar, the blaze consumed our home and all our earthly goods. It was the sort of event that is usually labeled a catastrophe, a tragedy, a very evil thing.
 
-But the fire wasn't all bad. Suddenly "stuffless," we seized the opportunity to hit the road in the [Phoenix One](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/phoenix/imap.htm), the four-wheel-drive motorhome that "rose from the ashes." It was our chance to see America, and we set tire to pavement at the beginning of 1994, with no particular itinerary and no return date. We guessed our wanderlust might be satisfied in six months or a year at the most, but we were way off. North America is a big continent, and there's still a vast portion of it that we have yet to enjoy.
+But the fire wasn't all bad. Suddenly "stuffless," we seized the opportunity to hit the road in the [Phoenix One](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/phoenix/imap.htm), the four-wheel-drive motorhome that "rose from the ashes." It was our chance to see America, and we set tire to pavement at the beginning of 1994, with no particular itinerary and no return date. We guessed our wanderlust might be satisfied in six months or a year at the most, but we were way off. North America is a big continent, and there's still a vast portion of it that we have yet to enjoy.
 
-RoadTrip America® has evolved since its first appearance on the Web to become a virtual gateway to the open road. In addition to information and entertainment, the site offers [travel services](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/travel.htm) through a partnership with OneTravel.com and [book recommendations](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/read/books.htm) through Amazon.com. Your comments and suggestions are important to us. If you experience any difficulties with our partners, [please let us know](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/address.htm).
+RoadTrip America® has evolved since its first appearance on the Web to become a virtual gateway to the open road. In addition to information and entertainment, the site offers [travel services](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/travel.htm) through a partnership with OneTravel.com and [book recommendations](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/read/books.htm) through Amazon.com. Your comments and suggestions are important to us. If you experience any difficulties with our partners, [please let us know](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/address.htm).
 
 What's around the next bend? There's only one way to find ********out! Join us on the road and online as the adventure continues.
 
 **************  
-******[MarkSedenquist](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/mark/mark.htm), [  
-Megan Edwards](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/megan/megan.htm),  
-& [Marvin the Road Dog](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/marvin/marvin.htm)
+******[MarkSedenquist](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/mark/mark.htm), [  
+Megan Edwards](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/megan/megan.htm),  
+& [Marvin the Road Dog](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/marvin/marvin.htm)
 
 * * *
 
@@ -71,7 +72,7 @@ A. Information Collected:
 
 1\. In general, you can join us "on the road and online" without telling us who you are and without revealing any personal information about yourself.
 
-2\. We collect anonymous information from your visits to RoadTrip America by using the IP addresses from the Log files. We keep track of domain names but not the e-mail address, of anyone who visits our Web site. We also collect data on some of the pages that you may visit and the information that you may submit when you use the e-mail newsletter registration form, which we call the "[Guest Submission](https://web.archive.org/web/20020603145612id_/http%3A//www.roadtripamerica.com/guest.htm)" page. We may also collect data about what you pages you looked at and/or access and how long you spent on the RoadTrip America Web site.
+2\. We collect anonymous information from your visits to RoadTrip America by using the IP addresses from the Log files. We keep track of domain names but not the e-mail address, of anyone who visits our Web site. We also collect data on some of the pages that you may visit and the information that you may submit when you use the e-mail newsletter registration form, which we call the "[Guest Submission](https://web.archive.org/web/20021205063433id_/http%3A//www.roadtripamerica.com/guest.htm)" page. We may also collect data about what you pages you looked at and/or access and how long you spent on the RoadTrip America Web site.
 
 3\. We may collect demographic information from the answers that you post on the registration form for the periodic RoadTrip America e-newsletter. In particular, we are interested by what sources you used when you linked to the RoadTrip America Web site the first time and whether or not you share our interest in wireless gear and services. We also solicit ideas for trip destinations or places you would like to visit along with RoadTrip America. This information is gathered for the sole reason of improving the delivery of content to you and fellow users of this Web site.
 
