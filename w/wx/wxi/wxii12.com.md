@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wxii12.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613225543id_/http%3A//www.wxii12.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wxii12.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009215412id_/http%3A//www.wxii12.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # WXII12.com - News
 
