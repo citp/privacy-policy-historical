@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmotorworks.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410211345id_/http%3A//www.dmotorworks.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmotorworks.com privacy policy that was archived on 2004-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040207050257id_/http%3A//www2.dmotorworks.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # Digital Motorworks - Turning Data Into Opportunity
 
