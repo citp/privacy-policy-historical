@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarworld.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605161746id_/http%3A//www.guitarworld.com/0100/framesets/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarworld.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207101519id_/http%3A//www.guitarworld.com/0100/framesets/privacy.html) for the most accurate reproduction.*
 
 # Guitar World | Privacy Policy
 
