@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniture123.co.uk privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203023536id_/http%3A//furniture123.co.uk/ubik.dll/home/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture123.co.uk privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619022655id_/http%3A//furniture123.co.uk/ubik.dll/home/about/privacy_policy) for the most accurate reproduction.*
 
 # furniture123.co.uk | privacy policy | information collection, the law and data protection
 
