@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206104213id_/http%3A//www.amgen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604033637id_/http%3A//www.amgen.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,5 +119,3 @@ Back to Previous Page
 [](http://www.neulasta.com/)
 
 [](http://www.neupogen.com/)
-
-[](http://www.novantrone.com/)
