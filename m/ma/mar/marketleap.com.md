@@ -1,8 +1,43 @@
-> *The following text is extracted and transformed from the marketleap.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003220709id_/http%3A//www.marketleap.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketleap.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # Marketleap Privacy Policy - Compliant with the World’s Most Stringent Standards
 
-|  |  |  | 
+|  |  | [](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/default.htm)  
+---  
+[](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/aboutus/default.htm)  
+  
+|  |   
+  
+|  |   
+  
+|  |   
+  
+|  |   
+  
+|  |   
+  
+|  |   
+[](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/report/default.htm)  
+  
+**Marketleap Report Archives**
+
+| 
+
+[**Search Engine Saturation - The Kick-Off Metric for Search Engine Marketing**](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/report/ml_report_43.htm)  
+Volume III, Issue #5, May 14, 2003
+
+**[Search Engine Spam - Are you employing tactics that could get you kicked out of the search engines? ** __**](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/report/ml_report_42.htm)**  
+Volume III, Issue #4, March 19, 2003
+
+**[Is There a Market for Multimedia Advertising?](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/report/ml_report_41.htm)**  
+Volume III, Issue #3, March 4, 2003
+
+**[Build the Foundation: Educate Yourself about Search Engine Marketing for Long-Term Success](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/report/ml_report_40.htm)**  
+Volume III, Issue #2, February 4, 2003   
+  
+---  
+[More Marketleap Report](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/report/default.htm)  
+| 
 
 Marketleap Privacy Policy
 
@@ -40,7 +75,6 @@ We urge consumers to check the e-mail privacy policy of a company before they pa
 
 
 
-For more information, please [contact us](https://web.archive.org/web/20021003220709id_/http%3A//www.marketleap.com/contactus/default.htm).
+For more information, please [contact us](https://web.archive.org/web/20030628115410id_/http%3A//marketleap.com/contactus/default.htm).
 
-|   
----|---|---|---|---
+| 
