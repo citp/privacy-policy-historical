@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the du.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062508id_/http%3A//www.du.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the du.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403153956id_/http%3A//www.du.edu/privacy) for the most accurate reproduction.*
 
 # University of Denver -- Privacy Policy
 
