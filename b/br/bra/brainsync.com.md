@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainsync.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203173335id_/http%3A//www.brainsync.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainsync.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605191608id_/http%3A//www.brainsync.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Brain Sync - Privacy Policy
 
@@ -40,6 +40,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please refer to the [Contact Page](https://web.archive.org/web/20031203173335id_/http%3A//www.brainsync.com/contact.asp) for contact names, e-mail addresses and phone numbers. 
-
-[](https://web.archive.org/web/20031203173335id_/http%3A//www.brainsync.com/relaxnow.asp)
+Should you have other questions or concerns about these privacy policies, please refer to the [Contact Page](https://web.archive.org/web/20040605191608id_/http%3A//www.brainsync.com/contact.asp) for contact names, e-mail addresses and phone numbers. 
