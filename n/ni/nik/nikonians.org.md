@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604162754id_/http%3A//www.nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonians.org privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209083636id_/http%3A//www.nikonians.org/html/about/privacy_policies.html) for the most accurate reproduction.*
 
 # Privacy policies at Nikonians
 
@@ -21,4 +21,4 @@ This information is automatically stored by the http server in its logfiles and 
 
 7\. If you request to be informed about answers on a message posted by you, you will automatically receive emails containing those answers.
 
-If you have any questions regarding our privacy policies, or any other questions, [get in touch with us](https://web.archive.org/web/20040604162754id_/http%3A//www.nikonians.org/contact.html).
+If you have any questions regarding our privacy policies, or any other questions, [get in touch with us](https://web.archive.org/web/20041209083636id_/http%3A//www.nikonians.org/contact.html).
