@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macconnection.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218214226id_/http%3A//www.macconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macconnection.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142040id_/http%3A//www.macconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.*
 
 # PC Connection : Privacy Policy
 
@@ -21,7 +21,7 @@ You are automatically placed on our mailing list when you submit a catalog reque
 To process and ship your order, we need your name, phone number, billing address, shipping address, and e-mail address. This information is stored on a secure server to allow us to process subsequent orders more quickly. On occasion we may notify our customers about PC Connection specials and may also share your mailing address with other companies whose products and services may be of interest to you. To remove your name from our mailing list, please e-mail us at [mailinglist@pcconnection.com](mailto:mailinglist@pcconnection.com) or call us at 1-888-213-0260. 
 
 **When you choose to receive e-mail from us**  
-From time to time you may receive e-mailed information about our products, promotions, and services. In addition to receiving e-mail from us, you may occasionally receive special mailings from us and/or from reputable companies whose products may be of interest to you. To remove your name from our e-mail list, send an e-mail to [emaillist@pcconnection.com](mailto:emaillist@pcconnection.com). For your convenience, we will include instructions to unsubscribe at the bottom of every promotional e-mail we send. 
+From time to time you may receive e-mailed information about our products, promotions, and services. We are committed to protecting your privacy. We are the sole owner of all information collected at this site, and you have our pledge that we will not sell, share nor rent this information to others in any way without your explicit permission. To remove your name from our e-mail list, send an e-mail to [emaillist@pcconnection.com](mailto:emaillist@pcconnection.com). For your convenience, we will include instructions to unsubscribe at the bottom of every promotional e-mail we send. 
 
 **When you click on a link in our e-mail communications:**  
 In order to create a better electronic community, we may collect specific user profile information, such as referring Web URL. This information is used to identify broad demographic trends that may allow us to provide you with information tailored to your interests. You will not be personally identified from this information. 
