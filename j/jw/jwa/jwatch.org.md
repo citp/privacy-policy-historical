@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205204747id_/http%3A//www.jwatch.org/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204094607id_/http%3A//www.jwatch.org/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Journal Watch Online: Privacy Policy
 
