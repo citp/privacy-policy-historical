@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualcomm.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210035404id_/http%3A//www.qualcomm.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualcomm.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622082906id_/http%3A//www.qualcomm.com/main/privacy.html) for the most accurate reproduction.*
 
 # QUALCOMM > Privacy Statement
 
