@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franklintempleton.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210002450id_/http%3A//www.franklintempleton.com/retail/jsp_cm/access/st_agrmt/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franklintempleton.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305130832id_/http%3A//www.franklintempleton.com/retail/jsp_cm/access/st_agrmt/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Our Mutual Fund Privacy Notice
   
 Your Privacy Is Our Priority   
   
-Franklin Templeton Investments is committed to safeguarding information provided to us by individual shareholders of our U.S.-based Franklin, Templeton and Mutual Series Funds. This notice is designed to provide you with a summary of the non-public personal information we may collect and maintain about current or former investors; our policy regarding the use of that information; and the measures we take to safeguard the information. The Franklin, Templeton and Mutual Series Funds, and Franklin Templeton Bank & Trust ("FTB&T"), trustee for retirement plans, (together referred to as "we," "our," and "us" throughout this notice) do not sell non-public personal information to anyone and only share it as described in this notice.   
+Franklin Templeton Investments is committed to safeguarding information provided to us by individual shareholders of our U.S.-based Franklin, Templeton and Mutual Series Funds. This notice is designed to provide you with a summary of the non-public personal information we may collect and maintain about current or former investors; our policy regarding the use of that information; and the measures we take to safeguard the information. The Franklin, Templeton and Mutual Series Funds, Franklin Templeton Distributors, Inc., and Franklin Templeton Bank & Trust ("FTB&T"), trustee for retirement plans, (together referred to as "we," "our," and "us" throughout this notice) do not sell non-public personal information to anyone and only share it as described in this notice.   
   
 Information We Collect   
   
@@ -44,7 +44,7 @@ When you invest in our Franklin, Templeton and Mutual Series Funds or establish 
 
 Disclosure Policy   
   
-To better service your accounts and provide you with more choices, we may share non-public personal information with other Franklin Templeton Investments' companies such as investment advisors, the distributor of our mutual funds, and financial service providers offering banking, trust, and custodial products and services. 
+To better service your accounts and process transactions or services you've requested, we may share non-public personal information with other Franklin Templeton Investments' companies. From time to time we may also send you information about products/services offered by other Franklin Templeton Investments' companies although we will not share your non-public personal information with these companies without first offering you the opportunity to prevent that sharing. 
 
 We will only share non-public personal information with outside parties in the limited circumstances permitted by law. For example, this includes situations where we need to share information with companies who work on our behalf to service or maintain your account or process transactions you've requested, when the disclosure is to a party representing you, or when required by law (for example, in response to legal process). Additionally, we will ensure that any outside companies assisting us in marketing our products and services, or with whom we have joint marketing agreements, are under contractual obligations to protect the confidentiality of your information, and to use it only to provide the services we've asked them to perform.   
   
