@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2002-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020615173119id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206103845id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.*
 
 # About us - Ample
 
@@ -8,7 +8,7 @@
 
 1\. We take our obligations under the Data Protection Act 1998 and all related regulations ("the Act") very seriously and have taken steps to ensure compliance with the provisions of the Act. 
 
-2\. This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below. Defined terms in this Privacy Policy have the same meanings as in the [General Site Conditions](https://web.archive.org/web/20020615173119id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy?subtype=terms&type=legal) and the Act. 
+2\. This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below. Defined terms in this Privacy Policy have the same meanings as in the [General Site Conditions](https://web.archive.org/web/20021206103845id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy?subtype=terms&type=legal) and the Act. 
 
 #### What Personal Data do we collect and why
 
