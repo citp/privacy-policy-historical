@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheatchannel.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610082752id_/http%3A//www.cheatchannel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatchannel.com privacy policy that was archived on 2003-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030208005614id_/http%3A//www.cheatchannel.com/privacy.htm) for the most accurate reproduction.*
 
-# Cheatchannel - Privacy
+# CheatChannel - Cheats,pccheats,Gamecheats,pcgamecheats,Cheats,Downloads,Hints,cheatsviewer
 
 **_
 
@@ -26,4 +26,4 @@ We guarantee to disclose information protection during transmission and subseque
 
 We guarantee to allow submission of private questions and alternative complaints from organization.
 
-**If you have any other question feel free to e-mail us at:**[ infoweb@altavista.net](mailto:infoweb@altavista.net)
+**If you have any other question feel free to e-mail us at:**[ infoweb@altavista.net](mailto:robfank@gmx.de)
