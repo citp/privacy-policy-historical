@@ -1,0 +1,51 @@
+> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605235334id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
+
+# SuperKids Privacy Policy.
+
+[**software**](https://web.archive.org/aweb/pages/reviews/reviews.shtml)  
+  [reviews](https://web.archive.org/aweb/pages/reviews/reviews.shtml)   
+  [bestseller list](https://web.archive.org/aweb/pages/bestsell/bestsel1.shtml)   
+  [price survey](https://web.archive.org/aweb/pages/guide/guide.shtml)   
+  [what's new](https://web.archive.org/aweb/pages/whatsnew/)   
+  [product support](https://web.archive.org/aweb/pages/support/)   
+  [search](https://web.archive.org/aweb/pages/reviews/search.shtml) [**educational tools**](https://web.archive.org/aweb/tools/)   
+  [math worksheets](https://web.archive.org/aweb/tools/math/)   
+  [vocabulary builders](https://web.archive.org/aweb/tools/words/)   
+  [hangman](https://web.archive.org/aweb/tools/words/hangman/)   
+  [checkers, etc.](https://web.archive.org/aweb/tools/logic/) [**feature articles**](https://web.archive.org/aweb/pages/features/feature1.html) [](https://web.archive.org/aweb/ads/affinia/track.cgi?goto~http://ppn.affinia.com/go/1189610/927350) [**marketplace**](https://web.archive.org/store/amazon/books/)  
+  [reading corner](https://web.archive.org/store/amazon/books/)  
+  [movie corner](https://web.archive.org/store/amazon/video/) [**SuperKids**](https://web.archive.org/)  
+  [about SuperKids](https://web.archive.org/aweb/pages/aboutsks.html)  
+  [advertise!](https://web.archive.org/aweb/pages/sponsors/mediakit.htm)   
+  [humor](https://web.archive.org/aweb/pages/humor/humor1.shtml)  
+  [links](https://web.archive.org/aweb/pages/surfer/surfer.shtml)  
+  [help](https://web.archive.org/aweb/pages/help.html) |  |  [home](https://web.archive.org/) > > > privacy policy  Our privacy policy is simple: SuperKids does not collect personal information from visitors to our site without their knowledge and consent. 
+
+The only place where any individual user information is collected, is through optional participation in certain contests and sweepstakes. That information may be used to create aggregated demographic profiles of our visitors -- but it is never revealed on an individual basis to anyone outside of the SuperKids organization. Aggregated information like this allows us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because SuperKids derives its revenue mainly from advertising, providing such aggregated demographic data is essential to keeping our service free to users. 
+
+**Children's Privacy**   
+Under the Children's Online Privacy Protection Act, no web site operator is permitted to require a child under the age of 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation. SuperKids abides by this requirement. 
+
+**Cookies**   
+A cookie is a small message that may be written to your hard drive by some Web servers. Your browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server. The main purpose of cookies is to identify users and possibly prepare customized Web pages for them. Some users fear that the use of cookies may compromise their privacy. 
+
+SuperKids does not use any cookies to track or identify visitors to our site. Cookies appear in only two places on SuperKids: 
+
+  * Some advertisers on SuperKids use cookies to limit the number of times they show a particular ad banner to each computer. These cookies are associated with the ad banners only, and are never transmitted back to SuperKids. SuperKids works with a third party, Flycast, that serves some of these ads. To find out how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html> . 
+  * Several of the Logic Games on SuperKids' site use cookies to keep track of where a user is in a game. For example, in the [Hangman Game for The United States](https://web.archive.org/aweb/tools/words/hangman/states.sht), the page uses cookies to keep track of which states have been played, to avoid premature repetition. No user information is transmitted back to SuperKids. 
+
+
+
+**Surveys**   
+SuperKids occasionally conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with advertisers and partners. We never share any information about specific individuals with any third party. 
+
+**Questions?**   
+Please email us if you have any questions about our privacy policy, at: [privacy@superkids.com](mailto:privacy@superkids.com)
+
+back to top of page
+
+* * *
+
+  
+[](https://web.archive.org/aweb/pages/aboutsks.html) Questions or comments regarding this site? [webmaster@superkids.com](mailto:webmaster@superkids.com)   
+Copyright © 1998-2000 [Knowledge Share LLC.](https://web.archive.org/aweb/pages/copyrit.html) All rights reserved. [Privacy Policy](https://web.archive.org/aweb/pages/privacy.shtml)
