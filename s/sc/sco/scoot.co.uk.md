@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoot.co.uk privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622092941id_/http%3A//www.scoot.co.uk/static/business/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoot.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603180407id_/http%3A//www.scoot.co.uk/static/business/about/privacy_policy.asp) for the most accurate reproduction.*
 
 # Welcome to Scoot, the UK Business Finder
 
@@ -58,7 +58,7 @@ We will not disclose your personally identifiable information to any person or c
 
 We want to make your experience a good one. Your privacy is important. We want you to feel happy about the information you are giving us and to be able to retain control over the way it is used.
 
-**If you have any queries or comments, please email us at:[feedback@scoot.co.uk](mailto:feedback@scoot.co.uk).**
+**If you have any queries or comments, please email us at:[feedback@scoot.co.uk](mailto:118500.dq.queries.team@bt.com).**
 
   
 
