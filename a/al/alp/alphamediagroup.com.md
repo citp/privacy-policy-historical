@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphamediagroup.com privacy policy that was archived on 2003-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031221120231id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphamediagroup.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630144358id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -36,7 +36,7 @@
 
 
   * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), [Altavista](http://www.altavista.com/web/legal/privacy), and [AlltheWeb](http://www.alltheweb.com/info/about/privacy_policy) have their own privacy statements which can be viewed by clicking on the links. 
+  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
 
 **Information Collection and Use**
 
