@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qliktech.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209075547id_/http%3A//www.qliktech.com/international/Contents.asp%3Fid%3D804) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qliktech.com privacy policy that was archived on 2005-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050210182245id_/http%3A//www.qliktech.com/international/Contents.asp%3Fid%3D804) for the most accurate reproduction.*
 
 # QlikTech International : Privacy
 
