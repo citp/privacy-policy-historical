@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocklandtrustonline.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602024132id_/http%3A//www.rocklandtrustonline.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrustonline.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201104220id_/http%3A//rocklandtrustonline.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
