@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204192309id_/http%3A//www.ala.org/Content/NavigationMenu/Home/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602200509id_/http%3A//www.ala.org/ala/home/privacystatement.htm) for the most accurate reproduction.*
 
 # ALA | Privacy Statement
 
@@ -17,7 +17,7 @@ Thank you for visiting the American Library Association website and reviewing ou
 Any information you choose to provide on the website will only be used to provide or improve services. ALA guards your privacy and appreciates your trust.   
 
 
-You may inform us of your communication preferences at any time by visiting our online [Communications Preferences](https://web.archive.org/Template.cfm?Section=Communication_Preferences&Template=/CFApps/commpref/default.cfm) page.
+You may inform us of your communication preferences at any time by visiting our online [Communications Preferences](https://web.archive.org/Template.cfm?Section=commpref&Template=/CFApps/commpref/default.cfm) page.
 
 Personally identifying information that you provide by e-mails or web forms will be used only for such purposes as are described at the point of collection (for example on a web form), such as to send information or products to you, update your membership record, or to respond to your questions or comments. If you provide contact information, ALA staff or its contractors may contact you to clarify your comment or question, or to learn about your level of customer satisfaction with our services.   
 
@@ -44,4 +44,4 @@ Unauthorized attempts to upload information or change information on this servic
 
 We reserve the right to change or modify this privacy statement at any time.  If we revise our privacy statement, we will post those changes on the homepage and other places so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-1 The term "members and customers" as used in this statement includes ALA members, customers, donors, or any individual or organization having contact or conducting transactions with the Association. Also see the American Library Association's Web page on [privacy resources](https://web.archive.org/Template.cfm?Section=Intellectual_Freedom_Issues&Template=/ContentManagement/ContentDisplay.cfm&ContentID=2427).
+1 The term "members and customers" as used in this statement includes ALA members, customers, donors, or any individual or organization having contact or conducting transactions with the Association. Also see the American Library Association's Web page on [privacy resources](https://web.archive.org/Template.cfm?Section=ifissues&Template=/ContentManagement/ContentDisplay.cfm&ContentID=2427).
