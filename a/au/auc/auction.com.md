@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802053554id_/http%3A//www.auction.com/program/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611140821id_/http%3A//auction.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Auction.com - Privacy Policy
+# Privacy Policy
 
 **Information We Collect.**  
 Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier. 
