@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shrm.org privacy policy that was archived on 2002-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020209111535id_/http%3A//shrm.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shrm.org privacy policy that was archived on 2002-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021217040304id_/http%3A//shrm.org/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>SHRM Privacy Standard</title>
@@ -18,8 +18,6 @@ function OpenExternal(varURL)
 {
 	window.open(varURL,"","width=600,height=400,location,directories,scrollbars=yes,menubar=yes,resizable=yes");
 }
-
-
 
 // End -->
 
@@ -112,7 +110,7 @@ function clearIt()
 	}
 }
 
- 
+
 </script>
 
 
@@ -122,49 +120,46 @@ function clearIt()
 
 
 <center>
-<form name="queryform" action="/search/dummy.asp" method="post">
 <table width="100%" border="0" cellspacing="2" cellpadding="2" align="left" bgcolor="#00214a">
-<!--CHARLES-->
-	<tbody><tr>
-		<td align="center" colspan="2" bgcolor="white">
-			<a href="/"><img border="0" src="/graphics/frontlogo.gif"></a>
+<tbody><tr>
+    <td align="center" colspan="2" bgcolor="white">
+		<a href="/"><img border="0" src="/graphics/frontlogo.gif"></a>
+	</td>
+</tr>
 
 
+<!-- GENERAL SEARCH INFORMATION GOES HERE -->
+
+<tr>
+	<td colspan="2">&nbsp;</td>
+</tr>
 
 
-		</td>
-	</tr>
-	<tr>
-		<td align="center" valign="top" colspan="2">
-		<font face="Arial, Helvetica, sans-serif" size="2"></font><p><font face="Arial, Helvetica, sans-serif" size="2">
-			<input type="text" size="15" name="queryinfo">
-		    </font>
-		
-			</p><div align="center"><font face="Arial, Helvetica, sans-serif" size="2">
-			<input type="submit" name="Search" value="Search"></font></div>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<font color="#FFFFFF" face="Arial" size="1"><b>
-			<select name="topictype1" size="1">
-				<option value="1">SHRM Online 
-				</option><option value="2">Other HR Sites
-				</option><option value="3">SHRM+Other HR Sites
-			</option></select> 
-			</b></font>
-		</td>
-	</tr>
-	<tr>
-		<td align="right" valign="middle">
-			<font face="Arial" size="1"><img border="0" src="/art/newred1.gif"></font>
-		</td>
-		<td align="left" valign="middle">
-			<font face="Arial" size="1"><a href="/search" style="color: white;">Advanced Search</a></font>
-		</td>
-	</tr>
+<tr>
+	<td valign="top" align="middle" colspan="2">
+		<font face="Arial, Helvetica, sans-serif" size="2">
+		<div align="center">
+		<form action="http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Search" method="POST">
+			<input type="text" name="querytext" size="15">
+			<br>
+			<input type="submit" value="Search" name="submit">
+		</form>
+		<p>
+		<font size="1" color="white">
+		<a href="http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.AdvSearch"><font color="white"><b>Advanced Search</b></font></a></font>
+		</p></div>
+	</font></td>
+</tr>
 
-<!--CHARLES-->
+<!--END SEARCH INFORMATION -->
+
+<!--
+<tr>
+	<td colspan="2"><A HREF="/search/broken.htm" STYLE="color: white;">Search</A>
+	</td>
+</tr>
+-->
+
 	<tr>
 		<td colspan="2">
 			<br>
@@ -229,16 +224,16 @@ lev1 = new Array ("xx-small","1",true,false,"White","#66648c","Black","Verdana",
 
 mn2 = new Array
 (
-"Benefits","/search/recs2a.asp?topictype=Benefits",0
-,"Compensation","/search/recs2a.asp?topictype=Compensation",0
-,"Compliance","/search/recs2a.asp?topictype=Compliance",0
-,"Employee Relations","/search/recs2a.asp?topictype=EmployeeRelations",0
-,"HR Development (training)","/search/recs2a.asp?topictype=HRDevelopment",0
-,"Health, Safety & Security","/search/recs2a.asp?topictype=HealthSafetySecurity",0
-,"HR Management Topics","/search/recs2a.asp?topictype=HRManagementTopics",0
-,"International HR","/search/recs2a.asp?topictype=InternationalHR",0
-,"Performance/Productivity","/search/recs2a.asp?topictype=PerformanceProductivity",0
-,"Recruitment","/search/recs2a.asp?topictype=Recruitment",0
+"Benefits","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=1&querytext=benefits&start=0",0
+,"Compensation","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=2&querytext=compensation&start=0",0
+,"Compliance","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=3&querytext=compliance&start=0",0
+,"Employee Relations","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=4&querytext=employee+relations&start=0",0
+,"HR Development (training)","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=5&querytext=hr+development&start=0",0
+,"Health, Safety & Security","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=6&querytext=health+safety+and+security&start=0",0
+,"HR Management Topics","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=7&querytext=hr+management+topics&start=0",0
+,"International HR","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=8&querytext=international+hr&start=0",0
+,"Performance/Productivity","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=9&querytext=performance+productivity&start=0",0
+,"Recruitment","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=10&querytext=recruitment&start=0",0
 );
 
 
@@ -254,9 +249,9 @@ mn3 = new Array
 ,"Governmental Affairs","/government",0
 ,"Information Center & Library","/whitepapers",0
 ,"Member Directory","/members",0
-,"Portfolio","/portfolio",0
+<!--,"Portfolio","/portfolio",0-->
 ,"Press Room","/press",0
-,"Research Department","/research",0
+,"SHRM Research","/research",0
 ,"SHRM Foundation","/foundation",0
 ,"SHRM Global Forum","http://www.shrmglobal.org/",0
 ,"SHRMStore","/shrmstore",0
@@ -273,25 +268,24 @@ mn4 = new Array
 (
 "BNA Bulletin to Management","/bna",0
 ,"Employment Management Today","/emt",0
-,"HR Calculators","/calculators",0
 ,"HR Comply","/hrcomply",0
+,"HR Co-pilot","/copilot",0
 ,"HR Links","/hrlinks",0
 ,"HR Magazine","/hrmagazine",0
 ,"HR News","/hrnews",0
-,"HR Newsscan","/hrnewsscan",0
 ,"HR Talk/Chat","/hrtalk/chat",0
 ,"HR Talk/Discussion","/hrtalk",0
-,"Legal Reports","/whitepapers/default.asp?page=legalreport.html",0
+,"Legal Reports","/whitepapers/documents_published_lrpt",0
 ,"Managing Smart","/managingsmart",0
 ,"Mosaics","/diversity/members/articles/default.asp?page=mosaics.asp",0
 ,"Online Buyers Guide","http://www.mediabrains.com/client/shrm/bg1",0
-,"PeopleSoft HR Microsite","/peoplesoft",0
 ,"SHRM Annual Report","/annual",0
+,"SHRM Assessment Center","/assessment",0
 ,"SHRM Books","/books",0
 ,"SHRM Consultants Referral Directory","/consultants/directory/",0
 ,"SHRM E-Bulletin","/ebulletin",0
 ,"SHRMStore","/shrmstore",0
-,"Subscribe","javascript:OpenExternal('https://commerce.shrm.org/subscriptions/subscriptionsform.cfm');",0
+,"Subscribe","javascript:OpenExternal('https://sapphire.shrm.org/subscriptions/subscriptionsform.cfm');",0
 ,"Washington & State Insiders","/government/insiders",0
 ,"White Papers","/whitepapers/default.asp?page=wplist.htm",0
 ,"Workplace Visions","/trends",0
@@ -326,6 +320,7 @@ mn7 = new Array
 ,"Fundamentals of Human Resource Management","/fundamentals",0
 ,"Learning Systems","/learning",0
 ,"Seminars","/seminars",0
+,"SHRM e-Learning", "/elearning",0 
 );
 
 
@@ -1259,22 +1254,22 @@ SHRM HOME PAGE
 </td>
 </tr>
 </tbody></table>
-<table cellspacing="0" cellpadding="5" border="1" rules="rows" width="100%">
-<tbody><tr bordercolor="Black">
-<td bgcolor="#66648c" align="CENTER" width="100%">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td align="CENTER" width="100%">
-				<font color="White" face="'Verdana','Arial','Helvetica'" size="1">
-				<b>
-				<a class="CL0" href="/channels" onmouseover="expandMenu('mnu2',event,'tfol2')" onmouseout="collapseMenu('mnu2')">
-				<div id="tfol2" class="topFold">HR CHANNELS</div></a></b></font>
+<!--<table cellspacing=0 cellpadding=5 border=1 RULES="rows" width="100%">
+<tr BORDERCOLOR="Black">
+<td bgcolor="#66648c" ALIGN="CENTER" WIDTH="100%">
+	<table cellpadding=0 cellspacing=0 border=0 WIDTH="100%">
+		<tr>
+			<td ALIGN="CENTER" WIDTH="100%">
+				<font color="White" face="'Verdana','Arial','Helvetica'" size="1" >
+				<B>
+				<A CLASS="CL0" HREF="/channels" onMouseOver="expandMenu('mnu2',event,'tfol2')" onMouseOut="collapseMenu('mnu2')">
+				<div id='tfol2' class='topFold'>HR CHANNELS</div></A></B></font>
 			</td>
 		</tr>
-	</tbody></table>
+	</table>
 </td>
 </tr>
-</tbody></table>
+</TABLE>-->
 <table cellspacing="0" cellpadding="5" border="1" rules="rows" width="100%">
 <tbody><tr bordercolor="Black">
 <td bgcolor="#66648c" align="CENTER" width="100%">
@@ -1300,7 +1295,7 @@ SHRM HOME PAGE
 				<font color="White" face="'Verdana','Arial','Helvetica'" size="1">
 				<b>
 				<a class="CL0" href="/education" onmouseover="expandMenu('mnu7',event,'tfol7');" onmouseout="collapseMenu('mnu7');">
-				<div id="tfol7" class="topFold" "="">MEETINGS &amp; LEARNING&nbsp;<br>SYSTEMS</div></a>
+				<div id="tfol7" class="topFold" "="">MEETINGS, SEMINARS, &amp;&nbsp;<br>LEARNING SYSTEMS</div></a>
 </b></font>
 			</td>
 		</tr>
@@ -1347,119 +1342,11 @@ SHRM HOME PAGE
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2">
-			<form method="post" action="/SHRM-Survey/Results.asp">
-			<div align="center">
-			<center>
-			<p>
-				</p><center>
-				<center>
-				</center></center><table width="100%" cellpadding="0" cellspacing="0" border="0">  
-				<input type="hidden" name="Question" value="62">
-				<tbody><tr bgcolor="#aeadc1">
-					<td width="6" bgcolor="#AEADC1">
-						<p align="center">&nbsp;</p>
-					</td>
-					<td colspan="2" valign="top" align="center">
-						<b><font face="Arial" color="#FFFFFF" size="2">ONLINE POLL</font></b>
-					</td>
-					<td width="4">
-					</td>
-				</tr>
-				<tr bgcolor="#aeadc1">
-					<td width="6" bgcolor="#AEADC1">
-						&nbsp;
-					</td>
-					<td colspan="2">
-						<!-- ON LINE POLL -->
-						<font face="arial" size="-1">Did your organization participate in the national Groundhog Job Shadow Day on February 1, 2002?</font>
-
-<p>
-						<!-- ON LINE POLL -->
-					</p></td>
-					<td width="4">
-					</td>
-				</tr>
-				<tr bgcolor="#aeadc1">
-					<td align="middle" valign="top">
-						<input type="radio" name="Answer" value="211">
-					</td>
-					<td width="99%" align="left">
-						&nbsp;<font face="arial" size="-1">Yes.</font>
-					</td>
-					<td align="right" width="6" bgcolor="#AEADC1">
-						&nbsp;
-					</td>
-				</tr>
-				<tr bgcolor="#AEADC1">
-					<td width="1%" align="middle" valign="top">
-						<input type="radio" name="Answer" value="212">
-					</td>
-					<td width="99%" align="left">
-						&nbsp;<font face="arial" size="-1">No, but we do participate in Job Shadowing during the year.</font>
-					</td>
-					<td align="right" width="6" bgcolor="#AEADC1">
-						&nbsp;
-					</td>
-				</tr>
-				<tr bgcolor="#AEADC1">
-					<td width="1%" align="middle" valign="top">
-						<input type="radio" name="Answer" value="213">
-					</td>
-					<td width="99%" align="left">
-						&nbsp;<font face="arial" size="-1">No.</font>
-					</td>
-					<td align="right" width="6" bgcolor="#AEADC1">
-						&nbsp;
-					</td>
-				</tr>
-		<!--				
-			<TR BGCOLOR=#AEADC1>
-					<TD WIDTH="1%" ALIGN="middle" valign=top>
-						<INPUT TYPE="radio" NAME="Answer" VALUE = "204">
-					</TD>
-					<TD WIDTH="99%" ALIGN="left">
-						&nbsp;<FONT FACE="arial" SIZE=-1>We will close early Dec. 24.</FONT>
-					</TD>
-					<TD ALIGN="right" width="6" bgcolor="#AEADC1">
-						&nbsp;
-					</TD>
-				</TR>
-			
-				<TR BGCOLOR=#AEADC1>
-					<TD WIDTH="1%" ALIGN="middle" valign=top>
-						<INPUT TYPE="radio" NAME="Answer" VALUE = "197">
-					</TD>
-					<TD WIDTH="99%" ALIGN="left">
-						&nbsp;<FONT FACE="arial" SIZE=-1>Suspended international travel only.</FONT>
-					</TD>
-					<TD ALIGN="right" width="6" bgcolor="#AEADC1">
-						&nbsp;
-					</TD>
-				</TR> -->
-				
-				
-				<tr bgcolor="#aeadc1">
-					<td align="middle" width="6" bgcolor="#AEADC1">
-						<p align="center">
-						<br>
-						</p>
-					</td>
-					<td colspan="2" align="center" valign="top">
-						<input type="submit" value="Submit"><br>&nbsp;<br>
-					</td>
-					<td align="middle" width="4">
-					</td>
-				</tr>
- 			</tbody></table>
-			</center>
-			</div>
-			</form>
-		</td>
+		<td colspan="2">&nbsp;</td>
 	</tr>
 </tbody></table>
 
-</form></center>
+</center>
 <script language="JavaScript" src="/navigation/blankmenu.js"></script>
 
             
@@ -1477,7 +1364,7 @@ SHRM HOME PAGE
 	<tbody><tr>
 		<td colspan="5" align="right" width="468">
 			<font size="3" color="BLACK">
-				<a style="color: #0000FF;" href="/sitehelp">Help</a>|<a style="color: #0000FF;" href="/about">About</a>|<a style="color: #0000FF;" href="/memberkit/">Member Services</a>|<a style="color: #0000FF;" href="/about/default.asp?page=nonmembers.html">Non-Members</a>|
+				<a style="color: #0000FF;" href="/sitehelp">Help</a>|<a style="color: #0000FF;" href="/about">About</a>|<a style="color: #0000FF;" href="/memberkit/">Member Services</a>|<a style="color: #0000FF;" href="/memberkit/sub_pages/shrm_now.html">Non-Members</a>|
 				<a style="color: #FF0000;" href="/join">		<b>Join SHRM</b></a>|<b><a style="color: #0000FF;" href="/login.asp">Log In</a></b>
 			
 			</font>
@@ -1486,7 +1373,7 @@ SHRM HOME PAGE
 	<tr>
 		<td colspan="5" align="center" width="468"><!--adslot-->
 			
-			<!--baninc1.asp--><nolayer><iframe src="http://ad.doubleclick.net/adi/shrm.dart/home;sz=468x60;ord=941035?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/shrm.dart/home;abr=!ie;sz=468x60;ord=941035?"><IMG SRC="http://ad.doubleclick.net/ad/shrm.dart/home;abr=!ie;sz=468x60;ord=941035?" border=0 height="60" width="468"></A></iframe></nolayer>
+			<!--baninc1.asp--><nolayer><iframe src="http://ad.doubleclick.net/adi/shrm.dart/home;sz=468x60;ord=216820?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/shrm.dart/home;abr=!ie;sz=468x60;ord=216820?"><IMG SRC="http://ad.doubleclick.net/ad/shrm.dart/home;abr=!ie;sz=468x60;ord=216820?" border=0 height="60" width="468"></A></iframe></nolayer>
 			<ilayer id="layer1" visibility="show" width="468" height="60"></ilayer>
 			
 		</td>
@@ -1561,81 +1448,174 @@ SHRM HOME PAGE
 <!--BeginDoc-->
 
 
+<!--BEGINDOC-->
 <title>SHRM Online Privacy Statement</title>
+<meta name="MEMBER" content="0">
+<meta name="PEG" content="">
+<meta name="PDATE" content="05/21/02">
+<meta name="CDATE" content="11/7/00">
+<meta name="SHRMSUMMARY" content="">
 
 
 
-
-<!--start body -->
 <font face="arial,geneva" size="-1">
+<div align="center">
+<h3>SHRM ONLINE PRIVACY POLICY</h3>
+</div>
+
+
+<h4>Overview</h4>
+Welcome to SHRM Online, owned and produced by the Society for Human Resource Management (SHRM). SHRM is the leading membership association for the human resource profession. Our websites are available to all visitors, although some content and features are restricted to SHRM members.  
 <p>
-The Society for Human Resource Management has created this privacy statement in order to  demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for SHRM Online.
+Throughout SHRM Online, there are forms for visitors to request information, products, and services.  These forms may ask for contact information (such as your phone number or e-mail address), unique identifiers (usually your SHRM membership number, if one is available), financial information (such as your credit card number), or demographic information (for example, your age, location, PHR/SPHR designation, etc.). Contact information from these forms is used to provide the products, promotional materials, or memberships that you request. Forms on our site that request financial information do so in order to bill you for products or services ordered.  Unique identifiers (specifically, your SHRM member number) are collected from website visitors to verify the user's identity for access to restricted content or features on the site. 
 </p><p>
-We track  IP address to measure traffic on our site. We do not use IP addresses to determine any user's identity. SHRM Online requires users to accept cookies. These cookies save your password so you don't have to re-enter during your session.  In addition, other cookies from our site restrict the number of searches SHRM members can perform daily in our online member directory and coordinate banner advertising seen on the site.
-</p><p>
-SHRM Online contains links to other sites. The Society is not responsible for the privacy practices  of such Web sites. Inclusion of links to an outside web site, whether in an advertisement or content area of SHRM Online, is not an endorsement of the web site or a guarantee that the information it contains is accurate. 
-</p><p>
-Throughout SHRM Online there are forms for customers to request information, products, and services. These forms typically ask for contact information (such as your phone or e-mail address), unique identifiers (usually your SHRM membership number, if one is available), financial information (such as your credit card numbers), and demographic information (for example, your age, location, PHR/SPHR designation, etc.) Contact information from these order forms is used to send the products, promotional materials or membership that you request.  Users may opt-out of receiving future mailings; see the <a href="#co">choice/opt-out section</a> below. Forms on our site that request financial information do so in order to bill the user for products or  services ordered. Unique identifiers (specifically, your SHRM member number) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site
-</p><p>
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
-</p><p>
-<b> Public Forums</b>
-</p><p>
-This site makes chat rooms and message boards available to its users. Any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information. Although users may post messages that will appear on the message boards anonymously, SHRM does retain a record of who posts all notes. 
-</p><p><b>
- Security
-</b></p><p>
-This site uses firewalls to protect the loss, misuse and alteration of the information
- under our control.
-</p><p><b><a name="co"></a>
-Choice/Opt-Out
-</b></p><p>
-The Society for Human Resource Management provides members with the opportunity to opt-out of receiving communications from us and our partners. If you no longer wish to receive future communications or to no longer receive our service. 
-</p><p></p><ol>
-   <li>You can send email to <a href="mailto:shrm@shrm.org">shrm@shrm.org</a>
-   </li><li>You can send mail to the following postal address: 
-      SHRM, 1800 Duke Street, Alexandria, Virginia, 22314 
-   </li><li>You can call the following telephone number: 703/548-3440
+This Online Privacy Policy discloses SHRM's privacy practices and contains detailed information about the following: 
+</p><ol type="1">
+	<li>What information of yours does SHRM Online collect?  
+	</li><li>What are "cookies" and how does SHRM use them?  
+	</li><li>What organization collects the information and who has access to it?  
+	</li><li>How does SHRM use the information it collects?  
+	</li><li>How can you modify your SHRM member information?  
+	</li><li>What is the opt-out policy for SHRM Online?  
+	</li><li>What types of security procedures are in place to protect against the loss, misuse or alteration of your information?  
+	</li><li>How does SHRM Online comply with the Children's Online Privacy Protection Act (COPPA)?  
+	</li><li>What can you do to better protect yourself on the Internet?
 </li></ol>
-<b>Corrections/Updates
-</b><p>
-This site gives members the following options for changing and modifying information previously provided.
-</p><p></p><ol>
-    <li>Email: <a href="mailto:shrm@shrm.org">shrm@shrm.org</a>
-   </li><li>Visit: <a href="/membership">/membership</a>
-   </li><li>Send mail to the following postal address: SHRM, 1800 Duke Street, Alexandria, Virginia, 22314 
-   </li><li>Call 703/548-3440
+
+<p>
+All products and services on SHRM Online are made available subject to this Privacy Policy.  By using the products and services, you agree, without limitation or qualification, to be bound by this Privacy Policy.
+</p><p>
+Questions regarding this statement should be directed to: 
+</p><blockquote>
+The Society for Human Resources Management<br>
+1800 Duke Street <br>
+Alexandria, Virginia, 22314
+<p>
+703-548-3440 or 800-283-7476<br>
+<a href="mailto:shrm@shrm.org">shrm@shrm.org</a> 
+</p></blockquote>
+
+<p>
+SHRM Online will update this policy from time to time, so please check back periodically. When such changes occur, you will see the word "updated" next to the Privacy Policy link on each page on SHRM Online. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will prominently post  such changes prior to implementing them. 
+
+</p><p>
+</p><h4>Frequently-Asked Questions</h4>
+<b>1.  What information of yours does SHRM Online collect?</b><br>
+Our goal is to become your destination for HR-related information by providing information, services, and product offerings that are most relevant to you in the most convenient way.  To achieve this goal, SHRM Online collects information about site visitors.
+<p>
+Information collected online is usually defined as being either anonymous or personally identifiable. 
+</p><p>
+Anonymous information refers to data that cannot be tied back to a specific individual. SHRM collects some information each time a visitor comes to a SHRM website, so we can improve the overall quality of the visitor's online experience.  For example, SHRM collects the visitor's IP address, browser, and platform type (e.g., a Netscape browser on a Windows platform). Gathering this data helps us to learn what browsers we need to support. Other anonymous information helps us determine what sections of SHRM Online are most popular and how many visitors come to our site(s). You do not have to register with SHRM Online before we can collect this anonymous information.
+</p><p>
+Personally identifiable information refers to data that  tells us specifically who you are (e.g., your name and  postal address). You are only required to provide such information if you want to take advantage of optional products and services provided through our website(s). 
+</p><p>
+SHRM collects personal  information in the following ways from different parts of its website(s):
+</p><ol type="a">
+	<p></p><li><b>SHRM Membership Applications</b>: You are sharing personally identifiable information, including your name and mailing address, with us when you join SHRM or renew your SHRM membership through our website(s).   SHRM members are given a SHRM membership number, and this member ID and password enables members to take advantage of  restricted content and features on SHRM Online. 
+	<p></p></li><li><b>Other Registration</b>: You may be asked for personal information when registering for specific services. For example, if you subscribe to an e-mail newsletter, you will be asked to provide your e-mail address. 
+	<p></p></li><li><b>Online Purchases</b>: We also ask for personal information when you make a purchase using the <a href="/shrmstore/">SHRMStore</a> or when you subscribe to a SHRM publication through our website.  The number and variety of useful services on SHRM Online that may require collection of personally identifiable information will continue to grow in the future.
 </li></ol>
-<p><b>Change in Terms of Privacy</b></p><p>
-
-SHRM Online reserves the right to alter its privacy policies. Any changes to the policy will be posted on this page. For members of SHRM, this privacy statement is a supplement to, not a replacement for, any other privacy agreements or terms already provided by the Society. 
-</p><p><b>
-
- Contacting the Web Site
-</b></p><p>
- If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact the following: 
+<p>
+<b>2.	What are "cookies" and how does SHRM use them?</b><br>
+A cookie is a small text file containing a unique identification number that is transferred from a website to the hard drive of your computer.  This unique number identifies your web browser—but not you—to SHRM computers whenever you visit SHRM Online. A cookie will not provide personally identifiable information about you, such as your name and address. The use of cookies is now an industry standard, and cookies are currently used on most major websites.  Most web browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you have received a cookie. You can also set your browser to refuse to accept cookies altogether. While SHRM does not  require you to use cookies, keep in mind that certain services will not function properly if you set your browser to refuse all cookies. 
 </p><p>
-Susan Bergman<br>
-Director, Internet Operations<br>
-Society for Human Resource Management<br>
-1800 Duke Street<br>
-Alexandria, Virginia 22314<br>
-<a href="mailto:sbergman@shrm.org">sbergman@shrm.org</a>
+To help serve you better, SHRM generally uses cookies to:
+</p><ul>
+	<p></p><li>Identify return visitors. Cookies let us remember your web browser so we can provide personalized member services such as My SHRM and SHRM search agents. Cookies also allow us to identify SHRM members who are returning to the site, so you will not have to re-enter a member ID and password the next time you visit. 
+	<p></p></li><li>Display advertisements.  SHRM uses an outside ad company to display SHRM-approved ads on our website. While we use cookies on other parts of our website(s), the cookies received with banner ads are collected by our ad company. These cookies allow SHRM to manage the delivery of ads and do not collect personally identifiable information. For more information about our third party ad company, their cookies, and how to "opt-out" of those cookies,  please <a href="http://www.doubleclick.net/us/coporate/privacy">click here</a>.
+
+</li></ul>
+
+<p>
+<b>3. What organization collects the information and who has access to it?  </b><br>
+Data collected through SHRM's website(s) is generally collected and maintained solely by SHRM. More specifically:
+</p><ol type="a">
+	<p></p><li><b>Personally identifiable information</b>. When you provide personally identifiable information on SHRM Online to register for a service,  buy a product, or take advantage of a promotion, that information is collected and maintained solely by SHRM, unless specifically stated otherwise at the point of collection.  SHRM will inform you at the point of collection if your personal data is being shared with another organization.  If you do not want to share your information with that company, you can choose not to use that service.  
+<p>
+If you join SHRM or renew your membership through our website, you provide personally identifiable information on the membership application. SHRM sells mailing lists (names and mailing addresses) of members to selected third-parties. You may opt out of mail list sales when you complete your online application or anytime during your membership, as described in Item 6 below. SHRM does not sell member e-mail addresses to third-parties.  
+	</p><p></p></li><li><b>Anonymous information</b>.  We disclose to third-party sponsors/advertisers aggregate statistics (i.e., impressions and click-throughs on a company's advertisement).  Also, we may share aggregate website statistics with the media or other third parties.  No personally identifiable information is disclosed to these sponsors/advertisers or other third parties as part of this process—only information in an aggregate form.
+<p>
+Be aware that SHRM's sponsors, advertisers, and third-party content providers have links on our site(s) that take you to other websites. For example, when you click on an ad displayed on SHRM Online, you are linked to another site. Please note also that links to other websites are provided throughout SHRM Online for users' information and convenience. SHRM hopes that all third parties involved adhere to our policies regarding the privacy of our users.  However, SHRM's Online Privacy Policy does not cover third-party data collection practices, and SHRM Online does not assume any responsibility for any actions of third parties.
+</p></li></ol>
+
+<p>
+<b>4.  How does SHRM use the information it collects?</b><br>
+SHRM collects information to provide you with the services you request and to improve our website(s). 
 </p><p>
+If you join SHRM or renew your SHRM membership through our website(s), we use the personally identifiable information you provide in the membership application to send you SHRM publications, information about member benefits and special offers, and other information that SHRM believes is relevant and useful to its members. 
+</p><p>
+As mentioned above, SHRM uses the aggregate, anonymous data collected to let our sponsors/advertisers know the number of  impressions or views and the number of "click throughs" on their advertisement(s).  SHRM also uses this aggregate, anonymous data to perform statistical analyses of the collective characteristics and behavior of our site visitors; to measure user interests regarding specific areas of the SHRM Online; and to analyze how and where best to use our resources. Without such data, we would not know which  parts of SHRM Online are the most popular, and we would not be able to change and update the content and services appropriately. 
+</p><p>
+SHRM may be required by law enforcement or judicial authorities to provide information on individual users to the appropriate governmental authorities. In matters involving a danger to personal or public safety, SHRM may voluntarily provide information to appropriate governmental authorities.
+
+</p><p>
+<b>5. How can SHRM members modify their personal information?  </b><br>
+SHRM members have the following options for changing and modifying information previously provided.
+</p><blockquote>
+E-mail: <a href="mailto:shrm@shrm.org">shrm@shrm.org</a> 
+<p>
+Visit: <a href="/memberrecord/">www.shrm.org/memberrecord</a>
+</p><p>
+Send mail to the following postal address: SHRM, 1800 Duke Street, Alexandria, Virginia, 22314, ATTN: Customer Service Department. 
+</p><p>
+Call: 703/548-3440 or 800-283-7476.
+</p></blockquote>
+
+<p>
+<b>6.  What is the opt-out policy for SHRM Online?  </b><br>
+SHRM provides members the opportunity to opt-out of receiving communications from us and our partners. If you no longer wish to receive specific communications or services,  you have the following options: 
+</p><blockquote>
+You can send an e-mail to: <a href="mailto:shrm@shrm.org">shrm@shrm.org</a> 
+<p>
+You can send mail to the following postal address: SHRM, 1800 Duke Street, Alexandria, Virginia, 22314, ATTN: Customer Service Department. 
+</p><p>
+You can call the following telephone numbers: 800-283-7476 or 703-548-3440.
+</p></blockquote>
+<p>
+Instructions for opting out of any SHRM e-mail newsletter you receive are included with each e-mail. 
+
+</p><p>
+<b>7.  What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?</b><br>
+SHRM Online has security measures, such as firewalls, in place to attempt to protect against the loss, misuse and alteration of your user data under our control.  SHRM has implemented strict rules for employees who have access either to the databases that store  user information or to the servers that host our services.  While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions to prevent such unfortunate occurrences. Any other particularly sensitive information, such as your credit card number, collected for a commerce transaction is encrypted prior to transmission. 
+</p><p>
+You are ultimately responsible for the security of your SHRM member ID and password.  You may not share your SHRM member ID and password with colleagues or friends so they can access content or features on SHRM Online that are restricted to SHRM members only. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+
+</p><p>
+<b>8.  How does SHRM Online comply with the Children's Online Privacy Protection Act (COPPA)?</b><br>   
+This site makes bulletin boards, discussion lists, and moderated chats available to its members.  Any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information.  Although users may post messages that will appear on the message boards anonymously, SHRM does retain a record of who posts all notes. 
+
+</p><p>
+<b>9.  What you can do to better protect yourself on the Internet?</b> <br>
+</p><ol type="A">
+	<li><b>Know the risks</b>.  The opportunity to network in an online community (chat room, forum, message board, etc.) is one of the best things about the Internet, but you should always be careful about disclosing personal information such as an actual name, member name, e-mail address, and so on.  This information may be collected and used by others within the online community to send unsolicited e-mail messages outside SHRM Online. Some of the messages you receive may be useful to you, but some may not.  
+	<p></p></li><li><b>Educate yourself</b>. Search the Web for as much information as you can about how to protect your privacy. Look for a privacy policy on  the  websites you visit. A good place to start is TRUSTe—an independent, non-profit organization with a mission to build trust and confidence in the Internet.  The Federal Trade Commission has a website with useful information on being a savvy Internet user along with other privacy  initiatives. Additional privacy resources can be found at by clicking on any of the following links: 
+</li></ol>
+<p></p><li>Department of Education: Parents Guide to the Internet  <a href="http://www.ed.gov/pubs/parents/internet/">http://www.ed.gov/pubs/parents/internet/</a>
+<p></p></li><li>Better Business Bureau (BBB) <a href="http://www.bbbonline.com">http://www.bbbonline.com</a>
+<p></p></li><li>The Privacy Rights Clearinghouse <a href="http://www.privacyrights.org/">http://www.privacyrights.org/</a>
+<p></p></li><li>Center for Democracy and Technology <a href="http://www.cdt.org/privacy/">http://www.cdt.org/privacy/</a>—Data Privacy  <a href="http://www.cdt.org/privacy/guide/">http://www.cdt.org/privacy/guide/</a>—Guide to Online Privacy
+<p></p></li><li>Direct Marketing Association (DMA) <a href="http://www.the-dma.org/">http://www.the-dma.org/</a>
+<p></p></li><li>Electronic Frontier Foundation—non-profit dedicated to protecting public interest in online privacy.  <a href="http://www.eff.org">http://www.eff.org</a>
+<p></p></li><li>EPIC.org (Electronic Privacy Information Center) <a href="http://www.epic.org">http://www.epic.org</a>
+<p></p></li><li>Georgetown Internet Privacy Study  <a href="http://www.msb.edu/faculty/culnanm/gippshome.html">http://www.msb.edu/faculty/culnanm/gippshome.html</a> 
+<p></p></li><li>NetCoalition.com  <a href="http://www.netcoalition.com">http://www.netcoalition.com</a>
+<p></p></li><li>Network Advertising Initiative  <a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a>
+<p></p></li><li>Online Privacy Alliance  <a href="http://www.privacyalliance.org/">http://www.privacyalliance.org/</a>
+
+<ol type="A" start="3">
+	<p></p><li><b>Tell your children: "Never talk to strangers!"</b>  While SHRM Online does not include material directed to children,  it's a good rule of thumb to teach children that they should not reveal their names or other personal information to anyone they encounter on the Internet. They should also be instructed not to fill out any forms or register at any website without your knowledge and consent.
+
+
+
+<p>
 </p><center>
 <form>
 <input type="button" value="Back" onclick="history.back();">
 </form>
 
-<!-- end active area-->
 
 
-
-
-
-
-
-
+<!--ENDDOC-->
 			 
 <!--EndDoc-->	
 
@@ -1661,17 +1641,18 @@ function openComments() {
 -->
   <hr width="80%" align="LEFT"></td>
   </tr>
-  <tr><td width="90" valign="TOP"><a href="/default.asp"><img src="/graphics/weblogo02.jpg" width="82" height="115" border="0"></a><p></p></td>
+  <tr><td width="90" valign="TOP"><a href="/default.asp"><img src="/graphics/weblogo02.jpg" width="73" height="115" border="0"></a><p></p></td>
     <td>
 <b>Society for Human Resource Management</b><br>1800 Duke Street<br>
 Alexandria, Virginia 22314 USA<br>
-(703) 548-3440 <br>FAX: (703) 535-6490<br>
-<!--Email: <A HREF="mailto:shrm@shrm.org">shrm@shrm.org</A><br>-->
+(800) 283-SHRM (U.S. only)<br>
++1 (703) 548-3440 (International)<br>
+FAX: (703) 535-6490<br>
 Questions? <a href="/help">Contact SHRM</a><br>
-Technical Assistance: <a href="mailto:webhelp@shrm.org">webhelp@shrm.org<br>
-                      <br>
-                      </a><font size="-1">Copyright © 2002, Society for Human Resource Management</font>
-    </td>
+Technical Assistance: <a href="/webhelp/">webhelp@shrm.org</a>
+<p>
+<font size="-1">Copyright © 2002, Society for Human Resource Management</font>
+    </p></td>
   </tr>
 <tr>
     <td colspan="5" align="CENTER" width="100%">&nbsp;</td>
@@ -1688,7 +1669,7 @@ Technical Assistance: <a href="mailto:webhelp@shrm.org">webhelp@shrm.org<br>
 	<a style="color: #0000FF;" href="/sitehelp">Help</a>&nbsp;|&nbsp;<a style="color: #0000FF;" href="/about">About</a>&nbsp;
 	|&nbsp;<a style="color: #0000FF;" href="/jobs/career/">Careers@SHRM</a>&nbsp;
 	|&nbsp;<a style="color: #0000FF;" href="/memberkit">Member&nbsp;Services</a>&nbsp;
-	|&nbsp;<a style="color: #0000FF;" href="/about/default.asp?page=nonmembers.html">Non-Members</a>&nbsp;|&nbsp;
+	|&nbsp;<a style="color: #0000FF;" href="/memberkit/sub_pages/shrm_now.html">Non-Members</a>&nbsp;|&nbsp;
 	
 		<a style="color: #0000FF;" href="/join">Join</a>&nbsp;
 		|&nbsp;<b><a style="color: #0000FF;" href="/login.asp">Log In</a></b>
@@ -1701,9 +1682,9 @@ Technical Assistance: <a href="mailto:webhelp@shrm.org">webhelp@shrm.org<br>
 
 
 
-</center></font></td><td valign="TOP" width="15%">
+</center></li></ol></li></font></td><td valign="TOP" width="15%">
 <center><font size="1">ADVERTISEMENT</font></center>
-		<nolayer><iframe src="http://ad.doubleclick.net/adi/shrm.dart/home;sz=120x600;ord=867382?" width="120" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/shrm.dart/home;abr=!ie;sz=120x600;ord=867382?"><IMG SRC="http://ad.doubleclick.net/ad/shrm.dart/home;abr=!ie;sz=120x600;ord=867382?" border=0 height="600" width="120"></A></iframe></nolayer>
+		<nolayer><iframe src="http://ad.doubleclick.net/adi/shrm.dart/home;sz=120x600;ord=143167?" width="120" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/shrm.dart/home;abr=!ie;sz=120x600;ord=143167?"><IMG SRC="http://ad.doubleclick.net/ad/shrm.dart/home;abr=!ie;sz=120x600;ord=143167?" border=0 height="600" width="120"></A></iframe></nolayer>
 		<ilayer id="towerLayer" visibility="show" width="120" height="600"></ilayer>
 
 </td>
