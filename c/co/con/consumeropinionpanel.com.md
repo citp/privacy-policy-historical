@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeropinionpanel.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119124951id_/http%3A//www.consumeropinionpanel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeropinionpanel.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612034303id_/http%3A//www.consumeropinionpanel.com/privacy.htm) for the most accurate reproduction.*
 
 # Synovate Consumer Opinion Panel - Privacy Policy
 
@@ -24,7 +24,7 @@ Our Privacy Policy In Detail
 
 Synovate Consumer Opinion Panel is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/). If you have questions or concerns regarding this statement, you should first contact our Privacy Officer by e-mail at **[ privacy@synovate.net](mailto:privacy@synovate.net)**. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe ( _[ **http://www.truste.org/watchdog.html**](http://www.truste.org/watchdog.html)_ ). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-Privacy is very important to Synovate. We are committed to protecting the information you provide to us. If you have any questions or you feel we have not addressed your concerns, please feel free to [** contact us**](https://web.archive.org/web/20031119124951id_/http%3A//www.consumeropinionpanel.com/contact.htm).
+Privacy is very important to Synovate. We are committed to protecting the information you provide to us. If you have any questions or you feel we have not addressed your concerns, please feel free to [** contact us**](https://web.archive.org/web/20040612034303id_/http%3A//www.consumeropinionpanel.com/contact.htm).
 
 You can be assured that Synovate will conduct research in a professional and ethical manner. As a member of [** CASRO**](http://www.casro.org/) (The Council of American Survey Research Organizations), we are committed to maintaining panelists’ privacy. Our privacy policy and Web site conform to the Code of Standards and Ethics for Survey Research put forth by [** CASRO**](http://www.casro.org/).
 
@@ -48,7 +48,7 @@ Synovate observes the following principles of behavior regarding information pri
 
 **Principle of Accountability:** Synovate has designated a Chief Privacy Officer responsible for ** accountability** of all actions involving our privacy policy.
 
-If you have any questions or concerns about this policy, please **[contact us](https://web.archive.org/web/20031119124951id_/http%3A//www.consumeropinionpanel.com/contact.htm)**.
+If you have any questions or concerns about this policy, please **[contact us](https://web.archive.org/web/20040612034303id_/http%3A//www.consumeropinionpanel.com/contact.htm)**.
 
 Privacy Policy Principles
 
@@ -58,7 +58,7 @@ OPENNESS
 
 **
 
-Synovate, one of the largest marketing research firms in America, specializes in collecting and processing information to assist clients with strategic business decisions. For more than 50 years, we have questioned millions of consumers like you. Our panelists have provided opinions on everything from hair spray to refrigerators - and many other products and services in between. Our original panel of consumers was started back in 1948 and is now one of the largest in the world.
+Synovate, one of the largest marketing research firms in America, specializes in collecting and processing information to assist clients with strategic business decisions. For more than 50 years, we have questioned millions of consumers like you. Our panelists have provided opinions on everything from hair spray to refrigerators - and many other products and services in between. Our original panel of consumers was started back in 1949 and is now one of the largest in the world.
 
 Through our network of offices across the U.S. and Canada, as well as global affiliations, Synovate's primary activity is the design, execution, and interpretation of market research conducted on behalf of clients, which include a majority of the largest 100 multinational consumer products and services companies.
 
@@ -66,7 +66,7 @@ Companies both large and small are interested in your opinions as they strive to
 
 In order for us to determine which survey opportunities are appropriate for you and your household, we need to request some personally identifiable information (e.g. name, address and other data that identifies an individual). When we request personally identifiable information, we clearly disclose what details are required and how your ability to participate in our services will be impacted if you choose not to provide such information.
 
-Synovate headquarters are located at 3040 West Salt Creek Lane, Arlington Heights, Illinois 60005. We can be reached by mail, by calling (847) 590-7000, sending a fax to (847) 590-7010 or an e-mail to **[ privacy@synovate.net](mailto:privacy@synovate.net)**.
+Synovate headquarters are located at 222 South Riverside Plaza Chicago, IL 60606. We can be reached by mail, by calling (312) 526-4000, sending a fax to (312) 526-4099 or an e-mail to **[ privacy@synovate.net](mailto:privacy@synovate.net)**.
 
 **
 
@@ -82,7 +82,7 @@ Should your e-mail address change, please send a message to **[ marie@synovate.n
 
   * call our help line at (800) 745-4267; or
 
-  * send a written request to Marie Brighton, Synovate, 3040 West Salt Creek Lane, Arlington Heights, Illinois 60005.
+  * send a written request to Marie Brighton, Synovate, P.O. Box 5030, Chicago Illinois 60680.
 
 
 
@@ -115,7 +115,7 @@ The registered panel member may at any time ask to have a child’s information 
 
   * call our help line at (800) 745-4267; or
 
-  * send a written request to Marie Brighton, Synovate, 3040 West Salt Creek Lane, Arlington Heights, Illinois 60005.
+  * send a written request to Marie Brighton, Synovate, P.O. Box 5030, Chicago Illinois 60680.
 
 
 **_
@@ -142,7 +142,7 @@ Links to Other Sites
 
 _**
 
-The Synovate web site provides links to other World Wide Web pages that provide additional opportunities and information from third parties. Synovate’s privacy policy cannot and does not apply to external Web areas. Even if a business partnership or third party affiliation exists between Synovate and the operator of a linked Web page, once you depart the Synovate site you are subject to the linked site’s privacy policies and procedures. Because Synovate has no control over such Web operators, you should consult each Web site’s privacy policy before providing personally identifying information. However, we invite you to [** contact us**](https://web.archive.org/web/20031119124951id_/http%3A//www.consumeropinionpanel.com/contact.htm) if you have concerns about privacy policies of sites linked on [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/). We will use your feedback to determine whether to continue providing those links.
+The Synovate web site provides links to other World Wide Web pages that provide additional opportunities and information from third parties. Synovate’s privacy policy cannot and does not apply to external Web areas. Even if a business partnership or third party affiliation exists between Synovate and the operator of a linked Web page, once you depart the Synovate site you are subject to the linked site’s privacy policies and procedures. Because Synovate has no control over such Web operators, you should consult each Web site’s privacy policy before providing personally identifying information. However, we invite you to [** contact us**](https://web.archive.org/web/20040612034303id_/http%3A//www.consumeropinionpanel.com/contact.htm) if you have concerns about privacy policies of sites linked on [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/). We will use your feedback to determine whether to continue providing those links.
 
 **_
 
@@ -200,7 +200,7 @@ If you decide at any time to opt-out of participating in Synovate’s survey pro
 
   * call our help line at (800) 745-4267; or
 
-  * send a written request to Marie Brighton, Synovate, 3040 West Salt Creek Lane, Arlington Heights, Illinois 60005.
+  * send a written request to Marie Brighton, Synovate, P.O. Box 5030, Chicago Illinois 60680.
 
 
 
@@ -261,11 +261,11 @@ If you have any questions about this privacy policy, the practices of Synovate a
 Jisoon Barton  
 Chief Privacy Officer  
 Synovate  
-3040 West Salt Creek Lane  
-Arlington Heights, Illinois 60005
+P.O. Box 5030  
+Chicago, Illinois 60680
 
-(847) 590-7000 work  
-(847) 590-7010 fax
+(312) 526-4000 work  
+(312) 526-4099 fax
 
 **[ privacy@synovate.net](mailto:privacy@synovate.net)**
 
@@ -275,7 +275,7 @@ NOTE
 
 **
 
-This policy is effective as of January 1, 2003. Synovate reserves the right to change this privacy policy at any time.
+This policy is effective as of January 1, 2004. Synovate reserves the right to change this privacy policy at any time.
 
 Synovate reserves the right to transfer personally identifiable information to a buyer in connection with a sale of stock or assets, merger or any other transaction resulting in a change of control of Synovate. Of course, that buyer will have to honor the promises of privacy that we have made to you. You will have an opportunity to opt-out of such a transfer prior to the sale, merger, or change in control of Synovate.
 
