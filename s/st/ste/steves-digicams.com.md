@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steves-digicams.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605235815id_/http%3A//www.steves-digicams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steves-digicams.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207210643id_/http%3A//www1.steves-digicams.com/privacy.html) for the most accurate reproduction.*
 
 # Steve's Digicams - Privacy Notice
 
@@ -54,7 +54,7 @@ This site may contain links or references to other Web sites. Please be aware th
 
 **Other Terms**
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20020605235815id_/http%3A//www.steves-digicams.com/legal.html)
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20021207210643id_/http%3A//www1.steves-digicams.com/legal.html)
 
 **How to Contact Us**
 
