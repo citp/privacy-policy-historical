@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612065835id_/http%3A//autoresponseplus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204072047id_/http%3A//www.autoresponseplus.com/privacy.php) for the most accurate reproduction.*
 
 # AutoResponse Plus: Follow Up Autoresponder and Permission Based Email Marketing Software
 
@@ -12,7 +12,7 @@ We do not sell, rent or exchange your personal information with any third party 
 
 We follow strict security procedures in the storage and disclosure of information which you have given to us, to prevent unauthorised access in accordance with UK data protection legislation.
 
-We do not collect sensitive information about you, except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by contacting us. [Click here](https://web.archive.org/web/20040612065835id_/http%3A//autoresponseplus.com/contact.php) to contact us.
+We do not collect sensitive information about you, except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by contacting us. [Click here](https://web.archive.org/web/20041204072047id_/http%3A//www.autoresponseplus.com/contact.php) to contact us.
 
 We use a technology called "cookies" as part of normal business procedure to track patterns of behaviour of visitors to our site. A cookie is an element of data that our web site sends to your browser which is then stored on your system. You can set your browser to prevent this happening. Any information collected in this way can be used to identify you, unless you change your browser settings.
 
@@ -24,6 +24,6 @@ We process payments securely using WorldPay, part of The Royal Bank of Scotland 
 
 We also process payments securely using PayPal. [Click here](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside) to view their privacy policy.
 
-If you have any questions about privacy, please [click here](https://web.archive.org/web/20040612065835id_/http%3A//autoresponseplus.com/contact.php) to contact us.
+If you have any questions about privacy, please [click here](https://web.archive.org/web/20041204072047id_/http%3A//www.autoresponseplus.com/contact.php) to contact us.
 
 » Return to top
