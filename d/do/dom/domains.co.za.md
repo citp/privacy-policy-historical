@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domains.co.za privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603204121id_/http%3A//www.megaweb.co.za/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domains.co.za privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202213358id_/http%3A//www.megaweb.co.za/legal/privacy.php) for the most accurate reproduction.*
 
 # MegaWeb Policies - Your Privacy
 
@@ -7,8 +7,6 @@ Revision: 04 August 2002 (Navigation Improved)
 
 **Privacy Policy for all users and visitors**  
 MegaWeb Internet Services respect your privacy and work hard to safeguard the privacy of your personal data. We realize that the growth of the Internet and online services raises questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we apply our long-standing commitment to safeguarding privacy to our online and Internet activities.
-
-| 
 
   * [General](http://www.megaweb.co.za/legal/privacy.php#general)
   * [Personally Identifiable Information](http://www.megaweb.co.za/legal/privacy.php#Personally_Identifiable_Information)
