@@ -1,103 +1,33 @@
-> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202151827id_/http%3A//www.travelers.com/w3c/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616171059id_/http%3A//www.travelers.com/w3c/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # Travelers Property Casualty - Privacy Notice
 
+The nature of our business requires a relationship of trust with our customers. The foundation of that trust is the assurance that we will not misuse information that we receive about customers. The following is our Privacy Policy regarding the collection and disclosure of our customers’ personal information. The Privacy Policy is subject to updates at any time. The St. Paul Travelers companies operate in a number of different jurisdictions and this Privacy Policy is not a comprehensive statement of all measures taken and rules complied with in each of those jurisdictions, but an indication of the intent of The St. Paul Travelers to comply with the privacy laws of the jurisdictions where we do business.
+
+**Personal Information** | 
+
+Personal information is information that identifies an individual personally. Personal information includes but is not limited to such information as name, address, credit history, policy or claim information and health information.  
   
+**How We Collect Personal Information** | 
 
+We collect personal information to enable us to provide our products and services to customers and to support our business operations. We obtain personal information directly from the customer, from customer-related transactions and from third parties, such as a consumer reporting agency.   
+  
+**Protecting Personal Information** | 
 
-  * What we mean when we talk about "privacy".
-  * What kind of information we have, and where we get it.
-  * Who has access to this information?
-  * How to find out what information we have about you.
-  * When you write, what you should tell us.
+We use procedural, manual and electronic security controls to maintain the confidentiality and integrity of personal information in our possession and guard against its unauthorized access. Some techniques we employ to protect information include locked files, user authentication, encryption, firewall technology and the use of detection software. We are responsible and the use of detection software. We are responsible for identifying information that must be protected, providing an adequate level of protection for that data and granting access to protected data as permitted or required by law.
 
+Some of The St. Paul Travelers employees have access to customer personal information in the course of doing their jobs, which includes underwriting policies, processing claims, developing new products or advising customers of our products and services. These employees are expected to keep this information in confidence and share the information only with those who have a business reason to know. Employees are prohibited from making unauthorized disclosure of personal information that we obtain about customers. Employees who violate our policies on privacy may be subject to disciplinary action.  
+  
+**Disclosing Personal Information** | 
 
+We keep our customers’ personal information private and do not give it to others, unless allowed. We do not give or sell our customers’ personal information to other companies for marketing purposes. We may share personal information that we have about customers within The St. Paul Travelers family of property and casualty insurance companies.
 
-**WHAT WE MEAN WHEN WE TALK ABOUT "PRIVACY"**
+We may give personal information to other persons or companies to help us manage or service our business. When we do, we require them to use it only for the reasons we gave it to them. To serve our customers and administer our business including the processing of claims, we may share personal information about customers with unaffiliated third parties, including agents, brokers, other insurance companies, reinsurers, regulators, administrators and service providers and as otherwise permitted or required by law. Such sharing of data may be outside the jurisdiction in which the data was obtained.  
+  
+**Customer Rights** | 
 
-Your privacy is important to us. When we sell an insurance policy to a person, we need information about the person or property that we're insuring. We consider this information private and have taken steps to protect its confidentiality.
+The St. Paul Travelers acknowledges that some customers about whom we collect personal information have certain legal rights concerning that information. These individuals have a right to be told of their privacy rights and our information handling practices. They have a right to know what information we have about them, how we obtained it, and with whom we may share it. They also have a right to request correction of any wrong information pertaining to them in our file. The St. Paul Travelers supports these rights as they add a measure of security and confidence to our dealings with the public. We will do everything we reasonably can to assist customers in exercising their privacy rights and will not attempt to dissuade them from doing so.  
+  
+**Global Operations** | 
 
-We want you to know about our privacy policy. The privacy policy tells you the kinds of information we get about you, where we get it, and with whom, if anyone, we may share it.
-
-This brochure describes our privacy policy, procedures and practices for people who seek or obtain automobile, homeowners and other personal liability and property insurance for personal, family or household needs
-
-**WHAT KIND OF INFORMATION WE HAVE AND WHERE WE GET IT**
-
-You give us most information we need in the application process. To make sure all this information is current and correct; we may need to check it with you by telephone or by mail.
-
-You may be asked to give us more information in writing or over the phone. Plus, we may receive and check information on your past insurance claims from insurance support organizations or your former insurers.
-
-As allowed by law, we may also ask for credit and other consumer reports from consumer reporting agencies in connection with your application for insurance or any renewal of insurance. Information given to us by an insurance support organization, including consumer reporting agencies may be retained by them and disclosed to other persons.
-
-For Auto Insurance, we often get a report of accidents or convictions from your State Motor Vehicle Department. We get these reports through an independent reporting company. We may also receive and check other information from government agencies or independent reporting companies to help us correctly rate and properly price your insurance risk.
-
-On insurance for a home, a building, or a boat, we or an inspector from an independent reporting company may visit the property to inspect and report on its condition, and in some cases, take a picture of it. This allows us to check the estimate we have of your property's value. If we need more information about the property or the alarm you've installed, we may need to enter your property to finish the inspection. We would contact you before entering your property.
-
-As a part of our application process, in most states, we also order an Insurance Score based on credit history. We use the Insurance Score, the information you give us and other consumer reports to determine eligibility and the price we will charge for insurance.
-
-Once you're insured with us, your file may also contain information about your policies with us, including your bill payment history or the claims you have had with us. A claim representative may comment, for example, on the condition of the insured property, or let us know if there have been any changes in the way it's used. We may also keep a police report, if there was one in connection with an accident.
-
-Sometimes we need some information about your health- if, for example, we need to know whether a physical limitation will affect your ability to drive. We would ask you to sign a form allowing your personal doctor to give us written information about your health.
-
-**WHO HAS ACCESS TO THIS INFORMATION**
-
-We will keep information we collect about you in our files. Our policies and procedures protect your personal information in our files. 
-
-**We do not give or sell our customers' personal information to others for marketing purposes. You don't have to ask us to keep your information private because we do not give your information, unless allowed.**
-
-We will use information about you to sell you insurance, service your insurance and settle claims. We may give the information to other persons or companies to help us manage or service our business. When we do, we make them use it only for the reasons we gave it to them.
-
-We may give, without your past permission and only if allowed by law, information about you held in our files to certain persons or organizations _such as_ :
-
-  * Your agent or broker
-  * Our affiliated property and casualty insurance companies
-  * An independent claim adjuster or investigator
-  * Persons or organizations that conduct scientific research, including actuarial or underwriting studies, provided that no individual may be identified in the studies
-  * An insurance support organization, including consumer reporting agencies
-  * Another insurer in order to prevent or prosecute fraud
-
-
-
-Also, on rare occasions, we may be required to share this information:
-
-  * With a State Insurance Department or other governmental agency, if required by federal, state or local laws
-  * If ordered by a summons, court order, search warrant or subpoena
-  * To protect our own legal interests, or in case of suspected fraud or other illegal activities.
-
-
-
-**HOW TO FIND OUT WHAT INFORMATION WE HAVE ABOUT YOU**
-
-If you have any questions about the information we have in your file, please write to us at:
-
-     Personal Lines Privacy Coordinator  
-     One Tower Square  
-     Hartford, CT 06183
-
-When we receive your written request, we will let you know if we've given any information about you to anyone in the past. When we receive your written request, we will also tell you, if we asked for a consumer report, and if so, the name and address of the consumer reporting agency that gave the report to us. 
-
-If you want, you may also see and copy the information (except for certain documents pertaining to claims and lawsuits). If you believe any of our information is wrong we'll check it out and if we agree there was an error, we'll correct it. If we don't agree, you're still allowed to file a letter with us disagreeing with the information. We'll send the correction or letter to anyone who received or will receive the original information.
-
-If you have any questions about the right of access to or correction of your file, please contact us. We'll be happy to review our procedures with you. 
-
-**WHEN YOU WRITE, PLEASE BE SURE TO TELL US YOUR:**
-
-  * Name
-  * Address
-  * Policy number
-  * Phone number and the best time of the day for us to call you
-
-
-
-Please include a copy (not the original) of some type of personal identification, such as your driver's license and send it to your agent or insurance representative.
-
-**WE THANK YOU FOR LETTING US SERVE YOUR INSURANCE NEEDS.**
-
-This notice is given by The Travelers Indemnity Company, The Standard Fire Insurance Company and their property and casualty insurance affiliates, Hartford, CT 06183. This notice may be amended at any time.
-
-|   
----  
-| 
-
-©2003 Travelers Property Casualty Corp.  
-
+The St. Paul Travelers is a property and casualty insurer, doing business in several countries. Some of these countries have enacted laws and regulations protecting personal information; other countries have not. It is The St. Paul Travelers’ policy to comply with the privacy laws and regulations of every country in which we do business.
