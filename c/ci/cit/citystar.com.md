@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the citystar.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602143815id_/http%3A//citystar.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citystar.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201225204id_/http%3A//citystar.net/privacy.html) for the most accurate reproduction.*
 
-# privacy policy statement: citystar online
+# privacy policy statement: CityStar® online
 
-This is the web site of CityStar Group, Inc.
+This is the web site of CityStar® Group, Inc.
 
 Our postal address is   
-3645 Jeannine Drive  
-Suite 211  
+2790 N. Academy Blvd.  
+Suite 364  
 Colorado Springs, CO 80917
 
-We can be reached via e-mail at support@citystar.com or you can reach us by telephone at 719-955-5955
+We can be reached via e-mail at support@citystar.com or you can reach us by telephone at 719-559-1945
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and IP address (where possible). 
 
@@ -19,7 +19,7 @@ The information we collect is used to improve the content of our Web page, used 
 
 If you do not want to receive e-mail from us in the future, please let us know by email at support@citystar.com.
 
-CityStar Group, Inc. never makes our customer e-mail list available to other companies or organizations.
+CityStar® Group, Inc. never makes our customer e-mail list available to other companies or organizations.
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
