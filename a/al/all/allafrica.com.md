@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410083517id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209073202id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
 
 # allAfrica.com: Privacy Policy
 
@@ -26,21 +26,16 @@ A "cookie" is a small data text file that can be placed in your browser to enabl
 
 Cookies themselves do not contain any personal information. AllAfrica does not use cookies to collect personal information. Instead, they may sometimes be used to track which parts of our site you have used so that we can better serve you when you return. Cookies may be used to provide you with information and special opportunities tailored to your interests. Our advertisers may use cookies to determine or control how many times you see their message or to customize the message you are presented.
 
-Third Party Ad Serving
+Email
 
-AllAfrica works with third parties that serve ads to this site, including Sonar, a DoubleClick division. In the course of serving advertisements to this site, DoubleClick may place or recognize a unique cookie on your browser. They may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements on this and other sites about goods and services of interest to you. If you would like more information about this practice, and to know your choices about not having this information used by Sonar and DoubleClick, please click [here.](http://www.sonar.com/naiprivacy)
+AllAfrica will never give your email address to anyone else. We will only send you mail in response to your questions, as follow-up to your transactions, or as part of services you have signed-up for.
+
+Third Party Ad Serving and Sites
+
+AllAfrica works with carefully chosen third parties to serve ads to this site, including Advertising.com. In the course of serving those advertisements, Advertising.com collects what is known as "Click Stream Data," which is anonymous and includes a web user's IP address, web pages viewed, date and time of access and responses by a web surfer to an advertisement delivered by us. If you would like more information about this practice, read Advertising.com's [ Privacy Statement](http://www.advertising.com/privacy_policy.htm).
+
+Some of our pages contain links to other sites that may have information practices different from ours. AllAfrica has no control over information that is submitted to, or collected by, these third parties. You should consult the privacy notices of any site you choose to visit.
 
 Disclosing Information to Others
 
 AllAfrica will only disclose personal information when required to do so by law or when we have explicit permission to do so.
-
-Correspondence
-
-Comments or questions? Click [_here_](https://web.archive.org/feedback/general.html?ref=http://allafrica.com/privacy.html) to contact us.
-
-or write to:   
-AllAfrica Global Media   
-920 M Street SE   
-Washington DC 20003 USA   
-Tel: (202) 546-0777   
-Fax: (202) 546-0676
