@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207163546id_/http%3A//majorgeeks.com/page.php%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602203715id_/http%3A//www.majorgeeks.com/page.php%3Fid%3D5) for the most accurate reproduction.*
 
-# MajorGeeks.com - Geek it 'till it MHz
+# MajorGeeks.com - Download Shareware and Freeware Computer Utilities.
 
 MajorGeeks.Com respects its readers rights to privacy. 
 
