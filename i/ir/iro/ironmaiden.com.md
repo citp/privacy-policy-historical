@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmaiden.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218224006id_/http%3A//www.ironmaiden.co.uk/ironmaiden/privpolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmaiden.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402124236id_/http%3A//www.ironmaiden.com/ironmaiden/privpolicy.asp) for the most accurate reproduction.*
 
 # www.ironmaiden.com » home
 
@@ -42,7 +42,7 @@ We use a 3rd party advertising agency (TVMV) to display banner ads on our site. 
 We also give customers the following options for removing their information from our database and to no longer receive our service. 
 
   1. You can send email to [sancnomail@jointhelist.co.uk](mailto:sancnomail@jointhelist.co.uk)
-  2. You can visit the following URL: [/ironmaiden/maillist/maidenmailout.shtml](https://web.archive.org/ironmaiden/maillist/maidenmailout.shtml)
+  2. You can visit the following URL: [/ironmaiden/maillist/maidenmailout.asp](https://web.archive.org/ironmaiden/maillist/maidenmailout.asp)
 
 
 
@@ -51,7 +51,7 @@ We also give customers the following options for removing their information from
 This site gives customers the following options for changing and modifying information previously provided. 
 
   1. email [incorrect@jointhelist.co.uk](mailto:incorrect@jointhelist.co.uk)
-  2. visit [/ironmaiden/maillist/maidenmailout.shtml](https://web.archive.org/ironmaiden/maillist/maidenmailout.shtml)
+  2. visit [/ironmaiden/maillist/maidenmailout.asp](https://web.archive.org/ironmaiden/maillist/maidenmailout.asp)
 
 
 
