@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606155742id_/http%3A//www.cooking.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210042215id_/http%3A//cooking.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
 
 # Cooking.com - Pledge
 
@@ -21,11 +21,11 @@ Cooking.com respects your privacy. Our Internet site is meant to be a service to
 
 **a. Your First Purchase from a Cooking.com company** \- We use the information you provide to: 
 
-  * **automatically place you on our e-mail newsletter list** to receive e-mail newsletters with special offers and updates about products and services, unless you click the link to edit your subscription profile at the time your order is confirmed;
+  * **automatically place you on our e-mail list** to receive special offers and updates about products and services, unless you edit your subscription profile at the time your order is placed;
   * **automatically place you on our direct mail/catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services; and
   * **make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available** to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
 
-**b. Your Subsequent Purchases from a Cooking.com company** \- If you have purchased a product from a Cooking.com company before, unless you click the link to edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
+**b. Your Subsequent Purchases from a Cooking.com company** \- If you have purchased a product from a Cooking.com company before, unless you edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
 
 Whether you are making a first purchase or any subsequent purchase, if you later decide that you want to be removed from a list or do not want us to share your name and postal address information, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
 
@@ -39,8 +39,9 @@ Whether you are making a first purchase or any subsequent purchase, if you later
 *  **When you enter a sweepstakes** sponsored by Cooking.com, we may ask for any or all of the following information: your name, postal address, e-mail address and telephone number. Check the official rules or the actual sweepstakes for what information is requested for any individual sweepstakes. Unless the official rules for a particular sweepstakes provide otherwise, when you provide your e-mail address you will be signed up for Cooking.com Companies e-mail newsletters and, if you provide us with your postal address, you will be added to our direct mail/catalog list. You can unsubscribe from the e-mail newsletters and/or direct mail/catalog list at any time by following the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing."
 *  **When you register at My Cooking.com** , we collect your name, address, telephone number and e-mail address. You can use My Cooking.com to update your account information, save addresses where you have sent products, track orders, create a personal wish list and save your favorite recipes. We also use the information you provide to:
 
-  * **automatically place you on our e-mail newsletter lists** to receive e-mails with special offers and updates about products and services; and
+  * **automatically place you on our e-mail lists** to receive special offers and updates about products and services; and
   * **automatically place you on our direct mail/ catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services.
+  * **automatically** send you emails to collect feedback related to your purchases.
 
 If you want to be removed from a list, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
 *  **When you create a wedding registry at Cooking.com** , we collect your name, your spouse’s name, your shipping address, telephone number, wedding date (month and year) and location (city and state), email address, and if you provide them, your spouse’s email address and a guest password.
