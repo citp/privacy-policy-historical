@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seaworld.org privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401121650id_/http%3A//www.seaworld.org/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seaworld.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404024513id_/http%3A//www.seaworld.org/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # SeaWorld/Busch Gardens ANIMALS - PRIVACY POLICY
 
-| **[](https://web.archive.org/web/20040401121650id_/http%3A//www.seaworld.org/index.asp#)**| 
+| **[](https://web.archive.org/web/20050404024513id_/http%3A//www.seaworld.org/index.asp#)**| 
 
 **Terms of Use**
 
@@ -47,5 +47,7 @@ We want to be very clear: We do not obtain personal information about you other 
 By using our Web site, you consent to the collection and use of this information by the Anheuser-Busch family of companies and their advertising and promotional agencies and consultants. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you do not agree to our Privacy Policy, please do not use this site. We reserve the right, at our complete discretion, to change, modify, add, or remove portions of this policy at any time.
 
 Please check back periodically for any changes we may make to the policy. Your continued use of this site following the posting of changes to these terms will mean you accept these changes.
+
+This policy was last updated on July 12, 2004.
 
 Thank you for visiting our site.
