@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205135700id_/http%3A//www.automobilemag.com/pages.cfm%3Farea_id%3D0%26page_id%3D323%26template%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2001-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010609122800id_/http%3A//www.automobilemag.com/pages.cfm%3Farea_id%3D0%26page_id%3D323%26template%3D1) for the most accurate reproduction.*
 
 # privacy policy
+
+|     | 
 
 **Automobilemag.com and AutoSourceClassifieds.com Privacy Policy**
 
@@ -20,12 +22,12 @@ Questions regarding this statement should be directed to Automobile Magazine's A
 
 **Gathering Information:**   
 Automobilemag.com and AutoSourceClassifieds.com gathers two types of information about users: data that users provide through optional, voluntary registration of the Automobilemag.com and AutoSourceClassifieds.com service and through optional, voluntary participation in message boards, chats and surveys as well as certain contests and sweepstakes. This information enables Automobilemag.com and AutoSourceClassifieds.com to better tailor our content and classified services to our visitors and advertisers needs. Automobilemag.com and AutoSourceClassifieds.com doesn't share or sell the information on advertisers that place a classified online. **Use of the Information:**  
-Automobilemag.com and AutoSourceClassifieds.com may perform statistical analyses of user behavior in order to measure relative consumer interest on various services (for product development purposes) and to inform advertisers as to how many consumers have responded to a classified listing and seen or "clicked" their adverting banner. In performance of these statistical analyses, we will disclose information to third parties only in aggregate form. Personal information on individual subscribers and advertisers will not be provided to any third party. 
+Automobilemag.com and AutoSourceClassifieds.com may perform statistical analyses of user behavior in order to measure relative consumer interest on various services (for product development purposes) and to inform advertisers as to how many consumers have responded to a classified listing and seen or "clicked" their advertising banner. In performance of these statistical analyses, we will disclose information to third parties only in aggregate form. Personal information on individual subscribers and advertisers will not be provided to any third party. 
 
 Automobilemag.com and AutoSourceClassifieds.com may send out emails to users that have opted in for an online service to announce special offers, services and announcements from our site and/or advertisers. 
 
 **Sharing of the Information:**  
-Automobilemag.com and AutoSourceClassifieds.com shares the information it tracks, in aggregate form, with advertisers and other partners. We do not release information about any individual subscriber to third parties. 
+Automobilemag.com and AutoSourceClassifieds.com shares the information it tracks, in aggregate form, with advertisers and other partners. We do not release personal information about any individual subscriber to third parties. 
 
 Automobilemag.com and AutoSourceClassifieds.com occasionally makes the list of postal addresses volunteered on its Web site via email registration, contest, sweepstakes and surveys available to other carefully screened associations or companies whose products or services we think you may find of interest. We pre-screen all use of our information for our customers. 
 
@@ -46,6 +48,5 @@ Automobilemag.com and AutoSourceClassifieds.com is not responsible for the conte
 ](http://www.ftc.gov/privacy/index.html) [Privacy Issues Page](http://www.ftc.gov/privacy/index.html)
 
  **DoubleClick, our advertising partner**  
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Please click here for more information on DoubleClick and its privacy policy, information collected in the process of delivering an ad to you and your choices regarding delivery of targeted ad campaigns. [DoubleClick Privacy Policy  
-](http://www.doubleclick.net/privacy_policy/)  
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser and may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here. ](http://www.doubleclick.net/naiprivacy)   
 
