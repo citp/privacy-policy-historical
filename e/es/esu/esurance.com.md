@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esurance.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211174726id_/http%3A//www.esurance.com/content/footer/MainPrivacyAndSecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esurance.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610192623id_/http%3A//www.esurance.com/content/footer/MainPrivacyAndSecurity.asp) for the most accurate reproduction.*
 
 # Esurance - Privacy and Security
 
@@ -72,7 +72,7 @@ All information is collected during the quote and payment process. Telephone rep
 
 All claims information remains confidential and is considered only in reference to the specific claim. Claims information is not provided to third parties unless required by law or as part of Esurance's relationships with claims index bureaus. In accordance with standard insurance fraud protection practices, Esurance provides claims data, which includes your name, address, and Social Security Number to the CLUE/Metropolitan Index Bureau. Information on total losses and auto thefts is provided to the National Insurance Crime Bureau. The information submitted to these claims index bureaus is shared between insurance companies. Other disclosures may be made if required by law. 
 
-Esurance works closely with reliable insurance companies to provide you with insurance products. Our relationship with these companies is governed by an agreement that includes provisions requiring that all customer information shared between our companies be maintained as confidential. ([Click here to find out more about the company providing policies in your state.](https://web.archive.org/web/20011211174726id_/http%3A//www.esurance.com/content/ResourceCenter/insurance_reinsurance.asp)) 
+Esurance works closely with reliable insurance companies to provide you with insurance products. Our relationship with these companies is governed by an agreement that includes provisions requiring that all customer information shared between our companies be maintained as confidential. ([Click here to find out more about the company providing policies in your state.](https://web.archive.org/web/20020610192623id_/http%3A//www.esurance.com/content/ResourceCenter/insurance_reinsurance.asp)) 
 
 In some cases, visitors enter our site from a partner site where they have already entered personal information. Our partner will pass this personal information to Esurance for the purpose of expediting the navigation through our screens and applications. Before providing this information from a partner site, you will have the ability to opt out of such transfer. If you do not choose to opt out, information such as your address or phone number will be transferred into the forms on our Web site in order to provide you with a convenient purchase process.
 
@@ -132,8 +132,6 @@ As part of our efforts to optimize your experience, Esurance does allow third pa
 
 These services are used to serve Esurance ads on other Web sites. Matchcraft, Mediaplex, Doubleclick, and Advertising.com provide tracking information from online advertising to Esurance. This allows Esurance to see which ads on other sites send us traffic, and if these visitors complete a quote. Esurance gains no personal information on visitors from these services. Customers may opt out from Doubleclick tracking by visiting the Doubleclick Web site at <http://www.doubleclick.com/us/corporate/privacy>. 
 
-We have also engaged Cogit, an emarketing company that aggregates anonymous profiles to whom we may provide your name, street address and/or ZIP Code. We allow Cogit to place an anonymous cookie on your browser when you visit. Cogit uses data gathered from other Web sites to provide Esurance with demographic data on its visitors. Cogit is contractually prohibited from disclosing or even retaining any of the information it gathers. In addition, Cogit may not use the information to contact you or for any purpose other than to help us better understand your needs. Based on such information from their other clients, Cogit generates anonymous user profiles devoid of personally identifiable information, which allow clients like us to enhance our service offerings. When you visit our site, Cogit will help us select the content or promotions we should display to you by analyzing or providing us with certain demographic information from its anonymous user profile. If we receive any demographic information from Cogit's anonymous profile, we are contractually prohibited from disclosing or even storing it. To learn more about Cogit and its stringent privacy protection measures or to opt out of Cogit services, please go to [http://cs.click-safe.com/opt_info.php3](http://cs.click-safe.com/opt_info.asp)
-
 Your security is not compromised by the use of these cookies. Our site uses industry standard encryption techniques to send cookies. Our cookies contain no personal information and will not damage your computer or data. 
 
 **Demographic information**   
@@ -179,4 +177,4 @@ Sioux Falls, SD 57117-5250
 Please note: As of May 17, 2001, Esurance is no longer a participant in the TrustE program.
 
   
-Version PN003 effective October 30, 2001
+Version PN004 effective March 5, 2002
