@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214162248id_/http%3A//browncafe.net/statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207152020id_/http%3A//browncafe.net/statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -67,11 +67,11 @@ If you have any questions about this privacy statement, the practices of this si
   
 ---  
   
-[Stock](http://browncafe.org/stock.htm)
+[Stock](http://browncafe.com/stock.htm)
 
 | 
 
-[News](http://browncafe.net/news.htm)
+[News](http://browncafe.com/news.htm)
 
 | 
 
@@ -79,22 +79,20 @@ If you have any questions about this privacy statement, the practices of this si
 
 | 
 
-[People](http://browncafe.net/people.htm)
+[People](http://browncafe.com/people.htm)
 
 | 
 
-[Work](http://browncafe.net/work.htm)  
+[Work](http://browncafe.com/work.htm)  
   
-[Boards](http://browncafe.org/boards.htm)
+[Boards](http://browncafe.com/boards.htm)
 
 | 
 
-[Chat](http://www.browncafe.net/chat.html)  
+[Chat](http://www.browncafe.com/chat.html)  
   
-[Our Privacy Policy](http://browncafe.net/statement.shtml) **~** [Information Integrity](http://browncafe.net/integrity.shtml)  
+[Our Privacy Policy](http://browncafe.com/statement.shtml) **~** [Information Integrity](http://browncafe.com/integrity.shtml)  
   
 The Fine Print
 
-The information herein is obtained from sources that are considered reliable, but accuracy is not guaranteed. By providing links to other sites, BrownCafe does not guarantee, approve or endorse the information or products available at these sites, nor does a link indicate any association with or endorsement by the linked site to BrownCafe. Selected content on the BrownCafe is freely available. We do not claim this information as our own. If, for any reason, we provide information that is copyrighted, please let us know so that we can delete the content from our site.  
-  
-design and copyright: BrownCafe
+The information herein is obtained from sources that are considered reliable, but accuracy is not guaranteed. By providing links to other sites, BrownCafe does not guarantee, approve or endorse the information or products available at these sites, nor does a link indicate any association with or endorsement by the linked site to BrownCafe. Selected content on the BrownCafe is freely available. We do not claim this information as our own. If, for any reason, we provide information that is copyrighted, please let us know so that we can delete the content from our site.
