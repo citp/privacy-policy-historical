@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ynhh.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021700id_/http%3A//www.ynhh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynhh.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403152026id_/http%3A//www.ynhh.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Yale-New Haven Hospital
 
@@ -82,7 +82,7 @@ Yale-New Haven Hospital is dedicated to providing you with health care, informat
 
 We insist that our staff observe patient confidentiality—respecting your right to privacy about your medical records and experience with this hospital. 
 
-  * [Notice of Privacy Policy](https://web.archive.org/web/20041204021700id_/http%3A//www.ynhh.com/resource/ynhhprivacypolicy.pdf), Yale-New Haven Hospital (pdf file, 94.2 KB)  
+  * [Notice of Privacy Policy](https://web.archive.org/web/20050403152026id_/http%3A//www.ynhh.com/resource/ynhhprivacypolicy.pdf), Yale-New Haven Hospital (pdf file, 94.2 KB)  
 _Note:_ You will need [Adobe Acrobat Reader](http://www.adobe.com/prodindex/acrobat/readstep.html "Adobe Acrobat Free Reader") installed in order to read the pdf file. 
 
 
@@ -132,7 +132,7 @@ If you are concerned about the security of your message before it reaches the ho
 Visitors to our "Ask the Expert" forums on breastfeeding and women's heart issues have the opportunity to post a message to the forums and receive a posted reply from either YNHH lactation specialists or nursing staff of our Call Center's nurse triage program. Your message is posted to the forum and the specialist/nurse is notified a new message is waiting there. You may sign your message (question or reply) with any name or initials you choose. We explain at the time you post your question or reply that we need your E-mail address in order to notify you of replies to your message. We may use your address to notify you of events or opportunities in which we think you might be interested. If you prefer that we not use and retain your address, leave the line blank and select "Do not send any replies." Your question or reply will still appear on the forum, but it will be up to you to check the forum for a response from our specialists/nurses.  
   |    
   | **Communications with our Patient Relations staff**  
-Our site provides an [E-mail link](https://web.archive.org/web/20041204021700id_/http%3A//www.ynhh.com/patients/patients.html#assistance) to our Patient Relations staff who will treat your communications with the same regard to your privacy we strive to employ in every patient interaction. If you are concerned about the security of your message before it reaches the hospital network, we invite you to instead call or write our Patient Relations staff:  
+Our site provides an [E-mail link](https://web.archive.org/web/20050403152026id_/http%3A//www.ynhh.com/patients/patients.html#assistance) to our Patient Relations staff who will treat your communications with the same regard to your privacy we strive to employ in every patient interaction. If you are concerned about the security of your message before it reaches the hospital network, we invite you to instead call or write our Patient Relations staff:  
 Patient Relations
 
 Yale-New Haven Hospital  
