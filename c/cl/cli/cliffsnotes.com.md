@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605103128id_/http%3A//www.cliffsnotes.com/cliffsnoteaday/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2004-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040815172251id_/http%3A//www.cliffsnotes.com/cliffsnoteaday/privacypolicy.asp) for the most accurate reproduction.*
 
 # CliffsNotes.com Privacy Statement
 
