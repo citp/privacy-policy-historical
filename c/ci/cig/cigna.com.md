@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cigna.com privacy policy that was archived on 2000-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000415091507id_/http%3A//www.cigna.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigna.com privacy policy that was archived on 2000-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000915145052id_/http%3A//www.cigna.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
