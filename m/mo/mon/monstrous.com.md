@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstrous.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606061017id_/http%3A//monstrous.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstrous.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223181910id_/http%3A//www.monstrous.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
