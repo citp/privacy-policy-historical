@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203165200id_/http%3A//redding.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203192900id_/http%3A//redding.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
