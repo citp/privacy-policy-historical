@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030613id_/http%3A//www.scanalert.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612083640id_/http%3A//www.scanalert.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # ScanAlert - Privacy Policy
 
@@ -14,7 +14,7 @@ Each change to ScanAlert’s Privacy Statement is reviewed by TRUSTe before publ
 
 What is Covered in This Statement
 
-This privacy statement covers the site www.ScanAlert.com This site is operated by ScanAlert, Inc., a California corporation with its headquarters located at:
+Effective as of Jan 1, 2003, this privacy statement covers the site www.ScanAlert.com This site is operated by ScanAlert, Inc., a California corporation with its headquarters located at:
 
 860 Napa Valley Corporate Way, Suite R  
 Napa CA 94558
