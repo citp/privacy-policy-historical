@@ -1,30 +1,36 @@
-> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2003-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tie-a-tie.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/privacy.html) for the most accurate reproduction.*
 
 # Tie-a-Tie.net | Privacy Policy
 
 **     [Home](http://www.tie-a-tie.net/ "Home")
 
-    [Windsor Knot](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/windsor.html "Windsor Knot")
+    [Windsor Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/windsor.html "Windsor Knot")
 
-    [Half Windsor Knot](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/halfwindsor.html "Half Windsor Knot")
+    [Half Windsor Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/halfwindsor.html "Half Windsor Knot")
 
-    [Four in Hand Knot](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/fourinhand.html "Four in Hand Knot")
+    [Four in Hand Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/fourinhand.html "Four in Hand Knot")
 
-    [Pratt Knot](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/pratt.html "Pratt Knot")
+    [Pratt Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/pratt.html "Pratt Knot")
 
-    [Tie Tips & Tricks](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/tips.html "Tie Tips & Tricks")
+    [Bow Tie Knot](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/bowtie.html "Bow Tie Knot")
 
-    [Tie Accessories](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/accessories.html "Tie Accessories")
+    [Tie Tips & Tricks](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/tips.html "Tie Tips & Tricks")
 
-    [Great Deals on Ties](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/greatdeals.html "Great Deals on Ties")
+    [Necktie Accessories](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/accessories.html "Necktie Accessories")
 
-    [Tell a Friend](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/tell.shtml "Tell a Friend")
+    [Buy Neckties Online](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/neckties.html "Buy Neckties Online")
 
-    [Link to Me](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/linktome.html "Link to Me")
+    [Tell a Friend](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/tell.html "Tell a Friend")
 
-    [Resources](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/resources.html "Resources")
+    [Link to Me](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/linktome.html "Link to Me")
 
-    [Sitemap](https://web.archive.org/web/20030804095657id_/http%3A//www.tie-a-tie.net/sitemap.html "Sitemap")
+    [Feedback](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/feedback.html "Feedback")
+
+    [Articles](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/articles.html "Articles")
+
+    [Resources](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/resources.html "Resources")
+
+    [Sitemap](https://web.archive.org/web/20040610201342id_/http%3A//tie-a-tie.net/sitemap.html "Sitemap")
 
 **
 
@@ -32,7 +38,7 @@
 
 > ### **Privacy Policy**
 > 
-> **Last Updated: June 17, 2003**
+> **Last Updated: July 24, 2003**
 > 
 > "Tie-a-Tie.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, eMail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your eMail address to any unauthorized third party. Period."
 > 
@@ -66,8 +72,6 @@
 > 
 > Internet: Tie-a-Tie.net
 > 
-> eMail: info @ tie-a-tie.net
-> 
 > **Changes to this Policy**
 > 
 > Tie-a-Tie.net reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
@@ -81,3 +85,5 @@
 > Tie-a-Tie.net is controlled, operated and administered entirely within Tie-a-Tie.net. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 > 
 > * * *
+
+| 
