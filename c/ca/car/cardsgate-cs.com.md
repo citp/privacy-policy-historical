@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardsgate-cs.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210022303id_/http%3A//www.cardsgate.com/help%3FTopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardsgate-cs.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604020352id_/http%3A//www.cardsgate.com/help%3FTopic%3DPrivacy) for the most accurate reproduction.*
 
-# Cards GATE - Биллинговая система [HELP system]
+# Cards GATE - Billing [HELP system]
 
 In order to provide you with interactive computer billing services, CardsGATE collects, uses, and shares certain information about you. This policy explains what we collect, with whom we share it, and how you can interact with CardsGATE in order to ensure the accuracy of the data we collect, use, and share. The information CardsGATE collects from you helps CardsGATE better serve the online community by continually personalizing the electronic payment services CardsGATE provides. CardsGATE collects and maintains the following data: 
 
@@ -25,6 +25,6 @@ CardsGATE allows you to access to certain information about you for the limited 
 
 * * *
 
-CardsGATE does not request, or knowingly collect identifiable information from children under the age of 13. CardsGATE does not knowingly use or share personal information from users under the age of 13 with third parties. CardsGATE doe not give children the ability to post messages or otherwise distribute information about themselves. CardsGATE does not offer children any promotions involving games, prizes, or any other activity that would induce a child to divulge personal information. Any issue respecting your children's privacy may be directed to: Office of the General Counsel, CARDSGATE LLC, 430 Route 70 West, Cherry Hill, New Jersey 08002-3583, USA.
+CardsGATE does not request, or knowingly collect identifiable information from children under the age of 13. CardsGATE does not knowingly use or share personal information from users under the age of 13 with third parties. CardsGATE doe not give children the ability to post messages or otherwise distribute information about themselves. CardsGATE does not offer children any promotions involving games, prizes, or any other activity that would induce a child to divulge personal information. Any issue respecting your children's privacy may be directed to: Office of the General Counsel, CARDSGATE LLC, 430 Route 70 West, Cherry Hill, New Jersey 08002-3583, USA. w
 
 | 
