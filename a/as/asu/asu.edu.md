@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217230620id_/http%3A//asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602083512id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # Arizona State University
 
 [Home](https://web.archive.org/) > **Privacy Statement**
-
-**DRAFT 6-26-01**
 
 ASU provides online information and services to students, employees and the public to supplement services provided on campus. This privacy statement provides information required by Arizona law about privacy, confidentiality and related policies for individuals who use our websites and online services. Individual websites may provide additional information about privacy. [ACD 125](http://www.asu.edu/aad/manuals/acd/acd125.html) (ASU Computer, Internet and Electronic Communications Policy) provides additional information about the use of computing and communications systems at ASU and is available at <http://www.asu.edu/aad/manuals/acd/acd125.html>.
 
@@ -58,6 +56,12 @@ Although every effort is made to secure network communications, ASU cannot ensur
 
 ASU accepts credit card payments online for a variety of goods and services. Unless otherwise noted on the site, all university credit card transactions are encrypted. Confidential information entered to complete a transaction will not be used by ASU for any other purpose unless the purpose is described on the site. 
 
-Under the [Computer, Internet and Electronic Communications Policy http://www.asu.edu/aad/manuals/acd/acd125.html](http://www.asu.edu/aad/manuals/acd/acd125.html), university-owned computers and equipment may be examined by authorized individuals to detect illegal software and to evaluate the security of the network.
+Under the [Computer, Internet and Electronic Communications Policy](http://www.asu.edu/aad/manuals/acd/acd125.html), university-owned computers and equipment may be examined by authorized individuals to detect illegal software and to evaluate the security of the network.
+
+* * *
+
+**Contact Information**
 
 If you have additional questions about online privacy or security, you can contact Jake Kupiec via e-mail to [jake.kupiec@asu.edu](mailto:jake.kupiec@asu.edu), by phone (480) 965-4995, or you can send an inquiry by mail to PO Box 872803, Tempe, AZ 85287-2803. 
+
+**6-26-01**
