@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chemnet.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603193656id_/http%3A//www.chemnet.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemnet.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204105224id_/http%3A//www.chemnet.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # Chemical Network
 
-ChemNet.com and its provider, Hangzhou Hi2000 InfoTech Co. ltd, (collectively, "ChemNet") are committed to protecting the privacy of its members and the security of the member information. This commitment is reflected in the way ChemNet collects and uses the information and in the measures ChemNet adopts to protect the information. 
+ChemNet.com and its provider, Zhejiang NetSun Co., Ltd., (collectively, "ChemNet") are committed to protecting the privacy of its members and the security of the member information. This commitment is reflected in the way ChemNet collects and uses the information and in the measures ChemNet adopts to protect the information. 
 
 The information ChemNet collects shall be: 
 
@@ -17,7 +17,7 @@ ChemNet collects and stores basic information in its database about the member c
 
 ChemNet fully recognizes the importance of the confidentiality of the member information, particularly the trading records of the members. Both technical measures and administrative ones, as permitted under the local regulations, are taken to protect the security and confidentiality of the relevant data. 
 
-No data on any member will be sold, rented or otherwise made available to parties outside Hangzhou Hi2000 InfoTech Co. ltd, the company providing the ChemNet service, except when: 
+No data on any member will be sold, rented or otherwise made available to parties outside Zhejiang NetSun Co., Ltd., the company providing the ChemNet service, except when: 
 
   * Disclosing the information is required by a court order or an administrative order. 
   * Disclosing the information to a third party is necessary for the service on ChemNet to proceed. 
