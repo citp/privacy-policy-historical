@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206235400id_/http%3A//dallasobserver.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614014040id_/http%3A//dallasobserver.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Dallas Observer Online -- dallasobserver.com | About
 
 **Our Privacy Policy   
 **
 
-**New Times Inc.**   
+**New Times**   
 Parent of _Dallas Observer_ and dallasobserver.com 
 
-New Times Inc. respects your privacy. Here's our privacy policy for this site: 
+New Times respects your privacy. Here's our privacy policy for this site: 
 
 **Personally Identifiable Information**   
 We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters. We will not, however, release your name, e-mail address or any other personal information to anyone else outside New Times unless we have your consent, we are under a legal order to do so, or there is an emergency involving personal danger. **This means that we will not provide our advertisers or anyone else outside New Times with any information specific to you unless we have your consent.** The only New Times employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
