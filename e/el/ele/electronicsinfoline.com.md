@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicsinfoline.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208003851id_/http%3A//www.electronicsinfoline.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsinfoline.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404033342id_/http%3A//www.electronicsinfoline.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Electronics Infoline : Privacy Policy
 
@@ -12,7 +12,7 @@ Our registration process requires only a valid e-mail address and a unique user 
 We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, Terms of Service, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; (vi) or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites. 
 
 **Credit Card Information.**  
-We never store any Credit Card Number or associated information, or they are NEVER shared with any third parties. They are also never used for any other transactions. For **_PayPal_** or **_I-Kobo_** payment, you are directly taken to **_PayPal_** or **_I-Kobo_** 's SECURE website **before** you enter any Credit Card information. 
+We never store any Credit Card Number or associated information, or they are NEVER shared with any third parties. They are also never used for any other transactions. For **_PayPal_** payment, you are directly taken to **_PayPal_** 's SECURE website **before** you enter any Credit Card information. 
 
 **Cookies.**  
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site. 
@@ -22,9 +22,6 @@ Server logs capture certain non-personally identifying data, such as the time an
 
 **Children.**  
 We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](http://www.electronicsinfoline.com/rcl/contact_us.php). 
-
-**Editing or Deleting Your Account Information.**  
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://www.electronicsinfoline.com/index.php). You may request deletion of your user account by contacting [our webmaster](http://www.electronicsinfoline.com/rcl/contact_us.php). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](http://www.electronicsinfoline.com/corporate/conditions.php) for more information. 
 
 **Changes to this Privacy Policy.**  
 We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings. 
