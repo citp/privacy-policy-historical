@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irr.org.uk privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002083632id_/http%3A//www.irr.org.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irr.org.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602224416id_/http%3A//www.irr.org.uk/privacy/index.html) for the most accurate reproduction.*
 
 # IRR: IRR news network privacy policy
 
@@ -43,6 +43,6 @@ Credit card information is collected through a third party system, provided by [
 
 We reserve the right to change this privacy policy from time to time.
 
-[ privacy](https://web.archive.org/web/20031002083632id_/http%3A//www.irr.org.uk/privacy/index.html "Read our privacy policy") | [ using our content](https://web.archive.org/web/20031002083632id_/http%3A//www.irr.org.uk/content/index.html "Guidelines for using our content in your websites, emails and publications") | [ advertising](https://web.archive.org/web/20031002083632id_/http%3A//www.irr.org.uk/advertising/index.html "How to advertise on this page") | [ support us](https://web.archive.org/web/20031002083632id_/http%3A//www.irr.org.uk/support/index.html "Help to support the IRR news network")
+[ privacy](https://web.archive.org/web/20040602224416id_/http%3A//www.irr.org.uk/privacy/index.html "Read our privacy policy") | [ using our content](https://web.archive.org/web/20040602224416id_/http%3A//www.irr.org.uk/content/index.html "Guidelines for using our content in your websites, emails and publications") | [ advertising](https://web.archive.org/web/20040602224416id_/http%3A//www.irr.org.uk/advertising/index.html "How to advertise on this page") | [ support us](https://web.archive.org/web/20040602224416id_/http%3A//www.irr.org.uk/support/index.html "Help to support the IRR news network")
 
 © Institute of Race Relations
