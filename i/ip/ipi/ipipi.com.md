@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223140600id_/http%3A//www.ipipi.com/help/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403105545id_/http%3A//www.ipipi.com/help/privacy_policy.htm) for the most accurate reproduction.*
 
 # Send SMS Text Messages :: Privacy Policy
 
