@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205095454id_/http%3A//ncl.com/ncl_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncl.com privacy policy that was archived on 2002-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021011000159id_/http%3A//www.ncl.com/ncl_privacy.htm) for the most accurate reproduction.*
 
 # Norwegian Cruise Line Privacy Policy
 
@@ -16,7 +16,7 @@ There are cases where Norwegian Cruise Line may ask you for personal information
 **OPTING-OUT**  
 Information provided at the time of Registration or submission from a guest who is 13 years of age or over may be used for marketing and promotional purposes by Norwegian Cruise Line.
 
-To keep you in control of your personal information and the communications directed to you, we allow you to opt-out of the following services: receiving communications from Norwegian Cruise Line about new features or services, and receiving communications about Norwegian Cruise Line offers that we think would be of value to you. If a guest objects to such use for any reason, he/she may stop that use by e-mailing their request to listmaster@ncl.com. 
+To keep you in control of your personal information and the communications directed to you, we allow you to opt-out of the following services: receiving communications from Norwegian Cruise Line about new features or services, and receiving communications about Norwegian Cruise Line offers that we think would be of value to you. If a guest objects to such use for any reason, he/she may stop that use by filling out the Email Removal Request form: <https://submit.ncl.com/remove_email.htm>. 
 
 **USE OF IP ADDRESSES**  
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Norwegian Cruise Line collects IP addresses for the purposes of system administration, to report aggregate information, and to audit the use of our site. 
@@ -31,7 +31,7 @@ Please note however, that some parts of www.ncl.com and/or www.uk.ncl.com  will
 **LINKS TO OTHER SITES**  
 Users should be aware that when you are on www.ncl.com and/or www.uk.ncl.com  you could be directed to other sites that are beyond our control. These other sites may send their own cookies to users, collect data or solicit personal information. 
 
-While Norwegian Cruise Line strive to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+While Norwegian Cruise Line strives to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
 
 Norwegian Cruise Line's policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond Norwegian Cruise Line's control, and is not to be applied in any manner contrary to applicable law or governmental regulation. 
 
@@ -45,4 +45,4 @@ By using this site, you signify your assent to the Norwegian Cruise Line Privacy
 
 If you have questions or concerns regarding this Web sites privacy statement, you should contact the company as follows: Norwegian Cruise Line; Internet Development Department; 7665 Corporate Center Drive; Miami, FL 33126 telephone number: (305) 436-4000; or via email at webmaster@ncl.com. 
 
-Last Updated 9/01/99 
+Last Updated 1/3/02
