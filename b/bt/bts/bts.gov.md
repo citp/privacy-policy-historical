@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html) for the most accurate reproduction.*
 
 # BTS - Privacy
 
@@ -10,16 +10,16 @@ This Privacy Policy explains our online information practices only, including ho
 
 To assist you with reading our Privacy Policy, we have provided answers to the following questions:
 
-  * [What information do we collect automatically online?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q1)
-  * [What additional information do we collect about you online?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q2)
-  * [Why do we collect your information online and how do we use it?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q3)
-  * [How, and with whom, do we share the information we collect online?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q4)
-  * [Do we give you choices on how we use the information you provide us?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q5)
-  * [What are our information practices for children?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q6)
-  * [Do we use cookies or other tracking devices?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q7)
-  * [How do we secure your information we collect online?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q8)
-  * [What are your rights under the Privacy Act of 1974?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q9)
-  * [How do you find out more about, or comment on, our privacy practices?](https://web.archive.org/web/20041204045349id_/http%3A//www.bts.gov/privacy.html#q10)
+  * [What information do we collect automatically online?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q1)
+  * [What additional information do we collect about you online?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q2)
+  * [Why do we collect your information online and how do we use it?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q3)
+  * [How, and with whom, do we share the information we collect online?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q4)
+  * [Do we give you choices on how we use the information you provide us?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q5)
+  * [What are our information practices for children?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q6)
+  * [Do we use cookies or other tracking devices?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q7)
+  * [How do we secure your information we collect online?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q8)
+  * [What are your rights under the Privacy Act of 1974?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q9)
+  * [How do you find out more about, or comment on, our privacy practices?](https://web.archive.org/web/20050403161417id_/http%3A//www.bts.gov/privacy.html#q10)
 
 
 
@@ -99,12 +99,17 @@ Each **_Privacy Act Notice_** will also notify you of the following:
 
 
 
-Click here to view our [Privacy Act Notices](https://web.archive.org/cgi-bin/ExitPage/good_bye.cgi?url=http://cio.ost.dot.gov/policy/records.html)
+Click here to view our [Privacy Act Notices](https://web.archive.org/cgi-bin/ExitPage/good_bye.cgi?url=http://cio.ost.dot.gov/DOT/OST/Documents/files/records.html)
 
 **How do you find out more about, or comment on, our privacy practices?**  
 For more information on our privacy practices, or for comments and concerns, please contact our Privacy Officer: 
 
-Robert Monniere  
+Bob Monniere  
 Attorney Advisor  
-Phone: 202-366-5498  
-E-mail: [Robert.Monniere@bts.gov](mailto:robert.monniere@bts.gov)
+Bureau of Transportation Statistics  
+400 7th Street, SW  
+Room 3103, K-2  
+Washington, DC 20590   
+202-366-5498 (tel)  
+202-366-3640 (fax)  
+[robert.monniere@dot.gov](mailto:robert.monniere@dot.gov)
