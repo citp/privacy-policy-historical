@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpartner.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723063439id_/http%3A//www.webpartner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpartner.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307234710id_/http%3A//www.webpartner.com/privacy.html) for the most accurate reproduction.*
 
 # WebPartner :: Privacy Policy
 
@@ -66,7 +66,7 @@ The WebPartner website has security measures in place to protect the loss, misus
 
   
 Contacting WebPartner  
-If you have any questions about this privacy statement, the practices of the WebPartner website, or your experiences with WebPartner products, please [contact us](https://web.archive.org/web/20040723063439id_/http%3A//www.webpartner.com/contact/contactus.html).
+If you have any questions about this privacy statement, the practices of the WebPartner website, or your experiences with WebPartner products, please [contact us](https://web.archive.org/web/20050307234710id_/http%3A//www.webpartner.com/contact/contactus.html).
 
 |   
 | 
