@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiafinest.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409093241id_/http%3A//www.asiafinest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiafinest.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207171733id_/http%3A//www.asiafinest.com/privacy.htm) for the most accurate reproduction.*
 
 # AsiaFinest.com Privacy Policy Statement
 
@@ -12,10 +12,6 @@ We collect the e-mail addresses of those who communicate with us via e-mail, inf
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site,and not shared with other organizations for commercial purposes.
 
 With respect to cookies: We set cookies only for use with poll on our main page.
-
-Third Party Advertising  
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here  
-<http://www.doubleclick.net/us/corporate/privacy>.
 
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
