@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201124109id_/http%3A//www.copyright.com/About/AboutPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604031950id_/http%3A//www.copyright.com/About/AboutPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Copyright Clearance Center: Permissions Made Easy
 
 | 
 
-[corporate overview](https://web.archive.org/web/20011201124109id_/http%3A//www.copyright.com/About/default.asp) \- [management](https://web.archive.org/web/20011201124109id_/http%3A//www.copyright.com/About/AboutExecutive.asp) \- [news releases ](https://web.archive.org/web/20011201124109id_/http%3A//news/default.asp)\- [events calendar](https://web.archive.org/web/20011201124109id_/http%3A//www.copyright.com/News/Tradeshows.asp) \- [CCC in the news](https://web.archive.org/web/20011201124109id_/http%3A//www.copyright.com/News/AboutArticles2000.asp) \- [ careers at CCC ](https://web.archive.org/web/20011201124109id_/http%3A//www.copyright.com/About/AboutCareer.asp)  
-[directions to CCC](https://web.archive.org/web/20011201124109id_/http%3A//www.copyright.com/About/AboutLocation.asp) \- [contact us](https://web.archive.org/web/20011201124109id_/http%3A//www.copyright.com/About/AboutContactUs.asp)
+[corporate overview](https://web.archive.org/web/20020604031950id_/http%3A//www.copyright.com/About/default.asp) \- [management](https://web.archive.org/web/20020604031950id_/http%3A//www.copyright.com/About/AboutExecutive.asp) \- [news releases ](https://web.archive.org/web/20020604031950id_/http%3A//news/default.asp)\- [events calendar](https://web.archive.org/web/20020604031950id_/http%3A//www.copyright.com/News/Tradeshows.asp) \- [CCC in the news](https://web.archive.org/web/20020604031950id_/http%3A//www.copyright.com/News/AboutArticles2000.asp) \- [ careers at CCC ](https://web.archive.org/web/20020604031950id_/http%3A//www.copyright.com/About/AboutCareer.asp)  
+[directions to CCC](https://web.archive.org/web/20020604031950id_/http%3A//www.copyright.com/About/AboutLocation.asp) \- [contact us](https://web.archive.org/web/20020604031950id_/http%3A//www.copyright.com/About/AboutContactUs.asp)
 
 **ONLINE PRIVACY POLICY**  
 
