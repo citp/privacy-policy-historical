@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217224904id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004051300id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
 
 # Surplus items auction, discount surplus inventories marketplace, wholesale closeouts
 
@@ -10,7 +10,7 @@
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Liquidation.com control 
   7. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should first contact Customer Service by phone at 202-467-6868 or by e-mail at [support@liquidation.com](mailto:support@liquidation.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Liquidation.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: Liquidation.com.
+If you have questions or concerns regarding this policy, you should first contact Customer Service by phone at 202-467-6868 or by e-mail at [support@liquidation.com](mailto:support@liquidation.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Liquidation.com, Inc. has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: Liquidation.com.
 
 We log your IP address, browser type, access times, and referring site to help diagnose potential problems with our server, and to administer our Web Site. Your IP address is used to gather broad demographic information.
 
@@ -52,13 +52,13 @@ This site gives users the following options for changing and modifying informati
 
 
 **Notification of Changes**  
-Liquidation.com will notify users of any changes to this privacy statement by sending them an e-mail. 
+Liquidation.com will notify users of any changes to this privacy policy by sending them an e-mail. 
 
 **Disclaimer**  
 Liquidation.com will not share any of your information with any outside party without your consent unless we are required to by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, you can contact
 
 Web Master  
 Liquidation.com, Inc.  
