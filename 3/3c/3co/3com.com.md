@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the 3com.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520054701id_/http%3A//www.3com.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3com.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207103800id_/http%3A//www.3com.com/legal/privacy.html) for the most accurate reproduction.*
 
 # 3Com Corporation Legal | Privacy Statement
 
-  
+|    
+|  | 
+
   
 **Policies**
 
@@ -22,9 +24,11 @@ What information does 3Com collect? How do we use it?
 
 **How does 3Com.com protect consumer information?** When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we take steps to protect the customer data we collect from unauthorized access, disclosure, alteration, or destruction. 
 
-**What about "cookies"?** "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies enable us to provide you with more personal service. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use.  
- **  
-Will 3Com.com disclose the information it collects to outside parties? **
+**What about "cookies"?** "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies enable us to provide you with more personal service. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use.
+
+**Passwords** In order to bring you more personalized services, we may ask you to establish one or more passwords to gain access to certain services or sections in either the 3Com web site(s) or the web site(s) of other suppliers whose products or services are available to you via a link from our web site(s) . As such, 3Com may share the password information you provide us with those other authorised suppliers. You are solely responsible for the control and use of each password you create.
+
+**Will 3Com.com disclose the information it collects to outside parties?**
 
 3Com.com may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of users of our web site, the public, or 3Com or our web site suppliers; and (b) conform to legal or regulatory requirements.
 
@@ -37,3 +41,13 @@ Because 3Com Corporation operates globally, we make information we gather availa
 **Tell us what you think  
 **  
 Our goal is to respect your privacy. To help us improve our privacy policies, please give us your feedback. We welcome your [comments and questions](https://web.archive.org/util/webmaster.html). 
+
+###### 
+
+* * *
+
+3Com is a registered trademark of 3Com Corporation. All other company and product names may be trademarks of their respective companies.
+
+* * *  
+  
+---|---|---
