@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the 1ink.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203133152id_/http%3A//www.1ink.com/privacy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1ink.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603003820id_/http%3A//www.1ink.com/privacy1.asp) for the most accurate reproduction.*
 
 # 1ink.com
 
-1ink.com understands our customers' concerns regarding the privacy of the information they share with us. We hold our customers, and the information they share with us, in the highest regard. Maintaining your privacy is critical to us. We will not sell, share, or rent your information to others in any ways different from those disclosed in this statement. Please take a moment to read our Privacy Policy for a better understanding of the measures we take to protect you and the information you share with us.  
-**  
-**** Why we collect information:**  
+****** Why we collect information:**  
 _ Customizing the experience_
 
 1ink.com collects information to:
