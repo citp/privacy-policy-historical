@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craigslist.org privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618141933id_/http%3A//www.craigslist.org/about/privacy.policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craigslist.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206015340id_/http%3A//www.craigslist.org/about/privacy.policy.html) for the most accurate reproduction.*
 
 # privacy policy - craigslist
 
