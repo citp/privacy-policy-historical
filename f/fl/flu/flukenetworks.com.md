@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407085435id_/http%3A//www.flukenetworks.com/us/_about%2520us/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203173552id_/http%3A//www.flukenetworks.com/us/_about%2520us/privacy%2520policy) for the most accurate reproduction.*
 
 # Fluke Networks: privacy policy
 
