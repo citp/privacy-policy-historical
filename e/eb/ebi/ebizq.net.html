@@ -1,221 +1,18 @@
-<!--The following is the downloaded HTML source of the ebizq.net privacy policy that was archived on 2004-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041010150754id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebizq.net privacy policy that was archived on 2005-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050307093401id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta name="DESCRIPTION" content="ebizQ is the definitive venue for business and IT professionals, vendors, and industry analysts to exchange information on business integration technologies, problems, and solutions. We are singularly focused on business integration, providing the most comprehensive and timely information available on vendors, products, market directions and best practices.">
 <meta name="keywords" content="Business Integration,BPM,Software Integration Vendors,business activity monitoring,Adapters,B2B,Business to Business, Best Practices and strategies, Data Integration,Exchanges, ERP Integration,CRM,Enterprise Content Management, EAI, Integration Architecture,WebServices,Webinars,SOA,Service Oriented Architecture, Grid/utility computing, Messaging Middleware,MessageQ,eai,Best practices, strategies,IBM,Websphere,Process Management,Systems Management, Application Servers and web servers,EDI">
 
 <title>the Insider's Guide to Business Integration - ebizQ</title>
-<link rel="stylesheet" href="/web_images/style.css" type="text/css">
-<script><!--
-var isNav4, isNav6, isIE4;
-function setBrowser()
-{
-    if (navigator.appVersion.charAt(0) == "4")
-    {
-        if (navigator.appName.indexOf("Explorer") >= 0)
-        {
-            isIE4 = true;
-        }
-        else
-        {
-            isNav4 = true;
-        }
-    }
-    else if (navigator.appVersion.charAt(0) > "4")
-    {
-        isNav6 = true;
-    }
-}
-
-function getStyleBySelector( selector )
-{
-    if (!isNav6)
-    {
-        return null;
-    }
-    var sheetList = document.styleSheets;
-    var ruleList;
-    var i, j;
-
-    /* look through stylesheets in reverse order that
-       they appear in the document */
-    for (i=sheetList.length-1; i >= 0; i--)
-    {
-        ruleList = sheetList[i].cssRules;
-        for (j=0; j<ruleList.length; j++)
-        {
-            if (ruleList[j].type == CSSRule.STYLE_RULE &&
-                ruleList[j].selectorText == selector)
-            {
-                return ruleList[j].style;
-            }   
-        }
-    }
-    return null;
-}
-
-function getIdProperty( id, property )
-{
-    if (isNav6)
-    {
-        var styleObject = document.getElementById( id );
-        if (styleObject != null)
-        {
-            styleObject = styleObject.style;
-            if (styleObject[property])
-            {
-                return styleObject[ property ];
-            }
-        }
-        styleObject = getStyleBySelector( "#" + id );
-        return (styleObject != null) ?
-            styleObject[property] :
-            null;
-    }
-    else if (isNav4)
-    {
-        return document[id][property];
-    }
-    else
-    {
-        return document.all[id].style[property];
-    }
-}
-
-function setIdProperty( id, property, value )
-{
-    if (isNav6)
-    {
-        var styleObject = document.getElementById( id );
-        if (styleObject != null)
-        {
-            styleObject = styleObject.style;
-            styleObject[ property ] = value;
-        }
-        
-    }
-    else if (isNav4)
-    {
-        document[id][property] = value;
-    }
-    else if (isIE4)
-    {
-         document.all[id].style[property] = value;
-    }
-}
-
-function generic_move( id, xValue, yValue, additive )
-{
-    var left = getIdProperty(id, "left");
-    var top = getIdProperty(id, "top");
-    var leftMatch, topMatch;
-
-    if (isNav4)
-    {
-        leftMatch = new Array( 0, left, "");
-        topMatch = new Array( 0, top, "");
-    }
-    else if (isNav6 || isIE4 )
-    {
-        var splitexp = /([-0-9.]+)(\w+)/;
-        leftMatch = splitexp.exec( left );
-        topMatch = splitexp.exec( top );
-        if (leftMatch == null || topMatch == null)
-        {
-            leftMatch = new Array(0, 0, "px");
-            topMatch = new Array(0, 0, "px");
-        }
-    }
-    left = ((additive) ? parseFloat( leftMatch[1] ) : 0) + xValue;
-    top = ((additive) ? parseFloat( topMatch[1] ) : 0) + yValue;
-    setIdProperty( id, "left", left + leftMatch[2] );
-    setIdProperty( id, "top", top + topMatch[2] );
-}
-
-function moveIdTo( id, x, y )
-{
-    generic_move( id, x, y, false );
-}
-
-function moveIdBy( id, x, y)
-{
-    generic_move( id, x, y, true );
-}
-
-function hex( n )
-{
-    var hexdigits = "0123456789abcdef";
-    return ( hexdigits.charAt(n >> 4) + hexdigits.charAt(n & 0x0f) );
-}
-
-function getBackgroundColor( id )
-{
-    var color;
-
-    if (isNav4)
-    {
-        color = document[id].bgColor;
-    }
-    else if (isNav6)
-    {
-        var parseExp = /rgb.(\d+),(\d+),(\d+)./;
-        var rgbvals;
-        color = getIdProperty( id, "backgroundColor" );
-        if (color)
-        {
-            rgbvals = parseExp.exec( color );
-            if (rgbvals)
-            {
-                color = "#" + hex( rgbvals[1] ) + hex( rgbvals[2] ) +
-                    hex( rgbvals[3] );
-            }
-        }
-        return color;
-    }
-    else if (isIE4)
-    {
-        return document.all[id].backgroundColor;
-    }
-    return "";
-}
-
-function getDocument( divName )
-{
-    var doc;
-
-    if (isNav4)
-    {
-        doc = window.document[divName].document;
-    }
-    else if (isNav6)
-    {
-        doc = document;
-    }
-    else if (isIE4)
-    {
-        doc = document;
-    }
-    return doc;
-}
-
-function showMenu( divNum )
-{
-    if (getIdProperty( "s" + divNum, "display") != "block" )
-    {
-        setIdProperty("s" + divNum, "display", "block");
-        document.images["i" + divNum].src = "/web_images/minus.gif";
-    }
-    else
-    {
-        setIdProperty("s" + divNum, "display", "none");
-        document.images["i" + divNum].src = "/web_images/plus.gif";
-    }
-}
-
-setBrowser();
-// -->
-</script>
+<style type="text/css">
+<!--
+@import url(/oldstyle.css);
+@import url(/style.css);
+-->
+</style>
+<script type="text/javascript" src="/web_images/utils.js"></script>
 <script language="Javascript">
 
 //Popup Window Script
@@ -254,269 +51,224 @@ var DOCUMENTNAME='no title';
 
 <!-- End of Tracking Code -->
 
-<table width="770" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><table cellspacing="0" cellpadding="0" border="0" width="100%">
-  <tbody><tr valign="bottom" width="188"> 
-    <td align="right">
-      <a href="/"><img src="/web_images/ebizqlogo_large.gif" width="175" height="70" border="0"></a>
-    </td>
-    <td valign="bottom"> 
-      <table cellspacing="0" cellpadding="0" border="0" width="100%">
-        <tbody><tr valign="bottom">
-          <td>
-            <table valign="bottom" cellspacing="0" cellpadding="0" border="0" width="100%">
-              <tbody><tr> 
-                <td class="menu" valign="top"> 
-                  <table class="menu" cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr> 
-                      <td>
-<span>October 10, 2004</span>
-                      </td>
-
-<td><img src="/web_images/spacer.gif" width="50" height="1">&nbsp;</td>
-
-                      <td>
-                        <a href="/site_map.html" title="Site Map">Site Map</a>
-                      </td>
-                      <td>
-                        <a href="/company/aboutus.html" title="About ebizQ">About ebizQ</a>
-                      </td>
-                      <td>
-                        <a href="/company/services.html" title="Our Services">Our Services</a>
-                      </td>
-                      <td>
-                        <a href="/company/contactus.html" title="Contact Us">Contact Us</a>
-                      </td>
-                      <td></td>
-                      <td><a href="/membership/login.html" title="Log In">Sign In</a></td>
-                    </tr>
-                  </tbody></table>
-                </td></tr>
-                <tr valign="bottom">
-                  <td>
-                    <table width="100%" cellspacing="0" cellpadding="0" border="0">
-                      <tbody><tr><td valign="top" align="right"> 
-                        <table border="0" class="boxes" width="100%">
-                          <form action="/search/results.html" method="get"></form>
-                          <tbody><tr> 
-                          <td align="right"> 
-                            Search
-                              <input class="form" type="text" name="q" size="30" value="" maxlength="80">
-                              <input type="image" src="/web_images/go_button.gif" align="middle">
-                              <input type="hidden" name="where" value="top">
-                            </td>
-                          </tr>
-                        
-                        </tbody></table>
-                      </td>
-                    </tr></tbody></table>
-                  </td>
-                </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td align="center">
-<!-- Ad here -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#2a56a2">
-<tbody><tr>
-<td><img src="/web_images/spacer.gif" height="1" width="1"></td>
-</tr>  
-<tr>
-    <td width="100%" class="poll_answer" align="center">
-        ADVERTISEMENT
-    </td>
-  </tr>
-  <tr>
-   <!-- Old Code <td tal:content="structure python:here.ad(728, 90)" align="center"> </td> Replaced by jp 07/26/2004    -->
-  <td>
-  <div align="center"> 
-     <script language="JavaScript" type="text/javascript">
+<!-- Blah -->
+<table width="100%" border="0">
+<tbody>
+<tr height="100px">
+<td colspan="3" align="center">
+<script language="JavaScript" type="text/javascript">
 <!--
    if (!document.phpAds_used) document.phpAds_used = ',';
    phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
    
    document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
    document.write ("http://thoth.ebizq.net/AdServer/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:1&amp;target=_blank");
    document.write ("&amp;exclude=" + document.phpAds_used);
    if (document.referer)
       document.write ("&amp;referer=" + escape(document.referer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://thoth.ebizq.net/AdServer/adjs.php?n=001852463&amp;exclude=,"></script><noscript><a href='http://thoth.ebizq.net/AdServer/adclick.php?n=aec75049' target='_blank'><img src='http://thoth.ebizq.net/AdServer/adview.php?n=aec75049' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://thoth.ebizq.net/AdServer/adjs.php?n=933548685&amp;what=zone:1&amp;target=_blank&amp;exclude=,"></script><noscript><a href="http://thoth.ebizq.net/AdServer/adclick.php?n=a79a72c7" target="_blank"><img src="http://thoth.ebizq.net/AdServer/adview.php?what=zone:1&amp;n=a79a72c7" border="0" alt=""></a></noscript>
+</td>
+</tr>
+<tr>
+<td colspan="3"><div id="container"> 
+  <div id="dashboard"><p align="right">March 07, 2005
+   
+     
+   <a href="/membership/login.html" title="Log In">Sign In</a>
+   
+   <a href="/membership/">Join ebizQ Gold Club FREE</a>
+   
+</p>
+</div>
+  <div id="header"> 
+    <div id="logo"><a href="/"><img src="/web_images/alpha/ebizqlogo_green.gif" width="160" height="62" border="0"></a> 
+    </div>
+    <h5 id="tagline">The Insider's Guide to Business Integration</h5>
+    <form id="search_tag" method="get" action="/search/results.html" name="searchbox">
+      <input id="query" name="q" class="field">
+      <input type="submit" name="xsubmit" value="Search" class="button">
+    </form>
+    <form id="topics_tag" method="get" action="/topics/" name="topicdrop">
+        <select name="url_name">
+        <option value="">Select a topic</option>
+        <option value="adapters">Adapters</option>
+        <option value="app_web">App/Web Servers</option>
+        <option value="b2b">B2B</option>
+        <option value="int_sbp">Best Practices and Strategies</option>
+        <option value="bpm">BPM</option>
+        <option value="bam">Business Activity Monitoring</option>
+        <option value="cep">CEP</option>
+        <option value="collaboration">Collaboration</option>
+        <option value="compliance">Compliance</option>
+        <option value="crm_int">CRM Integration</option>
+        <option value="eii">Data Integration/EII</option>
+        <option value="dev_tools">Development Tools</option>
+        <option value="e-commerce">E-Commerce/B2C</option>
+        <option value="eai">EAI</option>
+        <option value="ecm">Enterprise Content Mgmt.</option>
+        <option value="esb">Enterprise Service Bus</option>
+        <option value="erp_integration">ERP Integration</option>
+        <option value="exchanges">Exchanges</option>
+        <option value="financial_services">Financial Services</option>
+        <option value="guc">Grid/Utility Computing</option>
+        <option value="healthcare">Healthcare</option>
+        <option value="int_arch">Integration Architecture</option>
+        <option value="jms">JMS</option>
+        <option value="legacy_integration">Legacy Integration</option>
+        <option value="messaging_middleware">Messaging Middleware</option>
+        <option value="mobile_integration">Mobile Integration</option>
+        <option value="portals">Portals</option>
+        <option value="real_time_enterprise">Real-Time Enterprise</option>
+        <option value="rfid">RFID Integration</option>
+        <option value="security">Security</option>
+        <option value="soa">Service-Oriented Architectures</option>
+        <option value="standards">Standards</option>
+        <option value="storage">Storage</option>
+        <option value="scm">Supply Chain Mgmt.</option>
+        <option value="systems_management">Systems Mgmt.</option>
+        <option value="web_services">Web Services &amp; XML</option>
+        </select>
+        <input type="submit" name="xsubmit" value="Go" class="button">
+    </form>
+      
+
+
+
+<ul id="nav">
+<li id="thome"> <a href="/" class="active">Home</a> </li>
+<li id="texecutive"><a href="/executive_corner/">Executive Corner</a> </li>
+<li id="tmarketplace"> <a href="/marketplace/">Marketplace</a> </li>
+<li id="tbuyersguide"> <a href="/vendors/">Buyers Guide</a> </li>
+<li id="tassociation"> <a href="/associations/">Association Directory</a> </li>
+</ul>
+
+
 
   </div>
-  </td>
-  </tr>
-<tr>
-<td><img src="/web_images/spacer.gif" height="7" width="1"></td>
-</tr>
-</tbody></table>
-
-<!-- End ad -->
+</div>
 </td>
 </tr>
 <tr>
+<td valign="top" width="200px"><table class="navcontainer" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr><td align="center"><b>ONLINE COMMUNITY</b></td></tr>
+    <tr><td><a href="/webinars/">Webinars</a></td></tr>
+    <tr><td><a href="/series/">Webinar Series</a></td></tr>
+    <tr><td><a href="/ebizqa/">ebizQ&amp;A</a></td></tr>
+    <tr><td><a href="/experts/">Experts Corner</a></td></tr>
+    <tr><td><a href="/buyers_choice.html"><img src="/web_images/new.gif" border="0">Buyer's Choice Awards</a></td></tr> 
+    <tr><td align="center"><b>BROWSE OUR SITE</b></td></tr>  
+    <tr><td><a href="/researchcontent.html">Research Content</a></td></tr>
+    <tr><td><a href="/vendors/?show=road_map#alphalisting">Research Vendors</a></td></tr>
+    <tr><td><a href="/analyst/">Analyst Corner</a></td></tr>
+    <tr><td><a href="/reports/">ebizQ Reports</a></td></tr>   
+    <tr><td><a href="/white_papers/">ebizQ White Papers</a></td></tr>
+    <tr><td><a href="javascript:showMenu(0);" name="i0"><img src="/web_images/plus.gif" name="i0" border="0" align="absmiddle">Hot Topics</a></td></tr>
+    <tr><td>
+        <table id="s0" class="submenu" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+            <td>
+            <a href="/hot_topics/b2b/">B2B</a>
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <a href="/hot_topics/bpm/">BPM</a>
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <a href="/hot_topics/int_sbp/">Best Practices and Strategies</a>
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <a href="/hot_topics/cep/">CEP</a>
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <a href="/hot_topics/esb/">Enterprise Service Bus</a>
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <a href="/hot_topics/soa/">Service-Oriented Architectures</a>
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <a href="/hot_topics/web_services/">Web Services &amp; XML</a>
+            </td>
+            </tr>
+        </tbody></table>
+    </td></tr>
+    <tr><td><a href="/events/">Events</a></td></tr>
+    <tr><td align="center"><b>PUBLICATIONS</b></td></tr>
+    <tr><td><a href="/insider/">ebizQ Insider</a></td></tr>
+    <tr><td><a href="/websphereinsider/">WebSphere Insider</a></td></tr>
+    <tr><td align="center"><b>FOR MORE INFORMATION</b></td></tr>
+    <tr><td><a href="/company/contactus.html">Contact Us</a></td></tr>
+    <tr><td><a href="/company/aboutus.html">About ebizQ</a></td></tr>
+    <tr><td><a href="/web_resources/media_kit/">Media Kit</a></td></tr>
+    <tr><td><a href="/faq.html">FAQ</a></td></tr>
+</tbody></table>
+
+<table width="190px" class="assresources" border="0" cellpadding="3" cellspacing="0">
+<tbody><tr>
 <td>
-    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <tbody><tr> 
-        <td valign="top"> 
-          <table class="leftmenu" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr> 
-              <td><table cellspacing="0" cellpadding="0">
+<div align="center">Join IBM for a complimentary seminar: <br><b>WebSphere Live! City Tour 2005</b></div>
+<div class="asslinks" align="center"><a href="http://www.ebizq.net/to/ibmcitytour "><b>Register Today!</b></a></div>
+<hr noshade="" size="1" width="100%">
+<b><u>Learn to:</u></b><br>
+ - Develop a Service-Oriented Architecture that allows for flexible integration, while improving ROI and customer service. <br><br>
+ - Increase productivity and reduce time to value with the IBM WebSphere portfolio<br>
+<hr noshade="" size="1" width="100%">
+<div class="asslinks" align="center"><a href="http://www.ebizq.net/to/ibmcitytour "><b>Register Today!</b></a></div><br>
+</td>
+</tr>
+</tbody></table>
 
-<tbody><tr><td class="leftmenu">
-<a href="/webinars/">WEBINARS</a>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="/series/">WEBINAR SERIES</a>
-</td></tr>
-<tr><td class="buyersguide">
-<a href="/vendors/">BUYERS GUIDE</a>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="javascript:showMenu(0)"><img src="/web_images/plus.gif" name="i0" border="0" align="absmiddle"> ANALYST CORNER</a>
-</td></tr>
-<tr><td>
-<table id="s0" class="submenu">
-<tbody><tr><td class="submenu"><a href="/analyst/">all analysts</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/24.html">Aberdeen Group</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/22.html">AMR Research</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/23.html">ebizQ</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/311.html">Frost &amp; Sullivan</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/213.html">Gartner</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/224.html">Giga Information Group</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/25.html">IDC</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/221.html">META Group</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/34.html">RFG</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/484.html">SilverBack Technologies</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/80.html">TechMetrix Research</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/33.html">The 451 Group</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/35.html">The AlignIT Group</a></td></tr>
-<tr><td class="submenu"><a href="/analyst/2.html">TripleTree</a></td></tr>
-</tbody></table>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="http://forums.ebizq.net">COMMUNITY/FORUM</a>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="/websphereinsider/">WEBSPHERE INSIDER</a>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="/insider/">PRINT MAGAZINE</a>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="/reports/">ebizQ REPORTS</a>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="/white_papers/">WHITE PAPERS</a>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="/events/">EVENTS</a>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="javascript:showMenu(1)"><img src="/web_images/plus.gif" name="i1" border="0" align="absmiddle"> VINTAGE ebizQ</a>
-</td></tr>
-<tr><td>
-<table id="s1" class="submenu">
-<tbody><tr><td class="submenu"><a href="/vintage/messageq/">messageQ</a></td></tr>
-<tr><td class="submenu"><a href="/vintage/b2bq/">b2bQ</a></td></tr>
-<tr><td class="submenu"><a href="/vintage/e-servq/">e-servQ</a></td></tr>
-<tr><td class="submenu"><a href="/vintage/eaiq/">eaiQ</a></td></tr>
-</tbody></table>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="/membership/">GOLD CLUB</a>
-</td></tr>
-<tr><td class="hottopic">
-<a href="javascript:showMenu(2)"><img src="/web_images/plus.gif" name="i2" border="0" align="absmiddle"> hot topics</a>
-</td></tr>
-<tr><td>
-<table id="s2" class="submenu">
-<tbody><tr><td class="submenu"><a href="/hot_topics/b2b/">B2B</a></td></tr>
-<tr><td class="submenu"><a href="/hot_topics/bpm/">BPM</a></td></tr>
-<tr><td class="submenu"><a href="/hot_topics/int_sbp/">Best Practices and Strategies</a></td></tr>
-<tr><td class="submenu"><a href="/hot_topics/cep/">CEP</a></td></tr>
-<tr><td class="submenu"><a href="/hot_topics/esb/">Enterprise Service Bus</a></td></tr>
-<tr><td class="submenu"><a href="/hot_topics/soa/">Service-Oriented Architectures</a></td></tr>
-<tr><td class="submenu"><a href="/hot_topics/web_services/">Web Services &amp; XML</a></td></tr>
-</tbody></table>
-</td></tr>
-<tr><td class="leftmenu">
-<a href="/topic_terms.html">TOPICS</a>
-</td></tr>
-<tr><td class="menutopics"><a href="/topics/adapters/">Adapters</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/app_web/">App/Web Servers</a></td></tr>
-<tr><td class="menutopics"><a href="/hot_topics/b2b/"><img src="/web_images/fire_small.gif" border="0" align="absmiddle"> B2B</a></td></tr>
-<tr><td class="menutopics"><a href="/hot_topics/bpm/"><img src="/web_images/fire_small.gif" border="0" align="absmiddle"> BPM</a></td></tr>
-<tr><td class="menutopics"><a href="/hot_topics/int_sbp/"><img src="/web_images/fire_small.gif" border="0" align="absmiddle"> Best Practices and Strategies</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/bam/">Business Activity Monitoring</a></td></tr>
-<tr><td class="menutopics"><a href="/hot_topics/cep/"><img src="/web_images/fire_small.gif" border="0" align="absmiddle"> CEP</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/crm_int/">CRM Integration</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/collaboration/">Collaboration</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/compliance/">Compliance</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/eii/">Data Integration/EII</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/dev_tools/">Development Tools</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/e-commerce/">E-Commerce/B2C</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/eai/">EAI</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/erp_integration/">ERP Integration</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/ecm/">Enterprise Content Mgmt.</a></td></tr>
-<tr><td class="menutopics"><a href="/hot_topics/esb/"><img src="/web_images/fire_small.gif" border="0" align="absmiddle"> Enterprise Service Bus</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/exchanges/">Exchanges</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/financial_services/">Financial Services</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/guc/">Grid/Utility Computing</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/healthcare/">Healthcare</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/int_arch/">Integration Architecture</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/jms/">JMS</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/legacy_integration/">Legacy Integration</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/messaging_middleware/">Messaging Middleware</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/mobile_integration/">Mobile Integration</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/portals/">Portals</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/rfid/">RFID Integration</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/real_time_enterprise/">Real-Time Enterprise</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/security/">Security</a></td></tr>
-<tr><td class="menutopics"><a href="/hot_topics/soa/"><img src="/web_images/fire_small.gif" border="0" align="absmiddle"> Service-Oriented Architectures</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/standards/">Standards</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/scm/">Supply Chain Mgmt.</a></td></tr>
-<tr><td class="menutopics"><a href="/topics/systems_management/">Systems Mgmt.</a></td></tr>
-<tr><td class="menutopics"><a href="/hot_topics/web_services/"><img src="/web_images/fire_small.gif" border="0" align="absmiddle"> Web Services &amp; XML</a></td></tr>
+<br>
+<table width="190px" class="assresources" border="0" cellpadding="3" cellspacing="0">
+<tbody><tr>
+<td>
+<p><b>
+Latest Standings: 2005 
+Buyer’s Choice Awards<br>
+(as of 2/28/05)</b> </p>
+<p><b>Service-Oriented Architecture: </b></p>
+<ol>
+<li>Oracle</li>
+<li>webMethods</li>
+<li>BEA </li>
+</ol>
+<p><b>Application Integration: </b></p>
+<ol>
+<li>Oracle </li>
+<li>webMethods </li>
+<li>EXTOL </li>
+</ol>
+
+<p><b>Information Integration: </b></p>
+<ol>
+<li>Oracle </li>
+<li>webMethods </li>
+<li>BEA </li>
+</ol>
+
+<p><a href="http://www.ebizq.net/buyers_choice.html">Cast Your Vote</a> and become eligible for a $100 Amazon.com gift certificate.</p>
+</td>
+</tr>
 </tbody></table>
 </td>
-            </tr>
-            <tr> 
-              <td><table class="boxes">
-  <form action="/search/results.html"></form>
-    <tbody><tr> 
-      <td align="left" class="small_text">Search</td>
-      <td width="40"></td>
-    </tr>
-    <tr> 
-      <td align="left"><input class="form" type="text" name="q" size="18" value="" maxlength="44"></td>
-      <td align="left"><input type="image" src="/web_images/go_button.gif" align="middle"></td>
-    </tr>
-    <input type="hidden" name="where" value="bottom">
-
-  
-</tbody></table></td>
-            </tr>
-          </tbody></table>
-        </td>
-        <td valign="top"> 
-          <table border="0" cellpadding="5" width="100%" cellspacing="0">
-            <tbody><tr> 
-              <td><div>
+<td valign="top"><div>
 <table border="0" cellpadding="5" cellspacing="0" width="487px">
 <tbody><tr>
-<td><img src="/web_images/company/privacy_policy.gif" border="0"></td>
+<td class="bgtitle">PRIVACY POLICY</td>
 </tr>
-<tr><td class="reports_line" width="1"><img src="/web_images/spacer.gif" width="1" height="1"></td></tr>
 <tr>
 <td>
 <p>ebizQ manages the <span class="topic_links"><a href="/">ebizQ.net</a><a></a></span> Web site and the <span class="topic_links"><a href="/">ebizQ Integration Conference</a></span>.  ebizQ is committed to maximizing your experience and respecting your privacy while using these information resources.</p>
@@ -561,37 +313,24 @@ var DOCUMENTNAME='no title';
 </td>
   </tr>
 </tbody></table>
-</div></td>
-            </tr>
-            <tr>
-            <td>&nbsp;</td>
-            </tr>
-            <tr>
-            <td align="center"></td>
-            </tr>
-            <tr>
-            <td>&nbsp;</td>
-            </tr>
-          </tbody></table>
-        </td>
-         
-        <td valign="top" align="right"> 
-          <table border="0" width="100%" cellpadding="0" cellspacing="4">
-            <tbody><tr> 
-              <td><table cellpadding="4" cellspacing="5" border="0" width="130" height="103" class="recaps">
-<tbody><tr>
-<th>Upcoming Webinar</th>
-</tr>
+</div>&nbsp;</td>
+<td width="130px" align="center" valign="top"><table class="buyersguide" border="0" cellpadding="3" cellspacing="0" height="100" width="100%">
+<tbody>
 <tr>
-    <td align="left">
-    <a href="http://www.ebizq.net/webinars/5163.html">Extending the Value of SOA</a>
-    </td>
-</tr>
-</tbody></table>
+<td valign="top" class="buyersguidetitle" height="21">Buyer's Guide</td></tr>
+<tr>
+<td class="buyersguidetext" align="center"><b>MQSoftware</b>
+<br><br>
+<div class="asslinks"><img src="http://www.ebizq.net/web_images/alpha/green_arrow.gif">&nbsp;<a href="/vendors/19.html" target="_blank">View <b>MQSoftware</b> Buyer's Guide Entry </a></div>
 </td>
-            </tr>
-            <tr align="center"> 
-              <td><script type="text/javascript"><!--
+</tr> 
+</tbody>
+</table>
+
+<table>
+<tbody><tr>
+<td>				
+<script type="text/javascript"><!--
 google_ad_client = "pub-9338510211715897";
 google_ad_width = 120;
 google_ad_height = 600;
@@ -600,58 +339,57 @@ google_ad_format = "120x600_as";
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </td>
-            </tr>
-          </tbody></table>
-        </td>
-         </tr>
-    </tbody></table>
+</tr>
+</tbody></table>
+<br>
+<!-- promotions -->
+<table border="0" cellpadding="3" cellspacing="0" height="103" class="promobox">
+<tbody>
+<tr>
+<td class="promotitle">ebizQ Promotions</td>
+</tr>
+<tr>
+<td align="center">
+<a href="/bookoffer.html"><img src="http://www.ebizq.net/web_images/alpha/bethbookcover.gif" alt="Beth Book" border="0"></a>
 </td>
 </tr>
-<tr><td>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td>&nbsp;</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody><tr>
-<td></td>
-</tr>
-</tbody></table>
-<table class="footertop1" cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody><tr>
-<td></td>
-</tr>
-</tbody></table>
-<table class="footertop" cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody><tr>
-<td></td>
-</tr>
-</tbody></table>
-<table class="footer" cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody><tr align="center">
+<tr>
 <td>
-<a href="/company/feedback_form.html"><span class="footer">Feedback</span></a>
-&nbsp;&nbsp;<span class="ltblue">|&nbsp;&nbsp;</span>
-<a href="http://forums.ebizq.net"><span class="footer">Community/Forums</span></a>
-&nbsp;&nbsp;<span class="ltblue">|&nbsp;&nbsp;</span>
-<a href="/company/services.html"><span class="footer">Our Services</span></a>
-&nbsp;&nbsp;<span class="ltblue">|&nbsp;&nbsp;</span> 
-<a href="/company/brandawareness.html#advertising"><span class="footer">Advertise With Us</span></a>
-&nbsp;&nbsp;<span class="ltblue">|&nbsp;&nbsp;</span> 
-<a href="/membership/privacy.html"><span class="footer">Privacy Policy</span></a>
-&nbsp;&nbsp;<span class="ltblue">|&nbsp;&nbsp;</span>
-<a href="/faq.html"><span class="footer">FAQ</span></a>
-&nbsp;&nbsp;<span class="ltblue">|&nbsp;&nbsp;</span>
-<a href="/membership/unsubscribe.html"><span class="footer">Unsubscribe</span></a>
-&nbsp;&nbsp;<span class="ltblue">|&nbsp;&nbsp;</span>
-<a href="/site_map.html"><span class="footer">Site Map</span></a></td>
-</tr>
-</tbody></table>
+Special offer: Receive 30% OFF + FREE SHIPPING on <i>Enterprise Integration:The Essential Guide to Integraion Solutions</i> by Beth Gold-Bernstein and William Ruh.
+<br><a href="/bookoffer.html"><b>Act Now!</b></a>
 </td>
 </tr>
-</tbody></table>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>    
+<!--End of other Promotions -->
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center"><p class="tool">
+<a href="/web_resources/media_kit/">Marketing Solutions</a> | 
+<a href="/company/feedback.html">Feedback</a> |
+<a href="/company/aboutus.html">About ebizQ</a> | 
+<a href="/membership/unsubscribe.html">Unsubscribe</a> | 
+<a href="/membership/privacy.html/">Privacy Policy</a> | 
+<a href="/site_map.html">Site Map</a> 
+</p>
 
+</td>
+</tr>
+</tbody>
+</table>
+<!-- End Blah -->
+
+<!-- BEGIN: NetTracker Page Tag -->
+<!-- Copyright 2004 Sane Solutions, LLC.  All rights reserved. -->
+<script language="JavaScript" src="/web_images/ntpagetag/ntpagetag.js"></script>
+<noscript>
+<img src="/web_images/ntpagetag/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
+</noscript>
+<!-- END: NetTracker Page Tag -->
 
 
 
