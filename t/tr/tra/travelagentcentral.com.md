@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelagentcentral.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606123723id_/http%3A//www.travelagentcentral.com/travelagentcentral/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelagentcentral.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010023934id_/http%3A//www.travelagentcentral.com/travelagentcentral/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Travel Agent Central - Privacy Policy
 
