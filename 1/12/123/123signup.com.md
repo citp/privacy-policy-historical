@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616114826id_/http%3A//www.123signup.com/library/company.asp%3Furl%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201050219id_/http%3A//123signup.com/library/company.asp%3Furl%3Dpolicy) for the most accurate reproduction.*
 
 # 123Signup - Policy
 
