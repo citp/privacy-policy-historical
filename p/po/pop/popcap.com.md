@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcap.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193945id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcap.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205035759id_/http%3A//popcap.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,9 @@ By using our site, you consent to the collection and use of your personal inform
 
 **Member Account, Passwords, and Invitations**
 
-If you choose to register, you will need to supply a Member ID and Password to gain access to specific parts of the PopCap.com site. You are responsible for keeping the confidentiality of your Member ID and Password If you feel the confidentiality of your Password or Member ID has been compromised; you agree to immediately notify PopCap.com at support@popcap.com. 
+If you choose to register, you will need to supply a Member ID and Password to gain access to specific parts of the PopCap.com site. You are responsible for keeping the confidentiality of your Member ID and Password If you feel the confidentiality of your Password or Member ID has been compromised; you agree to immediately notify PopCap.com at 
+
+[**customer support.**](mailto:sup%70%6f%72t%40%70o%70%63%61p.%63om)
 
 **Changes to our Privacy Policy**
 
@@ -45,4 +47,4 @@ PopCap.com reserves the right to change this privacy policy without notice. Ther
 Other companies that advertise on our site may collect information about you when you view or click on their site or logos. PopCap.com does not control what information third parties gather once you leave the PopCap.com web site. You are encouraged to check the privacy policies of these sites. 
 
   
-**[Main Page](https://web.archive.org/web/20030603193945id_/http%3A//www.popcap.com/index.php)**
+**[Main Page](https://web.archive.org/web/20031205035759id_/http%3A//popcap.com/index.php)**
