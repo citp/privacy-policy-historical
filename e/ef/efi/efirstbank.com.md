@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605073415id_/http%3A//www.efirstbank.com/1stbank/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207035921id_/http%3A//www.efirstbank.com/1stbank/privacypolicy.html) for the most accurate reproduction.*
 
 # FirstBank Privacy Policy and Disclosure
 
@@ -18,7 +18,7 @@ We are not responsible for the information collection practices of third party w
 
 We have implemented commercially reasonable security systems to protect personal information that we receive from any of our online applications. All information that is sent to us on these applications is encrypted using the standard security protocol Secure Socket Layer (SSL) during the transmission from an applicant's personal computer. Once an application for a loan or new account has been submitted, applicants are not able to view or update the information online, but may call FirstBank's Loans by Phone Department at 303-238-9000 or 1-877-933-9800 outside Metro Denver for information regarding applications. 
 
-For Internet Banking enrollment, once the customer has been enrolled for Internet Banking, he or she may view and update certain user information by logging into Internet Banking and going to the Personalization section. Customers may also call an Internet Banking Representative at 303-232-5522 or 1-800-964-3444 outside Metro Denver.
+For Internet Banking enrollment, once the customer has been enrolled for Internet Banking, he or she may view and update certain user information by logging into Internet Banking and going to the Other Services section. Customers may also call an Internet Banking Representative at 303-232-5522 or 1-800-964-3444 outside Metro Denver.
 
 While visitors can use e-mail to contact us about routine issues and inquiries, e-mail may not be a secure method of communication for time sensitive communication or communication of information that is confidential. We strongly recommend that this type of information not be communicated via e-mail. 
 
