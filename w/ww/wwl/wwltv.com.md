@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwltv.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009154547id_/http%3A//www.wwltv.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwltv.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206034132id_/http%3A//www.wwltv.com/registration/privacy.html) for the most accurate reproduction.*
 
 # WWLTV.com | News for New Orleans, Louisiana | Privacy Policy
 
@@ -125,8 +125,8 @@ This Privacy Policy is effective as of March 5, 2004. Belo Interactive reserves 
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1026216633/Position1/default/empty.gif/7a2f486a615634304b32594141753654?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1051001122/Position1/default/empty.gif/7a2f4868374634304b32674144746a6c?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1539586609/Position4/default/empty.gif/7a2f486a615634304b32594141753654?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/480164154/Position4/default/empty.gif/7a2f4868374634304b32674144746a6c?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/1059717568/Position5/default/empty.gif/7a2f486a615634304b32594141753654?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wwltv.com/aboutus/301266675/Position5/default/empty.gif/7a2f4868374634304b32674144746a6c?x)
