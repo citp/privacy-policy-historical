@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603163354id_/http%3A//sharpusa.com/global/Privacy/0%2C1804%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpusa.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031910id_/http%3A//www.sharpusa.com/global/Privacy/0%2C1804%2C%2C00.html) for the most accurate reproduction.*
 
 # privacy
 
@@ -14,10 +14,18 @@ The information you provide will not be sold, but may be shared within or among 
 1\. Personal Acknowledgements  
 2\. Personalized Messages  
 3\. Pre-filled Forms  
-4\. Sending targeted e-mails to alert you to product upgrades, special offers, updated information and other new services. In the event that you are not interested in email alerts, you will have the opportunity to decline this service.
+4\. Sending targeted e-mails to alert you to product upgrades, special offers, updated information and other new services. In the event that you are not interested in email alerts, you will have the opportunity to decline this service by clicking the "unsubscribe" link in the email.
 
 Other Important Privacy Issues   
 Sharp will not sell your personally identifiable information to others, but we may share your information with Sharp entities and/or business partners to serve your needs.
+
+Cookies   
+A 'cookie' is a text-only string of characters that is temporarily stored in your computer's memory. Our cookies are time sensitive. If the expiration of a cookie is set to be longer than the time you spend on a site, then this string is saved in a 'cookie' on your hard drive for future reference, otherwise it disappears from your computer when your browser is closed. Cookies such as we use cannot retrieve information from your computer's hard drive, destroy files, or send viruses.
+
+When a cookie is placed on your hard drive, it does not allow access to your personal information although it may be used to identify your computer. SharpUSA.com uses cookies to track the pages that a user visits so that information can be customized to the visitor on a session-by-session basis, and so that future visits may be enhanced. It is a quick and convenient means of keeping site content fresh and relevant to the viewer.
+
+Web Beacons   
+In conjunction with Cookies, sharpUSA.com uses Web Beacons to monitor web site traffic generated from various forms of advertising such as banner ads, or to track general site traffic. A Web Beacon is a graphic on a web page or in an e-mail message designed to track pages viewed and messages opened. Web Beacons are often invisible because they are typically only 1-pixel by 1-pixel in size. In many cases, companies place Web Beacons on web pages to collect data about visitors. When a user requests a sharpUSA.com page, the Web Beacon is retrieved/activated. Once the Web Beacon is retrieved/activated, it points to an external site to retrieve the image. At that time it can also pass along information such as the IP address of the computer that retrieved the image, the time the Web Beacon was viewed and for how long, and the type of browser that retrieved the image. This information is then compiled and made available to sharpUSA.com. Web Beacons, along with Cookies, enable us to enhance your experience on the sharpUSA site.
 
 This privacy policy references the contents of this site only and does not pertain to any other Sharp site.
 
