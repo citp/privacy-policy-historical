@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the troybilt.com privacy policy that was archived on 2002-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020201181720id_/http%3A//troybilt.mtdproducts.com%3A8080/Privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the troybilt.com privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207150731id_/http%3A//www.troybilt.com/Privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <!-- Add any Javascript or additional header directives here -->
@@ -28,7 +28,7 @@
         var sSelection;
         sSelection = document.headerform.cboProductType.options[document.headerform.cboProductType.selectedIndex].value;
         if (sSelection!="one") {
-            window.open("/servlet/BrandSubcategory?ID="+sSelection, "_top");
+            window.location ="/servlet/BrandSubcategory?ID="+sSelection;
         }
         return false;
     }
@@ -63,11 +63,6 @@
         b13On.src  = "/servlet/GetImage?area=MENU_INTERIOR&id=13&type=ActiveImage&ident=MenuInteriorId"
         b13Off.src = "/servlet/GetImage?area=MENU_INTERIOR&id=13&type=InactiveImage&ident=MenuInteriorId"
       
-        b14On      = new Image()
-        b14Off     = new Image()
-        b14On.src  = "/servlet/GetImage?area=MENU_INTERIOR&id=14&type=ActiveImage&ident=MenuInteriorId"
-        b14Off.src = "/servlet/GetImage?area=MENU_INTERIOR&id=14&type=InactiveImage&ident=MenuInteriorId"
-      
         b15On      = new Image()
         b15Off     = new Image()
         b15On.src  = "/servlet/GetImage?area=MENU_INTERIOR&id=15&type=ActiveImage&ident=MenuInteriorId"
@@ -83,38 +78,42 @@
         b17On.src  = "/servlet/GetImage?area=MENU_INTERIOR&id=17&type=ActiveImage&ident=MenuInteriorId"
         b17Off.src = "/servlet/GetImage?area=MENU_INTERIOR&id=17&type=InactiveImage&ident=MenuInteriorId"
       
-        b18On      = new Image()
-        b18Off     = new Image()
-        b18On.src  = "/servlet/GetImage?area=MENU_INTERIOR&id=18&type=ActiveImage&ident=MenuInteriorId"
-        b18Off.src = "/servlet/GetImage?area=MENU_INTERIOR&id=18&type=InactiveImage&ident=MenuInteriorId"
+        b61On      = new Image()
+        b61Off     = new Image()
+        b61On.src  = "/servlet/GetImage?area=MENU_INTERIOR&id=61&type=ActiveImage&ident=MenuInteriorId"
+        b61Off.src = "/servlet/GetImage?area=MENU_INTERIOR&id=61&type=InactiveImage&ident=MenuInteriorId"
         goOn            = new Image()
         goOff           = new Image()
         modelOn         = new Image()
         modelOff        = new Image()
         joinOn          = new Image()
         joinOff         = new Image()
-        specialOn       = new Image()
-        specialOff      = new Image()
+        litdownOn       = new Image()
+        litdownOff      = new Image()
         partsOn         = new Image()
         partsOff        = new Image()
         loginOn       = new Image()
         loginOff      = new Image()
         cartOn         = new Image()
         cartOff        = new Image()
+        accessoriesOn   = new Image();
+        accessoriesOff  = new Image();
         goOn.src        = "/images/bkgo-over.gif"
         goOff.src       = "/images/bkgo.gif"
         modelOn.src     = "/images/model-over.gif"
         modelOff.src    = "/images/model.gif"
         joinOn.src      = "/images/join-over.gif"
         joinOff.src     = "/images/join.gif"
-        specialOn.src   = "/images/special-over.gif"
-        specialOff.src  = "/images/special.gif"
+        litdownOn.src   = "/images/litdown-over.gif"
+        litdownOff.src  = "/images/litdown.gif"
         partsOn.src     = "/images/parts-over.gif"
         partsOff.src    = "/images/parts.gif"
         loginOn.src   = "/images/login-over.gif"
         loginOff.src  = "/images/login.gif"
         cartOn.src     = "/images/cart-over.gif"
         cartOff.src    = "/images/cart.gif"
+        accessoriesOn.src = "/images/accessories-over.gif";
+        accessoriesOff.src = "/images/accessories.gif";      
     }
     //-->
     </script>
@@ -131,15 +130,13 @@
             
             <td valign="top" align="center" width="38" height="12"><a href="/SrvSearch.jsp" target="_parent" onmouseover="hiLiteOn('b13')" onmouseout="hiLiteOff('b13')"><img src="/servlet/GetImage?area=MENU_INTERIOR&amp;id=13&amp;type=InactiveImage&amp;ident=MenuInteriorId" name="b13" border="0" alt="Where to Get Service"></a></td>
             
-            <td valign="top" align="center" width="38" height="12"><a href="/FAQ.jsp" target="_parent" onmouseover="hiLiteOn('b14')" onmouseout="hiLiteOff('b14')"><img src="/servlet/GetImage?area=MENU_INTERIOR&amp;id=14&amp;type=InactiveImage&amp;ident=MenuInteriorId" name="b14" border="0" alt="FAQs"></a></td>
-            
-            <td valign="top" align="center" width="38" height="12"><a href="/prodregis.jsp" target="_parent" onmouseover="hiLiteOn('b15')" onmouseout="hiLiteOff('b15')"><img src="/servlet/GetImage?area=MENU_INTERIOR&amp;id=15&amp;type=InactiveImage&amp;ident=MenuInteriorId" name="b15" border="0" alt="Product Registration"></a></td>
+            <td valign="top" align="center" width="38" height="12"><a href="/prodregis/index.jsp" target="_parent" onmouseover="hiLiteOn('b15')" onmouseout="hiLiteOff('b15')"><img src="/servlet/GetImage?area=MENU_INTERIOR&amp;id=15&amp;type=InactiveImage&amp;ident=MenuInteriorId" name="b15" border="0" alt="Product Registration"></a></td>
             
             <td valign="top" align="center" width="38" height="12"><a href="/Financing.jsp" target="_parent" onmouseover="hiLiteOn('b16')" onmouseout="hiLiteOff('b16')"><img src="/servlet/GetImage?area=MENU_INTERIOR&amp;id=16&amp;type=InactiveImage&amp;ident=MenuInteriorId" name="b16" border="0" alt="Financing"></a></td>
             
-            <td valign="top" align="center" width="38" height="12"><a href="/servlet/LiteratureDownload" target="_parent" onmouseover="hiLiteOn('b17')" onmouseout="hiLiteOff('b17')"><img src="/servlet/GetImage?area=MENU_INTERIOR&amp;id=17&amp;type=InactiveImage&amp;ident=MenuInteriorId" name="b17" border="0" alt="Literature Download"></a></td>
+            <td valign="top" align="center" width="38" height="12"><a href="/manuals.jsp" target="_parent" onmouseover="hiLiteOn('b17')" onmouseout="hiLiteOff('b17')"><img src="/servlet/GetImage?area=MENU_INTERIOR&amp;id=17&amp;type=InactiveImage&amp;ident=MenuInteriorId" name="b17" border="0" alt="Owner's Manuals"></a></td>
             
-            <td valign="top" align="center" width="38" height="12"><a href="/servlet/ContactUs" target="_parent" onmouseover="hiLiteOn('b18')" onmouseout="hiLiteOff('b18')"><img src="/servlet/GetImage?area=MENU_INTERIOR&amp;id=18&amp;type=InactiveImage&amp;ident=MenuInteriorId" name="b18" border="0" alt="Contact Us"></a></td>
+            <td valign="top" align="center" width="38" height="12"><a href="http://troybilt.custhelp.com" target="_parent" onmouseover="hiLiteOn('b61')" onmouseout="hiLiteOff('b61')"><img src="/servlet/GetImage?area=MENU_INTERIOR&amp;id=61&amp;type=InactiveImage&amp;ident=MenuInteriorId" name="b61" border="0" alt="Customer Support"></a></td>
             
        </tr>
     </tbody></table>
@@ -161,23 +158,34 @@
                     
                     <option value="19">Trimmer Mower</option>
                     
+                    <option value="14">Snow Throwers</option>
+                    
+                    <option value="3">Chipper/Shredder/Vacs</option>
+                    
+                    <option value="6">Log Splitters</option>
+                    
                     <option value="18">String Trimmers</option>
                     
                     <option value="20">Edgers</option>
                     
-                    <option value="17">Parts and Accessories</option>
+                    <option value="31">Other</option>
+                    
+                    <option value="32">Parts</option>
+                    
+                    <option value="33">Accessories</option>
                     
                 </select></span>
                 <img src="/images/spacer.gif" width="5" height="12" border="0">
             </td>
-            <td height="48" width="21"><a href="#" onmouseover="hiLiteOn('go')" onmouseout="hiLiteOff('go')" onclick="doGo()"><img src="/images/bkgo.gif" width="21" height="21" name="go" border="0" alt="Go"></a></td>
+            <td height="48" width="21"><a href="javascript:doGo();" onmouseover="hiLiteOn('go')" onmouseout="hiLiteOff('go')"><img src="/images/bkgo.gif" width="21" height="21" name="go" border="0" alt="Go"></a></td>
         </tr>
         <tr height="12">
             <td width="194" height="12"><br></td>
-            <td height="12" width="126"><a href="/deals/index.jsp" target="_top" onmouseover="hiLiteOn('special')" onmouseout="hiLiteOff('special')"><img src="/images/special.gif" width="126" height="16" name="special" border="0"></a></td>
-            <td height="12" width="143"><a href="/parts.jsp" target="_top" onmouseover="hiLiteOn('parts')" onmouseout="hiLiteOff('parts')"><img src="/images/parts.gif" width="143" height="16" name="parts" border="0"></a></td>
-            <td height="12" width="174"><a href="/bestmodel/index.jsp" target="_top" onmouseover="hiLiteOn('model')" onmouseout="hiLiteOff('model')"><img src="/images/model.gif" width="174" height="16" name="model" border="0" alt="What Model is Best"></a></td>
-            <td height="12" width="133"><a href="/JoinClub.jsp?BrandKey=TB" target="_top" onmouseover="hiLiteOn('join')" onmouseout="hiLiteOff('join')"><img src="/images/join.gif" width="133" height="16" name="join" border="0" alt="Join Troy-Bilt"></a></td>
+            <td height="12" width="126"><a href="/servlet/LiteratureDownload" onmouseover="hiLiteOn('litdown')" onmouseout="hiLiteOff('litdown')"><img src="/images/litdown.gif" width="126" height="16" name="litdown" border="0" alt="Literature Download"></a></td>
+            <td height="12" width="55"><a href="/parts.jsp" onmouseover="hiLiteOn('parts')" onmouseout="hiLiteOff('parts')"><img src="/images/parts.gif" width="55" height="16" name="parts" border="0"></a></td>
+            <td height="12" width="88"><a href="/servlet/BrandCategoryAcc" onmouseover="hiLiteOn('accessories')" onmouseout="hiLiteOff('accessories')"><img src="/images/accessories.gif" width="88" height="16" name="accessories" border="0"></a></td>
+            <td height="12" width="174"><a href="/bestmodel/index.jsp" onmouseover="hiLiteOn('model')" onmouseout="hiLiteOff('model')"><img src="/images/model.gif" width="174" height="16" name="model" border="0" alt="What Model is Best"></a></td>
+            <td height="12" width="133"><a href="/JoinClub.jsp?BrandKey=TB" onmouseover="hiLiteOn('join')" onmouseout="hiLiteOff('join')"><img src="/images/join.gif" width="133" height="16" name="join" border="0" alt="Join Troy-Bilt"></a></td>
             <td width="21" height="12"></td>
         </tr>
     </tbody></table>
@@ -275,7 +283,7 @@
 									MTD Products Inc<br>
 									P. O. Box 368022<br>
 									Cleveland, OH 44136-9722<br>
-									(330) 273-2600 <br>
+									(330) 225-2600 <br>
 								</div>
 							</td>
 						</tr>
