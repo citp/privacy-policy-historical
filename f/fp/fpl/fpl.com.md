@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202072626id_/http%3A//www.fpl.com/contents/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602211617id_/http%3A//www.fpl.com/contents/privacy_policy.shtml) for the most accurate reproduction.*
 
 # FPL's Privacy Policy
 
@@ -10,7 +10,7 @@ Our home page on the Web is located at [www.fpl.com](http://www.fpl.com/). This 
 
 We may send out periodic e-mails informing customers of offers related to a service they requested. Customers will not be able to choose to unsubscribe to these mailings, as they are considered an essential service.
 
-We invite you to contact us if you have questions about this policy. You may contact us [by e-mail](https://web.archive.org/web/20021202072626id_/http%3A//www.fpl.com/contact/contents/index.shtml#E-mail) or standard mail at the following address: 
+We invite you to contact us if you have questions about this policy. You may contact us [by e-mail](https://web.archive.org/web/20030602211617id_/http%3A//www.fpl.com/contact/contents/index.shtml#E-mail) or standard mail at the following address: 
 
 Florida Power & Light   
 PO Box 025576   
@@ -18,7 +18,7 @@ Miami, FL 33102
 
 ## Dispute resolution and privacy information
 
-**Customer Service** : To contact us, [visit us on the Web](https://web.archive.org/web/20021202072626id_/http%3A//contact/contents/index.shtml). FPL will reply to your e-mail within four business days of receiving it (Monday through Friday, excluding holidays). 
+**Customer Service** : To contact us, [visit us on the Web](https://web.archive.org/web/20030602211617id_/http%3A//contact/contents/index.shtml). FPL will reply to your e-mail within four business days of receiving it (Monday through Friday, excluding holidays). 
 
 **Federal Trade Commission** : The [Federal Trade Commission](http://www.ftc.gov/) is educating consumers and businesses about the importance of personal information privacy. Read more about their efforts, what they've learned, and what you can do to protect the privacy of your personal information. 
 
