@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nba.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202074911id_/http%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nba.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401203337id_/http%3A//www.nba.com/news/privacy_policy.html) for the most accurate reproduction.*
 
 # NBA.com: NBA.com Network Privacy Policy
 
