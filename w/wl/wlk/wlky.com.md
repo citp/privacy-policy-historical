@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlky.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405134157id_/http%3A//wlky.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlky.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031180352id_/http%3A//thelouisvillechannel.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
 
 # TheLouisvilleChannel.com - Privacy Policy
 
