@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417124836id_/http%3A//www.ebird.org/privacyStatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004151530id_/http%3A//www.ebird.org/content/privacyStatement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# eBird || North America's destination for birding on the Web
 
 PRIVACY POLICY  
 eBird is designed to gather and disseminate information about bird distribution and abundance across the United States and Canada. 
@@ -22,4 +22,4 @@ Cookies Cookies are pieces of data that we store on your computer to tie your in
 
 Internet browsers allow you to determine whether or not to accept cookies (check under the preferences or options in the browser menu). If you decide not to accept cookies, you can still use the eBird site, but you will need to re-enter login information each time you visit. 
 
-Changes to This Privacy Policy We may occasionally update or amend eBirdÐs Privacy Statement. If we make changes, we will post the changes here. 
+Changes to This Privacy Policy We may occasionally update or amend eBirdÃs Privacy Statement. If we make changes, we will post the changes here. 
