@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the mercedes-benz.ca privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614160930id_/http%3A//www.mercedes-benz.ca/index.cfm%3FID%3D3248) for the most accurate reproduction.*
+
+# Mercedes-Benz Canada
+
+Printed Material Privacy Statement
+
+Mercedes-Benz Canada Inc. (MBC) takes privacy very seriously. MBC, selected dealers and related financial service provider's use and disclose personal information supplied by you to each other. MBC will ensure that any personal information provided by us to any third party will be treated to a level of protection comparable to our Privacy Policy. Information collected is used in order to provide you with products and services (warranty, owner notifications and the like), special offers and marketing material (which may include product and service material, service reminders and the like). We endeavor to have a life long relationship and therefore may retain any personal information you provide, unless otherwise instructed. In the event of transfer of ownership, the new entity will be required to follow MBC'S Privacy Policy for 6 months, during which time the new owner will contact all customers.
+
+MBC will keep all personal information confidential. If you would like to access your personal information, request that personal information be corrected or you no longer wish to receive marketing information, please contact the Privacy Officer via email at [PrivacyOfficer@Mercedes-Benz.ca](mailto:PrivacyOfficer@Mercedes-Benz.ca)  or telephone at 1-800-387-0100.
