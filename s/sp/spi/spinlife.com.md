@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417190332id_/http%3A//www.spinlife.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201070657id_/http%3A//spinlife.com/about/privacy.cfm) for the most accurate reproduction.*
 
-# Wheelchair store - brand name wheelchairs, scooters,cushions, accessories at discount prices - SpinLife.com
+# Wheelchairs, Wheelchair, Wheel chairs - brand name wheelchairs, power wheelchairs, scooters at discount prices - SpinLife.com!
 
 |   | 
 
