@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091216id_/http%3A//www.archiecomics.com/townhall/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609195207id_/http%3A//archiecomics.com/townhall/privacy_policy.html) for the most accurate reproduction.*
 
 # Legalese
 
@@ -12,7 +12,7 @@ We at Archie Comics Online are determined to ensure that our visitors, customers
 
 Because many visitors to this site are children, we take the utmost care to make certain that our content is appropriate for kids of all ages. We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity (eg: normally just their e-mail address), and we take steps to prevent children from posting contact information. Children should obtain permission from a parent or guardian before contacting Archie Comics Online in any regard, especially before entering any personal information (which we expressly discourage) or requesting information. Archie Comics Online does not permit children under the age of 13 to place any orders at the Stuff Shop, or communicate with us through this Website without the express written permission of their Parent or Legal Guardian. If Archie Comics Online has any reason to believe that a visitor under the age of 13 is posting information, or attempting to purchase merchandise from our Stuff Shop, they will be asked to have their Parent or Legal Guardian send an e-mail or fax to us to confirm authorization.
 
-Archie does not solicit personally identifiable information from children. The Children's Online Privacy Protection Act ("COPPA") requires Websites that cater to children - or know that a visitor to their site is a child under the age of 13 - to follow specific Federal Trade Commission rules. In our attempt to fully comply with these rules, we would like you to know that:
+Archie does not solicit personally identifiable information from children. The Children's Online Privacy Protection Act ("COPPA") requires Websites that cater to children \- or know that a visitor to their site is a child under the age of 13 - to follow specific Federal Trade Commission rules. In our attempt to fully comply with these rules, we would like you to know that:
 
 ** Personally identifiable offline contact information will not be collected without prior parental consent.
 
@@ -57,3 +57,9 @@ In the event that Archie Comic Online or substantially all of its assets are acq
 **Questions or Comments.**
 
 If you have questions or concerns about this privacy policy, you can contact us at:
+
+Archie Comics Online  
+P.O. Box 559  
+Stamford, CT 06904-0599  
+[e-mail: help@archiecomics.com](mailto:help@archiecomics.com)  
+Fax: (203) 348-2720
