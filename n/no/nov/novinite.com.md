@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601103808id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207171337id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
 
 # novinite.com
-
-**Novinite.com**  
-PRIVACY POLICY 
-
-**Novinite.com takes your privacy extremely seriously.  
-Please read the following to learn more about our privacy policy. **
 
 **What this Privacy Policy Covers**
 
@@ -15,14 +9,14 @@ This Privacy Policy covers Novinite.com treatment of personally identifiable inf
 **Information Collection and Use**
 
 We collect personal information from you through:  
-\- the use of the registration form for Breaking News service,  
+\- the use of the registration form for The News service,  
 \- the forms for sending news to a friend,   
 \- every time you e-mail us your details.  
-When you register with Bulgarian Breaking News services or when you send news to a friend, we ask ONLY for email address and name. Once you register with Novinite.com and sign in to our services or you send news to a friend, your name and e-mail address are not anonymous to us. 
+When you register with Тhe News services or when you send news to a friend, we ask ONLY for email address and name. Once you register with Novinite.com and sign in to our services or you send news to a friend, your name and e-mail address are not anonymous to us. 
 
 **Information Sharing and Disclosure**
 
-Novinite.com staff treats your e-mail address as strictly confidential information. Novinite.com will NOT sell or rent your personally identifiable information to anyone in any case and any price and will not use your name and e-mail address for any other purposes than the purposes of the daily Breaking News Services. 
+Novinite.com staff treats your e-mail address as strictly confidential information. Novinite.com will NOT sell or rent your personally identifiable information to anyone in any case and any price and will not use your name and e-mail address for any other purposes than the purposes of the daily The News Services. 
 
 **Cookies**
 
