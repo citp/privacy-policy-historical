@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000928id_/http%3A//www.learner.org/private.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610140315id_/http%3A//www.learner.org/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Annenberg / CPB
+# Annenberg / CPB: Privacy Policy
 
 | 
 
