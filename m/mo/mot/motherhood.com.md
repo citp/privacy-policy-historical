@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the motherhood.com privacy policy that was archived on 2001-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011206150051id_/http%3A//motherhood.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherhood.com privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619120022id_/http%3A//motherhood.com/Privacy.asp) for the most accurate reproduction.*
 
 # Motherhood Maternity - Clothes and Accessories On-Line
 
- 
-
-At Motherhood.com, we are committed to providing our customers with high quality maternity and nursing wear products.  So that our customers can feel as confident and secure about shopping on line as they do with our products generally, we have developed the following policy to explain our dedication to the customer*s privacy and to ensure that customers have easy access to information about our data collection and dissemination practices. 
+  At Motherhood.com, we are committed to providing our customers with high quality maternity and nursing wear products.  So that our customers can feel as confident and secure about shopping on line as they do with our products generally, we have developed the following policy to explain our dedication to the customer*s privacy and to ensure that customers have easy access to information about our data collection and dissemination practices. 
 
 **_Customer Information We Collect On Line_**
 
@@ -18,6 +16,6 @@ Do We Employ **Cookies?** **Cookies** are small files stored on your computer ha
 
 **_What Information We May Share With Others_**
 
-Occasionally, we are approached by other companies or organizations that have a product or service we believe might be of interest to you.  We may share the personal contact information and child*s due date/birth date you volunteer to us with these companies.  Should you prefer, however, that we refrain from sharing this information with such third parties, you may **opt-out** by simply notifying us by e-mail, telephone or postal address that you do not want your personal information shared.  E-mail should be directed to info@motherhood.com or you may reach us by phone at 1 800 4Mom2Be (800 466 6223).  Additionally, our postal address is:  Mothers Work, Inc., 456 North Fifth Street, Philadelphia, Pennsylvania  19123\. 
+Occasionally, we are approached by other companies or organizations that have a product or service we believe might be of interest to you.  We may share the personal contact information and child*s due date/birth date you volunteer to us with these companies.  Should you prefer, however, that we refrain from sharing this information with such third parties, you may **opt-out** by simply notifying us by e-mail, telephone or postal address that you do not want your personal information shared.  E-mail should be directed to information@motherhood.com or you may reach us by phone at 1 800 4Mom2Be (800 466 6223).  Additionally, our postal address is:  Mothers Work, Inc., 456 North Fifth Street, Philadelphia, Pennsylvania  19123\. 
 
 Our Mailing List:  Removing or Making Corrections to Your Personal Information By contacting us through any of the above-listed means, you may also choose to remove your name from our own customer list, which we use to send customers catalogs, notices of upcoming promotions and other hard-copy and e-mail information.  So long as you choose to remain on our mailing list, however, we provide you with the ability to update, correct or change your personal information by contacting us at the telephone number, e-mail and postal addresses listed above. 
