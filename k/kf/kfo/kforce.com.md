@@ -1,63 +1,41 @@
-> *The following text is extracted and transformed from the kforce.com privacy policy that was archived on 1999-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991128233031id_/http%3A//www.kforce.com/kforce/kforce.nsf/Privacy%3FOpenForm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kforce.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620192056id_/http%3A//www.kforce.com/kforce/kforce.nsf/Privacy%3FOpenForm) for the most accurate reproduction.*
 
 # kforce.com - Privacy
 
-**
+**PRIVACY STATEMENT**
 
-PRIVACY STATEMENT
-
-**
-
-Romac International, Inc. ("ROMAC") is committed to safeguarding the privacy of our users. Please read the following policy to understand how ROMAC will treat your personal information as you use this site. 
-
-****
+Romac International, Inc., d/b/a kforce.com, Inc. ("kforce" or "ROMAC") is committed to safeguarding the privacy of the users of our kforce.com web site. Please read the following policy to understand how kforce will treat your personal information as you use this site.
 
 **Collective Information**
 
-In general, ROMAC collects information about users of this site collectively, such as the pages users visit most frequently, the services users access the most, and the links to ROMAC’s partners that users most often visit. ROMAC only uses such data in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually improve the services and features provided to the users of our site. We may share this collected information with our partners, but only in the aggregate, so that they too may understand how this site is used, in order to improve the services and features provided to you.
-
-****
+kforce collects information about users of this site collectively, such as the pages users visit most frequently, the services users access the most, and the links to kforce's partners that users most often visit. kforce only uses such data in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually improve the services and features provided to the users of our site. We may share this collected information with our partners, but only in the aggregate, so that they too may understand how this site is used, in order to improve the services and features provided to you.
 
 **Personal Information**
 
-ROMAC collects some personal information from you when you register to use this site, or when you sign up to use certain services, participate in an employment exchange, enter into a contest or promotion, or complete a survey for internal research. Personal information that may be collected includes name, address, e-mail address, telephone number, and, in the event you are submitting payment for a product or service, credit card number. Such information may be stored indefinitely and may be collected and processed in one or more databases maintained directly or indirectly by ROMAC. In addition to identification, registration, authentication, and transaction processing, ROMAC may use that information for marketing purposes in order to make you aware of additional products and services which may be of interest to you, or to contact you regarding changes to and new offerings on our site, and special events and promotions. From time to time, ROMAC may also ask you for other information via surveys, such as information regarding your areas of interest, your likes and dislikes regarding the site, your career goals, services that you would like offered on this site, and other such information that will help us improve the service and features made available to you on this site. 
-
-****
+kforce collects some personal information from you when you register to use this site, or when you sign up to use certain services, participate in an employment exchange, enter into a contest or promotion, or complete a survey for internal research. Personal information that may be collected includes name, address, e-mail address, telephone number, and, in the event you are submitting payment for a product or service, credit card number. Such information may be stored indefinitely and may be collected and processed in one or more databases maintained directly or indirectly by kforce. In addition to identification, registration, authentication, and transaction processing, kforce may use that information for marketing purposes in order to make you aware of additional products and services which may be of interest to you, or to contact you regarding changes to and new offerings on our site, and special events and promotions. From time to time, kforce may also ask you for other in formation via surveys, such as information regarding your areas of interest, your likes and dislikes regarding the site, your career goals, services that you would like offered on this site, and other such information that will help us improve the service and features made available to you on this site.
 
 **Information Disclosure**
 
-ROMAC will not knowingly disclose to any third party information about your individual visits to this site or your name, address, e-mail address, telephone number, or credit card number without your prior consent, except to the extent necessary or appropriate to comply with applicable laws or in legal proceedings where such information is relevant or where ROMAC believes in good faith that the law requires such disclosure. ROMAC may record and share aggregated information with our partners. ROMAC uses its best efforts to protect your personal information. However, ROMAC is not responsible or liable for the acquisition of your personal information by third parties without ROMAC’s knowledge and ROMAC has no control over anything that occurs on servers not controlled by ROMAC. ROMAC reserves the right to offer third party services and products to you based on the preferences that you identify in your registration and at any time thereafter; such offers may be made by ROMAC or by third parties.
+kforce will not knowingly disclose to any third party information about your individual visits to this site or your name, address, e-mail address, telephone number, or credit card number without your prior consent, except to the extent necessary or appropriate to comply with applicable laws or in legal proceedings where such information is relevant or where kforce believes in good faith that the law requires such disclosure. kforce may record and share aggregated information with our partners. kforce uses its best efforts to protect your personal information. However, kforce is not responsible or liable for the acquisition of your personal information by third parties without kforce's knowledge and kforce has no control over anything that occurs on servers not controlled by kforce. Further, to the extent that you include your personal information (including e-mail address) on any resume you submit or post to the Site, kforce cannot control the use of such information by third- party clients of kforce that obtain your resume from the Site or kforce. kforce reserves the right to offer third-party services and products to you based on the preferences that you identify in your registration and at any time thereafter; any such offers will be made directly by kforce or by third parties and offers sent by kforce to your e-mail address may contain advertisements.
 
-**
+**User Communications**
 
-Resumes
+In the event that you communicate any information, feedback, data, questions, comments, suggestions or other items to kforce regarding kforce, this site and its contents, or the services offered on this site, any such communication shall be deemed not to be confidential and shall become the property of kforce. kforce shall be free to reproduce, use, disclose and distribute such communication to others, without limitation. kforce shall also have the unrestricted right to use any ideas, concepts, know-how, software, documentation, diagrams, drawings, schematics or techniques contained in your communication in any manner and for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products or providing services.
 
-**
+**User Submissions**
 
-As a user of this site, you have the option of submitting your resume to ROMAC’s database. in order to apply for an employment opportunity online or participate in an employment exchange. By doing so, your resume will be searchable and viewable by hiring managers and human resource professionals of ROMAC and ROMAC’s third-party clients, which include corporate entities seeking candidates for employment, recruiters, and placement consultants. ROMAC uses its best efforts to grant access to this database only to such third-party clients. However, ROMAC is not responsible or liable if some other third party evades security measures and gains access to the database, and, subsequently, your resume. You may remove your resume from our searchable database at any time. However, ROMAC’s clients who have access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in such instances.
+In the event that you submit information to kforce in the form of audio, video, or photographs, whether submitted via the site or otherwise, such information may be published or distributed by kforce to third-party clients and will be searchable and viewable by such third-party clients of kforce. kforce uses its best efforts to grant access to this information only to such clients. However, kforce is not responsible or liable if some other third party evades security measures and gains access to such information. kforce will cease publishing, distributing, or making available your information to third-party clients upon receipt of a written request from you. However, kforce's clients that have access to such information may have retained a copy of the information in their own files or databases. kforce is not responsible for the retention, use, or privacy of your information in such instances.
 
-****
+**Resumes**
 
-**Communications**
+As a user of this site, you have the option of submitting or posting your resume to the site. in order to apply for an employment opportunity online or participate in an employment exchange. By doing so, your resume will be searchable and viewable and may be forwarded, transmitted, or ported to third-party clients of kforce (which may include recruiters and placement consultants). kforce uses its best efforts to grant access to your resume only to such clients. However, kforce is not responsible or liable if some other third party evades security measures and gains access to your resume. You may remove or request the removal of your resume from our searchable database or the site or request that your resume not be forwarded at any time. However, kforce's clients that have access to the database or received your resume may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in such instances .
 
-In the event that you communicate any information, feedback, data, questions, comments, suggestions or other items to ROMAC regarding ROMAC, this site and its contents, or the services offered on this site, any such communication shall be deemed not to be confidential and shall become the property of ROMAC. ROMAC shall be free to reproduce, use, disclose and distribute such communication to others, without limitation. ROMAC shall also have the unrestricted right to use any ideas, concepts, know-how, software, documentation, diagrams, drawings, schematics or techniques contained in your communication in any manner and for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products or providing services.
+**Internet Use Considerations**
 
-**
-
-Internet Use Considerations
-
-**
-
-We recommend that you do not divulge your ROMAC password to anyone. ROMAC will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also, remember to sign out of your ROMAC account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, ROMAC cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use our best efforts to ensure its security on our systems.
-
-Utimately, you are solely responsible for maintaining the secrecy of your ROMAC password and account information. Please be careful and responsible whenever you are online. 
-
-****
+We recommend that you do not divulge your kforce password to anyone. kforce will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also, remember to sign out of your kforce account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, kforce cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use our best efforts to ensure its security on our systems. Utimately, you are solely responsible for maintaining the secrecy of your kforce password and account information. Please be careful and responsible whenever you are online.
 
 **Policy Changes**
 
-ROMAC’s policy regarding privacy may change from time to time so please check back periodically. If, at any time, you have questions or concerns about ROMAC’s privacy commitment, please feel free to send us e-mail at kforce@romac.com or call **1-877-453-6723** to speak to one of our representatives. This information was last revised on **September 3, 1999**. 
+kforce's policy regarding privacy may change from time to time so please check back periodically. If, at any time, you have questions or concerns about kforce's privacy commitment, please feel free to contact us at [_kforce@romac.com_](mailto:webmaster@romac.com "mailto:webmaster@romac.com") or call **1-877-453-6723** to speak to one of our representatives.
 
-Copyright © 1999 ROMAC International, Inc. All Rights Reserved.
+This information was last revised on **February 14, 2000**.
