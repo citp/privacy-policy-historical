@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207130816id_/http%3A//www.pdfcomplete.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604152225id_/http%3A//www.pdfcomplete.com/privacy.htm) for the most accurate reproduction.*
 
 # PDF Complete
 
