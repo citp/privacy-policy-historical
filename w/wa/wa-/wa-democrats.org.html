@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wa-democrats.org privacy policy that was archived on 2003-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030410205103id_/http%3A//www.wa-democrats.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wa-democrats.org privacy policy that was archived on 2003-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031001213742id_/http%3A//wa-democrats.org/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Washington State Democrats</title>
@@ -38,6 +38,7 @@ if (document.images)	// these are the main navigation buttons
 	dncOff = new Image;
 	emailOff = new Image;
 	pressOff = new Image;
+	whitehouseOff = new Image;
 
 	calendarOff.src = "images/btn_calendar_blue.jpg";
 	platformOff.src = "images/btn_platform_blue.jpg";
@@ -54,6 +55,7 @@ if (document.images)	// these are the main navigation buttons
 	dncOff.src = "images/btn_dnc_blue.jpg";
 	emailOff.src = "images/btn_email_blue.jpg";
 	pressOff.src = "images/btn_press_blue.jpg";
+	whitehouseOff.src = "images/btn_whitehouse_blue.jpg";
 
 	calendarOn = new Image;
 	platformOn = new Image;
@@ -70,6 +72,7 @@ if (document.images)	// these are the main navigation buttons
 	dncOn = new Image;
 	emailOn = new Image;
 	pressOn = new Image;
+	whitehouseOn = new Image;
 
 	calendarOn.src = "images/btn_calendar_red.jpg";
 	platformOn.src = "images/btn_platform_red.jpg";
@@ -86,20 +89,21 @@ if (document.images)	// these are the main navigation buttons
 	dncOn.src = "images/btn_dnc_red.jpg";
 	emailOn.src = "images/btn_email_red.jpg";
 	pressOn.src = "images/btn_press_red.jpg";
+	whitehouseOn.src = "images/btn_whitehouse_red.jpg";
 }
         
 function chgNav(imgField,newImg)
 {
 	if (document.images)
 	{
-		document[imgField].src= eval(newImg + ".src")
+		document[imgField].src = eval(newImg + ".src")
     }
 }
 
 /* create advanced drop down feature */
 function dropmenu()
 {
-	//window.alert("dropmenu!");
+	if(document.all){	// this is for ie
 	test.innerHTML="<br /><img src=\"images/white_square.jpg\" height=\"35\" width=\"47\"><a href=\"contact.php\" onmouseover=\"chgNav('contactus','contactusOn'); chgNav('donation','donationOff');\" onmouseout=\"chgNav('contactus','contactusOff');\"><img src=\"images/btn_contactus_blue2.jpg\" width=\"168\" height=\"35\" border=\"0\" alt=\"Contact us\" title=\"Contact us\" name=\"contactus\"></a>"
 	+
 	"<br /><img src=\"images/white_square.jpg\" height=\"35\" width=\"47\"><a href=\"electedofficials.php\" onmouseover=\"chgNav('rep','repOn'); chgNav('donation','donationOff');\" onmouseout=\"chgNav('rep','repOff');\"><img src=\"images/btn_contactrep_blue2.jpg\" width=\"168\" height=\"35\" border=\"0\" alt=\"Contact your rep\" title=\"Contact your rep\" name=\"rep\"></a>"
@@ -112,12 +116,35 @@ function dropmenu()
 	+
 	"<br /><img src=\"images/white_square.jpg\" height=\"35\" width=\"47\"><a href=\"http://www.dnc.org\" target=\"_blank\" onmouseover=\"chgNav('dnc','dncOn'); chgNav('donation','donationOff');\" onmouseout=\"chgNav('dnc','dncOff');\"><img src=\"images/btn_dnc_blue.jpg\" width=\"168\" height=\"35\" border=\"0\" alt=\"Goto DNC\" title=\"Goto DNC\" name=\"dnc\"></a>"
 	;
+	}// end ie if
+	if(!document.all && document.getElementById){	//this browser= NN6
+	testlayer = document.getElementById("test");
+	testlayer.innerHTML="<br /><img src=\"images/white_square.jpg\" height=\"35\" width=\"47\"><a href=\"contact.php\" onmouseover=\"chgNav('contactus','contactusOn'); chgNav('donation','donationOff');\" onmouseout=\"chgNav('contactus','contactusOff');\"><img src=\"images/btn_contactus_blue2.jpg\" width=\"168\" height=\"35\" border=\"0\" alt=\"Contact us\" title=\"Contact us\" name=\"contactus\"></a>"
+	+
+	"<br /><img src=\"images/white_square.jpg\" height=\"35\" width=\"47\"><a href=\"electedofficials.php\" onmouseover=\"chgNav('rep','repOn'); chgNav('donation','donationOff');\" onmouseout=\"chgNav('rep','repOff');\"><img src=\"images/btn_contactrep_blue2.jpg\" width=\"168\" height=\"35\" border=\"0\" alt=\"Contact your rep\" title=\"Contact your rep\" name=\"rep\"></a>"
+	+
+	"<br /><img src=\"images/white_square.jpg\" height=\"35\" width=\"47\"><a href=\"ldchairs.php\" onmouseover=\"chgNav('ldchair','ldchairOn'); chgNav('donation','donationOff');\" onmouseout=\"chgNav('ldchair','ldchairOff');\"><img src=\"images/btn_ldchair_blue.jpg\" width=\"168\" height=\"35\" border=\"0\" alt=\"Contact LD Chair\" title=\"Contact LD Chair\" name=\"ldchair\"></a>"
+	+
+	"<br /><img src=\"images/white_square.jpg\" height=\"35\" width=\"47\"><a href=\"countychairs.php\" onmouseover=\"chgNav('county','countyOn'); chgNav('donation','donationOff');\" onmouseout=\"chgNav('county','countyOff');\"><img src=\"images/btn_county_blue.jpg\" width=\"168\" height=\"35\" border=\"0\" alt=\"Contact Counnty Chair\" title=\"Contact County Chair\" name=\"county\"></a>"
+	+
+	"<br /><img src=\"images/white_square.jpg\" height=\"35\" width=\"47\"><a href=\"email.php\" onmouseover=\"chgNav('email','emailOn'); chgNav('donation','donationOff');\" onmouseout=\"chgNav('email','emailOff');\"><img src=\"images/btn_email_blue.jpg\" width=\"168\" height=\"35\" border=\"0\" alt=\"Join Email list\" title=\"Join email list\" name=\"email\"></a>"
+	+
+	"<br /><img src=\"images/white_square.jpg\" height=\"35\" width=\"47\"><a href=\"http://www.dnc.org\" target=\"_blank\" onmouseover=\"chgNav('dnc','dncOn'); chgNav('donation','donationOff');\" onmouseout=\"chgNav('dnc','dncOff');\"><img src=\"images/btn_dnc_blue.jpg\" width=\"168\" height=\"35\" border=\"0\" alt=\"Goto DNC\" title=\"Goto DNC\" name=\"dnc\"></a>"
+	;
+	}
 }
 /* clear the advanced drop down feature */
 function clearmenu()
 {
-	test.innerHTML="";
-	chgNav('donation','donationOn');
+	if(document.all){	// this is for ie
+		test.innerHTML="";
+		chgNav('donation','donationOn');
+	}
+	if(!document.all && document.getElementById){	//thisbrowser="NN6";
+		testlayer = document.getElementById("test");
+		testlayer.innerHTML = "";
+		chgNav('donation','donationOn');
+    }
 }
 
 //-->
@@ -131,7 +158,7 @@ function clearmenu()
 
 <table cellspacing="0" cellpadding="0" border="0" width="640" align="center">
 	<tbody><tr><!--row 1-->
-		<td colspan="3" height="85" align="right"><a href="index.php"><img src="images/header8.jpg" width="640" height="85" border="0" alt="Washington State Democrats"></a></td>
+		<td colspan="3" height="85" align="right"><a href="index.php"><img src="images/header0.jpg" width="640" height="85" border="0" alt="Washington State Democrats"></a></td>
 
 	</tr>
 	<tr><!--row 2-->
@@ -210,25 +237,20 @@ function clearmenu()
 		<td width="10" onmouseover="clearmenu();chgNav('contact','contactOff');"><img src="images/spacer.png" width="10" height="1" border="0" alt="Washington State Democrats"></td>
 		<td valign="top" width="215">
 			<table cellspacing="0" cellpadding="0" border="0" width="215">
-<!--				<tr><!--headline-->
-<!--					<td colspan="2"><a href="article.php" onmouseover="chgNav('headline','headlineOn'); chgNav('donation','donationOff');" onmouseout="chgNav('headline','headlineOff'); chgNav('donation','donationOn');"><img src="images/btn_headline_blue.jpg" width="215" height="37" border="0" alt="Headline story" title="Headline story" name="headline"></a></td>
+				<tbody><tr><!--headline-->
+					<td colspan="2"><a href="article.php" onmouseover="chgNav('headline','headlineOn'); chgNav('donation','donationOff');" onmouseout="chgNav('headline','headlineOff'); chgNav('donation','donationOn');"><img src="images/btn_headline_blue.jpg" width="215" height="37" border="0" alt="Headline story" title="Headline story" name="headline"></a></td>
 				</tr>
-				<tr><!--article-->
-<!--					<td colspan="2">
-					
-					<!--<a href="article.php" onmouseover="chgNav('headline','headlineOn'); chgNav('donation','donationOff');" onmouseout="chgNav('headline','headlineOff'); chgNav('donation','donationOn');"><img src="images/dollar.jpg" width="215" height="148" border="0" alt="Headline story" title="Headline story"></a>-->
-					
-<!--					<table width="215" height="148" border="5" bgcolor="DDDDFF"><tr><td align="center" valign="middle">
-					<p class="redhead"><i>Support Our Troops:</i><br/>Bring Them Home</p>
-					</td></tr></table>
-
-					</td>
-				</tr>
--->				<tbody><tr><!--donation-->
+				<!--tr><!--article--
+					<td colspan="2"><a href="article.php" onmouseover="chgNav('headline','headlineOn'); chgNav('donation','donationOff');" onmouseout="chgNav('headline','headlineOff'); chgNav('donation','donationOn');"><img src="images/dollar.jpg" width="215" height="148" border="0" alt="Headline story" title="Headline story"></a></td>
+				</tr-->
+				<tr><!--donation-->
 					<td colspan="2"><a href="https://wa-democrats.org/donation.php"><img src="images/btn_donation_red.jpg" width="215" height="37" border="0" alt="Make a donation" title="Make a donation" name="donation"></a></td>
 				</tr>
 				<tr><!--press-->
 					<td colspan="2"><a href="press.php" onmouseover="chgNav('press','pressOn'); chgNav('donation','donationOff');" onmouseout="chgNav('press','pressOff'); chgNav('donation','donationOn');"><img src="images/btn_press_blue.jpg" width="215" height="37" border="0" alt="press" title="press" name="press"></a></td>
+				</tr>
+				<tr><!--white house 2004-->
+					<td colspan="2"><a href="wh_2004_contacts.php" onmouseover="chgNav('whitehouse','whitehouseOn'); chgNav('donation','donationOff');" onmouseout="chgNav('whitehouse','whitehouseOff'); chgNav('donation','donationOn');"><img src="images/btn_whitehouse_blue.jpg" width="215" height="37" border="0" alt="whitehouse" title="whitehouse" name="whitehouse"></a></td>
 				</tr>
 				<tr><!--volunteer-->
 					<td colspan="2"><a href="volunteer.php" onmouseover="chgNav('volunteer','volunteerOn'); chgNav('donation','donationOff');" onmouseout="chgNav('volunteer','volunteerOff'); chgNav('donation','donationOn');"><img src="images/btn_volunteer_blue.jpg" width="215" height="37" border="0" alt="volunteer" title="volunteer" name="volunteer"></a></td>
