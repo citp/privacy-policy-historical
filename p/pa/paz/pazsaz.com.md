@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203021545id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608205129id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pazsaz Entertainment Network
 
-**Pazsaz Entertainment Network Privacy Policy** **Last Updated: March 15, 2003**
+**Pazsaz Entertainment Network Privacy Policy** **Last Updated: June 1, 2004**
 
 * * *
 
