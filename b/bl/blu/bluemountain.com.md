@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401122935id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024232id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.*
 
 # Blue Mountain- Privacy Policy
 
@@ -28,7 +28,9 @@ If you want to prevent a third-party advertiser from setting and/or reading cook
 From time-to-time, outside third party research companies may set cookies on your browser regarding exposure to certain ad placements. These cookies may be used later for research purposes if you later opt-in to take a survey. If you choose to take the survey, these companies may examine your browser to see if a one of their cookies has been set. If the company detects the cookie in your browser, it will gather only 2 pieces of information from it: where you have seen a particular ad and; how many times you have seen it. If you do not want these kinds of cookies to be set to your browser, you can opt-out by [clicking here](http://ch.questionmarket.com/site/subnav/optout.html).
 
 **_IP Addresses_**  
-We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors for thirty days. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the web site; however, we do not link your IP address to any personally identifying information.
+We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.
+
+BLUE MOUNTAIN INCLUDES THE SENDER IP ADDRESS IN THE HEADER INFORMATION OF EACH GREETINGS NOTIFICATION E-MAIL IT SENDS. IT IS AVAILABLE TO THE GREETINGS RECIPIENT AND ANYONE ELSE WHO IS FORWARDED THE NOTIFICATION E-MAIL. THIS LIMITS YOUR ABILITY TO COMMUNICATE ANONYMOUSLY USING ELECTRONIC GREETINGS. ELECTRONIC GREETINGS ARE NEITHER INTENDED NOR APPROPRIATE FOR ANONYMOUS COMMUNICATIONS, AND SUCH ACTIVITY IS EXPRESSLY PROHIBITED BY THE ACCEPTABLE USE POLICY IN OUR [TERMS OF SERVICE](http://www.bluemountain.com/legal.pd).
 
 **_When You Send A Greeting_**  
 If you use our web site to send an online greeting or any other content, we collect your e-mail address and your recipient's e-mail address. This information is necessary to send the content and provide confirmation that it has been received. We will not use your recipient's e-mail address for any purpose other than to send the greeting. We may also use your e-mail address to contact you if you have chosen to receive communications from Blue Mountain or its Partners. (See Opt-Out/Changing Your Status, below). 
@@ -49,7 +51,7 @@ Blue Mountain also offers you the opportunity to receive money-saving offers, di
 This program is conducted strictly on an opt-in basis. In order to receive the offers, you must affirmatively check the clearly marked box on our "Personalize Your Greeting" pages and registration pages on our site. If you leave the box unchecked, you will not receive any offers. If you do sign up for the program but later change your mind, you are free at any time to opt-out by following the procedures outlined in Opt-Out/Changing Your Status, below. 
 
 **_Mandatory Communications_**  
-Blue Mountain reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our Terms of Service. These communications are mandatory.
+Blue Mountain reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our [Terms of Service](http://www.bluemountain.com/legal.pd). These communications are mandatory.
 
 **_Information Gathered From Members_**  
 If you elect to purchase a Membership on Blue Mountain, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.
@@ -80,7 +82,7 @@ From time to time, you may be given the opportunity to order products and servic
 **Privacy of Greeting Card Information**  
 We treat all of our greetings products as private correspondence between the sender and the recipient and will not disclose the contents of any greeting other than to the intended recipient, except under the specific situations outlined in Disclosure Exceptions, below. This policy applies to all aspects of our greetings, including your personalized messages. Under normal circumstances, we will not monitor or edit the contents of the online greetings you send. On occasion, however, we may need to view your message in connection with the technical processing of your greeting or the maintenance of our network. Also, if you ask one of our customer service representatives to help you send a greeting or to verify that a greeting was sent, that representative will be able to access all information about the card, including the recipient's e-mail address and the message. 
 
-**Disclosure Exceptions**  
+**_Disclosure Exceptions_**  
 Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary: 
 
   * To comply with legal process such as a search warrant, subpoena or court order; 
@@ -88,6 +90,8 @@ Notwithstanding the above policies, we reserve the right to disclose your person
   * To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages; 
   * To protect against misuse or unauthorized use of our web site and/or the Blue Mountain service; or 
   * During emergencies, such as when we believe someone's physical safety is at risk. 
+
+Your IP address can be accessed by greetings recipients in the header of the notification e-mail. Under certain circumstances, recipients, their legal representatives, and/or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication. By using this service, you knowingly and voluntarily assume any risks associated with such disclosure.
 
 **YOUR CONTROL OVER YOUR PERSONAL INFORMATION  
 Opt-Out/Changing Your Status**  
