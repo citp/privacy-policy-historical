@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604071539id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2002-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021108233848id_/http%3A//www.netzero.net/legal/privacy.html) for the most accurate reproduction.*
 
 # Welcome to NetZero
 
@@ -22,7 +22,7 @@
   
 [Acceptable Use](https://web.archive.org/legal/accept_use.html)  
   
-[Terms of Service](https://web.archive.org/legal/accept_use.html)  
+[Terms of Service](https://web.archive.org/legal/terms.html)  
   
 |  |    
 Documents en Français, [cliquez ici](https://web.archive.org/legal/french/privacy.html). **NetZero, Inc. Privacy Statement** **Overview**   
@@ -124,9 +124,9 @@ NetZero, Inc. - 2555 Townsgate Road, Westlake Village, CA 91361 - (805)418-2000 
 
 6) The parent of a child subscriber can review and have deleted their child's personal information and refuse to permit further collection or use of their child's information by accessing their child's NetZero Personal Profile information. Log on to the Service with the child's Member ID and Password. Click once on the NetZero logo on the ZeroPort. Then choose the Profile menu item. To retrieve your child's NetZero Personal Profile, you must enter your child's password and click the Retrieve button, you can only change the Profile of the Member ID that is shown. You are now at the Profile. By using the Back and Next buttons, you can navigate your way through the questions and change the necessary items. Once you are done, press the Submit button to leave or the Exit button to cancel your corrections. You may terminate your child's account at any time by submitting a request to NetZero via e-mail to [cancellation@netzero.net](mailto:cancellation@netzero.net)
 
-7) This Special Notice is effective as of April 21, 2000 and is not effective prior to such date. This Special Notice only relates to children under the age of 13 and is not applicable in any respect to children 13 or over. In the event we make any changes to any of the information set forth in this Notice, we will promptly revise this Notice accordingly and make it available in our Privacy Statement located at <http://www.netzero.net/>
+7) This Special Notice is effective as of April 21, 2000 and is not effective prior to such date. This Special Notice only relates to children under the age of 13 and is not applicable in any respect to children 13 or over. In the event we make any changes to any of the information set forth in this Notice, we will promptly revise this Notice accordingly and make it available in our Privacy Statement located at [http://www.netzero.net/](https://web.archive.org/)
 
-**Use of "Cookies"**. Cookies are small data text files that are sent from a server computer to your computer during a browsing session. The cookies are typically stored on your computer's hard drive and are used by web sites to simulate a continuous connection to that site. In order to make our site more responsive to the needs of our visitors, NetZero uses cookies to assign your Internet browser a unique random number, a sort of anonymous user ID that is stored in a file on your computer. Our site uses cookies for marketing purposes in order to deliver content and advertising specific to your interests and demographics. In this way, we can tailor our site to your needs, to deliver a better, more personalized service, and to track the pages on our sites visited by our users. This unique identification number automatically identifies your browser to our computers whenever you interact on our Site. Acceptance of our cookie is a condition for receiving our services.
+ **Use of "Cookies"**. Cookies are small data text files that are sent from a server computer to your computer during a browsing session. The cookies are typically stored on your computer's hard drive and are used by web sites to simulate a continuous connection to that site. In order to make our site more responsive to the needs of our visitors, NetZero uses cookies to assign your Internet browser a unique random number, a sort of anonymous user ID that is stored in a file on your computer. Our site uses cookies for marketing purposes in order to deliver content and advertising specific to your interests and demographics. In this way, we can tailor our site to your needs, to deliver a better, more personalized service, and to track the pages on our sites visited by our users. This unique identification number automatically identifies your browser to our computers whenever you interact on our Site. Acceptance of our cookie is a condition for receiving our services.
 
 We may use an outside advertising company to display banner advertisements on our Service. Banner advertisements you click on may contain cookies, and appear to be coming from our Service, but in reality they are coming from our partners who are serving advertisements on our Service. 
 
