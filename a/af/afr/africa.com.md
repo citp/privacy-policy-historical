@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the africa.com privacy policy that was archived on 1999-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991012210035id_/http%3A//africa.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africa.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622214825id_/http%3A//www.africa.com/privacy.phtml) for the most accurate reproduction.*
 
-# africa dot com - plug into the continent - connect to the world
+# africa dot com - home
 
 _/  privacy /..._  
 
 
-**Privacy Statement for Africa.com:**
+**Privacy Statement for africa.com:**
 
-[Africa.com](https://web.archive.org/) (Owned by [The ATIO Corporation](http://www.atio.co.za/)) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our (current and future) information gathering and dissemination practices for [Africa.com](https://web.archive.org/).
+[africa.com](https://web.archive.org/) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our (current and future) information gathering and dissemination practices for [africa.com](https://web.archive.org/).
 
 **Jump to a Section:**
 
@@ -30,11 +30,11 @@ Our site uses forms like the 'Add a link' form, which require users to give us c
 
 This site contains links to other sites. 
 
-[Africa.com](https://web.archive.org/) is not responsible for the privacy practices or the content of such Web sites.
+[africa.com](https://web.archive.org/) is not responsible for the privacy practices or the content of such Web sites.
 
 **Advertising:**
 
-We use an external advertising agency to display ads on our site. These ads may contain cookies. While we may use cookies in other parts of our Web site, our ad company collects cookies received with banner ads, and we do not have access to this information. For further information please visit [www.ad-venture.com](http://www.ad-venture.com/) or email [traffic@ad-venture.com](mailto:traffic@ad-venture.com).
+africa.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
 
 **Public Forums:**
 
@@ -74,4 +74,12 @@ If you have any questions about this privacy statement, the practices of this si
 [webmaster@africa.com](mailto:webmaster@africa.com)  
 \- Web site information: You can send email to [info@africa.com](mailto:info@africa.com)  
   
-Mailing address: P.O. Box 607, Howard Place, 7450, Pinelands, South Africa
+_africa.com (USA)_  
+address: 121 Estes Drive, Suite 100 Chapel Hill, NC 27514, USA  
+phone: +1 919 967 1616  
+fax: +1 919 967 1691
+
+_africa.com (South Africa)_  
+address: PO Box 607, Howard Place, 7450, RSA  
+phone: +27 21 530 1200  
+fax: +27 21 530 1400
