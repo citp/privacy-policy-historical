@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603010945id_/http%3A//www.fpl.com/contents/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101042id_/http%3A//fpl.com/contents/privacy_policy.shtml) for the most accurate reproduction.*
 
 # FPL | Privacy Policy
 
@@ -10,7 +10,7 @@ Our home page on the Web is located at [www.fpl.com](http://www.fpl.com/). This 
 
 We may send out periodic e-mails informing customers of offers related to a service they requested. Customers will not be able to choose to unsubscribe to these mailings, as they are considered an essential service.
 
-We invite you to contact us if you have questions about this policy. You may contact us [by e-mail](https://web.archive.org/web/20040603010945id_/http%3A//www.fpl.com/contact/contents/index.shtml#E-mail) or standard mail at the following address: 
+We invite you to contact us if you have questions about this policy. You may contact us [by e-mail](https://web.archive.org/web/20041204101042id_/http%3A//fpl.com/contact/contents/index.shtml#E-mail) or standard mail at the following address: 
 
 Florida Power & Light   
 PO Box 025576   
@@ -18,7 +18,7 @@ Miami, FL 33102
 
 ## Dispute resolution and privacy information
 
-**Customer Service** : To contact us, [visit us on the Web](https://web.archive.org/web/20040603010945id_/http%3A//contact/contents/index.shtml). FPL will reply to your e-mail within four business days of receiving it (Monday through Friday, excluding holidays). 
+**Customer Service** : To contact us, [visit us on the Web](https://web.archive.org/web/20041204101042id_/http%3A//contact/contents/index.shtml). FPL will reply to your e-mail within four business days of receiving it (Monday through Friday, excluding holidays). 
 
 **Federal Trade Commission** : The [Federal Trade Commission](http://www.ftc.gov/) is educating consumers and businesses about the importance of personal information privacy. Read more about their efforts, what they've learned, and what you can do to protect the privacy of your personal information. 
 
@@ -101,7 +101,7 @@ The FPL Web site is secure. We use industry-standard encryption technologies whe
 
 You must keep your user ID and password confidential and notify FPL immediately if you detect a security breach.
 
-For more information on Internet browser settings affecting our security features, visit [Recommended Browser Settings](https://web.archive.org/web/20040603010945id_/http%3A//www.fpl.com/faqs/contents/settings.shtml).
+For more information on Internet browser settings affecting our security features, visit [Recommended Browser Settings](https://web.archive.org/web/20041204101042id_/http%3A//fpl.com/faqs/contents/settings.shtml).
 
 Top of Page
 
