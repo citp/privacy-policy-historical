@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611214955id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208000244id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp) for the most accurate reproduction.*
 
 # asia-hotels.com - Terms of Use and Privacy Policy
 
@@ -9,7 +9,7 @@
 
 The information provided on this webpage may be amended from time to time. You need to review this webpage each time you use this Site. 
 
-We pledge to meet fully recognised standards of personal data privacy protection in handling personal data. For more information, please refer to our [Policy on Personal Data](https://web.archive.org/web/20040611214955id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#personaldatapolicy) and our [Personal Information Collection Statement](https://web.archive.org/web/20040611214955id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#picstatement). 
+We pledge to meet fully recognised standards of personal data privacy protection in handling personal data. For more information, please refer to our [Policy on Personal Data](https://web.archive.org/web/20041208000244id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#personaldatapolicy) and our [Personal Information Collection Statement](https://web.archive.org/web/20041208000244id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#picstatement). 
 
 If you have any questions about this Site or our Policy on Personal Data or Personal Information Collection Statement, please address your enquiry to our Privacy Compliance Officer at info@asia-hotels.com or call us on +852 2893 4093. 
 
