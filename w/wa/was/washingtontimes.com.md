@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615184656id_/http%3A//washingtontimes.com/about-twt/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211232016id_/http%3A//washingtontimes.com/about-twt/privacy.htm) for the most accurate reproduction.*
 
 # The Washington Times: Privacy Policy
 
