@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020103853id_/http%3A//elicense.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601101355id_/http%3A//elicense.com/privacy.asp) for the most accurate reproduction.*
 
 # ViaTech Technologies, Inc. - Privacy Policy
 
@@ -66,4 +66,4 @@ Natick, MA 01760
 
 * * *
 
-© 2001 ViaTech Technologies, Inc. [Privacy Policy](https://web.archive.org/privacy.asp)
+© 2002 ViaTech Technologies, Inc. [Privacy Policy](https://web.archive.org/privacy.asp)
