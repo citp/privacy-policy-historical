@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the logosoftwear.com privacy policy that was archived on 1999-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991104051522id_/http%3A//www.logosoftwear.com/store/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logosoftwear.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616010557id_/http%3A//www.logosoftwear.com/privacy.html) for the most accurate reproduction.*
 
-# Logo Softwear - Online Privacy and Security
-
-[Visit our NEW personalized PrintShop!](http://206.115.67.162/cgi-bin/EC/ecLocator2.cgi/a=06410LOG00)
+# Your source for custom caps,imprinted tee shirts,embroidered caps,imprinted t-shirts,embroidered hats,imprinted shirts and custom golf shirts - LogoSoftwear.com
 
 At LogoSoftwear, one of our most important goals is to make your shopping experience as pleasurable, convenient, and worry-free as possible. For this reason, we have put in place firm privacy and security programs to keep our site safe and secure for all our visitors. 
 
