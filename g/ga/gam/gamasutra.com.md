@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamasutra.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607084046id_/http%3A//www.gamasutra.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamasutra.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217203751id_/http%3A//www.gamasutra.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Gamasutra - Privacy Policy
 
@@ -40,11 +40,11 @@ _Conferences_ : When you register for and attend a GamaNetwork conference or eve
 
 _Information you choose to disclose publicly_ : Finally, if you knowingly provide personal identifying information such as your user name, E-mail address in a chat or bulletin board area, you should be aware that the information provided can be collected and used by others visiting that area. If you disclose personal information in your resume in our "My Resume" section where companies perform personnel searches, companies that pay to perform these searches may collect it and use it.
 
-**Cookies**
+**Cookies (Updated 10/12/01)**
 
-When you visit our sites, the GamaNetwork may place a cookie on your computer's hard drive in order to improve our service to you. By automatically verifying that you are a member or subscriber, the cookie makes it more convenient for you to use our sites. Cookies also help us compile aggregate information about which areas of our sites are visited most frequently, and we use this traffic information to enhance the content of our sites. We do not correlate traffic information with data about individual users.
+When you become a member of our site, Gamasutra places a cookie on your computer's hard drive in order to improve our service to you. By automatically verifying that you are a member, the cookie makes it more convenient for you to use our site. This cookie contains information about what **country you reside in** and your **job role** , and possibly some information about the types of **products for which you have purchasing authority**. This information was specified by you when you signed up as a member. We may occasionally use this information to serve banner ads that would more likely appeal to you (e.g., ads about European events to people who live in European countries). This cookie also helps us compile aggregate information about which areas of our sites are visited most frequently, and we use this traffic information to enhance the content of our sites. No private information is stored in the cookie, and we do not correlate traffic information with data about individual users.
 
-If you've set your browser to reject cookies, you can still use all of our sites, although you may need to re-enter information that we would normally obtain from the cookie. You can also set your browser to warn you before accepting cookies; if you do, you will receive a warning message each time one of our sites attempts to place a cookie on your hard drive.
+If you've set your browser to reject cookies, you can still use our site, although some pages may load improperly. You may also need to re-enter information that we would normally obtain from the cookie. You can also set your browser to warn you before accepting cookies; if you do, you will receive a warning message each time one of our sites attempts to place a cookie on your hard drive.
 
 Cookies may also be placed by our advertisers or independent third parties who actually operate the servers on which the ads reside. Although the GamaNetwork encourages third parties to adhere to appropriate privacy standards and policies, we are not responsible for the actions or policies of such parties.
 
@@ -52,6 +52,6 @@ Cookies may also be placed by our advertisers or independent third parties who a
 
 At the GamaNetwork, we understand that children's privacy is important. We do not monitor the age of our user audience. However, if you are under age 13, you should not submit personal identifying information to any GamaNetwork site without the consent of your parent or guardian.
 
-**Questions? Here's How To Reach Us**
+**Further Questions?**
 
-This website is maintained by the GamaNetwork, a division of CMP Media, Inc., 600 Harrison Street, San Francisco, California 94107. You can reach us via E-mail at [feedback@gamasutra.com](mailto:feedback@gamasutra.com).
+This site is maintained by the GamaNetwork, a division of CMP Media, Inc., 600 Harrison Street, San Francisco, California 94107. If you have any questions about this privacy policy, contact us at [feedback@gamasutra.com](mailto:feedback@gamasutra.com) and we respond promptly.
