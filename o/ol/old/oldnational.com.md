@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204214905id_/http%3A//www.oldnational.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406033311id_/http%3A//www.oldnational.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,26 +7,19 @@
   
 **How We Protect and Use Your Information**
 
-Old National values your relationship and we take very seriously our obligation to protect the privacy of your personal information.  We know that you purchase our products and services because you trust that we will stand behind our promises.  We also know that the basis of this trust comes not only from the ability of Old National to provide the products and services that are expected, but also from the ability to maintain the personal privacy of our customers.  The Privacy Policy which follows covers the practices of all affiliates within the Old National family* including our banking, insurance, investment and financial planning, asset management and trust service companies, and applies to the nonpublic personal information of our customers and former customers. 
+Old National values your relationship and we take very seriously our obligation to protect the privacy of your personal information.  We know that you purchase our products and services because you trust that we will stand behind our promises.  We also know that the basis of this trust comes not only from the ability of Old National to provide the products and services that are expected, but also from the ability to maintain the personal privacy of our customers.  The Privacy Policy which follows covers the practices of all affiliates within the Old National family* including our banking, insurance, investment and financial planning, asset management and trust service companies, and applies to the nonpublic personal information of our customers and former customers.  This Privacy Policy also serves as our Policy notice. 
 
 **Recognition of a Customer's Expectation of Privacy**    
-Embedded in our culture is a tradition of protecting your personal privacy and confidential information.  It has always been and will always be a top priority to maintain standards and procedures which ensure that we keep your information secure.  Since we do not sell or share your information with third parties not associated with services or activities of Old National, there is no need for you to tell us not to share your private information. 
+Embedded in our culture is a tradition of protecting your personal privacy and confidential information.  It has always been and will always be a top priority to maintain standards and procedures which ensure that we keep your information secure.  Since we do not sell or share your information with third parties not associated with services or activities of Old National (except as allowed by law), there is no need for you to tell us not to share your private information. 
 
 **Collection, Retention, and Use of Customer Information**   
-We collect and use various types of information to service your accounts, save you time and money and better understand your needs.  We want to help you learn more about the products and services that may be of interest to you.
+We collect and use various types of information to service your accounts, save you time and money, and better understand your needs.  We want to help you learn more about the products and services that may be of interest to you.
 
-In the course of doing business, we collect and use various types of nonpublic personal information, such as:
+We collect nonpublic personal information about you from the following sources:
 
-  * Information we receive from you on applications or other forms such as name, address, age, social security number or tax ID number, assets and income;
-
-  * Information about your transactions with us, our affiliates or others such as your account balance, payment history, types of transactions and products purchased;
-
-  * Information we receive from a consumer reporting agency such as credit worthiness, credit and payment history, and credit relationships;
-
-  * Information from other third party sources such as motor vehicle reports, property value, and demographic information;
-
-  * Information you provide us via Old National websites such as name, address and social security number. 
-
+  * Information we receive from you on applications or other forms;
+  * Information about your transactions with us, our affiliates or others; and
+  * Information we receive from a consumer reporting agency.
 
 
 
@@ -40,7 +33,7 @@ Old National has implemented internal controls and procedures designed to mainta
 We do not disclose any nonpublic personal information about our customers or former customers to nonaffiliated third parties, except as permitted by law or as described below.
 
 _**Service Providers and Joint Marketing Agreements**_  
-We may disclose all of the information we collect, as described under the heading "Collection, Retention, and Use of Customer Information", to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.  However, we do not share credit related information.
+We may disclose all of the information we collect, as described under the heading "Collection, Retention, and Use of Customer Information", to companies that perform marketing or other services on our behalf or to other financial institutions with whom we have joint marketing agreements.
 
 **_Beneficiaries of Trusts_**  
 Certain information, such as fiduciary information, is subject to more restrictive information sharing limitations than other types of information, both internally and externally.  If you have questions regarding fiduciary information, please contact your Trust Relationship Manager. 
@@ -56,7 +49,7 @@ We may disclose information to nonaffiliated third parties as allowed by law.  
 
 
 **Sharing Information within Old National**   
-As permitted by law, we may share information about our experiences or transactions with you or your account, such as account balance, payment history and services purchased, among our Old National family of companies including our banking, insurance, investment and financial planning, asset management and trust service companies.  We may share information, for example, to: 
+As permitted by law, we may share information about our experiences or transactions with you or your account, such as account balance, payment history and services purchased, among our Old National family of companies.  The Old National family of companies consists of financial service providers and the number of companies may change from time to time.  There are no nonfinancial companies, or other organizations within the Old National family of companies, with whom we share information.  We may share information, for example, to: 
 
   * Provide customer service or account maintenance; or 
   * Tell you about other products or services offered by Old National that we believe you will find useful.
@@ -72,7 +65,7 @@ Old National will provide notice of our privacy policy annually, as long as you 
 
 ***Old National Family of Companies**
 
-The following is a list, as of March 1, 2001, of the Old National subsidiaries and affiliates to which this policy applies:   
+The following is a list, as of  December 31, 2001, of the Old National subsidiaries and affiliates to which this policy applies:   
 
 Old National Bank    
 ONB Investment Services, Inc.   
@@ -80,17 +73,13 @@ ONB Insurance Group, Inc.
 ONB Insurance, Inc.   
 ONB Insurance Agency, Inc.   
 Sycamore Agency, Inc.   
-Fall & Fall Insurance   
 Old National Trust Company   
-ONB Finance Company, Inc.   
-American National Trust and Investment Management Company   
-Wolford Cannon Hoecker Insurance Agency, Inc.   
+ONB Finance Company, Inc.
 
-
-Rev. 03/01   
+Rev.  12/01   
 Copyright © 2001 Old National Bancorp; All Rights Reserved
 
-[Download a pdf version of Old National's Privacy Policy](https://web.archive.org/web/20011204214905id_/http%3A//www.oldnational.com/PrivacyPolicy031501.pdf)
+[Download a pdf version of Old National's Privacy Policy](https://web.archive.org/web/20020406033311id_/http%3A//www.oldnational.com/privpol1201.pdf)
 
 ** pdf versions will save to your hard drive and are viewable with Acrobat Reader. If you do not have Acrobat you can download it [here free:
 
