@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/privacy.html) for the most accurate reproduction.*
 
 # Banner Bank Privacy page
 
- [Home](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/default.html)  
- [About Us](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/about.html)  
- [Personal Solutions](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/personal.html)  
- [Business Solutions](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/business.html)  
- [Contact Us/Locations](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/contactus.html)  
- [Stock Quotes](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/stock.html)  
- [Investment Services](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/invest.html)  
- [Job Opportunities](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/job.html)  
- [News/Press Releases](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/news.html)  
- [Related Links](https://web.archive.org/web/20030412162627id_/http%3A//www.bannerbank.com/related.html) |    
+ [Home](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/default.html)  
+ [About Us](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/about.html)  
+ [Personal Solutions](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/personal.html)  
+ [Business Solutions](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/business.html)  
+ [Contact Us/Locations](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/contactus.html)  
+ [Stock Quotes](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/stock.html)  
+ [Investment Services](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/invest.html)  
+ [Job Opportunities](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/job.html)  
+ [News/Press Releases](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/news.html)  
+ [Related Links](https://web.archive.org/web/20031203162945id_/http%3A//www.bannerbank.com/related.html) |    
 **The Opportunities you Deserve, The Privacy you Expect  
 **
 
-Banner Corporation and its affiliates, Banner Bank, Community Financial Corporation, and Northwest Financial Corporation, respects and values your personal privacy and your personal information. Our goal is to serve you and meet your financial needs in the most effective and convenient way possible and to ensure that information you share with us or we gather about you remains confidential.  
+Banner Corporation and its affiliates, Banner Bank, Community Financial Corporation, and Northwest Financial Corporation, respect and value your personal privacy and your personal information. Our goal is to serve you and meet your financial needs in the most effective and convenient way possible and to ensure that information you share with us or we gather about you remains confidential.  
 
 
 To offer you the opportunities you deserve as a Banner Corporation customer, we find that sharing limited amounts of your personal information within our Banner Corporation family of companies and with well-respected, carefully selected business partners enables us to offer you personalized products and services at lower costs and/or with greater convenience than would otherwise be possible.  
@@ -36,10 +36,10 @@ In order to provide financial products and services to you, protect your account
 
 
 
-We disclose nonpublic personal information to third parties, such as credit reporting agencies, federal and state regulators, and loan investors, in order to do business with you or as required by law.  
+We disclose nonpublic personal information to third parties, such as credit reporting agencies, federal and state regulators, and loan investors, in order to do business with you or as permitted by law.  
 
 
-We may also share nonpublic personal information with companies that perform services on our behalf, such as vendors who prepare monthly statements, process checks and provide support of one or more of our products or services. These business partners contractually agree to keep your information confidential and not to use it for any other purpose.  
+We may also share nonpublic personal information with companies that perform services on our behalf, such as vendors who prepare monthly statements, process checks or provide support of one or more of our products or services. These business partners contractually agree to keep your information confidential and not to use it for any other purpose.  
 
 
 We may share with our affiliates only information about your transactions with us, such as your account balance, payment history, parties to transactions and overdraft history, except as permitted by law.  
@@ -60,7 +60,7 @@ We take prudent steps to safeguard customer information. We restrict access to n
 **Banner Corporation Web Site  
 **
 
-Visitors to the Banner Corporation public web site remain anonymous. Banner Corporation does not collect identifying information about visitors to our site. We use standard software to collect non-identifying information about visitors, such as:
+Visitors to the Banner Corporation public web site remain anonymous. Banner Corporation does not collect identifying information about visitors to our site. We may use standard software to collect non-identifying information about visitors, such as:
 
 * Date and time our site was accessed
 
@@ -74,8 +74,10 @@ Visitors to the Banner Corporation public web site remain anonymous. Banner Corp
 
 This general information enables us to serve you better by continually improving our web site and making it even more convenient.
 
-Visitors may elect to provide us with personal information via e-mail. This information is used internally, as appropriate, to handle the sender's request. It is not disseminated or sold to other organizations. _Former Customers  
-_
+Visitors may elect to provide us with personal information via e-mail. This information is used internally, as appropriate, to handle the sender's request. It is not disseminated or sold to other organizations.
+
+**Former Customers  
+**
 
 We will continue to adhere to Banner Corporation's privacy policies and practices, as amended from time to time, even if you are no longer a customer.  
   
