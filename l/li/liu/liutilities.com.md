@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205172853id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605080331id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
 
 # LIUtilities - Support Made Easy
 
 Privacy Policy
 
-**This is the web site of LIUtilities Inc.**
+**This is the web site of Uniblue Systems Limited.**
 
-We can be reached through e-mail at [contact@liutilities.com](mailto:%20contact@liutilities.com)  
-or you can reach us by telephone at +46705922200
+We can be reached through e-mail at [contact@uniblue.net](mailto:%20contact@uniblue.net)  
+
 
 * * *
 
@@ -19,7 +19,7 @@ The information we collect is used for internal review and is then discarded. Th
 
 With respect to cookies, we use cookies to record past activity at a site in order to provide better service when visitors return to our site.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [contact@liutilities.com](mailto:%20contact@liutilities.com)
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [contact@uniblue.net](mailto:%20contact@uniblue.net)
 
 If you supply us with your postal address on-line, you will only receive the information for which you provided us your address.  
   
@@ -32,9 +32,9 @@ From time to time, we may use customer information for new, un-anticipated uses 
 
 Upon request we provide site visitors with access to all information, including proprietary information, that we maintain about them.
 
-Consumers can access this information by e-mailing us at [contact@liutilities.com](mailto:%20contact@liutilities.com)
+Consumers can access this information by e-mailing us at [contact@uniblue.net](mailto:%20contact@liutilities.com)
 
-Consumers can have this information corrected by sending us e-mail at [contact@liutilities.com](mailto:%20contact@liutilities.com)
+Consumers can have this information corrected by sending us e-mail at [contact@uniblue.net](mailto:%20contact@uniblue.net)
 
 With respect to security, we always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
