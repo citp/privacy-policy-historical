@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bizfilings.com privacy policy that was archived on 2000-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001211202900id_/http%3A//bizfilings.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizfilings.com privacy policy that was archived on 2001-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -26,14 +26,14 @@ function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
 	return elem;
 }
 function CSClickReturn () {
-	var bAgent = window.navigator.userAgent; 
+	var bAgent = window.navigator.userAgent;
 	var bAppName = window.navigator.appName;
 	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
 		return true; // dont follow link
 	else return false; // dont follow link
 }
 function CSButtonReturn () {
-	var bAgent = window.navigator.userAgent; 
+	var bAgent = window.navigator.userAgent;
 	var bAppName = window.navigator.appName;
 	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
 		return false; // follow link
@@ -67,15 +67,15 @@ function CSILoad(action) {
 }
 CSStopExecution = false;
 
-function CSAction(array) { 
+function CSAction(array) {
 	return CSAction2(CSAct, array);
 }
-function CSAction2(fct, array) { 
+function CSAction2(fct, array) {
 	var result;
 	for (var i=0;i<array.length;i++) {
-		if(CSStopExecution) return false; 
+		if(CSStopExecution) return false;
 		var actArray = fct[array[i]];
-		if(actArray == null) return false; 
+		if(actArray == null) return false;
 
 		var tempArray = new Array;
 		for(var j=1;j<actArray.length;j++) {
@@ -93,7 +93,7 @@ function CSAction2(fct, array) {
 			}
 			else
 				tempArray[j] = actArray[j];
-		}			
+		}
 		result = actArray[0](tempArray);
 	}
 	return result;
@@ -116,6 +116,15 @@ CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'businessresources',/*URL*/'gif
 
 // --></script>
 		</csactiondict>
+		<script language="JavaScript">
+		<!--
+		function Rcertify() {
+		popupWin = window.open
+		('http://www.bbbonline.org/cks.asp?id=694000124', 'Participant', 'location=yes,scrollbars=yes,width=450,height=300')
+		window.name = 'opener';
+		}
+		// -->
+</script>
 		<link href="sidmenu.css" rel="styleSheet" type="text/css">
 	
 
@@ -189,7 +198,7 @@ CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'businessresources',/*URL*/'gif
 								<td><csobj w="59" h="37" t="Button" ht="gif/producttabhi.gif"><a href="../products/index.htm" onmouseover="return CSIShow(/*CMP*/'products',1)" onmouseout="return CSIShow(/*CMP*/'products',0)" onclick="return CSButtonReturn()"><img src="gif/producttablo.gif" width="59" height="37" name="products" border="0" alt="Product Listing"></a></csobj></td>
 								<td><csobj w="73" h="37" t="Button" ht="gif/coststabhi.gif"><a href="pricing/index.html" onmouseover="return CSIShow(/*CMP*/'costs',1)" onmouseout="return CSIShow(/*CMP*/'costs',0)" onclick="return CSButtonReturn()"><img src="gif/coststablo.gif" width="73" height="37" name="costs" border="0" alt="What Are The Costs?"></a></csobj></td>
 								<td><csobj w="94" h="37" t="Button" ht="gif/interntltabhi.gif"><a href="international/index.html" onmouseover="return CSIShow(/*CMP*/'international',1)" onmouseout="return CSIShow(/*CMP*/'international',0)" onclick="return CSButtonReturn()"><img src="gif/interntltablo.gif" width="94" height="37" name="international" border="0" alt="International Services"></a></csobj></td>
-								<td bgcolor="#003366"><csobj w="53" h="37" t="Button" ht="gif/checkstatushi.gif"><a href="checkstatus.htm" onmouseover="return CSIShow(/*CMP*/'checkstatus',1)" onmouseout="return CSIShow(/*CMP*/'checkstatus',0)" onclick="return CSButtonReturn()"><img src="gif/checkstatuslo.gif" width="53" height="37" name="checkstatus" border="0" alt="Check Status"></a></csobj></td>
+								<td bgcolor="#003366"><csobj w="53" h="37" t="Button" ht="gif/checkstatushi.gif"><a href="https://www.bizfilings.com/status" onmouseover="return CSIShow(/*CMP*/'checkstatus',1)" onmouseout="return CSIShow(/*CMP*/'checkstatus',0)" onclick="return CSButtonReturn()"><img src="gif/checkstatuslo.gif" width="53" height="37" name="checkstatus" border="0" alt="Check Status"></a></csobj></td>
 								<td bgcolor="#003366">
 									<div align="right">
 										<csobj w="71" h="37" t="Button" ht="gif/businessrhi.gif"><a href="businessresources.htm" onmouseover="return CSIShow(/*CMP*/'businessresources',1)" onmouseout="return CSIShow(/*CMP*/'businessresources',0)" onclick="return CSButtonReturn()"><img src="gif/businessrlo.gif" width="71" height="37" name="businessresources" border="0" alt="Business Resources"></a></csobj></div>
@@ -208,7 +217,7 @@ CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'businessresources',/*URL*/'gif
 								<td bgcolor="white">
 									<table border="0" cellpadding="0" cellspacing="0">
 										<tbody><tr>
-											<td bgcolor="#336699"><a href="http://www.bizfilings.com/cgi-bin/INFOUSA/search.cgi" target="_blank"><img height="18" width="130" src="gif/namecheck_blue.gif" border="0"></a></td>
+											<td bgcolor="#336699"></td>
 											<td bgcolor="white"><img height="18" width="22" src="gif/contentspacer2_blue.gif"></td>
 											<td bgcolor="white"><img height="18" width="520" src="gif/trans.gif"></td>
 										</tr>
@@ -284,6 +293,15 @@ CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'businessresources',/*URL*/'gif
 																	<td valign="top"></td>
 																	<td><a href="disclaimer.htm"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="1" color="white"><span class="sidemenu">Disclaimer</span></font></a></td>
 																</tr>
+																<tr>
+																	<td valign="top"></td>
+																	<td><img height="1" width="95" src="gif/bluerule.gif"></td>
+																</tr>
+																<tr>
+																	<td valign="top"></td>
+																	<td><a href="javascript:Rcertify();"><img src="gif/reliabilityseal4.gif" alt="BBBOnLine Reliability Seal" width="90" height="31" border="0"></a> </td>
+																</tr>
+
 															</tbody></table>
 															<br>
 															<br>
