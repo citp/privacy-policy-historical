@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uth.edu privacy policy that was archived on 2001-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010305073717id_/http%3A//www.uth.edu/internetpriv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uth.edu privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606104246id_/http%3A//www.uth.edu/internetpriv.html) for the most accurate reproduction.*
 
 # UT-Houston's Open Records Information
 
