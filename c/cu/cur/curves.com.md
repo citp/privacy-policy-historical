@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402065620id_/http%3A//curves.com/f_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204141602id_/http%3A//curves.com/f_privacy.htm) for the most accurate reproduction.*
 
 # Curves.com - woman's clothing brand name fashions designer womens wear the invisible breast enhancerNew Page 1
 
@@ -6,7 +6,7 @@
 
 It is important to _Curves.com_ that customers be comfortable about doing business with us. We want you to have confidence that your privacy will be protected when you take advantage of all the Internet has to offer. We are committed to protecting your privacy and developing technology that gives you the most powerful, safe, on-line experience that you can get anywhere.
 
-[Contact us](https://web.archive.org/web/20040402065620id_/http%3A//curves.com/f_policies.htm) regarding any questions about this statement.. 
+[Contact us](https://web.archive.org/web/20041204141602id_/http%3A//curves.com/f_policies.htm) regarding any questions about this statement.. 
 
 This is the _Curves.com_ (BL Inc.) Privacy Program. This privacy statement discloses the privacy practices for _Curves.com_.   This web site has agreed to notify you of: 
 
@@ -72,6 +72,6 @@ Tel: (650) 631-0130 FAX: (650) 654-1745
 
 If for some reason you believe _Curves.com_ has not adhered to these principles, please 
 
-[contact us](https://web.archive.org/web/20040402065620id_/http%3A//curves.com/f_policies.htm), and we will use commercially reasonable efforts to promptly determine and correct the problem.
+[contact us](https://web.archive.org/web/20041204141602id_/http%3A//curves.com/f_policies.htm), and we will use commercially reasonable efforts to promptly determine and correct the problem.
 
 [Revised 1/10/2001]
