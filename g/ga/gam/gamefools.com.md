@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the gamefools.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628003038id_/http%3A//www.gamefools.com/privacy.php) for the most accurate reproduction.*
+
+# GameFools.com - Free Game Downloads and Reviews
+
+##  **GameFools Privacy Policies**
+
+**Please read this document carefully before accessing the content on this web site.**
+
+GameFools respects your right to privacy. We understand the sensitive nature of privacy issues and we take appropriate actions to ensure that your confidentiality is protected. GameFools provides this privacy policy to inform you of our web site practices with respect to the way your information is collected and used. 
+
+**Information Collection and Use**
+
+GameFools is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. GameFools collects information from our users at several different points on our website. 
+
+**Cookies**
+
+A cookie is a piece of data stored on the user's hard drive containing anonymous information about the user. Cookies enable us to track and target the interests of our users to enhance the experience on our site. 
+
+**Links**
+
+This web site contains links to other sites. Please be aware that GameFools is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+
+**Newsletter**
+
+If a user wishes to subscribe to our newsletter we ask for contact information such as name and email address. This information will be used only for the purposes of our newsletter and will not be shared with any outside parties. Users who no longer wish to receive our newsletter may opt-out of receiving it by clicking on the link to do so in the body of the email. 
+
+**Referral Service**
+
+If a user elects to use our referral service for informing a friend about a game listed within our site, we ask them for the friend's name and email address. GameFools will automatically send the friend a one-time email inviting them to visit the site. GameFools does not store this information. 
+
+**Notification of Changes**
+
+If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. 
+
+By using the web site, you signify your understanding of our privacy policy. If you do not agree to this policy, please do not use the web site. If you have any questions regarding this privacy policy or any other privacy issues in connection with the web site, please submit your inquiry using our contact form within the site. 
