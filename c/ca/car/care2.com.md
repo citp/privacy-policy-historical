@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209034300id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care2.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405031425id_/http%3A//www.care2.com/go/redirect/1/1317) for the most accurate reproduction.*
 
 # Help Center: Membership
 
-Last Updated: August 3, 2000
+Last Updated: December 10, 2000
 
 Care2 takes seriously the issue of safeguarding your privacy online. Please read the following to understand our views and practices regarding this matter, and how they pertain to you as you use our many offerings. 
 
@@ -23,6 +23,7 @@ Questions regarding this privacy statement should be directed via e-mail to supp
 **Privacy Questions**
 
   * Does Care2 ask for personal information?
+  * Does Care2 ask for credit card information? When?
   * How does Care2 use my personal information?
   * Will Care2 disclose any of my personal information?
   * How do I change my personal information?
@@ -43,6 +44,10 @@ Questions regarding this privacy statement should be directed via e-mail to supp
 
 Yes. Care2 asks for your name and other personal information when you sign up for our services. 
 
+**Does Care2 ask for credit card information? When?**
+
+Care2 allows you to use your credit card to become a **[Care2 Charter Member](https://commerce1.care2.com/charter.html).** We do not provide your credit card number to any outside parties. Your transaction is conducted on a secure server using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. Care2 does not store your credit card information on our servers. Soon after processing your Charter Member transaction, we delete your credit card number from our servers. 
+
 * * *
 
 ****
@@ -50,6 +55,13 @@ Yes. Care2 asks for your name and other personal information when you sign up fo
 **How Does Care2 use my personal information?**
 
   1. **Personal and Demographic Information:** Care2 asks for personal information, such as your name, email address, and zip code. Your personal information is used to set up your Care2 account and to allow you to use many Care2 member services. Members may also supply additional information for special site services like Meet Members, Biorhythms, and Stock Portfolios. This information is only used for the specific site feature chosen by the user. Care2 also asks for demographic information, such as your education level, occupation and industry. Care2 does not knowingly collect information from children under 13 and if Care2 later learns that a child under 13 is registered, steps will be taken to remove the child's information from the data base. 
+
+When you register to become a **[Care2 Charter Member](https://commerce1.care2.com/charter.html),** we require personal information (like name, mailing address, credit card number). We use this information to ship products to you and confirm the validity of your credit card. We do not sell this information to any third-party. We do provide your mailing address to a third-party provider of Care2 apparel (T-shirts, Sweatshirts, etc.) so that these items can be mailed to you. We do not provide your credit card number to any outside parties. 
+
+Your transaction is conducted on a secure server using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+
+We will not store your credit card information on our servers. Soon after processing your Charter Member transaction, we delete your credit card number from our servers. We retain your address information to ensure that users receive merchandise provided for various charter membership levels and in case we opt to send you additional gifts in the future. If we choose to user your mailing address information for promotional purposes, we would get explicit permission from users first. Without explicit permission, we will not use any addresses gathered through our store except for order processing. 
+
   2. **Advertising:** Care2's goal in collecting personal and demographic information is to provide our members with the most personalized web experience possible and our advertisers with an efficient means to reach the right audience. By knowing about you, Care2 can deliver more relevant content and advertisements (e.g. banner ads), and hence better service, to you. 
 
 In delivering targeted advertisements, Care2 plays the middleman. Advertisers give us an ad and tell us the type of audience they want to reach (e.g. females over 35). Care2 or one of our ad server partners takes and displays the ad to users meeting those criteria. In this process, only Care2 -- not the advertiser – can access individuals' account information. 
@@ -96,7 +108,7 @@ When Race participants login to a Race, Care2 tracks the participant's site visi
 
 **Will Care2 disclose any of my personal information?**
 
-Care2 will only disclose your personal information when we believe in good faith that the law requires it, or to protect the rights or property of Care2. Care2 does disclose personal information in some limited circumstances (e.g., when you request an opt-in newsletter), but this is specifically described to you when we collect the information, such as in a Terms of Service agreement. Under confidentiality agreements, Care2 may match user information with third-party data but will never allow such information to be personally identifiable to outside parties. Also, Care2 does disclose aggregated user statistics (for example, X% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+Care2 will only disclose your personal information when we believe in good faith that the law requires it, or to protect the rights or property of Care2. Care2 will also disclose personal information in some limited circumstances (e.g., when you request an opt-in newsletter or sign-up for e-centives), but this is specifically described to you when we collect the information, such as in a Terms of Service agreement. If you choose to sign up for an e-centives account, we will send e-centives your name, zip code, email address, gender, and age. E-centives uses this information to offer you targeted coupons and savings. E-centives states that they will not sell or distribute this information; however, Care2 cannot guarantee to the user that e-centives will abide by their [privacy policy](http://www.e-centives.com/servlet/product/ehtml/privacy). Under confidentiality agreements, Care2 may match user information with third-party data but will never allow such information to be personally identifiable to outside parties. Also, Care2 does disclose aggregated user statistics (for example, X% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
 
 * * *
 
@@ -142,7 +154,7 @@ Does Care2 sell e-mail addresses to advertisers?
 
 Not without your direct permission. We respect your privacy and despise [SPAM](http://www.zdwebopedia.com/spam.htm). 
 
-As mentioned above, in some cases you may opt-in to nonprofit partner newsletters or commercial newsletters. In these cases and at your request, we will send your email address to a third party. Depending on the newsletter, this may result in a fee paid to Care2 in exchange for a new customer. 
+As mentioned above, in some cases you may opt-in to nonprofit partner newsletters, e-centives, or commercial newsletters. In these cases and at your request, we will send your email address to a third party. Depending on the newsletter, this may result in a fee paid to Care2 in exchange for a new customer. 
 
 With regards to e-mail communication with us, we read every message sent to us and do our best to respond quickly. We do save messages that might be needed if the sender contacts us again, but we absolutely do not sell or rent e-mail addresses to other companies. 
 
