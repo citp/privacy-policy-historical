@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004003639id_/http%3A//www.oldies.com/about/privacy.cfm%3Fidentity%3D1265225-11380774) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2003-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030501040834id_/http%3A//www.oldies.com/about/privacy.cfm%3Fidentity%3D409235-35897341) for the most accurate reproduction.*
 
-# Collectables Records : Privacy Statement
+# Oldies.com : Privacy Statement
 
 |  | 
 
@@ -8,10 +8,10 @@
 
 Privacy Statement
 
-|  [Print](http://www.oldies.com/about/privacy.cfm?identity=1265225-11380774&identity=1265225-11380774&print=true) |    
+|  [Print](http://www.oldies.com/about/privacy.cfm?identity=409235-35897341&&print=true) |    
 ---|---|---|---|---  
   
-**Collectables ® Records** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
+**Oldies.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
 
   
 
@@ -95,7 +95,7 @@ Demographic and profile data is also collected at our site. We use this data to 
 ###  External Links  
 
 
-This site contains links to other sites. Collectables® Records is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **Oldies.com** is not responsible for the privacy practices or the content of such Web sites. 
 
   
 
@@ -113,7 +113,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us. You can send mail to the following postal address: 
 
-**Collectables Records**  
+**Oldies.com**  
 Attn: Website Privacy  
 P.O. Box 72, Narberth  
 PA 19072 
@@ -125,7 +125,7 @@ PA 19072
 
 This site gives users the following options for changing and modifying information previously provided. You can send mail to the following postal address: 
 
-**Collectables Records**  
+**Oldies.com**  
 Attn: Data Quality & Access  
 P.O. Box 72, Narberth  
 PA 19072 
