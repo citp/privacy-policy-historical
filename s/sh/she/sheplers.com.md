@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheplers.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203040716id_/http%3A//www.sheplers.com/Help_Answers.cfm%3FGrouping%3Dprivacy%26QuestNo%3D23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheplers.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603134933id_/http%3A//www.sheplers.com/Help_Answers.cfm%3FGrouping%3Dprivacy%26QuestNo%3D23) for the most accurate reproduction.*
 
 # Sheplers Customer Service Call 1-800-835-4004
 
@@ -6,7 +6,7 @@
 ---  
 Privacy & Security   
 | Will Sheplers ever disclose my information?  
-No. Sheplers does not sell, trade, or rent any internet customer's personal information to others. In the event that there is a change to this policy, we will post that change here on our website. For our complete privacy statement [ Click Here](https://web.archive.org/web/20031203040716id_/http%3A//www.sheplers.com/w3c/policy.html)  
+No. Sheplers does not sell, trade, or rent any internet customer's personal information to others. In the event that there is a change to this policy, we will post that change here on our website. For our complete privacy statement [ Click Here](https://web.archive.org/web/20040603134933id_/http%3A//www.sheplers.com/w3c/policy.html)  
 | Secure Ordering  
 Your order and credit card information is encrypted to prevent anyone else from reading it. It is safer to order online through a "secure" site, than to have your credit card imprinted in a retail store or restaurant.  
 | E-Mail Marketing from Sheplers  
