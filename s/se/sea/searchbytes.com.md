@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the searchbytes.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208150415id_/http%3A//www.searchbytes.com/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbytes.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605214555id_/http%3A//searchbytes.com/info_privacy.php) for the most accurate reproduction.*
 
 # Searchbytes
 
-[Home](https://web.archive.org/web/20031208150415id_/http%3A//www.searchbytes.com/index.php) : Privacy
+[Home](https://web.archive.org/web/20040605214555id_/http%3A//searchbytes.com/index.php) : Privacy
 
   
 1\. All information collected as a result of your membership in Searchbytes will be controlled by Searchbytes. Searchbytes may transfer and share your information within the Searchbytes group of international affiliated entities ("Searchbytes Group") as part of a transfer of your membership agreement. We will do this to improve the administration of the services. At all times the companies that make up the Searchbytes Group ("We") will follow this privacy policy.
