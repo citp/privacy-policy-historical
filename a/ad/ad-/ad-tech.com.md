@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad-tech.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602145816id_/http%3A//ad-tech.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-tech.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008191214id_/http%3A//www.ad-tech.com/privacy.asp) for the most accurate reproduction.*
 
 # @d:tech Privacy Policy
 
