@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608141744id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208193752id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Dan Shorter
 Palm Beach Newspapers  
 2751 South Dixie Highway  
 West Palm Beach, Florida 33405  
-Email: [dshorter@pbpost.com](mailto:dshorter@pbpost.com?Subject=PalmBeachPost.com%20Privacy)
+Email: [Contact our Customer Care Center](http://www.palmbeachpost.com/help/content/help/customer_service.html)
 
 **
 
@@ -101,3 +101,8 @@ Back to top ****
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
 
 Back to top
+
+  
+  
+  
+---
