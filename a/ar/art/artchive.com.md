@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artchive.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602145058id_/http%3A//artchive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artchive.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206214046id_/http%3A//www.artchive.com/privacy.html) for the most accurate reproduction.*
 
 # Mark Harden's Artchive: Privacy Policy
 
