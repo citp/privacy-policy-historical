@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607055738id_/http%3A//www.bigscreen.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201164018id_/http%3A//bigscreen.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # The BigScreen Cinema Guide - The BigScreen Cinema Guide - Privacy Policy
 
@@ -55,6 +55,4 @@ We would like to hear your comments about The BigScreen Cinema Guide. If you fin
   
 The BigScreen Cinema Guide is a service of SVJ Designs. All graphics, layout, and structure of this service (unless otherwise specified) are Copyright © 1995-2001, SVJ Designs. The BigScreen Cinema Guide is a trademark of SVJ Designs. All rights reserved. Web hosting and bandwidth provided by CoreComm. | Powered by  
 [](http://home.voyager.net/web/business/webhost/index.html)  
----|---  
-  
-
+---|---
