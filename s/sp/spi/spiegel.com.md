@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031950id_/http%3A//www.spiegel.com/customer/privacy.asp%3Fp%3Dmain%26n%3Dbnav%26s%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605154533id_/http%3A//www.spiegel.com/customer/privacy.asp%3Fp%3Dmain%26n%3Dbnav%26s%3Dprivacy) for the most accurate reproduction.*
 
 # Spiegel | Privacy Policy
 
@@ -11,7 +11,7 @@ This is the Privacy Policy for Spiegel Catalog, Inc.
 
 Shopping on-line has changed our lives. At Spiegel your trust and satisfaction is of the utmost importance. Because we respect your privacy, we have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. 
 
-We suggest that you review this Privacy Statement periodically as we may update it from time to time. This policy was last revised on November 11, 2002. 
+We suggest that you review this Privacy Statement periodically as we may update it from time to time. This policy was last revised on April 26, 2004. 
 
 What information do we collect?   
 How do we use your information?   
@@ -56,9 +56,11 @@ We may send you e-mail with information on new products and services, discounts,
 
 We may provide your name, address and phone number (but not your e-mail address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please Click Here for information on where to contact us if you do not want us to share this information with third parties. 
 
-In some instances, we use third party companies to help us in providing our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available from Spiegel. For more information about these companies, [Click Here](https://web.archive.org/web/20031202031950id_/http%3A//www.spiegel.com/customer/vendor.asp).
+In some instances, we use third party companies to help us in providing our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available from Spiegel. For more information about these companies, [Click Here](https://web.archive.org/web/20040605154533id_/http%3A//www.spiegel.com/customer/vendor.asp).
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+
+In the event that there is a change in control of Spiegel Catalog, Inc., or, if all, or substantially all, of the assets of Spiegel Catalog, Inc. are sold to a third party, we may transfer the information on our customer file to the third party. This information may include your name, mailing address and email address among other information. Please know that if such a transfer takes place, the third party acquiring the information will be advised of your preferences about how we use your information. After the transfer takes place, use of your information is subject to the privacy statement of the third party that acquires it. You should check that company's privacy statement for information on how it will use your customer information.
 
 return to top
 
@@ -167,7 +169,7 @@ To contact us for any reason, including a request to be added to or taken off a 
 
 Special Note: When you contact us, please provide us with your exact name and address as it appears on correspondence you have received from us.
 
-[Click here](https://web.archive.org/web/20031202031950id_/http%3A//www.spiegel.com/customer/customer/emailopt.asp) to unsubscribe to Spiegel e-mail.
+[Click here](https://web.archive.org/web/20040605154533id_/http%3A//www.spiegel.com/customer/customer/emailopt.asp) to unsubscribe to Spiegel e-mail.
 
 We are an active member of the Direct Marketing Association. [Click here](http://www.the-dma.org/consumers/index.html) for additional privacy information from the DMA. If you feel that this site is not following its stated information privacy policy, you may contact us at the above address(es) or phone number or at  [spiegel@spiegel.com](mailto:spiegel@spiegel.com) or you may contact the DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
 
