@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605033330id_/http%3A//cellularfactory.com/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011195712id_/http%3A//www.cellularfactory.com/help/privacy_policy.html) for the most accurate reproduction.*
 
 # CellularFactory Customer Service Center
 
