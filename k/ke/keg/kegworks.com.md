@@ -1,38 +1,11 @@
-> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604142826id_/http%3A//kegworks.com/shoppingcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# KegWorks.com
+# KegWorks.com - Help section
 
-|   
+|   |  [KegWorks.com](https://web.archive.org/web/20040604142826id_/http%3A//kegworks.com/shoppingcart/customer/home.php) :: Help :: 
+
+|   Privacy Statement  
 ---  
-  
-|   
-   
-[ • Draft Beer Equipment](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Draft%20Beer%20Equipment)  
-[ • Compact Refrigeration](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Compact%20Refrigeration)  
-[ • Commercial Equipment](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Commercial%20Equipment)  
-[ • Bar Accessories](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Bar%20Accessories)  
-[ • Bars and Bar Furniture](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Bars%20and%20Bar%20Furniture)  
-[ • Beer Books & Posters](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/art.html)  
-[ • Concession Equipment](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Concession%20Equipment)  
-[ • Professional Cookware](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Professional%20Cookware)  
-[ • BBQ Grills by  
-    DeluxeGrills.com](http://www.deluxegrills.com/)  
-|   
-  
-|   
-  
-|   
-  
-[](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/affilate.html)
-
-|   
-[ • About Us](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/about.html)  
-[ • Affiliate Program](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/affilate.html)  
-[ • Catalog Download](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/catalog.html)  
-[ • Leasing & Financing](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/mcleasing.html)  
-[ • Join Our Mailing List](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/mailinglist.html)  
-[ • Links We Like](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/links.html)  
-[ • Tutorials & Instructions](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/tutorials.html) |   
   
 Privacy Statement for KegWorks.com
 
@@ -53,3 +26,25 @@ This site contains links to other sites. KegWorks.com is not responsible for the
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
 **Contacting the Web Site**
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [feedback@kegworks.com ](mailto:feedback@kegworks.com)
+
+   
+  
+How to calculate shipping
+
+Questions...email us at [sales@kegworks.com](mailto:sales@kegworks.com)Phone Orders Accepted: Monday-Friday 9am-5:00pm Eastern Standard Time  
+Toll Free#(US ONLY) 1-877-636-3673 Local# 716-856-9675  
+KegWorks.com 737 Main St., Suite 150, Buffalo, NY 14203
+
+Retail Outlet at the above address is open 9am - 5pm M-F  
+737 Main St. Downtown Buffalo (Between W. Tupper and Goodell)
+
+    |  | Mailing List  
+---  
+Join the KegWorks.com mailing list and gain access to exclusive "secret" sales, a monthly newsletter to keep you up to date on what's happening with us.   
+  
+Subscribe to the monthly  
+newsletter !   
+  
+    
+[](https://web.archive.org/web/20040604142826id_/http%3A//kegworks.com/shoppingcart/customer/pages.php?pageid=7)   
+
