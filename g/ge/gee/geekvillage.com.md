@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008041239id_/http%3A//geekvillage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekvillage.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212609id_/http%3A//geekvillage.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy For GeekVillage.com
 
 **Privacy Policy For GeekVillage.com**
 
 **We respect your privacy. Your Email address and any other data you provide us will never be released to a third party. All our Email lists and Membership forms use the Opt-In model. These Emails always include a procedure and instructions to remove yourself from our lists. We do use "cookies" on this site. We use "cookies" to retain your user name and password for our geek/talk Bulletin Board and in our Contests, Polls, Quizzes, and Surveys.**
+
+**
+
+**DUDE! Your[keywords](http://www.geekvillage.com/cgi-bin/advertpro/banners.fpl?region=7&campaign=11&banner=30&publisher=0&bust=52625&timestamp=20040602172608&referrer=http%3A%2F%2Fwww.geekvillage.com%2Fprivacy.htm&mode=RICH&redirect=http%3A%2F%2Four.affiliatetracking.net%2Fwordtracker%2Faf.cgi%3F6898) SU** BIG TIME! No wonder your site has NO traffic. GET SERIOUS TODAY! FREE SE TRAFFIC! [Learn more](http://www.geekvillage.com/cgi-bin/advertpro/banners.fpl?region=7&campaign=11&banner=30&publisher=0&bust=52625&timestamp=20040602172608&referrer=http%3A%2F%2Fwww.geekvillage.com%2Fprivacy.htm&mode=RICH&redirect=http%3A%2F%2Four.affiliatetracking.net%2Fwordtracker%2Faf.cgi%3F6898).**
+
+**
 
 **Certain sections of this site log and display your IP number. This includes our geek/talk Forums For Webmasters. IP numbers are not secret and have been used for years. Every site you visit logs and often displays your IP number. We use this procedure for your protection as well as our own. It helps us protect our members from abuse, permits members of our Bulletin Board to "flush" impostors and "Abusers", provides us with the additional evidence to aggressively pursue "Abusers", and acts as a deterrent for "Abusers". If you use a Broadband connection to the Web such as Cable or DSL, you should install a firewall on your system to protect it from third party abuse. We have received good reports about[ZoneAlarm](http://www.zonelabs.com/), [BlackICE](http://www.networkice.com/index.html), and the [Linksys Router](http://www.linksys.com/). Then check the integrity of your system using [Shields UP](http://grc.com/). If our IP procedures still make you nervous or are inconsistent with your wishes, please leave our site and do not return. **
 
