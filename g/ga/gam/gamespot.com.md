@@ -1,72 +1,28 @@
-> *The following text is extracted and transformed from the gamespot.com privacy policy that was archived on 1999-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990428074250id_/http%3A//gamespot.com/misc/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamespot.com privacy policy that was archived on 2000-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001110135000id_/http%3A//www.zdnet.com/filters/privacy) for the most accurate reproduction.*
 
-# GameSpot's Privacy Statement
+# ZDNet: Privacy
 
-  
-**[GameSpot](https://web.archive.org/index.html)**  
-**   [action](https://web.archive.org/action/index.html)  
-  [adventure](https://web.archive.org/adventure/index.html)  
-  [driving](https://web.archive.org/driving/index.html)  
-  [puzzle](https://web.archive.org/puzzle/index.html)  
-  [role-playing](https://web.archive.org/rpg/index.html)  
-  [simulation](https://web.archive.org/simulation/index.html)  
-  [sports](https://web.archive.org/sports/index.html)  
-  [strategy](https://web.archive.org/strategy/index.html)  
-  [hardware](http://www.gamespot.com/hardware/index.html)
+   
+Your Privacy Matters To Us
 
-  [news](http://headline.gamespot.com/news/index.html)  
-  [reviews](https://web.archive.org/reviews.html)  
-  [previews](https://web.archive.org/previews.html)  
-  [hints](https://web.archive.org/hints.html)  
-  [downloads](http://shareware.gamespot.com/index.html)
+[](https://www.truste.org/validate/381) This Overall Privacy Statement verifies that ZDNet is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles. This statement discloses the privacy practices for the entire Web site. 
 
-**   **See Also**  
-  [ **videogames.com**](http://www.videogames.com/)  
-  [ **gameguides.com**](http://www.gameguides.com/)  
-  
-| |   
+TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
 
+1.What information this site gathers/tracks about you  
+2.What this site does with the information it gathers/tracks  
+3.With whom this site shares the information it gathers/tracks 
 
-**Your Privacy Matters To Us**  
+ZDNet collects personal information from you (name, postal address, e-mail address, and other data) during registration for the ZDNet service, from our use of "cookie" technology and IP-address logging as you use the service, during entry into a contest or sweepstakes, and from your participation in optional online surveys. We may exchange some of this information with business partners who offer co-branded services as part of ZDNet, such as eCircles, Deja.com, Techies.com, onebox.com and others. The information you provide allows us to inform you about updates to the service and to notify you of products and services of ZDNet, its affiliates, and third parties that we believe may be of interest to you. As part of the registration process, we give you the opportunity to decline to receive any mailings from ZDNet and other companies to whom we may provide such information. 
 
+The ZDNet service is directed to teenagers and adults and is not directed to children under the age of 13. ZDNet complies with the Children's Online Privacy Protection Act and does not permit registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted wherever ZDNet collects data within the ZDNet service, such as during the registration process. 
 
-GameSpot Inc. collects personal information about our users during registration for the GameSpot service, during sign up for our newsletters, or through research studies delivered either on our web sites or via e-mail. Registration is required if a user wishes to enter a GameSpot contest or sweepstakes or submit a review of a game. 
+The data we collect from cookies and IP addresses gives us demographic information about the entire ZDNet audience, which we use to improve the ZDNet service. We also share aggregate information -- not individual data -- with our advertisers to help them better understand our services and to monitor the reach of their advertising on the service. ZDNet also may disclose or exchange with others information you have provided to us if we believe in good faith that the law requires us to do so or if it is necessary to protect the rights or property of ZDNet or our users. 
 
-The data we collect is used in the aggregate to give us demographic information about the entire GameSpot audience to improve the GameSpot service and help us sell the advertising that supports the sites. The personal information you provide lets us inform you about updates to the service and, if you have elected to receive such information, notify you of products and services of GameSpot Inc., its affiliates, and third parties we believe may be of interest to you. 
+Advertisers on ZDNet may deliver their ads via third-party advertising networks. One of these networks, Engage, is used on ZDNet occasionally for serving and/or targeting of banner ads, promotions and other marketing messages. Engage collects anonymous data, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to: <http://www.engage.com/privacy>
 
-**Registration**  
-GameSpot collects information from all registrants to our sites. Information collected during this registration process is used only in the aggregate to tell us your general gaming preferences and how you found out about our service, unless you also choose to receive promotional mailings from GameSpot and selected third parties, in which case the gaming preference information is used to help advertisers send e-mails only to those with specific gaming genre or hardware interests. 
+ZDNet uses reasonable precautions to keep the information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. ZDNet also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users. 
 
-GameSpot does let selected third parties use those e-mail addresses from users that specifically and actively consent to this use when registering to inform you of discounted or free products. GameSpot generally conducts such mailings on behalf of such third parties to ensure the proper use of such information. GameSpot permits a third party to use the information for limited purposes only after agreeing to comply with certain safeguards and other requirements. 
+Users of the ZDNet eCircles service should be aware that eCircles may also collect information about you and may exchange that information with other business partners to verify your identity and to give you access to their services. On ZDNet eCircles, the content sent to a circle is posted and available to all of the other members of that particular circle but is not publicly available on the Web. When you are voluntarily participating in and sending information to your circles, the information disclosed by you could be collected and used by others who visit that circle. 
 
-GameSpot respects your right to privacy. As part of the registration process, we give you the opportunity to decline to receive any mailings from GameSpot or other parties to whom GameSpot may provide such information. You may also remove your e-mail address from our lists at any time. 
-
-**Surveys and User Research**  
-GameSpot also conducts periodic e-mail and Web-delivered surveys to gather information about our audience. We share the aggregate results of these surveys - not individual data -with our advertisers to help them better understand our services and monitor the reach of their advertising on the service. 
-
-GameSpot uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that receive the information. 
-
-You may correct your member information, join our mailing lists, or remove your name from any of the lists by going to http://www.gamespot.com/help/index.html. If you have questions we can be reached by e-mail at feedback@gamespot.com. 
-  
-
-
-**Your Privacy Matters To Us**  
-
-
-The GameSpot site collects personal information about our users during registration for the GameSpot service, during sign up for our newsletters, or through research studies delivered either on our web sites or via e-mail. Registration is required if a user wishes to enter a GameSpot contest or sweepstakes or submit a review of a game. 
-
-The data we collect is used in the aggregate to give us demographic information about the entire GameSpot audience to improve the GameSpot service and help us sell the advertising that supports the sites. The personal information you provide lets us inform you about updates to the service and, if you have elected to receive such information, notify you of products and services of the GameSpot site, its affiliates, and third parties we believe may be of interest to you. 
-
-**Registration**  
-GameSpot collects information from all registrants to our sites. Information collected during this registration process is used only in the aggregate to tell us your general gaming preferences and how you found out about our service, unless you also choose to receive promotional mailings from GameSpot and selected third parties, in which case the gaming preference information is used to help advertisers send e-mails only to those with specific gaming genre or hardware interests. 
-
-GameSpot does let selected third parties use those e-mail addresses from users that specifically and actively consent to this use when registering to inform you of discounted or free products. GameSpot generally conducts such mailings on behalf of such third parties to ensure the proper use of such information. GameSpot permits a third party to use the information for limited purposes only after agreeing to comply with certain safeguards and other requirements. 
-
-GameSpot respects your right to privacy. As part of the registration process, we give you the opportunity to decline to receive any mailings from GameSpot or other parties to whom GameSpot may provide such information. You may also remove your e-mail address from our lists at any time. 
-
-**Surveys and User Research**  
-GameSpot also conducts periodic e-mail and Web-delivered surveys to gather information about our audience. We share the aggregate results of these surveys - not individual data -with our advertisers to help them better understand our services and monitor the reach of their advertising on the service. 
-
-GameSpot uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that receive the information. 
-
-You may correct your member information, join our mailing lists, or remove your name from any of the lists by going to http://www.gamespot.com/help/index.html. If you have questions we can be reached by e-mail at feedback@gamespot.com. 
+You may correct your member information or select the option not to receive ZDNet mailings by going [here](http://members.zdnet.com/edituser). If you have questions, you should direct them to the ZDNet site privacy coordinator at [privacy@zdcommunity.com](mailto:privacy@zdcommunity.com) or [TRUSTe](http://www.truste.org/) for clarification. 
