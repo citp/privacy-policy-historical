@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funeral.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620132811id_/http%3A//www.funeral.com/funeral/index.jsp%3FdirID%3D34052%26showDirectChildren%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeral.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812150629id_/http%3A//www.funeral.com/funeral/index.jsp%3FdirID%3D34052%26showDirectChildren%3D1) for the most accurate reproduction.*
 
 # Funeral.com
 
