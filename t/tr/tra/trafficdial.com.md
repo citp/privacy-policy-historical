@@ -1,33 +1,9 @@
-> *The following text is extracted and transformed from the trafficdial.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficdial.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613131618id_/http%3A//www.trafficdial.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Dial
 
-|  |   
----  
-| 
+|  | 
 
- [](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/order.php)  
-  
----  
-|  |  [**Home**](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/index.php)  
----|---  
-|  **[Services](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/services.php)**  
-|  **[FAQ](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/faq.php)**  
-| **[Stats](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/stats.html)**  
-| **[Order](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/order.php)**  
-| **[Contact](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/contact.php)**  
-  
-**:: OUR GAURANTEE ::**  
-  
-In 24 hours or less we can have a _**steady flow of fresh targeted prospects**_ viewing your site... _ **Guaranteed!**_
-
-**Money Back Guarantee!**  
-All purchases come with a 100% money-back guarantee.  
-If you do not receive all of the traffic you purchased,  
-we will issue a refund for traffic we fail to deliver within 30 days.
-
-[**ORDER NOW!**](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/order.php)  
-  
 |    
 ---  
 **Driving Traffic to your Website**  
@@ -44,7 +20,7 @@ Privacy Policy
 
 We take the "guesswork" out of your web promotions!  
   
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to **[_let us know_](https://web.archive.org/web/20031209231229id_/http%3A//trafficdial.com/contact.php)**  .
+We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to **[_let us know_](https://web.archive.org/web/20040613131618id_/http%3A//www.trafficdial.com/contact.php)**  .
 
 * * *
 
