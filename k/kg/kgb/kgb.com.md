@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgb.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214213200id_/http%3A//kgb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgb.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607074139id_/http%3A//kgb.com/privacy.html) for the most accurate reproduction.*
 
 # KGB Report Privacy Statement
 
@@ -25,6 +25,4 @@ If you have any questions or comments, please contact
 Kevin G. Barkes  
 1512 Annette Avenue  
 South Park, PA 15129-9735  
-412-835-7352 (voice)  
-412-854-4707 (fax)  
 [kgb@kgb.com](mailto:kgb@kgb.com) (email)
