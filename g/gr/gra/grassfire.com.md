@@ -1,45 +1,16 @@
-> *The following text is extracted and transformed from the grassfire.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605221512id_/https%3A//www.solutionhome.com/appraisal/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grassfire.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601110758id_/http%3A//www.grassfire.net/images/myGrassfire/privacy.htm) for the most accurate reproduction.*
 
-# Appraisal Service
+# Privacy Statement
 
-This is the web site of **SolutionHome.com**.
+**_PRIVACY & USAGE STATEMENTS_**
 
-Our postal address is   
-**20 SW 27th Ave. 2nd Floor  
-Pompano Beach, FL 33069**
+Grassfire is exclusively an "opt-in" service.  We do not send unsolicited email.  The only way to receive email directly from Grassfire is to sign a petition and submit your name, address, and email address.  By doing so you are signing an electronic petition and authorizing us to add your information to our database of petitioners.
 
-We can be reached via e-mail at [info@solutionhome.com](mailto:info@solutionhome.com) or you can reach us by telephone at 954.984.8445
+Information collected:  To sign the petition we require that you provide your name, address, city, state, zip, country, and email address. Other optional information that you may choose to provide may include phone numbers, demographic information, preferences, etc.. 
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+POLICY ON SPAMMING. Grassfire.net seeks to secure the Internet privacy of every person signing this petition. Therefore, your e-mail address will not be sold, traded, or shared with any other organization without your explicit consent.  By checking the "please email me updates on how the petition is doing" you will receive regular email from Grassfire updating you on the petition results approximately once a week.  In all such email sent to you there will be an "unsubscribe" link that you may click to immediately unsubscribe and receive no further email from Grassfire. 
 
-We collect the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
+Privacy Statement:  Grassfire.net is the exclusive sponsor of this petition. No other organization is involved. At no time will your email address be sold, shared, or traded without your explicit consent. From time to time Grassfire may, at its' sole discretion, share all other information regarding petitioners in aggregate or at an individual level with select partner organizations.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, not shared with other organizations for commercial purposes.
-
-With respect to cookies: We set cookies to track information about your session on our website. No lasting information is stored in your cookie; the information is recreated each time you return to our site. 
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us e-mail at the above address, calling us at the above telephone number, writing us at the above address. 
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, a description of information that we maintain about them.
-
-Consumers can access this information by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. 
-
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. 
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Changes to the Privacy & Usage Statements  
+Grassfire may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you.
