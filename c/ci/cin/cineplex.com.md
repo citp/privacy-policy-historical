@@ -1,32 +1,28 @@
-> *The following text is extracted and transformed from the cineplex.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222158id_/http%3A//www.enjoytheshow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineplex.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602185640id_/http%3A//www.enjoytheshow.com/privacy) for the most accurate reproduction.*
 
-# enjoy the show: showtimes
+# enjoytheshow.com :: Loews Cineplex
 
-| 
+| TABLE OF CONTENTS 
 
-**TABLE OF CONTENTS**
+Introduction
 
-     Introduction
+What Personal Information About You Do We Collect
 
-     What Personal Information About You Do We Collect
+Note to Parents/Children Privacy
 
-     Note to Parents/Children Privacy
+Other Information We Collect
 
-     Other Information We Collect
+How We Use the Information We Collect
 
-     How We Use the Information We Collect
+Third Party Content
 
-     How to Access or Collect Your Information
+Data Security
 
-     Third Party Content
+Consent to Transfer
 
-     Data Security
+Acceptance
 
-     Consent to Transfer
-
-     Acceptance
-
-     Contact Us
+Contact Us
 
   
 **INTRODUCTION**
@@ -52,11 +48,11 @@ top
 
 Log Data: When you visit this Web Site, our web servers automatically collect anonymous information that describes how our visitors use and navigate our Web Site, and which includes the number and frequency of visitors to each web page and the length of their stays, as well as the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP addresses. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page.
 
-**IP Addresses:** An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor's IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our advertisers, and to audit the number of visits to different pages on our Web Site.
+IP Addresses: An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor's IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our advertisers, and to audit the number of visits to different pages on our Web Site.
 
-**Cookies:** Cookies are information files that our Web Site may place on your computer to provide extended functionality. We may use cookies for a number of purposes, such as tracking usage patterns on the Web Site, measuring the effectiveness of advertising, or limiting multiple responses and registrations when we conduct polls and sweepstakes. We do not store any PII in cookies, and we do not link the cookies to any PII we collect. We will not use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. Advertisers or other third parties that are serving content on some of our pages may set and access their own cookies on your computer. Such third parties' use of cookies is subject to their own privacy policies, which may differ from this one. Such third parties do not have access to our cookies. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
+Cookies: Cookies are information files that our Web Site may place on your computer to provide extended functionality. We may use cookies for a number of purposes, such as tracking usage patterns on the Web Site, measuring the effectiveness of advertising, or limiting multiple responses and registrations when we conduct polls and sweepstakes. We do not store any PII in cookies, and we do not link the cookies to any PII we collect. We will not use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. Advertisers or other third parties that are serving content on some of our pages may set and access their own cookies on your computer. Such third parties' use of cookies is subject to their own privacy policies, which may differ from this one. Such third parties do not have access to our cookies. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
 
-**Web Beacons:** While you are on our Web Site, or while you are otherwise viewing our content, you may encounter Web beacons, which may come from LCE or from third parties, such as advertisers or content providers. A Web beacon, which is sometimes also called a Web bug or "clear gif", is a small graphic image in a Web page, a Web-based document or an e-mail message, which generally allows the party that set the Web beacon to monitor certain information about the viewer of the Web page, Web-based document or e-mail message, and it may allow access to certain cookies. Web beacons are usually invisible to the user, because they are very small (generally 1-by-1 pixel). However, in general, any electronic image viewed as part of a Web page, including an advertisement, can act as a Web beacon. Web beacons typically collect the URL of the page the Web beacon comes from, the type of browser requesting the Web beacon, the IP address of the computer that the Web beacon is sent to and the time the Web beacon was viewed. Web beacons can also be linked to PII, but LCE does not link information gathered through Web beacons to PII. LCE may use Web beacons to count visitors to our Web pages and we may include Web beacons in HTML-formatted e-mail newsletters in order to count how many newsletters (or particular articles, links, etc.) we sent were actually opened. We aggregate all information we collect through Web beacons and we do not use Web beacons to track any individuals' use of the Web Site. LCE does not have control over Web beacons used by third parties and does not have access to whatever information they may collect.  
+Web Beacons: While you are on our Web Site, or while you are otherwise viewing our content, you may encounter Web beacons, which may come from LCE or from third parties, such as advertisers or content providers. A Web beacon, which is sometimes also called a Web bug or "clear gif", is a small graphic image in a Web page, a Web-based document or an e-mail message, which generally allows the party that set the Web beacon to monitor certain information about the viewer of the Web page, Web-based document or e-mail message, and it may allow access to certain cookies. Web beacons are usually invisible to the user, because they are very small (generally 1-by-1 pixel). However, in general, any electronic image viewed as part of a Web page, including an advertisement, can act as a Web beacon. Web beacons typically collect the URL of the page the Web beacon comes from, the type of browser requesting the Web beacon, the IP address of the computer that the Web beacon is sent to and the time the Web beacon was viewed. Web beacons can also be linked to PII, but LCE does not link information gathered through Web beacons to PII. LCE may use Web beacons to count visitors to our Web pages and we may include Web beacons in HTML-formatted e-mail newsletters in order to count how many newsletters (or particular articles, links, etc.) we sent were actually opened. We aggregate all information we collect through Web beacons and we do not use Web beacons to track any individuals' use of the Web Site. LCE does not have control over Web beacons used by third parties and does not have access to whatever information they may collect.  
 top
 
 **HOW WE USE AND DISCLOSE THE INFORMATION WE COLLECT**
@@ -100,7 +96,8 @@ top
 
 **CONTACT US**
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please contact us at the following e-mail address: [webmaster@loewscpx.com](mailto:webmaster@loewscpx.com). This LCE Privacy Policy was last updated on April 3, 2002.  
-top
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please contact us at the following e-mail address: webmaster@loewscpx.com. This LCE Privacy Policy was last updated on April 3, 2002.  
+top  
 
-© 2002 Loews Cineplex Entertainment, Corporation. All rights reserved.
+
+| 
