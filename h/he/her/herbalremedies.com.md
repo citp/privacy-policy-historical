@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214123952id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605181013id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ ___________________________________________
 Casper, Wyoming 82601  
 e-mail us at[ info@herbalremedies.com.](mailto:info@herbalremedies.com)   
 Fax us at: 1-307-577-6464 
-  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Saturday from 10AM to 6PM MST). 
+  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST). 
 
   
 Back to Top  
@@ -65,7 +65,7 @@ This site gives users the following options for changing and modifying informati
 Casper, Wyoming 82601  
 e-mail us at[ info@herbalremedies.com.](mailto:info@herbalremedies.com)   
 Fax us at: 1-307-577-6464 
-  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Saturday from 10AM to 6PM MST) 
+  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST) 
 
   
 Back to Top  
@@ -80,7 +80,7 @@ If you have any questions about this privacy statement, the practices of this si
 Casper, Wyoming 82601  
 e-mail us at[ info@herbalremedies.com.](mailto:info@herbalremedies.com)   
 Fax us at: 1-307-577-6464 
-  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Saturday from 10AM to 6PM MST). 
+  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST). 
 
   
 Back to Top  
@@ -104,12 +104,22 @@ Use the Search Menus Below to Find What You Need or Call Us!
 
 |  |  |   
 ---|---|---|---  
-[Review "CART"/"CHECK OUT"](http://order.store.yahoo.com/cgi-bin/wg-order?herbal-remedies-usa) , [ **SALE Tinctures 20% OFF !**](http://herbalremedies.com/hertonel.html) , [Language Translater](http://jump.altavista.com/trans.go?urltext=http://www.herbalremedies.com/&language=en)
+[Review "CART"/"CHECK OUT"](http://order.store.yahoo.com/cgi-bin/wg-order?herbal-remedies-usa) , [ **SALE Tinctures !**](http://herbalremedies.com/hertonel.html) , [Language Translater](http://jump.altavista.com/trans.go?urltext=http://www.herbalremedies.com/&language=en)
 
 [ What's New](http://www.herbalremedies.com/whatsnew.html) , [FREE - Herbal Discoveries Newswletter](http://order.store.yahoo.com/cgi-bin/wg-request-catalog?herbal-remedies-usa) , [ Customer Testimonials!](http://www.herbalremedies.com/tesabourprod.html)
 
-**Low $4.99 Flat Rate Priority shipping or **$5.99 Federal Express Saver 3 Day W/Tracking #** And All orders in the U.S.A. over $100 Receive Free shipping W/Federal Express Saver 3 Day and low rates on [Shipping WORLD WIDE!](http://www.herbalremedies.com/shippolandra.html#4)**
+**Shipping Information**   
+US Flat Rate USPS Priority Shipping, 3 - 10 bus. days, $4.99*.   
+US Federal Express Ground W/Tracking #, 3 - 6 bus. days, $5.99*.    
+US Federal Express 3 day W/Tracking #, 3 bus. days, $7.99*.   
+U.S. Federal Express Overnight W/Tracking #, 1 bus. day, $19.99*.   
+Canada Federal Express Ground W/Tracking #, 2-8 bus. day, $10.99*.   
+[Worldwide Federal Express W/Tracking #, 5 - 7 bus. days, $20.99* - up.](http://www.herbalremedies.com/shippolandra.html#4)   
+*Exceptions: All U.S. orders over $100 automatically shipped via Federal Express 3 Bus. day or Ground. Liquids over 32 oz. may have an extra shipping charge & are shipped Federal Express Ground or Priority Mail ONLY. International rates may vary & do not include import fees.  
+[Click here for full shipping info and rules.](http://www.herbalremedies.com/shippolandra.html)   
 
-©2001 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Informational material and representations have been provided by the manufacturers of the listed products. For assistance or to purchase products by phone call toll free in the USA 1-866-467-6444 or World Wide 1-307-577-6444  or e-mail us at [info@herbalremedies.com](mailto:info@herbalremedies.com). The statements regarding these products have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. The information on this Web site is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding your or your child's condition.  [Disclaimer](http://www.herbalremedies.com/privacypolicy.html#7) , [Privacy Policy](http://www.herbalremedies.com/privacypolicy.html#1) , [Yahoo & Verisign SSL Security](http://www.herbalremedies.com/privacypolicy.html#2) , [About Us](http://www.herbalremedies.com/info.html) , [Payment , Shipping , Returns](http://www.herbalremedies.com/shippolandra.html) , [Contact Information](http://www.herbalremedies.com/privacypolicy.html#4)
+
+To "Order" by phone call toll free in the USA 1-866-467-6444 or World Wide 1-307-577-6444.  
+For other assistance e-mail us at [info@herbalremedies.com](mailto:info@herbalremedies.com).  ©2001 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Informational material and representations have been provided by the manufacturers of the listed products. For assistance or to purchase products by phone call toll free in the USA 1-866-467-6444 or World Wide 1-307-577-6444  or e-mail us at [info@herbalremedies.com](mailto:info@herbalremedies.com). The statements regarding these products have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. The information on this Web site is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding your or your child's condition.  [Disclaimer](http://www.herbalremedies.com/privacypolicy.html#7) , [Privacy Policy](http://www.herbalremedies.com/privacypolicy.html#1) , [Yahoo & Verisign SSL Security](http://www.herbalremedies.com/privacypolicy.html#2) , [About Us](http://www.herbalremedies.com/info.html) , [Payment , Shipping , Returns](http://www.herbalremedies.com/shippolandra.html) , [Contact Information](http://www.herbalremedies.com/privacypolicy.html#4)
 
 Back to Top
