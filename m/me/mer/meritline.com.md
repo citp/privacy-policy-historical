@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201145405id_/http%3A//meritline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205233043id_/http%3A//meritline.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Meritline.com : CD-R , DVD-R Blank Media , Compactflash , SmartMedia Card , HP, Epson Ink Jet Cartridges Privacy Policy
+# Meritline.com :DVD-R Blank Media, CD-R MEDIA , Compactflash CARD,SMARTMEDIA CARD , HP, Epson Ink Jet Cartridges Privacy Policy
 
-| | [](https://web.archive.org/web/20011201145405id_/http%3A//meritline.com/index.html)
+| | [](https://web.archive.org/web/20020205233043id_/http%3A//meritline.com/index.html)
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
