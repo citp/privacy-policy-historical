@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pirate4x4.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202070900id_/http%3A//www.pirate4x4.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pirate4x4.com privacy policy that was archived on 2001-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010630021938id_/http%3A//www.pirate4x4.com/privacy.html) for the most accurate reproduction.*
 
 # Pirate4x4.Com - Privacy Statement
 
