@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624034739id_/http%3A//www.allaboutdance.com/Merchant2/merchant.mv%3FScreen%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205015201id_/http%3A//www.allaboutdance.com/Merchant2/merchant.mv%3FScreen%3DPRIVACY) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -7,11 +7,12 @@
 Quantity in Basket:  | none|    
   
   
-[Account Members Sign-In](https://www.allaboutdance.com/Merchant2/merchant.mv?Session_ID=3EF7C9D6000D4DA20000456C00000000&Screen=LOGN&Order=0) **Categories**   
+[Account Members Sign-In](https://www.allaboutdance.com/Merchant2/merchant.mv?Session_ID=3FCFE4B60003F7B000005E1D00000000&Screen=LOGN&Order=0) **Categories**   
 [ACCESSORIES & GIFTS](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=accessories "ACCESSORIES & GIFTS")  
 [BALLET SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=ballet "BALLET SHOES")  
 [BALLROOM SHOES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=ballroom "BALLROOM SHOES")  
 [BODYWEAR & DANCEWEAR](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=body "BODYWEAR & DANCEWEAR")  
+[BOOKS, VIDEOS, DVDs, CDs](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=BVD "BOOKS, VIDEOS, DVDs, CDs")  
 [CHEERLEADING](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=cheer "CHEERLEADING")  
 [EXERCISE & ACTIVE WEAR](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=exercise "EXERCISE & ACTIVE WEAR")  
 [GIFT CERTIFICATES](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=gift-cert "GIFT CERTIFICATES")  
@@ -28,7 +29,9 @@ Quantity in Basket:  | none|  
 [*NEW PRODUCTS*](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CTGY&Category_Code=zz-products "*NEW PRODUCTS*")
 
 **Information**  
+[Live Help ](http://www.allaboutdance.com/chat)  
 [**Request a CATALOG**](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=CATALOG)  
+[Track Your Order](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=TRACKING)  
 [Product Search](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=SRCHM)  
 [Contact Us](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=INFO#contact)  
 [Return Policy](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=INFO#return)  
@@ -41,7 +44,7 @@ Quantity in Basket:  | none|  
 [Shoe Size Conversions](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=SIZING-SHOES)  
 [Color Charts](http://www.allaboutdance.com/Merchant2/merchant.mv?Screen=COLORS)
 
-[ ](https://www.thawte.com/cgi/server/certdetails.exe?code=USBROA29-1)
+[ ](https://www.thawte.com/cgi/server/certdetails.exe?code=USBROA29-3)
 
 **We Accept**   
 
