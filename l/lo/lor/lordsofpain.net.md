@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the lordsofpain.net privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140025id_/http%3A//www.ugo.com/services/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lordsofpain.net privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204210125id_/http%3A//www.ugo.com/services/about/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|    
+|  |  |    
 UGO Privacy Policy  
 Last update: September 19, 2001  
   
-This document describes the privacy practices for UGO Networks, Inc. (“UGO”). As part of our commitment to your privacy, UGO Affiliate/Partner and/or Sponsor sites post and maintain their own privacy policies regarding the use of your information. Please carefully read these policies before taking advantage of their services. 
-
+This document describes the privacy practices for UGO Networks, Inc. (“UGO”). As part of our commitment to your privacy, UGO Affiliate/Partner and/or Sponsor sites post and maintain their own privacy policies regarding the use of your information. Please carefully read these policies before taking advantage of their services.   
+  
 _This policy makes clear that UGO could merge with or be acquired by another entity. Should this occur, you should expect that UGO would share some or all of your information with the other entity._
 
   
@@ -42,4 +42,8 @@ How You Can Delete, Update or Correct Your Information With UGO:  To delete, up
 How Your Information Is Protected:  UGO takes reasonable precautions to protect information you transmit from loss, misuse or alteration by using Secure Socket Layer (SSL) technology to protect sensitive information and a series of firewalls to protect our internal systems.  
   
 Children Under 13:  Our site must not be used by children under 13. Children under 13 MUST not submit personal information to UGO.com.  
-
+  
+---|---  
+[](https://web.archive.org/)  
+|   
+|  | 
