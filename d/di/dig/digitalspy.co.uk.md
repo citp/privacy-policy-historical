@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalspy.co.uk privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218010740id_/http%3A//www.digitalspy.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalspy.co.uk privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610035517id_/http%3A//digitalspy.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Digital Spy - Privacy Policy
 
