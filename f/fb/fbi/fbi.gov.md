@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216034409id_/http%3A//www.fbi.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601104549id_/http%3A//www.fbi.gov/privacy.htm) for the most accurate reproduction.*
 
 # Federal Bureau of Investigation - Privacy Notice
 
-**Introduction**
-
-This World Wide Web site is provided as a public service by the Federal Bureau of Investigation. All information the Bureau provides at this site is considered public information and may be distributed or copied, subject to Sections 701 and 709 of Title 18, United States Code, which prohibit the unauthorized use of the FBI seal or the use of the words "Federal Bureau of Investigation," the initials "FBI," or any colorable imitation of these words and initials "in a manner reasonably calculated to convey the impression that such [activity] . . . is approved, endorsed, or authorized by the Federal Bureau of Investigation."
-
-**Information Collected and Stored Automatically**
-
-If you visit our site to read or download information, such as career opportunities, press releases, etc., we automatically collect and store only the following information about you.
-
-  * The name of the domain (for example,"xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you are connecting from a university's domain) and IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our website;
-  * The type of browser and operating system used to access our site;
-  * The date and time you access our site;
-  * The Internet address of the website from which you linked directly to our site; and
-  * The pages you visit.
-
-
+The pages you visit.
 
 This information is primarily collected for statistical analysis. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, we may take additional steps to identify you based on this information and we may share this information, including your identity, with other government agencies.
 
