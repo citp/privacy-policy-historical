@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204045816id_/http%3A//www.changeip.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403210833id_/http%3A//www.changeip.com/privacy.asp) for the most accurate reproduction.*
 
 # ChangeIP.com - Privacy Statement
 
-|  **  
-Information Collection and Use**
+|  **  Information Collection and Use**
 
 **Information Collection**  
-ChangeIP.com is the sole owner of the information collected on www.ChangeIP.com. ChangeIP.com collects information from our users at several different points on our Web site.
+ChangeIP.com is the sole owner of the information collected on [www.ChangeIP.com](http://www.changeip.com/) and our related owned sites.  ChangeIP.com collects information from our users at several different points on our Web site.
 
 **Registration**  
 In order to use this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. We never ask for the user to provide demographic information such as income level, gender, social security number, etc to provide service.
@@ -29,7 +28,9 @@ Like most standard Web site servers we use log files.  This includes internet p
 **Clear Gifs** (Web Beacons/Web Bugs)  
 We 
 
-_do not_ employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to track web usage. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. **Communications from the Site**
+_do not_ employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to track web usage. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence.  You may find many 1x1 transparent pixels on our site, however these are tracked no differently than any other image on our site. 
+
+**  Communications from the Site**
 
 **Special Offers and Updates**  
 We send all new members a welcoming/authentication email to verify password and username.  Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications.  Please see the Choice and Opt-out sections.
@@ -43,7 +44,7 @@ On rare occasions it is necessary to send out a strictly service related announc
 **Customer Service**  
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
 
- **Sharing
+**   Sharing
 
 Legal Disclaimer
 
@@ -56,7 +57,7 @@ We do not share aggregated demographic information with our partners and adverti
 **Third Party Intermediaries**  
 We use an outside credit card processing company to bill users for goods and services.  These companies do retain and store or use personally identifiable information for billing purposes only.
 
-**Business Transitions**  
+ **Business Transitions**  
 In the event ChangeIP.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. 
 
 **Choice/Opt-out**  
@@ -75,7 +76,7 @@ From time-to-time our site requests information from users via surveys or contes
 **Tell-A-Friend**  
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address.  ChangeIP.com will automatically send the friend a one-time email inviting them to visit the site.  ChangeIP.com does not store this information.
 
-**Chat Rooms, Message Boards, and Public Forums**  
+ **Chat Rooms, Message Boards, and Public Forums**  
 Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others.  In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
 
 **Security**  
@@ -87,20 +88,10 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 If users have any questions about the security at our Web site, users can send an email to Support@ChangeIP.com
 
-**Correcting/Updating/Deleting/Deactivating Personal Information**  
+ **Correcting/Updating/Deleting/Deactivating Personal Information**  
 If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the account page or by emailing our Customer Support at Support@ChangeIP.com.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email.
-
- **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
-
-ChangeIP.com  
-[Support@ChangeIP.com](mailto:Support@ChangeIP.com)
-
-P.O. Box 2333  
-San Marcos, CA  92079  
-866 474 4246 
