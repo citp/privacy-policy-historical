@@ -1,62 +1,115 @@
-<!--The following is the downloaded HTML source of the pennystocks.com privacy policy that was archived on 2000-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001202143600id_/http%3A//www.individualinvestor.com/help/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pennystocks.com privacy policy that was archived on 2001-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604035421id_/http%3A//www.individualinvestor.com/help/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
+<html><head><script src="http://www.wordplanet.com/pub/individualinvestor.js">/*AADCOM.com Home of the Megastitial*/</script>
 
-<script language="JavaScript">
-<!--
+<script language="javascript"><!--
 
-function DoSubmit() {
-	window.open(document.SearchForm.url.options[document.SearchForm.url.selectedIndex].value + document.SearchForm.ticker.value,"_self");
-	return false;
+// start options block
+var myURL='http://media.fastclick.net/w/click.here?gid=435&v=1.7&cache=1';
+var myDomain=''; // domain of site ex. "mydomain.com" [optional]
+var myWidth='720';
+var myHeight='300';
+var myDelay='0'; // pop-under delay in seconds
+var myMinTimeOut='480'; // pop-under frequency specified in minutes
+var myCookieChk='yes'; // yes(check if cookies enabled) or no
+// end options block
+
+{var dz=document;
+ var dt=new Date();
+ var cck=myCookieChk;
+ if(dz.domain.indexOf(myDomain)==-1){
+  myDomain='';
+ }
+ if(cck=='yes'){
+  dz.cookie='h2=o; path=/;';
+ }
+ if(myDomain.length>0){
+  myDomain='domain=.'+myDomain+'; ';
+ }
+ var ck=dz.cookie;
+ var id=ck.indexOf('yum_yum');
+ if(id<=0&&(cck=='no'||(cck=='yes'&&ck.indexOf('2=o')>0))){
+   setTimeout('fastClickpopWindow()',myDelay*1000);
+ }
+ function fastClickpopWindow(){
+  var pop='width='+myWidth+',height='+myHeight+',titlebar=1,toolbar=1,location=1,';
+  pop+='menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1';
+  if(parseFloat(navigator.appVersion)>=5){
+   var myTI=screen.height/2-myHeight/2;
+   var myLI=screen.width/2-myWidth/2;
+	pop+=',top='+myTI+',left='+myLI;
+  }
+  var xw=window.open("",'cool', pop, true);
+  xw.blur();
+  xw.location=myURL;
+  xw.opener.focus();
+  dt.setTime(dt.getTime()+(myMinTimeOut*60*1000));
+  dz.cookie='oatmeal_ck=yum_yum; path=/; '+myDomain+'expires='+ dt.toGMTString();
+ }
 }
-
-//-->
+/* © 2001 Fastclick.com All Rights Reserved.*/     // -->
 </script>
-<script language="javascript">
+<!-- FASTCLICK.COM NETWORK POPUNDER v1.7 for Winstar (Individual Investor) -->
 
+
+
+
+
+
+	<!-- Serv: 0 : Redesign01 -->
+
+
+
+<script language="javascript">
+<!--
 function launch(frm)
 {
 	var varURL = frm.url[frm.url.selectedIndex].value
 
-	if (varURL.indexOf('/quotes/company.asp?ticker=') == -1) 
+	if (varURL.indexOf('/quotes/company.asp?ticker=') == -1)
 	{
 		var varText  = frm.ticker.value
-	
+
 		if(varText.indexOf(',') > -1 )
 		{
 			alert('We are sorry, only quote lookups allow multiple tickers. \nPlease change the drop down option to Quote(s), or enter only one ticker.')
 			return false;
 		}
 	}
-	
-	if ((frm.ticker.value.length > 0) && (frm.ticker.value != 'ticker'))
+	if (frm.ticker.value.length > 0)
 	{
 		location.href = frm.url[frm.url.selectedIndex].value + frm.ticker.value;
 	}
-	
 	return false;
 }
 
-	 
+function ShowPromo(promoName,newUrl,winWidth,winHeight,probability) {
+	if (document.cookie.indexOf(promoName) == -1) {
+		var Temp = 100 * Math.random();
+		if (Temp <= probability) {
+			window.open(newUrl,promoName,"height=" + winHeight + ",width=" + winWidth + ",location=no,menubar=no,status=no")
+		}
+	}
+}
 
-
+//-->
 </script>
 
-
 	<meta name="resource-type" content="document">
-	<meta name="description" content="Individual Investor Online provides financial research and small cap stock analysis for personal portfolio management.  Watch the Magic 25 for 'Insider Ideas for the Rest of Us'">    
+	<meta name="description" content="Individual Investor Online provides financial research and small cap stock analysis for personal portfolio management.  Watch the Magic 25 for 'Insider Ideas for the Rest of Us'">
 	<meta name="keywords" content="individual investor proprietary analysis personal finance insider ideas exclusive research market original financial portfolio management business reports stock indi smallcap 500 small cap magic 25 industry advice news mutual funds jonathan steinberg steve taub individual investor proprietary analysis personal finance insider ideas exclusive research market original financial portfolio management business reports stock indi smallcap 500 small cap magic 25 industry advice news mutual funds jonathan steinberg steve taub individual investor proprietary analysis personal finance insider ideas exclusive research market original financial portfolio management business reports stock indi smallcap 500 small cap magic 25 industry advice news mutual funds jonathan steinberg steve taub">
 	<meta name="distribution" content="Global">
 	<meta name="copyright" content="1998 Individual Investor Group">
 	<meta name="author" content="Individual Investor Group">
 	<meta name="robots" content="All">
 	<meta name="rating" content="General">
+
+
 <!--sGoodBrowser:True:--><!--sBrowser:Default:--><!--iBrowserVersion:0:-->
 	<style type="text/css">
 		
-
-				.select-grey {background-color:#003399;font-family:arial;font-weight:bold;font-size:7pt;color:#ffffff }
+		.select-grey {background-color:#003399;font-family:arial;font-weight:bold;font-size:7pt;color:#ffffff }
 		.buttonTextwhite { font-family: Arial,Verdana,Tahoma,sans serif; font-size:9pt; font-weight: bold; cursor: hand; color: #FFFFFF; text-decoration: none }
 		.buttonTextblack { font-family: Arial,Verdana,Tahoma,sans serif; font-size:9pt; font-weight: bold; cursor: hand; color: #000000; text-decoration: none }
 		.navitemhot {font-family:arial;font-size:9pt;font-weight:bold;text-decoration:none;color:#ffffff;background-color:#0066FF }
@@ -65,230 +118,156 @@ function launch(frm)
 
 
 	</style>
+
   
-	<title>Individual Investor | Help | Privacy Statement</title>
+	<title>Individual Investor </title>
 </head>
 
-<body bgcolor="#FFFFFF" vlink="#999999" link="#CC0000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" background="/gifs/navigation/bckrnd.gif">
+    <body bgcolor="#FFFFFF" vlink="#999999" link="#CC0000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" "="">
 
 <base target="_top">
-	<table border="0" cellpadding="0" cellspacing="1" width="123" bgcolor="#330066" align="left" tabindex="-1">
-	<tbody><tr>
-		<td valign="top">
-			<table border="0" cellpadding="1" cellspacing="1" width="123" bgcolor="#ffffff">
-			<tbody><tr>
-				<td align="center" bgcolor="#330099">
-				<!-- Quote Sponsor  - mv -->
-				
-
-				<a href="http://ad.doubleclick.net/jump/home.indi/home.sponsor.quote;cat=home.sponsor.quote;sz=120x90;pos=1;ord=35974?" target="_35974?">
-				<img src="http://ad.doubleclick.net/ad/home.indi/home.sponsor.quote;cat=home.sponsor.quote;sz=120x90;pos=1;ord=35974?" border="0" align="center" valign="top"></a>
 
 
+	<table width="760" cellspacing="0" cellpadding="0" border="0">
 
-				</td>
-			</tr>
-			<tr>
-				<td bgcolor="#000000"><img src="/gifs/navigation/sponsorship.gif" width="123" height="10" border="0"></td>
-			</tr>
-			<form name="SearchForm" onsubmit="return DoSubmit();" action="" method="get"></form>
-			<tr>
-<td align="center" bgcolor="#eeeeee">
-<font face="Tahoma,arial" size="-1">
+ <tbody><tr>
 
-	Company Research
-	<br>
-	</font>
-	 
-	 
-	 
-	
-	<input type="text" name="ticker" size="8" tabindex="1" value="ticker">
-	<input type="submit" name="go" value="Go!" tabindex="2"><br>
-		<select name="url" class="select" tabindex="3">
-		<option value="http://www.individualinvestor.com/quotes/company.asp?ticker=">Quote(s)</option>
-		<option value="http://www.individualinvestor.com/quotes/pricecharts/default.asp?ticker=">Charts</option>
-		<option value="http://www.eoenabled.com/individualinvestor/eo.asp?s=FS-NPI&amp;i=">Web Search</option>
-		<option value="http://www.individualinvestor.com/boards/boards.asp?ticker=">Mess.Boards</option>
-		<option value="http://www.insidertrader.com/cobrands/individualinvestor/search.asp?search=1&amp;criteria=">Insiders</option>
-		</select><br>
-	 <font face="tahoma,verdana,arial" size="-2" color="#330066"><b><a href="/quotes/">Ticker Symbol Search</a></b></font></td></tr>
-	<tr><td valign="top"><br><table align="LEFT" border="0" cellpadding="1" cellspacing="0" width="100%" bgcolor="#330066">
+ </tr><tr>
+     <td rowspan="4" valign="top">&nbsp;&nbsp;</td>
+ </tr>
+ <tr><td width="760" valign="top" colspan="2">
+   <table cellpadding="0" cellspacing="0" border="0" width="760">
+      <tbody><tr><td bgcolor="white"><img src="/gfx/x.gif" width="630" height="3"></td></tr>
+      <tr><td bgcolor="black"><img src="/gfx/x.gif" width="630" height="1"></td></tr>
+      <tr><td align="left"><font face="arial" size="-2">&nbsp;<a href="http://www.individualinvestor.com/guest/icom/main.asp?sec=store" style="color: red; text-decoration:none;">COMPANY STORE</a> | <a href="http://www.individualinvestor.com/help/login.asp" style="color: black; text-decoration:none;">LOGIN</a> | <a href="http://www.individualinvestor.com/help/" style="color: black; text-decoration:none;">HELP</a>|<a href="http://www.individualinvestor.com/magazine/" style="color: red; text-decoration:none;"> INDIVIDUAL INVESTOR MAGAZINE </a>|<a href="http://www.individualinvestor.com/ndi_500/" style="color: red; text-decoration:none;"> AMERICA'S FASTEST GROWING COMPANIES™ INDEX</a></font></td></tr>
+      <tr><td bgcolor="black"><img src="/gfx/x.gif" width="630" height="1"></td></tr>
+      <tr><td bgcolor="white"><img src="/gfx/x.gif" width="630" height="4"></td></tr>
+   </tbody></table>
+    </td>
+  </tr>
+ <tr>
+    <td valign="top">
 
-	
+ <table cellpadding="0" cellspacing="0" width="550" border="0" bgcolor="#EFEFEF">
+	<form id="form2" name="form2"></form>
 
-<!-- valentin added 7/18/2000 nav promo for GE -->
-	
+		 <tbody><tr>
+		<td width="550" valign="top" bgcolor="#EFEFEF">
+		 <table width="550" cellspacing="0" cellpadding="0" border="0" bgcolor="#EFEFEF">
+		 
 
+            <tbody><tr bgcolor="#EFEFEF">
+                <td width="10"><img src="/gfx/x.gif" width="10" height="1" alt="" vspace="0" hspace="0" border="0"></td>
+                <td width="136"><a href="http://www.individualinvestor.com"><img src="/NewHP/images/logo.gif" width="136" height="67" alt="" border="0"></a></td>
+                <td width="16"><img src="/gfx/x.gif" width="16" height="1" alt="" vspace="0" hspace="0" border="0"></td>
+                <td width="468"> 
 
 
-<!-- end GE Nav Promo-->
-
-	
-	<!-- Netsanity -->
-		<tbody><tr>
-			<td bgcolor="#3300cc" width="125" valign="top" align="center" border="0"><br>
-			<a href="http://www.netsanity.com/cgi-bin/download.cgi?PID=INIV01" target="35974?"><img src="/gfx/vda/vda.gif" border="0"></a>	
-			</td>
-		</tr>
-<!-- Netsanity -->
-	
-	
-	<!-- Nav Sponsor -->
-		
-			 <tr><td bgcolor="#3300cc" width="125" valign="middle" align="center"><br>
-                 <a href="http://ad.doubleclick.net/jump/nav.indi/nav.sponsor.promo;cat=nav.sponsor.promo;pos=1;sz=120x60;ord=35974?" target="_35974">
-				<img src="http://ad.doubleclick.net/ad/nav.indi/nav.sponsor.promo;cat=nav.sponsor.promo;pos=1;sz=120x60;ord=35974?" border="0">
-		</a></td></tr>
-			
-<!-- 
-		
-		<TR><TD BGCOLOR=#3300cc WIDTH=125 VALIGN=middle align=center><BR>
-				<A href="http://www.venturehighway.com" target="new">
-				<img src="/gfx/ads/venturehiway120x60.gif" border=0></A>
-		</TD></TR>
--->	 
-	</tbody></table>
-
-
-
-</td></tr></tbody></table>
-	
-</td></tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0" align="left">
-<tbody><tr>
-<td>
-<img src="/gfx/x.gif" width="10" height="1200"></td></tr></tbody></table>
-	<table cellpadding="0" cellspacing="0" border="0" width="630">
-<tbody><tr><td bgcolor="white"><img src="/gfx/x.gif" width="630" height="3"></td></tr>	
-<tr><td bgcolor="black"><img src="/gfx/x.gif" width="630" height="1"></td></tr>	
-<tr><td align="left"><font face="arial" size="-2">&nbsp;<a href="http://www.individualinvestor.com/guest/icom/main.asp?sec=store" style="color: red; text-decoration:none;">SHOP</a> | <a href="http://www.individualinvestor.com/help/login.asp" style="color: black; text-decoration:none;">LOGIN</a> | <a href="http://www.individualinvestor.com/help/" style="color: black; text-decoration:none;">HELP</a> | <a href="http://www.individualinvestor.com/help/subscribe.asp" style="color: red; text-decoration:none;">FREE NEWSLETTER</a>| <a href="http://www.individualinvestor.com/ndi_500/" style="color: red; text-decoration:none;">America's Fastest Growing Companies™ Index</a></font></td></tr>	
-<tr><td bgcolor="black"><img src="/gfx/x.gif" width="630" height="1"></td></tr>	
-<tr><td bgcolor="white"><img src="/gfx/x.gif" width="630" height="4"></td></tr>	
-</tbody></table>
-
-		
-	<table cellpadding="0" cellspacing="0" border="0" width="635">
-	<form name="Form1"></form> 
-	<tbody><tr><td><img src="/gfx/x.gif" width="388" height="1" border="0"></td><td><img src="/gfx/x.gif" width="247" height="1" border="0"></td></tr>
-	<tr><td align="right" width="388"><a href="/"><img src="/gfx/header/logo_lg.gif" width="388" height="44" border="0"></a><select language="JavaScript" onchange="parent.location.href=options[selectedIndex].value" style="background-color:#660000;font-family:arial;font-weight:bold;font-size:9pt;color:#ffffff" name="DropDown1">
-
-<option value="/">Site Directory</option>
-<option value="/quotes/company.asp?ticker=BKS">Stocks</option>
-<option value="/quotes/company.asp?ticker=BKS">---Stock of the Day</option>
-<option value="/strategies/">---Our Stock Picks</option>
-<option value="/earnings/">---Earnings Calendar</option>
-<option value="/ipos/">---IPO Center</option>
-<option value="http://www.insiderTrader.com">---Insider Trading</option>
-<option value="/"> </option>
-<option value="/archive/">Analysis &amp; Opinion</option>
-<option value="/archive/default.asp">---Archives</option>
-<option value="/guest/cht_arc/yho_home.asp">---Yahoo Chats Archive</option>
-<option value="/"> </option>
-<option value="/boards">Boards</option>
-<option value="/boards/managers">---Board Managers</option>
-<option value="/boards/top40.asp?knd=stock">---Top Stock Boards</option>
-<option value="/boards/top40.asp?knd=topic">---Top Topic Boards</option>
-<option value="/"> </option>
-<option value="/boards">Community</option>
-<option value="/lunch_bytes/">---Beat the Magic 25</option>
-<option value="/boards/contest/">---Contests</option>
-<option value="/guest/cht_arc/yho_home.asp">---Chat Center</option>
-<option value="/vote/homevote_res.asp">---The Indi Poll</option>
-<option value="/boards/user/form.asp">---My Profile</option>
-<option value="/quotes/poll/poll_arch.asp">---Stock of the Day Poll</option>
-<option value="/"> </option>
-<option value="/investor_university/">Education</option>
-<option value="/investor_university/">---Investor University ®</option>
-<option value="/guest/401kafe/Default_frm.htm">---401(k) ForumTM</option>
-<option value="/profiles/retire.asp">---Financial Planning</option>
-<option value="/"> </option>
-<option value="/">Features</option>
-<option value="/reg/portfolio">---Your Portfolio</option>
-<option value="/magic25/">---Magic 25</option>
-<option value="/ndi_500/">---America's Fastest Growing Companies™ Index</option>
-<option value="/funds/">---Mutual Funds</option>
-<option value="/news/">---News</option>
-<option value="/industry/default.asp">---Industry Reports</option>
-<option value="/"> </option>
-<option value=" ">Tools</option>
-<option value="http://www.eoenabled.com/individualinvestor/default.asp">---Web Research</option>
-<option value="/"> </option>
-<option value="/magazine/">Individual Investor Magazine</option>
-<option value="https://commerce.cdsfulfillment.com/ID5/subscriptions.cgi?IN_Code=ISESD">---Subscribe</option>
-<option value="https://commerce.cdsfulfillment.com/ID1/giftform.htm">---Give a Gift Subscription</option>
-<option value="https://commerce.cdsfulfillment.com/IDI/custserv.cgi">---Renew Your Subscription</option>
-<option value="https://commerce.cdsfulfillment.com/IDI/custserv.cgi">---Pay Your Subscription Bill</option>
-<option value="https://commerce.cdsfulfillment.com/IDI/custserv.cgi">---Change Your Address</option>
-<option value="https://commerce.cdsfulfillment.com/IDI/custserv.cgi">---Questions About Your Subscription?</option>
-<option value="http://www.individualinvestor.com/Magazine/">---Last Month's Issue</option>
-<option value="/"> </option>
-<option value="https://commerce.cdsfulfillment.com/SSR/subscriptions.cgi?IN_Code=I0ASD">Special Situations Report</option>
-<option value="https://commerce.cdsfulfillment.com/SSR/subscriptions.cgi?IN_Code=I0ASD">---Subscribe</option>
-<option value="https://commerce.cdsfulfillment.com/SSR/custserv.cgi">---Renew Your Subscription</option>
-<option value="https://commerce.cdsfulfillment.com/SSR/custserv.cgi">---Change Your Address</option>
-<option value="https://commerce.cdsfulfillment.com/SSR/custserv.cgi">---Questions About Your Subscription?</option>
-<option value="/"> </option>
-<option value=" ">Products and Services</option>
-<option value="http://www.invest-store.com/iionline/">---Individual Investor Bookstore</option>
-<option value="http://www.individualinvestor.com/guest/icom/tools.asp">---Online Newsletters</option>
-<option value="/guest/berkshire/ber_frm.asp?FFI=FFI">---Fast, Free Product Info</option>
-<option value="/tools/">---Free CD-ROM</option>
-<option value="http://www.individualinvestor.com/guest/icom/main.asp?sec=store">---Company Store</option>
-<option value="https://new.movecentral.com/default.asp?partner=II">---Change of Address Service</option>
-<option value="/"> </option>
-<option value="/help/">Help</option>
-<option value="/help/sitemap.asp">---Site Map</option>
-<option value="/help/user.asp">---Your Account</option>
-<option value="/help/login.asp">---Log In</option>
-<option value="/help/logoff.asp">---Log Off</option>
-<option value="/"> </option>
-</select>
-</td>
-		
-		<td align="right">
-							
-
-	<a href="http://ad.doubleclick.net/jump/default.indi/default.sponsor.promo;cat=default.sponsor.promo;pos=1;sz=120x60;ord=35974?" target="_35974">
-	<img src="http://ad.doubleclick.net/ad/default.indi/default.sponsor.promo;cat=default.sponsor.promo;pos=1;sz=120x60;ord=35974?" border="0" height="60" width="120">
-	</a>
-
-
-
-
-		
-
-		</td>
-	</tr>
-	
-
-		<tr><td colspan="2" nowrap="" bgcolor="#003399"><table width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td align="center"> <a href="/" class="navitemnot">Home</a></td><td><font color="#ffffff">|</font></td><td align="center"> <a href="/quotes/company.asp?ticker=BKS" class="navitemnot">Stocks</a></td><td><font color="#ffffff">|</font></td><td align="center"> <a href="/boards/" class="navitemnot">Boards</a></td><td><font color="#ffffff">|</font></td><td align="center"> <a href="/news/" class="navitemnot">News</a></td><td><font color="#ffffff">|</font></td><td align="center"> <a href="/reg/portfolio/" class="navitemnot">Portfolios</a></td><td><font color="#ffffff">|</font></td><td align="center"> <a href="/magic25/" class="navitemnot">Magic 25</a></td><td><font color="#ffffff">|</font></td><td align="center"> <a href="/investor_university/" class="navitemnot">Education</a></td><td><font color="#ffffff">|</font></td><td align="center"> <a href="/funds/" class="navitemnot">Funds</a></td><td><font color="#ffffff">|</font></td><td align="center"> <a href="/archive/default.asp" class="navitemnot">Archives</a></td></tr></tbody></table></td></tr>
-<!--
-<TR><TD ALIGN=center COLSPAN=2><IMG SRC="/gfx/x.gif" WIDTH=10 HEIGHT=10 BORDER=0></TD></TR>
--->
-<tr><td align="center" colspan="2">&nbsp;
-	<table cellpadding="1" cellspacing="1" border="0">
-	<tbody><tr><td>
-		
 	<!-- Banner Ad  -->
 		
+			<a href="http://ad.doubleclick.net/jump/home.indi/home.banner;cat=home.banner;pos=1;sz=468x60;ord=?" target="_">
+			<img src="http://ad.doubleclick.net/ad/home.indi/home.banner;cat=home.banner;pos=1;sz=468x60;ord=?" border="0" height="60" width="468"></a>
 
-	<a href="http://ad.doubleclick.net/jump/home.indi/home.banner;cat=home.banner;pos=1;sz=468x60;ord=35974?" target="_35974">
-	<img src="http://ad.doubleclick.net/ad/home.indi/home.banner;cat=home.banner;pos=1;sz=468x60;ord=35974?" border="0" height="60" width="468"></a>
+		</td>
+                <td width="10">&nbsp;</td>
+            </tr>
+             <tr bgcolor="#EFEFEF">
+               <!--- <td width="630" bgcolor="#EFEFEF" valign=top> --->
+			   <td width="550" bgcolor="#EFEFEF" valign="top"><img src="/gfx/x.gif" width="1" height="7" alt="" border="0"></td>
+            </tr>
 
-	</td></tr></tbody></table>
+             <tr bgcolor="#EFEFEF">
+                 <td colspan="8" bgcolor="#EFEFEF">
+                   <table width="550" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Home</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/strategies/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Stocks</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/boards/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Boards</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/news/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>News</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/reg/portfolio/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Portfolios</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/magic25/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Magic 25</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/investor_university/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Education</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="http://www.shortinterest.com/tools/" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Tools</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td><td><table width="63" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399"><tbody><tr bgcolor="#333399"> <td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td><td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="/archive/default.asp" class="navitemnot"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Archives</b></font></a>&nbsp;</td> <td width="5" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td> </tr></tbody></table></td><td width="2"><img src="/gifs/spacer.gif" width="2" height="1" border="0"></td></tr></tbody></table>
+                 </td>
+              </tr>
 
-</td></tr>
+        </tbody></table>
+
+	</td>
+ <td valign="top">
+ </td>
+ </tr>
+
+<tr>
+	<td bgcolor="White" valign="top">
+	   <table width="600" border="0" cellspacing="0" cellpadding="0">
+	     <tbody><tr>
+	      <td width="330" valign="top">
+		     
+<script language="javascript">
+function DoSubmit() {
+       window.open(document.SearchForm.url.options[document.SearchForm.url.selectedIndex].value + document.SearchForm.ticker.value,"_self");
+	 
+     return false;
+}
+
+//-->
+</script>
+
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<form name="SearchForm" onsubmit="return DoSubmit();" action="" method="get"></form>
+             <tbody><tr bgcolor="#dddddd" height="7">
+                <td colspan="3">
+                     
+					 </td></tr>
+					 <tr><td colspan="3" align="center" bgcolor="#dddddd"><font face="Tahoma,arial" size="2"><b>Search</b></font>&nbsp;
+						<select name="url" class="select">
+							<option value="/quotes/company.asp?ticker=">Quote(s)</option>
+							<option value="/quotes/pricecharts/default.asp?ticker=">Charts</option>
+							<option value="/boards/boards.asp?ticker=">Message Boards</option>
+							<option value="http://www.insidertrader.com/cobrands/individualinvestor/search.asp?search=1&amp;criteria=">	Insiders</option>
+						</select>
+						 &nbsp;
+						<input type="text" name="ticker" size="10" value="ticker">
+						<input type="submit" name="go" value="Go!"><br>
+						<font face="tahoma,verdana,arial" size="-2" color="#330066"><b><a href="/quotes/">Ticker Symbol Search</a></b></font>
+						</td>
+						</tr>
+						
+			<tr bgcolor="#dddddd">
+		<td align="left" valign="top"><img src="/img/crn_ll.gif" width="10" height="7" alt="" border="0"></td>
+		<td><spacer type="block" align="middle" height="7" width="1"></spacer></td>
+	    <td align="RIGHT" valign="top"><img src="/img/crn_lr.gif" width="10" height="7" alt="" border="0"></td>
+	</tr>
+	
 </tbody></table>
 
-<!--::-->
-	
 
-	
-	
-	<!-- end of top include - valentin -->	
-	
+
+
+
+
+
+	     </td>
+		 <td align="center" width="270">
+
+			<a href="http://ad.doubleclick.net/jump/home.indi/diamond.quote;pos=1;sz=120x60;ord=?" target="_">
+			<img src="http://ad.doubleclick.net/ad/home.indi/diamond.quote;pos=1;sz=120x60;ord=?" border="0">
+			</a>
+
+
+			<!--<A href="http://www.individualinvestor.com/boards/contest/" ><img src="/ads/120x60DiamontWonNow.gif"  border=0 ></a>
+			-->
+
+		 </td>
+	  </tr>
+	  </tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+  <table width="100%" border="0">
+      <tbody><tr bgcolor="White">
+         <td align="left" bgcolor="White" style="COLOR: #800000;FONT-FAMILY: Arial; FONT-SIZE: 9pt;FONT-STYLE: normal;FONT-WEIGHT: bold;TEXT-DECORATION:NONE">
+
+
+			 
+		</td>
+	</tr><tr>
+
+   </tr></tbody></table>
 
 
 <style>               
@@ -343,7 +322,7 @@ function launch(frm)
 	<tbody><tr>
 	
 		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
 				<tbody><tr bgcolor="#333399">
 					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
 					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="default.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>FAQ</b></font></a>&nbsp;</td>
@@ -355,7 +334,7 @@ function launch(frm)
 			
 
 		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
 				<tbody><tr bgcolor="#333399">
 					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
 					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="use.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Site Tour</b></font></a>&nbsp;</td>
@@ -367,7 +346,7 @@ function launch(frm)
 			
 
 		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
 				<tbody><tr bgcolor="#333399">
 					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
 					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="member_splash.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Membership</b></font></a>&nbsp;</td>
@@ -379,7 +358,7 @@ function launch(frm)
 			
 
 		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
 				<tbody><tr bgcolor="#333399">
 					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
 					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="registration.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Register</b></font></a>&nbsp;</td>
@@ -391,7 +370,7 @@ function launch(frm)
 			
 
 		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
 				<tbody><tr bgcolor="#333399">
 					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
 					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="user.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Account Info</b></font></a>&nbsp;</td>
@@ -403,7 +382,7 @@ function launch(frm)
 			
 
 		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
 				<tbody><tr bgcolor="#333399">
 					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
 					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="tech.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Technical Info</b></font></a>&nbsp;</td>
@@ -415,7 +394,7 @@ function launch(frm)
 			
 
 		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
 				<tbody><tr bgcolor="#333399">
 					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
 					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="contact.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Contact Us</b></font></a>&nbsp;</td>
@@ -427,7 +406,7 @@ function launch(frm)
 			
 
 		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
+			<table width="98%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333399">
 				<tbody><tr bgcolor="#333399">
 					<td width="5" valign="top"><img src="/gifs/tab_left.gif" width="5" height="5" border="0" alt=""></td>
 					<td height="20" align="center" valign="middle" nowrap="" class="linkB">&nbsp;<a href="sitemap.asp" class="linkB"><font size="-1" face="arial,tahoma,helvetica,sans-serif" color="#ffffff" class="linkB"><b>Site Map</b></font></a>&nbsp;</td>
@@ -443,14 +422,14 @@ function launch(frm)
 </tbody></table>
 
 
-<table cellpadding="0" cellspacing="0" border="0" width="635">
+<table cellpadding="0" cellspacing="0" border="0" width="620">
 	<tbody><tr>
-		<td width="630" height="30" bgcolor="#eeeeee" valign="bottom"><b><font face="arial, helvetica, tahoma, sans-serif" size="3" color="#000000">&nbsp;Privacy Statement for individualinvestor.com:</font></b></td>
+		<td width="620" height="30" bgcolor="#eeeeee" valign="bottom"><b><font face="arial, helvetica, tahoma, sans-serif" size="3" color="#000000">&nbsp;Privacy Statement for individualinvestor.com:</font></b></td>
 		<td width="5" height="30" bgcolor="#eeeeee" align="right" valign="top"><img src="/gifs/tab_right.gif" width="5" height="5" border="0" alt=""></td>
 	</tr>
 	<tr>
-		<td width="635" colspan="2" bgcolor="#eeeeee" valign="top">
-			<table width="635" cellpadding="5" cellspacing="0" border="0">
+		<td width="620" colspan="2" bgcolor="#eeeeee" valign="top">
+			<table width="620" cellpadding="5" cellspacing="0" border="0">
 				<tbody><tr>
 					<td valign="top">
 
@@ -467,7 +446,7 @@ function launch(frm)
 <table width="100%" border="0" cellspacing="1" cellpadding="2">
 	
 	<tbody><tr>
-	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="activate.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2">Activate Account</font></a></td>
+	    <td colspan="3" align="center" valign="middle" bgcolor="#ffffff"><a href="activate.asp" target="" class="link"><font face="arial, helvetica, tahoma, sans-serif" color="#333399" size="-2"></font></a></td>
 	</tr>
 	
 	<tr>
@@ -576,7 +555,58 @@ Individual Investor Group, Inc. has created this privacy statement in order to d
 </p></li></ul>
 </font></td></tr></tbody></table>
 </td></tr></tbody></table>
-<!-- begin bottom include - valentin -->
+<!--New II_bottom  -->
+</td>
+      <td rowspan="2" valign="top" bgcolor="#EFEFEF">
+          <table border="0" cellpadding="3" cellspacing="2" align="left" valign="top">
+  <tbody><tr><td align="center" valign="middle">
+        <a href="http://ad.doubleclick.net/jump/home.indi/home.sponsor.quote;cat=home.sponsor.quote;sz=120x90;pos=1;ord=44379?" target="_44379?">
+		<img src="http://ad.doubleclick.net/ad/home.indi/home.sponsor.quote;cat=home.sponsor.quote;sz=120x90;pos=1;ord=44379?" border="0" align="center" valign="middle"></a>
+  </td></tr>
+  
+  <!-- <tr> 
+    <td ALIGN="center" VALIGN="middle">
+    
+   <A HREF="http://www.stocktalkcentral.net" TARGET="_new">
+	<IMG SRC="/gfx/weekly/stc_ls_wed.gif" WIDTH="120" HEIGHT="90" BORDER="0">
+	</a>-->
+	
+	<!--<A HREF="http://www.individualinvestor.com/tbd/article.asp?ID=22972" TARGET="_new">
+	<IMG SRC="/gfx/weekly/aol_dp_thurs.gif" WIDTH="120" HEIGHT="90" BORDER="0">
+	</a>
+	
+    </td>
+   </tr>---> 
+  
+  <tr><td align="center" valign="top">
+  
+
+   
+
+		<a href="http://ad.doubleclick.net/jump/home.indi/home.skyscraper;pos=1;sz=125x615;tile=1">
+		<img src="http://ad.doubleclick.net/ad/home.indi/home.skyscraper;pos=1;sz=125x615;tile=1" border="0">
+		</a>
+		
+	<br>
+		<a href="http://ad.doubleclick.net/jump/home.indi/home.middle.promo;pos=1;sz=120x90;tile=1">
+		<img src="http://ad.doubleclick.net/ad/home.indi/home.middle.promo;pos=1;sz=120x90;tile=1" border="0">
+		</a>
+	<br>
+		 <a href="http://ad.doubleclick.net/jump/home.indi/home.skyscraper2;pos=1;sz=125x615;tile=1">
+		<img src="http://ad.doubleclick.net/ad/home.indi/home.skyscraper2;pos=1;sz=125x615;tile=1" border="0">
+		</a>
+  
+  </td></tr>
+  </tbody></table>
+  
+
+	 </td>
+ </tr>
+ 
+<tr>
+    <td>
+
+<!-- begin bottom include - Alex Zubriy -->
 	<br>
  <center>
 	<table border="0" cellspacing="3" cellpadding="1">
@@ -586,13 +616,12 @@ Individual Investor Group, Inc. has created this privacy statement in order to d
 	
 		
 		<!--	
-				<A HREF="https://commerce.cdsfulfillment.com/IDI/giftform.htm" target="_35974">
+				<A HREF="https://commerce.cdsfulfillment.com/IDI/giftform.htm" target="_">
 				<IMG SRC="/gifs/magazine/subscribe/ban-468x60-2.gif"></A>
 		-->				
-		<!--			<A HREF="http://ad.doubleclick.net/jump/community.indi/portfolio.banner.half;pos=1;sz=234x60;tile=1;ord=35974?">
-			<IMG SRC="http://ad.doubleclick.net/ad/community.indi/portfolio.banner.half;pos=1;sz=234x60;tile=1;ord=35974?" border=0 height="60" width="234">
-			</A>	
-		-->			
+		     <a href="http://ad.doubleclick.net/jump/home.indi/home.banner2;pos=1;sz=468x60;tile=1;ord=?">
+			<img src="http://ad.doubleclick.net/ad/home.indi/home.banner2;pos=1;sz=468x60;tile=1;ord=?" border="0" height="60" width="468">
+			</a>		
 	
 	</td></tr>
 	<tr>
@@ -606,7 +635,7 @@ Individual Investor Group, Inc. has created this privacy statement in order to d
 		
 		&nbsp;<a href="/" target="_top"><font size="-2" face="arial" color="#CC0000">Home</font></a>&nbsp; 
 		|
-		&nbsp;<a href="/quotes/company.asp?ticker=BKS" target="_top"><font size="-2" face="arial" color="#CC0000">Stocks</font></a>&nbsp; 
+		&nbsp;<a href="/strategies/" target="_top"><font size="-2" face="arial" color="#CC0000">Stocks</font></a>&nbsp; 
 		|
 		&nbsp;<a href="/boards/" target="_top"><font size="-2" face="arial" color="#CC0000">Boards</font></a>&nbsp; 
 		|
@@ -618,7 +647,7 @@ Individual Investor Group, Inc. has created this privacy statement in order to d
 		|
 		&nbsp;<a href="/investor_university/" target="_top"><font size="-2" face="arial" color="#CC0000">Education</font></a>&nbsp; 
 		|
-		&nbsp;<a href="/funds/" target="_top"><font size="-2" face="arial" color="#CC0000">Funds</font></a>&nbsp; 
+		&nbsp;<a href="http://www.shortinterest.com/tools/" target="_top"><font size="-2" face="arial" color="#CC0000">Tools</font></a>&nbsp; 
 		|
 		&nbsp;<a href="/archive/default.asp" target="_top"><font size="-2" face="arial" color="#CC0000">Archives</font></a>&nbsp; 
 		
@@ -632,8 +661,8 @@ Individual Investor Group, Inc. has created this privacy statement in order to d
 		<td align="center">
 			<select language="JavaScript" onchange="parent.location.href=options[selectedIndex].value" style="background-color:#660000;font-family:arial;font-weight:bold;font-size:9pt;color:#ffffff" name="DropDown1">
 						<option value="/">Site Directory</option>
-				<option value="/quotes/company.asp?ticker=BKS">Stocks</option>
-				<option value="/quotes/company.asp?ticker=BKS">---Stock of the Day</option>
+				<option value="/quotes/company.asp?ticker=GFF">Stocks</option>
+				<option value="/quotes/company.asp?ticker=GFF">---Stock of the Day</option>
 				<option value="/strategies/">---Our Stock Picks</option>
 				<option value="/earnings/">---Earnings Calendar</option>
 				<option value="/ipos/">---IPO Center</option>
@@ -689,6 +718,7 @@ Individual Investor Group, Inc. has created this privacy statement in order to d
 				<option value="/"> </option>
 				<option value=" ">Products and Services</option>
 				<option value="http://www.invest-store.com/iionline/">---Individual Investor Bookstore</option>
+				<option value="http://www.tradingmarkets.com/gall_iig.site">---TradersGalleria</option>
 				<option value="http://www.individualinvestor.com/guest/icom/tools.asp">---Online Newsletters</option>
 				<option value="/guest/berkshire/ber_frm.asp?FFI=FFI">---Fast, Free Product Info</option>
 				<option value="/tools/">---Free CD-ROM</option>
@@ -706,18 +736,37 @@ Individual Investor Group, Inc. has created this privacy statement in order to d
 	</tr>
 	
 
-	<tr>
-
-		<td align="center"><font size="-2" face="arial">All Quotes are delayed 20 minutes &amp; are provided by <b><a href="http://www.pcquote.com/" target="_35974"><font size="-2" face="arial" color="#CC0000">PC Quote, Inc.</font></a></b></font></td>
-	</tr>
+	
 
 	<tr>
-		<td align="center"><font size="-2" face="arial">Copyright © 1997-2000 Individual Investor Group, Inc. All Rights Reserved.<br>
-		<a href="http://www.indi.com/corp-about.htm" target="35974" <font="" size="-2" face="arial" color="#CC0000">About Us</a></font> | <a href="http://www.indi.com/adv.htm" target="35974"><font size="-2" face="arial" color="#CC0000">Advertising</font></a> | <a href="http://www.indi.com/hr-emp-ops.htm" target="35974"><font size="-2" face="arial" color="#CC0000">Jobs</font></a> | <a href="http://www.indi.com/ir.htm" target="35974"><font size="-2" face="arial" color="#CC0000">Investor Relations</font></a> | <a href="http://www.indi.com/prod-contact.htm" target="35974"><font size="-2" face="arial" color="#CC0000">Subscribe</font></a> | <a href="/help/termsofuse.asp"><font size="-2" face="arial" color="#CC0000">Terms of Use</font></a> | <font size="-2" face="arial" color="#CC0000"><a href="/help/privacy.asp">Privacy</a></font> | <a href="/help/contact.asp"><font size="-2" face="arial" color="#CC0000">Feedback</font></a>
+		<td align="center"><font size="-2" face="arial">Copyright © 1997-2001 Individual Investor Group, Inc. All Rights Reserved.<br>
+		<a href="http://www.indi.com/corp-about.asp" target="" <font="" size="-2" face="arial" color="#CC0000">About Us</a></font> | <a href="http://www.indi.com/adv.asp" target=""><font size="-2" face="arial" color="#CC0000">Advertising</font></a> | <a href="http://www.indi.com/hr-emp-ops.asp" target=""><font size="-2" face="arial" color="#CC0000">Jobs</font></a> | <a href="http://www.indi.com/ir.asp" target=""><font size="-2" face="arial" color="#CC0000">Investor Relations</font></a> | <a href="http://www.indi.com/prod-contact.asp" target=""><font size="-2" face="arial" color="#CC0000">Subscribe</font></a> | <a href="/help/termsofuse.asp"><font size="-2" face="arial" color="#CC0000">Terms of Use</font></a> | <font size="-2" face="arial" color="#CC0000"><a href="/help/privacy.asp">Privacy</a></font> | <a href="/help/contact.asp"><font size="-2" face="arial" color="#CC0000">Feedback</font></a>
 </td>
 	</tr>
-	<tr><td>&nbsp;</td></tr>
+	<tr><td>&nbsp;
+	
+	</td></tr>
+	
+	<tr><td>
+	<table width="100%" cellpadding="10">
+			<tbody><tr>
+				<td>
+				<a href="http://www.hyperfeed.com" target="_new">
+					<img src="/gfx/hyperfeed.gif" border="0">
+				</a>
+				</td>
+				<td>
+				<span style="font-family: arial; font-size: 9px; color: 444444;">
+					The Market data on this site is powered by HyperFeed™ market data. Data is delayed 20 minutes unless otherwise noted, is believed accurate but is not warranted or guaranteed by HyperFeed Technologies, Inc. and is subject to HyperFeed™ Technologies, Inc. terms. All times are Eastern United States.
+					</span>
+				</td>
+			</tr>
+		</tbody></table>
+	</td></tr>
 	</tbody></table>
-<!-- end bottom include - valentin -->
+</center></td>
+</tr>
+</tbody></table>
 
-</center></body></html>
+
+</body></html>
