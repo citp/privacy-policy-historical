@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the edweek.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202143439id_/http%3A//www.edweek.org/info-epe/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edweek.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606192726id_/http%3A//www.edweek.org/info-epe/privacy.htm) for the most accurate reproduction.*
 
 # Education Week--Privacy Policy
 
 [](https://web.archive.org/context/glossary/)  
 [](https://web.archive.org/context/orgs/)  
   
-[ ](https://web.archive.org/web/20031202143439id_/http%3A//www.edweek.org/info-epe/about.htm)  
-[ ](https://web.archive.org/web/20031202143439id_/http%3A//www.edweek.org/info-epe/feedback.cfm)  
-[ ](https://web.archive.org/web/20031202143439id_/http%3A//www.edweek.org/info-epe/feedback.cfm)  
-[ ](https://web.archive.org/web/20031202143439id_/http%3A//www.edweek.org/info-epe/library.htm)  
-[ ](https://web.archive.org/web/20031202143439id_/http%3A//www.edweek.org/info-epe/submissions.htm)  
+[ ](https://web.archive.org/web/20040606192726id_/http%3A//www.edweek.org/info-epe/about.htm)  
+[ ](https://web.archive.org/web/20040606192726id_/http%3A//www.edweek.org/info-epe/feedback.cfm)  
+[ ](https://web.archive.org/web/20040606192726id_/http%3A//www.edweek.org/info-epe/feedback.cfm)  
+[ ](https://web.archive.org/web/20040606192726id_/http%3A//www.edweek.org/info-epe/library.htm)  
+[ ](https://web.archive.org/web/20040606192726id_/http%3A//www.edweek.org/info-epe/submissions.htm)  
 [ ](https://web.archive.org/info-epe/)  
-[ ](https://web.archive.org/web/20031202143439id_/http%3A//www.edweek.org/info-epe/staff.htm)  
-[ ](https://web.archive.org/web/20031202143439id_/http%3A//www.edweek.org/info-epe/webstaff.htm) |  |  |    
+[ ](https://web.archive.org/web/20040606192726id_/http%3A//www.edweek.org/info-epe/staff.htm)  
+[ ](https://web.archive.org/web/20040606192726id_/http%3A//www.edweek.org/info-epe/webstaff.htm) |  |  |    
 
 
 #### Privacy Statement
