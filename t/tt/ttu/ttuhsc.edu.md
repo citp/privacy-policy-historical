@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ttuhsc.edu privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012105148id_/http%3A//www.ttuhsc.edu/Home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttuhsc.edu privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622185604id_/http%3A//www.ttuhsc.edu/HSC/Home/privacy.asp) for the most accurate reproduction.*
 
 # Texas Tech University Health Sciences | Privacy Policy
 
 **T** hank you for visiting the Texas Tech University Health Sciences Center web site. Your privacy is important to us and in order to better protect your privacy, we provide this notice explaining our online information practices and the decisions you can make about the way your information is collected and used at this site.
 
  **NOTICE - PRIVACY POLICY  
-**Texas Tech University System maintains its web sites as an information resource and service for the public, and this privacy policy applies to all pages of this site that are maintained by the TEXAS TECH UNIVERSITY SYSTEM (pages containing [www.texastech.edu](http://www.texastech.edu/) , [www.ttu.edu](http://www.ttu.edu/), or [www.ttuhsc.edu](http://www.ttuhsc.edu/)).
+**Texas Tech University System maintains its web sites as an information resource and service for the public, and this privacy policy applies to all pages of this site that are maintained by the TEXAS TECH UNIVERSITY SYSTEM (pages containing [www.texastech.edu](http://www.texastech.edu/) , [www.ttu.edu](http://www.ttu.edu/), or [www.ttuhsc.edu](https://web.archive.org/web/20030622185604id_/http%3A//www.ttuhsc.edu/default.asp)).
 
 **NOTICE - CONCERNING YOUR INFORMATION  
 **The [Texas Public Information Act](http://www.oag.state.tx.us/AG_Publications/publicinformation99.htm), with few exceptions, gives you the right to be informed about the information that the Texas Tech University Health Sciences Center collects about you. It also gives you the right to request a copy of that information and to have the HSC revise any information that is incorrect. You may request to receive this information by contacting the office possessing such information.  
@@ -44,7 +44,7 @@ LINKS**
 This web site contains links to other sites, and Texas Tech University System is not responsible for privacy policies on those sites.  
 **  
 RECORDS RETENTION**  
-Please see [TTUHSC Operating Policy 10.09, Records Retention](http://www.ttuhsc.edu/pages/op/op1009.pdf) (Note: You will need Adobe Acrobat Reader to view this policy).  
+Please see [TTUHSC Operating Policy 10.09, Records Retention](https://web.archive.org/web/20030622185604id_/http%3A//www.ttuhsc.edu/HSC/OP/op1009.pdf) (Note: You will need Adobe Acrobat Reader to view this policy).  
 **  
 QUESTIONS**  
-Questions about this privacy policy should may be directed to the respective Webmaster for each site: [www.ttu.edu](http://www.ttu.edu/), [www.texastech.edu](http://www.texastech.edu/), or [www.ttuhsc.edu](http://www.ttuhsc.edu/). 
+Questions about this privacy policy should may be directed to the respective Webmaster for each site: [www.ttu.edu](http://www.ttu.edu/), [www.texastech.edu](http://www.texastech.edu/), or [www.ttuhsc.edu](https://web.archive.org/web/20030622185604id_/http%3A//www.ttuhsc.edu/default.asp). 
