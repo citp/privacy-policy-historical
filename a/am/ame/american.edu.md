@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601134146id_/http%3A//www.american.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202203541id_/http%3A//www.american.edu/privacy.html) for the most accurate reproduction.*
 
 # American University Privacy Policy
 
