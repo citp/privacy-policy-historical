@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbeyond.net privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605191645id_/http%3A//cbeyond.net/constants/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbeyond.net privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206191355id_/http%3A//www.cbeyond.net/constants/privacy.htm) for the most accurate reproduction.*
 
 # Cbeyond - Privacy Policy
 
