@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihs.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604073355id_/http%3A//www.ihs.com/engineering/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihs.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203192915id_/http%3A//www.ihs.com/engineering/privacy.html) for the most accurate reproduction.*
 
 # IHS Privacy Statement
 
