@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2000-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001019215943id_/http%3A//local.nwsource.com/helpcenter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330182113id_/http%3A//local.nwsource.com/helpcenter/privacy.html) for the most accurate reproduction.*
 
-# NWsource.com
+# NWsource.com: A Service of The Seattle Times Company
 
-|  |  |  |   
----|---|---|---|---  
-  
 **PRIVACY STATEMENT FOR NWSOURCE**
 
 * * *
@@ -41,10 +38,10 @@ For information on how to update your NWsource account information, change your 
 
 For information on how to update/remove information listed in our online directories, please read our FAQ. 
 
-**Notification of Changes**  
+**Notification of changes**  
 We retain the right, at our discretion, to change any of these policies in the future. Our current procedures will always be disclosed on this page. 
 
-**Contacting the Web Site**  
+**Contacting the web site**  
 If you have any questions about this privacy statement, the practices of this site, or your interactions with this Web site, you can contact us at: 
 
 The Seattle Times Company  
