@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bahamasb2b.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217083237id_/http%3A//bahamasb2b.com/b2b/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahamasb2b.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217064937id_/http%3A//www.bahamasb2b.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -30,10 +30,7 @@ You can register with our website if you would like to receive our newsletter as
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
-We use WebTrends Live to conduct anonymous web traffic analysis for our site. While   
-WebTrends Live makes use of cookies, no personal information is ever   
-collected or analyzed by this service. For more information on WebTrends   
-Live, please visit their site at   
+We use WebTrends Live to conduct anonymous web traffic analysis for our site. While WebTrends Live makes use of cookies, no personal information is ever collected or analyzed by this service. For more information on WebTrends Live, please visit their site at:  
 http://www.webtrendslive.com/privacy_policy.htm.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
@@ -49,4 +46,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us:**    
-Should you have other questions or concerns about these privacy policies, please call us at 242-394-0033 or send us an email at lisa@bahamasb2b.com. 
+Should you have other questions or concerns about these privacy policies, please call us at 242-394-0033 or send us an email at [lisa@bahamasb2b.com](mailto:lisa@bahamasb2b.com). 
