@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandecta.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002084231id_/http%3A//www.pandecta.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandecta.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610182617id_/http%3A//www.pandecta.com/pp.html) for the most accurate reproduction.*
 
 # Pandecta Privacy Policy
 
