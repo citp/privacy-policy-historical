@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605060802id_/http%3A//www.e-myth.com/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195910id_/http%3A//www.e-myth.com/corporate/privacy.htm) for the most accurate reproduction.*
 
 # E-Myth Worldwide - About Us: e-myth.com Privacy Policy
 
@@ -11,7 +11,7 @@ If you received a mailing from us, (a) your email address is either listed with 
 We use security measures to protect against the loss, misuse and alteration of data used by our system.
 
 **Sharing and Usage**  
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you. 
+Information submitted to us is available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
 
 **How can you stop receiving email from us?**  
 Please send an email to webmaster@e-myth.com from the email address that you wish to remove from our system. If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to webmaster@e-myth.com for review.
