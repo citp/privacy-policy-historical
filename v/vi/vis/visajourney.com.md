@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208183303id_/http%3A//www.visajourney.com/forums/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204075843id_/http%3A//www.visajourney.com/forums/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # VisaJourney.com : Marriage and Family Immigration to the USA (K Visa)
 
