@@ -1,29 +1,33 @@
-> *The following text is extracted and transformed from the 10best.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205141400id_/http%3A//www.10best.com/Docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10best.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208033518id_/http%3A//www.10best.com/Docs/privacy.html) for the most accurate reproduction.*
 
-# 10Best Privacy Policy
+# Privacy Policy: 10Best, Inc.
 
-|  ©2000 10BEST ALL RIGHTS RESERVED 
+|  |  |   
+---  
+   
+  
+|  ©2001 10BEST ALL RIGHTS RESERVED 
 
 **Privacy Summary**
 
-> We at 10Best take your privacy seriously. We use the information we collect about you during the registration process to provide a more personalized experience. We also take your information into consideration as we develop new functionality for the site. Ultimately, the information we collect is for the sole purpose of providing you with the "best" experience possible. We do not rent, lease, or sell your personal information.
+> We at 10Best take your privacy seriously. We use the information we collect about you during the registration process to provide a more personalized experience. We also take your information into consideration as we develop new functionality for the site. Ultimately, the information we collect is for the sole purpose of providing you with the "best" experience possible. We do not rent, lease, or sell your personal information, and currently have no plans to do so.
 
 **The Information We Collect**
 
-> **There are 3 steps to our Registration Process:** **Step 1 - "Account Details"**   
-> This is the only data "required" for registration. It simply allows us to separate one user from another and to "personalize" your 10Best experience.
+> **My Account Section**
+> 
+>  **"Details"**  
+>  This is the only data "required" for registration. It simply allows us to separate one user from another and to "personalize" your 10Best experience. **The only required information is User Name, Password, and Email Address.** This section also contains information about our mailing list, newsletters, email format (html or plain text), Start City (for linking directly to your favorite city), Wireless provider (if applicable), and automatic log in preferences.
 
-> **Step 2 - "My Profile"**   
-> This information is "optional" and is not required for registration. This information is taken into consideration as we develop new functionality for the site. If you do not feel comfortable providing this information, simply proceed to Step 3.
-
-> **Step 3 - "Preferences"**   
-> This section contains information about our mailing list, newsletters, email format (html or plain text), and automatic log in preferences.
+> **"Profiles"**   
+>  Profiles are simply your way of telling 10Best about the things you like. All fields are entirely optional. But the more we know about you, the better chance we have of recommending those businesses that best match your profiles. 
+> 
+> **"Mobile Tools"**   
+>  Your My Mobile area allows you to setup and customize features for our wireless 10Best service. For web-enabled phones, visit mobile.10best.com using your phone's mini-browser. **GeoMarks** are simply addresses that you save as reference points. From these points, you can find the closest 10Best businesses as well as driving directions - without having to type in your favorite addresses over and over again. Save your home address, your office address, the address of a hotel you'll be staying at for a week - any address you will want to use as a reference point for directions.
 
 **Cookies**
 
 > 10Best utilizes cookies to identify a user. No personal information is stored in a cookie.
-> 
-> We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm).
 
 **Consent**
 
@@ -49,7 +53,5 @@
 > **By fax:**  
 >  (864) 232-2925 
 > 
-> **By email:**  
->  [legal@10best.com](mailto:legal@10best.com)
-
-| 
+> **By email:  
+>  **[legal@10best.com](mailto:legal@10best.com)
