@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the otpp.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605075503id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otpp.com privacy policy that was archived on 2004-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041225211013id_/http%3A//www.otpp.com/web/website.nsf/web/PrivacyCode) for the most accurate reproduction.*
 
 # OTPP: Privacy Code
 
 **Principle 1 - Accountability**  
 The Ontario Teachers’ Pension Plan is responsible for personal information under its control.   
-1.1| | The Corporate Privacy Officer of the Ontario Teachers’ Pension Plan is accountable for ensuring compliance with our Privacy Code.  
+1.1| | The Corporate Privacy Officer of the Ontario Teachers’ Pension Plan is accountable for monitoring and promoting compliance with our Privacy Code.  
 1.2| | We have established policies and procedures to implement the Privacy Code, including:
 
   * policies and procedures to protect personal information we collect, use and disclose for plan administration
