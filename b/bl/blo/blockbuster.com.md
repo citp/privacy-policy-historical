@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603150447id_/http%3A//www.blockbuster.com/bb/help/privacy_policy/0%2C7644%2C%2C00.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207092318id_/http%3A//www.blockbuster.com/bb/help/privacy_policy/0%2C7644%2C%2C00.html%3F) for the most accurate reproduction.*
 
 # Privacy Policy at Blockbuster
 
-|  | My BLOCKBUSTER |   
+[](https://web.archive.org/bb/buy/main) |  | My BLOCKBUSTER |   
 ---|---|---  
-|  [My Account](https://www.blockbuster.com/bb/secure/olr/account/account_index/0,6480,,00.html?)  
-[Purchase Cart](http://www.thestore24.com/Cart.asp?si=blockbuster)  
+|  [Sign In](https://www.blockbuster.com/bb/secure/olr/account/account_index/0,7934,,00.html?)  
+Purchase Cart  
 [BLOCKBUSTER Rewards®](http://www.blockbuster.com/bb/rewards/0,7786,,00.html?)  
 [E-Newsletter](http://www.blockbuster.com/bb/enewsletter/0,7789,,00.html?)  
 [Recommendations](http://www.blockbuster.com/bb/recommends/0,7799,,00.html?)  
@@ -28,24 +28,15 @@
 ---|---|---  
 |  [New Releases](http://www.blockbuster.com/bb/game/new_releases/0,7578,,00.html?)  
 [Coming Soon](http://www.blockbuster.com/bb/game/coming_soon/0,7580,,00.html?)  
-[PlayStation 2](http://www.blockbuster.com/bb/game/platform/top_10/0,7515,CMG-PS2_coming%5ENF-PS2%5ETOP-PS2_top10,00.html?)  
-[Xbox](http://www.blockbuster.com/bb/game/platform/top_10/0,7515,CMG-xbox_coming%5ENF-XB%5ETOP-xbox_top10,00.html?)  
-[Nintendo GameCube](http://www.blockbuster.com/bb/game/platform/top_10/0,7515,CMG-ngc_coming%5ENF-NGC%5ETOP-ngc_top10,00.html?)  
-[PlayStation](http://www.blockbuster.com/bb/game/platform/top_10/0,7515,CMG-PS_coming%5ENF-PS%5ETOP-PS_top10,00.html?)  
-[Nintendo 64](http://www.blockbuster.com/bb/game/platform/top_10/0,7515,CMG-N64_coming%5ENF-64%5ETOP-N64_top10,00.html?)  
-[Game Boy Advance](http://www.blockbuster.com/bb/game/platform/top_10/0,7515,CMG-GBA_coming%5ENF-GBA%5ETOP-GBA_top10,00.html?)  
-[Game Boy Color](http://www.blockbuster.com/bb/game/platform/top_10/0,7515,CMG-GBC_coming%5ENF-GBC%5ETOP-GBC_top10,00.html?)  
-[Dreamcast](http://www.blockbuster.com/bb/game/platform/top_10/0,7515,CMG-DREAM_coming%5ENF-DC%5ETOP-DREAM_top10,00.html?)  
+[Top 10 Games](http://www.blockbuster.com/bb/game/top10/0,7559,,00.html?)  
 [Ratings Defined](http://www.blockbuster.com/bb/game/esrb/0,7631,,00.html?)  
 | Specials |   
 ---|---|---  
-|  [DIRECTV](http://www.blockbuster.com/bb/article/details/0,7413,ART-628,00.html?)  
-[Carl and Ray™](http://www.blockbuster.com/bb/article/details/0,7413,ART-549,00.html?)  
-[Coming Soon, Order Now!](http://www.blockbuster.com/bb/article/details/0,7413,ART-647,00.html?)  
-[Guaranteed Movies](https://web.archive.org/bb/movie/guaranteed)  
-[Guaranteed Games](http://www.blockbuster.com/bb/article/details/0,7413,ART-684,00.html?)  
+|  [DIRECTV](http://www.blockbuster.com/bb/article/details/0,7413,ART-707,00.html?)  
+[Carl & Ray™](http://www.blockbuster.com/bb/article/details/0,7413,ART-705,00.html?)  
+[GiftCards](http://www.blockbuster.com/bb/article/details/0,7413,ART-807,00.html?)  
 [Pre-viewed Movies](https://web.archive.org/bb/movie/prp)  
-[Trivia](http://www.blockbuster.com/bb/article/details/0,7413,ART-563,00.html?)  
+[Pre-played Games](http://www.blockbuster.com/bb/article/details/0,7413,ART-779,00.html?)  
   
 |  |  PRIVACY POLICY |   
 ---|---  
