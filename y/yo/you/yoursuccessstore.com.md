@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursuccessstore.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603210130id_/http%3A//yoursuccessstore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursuccessstore.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024060240id_/http%3A//www.yoursuccessstore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
