@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiafind.com privacy policy that was archived on 2000-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000523044831id_/http%3A//asiafind.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiafind.com privacy policy that was archived on 2000-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001102103928id_/http%3A//www.asiafind.com/privacy.shtml) for the most accurate reproduction.*
 
 # AsiaFIND Privecy Policy
 
