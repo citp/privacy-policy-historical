@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205144200id_/http%3A//www3.netrition.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrition.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331124516id_/http%3A//www4.netrition.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for Netrition, Inc.
 
-[](http://www4.netrition.com/) |  | [](http://www4.netrition.com/) | [](http://www4.netrition.com/cgi/add_to_cart.cgi?cart_display=true) | [](http://www4.netrition.com/checkout.html) | [](http://www4.netrition.com/youraccount.html) | [](http://www4.netrition.com/policies.html) |   
+[](http://www6.netrition.com/) |  | [](http://www6.netrition.com/) | [](http://www6.netrition.com/cgi/add_to_cart.cgi?cart_display=true) | [](http://www6.netrition.com/checkout.html) | [](http://www6.netrition.com/youraccount.html) | [](http://www6.netrition.com/policies.html) |   
 ---|---|---|---|---|---|---|---  
-[Ordering Policies](http://www4.netrition.com/policies.html)   
-[Prices](http://www4.netrition.com/prices.html)   
-[Sale Items!](http://www4.netrition.com/specials.html)   
-[Redeem Coupon](http://www4.netrition.com/cgi/provide_cert.cgi?display_form=true)   
-|  [Dietary Oils](http://www4.netrition.com/oils_page.html)   
-[Drink Mixes](http://www4.netrition.com/lowfat_mrp_page.html)   
-[Nutrition Bars](http://www4.netrition.com/bars_page.html)   
-[Protein Powders](http://www4.netrition.com/protein_powders_page.html)   
-|  [Fat Loss/Energy](http://www4.netrition.com/fatloss.html)   
-[Muscle Builders](http://www4.netrition.com/muscle_builders_page.html)   
-[Pro-Hormones](http://www4.netrition.com/prohormones_page.html)   
-[Very Low Carb Foods](http://www4.netrition.com/lowcarb_page.html)   
-|  [Books](http://www4.netrition.com/books_page.html)   
-[Herbs](http://www4.netrition.com/herbs_page.html)   
-[Minerals](http://www4.netrition.com/minerals_page.html)   
-[Vitamins](http://www4.netrition.com/vitamins_page.html)   
-|  [Contact Us](http://www4.netrition.com/contact.html)   
-[E-Cards](http://www4.netrition.com/cgi/ecards.cgi)   
-[Food Nutrients](http://www4.netrition.com/cgi/foods.cgi)   
-[Health News](http://www4.netrition.com/cgi/news.cgi)   
+[Ordering Policies](http://www6.netrition.com/policies.html)   
+[Prices](http://www6.netrition.com/prices.html)   
+[Sale Items!](http://www6.netrition.com/specials.html)   
+[Redeem Coupon](http://www6.netrition.com/cgi/provide_cert.cgi?display_form=true)   
+|  [Dietary Oils](http://www6.netrition.com/oils_page.html)   
+[Drink Mixes](http://www6.netrition.com/lowfat_mrp_page.html)   
+[Nutrition Bars](http://www6.netrition.com/bars_page.html)   
+[Protein Powders](http://www6.netrition.com/protein_powders_page.html)   
+|  [Fat Loss/Energy](http://www6.netrition.com/fatloss.html)   
+[Muscle Builders](http://www6.netrition.com/muscle_builders_page.html)   
+[Pro-Hormones](http://www6.netrition.com/prohormones_page.html)   
+[Very Low Carb Foods](http://www6.netrition.com/lowcarb_page.html)   
+|  [Books](http://www6.netrition.com/books_page.html)   
+[Herbs](http://www6.netrition.com/herbs_page.html)   
+[Minerals](http://www6.netrition.com/minerals_page.html)   
+[Vitamins](http://www6.netrition.com/vitamins_page.html)   
+|  [Contact Us](http://www6.netrition.com/contact.html)   
+[E-Cards](http://www6.netrition.com/cgi/ecards.cgi)   
+[Food Nutrients](http://www6.netrition.com/cgi/foods.cgi)   
+[Health News](http://www6.netrition.com/cgi/news.cgi)   
 |   
 ---|---|---|---|---|---  
 |  |  |  |   
