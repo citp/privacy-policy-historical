@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the handyarchive.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624075953id_/http%3A//www.handyarchive.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handyarchive.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204125648id_/http%3A//www.handyarchive.com/policy.html) for the most accurate reproduction.*
 
 # Privacy policy at HandyArchive.com
-
-**Privacy Policy**
 
 HandyArchive.com takes your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Website that you were viewing when you clicked through to this policy, which is operated by HandyArchive.com, its partner or affiliate.  
 This site contains links to other sites. HandyArchive.com is not responsible for the privacy practices or the content of such Websites. 
