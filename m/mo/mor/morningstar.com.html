@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the morningstar.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204101958id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the morningstar.com privacy policy that was archived on 2005-03-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050311083815id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy</title>
@@ -29,8 +29,14 @@ function srchTerm()
   	document.searchForm.action = "http://search.morningstar.com/MstarSrch/MstarSrch2.aspx?topnav=search";
   	document.searchForm.submit();
 	} else {
-		document.searchForm.action = "http://quote.morningstar.com/switch.html?hsection=quote&ticker="+document.searchForm.sSrchTerm.value;
-		document.searchForm.submit();
+		if (document.searchForm.sSrchTerm.value == "Enter ticker, name or topic" || document.searchForm.sSrchTerm.value == "") {
+			document.searchForm.action = "http://quote.morningstar.com/TickerNotFound.html";			
+			document.searchForm.submit();
+		}
+		else {
+			document.searchForm.action = "http://quote.morningstar.com/switch.html?hsection=quote&ticker="+document.searchForm.sSrchTerm.value;
+			document.searchForm.submit();
+		}
   }
 }
 
@@ -52,18 +58,23 @@ function ClearSearchBox()
 .F3 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
 .LG1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; color: #CCCCCC; text-decoration: none }
 .navboldlink { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #CCCCCC; text-decoration: none }
+.BB1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; line-height: 14px; color: #333333; text-decoration: none }
 -->
 </style>
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr valign="top"> 
-		<td align="left"><a href="http://www.morningstar.com/" target="_top"><img src="//im.morningstar.com/im/NavBar/MstarLogo2.gif" width="209" height="38" border="0" alt="Morningstar.com"></a></td>
-		<td><img src="//im.morningstar.com/im/dot_clear.gif" width="270" height="1" border="0"></td>
-		<td align="right" valign="bottom"><img src="//im.morningstar.com/im/navbar/SubNav1.gif" width="281" height="23" border="0" usemap="#NavBarMap1"><map name="NavBarMap1"><area shape="rect" coords="0,0,75,23" href="http://members.morningstar.com/memberstpages/membership.htm?topnav=membership" alt="Membership"><area shape="rect" coords="76,0,155,23" href="http://www.morningstar.com/Cover/AboutUs.html?topnav=aboutus" alt="About Us"><area shape="rect" coords="156,0,230,23" href="http://www.morningstar.com/Cover/Products.html?topnav=products" alt="Products"><area shape="rect" coords="231,0,281,23" href="http://www.morningstar.com/Cover/Help.html?topnav=help" alt="Help"></map></td></tr>
-	<tr valign="top"> 
-		<td align="left" bgcolor="#FF0000" height="5"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td bgcolor="#FF0000"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
-		<td align="right" bgcolor="#FF0000"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td></tr>
-</tbody></table>
+  <tbody>
+    <tr valign="top">
+      <td width="33%" align="left"><a href="http://www.morningstar.com/" target="_top"><img src="//im.morningstar.com/im/MstarLogo2.gif" width="209" height="38" border="0" alt="Morningstar.com"></a></td>
+      <td width="20%"><img src="//im.morningstar.com/im/dot_clear.gif" width="211" height="1" border="0"></td>
+      <td width="47%" align="right" valign="bottom" class="BB1"><a href="http://members.morningstar.com/memberstpages/membership.htm?topnav=membership" class="BB1">Membership</a> | <a href="http://www.morningstar.com/Cover/Products.html?topnav=products" class="BB1">Store</a> | <a href="http://www.morningstar.com/Cover/Help.html?topnav=help" class="BB1">Help</a> | <a href="http://corporate.morningstar.com/US/asp/home.aspx?xmlfile=202.xml" class="BB1">Company Site</a> | <a href="http://corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml" class="BB1">Company News</a><br><img src="//im.morningstar.com/im/dot_clear.gif" width="340" height="5" border="0"></td>
+    </tr>
+    <tr valign="top">
+      <td align="left" bgcolor="#ff0000" height="5"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
+      <td bgcolor="#ff0000"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
+      <td align="right" bgcolor="#ff0000"><img src="//im.morningstar.com/im/dot_clear.gif" width="1" height="1"></td>
+    </tr>
+  </tbody>
+</table>
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
@@ -185,7 +196,7 @@ function ClearSearchBox()
 	</p><p>
 	<a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>
 	<br><a href="http://www.planninggroup.com/PGI_Privacy_Policy.htm">http://www.planninggroup.com/PGI_Privacy_Policy.htm</a>
-	<br><a href="http://www.mediaplex.com/mplx_privacy.shtml#_Toc41282072">http://www.mediaplex.com/mplx_privacy.shtml#_Toc41282072</a>
+	<br><a href="http://www.mediaplex.com/privacy.shtml">http://www.mediaplex.com/privacy.shtml</a>
 
 
 	 </p><p><b>How Is Portfolio Information Used and Protected?</b><br> 
@@ -298,13 +309,13 @@ function goSearch() {
 		<td><img src="//im.morningstar.com/im/d.gif" width="1" height="4"></td></tr>
 	<tr align="center">
 		<td class="B1">
-			<table width="670" border="0" cellspacing="0" cellpadding="0">
+			<table width="710" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
 					<td><img src="//im.morningstar.com/im/d.gif" width="50" height="5"></td>
 					<td><img src="//im.morningstar.com/im/d.gif" width="150" height="1"></td>
 					<td><img src="//im.morningstar.com/im/d.gif" width="25" height="1"></td>
 					<td><img src="//im.morningstar.com/im/d.gif" width="155" height="1"></td>
-					<td><img src="//im.morningstar.com/im/d.gif" width="270" height="1"></td></tr>
+					<td><img src="//im.morningstar.com/im/d.gif" width="330" height="1"></td></tr>
 				<tr>
 					<td class="B1">Search&nbsp;</td>
 					<td>
@@ -324,7 +335,7 @@ function goSearch() {
 						<input type="text" name="SrchTerm" value="" size="15" maxlength="50" class="F1">&nbsp;
 						<input type="image" src="//im.morningstar.com/im/go.gif" width="24" height="16" border="0" align="MIDDLE" class="F1" name="image223">
 					</td>
-					<td class="L1"><a href="http://www.morningstar.com/html/full/SiteMap.html" class="L1">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://search.morningstar.com/Glossary/glossary_A_B.html" class="L1">Glossary</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.morningstar.com/AboutUs/MediaKit.html" class="L1">Advertising Opportunities</a></td></tr>
+					<td class="L1"><a href="http://www.morningstar.com/Cover/Help.html?topnav=help" class="L1">Help</a> &nbsp;|&nbsp; <a href="http://www.morningstar.com/SiteMap.html" class="L1">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://search.morningstar.com/Glossary/glossary_A_B.html" class="L1">Glossary</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.morningstar.com/AboutUs/MediaKit.html" class="L1">Advertising Opportunities</a></td></tr>
 			</tbody></table>
 		</td></tr>
 	<tr>
@@ -336,7 +347,14 @@ function goSearch() {
 	<tr>
 		<td height="5"><img src="//im.morningstar.com/im/d.gif" height="8" width="5"></td></tr>
 	<tr align="CENTER"> 
-  	<td class="L1"><img src="//im.morningstar.com/im/d.gif" height="1">
+  	<td class="L1">
+			<table width="728" height="90" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td>
+						
+							<!-- AdSpace adtype=SINGLEBIG position=FOOTER --><!-- /AdSpace -->
+						</td></tr>
+			</tbody></table>
 		</td></tr>
 	<tr>
   	<td height="10"><img src="//im.morningstar.com/im/d.gif" height="10"></td></tr>
@@ -347,7 +365,7 @@ function goSearch() {
 	<tr>
 		<td height="5"><img src="//im.morningstar.com/im/d.gif" height="5"></td></tr>
 	<tr align="CENTER"> 
-  	<td class="L1"><a href="javascript:footeropenwin('http://www.morningstar.com/AboutUs/copyright.html',330,200)" class="L1">© Copyright 2004 Morningstar, Inc.</a> All rights reserved. Please read our <a href="javascript:footeropenwin('http://www.morningstar.com/AboutUs/copyright.html',330,200)" class="L1">Terms of Use</a> and <a href="http://members.morningstar.com/memberstpages/PrivacyPolicy.html" target="_top" class="L1">Privacy Policy</a>.<br>
+  	<td class="L1"><a href="javascript:footeropenwin('http://www.morningstar.com/AboutUs/copyright.html',330,200)" class="L1">© Copyright 2005 Morningstar, Inc.</a> All rights reserved. Please read our <a href="javascript:footeropenwin('http://www.morningstar.com/AboutUs/copyright.html',330,200)" class="L1">Terms of Use</a> and <a href="http://members.morningstar.com/memberstpages/PrivacyPolicy.html" target="_top" class="L1">Privacy Policy</a>.<br>
   	Having trouble? Go to <a href="http://www.morningstar.com/Cover/Help.html?topnav=helpfooter" class="L1">Morningstar Help</a> for assistance.
 		</td></tr>
 	<tr>
