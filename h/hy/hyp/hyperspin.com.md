@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the hyperspin.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095509id_/http%3A//hyperspin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperspin.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603020141id_/http%3A//www.hyperspin.com/privacy.php) for the most accurate reproduction.*
 
-# Hyperspin.com Server Monitoring Service
+# Hyperspin.com Website & Server Monitoring Service
 
-  
+  | 
+
+### Privacy Statement
+
 Hyperspin.com collects information from our users for a number of reasons, the chief one being to better understand our users and their needs. 
 
 Please read carefully our policy on data collection and use of the data collected.  
@@ -48,3 +51,5 @@ All information gathered by Hyperspin.com is stored in systems that may only be 
 **_Use of cookies_**
 
 Hyperspin.com uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
+
+|  
