@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the estara.com privacy policy that was archived on 2004-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040611215501id_/http%3A//estara.com/aboutus/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the estara.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205184550id_/http%3A//www.estara.com/aboutus/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>eStara, Inc. Privacy Policy</title>
 
-<base href="http://estara.com/">
+<base href="http://www.estara.com/">
 
-<link rel="stylesheet" type="text/css" href="http://estara.com/estara.css">
+<link rel="stylesheet" type="text/css" href="http://www.estara.com/estara.css">
 
 <script language="JavaScript" src="http://as00.estara.com/as/InitiateCall2.jsp?accountid=200008070000" type="text/javascript"></script>
 
@@ -31,13 +31,15 @@ else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
 	document.write('</SCR' + 'IPT\> \n');
 }
 
-var preloadedImages = preloadImages('images/home_on.gif', 
-                                    'images/servicesandproducts_on.gif', 
-                                    'images/customers_on.gif', 
-                                    'images/estaraxtras_on.gif', 
-                                    'images/estaratechnology_on.gif', 
-                                    'images/company_on.gif', 
-                                    'images/webcaretoolsentrance_on.gif');
+var preloadedImages = preloadImages(	'images/tab_left.gif',
+					'images/tab_left_on.gif',
+					'images/tab_middle.gif',
+					'images/tab_middle_on.gif',
+					'images/tab_right.gif',
+					'images/tab_right_on.gif',
+					'images/tab_wc_left_on.gif',
+					'images/tab_wc_middle_on.gif',
+					'images/tab_wc_right_on.gif');
 
 function preloadImages()
 {
@@ -46,7 +48,7 @@ function preloadImages()
   if (document.images) {
     for (var i = 0; i < preloadImages.arguments.length; i++) {
       imageArray[i] = new Image();
-      imageArray[i].src = 'http://estara.com/' + preloadImages.arguments[i];
+      imageArray[i].src = 'http://www.estara.com/' + preloadImages.arguments[i];
     }
   }
 
@@ -60,9 +62,42 @@ function changeImages()
       document[changeImages.arguments[i]].src = changeImages.arguments[i + 1];
 }
 
+var flashanimationclicked = false;
 function onclickFlashAnimation(flashid)
 {
-  webVoicePop('AuthorizeURL=http://as00.estara.com/leads/authorizeurl.php?accountid=200008070000','Template=846');
+  flashanimationclicked = true;
+  webVoicePop('AuthorizeURL=http://as00.estara.com/leads/authorizeurl.php?accountid=200008070000','Template=846');}
+
+function change_on(elt)
+{
+  document.getElementById(elt).height = '33';
+  document[elt + '_left'].src = 'images/tab_left_on.gif';
+  document.getElementById(elt + '_middle').style.background = 'url(images/tab_middle_on.gif)';
+  document[elt + '_right'].src = 'images/tab_right_on.gif';
+}
+
+function change_off(elt)
+{
+  document.getElementById(elt).height = '28';
+  document[elt + '_left'].src = 'images/tab_left.gif';
+  document.getElementById(elt + '_middle').style.background = 'url(images/tab_middle.gif)';
+  document[elt + '_right'].src = 'images/tab_right.gif';
+}
+
+function change_wc_on(elt)
+{
+  document.getElementById(elt).height = '44';
+  document[elt + '_left'].src = 'images/tab_wc_left_on.gif';
+  document.getElementById(elt + '_middle').style.background = 'url(images/tab_wc_middle_on.gif)';
+  document[elt + '_right'].src = 'images/tab_wc_right_on.gif';
+}
+
+function change_wc_off(elt)
+{
+  document.getElementById(elt).height = '39';
+  document[elt + '_left'].src = 'images/tab_wc_left.gif';
+  document.getElementById(elt + '_middle').style.background = 'url(images/tab_wc_middle.gif)';
+  document[elt + '_right'].src = 'images/tab_wc_right.gif';
 }
 </script>
 
@@ -73,6 +108,8 @@ function onclickFlashAnimation(flashid)
 <body bgcolor="white" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0">
 <center>
 <table width="755" cellspacing="0" cellpadding="0" border="0">
+
+
 <form class="normaltext" name="languageform"></form>
 <tbody><tr>
 <td width="755" height="64" valign="center" class="boldtext">
@@ -92,17 +129,17 @@ function onclickFlashAnimation(flashid)
 <script language="javascript">
 function change_language()
 {
-  switch (document.languageform.language.selectedIndex) {
-    case 0: l = 'en'; break;
-    case 1: l = 'fr'; break;
-  }
-  document.location.href = 'http://www.estara.com/' + l + '/';
+  var l = document.languageform.language.options[document.languageform.language.selectedIndex].value;
+  document.location.href = '/' + l + '/aboutus/privacy.php';
 }
 </script>
 
 <select name="language" class="normaltext" onchange="change_language();">
-<option selected="">English
-</option><option>Français
+
+<option value="en" selected="">English
+</option><option value="es">Español
+</option><option value="fr">Français
+
 </option></select>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -110,7 +147,8 @@ function change_language()
 </tr>
 
 <tr>
-<td width="613" height="31">&nbsp;</td>
+<td width="613" height="31"><script language="JavaScript" src="http://as00.estara.com/webcare/webevents/webeventjs.php?accountid=200008070000&amp;Template=267&amp;screenresvar=4&amp;colordepthvar=5&amp;browservar=6&amp;osvar=7"></script>
+<noscript><img src="http://as00.estara.com/webcare/webevents/webevent.php?accountid=200008070000&Template=267" border="0"></noscript></td>
 </tr>
 </tbody></table>
 </td>
@@ -118,21 +156,85 @@ function change_language()
 
 
 <tr>
-<td width="755" height="44" align="right"><a href="index.php?referrer=%2Faboutus%2Fprivacy.php" onmouseover="changeImages('home', 'images/home_on.gif');" onmouseout="changeImages('home', 'images/home.gif');"><img name="home" src="images/home.gif" width="56" height="33" border="0"></a><a href="services/" onmouseover="changeImages('servicesandproducts', 
-'images/servicesandproducts_on.gif');" onmouseout="changeImages('servicesandproducts', 
-'images/servicesandproducts.gif');"><img name="servicesandproducts" src="images/servicesandproducts.gif" width="138" height="33" border="0"></a><a href="services/customers.php" onmouseover="changeImages('customers', 'images/customers_on.gif');" onmouseout="changeImages('customers', 'images/customers.gif');"><img name="customers" src="images/customers.gif" width="83" height="33" border="0"></a><a href="services/xtras.php" onmouseover="changeImages('estaraxtras', 'images/estaraxtras_on.gif');" onmouseout="changeImages('estaraxtras', 'images/estaraxtras.gif');"><img name="estaraxtras" src="images/estaraxtras.gif" width="90" height="33" border="0"></a><a href="services/technology.php" onmouseover="changeImages('estaratechnology', 
-'images/estaratechnology_on.gif');" onmouseout="changeImages('estaratechnology', 
-'images/estaratechnology.gif');"><img name="estaratechnology" src="images/estaratechnology.gif" width="122" height="33" border="0"></a><!--<a href="aboutus/news_main.php" 
-onmouseover="changeImages('newsandevents', 
-'images/newsandevents_on.gif');" onmouseout="changeImages('newsandevents', 
-'images/newsandevents.gif');"><img name="newsandevents" 
-src="images/newsandevents.gif" width="101" height="33" 
-border="0"></a>--><a href="aboutus/" onmouseover="changeImages('company', 
-'images/company_on.gif');" onmouseout="changeImages('company', 
-'images/company.gif');"><img name="company" src="images/company.gif" width="74" height="33" border="0"></a><a href="webcare/" onmouseover="changeImages('webcaretoolsentrance', 
-'images/webcaretoolsentrance_on.gif');" onmouseout="changeImages('webcaretoolsentrance', 
-'images/webcaretoolsentrance.gif');" onclick="window.open('https://webcare.estara.com/');"><img name="webcaretoolsentrance" src="images/webcaretoolsentrance.gif" width="114" height="44" border="0"></a></td>
+<td width="755" height="44" align="right" valign="bottom">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+
+							
+<td valign="bottom">
+<table id="home" cellspacing="0" cellpadding="0" border="0" height="28" style="cursor: pointer; cursor: hand;" onmouseover="change_on('home');" onmouseout="change_off('home');" onclick="location.href = 'http://www.estara.com/index.php?referrer=%2Faboutus%2Fprivacy.php';">
+<tbody><tr>
+<td width="12"><img name="home_left" src="images/tab_left.gif" width="12"></td>
+<td align="middle" id="home_middle" background="images/tab_middle.gif"><a class="tabtext" href="index.php?referrer=%2Faboutus%2Fprivacy.php">Home</a></td>
+<td width="11"><img name="home_right" src="images/tab_right.gif" width="11"></td>
 </tr>
+</tbody></table>
+</td>
+
+							
+<td valign="bottom">
+<table id="servicesandproducts" cellspacing="0" cellpadding="0" border="0" height="28" style="cursor: pointer; cursor: hand;" onmouseover="change_on('servicesandproducts');" onmouseout="change_off('servicesandproducts');" onclick="location.href = 'http://www.estara.com/services/';">
+<tbody><tr>
+<td width="12"><img name="servicesandproducts_left" src="images/tab_left.gif" width="12"></td>
+<td align="middle" id="servicesandproducts_middle" background="images/tab_middle.gif"><a class="tabtext" href="services/">Services &amp; Products</a></td>
+<td width="11"><img name="servicesandproducts_right" src="images/tab_right.gif" width="11"></td>
+</tr>
+</tbody></table>
+</td>
+
+							
+<td valign="bottom">
+<table id="customers" cellspacing="0" cellpadding="0" border="0" height="28" style="cursor: pointer; cursor: hand;" onmouseover="change_on('customers');" onmouseout="change_off('customers');" onclick="location.href = 'http://www.estara.com/services/customers.php';">
+<tbody><tr>
+<td width="12"><img name="customers_left" src="images/tab_left.gif" width="12"></td>
+<td align="middle" id="customers_middle" background="images/tab_middle.gif"><a class="tabtext" href="services/customers.php">Customers</a></td>
+<td width="11"><img name="customers_right" src="images/tab_right.gif" width="11"></td>
+</tr>
+</tbody></table>
+</td>
+
+							
+<td valign="bottom">
+<table id="estaraxtras" cellspacing="0" cellpadding="0" border="0" height="28" style="cursor: pointer; cursor: hand;" onmouseover="change_on('estaraxtras');" onmouseout="change_off('estaraxtras');" onclick="location.href = 'http://www.estara.com/services/xtras.php';">
+<tbody><tr>
+<td width="12"><img name="estaraxtras_left" src="images/tab_left.gif" width="12"></td>
+<td align="middle" id="estaraxtras_middle" background="images/tab_middle.gif"><a class="tabtext" href="services/xtras.php">eStara Xtras</a></td>
+<td width="11"><img name="estaraxtras_right" src="images/tab_right.gif" width="11"></td>
+</tr>
+</tbody></table>
+</td>
+
+							
+<td valign="bottom">
+<table id="estaratechnology" cellspacing="0" cellpadding="0" border="0" height="28" style="cursor: pointer; cursor: hand;" onmouseover="change_on('estaratechnology');" onmouseout="change_off('estaratechnology');" onclick="location.href = 'http://www.estara.com/services/technology.php';">
+<tbody><tr>
+<td width="12"><img name="estaratechnology_left" src="images/tab_left.gif" width="12"></td>
+<td align="middle" id="estaratechnology_middle" background="images/tab_middle.gif"><a class="tabtext" href="services/technology.php">eStara Technology</a></td>
+<td width="11"><img name="estaratechnology_right" src="images/tab_right.gif" width="11"></td>
+</tr>
+</tbody></table>
+</td>
+
+							
+<td valign="bottom">
+<table id="company" cellspacing="0" cellpadding="0" border="0" height="28" style="cursor: pointer; cursor: hand;" onmouseover="change_on('company');" onmouseout="change_off('company');" onclick="location.href = 'http://www.estara.com/aboutus/';">
+<tbody><tr>
+<td width="12"><img name="company_left" src="images/tab_left.gif" width="12"></td>
+<td align="middle" id="company_middle" background="images/tab_middle.gif"><a class="tabtext" href="aboutus/">Company</a></td>
+<td width="11"><img name="company_right" src="images/tab_right.gif" width="11"></td>
+</tr>
+</tbody></table>
+</td>
+
+
+<td valign="bottom">
+<table id="webcaretoolsentrance" cellspacing="0" cellpadding="0" border="0" height="39" style="cursor: pointer; cursor: hand;" onmouseover="change_wc_on('webcaretoolsentrance');" onmouseout="change_wc_off('webcaretoolsentrance');" onclick="location.href = 'https://webcare.estara.com/';">
+<tbody><tr>
+<td width="12"><img name="webcaretoolsentrance_left" src="images/tab_wc_left.gif" width="12"></td>
+<td align="middle" id="webcaretoolsentrance_middle" background="images/tab_wc_middle.gif"><a class="tabtext" href="https://webcare.estara.com/">WebCare Tools<br>Entrance</a></td>
+<td width="24"><img name="webcaretoolsentrance_right" src="images/tab_wc_right.gif" width="24"></td>
+</tr></tbody></table></td></tr></tbody></table></td></tr>
+
 
 <tr>
 <td>
@@ -194,7 +296,7 @@ border="0"></a>--><a href="aboutus/" onmouseover="changeImages('company',
 </tr>
 
 <tr>
-<td align="center"><input type="text" style="font-size: 10px; width: 95%;" name="email" value="email address" size="15" onfocus="document.emailform.email.value = '';"></td>
+<td align="center"><input type="text" style="font-size: 10px; width: 95%;" name="email" value="email address" size="13" onfocus="document.emailform.email.value = '';"></td>
 
 </tr>
 
@@ -206,7 +308,6 @@ border="0"></a>--><a href="aboutus/" onmouseover="changeImages('company',
 </tbody></table>
 
 
-
 <br>
 
 </td>
@@ -215,12 +316,16 @@ border="0"></a>--><a href="aboutus/" onmouseover="changeImages('company',
 
 <td width="608" valign="top">
 
+<div class="pageheader"></div>
+
+
 <div class="pagebody">
+
 <b>eStara Privacy Statement</b>
 <br>eStara Inc. ("eStara") is a licensee of the TRUSTe Privacy Program.  This privacy statement discloses the privacy practices for the eStara website located at <a class="boldlink" href="http://www.estara.com/">http://www.estara.com</a> ("the Site").
 
 <p class="COPY">
-<a href="https://www.truste.org/ivalidate.php?url=www.estara.com"><img src="images/clickseal-nobox-aliased2white.gif" align="right" border="0"></a>
+<a href="https://www.truste.org/ivalidate.php?url=www.estara.com"><img src="/images/clickseal-nobox-aliased2white.gif" align="right" border="0"></a>
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  Because eStara wants to demonstrate its commitment to your privacy, it has agreed to disclose its information gathering practices and have its privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, eStara has agreed to notify you of:
 
 </p><ol>
@@ -290,7 +395,7 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 </p><p class="COPY"><b>Disclaimer</b>
 <br>Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
-</p><p class="COPY">If you have any questions or concerns regarding this statement, you should first contact eStara by emailing at <a class="boldlink" href="mailto:marketing@estara.com">marketing@estara.com</a>.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a class="boldlink" href="http://www.truste.org/users/users_watchdog.php">http://www.truste.org/users/users_watchdog.php</a>.  TRUSTe will serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.
+</p><p class="COPY">If you have any questions or concerns regarding this statement, you should first contact eStara by emailing at <a class="boldlink" href="mailto:marketing@estara.com">marketing@estara.com</a>.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a class="boldlink" href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>.  TRUSTe will serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.
 </p></div>
 
 
@@ -317,7 +422,6 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 <td width="1" height="22" bgcolor="#91AFC4"><img src="images/clear.gif" width="1" height="1" border="0"></td>
 
 <td height="22" class="normaltext" align="center"><font color="#949494">© 2003-2004, eStara, Inc. All Rights Reserved - <a class="normaltext" href="aboutus/privacy.php"><font color="#949494">Privacy Statement</font></a></font></td>
-
 <td width="1" height="22" bgcolor="#91AFC4"><img src="images/clear.gif" width="1" height="1" border="0"></td>
 </tr>
 </tbody></table>
