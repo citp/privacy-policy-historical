@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204202934id_/http%3A//www.tpww.net/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602204400id_/http%3A//www.tpww.net/misc/privacy.html) for the most accurate reproduction.*
 
 # TPWW.net - Privacy Statement
 
