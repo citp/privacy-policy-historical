@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halomaps.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204221628id_/http%3A//www.halomaps.org/index.cfm%3Fpg%3D1%26nid%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halomaps.org privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404154619id_/http%3A//www.halomaps.org/index.cfm%3Fpg%3D1%26nid%3D82) for the most accurate reproduction.*
 
 # HALO CE Maps - The Halo CE Maps Archive the place for Halo CE maps for the Halo Custom Edition game
 
@@ -53,7 +53,7 @@ UXB Internet will not share, sell, transfer or disclose your email address for i
 CHANGES TO OUR PRIVACY POLICY   
 UXB Internet reserves the right to revise, amend, or modify this Policy, our Internet Service Agreement and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Internet Service 
 
-[(Back to Main)](https://web.archive.org/web/20041204221628id_/http%3A//www.halomaps.org/index.cfm)     [(News Archive list)](https://web.archive.org/web/20041204221628id_/http%3A//www.halomaps.org/index.cfm?pg=4)
+[(Back to Main)](https://web.archive.org/web/20050404154619id_/http%3A//www.halomaps.org/index.cfm)     [(News Archive list)](https://web.archive.org/web/20050404154619id_/http%3A//www.halomaps.org/index.cfm?pg=4)
 
   
 
