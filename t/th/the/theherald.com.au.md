@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theherald.com.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205031234id_/http%3A//www.f2.com.au/core/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theherald.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012834id_/http%3A//www.f2.com.au/core/privacy) for the most accurate reproduction.*
 
 # f2 Membership - f2 Network Privacy Policy
 
@@ -15,9 +15,11 @@ This policy sets out how f2 uses your personal information and explains:
 
 
 
-This policy applies to f2 Limited, f2 Australia & New Zealand Pty Limited and Personal Investment Direct Access Pty Limited ("f2"). The policy explains how f2 uses personal information collected through the f2 Network. For more information on the sites that comprise the f2 Network, visit [www.f2.com.au](http://www.f2.com.au/). 
+The f2 Network is the online subsidiary of John Fairfax Holdings and includes leading news and classified sites such as smh.com.au, theage.com.au, drive.com.au, domain.com.au, mycareer.com.au and afr.com. 
 
-f2 is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism. f2 is exempt from complying with the Privacy Act in relation to its journalism activities. f2 has publicly committed to complying with the [Australian Press Council Privacy Standards](http://www.presscouncil.org.au/pcsite/priv_stand.html) for the use of personal information in the course of journalism. 
+This policy applies to f2 Limited, f2 Australia & New Zealand Pty Limited and Personal Investment Direct Access Pty Limited ("f2"). The policy explains how f2 uses personal information collected through the f2 Network. For more information on the sites that comprise the f2 Network, visit www.f2.com.au. 
+
+f2 is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism. f2 is exempt from complying with the Privacy Act in relation to its journalism activities. f2 has publicly committed to complying with the Australian Press Council Privacy Standards for the use of personal information in the course of journalism. 
 
 f2 may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to f2's operations. All personal information held by f2 will be governed by f2's most recent policy, posted on the f2 Network. 
 
@@ -59,9 +61,9 @@ f2 may also provide your information to:
 
 
 
-f2 uses DoubleClick International Asia B.V. to deliver the e-mails and e-newsletters you may ask to receive. DoubleClick International generally sends this data to the United States and Canada, but may transfer it to other countries where appropriate. By requesting an e-mail or e-newsletter from f2, you agree that Doubleclick may use your personal information in this way. If you would like to know more about the information gathering practices and 'opt-out' procedures of DoubleClick International, visit:[http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&)
+f2 uses DoubleClick International Asia B.V. to deliver the e-mails and e-newsletters you may ask to receive. DoubleClick International generally sends this data to the United States and Canada, but may transfer it to other countries where appropriate. By requesting an e-mail or e-newsletter from f2, you agree that Doubleclick may use your personal information in this way. If you would like to know more about the information gathering practices and 'opt-out' procedures of DoubleClick International, visit:http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&
 
-f2 shares web site usage information about visitors to the f2 Network who have received a targeted promotional e-mail campaign, with DoubleClick International B.V. for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, f2 and its third-party advertising company will keep information on the email campaign and some of the pages you visit on the f2 Network through the use of pixel tags (also called clear gifs). For more information about our advertising company, visit [www.privacychoices.org](http://www.privacychoices.org/). To opt out of the targeting program, please visit [www.privacychoices.org/optout.htm](http://www.privacychoices.org/optout.htm)
+f2 shares web site usage information about visitors to the f2 Network who have received a targeted promotional e-mail campaign, with DoubleClick International B.V. for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, f2 and its third-party advertising company will keep information on the email campaign and some of the pages you visit on the f2 Network through the use of pixel tags (also called clear gifs). For more information about our advertising company, visit www.privacychoices.org. To opt out of the targeting program, please visit www.privacychoices.org/optout.htm
 
 If f2 sells part of its business, personal information may be part of the assets transferred to the purchaser. 
 
@@ -69,6 +71,9 @@ The f2 Network contains features where you are invited to send personal informat
 
 **OfferWatch**  
 OfferWatch is a service which provides access to special offers about products or services you have opted-in to receive. In order to gain access to Offerwatch, you must be a member of f2 and must supply f2 with personal information, including your name, e-mail address, gender, date of birth, postcode, country of residence and annual income. f2 will treat your personal information in accordance with this privacy policy. f2 may disclose aggregated statistical information which does not identify you personally to advertisers and other third parties for marketing, promotional, and other purposes. You can correct or change the information collected during subscription to OfferWatch at any time by following the instructions in our "My Member Details" area. If you experience problems or have questions about OfferWatch, email f2 at privacy@f2network.com.au. 
+
+**Cracker**  
+f2 is not responsible for any disclosure of email addresses between two parties using the anonymize email service on [cracker.com.au](http://cracker.com.au/)
 
 **How f2 treats sensitive information**  
 **"Sensitive Information"** means information relating to a person's racial or ethnic origin, membership of political bodies, religion, membership of a trade union or professional or trade association, sexual preferences, criminal record and health. 
