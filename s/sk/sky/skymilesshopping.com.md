@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skymilesshopping.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406182946id_/http%3A//www.skymilesshopping.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymilesshopping.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024223335id_/http%3A//skymilesshopping.com/privacy.html) for the most accurate reproduction.*
 
 # Delta Air Lines SkyMiles: Privacy
 
@@ -13,6 +13,8 @@ From time to time you may be asked to respond to surveys and questionnaires in o
 Your personally identifiable information is never released outside of our program or to agents without your permission. Aggregated data from our members may be shared with our network of merchants but it will not contain personally identifiable information such as your name or address. For example, we may let SkyMiles Shopping merchants know that approximately"X% of our members are male" but no names would be transmitted with that information. 
 
 As a SkyMiles Shopping member, you may request to receive promotional messages from merchants within our network (opting-in for communications). In order to meet your desire to receive promotional offers, it may be necessary to send data files containing personally identifiable information (name, address or email address) to third party agents of Netcentives. These third party agents (data processors, fulfillment companies or mail processors) are contractually obligated to maintain the confidentiality of any information they may receive and are forbidden from using the information in any other way than to provide the requested services to Netcentives. They may not use, release or resell the data. 
+
+In addition we may assign, sell, license, or otherwise transfer to a third party, your name, address, email address, member name and any other personal information in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of the assets or stock of Netcentives Inc. or its affiliated entities. 
 
 **How we contact you:**   
 SkyMiles Shopping occasionally sends its members emails and/or print communications describing new earning or special offer opportunities. We will also provide members with a member guide and quarterly newsletters, both of which give details on the merchant network. You can opt-out of receiving any communications from the program without giving up your membership (see below). 
