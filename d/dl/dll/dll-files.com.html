@@ -1,8 +1,51 @@
-<!--The following is the downloaded HTML source of the dll-files.com privacy policy that was archived on 2002-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205221424id_/http%3A//www.dll-files.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dll-files.com privacy policy that was archived on 2003-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030416004054id_/http%3A//dll-files.com/privacy.shtml) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script language="JavaScript"> 
+<!--  
+//frequency cap,1 pop-under per number of hours
+var frequencyCap = 0; //hours 
+function setCookie(cookieName,cookieValue, expirehours) {
+
+  if (frequencyCap > 0){
+	var today = new Date();
+	var expire = new Date();
+ 	expire.setTime(today.getTime() + 3600000 * frequencyCap);
+ 	document.cookie = cookieName+"="+escape(cookieValue)
+                 + ";expires="+expire.toGMTString();
+  }else{
+ 	document.cookie = cookieName+"="+escape(cookieValue);
+  }
+
+
+}
+function ReadCookie(cookieName) {
+ var theCookie=""+document.cookie;
+ var ind=theCookie.indexOf(cookieName);
+ if (ind==-1 || cookieName=="") return ""; 
+ var ind1=theCookie.indexOf(';',ind);
+ if (ind1==-1) ind1=theCookie.length; 
+ return unescape(theCookie.substring(ind+cookieName.length+1,ind1));
+}
+if (ReadCookie('PayPopupAds') != 'yes')  
+{ 
+ setCookie('PayPopupAds','yes', frequencyCap); 
+//Pop-Under Code Here
+ document.write('<SCRI'+'PT LANGUAGE="JavaScript1.1" '); 
+ document.write(' SRC="http://www.PayPopup.com/popup.php?id=fille97&pop=enter&t=5&subid=6758">'); 
+ document.write('</SCR'+'IPT>'); 
+//Pop-Under Code End
+} 
+
+// --> 
+</script><script language="JavaScript1.1" src="http://www.PayPopup.com/popup.php?id=fille97&amp;pop=enter&amp;t=5&amp;subid=6758"></script> 
+<!-- PayPopup.com Advertising Code End -->
+
+ 
+
+
 <title>www.dll-files.com - 
+
 Privacy Policy</title>
 
 	<meta name="rating" content="General">
@@ -15,9 +58,12 @@ Privacy Policy</title>
 if(window.top!=window) window.top.location = window.location;
 //-->
 </script>
-<table border="0" cellspacing="0" cellpadding="1" width="100%" height="80" style="border: #000000; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 3px; border-left-width: 0px">
+
+
+
+<table border="0" cellspacing="0" cellpadding="1" width="100%" style="border: #000000; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 3px; border-left-width: 0px">
 <tbody><tr>
-			<td bgcolor="#330099" align="CENTER" valign="MIDDLE">
+			<td bgcolor="#330099" align="CENTER" valign="MIDDLE" height="80">
 <table cellpadding="0" cellspacing="0" height="80">
 <tbody><tr><td></td></tr>
 <tr><td align="CENTER" valign="BOTTOM">&nbsp;<a href="http://www.dll-files.com/"><img src="/pics/small_logo.gif" width="140" height="11" border="0"></a>&nbsp;</td></tr>
@@ -45,9 +91,12 @@ document.write(msg);
 </script>Add dll-files.com to your bookmarks!<br>Press Ctrl + D at the same time!</font>
 <!-- Slut på bookmark --></td></tr></tbody></table> <!-- Slut add bookmark TABLE -->
 			</td>
-			<td bgcolor="#330099" align="CENTER" valign="MIDDLE"><font size="1" color="#9999EE">Några ord från våra sponsorer/Some words from our sponsors<br>
+			<td bgcolor="#330099" align="CENTER" valign="MIDDLE"><font size="1" color="#9999EE">Some words from our sponsors<br>
 <table cellspacing="0"><tbody><tr><td>
-<script language="JavaScript" src="http://impse.tradedoubler.com/imp/pool/js/438/329126" charset="ISO-8859-1"></script>
+<!-- DarkBlue.com tracking code for site "www.dll-files.com - download all your missing dll-files" (ID #11607) --> 
+<a href="http://dbbsrv.com/refer/11607/10001821" onmouseover="window.status=&quot;PriceDream- Internet Security&quot;; return true;" onmouseout="window.status=&quot;&quot;; return true;"><img src="http://dbbsrv.com/image/11607/10001821" border="0" width="468" height="60"></a>
+
+<!-- End of DarkBlue.com tracking code -->
 
 </td><td><img src="/pics/sponsor5.gif" width="10" height="60"></td></tr></tbody></table>
 			</font></td>
@@ -79,12 +128,17 @@ search for dll-files<br>
 		<table border="0" cellspacing="0" cellpadding="8">
 			<tbody><tr>
 				<td>
+<center><table border="0" width="150"><tbody><tr><td colspan="2" align="CENTER"><div style="font-family: Verdana, Arial; color: #EEEEEE; font-size: 10px">Language:</div></td></tr>
+			<tr><td align="CENTER" valign="MIDDLE"><a href="/"><img src="/flagusa.gif" width="35" height="22" alt="English" border="0"></a></td>
+			    <td align="CENTER" valign="MIDDLE"><a href="/se/"><img src="/flagswe.gif" width="35" height="22" alt="Svenska" border="0"></a></td>
+			</tr></tbody></table></center>
+<hr>
 <br>
-<a href="/index.shtml" style="font-family: Arial, Verdana; color: #DDDDFF; font-size: 13px">Home</a><br>
+<a href="/" style="font-family: Arial, Verdana; color: #DDDDFF; font-size: 13px">Home</a><br>
 <br>
 <a href="/dllindex/index.shtml" style="font-family: Verdana; color: #DDDDFF; font-size: 13px">Download dll-files</a><br>
 <br>
-<a href="/sfaq.shtml" style="font-family: Verdana; color: #DDDDFF; font-size: 13px">Help (FAQ)</a><br>
+<a href="/efaq.shtml" style="font-family: Verdana; color: #DDDDFF; font-size: 13px">Help (FAQ)</a><br>
 <br>
 <a href="/request.shtml" style="font-family: Verdana; color: #DDDDFF; font-size: 13px">Suggest-a-file</a><br>
 <br>
@@ -108,25 +162,31 @@ search for dll-files<br>
 </font>
 </center>
 <hr>
-<br>
-<font size="-2" color="#DDDDFF">
-Please take part of our sponsors offers:
-</font>
-<br>
 <font size="-2">
 <br>
-<a href="http://tracker.tradedoubler.com/pan/TrackerServlet?p=49&amp;a=329126&amp;g=0" target="_blank" style="font-family: Verdana; color: #DDDDFF">BRL Electronics</a><br>
-<a href="http://tracker.tradedoubler.com/pan/TrackerServlet?p=175&amp;a=329126&amp;g=0" target="_blank" style="font-family: Verdana; color: #DDDDFF">Tradera</a><br>
-<br>
-<!--<CENTER><A HREF="http://www.d-evil.com/cgi-bin/bustoppen/in.cgi?id=fille97" ALT=" BusTessan " target="_blank">
-<IMG SRC="/bustessan.gif" border="0"></a></CENTER>-->
-<br>
-<hr>
-<br>
 <center>
-<script language="javascript" src="http://www.qksz.net/1e-6gos"> </script>
+<a href="http://www.qksrv.net/click-804237-1489230" target="_blank" onmouseover="window.status='http://www.askdrtech.com/?cj=yes';return true;" onmouseout="window.status=' ';return true;">
+<img src="http://www.qksrv.net/image-804237-1489230" width="100" height="100" alt="Ask Dr. Tech" border="0"></a>
+<br>
+<br>
+<br>
+<div style="font-family: Verdana; color: #DDDDFF; font-size: 11px"><b>Where are you from?</b><br>
+<a href="javascript:void(0)" onclick="window.open('http://pub6.bravenet.com/guestmap/show.php?usernum=446927516&amp;lightmap=0&amp;icons=0&amp;&amp;entrylist=0&amp;zoom=0&amp;welcome=1','bnetguestmap','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=720,height=470,top=110,left=110')">
+<img src="/guestmap.gif" style="width: 100px; height: 35px; border: 0px;"></a>
+</div>
 
-				</center></font></td>
+<br>
+<br>
+
+<!--
+<a href="http://www.tech24.com/adver.asp?targetid=1010" target="_blank">
+<img src="/tech24/tower.gif" width="120" height="240" alt="" border="0"></a>
+-->
+<br>
+<br>
+</center>
+
+				</font></td>
 			</tr>
 		</tbody></table>
 	  </td>
@@ -134,7 +194,7 @@ Please take part of our sponsors offers:
 	  <td valign="TOP" align="CENTER">
 		<table border="0" cellspacing="0" cellpadding="8">
 			<tbody><tr>
-				<td valign="TOP" rowspan="2">
+				<td valign="TOP" align="LEFT" rowspan="2">
 <br>
 <center>
 <br>
@@ -143,7 +203,6 @@ Please take part of our sponsors offers:
 <br>
 <hr width="80%">
 <br>
-
 
 
 <p>
@@ -172,33 +231,29 @@ Consumers can have this information corrected by writing to us at the above addr
 <hr>
 <br>
 <center>
-<font size="2" color="#2F0090">Några ord från våra sponsorer/Some words from our sponsors
+<font size="2" color="#2F0090">Some words from our sponsors<br>
 
-<script language="javascript" src="http://www.qksz.net/1e-6fq3"> </script><br>
+<!-- DarkBlue.com tracking code for site "www.dll-files.com - download all your missing dll-files" (ID #11607) --> 
+<a href="http://dbbsrv.com/refer/11607/10001821" onmouseover="window.status=&quot;PriceDream- Internet Security&quot;; return true;" onmouseout="window.status=&quot;&quot;; return true;"><img src="http://dbbsrv.com/image/11607/10001821" border="0" width="468" height="60"></a>
 
+<!-- End of DarkBlue.com tracking code --><br>
 <br>
 <br>
-<!-- STARTING OF VESPEREXCHANGE.COM BANNER CODE -->
-<script language="JavaScript">
-<!-- Hide script contents from old browsers.
-var id = 869427;
-var page = 80095;
-var random_vesperexchange_stamp = Math.floor(Math.random() * 1000000000);
-// End hiding here -->
-</script>
-<script language="JavaScript" src="http://ads.vesperexchange.com/banner.js">
-</script>
-<noscript>
-<A HREF="http://ads.vesperexchange.com/clickme?869427:80095:0" target="_blank">
-<IMG SRC="http://ads.vesperexchange.com/showme?869427:80095:0" WIDTH=468 height=60 border=0 HSPACE=0 VSPACE=0 ALT="Part of the vesperexchange.com network!"><br>
-</A>
-<a href="http://www.vesperexchange.com" target="_blank">
-<img src="http://www.vesperexchange.com/img/menu.gif" width=468 height=16 border=0 hspace=0 vspace=0></a>
-</noscript>
-<!-- END OF VESPEREXCHANGE.COM BANNER CODE -->
 
 
-
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<table border="1" bordercolor="#000000" bgcolor="#DDDDFF" cellpadding="6" cellspacing="0"><tbody><tr><td align="CENTER"><b><font size="-1">Did our website help you to solve your computer problem?<br>
+Show your support by donating $2 to dll-files.com!</font></b><br>
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="webmaster@dll-files.com">
+<input type="hidden" name="item_name" value="dll-files.com">
+<input type="hidden" name="item_number" value="102">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax" value="0">
+<input type="image" src="https://www.paypal.com/images/x-click-but21.gif" border="0" name="submit" alt="Make a Donation to dll-files.com">
+</td></tr></tbody></table>
+</form>
 
 </font></center><font size="2" color="#2F0090">
 				</font></td>
@@ -230,7 +285,7 @@ document.write("usr=00040468P000");
 document.write("&refer="+escape(document.referrer)+"");
 document.write("&tips="+Math.random()+"");
 document.write("\" alt=\"AddFreeStats\" border=0></A>");
-// --></script><a href="http://top.addfreestats.com/cgi-bin/main.cgi?usr=00040468P000" target="_blank"><img src="http://www.addfreestats.com/cgi-bin/connect.cgi?usr=00040468P000&amp;refer=&amp;tips=0.05677450540450901" alt="AddFreeStats" border="0"></a>
+// --></script><a href="http://top.addfreestats.com/cgi-bin/main.cgi?usr=00040468P000" target="_blank"><img src="http://www.addfreestats.com/cgi-bin/connect.cgi?usr=00040468P000&amp;refer=&amp;tips=0.7682614651937787" alt="AddFreeStats" border="0"></a>
 <noscript>
 <a href="http://top.addfreestats.com/cgi-bin/main.cgi?usr=00040468P000" target="_blank">
 <img src="http://www.addfreestats.com/cgi-bin/connect.cgi?usr=00040468P000" border=0 alt="AddFreeStats.com Free Web Stats in real-time !"></A>
@@ -247,23 +302,24 @@ document.write("\" alt=\"AddFreeStats\" border=0></A>");
 <!-- END inlive CODE -->
 	</td>
 	<td>
-<a href="http://www.dll-files.com/computerinternet09.htm"> <img src="http://www.linkstoyou.com/heart.gif" border="0" width="42" height="42"></a>
+<a href="http://www.dll-files.com/computerinternet03.htm"> <img src="http://www.linkstoyou.com/heart.gif" border="0" width="42" height="42"></a>
 	</td>
 </tr>
 </tbody></table>
 <br>
 <p class="svenska">
 <font size="1">
-[ <a href="/privacy.shtml">Privacy Policy</a> ] [ <a href="/disclaimer.shtml">Disclaimer</a> ] [ <a href="/contact.shtml">Contact us</a> ]<br>
+[ <a href="/privacy.shtml">Privacy Policy</a> ] [ <a href="/disclaimer.shtml">Disclaimer</a> ] [ <a href="/contact.shtml">Contact us</a> ] [ <a href="/advertise.shtml">Advertising</a> ]<br>
 <br>
-[ <a href="http://www.webpromo-inc.com/pc" target="_blank">How to Build a Computer</a> ] [ <a href="http://www.webpromo-inc.com/linux" target="_blank">Linux Help Site</a> ] [ <a href="http://www.webpromo-inc.com/ebooks" target="_blank">Free Computer Training</a> ] [ <a href="http://www.my.bizpage.ca" target="_blank">My.BizPage.ca Free Web Hosting without Banners!</a> ] [ <a href="http://www.mybootdisks.com/" target="_blank">MyBootDisks.com Downloads</a> ] <br>
+[ <a href="http://www.bootdisk.com/" target="_blank">Bootdisk.Com</a> ] <br>
 <br>
 [ <a href="http://www.qksrv.net/click-804237-5523357" target="_blank" onmouseover="window.status='http://www.your-site.com';return true;" onmouseout="window.status=' ';return true;">Fast, Reliable Web Hosting - $5.00/mo</a><img src="http://www.qksrv.net/image-804237-5523357" width="1" height="1" border="0"> ] [ <a href="http://www.qksrv.net/click-804237-3216029" target="_blank" onmouseover="window.status='https://www.gotomypc.com/tr/affil/ps?Target=mm/g22lp.tmpl';return true;" onmouseout="window.status=' ';return true;">Access Your PC from Any Webbrowser - Free Trial</a><img src="http://www.qksrv.net/image-804237-3216029" width="1" height="1" border="0"> ] [ <a href="http://bserv.darkblue.com/refer/11607/10364" target="_blank"><img src="http://bserv.darkblue.com/noimg/11607/10364" border="0" width="0" height="0" style="display: none;">Webmasters! Earn 2c per click!</a> ]<br>
-[ <a href="http://www.qksrv.net/click-804237-9238426" target="_blank" onmouseover="window.status='http://www.speakwithageek.com';return true;" onmouseout="window.status=' ';return true;">Live Computer help, 5 day free trial at speakwithageek.com </a><img src="http://www.qksrv.net/image-804237-9238426" width="1" height="1" border="0"> ]<br>
+[ <script language="JavaScript" src="http://impgb.tradedoubler.com/imp/19538/761008" charset="ISO-8859-1"></script> ]<br>
 <br>
-© Copyright <a href="http://www.flit.se" target="_blank">flit</a> 1998-2002. All Rights Reserved.<br>
+© Copyright <a href="http://www.flit.se" target="_blank">flit</a> 1998-2003. All Rights Reserved.<br>
 <br>
 </font>
+<font size="1" color="#000000"><a href="http://www.network.nu/" target="_blank">Member of Swedish Webmaster Network</a></font>
 </p>
 <a href="/refs.shtml"><img src="/blank2.gif" border="0"></a>
 
