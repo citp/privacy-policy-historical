@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209112433id_/http%3A//www.deltafaucet.com/custserv/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622140842id_/http%3A//www.deltafaucet.com/custserv/statement.html) for the most accurate reproduction.*
 
 # Customer Service
 
@@ -28,5 +28,5 @@ If you have questions about our privacy statement or the practices of our site, 
 >  55 E. 111th Street   
 >  Indianapolis, IN 46280   
 >  [customerservice@deltafaucet.com](mailto:customerservice@deltafaucet.com)  
->  317-574-5565  
+>  1-800-345-DELTA (3358)  
 > 
