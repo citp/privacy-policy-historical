@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalbank.ca privacy policy that was archived on 2000-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000413082715id_/http%3A//royalbank.ca/privacy/commitment/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalbank.ca privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202225800id_/http%3A//royalbank.ca/privacy/commitment/index.html) for the most accurate reproduction.*
 
 # Royal Bank - Privacy
 
