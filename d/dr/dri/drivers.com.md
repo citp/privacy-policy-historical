@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606082229id_/http%3A//drivers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204052208id_/http%3A//www.drivers.com/privacy.php) for the most accurate reproduction.*
 
 # Drivers.com: Privacy Statement
 
@@ -12,7 +12,7 @@ To address those concerns, [PDE Publications](https://web.archive.org/aboutus.ph
 
 ### Summary
 
-We collect information from our users at several different points on our web site, including through the use of automated "cookies." Users provide personal information to us only if they wish to do so. Financial information is never shared with companies other than the financial institutions required to finalize the transaction. If you wish to change or modify information previously provided to Drivers.com, use our [Contact Us page](https://web.archive.org/contact.php), or send an e-mail request to [pde@drivers.com](mailto:pde@drivers.com). 
+We collect information from our users at several different points on our web site, including through the use of automated "cookies." Users provide personal information to us only if they wish to do so. Financial information is never shared with companies other than the financial institutions required to finalize the transaction. If you wish to change or modify information previously provided to Drivers.com, use our [Contact page](https://web.archive.org/contact.php), or send an e-mail request to [pde@drivers.com](mailto:pde@drivers.com). 
 
 ### Details
 
@@ -58,21 +58,21 @@ From time-to-time our site requests information from users via surveys or contes
 
 **Correction/Updating Personal Information**
 
-If a user's personally identifiable information (such as a postal address) changes, or if a user no longer desires our service, we will endeavor to provide a way to correct, update, or remove that user's personal data provided to us. This can be done by using our [Contact Us page](https://web.archive.org/contact.php), or by sending e-mail to [pde@drivers.com](mailto:pde@drivers.com).
+If a user's personally identifiable information (such as a postal address) changes, or if a user no longer desires our service, we will endeavor to provide a way to correct, update, or remove that user's personal data provided to us. This can be done by using our [Contact page](https://web.archive.org/contact.php), or by sending e-mail to [pde@drivers.com](mailto:pde@drivers.com).
 
 **Choice/Opt-out**
 
-Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. Users who no longer wish to receive our newsletters or other services may opt-out by using our [Contact Us page](https://web.archive.org/contact.php), or by sending e-mail to [pde@drivers.com](mailto:pde@drivers.com).
+Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. Users who no longer wish to receive our newsletters or other services may opt-out by using our [Contact page](https://web.archive.org/contact.php), or by sending e-mail to [pde@drivers.com](mailto:pde@drivers.com).
 
 **Contacting Drivers.com**
 
-If you have any questions about this privacy statement, the practices of this site, or your business dealings with this site, please email [pde@Drivers.com](mailto:pde@drivers.com) or use the form on the [Contact Us page](https://web.archive.org/contact.php). Thank you for your interest in our policy on visitor privacy, and in Drivers.com in general. We hope your questions have been answered satisfactorily.
+If you have any questions about this privacy statement, the practices of this site, or your business dealings with this site, please email [pde@Drivers.com](mailto:pde@drivers.com) or use the form on the [Contact page](https://web.archive.org/contact.php). Thank you for your interest in our policy on visitor privacy, and in Drivers.com in general. We hope your questions have been answered satisfactorily.
 
 For all inquiries please [contact the publisher](https://web.archive.org/contact.php): 
 
 PDE Publications Inc.   
 310–5334 Yonge Street   
 Toronto, Ontario, Canada M2N 6M2   
-Telephone: (416) 767-4885   
+Telephone: (416) 767-4885 (10 am to 8 pm EST Mon-Fri)  
 E-Mail: [pde@drivers.com](mailto:pde@drivers.com)  
 
