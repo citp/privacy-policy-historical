@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdschools.org privacy policy that was archived on 2003-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031114174051id_/http%3A//www.psdschools.org/misc/privacy.aspx%3Faffid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdschools.org privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614133001id_/http%3A//www.psdschools.org/misc/privacy.aspx%3Faffid%3D0) for the most accurate reproduction.*
 
 # PSD Privacy Policy
 
@@ -26,7 +26,7 @@ While personal information is protected, we sometimes collect anonymous data abo
 The Poudre School District website may place a small text file, called a "cookie", in the browser files of your computer. A cookie is used to track your session on the website as you traverse different pages. It is used by the server to differentiate you from another user. It is completely anonymous and does not contain any personal information about you. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being set. If you choose to not accept cookies, the website may not perform as expected.
 
  **Kids and Parents**  
-The entire Poudre School District website is kid safe and contains no material that would be considered offensive or meant for adult users only. If you feel any portion of the website content is questionable please [contact us](http://www.psdschools.com/contact).
+The entire Poudre School District website is kid safe and contains no material that would be considered offensive or meant for adult users only. If you feel any portion of the website content is questionable please [contact us](http://www.psdschools.org/contact).
 
  **Log files**  
 The District uses Internet Protocol ("IP") addresses to help diagnose problems with our server and to administer our website. IP addresses are used to gather broad demographic information, such as a visitor's country, operating system, browser types, frequency of visit, and so on.
@@ -37,7 +37,7 @@ Poudre School District takes reasonable precautions to protect your personal inf
  **Contact Information**  
 If you have comments, questions, or concerns about our privacy policy please contact us in one of the following ways:
 
-Send email to: [webmaster@psdschools.com](mailto:webmaster@psdschools.com)
+Send email to: [webmaster@psdschools.org](mailto:webmaster@psdschools.org)
 
 Send postal mail to the following address:   
 PSD Webmaster  
