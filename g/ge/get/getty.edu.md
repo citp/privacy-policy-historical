@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217220734id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608204801id_/http%3A//getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement (Getty About Us)
 
-In order to improve the content of our Web sites, our web server automatically records the IP addresses of visitors to the sites so that we may collect information on how visitors use the Getty online environment. We will also record your email address for this same purpose if you email us. 
+In order to improve the content of our Web sites, our web server automatically records the IP addresses of visitors to the sites so that we may collect information on how visitors use the Getty online environment. We will also record your email address for this same purpose if you email us. In addition, if you opt to receive occasional email notices of Getty programs, news, and events, we will also record your contact address.
 
 The standard web, gopher, and ftp information servers at this site, like all other web, gopher, and ftp servers, create local log file entries containing connection related technical data, but no personally-identifiable information not provided explicitly by the user. Their data entries in these logs are used only for server and network operation and maintenance, and are not related to outside entities.
 
