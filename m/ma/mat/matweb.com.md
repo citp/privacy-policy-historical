@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203111148id_/http%3A//www.matweb.com/reference/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609092744id_/http%3A//www.matweb.com/reference/privacy.asp) for the most accurate reproduction.*
 
 # MatWeb - Privacy Statement
 
@@ -55,7 +55,7 @@ If you feel that this site is not following its stated information policy, you m
 ---  
 |  Please read our [](https://web.archive.org/reference/terms.asp) regarding materials data and our [](https://web.archive.org/reference/privacy.asp). Questions or comments about MatWeb? Please contact us at [](mailto:webmaster@matweb.com). We appreciate your input. 
 
-Site designed and maintained by [](http://www.aciwebs.com/). The contents of this web site, the MatWeb logo, and "MatWeb" are Copyright 1996-2003 by Automation Creations, Inc. MatWeb is intended for personal, non-commercial use. The contents, results, and technical data from this site may not be reproduced either electronically, photographically or substantively without permission from [](http://www.aciwebs.com/). 
+Site designed and maintained by [](http://www.aciwebs.com/). The contents of this web site, the MatWeb logo, and "MatWeb" are Copyright 1996-2004 by Automation Creations, Inc. MatWeb is intended for personal, non-commercial use. The contents, results, and technical data from this site may not be reproduced either electronically, photographically or substantively without permission from [](http://www.aciwebs.com/). 
 
   
 | 
