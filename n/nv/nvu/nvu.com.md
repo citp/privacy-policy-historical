@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the nvu.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401084148id_/http%3A//www.lindows.com/lindows_privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvu.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208031257id_/http%3A//www.linspire.com/lindows_privacypolicy.php) for the most accurate reproduction.*
 
-# Lindows.com - News
+# Linspire.com - News
 
 |    
   
 Privacy Statement    
-Lindows.com  Lindows.com has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within the Web Site. The following discloses the information gathering and dissemination practices for the Web Site located at the URL www.lindows.com (the "Site"). Lindows.com reserves the right to change this policy at any time by posting a new privacy policy at this location. Therefore, you are responsible for periodically checking the Privacy Statement for changes. 
+Linspire.com  Linspire.com has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within the Web Site. The following discloses the information gathering and dissemination practices for the Web Site located at the URL www.linspire.com (the "Site"). Linspire.com reserves the right to change this policy at any time by posting a new privacy policy at this location. Therefore, you are responsible for periodically checking the Privacy Statement for changes. 
 
 **_What Information We Collect and How We Use That Information:_**
 
@@ -23,29 +23,30 @@ Your browser is probably set to accept cookies. However, if you would prefer not
 
 **Public Forums** : This Site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-**Security** : This Site has security measures in place to protect against the loss, misuse and alteration of the information. Lindows.com uses Verisign to protect consumer transactions. 
+**Security** : This Site has security measures in place to protect against the loss, misuse and alteration of the information. Linspire.com uses Verisign to protect consumer transactions. 
 
 However, it is not possible to guaranty the security or integrity of information you disclose online since a sufficiently powerful attack from an unauthorized third party could compromise your data. 
 
-**Choice/Opt-Out** : Lindows.com may send communications regarding its services, the Site or otherwise. Lindows.com provides you the opportunity to opt-out of receiving such communications by indicating your desire to opt-out: 
+**Choice/Opt-Out** : Linspire.com may send communications regarding its services, the Site or otherwise. Linspire.com provides you the opportunity to opt-out of receiving such communications by indicating your desire to opt-out: 
 
-1\. in an email sent to [pr@lindows.com](mailto:pr@lindows.com), or  
+1\. in an email sent to Public Relations
+
 2\. by mail to the postal address located below. 
 
-**Correct/Update** : If any of your contact information changes or is incorrect, please email [pr@lindows.com](mailto:pr@lindows.com) with your new, correct information. 
+**Correct/Update** : If any of your contact information changes or is incorrect, please email Public Relations with your new, correct information. 
 
 **CNRsign**  
-This privacy policy applies to [CNRsign](http://www.lindows.com/cnrsign). Lindows.com may not disclose any personal information with developers who use the CNRsign technology without the users expressed permission.
+This privacy policy applies to [CNRsign](http://www.linspire.com/cnrsign). Linspire.com may not disclose any personal information with developers who use the CNRsign technology without the users expressed permission.
 
-**Certain Third Party Transactions** : Lindows.com may disclose personal information to third parties we engage to provide services that involve data processing on our behalf. Also, if some or all of the assets of Lindows.com are sold to a third party, such third party will be entitled to use the personal information disclosed by users of this Web Site, but only in accordance with the terms of this Privacy Statement. 
+**Certain Third Party Transactions** : Linspire.com may disclose personal information to third parties we engage to provide services that involve data processing on our behalf. Also, if some or all of the assets of Linspire.com are sold to a third party, such third party will be entitled to use the personal information disclosed by users of this Web Site, but only in accordance with the terms of this Privacy Statement. 
 
 **Contacting the Web Site** : If you have any questions about this privacy statement, the practices of this Site, or your dealings with this Site, you can contact 
 
-Lindows.com, Inc.  
+Linspire, Inc.  
 9333 Genesee Ave. 3rd Floor   
 San Diego, CA 92121
 
-You can also send email to [feedback@lindows.com](mailto:feedback@lindows.com). 
+You can also send email to support.
 
 |    
 ---|---|---
