@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202075216id_/http%3A//www.verisign.com/truste/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisign.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622041948id_/http%3A//verisign.com/truste/index.html) for the most accurate reproduction.*
 
 # VeriSign Inc. - www.verisign.com
 
-|   
 VeriSign, Inc.'s Privacy Statement  
-**Version 2.7 - November 15, 2002** [ ](https://www.truste.org/validate/35)
+**Version 2.7 - November 15, 2002**  
+[Printable Version](https://web.archive.org/truste/print.html)
 
-VeriSign is committed to providing you with excellent service for all of our products. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire VeriSign site (which covers verisign.com).
+[](https://www.truste.org/validate/35)VeriSign is committed to providing you with excellent service for all of our products. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire VeriSign site (which covers verisign.com).
 
-VeriSign is a licensee of the TRUSTe Privacy Program and is authorized to use the TRUSTe trustmark. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. VeriSign has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe because VeriSign wants to demonstrate its commitment to your privacy. Members of the TRUSTe Privacy Program agree to adhere to TRUSTe's established privacy principles of disclosure, choice, access, and security. Members of the TRUSTe Privacy Program also agree to comply with ongoing TRUSTe oversight and its alternative dispute resolution process. In keeping with TRUSTe's Privacy Program, this Privacy Statement will inform you of: 
+VeriSign is a licensee of the TRUSTe Privacy Program and is authorized to use the TRUSTe trustmark. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. VeriSign has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe because VeriSign wants to demonstrate its commitment to your privacy. Members of the TRUSTe Privacy Program agree to adhere to TRUSTe's established privacy principles of disclosure, choice, access, and security. Members of the TRUSTe Privacy Program also agree to comply with ongoing TRUSTe oversight and its alternative dispute resolution process. In keeping with TRUSTe's Privacy Program, this Privacy Statement will inform you of:
 
   * What information our site gathers about you
   * How we use and with whom we share the information we gather
   * Your ability to opt-out of future notifications
   * What security procedures we have in place to protect your information from loss, misuse, or alteration
   * How you can correct or update your information
+
+
 
 Questions regarding this Privacy Statement should be directed to [practices@verisign.com](mailto:practices@verisign.com). Please specify "Privacy Statement" in the subject line of your e-mail. If you do not receive a reply from us or if you believe that your inquiry has not been satisfactorily resolved, please contact [TRUSTe](http://www.truste.org/users/watchdog.html).
 
@@ -46,7 +48,7 @@ There are two ways in which you may explicitly and intentionally provide us with
 
 > **E-mail Request for Information or Registrations for Guides or Seminars** \- We use links throughout our site to provide you with the opportunity to contact us via e-mail to ask questions, request information and materials, register or sign up for guides or seminars, or provide comments and suggestions. You may also be offered the opportunity to have one of our representatives contact you personally to provide additional information about our products or services. To do so, we may request additional personal information from you, such as your name and telephone number, to help us satisfy your request.
 > 
-> **Enrollment** \- If you choose to enroll for one of our products or services, we will request certain information from you. Depending on the type of product or service that you request, you may be asked to provide different personal information. For certain products and services, we may require your name, address, telephone number, e-mail address, credit card number, bank account information, IP address, and/or social security number. Other products and services may require different or supplemental information from you in order to apply. For a detailed listing of the type of personal information requested for our various products, please refer to the enrollment page for the particular product or service. 
+> **Enrollment** \- If you choose to enroll for one of our products or services, we will request certain information from you. Depending on the type of product or service that you request, you may be asked to provide different personal information. For certain products and services, we may require your name, address, telephone number, e-mail address, credit card number, bank account information, IP address, and/or social security number. Other products and services may require different or supplemental information from you in order to apply. For a detailed listing of the type of personal information requested for our various products, please refer to the enrollment page for the particular product or service.
 
 **Statistical Information About Your Visit**
 
@@ -140,7 +142,7 @@ Changes to this Privacy Statement
 
 If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information then, with the prior written approval from TRUSTe, we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page.
 
-| Our mailing address is: | VeriSign, Inc.  
+Our mailing address is: | VeriSign, Inc.  
 ---|---  
   | Attention: Support  
   | 487 East Middlefield Road  
