@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marylandtaxes.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604042428id_/http%3A//marylandtaxes.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marylandtaxes.com privacy policy that was archived on 2003-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031120101056id_/http%3A//marylandtaxes.com/main/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the Comptroller of Maryland's Homepage
 
