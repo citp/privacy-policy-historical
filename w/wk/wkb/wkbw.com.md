@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603093626id_/http%3A//www.wkbw.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208085322id_/http%3A//www.wkbw.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # WKBW.com: Privacy
 
