@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the earnmydegree.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm%3Faction%3Dhom.cont%26cont%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnmydegree.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm%3Faction%3Dhom.cont%26cont%3Dprivacy) for the most accurate reproduction.*
 
 # Earn My Degree - Online Education, Degrees
 
 |   
 ---  
-[](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.home)  
+[](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.home)  
   
   
-[Associate's Programs](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=2)  
-[Bachelor's Programs](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=1)  
-[Certificate Programs](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=7)  
-[Doctoral](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=4)  
-[M.B.A. Programs](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=6)  
-[Master's Programs](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=3)  
-  
-  
-  
-[Business](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=2)  
-[Criminal Justice](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=3)  
-[Education/Teaching](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=5)  
-[Engineering](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=11)  
-[Graphic Design](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=9)  
-[Healthcare](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=6)  
-[Human Services](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=15)  
-[Legal/Paralegal](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=16)  
-[Liberal Arts](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=18)  
-[Nursing](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=10)  
-[Science & Math](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=17)  
-[Technology](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=4)  
+[Associate's Programs](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=2)  
+[Bachelor's Programs](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=1)  
+[Certificate Programs](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=7)  
+[Doctoral](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=4)  
+[M.B.A. Programs](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=6)  
+[Master's Programs](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degreetype&type_id=3)  
   
   
   
-[What is Education Worth?](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.cont&cont=worth)  
-[Job Growth Estimates](https://web.archive.org/web/20041205055537id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.cont&cont=estimates)  
+[Business](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=2)  
+[Criminal Justice](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=3)  
+[Education/Teaching](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=5)  
+[Engineering](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=11)  
+[Graphic Design](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=9)  
+[Healthcare](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=6)  
+[Human Services](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=15)  
+[Legal/Paralegal](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=16)  
+[Liberal Arts](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=18)  
+[Nursing](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=10)  
+[Science & Math](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=17)  
+[Technology](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.degree&cat_id=4)  
+  
+  
+  
+[What is Education Worth?](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.cont&cont=worth)  
+[Job Growth Estimates](https://web.archive.org/web/20050309004922id_/http%3A//www.earnmydegree.com/index.cfm?action=hom.cont&cont=estimates)  
   
   
 **EarnMyDegree.com Web Privacy Statement** EarnMyDegree is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. **Information We Collect**  
