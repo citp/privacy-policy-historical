@@ -1,17 +1,23 @@
-> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214083920id_/http%3A//wbal.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2002-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020228040840id_/http%3A//wbal.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
-# WBAL Radio - Privacy Policy
+# WBAL Radio - Internet Privacy Policy
 
-WBAL Radio's Internet site, http://wbal.com, complies with the following Privacy Policy. We can be reached by e-mail at [web@wbal.com](mailto:web@wbal.com).
+[Home](https://web.archive.org/web/20020228040840id_/http%3A//wbal.com/index.asp) > [About](https://web.archive.org/web/20020228040840id_/http%3A//wbal.com/about/index.asp) > Privacy Policy 
 
-This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. In addition, we may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable us to relate a user's use of our sites to information that the user has specifically and knowingly provided to us. 
+WBAL Radio Internet Privacy Policy
 
-A user's personally identifying information may be used for editorial purposes and we may also use such information for marketing and promotional purposes and may share the information with others if the user has not advised us of his or her preference not to be included in such an exchange. Individuals always have the ability to stop their information being used for such purposes by sending an e-mail request to us at the address given above. 
+WBAL Radio's Internet site, [http://wbal.com](http://wbal.com/), complies with the following Privacy Policy. We can be reached by e-mail at [web@wbal.com](mailto:web@wbal.com).
 
-While we will seek to require third parties with whom we have agreements to follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of third parties. 
+This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. In addition, we may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information although it will enable us to relate a user's use of our sites to information that the user has specifically and knowingly provided to us.
 
-Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. 
+A user's personally identifying information may be used for editorial purposes and we may also use such information for marketing and promotional purposes and may share the information with others if the user has not advised us of his or her preference not to be included in such an exchange. Individuals always have the ability to stop their information being used for such purposes by sending an e-mail request to us at the address given above.
 
-Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet. 
+While we will seek to require third parties with whom we have agreements to follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of third parties.
+
+Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties.
+
+Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
 
 Users can send e-mail to us at [web@wbal.com](mailto:web@wbal.com) with any further questions.
+
+ 
