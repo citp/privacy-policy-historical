@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611011529id_/http%3A//allrecipes.com/privacy.asp%3Flnkid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204165106id_/http%3A//allrecipes.com/privacy.asp%3Flnkid%3D159) for the most accurate reproduction.*
 
 # 
 
