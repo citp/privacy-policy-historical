@@ -1,0 +1,997 @@
+<!--The following is the downloaded HTML source of the cgidir.com privacy policy that was archived on 2003-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030623122921id_/http%3A//www.cgidir.com/privacy.htm) for the most accurate reproduction.-->
+
+<html><head>
+
+<meta name="Description" content="Hundreds of CGI Scripts, Tutorials, Code, Books, and other resources. The ultimate directory for CGI related information.">
+
+<meta name="keywords" content="CGI, Scripts, CGI Tutorials, Code, free, script, formmail, perl, hosting, hosted, script, free scripts, CGI help">
+
+<style type="text/css">
+<!--
+ 
+DIV.dev A:link FONT {color:#000000;}
+
+ 
+-->
+</style>
+
+
+
+<title>The CGI Directory: CGI Scripts, Tutorials, and more. </title>
+<style>
+table.menu
+{
+	font-size:11px;
+	font-family:Verdana;
+	left:6;
+	top:22;
+	z-index:1;
+	position:absolute;
+	visibility:hidden;
+	filter:alpha(opacity=80);
+	background:#333333;
+	/*background-image: url(images/news_backgr.gif);*/
+}
+</style>
+<script language="javascript">
+
+<!-- 
+
+/*
+Extension developed by David G. Miles (www.z3roadster.net/dreamweaver)
+To add more shock to your site, visit www.DHTML Shock.com
+*/
+
+//Begin dHTML Tooltip Timer
+var tipTimer;
+//End dHTML Tooltip Timer
+
+<!--
+function locateObject(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=locateObject(n,d.layers[i].document); return x;
+}
+
+function hideTooltip(object)
+{
+if (document.all)
+{
+	locateObject(object).style.visibility="hidden"
+	locateObject(object).style.left = 1;
+	locateObject(object).style.top = 1;
+return false
+}
+else if (document.layers)
+{
+	locateObject(object).visibility="hide"
+	locateObject(object).left = 1;
+	locateObject(object).top = 1;
+	return false
+}
+else
+	return true
+}
+
+function showTooltip(object,e, tipContent, backcolor, bordercolor, textcolor, displaytime, spacedistY, spacedistX)
+{
+	//window.clearTimeout(tipTimer)
+	
+	if (document.all)
+		{
+			locateObject(object).style.top=document.body.scrollTop+event.clientY+parseInt(spacedistY);
+			
+			locateObject(object).innerHTML='<table style="font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; border: '+bordercolor+'; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: '+backcolor+'" width="150" border="0" cellspacing="1" cellpadding="1"><tr><td><font style="font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; color: '+textcolor+'">'+unescape(tipContent)+'</font></td></tr></table> '
+
+			if ((e.x + locateObject(object).clientWidth) > (document.body.clientWidth + document.body.scrollLeft))
+				{	
+					locateObject(object).style.left = (document.body.clientWidth + document.body.scrollLeft) - locateObject(object).clientWidth-parseInt(spacedistX);
+				}
+			else
+			{
+			locateObject(object).style.left=document.body.scrollLeft+event.clientX
+			}
+		locateObject(object).style.visibility="visible"
+		//tipTimer=window.setTimeout("hideTooltip('"+object+"')", displaytime);
+		window.setTimeout("hideTooltip('"+object+"')", displaytime);
+		}
+	else if (document.layers)
+		{
+		locateObject(object).document.write('<table width="10" border="0" cellspacing="1" cellpadding="1"><tr bgcolor="'+bordercolor+'"><td><table width="150" border="0" cellspacing="0" cellpadding="2"><tr bgcolor="'+backcolor+'"><td><font style="font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; color: '+textcolor+'">'+unescape(tipContent)+'</font></td></tr></table><td></tr></table>')
+		locateObject(object).document.close()
+		locateObject(object).top=e.y+parseInt(spacedistY);
+
+		if ((e.x + locateObject(object).clip.width) > (window.pageXOffset + window.innerWidth))
+			{
+				locateObject(object).left = window.innerWidth - locateObject(object).clip.width-parseInt(spacedistX);
+			}
+		else
+			{
+			locateObject(object).left=e.x;
+			}
+		locateObject(object).visibility="show"
+		//tipTimer=window.setTimeout("hideTooltip('"+object+"')", displaytime);
+		window.setTimeout("hideTooltip('"+object+"')", displaytime);
+	}
+	else
+	{
+		return true
+	}
+}
+//-->
+</script>
+<!-- ImageReady Preload Script (DevStart.psd) -->
+<script type="text/javascript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		DevStart_01_over = newImage("/images/DevStart_01-over.gif");
+		News_01_over = newImage("/images/News_01-over.gif");
+	preloadFlag = true;
+	}
+}
+
+// -->
+</script>
+<!-- End Preload Script -->
+<script type="text/javascript">
+
+function showmenu(elmnt)
+{
+
+document.all(elmnt).style.visibility="visible";
+}
+
+function hidemenu(elmnt)
+{
+
+document.all(elmnt).style.visibility="hidden"
+}
+</script>
+<link href="/devst.css" rel="stylesheet" type="text/css">
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFF5" text="#000000" link="#669999" onload="goforit();preloadImages();">
+<!-- TOP code-->
+<!-- start of TOP -->
+
+<link rel="stylesheet" href="/css/cgidir.css" type="text/css">
+<link href="http://www.hostreview.com/fr/phorum.css" rel="stylesheet" type="text/css">
+<div id="dHTMLToolTip" style="HEIGHT: 10px; LEFT: 0px; POSITION: absolute; TOP: 0px; WIDTH: 10px; Z-INDEX: 1000"> </div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333333">
+  <tbody><tr> 
+	<td height="25" align="left" nowrap="" class="top_incl_sites"> &nbsp; <a href="http://www.webknowhow.net" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'The Ultimate web development directory. Over 1200 resources listed.', '#FFF7DC','#003300','#000000','7000','20','-10')" onmouseout="hideTooltip('dHTMLToolTip')">WebKnowHow.net</a> 
+	  | <a href="http://www.hostreview.com" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Find the perfect Web Host. Search the database for the features and price you want.', '#FFF7DC','#003300','#000000','7000','20','-10')" onmouseout="hideTooltip('dHTMLToolTip')">HostReview.com</a> 
+	  | <a href="http://www.cgidir.com" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Hundreds of CGI scripts, tutorials, code, books, and other related resources.', '#FFF7DC','#003300','#000000','7000','20','-10')" onmouseout="hideTooltip('dHTMLToolTip')">CGI 
+	  Dir</a> | <a href="http://www.javascriptsearch.com" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Search for JavaScripts, tutorials, FAQ`s, tips, and much more.', '#FFF7DC','#003300','#000000','7000','20','-10')" onmouseout="hideTooltip('dHTMLToolTip')">JavaScript 
+	  Search</a> | <a href="http://www.promotionworld.com" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Learn to promote your website. Articles, tutorials, tips and more.', '#FFF7DC','#003300','#000000','7000','20','-10')" onmouseout="hideTooltip('dHTMLToolTip')">Promotion 
+	  World</a> | <a href="http://www.htmlprimer.com/index.html" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Learn HTML and related information in a comprehensive and easy to understand format.', '#FFF7DC','#003300','#000000','7000','20','-10')" onmouseout="hideTooltip('dHTMLToolTip')">HTML 
+	  Primer</a> </td>
+	<td align="right" nowrap="" class="top_incl_sites"><img src="/images/spacer.gif" width="81" height="1"></td>
+	<td align="right" nowrap="" class="top_incl_sites"><font face="verdana, arial, helvetica" size="2" color="#336699" style="color:#336699"><a href="http://www.devstart.com" target="_blank"><img name="DevStart_01" src="/images/index/sites_logo.gif" width="119" height="25" border="0" alt=""></a></font></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr bgcolor="#669999"> 
+	<td align="left" valign="middle" class="logo_bg"><a href="/index.html"><img src="/images/index/logo.gif" border="0" width="301" height="75"></a></td>
+	<td width="100%" align="left" valign="middle" class="logo_bg"> 
+	        <!-- Permanent index BANNER 468x60 - CGIDir: START -->
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr>
+          <td align="right" valign="middle">
+            <!--  ***************** Temporary Change ***************-->
+<!--
+            <span align=CENTER> <a href="http://www.promotionworld.com/cgi-bin/banner/ads.pl?advert=NonSSI&page=01"><img
+src="http://www.promotionworld.com/cgi-bin/banner/ads.pl?page=01"
+width=468 height=60 vspace="5" border=0></a></span>
+-->
+            <!--  ***************** Temporary Change ***************-->
+					  
+		  <span align="CENTER">
+            <iframe noresize="NORESIZE" frameborder="0" width="468" height="60" marginwidth="0" marginheight="0" scrolling="NO" allowtransparency="true" src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=89"> </iframe>
+            <ilayer width="468" height="60">
+            <layer src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=89"> </layer>
+            </ilayer>
+            </span>
+
+			</td>
+        </tr>
+      </tbody></table>
+      <!-- Rotating BANNER 468x60 - CGIDir: END -->
+	</td>
+	<td align="right" class="logo_bg"> <img src="/images/spacer.gif" width="6" height="1"></td>
+  </tr>
+  <tr> 
+	<td align="left" valign="middle" colspan="3"> 
+	  <table width="100%" height="24" border="0" cellpadding="0" cellspacing="0" background="/images/index/up_hdr_bg1.gif">
+		<tbody><tr> 
+		  <td width="157" align="left" valign="top"> 
+			<table width="157" border="0" cellspacing="0" cellpadding="0" background="/images/index/up_hdr_bg1.gif">
+			  <tbody><tr> 
+				<td class="news_bar">
+				<font color="ffffff" face="Arial" size="2"> 
+				  <!-- -Date script-->
+				  <script>
+
+					/*
+					Live Date Script- 
+					© Dynamic Drive (www.dynamicdrive.com)
+					For full source code, installation instructions, 100's more DHTML scripts, and Terms Of Use,
+					visit http://www.dynamicdrive.com
+					*/
+					
+					
+					var dayarray_unique_158=new Array("Sun","Mon","Tue","Wed","Thu","Fri","Sat")
+					var montharray_unique_234=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
+					
+					function getthedate_unique_421(){
+					var mydate_unique_934=new Date()
+					var year_unique_293=mydate_unique_934.getYear()
+					if (year_unique_293 < 1000)
+					year_unique_293+=1900
+					var day_unique_172=mydate_unique_934.getDay()
+					var month_unique_823=mydate_unique_934.getMonth()
+					var daym_unique_862=mydate_unique_934.getDate()
+					if (daym_unique_862<10)
+					daym_unique_862="0"+daym_unique_862
+					var hours_unique_027=mydate_unique_934.getHours()
+					var minutes_unique_535=mydate_unique_934.getMinutes()
+					var seconds_unique_214=mydate_unique_934.getSeconds()
+					var dn_unique_872="AM"
+					if (hours_unique_027>=12)
+					dn_unique_872="PM"
+					if (hours_unique_027>12){
+					hours_unique_027=hours_unique_027-12
+					}
+					if (hours_unique_027==0)
+					hours_unique_027=12
+					if (minutes_unique_535<=9)
+					minutes_unique_535="0"+minutes_unique_535
+					if (seconds_unique_214<=9)
+					seconds_unique_214="0"+seconds_unique_214
+					//change font size here
+					//var cdate_unique_623="<small><font color='ffffff' face='Arial'><b>"+dayarray_unique_158[day_unique_172]+", "+montharray_unique_234[month_unique_823]+" "+daym_unique_862+", "+year_unique_293+" "+hours_unique_027+":"+minutes_unique_535+":"+seconds_unique_214+" "+dn_unique_872+"</b></font></small>"
+					var cdate_unique_623="<font color='ffffff' face='Arial'  size='2'>"+dayarray_unique_158[day_unique_172]+", "+montharray_unique_234[month_unique_823]+" "+daym_unique_862+", "+year_unique_293+"</font>"
+					if (document.all)
+					document.all.clock_unique.innerHTML=cdate_unique_623
+					else if (document.getElementById)
+					document.getElementById("clock_unique").innerHTML=cdate_unique_623
+					else
+					document.write(cdate_unique_623)
+					}
+					if (!document.all&&!document.getElementById)
+					getthedate_unique_421()
+					function goforit(){
+					if (document.all||document.getElementById)
+					setInterval("getthedate_unique_421()",1000)
+					}
+
+            </script>
+				  &nbsp;&nbsp; <span id="clock_unique"></span>&nbsp;&nbsp; 
+				  <!-- End of Date script-->
+				</font>
+				</td>
+			  </tr>
+			</tbody></table>
+		  </td>
+		  <td width="83" valign="top"> 
+			<table width="83" border="0" cellspacing="0" cellpadding="0" height="24">
+			  <tbody><tr>
+				<td background="/images/index/up_hdr_bg1.gif"></td>
+			  </tr>
+			</tbody></table>
+		  </td>
+		  <td valign="middle" class="news_marqee" width="200"> <marquee width="200" scrolldelay="100" scrollamount="4"> 
+			* Salon.com - Guns, lies and the Internet in South Carolina...&nbsp;&nbsp; 
+			* ecommerceTimes.com - The Bright Side of Critical Path...&nbsp;&nbsp; 
+			* www3.ca.com - CA, Microsoft And Storage Leaders Set Benchmark...&nbsp;&nbsp; 
+			</marquee> </td>
+		  <td align="left" width="65%" valign="top"> 
+			<div align="left"> 
+			  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+				<tbody><tr> 
+				  <td align="left" valign="top" background="/images/index/up_hdr_bg3.gif" width="25%"><img src="/images/index/up_hdr_bg2.gif" width="15" height="24"></td>
+				  <td align="left" valign="top" background="/images/index/up_hdr_bg3.gif" width="75%">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+				</tr>
+			  </tbody></table>
+			</div>
+		  </td>
+		</tr>
+	  </tbody></table>
+	</td>
+  </tr>
+</tbody></table>
+
+
+
+<!-- line start-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#eeeeee">
+  <tbody><tr>
+    <td height="2" bgcolor="FFCC33"> <img src="/images/spacer.gif" width="775" height="1"></td>
+  </tr>
+</tbody></table>
+<!-- line end -->
+<div style="position:absolute; top:97px; left:150px;"> 
+  <table>
+	<tbody><tr> 
+	  <td onmouseout="hidemenu('newsmenu');"> <a href="javascript:void(0);" onmouseout="changeImages('News_01', '/images/index/btn_news.gif'); return true;" onclick="hidemenu('newsmenu')" onmouseover="changeImages('News_01', '/images/index/btn_news.gif');showmenu('newsmenu');"> 
+		<img src="/images/index/btn_news.gif" name="News_01" width="83" height="24" border="0" align="right"></a> 
+	  </td>
+	</tr>
+  </tbody></table>
+  <table width="100%" class="menu" id="newsmenu" onmouseout="hidemenu('newsmenu');" onmouseover="showmenu('newsmenu');">
+	<tbody><tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.cprogrammingtrends.com/','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>CGProgrammingTrends</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.newsfactor.com/','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>NewsFactor</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.technewsworld.com/','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>TechNewsWorld</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.crmdaily.com/','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>CrmDaily</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.crmbuyer.com/','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>CrmBuyer</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.linuxinsider.com/','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>LinuxInsider</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.eweek.com/category2/0,3960,92,00.asp','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>eWeek</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.internetnews.com/dev-news/','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>InternetNews</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.cgiscript.net/site_news.htm','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>CGIScript</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.freelinks.com/news/cyberculturenews.html','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>FreeLinks</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.cprogrammingtrends.com/','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>CProgrammingTrends</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://computerworld.com/developmenttopics/development?from=left','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>ComputerWorld</strong></a></td>
+	</tr>
+	<tr> 
+	  <td class="menu"><a href="#" onclick="newNewsWin=window.open('http://www.visualbuilder.com/','NewsOpenedWin','status,menubar,directories,location,titlebar,toolbar,resizable,scrollbars,height=480,width=640,top=200,left=300');newNewsWin.focus();" class="Link_menu_news"><strong>VisualBuilder</strong></a></td>
+	</tr>
+  </tbody></table>
+</div>
+
+<!-- end of TOP -->
+
+
+
+<table width="100%" cellpadding="3" cellspacing="0" border="0" bgcolor="#FFFFF5">
+<tbody><tr valign="top">
+<td align="right" valign="top" width="150">
+<!-- Left Column -->
+<!-- Start of Left column -->
+<link rel="stylesheet" href="/css/cgidir.css" type="text/css">
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+	<td height="24" class="index_header_color" width="12">&nbsp;</td>
+	<td height="24" class="index_header" width="142">Navigate Our Site</td>
+  </tr>
+  <tr valign="top" align="right"> 
+	<td colspan="2" class="nav_menu" valign="middle"> 
+	  <table width="145" border="0" cellspacing="0" cellpadding="0" height="130">
+        <tbody><tr> 
+          <td width="153"><img src="/images/arrow_left.gif" width="9" height="10"><a href="/index.html" class="Link_menu_left">Home</a></td>
+        </tr>
+        <tr> 
+          <td width="153"><img src="/images/arrow_left.gif" width="9" height="10"><a href="/search.cgi" class="Link_menu_left">Search</a></td>
+        </tr>
+        <tr> 
+          <td width="153"><img src="/images/arrow_left.gif" width="9" height="10"><a href="/contact.html" class="Link_menu_left">Contact</a></td>
+        </tr>
+        <tr> 
+          <td width="153"><img src="/images/arrow_left.gif" width="9" height="10"><a href="/add.cgi" class="Link_menu_left">Add</a></td>
+        </tr>
+        <tr> 
+          <td width="153"><img src="/images/arrow_left.gif" width="9" height="10"><a href="/New/" class="Link_menu_left">New</a></td>
+        </tr>
+        <tr>
+          <td><img src="/images/arrow_left.gif" width="9" height="10"><a href="http://hostreview.com/fr/list.php?f=4" class="Link_menu_left">Forum</a></td>
+        </tr>
+        <tr> 
+          <td width="153"><img src="/images/arrow_left.gif" width="9" height="10"><a href="/advertising.html" class="Link_menu_left">Advertise</a></td>
+        </tr>
+        <!--		<tr>
+		  <td width="153"><a href="/contact.html" class="Link_menu_left">Contact 
+			Us</a></td>
+		</tr>
+		<tr>
+		  <td width="153"><a href="/advertise.html" class="Link_menu_left">Advertise</a></td>
+		</tr>
+-->
+      </tbody></table>
+	</td>
+  </tr>
+  <tr> 
+	<td height="24" class="index_header_color" width="12">&nbsp;</td>
+	<td height="24" class="index_header" width="142">site search</td>
+  </tr>
+  <tr align="center"> 
+	
+	  
+	<td colspan="2" class="nav_misc_ssearch" height="45" align="left" valign="middle"> 
+	  <table border="0" cellspacing="0" cellpadding="0" width="145%">
+				  <tbody><tr>
+		    <form name="leftSearchForm" action="http://cgidir.com/search.cgi" method="GET"></form> 
+			<td class="index_left_tbl" valign="middle"> 
+			  <input name="query" type="text" class="filled_field" size="14" style="width:100px">
+			  <input name="imageField" type="image" value="Search" src="/images/index/btn_search.gif" alt="Search site" align="top" border="0" width="23" height="22">
+			</td>
+			
+		  </tr>
+		<tr>
+		    <form name="browseCatgs" action="/cgi-bin/jump/url.cgi" method="get"></form> 
+			<td class="index_left_tbl" valign="middle"> 
+			  <select name="URL" style="width:100px">
+				<option value="http://cgidir.com/">&nbsp;&nbsp;--Navigate--&nbsp; 
+				</option><option value="http://cgidir.com/Scripts/">Scripts 
+				</option><option value="http://cgidir.com/Scripts/Collections/">Collections 
+				</option><option value="http://cgidir.com/Tutorials/">Tutorials 
+				</option><option value="http://cgidir.com/Books/">Books 
+				</option><option value="http://cgidir.com/Related_Resources/">Resources 
+			  </option></select>
+			  <input name="browse" value="browse" type="image" src="/images/index/btn_go.gif" alt="Browse scripts" align="top" border="0" width="23" height="22">
+			</td>
+			
+		  </tr>
+		</tbody></table>
+	  </td>
+  </tr>
+  <tr align="center"> 
+	<td colspan="2" class="nav_misc_bottom_ssearch"></td>
+  </tr>
+</tbody></table><table width="154" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	<td>&nbsp;</td>
+  </tr>
+</tbody></table>
+<table width="154" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+	<td height="24" class="index_header_color" width="12">&nbsp;</td>
+	<td height="24" class="index_header" width="142">advertisement</td>
+  </tr>
+  <tr align="center"> 
+	<td colspan="2" class="nav_misc" height="150"> 
+	  <!-- *************** TEMPORARY CODE *********** -->
+	  <!--
+<p><a href="http://www.aplus.net/services/virtual-comparison-chart.html" target="_blank"><img src="http://www.from-bulgaria.com/webdings/images/0093/125x125_apl_hst_leader-.gif" alt="Aplus.Net" name="" width="125" height="125" border="0"></a>
+-->
+	  <!-- *************** TEMPORARY CODE *********** -->
+	  <!-- Rotating BANNER 125x125 - CGIDir: START -->
+	  <iframe noresize="NORESIZE" frameborder="0" width="125" height="125" marginwidth="0" marginheight="0" scrolling="NO" allowtransparency="true" src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=90"> 
+	  </iframe> 
+	  <ilayer width="125" height="125"> 
+	  <layer src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=90"> </layer>
+	  </ilayer>
+	  <!-- Rotating BANNER 125x125 - CGIDir: END -->
+	</td>
+  </tr>
+  <tr> 
+	<td height="24" class="index_header_color" width="12">&nbsp;</td>
+	<td height="24" class="index_header" width="142">find a web host</td>
+  </tr>
+  <tr align="center"> 
+	<td colspan="2" class="nav_misc" height="210"> 
+	  <table width="100%" border="0" cellpadding="2" cellspacing="0">
+		<form name="form1" action="http://www.hostreview.com/cgi-bin/search_hosts/search.cgi" method="post"></form>
+		  <tbody><tr> 
+			<td class="index_left_tbl">Price Range</td>
+		  </tr>
+		  <tr> 
+			<td class="index_left_tbl"> 
+			  <select name="Monthly_Fee" size="1" style="width:100px">
+				<option value="">Any 
+				</option><option value="between 0 and 5">&lt; $5 
+				</option><option value="between 5 and 10">$5 - $10 
+				</option><option value="between 10 and 20">$10 - $20 
+				</option><option value="between 20 and 40">$20 - $40 
+				</option><option value="between 40 and 60">$40 - $60 
+				</option><option value="> 60">$60+ 
+			  </option></select>
+			</td>
+		  </tr>
+		  <tr> 
+			<td class="index_left_tbl">Web Space (MB)</td>
+		  </tr>
+		  <tr> 
+			<td class="index_left_tbl"> 
+			  <select name="Web_Space" size="1" style="width:100px">
+				<option value="">Any 
+				</option><option value="between 0 and 5">&lt; 5 MB 
+				</option><option value="between 5 and 15">5 - 15 MB 
+				</option><option value="between 15 and 30">15 - 30 MB 
+				</option><option value="between 30 and 50">30 - 50 MB 
+				</option><option value="between 50 and 75">50 - 75 MB 
+				</option><option value="between 75 and 150">75 - 150 MB 
+				</option><option value="> 150">150 MB+ 
+			  </option></select>
+			</td>
+		  </tr>
+		  <tr> 
+			<td class="index_left_tbl">Operating System</td>
+		  </tr>
+		  <tr> 
+			<td class="index_left_tbl"> 
+			  <select name="Operating_System" size="1" style="width:100px">
+				<option value="">Any 
+				</option><option value="NT">NT 
+				</option><option value="Unix">Unix 
+			  </option></select>
+			  <!--
+              <img src="/images/search_left.gif" width="20" height="19" vspace="0" hspace="3" border="0"> 
+			  -->
+			</td>
+		  </tr>
+		  <tr> 
+			<td class="index_left_tbl"> 
+			  <!--<p><font face="geneva, arial, sans-serif" size=1><a 
+href="http://www.hostreview.com/power_search.html" class="Link_devstScrCat"> Power 
+              Search</a></font></p>-->
+			  <table width="130" border="0" cellspacing="0" cellpadding="3">
+				<tbody><tr> 
+				  <td valign="middle" align="left"> 
+					<input type="image" name="cgifunction" value="Search" src="/images/index/btn_search_big.gif" width="82" height="22" border="0">
+					<!--<input type=submit name="cgifunction" value="Search" style=width:80px>
+			  -->
+					<!--FLAG3-->
+				  </td>
+				</tr>
+				<tr> 
+				  <td valign="middle" align="left"> 
+					<!--<input name="reset" type=image value="Clear Form">
+					-->
+					<img src="/images/index/btn_clear.gif" width="82" height="22" border="0" style="cursor:hand" onclick="javascript:form1.reset();"> 
+					<!--<input name="reset" type=reset value="Clear Form" style=width:80px>-->
+				  </td>
+				</tr>
+			  </tbody></table>
+			</td>
+		  </tr>
+		
+	  </tbody></table>
+	</td>
+  </tr>
+  <tr> 
+	<td height="24" class="index_header_color" width="12">&nbsp;</td>
+	<td height="24" class="index_header" width="142">advertisement</td>
+  </tr>
+  <tr align="center"> 
+	<td colspan="2" class="nav_misc" height="56"> 
+	  <!-- *************** TEMPORARY CODE *********** -->
+	  <!--
+<p><a href="http://www.aplus.net/main.html" target="_blank"><img src="http://www.from-bulgaria.com/webdings/images/0212/88x31_apl_bra_button02-.gif" alt="Aplus.Net" name="" width="88" height="31" border="0"></a>
+-->
+	  <!-- *************** TEMPORARY CODE *********** -->
+	  <!-- Rotating BANNER 88x31 - CGIDir: START -->
+	  <iframe noresize="NORESIZE" frameborder="0" width="88" height="31" marginwidth="0" marginheight="0" scrolling="NO" allowtransparency="true" src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=87"> 
+	  </iframe> 
+	  <ilayer width="88" height="31"> 
+	  <layer src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=87"> </layer>
+	  </ilayer>
+	  <!-- Rotating BANNER 88x31 - CGIDir: END -->
+	</td>
+  </tr>
+  <tr> 
+	<td height="24" class="index_header_color" width="12">&nbsp;</td>
+	<td height="24" class="index_header" width="142">related resources</td>
+  </tr>
+  <tr align="left"> 
+	<td colspan="2" class="nav_misc" height="65" valign="middle"> 
+	  <table width="150" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr> 
+		  <td class="index_left_tbl"><a href="http://www.ace-installer.com/" target="_blank" class="Link_menu_left_related">Ace Installer</a></td>
+		</tr>
+		<tr> 
+		  <td class="index_left_tbl"><a href="http://cgidir.com/jump.cgi?ID=1705" target="_blank" class="Link_menu_left_related">WebSurf</a></td>
+		</tr>
+		<tr> 
+		  <td class="index_left_tbl"><a href="http://www.live2support.com" target="_blank" class="Link_menu_left_related">Live2Support</a></td>
+		</tr>
+		<tr> 
+		  <!--		  <td class="index_left_tbl"><a href="http://www.promotionworld.com/tools/" target="_blank" class="Link_menu_left">Promotion 
+			Tools</a></td>
+		</tr>
+		<tr> 
+		  <td class="index_left_tbl"><a href="http://webknowhow.net/dir/HTML/Tutorials/" target="_blank" class="Link_menu_left">HTML 
+			Tutorials</a></td>
+		</tr>
+		<tr>
+		  <td class="index_left_tbl"><a href="http://www.webknowhow.net/dir/HTML/" target="_blank" class="Link_menu_left">HTML 
+			Resources</a></td>
+		</tr>
+-->
+	  </tr></tbody></table>
+	</td>
+  </tr>
+  <tr align="center"> 
+	<td colspan="2" class="nav_misc_bottom"></td>
+  </tr>
+</tbody></table>
+<!-- END of Left column -->
+
+<!-- end of Left Column -->
+</td>
+
+<!-- Center Column -->
+
+<td width="100%" bgcolor="#FFFFF5">
+
+ <a href="/" class="Link_welcome">Home</a> <span "="" class="ActivPage"></span>
+  
+ 
+
+
+<table width="100%" height="100%" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFF5">
+    <tbody><tr>
+      <td width="100%">
+<span class="normlText"><font size="+1">Privacy Policy
+</font>      
+            </span>
+            <p class="normlText">We respect your privacy. This policy covers how DevStart.com treats personal information that is received, including your name, address, email address, or phone number, and that is not otherwise publicly available. We collect information from your browser, including your IP addresses and the page you request. We might ask for your contact information when you correspond with us, call us to request service, register to attend a seminar, or participate in an online survey.<br>
+        <br>
+        Our advertisers may also use cookies to ascertain how many times you've seen an advertisement.<br>
+        <br>
+        The site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site.<br>
+        <br>
+        DevStart.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested us.<br>
+        <br>
+        We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, situations involving potential threats to the physical safety of any person or otherwise required by law.<br>
+        <br>
+        Note that we may update this policy without notifying you personally. </p>
+            </td>
+    </tr>
+  </tbody></table>
+
+
+</td>
+
+
+<td align="right" valign="top" width="150">
+      <!-- Right Column -->
+      <!-- Right Column -->
+<link rel="stylesheet" href="/css/cgidir.css" type="text/css">
+<iframe frameborder="0" width="154" height="217" src="http://www.hostreview.com/cgi-bin/search_hosts/sponsoredby.cgi" scrolling="no" hspace="0" vspace="0">
+</iframe> 
+<ilayer width="154" height="217" bgcolor="#D6EBE0"> 
+	  <layer src="http://www.hostreview.com/cgi-bin/search_hosts/sponsoredby.cgi"> </layer>
+	  </ilayer><br>
+<table width="154" border="0" cellspacing="0" cellpadding="0" bgcolor="D1E0E0">
+  <tbody><tr> 
+	<td height="24" class="index_header_color" width="12">&nbsp;</td>
+	<td height="24" class="index_header" width="142">advertisement</td>
+  </tr>
+  <tr align="center"> 
+	<td colspan="2" class="nav_misc" height="635"> 
+	  <!-- *************** TEMPORARY CODE *********** -->
+	  <!--
+<p><a href="http://www.aplus.net/services/domain-plans.html" target="_blank"><img src="http://www.from-bulgaria.com/webdings/images/0095/125x600_apl_don_freedom-.gif" alt="Aplus.Net Domains" name="" width="125" height="600" border="0"></a>
+-->
+	  <!-- *************** TEMPORARY CODE *********** -->
+	  <!-- Rotating BANNER 125x600 - CGIDir: START -->
+	  <iframe noresize="NORESIZE" frameborder="0" width="125" height="600" marginwidth="0" marginheight="0" scrolling="NO" allowtransparency="true" src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=93"> 
+	  </iframe> 
+	  <ilayer width="125" height="600"> 
+	  <layer src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=93"> </layer>
+	  </ilayer>
+	  <!-- Rotating BANNER 125x600 - CGIDir: END -->
+	</td>
+  </tr>
+  <tr align="center" valign="top"> 
+	<td colspan="2" class="nav_misc" height="105"> 
+	  <!-- *************** TEMPORARY CODE *********** -->
+	  <!--
+<p><img src="http://hostreview.com/temp_ad.gif" alt="Aplus.Net" name="" width="125" height="90" border="0">
+-->
+	  <!-- *************** TEMPORARY CODE *********** -->
+	  <!-- Rotating BANNER 125x90 - CGIDir: START -->
+	  <iframe noresize="NORESIZE" frameborder="0" width="125" height="90" marginwidth="0" marginheight="0" scrolling="NO" allowtransparency="true" src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=91"> 
+	  </iframe> 
+	  <ilayer width="125" height="90" bgcolor="#D6EBE0"> 
+	  <layer src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=91"> </layer>
+	  </ilayer>
+	  <!-- Rotating BANNER 125x90 - CGIDir: END -->
+	</td>
+  </tr>
+  <!--Begin Amazon Boocs-->
+  <tr> 
+	<td height="24" class="index_header_color" width="12">&nbsp;</td>
+	<td height="24" class="index_header" width="142">CGI books</td>
+  </tr>
+  <tr align="center"> 
+	<td colspan="2" class="nav_misc" height="150"> <a href="http://www.amazon.com/exec/obidos/redirect-home/webknowhownet"> 
+	  <img src="/images/findrelated.gif" border="0" width="100" height="70" vspace="2"></a> 
+	  <br>
+	  <form method="get" action="http://www.amazon.com/exec/obidos/external-search/">
+		<table width="130" border="0" cellspacing="0" cellpadding="3">
+		  <tbody><tr> 
+			<td valign="middle" align="center"> 
+			  <input type="text" name="keyword" size="12" value="CGI" style="width:82" class="filled_field">
+			  <input type="hidden" name="tag" value="webknowhownet">
+			</td>
+		  </tr>
+		  <tr> 
+			<td valign="middle" align="center">
+			  <input type="image" value="Search" name="Search" src="/images/index/btn_search_big.gif" width="82" height="22" border="0">
+			  <!--<input TYPE="submit" VALUE="Search" NAME="Search">
+	  -->
+			</td>
+		  </tr>
+		</tbody></table>
+	  </form>
+	</td>
+	<!--end of Amazon Books-->
+  </tr><tr align="center"> 
+	<td colspan="2" class="nav_misc_bottom"></td>
+  </tr>
+</tbody></table>
+<!-- END OF Right Column -->
+
+      <!-- END OF Right Column -->
+    </td>
+
+</tr>
+<!-- Fix of middle column in low resolutions -->
+<tr valign="top"><td align="right" valign="top" bgcolor="#FFFFF5"></td>
+<td bgcolor="#FFFFF5" align="center">
+<table width="449" border="0" cellspacing="0">
+  <tbody><tr>
+    <td><link rel="stylesheet" href="../css/cgidir.css" type="text/css">
+<script language="JavaScript">function openNew(whichURL)
+{
+  var w = window.open(whichURL,"Preview","toolbar=no,location=no,scrollbars=no,menubar=no,directories=no,resizable=yes,status=no,width=380,height=280,top=200,left=300'");
+// if (document.all) 
+ w.focus();
+}
+</script><br>
+
+<table width="100%%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFEE">
+  <tbody><tr> 
+	<td colspan="3" height="1" bgcolor="#006600"></td>
+  </tr>
+  <tr> 
+	<td width="1%"><a name="favorites"></a></td>
+	<td valign="middle" align="center" class="bar"> <a href="javascript:openNew('/pop/feedback/feedback.html');" class="Link_landing2"><img src="/images/bar/feedb.gif" width="16" height="15" border="0" align="middle" alt="Send Your Feedback"> 
+	  Feedback</a>&nbsp;<a href="javascript:openNew('/pop/feedback/friendmail.html');" class="Link_landing2"><img src="/images/bar/friend.gif" width="16" height="15" border="0" align="middle" alt="Mail To A Friend"> 
+	  Mail To A Friend</a>&nbsp;<a href="javascript:openNew('/pop/feedback/submitarticle.html');" class="Link_landing2"><img src="/images/bar/mail.gif" width="16" height="15" border="0" align="middle" alt="Submit Your News, Article, Tutorial"> 
+	  Submit Article</a>&nbsp;<a href="#favorites" onclick="window.external.AddFavorite('http://www.cgidir.com','CGIDir');" class="Link_landing2"><img src="/images/bar/fav1.gif" width="16" height="15" border="0" align="middle" alt="Add Us To Your Favorites"></a> 
+	  <a href="#favorites" onclick="window.external.AddFavorite(document.location,document.title);" class="Link_landing2">Add 
+	  To Favorites</a><!--<a href="javascript:if (window.print) {window.print();}" class="Link_landing2">&nbsp;<img src="/images/bar/pint.gif" width="16" height="15" border="0" align="middle" alt="Send Your Feedback"> 
+	  Print Page</a>--></td>
+	<td width="1%">&nbsp;</td>
+  </tr>
+  <tr> 
+	<td colspan="3" height="1" bgcolor="#006600"></td>
+  </tr>
+</tbody></table></td>
+  </tr>
+  <tr>
+    <td><script language="JavaScript">function openNew(whichURL)
+{
+  var w = window.open(whichURL,"Preview","toolbar=no,location=no,scrollbars=no,menubar=no,directories=no,resizable=yes,status=no,width=380,height=280,top=200,left=300'");
+// if (document.all) 
+ w.focus();
+}
+</script>
+<link rel="stylesheet" href="../css/cgidir.css" type="text/css">
+
+<table width="100%%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFEE">
+
+  <tbody><tr bgcolor="#fffff5" valign="bottom" align="center"> 
+	<td colspan="3" height="25"><font color="#FF9900" size="1"><a href="http://devstart.com/privacy.htm" class="Link_Copyright" target="_blank">Privacy 
+	  policy</a> | <a href="http://devstart.com/company_info.htm" class="Link_Copyright" target="_blank">Company 
+	  info</a> | <a href="/advertising.html" class="Link_Copyright">Advertise</a> 
+	  | <a href="/contact.html" class="Link_Copyright">Contact 
+	  us</a> | <a href="http://devstart.com/reprint.htm" class="Link_Copyright" target="_blank">Reprint 
+	  permissions</a> | <a href="http://devstart.com/copyright.htm" class="Link_Copyright">Copyright</a></font></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td><img src="/images/spacer.gif" width="449" height="1"></td>
+  </tr>
+</tbody></table>
+</td>
+<td align="right" valign="top" bgcolor="#FFFFF5"></td></tr>
+<!-- end of Fix of middle column in low resolutions -->
+</tbody></table>
+
+
+
+
+
+
+
+<!-- Bottom -->
+<!-- Start of Bottom-->
+<!-- line start-->
+<link rel="stylesheet" href="/css/cgidir.css" type="text/css">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#eeeeee">
+  <tbody><tr>
+    <td height="2" bgcolor="FFCC33"> <img src="/images/spacer.gif" width="774" height="1"></td>
+  </tr>
+</tbody></table>
+<!-- line end -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="logo_bg" bgcolor="#669999">
+  <tbody><tr> 
+	<td colspan="4" valign="center"> <img src="/images/spacer.gif" width="774" height="1"></td>
+  </tr>
+  <tr> 
+	<td>&nbsp;</td>
+	<td valign="center"> 
+	  <table width="150" border="0" cellpadding="0" cellspacing="0">
+		<form name="newsltrsubscr" action="http://www.promotionworld.com/mlist/maillist.php" method="post"></form>
+		  <tbody><tr> 
+			<td> <font face="verdana, arial, helvetica" size="1"> <b><font color="#FFFFFF">Free 
+			  Newsletter!</font></b><br>
+			  <input type="text" name="email" value="Your Email" size="11">
+			  <br>
+			  <input type="hidden" name="action" value="sub" checked="">
+			  <input name="submit" type="image" value="Subscribe" img="" src="/images/index/btn_subscribe.gif" vspace="0" hspace="0" border="0" width="73" height="22">
+			  <!--
+			  <input name="submit" type="submit" value="Subscribe">
+			  -->
+			  </font></td>
+		  </tr>
+		
+    </tbody></table>
+	</td>
+	<td align="center" valign="middle"> 
+	  <!--  ***************** Temporary Change ***************-->
+	  <!--			
+            <span align=CENTER> <a href="http://www.promotionworld.com/cgi-bin/banner/ads.pl?advert=NonSSI&page=01"><img
+src="http://www.promotionworld.com/cgi-bin/banner/ads.pl?page=01"
+width=468 height=60 vspace="5" border=0></a></span>
+-->
+	  <!--  ***************** Temporary Change ***************-->
+	  <!-- Rotating BANNER 468x60 - CGIDir: Start -->
+	  <span align="CENTER"> <iframe noresize="NORESIZE" frameborder="0" width="468" height="60" marginwidth="0" marginheight="0" scrolling="NO" allowtransparency="true" src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=89"> 
+	  </iframe> 
+	  <ilayer width="468" height="60"> 
+	  <layer src="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=89"> </layer>
+	  </ilayer>
+	  </span> 
+	  <!-- Rotating BANNER 468x60 - CGIDir: END -->
+	</td>
+	<td width="150"><table width="150" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#333333">
+  <tbody><tr> 
+	<td colspan="2" valign="center"> <img src="/images/spacer.gif" width="774" height="1"></td>
+  </tr>
+  <tr> 
+	<td height="25" align="left" nowrap="" class="top_incl_sites"> &nbsp; <a href="http://www.webknowhow.net" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'The Ultimate web development directory. Over 1200 resources listed.', '#FFF7DC','#003300','#000000','7000','-60','-10')" onmouseout="hideTooltip('dHTMLToolTip')">WebKnowHow.net</a> 
+	  | <a href="http://www.hostreview.com" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Find the perfect Web Host. Search the database for the features and price you want.', '#FFF7DC','#003300','#000000','7000','-60','-10')" onmouseout="hideTooltip('dHTMLToolTip')">HostReview.com</a> 
+	  | <a href="http://www.cgidir.com" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Hundreds of CGI scripts, tutorials, code, books, and other related resources.', '#FFF7DC','#003300','#000000','7000','-60','-10')" onmouseout="hideTooltip('dHTMLToolTip')">CGI 
+	  Dir</a> | <a href="http://www.javascriptsearch.com" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Search for JavaScripts, tutorials, FAQ`s, tips, and much more.', '#FFF7DC','#003300','#000000','7000','-60','-10')" onmouseout="hideTooltip('dHTMLToolTip')">JavaScript 
+	  Search</a> | <a href="http://www.promotionworld.com" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Learn to promote your website. Articles, tutorials, tips and more.', '#FFF7DC','#003300','#000000','7000','-60','-10')" onmouseout="hideTooltip('dHTMLToolTip')">Promotion 
+	  World</a> | <a href="http://www.htmlprimer.com/index.html" target="_blank" class="Link_devst_panel" onmouseover="showTooltip('dHTMLToolTip',event, 'Learn HTML and related information in a comprehensive and easy to understand format.', '#FFF7DC','#003300','#000000','7000','-60','-10')" onmouseout="hideTooltip('dHTMLToolTip')">HTML 
+	  Primer</a> </td>
+	<td width="24%" class="top_incl_sites" align="right"> 
+	  <p class="copyright"> Copyright© 1997 - 2003 <a href="http://devstart.com" target="_blank" class="copyright">DevStart.com<br>
+      </a>All Rights Reserved</p>
+	</td>
+  </tr>
+</tbody></table>
+
+<!-- Start of Bottom-->
+<!-- line start-->
+<!--
+<table border=0 cellpadding=0 cellspacing=0 width="100%" bgcolor="#eeeeee">
+  <tr>
+    <td height="2" bgcolor="FFCC33"><img src="/images/spacer.gif" width="774" height="1"></td>
+  </tr>
+</table>
+<!-- line end -->
+<!--
+<table border=0 cellpadding=0 cellspacing=0 width="100%" bgcolor="#669999">
+  <tr>
+    <td colspan="4" valign=center><img src="/images/spacer.gif" width="774" height="1"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td valign=center>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <form name="newslsubscr" action="/mlist/maillist.php" method=post>
+          <tr>
+            <td> <font face="verdana, arial, helvetica" size="1"> <b><font color="#CFDFEF">Free Newsletter!</font></b><br>
+              <input type="text" name="email" value="Your Email" size="11">
+              <br>
+              <input type="hidden" name="action" value="sub" checked>
+              <input name="submit" type="submit" value="Subscribe">
+              </font> </td>
+          </tr>
+        </form>
+      </table>
+    </td>
+    <td align="right" valign=middle>
+      <table border=0 cellpadding=0 cellspacing=0 width="100%" >
+        <tr>
+          <td align=right valign=middle>
+            <!--  ***************** Temporary Change ***************-->
+<!--			
+            <span align=CENTER> <a href="http://www.promotionworld.com/cgi-bin/banner/ads.pl?advert=NonSSI&page=01"><img
+src="http://www.promotionworld.com/cgi-bin/banner/ads.pl?page=01"
+width=468 height=60 vspace="5" border=0></a></span>
+-->
+            <!--  ***************** Temporary Change ***************-->
+			
+         <!-- Rotating BANNER 468x60 - CGIDir: Start -->
+
+<!--		  <span align=CENTER>
+            <IFRAME NORESIZE="NORESIZE" FRAMEBORDER="0" WIDTH=468 HEIGHT=60 MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="NO" allowTransparency="true" SRC="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=89"> </IFRAME>
+            <ILAYER WIDTH=468 HEIGHT=60 >
+            <LAYER SRC="http://banners.devstart.com/rbd/rbd_isapi.dll?DistID=89"> </LAYER>
+            </ILAYER>
+            </span>
+
+	      <!-- Rotating BANNER 468x60 - CGIDir: END -->
+<!--
+			</td>
+        </tr>
+      </table>
+
+    </td>
+    <td width="3"><img src="/images/spacer.gif" width="3" height="1"></td>
+  </tr>
+</table>
+<table width="100%" border=0 cellspacing=0 cellpadding=0 bgcolor="#333333">
+  <tr>
+    <td colspan="2" valign=center><img src="/images/spacer.gif" width="774" height="1"></td>
+  </tr>
+  <tr>
+    <td width="76%" height=25 align=left nowrap> &nbsp; <a href="http://www.webknowhow.net" target="_blank" class="Link_devstRight" onMouseOver="showTooltip('dHTMLToolTip',event, 'The Ultimate web development directory. Over 1200 resources listed.', '#FFF7DC','#003300','#000000','7000','-80','-10')" onMouseOut="hideTooltip('dHTMLToolTip')"><strong><font color="#FFCC33" face="Arial, Helvetica, sans-serif">WebKnowHow.net</font></strong></a> <font color="#FFCC33" face="Arial, Helvetica, sans-serif">|</font> <a href="http://www.hostreview.com" target="_blank" class="Link_devstRight" onMouseOver="showTooltip('dHTMLToolTip',event, 'Find the perfect Web Host. Search the database for the features and price you want.', '#FFF7DC','#003300','#000000','7000','-80','-10')" onMouseOut="hideTooltip('dHTMLToolTip')"><strong><font color="#FFCC33" face="Arial, Helvetica, sans-serif">HostReview.com</font></strong></a> <font color="#FFCC33" face="Arial, Helvetica, sans-serif">|</font> <a href="http://www.cgidir.com" target="_blank" class="Link_devstRight" onMouseOver="showTooltip('dHTMLToolTip',event, 'Hundreds of CGI scripts, tutorials, code, books, and other related resources.', '#FFF7DC','#003300','#000000','7000','-80','-10')" onMouseOut="hideTooltip('dHTMLToolTip')"><strong><font color="#FFCC33" face="Arial, Helvetica, sans-serif">CGI Dir</font></strong></a> <font color="#FFCC33" face="Arial, Helvetica, sans-serif">|</font> <a href="http://www.javascriptsearch.com" target="_blank" class="Link_devstRight" onMouseOver="showTooltip('dHTMLToolTip',event, 'Search for JavaScripts, tutorials, FAQ`s, tips, and much more.', '#FFF7DC','#003300','#000000','7000','-80','-10')" onMouseOut="hideTooltip('dHTMLToolTip')"><strong><font color="#FFCC33" face="Arial, Helvetica, sans-serif">JavaScript Search</font></strong></a> <font color="#FFCC33" face="Arial, Helvetica, sans-serif">|</font> <a href="http://www.promotionworld.com" target="_blank" class="Link_devstRight" onMouseOver="showTooltip('dHTMLToolTip',event, 'Learn to promote your website. Articles, tutorials, tips and more.', '#FFF7DC','#003300','#000000','7000','-80','-10')" onMouseOut="hideTooltip('dHTMLToolTip')"><strong><font color="#FFCC33" face="Arial, Helvetica, sans-serif">Promotion World</font></strong></a> <font color="#FFCC33" face="Arial, Helvetica, sans-serif">|</font> <a href="http://www.htmlprimer.com" target="_blank" class="Link_devstRight" onMouseOver="showTooltip('dHTMLToolTip',event, 'Learn HTML and related information in a comprehensive and easy to understand format.', '#FFF7DC','#003300','#000000','7000','-80','-10')" onMouseOut="hideTooltip('dHTMLToolTip')"><strong><font color="#FFCC33" face="Arial, Helvetica, sans-serif">HTML Primer</font></strong></a> </td>
+    <td width="24%">
+      <p align=right><font color="#CFDFEF" size=-2 face="verdana, arial, helvetica">Copyright &copy; 1997-1999</font><font face="verdana, arial, helvetica" size=-2> <a href="http://devstart.com"><font color="#CFDFEF">DevStart.com</font></a> </font></td>
+  </tr>
+</table>
+<!--Refferer -->
+<script language="JavaScript">
+
+     <!--
+      document.write('<img src="http://cgidir.com/ref_cgi/refferers.cgi?'+document.referrer+'" width=1 height=1 border=0>');
+      // -->
+      
+
+</script><img src="http://cgidir.com/ref_cgi/refferers.cgi?" width="1" height="1" border="0">
+<!-- end of Bottom -->
+
+
+  
+
+</body></html>
