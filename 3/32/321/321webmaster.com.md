@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 321webmaster.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619022341id_/http%3A//www.321webmaster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 321webmaster.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204043447id_/http%3A//www.321webmaster.com/privacy.php) for the most accurate reproduction.*
 
-# Free Webmaster Resources and Web Tools
+# Webmaster Resources - Free Web Tools
 
 | 
 
