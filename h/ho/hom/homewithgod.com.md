@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homewithgod.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005224134id_/http%3A//homewithgod.com/links/pages/privacystmt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homewithgod.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606043046id_/http%3A//homewithgod.com/links/pages/privacystmt) for the most accurate reproduction.*
 
 # HomewithGod Christian Search - Privacy Statement
 
@@ -52,13 +52,13 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-You can send email to [webmaster@homewithGod.com](mailto:webmaster@homewithGod.com)
+You can send email to [webmaster@homewithgod.com](mailto:webmaster@homewithgod.com)
 
 #### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
-HomewithGod.com  
-Route 1, Box 103  
-Lone Oak TX 75453  
-[webmaster@homewithGod.com](mailto:webmaster@homewithGod.com)
+HomewithGod Christian Resources  
+899 RS CR 1690  
+Lone Oak, TX 75453  
+[webmaster@homewithgod.com](mailto:webmaster@homewithgod.com)
