@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandecom.net privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623193924id_/http%3A//grandecom.net/home_privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandecom.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202151545id_/http%3A//grandecom.net/home_privacy.phtml) for the most accurate reproduction.*
 
 # Grandecom.net: Privacy Policy
 
