@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603174156id_/http%3A//ford.co.uk/static/gen_privacy/-/-/-/-/-/-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209123018id_/http%3A//www.ford.co.uk/static/gen_privacy/-/-/-/-/-/-) for the most accurate reproduction.*
 
 # Ford :: Privacy policy
 
@@ -8,4 +8,16 @@ This information will not be disclosed to anyone outside of the Ford Motor Compa
 
 You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However certain legislation, especially related to safety issues or financial regulation (e.g. when dealing with Ford Credit) might prevent this.
 
-If you have any specific questions that are not covered in the FAQ section please mail your enquiry to Ford Motor Company Limited, PO Box 1364, Croydon CR9 4WF.
+If you have any specific questions that are not covered in the FAQ section please mail your enquiry to Ford Motor Company Limited, PO Box 2439, Glasgow, G40 3WX .
+
+1The Ford Motor Company Group, a company based in the United States of America, ("FMC") in the context of this Privacy Policy includes those companies where Ford owns at least 50% of the company (these include national Ford companies and those companies listed below). For the purpose of this agreement Ford will also include Mazda, in which Ford owns less than 50%.
+
+  * Ford Credit
+  * Jaguar
+  * Volvo
+  * Aston Martin
+  * Land Rover
+  * Hertz
+  * Lincoln Mercury
+
+
