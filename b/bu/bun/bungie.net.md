@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217005140id_/http%3A//www.bungie.net/perlbin/blam.pl%3Ffile%3D/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206073704id_/http%3A//www.bungie.net/privacy_statement.html) for the most accurate reproduction.*
 
 # Bungie.net
 
-**BUNGIE.COM PRIVACY STATEMENT**   
-(Last updated November 2001) 
+**BUNGIE.NET PRIVACY STATEMENT**   
+(Last updated October 2003) 
 
 The Bungie Web sites consisting of Bungie.com, Bungie.net, Bungie Support and Bungie Store are operated by the Microsoft Corporation or its suppliers. This Privacy Statement applies to the Bungie Web sites you are currently viewing and informs you what information is collected and used on this Web site. By using the Bungie Web sites, you consent to the data practices described in this Statement. ****
 
@@ -19,7 +19,7 @@ Microsoft abides by the safe harbor framework as set forth by the U.S. Departmen
 
 **Use of your Personal Information**
 
-The Bungie Web sites collects and uses your personal information to operate the Bungie Web sites and deliver the services you have requested. For example, when you subscribe to an Bungie.net newsletter, we request your e-mail address, name and address. We use your e-mail address to send you the newsletter(s) you have requested. If you choose to enter your name and postal address, we will use that information for future mailings from Microsoft about Bungie news and promotions. We use geographical location to determine what localized information Bungie should provide customers. When you choose to enter a sweepstakes, we request your e-mail address and other contact information in order to be able to contact you in the event you are a winner of the sweepstakes. Except as otherwise stated below, personal information you provide on this site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. 
+The Bungie Web sites collects and uses your personal information to operate the Bungie Web sites and deliver the services you have requested. For example, when you subscribe to a Bungie.net newsletter, we request your e-mail address, name and address. We use your e-mail address to send you the newsletter(s) you have requested. If you choose to enter your name and postal address, we will use that information for future mailings from Microsoft about Bungie news and promotions. We use geographical location to determine what localized information Bungie should provide customers. When you choose to enter a sweepstakes, we request your e-mail address and other contact information in order to be able to contact you in the event you are a winner of the sweepstakes. Except as otherwise stated below, personal information you provide on this site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. 
 
 We occasionally hire other companies to provide limited services on our behalf, such as sending newsletters, answering customer questions, fulfillment requests and performing statistical analysis of our services. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
 
@@ -43,13 +43,21 @@ The Bungie Web sites secure the e-mail address you provide on computer servers i
 
 This Web site uses cookies to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page, so that when you visit the site again, the experience will be personalized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to set your computer to accept cookies from the Bungie Web sites, you may also to choose to be logged into the site automatically. You may also select a country of your choice as your default home page. This selection is stored in a cookie. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Bungie Web sites or the other Web sites you visit. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page, so that when you visit the site again, the experience will be personalized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to set your computer to accept cookies from the Bungie Web sites, you may also to choose to be logged into the site automatically. You may also select a country of your choice as your default home page. This selection is stored in a cookie. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Bungie Web sites or the other Web sites you visit. ****
 
-(This web site does not use web beacons or single-pixel gifs for measuring the number of viewers to the web site.) ****
+**Use of Web Beacons**
+
+Bungie Web site pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow Bungie to count users who have visited those pages and for other related Bungie.net statistics only - (e.g., determine the popularity of certain content and help Bungie to provide the content users want, verify system integrity, etc.). Web beacons are not used to access your personal information on Microsoft's web sites and services; they are a technique Bungie utilizes to compile aggregated statistics about usage of the Bungie Web sites. 
+
+Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. ****
 
 **Communities and Forums offered on this Web site**
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Bungie Communities, Forums, Messages or other public online forums, this information may be collected and used by others. We recommend you be cautious in giving out personal information to others in these public online forums. Bungie encourages you to review the privacy statements of Web sites you choose to visit via the Bungie Web sites so that you can understand how those web sites collect, use and share your information. Microsoft is not responsible for the privacy statements or other content on web sites outside of the Bungie Web sites and other Microsoft sites. ****
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Bungie Communities, Forums, Messages or other public online forums, this information may be collected and used by others. We recommend you be cautious in giving out personal information to others in these public online forums. Bungie encourages you to review the privacy statements of Web sites you choose to visit via the Bungie Web sites so that you can understand how those web sites collect, use and share your information. Microsoft is not responsible for the privacy statements or other content on web sites outside of the Bungie Web sites or other Microsoft sites. ****
+
+**.NET Passport**
+
+This Web site uses .NET Passport to provide sign-in and registration services. In order to sign in to this site using .NET Passport, you will be asked to type your e-mail address and a password. This same Passport sign-in allows you to access many other Passport participating sites and services. If you create a .NET Passport at this site, you are simultaneously registering with the Bungie Web sites and opening a .NET Passport account. All of the registration information you provide will be stored the Bungie Web sites, and some or all of that information will also be stored by .NET Passport in your Passport profile. To learn more about the Passport service, the information stored in the Passport profile, and how Passport uses and helps to protect your personal information, please read the .NET Passport privacy statement at [ www.passport.net/Consumer/PrivacyPolicy.asp?PPIcid=1033](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPIcid=1033). ****
 
 **Changes to this Statement**
 
