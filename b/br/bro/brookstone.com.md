@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookstone.com privacy policy that was archived on 1999-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990825110016id_/http%3A//www.brookstone.com/cgi-bin/ncommerce3/ExecMacro/disppage.d2w/report%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookstone.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613062310id_/http%3A//www.brookstone.com/cgi-bin/ncommerce3/ExecMacro/disppage.d2w/report%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to BrookStone Online
 
