@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 1999-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990422082106id_/http%3A//www.thinkquest.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604025111id_/http%3A//www.thinkquest.org/privacy_policy.html) for the most accurate reproduction.*
 
-# ThinkQuest Privacy Statement
+# ThinkQuest Privacy Policy
 
-  
-**Privacy and Related Issues**
+### ThinkQuest Privacy Policy
 
 **Privacy and ThinkQuest**   
 We respect the privacy of visitors to our Web site and the privacy of participants in ThinkQuest programs. In order for you to understand what information we may collect, why we collect it, how we use the information the following explanation is offered. 
@@ -24,22 +23,7 @@ For the convenience of our visitors, we may store bits of information inside you
 The ThinkQuest Library entries are made up of Web pages prepared by our contestants. Additionally, many of the entries have functions which allow visitors to the site to contribute content, as a result, we have no ability to control the privacy practices of each entry. When a violation of our privacy practices, normal network etiquette, good taste, or other undesirable activity by one of our contributors is brought to our attention, we will take appropriate action to address the issue. 
 
 **Information for Parents**   
-We ask that all participants in the ThinkQuest programs, who have not reached the age of legal majority, get the permission of their parents or legal guardians in order to participate in ThinkQuest programs. 
-
-**Delete/Deactivate**   
-Our site gives users an option to remove their information from our database so they do not receive future communications from us. In order to delete or deactivate your information, please visit -   
-[ http://www.advanced.org/thinkquest/unsubscribe.html](https://web.archive.org/web/19990422082106id_/http%3A//www.thinkquest.org/unsubscribe.html)
-
-**Change/Modify**   
-If you wish to change information previously provided, please visit -   
-[ http://www.advanced.org/thinkquest/info-correct.html](https://web.archive.org/web/19990422082106id_/http%3A//www.thinkquest.org/info-correct.html)
+We ask that all participants in the ThinkQuest programs, who have not reached the age of legal majority, get the permission of their parents or legal guardians in order to participate in ThinkQuest programs.
 
 **Contacting the Web Site**   
-If you have any questions about the practices of this site, or your dealings with this Web site, you can contact - 
-
-Robert S. Camm, Webmaster  
-Advanced Network & Services, Inc.  
-ThinkQuest Programs  
-200 Business Park Drive  
-Armonk, NY 10504  
-[rsc@advanced.org](mailto:rsc@advanced.org)
+If you have any questions about the practices of this site, or your dealings with this Web site, you can contact our [Help Desk](https://web.archive.org/help/ask_question.html)
