@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216204351id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206195456id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
 
 # allAfrica.com: Privacy Policy
 
@@ -36,8 +36,7 @@ AllAfrica will only disclose personal information when required to do so by law 
 
 Correspondence
 
-If you have any questions or comments about our policies, please contact us by sending e-mail to:   
-[info@allafrica.com](mailto:info@allafrica.com)
+Comments or questions? Click [_here_](https://web.archive.org/feedback.html?ref=http://allafrica.com/privacy.html) to contact us.
 
 or write to:   
 AllAfrica Global Media   
