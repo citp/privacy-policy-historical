@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608050012id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2003-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030809235221id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
 
 # Dickies® ~ Privacy Policy
 
