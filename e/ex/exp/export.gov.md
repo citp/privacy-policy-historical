@@ -1,44 +1,42 @@
-> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606163643id_/http%3A//osecnt13.osec.doc.gov/public.nsf/docs/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222053529id_/http%3A//www.ita.doc.gov/foia/Priv2.html) for the most accurate reproduction.*
 
-# Privacy Statement - U.S. Department of Commerce
+# 
 
-  
+**International Trade Administration Web Site Privacy Policy**
+
+Effective Date: **_August 3, 2001_**
+
+**Privacy Statement**
+
+Thank you for visiting an International Trade Administration (ITA) web site, an official site of the U. S. Department of Commerce. ITA promotes U.S. exports, protects U.S. business interests abroad and enforces U.S. trade laws. In the course of doing our job we sometimes are required to collect business or personal information from our customers. We do not disclose, sell or transfer any information we collect from this public web site. However, ITA can only protect the information we collect to the extent permitted by the [Privacy Act of 1974](http://www.usdoj.gov/foia/privstat.htm) and the [Freedom of Information Act of 1966](http://www.sba.gov/foia/foia.pdf). 
+
+We do not collect or store information that can be used to personally identify visitors to our web sites without their permission. Our sites do not use "web bugs" and if we use "persistent cookies" to improve the functionality of our sites, we will notify our visitors of their use. Here is how ITA will handle information we gather about you from your visit: 
+
+  * **Information Collected and Stored Automatically:** When you visit our website we automatically collect and store [non-personal](http://www.ita.doc.gov/foia/nonpesonal.htm) information for internal statistical purposes: 
 
 
-## Department of Commerce Web Site Privacy Statement
 
-Thank you for visiting the Department of Commerce web site, a service of the U.S. Department of Commerce. This policy establishes how we will handle information we learn about you from your visit to our site. Please be assured that the privacy of our visitors is of utmost importance to us. **We collect no personal information about you when you visit our site unless you choose to provide that information to us.**
-
-The specific practices outlined in this privacy statement apply to web sites maintained by or on behalf of the Office of the Secretary of Commerce. Other organizations within the Department of Commerce may have slightly different practices, though the overarching commitment to your privacy will always be the same. You are encouraged to review the privacy statements of other organizations when visiting their web sites.
-
-Some of our web pages contain links to web sites outside the Department of Commerce, including those of other federal agencies, state and local governments, and private organizations. Please be aware that when you follow a link to another site, you are then subject to the privacy policies of the new site.
-
-**If you visit an Office of the Secretary web site...**
-
-> **...to read or download information:** For each HTTP request received, we collect and store _only_ the following information: the date and time, the originating IP address, the type of browser and operating system used (if provided by the browser), the URL of the referring page (if provided by the browser), the object requested, and the completion status of the request.
-> 
-> We use the information that we collect to measure the number of visitors to the different areas of our sites, and to help us make our sites more useful to visitors. This includes analyzing these logs periodically to determine the traffic through our servers, the number of pages served, and the level of demand for pages and topics of interest. The logs may be preserved indefinitely and used at any time and in any way necessary to prevent security breaches and to insure the integrity of the data on our servers.
-> 
-> We do not seek or collect any other data related to the specific users of Office of the Secretary servers, nor do we use web browser cookies of any type, for any purpose, on these servers.
-> 
-> **...to complete an online form:** Some of our sites provide forms allowing visitors to submit search engine queries, questionnaires, feedback, or other information. Some of these forms may request personally-identifying information ( _e.g.,_ name, address, e-mail address) for specific purposes, such as when the submitter is requesting a personal response, registering for a conference, or subscribing to a mailing list.
-> 
-> We may store non-personally-identifying information we collect (such as search engine queries and anonymous survey responses) indefinitely to help us better understand and meet the needs of our visitors. We may share non-personally-identifying information with others, including the the public, in aggregated form (for instance, in a list of our most popular search engine queries), in partial or edited form (such as in a report summarizing responses to a questionnaire), or verbatim (for example, in a complete listing of survey responses).
-> 
-> Before collecting personally-identifying information, we will prominently disclose:
-> 
->   * why we are requesting the information;
->   * how it will be used;
->   * how long it may be retained; and
->   * under what conditions, and with whom, it may be shared.
+>   * The IP (Internet Protocol) address from which you accessed our Web site; 
+>   * The IP address of the web site from which you linked directly to us;
+>   * The name of the domain (e.g, ,"xyzfirm.com", "yourschool.edu" or agency.gov); 
+>   * The type of browser and operating system used to access our site; 
+>   * The date and time our site is accessed; and 
+>   * The pages visited.
 > 
 
-> 
-> Generally, we will not share any personally-identifying information you give us with any other government agency, private organization, or the public, except with your consent or as required by law.
-> 
-> **...to send us e-mail:** By sending us an electronic mail message (for example, an e-mail message containing an official Freedom of Information Act request), you may be sending us personally-identifying information. In these cases, we may retain the information as long as necessary to respond to your request or otherwise resolve the subject matter of your e-mail. Please be aware that email is not necessarily secure from interception or misdirection. For your own protection you may wish to communicate sensitive information using a method other than email.
 
-We want to be very clear: **regardless of the information being transmitted to any unit of the Department of Commerce, we will protect all such information consistent with applicable law** including, but not limited to, the [Privacy Act of 1974 and the Freedom of Information Act](http://www4.law.cornell.edu/uscode/5/552.html). It is also the policy of the Department to follow the [Principles for Providing and Using Personal Information](http://www.iitf.nist.gov/ipc/ipc/ipc-pubs/niiprivprin_final.html) ("Privacy Principles"), published by the Information Infrastructure Task Force on June 6, 1995.
+This information does not identify you personally. This information is used to provide better services to our site visitors.
 
-|   
----|---
+  * **Information Collected from E-Mail, Forms and through Site Registration:** If you send us an email, information you submit may be viewed by various people within the International Trade Administration, in an effort to respond to your request(s). Users are reminded that email is not necessarily secure against interception. If your communication is sensitive or includes personal information, you may want to send it to us by postal mail instead. If you register on one of our web sites to obtain a benefit, report a trade complaint or use any of our services, you may submit identifying information, such as name, title, name/size of company, address, phone number, and personal email address. Certain ITA services are reserved for U.S. firms only and we may use the registration information to contact you for verification purposes before allowing access to the requested ITA service. All information collected from the public on this site has been authorized by [The Office of Management and Budget (OMB)](http://www.whitehouse.gov/omb/index.html) as required under the [Paperwork Reduction Act](http://www.doc.gov/pra/pralaw.pdf).
+
+
+  * **Security, Intrusion, and Detection:** All data traffic is monitored in order to identify unauthorized attempts to upload or change information, or otherwise cause damage or conduct criminal activity for both site security purposes and to ensure that this service remains available to all users. All users are subject to having all of their activities monitored and recorded by authorized personnel to protect this web site from unauthorized use and to ensure that it is functioning properly. Anyone using this web site expressly consents to such monitoring and is advised that if there is evidence of possible abuse or criminal activity, the results of this monitoring shall be made available to appropriate officials for possible prosecution. Unauthorized attempts to upload or change information, or otherwise cause damage to this Web site, are strictly prohibited and may be punishable under applicable Federal law. 
+
+
+  * **Links to Other Web Sites:** Our web site contains links to other federal agencies, internal agencies and private organizations. Those organizations may contain links to outside organizations, or from other sites to us. This does not constitute a deliberate or implied official endorsement by the U.S. Department of Commerce. These links are provided for user convenience only.
+
+
+
+For more information, please review the Department of Commerce Privacy Statement at [http://204.193.246.62/public.nsf/docs/privacy-statement](http://204.193.246.62/public.nsf/docs/privacy-statement).
+
+> 
