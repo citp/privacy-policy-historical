@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208140548id_/http%3A//dccomics.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619152952id_/http%3A//www.dccomics.com/about/privacy.html) for the most accurate reproduction.*
 
 # DC Comics
 
@@ -36,9 +36,9 @@ Agents and contractors of AOL Time Warner who have access to personally identifi
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
-Certain AOL Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](https://web.archive.org/web/20031208140548id_/http%3A//dccomics.com/about/more.html#sharing)
+Certain AOL Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](https://web.archive.org/web/20040619152952id_/http%3A//www.dccomics.com/about/more.html#sharing)
 
-AOL Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20031208140548id_/http%3A//dccomics.com/about/more.html#marketing) for instructions on how to make your request.
+AOL Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20040619152952id_/http%3A//www.dccomics.com/about/more.html#marketing) for instructions on how to make your request.
 
 Finally, AOL Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -47,7 +47,7 @@ Finally, AOL Time Warner sites will not use or transfer personally identifiable 
 
 AOL Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. AOL Time Warner has no control over these third parties' use of this information. The AOL Time Warner site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-Some AOL Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20031208140548id_/http%3A//dccomics.com/about/more.html#thirdparty).
+Some AOL Time Warner sites may use a reputable third party to present or serve the advertisements that you may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20040619152952id_/http%3A//www.dccomics.com/about/more.html#thirdparty).
 
 **Cookies  
 **To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
@@ -58,7 +58,7 @@ We use cookies to understand site usage and to improve the content and offerings
 **We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
 **How You can Access or Correct Information  
-**For instructions on how you can access the personally identifiable information that this AOL Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20031208140548id_/http%3A//dccomics.com/about/more.html#id).
+**For instructions on how you can access the personally identifiable information that this AOL Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20040619152952id_/http%3A//www.dccomics.com/about/more.html#id).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
