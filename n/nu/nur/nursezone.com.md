@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202141000id_/http%3A//www.nursezone.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603150757id_/http%3A//nursezone.com/privacy.asp) for the most accurate reproduction.*
 
 # NurseZone - Privacy Statement
 
@@ -31,6 +31,9 @@ Travel for fun, adventure and rejuvenation
   
 [](https://web.archive.org/dealzone/default.asp)  
 Special professional and personal discounts for nurses  
+  
+[](https://web.archive.org/ecards/default.asp)  
+Send a FREE eCard  
   
 |  |   
 ---|---|---|---  
@@ -77,9 +80,11 @@ In addition, we provide links to third party websites which offer continuing edu
   
 _Career Center._ In order to use our career placement center, which includes recruitment and placement of nurses, we require that you be registered with our site as described above. In connection with our career center services, we will offer you the opportunity to be contacted by one of our career advisors. Should you choose to be contacted, a career advisor will contact you via your email address or telephone number on record. In addition, our career center contains a "Create A Resume" program which enables our registered users to create and print resumes and post them on our site. Our site will enable the user to email the resume only to us at NurseZone. We may forward the resume via email or facsimile without the nurse's name, address or other personally identifiable information, to selected healthcare facilities only upon the prior request or consent of the nurse. In addition, each user who posts a resume on our site will be assigned a unique URL number. Should a user provide the URL number to third parties other than NurseZone, we cannot and do not guarantee your privacy. We urge you not to disclose your URL number to anyone.  
   
-_Bulletin Board._ We offer a bulletin board which permits posting opportunities for our registered users. Please see our [Terms of Use](https://web.archive.org/web/20001202141000id_/http%3A//www.nursezone.com/terms.asp) before using the bulletin board and make sure to post only information that you are comfortable sharing.  
+_Bulletin Board._ We offer a bulletin board which permits posting opportunities for our registered users. Please see our [Terms of Use](https://web.archive.org/web/20010603150757id_/http%3A//nursezone.com/terms.asp) before using the bulletin board and make sure to post only information that you are comfortable sharing.  
   
 _Correspondence._ You will be required to provide your name and email address when you register for our site. We intend to provide nurses with a variety of informative emails on topics we believe would be of interest to you. Again, your name and email address are not shared with any third parties. There may be other times when we request or acquire your email address, such as when you send us an email with questions or comments. We will use only your email address to respond to emails from you, forward and send your emails to and from other registered users and internal NurseZone employees who may be able to respond to you, send information to you concerning your account, and inform you of updates to our web site. We do not share email addresses or any other personal information about our registered users with advertisers, business partners, sponsors or other third parties except to provide services you have requested.  
+  
+_Special Contests and Promotions._ NurseZone will occasionally feature a contest/promotion for nurses. In order to enter the contest/promotion, we require you to provide us with your name, phone number and e-mail address so that we can contact you if you win. We also ask for other information that will help us reach nurses with our extensive site offerings. Your personal information is not shared with any third parties.  
   
 **_Information that We Independently Derive From Your Use of Our Site_**  
   
@@ -101,7 +106,7 @@ We may disclose user information in special cases when we believe in good faith 
   
 **Opting-Out**  
   
-If at any time you object to our use of your personal information, including use of your email address, you may stop that use by email request to [optout@nursezone.com](mailto:optout@nursezone.com).  
+If at any time you object to our use of your personal information, including use of your email address, you may stop that use by email request to [privacy@nursezone.com](mailto:privacy@nursezone.com).  
   
 **Links to Other Sites**  
   
