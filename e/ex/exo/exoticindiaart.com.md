@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205032918id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603235039id_/http%3A//exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
 # Indian Arts: Exotic India
 
