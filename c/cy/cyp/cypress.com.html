@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cypress.com privacy policy that was archived on 2002-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605061830id_/http%3A//www.cypress.com/aboutus/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cypress.com privacy policy that was archived on 2002-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203000758id_/http%3A//www1.cypress.com/aboutus/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -13,7 +13,7 @@
 	
 
 </head>
-<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="FFFFFF" onload="self.focus();">
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="FFFFFF">
 <!-- TE NOTE: upperphoto*.gif needs to be changes in three places: in this case, on lines 35, 48, and 73 -->
 <!-- logo -->
 <table width="800" cellspacing="0" cellpadding="0" border="0">
@@ -35,18 +35,18 @@
 </tbody></table><!-- /global nav --><!-- search = global -->
 <table width="800" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr valign="middle">
-		<td width="50" height="33"><form action="../site_srch.cfm" name="ff_header_site" method="post"><img src="../img/c.gif" width="50" height="33" border="0"></form></td>
-		<td width="132" bgcolor="FF9900"><img src="../img/search_left.gif" width="132" height="14" border="0" alt="search"></td>
+		<td width="50" height="33"><form action="../site_srch.cfm" name="ff_header_site" method="get"><img src="../img/c.gif" width="50" height="33" border="0"></form></td>
+		<td width="132" bgcolor="FF9900"><img src="../img/search_left_new.gif" width="132" height="33" border="0" alt="search"></td>
 		<td width="108" bgcolor="FF9900"><input type="text" name="ff_criteria" size="13" value="" style="width: 116px;"></td>
 		<td width="26" bgcolor="FF9900"><img src="../img/search_in.gif" width="16" hspace="5" height="20" border="0" alt="IN"></td>
 		<td width="123" bgcolor="FF9900">
 			
 			<select name="ff_searchareas" style="width: 124px;">
 				<option value="All" selected="">All</option>
-				<option value="Products">Products</option>
+				<option value="Products">Products/Datasheets</option>
 				<option value="Support">Support</option>
-				<option value="Press">Press Section</option>
-				<option value="Datasheets">Datasheets</option>
+				<option value="Solutions">Solutions</option>
+				<option value="About">About Us</option>
 			</select>
    		</td>
 		<td width="45" align="center" valign="center" bgcolor="FF9900"><input type="image" src="../img/b_go.gif" width="23" name="Go" height="18" border="0" onclick="document.ff_header_site.submit();"></td>
@@ -56,10 +56,10 @@
 </tbody></table><!-- /search = global --><!-- stripe -->
 <table width="800" cellspacing="0" cellpadding="0" border="0">
   <tbody><tr valign="middle"> 
-    <td width="299" height="16">&nbsp;</td>
-    <td width="167" valign="middle" align="center" bgcolor="FF9900"> <a href="../srch_para_family.cfm"><img src="../img/search_adv.gif" width="94" height="8" border="0"></a><br><img src="../img/c.gif" width="167" height="3" border="0"></td>
+    <td width="182"><img src="/img/c.gif" width="182" height="1"></td>
+	<td width="284" bgcolor="#FF9900" valign="middle" align="center" class="searchWhite">use * to expand search or try the <a href="/srch_para_family.cfm" class="how2buy">parts search</a><br><img src="../img/c.gif" height="1" width="284" alt="" border="0"></td>
     <td width="284" height="16" align="center" bgcolor="666666"><a href="/support/how_to_buy.cfm" class="how2buy">How to Buy Cypress Products</a></td>
-    <td width="50" bgcolor="003399"><img src="../img/c.gif" width="50" height="16" border="0"></td>
+    <td width="50"><img src="../img/how2buy_squares.gif" alt="" width="50" height="16" border="0"></td>
   </tr>
 </tbody></table>
 <!-- /stripe -->
@@ -127,37 +127,45 @@
 					<td width="50"><img src="../img/c.gif" width="50" height="1" border="0"></td>
 				</tr>
 				<!-- /right side-bar declaration row (is global with SITEMAP below -->
-				<!-- SITEMAP (global element -->
-				<tr valign="top"> 
-					<td bgcolor="003399"><img src="../img/c.gif" width="1" height="1" border="0"></td>
-					<td bgcolor="003399"><img src="../img/c.gif" width="16" height="1" border="0"></td>
-					<td bgcolor="003399" colspan="2"><form>
-						<table width="283" border="0" cellpadding="3" cellspacing="0">
-							<tbody><tr> 
-								<td><span class="white">SITEMAP</span><br>
-									<img src="../img/c.gif" width="277" height="4" border="0"><br>
-               						<select name="menu1" onchange="MM_jumpMenu('parent',this,0)">
-										<option value="#" selected="">Jump To...</option>
+				<!-- inc_map_rings.cfm -->
+							<!-- created 8.21.02 by jpu to make sitewide changes to sitemap and right nav areas -->
+			<!-- for original cypress.com layout, see SourceSafe files from before 8.13.02 -->
+				<tr valign="top" bgcolor="003399">
+					<td width="1"><img src="/img/c.gif" width="1" height="1" border="0"></td> 
+					<td colspan="3"><img src="/img/rings.gif" width="299" height="54" border="0"></td>
+				</tr>
+				<tr valign="top" bgcolor="B5B3C0">
+					<td width="1"><img src="/img/c.gif" width="1" height="1" border="0"></td> 
+					<td colspan="3"><img src="/img/tagline.gif" alt="Cypress Connects." width="299" height="47" border="0"></td>
+				</tr>
+				<!--  SITEMAP (global element) -->
+				<tr valign="top"><form></form> 
+					<td bgcolor="B5B3C0"><img src="/img/c.gif" width="1" height="1" border="0"></td>
+					<td width="16">&nbsp;</td>
+					<td colspan="2">
+						<img src="/img/c.gif" width="1" height="12" border="0"><br>
+						<b class="header">SITEMAP</b><br>
+							<img src="/img/c.gif" width="277" height="4" border="0"><br>
+             				<select name="menu1" onchange="MM_jumpMenu('parent',this,0)">
+               					<option value="#" selected="">Jump To...</option>
 <option value="../srch_para_family.cfm">Datasheets</option>
 <option value="../srch_adv_cross_ref.cfm">Cross Reference</option>
 <option value="../srch_para_obsolete_parts.cfm?switch=1">Obsolete Parts Search</option>
 <option value="../srch_para_family.cfm">Part Number Search</option>
 <option value="#">------------</option>
 <option value="../support/how_to_buy.cfm">How To Buy</option>
-<option value="../aboutus/sales_locations.cfm?cyff_typedrop=distributors">Distributors</option>
+<option value="../aboutus/distributors.cfm">Distributors</option>
 <option value="../aboutus/sales_locations.cfm">Sales Offices</option>
 <option value="#">------------</option>
 <option value="../aboutus/jobs.cfm">Jobs</option>	
 <option value="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=CY&amp;script=2100">Investor Relations</option>
 <option value="../aboutus/press.cfm">Press</option>
-									</select>
-									<br><img src="../img/c.gif" width="1" height="1" border="0"> 
-								</td>
-							</tr>
-						</tbody></table>
-					</form></td>
+							</select>					
+					</td>
 				</tr>
-				<!-- / SITEMAP (global element -->
+				<!--  /SITEMAP (global element) -->
+
+				<!-- /inc_map_rings.cfm -->
 			</tbody></table>
 			<img src="../img/c.gif" width="1" height="10" border="0"><br> 
       		<table width="249" border="0" cellspacing="0" cellpadding="0">
@@ -178,12 +186,13 @@
 		<td align="center" class="footer"><img src="../img/c.gif" width="1" height="35" border="0"><br>
 			<a href="../aboutus/contact.cfm" class="footer">Contact Us</a> | <a href="../aboutus/privacy.cfm" class="footer">Privacy</a> | <a href="../aboutus/terms_conditions.cfm" class="footer">Terms &amp; Conditions</a> 
 			<br><br>
-			© Copyright 1995-2001. Cypress Semiconductor Corporation. All rights reserved.</td>
+			© Copyright 1995-2002. Cypress Semiconductor Corporation. All rights reserved.</td>
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
 	</tr>
 </tbody></table>
+
 <!-- /footer -->
 
 
