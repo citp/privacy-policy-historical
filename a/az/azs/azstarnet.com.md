@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstarnet.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604215654id_/http%3A//www.azstarnet.com/contact/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstarnet.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082206id_/http%3A//www.azstarnet.com/contact/privacy.html) for the most accurate reproduction.*
 
 # StarNet | Contact | Opinions
 
@@ -60,8 +60,7 @@ We are very concerned with the security of your personally identifiable informat
 
 Once we receive your information, we take appropriate steps that we believe are reasonable to protect the security of your data on our system, both internally and from outsiders, and to ensure the integrity of the data we collect. We use a combination of technological and policy methods to protect this data. 
 
-Your bulletin board registration or contest registration may be protected with a password. If you have Internet service provided by StarNet (via its Fastucson.net affiliate), your account is protected with a password. You must take care not to divulge your password to anyone. StarNet will never ask you for your password in an unsolicited phone call or e-mail. You are responsible for maintaining the secrecy of your passwords and any account information.
-
+Your bulletin board registration or contest registration may be protected with a password. StarNet will never ask you for your password in an unsolicited phone call or e-mail. You are responsible for maintaining the secrecy of your passwords and any account information.   
 We may use your sign-on, log-in name, e-mail address or other identifier to block you from online forums if you violate our user agreements. 
 
 **CHANGES IN THESE TERMS**
