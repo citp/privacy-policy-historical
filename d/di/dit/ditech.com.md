@@ -1,68 +1,64 @@
-> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215230id_/http%3A//ditech.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013132109id_/http%3A//www.ditech.com/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Ditech - Contact Us
 
-  
+|  | 
+
 **Overview**  
-You take online privacy seriously, and so does ditech.com. It's our way of sustaining your trust in our company, our products, and our services. Our privacy statement describes how we collect, protect, and use customer information.
+You take online privacy seriously and so does ditech.com. This statement is one way of sustaining your trust in our company, our products and our services. Our privacy statement describes how we collect, protect and use information about you during your visit on our web site.
 
-There are a few simple things that you can do to safeguard your information on the Internet: keep your account number, user name, and password safe; be sure to use a secure browser and keep your virus detection software current; never open e-mail from an unknown source; and always log out of the loan status area when you're finished.
+**What Personal Information Does ditech.com Collect Online?**  
+We may collect personal information about you from the information you provide to us when you fill out an application or other forms on our site. We may also receive personal information about you from consumer reporting agencies, your transactions with us, our affiliates or others. This information may include: 
 
-When you call, our security procedures require that we ask you for information only you would know—so we're sure it's you. However, no ditech.com employee will ever ask you for your account password.
+  * Financial Information
+  * Name
+  * Address
+  * Social Security Number
+  * Account Numbers
+  * Telephone Number
+  * Email Address
 
-This privacy statement applies to our online privacy policy. When you become a customer, and on an annual basis, we provide you with our privacy policy entitled "Important Information About Your Privacy." For complete information regarding our privacy policies and practices for customers, please refer to that notice.
 
-**What Personal Information Does ditech.com Collect?**  
-There are several opportunities on our Web sites for you to provide us with personal information, such as your: 
 
-  * your name, 
-  * mailing address, and 
-  * e-mail address. 
+**Why Is Personal Information Collected?**  
+If you fill out an application or other form on our site, we may ask for a variety of information to help us communicate with you, evaluate your eligibility and the product or services that may be right for you. We may also obtain other information about you, for example, your credit report. This information is used to determine your eligibility for our products and services. Also, if you choose to share any personal information with us, we may store it and use it for our own marketing research and the marketing of our products and services to you. 
 
-**Why Is My Personal Information Collected?**  
-When you fill out a loan application on our site, we may ask for a variety of information to help us evaluate your eligibility and the loan product that may be right for you. We may also obtain other information about you — for example, your credit report. This information is used solely to determine your eligibility for a loan.
+**When Is Personal Information About Me Collected Online?**  
+We collect personal information about you when you fill out an application or other forms on our site, when you register through registration web pages and each time you update your personal profile. 
 
-Also if you choose to share any personal information with us, we may store it and use it for marketing research and other marketing purposes.
+**Does ditech.com Use Cookies or Other Online Technologies to Collect Information About Me?**  
+Some of our web sites may make use of "cookie" technology to measure site activity and to customize information to your personal tastes. A cookie is an element of data that a web site can send to your browser, which may then store the cookie on your hard drive. So, when you come back to visit us again, we can tailor information to suit your individual preferences. The goal is to save you time and provide you with a more meaningful visit.
 
-**How Is My Personal Information Collected in ditech.com?**  
-We collect your personal information when you register through ditech.com's registration Web pages and each time you update your personal information on our Loan Status Web page.
+When you visit our site, we may collect and store information about your visit on an anonymous, aggregate basis. We use this information to measure site activity and to develop ideas for improving our site. This information may include: time and length of your visit; web pages you look at on our site; the web site you visited just before coming to ours, and the name of your Internet service provider. 
 
-**Does ditech.com Use Cookies or Other Online Technologies to Collect Personal Information from Me?**  
-Some of our Web sites may make use of "cookie" technology to measure site activity and to customize information to your personal tastes. A cookie is an element of data that a Web site can send to your browser, which may then store the cookie on your hard drive. So when you come back to visit us again, we can tailor information to suit your individual preferences. The goal is to save you time and provide you with a more meaningful visit.
+**Do You Share Personal Information About Me?**  
+In certain circumstances, we may share information about you with other companies so that we may provide you with the products and services you have requested. We may share information about you with our suppliers and service providers for their use in providing services for market research and marketing purposes as allowed by law. Also, we may share information about you with credit reporting agencies when you complete an online form or application.
 
-When you visit one of the ditech.com Web sites, we may collect and store information about your visit on an anonymous, aggregate basis. We use this information only to measure site activity and to develop ideas for improving our sites. This information may include: 
+Any company with which we share information about you for the above purposes is contractually required to comply with confidentiality standards. We may disclose information about you as required or permitted by law. We do not sell information about you to anyone. 
 
-  * time and length of your visit, 
-  * Web pages you looked at on our sites, 
-  * Web site you visited just before coming to ours, and 
-  * name of your Internet service provider. 
+**How Can I Review, Change or Correct Information You Collect?**  
+We are committed to maintaining accurate and up-to-date information on all of our customers. We may provide you with access to account information in different ways, for example, over the telephone, online or on paper.
 
-**Do You Share My Personal Information?**  
-In certain circumstances, we outsource work to other companies who specialize in processing work — for example, account statement printing. We share with those companies only the customer information they need to do their job. These companies are subject to a thorough selection process, and they are contractually required to comply with strict standards of confidentiality.
+If you are a current customer and have registered for online access through one of our web sites, you may be able to update information such as: your address, telephone number, email address, user name, password and secret question online.
 
-We also partner with companies to offer services to you that we don't provide. These services are optional and not required by us. We are very careful in selecting these partners, and we require that they follow our privacy requirements. These companies are also contractually required to comply with strict standards of confidentiality, and they are not permitted to use customer information for any other purpose than providing their specific product or service.
+If you have completed and saved, but have not submitted, an online form or application you may be able to make certain changes to the information you have provided to us before it is submitted. If you are unable to make changes to the information you have provided to us online, you may contact us in order to do so. 
 
-**What Choice Do I Have About Sharing My Personal Information?**  
-If you are a current ditech.com customer and you do not wish to receive e-mails from us, check the opt-out, box when you first access the Loan Status to opt out of receiving e-mails from us.
+**How Do You Protect Personal Information?**  
+We restrict access to the information obtained from our websites and web pages to our employees, agents and contractors. We maintain physical, electronic and procedural safeguards designed to protect personal information. 
 
-**Can I Access My Personal Information to Make Changes?** There are also several opportunities on our Web sites for you to provide us with information about you and your interests, such as your name, mailing address, and e-mail address. If you choose to share any personal information with us, we may store it and use it for marketing research and other marketing purposes. If you are a current ditech.com customer and you do not wish to receive emails regarding discounts and special offers from us, check the opt-out box when you first access the Loan Status to opt out of receiving e-mails from us.
-
-**Is My Personal Information Secure?**  
-We're constantly improving our security standards and practices to protect your confidential information. Access to your information is restricted to those employees who need it as part of their job. We provide regular training for those employees on privacy and security issues.
-
-**What About Children's Information?**  
-We comply with the practices established under the Children's Online Privacy Protection Act. We do not knowingly collect or retain any information from consumers under the age of eighteen.
-
-**How Do I Contact ditech.com If I Have a Concern About My Personal Information?**  
+**How Do I Contact ditech.com If I Have Questions About This Privacy Statement?**  
 _U.S. Mail:_  
 ditech.com  
-GMAC Mortgage Corporation  
+Customer Care   
 3200 Park Center Drive, Suite 150  
 Costa Mesa, CA 92626
 
 _E-mail:_ [info@ditech.com](mailto:info@ditech.com)
 
-_Telephone:_ 1.800.71.FIXED
+_Telephone:_ 1.800.ditech1
 
-**Will ditech.com Make Changes to This Privacy Statement?**  
-ditech.com reserves the right to alter its privacy principles as business needs require. Any alterations to these principles will be posted on our Web sites in a timely manner. 
+**Will ditech.com Make Changes To This Privacy Statement?**  
+This statement is effective July 1, 2004, and remains in effect until amended. ditech.com reserves the right to amend this Privacy Statement or alter its privacy principles at its sole discretion without notice to you. Any alterations to this Privacy Statement or our privacy principles will be posted on our web site in a timely manner. 
+
+|   
+---|---|---
