@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155415id_/http%3A//www.tamu.edu/00/data/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204205533id_/http%3A//www.tamu.edu/00/data/privacy.html) for the most accurate reproduction.*
 
 # Texas A&M University - Privacy Statement
 
@@ -18,7 +18,7 @@ This means we sometimes acquire, record and analyze portions of the data that is
 
 Some web pages at Texas A&M University may collect personal information about visitors and use that information for purposes other than those stated above. Each web page that collects information will have a separate privacy statement that will tell you how that information is used.
 
-If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, please contact the [Webmaster](https://web.archive.org/web/20020603155415id_/http%3A//www.tamu.edu/00/data/mailme.html) or through regular mail at: 
+If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, please contact the [Webmaster](https://web.archive.org/web/20021204205533id_/http%3A//www.tamu.edu/00/data/mailme.html) or through regular mail at: 
 
 Office of University Relations  
 Attention: Webmaster  
