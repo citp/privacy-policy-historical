@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202202543id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610102843id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
+
+Join the Pyramyd Air mailing list. Stay ahead of **airgunning news, articles,** and receive valuable **promotions**! 
+
+* * *
+
+|  **Enter your e-mail** :  
+  
+News & Promotions  
+Airgun Tips and Tricks  
+|   
+  
+---|---  
+  
+  
+
 
 ** PYRAMYD AIR PRIVACY STATEMENT  **
 
@@ -45,12 +60,3 @@ If you have any questions about the security at our website, you can send an ema
   
 **Notification of Changes  
 **If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-* * *
-
-[Home](http://www.pyramydair.com/) | [Search](http://www.pyramydair.com/cgi-bin/search.pl) | [Browse](http://www.pyramydair.com/cgi-bin/browse.pl) | [About](http://www.pyramydair.com/site/about/) | [Contact](http://www.pyramydair.com/site/contact/) | [FAQ](http://www.pyramydair.com/site/faq/)   
-[Manuals](http://www.pyramydair.com/site/manuals/) | [Custom Venom Shop](http://www.pyramydair.com/site/venom/) | Privacy Statement | [Links](http://www.pyramydair.com/site/links/) | [Articles](http://www.pyramydair.com/site/articles/)
-
-* * *
-
-Copyright © 1999-2003   [Ideal Technologies, Inc.](http://www.ideal-technologies.com/)  All Rights Reserved. 
