@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628075951id_/http%3A//www.us.playstation.com/support.aspx%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215222703id_/http%3A//scea.com/support.aspx%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # PlayStation.com - Support - Privacy Policy
 
@@ -20,13 +20,17 @@ Whenever you visit a Web site that displays the ESRB Privacy Online certificatio
 * How a company ensures data security, quality, and integrity 
 * Where and how to ask questions or file complaints 
 
-If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact SCEA's Consumer Services Hotline at 1-800-345-7669. Additional mail contact information is provided below. You can also contact ESRB Privacy Online by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017 or visit them online at [www.esrb.org](http://www.esrb.org/). ****
+If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact SCEA's Consumer Services Hotline at 1-800-345-7669. Additional mail contact information is provided below. You can also contact ESRB Privacy Online by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017 or visit them online at [www.esrb.org](http://www.esrb.org/). **
 
- **Websites**
+Websites
 
-We currently operate the web sites [www.us.playstation.com](http://www.us.playstation.com/) and [www.989sports.com](http://www.989sports.com/). In addition, we own several other domain names that point to the web sites listed above. From time to time we may add new sites that may not be listed above, but will provide a link to this policy. ****
+**
 
-**Links**
+We currently operate the web sites [www.us.playstation.com](http://www.us.playstation.com/) and [www.989sports.com](http://www.989sports.com/). In addition, we own several other domain names that point to the web sites listed above. From time to time we may add new sites that may not be listed above, but will provide a link to this policy. **
+
+Links
+
+**
 
 This policy applies only to sites maintained by SCEA or our subsidiaries. We may create links to the websites of our promotional partners and licensed software publishers. Although we will make every effort to link only to sites that meet similar standards for maintaining each individual's right to privacy, this policy does not apply to third party sites. Additionally, many other sites that we are not associated with and have not authorized may have links leading to one of our sites. We cannot control these links and are not responsible for any content appearing on these sites.  
 **  
