@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dcons.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202035206id_/http%3A//www.dcons.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcons.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017092917id_/http%3A//www.dcons.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-Datacons Private Limited recognises privacy and security as being a concern for most individuals accessing the Internet. Whether you're buying one of our quality products, or just browsing our site, we want to make you comfortable with our privacy policy and the security measures we take to protect your personal information.The following policy will give you a better understanding of what we do towards security: 
+Datacons Private Limited recognises privacy and security as being a concern for most individuals accessing the Internet. Whether you're buying one of our quality products, or just browsing our site, we want to make you comfortable with our privacy policy and the security measures we take to protect your personal information. The following policy will give you a better understanding of what we do towards security: 
 
 **What this Privacy Policy Covers**
 
@@ -23,7 +23,7 @@ www.dcons.com may set and access www.dcons.com cookies on your computer. Cookies
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services or engage in activities that require registration in order to participate.
 
 **How is my Information used?**  
-Our site's registration form may require you to give us contact information like your name and email address. We use this contact information from the registration form to send you information about our company. 
+Our site's registration form may require you to give us contact information like your name and e-mail address. We use this contact information from the registration form to send you information about our company. 
 
 **With whom is my information shared?**  
 Datacons never provides your personal information to third-parties without your consent. Datacons may share the information you provide with its subsidiaries and related companies. 
