@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicallaw.com privacy policy that was archived on 2003-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031225112452id_/http%3A//www.practicallaw.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicallaw.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605202738id_/http%3A//www.practicallaw.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # practicallaw.com: Privacy policy
 
@@ -10,7 +10,7 @@ When you became a member of this site you provided us with information including
 
 We will not disclose any of the information that you provide to us about yourself to any third parties without your express consent.
 
-We may use the information we collect from you to notify you occasionally about important changes or developments to the site. If you would rather not receive this information, please send an e-mail to [info@practicallaw.com](https://web.archive.org/web/20031225112452id_/http%3A//www.practicallaw.com/jsp/info@practicallaw.com).
+We may use the information we collect from you to notify you occasionally about important changes or developments to the site. If you would rather not receive this information, please send an e-mail to [info@practicallaw.com](https://web.archive.org/web/20040605202738id_/http%3A//www.practicallaw.com/jsp/info@practicallaw.com).
 
 ### Cookies
 
