@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drivershq.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609162328id_/http%3A//www.drivershq.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivershq.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203190105id_/http%3A//www.drivershq.com/privacy.asp) for the most accurate reproduction.*
 
-# .: Drivers Headquarters ::
+# .: Drivers Headquarters - Software Drivers and Hardware Drivers ::
 
 We respect and are committed to protecting your privacy. That is the reason we have adopted this Privacy Policy. This Privacy Policy informs you how your personal information is processed and utilized. We promise to take the necessary steps to only use your personal information in ways that are compatible with this Privacy Policy. The following discloses our Privacy Policy: 
 
