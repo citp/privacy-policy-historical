@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626173449id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203092335id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # FindLegalForms.com - Power of Attorney Bill of Sale Auto and Vehicle Legal Forms - Help section
 
   |    
-|   |  [FindLegalForms.com](https://web.archive.org/web/20030626173449id_/http%3A//www.findlegalforms.com/xcart/customer/home.php) :: Help Zone :: 
+|   |  [FindLegalForms.com](https://web.archive.org/web/20031203092335id_/http%3A//www.findlegalforms.com/xcart/customer/home.php) :: Help Zone :: 
 
 |   Privacy statement  
 ---  
@@ -12,11 +12,6 @@
   
  
 
-  |  |  | Authentication  
----|---  
-Username  
-  
-Password  
-  
-  
-[](https://web.archive.org/web/20030626173449id_/http%3A//www.findlegalforms.com/xcart/customer/register.php)
+  |  |   
+---  
+  |   |   |  Copyright 2001-2003 [ FindLegalForms, Inc.](http://www.findlegalforms.com/) |   |  
