@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603131443id_/http%3A//www.videoeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoeta.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211816id_/http%3A//www.videoeta.com/privacy.html) for the most accurate reproduction.*
 
-# VideoETA -- Video & DVD release dates
+# VideoETA -- The most comprehensive DVD release dates site
 
 **VideoETA Privacy Policy**  
 
@@ -19,8 +19,8 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 If you have any additional questions about VideoETA's dedication to visitor privacy, please contact us at mail@videoeta.com.
 
-|  [](https://web.archive.org/movie.html?id=53256&ad=168)
+|  [](https://web.archive.org/movie.html?id=54708&ad=194)
 
-[**Get Well Soon**](https://web.archive.org/movie.html?id=53256&ad=168)   
-Coming Jun 4  
-[Remind me when it's released!](https://web.archive.org/reminder.html?id=53256)
+[**Mummy's Kiss**](https://web.archive.org/movie.html?id=54708&ad=194)   
+Coming Jan 14  
+[Remind me when it's released!](https://web.archive.org/reminder.html?id=54708)
