@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whas11.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603080311id_/http%3A//www.whas11.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whas11.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112646id_/http%3A//www.whas11.com/registration/privacy.html) for the most accurate reproduction.*
 
 # WHAS11.com | News for Louisville, Kentucky | Privacy Policy
 
@@ -137,10 +137,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.whas11.com/aboutus/1725810016/Position1/default/empty.gif/7a2f4868343134793339674142384858?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.whas11.com/aboutus/1866867409/Position1/default/empty.gif/7a2f4868343134793339774142386541?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.whas11.com/aboutus/2133481930/Position4/default/empty.gif/7a2f4868343134793339674142384858?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.whas11.com/aboutus/93995216/Position4/default/empty.gif/7a2f4868343134793339774142386541?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.whas11.com/aboutus/1986338260/Position5/default/empty.gif/7a2f4868343134793339674142384858?x)
-
-Search local ads and more!
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.whas11.com/aboutus/1291071213/Position5/default/empty.gif/7a2f4868343134793339774142386541?x)
