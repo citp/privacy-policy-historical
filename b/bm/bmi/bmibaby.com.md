@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the bmibaby.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002044015id_/http%3A//www.bmibaby.com/bmibaby/en-gb/sectiondetails.aspx%3Fp%3D693) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmibaby.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604145545id_/http%3A//www.bmibaby.com/bmibaby/en-gb/sectiondetails.aspx%3Fp%3D693) for the most accurate reproduction.*
 
-# www.bmibaby.com - the low cost airline with tiny fares | cheap flights online at bmibaby.com
+# www.bmibaby.com - the low cost airline with tiny fares | cheap flights online with bmibaby.com
+
+  
+
 
 **booking, security and privacy information**
 
