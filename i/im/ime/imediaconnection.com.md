@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202075220id_/http%3A//www.imediaconnection.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604092706id_/http%3A//www.imediaconnection.com/company/privacy.asp) for the most accurate reproduction.*
 
 # imedia Connection - Privacy Policy
 
@@ -57,7 +57,7 @@ iMedia Communications, Inc. aggregates personally identifiable information and d
 **5\. What are my options?**  
 Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our site without registering. Users who opt-in may remove themselves from mailing lists at any time through the subscription management pages or by following the instructions at the end of the e-mail they received from us.
 
-**7\. How will i know if the privacy policy is changed?**
+**6\. How will I know if the privacy policy is changed?**
 
 Any modification to our privacy practices will be reflected within this area of our Web site. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection we will send affected users written notice of the change. 
 
