@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compuserve.com privacy policy that was archived on 2000-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000519222153id_/http%3A//www.compuserve.com/gateway/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuserve.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208035600id_/http%3A//www.compuserve.com/compuserve/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# My CompuServe
 
 **CompuServe's Privacy Policy - An Overview**  
 CompuServe Interactive Services, Inc. is strongly committed to protecting the privacy of consumers of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for consumers, and in particular, ensure that kids' information is protected. 
@@ -24,4 +24,4 @@ If we decide to change our privacy policy for CompuServe.com, we will post those
 
 Questions regarding the above statement should be directed to CompuServe Interactive Services, Inc. (email: actionteam@compuserve.com) for clarification. To return to the Site, please use the "Back" button on your browser. 
 
-CompuServe is committed to protecting children's online privacy. Click [here](https://web.archive.org/web/20000519222153id_/http%3A//www.compuserve.com/gateway/kids.asp) to see CompuServe's special [Children's Privacy Policy](https://web.archive.org/web/20000519222153id_/http%3A//www.compuserve.com/gateway/kids.asp). 
+CompuServe is committed to protecting children's online privacy. Click [here](https://web.archive.org/web/20001208035600id_/http%3A//www.compuserve.com/compuserve/kids.asp) to see CompuServe's special [Children's Privacy Policy](https://web.archive.org/web/20001208035600id_/http%3A//www.compuserve.com/compuserve/kids.asp). 
