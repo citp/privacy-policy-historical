@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202023054id_/http%3A//www.beautybrands.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605190310id_/http%3A//www.beautybrands.com/privacy.html) for the most accurate reproduction.*
 
 # beauty brands
 
@@ -19,7 +19,15 @@ We occasionally set cookies for sites that require registration, but these cooki
 
 We allow registered users of our products and services to "opt out" of receiving email from **beauty brands** and outside companies at the time of registration. When a user has given permission, email addresses may be used for promotional purposes for relevant reputable offers. If you do not want to receive these emails, please send your email address to the email address listed below.
 
-Postal addresses and telephone numbers collected on-line may be used for periodic mailings and/or phone calls from us with information on new products and services or upcoming events, and from other reputable companies. If you do not wish to be contacted by third-party companies by mail or phone, provide your name, address and telephone number to privacy@beautybrands.com, and we will be sure your name is removed from the list we share with other organizations. When contacting us, please include the titles of publications to which you subscribe. 
+Postal addresses and telephone numbers collected on-line may be used for periodic mailings and/or phone calls from us with information on new products and services or upcoming events, and from other reputable companies. If you do not wish to be contacted by third-party companies by mail or phone, provide your name, address and telephone number to priv
+
+acy@beau
+
+tybra
+
+nds.c
+
+om, and we will be sure your name is removed from the list we share with other organizations. When contacting us, please include the titles of publications to which you subscribe. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices change at some time in the future, we will post the policy changes to our web site. You will always have the ability to opt out of these new uses. If you are concerned about how your information is used, bookmark this page and check back periodically. 
 
@@ -29,31 +37,37 @@ From time to time, we may use customer information for new, unanticipated uses n
 Privacy Issues   
 4600 Madison Suite 400   
 Kansas City, MO 64112   
-Email: privacy@bradv.com   
+Email: priv
+
+acy@br
+
+adv.c
+
+om   
 Phone: 816-531-2266
 
-|  |  |  [](https://web.archive.org/web/20031202023054id_/http%3A//www.beautybrands.com/BB_new.html)  
+|  |  |  [](https://web.archive.org/web/20040605190310id_/http%3A//www.beautybrands.com/BB_new.html)  
 
 
-**TRUCCO by Sebastian**  
-arrives at **beauty brands** just in time for the Holidays ($9.48 – $27.98)
+**Anthony Logistics for Men™**  
+A multi–functional, multi–benefit personal care system of skincare, bath and body products designed exclusively for men. ($8 – $50).
 
   
   
 ---  
-[](https://web.archive.org/web/20031202023054id_/http%3A//www.beautybrands.com/BB_fp.html)  
+[](https://web.archive.org/web/20040605190310id_/http%3A//www.beautybrands.com/BB_fp.html)  
 
 
 **be all™**  
-Buy specially priced be all™ gift set. Includes four 1.7 oz. travel sizes of Shower Gel, Body Lotion, Body Scrub, Bubble Bath and gift bag. Only $9.98
+Buy specially priced be all™ gift set. Includes four 1.7-oz. travel sizes of Shower Gel, Body Lotion, Body Scrub, Bubble Bath and gift bag for just $9.98.
 
   
   
   
-[](https://web.archive.org/web/20031202023054id_/http%3A//www.beautybrands.com/BB_fs.html)
+[](https://web.archive.org/web/20040605190310id_/http%3A//www.beautybrands.com/BB_fs.html)
 
-**Give Yourself a Hand**  
-The Manicure at **beauty brands**.
+**Put your best foot forward**  
+the Spa Pedicure at **beauty brands**.
 
   
 
