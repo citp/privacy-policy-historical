@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masters.com.au privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216225429id_/http%3A//www.masters.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masters.com.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610112636id_/http%3A//masters.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Masters Medical Pty Ltd - Privacy Statement
 
