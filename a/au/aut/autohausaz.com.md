@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the autohausaz.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021054024id_/http%3A//www.autohausaz.com/html/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autohausaz.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609155156id_/http%3A//www.autohausaz.com/html/privacystatement.html) for the most accurate reproduction.*
 
 # Auto Parts Shopping Where Your Security and Privacy are Guaranteed
-
-| 
 
 You, our valued [Winners Circle Member](http://www.autohausaz.com/html/winners.html), can rest assured that  
 Autohaus is firmly committed to protecting the  
 privacy and security of all your communications with us.  
 Here's our commitment to you:
 
-**Registration & Parts Request Forms: ** Our [Winners Circle](http://www.autohausaz.com/html/register.cfm) registration and [Free Parts Request](http://www.autohausaz.com/html/freequote.html) forms ask you to for contact information (like your name, email, phone, & address), as well as basic information on your import car.
+**Registration Form:   **Our [Winners Circle](http://www.autohausaz.com/html/register.cfm) Registration form asks you to for basic contact information. You are encouraged to "Update Your Personal Profile" (from the [Members Only Menu) ](http://www.autohausaz.com/membersonly/)with any additional information you wish to keep on file to save you time on all your future requests and orders. This contact information is used to respond to your requests and process any orders you place. No credit card information is stored in your online profile.
 
-Contact information from these forms is used to respond to your requests and get in touch with you when necessary.  Car information is used to locate the correct part numbers for the parts being requested.
+After registration, you will be asked to log into the 
 
- **Order Form:   **Our site provides you with a 
+[Members Only Menu ](http://www.autohausaz.com/membersonly/) to add basic information on the import car(s) for which you'll be checking on parts. Car information is used only for the purpose of locating the correct part numbers for the parts being requested.
+
+**Order Form:   **Our site provides you with a 
 
 [Secure Order Form](https://www.autohausaz.com/secure/orderpage.html) to order your import auto parts.  Contact information (like your email address, phone, & shipping address) and credit card information is used only for the purpose of processing and shipping your import auto parts to you.
 
- **External Links:**   This site contains links to other sites.  Autohaus AZ is not responsible for the privacy practices or the content of such websites.
+**External Links:**   This site contains links to other sites.  Autohaus AZ is not responsible for the privacy practices or the content of such websites.
 
- **Opt-In/Opt-Out:** Our site provides you with the opportunity to opt-in or opt-out of receiving the Winners Circle Hot Updates newsletter.  You are given the choice to opt-in or opt-out at any time. To do so, just log into the 
+**Opt-In/Opt-Out:** Our site provides you with the opportunity to opt-in or opt-out of receiving the Winners Circle Hot Updates newsletter.  You are given the choice to opt-in or opt-out at any time. To do so, just log into the 
 
-[Members Only](http://www.autohausaz.com/membersonly/) area, select "Update Personal Data" from the [Members Only Menu](http://www.autohausaz.com/membersonly/), go to the last question on this form, and click on Yes or No (as appropriate).
+[Members Only Menu](http://www.autohausaz.com/membersonly/) and select "Subscribe/Unsubscribe".
 
 Your privacy is  
 highly respected & carefully safeguarded at Autohaus AZ.  
@@ -40,5 +40,3 @@ Privacy Policy or any of your dealings with Autohaus AZ,
 please contact our 
 
 [Webmaster](mailto:webmaster@autohausaz.com).
-
-| 
