@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cw.com privacy policy that was archived on 2002-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020811061121id_/http%3A//www.cw.com/router.jsp%3FID%3Dcl_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622060654id_/http%3A//www1.cw.com/router.jsp%3FID%3Dcl_privacy) for the most accurate reproduction.*
 
 # Privacy Policy Cable & Wireless
 
@@ -73,7 +73,7 @@ The Cable & Wireless Data Protection Director has the responsibility to ensure t
 
 Each local Data Protection Officer reports directly to the Data Protection Director.  The Data Protection Director and each Data Protection Officer meet on an “as necessary” basis to discuss this Privacy Policy and any individual complaints or disputes not resolved at the local level. 
 
-The Data Protection Director is accountable for Cable & Wireless’s compliance with the Privacy Policy.  Cable & Wireless conducts regular audits of its compliance with this Privacy Policy.  The Data Protection Director is Christine Slight who is located at Cable and Wireless plc’s office at 124 Theobalds Road, London, WC1X 8RX, United Kingdom. The Data Protection Director can also be contacted on [DataProtection@plc.cwplc.com](mailto:DataProtection@plc.cwplc.com), telephone number +44 (0)20 7945 8791, fax number +44 (0)20 7315 5093.
+The Data Protection Director is accountable for Cable & Wireless’s compliance with the Privacy Policy.  Cable & Wireless conducts regular audits of its compliance with this Privacy Policy.  The Data Protection Director is Jane McElhatton who is located at Cable and Wireless plc’s office at 124 Theobalds Road, London, WC1X 8RX, United Kingdom. The Data Protection Director can also be contacted on [DataProtection@plc.cwplc.com](mailto:DataProtection@plc.cwplc.com), telephone number +44 (0)20 7945 8791, fax number +44 (0)20 7315 5093.
 
 **What happens if you have a complaint about Cable & Wireless’s use of your personal data?**
 
