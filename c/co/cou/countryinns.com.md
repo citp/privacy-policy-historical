@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202123900id_/http%3A//www.countryinns.com/CHI/Footer/Privacy/0%2C3067%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryinns.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602170447id_/http%3A//www.countryinns.com/CHI/Footer/Privacy/0%2C3067%2C%2C00.html) for the most accurate reproduction.*
 
 # Country Inns & Suites - Privacy Policy
 
