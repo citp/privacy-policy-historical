@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the testking.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083112id_/http%3A//www.testking.com/index.cfm%3Fpageid%3D723%26siteid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testking.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204070347id_/http%3A//www.testking.com/index.cfm%3Fpageid%3D723%26siteid%3D1) for the most accurate reproduction.*
 
 # Studying for Cisco CCNA, CCNP, CCIE 640-607, 350-001, 640-605, 640-901 exams? - TestKing
 
-|  |  [](http://www.quickcert.com/testking/home.htm?source=TK2)
+|  [](http://www.quickcert.com/testking/home.htm?source=TK3 "MCSE Training")  
+
 
 Test King, Inc. obeys a strict code of privacy in regards to our customers' and visitors' information.  The following outlines what information we collect, and what we will do with it.  Test King is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
@@ -34,87 +35,105 @@ We also send our customers product announcement updates.  Customers are not abl
 _**Notification of Changes**_  
 If we decide to change our privacy policy, we will post these changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a chance to inform us that we can't use their information.   We will use information in accordance with the privacy policy in place when the information was collected. 
 
+**[MCSE Training](http://www.testking.com/ "A+ Certification")**
+
 |  |  |  |   
 ---  
-[Microsoft 70-210](http://www.testking.com/70-210.htm)  
-[Microsoft 70-216](http://www.testking.com/70-216.htm)  
-[Microsoft 70-215](http://www.testking.com/70-215.htm)  
-[Microsoft 70-217](http://www.testking.com/70-217.htm)  
-[Microsoft 70-270](http://www.testking.com/70-270.htm)  
-[Microsoft 70-218](http://www.testking.com/70-218.htm)  
-[CompTIA N10-002](http://www.testking.com/N10-002.htm)  
-[Cisco 350-001](http://www.testking.com/350-001.htm)  
-[Cisco 640-861](http://www.testking.com/640-861.htm)  
-[Cisco 642-801](http://www.testking.com/642-801.htm)  
-[Cisco 642-811](http://www.testking.com/642-811.htm)  
-[Cisco 642-821](http://www.testking.com/642-821.htm)  
-[Cisco 642-831](http://www.testking.com/642-831.htm)  
-[Microsoft 70-292](http://www.testking.com/70-292.htm)  
-[Microsoft 70-296](http://www.testking.com/70-296.htm)  
-[Microsoft 70-290](http://www.testking.com/70-290.htm)  
-[Microsoft 70-291](http://www.testking.com/70-291.htm)  
-[Microsoft 70-294](http://www.testking.com/70-294.htm)  
-[Cisco 642-891](http://www.testking.com/642-891.htm)  
-[Cisco 640-801](http://www.testking.com/640-801.htm)  
-[CompTIA 220-302](http://www.testking.com/220-302.htm)  
-[Microsoft 70-284](http://www.testking.com/70-284.htm)  
-[Oracle 1z0-007](http://www.testking.com/1z0-007.htm) 6/1  
-[Cisco 642-531](http://www.testking.com/642-531.htm) 6/1  
-[Cisco 9E0-300](http://www.testking.com/9E0-300.htm) 6/1  
-[Cisco 642-291](http://www.testking.com/642-291.htm) 6/1  
-[Cisco 642-831](http://www.testking.com/642-831.htm) 5/31  
-[Microsoft 70-292](http://www.testking.com/70-292.htm) 5/31  
-[Microsoft 70-290](http://www.testking.com/70-290.htm) 5/31  
-[Cisco 640-861](http://www.testking.com/640-861.htm) 5/30  
-[Cisco 640-821](http://www.testking.com/640-821.htm) 5/30  
-[Cisco 640-811](http://www.testking.com/640-811.htm) 5/30  
-[Cisco 640-801](http://www.testking.com/640-801.htm) 5/30  
-[CompTIA 220-302](http://www.testking.com/220-302.htm) 5/28  
-[CompTIA PK0-002](http://www.testking.com/PK0-002.htm) 5/28  
-[Citrix 1Y0-913](http://www.testking.com/1Y0-913.htm) 5/28  
-[Cisco 642-541](http://www.testking.com/642-541.htm) 5/28  
-[Cisco 642-521](http://www.testking.com/642-521.htm) 5/27  
-[Cisco 646-201](http://www.testking.com/646-201.htm) 5/27  
-[Microsoft 70-293](http://www.testking.com/70-293.htm) 5/27  
-[Microsoft 70-294](http://www.testking.com/70-294.htm) 5/27  
-[Sun 310-035](http://www.testking.com/310-035.htm) 5/27  
-[IBM 000-285](http://www.testking.com/000-285.htm) 5/27  
-[HP HP0-795](http://www.testking.com/HP0-795.htm) 5/27  
-[PMI PMI-001](http://www.testking.com/PMI-001.htm) 5/27  
-[CompTIA 220-301](http://www.testking.com/220-301.htm) 5/27  
-[ECCOUNCIL 312-50](http://www.testking.com/312-50.htm) 5/26  
-CIW 1D0-442  
-Cisco 642-582  
-Sun 310-081  
-HP HP0-680  
-Sun 310-090  
-Microsoft 70-299  
-Citrix 1Y0-992  
+[Cisco](https://web.archive.org/certification-training-Cisco.htm)  
+[350-001](https://web.archive.org/350-001.htm)  
+[642-801](https://web.archive.org/642-801.htm)  
+[642-811](https://web.archive.org/642-811.htm)  
+[642-821](https://web.archive.org/642-821.htm)  
+[642-831](https://web.archive.org/642-831.htm)  
+[640-801](https://web.archive.org/640-801.htm)  
+[642-577](https://web.archive.org/642-577.htm)  
+[642-052](https://web.archive.org/642-052.htm)  
+[642-342](https://web.archive.org/642-342.htm)  
+[CompTIA](https://web.archive.org/certification-training-CompTIA.htm)  
+[220-301](https://web.archive.org/220-301.htm)  
+[220-302](https://web.archive.org/220-302.htm)  
+[Microsoft](https://web.archive.org/certification-training-Microsoft.htm)  
+[70-284](https://web.archive.org/70-284.htm)  
+[70-297](https://web.archive.org/70-297.htm)  
+[70-281](https://web.archive.org/70-281.htm)  
+[70-282](https://web.archive.org/70-282.htm)  
+[70-210](https://web.archive.org/70-210.htm)  
+[70-216](https://web.archive.org/70-216.htm)  
+[70-215](https://web.archive.org/70-215.htm)  
+[70-217](https://web.archive.org/70-217.htm)  
+[70-270](https://web.archive.org/70-270.htm)  
+[70-218](https://web.archive.org/70-218.htm)  
+[70-292](https://web.archive.org/70-292.htm)  
+[70-296](https://web.archive.org/70-296.htm)  
+[70-290](https://web.archive.org/70-290.htm)  
+[70-291](https://web.archive.org/70-291.htm)  
+[70-293](https://web.archive.org/70-293.htm)  
+[70-294](https://web.archive.org/70-294.htm)  
+[70-285](https://web.archive.org/70-285.htm)  
+[Novell](https://web.archive.org/certification-training-Novell.htm)  
+[50-677](https://web.archive.org/50-677.htm)  
+[Cisco](https://web.archive.org/certification-training-Cisco.htm)  
+[642-642](https://web.archive.org/642-642.htm) 12/3  
+[642-352](https://web.archive.org/642-352.htm) 12/3  
+[642-342](https://web.archive.org/642-342.htm) 12/2  
+[640-801](https://web.archive.org/640-801.htm) 11/30  
+[350-018](https://web.archive.org/350-018.htm) 11/30  
+[646-202](https://web.archive.org/646-202.htm) 11/27  
+[642-531](https://web.archive.org/642-531.htm) 11/26  
+[642-831](https://web.archive.org/642-831.htm) 11/26  
+[642-801](https://web.archive.org/642-801.htm) 11/25  
+[642-432](https://web.archive.org/642-432.htm) 11/25  
+[642-811](https://web.archive.org/642-811.htm) 11/24  
+[642-511](https://web.archive.org/642-511.htm) 11/24  
+[Citrix](https://web.archive.org/certification-training-Citrix.htm)  
+[1Y0-913](https://web.archive.org/1Y0-913.htm) 12/2  
+[1Y0-721](https://web.archive.org/1Y0-721.htm) 11/23  
+[CIW](https://web.archive.org/certification-training-CIW.htm)  
+[1D0-430](https://web.archive.org/1D0-430.htm) 12/2  
+[1D0-420](https://web.archive.org/1D0-420.htm) 12/2  
+[CompTIA](https://web.archive.org/certification-training-CompTIA.htm)  
+[220-301](https://web.archive.org/220-301.htm) 11/19  
+[220-302](https://web.archive.org/220-302.htm) 11/19  
+[HP](https://web.archive.org/certification-training-HP.htm)  
+[HP0-002](https://web.archive.org/HP0-002.htm) 11/19  
+[ISC](https://web.archive.org/certification-training-ISC.htm)  
+[CISSP](https://web.archive.org/CISSP.htm) 11/30  
+[Lotus](https://web.archive.org/certification-training-Lotus.htm)  
+[190-521](https://web.archive.org/190-521.htm) 11/28  
+[Microsoft](https://web.archive.org/certification-training-Microsoft.htm)  
+[70-271](https://web.archive.org/70-271.htm) 12/3  
+[70-299](https://web.archive.org/70-299.htm) 12/2  
+[70-301](https://web.archive.org/70-301.htm) 12/2  
+[MOS-O2K](https://web.archive.org/MOS-O2K.htm) 12/2  
+[70-227](https://web.archive.org/70-227.htm) 12/1  
+[70-290](https://web.archive.org/70-290.htm) 11/30  
+[70-292](https://web.archive.org/70-292.htm) 11/29  
+[70-214](https://web.archive.org/70-214.htm) 11/29  
+[70-284](https://web.archive.org/70-284.htm) 11/29  
+[70-215](https://web.archive.org/70-215.htm) 11/28  
+[70-272](https://web.archive.org/70-272.htm) 11/25  
+[Novell](https://web.archive.org/certification-training-Novell.htm)  
+[50-688](https://web.archive.org/50-688.htm) 12/2  
+[50-665](https://web.archive.org/50-665.htm) 11/30  
+[50-684](https://web.archive.org/50-684.htm) 11/23  
+[Oracle](https://web.archive.org/certification-training-Oracle.htm)  
+[1z0-031](https://web.archive.org/1z0-031.htm) 11/19  
+Apple  
+9L0-505  
+Cisco  
+642-071  
+642-351  
+646-011  
+Citrix  
+1Y0-223  
+1Y0-973  
+1Y0-722  
+CompTIA  
+SK1-002  
+HP  
+HP0-536  
+HP0-645  
+Novell  
+50-686  
   
-[](http://www.certyourself.com/)  
-  
----  
-[9i DBA](http://www.testking.com/9i-DBA-certification-training.htm)  
-[A+](http://www.testking.com/A-Plus-certification-training.htm)  
-[CCDA](http://www.testking.com/CCDA-certification-training.htm)  
-[CCDP](http://www.testking.com/CCDP-certification-training.htm)  
-[CCEA](http://www.testking.com/CCEA-certification-training.htm)  
-[CCIE](http://www.testking.com/CCIE-certification-training.htm)  
-[CCIP](http://www.testking.com/CCIP-certification-training.htm)  
-[CCNA](http://www.testking.com/CCNA-certification-training.htm)  
-[CCNP](http://www.testking.com/CCNP-certification-training.htm)  
-[CCSA](http://www.testking.com/CCSA-certification-training.htm)  
-[CCSE](http://www.testking.com/CCSE-certification-training.htm)  
-[CCSP](http://www.testking.com/CCSP-certification-training.htm)  
-[CISSP](http://www.testking.com/CISSP-certification-training.htm)  
-[CNA](http://www.testking.com/CNA-certification-training.htm)  
-[MCAD .NET](http://www.testking.com/MCAD-NET-certification-training.htm)  
-[MCDBA](http://www.testking.com/MCDBA-certification-training.htm)  
-[MCSA](http://www.testking.com/MCSA-certification-training.htm)  
-[MCSD](http://www.testking.com/MCSD-certification-training.htm)  
-[MCSD .NET](http://www.testking.com/MCSD-NET-certification-training.htm)  
-[MCSE](http://www.testking.com/MCSE-certification-training.htm)  
-[MCSE 2003](http://www.testking.com/MCSE-2003-certification-training.htm)  
-[NetWare 6 CNA](http://www.testking.com/NetWare-6-CNA-certification-training.htm)  
-[Network+](http://www.testking.com/Network-Plus-certification-training.htm)  
-[Security+](http://www.testking.com/Security-Plus-certification-training.htm)
+[](http://www.certyourself.com/)
