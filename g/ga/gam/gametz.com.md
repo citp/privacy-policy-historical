@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402132348id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074414id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
 
 # Game Trading Zone - Privacy
+
+GameTZ Privacy Statement
 
 ### Privacy Statement for Game Trading Zone
 
@@ -32,6 +34,8 @@ Users may freeze or request deletion of their account if they wish to no longer 
   * You can visit the following URL: <http://gametz.com/?A=My+Account>
 
 In either case, any GameTZ user has the option of removing their personal information from the GameTZ database by direct request. 
+
+GameTZ may use your information for on-site promotion and explanations. If you wish to opt-out of this, please contact [moderators@gametz.com](mailto:moderators@gametz.com). 
 
 ### Correct/Update
 
