@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604162848id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012004529id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
 
 # Immigration Department Website: Privacy Statement
 
@@ -82,4 +82,4 @@ Please note the Privacy Officer will only respond to queries on privacy matters.
 **[ Return to Previous Page ]**
 
   
-Last update: 11 March 2004 at 08:28 AEST 
+Last update: 17 September 2004 at 09:54 AEST 
