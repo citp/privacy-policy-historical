@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhizome.org privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002082039id_/http%3A//rhizome.org/info/27.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhizome.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606155204id_/http%3A//rhizome.org/info/27.php) for the most accurate reproduction.*
 
 # Rhizome.org: Info--Privacy Statement
 
