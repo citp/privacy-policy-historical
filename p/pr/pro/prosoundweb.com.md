@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204190011id_/http%3A//www.prosoundweb.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403213041id_/http%3A//www.prosoundweb.com/about/privacy.php) for the most accurate reproduction.*
 
 # Huge Universe, Inc./ProSoundWeb.com Privacy Policy
 
-## Privacy Statement for Huge Universe Web Sites, including [ProSoundWeb.com](http://www.prosoundweb.com/), [LiveSoundInt.com](http://www.livesoundint.com/), and [Live-Audio.com](http://www.live-audio.com/)
+## Privacy Statement for Huge Universe Web Sites, including [ProSoundWeb.com](http://www.prosoundweb.com/), [LiveSoundInt.com](http://www.livesoundint.com/), and [ChurchSoundMagazine.com](http://www.churchsoundmagazine.com/)
 
-Huge Universe, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our websites: ProSoundWeb.com, srforums.prosoundweb.com, recforums.prosoundweb.com, marsh.prosoundweb.com, networkforums.prosoundweb.com, Live-Audio.com, and LiveSoundInt.com, and any and all subsidiary sites, hereafter referred to as "our site" or "this site." 
+Huge Universe, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our websites: ProSoundWeb.com, LiveSoundInt.com, ChurchSoundMagazine.com, srforums.prosoundweb.com, recforums.prosoundweb.com, marsh.prosoundweb.com, networkforums.prosoundweb.com, and Live-Audio.com and any and all subsidiary sites, hereafter referred to as "our site" or "this site." 
 
 We use your IP address to help diagnose problems with our server, and to administer our site. Your IP address is used to help identify you, track the state of your session and to gather broad demographic information. 
 
