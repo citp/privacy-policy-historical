@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adviva.net privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610150528id_/http%3A//www.adviva.com/index.php%3Fpage%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adviva.net privacy policy that was archived on 2002-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020804113821id_/http%3A//www.adviva.com/v2/index.php%3Fpage%3D1) for the most accurate reproduction.*
 
 # Adviva: Intelligent Online Advertising
 
