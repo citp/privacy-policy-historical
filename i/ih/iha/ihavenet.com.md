@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810124042id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihavenet.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624131036id_/http%3A//www.ihavenet.com/privacy.html) for the most accurate reproduction.*
 
-# Breaking News and Headlines: iHaveNet.com Privacy Policy
-
- | 
+# Breaking News and Headlines: Single Source to Headlines, Breaking News and Top Stories
 
 **This statement discloses the privacy practices of the iHaveNet.com site.**
 
@@ -21,7 +19,9 @@ The goal of www.iHaveNet.com is to be your premiere destination on the Internet 
 **Anonymous information** refers to information that cannot be tied back to a specific individual. Each time a visitor comes to www.iHaveNet.com, we collect some information to improve the overall quality of our visitors' online experience. We collect: 
 
 * IP addresses (e.g., whether the user is logged on from a .com, .gov or .edu domain);
+
 * Referral data (e.g., the address of the last URL a user visited prior to clicking through to www.iHavenet.com); 
+
 * Browser and platform type (e.g., a Netscape browser on a Windows platform). 
 
 **Personally identifiable information** refers to information that tells us specifically who you are, such as your name, email address and/or mailing address. We may collect personally identifiable information under the following circumstance: 
@@ -35,6 +35,7 @@ We also collect information "anonymously" using "cookies." Presently, "cookies" 
 To help serve you better we generally uses cookies to: 
 
 * Help us remember who you are through your browser settings so that we can offer and provide personalized services. 
+
 * We use cookies to store and sometimes track information about whom has done and seen on our site. Cookies also allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit. 
 
 Without cookies, it could be difficult for us to know that certain services are more popular than others are. This information helps us to better understand when to open up new services. 
@@ -44,5 +45,3 @@ Cookies help us know whether or not users have seen particular displays, includi
 **Links to other sites**
 
 Be aware that iHaveNet.com affiliates, sponsors and other advertisers have links on our sites that take you to other sites that may collect personally identifiable information about you. We hopes that all third parties involved adhere to our policies regarding the privacy of our users. However, this iHaveNet.com Privacy Policy does not cover third party data collection practices and iHaveNet.com and promiQue.com, LLC do not assume any responsibility for any actions of third parties. 
-
-**Contact information for questions regarding this statement should be directed to:**
