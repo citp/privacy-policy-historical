@@ -1,29 +1,10 @@
-> *The following text is extracted and transformed from the askandyaboutclothes.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Front%2520PG%2520Articles/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askandyaboutclothes.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611234337id_/http%3A//askandyaboutclothes.com/Front%2520PG%2520Articles/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Ask Andy DEPARTMENTS Men
 
-Ask Andy  **  
-** DEPARTMENTS  
-  
-** [ Men's Fashion Forum](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Forum/forum.asp?FORUM_ID=3)**  
-**[ Clothes Closet ](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Clothes%20Articles/Do%20Clothes%20Really%20Matter.htm)   
-[ What to Wear and When](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/WWW/WWW/WWW%20Main%20Page.htm)**  
-**[ Menswear Industry News](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Menswear%20News/Menswear%20Industry%20News.htm)**  
-** [ Lifestyle](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Lifestyle/lifestyle%20articles.htm)**  
-**[ Travelin' Man](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Travel/travel%20intro.htm)**  
-** [Andy's Quiz Challenge](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Quizzes/test%201.htm)  
-[ Tee Time](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Golf/basic_golf_etiquette.htm)  
-[Favorite Men's Store](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Store/Store.asp)**  
-**[ Encyclopedia](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/SALES/New%20Detailed%20Articles.htm)  
-[ Newsletters ](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Newsletters/newsletters.htm)   
-[ FAQs](https://web.archive.org/web/20031002152923id_/http%3A//askandyaboutclothes.com/Clothes%20Articles/closet_faqs.htm)**  
- 
-
-| 
-
 **Privacy Policy:**
 
-These policies relate to information that we at  ASKANDYABOUTCLOTHES gather about you and the use that we make of it in the course of our business.  
+These policies relate to information that we at ASKANDYABOUTCLOTHES gather about you and the use that we make of it in the course of our business.  
 
 ASKANDYABOUTCLOTHES collects personally identifying information in certain portions of the site in which guests specifically and knowingly provide such information along with content submissions, Forum postings, and suggestions. 
 
