@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022342id_/http%3A//www.pdfcomplete.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2005-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050321111949id_/http%3A//www.pdfcomplete.com/privacy.htm) for the most accurate reproduction.*
 
 # PDF Complete
 
@@ -11,11 +11,11 @@ Personal Information
 
 PDF Complete understands your desire to protect personal information. We intend to inform you how your personal information will be gathered, tracked or used, and to give you choices. If choices are not offered on web pages where your personal information is obtained, please select one of the communication channels at the bottom of this statement to indicate your communication preferences.
 
-Information we gather and track
+General Information we gather and track
 
 We request personal information when you place an order, register a product, request a service, answer a survey, enter a contest, correspond with us or engage in certain other activities on our website. For example: If you submit an order on-line with us, we will ask you for information necessary to complete the transaction - such as your name, address, and credit card number. If you request technical support online, we will ask you for information necessary to complete the transaction — such as your name address and information about your computer hardware, software and the nature of the problem you are experiencing. You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction.
 
-How we use the information we gather and track
+How we use the General Information we gather and track
 
 We use personally identifiable information in the following ways:
 
@@ -39,6 +39,13 @@ PDF Complete provides a number of ways for you to ‘opt-out’ of receiving add
 Children’s privacy
 
 PDF Complete is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. PDF Complete does not knowingly collect information from children under the age of 13 and PDF Complete does not target its websites to children under 13.  
+  
+  
+Software Updates Provided Online
+
+PDF Complete provides a online update service to provide improved versions our software. These updates are provided to correct operational defects and provide additional feature functionality to our users. As part of the software update process, we collect the following information: a statistically unique number (but not a Windows GUID), your IP address, software version, type of operating system, the number of pages and documents that have been created, the number of users, installation language, and the number of days used.
+
+We collect this information in order to help us better understand the usage patterns of our products to provide more timely and relevent updates. We also use this information for planning and forecasting server loads, upgrade patterns, and purchasing patterns. The information is also used to generate aggregate statistics about how our software, web site, and update services are used so that we may provide the best possible support to our customers. We do not collect any information that personally identifies you, your company, or your purchase.  
   
   
 Security
