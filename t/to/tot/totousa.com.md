@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totousa.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031200630id_/http%3A//totousa.com/toto/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totousa.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601113345id_/http%3A//www.totousa.com/TOTO/privacypolicy.asp) for the most accurate reproduction.*
 
 # TOTO USA’s Privacy Policy
 
