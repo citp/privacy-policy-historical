@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216181426id_/http%3A//www.kaakateeya.com/aboutUs.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622203614id_/http%3A//www.kaakateeya.com/aboutUs.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # Indian Marriages and Indian Matrimonials - Kaakateeya.Com
-
-This confirms that kaakateeya.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
-
-1\. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site.  
-2\. The organization collecting the information.  
-3\. How the information is used,   
-4\. With whom the information may be shared   
-5\. What choices are available to you regarding collection, use and distribution of the information.   
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under kaakateeya.com control.  
-7\. How you can correct any inaccuracies in the information. 
-
-If you have questions or concerns regarding this statement, you should first contact (Krishna Yalamanchi,Customer Support) by email at krishna@kaakateeya.com.  
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
-
-By using our site, you consent to the collection and use of your information as described in this Privacy Policy. Any changes to our Privacy Policy will be reflected on this page so that you are always aware of the information we collect and how we use it. 
 
 **Registration**   
 In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site.   
@@ -104,9 +89,9 @@ kaakateeya.com may work with a third party to serve ads on our site. These ads m
 We will notify you directly via email if there is a material change in our privacy practices. We will also post the changes in our privacy statement 30 days prior to a change. 
 
 Our address  
-Kaakateeya Matrimonial Wing  
-118 Sanali Apts., Behind   
-Kamma Sangam, Ameerpet,  
-Hyderabad - 500 079   
-AP India  
+Kaakateeya.Com  
+3233 Monument,  
+Ann Arbor,  
+MI - 48108   
+USA  
 http://www.kaakateeya.com 
