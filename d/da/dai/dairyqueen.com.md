@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dairyqueen.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603141217id_/http%3A//www.dairyqueen.com/en-US/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dairyqueen.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205180439id_/http%3A//www.dairyqueen.com/en-US/privacy.htm) for the most accurate reproduction.*
 
 # Dairy Queen: US
 
