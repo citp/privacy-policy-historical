@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppi2pass.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013044503id_/http%3A//www.ppi2pass.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppi2pass.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603221920id_/http%3A//ppi2pass.com/priv.html) for the most accurate reproduction.*
 
 # PPI Privacy Policy
 
@@ -18,4 +18,4 @@ Professional Publications occasionally shares Personal Information with an affil
 
 * * *
 
-Copyright © 2002 Professional Publications, Inc. | www.ppi2pass.com | 800-426-1178 
+Copyright © 2003 Professional Publications, Inc. | www.ppi2pass.com | 800-426-1178 
