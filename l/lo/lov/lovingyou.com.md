@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201043857id_/http%3A//www.lovingyou.com/info/content.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201195100id_/http%3A//www.lovingyou.com/info/content.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
 
 # Lovingyou.com: Love, Romance and Relationship Resources
 
@@ -46,7 +46,7 @@ Children should always ask a parent for permission before sending personal infor
 **Cookies**  
 Lovingyou.com, Inc. places advertising on our sites that originates from outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, a cookie may be assigned by the advertiser. Lovingyou.com, Inc. does not control these cookies. 
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects and stores anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy](http://www.engage.com/privacy/).
+This site uses the services of Adtegrity.com for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Adtegrity.com collects and stores anonymous data typically through the use of cookies. To learn more about Adtegrity.com, including their privacy policy, go to <http://www.adtegrity.com/privacy.asp>.
 
 **Limitations**  
 Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
