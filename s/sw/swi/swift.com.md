@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408234014id_/http%3A//www.swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208083428id_/http%3A//www.swift.com/index.cfm%3Fitem_id%3D1037) for the most accurate reproduction.*
 
 # SWIFT - Home - About SWIFT - SWIFT data privacy
 
-Protecting your privacy is very important to SWIFT. To do so, we follow general principles in accordance with worldwide best practices on data protection. Information we collect may include personal data related to individuals such as name, address and e-mail address. We treat all this information as confidential. We do not give it or sell it to any third party, except as required by law or as necessary for us to provide you with the required services. We hope the following policy will help you understand how SWIFT collects, uses, and safeguards your information on our web site.
+[Home](https://web.archive.org/index.cfm?Item_id=1001) > About SWIFT > [Company information](https://web.archive.org/index.cfm?Item_id=41322) > Privacy statement
 
-We reserve the right, at our discretion, to add, modify, or remove portions of this policy at any time. Please check it periodically for changes. 
+Protecting your privacy is very important to SWIFT. To do so, we follow general principles in accordance with worldwide best practice on data protection. Information we collect may include personal data related to individuals such as name, address and email address. We treat all this information as confidential. We do not give it or sell it to any third party, except as required by law or as necessary for us to provide you with the required services. We hope the following policy will help you understand how SWIFT collects, uses and safeguards your information on our website.
+
+We reserve the right, at our discretion, to add, modify or remove portions of this policy at any time. Please check it periodically for changes. 
 
 ## Browsing 
 
-If you browse the SWIFT web site, you do so anonymously. We may use your IP address (the Internet address of your computer) to administer our web site and to collect and distribute aggregate statistics about our visitors such as traffic patterns and related site information, time spent on a page for internal use only. 
+If you browse the SWIFT website, you do so anonymously. We may use your IP address (the Internet address of your computer) to administer our website and to collect and distribute aggregate statistics about our visitors such as traffic patterns and related site information, time spent on a page etc., for internal use only. 
 
 ## Collecting and using your information
 
 ### Identification data 
 
-When you **voluntarily** supply us with your personal information such as your name, home or business address and e-mail address or other contact information, we will currently use it to correspond with you. In the future, we may also use it to start a subscription upon your request, to register you for a particular service or event, or to prepare your purchase orders. 
+When you **voluntarily** supply us with your personal information such as your name, home or business address and email address or other contact information, we will use it to correspond with you. In the future, we may also use it to start a subscription upon your request, to register you for a particular service or event, or to prepare your purchase orders. 
 
 ### Recruitment data 
 
-Our site also provides a capability for potential candidates to submit their CVs via e-mail. Any CV received by us will be held confidential and used only for the purpose of considering employment or internship as requested. With the exception of recruitment counsels, such information is not shared with third parties unless specifically requested or authorised by the submitting party. 
+Our site also provides a capability for potential candidates to submit their CVs via email. Any CV received by us will be held confidential and used only for the purpose of considering employment or internship as requested. With the exception of recruitment counsels, such information is not shared with third parties unless specifically requested or authorised by the submitting party. 
 
 ### Sharing your data 
 
@@ -34,8 +36,8 @@ We are fully committed to data security. To prevent unauthorised access, maintai
 
 ## Retention 
 
-Currently, we only retain information about you required to reply to your emails. 
+Currently, we only retain information about youin order to reply to your emails. 
 
-## Link to other sites 
+## Links to other sites 
 
 This website may contain links to other websites that are not controlled or maintained by SWIFT. Please note that SWIFT is not responsible for the content of these sites. SWIFT is providing outside links for your convenience only, and the inclusion of such links does not imply any endorsement of these sites. 
