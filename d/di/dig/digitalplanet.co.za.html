@@ -1,13 +1,162 @@
-<!--The following is the downloaded HTML source of the digitalplanet.co.za privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204004659id_/http%3A//www.digitalplanet.co.za/dp/about/default.asp%3FID%3D10) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitalplanet.co.za privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603090503id_/http%3A//www.digitalplanet.co.za/dp/about/default.asp%3FID%3D10) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script language="javascript">
+function ShowHideLeftProds(inObj,iRedirect)
+{
+  if(document.getElementById("leftproddiv_" + inObj.id.split("_")[1].toString()))
+  {
+    if(document.getElementById("leftproddiv_" + inObj.id.split("_")[1].toString()).className == "leftdivopen")
+    {
+      document.getElementById("leftproddiv_" + inObj.id.split("_")[1].toString()).className = "leftdivclosed";
+      document.getElementById("leftprodimg_" + inObj.id.split("_")[1].toString()).src = "/dp/images/productinfo/leftprodsclosed.gif";
+      RemoveLeftValFromCookie(inObj.id.split("_")[1].toString());
+    }
+    else
+    {
+      document.getElementById("leftproddiv_" + inObj.id.split("_")[1].toString()).className = "leftdivopen";
+      document.getElementById("leftprodimg_" + inObj.id.split("_")[1].toString()).src = "/dp/images/productinfo/leftprodsopen.gif";
+      AddLeftValToCookie(inObj.id.split("_")[1].toString());
+    }
+  }
+if(Number(iRedirect) == 1)
+{
+if(document.getElementById("lefthid_" + inObj.id.split("_")[1].toString()))
+{
+  if(Number(document.getElementById("lefthid_" + inObj.id.split("_")[1].toString()).value) > 0)
+  {
+    if(document.getElementById("lefthidredir_" + inObj.id.split("_")[1].toString()))
+    {
+//      AddLeftValToCookie(inObj.id.split("_")[1].toString());
+      document.location = document.getElementById("lefthidredir_" + inObj.id.split("_")[1].toString()).value;
+    }
+  }
+}
+}
+}
+
+
+function RemoveLeftValFromCookie(inVal)
+{
+  var cValue = "";
+  cValue = GetLeftCookie("dp_prod_menus").replace("," + inVal.toString(),"");
+  if(cValue == ",")
+  {
+    cValue = "";
+  }
+  SetLeftCookie("dp_prod_menus", cValue);
+
+}
+
+function AddLeftValToCookie(inVal)
+{
+  var cValue = "";
+  if(GetLeftCookie("dp_prod_menus") == "")
+  {
+    cValue = "," + inVal.toString().replace(" ","") + ",";
+  }
+  else
+  {
+    cValue = GetLeftCookie("dp_prod_menus").toString() + inVal.toString() + ",";
+  }
+  if(GetLeftCookie("dp_prod_menus").toString().search("," + inVal.toString().replace(" ","") + ",") == -1)
+  {
+    SetLeftCookie("dp_prod_menus", cValue);
+  }
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+									START OF THE PART THAT ASSIGNS AND RETRIEVES COOKIE VALUES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+/***************************************************************************************************
+*Name:			GetLeftCookie
+*Purpose:		retrieves the value af a cookie
+*Inputs:		  name - name of the cookie
+*Returns:		 value in cookie
+*Remarks:		returns blank if cookie not found
+***************************************************************************************************/
+function GetLeftCookie (name) 
+{  
+	var arg = name + "=";  
+	var alen = arg.length;  
+	var clen = document.cookie.length;  
+	var i = 0;  
+	while (i < clen)
+	{    
+		var j = i + alen;    
+		if (document.cookie.substring(i, j) == arg)
+		{
+			return getLeftCookieVal (j);    
+		}
+		i = document.cookie.indexOf(" ", i) + 1;    
+		if (i == 0)
+		{
+			break;   
+		}
+	}  
+	return "";
+}
+
+/***************************************************************************************************
+*Name:			getLeftCookieVal
+*Purpose:		used by GetCookie to return the cookie value
+*Inputs:		  offset - where to start
+*Returns:		 value in cookie
+*Remarks:
+***************************************************************************************************/
+function getLeftCookieVal (offset) 
+{  
+	var endstr = document.cookie.indexOf (";", offset);  
+	if (endstr == -1)
+	{
+		endstr = document.cookie.length;  
+	}
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+
+/***************************************************************************************************
+*Name:			SetLeftCookie
+*Purpose:		assigns a value to a cookie
+*Inputs:		  name - name of the cookie
+*					 value - value to put in the cookie
+*Returns:		 value in cookie
+*Remarks:
+***************************************************************************************************/
+function SetLeftCookie (name, value) 
+{  
+	var argv = SetLeftCookie.arguments;  
+	var argc = SetLeftCookie.arguments.length;  
+	var expires = (argc > 2) ? argv[2] : null;  
+	var path = (argc > 3) ? argv[3] : null;  
+	var domain = (argc > 4) ? argv[4] : null;  
+	var secure = (argc > 5) ? argv[5] : false;  
+	document.cookie = name + "=" + escape (value) + ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + ((path == null) ? "" : ("; path=" + path)) +  ((domain == null) ? "" : ("; domain=" + domain)) + ((secure == true) ? "; secure" : "");
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+											END OF THE PART THAT ASSIGNS AND RETRIEVES COOKIE VALUES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+</script>
+
+
+<!-- Site Tracker ----------------------------------------------------------------------------------------------------------------->
+
+
+
+
 <meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
 <meta name="keywords" content="computer,computers,it,hardware,software, networking, books, pc, shop, shopping, online shop, online computer shop">
 <meta name="keywords" content="cpu, memory, cd rom, cd, dvd, nic, pda, monitor, projector, scanner, modem, motherboard, hub, switch, router">
 <meta name="keywords" content="3COM,3M,Accton, Acer, Adobe, APC, ATL, Axiz, Bay Networks,Casio,Cisco, Compaq, Computer Associates, Corel,  Digi, DLT, Eicon, Epson, Extreme, Fujitsu, Hewlett-Packard, I-Ring, IBM, IMC, Intel, Lexmark, Logitech, Lotus, Lucent,  MGE, Microsoft, Motorola, Nbase-Xyplex, OKI, OS2 Express, Palm, Philips, Pink Software, Psion, QMS, Quantum, Seagate Software, SMC, Symantec, Targus, Tarsus, TrendNet,Visio">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
 
-<link rel="StyleSheet" href="/dp/StyleSheet.css" type="text/css"><script language="JavaScript" type="text/javascript">
+<link rel="StyleSheet" href="/dp/StyleNewLook.css" type="text/css"><script language="JavaScript" type="text/javascript">
 <!--
 	document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/dp/common/menu/menu.js' TYPE='text/javascript'><\/SCR" + "IPT>");
 //end
@@ -32,22 +181,22 @@ function AdRollOut(oTd) {if (!oTd.contains(event.toElement)) {oTd.bgColor="#548C
 <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 
 
-	<table cellspacing="0" cellpadding="0" width="780" border="0" class="MainTable">
+	<table cellspacing="0" cellpadding="0" width="100%" border="0" class="MainTable">
 
 <tbody><tr>
 	<td colspan="3">
 		<table cellspacing="0" cellpadding="0" width="100%" border="0">
-			<tbody><tr valign="top">
+			<tbody><tr valign="top" class="headerBackground">
 
-	<td valign="top" width="160"><a href="http://www.digitalplanet.co.za"><img src="/dp/Common/Images/Header/DP_logo.gif" width="160" height="95" border="0</a"></a></td>
+	<td rowspan="2" valign="middle" width="160" class="topimagethinblackbottom"><a href="/dp/default.asp"><img src="/dp/Common/Images/Header/DP_mainlogo.gif" border="0"></a></td>
+
+
 
 	<td valign="top" width="495" align="center" nowrap=""><br>
-<a href="/dp/add_rotator/redirect.asp?url=http%3A%2F%2Fwww%2Edigitalplanet%2Eco%2Eza%2Fdp%2Fshop%2Ftheshop%2Easp%3FShopID%3D49%26Shop%3DOKI%2520Shop&amp;BannerID=1109&amp;image=/dp/banners/okib4000-3.gif"><img src="/dp/banners/okib4000-3.gif" alt="OKI B4000 3" width="468" height="60" border="0"></a>
+<a href="/dp/add_rotator/redirect.asp?url=http%3A%2F%2Fwww%2Edigitalplanet%2Eco%2Eza%2Fdp%2Fshop%2Fman%5Flevel2%2Easp%3FStockManufacturer%3DThermaltake&amp;BannerID=1252&amp;image=/dp/banners/ThermT_gen468_mar04.gif"><img src="/dp/banners/ThermT_gen468_mar04.gif" alt="Thermaltake General March 04" width="468" height="60" border="0"></a>
 							</td>
-        	<td width="125" class="Login" align="right">
+        	<td rowspan="2" width="125" align="right" valign="middle" class="thinBlackBottom">
           
-
-
 <table border="0" cellspacing="0" cellpadding="0" height="90">
 
 	<form action="/dp/login/processlogin.asp" target="_self" method="post" id="LoginForm" name="LoginForm"></form>
@@ -66,7 +215,7 @@ function AdRollOut(oTd) {if (!oTd.contains(event.toElement)) {oTd.bgColor="#548C
 	</tr>
 	
 	<tr>
-		<td align="right"><input type="image" border="0" src="/dp/Login/Images/DP_logon.gif" width="55" height="19"></td>
+		<td align="left"><input type="image" border="0" src="/dp/Login/Images/dp_but_logon.gif"></td>
 	</tr>
 
 	
@@ -75,76 +224,90 @@ function AdRollOut(oTd) {if (!oTd.contains(event.toElement)) {oTd.bgColor="#548C
 
           </td>
 			</tr>
-		</tbody></table>	
+      
+      <tr class="headerBackground">
+        <td align="center" valign="bottom">
+        <table align="center" cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="40%" class="thinBlackBottom">&nbsp;</td><td width="20%"><table align="center" cellspacing="0" cellpadding="0" border="0" style="position:relative;top:48;z-index:2"><tbody><tr><td nowrap=""><a href="/dp/products/productdetails.asp?LevelId=6&amp;IsLevel=True&amp;mid=6&amp;midclicked=6"><img name="menubutton_1_0" id="menubutton_1_0" src="/dp/Images/header/dp_tab_comp_2.gif" style="border:none;z-index:3;" alt="Computing"></a><a href="/dp/products/productdetails.asp?LevelId=16&amp;IsLevel=True&amp;mid=16&amp;midclicked=16"><img name="menubutton_1_1" id="menubutton_1_1" src="/dp/Images/header/dp_tab_bluetooth_2.gif" style="border:none;z-index:3;z-index:3;" alt="Bluetooth"></a><a href="/dp/products/productdetails.asp?LevelId=7&amp;IsLevel=True&amp;mid=7&amp;midclicked=7"><img name="menubutton_1_2" id="menubutton_1_2" src="/dp/Images/header/dp_tab_dvds_2.gif" style="border:none;z-index:3;z-index:3;z-index:3;" alt="DVDs"></a><a href="/dp/products/productdetails.asp?LevelId=86&amp;IsLevel=True&amp;mid=86&amp;midclicked=86"><img name="menubutton_1_3" id="menubutton_1_3" src="/dp/Images/header/dp_tab_digicam_2.gif" style="border:none;z-index:3;z-index:3;z-index:3;z-index:3;" alt="Digital Cameras"></a><a href="/dp/products/productdetails.asp?LevelId=25&amp;IsLevel=True&amp;mid=25&amp;midclicked=25"><img name="menubutton_1_4" id="menubutton_1_4" src="/dp/Images/header/dp_tab_gaming_2.gif" style="border:none;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;" alt="Gaming"></a><a href="/dp/products/productdetails.asp?LevelId=9&amp;IsLevel=True&amp;mid=9&amp;midclicked=9"><img name="menubutton_1_5" id="menubutton_1_5" src="/dp/Images/header/dp_tab_cons_2.gif" style="border:none;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;" alt="Consumables"></a><a href="/dp/products/productdetails.asp?LevelId=0&amp;IsLevel=True&amp;mid=0&amp;midclicked=0"><img name="menubutton_1_6" id="menubutton_1_6" src="/dp/Images/header/dp_tab_all_2.gif" style="border:none;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;" alt="All Categories"></a></td></tr></tbody></table><table align="center" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td nowrap=""><a href="/dp/products/productdetails.asp?LevelId=87&amp;IsLevel=True&amp;mid=87&amp;midclicked=87"><img name="menubutton_0_0" id="menubutton_0_0" src="/dp/Images/header/dp_tab_mp3_2.gif" style="border:none;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;" alt="MP3 Players"></a><a href="/dp/products/productdetails.asp?LevelId=5&amp;IsLevel=True&amp;mid=5&amp;midclicked=5"><img name="menubutton_0_1" id="menubutton_0_1" src="/dp/Images/header/dp_tab_home_2.gif" style="border:none;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;" alt="For Your Home"></a><a href="/dp/products/productdetails.asp?LevelId=13&amp;IsLevel=True&amp;mid=13&amp;midclicked=13"><img name="menubutton_0_2" id="menubutton_0_2" src="/dp/Images/header/dp_tab_note_2.gif" style="border:none;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;" alt="Notebook PC -  PDA"></a><a href="/dp/products/productdetails.asp?LevelId=22&amp;IsLevel=True&amp;mid=22&amp;midclicked=22"><img name="menubutton_0_3" id="menubutton_0_3" src="/dp/Images/header/dp_tab_printers_2.gif" style="border:none;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;z-index:3;" alt="Printers / Scanners / All in Ones"></a></td></tr></tbody></table></td><td width="40%" class="thinBlackBottom">&nbsp;</td></tr></tbody></table>
+        </td>
+      </tr>
+
+     
+     
+     
+     
+     
+     
+      <tr>
+        <td colspan="3" class="smallSpaceHeaderBlue">
+          &nbsp;
+        </td>
+      </tr>
+
+
+
+      <tr>
+        <td colspan="3" class="headerGreyBar">
+          <table width="95%" align="center" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td width="50%" align="left" valign="center">
+              <a href="/dp/faq/default.asp" class="headinglinks">Help</a>&nbsp;<b>|</b>
+              <a href="/dp/About/default.asp?id=1" class="headinglinks">About Us</a>&nbsp;<b>|</b>
+              <a href="/dp/faq/default.asp" class="headinglinks">F.A.Q</a>&nbsp;<b>|</b>
+              <a href="/dp/About/default.asp?id=2" class="headinglinks">Contact Us</a>
+              </td>
+              
+              <td width="50%" align="right" valign="middle">
+                <!-- must use another table here, orherwise it messes up the valigns (the images and text is all wrongly aligned)-->
+                <table align="right" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td nowrap="" valign="middle">
+                      <a href="/dp/customers/default.asp"><img src="/dp/Images/Header/dp_icon_customer.gif" style="border:none"></a>
+                    </td>
+                    <td nowrap="" valign="middle">
+                      &nbsp;<a href="/dp/customers/default.asp" class="headinglinks">Customer Zone</a>&nbsp;&nbsp;
+                    </td>
+
+
+                    <td nowrap="" valign="middle">
+                      <a href="/dp/shop/checkOut.asp?Action=ViewBasket"><img src="/dp/Images/Header/dp_icon_trolley.gif" style="border:none"></a>
+                    </td>
+                    <td nowrap="" valign="middle">
+                      &nbsp;<a href="/dp/shop/checkOut.asp?Action=ViewBasket" class="headinglinks">My Trolley</a>
+                    </td>
+
+                  </tr>
+                </tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+		</tbody></table>
 	</td>
 </tr>
-
-<tr>
-  <td colspan="3">
-    <table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-	<td bgcolor="#548CAB" colspan="2" width="144" height="50">
-    <table cellspacing="0" cellpadding="0" border="0" bgcolor="#548CAB" width="100%">
-          <form action="/dp/search/searchresults.asp" method="get" name="Search"></form>
-          				<tbody><tr>
-          					<td align="center"><input type="search" size="12" name="txtSearch" class="InputBox"></td>
-          					<td align="right"><input type="image" src="/dp/common/images/menu/top/Dp_Go.gif" border="0" width="30" height="19" id="image1" name="image1"></td>	
-          				</tr>
-          				<tr>
-          					<td align="center" valign="center" class="menutextwhite"><a href="/dp/search/search.asp" class="menutextwhite">Search Options</a></td>
-          					<td></td>
-          				</tr>
-          			
-          </tbody></table>
-      	</td>
-      	<td width="34" valign="top"><img src="/dp/common/images/menu/top/dp_topbar_curve1.gif" width="34" height="50"></td>
-      	
-      	<td valign="top" width="592">
-      <table cellspacing="0" cellpadding="0" width="100%" border="0" bgcolor="#548CAB">
-      		<tbody><tr>
-      			<td align="center" width="170"><a href="/dp/shop/default.asp" onmouseover="popUp('HM_Menu1',event)" onmouseout="popDown('HM_Menu1')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_shopping.gif" border="0" width="42" height="27"></a></td>
-      			<td align="center" width="170"><a href="/dp/customers/default.asp" onmouseover="popUp('HM_Menu5',event)" onmouseout="popDown('HM_Menu5')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_customer.gif" border="0" width="42" height="27"></a></td>
-      			<td align="center" width="170"><a href="/dp/Content/default.asp" onmouseover="popUp('HM_Menu4',event)" onmouseout="popDown('HM_Menu4')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_content.gif" border="0" width="42" height="27"></a></td>
-      			<td align="center" width="169"><a href="/dp/about/default.asp" onmouseover="popUp('HM_Menu6',event)" onmouseout="popDown('HM_Menu6')" class="menutextwhite"><img src="/dp/common/images/menu/top/dp_help.gif" border="0" width="42" height="27"></a></td>
-            <td width="1">&nbsp;</td>
-      			<td align="left" rowspan="2" bgcolor="#CEDCE8" width="80"><img src="/dp/common/images/menu/top/dp_topbar_curve2.gif" border="0" width="31" height="50"></td>
-      			<td align="center" bgcolor="#CEDCE8"><a href="/dp/shop/checkOut.asp?Action=ViewBasket" onmouseover="popUp('HM_Menu7',event)" onmouseout="popDown('HM_Menu7')" class="menutextblack"><img src="/dp/common/images/menu/top/dp_basket.gif" border="0" width="42" height="27"></a></td>
-      		</tr>
-      		<tr>
-      			<td align="center" class="menutextwhite"><a href="/dp/shop/default.asp" onmouseover="popUp('HM_Menu1',event)" onmouseout="popDown('HM_Menu1')" class="menutextwhite">shopping</a></td>
-      			<td align="center" class="menutextwhite"><a href="/dp/customers/default.asp" onmouseover="popUp('HM_Menu5',event)" onmouseout="popDown('HM_Menu5')" class="menutextwhite" nowrap="">customer zone</a></td>
-      			<td align="center" class="menutextwhite"><a href="/dp/Content/default.asp" onmouseover="popUp('HM_Menu4',event)" onmouseout="popDown('HM_Menu4')" class="menutextwhite">subscribe</a></td>
-      			<td align="center" class="menutextwhite"><a href="/dp/about/default.asp" onmouseover="popUp('HM_Menu6',event)" onmouseout="popDown('HM_Menu6')" class="menutextwhite">help</a></td>
-            <td align="right">&nbsp;</td>
-      			<td align="center" bgcolor="#CEDCE8" class="menutextblack"><a href="/dp/shop/checkOut.asp?Action=ViewBasket" onmouseover="popUp('HM_Menu7',event)" onmouseout="popDown('HM_Menu7')" class="menutextblack">basket</a></td>
-      		</tr>
-      </tbody></table>
-      	</td>
-      </tr>
-    </tbody></table>
-  </td>
-</tr>
-
+<tr><td colspan="3">&nbsp;</td></tr>
 	<tr>
-  	<td valign="top" class="LightBlueBack">
-						<table cellspacing="0" cellpadding="0" border="0"> 
+  	<td valign="top">
+						<table cellspacing="0" cellpadding="0" border="0" width="160"> 
 						 
 <tbody><tr>
 		<td valign="top" width="160">
 			<table cellspacing="0" cellpadding="0" border="0" width="160">
-<tbody><tr><td colspan="2" align="left" bgcolor="#003063"><img src="/dp/common/images/menu/left/Dp_brand_stores.gif" width="160" height="33"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=3&amp;Shop=Microsoft" title="Microsoft"><img src="/dp/common/images/shops/DP_microsoft_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=1&amp;Shop=Hewlett Packard" title="Hewlett Packard"><img src="/dp/common/images/shops/DP_hp_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=8&amp;Shop=Epson" title="Epson"><img src="/dp/common/images/shops/DP_epson_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=2&amp;Shop=Palm" title="Palm Shop"><img src="/dp/common/images/shops/DP_palm_butt2.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=49&amp;Shop=OKI Shop" title="OKI Shop"><img src="/dp/common/images/shops/Oki_button.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=6&amp;Shop=Acer" title="Acer shop"><img src="/dp/common/images/shops/DP_acer_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=53&amp;Shop=BenQ" title="BenQ Shop"><img src="/dp/common/images/shops/DP_benq_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=35&amp;Shop=Logitech" title="Logitech"><img src="/dp/common/images/shops/DP_logitech_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=31&amp;Shop=Fujitsu Siemens" title="Fujitsu Siemens"><img src="/dp/common/images/shops/fujitsu_shop_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=37&amp;Shop=Mcafee Shop" title="Mcafee Shop"><img src="/dp/common/images/shops/DP_mcafee_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=39&amp;Shop=Adobe" title="Adobe"><img src="/dp/common/images/shops/DP_adobe2_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=45&amp;Shop=Tarsus" title="tarsus"><img src="/dp/common/images/shops/DP_tarsus_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=40&amp;Shop=Corel" title="Corel Shop"><img src="/dp/common/images/shops/DP_corel2_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=43&amp;Shop=Samsung Shop" title="Samsung Shop"><img src="/dp/common/images/shops/DP_samsung_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=52&amp;Shop=Commenicate Shop" title="Commenicate Shop"><img src="/dp/common/images/shops/DP_commenicate2_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=34&amp;Shop=Symantec Shop" title="Symantec"><img src="/dp/common/images/shops/DP_symantec_butt2.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=42&amp;Shop=Verbatim" title="Verbatim"><img src="/dp/common/images/shops/DP_verbatim_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=48&amp;Shop=Macromedia Shop" title="Macromedia Shop"><img src="/dp/common/images/shops/DP_macromedia_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=14&amp;Shop=Creative Labs" title="Creative Labs"><img src="/dp/common/images/shops/DP_creative_shop.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=60&amp;Shop=Iomega" title="Iomega Shop"><img src="/dp/common/images/shops/DP_iomega_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr><td colspan="2" align="left"><br><img src="/dp/common/images/menu/left/DP_specialty_stores.gif" width="160" height="33"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/GameDvdZone/Default.asp?L1=6&amp;zone=70" title="Game Zone"><img src="/dp/common/images/shops/DP_gamezone_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=57&amp;Shop=Digital Camera" title="Digital Camera Shop"><img src="/dp/common/images/shops/DP_digcam_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=58&amp;Shop=PDA" title="PDA Shop"><img src="/dp/common/images/shops/DP_handheld_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=44&amp;Shop=Notebook Bags Shop" title="Notebook Bag Shop"><img src="/dp/common/images/shops/DP_notebag_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=18&amp;Shop=Book Shop" title="Book Shop"><img src="/dp/common/images/shops/DP_books_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=38&amp;Shop=Ink &amp; Toner Shop" title="Ink &amp; Toner Shop"><img src="/dp/common/images/shops/DP_cart_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=46&amp;Shop=IT  Accessories" title="IT Accessories"><img src="/dp/common/images/shops/DP_itacc_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/bargain.asp" title="R99 Store"><img src="/dp/common/images/shops/DP_R99_butt3.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=56&amp;Shop=Cable Link Shop" title="Cable Link Shop"><img src="/dp/common/images/shops/DP_cableshop_butt2.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/manufacturer.asp" title="Other Brands"><img src="/dp/common/images/shops/DP_others_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=59&amp;Shop=MP3 Player" title="MP3 Player shop"><img src="/dp/common/images/shops/dp_mp3_butt2.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=61&amp;Shop=Desktop PC Shop" title="Desktop PC Shop"><img src="/dp/common/images/shops/DP_pcshop_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr><tr>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=62&amp;Shop=DVD Zone" title="DVD Zone"><img src="/dp/common/images/shops/DP_dvd_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/shop/theshop.asp?ShopID=63&amp;Shop=Notebook Shop" title="Notebook Shop"><img src="/dp/common/images/shops/DP_notebookshop_butt.gif" border="0"></a></td></tr><tr>	<td colspan="2" align="center"><img src="/dp/common/images/menu/left/Dp_shop_divider.gif"></td></tr>
+<tbody><tr><td width="100%" align="center" class="leftTopButtonsBack"><table width="90%" align="center" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%" align="left"><a href="/dp/default.asp"><img border="0" src="/dp/images/dp_but_home.gif"></a><br><a href="/dp/shop/specials.asp"><img border="0" src="/dp/images/dp_but_special.gif"></a><br><a href="/dp/shop/coolproducts.asp"><img border="0" src="/dp/images/dp_but_cool.gif"></a><br></td></tr></tbody></table></td></tr><tr><td>&nbsp;</td></tr><tr><td width="100%" align="center" class="leftTopButtonsBack"><table cellspacing="0" cellpadding="0" border="0" width="100%"><form action="/dp/search/searchresults.asp" method="get" name="Search"></form><tbody><tr height="22"><td align="left" nowrap="" width="1%" class="leftHeadingsBottomLine"><img src="/dp/images/dp_headright_crnr_l.gif"></td><td align="left" nowrap="" width="98%" class="leftHeadingsTopLineAndBottomLine">SEARCH</td><td align="right" nowrap="" width="1%" class="leftHeadingsBottomLine"><img src="/dp/images/dp_headleft_crnr_r.gif"></td></tr><tr><td align="left" colspan="3" nowrap="" class="leftHeadingsBottomLeftAndRightLine"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td></tr><tr><td>&nbsp;<input type="search" size="12" name="txtSearch" class="InputBox">&nbsp;<input type="image" src="/dp/images/dp_but_searchgo.gif" border="0"></td></tr><tr><td align="left" valign="center">&nbsp;<a href="/dp/search/search.asp" class="headinglinks">Search Options</a></td></tr><tr><td>&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td>&nbsp;</td></tr><tr><td width="100%" align="center" class="leftTopButtonsBack"><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr height="22"><td align="left" nowrap="" width="1%" class="leftHeadingsBottomLine"><img src="/dp/images/dp_headright_crnr_l.gif"></td><td align="left" nowrap="" width="98%" class="leftHeadingsTopLineAndBottomLine">SHOP BY BRAND</td><td align="right" nowrap="" width="1%" class="leftHeadingsBottomLine"><img src="/dp/images/dp_headleft_crnr_r.gif"></td></tr><tr><td align="left" colspan="3" nowrap="" class="leftHeadingsBottomLeftAndRightLineWhite"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" class="smallTextHeader">&nbsp;</td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=OKI&amp;ShopID=49&amp;IsShop=true&amp;storeclick=49" title="OKI Shop"><img src="/dp/common/images/shops/Oki_button.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Hewlett-Packard&amp;ShopID=1&amp;IsShop=true&amp;storeclick=1" title="Hewlett Packard"><img src="/dp/common/images/shops/DP_hp_butt.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Epson&amp;ShopID=8&amp;IsShop=true&amp;storeclick=8" title="Epson"><img src="/dp/common/images/shops/DP_epson_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Lexmark&amp;ShopID=65&amp;IsShop=true&amp;storeclick=65" title="Lexmark Shop"><img src="/dp/common/images/shops/DP_lex_butt.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=BenQ&amp;ShopID=53&amp;IsShop=true&amp;storeclick=53" title="BenQ Shop"><img src="/dp/common/images/shops/DP_benq_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Mecer&amp;ShopID=41&amp;IsShop=true&amp;storeclick=41" title="Mecer Shop"><img src="/dp/common/images/shops/DP_mecer_butt.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Palm&amp;ShopID=2&amp;IsShop=true&amp;storeclick=2" title="Palm Shop"><img src="/dp/common/images/shops/DP_palm_butt2.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Acer&amp;ShopID=6&amp;IsShop=true&amp;storeclick=6" title="Acer shop"><img src="/dp/common/images/shops/DP_acer_butt.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Fujitsu-Siemens&amp;ShopID=31&amp;IsShop=true&amp;storeclick=31" title="Fujitsu Siemens"><img src="/dp/common/images/shops/fujitsu_shop_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=LG&amp;ShopID=36&amp;IsShop=true&amp;storeclick=36" title="LG Electronics"><img src="/dp/common/images/shops/DP_lg_butt.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Macromedia&amp;ShopID=48&amp;IsShop=true&amp;storeclick=48" title="Macromedia Shop"><img src="/dp/common/images/shops/DP_macromedia_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Adobe&amp;ShopID=39&amp;IsShop=true&amp;storeclick=39" title="Adobe"><img src="/dp/common/images/shops/DP_adobe2_butt.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Corel&amp;ShopID=40&amp;IsShop=true&amp;storeclick=40" title="Corel Shop"><img src="/dp/common/images/shops/DP_corel2_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Microsoft&amp;ShopID=3&amp;IsShop=true&amp;storeclick=3" title="Microsoft"><img src="/dp/common/images/shops/DP_microsoft_butt.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Logitech&amp;ShopID=35&amp;IsShop=true&amp;storeclick=35" title="Logitech"><img src="/dp/common/images/shops/DP_logitech_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Apple&amp;ShopID=23&amp;IsShop=true&amp;storeclick=23" title="Apple Shop"><img src="/dp/common/images/shops/DP_apple_butt.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Samsung&amp;ShopID=43&amp;IsShop=true&amp;storeclick=43" title="Samsung Shop"><img src="/dp/common/images/shops/DP_samsung_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Creative Labs&amp;ShopID=14&amp;IsShop=true&amp;storeclick=14" title="Creative Labs"><img src="/dp/common/images/shops/DP_creative_shop.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Verbatim&amp;ShopID=42&amp;IsShop=true&amp;storeclick=42" title="Verbatim"><img src="/dp/common/images/shops/DP_verbatim_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Iomega&amp;ShopID=60&amp;IsShop=true&amp;storeclick=60" title="Iomega Shop"><img src="/dp/common/images/shops/DP_iomega_butt.gif" border="0"></a></td></tr><tr>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=McAfee&amp;ShopID=37&amp;IsShop=true&amp;storeclick=37" title="Mcafee Shop"><img src="/dp/common/images/shops/DP_mcafee_butt.gif" border="0"></a></td>	<td width="50%" align="center"><a href="/dp/products/productdetails.asp?LevelId=0&amp;ParentId=&amp;IsLevel=True&amp;mid=0&amp;manu=Symantec&amp;ShopID=34&amp;IsShop=true&amp;storeclick=34" title="Symantec"><img src="/dp/common/images/shops/DP_symantec_butt2.gif" border="0"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td>&nbsp;</td></tr><tr><td width="100%" align="center" class="leftTopButtonsBack"><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_16" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_16" id="lefthid_16" value="62"><input type="hidden" name="lefthidredir_16" id="lefthidredir_16" value="/dp/products/productdetails.asp?mid=16&amp;leftmidclicked=16&amp;LevelId=16&amp;ParentId=6&amp;IsLevel=True">Bluetooth Devices</td><td width="2%" nowrap="" align="right"><a href="/dp/products/productdetails.asp?mid=16&amp;leftmidclicked=16&amp;LevelId=16&amp;ParentId=6&amp;IsLevel=True" class="leftProductsHeadingLink"><img id="leftprodimg_16" style="cursor:hand;border:none" src="/dp/images/productinfo/leftprodsonly.gif"></a></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_6" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_6" id="lefthid_6" value="2"><input type="hidden" name="lefthidredir_6" id="lefthidredir_6" value="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=6&amp;ParentId=0&amp;IsLevel=True">Computing</td><td width="2%" nowrap="" align="right"><img id="leftprodimg_6" style="cursor:hand;" src="/dp/images/productinfo/leftprodsclosed.gif" onclick="ShowHideLeftProds(this,0)"></td></tr><tr><td colspan="3" class="leftprodsdivoutline" align="center"><div id="leftproddiv_6" class="leftdivclosed"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=16&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Bluetooth Devices</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=61&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Books</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=234&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Calculators</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=18&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Computer Components</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=19&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Keyboards / Mouse / Pens / Graphics Tablets</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=20&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Monitors and Projectors</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=21&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Networking</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=13&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Notebooks, PCs and PDAs</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=22&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Printers / Scanners / All-in-Ones</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=23&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Servers</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=6&amp;leftmidclicked=6&amp;LevelId=70&amp;ParentId=6&amp;IsLevel=True" class="leftprodslinks">Software</a></td></tr></tbody></table></div></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_9" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_9" id="lefthid_9" value="31"><input type="hidden" name="lefthidredir_9" id="lefthidredir_9" value="/dp/products/productdetails.asp?mid=9&amp;leftmidclicked=9&amp;LevelId=9&amp;ParentId=0&amp;IsLevel=True">Consumables (ink,CDs etc)</td><td width="2%" nowrap="" align="right"><img id="leftprodimg_9" style="cursor:hand;" src="/dp/images/productinfo/leftprodsclosed.gif" onclick="ShowHideLeftProds(this,0)"></td></tr><tr><td colspan="3" class="leftprodsdivoutline" align="center"><div id="leftproddiv_9" class="leftdivclosed"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=9&amp;leftmidclicked=9&amp;LevelId=83&amp;ParentId=9&amp;IsLevel=True" class="leftprodslinks">Blank CDs, DVDs and Optical</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=9&amp;leftmidclicked=9&amp;LevelId=129&amp;ParentId=9&amp;IsLevel=True" class="leftprodslinks">Cleaning Products</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=9&amp;leftmidclicked=9&amp;LevelId=82&amp;ParentId=9&amp;IsLevel=True" class="leftprodslinks">Ink and Toner</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=9&amp;leftmidclicked=9&amp;LevelId=84&amp;ParentId=9&amp;IsLevel=True" class="leftprodslinks">Paper</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=9&amp;leftmidclicked=9&amp;LevelId=85&amp;ParentId=9&amp;IsLevel=True" class="leftprodslinks">Tapes</a></td></tr></tbody></table></div></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_86" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_86" id="lefthid_86" value="272"><input type="hidden" name="lefthidredir_86" id="lefthidredir_86" value="/dp/products/productdetails.asp?mid=86&amp;leftmidclicked=86&amp;LevelId=86&amp;ParentId=5&amp;IsLevel=True">Digital Cameras</td><td width="2%" nowrap="" align="right"><img id="leftprodimg_86" style="cursor:hand;" src="/dp/images/productinfo/leftprodsclosed.gif" onclick="ShowHideLeftProds(this,0)"></td></tr><tr><td colspan="3" class="leftprodsdivoutline" align="center"><div id="leftproddiv_86" class="leftdivclosed"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=86&amp;leftmidclicked=86&amp;LevelId=133&amp;ParentId=86&amp;IsLevel=True" class="leftprodslinks">Accessories</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=86&amp;leftmidclicked=86&amp;LevelId=132&amp;ParentId=86&amp;IsLevel=True" class="leftprodslinks">Memory</a></td></tr></tbody></table></div></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_7" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_7" id="lefthid_7" value="603"><input type="hidden" name="lefthidredir_7" id="lefthidredir_7" value="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=7&amp;ParentId=0&amp;IsLevel=True">DVD</td><td width="2%" nowrap="" align="right"><img id="leftprodimg_7" style="cursor:hand;" src="/dp/images/productinfo/leftprodsclosed.gif" onclick="ShowHideLeftProds(this,0)"></td></tr><tr><td colspan="3" class="leftprodsdivoutline" align="center"><div id="leftproddiv_7" class="leftdivclosed"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=216&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Action</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=217&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Adventure</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=218&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Comedy</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=224&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Drama</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=219&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Family</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=220&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Horror</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=226&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Musical</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=206&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Romantic</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=223&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Sci-Fi</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=225&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Series</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=221&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Thriller</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=253&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">VHS Videos</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=7&amp;leftmidclicked=7&amp;LevelId=227&amp;ParentId=7&amp;IsLevel=True" class="leftprodslinks">Western</a></td></tr></tbody></table></div></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_5" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_5" id="lefthid_5" value="2"><input type="hidden" name="lefthidredir_5" id="lefthidredir_5" value="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=5&amp;ParentId=0&amp;IsLevel=True">For the Home</td><td width="2%" nowrap="" align="right"><img id="leftprodimg_5" style="cursor:hand;" src="/dp/images/productinfo/leftprodsclosed.gif" onclick="ShowHideLeftProds(this,0)"></td></tr><tr><td colspan="3" class="leftprodsdivoutline" align="center"><div id="leftproddiv_5" class="leftdivclosed"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=49&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">Cellular Accessories</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=86&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">Digital Cameras</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=214&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">Dishwashers / Washing Machines</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=151&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">DVD Players / Video Players(VCR)</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=11&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">Fridges</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=10&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">Hi-fi's</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=180&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">Home Theatre Systems</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=12&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">Microwaves</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=87&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">MP3 Players</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=63&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">TVs and Plasmas</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=222&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">Vacuum Cleaners</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=5&amp;leftmidclicked=5&amp;LevelId=255&amp;ParentId=5&amp;IsLevel=True" class="leftprodslinks">Video Cameras</a></td></tr></tbody></table></div></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_25" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_25" id="lefthid_25" value="0"><input type="hidden" name="lefthidredir_25" id="lefthidredir_25" value="/dp/products/productdetails.asp?mid=25&amp;leftmidclicked=25&amp;LevelId=25&amp;ParentId=0&amp;IsLevel=True">Gaming</td><td width="2%" nowrap="" align="right"><img id="leftprodimg_25" style="cursor:hand;" src="/dp/images/productinfo/leftprodsclosed.gif" onclick="ShowHideLeftProds(this,0)"></td></tr><tr><td colspan="3" class="leftprodsdivoutline" align="center"><div id="leftproddiv_25" class="leftdivclosed"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=25&amp;leftmidclicked=25&amp;LevelId=231&amp;ParentId=25&amp;IsLevel=True" class="leftprodslinks">Game Cube</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=25&amp;leftmidclicked=25&amp;LevelId=69&amp;ParentId=25&amp;IsLevel=True" class="leftprodslinks">Gameboy (GB &amp; GBA)</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=25&amp;leftmidclicked=25&amp;LevelId=106&amp;ParentId=25&amp;IsLevel=True" class="leftprodslinks">Gaming Hardware</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=25&amp;leftmidclicked=25&amp;LevelId=65&amp;ParentId=25&amp;IsLevel=True" class="leftprodslinks">PC Games</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=25&amp;leftmidclicked=25&amp;LevelId=68&amp;ParentId=25&amp;IsLevel=True" class="leftprodslinks">Playstation Hardware</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=25&amp;leftmidclicked=25&amp;LevelId=66&amp;ParentId=25&amp;IsLevel=True" class="leftprodslinks">Playstation(1 and 2) Games</a></td></tr></tbody></table></div></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_87" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_87" id="lefthid_87" value="91"><input type="hidden" name="lefthidredir_87" id="lefthidredir_87" value="/dp/products/productdetails.asp?mid=87&amp;leftmidclicked=87&amp;LevelId=87&amp;ParentId=5&amp;IsLevel=True">MP3 Players</td><td width="2%" nowrap="" align="right"><img id="leftprodimg_87" style="cursor:hand;" src="/dp/images/productinfo/leftprodsclosed.gif" onclick="ShowHideLeftProds(this,0)"></td></tr><tr><td colspan="3" class="leftprodsdivoutline" align="center"><div id="leftproddiv_87" class="leftdivclosed"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=87&amp;leftmidclicked=87&amp;LevelId=135&amp;ParentId=87&amp;IsLevel=True" class="leftprodslinks">Accessories</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=87&amp;leftmidclicked=87&amp;LevelId=134&amp;ParentId=87&amp;IsLevel=True" class="leftprodslinks">Memory</a></td></tr></tbody></table></div></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_13" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_13" id="lefthid_13" value="1"><input type="hidden" name="lefthidredir_13" id="lefthidredir_13" value="/dp/products/productdetails.asp?mid=13&amp;leftmidclicked=13&amp;LevelId=13&amp;ParentId=6&amp;IsLevel=True">Notebooks, PCs and PDAs</td><td width="2%" nowrap="" align="right"><img id="leftprodimg_13" style="cursor:hand;" src="/dp/images/productinfo/leftprodsclosed.gif" onclick="ShowHideLeftProds(this,0)"></td></tr><tr><td colspan="3" class="leftprodsdivoutline" align="center"><div id="leftproddiv_13" class="leftdivclosed"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=13&amp;leftmidclicked=13&amp;LevelId=113&amp;ParentId=13&amp;IsLevel=True" class="leftprodslinks">Complete PCs</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=13&amp;leftmidclicked=13&amp;LevelId=112&amp;ParentId=13&amp;IsLevel=True" class="leftprodslinks">Notebooks</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=13&amp;leftmidclicked=13&amp;LevelId=114&amp;ParentId=13&amp;IsLevel=True" class="leftprodslinks">PDAs</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=13&amp;leftmidclicked=13&amp;LevelId=53&amp;ParentId=13&amp;IsLevel=True" class="leftprodslinks">Tablet PCs</a></td></tr></tbody></table></div></td></tr></tbody></table><br><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td width="2%" class="leftProductsHeading">&nbsp;</td><td width="96%" class="leftProductsHeading" id="leftprod_22" onclick="ShowHideLeftProds(this,1)" style="cursor:hand"><input type="hidden" name="lefthid_22" id="lefthid_22" value="0"><input type="hidden" name="lefthidredir_22" id="lefthidredir_22" value="/dp/products/productdetails.asp?mid=22&amp;leftmidclicked=22&amp;LevelId=22&amp;ParentId=6&amp;IsLevel=True">Printers/Scanners/All-in-Ones</td><td width="2%" nowrap="" align="right"><img id="leftprodimg_22" style="cursor:hand;" src="/dp/images/productinfo/leftprodsclosed.gif" onclick="ShowHideLeftProds(this,0)"></td></tr><tr><td colspan="3" class="leftprodsdivoutline" align="center"><div id="leftproddiv_22" class="leftdivclosed"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=22&amp;leftmidclicked=22&amp;LevelId=27&amp;ParentId=22&amp;IsLevel=True" class="leftprodslinks">All-in-Ones</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=22&amp;leftmidclicked=22&amp;LevelId=28&amp;ParentId=22&amp;IsLevel=True" class="leftprodslinks">Copiers</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=22&amp;leftmidclicked=22&amp;LevelId=29&amp;ParentId=22&amp;IsLevel=True" class="leftprodslinks">Fax Machines</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=22&amp;leftmidclicked=22&amp;LevelId=246&amp;ParentId=22&amp;IsLevel=True" class="leftprodslinks">Printer sharing / Interface</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=22&amp;leftmidclicked=22&amp;LevelId=30&amp;ParentId=22&amp;IsLevel=True" class="leftprodslinks">Printers</a></td></tr><tr><td width="2%" nowrap="" valign="top">&nbsp;<img src="/dp/images/productinfo/arrow.gif">&nbsp;</td><td width="98%" valign="top" align="left"><a href="/dp/products/productdetails.asp?mid=22&amp;leftmidclicked=22&amp;LevelId=31&amp;ParentId=22&amp;IsLevel=True" class="leftprodslinks">Scanners</a></td></tr></tbody></table></div></td></tr></tbody></table></td></tr><tr><td>&nbsp;</td></tr>
 				</tbody></table>
 		</td>
 </tr>
 
 						</tbody></table>
+
+
 	</td>
-<td valign="top" align="left"><img src="/dp/common/images/menu/left/Dp_smallcurve_top.gif" width="9" height="14">&nbsp;&nbsp;&nbsp;</td><td valign="top"><table width="600" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr valign="top"><td width="100%" valign="top">
+<td valign="top" align="left">&nbsp;&nbsp;&nbsp;</td><td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr valign="top"><td width="100%" valign="top" class="mainbodyspacing">
 	
 		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 		<tbody><tr>
 			<td width="450">&nbsp;<font size="-2">You are here  &gt;&gt;  <b>About Us</b></font></td>
-			<td width="150" align="center">04 December 2003</td>
+			<td width="150" align="center">03 June 2004</td>
 		</tr>
 		<tr>
 			<td><br></td>
@@ -153,12 +316,12 @@ function AdRollOut(oTd) {if (!oTd.contains(event.toElement)) {oTd.bgColor="#548C
 	
 	<!-----CODE GOES HERE -------------------------------------------->
 	
-	<table width="600" cellpadding="0" bgcolor="white" align="center" border="0">
+	<table width="100%" cellpadding="0" bgcolor="white" align="center" border="0">
 	
 	<tbody><tr>
 	  <td>
 		  Click on the links below to view further information:
-			<table border="0" width="90%"><tbody><tr><td><b><li><a href="/dp/about/default.asp?ID=1">Overview</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=2">Contacting Us</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=3">Delivery Details</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=4">Terms and Conditions</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=5">Payment Options</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=6">Shopping at Digital Planet</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=7">Warranties and Returns</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=8">How to Register</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=10">Your Privacy</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=11">Loyalty Program</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=12">Security Measures</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=13">Legal Disclaimer</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=15">Changes at Digital Planet</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=16">Press Releases</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=18">Delivery Page Additional Info</a></li></b></td></tr></tbody></table>
+			<table border="0" width="90%"><tbody><tr><td><b><li><a href="/dp/about/default.asp?ID=1">Overview</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=2">Contacting Us</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=3">Delivery Details</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=4">Terms and Conditions</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=5">Payment Options</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=6">Shopping at Digital Planet</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=7">Warranties and Returns</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=8">How to Register</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=9">Jobs at Digital Planet</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=10">Your Privacy</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=11">Loyalty Program</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=12">Security Measures</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=13">Legal Disclaimer</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=15">Changes at Digital Planet</a></li></b></td></tr><tr><td><b><li><a href="/dp/about/default.asp?ID=16">Press Releases</a></li></b></td><td><b><li><a href="/dp/about/default.asp?ID=18">Delivery Page Additional Info</a></li></b></td></tr></tbody></table>
 		  <br>
 		  <hr>
 	  </td>
@@ -262,29 +425,38 @@ billing address, shipping address, and telephone number.
 	</td></tr></tbody></table>
 </td></tr><tr>
   <td colspan="3">
-    <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
       <tbody><tr>
-      		<td width="160" bgcolor="#548CAB">&nbsp;</td>
-      		<td valign="bottom" colspan="3"><img src="/dp/common/images/menu/left/Dp_smallcurve_bot.gif" width="9" height="14"></td>
+        <td align="center">
+          &nbsp;
+        </td>
       </tr>
-      
       <tr>
-      		<td valign="top" bgcolor="#548CAB">&nbsp;</td>
-      		<td valign="top" bgcolor="#548CAB" width="9">&nbsp;</td>
-      		<td valign="top" bgcolor="#CEDDE8"><img src="/dp/common/images/footer/dp_bottombar_curve.gif" width="30" height="50"></td>
-      		<td bgcolor="#CEDDE8">
-          	<a href="/DP/about/default.asp?ID=1" class="footertext">About Us</a> |
-      			<a href="/dp/about/default.asp?ID=10" class="footertext"> Privacy</a> | 
-      			<a href="/dp/about/default.asp?ID=12" class="footertext">Security</a> | 
-      			<a href="/dp/about/default.asp?ID=3" class="footertext">Delivery</a> | 
-      			<a href="/dp/faq/default.asp" class="footertext">F.A.Q</a> | 
-      			<a href="/dp/about/default.asp?ID=2" class="footertext">Contact Us</a>
-      		</td>
+      		<td width="100%" class="footerbluebar">&nbsp;</td>
+        </tr>
+        <tr>
+      		<td class="normalfooter" align="center">
+          	<a href="/DP/about/default.asp?ID=1" class="headinglinks">About Us</a> |
+      			<a href="/dp/about/default.asp?ID=10" class="headinglinks"> Privacy</a> | 
+      			<a href="/dp/about/default.asp?ID=12" class="headinglinks">Security</a> | 
+      			<a href="/dp/about/default.asp?ID=3" class="headinglinks">Delivery</a> | 
+      			<a href="/dp/faq/default.asp" class="headinglinks">F.A.Q</a> | 
+      			<a href="/dp/about/default.asp?ID=2" class="headinglinks">Contact Us</a>     		
+          </td>
+      </tr>
+      <tr>
+        <td class="normalfooter" align="center">
+          Copyright 2004 Digital Planet (PTY) Ltd., All rights reserved.
+        </td>
+      </tr>
+      <tr>
+        <td class="normalfooter" align="center">
+          &nbsp;
+        </td>
       </tr>
     </tbody></table>
   </td>
 </tr>
-
 </tbody></table>
 
 
