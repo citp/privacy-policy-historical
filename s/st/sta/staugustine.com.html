@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the staugustine.com privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203051143id_/http%3A//www.staugustine.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the staugustine.com privacy policy that was archived on 2004-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040611100153id_/http%3A//staugustine.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -123,10 +123,46 @@
 
 
 
-	<img src="/images/misc/dot_clear.gif" width="250" height="3" border="0" alt=""><br>
+	<!-- Search -->
 
+<!-- Begin Convera Search -->
 
-<!-- Search -->
+<!-- Change to reflect proper environment file (i.e. onlineathens_stories.env) -->
+
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><form action="/cgi-bin/smart_search/cqcgi/@staug_stories.env" method="post"></form><td height="1"><img src="/images/misc/dot_clear.gif" width="250" height="3" border="0" alt=""><br></td></tr></tbody></table>
+<!-- End change of .env file -->
+
+<!-- ------------------ BEGIN DO NOT MODIFY ------------------ -->
+
+<!-- Convera Required Fields to Perform Search -->
+	<input type="hidden" name="CQ_LOGIN">
+	<input type="hidden" name="CQ_USER_NAME" value="guest">
+	<input type="hidden" name="CQ_PASSWORD" value="guest">
+	<input type="hidden" name="CQ_DO_QUERY" value="YES">
+<!-- End Convera Required -->
+
+<!-- begin simulation of the 'Average Style' search -->
+	<input type="hidden" name="CQ_EXPANSION_LEVEL" value="3"><!-- MOST STRONGLY RELATED CONCEPTS -->
+	<input type="hidden" name="CQ_MAX_WILDCARD" value="1000">
+	<input type="hidden" name="CQ_MAX_FUZZY_SPELLING" value="50">
+	<input type="hidden" name="CQ_MAX_DOCS" value="50">
+	<input type="hidden" name="CQ_QUERY_TYPE" value="smart"><!-- CONCEPT SEARCH -->
+<!-- end simulation of the 'Average Style' search -->
+
+<!-- Mapping to the next page, look in /web/domain.com/conf/search/convera/cqcgi.tpt -->
+	<input type="hidden" name="CQ_DTF_SIMPLE_RESULTS" value="YES">
+<!-- End Mapping -->
+
+<!-- ------------------ END DO NOT MODIFY ------------------ -->
+
+<!-- Library declaration, if using multiple libraries, space-delimit libraries -->
+	<input type="hidden" name="CQ_CUR_LIBRARY" value="staug_stories">
+<!-- End library declaration -->
+
+<!-- Markup declaration: 1=no, 2=position, 3=ranked, 4=blinking, 5=italic, 6=strong, 7=color -->
+	<input type="hidden" name="CQ_DOC_MARKUP_STYLE" value="7"><!-- highlights in color -->
+<!-- End Markup declaration-->
+
 
 <script language="javaScript">
 
@@ -168,7 +204,7 @@ function processSearch()
          }
 
         else if (Selected == "2") {
-             myQuery = 'http://www.staugustine.com/search/iatoc?NS-search-type=checked&NS-max-records=100&NS-collection=sta_2003&NS-query='+myQuery;
+             myQuery = 'http://www.staugustine.com/cgi-bin/smart_search/cqcgi/@staug_stories.env';
              location.href=(myQuery);
          }
 
@@ -195,12 +231,12 @@ function processSearch()
 </script>
 
 <table width="240" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#E8F9FF">
-		<form name="thasearchform" onsubmit="return processSearch()" action="#" target="_top"></form>
+		
 	<tbody><tr><td colspan="4" width="240" bgcolor="#bdefff"><img src="/images/misc/bar_top.gif" width="240" height="6" border="0"></td></tr>
 	<tr><td rowspan="3" width="1" bgcolor="#8ccbe3"><img src="/images/misc/dot_clear.gif" width="1" height="1" border="0" alt=""><br></td><td colspan="2" width="238"><img src="/images/misc/dot_clear.gif" width="238" height="1" border="0" alt=""><br></td><td rowspan="3" width="1" bgcolor="#8ccbe3"><img src="/images/misc/dot_clear.gif" width="1" height="1" border="0" alt=""><br></td></tr>
 		<tr>
 			<td width="238" valign="top" align="center">
-			<input type="text" name="search" size="25">
+			<input type="text" name="CQ_QUERY_STRING" size="25">
 			<br>
 			<select name="thasearch">
 			<option value="2" selected="">Story Archives</option>
@@ -209,6 +245,8 @@ function processSearch()
 			<option value="4">Web Guide</option>
 			</select>
 			<input type="submit" name="submit" value="Search">
+			<br><font face="verdana, arial" size="1"><b><a href="/smart_search/">Advanced Search</a></b></font>
+
 
 			<br><img src="/images/misc/dot_clear.gif" width="238" height="1" border="0" alt=""><br></td>
 		</tr>
@@ -288,7 +326,7 @@ function processSearch()
 			<font face="verdana,arial" size="1" color="#6666cc">
 			<b>
 			<a class="nav" href="/autofinder/" title="Everything but the Test Drive!">AutoFinder</a>&nbsp;<br>
-			<a class="nav" href="/boatfinder/" title="All Your Boating Needs">BoatFinder</a>&nbsp;<br>
+			<a class="nav" href="/realestatefinder/" title="Locate prime real estate in St. Johns County">RealEstateFinder</a>&nbsp;<br>
 			<a class="nav" href="/homefinder/" title="Your Guide to a Great Home">HomeFinder</a>&nbsp;<br>
 			<a class="nav" href="/jobfinder/" title="Find the Perfect Job!">JobFinder</a>&nbsp;<br>
 			<a class="nav" href="/legals/" title="Archived Legal Notices">Legal Notices</a>&nbsp;<br>
@@ -317,7 +355,8 @@ function processSearch()
 			<b>
 			&nbsp;<a class="nav" href="http://golfnews.staugustine.com/" title="The Latest Golf Coverage">Golfing News</a><br>
 			&nbsp;<a class="nav" href="/fishing/" title="Fishing &amp; Tidal Reports">Fishing &amp; Tides</a><br>
-			&nbsp;<a class="nav" href="/cgi-bin/ubb/Ultimate.cgi?action=intro" title="Post Your Opinions">Message Boards</a><br>
+			<!-- &nbsp;<a class="nav" href="/cgi-bin/ubb/Ultimate.cgi" title="Post Your Opinions">Message Boards</a><br> -->
+			&nbsp;<a class="nav" href="http://forums.staugustine.com/cgi-bin/bb/ultimatebb.cgi" title="Post Your Opinions">Message Boards</a><br>
 			&nbsp;<a class="nav" href="/movies/" title="Area Movie Theaters">Movie Listings</a><br>
 			&nbsp;<a class="nav" href="/cgi-bin/redirect.pl?http://www.flalottery.com">Lottery Numbers</a><br>
 			</b>
@@ -401,19 +440,32 @@ function processSearch()
 			<a href="/autofinder/"><img src="/images/ads/autofinder_100x30.gif" alt="AutoFinder" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
 
 			<a href="/weddings/"><img src="/images/ads/perfect_100x30.gif" alt="Wedding Guide" width="100" height="30" hspace="1" vspace="1" border="1"></a>
-			<a href="/explore/"><img src="/images/ads/explore_stjohns_100x30.gif" alt="Explore St. Johns" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
+			<a href="/explore/"><img src="/images/ads/explore_stjohns_100x30.gif" alt="Explore St. Johns County" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
 
 			<a href="/homefinder/"><img src="/images/ads/housing_100x30.gif" alt="HomeFinder" width="100" height="30" hspace="1" vspace="1" border="1"></a>
-			<a href="/yournews/emma/"><img src="/images/ads/emma2_100x30.gif" alt="EMMA's 2002-03 Season" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
+			<a href="/yournews/emma/"><img src="/images/ads/emma2_100x30.gif" alt="EMMA's 2004-05 Season" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
 
-			<!-- REMOVE NEW CAR PREVIEW FEB 6 2004 -->
-			<a href="/autofinder/preview/"><img src="/images/ads/2004carpreview_100x30.gif" alt="2004 New Car Preview" width="100" height="30" hspace="1" vspace="1" border="1"></a>
-			<a href="/giftguide/"><img src="/images/ads/giftguide_100x30.gif" alt="Holiday Gift Guide" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
+			<a href="/graduation/"><img src="/images/ads/graduation4_100x30.gif" alt="Graduation" width="100" height="30" hspace="1" vspace="1" border="1"></a>
+			<a href="/hurricanes/"><img src="/images/ads/hurricanes_100x30.gif" alt="Hurricane Guide" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
 
-			<a href="/nutcracker/"><img src="/images/ads/nutcracker_100x30.gif" alt="Nutcracker" width="100" height="30" hspace="1" vspace="1" border="1"></a>
-			<a href="/expflagler/"><img src="/images/ads/expflagler_100x30.gif" alt="Explore Flagler County" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
-			
-			<a href="/contests/babyphoto/"><img src="/images/ads/babyphoto_100x30.gif" alt="Cutest Baby Photo Contest" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
+<a href="/expflagler/"><img src="/images/ads/expflagler_100x30.gif" alt="Explore Flagler" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>
+
+	<!--<a href="/homeshow/"><img src="/images/ads/homeshow2004_100x30.gif" alt="Homeshow 2004" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>-->
+
+			<!-- <a href="/improvement/"><img src="/images/ads/home_improvement_100x30.gif" alt="Home Improvement" width="100" height="30" hspace="1" vspace="1" border="1"></a>
+			<a href="/active/"><img src="/images/ads/active_100x30.gif" alt="Active Lifestyles" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>-->
+			<!-- <a href="/consumer/"><img src="/images/ads/consumer_100x30.gif" alt="Consumer How-To Guide" width="100" height="30" hspace="1" vspace="1" border="1"></a><br> -->
+			<!-- <a href="/iraq/guinta.shtml"><img src="/images/ads/desertdispatch100x30.gif" alt="Desert Dispatch" width="100" height="30" hspace="1" vspace="1" border="1"></a> -->
+			<!-- <a href="/pageone/publicrecords.shtml"><img src="/images/ads/publicrecords_100x30.gif" alt="Public Records Audit" width="100" height="30" hspace="1" vspace="1" border="1"></a> -->
+			<!-- <a href="/legal/"><img src="/images/ads/legal_and_financial_100x30.gif" alt="Legal and Financial" width="100" height="30" hspace="1" vspace="1" border="1"></a> -->
+			<!-- <a href="http://www.cathedralfestival.com"><img src="/images/ads/cathedral100x30.gif" alt="19th Annual Cathedral Fesitval" width="100" height="30" hspace="1" vspace="1" border="1"></a>		-->
+			<!-- <a href="http://www.teresamercurio.com/"><img src="/images/ads/explore_stjohns_100x30.gif" alt="Teresa Mercurio - Remax" width="100" height="30" hspace="1" vspace="1" border="1"></a><br> -->
+			<!-- <a href="/giftguide/"><img src="/images/ads/giftguide_100x30.gif" alt="Holiday Gift Guide" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>-->
+			<!-- <a href="/bridal/"><img src="/images/ads/bridalshow100x30b.gif" alt="Bridal Show 2004" width="100" height="30" hspace="1" vspace="1" border="1"></a> -->
+			<!-- <a href="/improvment/"><img src="/images/ads/home_improvment_100x30.gif" alt="Home Improvement" width="100" height="30" hspace="1" vspace="1" border="1"></a> -->
+<!--<a href="/commerce/"><img src="/images/ads/chamber_100x30.gif" alt="Chamber of Commerce" width="100" height="30" hspace="1" vspace="1" border="1"></a>
+			<a href="/homeshow/"><img src="/images/ads/homeshow2004_100x30.gif" alt="Homeshow 2004" width="100" height="30" hspace="1" vspace="1" border="1"></a><br>-->
+
 
 			<img src="/visit/images/spacer.gif" height="3" width="1" border="0" alt=""><br>
 
@@ -483,27 +535,27 @@ function processSearch()
 <tbody><tr>
 	<td><img src="/images/weather/frontpage_01.jpg" width="121" height="32" border="0" alt=""></td>
 	<td rowspan="6"><img src="/images/misc/dot_clear.gif" width="3"></td>
-	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KJAX.shtml">Jacksonville</a></b><br><img src="/images/weather/mostly_cloudy.gif" width="18" height="13"> 44° F</font></td>
+	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KJAX.shtml">Jacksonville</a></b><br><img src="/images/weather/mostly_cloudy.gif" width="18" height="13"> 73° F</font></td>
 </tr>
 <tr>
 	<td><img src="/images/weather/frontpage_02.jpg" width="121" height="32" border="0" alt=""></td>
-	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KSGJ.shtml">St. Augustine</a></b><br><img src="/images/weather/clear.gif" width="18" height="13"> 62° F</font></td>
+	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KSGJ.shtml">St. Augustine</a></b><br><img src="/images/weather/mostly_clear.gif" width="18" height="13"> 82° F</font></td>
 </tr>
 <tr>
 	<td><img src="/images/weather/frontpage_03.jpg" width="121" height="32" border="0" alt=""></td>
-	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KGNV.shtml">Gainesville</a></b><br><img src="/images/weather/clear.gif" width="18" height="13"> 48° F</font></td>
+	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KGNV.shtml">Gainesville</a></b><br><img src="/images/weather/mostly_cloudy.gif" width="18" height="13"> 71° F</font></td>
 </tr>
 <tr>
 	<td><img src="/images/weather/frontpage_04.jpg" width="121" height="32" border="0" alt=""></td>
-	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KDAB.shtml">Daytona Beach</a></b><br><img src="/images/weather/partly_cloudy.gif" width="18" height="13"> 64° F</font></td>
+	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KDAB.shtml">Daytona Beach</a></b><br><img src="/images/weather/clear.gif" width="18" height="13"> 71° F</font></td>
 </tr>
 <tr>
 	<td><img src="/images/weather/frontpage_05.jpg" width="121" height="32" border="0" alt=""></td>
-	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KMCO.shtml">Orlando</a></b><br><img src="/images/weather/mostly_clear.gif" width="18" height="13"> 55° F</font></td>
+	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KMCO.shtml">Orlando</a></b><br><img src="/images/weather/mostly_cloudy.gif" width="18" height="13"> 71° F</font></td>
 </tr>
 <tr>
 	<td><img src="/images/weather/frontpage_06.jpg" width="121" height="32" border="0" alt=""></td>
-	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KTPA.shtml">Tampa/St. Pete</a></b><br><img src="/images/weather/clear.gif" width="18" height="13"> 57° F</font></td>
+	<td><font face="Verdana, sans-serif" size="1"><b><a href="/weather/KTPA.shtml">Tampa/St. Pete</a></b><br><img src="/images/weather/partly_cloudy.gif" width="18" height="13"> 75° F</font></td>
 </tr>
 <tr>
 	<td colspan="3"><br>
@@ -557,7 +609,7 @@ function processSearch()
      
 
   <table border="0" width="230" align="center" cellpadding="1" cellspacing="1">
-    <tbody><tr><td colspan="7" align="center"><font face="verdana,arial" size="1"><b>December <a href="/calendar/">Calendar of Events</a></b></font></td></tr>
+    <tbody><tr><td colspan="7" align="center"><font face="verdana,arial" size="1"><b>June <a href="/calendar/">Calendar of Events</a></b></font></td></tr>
 
 
 <tr><td colspan="7"></td></tr>
@@ -574,6 +626,7 @@ function processSearch()
     </tr>
     <tr>
         <td><br></td>
+        <td><br></td>
 
 
 
@@ -584,10 +637,73 @@ function processSearch()
 
 
 
+          <td bgcolor="#E8F9FF" align="center">
+
+<font face="verdana,arial" size="1" color="#330099">2</font>
+	</td>
+
+
+
+          <td bgcolor="#E8F9FF" align="center">
+
+<font face="verdana,arial" size="1" color="#330099">3</font>
+	</td>
+
+
+
+          <td bgcolor="#E8F9FF" align="center">
+
+<font face="verdana,arial" size="1" color="#330099">4</font>
+	</td>
+
+
+
+          <td bgcolor="#E8F9FF" align="center">
+
+<font face="verdana,arial" size="1" color="#330099">5</font>
+	</td>
+
+</tr><tr>
+
+          <td bgcolor="#E8F9FF" align="center">
+
+<font face="verdana,arial" size="1" color="#330099">6</font>
+	</td>
+
+
+
+          <td bgcolor="#E8F9FF" align="center">
+
+<font face="verdana,arial" size="1" color="#330099">7</font>
+	</td>
+
+
+
+          <td bgcolor="#E8F9FF" align="center">
+
+<font face="verdana,arial" size="1" color="#330099">8</font>
+	</td>
+
+
+
+          <td bgcolor="#E8F9FF" align="center">
+
+<font face="verdana,arial" size="1" color="#330099">9</font>
+	</td>
+
+
+
+          <td bgcolor="#E8F9FF" align="center">
+
+<font face="verdana,arial" size="1" color="#330099">10</font>
+	</td>
+
+
+
           <td bgcolor="#336699" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/2/2003"><font face="verdana,arial" size="1" color="#ffffff"><b>2</b></font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/11/2004"><font face="verdana,arial" size="1" color="#ffffff"><b>11</b></font></a>
 
 	</td>
 
@@ -596,34 +712,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/3/2003"><font face="verdana,arial" size="1" color="#330099">3</font></a>
-
-	</td>
-
-
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/4/2003"><font face="verdana,arial" size="1" color="#330099">4</font></a>
-
-	</td>
-
-
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/5/2003"><font face="verdana,arial" size="1" color="#330099">5</font></a>
-
-	</td>
-
-
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/6/2003"><font face="verdana,arial" size="1" color="#330099">6</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/12/2004"><font face="verdana,arial" size="1" color="#330099">12</font></a>
 
 	</td>
 
@@ -632,7 +721,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/7/2003"><font face="verdana,arial" size="1" color="#330099">7</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/13/2004"><font face="verdana,arial" size="1" color="#330099">13</font></a>
 
 	</td>
 
@@ -641,7 +730,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/8/2003"><font face="verdana,arial" size="1" color="#330099">8</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/14/2004"><font face="verdana,arial" size="1" color="#330099">14</font></a>
 
 	</td>
 
@@ -650,7 +739,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/9/2003"><font face="verdana,arial" size="1" color="#330099">9</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/15/2004"><font face="verdana,arial" size="1" color="#330099">15</font></a>
 
 	</td>
 
@@ -659,7 +748,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/10/2003"><font face="verdana,arial" size="1" color="#330099">10</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/16/2004"><font face="verdana,arial" size="1" color="#330099">16</font></a>
 
 	</td>
 
@@ -668,7 +757,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/11/2003"><font face="verdana,arial" size="1" color="#330099">11</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/17/2004"><font face="verdana,arial" size="1" color="#330099">17</font></a>
 
 	</td>
 
@@ -677,7 +766,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/12/2003"><font face="verdana,arial" size="1" color="#330099">12</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/18/2004"><font face="verdana,arial" size="1" color="#330099">18</font></a>
 
 	</td>
 
@@ -686,70 +775,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/13/2003"><font face="verdana,arial" size="1" color="#330099">13</font></a>
-
-	</td>
-
-</tr><tr>
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/14/2003"><font face="verdana,arial" size="1" color="#330099">14</font></a>
-
-	</td>
-
-
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/15/2003"><font face="verdana,arial" size="1" color="#330099">15</font></a>
-
-	</td>
-
-
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/16/2003"><font face="verdana,arial" size="1" color="#330099">16</font></a>
-
-	</td>
-
-
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/17/2003"><font face="verdana,arial" size="1" color="#330099">17</font></a>
-
-	</td>
-
-
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/18/2003"><font face="verdana,arial" size="1" color="#330099">18</font></a>
-
-	</td>
-
-
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/19/2003"><font face="verdana,arial" size="1" color="#330099">19</font></a>
-
-	</td>
-
-
-
-          <td bgcolor="#E8F9FF" align="center">
-
-
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/20/2003"><font face="verdana,arial" size="1" color="#330099">20</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/19/2004"><font face="verdana,arial" size="1" color="#330099">19</font></a>
 
 	</td>
 
@@ -758,7 +784,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/21/2003"><font face="verdana,arial" size="1" color="#330099">21</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/20/2004"><font face="verdana,arial" size="1" color="#330099">20</font></a>
 
 	</td>
 
@@ -767,7 +793,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/22/2003"><font face="verdana,arial" size="1" color="#330099">22</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/21/2004"><font face="verdana,arial" size="1" color="#330099">21</font></a>
 
 	</td>
 
@@ -776,7 +802,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/23/2003"><font face="verdana,arial" size="1" color="#330099">23</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/22/2004"><font face="verdana,arial" size="1" color="#330099">22</font></a>
 
 	</td>
 
@@ -785,7 +811,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/24/2003"><font face="verdana,arial" size="1" color="#330099">24</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/23/2004"><font face="verdana,arial" size="1" color="#330099">23</font></a>
 
 	</td>
 
@@ -794,7 +820,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/25/2003"><font face="verdana,arial" size="1" color="#330099">25</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/24/2004"><font face="verdana,arial" size="1" color="#330099">24</font></a>
 
 	</td>
 
@@ -803,7 +829,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/26/2003"><font face="verdana,arial" size="1" color="#330099">26</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/25/2004"><font face="verdana,arial" size="1" color="#330099">25</font></a>
 
 	</td>
 
@@ -812,7 +838,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/27/2003"><font face="verdana,arial" size="1" color="#330099">27</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/26/2004"><font face="verdana,arial" size="1" color="#330099">26</font></a>
 
 	</td>
 
@@ -821,7 +847,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/28/2003"><font face="verdana,arial" size="1" color="#330099">28</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/27/2004"><font face="verdana,arial" size="1" color="#330099">27</font></a>
 
 	</td>
 
@@ -830,7 +856,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/29/2003"><font face="verdana,arial" size="1" color="#330099">29</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/28/2004"><font face="verdana,arial" size="1" color="#330099">28</font></a>
 
 	</td>
 
@@ -839,7 +865,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/30/2003"><font face="verdana,arial" size="1" color="#330099">30</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/29/2004"><font face="verdana,arial" size="1" color="#330099">29</font></a>
 
 	</td>
 
@@ -848,7 +874,7 @@ function processSearch()
           <td bgcolor="#E8F9FF" align="center">
 
 
-<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=12/31/2003"><font face="verdana,arial" size="1" color="#330099">31</font></a>
+<a href="http://calendar.staugustine.com:80/ptemp?tid=79488&amp;start=6/30/2004"><font face="verdana,arial" size="1" color="#330099">30</font></a>
 
 	</td>
 
@@ -1371,20 +1397,20 @@ Though efforts are made to assure the correctness of information on linked websi
 <tr><td colspan="2">
 	<hr noshade="" size="1">
 	<center>
-	<a href="http://www.staugustine.com/RealMedia/ads/click_lx.ads/www.staugustine.com/indexnew.html/1152/Bottom/jobfinder/interview_468x60.gif/64316564656561663366636437303830" target="_top"><img src="http://www.staugustine.com/RealMedia/ads/adstream_lx.ads/www.staugustine.com/indexnew.html/1152/Bottom/jobfinder/interview_468x60.gif/64316564656561663366636437303830" width="468" height="60" alt="Jobfinder - Online Interview" border="1"></a>
+	<a href="http://www.staugustine.com/RealMedia/ads/click_lx.ads/www.staugustine.com/indexnew.html/17749/Bottom/Blewett_Realty/blewett_banner.gif/64316564656562353430633938333130" target="_top"><img src="http://www.staugustine.com/RealMedia/ads/adstream_lx.ads/www.staugustine.com/indexnew.html/17749/Bottom/Blewett_Realty/blewett_banner.gif/64316564656562353430633938333130" width="468" height="60" alt="Blewett Realty" border="0"></a>
 	</center>
 </td></tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0" align="center" width="700"><tbody><tr><td align="center">
-<hr noshade="" size="1">
-<font face="arial,sans-serif" size="1" color="#333333">- 2001 <a href="http://www.staugustine.com/aboutus.shtml">EPpy Award Winner</a> for Best Online Newspaper, circulation under 50,000 - <br> 
+
+<font face="arial,sans-serif" size="1">- 2001 <a href="http://www.staugustine.com/aboutus.shtml">EPpy Award Winner</a> for Best Online Newspaper, circulation under 50,000 - <br> 
 - 2001 <a href="http://www.staugustine.com/aboutus.shtml">Florida Press Club</a> Winner for Best Online Newspaper in Florida! -<br>
-All contents © Copyright 2002 <a href="/privacy.shtml">The St. Augustine Record</a> and <a href="/cgi-bin/redirect.pl?http://morrisdigitalworks.com/">Morris Digital Works</a>.<br>
-Please read our <a href="/privacy.shtml"><font color="#666666">Privacy Policy.</font></a> | 
-To learn more about staugustine.com, <a href="/aboutus.shtml"><font color="#666666">go here.</font></a> | 
-<a href="/contact.shtml"><font color="#666666">Contact us.</font></a><br>
+All contents © Copyright 2004 <a href="/privacy.shtml">The St. Augustine Record</a> and <a href="/cgi-bin/redirect.pl?http://morrisdigitalworks.com/">Morris Digital Works</a>.<br>
+Please read our <a href="/privacy.shtml">Privacy Policy.</a> | 
+To learn more about staugustine.com, <a href="/aboutus.shtml">go here.</a> | 
+<a href="/contact.shtml">Contact us.</a></font><br>
 <br>
-</font>
+
 
 </td></tr></tbody></table>
 
