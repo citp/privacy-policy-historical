@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addynamix.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207074640id_/http%3A//addynamix.com/publishers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addynamix.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204234707id_/http%3A//www.addynamix.com/publishers/privacy.html) for the most accurate reproduction.*
 
 # AdDynamix Pennyweb Network: Break the Limits...
 
@@ -16,6 +16,8 @@ If Pennyweb, Inc. decides to change its privacy policy, we will post those chang
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
+Disclaimer: Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+
 **Client Data (i.e. Web Publishers and Advertisers)**
 
 _Non-Personally Identifiable Client Data._ Pennyweb, Inc. does not collect non-personally identifiable information from our clients. Non-personally identifiable information is also known as "demographic" data and includes information such as age, gender, and income range. Personally Identifiable Client Data Pennyweb, Inc. collects personally identifiable information from all websites (and specifically their owners) wishing to join our network. The collection of this information is a part of normal business practice. Clients wishing to join the Pennyweb, Inc. advertising network will be asked to provide personally identifiable data through the host sign-up and registration process at our web site. Examples of personally identifiable data that may be requested include name, address, phone number, e-mail address, social security number, tax ID number, etc. Pennyweb, Inc. will never request or collect data from a client on subject areas including sexual orientation, political or religious affiliations, or medical data.
@@ -26,7 +28,13 @@ Pennyweb, Inc. does not use any personally identifiable data about a client for 
 
 _Personally Identifiable Client Data - Opt-Out_ Because Pennyweb, Inc. is a strong proponent of online privacy we are committed to making sure that clear notice and choice is provided to all clients before any personally identifiable data are used for any purposes other than for what was originally intended. When a client joins Pennyweb, Inc.'s network and registers for Pennyweb, Inc.'s services, personally identifiable information is required as a part of doing business. Pennyweb, Inc.'s primary intent in collecting personally identifiable information is for use in administrative purposes including accounting and payouts.
 
-[View detailed information regarding Pennyweb, Inc. Data Collection practices.](https://web.archive.org/web/20030207074640id_/http%3A//addynamix.com/publishers/privacy2.html)
+[View detailed information regarding Pennyweb, Inc. Data Collection practices.](https://web.archive.org/web/20031204234707id_/http%3A//www.addynamix.com/publishers/privacy2.html)
+
+**Web Site Tracking**
+
+The Pennyweb web site servers use log files. These logs include internet protocol (IP) addresses, browser type, referring pages, platform type, and date/time stamp, to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+
+The Pennyweb web site uses session cookies to maintain a users session state while using the online reporting feature. Session cookies are removed from the users computer upon exiting the browser and are not used to collect personally identifiable information. If a user chooses to decline these session cookies, the online reporting feature will not be usable.
 
 **Security Precautions**
 
@@ -34,7 +42,7 @@ Pennyweb, Inc. makes every effort to maintain the security of its network and th
 
 **Access to Data**
 
-Pennyweb, Inc. allows clients who have provided personally identifiable data, access their data to ensure that it is correct and to make any changes at anytime through their Pennyweb customer online account by email [marketing@pennyweb.com](https://web.archive.org/web/20030207074640id_/http%3A//addynamix.com/publishers/marketing@pennyweb.com) or calling (888) 867-3669.
+Pennyweb, Inc. allows clients who have provided personally identifiable data, access their data to ensure that it is correct and to make any changes at anytime through their Pennyweb customer online account by email [privacy@pennyweb.com](mailto:privacy@pennyweb.com) or calling (888) 867-3669.
 
 **Pennyweb Network**
 
@@ -58,14 +66,14 @@ _TRUSTe_ Pennyweb, Inc. is a TRUSTe licensee. For more information on the specif
 
 **Opt-Out of Email Communications from Pennyweb, Inc.**
 
-To opt-out of email communications from Pennyweb, Inc., including promotional, marketing, and/or advertising emails, email [marketing@pennyweb.com](mailto:marketing@pennyweb.com) with the word "UNSUBSCRIBE" in the subject line. 
+To opt-out of email communications from Pennyweb, Inc., including promotional, marketing, and/or advertising emails, email [privacy@pennyweb.com](mailto:privacy@pennyweb.com&Subject=UNSUBSCRIBE) with the word "UNSUBSCRIBE" in the subject line. 
 
 **Changing Personally Identifiable Information with Pennyweb, Inc.**
 
-Advertisers or Publishers who have filled out any of the online forms for more information or for registration with Pennyweb Network can change their personally identifiable information by emailing [marketing@pennyweb.com](mailto:marketing@pennyweb.com) or calling **Toll Free** (888) 867-3669. Current Publishers can update their information by emailing affiliates@ddynamix.com or by calling Toll Free (888) 867-3669. We will contact you via email or phone to confirm that your information has been updated. 
+Advertisers or Publishers who have filled out any of the online forms for more information or for registration with Pennyweb Network can change their personally identifiable information by emailing [privacy@pennyweb.com](mailto:privacy@pennyweb.com) or calling **Toll Free** (888) 867-3669. Current Publishers can update their information by emailing affiliates@ddynamix.com or by calling Toll Free (888) 867-3669. We will contact you via email or phone to confirm that your information has been updated. 
 
 **Contacting Us**
 
-For more information or if you have questions or concerns regarding Pennyweb, Inc.'s Privacy Statement, please send an e-mail to [privacy@pennyweb.com](mailto:privacy@pennyweb.com%22), or you can send correspondence to the following address:
+For more information or if you have questions or concerns regarding Pennyweb, Inc.'s Privacy Statement, please send an e-mail to [privacy@pennyweb.com](mailto:privacy@pennyweb.com), or you can send correspondence to the following address:
 
 Privacy - Pennyweb, Inc. 3333 Wilshire Blvd., Suite #300 Los Angeles, CA 90010. 
