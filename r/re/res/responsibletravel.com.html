@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the responsibletravel.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603114619id_/http%3A//www.responsibletravel.com/Copy/Copy100068.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the responsibletravel.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208234836id_/http%3A//www.responsibletravel.com/copy/copy100068.htm) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -10,24 +10,25 @@
 <base href="http://www.responsibletravel.com/">
 <link rel="stylesheet" type="text/css" href="ssMain.css">
 </head>
-<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onload="BuildDropDownLists();">
 <script src="Utilities/Utilities.js" language="JavaScript"></script>
+<script src="Utilities/quickSearch.js" language="JavaScript"></script>
+<script src="Utilities/listoptions.js" language="JavaScript"></script>
 <table width="760" cellspacing="0" cellpadding="0" border="0" align="center">
   <tbody><tr>
     <td align="left" valign="middle"><a href="Home.htm"><img align="top" src="ImagesSite/RTLogo.jpg" alt="green tourism" border="0" vspace="5"></a></td>
-    <td align="right" valign="middle"><a href="http://ads.bfast.com/ad/click?bfmid=37923269&amp;siteid=40989441&amp;size=468x60" target="_blank">
-<img src="http://ads.bfast.com/ad/serve?bfmid=37923269&amp;siteid=40989441&amp;size=468x60" border="0" width="468" height="60"></a></td>
+    <td align="right" valign="middle"><a href="http://www.responsibletravel.com/Copy/Copy100259.htm"><img src="/ImagesClient/Coopedup.gif" border="0"></a></td>
   </tr>
 </tbody></table>
 <table width="760" class="RTFrameMinor" cellspacing="0" cellpadding="0" border="0" align="center">
   <tbody><tr>
     <td width="13" bgcolor="#000000"><img src="ImagesSite/curve-0.gif" border="0" alt="responsible tourism"></td>
-    <td width="127" class="RTFrameMinor">Trip search</td>
+    <td width="127" class="RTFrameMinor">Quick explorer</td>
     <td width="100" align="center"><a href="Home.htm" class="RTLinkFrameMinor" title="Home page">Home</a></td>
     <td width="2" class="RTFrameMinor">|</td>
     <td width="100" align="center"><a href="Copy/Copy100427.htm" class="RTLinkFrameMinor" title="About responsibletravel.com">About us</a></td>
     <td width="2" class="RTFrameMinor">|</td>
-    <td width="100" align="center"><a href="Copy/Copy101753.htm" class="RTLinkFrameMinor" title="Campaigning">Campaigning</a></td>
+    <td width="100" align="center"><a href="Copy/Copy101848.htm" class="RTLinkFrameMinor" title="Campaigning">Campaigning</a></td>
     <td width="2" class="RTFrameMinor">|</td>
     <td width="100" align="center"><a href="TravellerRegistration.asp" class="RTLinkFrameMinor" title="Join responsibletravel.com">eMagazine</a></td>
     <td width="2" class="RTFrameMinor">|</td>
@@ -40,7 +41,47 @@
   <tbody><tr>
     <td width="140" valign="top">
       <table width="140" cols="2" class="RTFrameMajor" cellspacing="0" cellpadding="0" border="0">
-        <tbody><tr height="14">
+        <tbody><tr height="20">
+          <td width="13" class="RTFrameMajor" valign="top"><img src="ImagesSite/curve-2.gif" border="0" alt="sustainable travel and tourism"></td>
+          <td width="127" valign="top">
+            <form name="QS">
+            <select id="CountryID" name="CountryID" class="RTSmall" style="margin-top:5px;margin-bottom:5px;width:123px"></select>
+          </form></td>
+        </tr>
+        <tr height="20">
+          <td width="13" class="RTFrameMajor" valign="top">&nbsp;</td>
+          <td width="127" valign="top">
+            <select id="ActivityCategoryID" name="ActivityCategoryID" class="RTSmall" style="margin-top:5px;margin-bottom:5px;width:123px"></select>
+          </td>
+        </tr>
+        <tr class="RTFrameMinor">
+          <td width="13" class="RTFrameMajor">&nbsp;</td>
+          <td width="127" align="center" class="RTFrameMajor"><a href="javascript:goSearch()"><img border="0" src="http://www.responsibletravel.com/ImagesSite/go.gif" vspace="5" alt="Click here to search"></a></td>
+        </tr>
+      </tbody></table>
+      <table width="140" cols="2" class="RTFrameMajor" cellspacing="0" cellpadding="0" border="0">
+        <tbody><tr class="RTFrameMinor">
+          <td width="13" class="RTFrameMajor"><img src="ImagesSite/curve-1.gif" border="0" alt="ethical travel and tourism"></td>
+          <td width="127" class="RTFrameMinor">Special interest</td>
+        </tr>
+        <tr height="20">
+          <td width="13" class="RTFrameMajor" valign="top"><img src="ImagesSite/curve-2.gif" border="0" alt="sustainable travel and tourism"></td>
+          <td width="127" valign="top">
+            <select id="HotList" name="HotList" class="RTSmall" style="margin-top:5px;margin-bottom:3px;width:123px"></select>
+          </td>
+        </tr>
+        <tr class="RTFrameMinor">
+          <td width="13" class="RTFrameMajor">&nbsp;</td>
+          <td width="127" align="center" class="RTFrameMajor"><a href="javascript:goHotlist()"><img border="0" src="http://www.responsibletravel.com/ImagesSite/go.gif" vspace="5" alt="Click here to search"></a></td>
+        </tr>
+        
+      </tbody></table>
+      <table width="140" cols="2" class="RTFrameMajor" cellspacing="0" cellpadding="0" border="0">
+        <tbody><tr class="RTFrameMinor">
+          <td width="13" class="RTFrameMajor"><img src="ImagesSite/curve-1.gif" border="0" alt="ethical travel and tourism"></td>
+          <td width="127" class="RTFrameMinor">Trip search</td>
+        </tr>
+        <tr height="14">
           <td width="13" class="RTFrameMajor" valign="top"><img src="ImagesSite/curve-2.gif" border="0" alt="sustainable travel and tourism"></td>
           <td width="127" valign="top"><a href="TripSearch/Africa%5FMiddle%20East/Region100001.htm" class="RTLinkFrameMajor">Africa/Middle&nbsp;East</a></td>
         </tr>
@@ -212,11 +253,23 @@
         </tr>
         <tr height="14">
           <td width="13" class="RTFrameMajor" valign="top"><img src="ImagesSite/curve-2.gif" border="0"></td>
+          <td width="127" valign="top"><a href="TripSearch/Business%20travel/ActivityCategory100021.htm" class="RTLinkFrameMajor">Business&nbsp;travel</a></td>
+        </tr>
+        <tr height="14">
+          <td width="13" class="RTFrameMajor" valign="top">&nbsp;</td>
           <td width="127" valign="top"><a href="Copy/Copy101079.htm" class="RTLinkFrameMajor">Car hire</a></td>
         </tr>
         <tr height="14">
           <td width="13" class="RTFrameMajor" valign="top">&nbsp;</td>
+          <td width="127" valign="top"><a href="Copy/Copy101864.htm" class="RTLinkFrameMajor">Flights</a></td>
+        </tr>
+        <tr height="14">
+          <td width="13" class="RTFrameMajor" valign="top">&nbsp;</td>
           <td width="127" valign="top"><a href="Copy/Copy101383.htm" class="RTLinkFrameMajor">Guide books</a></td>
+        </tr>
+        <tr height="14">
+          <td width="13" class="RTFrameMajor" valign="top">&nbsp;</td>
+          <td width="127" valign="top"><a href="Copy/Copy101887.htm" class="RTLinkFrameMajor">Health advice</a></td>
         </tr>
         <tr height="14">
           <td width="13" class="RTFrameMajor" valign="top">&nbsp;</td>
@@ -226,9 +279,13 @@
           <td width="13" class="RTFrameMajor" valign="top">&nbsp;</td>
           <td width="127" valign="top"><a href="Copy/Copy101688.htm" class="RTLinkFrameMajor">Travel clothing</a></td>
         </tr>
-        <tr height="20">
+        <tr height="14">
           <td width="13" class="RTFrameMajor" valign="top">&nbsp;</td>
           <td width="127" valign="top"><a href="Copy/Copy101570.htm" class="RTLinkFrameMajor">Travel magazines</a></td>
+        </tr>
+        <tr height="20">
+          <td width="13" class="RTFrameMajor" valign="top">&nbsp;</td>
+          <td width="127" valign="top"><a href="Copy/Copy101886.htm" class="RTLinkFrameMajor">Weather to go</a></td>
         </tr>
       </tbody></table>
       <table width="140" cols="2" cellspacing="0" cellpadding="0" border="0">
@@ -238,7 +295,7 @@
         </tr>
         <tr height="20">
           <td width="13" class="RTFrameMajor" valign="top"><img src="ImagesSite/curve-2.gif" border="0"></td>
-          <td width="127" valign="top"><a href="ResultsWholesaler.asp?Range=AE&amp;Wholesaler=*" class="RTLinkFrameMajor">A-E</a>,&nbsp;<a href="ResultsWholesaler.asp?Range=FL&amp;Wholesaler=*" class="RTLinkFrameMajor">F-L</a>,&nbsp;<a href="ResultsWholesaler.asp?Range=MR&amp;Wholesaler=*" class="RTLinkFrameMajor">M-R</a>,&nbsp;<a href="ResultsWholesaler.asp?Range=SZ&amp;Wholesaler=*" class="RTLinkFrameMajor">S-Z</a></td>
+          <td width="127" valign="top"><a href="WholesalerList.asp?Range=AE&amp;Wholesaler=*" class="RTLinkFrameMajor">A-E</a>,&nbsp;<a href="WholesalerList.asp?Range=FL&amp;Wholesaler=*" class="RTLinkFrameMajor">F-L</a>,&nbsp;<a href="WholesalerList.asp?Range=MR&amp;Wholesaler=*" class="RTLinkFrameMajor">M-R</a>,&nbsp;<a href="WholesalerList.asp?Range=SZ&amp;Wholesaler=*" class="RTLinkFrameMajor">S-Z</a></td>
         </tr>
       </tbody></table>
       <table width="140" cols="2" cellspacing="0" cellpadding="0" border="0">
@@ -248,7 +305,11 @@
         </tr>
         <tr height="14">
           <td width="13" class="RTFrameMajor" valign="top"><img src="ImagesSite/curve-2.gif" border="0"></td>
-          <td width="127"><a href="Copy/Copy100068.htm" class="RTLinkFrameMajor" title="Privacy Policy">Privacy Policy</a></td>
+          <td width="127"><a href="Copy/Copy101916.htm" class="RTLinkFrameMajor" title="Disclaimer">Disclaimer</a></td>
+        </tr>
+        <tr height="14">
+          <td width="13" class="RTFrameMajor">&nbsp;</td>
+          <td width="127" valign="top"><a href="Copy/Copy100068.htm" class="RTLinkFrameMajor" title="Privacy Policy">Privacy Policy</a></td>
         </tr>
         <tr height="20">
           <td width="13">&nbsp;</td>
@@ -257,7 +318,7 @@
               <!-- Begin
               document.write("<a href='SendPage.asp?URL=" + escape(document.URL) + "&State=load' onclick='NewWindow(this.href,&#39SendURL&#39,350,400,&#39no&#39);return false;' class=RTLinkFrameMajor>Send this page</a>")
               //  End -->
-            </script><a href="SendPage.asp?URL=https%3A//web.archive.org/web/20040603114619id_/http%253A//www.responsibletravel.com/Copy/Copy100068.htm&amp;State=load" onclick="NewWindow(this.href,'SendURL',350,400,'no');return false;" class="RTLinkFrameMajor">Send this page</a>
+            </script><a href="SendPage.asp?URL=https%3A//web.archive.org/web/20041208234836id_/http%253A//www.responsibletravel.com/copy/copy100068.htm&amp;State=load" onclick="NewWindow(this.href,'SendURL',350,400,'no');return false;" class="RTLinkFrameMajor">Send this page</a>
           </td>
         </tr>
       </tbody></table>
@@ -271,7 +332,7 @@
 </tbody></table>
 
 <table class="RTBanner" width="620" cellpadding="0" cellspacing="0" border="0" cols="2">
-  <tbody><tr><td width="16">&nbsp;</td><td width="604" class="RTSearchMajor" valign="top" align="left">Privacy Policy</td></tr>
+  <tbody><tr><td width="16">&nbsp;</td><td width="604" class="RTSearchMajor" valign="top" align="left"><h1>Privacy Policy</h1></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
 </tbody></table>
 <table class="RTFeature" width="620" cellpadding="0" cellspacing="0" border="0" cols="2">
@@ -287,8 +348,8 @@
 <font class="RTHeadingMinor">Changing or cancelling your e-magazine registration</font><br>
 Please read the rest of our privacy policy.  If you would like to amend your contact details please e-mail <a href="mailto:info@responsibletravel.com?subject=responsibletravel.com Privacy" class="RTLink">info@responsibletravel.com</a> with your new details.  
 
-If you would no longer like to receive our e-magazine we will be sad to see you go but please e-mail us at <a href="mailto:info@responsibletravel.com?subject=responsibletravel.com Privacy" class="RTLink">unsubscribe@responsibletravel.com</a> with this instruction. 
-If you have any questions or concerns on our policy please email us at <a href="mailto:info@responsibletravel.com?subject=responsibletravel.com Privacy" class="RTLink">unsubscibe@responsibletravel.com</a>
+If you would no longer like to receive our e-magazine we will be sad to see you go but please e-mail us at <a href="mailto:info@responsibletravel.com?subject=responsibletravel.com Privacy" class="RTLink">info@responsibletravel.com</a> with this instruction. 
+If you have any questions or concerns on our policy please email us at <a href="mailto:info@responsibletravel.com?subject=responsibletravel.com Privacy" class="RTLink">info@responsibletravel.com</a>
 
 <br><br><font class="RTHeadingMinor">Information collected by responsibletravel.com</font><br>
 You do not need to enter any personal information to use responsibletravel.com.  However we ask members who would like to receive our newsletters to provide their name and e-mail address and indicate the regions and activities that they are interested in.  We use this information to send out our newsletters, and to ensure you receive the most relevant information.
@@ -326,7 +387,7 @@ We keep all personal information in a secure server that is only accessible by d
   </tr>
 </tbody></table>
 <table width="760" cellspacing="0" cellpadding="0" border="0" align="center">
-  <tbody><tr><td width="760" class="RTCopyright" align="center"><br>- Copyright responsibletravel.com Ltd. 2001 | Built and supported by <a href="http://www.softfusion.co.uk" class="RTCopyrightLink">Softfusion Ltd.</a> -<br>&nbsp;</td></tr>
+  <tbody><tr><td width="760" class="RTCopyright" align="center"><br>- Copyright responsibletravel.com Ltd. 2001 | Built and supported by <a href="http://www.softfusion.co.uk" class="RTCopyrightLink">Softfusion Ltd.</a> -<br>- Use of this web site constitutes acceptance of the responsibletravel.com <a href="/copy/copy101916.htm" class="RTCopyrightLink">Disclaimer</a> and <a href="/copy/copy100068.htm" class="RTCopyrightLink">Privacy Policy</a> -<br>&nbsp;</td></tr>
 </tbody></table>
 
 
