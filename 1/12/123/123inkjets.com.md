@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215132155id_/http%3A//123inkjets.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413094939id_/http%3A//123inkjets.com/policy/privacy.htm%3FLID%3DD18) for the most accurate reproduction.*
 
 # 123Inkjets.com -- Privacy Policy
-
-Privacy Policy
 
 This Privacy Policy discloses the privacy practices for 123inkjets website and various related services (together referred to as the "site"). **As the provider of this, we are committed to protecting your privacy online. In a nutshell our privacy policy states that we will never rent, sell or lease your information to anyone else. So, please read the information below to learn the following regarding your use of this site.  **
 
