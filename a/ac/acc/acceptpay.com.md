@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acceptpay.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204213955id_/http%3A//www.lowestbids.com/bh/privacystmt.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acceptpay.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406033131id_/http%3A//www.lowestbids.com/bh/privacystmt.asp) for the most accurate reproduction.*
 
 # LowestBids.com
 
