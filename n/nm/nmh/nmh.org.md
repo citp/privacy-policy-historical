@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nmh.org privacy policy that was archived on 2002-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021011115838id_/http%3A//www.nmh.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmh.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621112548id_/http%3A//www.nmh.org/privacy_statement.html) for the most accurate reproduction.*
 
 # Northwestern Memorial Website Privacy Statement
 
-  | **Website Privacy Statement**  
+  |   
 ---|---  
   |    
   | **Introduction/Commitment**  
@@ -34,7 +34,9 @@ If users do not wish to have any "cookies" attached to their browser, they may d
   | **Links**  
   | 
 
-Northwestern Memorial provides links to other sites. Northwestern Memorial has contracted with HEALTH _vision_ for access to the LaurusHealth library of consumer health information. This information is stored on HEALTH _vision_ servers, and HEALTH _vision_ uses "cookie" technology to track aggregate use of its site. HEALTH _vision_ states in its privacy policy that it will maintain confidentiality of any and all personally identifying information it may gather.
+Northwestern Memorial provides links to other sites.
+
+Among them, Northwestern Memorial has contracted with HEALTH _vision_ for access to the LaurusHealth library of consumer health information. This information is stored on HEALTH _vision_ servers, and HEALTH _vision_ uses "cookie" technology to track aggregate use of its site. HEALTH _vision_ states in its privacy policy that it will maintain confidentiality of any and all personally identifying information it may gather.
 
 Northwestern Memorial Hospital has also contracted with Photobooks, Inc. to manage the searchable physician directory. Photobooks uses "cookie" technology to track aggregate use of its site and states in its privacy policy that it will maintain confidentiality of any and all personally identifying information it gathers.
 
@@ -69,4 +71,4 @@ Chicago, IL. 60611
   
   |    
   |    
- UPDATED: 13-Mar-2001
+ UPDATED: 09-Apr-2003
