@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203175941id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603172215id_/http%3A//utah.gov/privacypolicy.html) for the most accurate reproduction.*
 
 # Utah.gov
 
