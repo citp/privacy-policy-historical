@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecollege.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205083201id_/http%3A//ecollege.com/company/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecollege.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408113512id_/http%3A//www.ecollege.com/company/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
