@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010914id_/http%3A//www.asic.gov.au/asic/asic.nsf/HeadingPagesDisplay/Privacy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613090317id_/http%3A//www.asic.gov.au/asic/asic.nsf/HeadingPagesDisplay/Privacy%3FOpenDocument) for the most accurate reproduction.*
 
-# 
+# Privacy - Australian Securities and Investments Commission
 
-  | 
+  
 
-[](https://web.archive.org/asic/ASIC.NSF/print/Privacy?opendocument)
 
-**Privacy statement**   
-**Your rights to privacy**  
+**Privacy statement** **Your rights to privacy**  
 ASIC must comply with the [Privacy Act 1988 (Cth)](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/) which regulates, among other things, the [collection](http://www.privacy.gov.au/publications/ipps.html#a),  [storage](http://www.privacy.gov.au/publications/ipps.html#d),  [quality](http://www.privacy.gov.au/publications/ipps.html#g),  [use](http://www.privacy.gov.au/publications/ipps.html#i) and  [disclosure](http://www.privacy.gov.au/publications/ipps.html#k) of  [personal information](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/s6.html).  
 
 
 Information that in some way identifies you as a user may be gathered during your interaction with our website in the following circumstances.
 
-**Collection of clickstream and other information  
-**When you browse our website, our service provider logs the following information for statistical purposes - your server address, top level domain name (eg .com, .gov, .au, .uk etc.), the date and time of your visit, the pages accessed, documents downloaded, the previous site visited and the type of browser used.
+**Collection of clickstream and other information** **  
+** When you browse our website, our service provider logs the following information for statistical purposes - your server address, top level domain name (eg .com, .gov, .au, .uk etc.), the date and time of your visit, the pages accessed, documents downloaded, the previous site visited and the type of browser used.
 
 We will not try to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
 
@@ -22,8 +20,8 @@ Our website is cookie-free. 
 
 We will only record your e-mail address if you send us an email message containing your email address or supply your email address as part of your contact details on an on-line application. It will not be automatically added to a mailing list. 
 
-**Collection of personal information  
-**The main way we would collect personal information from you is if you used our site to lodge forms prescribed or approved under the Corporations Act 2001 and Regulations, eg to set up a company. This personal information may include your full name, date of birth, phone and fax numbers, e-mail address, and street and postal address.
+**Collection of personal information** **  
+** The main way we would collect personal information from you is if you used our site to lodge forms prescribed or approved under the Corporations Act 2001 and Regulations, eg to set up a company. This personal information may include your full name, date of birth, phone and fax numbers, e-mail address, and street and postal address.
 
 We can only collect personal information via our website with your consent as you must click on a button provided on each web page to submit information to our website.
 
@@ -63,6 +61,3 @@ From time to time, we may wish to carry out a voluntary survey for feedback. Bef
 Read our privacy statements for the [Australian Financial Services Licence Applications](https://web.archive.org/asic/asic_polprac.nsf/byheadline/Privacy+statement+for+AFS+licence?openDocument) and the [Australian financial services eLicensing portals](https://web.archive.org/asic/asic_polprac.nsf/byheadline/Privacy+statement+for+afs+licensing++portals?openDocument).
 
 We welcome your [feedback](mailto:feedback@asic.gov.au) about this Privacy Statement and about our site's design and practices.
-
-| Updated: 27/06/2003|   
----|---
