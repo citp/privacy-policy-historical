@@ -1,15 +1,55 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409095717id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019193344id_/http%3A//newscorp.com/privacy0601.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The News Corporation Limited ("News") recognizes the privacy concerns of visitors to its site on the Internet (www.newscorp.com). Personally identifiable information, such as a visitor's name, address or email address, is collected only when knowingly and voluntarily submitted to this site. For example, visitors to the investor relations areas of this site may voluntarily submit personal information in order to obtain information about News or its affiliated companies. Such personal information is used by News only to respond to these requests or to furnish these visitors with additional information about our Company. News does not transfer or sell visitors' personal information to third parties, except for the outside company we use to process and fulfill visitors' requests. However, this outside company is prohibited from using the information for a different purpose or transferring it to any third party. 
+NEWS AMERICA INCORPORATED STATEMENT OF PRIVACY PRINCIPLES 
 
-In addition to using information about you to respond to your specific requests, News may use it in aggregate, non-personal form to make our site better and more responsive to the needs of our visitors. 
+PREAMBLE
 
-News maintains reasonable and appropriate safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to this site. 
+News America Incorporated (“News America”) is the principal U.S. subsidiary of The News Corporation Limited, one of the world’s largest media companies. The businesses of News America and its subsidiary, Fox Entertainment Group, Inc., include: the production and distribution of motion pictures, television programming and related consumer products (Twentieth Century Fox); television and cable broadcasting (the Fox Network, Fox owned television stations, Fox Sports Net, Fox Sports World, Fox Sports World Espaňol, Speedvision, Fox News Channel, FX, Fox Movie Channel and Fox Kids/Fox Family Channel); the publication of newspapers, books, magazines and promotional free-standing inserts (The New York Post, HarperCollins Publishers, The Weekly Standard, Maximum Golf and News America Marketing); sports franchises (the Los Angeles Dodgers); and marketing services (SmartSource/iGroup). In this Statement of Privacy Principles these businesses are collectively called the News America Group.
 
-News collects certain non-personal information used only to optimize our web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). We may also use non-personal information to determine the total number of visitors to our website. 
+At the News America Group we strive to enhance our relationship with consumers. Collecting personal information about consumers is vital to this effort. 
 
-This site links to other sites operated by companies that are affiliated with News. Visitors to those sites should refer to the privacy policies or statements posted on each site to determine whether and how personal information is collected and used. 
+This Statement of Privacy Principles describes the policies and procedures of the News America Group’s U.S.-based businesses for the collection, use, and dissemination of personally identifiable information about U.S. consumers in both the online and offline world. The Principles are based on the concepts of consumer notice and choice.* 
 
-News reviews its privacy policy periodically, and it may be subject to change. 
+The News America Group is actively involved in the ongoing privacy debate and is continually monitoring privacy developments. Accordingly, from time to time we may modify these Privacy Principles to reflect changes in the law, self-regulatory initiatives and technology.
+
+COLLECTION
+
+The News America Group obtains personally identifiable information only if we believe the information is relevant to our relationship with a consumer or to assist us in creating a relationship with a consumer. We obtain personally identifiable information about consumers directly from consumers whenever possible, primarily in the course of providing them with products, information and services. When the News America Group obtains personally identifiable information from third-party sources, we use only reputable sources. In those instances where our information collection activities involve children, the News America Group provides special privacy protections.
+
+NOTICE
+
+When The News America Group collects personally identifiable information from consumers, we inform them about who is collecting the information, why it is being collected, how it is being collected, the types of uses we will make of the information, whether we will disclose the information to third parties and the types of third parties to whom we will disclose the information, and consumers’ options regarding the use of their information.
+
+CHOICE
+
+The News America Group provides consumers with an opportunity to choose whether the business unit that collects their personally identifiable information may use it for purposes that are other than those for which the information was submitted, and whether the information may be shared with third parties.
+
+USE OF PERSONAL INFORMATION
+
+Inside the News America Group, we use personally identifiable information only in a manner consistent with these Privacy Principles. Personally identifiable information is available only to our employees, agents and contractors who have a business reason to have access to such information.
+
+The News America Group uses personally identifiable information to respond to our customers and to make decisions about the goods and services that the News America Group or its business partners provide or hope to provide to consumers. Subject to the exercise of consumer choice, personally identifiable information may be used for different purposes, or shared with our business partners. The News America Group may also be required to disclose personally identifiable information by law or compulsory legal process.
+
+SECURITY
+
+The News America Group uses reasonable administrative, technical, personnel, and physical measures to safeguard personally identifiable information in its possession against loss, theft, and unauthorized use, disclosure or modification.
+
+ACCESS, CORRECTION AND DELETION
+
+Whenever possible, each News America Group business unit permits consumers to have a right to see the personally identifiable information that it has collected from them, to correct any information that is incorrect and to instruct the business unit to delete the information from its files. 
+
+REMEDIES
+
+Consumers may contact a privacy officer at each News America Group business unit regarding privacy complaints and disputes.
+
+COMPLIANCE
+
+Each News America Group company will take appropriate measures to ensure compliance with these Privacy Principles.
+
+June 30, 2001  
+
+
+* Please see the [ Commentary](https://web.archive.org/web/20011019193344id_/http%3A//newscorp.com/commentary0601.html) further explaining these Principles.  
+
