@@ -1,0 +1,487 @@
+<!--The following is the downloaded HTML source of the shoppbs.org privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603013532id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacyPolicy_img) for the most accurate reproduction.-->
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+	<title>Shop PBS Helpdesk</title>
+	<script language="Javascript">
+	function emailCheck(type)
+	{
+	var EmailOk  = true
+	var Temp     = document.emailForm.emailAddress.value
+	var AtSym    = Temp.indexOf('@')
+	var Period   = Temp.lastIndexOf('.')
+	var Space    = Temp.indexOf(' ')
+	var Length   = Temp.length - 1   // Array is from 0 to length-1
+
+	if ((AtSym < 1) ||                     // '@' cannot be in first position
+	    (Period <= AtSym+1) ||             // Must be atleast one valid char btwn '@' and '.'
+	    (Period == Length ) ||             // Must be atleast one valid char after '.'
+	    (Space  != -1))                    // No empty spaces permitted
+	   {
+	      EmailOk = false;
+	      alert('Please enter a valid e-mail address.');
+	      return false;
+	   }
+		if(type == 1)
+		{
+		document.emailForm.submit();
+		}
+	}
+
+
+
+
+
+function showCustomPopUp(thisUrl,thisName,theseParams)
+{
+	remote = open(thisUrl, thisName, theseParams);
+}
+
+
+// WE SHOULD NOT NEED THESE jh
+
+
+
+//	verisign POP-UP WINDOW
+function popUp(url)
+{
+	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+	self.name = "mainWin";
+}
+
+function jump(url)
+{
+	if (url != "" && url != null)
+	{
+		self.location.href = url;
+	}
+}
+</script>
+
+    <link rel="stylesheet" type="text/css" href="../include/store.css">
+
+</head>
+<body bgcolor="#F2F2F2" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" rightmargin="0">
+
+<script language="JavaScript">
+//
+// Rollover
+//
+function Hilite(name,over)
+{
+  if(window.document.images) 
+  {
+    if (over)
+      window.document.images[name].src = "../images/" + name + "_on.jpg";
+    else
+      window.document.images[name].src = "../images/" + name + ".jpg";
+  }
+}
+</script><table cellpadding="0" cellspacing="0" border="0" width="780" align="center">
+     <tbody><tr bgcolor="#E5E5E5">
+         <td height="24" bgcolor="#CCCCCC" valign="center" width="195">&nbsp;&nbsp;<a href="http://www.pbs.org" class="headlink" target="_blank">PBS.org</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://teacher.shop.pbs.org/home/index.jsp?clickid=topnav_teachershop_txt" class="headlink" target="_blank">Shop for Teachers</a></td>
+		 <td width="585" align="right" valign="center"><a href="../cartHandler/index.jsp?action=changeQuantity&amp;wlName=default&amp;clickid=topnav_wishList_txt" class="headlink">Wish List</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.shoppbs.org/coreg/index.jsp?step=register&amp;clickid=topnav_myAccount_txt" class="headlink">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="headlink">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.shoppbs.org/coreg/index.jsp?step=ot&amp;clickid=topnav_trackOrder_txt" class="headlink">Track Your Order</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/cart/index.jsp?clickid=topnav_cart_txt" class="headlink">Shopping Cart</a>&nbsp;[0 items]&nbsp;&nbsp;</td>
+     </tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="780" align="center">
+     <tbody><tr>
+         <td height="96" rowspan="2"><a href="../home/index.jsp?clickid=mainnav_home_img"><img src="http://QPBS.imageg.net/graphics/category_images/PBS_header_animated_05.gif" border="0" align="absmiddle"></a></td>
+		 <td bgcolor="2761E0" height="15"><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="15"></td>
+     </tr>
+	 <tr>
+	 	<td height="81" bgcolor="#666666" width="186" valign="top" align="right" class="finder"><img src="http://QPBS.imageg.net/images/finder.jpg"><br><script language="JavaScript">
+
+function combineMenus(frm, media, genre) {
+with (frm) {
+str = media.options[media.selectedIndex].value;
+str += genre.options[genre.selectedIndex].value;
+getCat = str;
+
+if (getCat == 'BKarts') {
+	window.location.href = "/family/index.jsp?categoryId=1377876&cp=1377864&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'BKbusiness') {
+	window.location.href = "/family/index.jsp?categoryId=1377887&cp=1377880&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'BKhealth') {
+	window.location.href = "/family/index.jsp?categoryId=1377899&cp=1377891&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'BKhistory') {
+	window.location.href = "/family/index.jsp?categoryId=1377913&cp=1377903&clickid=mainnav_quickFinder_img";
+	}
+	
+else if (getCat == 'BKhowto') {
+	window.location.href = "/family/index.jsp?categoryId=1377927&cp=1377917&clickid=mainnav_quickFinder_img";
+	}
+	
+else if (getCat == 'BKlearning') {
+	window.location.href = "/home/index.jsp?cp=1377931&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'BKkids') {
+	window.location.href = "/family/index.jsp?categoryId=1377970&cp=1377960&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'BKnature') {
+	window.location.href = "/family/index.jsp?categoryId=1377940&cp=1377932&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'BKnews') {
+	window.location.href = "/family/index.jsp?categoryId=1377956&cp=1377944&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'BKreligion') {
+	window.location.href = "/family/index.jsp?categoryId=1377979&cp=1377974&clickid=mainnav_quickFinder_img";
+	}
+
+else if (getCat == 'BKscience') {
+	window.location.href = "/family/index.jsp?categoryId=1377995&cp=1377983&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'BKtravel') {
+	window.location.href = "/family/index.jsp?categoryId=1383327&cp=1377999&clickid=mainnav_quickFinder_img";
+	}	
+	
+	
+	
+	
+else if (getCat == 'DVDarts') {
+	window.location.href = "/family/index.jsp?categoryId=1377877&cp=1377864&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'DVDbusiness') {
+	window.location.href = "/family/index.jsp?categoryId=1377888&cp=1377880&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'DVDhealth') {
+	window.location.href = "/family/index.jsp?categoryId=1377900&cp=1377891&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'DVDhistory') {
+	window.location.href = "/family/index.jsp?categoryId=1377914&cp=1377903&clickid=mainnav_quickFinder_img";
+	}
+	
+else if (getCat == 'DVDhowto') {
+	window.location.href = "/family/index.jsp?categoryId=1377929&cp=1377917&clickid=mainnav_quickFinder_img";
+	}
+
+else if (getCat == 'DVDlearning') {
+	window.location.href = "/home/index.jsp?cp=1377931&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'DVDkids') {
+	window.location.href = "/family/index.jsp?categoryId=1377971&cp=1377960&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'DVDnature') {
+	window.location.href = "/family/index.jsp?categoryId=1377941&cp=1377932&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'DVDnews') {
+	window.location.href = "/family/index.jsp?categoryId=1377957&cp=1377944&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'DVDreligion') {
+	window.location.href = "/family/index.jsp?categoryId=1377980&cp=1377974&clickid=mainnav_quickFinder_img";
+	}
+
+else if (getCat == 'DVDscience') {
+	window.location.href = "/family/index.jsp?categoryId=1377996&cp=1377983&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'DVDtravel') {
+	window.location.href = "/family/index.jsp?categoryId=1383328&cp=1377999&clickid=mainnav_quickFinder_img";
+	}	
+	
+
+else if (getCat == 'CDarts') {
+	window.location.href = "/family/index.jsp?categoryId=1377878&cp=1377864&clickid=mainnav_quickFinder_img";
+	}
+
+else if (getCat == 'CDbusiness') {
+	window.location.href = "/family/index.jsp?categoryId=1377889&cp=1377880&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'CDhealth') {
+	window.location.href = "/home/index.jsp?cp=1377891&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'CDhistory') {
+	window.location.href = "/family/index.jsp?categoryId=1377915&cp=1377903&clickid=mainnav_quickFinder_img";
+	}
+
+else if (getCat == 'CDhowto') {
+	window.location.href = "/family/index.jsp?categoryId=1377928&cp=1377917&clickid=mainnav_quickFinder_img";
+	}
+	
+else if (getCat == 'CDlearning') {
+	window.location.href = "/home/index.jsp?cp=1377931&clickid=mainnav_quickFinder_img";
+	}
+	
+else if (getCat == 'CDkids') {
+	window.location.href = "/home/index.jsp?cp=1377960&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'CDnature') {
+	window.location.href = "/family/index.jsp?categoryId=1377942&cp=1377932&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'CDnews') {
+	window.location.href = "/family/index.jsp?categoryId=1377958&cp=1377944&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'CDreligion') {
+	window.location.href = "/family/index.jsp?categoryId=1377981&cp=1377974&clickid=mainnav_quickFinder_img";
+	}
+
+else if (getCat == 'CDscience') {
+	window.location.href = "/family/index.jsp?categoryId=1377997&cp=1377983&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'CDtravel') {
+	window.location.href = "/family/index.jsp?categoryId=1383329&cp=1377999&clickid=mainnav_quickFinder_img";
+	}	
+	
+	
+else if (getCat == 'VDarts') {
+	window.location.href = "/family/index.jsp?categoryId=1377879&cp=1377864&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'VDbusiness') {
+	window.location.href = "/family/index.jsp?categoryId=1377890&cp=1377880&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'VDhealth') {
+	window.location.href = "/family/index.jsp?categoryId=1377902&cp=1377891&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'VDhistory') {
+	window.location.href = "/family/index.jsp?categoryId=1377916&cp=1377903&clickid=mainnav_quickFinder_img";
+	}
+	
+else if (getCat == 'VDhowto') {
+	window.location.href = "/family/index.jsp?categoryId=1377930&cp=1377917&clickid=mainnav_quickFinder_img";
+	}
+	
+else if (getCat == 'VDlearning') {
+	window.location.href = "/family/index.jsp?categoryId=1378323&cp=1377931&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'VDkids') {
+	window.location.href = "/family/index.jsp?categoryId=1377973&cp=1377960&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'VDnature') {
+	window.location.href = "/family/index.jsp?categoryId=1377943&cp=1377932&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'VDnews') {
+	window.location.href = "/family/index.jsp?categoryId=1377959&cp=1377944&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'VDreligion') {
+	window.location.href = "/family/index.jsp?categoryId=1377982&cp=1377974&clickid=mainnav_quickFinder_img";
+	}
+
+else if (getCat == 'VDscience') {
+	window.location.href = "/family/index.jsp?categoryId=1377998&cp=1377983&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'VDtravel') {
+	window.location.href = "/family/index.jsp?categoryId=1383331&cp=1377999&clickid=mainnav_quickFinder_img";
+	}
+	
+	
+	
+else if (getCat == 'VDag') {
+	window.location.href = "/family/index.jsp?categoryId=1412628&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'CDag') {
+	window.location.href = "/family/index.jsp?categoryId=1412627&clickid=mainnav_quickFinder_img";
+	}	
+	
+else if (getCat == 'DVDag') {
+	window.location.href = "/family/index.jsp?categoryId=1412626&clickid=mainnav_quickFinder_img";
+	}	
+
+else if (getCat == 'BKag') {
+	window.location.href = "/family/index.jsp?categoryId=1412625&clickid=mainnav_quickFinder_img";
+	}
+   }
+
+}
+//  End -->
+</script>
+<form name="menufrm" style="margin:0px;display:inline;">
+media:<select name="media" style="style:verdana,genevafont-size:9px;color:#000000;background:#ECECEC;width:90px;Height:17px;font-family:verdana;font-weight:normal;"><option value="">choose format</option>
+<option value="">--------</option>
+<option value="BK">Books</option>
+<option value="DVD">DVD</option>
+<option value="CD">Music</option>
+<option value="VD">VHS</option>
+</select><img src="http://QPBS.imageg.net/images/pixel.gif" width="41" height="1"><br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="1"><br>
+genre:<select name="genre" style="style:verdana,genevafont-size:9px;color:#000000;background:#ECECEC;width:90px;Height:17px;font-family:verdana;font-weight:normal;"><option value="ag">all genres</option>
+<option value="">--------</option>
+<option value="arts">Arts</option>
+<option value="business">Business</option>
+<option value="health">Health</option>
+<option value="history">History</option>
+<option value="howto">Home &amp; How To</option>
+<option value="kids">Kids</option>
+<option value="learning">Learning</option>
+<option value="nature">Nature</option>
+<option value="news">News</option>
+<option value="religion">Religion</option>
+<option value="science">Science</option>
+<option value="travel">Travel</option>
+</select>
+<a href="javascript:combineMenus(document.menufrm, document.menufrm.media, document.menufrm.genre)"><img src="http://QPBS.imageg.net/images/go.jpg" border="0"></a>
+</form>
+
+ 
+
+
+
+
+	
+		</td>
+	 </tr>
+	 <tr>
+	 	<td height="23" colspan="2">
+			<a href="/category/index.jsp?categoryId=1377864&amp;clickid=mainnav_arts_img"><img src="http://QPBS.imageg.net/images/arts.jpg" border="0" name="arts" onmouseover="Hilite('arts',true)" onmouseout="Hilite('arts',false)"></a><a href="/category/index.jsp?categoryId=1377891&amp;clickid=mainnav_health_img"><img src="http://QPBS.imageg.net/images/health.jpg" border="0" name="health" onmouseover="Hilite('health',true)" onmouseout="Hilite('health',false)"></a><a href="/category/index.jsp?categoryId=1377903&amp;clickid=mainnav_history_img"><img src="http://QPBS.imageg.net/images/history.jpg" border="0" name="history" onmouseover="Hilite('history',true)" onmouseout="Hilite('history',false)"></a><a href="/category/index.jsp?categoryId=1377932&amp;clickid=mainnav_nature_img"><img src="http://QPBS.imageg.net/images/nature.jpg" border="0" name="nature" onmouseover="Hilite('nature',true)" onmouseout="Hilite('nature',false)"></a><a href="/category/index.jsp?categoryId=1377944&amp;clickid=mainnav_news_img"><img src="http://QPBS.imageg.net/images/news.jpg" border="0" name="news" onmouseover="Hilite('news',true)" onmouseout="Hilite('news',false)"></a><a href="/category/index.jsp?categoryId=1377983&amp;clickid=mainnav_science_img"><img src="http://QPBS.imageg.net/images/science.jpg" border="0" name="science" onmouseover="Hilite('science',true)" onmouseout="Hilite('science',false)"></a><a href="/category/index.jsp?categoryId=1429976&amp;clickid=mainnav_kids_img"><img src="http://QPBS.imageg.net/images/kids.jpg" border="0" name="kids" onmouseover="Hilite('kids',true)" onmouseout="Hilite('kids',false)"></a><a href="/category/index.jsp?categoryId=1377999&amp;clickid=mainnav_travel_img"><img src="http://QPBS.imageg.net/images/travel.jpg" border="0" name="travel" onmouseover="Hilite('travel',true)" onmouseout="Hilite('travel',false)"></a><a href="../seeAll/index.jsp?clickid=mainnav_seeAllGenres_img"><img src="http://QPBS.imageg.net/images/see_all.jpg" border="0" name="see_all" onmouseover="Hilite('see_all',true)" onmouseout="Hilite('see_all',false)"></a></td>
+	 </tr>
+</tbody></table>
+<table border="0" width="780" cellpadding="0" cellspacing="0" align="center" bgcolor="#FFFFFF">
+<tbody><tr>
+    <td valign="top"><table cellpadding="6" border="0" width="100%">
+    <tbody><tr><td>
+        <a href="/home/index.jsp" class="breadcrumb">
+       Return to shopping</a>&nbsp;
+|&nbsp;
+
+    <a class="breadcrumb" href="/helpdesk/index.jsp">Help Desk</a>
+
+    </td></tr>
+</tbody></table>
+    
+    
+
+<table width="98%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td width="200" valign="top">
+	<table width="200" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td bgcolor="" height="20"><img src="../images/pixel.gif" width="10"></td>
+		<td bgcolor="" height="20"><font class="subnavHeader">&nbsp;&nbsp;&nbsp;&nbsp;Safety, Security, and Privacy</font></td>
+	</tr><tr>
+		<td><img src="../images/pixel.gif" width="10"></td>
+		<td>
+		<table border="0">
+		<tbody><tr>
+			<td valign="top"><font class="subheadNumber">»</font> </td>
+			<td><a class="hd_pagelink" href="index.jsp?display=safety&amp;subdisplay=secure&amp;WebLogicSession=QL6AY0Pn4DTBNqPFRUS8ht5nqMDgSjb0fj4b5eHTQns3vv5i25qTNa729uG2h8U9E6JRX2tvlbE3|-8923075904226001159/-1407580835/5/8880/8880/7002/7002/-1">Secure Shopping Guarantee</a></td>
+		</tr><tr>
+			<td valign="top"><font class="subheadNumber">»</font> </td>
+			<td><a class="hd_pagelink" href="index.jsp?display=safety&amp;subdisplay=terms&amp;WebLogicSession=QL6AY0Pn4DTBNqPFRUS8ht5nqMDgSjb0fj4b5eHTQns3vv5i25qTNa729uG2h8U9E6JRX2tvlbE3|-8923075904226001159/-1407580835/5/8880/8880/7002/7002/-1">Terms &amp; Conditions</a></td>
+		</tr><tr>
+			<td valign="top"><font class="subheadNumber">»</font> </td>
+			<td><a class="hd_pagelink" href="index.jsp?display=safety&amp;subdisplay=privacy&amp;WebLogicSession=QL6AY0Pn4DTBNqPFRUS8ht5nqMDgSjb0fj4b5eHTQns3vv5i25qTNa729uG2h8U9E6JRX2tvlbE3|-8923075904226001159/-1407580835/5/8880/8880/7002/7002/-1">Privacy Policy</a></td>
+		</tr></tbody></table></td>
+	</tr>
+	</tbody></table></td>
+	<td width="20"><img src="../images/pixel.gif" height="1" width="20"><br></td>
+	<td valign="top"><a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" height="27" width="143" border="0"></a> 
+
+
+
+<br><br>
+<br><br><font class="header">SHOPPBS Privacy Policy</font> 
+<p>
+Gathering and Use of Information 
+</p><ol>
+	<li>We will not collect personal identification information from you, other than any personal identification information that you supply us voluntarily.  
+	</li><li>To participate in some activities, you may be asked to provide some personal identification information. This may be in connection with the following: 
+<ul>
+	<li>contest or sweepstakes registration 
+	</li><li>registration for sites or services that require a subscription (such as e-mail newsletters) 
+	</li><li>membership in a local PBS station 
+	</li><li>transactions in shopPBS 
+	</li><li>content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, or voting
+</li></ul>
+	</li><li>PBS Online and our affiliated Web sites, and any service providers acting on our behalf, may use your personal identification information for activities explained in this policy, for internal and marketing purposes, or when a mailing list is made available to carefully screened companies whose products or services may interest shopPBS customers. 
+	</li><li>We will always explain its use when we ask for personal identification information, either at the time we ask for the information or in this policy. If you do not want this information to be collected or used by us for these purposes, you can simply opt out (except with respect to information that must be collected or used in connection with transactions in shopPBS). This may prevent your participation in activities for which personal information is needed, such as contests.
+	</li><li>With respect to transactions in shopPBS:
+<ul>
+	<li>We will use the personal identification information that you supply us (such as name, billing address, shipping address, email address, telephone number, credit card number and expiration date) to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations, and to provide customer service. This information also may be used to contact you about sales and special offers, unless you have opted not to receive these types of promotional communications from us.  We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database.
+	</li><li>We also collect and store certain non-personal information automatically whenever you interact with shopPBS. For example, we collect your IP address, browser information and reference site domain name every time you visit shopPBS. This information is used to analyze and improve shopPBS and to provide our users with a fulfilling shopping experience.
+	</li><li>You can access, correct and update certain personal identification information that you have supplied us in connection with shopPBS by clicking on "Manage Your Account" within the Help Desk area of shopPBS.
+	</li><li>There are several ways in which you can tell us whether or not you want to receive promotional communications from us in connection with shopPBS.  When you set up an account, or click on "Manage Your Account" within the Help Desk area of shopPBS, or place an order through shopPBS, you will have an opportunity to make or change your selections in this regard.  You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.
+</li></ul>
+</li></ol>
+<p>
+
+Collection and Use of Information about Children 
+</p><p>
+Because PBS Kids serves a special audience, Web sites that provide components for children must follow additional guidelines. For more information, please visit the PBS Kids Privacy Policy.  Please note that although children's products are available through shopPBS, shopPBS is intended for use by adults.  We do not sell or ship any items ordered through shopPBS directly to anyone who we know to be under the age of 18, nor do we collect any personal identification information through shopPBS from anyone who we know to be under the age of 18. If you are under the age of 18, you should visit shopPBS only with the involvement of a parent or guardian and should not submit any personal identification information to us through shopPBS.
+
+</p><p>
+Sharing of Information Related to Transactions in shopPBS  
+</p><p>
+We and our service providers engage third parties to perform services in connection with shopPBS.  Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site operation and evaluation, data analysis and, where applicable, data cleansing.  We and our service providers provide personal identification information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+</p><p>
+We or our service providers may release personal identification information if we believe in good faith that: the law or legal process requires it, we have received a valid administrative request from a law enforcement agency, or such release is necessary to protect anyone's rights, property or safety.
+</p><p>
+You have trusted us for many years to make safe and quality content that family members of all ages can enjoy. In the cyberspace world, this trust is even more important to your family, and to PBS Kids. To make sure that this site stays safe and fun, we make the following promises: 
+</p><ul>
+	<li>In almost all activities, the information we collect is non-personal (such as first name, age, city and state). If you enter a contest, send us a question or send an electronic postcard, we will also ask for an e-mail address. We only collect enough information from our visitors to make activities on PBS Kids fun and interesting. 
+	</li><li>If you submit stories, artwork, comments or anything else to us which is posted on our site, you will be identified on our site only by first name, age, city and state. 
+	</li><li>If you send us an e-mail with a question or comment, or enter one of our contests, we will write back using your e-mail address, but we will not keep the address or use it again. 
+	</li><li>If you ask PBS Kids to send an electronic postcard or e-mail message, we will ask for your first name and e-mail address as well as the e-mail address of the person who will receive the postcard. We will only use this information to send the postcard or message and we will delete the information when the postcard or message is sent. 
+	</li><li>No one will be excluded from our site for not giving us personal information. When we do ask for personal information (like an e-mail address), we will only keep it until that particular activity is complete (except with respect to information that must be collected or used in connection with transactions in shopPBS). We will not share this information with a third party except as otherwise provided in this policy. 
+	</li><li>If we know a visitor is under the age of thirteen, we will collect a parent's permission offline (by postal mail, fax or phone) before we mail any prizes, or collect or share personal information with anyone else. 
+	</li><li>If you localize pbskids.org to the PBS station nearest you, a cookie will tell us your station's call letters. PBS Kids only keeps track of how many computers choose each station. No personal information is stored in the cookie, even if you have entered your name or e-mail address on other parts of PBS Online. You can choose to have your computer remember a different station, or no station at all, at any time. Please note that if you come to pbskids.org from a local station site, you will be automatically localized to that station. 
+</li></ul>
+<p>We also promise to help families and communities find the information they need to use the Internet safely and responsibly. 
+</p><ul>
+	<li>When a PBS Kids site is partially funded by outside sponsors, we will mark any underwriter logos with a "sponsored by" tag. We choose our underwriters carefully, to make sure that the company's products and services fit PBS standards. PBS Kids sites will not contain advertisements promoting e-commerce or direct links to e-commerce. 
+	</li><li>All links to third party sites are insulated with a PBS Kids bridge page. These pages clearly notify the visitor that he or she is leaving PBS Kids, and offers an opportunity to return to PBS Kids. Each bridge page displays a Web literacy tip, educating visitors how to be safe on the Internet. In the case of a sponsor's link, the bridge page will provide more information about the sponsor's relationship to PBS. Since we cannot be assured that links to outside sites follow our safety or privacy guidelines, we encourage families to discuss these choices together. We are not responsible for the content or safety and privacy practices at any sites linked from our pages.
+	</li><li>With areas of our site like "Get Your Web License," and our "Know Before You Go" Web literacy tips, we will continue to empower our visitors by helping them to make informed choices. 
+</li></ul>
+<p>
+Your family's use of this site is conditioned on your having accepted these terms. You should check back to this policy frequently, since it is subject to change from time to time, and your continued use of the site is conditioned upon your acceptance of any modifications hereto. 
+</p><p>
+We want to make this site a place where families can surf together, and where parents and caregivers are happy to have their children interact, learn and play. If you have any comments or questions, we're happy to hear them. This is, after all, your site. 
+</p><p>
+If you have any questions or concerns regarding this policy, send us an e-mail at kids@pbs.org. You may also contact us at 1320 Braddock Place, Alexandria, VA 22314 (703 739-5127). Please read the Rules of the Road for Terms and Conditions for using this site. Read the PBS Online Privacy Policy for the sites hosted on pbs.org. 
+</p>
+
+
+<br><br></td>
+</tr></tbody></table>
+ <br><br></td>
+</tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="780" align="center">
+     <tbody><tr>
+         <td width="186" height="59" bgcolor="#666666" valign="top"><br>&nbsp;<font color="#FFFFFF">©2004.</font></td>
+		 <td width="9" bgcolor="#CCCCCC"><img src="http://QPBS.imageg.net/images/pixel.gif" width="9" height="1"></td>
+		 <td width="399" height="59" bgcolor="#CCCCCC" valign="top"><br>Receive e-mails about shopPBS.org news and special offers.<br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="2"><br><span class="email">Enter your email address:</span><form method="post" style="margin:0px;display:inline;" action="/emailHandler/index.jsp?clickid=footer_emailSignUp_img" name="emailForm" onsubmit="return emailCheck(0);"><input type="hidden" name="contest" value="QPBS_nocontest"><input type="text" name="emailAddress" size="11" id="formitems" class="pagetext"><input type="image" src="http://QPBS.imageg.net/images/sign_up.jpg" border="0" align="absmiddle"> &nbsp;<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footer_privacyPolicy_img" class="footerlink">Privacy Policy</a><br>
+<input type="hidden" checked="" name="emailPref" value="Y"></form></td>
+		 <td width="11" bgcolor="#666666"><img src="http://QPBS.imageg.net/images/pixel.gif" width="11" height="1"></td>
+		 <td width="175" height="59" bgcolor="#cccccc" valign="top"><br>&nbsp;<a href="../giftCenter/index.jsp?clickid=footer_giftCenter_txt" class="footerlink">Gift Center</a><br><img src="http://QPBS.imageg.net/images/pixel.gif" width="1" height="5"><br>&nbsp;<a href="../catalog/requestForm.jsp?clickid=footer_requestCatalog_txt" class="footerlink">Request a Catalog</a></td>
+     </tr>
+	 <tr>
+	 	<td colspan="5" bgcolor="#FFFFFF" align="right" height="22" valign="center"><font color="#999999">*List price is for reference only. No sales may have occurred at this price. **See product page for details.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	 </tr>
+</tbody></table>
+
+
+
+
+</body></html>
