@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616173216id_/http%3A//candymag.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2001-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011006175334id_/http%3A//www.candymag.com/about/privacy.html) for the most accurate reproduction.*
 
 # candymag.com | we take care of your privacy
 
@@ -19,9 +19,9 @@ Information  -   Sponsor Services  -   Teens  -   Protecting Your In
 
 2\. When you subscribe to any of our newsletters (Sweet Reminders, FeMAIL, etc.), all we need is your email address—which we use to send the newsletter you requested. 
 
-3\. To create topics and post messages in TEENtalk, our message boards, you must already be a registered Candymag.com member. Your username is displayed with every message you post. Other members of the Candymag.com community may send you email-your username will appear as a hyperlink to your email address. When you register, you may indicate that you choose not to have your email address appear as a hyperlink. (To read the complete TEENtalk house rules, [click here](https://web.archive.org/web/20010616173216id_/http%3A//candymag.com/about/bbsrules.html).) 
+3\. To create topics and post messages in TEENtalk, our message boards, you must already be a registered Candymag.com member. Your username is displayed with every message you post. Other members of the Candymag.com community may send you email-your username will appear as a hyperlink to your email address. When you register, you may indicate that you choose not to have your email address appear as a hyperlink. (To read the complete TEENtalk house rules, [click here](https://web.archive.org/web/20011006175334id_/http%3A//www.candymag.com/about/bbsrules.html).) 
 
-We may republish your TEENtalk posts to enrich Candymag.com content. If we do so, we will notify you. Republished posts will be identified only by usernames. No other identifying information will be supplied. We promise to be very sensitive in this effort. ([Click here](https://web.archive.org/web/20010616173216id_/http%3A//candymag.com/about/bbsrules.html) for complete details on republication of TEENtalk posts.) 
+We may republish your TEENtalk posts to enrich Candymag.com content. If we do so, we will notify you. Republished posts will be identified only by usernames. No other identifying information will be supplied. We promise to be very sensitive in this effort. ([Click here](https://web.archive.org/web/20011006175334id_/http%3A//www.candymag.com/about/bbsrules.html) for complete details on republication of TEENtalk posts.) 
 
 4\. To enter a contest or promotion, you must already be a registered Candymag.com member. We use your personal information to administer the contest and notify the winners. 
 
@@ -41,7 +41,7 @@ Surveys are open to all interested Candymag.com members. Sponsors will be author
 **TEENS**  
 We take special precautions in protecting the privacy our young readers. While we expect parents to give their children a talk on staying safe on the Internet and constant guidance, we also take active steps to educate and protect the teens who visit and use our website. We provide informative feature articles on the subject of online safety and set up strict rules for the online community. We never censor discussion on TEENtalk or in the chatrooms; however, we do monitor them closely for offensive, abusive, and threatening messages. We also provide "hotlines" (by telephone, fax, Web, and email) that are dedicated to assisting and guiding our young members. 
 
-Before you go further into the Internet, we invite you [to read "CyberSafety,"](https://web.archive.org/web/20010616173216id_/http%3A//candymag.com/about/safety.html) a primer on protecting yourself on the Internet.) 
+Before you go further into the Internet, we invite you [to read "CyberSafety,"](https://web.archive.org/web/20011006175334id_/http%3A//www.candymag.com/about/safety.html) a primer on protecting yourself on the Internet.) 
 
 **HOW DOES CANDYMAG.COM PROTECT MEMBER INFO?**  
 All of the member data we collect is protected against unauthorized access. We also implement every possible measure to safeguard our servers from illegal intrusions. Members have the option to display information contained in their personal member profile. 
