@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medem.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202144022id_/http%3A//www.medem.com/othr/othr_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medem.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626205956id_/http%3A//medem.com/othr/othr_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  › [Home](https://web.archive.org/web/20031202144022id_/http%3A//www.medem.com/index.cfm) » [Privacy Policy](https://web.archive.org/web/20031202144022id_/http%3A//www.medem.com/othr/othr_policy.cfm) **Medem Privacy and Confidentiality Policy**
+|  › [Home](https://web.archive.org/web/20040626205956id_/http%3A//medem.com/index.cfm) » [Privacy Policy](https://web.archive.org/web/20040626205956id_/http%3A//medem.com/othr/othr_policy.cfm) **Medem Privacy and Confidentiality Policy**
 
 **Updated February 2003**
 
@@ -67,7 +67,6 @@ At any time, you can opt out of any service you have been using. We monitor and 
 back to top
 
 |   |  |   |    
-  
   
   
   
