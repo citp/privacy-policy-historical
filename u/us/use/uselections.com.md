@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211104926id_/http%3A//www.uselections.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811195827id_/http%3A//www.uselections.com/privacy-policy) for the most accurate reproduction.*
 
-# USElections.com - Your Lead to our Privacy Policy and More
+# USElections.com - Your Lead to Our Privacy Policy and More
 
-**Privacy Policy **
+**SUB DIRECTORY:  
+**[Home](http://www.uselections.com/) ******  
+**[Submit URL](http://www.uselections.com/submit/) **  
+**[Political eNewsletter](http://www.uselections.com/enewsletter/) ****  
+
+
+|   | 
+
+**Privacy Policy  
+This web page has been updated on Tuesday, December 17, 2002 **
 
 Thank you for visiting USElections.com and for reviewing our privacy policy. The privacy of our Internet users has always been very important to USElections.com/Launch 3, LLC.
 
@@ -35,7 +44,4 @@ We do not share, sell or give away the e-mail addresses on our list with outside
 
 This site is owned by Launch 3, LLC and is copyrighted and protected by various U.S. Laws. Violations are subject to criminal prosecution in federal court.
 
-For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
-
-
-**|[Home](http://www.uselections.com/) | [Submit URL](http://www.uselections.com/submit/) |**
+For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage.
