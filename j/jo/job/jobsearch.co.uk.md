@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607202427id_/http%3A//www.jobsearch.co.uk/cands/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.co.uk privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207121210id_/http%3A//www.jobsearch.co.uk/cands/privacy.asp) for the most accurate reproduction.*
 
 # JobSearch.co.uk - Privacy Statement
 
+|   
+---  
+| [](https://web.archive.org/) | [](https://web.archive.org/scripts/adredirect.asp?i=1295&u=http://www.jobtrack.co.uk/cands/compview.asp?c=6836) |   
 |   
 Please note the following important information about Data Protection: 
 
@@ -15,4 +18,5 @@ Please note the following important information about Data Protection:
   8. Submitting your CV and other information to us for registration is agreement from you that we may transfer that information outside the EC and in particular to the USA (if we believe this is appropriate). You should be aware that such countries may not have data protection safeguards in place equivalent to those in the UK. 
 
   
-| 
+|   
+---|---|---
