@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217040304id_/http%3A//shrm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621165701id_/http%3A//www.shrm.org/privacy) for the most accurate reproduction.*
 
-# SHRM Privacy Standard
-
-SHRM Online Privacy Statement
+# SHRM Online Privacy Statement
 
 ### SHRM ONLINE PRIVACY POLICY
 
@@ -64,7 +62,7 @@ A cookie is a small text file containing a unique identification number that is 
 To help serve you better, SHRM generally uses cookies to: 
 
   * Identify return visitors. Cookies let us remember your web browser so we can provide personalized member services such as My SHRM and SHRM search agents. Cookies also allow us to identify SHRM members who are returning to the site, so you will not have to re-enter a member ID and password the next time you visit. 
-  * Display advertisements. SHRM uses an outside ad company to display SHRM-approved ads on our website. While we use cookies on other parts of our website(s), the cookies received with banner ads are collected by our ad company. These cookies allow SHRM to manage the delivery of ads and do not collect personally identifiable information. For more information about our third party ad company, their cookies, and how to "opt-out" of those cookies, please [click here](http://www.doubleclick.net/us/coporate/privacy). 
+  * Display advertisements. SHRM uses an outside ad company to display SHRM-approved ads on our website. While we use cookies on other parts of our website(s), the cookies received with banner ads are collected by our ad company. These cookies allow SHRM to manage the delivery of ads and do not collect personally identifiable information. For more information about our third party ad company, their cookies, and how to "opt-out" of those cookies, please [click here](http://www.doubleclick.net/us/corporate/privacy). 
 
 
 
@@ -73,7 +71,7 @@ Data collected through SHRM's website(s) is generally collected and maintained s
 
   1. **Personally identifiable information**. When you provide personally identifiable information on SHRM Online to register for a service, buy a product, or take advantage of a promotion, that information is collected and maintained solely by SHRM, unless specifically stated otherwise at the point of collection. SHRM will inform you at the point of collection if your personal data is being shared with another organization. If you do not want to share your information with that company, you can choose not to use that service. 
 
-If you join SHRM or renew your membership through our website, you provide personally identifiable information on the membership application. SHRM sells mailing lists (names and mailing addresses) of members to selected third-parties. You may opt out of mail list sales when you complete your online application or anytime during your membership, as described in Item 6 below. SHRM does not sell member e-mail addresses to third-parties. 
+If you join SHRM or renew your membership through our website, you provide personally identifiable information on the membership application. SHRM sells mailing lists (names and mailing addresses) of members to selected third-parties. If you wish to opt out of mail list sales at any time during your SHRM membership, you may do so by following the directions in Item 6 below. SHRM does not sell member e-mail addresses to third-parties. 
 
   2. **Anonymous information**. We disclose to third-party sponsors/advertisers aggregate statistics (i.e., impressions and click-throughs on a company's advertisement). Also, we may share aggregate website statistics with the media or other third parties. No personally identifiable information is disclosed to these sponsors/advertisers or other third parties as part of this process—only information in an aggregate form. 
 
@@ -85,7 +83,7 @@ Be aware that SHRM's sponsors, advertisers, and third-party content providers ha
 **4\. How does SHRM use the information it collects?**  
 SHRM collects information to provide you with the services you request and to improve our website(s). 
 
-If you join SHRM or renew your SHRM membership through our website(s), we use the personally identifiable information you provide in the membership application to send you SHRM publications, information about member benefits and special offers, and other information that SHRM believes is relevant and useful to its members. 
+If you join SHRM or renew your SHRM membership through our website(s), we use the personally identifiable information you provide in the membership application to send you SHRM publications, information about member benefits and special offers, and other information that SHRM believes is relevant and useful to its members. SHRM also sells mailing lists (names and mailing addresses) of members to selected HR service providers. You may opt out of mail list sales at any time during your membership, as described in Item 6 below. SHRM does not sell member e-mail addresses to third-parties. 
 
 As mentioned above, SHRM uses the aggregate, anonymous data collected to let our sponsors/advertisers know the number of impressions or views and the number of "click throughs" on their advertisement(s). SHRM also uses this aggregate, anonymous data to perform statistical analyses of the collective characteristics and behavior of our site visitors; to measure user interests regarding specific areas of the SHRM Online; and to analyze how and where best to use our resources. Without such data, we would not know which parts of SHRM Online are the most popular, and we would not be able to change and update the content and services appropriately. 
 
@@ -135,34 +133,11 @@ This site makes bulletin boards, discussion lists, and moderated chats available
 * Direct Marketing Association (DMA) <http://www.the-dma.org/>
 * Electronic Frontier Foundation—non-profit dedicated to protecting public interest in online privacy. [http://www.eff.org](http://www.eff.org/)
 * EPIC.org (Electronic Privacy Information Center) [http://www.epic.org](http://www.epic.org/)
-* Georgetown Internet Privacy Study <http://www.msb.edu/faculty/culnanm/gippshome.html>
+* Georgetown Internet Privacy Study [http://www.msb.edu/faculty/culnanm/gippshome.html](http://www.msb.edu/faculty/culnanm/gippshome.asp)
 * NetCoalition.com [http://www.netcoalition.com](http://www.netcoalition.com/)
 * Network Advertising Initiative <http://www.networkadvertising.org/>
 * Online Privacy Alliance <http://www.privacyalliance.org/>
 
-  3. **Tell your children: "Never talk to strangers!"** While SHRM Online does not include material directed to children, it's a good rule of thumb to teach children that they should not reveal their names or other personal information to anyone they encounter on the Internet. They should also be instructed not to fill out any forms or register at any website without your knowledge and consent.    
-| 
-
-* * *  
-  
----  
-[](https://web.archive.org/default.asp) |  **Society for Human Resource Management**  
-1800 Duke Street  
-Alexandria, Virginia 22314 USA  
-(800) 283-SHRM (U.S. only)  
-+1 (703) 548-3440 (International)  
-FAX: (703) 535-6490  
-Questions? [Contact SHRM](https://web.archive.org/help)  
-Technical Assistance: [webhelp@shrm.org](https://web.archive.org/webhelp/)
-
-Copyright © 2002, Society for Human Resource Management  
-  
-   
-[SHRM Privacy Statement](https://web.archive.org/privacy)  
-  
-* * *  
-  
-[Help](https://web.archive.org/sitehelp) | [About](https://web.archive.org/about)  | [Careers@SHRM](https://web.archive.org/jobs/career/)  | [Member Services](https://web.archive.org/memberkit)  | [Non-Members](https://web.archive.org/memberkit/sub_pages/shrm_now.html) |  [Join](https://web.archive.org/join)  |  **[Log In](https://web.archive.org/login.asp)**  
+  3. **Tell your children: "Never talk to strangers!"** While SHRM Online does not include material directed to children, it's a good rule of thumb to teach children that they should not reveal their names or other personal information to anyone they encounter on the Internet. They should also be instructed not to fill out any forms or register at any website without your knowledge and consent. 
 
 
-ADVERTISEMENT
