@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binghamton.edu privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121173809id_/http%3A//computing.binghamton.edu/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binghamton.edu privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202030415id_/http%3A//computing.binghamton.edu/privacypolicy.html) for the most accurate reproduction.*
 
 # Introduction
 
