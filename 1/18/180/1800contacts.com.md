@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607095649id_/http%3A//1800contacts.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603174044id_/http%3A//1800contacts.com/policies.html) for the most accurate reproduction.*
 
 # 1-800 CONTACTS | Company Information
 
@@ -116,5 +116,4 @@ Click "OK"
 
 What if I have other questions or comments?
 
-If you have any question about these policies, you may contact 1-800 CONTACTS, INC. customer service via e-mail at info@1800contacts.com, call us at 1-800 CONTACTS (1-800-266-8228) or write us at 51 West Center Street, Orem, UT 84057.   
-
+If you have any question about these policies, you may contact 1-800 CONTACTS, INC. customer service via e-mail at info@1800contacts.com, call us at 1-800 CONTACTS (1-800-266-8228) or write us at 51 West Center Street, Orem, UT 84057. 
