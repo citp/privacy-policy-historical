@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020148id_/http%3A//borland.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325101021id_/http%3A//www.borland.com/company/privacy.html) for the most accurate reproduction.*
 
 # Borland Privacy Policy
 
@@ -21,7 +21,7 @@ Since Borland is a global company, we provide company information to our worldwi
 
 Please be advised that in certain instances, it may be necessary for Borland to disclose your personal information to federal, state and local government officials in the U.S. or overseas or otherwise as required by our legal obligations.
 
-Personal data privacy is a new and evolving area, and mistakes and miscommunication are possible. We will do our best to maintain the accuracy of your personal information. To make changes to our records of your personal information, please modify your [registration profile](https://bdn.borland.com/cgi-bin/login/edit.cgi). Visitors who have registered for support may modify their separate by clicking on the link marked "Customer Profile" after logging into case management.
+Personal data privacy is a new and evolving area, and mistakes and miscommunication are possible. We will do our best to maintain the accuracy of your personal information. To make changes to our records of your personal information, please modify your [registration profile](https://bdn.borland.com/cgi-bin/login/edit.cgi). Visitors who have registered for support may modify their separate profile by clicking on the link marked "Customer Profile" after logging into case management.
 
  **Use of Cookies**  
 Borland may use cookies from time to time. Cookies are small text files a Web site can use to recognize a repeat visitor to the Web site. We use cookies for various reasons. Cookies enable us to provide you with a better experience by allowing us to understand what areas of this Site are of interest to our members. These cookies do not track individual information. Cookies from Borland can only be read by Borland Web sites. If you do not want Borland to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a Web site tries to put a cookie in your browser software. If you choose to disable cookies in your browser, you can still access most of this Site, however, your ability to use some of the products and/or services at this Site may be affected.
