@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624170559id_/http%3A//addictinggames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207042112id_/http%3A//www.addictinggames.com/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy
 
-[Return](https://web.archive.org/web/20040624170559id_/http%3A//addictinggames.com/index.html)
+[Return](https://web.archive.org/web/20041207042112id_/http%3A//www.addictinggames.com/index.html)
 
 Your Privacy at AddictingGames.com  
 We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our website. 
