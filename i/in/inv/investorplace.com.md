@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the investorplace.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204192828id_/http%3A//www.investorplace.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorplace.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212838id_/http%3A//www.investorplace.com/info/privacy.php) for the most accurate reproduction.*
 
 # InvestorPlace.com: Privacy Policy
 
 At _InvestorPlace.com_ , we take the privacy and security of our registered users and subscribers seriously. We are committed to protecting the personal information you choose to share with us. Accordingly, we have adopted the following privacy policy, based on the principles of notice, choice, access and security in the collection and use of all information regarding our customers and their activities at _InvestorPlace_ and our related sites. 
 
-**_What infomation do we collect?_**
+**_What information do we collect?_**
 
-At InvestorPlace we collect two types of information from our registered users and subscribers: 
+At _InvestorPlace_ we collect two types of information from our registered users and subscribers: 
 
 1\. site usage data  
 2\. registration and subscription data 
@@ -37,9 +37,11 @@ _InvestorPlace's_ privacy policy does not extend to anything that is inherent in
 
 **Registration and subscription data** is the only personally identifiable information that _InvestorPlace_ seeks about you. This information includes your e-mail address and, in some cases, your name, mailing address, telephone number or fax number. 
 
-We collect your **e-mail address** as part of the _InvestorPlace_ registration process, or when you place an order through InvestorPlace. We use it to send you investment information and timely financial news. From time to time, we will also send you additional information including special offers from _InvestorPlace_ or specially selected partners. If you are a subscriber to our investment newsletters, you will also receive information regarding your newsletter author's site. Our Client Relations representatives may also contact you if they have any questions about your subscription or service. 
+We collect your **e-mail address** as part of the _InvestorPlace_ registration process, or when you place an order through _InvestorPlace_. We use it to send you investment information and timely financial news. From time to time, we will also send you additional information including special offers from _InvestorPlace_ or specially selected partners. If you are a subscriber to our investment newsletters, you will also receive information regarding your newsletter author's site. Our Client Relations representatives may also contact you if they have any questions about your subscription or service. 
 
-We neither rent nor sell your email address to anyone. Though we hope you gain value from the messages you receive, you can choose to opt-out of receiving further messages by following the instructions provided at the close of each e-mail. To opt-out of receiving future messages, [click here](https://web.archive.org/ipi/p/?pc=UNSPRI). We collect your **postal address** as part of the order process. We use it to send you the free special reports you have requested, newsletters that you have purchased and special offers from _Phillips International, Inc._ Occasionally, we may provide the names and postal mailing addresses of our subscribers to carefully screened companies who offer products, services, or information which we believe may be of interest to you. To "opt-out" of receiving this information, [click here](https://web.archive.org/ipi/p/?pc=UNSPRI) or send a copy of your mailing label to _Phillips Investment Resources_ , 7811 Montrose Rd., Potomac MD 20854, _Attention: Subscription Services_. Any other information you provide us, such as your **fax or telephone number** , is collected by us only to fulfill subscription orders that you have purchased or to contact you about your service. 
+We neither rent nor sell your email address to anyone. Though we hope you gain value from the messages you receive, you can choose to opt-out of receiving further messages by following the instructions provided at the close of each e-mail. To opt-out of receiving future messages, [click here](https://web.archive.org/ipi/p/?pc=UNSPRI). We will honor the change to your account preferences on _InvestorPlace.com,_ however we also advertise on many other Internet and email outlets. Therefore you may see our advertisements in connection with other financial and investment-related websites and email outlets. We will ensure that they offer you the ability to opt-out from their messages. 
+
+We collect your **postal address** as part of the order process. We use it to send you the free special reports you have requested, newsletters that you have purchased and special offers from _Phillips International, Inc._ Occasionally, we may provide the names and postal mailing addresses of our subscribers to carefully screened companies who offer products, services, or information which we believe may be of interest to you. To "opt-out" of receiving this information, [click here](https://web.archive.org/ipi/p/?pc=UNSPRI) or send a copy of your mailing label to _Phillips Investment Resources_ , 7811 Montrose Rd., Potomac MD 20854, _Attention: Subscription Services_. Any other information you provide us, such as your **fax or telephone number** , is collected by us only to fulfill subscription orders that you have purchased or to contact you about your service. 
 
 **_What happens when you order through InvestorPlace?_**
 
