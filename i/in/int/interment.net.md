@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610104943id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
 
@@ -6,22 +6,22 @@
 ---  
 **·** | 
 
-[Browse All Cemetery Transcriptions ](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/cemetery.htm)  
+[Browse Other Cemeteries](https://web.archive.org/web/20040610104943id_/http%3A//www.interment.net/cemetery.htm)  
   
   |    
-**·** | [New Cemetery Transcriptions ](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/new.htm)  
+**·** | [New Cemetery Transcriptions ](https://web.archive.org/web/20040610104943id_/http%3A//www.interment.net/new.htm)  
   |    
-**·** | [The Cemetery Column ](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/column/index.htm)  
+**·** | [The Cemetery Column ](https://web.archive.org/web/20040610104943id_/http%3A//www.interment.net/column/index.htm)  
   |    
-**·** | [How to Find a Lost Grave](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/help/research.htm)  
+**·** | [How to Find a Lost Grave](https://web.archive.org/web/20040610104943id_/http%3A//www.interment.net/help/research.htm)  
   |    
-**·** | [Submit a Transcription ](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/publish.htm)  
+**·** | [Submit a Transcription ](https://web.archive.org/web/20040610104943id_/http%3A//www.interment.net/publish.htm)  
   |    
-**·** | [Notify me of new cemetery records](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/mailing_list.htm)  
+**·** | [Notify me of new cemetery records](https://web.archive.org/web/20040610104943id_/http%3A//www.interment.net/mailing_list.htm)  
   |    
-**·** | [Friends, Partners, and Websites](https://web.archive.org/web/20031001161156id_/http%3A//interment.net/genealogy.htm)  
+**·** | [Friends, Partners, and Websites](https://web.archive.org/web/20040610104943id_/http%3A//www.interment.net/genealogy.htm)  
   
-  | 
+
 
 ###  Privacy Statement for Cemetery Records Online 
 
@@ -49,31 +49,26 @@ This site contains links to other sites. **Interment.net** is not responsible fo
 
 ####  Special Relationships 
 
-This site maintains special relationships with other organizations.
+This site maintains special relationships with advertisers, who advertise on this site, and provides this site with funds necessary to keep its operations going.
 
-This site acts as reseller of goods and products from certain vendors and manufacturers. When clicking a link to purchase an item from this website, you will be asked to provide some information needed to complete the sale. This site does not use or retain that information; it is retained and used by the vendor or manufacturer. These vendors and manufacturers are:
+This site also maintains affiliate marketing relationships with genealogy-oriented companies that provide this site with funds necessary to keep its operations going.
 
->   * Allcensus.com
->   * Ancestry.com
->   * Genealogy.com
+When clicking on advertising and/or affiliate links for these companies, visitors will be taken to their website. In order to properly identify that this site referred visitors to those companies, a cookie is placed on the visitor's computer. The cookie is not placed by this website, but by the companies listed below. Only the company that placed the cookie has access to the information contained in that cookie. 
+
+These companies are:
+
+>   * MyFamily.com
 >   * OneGreatFamily.com
 >   * Amazon.com
->   * CallWave.com
+>   * Origins.net
 >   * KindredKonnections.com
+>   * Google.com
 > 
 
-
-This site is involved in a strategic partnership with Software Wonders of NJ [[http://www.daddezio.com](http://www.daddezio.com/)]. The partnership involves referring certain e-mail correspondence to each other. Only e-mail correspondence that appears to be best suited for the other site is referred.
 
 #### Children's Guidelines 
 
 This site meets **** the Online Privacy Protection Act guidelines. 
-
-#### Data Quality/Access 
-
-This site gives users the following options for changing and modifying information previously provided: 
-
-You can send email to [ stevepjohnson@mchsi.com ](mailto:stevepjohnson@mchsi.com)
 
 ### Contacting the Web Site 
 
