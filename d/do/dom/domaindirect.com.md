@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604081901id_/http%3A//domaindirect.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203075435id_/http%3A//www.domaindirect.com/policy.html) for the most accurate reproduction.*
 
 # Domain names and Web hosting from Domain Direct
 
@@ -59,7 +59,7 @@ Record Created on 02-Jun-1998.
 **Domain servers in listed order:**  
 NS1.DOMAINDIRECT.COM _**216.40.33.21**_  
 NS2.DOMAINDIRECT.COM _**216.40.33.22**_  
-NS3.DOMAINDIRECT.COM _**216.40.33.24**_
+NS3.DOMAINDIRECT.COM _**204.50.180.58**_
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows  
 for information purposes only, and may be used to assist you in obtaining  
