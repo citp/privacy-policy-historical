@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the popcap.com privacy policy that was archived on 2002-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204213922id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the popcap.com privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603193945id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>	<title>Privacy Policy</title><script language="javascript" type="text/javascript">
 <!--  
@@ -16,11 +16,26 @@ else  // Browser is not MSIE or is Netscape - generic style sheet
 function launchgame(theGame, theSize){	
 var URL;	
 var Params;	
-URL = "gamepopup.php?theGame=" + theGame;	Params = theSize + ",title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0,left=0,top=0";	
+URL = "gamepopup.php?theGame=" + theGame;
+
+Params = theSize + ",title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0,left=0,top=0";	
+
+
 
 window.open (URL, theGame, Params);	
 
 }			
+
+function launchFaq(question){	
+var theGame = "PopCap";
+var URL;	
+var Params;	
+URL = ("popfaq" + question + ".php");
+Params = "width=500,height=400,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,copyhistory=0,left=0,top=0";	
+window.open (URL, theGame, Params);
+	
+}
+
 //-->
 </script><link rel="STYLESHEET" href="inc/netscape.css" type="text/css"></head>
 
@@ -40,6 +55,19 @@ window.open (URL, theGame, Params);
 
 
 <script language="Javascript">
+
+function launchPromo()
+{
+  var URL;
+  var Params;
+  URL = "promo_holiday.php";
+  Params ="width=500,height=350,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0";
+  window.open (URL, "Promotional", Params);
+}
+
+
+
+
 function launchWordfall()
 {
   var URL;
@@ -55,29 +83,43 @@ function launchWordfall()
 <td width="123">					
 
 <!--- news content --->
-<br>						
+<div class="news">
 
-<div class="news"><p><span class="newshead">Dec 2, 2002</span><br>
-<a href="javascript:launchgame('wordstalk','width=682,height=516,top=0,left=0');"><b>Wordstalk</b></a> is released! Help Jack get the Golden Goose!
+<!-- Coupon
+<A HREF="javascript:launchPromo()"><IMG SRC="img/ads/xmasbanner.gif" BORDER=0 hspace=0 vspace=0></A>	
+-->
+<br>
 
-</p><div class="news"><p><span class="newshead">November 15, 2002</span><br>
-<b>NEW RELEASE!</b><br>
-<a href="javascript:launchgame('wordshark','width=598,height=388');"><b>Word Shark</b></a> is live!<br> Check it out!<br><br>
-Try the beta version of <a href="javascript:launchgame('candytrain','width=619,height=452,top=0,left=0');"><b>Candy Train</b></a>!
+	<p><span class="newshead">May 14, 2003</span><br>
+	T-shirts, mugs, more! Preview the <a href="http://www.cafeshops.com/popcapgames/" target="_blank"><b>PopCap Store!</b></a>
+	<br><br>
 
+	</p><p><span class="newshead">April 10, 2003</span><br>
+	Online adventure! <br><a href="#" onmouseup="window.open('runescape.php', 'Runescape', 'width=800,height=650,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0,left=10,top=10');"><b>Play Runescape now!</b></a> 
+	<br><br>
 
+	
 
-</p><p><span class="newshead">October 15, 2002</span><br>
-It's a flood of fun!  Noah's Ark Deluxe Launches!<br>
-<b><a href="noahsark.php">Check it out!</a></b><br><br>
+	</p><p><span class="newshead">February 25, 2003</span><br>
+	At long last, IT'S HERE! <a href="bookworm.php"><b>BOOKWORM DELUXE!</b></a> 
+	<br><br>
+
 
 </p></div>
-</div></td></tr></tbody></table><p></p><div align="center">
+</td></tr></tbody></table><p></p><div align="center">
 
-<a href="atomica.php"><img src="img/125ads/win32_atomica.gif" border="0" hspace="0" vpsace="0"></a></div><p>			<table width="144" align="center" border="0" cellpadding="0" cellspacing="0">
+<a href="#" onmouseup="window.open('runescape.php', 'Runescape', 'width=800,height=650,title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,copyhistory=0,left=10,top=10');"><img src="img/125ads/runescape125.gif" border="0" hspace="0" vspace="0"></a></div><p>			
+<script>
+function emailValidator(entry) {
+	var email=/^[A-Za-z0-9][\w-.]+[A-Za-z0-9]@[A-Za-z0-9]([\w-.]+[A-Za-z0-9]\.)+([A-Za-z]){2,4}$/i;
+	return(email.test(entry));
+}
+</script>
+
+			<table width="144" align="center" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td width="10">
-						<form action="/cgi-bin/FormMail.pl" method="POST">
+						<form action="/cgi-bin/FormMail.pl" method="POST" name="news">
 						<img src="img/shared/strans.gif" width="10" height="1" border="0"><br></form></td>
 					<td width="139">
 					<!--- news content --->
@@ -93,7 +135,7 @@ It's a flood of fun!  Noah's Ark Deluxe Launches!<br>
 						<input type="text" name="email" size="8">
 						<input type="hidden" name="sort" value="order:subscribe,email">
 						<input type="hidden" name="redirect" value="http://www.popcap.com/">
-						<input type="submit" value="Go!">
+						<input type="button" value="Go!" onclick="if(emailValidator(document.news.email.value)){news.submit();}else{alert('Invalid Email!');}">
 						</span><br>
 						<span class="headernav">enter your email</span>
 						</p></div>
@@ -120,6 +162,7 @@ It's a flood of fun!  Noah's Ark Deluxe Launches!<br>
 <td width="4"><img src="img/shared/strans.gif" width="4" height="69" border="0"><br></td>	
 </tr></tbody></table></td></tr>							<tr bgcolor="#70BEFF" valign="top">	
 <td width="" valign="top"><img src="img/shared/strans.gif" width="16" height="5" border="0"><br></td>							</tr>						</tbody></table>					</td>					<td width="16" valign="top"> 						<img src="img/shared/strans.gif" width="16" height="1" border="0"><br></td>					<td width="73" valign="top">						<img src="img/shared/head.gif" width="73" height="77" border="0"><br></td>					<td width="10" valign="top">						<img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>									</tr>			</tbody></table>			<!--- end banner table --->			<!--- begin top nav table --->			<table width="588" border="0" cellpadding="0" cellspacing="0" bgcolor="#B9DDFF">				<tbody><tr>					<td width="588" valign="top" colspan="2"><img src="img/shared/strans.gif" width="13" height="1" border="0"><br></td>									</tr>				<tr>									<td width="1" valign="top"><img src="img/shared/strans.gif" width="1" height="19" border="0"><br></td>										<td width="588" valign="top">										<div align="center">					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="winmain.php" class="headernav">PC games</a>&nbsp;&nbsp;					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="palmmain.php" class="headernav">Palm games</a>&nbsp;&nbsp;					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="macmain.php" class="headernav">Mac games</a>&nbsp;&nbsp;																&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="javagames.php" class="headernav">Web Games</a>&nbsp;&nbsp;					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="aboutus.php" class="headernav">About PopCap</a>&nbsp;&nbsp;					&nbsp;<img src="img/shared/topnav_dot.gif" width="9" height="7" border="0"><a href="feedback.php" class="headernav">Contact Us</a>&nbsp;&nbsp;					<!--&nbsp;<IMG SRC="img/shared/topnav_dot.gif" WIDTH="9" HEIGHT="7" BORDER="0"><A HREF="" CLASS="headernav">Help!</A>-->					</div></td>				</tr>			</tbody></table>			<!--- end top nav table --->						<table width="588" border="0" cellpadding="0" cellspacing="0">				<tbody><tr>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="438" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="438" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="140" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="140" height="1" border="0"><br></td>				</tr>				<tr>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="700" border="0"><br></td>					<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="438" valign="top" bgcolor="#FFFFFF">						
+
 <table cellspacing="5" cellpadding="5" border="0">
 <tbody><tr>
     <td>
@@ -185,54 +228,10 @@ Other companies that advertise on our site may collect information about you whe
 
 
 
-</td>
-					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>
-					<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>
-					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>
-					<td width="139" valign="top" bgcolor="#FFFFFF">
-						<img src="img/shared/strans.gif" width="140" height="1" border="0"><br>
-					<!--- Right Content Area --->	
-					
-					
-					<div align="center">
-					<table width="100%" cellpadding="3"><tbody><tr><td align="CENTER"><div>We're hiring! Click below:<br> <a href="job_designer.php" class="headernav"><u>Graphic Designers</u></a> <br><a href="job_jrsweng.php" class="headernav"><u>Software Testers</u></a></div></td></tr></tbody></table>
-					
-					
-					<div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="125" height="125" id="125x1252" align=""><param name="movie" value="../img/125ads/win32_ningpo.swf"><param name="quality" value="high"><param name="bgcolor" value="000000"><embed src="../img/125ads/win32_ningpo.swf" quality="high" bgcolor="000000" width="125" height="125" name="125x1252" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-				</object>
-			    </div>					
-									
-					<p>
-					<a href="noahsark.php" class="newslink">Noah's Ark Deluxe<br>
-					Download Now (2.5 meg)</a>
-					<br><br>
-					<a href="atomica.php" class="newslink">Atomica Deluxe<br>
-					Download Now (2.7 meg)</a>
-					<br><br>
-					<a href="ningpo.php" class="newslink">NingPo MahJong Deluxe<br>
-					Download Now (3.3 meg)</a>
-					<br><br>
-					<a href="bigmoney.php" class="newslink">Big Money Deluxe<br>
-					Download Now (1.9 meg)</a>
-					<br><br>
-					<a href="mummymaze.php" class="newslink">Mummy Maze Deluxe<br>
-					Download Now (2.9 meg)</a>
-					<br><br>
-					<a href="dynomite.php" class="newslink">Dynomite for Windows<br>
-					Download Now (2.1 meg)</a>
-					<br><br>
-					<a href="bejeweled.php" class="newslink">Bejeweled for Windows<br>
-					Download Now (1.6 meg)</a>
-					<br><br>
-					<a href="alchemy.php" class="newslink">Alchemy for Windows<br>
-					Download Now (1.8 meg)</a>
-					<br><br>
-					<a href="sevenseas.php" class="newslink">Seven Seas for Windows<br>
-					Download Now (2.1 meg)</a>
-					
-					</p><p>
-					
-					<table width="128" border="0" cellpadding="4" cellspacing="0" align="center" bgcolor="#DFE1F8">
+</td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="3" valign="top" bgcolor="#B9DDFF"><img src="img/shared/strans.gif" width="3" height="1" border="0"><br></td>					<td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>					<td width="139" valign="top" bgcolor="#FFFFFF">						<img src="img/shared/strans.gif" width="140" height="1" border="0"><br>					<!--- Right Content Area --->																<div align="center">					<img src="img/shared/strans.gif" height="8" width="1"><br>
+					<a href="tiptop.php?src=125sidebar" target="_new" name="smallad"><img src="img/125ads/win32_tiptop.gif" width="125" height="125" border="0" alt=""></a>																			<p>
+					<a href="bookworm.php" class="newslink">Bookworm Deluxe<br>					Download Now (3.8 meg)</a>					<br><br>
+					<a href="tiptop.php" class="newslink">TipTop Deluxe<br>					Download Now (2.6 meg)</a>					<br><br>					<a href="noahsark.php" class="newslink">Noah's Ark Deluxe<br>					Download Now (2.5 meg)</a>					<br><br>					<a href="atomica.php" class="newslink">Atomica Deluxe<br>					Download Now (3.2 meg)</a>					<br><br>					<a href="ningpo.php" class="newslink">NingPo MahJong Deluxe<br>					Download Now (3.3 meg)</a>					<br><br>					<a href="bigmoney.php" class="newslink">Big Money Deluxe<br>					Download Now (1.9 meg)</a>					<br><br>					<a href="mummymaze.php" class="newslink">Mummy Maze Deluxe<br>					Download Now (2.9 meg)</a>					<br><br>					<a href="dynomite.php" class="newslink">Dynomite for Windows<br>					Download Now (2.1 meg)</a>					<br><br>					<a href="bejeweled.php" class="newslink">Bejeweled for Windows<br>					Download Now (1.6 meg)</a>					<br><br>					<a href="alchemy.php" class="newslink">Alchemy for Windows<br>					Download Now (1.8 meg)</a>					<br><br>					<a href="sevenseas.php" class="newslink">Seven Seas for Windows<br>					Download Now (2.1 meg)</a>										</p><p>										<table width="128" border="0" cellpadding="4" cellspacing="0" align="center" bgcolor="#DFE1F8">
 					<tbody><tr>
 						<td width="" valign="top">
 							<div class="sponsor">
@@ -246,14 +245,6 @@ Other companies that advertise on our site may collect information about you whe
 							<a href="http://click.linksynergy.com/fs-bin/click?id=Nr1HseSsC4c&amp;offerid=13850.10000001&amp;type=3&amp;subid=0" class="sponsortitle">EBgames.com</a><img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=Nr1HseSsC4c&amp;bids=13850.10000001&amp;type=3&amp;subid=0"><br>
 							Stocks console titles as well as PC games. Often has good specials.
 						</div></td>
-					</tr>
-					<tr>
-						<td width="" valign="top">
-							<div class="sponsor">
-							<a href="http://www.qksrv.net/click-690202-1100794" target="_top" class="sponsortitle">Half.com</a><img src="http://www.qksrv.net/image-690202-1100794" width="1" height="1" border="0"><br>
-							Ebay's fixed price site has some good used games.
-							</div>
-						</td>
 					</tr>
 					<tr>
 						<td width="" valign="top">
@@ -321,43 +312,7 @@ low prices.
 						</TD>
 					</TR>-->
 					
-					</tbody></table>					
-					</p></div><br>
-					</td>
-				</tr>
-			</tbody></table>
-
-			
-			<!--- right blue line --->
-			</td><td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>
-		
-	</tr>
-</tbody></table>
-<!--- end main table --->
-<table width="732" align="center" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td width="1" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="734" height="1" border="0"><br></td>
-</tr>
-<tr>
-	
-	<td width="*" align="center">
-		<a href="winmain.php" class="footernav">PC games</a>&nbsp;&nbsp;
-		<a href="palmmain.php" class="footernav">Palm games</a>&nbsp;&nbsp;
-		<a href="macmain.php" class="footernav">Mac games</a>&nbsp;&nbsp;
-		<a href="javagames.php" class="footernav">Web Games</a>&nbsp;&nbsp;
-		<a href="aboutus.php" class="footernav">About PopCap</a>&nbsp;&nbsp;
-		<a href="feedback.php" class="footernav">Contact Us</a>&nbsp;&nbsp;
-		<a href="" class="footernav"></a><br>
-		<a href="privacy.php" class="footernav">Privacy Policy</a>
-		<br>
-		<font color="#808080"><div>Page and all games copyright 2000, 2001, 2002 PopCap Games</div></font>
-
-</td>
-	
-</tr>
-
-</tbody></table>
-
+					</tbody></table>										</p></div><br>					</td>				</tr>			</tbody></table>						<!--- right blue line --->			</td><td width="1" valign="top" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="1" height="1" border="0"><br></td>			</tr></tbody></table><!--- end main table ---><table width="732" align="center" border="0" cellpadding="0" cellspacing="0"><tbody><tr>	<td width="1" bgcolor="#0A74EC"><img src="img/shared/strans.gif" width="734" height="1" border="0"><br></td></tr><tr>		<td width="*" align="center">		<a href="winmain.php" class="footernav">PC games</a>&nbsp;&nbsp;		<a href="palmmain.php" class="footernav">Palm games</a>&nbsp;&nbsp;		<a href="macmain.php" class="footernav">Mac games</a>&nbsp;&nbsp;		<a href="javagames.php" class="footernav">Web Games</a>&nbsp;&nbsp;		<a href="aboutus.php" class="footernav">About PopCap</a>&nbsp;&nbsp;		<a href="feedback.php" class="footernav">Contact Us</a>&nbsp;&nbsp;		<a href="" class="footernav"></a><br>		<a href="privacy.php" class="footernav">Privacy Policy</a>		<br>		<font color="#808080"><div>Site and all games copyright © 2002-2003 PopCap Games, Inc.</div></font></td>	</tr></tbody></table>
 <!-- BEGIN WEBSIDESTORY CODE. COPYRIGHT 1998-2000 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S. PATENT PENDING. -->
 <!-- webbot bot="HTMLMarkup" startspan -->
 <p align="center"><a href="http://rd1.hitbox.com/rd?acct=WQ500925NJDM42EN0&amp;p=s">
@@ -367,7 +322,4 @@ low prices.
 
 
 
-
-</div>
-
-</body></html>
+</div></body></html>
