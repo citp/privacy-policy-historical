@@ -1,369 +1,401 @@
-<!--The following is the downloaded HTML source of the investorlinks.com privacy policy that was archived on 2002-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021211190152id_/http%3A//www.investorlinks.com/about/aboutusprivacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investorlinks.com privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603185436id_/http%3A//www.investorlinks.com/about/aboutusprivacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
-<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>InvestorLinks - About Us - Member Services</title>
-<link rel="stylesheet" type="text/css" href="../main.css">
-<meta name="Microsoft Border" content="tlrb, default">
-</head>
-
-<body topmargin="0" leftmargin="0"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
-
+<title>InvestorLinks - Financial Directory</title>
+<link rel="stylesheet" type="text/css" href="../styles/ivlinks_styles.css">
 <script language="JavaScript">
 <!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
 }
 
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+function changeimages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeimages.arguments.length; i+=2) {
+			document[changeimages.arguments[i]].src = changeimages.arguments[i+1];
+		}
+	}
 }
 
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+var preloadFlag = false;
+function preloadimages() {
+	if (document.images) {
+		home_over = newImage("../images/il_topnav2_home_on.gif");
+		directory_over = newImage("../images/il_topnav2_findirectory_on.gif");
+		newsletter_over = newImage("../images/il_topnav2_newsletter_on.gif");
+		bullboards_over = newImage("../images/il_topnav2_bullboards_on.gif");
+		portfolio_over = newImage("../images/il_topnav2_portfoliotracker_on.gif");
+		headlines_over = newImage("../images/il_topnav2_headlines_on.gif");
+		sitemap_over = newImage("../images/il_topnav2_sitemap_on.gif");
+		aboutut_over = newImage("../images/il_topnav2_aboutus_on.gif");
+		memcontact_over = newImage("../images/contactnav1_1.gif");
+		privacy_over = newImage("../images/contactnav61.gif");
+		emailpolicy_over = newImage("../images/contactnav71.gif");
+		preloadFlag = true;
+	}
 }
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+function checkFields(){
+
+		if (document.form.email.value == "" || (document.form.email.value.indexOf("@",0) == -1||document.form.email.value.indexOf(".",0) == -1)) { 
+		alert("Please enter a valid E-mail address");
+		return false;
+	}
 }
-//-->
-</script>
+
+function CheckForm () {
+
+		if (document.frmSiteSearch.search.value == ""){
+		alert("Please enter at least one keyword to search");
+		return false;
+	}
+
+	return true
+}
+
+function CheckForm2 () {
+
+		if (document.frmSiteSearch2.search.value == ""){
+		alert("Please enter at least one keyword to search");
+		return false;
+	}
+	
+	return true
+}
+
+function quote_popup () {
+
+		window.open('','msnwin','toolbar=no,status=no,scrollbars=yes,resizable=yes,height=450,width=650,left=10,top=10');
+		return;
+	}
+
+function openWin(theURL,winName,features) {
+		window.open(theURL,winName,features);
+	}	
+	
+function doSubmit(){
+
+		document.theForm.SubmitForm.disabled=true;
+		document.theForm.action.disabled=true;
+		document.theForm.submit();
+}
+// -->
+</script></head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadimages();">
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr valign="top">
-    <td bgcolor="#eeeeee" background="http://www.investorlinks.com/images/il_topnav_bg.gif">
-    <a href="http://www.investorlinks.com/index.html">
-    <img border="0" src="http://www.investorlinks.com/images/il_toplogosmall1.gif" width="294" height="68"></a></td>
-  </tr>
-  <tr valign="top">
-    <td bgcolor="#eeeeee">
-    <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('directory','','http://www.investorlinks.com/images/il_topnav2_findirectory_on.gif',1)" href="http://www.investorlinks.com/directory/directory.htm">
-    <img src="http://www.investorlinks.com/images/il_topnav2_findirectory_off.gif" alt="Financial Directory" border="0" name="directory" width="136" height="22"></a><a href="http://www.investorlinks2.com/forums/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('boards','','http://www.investorlinks.com/images/il_topnav2_bullboards_on.gif',1)"><img src="http://www.investorlinks.com/images/il_topnav2_bullboards_off.gif" alt="Message Boards" border="0" name="boards" width="87" height="22"></a><a href="http://investorlinks2.com/portfolio/portf.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tracker','','http://www.investorlinks.com/images/il_topnav2_portfoliotracker_on.gif',1)"><img src="http://www.investorlinks.com/images/il_topnav2_portfoliotracker_off.gif" alt="Portfolio Tracker" border="0" name="tracker" width="125" height="22"></a><a href="http://www.investorlinks.com/map/sitemap.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('sitemap','','http://www.investorlinks.com/images/il_topnav2_sitemap_on.gif',1)"><img src="http://www.investorlinks.com/images/il_topnav2_sitemap_off.gif" alt="Site Map" border="0" name="sitemap" width="75" height="22"></a><a href="http://www.investorlinks.com/about/aboutus.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','http://www.investorlinks.com/images/il_topnav2_aboutus_on.gif',1)"><img src="http://www.investorlinks.com/images/il_topnav2_aboutus_off.gif" alt="About Us" border="0" name="about" width="83" height="22"></a></td>
-  </tr>
-  <tr valign="top">
-    <td>
-    <table width="100%" border="0" cellspacing="0" cellpadding="0" background="http://www.investorlinks.com/images/il_sub_header_bg.gif" height="11">
-      <tbody><tr>
-        <td>
-        <img src="http://www.investorlinks.com/images/spacer_transparent.gif" width="1" height="1"></td>
-      </tr>
-    </tbody></table>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td>
-    <table width="100%" border="0" cellspacing="0" cellpadding="0" background="http://www.investorlinks.com/images/il_sub_topspacer_mid.gif">
-      <tbody><tr>
-        <td width="5%" valign="top"><b>
-        <img src="http://www.investorlinks.com/images/subpage_collage_tools2.gif" width="131" height="10"></b></td>
-        <td width="90%" class="bodydescription">
-        <img src="http://www.investorlinks.com/images/spacer_white.gif" width="501" height="4"></td>
-        <td width="5%" valign="top">
-        <img src="http://www.investorlinks.com/images/il_sub_topspacer_right.gif" width="132" height="10"></td>
-      </tr>
-    </tbody></table>
-    </td>
-  </tr>
+	<tbody><tr>
+		<td width="294" background="../images/il_topnav_bg.gif"><a href="../index.asp"><img border="0" src="../images/il_toplogosmall1.gif" width="294" height="68"></a></td>
+		<td align="center" valign="middle" background="../images/il_topnav_bg.gif">
+		
+		</td>
+	</tr>
+	<tr valign="top">
+		<td bgcolor="#eeeeee" colspan="2">
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td><a href="../" onmouseover="changeimages('homelink', '../images/il_topnav2_home_on.gif'); return true;" onmouseout="changeimages('homelink', '../images/il_topnav2_home.gif'); return true;"><img src="../images/il_topnav2_home.gif" alt="Home" border="0" name="homelink" width="54" height="22"></a></td>
+					<td><a href="../directory/" onmouseover="changeimages('directory', '../images/il_topnav2_findirectory_on.gif'); return true;" onmouseout="changeimages('directory', '../images/il_topnav2_findirectory.gif'); return true;"><img src="../images/il_topnav2_findirectory.gif" alt="Financial Directory" border="0" name="directory" width="136" height="22"></a></td>
+					<td><a href="../headlines/" onmouseover="changeimages('headlines', '../images/il_topnav2_headlines_on.gif'); return true;" onmouseout="changeimages('headlines', '../images/il_topnav2_headlines.gif'); return true;"><img src="../images/il_topnav2_headlines.gif" alt="Headlines" border="0" name="headlines" width="83" height="22"></a></td>
+					<td><a href="../newsletter/" onmouseover="changeimages('newsletter', '../images/il_topnav2_newsletter_on.gif'); return true;" onmouseout="changeimages('newsletter', '../images/il_topnav2_newsletter.gif'); return true;"><img src="../images/il_topnav2_newsletter.gif" alt="Newsletter" border="0" name="newsletter" width="92" height="22"></a></td>
+					<!-- <td><a href="../forums/" onmouseover="changeimages('boards', '../images/il_topnav2_bullboards_on.gif'); return true;" onmouseout="changeimages('boards', '../images/il_topnav2_bullboards.gif'); return true;"><img src="../images/il_topnav2_bullboards.gif" alt="Message Boards" border="0" name="boards" width="87" height="22"></a></td>
+					<td><a href="../portfolio/" onmouseover="changeimages('tracker', '../images/il_topnav2_portfoliotracker_on.gif'); return true;" onmouseout="changeimages('tracker', '../images/il_topnav2_portfoliotracker.gif'); return true;"><img src="../images/il_topnav2_portfoliotracker.gif" alt="Portfolio Tracker" border="0" name="tracker" width="125" height="22"></a></td> -->
+					<td><a href="../sitemap/" onmouseover="changeimages('sitemap', '../images/il_topnav2_sitemap_on.gif'); return true;" onmouseout="changeimages('sitemap', '../images/il_topnav2_sitemap.gif'); return true;"><img src="../images/il_topnav2_sitemap.gif" alt="Site Map" border="0" name="sitemap" width="75" height="22"></a></td>
+					<td><a href="../about/" onmouseover="changeimages('about', '../images/il_topnav2_aboutus_on.gif'); return true;" onmouseout="changeimages('about', '../images/il_topnav2_aboutus_on.gif'); return true;"><img src="../images/il_topnav2_aboutus_on.gif" alt="About Us" border="0" name="about" width="83" height="22"></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td colspan="2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" background="../images/il_sub_header_bg.gif" height="11">
+				<tbody><tr>
+					<td><img src="../images/spacer_transparent.gif" width="1" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td colspan="2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" background="../images/il_sub_topspacer_mid.gif">
+				<tbody><tr>
+					<td width="5%" valign="top"><img src="../images/subpage_collage_tools2.gif" width="131" height="10"></td>
+					<td width="90%"><img src="../images/spacer_white.gif" width="479" height="4"></td>
+					<td width="5%" valign="top"><img src="../images/il_sub_topspacer_right_new.gif" width="156" height="10"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
 </tbody></table>
+<!-- Start Main Body -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+<td valign="top">
+	<table width="140" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+		<tbody><tr>
+			<td>
+				<table width="140" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFFFFF">
+					<form name="frmSiteSearch" action="../directory/search_results.asp" method="post" onsubmit="return CheckForm();"></form>
+					<tbody><tr>
+						<td>
+						<p style="margin-left: 6">
+						<span class="bodyregular">Directory Search:</span>
+						<br><input type="text" name="search" size="10" maxlength="35" tabindex="1">
+						<input type="hidden" name="mode" value="anywords">
+						<input type="hidden" name="searchIn" value="Everywhere">
+						<input type="image" src="../images/go.gif" border="0">			
+						</p></td>
+					</tr>
+					
+					<tr>
+						<td><img src="../images/dotblank.gif" border="0" alt="" width="1" height="10"></td>
+					</tr>
+					<tr>
+						<td class="bodyredtitle"><p style="margin-left: 6">
+						<img src="../images/arrow.gif" width="3" height="8">
+						<a href="../about/aboutusprivacy.asp" class="bodylink">Privacy Policy</a>
+						<br><img src="../images/arrow.gif" width="3" height="8">
+						<a href="../about/aboutusterms.asp" class="bodylink">Terms of Use</a>
+						<br><img src="../images/arrow.gif" width="3" height="8">
+						<a href="../subscriber/register.asp" class="bodylink">Free Newsletter</a>
+						<br><img src="../images/arrow.gif" width="3" height="8">
+						<a href="../subscriber/member_details.asp" class="bodylink">Member preferences </a>
+						</p></td>					
+					</tr>
+				</tbody></table>
+				<p><img src="../images/sidespacer.gif" width="140" height="14"></p></td>
+		</tr>
+		<tr bgcolor="#eeeeee">
+			<td>
+				<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+					<tbody><tr>
+						<td bgcolor="#EEEEEE"><img src="../images/dotblank.gif" border="0" alt="" width="1" height="10"></td>
+					</tr>
+					<!-- Begin 125x125 Ad -->
+					<tr>
+						<td align="center" width="150" bgcolor="#EEEEEE">
+						
+<!------- Ad code ------------->
+<script language="JavaScript"> var code = '';
+var now = new Date();
+var nIndex = now.getTime();
+document.write('<s' + 'cript src="http://www.investorlinks.com/adserve/scriptinject.asp?F=13&Z=13&N=1&nocache=' + nIndex + '">');
+document.write('</' + 's' + 'cript>');
+</script><script src="http://www.investorlinks.com/adserve/scriptinject.asp?F=13&amp;Z=13&amp;N=1&amp;nocache=1582140185935"></script>
+<script language="JavaScript">document.write(code);</script>
+<noscript><a href="http://www.investorlinks.com/adserve/adclick.asp?F=13&Z=13&N=1">
+<img border="0" src="http://www.investorlinks.com/adserve/adserve.asp?F=13&Z=13&N=1"></a></noscript>
+<!--------- Ad code --------------->
 
-</td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="1%">
 
-<table width="131" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-  <tbody><tr>
-    <td>
-    <!-- start stock search here -->
-    <table width="131" border="0" cellspacing="0" cellpadding="2" bgcolor="#FFFFFF">
-      <form action="http://www.investorlinks2.com/analysis/quote_box.asp" method="get"></form>
-        <tbody><tr>
-          <td class="bodyredtitle">
-          <p style="margin-left: 5">Enter Stock Symbol</p></td>
-        </tr>
-        <tr>
-          <td>
-          <p style="margin-left: 3"><input name="symb" size="9">
-          <input type="image" border="0" src="../images/go.gif" align="bottom" name="image2" width="27" height="27">
-          </p></td>
-        </tr>
-        <tr>
-          <td>
-          <p style="margin-left: 3">
-          <select name="Func" style="font-family: Arial; width: 122">
-          <option value="wb">WallBoards</option>
-          <option value="afs">Forum Search</option>
-          <option value="ans">News Search</option>
-          <option value="short">Short Interest</option>
-          </select> </p></td>
-        </tr>
-      
-    </tbody></table>
-    <!--end stock search here -->
-    <p><img src="../images/sidespacer.gif" width="131" height="14"></p></td>
-  </tr>
-  <tr bgcolor="#eeeeee">
-    <td>
-    <table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="border-collapse: collapse" bordercolor="#111111">
-      <tbody><tr>
-        <td class="bodyredtitle" bgcolor="#EEEEEE" width="131">
-        <p style="margin-left: 6"><img src="../images/arrow.gif" width="3" height="8">
-        <a href="aboutusprivacy.htm" class="bodyredtitle">Privacy 
-        Policy</a><br>
-        <img src="../images/arrow.gif" width="3" height="8">
-        <a href="aboutusterms.htm" class="bodyredtitle">Terms of Use</a><br>
-        <img src="../images/arrow.gif" width="3" height="8">
-        <a href="../order/email-signup.html" class="bodyredtitle">Free 
-        Newsletter</a></p>
-        <p style="margin-left: 3">
-        <a href="http://adserver.wallstreettape.com/adserver/banman.asp?ZoneID=60&amp;Task=Click&amp;Mode=HTML&amp;PageID=18764" target="_new">
-        <img src="http://adserver.wallstreettape.com/adserver/banman.asp?ZoneID=60&amp;Task=Get&amp;Mode=HTML&amp;PageID=18764" border="0"></a></p>
-        <p style="margin-left: 3">&nbsp;</p></td>
-        <!-------- end LEFT side ads ----------->
-      </tr>
-      <tr>
-        <td align="left" valign="top" bordercolor="#EEEEEE">
-        <img src="../images/subpage_collage_tools2.gif" width="131" height="10"><p>&nbsp;</p></td>
-      </tr>
-    </tbody></table>
-    </td>
-  </tr>
+						</td>
+					</tr>
+					<!-- End 125x125 Ad -->
+					<tr>
+						<td bgcolor="#EEEEEE"><img src="../images/dotblank.gif" border="0" alt="" width="1" height="10"></td>
+					</tr>
+					<tr>
+						<td align="left" valign="top" bordercolor="#EEEEEE"><img src="../images/subpage_collage_tools2.gif" width="140" height="10"><p>&nbsp;</p></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</td>
+<td valign="top" width="20"><img src="../images/dotblank.gif" border="0" alt="" width="20" height="1"></td>
+<td valign="top" width="100%">
+	<table width="100%" border="0" cellspacing="0" cellpadding="4">
+		<tbody><tr valign="top">
+			<td>
+				<img src="../images/spacer_white.gif" width="428" height="1"><br>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td align="left" width="100%" height="35">
+						<span class="bodyredtitle">
+						<a href="../index.asp" class="bodylink">HOME</a> &gt; About Us: Privacy Policy
+						</span>
+						</td>
+					</tr>				
+				</tbody></table>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#009800">
+					<tbody><tr>
+						<td valign="top"><img src="../images/AboutUsHeading.gif" width="300" height="35" border="0" alt=""></td>
+					</tr>
+				</tbody></table>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#EEEEEE">
+					<tbody><tr>
+						<!------------ Begin Content ------------>
+						<td align="left" width="130"><a href="../about" onmouseover="changeimages('memcontact', '../images/contactnav1_1.gif'); return true;" onmouseout="changeimages('memcontact', '../images/contactnav1.gif'); return true;"><img src="../images/contactnav1.gif" alt="" border="0" name="memcontact" width="130" height="25"></a></td>
+						<td align="left" width="130"><a href="../about/aboutusprivacy.asp" onmouseover="changeimages('privacy', '../images/contactnav61.gif'); return true;" onmouseout="changeimages('privacy', '../images/contactnav6.gif'); return true;"><img src="../images/contactnav6.gif" alt="" border="0" name="privacy" width="130" height="25"></a></td>
+						<td align="left" width="130"><a href="../about/aboutusemail.asp" onmouseover="changeimages('emailpolicy', '../images/contactnav71.gif'); return true;" onmouseout="changeimages('emailpolicy', '../images/contactnav7.gif'); return true;"><img src="../images/contactnav7.gif" alt="" border="0" name="emailpolicy" width="130" height="25"></a></td>
+						<td width="100%">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td valign="bottom" width="100%" height="25" align="left"><img border="0" src="../images/il_aboutus_title_privacypolicy.gif" width="250" height="18"></td>
+						<!------------ End Content ------------>	
+					</tr>
+					<tr>
+						<td valign="top">
+						<br>
+						<span class="bodyregular">
+						InvestorLinks.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+						<p><span class="bodyboldblack">1. Information InvestorLinks.com gathers and tracks</span> 
+						</p><p>InvestorLinks.com uses your IP address to help diagnose problems with our server, and to administer our Web site. InvestorLinks.com gathers two types of information about users: data that users provide through optional, voluntary registration on several of our sites, such as requesting subscription to our newsletter, filling out our user's survey form, and through optional, voluntary participation in certain contests (when they are run); and aggregated tracking information derived mainly by tallying page views throughout our sites. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. 
+						</p><p>Because InvestorLinks.com derives its revenue mainly from advertising, providing such aggregated demographic data is essential to keeping our service free to users. The only situation in which InvestorLinks.com divulges information about an individual user to a third party is with certain contests, and then, only with the user's express consent. 
+						</p><p>Our site's offer a daily emailed financial newsletter. Subscription requires users to give us their email address only. Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter. 
+						</p><p>Email addresses sent to InvestorLinks are kept on a separate server, and are never used for any purpose other than what the person sending them requested. They are not sold or shared with any other website, list, or service for any reason. 
+						</p><p><span class="bodyboldblack">2. InvestorLinks.com - Links to Other Websites</span>
+						</p><p>This site contains links to other sites. InvestorLinks is not responsible for the privacy practices or the content of such Web sites. 
+						</p><p><span class="bodyboldblack">3. InvestorLinks.com - Surveys</span> 
+						</p><p>Occasionally InvestorLinks.com conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party. 
+						</p><p>Our online surveys ask visitors for financial information (like their household income and overall size of their investment portfolio) and demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+						</p><p><span class="bodyboldblack">4. InvestorLinks.com - Public Forums</span>
+						</p><p>This site makes chat rooms, forums, message boards, available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+						</p><p><span class="bodyboldblack">5. InvestorLinks.com - Cookies</span>
+						</p><p>A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+						</p><p>InvestorLinks.com does not use cookies. 
+						</p><p><span class="bodyboldblack">6. InvestorLinks.com - Use of the information</span>
+						</p><p>InvestorLinks.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
+						</p><p>As stated above, InvestorLinks.com uses information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls and message boards. We send out newsletters to subscribers on a regular schedule and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. InvestorLinks.com never shares newsletter mailing lists with any third parties, including advertisers or partners. 
+						</p><p>When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. InvestorLinks.com does not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
+						</p><p>InvestorLinks.com creates aggregrate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because InvestorLinks.com doesn't track the usage patterns of individual users, an advertiser will never know that a specific user clicked their ad. 
+						</p><p><span class="bodyboldblack">7. InvestorLinks.com - Sharing of the information</span>
+						</p><p>InvestorLinks.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We do not share information about individual users with any third party, except in the case of some contests, and then, only with a user's express consent. 
+						</p><p>InvestorLinks.com does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly. 
+						</p><p><span class="bodyboldblack">8. InvestorLinks.com - Delete/deactivate policy</span>
+						</p><p>Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter. 
+						</p><p><span class="bodyboldblack">9. InvestorLinks.com - Contact</span>
+						</p><p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact at<a href="mailto:info@investorlinks.com?subject=Information Request via Website">info@investorlinks.com</a>
+						</p></span></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</td>
+<td valign="top" width="20"><img src="../images/dotblank.gif" border="0" alt="" width="20" height="1"></td>
+<td valign="top" width="150">
+	<table width="150" border="0" cellspacing="0" cellpadding="0">
+   		<!-- start stock search here -->
+		<form action="http://moneycentral.msn.com/scripts/webquote.dll" name="quote" target="msnwin" onsubmit="return quote_popup();"></form>		
+		<tbody><tr>
+			<td rowspan="3" width="4" background="../images/logon_left.gif">&nbsp;</td>
+			<td bgcolor="#EEEEEE" width="131">
+			<p style="margin-left: 5">
+			<span class="bodyredtitle">
+			Enter Stock Symbol
+			</span>
+			<input type="hidden" value="qd" name="ipage"> 
+			<input name="symbol" size="9">
+			<input type="image" border="0" src="../images/go_grey.gif" align="bottom" name="image2" width="27" height="27">
+			</p></td>
+		</tr>
+		
+		<!--end stock search here -->
+		<tr>
+			<td bgcolor="#EEEEEE"><img src="../images/dotblank.gif" border="0" alt="" width="1" height="10"></td>
+		</tr>
+		<tr>
+			<td bgcolor="#EEEEEE" width="150" align="center">
+				<!-- Start Market Indices -->
+								<table border="0" cellspacing="0" cellpadding="0" align="center">
+					
+					<tbody><tr>
+						<td align="left" nowrap=""><span class="Indices"><a href="http://finance.yahoo.com/q?d=t&amp;s=^DJI" target="_blank" class="indices">Dow</a></span></td>
+						<td align="right" nowrap=""><span class="Indices">8892.77</span></td>
+						<td align="right" nowrap=""><span class="Indices"><font color="red">-5.04</font></span></td>
+						
+					</tr>
+					
+					<tr>
+						<td align="left" nowrap=""><span class="Indices"><a href="http://finance.yahoo.com/q?d=t&amp;s=^IXIC" target="_blank" class="indices">Nasdaq</a></span></td>
+						<td align="right" nowrap=""><span class="Indices">1595.79</span></td>
+						<td align="right" nowrap=""><span class="Indices"><font color="black">+5.04</font></span></td>
+						
+					</tr>
+					
+					<tr>
+						<td align="left" nowrap=""><span class="Indices"><a href="http://finance.yahoo.com/q?d=t&amp;s=^SPX" target="_blank" class="indices">S&amp;P 500</a></span></td>
+						<td align="right" nowrap=""><span class="Indices">967.22</span></td>
+						<td align="right" nowrap=""><span class="Indices"><font color="black">+0.22</font></span></td>
+						
+					</tr>
+					
+					<tr>
+						<td align="left" nowrap=""><span class="Indices"><a href="http://finance.yahoo.com/q?d=t&amp;s=^GSPTSE" target="_blank" class="indices">S&amp;P/TSX</a></span></td>
+						<td align="right" nowrap=""><span class="Indices">6917.53</span></td>
+						<td align="right" nowrap=""><span class="Indices"><font color="red">-22.63</font></span></td>
+						
+					</tr>
+					
+					<tr>
+						<td align="left" nowrap=""><span class="Indices"><a href="http://finance.yahoo.com/q?d=t&amp;s=^SPCDNX" target="_blank" class="indices">TSX Ven</a></span></td>
+						<td align="right" nowrap=""><span class="Indices">1089.14</span></td>
+						<td align="right" nowrap=""><span class="Indices"><font color="red">-1.84</font></span></td>
+						
+					</tr>
+					
+				
+					<tr>
+						<td colspan="3"><span class="FinePrint">Indices data <br>Delayed 20 minutes.</span></td>
+					</tr>
+				</tbody></table>
+							
+				<!-- End Market Indices -->
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="right" height="6" width="150"><img border="0" src="../images/il_topspacer_right3.gif" width="150" height="6"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><img src="../images/dotblank.gif" border="0" alt="" width="1" height="10"></td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center">
+			
+			</td>
+		</tr>
+	</tbody></table>
+</td>	</tr>
 </tbody></table>
-
-</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
-
-<table border="0" cellpadding="0" width="100%" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111">
-  <tbody><tr>
-    <td class="bodyregular" align="left" width="100%" height="35">
-    <p class="bodyredtitle"><a href="../index.html" class="bodyredtitle">HOME</a> 
-    &gt; About Us: Privacy Policy</p></td>
-  </tr>
-  <tr>
-    <td valign="top" class="bodyregular" bgcolor="#009800" width="100%">
-    <img src="../images/il_subpagetitle_aboutus.gif" width="297" height="35"></td>
-  </tr>
-  <tr>
-    <td valign="top" class="bodyregular" bgcolor="#EEEEEE" width="100%">
-    <a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('memcontact','','../images/contactnav1_1.gif',1)" href="aboutus.htm">
-    <img src="../images/contactnav1.gif" alt="Membership Services Contact Info" border="0" name="memcontact" width="130" height="25"></a><a href="aboutusprivacy.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('privacy','','../images/contactnav61.gif',1)"><img src="../images/contactnav6.gif" alt="Privacy Policy" border="0" name="privacy" width="130" height="25"></a><a href="aboutusemail.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('emailpolicy','','../images/contactnav71.gif',1)"><img src="../images/contactnav7.gif" alt="Email Usage Policy" border="0" name="emailpolicy" width="130" height="25"></a></td>
-  </tr>
-  <tr>
-    <td valign="bottom" class="bodyregular" width="100%" height="25" align="left">
-    <img border="0" src="../images/il_aboutus_title_privacypolicy.gif" width="250" height="18"></td>
-  </tr>
-  <tr>
-    <td valign="top" class="bodyregular" width="100%">
-    <p class="bodyregular"><br>
-    InvestorLinks.com has created this privacy statement in order to demonstrate 
-    our firm commitment to privacy. The following discloses our information 
-    gathering and dissemination practices for this website. <br>
-    <br>
-    <span class="bodyboldblack">1. Information InvestorLinks.com gathers and 
-    tracks</span> <br>
-    <br>
-    InvestorLinks.com uses your IP address to help diagnose problems with our 
-    server, and to administer our Web site. InvestorLinks.com gathers two types 
-    of information about users: data that users provide through optional, 
-    voluntary registration on several of our sites, such as requesting 
-    subscription to our newsletter, filling out our user's survey form, and 
-    through optional, voluntary participation in certain contests (when they are 
-    run); and aggregated tracking information derived mainly by tallying page 
-    views throughout our sites. Such information enables us to better tailor our 
-    content to readers' needs and to help our advertisers better understand the 
-    demographics of our audience. <br>
-    <br>
-    Because InvestorLinks.com derives its revenue mainly from advertising, 
-    providing such aggregated demographic data is essential to keeping our 
-    service free to users. The only situation in which InvestorLinks.com 
-    divulges information about an individual user to a third party is with 
-    certain contests, and then, only with the user's express consent. <br>
-    <br>
-    Our site's offer a daily emailed financial newsletter. Subscription requires 
-    users to give us their email address only. Users may unsubscribe to any of 
-    our electronic newsletters at any time by following the instructions 
-    contained at the end of every newsletter. <br>
-    <br>
-    Email addresses sent to InvestorLinks are kept on a separate server, and are 
-    never used for any purpose other than what the person sending them 
-    requested. They are not sold or shared with any other website, list, or 
-    service for any reason. <br>
-    <br>
-    <span class="bodyboldblack">2. InvestorLinks.com - Links to Other Websites</span><font size="2" face="arial" color="#003399">
-    </font><br>
-    <br>
-    This site contains links to other sites. InvestorLinks is not responsible 
-    for the privacy practices or the content of such Web sites. <br>
-    <br>
-    <span class="bodyboldblack">3. InvestorLinks.com - Surveys</span> <br>
-    <br>
-    Occasionally InvestorLinks.com conducts user surveys to better target our 
-    content to our audience. We sometimes share the aggregated demographic 
-    information in these surveys with our advertisers and partners. We never 
-    share any of this information about specific individuals with any third 
-    party. <br>
-    <br>
-    Our online surveys ask visitors for financial information (like their 
-    household income and overall size of their investment portfolio) and 
-    demographic information (like their zip code, age, or income level). 
-    Demographic and profile data is also collected at our site. We use this data 
-    to tailor our visitor's experience at our site, showing them content that we 
-    think they might be interested in, and displaying the content according to 
-    their preferences. This information is shared with advertisers on an 
-    aggregate basis. <br>
-    <br>
-    <span class="bodyboldblack">4. InvestorLinks.com - Public Forums</span><font size="2" face="arial" color="#003399">
-    </font><br>
-    <br>
-    This site makes chat rooms, forums, message boards, available to its users. 
-    Please remember that any information that is disclosed in these areas 
-    becomes public information and you should exercise caution when deciding to 
-    disclose your personal information. <br>
-    <br>
-    <span class="bodyboldblack">5. InvestorLinks.com - Cookies</span> <br>
-    <br>
-    A cookie is a small data file that certain Web sites write to your hard 
-    drive when you visit them. A cookie file can contain information such as a 
-    user ID that the site uses to track the pages you've visited. But the only 
-    personal information a cookie can contain is information you supply 
-    yourself. A cookie can't read data off your hard disk or read cookie files 
-    created by other sites. <br>
-    <br>
-    InvestorLinks.com does not use cookies. <br>
-    <br>
-    <span class="bodyboldblack">6. InvestorLinks.com - Use of the information</span><font size="2" face="arial" color="#003399">
-    </font><br>
-    <br>
-    InvestorLinks.com uses any information voluntarily given by our users to 
-    enhance their experience in our network of sites, whether to provide 
-    interactive or personalized elements on the sites or to better prepare 
-    future content based on the interests of our users. <br>
-    <br>
-    As stated above, InvestorLinks.com uses information that users voluntarily 
-    provide in order to send out electronic newsletters and to enable users to 
-    participate in polls and message boards. We send out newsletters to 
-    subscribers on a regular schedule and occasionally send out special editions 
-    when we think subscribers might be particularly interested in something we 
-    are doing. InvestorLinks.com never shares newsletter mailing lists with any 
-    third parties, including advertisers or partners. <br>
-    <br>
-    When we use tracking information to determine which areas of our sites users 
-    like and don't like based on traffic to those areas. InvestorLinks.com does 
-    not track what individual users read, but rather how well each page performs 
-    overall. This helps us continue to build a better service for you. <br>
-    <br>
-    InvestorLinks.com creates aggregrate reports on user demographics and 
-    traffic patterns for advertisers and partners. This allows our advertisers 
-    to advertise more effectively, and allows our users to receive 
-    advertisements that are pertinent to their needs. Because InvestorLinks.com 
-    doesn't track the usage patterns of individual users, an advertiser will 
-    never know that a specific user clicked their ad. <br>
-    <br>
-    <span class="bodyboldblack">7. InvestorLinks.com - Sharing of the 
-    information<font size="2" face="arial" color="#003399"> </font></span><br>
-    <br>
-    InvestorLinks.com uses the above-described information to tailor our content 
-    to suit your needs and help our advertisers better understand our audience's 
-    demographics. This is essential to keeping our service free. We do not share 
-    information about individual users with any third party, except in the case 
-    of some contests, and then, only with a user's express consent. <br>
-    <br>
-    InvestorLinks.com does not control the practices of our advertisers. If you 
-    have questions about how one of our advertisers uses information about you 
-    when you click their ad and go to their content, please contact them 
-    directly. <br>
-    <br>
-    <span class="bodyboldblack">8. InvestorLinks.com - Delete/deactivate policy</span><font size="2" face="arial" color="#003399">
-    </font><br>
-    <br>
-    Users may unsubscribe to any of our electronic newsletters at any time by 
-    following the instructions contained at the end of every newsletter. <br>
-    <br>
-    <span class="bodyboldblack">9. InvestorLinks.com - Contact</span><font size="2" face="arial" color="#003399">
-    </font><br>
-    <br>
-    If you have any questions about this privacy statement, the practices of 
-    this site, or your dealings with this Web site, you can contact at
-    <a href="mailto:info@investorlinks.com?subject=Information Request via Website">
-    info@investorlinks.com</a></p></td>
-  </tr>
-</tbody></table>
-
-<!--msnavigation--></td><td valign="top" width="24"></td><td valign="top" width="1%">
-
-<div align="left">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber1" align="right" width="132">
-    <tbody><tr>
-      <td rowspan="7" width="6">&nbsp;</td>
-      <td rowspan="7" width="4" background="../images/logon_left.gif">&nbsp;</td>
-      <td nowrap="" bgcolor="#EEEEEE" align="left" rowspan="7">&nbsp;</td>
-      <td nowrap="" bgcolor="#EEEEEE" align="left" height="19" width="100" valign="top">
-      <p class="bodyregular"><span class="bodyredtitle">User Login</span></p></td>
-    </tr>
-    <tr>
-      <td nowrap="" bgcolor="#EEEEEE" align="left" height="14" width="100" valign="bottom">
-      <span class="bodyregular">Username:</span></td>
-    </tr>
-    <tr>
-      <td nowrap="" bgcolor="#EEEEEE" align="left" height="27" width="100" valign="top">
-      <input name="username" size="12"></td>
-    </tr>
-    <tr>
-      <td nowrap="" bgcolor="#EEEEEE" align="left" height="14" width="100" valign="bottom">
-      <span class="bodyregular">Password:</span></td>
-    </tr>
-    <tr>
-      <td nowrap="" bgcolor="#EEEEEE" align="left" height="30" width="100" valign="top">
-      <input type="password" name="password" size="12"></td>
-    </tr>
-    <tr>
-      <td nowrap="" bgcolor="#EEEEEE" align="left" height="24" width="100">
-      <input type="image" src="../images/login.gif" border="0" name="image" width="97" height="21"></td>
-    </tr>
-    <tr>
-      <td nowrap="" bgcolor="#EEEEEE" align="center" valign="bottom" width="100" height="18">
-      <span class="bodyredtitle">
-      <a href="http://www.investorlinks2.com/sign-up.asp" class="bodysmalllink">
-      Register Now!</a></span></td>
-    </tr>
-    <tr>
-      <td colspan="4" align="right" height="6" width="132">
-      <img border="0" src="../images/il_topspacer_right3.gif" width="126" height="6"></td>
-    </tr>
-  </tbody></table>
-</div>
-
-</td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
-
+<br>
+<!-- End Main Body -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0" background="../images/il_bottomspacer3.gif">
-  <tbody><tr>
-    <td width="5%" valign="top"><img src="../images/il_bottomspacer1.gif" width="17" height="18"></td>
-    <td width="90%" class="bodydescription">
-    <img src="../images/spacer_white.gif" width="4" height="4"></td>
-    <td width="5%" valign="top"><a href="#toppage">
-    <img src="../images/il_bottomspacer2.gif" border="0" width="138" height="18"></a></td>
-  </tr>
+	<tbody><tr>
+		<td width="5%" valign="top"><img src="../images/il_bottomspacer1.gif" width="17" height="18"></td>
+		<td width="90%"><img src="../images/spacer_white.gif" width="4" height="4"></td>
+		<td width="5%" valign="top"><a href="#top"><img src="../images/il_bottomspacer2.gif" border="0" width="138" height="18"></a></td>
+	</tr>
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#eeeeee">
-  <tbody><tr>
-    <td><a href="../index.html">
-    <img src="../images/investorlinks_small.gif" border="0" width="125" height="21"></a></td>
-    <td width="95%">[<a href="../index.html" class="footernavigation">Financial 
-    Directory</a>] [<a class="footernavigation" href="http://www.investorlinks2.com/forums/">WallBoards</a>] 
-    [<a class="footernavigation" href="http://investorlinks2.com/portfolio/portf.asp">Portfolio 
-    Tracker</a>] [<a href="../map/sitemap.htm" class="footernavigation">Site Map</a>] 
-    [<a href="aboutus.htm" class="footernavigation">About Us</a>]<br>
-    <span class="bodydescription">© 2002 Copyright © 1997-2002 InvestorLinks.com 
-    Inc.</span></td>
-  </tr>
+	<tbody><tr>
+		<td valign="top"><a href="../index.asp"><img src="../images/investorlinks_small.gif" border="0" width="125" height="21"></a></td>
+		<td width="95%" valign="top">
+		<span class="footernavigation">
+		[<a href="../" class="footernavigation">Home</a>] 
+		[<a href="../directory/" class="footernavigation">Financial Directory</a>] 
+		[<a href="../headlines/" class="footernavigation">Headlines</a>]
+		[<a href="../newsletter/" class="footernavigation">Newsletters</a>]
+		<!-- [<a href="../forums/" class="footernavigation" >WallBoards</a>] 
+		[<a href="../portfolio/" class="footernavigation">Portfolio Tracker</a>]  -->
+		[<a href="../sitemap/" class="footernavigation">Site Map</a>] 
+		[<a href="../about/" class="footernavigation">About Us</a>]
+		<br>
+		</span>
+		<span class="bodydescription">© 2003 Copyright © 1997-2003 InvestorLinks.com Inc.</span>
+		</td>
+	</tr>
 </tbody></table>
-
-</td></tr><!--msnavigation--></tbody></table>
 
 
 </body></html>
