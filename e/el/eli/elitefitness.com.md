@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207111727id_/http%3A//www.elitefitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitefitness.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606185248id_/http%3A//elitefitness.com/privacy.html) for the most accurate reproduction.*
 
 # EliteFitness.com - Underground Bodybuilding, Fitness and Steroid Site - Tons of Bodybuilding, Weight Lifting, and Anabolic Steroid Information
 
@@ -50,4 +50,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Elite Fitness, Inc. 217 West 18th Street PO Box 1264 New York, NY 10113-1264 suggestions@elitefitness.com
 
-[](http://www.elitefitness.com/adp/banners.pl?region=24&campaign=18&banner=70&publisher=0&mode=CLICK&bust=535548&timestamp=20031207061722)
+[](http://www.elitefitness.com/adp/banners.pl?region=24&campaign=25&banner=82&publisher=0&bust=460437&timestamp=20040606145236&referrer=http%3A%2F%2Felitefitness.com%2Fprivacy.html&mode=RICH&redirect=http%3A%2F%2Fwww.herbalaffiliateprogram.com%2Fherbalsmokeshop%2Faff_manager%2Fnewaff%2Fredirect.cfm%2Fi%2F2003101926%2FLinkID%2F29)
