@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the earthcam.com privacy policy that was archived on 2000-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205040900id_/http%3A//www.earthcam.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earthcam.com privacy policy that was archived on 2001-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010410003529id_/http%3A//www.earthcam.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>EarthCam - Privacy Policy - Find the Webcam you've been looking for. The best live video pictures from Internet cameras.</title>
@@ -15,18 +15,7 @@
 <script language="JavaScript" src="/js/headerIcons.js" type="text/javascript"></script>
 <script language="JavaScript" src="/js/headerBanner.js" type="text/javascript"></script>
 <script language="JavaScript" src="/js/randomNumber.js" type="text/javascript"></script>
-
-<script language="JavaScript">
-
-function headerChangeB() {
-document.categorieF.file.value = document.categorieF.subject.options[document.categorieF.subject.selectedIndex].value
-if (document.categorieF.file.value == "Search") {
-document.categorieF.subject.options[document.categorieF.subject.selectedIndex].value="";   
-document.categorieF.file.value == "Search"
-}
-}
-
-</script>
+<script language="JavaScript" src="/js/banner_468.js" type="text/javascript"></script>
 
 </head><body bgcolor="#FFFFFF" text="#000000" link="#0066CC" vlink="#336666" alink="#009933" leftmargin="0" topmargin="10" marginwidth="0" marginheight="10"><map name="logo_2">
 <area alt="EarthCam Home" shape="CIRCLE" coords="61,39,36" href="http://www.earthcam.com/">
@@ -50,7 +39,7 @@ document.categorieF.file.value == "Search"
 </tr>
 
 <tr>
-<td><script language="JavaScript">document.write(headerBanner[h])</script><a href="https://web.archive.org/web/20030603194419/http://tv.earthcam.com/"><img src="https://web.archive.org/web/20030603194419/http://www.earthcam.com/graphics/featured/home_page1a.gif" width="307" height="45" alt="EarthCam TV- New And Improved!" border="0"></a></td>
+<td><script language="JavaScript">document.write(headerBanner[h])</script><a href="https://web.archive.org/web/20030603194419/http://tv.earthcam.com/"><img src="https://web.archive.org/web/20030603194419/http://www.earthcam.com/graphics/featured/home_page1.gif" width="307" height="45" alt="EarthCamTV - New And Improved!" border="0"></a></td>
 </tr>
 
 <tr>
@@ -147,11 +136,12 @@ Please check this page periodically, for we reserve the right to make changes to
 </tr>
 </tbody></table>
 				   
-
+</p><p>
+</p><center><script language="JavaScript">document.write(banner)</script></center>
 
 
 <!--footer begins-->
-</p><p>
+<p>
 </p><center>
 <table width="608" border="0" cellspacing="0" cellpadding="0"><!-- category search -->
 
@@ -160,12 +150,11 @@ Please check this page periodically, for we reserve the right to make changes to
 </tr>
 <tr>
 <td align="center">
-<form name="categorieF" method="POST" action="/cgi-bin/search_cam.cgi" onsubmit="headerChangeB()">
-<input type="hidden" name="file" value="Search">
+<form name="frmSearchF" method="POST" action="http://search.earthcam.com/search.php">
 <input type="text" name="word" size="20" maxlength="50">
 <input type="Submit" value="Search">
-<select name="subject" size="1">
-<option value="Search">All of EarthCam
+<select name="cat" size="1">
+<option value="">All of EarthCam
 </option><option value="ENT">Just Arts &amp; Entertainment
 </option><option value="BUS">Just Business
 </option><option value="CMP">Just Computers
