@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603065407id_/http%3A//www.wral.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205221640id_/http%3A//www.wral.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # WRAL.com - News
+
+  
+
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.WRAL.com](http://www.wral.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
 
@@ -51,3 +54,8 @@ Mendota Heights, MN 55120
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
 Last Revised 11/03 
+
+| | 
+
+|   
+---
