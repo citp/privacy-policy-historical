@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2000-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001110005300id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404230549id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
 
 # allAfrica.com: Privacy Policy
 
@@ -28,7 +28,21 @@ Cookies themselves do not contain any personal information. AllAfrica does not u
 
 Third Party Ad Serving
 
-AllAfrica works with several third parties which serve ads to this site. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please go to: <http://www.engage.com/privacy>. To read the privacy statement for Real Media, go to: <http://www.realmedia.com/privacy.html>.
+AllAfrica works with several third parties which serve ads to this site. Some of the advertising displayed on our site is delivered by AdForce, LLC. In the course of serving ads, AdForce collects certain non-personally identifiable data by placing a cookie on a consumer's computer hard drive. The non-personally identifiable information collected in connection with a cookie includes:
+
+| * browser type (i.e., IE 3.x, etc.)  
+---  
+* operating system (i.e., Macintosh, PC, etc.)  
+* IP Address of the machine (browser/proxy) connecting to AdForce (this is not your email address)  
+* date a particular ad was served  
+* time a particular ad was served  
+* advertisement tag (placed by a website on a web page to call up an ad).  
+  
+This information is used by AdForce to deliver tailored ads to you and in the aggregate for statistical purposes. We use this information for reporting purposes and to bill our advertisers. Please note that AdForce cannot collect any personal information about you (such as your name, address, phone number or email address) when it delivers ads to our website. If you would like to learn more about AdForce's information gathering practices, or if you would like to "opt-out" of having a unique cookie on your hard drive, please click [here.](http://www.adforce.com/home/privacy/PrivacyPolicy.html)
+
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, please click [here.](http://www.engage.com/privacy)
+
+We also use Sonar, a DoubleClick division, to serve ads when you visit our Web site. In the course of serving advertisements to this site, DoubleClick may place or recognize a unique cookie on your browser. They may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements on this and other sites about goods and services of interest to you. If you would like more information about this practice, and to know your choices about not having this information used by Sonar and DoubleClick, please click [here.](http://www.sonar.com/naiprivacy)
 
 Disclosing Information to Others
 
@@ -37,7 +51,7 @@ AllAfrica will only disclose personal information when required to do so by law 
 Correspondence
 
 If you have any questions or comments about our policies, please contact us by sending e-mail to:   
-[newsdesk@allafrica.com](mailto:newsdesk@allafrica.com)
+[info@allafrica.com](mailto:info@allafrica.com)
 
 or write to:   
 AllAfrica Global Media   
