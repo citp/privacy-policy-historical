@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2002-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020630203035id_/http%3A//www.realtytimes.com/rtnews/rtcpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2002-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021027011202id_/http%3A//www2.realtytimes.com/rtnews/rtcpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Real Estate News and Advice
 
@@ -44,7 +44,7 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Peter Miller Realty Times 5949 Sherry Ln. Suite 1250 Dallas, TX 75225 pmiller@realtytimes.com   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Jody Lane Realty Times 5949 Sherry Lane Suite 1250 Dallas, TX 75225 jlane@realtytimes.com   
 
 
 * * *
