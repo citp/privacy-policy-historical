@@ -1,74 +1,173 @@
-> *The following text is extracted and transformed from the hp.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201012431id_/http%3A//www.hp.com/Redirect/gw/useng_welcome/privacy/%3D/country/us/eng/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hp.com privacy policy that was archived on 2004-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040528221441id_/http%3A//welcome.hp.com/country/us/en/privacy.html) for the most accurate reproduction.*
 
-# Hewlett-Packard Privacy Policy
+# HP Online privacy statement
 
-HP and its subsidiaries are committed to respecting and protecting your privacy. We've structured our web sites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. HP is a founding sponsor of the BBBOnLine Privacy Program, the 'gold standard' for Privacy certification. We proudly display the BBBOnLine Privacy Seal. HP privacy practices are self certified to the U.S. Department of Commerce Safe Harbor program.
+|  HP and its subsidiaries respect your privacy and are committed to protecting it. HP provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit HP on the Web without identifying yourself or revealing any personal information. We make this notice readily available on our home page and at the bottom of every HP Web page. Some HP Web pages are [P3P-enabled](https://web.archive.org/country/fg/fe/privacy/p3p_popup.html), which allows you additional control over your personal information. 
 
-Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with HP. On the ecardfile.com business card e-service, personal information you provide is considered publicly available over the Internet, unless you choose otherwise in your ecardfile.com member profile. This statement is not applicable to [ www.myapollo.com](http://www.myapollo.com/) and [ www.dazel.com](http://www.dazel.com/), which maintain their own Privacy Statements. 
+HP is a founding sponsor of the Council of Better Business Bureau's [ BBBOnLine](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://www.bbbonline.org/) Privacy Program, the "gold standard" for privacy certification. HP privacy practices meet the requirements of the Privacy Program and we are proud to display the BBBOnLine Privacy Seal. 
 
-This statement regarding the privacy of the personally identifiable information you provide online covers the five foundation principles of fair information: Awareness, Choice, Accuracy & Access, Security, and Oversight. 
+[](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://www.bbbonline.org/cnfm.cfm?company=03311999100448)
 
-**Awareness**
+HP has also self-certified its privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at [http://www.export.gov/safeharbor/](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://www.export.gov/safeharbor/).
 
-HP provides this Online Privacy Statement to make you aware of our privacy policy, practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and from the bottom of every HP.com, its subsidiaries' and affiliates' web pages. Some HP web sites are P3P-enabled. 
+  1. Sites covered by this privacy statement
+  2. Types of information we collect
+  3. Children's privacy
+  4. How we use your information
+  5. Who we share your information with
+  6. Your choices
+  7. Your privacy preferences and opting out
+  8. Your information and third-party companies
+  9. Access to and accuracy of your information
+  10. Keeping your information secure
+  11. Changes to this Statement
+  12. Contacting us
 
-**What we collect**
 
-On some HP web sites, you can order products or services, make requests, and register to receive materials. The types of personal information collected at these pages are name, contact and billing information, transaction, and credit card information. On the ecardfile.com e-service, you supply the personal and business contact information you choose. 
 
-In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, demographics, experience with our products, and more detailed contact preferences. Some electronic newsletters record anonymous data about articles you have expressed interest in. 
+How HP uses cookies and Web beacons on HP.com and in third-party ads:
 
-Some HP.com web pages use cookies, web beacons, and other technologies for data analysis. To learn more, click here. [How HP uses cookies and beacons.](https://web.archive.org/web/20011203183334id_/http://www.hp.com/country/us/eng/privacy.htm#cookies)
+  * [ Cookies](https://web.archive.org/country/us/en/privacy/cookies_beacons.html#cookies)
+  * [ Web beacons](https://web.archive.org/country/us/en/privacy/cookies_beacons.html#wb)
+  * [ Third-party media companies](https://web.archive.org/country/us/en/privacy/cookies_beacons.html#tpmc)
 
-**How we use it**
 
-HP uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, to communicate back to you, to update you on service and benefits, and to personalize our web sites for you. Credit card numbers are used only for payment processing, fraud protection, and are not retained for other purposes. 
 
-From time to time, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always give you the opportunity to opt out of receiving such direct marketing or market research contact. We will also follow local requirements, such as allowing you to opt in before receiving unsolicited contact, where applicable. On the ecardfile.com e-service, information you supply and designate as public is available to any viewer who looks up your card. You can choose to keep most or all of your ecardfile.com information private. ecardfile.com is not a customer registration service. 
+## 1\. Sites covered by this Privacy Statement
 
-**Who we share it with**
+  
+This Privacy Statement applies to all HP.com-owned websites and domains, and our wholly owned subsidiaries ("HP websites.") This statement is not applicable to [Presario Online University by Learn2.com](http://www.hp.com/cgi-bin/ghp/gohpweb.pl/ghp/plate.html?http://store.learn2.com/basket/default.asp?affid=1104), which maintains its own privacy statement. 
 
-HP will not sell, rent, or lease your personally identifiable information to others. Unless we have your permission or are required by law, we will only share the personal data you provide online with other HP entities and/or business partners who are acting on our behalf for the uses described in "how we use it". Such HP entities and/or suppliers, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality and data protection agreements. 
+### Links to non-HP websites
 
-Data collected online may also be combined with information you provide when you register your ownership of HP products.
+The HP websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the HP website. HP does not control those sites or their privacy practices, which may differ from HP's. We do not endorse or make any representations about third-party websites. The personal data you choose to give to unrelated third parties is not covered by the HP Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third-party companies may choose to share their personal data with HP; that sharing is governed by that third-party company's privacy policy. 
 
-**Children's Privacy Protection** HP takes special care to protect the privacy needs of children under the age of 13 and encourages parents to be an active participant in their child's online activities and interests. We abide by the Children's Online Privacy Protection Act (COPPA) requirements. The vast majority of HP web sites do not target and are not intended for children under the age of 13. HP web sites that do not target children will not knowingly collect data from them. If we discover personal data from a child through an adult oriented site, we will eliminate that data. A very few web sites in HP's "Home & Home Office" web section may include children under the age of 13 as part of a broader family audience target. Those specific web pages are clearly identified and provide an explicit privacy notice and processes to obtain parental approval, provide data access and data removal process for parents. HP conducts the Annual HP Young Writers' Contest from January to early April each year. This contest targets children under the age of 13, grades K-5. Personal data is not collected online. Data collected from children is done so through a printed contest entry form that is mailed or faxed to HP care of the contest administrator SMP Scholastic. Parental approval is required on the contest entry form. No personal data is shared with the contest administrator. Parents wishing to access, review or delete their child's contest entry data should send a request to "Annual HP Young Writers' Contest, SMP c/o Scholastic Inc., 555 Broadway, New York, NY 10012.
+## 2\. Types of information we collect
 
-**Choice**
+  
+This Privacy Statement covers personal information, non-personal data collection and aggregate reporting. 
 
-HP will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honor such requests. Local country laws and policies are applied where they differ from those in the U.S. 
+  * ### Personal information
 
-HP will not share your personal information with a business partner or unrelated third party company without your permission. For example, as part of HP's commitment to offering you choice, we enable you to make online purchases directly from us or through our resellers. When you choose our resellers, we inform you that your registration and shopping basket data is being transferred to the reseller you selected. This notice is important because when you choose to make online purchases through our resellers, use of your registration and shopping basket data by the reseller is then governed by their privacy policy. Local country laws and policies are applied where they differ from those in the U.S. 
+is information that is associated with your name or personal identity. HP uses personal information to understand better your needs and interests and to provide you with better service. Once you choose to provide us with personal information, you can be assured it will be used only to support your customer relationship with HP. We take seriously the trust you place in us. HP will not sell, rent or lease your personal information to others.
 
-**Accuracy & Access **
+On some HP websites, you can order products or services, apply for instant credit, request information, subscribe to marketing or support materials, register yourself or your HP products, or apply for a job at HP. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs and passwords, billing and transaction information, credit card information, contact preferences, educational and employment background, and job interest data. If you apply for instant credit, we will ask you to provide additional information such as salary, social security number and banking information. This information will be used by our financial services providers in determining whether to extend you credit. 
 
-HP strives to keep your personally identifiable information accurate. We will provide you with access to your information, including making every effort to provide you with online access to your registration data so that you may view, update or correct your information at the HP site where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. To access your personally identifiable information, return to the web page where you originally entered it and follow the instructions on that web page. To opt-out of HP contact, provide your name, email and/or address and relevant information about subscriptions or registrations you may have with HP. This opt-out will cancel all marketing and support communication and newsletters, including software driver subscriptions. Certain areas of HP's web sites may limit access to specific individuals through the use of passwords and through providing personally data. 
+To personalize our websites, services or communications and improve our products and services, we may also ask you to provide us with information regarding your personal or professional interests, demographics, and experiences with our products or services. Providing this additional information is optional.
 
-Links to third party web sites on the site are provided solely as a convenience to you. If you use these links, you will leave the HP site. HP has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policy. Thus, HP does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so at your own risk. 
+HP also provides a Web-based business card e-service, [ ecardfile.com](http://www.ecardfile.com/). If you choose to use it, you supply the personal and business contact information of your choice and can set each element as public or private. Information you designate as public is available to any viewer who looks up your card. Ecardfile.com is not a customer registration service.
 
-**Security**
+  * ### Non-personal information
 
-HP is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. Preventing credit card fraud is important to protect your personal financial data security. As part of real-time payment processing, HP subscribes to a Fraud Risk Management Service. The Service gives you and HP an extra level of protection to guard against credit card fraud. The secure data transfer and validation process between the Service and HP is bound by contractual and confidentiality agreements. 
+is data about usage and service operation that is not associated with a specific personal identity. HP collects and analyzes non-personal information to evaluate how visitors use the HP websites. 
 
-**Oversight**
+Non-personal data we collect may include the pages visited on the HP websites, unique URLs1 visited within HP.com, browser type and IP2 address. Most non-personal data is collected via cookies or other analysis technologies. HP.com Web pages use cookies, Web beacons and other technologies for data analysis and personalization services. HP also places ads on other websites that may use cookies. To learn more, read [ HP use of cookies and Web beacons](https://web.archive.org/country/us/en/privacy/cookies_beacons.html). 
 
-If you have comments or questions about our privacy policy, please complete the [Web form](http://www.hp.com/ghp/assist/general.html), and select "Privacy" as your subject category. To help us process your request, please include all relevant contact information, name of the program(s) and action requested. 
 
-As a Founding Sponsor, Hewlett-Packard participates in the Council of Better Business Bureau's BBBOnLine Privacy Program, complies with all BBBOnLine privacy standards and proudly display the BBBOnLine Privacy Seal which applies to our U.S. and Canadian web sites. We are actively engaged with BBBOnLine, the EU Data Protection Council and other organizations to develop a global approach to oversight, dispute resolution and a global seal. Further information about BBBOnLine is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
 
-**How HP uses cookies**
 
-A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, then your browser adds the text in a small file. The purpose of a cookie is to help us analyze web traffic or let us know when you visit a particular site. Cookies allow a web application to respond to you as an individual. By gathering and remembering information about your preferences, the web application can tailor its operation to your needs, likes and dislikes. For example, when you visit an electronic store, a cookie makes it easy to shop by allowing you to drop things into a shopping cart; the cart itself is not the cookie, the cookie is placed on your hard drive and keeps track of your cart versus others' in use at the same time. 
+## 3\. Children's privacy
 
-HP uses traffic log cookies to identify what pages are being used and which ones aren't. This helps us aggregate and analyze data about web page traffic and make improvements to HP.com web sites to better meet customer needs. In this case, HP uses this information only for statistical analysis purposes and then the data is removed from the system. That is the case of many of our support and information-sharing pages and forums. Denial of a traffic log cookie should not prevent you from using one of these sites. 
+  
+HP is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. HP does not knowingly collect information from children under the age of 13 and HP does not target its websites to children under 13. 
 
-A few HP.com web sites use temporary cookies as part of the customer web navigation experience, tracking unique IDs for that particular web site session only. Examples are product registration sites. This cookie, by itself, only tells us that a previous HP.com visitor has returned. If you deny the cookie, you can still use the site anonymously. At hpshopping.com, you will receive a persistent cookie. Customers can browse with cookies turned off, but you can only purchase if you accept the cookie. The HP InfoAgent subscription service site requires enabling cookies to subscribe to the free newsletters offered through this service. HP InfoAgent uses cookie technology to assign and place an identifier unique only to you, placed on your computer. When you register for the subscription service, it ensures that you are accurately identified and linked with your registration data. The InfoAgent also uses a temporary "authentication" cookie to assure secure access to your personal information by you alone (completed with user name and password). 
+## 4\. How we use your information
 
-Some hp.com web sites and HTML-formatted email newsletters use web beacons in combination with cookies to compile aggregated statistics about web site usage. A web beacon is a clear, single-pixel image (GIF) placed on a web page. Web beacons are used in combination with cookies to compile aggregated statistics about web site usage. You may render web beacons unusable by rejecting their associated cookies. This data is not personally identifiable or linked to personally identifiable information. 
+  
+HP uses your personal information to provide you with services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits, to personalize promotional offers and to personalize some HP websites. Occasionally we may also use your information to contact you for market research regarding HP products or services. We will give you the opportunity to choose your privacy preferences regarding such communications (see section 7, "Your privacy preferences and opting out"). Credit card information is used only for payment processing and fraud prevention. Sensitive personal information is collected only to facilitate our financial service providers' credit decisions and will be shared with them only with your permission. Credit card information and sensitive personal data are not used for any other purpose by our financial services providers or HP and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases. 
 
-Overall, cookies help us give you a better web site to use, by letting us monitor what's working and what isn't through site traffic analysis. HP wants to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you chose to share with us. This practice is strictly enforced. We know that a lot of people have concerns about cookies, but in talking with many of our customers, we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. HP works to continuously improve the HP.com web experience and personal data privacy policy and practices. 
+Personal data collected online may also be combined with information you provide HP through other sources such as product registration, call centers or public events such as trade shows or seminars. 
 
-You may set your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contains cookies; those files are stored as part of your internet browser. 
-  *[HP]: hewlett-packard
-  *[ HP]: hewlett-packard
-  *[hp]: hewlett-packard
+Personal data given to HP may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management. 
+
+Non-personal data is aggregated for reporting about HP website usability, performance and effectiveness. It is used to improve the customer experience, usability and site content.
+
+## 5\. Who we share your information with
+
+  
+HP will not sell, rent or lease your personal information to others. HP will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. HP shares customer information across HP-owned business entities and companies working on our behalf, but only as described above in "How we use your information." 
+
+HP contracts with third-party service providers and suppliers to deliver complete products, services and customer solutions described in "How we use your information." Suppliers and service providers are required to keep confidential the information received on behalf of HP and may not use it for any purpose other than to carry out the services they are performing for HP. These service providers may change or we may contract with additional service providers to better accommodate our customers. HP will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law. 
+
+HP or its related entities could merge with or be acquired by another business entity or some or all of their respective assets could be acquired. If such a combination or acquisition occurs, HP will make every reasonable effort to notify you in the event we share with the merging or acquiring entity some or all of your personal information to continue serving you. 
+
+## 6\. Your choices
+
+  
+HP gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and HP-wide marketing communications. HP-wide communications may include new product information, special offers, or an invitation to participate in market research. We give you a choice regarding delivery of HP-wide communications by postal mail, e-mail and telephone. You can make or change your choices at the data collection point or through HP Passport (HP's proprietary online customer registration tool, available only in the United States). Please refer to section 7 for further instructions. We will make every effort to honor your preferences. This option does not apply to communications for the purpose of administering order completion, contracts, support, product safety warnings or driver updates. 
+
+## 7\. Your privacy preferences and opting out
+
+  
+
+
+### Non-subscription services
+
+HP will not use your personal information for a different purpose than the one stated when you provided your data. Examples of unrelated uses include sending communications about special offers, product information, and marketing messages. You can, however, choose to receive these types of non-subscription communications by following the instructions below. 
+
+> #### _In the U.S.:_
+> 
+>   
+>  You can make your choice regarding these communications by using HP Passport to set your privacy preferences, which are applicable across all HP websites. 
+> 
+>   * If you have never registered with HP Passport, [ create your privacy preferences](https://passport.hp.com/hpp2/priprefs.do)
+>   * If you have registered with HP Passport in the past, [ edit your privacy preferences](https://passport.hp.com/hpp2/modify.do?SMLOCALE=US-EN&hpbrand=true&hpappid=privacy&smredirect=http://www.hp.com/country/us/en/privacy.html) (requires a user ID and password) 
+> 
+
+> 
+> #### _Outside the U.S.:_
+> 
+>   
+>  Please specify your privacy preferences by writing to the [ HP Privacy Office](http://www.hp.com/cgi-bin/ghp/form.cgi?8) \- be sure to provide your name, e-mail and postal address in all correspondence. 
+
+### Subscription services
+
+To opt-out of receiving communications you have expressly requested (such as e-mail newsletters, software updates, etc.), use any of the following methods: 
+
+  * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication 
+  * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions 
+  * Write to the [ HP Privacy Office](http://www.hp.com/cgi-bin/ghp/form.cgi?8) \- be sure to provide your name, e-mail and postal address, and relevant information about your HP subscriptions and registrations 
+
+
+
+## 8\. Your information and third-party companies
+
+  
+Certain HP services are linked with those from unrelated third-party companies, some which offer you the option to share with both HP and the third party personal data you provide. Examples include the ability to register software products from multiple vendors from a single HP Web page, to request communications from HP marketing or solution partners, or to enable order completion through a reseller. We will not share your personal information with those third-party companies unless you make that choice. 
+
+## 9\. Access to and accuracy of your information
+
+  
+HP strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of HP's websites may limit access to specific individuals through the use of passwords and other personal identifiers.
+
+The most effective way to view and change your personal information is to return to the Web page where you originally submitted your data and follow the instructions on that Web page or use HP Passport. 
+
+## 10\. Keeping your information secure
+
+  
+HP is committed to protecting the information you provide us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, HP has in place appropriate physical and managerial procedures to safeguard the information we collect. 
+
+We use Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive data such as credit card information. SSL encryption is designed to make the information unreadable by anyone but us. This security measure is working when you see either the symbol of an unbroken key or closed lock (depending on your browser) on the bottom of your browser window.
+
+Credit card numbers are used only for processing payment and are not used for other purposes. As part of real-time payment processing, HP subscribes to a fraud management service. This service gives you and HP an extra level of security to guard against credit card fraud to protect your financial data. 
+
+## 11\. Changes to this Statement
+
+  
+If there are updates to the terms of HP's Online Privacy Statement, we will post those changes and update the revision date in this document, so you will always know what information we collect online, how we use it, and what choices you have. For material changes to this Statement, HP will provide notification to affected customers. 
+
+## 12\. Contacting us
+
+  
+We value your opinions. If you have comments or questions about our privacy policy, please send them to the [ HP Privacy Office](http://www.hp.com/cgi-bin/ghp/form.cgi?8) or write to us at the following address:
+
+HP Privacy Mailbox  
+20555 SH 249  
+MS 040307  
+Houston, Texas 77070
+
+_Rev. December 2003_  
+
+1A URL (Uniform Resource Locator) is the global address of documents and other resources on the World Wide Web. For example, http://www.HP.com is the URL for HP's U.S. home page.
+
+2An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (TCP/IP) network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
