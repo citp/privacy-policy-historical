@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619112541id_/http%3A//taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205175957id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
 
 # TaxBrain -- Privacy Policy
 
@@ -27,6 +27,7 @@ Questions regarding the TaxBrain Web sites' privacy statement, our online privac
 
 Information Collection and Use
 
+  
 Information Collection
 
 Petz Enterprises, Inc. is the sole owner of the information collected on TaxBrain.com. TaxBrain collects information from our users at several different points on our Web site.
@@ -73,6 +74,7 @@ Like most standard Web site servers we use log files. With or without cookies, o
 
 Communications from the Site
 
+  
 Special Offers and Updates
 
 We send all new members a welcoming email to verify registration. Established members will occasionally receive information on products, services, special deals, and a newsletter.
@@ -146,4 +148,11 @@ Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
+> Postal Address:  
+>  PO Box 611  
+>  Tracy, CA 95378  
+>  Phone: 866.829.2724  
+>  Fax: 209.835.0409  
+>  Email: [support@taxbrain.com](mailto:support@taxbrain.com)
 > 
+> Web site URL: [http://www.taxbrain.com/support/ ](http://www.taxbrain.com/support/)
