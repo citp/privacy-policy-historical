@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2001-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011025043517id_/http%3A//aftercollege.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152605id_/http%3A//www.aftercollege.com/privacy.asp) for the most accurate reproduction.*
 
 # AfterCollege: Privacy Statement
 
