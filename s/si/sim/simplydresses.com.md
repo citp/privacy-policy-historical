@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616063145id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2004-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040722023330id_/http%3A//promgirl.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
 
-# Prom Dresses Handbags Gowns Shoes Shawls and Special Occasion Accessories by SimplyDresses.com
+# Promgirl.com : info
 
 **Policies**
 
