@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401102203id_/http%3A//www2.fastweb.com/fastweb/content/aboutus/privacy.ptml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075513id_/http%3A//www.fastweb.com/fastweb/content/aboutus/privacy.ptml) for the most accurate reproduction.*
 
 # FastWeb: Privacy at FastWeb
 
@@ -67,7 +67,7 @@ If you have any questions about security issues at our site, please send an e-ma
 
   5. **HOW YOU CAN UPDATE YOUR INFORMATION**
 
-You can update your personal information by clicking [here](https://web.archive.org/fastweb/profile/update/update.ptml?ID=), by clicking on the "Update Profile" link on the FastWeb site, or by following the instructions included in any e-mail message you receive from FastWeb. Users who are experiencing problems with updating their information should contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to resolve your problems. 
+You can update your personal information by clicking [here](https://web.archive.org/fastweb/all/update/update.ptml?ID=), by clicking on the "Update Profile" link on the FastWeb site, or by following the instructions included in any e-mail message you receive from FastWeb. Users who are experiencing problems with updating their information should contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to resolve your problems. 
 
   6. **OTHER PROVISIONS**
 
