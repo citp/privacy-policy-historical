@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206122400id_/http%3A//worldoil.com/Commerce/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604120858id_/http%3A//worldoil.com/Commerce/legal/privacy_policy.asp) for the most accurate reproduction.*
 
 # WorldOil.com - World Oil: Our Privacy Policy
 
@@ -20,7 +20,6 @@ By using our Web site, you consent to the collection and uses of the information
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Mark Hood  
 World Oil  
 [Privacy@WorldOil.com](mailto:Privacy@WorldOil.com)
 
