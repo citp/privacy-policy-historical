@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008173907id_/http%3A//poz.com/index.cfm%3Fp%3Dsub%26n%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617235910id_/http%3A//www.poz.com/index.cfm%3Fp%3Dsub%26n%3Dprivacy) for the most accurate reproduction.*
 
 # POZ
 
