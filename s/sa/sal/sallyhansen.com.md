@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604134557id_/http%3A//www.sallyhansen.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202013828id_/http%3A//www.sallyhansen.com/privacy.cfm) for the most accurate reproduction.*
 
-# Sally Hansen: Privacy Policy
+# Sally Hansen: Register to Win!
 
 I. General  
 Del Laboratories, Inc. respects the privacy of every individual who visits our website. This policy outlines the information Del Laboratories, Inc. will collect and how we will use this information. 
