@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602165322id_/http%3A//seattletimes.nwsource.com/contactus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031907id_/http%3A//seattletimes.nwsource.com/contactus/privacy) for the most accurate reproduction.*
 
 # The Seattle Times Company: Privacy statement
 
