@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysideline.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062954id_/http%3A//mysideline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysideline.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404095559id_/http%3A//www.mysideline.com/privacy.html) for the most accurate reproduction.*
 
-# NFL and NCAA College Basketball Tournament Office Pool Software - Turbo Tourney
+# NFL and College Basketball Tournament Office Pool Software - Turbo Tourney
 
 **  
 ** theSideline.com takes your privacy very seriously. We do not sell or disclose any personal information about our customers. Personal information, such as name and e-mail, are used primarily to recognize individual accounts. Occasionally theSideline.com will use individually identifiable information, like e-mail addresses, in order to contact the customer for technical support or provide product update and account information. Members have the option to unsubscribe from these newsletters at their own will.
