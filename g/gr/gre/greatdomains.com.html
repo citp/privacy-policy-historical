@@ -1,18 +1,65 @@
-<!--The following is the downloaded HTML source of the greatdomains.com privacy policy that was archived on 2001-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010613212350id_/http%3A//www.greatdomains.com/support/prvstatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatdomains.com privacy policy that was archived on 2001-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011201030806id_/http%3A//www.greatdomains.com/support/prvstatement.asp) for the most accurate reproduction.-->
 
-<html><head></head><body bgcolor="#FFFFFF" alink="#008000">.  
+<html><head></head><body alink="#008000" bgcolor="#ffffff">.  
+<title>The Internet's #1 Domain Name Marketplace</title>
+<script language="javascript">
+<!--
+	
+	// CSS Platform Specific Javascript -->
+	if (navigator.appName == "Netscape") {
+		document.write("<LINK REL='STYLESHEET' HREF='/shared/css/NSStyles.css' TYPE='text/css'>");
+		} else {
+			document.write("<LINK REL='STYLESHEET' HREF='/shared/css/IEStyles.css' TYPE='text/css'>");
+	}
+	
+	//START OF THE ROLLOVER SCRIPT, VARIABLES FOR ROLLOVER
+	var path = "/images/";								// PATH TO IMAGES FOLDER FROM THIS PAGE
+	var imageSuffix = ".gif";							// SUFFIX FOR THE IMAGE TYPE
+	var statusMessage = "";
+	var list = new Array();
+	var currentImg = "";
+	
+	//ASSIGN NAME TO ORIGINAL WINDOW EXPLICITLY TO BE USED FROM POP-UP WINDOWS - RH / MJ / 10/19/01
+						
+	window.name="originalWindow";
+	
+	// PRELOAD IMAGES BY NAMES
+	// preload("imagename", "statusText", ifHi, ifOn, path, imageSuffix);
+	// preloads go on the page where the images are used
 
+	function preload(name, statusText, path, imageSuffix) {
+		if (document.images) {
+			list[name] = new Object();
+			list[name].message = statusText;
+			list[name].off = new Image();
+			list[name].off.src = path + name + ".off" + imageSuffix;
+			list[name].hi = new Image();
+			list[name].hi.src = path + name + ".hi" + imageSuffix;
+			}
+	}
 
-<title>GreatDomains.com - The Internet's #1 Domain Name, Website, and Internet-based business brokerage service.</title>
-<script language="JavaScript">
-<!-- //
+	function switchHi(imgName) {
+		if (document.images && (currentImg != imgName)) {
+			document.images[imgName].src = list[imgName].hi.src;
+		}
+		window.status = list[imgName].message;
+	}
+
+	function switchOff(imgName) {
+		if (document.images && (currentImg != imgName)) {
+			document.images[imgName].src = list[imgName].off.src;
+		}
+		window.status = "";
+	}
+	
 	function JavaOpenWin(sURL,iWidth,iHeight) {
 		if (iWidth == null) {iWidth = 450}; 
 		if (iHeight == null) {iHeight = 500};
 		return window.open(sURL, 'GDSepWin', 'width=' + iWidth + ',height=' + iHeight + ',scrollBars,resizable' ) ; 
 	}
 	
+
 	function OpenSepWin(iMode, sURL, iWidth, iHeight){
 		if (iWidth == null) {iWidth = 450}; 
 		if (iHeight == null) {iHeight = 500};
@@ -20,33 +67,31 @@
 			
 			//Mode 0 = Internal Pages (Dimensions Optional, ScrollBars = True, Resizable = True)
 			case (0) :
-				return window.open(sURL, 'GDSepWin', 'width=' + iWidth + ',height=' + iHeight + ',scrollBars,resizable' );
+				return window.open(sURL, 'GDSepWin', 'width=' + iWidth + ',height=' + iHeight + ',scrollBars,resizable,status,toolbar' );
 				break;
 				
 			//Mode 1 = External Sites (Dimensions Optional, All Options = True)
 			case (1) :
-				return window.open(sURL, 'ExtSepWin', 'width=' + iWidth + ',height=' + iHeight + ',scrollBars,resizable,toolbar,location,directories,status,menuBar' );
+				return window.open(sURL, 'ExtSepWin', 'width=' + iWidth + ',height=' + iHeight + ',scrollBars,resizable,toolbar,directories,status,menuBar' );
 				break;
 		}
 	}
-// -->
-</script>
+//-->
+</script><link rel="STYLESHEET" href="/shared/css/NSStyles.css" type="text/css">
 <center>
-	<table width="600" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr><td rowspan="3" width="90" align="center" valign="center">	<a target="_top" href="http://www.GreatDomains.com/default.asp">
-		<img src="/images/header/logo.gif" border="0" width="70" height="68"></a></td></tr>
-		<tr><td colspan="2">		
-		<a target="_top" href="http://www.GreatDomains.com/services/buy/buy.asp"><img src="/images/header/buy.gif" border="0"></a><a target="_top" href="http://www.GreatDomains.com/domains/listings/addlisting.asp"><img src="/images/header/sell.gif" border="0"></a><a target="_top" href="http://www.GreatDomains.com/services/appraisal/AppraisalEntry.asp"><img src="/images/header/appraise.gif" border="0"></a><a target="_top" href="http://www.GreatDomains.com/services/escrow/escrowservice.asp"><img src="/images/header/escrow.gif" border="0"></a><a target="_top" href="http://www.GreatDomains.com/domains/showcases/programs.asp"><img src="/images/header/showcase.gif" border="0"></a><a target="_top" href="http://www.GreatDomains.com/support/faq.asp"><img src="/images/header/help.gif" border="0"></a><a target="_top" href="http://www.GreatDomains.com/tools/subscribe/accountinfo.asp"><img src="/images/header/yourpro.gif" border="0"></a></td></tr>
-			<tr><td align="left" valign="center" width="170" height="35">&nbsp;<img src="/images/header/words.gif" width="160" height="42"></td>
-			<td align="right" valign="top">
-			<a target="_top" href="http://www.NetworkSolutions.com"><img src="/Images/NetSol.gif" border="0" width="134" height="50"></a>&nbsp;
-			</td></tr>
-			</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="600">
-<tbody><tr><td width="80"><center><font face="arial,helvetica,sans-sarif" size="1"><font face="arial,helvetica" size="1">
-<a target="_top" href="http://www.GreatDomains.com/default.asp">Home</a></font></font></center></td>
-	   <td width="*"><font face="arial,helvetica" size="1">Customer Service: 1-800-478-8763 (U.S./Canada) &amp; 1-818-308-2200 (outside U.S.), M-F, 6AM-6PM PST.</font></td></tr></tbody></table><br></center>
-
+<table cellpadding="0" cellspacing="0" width="610" border="0">
+	<tbody><tr>
+		<td width="15"><img src="/images/pix.gif" width="15" height="1" vspace="0" hspace="0" border="0"></td>
+		
+      <td width="269" align="left"><a href="http://www.GreatDomains.com/default.asp"><img src="/images/logo.gif" width="71" height="73" vspace="0" hspace="0" border="0"><img src="/images/words.gif" width="186" height="73" vspace="0" hspace="0" border="0"></a></td>
+		<td width="216"><img src="/images/pix.gif" width="216" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="110"><a href="http://www.verisign.com"><img src="/images/verisign.gif" width="110" height="73" vspace="0" hspace="0" border="0"></a></td>
+	</tr>
+	<tr>
+		<td colspan="4"><img src="/images/pix.gif" width="1" height="13" vspace="0" hspace="0" border="0"></td>
+	</tr>
+</tbody></table>
+</center>
 
   
   
@@ -61,61 +106,157 @@
   <table border="1" width="600" cellpadding="4" cellspacing="0" bordercolor="#000000">
      <tbody><tr><td valign="top" bgcolor="#6335A0" width="110" align="left">
          
-	<table border="0" width="110" cellspacing="0" height="100%" bgcolor="#6335A0">
-	<tbody><tr><td align="right" cellspacing="0">
-	
-	<a href="http://www.GreatDomains.com/tools/subscribe/newaccount.asp"><img border="0" src="/images/newuserjoin_p.gif" width="92" height="26"></a>
-	        </td></tr>
-	   <tr><td width="110" bgcolor="#b82534"><font face="arial" size="2" color="#ffffff"><b>&nbsp;Trade Domains</b></font></td></tr>
-	   <tr><td width="110" align="left"><font size="1" face="arial,helvetica">&nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/services/buy/buy.asp"><font color="#ffffff" size="1">Buy a Domain</font></a><br>
-	                &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/domains/listings/addlisting.asp"><font color="#ffffff" size="1">Sell a Domain</font></a><br>
-	                &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/domains/register/registerdomain.asp"><font color="#ffffff">Register a Domain</font></a><br>
-	                
-	                        &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/services/appraisal/appraisalinfo.asp"><font color="#ffffff" size="1">Appraisal Information</font></a><br>  
-	                
-	                &nbsp;<a style="text-decoration:underline" href="https://www.GreatDomains.com/services/wav/wavorders.asp"><font color="#ffffff" size="1">Web Address Value</font></a><br>
-	                &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/services/escrow/escrowservice.asp"><font color="#ffffff" size="1">Escrow Service</font></a><br>
-	                &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/tools/refer/referral.asp"><font color="#ffffff" size="1">Refer a Buyer</font></a><br>
-	                &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/services/sell/featureseller.asp"><font size="1" color="#ffffff">Featured Sellers</font></a><br>
-	                &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/support/faq.asp"><font size="1" color="#ffffff">FAQ</font></a></font></td></tr>
-	   <tr><td width="110" align="left"><hr noshade="" color="#000000" size="1"></td>
-	   </tr><tr><td width="110" align="left" bgcolor="#b82534"><font face="arial,helvetica" size="2" color="#ffffff"><b>&nbsp;My Account</b></font></td></tr>
-	   <tr><td width="110" align="left"><font size="1" face="arial,helvetica">&nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/domains/listings/yourlistings.asp"><font color="#ffffff">My Listings</font></a><br>
-	                &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/services/buy/offers/offers.asp"><font color="#ffffff">My Offers</font></a><br>
-	                &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/services/Appraisal/viewappraisals.asp"><font color="#ffffff">My Appraisals</font></a><br>
-	                &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/gdstore/shopcart.asp"><font color="#ffffff">My ShoppingCart</font></a></font></td></tr>
-	   <tr><td width="110" align="left"><hr noshade="" color="#000000" size="1"></td></tr> 
-	   <tr><td width="110" bgcolor="#b82534"><font face="arial" size="2" color="#ffffff"><b>&nbsp;Community</b></font></td></tr>
-   <tr><td width="110" align="left"><font size="1" face="arial,helvetica">
-		&nbsp;<a style="text-decoration:underline" href="http://gdchat.greatdomains.com/chat.asp"><font face="arial,helvetica" color="#ffffff" size="1">Chat</font></a><br>
-		<!--		&nbsp;<a style=text-decoration:underline href=http://gdforum.greatdomains.com/><font face=arial,helvetica color=#ffffff size=1>Forum</font></a><br>		-->
-		&nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/support/news/news.asp"><font face="arial,helvetica" color="#ffffff" size="1">News</font></a><br>
-				</font></td></tr>
-
-	   <tr><td width="110" align="left"><hr noshade="" color="#000000" size="1"></td></tr> 
-
-		<tr><td width="110" align="left" bgcolor="#b82534"><font face="arial,helvetica" size="2" color="#ffffff"><b>&nbsp;Great Services</b></font></td></tr>     
-		<tr><td width="110" align="left"><font size="1" face="arial,helvetica">
-			&nbsp;<a href="javascript: newWindow = OpenSepWin(1,'http://www.register.biz.com','650','700'); newWindow.focus()" )="" style="text-decoration:underline"><font color="#ffffff" size="1">Discount Registration</font></a><br>
-			&nbsp;<a href="javascript: newWindow = OpenSepWin(1,'http://www.nameprotect.com/cgi-bin/single_search.cgi?vendor_id=6581','650','700'); newWindow.focus()" )="" style="text-decoration:underline"><font color="#ffffff" size="1">Free Trademark Tool</font></a><br>
-			&nbsp;<a href="javascript: newWindow = OpenSepWin(1,'http://www.nameprotect.com/cgi-bin/ng/signup.cgi?vendor_id=W1061','650','700'); newWindow.focus()" )="" style="text-decoration:underline"><font color="#ffffff" size="1">Free Name Watch</font></a><br>
-			&nbsp;<a href="javascript: newWindow = OpenSepWin(1,'http://www.networksolutions.com/en_US/catalog/idnames/maint-plus.html','650','700'); newWindow.focus()" )="" style="text-decoration:underline"><font color="#ffffff" size="1">Domain Management</font></a><br>
-	        &nbsp;<a style="text-decoration:underline" href="http://www.GreatDomains.com/tools/brc/default.asp"><font color="#ffffff" size="1">More Services...</font></a>
-	   
-	</font></td></tr><tr><td width="110" align="left">&nbsp;</td></tr>
-	   <tr><td align="middle" width="110"><br>
-			<a href="javascript: newWindow = OpenSepWin(1,'http://www.register.biz.com','650','700'); newWindow.focus()" target="_top">
-			<img src="/images/left_partner/bizcom02.gif" border="0"></a></td></tr><tr>
-	   </tr><tr><td width="110" align="center"><br>
-			<a href="javascript: newWindow = OpenSepWin(1,'http://www.networksolutions.com/en_US/catalog/idnames/','650','700'); newWindow.focus()" target="_top">
-			<img border="0" src="/images/idnameslogo.gif"></a></td></tr>
-	   <tr><td width="110" align="center" valign="top" height="100%"><font face="arial,helvetica" color="#ffffff" size="1">©1996-2001 GreatDomains.com</font></td></tr>
-	   <tr><td width="110" align="left"><a href="/support/server.asp"><img border="0" src="/images/ServerSq.gif" width="4" height="25"></a></td></tr>
-	</tbody></table>
-	
-	
-
-</td>
+<table cellpadding="0" cellspacing="0" width="122" border="0">
+	<tbody><tr>
+		<td bgcolor="#663399" colspan="5"><img src="/images/pix.gif" width="122" height="2" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#663399"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#663399"><img src="/images/pix.gif" width="118" height="8" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#9999CC"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#9999CC"><span class="navHeader">Log On</span></td>
+		<td width="2" bgcolor="#9999CC"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#663399"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<!--td WIDTH="112" BGCOLOR="#663399" CLASS="navText"><img SRC="/images/pix.gif" WIDTH="4" HEIGHT="3" VSPACE="0" HSPACE="0" BORDER="0"-->
+		<td width="112" bgcolor="#663399">
+			
+				<a href="http://www.GreatDomains.com/tools/subscribe/newaccount.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='New Users'; return true;">New Users</a>
+				<!--form name="fLogon" method="POST" action="http://www.GreatDomains.com/srclib/validate.asp?nextscreen=http://www.GreatDomains.com/default.asp"  onmouseout ="window.status=''; return true;" onmouseover="window.status='Login'; return true;">
+					&nbsp;&nbsp;&nbsp;<input TYPE="image" VALUE="submit" SRC="/images/login.gif" WIDTH="92" HEIGHT="26" BORDER="0" VSPACE="5" id="image1" name="image1">
+				</form-->
+				<br><a href="http://www.GreatDomains.com/srclib/validate.asp?nextscreen=http://www.GreatDomains.com/default.asp" class="navLink" onmouseover="window.status='Log In'; return true;" onmouseout="window.status=''; return true;">Log In</a><br><br>
+			
+		</td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#9999CC"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#9999CC"><span class="navHeader">About Us</span></td>
+		<td width="2" bgcolor="#9999CC"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#663399"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#663399">
+			<a href="http://www.GreatDomains.com/default.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Home'; return true;">Home</a>
+			<br><a href="http://www.GreatDomains.com/about.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='About Us'; return true;">About Us</a>
+			<br><a href="http://www.GreatDomains.com/news.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='In The News'; return true;">In The News</a><br><br>
+			
+		</td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#9999CC"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#9999CC"><span class="navHeader">Domain Services</span></td>
+		<td width="2" bgcolor="#9999CC"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#663399"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#663399">
+			<a href="http://www.GreatDomains.com/services/buy/buy.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Buy a Domain'; return true;">Buy a Domain</a>
+			<br><a href="http://www.GreatDomains.com/services/sell/sell.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Sell a Domain'; return true;">Sell a Domain</a>
+			<br><a href="http://www.GreatDomains.com/services/catalog/catlistings.asp?CatID=0" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Browse Catalog'; return true;">Browse Catalog</a><br><br>
+		</td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#9999CC"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#9999CC"><span class="navHeader">Specialty Services</span></td>
+		<td width="2" bgcolor="#9999CC"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#663399"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#663399">
+			<a href="http://www.GreatDomains.com/services/appraisal/appraisalentry.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Domain Appraisals'; return true;">Domain Appraisals</a>
+			<br><a href="http://www.GreatDomains.com/services/escrow/escrowrequest.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Private Transaction'; return true;">Private Transaction</a>
+			<br><a href="http://www.GreatDomains.com/services/sell/featureseller.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Featured Sellers'; return true;">Featured Sellers</a><br><br>
+		</td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#9999CC"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#9999CC"><span class="navHeader">Account Management</span></td>
+		<td width="2" bgcolor="#9999CC"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#663399"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#663399">
+			<a href="http://www.GreatDomains.com/tools/subscribe/modifyaccount.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='My Profile'; return true;">My Profile</a>
+			<br><a href="http://www.GreatDomains.com/services/buy/offers/offers.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='My Offers'; return true;">My Offers</a>
+			<br><a href="http://www.GreatDomains.com/domains/listings/yourlistings.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='My Listings'; return true;">My Listings</a>
+			<br><a href="http://www.GreatDomains.com/services/appraisal/viewappraisals.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='My Appraisals'; return true;">My Appraisals</a>
+			<br><a href="http://www.GreatDomains.com/gdstore/shopcart.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='My Shopping Cart'; return true;">My Shopping Cart</a><br>&nbsp;<br>
+		</td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#9999CC"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#9999CC"><span class="navHeader">Affiliate Services</span></td>
+		<td width="2" bgcolor="#9999CC"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#663399"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#663399">
+			<a href="javascript: newWindow = OpenSepWin(1,'http://www.bizfilings.com/greatdomains/','650','700'); newWindow.focus()" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Incorporate Your Biz'; return true;">Incorporate Your Biz</a>
+			<br><a href="javascript: newWindow = OpenSepWin(1,'http://www.freemyname.com','650','700'); newWindow.focus()" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Make More Money'; return true;">Make More Money</a>
+			<br><a href="javascript: newWindow = OpenSepWin(1,'http://www.mydomain.com?GD11','650','700'); newWindow.focus()" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='DNS Management'; return true;">DNS Management</a>
+			<!--br><a HREF="javascript: newWindow = OpenSepWin(1,'http://www.networksolutions.com/en_US/catalog/idnames/maint-plus.html','650','700'); newWindow.focus()" CLASS="navLink" onmouseout ="window.status=''; return true;" onmouseover="window.status='Domain Management'; return true;" >Domain Management</a-->
+			<br><a href="http://www.GreatDomains.com/tools/brc/default.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='More Services...'; return true;">More Services...</a><br><br>
+		</td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#9999CC"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#9999CC"><span class="navHeader">Customer Service</span></td>
+		<td width="2" bgcolor="#9999CC"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="4" bgcolor="#663399"><img src="/images/pix.gif" width="4" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="112" bgcolor="#663399" class="navText">
+			<a href="http://www.GreatDomains.com/support/faq.asp" class="navLink" onmouseout="window.status=''; return true;" onmouseover="window.status='Help'; return true;">Help</a>
+			<br><a href="javascript:newWindow = JavaOpenWin('http://www.GreatDomains.com/support/contactus.htm','400','325'); newWindow.focus()" onmouseout="window.status=''; return true;" onmouseover="window.status='Contact Us'; return true;" class="navLink">Contact Us</a><br><br>
+			<br>©1996-2001 GreatDomains.com
+		</td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+		<td width="2" bgcolor="#663399"><img src="/images/pix.gif" width="2" height="1" vspace="0" hspace="0" border="0"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#663399" colspan="5"><img src="/images/pix.gif" width="122" height="2" vspace="0" hspace="0" border="0"></td>
+	</tr>
+</tbody></table></td>
          <td valign="top" align="center"><center><table border="0" width="480">
 
      <tbody><tr><td valign="top">
@@ -279,27 +420,32 @@
 
     </tbody></table></center>
     </td></tr></tbody></table>
-    <font face="Verdana,Arial,Helvetica,sans-serif" size="1">
-<center><a href="http://www.GreatDomains.com/default.asp">Home</a> |
- <a href="http://www.GreatDomains.com/tools/subscribe/accountinfo.asp">Account Info</a> |
- <a href="http://www.GreatDomains.com/support/emailus.asp">E-Mail Us</a> |
- <a href="http://www.GreatDomains.com/support/faq.asp">Help</a> |
- <a href="http://www.GreatDomains.com/tools/search/search.asp">Search</a> |
- <a href="javascript:newWindow = JavaOpenWin('http://www.GreatDomains.com/support/contactus.htm',450,325); 
-		  newWindow.focus()">Contact Us</a> |
- <a href="javascript: newWindow = OpenSepWin(0,'/support/Registrant_Dispute.htm','500','200'); newWindow.focus()" onmouseout="window.status=''; return true;" onmouseover="window.status='Registrant Dispute'; return true;">Registrant Dispute</a> | <br> 
- <a href="javascript: newWindow = OpenSepWin(0,'/support/Trademark_Free_Zone.htm','500','200'); newWindow.focus()" onmouseout="window.status=''; return true;" onmouseover="window.status='Trademark Free Zone'; return true;">Trademark Free Zone</a> |
- <a href="javascript:newWindow = JavaOpenWin('http://www.GreatDomains.com/support/useragreement.htm',450,400); 
-		  newWindow.focus()">User Agreement</a> |  
- <a href="javascript:newWindow = JavaOpenWin('http://www.GreatDomains.com/support/prvstatement.htm',450,400); 
-		  newWindow.focus()">Privacy Statement</a> | 
- <a href="http://members.cj.com/affiliate/branded_aff_join.asp?air_refmerchantid=546469">Affiliate Program</a> |
- <a href="http://www.GreatDomains.com/support/advertising.asp">Advertising</a>
-<p></p>
-</center></font>
+    <br>
+<center>
+<table width="610" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td class="footer">
+			<center>
+			<a href="http://www.GreatDomains.com/default.asp" onmouseout="window.status=''; return true;" onmouseover="window.status='Home'; return true;">Home</a> |
+ 			<a href="http://www.GreatDomains.com/tools/subscribe/modifyaccount.asp" onmouseout="window.status=''; return true;" onmouseover="window.status='Account Info'; return true;">Account Info</a> |
+ 			<a href="http://www.GreatDomains.com/support/emailus.asp" onmouseout="window.status=''; return true;" onmouseover="window.status='E-Mail Us'; return true;">E-Mail Us</a> |
+ 			<a href="http://www.GreatDomains.com/support/faq.asp" onmouseout="window.status=''; return true;" onmouseover="window.status='Help'; return true;">Help</a> |
+ 			<a href="http://www.GreatDomains.com/tools/search/search.asp" onmouseout="window.status=''; return true;" onmouseover="window.status='Search'; return true;">Search</a> |
+ 			<a href="javascript:newWindow = JavaOpenWin('http://www.GreatDomains.com/support/contactus.htm','450','325'); newWindow.focus()" onmouseout="window.status=''; return true;" onmouseover="window.status='Contact Us'; return true;">Contact Us</a> |
+ 			<a href="javascript: newWindow = OpenSepWin(0,'/support/Registrant_Dispute.htm','500','200'); newWindow.focus()" onmouseout="window.status=''; return true;" onmouseover="window.status='Registrant Dispute'; return true;">Registrant Dispute</a> | <br> 
+ 			<a href="javascript: newWindow = OpenSepWin(0,'/support/Trademark_Free_Zone.htm','500','200'); newWindow.focus()" onmouseout="window.status=''; return true;" onmouseover="window.status='Trademark Free Zone'; return true;">Trademark Free Zone</a> |
+ 			<a href="javascript:newWindow = JavaOpenWin('http://www.GreatDomains.com/support/useragreement.htm','450','400'); newWindow.focus()" onmouseout="window.status=''; return true;" onmouseover="window.status='User Agreement'; return true;">User Agreement</a> |  
+ 			<a href="http://www.GreatDomains.com/support/prvstatement.asp" onmouseout="window.status=''; return true;" onmouseover="window.status='Privacy Statement'; return true;">Privacy Statement</a> |
+ 			<a href="http://members.cj.com/affiliate/branded_aff_join.asp?air_refmerchantid=546469" onmouseout="window.status=''; return true;" onmouseover="window.status='Affiliate Program'; return true;">Affiliate Program</a> |
+ 			<a href="http://www.GreatDomains.com/support/advertising.asp" onmouseout="window.status=''; return true;" onmouseover="window.status='Advertising'; return true;">Advertising</a>
+			</center>
+		</td>
+	</tr>
+</tbody></table>
+<center>
 
 
-    </center></div>
+    </center></center></center></div>
 
     
     
