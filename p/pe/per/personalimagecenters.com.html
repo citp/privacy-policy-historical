@@ -1,0 +1,421 @@
+<!--The following is the downloaded HTML source of the personalimagecenters.com privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207191910id_/http%3A//www.personalimagecenters.com/privacy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<title>Cosmetic Surgery, Cosmetic Lasers &amp; Physician Directed Skin Care</title>
+
+
+	
+
+
+<script language="JavaScript">
+<!--Hide JavaScript from Java-Impaired Browsers
+
+confirm_click=false;
+target = "";
+
+function navigate(isnform) {
+ durl=isnform.isnlist.options[isnform.isnlist.selectedIndex].value;
+ if (durl.length == 0) {
+  alert("Invalid selection!");
+ } else {
+  durlconfirm="Are you certain you wish to go to "+durl+"?";
+  if (!confirm_click || confirm(durlconfirm)) {
+   eval(target+"location.href=durl");
+  }
+ }
+}
+// End Hiding Script -->
+
+function openWindow(url,name, width, height) {
+var popupWin;
+	// if a window already exists, destroy it.
+	if (popupWin && !popupWin.closed) {
+               popupWin.close();
+	}
+
+	var attr = 'scrollbars=no,status=yes,width=' + width + ',height= ' + height  +',left=1,top=1,resizable=1';
+   	popupWin = window.open(url, name, attr);
+	popupWin.focus();
+}
+
+function checkMe(obj) {
+	// declare errorstring
+	var errorString ="";
+	// email must have  and '@' and a '.' and cannot have any spaces
+	if ((obj.Email.value.indexOf("@")==-1) || (obj.Email.value.indexOf(".")==-1) || (obj.Email.value.indexOf(" ")!=-1)) {
+		errorString = errorString + "'" + obj.Email.value + "' is not a valid email address.\nPlease re-enter your email address.\n\n";
+		}
+	// if we've set the errorstring, lets yell at them and return false
+	if (errorString != "") {
+		alert(errorString);
+		return false;
+	}
+	
+	return true;
+}
+
+<!-- Begin
+function formHandler(form){
+var URL = document.form.site.options[document.form.site.selectedIndex].value;
+window.location.href = URL;
+}
+// End -->
+</script>
+
+<script>
+<!--
+// The Central Randomizer 1.3 (C) 1997 by Paul Houle (houle@msc.cornell.edu)
+// See: http://www.msc.cornell.edu/~houle/javascript/randomizer.html
+rnd.today=new Date();
+rnd.seed=rnd.today.getTime();
+
+
+    function rnd() {
+    rnd.seed = (rnd.seed*9301+49297) % 233280;
+    return rnd.seed/(233280.0);
+};
+
+
+    function rand(number) {
+    return Math.ceil(rnd()*number);
+};
+// end central randomizer. -->
+</script>
+
+<style type="text/css">
+<!--
+td {font-size:10pt; line-height:12pt; font-family:verdana,arial,helvetica,sans-serif;}
+
+h1 {font-weight:bold; font-size:15pt; line-height:15pt; color:#313C94; font-family:verdana,arial,helvetica,sans-serif; margin-left:10pt; margin-top:38;}
+
+h2 {font-weight:bold; font-size:11pt; font-family:verdana,arial,helvetica,sans-serif;  color:#313C94; line-height:15pt; margin-bottom:2pt;}
+
+h3 {font-weight:bold; font-size:9pt; font-family:verdana,arial,helvetica,sans-serif; line-height:11pt;   color:#313C94; margin-bottom:0pt;}
+
+a:link {color:#313C94; text-decoration:underline;}
+a:active {color:#FF3300; text-decoration:underline;}
+a:visited {color:#993399; text-decoration:underline;}
+a:hover {color:#FF3300; text-decoration:none;}
+
+body {
+scrollbar-face-color: #4659A7;
+scrollbar-shadow-color: #ffffff;
+scrollbar-highlight-color: #ffffff;
+scrollbar-3dlight-color: #6699cc;
+scrollbar-darkshadow-color: #6699cc;
+scrollbar-track-color: #ffffff;
+scrollbar-arrow-color: #FFCC00;
+}
+-->
+</style>
+	
+</head>
+
+<body bgcolor="white" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="images/background.gif">
+
+<form style="font-size:8pt;" name="isnform">
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tbody><tr>
+	<td height="28" width="186" bgcolor="#000000">
+<script language="JavaScript1.2">
+
+/*
+Fading Scroller- By DynamicDrive.com
+For full source code, 100's more DHTML scripts, and TOS,
+visit http://www.dynamicdrive.com
+*/
+
+var delay=10000 //set delay between message change (in miliseconds)
+var fcontent=new Array()
+begintag='<div align=center style="color:FFFFFF; font-size:7pt; font-family:verdana,arial,helvetica,sans-serif; margin-top:5pt;">' //set opening tag, such as font declarations
+fcontent[0]="<a href=http://www.personalimagecenters.com style=color:FFFFFF;>www.personalimagecenters.com</a>"
+fcontent[1]="<a href=http://www.personalimagecenters.com style=color:FFFFFF;>HOME</a>"
+closetag='</div>'
+
+var fwidth=186 //set scroller width
+var fheight=28 //set scroller height
+
+///No need to edit below this line/////////////////
+
+var ie4=document.all&&!document.getElementById
+var ns4=document.layers
+var DOM2=document.getElementById
+var faderdelay=0
+var index=0
+
+if (DOM2)
+faderdelay=2000
+
+//function to change content
+function changecontent(){
+if (index>=fcontent.length)
+index=0
+if (DOM2){
+document.getElementById("fscroller").style.color="rgb(0,0,0)"
+document.getElementById("fscroller").innerHTML=begintag+fcontent[index]+closetag
+colorfade()
+}
+else if (ie4)
+document.all.fscroller.innerHTML=begintag+fcontent[index]+closetag
+else if (ns4){
+document.fscrollerns.document.fscrollerns_sub.document.write(begintag+fcontent[index]+closetag)
+document.fscrollerns.document.fscrollerns_sub.document.close()
+}
+
+index++
+setTimeout("changecontent()",delay+faderdelay)
+}
+
+// colorfade() partially by Marcio Galli for Netscape Communications.  ////////////
+// Modified by Dynamicdrive.com
+
+frame=20;
+hex=255  // Initial color value.
+
+function colorfade() {	         	
+// 20 frames fading process
+if(frame>0) {	
+hex-=12; // increase color value
+document.getElementById("fscroller").style.color="rgb("+hex+","+hex+","+hex+")"; // Set color value.
+frame--;
+setTimeout("colorfade()",20);	
+}
+else{
+document.getElementById("fscroller").style.color="rgb(0,0,0)";
+frame=20;
+hex=0
+}   
+}
+
+if (ie4||DOM2)
+document.write('<div id="fscroller" style="width:'+fwidth+';height:'+fheight+';padding:0px"></div>')
+
+window.onload=changecontent
+</script><div id="fscroller" style="width: 186px; height: 28px; padding: 0px; color: rgb(0, 0, 0);"><div align="center" style="color:FFFFFF; font-size:7pt; font-family:verdana,arial,helvetica,sans-serif; margin-top:5pt;"><a href="http://www.personalimagecenters.com" style="color:FFFFFF;">www.personalimagecenters.com</a></div></div>
+	<ilayer id="fscrollerns" width="&amp;{fwidth};" height="&amp;{fheight};"><layer id="fscrollerns_sub" width="&amp;{fwidth};" height="&amp;{fheight};" left="0" top="0"></layer></ilayer></td>
+	<td width="304" bgcolor="#000000" align="right" valign="top">
+	<div style="color:FFFFFF; font-size:7pt; font-family:verdana,arial,helvetica,sans-serif; margin-top:5pt;"><a href="/cosmetic_surgery_locations.cfm" title="Cosmetic Surgery Locations" style="color:FFFFFF;">FIND THE CENTER NEAREST YOU</a> &nbsp;</div>
+	</td><td width="160" bgcolor="#000000">
+<select name="isnlist" style="font-size:8pt;">
+<option value="" selected=""> Select a state...
+</option><option value="/cosmetic_surgery/alabama_cosmetic_surgery.cfm">Alabama</option>
+<option value="/cosmetic_surgery/alaska_cosmetic_surgery.cfm">Alaska</option>
+<option value="/cosmetic_surgery/arizona_cosmetic_surgery.cfm">Arizona</option>
+<option value="/cosmetic_surgery/arkansas_cosmetic_surgery.cfm">Arkansas</option>
+<option value="/cosmetic_surgery/california_cosmetic_surgery.cfm">California</option>
+<option value="/cosmetic_surgery/colorado_cosmetic_surgery.cfm">Colorado</option>
+<option value="/cosmetic_surgery/connecticut_cosmetic_surgery.cfm">Connecticut</option>
+<option value="/cosmetic_surgery/delaware_cosmetic_surgery.cfm">Delaware</option>
+<option value="/cosmetic_surgery/florida_cosmetic_surgery.cfm">Florida</option>
+<option value="/cosmetic_surgery/georgia_cosmetic_surgery.cfm">Georgia</option>
+<option value="/cosmetic_surgery/hawaii_cosmetic_surgery.cfm">Hawaii</option>
+<option value="/cosmetic_surgery/idaho_cosmetic_surgery.cfm">Idaho</option>
+<option value="/cosmetic_surgery/illinois_cosmetic_surgery.cfm">Illinois</option>
+<option value="/cosmetic_surgery/indiana_cosmetic_surgery.cfm">Indiana</option>
+<option value="/cosmetic_surgery/iowa_cosmetic_surgery.cfm">Iowa</option>
+<option value="/cosmetic_surgery/kansas_cosmetic_surgery.cfm">Kansas</option>
+<option value="/cosmetic_surgery/kentucky_cosmetic_surgery.cfm">Kentucky</option>
+<option value="/cosmetic_surgery/louisiana_cosmetic_surgery.cfm">Louisiana</option>
+<option value="/cosmetic_surgery/maine_cosmetic_surgery.cfm">Maine</option>
+<option value="/cosmetic_surgery/maryland_cosmetic_surgery.cfm">Maryland</option>
+<option value="/cosmetic_surgery/massachusetts_cosmetic_surgery.cfm">Massachusetts</option>
+<option value="/cosmetic_surgery/michigan_cosmetic_surgery.cfm">Michigan</option>
+<option value="/cosmetic_surgery/minnesota_cosmetic_surgery.cfm">Minnesota</option>
+<option value="/cosmetic_surgery/mississippi_cosmetic_surgery.cfm">Mississippi</option>
+<option value="/cosmetic_surgery/missouri_cosmetic_surgery.cfm">Missouri</option>
+<option value="/cosmetic_surgery/montana_cosmetic_surgery.cfm">Montana</option>
+<option value="/cosmetic_surgery/nebraska_cosmetic_surgery.cfm">Nebraska</option>
+<option value="/cosmetic_surgery/nevada_cosmetic_surgery.cfm">Nevada</option>
+<option value="/cosmetic_surgery/new_hampshire_cosmetic_surgery.cfm">New Hampshire</option>
+<option value="/cosmetic_surgery/new_jersey_cosmetic_surgery.cfm">New Jersey</option>
+<option value="/cosmetic_surgery/new_mexico_cosmetic_surgery.cfm">New Mexico</option>
+<option value="/cosmetic_surgery/new_york_cosmetic_surgery.cfm">New York</option>
+<option value="/cosmetic_surgery/north_carolina_cosmetic_surgery.cfm">North Carolina</option>
+<option value="/cosmetic_surgery/north_dakota_cosmetic_surgery.cfm">North Dakota</option>
+<option value="/cosmetic_surgery/ohio_cosmetic_surgery.cfm">Ohio</option>
+<option value="/cosmetic_surgery/oklahoma_cosmetic_surgery.cfm">Oklahoma</option>
+<option value="/cosmetic_surgery/oregon_cosmetic_surgery.cfm">Oregon</option>
+<option value="/cosmetic_surgery/pennsylvania_cosmetic_surgery.cfm">Pennsylvania</option>
+<option value="/cosmetic_surgery/rhode_island_cosmetic_surgery.cfm">Rhode Island</option>
+<option value="/cosmetic_surgery/south_carolina_cosmetic_surgery.cfm">South Carolina</option>
+<option value="/cosmetic_surgery/south_dakota_cosmetic_surgery.cfm">South Dakota</option>
+<option value="/cosmetic_surgery/tennessee_cosmetic_surgery.cfm">Tennessee</option>
+<option value="/cosmetic_surgery/texas_cosmetic_surgery.cfm">Texas</option>
+<option value="/cosmetic_surgery/utah_cosmetic_surgery.cfm">Utah</option>
+<option value="/cosmetic_surgery/vermont_cosmetic_surgery.cfm">Vermont</option>
+<option value="/cosmetic_surgery/virginia_cosmetic_surgery.cfm">Virginia</option>
+<option value="/cosmetic_surgery/washington_cosmetic_surgery.cfm">Washington</option>
+<option value="/cosmetic_surgery/west_virginia_cosmetic_surgery.cfm">West Virginia</option>
+<option value="/cosmetic_surgery/wisconsin_cosmetic_surgery.cfm">Wisconsin</option>
+<option value="/cosmetic_surgery/wyoming_cosmetic_surgery.cfm">Wyoming</option>
+</select>
+<input type="button" name="button" style="font-size:8pt;" value="Go!" onclick="navigate(this.form)">
+	</td>
+</tr>
+<tr>
+	<td width="650" colspan="3" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0" width="650">
+	<tbody><tr>
+		<td width="180" valign="top"><a href="/index.cfm" alt="Personal Image Center for Cosmetic Surgery"><img src="/images/inside_logo1.gif" width="180" height="62" alt="Personal Image Centers for Cosmetic Surgery" border="0" hspace="0" vspace="0" align="left"></a></td>
+		<td bgcolor="#313C94" width="192" valign="top"><script language="JavaScript"><!--
+document.write('<IMG src="/images/inside' + rand(4) + '.gif" WIDTH="192" HEIGHT="62" alt="PIC Faces" border="0" hspace=0 vspace=0 align=left>');
+//--></script><img src="/images/inside1.gif" width="192" height="62" alt="PIC Faces" border="0" hspace="0" vspace="0" align="left"></td>
+		<td bgcolor="#313C94" width="102" valign="bottom"><a href="plastic_surgery.cfm" title="Cosmetic Plastic Surgery Procedures"><img src="/images/inside_starthere.gif" width="102" height="15" alt="Start Here" border="0" hspace="0" vspace="18" align="right"></a></td>
+		<td bgcolor="#313C94" width="176" valign="bottom"><form name="form">
+<select name="site" size="1" onchange="javascript:formHandler()">
+<option value="">Choose a procedure...
+</option><option value="">------------------
+</option><option value="">Popular Procedures
+</option><option value="">------------------
+</option><option value="/plastic_surgery/breast_enlargement.cfm">Breast Enlargement 
+</option><option value="/plastic_surgery/liposuction.cfm">Liposuction 
+</option><option value="/plastic_surgery/tummy_tuck.cfm">Tummy Tuck 
+</option><option value="/plastic_surgery/breast_lift.cfm">Breast Lift 
+</option><option value="/plastic_surgery/blepharoplasty.cfm">Eyelid Lift 
+</option><option value="/plastic_surgery/facelift.cfm">Facelift
+</option><option value="/plastic_surgery/rhinoplasty.cfm">Nose Reshaping 
+</option><option value="">------------------
+</option><option value="">All Procedures
+</option><option value="">------------------
+</option><option value="/plastic_surgery/arm_lift.cfm">Arm Lift
+</option><option value="/plastic_surgery/botox.cfm">Botox Injection 
+</option><option value="/plastic_surgery/breast_enlargement.cfm">Breast Enlargement 
+</option><option value="/plastic_surgery/breast_lift.cfm">Breast Lift 
+</option><option value="/plastic_surgery/breast_reduction.cfm">Breast Reduction
+</option><option value="/plastic_surgery/gynecomastia.cfm">Breast Reduction (Men) 
+</option><option value="/plastic_surgery/thigh_lift.cfm">Buttock/Thigh Lift 
+</option><option value="/plastic_surgery/endermologie.cfm">Cellulite Treatment 
+</option><option value="/plastic_surgery/cheek_chin.cfm">Chin Reshaping 
+</option><option value="/plastic_surgery/chemical_peel.cfm">Chemical Peels 
+</option><option value="/plastic_surgery/collagen.cfm">Collagen Treatment 
+</option><option value="/plastic_surgery/otoplasty.cfm">Ear Reshaping 
+</option><option value="/plastic_surgery/blepharoplasty.cfm">Eyelid Lift 
+</option><option value="/plastic_surgery/facelift.cfm">Facelift
+</option><option value="/plastic_surgery/browlift.cfm">Forehead Lift (Browlift) 
+</option><option value="/plastic_surgery/hair_removal.cfm">Laser Hair Removal 
+</option><option value="/plastic_surgery/laser_resurfacing.cfm">Laser Skin Resurfacing
+</option><option value="/plastic_surgery/liposuction.cfm">Liposuction 
+</option><option value="/plastic_surgery/microdermabrasion.cfm">Microdermabrasion 
+</option><option value="/plastic_surgery/neck_lift.cfm">Neck Lift  
+</option><option value="/plastic_surgery/rhinoplasty.cfm">Nose Reshaping 
+</option><option value="/plastic_surgery/permanent_makeup.cfm">Permanent Makeup 
+</option><option value="/plastic_surgery/scar_revision.cfm">Scar Revision
+</option><option value="/plastic_surgery/skin_care.cfm">Skin Care 
+</option><option value="/plastic_surgery/tattoo_removal.cfm">Tattoo Removal 
+</option><option value="/plastic_surgery/tummy_tuck.cfm">Tummy Tuck 
+</option><option value="/plastic_surgery/weekend_facelift.cfm">Weekend Facelift
+</option></select>
+</form>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" width="180"><a href="/index.cfm" alt="Personal Image Center for Cosmetic Surgery"><img src="/images/inside_logo2.gif" width="180" height="66" alt="" border="0" hspace="0" vspace="0" align="left"></a></td>
+		<td width="470" valign="top" colspan="3"><img src="/images/inside_featurenav.gif" width="470" height="29" alt="" border="0" hspace="0" vspace="0" align="left" usemap="#featurenav"><map name="featurenav">
+<area alt="How to Select a Plastic Surgeon" coords="0,1,129,25" href="select_surgeon.cfm">
+<area alt="Cosmetic Surgery Imaging" coords="237,1,348,25" href="imaging.cfm">
+<area alt="Cosmetic Surgery Payment Options" coords="130,1,236,25" href="payment_options.cfm">
+<area alt="Cosmetic Surgery News" coords="349,1,470,25" href="news.cfm">
+</map>
+<br clear="left">
+		
+		<h1>Privacy</h1>
+		</td>
+	</tr>
+	</tbody></table>
+	
+</td>
+</tr>
+</tbody></table>
+		
+
+<table border="0" cellpadding="0" cellspacing="0" width="650">
+<tbody><tr>
+	<td width="178" valign="top">
+	<img src="/images/inside_boxtop.gif" width="178" height="2" alt="" border="0" hspace="0" vspace="0" align="right" valign="top">
+	<br>
+	
+	<div style="margin-left:3pt;">
+	<br>
+	<form name="myform" enctype="application/x-www-form-urlencoded" method="post" action="/email/default.cfm">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td bgcolor="#313C94" width="170" height="70" background="images/inside_oeback.gif">
+		<div style="color:FFFFFF; font-size:7pt; font-family:verdana,arial,helvetica,sans-serif; text-decoration:none; margin-left:8pt;"><strong>Online Exclusives Newsletter</strong>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td valign="top">
+	<input type="text" name="Email" value="Your email here" size="20" maxlength="96" required="yes" message="Please provide your email address!" onfocus="if(this.value=='Your email here')this.value='';" style="font-size:11px;">&nbsp;</td>
+		<td valign="bottom"><input type="image" src="images/go_arrow.gif" name="submit" value="Continue >>" onclick="return checkMe(this.form)"></td>
+	</tr>
+	</tbody></table>
+	
+		<input type="hidden" name="action" value="step2">
+	
+		<input type="hidden" name="rid" value="4">
+		<input type="hidden" name="sid" value="397">
+		<input type="hidden" name="complete" value="0">
+		<input type="hidden" name="sendback" value="http://www.personalimagecenters.com">
+<div style="color:FFFFFF; font-size:7pt; font-family:verdana,arial,helvetica,sans-serif;"><a href="/email_more.cfm" style="color:FFFFFF; text-decoration:none;">learn more...</a></div>
+		</div></td>
+	</tr>
+	</tbody></table>
+	</form>
+		
+	<a href="/privacy.cfm" style="text-decoration:none; font-size:7pt;">Privacy Policy</a><br>
+	<a href="/terms.cfm" style="text-decoration:none; font-size:7pt;">Terms of Use</a>
+	</div>
+	
+	</td>
+	<td width="2" valign="top"><img src="/images/inside_boxside.gif" width="2" height="300" alt="" border="0"></td>
+	<td width="470">
+	<div style="margin-left:10pt; margin-right:10pt;">
+	We know that you care how your personal information is used, and we respect the privacy of all our visitors.  It is our policy to not sell, rent, or loan  to third parties for any reason, any of the personal information you share at our site.<p></p>  
+
+	While information and special offers from our business partners may appear on our site or in our e-mail publications, you can rest assured that those partners were not given direct access to your personal information.<p></p>
+
+	Personal Image Centers is a network of Cosmetic Practices across the United States.  In some cases the information you provide online may be shared with our local centers to obtain answers to your questions or to bring you special offers in your area.  You'll find additional information about how the data you offer is used below.<p></p>
+	
+	
+<h2>Consultation Coupons</h2>
+We believe that there is no substitute for personal time with your surgeon.  We offer special coupons to online visitors good for a free consultation with a surgeon in your area (consults are usually at least $50).  When you request a coupon, you are asked to provide your name, e-mail address, phone number, and procedure of interest.  We send that information to our practice nearest you so that they know your coupon is valid and so they may discreetly contact you to help schedule your consultation.
+<p></p>
+
+<h2>Online Exclusives E-mail Newsletter</h2>
+Our Online Exclusives Newsletter is your inside ticket to the latest news and special offers from our centers and partners.  When you subscribe, you can set certain preferences, such as your Zip code and preferred procedures, to help us tailor messages to your location and interests.  You can change those preferences at any time.<p></p>
+
+It is our policy to send e-mail only those people who given us permission to do so.  Sometimes people subscribe for their friends, and while we cannot prevent that, each message sent includes an explanation of how you can unsubscribe.  If you choose to unsubscribe your name will be removed from our list immediately. <p></p>
+
+To manage your subscription, just enter your e-mail address in the "Online Exclusives Newsletter" form on the left and click the blue arrow.  There you can follow the simple instructions to change your preferences or unsubscribe.
+<p></p>
+
+<h2>Digital Imaging Orders</h2>
+Your digital imaging order is taken using the industry standard for secure server software (SSL).  It encrypts all of your financial information, including credit card information, so it can't be read as the information travels over the Internet. In order for SSL security to work, you must use an SSL-enabled browser.  When your order is ready, your digitally enhanced after photos are available to you in a password protected area.
+<p></p>
+
+<h2>Forms &amp; E-mail</h2>
+When you contact us using the forms or e-mail links at our site it is our policy to use the information provide in the spirit of your communication.  For example, if you write us with a question, we'll the information in your message to answer your question and nothing else.
+<p></p>
+
+
+
+
+If you have any concern about privacy at this site, please send a detailed description of your concern to <a href="mailto:info@personalimagecenters.com">info@personalimagecenters.com</a>, and we will try to resolve it. 
+<p></p>
+<br>
+<div align="center">
+<strong><a href="/cosmetic_surgery_locations.cfm" title="Cosmetic Surgery Locations" "="">Locations</a> :: <a href="/plastic_surgery.cfm" title="Cosmetic Plastic Surgery Procedures" "="">Procedures</a> :: <a href="/photos/" title="Cosmetic Surgery Before and After Photos" "="">Photos</a> :: <a href="/free_consultation.cfm" title="FREE Consultation">FREE Consultation</a></strong><a href="/free_consultation.cfm" title="FREE Consultation"> <br><br>
+</a><div style="font-size:7pt; font-family:verdana,arial,helvetica,sans-serif; text-decoration:none;"><a href="/free_consultation.cfm" title="FREE Consultation">Copyright © 2002 </a><a href="http://www.americanplasticsurgery.us" title="American Plastic Surgery, LLC">American Plastic Surgery, LLC</a></div><br>
+Please report your ideas to improve this site to <a href="mailto:webmaster@personalimagecenters.com">webmaster@personalimagecenters.com</a><br><br>
+</div>
+
+	</div>
+	<br>
+	</td>
+</tr>
+</tbody></table>
+
+
+
+
+</form></body></html>
