@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125100204id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209085837id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pazsaz Entertainment Network
 
-**Pazsaz Entertainment Network Privacy Policy** **Last Updated: January 1, 2002**
+**Pazsaz Entertainment Network Privacy Policy** **Last Updated: August 1, 2002**
 
 * * *
 
@@ -28,15 +28,9 @@ How the information we do collect is used:
 
 Other companies which place advertising or sell products on our site may collect information about you when you view or click on their advertising or content through the use of cookies. Cookies are small pieces of electronic information which a Web site can store on a visitor's hard drive for record-keeping purposes. Cookies allow Web site operators to "personalize" the site to match your individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. You can choose to set your browser to notify you whenever you are sent a cookie. This gives you the option to decide whether or not to accept a cookie. Due to the way the Internet technically operates, we cannot control this collection of information. You should contact these advertisers or merchandisers directly if you have any questions about their use of the information they collect. 
 
-**Please help support our site using the Amazon box below if you found this of worth to you!  
-See you at the movies, on TV, in the comics, at the video arcade, in a book, and on the radio!**  
----  
-|   
-[](http://www.moviegoods.com/?mgaid=RTB31068)  
-[](http://click.linksynergy.com/fs-bin/click?id=dHpKwhqLBFA&offerid=29776.10000007&type=4&subid=0) [](http://click.linksynergy.com/fs-bin/click?id=dHpKwhqLBFA&offerid=26018.10000017&type=4&subid=0) |  [](http://service.bfast.com/bfast/click?bfmid=30991737&siteid=39034592&bfpage=free_shipping) | [](http://affiliates.allposters.com/link/redirect.asp?aid=261824&parentaid=261824&c=c&search=&catupdate=) |  |  |   
----|---|---|---|---|---  
-| [](http://click.linksynergy.com/fs-bin/click?id=dHpKwhqLBFA&offerid=6555.10000052&type=4&subid=0) | [](http://click.linksynergy.com/fs-bin/click?id=dHpKwhqLBFA&offerid=10761.82&type=4&subid=0) | [](http://www.moviegoods.com/?mgaid=RTB31068) | [](http://click.linksynergy.com/fs-bin/click?id=dHpKwhqLBFA&offerid=35275.10000044&type=4&subid=0) | [](http://click.linksynergy.com/fs-bin/click?id=dHpKwhqLBFA&offerid=29744.10000129&subid=0&type=4) | [](http://click.linksynergy.com/fs-bin/click?id=dHpKwhqLBFA&offerid=35274.10000010&subid=0&type=4)  
----|---|---|---|---|---|---  
-[**Copyright and Disclaimer**](http://www.pazsaz.com/copyrght.html) | [**FAQ**](http://www.pazsaz.com/faq.html) | [**Privacy Policy**](http://www.pazsaz.com/privacy.html) | [**Credits**](http://www.pazsaz.com/thanks.html) | [**Site Reviews**](http://www.pazsaz.com/review.html) | [**Affiliations**](http://www.pazsaz.com/affliate.html) | [**Feedback**](mailto:webmaster@pazsaz.com)  
----|---|---|---|---|---|---  
+|  |   
+  
+---|---|---  
+|  [](http://service.bfast.com/bfast/click?bfmid=9613914&siteid=26650160&bfpage=download__play__burn)  
+---|---  
 **
