@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettemplate.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605194533id_/http%3A//gettemplate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettemplate.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211033552id_/http%3A//gettemplate.com/privacy.shtml) for the most accurate reproduction.*
 
 # gettemplate.com - get your new site layout in one click
 
