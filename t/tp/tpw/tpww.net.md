@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010051522id_/http%3A//www.tpww.net/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610002358id_/http%3A//www.tpww.net/misc/privacy.html) for the most accurate reproduction.*
 
-# TPWW.net - Privacy Statement
+# tpww.net - [ privacy policy ]
+
+**privacy statement**
 
 This policy is to show the privacy throughout our site. Once you click on a link or move to another site you will be subjected to a new policy.
-
-**Trackers**
-
-Our Web Trends Live Tracker collects information such as browser types, operating systems, domain names, IP Addresses, Host Addresses, and countries. This information is only used for statistical purposes and nothing else. For information on how this information is used, please visit Web Trends Live's [official site](http://www.webtrendslive.com/). 
 
 **Advertisements**
 
@@ -28,5 +26,5 @@ We do have a forum which allows people to have discussions. All information is o
 
 TPWW staff will never ask for personal information. Children under 13 years of age must have parent's permission. 
 
-  
-[](http://www.webtrendslive.com/redirect.asp?siteID=22493)
+**[[tpww.net](http://www.tpww.net/) | [send news/results](http://www.tpww.net/misc/sendresults.html) | [discuss](http://www.tpwwforums.com/) | [headlines](http://www.tpww.net/headlines/) ]**  
+
