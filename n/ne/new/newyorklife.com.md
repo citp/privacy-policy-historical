@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628032100id_/http%3A//www.newyorklife.com/NYL2/Group/0%2C1232%2C10564%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorklife.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002231741id_/http%3A//www.newyorklife.com/NYL2/Group/0%2C1232%2C10564%2C00.html) for the most accurate reproduction.*
 
-# New York Life - New York Life Privacy Policy
+# New York Life Privacy Policy
 
 New York Life Online Privacy Policy   
-(Effective as of February 20, 2002) 
+(Effective as of April 1, 2001) 
 
 We know that the privacy of your personal information is important to you. That's why the New York Life Family of Companies* wants you to know how we protect your privacy and the measures we take to safeguard your information. 
 
@@ -54,7 +54,7 @@ If you are a customer of the New York Life Family, and you use any of our servic
 We will follow the privacy law in your state if that law is different than the policy described in this notice.
 
 Keeping Up-To-Date With Our Privacy Policy  
-This privacy policy takes effect April 1, 2001. You can always review the current privacy policy from the front page of the site, www.newyorklife.com. 
+This privacy policy takes effect April 1, 2001. We reserve the right to change our privacy policy. You can always review the current privacy policy from the front page of the site, www.newyorklife.com. 
 
 * The New York Life Family of Companies (also referred to as "the New York Life Family," "we," "our," or "us" throughout this notice) currently includes the following affiliates and funds: 
 
