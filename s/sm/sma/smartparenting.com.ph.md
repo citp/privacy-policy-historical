@@ -1,28 +1,31 @@
-> *The following text is extracted and transformed from the smartparenting.com.ph privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603144606id_/http%3A//www.smartparenting.com.ph/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartparenting.com.ph privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603000346id_/http%3A//www.smartparenting.com.ph/about/privacy) for the most accurate reproduction.*
 
-# FemaleNetwork.com | Everything you need to know about us
+# FemaleNetwork.com | My life. My community.
 
   
-Our Privacy Policy
 
-**Your privacy**  
-At FemaleNetwork.com, we are committed to protecting your personal privacy. All the personal contact information you share with us is used strictly to enhance your FemaleNetwork.com experience. If you participate in contests or promotional features, only demographic information will be reported to the sponsors unless you specify your interest in receiving more information from the sponsors. 
 
-This document aims to answer all your questions about your activities on FemaleNetwork.com. Please read on for more details about our privacy policy. 
+**Our Privacy Policy**
+
+At FemaleNetwork.com, we are committed to protecting your privacy. All the personal information you share with us is used strictly to enhance your FemaleNetwork.com experience. If you participate in contests or promotional features, only demographic information will be reported to the sponsors unless you stated your interest in receiving more information from the sponsors. 
+
+This document will shed light on all your questions about your activities on FemaleNetwork.com. Please read on for more details about our privacy policy. 
 
 [INFORMATION](http://www.smartparenting.com.ph/about/privacy/#collectinfo) | [SPONSOR SERVICES](http://www.smartparenting.com.ph/about/privacy/#sponsor) | [TEENS](http://www.smartparenting.com.ph/about/privacy/#teens) | [PROTECTING YOUR INFO](http://www.smartparenting.com.ph/about/privacy/#protectinfo) |  
 [COOKIES](http://www.smartparenting.com.ph/about/privacy/#cookies) | [THIRD PARTIES](http://www.smartparenting.com.ph/about/privacy/#outside) | [UPDATING INFORMATION](http://www.smartparenting.com.ph/about/privacy/#update) | [SUMMARY](http://www.smartparenting.com.ph/about/privacy/#summary) | [YOUR CONSENT](http://www.smartparenting.com.ph/about/privacy/#consent) | [FEEDBACK](http://www.smartparenting.com.ph/about/privacy/#feedback)
 
 **What information do we collect? How do we use it?**  
-1\. When you register to become a FemaleNetwork.com member, we ask for your name, gender, birthday, marital status, educational attainment, location, occupation, and name of school/employer. We also ask you to answer some simple questions about your lifestyle and personal preferences, such as Internet usage and hobbies. We use this information to create a profile of our members that will guide us in developing our features and services. This profile will be presented as general demographics in our media kit and other advertising materials. We do not sell, trade, or rent your personal information to others. We only provide personal information to sponsors if you specify your interest in receiving information from the sponsors. 
+1\. When you register to become a FemaleNetwork.com member, we ask for your name, gender, birthday, marital status, educational attainment, location, occupation, and name of school/employer. We also ask you to answer some simple questions about your lifestyle and personal preferences, such as Internet usage and hobbies. We use this information to create a profile of our members that will help us develop our features and services. This profile will be presented as general demographics in our media kit and other advertising materials. We do not sell, trade, or rent your personal information to others. We only provide personal information to sponsors if you specify your interest in receiving information from the sponsors. 
 
-2\. When you subscribe to any of our newsletters (FeMAIL, Sweet Reminders, etc.), all we need is your email address—which we use to send the newsletter you requested. 
+2\. When you subscribe to any of our newsletters (Femail, Sweet Reminders, etc.), all we need is your email address, which is used to send your chosen newsletter. 
 
-3\. To create topics and post messages in GIRLtalk, our message boards, you must already be a registered FemaleNetwork.com member. Your username is displayed with every message you post. Other members of the FemaleNetwork.com community may send you email-your username will appear as a hyperlink to your email address. When you register, you may indicate that you choose not to have your email address appear as a hyperlink. ([Read the complete GIRLtalk house rules](http://www.smartparenting.com.ph/about/privacy/bbsrules.html).) 
+3\. To create topics and post messages in GIRLTalk, our message boards, you should be a registered FemaleNetwork.com member. Your username is displayed with every message you post. Other members of the FemaleNetwork.com community may send you email. Your username serves as a hyperlink to your email address. When you register, you may choose not to have your email address appear as a hyperlink. ([Read the complete GIRLtalk house rules](http://www.smartparenting.com.ph/about/privacy/bbsrules.html).) 
 
-We may republish your GIRLtalk posts to enrich FemaleNetwork.com content. If we do so, we will notify you. Republished posts will be identified only by usernames. No other identifying information will be supplied. We promise to be very sensitive in this effort. ([See details on republication of GIRLtalk posts](http://www.smartparenting.com.ph/about/privacy/bbsrules.html).) 
+We may republish your GIRLTalk posts to enrich FemaleNetwork.com content. If we do so, we will notify you. Republished posts will be identified only by usernames alone. We promise to be very sensitive in this effort. ([See details on republication of GIRLtalk posts](http://www.smartparenting.com.ph/about/privacy/bbsrules.html).) 
 
-4\. To enter a contest or promotion, you must already be a registered FemaleNetwork.com member. We use your personal information to administer the contest and notify the winners. Female-friendly companies and retail stores sponsor our contests. Contest sponsors will be authorized to access Contest Reports that may contain the following: contest statistics (total number of participants and date joined); contest results (list of winners and tabulation of answers); and participant demographics (such as age and gender). On the Contest Central homepage as well as in your personal Member Profile page, we provide the option to receive more information from the sponsor. You will receive such information only if you choose to. 
+4\. To enter a contest or promotion, you must be a registered FemaleNetwork.com member. We use your personal information to administer the contest and notify the winners. 
+
+Female-friendly companies and retail stores sponsor our contests. Contest sponsors will be authorized to access Contest Reports that may contain the following: contest statistics (total number of participants and date joined); contest results (list of winners and tabulation of answers); and participant demographics (such as age and gender). On the Contest Central homepage as well as in your personal Member Profile page, we provide the option to receive more information from the sponsor. You will receive such information only if you choose to. 
 
 5\. We may also use the information we collect to occasionally notify you about important functionality changes to our website, new services, and special offers we think you'll find valuable. If you would rather not receive this information, visit your personal Member Profile page to change your preferences. Make sure to change your preferences for each account or email address you have left with us. 
 
@@ -40,19 +43,19 @@ Surveys are open to all interested FemaleNetwork.com members. Sponsors will be a
 [](http://www.smartparenting.com.ph/about/privacy/#TOP)
 
 **Teens on FemaleNetwork.com**  
-FemaleNetwork.com is the home of Candymag.com, a website for teen girls. We take special precautions in protecting the privacy our young readers. While we expect parents to give their children a talk on staying safe on the Internet and constant guidance, we also take active steps to educate and protect our young members. We provide informative feature articles on the subject of online safety and set up strict rules for their online community. We never censor discussion on GIRLtalk or in the chatrooms; however, we do monitor them closely for offensive, abusive, and threatening messages. We also provide "hotlines" (by telephone, fax, Web, and email) that are dedicated to assisting and guiding our young members. 
+FemaleNetwork.com is the home of Candymag.com, a website for teen girls. We take special precautions in protecting the privacy of our young readers. While we expect parents to talk to their children about staying safe on the Internet and to provide constant guidance, we also take active steps to educate and protect our young members. We provide informative feature articles on the subject of online safety and set up strict rules for their online community. We never censor discussion on GIRLTalk or in the chatrooms; however, we do monitor them closely for offensive, abusive, and threatening messages. We also provide "hotlines" (by telephone, fax, Web and email) that are dedicated to assisting and guiding our young members. 
 
 (Are you a teen? [Read "CyberSafety](http://www.smartparenting.com.ph/about/privacy/safety.html)," a primer on protecting yourself on the Internet.) 
 
 [](http://www.smartparenting.com.ph/about/privacy/#TOP)
 
 **How does FemaleNetwork.com protect member information?**  
-All of the member data we collect is protected against unauthorized access. We also implement every possible measure to safeguard our servers from illegal intrusions. Members have the option to display information contained in their personal member profile. 
+The member data we collect are protected against unauthorized access. We also implement every possible measure to safeguard our servers from illegal intrusions. Members have the option to display information contained in their personal member profile. 
 
 [](http://www.smartparenting.com.ph/about/privacy/#TOP)
 
 **What about "cookies"?**  
-Aside from being delicious little goodies, "cookies" are small pieces of information that are stored by your browser on your computer's hard drive. If you are a registered member, our cookies will remember your computer so that you need not log in each time you visit FemaleNetwork.com. Your computer identity is the only information stored in our cookies. Most Web browsers automatically accept cookies, but you can usually program your browser to prevent that. If you refuse the cookie, you will simply have to log in to FemaleNetwork.com each time you visit to enjoy your member benefits completely. 
+Aside from being delicious little goodies, "cookies" are small pieces of information that are stored by your browser on your computer's hard drive. If you are a registered member, our cookies will remember your computer so that you don't need to log in each time you visit FemaleNetwork.com. Your computer identity is the only information stored in our cookies. Most Web browsers automatically accept cookies, but you can usually program your browser to prevent that. If you refuse the cookie, you will simply have to log in to FemaleNetwork.com each time you visit to enjoy your member benefits completely. 
 
 [](http://www.smartparenting.com.ph/about/privacy/#TOP)
 
@@ -79,4 +82,4 @@ By using our website, you consent to the collection and use of this information 
 [](http://www.smartparenting.com.ph/about/privacy/#TOP)
 
 **Tell us what you think**  
-FemaleNetwork.com welcomes your questions and comments about privacy. Please send email to [feedback@femalenetwork.com](mailto:feedback@femalenetwork.com). 
+FemaleNetwork.com welcomes your questions and comments about privacy. Please send email to [feedback@femalenetwork.com](mailto:feedback@femalenetwork.com).
