@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205235854id_/http%3A//www.babynames.com/V5/index.php%3Fcontent%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306194234id_/http%3A//www.babynames.com/V5/privacy.php) for the most accurate reproduction.*
 
-# BABYNAMES.COM - Baby Names! Baby Names! Baby Names! Naming the World, One Baby at a Time.
+# BabyNames.com: Your Privacy
 
 >   **BABYNAMES.COM PRIVACY POLICY**
 > 
-> **BabyNames.com** has created this statement in order to demonstrate our firm commitment to protecting the privacy of our visitors. The following summarizes our information-gathering and dissemination practices for our website:
+> **BabyNames.com** has created this statement in order to demonstrate our firm commitment to protecting the privacy of our visitors. The following summarizes our information-gathering and dissemination practices for our website: 
+> 
+> **BABYNAMES.COM ENTITY**  
+>  BabyNames.com is a product of **BABYNAMES.COM, LLC** , a California Limited Liability Partnership. 
 > 
 > **BABYNAMES.COM OPT-IN MAILING LIST**  
 >  If you sign up or "opt-in" to the BabyNames.com Mailing List, you will receive the quarterly BabyNames.com Newsletter and special discounts and offers from our partners. 
