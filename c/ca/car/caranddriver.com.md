@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caranddriver.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601231744id_/http%3A//aboutus.hfnm.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caranddriver.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206064451id_/http%3A//aboutus.hfnm.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
