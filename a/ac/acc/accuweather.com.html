@@ -1,557 +1,692 @@
-<!--The following is the downloaded HTML source of the accuweather.com privacy policy that was archived on 2002-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215154401id_/http%3A//www.accuweather.com/adcbin/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accuweather.com privacy policy that was archived on 2005-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050406073646id_/http%3A//wwwa.accuweather.com/adcbin/public/privacy.asp%3Fpartner%3Daccuweather) for the most accurate reproduction.-->
 
 <html><head>
-<title>Privacy Statement</title>
-<script language="JavaScript">
-<!--
-function accuhelpWin(){
-window.open("","accuHelp","toolbar=no,location=no,directories=no,status=yes,menubar=yes," +
-	"scrollbars=yes,copyhistory=no,resizable=no,width=467,height=420");
-}
-noad=0;
-adc_partner = "accuweather";
-kv_in = "";
- function setSessCookie(){
-    var sesstime = new Date();
-    var ckeVal = sesstime.getTime();
-    document.cookie = 'sesstime=' +ckeVal+ ';path=/;domain=.accuweather.com';
-  }
+   <title>AccuWeather.com Privacy Statement</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <script> var partHot = 0; </script><script> var traveler = 0; </script><meta http-equiv="Set-Cookie" content="partner=accuweather;path=/;domain=.accuweather.com;">
 
-function setCookie (name, value, expires, path, domain, secure) {
-// removed the escape off the value
-      document.cookie = name + "=" + value +
-        ((expires) ? "; expires=" + expires : "") +
-        ((path) ? "; path=" + path : "") +
-        ((domain) ? "; domain=" + domain : "") +
-        ((secure) ? "; secure" : "");
-}
+   <link rel="StyleSheet" href="http://vortex.accuweather.com/phoenix2/includes/adc/css/adc.css" type="text/css" media="screen">
+   <link rel="StyleSheet" href="http://vortex.accuweather.com/phoenix2/includes/adc/css/nav.css" type="text/css" media="screen">
+   <script language="javascript" type="text/javascript" src="http://vortex.accuweather.com/phoenix2/includes/adc/javascript/nav.js"></script>
 
- function getSesCookie(ckename) {
-     var begIdx;
-     var endIdx;
-     var cookVal = document.cookie;
-     var rtnVal;
-     if (document.cookie.length > 0)
-         {
-            begIdx = cookVal.indexOf(" " +ckename+ "=");
-            if (begIdx < 0)
-                begIdx = cookVal.indexOf(ckename+ "=");
-            if (begIdx < 0)
-                rtnVal = 0;
-            else
-                {
-                   begIdx=cookVal.indexOf("=",begIdx) + 1;
-                   endIdx=cookVal.indexOf(";",begIdx);
-                   if (endIdx == -1)
-                      endIdx = cookVal.length;
-                   rtnVal =cookVal.substring(begIdx,endIdx);
-                }
-           }
-     else
-            rtnVal = 0;
-    return rtnVal;
-   }
-var beg = new Date();
-var curtime=beg.getTime();
-var session = parseInt(getSesCookie("sesstime"));
-var popup=0;
-var ord = curtime;
-
- if (session == 0)
-  {
-    setSessCookie();
-    popup = 1;
-  }
-  else
-    if ((curtime - session) > 900000)
-     {
-       setSessCookie();
-       popup = 1;
-
-     }
-
-var partArr = new Array();
-var maxPart = 1;
-var partCtr;
-partArr[0] = "espn";
-
-for (partCtr=0;partCtr<maxPart;partCtr++)
-  if (partArr[partCtr] == adc_partner)
-     popup = 0;
-
-// cke_adc6 currently has unique user mth|
-var cke_adc6 = new String(getSesCookie("adc6"));
-var splitcookie = 0;
-var setcke = 1;
-var cnt = 1;
-var numParts;
-var current_mth = beg.getMonth() + 1;
-var mth = current_mth;
-
-if (cke_adc6 != "\0")
-  splitcookie = 1;
-
-if (splitcookie == 1)
-  {
-    var adc6Array = cke_adc6.split("|");
-    if ( parseInt(adc6Array[0]) != current_mth )
-      {
-        document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa199/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
-	//document.write("New user for this month.");
-	//document.write("The value of cke_adc6 is " + cke_adc6 );
-	createCookie();
-      }
-    //document.write("Not a new user for this month.");
-  }
-else
-  {
-    createCookie(); 
-    document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa199/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
-    //document.write("New user first time visit our page.");
-  }
-
-function createCookie()
-{
-   beg.setFullYear(beg.getFullYear()+1);
-   var adc6Val = mth + '|';
-   if (cke_adc6 != 0)
-     {
-       numParts = adc6Array.length;
-       while (cnt < numParts - 1)
-         adc6Val = adc6Val + adc6Array[cnt++] + '|';
-     }
-   setCookie ("adc6", adc6Val,beg.toGMTString(), "/", ".accuweather.com");
-   //document.write("cke 'adc6' set to " + adc6Val);
-}
-
-// -->
-</script> </head><body text="#000000" link="#003366" vlink="#666666" alink="#990000" bgcolor="#ffffff"><img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa199/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">
-
-<script language="JavaScript">
-<!--
-//configuration
-OAS_url = 'http://coriolis.accuweather.com/RealMedia/ads/';
-OAS_sitepage = 'accuweather.com/';
-if (popup == 0)
-   OAS_listpos = "x01";
-else
-   OAS_listpos = "x01,x07,x08";
-OAS_query ="zc=&adc_partner=accuweather&state=&metrocode=";
-OAS_target = '_top';
-//end of configuration
-OAS_version = 10;
-OAS_rn = '001234567890'; OAS_rns = '1234567890';
-OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2,11);
-function OAS_NORMAL(pos) {
-        document.write('<A HREF="'+OAS_url+'click_nx.ads/'+OAS_sitepage+'/1' +OAS_rns+ '@' + OAS_listpos+ '!' +pos+'?' +OAS_query+'"TARGET=' +OAS_target+'>');
-        document.write('<IMG SRC="'+OAS_url+ 'adstream_nx.ads/' +OAS_sitepage+'/1' +OAS_rns+ '@' +OAS_listpos+ '!'+pos+ '?' +OAS_query+ '" BORDER=0></A>');
-  }
-//-->
-</script>
-<script language="JavaScript1.1">
-<!--
-OAS_version=11;
-if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
-   OAS_version=10;
-if (OAS_version >= 11)
-   document.write ('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="' +OAS_url+ 'adstream_mjx.ads/' +OAS_sitepage+ '/1' +OAS_rns+ '@' +OAS_listpos+ '?' +OAS_query+ '"><\/SCRIPT>');
-//-->
-</script><script language="JavaScript1.1" src="http://coriolis.accuweather.com/RealMedia/ads/adstream_mjx.ads/accuweather.com//1188233636@x01,x07,x08?zc=&amp;adc_partner=accuweather&amp;state=&amp;metrocode="></script>
-<script language="JavaScript">
-<!--
-function OAS_AD(pos) {
-  if (OAS_version >= 11)
-    OAS_RICH(pos);
-  else
-    OAS_NORMAL(pos);
- }
-//-->
-</script>
-
-<!-- code formatted for fixed width font -->
-
-<script language="Javascript">
-<!--
-var clck=0;
-// --->
-</script>
-<!------ ------->
-<!-- Table 1  -->
-<!-- Ad Table -->
-<!-------------->
-<!-- (AX27) accuweather 15-DEC-2002 15:43:59.63 -->
-<table border="0" cellspacing="0" cellpadding="0" width="760" height="60">
-	<tbody><tr>
-		<td width="270" height="60">
-<!-- saved from url=(0022)http://internet.e-mail -->
-<script language="Javascript">
-<!--
-
-var pick1;
-var pick2;
-var pickedimage = 0; //flag to determined if displayed
-var begin = new Date();
-var startYear = new Date("January 1, 1970");
-startYear.setYear(begin.getYear());
-var rand1 = (begin.getTime() - startYear.getTime());
-
-var maxLinks;           // used for normal accuweather rotation
-var gUrl = new Array();
-var lUrl = new Array();
-var spotlight = new Array();
-var altimage = new Array();
-
-
-maxLinks=27;
-
-gUrl[0] = "http://vortex.accuweather.com/iwxpage/adc/ads/ACCUMALL_258X60.GIF"
-lUrl[0] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA326/BLUE.GIF|http://www.accumall.com";
-spotlight[0] = 325;
-altimage[0] = "Local Weather Forecast Items";
-
-gUrl[1] = "http://vortex.accuweather.com/iwxpage/adc/ads/STORE_COMFORTMINDER_258X60.GIF"
-lUrl[1] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA330/BLUE.GIF|http://www.accumall.com"; 
-spotlight[1] = 329;
-altimage[1] = "Local Weather Forecast Items";
-
-gUrl[2] = "http://vortex.accuweather.com/iwxpage/adc/ads/STORE_SAILBOAT_258X60.GIF"
-lUrl[2] ="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA334/BLUE.GIF|http://www.accumall.com";
-spotlight[2] = 333;
-altimage[2] = "Local Weather Forecast Items";
-
-gUrl[3] = "http://vortex.accuweather.com/iwxpage/adc/ads/STORE_SUNFACE_258X60.GIF"
-lUrl[3] ="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA338/BLUE.GIF|http://www.accumall.com"; 
-spotlight[3] = 337;
-altimage[3] = "Local Weather Forecast Items";
-
-gUrl[4] = "http://vortex.accuweather.com/iwxpage/adc/ads/STORE_WINDMETER_258X60.GIF"
-lUrl[4] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA342/BLUE.GIF|http://www.accumall.com";
-spotlight[4] = 341;
-altimage[4] = "Local Weather Forecast Items";
-
-gUrl[5] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD1_258X60.GIF"
-lUrl[5] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA346/BLUE.GIF|http://www.accumall.com";
-spotlight[5] = 345;
-altimage[5] = "Local Weather Forecast Items";
-
-gUrl[6] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD2_258X60.GIF"
-lUrl[6] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA348/BLUE.GIF|http://www.accumall.com";
-spotlight[6] = 347;
-altimage[6] = "Local Weather Forecast Items";
-
-gUrl[7] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD3_258X60.GIF"
-lUrl[7] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA350/BLUE.GIF|http://www.accumall.com";
-spotlight[7] = 349;
-altimage[7] = "Local Weather Forecast Items";
-
-gUrl[8] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD4_258X60.GIF"
-lUrl[8] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA352/BLUE.GIF|http://www.accumall.com";
-spotlight[8] = 351;
-altimage[8] = "Local Weather Forecast Items";
-
-gUrl[9] = "http://vortex.accuweather.com/iwxpage/adc/ads/AD5_258X60.GIF"
-lUrl[9] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA354/BLUE.GIF|http://www.accumall.com";
-spotlight[9] = 353;
-altimage[9] = "Local Weather Forecast Items";
-
-gUrl[10] = "http://vortex.accuweather.com/iwxpage/adc/ads/DESKTOP_258X60.GIF"
-lUrl[10] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA273/BLUE.GIF|http://desktop.accuweather.com";
-spotlight[10] = 272;
-altimage[10] = "Local Weather Forecast Doppler Radar Desktop";
-
-gUrl[11] = "http://vortex.accuweather.com/iwxpage/adc/ads/mobile_258X60.GIF"
-lUrl[11] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA275/BLUE.GIF|http://wwwa.accuweather.com/iwxpage/adc/mobile/index.htm";
-spotlight[11] = 274;
-altimage[11] = "Local Weather Forecast to PDA";
-
-gUrl[12] = "http://vortex.accuweather.com/iwxpage/adc/ads/SEVEREWX_258X60.GIF"
-lUrl[12] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA277/BLUE.GIF|http://www.accuweather.com/adcbin/severe_storms%3fnav=home";
-spotlight[12] = 276;
-altimage[12] = "Severe Weather Doppler Radar Satellites"
-
-gUrl[13] = "http://vortex.accuweather.com/iwxpage/adc/ads/ALERT1_258X60.GIF"
-lUrl[13] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA279/BLUE.GIF|http://alert.accuweather.com";
-spotlight[13] = 278;
-altimage[13] = "Forecast Emailed Severe Weather Bullitins";
-
-gUrl[14] = "http://vortex.accuweather.com/iwxpage/adc/ads/ALERT2_258X60.GIF"
-lUrl[14] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA281/BLUE.GIF|http://alert.accuweather.com";
-spotlight[14] = 280;
-altimage[14] = "Forecast Emailed Severe Weather Bullitins";
-
-gUrl[15] = "http://vortex.accuweather.com/iwxpage/adc/ads/prem_258.gif"
-lUrl[15] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA283/BLUE.GIF|http://www.accuweather.com/adcbin/premium";
-spotlight[15] = 282;
-altimage[15] = "Local Weather Forecasts Doppler Radar";
-
-gUrl[16] = "http://vortex.accuweather.com/iwxpage/adc/ads/PREMIUM_258X60V2.GIF"
-lUrl[16] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA285/BLUE.GIF|http://www.accuweather.com/adcbin/premium";
-spotlight[16] = 284;
-altimage[16] = "Local Weather Forecasts Doppler Radar";
-
-gUrl[17] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60.gif"
-lUrl[17] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA287/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-spotlight[17] = 286;
-altimage[17] = "Local Weather Video Cameras";
-
-gUrl[18] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_buffalo.gif"
-lUrl[18] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA289/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-spotlight[18] = 288;
-altimage[18] = "Local Buffalo NY Weather Video";
-
-gUrl[19] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_chicago.gif"
-lUrl[19] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA291/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-spotlight[19] = 290;
-altimage[19] = "Local Chicago IL Weather Video";
-
-gUrl[20] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_newyork.gif"
-lUrl[20] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA293/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-spotlight[20] = 292;
-altimage[20] = "Local New York NY Weather Video";
-
-gUrl[21] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_palm.gif"
-lUrl[21] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA295/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-spotlight[21] = 294;
-altimage[21] = "Local Miami Orlando Islamorada Florida Weather Videos";
-
-gUrl[22] = "http://vortex.accuweather.com/iwxpage/adc/ads/isight_258x60_sedona.gif"
-lUrl[22] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA297/BLUE.GIF|http://www.accuweather.com/adcbin/isight_video.asp?nav=video";
-spotlight[22] = 296;
-altimage[22] = "Local Sedona AZ Weather Video";
-
-gUrl[23]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_1.gif"
-lUrl[23] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA229/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/promo/";
-spotlight[23] = 225;
-altimage[23] = "Local Weather Forecast Doppler Radar";
-
-gUrl[24]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_2.gif"
-lUrl[24] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA230/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/promo/";
-spotlight[24] = 226;
-altimage[24] = "Local Weather Forecast Doppler Radar";
-
-gUrl[25]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_3.gif"
-lUrl[25] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA231/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/promo/";
-spotlight[25] = 227;
-altimage[25] = "Local Weather Forecast Doppler Radar";
-
-gUrl[26]="http://vortex.accuweather.com/iwxpage/adc/ads/bookmark_258x60_4.gif"
-lUrl[26] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA232/BLUE.GIF|http://www.accuweather.com/iwxpage/adc/popup/promo/";
-spotlight[26] = 228;
-altimage[26] = "Local Weather Forecast Doppler Radar";
-
-
-// sets up the area to be displayed
-pick1 = rand1 % 1000;
-
-//if (pick1 > 899) pick2 = rand1 % 4 + 14;
-//if ((pick1 > 799) && (pick1 < 900)) pick2 = rand1 % 6 + 8;
-//if ((pick1 > 649) && (pick1 < 800)) pick2 = rand1 % 2 + 6;
-//if ((pick1 > 549) && (pick1 < 650)) pick2 = rand1 % 2 + 4;
-//if ((pick1 > 499) && (pick1 < 550)) pick2 = 3;
-//if ((pick1 > 399) && (pick1 < 500)) pick2 = 2;
-//if ((pick1 > 199) && (pick1 < 400)) pick2 = 1;
-//if (pick1 < 200) pick2 = 0;
-
-if (pick1 >= 500) 
-    pick2 = rand1 % 10;
-else
-{
-    if ( pick1 >= 450 )
-	pick2 = rand1 % 4 + 23;
-    if ( ( pick1 < 450 ) && ( pick1 >= 400 ) )
-	pick2 = rand1 % 6 + 17;
-    if ( ( pick1 < 400 ) && ( pick1 >= 325 ) )
-	pick2 = rand1 % 2 + 15;
-    if ( ( pick1 < 325 ) && ( pick1 >= 275 ) )
-	pick2 = rand1 % 2 + 13;
-    if ( ( pick1 < 275 ) && ( pick1 >= 225 ) )
-	pick2 = 12;
-    if ( ( pick1 < 225 ) && ( pick1 >= 150 ) )
-	pick2 = 11;
-    if ( pick1 < 150 )
-	pick2 = 10; 
-}
-//  special garden area ad
-//if ((noad == 0) && (kv_in == 'garden') && (adc_partner == 'accuweather'))
-// {
-//    gUrl[0]="http://vortex.accuweather.com/iwxpage/adc/ads/allegra_Sunburned_258x60.gif";
-//    lUrl[0] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA26/BLUE.GIF|http://www.allegra.com/seasonal-allergy-site.jsp?bi=982-5786-2516-5";
+   <!-- setup standard JavaScript for all pages -->
    
-//    gUrl[1]="http://vortex.accuweather.com/iwxpage/adc/ads/allegra_Bee_258x60.gif";
-//    lUrl[1] = "http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA26/BLUE.GIF|http://www.allegra.com/pollen_map.jsp?bi=982-5786-2516-5";
 
-//    if (pick1 < 500)
-//       pick2 = 0;
-//    else
-//       pick2 = 1;
-    
-//    document.write('<a href="' +lUrl[pick2]+'&mpt='+ord+'" >\n');
-//    document.write('<img src="' +gUrl[pick2]+'?mpt='+ord+'" height="60" width="258" alt="Allegra.com" border="0" ></a>\n')
-//    document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa25/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n')
-//    pickedimage = 1;
-// }
+<script language="JavaScript" type="text/javascript">
+   var adc_pageopt='privacy';
+   var noad = 0;
+   var partnername = 'accuweather';
+   var kv_in = 'home';
+   var google_tod = "";
+   var google_ton = "";
+   var google_tom = "";
+   var google_htmp = "";
+   var google_ltmp = "";
+   var adcookiedata = "";
+   var citystateReq = 0;
 
-if (pickedimage == 0)
- {
-      // go to normal ad rotation
-   if ((pick2 == 15) || (pick2 == 16))
-     {
-       if (noad == 1)
-         pick2 = 14;
-       else
-        {
-          function premiumWin258()
+ adcookiedata = "";
+
+   var mep1='&adc_partner=accuweather&interest=home&page=home/privacy&zc=' +adcookiedata+ '&metrocode=';
+
+   var state = '&city=';
+   var metrocode = '';
+   var navigationpage = 'home/privacy';
+   var totalPageAds = 2;
+   var adPos1 = "x01";
+   var adPos2 = "";
+   var adPos3;
+   var adPos4;
+   var adPos5;
+   var adPospop = 'x07';
+
+   
+   adPos2 = 'x04';
+   
+</script>
+<script language="JavaScript" type="text/javascript" src="/phoenix2/includes/adc/javascript/adc_v1.js"></script>
+
+  <script language="javascript" type="text/javascript" src="/phoenix2/includes/adc/javascript/adc_ads.js"></script>
+
+<script language="JavaScript" src="http://a248.e.akamai.net/7/836/1132/102403/accuweather.247realmedia.com/scripts/accuweather_if.js"></script>
+
+
+      <script language="JavaScript" type="text/javascript">
+      <!--
+         if (noad == 0)
            {
-             window.open("","premium258","toolbar=no,location=no,directories=no,status=yes,menubar=no," + "scrollbars=yes,copyhistory=no,resizable=yes,width=615,height=420");
+             OAS_version=11;
+             if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))
+                OAS_version=10;
+             if (OAS_version >= 11)
+                document.write ('<SCR'+'IPT language="JavaScript" type="text/javascript" SRC="' +OAS_url+ 'adstream_mjx.ads/' +OAS_sitepage+ '/1' +OAS_rns+ '@' +OAS_listpos+ '?' +OAS_query+ '"><\/SCRIPT>');
            }
-          document.write('<a href="' +lUrl[pick2]+'" onclick="premiumWin258()" target=premium258 >\n');
-          document.write('<img src="' +gUrl[pick2]+'" \n');
-          document.write('height="60" width="258" alt="'+altimage[pick2]+'" border="0"></a>\n')
-          document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa' +spotlight[pick2]+'/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
-          pickedimage = 1;
-        }
-     }
-   if ((pick2 > 22) && (pick2 < 27))
-     {
-       function BookmarkWin()
-        {
-          window.open("","Bookmark","toolbar=no,location=no,directories=no,status=yes,menubar=no," + "scrollbars=yes,copyhistory=no,resizable=yes,width=615,height=420");
-        }
-       document.write('<a href="' +lUrl[pick2]+'" onclick="BookmarkWin()" target=Bookmark>\n');
-       document.write('<img src="' +gUrl[pick2]+'" \n');
-       document.write('height="60" width="258" alt="'+altimage[pick2]+'" border="0"></a>\n')
-       document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa' +spotlight[pick2]+'/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
-       pickedimage = 1;
-     }
+      //-->
+      </script>
 
-   if (pickedimage == 0)
-     {
-       document.write('<a href="' +lUrl[pick2]+'"  >\n');
-       document.write('<img src="' +gUrl[pick2]+'" \n');
-       document.write('height="60" width="258" alt="'+altimage[pick2]+'" border="0" ></a>\n');
-       document.write(' <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa' +spotlight[pick2]+'/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">\n');
+      <script language="JavaScript" type="text/javascript">
+      <!--
+      function OAS_AD(pos) {
+        if (OAS_version >= 11)
+           OAS_RICH(pos);
+        else
+           OAS_NORMAL(pos);
+       }
+       //-->
+      </script>
 
-     }
- }
-// -->
-</script><a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA346/BLUE.GIF|http://www.accumall.com">
-<img src="http://vortex.accuweather.com/iwxpage/adc/ads/AD1_258X60.GIF" height="60" width="258" alt="Local Weather Forecast Items" border="0"></a>
- <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa345/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">
+   <!-- custom JavaScript for the page -->
+</head>
+
+<body bgcolor="#F2F0EC" topmargin="0" marginheight="0" link="#000099" leftmargin="0" marginwidth="0">
+
+<!------------------------>
+<!-- partner header ------>
+<!------------------------>
+
+<!------------------------>
+<!-- end partner header -->
+<!------------------------>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<!------------------------------->
+<!-- ADC Header include --------->
+<!------------------------------->
+<tbody><tr>
+   <td valign="top">
+      <table border="0" cellpadding="0" cellspacing="0" height="60">
+      <tbody><tr>
+         <td height="44">
+            <a href="http://wwwa.accuweather.com/adcbin/public/index.asp?partner=accuweather"><img src="http://vortex.accuweather.com/phoenix2/images/common/misc/accuweather_head_506x44.jpg" border="0" width="506" height="44" alt="AccuWeather.com® - The Best Weather on the Web"></a><br>
+         </td>
+      </tr>
+      <tr>
+         <td height="16" valign="top" background="http://vortex.accuweather.com/phoenix2/images/common/misc/accuweather_head_bg.gif" class="adcNavText2"><b>The Best Weather on the Web(TM)</b></td>
+      </tr>
+      </tbody></table>
+   </td>
+   <td>
+      <nobr>
+      <!-- Begin Partner Logo section -->
+      <a href="http://landingstrip.dell.com/landingstrip/ls.asp?CID=6905&amp;LID=192878&amp;DGC=BA&amp;DGStor=DHS&amp;DGSite=AWC&amp;Conum=19&amp;K=6VP11&amp;DURL=http://www1.us.dell.com/content/topics/segtopic.aspx/odg_special49?c%3Dus%26cs%3D19%26l%3Den%26s%3Ddhs" target="window">
+<img src="http://vortex.accuweather.com/phoenix2/images/adc/ads/30off_4-6_234x60.gif" height="60" width="234" alt="Click Here!" border="0"></a>
+ <img alt=" " src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qxa1000/adc/index.asp/flasher.gif?partner=accuweather" height="1" width="1">
 
 <noscript>
-<a href="http://www.accuweather.com/adcbin/local_index.asp?nav=home">
-<img src="http://vortex.accuweather.com/iwxpage/adc/ads/in_house/258x60_see_it_now/15_day_thanks.gif"
-height="60" width="258" alt="AccuWeather.com" border="0" ></a>
+<a href="http://spotlight.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA819/BLUE.GIF|wwwa.accuweather.com/adcbin/public/weatherhost.asp">
+<img src="http://vortex.accuweather.com/phoenix2/images/adc/ads/234x60_wxhost.gif" height="60" width="234" alt="AccuWeather.com" border="0" ></a>
 </noscript>
-</td>
-		<td width="22" height="60">
-		   <img src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qx06/adc/privacy.asp/flasher.gif?partner=accuweather&amp;x=AX27" height="22" width="10">
-		</td><td width="468" height="60">
+
+      <!--  End Parter Logo section (0) -->
+      </nobr>
+   </td>
+</tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">
+
+<!------------------------------->
+<!-- end of ADC Header include -->
+<!------------------------------->
+
+<tbody><tr valign="top">
+   <!--------------------->
+   <!-- left navigation -->
+   <!--------------------->
+   <td rowspan="8" valign="top" bgcolor="#446483">
+      <!-- ADC left nav top include -->
+          <table cellspacing="0" cellpadding="0" width="106">
+	  <tbody><tr class="adcNavHiliteRow" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/index.asp?partner=accuweather&quot;)">
+         <td class="adcNavHilite"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/index.asp?partner=accuweather">Home Page</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/local_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/local_index.asp?partner=accuweather">Local Forecast</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/radar_menu.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/radar_menu.asp?partner=accuweather">Radar</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/sat_menu.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/sat_menu.asp?partner=accuweather">Satellite</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/hbh_local.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/hbh_local.asp?partner=accuweather">Hour-by-Hour</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/maps_menu.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/maps_menu.asp?partner=accuweather">Weather Maps</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/severe_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/severe_index.asp?partner=accuweather">Severe Weather</a></div></td>
+      </tr><tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/winter_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/winter_index.asp?partner=accuweather">Winter Center</a></div></td>
+      </tr>
+      <tr class="adcNavRowLightBlue">
+         <td class="adcNavLightBlue" onclick="go(&quot;http://wireless.accuweather.com&quot;)" onmouseover="adc_navBarLightBlue(this,1,1)" onmouseout="adc_navBarLightBlue(this,0,1)"><div class="adcNavTextLightBlue"><a href="http://wireless.accuweather.com">Wireless Services</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://desktop.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://desktop.accuweather.com">Desktop Weather</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/news_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/news_index.asp?partner=accuweather">News /  Columns</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/news_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/weatherhost.asp?partner=accuweather">Virtual Forecaster</a></div></td>
+      </tr>
+	  <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://spotlight.accuweather.com/dyndoc/GOTO.asp?/SPOTLIGHT/ADC_QXA905/BLUE.GIF|forensics.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://spotlight.accuweather.com/dyndoc/GOTO.asp?/SPOTLIGHT/ADC_QXA905/BLUE.GIF|forensics.accuweather.com">Forensic Weather</a></div></td>
+      </tr>
+      <tr class="adcNavHiliteRow">
+         <td class="adcNavHilite" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/promotional.asp?type=website_wx&amp;partner=accuweather&quot;)"><div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/promotional.asp?type=website_wx&amp;partner=accuweather">Website Weather</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://accunet.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://accunet.accuweather.com">Customizable</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://netweather.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://netweather.accuweather.com/">Prepackaged</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+        <td class="adcNav"><div class="adcNavText"><img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="1" height="5" border="0"><br></div></td>
+      </tr>
+
+       
+      <tr class="adcNavHiliteRow">
+        <td class="adcNavHilite">
+           <form method="get" action="http://wwwa.accuweather.com/adcbin/public/us_getcity.asp" id="form1" name="form1">
+           <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/local_index.asp?partner=accuweather">15-Day Forecast</a><br></div>
+           <center>
+           <font size="1" face="verdana">Enter your U.S. zip<br>code or City, State<br>
+           <input type="text" name="zipcode" size="7" maxlength="30">&nbsp;
+           <input type="image" src="http://vortex.accuweather.com/phoenix2/images/common/misc/gobutton.gif" width="29" height="18" border="0" id="image1" name="image1" alt="Weather Forecasts"><br>
+           <input type="hidden" name="partner" value="accuweather">
+           <a href="http://wwwa.accuweather.com/adcbin/public/int_index.asp?partner=accuweather"><u>World Forecasts</u></a><br>
+           <a href="http://wwwa.accuweather.com/adcbin/public/canada_index.asp?partner=accuweather"><u>Canada Forecasts</u></a><br>
+           <a href="http://wwwa.accuweather.com/adcbin/ukie/index.asp"><u>UK / Ireland</u></a><br>
+           <!--<a href="http://wwwa.accuweather.com/adcbin/public/mideast_index.asp?partner=accuweather"><u>Iraq / Middle East</u></a></font>-->
+           </font></center><font size="1" face="verdana">
+           
+        </font></form></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav">
+            <div class="adcNavText"><img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="1" height="5" border="0"><br></div></td>
+      </tr>
+
+      <!-- end of ADC left nav top include -->
+
+      <!-- Left nav ad include -->
+      <!-- 120x60 ad? -->
+      <!-- end of Left nav ad include -->
+
+      <!-- Left nav interest areas include -->
+            <tr class="adcNavHiliteRow">
+         <td class="adcNavHilite" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/interest_areas.asp?partner=accuweather&quot;)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/interest_areas.asp?partner=accuweather">Interest Areas</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRowLightBlue">
+         <td class="adcNavLightBlue" onclick="go(&quot;http://www.accumall.com&quot;)" onmouseover="adc_navBarLightBlue(this,1,1)" onmouseout="adc_navBarLightBlue(this,0,1)">
+            <div class="adcNavTextLightBlue"><a href="http://www.accumall.com/categories/Weather-Instruments.phtml">Buy Weather Gifts Now</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/travel_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/travel_index.asp?partner=accuweather">Travel</a></div>
+         </td>
+      </tr>
+     <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/health_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/health_index.asp?partner=accuweather">Health</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/meteo_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/meteo_index.asp?partner=accuweather">Meteorologist</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/marine_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/marine_index.asp?partner=accuweather">Marine Weather</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/winter_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/winter_index.asp?partner=accuweather">Winter Center</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/ski_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/ski_index.asp?partner=accuweather">Ski</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/golf_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/golf_index.asp?partner=accuweather">Golf Forecast</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/garden_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/garden_index.asp?partner=accuweather">Gardening</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/ag_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/ag_index.asp?partner=accuweather">AgriWeather®</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/video_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+         	<div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/video_index.asp?partner=accuweather">Streaming Video</a></div>
+         </td>
+      </tr>
+<!--      <tr class="adcNavRow">
+         <td class="adcNav" onClick='go("http://wwwa.accuweather.com/adcbin/public/winter_index.asp?partner=accuweather")' onMouseOver="adc_navBar(this,1,1)" onMouseOut="adc_navBar(this,0,1)">
+         	<div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/winter_index.asp?partner=accuweather">Winter Center</a></div>
+         </td>
+      </tr>
+-->
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/severe_index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+         	<div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/severe_index.asp?partner=accuweather">Severe Weather</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://hurricane.accuweather.com/adcbin/hurricane/index.asp?partner=accuweather&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+         	<div class="adcNavText"><a href="http://hurricane.accuweather.com/adcbin/hurricane/index.asp?partner=accuweather">Hurricane Center</a></div>
+         </td>
+      </tr>
+
+
+      <!-- end of Left nav interest areas include -->
+
+      <!-- ADC left nav bottom include -->
+            <tr class="adcNavRow">
+         <td class="adcNav">
+            <div class="adcNavText"><img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="1" height="5" border="0"><br></div>
+         </td>
+      </tr>
+      <tr class="adcNavHiliteRow">
+         <td class="adcNavHilite"><div class="adcNavText">Subscription Services</div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://pro.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://pro.accuweather.com">Professional</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://premium.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://premium.accuweather.com">Premium</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://radarplus.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://radarplus.accuweather.com">RadarPlus</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav">
+            <div class="adcNavText"><img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="1" height="5" border="0"><br></div>
+         </td>
+      </tr>
+      <tr class="adcNavHiliteRow">
+         <td class="adcNavHilite">
+            <div class="adcNavText">Personal Weather</div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://alert.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://alert.accuweather.com">Alert</a></div>
+         </td>
+      </tr>
+	  <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://desktop.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://desktop.accuweather.com">Desktop Weather</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wireless.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wireless.accuweather.com">Wireless Services</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://forensics.accuweather.com&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)"><div class="adcNavText"><a href="http://forensics.accuweather.com">Past Weather</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav">
+            <div class="adcNavText"><img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="1" height="5" border="0"><br></div>
+         </td>
+      </tr>
+      <tr class="adcNavHiliteRow">
+         <td class="adcNavHilite">
+            <div class="adcNavText">Web Guide</div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/siteguide.asp&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/siteguide.asp">Site Guide</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/sitemap.asp&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/sitemap.asp">Site Map</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/wxglossary.asp&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+         	<div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/wxglossary.asp">Weather Glossary</a></div></td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="accuhelpWin()" target="accuHelp" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/phoenix2/help/adc/index.htm" onclick="accuhelpWin()" target="accuHelp">Help</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://www.accuweather.com/wx/services/index.htm&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://www.accuweather.com/wx/services/index.htm">Our Services</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/affiliate.asp?type=advertising&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/affiliate.asp?type=advertising">Advertise with Us</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/cobrand.asp&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/cobrand.asp">Cobrand with Us</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://www.accuweather.com/wx/company/jobs.htm&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://www.accuweather.com/wx/company/jobs.htm">Work with Us</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/contact.asp&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://wwwa.accuweather.com/adcbin/public/contact.asp">Contact Us</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://www.accuweather.com/wx/company/index.htm&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://www.accuweather.com/wx/company/index.htm">About Us</a></div>
+         </td>
+      </tr>
+      <tr class="adcNavRow">
+         <td class="adcNav" onclick="go(&quot;http://www.accuweather.com/iwxpage/adc/pressroom/&quot;)" onmouseover="adc_navBar(this,1,1)" onmouseout="adc_navBar(this,0,1)">
+            <div class="adcNavText"><a href="http://www.accuweather.com/iwxpage/adc/pressroom/">PressRoom</a></div>
+         </td>
+      </tr>
+      </tbody></table>
+<!--MASTER PREMIUM TRACKING CODE ON EVERY PAGE (WITH A LEFT NAV)-->
+      <img src="http://spotlight.accuweather.com/dyndoc/SPOTLIGHT/ADC_QXA712/adcfree/flasher.gif" width="1" height="1">
+
+
+      <!-- end of ADC left nav bottom include -->
+      <br><br>
+   </td>
+   <!------------------>
+   <!-- content cell -->
+   <!------------------>
+   <td valign="top" bgcolor="#F2F0EC">
+      <!---------------------->
+      <!-- start adv_header -->
+      <!---------------------->
+      
+      <!--------------------->
+      <!-- content table 1 -->
+      <!--------------------->
+      <table cellspacing="0" cellpadding="0" width="640" border="0">
+      <tbody><tr>
+         <!-------------------->
+         <!-- 468x60 ad cell -->
+         <!-------------------->
+         <td valign="middle" width="474" height="60">
+            <nobr>
+            
+               <script language="JavaScript">
+               <!--
+                  if (noad == 0)
+                     OAS_AD(adPos1);
+               //-->
+               </script>
+            
+            </nobr>
+         </td>
+         <!------------------------>
+         <!-- end 468x60 ad cell -->
+         <!------------------------>
+         <td rowspan="3" width="166" height="112" align="left" valign="top"> 
+            <!----------------------->
+            <!-- promo nav include -->
+            <!----------------------->
+            <table cellspacing="0" cellpadding="0" width="166">
+<tbody><tr class="promoNavRow">
+<td class="promoNav" onclick="go(&quot;http://wwwa.accuweather.com/adcbin/public/promotional.asp?type=benefits&quot;)" onmouseover="promo_navBar(this,1,1)" onmouseout="promo_navBar(this,0,1)"><div class="promoNavText"><a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA91/BLUE.GIF|http://wwwa.accuweather.com/adcbin/public/promotional.asp%3ftype=benefits">Premium: No Ads - Free Trial</a></div></td>
+</tr>
+<tr class="promoNavRow">
+<td class="promoNav" onclick="go(&quot;http://proa.accuweather.com/adcbin/professional_index.asp&quot;)" onmouseover="promo_navBar(this,1,1)" onmouseout="promo_navBar(this,0,1)"><div class="promoNavText"><a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA130/BLUE.GIF|http://proa.accuweather.com/adcbin/public/pro_benefits.asp">Advanced Forecasting Tool</a></div></td>
+</tr>
+<tr class="promoNavRow">
+<td class="promoNav" onclick="go(&quot;http://www.accuweather.com/wx/services/snowwarn.htm&quot;)" onmouseover="promo_navBar(this,1,1)" onmouseout="promo_navBar(this,0,1)"><div class="promoNavText"><a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA198/BLUE.GIF|http://www.accuweather.com/wx/services/snowwarn.htm">Snow Warning Service</a></div></td>
+</tr>
+<tr class="promoNavRow">
+<td class="promoNav" onclick="go(&quot;http://wwwa.accuweather.com/iwxpage/adc/mobile/index.htm&quot;)" onmouseover="promo_navBar(this,1,1)" onmouseout="promo_navBar(this,0,1)"><div class="promoNavText"><a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA131/BLUE.GIF|http://wwwa.accuweather.com/iwxpage/adc/mobile/index.htm">Award-Winning Wireless</a></div></td>
+</tr>
+<tr class="promoNavRow">
+<td class="promoNav" onclick="go(&quot;http://forensics.accuweather.com&quot;)" onmouseover="promo_navBar(this,1,1)" onmouseout="promo_navBar(this,0,1)"><div class="promoNavText"><a href="http://www.accuweather.com/dyndoc/GOTO/SPOTLIGHT/ADC_QXA133/BLUE.GIF|http://forensics.accuweather.com">Forensic Weather Research</a></div></td>
+</tr>
+<tr class="promoNavRow">
+<td class="promoNav" onclick="go(&quot;http://www.accumall.com/categories/Weather-Instruments.phtml&quot;)" onmouseover="promo_navBar(this,1,1)" onmouseout="promo_navBar(this,0,1)"><div class="promoNavText"><a href="http://www.accumall.com/categories/Weather-Instruments.phtml">Buy Weather Gifts</a></div></td>
+</tr>
+</tbody></table>
+
+            <!------------------------------>
+            <!-- end of promo nav include -->
+            <!------------------------------>
+         </td>
+      </tr>
+<!-- weather for life revamp include begins here -->
+     <tr>
+        <td width="474" height="37" align="left" valign="top">
+       
+       <table border="0" cellpadding="0" cellspacing="0" width="468" valign="top">
+       <tbody><tr>
+       <td valign="top">
+       <!-- begin interest area navs -->
+       <table border="0" cellpadding="0" cellspacing="0" width="467" height="37" valign="top">
+           <tbody><tr>
+                 <td style="vertical-align:middle;background-color:#990000;text-align:center;font-family:Arial,helvetica,verdana;font-size:11px;color:#ffffff;font-weight:bold;line-height:18px">The New Site Is Coming!<br><a href="http://Beta.AccuWeather.com" style="color:#FFFFFF;font-weight:normal">Visit the New AccuWeather.com</a></td>
+             </tr>
+       </tbody></table>
+       <!-- end interest area navs -->
+       </td>
+       </tr>
+       </tbody></table>
+       
+
+       </td>
+     </tr>
+<!-- weather for life revamp include ends here -->
+      <tr>
+         <td width="474" height="1" align="left" valign="bottom"><img src="http://spotlight.accuweather.com/dyndoc/spotlight/adc_qx2097/adc/adcbin/public/privacy.asp/flasher.gif?partner=accuweather&amp;zc=" height="1" width="1"></td>
+      </tr>
+      </tbody></table>
+      
+
+      <!---------------------->
+      <!-- end adv_header ---->
+      <!---------------------->
+      <!-- content table 2 --->
+      <!---------------------->
+      <table width="640" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+         <td></td>
+         <td></td>
+      </tr>
+      </tbody></table> 
+      <!---------------------->
+      <!-- content table 3 --->
+      <!---------------------->
+      <table width="640" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+         <td width="10" valign="top"></td>
+         <!------------------>
+         <!-- Content Cell -->
+         <!------------------>
+         <td width="420" valign="top">
+            <font face="helvetica,arial" size="1">
+            <a href="/adcbin/public/index.asp">Home</a> :
+            Privacy Statement
+            </font>
+            <br><br>
+            <font face="verdana" size="3"><b>Privacy Statement</b></font><br>
+<br><br>
+
+<font face="helvetica,arial" size="2">
+AccuWeather collects information on this site during the registration
+process for business purposes that will allow us to  better and more
+efficiently serve you. Some uses AccuWeather makes of this information are
+processing  and verifying subscriptions, billing, and providing you with
+up-to-date information on the newest AccuWeather products, if so desired.
+<br><br>
+AccuWeather collects this information for internal use only. AccuWeather
+does not sell or redistribute this information to outside  organizations.
+AccuWeather may at times release aggregate subscriber information to
+advertisers as may be requested or required. However, any information
+provided is aggregate information only and specific individual information
+of the nature provided during  the registration process is never given to
+outside organizations.
+<br><br>
+We use third-party advertising companies to serve ads when you visit our web site.
+These companies may use information (<b>not including</b> your name, address, 
+email address or telephone number) about your visits to this and other web sites 
+in order to provide advertisements about goods and services of interest to you. 
+If you would like to more information about this practice and to know your choices 
+about not having this information used by these 
+companies, <a href="http://www.247realmedia.com/privacy.html" target="new">click here</a>.
+</font>
+
+
+         </td>
+         <td width="10" valign="top"></td>
+         <!--------------->
+         <!-- Right Nav -->
+         <!--------------->
+         <td width="200" valign="top" align="right">
+            <!-- privacy Right Nav Include -->
 <script language="JavaScript">
 <!--
-  OAS_AD('x01');
+   if (noad == 0)
+      OAS_AD(adPos2);
 //-->
 </script>
- </td></tr>
-	<tr>
-		<td width="760" colspan="3">
-			<img src="http://vortex.accuweather.com/iwxpage/adc/misc_images/blank.gif" width="760" height="10" border="0"><br>
-		</td>
-	</tr>	
-</tbody></table>
-<!---------------------------->
-<!-- Table 2                -->
-<!-- Tab (navigation) Table -->
-<!---------------------------->
-<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td align="left">
-			<a name="top"></a>
-			<img src="http://sirocco.accuweather.com/iwxpage/adc/misc_images/member_privacy_nav.gif" width="760" height="42" usemap="#nav" border="0"><br>
-			<img src="http://sirocco.accuweather.com/iwxpage/adc/misc_images/white.gif" width="760" height="10" border="0"><br>
-			<map name="nav">
-				<area shape="rect" coords="0,0,194,41" href="http://www.accuweather.com">	<!--accuweather-->
-				<area shape="rect" coords="196,5,290,22" href="/adcbin/member_index">	<!--member-->
-				<area shape="rect" coords="290,6,403,22" href="/adcbin/local_index">	<!--return-->
-				<area shape="rect" coords="215,26,286,41" href="/adcbin/registration">	<!--registration-->
-				<area shape="rect" coords="285,24,350,41" href="/adcpremium/myaccount">	<!--myaccount-->
-				<area shape="rect" coords="350,26,404,41" href="/adcbin/siteguide">	<!--siteguide-->
-				<area shape="rect" coords="404,25,506,41" href="/adcbin/forgot">	<!--forgot-->
-				<area shape="rect" coords="504,25,563,41" href="/adcbin/contact">	<!--contact us-->
-				<area shape="rect" coords="563,25,658,41" href="/adcbin/terms">	<!--terms-->
-				<area shape="rect" coords="658,25,706,41" href="/adcbin/privacy">	<!--privacy-->
-			</map>
-		</td>
-	</tr>
-</tbody></table>
-<!-- End Tab Table -->
+<!-- End Right Nav Include ----->
+<script language="JavaScript">
+<!--
+    if (intrusivepopup)
+        OAS_AD(adPospop);
+    else
+	if (unicastFlag == 1)
+	   OAS_AD(adPospop);
 
-<!-- Content Above Fold Table -->
-<table border="0" width="760" cellspacing="0" cellpadding="4">
-	<tbody><tr>
-		<td>
-			<img src="http://sirocco.accuweather.com/iwxpage/adc/misc_images/blank.gif" width="500" height="1" border="0"><br>
-			<font face="helvetica,arial" size="1"><a href="/adcbin/member_index">Member Services</a> &gt;</font><br>
-			<font face="verdana" size="3"><b>Privacy Statement</b></font><br>
-			<br><br>
+    if (popunder)
+        OAS_AD(position);
 
-			<font face="helvetica,arial" size="2">
-				AccuWeather collects information on this site during the registration
-				process for business purposes that will allow us to  better and more
-				efficiently serve you. Some uses AccuWeather makes of this information are
-				processing  and verifying subscriptions, billing, and providing you with
-				up-to-date information on the newest AccuWeather products, if so desired.
-				<br><br>
-				AccuWeather collects this information for internal use only. AccuWeather
-				does not sell or redistribute this information to outside  organizations.
-				AccuWeather may at times release aggregate subscriber information to
-				advertisers as may be requested or required. However, any information
-				provided is aggregate information only and specific individual information
-				of the nature provided during  the registration process is never given to
-				outside organizations.
-				<br><br>
-				We use third-party advertising companies to serve ads when you visit our web site.
-				These companies may use information (<b>not including</b> your name, address, 
-				email address or telephone number) about your visits to this and other web sites 
-				in order to provide advertisements about goods and services of interest to you. 
-				If you would like to more information about this practice and to know your choices 
-				about not having this information used by these 
-				companies, <a href="http://www.doubleclick.net:80/us/corporate/privacy/default.asp?asp_object_1=&amp;">click here</a>.
-			</font>
-		</td>
-		<td rowspan="50">
-			<!-- 10pt gutter -->
-			<img src="http://sirocco.accuweather.com/iwxpage/adc/misc_images/blank.gif" width="10" height="10" border="0"><br>
-		</td>
-		
-		<td width="250" bgcolor="#d9dbe0" valign="top">
-			<font face="verdana" size="1"><b>Questions or concerns about privacy may be addressed to
-			<a href="mailto:webhelp@accuweather.com">webhelp@accuweather.com</a>.
-			</b></font><br>
-		</td>
-	</tr>
-</tbody></table>
+//-->
+</script>
+         </td>
+      </tr>
+      </tbody></table>
+      <!----------------------->	
+      <!-- Today on ADC ------->	
+      <!----------------------->
+      <br>
 <br>
-
-<hr align="left" noshade="" width="760" size="1">
-
-<!-- Footer Table -->
-<table width="760" cellspacing="0" cellpadding="0" border="0">
+<!-- DO NOT MODIFY ABOVE THIS POINT -->
+<a name="todayonawx">
+<table width="610" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td width="145">
-
-			<a href="#top"><img src="http://sirocco.accuweather.com/iwxpage/adc/misc_images/arrow.gif" width="31" height="22" border="0" hspace="10"></a><br>
+		<td rowspan="3" width="10"><img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="10" height="1" border="0"></td>
+		<td bgcolor="#cc0000"><img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="10" height="5" border="0"><br>
+			&nbsp;<font size="4"><b>Today on AccuWeather.com</b></font>&nbsp;&nbsp;&nbsp;<font class="todayon" face="helvetica,arial">
+			<i><script type="text/javascript">
+				var d=new Date()
+				var weekday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+				var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+				document.write(weekday[d.getDay()] + ", ")
+				document.write(monthname[d.getMonth()] + " ")
+				document.write(d.getDate() + ", ")
+				document.write(d.getFullYear())
+			</script>Thursday, January 30, 2020</i></font>
 		</td>
-		<td width="640">
-			<font face="helvetica,arial" size="1">
-			©2000 <b>AccuWeather, Inc.</b> All rights reserved.<br>
-			This service provided to you according to our <a href="/adcbin/terms">terms &amp; conditions</a>.<br>
-			<a href="/adcbin/privacy">Privacy Statement</a>.<br>
-			</font><br>
+	</tr>
+	<tr>
+		<td>
+			<img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="1" height="10"><br>
+			<table border="0" cellpadding="0" cellspacing="0" width="610">
+				<tbody><tr>
+					<td valign="top" width="610">
+						<font class="todayon" face="helvetica,arial" color="#990000"><b><u>FINAL COUNTDOWN</u></b></font><br>
+						<img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="1" height="3" border="0"><br>
+						<img src="http://vortex.accuweather.com/phoenix2/images/adc/footer/redesign_final.jpg" border="0" align="left" vspace="0" hspace="2">
+						<font class="todayon" face="helvetica,arial"><b>New Site Launches Thursday</b>
+						<br><br>
+						It's been a year in the making. The moment has finally arrived. The new and improved AccuWeather.com launches this week!
+						<br><br>
+						It's important to us that AccuWeather.com is your favorite source of weather information on the web. So we hope you have explored the <a href="http://spotlight.accuweather.com/dyndoc/GOTO.asp?/SPOTLIGHT/ADC_QXA137/BLUE.GIF|beta.accuweather.com">beta site</a> and have emailed us to let us know your thoughts. 
+						<br><br>
+						Thank you for using AccuWeather.com.
+						</font>
+					</td>
+				</tr>
+			</tbody></table>
+			<br><br>
+			<a href="http://wwwa.accuweather.com/adcbin/public/browse_us_forecasts.asp?state=index"><font class="todayon" face="helvetica,arial" color="#990000"><b>Browse Local US Weather Forecasts</b></font></a>
+			<br>
+			<br>
 		</td>
 	</tr>
 </tbody></table>
+
+      <!----------------------->
+      <!-- end Today on ADC --->
+      <!----------------------->
+      <!-- Copyright Include -->
+      <!----------------------->
+      
+<table width="610" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+   <td rowspan="3" width="10">
+      <img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="10" height="1" border="0">
+   </td>
+   <td bgcolor="#333333"><img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" alt="" width="1" height="1"></td>
+</tr>
+<tr>
+   <td>
+      <img src="http://vortex.accuweather.com/phoenix2/images/common/misc/blank.gif" width="1" height="5" border="0"><br>
+      <font size="1" face="helvetica,arial" color="#333333">
+      ©2005 AccuWeather, Inc. All rights reserved. | <a href="http://wwwa.accuweather.com/adcbin/public/contact.asp?partner=accuweather">Email us</a>!<br>
+      This service provided to you according to our <a href="http://wwwa.accuweather.com/adcbin/public/terms.asp?partner=accuweather">terms &amp; conditions</a>.<br>
+      <a href="http://wwwa.accuweather.com/adcbin/public/privacy.asp?partner=accuweather">Privacy Statement</a>.<br><br>
+      </font>
+   </td>
+</tr>
+</tbody></table>
+
+      <!----------------------->
+      <!-- End of Copyright --->
+      <!----------------------->
+      <br><br>
+   </a></td>
+   <!-- end of content cell -->
+</tr>
+</tbody></table>
+<br><br>
+
+<!-- image maps-->
+<!-- end of image maps -->
 
 
 
