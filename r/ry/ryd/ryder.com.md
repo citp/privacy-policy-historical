@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ryder.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206181412id_/http%3A//www.ryder.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryder.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171712id_/http%3A//www.ryder.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Ryder.com > Privacy Policy
 
 |  Ryder Online Privacy Policy   
-This policy is applicable to www.Ryder.com and other sites on the World Wide Web portion of the Internet owned and operated by Ryder System, Inc., 3600 NW 82nd Avenue, Miami, Florida, 33166. 
+This policy is applicable to www.Ryder.com and other sites on the World Wide Web portion of the Internet owned and operated by Ryder System, Inc., 11690 NW 105 Street, Miami, FL 33178. 
 
 For each visitor to our web page, our web server automatically recognizes only the visitor's domain name, but not the e-mail address. Therefore, we only collect visitors' domain names, and not the e-mail address of visitors to our web page -- unless that information is voluntarily submitted in one of the forms on the site. 
 
