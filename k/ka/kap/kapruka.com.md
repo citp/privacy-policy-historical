@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kapruka.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013024326id_/http%3A//www.lanka.info/contactUs/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapruka.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604085400id_/http%3A//lanka.info/contactUs/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Kapruka - www.lanka.info
 
@@ -27,3 +27,9 @@ We will list your first name, last name, MM/DD of the birth date and country on 
 For more information   
 If you have any questions, concerns or comments, please e-mail privacy@kapruka.com   
 
+
+* * *
+
+* * *
+
+© 2000-2003 Kapruka - www.lanka.info - _Bringing Sri Lanka one step closer to you._
