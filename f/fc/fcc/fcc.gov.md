@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402131651id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203041835id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
 
 # FCC Web Site Policies, Privacy Statement and Notices
 
@@ -7,7 +7,7 @@ FCC Web Site Policies
 
 Customer Service Standards 
 
-You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20030402131651id_/http%3A//www.fcc.gov/css.html) when interacting with us.
+You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20031203041835id_/http%3A//www.fcc.gov/css.html) when interacting with us.
 
   
 
@@ -49,3 +49,10 @@ The FCC provides numerous online software programs that support the Universal Li
 
 
 You are entering an official United States Government System, which may be used only for authorized purposes. Unauthorized modification of any information on this system may result in criminal prosecution. The Government may monitor or audit the usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing.
+
+  
+
+
+Web Site Maintenance Policy & Schedule 
+
+In order to ensure the reliability of the FCC web site, periodic routine maintenance of the underlying hardware and software systems is necessary. This maintenance is conducted between 2:00 a.m. and 6:00 a.m on the second Tuesday of every month. During this period the public may not have access to our on-line licensing applications or to the entire site.
