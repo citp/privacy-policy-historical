@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607000249id_/http%3A//www.gore.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gore.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207002431id_/http%3A//www.gore.com/privacystatement.html) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -32,7 +32,7 @@ W. L. Gore and Associates has not reviewed all of the sites linked to our sites 
 
 This site and all contents of the site are provided on an "as is" basis without warranties of any kind, either express or implied.
 
-Gore's [trademarks](https://web.archive.org/web/20040607000249id_/http%3A//www.gore.com/goretrademarks.html) are registered with trademark offices around the world. Gore product trademarks may be used only in conjunction with the sale of first quality goods produced by Gore or with the express permission of Gore.
+Gore's [trademarks](https://web.archive.org/web/20041207002431id_/http%3A//www.gore.com/goretrademarks.html) are registered with trademark offices around the world. Gore product trademarks may be used only in conjunction with the sale of first quality goods produced by Gore or with the express permission of Gore.
 
 The Gore corporate logo may be used only by W. L. Gore & Associates, Inc. and its subsidiaries. The Gore corporate logo may not be used by customers or others except as applied by Gore to promotional materials supplied by us.
 
