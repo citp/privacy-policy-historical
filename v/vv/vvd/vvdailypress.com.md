@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vvdailypress.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002120451id_/http%3A//www.vvdailypress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vvdailypress.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402155109id_/http%3A//www.vvdailypress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Press
 
