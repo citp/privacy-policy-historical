@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002041243id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604083415id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # Unique Rewards / Privacy Policy
 
-I enjoyed your customer service. Any question I had - I got the answer right away. Good Return-on-Investiment.
+Got great results from my campaign through Unique Rewards. Will come back again.
 
- **David Kingsley**.
+ **Kay Morris**.
 
 [ ](https://web.archive.org/advertiser.html)
 
