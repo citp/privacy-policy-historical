@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regence.com privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222183307id_/http%3A//www.regence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regence.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603092642id_/http%3A//www.regence.com/privacy) for the most accurate reproduction.*
 
 # The Regence Group Privacy Policy
 
@@ -77,5 +77,6 @@ We are committed to protecting the privacy of your personal information. The pur
 
 View the Notice of Privacy Practices for [Regence BlueShield of Idaho](http://www.id.regence.com/consumerPrivacy.pdf), [Regence BlueCross BlueShield of Oregon](http://www.or.regence.com/docs/notice/privacyNotice.pdf), [Regence BlueCross BlueShield of Utah](http://www.ut.regence.com/consumerPrivacy.pdf), or [Regence BlueShield](http://www.wa.regence.com/member/notice/docs/consumerPrivacy.pdf).
 
-Note: To view and print the documents listed on this page, you must have the Adobe® Acrobat® Reader installed. Get more information and/or download the free [Adobe Acrobat Reader](http://www.adobe.com/products/acrobat/readstep2.html).   
+Note: To view and print the PDF document(s) listed on this page, you must have the Adobe® Acrobat® Reader installed. Get more information and/or download the free [Adobe Acrobat Reader](http://www.adobe.com/products/acrobat/readstep2.html). For help with printing and working with PDF files, [visit our PDF File Help page](https://web.archive.org/pdf.html).   
+    
  
