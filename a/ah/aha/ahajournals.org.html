@@ -1,7 +1,85 @@
-<!--The following is the downloaded HTML source of the ahajournals.org privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203010153id_/http%3A//www.americanheart.org/presenter.jhtml%3Fidentifier%3D11405) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ahajournals.org privacy policy that was archived on 2004-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040611161507id_/http%3A//www.americanheart.org/presenter.jhtml%3Fidentifier%3D11405) for the most accurate reproduction.-->
 
 <html><head>
+<script language="javascript">
+  // THIS METHOD IS USED BY HITBOX-WEB-REPORTING ... 
+  var searchTerm = ""; 
+  var searchItmCnt = ""; 
+  function hbxStrip(a) { 
+     a = a.split("|").join(""); 
+     a = a.split("&").join("_"); 
+     a = a.split("'").join(""); 
+     a = a.split("#").join(""); 
+     a = a.split("$").join(""); 
+     a = a.split("%").join(""); 
+     a = a.split("^").join(""); 
+     a = a.split("*").join(""); 
+     a = a.split(":").join(""); 
+     a = a.split("!").join(""); 
+     a = a.split(">").join(""); 
+     a = a.split("<").join(""); 
+     a = a.split("~").join(""); 
+     a = a.split(";").join(""); 
+     a = a.split(" ").join("+"); 
+     return a; 
+  }
+</script>
+<script language="javascript">
+function createBookmark(){
+	var params = read_querystring();
+
+	var url = "http://"+location.host+"/presenter.jhtml?"
+	var pos= url.indexOf("?identifier=");
+	if (pos<0){
+		url = url + "identifier="+params["identifier"];
+	}
+	var pos= url.indexOf("&dynamicPage=");
+	if (pos<0){
+		url = url + "&dynamicPage=/quizzes/quizResults.jhtml";
+	}
+	var pos= url.indexOf("&dynamicPageNumber=");
+	if (pos<0){
+		url = url + "&dynamicPageNumber="+params["dynamicPageNumber"];
+	}
+	var pos= url.indexOf("&stashId=");
+	if (pos<0){
+		url = url + "&stashId="+params["stashId"];
+	}
+	pos= url.indexOf("&quizName=");
+	if (pos<0){
+		url = url + "&quizName="+params["quizName"];
+	}
+
+	if (window.sidebar) { 
+		window.sidebar.addPanel("AHA - Learn and Live Quiz Results", url,""); 
+	}
+	else{		
+		window.external.AddFavorite(url,"AHA - Learn and Live Quiz Results");
+	}
+//	window.location.reload();
+}
+
+function read_querystring()
+   {
+   var a_out = new Object();
+   var s_loc = String(location.href);
+
+   if(s_loc.indexOf('?')>0)
+     {
+     var p;
+     var s_query = s_loc.substr(s_loc.indexOf('?')+1);
+     var a_query = s_query ? s_query.split('&') : new Array();
+
+     for(var i=0; i<a_query.length; i++)
+       {
+       p = a_query[i].split('=');
+       a_out[p[0]] = p[1].replace(/\+/g, ' ');
+       }
+     }
+   return a_out;
+   }
+</script>
 
 
 
@@ -28,9 +106,9 @@ privacy policy; opt out; unsubscribe; privacy; legal">
 
 <!--nashk.en-->
     <link rel="stylesheet" href="includes/heart/fonts.css" type="text/css">
-    <script language="javascript" src="includes/heart/standard.js;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ"></script>
-    <script language="javascript" src="includes/heart/primary_menu_builder.js;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ"></script>
-    <script language="javascript" src="includes/heart/secondary_menu_builder.js;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ"></script>
+    <script language="javascript" src="includes/heart/standard.js;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ"></script>
+    <script language="javascript" src="includes/heart/primary_menu_builder.js;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ"></script>
+    <script language="javascript" src="includes/heart/secondary_menu_builder.js;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ"></script>
 
 
 
@@ -44,6 +122,7 @@ privacy policy; opt out; unsubscribe; privacy; legal">
 
 	#patch {position:absolute; left:0; top:0; width:12; height:36; z-index:1;}
  
+
 
 	
 		
@@ -198,26 +277,25 @@ function setgoSite()
 
 <!-- End auto-localization --> 
 
-
-<!--begin the header-->
-<table border="0" cellpadding="0" cellspacing="0">
+	<!--begin the header-->
+	<table border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td width="245" rowspan="2" background="/images/heart/interface/topleft.gif" valign="top">
-			<form method="get" action="/presenter.jhtml;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ">
+			<form method="get" action="/presenter.jhtml;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ">
 				<img src="/images/heart/interface/spacer.gif" width="245" height="1" border="0"><br>
 				<img src="/images/heart/interface/spacer.gif" width="20" height="11" border="0">
 				<input type="hidden" name="identifier" value="10000015">
 				<input type="hidden" value="inter" name="/org/heart/inktomi/ParamMapper.col"><input type="hidden" name="_D:/org/heart/inktomi/ParamMapper.col" value=" ">
 				<input type="text" size="13" value="" name="/org/heart/inktomi/ParamMapper.qt"><input type="hidden" name="_D:/org/heart/inktomi/ParamMapper.qt" value=" "><input type="image" src="/images/heart/interface/search.gif" width="57" height="20" border="0"><br>
 				<img src="/images/heart/interface/spacer.gif" width="7" height="11" border="0">
-				<a href="/presenter.jhtml;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ?identifier=10000015&amp;adv=1"><img src="/images/heart/interface/advancedsearch.gif" width="115" height="13" alt="" border="0"></a>
+				<a href="/presenter.jhtml;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ?identifier=10000015&amp;adv=1"><img src="/images/heart/interface/advancedsearch.gif" width="115" height="13" alt="" border="0"></a>
 			<input type="hidden" name="_DARGS" value="/heartheader.jhtml"></form>
 		</td>
 		<td valign="top"><a href="http://216.185.102.50/cgi-bin/donate.pl" onmouseover="document.nav01.src='/images/heart/interface/ondonate.gif'" onmouseout="document.nav01.src='/images/heart/interface/offdonate.gif'"><img name="nav01" src="/images/heart/interface/offdonate.gif" alt="Donate" width="58" height="28" border="0"></a></td>
-		<td valign="top"><a href="/presenter.jhtml;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ?identifier=10000055" onmouseover="document.nav02.src='/images/heart/interface/onhelp.gif'" onmouseout="document.nav02.src='/images/heart/interface/offhelp.gif'"><img name="nav02" src="/images/heart/interface/offhelp.gif" alt="Help" width="42" height="28" border="0"></a></td>
-		<td valign="top"><a href="/presenter.jhtml;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ?identifier=10000023" onmouseover="document.nav03.src='/images/heart/interface/oncontact.gif'" onmouseout="document.nav03.src='/images/heart/interface/offcontact.gif'"><img name="nav03" src="/images/heart/interface/offcontact.gif" alt="Contact" width="62" height="28" border="0"></a></td>
-		<td valign="top"><a href="/presenter.jhtml;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ?identifier=10000052" onmouseover="document.nav04.src='/images/heart/interface/onsiteindex.gif'" onmouseout="document.nav04.src='/images/heart/interface/offsiteindex.gif'"><img name="nav04" src="/images/heart/interface/offsiteindex.gif" alt="Site Index" width="68" height="28" border="0"></a></td>
-		<td valign="top"><a href="/;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ" onmouseover="document.nav05.src='/images/heart/interface/onhome.gif'" onmouseout="document.nav05.src='/images/heart/interface/offhome.gif'"><img name="nav05" src="/images/heart/interface/offhome.gif" alt="Home" width="51" height="28" border="0"></a></td>
+		<td valign="top"><a href="/presenter.jhtml;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ?identifier=10000055" onmouseover="document.nav02.src='/images/heart/interface/onhelp.gif'" onmouseout="document.nav02.src='/images/heart/interface/offhelp.gif'"><img name="nav02" src="/images/heart/interface/offhelp.gif" alt="Help" width="42" height="28" border="0"></a></td>
+		<td valign="top"><a href="/presenter.jhtml;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ?identifier=10000023" onmouseover="document.nav03.src='/images/heart/interface/oncontact.gif'" onmouseout="document.nav03.src='/images/heart/interface/offcontact.gif'"><img name="nav03" src="/images/heart/interface/offcontact.gif" alt="Contact" width="62" height="28" border="0"></a></td>
+		<td valign="top"><a href="/presenter.jhtml;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ?identifier=10000052" onmouseover="document.nav04.src='/images/heart/interface/onsiteindex.gif'" onmouseout="document.nav04.src='/images/heart/interface/offsiteindex.gif'"><img name="nav04" src="/images/heart/interface/offsiteindex.gif" alt="Site Index" width="68" height="28" border="0"></a></td>
+		<td valign="top"><a href="/;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ" onmouseover="document.nav05.src='/images/heart/interface/onhome.gif'" onmouseout="document.nav05.src='/images/heart/interface/offhome.gif'"><img name="nav05" src="/images/heart/interface/offhome.gif" alt="Home" width="51" height="28" border="0"></a></td>
 		<td valign="top"><img src="/images/heart/interface/middletopright.gif" width="54" height="28" border="0"></td>
 		<td rowspan="2"><img src="/images/heart/interface/logo.gif" width="195" height="75" border="0" alt="American Heart Association"></td>
 	</tr>
@@ -243,8 +321,9 @@ function setgoSite()
 </tbody></table>
 
 
+		
+	<!--end the header-->
 
-<!--end the header-->
 <table border="0" cellpadding="0" cellspacing="0" width="770">
    <tbody><tr>
       <td valign="top">
@@ -254,10 +333,10 @@ function setgoSite()
       <td valign="top">
         <img src="/images/interface/spacer.gif" alt="" border="0" width="10" height="15"><br>
         <!-- begin content area include-->
-        <!-- get the page_style value from the xml doc-->
+        <!-- Addition by Salman Qureshi - McFadyen Consulting -->
         
-            
-                  <!--?xml version="1.0" encoding="UTF-8"?-->
+		           
+			                  <!--?xml version="1.0" encoding="UTF-8"?-->
 <font class="title"><p><b>Privacy Statement</b></p></font><font class="content">
 
 This is the American Heart Association's Internet Privacy Statement. Together with the Policy on Collection and Use of Personal Information, this privacy statement discloses the privacy practices for www.americanheart.org and my.americanheart.org. 
@@ -308,20 +387,26 @@ If we decide to change our privacy policy, we will post changes on our home page
 
 
 </font>
-            
-    
-<!-- end content area include-->
+			        
+	    	
+        
+		<!-- Addition by Salman Qureshi - McFadyen Consulting -->
+		<!-- end content area include-->
 </td>
 <td valign="top"><img src="/images/interface/spacer.gif" alt="" border="0" width="15" height="1"></td>
 <td valign="top"><img src="/images/interface/spacer.gif" width="10" height="20" border="0" alt="">
 <br>
 <!-- begin features zone.jthml-->
+<!-- let dynamic pages take over this portion of the screen..-->
 
+	
 
 
 <table border="0">
   <tbody><tr>
 <td valign="top">
+
+
 
 
 
@@ -369,9 +454,20 @@ If we decide to change our privacy policy, we will post changes on our home page
 
 </td>
   </tr>
+
+
+<!-- end the login droplet condition -->
+
+
 </tbody></table>
 
 
+
+
+
+
+
+<!-- on the other hand..if the dynpage value is llIntroPage, then we do want to see the feature zone-->
 
 
 <!-- end features zone.jthml-->
@@ -386,58 +482,84 @@ If we decide to change our privacy policy, we will post changes on our home page
 </tbody></table> 
 
 <!--begin contents of footer.jthml-->
-<!-- BEGIN WEBSIDESTORY CODE v9.1.1 (11up) -->
-<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://
-websidestory.com/privacy -->
-<script language="javascript" id="_hbc">
-var _acct="DM531113GBRV58EN3";  //account number(s)
-var _pn="PUT+PAGE+NAME+HERE"; //page name(s)
-var _mlc="CONTENT+CATEGORY"; //multi-level content category
-var _seg=""; // visitor segmentation
-var _cmp=""; // campaign id
-var _gp="";  // campaign goal
-var _cmpn="";// campaign id in query
-var _gpn=""; // campaign goal in query
-var _fnl=""; // funnels
-var _pec=""; // error codes
-var _fv="";  // form validation function name
-var _dcmp="";// dynamic campaign
-var _dcmpn="";//dynamic campaign in query
-var _hra=""; // response attribute
-var _hcn=""; // conversion
-var _hcv=""; // conversion value
-var _hlt=""; // lead tracking
-var _hla=""; // lead attribute
-var _hqsr="";// response attribute in referrer query
-var _hqsp="";// response attribute in query
-var _hc1=""; // custom 1
-var _hc2=""; // custom 2
-var _hc3=""; // custom 3
-var _hc4=""; // custom 4
-var _lt="auto";  // link tracking
-var _ci="";  // customer id
-var _cp="null"; // campaign
-var _cpd=""; // campaign domain
-var _pndef="title"; //default page name
-var _ctdef="full"; //default content category
-var _dlf="n"; //download filter
-var _elf="n"; //exit link filter
-var _dft="n"; // download file tracker variable, set to y to use the name reference
-var _hrf=""; // custom referrer. use valid url or param name
-var _epg="n"; //event page identifier var _vpc="090101r";
-var _gn="ehg-aha.hitbox.com",_mn="we73"; //gateway & machine name
-</script><script language="javascript1.1" defer="" src="cm/javascript/hbe-11up.js;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ"> </script><script language="javascript">
-if(navigator.appName!='Netscape'&&parseInt(
-navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
-<img src="http://ehg-aha.hitbox.com/HG?hc=we73&cd=1&hv=6&ce=u&hb=DM531113GBRV58EN
-3&n=PUT+PAGE+NAME+HERE&vcon=CONTENT+CATEGORY&seg=&cmp=&gp=&fnl=&pec=&dcmp=&r
-a=&gn=&cv=&ld=&la=&c1=&c2=&c3=&c4=&vpc=090101rn" border="0" width="1" height="1"> </noscript><!--//-->
-<!-- END WEBSIDESTORY CODE  -->
 <table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><img src="images/interface/spacer.gif" width="163" height="11" border="0"></td><td colspan="2"><br><br><font class="comment"><a class="content" href="/presenter.jhtml;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ?identifier=11405">Privacy Statement</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ?identifier=11404">Use of Personal Information</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=XMDE03RMVG4SRWFZOAGSCZQ?identifier=11406">Copyright</a><br>
-<font color="999999">©2002 American Heart Association, Inc.  All rights reserved. Unauthorized use prohibited.</font></font></td></tr>
+<tbody><tr><td><img src="images/interface/spacer.gif" width="163" height="11" border="0"></td><td colspan="2"><br><br><font class="comment"><a class="content" href="/presenter.jhtml;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ?identifier=11405">Privacy Statement</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ?identifier=11404">Use of Personal Information</a>  |  <a class="content" href="/presenter.jhtml;jsessionid=SHT5VQZE0HU5XWFZOAHCCZQ?identifier=11406">Copyright</a><br>
+<font color="999999">©2004 American Heart Association, Inc.  All rights reserved. Unauthorized use prohibited.</font></font></td></tr>
 <tr><td><img src="images/interface/spacer.gif" width="163" height="11" border="0"></td><td><img src="images/interface/spacer.gif" width="417" height="11" border="0"></td><td><img src="images/interface/spacer.gif" width="195" height="11" border="0"></td></tr>
 </tbody></table>
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-aha.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+//hbx.acct="DM531113D4DD58EN3";//ACCOUNT NUMBER(QA-version)
+hbx.acct="DM531113GBRV58EN3";//ACCOUNT NUMBER(Production-version)
+// DEFINED IN PRESENTER.JHTML FURTHER DOWN IN THE PAGE. 
+// hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+// DEFINED IN PRESENTER.JHTML FURTHER DOWN IN THE PAGE. 
+// hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="none";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+
+//INSERT CUSTOM EVENTS
+var ev1 = _hbEvent("search");
+ev1.keywords = hbxStrip( searchTerm ); // Keyword(s) searched upon
+ev1.results = "" + searchItmCnt + "";  // Number of results
+// ev1.keywords = "heart+beat"; 
+// ev1.results = "9";      // Number of results
+ev1.attr1 = "COLUMN+3";    // Used for advanced searches; such
+ev1.attr2 = "COLUMN+4";    //   as, search by category, movie, 
+ev1.attr3 = "COLUMN+5";    //   etc...
+ev1.attr4 = "COLUMN+6";
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" defer="" src="http://www.americanheart.org/includes/hitbox/hbx.js"></script>
+<!--END WEBSIDESTORY CODE-->
 
 
 <!--end contents of footer.jthml-->
@@ -454,14 +576,35 @@ a=&gn=&cv=&ld=&la=&c1=&c2=&c3=&c4=&vpc=090101rn" border="0" width="1" height="1"
           
 menubegin(3);
                   writeitem("section3menu","1","/presenter.jhtml?identifier=10845","Arrhythmia","1");
+
+
 writeitem("section3menu","1","/presenter.jhtml?identifier=1516","Cholesterol","2");
+
+
 writeitem("section3menu","1","http://www.s2mw.com/heartofdiabetes/index.html","Diabetes","3");
+
+
 writeitem("section3menu","1","/presenter.jhtml?identifier=1200005","Heart Attack","4");
+
+
 writeitem("section3menu","1","/presenter.jhtml?identifier=1486","Congestive Heart Failure","5");
+
+
 writeitem("section3menu","1","/presenter.jhtml?identifier=2114","High Blood Pressure","6");
+
+
 writeitem("section3menu","1","/presenter.jhtml?identifier=11062","Adults With Congenital Heart Disease","7");
-writeitem("section3menu","1","/presenter.jhtml?identifier=555","Other Conditions","8");
-writeitem("section3menu","1","/presenter.jhtml?identifier=3000416","Treatment Options","9");
+
+
+writeitem("section3menu","1","/presenter.jhtml?identifier=3020242","Peripheral Artery Disease","8");
+
+
+writeitem("section3menu","1","/presenter.jhtml?identifier=555","Other Conditions","9");
+
+
+writeitem("section3menu","1","/presenter.jhtml?identifier=3000416","Treatment Options","10");
+
+
 
 menuend();
               
@@ -469,13 +612,32 @@ menuend();
           
 menubegin(4);
                   writeitem("section4menu","1","/presenter.jhtml?identifier=3007586","If Your Child Has a Congenital Heart Defect","1");
+
+
 writeitem("section4menu","1","/presenter.jhtml?identifier=170","Innocent, Physiological &amp; Functional Heart Murmurs","2");
+
+
 writeitem("section4menu","1","/presenter.jhtml?identifier=3005330","If Your Child Needs a Heart Test","3");
+
+
 writeitem("section4menu","1","/presenter.jhtml?identifier=3016405","Heart Failure in Children &amp; Adolescents","4");
+
+
 writeitem("section4menu","1","/presenter.jhtml?identifier=1200004","Ask the Pediatric Cardiologist","5");
+
+
 writeitem("section4menu","1","/presenter.jhtml?identifier=162","Kawasaki Disease","6");
+
+
 writeitem("section4menu","1","/presenter.jhtml?identifier=3007589","Children &amp; Exercise","7");
+
+
 writeitem("section4menu","1","/presenter.jhtml?identifier=3007590","Children &amp; Nutrition","8");
+
+
+writeitem("section4menu","1","/presenter.jhtml?identifier=3018193","DiGeorge Syndrome","9");
+
+
 
 menuend();
               
@@ -483,32 +645,95 @@ menuend();
           
 menubegin(5);
                   writeitem("section5menu","1","/presenter.jhtml?identifier=3012360","Find a Class Near You","1");
+
+
 writeitem("section5menu","1","/presenter.jhtml?identifier=3011765","Training Courses","2");
-writeitem("section5menu","1","/presenter.jhtml?identifier=3011776","Course Materials","3");
-writeitem("section5menu","1","/presenter.jhtml?identifier=3011785","Instructor Information","4");
-writeitem("section5menu","1","/presenter.jhtml?identifier=3011794","Corporate Training","5");
-writeitem("section5menu","1","/presenter.jhtml?identifier=3011795","Healthcare Professionals","6");
-writeitem("section5menu","1","/presenter.jhtml?identifier=3011800","Science","7");
-writeitem("section5menu","1","/presenter.jhtml?identifier=3011806","International Programs","8");
-writeitem("section5menu","1","/presenter.jhtml?identifier=3011810","About Us","9");
+
+
+writeitem("section5menu","1","/presenter.jhtml?identifier=3019205","e-Learning","3");
+
+
+writeitem("section5menu","1","/presenter.jhtml?identifier=3011776","Course Materials","4");
+
+
+writeitem("section5menu","1","/presenter.jhtml?identifier=3011785","Instructor Information","5");
+
+
+writeitem("section5menu","1","/presenter.jhtml?identifier=3011794","Corporate Training","6");
+
+
+writeitem("section5menu","1","/presenter.jhtml?identifier=3011795","Healthcare Professionals","7");
+
+
+writeitem("section5menu","1","/presenter.jhtml?identifier=3011800","Science","8");
+
+
+writeitem("section5menu","1","/presenter.jhtml?identifier=3011806","International Programs","9");
+
+
+writeitem("section5menu","1","/presenter.jhtml?identifier=3011810","About Us","10");
+
+
 
 menuend();
               
       
-          emptymenu(6);
+          
+menubegin(6);
+                  writeitem("section6menu","1","/presenter.jhtml?identifier=3018909","Para reducir los factores de riesgo","1");
 
+
+writeitem("section6menu","1","/presenter.jhtml?identifier=3018637","Aprenda los hechos","2");
+
+
+writeitem("section6menu","1","/presenter.jhtml?identifier=3019752","Respuestas del Corazón","3");
+
+
+writeitem("section6menu","1","/presenter.jhtml?identifier=3018708","Levante su voz","4");
+
+
+writeitem("section6menu","1","/presenter.jhtml?identifier=3018901","Para más información","5");
+
+
+writeitem("section6menu","1","/presenter.jhtml?identifier=3018862","Nuestro patrocinador","6");
+
+
+writeitem("section6menu","1","/presenter.jhtml?identifier=3018867","Comuníquense","7");
+
+
+
+menuend();
+              
       
           
 menubegin(7);
                   writeitem("section7menu","1","/presenter.jhtml?identifier=1200010","Diet &amp; Nutrition","1");
+
+
 writeitem("section7menu","1","/presenter.jhtml?identifier=3006028","Health Tools","2");
+
+
 writeitem("section7menu","1","http://www.s2mw.com/cholesterollowdown/index.html","Cholesterol Low Down","3");
+
+
 writeitem("section7menu","1","/presenter.jhtml?identifier=1200011","Women &amp; Cardiovascular Disease","4");
+
+
 writeitem("section7menu","1","/presenter.jhtml?identifier=1200013","Exercise &amp; Fitness","5");
+
+
 writeitem("section7menu","1","/presenter.jhtml?identifier=1200014","Managing Your Lifestyle","6");
+
+
 writeitem("section7menu","1","http://216.185.102.50/haw/","Heart At Work","7");
+
+
 writeitem("section7menu","1","/presenter.jhtml?identifier=1557","How Your Heart Works","8");
+
+
 writeitem("section7menu","1","/presenter.jhtml?identifier=3003754","Children and Youth","9");
+
+
 
 menuend();
               
@@ -516,11 +741,26 @@ menuend();
           
 menubegin(8);
                   writeitem("section8menu","1","/presenter.jhtml?identifier=1038","Learn Our Issues","1");
+
+
 writeitem("section8menu","1","/presenter.jhtml?identifier=3010780","Take Action: Join the Network","2");
+
+
 writeitem("section8menu","1","/presenter.jhtml?identifier=1019","Advocacy News","3");
+
+
 writeitem("section8menu","1","/presenter.jhtml?identifier=3010844","Our Successes","4");
+
+
 writeitem("section8menu","1","/presenter.jhtml?identifier=2321","Facts &amp; Statistics","5");
+
+
 writeitem("section8menu","1","/presenter.jhtml?identifier=1068","Coalitions","6");
+
+
+writeitem("section8menu","1","/presenter.jhtml?identifier=3018487","Policymaker Resource Center","7");
+
+
 
 menuend();
               
@@ -528,11 +768,32 @@ menuend();
           
 menubegin(9);
                   writeitem("section9menu","1","/presenter.jhtml?identifier=1200019","Making Contributions","1");
-writeitem("section9menu","1","/presenter.jhtml?identifier=2335","Planned Giving","2");
-writeitem("section9menu","1","/presenter.jhtml?identifier=2281","American Heart Walk","3");
+
+
+writeitem("section9menu","1","/presenter.jhtml?identifier=2335","Wills, Trusts, Annuities","2");
+
+
+writeitem("section9menu","1","/presenter.jhtml?identifier=2281","Heart Walk","3");
+
+
 writeitem("section9menu","1","/presenter.jhtml?identifier=2441","Hoops For Heart","4");
+
+
 writeitem("section9menu","1","/presenter.jhtml?identifier=2360","Jump Rope For Heart","5");
-writeitem("section9menu","1","/presenter.jhtml?identifier=10000025","Heart to Heart E-Cards","6");
+
+
+writeitem("section9menu","1","/presenter.jhtml?identifier=3021454","Workplace Giving","6");
+
+
+writeitem("section9menu","1","/presenter.jhtml?identifier=3019523","Dear Neighbor Campaign","7");
+
+
+writeitem("section9menu","1","/presenter.jhtml?identifier=10000025","Heart to Heart E-Cards","8");
+
+
+writeitem("section9menu","1","http://www.strokeassociation.org/presenter.jhtml?identifier=1005","Train To End Stroke","9");
+
+
 
 menuend();
               
@@ -540,9 +801,17 @@ menuend();
           
 menubegin(10);
                   writeitem("section10menu","1","/presenter.jhtml?identifier=1200407","Publications","1");
+
+
 writeitem("section10menu","1","/presenter.jhtml?identifier=858","Resources","2");
+
+
 writeitem("section10menu","1","/presenter.jhtml?identifier=1200026","Statistics","3");
+
+
 writeitem("section10menu","1","/presenter.jhtml?identifier=4864","Other Sites","4");
+
+
 
 menuend();
               
@@ -553,11 +822,23 @@ menuend();
           
 menubegin(12);
                   writeitem("section12menu","1","/presenter.jhtml?identifier=2200004","Heart News","1");
+
+
 writeitem("section12menu","1","/presenter.jhtml?identifier=2200006","Stroke News","2");
+
+
 writeitem("section12menu","1","/presenter.jhtml?identifier=2200008","Advocacy News","3");
+
+
 writeitem("section12menu","1","/presenter.jhtml?identifier=1200031","All News ","4");
+
+
 writeitem("section12menu","1","/presenter.jhtml?identifier=3382","Public Service Announcements","5");
+
+
 writeitem("section12menu","1","/presenter.jhtml?identifier=3016060","Broadcast News","6");
+
+
 
 menuend();
               
@@ -565,12 +846,29 @@ menuend();
           
 menubegin(13);
                   writeitem("section13menu","1","/presenter.jhtml?identifier=10858","Mission","1");
+
+
 writeitem("section13menu","1","/presenter.jhtml?identifier=606","Annual Report","2");
+
+
 writeitem("section13menu","1","/presenter.jhtml?identifier=11282","Organizational Structure","3");
+
+
 writeitem("section13menu","1","/presenter.jhtml?identifier=10860","History","4");
+
+
 writeitem("section13menu","1","/presenter.jhtml?identifier=1200032","Employment","5");
+
+
 writeitem("section13menu","1","/presenter.jhtml?identifier=3011143","Diversity","6");
+
+
 writeitem("section13menu","1","/presenter.jhtml?identifier=10862","Policies","7");
+
+
+writeitem("section13menu","1","/presenter.jhtml?identifier=3019405","Advertising","8");
+
+
 
 menuend();
               
@@ -578,14 +876,32 @@ menuend();
           
 menubegin(14);
                   writeitem("section14menu","1","http://my.americanheart.org","My AmericanHeart for Professionals","1");
+
+
 writeitem("section14menu","1","/presenter.jhtml?identifier=3004002","Member Services","2");
+
+
 writeitem("section14menu","1","/presenter.jhtml?identifier=3002973","Conferences and Events","3");
+
+
 writeitem("section14menu","1","/presenter.jhtml?identifier=1722","Continuing Education","4");
+
+
 writeitem("section14menu","1","/presenter.jhtml?identifier=1200409","Library","5");
+
+
 writeitem("section14menu","1","/presenter.jhtml?identifier=1200050","Research","6");
+
+
 writeitem("section14menu","1","/presenter.jhtml?identifier=3004200","Patient Information","7");
+
+
 writeitem("section14menu","1","/presenter.jhtml?identifier=1165","Get With The Guidelines","8");
+
+
 writeitem("section14menu","1","/presenter.jhtml?identifier=3015493","Quality Initiatives","9");
+
+
 
 menuend();
               
@@ -597,7 +913,7 @@ menuend();
   
           
                   document.write("<div id=primarymenu>");
-              primaryitem("Warning Signs","/presenter.jhtml?identifier=3053","1");primaryitem("American Stroke Association","http://www.strokeassociation.org/","2");primaryitem("Diseases &amp; Conditions","/presenter.jhtml?identifier=1200002","3");primaryitem("Children: Heart Disease &amp; Health","/presenter.jhtml?identifier=1477","4");primaryitem("CPR &amp; ECC","/presenter.jhtml?identifier=3011764","5");primaryitem("En Español","/presenter.jhtml?identifier=3015971","6");primaryitem("Healthy Lifestyle","/presenter.jhtml?identifier=1200009","7");primaryitem("Advocacy: You Can Make a Difference","/presenter.jhtml?identifier=2945","8");primaryitem("Fund Raising","/presenter.jhtml?identifier=1200018","9");primaryitem("Publications &amp; Resources","/presenter.jhtml?identifier=1200020","10");primaryitem("Heart &amp; Stroke Encyclopedia","/presenter.jhtml?identifier=10000056","11");primaryitem("News","/presenter.jhtml?identifier=1200030","12");primaryitem("About Us","/presenter.jhtml?identifier=1200029","13");primaryitem("Science &amp; Professional","/presenter.jhtml?identifier=1200033","14");primaryitem("Local Info","/presenter.jhtml?identifier=10000028","15");
+              primaryitem("Warning Signs","/presenter.jhtml?identifier=3053","1");primaryitem("American Stroke Association","http://www.strokeassociation.org/","2");primaryitem("Diseases &amp; Conditions","/presenter.jhtml?identifier=1200002","3");primaryitem("Children: Heart Disease &amp; Health","/presenter.jhtml?identifier=1477","4");primaryitem("CPR &amp; ECC","/presenter.jhtml?identifier=3011764","5");primaryitem("En español","/presenter.jhtml?identifier=3015971","6");primaryitem("Healthy Lifestyle","/presenter.jhtml?identifier=1200009","7");primaryitem("Advocacy: You Can Make a Difference","/presenter.jhtml?identifier=2945","8");primaryitem("Fund Raising","/presenter.jhtml?identifier=1200018","9");primaryitem("Publications &amp; Resources","/presenter.jhtml?identifier=1200020","10");primaryitem("Heart &amp; Stroke Encyclopedia","/presenter.jhtml?identifier=10000056","11");primaryitem("News","/presenter.jhtml?identifier=1200030","12");primaryitem("About Us","/presenter.jhtml?identifier=1200029","13");primaryitem("Science &amp; Professional","/presenter.jhtml?identifier=1200033","14");primaryitem("Local Info","/presenter.jhtml?identifier=10000028","15");
       
 
 document.write("</div>");
@@ -606,12 +922,53 @@ document.write("</div>");
 
 
 
+<!--<a href="/presenter.jhtml"> 
+<param name="dynamicPage" value="/quizzes/llIntroPage.jhtml">
+<param name="identifier" value="param:identifier">
+<param name="dynamicPageNumber" value="1">Take Quiz</a>-->
+
+<!--<a href="/presenter.jhtml"> 
+<param name="identifier" value="3018118">Take Quiz</a>-->
+
 <!-- THE FOLLOWING IS NOT FOR DEBUGING.
      IT IS FOR AUTO-MONITORING OF THE SITE. 
      DO NOT DELETE ! ...........................  --> 
 <!-- #PRESENTER.JHTML# -->
 
 
+
+<!-- CODE ADDED FOR HITBOX [BEGIN]
+     ................................................... --->
+<script>
+/*
+  function hbxStrip(a) { 
+     a = a.split("|").join(""); 
+     a = a.split("&").join("_"); 
+     a = a.split("'").join(""); 
+     a = a.split("#").join(""); 
+     a = a.split("$").join(""); 
+     a = a.split("%").join(""); 
+     a = a.split("^").join(""); 
+     a = a.split("*").join(""); 
+     a = a.split(":").join(""); 
+     a = a.split("!").join(""); 
+     a = a.split(">").join(""); 
+     a = a.split("<").join(""); 
+     a = a.split("~").join(""); 
+     a = a.split(";").join(""); 
+     a = a.split(" ").join("+"); 
+     return a; 
+  }
+*/
+</script>
+<script>hbx.mlc=hbxStrip('/Main Menu');</script>
+<script>hbx.pn=hbxStrip(document.title+'_11405');</script>
+
+<!-- CODE ADDED FOR HITBOX [END]
+     ................................................... --->
+
+
      <!-- close the droplet LeftNav -->
+
 
 </body></html>
