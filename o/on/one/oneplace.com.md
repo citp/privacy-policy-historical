@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123418id_/http%3A//oneplace.com/About_Us/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621094245id_/http%3A//www.oneplace.com/About_Us/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # OnePlace.com - Privacy Policy
 
@@ -47,6 +47,11 @@ OnePlace.com runs a daily [Giveaway](https://web.archive.org/GiveAway/), as well
 
 
 
+**Confirmed Opt-In**   
+Oneplace.com acquires no personal or registration data about our users except what you explicitly and voluntarily provide (ie. opt-in). We reserve the right to use this information specifically for the purposes related to your registration and generally for any necessary future communication regarding your registration or status. 
+
+As part of your free subscription, from time to time we will deliver messages from our ministry and advertising partners that we believe would be of specific interest to you. If you would prefer not to receive these occasional messages we will discontinue them at your request. 
+
 What about Cookies?   
 "Cookies" are small pieces of information that are stored by your Web browser on your computer's hard drive. Occasionally our Web site may place cookies on your computer's hard drive, however, our cookies do not contain any personally identifying information. Most Web browsers automatically accept cookies, but it is possible to adjust your browser to prevent that from happening. 
 
@@ -85,4 +90,5 @@ We welcome your questions and comments about privacy. Please send a message via 
 | [](https://web.archive.org/About_Us/ParentalConsentForm.asp) | [**parental consent form**](https://web.archive.org/About_Us/ParentalConsentForm.asp)  
 | [](https://web.archive.org/About_Us/TermsOfUse.asp) | [**terms of use**](https://web.archive.org/About_Us/TermsOfUse.asp)  
 | [](https://web.archive.org/About_Us/Listener_Survey/) | [**listener survey**](https://web.archive.org/About_Us/Listener_Survey/)  
+| [](https://web.archive.org/About_Us/LinktoUs.asp) | [**link to us**](https://web.archive.org/About_Us/LinktoUs.asp)  
 | [](https://web.archive.org/About_Us/WhyWeAdvertise.asp) | [**why we advertise**](https://web.archive.org/About_Us/WhyWeAdvertise.asp)
