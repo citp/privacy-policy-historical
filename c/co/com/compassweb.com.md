@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compassweb.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213025100id_/http%3A//www.compassweb.com/compass/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassweb.com privacy policy that was archived on 2001-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010625214043id_/http%3A//www.compassweb.com/compass/privacy.html) for the most accurate reproduction.*
 
 # Compass Bank > About Compass
 
