@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204224800id_/http%3A//www.bottomlinesecrets.com/cust_service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331073933id_/http%3A//store.bottomlinesecrets.com/cust_service/privacy.html) for the most accurate reproduction.*
 
 # Bottom Line Publications - Privacy Policy
 
@@ -19,11 +19,11 @@ Privacy Policy
 > 
 
 > 
-> For those who  [specifically request it](https://web.archive.org/web/20001204224800id_/http%3A//www.bottomlinesecrets.com/cust_service/email.html), we send a weekly E-mail message with a specially selected tip of the week and information about what's new on the BottomLineSecrets.com Web site and in the pages of our publications. If you do not want to receive this E-mail in the future, please let us know by filling out  [this form](https://web.archive.org/web/20001204224800id_/http%3A//www.bottomlinesecrets.com/cust_service/email.html#unsubscribe).
+> For those who  [specifically request it](https://web.archive.org/web/20010331073933id_/http%3A//store.bottomlinesecrets.com/cust_service/email.html), we send a weekly E-mail message with a specially selected tip of the week and information about what's new on the BottomLineSecrets.com Web site and in the pages of our publications. If you do not want to receive this E-mail in the future, please let us know by filling out  [this form](https://web.archive.org/web/20010331073933id_/http%3A//store.bottomlinesecrets.com/cust_service/email.html#unsubscribe).
 > 
-> If you supply us with your postal address on-line, you may receive periodic mailings from us with information about new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by filling out [this form](https://web.archive.org/web/20001204224800id_/http%3A//www.bottomlinesecrets.com/cust_service/privacy_no_mail.html).
+> If you supply us with your postal address on-line, you may receive periodic mailings from us with information about new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by filling out [this form](https://web.archive.org/web/20010331073933id_/http%3A//store.bottomlinesecrets.com/cust_service/privacy_no_mail.html).
 > 
-> You may also receive postal mailings from other reputable companies that offer products or services that we think might interest you. If you do not wish to receive such mailings, please let us know by filling out  [this form](https://web.archive.org/web/20001204224800id_/http%3A//www.bottomlinesecrets.com/cust_service/privacy_no_share.html).
+> You may also receive postal mailings from other reputable companies that offer products or services that we think might interest you. If you do not wish to receive such mailings, please let us know by filling out  [this form](https://web.archive.org/web/20010331073933id_/http%3A//store.bottomlinesecrets.com/cust_service/privacy_no_share.html).
 > 
 > If you would like to share your comments about our privacy policy, please write to  [webteam@boardroom.com](mailto:webteam@boardroom.com)
 
