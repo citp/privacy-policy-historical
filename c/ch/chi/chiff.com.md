@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212713id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204054022id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for chiff.com Internet Directory
 
@@ -11,13 +11,13 @@ Our goal is to make the Internet more user friendly...to take back the Net.
 
 Protecting your privacy and safeguarding your personal information is one of our highest priorities. 
 
-The following Privacy Statement explains how chiff.com collects and protects your information. If you have any questions that are not covered by this statement, please contact us at [support@chiff.com](mailto:support@chiff.com?subject=Privacy). 
+The following Privacy Statement explains how Chiff.com collects and protects your information. If you have any questions that are not covered by this statement, please contact us at [support@chiff.com](mailto:support@chiff.com?subject=Privacy). 
 
-By using the chiff.com Web site, you give your consent to the collection and use of certain personal information. Please look over the following FAQ to learn more. 
+By using the Chiff.com Web site, you give your consent to the collection and use of certain personal information. Please look over the following FAQ to learn more. 
 
 **_Why do we gather information?_** Statistics and demographics are topics that our advertisers want to see. That's a reality both online and off. But... knowing who uses this site helps us provide better service to you. We are not interested in anyone's individual information, but if most of our visitors are nearing retirement age - we may want to provide more in depth information on those issues. If more visitors are college aged, financial aid and job prospects would be more useful. Young parent's may be concerned with saving for their kids to go to college. You can see the connection between who you are and what we focus on.
 
-**_What information do we collect?_** chiff.com does not collect personal information as you visit the site, nor does it store or othewise record any e-mail address that you may enter into our 'Send this page to a friend' interface. The only instance where we will ask you for personal information is if you request a newsletter subscription. However, we do carry ads and other third party links that may add cookies to your computer to obtain information. 
+**_What information do we collect?_** Chiff.com does not collect personal information as you visit the site, nor does it store or othewise record any e-mail address that you may enter into our 'Send this page to a friend' interface. The only instance where we will ask you for personal information is if you request a newsletter subscription. However, we do carry ads and other third party links that may add cookies to your computer to obtain information. 
 
 **_Do we share the information collected with any other third parties?_** We do share information with our newsletter service, however we have reviewed their policy in regard to client's information and it is in line with our philosophy. In the event that their policy changes, we will find another service or produce the newsletters in-house.
 
