@@ -1,58 +1,95 @@
-> *The following text is extracted and transformed from the ati.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025649id_/http%3A//ati.com/companyinfo/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ati.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233711id_/http%3A//ati.com/companyinfo/privacy/index.html) for the most accurate reproduction.*
 
-# ATI Technologies Inc.
+# Privacy Policy
 
-This privacy policy discloses how ATI Technologies Inc. ("ATI") collects, protects, uses and shares information gathered about you on our www.ati.com web site (the "Site"). We hope that this policy will help increase your confidence in our Site and enhance your experience on the Internet.
+  | 
 
-As a general guideline, ATI is committed to protecting your privacy and to ensuring you have a secure online experience. You can surf through most of our site without providing us any information about yourself. In some instances, however, we do need information to provide services that you may request. This privacy policy explains how we use and collect data about you in those situations. 
+_Last updated February 10, 2004._
 
-**Collection of Personal Information**
+**We take your privacy seriously. We are committed to protecting the privacy of personally identifiable information collected about you. It remains our policy and our commitment not to distribute, sell, rent or in any way make available your name, email address or other personal information to any third party without your prior written consent.**
 
-ATI will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, ordering e-mail newsletters, joining a limited-access premium site, or when purchasing and registering ATI products. Personal information collected by ATI often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. 
+We also recognize that our visitors, and the parents of children visiting our site, need protection of any personally identifying information they choose to share with us. This privacy policy is intended to provide you with the information on how we collect, use and store the information that you provide, so that you can make appropriate choices for sharing information with us. 
 
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we keep this registration information on file with any information you've already given us on previous visits to our Site. This is considered your personal information. 
+If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact:
 
-**ATI's Use of Personal Information**
-
-We use your personal information for four primary purposes: 
-
-  * To make the site easier for you to use by not making you enter your personal information more than once.
-  * To help you quickly find software, services or information on the Site.
-  * To help us create and deliver content most relevant to you.
-  * To alert you to product upgrades, special offers, updated information and other new services from ATI.
-
+Attention: Director, ATI Internet Marketing & Development  
+ATI Technologies, Inc.  
+55 Commerce Valley Drive West  
+Markham, Ontario, L3T 7V9, Canada   
+Telephone: (905) 882-2600  
+Fax: (905) 882-6099  
+E-Mail: [privacy@ati.com](mailto:privacy@ati.com)  
 
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
+**The following sections will cover:**
 
-ATI will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on ATI or the Site; (b) protect and defend the rights or property of ATI and its Site, and, (c) act in urgent circumstances to protect the personal safety of users of the Site, or the public.
+    
 
-**Control of your Personal Information**
+  * **Websites we operate**
+  * **Information we collect from you**
+  * **ATI’s use of Personal Information**
+  * **Control of your Personal Information**
+  * **Security of your Personal Information**
+  * **Use of Cookies**
+  * **Parental Consent **
+  * **Parental Access**
+  * **Enforcement of this Statement**
+  * **Changes to this Statement**
 
-When you register, or otherwise give us personal information, ATI will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above. 
 
-ATI may send out periodic e-mails informing you of technical service issues related to a product or service you requested. You will, of course, be able to choose to unsubscribe to these mailings.
 
-**Security of your Personal Information**
+**Websites we operate  
+** We currently operate the web sites www.ati.com and www.shopati.com (the (“Sites”). In addition, we own several other domain names that point to the web sites listed above. From time to time we may add new sites that may not be listed above, but will provide a link to this policy.
 
-ATI strictly protects the security of your personal information and will honor your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+**Information We Collect From You  
+**In order to operate the Sites and provide you with information on products and services that may be of interest to you, we may collect contact information (i.e., information that could be used to contact you, such as full name, postal address, phone number and email address, as well as your computer’s unique IP address (if any)), financial information (i.e., passwords, credit card numbers and bank and other financial institution account numbers) and demographic information (e.g., zip code, hometown, gender, purchase history information and age as well as IP addresses that are not unique to your computer) from you. Please note that nowhere on the Sites do we knowingly collect contact information or financial information from children under the age of 13.
 
-Your personal information is never shared outside the company with any third parties without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in Canada or any other country where ATI, its subsidiaries, affiliates or agents are located. 
+**ATI's Use of Personal Information  
+**ATI will ask for your consent when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, ordering e-mail newsletters, joining a limited-access premium site, or when purchasing and registering ATI products. Personal information collected by ATI often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. 
 
-**Cookies**
+When you buy and install a new product, we ask you to register your purchase electronically. When you do, we keep this registration information on file (in our secure database) with any information you've already given us on previous visits to our Sites. This is considered your personal information. 
 
-To ensure we are publishing content customers need and want, ATI collects aggregated site-visitation statistics using cookies. We do not track individuals' use of the site. 
+We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited, by contract, from using that information for any other purpose. 
 
-When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. 
+ATI will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on ATI or the Sites; (b) protect and defend the rights or property of ATI and its Sites, and, (c) act in urgent circumstances to protect the personal safety of users of the Sites, or the public.
 
-Web beacons, also known as clear gif technology, or action tags, assist in delivering the cookie. This technology tells us how many visitors clicked on key elements (such as links or graphics) on a Site page. We do not use this technology to access your personally identifiable information on the Site; it is a tool we use to compile aggregated statistics about usage of the Site. We do not share tracking information outside of ATI, and do not allow other companies to place clear gifs on our sites. 
+**Control of your Personal Information**  
+You may unsubscribe from emails and promotional offers by clicking the unsubscribe link at the bottom of any email sent to you by ATI, or by changing your preference on your ATI Communication Preference Center Profile. 
 
-If you choose to not have your browser accept cookies from the Site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site. 
+If your email address has changed and you would like to continue to receive the ATI.com newsletter(s), you will need update your profile with your new email address. 
 
-**Changes to this Policy**
+ATI.com may, if you choose to receive them, send out periodic emails informing you of technical service issues, information about account issues, or news about changes or updates to the site. As long as you maintain an ATI.com account, you can choose to opt-in or opt-out of these emails.
 
-ATI will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, ATI will notify you by placing prominent notice on the Web site. 
+**Security of your Personal Information  
+** ATI Technologies Inc. is committed to protecting the security of your personal information. We use a variety of advanced security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on secured computer servers that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-**Further Information**
+A password is required to access your ATI.com or your ShopATI.com account. It is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving your ATI.com account to protect access to your information from subsequent users.
 
-ATI welcomes your comments regarding this Statement of Privacy, please contact us by e-mail or postal mail. 
+**Use of Cookies  
+** This Web site uses cookies to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to tell the web server that you have returned to a specific page, so that when you visit the site again, the experience will be personalized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to set your computer to accept cookies, you may also choose to be logged into the ATI.com site automatically. You may also select a country of your choice as your default home page. This selection is stored in a cookie. 
+
+**Parental Consent  
+**In order for children under 13 years old to participate in online activities that require registration, we require prior written permission from a parent or guardian (opt-in). A parental consent form is available at <http://www.ati.com/companyinfo/legal/consent.html>. This form must be signed by the child's parent or guardian and returned to 
+
+Attention: ATI Internet Marketing & Development  
+ATI Technologies, Inc.  
+55 Commerce Valley Drive West  
+Markham, Ontario, L3T 7V9, Canada   
+Telephone: (905) 882-2600  
+Fax: (905) 882-6099  
+
+
+Once we have obtained parental consent, we only ask the child for information that is reasonably necessary for the child to participate in our online activities. 
+
+**Parental Access  
+**A parent who has given ATI Technologies Inc. permission to collect his or her child's information can, at any time, do the following: (1) confirm, correct or have deleted the child's personal information; (2) discontinue further use of the child's information and/or communication with the child; and/or, (3) revoke his or her earlier consent to collect and use the child's information. To update your child’s profile please complete the following form [http://www.ati.com/companyinfo/legal/consent_form.html ](http://www.ati.com/companyinfo/legal/consent_form.html)and we will review or update your child's information as appropriate. Please be sure to include in your fax or email the email address your child used to register.
+
+**Enforcement of this Statement  
+** If you have questions regarding this Statement, you should first contact [privacy@ati.com](mailto:privacy@ati.com). In most cases we respond to your inquiries within a 24-hour time period. 
+
+**Changes to this Statement  
+** ATI.com will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this Statement, ATI will notify you by placing prominent notice on the Web site. We encourage you to periodically review this Privacy Statement to be informed of how ATI Technologies Inc. is helping to protect your information.
+
+|  
