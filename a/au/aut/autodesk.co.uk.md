@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autodesk.co.uk privacy policy that was archived on 2003-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030212180726id_/http%3A//www.autodesk.co.uk/adsk/item/0%2C%2C487317-452932%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodesk.co.uk privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002061648id_/http%3A//www.autodesk.co.uk/adsk/item/0%2C%2C487317-452932%2C00.html) for the most accurate reproduction.*
 
-# Autodesk - Company Information - Autodesk Privacy Policy
+# Autodesk - About Autodesk - Autodesk Privacy Policy
 
 **The privacy practices described in this Privacy Policy, including any changes we may inform you of, apply to our services available under the domain and sub-domains of**[ **www.autodesk.com**](http://www.autodesk.com/) **and apply generally to all of our websites and wholly owned subsidiary websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our services.  
 **  
