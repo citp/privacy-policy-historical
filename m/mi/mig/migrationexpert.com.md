@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the migrationexpert.com privacy policy that was archived on 2002-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020915103106id_/http%3A//www.migrationexpert.com/4-42.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrationexpert.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402141220id_/http%3A//www.migrationexpert.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Immigration Australia-Migration Expert-Professional, Personalised and Cost-Effective advice
+# Privacy Policy, Migration Expert.com – Australia Immigration
 
-Migration Expert Privacy Policy
+>> Privacy Policy
 
 **Personal Information**
 
@@ -16,9 +16,9 @@ We will NOT re-sell, distribute, or share your personal data with third parties.
 
 Migration Expert Pty Limited (ACN 101 197 157) is the sole owner of the information collected on this site.
 
-**Virtual Interview**
+**Personalised Online Interview**
 
-In order to benefit from our services, a client must first complete the virtual points test and interview process. During the virtual interview, a client is required to give detailed information about their background. This data is used to prepare their Personal Plan.
+In order to benefit from our services, a client must first complete the [**Australian Migration Eligibility Assessment**](https://web.archive.org/web/20030402141220id_/http%3A//www.migrationexpert.com/3-100.htm) and Interview process. During the Personalised Online Interview, a client is required to give detailed information about their background. This data is used to prepare and provide our [**Our Services**](https://web.archive.org/web/20030402141220id_/http%3A//www.migrationexpert.com/3-100.htm).
 
 **Transactions/Ordering**
 
