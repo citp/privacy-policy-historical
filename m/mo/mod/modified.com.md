@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modified.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004015144id_/http%3A//www.modified.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modified.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210081435id_/http%3A//www.modified.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Modified.Com
 
