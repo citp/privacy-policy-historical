@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810104552id_/http%3A//www.tdctrade.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hktdc.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630055759id_/http%3A//www.tdctrade.com/privacy/index.htm) for the most accurate reproduction.*
 
-# Privacy Policy Statement TDC
+# Privacy Policy Statement TDC (tdctrade.com)
 
 **1\. Our Policy**
 
