@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searcheurope.com privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606204045id_/http%3A//www.searcheurope.com/info/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searcheurope.com privacy policy that was archived on 2004-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206223113id_/http%3A//www.searcheurope.com/info/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>Search Europe</title>
@@ -28,8 +28,17 @@
 <td width="81" bgcolor="#FF6600"><input type="text" name="query" size="12" maxlength="150" style="font-size: 12px;"></td>
 <td bgcolor="#ffcc00" width="7"><img src="http://www.searcheurope.com/images/blank.gif" width="7"></td>
 <td width="97" bgcolor="#FF6600"><select name="stype" size="1" style="font-size : 12px;">
-              	<option value="web" selected="">Search Web</option>
-				<option value="photo">Search Photos</option>
+				<script language="javascript">
+				var urlstring = document.URL;
+				var photos = urlstring.indexOf("photos");
+				
+              	document.write ("<option VALUE=\"web\">Search Web</option>");
+				if (photos> 1) {
+					document.write ("<option VALUE=\"photo\" selected>Search Photos</option>");
+				} else {
+					document.write ("<option VALUE=\"photo\">Search Photos</option>");
+				}
+				</script><option value="web">Search Web</option><option value="photo">Search Photos</option>
               </select></td>
 			  <td bgcolor="#FF6600" width="23"><input type="image" src="http://www.searcheurope.com/images/se/hdr-search-gobutton.gif" width="23" height="19" lt="Click here to Search Europe" border="0"></td>
 
@@ -50,6 +59,8 @@
 </td></tr><tr><td valign="bottom" colspan="7" bgcolor="#FF6600"><img src="http://www.searcheurope.com/images/se/hdr-corner.gif" width="7" height="4" alt="" border="0"></td>
 </tr></tbody></table></td></tr></tbody></table>
 
+<script language="JavaScript" src="http://www.searcheurope.com/news/site_of_the_day.js"></script>
+<br><br>
 <!--endblock-->
 
 <script language="Javascript">
@@ -192,8 +203,19 @@ document.write('contact.us' + '@' + site  + '</a><br>');
 				<td width="81"><input type="text" name="query" size="12" maxlength="150" style="font-size: 12px;"></td>
 				<td bgcolor="#ffcc00" width="7"><img src="http://www.searcheurope.com/images/blank.gif" width="7"></td>
 				<td width="97"><select name="stype" size="1" style="font-size : 12px;">
-              	<option value="web" selected="">Search Web</option>
-				<option value="photo">Search Photos</option>
+              	<script language="javascript">
+				var urlstring = document.URL;
+				var photos = urlstring.indexOf("photos");
+				
+              	document.write ("<option VALUE=\"web\">Search Web</option>");
+				if (photos> 1) {
+					document.write ("<option VALUE=\"photo\" selected>Search Photos</option>");
+				} else {
+					document.write ("<option VALUE=\"photo\">Search Photos</option>");
+				}
+				</script><option value="web">Search Web</option><option value="photo">Search Photos</option>
+				
+				
               </select></td>
 			     <td width="23"><input type="image" src="http://www.searcheurope.com/images/se/hdr-search-gobutton.gif" width="23" height="19" lt="Click here to Search Europe" border="0"></td>
 
