@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209123200id_/http%3A//www.variety.com/about.asp%3FNavType%3Dprivate%26HbkId%3D12107462) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604165202id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.*
 
-# Variety.com
+# Variety.com - About Variety Privacy Policy
 
   
-Privacy Policy  
 January 1st, 2000 
 
 **For Cahners Business Information, a division of Reed Elsevier Inc. publications.**
@@ -12,14 +11,14 @@ This Privacy Policy will be continuously assessed against new technologies, busi
 
 Many of our publications are available free of charge or may be subscribed to at reduced rates because they are supported by advertisers. Qualification and registration questionnaires and other processes ensure that our advertisers reach the appropriate audiences. We may use the information we collect from you individually or aggregated with other user's information to improve our publications, to customize these publications, and to notify you about updates or new features. In addition, we may use information we collect to notify you of third-party products and services in which you may be interested.
 
-In addition to the options made available to you, if any, when we collect information, you may elect to "opt out" of having your individually identifiable information shared with third-parties that are not affiliated with Cahners (except for uses specifically requested by you and legitimate business uses). Separate third-party opt out request for each medium (mail or telephone or e-mail) must be submitted in writing to our Privacy Manager in one of the following ways:
+In addition to the options made available to you, if any, when we collect information, you may elect to "opt out" of having your individually identifiable information shared with third-parties that are not affiliated with Cahners (except for uses specifically requested by you and legitimate business uses). Separate third-party opt out request for each medium (mail or telephone or email) must be submitted in writing to our Privacy Manager in one of the following ways:
 
 Attention: | Privacy Manager  
 ---|---  
 Address: | Cahners Business Information  
 1350 E. Touhy Avenue  
 Des Plaines, IL 60018  
-E-mail: | [privacymanager@cahners.com](mailto:privacymanager@cahners.com)  
+email: | [privacymanager@cahners.com](mailto:privacymanager@cahners.com)  
 Phone: | (877) 504-1273  
 Fax: | (847) 390-2377  
   
