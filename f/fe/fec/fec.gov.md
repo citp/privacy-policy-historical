@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202083437id_/http%3A//www.fec.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203044849id_/http%3A//www.fec.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
