@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontseek.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610085215id_/http%3A//fontseek.com/copyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontseek.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/copyright.html) for the most accurate reproduction.*
 
 # Privacy policy - fontseek.com
 
@@ -33,5 +33,5 @@
 > 
 > If you have questions, instigations or criticism, please send an email to [info@fontseek.com](mailto:info@fontseek.com).   
   
-[Home](https://web.archive.org/web/20020610085215id_/http%3A//fontseek.com/index.html)  |  [Live-Search](https://web.archive.org/web/20020610085215id_/http%3A//fontseek.com/livesearch.shtml)  |   [Software](https://web.archive.org/web/20020610085215id_/http%3A//fontseek.com/software.html)  |  [Add Site](https://web.archive.org/web/20020610085215id_/http%3A//fontseek.com/add.html)  |  [Supplier](https://web.archive.org/web/20020610085215id_/http%3A//fontseek.com/supplier.html)   
-© 2000 [FontSeek.com](https://web.archive.org/web/20020610085215id_/http%3A//fontseek.com/copyright.html)
+[Home](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/index.html)  |  [Live-Search](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/livesearch.shtml)  |   [Software](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/software.html)  |  [Add Site](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/add.html)  |  [Supplier](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/supplier.html)   
+© 2000 [FontSeek.com](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/copyright.html)
