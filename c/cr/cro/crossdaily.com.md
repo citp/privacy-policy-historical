@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossdaily.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405212608id_/http%3A//info.crossdaily.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossdaily.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204001153id_/http%3A//info.crossdaily.com/privacy.php3) for the most accurate reproduction.*
 
 # CrossDaily.com - Privacy Policy
 
