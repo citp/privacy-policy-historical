@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottostrategies.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208210349id_/http%3A//www.lottostrategies.com/script/showpage/1001029/b/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottostrategies.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618121728id_/http%3A//lottostrategies.com/script/showpage/1001029/b/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LottoStrategies.com
 
@@ -19,5 +19,7 @@ LottoStrategies.com is the sole owner of the information collected on this site.
 LottoStrategies.com has a message board available for visitors. Please keep in mind that any information disclosed in the Lotto Forum becomes public information. You should be cautious when decided to disclose any personal information. 
 
 **Security**  
-The sensitive personal information in your LottoStrategies.com account, such as your password, is password protected for your privacy and security. In certain areas of the site, LottoStrategies.com uses industry-standard SSL encryption to protect data transmissions.   
+The sensitive personal information in your LottoStrategies.com account, such as your password, is password protected for your privacy and security. In certain areas of the site, LottoStrategies.com uses industry-standard SSL encryption to protect data transmissions. 
+
+  
  
