@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vodafone.com.au privacy policy that was archived on 2002-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021211222346id_/http%3A//www.vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dbusiness%26hd%3Dbusabout_vodafone%26st%3Dbuslegal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vodafone.com.au privacy policy that was archived on 2003-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030628073809id_/http%3A//www.vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dbusiness%26hd%3Dbusabout_vodafone%26st%3Dbuslegal) for the most accurate reproduction.-->
 
 <html><head>
 <title>About Us &gt; Legal &gt; Privacy Policy</title>
@@ -8,12 +8,50 @@
 <link rel="stylesheet" type="text/css" href="/styles.css">
 	<script language="javascript" src="/vodafone.js"></script>
 
-</head>
+<script language="javascript">
+
+function getCookie(NameOfCookie){
+    if (document.cookie.length > 0) {              
+    begin = document.cookie.indexOf(NameOfCookie+"=");       
+    if (begin != -1) {           
+      begin += NameOfCookie.length+1;       
+      end = document.cookie.indexOf(";", begin);
+      if (end == -1) end = document.cookie.length;
+        return unescape(document.cookie.substring(begin, end));
+    } 
+  }
+  return null;
+}
+
+function setCookie(NameOfCookie, value, expiredays, path, domain) {
+var ExpireDate = new Date ();
+ExpireDate.setTime(ExpireDate.getTime() + (expiredays * 24 * 3600 * 1000));
+
+  document.cookie = NameOfCookie + "=" + escape(value) + 
+  ((expiredays == null) ? "" : "; expires=" + ExpireDate.toGMTString()) + 
+  ((path == null)  ? "" : "; path=" + path) +
+  ((domain == null)  ? "" : "; domain=" + domain);
+}
+
+
+visited=getCookie('visited');
+ if (visited==null) 
+ {
+setCookie('visited','yes',365,'/')
+window.open('/browse_detect.html','MyWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=480,height=310')
+ }
+
+</script></head>
 <!-- ============================= Header  ======================== -->
 
 
 
 
+<!-- cookie detection to determine if browser detection is required -->
+<!-- check for our 'visited' cookie, if present then load site, if not present then write the cookie then execute browser detect -->
+
+
+<!-- end of cookie detection -->
 
 <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#EAEAEA">
 
@@ -56,10 +94,10 @@
 	<tr>
 		<td width="82"><a href="/business/mobiles/mobiles_and_prices.jsp?gs=business" onmouseover="swpimg('mobiles','/images/menu/mobiles-on.gif');" onmouseout="swpback();"><img src="/images/menu/mobiles-off.gif" width="82" height="44" name="mobiles" border="0"></a></td>
 		<td width="82"><a href="/business/services/services.jsp?gs=business" onmouseover="swpimg('services','/images/menu/services-on.gif');" onmouseout="swpback();"><img src="/images/menu/services-off.gif" width="82" height="44" name="services" border="0"></a></td>
+		<td width="82"><a href="/vlive/experience_vlive.jsp" onmouseover="swpimg('vflive','/images/menu/vflive-on.gif');" onmouseout="swpback();"><img src="/images/menu/vflive-off.gif" width="82" height="44" name="vflive" border="0"></a></td>
 		<td width="82"><a href="/business/myaccount/myaccount.jsp?gs=business" onmouseover="swpimg('myaccount','/images/menu/myaccount-on.gif');" onmouseout="swpback();"><img src="/images/menu/myaccount-off.gif" width="82" height="44" name="myaccount" border="0"></a></td>
-		    <td width="82"><a href="/rep/coverage.jsp?gs=business&amp;hd=buscoverage" onmouseover="swpimg('coverage','/images/menu/coverage-on.gif');" onmouseout="swpback();"><img src="/images/menu/coverage-off.gif" width="82" height="44" name="coverage" border="0"></a></td>
-		    <td width="82"><a href="/rep/about_vodafone.jsp?gs=business&amp;hd=busabout_vodafone" onmouseover="swpimg('about','/images/menu/about-on.gif');" onmouseout="swpback();"><img src="/images/menu/about-off.gif" width="82" height="44" name="about" border="0"></a></td>
-		<td width="82"><img src="/images/clear.gif" width="82" height="44"></td>
+		<td width="82"><a href="/rep/coverage.jsp?gs=business&amp;hd=buscoverage" onmouseover="swpimg('coverage','/images/menu/coverage-on.gif');" onmouseout="swpback();"><img src="/images/menu/coverage-off.gif" width="82" height="44" name="coverage" border="0"></a></td>
+		<td width="82"><a href="/rep/about_vodafone.jsp?gs=business&amp;hd=busabout_vodafone" onmouseover="swpimg('about','/images/menu/about-on.gif');" onmouseout="swpback();"><img src="/images/menu/about-off.gif" width="82" height="44" name="about" border="0"></a></td>		
 		<td width="82"><img src="/images/clear.gif" width="82" height="44"></td>
 		<td width="14"><img src="/images/clear.gif" width="14" height="44"></td>
 	</tr>
@@ -74,181 +112,183 @@
 <!--Branding image start-->
 <table width="759" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
-	        <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="759" height="80">
-                <param name="movie" value="/images/media/internet-v1.swf">
-                <param name="quality" value="high">
-                <embed src="/images/media/internet-v1.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="759" height="80">
-                 
-              </object></td>
+	<td>
+		 <script language="javascript">
+			var random_number ="";
+			var image="";
+			var url="";
+			random_number = Math.floor(Math.random()*8)+1;
+			
+			if (random_number <= 4)  {
+			url= "/vlive/experience_vlive.jsp"
+			};
+			else {
+			url= "/wod"
+			};
+			
+			image= "/images/live/" + "option" + random_number +".jpg";
+			document.write("<a href=\""+ url +"\"><img src=\""+ image +"\" border=\"0\" width=\"759\" height=\"80\" alt=\"\">");
+		 </script>
+	</td>
 </tr>
 </tbody></table>
 <!--Branding image end-->
 
 <!--Destinations & Search start-->
-
 <table width="759" border="0" cellspacing="0" cellpadding="0" align="center">
-<form method="post" action="/search?NS-search-page=results"></form>
-<input type="hidden" name="NS-search-type" value="NS-boolean-query">
-<input type="hidden" name="NS-max-records" value="20">
-<input type="hidden" name="NS-collection" value="vfcomau">
-<tbody><tr bgcolor="#AAA8A8">
-	<td width="151" bgcolor="#CECFCE"><img src="/images/clear.gif" width="151" height="31" border="0" alt=""></td>
-	<td width="1" bgcolor="#FFFFFF"><img src="/images/clear.gif" width="1" height="31" border="0" alt=""></td>
-	<td width="20"><img src="/images/clear.gif" width="20" height="31" border="0" alt=""></td>
-	<td width="46"><img src="/images/search.gif" width="36" height="9" border="0" alt=""></td>
-	<td width="135"><input name="NS-query" size="10" class="txtBox3" value=""></td>
-	<td width="7"><img src="/images/clear.gif" width="7" height="31" border="0" alt=""></td>
-	<td width="37"><input type="image" value="submit" src="/images/ok.gif" width="34" height="19" border="0" alt=""></td>
-	<td width="362"><img src="/images/clear.gif" width="362" height="31" border="0" alt=""></td>
-</tr>
-<tr bgcolor="#ffffff"><td colspan="8"><img src="/images/clear.gif" width="759" height="21"></td></tr>
+			<tbody><tr><td>
+        <table width="759" border="0" cellspacing="0" cellpadding="0" align="center">
+          
+            <tbody><tr bgcolor="#AAA8A8"> 
+              <td width="162" bgcolor="#CECFCE">&nbsp;</td>
+              <td width="1" height="31" bgcolor="#FFFFFF"><img src="/images/pixel.gif" width="1" height="31" border="0" alt=""></td>
+              <td width="6" height="31" bgcolor="#AAA8A8"><img src="/images/pixel.gif" width="6" height="31" border="0" alt=""></td>
+              <td width="43" height="31" bgcolor="#AAA8A8"><img src="/images/search.gif" width="36" height="9" border="0" alt=""></td>
+			  	<form method="post" action="/search?NS-search-page=results"></form>
+            							
+					<input type="hidden" name="NS-search-type" value="NS-boolean-query">
+					<input type="hidden" name="NS-max-records" value="20">
+					<input type="hidden" name="NS-collection" value="vfcomau">
+					
+              <td width="83" height="31" bgcolor="#AAA8A8"><input name="NS-query" class="txtBox2" value="" size="10" height="10"></td>
+              <td width="7" height="31" bgcolor="#AAA8A8"><img src="/images/pixel.gif" width="7" height="31" border="0" alt=""></td>
+              <td width="37" height="31" bgcolor="#AAA8A8"><input type="image" value="submit" src="/images/ok.gif" width="34" height="19" border="0" alt=""></td>
+              <td width="7" height="31" bgcolor="#AAA8A8"><img src="/images/pixel.gif" width="7" height="31" border="0" alt=""></td>
+			  <td width="1" height="31" bgcolor="#FFFFFF"><img src="/images/pixel.gif" width="1" height="31" border="0" alt=""></td>
+			  	
 
-</tbody></table>
+		<!-- My Vodafone Login start -->
+		
+			
+			
+				
+              <td width="7" height="31" bgcolor="#868484"><img src="/images/pixel.gif" width="7" height="31" border="0" alt=""></td>
+              <td width="55" height="31" bgcolor="#868484"><img src="/images/username.gif" width="49" height="9" border="0" alt=""></td>
 
+			  <form method="post" action="https://www.myvodafone.com.au/knox/login_handler.jsp"></form>
+				<!--- input type='hidden' name='url' value='/knox/template/ozdefault/landing.jsp' --->
+
+              <td width="109" height="31" bgcolor="#868484"><input type="text" size="10" maxlength="40" name="txtUserID" value="" tabindex="1" class="txtBox2"></td>
+              <td width="58" height="31" bgcolor="#868484"><img src="/images/password.gif" width="51" height="9"></td>
+              <td width="83" height="31" bgcolor="#868484"><input type="password" size="10" maxlength="20" name="txtPassword" value="" tabindex="2" class="txtBox2"></td>
+              <td width="7" height="31" bgcolor="#868484"><img src="/images/pixel.gif" width="7" height="31" border="0" alt=""></td>
+			  <td width="37" height="31" bgcolor="#868484"><input type="image" border="0" alt="Fill in the form and click here to login" name="btnLogin" value="submit" src="/images/ok.gif" width="34" height="19" tabindex="3" align="top"></td>
+              <td width="7" height="31" bgcolor="#868484"><img src="/images/pixel.gif" width="7" height="31" border="0" alt=""></td>
+			
+			
+
+			</tr></tbody></table>
+ 	
+			
+			<!--My Vodafone Login Finish-->
+			
+            </td></tr>
+            <tr bgcolor="#ffffff"> 
+              <td colspan="14"><img src="/images/clear.gif" width="759" height="21"></td>
+			</tr></tbody></table>
 <!--Destinations & Search end-->
 
 <!--Maintable & Text start-->
 <table width="759" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center">
 <tbody><tr>
-	<td width="13"><img src="/images/clear.gif" width="13" height="1" border="0"></td>
-	<td width="142" valign="top">
+	<td width="14"><img src="/images/clear.gif" width="14" height="1" border="0"></td>
+	<td width="157" valign="top">
 
 
 
 <!--LH Menu -->
-<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-  <td><img src="/images/space.gif" width="1" height="1" border="0"></td>
-
    
         <!-- start menu column -->
-<td width="151" valign="top">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td colspan="6"><img src="/images/sub_nav_lines.gif" border="0"></td></tr>
-<tr valign="center">
-<td colspan="5"><img src="/images/common/clear.gif" width="5" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/co_info.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buscompany_info" class="section">Company Information</a> </td>
-<td><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr>
-<td colspan="6"><img src="/images/sub_nav_lines.gif" border="0"></td></tr>
-<tr valign="center">
-<td colspan="5"><img src="/images/common/clear.gif" width="5" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/investor_relations.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=businvestor_relations" class="section">Investor Relations</a> </td>
-<td><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr>
-<td colspan="6"><img src="/images/sub_nav_lines.gif" border="0"></td></tr>
-<tr valign="center">
-<td colspan="5"><img src="/images/common/clear.gif" width="5" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/sponsorship.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=bussponsorship" class="section">Sponsorship</a> </td>
-<td><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr>
-<td colspan="6"><img src="/images/sub_nav_lines.gif" border="0"></td></tr>
-<tr valign="center">
-<td colspan="5"><img src="/images/common/clear.gif" width="5" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/charity.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buscharity" class="section">Charity</a> </td>
-<td><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr>
-<td colspan="6"><img src="/images/sub_nav_lines.gif" border="0"></td></tr>
-<tr valign="center">
-<td colspan="5"><img src="/images/common/clear.gif" width="5" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/media_centre.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=busmedia_centre" class="section">Media Centre</a> </td>
-<td><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr>
-<td colspan="6"><img src="/images/sub_nav_lines.gif" border="0"></td></tr>
-<tr valign="center">
-<td colspan="5"><img src="/images/common/clear.gif" width="5" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/careers.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buscareers" class="section">Careers</a> </td>
-<td><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr>
-<td colspan="6"><img src="/images/sub_nav_lines.gif" border="0"></td></tr>
-<tr valign="center">
-<td colspan="5"><img src="/images/common/clear.gif" width="5" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/community.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buscommunity" class="section">Community</a> </td>
-<td><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr>
-<td colspan="6"><img src="/images/sub_nav_lines.gif" border="0"></td></tr>
-<tr valign="center">
-<td colspan="5" background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="5" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/legal.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="section">Legal</a> </td>
-<td background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr valign="center">
-<td colspan="5" background="/images/menu/sub_nav_bak.gif" valign="center"><img src="/images/common/clear.gif" width="12" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/legal/privacy_policy.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="subsection"><u><font color="#FE0000">Privacy Policy</font></u></a>
-<img src="/images/space.gif" width="10" height="1"></td>
-<td background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr valign="center">
-<td colspan="5" background="/images/menu/sub_nav_bak.gif" valign="center"><img src="/images/common/clear.gif" width="12" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/legal/t_and_c.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="subsection">Website terms &amp; conditions</a>
-<img src="/images/space.gif" width="10" height="1"></td>
-<td background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr valign="center">
-<td colspan="5" background="/images/menu/sub_nav_bak.gif" valign="center"><img src="/images/common/clear.gif" width="12" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/legal/sfoa.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="subsection">Standard Forms of Agreement</a>
-<img src="/images/space.gif" width="10" height="1"></td>
-<td background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr valign="center">
-<td colspan="5" background="/images/menu/sub_nav_bak.gif" valign="center"><img src="/images/common/clear.gif" width="12" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/legal/gst.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="subsection">GST</a>
-<img src="/images/space.gif" width="10" height="1"></td>
-<td background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr valign="center">
-<td colspan="5" background="/images/menu/sub_nav_bak.gif" valign="center"><img src="/images/common/clear.gif" width="12" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/legal/mates_rates.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="subsection">Business Choice Mates Rates</a>
-<img src="/images/space.gif" width="10" height="1"></td>
-<td background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr valign="center">
-<td colspan="5" background="/images/menu/sub_nav_bak.gif" valign="center"><img src="/images/common/clear.gif" width="12" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/legal/competitions.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="subsection">Competitions</a>
-<img src="/images/space.gif" width="10" height="1"></td>
-<td background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr valign="center">
-<td colspan="5" background="/images/menu/sub_nav_bak.gif" valign="center"><img src="/images/common/clear.gif" width="12" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/legal/mobile_finance.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=busmobile_finance" class="subsection">Mobile Finance</a>
-<img src="/images/space.gif" width="10" height="1"></td>
-<td background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr valign="center">
-<td colspan="5" background="/images/menu/sub_nav_bak.gif" valign="center"><img src="/images/common/clear.gif" width="12" height="5" border="0"><img src="/images/sub_nav_arrow.gif">
-<a href="/rep/about/legal/complaints.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=buscomplaints_handling_policy" class="subsection">Complaints Handling Policy</a>
-<img src="/images/space.gif" width="10" height="1"></td>
-<td background="/images/menu/sub_nav_bak.gif"><img src="/images/common/clear.gif" width="1" height="24" border="0"></td>
-</tr>
-<tr>
-<td colspan="6"><img src="/images/sub_nav_lines.gif" border="0"></td> 
+<table width="142" border="0" cellspacing="0" cellpadding="1">
+<tbody><tr><td valign="top"><img src="/images/sub_nav_lines.gif" width="142" height="1" border="0" alt="Lines"></td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="5" border="0" alt="Lines"></td></tr>
+<tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="5" valign="middle"><img src="/images/sub_nav_arrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/co_info.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buscompany_info" class="submenu">Company Information</a></td></tr>
+</tbody></table>
+</td></tr>
+<tr><td valign="top"><img src="/images/pixel.gif" width="142" height="10" border="0" alt="Lines"></td></tr>
+
+<tr><td valign="top"><img src="/images/sub_nav_lines.gif" width="142" height="1" border="0" alt="Lines"></td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="5" border="0" alt="Lines"></td></tr>
+<tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="5" valign="middle"><img src="/images/sub_nav_arrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/investor_relations.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=businvestor_relations" class="submenu">Investor Relations</a></td></tr>
+</tbody></table>
+</td></tr>
+<tr><td valign="top"><img src="/images/pixel.gif" width="142" height="10" border="0" alt="Lines"></td></tr>
+
+<tr><td valign="top"><img src="/images/sub_nav_lines.gif" width="142" height="1" border="0" alt="Lines"></td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="5" border="0" alt="Lines"></td></tr>
+<tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="5" valign="middle"><img src="/images/sub_nav_arrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/sponsorship.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=bussponsorship" class="submenu">Sponsorship</a></td></tr>
+</tbody></table>
+</td></tr>
+<tr><td valign="top"><img src="/images/pixel.gif" width="142" height="10" border="0" alt="Lines"></td></tr>
+
+<tr><td valign="top"><img src="/images/sub_nav_lines.gif" width="142" height="1" border="0" alt="Lines"></td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="5" border="0" alt="Lines"></td></tr>
+<tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="5" valign="middle"><img src="/images/sub_nav_arrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/charity.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buscharity" class="submenu">Charity</a></td></tr>
+</tbody></table>
+</td></tr>
+<tr><td valign="top"><img src="/images/pixel.gif" width="142" height="10" border="0" alt="Lines"></td></tr>
+
+<tr><td valign="top"><img src="/images/sub_nav_lines.gif" width="142" height="1" border="0" alt="Lines"></td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="5" border="0" alt="Lines"></td></tr>
+<tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="5" valign="middle"><img src="/images/sub_nav_arrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/media_centre.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=busmedia_centre" class="submenu">Media Centre</a></td></tr>
+</tbody></table>
+</td></tr>
+<tr><td valign="top"><img src="/images/pixel.gif" width="142" height="10" border="0" alt="Lines"></td></tr>
+
+<tr><td valign="top"><img src="/images/sub_nav_lines.gif" width="142" height="1" border="0" alt="Lines"></td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="5" border="0" alt="Lines"></td></tr>
+<tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="5" valign="middle"><img src="/images/sub_nav_arrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/careers.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buscareers" class="submenu">Careers</a></td></tr>
+</tbody></table>
+</td></tr>
+<tr><td valign="top"><img src="/images/pixel.gif" width="142" height="10" border="0" alt="Lines"></td></tr>
+
+<tr><td valign="top"><img src="/images/sub_nav_lines.gif" width="142" height="1" border="0" alt="Lines"></td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="5" border="0" alt="Lines"></td></tr>
+<tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="5" valign="middle"><img src="/images/sub_nav_arrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/community.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buscommunity" class="submenu">Community</a></td></tr>
+</tbody></table>
+</td></tr>
+<tr><td valign="top"><img src="/images/pixel.gif" width="142" height="10" border="0" alt="Lines"></td></tr>
+
+<tr><td valign="top"><img src="/images/sub_nav_lines.gif" width="142" height="1" border="0" alt="Lines"></td></tr>
+<tr><td valign="top" background="/images/sub_nav_bak.gif">
+<table border="0" width="142" cellspacing="0" cellpadding="0">
+<tbody><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="5" border="0" alt=""></td></tr>
+<tr><td valign="top">
+<table border="0" width="142" cellspacing="0" cellpadding="0">
+<tbody><tr><td width="5" valign="middle"><img src="/images/sub_nav_redarrow.gif" width="5" height="4" border="0" alt="Arrow"></td>
+<td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td>
+<td align="left"><a href="/rep/about/legal.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="redsubmenu">Legal</a></td></tr>
+</tbody></table>
+</td></tr>
+<tr><td valign="top"><img src="/images/pixel.gif" width="142" height="10" border="0" alt="Lines"></td></tr>
+<tr><td valign="top">
+<table border="0" width="142" cellspacing="0" cellpadding="0">
+<tbody><tr><td width="13" valign="middle"><img src="/images/pixel.gif" width="10" height="5" border="0" alt="Lines"><img src="/images/red_arrowfilled.gif" width="3" height="5" border="0" alt="Arrow"></td>
+<td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td>
+<td align="left"><a href="/rep/about/legal/privacy_policy.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=busprivacy_policy" class="redsubmenu2">Privacy Policy</a></td></tr></tbody></table>
+</td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="8" border="0" alt="Lines"></td></tr><tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="13" valign="middle"><img src="/images/pixel.gif" width="10" height="5" border="0" alt="Lines"><img src="/images/sub_nav_greyarrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/legal/t_and_c.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=bust_and_c" class="submenu2">Website terms &amp; conditions</a></td></tr></tbody></table>
+</td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="8" border="0" alt="Lines"></td></tr><tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="13" valign="middle"><img src="/images/pixel.gif" width="10" height="5" border="0" alt="Lines"><img src="/images/sub_nav_greyarrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/legal/sfoa.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=bussfoa" class="submenu2">Standard Forms of Agreement</a></td></tr></tbody></table>
+</td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="8" border="0" alt="Lines"></td></tr><tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="13" valign="middle"><img src="/images/pixel.gif" width="10" height="5" border="0" alt="Lines"><img src="/images/sub_nav_greyarrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/legal/gst.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=busgst" class="submenu2">GST</a></td></tr></tbody></table>
+</td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="8" border="0" alt="Lines"></td></tr><tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="13" valign="middle"><img src="/images/pixel.gif" width="10" height="5" border="0" alt="Lines"><img src="/images/sub_nav_greyarrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/legal/mates_rates.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=busmates_rates" class="submenu2">Business Choice Mates Rates</a></td></tr></tbody></table>
+</td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="8" border="0" alt="Lines"></td></tr><tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="13" valign="middle"><img src="/images/pixel.gif" width="10" height="5" border="0" alt="Lines"><img src="/images/sub_nav_greyarrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/legal/competitions.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=competition" class="submenu2">Competitions</a></td></tr></tbody></table>
+</td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="8" border="0" alt="Lines"></td></tr><tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="13" valign="middle"><img src="/images/pixel.gif" width="10" height="5" border="0" alt="Lines"><img src="/images/sub_nav_greyarrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/legal/mobile_finance.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=busmobile_finance" class="submenu2">Mobile Finance</a></td></tr></tbody></table>
+</td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="8" border="0" alt="Lines"></td></tr><tr><td valign="top">
+<table width="142" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="13" valign="middle"><img src="/images/pixel.gif" width="10" height="5" border="0" alt="Lines"><img src="/images/sub_nav_greyarrow.gif" width="3" height="6" border="0" alt="Arrow"></td><td width="5"><img src="/images/pixel.gif" width="5" height="1" border="0" alt="Lines"></td><td align="left"><a href="/rep/about/legal/complaints.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal&amp;ss=buscomplaints_handling_policy" class="submenu2">Complaints Handling Policy</a></td></tr></tbody></table>
+</td></tr><tr><td valign="top"><img src="/images/pixel.gif" width="142" height="8" border="0" alt="Lines"></td></tr></tbody></table></td></tr>
+<tr><td><img src="/images/sub_nav_lines.gif" border="0" width="142" height="1"></td> 
 </tr> 
-<tr><td><img src="/images/space.gif" width="10" height="10"></td><!--
---><td><img src="/images/space.gif" width="10" height="10"></td><!--
---><td><img src="/images/space.gif" width="10" height="10"></td><!--
---><td><img src="/images/space.gif" width="100" height="10"></td><!--
---><td><img src="/images/space.gif" width="10" height="10"></td>
-</tr>
 </tbody></table>
 <p>&nbsp;</p>
-</td>
 <!-- end menu column -->
 
    
-
-  <td width="1"><img src="/images/space.gif" width="1" height="1" border="0"></td>
-  <td width="10" bgcolor="#ffffff"><img src="/images/space.gif" width="10" height="10" border="0"></td>
-
-</tr>
-</tbody></table>
+  
 
 
 
@@ -264,6 +304,14 @@
 </tr>
 <tr>
 	<td><img src="/images/red_arrowfilled.gif" width="3" height="5" border="0" alt="Arrow" vspace="4"></td>
+	<td><a href="javascript:newWindow('http://vodafone.custhelp.com/cgi-bin/vodafone.cfg/php/enduser/std_alp.php')" class="colmenu">Ask Us a Question</a></td>
+</tr>
+<tr>
+	<td><img src="/images/red_arrowfilled.gif" width="3" height="5" border="0" alt="Arrow" vspace="4"></td>
+	<td><a href="https://www.myvodafone.com.au/knox/login_handler.jsp?pcode=mybill&amp;url=https%3A%2F%2Fmyaccount.vodafone.com.au%2Fservlet%2Fvodafone.ocsb.commsModule%3Fop%3Dcheck_auth" class="colmenu">View My Bill</a></td>
+</tr>
+<tr>
+	<td><img src="/images/red_arrowfilled.gif" width="3" height="5" border="0" alt="Arrow" vspace="4"></td>
 	<td><a href="javascript:newWindow('http://vodafone.custhelp.com/cgi-bin/vodafone.cfg/php/enduser/std_adp.php?p_faqid=251&amp;p_created=1036038733')" class="colmenu">Contact Us</a></td>
 </tr>
 <tr>
@@ -274,11 +322,7 @@
 </tr>
 <tr>
 	<td><img src="/images/red_arrowfilled.gif" width="3" height="5" border="0" alt="Arrow" vspace="4"></td>
-	<td><a href="/business/mobiles/business_choice.jsp?gs=business&amp;hd=business_mobiles&amp;st=busplan" class="colmenu">Business Choice</a></td>
-</tr>
-<tr>
-	<td><img src="/images/red_arrowfilled.gif" width="3" height="5" border="0" alt="Arrow" vspace="4"></td>
-	<td><a href="/business/mobiles/gprs.jsp?gs=business&amp;hd=business_mobiles&amp;st=busplan" class="colmenu">GPRS Data Plans</a></td>
+	<td><a href="/business/mobiles/gprsdata.jsp?gs=business&amp;hd=business_mobiles&amp;st=busplan" class="colmenu">GPRS Data Plans</a></td>
 </tr>
 <tr>
 	<td><img src="/images/red_arrowfilled.gif" width="3" height="5" border="0" alt="Arrow" vspace="4"></td>
@@ -298,10 +342,6 @@ GPRS Solutions</a>
 	<td><img src="/images/red_arrowfilled.gif" width="3" height="5" border="0" alt="Arrow" vspace="4"></td>
 	<td><a href="javascript:newWindow('http://wireless.vodafone.com.au')" class="colmenu">Mobile &amp; PDA Set-up</a></td>
 </tr>
-<tr>
-	<td><img src="/images/red_arrowfilled.gif" width="3" height="5" border="0" alt="Arrow" vspace="4"></td>
-	<td><a href="javascript:newWindow('http://vodafone.custhelp.com/cgi-bin/vodafone.cfg/php/enduser/std_alp.php')" class="colmenu">Ask Us a Question</a></td>
-</tr>
 </tbody></table>
 
 
@@ -309,9 +349,9 @@ GPRS Solutions</a>
 <br><br>
 
 	</td>
-	<td width="23"><img src="/images/clear.gif" width="23" height="1" border="0"></td>
+	<td width="8"><img src="/images/clear.gif" width="8" height="1" border="0"></td>
 
-	<td width="425" valign="top">
+	<td width="435" valign="top" align="left">
 <!-- ============================= Content  ======================== -->
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -376,7 +416,11 @@ If you have any queries or concerns, please contact Customer Care by phoning con
 <!-- ============================= Content  finish ======================== -->
 </td>
 <td width="23"><img src="/images/clear.gif" width="23" height="1" border="0"></td>
-<td width="128" valign="top"><br><br><table width="100%" cellpadding="0" cellspacing="0" border="0">
+<td width="128" valign="top"><comment>
+<noscript>
+<img src="http://server-au.imrworldwide.com/cgi-bin/count?cid=au_vodafone-au_rep" width=1 height=1>
+</noscript>
+</comment><br><br><table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
     <td colspan="2"><img src="/images/boxes/related-links.gif" width="128" height="20" border="0" alt="Related Links"></td>
 </tr>
@@ -393,6 +437,38 @@ If you have any queries or concerns, please contact Customer Care by phoning con
  Web Site Terms &amp; Conditions</a></td>
 </tr>
 
+<!-- START RedMeasure V4 - Java v1.1  Revision: 1.8 -->
+<!-- COPYRIGHT 2000 Red Sheriff Limited -->
+
+<script language="JavaScript"><!--
+var pCid="au_vodafone-au_rep";
+var w0=1;
+var refR=escape(document.referrer);
+if (refR.length>=252) refR=refR.substring(0,252)+"...";
+//--></script>
+<script language="JavaScript1.1"><!--
+var w0=0;
+//--></script>
+<script language="JavaScript1.1" src="http://server-au.imrworldwide.com/a1.js">
+</script>
+<script language="JavaScript"><!--
+if(w0){
+var imgN='<img src="http://server-au.imrworldwide.com/cgi-bin/count?ref='+
+	refR+'&cid='+pCid+'" width=1 height=1>';
+if(navigator.userAgent.indexOf('Mac')!=-1){document.write(imgN);
+}else{
+	document.write('<applet code="Measure.class" '+
+	'codebase="http://server-au.imrworldwide.com/"'+'width=1 height=2>'+
+	'<param name="ref" value="'+refR+'">'+'<param name="cid" value="'+pCid+
+	'"><textflow>'+imgN+'</textflow></applet>');
+	}
+}
+document.write("<COMMENT>");
+//-->
+</script>
+
+<!-- END RedMeasure V4 -->
+
 <!-- =============================  Footer ======================== -->
 <tr>
 
@@ -404,10 +480,10 @@ var image1="";
 var image2="";
 
 // Random number generating scheme generating three unique random numbers.
-random_number1 = Math.floor(Math.random()*9)+1;
+random_number1 = Math.floor(Math.random()*8)+1;
 while (true)
 {
-	random_number2 = Math.floor(Math.random()*9)+1;
+	random_number2 = Math.floor(Math.random()*8)+1;
 	if (random_number2 != random_number1) break;
 	
 }
@@ -437,21 +513,16 @@ if (random_number1==5) {
 }
 
 if (random_number1==6) {
-	image1="/images/promos/vdf_bus_choice_128x132v13.gif";
-	url1="href=\"/business/mobiles/business_choice.jsp?gs=business&hd=business_mobiles\"";
-}
-
-if (random_number1==7) {
 	image1="/images/promos/m_club_promo.jpg";
 	url1="href=\"/rep/mclub/mclub.jsp?gs=business&amp;hd=business_services&amp;st=msg_soln&amp;ss=business_text_messages\"";
 }
 
-if (random_number1==8) {
+if (random_number1==7) {
 image1="/images/promos/Guy-wbike_promo.jpg";
 url1="href=\"/partner/wholesale/wholesale.jsp?gs=business\"";
 }
 
-if (random_number1==9) {
+if (random_number1==8) {
 image1="/images/promos/promo_GroupTXT.gif";
 url1="href=\"/rep/txt/GroupTXT/GroupTXT.jsp?gs=business&hd=business_services&st=msg_soln\"";
 }
@@ -480,21 +551,16 @@ if (random_number2==5) {
 }
 
 if (random_number2==6) {
-	image2="/images/promos/vdf_bus_choice_128x132v13.gif";
-	url2="href=\"/business/mobiles/business_choice.jsp?gs=business&hd=business_mobiles\"";
-}
-
-if (random_number2==7) {
 	image2="/images/promos/m_club_promo.jpg";
 	url2="href=\"/rep/mclub/mclub.jsp?gs=business&amp;hd=business_services&amp;st=msg_soln&amp;ss=business_text_messages\"";
 }
 
-if (random_number2==8) {
+if (random_number2==7) {
 	image2="/images/promos/Guy-wbike_promo.jpg";
 	url2="href=\"/partner/wholesale/wholesale.jsp?gs=business\"";
 }
 
-if (random_number2==9) {
+if (random_number2==8) {
 	image2="/images/promos/promo_GroupTXT.gif";
 	url2="href=\"/rep/txt/GroupTXT/GroupTXT.jsp?gs=business&hd=business_services&st=msg_soln\"";
 }
@@ -504,7 +570,7 @@ if (random_number2==9) {
 document.write("<br><br><td><br><br></td><td align=left><br><br><a "+url1+"><img src=\""+ image1 +"\" border=\"0\" alt=\"\"></a><br><br>");
 document.write("<a "+url2+"><img src=\""+ image2 +"\" border=\"0\" alt=\"\"></a></td>");
 <!--document.write("</table>");-->
-</script><td><br><br></td><td align="left"><br><br><a href="/rep/123.jsp?gs=business&amp;hd=business_services"><img src="/images/promos/vf_promo_123.gif" border="0" alt=""></a><br><br><a href="/rep/mclub/mclub.jsp?gs=business&amp;hd=business_services&amp;st=msg_soln&amp;ss=business_text_messages"><img src="/images/promos/m_club_promo.jpg" border="0" alt=""></a></td>
+</script><td><br><br></td><td align="left"><br><br><a href="/rep/123.jsp?gs=business&amp;hd=business_services"><img src="/images/promos/vf_promo_123.gif" border="0" alt=""></a><br><br><a href="javascript:newWindow('http://vodafone.custhelp.com/cgi-bin/vodafone.cfg/php/enduser/std_alp.php')"><img src="/images/promos/stroke_large.jpg" border="0" alt=""></a></td>
 
 
 <td width="13"><img src="/images/clear.gif" width="13" height="8" border="0">
@@ -520,7 +586,7 @@ document.write("<a "+url2+"><img src=\""+ image2 +"\" border=\"0\" alt=\"\"></a>
 	<td><img src="/images/clear.gif" width="759" height="21" border="0"></td>
 </tr>
 <tr>
-	<td bgcolor="#FF0000" align="right" valign="middle" class="txtWhite" height="21">Copyright 2002 © Vodafone Australia | <a href="/rep/about/legal/t_and_c.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="footerlink">Terms &amp; Conditions</a> | <a href="/rep/about/legal/privacy_policy.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="footerlink">Privacy Policy</a>&nbsp;&nbsp;</td>
+	<td bgcolor="#FF0000" align="right" valign="middle" class="txtWhite" height="21">Copyright 2003 © Vodafone Australia | <a href="/rep/about/legal/t_and_c.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="footerlink">Terms &amp; Conditions</a> | <a href="/rep/about/legal/privacy_policy.jsp?gs=business&amp;hd=busabout_vodafone&amp;st=buslegal" class="footerlink">Privacy Policy</a>&nbsp;&nbsp;</td>
 </tr>
 <tr>
 	<td><img src="/images/clear.gif" width="759" height="15" border="0"></td>
