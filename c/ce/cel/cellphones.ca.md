@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellphones.ca privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015025953id_/http%3A//www.cellphones.ca/bottom-legal-nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphones.ca privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403220511id_/http%3A//www.cellphones.ca/bottom-legal-nav) for the most accurate reproduction.*
 
 # 
 
@@ -18,4 +18,4 @@ The use of cookies is an industry standard, and many major Web sites use them to
 
 ## Policy Changes 
 
-**cellphones.ca** may introduce new products and services to its users and members. We reserve the right to modify this policy at any time by notifying customers, via the **cellphones.ca** website, of a new privacy policy. You can send [e-mail to us ](mailto:info@cellphones.com)with any further questions. 
+**cellphones.ca** may introduce new products and services to its users and members. We reserve the right to modify this policy at any time by notifying customers, via the **cellphones.ca** website, of a new privacy policy. You can send an [email to us](http://www.cellphones.ca/bottom-legal-nav/about-cellphones.cfm) with any further questions. 
