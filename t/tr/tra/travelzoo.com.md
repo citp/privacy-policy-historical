@@ -1,38 +1,46 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206080854id_/http%3A//www.travelzoo.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623173212id_/http%3A//www.travelzoo.com/Privacy.htm) for the most accurate reproduction.*
 
 # Travelzoo - Privacy Statement
 
-Since 1998, Travelzoo® is a member of the TRUSTe program. This statement discloses the privacy practices for the Travelzoo Web site. 
+Since 1998, Travelzoo Inc. has been a member of the TRUSTe program. This statement discloses the privacy practices of Travelzoo Inc. ("Travelzoo"). The statement applies to Travelzoo’s Web sites (including www.travelzoo.com and www.weekend.com), e-mail products and e-mail newsletters (collectively referred to as "Media Products") . 
 
 ### TRUSTe Certified
 
-[](https://www.truste.org/validate/456)TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. Because this site wants to demonstrate its commitment to respecting your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
+[ ](https://www.truste.org/validate/456)TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting TRUSTe's principles of fair information practices. Because this site wants to demonstrate its commitment to respecting your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of: 
 
   1. What personally identifiable information is collected 
   2. How the information is used 
-  3. With whom the information will be shared 
+  3. With whom the information will be shared
 
-Questions regarding this statement should be directed to the Travelzoo [site coordinator](http://www.travelzoo.com/help/Suggestions.htm). If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/users/watchdog.html) (www.truste.org/users/_watchdog.html). To return to the Site, please use the "Back" button on your browser. 
 
-Travelzoo Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site; Travelzoo.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+Questions regarding this statement should be directed to the Travelzoo [site coordinator](http://www.travelzoo.com/help/Suggestions.htm). If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/users/watchdog.html) ([www.truste.org/users/watchdog.html](http://www.truste.org/users/watchdog.html)).
 
-We use cookies to deliver content specific to your interests. The cookie is a small text file that resides on your hard drive. It is used to retrieve stored information that you knowingly provided us to personalize your Travelzoo web site. Users can opt to personalize the Travelzoo Web site by providing their email address, first name, and zip code. The contact information is used to contact the visitor when necessary. 
+### Travelzoo's Privacy Practices 
 
-We do use an outside ad company to display ads on our site. These ads may place cookies on your computer, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. We do not have access to any information about you from cookies you might receive while visiting our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.atlasdmt.com/privacy/). 
+Travelzoo Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Travelzoo's Media Products.
 
-The Site includes a Service Center for Travelzoo shareholders. This section is password-protected. The features allow them to update their contact information (name, e-mail address). This information will not be shared with third parties. 
+Travelzoo publishes various e-mail newsletters. Users can sign up for newsletters from our home page by providing their first name, e-mail address, and zip code. This information will not be shared with third parties. Recipients can edit their personal information or manage newsletter subscriptions by visiting the [edit profile](http://www.travelzoo.com/profiles) page. Information on how to unsubscribe is also included in every newsletter. 
 
-Travelzoo publishes a newsletter called "Travelzoo Top 20." Users can sign up for the newsletter from our home page by providing their first name, email address, and zip code. This information will not be shared with third parties. Recipients can unsubscribe to the newsletter by visiting the [edit profile page](http://www.travelzoo.com/profiles/). Information on how to unsubscribe is also included at the bottom of every newsletter. 
+Travelzoo may use cookies to deliver content specific to your interests. The cookie is a small text file that resides on your hard drive. It may be used to retrieve stored information that you knowingly provided us such as name, e-mail address and zip code in order to personalize your use of Travelzoo's Media Products. 
 
-We have security measures in place to protect user information under our company's control against loss, misuse, or alteration. Access to private and confidential data is limited to only those employees with a specific need to retrieve this information. Data is stored on multiple service systems and written to tapes. All server systems are located in a secure, limited access Class A facility complete with environmentally controlled conditions, raised floors, and dry sprinkler systems. 
+Some Travelzoo advertisers may use “view-through” pixels to track the effectiveness of the promotions they run on Travelzoo. Such pixels may lead to cookies being placed on your computer by these advertisers. Travelzoo does not have access to any personally identifiable information about you as a result of these cookies. 
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+Travelzoo may track individual user response (clicks) on offers on its Media Products. This information may be used to better customize content and advertising for you in the future. Individual user click behavior is not shared with third parties. 
+
+Travelzoo reserves the right to send you certain communications relating to Travelzoo’s service or products, including administrative messages and market research surveys associated with your newsletter or e-mail product subscription(s), as long as you remain a subscriber to one of our newsletters or e-mail products. Your voluntary response to market research surveys may be used to improve our products and services and for anonymous, aggregate reporting for internal and external clients.
+
+We use your IP address to help diagnose problems with our server, and to administer our Web site. IP addresses are not associated with any use of our Media Products.
+
+The Site includes a Service Center for Travelzoo shareholders. This section is password-protected. The features allow shareholders to update their contact information (e-mail address and mailing address). This information will not be shared with third parties. 
 
 Advertising customers can contact advertising sales by filling out a form. This form asks for their name, company name, phone, fax, and e-mail. This is an optional feature. This information will not be shared with any third parties. 
 
-This site contains links to other sites. Please be aware that Travelzoo is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+Travelzoo has security measures in place to protect user information under our company's control against loss, misuse, or alteration. Access to private and confidential data is limited to only those employees with a specific need to retrieve this information. Data is stored on multiple server systems and written to tapes. All server systems are located in a secure, limited access Class A facility complete with environmentally controlled conditions, raised floors, and dry sprinkler systems.
+
+Travelzoo's Media Products contain links to other sites. Please be aware that Travelzoo is not responsible for the privacy practices of such other sites. Travelzoo encourages our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+Travelzoo reserves the right to add to or modify this Policy simply by posting such addition or modification on the Travelzoo Web site. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users by way of an e-mail or via a prominent notice on our site. 
 
 ### Legal Disclaimer
 
@@ -40,7 +48,7 @@ Though we make every effort to preserve your privacy we may need to disclose per
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at the following mailing address: 
+If you have any questions about this privacy statement you can contact us at the following mailing address: 
 
 > _Travelzoo Inc._   
 > _ATTN: Ralph Bartel, CEO_   
