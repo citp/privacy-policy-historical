@@ -1,16 +1,13 @@
-<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202232808id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602203849id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-
-
-
 
 <meta http-equiv="Content-Language" content="en-us">
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
-<title>Outwar.com Round 14 - The land of Monsters, Gangsters, and Pop Stars!</title>
+<title>Outwar.com Round 20 - The land of Monsters, Gangsters, and Pop Stars!</title>
 
 <style type="text/css">
 
@@ -18,14 +15,89 @@
 
 #dek {POSITION:absolute;VISIBILITY:hidden;Z-INDEX:200;}
 
+.menutitle{
+	cursor:pointer;
+	margin-bottom:0px;
+	background-color:#660000;
+	color:#FFFFFF;
+	font-family:Verdana, sans-serif;
+	font-size:8pt;
+	font-weight:bold;
+	width:139px;
+	text-align:left;
+	padding:5px;
+	border-bottom:1px solid #330000;
+}
+.menutitlehover{
+	cursor:pointer;
+	margin-bottom:0px;
+	background-color:#330000;
+	color:#FFFFFF;
+	font-family:Verdana, sans-serif;
+	font-size:8pt;
+	font-weight:bold;
+	width:139px;
+	text-align:left;
+	padding:5px;
+	border-bottom:1px solid #330000;
+}
+
+.submenu{
+	margin-bottom:0px;
+	background-color:#CCCCCC;
+	color:#000000;
+}
+
 //-->
 
 </style>
 
 <link rel="STYLESHEET" type="text/css" href="style.css">
 
+<script type="text/javascript">
+function nav_on(name)
+{
+	name.className = "menutitlehover";
+}
+function nav_off(name)
+{
+	name.className = "menutitle";	
+}
+</script>
 
+<script type="text/javascript">
 
+/***********************************************
+* Switch Menu script- by Martial B of http://getElementById.com/
+* Modified by Dynamic Drive for format & NS4/IE4 compatibility
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+if (document.getElementById){ //DynamicDrive.com change
+document.write('<style type="text/css">\n')
+document.write('.submenu{display: none;}\n')
+document.write('</style>\n')
+}
+
+function SwitchMenu(obj){
+	if(document.getElementById){
+	var el = document.getElementById(obj);
+	var ar = document.getElementById("masterdiv").getElementsByTagName("span"); //DynamicDrive.com change
+		if(el.style.display != "block"){ //DynamicDrive.com change
+			for (var i=0; i<ar.length; i++){
+				if (ar[i].className=="submenu") //DynamicDrive.com change
+				ar[i].style.display = "none";
+			}
+			el.style.display = "block";
+		}else{
+			el.style.display = "none";
+		}
+	}
+}
+
+</script><style type="text/css">
+.submenu{display: none;}
+</style>
 
 
 <script>
@@ -111,7 +183,60 @@ function F_roll(imageName,over) {
 <body topmargin="0" leftmargin="0">
 <iframe id="2" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=2" framespacing="0" frameborder="no" scrolling="no" width="0" height="0" allowtransparency="true" target="_top"></iframe>
 
+<div id="dek" style="visibility: visible; display: none;"></div>
 
+<script type="text/javascript">
+<!--
+
+//Pop up information box II (Mike McGrath (mike_mcgrath@lineone.net,  http://website.lineone.net/~mike_mcgrath))
+//Permission granted to Dynamicdrive.com to include script in archive
+//For this and 100's more DHTML scripts, visit http://dynamicdrive.com
+
+Xoffset=-60;    // modify these values to ...
+Yoffset= 20;    // change the popup position.
+
+var old,iex=(document.all),yyy=-1000;
+
+var ns4=document.layers
+var ns6=document.getElementById&&!document.all
+var ie4=document.all
+
+document.getElementById("dek").style.visibility="visible"
+document.getElementById("dek").style.display="none"
+document.onmousemove=get_mouse;
+
+function popup(msg,bak){
+var content="<TABLE  WIDTH=150 BORDER=1 BORDERCOLOR=black CELLPADDING=2 CELLSPACING=0 "+
+"BGCOLOR="+bak+"><TD ALIGN=center><FONT COLOR=black SIZE=2>"+msg+"</FONT></TD></TABLE>";
+yyy=Yoffset;
+ document.getElementById("dek").innerHTML=content;
+ document.getElementById("dek").style.display='';
+ document.getElementById("dek").style.visibility="visible";
+}
+
+function statspopup(msg){
+var content="<table style=\"font-size:8pt;padding:5px;background-color:#000000;border:2px inset;\">"+msg+"</table>";
+yyy=Yoffset;
+ document.getElementById("dek").innerHTML=content;
+ document.getElementById("dek").style.display='';
+ document.getElementById("dek").style.visibility="visible";
+}
+
+function get_mouse(e){
+var x=(ns4||ns6)?e.pageX:event.x+document.body.scrollLeft;
+document.getElementById("dek").style.left=x+Xoffset;
+var y=(ns4||ns6)?e.pageY:event.y+document.body.scrollTop;
+document.getElementById("dek").style.top=y+yyy;
+}
+
+function kill(){
+yyy=-1000;
+document.getElementById("dek").style.visibility="hidden";
+document.getElementById("dek").style.display="none";
+}
+
+//-->
+</script>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber1">
 
@@ -125,7 +250,7 @@ function F_roll(imageName,over) {
 
         <td align="left" valign="top">
 
-		<a href="index.php"><img border="0" src="http://images.outwar.com/images/interface_topleft3.gif"></a></td>
+		<a href="index.php"><img border="0" src="http://images.outwar.com/images/interface_topleft18.gif"></a></td>
 
         <td background="http://images.outwar.com/images/interface_net3.gif" width="100%">
 
@@ -159,7 +284,7 @@ function F_roll(imageName,over) {
 
 <img border="0" src="http://images.outwar.com/images/spacer_trans.gif" width="1" height="1"><br>
 
-<script>document.write(unescape('%3C%69%66%72%61%6D%65%20%69%64%3D%27%61%38%33%63%36%37%64%61%27%20%6E%61%6D%65%3D%27%61%38%33%63%36%37%64%61%27%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%61%64%2E%6E%6F%7A%6F%6E%65%64%61%74%61%2E%63%6F%6D%2F%61%64%66%72%61%6D%65%2E%70%68%70%3F%6E%3D%61%38%33%63%36%37%64%61%26%61%6D%70%3B%77%68%61%74%3D%7A%6F%6E%65%3A%34%27%20%66%72%61%6D%65%73%70%61%63%69%6E%67%3D%27%30%27%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%27%6E%6F%27%20%73%63%72%6F%6C%6C%69%6E%67%3D%27%6E%6F%27%20%77%69%64%74%68%3D%27%31%32%30%27%20%68%65%69%67%68%74%3D%27%36%30%30%27%3E%3C%61%20%68%72%65%66%3D%27%68%74%74%70%3A%2F%2F%61%64%2E%6E%6F%7A%6F%6E%65%64%61%74%61%2E%63%6F%6D%2F%61%64%63%6C%69%63%6B%2E%70%68%70%3F%6E%3D%61%38%33%63%36%37%64%61%27%20%74%61%72%67%65%74%3D%27%5F%62%6C%61%6E%6B%27%3E%3C%69%6D%67%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%61%64%2E%6E%6F%7A%6F%6E%65%64%61%74%61%2E%63%6F%6D%2F%61%64%76%69%65%77%2E%70%68%70%3F%77%68%61%74%3D%7A%6F%6E%65%3A%34%26%61%6D%70%3B%6E%3D%61%38%33%63%36%37%64%61%27%20%62%6F%72%64%65%72%3D%27%30%27%20%61%6C%74%3D%27%27%3E%3C%2F%61%3E%3C%2F%69%66%72%61%6D%65%3E'))</script><iframe id="a83c67da" name="a83c67da" src="http://ad.nozonedata.com/adframe.php?n=a83c67da&amp;what=zone:4" framespacing="0" frameborder="no" scrolling="no" width="120" height="600"><a href='http://ad.nozonedata.com/adclick.php?n=a83c67da' target='_blank'><img src='http://ad.nozonedata.com/adview.php?what=zone:4&amp;n=a83c67da' border='0' alt=''></a></iframe>
+<iframe id="3" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=3" framespacing="0" frameborder="no" scrolling="no" width="120" height="600" allowtransparency="true"></iframe>
 
 	
 	</td>
@@ -170,23 +295,27 @@ function F_roll(imageName,over) {
 
     <td>
 
-    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4" bgcolor="#202020">
+    <table border="0" cellpadding="0" cellspacing="0" style="border:0px;padding:0px" width="100%" id="AutoNumber4" bgcolor="#990000">
 
       <tbody><tr>
 
         <td align="left" valign="top">
 
-		<a href="index.php"><img border="0" src="http://images.outwar.com/images/interface_roundnum3.gif"></a></td>
+		<a href="index.php"><img border="0" src="http://images.outwar.com/images/interface_roundnum4.gif"></a></td>
 
-        <td><p align="center"><font size="4"><b>
-        <a target="_blank" href="http://www.pornstarguru.com">
-        <font color="#FF9933">Adult Version of Outwar! 18+ Only Click Here</font></a></b></font></p></td>
+        <td align="center">&nbsp;
+		
+	
+		
+		
 
-        <td bgcolor="#202020">
+      </td>
+		
+        <td bgcolor="#990000" align="right" style="padding:0px;">
 
-        <p align="center">
-
-        <img border="0" src="http://images.outwar.com/images/interface_playandwin3.gif" align="right"></p></td>
+        <img border="0" hspace="0" src="http://images.outwar.com/images/interface_playandwin4.gif" align="right"></td>
+		
+	
 
       </tr>
 
@@ -195,23 +324,6 @@ function F_roll(imageName,over) {
     </td>
 
   </tr>
-
-  <tr>
-
-    <td bgcolor="#000000">
-
-    <img border="0" src="http://images.outwar.com/images/spacer_trans.gif" width="1" height="1"></td>
-
-  </tr>
-
-  <tr>
-
-    <td bgcolor="#FF9933">
-
-    <img border="0" src="http://images.outwar.com/images/spacer_trans.gif" width="1" height="3"></td>
-
-  </tr>
-
   <tr>
 
     <td bgcolor="#000000">
@@ -224,7 +336,7 @@ function F_roll(imageName,over) {
 
     <td align="right" bgcolor="#404040">
 
-    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber2" width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" style="border-bottom:1px solid #000000;" id="AutoNumber2" width="100%">
 
       <tbody><tr>
 
@@ -238,15 +350,13 @@ function F_roll(imageName,over) {
 
             LINKS::</font></b></td>
 
-              <td><font face="Arial Narrow" size="2"><b>
-              <a target="_blank" href="http://www.quizie.com">Take Fun Quizzes!</a></b></font></td>
-
               <td><b><font size="2" face="Arial Narrow">
 
               <a target="_blank" href="http://www.joegenius.com/">Get answers <i>fast</i> at JoeGenius.com</a></font></b></td>
+			  
+              <td><b><font size="2" face="Arial Narrow">
 
-              <td><font face="Arial Narrow" size="2"><b>
-              <a target="_blank" href="http://www.showyourfriends.com">Funny Videos, Pictures and More!</a></b></font></td>
+              <a target="_blank" href="http://www.showyourfriends.com/">Funny Pictures, Videos and More!</a></font></b></td>
 
           </tr>
 
@@ -274,57 +384,32 @@ function F_roll(imageName,over) {
 
         <td align="center" width="95">
 
-        <a href="store.php">
+        <a href="downloads.php">
 
-        <img border="0" src="http://images.outwar.com/images/menutop_store.gif" width="95" height="30"></a></td>
+        <img border="0" src="http://images.outwar.com/images/menutop_downloads.gif" width="100" height="30"></a></td>
 
-        <td align="center" width="85">
-
-        <a href="contact.php">
-
-        <img border="0" src="http://images.outwar.com/images/menutop_contact.gif" width="85" height="30"></a></td>
-
-      </tr>
+              </tr>
 
     </tbody></table>
 
     </td>
 
   </tr>
-
   <tr>
-
-    <td align="right" bgcolor="#000000">
-
-    <p align="left">
-
-    <img border="0" src="http://images.outwar.com/images/spacer_trans.gif" width="1" height="1"></p></td>
-
-  </tr>
-
-  <tr>
-
     <td>
-
-    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber5">
-
+        </td>
+  </tr>
+  <tr>
+    <td>
+    <table border="0" cellpadding="0" cellspacing="0" id="AutoNumber5">
       <tbody><tr>
-
         <td align="left" valign="top" width="139">
-
-        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber8">
-
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" id="AutoNumber8">
           <tbody><tr>
-
-            <td width="100%">
-
-
-
-
-
-
+			<td width="100%" height="100%" bgcolor="#330000" align="center">
+				
             <img border="0" src="http://images.outwar.com/images/interface_charlogin.gif" width="139" height="26"><br>
-            <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber7" bgcolor="#202020">
+            <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber7" bgcolor="#330000">
 <form method="POST" action="members.php"></form>
               <tbody><tr>
                 <td width="100%" colspan="2"><font color="#FFFFFF"><b><font size="1" face="Verdana">
@@ -352,88 +437,38 @@ function F_roll(imageName,over) {
            </tbody></table>
 
 
-<p align="center">
-<a href="http://www.intent-software.com/cgi-v3/conflict.cgi?setvendor=63">
-<img border="0" src="http://images.outwar.com/images/astonia.gif" width="120" height="90"></a>
-</p>
-
-<p>
-
-<b>Keep outwar running, visit our sponsors!</b><br>
-
-
-<script language="JavaScript" src="http://1.marketbanker.com/mb/text_group.php?sid=6751"></script>
-
-
-</p><p><a href="http://www.marketbanker.com/mb/commerce/purchase_form.php?other_product_id=7006">Buy a Link Now</a>
-
-</p>
-
-</td>
-
-          </tr>
-
-		  
-
-        </tbody></table>
-
-		
+								<table>
+					<tbody><tr>	
+						<td width="100%">
+							<a href="newsignup.php">
+							<img border="0" src="http://images.outwar.com/images/signup.gif"></a>
+						</td>
+					</tr>
+				</tbody></table>
+				
+				<iframe id="55" name="12" src="marketbanker.html" framespacing="0" frameborder="no" scrolling="no" width="140" height="700" allowtransparency="true">
+				</iframe>
+			</td>
+		  </tr>
+		</tbody></table>
 
 <p align="center">
-
-<!-- Start of TheCounter.com Code -->
-<script type="text/javascript" language="javascript">
-s="na";c="na";j="na";f=""+escape(document.referrer)
-</script>
-<script type="text/javascript" language="javascript1.2">
-s=screen.width;v=navigator.appName
-if (v != "Netscape") {c=screen.colorDepth}
-else {c=screen.pixelDepth}
-j=navigator.javaEnabled()
-</script>
-<script type="text/javascript" language="javascript">
-function pr(n) {document.write(n,"\n");}
-NS2Ch=0
-if (navigator.appName == "Netscape" &&
-navigator.appVersion.charAt(0) == "2") {NS2Ch=1}
-if (NS2Ch == 0) {
-r="&size="+s+"&colors="+c+"&referer="+f+"&java="+j+""
-pr("<A HREF=\"http://www.TheCounter.com\" TARGET=\"_top\"><IMG"+
-" BORDER=0 SRC=\"http://c3.thecounter.com/id=2590206"+r+"\"><\/A>")}
-</script><a href="http://www.TheCounter.com" target="_top"><img border="0" src="http://c3.thecounter.com/id=2590206&amp;size=800&amp;colors=24&amp;referer=&amp;java=false"></a>
-
-<noscript>
-<A HREF="http://www.TheCounter.com" TARGET="_top"><IMG
-SRC="http://c3.thecounter.com/id=2590206" ALT="TC" BORDER=0></A></noscript>
-<!-- End of TheCounter.com Code -->
 
         <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber6">
-
           <tbody><tr>
-
             <td width="100%">
-
-
-
             </td>
-
           </tr>
+        </tbody></table>
+    </p></td>
+    <td align="left" valign="top" width="7" bordercolor="#202020" bgcolor="#202020">
+		<img border="0" src="http://images.outwar.com/images/interface_tabred.gif" width="7" height="122"></td>
+	<td align="left" valign="top" width="100%" bordercolor="#202020" bgcolor="#202020">
 
-          </tbody></table>
-
-        </p></td>
-
-        <td align="left" valign="top" width="7" bordercolor="#202020" bgcolor="#202020">
-
-
-
-        <img border="0" src="http://images.outwar.com/images/interface_tabright.gif" width="7" height="122"></td>
-
-        <td align="left" valign="top" width="100%" bordercolor="#202020" bgcolor="#202020">
 
 
 <div align="center">
-<script>document.write(unescape('%3C%69%66%72%61%6D%65%20%69%64%3D%27%61%32%63%65%33%32%63%64%27%20%6E%61%6D%65%3D%27%61%32%63%65%33%32%63%64%27%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%61%64%2E%6E%6F%7A%6F%6E%65%64%61%74%61%2E%63%6F%6D%2F%61%64%66%72%61%6D%65%2E%70%68%70%3F%6E%3D%61%32%63%65%33%32%63%64%26%61%6D%70%3B%77%68%61%74%3D%7A%6F%6E%65%3A%33%27%20%66%72%61%6D%65%73%70%61%63%69%6E%67%3D%27%30%27%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%27%6E%6F%27%20%73%63%72%6F%6C%6C%69%6E%67%3D%27%6E%6F%27%20%77%69%64%74%68%3D%27%34%36%38%27%20%68%65%69%67%68%74%3D%27%36%30%27%3E%3C%61%20%68%72%65%66%3D%27%68%74%74%70%3A%2F%2F%61%64%2E%6E%6F%7A%6F%6E%65%64%61%74%61%2E%63%6F%6D%2F%61%64%63%6C%69%63%6B%2E%70%68%70%3F%6E%3D%61%32%63%65%33%32%63%64%27%20%74%61%72%67%65%74%3D%27%5F%62%6C%61%6E%6B%27%3E%3C%69%6D%67%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%61%64%2E%6E%6F%7A%6F%6E%65%64%61%74%61%2E%63%6F%6D%2F%61%64%76%69%65%77%2E%70%68%70%3F%77%68%61%74%3D%7A%6F%6E%65%3A%33%26%61%6D%70%3B%6E%3D%61%32%63%65%33%32%63%64%27%20%62%6F%72%64%65%72%3D%27%30%27%20%61%6C%74%3D%27%27%3E%3C%2F%61%3E%3C%2F%69%66%72%61%6D%65%3E'))</script><iframe id="a2ce32cd" name="a2ce32cd" src="http://ad.nozonedata.com/adframe.php?n=a2ce32cd&amp;what=zone:3" framespacing="0" frameborder="no" scrolling="no" width="468" height="60"><a href='http://ad.nozonedata.com/adclick.php?n=a2ce32cd' target='_blank'><img src='http://ad.nozonedata.com/adview.php?what=zone:3&amp;n=a2ce32cd' border='0' alt=''></a></iframe>
+<script>document.write(unescape('%3C%69%66%72%61%6D%65%20%69%64%3D%27%61%65%65%30%32%39%35%61%27%20%6E%61%6D%65%3D%27%61%65%65%30%32%39%35%61%27%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%61%64%2E%6E%6F%7A%6F%6E%65%64%61%74%61%2E%63%6F%6D%2F%61%64%66%72%61%6D%65%2E%70%68%70%3F%6E%3D%61%65%65%30%32%39%35%61%26%61%6D%70%3B%77%68%61%74%3D%7A%6F%6E%65%3A%32%27%20%66%72%61%6D%65%73%70%61%63%69%6E%67%3D%27%30%27%20%66%72%61%6D%65%62%6F%72%64%65%72%3D%27%6E%6F%27%20%73%63%72%6F%6C%6C%69%6E%67%3D%27%6E%6F%27%20%77%69%64%74%68%3D%27%34%36%38%27%20%68%65%69%67%68%74%3D%27%36%30%27%3E%3C%61%20%68%72%65%66%3D%27%68%74%74%70%3A%2F%2F%61%64%2E%6E%6F%7A%6F%6E%65%64%61%74%61%2E%63%6F%6D%2F%61%64%63%6C%69%63%6B%2E%70%68%70%3F%6E%3D%61%65%65%30%32%39%35%61%27%20%74%61%72%67%65%74%3D%27%5F%62%6C%61%6E%6B%27%3E%3C%69%6D%67%20%73%72%63%3D%27%68%74%74%70%3A%2F%2F%61%64%2E%6E%6F%7A%6F%6E%65%64%61%74%61%2E%63%6F%6D%2F%61%64%76%69%65%77%2E%70%68%70%3F%77%68%61%74%3D%7A%6F%6E%65%3A%32%26%61%6D%70%3B%6E%3D%61%65%65%30%32%39%35%61%27%20%62%6F%72%64%65%72%3D%27%30%27%20%61%6C%74%3D%27%27%3E%3C%2F%61%3E%3C%2F%69%66%72%61%6D%65%3E'))</script><iframe id="aee0295a" name="aee0295a" src="http://ad.nozonedata.com/adframe.php?n=aee0295a&amp;what=zone:2" framespacing="0" frameborder="no" scrolling="no" width="468" height="60"><a href='http://ad.nozonedata.com/adclick.php?n=aee0295a' target='_blank'><img src='http://ad.nozonedata.com/adview.php?what=zone:2&amp;n=aee0295a' border='0' alt=''></a></iframe>
 </div>
 
 
@@ -516,5 +551,7 @@ site, or your dealings with this Web site, you can contact:
         | </font><b>
         <font size="1"> <a href="outwar_tos.html" target="_blank">Terms of Service</a>
         <br>
-srv 58 Page was generated in 0.182533 seconds</font></b></p></td></tr></tbody></table></td></tr></tbody></table>
+srv 59 Page was generated in 0.182157 seconds</font>    </b></p></td></tr></tbody></table></td></tr></tbody></table>
+
+    
  </body></html>
