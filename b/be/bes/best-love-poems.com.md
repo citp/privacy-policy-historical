@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-love-poems.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605073219id_/http%3A//www.best-love-poems.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-love-poems.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204151730id_/http%3A//www.best-love-poems.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -6,29 +6,32 @@
 
 ### : love & romance
 
-  * [love poems](https://web.archive.org/web/20040605073219id_/http%3A//www.best-love-poems.com/love_poems.html)
-  * [love quotes](https://web.archive.org/web/20040605073219id_/http%3A//www.best-love-poems.com/love_quotes.htm)
-  * [best poems](https://web.archive.org/web/20040605073219id_/http%3A//www.best-love-poems.com/best_love_poems.html)
-  * [send flowers](https://web.archive.org/web/20040605073219id_/http%3A//www.best-love-poems.com/send_flowers.html)
-  * [find your love](https://web.archive.org/web/20040605073219id_/http%3A//www.best-love-poems.com/find_love.html)
-  * [web resources](https://web.archive.org/web/20040605073219id_/http%3A//www.best-love-poems.com/love_sites.html)
+  * [love poems](https://web.archive.org/web/20041204151730id_/http%3A//www.best-love-poems.com/love_poems.html)
+  * [love quotes](https://web.archive.org/web/20041204151730id_/http%3A//www.best-love-poems.com/love_quotes.htm)
+  * [best poems](https://web.archive.org/web/20041204151730id_/http%3A//www.best-love-poems.com/best_love_poems.html)
+  * [send flowers](https://web.archive.org/web/20041204151730id_/http%3A//www.best-love-poems.com/send_flowers.html)
+  * [find your love](https://web.archive.org/web/20041204151730id_/http%3A//www.best-love-poems.com/find_love.html)
+  * [web resources](https://web.archive.org/web/20041204151730id_/http%3A//www.best-love-poems.com/love_sites.html)
 
 
 
 ### : poems & quotes
 
-  * [love, romance](https://web.archive.org/web/20040605073219id_/http%3A//www.best-love-poems.com/index.html)
+  * [love, romance](https://web.archive.org/web/20041204151730id_/http%3A//www.best-love-poems.com/index.html)
   * [friendship, family](http://www.friendship-poems.com/)
   * [fun, humor](http://www.poems-and-quotes.com/funny/)
   * [sadness, depression](http://www.poems-and-quotes.com/sad/)
+  * [dark, fantasy](http://www.poems-and-quotes.com/dark/)
   * [life, society](http://www.poems-and-quotes.com/life/)
+  * [nature, environment](http://www.poems-and-quotes.com/nature/)
   * [special events](http://www.poems-and-quotes.com/special/)
-  * [explicit, profanity](http://www.poems-and-quotes.com/explicit.html)
   * [internet slang](http://www.poems-and-quotes.com/slang/)
+  * [explicit, profanity](http://www.poems-and-quotes.com/explicit.html)
+  * [miscellaneous](http://www.poems-and-quotes.com/misc/)
 
 | 
 
-This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20040605073219id_/http%3A//www.best-love-poems.com/contact.html).
+This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20041204151730id_/http%3A//www.best-love-poems.com/contact.html).
 
 ## Information Collection and Use
 
