@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202063300id_/http%3A//onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603214342id_/http%3A//www.onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
 
 # OnlineAthens: Privacy Policy
 
   
-[](http://www.onlineathens.com/RealMedia/ads/click_lx.ads/www.onlineathens.com/news/15994/TopLeft/Branums/BranumsCube.gif/64316637323864633361323839366430)
+[](http://www.onlineathens.com/RealMedia/ads/click_lx.ads/www.onlineathens.com/news/28492/TopLeft/USSenior2/us-senior-cube.gif/64316637323836393362316161663930)
 
-[](http://www.onlineathens.com/RealMedia/ads/click_lx.ads/www.onlineathens.com/news/5073/Left/UltimateTan/UltimateTanButton.gif/64316637323864633361323839366430)   
+[](http://www.onlineathens.com/RealMedia/ads/click_lx.ads/www.onlineathens.com/news/5548/Left/ClassicSewCube/classicsew-cube.gif/64316637323836393362316161663930)   
 
 
 | 
