@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126165754id_/http%3A//arborday.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2002-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021116044119id_/http%3A//www.arborday.org/privacy.html) for the most accurate reproduction.*
 
 # The National Arbor Day Foundation - We Help People Plant and Care for Trees
 
@@ -6,7 +6,7 @@
 PRIVACY STATEMENT**   
 The National Arbor Day Foundation  
 ……………………………………  
-As a visitor to our web site, it is your right to know if personal information about our visitors is being collected. As a national non-profit foundation committed to providing helpful information about planting and caring for trees, we can assure you that we take our responsibility to safeguard your privacy very seriously. 
+As a visitor to our web site, it is your right to know if personal information about our visitors is being collected. As a national non-profit foundation committed to providing helpful information about planting and caring for trees, we can assure you that we take our responsibility to safeguard your privacy very seriously. [[Our Website Security.] ](https://web.archive.org/web/20021116044119id_/http%3A//www.arborday.org/security/index.html)
 
 There are generally three instances where we retain web visitor information. At the most basic level, a visitor comes to the web site, looks at some pages, and leaves. In this instance, we log site activity information which can help us in designing more effective pages. For example, it's helpful for us to know what pages are visited a lot, and what pages are rarely visited. By logging the number of clicks and the pages visited, along with the type of browser used, we can make sure that we are building pages that are interesting, easily readable, and accessible by our visitors.
 
