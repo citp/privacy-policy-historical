@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201190051id_/http%3A//www.wlsam.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlsam.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605113407id_/http%3A//wlsam.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Connected with Chicago, NewsTalk890, WLS
 
@@ -44,10 +44,13 @@ Calendar](https://web.archive.org/community/communitycalendar.asp)
 **[Drive Chicago](https://web.archive.org/drivechicago.asp)  
 **  
   
+**[Legal Center](http://wlsam.lawinfo.com/)  
+**  
+  
 **[WLS Career Center](http://ww1.joboptions.com/jo_abcradiowlsam/index.jsp?session_id=0&app_id=1023)  
 **  
   
-**[WLS Online](https://web.archive.org/wlsonline.asp)  
+**[Ask The GM](https://web.archive.org/wlsonline.asp)  
 **  
 [](https://web.archive.org/listenlive.asp)  
 |  |  |    
@@ -116,12 +119,12 @@ By using this site, you signify your assent to the ABC Privacy Policy. If you do
 **[WLS Advertiser Directory](https://web.archive.org/coupons.asp) | [Listen to WLS Live](https://web.archive.org/listenlive.asp) | [WLS Insiders](https://web.archive.org/listenersclub.asp) |  [Hosts](https://web.archive.org/hosts.asp) |  [Newsroom](https://web.archive.org/newsroom.asp)  
 [Contact Us](https://web.archive.org/contactus.asp) |  [Schedule](https://web.archive.org/schedule.asp) |  [Traffic & Weather](https://web.archive.org/trafficweather.asp) |  [Chat Room & Message Boards](https://web.archive.org/chat.asp)  
 [Contests](https://web.archive.org/contests.asp) |  [WLSFanMail.com](http://www.wlsfanmail.com/) |  [Community Calendar](https://web.archive.org/community/communitycalendar.asp) |  [WLS Information](https://web.archive.org/wlsinfo.asp)  
-[WLS Bookstore](https://web.archive.org/wlsbookstore.asp) |  [Drive Chicago](https://web.archive.org/drivechicago.asp) |  [WLS Career Center](http://ww1.joboptions.com/jo_abcradiowlsam/index.jsp?session_id=0&app_id=1023) |  [WLS Online](https://web.archive.org/wlsonline.asp)  
-[Advertising Info](https://web.archive.org/web/20021201190051id_/http%3A//www.wlsam.com/advertisinginfo.asp) |  [Station Info](https://web.archive.org/web/20021201190051id_/http%3A//www.wlsam.com/stationinfo.asp) |  [About This Site](https://web.archive.org/web/20021201190051id_/http%3A//www.wlsam.com/aboutthissite.asp) |  [Home](https://web.archive.org/default.asp) [_Email the Webmaster_](mailto:alan.b.brouilette@abc.com)
+[WLS Bookstore](https://web.archive.org/wlsbookstore.asp) |  [Drive Chicago](https://web.archive.org/drivechicago.asp) |  [Legal Center](http://wlsam.lawinfo.com/) |  [WLS Career Center](http://ww1.joboptions.com/jo_abcradiowlsam/index.jsp?session_id=0&app_id=1023)  
+[Ask The GM](https://web.archive.org/wlsonline.asp) |  [Advertising Info](https://web.archive.org/advertisinginfo.asp) |  [Station Info](https://web.archive.org/stationinfo.asp)  |  [About This Site](https://web.archive.org/aboutthissite.asp) |  [Home](https://web.archive.org/default.asp) [_Email the Webmaster_](mailto:alan.b.brouilette@abc.com)
 
-****Copyright © 2002 ABC and[First MediaWorks](javascript:displayNotice\(\);)  
-[Powered by First MediaWorks](http://www.firstmediaworks.com/)** ****  
-**[Terms of Use](https://web.archive.org/termsofuse.asp)   **[Privacy Policy](https://web.archive.org/privacypolicy.asp)  
-******
+****Copyright © 2003 ABC and[First MediaWorks](javascript:displayNotice\(\);)  
+[Powered by First MediaWorks](http://www.firstmediaworks.com/poweredby/default.asp?d=www.wlsam.com)** ****  
+**[Terms of Use](https://web.archive.org/termsofuse.asp)   **[Privacy Policy](https://web.archive.org/privacypolicy.asp)   **[EEO Policy](https://web.archive.org/eeopolicy.asp)  
+********
 
 **
