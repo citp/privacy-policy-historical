@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603164857id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219160546id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
 # USA Classifieds @ Adpost.com Classifieds > USA > USA Classifieds,free
 
-|  | Bookmark Us  
----|---  
-| [How To Write Million Dollar Ads](http://www.adpost.com/us/how_to_write_million_dollar_ads/?website=&language=&session_key=)  
-| [Testimonials](http://www.adpost.com/us/testimonials/?website=&language=&session_key=)  
-| [Free E-Mail](http://mail.adpost.com/)  
-| [3-in-1 Affiliate Program](http://www.adpost.com/us/affiliate_program/?db=&website=&language=&session_key=)  
-|  Find |  |  in |  |   
+|  |  Find |  |  in |  |   
 ---|---|---|---|---  
   
 ## Adpost.com Classifieds Privacy Policy Statement
@@ -146,11 +140,8 @@ Back to Top
 
 * * *
 
-  
-SPONSOR'S MESSAGE  
-
-
-[Terms of Use](http://www.adpost.com/us/?db=&website=&language=&session_key=&print_terms_page=on) | [Privacy Statement](http://www.adpost.com/us/?db=&website=&language=&session_key=&print_privacy_page=on)  
-Content copyright © 2003 [Adpost.com USA Classifieds](http://www.adpost.com/) \- Classifieds and Internet Advertising.  
-All rights reserved. Please send your questions, comments, or bug reports to the [Support Team](mailto:support@adpost.com).  
+[Terms of Use](http://www.adpost.com/us/?db=&website=&language=&session_key=&print_terms_page=on) | [Privacy Statement](http://www.adpost.com/us/?db=&website=&language=&session_key=&print_privacy_page=on) | [Testimonials](http://www.adpost.com/us/testimonials/?db=&website=&language=&session_key=)  
+ _USA Classifieds_  
+Content copyright © 2003 [Adpost.com USA Classifieds](http://www.adpost.com/)  
+All rights reserved. Please [click here](http://www.adpost.com/us/support/?cat=&db=;website=;language=;s=) to contact the Support Team.  
 Adpost.com, 230 Park Avenue, Suite 864, New York, NY 10169, USA. Ref# 6107061. Fax: +1.2122952153
