@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mellon.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204221751id_/http%3A//mellon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellon.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603014015id_/http%3A//mellon.com/privacy) for the most accurate reproduction.*
 
 # Mellon Financial Corporation Privacy
 
@@ -159,7 +159,7 @@ If you wish to exercise either or both information sharing options described in 
 
 **Please note: If you have previously notified us of your privacy preferences, there is no need to return the Customer Preference Notification Form. No further notification of any sort is required unless you wish to modify them. We will continue to respect the choices you have previously communicated to us.**
 
-If you would like more information about our online privacy policies, [click here](https://web.archive.org/web/20031204221751id_/http://www.mellon.com/privacy/online.html). 
+If you would like more information about our online privacy policies, [click here](https://web.archive.org/web/20040603014015id_/http://www.mellon.com/privacy/online.html). 
 
 **_Thank you for this opportunity to serve you. Your relationship and trust are very important to us. Please be assured that we will abide by our policies and procedures to protect your information. Your preferences will be respected._**
 
