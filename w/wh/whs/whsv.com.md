@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206101943id_/http%3A//www.whsv.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2003-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030202035724id_/http%3A//www.whsv.com/unclassified/647.html) for the most accurate reproduction.*
 
 # WHSV | GMATV INTERACTIVE PRIVACY POLICY
 
@@ -119,4 +119,4 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 
 
-Copyright © 2002 Gray MidAmerica TV Interactive Media, LLC All rights reserved. 
+Copyright © 2003 Gray MidAmerica TV Interactive Media, LLC All rights reserved. 
