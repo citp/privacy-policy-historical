@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408112649id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiahotels.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624044440id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp) for the most accurate reproduction.*
 
 # asia-hotels.com - Terms of Use and Privacy Policy
 
@@ -8,7 +8,7 @@
 
 The information provided on this webpage may be amended from time to time. You need to review this webpage each time you use this Site. 
 
-We pledge to meet fully recognised standards of personal data privacy protection in handling personal data. For more information, please refer to our [Policy on Personal Data](https://web.archive.org/web/20020408112649id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#personaldatapolicy) and our [Personal Information Collection Statement](https://web.archive.org/web/20020408112649id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#picstatement). 
+We pledge to meet fully recognised standards of personal data privacy protection in handling personal data. For more information, please refer to our [Policy on Personal Data](https://web.archive.org/web/20030624044440id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#personaldatapolicy) and our [Personal Information Collection Statement](https://web.archive.org/web/20030624044440id_/http%3A//www.asiahotels.com/privacypolicy/termsofuse-policy.asp#picstatement). 
 
 If you have any questions about this Site or our Policy on Personal Data or Personal Information Collection Statement, please address your enquiry to our Privacy Compliance Officer at [info@asia-hotels.com](mailto:info@asia-hotels.com) or call us on +852 2893 4093. 
 
@@ -134,6 +134,12 @@ We use Secure Socket Layer (SSL) protocol. This means that information entered i
 You are entitled to access personally identifiable information we hold about you and if applicable to correct or update it. You also have the right to request details of our personal privacy policy and the type of personal data we hold. You may do so by contacting our Privacy Compliance Officer by telephone on +852 2893 4093 or by email to [info@asia-hotels.com](mailto:info@asia-hotels.com). We have the right to charge a reasonable fee for processing a data access request 
 
 * * *
+
+  
+
+
+**Hotels in Asia:**  
+[Australia hotels](http://www.asia-hotels.com/hl/Australia.asp), [Brunei hotels](http://www.asia-hotels.com/hl/brunei.asp), [Cambodia hotels](http://www.asia-hotels.com/hl/Cambodia.asp), [China hotels](http://www.asia-hotels.com/hl/China.asp), [Fiji hotels](http://www.asia-hotels.com/hl/Fiji.asp), [French Polynesia hotels](http://www.asia-hotels.com/hl/French_Polynesia.asp), [Hong Kong hotels](http://www.asia-hotels.com/hl/Hong_Kong.asp), [India hotels](http://www.asia-hotels.com/hl/India.asp), [Indonesia hotels](https://web.archive.org/hl/Indonesia.asp), [Japan hotels](http://www.asia-hotels.com/hl/Japan.asp), [Laos hotels](http://www.asia-hotels.com/hl/Laos.asp), [Macau hotels](http://www.asia-hotels.com/hl/Macau.asp), [Malaysia hotels](http://www.asia-hotels.com/hl/Malaysia.asp), [Maldives hotels](http://www.asia-hotels.com/hl/Maldives.asp), [Myanmar hotels](http://www.asia-hotels.com/hl/Myanmar.asp), [Nepal hotels](http://www.asia-hotels.com/hl/Nepal.asp), [New Caledonia hotels](http://www.asia-hotels.com/hl/new_caledonia.asp), [New Zealand hotels](http://www.asia-hotels.com/hl/New_Zealand.asp), [Pakistan hotels](http://www.asia-hotels.com/hl/pakistan.asp), [Philippines hotels](http://www.asia-hotels.com/hl/Philippines.asp), [Singapore hotels](http://www.asia-hotels.com/hl/Singapore.asp), [South Korea hotels](http://www.asia-hotels.com/hl/South_Korea.asp), [Sri Lanka hotels](http://www.asia-hotels.com/hl/Sri_Lanka.asp), [Taiwan hotels](http://www.asia-hotels.com/hl/Taiwan.asp), [Thailand hotels](http://www.asia-hotels.com/hl/Thailand.asp), [Vanuatu hotels](http://www.asia-hotels.com/hl/vanuatu.asp), [Vietnam hotels](http://www.asia-hotels.com/hl/Vietnam.asp)
 
   
 
