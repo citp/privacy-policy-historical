@@ -1,0 +1,25 @@
+> *The following text is extracted and transformed from the licor.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206194428id_/http%3A//www.licor.com/corp/privacy.txt) for the most accurate reproduction.*
+
+# 
+
+
+    LI-COR Biosciences Privacy Policy
+    
+    This policy is effective as of June 30, 2004.
+    
+    LI-COR collects information from visitors to our website that is voluntarily provided by the user.  
+    Some downloads request a name and email address so that LI-COR can provided updated information 
+    should it become available.  Individuals asking specific questions through our e-mail response page 
+    are asked to provide information so that we can contact them with the information they request.
+    
+    LI-COR will not share or sell personal information to any third party.
+    
+    If you wish to change or remove your contact information from our database, please send an email to 
+    privacy@licor.com or mail your request to:
+    
+    Marketing Communications Manager
+    LI-COR Biosciences
+    4308 Progressive Ave.
+    Lincoln, NE  68504
+    
+    Our Privacy Policy is subject to change at any time.  Please review this link regularly for any changes.
