@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214025115id_/http%3A//www.fastweb.com/fastweb/content/aboutus/privacy.ptml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastweb.com privacy policy that was archived on 2002-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020907223942id_/http%3A//www3.fastweb.com/fastweb/content/aboutus/privacy.ptml) for the most accurate reproduction.*
 
 # FastWeb: Privacy at FastWeb
 
@@ -21,11 +21,11 @@ _How to Contact Us_ \--If you have questions or concerns regarding this Privacy 
 
     Privacy at FastWeb 
     FastWeb, Inc. 
-    9933 Woods Drive, 5th Floor 
-    Skokie, Illinois 60077 
+    444 North Michigan Avenue, Suite 3100 
+    Chicago, Illinois 60611 
 
-    Telephone: (847) 568-3000 
-    Fax: (847) 663-1945 
+    Telephone: 1-800-FASTWEB (1-800-327-8932) 
+    Fax: 312-467-0638 
 
   1. **COLLECTION OF INFORMATION**
 
@@ -45,7 +45,7 @@ _Tell-A-Friend/Tell-A-Parent Programs_ \--You can choose to let a friend or your
 
 The information which you supply to FastWeb enables us to provide the scholarship, college and job search and matching services which you select by matching your background to our database of scholarship, college and job listings. In addition, FastWeb uses your information in order to customize our site to your interests and enhance your overall experience at our site. FastWeb tries to recognize you using various methods, including having you log in with your e-mail address and your password. Once FastWeb recognizes you, pages, advertisements and other content is customized for you so that you can see what interests you the most. In addition, as described above, FastWeb utilizes passive information to learn more about how you interact with our site. This passive information may be combined with your other information for purposes such as testing and improving your experience at our site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. This aggregate passive information does not contain any personal information which can identify any individual user. 
 
-_Contacting You by E-Mail_ \--FastWeb may use your contact information periodically in order to send you e-mail regarding updates at the FastWeb site, such as new FastWeb opportunities and additional listings which may be of interest to you. The frequency of these messages will vary depending upon your profile, including the types of scholarships and other activities you have indicated an interest in. In addition, at the time of registration, you have the option to elect to receive free informational newsletters from FastWeb relating to topics which may be of special interest to you, including, financial aid, admissions tips, and job advice. Finally, if you specifically provide FastWeb with permission at the time of registration, you may also receive commercial e-mails . Out of respect for the privacy of our users, we present the option to opt-out of receiving newsletters and/or commercial e-mails whenever such messages are sent by FastWeb, as described below. E-mail messages from third parties are not governed by the opt-out provisions of this Privacy Policy, but all such third parties are strongly encouraged to include opt-out procedures in their messages to you. 
+_Contacting You by E-Mail_ \--FastWeb may use your contact information periodically in order to send you e-mail regarding updates at the FastWeb site, such as new FastWeb opportunities and additional listings which may be of interest to you. The frequency of these messages will vary depending upon your profile, including the types of scholarships and other activities you have indicated an interest in. In addition, we may send you free informational newsletters or notices relating to topics which may be of special interest to you, including financial aid, admissions tips, job opportunities and job advice. Finally, if you specifically provide FastWeb with permission at the time of registration, you may also receive commercial e-mails. Out of respect for the privacy of our users, we present the option to opt-out of receiving newsletters and/or commercial e-mails whenever such messages are sent by FastWeb, as described below. E-mail messages from third parties are not governed by the opt-out provisions of this Privacy Policy, but all such third parties are strongly encouraged to include opt-out procedures in their messages to you. 
 
   3. **SHARING OF INFORMATION**
 
