@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whowon.com privacy policy that was archived on 2001-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011024080344id_/http%3A//whowon.com/whowonprivacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whowon.com privacy policy that was archived on 2002-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603145629id_/http%3A//whowon.com/whowonprivacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>WhoWon.com Privacy Policy</title>
@@ -15,7 +15,7 @@
 <link rel="shortcut icon" href="favicon.ico">
 </head>
 
-<body background="background1.jpg" link="#ff0000" vlink="#642C6B" marginwidth="10" marginheight="10" leftmargin="10" rightmargin="0" topmargin="10" bottommargin="0">
+<body background="background1.jpg" marginwidth="10" marginheight="10" leftmargin="10" rightmargin="0" topmargin="10" bottommargin="0">
 
 <table border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
@@ -40,7 +40,7 @@
 				</tr>
 				<tr>
 					<td><br><font face="arial,verdana,helvetica" size="2">
-					<p>WhoWon.com is committed to providing you the opportunity for a positive experience during your visit to our web site, while respecting and striving to protect your on-line privacy. Because protecting your privacy is very important, we have adopted this policy to safeguard your personal information and protect its confidentiality. We will limit the collection and use of personal information to what is necessary to administer our business, provide you with the highest quality visit, and offer you information we think will be of interest. We will not disclose any individual information to other organizations.</p>
+<p>WhoWon.com is committed to providing you the opportunity for a positive experience during your visit to our web site, while respecting and striving to protect your on-line privacy. Because protecting your privacy is very important, we have adopted this policy to safeguard your personal information and protect its confidentiality. We will limit the collection and use of personal information to what is necessary to administer our business, provide you with the highest quality visit, and offer you information we think will be of interest. We will not disclose any individual information to other organizations.</p>
 
 <p>To facilitate navigation, this site may contain links to other sites. We will make every effort to link only to sites that share our high standards and respect for privacy. However, we are not responsible for the content or the privacy practices employed by organizations sponsoring these other sites.</p>
 
@@ -54,7 +54,7 @@
 
 <p>This data helps us to customize our website to better meet your on-line needs, so we may request and store the following types of specific information: your name, company name, street address, city, county, state, country, province, telephone numbers and e-mail addresses. This personally identifiable information is only collected when voluntarily submitted by a visitor in one of our on-line information or e-mail correspondence forms.</p>
 
-<p>This site, WhoWon.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <a href="http://www.engage.com/privacy">http://www.engage.com/privacy</a>.</p>
+<p>This site, WhoWon.com, uses the services of BURST! Media for the serving and/or targeting of ads, promotions and other marketing messages. All users who receive an ad served by BURST! retain complete anonymity where BURST! is concerned. As ads are delivered, BURST! does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private properties. The BURST! Media privacy policy can be viewed at <a href="http://www.burstmedia.com/release/privacy.asp" target="blank">http://www.burstmedia.com/release/privacy.asp</a>.</p>
 
 <p><b>C. Storage and Access</b>:</p>
 
@@ -97,16 +97,55 @@
 	<center>
 	<table>
 	<tbody><tr>
-	    <td align="center"><font face="Arial, helvetica" size="1"><a href="whowonprivacy.asp">Privacy Policy</a></font><font size="1" face="Arial">&nbsp;<strong> |</strong>&nbsp; </font><font face="Arial, helvetica" size="1"><a href="whowondisclaimer.asp">Website Disclaimer</a><br>
+	    <td align="center"><font face="Arial, helvetica" size="1"><a href="whowonprivacy.asp">Privacy Policy</a></font><font size="1" face="Arial">&nbsp; |&nbsp; </font><font face="Arial, helvetica" size="1"><a href="whowondisclaimer.asp">Website Disclaimer</a><br>
 	    <font size="1" face="Arial, helvetica">
-	    <b>© WhoWon, LLC 1997-2001. <a href="copyright.asp">All rights reserved.</a></b></font></font></td>
+	    <b>© RaceFan, Inc. 1997-2002. <a href="copyright.asp">All rights reserved.</a></b></font></font></td>
 	  </tr>
 	</tbody></table>
 	</center>
 
 	</td></tr></tbody></table>
 	</center>
-	<br clear="ALL">
+<br clear="ALL">
+
+<script>
+
+//Popup Window Script
+//By JavaScript Kit (http://javascriptkit.com)
+//JavaScript tutorials and over 400+ free scripts
+
+function openpopup(){
+var popurl="http://www.chpower.com/pentry.asp?prid=VAL3004&lid=1&frames=no"
+winpops=window.open(popurl,"","width=325,height=550,toolbar=no,scrollbars=no,resizable=no,")
+}
+
+function get_cookie(Name) {
+  var search = Name + "="
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    if (offset != -1) { // if cookie exists
+      offset += search.length
+      // set index of beginning of value
+      end = document.cookie.indexOf(";", offset);
+      // set index of end of cookie value
+      if (end == -1)
+         end = document.cookie.length;
+      returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+
+function loadornot(){
+if (get_cookie('poppedup')==''){
+openpopup()
+document.cookie="poppedup=yes"
+}
+}
+
+loadornot()
+</script>
 
 					</font></td>
 				</tr>
