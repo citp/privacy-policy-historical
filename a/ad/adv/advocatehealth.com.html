@@ -1,179 +1,173 @@
-<!--The following is the downloaded HTML source of the advocatehealth.com privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604054738id_/http%3A//www.advocatehealth.com/system/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advocatehealth.com privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206055009id_/http%3A//www.advocatehealth.com/system/privacy.html) for the most accurate reproduction.-->
 
-<html><!-- 
-  Developed by Imaginary Landscape (http://www.imaginarylandscape.com)
-  Thank you for reading the source of this document.
---><head>
-  <meta http-equiv="Reply-to" content="webmaster@advocatehealth.com">
-  <meta name="Rating" content="General">
-  <meta name="Distribution" content="Global">
-  <meta name="Resource-type" content="Document">
-  <meta name="Copyright" content="1996, 1997, 1998, 1999, 2000, 2001 Advocate Health Care">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
+<title>Advocate Health Care: Privacy Policy</title> 
+
+  <!-- begin /lib/ssi/genmeta.ssi -->
+<meta http-equiv="Reply-to" content="webmaster@advocatehealth.com">
+<meta name="Rating" content="General">
+<meta name="Distribution" content="Global">
+<meta name="Resource-type" content="Document">
+<meta name="Copyright" content="1996, 1997, 1998, 1999, 2000, 2001, 2002 Advocate Health Care">
+<!-- end /lib/ssi/genmeta.ssi -->          
+
+  
+<meta name="description" content="Advocate Health Care Privacy Policy
 
 
 
-<script language="JavaScript">
+
+
+
+
+">
+ <meta name="keywords" content="privacy
+
+
+
+">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- begin /lib/dhtml-head.ssi -->
+
+<script type="text/javascript" language="JavaScript" src="/lib/mouseover.js"></script>
+<script language="JavaScript" type="text/javascript">
 <!--
+//nullifying initial functions
+if(window.event + "" == "undefined") event = null;
+function HM_f_PopUp(){return false};
+function HM_f_PopDown(){return false};
+popUp = HM_f_PopUp;
+popDown = HM_f_PopDown;
 
-// This code is by Doug Sheppard for
-// Imaginary Landscape LLC (http://www.imagescape.com/)
-// Thank you for looking at our code!
+function advoBodyLoad(){return false};
 
-var isImageCapable;
-if (document.images) { isImageCapable = 1;
-} else { isImageCapable = 0;
-}
-
-/* This is the constructor for our pair of ON/OFF images. */
-function Flicker(x, y, z) {
-	if (isImageCapable) {
-		this.on = new Image(); this.on.src = x;
-		this.off = new Image(); this.off.src = y;
-		if (z) { this.click = new Image(); this.click.src = z; }
-	}
-}
-
-
-	/* For each flash pair we want, generate a new Flicker with the 
-        ON gif and the OFF gif given. */
-	flashset = new Object();
-	flashset["home"] = new Flicker("/images/header/clgrey-home-off.gif", "/images/header/clgrey-home-on.gif");
-	flashset["guide"] = new Flicker("/images/header/clgrey-guide-off.gif", "/images/header/clgrey-guide-on.gif");
-	flashset["contact"] = new Flicker("/images/header/clgrey-contact-off.gif", "/images/header/clgrey-contact-on.gif");
-	flashset["advo"] = new Flicker("/images/header/about-off.gif", "/images/header/about-on.gif");
-	flashset["health"] = new Flicker("/images/header/health-off.gif", "/images/header/health-on.gif");
-	flashset["classes"] = new Flicker("/images/header/classes-off.gif", "/images/header/classes-on.gif");
-	flashset["physicians"] = new Flicker("/images/header/physician-off.gif", "/images/header/physician-on.gif");
-	flashset["hospitals"] = new Flicker("/images/header/hospitals-off.gif", "/images/header/hospitals-on.gif");
-	flashset["centers"] = new Flicker("/images/header/centers-off.gif", "/images/header/centers-on.gif");
-	flashset["careers"] = new Flicker("/images/header/cared-off.gif", "/images/header/cared-on.gif");
-	flashset["employ"] = new Flicker("/images/header/advser-off.gif", "/images/header/advser-on.gif");
-	flashset["logos"] = new Flicker("/images/logos/index-logo-off.gif", "/images/logos/index-logo-on2.gif", "/images/logos/index-logo-on1.gif");
-
-
-
-
-
-/* Feed it the name of the image you want to flip, the Flicker pair you
-   want to use, and whether you want it ON (1) or OFF (0). */
-
-function flash(imagename, flickname, state)
-{ if (isImageCapable)
-  { if (state == 0) 
-    { document.images[imagename].src = flashset[flickname].on.src; }
-    else if (state == 1)
-    { document.images[imagename].src = flashset[flickname].off.src; }
-    else if (state == 2)
-    { document.images[imagename].src = flashset[flickname].click.src; }
-    return true;
-  }
-}
-
-/* These are values that appear in the document */
-	
-// URLs for the header
-var URLhome = "http://www.advocatehealth.com";
-var URLguide = "http://www.advocatehealth.com/siteguide.html";
-var URLcontact = "http://www.advocatehealth.com/contact.html";
-var URLabout = "http://www.advocatehealth.com/about/index.html";
-var URLhealth = "http://www.advocatehealth.com/healthinfo/index.html";
-var URLclasses = "http://www.advocatehealth.com/community/index.html";
-var URLphysicians = "http://www.advocatehealth.com/doctors/index.html";
-var URLhospitals = "http://www.advocatehealth.com/sites/hospitals/index.html";
-var URLcenters = "http://www.advocatehealth.com/sites/index.html";
-var URLcareers = "http://www.advocatehealth.com/careers/index.html";
-var URLemploy = "http://www.advocatehealth.com/employer/index.html";
-var URLservices = "http://www.advocatehealth.com/services/index.html";
-var URLpersonal = "http://www.advocatehealth.com/cgi-bin/personal/login.pl";
-var URLdocdir = "http://www.advocatehealth.com/doctors/directory.html";
-
-// Messages (status bar, etc)
-var msg1 = "Advocate Health Care 1.800.3.ADVOCATE";
-
-// -->
+//-->
 </script>
+
+<link rel="Stylesheet" type="text/css" href="/lib/default.css">
+
+
+<!-- Stylesheet Addendum -->
+<!-- end /lib/dhtml-head.ssi -->
+  
 
 </head>
 
+  <!-- begin /lib/bodytag.ssi -->
+<body bgcolor="#ffffff" onload="advoBodyLoad(); return true" link="#336699" alink="#ff9900" vlink="#6699ff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"><a name="top"></a><center>
+<!-- end /lib/bodytag.ssi -->
+ 
+          
 
-<body background="/images/tile-clgrey.gif" bgcolor="#FFFFFF" link="#3333CC" alink="#66CCFF" vlink="#660099" onload="window.status=(msg1)">
 
-<!--
-	NAVIGATION HEADER 
--->
-<table width="540" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr height="18">
 
-  <td width="45"><a href="/cgi-bin/personal/jump.pl" onmouseover="window.flash('homehd', 'home', 1); window.status='http://www.advocatehealth.com'; return true;" onmouseout="window.flash('homehd', 'home', 0); window.status=(msg1); return true;"><img src="/images/header/clgrey-home-off.gif" name="homehd" hspace="0" vspace="0" border="0" alt="Advocate home page"></a></td>
+  
 
-  <td width="72"><a href="/siteguide.html" onmouseover="window.flash('guidehd', 'guide', 1); window.status='http://www.advocatehealth.com/siteguide.html'; return true;" onmouseout="window.flash('guidehd', 'guide', 0); window.status=(msg1); return true;"><img src="/images/header/clgrey-guide-off.gif" name="guidehd" hspace="0" vspace="0" border="0" alt="Site guide"></a></td>
-
-  <td width="87"><a href="/contact.html" onmouseover="window.flash('contacthd', 'contact', 1); window.status='http://www.advocatehealth.com/contact.html'; return true;" onmouseout="window.flash('contacthd', 'contact', 0); window.status=(msg1); return true;"><img src="/images/header/clgrey-contact-off.gif" name="contacthd" hspace="0" vspace="0" border="0" alt="Contact us"></a></td>
-
-  <td width="104"><a href="/about/index.html" onmouseover="window.flash('advohd', 'advo', 1); window.status='http://www.advocatehealth.com/about/index.html'; return true;" onmouseout="window.flash('advohd', 'advo', 0); window.status=(msg1); return true;"><img src="/images/header/about-off.gif" name="advohd" hspace="0" vspace="0" border="0" alt="about advocate"></a></td>
-
-  <td width="110"><a href="/healthinfo/index.html" onmouseover="window.flash('healthhd', 'health', 1); window.status='http://www.advocatehealth.com/healthinfo/index.html'; return true;" onmouseout="window.flash('healthhd', 'health', 0); window.status=(msg1); return true;"><img src="/images/header/health-off.gif" name="healthhd" hspace="0" vspace="0" border="0" alt="health and fitness"></a></td>
-
-  <td width="121"><a href="/community/index.html" onmouseover="window.flash('classeshd', 'classes', 1); window.status=(URLclasses); return true;" onmouseout="window.flash('classeshd', 'classes', 0); window.status=(msg1); return true;"><img src="/images/header/classes-off.gif" name="classeshd" hspace="0" vspace="0" border="0" alt="classes and screenings"></a></td>
-
-</tr>
+  <!-- begin /lib/ssi/top-header.ssi -->
+<!-- Top Navigation -->
+<table width="100%" bgcolor="#6699cc" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr valign="top" class="topnav">
+  <td colspan="2" align="center"><table id="topnavigation" cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr valign="top">
+      <td align="left"><table cellpadding="4" cellspacing="0" border="0">
+        <tbody><tr valign="top" class="topnav">
+          <td align="left"><a href="/system/about/" name="tnaboutus" id="tnaboutus" onmouseover="HM_f_PopUp('elMenu1',event); return true;" onmouseout="HM_f_PopDown('elMenu1'); return true;">About&nbsp;Us</a></td>
+          <td align="left"><a href="/system/info/" onmouseover="HM_f_PopUp('elMenu2',event); return true;" name="tnhealthinfo" id="tnhealthinfo" onmouseout="HM_f_PopDown('elMenu2'); return true;">Health&nbsp;Info</a></td>
+          <td align="left"><a href="/system/services/" onmouseover="HM_f_PopUp('elMenu3',event); return true;" name="tnprogserv" id="tnprogserv" onmouseout="HM_f_PopDown('elMenu3'); return true;">Programs&nbsp;and&nbsp;Services</a></td>
+          <td align="left"><a href="/system/jobsedu/" onmouseover="HM_f_PopUp('elMenu4',event); return true;" name="tnjobsedu" id="tnjobsedu" onmouseout="HM_f_PopDown('elMenu4'); return true;">Jobs&nbsp;and&nbsp;Education</a></td>
+          <td align="left"><a href="/system/contact/" onmouseover="HM_f_PopUp('elMenu5',event); return true;" name="tncontact" id="tncontact" onmouseout="HM_f_PopDown('elMenu5'); return true;">Contact</a></td>
+          <td align="left"><a href="/db/search.html?ul=system" onmouseover="HM_f_PopUp('elMenu6',event); return true;" name="tnsearch" id="tnsearch" onmouseout="HM_f_PopDown('elMenu6'); return true;">Search</a></td>
+          <td align="left"><a href="/system/map.html">Site&nbsp;Map</a></td>
+          <td align="left"><a href="/">Home</a></td></tr>
+        </tbody></table></td>
+        <td align="right" valign="bottom"><a href="/" name="tnadvobutton" id="tnadvobutton" onmouseover="window.flash('nav-locationbut', 'nav-location', 1); HM_f_PopUp('elMenu7',event); return true;" onmouseout="window.flash('nav-locationbut', 'nav-location', 0); HM_f_PopDown('elMenu7'); return true;"><img src="/images/nav-location-off.gif" name="nav-locationbut" width="157" height="20" alt="Advocate Locations" border="0"></a></td></tr>
+    </tbody></table></td></tr>
 </tbody></table>
 
-<table width="540" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr height="18">
+<!-- Purple Cross and Header Graphic -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr valign="top">
+  <td width="86" align="left" rowspan="3"><img src="/images/mainheader/pca-corner-system.gif" width="86" height="65" alt=""></td>
 
-  <td width="72"><img src="/images/px.gif" width="72" height="18" hspace="0" vspace="0" border="0"></td>
+  <td width="99%" align="left" colspan="2" bgcolor="#336699"><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
+<tr valign="top">
+  <td align="right" colspan="2"><a href="/cgi-bin/print/print.pl" onmouseover="window.flash('tab-printbut','tab-print',1)" onmouseout="window.flash('tab-printbut','tab-print',0)"><img src="/images/tabs/tab-print-off.gif" name="tab-printbut" width="70" height="17" alt="" border="0"></a><a href="/cgi-bin/emailafriend/form.pl" onmouseover="window.flash('tab-emailfriendbut', 'tab-emailfriend', 1)" onmouseout="window.flash('tab-emailfriendbut', 'tab-emailfriend', 0)"><img src="/images/tabs/tab-email-off.gif" name="tab-emailfriendbut" width="91" height="17" alt="" border="0"></a><a href="/cgi-bin/rate/rate.pl" target="rate" onclick="window.open('', 'rate', 'toolbar=no,scrollbars=no,height=370,width=300,screenx=30,left=30,screeny=30,top=30,alwaysRaised,dependent');" onmouseover="window.flash('tab-ratepagebut', 'tab-ratepage', 1)" onmouseout="window.flash('tab-ratepagebut', 'tab-ratepage', 0)"><img src="/images/tabs/tab-rate-off.gif" name="tab-ratepagebut" width="86" height="17" alt="" border="0"></a></td></tr>
 
-  <td width="61"><img src="/images/px.gif" width="61" height="18" hspace="0" vspace="0" border="0"></td>
+<tr valign="top">
+  <td align="left" class="siteaddress"><a href="/"><img src="/images/mainheader/pca-system.gif" alt="Advocate System" border="0"></a><br clear="all">
 
-  <td width="72"><img src="/images/px.gif" width="72" height="18" hspace="0" vspace="0" border="0"></td>
-
-  <td width="64"><a href="/sites/hospitals/index.html" onmouseover="window.flash('hospitalshd', 'hospitals', 1); window.status='http://www.advocatehealth.com/sites/hospitals/index.html'; return true;" onmouseout="window.flash('hospitalshd', 'hospitals', 0); window.status=(msg1); return true;"><img src="/images/header/hospitals-off.gif" name="hospitalshd" hspace="0" vspace="0" border="0" alt="hospitals"></a></td>
-
-  <td width="62"><a href="/doctors/index.html" onmouseover="window.flash('physicianshd', 'physicians', 1); window.status=(URLphysicians); return true;" onmouseout="window.flash('physicianshd', 'physicians', 0); window.status=(msg1); return true;"><img src="/images/header/physician-off.gif" name="physicianshd" hspace="0" vspace="0" border="0" alt="physicians"></a></td>
-
-  <td width="110"><a href="/careers/index.html" onmouseover="window.flash('careershd', 'careers', 1); window.status='http://www.advocatehealth.com/careers/index.html'; return true;" onmouseout="window.flash('careershd', 'careers', 0); window.status=(msg1); return true;"><img src="/images/header/cared-off.gif" name="careershd" hspace="0" vspace="0" border="0" alt="careers and education"></a></td>
-
-  <td width="99"><a href="/services/index.html" onmouseover="window.flash('employhd', 'employ', 1); window.status='http://www.advocatehealth.com/services/index.html'; return true;" onmouseout="window.flash('employhd', 'employ', 0); window.status=(msg1); return true;"><img src="/images/header/advser-off.gif" name="employhd" hspace="0" vspace="0" border="0" alt="advocate services"></a></td>
-
-</tr>
-</tbody></table>
-
-
-
-<!--
-	ADVOCATE LOGO
--->
-<p><a href="/"><img src="/images/content-logo-clgrey.gif" height="41" width="240" hspace="6" vspace="0" border="0" alt="Advocate Health Care Home Page"></a></p>
-
-
-<!-- 
-	NAVIGATION AND CONTENT
--->
-<table width="540" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-  <td width="205" valign="top">  <!-- Search Box and Section Navigation -->
-  <font face="Helvetica,Arial" size="-1">
-  <form method="POST" action="/cgi-bin/search/search132.pl">
-  <img src="/images/search/search-clgrey.gif" vspace="1" width="46" height="10" alt="Search"><br>
-  <input class="searchbar" type="text" name="terms" size="19">
-  <a href="/search/searchhelp.html"><img src="/images/search/help-clgrey.gif" width="80" height="12" vspace="1" alt="Search help" border="0"></a> 
-  &nbsp; &nbsp; &nbsp;
-  <input type="image" src="/images/search/go-clgrey.gif" name="Submit Search" vspace="1" width="30" height="12" border="0">
-  </form>
-  </font>
-
-  <p>&nbsp;</p>
+  
   </td>
-  <td width="15">&nbsp;</td>     <!-- gutter -->
-  <td width="320" valign="top">  <!-- Content -->
+  <td align="left"></td></tr>
+</tbody></table>
+<!-- end /lib/ssi/top-header.ssi -->
 
-<p><font face="Arial Black, Arial" size="+1" color="#6699CC">
+  
 
-Website Privacy Policy
-</font>
-</p>
+  <!-- begin /lib/crumb-open.ssi -->
+<!-- Breadcrumb Navigation -->
+
+<table width="720" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr valign="top">
+  <td align="right" class="breadcrumb">
+<!--
+   We don't show breadcrunb nav for now
+
+    <a href="/">Advocate</a>&nbsp;<span class="golddel">&gt;</span>
+    <a href="#">Breadcrumb</a>&nbsp;<span class="golddel">&gt;</span>
+    <a href="#">Navigation</a>&nbsp;<span class="golddel">&gt;</span>
+    <a href="#">Element</a>&nbsp;<span class="golddel">&gt;</span>
+-->
+      <span class="crumbpage">
+<!-- end /lib/crumb-open.ssi -->          
+
+
+
+  
+
+  <!-- begin /lib/crumb-close.ssi -->
+</span><br clear="all">
+
+  
+
+    <img src="/images/px-blue-medium.gif" width="720" vspace="5" height="1" alt="">
+
+</td></tr>
+</tbody></table>
+<!-- end /lib/crumb-close.ssi -->          
+
+
+
+  
+
+  <!-- begin /lib/content-open.ssi -->
+<!-- Interior Grid -->
+<table width="720" cellpadding="5" cellspacing="0" border="0">
+<tbody><tr valign="top">
+  
+<td width="700" align="left"><img src="/images/spacer.gif" width="700" height="1" alt=""><br clear="all">
+
+<!-- end /lib/content-open.ssi -->
+          
+
+
+  
+<!--  =========  BEGIN PAGE CONTENT ======== § -->
+<p class="sub1">Web Site Privacy Policy</p>
 
 <p>Advocate Health Care is committed to protecting the privacy of visitors
 to our website (www.advocatehealth.com).  Information gathered on our
@@ -187,15 +181,11 @@ individuals, families and the communities in which they live.</p>
 <p>Our website, www.advocatehealth.com, is developed by Advocate Health
 Care. Our postal address is: Advocate Health Care, 2025 Windsor Drive,
 Oakbrook, IL, 60523-1586.  Our website manager can be contacted by e-mail
-at <a href="mailto:ed.duszak@advocatehealth.com">ed.duszak@advocatehealth.com</a>,
+at <a href="mailto:webmaster@advocatehealth.com">webmaster@advocatehealth.com</a>,
 or by telephone at 630.990.5445, between the hours of 8am - 5pm Central
-time, Monday through Friday, except on holidays.
+time, Monday through Friday, except on holidays.</p>
 
-</p><p><font face="helvetica, arial" size="-1"><strong>
-
-What information do we collect?
-</strong></font>
-<br>
+<p><span class="sub2">What information do we collect?</span><br>
 
 This site recognizes and collects, when possible, the domain name of a
 visitor's server (for example, advocatehealth.com or aol.com). We do not
@@ -204,82 +194,40 @@ The only way we obtain your name or e-mail address is when you choose to
 provide that information to us.  Examples of how you might provide us with
 such personal information include:</p>
 
-<table width="320" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>Completing a survey or feedback form;</td>
-</tr>
+<ul>
+<li>Completing a survey or feedback form;</li>
+<li>E-mailing us with a comment or question;</li>
+<li>Subscribing to our e-mail notification service for new editions of Health 
+Advocate magazine;</li>
+<li>Establishing a personalized homepage via our website.</li>
+</ul>
 
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>E-mailing us with a comment or question;</td>
-</tr>
+<p><span class="sub2">How do we use the information we collect?</span></p>
 
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>Subscribing to our e-mail notification service for new editions of Health 
-Advocate magazine;</td>
-</tr>
-
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>Establishing a personalized homepage via our website.</td>
-</tr>
-</tbody></table>
-
-<p><font face="helvetica, arial" size="-1"><strong>
-
-How do we use the information we collect?
-</strong></font>
-<br>
-
-<table width="320" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>Advocate Health Care does not sell, trade or rent personal information 
-about its website visitors.</td>
-</tr>
-
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>The information we collect about the domain name of the server from which 
+<ul>
+<li>Advocate Health Care does not sell, trade or rent personal information 
+about its website visitors.</li>
+<li>The information we collect about the domain name of the server from which 
 you are visiting is aggregated and used solely to determine the number of 
-visitors to our site each day, and sources of traffic.</td>
-</tr>
-
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>E-mail addresses provided by visitors are used to respond to comments 
+visitors to our site each day, and sources of traffic.</li>
+<li>E-mail addresses provided by visitors are used to respond to comments 
 submitted through our feedback and surveys forms, when indicated. E-mail 
 addresses provided when subscribing to e-mail bulletins are used to distribute 
 the bulletins via email to subscribers.  Information provided by visitors who 
 choose to establish a personal homepage is used to furnish that page with the 
-data requested by the visitor and to send information requested by the visitor.</td>
-</tr>
-
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>If a website visitor asks us to send material that cannot be transmitted 
+data requested by the visitor and to send information requested by the visitor.</li>
+<li>If a website visitor asks us to send material that cannot be transmitted 
 electronically, we will need to know the visitor's name, e-mail address and 
 mailing address.  We will use that information only to fulfill the visitor's 
-request.</td>
-</tr>
-
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>Website visitors who complete a website survey and indicate a willingness 
+request.</li>
+<li>Website visitors who complete a website survey and indicate a willingness 
 to participate in future surveys are asked to provide their name, e-mail 
 address and telephone number. That information is shared with carefully 
 screened market research firms with which Advocate Health Care has business 
-relationships.</td>
-</tr>
-</tbody></table>
+relationships.</li>
+</ul>
 
-</p><p><font face="helvetica, arial" size="-1"><strong>
-
-How can I get my name removed from your files?
-</strong></font>
-<br>
+<p><span class="sub2">How can I get my name removed from your files?</span><br>
 
 If you do not want to receive e-mail from Advocate Health Care, please let
 us know by sending an e-mail notification to 
@@ -287,37 +235,18 @@ us know by sending an e-mail notification to
 When you write, it is imperative that you provide the following
 information so that we can be sure to honor your request:</p>
 
-<table width="320" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>Your full name</td>
-</tr>
-
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>Your active e-mail address (If you use more than one e-mail address, send 
-a message to us from each of your e-mail accounts.)</td>
-</tr>
-
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>A sentence asking that your e-mail address be removed from our files.</td>
-</tr>
-
-<tr align="LEFT" valign="TOP">
-<td width="12" valign="BASELINE"><img alt="*" width="9" height="9" border="0" src="/images/diamond.gif"></td>
-<td>The specific name of the Advocate Health Care e-mail bulletin(s) that you 
-no longer wish to receive.</td>
-</tr>
-</tbody></table>
+<ul>
+<li>Your full name</li>
+<li>Your active e-mail address (If you use more than one e-mail address, send 
+a message to us from each of your e-mail accounts.)</li>
+<li>A sentence asking that your e-mail address be removed from our files.</li>
+<li>The specific name of the Advocate Health Care e-mail bulletin(s) that you 
+no longer wish to receive.</li>
+</ul>
 
 <p>We will process your request as quickly as possible.</p>
 
-<p><font face="helvetica, arial" size="-1"><strong>
-
-What about "cookies"?
-</strong></font>
-<br>
+<p><span class="sub2">What about "cookies"?</span><br>
 
 "Cookies" are small pieces of information that are stored by your web
 browser on your computer's hard drive.  Advocate Health Care uses cookies
@@ -328,11 +257,7 @@ automatically accept cookies, but you can usually change your browser
 setting to prevent acceptance of cookies.  Check with your Internet
 Service Provider for assistance in changing this setting.</p>
 
-<p><font face="helvetica, arial" size="-1"><strong>
-
-Your consent
-</strong></font>
-<br>
+<p><span class="sub2">Your consent</span><br>
 
 By using our website, you consent to the collection and use of the
 information discussed above by Advocate Health Care.  Changes in this
@@ -340,11 +265,7 @@ policy will be posted on this page so that you may always be aware of what
 information is being collected, how it is being used, and under what
 circumstances it is being disclosed.</p>
 
-<p><font face="helvetica, arial" size="-1"><strong>
-
-Our commitment
-</strong></font>
-<br>
+<p><span class="sub2">Our commitment</span><br>
 
 Advocate Health Care is committed to its mission of serving the health
 care needs of individuals, families and communities.  We will live up to
@@ -356,63 +277,80 @@ compels us to be honest, to act in the public's best interests and to
 protect the privacy and confidentiality of all information provided to us,
 as outlined in this policy.</p>
 
-<p><font face="helvetica, arial" size="-1"><strong>
-
-Tell us what you think 
-</strong></font>
-<br>
+<p><span class="sub2">Tell us what you think</span><br>
 
 Advocate Health Care welcomes your questions and comments about privacy.
 Please send your comments via e-mail comments to our Web Manager at
-<a href="mailto:ed.duszak@advocatehealth.com">ed.duszak@advocatehealth.com</a>.</p>
+<a href="mailto:webmaster@advocatehealth.com">webmaster@advocatehealth.com</a>.</p>
 
+<!-- ý ========  END PAGE CONTENT =========  --> 
 
-  </td>
-</tr>
+  <!-- begin /lib/content-close.ssi -->
+<br clear="all"><br></td></tr>
 </tbody></table>
+<!-- end /lib/content-close.ssi -->
+          
 
+
+
+  
+
+  <!-- begin /lib/footer.ssi -->
 <p>&nbsp;</p>
-
-<!--
-	FOOTER 
--->
-<table width="540" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-  <td width="205" valign="top" align="center">
-  <img src="/images/800-clgrey.gif" width="160" height="30" hspace="0" vspace="0" border="0" alt="1.800.3.ADVOCATE -- http://www.advocatehealth.com">
-  </td>
-  <td width="15">&nbsp;</td>	<!-- gutter -->
-  <td width="320" valign="top">
-<div class="footer">
-<font face="helvetica,arial" size="1">
-  <p>[ <a href="/search/index.html">search</a>&nbsp;| 
-       <a href="/search/searchhelp.html">search&nbsp;help</a>&nbsp;| 
-       <a href="/cgi-bin/personal/jump.pl" onmouseover="window.status=(URLhome); return true;" onmouseout="window.status=(msg1); return true;">home</a>&nbsp;| 
-       <a href="/siteguide.html">site&nbsp;guide</a>&nbsp;| 
-       <a href="/contact.html">contact&nbsp;us</a>&nbsp;]<br>
-     [ <a href="/about/index.html">advocate</a>&nbsp;| 
-       <a href="/healthinfo/index.html">health&nbsp;&amp;&nbsp;fitness</a>&nbsp;| 
-       <a href="/community/index.html">classes&nbsp;&amp;&nbsp;screenings</a>&nbsp;]<br>
-     [ <a href="/sites/hospitals/index.html">hospitals</a>&nbsp;|
-       <a href="/doctors/index.html">physicians</a>&nbsp;|
-       <a href="/careers/index.html">careers&nbsp;&amp;&nbsp;education</a>&nbsp;]<br> 
-     [ <a href="/services/index.html">advocate&nbsp;services</a>&nbsp;|
-       <a href="/about/foundation/howtogive2.html">make a gift</a>&nbsp;]</p>
-
-<p>Use of our site constitutes acceptance of our <a href="/system/terms.html">Terms of
-Use</a>. Advocate Health Care respects your privacy. We invite you to view our <a href="/system/privacy.html">Privacy Policy</a>.</p>
-
-<p>Copyright © 2002 Advocate Health Care, Oak Brook, Illinois, USA</p>
-</font>
-</div>
-
-</td></tr>
+<!-- Footer Bar -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="footerbar">
+<tbody><tr valign="top">
+  <td align="center"><table width="720" cellpadding="0" cellspacing="10" border="0"><tbody><tr valign="top">
+      <td width="288" align="left" class="footerbar">http://www.advocatehealth.com</td>
+      <td width="432" align="right" class="footerbar">1.800.3.ADVOCATE / TTY 630.990.4700<br>También tenemos representantes que hablan español.</td></tr>
+    </tbody></table></td></tr>
 </tbody></table>
+
+<!-- Footer Links Text -->
+<table width="720" cellpadding="0" cellspacing="10" border="0">
+<tbody><tr valign="top">
+  <td align="left" class="footer">
+
+<!-- Can include virtual="/lib/${site}/footer-links.ssi" here if needed -->
+
+    <a href="/system/about/">About Us</a>&nbsp;|
+    <a href="/system/info/">Health Info</a>&nbsp;|
+    <a href="/system/services/">Programs and Services</a>&nbsp;|
+    <a href="/system/jobsedu/">Jobs and Education</a>&nbsp;|
+    <a href="/system/contact/">Contact</a>&nbsp;|
+    <a href="/db/search.html?ul=system">Search</a>&nbsp;|
+    <a href="/system/map.html">Site Map</a>&nbsp;|
+
+    <a href="/">Home</a>&nbsp;|
+
+    <a href="/system/about/locations/">Advocate Locations</a>
+
+  </td></tr>
+<tr valign="top">
+  <td align="left" class="footer">
+    Use of our site constitutes acceptance of our <a href="/system/terms.html">Terms of Use</a>.  Advocate Health Care respects your privacy.  We invite you to view our <a href="/system/privacy.html">Privacy Policy</a>.<br clear="all">
+    Copyright © 2002 Advocate Health Care, Oak Brook, Illinois, USA</td></tr>
+</tbody></table>
+
+</center>
+
+
+<script language="JavaScript1.2" src="/js/HM_Loader.js" type="text/javascript"></script>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+if (HM_IsMenu)
+{ document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/lib/system/HM_Arrays.js' TYPE='text/javascript'><\/SCR" + "IPT>");
+  document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='/js/HM_Script"+ HM_BrowserString +".js' TYPE='text/javascript'><\/SCR" + "IPT>"); }
+//-->
+</script><script language="JavaScript1.2" src="/lib/system/HM_Arrays.js" type="text/javascript"></script><script language="JavaScript1.2" src="/js/HM_ScriptDOM.js" type="text/javascript"></script>
+<!-- end /lib/footer.ssi -->
+
+
+
 
   
 
 
 
 
-
-</body></html>
+  </body></html>
