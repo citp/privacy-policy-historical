@@ -1,19 +1,13 @@
-> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206232000id_/http%3A//www.ihigh.com/national/static/privacy/1%2C1942%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217213937id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
 
 # iHigh.com -- The High School Internet Network
 
-[](http://www.nfhs.org/)  
-[GO TO THE   
-NFHS.ORG WEBSITE](http://www.nfhs.org/) |  |  |   
----|---  
-| | |  **About Us** \- 
+| | |  **Privacy Statement for iHigh.com**  
+****
 
-**»[PRESS](https://web.archive.org/national/static/press/1,1944,,00.html)   » [AD INFO](https://web.archive.org/national/static/ad_info/1,1943,,00.html)   » [JOBS](https://web.archive.org/national/static/jobs/1,1945,,00.html)   » [LINK BACK](https://web.archive.org/national/static/link_back/1,1946,,00.html)   » [STAFF BIOS](https://web.archive.org/national/static/staff_bios/1,1950,,00.html)   » [CONTACT](https://web.archive.org/national/static/contact/1,1947,,00.html)   » [PARTNERS](https://web.archive.org/national/static/partners/1,1948,,00.html)  
-**
+**»[iHigh Corporate Sponsors](https://web.archive.org/0,1773,2_12_0_38153,00.html)   » [About Us](https://web.archive.org/0,1773,2_12_0_36677,00.html)   » [iHigh.com Staff Bios](https://web.archive.org/0,1773,2_12_0_36680,00.html)   » [Career Opportunities](https://web.archive.org/0,1773,2_12_0_36681,00.html)   » [Privacy Statement for iHigh.com](https://web.archive.org/0,1773,2_12_0_39558,00.html)   » [Join/Contribute](https://web.archive.org/0,1773,2_12_0_39557,00.html)   » [iHigh.com Partners](https://web.archive.org/0,1773,2_12_0_36682,00.html)   » [Linkback](https://web.archive.org/0,1773,2_12_0_36684,00.html)   » [In The News](https://web.archive.org/0,1773,2_12_0_36683,00.html)   » [iHigh Top 300 Schools](http://www.ihigh.com/hs_ranking.html)   » [Press Releases](https://web.archive.org/0,1773,1_13_0,00.html)   » [Contact](https://web.archive.org/national/static/contact/1,1947,,00.html)   **
 
-##  Privacy Statement for iHigh.com 
-
-[](https://www.truste.org/validate/7584) This confirms that iHigh.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for[ http://www.ihigh.com](http://www.ihigh.com/). If you have questions or concerns regarding this statement, you should first contact Jim Mauro by email at [jim.mauro@ihigh.com](mailto:jim.mauro@ihigh.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+**Jan 01, 2001** \- [](https://www.truste.org/validate/7584) This confirms that iHigh.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for[ http://www.ihigh.com](http://www.ihigh.com/). If you have questions or concerns regarding this statement, you should first contact Tim Letcher by email at [tim.letcher@ihigh.com](mailto:tim.letcher@ihigh.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 iHigh.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.ihigh.com](http://www.ihigh.com/). 
 
@@ -61,7 +55,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. You may change your contact information (such as email, address, or phone number), or demographic information (such as school name, title, or student body size). 
 
-  1. Log on to [go.ihigh.com](https://web.archive.org/web/20001206232000id_/http%3A//www.ihigh.com/national/static/privacy/go.ihigh.com) and click on "Help." 
+  1. Log on to [go.ihigh.com](https://web.archive.org/web/20011217213937id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
 
 
 
@@ -71,5 +65,9 @@ In order to present content representing a wide range of interests and specializ
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Tim Campbell iHigh.com 350 East Main Street Lexington, KY 40507 [info@ihigh.com](mailto:info@ihigh.com)   
-| | | | 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Tim Campbell iHigh.com 350 East Main Street Lexington, KY 40507 [info@ihigh.com](mailto:info@ihigh.com)
+
+  
+
+
+| |  | | 
