@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207095047id_/http%3A//polarbearsalive.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608215318id_/http%3A//www.polarbearsalive.org/privacy.php) for the most accurate reproduction.*
 
 # PBI's Privacy Policy
 
@@ -55,4 +55,4 @@ Polar Bears International collects no information regarding the age of web site 
 
 | 
 
-All content copyright © 2002 Polar Bears International. For more information, please write Polar Bears International, P.O Box 66142, Baton Rouge, LA USA 70896 or call or fax (225) 923-3114. Comments on our web site? Take our survey or e-mail our Newsletter & Website Editor, [Barbara Nielsen](mailto:website@polarbearsalive.org). 
+All content copyright © 2003 Polar Bears International. For more information, please write Polar Bears International, P.O Box 66142, Baton Rouge, LA USA 70896 or call or fax (225) 923-3114. Comments on our web site? Take our survey or e-mail our Newsletter & Website Editor, [Barbara Nielsen](mailto:website@polarbearsalive.org). 
