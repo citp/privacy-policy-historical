@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lta.gov.sg privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215422id_/http%3A//www.lta.gov.sg/home/home_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lta.gov.sg privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206083432id_/http%3A//www.lta.gov.sg/home/home_privacy.htm) for the most accurate reproduction.*
 
 # CONDITIONS OF ACCESS
 
@@ -23,4 +23,6 @@ If you choose to make an application or send us an e-mail for which you provide 
 For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.  
   
 5 | To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.  
-6  |  This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+6  |  This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.  
+  
+Last Updated on 17/07/2003
