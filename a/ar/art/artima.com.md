@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artima.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405004721id_/http%3A//www.artima.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artima.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201094222id_/http%3A//artima.com/privacy.html) for the most accurate reproduction.*
 
 # Artima.com Privacy Policy
 
