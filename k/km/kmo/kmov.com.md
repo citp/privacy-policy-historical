@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204100318id_/http%3A//www.kmov.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405190234id_/http%3A//www.kmov.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KMOV.com | St. Louis, MO | Privacy Policy
 
@@ -114,8 +114,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/450986350/Position1/default/empty.gif/7a2f4869356c347a48744d4142313167?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/988725404/Position1/default/empty.gif/7a2f486f6546347a4874594142734d4b?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/1174362008/Position4/default/empty.gif/7a2f4869356c347a48744d4142313167?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/410010143/Position4/default/empty.gif/7a2f486f6546347a4874594142734d4b?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/932259622/Position5/default/empty.gif/7a2f4869356c347a48744d4142313167?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/2010532340/Position5/default/empty.gif/7a2f486f6546347a4874594142734d4b?x)
