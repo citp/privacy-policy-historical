@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpdrivers.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002100547id_/http%3A//helpdrivers.com/ingles/documentos/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpdrivers.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604131339id_/http%3A//helpdrivers.com/ingles/documentos/privacy.htm) for the most accurate reproduction.*
 
 # Help Drivers. Privacy Policy
 
