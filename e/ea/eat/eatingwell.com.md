@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eatingwell.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604020545id_/http%3A//eatingwell.com/about_us/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatingwell.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216172300id_/http%3A//eatingwell.com/about_us/privacy/privacy.htm) for the most accurate reproduction.*
 
 # EatingWell 's Privacy Policy
 
-  | ****PRIVACY****
+| ****PRIVACY****
 
 ******What We Collect**
 
@@ -34,6 +34,4 @@ In keeping with common order-processing and customer-acquisition practices, we d
 Happy Eating,   
 The EATINGWELL Staff
 
-* * *
-
-| 
+** **
