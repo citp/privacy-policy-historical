@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604200057id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223162034id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
 
-# Edina Realty - Real Estate in Minneapolis & Saint Paul (Twin Cities), Minnesota, Wisconsin and North/South Dakota
+# Edina
 
 **Our Privacy Policy**
 
