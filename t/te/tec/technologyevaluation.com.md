@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619062855id_/http%3A//www.technologyevaluation.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209051444id_/http%3A//www.technologyevaluation.com/Privacy.asp) for the most accurate reproduction.*
 
 # TechnologyEvaluation.Com (TEC)
 
@@ -60,9 +60,9 @@ _**Hypertext Links**_ | Our web site contains hypertext links to other sites for
   
 
 
-[**Brain of Supply Chain System**](http://www.technology-evaluation.com/Research/ResearchHighlights/Scm/2004/06/research_notes/TN_SC_XAA_06_19_04_1.asp)
+[**Vertical Marketing--What Is A Vertical?**](http://www.technology-evaluation.com/Research/ResearchHighlights/TechnologySelections/2004/12/research_notes/TU_TS_XOT_12_09_04_1.asp)
 
   
-June 19, 2004
+December 9, 2004
 
-A software tool called advanced planning and optimization, APO, for short, is used to make a supply chain system cost effective and integrated. Since this tool works on top of all other software tools which are used to plan, monitor, and control supply chain activities and control them, APO can effectively be called the brain of a supply chain system. This article explores advantages of having an APO tool for managing supply chain functions even if a business already has invested in a supply chain management (SCM) system. If a company has not made the investment then the APO tool can be used together with the upcoming SCM system.
+What is vertical marketing? Vertical marketing is product and promotion efforts targeted at specific industries. Many benefits are derived from vertical marketing. These include messages that are better received, credibility, marketing budgets that go farther, less competition, etc. A common mistake is the failure to understand the verticals you choose to target. The definition of a vertical is not what the vendor thinks; it is what the prospects think.
