@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605063539id_/http%3A//www.4sync.com/forsync/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206054155id_/http%3A//www.4sync.com/forsync/privacy.asp) for the most accurate reproduction.*
 
 # 4Sync.com - Privacy Policy
 
