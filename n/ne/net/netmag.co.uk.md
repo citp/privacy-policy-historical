@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410002842id_/http%3A//netmag.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029192135id_/http%3A//netmag.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -17,7 +17,9 @@
 [.the team](https://web.archive.org/theteam.asp "meet the .net team")  
 [.contacts](https://web.archive.org/contacts.asp "how to contact .net")  
 [.site map](https://web.archive.org/sitemap.asp "a quick guide to the contents of this site")  
+[.bid-buy-sell](http://www.maximumpc.co.uk/ebay.asp "buy the things you want, sell the things you don't")  
 [.IE5 companion](https://web.archive.org/ie5/ "The Web's most popular browser explained")  
+[.compare prices](http://prices.maximumpc.co.uk/ "Compare costs with Maximum PC prices")  
 | 
 
 **Privacy Policy covering the websites of Future Publishing Ltd.**
@@ -77,15 +79,14 @@ By using our site you agree to accept this privacy policy and are aware that our
   
   
 ---  
-| Digital underground  
+| Microsoft's new browser  
   
 ---  
-| Are you a cyberpunk?  
-|  **  I hate Blade Runner.  
- No, I leave the house.  
- What's a MUD?  
- Dig my black jacket.  
- 1984 is where it's at.  
+| What do you think of Internet Explorer 6?  
+|  **  Best browser around  
+ Improvement on IE 5.5  
+ No different to IE 5.5  
+ Disappointing  
 **
 
-click [here](https://web.archive.org/polls.asp?poll_id=67) to see the current results and previous polls. 
+click [here](https://web.archive.org/polls.asp?poll_id=102) to see the current results and previous polls. 
