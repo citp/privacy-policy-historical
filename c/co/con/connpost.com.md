@@ -1,83 +1,84 @@
-> *The following text is extracted and transformed from the connpost.com privacy policy that was archived on 2002-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020109120152id_/http%3A//www.connpost.com/Stories/0%2C1002%2C3835%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connpost.com privacy policy that was archived on 2002-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020713143244id_/http%3A//www.connpost.com/Stories/0%2C1413%2C96%25257E3835%25257E%2C00.html) for the most accurate reproduction.*
 
 # Connecticut Post
 
-| [Privacy Policy](https://web.archive.org/Stories/0,1002,3835,00.html)  
+| [News](https://web.archive.org/Stories/0,1413,96%257E3747%257E,00.html)  
 ---  
-   
- [Travel](https://web.archive.org/Stories/0,1002,11369,00.html)  
-   
- [Special News Section](https://web.archive.org/Stories/0,1002,9738,00.html)  
-  [Ganim's Indictment](http://63.147.65.112/ganim/index.html)  
-  [Attack on America](http://63.147.65.112/stories)  
-  [CT Census 2000](http://63.147.65.112/census/index.html)  
-   
- [AP WIRE News](http://wire.ap.org/?FRONTID=HOME&SITE=CTBRP&enter=Go)  
-   
- [Search Archives](http://search.newschoice.com/ArchiveSearch.asp?group=Conn&gpc=ConPst&paper=Connecticut+Post+Online)  
-   
- [VIDEO HIGHLIGHTS](http://www.videodome.com/mm4/templates/viewer.asp?uid=368&TemplateType=search)  
-   
- [Business](https://web.archive.org/Stories/0,1002,3784,00.html)  
-  [Your Money](https://web.archive.org/Stories/0,1002,3784,00.html)  
-  [Business Postings](http://www.harvestadsdepot.com/~connpostint/0220/businesspost1031/businesspost1031.htm)  
-  [Stock Forecasts](http://www.valuengine.com/servlet/CTPSummary)  
-   
- [News](https://web.archive.org/Stories/0,1002,3747,00.html)  
-  [Local/Regional](https://web.archive.org/Stories/0,1002,3750,00.html)  
-  [Police Log](https://web.archive.org/Stories/0,1002,3752,00.html)  
-  [PRNewsWire](https://web.archive.org/Stories/0,1002,3753,00.html)  
-  [Editorial](https://web.archive.org/Stories/0,1002,3754,00.html)  
-  [Obituaries](http://findit.abracat.com/ctpost/deathnotices)  
-  [Past Obituaries](https://web.archive.org/Stories/0,1002,7495,00.html)  
-  [](http://www.msnbc.com/)  
-   
- [Sports](https://web.archive.org/Stories/0,1002,11423,00.html)  
-  [Local/Regional](https://web.archive.org/Stories/0,1002,3761,00.html)  
-  [High Schools](https://web.archive.org/Stories/0,1002,3763,00.html)  
-  [The Week That Was](https://web.archive.org/Stories/0,1002,3764,00.html)  
-  [Pre-Olympics 2002](http://www.saltlake2002.com/x/f/frame.htm?u=/news/slocmain_front.asp&s=undef)  
-  [UConn Women's BB](http://63.147.65.112/uconn/)  
-   
- [Columnists](http://63.147.65.112/cols/)  
-  [Charles Walsh](https://web.archive.org/Stories/0,1002,3767,00.html)  
-  [Stephen Winters](https://web.archive.org/Stories/0,1002,3768,00.html)  
-  [Michael Daly](https://web.archive.org/Stories/0,1002,3769,00.html)  
-  [Peter Urban](https://web.archive.org/Stories/0,1002,3770,00.html)  
-  [Ken Dixon](https://web.archive.org/Stories/0,1002,3771,00.html)  
-   
- [Personals](http://www.datemaker.com/connecticutpost)  
-   
- [Features](https://web.archive.org/Stories/0,1002,3805,00.html)  
-  [Weddings/Engagements](https://web.archive.org/Stories/0,1002,3790,00.html)  
-  [Wedding Planner](http://www.harvestadsdepot.com/~connpostint/0604ship/index.htm)  
-  [Births](https://web.archive.org/Stories/0,1002,3792,00.html)  
-  [CT Teens](https://web.archive.org/Stories/0,1002,3793,00.html)  
-  [Senior News](https://web.archive.org/Stories/0,1002,3794,00.html)  
-  [SS Online for Women](http://www.ssa.gov/women/)  
-  [Social Security](https://web.archive.org/Stories/0,1002,3796,00.html)  
-  [WomanWise](https://web.archive.org/Stories/0,1002,3797,00.html)  
-  [Gardening](https://web.archive.org/Stories/0,1002,3799,00.html)  
-  [Life Planning](https://web.archive.org/Stories/0,1002,3804,00.html)  
-  [CT Connections](https://web.archive.org/Stories/0,1002,3805,00.html)  
-  [](http://www.e-thepeople.com/affiliates/connpost)  
-   
- [Weather](https://web.archive.org/Stories/0,1002,7709,00.html)  
-  [Weathercast Online](http://www.weatherwatchservice.com/bridgeport/bridgeport.html)  
-  [Flight Delays](http://www.fly.faa.gov/flyFAA/index.html)  
-  [Forecast-Today](https://web.archive.org/Stories/0,1002,7709,00.html)  
-  [Forecast-U.S.](https://web.archive.org/Stories/0,1002,3830,00.html)  
-  [Forecast-World](https://web.archive.org/Stories/0,1002,3831,00.html)  
-  [Radar](https://web.archive.org/Stories/0,1002,3832,00.html)  
-  [Satellite](https://web.archive.org/Stories/0,1002,3833,00.html)  
-   
- [Newspapers](https://web.archive.org/Stories/0,1002,3836,00.html)  
-  [Darien News-Review](http://www.dariennews-review.com/)  
-  [Fairfield Citizen-News](http://www.fairfieldcitizen-news.com/)  
-  [Westport News](http://www.westport-news.com/)  
-  [Norwalk Citizen-New](http://www.norwalkcitizen-news.com/)  
-  
-[ ](http://www.robbinseyecenter.com/)
+[WHERE are they now?](https://web.archive.org/Stories/0,1413,96%257E23956%257E,00.html)  
+[Graduates 2002](http://63.147.65.112/graduates/index.html)  
+[Local/Regional](https://web.archive.org/Stories/0,1413,96%257E3750%257E,00.html)  
+[Police Log](https://web.archive.org/Stories/0,1413,96%257E3752%257E,00.html)  
+[PRNewsWire](http://www.prnewswire.com/cgi-bin/st_display.pl?Account=CT&Template=CTpost.menu)  
+[Editorial](https://web.archive.org/Stories/0,1413,96%257E3754%257E,00.html)  
+[Obituaries](http://search.abracat.com/ctpost/deathnotices)  
+[Past Obituaries](https://web.archive.org/Stories/0,1413,96%257E7495%257E,00.html)  
+[Ganim's Indictment](http://63.147.65.112/ganim/index.html)  
+[USA Weekend](http://www.usaweekend.com/partners/connpost.html)  
+[](http://www.msnbc.com/local/CTPOST/default.asp?0dm=C---A)  
+    
+[SEARCH ARCHIVES](https://web.archive.org/Stories/0,1413,96%257E23760%257E,00.html)  
+    
+[TRAFFIC CAM](http://63.147.65.112/trafficam/index.html)  
+    
+[](http://www.e-thepeople.org/a-connpost/)  
+    
+[AP WIRE News](http://wire.ap.org/APnews/?SITE=CTBRP&FRONTID=HOME)  
+    
+[Business](https://web.archive.org/Stories/0,1413,96%257E3784%257E,00.html)  
+[Your Money](https://web.archive.org/Stories/0,1413,96%257E3784%257E,00.html)  
+[Business Postings](http://www.harvestadsdepot.com/~connpostint/0220/businesspost0215/businesspost0215.htm)  
+[Stock Forecasts](http://www.valuengine.com/servlet/CTPSummary)  
+[Sports](https://web.archive.org/Stories/0,1413,96%257E3761%257E,00.html)  
+[Local/Regional](https://web.archive.org/Stories/0,1413,96%257E3761%257E,00.html)  
+[The Week That Was](https://web.archive.org/Stories/0,1413,96%257E3764%257E,00.html)  
+[Columnists](http://63.147.65.112/cols/)  
+[Charles Walsh](https://web.archive.org/Stories/0,1413,96%257E3767%257E,00.html)  
+[Frank Keegan](https://web.archive.org/Stories/0,1413,96%257E11486%257E,00.html)  
+[Stephen Winters](https://web.archive.org/Stories/0,1413,96%257E3768%257E,00.html)  
+[Michael Daly](https://web.archive.org/Stories/0,1413,96%257E3769%257E,00.html)  
+[Peter Urban](https://web.archive.org/Stories/0,1413,96%257E3770%257E,00.html)  
+[Ken Dixon](https://web.archive.org/Stories/0,1413,96%257E3771%257E,00.html)  
+    
+[](http://www.zoomerang.com/survey.zgi?G349LPPWRNYPSRLFL8S2L0QC)  
+    
+[Pledge of Allegiance - history](http://www.vineyard.net/vineyard/history/pledge.htm)  
+[Wedding Form](http://63.147.65.112/weddings/weddingform.htm)  
+[Engagement Form](http://63.147.65.112/weddings/form.pdf)  
+[Weddings/Engagements](https://web.archive.org/Stories/0,1413,96%257E3790%257E,00.html)  
+[Wedding Planner](http://adserver1.harvestadsdepot.com/connpostint/ss/000630/)  
+[Births](https://web.archive.org/Stories/0,1413,96%257E3792%257E,00.html)  
+[CT Teens](https://web.archive.org/Stories/0,1413,96%257E3793%257E,00.html)  
+[Senior News](https://web.archive.org/Stories/0,1413,96%257E3794%257E,00.html)  
+[SS Online for Women](http://www.ssa.gov/women/)  
+[Social Security](https://web.archive.org/Stories/0,1413,96%257E3796%257E,00.html)  
+[WomanWise](https://web.archive.org/Stories/0,1413,96%257E3797%257E,00.html)  
+[Gardening](https://web.archive.org/Stories/0,1413,96%257E3799%257E,00.html)  
+[Life Planning](https://web.archive.org/Stories/0,1413,96%257E3804%257E,00.html)  
+[Weather](https://web.archive.org/Stories/0,1413,96%257E7709%257E,00.html)  
+[Weathercast Online](http://www.weatherwatchservice.com/bridgeport/bridgeport.html)  
+[Flight Delays](http://www.fly.faa.gov/flyFAA/index.html)  
+[Forecast-Today](https://web.archive.org/Stories/0,1413,96%257E7709%257E,00.html)  
+[Forecast-U.S.](https://web.archive.org/Stories/0,1413,96%257E3830%257E,00.html)  
+[Forecast-World](https://web.archive.org/Stories/0,1413,96%257E3831%257E,00.html)  
+[Radar](https://web.archive.org/Stories/0,1413,96%257E3832%257E,00.html)  
+[Satellite](https://web.archive.org/Stories/0,1413,96%257E3833%257E,00.html)  
+[Privacy Policy](https://web.archive.org/Stories/0,1413,96%257E3835%257E,00.html)  
+[Newspapers](https://web.archive.org/Stories/0,1413,96%257E3836%257E,00.html)  
+[Darien News-Review](http://www.dariennews-review.com/)  
+[Fairfield Citizen-News](http://www.fairfieldcitizen-news.com/)  
+[Norwalk Citizen-New](http://www.norwalkcitizen-news.com/)  
+[Westport News](http://www.westport-news.com/)  
+[Woman Magazine](http://www.woman-magazine.com/)  
+[Internet Shops ](https://web.archive.org/Stories/0,1413,96%257E23575%257E,00.html)  
+[Golfcard](http://www.qksrv.net/click-1078778-2834910)  
+[NYCity tix](http://www.qksrv.net/click-1078778-5522889)  
+[IncrediMail](http://www.qksrv.net/click-1078778-5469023)  
+[](http://www.qksrv.net/click-1078778-1147188)[Audubon Workshop](http://www.qksrv.net/click-1078778-5934410)  
+[Genealogy](http://www.qksrv.net/click-1078778-877434)  
+    
+[](http://connpost.lawinfo.com/)
+
+[](http://www.harvestadsdepot.com/~connpostint/titanic/)
 
 | 
 
@@ -171,8 +172,10 @@ Please include your email address and telephone number where we can reach you. T
   
   
 **Contact Us**  
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please send an e-mail to [feedback@newschoice.com](mailto:feedback@newschoice.com?Subject=Privacy%20Policy%20Feedback%20\(ConPst\)).   
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please send an e-mail to <\--EMAIL HERE-->.   
   
+[](http://www.qksrv.net/click-1078778-5477469)
+
 * * *
 
 **©1999-2002 MediaNews Group, Inc. All rights to republication are reserved.  
@@ -181,55 +184,61 @@ The Telegram and The Valley Sentinel**
 
 | 
 
-[ ](http://www.videodome.com/mm4/templates/viewer.asp?uid=368&TemplateType=search)
-
-|  [Classifieds](http://localnet.abracat.com/ctpost)  
+| [Classifieds](http://ctpost.abracat.com/)  
 ---  
-  [CTJobHunter](http://www.ctjobhunter.com/)  
-  [CTAutopix](http://www.ctautopix.com/)  
-  [Place a Classified Ad](http://63.147.65.112/adplacement.asp?PUID=6772&SPUID=6772)  
-  [](http://localnet.abracat.com/ctpost/)  
-   
- [ADS ONLINE - click for savings](http://www.harvestadsdepot.com/~connpostint/0220/)  
-  [Tom Thumb Florist](http://www.harvestadsdepot.com/~connpostint/0220/tomthumb.html)  
-  [Bridgeport Attractions](http://www.harvestadsdepot.com/~connpostint/Bridgeport/index.htm)  
-  [Holiday Dining](http://www.harvestadsdepot.com/~connpostint/0220/holiday_dining.html)  
-  [Holiday Dining & Party](http://www.harvestadsdepot.com/~connpostint/0220/holiday_dining_parties.html)  
-  [Best Buys](http://63.147.65.112/bestbuys.html)  
-  [AutoPix Plus](http://www.harvestadsdepot.com/~connpostint/autospec/index.htm)  
-  [Health, Mind & Beauty](http://www.harvestadsdepot.com/~connpostint/health/index.htm)  
-  [Home Projects](http://www.harvestadsdepot.com/~connpostint/home/index.htm)  
-  [Home Projects, more](http://www.harvestadsdepot.com/~connpostint/home/index.htm)  
-   
- [Entertainment](http://www.connpost.com/Stories/0,1002,3817,00.html)  
-  [CT Cycles](http://63.147.65.112/motorcycle/index.html)  
-  [Calendar of Events](https://web.archive.org/Stories/0,1002,3820,00.html)  
-  [Movie Reviews](https://web.archive.org/Stories/0,1002,3810,00.html)  
-  [Theatre Reviews](https://web.archive.org/Stories/0,1002,3811,00.html)  
-  [Park City Chess](http://www.parkcitychess.com/)  
-  [Book Beat](https://web.archive.org/Stories/0,1002,3812,00.html)  
-  [Movie Schedule](https://web.archive.org/Stories/0,1002,3813,00.html)  
-  [Movie Capsules](https://web.archive.org/Stories/0,1002,3814,00.html)  
-  [Hottix](https://web.archive.org/Stories/0,1002,3815,00.html)  
-  [Videos](https://web.archive.org/Stories/0,1002,3816,00.html)  
-  [Preview Coverstory](https://web.archive.org/Stories/0,1002,3817,00.html)  
-  [Music](https://web.archive.org/Stories/0,1002,3818,00.html)  
-  [In the Clubs](https://web.archive.org/Stories/0,1002,3819,00.html)  
-  [Music Reviews](https://web.archive.org/Stories/0,1002,3821,00.html)  
-  [Horoscopes](https://web.archive.org/Stories/0,1002,3823,00.html)  
-  [Lottery Results](https://web.archive.org/Stories/0,1002,3824,00.html)  
-  [Soap Recaps](https://web.archive.org/Stories/0,1002,3825,00.html)  
-   
- [Services](https://web.archive.org/Stories/0,1002,3844,00.html)  
-  [Electronic Requirements](http://63.147.65.112/req/index.html)  
-  [Advertising](https://web.archive.org/Stories/0,1002,3842,00.html)  
-  [Subscriptions](https://web.archive.org/Stories/0,1002,3848,00.html)  
-  [Vacation Stop](https://web.archive.org/Stories/0,1002,3843,00.html)  
-  [Change Address](https://web.archive.org/Stories/0,1002,3849,00.html)  
-  [Contact Us](https://web.archive.org/Stories/0,1002,3844,00.html)  
-  [Delivery Problems](https://web.archive.org/Stories/0,1002,3850,00.html)  
-  [Subscribe](https://web.archive.org/Stories/0,1002,3851,00.html)  
-  [Feedback](https://web.archive.org/Stories/0,1002,3846,00.html)  
-  [Purchase Photos](https://web.archive.org/Stories/0,1002,3847,00.html)  
-  
-[ ](http://www.harvestadsdepot.com/~connpostint/0220/)
+[Place a Classified Ad](http://63.147.65.112/adplacement.asp?PUID=6772&SPUID=6772)  
+[CTJobHunter](http://www.ctjobhunter.com/)  
+[CTAutopix](http://ctpost.autochooser.com/index.asp)  
+[House Hunter](http://adserver1.harvestadsdepot.com/connpostint/ss/000605/)  
+[](http://localnet.abracat.com/ctpost/)  
+[](http://connpost.lawinfo.com/)  
+    
+[SCHOOLS](http://quinst.com/clk/ausaltkonenschkraumhert)  
+[Technology](http://quinst.com/clk/ausaltkonenschkraumhert)  
+[Design](http://quinst.com/clk/momenishinkaizaisanai)  
+[Business](http://quinst.com/clk/endenschzineigfreitbande)  
+[Chubb Institute](http://quinst.com/clk/gyonibaisomeihoudea)  
+[DeVry University](http://quinst.com/clk/reyuredanadourei)  
+[Shopping Center](http://shopping.newspaperads.com/ctpost/)  
+[Summer Education](http://adserver1.harvestadsdepot.com/connpostint/ss/000720/)  
+[Home Projects](http://adserver1.harvestadsdepot.com/connpostint/ss/000862/)  
+[Antartic](http://www.harvestadsdepot.com/~connpostint/antarctic)  
+[Titanic](http://www.harvestadsdepot.com/~connpostint/titanic/)  
+[Health, Mind & Beauty](http://adserver1.harvestadsdepot.com/connpostint/ss/000935/)  
+[AutoPix Plus](http://adserver1.harvestadsdepot.com/connpostint/ss/autopix/)  
+[Entertainment](https://web.archive.org/Stories/0,1413,96%257E3817%257E,00.html)  
+[Jaunts](https://web.archive.org/Stories/0,1413,96%257E23667%257E,00.html)  
+[Book Beat](https://web.archive.org/Stories/0,1413,96%257E3812%257E,00.html)  
+[Calendar of Events](https://web.archive.org/Stories/0,1413,96%257E3820%257E,00.html)  
+[Hottix](https://web.archive.org/Stories/0,1413,96%257E3815%257E,00.html)  
+[In the Clubs](https://web.archive.org/Stories/0,1413,96%257E3819%257E,00.html)  
+[Movie Capsules](https://web.archive.org/Stories/0,1413,96%257E3814%257E,00.html)  
+[Movie Reviews](https://web.archive.org/Stories/0,1413,96%257E3810%257E,00.html)  
+[Movie Schedule](https://web.archive.org/Stories/0,1413,96%257E3813%257E,00.html)  
+[Music](https://web.archive.org/Stories/0,1413,96%257E3818%257E,00.html)  
+[Music Reviews](https://web.archive.org/Stories/0,1413,96%257E3821%257E,00.html)  
+[Preview Coverstory](https://web.archive.org/Stories/0,1413,96%257E3817%257E,00.html)  
+[Theatre Reviews](https://web.archive.org/Stories/0,1413,96%257E3811%257E,00.html)  
+[Videos](https://web.archive.org/Stories/0,1413,96%257E3816%257E,00.html)  
+[Video Highlights](http://www.videodome.com/mm4/templates/twizardsearch.asp?uid=368&TemplateID=95)  
+[Horoscopes](https://web.archive.org/Stories/0,1413,96%257E3823%257E,00.html)  
+[Park City Chess](http://www.parkcitychess.com/)  
+[Lottery Results](https://web.archive.org/Stories/0,1413,96%257E3824%257E,00.html)  
+[Soap Recaps](https://web.archive.org/Stories/0,1413,96%257E3825%257E,00.html)  
+[PERSONALS](http://www.people2people.com/?page=login&connect=ctpost)  
+[Services](https://web.archive.org/Stories/0,1413,96%257E3844%257E,00.html)  
+[Advertising](https://web.archive.org/Stories/0,1413,96%257E3842%257E,00.html)  
+[Electronic Requirements](http://63.147.65.112/req/index.html)  
+    
+[Subscriptions](https://web.archive.org/Stories/0,1413,96%257E3848%257E,00.html)  
+[Vacation Hold](https://web.archive.org/Stories/0,1413,96%257E3843%257E,00.html)  
+[Change Address](https://web.archive.org/Stories/0,1413,96%257E3849%257E,00.html)  
+[Delivery Problems](https://web.archive.org/Stories/0,1413,96%257E3850%257E,00.html)  
+[Subscribe](https://web.archive.org/Stories/0,1413,96%257E3851%257E,00.html)  
+    
+[Purchase Photos](https://web.archive.org/Stories/0,1413,96%257E3847%257E,00.html)  
+    
+[Mapquest](http://www.mapquest.com/)  
+[Contact Us](https://web.archive.org/Stories/0,1413,96%257E3844%257E,00.html)  
+[Feedback](https://web.archive.org/Stories/0,1413,96%257E3846%257E,00.html)  
+[](http://adserver1.harvestadsdepot.com/connpostint/ss/autopix/)
