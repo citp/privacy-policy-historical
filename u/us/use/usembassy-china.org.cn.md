@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usembassy-china.org.cn privacy policy that was archived on 2002-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021221013306id_/http%3A//www.usembassy-china.org.cn/beijing/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usembassy-china.org.cn privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621122317id_/http%3A//www.usembassy-china.org.cn/beijing/privacy.html) for the most accurate reproduction.*
 
 # UA Embassy-China:Press Release
 
-[Print Version](https://web.archive.org/web/20021221013306id_/http%3A//www.usembassy-china.org.cn/beijing/ptr/privacy.html)
+[Print Version](https://web.archive.org/web/20030621122317id_/http%3A//www.usembassy-china.org.cn/beijing/ptr/privacy.html)
 
 ### Privacy Policy
 
