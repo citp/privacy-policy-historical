@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the collegetennisonline.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004074324id_/http%3A//www.collegetennisonline.com/view/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegetennisonline.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602200721id_/http%3A//www.collegetennisonline.com/view/privacy.asp) for the most accurate reproduction.*
 
 # College Tennis Online: NCAA results, ITA collegiate tennis rankings, and college tennis news
 
-|  |  |  |  **InterActive Sports Media Privacy Notice**   
+|  |  |  |    
+**InterActive Sports Media Privacy Notice**   
 Thank you for visiting CollegeTennisOnline.com, an InterActive Sports Media (ISM) site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this ISM site. 
 
 **Third Party Advertising**   
