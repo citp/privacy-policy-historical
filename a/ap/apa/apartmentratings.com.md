@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611012302id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223114218id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
 
-# ApartmentRatings.com :: Apartment reviews by real people
+# Apartment Ratings :: Apartment reviews by renters for renters.
 
 ApartmentRatings.com takes your privacy seriously. Please read this to learn about our policy regarding visitor and member privacy. 
 
