@@ -1,40 +1,69 @@
-> *The following text is extracted and transformed from the hearthsong.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609163841id_/http%3A//www.hearthsong.com/service/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearthsong.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604215423id_/http%3A//hearthsong.com/hearthsong/security/index.asp) for the most accurate reproduction.*
 
-# HearthSong Privacy Statement
+# Magic Cabin
 
-| March 26, 1999
+At HearthSong, we recognize and respect the importance of maintaining the privacy of our customers and registered users (members). This Privacy Policy describes why we gather customer and member information, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the [Terms of Use](https://web.archive.org/web/20040604215423id_/http%3A//hearthsong.com/hearthsong/security/termsofuse.asp), which governs your use of HEARTHSONG.COM.
 
-HearthSong has been a member of the Foster & Gallagher Children's Group since 1991. Foster & Gallagher, Inc. is a leading direct marketing company in the United States and Canada, providing quality products and services to millions of customers by direct mail, catalog, online stores, publications and other media. The HearthSong Online Store is hosted by Foster & Gallagher servers in Peoria, Illinois. 
+**Note:** _You must be 18 years or older to register as a member of www.HearthSong.com._
 
-The Foster & Gallagher mailing address is: 
+**Why do we gather information?**  
+Since our inception, HearthSong has consistently provided our customers with quality goods and excellent customer service. We gather personal information to allow us to process your orders, to enhance and personalize your shopping experience and to inform you of special offers and discounts. 
 
-6519 North Galena Road  
-P.O. Box 1773  
-Peoria, IL 61656-1773
+**What information do we gather?**  
+When you order from our Web site, we collect the following information: your name, telephone number, email address, billing information (credit card number, expiration date and billing address), products purchased, any relevant promotion code and information (frequent flyer miles, for example) and, if relevant, the recipient's name, address and telephone number. Information you enter is collected even if you cancel or do not complete an order. Also, if you register as a member, we request your name, address, phone number, email address, title (gender), and other information set forth on the [Member Registration](https://web.archive.org/web/20040604215423id_/http%3A//hearthsong.com/myshop/register.asp) page. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or receive gift reminders. Only Members have the right to view and edit their Address Book entries. 
 
-Comments about our Privacy Policy may be sent by e-mail to [comments@hearthsong.com](https://web.archive.org/web/20000609163841id_/http%3A//www.hearthsong.com/service/comments.cfm).  
-We can also be reached by telephone at: 1-800-638-5279 
+**How we use "cookies"?**  
+A "cookie" is a small file stored on your computer by a Web site that gives you a numeric user ID and stores certain information about your activity on the site. We use cookies to let us know if you are a previous customer and also to provide certain features to you, such as storing information on your product selections as you shop on our site. We do not store any personal or financial information about you (except your name) using cookies. 
 
-When you visit the HearthSong Online Store, our server automatically recognizes the address of your Internet Service Provider (ISP) and, in some cases, your domain name. We cannot identify you individually from your screen name if you are using America Online or one of the other major online services. Our server also identifies your browser, your browser version, the operating system you are using, the pages you visit in the HearthSong Online Store and the Uniform Resource Locator (URL) of where you were on the Internet if you clicked a link to www.hearthsong.com. 
+Most web browsers automatically accept cookies, and most also allow you to instruct your browser to prevent the use of cookies. However, if you disable this feature certain aspects of www.hearthsong.com, such as the shopping basket, will not function properly..
 
-We intend to continue improving the content and function of the HearthSong Online Store. For this reason, we gather the information mentioned above so that we can provide content of interest to you and a site that functions correctly on your computer system. 
+**How we use the information we collect about you?**  
+We use information we collect from you to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of offers and discounts from HearthSong, or other sites and companies owned by our parent company, 1800Flowers.com, including Plow & Hearth and Magic Cabin. In addition, we periodically make such information, including aggregated information, available to selected third parties including but not limited to, those who trade or rent information for direct marketing purposes. 
 
-If you place an order or request a catalog from us online, and do not indicate otherwise, we will add your e-mail address to the list of people who receive e-mail notification of special offers and other communications from us from time to time. We will also keep your e-mail address on file so we can contact you about your order. If you send e-mail to us, we will ask you, in our reply, if you would like to be added to our e-mail address list. You will not be added to our e-mail address list without your permission. We may, in the future, share your e-mail address with other businesses or organizations that have products or services we feel may be of interest to you. 
+HearthSong does not make your email addresses available to third parties (except for our parent company 1800Flowers.com and its subsidiaries and subcontractors or agencies acting on our behalf in compliance with this Privacy Policy or any Successor (see Below)), although we may do so in the future. If we do, we will first amend this policy. If you would like us to email you a notice when our Privacy Policy or Terms of Use change, please follow the instructions below. You may instruct us not to share information with third parties by following the instructions provided below. A Successor to our business is not to be considered to be a third party for these purposes (see below). 
 
-If you should change your mind and decide that you do not wish to receive e-mail from us or do not wish us to share your e-mail address with others, you may let us know by e-mail, send us a letter or give us a call. 
+In the event of a merger, consolidation, or sale or transfer of all or substantially all of the assets or business of HearthSong (a "Successor"), one of the assets which would generally be transferred is the information we collect from our customers and members. However, the use of this information by any Successor would still be governed by the terms of this privacy policy, as amended from time to time, including any amendment after such transaction, and you will continue to have the right to opt-out of sharing your information with third parties. 
 
-If you give us your telephone number online, we may call you about your order. If you would rather we not call you and communicate by e-mail only, please let us know by [E-Mail](https://web.archive.org/web/20000609163841id_/http%3A//www.hearthsong.com/service/comments.cfm), send us a letter or give us a call. We will make every effort to comply with your request. 
+We may disclose any information you provide to HearthSong when we believe disclosure to be appropriate to comply with any law, regulation, or governmental request, or to comply with judicial process; or (ii) if such disclosure is necessary or appropriate to operate this web site; or (iii) to protect the rights or property of HearthSong, its users, Sponsors, Providers, Licensors, or Merchants. 
 
-Other information that may be requested of you includes: your name, address, city, state, zip code, the name(s) and full address(es) of your recipients and their phone number, also at times a gift message and your requested delivery date. Also, we collect your comments so we can better serve you in the future. Of course for orders, your items, the quantity of each item and bank card number with its expiration date is collected. 
+**Links**  
+HearthSong wants you to be aware that when you click on links and/or ad banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies, not ours. While we support the protection of privacy on the Internet, we cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to providing any personal information to, any other Web site. 
 
-We are committed to data security and the accuracy of our information (see Our [Security Policy](https://web.archive.org/web/20000609163841id_/http%3A//www.hearthsong.com/service/security.cfm)) received from domestic and foreign visitors to our site. Likewise, your recipient(s)' information is never shared with third parties. In addition, none of your information is merged with outside data for marketing purposes. 
+**Your Security**  
+Our Web site encrypts your credit card number prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using Microsoft's Internet Explorer or Netscape Navigator. 
 
-We do ask that you please review the acknowledgment of your request that you will receive to insure the accuracy of the information submitted to us. As noted earlier, your information is never shared with any third party when you let us know by [E-Mail](https://web.archive.org/web/20000609163841id_/http%3A//www.hearthsong.com/service/comments.cfm), letter, phone or the do not solicit option on each location where we are collecting information. The only exception in response to your specific request for merchandise or information. It should be noted that if you do allow us to share information, the other companies may be governed by different privacy policies. 
+However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us. 
 
-If you would like to receive a copy of your personal information on file at HearthSong, please [E-Mail](https://web.archive.org/web/20000609163841id_/http%3A//www.hearthsong.com/service/comments.cfm) us with the following information: E-mail address you use for correspondence with HearthSong, Last Name, Zip code and your Account/Order number if available. After we receive your E-mail we will process your request and advise you on how to make any corrections. 
+**How to limit the use of your information**  
+If you prefer not to have us provide information about you to third parties, please let us know by: 
 
-If you have any questions, concerns, or comments about our privacy policies or practices, we would like to know what they are so we can address them.  Please contact us at 1-800-638-5279. We also participate in the Council of Better Business Bureaus' BBBOnLine Privacy Program, and comply with all the BBBOnLine Privacy standards.  Further information about this program is available at: [http://www.bbbonline.org](http://www.bbbonline.org/). 
+  1. Writing to:  
+Customer Satisfaction Department  
+HearthSong  
+P.O. Box 1050  
+Madison, VA 22727
 
-We may change our Privacy Policy at any time. Please return to this page every so often and let us know if you would like us to make changes in the way our Privacy Policy applies to you. 
+If you have a catalog, brochure or other mailing label from us, please include it with your request, otherwise just include your mailing address. 
 
-Enjoy your visit to the [HearthSong Online Store](https://web.archive.org/web/20000609163841id_/http%3A//www.hearthsong.com/shop.cfm). We hope you find what you are looking for. 
+  2. Emailing [service@hearthsong.com](mailto:service@hearthsong.com) (please include your mailing address)
+
+or
+
+  3. Calling our Customer Satisfaction Department at 1-800-533-4397. 
+
+
+
+In addition, if you also prefer not to receive further product information and promotional mailings/emails from HearthSong based on information you provided to HearthSong, please indicate this in your instructions to us and please include your mailing address and email address. Unless you indicate otherwise in the email or letter you send us or by phone, we will continue to provide you with information that we believe will interest you about our own products and promotions and those of other sites and companies in the 1800Flowers.com family. 
+
+Your instructions will apply to information collected by HearthSong, not to information collected on other Web sites or companies owned by 1800Flowers.com. If you are a user of any of those Web sites and wish to opt-out in a similar manner with respect to those sites, please go to those sites, click on the Privacy Policy link or banner and follow the instructions.
+
+Your instructions to limit the use of your information will be processed as soon as reasonably practicable. 
+
+**Corrections**  
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information to:[service@hearthsong.com](mailto:service@hearthsong.com).
+
+**Your Consent and Changes to this Policy**  
+Subject to the above provisions, by using our Web site, you consent to the collection and use of information by us and the terms of this Privacy Policy. We may change our Privacy Policy from time to time and we will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. In addition, if you would like notice of changes to the Privacy Policy or Terms of Use, email us at [service@hearthsong.com](mailto:service@hearthsong.com) from the email address to which you would like notice sent. . By using HearthSong.com after such changes and posting, you agree to be legally bound and to abide by the changes and other provisions contained in the Privacy Policy and Terms of Use.
+
+**Your Comments**  
+HearthSong welcomes feedback concerning its privacy policy. Please send your comments and questions to [service@hearthsong.com](mailto:service@hearthsong.com).
