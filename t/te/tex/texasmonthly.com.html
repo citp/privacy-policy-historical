@@ -1,31 +1,31 @@
-<!--The following is the downloaded HTML source of the texasmonthly.com privacy policy that was archived on 2002-01-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020123022630id_/http%3A//texasmonthly.com/admin/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the texasmonthly.com privacy policy that was archived on 2002-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021216034815id_/http%3A//www.texasmonthly.com/misc/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/1998/REC-html40-19980424/loose.dtd"><html><head>
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-<meta name="language" content="en-us">
-<meta name="description" content="Texas Monthly Magazine">
-<meta name="keywords" content="Texas Monthly Magazine Texas Monthly Biz texas table of contents Texas archive texas articles features issue Texas travel Texas business Texas music Texas story departments columns Texas subscription Texas food bar-b-que bbq steaks">
-<meta name="distribution" content="global">
-<meta name="resource-type" content="document">
-<link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/win.css" type="text/css">
+<!--0-->
 
+<!---->
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" media="screen" href="http://www.texasmonthly.com/style/win.css" type="text/css">
+<!---->
 <script language="JavaScript" type="text/javascript">
 <!--
 // JAVASCRIPT BROWSER DETECTION FOR FLASH
-var os = "";
+// any changes to this portion must also be made in /scripts/external.js
+var tm_os = "";
 var bname = "";
 var bver = 0;
 
 // platform: Mac, WebTV, or other
 if (navigator.appVersion.indexOf("Mac") != -1) {
-    os = "mac";
+    tm_os = "mac";
 }
 if (navigator.appVersion.indexOf("Win") != -1) {
-    os = "windows";
+    tm_os = "windows";
 }
 if (navigator.appName.indexOf("WebTV") != -1) {
-    os = "webtv";
+    tm_os = "webtv";
 }
 // version 
 if (parseInt(navigator.appVersion) >= 4) {// includes IE 5
@@ -43,22 +43,23 @@ if (navigator.appName.indexOf("Internet Explorer") != -1) {
 }
 
 // FLASH DETECTION - must be at least version 5
-// var flash4Installed = false;		// boolean. true if flash 4 is installed
 var flash5Installed = false;		// boolean. true if flash 5 is installed
+var flash6Installed = false;		// boolean. true if flash 6 is installed
 var flashmode = 0;
 var minVersion = 5; // minimum version we accept
-var maxVersion = 5; // highest version available
+var maxVersion = 6; // highest version available
 //-->
 </script>
 
 <script language="JavaScript1.1" type="text/javascript">
 <!--
 // VBScript detection for IE Windows
-if (bname == "ie" && os == "windows") {
+if (bname == "ie" && tm_os == "windows") {
 	document.write('<scr' + 'ipt language=VBScript>\n');
 	document.write('on error resume next\n');
 	//document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4")))\n');
-	document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5")))\n');	
+	document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5")))\n');
+	document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6")))\n');
 	document.write('<\/scr' + 'ipt>\n'); // break up end tag so it doesn't end our script
 }
 //-->
@@ -66,7 +67,8 @@ if (bname == "ie" && os == "windows") {
 
 <script language="JavaScript" type="text/javascript">
 <!--
-function flashDetect() {
+function flashDetect()
+{
     for (var i = minVersion; i <= maxVersion; i++) {	
         if (eval("flash" + i + "Installed") == true) flashmode = 1;
     }
@@ -100,16 +102,19 @@ function flashDetect() {
 	    }
     }
 }
+
 flashDetect();
 
 // for comment on this page
-function commentit() {
+function commentit()
+{
     document.suggest.submit();
 }
 
 // our generic small window pop-up
 // requires href property and target ="_top" for non-javascript browsers
-function smallPop() {
+function smallPop()
+{
     winpopup =
     window.open('','popup','toolbar=0,location=0,directories=0,status=0,scrollbars=yes,resizable=yes,copyhistory=0,width=350,height=400,top=10,left=10');
     if(winpopup.focus) {
@@ -120,69 +125,275 @@ function smallPop() {
 // less generic window pop-up - allows for different sizes
 // 'pure' javascript solution - need link in noscript tags for non-js browsers
 // used for Flash movies Sept 2001
-function flashPop(url,w,h) {
+function flashPop(url,w,h)
+{
 var windowprops = 'width=' + w + ',height=' + h + ',toolbar=0,location=0,directories=0,status=0,scrollbars=yes,resizable=yes,copyhistory=0';
 popup = window.open(url,'remote',windowprops);
 }
 
-// bizometer popup
-function bizometerPop()
+function checkData(form_name)
 {
-    winpopup =
-    window.open('','popup2','toolbar=0,location=0,directories=0,status=0,scrollbars=yes,resizable=yes,copyhistory=0,width=620,height=250,top=150,left=10');
-    if(winpopup.focus) {
-        winpopup.focus();
-    }
-}
 
-function checkData(){
-    i=document.entry.email.value.indexOf("@")
-    j=document.entry.email.value.indexOf(".",i)
-    k=document.entry.email.value.indexOf(",")
-    kk=document.entry.email.value.indexOf(" ")
-    jj=document.entry.email.value.lastIndexOf(".")+1
-    len=document.entry.email.value.length
+    i=document.forms[form_name].email.value.indexOf("@")
+    j=document.forms[form_name].email.value.indexOf(".",i)
+    k=document.forms[form_name].email.value.indexOf(",")
+    kk=document.forms[form_name].email.value.indexOf(" ")
+    jj=document.forms[form_name].email.value.lastIndexOf(".")+1
+    len=document.forms[form_name].email.value.length
 
-    if ((i>0) && (j>(1+1)) && (k==-1) && (kk==-1) && (len-jj >=2) && (len-jj<=3)) {
+    if ((i>0) && (j>(1+1)) && (k==-1) && (kk==-1) && (len-jj >=2) && (len-jj<=4)) {
 
     } else {
         alert("You did not enter a valid email address!\n");
         return false;
     }
 }
+
+// these are here so as not to give errors on pages which do not use page_head/beginhead
+// but do include $body_properties, since the images are preloaded in $body_properties
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+var clickURL="http://www.texasmonthly.com/misc/privacy.php";
 // -->
-</script>
-<script language="javascript1.2" type="text/javascript">
-<!--
-var clickURL="http://www.texasmonthly.com/admin/privacy.php?et_sp_id=1011752244";
-// -->
-</script>
-<style type="text/css" media="Screen">
+</script><style type="text/css" media="Screen">
 <!--
 .magsmallstyle {color:#666666;}
 -->
 </style>
 <title>Texas Monthly: Privacy Statement</title>
-</head>
-<body bgcolor="#fdfffd" class="bodystyle"><a name="begin"></a><noindex>
+<!-- Fireworks MX Dreamweaver MX target.  Created Thu Aug 01 16:28:20 GMT-0500 2002-->
+<script language="JavaScript" type="text/javascript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_0731144724_0) return;
+  window.mm_menu_0731144724_0 = new Menu("root",108,16,"Verdana, Arial, Helvetica, sans-serif",10,"#000000","#d06313","#d06313","#ffffff","left","middle",3,0,1000,-5,7,true,true,false,0,true,true);
+  mm_menu_0731144724_0.addMenuItem("Texan&nbsp;Traveler","location='/travel/guide'");
+  mm_menu_0731144724_0.addMenuItem("Travel&nbsp;Planner","location='/travel_planner'");
+  mm_menu_0731144724_0.addMenuItem("Around&nbsp;The&nbsp;State","location='/travel'");
+   mm_menu_0731144724_0.fontWeight="bold";
+   mm_menu_0731144724_0.hideOnMouseOut=true;
+   mm_menu_0731144724_0.menuBorder=1;
+   mm_menu_0731144724_0.menuLiteBgColor='#ffffff';
+   mm_menu_0731144724_0.menuBorderBgColor='#555555';
+   mm_menu_0731144724_0.bgColor='#555555';
+  window.mm_menu_0731150222_1 = new Menu("root",110,16,"Verdana, Arial, Helvetica, sans-serif",10,"#000000","#d06313","#d06313","#ffffff","left","middle",3,0,1000,-5,7,true,true,false,0,true,true);
+  mm_menu_0731150222_1.addMenuItem("Pat's&nbsp;Pick","location='/food/patspick.php'");
+  mm_menu_0731150222_1.addMenuItem("Recipes","location='/food/recipes.php'");
+  mm_menu_0731150222_1.addMenuItem("Find&nbsp;a&nbsp;Restaurant","location='/travel/query/reviews/index.php'");
+   mm_menu_0731150222_1.fontWeight="bold";
+   mm_menu_0731150222_1.hideOnMouseOut=true;
+   mm_menu_0731150222_1.menuBorder=1;
+   mm_menu_0731150222_1.menuLiteBgColor='#ffffff';
+   mm_menu_0731150222_1.menuBorderBgColor='#555555';
+   mm_menu_0731150222_1.bgColor='#555555';
+  window.mm_menu_0731145021_1 = new Menu("root",136,16,"Verdana, Arial, Helvetica, sans-serif",10,"#000000","#d06313","#d06313","#ffffff","left","middle",3,0,1000,-5,7,true,true,false,0,true,true);
+  mm_menu_0731145021_1.addMenuItem("Click&nbsp;&amp;&nbsp;Go!","location='/clickngo'");
+  mm_menu_0731145021_1.addMenuItem("Marketplace&nbsp;Classified","location='/shopping/index.php?content=texastravel'");
+  mm_menu_0731145021_1.addMenuItem("Special&nbsp;Sections","location='/shopping'");
+   mm_menu_0731145021_1.fontWeight="bold";
+   mm_menu_0731145021_1.hideOnMouseOut=true;
+   mm_menu_0731145021_1.menuBorder=1;
+   mm_menu_0731145021_1.menuLiteBgColor='#ffffff';
+   mm_menu_0731145021_1.menuBorderBgColor='#555555';
+   mm_menu_0731145021_1.bgColor='#555555';
+  window.mm_menu_0731145725_2 = new Menu("root",120,16,"Verdana, Arial, Helvetica, sans-serif",10,"#000000","#d06313","#d06313","#ffffff","left","middle",3,0,1000,-5,7,true,true,false,0,true,true);
+  mm_menu_0731145725_2.addMenuItem("Subscribe!","location='/subscriptions'");
+  mm_menu_0731145725_2.addMenuItem("Gift&nbsp;Subscriptions","location='https://commerce.cdsfulfillment.com/TXM/giftform.htm'");
+  mm_menu_0731145725_2.addMenuItem("Subscriber&nbsp;Services","location='https://commerce.cdsfulfillment.com/TXM/custserv.cgi'");
+   mm_menu_0731145725_2.fontWeight="bold";
+   mm_menu_0731145725_2.hideOnMouseOut=true;
+   mm_menu_0731145725_2.menuBorder=1;
+   mm_menu_0731145725_2.menuLiteBgColor='#ffffff';
+   mm_menu_0731145725_2.menuBorderBgColor='#555555';
+   mm_menu_0731145725_2.bgColor='#555555';
+  window.mm_menu_0731144442_1 = new Menu("root",87,16,"Verdana, Arial, Helvetica, sans-serif",10,"#000000","#d06313","#d06313","#ffffff","left","middle",3,0,1000,-5,7,true,true,false,0,true,true);
+  mm_menu_0731144442_1.addMenuItem("Current&nbsp;Issue","location='/current'");
+  mm_menu_0731144442_1.addMenuItem("Archive","location='/archive'");
+   mm_menu_0731144442_1.fontWeight="bold";
+   mm_menu_0731144442_1.hideOnMouseOut=true;
+   mm_menu_0731144442_1.menuBorder=1;
+   mm_menu_0731144442_1.menuLiteBgColor='#ffffff';
+   mm_menu_0731144442_1.menuBorderBgColor='#555555';
+   mm_menu_0731144442_1.bgColor='#555555';
+  window.mm_menu_0731145259_2 = new Menu("root",84,16,"Verdana, Arial, Helvetica, sans-serif",10,"#000000","#d06313","#d06313","#ffffff","left","middle",3,0,1000,-5,7,true,true,false,0,true,true);
+  mm_menu_0731145259_2.addMenuItem("New&nbsp;Next","location='/events/newnext'");
+  mm_menu_0731145259_2.addMenuItem("Sweepstakes","location='/events/contests'");
+  mm_menu_0731145259_2.addMenuItem("More!","location='/events'");
+   mm_menu_0731145259_2.fontWeight="bold";
+   mm_menu_0731145259_2.hideOnMouseOut=true;
+   mm_menu_0731145259_2.menuBorder=1;
+   mm_menu_0731145259_2.menuLiteBgColor='#ffffff';
+   mm_menu_0731145259_2.menuBorderBgColor='#555555';
+   mm_menu_0731145259_2.bgColor='#555555';
+  window.mm_menu_0731150029_3 = new Menu("root",80,16,"Verdana, Arial, Helvetica, sans-serif",10,"#000000","#d06313","#d06313","#ffffff","left","middle",3,0,1000,-5,7,true,true,false,0,true,true);
+  mm_menu_0731150029_3.addMenuItem("TexTalk","location='/textalk'");
+  mm_menu_0731150029_3.addMenuItem("Recipe&nbsp;Swap","location='/recipeswap'");
+  mm_menu_0731150029_3.addMenuItem("Book&nbsp;Group","location='/bookgroup'");
+   mm_menu_0731150029_3.fontWeight="bold";
+   mm_menu_0731150029_3.hideOnMouseOut=true;
+   mm_menu_0731150029_3.menuBorder=1;
+   mm_menu_0731150029_3.menuLiteBgColor='#ffffff';
+   mm_menu_0731150029_3.menuBorderBgColor='#555555';
+   mm_menu_0731150029_3.bgColor='#555555';
+  window.mm_menu_0731161207_4 = new Menu("root",105,16,"Verdana, Arial, Helvetica, sans-serif",10,"#000000","#d06313","#d06313","#ffffff","left","middle",3,0,1000,-5,7,true,true,false,0,true,true);
+  mm_menu_0731161207_4.addMenuItem("Buy&nbsp;Texas&nbsp;Music!","location='/music'");
+   mm_menu_0731161207_4.fontWeight="bold";
+   mm_menu_0731161207_4.hideOnMouseOut=true;
+   mm_menu_0731161207_4.menuBorder=1;
+   mm_menu_0731161207_4.menuLiteBgColor='#ffffff';
+   mm_menu_0731161207_4.menuBorderBgColor='#555555';
+   mm_menu_0731161207_4.bgColor='#555555';
 
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
- 
-	<tbody><tr>
-		<td colspan="2" bgcolor="#cccccc"><img src="/images/spacer.gif" width="1" height="2" alt=""></td>
-	</tr>
-	<tr valign="middle" align="center">
-		<td align="center" colspan="2" bgcolor="#cccccc">
-<a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=468x60;tile=1;ord=1515125320?"><img src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=468x60;tile=1;ord=1515125320?" border="0" width="468" height="60"></a></td>
-	</tr>
-	<tr>
-		<td colspan="2" bgcolor="#cccccc"><img src="/images/spacer.gif" width="1" height="2" alt=""></td>
-	</tr>
-    <tr>
+  mm_menu_0731161207_4.writeMenus();
+} // mmLoadMenus()
+
+//-->
+</script>
+<script language="JavaScript1.2" src="/scripts/mm_menu.js"></script>
+
+
+<!--ad_zone=misc-->
+
+</head>
+<body bgcolor="#fdfffd" class="bodystyle" onload="MM_preloadImages('/images/navbar/travel_f2.gif','/images/navbar/food_f2.gif','/images/navbar/shopping_f2.gif','/images/navbar/home_f2.gif','/images/navbar/magazine_f2.gif','/images/navbar/events_f2.gif','/images/navbar/community_f2.gif','/images/navbar/music_f2.gif');">
+<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(85, 85, 85); background-color: rgb(85, 85, 85); width: 330px; height: 20px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 328px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 327px; background-color: rgb(85, 85, 85);">
+<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 108px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:4px;top:2px;color:#000000;">Texan&nbsp;Traveler&nbsp;</div>
+<div id="menuItemHilite0" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Texan&nbsp;Traveler&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 109px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 108px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:4px;top:2px;color:#000000;">Travel&nbsp;Planner&nbsp;</div>
+<div id="menuItemHilite1" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Travel&nbsp;Planner&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 218px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 108px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:4px;top:2px;color:#000000;">Around&nbsp;The&nbsp;State&nbsp;</div>
+<div id="menuItemHilite2" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Around&nbsp;The&nbsp;State&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(85, 85, 85); background-color: rgb(85, 85, 85); width: 336px; height: 20px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 334px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 333px; background-color: rgb(85, 85, 85);">
+<div id="menuItem3" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 110px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:4px;top:2px;color:#000000;">Pat's&nbsp;Pick&nbsp;</div>
+<div id="menuItemHilite3" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Pat's&nbsp;Pick&nbsp;</div></div><div id="menuItem4" style="position: absolute; left: 111px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 110px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:4px;top:2px;color:#000000;">Recipes&nbsp;</div>
+<div id="menuItemHilite4" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Recipes&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 222px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 110px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:4px;top:2px;color:#000000;">Find&nbsp;a&nbsp;Restaurant&nbsp;</div>
+<div id="menuItemHilite5" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Find&nbsp;a&nbsp;Restaurant&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(85, 85, 85); background-color: rgb(85, 85, 85); width: 414px; height: 20px;">
+  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 412px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 411px; background-color: rgb(85, 85, 85);">
+<div id="menuItem6" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 136px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:4px;top:2px;color:#000000;">Click&nbsp;&amp;&nbsp;Go!&nbsp;</div>
+<div id="menuItemHilite6" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Click&nbsp;&amp;&nbsp;Go!&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 137px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 136px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:4px;top:2px;color:#000000;">Marketplace&nbsp;Classified&nbsp;</div>
+<div id="menuItemHilite7" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Marketplace&nbsp;Classified&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 274px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 136px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:4px;top:2px;color:#000000;">Special&nbsp;Sections&nbsp;</div>
+<div id="menuItemHilite8" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Special&nbsp;Sections&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(85, 85, 85); background-color: rgb(85, 85, 85); width: 366px; height: 20px;">
+  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 364px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 363px; background-color: rgb(85, 85, 85);">
+<div id="menuItem9" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:4px;top:2px;color:#000000;">Subscribe!&nbsp;</div>
+<div id="menuItemHilite9" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Subscribe!&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 121px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:4px;top:2px;color:#000000;">Gift&nbsp;Subscriptions&nbsp;</div>
+<div id="menuItemHilite10" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Gift&nbsp;Subscriptions&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 242px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 120px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:4px;top:2px;color:#000000;">Subscriber&nbsp;Services&nbsp;</div>
+<div id="menuItemHilite11" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Subscriber&nbsp;Services&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(85, 85, 85); background-color: rgb(85, 85, 85); width: 179px; height: 20px;">
+  <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 177px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 176px; background-color: rgb(85, 85, 85);">
+<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 87px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:4px;top:2px;color:#000000;">Current&nbsp;Issue&nbsp;</div>
+<div id="menuItemHilite12" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Current&nbsp;Issue&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 88px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 87px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:4px;top:2px;color:#000000;">Archive&nbsp;</div>
+<div id="menuItemHilite13" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Archive&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(85, 85, 85); background-color: rgb(85, 85, 85); width: 258px; height: 20px;">
+  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 256px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 255px; background-color: rgb(85, 85, 85);">
+<div id="menuItem14" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 84px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:4px;top:2px;color:#000000;">New&nbsp;Next&nbsp;</div>
+<div id="menuItemHilite14" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">New&nbsp;Next&nbsp;</div></div><div id="menuItem15" style="position: absolute; left: 85px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 84px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:4px;top:2px;color:#000000;">Sweepstakes&nbsp;</div>
+<div id="menuItemHilite15" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Sweepstakes&nbsp;</div></div><div id="menuItem16" style="position: absolute; left: 170px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 84px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:4px;top:2px;color:#000000;">More!&nbsp;</div>
+<div id="menuItemHilite16" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">More!&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer6" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(85, 85, 85); background-color: rgb(85, 85, 85); width: 246px; height: 20px;">
+  <div id="menuLite6" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 244px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg6" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 243px; background-color: rgb(85, 85, 85);">
+<div id="menuItem17" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 80px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:4px;top:2px;color:#000000;">TexTalk&nbsp;</div>
+<div id="menuItemHilite17" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">TexTalk&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 81px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 80px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:4px;top:2px;color:#000000;">Recipe&nbsp;Swap&nbsp;</div>
+<div id="menuItemHilite18" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Recipe&nbsp;Swap&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 162px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 80px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:4px;top:2px;color:#000000;">Book&nbsp;Group&nbsp;</div>
+<div id="menuItemHilite19" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Book&nbsp;Group&nbsp;</div></div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer7" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(85, 85, 85); background-color: rgb(85, 85, 85); width: 109px; height: 20px;">
+  <div id="menuLite7" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 18px; width: 107px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg7" style="position: absolute; left: 1px; top: 1px; height: 17px; width: 106px; background-color: rgb(85, 85, 85);">
+<div id="menuItem20" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 10px; width: 105px; height: 16px; background-color: rgb(208, 99, 19); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:4px;top:2px;color:#000000;">Buy&nbsp;Texas&nbsp;Music!&nbsp;</div>
+<div id="menuItemHilite20" style="position:absolute;left:4px;top:2px;color:#d06313;visibility:hidden;">Buy&nbsp;Texas&nbsp;Music!&nbsp;</div></div>	  <div id="focusItem7" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+</span>
+
+<a name="begin"></a><noindex>
+
+<div class="topnav">
+<!--
+id=11
+dailyav=45569.620253165
+minuteav=31.645569620253
+formattedminuteav=32
+numthisminute=6
+priority=0.81
+-->
+<!--
+id=25
+dailyav=1666.6666666667
+minuteav=1.1574074074074
+formattedminuteav=2
+numthisminute=1
+priority=0.50
+-->
+<!--2-->
+<script>
+document.write ('<SCR'+'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/dclk.texasmonthly/ros;dcopt=ist;abr=!webtv;sz=468x60;ord=490478243?">');
+document.write ('<\/SCR' + 'IPT>');
+if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0)
+{
+document.write('<a href="http://ad.doubleclick.net/jump/dclk.texasmonthly/ros;sz=468x60;ord=490478243?">');
+document.write('<img src="http://ad.doubleclick.net/ad/dclk.texasmonthly/ros;sz=468x60;ord=490478243?"></a>');
+}
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/dclk.texasmonthly/ros;dcopt=ist;abr=!webtv;sz=468x60;ord=490478243?"></script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/dclk.texasmonthly/ros;sz=468x60;ord=490478243?">
+<img src="http://ad.doubleclick.net/ad/dclk.texasmonthly/ros;sz=468x60;ord=490478243?" border="0"></a>
+</noscript></div>
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">    <tbody><tr>
 	    <td colspan="2"><img src="/images/spacer.gif" width="1" height="4" alt=""></td>
     </tr>
 <form action="http://search.atomz.com/search/"></form>
 <input type="hidden" name="sp-a" value="00020167-sp00000000">
+<input type="hidden" name="sp-k" value="">
+<input type="hidden" name="sp-p" value="all">
     <tr valign="middle">
 	    <td bgcolor="#000000" width="370"><img src="/images/top_strip.jpg" width="370" height="33" border="0" usemap="#m_top_strip_2" alt=""></td>
         <td bgcolor="#000000" align="right">
@@ -190,13 +401,66 @@ var clickURL="http://www.texasmonthly.com/admin/privacy.php?et_sp_id=1011752244"
         		<tbody><tr valign="middle">
         			<td><input type="text" size="13" name="sp-q" class="magstyle">&nbsp;</td>
         			<td><input type="submit" value="Search this site" class="magstyle"></td>
-        			<td nowrap=""><span class="magstylewhite">&nbsp;</span><a href="/admin/searchtips.php" class="magstylewhite">Advanced Search</a><span class="magstylewhite">&nbsp;<br>&nbsp;<a href="/admin/sitemap.php" class="magstylewhite">Site Map</a></span></td>
+        			<td nowrap=""><span class="magstylewhite">&nbsp;</span><a href="/misc/searchtips.php" class="magstylewhite">Advanced Search</a><span class="magstylewhite">&nbsp;<br>&nbsp;</span><a href="/misc/sitemap.php" class="magstylewhite">Site Map</a><span class="magstylewhite">&nbsp;|&nbsp;</span><a href="/archive/index.php" class="magstylewhite">Archive</a><span class="magstylewhite">&nbsp;</span></td>
 				</tr>
 			</tbody></table></td>
     </tr>
 	<tr align="center">
 		<td colspan="2" bgcolor="#cc6600" align="center">
-<a href="http://www.texasmonthly.com/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Home</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/mag/issues/2002-02-01/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Magazine</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/travel/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Travel</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/food/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Food</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/shopping/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Shopping</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/events/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Events&nbsp;&amp;&nbsp;Promotions</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/services/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Reader&nbsp;Services</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/community/index.php" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Community</a>&nbsp;&nbsp;&nbsp;<a href="http://www.texasmonthly.com/music" class="nav" onmouseover="this.className='navover'" onmouseout="this.className='nav'">Music</a>&nbsp;</td>
+<table border="0" cellpadding="0" cellspacing="0" width="700">
+<tbody><tr>
+<td><img src="/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="41" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="12" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="62" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="12" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="43" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="12" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="34" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="13" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="63" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="12" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="131" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="12" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="103" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="12" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="75" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="14" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="39" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="18"><img name="nav_bar_r1_c1" src="/images/navbar/nav_bar_r1_c1.gif" width="700" height="4" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="1" height="4" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="5"><img name="nav_bar_r2_c1" src="/images/navbar/nav_bar_r2_c1.gif" width="137" height="1" border="0" alt=""></td>
+<td rowspan="2"><a href="/travel" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0731144724_0,0,16,null,'travel');MM_swapImage('travel','','/images/navbar/travel_f2.gif',1);"><img name="travel" src="/images/navbar/travel.gif" width="43" height="16" border="0" alt="Travel"></a></td>
+<td rowspan="2"><img name="nav_bar_r2_c7" src="/images/navbar/nav_bar_r2_c7.gif" width="12" height="16" border="0" alt=""></td>
+<td rowspan="2"><a href="/food" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0731150222_1,0,16,null,'food');MM_swapImage('food','','/images/navbar/food_f2.gif',1);"><img name="food" src="/images/navbar/food.gif" width="34" height="16" border="0" alt="Food"></a></td>
+<td rowspan="2"><img name="nav_bar_r2_c9" src="/images/navbar/nav_bar_r2_c9.gif" width="13" height="16" border="0" alt=""></td>
+<td rowspan="2"><a href="/shopping" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0731145021_1,-20,16,null,'shopping');MM_swapImage('shopping','','/images/navbar/shopping_f2.gif',1);"><img name="shopping" src="/images/navbar/shopping.gif" width="63" height="16" border="0" alt="Shopping"></a></td>
+<td colspan="3"><img name="nav_bar_r2_c11" src="/images/navbar/nav_bar_r2_c11.gif" width="155" height="1" border="0" alt=""></td>
+<td rowspan="2"><a href="/services" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0731145725_2,-250,16,null,'services');MM_swapImage('services','','/images/navbar/services_f2.gif',1);"><img name="services" src="/images/navbar/services.gif" width="103" height="16" border="0" alt="Reader Services"></a></td>
+<td colspan="4"><img name="nav_bar_r2_c15" src="/images/navbar/nav_bar_r2_c15.gif" width="140" height="1" border="0" alt=""></td>
+<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td><img name="nav_bar_r3_c1" src="/images/navbar/nav_bar_r3_c1.gif" width="10" height="15" border="0" alt=""></td>
+<td><a href="/index.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home','','/images/navbar/home_f2.gif',1);"><img name="home" src="/images/navbar/home.gif" width="41" height="15" border="0" alt="Home"></a></td>
+<td><img name="nav_bar_r3_c3" src="/images/navbar/nav_bar_r3_c3.gif" width="12" height="15" border="0" alt=""></td>
+<td><a href="/current" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0731144442_1,0,15,null,'magazine');MM_swapImage('magazine','','/images/navbar/magazine_f2.gif',1);"><img name="magazine" src="/images/navbar/magazine.gif" width="62" height="15" border="0" alt="Magazine"></a></td>
+<td><img name="nav_bar_r3_c5" src="/images/navbar/nav_bar_r3_c5.gif" width="12" height="15" border="0" alt=""></td>
+<td><img name="nav_bar_r3_c11" src="/images/navbar/nav_bar_r3_c11.gif" width="12" height="15" border="0" alt=""></td>
+<td><a href="/events" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0731145259_2,0,15,null,'events');MM_swapImage('events','','/images/navbar/events_f2.gif',1);"><img name="events" src="/images/navbar/events.gif" width="131" height="15" border="0" alt="Events &amp; Promotions"></a></td>
+<td><img name="nav_bar_r3_c13" src="/images/navbar/nav_bar_r3_c13.gif" width="12" height="15" border="0" alt=""></td>
+<td><img name="nav_bar_r3_c15" src="/images/navbar/nav_bar_r3_c15.gif" width="12" height="15" border="0" alt=""></td>
+<td><a href="/community" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0731150029_3,-150,15,null,'community');MM_swapImage('community','','/images/navbar/community_f2.gif',1);"><img name="community" src="/images/navbar/community.gif" width="75" height="15" border="0" alt="Community"></a></td>
+<td><img name="nav_bar_r3_c17" src="/images/navbar/nav_bar_r3_c17.gif" width="14" height="15" border="0" alt=""></td>
+<td><a href="/music" onmouseout="MM_swapImgRestore();MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0731161207_4,-70,15,null,'music');MM_swapImage('music','','/images/navbar/music_f2.gif',1);"><img name="music" src="/images/navbar/music.gif" width="39" height="15" border="0" alt="Buy Texas Music"></a></td>
+<td><img src="/images/spacer.gif" width="1" height="15" border="0" alt=""></td>
+</tr>
+</tbody></table></td>
 	</tr>
 </tbody></table><!-- end tm logo and nav table -->
 
@@ -211,10 +475,10 @@ var clickURL="http://www.texasmonthly.com/admin/privacy.php?et_sp_id=1011752244"
 document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/989/button_1/button.js"><\/script>');
 // -->
 </script><script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/989/button_1/button.js"></script></td>  
-        <td align="right" class="magsmallstyle"><img src="/images/tex_end.gif" alt="" width="10" height="10"> For <a href="/admin/login.php">subscribers only</a> | Subscribers <a href="/admin/login.php">log-in</a> | <a href="/admin/subscribe.php">Free Newsletters</a>&nbsp;&nbsp;</td>
+		<td align="right" class="magsmallstyle"><a href="/register/login">Log in</a> or <a href="/register">Register</a> | <a href="/misc/tips.php">Tips</a> | <a href="/newsletters">Free Newsletters</a>&nbsp;&nbsp;</td>
 	</tr>
     <tr>
-        <td colspan="2" height="2"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
+		<td colspan="2" height="2"><img src="/images/spacer.gif" alt="" width="1" height="2"></td>
     </tr>
     <tr>
         <td colspan="2" height="1" bgcolor="#cccc99"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
@@ -224,34 +488,41 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
     </tr>
 </tbody></table>
 </noindex>
+
 <!--startclickprintinclude-->
 <!--clickprintexcludeimages-->
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tbody><tr valign="top">
         <td width="150"><img src="/images/spacer.gif" width="150" height="1" alt=""></td>
-        <td width="5" rowspan="13"><img src="/images/spacer.gif" width="5" height="30" alt=""></td>        
-        <td width="1" bgcolor="#cccc99" rowspan="13"><img src="/images/spacer.gif" width="1" height="30" alt=""></td>
-        <td width="5" rowspan="13"><img src="/images/spacer.gif" width="5" height="30" alt=""></td>
+        <td width="5" rowspan="15"><img src="/images/spacer.gif" width="5" height="30" alt=""></td>        
+        <td width="1" bgcolor="#cccc99" rowspan="15"><img src="/images/spacer.gif" width="1" height="30" alt=""></td>
+        <td width="5" rowspan="15"><img src="/images/spacer.gif" width="5" height="30" alt=""></td>
         <td><h2>Privacy Statement</h2>
         
         <p class="NotesText">TEXAS MONTHLY has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site. This information may be updated or changed without notice.</p>
 <img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 	<!--startclickprintexclude-->
-			  <td rowspan="13"><img src="/images/spacer.gif" width="6" height="1" alt=""></td>
-			  <td rowspan="13" class="adcell"><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
-			  <td rowspan="13" class="adcell">
-			  <img src="/images/spacer.gif" width="1" height="2" alt=""><br><a href="http://ad.doubleclick.net/jump/www.texasmonthly.com/admin;sz=126x600;tile=2;ord=1515125320?"><img src="http://ad.doubleclick.net/ad/www.texasmonthly.com/admin;sz=126x600;tile=2;ord=1515125320?" border="0" width="126" height="600"></a><br><img src="/images/spacer.gif" width="1" height="12" alt=""><br><a href=""><img src="http://www.texasmonthly.com/contest/redriver/RedRiver-button-small.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+			  <td rowspan="15"><img src="/images/spacer.gif" width="6" height="1" alt=""></td>
+			  <td rowspan="15" class="adcell"><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
+			  <td rowspan="15" class="adcell"><img src="/images/spacer.gif" width="1" height="2" alt=""><br>
+
+<!--0-->
+
+<!--12-->
+<a href="/clickthru/12/"><img src="http://www.texasmonthly.com/dbase/image.php?id=12&amp;db=creatives&amp;c_db=3&amp;elrando=490478243" alt="Dining Guide" border="0" 126x600=""></a>
+<br><img src="/images/spacer.gif" width="1" height="4" alt=""><br>
+<a href="/shopping/lifestyletx/index.php"><img src="http://www.texasmonthly.com/shopping/lifestyletx/126x40.jpg" alt="" width="126" height="40" vspace="2" border="0"></a><br>
 <img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
-<a href="/shopping/houston/index.php"><img src="http://www.texasmonthly.com/shopping/houston/126x40.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+<a href="/events/forecast"><img src="http://www.texasmonthly.com/images/plugs/forecast_plug.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
 <img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
-<a href="/events/newnext"><img src="http://www.texasmonthly.com/images/plugs/newnextplug.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+<a href="/shopping/texpress/index.php"><img src="http://www.texasmonthly.com/shopping/texpress/126x40.jpg" alt="" width="126" height="40" vspace="2" border="0"></a><br>
 <img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
-<a href="/events/chevy/three"><img src="http://www.texasmonthly.com/contest/chevythree/Chevy-button-small.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+<a href="/shopping/shopacrosstexas/index.php"><img src="http://www.texasmonthly.com/shopping/shopacrosstexas/126x40.jpg" alt="" width="126" height="40" vspace="2" border="0"></a><br>
 <img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
-<a href="/shopping/menslife/index.php"><img src="http://www.texasmonthly.com/shopping/menslife/126x40.jpg" alt="" width="126" height="40" vspace="2" border="0"></a><br>
+<a href="/shopping/winterretreats/index.php"><img src="http://www.texasmonthly.com/contest/winterretreatsnovember02/40.gif" alt="" width="126" height="40" vspace="2" border="0"></a><br>
 <img src="http://www.texasmonthly.com/images/spacer.gif" alt="" width="126" height="2" vspace="2" border="0"><br>
 </td>
-    <td rowspan="13" class="adcell"><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
+    <td rowspan="15" class="adcell"><img src="/images/spacer.gif" width="2" height="1" alt=""></td>
 <!--endclickprintexclude-->
     </tr>
     <tr valign="top">
@@ -278,18 +549,24 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
 
 <tr valign="top">
 		<td align="right" class="lfhedred">Co-Branded Sites</td>
-		<td><p class="magstyle">TEXAS MONTHLY has relationships with <!--[[b]][[a href="http://www.hoteldiscounts.com/" target="_blank"]]Hotel Reservations Network[[/a]][[/b]] and--> <b><a href="http://www.smartpages.com/" target="_blank">SMARTpages</a></b> whereby these companies may maintain TEXAS MONTHLY co-branded Web sites. TEXAS MONTHLY is not responsible for the privacy practices or the content of these Web sites. Any information collected by these sites is received by our partners. This information may be shared with TEXAS MONTHLY on an aggregate basis. TEXAS MONTHLY receives commissions from these companies.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
+		<td><p class="magstyle">TEXAS MONTHLY has relationships with <!--[[b]][[a href="http://www.hoteldiscounts.com/" target="_blank"]]Hotel Reservations Network[[/a]][[/b]] and--> <strong><a href="http://www.smartpages.com/" target="_blank">SMARTpages</a></strong> whereby this company may maintain a TEXAS MONTHLY co-branded Web site. TEXAS MONTHLY is not responsible for the privacy practices or the content of these Web sites. Any information collected by these sites is received by our partners. This information may be shared with TEXAS MONTHLY on an aggregate basis. TEXAS MONTHLY receives commissions from these companies.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 </tr>
 
 
 <tr valign="top">
-		<td align="right" class="lfhedred">Affiliate Agreements</td>
-		<td><p class="magstyle">TEXAS MONTHLY has affiliate agreements with <b><a href="http://www.bookpeople.com/" target="_blank">BookPeople</a></b>. TEXAS MONTHLY receives commissions from BookPeople if you visit their site from ours by clicking on a text link, banner ad, icon, or other advertisement, and purchase a product from them.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
+		<td align="right" class="lfhedred">Affiliate Agreement</td>
+		<td><p class="magstyle">TEXAS MONTHLY has an affiliate agreement with <strong><a href="http://www.bookpeople.com/" target="_blank">BookPeople</a></strong>. TEXAS MONTHLY receives commissions from BookPeople if you visit their site from ours by clicking on a text link, banner ad, icon, or other advertisement, and purchase a product from them.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
+</tr>
+
+<tr valign="top">
+		<td align="right" class="lfhedred">Site Registration</td>
+		<td><p class="magstyle">We ask site visitors to register by giving us an email address, name, and physical address. We use your name and address to match your information against our subscriber list. We may use your email address to send you email inviting you to subscribe to TEXAS MONTHLY, or with special subscription offers or other information for TEXAS MONTHLY subscribers.</p>
+<img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 </tr>
 
 <tr valign="top">
 		<td align="right" class="lfhedred">Surveys &amp; Contests</td>
-		<td><p class="magstyle">We run online surveys, contests, and sweepstakes which ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). In the case of contests and sweepstakes, this information is shared with our contest partner(s), who provide the prize. Do not enter if you do not want us to share your personal information with our contest or sweepstakes partner(s).</p>
+		<td><p class="magstyle">We run online surveys, contests, and sweepstakes which ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). In the case of contests and sweepstakes, this information is shared with our contest partner(s), who provide the prize. Do not enter if you do not want us to share your personal information with our contest or sweepstakes partner(s). We may also use your email address to send you email inviting you to subscribe to TEXAS MONTHLY, or with special subscription offers for TEXAS MONTHLY subscribers.</p>
 <p class="magstyle">Where surveys and contests contain invitations to sign up to receive a TEXAS MONTHLY newsletter, TEXAS MONTHLY collects email addresses in order to distribute those newsletters. Users may <a href="#choice">opt-out</a> of receiving future mailings.</p>
 <p class="magstyle">Demographic information may be shared with advertisers on an aggregate basis, but TEXAS MONTHLY will not disclose your individual identity or personal data without your permission. We may use your demographic information to customize your experience at texasmonthly.com.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 </tr>
@@ -310,20 +587,26 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
 
 <tr valign="top">
 		<td align="right" class="lfhedred">For <br>Subscribers</td>
-		<td><p class="magstyle">Subscriber information is collected by <b><a href="http://www.cdsfullfillment.com/" target="_blank">CDS</a></b>, who manage TEXAS MONTHLY Magazine subscriptions. Subscribers' personal information may be sold to vendors with products TEXAS MONTHLY considers suitable. Subscribers may remove themselves from this list by calling CDS at 1-800-759-2000. We may use information from the CDS database to customize your experience at texasmonthly.com.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
+		<td><p class="magstyle">Subscriber information is collected by <strong><a href="http://www.cdsfullfillment.com/" target="_blank">CDS</a></strong>, who manage TEXAS MONTHLY Magazine subscriptions. Subscribers' personal information may be sold to vendors with products TEXAS MONTHLY considers suitable. Subscribers may remove themselves from this list by calling CDS at 1-800-759-2000. We may use information from the CDS database to customize your experience at texasmonthly.com.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 </tr>
 
 <tr valign="top">
-		<td align="right" class="lfhedred">Ads on our Site</td>
-		<td><p class="magstyle">We use an outside advertising service (<a href="http://www.doubleclick.net/" target="_blank"><b>DoubleClick</b></a>) to display ads on our site.  These ads may contain cookies.  Cookies received with banner ads are collected by our ad company, and we do not have access to this information.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
+		<td align="right" class="lfhedred">Third Party Advertising</td>
+		<td><p class="magstyle">We use <a href="http://www.maxworldwide.com/" target="_blank"><strong>Maxworldwide</strong></a> and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this
+practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">please click here</a>.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
+</tr>
+
+<tr valign="top">
+		<td align="right" class="lfhedred">Third Party Cookies</td>
+		<td><p class="magstyle">In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique <a href="http://webopedia.internet.com/TERM/c/cookie.html" target="_blank">cookie</a> on your browser.</p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 </tr>
 
 <tr valign="top">
 		<td align="right" class="lfhedred"><a name="choice"></a>Choice/Opt-Out</td>
 		<td><p class="magstyle">You'll never receive communications from us without your permission. If you no longer wish to receive email from us...</p>
 <ul>
-<li><span class="magstyle">You can send email to <a href="/admin/mailform.php?id=New%20Media%20Department">newmedia@texasmonthly.emmis.com</a></span></li>
-<li><span class="magstyle">You can visit the following URL:<br><a href="/admin/unsubscribe.php">http://www.texasmonthly.com/admin/unsubscribe.php</a></span></li>
+<li><span class="magstyle">You can send email to <a href="/misc/mailform.php?id=New%20Media%20Department">newmedia@texasmonthly.com</a></span></li>
+<li><span class="magstyle">You can visit the following URL:<br><a href="/newsletters">http://www.texasmonthly.com/newsletters</a></span></li>
 <li><span class="magstyle">You can call the following telephone number: 512-320-6995</span></li></ul><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 </tr>
 
@@ -337,8 +620,7 @@ Texas Monthly<br>
 PO Box 1569<br>
 Austin TX<br>
 78767-1569<br>
-<a href="/admin/mailform.php?id=Charlie%20Llewellin">cllewellin@texasmonthly.emmis.com</a></p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0">
-</td>
+<a href="/misc/mailform.php?id=Charlie%20Llewellin">cllewellin@texasmonthly.com</a></p><img src="/images/dotted_line_1.gif" alt="" width="400" height="5" border="0"></td>
 </tr></tbody></table>
 <!--endclickprintinclude-->
 <noindex>
@@ -346,19 +628,24 @@ Austin TX<br>
 	<tbody><tr>
 	    <td><img src="/images/spacer.gif" width="1" height="14" alt=""></td>
 	</tr>
-<tr>
-<td class="magsmallstyle"><img src="/images/spacer.gif" width="160" height="1" alt=""><a href="#begin"><img src="/images/arrows/up.gif" alt="" width="13" height="13" border="0"></a>&nbsp;<a href="#begin">to top of page</a></td></tr>
-<tr>
-<td><img src="/images/spacer.gif" width="1" height="12" alt=""></td>
-</tr>
+	<tr>
+		<td class="magsmallstyle">
+<img src="/images/spacer.gif" width="160" height="1" alt="">
+<a href="#begin"><img src="/images/arrows/up.gif" alt="" width="13" height="13" border="0"></a>&nbsp;<a href="#begin">to top of page</a></td>
+	</tr>
+	<tr>
+	   	<td><img src="/images/spacer.gif" width="1" height="12" alt=""></td>
+	 </tr>
 	<tr>
 	    <td align="center">
-	        <noscript><td>&nbsp;&nbsp;<a href="/admin/feedback.php">Contact Us</a></td></noscript><table cellpadding="0" cellspacing="0" border="0">
+	        <noscript><td>&nbsp;&nbsp;<a href="/misc/feedback.php">Contact Us</a></td></noscript><table cellpadding="0" cellspacing="0" border="0">
 	            <tbody><tr>
-	                <td class="magsmallstyle"><a href="/admin/privacy.php">Privacy</a>&nbsp;|&nbsp;<a href="/admin/sitemap.php">Site Map</a>&nbsp;&nbsp;</td>
+	                <td class="magsmallstyle"><a href="/privacy">Privacy</a>&nbsp;|&nbsp;<a href="/misc/sitemap.php">Site Map</a>&nbsp;&nbsp;</td>
 <form action="http://search.atomz.com/search/"></form>
 	                <td valign="middle" align="right">
 <input type="hidden" name="sp-a" value="00020167-sp00000000">
+<input type="hidden" name="sp-k" value="">
+<input type="hidden" name="sp-p" value="all">
 <input type="text" size="13" name="sp-q" class="magstyle"></td>
 	                <td valign="middle">
 <input type="submit" value="Search this site" class="magstyle"></td>
@@ -381,16 +668,20 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
 	
 <table border="0" cellpadding="0" cellspacing="3" width="100%">
 	<tbody><tr>
-		<td align="center" class="magsmallstyle"><a href="http://www.texasmonthly.com/admin/copyright.php">Copyright</a> © 1973-2002 Texas Monthly, Inc. An <a href="http://www.emmis.com/" target="_blank">Emmis Communications</a> company. All rights reserved.</td>
+		<td align="center" class="magsmallstyle"><a href="http://www.texasmonthly.com/misc/copyright.php">Copyright</a> © 1973-2002 Texas Monthly, Inc. An <a href="http://www.emmis.com/" target="_blank">Emmis Communications</a> company. All rights reserved.</td>
 	</tr>
 	<tr align="center">
 	    <td class="magsmallstyle" align="center">
+	    <a href="/archive/index.php">Archive</a> | 
 	    <a href="/mag/index.php">About Texas Monthly</a> | 
 	    <a href="/mag/index.php">Media Relations</a> | 
 	    <a href="/mag/index.php">Rights and Permissions</a> | 
-	    <a href="/admin/jobs.php">Employment</a> | 
+	    <a href="/misc/jobs.php">Employment</a> | 
 	    <a href="/subscriptions">Subscribe</a> | 
-        <a href="/admin/advertising.php">Advertise</a></td>
+        <a href="/advertise">Advertise</a></td>
+	</tr>
+	<tr align="center">
+		<td class="magsmallstyle">Site hosted by <a href="http://www.onr.com" target="blank">Onramp Access, Inc</a></td>
 	</tr>
 </tbody></table>
 </noindex>
@@ -398,9 +689,5 @@ document.write('<script language="javascript1.2" src="http://a449.g.akamai.net/7
 
 <map name="m_top_strip_2" id="m_top_strip_2">
 <area shape="rect" alt="" coords="-1,0,133,33" href="/index.php">
-</map>
-<map name="travel_home">
-<area alt="" shape="rect" coords="2,44,179,62" href="/travel/index.php">
-<area alt="" shape="rect" coords="0,1,178,43" href="/index.php">
 </map>
 </body></html>
