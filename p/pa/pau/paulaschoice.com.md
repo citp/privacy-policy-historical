@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paulaschoice.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212958id_/http%3A//paulaschoice.com/policy/policy.asp%3FTYPE%3DPRI) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulaschoice.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209040828id_/http%3A//paulaschoice.com/policy/policy.asp%3FTYPE%3DPRI) for the most accurate reproduction.*
 
-# Policy
+# Privacy & Security Policy
 
   
   
@@ -24,7 +24,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 This site gives users the following options for removing themselves from our mailing lists so they do not receive any email or regular mail communications from us. 
 
 **Online mailing list only:**  
-1\. Visit the [Unsubscribe](https://web.archive.org/web/20040602212958id_/http%3A//paulaschoice.com/bulletin/default.asp?type=wcunsubpre) page, enter your email address in the box, select the lists you wish to unsubscribe from and click "Stop" to be removed from our email lists.  
+1\. Visit the [Unsubscribe](https://web.archive.org/web/20041209040828id_/http%3A//paulaschoice.com/bulletin/default.asp?type=wcunsubpre) page, enter your email address in the box, select the lists you wish to unsubscribe from and click "Stop" to be removed from our email lists.  
 2\. You can also click the "Unsubscribe" link in any email you receive. 
 
 **Online and/or postal mailing list(s):**  
@@ -34,7 +34,7 @@ This site gives users the following options for removing themselves from our mai
 **CORRECT/UPDATE**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-1\. You can make most changes to your account information using the [Your Account](https://web.archive.org/web/20040602212958id_/http%3A//paulaschoice.com/shop/account.asp) link on the site and entering your email address and password. If you are unable to make a change, follow steps 2 & 3 below.  
+1\. You can make most changes to your account information using the [Your Account](https://web.archive.org/web/20041209040828id_/http%3A//paulaschoice.com/shop/account.asp) link on the site and entering your email address and password. If you are unable to make a change, follow steps 2 & 3 below.  
 2\. Send email to [custserv@cosmeticscop.com](mailto:custserv@cosmeticscop.com).  
 3\. Call the following telephone number: (800) 831-4088. 
 
