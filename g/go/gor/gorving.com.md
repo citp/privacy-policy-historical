@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorving.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330221646id_/http%3A//gorving.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorving.com privacy policy that was archived on 2001-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011030000209id_/http%3A//www.gorving.com/privacy.html) for the most accurate reproduction.*
 
 # Go RVing, Inc. Privacy Statement
 
