@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestliving.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602141640id_/http%3A//www.midwestliving.com/mwl/file.jhtml%3Fitem%3D/legal/privacy%26temp%3Dno) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestliving.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212010324id_/http%3A//www.midwestliving.com/mwl/file.jhtml%3Fitem%3D/legal/privacy%26temp%3Dno) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,12 +52,12 @@ In addition, we may share some personal information (but not your email address)
 We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](http://www.midwestliving.com/mwl/file.jhtml?item=/legal/terms&temp=no), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets.
 
 **How to correct or update your information:**  
-Meredith Corporation believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you please visit our [Member Services ](https://web.archive.org/mwl/profile/myAccount.jhtml;) area.
+Meredith Corporation believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you please visit our [Member Services ](https://web.archive.org/mwl/profile/myAccount.jhtml;jsessionid=1OK0ELLT2FDOPQFIBQPR5VWAVABCIIV0;) area.
 
 **Opt-out Information for:  
 **
 
-> **Newsletters** : If you no longer wish to receive e-mail newsletters, you can either (1) follow the 'unsubscribe' link located near the bottom of each newsletter or (2) go to [My Account](https://web.archive.org/mwl/profile/myAccount.jhtml;), select Unsubscribe from the Newsletter options, uncheck the boxes and press the Update button. 
+> **Newsletters** : If you no longer wish to receive e-mail newsletters, you can either (1) follow the 'unsubscribe' link located near the bottom of each newsletter or (2) go to [My Account](https://web.archive.org/mwl/profile/myAccount.jhtml;jsessionid=1OK0ELLT2FDOPQFIBQPR5VWAVABCIIV0;), select Unsubscribe from the Newsletter options, uncheck the boxes and press the Update button. 
 > 
 > **Promotional E-mails** : If you do not wish to receive email promotions from us, send an e-mail to [dropme@mdp.com](mailto:dropme@mdp.com) with "Opt-out of Marketing" in the subject line to "opt out." Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can. 
 
