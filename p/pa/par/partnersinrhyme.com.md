@@ -1,34 +1,43 @@
-> *The following text is extracted and transformed from the partnersinrhyme.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604172523id_/http%3A//partnersinrhyme.com/pir/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnersinrhyme.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207005410id_/http%3A//www.partnersinrhyme.com/pir/Privacy_Policy.html) for the most accurate reproduction.*
 
-# MIDI Tutorials
+# Privacy_Policy
 
-|  | 
+Privacy Policy Statement  
+This is the web site of Partners In Rhyme.
 
-**Partners In Rhyme Privacy Policy**
+Our postal address is  
+1223 Wilshire Blvd 688  
+Santa Monica Ca 90403-5400  
+We can be reached via e-mail at contact@partnersinrhyme.com  
+or you can reach us by telephone at 323-933-9979
 
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Partners In Rhyme will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to [let us know](https://web.archive.org/web/20040604172523id_/http%3A//partnersinrhyme.com/FormWebMaster.htm).  
-We have ads served onto our site by Advertising.com. To visit their privacy statement, please click here <http://www.advertising.com/privacy/index.html>.
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-**Resale or disclosure of information to third parties:**
+We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-Partners In Rhyme does not sell, rent, loan, trade, or lease  
-any personal information collected at our site, including  
-membership forms or email lists.
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, not shared with other organizations for commercial purposes.
 
-**Browser information collected on the website:  
-**  
-Partners In Rhyme analyzes our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
+With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
 
-**Use of cookies:**
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-We do not use cookies on this site.
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-**Security Precautions:**
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.  
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
-Partners In Rhyme makes every effort to maintain the security of its network and the data we collect. Any data that is stored on Partners In Rhyme’s server is treated as proprietary and confidential and is not available to the public. Partners In Rhyme has a strict internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees who have a need to know such information for the purpose of effectively delivering Partners In Rhyme products and services. 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+http://www.google.com/privacy.html
 
-**Privacy of our email lists:**
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .  
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above.
 
-Partners In Rhyme maintains several email lists to keep Partners In Rhyme members informed about breaking events. Individuals must affirmatively ask to join our mailing lists by contacting PIR staff directly at webmaster@partnersinrhyme.com. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized Partners In Rhyme staff, including other list subscribers.
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .  
+Consumers can access this information by e-mail us at the above address.
 
-| 
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information.  
+Consumers can have this information corrected by sending us e-mail at the above address.
+
+With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
