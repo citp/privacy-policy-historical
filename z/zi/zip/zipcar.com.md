@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcar.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208212317id_/http%3A//www.zipcar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416234112id_/http%3A//www.zipcar.com/privacy) for the most accurate reproduction.*
 
 # Zipcar - Privacy Policy
 
