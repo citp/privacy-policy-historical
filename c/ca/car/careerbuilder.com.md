@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbuilder.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215916id_/http%3A//www.careerbuilder.com/corp_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125095946id_/http%3A//www.careerbuilder.com/corp_privacy.html) for the most accurate reproduction.*
 
 # CareerBuilder Privacy Statement
 
