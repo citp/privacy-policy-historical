@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the npd.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002103812id_/http%3A//www.npd.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npd.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622151029id_/http%3A//www.npd.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # NPD Group
 
 The NPD GroupPrivacy Statement   
-As a specialist in consumer research, we at NPD know how important your privacy is, and we are committed to making protection of your privacy a top priority. This statement outlines our online privacy policy for NPD's corporate Web site, npd.com. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+As a specialist in consumer research, we at NPD know how important your privacy is, and we are committed to making protection of your privacy a top priority. This statement outlines our online privacy policy for NPD's corporate Web site, npd.com. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. In addition, as a member of the Council of American Survey Research Organizations (CASRO), the professional trade association of survey research companies, NPD adheres to the mandated CASRO Code of Standards and Ethics for Survey Research. You may visit CASRO, and view the CASRO Code, at [www.casro.org](http://www.casro.org/).
 
 Information Collected On Our Site   
 In several areas of our Web site, NPD gives you the option of providing us with personal data in order to receive more detailed information on our products or services or to be added to one of our mailing lists or to order a specific study or report.   
