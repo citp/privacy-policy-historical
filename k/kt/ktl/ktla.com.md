@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ktla.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208170852id_/http%3A//ktla.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktla.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205085051id_/http%3A//ktla.trb.com/go/services/privacy) for the most accurate reproduction.*
 
-# Welcome to ktla.com - Services
+# KTLA.com | LA's WB | Television Los Angeles | Privacy Policy
 
 Privacy Policy
 
@@ -59,4 +59,4 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
 
-Copyright © 2003, KTLA
+Copyright © 2004, KTLA
