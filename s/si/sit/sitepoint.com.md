@@ -1,63 +1,75 @@
-> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024205105id_/http%3A//sitepoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepoint.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604050544id_/http%3A//www.sitepoint.com/privacy.php) for the most accurate reproduction.*
 
 # SitePoint : Privacy Policy
 
-|  |  [ **Build**](http://www.webmasterbase.com/)  
----  
-A hands on approach to helping you build a successful Website.  
- [ **Profit**](http://www.ecommercebase.com/)  
-Covers all the different ways you can make money from your Website.  
- [ **Promote**](http://www.promotionbase.com/)  
-Tips tricks and expert advice on how best to promote your Website.  
- [ **Tools**](http://www.servicesbase.com/)  
-A comprehensive directory of Tools and Services for the busy Webmaster.  
- [ **Forums**](http://www.sitepointforums.com/)  
-Need a prompt response to a Web related question? Ask our helpful community!  
-  
-  
-  
-  
-| **  Get Inspired ! ** |   
----|---|---  
-  
-**Cure Your Designers Block Instantly!  
-\------------- **
-
-Peruse the enormous gallery of top-notch Web site designs and free your mind!
-
-[CoolHomePages](http://www.coolhomepages.com/)  
-  
-  
-
-
 Privacy Policy
 
-SitePoint respects your privacy. Below is an outline of what information this network gathers, how it’s used, and how you can "opt-out":
+This is a privacy policy for SitePoint Pty Ltd. SitePoint respects your privacy. Below is an outline of the information that SitePoint gathers, how it´s used, and how you can "opt-out": 
 
-  * Whenever your request a page, your IP address, browser and version, operating system and the site you came from are stored in a log file. This information cannot be used to identify a specific individual. This information is only used for statistical purposes to help improve this site and provide accurate statistics to advertisers in the form of aggregated data. This information is kept on a secure dedicated server hosted by RackSpace. 
-  
- 
-  * The email addresses collected from the sign-ups for our newsletter are not sold, or disclosed to a third party. The email addresses collected will only be used to send out the newsletter/e-zine. You will not receive any mailings you did not request. The email addresses are stored on a server hosted by Dundee.net. You can remove yourself from our list at any time by sending a blank email to: unsubscribe@sitepoint.com from the address that you subscribed under.
-  
- 
-  * The email addresses collected for the Opt-in lists (AKA "Information Announcement Lists") are used by Postmaster Direct to send announcements to individuals who requested them. You will not receive any mailings you did not request, and you can remove yourself at any time. Your email address will not be disclosed to any 3rd party besides Postmaster Direct. Instructions for removal from these mailings are included in each individual email message that is sent to you.
-  
- 
-  * When a contest/sweepstakes is run on this site you may be asked to supply some personally identifying information like your name, email address and phone number. This information will only be used to notify winners of the contest/sweepstakes. Non-identifying information may be analyzed, aggregated and presented to third-parties to provide an overview of the demographics of our networks visitors.
-  
- 
-  * When a survey appears on the SitePoint network information is collected, compiled and analyzed on an aggregated basis. SitePoint may share this aggregated data with advertisers or business partners. 
-  
- 
-  * Cookies on this site are used by our ad management system, and occasionally by advertisers who use 3rd party ad serving solutions. Cookies are only used to prevent the displaying of the same ad to the individual more then once, for proper directing of clickthroughs and statistical tracking. Cookies cannot be used to identify specific individuals.
-  
- 
-  * Across the SitePoint network there are several polls. By voting you are not disclosing any other information other then the answer to the question the poll asks. A vote cannot be traced to a specific individual, and hence your identity remains anonymous. This information may be used to provide advertisers with demographic information.
-  
- 
-  * The information collected during the registration process for the SitePoint Community is used to contact members in the event of a Forum rule violation. It can also be used to prevent banned users from re-registering under a different username. The email address will only be seen by moderators and adminstrators if the "Keep your email address viewable to other users when you post notes?" option is set to no.
-  * The IP address is logged whenever a post in the SitePoint Community Forums. This information is used if it becomes necessary to ban a user. The IP address can only be seen by administrators and moderators.
-  * Questions regarding our privacy policies, and for assistance in opting out of our email lists please contact [privacy@sitepoint.com](mailto:privacy@sitepoint.com)
-  
-  
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
+SitePoint Pty Ltd   
+Suite 6, 50 Regent Street   
+Richmond, Victoria 3121   
+Australia 
+
+You may contact us by email at [privacy@sitepoint.com](mailto:privacy@sitepoint.com)
+
+Site Visits:
+
+Whenever you request a page through your browser, navigation and clickstream data such as:
+
+  * your IP address, 
+  * browser and version, 
+  * operating system, 
+  * date and time and 
+  * the site from which you came
+
+
+
+are stored in a log file and/or database. Any search terms that you enter into the SitePoint Site Search are also logged. This information cannot be used to identify specific individuals, and is only used for:
+
+  * Website and system administration, 
+  * research and development, 
+  * anonymous user analysis, and 
+  * to provide accurate statistics to advertisers in the form of aggregated data. 
+
+
+
+This information is kept on a secure dedicated server hosted by RackSpace as well as servers within the SitePoint offices. 
+
+The email addresses collected from subscriptions to the SitePoint newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out SitePoint communications (for example, the SitePoint newsletters). You will not receive any mailings you did not request. The email addresses collected at SitePoint are stored on a server hosted by SparkList. You can remove yourself from our list at any time by visiting <http://sitepoint.com/newsletters/manage.php>
+
+The email addresses collected at SitePoint from subscribers to the opt-in lists (AKA "Information Announcement Lists") are used by Postmaster Direct to send announcements to individuals who requested them. You will not receive any mailings you did not request, and you can remove yourself at any time. Your email address will not be disclosed to any third party besides Postmaster Direct. Instructions for removal from these mailings are included in each individual email message that is sent to you. 
+
+When a contest/sweepstakes/survey is run on this site you may be asked to supply some personally identifying information like your name, email address and/or phone number. This information will only be used to notify winners of the contest/sweepstakes. Non-identifying information may be analyzed, aggregated and presented to third-parties to provide an overview of the demographics of our Network´s visitors. 
+
+When a survey appears on the SitePoint Network, information is collected, compiled and analyzed on an aggregated basis. SitePoint may share this aggregated data with advertisers or business partners. 
+
+Cookies are a technology which can be used to provide you with tailored information from a Website. A cookie is an element of data that a Website can send to your browser, and which your browser may then store on your system. You can set your browser to notify you when you receive a cookie. Doing this will allow you to decide on a case-by-case basis whether to accept cookies or not. 
+
+Cookies on this site are used by ourselves, our ad management system, and occasionally by advertisers who use 3rd party ad serving solutions. Cookies are used for: 
+
+  * ad tracking, 
+  * customization of content (i.e. not repeating pop-up windows), 
+  * storing login information, and 
+  * statistical site-traffic analysis. 
+
+
+
+The information collected during the registration process for the SitePoint Community is used to:
+
+  * contact members, 
+  * customize content based upon user preferences, 
+  * display member status, and 
+  * display the date of a member´s last visit. 
+
+
+
+Information collected in this process can also be used to prevent banned users from re-registering under a different username. The email address will only be seen by moderators and administrators if the "Keep your email address viewable to other users when you post notes?" option is set to **no**. Cookies may be sent to your browser to enable automatic log-ins upon further visits, as well as for content customization. 
+
+If you purchase products directly from SitePoint, your contact information and a transaction history will be kept by SitePoint. 
+
+Any data collected will be used by ourselves and our agents. SitePoint hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets. 
+
+If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact [privacy@sitepoint.com](mailto:privacy@sitepoint.com)
