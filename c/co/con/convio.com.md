@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204205835id_/http%3A//www.convio.com/site/PageServer%3Fpagename%3Dbla_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305072923id_/http%3A//www.convio.com/site/PageServer%3Fpagename%3Dbla_privacy) for the most accurate reproduction.*
 
 # Convio, Inc.: Privacy Policy
 
@@ -10,21 +10,21 @@ Convio, Inc. ("Convio") has created this Privacy Policy to explain why we collec
 
 In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Convio reserves the right at any time and without notice to change this Privacy Policy simply by posting such change on our Site. Any such change will be effective immediately upon posting. 
 
-  1. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of; 
+Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of: 
 
-  2. What personally identifiable information of yours is collected through the Site; 
+  1. What personally identifiable information of yours is collected through the Site; 
 
-  3. Who collects such information; 
+  2. Who collects such information; 
 
-  4. How such information is used; 
+  3. How such information is used; 
 
-  5. With whom your information may be shared; 
+  4. With whom your information may be shared; 
 
-  6. What choices you have regarding collection, use and distribution of your information; 
+  5. What choices you have regarding collection, use and distribution of your information; 
 
-  7. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; 
+  6. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; 
 
-  8. and, How you can correct any inaccuracies in your information. 
+  7. and, How you can correct any inaccuracies in your information. 
 
 
 
