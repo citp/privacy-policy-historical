@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the sportsbusinessdaily.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401154322id_/http%3A//www.sportsbusinessdaily.com/page.cms%3FstaticId%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbusinessdaily.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206134241id_/http%3A//www.sportsbusinessdaily.com/index.cfm%3Ffuseaction%3Dpage.static%26staticID%3D10) for the most accurate reproduction.*
 
-# Welcome to SportsBusinessDaily.com
+# SportsBusinessDaily.com
 
 **SP ORTSBUSINESSDAILY.COM  
 PRIVACY POLICY**
 
 Last revised June 13, 2001 
 
-In addition to reviewing this privacy policy, please read our **[Terms of Service](http://www.sportsbusinessdaily.com/page.cms?staticId=8)**. Your use of SportsBusinessDaily.com constitutes agreement to its terms and conditions.
+In addition to reviewing this privacy policy, please read our **[Terms of Service](http://www.sportsbusinessdaily.com/index.cfm?fuseaction=page.static&staticId=8)**. Your use of SportsBusinessDaily.com constitutes agreement to its terms and conditions.
 
 SportsBusinessDaily.com is produced by Street & Smith Publications, Inc., a division of American City Business Journals, Inc. This policy does not cover information collected on sites linked to from SportsBusinessDaily.com.
 
@@ -17,7 +17,7 @@ SportsBusinessDaily.com only collects personally identifying information with yo
 
 SportsBusinessDaily.com uses this information to provide you with the service you have requested. For example, if you subscribe to our service, we may use your e-mail address to send you a confirmation notice and your mailing address to send you other offers. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
 
-SportsBusinessDaily.com does not sell any of our users' personal information. We may, however, share information with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [info@sportsbusinessdaily.com](mailto:info@sportsbusinessdaily.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of SportsBusinessDaily.com, you may also change or update your member preferences or information at "[My Account](http://www.sportsbusinessdaily.com/profile.cms)," in the top right corner of the navigation bar on each page.
+SportsBusinessDaily.com does not sell any of our users' personal information. We may, however, share information with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [info@sportsbusinessdaily.com](mailto:info@sportsbusinessdaily.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of SportsBusinessDaily.com, you may also change or update your member preferences or information at "[My Account](http://www.sportsbusinessdaily.com/index.cfm?fuseaction=profile.main)," in the top right corner of the navigation bar on each page.
 
 We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums software, but only for the purpose of and to the extent necessary to provide you with those services. Any third party who has access to our database for this purpose is bound by the terms set forth in this policy. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
 
