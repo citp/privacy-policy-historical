@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619004749id_/http%3A//www.dreamhomesource.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207033948id_/http%3A//www.dreamhomesource.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Dream Home Source - Over 15,000 House Plans
 
