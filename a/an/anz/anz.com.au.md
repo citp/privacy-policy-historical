@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211024355id_/http%3A//www.anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622022102id_/http%3A//www.anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
 
 # ANZ Web Site Security and Privacy Statement
 
@@ -79,7 +79,7 @@ You can opt-out of DoubleClick cookies by [ following the instructions](http://w
 
 You can access the Traffion Privacy Statement [here](http://www.traffion.com/privacy/privacy.asp). This Statement outlines how Traffion collects and uses information about your use of the ANZ Website. 
 
-You can access Advertising.com’s Privacy Statement [here](http://www.advertising.com/privacy/privacy.html). 
+You can access Advertising.com’s Privacy Statement [here](http://www.advertising.com/privacy_policy.htm). 
 
 We use "cookies" as a fundamental part of our interaction with your Internet browser. The purpose is to provide you with better and more customised service and with a more effective Web Site. 
 
