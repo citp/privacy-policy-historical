@@ -1,32 +1,51 @@
-> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229135207id_/http%3A//www.bigblueball.com/forums/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403111744id_/http%3A//www.bigblueball.com/privacy) for the most accurate reproduction.*
 
-# BigBlueBall Forums - User Agreement
+# BigBlueBall.com - Anything and Everything About Instant Messaging and Chat
 
-If you agree to the terms and conditions stated below, press the **Agree** button. Otherwise, press **Cancel**.
+## BigBlueBall
 
-In order to use these forums, users are required to provide a username, password and email address. We are not responsible for your privacy practices. In other words, if you blab all your personal information, either in your profile or in a discussion forum, that's your own fault! Remember that all information that is disclosed in these areas becomes public information and you should exercise caution when deciding to share any of your personal information. Any user who finds material posted by another user objectionable is encouraged to contact us via email. We are authorized by you to remove or modify any data submitted by you to these forums for any reason we feel constitutes a violation of our policies, whether stated, implied or not. So don't get nasty and offensive, got it?
+This is the web site of **BigBlueBall.com**.
 
-This site may contain links to other web sites and files. We have no control over the content and can not ensure it will not be offensive or objectionable. We will, however, remove links to material that we feel is inappropriate as we become aware of them.
+> Our postal address is   
+> **PO BOX 403  
+>  Murrieta, CA 92564**
 
-These forums give users two options for changing and modifying information that they provide in their profile: 
+We can be reached via e-mail at [jeff.hester@bigblueball.com](mailto:jeff.hester@bigblueball.com)  
+or you can reach us by telephone at (909) 286-1952
 
-  1. Users can login with their username and password to change any information in their profile. 
-  2. In case of lost password, users can send an e-mail to [jeff.hester@bigblueball.com](mailto:jeff.hester@bigblueball.com).
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+
+We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, not shared with other organizations for commercial purposes.
+
+With respect to cookies: We use cookies to store visitors preferences.
+
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+
+  * [ Google](http://www.google.com/privacy.html)
+
+  * [Fastclick](http://www.fastclick.com/co_privacy.html)
+
+  * [ Amazon](http://www.amazon.com/exec/obidos/tg/browse/-/468496/ref=hp_hp_ct_5_2/102-4549874-9435333)
+
+  * [ Commission Junction](http://www.cj.com/privacy.jsp)
 
 
 
-Cookies must be turned on in your browser to participate as a user in these forums. Cookies are used here to hold your username and password and viewing options, allowing you to login.
 
-By pressing the Agree button, you agree that you, the user, are 13 years of age or over. You are fully responsible for any information or file supplied by this user. You also agree that you will not post any copyrighted material that is not owned by yourself or the owners of these forums. In your use of these forums, you agree that you will not post any information which is vulgar, harassing, hateful, threatening, invading of others privacy, sexually oriented, or violates any laws.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-By signing up, you will also be subscribed to our bi-weekly BigBlueBall newsletter (you can opt out later if you're not interested).
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, writing us at the above address.
 
-If you do agree with the rules and policies stated in this agreement, and meet the criteria stated herein, proceed to press the Agree button below, otherwise press Cancel.
+Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them, no information that we have collected and that we maintain about them.
 
-**IMPORTANT NOTE: Your forum registration requires you to click a link that will be emailed to you.  
-** **Please supply a valid, working email address.** **If you do not supply a valid, working email address,  
- or if you do not check your email, you will not be able to complete your registration. **
+Consumers can access this information by e-mail us at the above address, writing to us at the above address.
 
-* * *
+Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
 
-If you have any questions about this privacy statement or the use of these forums, you can contact the forum administrator at: [jeff.hester@bigblueball.com](mailto:jeff.hester@bigblueball.com)
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, or the DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
