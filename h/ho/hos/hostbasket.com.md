@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hostbasket.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202070505id_/http%3A//www.hostbasket.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbasket.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618014934id_/http%3A//www.hostbasket.com/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Hostbasket - Configure the hosting solution YOU need
-
-|  | 
 
 We know that you care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting our Web site or by otherwise interacting with one of our Services, you agree to accept the practices described in this Privacy Notice. 
 
@@ -33,5 +31,3 @@ Although we are committed to protecting your privacy, not all other Web sites ar
 If you choose to visit our Web site, your visit and any dispute over privacy is subject to this Notice and our Services Agreement, including limitations on damages, and application of the law. If you have any concern about privacy, please contact us and we will try to resolve it. Our business changes constantly. This Notice and the Services Agreement will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. You should check our Web site frequently to see recent changes. 
 
 back 
-
-| 
