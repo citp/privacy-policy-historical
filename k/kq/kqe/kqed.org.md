@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2001-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/privacy.html) for the most accurate reproduction.*
 
 # KQED Privacy Policy
 
-[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/tv/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/fm/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/ednet/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/membership/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/volunteers/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/sponsorship/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/news/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/jobs/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/insidekqed/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/contactus/index.html)[](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/search/index.html)
+[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/tv/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/fm/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/ednet/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/membership/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/volunteers/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/sponsorship/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/news/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/jobs/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/insidekqed/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/contactus/index.html)[](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/search/index.html)
 
 |  | 
 
@@ -26,13 +26,13 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 **Terms of Use**
 
-Please also make sure to read the [KQED Web Site's Terms of Use](https://web.archive.org/web/20001207052600id_/http%3A//www.kqed.org/tos.html) to understand the additional terms and conditions which apply to your use of our site.
+Please also make sure to read the [KQED Web Site's Terms of Use](https://web.archive.org/web/20010626051429id_/http%3A//www.kqed.org/tos.html) to understand the additional terms and conditions which apply to your use of our site.
 
 [webmaster@kqed.org ](mailto:webmaster@kqed.org)
 
 |  | 
 
   
-[](http://www.kqed.org/cgi-bin/centralad/redirect.cgi/c25584aa?REGION=sponsor&CAMPAIGN=calperf&ACCOUNT=calperf&BANNER=hardnut)
+[](http://www.kqed.org/cgi-bin/centralad/redirect.cgi/c6298c52?REGION=sponsor&CAMPAIGN=Default&ACCOUNT=Default&BANNER=SecureMember)
 
-[](http://www.kqed.org/cgi-bin/centralad/redirect.cgi/45e08bc0?REGION=sponsor&CAMPAIGN=etrade&ACCOUNT=etrade&BANNER=evaluate_stocks)
+[](http://www.kqed.org/cgi-bin/centralad/redirect.cgi/49b49368?REGION=sponsor&CAMPAIGN=Default&ACCOUNT=Default&BANNER=memberservices)
