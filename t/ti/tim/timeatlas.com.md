@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030903id_/http%3A//www.timeatlas.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606130434id_/http%3A//www.timeatlas.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,24 +20,26 @@ Productivity Portfolio is the sole owner of the information collected on WWW.TIM
 _**Newsletter Registration**_  
 
 
-In order to subscribe to the newsletter, a user must first complete the subscriber profile form. During this process a subscriber is required to give contact information such as name and email address. We use this information to distribute the monthly newsletter. In order to provide a personalized newsletter we also require information regarding a subscriber's hardware and software.
+In order to subscribe to the newsletter, a user must first complete the subscriber profile form. During this process a subscriber is required to give contact information such as name and email address. We use this information to distribute the newsletter. In order to provide a personalized newsletter we also require information regarding a subscriber's hardware and software. Examples include which email program do you use and so on.
 
 _**Orders**_  
 
 
-Our payment processor, PayPal, requests information from the subscriber on our order form. A user must provide contact information (such as name and email) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer orders. If we have trouble processing an order, the information is used to contact the user. We do not have access to your PayPal financial data.
+Our payment processor, PayPal, requests information from the subscriber on our order form. A user must provide contact information (such as name and email) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer orders. If we have trouble processing an order, the information is used to contact the user. **We do not have access to your PayPal financial data.**
 
 ##### _Information Use_
 
 ##### _**Profile**_  
 
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that reflects their article preferences. We do not share your profile with other third parties.
+We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that reflects their article preferences. We do not share your profile with other third parties. 
+
+If a user chooses a trail subscription, but does not subscribe at the end of the trial period, his or her profile is deleted from the database. The same procedure is true for subscribers who opt not to renew.
 
 ##### _**Cookies**_  
 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. In addition, some of our vendors use cookies on their sites to authenticate the user and keep track of the user session.
+A cookie is a piece of data stored on the user's computer tied to information about the user. Within each of the two cookies is a value that identifies your profile so the proper articles display for you. Without this cookie, a user will only see those articles which are coded for all users. In addition, some of our vendors use cookies on their sites to authenticate the user and keep track of the user session.
 
 ##### _**Log Files**_  
 
@@ -47,7 +49,7 @@ Like most standard Web site servers we use log files. This includes Internet Pro
 ##### _**Clear Gifs (Web Beacons/Web Bugs)**_  
 
 
-We employ a software technology called clear gifs in our HTML-based emails to let us know which articles the recipients have opened. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the article movements of subscribers. This allows us to gauge the effectiveness of certain newsletters. For example 89% of users read the article on removing duplicate entries from the Palm.
+We use a software technology called clear gifs in our HTML-based emails to let us know which articles the recipients have opened. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track articles. This allows us to gauge the effectiveness of certain newsletters. For example 89% of users read the article on removing duplicate entries from the Palm. These statistics also help us determine if the subject matter warrants another article later on. 
 
 #####   
 _Sharing_
@@ -64,7 +66,7 @@ We use several third parties to provide specific services in the construction an
 
 ##### _**Choice/Opt-out**_
 
-Users who no longer wish to receive our newsletter may opt-out of receiving these communications by using the **Remove** radio button located on each newsletter. 
+Users who no longer wish to receive our newsletter may opt-out of receiving these communications by using the **Remove** link located on each newsletter. 
 
 ##### _**Links**_
 
@@ -80,14 +82,16 @@ If a user elects to use our referral service for informing a friend about our si
 
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
-When our newsletter/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order and profile forms, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when users are just 'surfing'. 
+When our newsletter/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with SSL encryption software. While on a secure page, such as the payment form, the lock icon on the bottom of Web browsers becomes locked, as opposed to unlocked.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job or service are granted access to personally identifiable information. 
+While we use SSL encryption to protect sensitive information online, we also protect user-information off-line. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job or service are granted access to personally identifiable information. 
 
 #####   
 _Correcting/Updating/Deleting/Deactivating Personal Information_
 
-If a user's personally identifiable information changes (such as email address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the [Support](https://web.archive.org/web/20031205030903id_/http%3A//www.timeatlas.com/support.htm) page or by emailing our [Customer Support](mailto:privacy@timeatlas.com).
+If a user's personally identifiable information changes (such as email address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the [Support](https://web.archive.org/web/20040606130434id_/http%3A//www.timeatlas.com/support.htm) page or by emailing our [Customer Support](mailto:privacy@timeatlas.com).
+
+**If a user chooses a trail subscription, but does not subscribe at the end of the trial period, his or her profile is deleted from the database.** **The same procedure is true for subscribers who opt not to renew.**
 
 ##### _Notification of Changes_
 
