@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602033231id_/http%3A//desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertusa.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022255id_/http%3A//desertusa.com/who/du_who.html%23anchor1141274) for the most accurate reproduction.*
 
 # About DesertUSA - Who We Are
+
+|  | 
 
 ###   
 General Information
@@ -34,7 +36,7 @@ DesertUSA offers advertising opportunities to businesses that would like to prom
 
 
 
-[**Advertising rates and general site information**](https://web.archive.org/web/20030602033231id_/http%3A//desertusa.com/ads/du_adrates.html)
+[**Advertising rates and general site information**](https://web.archive.org/web/20031205022255id_/http%3A//desertusa.com/ads/du_adrates.html)
 
 ### 
 
@@ -63,7 +65,7 @@ If you would like information about licensing materials from DesertUSA, please c
   
 Submitting Content To DesertUSA.com
 
-If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20030602033231id_/http%3A//desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20030602033231id_/http%3A//desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
+If you would like to [submit an article, story or personal adventure ](https://web.archive.org/web/20031205022255id_/http%3A//desertusa.com/who/du_submissions.html)to DesertUSA for possible publication, you can do so by following the guidelines listed on the [Content Submission page.](https://web.archive.org/web/20031205022255id_/http%3A//desertusa.com/who/du_submissions.html) DesertUSA reserves the right to refuse any content submitted. Manuscripts and content are not acknowledged or returned unless accompanied by self-addressed return envelope with proper postage attached. No responsibility is assumed for unsolicited contributions.
 
 ### 
 
@@ -102,7 +104,7 @@ If you have any additional questions about DesertUSAcom's dedication to consumer
 
 #### DesertUSA.Com Staff
 
-#### 
+####  | 
 
 **Mailing Address**
 
@@ -125,7 +127,7 @@ Escondido, CA 92025
 #### 
 
 Voice 760 740 1787 Ext 1#  
-Fax 740 737 9874  
+Fax 760 737 9874  
 
 
 #### 
