@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203172126id_/http%3A//www.brightidea.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603013742id_/http%3A//www.brightidea.com/privacy.asp) for the most accurate reproduction.*
 
 # brightidea.com
 
