@@ -1,43 +1,57 @@
-> *The following text is extracted and transformed from the adweek.com privacy policy that was archived on 1999-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991219192236id_/http%3A//www.adweek.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adweek.com privacy policy that was archived on 2000-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000516182140id_/http%3A//www.adweek.com/mast/privacy.asp) for the most accurate reproduction.*
 
 # Adweek Online
 
-|   
-|  [](http://www.adweek.com/inc/adredir.asp?ciid=173&url=http://www.hydrogenmedia.com)  
-  
+[](http://216.206.68.72/inc/adredir.asp?ciid=281&url=http://www.upside.com/)
 
+**ADWEEK ONLINE Privacy Policy:**
 
-**ADWEEK ONLINE PRIVACY POLICY**
+12/10/99   
+Updated 02/03/00
 
-Last updated: 08/19/99
+At ADWEEK ONLINE we take your privacy very seriously. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our site. This information may be expanded or be updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed.
 
-The policies below are applicable to Adweek, Brandweek, and Mediaweek Online (the "Service") produced and maintained by BPI Communications, Inc. ("BPI").
+WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT? 
 
-For each visitor to the Service, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+ADWEEK ONLINE collects information on our users in three ways: by voluntary submission through opt-in email and/or surveys; sweepstakes and/or contest entries; and through cookie technology.
 
-BPI collects only the domain name, but not the e-mail address of visitors to the Service, the e-mail addresses of those who communicate with BPI via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
+The information ADWEEK ONLINE collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; and to notify customers about updates to the service.
 
-The information BPI collects is used for internal review and is then discarded, used to improve the content of the Service, used to notify consumers about updates to the Service, shared with other reputable organizations to help them contact consumers for marketing purposes and used by BPI to contact consumers for marketing purposes.
+From time to time we share this information with other reputable organizations for marketing purposes or the information is used by ADWEEK ONLINE to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt in," or agree to accept these marketing opportunities. If at any time you change your mind and do not want ADWEEK ONLINE to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [webmaster@adweekonline.com](mailto:webmaster@ADWEEKonline.com) or by writing us at BPI Communications, Electronic Media, 1515 Broadway, New York, NY 10036-8956.
 
-If you do not want to receive e-mail from BPI in the future, please let BPI know by sending email to BPI at the above address and telling BPI that you do not want to receive e-mail from BPI.
+OPT-IN EMAIL 
 
-From time to time, BPI may make the e-mail addresses of those who access the Service available to other reputable organizations whose products or services BPI believes you might find interesting. If you do not want BPI to share your e-mail address with other companies or organizations, please let BPI know by sending email to BPI at the above address and telling BPI that you do not want BPI to share your e-mail address with other companies.
+ADWEEK ONLINE provides for its users an "optional" email service that allows the user to request-through personal email-specific ADWEEK ONLINE information. At times we may request additional information for the purpose of improving this service or for facilitating the user's online experience. A user may request to be removed (or "opt-out") from this "opt-in" email at anytime by contacting us at: [webmaster@adweekonline.com.](mailto:webmaster@ADWEEKonline.com)
 
-From time to time, BPI may make our customer e-mail list available to other reputable organizations whose products or services BPI may think you might find interesting. If you do not want BPI to share your e-mail address with other companies or organizations, please let BPI know by sending email to BPI at the above address.
+SWEEPSTAKES/CONTESTS 
 
-If you supply BPI with your postal address on-line you will only receive the information for which you provided BPI your address. You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending email to BPI at the above address.
+From time-to-time ADWEEK ONLINE, along with other reputable companies, provides sweepstakes and other contests for the enjoyment of our users. By participating in the contest or sweepstakes and answering any and all questions, the user understands that ADWEEK ONLINE and/or the involved company(s) may use information obtained for marketing purposes. Children under 18 may not participate in any sweepstakes or contest on ADWEEK ONLINE.
 
-Please provide BPI with your exact name and address. BPI will be sure your name is removed from the list BPI share with other organizations.
+COOKIES 
 
-Persons who supply BPI with their telephone numbers on-line may receive telephone contact from BPI with information regarding orders they have placed on-line. Please provide BPI with your correct phone number. BPI will be sure your name is removed from the list BPI share with other organizations.
+ADWEEK ONLINE may automatically collect non-personal information and data through the use of "cookies." Cookies are small text files a Web site uses to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. "Cookies" also allow a site to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising.
 
-Users also should be aware that non-personal information and data may be automatically collected through the standard operation of BPI's internet servers or through the use of "cookies." "Cookies" are small text files a web site can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Users should be aware that BPI cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for BPI. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available on the BPI Site.
+ABOUT CHILDREN'S PRIVACY 
 
-Persons under the age of 18 should receive permission from the parents before supplying name, address, e-mail, phone number or any other personal information to BPI. 
+ADWEEK ONLINE is committed to the safety of our children. Children under 18 may not participate in any sweepstakes or contests on ADWEEK ONLINE. Also, we encourage children under the age of 18 to ask a parent for permission before providing or sending any information to anyone online.
+
+YOUR CONSENT 
+
+By using our Web site, you consent to the collection and use of this information by ADWEEK Online. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [webmaster@adweek.com.](mailto:webmaster@ADWEEKonline.com)
+
+[
+
+QUESTIONS? 
+
+](mailto:webmaster@ADWEEKonline.com)
+
+[We welcome your questions and/or comments. Please send all queries to ](mailto:webmaster@ADWEEKonline.com)[webmaster@adweek.com.](mailto:webmaster@ADWEEKonline.com)
+
+[ [](http://216.206.68.72/inc/adredir.asp?ciid=65&url=http://www.adweek.com/adweekconf/) ](mailto:webmaster@ADWEEKonline.com)[
 
 * * *
 
-© 1999 [Adweek](https://web.archive.org/) and [BPI Communications Inc.](http://www.bpicomm.com/) All rights reserved.  
-BPI Electronic Media includes [Billboard](http://www.billboard.com/), [Amusement Business](http://www.amusementbusiness.com/), [Back Stage](http://www.backstage.com/), [The Hollywood Reporter](http://www.hollywoodreporter.com/), [MC](http://www.marketingcomputers.com/), [Mediaweek](http://www.mediaweek.com/), [BPIQ](http://www.bpiq.com/), [PDN](http://www.pdn-pix.com/), [Editor & Publisher](http://www.mediainfo.com/), [The Bookseller](http://www.thebookseller.com/), and [Film Journal](http://www.filmjournal.com/). Sites hosted by [Telescan Inc.](http://www.telescan.com/)  
+© 2000 ](mailto:webmaster@ADWEEKonline.com)[Adweek](https://web.archive.org/) and [BPI Communications Inc.](http://www.bpicomm.com/) All rights reserved.  
+BPI Electronic Media includes [Billboard](http://www.billboard.com/), [Amusement Business](http://www.amusementbusiness.com/), [Back Stage](http://www.backstage.com/), [The Hollywood Reporter](http://www.hollywoodreporter.com/), [MC](http://www.marketingcomputers.com/), [Mediaweek](http://www.mediaweek.com/) & [BPIQ](http://www.bpiq.com/). Sites hosted by [Telescan Inc.](http://www.telescan.com/)  
 Read our [LEGAL NOTICE](https://web.archive.org/mast/legal.asp) & [PRIVACY POLICY](https://web.archive.org/mast/privacy.asp)  
 
