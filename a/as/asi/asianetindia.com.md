@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianetindia.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604235045id_/http%3A//www.asianetindia.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianetindia.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611005133id_/http%3A//www.asianetindia.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Keralaonline.com - Privacy Policy
 
