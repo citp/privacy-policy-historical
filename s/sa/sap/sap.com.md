@@ -1,72 +1,69 @@
-> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205033025id_/http%3A//www9.sap.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sap.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621120945id_/http%3A//sap.com/company/legal/privacy.asp) for the most accurate reproduction.*
 
 # SAP - SAP Privacy Statement
 
    
-**You Are Here:**   [SAP.com](https://web.archive.org/index.asp) > SAP Privacy Statement 
+ **You Are Here:**   [SAP.com](https://web.archive.org/index.asp) > SAP Privacy Statement
 
-SAP Privacy Statement
+Protecting the individual's privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet economy. SAP has created this privacy statement to demonstrate our firm commitment to secure and trustworthy Internet commerce and the individual's right to privacy. 
 
-Protecting the individual's privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet economy. SAP has created this privacy statement to demonstrate its firm commitment to secure and trustworthy Internet commerce and the individual's privacy. Read more about our practices for gathering and distributing information on our Web sites. 
+#### Consent
 
-**Privacy Across the SAP Network**
+By using this Web site, you consent to the collection and use of the information as described here. If we decide to make changes to this privacy policy, we will post the changes on this page so that you will always know what information we collect, and how we use it.
 
-As a global company, SAP operates a number of Web sites around the world. Any information that you submit to one of our sites in any one country or language may be sent electronically to a server for one of these sites in another country. As such, the information may be used, stored, or processed outside the country where it was recorded. However, we safeguard your data-security interests around the world by ensuring that this SAP site adheres to our international privacy principles described in this policy.
+#### Use and Purpose of Collected Personal Data
 
-**What Information Do We Collect and Why?**
+On our Web sites, we only store personal information relating to you with your permission. You may choose to reveal information to us if, for example, you register or complete a survey. Companies in the SAP group may use the information internationally in connection with processing your inquiries and orders or to help improve our products and services. 
 
-**IP Addresses**  
-We may use your IP address (not your e-mail address) to help diagnose problems with our server, to administer our Web Site, or to gather broad demographic information.
+We would only share such information with third parties outside the SAP group with your express permission or as required by the applicable law. Information is used solely for the purposes described below.
 
-**Cookies**  
-We may use cookies to enhance the user experience and deliver personalized content. Cookies help us to deliver information specific to your interests, to save your having to re-enter your password each time you visit our site, or to keep track of your shopping cart. Cookies also allow us to better analyze our site traffic patterns so that we can bolster our Web offering. We do not follow your browsing path outside the SAP site. Advertising networks that serve ads onto our Web site may also use their own cookies.
+#### Privacy Across the Entire SAP Network
 
-**User Registration**  
-You may choose to fill out a registration form on our Web site with contact information that we or our business partners may need. This information is used to send you requested information or products, to contact you with other product information, news or promotions, and to learn more about our Web visitors. You may choose not to receive any further information from us any time -- for more details, check out the Choice/Opt-Out section below.
+As a global company, SAP operates a number of Web sites around the world. Any information that you submit to one of our sites in any one country may be sent electronically to a server for one of these sites in another country. We safeguard your privacy interests around the world by ensuring that this SAP site adheres to our international data-protection principles described in this statement.
 
-**E-Mail Addresses**  
-If you give us your e-mail address, we will communicate with you via e-mail. However, we do not share your e-mail address with others outside the SAP group of companies. You can choose not to receive e-mails at any time -- for more details, check out the Choice/Opt-Out section below.
+We bind our employees to observe your privacy and confidentiality rights.
 
-For the use of e-mail addresses in connection with e-mail-based services, please see the paragraph "Registration for Third-Party Services at mySAP.com" below.
+#### Online Security
 
-**Registration for Third-Party Services at mySAP.com**  
-At mySAP.com you can register for third-party services. These services are available through mySAP.com, but are provided by a third party, which is typically not affiliated with SAP. When you sign up for one of these services, it may be necessary to transfer some of your mySAP.com registration information to this service provider. Also, if the service you chose requires your e-mail address to fulfill this service, we will give your e-mail address to the service provider. This means we will pass your e-mail address to a service provider _only_ in the event that you specifically asked for this service and the service cannot be provided without your e-mail address. For privacy practices and opt-out procedures of those service providers, please refer to their privacy policies. 
+SAP supports secure online shopping using secure server technology because we want your shopping experience to be simple and safe. There are state-of-the art security arrangements and facilities on SAP sites to prevent security abuse. 
 
-**"Tell a Friend" Service**  
-You can choose to forward information, a Web page, or link to someone else using our e-mail service "Tell a Friend." In order to do that you provide us with your e-mail address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the e-mail. The information is not used for any other purpose.
+### Details
 
-**Shopping**  
-Our site includes order forms that you fill out to request information, products, and services. These forms collect your financial information, such as your banking details or credit card. We will use any financial information that you submit solely for billing and payment purposes.
+#### 1\. What Information Do We Collect and Why?
 
-**Online Surveys**  
-From time to time, we may conduct online surveys. Our surveys may ask you for demographic information, such as ZIP code or your industry sector. If the online survey collects contact data, we may use that data to send you additional information only if we specifically asked for your permission in the survey. You are free to opt-out of receiving future mailings at any time -- for more details, check out the Choice/Opt-Out section below. 
+**IP Addresses**   
+We use IP addresses to help diagnose problems, to administer our Web site, and to gather demographic information. When you visit our site, we recognize only your domain name and not your e-mail address. We will see your e-mail address only if you give it to us by filling out a form or by sending us an e-mail message.
 
-Demographic and User Profile Data  
-We may use demographic or user profile data we collect to tailor your Web experience, showcase content that we think may interest you, and display information that matches your preferences. This data also gives us an insight into your needs and interests.
+**Cookies**   
+We use cookies to deliver personalized content, to save you having to re-enter your password repeatedly, to keep track of your shopping cart, and to tailor our information offerings to how you and others use the site.
 
-**Links to Other Sites**  
-This site contains links to other sites. SAP is not responsible for the privacy practices or the content of other Web sites. Please refer to the policies of the respective site.
+**User Registration**   
+If you choose to register, we can send you requested information or products, other product information, news, or promotions.
 
-**Online Security**
+**E-mail Addresses  
+**If you choose to give us your e-mail address, we will communicate with you via e-mail. We do not share your e-mail address with others outside the SAP group of companies. You can choose not to receive any more e-mail at any time. 
 
-SAP wants your shopping experience to be simple and safe. We support secure online shopping using secure server technology. The secure server technology used in the SAP Store encrypts your personal financial information before it is transmitted over the Internet. That means information such as your name and credit-card number is protected in a secret code until we receive them. This technology works best when the store site is viewed using a browser that supports secure server technology.
+Depending on how your e-mail application is set up, information about you may be transmitted automatically when you send e-mail to SAP.
 
-If you select the option during your initial registration with the SAP Store to allow us to store and remember your credit-card and related billing information for future purchases, your credit-card number and passwords are stored in an encrypted format.
+If you choose to register for third-party services, we may need to send some information from your SAP.com registration to the service provider, possibly including your e-mail address -- but only if your requested service cannot be provided otherwise.
 
-**SAP Gives You the Choice to Opt Out -- At Any Time**
+**Shopping or Event Registration**   
+Our site includes order forms that you fill out to request information, products, and services. These forms collect your financial information, such as your banking details or credit card numbers. SAP promises to use any financial information that you submit solely for billing and payment purposes for that special transaction.
 
-Rest assured -- you can opt-out of receiving communications from us now or at the point on our site where we request information from you.
+**Online Surveys**   
+Our surveys may ask you for demographic information, such as postal codes or your industry sector. If the online survey collects contact data, we may use that data to send you further information only if we specifically asked for your permission in the survey. You are free to retract any permission you gave.
 
-**Unsubscribe to SAP E-Business Flash**  
-If you no longer wish to receive our free newsletter SAP E-Business Flash, you can cancel your subscription to the newsletter at any time. Simply visit the sap.com Profile Center.
+#### 2\. Links to Other Sites
 
-**Remove From Registration Database**  
-If you wish to be removed from the SAP web registration database, please e-mail or write to the Webmaster at the address below.
+This site contains links to other sites. SAP is not responsible for the privacy practices or the content of other Web sites.
 
-**Remove From other SAP E-Mail Lists**  
-If you no longer wish to receive other information or promotional e-mails from SAP, please follow the opt-out instructions on the last e-mail you received.
+#### 3\. Choice/Opt-Out
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact:
+You can opt out of receiving e-mail communications from us whenever you like. You only need to e-mail us to have your name and details removed from SAP's e-mail list or registration database. Registered users may opt out at any time in the [SAP.com Profile Center](https://web.archive.org/mk/get/g-pccntbasedat).
+
+#### 4\. Inquiries
+
+If you have any questions about this privacy statement -- if, for example, you wish to inspect or update the information we hold about you -- feel free to contact:
 
 Webmaster  
 SAP AG  
@@ -76,9 +73,5 @@ Germany
 
 Or e-mail: [webmaster@sap.com](mailto:webmaster@sap.com)
 
-**Your Consent and Our Revisions**
-
-By using this Web site, you consent to the collection and use of the information as described here. If we decide to make changes to this privacy policy, we will post the changes on this page so that you always know what information we collect, how we use it, and when and how we disclose it.
-
-**Want to learn more?** Contact the [SAP sales office](https://web.archive.org/contact/) nearest you.  
+**Want to learn more?**  Contact the [SAP sales office](https://web.archive.org/contactsap/directory/) nearest you.  
  
