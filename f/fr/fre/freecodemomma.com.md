@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecodemomma.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620163526id_/http%3A//www.freecodemomma.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecodemomma.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012132819id_/http%3A//www.freecodemomma.com/privacy.asp) for the most accurate reproduction.*
 
 # Free Scripts - FreeCodeMomma.com - Free Source Code
 
