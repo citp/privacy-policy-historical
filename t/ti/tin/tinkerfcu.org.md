@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinkerfcu.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152218id_/http%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinkerfcu.org privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211053742id_/http%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy
 
@@ -11,14 +11,14 @@ Member Privacy Policy
   
   
 [Disclaimer and Privacy Statement  
-](https://web.archive.org/web/20020603152218id_/http%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html)  
-[](https://web.archive.org/web/20020603152218id_/http%3A//www.tinkerfcu.org/index.shtml)  
+](https://web.archive.org/web/20021211053742id_/http%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html)  
+[](https://web.archive.org/web/20021211053742id_/http%3A//www.tinkerfcu.org/index.shtml)  
 ****  
 ****_  
 _ Each member account federally insured to $100,000 by the National Credit Union Administration _  
 __  
 _ Copyright ©2002 Tinker Federal Credit Union[  
-](https://web.archive.org/web/20020603152218id_/http%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html)
+](https://web.archive.org/web/20021211053742id_/http%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html)
 
 | 
 
