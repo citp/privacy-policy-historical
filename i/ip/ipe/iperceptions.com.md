@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806081529id_/http%3A//www.iperceptions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622101123id_/http%3A//iperceptions.com/privacy.html) for the most accurate reproduction.*
 
 # iPerceptions | Privacy Statement
 
@@ -68,7 +68,7 @@ If, however, we are going to handle our surveys in terms of collection and/or us
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
 
 **Contact Us**  
-If you require further information or if we can be of any aid with respect to privacy issues or the practices of this site, you can contact us at [marketing@iperceptions.com](mailto:marketing@iperceptions.com)
+If you require further information or if we can be of any aid with respect to privacy issues, updating your contact information, or the practices of this site, you can contact us at [marketing@iperceptions.com](mailto:marketing@iperceptions.com)
 
 **iPerceptions Inc.**  
 Attn: Privacy Policy  
