@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606045353id_/http%3A//flexjobs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208143620id_/http%3A//www.flexjobs.com/privacy.asp) for the most accurate reproduction.*
 
 # CareersFromHome.com - Privacy
 
 | 
 
-[ ](https://web.archive.org/web/20040606045353id_/http%3A//flexjobs.com/default.asp)
+[ ](https://web.archive.org/web/20041208143620id_/http%3A//www.flexjobs.com/default.asp)
 
-[ ](https://web.archive.org/web/20040606045353id_/http%3A//flexjobs.com/about.asp)
+[ ](https://web.archive.org/web/20041208143620id_/http%3A//www.flexjobs.com/about.asp)
 
-[ ](https://web.archive.org/web/20040606045353id_/http%3A//flexjobs.com/telecommuter_employers.asp)
+[ ](https://web.archive.org/web/20041208143620id_/http%3A//www.flexjobs.com/telecommuter_employers.asp)
 
-[ ](https://web.archive.org/web/20040606045353id_/http%3A//flexjobs.com/success_stories.asp)
+[ ](https://web.archive.org/web/20041208143620id_/http%3A//www.flexjobs.com/success_stories.asp)
 
-[ ](https://web.archive.org/web/20040606045353id_/http%3A//flexjobs.com/faqs.asp)
+[ ](https://web.archive.org/web/20041208143620id_/http%3A//www.flexjobs.com/faqs.asp)
 
 |  |  |  | 
 
