@@ -1,241 +1,180 @@
-<!--The following is the downloaded HTML source of the reference.com privacy policy that was archived on 2000-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000615114719id_/http%3A//www.reference.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reference.com privacy policy that was archived on 2001-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217223616id_/http%3A//dictionary.com/help/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
-		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-		<meta name="generator" content="Adobe GoLive 4">
-		<title>Darwin - Home Page</title>
-		</head><body bgcolor="white" background="images/bg.gif" onload="CSScriptInit();"><csscriptdict>
-			<script><!--
-CSStopExecution = false;
-CSInit = new Array;
-function CSScriptInit() {
-if(typeof(skipPage) != "undefined") { if(skipPage) return; }
-idxArray = new Array;
-for(var i=0;i<CSInit.length;i++)
-	idxArray[i] = i;
-CSAction2(CSInit, idxArray);
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+
+<title>Dictionary.com/Privacy Statement</title>
+
+<meta name="description" content="Free online English dictionary and reference guide."> 
+<meta name="keywords" content="dictionary dictionaries glossary glossaries thesaurus reference definitions English Spanish French German Italian Latin Greek Sanskrit foreign languages learning online word of the day fun word games recreation crossword puzzles faq frequently asked questions"> 
+
+<script language="JavaScript">
+<!--
+function jump2form() {
+	document.dict_form.term.select();
+	document.dict_form.term.focus();
 }
-CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
-function IsIE() { return CSAg.indexOf("MSIE") > 0;}
-function CSIEStyl(s) { return document.all.tags("div")[s].style; }
-function CSNSStyl(s) { return CSFindElement(s,0); }
-function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
-	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
-	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
-		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
-	return elem;
+
+function isblank(s)
+{
+    for(var i = 0; i < s.length; i++) {
+        var c = s.charAt(i);
+        if ((c != ' ') && (c != '\n') && (c != '\t')) return false;
+    }
+    return true;
 }
-function CSClickReturn () {
-	var bAgent = window.navigator.userAgent; 
-	var bAppName = window.navigator.appName;
-	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
-		return true; // dont follow link
-	else return false; // dont follow link
-}
-function CSButtonReturn () {
-	var bAgent = window.navigator.userAgent; 
-	var bAppName = window.navigator.appName;
-	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
-		return false; // follow link
-	else return true; // follow link
-}
-CSIm = new Object();
-function CSIShow(n,i) {
-	if (document.images) {
-		if (CSIm[n]) {
-			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
-			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
-			if(i != 0)
-				self.status = CSIm[n][3];
-			else
-				self.status = " ";
-			return true;
-		}
+
+function formcheck() {
+	var d = document.dict_form.db[1].checked;
+	var e = document.dict_form.term.value;
+	if ((e == null) || (e == "") || isblank(e)) {
+		alert("Please enter a word to look up.");
+		jump2form();
+	}
+	else if (d == 1) {
+		location.href = ("http://www.thesaurus.com/cgi-bin/search?config=roget&words=" + escape(e));
+	}
+	else {
+		location.href= ("http://www.dictionary.com/cgi-bin/dict.pl?term=" + escape(e));
 	}
 	return false;
 }
-function CSILoad(action) {
-	im = action[1];
-	if (document.images) {
-		CSIm[im] = new Object();
-		for (var i=2;i<5;i++) {
-			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
-			else CSIm[im][i-2] = 0;
-		}
-		CSIm[im][3] = action[5];
-	}
-}
-CSStopExecution = false;
 
-function CSAction(array) { 
-	return CSAction2(CSAct, array);
-}
-function CSAction2(fct, array) { 
-	var result;
-	for (var i=0;i<array.length;i++) {
-		if(CSStopExecution) return false; 
-		var actArray = fct[array[i]];
-		if(actArray == null) return false; 
-		var tempArray = new Array;
-		for(var j=1;j<actArray.length;j++) {
-			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
-				if(actArray[j][0] == "VAR") {
-					tempArray[j] = CSStateArray[actArray[j][1]];
-				}
-				else {
-					if(actArray[j][0] == "ACT") {
-						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
-					}
-				else
-					tempArray[j] = actArray[j];
-				}
-			}
-			else
-				tempArray[j] = actArray[j];
-		}			
-		result = actArray[0](tempArray);
-	}
-	return result;
-}
-CSAct = new Object;
+//-->
+</script>
 
-// --></script>
-		</csscriptdict>
-		<csactiondict>
-			<script><!--
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Button',/*URL*/'images/nav_advertisers_off.gif',/*URL*/'images/nav_advertisers_on.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Button2',/*URL*/'images/nav_websites_off.gif',/*URL*/'images/nav_websites_on.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Button3',/*URL*/'images/nav_corpinfo_off.gif',/*URL*/'images/nav_corpinfo_on.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Button4',/*URL*/'images/nav_mail_off.gif',/*URL*/'images/nav_mail_on.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Button5',/*URL*/'images/nav_connect_off.gif',/*URL*/'images/nav_connect_on.gif',/*URL*/'','');
-CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'Button6',/*URL*/'images/nav_research_off.gif',/*URL*/'images/nav_research_on.gif',/*URL*/'','');
 
-// --></script>
-		</csactiondict>
-	
+<link rel="stylesheet" type="text/css" href="/dict-main.css">
 
-	
-		<table border="0" cellpadding="0" cellspacing="0" width="760">
-			<!--Start: Table row establishing columns -->
-			
-			<tbody><tr height="1">
-				<td width="11" height="1"><img src="images/spacer.gif" width="11" height="1"></td>
-				<td width="141" height="1"><img src="images/spacer.gif" width="141" height="1"></td>
-				<td width="34" height="1"><img src="images/spacer.gif" width="34" height="1"></td>
-				<td width="15" height="1"><img src="images/spacer.gif" width="15" height="1"></td>
-				<td width="277" height="1"><img src="images/spacer.gif" width="277" height="1"></td>
-				<td width="97" height="1"><img src="images/spacer.gif" width="97" height="1"></td>
-				<td width="72" height="1"><img src="images/spacer.gif" width="72" height="1"></td>
-				<td width="113" height="1"><img src="images/spacer.gif" width="113" height="1"></td>
-			</tr>
-			<!--End: Table row establishing columns -->
-			
-			<tr height="33">
-				<td rowspan="7" width="11"><img src="images/spacer.gif" width="11" height="1"></td>
-				<!--Start: Left Column Navigation and Logo -->
-				
-				<td rowspan="7" width="141" align="center" valign="top"><img src="images/spacer.gif" width="141" height="10"><br>
-					<img src="images/logo.gif" width="77" height="171" border="0"> <img src="images/nav_bgreen_off.gif" width="141" height="17" border="0"><br>
-					<a href="advertise/index.html"><csobj w="141" h="49" t="Button" ht="images/nav_advertisers_on.gif"></csobj></a><a href="advertise/index.html" onmouseover="return CSIShow(/*CMP*/'Button',1)" onmouseout="return CSIShow(/*CMP*/'Button',0)" onclick="return CSButtonReturn()"><img src="images/nav_advertisers_off.gif" width="141" height="49" name="Button" border="0"></a><br>
-					<img src="images/nav_bgreen_off.gif" width="141" height="16" border="0"><br>
-					<a href="web_pub/index.html"><csobj w="141" h="49" t="Button" ht="images/nav_websites_on.gif"></csobj></a><a href="web_pub/index.html" onmouseover="return CSIShow(/*CMP*/'Button2',1)" onmouseout="return CSIShow(/*CMP*/'Button2',0)" onclick="return CSButtonReturn()"><img src="images/nav_websites_off.gif" width="141" height="49" name="Button2" border="0"></a><br>
-					<img src="images/nav_bgreen_off.gif" width="141" height="16" border="0"><br>
-					<a href="corp_info/index.html"><csobj w="141" h="49" t="Button" ht="images/nav_corpinfo_on.gif"></csobj></a><a href="corp_info/index.html" onmouseover="return CSIShow(/*CMP*/'Button3',1)" onmouseout="return CSIShow(/*CMP*/'Button3',0)" onclick="return CSButtonReturn()"><img src="images/nav_corpinfo_off.gif" width="141" height="49" name="Button3" border="0"></a><br>
-					<img src="images/nav_bgreen_off.gif" width="141" height="16" border="0"><br>
-					<img src="images/nav_bgreen_off.gif" width="141" height="16" border="0"><br>
-					<a href="mail/index.html"><csobj w="141" h="23" t="Button" ht="images/nav_mail_on.gif"></csobj></a><a href="mail/index.html" onmouseover="return CSIShow(/*CMP*/'Button4',1)" onmouseout="return CSIShow(/*CMP*/'Button4',0)" onclick="return CSButtonReturn()"><img src="images/nav_mail_off.gif" width="141" height="23" name="Button4" border="0"></a><br>
-					<img src="images/nav_bgreen_off.gif" width="141" height="16" border="0"><br>
-					<a href="connect/index.html"><csobj w="141" h="23" t="Button" ht="images/nav_connect_on.gif"></csobj></a><a href="connect/index.html" onmouseover="return CSIShow(/*CMP*/'Button5',1)" onmouseout="return CSIShow(/*CMP*/'Button5',0)" onclick="return CSButtonReturn()"><img src="images/nav_connect_off.gif" width="141" height="23" name="Button5" border="0"></a><br>
-					<img src="images/nav_bgreen_off.gif" width="141" height="16" border="0"><br>
-					<a href="research/index.html"><csobj w="141" h="23" t="Button" ht="images/nav_research_on.gif"></csobj></a><a href="research/index.html" onmouseover="return CSIShow(/*CMP*/'Button6',1)" onmouseout="return CSIShow(/*CMP*/'Button6',0)" onclick="return CSButtonReturn()"><img src="images/nav_research_off.gif" width="141" height="23" name="Button6" border="0"></a><br>
-					<img src="images/nav_bgreen_off.gif" width="141" height="16" border="0"><br>
-					<a href="index.html"><img src="images/nav_home_off.gif" width="141" height="23" border="0"></a></td>
-				<!--Start: Left Column Navigation and Logo -->
-				
-				<td rowspan="7" width="34"><img src="images/spacer.gif" width="34" height="1"></td>
-				<td height="33" colspan="2"><img src="images/header_1a.gif" width="292" height="33"></td>
-				<td colspan="3" height="33"><img src="images/header_1b.gif" width="282" height="33"></td>
-			</tr>
-			<tr height="12">
-				<td height="12" colspan="2"><img src="images/header_2a.gif" width="292" height="12"></td>
-				<td colspan="3" height="12"><img src="images/header_2b.gif" width="282" height="12"></td>
-			</tr>
-			<tr height="54">
-				<td height="54" colspan="2"><img src="images/header_3a.gif" width="292" height="54"></td>
-				<td colspan="3" height="54"><img src="images/header_3b.gif" width="282" height="54" usemap="#header_3b" border="0"><map name="header_3b"><area shape="rect" coords="113,13,145,22" href="privacy.html" title=""><area shape="rect" coords="157,12,188,21" href="search.html" title=""><area shape="rect" coords="197,12,235,21" href="sitemap.html" title=""><area shape="rect" coords="243,11,271,22" href="index.html" title=""><area shape="rect" nohref="" coords="0,0,49,49"></map></td>
-			</tr>
-			<tr height="25">
-				<td colspan="3" height="25"><img src="images/header_4.gif" width="389" height="25"></td>
-				<td rowspan="3" width="72"><!-- This is the scanned image that changes according to the page-->
-					<img src="images/header_privacy.gif" width="72" height="53"></td>
-				<!-- Start: Right Side Navigation -->
-				<!-- End: Right Side Navigation -->
-				
-				<td width="113" height="25"></td>
-			</tr>
-			<tr height="10">
-				<td colspan="3" height="10"><!-- This is the title of the page -->
-					<img src="images/title_defaultpage.gif" width="389" height="10"></td>
-				<td width="113" height="10"></td>
-			</tr>
-			<tr height="18">
-				<td colspan="3" height="18"><img src="images/spacer.gif" width="389" height="18"></td>
-				<td width="113" height="18"></td>
-			</tr>
-			<tr>
-				<td width="15"><img src="images/spacer.gif" width="10" height="400"></td>
-				<td colspan="3" valign="top"><!-- ############## -->
-					<!-- Start: Content -->
-					<!-- ############## -->
-					<font size="3" color="#000099" face="arial,helvetica"><b>24/7 Media's Privacy Statement</b></font>
-					<blockquote>
-						<p><font size="2" color="black" face="arial,helvetica">24/7 Media is committed to the responsible management of consumer information. Internet user privacy is a high priority to 24/7 Media, our advertisers and our Web publishers. </font></p>
-						<p><font size="2" color="black" face="arial,helvetica">24/7 Media continually reviews its data practices and privacy policy in light of consumer demands, public interests and governmental concerns. </font></p>
-						<p><a href="/corpinfo/releases/03_06_00_2.htm"><font size="2" color="black" face="arial,helvetica">Click here</font></a><font size="2" color="black" face="arial,helvetica"> to learn more about our commitment to protect the privacy of users and to educate such users about our data use practices. </font></p>
-						<p><font size="2" color="black" face="arial,helvetica">24/7 Media is a licensee of the TRUSTe Privacy Program. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. Our privacy policy outlines the type of information we collect and store, our usage policy, and who to contact with questions or concerns.</font></p>
-						<p><font size="2" color="black" face="arial,helvetica">24/7 Media operates a network several Web site properties including this one, and causes advertisements to be delivered to such Web sites on behalf of advertisers. For more information about the business of 24/7 Media, please return to our <a href="http://www.247media.com">Home Page</a>.</font></p>
-						<p><font size="2" color="black" face="arial,helvetica"><i>Personal</i></font></p>
-						<blockquote>
-							<p><font size="2" color="black" face="arial,helvetica">On www.247media.com, 24/7 Media will not collect any personally-identifiable information about you (name, address, telephone number, email address) unless you provide it to us voluntarily. If you do not want your personal information collected, please do not submit it.</font></p>
-							<p><font size="2" color="black" face="arial,helvetica">If you do submit your email or postal addresses online, you may receive periodic mailings from us with information on new services or products. If you do not wish to receive such mailings, please let us know by contacting us at the email or phone listed at the bottom of this Statement.</font></p>
-							<p><font size="2" color="black" face="arial,helvetica">If you submit your telephone number online, you may receive telephone contact from us regarding information you have requested online. You may also receive telephone contact regarding new services or products. If you do not wish to receive telephone calls, please let us know by contacting us at the email or phone listed at the bottom of this Statement.</font></p>
-							<p><font size="2" color="black" face="arial,helvetica">If you have already submitted this information and would like for us to remove it from our files, please contact us at the email or phone listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.</font></p>
-						</blockquote>
-						<p><font size="2" color="black" face="arial,helvetica"><i>Non-personally Identifiable Information Collected Automatically</i></font></p>
-						<blockquote>
-							<p><font size="2" color="black" face="arial,helvetica">For each visitor to www.247media.com, our Web server automatically recognizes your domain, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the Web site from which you linked to our site. This non-personally identifiable information is collected automatically, used for internal review, then discarded.</font></p>
-						</blockquote>
-						<p><font size="2" color="black" face="arial,helvetica"><br>
-						<a href="#top">Return to top.</a></font></p>
-						<p><font size="2" color="black" face="arial,helvetica"><br>
-						<a name="contact"></a><b>Who to Contact</b></font></p>
-						<p><font size="2" color="black" face="arial,helvetica">Please e-mail questions or requests for more information about 24/7 Media's privacy policies and initiatives to <a href="mailto:privacy@247media.com">privacy@247media.com</a>.</font></p>
-						<p><font size="2" color="black" face="arial,helvetica">Any consumer may request removal of his or her name from 24/7 Media's marketing database by sending e-mail to <a href="mailto:optout@247media.com">optout@247media.com</a>. You must provide your name, complete street address, city, state, ZIP code and e-mail address. We will use reasonable efforts to delete this information from our existing files.</font></p>
-						<p><font size="2" color="black" face="arial,helvetica">If the Web site 24/7 Media has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe (<a href="http://www.truste.org/users/watchdog.html">http://www.truste.org/users/watchdog.html</a>).</font></p>
-						<p><font size="2" color="black" face="arial,helvetica">&nbsp;</font></p>
-						<p><font size="3" color="#000099" face="arial,helvetica"><a name="rights"></a><b>Consumers' Privacy Rights</b></font></p>
-						<p><font size="2" color="black" face="arial,helvetica">24/7 Media holds the consumer relationship in the highest regard and pledges:</font></p>
-						<ol>
-							<li><font size="2" color="black" face="arial,helvetica">To insure that consumers have the ultimate right to control dissemination of their personal information. We support the self-regulation efforts of the direct marketing industry and believe this action is the best way to protect consumer privacy. We support legislation and regulatory efforts, which introduce fair, workable guidelines that protect the privacy of consumers. We will work to ensure that any such guidelines are consistent with and complement established self-regulatory measures, and that they allow the consumer to continue receiving the benefits that sophisticated marketing techniques can provide.</font>
-							</li><li><font size="2" color="black" face="arial,helvetica">To respond quickly to questions about the accuracy of information we process for our customers. We appreciate the fact that inaccurate data can have a negative impact upon consumers. If a data error is called to our attention, we will use our best efforts to determine the source of the error and to notify the responsible party and update our records. If the error is in data, which originates with us, we will promptly correct it.</font>
-							</li><li><font size="2" color="black" face="arial,helvetica">To monitor privacy issues and assure that any changes in legislation or industry standards regarding privacy issues are reflected in our Privacy Policy. 24/7 Media has appointed an executive level Privacy Committee, which uses a variety of resources to stay informed about changes in legislation and regulation. We are in constant contact with our network affiliates to identify and resolve misunderstandings about the law, industry standards or our Privacy Policy.</font>
-							</li><li><font size="2" color="black" face="arial,helvetica">To maintain strict data security systems that ensure specific individual information will not be made available to any unauthorized person. We use a multi-level security system to control access to information stored for our customers. We also provide stringent physical security and only provided access to authorized personal.</font>
-							</li><li><font size="2" color="black" face="arial,helvetica">To work with recognized trade associations and organizations that support consumer privacy. We actively participate in the Direct Marketing Association's efforts to establish industry guidelines that safeguard the individual right to privacy. We participate in other industry-specific associations focused on privacy issues such as TrustE, and the Better Business Bureau.</font>
-							</li><li><font size="2" color="black" face="arial,helvetica">To provide services that benefit both consumers and marketers. Consumers benefit from our services through the realization of lower prices that result from the marketers' more efficient communications approach. In addition, consumers realize savings in time and expense by being able to shop via the Internet. Marketers can better tailor their products and services to meet the needs of their customers with our assistance. Further, they can refine their promotional efforts to target only those customers for whose benefit the products have been produced.</font>
-						</li></ol>
-						<p><font size="2" color="black" face="arial,helvetica"><br>
-						<a href="#top">Return to top.</a></font></p>
-					</blockquote>
-					<p><a href="mailto:mhurley@247media.com"><font size="2" color="black" face="arial,helvetica">Click here</font></a><font size="2" color="black" face="arial,helvetica"> to talk to us about Privacy Issues, </font></p>
-					<p><!-- ############ -->
-					<!-- End: Content -->
-					<!-- ############ -->
-					</p></td>
-				<td width="113"></td>
-			</tr>
-		</tbody></table>
-	
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#0033FF" vlink="#000066" alink="#3366FF">
+
+<!-- Header -->
+<form name="dict_form" method="GET" action="/cgi-bin/dict.pl" onsubmit="return formcheck();">
+<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#0033ff">
+<tbody><tr><td align="LEFT" valign="MIDDLE" rowspan="2"><a href="/"><img src="http://cache.dictionary.com/dictionary/graphics/logo145x42.gif" alt="Dictionary.com" border="0" width="145" height="42"></a></td>
+<td align="LEFT" valign="TOP">&nbsp;<font color="#ffffff" face="Arial,Helvetica,sans-serif"><strong>Look up:</strong></font>&nbsp;
+<input type="text" name="term" size="17" maxlength="48" value="" style="font-size:11pt;">&nbsp;
+<input type="submit" value="OK" style="font-weight:bold; font-size:11pt; font-family: arial, helvetica, sans-serif;">
+&nbsp;</td>
+</tr>
+<tr><td align="LEFT" valign="BOTTOM">&nbsp;<font color="#ffffff" face="Arial,Helvetica,sans-serif">Search:</font>
+<font color="#ffffff" face="Arial,Helvetica,sans-serif">
+<input type="RADIO" name="db" value="*" checked="">Dictionary &nbsp;&nbsp;
+<input type="RADIO" name="db" value="roget">Thesaurus &nbsp;&nbsp;</font></td>
+</tr></tbody></table>
+</form>
+<br>
+
+<!-- Advert -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr><td align="CENTER" valign="MIDDLE">
+<iframe src="http://ad.doubleclick.net/adi/lexico.l90/;sz=468x60;ord=100862858739438300?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/lexico.l90/;abr=!ie;sz=468x60;ord=100862858739438300?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/jump/lexico.l90/;abr=!ie;sz=468x60;ord=100862858739438300?"><IMG SRC="http://ad.doubleclick.net/ad/lexico.l90/;abr=!ie;sz=468x60;ord=100862858739438300?" border=0 height="60" width="468"></A>
+</NOSCRIPT>
+</iframe>
+<br><font color="#666666" size="-2">ADVERTISEMENT</font>
+</td></tr></tbody></table>
+<br>
+<!-- Infobar -->
+<table border="0" cellspacing="0" cellpadding="5" width="100%">
+<tbody><tr align="LEFT" valign="MIDDLE">
+<td bgcolor="#ffffcc"><a href="/" class="nav">Home</a> - <a href="/fun/" class="nav">Fun &amp; Games</a> - <a href="/translate/" class="nav">Translator</a> - <a href="/wordoftheday/" class="nav">Word of the Day</a> - <a href="/help/" class="nav">Help</a></td></tr></tbody></table>
+<br>
+<!-- Content -->
+<table border="0" cellspacing="0" cellpadding="2" width="100%"><tbody><tr valign="TOP"><td>
+
+<h2>Privacy Statement</h2>
+
+<p>Lexico, LLC has created this privacy statement in order to 
+demonstrate our firm commitment to privacy.  The following discloses our 
+information gathering and dissemination practices for this website: Dictionary.com.</p>
+
+<p>We use your IP address to help diagnose problems with our server, 
+and to administer our Web site.  Your IP address is used to gather broad demographic information.</p>
+
+<p>This site contains links to other sites.  <b>Dictionary.com</b> is not responsible for the privacy practices or the content of such Web sites.</p>
+
+<p><b>Dictionary.com</b> only shares aggregate information with its affiliates, advertisers and business partners. <b>Dictionary.com</b> does not share any information about specific visitors.</p>
+
+<p>Our online surveys ask visitors for contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level).  The customer's contact information is used to contact the visitor when necessary.  Users may opt-out of receiving future mailings; see the choice/opt-out section below.  Demographic and profile data is also collected at our site.  We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.  This information is shared with advertisers on an aggregate basis only.</p>
+
+<p>We run contests on our site in which we ask visitors for contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level).  The customer's contact information is used to contact the visitor when necessary.  Users may opt-out of receiving future mailings; see the choice/opt-out section below.  Financial information that is collected from our users is used to check the users' qualifications for registration.  Demographic and profile data is also collected at our site.  We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.  This information is shared with advertisers on an aggregate basis.</p>
+
+
+
+<p>We use an outside ad company to display ads on our site.  Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site.  Our site does not use cookies.  We do not have access to any information about you from cookies you might receive while visiting our site.</p>
+
+<p>To find out more about how L90 manages the privacy of information in conjunction with serving ads on this site, please go to <a href="http://www.l90.com/external_site/privacy_policy.html">http://www.l90.com/external_site/privacy_policy.html</a>.</p>
+
+<p>To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <a href="http://www.flycast.com/about_us/about-privacy.html">http://www.flycast.com/about_us/about-privacy.html</a>.</p>
+
+<h2>Public Forums</h2>
+<p>This site makes chat rooms, forums, message boards, and/or news groups available to its users.  Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
+
+<h2>Security</h2>
+<p>This site has security measures in place to protect the loss, misuse and alteration of the information under our control.</p>
+
+<h2>Supplementation Information</h2>
+        <p>This site supplements the information that you provide with information that is received from third parties.</p>
+<h2>Children's Guidelines</h2>
+<p>This Web site meets the guidelines of TRUSTe's Children's program.<br><b>Dictionary.com <font color="red">DOES NOT</font></b>:</p>
+
+<ul type="circle"><li>collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity.  Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent</li>
+<li>collect personally identifiable offline contact information without prior parental consent</li>
+<li>distribute to third parties any personally identifiable information with out prior parental consent</li>
+<li>give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent</li>
+<li>entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity</li></ul>
+
+<h2>Choice/Opt-Out</h2>
+
+<p>Our site provides users the opportunity to opt-out of receiving communications from us and our partners <strong>at the point where we request information about the visitor</strong>.</p>
+This site gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service:
+<ul type="circle">
+<li>You can send email to <a href="http://www.dictionary.com/help/forms/webmaster.html?Choice/Opt-Out">webmaster@dictionary.com</a></li></ul>
+
+<h2>Correct/Update</h2>
+<p>This site gives users the following option for changing and modifying 
+information previously provided:</p>
+
+<ul type="circle">
+<li>email <a href="http://www.dictionary.com/help/forms/webmaster.html?Correct/Update">webmaster@dictionary.com</a></li></ul>
+
+<h2>Contacting the Web Site</h2>
+
+<p>If you have any questions about this privacy statement, the
+practices of this site, or your dealings with this Web site,
+you can contact:
+</p>
+<blockquote>
+Customer Service<br>
+Lexico, LLC<br>
+13428 Maxella Avenue, Suite 236<br>
+Marina del Rey, CA 90292<br>
+<a href="http://www.dictionary.com/help/forms/webmaster.html?Privacy%20Policy">webmaster@dictionary.com</a>
+</blockquote>
+
+<!--End content-->
+</td></tr></tbody></table><br clear="ALL">
+
+<!-- Footer -->
+<table border="0" cellspacing="0" cellpadding="2" bgcolor="#ffffcc" width="100%">
+<tbody><tr><td valign="TOP">
+<font face="Arial,Helvetica,sans-serif" size="-2">Copyright © 2001, <a href="http://www.lexico.com/">Lexico LLC</a>.
+All rights reserved.<br>
+<a href="http://www.lexico.com/contact/index.html">Contacts</a> | 
+<a href="/help/privacy.html">Privacy Statement</a> | 
+<a href="/help/terms.html">Terms of Use</a> | 
+<a href="/help/">Help</a></font>
+</td></tr></tbody></table>
+<script language="JavaScript" src="http://ads.x10.com/720x300/Z2xleGljb1BVMS5kYXQ/1/LEX-ROS">
+</script>
+
+
+
 
 
 </body></html>
