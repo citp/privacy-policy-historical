@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602052746id_/http%3A//www.parachat.com/faq/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parachat.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212200104id_/http%3A//www.parachat.com/help/index.php%3F%26aktion%3Dhilfe) for the most accurate reproduction.*
 
-# ParaChat Privacy Policy
+# ParaChat FAQ
+
+### **ParaChat Privacy Policy**
 
 ParaChat Group takes your privacy seriously. To learn more about ParaChat Group's privacy policy, please read our policy below.
 
