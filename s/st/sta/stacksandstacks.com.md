@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215809id_/http%3A//stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605213511id_/http%3A//www.stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
 
 # STACKS & STACKS PRIVACY STATEMENT
 
