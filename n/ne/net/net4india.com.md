@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net4india.com privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807021842id_/http%3A//www.net4india.com/html/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net4india.com privacy policy that was archived on 2005-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050226041049id_/http%3A//www.net4india.com/html/privacypolicy.html) for the most accurate reproduction.*
 
 # Net4India ::: Think Net, Think Net4India.
 
