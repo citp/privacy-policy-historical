@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the studica.com privacy policy that was archived on 2002-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209001747id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studica.com privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603185242id_/http%3A//www.studica.com/support/privacypolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><link rel="shortcut icon" href="/icon_main.ico">
 
 
+	
 	
 	
 
@@ -77,14 +78,20 @@ function OpenCertDetails()
 
 
 	
-
+		
+	
+	
+	
+	
+	
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 	
 	<tbody><tr valign="bottom">
 		<td valign="center"><a href="/"><img src="/images/Logo/logobig2.gif" alt="Welcome To Studica.com" border="0"></a></td>
 		<td width="15"><img src="/spacer.gif" width="15" height="1"></td>
 		
-		<td align="center"><a href="/promotion"><img src="/images/banner/xbox.gif" border="0"></a>
+		<td align="center">
+		<a href="/microsoft"><img src="/images/banner/microsoft.gif" border="0"></a>
 		
 		<img src="/spacer.gif" width="3" height="1"></td>
 		<td align="right"><img src="/images/header2/bar2line.gif" width="5" height="18"><a href="/products/shoppingcart.cfm"><img src="/images/header2/shoppingcart.gif" width="127" height="18" border="0"></a>
@@ -156,9 +163,9 @@ function OpenCertDetails()
 
 <script language="javascript">
 	function gotoheaderlink(telement){
-		if (document.headerform.elements[telement][document.headerform.elements[telement].selectedIndex].value != 0) {
+		if (document.headerform[telement][document.headerform[telement].selectedIndex].value != 0) {
 		//document.headerform.action=
-		document.location=document.headerform.elements[telement][document.headerform.elements[telement].selectedIndex].value;
+		document.location=document.headerform[telement][document.headerform[telement].selectedIndex].value;
 		//document.headerform.submit()
 		}
 		
@@ -194,21 +201,22 @@ function OpenCertDetails()
 				
 				<tr>
 					<td><img src="/spacer.gif" width="8" height="1"></td>
-					<td><img src="/images/general/countryid1.gif"></td>
-					<td><img src="/spacer.gif" width="3" height="1"></td>
-					<td><a href="/support/privacypolicy.cfm?switch_cur=1" class="leftcol">Canada</a></td>
-				</tr>
-				
-				<tr>
-					<td><img src="/spacer.gif" width="8" height="1"></td>
 					<td><img src="/images/general/countryid2.gif"></td>
 					<td><img src="/spacer.gif" width="3" height="1"></td>
 					<td width="100%">U.S.A.<img src="/products/images/right_column/currency/arrow.gif" border="0"></td>
 				</tr>
 				
 				<tr>
+					<td><img src="/spacer.gif" width="8" height="1"></td>
+					<td><img src="/images/general/countryid1.gif"></td>
+					<td><img src="/spacer.gif" width="3" height="1"></td>
+					<td><a href="/support/privacypolicy.cfm?switch_cur=1" class="leftcol">Canada</a></td>
+				</tr>
+				
+				<tr>
 					<td colspan="4"><img src="/spacer.gif" width="8" height="4"></td>
 				</tr>
+				
 			</tbody></table>
 			<table border="0" cellpadding="0" cellspacing="0" class="leftcol" width="153">
 				<tbody><tr bgcolor="#121010">
@@ -244,12 +252,22 @@ function OpenCertDetails()
 				</tr>
 				<tr>
 					
-					<td><select name="categoryid" size="12" style="color: Black; background-color: #ffffff; border: 1px solid #00AEFF; font-family: Verdana; font-size: 11px; width: 153px;" onchange="gotoheaderlink(2)">
+					<td><select name="categoryid" size="12" style="color: Black; background-color: #ffffff; border: 1px solid #00AEFF; font-family: Verdana; font-size: 11px; width: 153px;" onchange="gotoheaderlink('categoryid')">
 			
 			
 					
 				
 				<option value="/Products/Category/index.cfm?CategoryID=1">Animation</option>
+			
+				<option value="/products/store/index.cfm?companyid=255">Blowout Specials</option>
+			
+					
+				
+				<option value="/Products/Category/index.cfm?CategoryID=57">Business Productivity</option>
+			
+					
+				
+				<option value="/Products/Category/index.cfm?CategoryID=75">Classroom Licensing</option>
 			
 					
 				
@@ -261,17 +279,31 @@ function OpenCertDetails()
 			
 					
 				
-				<option value="/Products/Category/index.cfm?CategoryID=16">Financial</option>
+				<option value="/Products/Category/index.cfm?CategoryID=74">Digital Audio &amp; Video</option>
+			
+				<option value="/Canon/">Digital Cameras</option>
 			
 					
 				
-				<option value="/Products/Category/index.cfm?CategoryID=5">Game Development</option>
+				<option value="/Products/Category/index.cfm?CategoryID=25">Digital Imaging</option>
 			
-				<option value="/Products/category/hardware.cfm">Hardware</option>
+				<option value="/products/search.cfm?search_str=electronic">Electronics</option>
 			
 					
 				
-				<option value="/Products/Category/index.cfm?CategoryID=17">Math</option>
+				<option value="/Products/Category/index.cfm?CategoryID=46">Elementary Education</option>
+			
+					
+				
+				<option value="/Products/Category/index.cfm?CategoryID=13">Hardware</option>
+			
+					
+				
+				<option value="/Products/Category/index.cfm?CategoryID=55">Languages</option>
+			
+					
+				
+				<option value="/Products/Category/index.cfm?CategoryID=17">Mathematics</option>
 			
 					
 				
@@ -281,25 +313,27 @@ function OpenCertDetails()
 				
 				<option value="/Products/Category/index.cfm?CategoryID=6">Music</option>
 			
-				<option value="/Products/category/plugin.cfm">Plug-Ins</option>
+					
+				
+				<option value="/Products/Category/index.cfm?CategoryID=35">Programming Tools</option>
 			
 					
 				
-				<option value="/Products/Category/index.cfm?CategoryID=35">Programming</option>
+				<option value="/Products/Category/index.cfm?CategoryID=11">Science &amp; Engineering</option>
 			
 					
 				
-				<option value="/Products/Category/index.cfm?CategoryID=4">Remote Control</option>
+				<option value="/Products/Category/index.cfm?CategoryID=48">Test Prep Software</option>
 			
-				<option value="/Products/bookstore.cfm">Training Material</option>
-			
-				<option value="/Products/Category/transfer.cfm">Transfer</option>
-			
-				<option value="/Products/category/upgrade.cfm">Upgrades</option>
+				<option value="http://www.studica.com/Products/bookstore.cfm">Training Material</option>
 			
 					
 				
-				<option value="/Products/Category/index.cfm?CategoryID=9">Video Editing</option>
+				<option value="/Products/Category/index.cfm?CategoryID=45">Utilities</option>
+			
+					
+				
+				<option value="/Products/Category/index.cfm?CategoryID=90">Video Games</option>
 			
 					
 				
@@ -320,8 +354,18 @@ function OpenCertDetails()
 				
 				<tr>
 					
-					<td><select name="companyid" size="12" style="color: Black; background-color: #ffffff; border: 1px solid #00AEFF; font-family: Verdana; font-size: 11px; width: 153px;" onchange="gotoheaderlink(3)">
+					<td><select name="companyid" size="12" style="color: Black; background-color: #ffffff; border: 1px solid #00AEFF; font-family: Verdana; font-size: 11px; width: 153px;" onchange="gotoheaderlink('companyid')">
 			
+			
+				<option value="/3DChoreographer">3D Choreographer</option>
+			
+				<option value="/3DConnexion">3DConnexion</option>
+			
+				<option value="/3Dlabs">3Dlabs</option>
+			
+				<option value="/Aardvark">Aardvark</option>
+			
+				<option value="/ACDSystems">ACD Systems</option>
 			
 				<option value="/ADAM">ADAM</option>
 			
@@ -329,123 +373,477 @@ function OpenCertDetails()
 			
 				<option value="/ADSTechnologies">ADS Technologies</option>
 			
+				<option value="/Adventus">Adventus</option>
+			
+				<option value="/AECSoftware">AEC Software</option>
+			
+				<option value="/Aimstar">Aimstar</option>
+			
+				<option value="/AITech">AITech</option>
+			
+				<option value="/AladdinSystems">Aladdin Systems</option>
+			
+				<option value="/AlfredMusicPub">Alfred Music Pub</option>
+			
 				<option value="/AlienSkin">Alien Skin</option>
+			
+				<option value="/AllegroassaiVivaldi">Allegroassai Vivaldi</option>
+			
+				<option value="/AltecLansing">Altec Lansing</option>
+			
+				<option value="/AMEnglish">AM English</option>
+			
+				<option value="/Amacom">Amacom</option>
 			
 				<option value="/AppliedMagic">Applied Magic</option>
 			
-				<option value="/Archvision">Archvision</option>
+				<option value="/Arkaos">Arkaos</option>
 			
-				<option value="/Astound">Astound</option>
+				<option value="/ArsNova">Ars Nova</option>
+			
+				<option value="/Arturia">Arturia</option>
 			
 				<option value="/Autodesk">Autodesk</option>
 			
+				<option value="/AverMedia">AverMedia</option>
+			
 				<option value="/Avid">Avid</option>
 			
-				<option value="/BinaryResearch">Binary Research</option>
+				<option value="/BareBonesSoftware">Bare Bones Software</option>
+			
+				<option value="/BIAS">BIAS</option>
+			
+				<option value="/Bitheadz">Bitheadz</option>
+			
+				<option value="/BlowoutSpecials">Blowout Specials</option>
+			
+				<option value="/BlueSquirrel">Blue Squirrel</option>
+			
+				<option value="/BorisFX">Boris FX</option>
+			
+				<option value="/Borland">Borland</option>
 			
 				<option value="/CakeWalk">CakeWalk</option>
 			
+				<option value="/Caligari">Caligari</option>
+			
+				<option value="/CambridgeSoft">CambridgeSoft</option>
+			
+				<option value="/Canon">Canon</option>
+			
+				<option value="/Canopus">Canopus</option>
+			
+				<option value="/Cebas">Cebas</option>
+			
+				<option value="/CeledySoftware">Celedy Software</option>
+			
+				<option value="/ChariotSoftwareGroup">Chariot Software Group</option>
+			
 				<option value="/CharlesRiverMedia">Charles River Media</option>
+			
+				<option value="/ChickenSystems">Chicken Systems</option>
+			
+				<option value="/Classmate">Classmate</option>
+			
+				<option value="/ClassroomPlanner">Classroom Planner</option>
 			
 				<option value="/CNC">CNC</option>
 			
-				<option value="/Coda">Coda</option>
+				<option value="/Coda-MakeMusic">Coda - MakeMusic</option>
+			
+				<option value="/Connectix">Connectix</option>
+			
+				<option value="/ContourAVSolutions">Contour AV Solutions</option>
 			
 				<option value="/Corel">Corel</option>
 			
+				<option value="/CreativeLabs">Creative Labs</option>
+			
+				<option value="/Cricksoft">Cricksoft</option>
+			
+				<option value="/CrystalGraphics">CrystalGraphics</option>
+			
+				<option value="/CSOdessa">CS Odessa</option>
+			
 				<option value="/CuriousLabs">Curious Labs</option>
 			
+				<option value="/Cyclone">Cyclone</option>
+			
 				<option value="/D-Link">D-Link</option>
+			
+				<option value="/Dartech">Dartech</option>
+			
+				<option value="/Datasonics">Datasonics</option>
 			
 				<option value="/DataViz">DataViz</option>
 			
 				<option value="/Deneba">Deneba</option>
 			
+				<option value="/DesignScience">Design Science</option>
+			
 				<option value="/Di-O-Matic">Di-O-Matic</option>
 			
 				<option value="/Digimation">Digimation</option>
 			
+				<option value="/DigitalAudioLabs">Digital Audio Labs</option>
+			
 				<option value="/Discreet">Discreet</option>
 			
+				<option value="/Disney">Disney</option>
+			
+				<option value="/Divace">Divace</option>
+			
+				<option value="/EatSleepMusic">EatSleepMusic</option>
+			
+				<option value="/EccentricSoftware">Eccentric Software</option>
+			
+				<option value="/EchoDigitalAudio">Echo Digital Audio</option>
+			
+				<option value="/Ectaco">Ectaco</option>
+			
+				<option value="/Edirol">Edirol</option>
+			
+				<option value="/EDU-Technology">EDU-Technology</option>
+			
 				<option value="/ElectricRain">Electric Rain</option>
+			
+				<option value="/ElectronicsWorkbench">Electronics Workbench</option>
+			
+				<option value="/EncoreSoftware">Encore Software</option>
+			
+				<option value="/EOAScientific">EOA Scientific</option>
 			
 				<option value="/Eovia">Eovia</option>
 			
 				<option value="/Equilibrium">Equilibrium</option>
 			
+				<option value="/EvolutionElectronics">Evolution Electronics</option>
+			
 				<option value="/ExecutiveSoftware">Executive Software</option>
+			
+				<option value="/Extensis">Extensis</option>
+			
+				<option value="/EyeHearLearning">Eye Hear Learning</option>
 			
 				<option value="/Eyematic">Eyematic</option>
 			
+				<option value="/FarStone">FarStone</option>
+			
+				<option value="/Filemaker">Filemaker</option>
+			
 				<option value="/FinalDraft">Final Draft</option>
+			
+				<option value="/FocusEnhancements">Focus Enhancements</option>
+			
+				<option value="/Fractal">Fractal</option>
+			
+				<option value="/GarritanStrings">Garritan Strings</option>
+			
+				<option value="/GlobalInformationSystems">Global Information Systems</option>
+			
+				<option value="/GlobalSoftware">Global Software</option>
+			
+				<option value="/Graphisoft">Graphisoft</option>
+			
+				<option value="/Handmark">Handmark</option>
+			
+				<option value="/HarmonicVision">Harmonic Vision</option>
+			
+				<option value="/HealthFrontier">HealthFrontier</option>
+			
+				<option value="/HelpMe2Learn">Help Me 2 Learn</option>
+			
+				<option value="/Hemera">Hemera</option>
+			
+				<option value="/HopkinsTechnology">Hopkins Technology</option>
+			
+				<option value="/HPPlotters">HP Plotters</option>
+			
+				<option value="/IBISSoftware">IBIS Software</option>
+			
+				<option value="/IdeaFisher">IdeaFisher</option>
+			
+				<option value="/IMSI">IMSI</option>
+			
+				<option value="/Inspiration">Inspiration</option>
+			
+				<option value="/Interact(Act!)">Interact (Act!)</option>
+			
+				<option value="/InteractiveSolutions">Interactive Solutions</option>
 			
 				<option value="/Intuit">Intuit</option>
 			
+				<option value="/Iomega">Iomega</option>
+			
+				<option value="/IRIS">IRIS</option>
+			
 				<option value="/ISIResearchsoft">ISI Researchsoft</option>
+			
+				<option value="/JascSoftware">Jasc Software</option>
 			
 				<option value="/Jungsoft">Jungsoft</option>
 			
+				<option value="/Kaydara">Kaydara</option>
+			
+				<option value="/KeyStoneLearning">KeyStone Learning</option>
+			
+				<option value="/KnowledgeAdventure">Knowledge Adventure</option>
+			
+				<option value="/Knowvation">Knowvation</option>
+			
+				<option value="/LeapfrogSchoolhouse">Leapfrog Schoolhouse</option>
+			
+				<option value="/LearnitCorp">LearnitCorp</option>
+			
+				<option value="/LegacyInteractive">Legacy Interactive</option>
+			
+				<option value="/Lindows">Lindows</option>
+			
+				<option value="/Logitech">Logitech</option>
+			
+				<option value="/M-Audio">M-Audio</option>
+			
+				<option value="/MacAcademy">MacAcademy</option>
+			
 				<option value="/Macromedia">Macromedia</option>
+			
+				<option value="/MacromediaServer">Macromedia Server</option>
+			
+				<option value="/MajicSoft">MajicSoft</option>
+			
+				<option value="/MarKZware">MarKZware</option>
+			
+				<option value="/MarlinStudios">Marlin Studios</option>
+			
+				<option value="/MatchWare">MatchWare</option>
 			
 				<option value="/Mathsoft">Mathsoft</option>
 			
-				<option value="/Matrox">Matrox</option>
+				<option value="/MatroxGraphics">Matrox Graphics</option>
 			
 				<option value="/MAXONComputer">MAXON Computer</option>
 			
+				<option value="/McAfee-NetworkAssociates">McAfee - Network Associates </option>
+			
 				<option value="/MCHMultimedia">MCH Multimedia</option>
+			
+				<option value="/Media100">Media 100</option>
+			
+				<option value="/MegaSystems">Mega Systems</option>
 			
 				<option value="/MesmerPress">Mesmer Press</option>
 			
+				<option value="/Metrowerks">Metrowerks</option>
+			
 				<option value="/MGI">MGI</option>
 			
+				<option value="/MiBACMusic">MiBAC Music</option>
+			
+				<option value="/Microfrontier">Microfrontier</option>
+			
 				<option value="/Microsoft">Microsoft</option>
+			
+				<option value="/MicrosoftPress">Microsoft Press</option>
+			
+				<option value="/MicrosoftXbox">Microsoft Xbox</option>
+			
+				<option value="/MidiTec">MidiTec</option>
+			
+				<option value="/miniMusic">miniMusic</option>
+			
+				<option value="/MiniTab">MiniTab</option>
+			
+				<option value="/MinnetonkaAudio">Minnetonka Audio </option>
 			
 				<option value="/MiramarSystems">Miramar Systems</option>
 			
 				<option value="/MotiveSystems">Motive Systems</option>
 			
+				<option value="/Musitek">Musitek</option>
+			
+				<option value="/NativeInstruments">Native Instruments</option>
+			
+				<option value="/Nemetschek">Nemetschek</option>
+			
 				<option value="/NetOp">NetOp</option>
 			
 				<option value="/NewTek">NewTek</option>
+			
+				<option value="/NextLimit">Next Limit</option>
 			
 				<option value="/NotationTechnologies">Notation Technologies</option>
 			
 				<option value="/nPowerSoftware">nPower Software</option>
 			
+				<option value="/OpenCAD">OpenCAD</option>
+			
 				<option value="/Palm">Palm</option>
+			
+				<option value="/PandaSoftware">Panda Software</option>
 			
 				<option value="/Pantone">Pantone</option>
 			
+				<option value="/PearsonBooks">Pearson Books</option>
+			
+				<option value="/PearsonEducation">Pearson Education</option>
+			
 				<option value="/Permacharts">Permacharts</option>
 			
+				<option value="/PGMusic">PG Music</option>
+			
+				<option value="/PinnacleSystems">Pinnacle Systems</option>
+			
+				<option value="/Pioneer">Pioneer</option>
+			
+				<option value="/Pixologic">Pixologic</option>
+			
+				<option value="/PlayProSoftware">PlayPro Software</option>
+			
+				<option value="/Plextor">Plextor</option>
+			
+				<option value="/PocketFuel">Pocket Fuel</option>
+			
+				<option value="/PowerOnSoftware">Power On Software</option>
+			
 				<option value="/ProjectLab">ProjectLab</option>
+			
+				<option value="/PropellerHead">PropellerHead</option>
+			
+				<option value="/ReplicaTechnology">Replica Technology</option>
+			
+				<option value="/RightHemisphere">Right Hemisphere</option>
 			
 				<option value="/RisingSoftware">Rising Software</option>
 			
 				<option value="/RobertMcNeel">Robert McNeel</option>
 			
+				<option value="/Roxio">Roxio</option>
+			
 				<option value="/SavantInteractive">Savant Interactive</option>
 			
 				<option value="/ScanSoft">ScanSoft</option>
 			
+				<option value="/ScreenplaySystems">Screenplay Systems</option>
+			
 				<option value="/SDCPublications">SDC Publications</option>
+			
+				<option value="/SeattleSupportGroup">Seattle Support Group</option>
+			
+				<option value="/Sharp">Sharp</option>
 			
 				<option value="/Sibelius">Sibelius</option>
 			
+				<option value="/SistemaData">SistemaData</option>
+			
+				<option value="/SitniSati">Sitni Sati</option>
+			
+				<option value="/Skunklabs">Skunklabs</option>
+			
+				<option value="/SMCNetworks">SMC Networks</option>
+			
+				<option value="/SoftpressFreeway">Softpress Freeway</option>
+			
+				<option value="/Songster">Songster</option>
+			
+				<option value="/SonicDesktop">Sonic Desktop</option>
+			
 				<option value="/SonicFoundry">Sonic Foundry</option>
+			
+				<option value="/Sonorus">Sonorus</option>
+			
+				<option value="/Sony">Sony</option>
+			
+				<option value="/SonyPlayStation">Sony PlayStation</option>
+			
+				<option value="/SorensonMedia">Sorenson Media</option>
+			
+				<option value="/SoundQuest">Sound Quest</option>
+			
+				<option value="/Soundtrek">Soundtrek</option>
+			
+				<option value="/SpartaCom">SpartaCom</option>
+			
+				<option value="/SpeechCom">SpeechCom</option>
+			
+				<option value="/SpringofKnowledge">Spring of Knowledge</option>
+			
+				<option value="/SPSSScience">SPSS Science</option>
+			
+				<option value="/Steinberg">Steinberg</option>
+			
+				<option value="/Strata">Strata</option>
+			
+				<option value="/Sunburst">Sunburst</option>
 			
 				<option value="/Symantec">Symantec</option>
 			
+				<option value="/SystatSoftware">Systat Software</option>
+			
+				<option value="/Targus">Targus</option>
+			
+				<option value="/TascamGigaStudio">Tascam GigaStudio</option>
+			
+				<option value="/TCWorks">TC Works</option>
+			
 				<option value="/TechnicalAnimations">Technical Animations</option>
+			
+				<option value="/Telelogic">Telelogic</option>
+			
+				<option value="/TerraTec">TerraTec</option>
+			
+				<option value="/TexasInstruments">Texas Instruments</option>
+			
+				<option value="/TheoristInteractive">Theorist Interactive</option>
+			
+				<option value="/ThompsonLearning">Thompson Learning</option>
+			
+				<option value="/ThursbySoftware">Thursby Software</option>
+			
+				<option value="/TomSnyder">Tom Snyder</option>
 			
 				<option value="/ToonBoom">Toon Boom</option>
 			
+				<option value="/TotallyHip">Totally Hip</option>
+			
+				<option value="/Town4Kids">Town 4 Kids</option>
+			
+				<option value="/TransparentLanguage">Transparent Language</option>
+			
+				<option value="/TriLabProductions">TriLab Productions</option>
+			
+				<option value="/TurtleBeach">Turtle Beach</option>
+			
+				<option value="/UleadSystems">Ulead Systems</option>
+			
+				<option value="/Vcom3D">Vcom 3D</option>
+			
+				<option value="/Viewsonic">Viewsonic</option>
+			
+				<option value="/VMware">VMware</option>
+			
+				<option value="/Voyetra">Voyetra</option>
+			
+				<option value="/VSTTechnologies">VST Technologies</option>
+			
 				<option value="/Wacom">Wacom</option>
 			
-				<option value="/Wolfram">Wolfram</option>
+				<option value="/WaterlooMaple">Waterloo Maple</option>
 			
-				<option value="/wondertouch">wondertouch</option>
+				<option value="/Waves">Waves</option>
+			
+				<option value="/WebsitePros">Website Pros</option>
+			
+				<option value="/WilliamsCADco">Williams CADco</option>
+			
+				<option value="/WiserSoftware">Wiser Software</option>
+			
+				<option value="/WolframResearch">Wolfram Research</option>
+			
+				<option value="/Wondertouch">Wondertouch</option>
+			
+				<option value="/WorldWideWoodshed">World Wide Woodshed</option>
+			
+				<option value="/YowzaSoftware">Yowza Software</option>
 			</select></td>
 				</tr>
 			</tbody></table>
@@ -511,10 +909,12 @@ function OpenCertDetails()
 					<td width="8"></td>
 					<td><a href="/products/how_to_order.cfm" class="leftcol">How To Order</a></td>
 				</tr>
+				
 				<tr>
 					<td width="8"></td>
 					<td><a href="/resources/catalogrequest.cfm" class="leftcol">Catalog Request</a></td>
 				</tr>
+				
 				<tr>
 					<td width="8"></td>
 					<td><a href="/resources/quote.cfm" class="leftcol">School Quote Request</a></td>
@@ -529,10 +929,7 @@ function OpenCertDetails()
 		window.open('/products/poll.cfm','viewcal','toolbar=no,location=no,directories=no,status=no,scrollbars=yes, resizable=no,copyhistory=no,width='+480+',height='+600)
 	}
 </script>		
-				<tr>
-					<td width="8"></td>
-					<td><a href="/products/link.cfm" class="leftcol">Link To Us</a></td>
-				</tr>
+				
 				<tr>
 					<td width="8"></td>
 					<td><a href="javascript:open_new_win2()" class="leftcol"><strong>Customer Feedback</strong></a></td>
@@ -571,7 +968,7 @@ function OpenCertDetails()
 					<td width="8"></td>
 					<td>Fax</td>
 					<td width="4"></td>
-					<td><nobr>(716) 754 - 2807</nobr></td>
+					<td><nobr>(877) 754 - 2807</nobr></td>
 				</tr>
 				<tr>
 					<td colspan="4"><img src="/spacer.gif" width="1" height="5"></td>
@@ -603,7 +1000,7 @@ function OpenCertDetails()
 			<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
 							
 							<tbody><tr valign="top">
-								<td align="center" background="/images/Rotating/discreet.jpg"><a href="/discreet"><img src="/spacer.gif" width="100%" height="110" border="0"></a></td>									
+								<td align="center" background="/images/Rotating/avid_us.jpg"><a href="/avid"><img src="/spacer.gif" width="100%" height="110" border="0"></a></td>									
 							</tr>
 							<tr bgcolor="#000000">
 								<td><img src="/spacer.gif"></td>
@@ -612,7 +1009,8 @@ function OpenCertDetails()
 								<td align="center"><img src="/spacer.gif" width="1" height="8"></td>
 							</tr>	
 							<tr height="15">
-								<td align="center"><font face="Microsoft Sans Serif" size="-1"><strong>Smart Savings  For Educational Institutions, Students, Faculty &amp; Staff.</strong></font></td>
+								<td align="center"><font face="Microsoft Sans Serif" size="-1"><strong><font color="red"><b>New!</b></font> Try our Classroom Licensing Wizards:<img src="/spacer.gif" width="50" height="1"><br><center><a href="/adobe/classroom/"><img src="/images/Main/adobewizard.gif" border="0" width="183" height="24"></a><img src="/spacer.gif" width="10" height="1"><a href="/macromedia/classroom/"><img src="/images/Main/macromediawizard.gif" border="0" width="228" height="24"></a><img src="/spacer.gif" width="10" height="1"><a href="/microsoft/classroom/"><img src="/images/Main/microsoftwizard.gif" border="0" width="215" height="24"></a>
+</center></strong></font></td>
 							</tr>
 							
 							<tr height="8">
@@ -695,10 +1093,62 @@ If you have any questions about this privacy statement, the practices of this si
 							<tr valign="top">
 								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
 								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
-								<td><a href="/products/product_detail.cfm?productid=1063"><img src="/products/product_images/NewTek/lightwave75.gif" height="50" width="45" border="0"></a></td>
-								<td><strong>LightWave 3D v7.5 MAC/WIN USB</strong>
+								<td><a href="/products/product_detail.cfm?productid=915"><img src="/products/product_images/Macromedia/studiomx.gif" height="50" width="45" border="0"></a></td>
+								<td><strong>Macromedia Studio MX 1.1</strong>
 							
-								<br>Single Copy <a href="/products/shoppingcart.cfm?productid=1063&amp;productpriceid=2093"><font color="#F70000">$389.00</font></a>
+								<br>WIN <a href="/products/shoppingcart.cfm?productid=915&amp;productpriceid=1552"><font color="#F70000">$184.95</font></a><br>MAC <a href="/products/shoppingcart.cfm?productid=915&amp;productpriceid=1553"><font color="#F70000">$184.95</font></a>
+								</td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>			
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3" bgcolor="#C1C1C1"><img src="/spacer.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr valign="top">
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
+								<td><a href="/products/product_detail.cfm?productid=1063"><img src="/products/product_images/NewTek/lightwave75.gif" height="50" width="45" border="0"></a></td>
+								<td><strong>LightWave 3D v7.5</strong>
+							
+								<br>Mac/Win CD  <a href="/products/shoppingcart.cfm?productid=1063&amp;productpriceid=13414"><font color="#F70000">$384.95</font></a>
+								</td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>			
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3" bgcolor="#C1C1C1"><img src="/spacer.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr valign="top">
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
+								<td><a href="/products/product_detail.cfm?productid=4885"><img src="/products/product_images/SonicDesktop/sonicfire-s.jpg" height="50" width="45" border="0"></a></td>
+								<td><strong>Sonicfire™ Pro</strong>
+							
+								<br>Mac  <a href="/products/shoppingcart.cfm?productid=4885&amp;productpriceid=44772"><font color="#F70000">$276.95</font></a><br>Win <a href="/products/shoppingcart.cfm?productid=4885&amp;productpriceid=28332"><font color="#F70000">$276.95</font></a><br>Bundle for Mac  <a href="/products/shoppingcart.cfm?productid=4885&amp;productpriceid=44768"><font color="#F70000">$395.95</font></a><br>Bundle for Windows  <a href="/products/shoppingcart.cfm?productid=4885&amp;productpriceid=44770"><font color="#F70000">$395.95</font></a>
 								</td>
 								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
 							</tr>
@@ -722,7 +1172,7 @@ If you have any questions about this privacy statement, the practices of this si
 								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
 								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
 								<td><a href="/products/product_detail.cfm?productid=537"><img src="/products/product_images/Adobe/Illustrator10.gif" height="50" width="45" border="0"></a></td>
-								<td><strong>Illustrator 10</strong>
+								<td><strong>Adobe Illustrator 10</strong>
 							
 								<br>WIN <a href="/products/shoppingcart.cfm?productid=537&amp;productpriceid=723"><font color="#F70000">$87.95</font></a><br>MAC <a href="/products/shoppingcart.cfm?productid=537&amp;productpriceid=1364"><font color="#F70000">$87.95</font></a>
 								</td>
@@ -747,36 +1197,10 @@ If you have any questions about this privacy statement, the practices of this si
 							<tr valign="top">
 								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
 								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
-								<td><a href="/products/product_detail.cfm?productid=724"><img src="/products/product_images/Microsoft/Publisher2002.gif" height="50" width="45" border="0"></a></td>
-								<td><strong>Publisher 2002</strong>
-							
-								<br>WIN <a href="/products/shoppingcart.cfm?productid=724&amp;productpriceid=1461"><font color="#F70000">$78.98</font></a>
-								</td>
-								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
-							</tr>
-							<tr>
-								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
-								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>			
-								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
-							</tr>
-							<tr>
-								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
-								<td colspan="3" bgcolor="#C1C1C1"><img src="/spacer.gif" width="1" height="1"></td>
-								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
-							</tr>
-							
-							<tr>
-								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
-								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>
-								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
-							</tr>
-							<tr valign="top">
-								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
-								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
 								<td><a href="/products/product_detail.cfm?productid=901"><img src="/products/product_images/Adobe/photoshop7.gif" height="50" width="45" border="0"></a></td>
-								<td><strong>Photoshop 7</strong>
+								<td><strong>Adobe Photoshop 7</strong>
 							
-								<br>WIN <a href="/products/shoppingcart.cfm?productid=901&amp;productpriceid=1527"><font color="#F70000">$274.95</font></a><br>MAC <a href="/products/shoppingcart.cfm?productid=901&amp;productpriceid=1528"><font color="#F70000">$274.95</font></a><br>Upgrade - WIN <a href="/products/shoppingcart.cfm?productid=901&amp;productpriceid=4730"><font color="#F70000">$156.95</font></a><br>Upgrade - MAC <a href="/products/shoppingcart.cfm?productid=901&amp;productpriceid=4731"><font color="#F70000">$156.95</font></a>
+								<br>WIN <a href="/products/shoppingcart.cfm?productid=901&amp;productpriceid=8072"><font color="#F70000">$275.95</font></a><br>MAC <a href="/products/shoppingcart.cfm?productid=901&amp;productpriceid=8073"><font color="#F70000">$275.95</font></a><br>Upgrade - WIN <a href="/products/shoppingcart.cfm?productid=901&amp;productpriceid=8133"><font color="#F70000">$149.95</font></a><br>Upgrade - MAC <a href="/products/shoppingcart.cfm?productid=901&amp;productpriceid=8134"><font color="#F70000">$149.95</font></a>
 								</td>
 								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
 							</tr>
@@ -799,10 +1223,10 @@ If you have any questions about this privacy statement, the practices of this si
 							<tr valign="top">
 								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
 								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
-								<td><a href="/products/product_detail.cfm?productid=983"><img src="/products/product_images/Microsoft/VisualStudioNETProfessional.gif" height="50" width="45" border="0"></a></td>
-								<td><strong>Visual Studio .NET Professional</strong>
+								<td><a href="/products/product_detail.cfm?productid=933"><img src="/products/product_images/SonicFoundry/sf6.gif" height="50" width="45" border="0"></a></td>
+								<td><strong>Sonic Foundry Sound Forge 6.0</strong>
 							
-								<br>WIN <a href="/products/shoppingcart.cfm?productid=983&amp;productpriceid=1701"><font color="#F70000">$91.98</font></a>
+								<br> Win CD <a href="/products/shoppingcart.cfm?productid=933&amp;productpriceid=1612"><font color="#F70000">$156.95</font></a>
 								</td>
 								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
 							</tr>
@@ -825,10 +1249,114 @@ If you have any questions about this privacy statement, the practices of this si
 							<tr valign="top">
 								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
 								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
-								<td><a href="/products/product_detail.cfm?productid=467"><img src="/products/product_images/Autodesk/ACF29.jpg" height="50" width="45" border="0"></a></td>
-								<td><strong>AutoCAD 2002 SPV</strong>
+								<td><a href="/products/product_detail.cfm?productid=2763"><img src="/products/product_images/Discreet/combustion2_1_boxsmall.jpg" height="50" width="45" border="0"></a></td>
+								<td><strong>discreet combustion 2.1</strong>
 							
-								<br>2 Year Term <a href="/products/shoppingcart.cfm?productid=467&amp;productpriceid=1769"><font color="#F70000">$289.98</font></a><br>1 Year Term <a href="/products/shoppingcart.cfm?productid=467&amp;productpriceid=1768"><font color="#F70000">$153.95</font></a>
+								<br>Mac - Single <a href="/products/shoppingcart.cfm?productid=2763&amp;productpriceid=10769"><font color="#F70000">$279.95</font></a><br>Win - Single <a href="/products/shoppingcart.cfm?productid=2763&amp;productpriceid=10768"><font color="#F70000">$279.95</font></a>
+								</td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>			
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3" bgcolor="#C1C1C1"><img src="/spacer.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr valign="top">
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
+								<td><a href="/products/product_detail.cfm?productid=2379"><img src="/products/product_images/Steinberg/007.gif" height="50" width="45" border="0"></a></td>
+								<td><strong>Steinberg Nuendo Surround Bundle (PC)</strong>
+							
+								<br>Win <a href="/products/shoppingcart.cfm?productid=2379&amp;productpriceid=9867"><font color="#F70000">$799.95</font></a>
+								</td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>			
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3" bgcolor="#C1C1C1"><img src="/spacer.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr valign="top">
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
+								<td><a href="/products/product_detail.cfm?productid=6285"><img src="/products/product_images/Eovia/box_amapi7-s.jpg" height="50" width="45" border="0"></a></td>
+								<td><strong>Eovia Amapi Designer 7</strong>
+							
+								<br>Mac/Win CD <a href="/products/shoppingcart.cfm?productid=6285&amp;productpriceid=41868"><font color="#F70000">$219.95</font></a>
+								</td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>			
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3" bgcolor="#C1C1C1"><img src="/spacer.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr valign="top">
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
+								<td><a href="/products/product_detail.cfm?productid=5858"><img src="/products/product_images/Mathsoft/mathcad11-s.jpg" height="50" width="45" border="0"></a></td>
+								<td><strong>MathCAD 11 Academic</strong>
+							
+								<br> <a href="/products/shoppingcart.cfm?productid=5858&amp;productpriceid=36407"><font color="#F70000">$124.95</font></a>
+								</td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>			
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3" bgcolor="#C1C1C1"><img src="/spacer.gif" width="1" height="1"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							
+							<tr>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td colspan="3"><img src="/spacer.gif" width="1" height="3"></td>
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+							</tr>
+							<tr valign="top">
+								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
+								<td width="3"><img src="/spacer.gif" width="3" height="1"></td>
+								<td><a href="/products/product_detail.cfm?productid=960"><img src="/products/product_images/Discreet/plasma_box_w-s.jpg" height="50" width="45" border="0"></a></td>
+								<td><strong>discreet Plasma </strong>
+							
+								<br>Win - Single <a href="/products/shoppingcart.cfm?productid=960&amp;productpriceid=1656"><font color="#F70000">$223.95</font></a><br>Win Classroom - 10 to 30 <a href="/products/shoppingcart.cfm?productid=960&amp;productpriceid=45129"><font color="#F70000">$169.95</font></a><br>Win Classroom - 31 to 50 <a href="/products/shoppingcart.cfm?productid=960&amp;productpriceid=45133"><font color="#F70000">$159.95</font></a><br>Win Classroom - 51 plus <a href="/products/shoppingcart.cfm?productid=960&amp;productpriceid=45131"><font color="#F70000">$149.95</font></a>
 								</td>
 								<td width="1" bgcolor="#C1C1C1"><img src="/spacer.gif"></td>
 							</tr>
@@ -852,7 +1380,7 @@ If you have any questions about this privacy statement, the practices of this si
 		<td colspan="4" bgcolor="#C1C1C1" height="1"><img src="/spacer.gif"></td>
 	</tr>
 	<tr>
-		<td height="15" colspan="4" align="center" valign="middle" bgcolor="#F4F2F2"><font face="Arial" size="-2"><div align="center">© Torcomp/Studica 2002</div></font></td>
+		<td height="15" colspan="4" align="center" valign="middle" bgcolor="#F4F2F2"><font face="Arial" size="-2"><div align="center">© Torcomp/Studica 2003</div></font></td>
 	</tr>
 	<tr>
 		<td colspan="4" bgcolor="#C1C1C1" height="1"><img src="/spacer.gif"></td>
