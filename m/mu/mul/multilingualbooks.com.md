@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606202025id_/http%3A//multilingualbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215052217id_/http%3A//multilingualbooks.com/privacy.html) for the most accurate reproduction.*
 
-# Multilingual Books Privacy Statement
+# Privacy Statement
 
 ---  
 |  **Multilingual Books**  
@@ -35,7 +35,7 @@ We share aggregated statistical information (such as traffic figures) with our p
 
 ## Links
 
-This web site contains links to other sites. Please be aware that the Internet Language Company is not responsible for the privacy practices or content of such Web sites. This privacy statement applies solely to information collected by this web site. We encourage our users to be aware when they leave our site and to read the privacy statements of every web site that collects personally identifiable information. If you have a comment or complaint to make about a site that we link to, please email [**mbinfo@multilingualbooks.com**](mailto:mbinfo@multilingualbooks.com). 
+This web site contains links to other sites. Please be aware that the Internet Language Company is not responsible for the privacy practices or content of such Web sites. This privacy statement applies solely to information collected by this web site. We encourage our users to be aware when they leave our site and to read the privacy statements of every web site that collects personally identifiable information. If you have a comment or complaint to make about a site that we link to, please email [**info@multilingualbooks.com**](mailto:info@multilingualbooks.com). 
 
 ## Security
 
@@ -45,15 +45,15 @@ When our order form asks users to enter sensitive information (such as a credit 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. Employees of the Internet Language Company are required to sign a contract which specifies that they will follow our strict security and privacy policies. All of our internal computer systems and servers are password protected, and all paper documents containing sensitive information are shredded when they are no longer in use. 
 
-We feel that Multilingual Books is one of the safest places to shop on the web. If you have any questions about the security at our web site, send an email to [**mbinfo@multilingualbooks.com**](mailto:mbinfo@multilingualbooks.com). 
+We feel that Multilingual Books is one of the safest places to shop on the web. If you have any questions about the security at our web site, send an email to [**info@multilingualbooks.com**](mailto:info@multilingualbooks.com). 
 
 ## Choice / Opt-In / Opt-Out
 
-Our site provides customers with the opportunity to subscribe to our monthly email newsletter by entering their email address into a box on the home page . If a customer wishes to discontinue their subscription to the newsletter, they can send an email to [**mbinfo@multilingualbooks.com**](mailto:mbinfo@multilingualbooks.com). Information on how to unsubscribe is included on every Internet Language Company newsletter. 
+Our site provides customers with the opportunity to subscribe to our monthly email newsletter by entering their email address into a box on the home page . If a customer wishes to discontinue their subscription to the newsletter, they can send an email to [**remove@multilingualbooks.com**](mailto:remove@multilingualbooks.com). Information on how to unsubscribe is included on every Internet Language Company newsletter. 
 
 ## Correct / Update
 
-Users of Multilingual Books may change or modify information previously collected on this site by sending an email to [**mbinfo@multilingualbooks.com**](mailto:mbinfo@multilingualbooks.com). 
+Users of Multilingual Books may change or modify information previously collected on this site by sending an email to [**info@multilingualbooks.com**](mailto:info@multilingualbooks.com). 
 
 ## Contacting the Web Site
 
@@ -65,6 +65,6 @@ If you have any questions about this privacy statement, the practices of this si
 **Seattle, WA 98122 USA**  
 
 
-**E-mail:** [**mbinfo@multilingualbooks.com**](mailto:mbinfo@multilingualbooks.com)
+**E-mail:** [**info@multilingualbooks.com**](mailto:info@multilingualbooks.com)
 
 * * *
