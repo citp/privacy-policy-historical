@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202014942id_/http%3A//runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603101024id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Runner's World - Privacy Policy
 
@@ -24,7 +24,7 @@ PRIVACY POLICY
  | The personal data that we shall ask you to supply shall include the following: 
 
 (a) your name, address, and email address; and  
-(b) your postcode and telephone area code; and   
+(b) your postcode and telephone number; and   
 (c) (if you make purchases) your credit card or other financial or payment details.  
 
 
