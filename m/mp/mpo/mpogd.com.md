@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206061137id_/http%3A//mpogd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpogd.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606061826id_/http%3A//mpogd.com/privacy.asp) for the most accurate reproduction.*
 
-# Multiplayer Online Games Directory / Privacy Policy
+# Multiplayer Online Games Directory / Privacy Policy - Find Multiplayer Games Here
 
-| | | [](https://web.archive.org/ads/redirect.asp?id=213)
+| | | 
 
 _This document was last updated December 27, 2001._
 
@@ -51,4 +51,4 @@ MPOGD Inc
 619 N First St  
 Wood River, Illinois 62095_
 
-| | | [](https://web.archive.org/ads/redirect.asp?id=222)
+| | | [](https://web.archive.org/ads/redirect.asp?id=188)
