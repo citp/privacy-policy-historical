@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202180311id_/http%3A//bandai.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622000314id_/http%3A//www.bandai.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # Bandai.com - Privacy Policy
 
@@ -35,8 +35,8 @@ The information we collect may, at times, be used for the following:
 All information collected will be used solely by Bandai and not given, sold, or otherwise transferred to third parties in a personally identifiable form.
 
 **How can I contact you?**  
-At any time, a parent may request to view the personal information collected by BAI related to that parent's child, may request their child's information to be deleted from our system or to request that further information not be collected from their child. To initiate such a request, email [webmaster@bandai.com](http://www.bandai.com/contact/contact_customerservice.html) stating the full name the child used to register at the BAI website.
+At any time, a parent may request to view the personal information collected by BAI related to that parent's child, may request their child's information to be deleted from our system or to request that further information not be collected from their child. To initiate such a request, email [webmaster@bandai.com](http://www.bandai.com/contact/contact.html) stating the full name the child used to register at the BAI website.
 
-If you have any questions or comments on this policy, please feel free to email [webmaster@bandai.com](http://www.bandai.com/contact/contact_customerservice.html) or contact to us at:
+If you have any questions or comments on this policy, please feel free to email [webmaster@bandai.com](http://www.bandai.com/contact/contact.html) or contact to us at:
 
 In order to be in compliance with the legal requirements or to provide better customer service, BAI reserves the right to modify this policy. Any changes to the policy will be posted on our site. Thank you for taking the time to read this policy.
