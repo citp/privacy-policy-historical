@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204225459id_/http%3A//www.accenture.com/xd/xd.asp%3Fit%3Denweb%26xd%3Dprivacy%5Cprivacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207011716id_/http%3A//www.accenture.com/xd/xd.asp%3Fit%3Denweb%26xd%3Dprivacy%5Cprivacy.xml) for the most accurate reproduction.*
 
-# Accenture Privacy Statement
+# Accenture Privacy Policy
 
-**Your privacy on accenture.com**  
+[Global Home](http://www.accenture.com/xd/xd.asp?it=enweb&xd=index.xml)Accenture Privacy Policy
+
+ **Your privacy on accenture.com**  
 This website is administered by Accenture. The primary purpose of accenture.com is to be a dynamic resource and business tool to help you create your future. We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so. 
 
 The following provides an overview of how we protect your privacy during your visit. 
@@ -26,11 +28,11 @@ As a global organization, data we collect may be transferred internationally thr
 We do not generally seek to collect sensitive personal data through this site. If we do seek to collect such data, we will ask you to consent to our proposed uses of the data. We may also collect some sensitive personal data incidentally. By providing us with unsolicited sensitive personal data, you consent to our using the data subject to applicable law as described in this Privacy Statement. The references to "sensitive personal data" are to the various categories of personal data identified by European and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories comprise personal identity numbers, personal data about personality and private life, racial or ethnic origin, nationality, political opinions, membership of political parties or movements, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, genetic code, addictions, sexual life, property matters or criminal record (including information about suspected criminal activities). 
 
 **Do we give you access to your information?**  
-You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by contacting us via our webmaster at webmaster@accenture.com. 
+You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by sending us an e-mail. 
 
 **What about data security?**  
 We take appropriate steps to maintain the security of your data on accenture.com. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended. 
 
-That's it in a nutshell. The short of it is—we are interested in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please contact us via our webmaster at webmaster@accenture.com. 
+That's it in a nutshell. The short of it is—we are interested in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please contact us. 
 
-To Top
+**To Top**
