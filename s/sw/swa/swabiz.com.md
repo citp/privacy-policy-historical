@@ -1,36 +1,30 @@
-> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184346id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013711id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html) for the most accurate reproduction.*
 
 # Southwest Airlines Privacy Policy
 
+Updated November 21, 2002
+
 ## southwest.com Privacy Policy 
 
-Southwest Airlines is concerned about your right to privacy. When you visit the Southwest Airlines web site, you can be assured that any information you share with us will be treated confidentially and will not be disclosed to anyone outside of Southwest Airlines.
+Southwest Airlines is concerned about your right to privacy. When you visit the Southwest Airlines web site, you can be assured that any information you share with us will be treated confidentially. The only instances that would require us to disclose Customer information (i.e. - name, address, telephone number, e-mail address, etc.) is under legal subpoena, to verify billing information with the Customer's financial institution, credit card fraud detection, or when a Customer purchases service from a travel service provider (i.e hotel, rental car company, etc.) that is accessible through **southwest.com**.
 
 * * *
 
 #### E-mail Addresses
 
-The e-mail addresses provided to subscribe to Southwest Airlines e-mail updates **will not** be shared with any third parties.  If you wish to subscribe or unsubscribe from this mailing list or need more information about the mailing list, please go to the [E-mail Updates](https://web.archive.org/email/) page.
-
-The e-mail addresses provided when purchasing Ticketless Travel Online will not be shared with any third parties; they will be used only to send itinerary information to those persons specified by you.
-
-* * *
-
-#### Billing Information 
-
-Information provided to purchase Ticketless Travel Online (including billing name, billing address, telephone number, and fax number) will not be shared with or sold to anyone outside of Southwest Airlines nor to any third party.  Payment information (credit card numbers and expiration dates) is treated confidentially and **will not** be shared with anyone outside of Southwest Airlines or the financial institutions used to process payments.
+The e-mail addresses provided to subscribe to Southwest Airlines e-mail updates **will not** be shared with any third parties. If you wish to subscribe or unsubscribe from this mailing list or need more information about the mailing list, please go to the [E-mail Updates](https://web.archive.org/email/) page.
 
 * * *
 
 #### Billing Information for Travel service providers
 
-When you make travel arrangements through southwest.com, your billing information is provided to the rental car company, hotel, or other travel service provider(s), to the extent you require such services, to ensure the successful completion of your reservations.
+When you make travel arrangements through **southwest.com** , your billing information is provided to the rental car company, hotel, or other travel service provider(s), to the extent you require such services, to ensure the successful completion of your reservations.
 
 * * *
 
 #### Cookies 
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser.  This enables our system to recognize your browser and  remember your passenger names and billing information so that you won't have to retype it.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser.  This enables our system to recognize your browser and  remember your passenger names and billing information so that you won't have to retype it.
 
 The address and passenger information is saved to your hard drive by the Southwest Airlines web server. This information can only be accessed by the Southwest Airlines web server; Internet users and other companies cannot access this information. For security reasons, your credit card number is not saved. You must type the credit card number each time you purchase travel using Ticketless Travel Online.
 
@@ -68,5 +62,5 @@ If you still have questions about our privacy policy please visit [Contact SWA](
 
 * * *
 
-Updated March 9, 2001  
+  
 
