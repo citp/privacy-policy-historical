@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233359id_/http%3A//www.sorcerers.net/Main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171158id_/http%3A//www.sorcerers.net/Main/privacy.php) for the most accurate reproduction.*
 
 # Sorcerer's Place - Privacy Policy
 
