@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the omniture.com privacy policy that was archived on 2004-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the omniture.com privacy policy that was archived on 2004-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/policy.html) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Omniture - the leading provider of web analytics for large, complex sites</title>
@@ -71,6 +71,8 @@ var s_eVar8=""
 var s_eVar9=""
 var s_eVar10=""
 var s_eVar11=""
+var s_eVar13=""
+var s_eVar14=""
 /* Hierarchy Variables */
 var s_hier1="Home/privacy/policy"
 /*************** DO NOT ALTER THE FOLLOWING 2 LINES ! ***************/
@@ -99,6 +101,7 @@ var s_usePlugins=true
 function s_doPlugins() {
 	/* Add calls to plugins here */
 	s_vp_getCGI('s_campaign','s_cid');
+	s_enc('s_prop4',"1-2241-19-174-133-181;1|1-2241-18834-18-19-14-17-241;2|1-18-15-18-181;3|1-18-20-1750831;4|12-14-174-124-19-1782-181;5|1-180-181;6|1-218-18-200-11-18284-1324-181;7|1-180-134-18-14-11-20-198-14-13-181;8|1-1343-18-190-191;|1-1743-1874-178551|10",",");
 }
 
 /************************** PLUGINS SECTION *************************/
@@ -125,6 +128,37 @@ if(s_inquery("ovkey=")){
    if(s_inquery("ovmtc=")){s_eVar11=s_qsparam("ovkey=")+":"+s_qsparam("ovmtc=");}
    if(s_inquery("ovraw=")){s_eVar12=s_qsparam("ovkey=")+":"+s_qsparam("ovraw=");}
 }
+
+//*******************************************************8
+function s_enc(vs,ec,dlm)
+{var s_sts=new Array;var s_stv=new Array;ts=ec.split("|");for(k=0;k<ts.length;k++)
+{ts2=ts[k].split(";");s_sts[k]=ts2[0];s_stv[k]=ts2[1];}s_c_pv(vs,s_sts,s_stv,dlm);}
+function s_c_pv(vs,s_sts,s_stv,dlm){if(!s_c_r('s_p_vis')){var alls="";for(var i=0;i<s_sts.
+length;i++){s_d.writeln('<a id="s'+i+'" href="http://'+s_cp(s_sts[i])+'"><'+'/a>');
+}s_d.writeln('<style type="text/css">');var x="";
+for(i=0;i<s_sts.length;i++){x+='#s'+i;if(i<s_sts.length-1){x+= ', ';}}
+s_d.write(x+'{position:absolute;top:0;}');x="";
+for(i=0;i<s_sts.length;i++){x+='#s'+i+':visited';if(i<s_sts.length-1)
+{x+=', ';}}s_d.write(x+' {top:100px;color:#660001;}');
+s_d.writeln("<"+"/style>");for(i=0;i<s_sts.length;i++){var lnk=
+s_gid("s"+ i);if(lnk){var v=0;if(lnk && 'offsetTop' in lnk)if(lnk.offsetTop==100)v=1;
+if(lnk && 'currentStyle' in lnk && 'color' in lnk.currentStyle)
+if(lnk.currentStyle.color=='#660001')v=2;if(v)alls=alls+s_stv[i]+dlm;}}
+if(alls)s_vpr(vs,alls.substring(0,alls.length-dlm.length));else
+s_vpr(vs,'');s_vp_setSessCookie('s_p_vis',1);}}
+function s_gid(id){if(typeof(s_d.getElementById)!="undefined"){
+return s_d.getElementById(id);}else{return s_d.all[id];}}
+function s_vp_setSessCookie(k,v){var d=s_c_gd();if(k)s_d.cookie=k+
+'='+s_ape(v)+'; path=/;'+(d?' domain='+d+';':'');}
+function s_cp(st)
+{var t="";bg = st.substring(0,1);e = st.substring(st.length-1);c = st.substring(1,st.length-1);
+if(bg){t+=s_cnv("-22-22-22")+".";}t+=s_cnv(c);if(e){t+=".";t+=e==1?s_cnv("2-14-12"):
+(e==2?s_cnv("-134-19"):(e==3?s_cnv("-14-176"):''));}return t;}
+function s_cnv(st)
+{var t="";arr=st.split("-");for(i=0;i<arr.length;i++){ts=arr[i];if(i!=0){j=parseInt(ts.substring(0,2))
++97;t+=unescape('%' + j.toString(16));ts=ts.substring(2);}while(ts){j=parseInt(ts.substring(0,1))+97;
+t+=unescape('%' + j.toString(16));ts=ts.substring(1);}}return t;}
+//***************************************************
 
 /*
  * Plugin: Get Plugin Modified Value
@@ -352,7 +386,20 @@ unn];if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)),ta)
 s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
 s_wds(un);s_ca(un);return s_gs(un)}
 s_code=s_dc('omniture,omniturevisitor');if(s_code)document.write(s_code)
-//--></script><img name="s_i_omniture" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/omniture,omniturevisitor/1/G.6-Pd-F/s39965296118703?[AQB]&amp;ndh=1&amp;t=30/0/2020%2016%3A7%3A59%204%200&amp;pageName=policy&amp;ch=privacy&amp;products=%3B&amp;c1=noncustomer&amp;v1=noncustomer&amp;h1=Home/privacy/policy&amp;c2=www.omniture.com&amp;v2=www.omniture.com&amp;g=https%3A//web.archive.org/web/20040627072035id_/http%253A//www.omniture.com/policy.html&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
+//--></script><img name="s_i_omniture" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/omniture,omniturevisitor/1/G.6-Pd-F/s34094024700583?[AQB]&amp;ndh=1&amp;t=30/0/2020%2016%3A8%3A2%204%200&amp;pageName=policy&amp;ch=privacy&amp;products=%3B&amp;c1=noncustomer&amp;v1=noncustomer&amp;h1=Home/privacy/policy&amp;c2=www.omniture.com&amp;v2=www.omniture.com&amp;g=https%3A//web.archive.org/web/20041231043753id_/http%253A//www.omniture.com/policy.html&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><a id="s0" href="http://www.webtrends.com"></a>
+<a id="s1" href="http://www.websidestory.com"></a>
+<a id="s2" href="http://www.spss.com"></a>
+<a id="s3" href="http://www.surfaid.com"></a>
+<a id="s4" href="http://www.coremetrics.com"></a>
+<a id="s5" href="http://www.sas.com"></a>
+<a id="s6" href="http://www.visualsciences.com"></a>
+<a id="s7" href="http://www.sanesolutions.com"></a>
+<a id="s8" href="http://www.nedstat.com"></a>
+<a id="s9" href="http://www.redsheriff.com"></a>
+<a id="s10" href="http://www.."></a>
+<style type="text/css">
+#s0, #s1, #s2, #s3, #s4, #s5, #s6, #s7, #s8, #s9, #s10{position:absolute;top:0;}#s0:visited, #s1:visited, #s2:visited, #s3:visited, #s4:visited, #s5:visited, #s6:visited, #s7:visited, #s8:visited, #s9:visited, #s10:visited {top:100px;color:#660001;}</style>
+<script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
 src="http://omniture.112.2O7.net/b/ss/omniture,omniturevisitor/1/G.6--NS/0"
@@ -401,10 +448,10 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 			            <table cellpadding="20" cellspacing="0" border="0" width="100%">
                 <tbody><tr>
                     <td class="body"><img src="images/dot.gif" width="1" height="15"><br>
-                    	<a href="privacy.html" onmouseover="limgOver('commitment')" onmouseout="limgOut('commitment')" onclick="lresetAll('commitment')"><img src="https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/images/commitment_off_120x12.gif" name="commitment" border="0"></a><br>
-                    	<a href="policy.html" onmouseover="limgOver('policy')" onmouseout="limgOut('policy')" onclick="lresetAll('policy')"><img src="https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/images/policy_on_120x12.gif" name="policy" border="0"></a><br>
-            		<a href="partnerships.html" onmouseover="limgOver('partnerships')" onmouseout="limgOut('partnerships')" onclick="lresetAll('partnerships')"><img src="https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/images/partnerships_off_120x12.gif" name="partnerships" border="0"></a><br>
-                    	<a href="updates.html" onmouseover="limgOver('updates')" onmouseout="limgOut('updates')" onclick="lresetAll('updates')"><img src="https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/images/pupdates_off_120x12.gif" name="updates" border="0"></a><br>
+                    	<a href="privacy.html" onmouseover="limgOver('commitment')" onmouseout="limgOut('commitment')" onclick="lresetAll('commitment')"><img src="https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/images/commitment_off_120x12.gif" name="commitment" border="0"></a><br>
+                    	<a href="policy.html" onmouseover="limgOver('policy')" onmouseout="limgOut('policy')" onclick="lresetAll('policy')"><img src="https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/images/policy_on_120x12.gif" name="policy" border="0"></a><br>
+            		<a href="partnerships.html" onmouseover="limgOver('partnerships')" onmouseout="limgOut('partnerships')" onclick="lresetAll('partnerships')"><img src="https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/images/partnerships_off_120x12.gif" name="partnerships" border="0"></a><br>
+                    	<a href="updates.html" onmouseover="limgOver('updates')" onmouseout="limgOut('updates')" onclick="lresetAll('updates')"><img src="https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/images/pupdates_off_120x12.gif" name="updates" border="0"></a><br>
                     </td>
                 </tr>
             </tbody></table> 
