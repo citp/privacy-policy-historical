@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoreyouth.com privacy policy that was archived on 2002-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020625162854id_/http%3A//www.hardcoreyouth.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreyouth.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607202508id_/http%3A//hardcoreyouth.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ We give users options wherever necessary and practical. Such choices include: Op
 
 YOUR CONSENT By using this site, you consent to the collection and use of this information by Hard C.O.R.E. Youth. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-© 2002 Hard C.O.R.E Youth Ministries | All Rights Reserved | [Privacy Policy](https://web.archive.org/web/20020625162854id_/http%3A//www.hardcoreyouth.com/privacy.asp) | [Terms of Use](https://web.archive.org/web/20020625162854id_/http%3A//www.hardcoreyouth.com/usepolicy.asp)
+© 2002 Hard C.O.R.E Youth Ministries | All Rights Reserved | [Privacy Policy](https://web.archive.org/web/20040607202508id_/http%3A//hardcoreyouth.com/privacy.asp) | [Terms of Use](https://web.archive.org/web/20040607202508id_/http%3A//hardcoreyouth.com/usepolicy.asp)
 
 |   
 ---|---
