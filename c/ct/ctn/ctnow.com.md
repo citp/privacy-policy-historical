@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctnow.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601103948id_/http%3A//www.ctnow.com/about/hc-privacy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctnow.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207171331id_/http%3A//www.ctnow.com/about/hc-privacy.story) for the most accurate reproduction.*
 
 # ctnow.com: ABOUT US
 
@@ -45,7 +45,7 @@ We can be reached by contacting:
 c/o The Hartford Courant   
 285 Broad Street   
 Hartford, CT 06115   
-Email: [comments@ctnow.com](mailto:comments@ctnow.com)**
+Email: [comment@ctnow.com](mailto:comment@ctnow.com)**
 
 Changes to this policy.
 
