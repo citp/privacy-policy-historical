@@ -1,0 +1,254 @@
+<!--The following is the downloaded HTML source of the quickflix.com.au privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602210903id_/http%3A//www.quickflix.com.au/privacy_policy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Quickflix...the smart way to rent DVD's</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="fontmain.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!-- TextRollover-1 -->
+a:link { color:#CCCCCC; text-decoration:none}
+a:visited { color:#CCCCCC; text-decoration:none}
+a:hover { color:#CCFF00; text-decoration:none; cursor:hand}
+a:active { color:#CCCCCC; text-decoration:none}
+</style>
+</head>
+
+<body bgcolor="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#666666">
+  <tbody><tr> 
+    <td valign="top" bgcolor="#666666"> 
+      <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr bgcolor="#333333"> 
+          <td width="402" height="100" valign="bottom" background="images2/back1.gif"><img src="images2/logo.gif" width="354" height="89"></td>
+          <td height="100" valign="bottom" background="images2/back1.gif"> 
+            <div align="right"><img src="images2/tag.gif" width="259" height="31"></div></td>
+        </tr>
+        <tr> 
+          <td height="1" colspan="2" background="images2/line.gif" bgcolor="#999999"><img src="images2/1x1pix_trans.gif" width="1" height="1"></td>
+        </tr>
+        <tr> 
+          <td height="126" colspan="2" background="images2/main_image.jpg" bgcolor="#CCCCCC"><img src="images2/space.gif" width="1" height="126"></td>
+        </tr>
+        <tr> 
+          <td height="1" colspan="2" bgcolor="#999999"><img src="images/1x1pix_trans.gif" width="1" height="1"></td>
+        </tr>
+        <tr valign="top"> 
+          <td height="30" colspan="2" bgcolor="#333333"> <table width="100%" border="0" cellpadding="0" cellspacing="0" background="images2/line2.gif">
+              <tbody><tr> 
+                <td height="30" valign="top"><img src="images2/tag2.gif" width="500" height="29"></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr valign="top" bgcolor="#666666"> 
+          <td height="100%" colspan="2"> 
+            <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr valign="top"> 
+                <td width="22"> <table width="22" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td valign="top">&nbsp;</td>
+                    </tr>
+                    <tr> 
+                      <td><img src="images2/bnr_subscribe.gif" width="153" height="22"></td>
+                    </tr>
+                    <tr> 
+                      <td><table width="90%" align="right" cellpadding="4" cellspacing="2">
+                          <tbody><tr> 
+                            <td valign="top" class="fontbold">Be notified<br> 
+                              <span class="font">Enter your email address<br>
+                              and be notified of our <br>
+                              launch date:</span></td>
+                          </tr>
+                          <tr> 
+                            <td valign="top" class="fontbold"> <script language="JavaScript">
+<!----------------
+// Email Address Validation
+var submitcount=0;
+
+function reset() {
+document.emailform.reset();
+
+}
+
+var reqFields = new parseArray("email");
+var reqFieldsDesc = new parseArray("Your Email Address");
+
+function parseArray() {
+        this.length = parseArray.arguments.length
+        for (var i = 0; i < this.length; i++) {
+           this[i+1] = parseArray.arguments[i]
+           } 
+ }
+function validEmail(email) {
+   invalidChars = " £$%*?!#/:,;"
+ 
+   if (email == "") {      
+    return false
+   }
+   for (i=0; i<invalidChars.length; i++) { 
+    badChar = invalidChars.charAt(i)
+    if (email.indexOf(badChar,0) > -1) {
+     return false
+    }
+   }
+   atPos = email.indexOf("@",1)   
+   if (atPos == -1) {
+    return false
+   }
+   if (email.indexOf("@",atPos+1) != -1) {
+    return false
+   }
+   periodPos = email.indexOf(".",atPos)
+   if (periodPos == -1) {     
+    return false
+   }
+   if (periodPos+3 > email.length) {  
+    return false
+   }
+   return true
+  }
+//start of valid Recipients name  
+function validname(name) {
+   invalidChars = "£$%*?!#/:,;1234567890"
+ 
+   if (recip_name == "") {      
+    return false
+   }
+  for (i=0; i<invalidChars.length; i++) { 
+    badChar = invalidChars.charAt(i)
+    if (name.indexOf(badChar,0) > -1) {
+     return false
+    }
+   }
+   return true
+  } 
+
+// start of valid form  
+function validForm(obj) {
+    var errMsg = '';    
+    var x = 0;
+
+   for (x = 1; reqFields.length >= x ; x++) {
+
+  if ((obj.elements[reqFields[x]].value == '') || (obj.elements[reqFields[x]].value == ' ')) {
+  errMsg = errMsg + '' + reqFieldsDesc[x] + ' is required.\n';
+            }
+    }  
+
+  if (errMsg != '') {
+    errMsg = 'Your Email Notification could not be sent because :\n\n' + errMsg + '\nPlease check you have entered a valid email address';
+    alert(errMsg); 
+    return false;
+  } 
+
+
+//Email Validation Check
+ if (!validEmail(obj.email.value)) {
+    alert("You need to enter a valid Email Address to receive our notification")
+    obj.email.focus()
+    obj.email.select()
+    return false
+   }  
+   if (submitcount == 0)
+      {
+      submitcount++;
+      return true;
+      }
+   else 
+      {
+      alert("This form has already been submitted.");
+      return false;
+      }  
+return true
+}
+
+//------------------------------>
+</script> <table cellspacing="0" cellpadding="0" border="0" align="left">
+                                <tbody>
+                                  <tr> 
+                                    <td width="100" align="CENTER"><table width="95%" border="0" cellpadding="0" cellspacing="2">
+                                        <tbody><tr valign="MIDDLE"> 
+                                          <td height="71" align="LEFT" valign="MIDDLE"> 
+                                            <form action="email_notification.php" method="post" name="emailform" onsubmit="return validForm(this)">
+                                              <table border="0" align="center" cellpadding="1" cellspacing="0">
+                                                <tbody>
+                                                  <tr> 
+                                                    <td><center>
+                                                        <p align="left"> 
+                                                          <input maxlength="100" size="12" name="email">
+                                                        </p>
+                                                        <p align="left"> 
+                                                          <input name="submit" type="submit" value="Subscribe" class="button">
+                                                          <br>
+                                                          <a href="privacy_policy.asp"></a></p>
+                                                      </center></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </form></td>
+                                        </tr>
+                                      </tbody></table></td>
+                                  </tr>
+                                </tbody>
+                              </table></td>
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+                  </tbody></table></td>
+                <td width="1" background="images2/dot2.gif"><img src="images2/1x1pix_trans.gif" width="1" height="1"></td>
+                <td> <img src="images2/1x1pix_trans.gif" width="1" height="1"><img src="images2/1x1pix_trans.gif" width="1" height="1"> 
+                  <table width="100%" cellspacing="0" cellpadding="0">
+                    <tbody><tr> 
+                      <td height="23" valign="bottom"><img src="images2/bnr_privacy.gif" width="145" height="20"></td>
+                    </tr>
+                    <tr> 
+                      <td height="23" valign="top"> 
+                        <table width="60%" align="left" cellpadding="14" cellspacing="2">
+                          <tbody><tr> 
+                            <td valign="top" class="fontbold">Your Privacy Protected<br>
+                              <span class="font">At Quickflix, we think attention 
+                              to our subscribers preferences for products, services 
+                              and information is important to building a fun and 
+                              helpful web experience. This page provides information 
+                              about how we pay attention while respecting the 
+                              privacy and security of our subscribers.</span> 
+                              <p class="font"><span class="fontbold">How we use 
+                                e-mail</span> <br>
+                                We send one e-mail message to confirm your registration, 
+                                and we occasionally use e-mail addresses for promotion 
+                                of sales or other items of interest to our customers. 
+                                Please note that we do not sell or share e-mail 
+                                addresses with other companies. </p>
+                              <p class="font">We encourage you to e-mail us at 
+                                <a href="mailto:customerservice@quickflix.com.au">customerservice@quickflix.com.au</a> 
+                                with your questions or comments. We read every 
+                                e-mail we receive. </p>
+                              <p><span class="fontbold">We do not share information 
+                                with others </span><span class="font"><br>
+                                Quickflix does not share, sell or trade e-mail 
+                                addresses, information collected as part of a 
+                                survey or specific details about you or your household. 
+                                Other than verifying credit card information to 
+                                complete your order, we do not use or release 
+                                any credit card or financial information for any 
+                                purpose. For privacy purposes, all information 
+                                relating to our customers is stored on a highly 
+                                secure server that is not accessible via the Internet. 
+                                </span></p>
+                              <p class="font"><strong><font size="2"><a href="index.html">Back</a> 
+                                </font></strong></p></td>
+                          </tr>
+                        </tbody></table> </td>
+                    </tr>
+                  </tbody></table> </td>
+              </tr>
+            </tbody></table> 
+          </td>
+        </tr>
+      </tbody></table> 
+    </td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
