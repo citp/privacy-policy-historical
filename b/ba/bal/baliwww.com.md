@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213205700id_/http%3A//baliwww.com/pivpol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603125739id_/http%3A//baliwww.com/pivpol.htm) for the most accurate reproduction.*
 
 # Access Bali Online | Privacy Policy
 
