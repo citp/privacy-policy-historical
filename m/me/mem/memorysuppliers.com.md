@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009190348id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307111713id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,9 +47,15 @@ In order to most efficiently serve you, credit card transactions and order fulfi
   
 When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical security means.  
   
-[](http://memorysuppliers.cnetchannel.com/)**Thank you for choosing MemorySuppliers.com!** Our customized [**Memory Configurator**](http://memorysuppliers.cnetchannel.com/) will assist you in finding the right memory for your computer quickly and accurately with guaranteed compatibility. At MemorySuppliers.com, **"[Exceptional service and high quality products meet super low prices.](http://www.memorysuppliers.com/memorysuppliers/custcomm.html)" We truly do work hard everyday to make your upgrading experience as easy and as painless as possible.** We will absolutely make sure of your complete satisfaction with our unconditional 30 day money back guarantee, lifetime warranty, and guaranteed same business day shipping. A sincere and heartfelt thank you to all of our customers! We sincerely appreciate your business!
+[](http://memorysuppliers.cnetchannel.com/)**Thank you for choosing MemorySuppliers.com!** Our customized [**Memory Configurator**](http://memorysuppliers.cnetchannel.com/) will assist you in finding the right memory for your computer quickly and accurately with guaranteed compatibility. At MemorySuppliers.com, **"[Exceptional service and high quality products meet super low prices.](http://www.memorysuppliers.com/memorysuppliers/custcomm.html)" We truly do work hard everyday to make your upgrading experience as easy and as painless as possible.** We will absolutely make sure of your complete satisfaction with our unconditional 30 day money back guarantee, lifetime warranty, and guaranteed same business day shipping. A sincere and heartfelt thank you to all of our customers! We sincerely appreciate your business.
 
- **All government, educational, and business purchase orders are accepted and are granted immediate net 30 credit terms. We also gladly ship to all Military addresses (APO/FPO), Canada, and the rest of the world.**
+|   
+| Memory Suppliers Memory Selector. The Quickest  
+Way to a Memory Upgrade.  
+  
+---|---  
+  
+
 
 * USPS PRIORITY WITH DELIVERY CONFIRMATION/TRACKING SHIPPING COST IS ONLY $4.95 FOR ANY SIZE ORDER OR $10.50 FOR UPS 2ND DAY AIR (UPS GROUND = $5.95). YOUR PURCHASE WILL BE SHIPPED IN A SECURE PACKAGE AND FULLY INSURED. 
 
