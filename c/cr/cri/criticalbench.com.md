@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticalbench.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214540id_/http%3A//www.criticalbench.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticalbench.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119124815id_/http%3A//www.criticalbench.com/privacy.htm) for the most accurate reproduction.*
 
 # CriticalBench.com
 
