@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotrodders.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603035338id_/http%3A//www.hotrodders.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotrodders.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205081210id_/http%3A//www.hotrodders.com/privacy.html) for the most accurate reproduction.*
 
 # Hotrodders -- Privacy Policy
 
-Hotrodderstakes your privacy seriously. Please read the following to learn more about our privacy policy. **What this Privacy Policy Covers**
+Hotrodders takes your privacy seriously. Please read the following to learn more about our privacy policy. **What this Privacy Policy Covers**
 
   * This Privacy Policy covers Hotrodders's treatment of personally identifiable information that Hotrodders collects when you are on the Hotrodders site, and when you use Hotrodders's services. This policy also covers Hotrodders's treatment of any personally identifiable information that Hotrodders's business partners share with Hotrodders.
   * This policy does not apply to the practices of companies that Hotrodders does not own or control, or to people that Hotrodders does not employ or manage.  
