@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevieawards.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004011917id_/http%3A//www.stevieawards.com/pubs/general/72_222_975.CFM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevieawards.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171547id_/http%3A//stevieawards.com/pubs/general/72_222_975.CFM) for the most accurate reproduction.*
 
 # The American Business Awards: The Stevies
 
