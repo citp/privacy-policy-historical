@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204205647id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604030043id_/http%3A//oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Network: Privacy Policy [Jan. 31, 2000]
 
@@ -28,7 +28,7 @@ How to update, correct, or delete your information
 
 ### Information O'Reilly gathers and tracks
 
-O'Reilly collects two kinds of information about users: 1) data that users volunteer by signing up to receive news and product information, entering contests, completing surveys, downloading demo versions of O'Reilly software, or buying directly from us; and 2) aggregated tracking data we collect when users interact with us. 
+O'Reilly collects two kinds of information about users: 1) data that users volunteer by signing up to receive news and product information, entering contests, completing surveys, or buying directly from us; and 2) aggregated tracking data we collect when users interact with us. 
 
 ### Personal information
 
@@ -37,7 +37,6 @@ We use the personal information you provide voluntarily to send information you'
   * When you sign up to receive O'Reilly Network newsletters and/or O'Reilly product and company news at elists.oreilly.com, you must provide your name, email address, and a password. We never sell or rent your email address or other personally identifiable information you provide when subscribing to our elists.
   * When you register for an O'Reilly conference, or sign up for a conference email list, we will send you email announcements and updates about O'Reilly conferences. We send conference brochures to past conference attendees.
   * When you order books directly from us, or request book catalogs, we add you to our snailmail list, and we'll send you catalogs and other marketing pieces.
-  * When you download demo versions of O'Reilly software from software.oreilly.com, we may provide a distributor with your contact information. Our software distributors are restricted from selling or re-using the contact information we share with them. We provide contact information only for software.oreilly.com users who actually download software.
   * When you enter a contest, we may ask for your name, address, and email address so we can administer the contest and notify winners.
 
 
@@ -54,11 +53,15 @@ We share customer information only with affiliated companies (see <http://www.or
 
 We analyze visitors' use of our sites by tracking information such as pageviews, traffic flow, search terms, and click through. We use this information to improve our sites. We also share this anonymous traffic and demographic information in aggregate form with advertisers and other business partners. We do not share any information with advertisers that can identify an individual user. 
 
+We use WebSiteStory's Hitbox, a third party web analytics service to improve our web site performance and user experience. We use this information to improve usability on our sites and to help support our customers online needs. Hitbox does not reveal any personally identifiable information, such as names or email address.
+
+For more information on the Hitbox service and privacy policy, please see their [privacy policy](http://www.websidestory.com/cgi-bin/wss.cgi?privacy&privacy&index) and [privacy FAQ](http://www.websidestory.com/cgi-bin/wss.cgi?privacy&faqs&faqs).
+
 ### Cookies
 
 A cookie is a small data file that we transfer to your computer's hard drive through your web browser when you visit our sites. Cookies enable our systems to recognize your computer, so that we can provide you with personalized information and features. We also use cookies to track user traffic patterns. 
 
-On O'Reilly Network sites, we and some of our advertisers use a third-party ad server to display ads. These ads may contain cookies. The ad server receives these cookies, and we don't have access to them. 
+On our sites, we and some of our advertisers use a third-party ad server to display ads. These ads may contain cookies. The ad server receives these cookies, and we don't have access to them. 
 
 You can set your browser to warn you before accepting cookies or to block cookies. If you block cookies, you may not be able to use certain site features or functions. 
 
@@ -86,9 +89,5 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 |  | 
 
 Sponsored by:
-
-[](http://ad.doubleclick.net/clk;3415514;6477536;m?http://www.macromedia.com/software/coldfusion/special/promotions/)
-
-[](http://conferences.oreilly.com/biocon/)
 
 [](http://www.oreilly.com/catalog/p2presearch/)
