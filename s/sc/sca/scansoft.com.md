@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206060003id_/http%3A//www.scansoft.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604071951id_/http%3A//scansoft.com/help/privacy) for the most accurate reproduction.*
 
 # ScanSoft - Help - Privacy Policy
 
