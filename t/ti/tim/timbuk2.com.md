@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204212257id_/http%3A//www.timbuk2.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606043619id_/http%3A//www.timbuk2.com/tb2/privacy.t2) for the most accurate reproduction.*
 
-# Timbuk2 -- Contact Us
+# Timbuk2 -- Messenger Bags
+
+  
+
 
 **Timbuk2.com Privacy Policy**
 
@@ -56,6 +59,6 @@ Timbuk2.com does not sell products for purchase by children. We sell children's 
 
 **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit Timbuk2.com, your visit and any dispute over privacy is subject to this Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Timbuk2.com, please send us a thorough description to [ecommerce@Timbuk2.com](mailto:ecommerce@Timbuk2.com), and we will try to resolve it. 
+If you choose to visit Timbuk2.com, your visit and any dispute over privacy is subject to this Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Timbuk2.com, please send us a thorough description to [customerservice@Timbuk2.com](mailto:customerservice@timbuk2.com), and we will try to resolve it. 
 
 Our business changes constantly, and our Privacy Policy and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
