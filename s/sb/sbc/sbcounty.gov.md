@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628012957id_/http%3A//www.sbcounty.gov/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605204642id_/http%3A//www.sbcounty.gov/policy/privacy.htm) for the most accurate reproduction.*
 
 # County of San Bernardino Privacy Policy
 
@@ -53,3 +53,6 @@ Information provided on this website is intended to allow the public immediate a
 
 **Contact Information**  
 For questions regarding this Privacy Policy please contact **[webmaster@sbcounty.gov](mailto:webmaster@sbcounty.gov)**
+
+**|[Home](https://web.archive.org/) |**  
+ 
