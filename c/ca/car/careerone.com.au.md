@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205101336id_/http%3A//www.careerone.com.au/privacy/0%2C8521%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603222021id_/http%3A//careerone.com.au/privacy/0%2C8521%2C%2C00.html) for the most accurate reproduction.*
 
 # CareerOne - Privacy Policy
 
