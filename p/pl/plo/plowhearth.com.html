@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plowhearth.com privacy policy that was archived on 2003-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031209163900id_/http%3A//www.plowhearth.com/security/index.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plowhearth.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603193929id_/http%3A//www.plowhearth.com/security/index.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Plow &amp; Hearth </title>
@@ -17,11 +17,18 @@
 <!--
 function CheckVal()
 {
-	if(document.form1.search_value.value.length == 0) 
+	if(document.frmSearch.search_value.value.length == 0) 
 	{
 		alert('Please input Keyword or Item#')
 		return false;
 	}
+}
+
+function win1() {
+	var X1, Y1;
+	X1 = (window.screen.width - 800)/2;
+	Y1 = (window.screen.height - 600)/2;
+	window.open('../cushion_1.asp','CushionFinder','screenX='+ X1 + ',screenY='+ Y1 +',left='+ X1 +',top='+Y1+',width=620,height=535,scrollbars=yes,resizable=1,menubar=no,toolbar=no')
 }
 //-->
 </script>
@@ -66,7 +73,7 @@ function CheckVal()
 		<!-- BEGIN: search area -->
 		<div style="padding-left:10px;">
 		<table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-			<td><form id="form1" name="form1" action="../productform.asp" method="post" onsubmit="return CheckVal()"></form></td>
+			<td><form id="frmSearch" name="frmSearch" action="../productform.asp" method="post" onsubmit="return CheckVal()"></form></td>
 			<td width="40"><div><img src="/plow_assets/images/head.prod-finder.txt.gif" width="32" height="22" alt="product finder" border="0" hspace="4"></div></td>
 			<td><input type="text" size="6" style="width:100px;" name="search_value"></td>
 			<td width="34"><div align="center"><input type="image" name="submit" id="submit" src="/plow_assets/images/but.go.gif" width="21" height="21" border="0"></div></td>
@@ -315,7 +322,7 @@ We may disclose any information you provide to Plow &amp; Hearth when we believe
 		<a href="../service/cust-serv.tour.01.asp" onclick="openTour();return false;">Site Tour</a> |
 		<a href="../security/termsofuse.asp">Terms of Use</a>
 		</div>
-		<div class="footerCopyright"><img src="/plow_assets/images/footer.cc.gif" width="117" height="18" alt="" border="0"> &nbsp; Copyright © 2003 Plow &amp; Hearth, Inc.</div>
+		<div class="footerCopyright"><img src="/plow_assets/images/footer.cc.gif" width="117" height="18" alt="" border="0">  &nbsp; Copyright © 2004 Plow &amp; Hearth, Inc.</div>
 		</div>
 		<!-- END: footer left -->
 	</td>
@@ -332,7 +339,9 @@ We may disclose any information you provide to Plow &amp; Hearth when we believe
 		<a href="http://www.plowhearth.com/security/index.asp">Privacy &amp; Security</a> | 
 		<a href="http://www.plowhearth.com/basket.asp">My Basket</a>
 		</div>
+		<!-- 
 		<div><a href="http://www.bizrate.com/ratings_guide/report.xpml?mid=17462"><img src="/plow_assets/images/footer.bizrate.gif" width="77" height="33" alt="" border="0"></a></div>
+         -->
 		</div>
 		<!-- END: footer right -->
 	</td>
