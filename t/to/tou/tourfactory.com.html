@@ -1,310 +1,93 @@
-<!--The following is the downloaded HTML source of the tourfactory.com privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208213325id_/http%3A//www.tourfactory.com/Company/RealtyPrivacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tourfactory.com privacy policy that was archived on 2003-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622130356id_/http%3A//www.tourfactory.com/Company/RealtyPrivacy.asp) for the most accurate reproduction.-->
 
-<html><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="description" content="Virtual Tour System 2.0 lets you quickly build your own stunning 360 panoramic virtual home tours with any digital camera, or let our experienced staff build your tours for you!">
-	<meta name="keywords" content="virtual tours,real estate virtual home tours,virtual tour provider,home debut,tour factory,homedebut,beautiful homes,360 panoramic,Spokane real estate,photos of homes for sale">
-	<title>Virtual Tour Provider - TourFactory.com - Create the Ultimate Real Estate Virtual Tours!</title>
-	<link rel="stylesheet" type="text/css" href="/inc/cssMainStyle.css">
-	<script language="JavaScript">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="description" content="Virtual Tour System 2.0 lets you quickly build your own stunning 360 panoramic virtual home tours with any digital camera, or let our experienced staff build your tours for you!"><meta name="keywords" content="virtual tours,real estate virtual home tours,virtual tour provider,home debut,tour factory,homedebut,beautiful homes,360 panoramic,Spokane real estate,photos of homes for sale"><title>Virtual Tour Provider - TourFactory.com - Create the Ultimate Real Estate Virtual Tours!</title><link rel="stylesheet" type="text/css" href="/inc/cssMainStyle.css"> <script language="JavaScript">
 	<!--
 	function launchPopup(sFileName)
 	{
 		window.open(sFileName, '', 'width=440,height=280,left=' + Math.floor((screen.width-440)/2) + ',top=' + Math.floor((screen.height-280)*.4));
 	}
 	
-	
-		// necessary code to enable [Enter] to submit the login form in Netscape
-		function enterSubmit(e) { if(e.which==13) { if((document.login.email.value!='') && (document.login.password.value!='')) { document.login.sJSCheck.value='1'; document.login.submit(); } return false; } }
-		document.captureEvents(Event.KEYPRESS);
-	    document.onkeypress = enterSubmit;
+		var nFlashVersion = 0;
+		var fLoadTimeCalcStarted = false;
+		function CalcLoadTime()
+		{
+			fLoadTimeCalcStarted = true;
+			nStartTime = Number(new Date());
+			document.images.imgLoadTimeCalc.src = '/LoadTimeCalc.asp';
+		}
+		function LoadTimeDone(t)
+		{
+			if(fLoadTimeCalcStarted)
+			{
+				nLoadTime = Number(new Date()) - nStartTime;
+				nRate = Math.floor(20001 / nLoadTime)
+				document.login.nRate.value = nRate;
+				window.status = 'Approx. Download Rate: ' + nRate + ' K/Sec... Flash Version: ' + nFlashVersion;
+			}
+		}
+		function toggleRememberLogin()
+		{
+			document.login.sRemember.value=((document.login.sRemember.value=='')?'true':'')
+			document.images.imgRememberLogin.src='/art/RememberLogin'+((document.login.sRemember.value=='')?'0':'1')+'.gif';
+		}
+		function greyRememberLogin()
+		{
+			document.images.imgRememberLogin.src='/art/RememberLogin'+((document.login.sRemember.value=='')?'0':'1')+'g.gif';
+		}
 		
+			// necessary code to enable [Enter] to submit the login form in Netscape
+			function enterSubmit(e) { if(e.which==13) { if((document.login.email.value!='') && (document.login.password.value!='')) { document.login.sJSCheck.value='1'; document.login.submit(); } return false; } }
+			document.captureEvents(Event.KEYPRESS);
+		    document.onkeypress = enterSubmit;
+			
 	// -->
-	</script>
-</head>
-<body bgcolor="#FFF8DF" background="/art/stripe.gif" link="#000080" alink="#000080" vlink="#000080" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+	</script> </head><body bgcolor="#FFF8DF" background="/art/stripe.gif" link="#000080" alink="#000080" vlink="#000080" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="CalcLoadTime();"><table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%"><tbody><tr valign="top"><td width="1"><table border="0" cellspacing="0" cellpadding="0" width="766"><tbody><tr><td bgcolor="#000000"><img src="/art/pixel.gif" width="206" height="1"></td><td bgcolor="#000000"><img src="/art/pixel.gif" width="560" height="1"></td></tr><tr valign="top"><td background="/art/head3.gif" colspan="2"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr valign="top"><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td bgcolor="#000000"><img src="/art/blackdot.gif" width="1" height="116"></td>  <td><a href="/default.asp"><img src="/art/head1.jpg" border="0" width="99" height="116" alt="Real Estate Virtual Tour Provider"></a></td><td><a href="/default.asp"><img src="/art/head2.gif" border="0" width="358" height="78" alt="Real Estate Virtual Tour Provider"></a></td>  </tr></tbody></table></td><td align="right" valign="top" background="/art/head3.gif">  <table border="0" cellspacing="0" cellpadding="0" width="210"><tbody><tr><td background="/art/head3.gif"><img src="/art/pixel.gif" width="1" height="9"><br><img src="/art/box1_eu.gif" width="206" height="21"><br></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" width="206"><tbody><tr><td align="center" background="/art/box2.gif"><form action="/Login/Login.asp" name="login" method="post" onsubmit="this.sJSCheck.value='1';this.nFlash.value=nFlashVersion"><input type="hidden" name="sJSCheck" value="0"><input type="hidden" name="nRate" value=""><input type="hidden" name="nFlash" value=""><input type="hidden" name="sPageForward" value=""><input type="hidden" name="sRemember" value=""><img src="/LoadTimeCalc.asp" name="imgLoadTimeCalc" width="1" height="1" onload="LoadTimeDone(this);"><br><img src="/art/pixel.gif" width="1" height="5"><br><table border="0" background="/art/pixel.gif" cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="3"><img src="/art/emailpassword.gif" width="56" height="34"></td><td colspan="2"><input type="text" name="email" value="" size="10"></td><td rowspan="3">&nbsp;</td></tr><tr><td><img src="/art/pixel.gif" width="1" height="1"></td></tr><tr><td><input type="password" name="password" value="" size="6"></td><td align="right"><input type="image" src="/art/go.gif" border="0" width="32" height="19"></td></tr></tbody></table></form></td><td background="/art/pixel.gif" rowspan="2"><img src="/art/pixel.gif" width="4" height="1"></td></tr><tr><td><a href="#" onclick="toggleRememberLogin(); return false;" ondblclick="toggleRememberLogin(); return false;" onmousedown="greyRememberLogin();"><img src="/art/RememberLogin0.gif" name="imgRememberLogin" border="0" width="206" height="24"></a><br><a href="/password.asp"><img src="/art/NeedPassword.gif" border="0" width="206" height="14"></a><br></td></tr><tr><td></td></tr></tbody></table>  </td></tr></tbody></table></td><td background="/art/head3.gif"><img src="/art/pixel.gif" width="1" height="1"><br></td></tr><tr valign="top"><td height="100%" valign="top">  <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="3"><img src="/art/pixel.gif" width="18" height="1"></td><td><img src="/art/box1_tf.gif"></td></tr><tr><td align="center" background="/art/box4.gif"><img src="/art/pixel.gif" width="1" height="8"><br><table border="0" background="/art/pixel.gif" cellspacing="2" cellpadding="0"><tbody><tr><td colspan="2"><img src="/art/pixel.gif" width="175" height="1"></td></tr><tr><td><img src="/art/pixel.gif" width="1" height="14"><img src="/art/bullet.gif" width="15" height="11"></td><td><font face="Arial Narrow, Arial" size="3" style="font-size:12pt"><b><a href="/Default.asp">Home Page</a><br></b></font></td></tr><tr><td><img src="/art/pixel.gif" width="1" height="14"><img src="/art/bullet.gif" width="15" height="11"></td><td><font face="Arial Narrow, Arial" size="3" style="font-size:12pt"><b><a href="/Company/Pricing.asp">Virtual Tours</a><br></b></font></td></tr><tr><td>&nbsp;</td><td><font face="Verdana, Arial" size="1"><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Pricing.asp"><font color="#4D4537">Pricing</font></a><br><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Distribution.asp"><font color="#4D4537">Distribution</font></a><br><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/PersonalBranding.asp"><font color="#4D4537">Personal Branding</font></a><br><!-- <img src="/art/bullet.gif" width=15 height=11><a href="/Company/AgentAdvantage.asp"><font color=#4D4537>Agent Advantage</font></a><br> --><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Samples.asp"><font color="#4D4537">Samples</font></a><br><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Testimonials.asp"><font color="#4D4537">Tales of Success</font></a><br></font></td></tr><tr><td><img src="/art/pixel.gif" width="1" height="14"><img src="/art/bullet.gif" width="15" height="11"></td><td><font face="Arial Narrow, Arial" size="3" style="font-size:12pt"><b><a href="/Company/ProductsServices.asp">Additional Products</a><br></b></font></td></tr><!-- <tr><td>&nbsp;</td><td><font face="Verdana, Arial" size=1><img src="/art/bullet.gif" width=15 height=11><a href="/Company/EBucks.asp"><font color=#4D4537>Products & Services</font></a><br><img src="/art/bullet.gif" width=15 height=11><a href="/Company/EBucks.asp"><font color=#4D4537>E-Cash</font></a><br><img src="/art/bullet.gif" width=15 height=11><a href="/Company/WebPages.asp"><font color=#4D4537>Web Pages</font></a><br><img src="/art/bullet.gif" width=15 height=11><a href="/Company/ListingManagement.asp"><font color=#4D4537>Listing Management</font></a><br></font></td></tr>--><tr><td><img src="/art/pixel.gif" width="1" height="14"><img src="/art/bullet.gif" width="15" height="11"></td><td><font face="Arial Narrow, Arial" size="3" style="font-size:12pt"><b><a href="/Company/SignUp.asp">Get Started</a><br></b></font></td></tr><tr><td>&nbsp;</td><td><font face="Verdana, Arial" size="1"><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/SignUp.asp"><font color="#4D4537">Sign Up</font></a><br><img src="/art/bullet.gif" width="15" height="11"><a href="https://www.tourfactory.com/Company/Order.asp"><font color="#4D4537">Order Full-Service</font></a><br></font></td></tr><!-- <tr><td><img src="/art/pixel.gif" width=1 height=14><img src="/art/bullet.gif" width=15 height=11></td><td><font face="Arial Narrow, Arial" size=3 style="font-size:12pt"><b><a href="/Default.asp">Resources</a><br></b></font></td></tr><tr><td>&nbsp;</td><td><font face="Verdana, Arial" size=1> PUSHED UNTIL FORUMS GET IMPLIMENTED <img src="/art/bullet.gif" width=15 height=11><a href=""><font color=#4D4537>Photography</font></a><br><img src="/art/bullet.gif" width=15 height=11><a href=""><font color=#4D4537>Tour Building</font></a><br><img src="/art/bullet.gif" width=15 height=11><a href="/Company/RecommendedTools.asp"><font color=#4D4537>Recommended Tools</font></a><br><img src="/art/bullet.gif" width=15 height=11><a href="/Company/Marketing.asp"><font color=#4D4537>Marketing Ideas</font></a><br> --><tr><td><img src="/art/pixel.gif" width="1" height="14"><img src="/art/bullet_sel.gif" width="15" height="11"></td><td><font face="Arial Narrow, Arial" size="3" style="font-size:12pt"><b><a href="/Company/ContactUs.asp">Company</a><br></b></font></td></tr><tr><td>&nbsp;</td><td><font face="Verdana, Arial" size="1"><!-- <img src="/art/bullet.gif" width=15 height=11><a href="/Company/CorporateNews.asp"><font color=#4D4537>Corporate News</font></a><br> --><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/ContactUs.asp"><font color="#4D4537">Contact Us</font></a><br><!-- <img src="/art/bullet.gif" width=15 height=11><a href="/Company/AboutUs.asp"><font color=#4D4537>About Us</font></a><br> --><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Guarantee.asp"><font color="#4D4537">Guarantee</font></a><br><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/JoinTeam.asp"><font color="#4D4537">Join our Team</font></a><br><img src="/art/bullet_sel.gif" width="15" height="11"><a href="/Company/RealtyPrivacy.asp"><font color="#4D4537">Privacy Statement</font></a><br><img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Kodak.asp"><font color="#4D4537">KODAK PF Program</font></a><br></font></td></tr><tr><td>&nbsp;</td><td><font face="Verdana, Arial" size="1"><img src="/art/pixel.gif" width="1" height="12"><br><b>Rapid Tour Lookup</b><br><img src="/art/bullet.gif" width="15" height="11">Virtual Tour Number<br><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><form action="http://tours.tourfactory.com/tour.asp" name="repid" method="get"><input type="hidden" name="home" value="www.tourfactory.com"><input type="hidden" name="slink" value="0"></form></td><td><img src="/art/pixel.gif" width="15" height="1"></td><td><input type="text" name="t" size="7" maxlength="7"></td><td><img src="/art/pixel.gif" width="4" height="1"></td><td><input type="image" src="/art/go.gif" border="0" width="32" height="19"></td><td></td></tr></tbody></table></font></td></tr></tbody></table><img src="/art/pixel.gif" width="1" height="8"><br></td></tr><tr><td><img src="/art/box3e.gif"></td></tr></tbody></table>  </td><td> <table border="0" cellpadding="3" cellspacing="0" width="580"><tbody><tr><td><font size="4">Privacy Statement</font></td></tr><tr><td>This privacy statement discloses the privacy practices for www.homedebut.com and www.tourfactory.com. <br><br>Home Debut's mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of: <br><br><ul><li>What personally identifiable information of yours or third party personally identification is collected from you through the web site </li><li>The organization collecting the information </li><li>How the information is used </li><li>With whom the information may be shared </li><li>What choices are available to you regarding collection, use and distribution of the information </li><li>The kind of security procedures that are in place to protect the loss,misuse or alteration of information under Home Debut, Inc. control </li><li>How you can correct any inaccuracies in the information. </li></ul><br><br>If you feel that this company is not abiding by its posted privacy policy, you should first contact Cathy Gay, Director of Customer Services. by cathy@homedebut.com, 1.888.458.3943 505 W Riverside Ave Ste 300, Spokane WA 99201.</td></tr><tr><td><b>Information Collection and Use</b><br><br>Home Debut, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Home Debut, Inc. collects information from our users at several different points on our website.<br><br><b>Registration</b><br><br>In order to use tourfactory.com a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site. <br><br><b>Order</b><br><br>We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.<br><br><b>Cookies</b><br><br>A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site on tourfactory. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.<br><br><b>Log Files</b><br><br>We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.<br><br><b>Sharing</b><br><br>We will share aggregated demographic information with our partners. This is not linked to any personal information that can identify any individual person.<br><br>We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.<br><br>We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.<br><br>These parties are not allowed to use personally identifiable information except for the purpose of providing these services.<br><br><b>Links</b><br><br>This web site contains links to other sites. Please be aware that we Home Debut, Inc. are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.<br><br><b>News Updates and Special Promotions</b><br><br>If a user wishes to subscribe to our newsletter and Special Promotions, we ask for contact information such as name and email address.<br><br><b>Surveys &amp; Contests</b><br><br>From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.<br><br><b>Tell-A-Friend</b><br><br>If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Home Debut, Inc. will automatically send the friend a one-time email inviting them to visit the site. Home Debut, Inc. stores this information for the sole purpose of sending this one-time email. The friend may contact Home Debut, Inc. at www.homedebut.com or www.tourfactory.com to request the removal of this information from their database.<br><br><b>Security</b><br><br>This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.<br><br> When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. <br><br>While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounting personal or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.<br><br>If you have any questions about the security at our website, you can send an email to <a href="mailto:support@tourfactory.com">support@tourfactory.com</a>.<br><br><b>Special Offers</b><br><br>We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter.<br><br> Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.<br><br><b>Site and Service Updates</b><br><br>We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.<br><br><b>Correction/Updating Personal Information:</b><br><br>If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done within your personal account in Tourfactory.com or by emailing our Customer Support. 1.888.458.3943 Cathy Gay, Director of Customer Service.<br><br><b>Choice/Opt-out</b><br><br>Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by the email at <a href="mailto:support@homedebut.com">support@homedebut.com</a> or <a href="mailto:support@homedebut.com">support@tourfactory.com</a><br><br>Users of our site are notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.<br><br><b>Notification of Changes</b><br><br>If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.</td></tr></tbody></table> </td></tr></tbody></table></td><td width="100%"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#000000"><img src="/art/pixel.gif" width="1" height="1"></td></tr><tr><td background="/art/head3.gif"><img src="/art/pixel.gif" width="1" height="40"><br></td></tr></tbody></table></td></tr><tr><td align="center" valign="bottom"><br><font face="Verdana, Arial, Helvetica, Geneva" size="1"><b>TourFactory.com. &nbsp;<img src="/art/bluebullet.gif" align="absmiddle" width="7" height="7">&nbsp; Spokane, WA &nbsp;<img src="/art/bluebullet.gif" align="absmiddle" width="7" height="7">&nbsp; Phone (888) 458-3943 &nbsp;<img src="/art/bluebullet.gif" align="absmiddle" width="7" height="7">&nbsp; <a href="mailto:coaching@tourfactory.com" style="text-decoration:none;">coaching@tourfactory.com</a></b><br><img src="/art/blackdot.gif" width="540" height="1"><img src="/art/pixel.gif" width="1" height="3"><br><font size="1">Copyright © 1996-2002 Home Debut® &nbsp; All Rights Reserved.</font><br></font><br> </td></tr></tbody></table> <script language="Javascript">
+<!--
+	var nFlashVersion = 0;
+	MSDetect = "false";
+	if (navigator.plugins && navigator.plugins.length)
+	{
+		x = navigator.plugins["Shockwave Flash"];
+		if (x)
+		{
+			if (x.description)
+			{
+				y = x.description;
+				nFlashVersion = y.charAt(y.indexOf('.')-1);
+			}
+		}
+		if (navigator.plugins["Shockwave Flash 2.0"])
+		{
+			nFlashVersion = 2;
+		}
+	}
+	else 
+	{
+		if (navigator.mimeTypes && navigator.mimeTypes.length)
+		{
+			x = navigator.mimeTypes['application/x-shockwave-flash'];
+			if (x && x.enabledPlugin)
+			{
+				nFlashVersion = -1;
+			}
+		}
+		else
+		{
+			MSDetect = "true";
+		}
+	}
+// -->
+</script> <script language="VBScript">
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
-	<tbody><tr valign="top">
-		<td width="1">
-			<table border="0" cellspacing="0" cellpadding="0" width="766">
-				<tbody><tr>
-					<td bgcolor="#000000"><img src="/art/pixel.gif" width="206" height="1"></td>
-					<td bgcolor="#000000"><img src="/art/pixel.gif" width="560" height="1"></td>
-				</tr>
-				<tr valign="top">
-					<td background="/art/head3.gif" colspan="2">
-						<table border="0" cellspacing="0" cellpadding="0" width="100%">
-							<tbody><tr valign="top">
-								<td>
-									<table border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr valign="top">
-											<td bgcolor="#000000"><img src="/art/blackdot.gif" width="1" height="116"></td>
-											
-												<td><a href="/default.asp"><img src="/art/head1.jpg" border="0" width="99" height="116" alt="Real Estate Virtual Tour Provider"></a></td>
-												<td><a href="/default.asp"><img src="/art/head2.gif" border="0" width="358" height="78" alt="Real Estate Virtual Tour Provider"></a></td>
-												
-										</tr>
-									</tbody></table>
-								</td>
-								<td align="right" valign="top" background="/art/head3.gif">
-									
-										<table border="0" cellspacing="0" cellpadding="0" width="210">
-											<tbody><tr>
-												<td background="/art/head3.gif">
-													<img src="/art/pixel.gif" width="1" height="9"><br>
-													<img src="/art/box1_eu.gif" width="206" height="21"><br>
-												</td>
-											</tr>
-										</tbody></table>
-										<table border="0" cellspacing="0" cellpadding="0" width="206">
-											<tbody><tr>
-												<td align="center" background="/art/box2.gif">
-													<form action="/login.asp" name="login" method="post" onsubmit="this.sJSCheck.value='1';">
-													<input type="hidden" name="sJSCheck" value="0">
-													<img src="/art/pixel.gif" width="1" height="6"><br>
-													<table border="0" background="/art/pixel.gif" cellspacing="0" cellpadding="0">
-														<tbody><tr>
-															<td rowspan="3"><img src="/art/emailpassword.gif" width="56" height="34"></td>
-															<td colspan="2"><input type="text" name="email" value="" size="10"></td>
-															<td rowspan="3">&nbsp;</td>
-														</tr>
-														<tr><td><img src="/art/pixel.gif" width="1" height="3"></td></tr>
-														<tr>
-															<td><input type="password" name="password" value="" size="6"></td>
-															<td align="right"><input type="image" src="/art/go.gif" border="0" width="32" height="19"></td>
-														</tr>
-													</tbody></table>
-												</form></td>
-												<td background="/art/pixel.gif" rowspan="2"><img src="/art/pixel.gif" width="4" height="1"></td>
-											</tr>
-											<tr><td><img src="/art/box3.gif"></td></tr>
-											<tr>
-												<td align="center" background="">
-													<a href="http://www.tourfactory.com/password.asp">Forget your password?</a><br>
-												</td>
-											</tr>
-											<tr>
-												<td>
-														
-												</td>
-											</tr>
-										</tbody></table>
-									
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-					<td background="/art/head3.gif">
-						<img src="/art/pixel.gif" width="1" height="1"><br>
-					</td>
-				</tr>
-				<tr valign="top">
-					<td height="100%" valign="top">
-						
-							<table border="0" cellspacing="0" cellpadding="0">
-								<tbody><tr>
-									<td rowspan="3"><img src="/art/pixel.gif" width="18" height="1"></td>
-									<td><img src="/art/box1_tf.gif"></td>
-								</tr>
-								<tr>
-									<td align="center" background="/art/box4.gif">
-									<img src="/art/pixel.gif" width="1" height="8"><br>
-										<table border="0" background="/art/pixel.gif" cellspacing="2" cellpadding="0">
-											<tbody><tr>
-												<td colspan="2"><img src="/art/pixel.gif" width="175" height="1"></td>
-											</tr>
-											<tr>
-												<td><img src="/art/pixel.gif" width="1" height="14"><img src="/art/bullet.gif" width="15" height="11"></td>
-												<td><font face="Arial Narrow, Arial" size="3" style="font-size:12pt"><b><a href="/Default.asp">Home Page</a><br></b></font></td>
-											</tr>
-											<tr>
-												<td><img src="/art/pixel.gif" width="1" height="14"><img src="/art/bullet.gif" width="15" height="11"></td>
-												<td><font face="Arial Narrow, Arial" size="3" style="font-size:12pt"><b><a href="/Company/Pricing.asp">Virtual Tours</a><br></b></font></td>
-											</tr>
-											<tr>
-												<td>&nbsp;</td>
-												<td>
-													<font face="Verdana, Arial" size="1">
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Pricing.asp"><font color="#4D4537">Pricing</font></a><br>
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Distribution.asp"><font color="#4D4537">Distribution</font></a><br> 
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/PersonalBranding.asp"><font color="#4D4537">Personal Branding</font></a><br>
-<!--													<img src="/art/bullet.gif" width=15 height=11><a href="/Company/AgentAdvantage.asp"><font color=#4D4537>Agent Advantage</font></a><br> -->
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Samples.asp"><font color="#4D4537">Samples</font></a><br>
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Testimonials.asp"><font color="#4D4537">Tales of Success</font></a><br>
-													</font>
-												</td>
-											</tr>
-<!--										<tr>
-												<td><img src="/art/pixel.gif" width=1 height=14><img src="/art/bullet.gif" width=15 height=11></td>
-												<td><font face="Arial Narrow, Arial" size=3 style="font-size:12pt"><b><a href="/Default.asp">Additional Services</a><br></b></font></td>
-											</tr>
-											<tr>
-												<td>&nbsp;</td>
-												<td>
-													<font face="Verdana, Arial" size=1>
-														<img src="/art/bullet.gif" width=15 height=11><a href="/Company/EBucks.asp"><font color=#4D4537>E-Cash</font></a><br>
-														<img src="/art/bullet.gif" width=15 height=11><a href="/Company/WebPages.asp"><font color=#4D4537>Web Pages</font></a><br>
-														<img src="/art/bullet.gif" width=15 height=11><a href="/Company/ListingManagement.asp"><font color=#4D4537>Listing Management</font></a><br> -->
-													
-												
-											
-											<tr>
-												<td><img src="/art/pixel.gif" width="1" height="14"><img src="/art/bullet.gif" width="15" height="11"></td>
-												<td><font face="Arial Narrow, Arial" size="3" style="font-size:12pt"><b><a href="/Company/SignUp.asp">Get Started</a><br></b></font></td>
-											</tr>
-											<tr>
-												<td>&nbsp;</td>
-												<td>
-													<font face="Verdana, Arial" size="1">
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/SignUp.asp"><font color="#4D4537">Sign Up</font></a><br>
-														<img src="/art/bullet.gif" width="15" height="11"><a href="https://www.debut.net/Company/Order.asp"><font color="#4D4537">Order Full-Service</font></a><br>
-													</font>
-												</td>
-											</tr>
-<!--										<tr>
-												<td><img src="/art/pixel.gif" width=1 height=14><img src="/art/bullet.gif" width=15 height=11></td>
-												<td><font face="Arial Narrow, Arial" size=3 style="font-size:12pt"><b><a href="/Default.asp">Resources</a><br></b></font></td>
-											</tr>
-											<tr>
-												<td>&nbsp;</td>
-												<td>
-													<font face="Verdana, Arial" size=1>
-														PUSHED UNTIL FORUMS GET IMPLIMENTED
-														<img src="/art/bullet.gif" width=15 height=11><a href=""><font color=#4D4537>Photography</font></a><br>
-														<img src="/art/bullet.gif" width=15 height=11><a href=""><font color=#4D4537>Tour Building</font></a><br>
-														<img src="/art/bullet.gif" width=15 height=11><a href="/Company/RecommendedTools.asp"><font color=#4D4537>Recommended Tools</font></a><br>
-														<img src="/art/bullet.gif" width=15 height=11><a href="/Company/Marketing.asp"><font color=#4D4537>Marketing Ideas</font></a><br> -->
-													
-												
-											
-											<tr>
-												<td><img src="/art/pixel.gif" width="1" height="14"><img src="/art/bullet_sel.gif" width="15" height="11"></td>
-												<td><font face="Arial Narrow, Arial" size="3" style="font-size:12pt"><b><a href="/Company/ContactUs.asp">Company</a><br></b></font></td>
-											</tr>
-											<tr>
-												<td>&nbsp;</td>
-												<td>
-													<font face="Verdana, Arial" size="1">
-<!--													<img src="/art/bullet.gif" width=15 height=11><a href="/Company/CorporateNews.asp"><font color=#4D4537>Corporate News</font></a><br> -->
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/ContactUs.asp"><font color="#4D4537">Contact Us</font></a><br>
-<!--													<img src="/art/bullet.gif" width=15 height=11><a href="/Company/AboutUs.asp"><font color=#4D4537>About Us</font></a><br> -->
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Guarantee.asp"><font color="#4D4537">Guarantee</font></a><br>
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/JoinTeam.asp"><font color="#4D4537">Join our Team</font></a><br>
-														<img src="/art/bullet_sel.gif" width="15" height="11"><a href="/Company/RealtyPrivacy.asp"><font color="#4D4537">Privacy Statement</font></a><br>
-														<img src="/art/bullet.gif" width="15" height="11"><a href="/Company/Kodak.asp"><font color="#4D4537">KODAK PF Program</font></a><br>
-													</font>
-												</td>
-											</tr>
-											<tr>
-												<td>&nbsp;</td>
-												<td>
-													<font face="Verdana, Arial" size="1">
-														<img src="/art/pixel.gif" width="1" height="12"><br>
-														<b>Rapid Tour Lookup</b><br>
-														<img src="/art/bullet.gif" width="15" height="11">Virtual Tour Number<br>
-														<table border="0" cellspacing="0" cellpadding="0">
-															<tbody><tr>
-																<td>
-																	<form action="http://tours.tourfactory.com/tour.asp" name="repid" method="get">
-																	<input type="hidden" name="home" value="www.tourfactory.com">
-																	<input type="hidden" name="slink" value="0">
-																</form></td>
-																<td><img src="/art/pixel.gif" width="15" height="1"></td>
-																<td><input type="text" name="t" size="7" maxlength="7"></td>
-																<td><img src="/art/pixel.gif" width="4" height="1"></td>
-																<td><input type="image" src="/art/go.gif" border="0" width="32" height="19"></td>
-																<td></td>
-															</tr>
-														</tbody></table>
-													</font>
-				  								</td>
-											</tr>
-										</tbody></table>
-										<img src="/art/pixel.gif" width="1" height="8"><br>
-									</td>
-								</tr>
-								<tr><td><img src="/art/box3e.gif"></td></tr>
-							</tbody></table>
-							
-					</td>
-					<td>
-						
-<table border="0" cellpadding="3" cellspacing="0" width="580">
-  <tbody><tr>
-  	<td><font size="4">Privacy Statement</font></td>
-  </tr>
-  <tr>
-    <td>This privacy statement discloses the privacy practices for www.homedebut.com and www.tourfactory.com.
-      <br><br>Home Debut's mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of:
-      <br><br>
-       <ul>
-        <li>What personally identifiable information of yours or third party personally identification is collected from you through the web site
-        </li><li>The organization collecting the information
-        </li><li>How the information is used
-        </li><li>With whom the information may be shared
-        </li><li>What choices are available to you regarding collection, use and distribution of the information
-        </li><li>The kind of security procedures that are in place to protect the loss,misuse or alteration of information under Home Debut, Inc. control
-        </li><li>How you can correct any inaccuracies in the information.
-       </li></ul>
-      <br><br>If you feel that this company is not abiding by its posted privacy policy, you should first contact Cathy Gay, Director of Customer Services. by cathy@homedebut.com, 1.888.458.3943 505 W Riverside Ave Ste 300, Spokane WA 99201.</td>
-    </tr>
-    <tr>
-     <td><b>Information Collection and Use</b><br><br>Home Debut, Inc. is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  Home Debut, Inc. collects information from our users at several different points on our website.<br><br>
-         <b>Registration</b><br><br>In order to use tourfactory.com a user must first complete the registration form.  During registration a user is required to give their contact information (such as name and email address).  This information is used to contact the user about the services on our site for which they have expressed interest.  It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site. <br><br>
-         <b>Order</b><br><br>We request information from the user on our order form.  
-         Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date).  This information is used for billing purposes and to fill customer's orders.  If we have trouble processing an order, this contact information is used to get in touch with the user.<br><br>
-         <b>Cookies</b><br><br>A cookie is a piece of data stored on the user's hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  Once the user closes their browser, the cookie simply terminates.  For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site.  If a user rejects the cookie, they may still use our site.  The only drawback to this is that the user will be limited in some areas of our site on tourfactory.  Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.<br><br>
-         <b>Log Files</b><br><br>We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.<br><br>
-         <b>Sharing</b><br><br>We will share aggregated demographic information with our partners. This is not linked to any personal information that can identify any individual person.<br><br>We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.<br><br>We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.<br><br>These parties are not allowed to use personally identifiable information except for the purpose of providing these services.<br><br>
-         <b>Links</b><br><br>This web site contains links to other sites. Please be aware that we Home Debut, Inc. are not responsible for the privacy practices of such other sites.  
-         We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site.<br><br>
-         <b>News Updates and Special Promotions</b><br><br>If a user wishes to subscribe to our newsletter and Special Promotions, we ask for contact information such as name and email address.<br><br>
-         <b>Surveys &amp; Contests</b><br><br>From time-to-time our site requests information from users via surveys or contests.  Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information.  Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level).  Contact information will be used to notify the winners and award prizes.  
-         Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.<br><br>
-         <b>Tell-A-Friend</b><br><br>If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address.  Home Debut, Inc. will automatically send the friend a one-time email inviting them to visit the site.  Home Debut, Inc. stores this information for the sole purpose of sending this one-time email.  The friend may contact Home Debut, Inc. at www.homedebut.com or www.tourfactory.com  to request the removal of this information from their database.<br><br>
-         <b>Security</b><br><br>This website takes every precaution to protect our users' information.  When users submit sensitive information via the website, your information is protected both online and off-line.<br><br>
-         When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. <br><br>While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users' information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our accounting personal or a customer service representative) are granted access to personally identifiable information.  
-         Our employees must use password-protected screen-savers when they leave their desk.  When they return, they must re-enter their password to re-gain access to your information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.  Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.<br><br>If you have any questions about the security at our website, you can send an email to <a href="mailto:support@tourfactory.com">support@tourfactory.com</a>.<br><br>
-         <b>Special Offers</b><br><br>We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter.<br><br>
-         Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.<br><br>
-         <b>Site and Service Updates</b><br><br>We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.<br><br>
-         <b>Correction/Updating Personal Information:</b><br><br>If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.  This can usually be done within your personal account in Tourfactory.com or by emailing our Customer Support.   1.888.458.3943 Cathy Gay, Director of Customer Service.<br><br>
-         <b>Choice/Opt-out</b><br><br>Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by the email at <a href="mailto:support@homedebut.com">support@homedebut.com</a> or <a href="mailto:support@homedebut.com">support@tourfactory.com</a><br><br>Users of our site are notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.<br><br>
-         <b>Notification of Changes</b><br><br>If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. 
-         We will use information in accordance with the privacy policy under which the information was collected.</td>
-  </tr>
-</tbody></table>
+On Error Resume Next
+If MSDetect = "true" Then
+	For i = 2 to 6
+		If Not(IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & i))) Then
+		Else
+			nFlashVersion = i
+		End If
+	Next
+End If
 
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="100%">
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
-				<tbody><tr><td bgcolor="#000000"><img src="/art/pixel.gif" width="1" height="1"></td></tr>
-				<tr>
-					<td background="/art/head3.gif">
-						<img src="/art/pixel.gif" width="1" height="40"><br>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" valign="bottom">
-			<br>
-<font face="Verdana, Arial, Helvetica, Geneva" size="1">
-	<b>TourFactory.com. &nbsp;<img src="/art/bluebullet.gif" align="absmiddle" width="7" height="7">&nbsp; Spokane, WA &nbsp;<img src="/art/bluebullet.gif" align="absmiddle" width="7" height="7">&nbsp; Phone (888) 458-3943 &nbsp;<img src="/art/bluebullet.gif" align="absmiddle" width="7" height="7">&nbsp; <a href="mailto:coaching@tourfactory.com" style="text-decoration:none;">coaching@tourfactory.com</a></b><br>
-	<img src="/art/blackdot.gif" width="540" height="1"><img src="/art/pixel.gif" width="1" height="3"><br>
-	<font size="1">Copyright © 1996-2002 Home Debut® &nbsp; All Rights Reserved.</font><br>
-</font>
-<br>
-
-		</td>
-	</tr>
-</tbody></table>
-
-
-</body></html>
+</script>   </body></html>
