@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vhcc.edu privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209191257id_/http%3A//www.vhcc.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vhcc.edu privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412173039id_/http%3A//www.vhcc.edu/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Virginia Highlands Community College Privacy Statement
 
