@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606064210id_/http%3A//www.petplace.com/Corporate/corpSiteTextHandler.asp%3Fcode%3DPrivacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208185050id_/http%3A//www.petplace.com/Corporate/corpSiteTextHandler.asp%3Fcode%3DPrivacy%2BStatement) for the most accurate reproduction.*
 
 # PetPlace.com - Corporate
 
@@ -28,7 +28,7 @@ Our PetPlace.com site employs “cookie” technology to collect non-personal in
 
 **_Intelligent Content Corp. does not desire or intend to collect any personal information of children on our PetPlace.com site. We ask that children under the age of 13 do not submit any personal information to us. If you are under the age of 13, you can access the offerings on PetPlace.com requiring input of information only in conjunction with your parents or guardians._**
 
-Any individual information voluntarily supplied by you that we have within our database will be available to you upon written request and proof of identification to Intelligent Content Corp., 2141 North Commerce Parkway, Weston, Florida 33326. Intelligent Content Corp. will correct any errors in your personal information upon your request. 
+Any individual information voluntarily supplied by you that we have within our database will be available to you upon written request and proof of identification to Intelligent Content Corp., 20283 State Road 7, Suite 400, Boca Raton, Florida 33498. Intelligent Content Corp. will correct any errors in your personal information upon your request. 
 
 Your acceptance of Intelligent Content Corporation’s Privacy Policy for the PetPlace.com site is signified by your use of our web site. Your continued use of PetPlace.com following the posting of changes to these terms will mean that you accept those changes.
 
