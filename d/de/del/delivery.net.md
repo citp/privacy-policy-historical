@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603224417id_/http%3A//www.digitalimpact.com/v2/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delivery.net privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211161608id_/http%3A//www.digitalimpact.com/privacy.php) for the most accurate reproduction.*
 
 # Digital Impact | Privacy Policy
 
-  |  Internet user privacy is of paramount importance to Digital Impact and our clients. We support the protection of client and consumers' privacy rights as a fundamental element of our business. 
+|   
+  
+---  
+|   |  |  |  |   |   
+|   |  |   
+|   |  Internet user privacy is of paramount importance to Digital Impact and our clients. We support the protection of client and consumers' privacy rights as a fundamental element of our business. 
 
 Respect for customer privacy is the core value of permission-based marketing. Far from limiting the marketer's options, the boundaries of privacy establish a space of opportunity, if obeyed. Messages that remain in accord with these boundaries will frequently find receptive customers. Digital Impact's rigorous permission-based privacy policy is designed to ensure that visitors to our website understand how and why Digital Impact may collect and use information provided by users. 
 
 We support the Fair Information Practice Principles of Notice, Choice, Access, and Security. The following document thoroughly explains our privacy policy. Please read it carefully. If you have any questions, please contact [privacy@digitalimpact.com](mailto:privacy@digitalimpact.com). 
 
 eMarketing Dashboard   
-This Digital Impact web site includes a link to eMarketing Dashboard, a password-protected, clients-only section of this site, [www.digitalimpact.com](https://web.archive.org/web/20040603224417id_/http%3A//www.digitalimpact.com/v2/index.php). eMarketing Dashboard is not a public web site and is not a consumer site. It is a trademarked, web-based application available only to Digital Impact clients. A client only has access to this part of the web site if the client has purchased our services and received a user name and password from Digital Impact. An additional privacy policy specifically addressing privacy issues related to eMarketing Dashboard is posted within the site and is accessible from a link on the homepage of eMarketing Dashboard. The [TRUSTe](http://www.truste.org/watchdog.html) license does not cover the eMarketing Dashboard. If you are a client and would like to set up an eMarketing Dashboard account, or have problems logging on, please contact your Digital Impact account manager. If you are not yet a client, please click here for more information.   
+This Digital Impact web site includes a link to eMarketing Dashboard, a password-protected, clients-only section of this site, [www.digitalimpact.com](https://web.archive.org/web/20041211161608id_/http%3A//www.digitalimpact.com/index.php). eMarketing Dashboard is not a public web site and is not a consumer site. It is a trademarked, web-based application available only to Digital Impact clients. A client only has access to this part of the web site if the client has purchased our services and received a user name and password from Digital Impact. An additional privacy policy specifically addressing privacy issues related to eMarketing Dashboard is posted within the site and is accessible from a link on the homepage of eMarketing Dashboard. The [TRUSTe](http://www.truste.org/watchdog.html) license does not cover the eMarketing Dashboard. If you are a client and would like to set up an eMarketing Dashboard account, or have problems logging on, please contact your Digital Impact account manager. If you are not yet a client, please click here for more information.   
   
 IMPACT, Campaign Manager   
 Digital Impact sells IMPACT, an ASP email marketing automation and analysis product individually and as part of its full service offerings. Clients can access IMPACT's Campaign Manager module via the web at https://campaignmanager.digitalimpact.net. A client only has access to this web site if the client has purchased our services and received a user name and password from Digital Impact. The TRUSTe license does not cover IMPACT or the Campaign Manager module of IMPACT. If you are a client interested in IMPACT or you are having problems logging on, please contact Digital Impact Account Manager or Technical Support. If you are not yet a client, please click here for more information.   
@@ -17,7 +22,7 @@ Digital Impact sells IMPACT, an ASP email marketing automation and analysis prod
 Compliance   
   
 TRUSTe   
-[](https://www.truste.org/ivalidate.php?url=www.digitalimpact.com)Digital Impact is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.digitalimpact.com](https://web.archive.org/web/20040603224417id_/http%3A//www.digitalimpact.com/v2/index.php). 
+[](https://www.truste.org/ivalidate.php?url=www.digitalimpact.com)Digital Impact is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.digitalimpact.com](https://web.archive.org/web/20041211161608id_/http%3A//www.digitalimpact.com/index.php). 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. For more information on TRUSTe, please click here. Because this web site wants to demonstrate its commitment to users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify users of: 
 
@@ -117,8 +122,11 @@ Digital Impact provides both full service marketing solutions (utilizing our ASP
 
 In addition to sending sophisticated email campaigns on behalf of clients, Digital Impact also provides web page-hosting services and a website tracking and analysis service. Some clients use all of our services. Some clients only use our technology to send email campaigns. Providing these services, Digital Impact acts as a service provider for our clients. This means that Digital Impact is a third party that processes data only on behalf of our clients for the completion of stated purposes. The client, not Digital Impact, owns data collected by Digital Impact on behalf of the client. 
 
-This privacy policy only covers this website - [www.digitalimpact.com](https://web.archive.org/web/20040603224417id_/http%3A//www.digitalimpact.com/v2/index.php) \- and the information collected through this website. 
+This privacy policy only covers this website - [www.digitalimpact.com](https://web.archive.org/web/20041211161608id_/http%3A//www.digitalimpact.com/index.php) \- and the information collected through this website. 
 
 Digital Impact may collect information for a client from the emails sent on behalf of the client to its customers. At a client's request, Digital Impact may also collect information for a client from its website. For more information on how Digital Impact supports clients in their email marketing efforts, you may wish to refer to Digital Impact's P3P Privacy Summary. 
 
-[Digital Impact's P3P Privacy Summary](http://a676.g.akamaitech.net/f/676/773/60m/images.m0.net/catcontent/digitalimpact/p3p/032702/privacy1.html) provides descriptions of information collection activities performed by Digital Impact on behalf of our clients using our email marketing ASP products. The summary also addresses information collected on client websites by Digital Impact on behalf of clients using Digital Impact's web page-hosting services and/or website tracking and analysis service. 
+[Digital Impact's P3P Privacy Summary](https://web.archive.org/web/20041211161608id_/http%3A//www.digitalimpact.com/privacy_p3p_summary.php) provides descriptions of information collection activities performed by Digital Impact on behalf of our clients using our email marketing ASP products. The summary also addresses information collected on client websites by Digital Impact on behalf of clients using Digital Impact's web page-hosting services and/or website tracking and analysis service.   
+  
+---|---  
+|   | 
