@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211110625id_/http%3A//www.dreamhorse.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604134553id_/http%3A//www.dreamhorse.com/policy.htm) for the most accurate reproduction.*
 
 # Dream Horse Classifieds - Privacy Statement
 
@@ -22,10 +22,10 @@ In the course of serving advertisements to this site, our third-party advertiser
 
  
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here ([www.sonar.com/naiprivacy](http://www.sonar.com/naiprivacy)). 
+We use BurstMedia and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-  * [Sonar Network Privacy Policy](http://www.sonar.com/content/privacy.htm)
   * [BurstMedia Privacy Statement](http://www.burstmedia.com/release/privacy.asp)
+  * [Sonar Network Privacy Policy](http://www.sonar.com/content/privacy.htm)
 
 
 
@@ -35,11 +35,11 @@ Our site's registration form requires users to give us contact information like 
 
 Contact information (email address) from the registration forms is used to get in touch with the customer when necessary such as informing the customer that their horse or tack ad is expiring. Contact information may also be shared with any law enforcement agency investigating any fraudulent or improper activity on Dream Horse Classifieds or TackTrader.com.
 
-Dream Horse does not and will never sell your email address to SPAMMERS or JUNK MAILERS, however, please be aware that your email address is displayed with your horse ad and may be misused by parties unknown to us. 
+Dream Horse does not and will never sell or give your email address to any SPAMMERS or JUNK MAILERS. We hate spam and will do everything possible to protect your information. We have recently begun hiding your email address completely so that we can track and screen any and all responses to your ads by forcing responses through our owner contact form. 
 
 ####  Order Forms 
 
-Our site uses secure online ordering for customers to request information, products, and services. We collect financial information when orders are placed for photo ads. The information that is collected is used to enable the user to pay for for products and services with our secure shopping cart system. It is not used for any other purpose. Our secure storefront is called: [Cowgirl's Dream Trading Post](http://www.cowgirlsdream.com/). 
+Our site uses secure online ordering for customers to request information, products, and services. We collect financial information when orders are placed for photo ads. The information that is collected is used to enable the user to pay for for products and services with our secure shopping cart system. It is not used for any other purpose. Our secure storefront is called the [DreamHorse Store](http://www.dreamhorse.com/store). 
 
 ####  Surveys 
 
@@ -51,6 +51,15 @@ This information is shared with advertisers on an aggregate basis.
 ####  External Links 
 
 This site contains links to other sites. **Dream Horse Classifieds** is not responsible for the privacy practices or the content of such Web sites. 
+
+####  Special Relationships 
+
+  * Our message board is hosted by [Delphi Forums](http://www.delphi.com/)
+  * Our guestbook is hosted by [Guest World](http://www.guestworld.com/). 
+  * We host banner ads from BurstMedia. Please see their [Privacy Statement](http://www.burstmedia.com/release/privacy.asp). 
+  * We may host banner ads from the Sonar Network, a Division of DoubleClick.net. Please see their [Privacy Statement](http://www.sonar.com/content/privacy.htm) also. 
+
+
 
 ####  Public Forums 
 
@@ -73,4 +82,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[Contact Information](https://web.archive.org/web/20021211110625id_/http%3A//www.dreamhorse.com/contact.html)
+[Contact Information](https://web.archive.org/web/20030604134553id_/http%3A//www.dreamhorse.com/contact.html)
