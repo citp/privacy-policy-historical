@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012022657id_/http%3A//www.matweb.com/reference/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306000652id_/http%3A//www.matweb.com/reference/privacy.asp) for the most accurate reproduction.*
 
 # MatWeb - Privacy Statement
 
@@ -8,14 +8,14 @@ This is the web site of **MatWeb.com, a division of Automation Creations, Inc.**
 
 Our postal address is:  
 **Automation Creations, Inc.  
-2000 Kraft Drive, Suite 1202  
+2020 Kraft Drive, Suite 3000  
 Blacksburg, VA 24060**
 
 We can be reached via e-mail at info@matweb.com or you can reach us by telephone at 540-552-5300.
 
 While using MatWeb, during registration and at other times, you will provide us with personal information. This information may include your e-mail address, name, address, employment/education information, and credit card information. We automatically collect IP addresses and the referring sites of MatWeb’s users to help us evaluate web site usage.
 
-We may use information in the following ways: 
+Automation Creations, Inc. and its partners may use information in the following ways: 
 
   * To accomplish the task for which you specifically provided the information including, for example, to enable us to process or verify registrations.
   * To enhance existing features or develop new features, products and services. 
@@ -50,12 +50,12 @@ If you feel that this site is not following its stated information policy, you m
 [Subscribe to Premium Services](https://web.archive.org/membership/reg-upgrade.asp)  
 [](https://web.archive.org/search/SearchSeq.asp)  •   [](https://web.archive.org/search/SearchComp.asp)  •   [](https://web.archive.org/search/SearchProperty.asp)  •   [](https://web.archive.org/search/SearchSubcat.asp)  •   [](https://web.archive.org/search/SearchManufacturer.asp)  •   [](https://web.archive.org/search/SearchTradeName.asp)  •   [](https://web.archive.org/search/SearchUNS.asp)   
 [](https://web.archive.org/services/advertising.asp)  •   [](https://web.archive.org/services/submitdata.asp)  •   [](https://web.archive.org/services/databaselicense.asp)  •   [](https://web.archive.org/services/webhosting.asp)  •   [](https://web.archive.org/clickthrough.asp?addataid=277)   
-[](https://web.archive.org/reference/colist.asp)  •   [](https://web.archive.org/tools/conversion.asp)  •   [](https://web.archive.org/reference/further-study.asp)  •   [](https://web.archive.org/news/news.asp)  •   [](https://web.archive.org/reference/link.asp)  •   [](https://web.archive.org/help/help.asp)  •   [](https://web.archive.org/contact/contact.asp)  •   [](https://web.archive.org/tools/contents.asp)  •   [](https://web.archive.org/index.asp)  
+[](https://web.archive.org/reference/colist.asp)  •   [](https://web.archive.org/tools/conversion.asp)  •   [](https://web.archive.org/reference/further-study.asp)  •   [](https://web.archive.org/news/news.asp)  •   [](https://web.archive.org/reference/link.asp)  •   [](https://web.archive.org/help/help.asp)  •   [](https://web.archive.org/contact/contact.asp)  •   [](https://web.archive.org/tools/contents.asp)  •   [](https://web.archive.org/reference/faq.asp)  •   [](https://web.archive.org/index.asp)  
   
 ---  
 |  Please read our [](https://web.archive.org/reference/terms.asp) regarding materials data and our [](https://web.archive.org/reference/privacy.asp). Questions or comments about MatWeb? Please contact us at [](mailto:webmaster@matweb.com). We appreciate your input. 
 
-Site designed and maintained by [](http://www.aciwebs.com/). The contents of this web site, the MatWeb logo, and "MatWeb" are Copyright 1996-2004 by Automation Creations, Inc. MatWeb is intended for personal, non-commercial use. The contents, results, and technical data from this site may not be reproduced either electronically, photographically or substantively without permission from [](http://www.aciwebs.com/). 
+Site designed and maintained by [](http://www.aciwebs.com/). The contents of this web site, the MatWeb logo, and "MatWeb" are Copyright 1996-2005 by Automation Creations, Inc. MatWeb is intended for personal, non-commercial use. The contents, results, and technical data from this site may not be reproduced either electronically, photographically or substantively without permission from [](http://www.aciwebs.com/). 
 
   
 | 
