@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601094218id_/http%3A//digitalinsight.com/prodserv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209030449id_/http%3A//www.digitalinsight.com/prodserv/privacy.html) for the most accurate reproduction.*
 
 # Digital Insight - Products & Services - Digital Insight Privacy Statement
 
