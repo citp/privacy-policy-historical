@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangalinet.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606232125id_/http%3A//www.bangalinet.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangalinet.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101050100id_/http%3A//www.bangalinet.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Bangalinet Privacy Statement
 
@@ -61,4 +61,4 @@ This site gives users the following options for changing and modifying informati
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  
-**Sukanta Chatterjee** info@bangalinet.com
+**Aditi Bajari** info@bangalinet.com
