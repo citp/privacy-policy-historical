@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003144037id_/http%3A//www.swt.edu/computing/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605192114id_/http%3A//www.txstate.edu/computing/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for System Administration
 
 ## Privacy Statement
 
- **Southwest Texas State University** makes the following statement in regards to information gathering and dissemination practices for its web site: [www.swt.edu](http://www.swt.edu/). 
+**Texas State University-San Marcos** makes the following statement in regards to information gathering and dissemination practices for its web site: [www.txstate.edu](http://www.txstate.edu/). 
 
 **I. Cookies  **
 
 A "cookie" is a small file containing information that is placed on a user’s computer by a web server. Typically, these files are used to enhance the user’s experience of the site, to help users move between pages in a database, or to customize information for a user. 
 
-Any information that Southwest Texas State University webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
+Any information that Texas State University-San Marcos webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
 
 **II. Logs and Network Monitoring**
 
@@ -34,18 +34,18 @@ The above information is not used in any way that would reveal personally identi
 
 **III. Email and Form Information**
 
-If a member of the general public sends Southwest Texas State University an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another person or office that is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
+If a member of the general public sends Texas State University-San Marcos an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another person or office that is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
 
 **IV. Links**
 
-This site contains links to other sites. Southwest Texas State University is not responsible for the privacy practices or the content of such websites. 
+This site contains links to other sites. Texas State University-San Marcos is not responsible for the privacy practices or the content of such websites. 
 
 **V. Security**
 
-This site has security measures in place to protect from loss, misuse and alteration of the information under the control of Southwest Texas State University. 
+This site has security measures in place to protect from loss, misuse and alteration of the information under the control of Texas State University-San Marcos. 
 
 **VI. Privacy Rights**
 
-SWT's [Privacy Rights Notice](https://web.archive.org/web/20031003144037id_/http%3A//www.swt.edu/computing/privacy_rights_notice.htm) describes your rights with respect to the information you supply to Southwest Texas State University via any paper or electronic form(s). 
+Texas State's [Privacy Rights Notice](https://web.archive.org/web/20040605192114id_/http%3A//www.txstate.edu/computing/privacy_rights_notice.htm) describes your rights with respect to the information you supply to Texas State University-San Marcos via any paper or electronic form(s). 
 
-If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact [webmaster@swt.edu](mailto:webmaster@swt.edu). 
+If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact [webmaster@txstate.edu](mailto:webmaster@txstate.edu). 
