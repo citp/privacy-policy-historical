@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2001-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010618012353id_/http%3A//www.planetpdf.com/mainpage.asp%3FWebPageID%3D753) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221042347id_/http%3A//www.planetpdf.com/mainpage.asp%3FWebPageID%3D753) for the most accurate reproduction.*
 
 # Planet PDF - Privacy Policy - updated 26 October 2000
 
@@ -107,5 +107,5 @@ If you have any questions about our privacy policy, please don't hesitate to let
   
   
   
-| [](http://www.planetebook.com/?pp) [Planet eBook](http://www.planetebook.com/?pp) \- the latest talk and news on ebook formats, rights and devices. |  | [](http://www.planetpdf.com/) [Planet PDF](http://www.planetpdf.com/) \- comprehensive, popular and independent Web site exclusively focused on Adobe Acrobat/PDF users and uses. |  | [](http://www.epublishstore.com/) [ePublish Store](http://www.epublishstore.com/) \- the online software store for print and Web publishing professionals. |  | [](http://www.xmlarena.com/?pp) [XML Arena](http://www.xmlarena.com/?pp) \- the latest info and discussions about XML use in publishing.  
----|---|---|---|---|---|---|---
+| [](http://www.planetebook.com/?ps) [Planet eBook](http://www.planetebook.com/?ps) \- the latest talk and news on ebook formats, rights and devices.  |  | [](http://www.planetpdf.com/?ps/) [Planet PDF](http://www.planetpdf.com/?ps) \- is the most comprehensive independent site on the web for Acrobat/PDF. |  | [](http://www.planetmarkup.com/?ps) [Planet Markup](http://www.planetmarkup.com/?ps) \- the latest info and discussions about XML use in publishing.  
+---|---|---|---|---|---
