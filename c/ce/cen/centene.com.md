@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centene.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412162442id_/http%3A//www.centene.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centene.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203021348id_/http%3A//www.centene.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Home Page
+# Centene Corporation Privacy Policy
 
 Centene Privacy Policy
 
@@ -48,7 +48,7 @@ Centene Place
 
 St. Louis, MO 63105
 
-Attn: Children’s Privacy Information - Gerald Lindhorst
+Attn: Children’s Privacy Information - Communications
 
 7.  LINKS TO OTHER SITES.  While you are using the Site, you may be linked or directed to other third party web sites outside the Site that are beyond Centene’s control.  Each of these third parties may have a privacy policy different from that of Centene.  These links and banners may take you to the web sites of advertisers, sponsors and co-branding partners.  Centene is not responsible for any actions or policies of such third parties. These other web sites may send their own cookies to users, collect data or solicit personal information. You should review the applicable privacy policies of these third party web sites before providing personally identifiable information. 
 
