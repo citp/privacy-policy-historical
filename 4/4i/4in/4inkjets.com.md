@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004110619id_/http%3A//www.4inkjets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411131824id_/http%3A//4inkjets.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-| | [](https://web.archive.org/web/20021004110619id_/http%3A//www.4inkjets.com/index.html)
+| | [](https://web.archive.org/web/20030411131824id_/http%3A//4inkjets.com/index.html)
 
 Privacy Statement |  | **4Inkjets! : Privacy Notice**  
 Effective **12/01/1999**
