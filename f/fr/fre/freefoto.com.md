@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefoto.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204214152id_/http%3A//freefoto.com/pictures/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefoto.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608010157id_/http%3A//freefoto.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Free Pictures - FreeFoto.Com.
 
@@ -26,9 +26,7 @@ If you would like to "opt out," that is, to prevent any data from being stored b
 
 Participation in Industry-side Privacy Initiatives
 
-If you have any additional questions about FreeFoto.com's dedication to consumer privacy, please contact us at info@freefoto.com.
-
-FreeFoto works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
+If you have any additional questions about FreeFoto.com's dedication to consumer privacy, please contact us at ian@freefoto.com
 
    
 
