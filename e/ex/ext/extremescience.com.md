@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremescience.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210144340id_/http%3A//www.extremescience.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremescience.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621120926id_/http%3A//www.extremescience.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Extreme Science Privacy Policy
 
@@ -8,7 +8,7 @@ Extreme Science is committed to protecting your privacy on-line. We hope the fol
 Extreme Science collects data on website visitors who register for our opt-in newsletter service (the Extreme Science "E-Zine"). This information can only be collected by Extreme Science from users who voluntarily submit their information by entering it into a form and submitting it.
 
 **Use of Cookies**   
-Cookies are small text files placed on your computer's hard drive that enable websites to recognize repeat visitors. _**We do not use cookies**_. 
+Cookies are small text files placed on your computer's hard drive that enable websites to recognize repeat visitors. If you use the shopping cart in the Extreme Science Webstore, a cookie will be placed on your computer to "remember" the contents of your shopping cart.
 
 **Log Files**   
 Our server has a log file that tracks user sessions, i.e page views and downloaded files (for example, free wallpaper and calendar). We maintain these log files solely for our own internal purposes. Log files are not shared with third parties. 
