@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206070538id_/http%3A//www.greataupair.com/support.cfm/topic/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624012909id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
 
-# Support - Privacy & Security Policy
+# GreatAupair Support - Privacy & Security Policy
 
 |   
 |  |   
