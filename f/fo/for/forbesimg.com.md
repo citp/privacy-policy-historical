@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbesimg.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203034416id_/http%3A//www.forbes.com/fdc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbesimg.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623084335id_/http%3A//www.forbes.com/fdc/privacy.shtml) for the most accurate reproduction.*
 
 # Forbes.com
 
@@ -8,7 +8,7 @@ Revised and posted as of: May 29, 2003
 
 Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com Web site. The Forbes.com Web site is owned and operated by Forbes.com Inc. 
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.com](mailto:privacy@forbes.com). 
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.net](mailto:privacy@forbes.net). 
 
 Gathering of Information
 
@@ -24,7 +24,7 @@ Most Web site browsers automatically accept cookies, but you can usually change 
 
 Browser Level Information
 
-Forbes.com Web servers automatically collect information about a site user's IP address, browser type and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used--in an aggregated, anonymous manner--in our internal analysis of traffic patterns within our Web site. This information is automatically logged by most Web sites. 
+Forbes.com Web servers automatically collect information about a site user's IP address, browser type and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used--in an aggregated, anonymous manner--in our internal analysis of traffic patterns within our Web site. This information is automatically logged by most Web sites. Forbes.com also uses a third party to collect information, including through the use of web beacons. [Click here to learn more](http://www.nielsen-netratings.com/privacy/sitecensus.htm) about how we use a third party service to collect and use information on our Web site. 
 
 Use of Information
 
@@ -50,7 +50,7 @@ FORBES respects the privacy of its readers and shall not disclose, distribute or
 
 How to Contact Us
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.com](mailto:privacy@forbes.com). 
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@forbes.net](mailto:privacy@forbes.net). 
 
 This statement may change from time to time, so please check back periodically. 
 
