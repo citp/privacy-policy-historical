@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the leaderbank.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204192435id_/http%3A//www.leaderbank.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaderbank.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409192238id_/http%3A//www.leaderbank.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Leader Bank
 
 | 
 
-> **[_Please click here to read our Privacy Policy frequently asked questions_](https://web.archive.org/web/20031204192435id_/http%3A//www.leaderbank.com/privacy_policy_FAQ.asp)**
+> **[_Please click here to read our Privacy Policy frequently asked questions_](https://web.archive.org/web/20040409192238id_/http%3A//www.leaderbank.com/privacy_policy_FAQ.asp)**
 > 
-> **[_Please click here to read about identity theft_](https://web.archive.org/web/20031204192435id_/http%3A//www.leaderbank.com/identity_theft.asp)**
+> **[_Please click here to read about identity theft_](https://web.archive.org/web/20040409192238id_/http%3A//www.leaderbank.com/identity_theft.asp)**
 > 
 > **LEADER BANK  
 >  **  
