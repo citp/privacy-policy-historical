@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119044411id_/http%3A//www.charityjob.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605095542id_/http%3A//charityjob.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
