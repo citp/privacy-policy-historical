@@ -1,21 +1,24 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203041905id_/http%3A//theregister.co.uk/content/31/28796.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401203847id_/http%3A//www.theregister.co.uk/content/31/28796.html) for the most accurate reproduction.*
 
 # The Register
+
+_Last Updated: 6/2/2004_
 
 **The Register is owned and operated by Situation Publishing.
 
 Situation Publishing   
-19 Saxon Road   
-Southport   
-Merseyside   
-PR8 2AX
+410 The Bon Marche Centre   
+London   
+SW9 8BJ 
 
 **
 
 The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us. 
 
 **Cookies**   
-The Register site does not use cookies - though some of our partners do (see 'Advertising' below). 
+The Register site sets cookies in order to help with the management of it's advertising. The data is used by our Advertising Server, purely to help decide which adverts to display on the page, and for no other purpose beyond this. 
+
+You may of course choose to block these cookies if you wish, and the site will continue to function normally. 
 
 **IP Addresses and Server Logs**   
 The Register site does record IP addresses and produces server logs – as all Web Servers do. This information is used solely for monitoring the volume of traffic the site receives and measuring the number of readers. We do not use the information for tracking the activities of specific visitors to the site. 
@@ -81,10 +84,9 @@ If you wish to contact Situation Publishing regarding any aspect of the Privacy 
 **By Post:  
 The Data Controller   
 Situation Publishing   
-19 Saxon Road   
-Southport   
-Merseyside   
-PR8 2AX 
+410 The Bon Marche Centre   
+London   
+SW9 8BJ 
 
 By Email   
 [philip.mitchell@theregister.co.uk](mailto:philip.mitchell@theregister.co.uk)
