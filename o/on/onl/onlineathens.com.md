@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210035739id_/http%3A//www.onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008155606id_/http%3A//www.onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
 
 # Online Athens: Privacy Policy
 
-|  [ News](https://web.archive.org/news/ "Local News")  
+|   
+[ News](https://web.archive.org/news/ "Local News")  
   
   
 ---  
@@ -13,6 +14,8 @@
 [ Business](https://web.archive.org/business/ "Business News")  
   
 [ Police Central](https://web.archive.org/cops/ "Police News")  
+  
+[ AP Latest News](https://web.archive.org/breaking/ "Latest Associated Press News")  
   
   
 [ Sports](https://web.archive.org/sports/ "Sports Home Page")  
@@ -31,6 +34,8 @@
 [ Entertainment](https://web.archive.org/entertainment/ "Entertainment News")  
   
 [ Movies](https://web.archive.org/movies/ "Movies")  
+  
+[ Celebrations](https://web.archive.org/celebrations/ "Weddings, Engagements, Births, Anniversaries")  
   
   
 [ Opinion](https://web.archive.org/opinion/ "Opinion Page")  
@@ -73,6 +78,12 @@
   
 [ Online Specials](https://web.archive.org/specials/ "Specials")  
   
+[ Wallpapers](https://web.archive.org/wallpapers/ "Wallpapers")  
+  
+[ Media Kit](https://web.archive.org/ratebook/ "advertising")  
+  
+[ Eco Latino](http://www.athensecolatino.com/ "Athens Eco Latino")  
+  
 [ Athens Magazine](http://www.athensmagazine.com/ "Athens Magazine")  
   
 [ Events! Magazine](http://www.athensevents.com/ "Events! Magazine")  
@@ -107,7 +118,7 @@
 
  **IV. Accuracy of User Information**
 
-> In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Rob Curley, or you can reach us by telephone in Georgia at 1-800-533-4252 or at 706-549-0123. You can also write us at:
+> In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to David Bill, or you can reach us by telephone in Georgia at 1-800-533-4252 or at 706-549-0123. You can also write us at:
 > 
 > OnlineAthens.com  
 >  One Press Place  
