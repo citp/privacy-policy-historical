@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603101024id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224013139id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Runner's World - Privacy Policy
 
@@ -12,7 +12,7 @@
   
 PRIVACY POLICY
 
-**As the publishers of Runner's World, Rodale Ltd is committed to respecting the privacy of its users. However, we do collect and use various bits of information about you through your use of this website, and this policy sets out the basis on which your personal data will be collected, stored and processed. The data collector for this website is Rodale Ltd, with its registered office at 7-10 Chandos Street, London W1G 9AD. Please note that this policy only addresses our activities, and other sites to which this website links may have their own privacy policies and practices, which we do not control.** 1.| Collection  
+**As the publishers of Runner's World, Natmag-Rodale Ltd is committed to respecting the privacy of its users. However, we do collect and use various bits of information about you through your use of this website, and this policy sets out the basis on which your personal data will be collected, stored and processed. The data collector for this website is Natmag-Rodale Ltd, with its registered office at 33 Broadwick St, London W1F 0DQ. Please note that this policy only addresses our activities, and other sites to which this website links may have their own privacy policies and practices, which we do not control.** 1.| Collection  
 ---|---  
  | We shall ask you to supply personal information (data) to us in the following circumstances: 
 
@@ -93,5 +93,5 @@ Please contact us at [members@runnersworld.co.uk](mailto:members@runnersworld.co
   
 This Privacy Policy has been prepared to meet the requirements of the UK's Data Protection Act 1998, and that Act only relates to the collection, protection, disclosure and use of personal data belonging to living individuals. It does not relate to data regarding companies and other non-living entities, although the general principles regarding our collection and use of data is broadly the same irrespective of whether the users of our website are living individuals or not. 
 
-RODALE LIMITED is a company incorporated in England and Wales under Company Number 519122  
-Registered Office: 7-10 Chandos Street, London W1G 9AD
+NATMAG-RODALE LIMITED is a company incorporated in England and Wales under Company Number 519122  
+Registered Office: 33 Broadwick St, London W1F 0DQ
