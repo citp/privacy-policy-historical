@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012101011id_/http%3A//www.sasktel.com/customer_care/our_policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621151144id_/http%3A//www.sasktel.com/customer_care/our_policies/privacy.html) for the most accurate reproduction.*
 
 # SaskTel - Privacy
 
@@ -137,7 +137,7 @@ Return to top
 
 Personal information is not sold or rented to any parties outside of the SaskTel corporate family.
 
-We do share this information with the companies we select as our business partners, however we require them to honour our privacy principles in the handling of personal information.
+We do share this information with the companies we select as our business partners, and who supply services to us. However, we require them by contract to honour our privacy principles in the handling of personal information they obtain from us in the course of providing services to us.
 
 **Disclosure Of Information**
 
@@ -227,7 +227,7 @@ For complete customer information, we suggest that this Privacy Policy be read i
 
 Return to top
 
-**Last Modified:** August 2001
+**Last Modified:** April 2003
 
 More Information  
 ---  
