@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607044854id_/http%3A//vcaa.vic.edu.au/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204061001id_/http%3A//www.vcaa.vic.edu.au/footer/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Statement | VCAA
 
@@ -31,7 +31,7 @@ If you have concerns about privacy issues in relation to this website, please co
 
 ## Related Information
 
-  * [Privacy Policy](https://web.archive.org/web/20040607044854id_/http%3A//vcaa.vic.edu.au/aboutus/policies/privacypolicy.htm)
-  * [Privacy Notice for Students ](https://web.archive.org/web/20040607044854id_/http%3A//vcaa.vic.edu.au/aboutus/policies/privacystudent.htm)
+  * [Privacy Policy](https://web.archive.org/web/20041204061001id_/http%3A//www.vcaa.vic.edu.au/aboutus/policies/privacypolicy.html)
+  * [Privacy Notice for Students ](https://web.archive.org/web/20041204061001id_/http%3A//www.vcaa.vic.edu.au/aboutus/policies/privacystudent.html)
 
 
