@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417033018id_/http%3A//www.members1st.org/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211004534id_/http%3A//www.members1st.org/privacystatement.asp) for the most accurate reproduction.*
 
 # Members 1st Federal Credit Union - Privacy Statement
 
