@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyotafinancial.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208084829id_/http%3A//www.toyotafinancial.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyotafinancial.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608091156id_/http%3A//www.toyotafinancial.com/legal/privacy.html) for the most accurate reproduction.*
 
 # ToyotaFinancial.com - Privacy Policy and Terms of Use
 
@@ -8,14 +8,16 @@
 [](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=FinanceIdx)  
 [](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=LeaseIdx)  
 [](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=ProtectIdx)  
+[](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=Offers)  
   
 [](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=OCA)  
 [](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=PayEst)  
+[](https://web.archive.org/redirect.jsp?Scr=Home&Loc=LNav&Dest=WhatVehicles)  
 |   
   
   
 |  |   
-[Home](https://web.archive.org/index.html) > Privacy Policy And Terms of Use **Online Privacy Policy ** Toyota Motor Credit Corporation, Toyota Motor Insurance Services, Inc., and their subsidiaries (collectively, Toyota Financial Services, TFS, or we) respect your privacy and the confidential nature of the information that we gather during the course of our relationship with you. This Privacy Policy describes Toyota Financial Services' policy regarding information received about you during visits to our website. By using this website, you signify your acceptance of this Privacy Policy. We may change this Privacy Policy at any time without notice to you. 
+[Home](https://web.archive.org/) > Privacy Policy And Terms of Use **Online Privacy Policy ** Toyota Motor Credit Corporation, Toyota Motor Insurance Services, Inc., and their subsidiaries (collectively, Toyota Financial Services, TFS, or we) respect your privacy and the confidential nature of the information that we gather during the course of our relationship with you. This Privacy Policy describes Toyota Financial Services' policy regarding information received about you during visits to our website. By using this website, you signify your acceptance of this Privacy Policy. We may change this Privacy Policy at any time without notice to you. 
 
 **Normal Website Usage ** You can visit Toyota Financial Services' website to read product, investment, and company information, or use some of our online tools (e.g., What's Right for Me? and Payment Calculator) without telling us who you are and without revealing any personal information. During these types of visits, we collect and store statistical information on an anonymous basis, such as the information about the time and length of your visit, the website you last visited, the pages you request, and the date and time of those requests. We may also collect and store the name of your Internet Service Provider. 
 
