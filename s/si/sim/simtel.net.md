@@ -1,20 +1,8 @@
-> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210022211id_/http%3A//www2.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simtel.net privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405235538id_/http%3A//www.simtel.net/privacy.php%5BSiteID%5Dsimtel.net) for the most accurate reproduction.*
 
 # Free downloads of the best computer software freeware and shareware
 
-Hot Spots
-
-Highlights
-
-ADVERTISEMENT
-
-[](http://mobile.simtel.com/)
-
-TRANSLATE INTO
-
-| 
-
-[home](https://web.archive.org/?PHPSESSID=6826628809ce3c866e397f85fe801d91) › Free downloads of the best computer software freeware and shareware 
+[home](https://web.archive.org/) › Free downloads of the best computer software freeware and shareware 
 
 Digital River, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. Simtel.Net holds the privacy of each individual as a high priority. The following discloses our information gathering and dissemination practices for this Web site: http://www.simtel.net 
 
@@ -32,7 +20,7 @@ We DO NOT collect online contact information without prior parental consent or p
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@simtel.net](mailto:webmaster@simtel.net). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by email.
 
 You can also mail us at: 
 
