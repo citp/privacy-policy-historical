@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2004-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040824220320id_/http%3A//www.thestandard.com/staticpages/index.php%3Fpage%3D20031022162750779) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2005-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050328084456id_/http%3A//www.thestandard.com/staticpages/index.php%3Fpage%3D20031022162750779) for the most accurate reproduction.*
 
 # Internet Business News from The Industry Standard - Privacy - Internet News
 
