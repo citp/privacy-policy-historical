@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the lxlabs.com privacy policy that was archived on 2002-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021212104158id_/http%3A//lxlabs.com/legal/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lxlabs.com privacy policy that was archived on 2003-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622115752id_/http%3A//lxlabs.com/legal/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
-<title>Template</title>
+<title>Lxlabs: Privacy Policy</title>
 </head> 
 
 
-<body topmargin="0" leftmargin="0">
+<body bgcolor="white" topmargin="0" leftmargin="0">
 
 
 
@@ -17,6 +17,7 @@ DHTML script collection at http://simplythebest.net/info/dhtml_scripts.html -->
 
 <link rel="stylesheet" type="text/css" href="/css/common.css">
 <link rel="stylesheet" type="text/css" href="/css/banner.css">
+<link rel="SHORTCUT ICON" href="/img/icon.gif">
 
 <script language="javascript">
 if(navigator.appName == 'Netscape')
@@ -67,12 +68,46 @@ else if(document.all)
 	products1.src = "/menu/products-over.gif";
 
 
+	chat1 = new Image();
+	chat1.src = "/menu/chat-over.gif";
+
 	support1 = new Image();
 	support1.src = "/menu/support-over.gif";
 
 
 	training1 = new Image();
 	training1.src = "/menu/training-over.gif";
+
+
+function setjs() {
+ if(navigator.product == 'Gecko') {
+		 //alert("mozilla");
+   browser_name = 'mozilla';
+ }else if(navigator.appName == 'Microsoft Internet Explorer' &&
+    navigator.userAgent.indexOf("Mac_PowerPC") > 0) {
+    browser_name = 'konqueror';
+
+ }else if(navigator.appName == 'Microsoft Internet Explorer') {
+		 //alert("ie");
+   browser_name = 'ie';
+ }else if(navigator.appName == 'Konqueror') {
+    browser_name = 'konqueror';
+ }else if(navigator.appName == 'Netscape') {
+    browser_name = 'ns';
+ }else if(window.opera) {
+   browser_name = 'opera';
+ }
+}
+
+function setlogin() {
+		rand_user_name = "zClient" + Math.floor(1000*Math.random());
+}
+
+setlogin()
+setjs()
+
+
+
 </script><link rel="stylesheet" type="text/css" href="/css/mozilla.css">
 
 
@@ -82,7 +117,7 @@ else if(document.all)
 <script language="JavaScript1.2" src="/menu/menujs/dqm_script.js"></script><script language="JavaScript1.2" src="/menu/menujs/dqm_ns6.js"></script>
 
 
-  <table border="0" cellspacing="0" width="96%" height="80" id="AutoNumber1" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111" class="normaltxt">
+  <table border="0" cellspacing="0" width="96%" height="80" id="AutoNumber1" cellpadding="0" bordercolor="#111111" class="normaltxt">
     <tbody><tr>
       <td width="231" bgcolor="#3F6CFF" rowspan="4" align="left">
 		<a href="/" class="menuimage">
@@ -93,17 +128,22 @@ else if(document.all)
     </tr>
     <tr>
       <td width="417" bgcolor="#3F6CFF" align="right">
-      <table border="0" cellspacing="0" width="100%" id="AutoNumber3" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111" bgcolor="#3F6CFF">
+      <table border="0" cellspacing="0" width="100%" id="AutoNumber3" cellpadding="0" bordercolor="#111111" bgcolor="#3F6CFF">
         <tbody><tr>
           <td width="16%">&nbsp;</td>
           <td width="16%">&nbsp;</td>
           <td width="16%">&nbsp;</td>
-          <td width="16%"><a href="/store/" class="menuimage" onmouseover="movepic('buy','/menu/buy-over.gif')" onmouseout="movepic('buy','/menu/buy.gif')">
 
-				<img name="buy" alt="Download" src="/menu/buy.gif" border="0"></a></td>
+
+
+          <td width="16%"><a href="/store/" class="menuimage" onmouseover="movepic('buy','/menu/buy-over.gif')" onmouseout="movepic('buy','/menu/buy.gif')"> <img name="buy" alt="Buy" src="/menu/buy.gif" border="0"></a></td>
+
           <td width="16%"><a href="/download/" class="menuimage" onmouseover="movepic('download','/menu/download-over.gif')" onmouseout="movepic('download','/menu/download.gif')"> <img name="download" alt="Download" src="/menu/download.gif" width="79" height="17" border="0"></a></td>
 
           <td width="16%"><a href="/company/contactus.shtml" class="menuimage" onmouseover="movepic('contact','/menu/contact-over.gif')" onmouseout="movepic('contact','/menu/contact.gif')"> <img name="contact" alt="Contact-Us" src="/menu/contact.gif" width="80" height="17" border="0"></a></td>
+
+          <script language="JavaScript1.2"> document.write('<td width="16%"><a href="/cgi-bin/chat/chat.cgi?Nickname=' + rand_user_name + '&Channel=%23help&interface=' + browser_name + '" class=menuimage  onmouseover="movepic(\'chat\', \'/menu/chat-over.gif\')"  onmouseout="movepic(\'chat\' ,\'/menu/chat.gif\')"> <IMG NAME="chat" alt=chat SRC="/menu/chat.gif" BORDER=0></A></td>') </script><td width="16%"><a href="/cgi-bin/chat/chat.cgi?Nickname=zClient753&amp;Channel=%23help&amp;interface=mozilla" class="menuimage" onmouseover="movepic('chat', '/menu/chat-over.gif')" onmouseout="movepic('chat' ,'/menu/chat.gif')"> <img name="chat" alt="chat" src="/menu/chat.gif" border="0"></a></td>
+
 
           <td width="17%"><a href="/" class="menuimage" onmouseover="movepic('home','/menu/home-over.gif')" onmouseout="movepic('home','/menu/home.gif')"> <img name="home" src="/menu/home.gif" alt="home" width="45" height="17" border="0"></a></td>
 
@@ -125,7 +165,7 @@ else if(document.all)
     </tr>
     <tr>
       <td align="right" bgcolor="#FFFF00" valign="bottom">
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber8" align="right">
+      <table border="0" cellpadding="0" cellspacing="0" bordercolor="#111111" width="100%" id="AutoNumber8" align="right">
         <tbody><tr align="right">
           <td align="right" valign="bottom" bgcolor="#3F6CFF">&nbsp;</td>
           <td width="137" align="right" valign="bottom" bgcolor="#3F6CFF" border="0">
@@ -154,14 +194,11 @@ else if(document.all)
   </tbody></table>
 
 
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="5" align="left" bordercolor="red">
+<table border="0" cellspacing="0" cellpadding="5" align="left" bordercolor="red">
 <tbody><tr>
 <!-- First (left) table -->
 	<td width="13%" align="left" valign="top">
-		<table border="0" cellpadding="0" cellspacing="0" width="93%" bordercolor="white">
+		<table border="0" cellpadding="0" cellspacing="0" bordercolor="white">
 
 
 
@@ -169,7 +206,7 @@ else if(document.all)
 			<br> <br>  
 		<div class="banner"> 
 			<b> Privacy Policy</b> 
-			<p> </p> 
+			<p> The information you provide is secure with us.</p> 
 		</div>
 			<br> 
 			</td>
@@ -180,6 +217,7 @@ else if(document.all)
 				<div class="bottomlink"> 
 		<b> &nbsp;Products &amp; Services </b> 
 		<a href="/lxa/">lxAdministrator 2.2 </a>
+		<a href="/six/">Six: Linux On Solaris</a>  
 		<a href="/products/oss/">Open Source </a>  
 		<a href="/products/embedded/custom.shtml">Custom Embedded Eng. </a>
 		<a href="/products/consulting/">Professional Consulting </a>
@@ -231,11 +269,11 @@ Lxlabs may use "cookies" to learn about you and to remember you the next time yo
 	<tbody><tr> <td align="center" class="legal">
 	<br>  <br> 
 	 <a href="/legal/"> Terms of Use </a>&nbsp;  |&nbsp; 	<a href="/legal/privacy.shtml">privacy statement</a> &nbsp;| &nbsp;<a href="/company/contactus.shtml">Contact Us</a> 
-	<br> 		 © 2002 lxlabs
+	<br> 		 © 2003 lxlabs
 		 </td> 
 	</tr> 
 
-		 </tbody></table>
+ </tbody></table>
 
 
 
@@ -250,7 +288,7 @@ Lxlabs may use "cookies" to learn about you and to remember you the next time yo
 			<tbody><tr> <td>
 			<br> <br>
 						<div class="community">
-				<b>Community</b>
+				<b>Embedded Community</b>
 				<p> </p> 
 				<p> 
 			   <a href="/cgi-bin/ib/ikonboard.cgi?act=SF;f=3"> Clear your doubts, share your ideas and generally get wiser... Visit our online embedded developer community. </a> 
