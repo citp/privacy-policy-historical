@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstgov.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203192420id_/http%3A//firstgov.net/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgov.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607023101id_/http%3A//firstgov.net/About/Privacy_Security.shtml) for the most accurate reproduction.*
 
 # FirstGov – Privacy and Security
 
@@ -20,7 +20,7 @@ When you browse, read pages or download information on FirstGov, we automaticall
 
 This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits. 
 
-Back To Top
+Back to Top
 
 Cookies 
 
@@ -40,6 +40,10 @@ Site Security
   * For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
   * Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
   * Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
+
+
+
+Back to Top
 
 FirstGov.gov Linking Policy 
 
