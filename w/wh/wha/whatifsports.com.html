@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whatifsports.com privacy policy that was archived on 2002-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215190118id_/http%3A//whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whatifsports.com privacy policy that was archived on 2003-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030625124956id_/http%3A//whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso8859-1">
@@ -11,186 +11,118 @@ fantasy sports, game, manage team, fantasy leagues, sim, simulation game, free g
 </head>
 
 <body class="wm" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
-<script language="javascript">
-//<!--
-
-var ie = false;
-
-if (document.layers) {
-	ie=false;
-}
-else if (document.all) {
-	ie=true;
-}
-
-
-	var nv = ''; // the currently displayed navigator
-	var mTmr = null;
-	clearTimeout(mTmr);
-	var inMn = false;
-	
-	function ct(){
-		clearTimeout(mTmr);
-		inMn = true;
-	}
-	
-	function sd(d, e){
-		clearTimeout(mTmr)
-		if (ie==true){	
-			if(document.all[d]){
-
-				var o = document.all[d];
-				if((document.all[d])&&(nv!=d)){
-					km();
-					o.style.top = 90;
-					//o.style.left= e.clientX;
-					o.style.zIndex = 99999;
-				}
-
-				document.all[d].style.visibility='visible';
-			}
-		}
-		else
-		{
-			if((document.layers[nv])&&(nv!=d)){
-                                km();
-                                document.layers[nv].visibility='hide';
-                        }
-
-                        if(document.layers[d]){
-                                var o = document.layers[d];
-                                //o.left = e.pageX;
-                                o.top = 90;
-                                o.zIndex=99999;
-                                o.visibility='show';
-                        }
-		}
-			nv = d;
-
-	}
-	
-	function km(){
-		if(inMn == false){
-			if (ie==false){
-                                if (document.layers[nv])
-                                        document.layers[nv].visibility='hide';
-			}
-                        else
-			{        
-				if(document.all[nv])
-					document.all[nv].style.visibility='hidden';
-			}
-				
-			
-		}
-	}
-	function tm(){
-		inMn = false;
-		mTmr = setTimeout("km()",100);
-	}
-	
-//-->
-</script>
-
-<style>
-  table.mb {
-		BORDER-BOTTOM: #000000 2px solid;
-		BORDER-RIGHT: #000000 2px solid;
-		BORDER-TOP: #EEEEEE 1px solid;
-		BORDER-LEFT: #EEEEEE 1px solid
-	}	
-	
-</style>
-
-<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="white" style="BORDER-BOTTOM: #505050 3px solid;">
-	<tbody><tr>
-	<td rowspan="3" width="153" valign="top"><a href="../locker/default.asp"><img border="0" src="../images/brand/wiscorner.gif" width="153" height="92"></a></td>
-	<td rowspan="2" width="66" valign="top"><img width="66" height="68" border="0" src="../images/brand/split.gif"></td>
-	<td valign="top" width="100%" background="../images/brand/topline.gif"><img src="../images/blank.gif" height="6"></td>
-	</tr>
-	<tr>
-	<td height="62">
-	<img src="../images/blank.gif" height="1" width="22">
-	<script language="JavaScript1.1" src="http://network.realmedia.com/RealMedia/ads/adstream_jx.ads/whatifsports/ros/ron/spt/ss/a@Position1">
-    </script>
-<script language="JavaScript"> <!--
-_version=10; //--> </script>
-<script language="JavaScript1.1"> <!--
-_version=11; // --> </script>
 <script language="JavaScript">
 <!--
-if (navigator.appVersion.indexOf("MSIE 3") != -1){
-document.write('<IFRAME WIDTH=468 HEIGHT=60 Top MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://network.realmedia.com/RealMedia/ads/adstream_sx.ads/whatifsports/ros/ron/spt/ss/a@Position1"></iframe>');
-} else if (_version < 11) {
-document.write ('<A HREF="http://network.realmedia.com/RealMedia/ads/click_nx.ads/whatifsports/ros/ron/spt/ss/a@Position1"><IMG SRC="http://network.realmedia.com/RealMedia/ads/adstream_nx.ads/whatifsports/ros/ron/spt/ss/a@Position1"></a>');
-}
-// -->
-    </script>
-	
-	<noscript> 
-	<img src="../images/brand/tagline.gif" height="37" width="390"></noscript>   
-	</td>
-	
+function mmLoadMenus() {
+  if (window.mm_menu_HomeMenu) return;
+  window.mm_menu_HomeMenu = new Menu("root",120,18,"Tahoma, sans-serif",11,"#ffffff","#ffffff","#000000","#DE1528","left","middle",3,0,500,-5,7,true,true,true,0,true,true);
+  mm_menu_HomeMenu.addMenuItem("Join","location='../locker/join.asp'");
+  mm_menu_HomeMenu.addMenuItem("Gift&nbsp;Certificates","location='../giftcert/default.shtm'");
+  mm_menu_HomeMenu.addMenuItem("Referral&nbsp;Program","location='../locker/referral.shtm'");
+  mm_menu_HomeMenu.addMenuItem("Poll&nbsp;Results","location='../locker/pollresults.asp'");
+  mm_menu_HomeMenu.addMenuItem("Contact&nbsp;Us","location='../locker/contact.shtm'");
+  mm_menu_HomeMenu.addMenuItem("Advertise","location='../locker/advertise.shtm'");
+  mm_menu_HomeMenu.addMenuItem("Help!","location='../help/help.shtm'");
+   
+  window.mm_menu_SimLeagueMenu = new Menu("root",120,18,"Tahoma, sans-serif",11,"#ffffff","#ffffff","#000000","#DE1528","left","middle",3,0,500,-5,7,true,true,true,0,true,true);
+  mm_menu_SimLeagueMenu.addMenuItem("Baseball","location='../mlb-l/default.shtm'");
+  mm_menu_SimLeagueMenu.addMenuItem("Basketball","location='../nba-l/default.shtm'");
+  mm_menu_SimLeagueMenu.addMenuItem("Football","location='../nfl-l/default.shtm'");
+  mm_menu_SimLeagueMenu.addMenuItem("Hockey","location='../nhl-l/default.shtm'");
+   
+  window.mm_menu_SimMatchUpMenu = new Menu("root",120,18,"Tahoma, sans-serif",11,"#ffffff","#ffffff","#000000","#DE1528","left","middle",3,0,500,-5,7,true,true,true,0,true,true);
+  mm_menu_SimMatchUpMenu.addMenuItem("Baseball","location='../mlb/default.asp'");
+  mm_menu_SimMatchUpMenu.addMenuItem("Pro&nbsp;Basketball","location='../nba/default.asp'");
+  mm_menu_SimMatchUpMenu.addMenuItem("Football","location='../nfl/default.asp'");
+  mm_menu_SimMatchUpMenu.addMenuItem("Hockey","location='../nhl/default.asp'");
+  mm_menu_SimMatchUpMenu.addMenuItem("College&nbsp;Basketball","location='../ncaab/default.asp'");
+   
+  window.mm_menu_MyAccountMenu = new Menu("root",120,18,"Tahoma, sans-serif",11,"#ffffff","#ffffff","#000000","#DE1528","left","middle",3,0,500,-5,7,true,true,true,0,true,true);
+  mm_menu_MyAccountMenu.addMenuItem("My&nbsp;Information","location='../locker/join.asp?update=1'");
+  mm_menu_MyAccountMenu.addMenuItem("My&nbsp;Buddies","location='../locker/buddies.asp'");
+  mm_menu_MyAccountMenu.addMenuItem("My&nbsp;Favorite&nbsp;Teams","location='../locker/fav_teams.asp'");
+  mm_menu_MyAccountMenu.addMenuItem("My&nbsp;Saved&nbsp;Games","location='../locker/saved_games.asp'");
+  mm_menu_MyAccountMenu.addMenuItem("My&nbsp;Mailbox","location='../sitemail/sitemail.asp'");
+   
+  mm_menu_MyAccountMenu.writeMenus();
+} // mmLoadMenus()
+
+//-->
+</script>
+<script language="JavaScript1.2" src="../includes/wis_menu.js"></script>
+
+<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 124px; height: 136px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 134px; width: 122px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 133px; width: 121px; background-color: rgb(85, 85, 85);">
+<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Join&nbsp;</div>
+<div id="menuItemHilite0" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Join&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 19px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Gift&nbsp;Certificates&nbsp;</div>
+<div id="menuItemHilite1" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Gift&nbsp;Certificates&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 38px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Referral&nbsp;Program&nbsp;</div>
+<div id="menuItemHilite2" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Referral&nbsp;Program&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 57px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Poll&nbsp;Results&nbsp;</div>
+<div id="menuItemHilite3" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Poll&nbsp;Results&nbsp;</div></div><div id="menuItem4" style="position: absolute; left: 0px; top: 76px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Contact&nbsp;Us&nbsp;</div>
+<div id="menuItemHilite4" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Contact&nbsp;Us&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 95px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Advertise&nbsp;</div>
+<div id="menuItemHilite5" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Advertise&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 114px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Help!&nbsp;</div>
+<div id="menuItemHilite6" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Help!&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 124px; height: 79px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 77px; width: 122px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 76px; width: 121px; background-color: rgb(85, 85, 85);">
+<div id="menuItem7" style="position: absolute; left: 0px; top: 0px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Baseball&nbsp;</div>
+<div id="menuItemHilite7" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Baseball&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 19px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Basketball&nbsp;</div>
+<div id="menuItemHilite8" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Basketball&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 38px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Football&nbsp;</div>
+<div id="menuItemHilite9" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Football&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 57px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Hockey&nbsp;</div>
+<div id="menuItemHilite10" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Hockey&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 124px; height: 98px;">
+  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 96px; width: 122px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 95px; width: 121px; background-color: rgb(85, 85, 85);">
+<div id="menuItem11" style="position: absolute; left: 0px; top: 0px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Baseball&nbsp;</div>
+<div id="menuItemHilite11" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Baseball&nbsp;</div></div><div id="menuItem12" style="position: absolute; left: 0px; top: 19px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Pro&nbsp;Basketball&nbsp;</div>
+<div id="menuItemHilite12" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Pro&nbsp;Basketball&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 38px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Football&nbsp;</div>
+<div id="menuItemHilite13" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Football&nbsp;</div></div><div id="menuItem14" style="position: absolute; left: 0px; top: 57px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">Hockey&nbsp;</div>
+<div id="menuItemHilite14" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Hockey&nbsp;</div></div><div id="menuItem15" style="position: absolute; left: 0px; top: 76px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">College&nbsp;Basketball&nbsp;</div>
+<div id="menuItemHilite15" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">College&nbsp;Basketball&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 124px; height: 98px;">
+  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 96px; width: 122px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 95px; width: 121px; background-color: rgb(85, 85, 85);">
+<div id="menuItem16" style="position: absolute; left: 0px; top: 0px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">My&nbsp;Information&nbsp;</div>
+<div id="menuItemHilite16" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">My&nbsp;Information&nbsp;</div></div><div id="menuItem17" style="position: absolute; left: 0px; top: 19px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">My&nbsp;Buddies&nbsp;</div>
+<div id="menuItemHilite17" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">My&nbsp;Buddies&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 0px; top: 38px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">My&nbsp;Favorite&nbsp;Teams&nbsp;</div>
+<div id="menuItemHilite18" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">My&nbsp;Favorite&nbsp;Teams&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 57px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">My&nbsp;Saved&nbsp;Games&nbsp;</div>
+<div id="menuItemHilite19" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">My&nbsp;Saved&nbsp;Games&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 76px; font-family: Tahoma, sans-serif; font-weight: bold; font-size: 11px; width: 120px; height: 18px; background-color: rgb(0, 0, 0); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:4px;top:2.5px;color:#ffffff;">My&nbsp;Mailbox&nbsp;</div>
+<div id="menuItemHilite20" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">My&nbsp;Mailbox&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+</span>
+
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="white">
+	<tbody><tr>
+	<td rowspan="3" width="182" valign="top"><a href="../locker/default.asp"><img height="106" src="../images/brand/lftlogo.jpg" width="182" border="0"></a></td>
+	<td width="559" valign="top"><img height="75" src="../images/brand/midbnner.jpg" width="559"></td>
+	<td width="100%" background="../images/brand/repeater.jpg" height="75"><img height="1" src="../images/blank.gif" width="1"></td>
+	<td valign="top" width="168"><img height="75" src="../images/brand/rightbann.jpg" width="168"></td>
 	</tr>
   <tr>
-    <td colspan="2" height="24" bgcolor="#006098" nowrap="" width="100%">&nbsp;<font color="palegoldenrod">
-		<a onmouseover="sd('home',event)" onmouseout="tm();" class="menu" href="../locker/default.asp">Home</a>&nbsp;•&nbsp;
-		<a onmouseover="sd('simleagues',event)" onmouseout="tm();" class="menu" href="../locker/simleagues.shtm">SimLeagues</a>&nbsp;•&nbsp;
-		<!--<a onmouseover="sd('simtourneys',event)" onmouseout="tm();" class="menu" href="../locker/simtourneys.shtm">SimTourneys</a>&nbsp;&#149;&nbsp;-->
-		<a onmouseover="sd('sims',event)" onmouseout="tm();" class="menu" href="../locker/simulations.shtm">SimMatchup</a>&nbsp;•&nbsp;
+    <td style="FONT-SIZE: 12px; FONT-FAMILY: Verdana, sans-serif;" colspan="3" height="27" bgcolor="black" nowrap="" width="100%">&nbsp;<font color="white">
+		<a class="menu" onmouseover="MM_showMenu(window.mm_menu_HomeMenu,190,100,null);" href="../locker/default.asp">Home</a>&nbsp;•&nbsp;
+		<a class="menu" onmouseover="MM_showMenu(window.mm_menu_SimLeagueMenu,242,100,null);" href="../locker/simleagues.shtm">SimLeagues</a>&nbsp;•&nbsp;
+		<a class="menu" onmouseover="MM_showMenu(window.mm_menu_SimMatchUpMenu,328,100,null);" href="../locker/simulations.shtm">SimMatchup</a>&nbsp;•&nbsp;
 		<a class="menu" href="../forums/default.asp">Forums</a>&nbsp;•&nbsp;
-		<a onmouseover="sd('account',event)" onmouseout="tm();" class="menu" href="../locker/myaccount.shtm">My Account</a>&nbsp;•&nbsp;
+		<a class="menu" onmouseover="MM_showMenu(window.mm_menu_MyAccountMenu,478,100,null);" href="../locker/myaccount.shtm">My Account</a>&nbsp;•&nbsp;
 		<a class="menu" href="../locker/logout.asp">Logout</a></font></td>
   </tr>
+  <tr>
+		<td colspan="3" background="../images/brand/dropshadow.jpg" height="4"><img height="1" src="../images/blank.gif" width="1"></td>
+	</tr>
 </tbody></table>
-
-		<div id="home" onmouseover="ct();" onmouseout="tm();" style="position:absolute;left:162px;visibility:hidden;">
-			<table class="mb" bgcolor="#006098" border="0" width="125" cellspacing="0" cellpadding="2">
-				<tbody><tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../locker/join.asp">Join</a></td></tr>
-				<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../giftcert/default.shtm">Gift Certificates</a></td></tr>
-				<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../locker/pollresults.asp">Poll Results</a></td></tr>
-				<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../locker/contact.shtm">Contact Us</a></td></tr>
-				<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../locker/advertise.shtm">Advertise</a></td></tr>
-				<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../help/help.shtm">Help!</a></td></tr>
-			</tbody></table>
-		</div>
-
-		<div id="simleagues" onmouseover="ct();" onmouseout="tm();" style="position:absolute;left:213px;visibility:hidden;">
-			<table class="mb" bgcolor="#006098" border="0" width="115" cellspacing="0" cellpadding="2">
-				<tbody><tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../locker/redirect.asp?url=../mlb-l/default.shtm">Baseball</a></td></tr>
-				<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../nba-l/default.shtm">Basketball</a></td></tr>
-				<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../nfl-l/default.shtm">Football</a></td></tr>
-				<!--<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../nhl-l/default.shtm">Hockey</a></td></tr>-->
-			</tbody></table>
-		</div>
-
-		<!--<div id="simtourneys" onmouseover="ct();" onmouseout="tm();" style="position:absolute;left:299px;visibility:hidden;">
-			<table class="mb" bgcolor="#006098" border="0" width="115" cellspacing="0" cellpadding="2">
-				<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../mlb-t/default.shtm">Baseball</a></td></tr>
-				<tr><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../nba-t/default.shtm">Basketball</a></td></tr>
-				<tr><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../nfl-t/default.shtm">Football</a></td></tr>
-			</table>
-		</div>-->
-		
-		<div id="sims" onmouseover="ct();" onmouseout="tm();" style="position:absolute;left:299px;visibility:hidden;">
-			<table class="mb" bgcolor="#006098" border="0" width="145" cellspacing="0" cellpadding="2">
-					<tbody><tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../mlb/default.asp">Baseball</a></td></tr>
-					<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../nba/default.asp">Pro Basketball</a></td></tr> 
-					<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../nfl/default.asp">Football</a></td></tr>
-					<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../nhl/default.asp">Hockey</a></td></tr>
-					<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../ncaab/default.asp">College Basketball</a></td></tr>
-			</tbody></table>
-		</div>
-
-		<div id="account" onmouseover="ct();" onmouseout="tm();" style="position:absolute;left:447px;visibility:hidden;">
-			<table class="mb" bgcolor="#006098" border="0" width="145" cellspacing="0" cellpadding="2">
-					<tbody><tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../locker/join.asp?update=1">My Information</a></td></tr>
-					<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../locker/buddies.asp">My Buddies</a></td></tr>
-					<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../locker/fav_teams.asp">My Favorite Teams</a></td></tr>
-					<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../locker/saved_games.asp">My Saved Games</a></td></tr>
-					<tr onmouseover="this.bgColor='#93BEE2';" onmouseout="this.bgColor='#006098';"><td>&nbsp;<a onmouseover="ct();" onmouseout="tm();" class="menu" href="../sitemail/sitemail.asp">My Mailbox</a></td></tr>
-			</tbody></table>
-		</div>
 
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
@@ -315,65 +247,19 @@ WhatIfSports.com.  The Statement of Privacy does not cover this type of transfer
 </td>
 </tr>
 </tbody></table>
-<!-- START PROMO -->
-<script language="javascript">
-<!-- // Hide from older browsers
-setTimeout('uniqueVisitor()', 2000); // delay 2 seconds before running cookie check
-
-function specialPromo() {
-
-	var gc = window.open('../giftcert/ad_giftcert.htm','gcpromo','width=320,height=240');
-//	freeShip.focus();
-//	 setTimeout('closeWin(freeShip)', 5000);	// delay 5 seconds before closing
-
-//	var weekly_promo = //window.open('http://nct.digitalriver.com/0037/weekly_special.php','weekly_promo','width=220,height=220');
-//	weekly_promo.focus();
-} 
-
-function Get_Cookie(name) {
-    var start = document.cookie.indexOf(name+"=");
-    var len = start+name.length+1;
-    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
-    if (start == -1) return null;
-    var end = document.cookie.indexOf(";",len);
-    if (end == -1) end = document.cookie.length;
-    return unescape(document.cookie.substring(len,end));
-}
-
-var today = new Date();
-var days = 1; // days til cookie expires
-var todays_date = new Date(today.getYear(),today.getMonth(),today.getDate(),0,0,0);
-var expires_date = new Date(todays_date.getTime() + (days * 86400000));
-
-function Set_Cookie(name,value,expires,path,domain,secure) {
-    document.cookie = name + "=" +escape(value) +
-        ( (expires) ? ";expires=" + expires.toGMTString() : "") +
-        ( (path) ? ";path=" + path : "") + 
-        ( (domain) ? ";domain=" + domain : "") +
-        ( (secure) ? ";secure" : "");
-}
-
-function uniqueVisitor() {
-	var oncePerDay = Get_Cookie('uniqueUser');
-	if (oncePerDay == null){
- 	  specialPromo(); // launch popup
-		Set_Cookie('uniqueUser', 'set',expires_date,'/');
-	}
-}
-
-// End -->
-</script>
+<!--include file="promo.htm"-->
 
 <!-- START FOOTER TABLE -->
 
-<hr color="#d3d3d3">
+<hr color="#d3d3d3" size="1" width="90%">
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tbody><tr>
     <td colspan="2" class="smallbody" align="center">
     <a href="../locker/default.asp">Home</a>&nbsp;•
     &nbsp;<a href="../locker/simleagues.shtm">SimLeagues</a>&nbsp;•
+    <!--&nbsp;<a href="../mlb-h/default.shtm">Head2Head</a>&nbsp;&#149;-->
     <!--&nbsp;<a href="../locker/simtourneys.shtm">SimTourneys</a>&nbsp;&#149;-->
-    &nbsp;<a href="../locker/simulations.shtm">Simulations</a>&nbsp;•
+    &nbsp;<a href="../locker/simulations.shtm">SimMatchup</a>&nbsp;•
     &nbsp;<a href="../forums/default.asp">Forums</a>&nbsp;•
     &nbsp;<a href="../locker/myaccount.shtm">My Account</a>&nbsp;•
     &nbsp;<a href="../locker/logout.asp">Logout</a></td>
@@ -381,15 +267,15 @@ function uniqueVisitor() {
 
 	<tr>
 		<td width="45%" class="smallbody">
-			<a class="copyright" href="../locker/contact.shtm" target="_blank">© 1999-2002<br>All rights reserved.</a></td>
+			<a class="copyright" href="../locker/contact.shtm" target="_blank">© 1999-2003 WhatIfSports.com, Inc.<br>All rights reserved.</a></td>
 		<td valign="top" width="55%" align="right" class="smallbody">
 			<a class="copyright" href="../locker/terms.shtm" target="_blank">[Terms of Use]</a>&nbsp;
 			<a class="copyright" href="../help/techsupport.asp" target="_blank">[Customer Support]</a>&nbsp;
 			<a class="copyright" href="../locker/privacy.shtm" target="_blank">[Privacy Statement]</a></td>
 	</tr>
 	<tr>
-		<td colspan="2" class="smallbody" align="center"><font color="#777777"><!--<br>WhatIfSports, SimLeagues and iSimNow are trademarks of their respective owner.<br>-->The names of actual companies and products mentioned herein may be the
-trademarks of their respective owners.</font></td>
+		<td colspan="2" class="smallbody" align="center"><font color="#777777">WhatIfSports, SimLeagues, SimMatchup and iSimNow are trademarks of WhatIfSports.com, Inc.<br>The names of actual companies and products mentioned herein may be the
+trademarks of their respective owners. v.74</font></td>
 	</tr>
 </tbody></table>
 <!-- END FOOTER TABLE -->
