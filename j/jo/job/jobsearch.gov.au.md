@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601152045id_/http%3A//jobsearch.gov.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205013100id_/http%3A//jobsearch.gov.au/privacy.asp) for the most accurate reproduction.*
 
 # Australian Job Search - The largest job site in Australia
 
