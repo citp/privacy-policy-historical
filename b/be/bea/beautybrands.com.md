@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605190310id_/http%3A//www.beautybrands.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195630id_/http%3A//www.beautybrands.com/privacy.asp) for the most accurate reproduction.*
 
 # beauty brands
 
@@ -9,7 +9,7 @@ Privacy Policy
   
 
 
-**beauty brands** Privacy Policy for all publications, conferences and properties 
+ **beauty brands** Privacy Policy for all publications, conferences and properties 
 
 **beauty brands** recognizes the importance of protecting the privacy of information provided by visitors to our website. We have created the following guidelines to demonstrate our commitment to the issue of privacy. 
 
@@ -46,28 +46,4 @@ adv.c
 om   
 Phone: 816-531-2266
 
-|  |  |  [](https://web.archive.org/web/20040605190310id_/http%3A//www.beautybrands.com/BB_new.html)  
-
-
-**Anthony Logistics for Men™**  
-A multi–functional, multi–benefit personal care system of skincare, bath and body products designed exclusively for men. ($8 – $50).
-
-  
-  
----  
-[](https://web.archive.org/web/20040605190310id_/http%3A//www.beautybrands.com/BB_fp.html)  
-
-
-**be all™**  
-Buy specially priced be all™ gift set. Includes four 1.7-oz. travel sizes of Shower Gel, Body Lotion, Body Scrub, Bubble Bath and gift bag for just $9.98.
-
-  
-  
-  
-[](https://web.archive.org/web/20040605190310id_/http%3A//www.beautybrands.com/BB_fs.html)
-
-**Put your best foot forward**  
-the Spa Pedicure at **beauty brands**.
-
-  
-
+|  |  | 
