@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204221733id_/http%3A//www.matrixdirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609145627id_/http%3A//www.matrixdirect.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -95,4 +95,4 @@ Fax: 858-309-3002 **
 Email: info@matrixdirect.com   
 
 
-**[Privacy Notice](https://web.archive.org/web/20011204221733id_/http%3A//www.matrixdirect.com/privacy.htm) \- [Terms and Conditions](https://web.archive.org/web/20011204221733id_/http%3A//www.matrixdirect.com/terms.htm)**
+**[Privacy Notice](https://web.archive.org/web/20020609145627id_/http%3A//www.matrixdirect.com/privacy.htm) \- [Terms and Conditions](https://web.archive.org/web/20020609145627id_/http%3A//www.matrixdirect.com/terms.htm)**
