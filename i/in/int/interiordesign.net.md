@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2002-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021019024117id_/http%3A//www.interiordesign.net/index.asp%3Flayout%3Did_static%26page%3Dstory%26doc_id%3D95737%26webzine%3Did%26publication%3Did) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiordesign.net privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622204932id_/http%3A//interiordesign.net/index.asp%3Flayout%3Did_static%26page%3Dstory%26doc_id%3D95737%26webzine%3Did%26publication%3Did) for the most accurate reproduction.*
 
 # InteriorDesign.net
 
-|  [Home ](https://web.archive.org/web/20021019024117id_/http%3A//www.interiordesign.net/index.asp?layout=id_front_page&webzine=id&publication=id) > > Privacy Policy  |  Wednesday, February 19, 2020  
+|  [Home ](https://web.archive.org/web/20030622204932id_/http%3A//interiordesign.net/index.asp?layout=id_front_page&webzine=id&publication=id) > > Privacy Policy  |  Wednesday, February 19, 2020  
 ---|---  
   
   
@@ -133,3 +133,6 @@ a division of Reed Business Information
 New York, NY 10010
 
 Email: privacymanager@reedbusiness.com>
+
+  
+
