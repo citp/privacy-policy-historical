@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsjournalists.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203025036id_/http%3A//www.sportsjournalists.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsjournalists.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606040452id_/http%3A//www.sportsjournalists.com/privacy.html) for the most accurate reproduction.*
 
 # SportsJournalists.com
 
