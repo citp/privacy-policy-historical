@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621134635id_/http%3A//www.sparknotes.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparknotes.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034726id_/http%3A//www.sparknotes.com/legal/privacy.html) for the most accurate reproduction.*
 
 # SparkNotes.com Privacy Policy
 
@@ -72,7 +72,7 @@ When you click on links and banners on our site that take you to third-party web
 This privacy policy was last changed on February 6, 2003. SparkNotes.com reserves the right to modify or amend this policy at any time by posting the revised privacy policy on our site. The changes will only affect the information we collect after the effective date of the change to our privacy policy unless we clearly express otherwise. 
 
 7\. Questions or Comments  
-If you have any questions regarding our privacy policy, please email us at [privacy@sparknotes.com](mailto:privacy@sparknotes.com). For all other inquiries, please contact [comments@sparknotes.com](mailto:comments@sparknotes.com). 
+If you have any questions regarding our privacy policy, please email us at [privacy@sparknotes.com](mailto:privacy@sparknotes.com). For all other inquiries, please use  this form. 
 
 Security Policy
 
@@ -100,15 +100,10 @@ Under federal law, a credit card issuer cannot make you liable for charges in ex
 
 If a credit card or debit card issuer assesses you a fee because of the unauthorized use of your credit card or debit card on our site, SparkNotes.com will reimburse you for such amount up to $50.00. Please contact our Customer Service for details. 
 
-5\. Alternative customer purchasing options  
+5\. Changes to security  
 
 
-If you do not feel comfortable sending your credit card information to us over the Internet, you still can buy from us. We welcome you to call us to complete your purchase by phone. Please email [customerservice@sparknotes.com](mailto:customerservice@sparknotes.com) and give us your contact information and a representative will call you. 
-
-6\. Changes to security  
-
-
-This security policy was last changed on February 6, 2003. SparkNotes.com reserves the right to modify or amend this policy at any time by posting the revised security policy on our site. The changes will only affect the information we collect after the effective date of the change to our security policy unless we clearly express otherwise. 
+This security policy was last changed on July 24, 2003. SparkNotes.com reserves the right to modify or amend this policy at any time by posting the revised security policy on our site. The changes will only affect the information we collect after the effective date of the change to our security policy unless we clearly express otherwise. 
 
 [return to SparkNotes.com](https://web.archive.org/)     [read our Terms and Conditions](http://www.sparknotes.com/legal/terms.html)   
 
