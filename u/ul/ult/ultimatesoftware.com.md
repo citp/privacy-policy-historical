@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2000-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001121210900id_/http%3A//www.ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602100335id_/http%3A//www.ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # Ultimate Software :: Privacy Policy
 
