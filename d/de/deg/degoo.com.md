@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the degoo.com privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016235459id_/http%3A//www.degoo.com/index.php%3Fmenu_var%3Djo%26main_var%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degoo.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627044801id_/http%3A//www.degoo.com/index.php%3Fmenu_var%3Djo%26main_var%3Dprivacy) for the most accurate reproduction.*
 
 # d e g o o . c o m - Get paid to see advertisements
 
-|    
+|   
 
 
 ### Privacy Statement for degoo.com
@@ -37,13 +37,13 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 We give users the option for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-Visit the following URL: **[http://degoo.com/scipts/members/deleteform.php](https://web.archive.org/web/20021016235459id_/http%3A//www.degoo.com/index.php?menu_var=me&main_var=deleteform)** if you wish to cancel your account 
+Visit the following URL: **[http://degoo.com/scipts/members/deleteform.php](https://web.archive.org/web/20030627044801id_/http%3A//www.degoo.com/index.php?menu_var=me&main_var=deleteform)** if you wish to cancel your account 
 
 ### Correct/Update
 
 We give users the following options for changing and modifying information previously provided. 
 
- Visit the following URL: **[http://degoo.com/scipts/members/updateform.php](https://web.archive.org/web/20021016235459id_/http%3A//www.degoo.com/index.php?menu_var=me&main_var=updateform)** if you wish to update your information
+ Visit the following URL: **[http://degoo.com/scipts/members/updateform.php](https://web.archive.org/web/20030627044801id_/http%3A//www.degoo.com/index.php?menu_var=me&main_var=updateform)** if you wish to update your information
 
 ### Contacting the Web Site
 
