@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211101556id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618043004id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Highline Community College
 
@@ -277,12 +277,12 @@ To review your personal information, or request correction of your personal info
 
 > Public Records Officer  
 >  Highline Community College  
->  M/S 9-3  
+>  M/S 6-11  
 >  2400 S. 240th Street  
 >  Des Moines, WA 98198  
-> (206)-878-3710 ext. 3306  
+> (206)-878-3710 ext. 3559  
 > Fax: (206)-870-3780  
-> [shardin@highline.edu](mailto:shardin@highline.edu)
+> [briverma@highline.edu](mailto:briverma@highline.edu)
 
 To offer comments about Highline Community College's Web site or about the information presented in this Privacy Notice:
 
