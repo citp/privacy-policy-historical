@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maps.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602140512id_/http%3A//www.maps.com/onlineprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maps.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203224702id_/http%3A//www.maps.com/onlineprivacy) for the most accurate reproduction.*
 
 # Maps.com - Privacy Policy
 
