@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410030928id_/http%3A//www.pharmacy2u.co.uk/info.privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217014100id_/http%3A//www.pharmacy2u.co.uk/info.privacy.asp%3F) for the most accurate reproduction.*
 
-# Pharmacy2U
+# A wide range of perfume and fragrances available at Pharmacy2U
 
 At Pharmacy2U we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience for you the customer. 
 
@@ -12,7 +12,7 @@ At Pharmacy2U we are committed to protecting your privacy. We use the informatio
 
 **Will Pharmacy2U disclose the information it collects to outside parties?**
 
-Pharmacy2U does not sell, trade or rent your personal information to others. We may choose to do so in the future with trustworthy third parties. Also, Pharmacy2U may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third party vendors, but these statistics will include no personally identifying information. 
+Pharmacy2U does not sell, trade or rent your personal information to others. Pharmacy2U may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third parties, but these statistics will NOT include any information which could be linked to you personally. 
 
 **In Summary**
 
@@ -20,6 +20,6 @@ We are committed to protecting your privacy. We use the information we collect o
 
 **Your Consent**
 
-By using our Web site, you consent to the collection and use of this information by Pharmacy2U. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
+By using our Web site, you consent to the collection and use of information you submit by Pharmacy2U for the purposes described above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, and how we use it. 
 
 If you have any questions please feel free to email Pharmacy2U's Personnel Manager [Fiona Durham](mailto:fiona@pharmacy2u.co.uk)
