@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010255id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614015424id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # GM - Privacy Policy
 
@@ -28,6 +28,7 @@ For more information, please read GM's Privacy Statement for U.S. Consumers. For
     * Investor Information
     * GM BuyPower
     * My GMLink
+    * Saturn
 
 
 
@@ -43,7 +44,7 @@ Most pages on gm.com are covered by this privacy statement. The Education pages 
 _Other GM websites_  
 To provide services, some GM websites may request additional information. Please click on the links listed below to view the supplemental privacy information that should be read together with this Privacy Statement. 
 
-Certain other GM websites and services have their own privacy statements that can be viewed on their sites. These include [Saturn.com](http://www.saturn.com/), [Saab.com](http://www.saab.com/), [GM Card](http://www.gmcardmemberservices.com/), [OnStar](http://www.onstar.com/), the Education pages of [GMability](http://www.gm.com/company/gmability/edu_k-12/), and the GMAC family of businesses ([GMACFS.com](http://www.gmacfs.com/), [GMACrelocation.com](http://www.gmacglobalrelocation.com/), [GMACMortgage.com](http://www.gmacmortgage.com/), [GMACBC.com](http://www.gmacbc.com/), [GMACCM.com](http://www.gmaccm.com/), [GMACinsurance.com](http://www.gmacinsurance.com/), [GMACrealestate.com](http://www.gmacrealestate.com/), [GMACpolicy.com](http://www.gmacpolicy.com/), [GMACre.com](http://www.gmacre.com/), [GMACbank.com](http://www.gmacbank.com/)).
+Certain other GM websites and services have their own privacy statements that can be viewed on their sites. These include [Saab.com](http://www.saab.com/), [GM Card](http://www.gmcardmemberservices.com/), [OnStar](http://www.onstar.com/), the Education pages of [GMability](http://www.gm.com/company/gmability/edu_k-12/), and the GMAC family of businesses ([GMACFS.com](http://www.gmacfs.com/), [GMACrelocation.com](http://www.gmacglobalrelocation.com/), [GMACMortgage.com](http://www.gmacmortgage.com/), [GMACBC.com](http://www.gmacbc.com/), [GMACCM.com](http://www.gmaccm.com/), [GMACinsurance.com](http://www.gmacinsurance.com/), [GMACrealestate.com](http://www.gmacrealestate.com/), [GMACpolicy.com](http://www.gmacpolicy.com/), [GMACre.com](http://www.gmacre.com/), [GMACbank.com](http://www.gmacbank.com/)).
 
 **Personal Information Collection**  
 You may use GM's websites to learn about our products and services without disclosing any personal information. We may ask you to provide us with personal information, for example, to access certain customized features, such as requesting product information. Information that may be requested on GM websites includes: contact information, such as name, address, email address, and telephone number; vehicle information including vehicle identification number (VIN); demographic information, such as household information, age group, or purchase plans; or non-vehicle GM product usage/ownership information, such as GM Card or OnStar.
@@ -81,7 +82,7 @@ This statement is effective as of 09/27/2003.
 **Supplemental Privacy Information**  
 This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.
 
-___[Investor Information on GM.com](http://www.gm.com/company/investor_information/)_  
+| ___[Investor Information on GM.com](http://www.gm.com/company/investor_information/)_  
 ---  
    | __Collection__ \- On the Investor Information website we may collect name, address, phone number, and email address. GM may also receive personal information you provide to GM Stockholder Services through email, written communications, or telephone calls, and from our stock transfer agent, such as account information. 
 
@@ -99,6 +100,13 @@ ___[My GMLink](http://www.mygmlink.com/)_ |  
 __Correcting Your Information__ \- You may correct your contact information (Name, Address, Phone number, and email address) through your profile on My GMLink at <https://www.mygmlink.com/main/US/en/gm/myprofile>, by sending an email to [mygmlink@gm.com](mailto:mygmlink@gm.com), or by calling us at 1-866-MYGMLINK.
 
 __Privacy Inquiries__ \- If you have a concern about the privacy practices of the MyGMLink.com website, please contact us by sending an email to [mygmlink@gm.com](mailto:mygmlink@gm.com) or by calling us at 1-866-MYGMLINK.  
+  
+___[Saturn](http://www.saturn.com/)_ |    
+  | __Personal Information Collection__ \- We may request personal information at certain points during your visit to Saturn's Web sites. In addition to the information described in the Personal Information section above, this information may include vehicle service information; information regarding when you plan to purchase a new vehicle; your opinions for certain polls; and stories about your Saturn. Providing any information on Saturn's Web sites is optional. In our E-card service, we ask for the e-mail addresses of your friends to send E-cards - e-mail addresses submitted to this service will be used ONLY for sending the E-cards. 
+
+__Correcting Your Information__ \- You may correct the contact information (name, address, phone number, and e-mail address) you provide on the Saturn Web site by using [My Profile](http://www.saturn.com/mysaturn/).
+
+__Privacy Inquiries__ \- If you have a question or concern about the privacy practices of the Saturn.com Web site, please contact us by sending an e-mail from the [Contact Us](http://www.saturn.com/talk_to_us/e-mail_saturn/) page or by writing to us at: Saturn Privacy, 100 Saturn Parkway, MD 371-999-S24, Spring Hill, TN 37174.  
   
 **III. _Frequently Asked Questions_**
 
