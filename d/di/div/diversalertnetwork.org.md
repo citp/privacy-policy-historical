@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212132641id_/http%3A//diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407213504id_/http%3A//diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
 
 # Divers Alert Network : Privacy Policy
 
@@ -54,4 +54,4 @@ Will DAN disclose the information it collects to outside parties?
 
 
 
-[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http://www.diversalertnetwork.org/privacy.asp?&ASIMPR=17&ASTAGS=Ad.Size.Banner+home)
+[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http://www.diversalertnetwork.org/privacy.asp?&ASIMPR=8&ASTAGS=Ad.Size.Banner+home)
