@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602214410id_/http%3A//www.lingo24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208190631id_/http%3A//www.lingo24.com/privacy.html) for the most accurate reproduction.*
 
 # Lingo24.com privacy policy
 
@@ -40,4 +40,4 @@ Please press the back button on your web browser to return to the page you were 
 * * *
 
 Copyright © 2001-2003 Lingo24 Ltd. All Rights Reserved.   
-Lingo24 Ltd: [Terms and Conditions](https://web.archive.org/web/20030602214410id_/http%3A//www.lingo24.com/termsandconditions.html) | [Privacy](https://web.archive.org/web/20030602214410id_/http%3A//www.lingo24.com/privacy.html) | [Security](https://web.archive.org/web/20030602214410id_/http%3A//www.lingo24.com/security.html) | [Support](https://web.archive.org/web/20030602214410id_/http%3A//www.lingo24.com/customerservices.html) | [Translation Services](https://web.archive.org/web/20030602214410id_/http%3A//www.lingo24.com/services.html)
+Lingo24 Ltd: [Terms and Conditions](https://web.archive.org/web/20031208190631id_/http%3A//www.lingo24.com/termsandconditions.html) | [Privacy](https://web.archive.org/web/20031208190631id_/http%3A//www.lingo24.com/privacy.html) | [Security](https://web.archive.org/web/20031208190631id_/http%3A//www.lingo24.com/security.html) | [Support](https://web.archive.org/web/20031208190631id_/http%3A//www.lingo24.com/customerservices.html) | [Translation Services](https://web.archive.org/web/20031208190631id_/http%3A//www.lingo24.com/services.html) | [Links](https://web.archive.org/web/20031208190631id_/http%3A//www.lingo24.com/links.html) | [Languages](https://web.archive.org/web/20031208190631id_/http%3A//www.lingo24.com/language_translations.html) | [Services and Industries](https://web.archive.org/web/20031208190631id_/http%3A//www.lingo24.com/serviceindustry.html)
