@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202030715id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627064524id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
+  
+
+
 This Privacy Policy applies to our online practices only. 
 
-The following policy applies to the SCHOLASTIC.COM site and its subsidiary's site at GROLIER.com (the sites and entities collectively referred to herein as "Scholastic.com" and "Scholastic" respectively). 
+The following policy applies to SCHOLASTIC.COM and any other site owned and/or operated by or on behalf of Scholastic Inc. or any of its subsidiaries, that states that it is governed by this Privacy Policy and/or links to this Privacy Policy  (the sites and entities collectively referred to herein as "Scholastic.com" and "Scholastic" respectively). 
 
 Scholastic is committed to protecting the privacy and security of its online visitors. This policy statement provides our visitors (e.g., parents, teachers, and children) with an overview of the measures we have taken to provide a safe environment for everyone. 
 
@@ -70,8 +73,10 @@ Under the Fair Credit Billing Act, your bank cannot hold you liable for more tha
 
 Visitors will find links from Scholastic.com to independently owned, controlled and/or managed World Wide Web or Internet sites whose content we have found of possible interest to our visitors. In many cases, but not always, the links represent cooperative projects or mutual links established with the organizations connected with these sites. While we initially visit these sites to which we directly link, please note that we do not monitor or control the content that appears on these sites and such content may be constantly changing. We recommend that children check with their parents or teachers before clicking off to any new sites, and we encourage all end users of Scholastic.com to read the privacy policies of all linked sites before navigating through them. 
 
-Please note that we may revise our above policy as the content on our sites continues to change. 
+Please note that we may revise our above policy without notice to users as the content on our sites continues to change. 
 
 We hope that you enjoy exploring our sites. 
 
 Scholastic.com is owned and operated by Scholastic Inc., 557 Broadway New York, NY, 10012. We can be reached by phone at 1-800-SCHOLASTIC and by e-mail at [custserv@scholastic.com](mailto:%20custserv@scholastic.com). If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address. 
+
+The effective date of this Privacy Policy is December, 1998. 
