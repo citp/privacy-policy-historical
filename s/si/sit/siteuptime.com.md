@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208173145id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611193453id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
 
 # www.siteuptime.com - Free Website Monitoring Service
 
@@ -8,6 +8,6 @@ SiteUptime recognizes the importance of protecting the privacy of all informatio
 
 The SiteUptime registration form requires users to provide their e-mail address and other contact information. This information is kept confidential and will only be used for account verification and notifications to the email address listed on your account. We do not disclose, sell or give this information to any other companies or organizations without your consent. 
 
-SiteUptime occasionally uses "cookies, which allows us to recognize who you are at subsequent visits to our site and to your member control panel. You can change your browser settings to accept or reject cookies. 
+SiteUptime occasionally uses "cookies", which allows us to recognize who you are at subsequent visits to our site and to your member control panel. You can change your browser settings to accept or reject cookies. 
 
 If you have any questions regarding this policy, please contact [info@siteuptime.com](mailto:info@siteuptime.com). 
