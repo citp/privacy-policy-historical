@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2000-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000304190949id_/http%3A//www4.edgar-online.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215035700id_/http%3A//www.edgar-online.com/privacy.asp) for the most accurate reproduction.*
 
 # EDGAR Online: Privacy Statement
 
@@ -19,5 +19,3 @@ If you provide us with your e-mail address, or have done so in the past, we may 
 
 **Advertising**  
 DoubleClick sells and posts advertising on the ** _EDGAR Online_** Web site. To view DoubleClick's Privacy Policy [click here](http://www.doubleclick.com/company_info/about_doubleclick/privacy/), or visit: <http://www.doubleclick.com/company_info/about_doubleclick/privacy/>
-
-| 
