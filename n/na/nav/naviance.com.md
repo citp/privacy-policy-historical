@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212014236id_/http%3A//www.naviance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614173310id_/http%3A//www.naviance.com/privacy.html) for the most accurate reproduction.*
 
 # Naviance :: Privacy Statement
 
