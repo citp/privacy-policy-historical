@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the henryfields.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210104825id_/http%3A//henryfields.com/article_disp.asp%3Fai%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryfields.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622235206id_/http%3A//henryfields.com/article_disp.asp%3Fai%3D113) for the most accurate reproduction.*
 
 # Henry Field's Seed and Nursery Co.
 
 This is the web site of Henry Field's Seed & Nursery Co.
 
 Our postal address is  
-PO Box 600  
-Shenandoah, Iowa 51602-0001
+Henry Field's Seed & Nursery Co.  
+Order Processing Center  
+Aurora, IN 47001-0397
 
 We can be reached via e-mail at service@henryfields.com
 
-Telephone: 812.539.2527
+Telephone: (513) 354-1495
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
