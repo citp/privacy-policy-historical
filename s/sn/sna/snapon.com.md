@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205083434id_/http%3A//snapon.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603180004id_/http%3A//www.snapon.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Practices Statement
 
 **Privacy Practices Statement**
 
-**Snap-on Incorporated Online Privacy Policy**
+ **Snap-on Incorporated Online Privacy Policy**
 
-**Our Commitment to Privacy**
+ **Our Commitment to Privacy**
 
 The privacy of your personally identifiable information is important to us. As part of our commitment to the privacy of your personally identifiable information, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information is requested. 
 
@@ -44,11 +44,11 @@ We use non-identifying and aggregate information to better design our Web site a
 
 We have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online. When you place orders or access your account information, we offer the use of a secure server. The secure server software receives encrypted information through the Secure Sockets Layer (SSL) of your internet browser which encrypts the information you input before it is sent to us and prevents anyone else from reading it as the information travels from your computer to ours. If you are still concerned about placing an order online, call a customer service representative at 1-877-762-7664 and place your order via phone.
 
-**Cookies**
+ **Cookies**
 
 Snap-on uses cookies on this Web site for the purpose of maintaining a shoppers id allowing us to keep track of items in your shopping cart. We also use cookies that are for identifying who you are after logging in or registering. These cookies can also be used for creating a more personalized visit each time you visit our Web site, for instance, by making you aware of what’s new on our Web site since your last visit. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive.
 
-**Children's Privacy**
+ **Children's Privacy**
 
 Snap-on has no intention of collecting personal information from children at this site. 
 
@@ -60,15 +60,15 @@ You can access and correct the personally identifiable information that we colle
 
 Sometimes we may offer promotions or specials that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that you submit to participate in the promotion or special. Snap-on has no control over the third-party sponsors' use of this information. We will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
 
-**Changes to the Policy**
+ **Changes to the Policy**
 
 Our privacy practices, like the online medium itself, are subject to change. If we make any substantial changes, we will notify you by posting a prominent announcement at our site. 
 
 **How to Contact Us**
 
-Should you have other questions or concerns about these privacy policies or wish to have your personallyidentifiable information deleted from our records, please send an email to [eorders@snapon.com](mailto:eorders@snapon.com) or mail correspondence to Snap-on Incorporated, 2801 80th Street, Kenosha, WI 53141.
+Should you have other questions or concerns about these privacy policies or wish to have your personally identifiable information deleted from our records, please send an email to [eorders@snapon.com](mailto:eorders@snapon.com) or mail correspondence to Snap-on Incorporated, 2801 80th Street, Kenosha, WI 53141.
 
-**Appendix of Other Snap-on Sites**
+ **Appendix of Other Snap-on Sites**
 
 Snap-on Diagnostics
 
@@ -101,3 +101,5 @@ John Bean (JBC)
 Mitchell Repair Information Company 
 
 SOTIN Sun Electric Netherlands
+
+[Snap-on UK](http://www.snapon.com/UK/default.asp)
