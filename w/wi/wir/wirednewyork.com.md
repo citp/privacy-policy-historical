@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206051736id_/http%3A//www.wirednewyork.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603040525id_/http%3A//wirednewyork.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Wired New York Privacy Policy
 
-| 
-
-[Home](https://web.archive.org/web/20031206051736id_/http%3A/default.htm) / Privacy Policy
-
-##  How we gather information from users
+[Home](https://web.archive.org/web/20040603040525id_/http%3A//wirednewyork.com/default.htm) / Privacy Policy
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as discussion board, newsletters, news updates and other products. 
 
@@ -54,5 +50,3 @@ Attention: Edward Soudentas
 
 Wired New York reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.  
 
-
-| 
