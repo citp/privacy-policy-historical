@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremescience.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621120926id_/http%3A//www.extremescience.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremescience.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202200726id_/http%3A//extremescience.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Extreme Science Privacy Policy
 
