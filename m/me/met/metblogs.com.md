@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metblogs.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012074833id_/http%3A//www.metroblogging.com/terms.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metblogs.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403214942id_/http%3A//www.metroblogging.com/terms.phtml) for the most accurate reproduction.*
 
 # Metroblogging.com - Think Global. Blog Local.
 
@@ -47,18 +47,25 @@ Play nice, karma is a bitch.
   
 [atlanta](http://atlanta.metblogs.com/)  
 [austin](http://austin.metblogs.com/)  
+[bangkok](http://bangkok.metblogs.com/)  
 [boston](http://boston.metblogs.com/)  
 [chicago](http://chicago.metblogs.com/)  
+[dallas](http://dallas.metblogs.com/)  
 [hawaii](http://hawaii.metblogs.com/)  
 [houston](http://houston.metblogs.com/)  
 [istanbul](http://istanbul.metblogs.com/)  
+[karachi](http://karachi.metblogs.com/)  
 [london](http://london.metblogs.com/)  
 [los angeles](http://blogging.la/)  
+[manila](http://manila.metblogs.com/)  
+[melbourne](http://melbourne.metblogs.com/)  
 [minneapolis](http://minneapolis.metblogs.com/)  
+[montreal](http://montreal.metblogs.com/)  
 [new orleans](http://neworleans.metblogs.com/)  
 [new york city](http://nyc.metblogs.com/)  
 [orange county](http://oc.metblogs.com/)  
 [orlando](http://orlando.metblogs.com/)  
+[portland](http://portland.metblogs.com/)  
 [san francisco](http://sf.metblogs.com/)  
 [seattle](http://seattle.metblogs.com/)  
 [tokyo](http://tokyo.metblogs.com/)  
@@ -66,15 +73,15 @@ Play nice, karma is a bitch.
 [vienna](http://vienna.metblogs.com/)  
 [washington d.c.](http://dc.metblogs.com/)  
   
-[bloggers](https://web.archive.org/web/20041012074833id_/http%3A//www.metroblogging.com/bloggers.phtml)  
-[apply](https://web.archive.org/web/20041012074833id_/http%3A//www.metroblogging.com/apply.phtml)  
-[press](https://web.archive.org/web/20041012074833id_/http%3A//www.metroblogging.com/press.phtml)  
-[faq](https://web.archive.org/web/20041012074833id_/http%3A//www.metroblogging.com/faq.phtml)  
-[advertise](https://web.archive.org/web/20041012074833id_/http%3A//www.metroblogging.com/advertise.phtml)  
+[bloggers](https://web.archive.org/web/20050403214942id_/http%3A//www.metroblogging.com/bloggers.phtml)  
+[apply](https://web.archive.org/web/20050403214942id_/http%3A//www.metroblogging.com/apply.phtml)  
+[press](https://web.archive.org/web/20050403214942id_/http%3A//www.metroblogging.com/press.phtml)  
+[faq](https://web.archive.org/web/20050403214942id_/http%3A//www.metroblogging.com/faq.phtml)  
+[advertise](https://web.archive.org/web/20050403214942id_/http%3A//www.metroblogging.com/advertise.phtml)  
 [message boards](http://boards.metroblogging.com/)  
 [public wiki](http://wiki.metroblogging.com/)  
-[opml](https://web.archive.org/web/20041012074833id_/http%3A//www.metroblogging.com/opml.phtml)  
-[contact](https://web.archive.org/web/20041012074833id_/http%3A//www.metroblogging.com/contact.phtml)
+[opml](https://web.archive.org/web/20050403214942id_/http%3A//www.metroblogging.com/opml.phtml)  
+[contact](https://web.archive.org/web/20050403214942id_/http%3A//www.metroblogging.com/contact.phtml)
 
 [](http://www.metroblogging.com/)
 
