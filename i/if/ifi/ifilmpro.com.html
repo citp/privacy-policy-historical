@@ -1,0 +1,672 @@
+<!--The following is the downloaded HTML source of the ifilmpro.com privacy policy that was archived on 2001-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603122609id_/http%3A//www.ifilm.com/db/static_text/0%2C1699%2C7000%2C00.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>IFILM The Internet Movie Guide</title>
+	
+	<meta name="keywords" content="IFILM, ifilm, internet film, online film, online movies, internet movies, film, movies, filmmaking, filmmakers, film directory, portal, movies, independent, indie, movies, spike and mike, spike &amp; mike, download movies, film distribution, comedy, drama, action, gay, experimental, international, spoof, production, screenwriting, cinematography, screenplay, script, scriptwriting, box-office, box office, moviemaking, filmaking, film festivals, film equipment, motion picture">
+	
+	<meta name="description" content="A comprehensive online film portal and directory, with extensive editorial coverage and links to more than 8,000 Internet films.">
+	
+	<link rel="STYLESHEET" href="/includes/css/ifilm.css" type="text/css">
+	
+	
+	
+</head>
+<body bgcolor="#FFFFFF" marginheight="1" marginwidth="1" topmargin="1" leftmargin="1">
+<div align="center">
+
+<table width="760">
+
+<tbody><tr>
+	<td align="center">
+<!-- Vignette StoryServer 5.0 Sun Jun 03 05:26:05 2001 -->
+<!-- IFILM, Corp. (W15) -->
+<script language="JavaScript">
+// client-side JavaScript client sniff. 
+
+    var agt=navigator.userAgent.toLowerCase(); 
+
+    // *** BROWSER VERSION *** 
+    // Note: On IE5, these return 4, so use is_ie5up to detect IE5. 
+    var is_major = parseInt(navigator.appVersion); 
+    var is_minor = parseFloat(navigator.appVersion); 
+
+    // Note: Opera and WebTV spoof Navigator.  We do strict client detection. 
+    // If you want to allow spoofing, take out the tests for opera and webtv. 
+	var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) 
+                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1) 
+                && (agt.indexOf('webtv')==-1)); 
+	//alert (agt.indexOf('opera'))
+	//alert ("is_nav mike == " + is_nav);
+    var is_nav2 = (is_nav && (is_major == 2)); 
+    var is_nav3 = (is_nav && (is_major == 3)); 
+    var is_nav4 = (is_nav && (is_major == 4)); 
+    var is_nav4up = (is_nav && (is_major >= 4)); 
+    var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) || 
+                          (agt.indexOf("; nav") != -1)) ); 
+    var is_nav5 = (is_nav && (is_major == 5)); 
+    var is_nav5up = (is_nav && (is_major >= 5)); 
+
+    var is_ie   = (agt.indexOf("msie") != -1 && (agt.indexOf('opera')==-1)); 
+    var is_ie3  = (is_ie && (is_major < 4)); 
+    var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) ); 
+    var is_ie4up  = (is_ie  && (is_major >= 4)); 
+    var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) ); 
+    var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4); 
+
+   
+	var goodBrowser = ""
+	
+	//alert("nav4up" + is_nav4up);
+	//alert("ie4up" + is_ie4up);
+	if ((is_nav4up == true && is_minor >= 4.08) || (is_ie4up == true)) {
+		 goodBrowser = true;
+	} else {
+		goodBrowser = false;
+	}	
+		
+
+	var allcookies = document.cookie;
+	var exists = allcookies.indexOf("nomoresniffer=");
+	var testings = allcookies
+	
+	if (goodBrowser == false) {
+		if (exists == -1) {
+			alert("before setting cookie")
+			var expiredate = new Date();
+			expiredate.setTime(expiredate.getTime() + (86400000 * 7));
+			document.cookie = "nomoresniffer=ON; expires=" + expiredate.toGMTString();
+			alert(allcookies)
+			self.location='/iFilm/Login_n_Registration/IFILM_invalid_browser/1,2944,,00.html'
+		}	
+	}	
+</script> <table bgcolor="#000000" border="0" width="760" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="265" height="22" bgcolor="#000000" valign="middle">&nbsp;<font class="head12wht"><a href="/" class="head12wht">IFILM</a>
+			 | 
+			<a href="/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Eifilmpro%2Ecom" class="head12wht">IFILMpro</a></font></td>
+		<td width="492" height="22" bgcolor="#000000" valign="middle" align="right"><font class="head12wht">
+			<a class="head12wht" href="/film_submission/filmmaker_login/filmmaker_login/1,2217,,00.html">Submit Your Film</a>&nbsp;|&nbsp;<a class="head12wht" href="/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Escriptshark%2Ecom">Submit Your Script</a>&nbsp;|&nbsp;<a href="/login/login" onclick="return LoginRegister(location.pathname,location.pathname);" class="colorlinkab">Sign In</a></font></td>
+		<td width="3" height="22" bgcolor="#000000" valign="middle"><img src="/images/box/spacer.gif" width="3" height="1" border="0"></td>
+	</tr>
+
+
+<script language="javascript">
+window.name = "IFILMMain";
+
+// set cookie to check cookie functionality
+document.cookie = "CookiesOn=" + "YES";
+</script>
+<script language="javascript">
+<!--
+	// check for IFILM & AC cookies
+	// if not there then they have to either login or register
+	// this function needs to be passed the url that the user was
+	// trying to get to
+	
+	// for Rate, Review, PostMessege 
+	
+	var loginPopup = null;
+	
+	function LoginRegister(toUrl, fromUrl) {
+		//set to check if browser supports cookies
+		//document.cookie = "CookiesOn=" + "YES";
+		
+		var allcookies = document.cookie;
+	   	var pos = allcookies.indexOf("IFILM="); 
+	   	var pos2 = allcookies.indexOf("AC=");
+		var pos3 = allcookies.indexOf("MWC=");
+	   	if ((pos == -1) && (pos2 == -1)){
+			// call function to create popup and pass continue url
+	   		popup(toUrl, fromUrl);
+			return false;
+		} else {
+			return true;
+		}			
+			
+	}
+	
+	// for watching movie
+	function LoginRegisterMovie(toUrl) {
+		//set to check if browser supports cookies
+		//document.cookie = "CookiesOn=" + "YES";
+		
+		var fromUrl = toUrl
+		var allcookies = document.cookie;
+		var pos = allcookies.indexOf("IFILM="); 
+	   	var pos2 = allcookies.indexOf("AC=");
+		var pos3 = allcookies.indexOf("MWC=");
+	   	if ((pos == -1) && (pos2 == -1) && (pos3 != -1)) {
+			// call function to create popup and pass continue url
+	   		popup(toUrl, fromUrl);
+			return false;
+		} else {
+			return true;
+		}			
+			
+	}
+	
+	
+	function popup(toUrl, fromUrl ) {
+		
+		// concat toUrl as a parm on popupUrl
+		PopupUrl = "/iFilm/Login_n_Registration/IFILM_Registration_Pop-Up?url=" + escape(toUrl) + "&fromUrl=" + escape(fromUrl);
+		FeatureStr = "menubar=no,dependent=yes,resizable=yes,scrollbars=no,toolbar=no,height=433,width=450";		
+	    loginPopup = window.open(PopupUrl, 'LoginRegister', FeatureStr);
+	    loginPopup.focus()
+	}
+	//validating that idp search has value...	
+	function checkIdp() {
+	   	if (document.nsForm.query.value == "") {
+			alert("Please enter a keyword to search");
+			return false;
+			}
+	}
+	
+	
+//-->
+	</script> <tr>
+		<td width="274" height="66" bgcolor="#000000" valign="middle"><script language="JavaScript">
+<!--
+	var flash_file = "/images/flash-box/master/ifilmlogo10.swf";
+	var agt = navigator.userAgent.toLowerCase();
+	var ShockMode = 0;
+
+	// detect flash for netscape (win and mac) and ie (win only)
+	if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] && navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin) {
+		if (navigator.plugins && navigator.plugins["Shockwave Flash"]) {
+			ShockMode = 1;
+		}
+	}
+	else if (agt && (agt.indexOf("msie") >= 0) && (agt.indexOf("windows 95")>=0 || agt.indexOf("windows 98")>=0 || agt.indexOf("windows nt")>=0 )) {
+		document.write('<scr');
+		document.writeln('ipt language=VBScript>');
+		document.writeln('on error resume next');
+		document.writeln('ShockMode = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3")))');
+		document.write('</scr');
+		document.write('ipt>');
+	}
+
+	// NOTE: this sets Mac IE 4+ to use Flash plug-in even if it is not installed.
+	if ((agt.indexOf("msie") != -1) && (agt.indexOf("mac_powerpc") != -1) && (agt.indexOf("msie 4") >= 1 )) {
+		ShockMode = 1;
+	}
+
+	if (ShockMode) {
+		document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+		document.write('	codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#3,0,0,0"');
+		document.write('	id="splash" width=274 height=64>');
+		document.write('<param name=src value=' + flash_file + '>');
+		document.write('<param name=quality value="high">');
+		document.write('<param name=menu value="false">');
+		document.write('<param name=bgcolor value="#000000">');
+		document.write('<embed type="application/x-shockwave-flash"');
+		document.write('	pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"');
+		document.write('	name="splash" width=274 height=64');
+		document.write('	src=' + flash_file);
+		document.write('	quality="high"');
+		document.write('	menu="false"');
+		document.write('	bgcolor="#000000"');
+		document.write('	swLiveConnect="false">');
+		document.write('</embed>');
+		document.write('<noembed>');
+		document.write('<a href="/"><img src="http://a940.g.akamai.net/7/940/2105/v0001/www.ifilm.com/flash-box/master/ifilmlogo_nf.gif" width=274 height=64 border=0></a>');
+		document.write('</noembed>');
+		document.write('</object>');
+	}
+	else if (!(agt.indexOf("msie") != -1) && !(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)) {
+		document.write('<a href="/"><img src="http://a940.g.akamai.net/7/940/2105/v0001/www.ifilm.com/flash-box/master/ifilmlogo_nf.gif" width=274 height=64 border=0></a>');
+	}
+	else {
+		document.write('<a href="/"><img src="http://a940.g.akamai.net/7/940/2105/v0001/www.ifilm.com/flash-box/master/ifilmlogo_nf.gif" width=274 height=64 border=0></a>');
+	}
+//--></script><a href="/"><img src="http://a940.g.akamai.net/7/940/2105/v0001/www.ifilm.com/flash-box/master/ifilmlogo_nf.gif" width="274" height="64" border="0"></a><noscript><a href="/"><img src="http://a940.g.akamai.net/7/940/2105/v0001/www.ifilm.com/flash-box/master/ifilmlogo_nf.gif" width=274 height=64 border=0></a></noscript></td>
+		<td width="483" height="66" bgcolor="#000000" valign="middle" align="right"><script language="JavaScript">
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf (";", offset);
+		if (endstr == -1)
+			endstr = document.cookie.length;
+				return unescape (document.cookie.substring(offset, endstr));
+}
+
+function GetCookie(name) {
+    var arg = name + "=";
+    var alen = arg.length;
+    var clen = document.cookie.length; 
+    var i = 0
+    while (i < clen) {
+        var j = i + alen;
+        if (document.cookie.substring (i, j) == arg)
+            return getCookieVal(j);
+            i = document.cookie.indexOf (" ", i ) +1;
+    if (i == 0) break;
+	}
+	return null;
+}
+	var addr_str = "";
+	var is_input = document.URL.indexOf('?');
+	if (is_input != -1) { 
+			addr_str = document.URL.substring(is_input+1, document.URL.length);
+		} else {
+			addr_str = "";
+		}
+</script>	
+<script>
+bust = Math.floor(1000000*Math.random()); transID = Math.floor(1000000*Math.random()); 
+document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" src="http://dc.ifilm.com/html.ng/params.richmedia=richmedia&level1=db&level2=static_text&staticId=7000&uzp='+GetCookie("dcUp")+'&site=ifilm&adsize=468x60&cpp=&transactionID='+transID+'&bust='+bust+'">'); 
+document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=richmedia');
+document.write('&uzp='+GetCookie("dcUp"));
+document.write('&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=468x60&cpp=&transactionID='+transID+'&bust='+bust+'">'); 
+document.write('</SCR' + 'IPT>'); 
+document.write('</IFRAME>');
+</script><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://dc.ifilm.com/html.ng/params.richmedia=richmedia&amp;level1=db&amp;level2=static_text&amp;staticId=7000&amp;uzp=null&amp;site=ifilm&amp;adsize=468x60&amp;cpp=&amp;transactionID=117024&amp;bust=876463"><SCRIPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=richmedia&uzp=null&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=468x60&cpp=&transactionID=117024&bust=876463"></SCRIPT></iframe>
+<noscript>
+	<a href="http://dc.ifilm.com/click.ng/params.richmedia=richmedia&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=468x60&cpp=">
+	<img src="http://dc.ifilm.com/image.ng/params.richmedia=richmedia&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=468x60&cpp="></a>
+</noscript>
+<!-- /AdSpace --></td>
+		<td width="3" height="66" bgcolor="#000000" valign="middle"><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="3" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table class="sitecolor1" border="0" width="760" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td valign="middle" align="center" width="2" height="39"><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="1" height="1" border="0"></td>
+		<td valign="middle" align="center" width="756" height="39">
+			<span class="globalnav1">
+			<a class="globalnav1" href="/channels/001/index/0,1202,7,00.html">Action</a> -
+			<a class="globalnav1" href="/channels/001/index/0,1202,12,00.html">Animation</a> -
+			<a class="globalnav1" href="/channels/001/index/0,1202,6,00.html">Comedy</a> -
+			<a class="globalnav1" href="/channels/001/index/0,1202,5,00.html">Drama</a> -
+			<a class="globalnav1" href="/db/static_text/0,1699,14960,00.html">Erotica</a> -
+			<a class="globalnav1" href="/channels/001/index/0,1202,11,00.html">Experimental</a> -
+			<a class="globalnav1" href="/channels/001/index/0,1202,682,00.html">Gay &amp; Lesbian</a> -
+			<a class="globalnav1" href="/channels/001/index/0,1202,9,00.html">Reality</a> -
+			<a class="globalnav1" href="/channels/001/index/0,1202,14,00.html">Sci-Fi</a> -
+			<a class="globalnav1" href="/channels/001/index/0,1202,667,00.html">Spoof</a> -
+			<a class="globalnav1" href="/db/static_text/0,1699,3122,00.html">IFILM Showcases</a>
+			</span>	<br>
+			<span class="globalnav2">		
+			<a class="globalnav2" href="/db/static_text/0,1699,559,00.html">News &amp; Features</a> -
+			<a class="globalnav2" href="/db/static_text/0,1699,8780,00.html">Hollywood Email</a> -
+			<a class="globalnav2" href="/db/static_text/0,1699,13660,00.html">Gossip</a> -
+			<a class="globalnav2" href="/db/static_text/0,1699,1018,00.html">Movie Reviews</a> -
+			<a class="globalnav2" href="/db/static_text/0,1699,13820,00.html">Movie Sites</a> -
+			<a class="globalnav2" href="/db/static_text/0,1699,7270,00.html">Webfilm News</a> -
+			<a class="globalnav2" href="/db/static_text/0,1699,13280,00.html">Viral Vault</a> -
+			<a class="globalnav2" href="/db/static_text/0,1699,1295,00.html">Success Stories</a> -
+			<a class="globalnav2" href="/db/static_text/0,1699,14440,00.html">Help</a>
+		</span>
+		</td>
+		<td valign="middle" align="center" width="2" height="39"><img src="http://www.ifilm.com/box/spacer.gif" width="1" height="1" border="0"></td>
+	</tr>
+</tbody></table>
+<table bgcolor="#000000" border="0" width="760" cellpadding="0" cellspacing="0">
+  
+				<tbody><tr>
+					<td bgcolor="#000000"><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="90" height="2" border="0"></td>
+					<td bgcolor="#000000"><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="510" height="2" border="0"></td>
+					<td bgcolor="#000000"><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="160" height="2" border="0"></td>
+				</tr>
+				<tr height="23">
+					<td bgcolor="#000000" align="left" valign="middle">&nbsp;&nbsp;</td>
+					<td bgcolor="#000000" valign="middle" align="center">
+					
+						<table border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td valign="middle" align="right"><span class="head12wht">Search the world of film&gt;&gt;&nbsp;&nbsp;</span></td>
+							<td valign="middle">
+								 <form method="GET" name="nsForm" action="/idp/results/index"> 
+								<input type="text" name="query" size="20" maxlength="25" value=""> <input type="hidden" name="keywordText">
+							</form></td>
+							<td><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="5" height="5" border="0"></td>
+							<td valign="middle"><input type="image" src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/home/search_61x18.gif" border="0" value="search" onclick="return checkIdp();"></td> <td><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="5" height="5" border="0"><a href="/db/static_text/0,1699,14445,00.html"><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/home/qmark_12x12.gif" width="12" height="12" border="0"></a></td>
+							<td valign="middle">&nbsp;&nbsp;<a class="head12wht" href="/as/allfilms/1,1676,,00.html">advanced</a>
+							</td>
+						</tr>
+						</tbody></table>
+						
+					</td>
+					<td bgcolor="#000000" valign="middle" align="right"><span class="head12wht"> Sunday, June 3&nbsp;</span></td>
+				</tr>
+				<tr>
+					<td bgcolor="#000000"><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="90" height="2" border="0"></td>
+					<td bgcolor="#000000"><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="510" height="2" border="0"></td>
+					<td bgcolor="#000000"><img src="http://a940.g.akamai.net/7/940/1591/v0001/www.ifilm.com/images/spacer.gif" width="160" height="2" border="0"></td>
+				</tr>
+ </tbody></table> </td>
+</tr>
+
+<tr>
+	<td align="left">
+		<span class="head12"><a class="head12blu" href="/">IFILM</a> : Privacy Statement <br><img src="/images/spacer.gif" border="0" height="6" width="1">
+	</span></td>
+</tr>
+
+<tr>
+	<td align="center">
+		<table width="760" cellpadding="1" cellspacing="0" border="0"> 
+	<tbody><tr> 
+		<td width="530" valign="top" class="f12">
+<!--- nongraphical header --->
+<table width="530" border="0" bgcolor="#003586" cellpadding="0" cellspacing="0">
+	<tbody><tr> 
+		<td class="head12wht" height="18"><img src="/images/spacer.gif" height="1" width="10">ONLINE PRIVACY STATEMENT</td>
+	</tr>
+</tbody></table>
+<br>
+<div align="center" class="head12">ONLINE PRIVACY STATEMENT<br>
+  FOR THE<br>
+  IFILM NETWORK <br>
+  (UPDATED AS OF APRIL 1, 2001)<br>
+  <br>
+</div>
+IFILM Corp. ("IFILM") is committed to respecting the privacy rights of all visitors 
+to the IFILM Network. For purposes of this Online Privacy Statement, the term 
+"IFILM Network" means any and all of IFILM's web sites, including, without limitation, 
+<a href="/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Eifilm%2Enet" class="head12blu"> 
+www.ifilm.net</a>, <a href="/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Eifilm%2Ecom" class="head12blu"> 
+www.ifilm.com</a>, <a href="/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Eifilmpro%2Ecom" class="head12blu"> 
+www.ifilmpro.com</a>, <a href="/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Escriptshark%2Ecom" class="head12blu"> 
+www.scriptshark.com</a>, <a href="/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Ehcdonline%2Ecom" class="head12blu"> 
+www.hcdonline.com</a>, <a href="/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Etvtracker%2Ecom" class="head12blu"> 
+www.loneeagle.com</a>, as well as any other web sites that may now or hereafter 
+contain an authorized IFILM branded area or window, wholly controlled by IFILM. 
+The following policy describes how IFILM protects information it receives from 
+visitors to the IFILM Network, and provides additional information of interest 
+to the parents of children who may visit us. <br>
+<br>
+<span class="head12"><u>What information does IFILM collect and how does IFILM use it?</u></span><br>
+<br>
+<span class="head12">Information Collection and Use</span><br>
+ <br>
+IFILM is the sole owner of the information collected on the IFILM Network unless 
+specifically stated otherwise. We will not sell, share, or rent this information 
+to others in ways different from what is disclosed in this Online Privacy Statement. 
+IFILM collects information from our users at several different points on the IFILM 
+Network. <br>
+<br>
+<span class="head12">Registration and Ordering</span><br>
+<br>
+When ordering products or services from us, or when registering on the IFILM Network, 
+we may need you to provide your name, email address, mailing address, daytime 
+phone number and for the purpose of ordering products or services only, you credit 
+card information. We will also ask you to create a username and password. This 
+information, among other things, allows us to keep a user profile that we may 
+use to customize our sites to the preferences of individual users. This information 
+also allows us to provide for faster communication with and product-related customer 
+service from IFILM. When you order products or register, we provide you discretion 
+whether or not to submit other information, which may include, your evening phone 
+number, fax number, date of birth, gender, income level, occupation, and other 
+various marketing data, demographic information, and your personal consumer preferences. 
+This information allows us better to know the needs and interests of our visitors 
+and possibly to tailor any specific features, promotions or other notifications 
+to individuals in the IFILM Network community. Visitors will also be given a choice 
+when registering whether they would like to be on one or more IFILM Network mailing 
+lists, or whether they would prefer not to receive such mailings. Should we allow 
+our sponsors or other affiliated third parties to send offers to IFILM Network 
+users independently of an IFILM newsletter or announcement, you will also be given 
+an opportunity to opt out of receiving such offers. <br>
+<br>
+<span class="head12">Special Offers, Contests &amp; Updates</span> <br>
+<br>
+When you enter a contest or other promotional feature, IFILM may again ask for 
+the visitor's name, address, email address, username, password, and other various 
+marketing data, demographic information, and consumer preferences so that they 
+are able to better administer the contest and notify winners. We may also use 
+the information we collect to occasionally notify you about important functionality 
+changes to the IFILM Network, new IFILM services, and special offers we think 
+you'll find valuable. If you would rather not receive this information, or would 
+like to opt-out of any other information request or distribution, simply submit 
+such a request to IFILM at <a href="mailto:customerservice@ifilm.com" class="head12blu">customerservice@IFILM.com</a>. 
+For more information about opting out, please see below. <br>
+<br>
+<span class="head12"><u>How does IFILM protect visitor information?</u></span><br>
+<br>
+<span class="head12">Security</span><br>
+<br>
+IFILM implements a variety of security measures to maintain the safety of your 
+personal information. User personal information is contained behind secured networks 
+and is only accessible by a limited number of employees who have special access 
+rights to such systems. When you place orders or access your personal information, 
+we offer the use of a secure server. All sensitive credit information supplied 
+by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted 
+into IFILM's databases to be only accessed as stated above. However, when IFILM 
+makes chat rooms, forums, message boards, individual web pages, and/or news groups 
+available to its users, please remember that any information that is disclosed 
+in these areas becomes public information and you should exercise caution when 
+deciding to disclose any of your personal information.<br>
+<br>
+<span class="head12">Cookies</span><br>
+<br>
+Cookies are bits of electronic information that a web site can transfer to a visitor's 
+hard drive to help keep records of his or her visit to the site. Cookies allow 
+web site operators to better customize visits to the site to the visitor's individual 
+preferences. The use of cookies is standard on the Internet and many major web 
+sites use them. Although most web browsers automatically accept cookies, you can 
+usually change your browser either to prevent this or to notify you whenever you 
+are sent a cookie. This notification gives you the chance to decide whether or 
+not to accept the cookie. Even without accepting a cookie, you can still access 
+most of the features on the site. IFILM uses cookies to provide visitors to the 
+IFILM Network with a better experience on its site. <br>
+<br>
+<span class="head12"><u>Does IFILM disclose the information it collects from visitors to outside 
+parties?</u></span><br>
+<br>
+<span class="head12">Log Files</span><br>
+<br>
+We use IP addresses to analyze trends, administer the IFILM Network, track users' 
+movements, and gather broad demographic information for aggregate use. IP addresses 
+are not linked to personally identifiable information. <br>
+<br>
+<span class="head12">Sharing</span><br>
+<br>
+We may share aggregated demographic information with our partners and advertisers. 
+This is not linked to any personal information that can identify any individual 
+person. We may partner with other parties to provide specific services. When the 
+user signs up for these services we will share names, or other contact information 
+that is necessary for the third party to provide these services. These parties 
+are not allowed to use personally identifiable information except for the purpose 
+of providing these services.<br>
+<br>
+<span class="head12">Sale or Transfer</span><br>
+<br>
+IFILM reserves the right at its sole discretion to sell, trade or otherwise transfer 
+outside the company personally identifiable information that visitors voluntarily 
+provide in any registration or contest submission. This information is used to 
+better understand visitors' use of the IFILM Network, to support related transactions 
+made on the site, and to better know our visitors and possibly tailor any specific 
+features, promotions, or other notifications to them. Additionally, such data, 
+both in an individual as well as in an aggregate form, may be provided to other 
+parties for marketing, advertising, or other uses in the future. Each email newsletter 
+always contains instructions on how to discontinue receipt of the newsletter. 
+However, if a visitor at anytime chooses to no longer receive such information 
+and opt-out from any future mailings, they should simply reply to IFILM's removal 
+instructions and request to be removed from any such list and/or mailings, or 
+they may also send such a request to <a href="mailto:customerservice@ifilm.com" class="head12blu">customerservice@IFILM.com</a>. 
+<br>
+<br>
+<span class="head12"><u>How can I talk back to IFILM?</u></span><br>
+<br>
+<span class="head12">Opting Out; Removing and Modifying Information Provided to IFILM</span><br>
+<br>
+After gathering any user information, IFILM offers users the opportunity to remove 
+their user-identifiable information from our database so as not to receive future 
+communications or to no longer interact with the IFILM Network until they later 
+chose to. IFILM additionally provides users the opportunity to update and modify 
+any information they have previously provided by viewing their information sent 
+directly to them following such a request from customerservice@IFILM.com, or by 
+U.S. Mail to IFILM Corp., Attn: Privacy Administrator, 1024 N. Orange Dr., Hollywood, 
+California 90038, and updating and/or modifying the information previously provided. 
+<br>
+<br>
+<span class="head12">Feedback</span><br>
+<br>
+IFILM welcomes your questions, comments, and concerns about privacy. Please send 
+us any and all feedback pertaining to this, or any other issue, at <a href="mailto:customerservice@ifilm.com" class="head12blu">customerservice@IFILM.com</a>, 
+or by U.S. Mail to IFILM Corp., Attn: Privacy Administrator, 1024 N. Orange Drive, 
+Hollywood, California 90038. <br>
+ <br>
+<span class="head12"><u>Some final notes</u></span><br>
+<br>
+<span class="head12">Third Party Links</span><br>
+<br>
+In an attempt to provide increased value to our visitors, IFILM may choose various 
+third party web sites to link to from, and frame within, its own site. However, 
+even if the third party is affiliated with IFILM, IFILM has no control over these 
+linked sites and each site will have its own, independent privacy and data collection 
+practices. IFILM has no responsibility or liability for these independent policies 
+or actions and is not responsible for the privacy practices or the content of 
+such web sites. These linked sites are only for your convenience and you therefore 
+access them at your own risk. Nonetheless, IFILM seeks to protect the integrity 
+of the IFILM Network and the links placed upon it and therefore requests any feedback 
+on not only its own site, but for sites it links to as well (including if a specific 
+link does not work) to <a href="mailto:customerservice@ifilm.com" class="head12blu">customerservice@IFILM.com</a>. 
+<br>
+ <br>
+<span class="head12">IFILM's special note to parents</span><br>
+<br>
+IFILM realizes that many children will visit IFILM Network on the Internet, and 
+IFILM therefore encourages parents and guardians to spend time online with their 
+children, to participate in the interactive activities offered online, and for 
+children to consult with their parents before submitting any information to any 
+web site, including the IFILM Network. No information should be submitted to or 
+posted on the IFILM Network by guests under 18 years of age without the consent 
+and supervision of their parent or guardian. Although guests under 18 years of 
+age may be allowed, with their parent permission and supervision, to participate 
+in noted contests, if such a guest wins, notification and prizes are sent to the 
+parents or guardian. However, IFILM believes that it is ultimately the parents' 
+responsibility to supervise their children's online activities and consider using 
+parental control tools available from online services and software manufacturers 
+that help provide a kid-friendly online environment. These tools can also prevent 
+children from disclosing their name, address, and other personal information online 
+without parental permission. For additional information about parental control 
+tools, please consult the "Consumer Assistance" page of the <a href="/db/redirect/1,1775,,00.html?redir=http%3A%2F%2Fwww%2Ethe%2Ddma%2Eorg" class="head12blu"> 
+Direct Marketing Association home page</a>.<br>
+<br>
+<span class="head12">Terms of Service</span><br>
+<br>
+Please also visit IFILM's terms of use establishing the use, disclaimers, and 
+limitations of liability governing the use of the entire IFILM Network. <br>
+ <br>
+<span class="head12"><u>Your consent</u></span><br>
+<br>
+By using the IFILM Network, you consent to the collection and use of this information 
+by IFILM. If we decide to change our privacy policy, we will post those changes 
+on this page so that you are always aware of what information we collect, how 
+we use it, and under what circumstances we disclose it. <br>
+<br>
+		
+
+		</td> 
+		<td width="15"></td>
+		<td width="215" valign="top" align="right">		
+ <!-- AdSpace -->
+<script>
+bust = Math.floor(1000000*Math.random());
+transID = Math.floor(1000000*Math.random());
+document.write('<IFRAME WIDTH=125 HEIGHT=125 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" src="http://dc.ifilm.com/html.ng/params.richmedia=richmedia&uniqueID=986265152-1072589849&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=125x125&cpp=3&transactionID='+transID+'&bust='+bust+'">');
+document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=richmedia&uniqueID=986265152-1072589849&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=125x125&cpp=3&transactionID='+transID+'&bust='+bust+'">');
+document.write('</SCR' + 'IPT>');
+document.write('</IFRAME>');
+</script><iframe width="125" height="125" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://dc.ifilm.com/html.ng/params.richmedia=richmedia&amp;uniqueID=986265152-1072589849&amp;level1=db&amp;level2=static_text&amp;staticId=7000&amp;site=ifilm&amp;adsize=125x125&amp;cpp=3&amp;transactionID=329553&amp;bust=820415"><SCRIPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=richmedia&uniqueID=986265152-1072589849&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=125x125&cpp=3&transactionID=329553&bust=820415"></SCRIPT></iframe>
+<noscript>
+	<a href="http://dc.ifilm.com/click.ng/params.richmedia=richmedia&uniqueID=986265152-1072589849&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=125x125&cpp=3">
+	<img src="http://dc.ifilm.com/image.ng/params.richmedia=richmedia&uniqueID=986265152-1072589849&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=125x125&cpp=3"></a>
+</noscript>
+<!-- /AdSpace -->
+		
+		
+		
+
+
+
+
+	
+
+			
+			
+
+		
+		
+		
+		
+		
+
+		<p>
+<!-- AdSpace -->
+<script>
+bust = Math.floor(1000000*Math.random());
+transID = Math.floor(1000000*Math.random());
+document.write('<IFRAME WIDTH=120 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" src="http://dc.ifilm.com/html.ng/params.richmedia=richmedia&uniqueID=986265152-1072585201&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=120x60&cpp=3&transactionID='+transID+'&bust='+bust+'">');
+document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=richmedia&uniqueID=986265152-1072585201&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=120x60&cpp=3&transactionID='+transID+'&bust='+bust+'">');
+document.write('</SCR' + 'IPT>');
+document.write('</IFRAME>');
+</script><iframe width="120" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://dc.ifilm.com/html.ng/params.richmedia=richmedia&amp;uniqueID=986265152-1072585201&amp;level1=db&amp;level2=static_text&amp;staticId=7000&amp;site=ifilm&amp;adsize=120x60&amp;cpp=3&amp;transactionID=939089&amp;bust=966213"><SCRIPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=richmedia&uniqueID=986265152-1072585201&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=120x60&cpp=3&transactionID=939089&bust=966213"></SCRIPT></iframe>
+<noscript>
+	<a href="http://dc.ifilm.com/click.ng/params.richmedia=richmedia&uniqueID=986265152-1072585201&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=120x60&cpp=3">
+	<img src="http://dc.ifilm.com/image.ng/params.richmedia=richmedia&uniqueID=986265152-1072585201&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=120x60&cpp=3"></a>
+</noscript>
+<!-- /AdSpace -->
+ </p></td> 
+	</tr> 
+</tbody></table>
+	 </td>
+</tr>
+
+<tr>
+	<td align="center">
+		<img src="/images/spacer.gif" border="0" height="18" width="1">
+		<table width="760" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+	<td align="center">
+		<img src="/images/spacer.gif" width="1" height="5"><br>
+		<a class="head12blu" href="/db/redirect/1,1775,,00.html?redir=http://www.ifilmpro.com/box_office/index " 1565""="">Box Office</a> -
+		<a class="head12blu" href="/ifilm/skeletons/new_films_list/0,1763,,00.html">Latest IFILMS</a> -
+		<a class="head12blu" href="/db/static_text/0,1699,13520,00.html">Palomar Pictures</a> -
+		<a class="head12blu" href="/film_submission/filmmaker_login/filmmaker_login/1,2217,,00.html">Submit Your Film</a> - 
+		<a class="head12blu" href="/db/static_text/0,1699,1286,00.html">Spike &amp; Mike</a> -
+		<a class="head12blu" href="/db/static_text/0,1699,13242,00.html">Thugs on Film</a> - 
+		<a class="head12blu" href="http://www.ifilm.com/ishottheband">I Shot the Band</a><br>
+		<a class="head12blu" href="/db/static_text/0,1699,14440,00.html">Help</a> -
+		<a class="head12blu" href="/db/static_text/0,1699,7000,00.html">Privacy Policy</a> -
+		<a class="head12blu" href="/db/static_text/0,1699,36,00.html">IFILM Is Hiring</a> - 
+		<a class="head12blu" href="/db/static_text/0,1699,34,00.html">About IFILM</a> -  
+		<a class="head12blu" href="/db/static_text/0,1699,97,00.html">Become an Affiliate</a> -
+		<a class="head12blu" href="/db/static_text/0,1699,96,00.html">Advertise with Us</a></td>
+</tr>
+</tbody></table>
+
+<table width="760" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+	<td width="27" valign="bottom">
+		</td>
+	<td width="706" align="center">
+		<img src="/images/spacer.gif" width="1" height="16"><br>
+		 <span class="f10">COPYRIGHT © 1998 - 2001 IFILM CORP.<br></span>
+		<a class="f10" href="/db/static_text/0,1699,71,00.html">DISCLAIMER AND TERMS OF USE</a><br>&nbsp;
+		 <!-- AdSpace -->
+<script>
+bust = Math.floor(1000000*Math.random());
+transID = Math.floor(1000000*Math.random());
+document.write('<IFRAME WIDTH=1 HEIGHT=1 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" src="http://dc.ifilm.com/html.ng/params.richmedia=richmedia&uniqueID=986265152-1072576143&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=1x1&transactionID='+transID+'&bust='+bust+'">');
+document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=richmedia&uniqueID=986265152-1072576143&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=1x1&transactionID='+transID+'&bust='+bust+'">');
+document.write('</SCR' + 'IPT>');
+document.write('</IFRAME>');
+</script><iframe width="1" height="1" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://dc.ifilm.com/html.ng/params.richmedia=richmedia&amp;uniqueID=986265152-1072576143&amp;level1=db&amp;level2=static_text&amp;staticId=7000&amp;site=ifilm&amp;adsize=1x1&amp;transactionID=733994&amp;bust=175206"><SCRIPT LANGUAGE="JavaScript1.1" src="http://dc.ifilm.com/js.ng/params.richmedia=richmedia&uniqueID=986265152-1072576143&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=1x1&transactionID=733994&bust=175206"></SCRIPT></iframe>
+<noscript>
+	<a href="http://dc.ifilm.com/click.ng/params.richmedia=richmedia&uniqueID=986265152-1072576143&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=1x1">
+	<img src="http://dc.ifilm.com/image.ng/params.richmedia=richmedia&uniqueID=986265152-1072576143&level1=db&level2=static_text&staticId=7000&site=ifilm&adsize=1x1"></a>
+</noscript>
+<!-- /AdSpace -->
+		 </td>
+	<td width="27" valign="bottom"></td>
+</tr>
+</tbody></table> </td>
+</tr>
+
+</tbody></table>
+</div>
+
+
+</body></html>
