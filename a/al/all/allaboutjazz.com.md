@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405105122id_/http%3A//www.allaboutjazz.com/privacy2000.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2001-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011015114133id_/http%3A//www.allaboutjazz.com/privacy2000.htm) for the most accurate reproduction.*
 
-# All About Jazz | Jazz Magazine and Resource
+# Jazz Magazine and Resource | ALL ABOUT JAZZ
 
   
 **Vision X Privacy Statement**
