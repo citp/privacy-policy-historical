@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232745id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612083526id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
 
-# Online job board
+# Privacy Policy - Jobs4jobs.com
 
 **W** e at Jobs4jobs.com - online job board understand your need to maintain your privacy when searching for a job. Jobs4jobs.com is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us is used only for the purposes as set forth herein.
 
@@ -58,4 +58,4 @@ Jobs4jobs.com has an area on the site where you can submit feedback. Any feedbac
 **  
 If we decide to change our privacy commitment for Jobs4jobs.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Users will be notified of any changes to Jobs4jobs's privacy policy statement via our electronic mailings and a notice posting on our home page. If any changes apply to the use of personally identifiable information, we will notify the user by email. 
 
-**Last updated, 31 March 2003**
+**Last updated, 31 January 2004**
