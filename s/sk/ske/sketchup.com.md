@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sketchup.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609161224id_/http%3A//www.sketchup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchup.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204081221id_/http%3A//www.sketchup.com/privacy.php) for the most accurate reproduction.*
 
 # SketchUp 3D - Privacy Policy -
 
-[](https://web.archive.org/sketchup.php)[](https://web.archive.org/try_buy.php)[](https://web.archive.org/referral_program.php)[](https://web.archive.org/gallery.php)[](https://web.archive.org/press_releases.php)[](https://web.archive.org/support.php)[](https://web.archive.org/training.php)[](http://www.sketchup3d.com/forum)[](https://web.archive.org/about.php)[](https://web.archive.org/)[](https://web.archive.org/international.php) |  | 
+[](https://web.archive.org/sketchup.php)[](https://web.archive.org/try_buy.php)[](https://web.archive.org/gallery.php)[](https://web.archive.org/press_releases.php)[](https://web.archive.org/support.php)[](https://web.archive.org/training.php)[](http://www.sketchup3d.com/forum)[](https://web.archive.org/about.php)[](https://web.archive.org/)[](https://web.archive.org/international.php) |  | 
 
 By using our web site, you consent to the collection and use of certain information by @Last Software. Protecting the privacy of User information is important to @Last Software and to the way we conduct our business. The following policy outlines our information gathering and dissemination practices for our Service. @Last Software reserves the right, at our discretion, to change, modify, add, or remove portions of this policy at any time.
 
