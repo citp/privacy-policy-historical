@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807060444id_/http%3A//www.jcpportraits.com/privacy.shtml) for the most accurate reproduction.*
 
 # JCPenney Portrait Studios - Terms of Use and Privacy Policy
 
 ## JCPenney Portraits Privacy Policy
 
-[Terms and Conditions](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms.shtml#Terms) | [Security](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms.shtml#Security) | [ Copyright Notice](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms2.shtml#Copyright) |   
-[ Disclaimers](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms2.shtml#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/terms3.shtml#LIMITATION) | [Privacy](https://web.archive.org/web/20040606055010id_/http%3A//jcpportraits.com/privacy.shtml)
+[Terms and Conditions](https://web.archive.org/web/20040807060444id_/http%3A//www.jcpportraits.com/terms.shtml#Terms) | [Security](https://web.archive.org/web/20040807060444id_/http%3A//www.jcpportraits.com/terms.shtml#Security) | [ Copyright Notice](https://web.archive.org/web/20040807060444id_/http%3A//www.jcpportraits.com/terms2.shtml#Copyright) |   
+[ Disclaimers](https://web.archive.org/web/20040807060444id_/http%3A//www.jcpportraits.com/terms2.shtml#DISCLAIMERS) | [ Limitation of Liability](https://web.archive.org/web/20040807060444id_/http%3A//www.jcpportraits.com/terms3.shtml#LIMITATION) | [Privacy](https://web.archive.org/web/20040807060444id_/http%3A//www.jcpportraits.com/privacy.shtml)
 
 [Return to previous page](javascript:window.history.go\(-1\);)
 
