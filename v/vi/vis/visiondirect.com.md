@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601101702id_/http%3A//www.visiondirect.com/scripts/policies.asp%3Fcur%3D1%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211140841id_/http%3A//www.visiondirect.com/scripts/policies.asp/cur%3D1%23privacy) for the most accurate reproduction.*
 
 # Company Policies
 
@@ -32,7 +32,7 @@ Accessories
 [Eyeglasses & Sunglasses](http://sunglasses.visiondirect.com/index.php?cur=1)  
 [Lens Cases](https://web.archive.org/scripts/productGroup.asp/deptID=9/cur=1)  
 Services  
-[Login](https://www.visiondirect.com/scripts/login.asp/cur=1) / [Logout](http://www.visiondirect.com/scripts/logout.asp)  
+[Login](https://www.visiondirect.com/scripts/login.asp/cur=1) / [Logout](http://www.visiondirect.com/scripts/logout.asp/cur=1)  
 [Customer Service](https://web.archive.org/scripts/help.asp/cur=1)  
 [My Account](https://web.archive.org/scripts/myAccount.asp/cur=1)  
 [Contact Us](https://web.archive.org/scripts/help.asp/cur=1)  
@@ -73,10 +73,12 @@ If you have any questions, comments, complaints or concerns or require more info
 
 ## Security Policy
 
-Vision Direct has security measures in place to protect the loss, misuse, or alteration of the information under our control. Every transaction is protected by Verisign™, the internationally recognized leader in online security systems. Your information is fully encrypted to ensure complete privacy. Over 35,000 web sites in over 50 countries rely on Verisign's leading edge cryptographic techniques to provide web shoppers with complete confidence. Vision Direct guarantees that every transaction you make will be 100% safe. Vision Direct employees are trained in the security and privacy policies regarding our customer's personal information. This is to ensure the private information of our customers is controlled and maintained by our employees in a safe and secure manner.All of your information is stored on a secure server using the latest encryption technology.    
-| Any materials provided on this web site are for information purposes only. Have your eyes examined regularly and always follow your eye care professional's instructions for the proper use and care of your contact lenses. IF YOU ARE HAVING ANY UNEXPLAINED EYE DISCOMFORT, WATERING, VISION CHANGE OR REDNESS, REMOVE YOUR LENSES IMMEDIATELY AND CONSULT YOUR EYE CARE PROFESSIONAL BEFORE WEARING YOUR LENSES AGAIN  
+Vision Direct has security measures in place to protect the loss, misuse, or alteration of the information under our control. Every transaction is protected by Verisign™, the internationally recognized leader in online security systems. Your information is fully encrypted to ensure complete privacy. Over 35,000 web sites in over 50 countries rely on Verisign's leading edge cryptographic techniques to provide web shoppers with complete confidence. Vision Direct guarantees that every transaction you make will be 100% safe. Vision Direct employees are trained in the security and privacy policies regarding our customer's personal information. This is to ensure the private information of our customers is controlled and maintained by our employees in a safe and secure manner.All of your information is stored on a secure server using the latest encryption technology.  |  |  | [](https://web.archive.org/scripts/visionRewards.asp/cur=1) |  |   
+---|---|---|---|---  
+  
+Any materials provided on this web site are for information purposes only. Have your eyes examined regularly and always follow your eye care professional's instructions for the proper use and care of your contact lenses. IF YOU ARE HAVING ANY UNEXPLAINED EYE DISCOMFORT, WATERING, VISION CHANGE OR REDNESS, REMOVE YOUR LENSES IMMEDIATELY AND CONSULT YOUR EYE CARE PROFESSIONAL BEFORE WEARING YOUR LENSES AGAIN  
 ---  
   
 Site operated by Vision Direct Inc.  
 International Vision Direct is a registered Trade Name of Vision Direct Inc.  
-© 1998 - 2003 International Vision Direct Corp. All Rights Reserved[Copyright and Legal Disclaimer](https://web.archive.org/scripts/copyright.asp/cur=1)  |  [Privacy Policy](https://web.archive.org/scripts/policies.asp/cur=1#privacy)
+© 1998 - 2003 International Vision Direct Corp. All Rights Reserved[Affiliate Program](https://web.archive.org/scripts/affiliate.asp/cur=1)  |  [Copyright and Legal Disclaimer](https://web.archive.org/scripts/copyright.asp/cur=1)  |  [Privacy Policy](https://web.archive.org/scripts/policies.asp/cur=1#privacy)  |  [Site Map](https://web.archive.org/scripts/sitemap.asp/cur=1)
