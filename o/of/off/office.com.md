@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619110744id_/http%3A//www.office.com/global/Privacy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815064526id_/http%3A//www.office.com/global/Privacy/privacy_policy) for the most accurate reproduction.*
 
 # Office.com: Privacy Policy
 
