@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601172433id_/http%3A//www.iht.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2002-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021128170210id_/http%3A//www.iht.com/privacy.htm) for the most accurate reproduction.*
 
 # IHT: Privacy
 
@@ -6,6 +6,7 @@
 ---  
 [Front Page](https://web.archive.org/frontpage.htm)  
 [Business](https://web.archive.org/business.htm)  
+[Business Asia by Bloomberg](https://web.archive.org/bloomberg.htm)  
 [Arts & Leisure](https://web.archive.org/arts.htm)  
 [Travel](https://web.archive.org/travel.htm)  
 [Technology](https://web.archive.org/technology.htm)  
@@ -13,6 +14,7 @@
 [Sports](https://web.archive.org/sports.htm)  
 [Editorials & Opinion](https://web.archive.org/opinion.htm)  
 [Money Report](https://web.archive.org/moneyreport.htm)  
+[At Home Abroad](https://web.archive.org/athome.htm)  
 [Special Reports](https://web.archive.org/specialreports/index.htm)  
 [Article Index](https://web.archive.org/articleindex.htm)  
 **Regions**  
@@ -22,10 +24,11 @@
 [Europe](https://web.archive.org/europe.htm)  
   
 **Publishing Partners**  
-[Ha'aretz, Kathimerini, Italy Daily, Frankfurter Allgemeine Zeitung, JoongAng Ilbo, The Daily Star](https://web.archive.org/global.htm)  
+[Ha'aretz, Kathimerini, Italy Daily, F.A.Z. Weekly, JoongAng Ilbo, The Daily Star, El País](https://web.archive.org/global.htm)  
 **Services**  
 [Currency Converter](https://web.archive.org/cgi-bin/cgconvert.cgi)  
 [Weather](https://web.archive.org/weather.htm)  
+[International Funds](https://web.archive.org/funds/index.php)  
 [Sponsored Sections](https://web.archive.org/sponsored/index.htm)  
 [Classifieds](https://web.archive.org/classifieds.htm)  
 [Help](https://web.archive.org/help.htm)  
