@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520002603id_/http%3A//www.redding.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203165200id_/http%3A//redding.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -59,4 +59,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact the Web site manager at: [aandrews@redding.com](mailto:aandrews@redding.com). 
 
-To link to the full Terms of Use Agreement pertaining to use of our site(s), please click [here](https://web.archive.org/web/20000520002603id_/http%3A//www.redding.com/news/user_agreement.htm).
+To link to the full Terms of Use Agreement pertaining to use of our site(s), please click [here](https://web.archive.org/user_agreement.htm).
