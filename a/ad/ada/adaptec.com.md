@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623065527id_/http%3A//www.adaptec.com/worldwide/company/compeditorial.html%3Fsess%3Dno%26language%3DEnglish%2BUS%26cat%3D/Company/Legal%26prodkey%3Dlegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptec.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020109id_/http%3A//www.adaptec.com/worldwide/company/compeditorial.html%3Fsess%3Dno%26language%3DEnglish%2BUS%26cat%3D/Company/Legal%26prodkey%3Dlegal_privacy) for the most accurate reproduction.*
 
 # Adaptec: Privacy Policy for www.adaptec.com
 
