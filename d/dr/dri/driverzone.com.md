@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverzone.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206183718id_/http%3A//www.driverzone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverzone.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605232935id_/http%3A//driverzone.com/privacy.htm) for the most accurate reproduction.*
 
 # Driverzone.com Privacy Statement
 
