@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604022818id_/http%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054123id_/http%3A//bidnapper.com/privacy.php3) for the most accurate reproduction.*
 
-# Bidnapper.com: The eBay Auction Sniper that Wins Online Auctions for you!
+# Bidnapper : eBay auction sniper that wins online auctions, free trial. Snipe and try our sniping software.
 
 **_Privacy/Security Policy_**
 
@@ -12,10 +12,10 @@ This information is protected in our secure database. This database resides at s
 
 Bidnapper is linked to the Internet through redundant OC-12 connections to ensure responsiveness and speed. These lines are permanently linked to a triple-redundant national backbone. This puts your bid closer to its destination, eBay's® super-secure hosting facility. 
 
-Bidding results are tabulated for use in the promotion of Bidnapper services. Specific user's information is not associated with this data. No data is collected on the items you bid on. No demographic information is collected by Bidnapper. No information collected by Bidnapper is made available to third parties. 
+Bidding results are tabulated for use in the promotion of Bidnapperservices. Specific user's information is not associated with this data. No data is collected on the items you bid on. No demographic information is collected by Bidnapper. No information collected by Bidnapper is made available to third parties. 
 
 Bidnapper puts a cookie on your computer that identifies you as a registered users. It is only used to give you access to our services and is not made available or accessible to third parties. 
 
-Payment to Bidnapper is done through our paymaster, iBill. Payer's personal information is not retained by Bidnapper. Payment information is transmitted to and from iBill utilizing Secure Socket Layer encryption software. For further information on iBill's privacy policy go to: <http://www.ibill.com/About/Legal.cfm#Privacy>
+Payment to Bidnapper is done through our paymaster, Paypal and Stratus. Payer's personal information is not retained by Bidnapper. Payment information is transmitted to and from Paypal and Stratus utilizing Secure Socket Layer encryption software.
 
 Bidnapper's privacy/security policy is subject to change at any time. Notification of changes to this policy will be made to current users via e-mail. 
