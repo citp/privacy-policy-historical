@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602134800id_/http%3A//www.ktul.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204192421id_/http%3A//www.ktul.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Oklahoma's Newschannel 8 - Privacy Statement
 
