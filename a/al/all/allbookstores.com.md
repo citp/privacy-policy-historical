@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609145559id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205114304id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
 
-# Allbookstores.com: Helps you search for books and compare prices at dozens of online bookstores
+# Compare prices on new, used, and out of print books and textbooks
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. 
 
