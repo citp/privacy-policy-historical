@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rhino.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010035311id_/http%3A//www.rhino.com/privacy/index.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhino.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403230317id_/http%3A//www.rhino.com/privacy/index.lasso) for the most accurate reproduction.*
 
-# Privacy Policy - Rhino
+# Privacy Policy
 
-**"Online Privacy Notice**
+### Online Privacy Notice
 
 Thank you for visiting Rhino.com, a Warner Music Group site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Warner Music Group site. [**CLICK HERE**](businesses.lasso) for a list of the Warner Music Group businesses whose sites are governed by this Privacy Notice. 
 
@@ -69,5 +69,4 @@ The site you are visiting is one of the Warner Music Group general audience site
 
 **How to Contact Us**
 
-If you have any questions or concerns about the Warner Music Group online policy for this site or its implementation you may contact us at [webmaster@rhino.com](mailto:webmaster@rhino.com)  
-
+If you have any questions or concerns about the Warner Music Group online policy for this site or its implementation you may contact us at [webmaster@rhino.com](mailto:webmaster@rhino.com).
