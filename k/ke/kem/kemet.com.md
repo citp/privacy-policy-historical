@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606155141id_/http%3A//www.kemet.com/kemet/web/homepage/kechome.nsf/vabypagename/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201181352id_/http%3A//kemet.com/kemet/web/homepage/kechome.nsf/vabypagename/privacy) for the most accurate reproduction.*
 
 # KEMET Electronics - KEMET Privacy Statement
 
