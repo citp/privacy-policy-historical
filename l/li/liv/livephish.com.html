@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the livephish.com privacy policy that was archived on 2003-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030409202839id_/http%3A//www.livephish.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livephish.com privacy policy that was archived on 2003-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030812095956id_/http%3A//www.livephish.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>livephish.com | PRIVACY POLICY</title>
@@ -8,6 +8,9 @@ body{
 	background-color: cccccc;
 	background-image: url(/images/centered.gif);
 	background-position: center;
+	scrollbar-track-color: #2F2F2F; 
+	scrollbar-face-color: #2F2F2F; 
+	scrollbar-3dlight-color: #666666; 
 }
 
 .concertHeader {
@@ -21,6 +24,12 @@ body{
 	font-size: 14px;
 	color: #F7A000;
 	font-weight: bold;
+}
+
+.concertHeader11 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #F7A000;
 }
 
 .feaHeader {
@@ -94,10 +103,18 @@ body{
 	color: #CCCCCC;
 }
 
+.stashSubhead{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+}
+
 .headText 
 { color: white; font-weight: bold; font-size: 11px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
 .dateText 
 { color: white; font-size: 10px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+
 
 a.feaTextgrey9 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -121,6 +138,8 @@ A.white10 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;
 A.white10:hover { color:#F7A000; }
 A.white12 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #FFFFFF; text-decoration: underline;}
 A.white12:hover { color:#F7A000; }
+A.top5 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #FFFFFF; text-decoration: none;}
+A.top5:hover { color:#F7A000; }
 
 p {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -146,6 +165,7 @@ LI {font-size:10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #
 .ind  { margin-left: 10px; margin-right: 10px }
 
 .black11b { font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; font-weight:bold;font-size:11px;margin-left:27px; }
+
 </style>
 <script language="JavaScript">
 window.name = "harpua"
@@ -167,8 +187,7 @@ function doVoid() {
 }
 
 function emailSupport() {
-	noSpam = "tela" + String.fromCharCode(64) + "livephish.com"
-	window.location="mailto:" + noSpam
+	window.location="http://www.livephish.com/support/default.asp"
 }
 
 function review(cmd,num) {
@@ -178,8 +197,8 @@ function review(cmd,num) {
 	document.location = openURL
 }
 
-function launchNugster(sId,cName) {
-	window.open("http://www.livephish.com/nugster/download_message.asp?show=" + sId + "&set=1&codec=" + cName,"nugster","scrollbars=no,resizable=no,location=no,status=no,toolbar=no,width=500,height=510")
+function launchNugster(sId,mID,cName) {
+	window.open("http://www.livephish.com/nugster/download_message.asp?show=" + sId + "&set=1&mediaID=" + mID + "&codec=" + cName,"nugster","scrollbars=no,resizable=no,location=no,status=no,toolbar=no,width=500,height=510")
 }
 
 </script>
@@ -251,6 +270,42 @@ function rollover( imagename, objectsrc )
         document.images[imagename].src = eval(objectsrc+".src");
 }
 //-->
+</script>
+
+<script language="JavaScript">
+
+function calcExp(inDate) {
+	var cDate = new Date(inDate)
+	var agt=navigator.userAgent.toLowerCase();
+	// Adjust date to local time for IE 
+	if (agt.indexOf("msie") != -1) cDate.setHours(cDate.getHours() - (cDate.getTimezoneOffset()/60))
+	mm = dDate(cDate.getMonth() + 1)
+	dd = dDate(cDate.getDate())
+	yy = cDate.getYear()
+	yy = yy.toString()
+	yy = yy.substr(yy.length-2,2)
+	hh = cDate.getHours()
+	mn = dDate(cDate.getMinutes())
+	if ((hh-11) > 0) {
+		amPM = "PM"
+		if (hh > 12) hh = hh - 12
+	} else {
+		amPM = "AM"
+		if (hh == 0) hh = 12
+	}
+	rDate = mm + "/" + dd.toString() + "/" + yy + " " + hh.toString() + ":" + mn + " " + amPM
+	return rDate
+}
+
+function dDate(inVal) {
+	if (inVal < 10) {
+		inVal = "0" + inVal.toString()
+	} else {
+		inVal = inVal.toString()
+	}
+	return inVal
+	return newDate
+}
 </script>
 
 
@@ -444,8 +499,11 @@ If you have any questions or concerns about the LivePhish.com online policy for 
 <a class="footer" href="http://www.livephish.com/terms.asp">TERMS OF USE</a> |
 <a class="footer" href="http://www.livephish.com/privacy.asp">PRIVACY POLICY</a> |
 <a class="footer" href="#" onclick="feedback()">FEEDBACK</a> |
-<a class="footer" href="#" onclick="emailSupport()">E-MAIL CUSTOMER SERVICE</a>
+<a class="footer" href="/support/">CUSTOMER SERVICE</a>
 </p>
+
+<p class="footer" align="center">powered by nugs.net</p>
+
 <map name="Phish Links">
 <area alt="Live Phish CD'S" coords="28,19,164,53" href="http://cds.livephish.com" target="_blank">
 <area alt="Phish.com" coords="44,57,171,87" href="http://www.phish.com" target="_blank">
