@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the macromedia.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629010627id_/http%3A//www.macromedia.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macromedia.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230140140id_/http%3A//macromedia.com/help/privacy.html) for the most accurate reproduction.*
 
 # Macromedia - Privacy & Security
 
-[](https://www.truste.org/ivalidate.php?url=www.macromedia.com)
+[](http://www.truste.org/ivalidate.php?url=www.macromedia.com)
 
 Macromedia is TRUSTe Compliant
 
@@ -29,9 +29,11 @@ Because Macromedia wants to demonstrate its commitment to your privacy, we have 
 
 The TRUSTe program covers information that is collected through this website. It does not cover information that may be collected through software downloaded from this website.
 
-Questions or concerns regarding this statement should be directed to the [Macromedia privacy coordinator](mailto:privacy@macromedia.com). If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at: [www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog_new.php). TRUSTe will then serve as a liaison with Macromedia to resolve your concerns.
+Questions or concerns regarding this statement should be directed to the [Macromedia privacy coordinator](mailto:privacy@macromedia.com). If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at: <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Macromedia to resolve your concerns.
 
 ## Macromedia and your privacy
+
+_Revised August 30, 2004_
 
 At Macromedia we respect your right to privacy and we understand that, as a visitor to macromedia.com, you prefer to control your own personal information and preferences. For this reason, we may ask you to register or to provide personal information and preferences when you visit certain areas of macromedia.com, download free software, request information, or subscribe to Macromedia Edge newsletter. 
 
@@ -69,7 +71,7 @@ Macromedia will always protect the personal information that you share with us. 
 
 We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose..
 
-If Macromedia requests general demographic information, this information is limited to reporting purposes only; members remain anonymous. Phone numbers, e-mail addresses, and postal addresses are never shared for demographic reports with outside entities. Macromedia may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor(s), we will provide an up-front statement to that effect.
+If Macromedia requests general demographic information, this information is limited to reporting purposes only; members remain anonymous. Phone numbers, e-mail addresses, and postal addresses are not shared for demographic reports with outside entities. Macromedia may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor(s), we will provide an up-front statement to that effect.
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
 
@@ -98,7 +100,7 @@ Attn: Privacy
 San Francisco, CA 94103   
 USA
 
-If you change your e-mail or postal address, please contact Macromedia. In order to make the appropriate corrections, please include both your old and new address.
+If you change your e-mail or postal address, please contact Macromedia. In order to make the appropriate corrections, please include both your old and new address. Macromedia will respond to your request in a reasonable timeframe.
 
 **Macromedia would like to receive your comments and questions about this Privacy Policy:** Please address comments or questions regarding the Macromedia Privacy Policy to one of the addresses listed above (online, e-mail, or postal mail). Macromedia may occasionally update, amend, or change this Privacy Policy based on user feedback and as needed or appropriate. If we decide to materially change our privacy policy, we will post those changes to this privacy statement, and will e-mail the information to our users so that they are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. Users will always have a choice as to whether or not we use their information in accordance with, and in respect to, the posted privacy policy. If users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted.
 
