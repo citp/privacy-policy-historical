@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycgovparks.org privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619115610id_/http%3A//nycgovparks.org/common_files/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycgovparks.org privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810184930id_/http%3A//www.nycgovparks.org/common_files/privacy_statement.html) for the most accurate reproduction.*
 
 # About the City of New York/Parks and Recreation
 
