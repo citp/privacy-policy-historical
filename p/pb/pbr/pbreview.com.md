@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211145920id_/http%3A//www.pbreview.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602004317id_/http%3A//www.pbreview.com/privacy) for the most accurate reproduction.*
 
 # pbreview.com - Paintball Reviews, by players for players!
 
   
   
-[](http://www.pbreview.com/ads/adclick.php?bannerID=164&dest=http%3A%2F%2Fservice.bfast.com%2Fbfast%2Fclick%3Fbfmid%3D19187551%26siteid%3D39943430%26bfpage%3Dpbreview-equipment&ismap=) |  |    
-[pbreview.com](http://www.pbreview.com/) / Privacy Policy  
- **Privacy Policy**  
-[pbreview.com](http://www.pbreview.com/) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for our web site. 
+[](http://www.pbreview.com/ads/adclick.php?bannerID=40) |  |    
+[pbreview.com](https://web.archive.org/) / Privacy Policy  
+**Privacy Policy**   
+[pbreview.com](https://web.archive.org/) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for our web site. 
 
 **Personal Information**   
 We do not sell any personal information to any third parties. We may disclose anonymous information (like the most popular products) to third parties, such as our advertisers. We will also disclose personal information about our viewers when the law requires it, such as when we respond to subpoenas, court orders or other legal requests. If pbreview.com merges with or is acquired by another business we may share your information with the new business in order to continue to provide you with our products and services. 
@@ -31,8 +31,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 We may change our privacy policy at any time. Please check back here frequently to review any changes that we have made. 
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [andrew@pbreview.com](mailto:andrew@pbreview.com).   
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [andrew@pbreview.com](mailto:andrew@pbreview.com).
 
 |   
 ---|---|---|---
