@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605150607id_/http%3A//www.ipost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205181838id_/http%3A//www.ipost.com/privacy.htm) for the most accurate reproduction.*
 
 # iPost direct email services
 
@@ -26,7 +26,7 @@ Our UCE policy is rigorously enforced. iPost may terminate service or take any o
 
 A cookie is a small file stored on a web browser user's hard drive containing information that is placed there by a website. This information is often used to track visits by the same web browser to the same site, or to remember information between sessions on the website for the convenience of the user.
 
-iPost does not presently use cookies on this website.
+iPost does not presently use cookies on this website, except in partnering with Google to track conversions from the Google Adwords network. This tracking only applies to users who clickthrough to the iPost site from a Google Adword advertisement.
 
 Clients of iPost may elect to use cookies on their own websites, some portions of which may be hosted on iPost servers. iPost is not responsible for the use of such cookies and may have no information about them. If you are concerned about the use of cookies in your web browser, you may adjust the settings of your web browser to selectively accept cookies or reject them entirely.
 
