@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mihomes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204064117id_/http%3A//www.mihomes.com/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mihomes.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403154839id_/http%3A//www.mihomes.com/private.asp) for the most accurate reproduction.*
 
-# MI Homes: Privacy Statement
+# M/I Homes - Mihomes.com Privacy Statement
 
 | [](https://web.archive.org/whymi.asp) |   
 ---|---  
@@ -33,7 +33,7 @@
 * * *  
   
 **Copyright Notice:  ** This site is a project of M/I Homes, Inc.  
-Copyright © 2004 M/I Homes, Inc., All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials of this site is permitted without the written permission of M/I Homes, Inc. For information about the content or management of this site, e-mail the [webmaster.](mailto:comments@mihomes.com)  
+Copyright © 2005 M/I Homes, Inc., All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials of this site is permitted without the written permission of M/I Homes, Inc. For information about the content or management of this site, e-mail the [webmaster.](mailto:comments@mihomes.com)  
    
-**Disclaimer:  ** Information presented is considered reliable, however, M/I Homes, Inc. does not guarantee the accuracy of any information for M/I Homes or Showcase Homes listed as the above pricing, availability, floor plans, elevations and features are all subject to change without notice. It is suggested that before visiting a property, contact the sales consultant to verify the information.   
+**Disclaimer:  ** Information on this website is considered reliable, however, M/I Homes, Inc. does not guarantee the accuracy of this information. All elevations, floorplans, virtual tours, and other graphics shown on this website are representations and may vary from the actual products. Pricing, availability, features, and all other website content are subject to change without notice. It is recommended that before visiting a property, contact a sales consultant to verify this information.   
  
