@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the urbandictionary.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607201227id_/http%3A//www.urbandictionary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbandictionary.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206011155id_/http%3A//www.urbandictionary.com/privacy.php) for the most accurate reproduction.*
 
 # UrbanDictionary.com: Privacy Policy
 
-**Urban Dictionary** is a slang dictionary with [your definitions](https://web.archive.org/insert.php). _Define your world._
+**Urban Dictionary** is a slang dictionary with your definitions. _[Define your world](https://web.archive.org/insert.php)._
 
 **Urban Dictionary Privacy Policy**
 
@@ -20,4 +20,4 @@
 > 
 > _modified: April 6, 2004_
 
-  Urban Dictionary is not appropriate for all audiences. ©1999-2004. \- [home](https://web.archive.org/) \- [feedback](https://web.archive.org/feedback.php) \- [privacy policy](https://web.archive.org/privacy.php) \- [advertise](https://secure.urbandictionary.com/ads/)
+  Urban Dictionary is not appropriate for all audiences. ©1999-2004. \- [home](https://web.archive.org/) \- [feedback](https://web.archive.org/feedback.php) \- [privacy policy](https://web.archive.org/privacy.php) \- [advertise](https://secure.urbandictionary.com/ads/) \- [store](https://secure.urbandictionary.com/store/)
