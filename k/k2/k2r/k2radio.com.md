@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the k2radio.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019035713id_/http%3A//www.k2radio.com/jacor-common/tou.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k2radio.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603034758id_/http%3A//www.k2radio.com/jacor-common/tou.html) for the most accurate reproduction.*
 
 # K2 Radio
 
-Revised: 6.6.01 
+Revised: 2.6.02 
 
   
 PRIVACY STATEMENT
 
-This site "www.k2radio.com" is owned by Clear Channel Communications, Inc., and is part of the Clear Channel family of companies which includes other quality entertainment brands such as broadcast and Internet radio stations, television stations, SFX Entertainment, and the Premiere Radio Network (collectively referred to hereinafter as "we" or "this site"). This statement informs you of Clear Channel's practices with respect to the collection, use, and disclosure of personal information. Personal information is information that allows us to contact you (such as e-mail address, home address, or telephone number) or other information that, when linked to your name or contact information, allows us to personalize your visit to our site by providing you with information that suits your interests. 
+This site "www.k2radio.com" is owned by Clear Channel Communications, Inc., and is part of the Clear Channel family of companies which includes other quality entertainment brands such as broadcast and Internet radio stations, television stations, Clear Channel Entertainment, and the Premiere Radio Network (collectively referred to hereinafter as "we" or "this site"). This statement informs you of Clear Channel's practices with respect to the collection, use, and disclosure of personal information. Personal information is information that allows us to contact you (such as e-mail address, home address, or telephone number) or other information that, when linked to your name or contact information, allows us to personalize your visit to our site by providing you with information that suits your interests. 
 
 Clear Channel is the owner of this website and retains all ownership rights to the information collected at this site. Clear Channel reserves the right to change, modify, add, or remove provisions of this Privacy Statement. Any changes to this Statement will be posted here, and we encourage you to check back from time to time.
 
@@ -90,10 +90,9 @@ Your Choices
 This Clear Channel site provides you the opportunity to opt-out of receiving e-mail communications from us and our special relationship partners. As explained above, if you choose not to provide us with information sought on registration or sign up forms, it is possible that you will not be able to access or use certain features of our site. If you do choose to opt-out of such e-mail communications, you may:
 
 · Modify your registered user information on our website; or  
-· Send an email to [ccinhelp@clearchannel.com.com](mailto:ccinhelp@clearchannel.com)   
-· Click [**HERE**](http://ktwo-am.hybrid.4mda.net/PHP_Preferences)
+· Send an email to [Clear Channel Radio Interactive Support](mailto:webservices@clearchannel.com)  
+· Click [**HERE**](https://web.archive.org/jacor-common/global_edit_user.html)
 
-  
 Access to Personal Information
 
 Clear Channel gives you the opportunity to modify or remove personal information that you have provided to us. You may do so by modifying your password-protected registered user information on our website. 
@@ -121,9 +120,11 @@ This site may contain links to other sites. We are not responsible for the priva
   
 Contacting the Website 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact [webservices@clearchannel.com](mailto:%20webservices@clearchannel.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact [Clear Channel Radio Interactive Support](mailto:%20webservices@clearchannel.com?subject=KTWO-AM%27s%20Privacy%20Statement%20Link). 
 
   
-EUROPEAN UNION AND OTHER FOREIGN NATIONS 
+Leased Content 
+
+Neither S&P nor any third-party licensor shall have any liability for the accuracy or completeness of the this service or any component thereof or for delays, unauthenticity, omissions or other defects therein nor for any claims or losses arising therefrom or occasioned thereby, including without limitation any lost profits, indirect, special or consequential damages. Either S&P or third-party licensors have exclusive proprietary rights in the information received via the service. Customer, end-user or visitor, as applicable, shall not use or permit anyone to use the information provided through the service for any unlawful or unauthorized purpose. Customer, end user, or visitor, as applicable, is not authorized or permitted to furnish such information to any person or firm for reuse or retransmission without prior written approval of the source of such information. Provision of the information on the service is subject to termination in the event that any agreement between a third-party licensor and a provider of information distributed through the service is terminated in accordance with its terms. Third-party licensor and its subsidiaries, affiliates, information providers and content partners shall have no liability for investment decisions based on the information provided hereby. EUROPEAN UNION AND OTHER FOREIGN NATIONS 
 
 This Clear Channel website is governed by and operated in accordance with the laws of the United States of America and is intended for the enjoyment of residents of the United States. Clear Channel makes no representation that this website is governed by or operated in accordance with the laws of other nations. By using this site, visitors from outside of the United States acknowledge that this site is subject to U.S. law and waive any claims that may arise under their own national laws.
