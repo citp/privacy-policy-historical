@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webassign.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034217id_/http%3A//www.webassign.net/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webassign.net privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208090905id_/http%3A//www.webassign.net/info/privacy.html) for the most accurate reproduction.*
 
 # WebAssign Info Pages - Privacy Statement
 
@@ -13,7 +13,7 @@ Instructors using WebAssign upload the roster for your class, including your ful
   
 Your student records in WebAssign are intended for use by you and your course instructors in compliance with existing laws regarding privacy of grades. All of your personal information is stored on servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.  
   
-WebAssign uses "[cookies](https://web.archive.org/web/20020604034217id_/http%3A//www.webassign.net/info/cookies.html)" to identify a user. A cookie is a data file that a web site writes to your computer when you visit that site. Our cookie file contains your username and school and your password. This information is used to identify who you are when you make a request to WebAssign. If we did not use this cookie, you would have to log in every time you requested your homework assignment or every time you wanted to submit your assignment for grading. If you've set your browser to warn you before accepting cookies, you will receive the warning message each time you want information from WebAssign that pertains to your records. WebAssign requires the use of cookies in order to guarantee our strict security standards. After you log out of WebAssign, the cookie is deleted.  
+WebAssign uses "[cookies](https://web.archive.org/web/20021208090905id_/http%3A//www.webassign.net/info/cookies.html)" to identify a user. A cookie is a data file that a web site writes to your computer when you visit that site. Our cookie file contains your username and school and your password. This information is used to identify who you are when you make a request to WebAssign. If we did not use this cookie, you would have to log in every time you requested your homework assignment or every time you wanted to submit your assignment for grading. If you've set your browser to warn you before accepting cookies, you will receive the warning message each time you want information from WebAssign that pertains to your records. WebAssign requires the use of cookies in order to guarantee our strict security standards. After you log out of WebAssign, the cookie is deleted.  
   
 The use of student records in WebAssign beyond the purposes of providing assessment falls under the discretion of the instructor. WebAssign recommends prior disclosure by the instructor to their students of any other intended uses, such as research.  
   
@@ -27,7 +27,7 @@ WebAssign will not give, sell, rent, loan, or otherwise disclose to any third pi
   
 WebAssign will post any changes to this privacy statement at http://webassign.net/info. Your use of WebAssign signifies that you are in agreement with the terms and conditions of the WebAssign privacy statement. If you do not agree with this statement, please do not use WebAssign. Your continued use of our service following any changes posted to the privacy statement at <http://webassign.net/info/privacy.html> indicates that you accept those changes as well.  
   
-If you have any questions regarding this privacy statement, please contact us via e-mail at [webassign@ncsu.edu](mailto:webassign@ncsu.edu?subject=Privacy%20Statement&title=Privacy%20Statement "Mail WebAssign about Privacy Statement") or write to:  
+If you have any questions regarding this privacy statement, please contact us via e-mail at [info@webassign.net](mailto:info@webassign.net?subject=Privacy%20Statement&title=Privacy%20Statement "Mail WebAssign about Privacy Statement") or write to:  
   
 WebAssign  
 Box 8202  
