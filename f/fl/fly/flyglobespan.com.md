@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flyglobespan.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606022511id_/http%3A//www.flyglobespan.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyglobespan.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204215855id_/http%3A//www.flyglobespan.com/privacy.asp) for the most accurate reproduction.*
 
-# FlyGlobespan.com - Low cost Cheap flights and holidays to Palma, Malaga, Alicante, Barcelona, Tenerife, Rome, Nice, Prague, Faro, Venice, Toronto, Calgary, Vancouver, Canada from Edinburgh and Glasgow, Discount Holidays by Air from Scotland
+# FlyGlobespan.com - Low cost Cheap flights and holidays to Palma, Malaga, Alicante, Barcelona, Tenerife, Rome, Nice, Prague, Faro, Venice, Toronto, Geneva, Calgary, Vancouver, Canada from Edinburgh and Glasgow, Discount Holidays by Air from Scotland, Skiing holidays from Edinburgh and Glasgow
 
 **Privacy Policy**  
 Flyglobespan.com takes great care of all the personal information submitted online, ensuring that it is kept secure and only used for legitimate purposes.
