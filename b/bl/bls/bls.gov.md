@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203004636id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618073524id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -7,6 +7,10 @@
 Thank you for visiting the Bureau of Labor Statistics (BLS) Website and reviewing our privacy and security statement. The Bureau is strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personal information, BLS makes every effort to ensure compliance with applicable Federal law, including, but not limited to, the Privacy Act of 1974, the Paperwork Reduction Act of 1995, and the Freedom of Information Act.
 
 As a general rule, the Bureau of Labor Statistics does not collect personally-identifying information about you when you visit our site, unless you choose to provide such information to us. The information we receive depends upon what you do when visiting our site.
+
+#### If you respond to an on-line request for personal information:
+
+Generally, the information requested by the Bureau of Labor Statistics will be used to respond to your inquiry or to provide you with the service associated with the request. However, when this information is requested, the reasons for collecting it with a description of the Bureau's intended use of the information will be fully described in a customized "Privacy Notice." This Privacy Notice will either appear on the Web page collecting the information or be accessible through a link prominently displayed immediately preceding the information request.
 
 #### If you visit our site to read or download information, we collect and store the following information:
 
@@ -40,4 +44,4 @@ For security purposes and to ensure that this service remains available to all u
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
 
-**Last Modified Date:** October 22, 2001
+**Last Modified Date:** June 08, 2004
