@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609191010id_/http%3A//thrifty.com/about/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204100538id_/http%3A//www.thrifty.com/about/privacystatement.asp) for the most accurate reproduction.*
 
 # Thrifty Car Rental Rates, quotes, reservations, travel planning for vacation, business, corporate & Leisure
 
-  | 
+ | 
 
 You understand that the collection of personal data is necessary to rent a car. We respect your privacy and your right to know how that information is being used. The following represents our privacy policy regarding the collection, handling and distribution of your personal data. 
 
