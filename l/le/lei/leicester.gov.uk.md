@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leicester.gov.uk privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211102657id_/http%3A//www.leicester.gov.uk/departments/page.asp%3Fpgid%3D3522) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leicester.gov.uk privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603172930id_/http%3A//www.leicester.gov.uk/departments/page.asp%3Fpgid%3D3522) for the most accurate reproduction.*
 
-# Leicester City Council - Internet Disclamer
+# Leicester City Council - Internet Disclaimer
 
-#### Internet Disclamer
+#### Internet Disclaimer
 
 ### IMPORTANT - PLEASE READ
 
