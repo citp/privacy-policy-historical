@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercurynews.com privacy policy that was archived on 1999-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991116153820id_/http%3A//www.passport.realcities.com/osform/AuthenticateService%3Fosform_template%3D/sjm/frame.oft%26content%3Dprivacy.html%26final_template%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercurynews.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621082131id_/http%3A//www.mercurycenter.com/privacy.htm) for the most accurate reproduction.*
 
 # Passport
 
@@ -27,7 +27,7 @@ For all these reasons, Passports are an exciting development for Real Cities sit
  
 
 **Does Mercury Center ask for personal information?**   
-Yes. A Real Cities Passport consists of four basic elements: a username, a password, an email address, and a postal code.  Over time, however, your Passport will grow with you. For example, when we introduce the ability to share Passport information, you may wish to create a public profile in order to let other Passport holders get to know you better. When we introduce interactive features, such as personalized news or classified agents, you will be able to add these preferences to your Passport as well, so you don't have to keep retyping them. Also, any time you take advantage of special promotions or sweepstakes for Passport holders, we will add any additional data collected to your Passport record. 
+Yes. A Real Cities Passport consists of four basic elements: a login name, a password, an email address, and a postal code.  Over time, however, your Passport will grow with you. For example, when we introduce the ability to share Passport information, you may wish to create a public profile in order to let other Passport holders get to know you better. When we introduce interactive features, such as personalized news or classified agents, you will be able to add these preferences to your Passport as well, so you don't have to keep retyping them. Also, any time you take advantage of special promotions or sweepstakes for Passport holders, we will add any additional data collected to your Passport record. 
 
 Back to questions | Top  
 
@@ -68,11 +68,11 @@ Back to questions | Top
 
 
 **Does Mercury Center use Cookies and IP Addresses?**   
-Yes. If you choose "Automatic Login" when you sign up for a Passport, Mercury Center stores a scrambled version of your Passport username in a permanent "Cookie" file on your hard drive so that we can remember who you are from one visit to the next. If you do not choose "Automatic Login", we will use a temporary Cookie after you log in (which expires after each visit) to keep track of you as you move from page to page during a given visit to our site. Without these Cookies, it is impossible for us to provide any level of personalized service or to target advertising. In addition, some of our sites and advertising systems may set additional cookies which contain no personal information whatsoever. 
+Yes. If you choose "Automatic Login" when you sign up for a Passport, Mercury Center stores a scrambled version of your Passport login name in a permanent "Cookie" file on your hard drive so that we can remember who you are from one visit to the next. If you do not choose "Automatic Login", we will use a temporary Cookie after you log in (which expires after each visit) to keep track of you as you move from page to page during a given visit to our site. Without these Cookies, it is impossible for us to provide any level of personalized service or to target advertising. In addition, some of our sites and advertising systems may set additional cookies which contain no personal information whatsoever. 
 
-In order to enable automatic log in as well as fast entry to our various services, Passport keeps three key data elements in your Cookie: your Passport Username, Zip Code, and Email Address. To protect your privacy, each cookie is scrambled using a proprietary encryption algorithm. Think of these Cookies as "claim checks". Like a coat room clerk, we use the Cookie to help us keep track of your information on our systems. To anyone other than us, the information stored in your Cookies is meaningless. 
+In order to enable automatic log in as well as fast entry to our various services, Passport keeps three key data elements in your Cookie: your Passport Login Name, Zip Code, and Email Address. To protect your privacy, each cookie is scrambled using a proprietary encryption algorithm. Think of these Cookies as "claim checks". Like a coat room clerk, we use the Cookie to help us keep track of your information on our systems. To anyone other than us, the information stored in your Cookies is meaningless. 
 
-You might wonder if another Web site or online user would be able to steal your Passport username from your cookie? The answer is no. Only Mercury Center or other Real Cities sites can read the information about your Passport Username. Due to the design of Web servers and browsers, no other Web site has access to your Mercury Center Cookie and vice versa. However, if you have chosen Automatic Login, anyone who sits down at your computer can log on to the site using your Passport information. 
+You might wonder if another Web site or online user would be able to steal your Passport login name from your cookie? The answer is no. Only Mercury Center or other Real Cities sites can read the information about your Passport Login Name. Due to the design of Web servers and browsers, no other Web site has access to your Mercury Center Cookie and vice versa. However, if you have chosen Automatic Login, anyone who sits down at your computer can log on to the site using your Passport information. 
 
 Mercury Center may also collect IP addresses for the purposes of system administration and to report aggregate information to our advertisers. 
 
@@ -86,7 +86,7 @@ Back to questions | Top
 
 
 **Can I get rid of my Real Cities Passport?**   
-Yes. If you want us to disable your Passport or remove it from our records, you may notify us by sending email to [sjm_passport_feedback@realcities.com](mailto:sjm_passport_feedback@realcities.com). Please include your Passport Username. We will send you an email to confirm your request. When you have responded, we will remove your information from our database. 
+Yes. If you want us to disable your Passport or remove it from our records, you may notify us by sending email to [sjm_passport_feedback@realcities.com](mailto:sjm_passport_feedback@realcities.com). Please include your Passport Login Name. We will send you an email to confirm your request. When you have responded, we will remove your information from our database. 
 
 Back to questions | Top  
 
@@ -105,9 +105,4 @@ Back to questions | Top
   * [Cookie Central](http://www.cookiecentral.com/) \-- dedicated to provide full information upon Internet Cookies.
   * [The EPIC Cookies Page](http://www.epic.org/privacy/cookies/default.html) \- links, news, and explanations.
 
-
-
-Back to questions | TOP
-
-[BENEFITS](http://passportgate.realcities.com/osform/AuthenticateService?osform_template=/layouts/mainPassport.oft&publication=sjm&content=benefits.html&final_template=&eFlag=&product=&rc=false&action=&emailId=) | [MANAGE](http://passportgate.realcities.com/osform/RegisterService?osform_template=/layouts/mainPassport.oft&publication=sjm&content=manage.html&final_template=&eFlag=&product=&rc=false&action=&emailId=) | [FAQ](http://passportgate.realcities.com/osform/AuthenticateService?osform_template=/layouts/mainPassport.oft&publication=sjm&content=faq.html&final_template=&eFlag=&product=&rc=false&action=&emailId=) | [CONTACT US](mailto:sjm_passport_feedback@realcities.com) | [LOGIN](http://passportgate.realcities.com/osform/AuthenticateService?osform_template=/layouts/mainPassport.oft&publication=sjm&content=login.html&final_template=&eFlag=&product=&rc=false&action=&emailId=) | [REGISTER](http://passportgate.realcities.com/osform/RegisterService?osform_template=/layouts/mainPassport.oft&publication=sjm&content=register.html&final_template=&eFlag=&product=&rc=false&action=&emailId=)  
 
