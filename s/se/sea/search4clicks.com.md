@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the search4clicks.com privacy policy that was archived on 2004-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040213175225id_/http%3A//search4clicks.com/privacy2.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search4clicks.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204205555id_/http%3A//www.search4clicks.com/privacy2.asp) for the most accurate reproduction.*
 
-# search4clicks.com
+# www.search4clicks.com
 
 This is the web site of Search4Clicks.com, a division of PlattForm Advertising, Inc. 
 
-For each visitor to our web pasite, our web server automatically recognizes only the consumer's domain name, and not the e-mail address (unless you explicitly and voluntarily submit it to us). 
+For each visitor to our web site, our web server automatically recognizes only the consumer's domain name, and not the e-mail address (unless you explicitly and voluntarily submit it to us). 
 
 The e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations, are only used for internal uses and then are discarded. This information is used in the following ways:  
 * to improve the content of our web site.  
