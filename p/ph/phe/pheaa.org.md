@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2001-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010805014337id_/http%3A//pheaa.org/Pages/Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2002-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020127035949id_/http%3A//www.pheaa.org/Pages/Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # PHEAA - Privacy Policy
 
@@ -53,7 +53,7 @@ top
 
 **Choice And Consent**
 
-PHEAA provides users access on its websites to users' individual account, eligibility for financial aid status, and much more personal user level information. PHEAA fully understands and wishes to fully serve its website users that do not desire to have personally identifying account and status information available on PHEAA's websites. Users may request the deletion of their PHEAA account information available to them on PHEAA's websites by sending an email to [slsccs@pheaa.org](mailto:slsccs@pheaa.org) or call 1-800-233-0557 extension 4500. Upon receipt of an email from a user, PHEAA will remove the user's account information from its websites but will continue to retain all of the information on its computer systems as required by state and federal laws and regulations governing financial aid. 
+PHEAA provides users access on its websites to users' individual account, eligibility for financial aid status, and much more personal user level information. PHEAA fully understands and wishes to fully serve its website users that do not desire to have personally identifying account and status information available on PHEAA's websites. Users may request the deletion of their PHEAA account information available to them on PHEAA's websites by sending an email to [ecomm@aessuccess.org](mailto:ecomm@aessuccess.org) or call 1-877-603-6010. Upon receipt of an email from a user, PHEAA will remove the user's account information from its websites but will continue to retain all of the information on its computer systems as required by state and federal laws and regulations governing financial aid. 
 
 Unless specifically notified by the user, PHEAA will operate as though the user consents to the user's account information being available on its websites. Please review the sections on data security and PHEAA's privacy commitment for explanations of the security utilized by PHEAA in protecting personal account information from unauthorized disclosure. 
 
@@ -75,13 +75,13 @@ top
 
 Securing users' personal information is very important to PHEAA. Therefore, PHEAA has implemented several security measures to protect users' personally identifying information from loss, misuse, or alteration.
 
-When users send confidential personal information to PHEAA via a PHEAA website, PHEAA requires that a secure session first be established using Secure Socket Layer (SSL) technology. During a secure SSL session, data passed back and forth between the user's computer and PHEAA's servers is secured through the use of public key cryptography. The user's computer exchanges key information with PHEAA computers to create a private conversation that only the user's computer and PHEAA systems may understand. To benefit from SSL technology, users must use a browser with SSL capabilities. 
+When users send confidential personal information to PHEAA via a PHEAA website, PHEAA requires that a secure session first be established using Secure Socket Layer (SSL) technology. During a secure SSL session, data AES PASsed back and forth between the user's computer and PHEAA's servers is secured through the use of public key cryptography. The user's computer exchanges key information with PHEAA computers to create a private conversation that only the user's computer and PHEAA systems may understand. To benefit from SSL technology, users must use a browser with SSL capabilities. 
 
 Please note that while using PHEAA's websites, users will be notified when entering a secure session and when leaving a secure session, unless the setting is turned off on the user's browser. After leaving a secure session any information transmitted to PHEAA is not secure. 
 
 For security purposes, PHEAA uses special software programs to monitor traffic on its websites and to identify unauthorized attempts to upload or change information, or otherwise to cause damage to PHEAA's websites. These programs do not collect personally identifying information about you but they do collect information that will enable PHEAA to identify someone attempting to tamper with its websites. PHEAA has a zero tolerance policy for the misuse, misappropriation, unauthorized access, tampering, damage, destruction, or unlawful utilization of its websites and computer systems and will seek the maximum enforcement of state, federal, and international criminal laws against any individual engaging in such activity. Additionally, PHEAA will seek the maximum amount of civil damages available under the law in such instances of the unauthorized misuse of its websites and computer systems. 
 
-Please note that when a user sends electronic mail messages (e-mail) to PHEAA, AES, SLSC, or GLC, the user's message will usually contain the user's return email address. Thus, PHEAA may utilize a user's e-mail address in responding to a user's inquiry and the content of the user's e-mail in formulating a response. PHEAA will permanently record and store any substantive e-mail received from users. E-mail is not a secure means of transmitting information. 
+Please note that when a user sends electronic mail messages (e-mail) to PHEAA, AES, AES SLSC, or AES GLC, the user's message will usually contain the user's return email address. Thus, PHEAA may utilize a user's e-mail address in responding to a user's inquiry and the content of the user's e-mail in formulating a response. PHEAA will permanently record and store any substantive e-mail received from users. E-mail is not a secure means of transmitting information. 
 
 top
 
@@ -91,11 +91,13 @@ top
 
 PHEAA's Website Privacy Policy may be modified when necessary to conform to federal, state, local, and international laws and regulations, and at other times to conform with technological changes, court decisions and changes in agency policy. Changes to PHEAA's Website Privacy Policy will be notated here when made so that you may be fully informed about the privacy protections afforded to you by PHEAA enabling you to make an informed decision concerning your use of PHEAA's websites. It is recommended that you check PHEAA's Website Privacy Policy each time that you visit PHEAA's websites. 
 
-Originally Adopted: February 2, 2001
+**Originally Adopted:** February 2, 2001
 
-Date last Modified:   
-Section Modified:  
-Description of Modification:
+**Date last Modified:** January 10, 2002
+
+**Section Modified:** Choice and Consent 
+
+**Description of Modification:** Updates were made to the email address and telephone number provided to users to request the deletion of their PHEAA account information available to them on the PHEAA's website. 
 
 top
 
@@ -114,7 +116,7 @@ top
 
 * * *
 
-1 \- For the purposes of PHEAA's Website Privacy Policy, any reference to PHEAA includes PHEAA and all of its divisions including but not limited to: American Education Services (AES), Student Loan Servicing Center (SLSC) and the GraduateLoan CenterSM(GLC). 
+1 \- For the purposes of PHEAA's Website Privacy Policy, any reference to PHEAA includes PHEAA and all of its divisions including but not limited to: American Education Services (AES), AES Student Loan Servicing Center (AES SLSC) and the AES GraduateLoan CenterSM(AES GLC). 
 
 2 \- PHEAA is a guarantor, servicer, lender, and secondary market of student loans as well as the state agency responsible for administering the Pennsylvania State Higher Educational Assistance Grant Program and various other state and federal higher education financial aid programs. As such, PHEAA has very different relationships with the users of its websites. It is important to note that PHEAA may be required, dependent upon its relationship with website users, to share information about the users with authorized third parties. 
 
