@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612145457id_/http%3A//www.drugabuse.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206131100id_/http%3A//www.drugabuse.gov/privacy.html) for the most accurate reproduction.*
 
 # NIDA Privacy Notice
 
@@ -9,7 +9,7 @@
 
 * * *
 
-Thank you for visiting the National Institute on Drug Abuse Website and reviewing our Privacy Policy. Our Privacy Policy for visits to _www.nida.nih.gov_ , _www.drugabuse.gov_ , _www.clubdrugs.org_ , _www.sarasquest.org_ is clear: 
+Thank you for visiting the National Institute on Drug Abuse Website and reviewing our Privacy Policy. Our Privacy Policy for visits to _www.nida.nih.gov_ , _www.drugabuse.gov_ , _www.clubdrugs.org_ , _www.sarasquest.org_ , _www.steroidabuse.org_ , _stopdrugaddiction.org_ is clear: 
 
 > > **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
 
@@ -68,3 +68,21 @@ For site security purposes and to ensure that this service remains available to 
 * * *
 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. 
+
+* * *
+
+**Security:**
+
+* * *
+
+Information collected online in the form of server logs, form submissions or e-mail to Information@lists.nida.nih.gov are stored securely and have limited access by NIDA staff. Archival data is stored offline in a secured storage facility.
+
+* * *
+
+**Cookies:**
+
+* * *
+
+A "cookie" is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session while you are connected. 
+
+The NIDA web site does not make use of cookies, or permit other parties to use our server to host their cookies in order to collect information from our visitors. The Publication Catalog makes use of "session cookies" that keep your place when requesting more information than can be received on one page. These cookies are not stored on your system and are deleted at the end of each session. The NIDA site does not use or allow the use of any other systems (invisible graphics for example) to allow other parties to monitor and track visitors to the NIDA web site.
