@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mofunzone.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401230058id_/http%3A//www.mofunzone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofunzone.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203131915id_/http%3A//www.mofunzone.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# Privacy Statement @ MoFunZone.com
+# Privacy Policy @ MoFunZone.com
 
-**  Privacy Statement**
+**Privacy Statement @ MoFunZone.com**
 
 No information is sold or released to anyone about visitors to [MoFunZone.com](http://www.mofunzone.com/) without prior consent or a court order.  In other words, no information is released to anyone unless you give permission first.  
 
@@ -25,5 +25,3 @@ MoFunZone.com will explicitly ask when it needs information that personally iden
 * When such action is necessary to enforce MoFunZone.com terms of service
 
 MoFunZone.com  uses cookies as part of tracking process for advertisement banners so you do not see the same ad repeatedly, but cookies will not be used to personally identify you without your prior consent.
-
-If any of the section of MoFunZone.com include your work or you own it, then contact MoFunZone.com and an action will be taken right away from there.
