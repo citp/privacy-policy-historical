@@ -1,17 +1,7 @@
-> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013074839id_/http%3A//www.myfantasyleague.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfantasyleague.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621141239id_/http%3A//www3.myfantasyleague.com/privacy.html) for the most accurate reproduction.*
 
 # Fantasy Football at myfantasyleague.com: Our Privacy Policy
 
-[](https://web.archive.org/)  
-[](https://web.archive.org/web/20021013074839id_/http%3A//www.myfantasyleague.com/features.html)  
-[](https://web.archive.org/web/20021013074839id_/http%3A//www.myfantasyleague.com/reports.html)  
-[](https://web.archive.org/web/20021013074839id_/http%3A//www.myfantasyleague.com/support.html)  
-[](https://web.archive.org/web/20021013074839id_/http%3A//www.myfantasyleague.com/faqs.html)  
-[](https://web.archive.org/web/20021013074839id_/http%3A//www.myfantasyleague.com/compare.html)  
-[](https://web.archive.org/web/20021013074839id_/http%3A//www.myfantasyleague.com/purchase.html)  
-[](https://web.archive.org/)  
-|   
-  
 **Privacy Notice Table Of Contents:**
     Our Commitment To Privacy
     The Information We Collect
@@ -54,10 +44,6 @@ We do not, in any manner, use the information voluntarily entered on your league
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that _X_ number of individuals visited a certain area on our website, or that _Y_ number of men and _Z_ number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
-
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
 **Our Commitment To Data Security**
@@ -73,7 +59,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 **How You Can Correct Your Information**
     
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows an error. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
