@@ -1,82 +1,59 @@
-> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203215229id_/http%3A//www.boats.com/common/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207051616id_/http%3A//www.boats.com/common/privacy.jsp) for the most accurate reproduction.*
 
 # boats.com - Privacy
 
-The following privacy statement describes the practice of boats.com with respect to the collection, maintenance and disclosure of information. If you have any questions about this privacy statement, please contact [customersupport@boats.com](mailto:customersupport@boats.com) for more information.   
----  
-   
-**General**  
-Boats.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from those described in this statement. Boats.com collects information from users at several different points on this site as discussed below.   
-   
-**Registration**  
-Boats.com offers its services to non-professional individuals who want either to sell or buy a boat, as well as to professional individuals and dealers. While the general practice of collection, maintaining and sharing of personal information collected from buyers, sellers or dealers is the same, there are some differences in the type of information that is collected. The following explains what type of information is collected from buyers and sellers.   
-   
-**Seller and Buyer Registration**  
-To view certain areas of the boats.com site and to use services provided by boats.com, a user must first register by completing the registration form. During registration a user is required to provide contact information (such as email address). This information is used to inform the user of the services on the boats.com site for which the user expressed an interest. The provision of the personal information (such as name and address) requested by the registration form is optional. The registration form contains a request for non-personal information such as users' boating interests. This information is also optional but users are encouraged to provide this type of information to facilitate a more personalized experience on boats.com. 
+**Registration:** To view certain areas (e.g. myBoats.com) of the boats.com site and to use certain services (e.g. Personal Boat Shopper) provided by boats.com, a user must first register by completing the registration form. During registration a user is required to provide their email address. It is used to inform the user of the services on the boats.com site for which the user expressed an interest. Location information (ZIP and Country) is required by the registration form so we can present region specific advertising and currency. The provision of the personal information (such as name and address) requested by the registration form is optional. The registration form contains a request for non-personal information such as users' boating interests. This information is also optional but users are encouraged to provide this type of information to facilitate a more personalized experience on boats.com.
 
-In addition to the above, the seller has to provide detailed information about the boat, billing information and detailed contact information. The detailed boat information will be posted on the site once it has gone through the verification process and been approved. The billing information will be used to bill seller on a monthly basis for the service provided such as listing a boat on the boats.com. The contact information for the seller will be provided to registered users interested in purchasing the boat.   
-  
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as e-mail), or if a user no longer desires our service, we have provided a way to correct, update or remove that user's personal data provided to us. Data can be updated or changed at the "My Account" page on the site. In order to remove personal data from our site (i.e. cancel your account), you must contact a Customer Service representative at [customersupport@boats.com](mailto:customersupport@boats.com).   
-   
-**Community**  
-In order to post reviews and ratings a user must be a registered user of boats.com. We recommend that a user enter a complete user profile to build community and accountability. This information will be used only for product reviews and will not be distributed. The user profile information is different and separate from the registered user information, which we do share. 
+**Newsletters:** Site Visitors can sign up for newsletters from boats.com. In order to receive a newsletter, an email address must be submitted to boats.com. Site visitors can unsubscribe by using the unsubscribe link supplied in the newsletter, or select the unsubscribe button on the site’s Newsletter page or in My Account. You can also email us at customersupport@boats.com.
 
-Any information that is posted by a user is considered public information. Exercise caution when you decide to disclose personal information in forum sessions as all users of the site will have access to this information.   
-  
-   
-**Sharing**  
-Boats.com will share information with both our partners and affiliates. The type of information shared will be different for each. Partners and affiliates will have different uses for the data that is delivered to them. Affiliates will be given qualified leads for direct sales where partners will be given non-personal aggregated information. We may disclose personal information if required by law or enforcement officers or in order to protect boats.com or its users.   
-   
-**Partners**  
-We share non-personal aggregated registration information with our partners. The information shared is not linked to any personal information that can identify any individual person. This information will be analyzed to improve services and offerings on both our site as well as our partners' sites. Our partners will not use this information to contact the user on their own behalf.
+**Special Offers:** We send all new registered Site Vistors a welcoming email to verify that the account has been set up. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out above.
 
-We use an outside company for credit card processing to bill dealers for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.   
-  
-   
-**Affiliates**  
-We will share referral information with affiliate members of boats.com. An affiliate member is an OEM that has signed a contract with boats.com and has qualified to receive leads from boats.com. We will only share information with manufacturers about users who request information about their specific products. We will not provide the affiliates with information about users who request information about other products with which the affiliate is not affiliated. This can be opted in or out of during user registration.   
-   
-**Choice/Opt-out**  
-Users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. Our registration form has an "opt-out" mechanism so users who do not want newsletters or any promotional information from our partners or us can keep their email address off of our lists.   
-   
-**Security**  
-Boats.com takes every precaution to protect its users' information. When users submit sensitive information via the web site at boats.com's request, such information is protected both online and offline. 
+**Personal Boat Shopper:** To keep Site Visitors informed with respect to new listings of boats on the Web site we offer the Personal Boat Shopper feature, which is an e-mailing list service. In order to provide this e-mailing list service we collect e-mail addresses from Site Visitors who want to participate in the Personal Boat Shopper. The provision of information in the form of e-mail is not optional if a Site Visitor chooses to participate in the e-mailing list service. 
 
-When our registration/listing form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked. 
+**Surveys and Contests:** To improve services and the quality of the Web site as well as our Site Visitors' experience on the Web site, we conduct surveys and contests among Site Visitors that request the provision of personal information such as name and e-mail address as well as non-personal information regarding the Site Visitor's experience on the Web site. Participation in the surveys and contests and the corresponding submission of personal information is optional. 
 
-While we use SSL encryption to protect sensitive information online, we also do everything reasonably in our power to protect user-information offline. All of our users' information, not just the sensitive information mentioned above, is restricted to authorized users. Only employees who need the information to perform a specific task (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
+**Job Applications:** To apply for a job with us, Site Visitors may send a resume for our consideration. We collect information provided in the resume.
 
-If you have any questions about the security at the boats.com site, you can send an email to [customersupport@boats.com](mailto:customersupport@boats.com).  
-  
-**Special Offers**  
-We send all new members a welcoming email to verify that the account has been set up. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out above.   
-   
-**Newsletter**  
-Both registered and non-registered users can sign up for newsletters from boats.com. In order to receive a newsletter, an email address must be submitted to boats.com. Both registered and non-registered users can unsubscribe by using the unsubscribe link supplied in the newsletter, or select the unsubscribe button on the site's Newsletter page or in My Account. You can also email us at [customersupport@boats.com ](mailto:customersupport@boats.com).   
-   
-**Surveys & Contests**  
-From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has an option whether to provide the information requested. Information requested may include contact information and demographic information. Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the boats.com site.   
-   
-**Site and Service Updates**  
-We also send users site and service announcement updates. Registered users are not able to unsubscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services relating to their account via email or phone.   
-   
-   
-**Links to Other Websites**  
-Boats.com contains links to other sites. Please be aware that boats.com is not responsible for the privacy practices of such other sites. We encourage users to be alert when they leave boats.com and to review the privacy statements of each and every web site that they visit before disclosing personal information. This privacy statement applies solely to information collected on the boats.com site.   
-   
-**Notification of Changes**  
-If we decide to make changes to this privacy statement, we will post a link to these changes on our home page so that the users are always aware of our current information collection, maintenance and disclosure practice. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have an option whether to let us use their information in a different manner.   
-   
-**Cookies**  
-Boats.com uses "cookies" which are small text files that are stored on the user's computer and gather and keep track of information related to the user. Cookies can store the user's preferences through a password the user selects to access the boats.com site. Although many web site browsers are set to accept cookies, a user can set his/her web site browser to reject cookies, but this may prevent the user from using some of the convenience features of the boats.com site. Non-personal information collected through cookies is in no way linked to any personally identifiable information.   
-   
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user's movement and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.   
-   
-**Children's Use of boats.com**  
-We do not knowingly acknowledge or accept orders, registrations or requests for any goods or services from persons under age of 13. If it comes to our attention that a request has come from a person under age of 13, we will not respond to such a request. Instead we will automatically delete any information provided by a person who acknowledges being under 13 years old.
+**Emails to a Member:** Site Visitors may communicate directly with a Member via a boats.com contact form. The Site Visitor who chooses to provide information to the Member does so at their option. We may keep a copy of these communications. We have no control over what is done with the information collected by the Member. 
 
-For the protection and privacy of children, we discourage unsupervised persons under the age of 13 from posting messages to any forum on boats.com.  
-  
- 
+**Marine Directory:** Site Visitors may desire information from companies who have listings in the boats.com Marine Directory. We may keep a copy of these communications. We have no control over what is done with the information collected by the company with a listing in the Marine Directory, as volunteered by the Site Visitor. 
+
+**Web logs:** We collect non-personal information such as an IP address, the web address of the page viewed, the referring page address, and the browser information of Site Visitors in order to count page views on our site for traffic information purposes.
+
+**Cookies:** We use cookies, which are small text files that are stored on the Site Visitors computer, to gather and keep track of information related to Site Visitors, to recognize Site Visitors when they visit our Web site, to personalize their experience and generally to serve Site Visitors better. For example a Site Visitors address or ZIP/Post code information entered through one of our forms, can tell us what region-specific advertising the Site Visitor should see on our site. Cookies also help us review site traffic patterns and improve the site.
+
+**Web Beacons:** We set a web beacon (a single-pixel invisible image) on web pages and some of our HTML-formatted emails. We may use web beacons for a number of purposes, such as to count visitors to our web pages, to monitor how our Site Visitors navigate our site, or to count how many newsletters or emails we sent were actually opened. Additionally, third parties that serve ads or content on this Web site or within our emails may use web beacons. We do not have control over web beacons used by these third parties.
+
+**Email to boats.com Staff:** When Site Visitors send an email to a department or staff person, the email may or may not be saved for future reference, and may or may not be forwarded to third parties.
+
+| 
+
+**Disclosure of Personal Information Collected:**
+
+In order to use this site you do not need to provide any personal information, but where you do volunteer to provide personal information, we may disclose the following information to affiliated third parties such as other web sites owned and operated by boats.com and to nonaffiliated third parties such as marketing companies, vessel brokers, vessel dealers and builders. The disclosed information may include data entered through one of our forms, through cookies, web beacons and web logs such as a Site Visitors name, address, email address, other contact information, boat information, boat category, engine information, boat accessories and options and information about the Site Visitors transactions and experiences with companies related to Boats.
+
+We use non-personal information such as aggregate demographic data and information about our boats to analyze and develop our marketing strategy and to determine how Site Visitors found out about us, our Site Visitors' interests regarding our services and how to further improve the Web site based upon these data.
+
+We may employ third parties to perform functions on our behalf. Examples of these functions include, without limitation, sending emails or other communications on our behalf or providing promotional or marketing assistance. These third parties may have access to our Site Visitors’ personal information in order to provide these services to us or on our behalf.
+
+We may disclose personal information about our Site Visitors when legally required to do so, at the request of governmental authorities, or to verify or enforce compliance with the policies governing the Web site and applicable laws. We may also disclose Site Visitors’ personal information where we believe disclosure is necessary to limit our legal liability or to protect the safety or enforce the rights of our Site Visitors.
+
+We may sell, transfer or otherwise disclose Site Visitors’ information in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change.
+
+**Partners:** Some of our partners offer services on the Web site. To provide services, our partners collect personal information from Site Visitors. We exercise great care in choosing our partners but we neither control nor are we responsible for our partners' information collection practices. Site Visitors should view our partner's privacy policy to make an informed decision whether to provide personal information. 
+
+**Correcting/Updating Personal Information:** If a Site Visitor’s personal information changes, or if a user no longer desires our service, we have provided a way to correct, update or remove that user's personal data provided to us. If the Site Visitor has registered to view certain areas or use certain services, Site Visitor can edit or update their information at the “My Account” page on the site. In order to remove personal data from our site (i.e. cancel your account), you must contact a Customer Service representative at customersupport@boats.com. 
+
+**Links to Other Web Sites:** The Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites that we link to. We encourage Site Visitors to be alert when they leave the Web site and to review the privacy statements of each and every Web site that they visit before disclosing personal information. 
+
+**Security:** Please note that we do not guarantee the security of any personal information you transmit to us and you do so at your own risk. If you have any questions about the security at the Web site, you can send an e-mail message to [customersupport@boats.com](mailto:customersupport@boats.com).
+
+When Site Visitors choose to use services requiring sensitive information (such as a credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked.
+
+While we use SSL encryption to protect sensitive information online, we also do everything reasonable in our power to protect user-information offline. All of our uers’ information, not just the sensitive information mentioned above, is restricted to authorized users. Only employees who need the information to perform a specific task (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
+
+**Children's Use of Web site:** We do not knowingly acknowledge or accept orders, registrations or requests for any goods or services from persons under the age of 13. If it comes to our attention that a request has come from a person under the age of 13, we will not respond to such a request. Instead we will delete any information provided by that child.
+
+**Notification of Changes:** It is the Site Visitors responsibility to follow our privacy link, so Site Visitors are always aware of our current practices. There will always be a link to our privacy statement on our home page so that Site Visitors are always aware of our current information collection, maintenance and disclosure practices. Each update is noted with the last updated date. If our privacy practices change in way that would allow us to use non-public personal information in a manner not previously allowed by the terms of our privacy statement, Site Visitors will have an opportunity to choose whether to let us use their non-public personal information in the newly proposed manner. 
+
+**Copyright:** Copyright ©2004 Trader Publishing Company All rights reserved. 
