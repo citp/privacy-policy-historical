@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameaholic.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205052242id_/http%3A//gameaholic.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameaholic.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606233859id_/http%3A//www.gameaholic.com/info/privacy) for the most accurate reproduction.*
 
 # Gameaholic dot Com Privacy and Legal Information
 
