@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201171301id_/http%3A//cartoonnetwork.com.au/asp/parents/parent.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412191444id_/http%3A//www.cartoonnetwork.com.au/asp/parents/parent.asp) for the most accurate reproduction.*
 
 # Cartoon Network - Parents Pages
 
