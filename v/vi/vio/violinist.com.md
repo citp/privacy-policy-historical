@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209131916id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621114138id_/http%3A//violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
@@ -9,6 +9,7 @@
 [Forget Password?](https://web.archive.org/directory/password.cfm "Registered users click here to get your password resent to you")  
 [Musician Directory](https://web.archive.org/directory/ "Our international directory of violinists")  
 [Create or Change Listing](https://web.archive.org/directory/input.cfm "Registered users click here to change their contact information")  
+[Violinists' Blogs](https://web.archive.org/blog/ "Daily online diaries")  
 [Discussion Board](https://web.archive.org/discussion/ "Chat about teachers, conductors, technique, instruments or anything else")  
 [Music Reviews](https://web.archive.org/reviews/ "Reviews of DVDs, CDs, Books, Concerts and More")  
 [Book Reviews](https://web.archive.org/reviews/index.cfm?type=Book)  
@@ -21,9 +22,6 @@
 [Union Locals](https://web.archive.org/websites/unions.cfm)  
 | 
 
-_"Resources, and a gathering place, for professional violinists online."_
-
-  
 [Home](https://web.archive.org/) > **Privacy policy**
 
 Violinist.com requires site users to register in order to access all features of the site. As part of the registration process, users will be asked to provide their name and e-mail address, as well as other identifying information.
