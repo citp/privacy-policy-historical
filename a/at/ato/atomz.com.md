@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the atomz.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053610id_/http%3A//www.atomz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomz.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401211237id_/http%3A//www.atomz.com/company/privacy.htm) for the most accurate reproduction.*
 
-# Avivo Corporation, the creator of Atomz, is committed to honoring privacy rights.
+# 
 
-Avivo Corporation, the creator of Atomz, is committed to honoring privacy rights.
-
-### The following discloses our information gathering and dissemination practices.
+## The following discloses our information gathering and dissemination practices.
 
 Our site's registration forms require customers and prospective customers (together called "customers") to give us contact information (like their name and email address). Periodically, we use the information you have provided on the registration form to send you updates about our products and promotional material provided to us by our partners. WE DO NOT SELL, TRADE, EXCHANGE OR OTHERWISE MAKE AVAILABLE ANY PERSONALLY IDENTIFIABLE INFORMATION TO ANY OTHER COMPANY OR ORGANIZATION. 
 
