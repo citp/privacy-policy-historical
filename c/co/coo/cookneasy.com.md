@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookneasy.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017004842id_/http%3A//www.cookneasy.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookneasy.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604234852id_/http%3A//www.cookneasy.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Overview**
 
-**The privacy practices of this statement apply to our services available under the domain and sub-domains of[www.jdworld.net](http://www.jdworld.net/) (including [cookneasy.com](http://www.cookneasy.com/), [varketmarket.com](http://www.varketmarket.com/), [quibix.com](http://www.quibix.com/), [xfare.com](http://www.xfare.com/)) and apply generally to our subsidiaries or joint venture websites whose specific privacy policies are available from our Privacy pages. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services.**
+**The privacy practices of this statement apply to our services available under the domain and sub-domains of[www.jdworld.net](http://www.jdworld.net/) (including [cookneasy.com](http://www.cookneasy.com/), [varketmarket.com](http://www.varketmarket.com/), [certnerd.com](http://www.certnerd.com/), [bannedintheus.com](http://www.bannedintheus.com/), [coffeewithcream.com](http://www.coffeewithcream.com/)) and apply generally to our subsidiaries or joint venture websites whose specific privacy policies are available from our Privacy pages. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services.**
 
 As described below, as part of the normal operation of our services, your information is collected by us, disclosed to third parties and used by third parties and us. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about Jdworld.net Network practices so that you can make informed decisions. All of our subsidiaries and joint ventures operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global Jdworld Network community.
 
