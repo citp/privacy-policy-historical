@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the britishpathe.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025802id_/http%3A//www.britishpathe.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishpathe.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605124201id_/http%3A//www.britishpathe.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# British Pathe Limited
 
   
 
@@ -57,8 +57,7 @@ Your consent
 
 By using the site, you signify your assent to this Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right to make changes to our Privacy Policy. Any change to the policy will be published on this page so that you are always aware of it. Your continued use of the site will signify your acceptance of these changes. 
 
-To comply with British and European Union laws, we have to make clear that your details may be supplied to third parties, possibly outside the European Economic Area.  
-Information may also be sent outside the European Economic Area for processing, either by ourselves or by other companies.   
+To comply with British and European Union laws, we have to make clear that your details may be supplied to third parties, possibly outside the European Economic Area. Information may also be sent outside the European Economic Area for processing, either by ourselves or by other companies.   
 By using this site you consent to both of the above types of transfer.
 
   
