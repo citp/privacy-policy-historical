@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constellation.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603141914id_/http%3A//www.constellation.com/legal2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constellation.com privacy policy that was archived on 2002-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020811055021id_/http%3A//www.constellation.com/legal2.htm) for the most accurate reproduction.*
 
 # Constellation Energy Group - Privacy Policy
 
