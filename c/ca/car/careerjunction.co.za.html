@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the careerjunction.co.za privacy policy that was archived on 2002-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209175950id_/http%3A//www.careerjunction.co.za/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerjunction.co.za privacy policy that was archived on 2003-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030605122608id_/http%3A//www.careerjunction.co.za/legal/privacy.asp) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="Expires" content="0">
+<html><head>
 <meta http-equiv="Content-Type" content="text/html; CHARSET=iso-8859-1">
-<meta http-equiv="PRAGMA" content="NO CACHE">
-
+<meta name="keywords" content="Jobs, Careers, Job Search, Job Alert, CV, Curriculum Vitae, Resume, Job Seeker, Candidate, Recruiter, Employer, Placement Agent, South Africa, Career Seekers, CareerSeekers, Career Junction, CareerJunction, Jobs South Africa, South Africa Jobs, South African Jobs, South Africa Careers, Careers South Africa, South African Careers"><meta name="description" content="CareerSeekers can submit their resume, search jobs and create alerts to receive jobs via email. Subscribing Recruiters can post jobs, search resumes and create alerts to receive resumes via email. Recruiters can also link our site to theirs, maintaining their Private Label.">
 <title>
 CareerJunction
 </title>
@@ -19,7 +18,7 @@ CareerJunction
 // test whether we support JS 1.1
 if (window.location.pathname != '/browserver.asp')
 {
-	if ((jsver < 1.2) || (parseFloat(navigator.appVersion.substring(0,1)) < 4)) window.location.pathname = '/browserver.asp';
+	if ((jsver < 1.2) || (parseFloat(navigator.appVersion.substring(0,1)) < 4)) window.location.pathname = '/browserver.asp?cookies=1';
 }
 // test whether this browser supports cookies
 document.cookie = "foo=bar";
@@ -31,118 +30,164 @@ if (cookie.indexOf('foo') == -1)
 		window.location.pathname = '/browserver.asp?cookies=0';
 	}
 }
+
+function checkNonCJ()
+{
+	try
+	{
+		if (window.parent.frames.length > 0)
+		{
+			var strHostName = window.parent.location.hostname + "";
+			var re=/\.careerjunction\./;
+			var r = strHostName.match(re);
+			if (r == null)	{ window.location.href ='http://www.careerjunction.co.za/error/invalidipfrm.asp';}
+			return;
+		}
+	 }
+		catch(error)
+		{
+			if (error.number  == -2146828218) //Permission Denied - frame doesn't reside on our server/zone
+				window.location.href ='http://www.careerjunction.co.za/error/invalidipfrm.asp';
+			else
+				return;
+		}
+}
+
+function setFocusOnLoad()
+{
+	try
+	{
+		var i = 0;
+		for(i = 0;  i < document.forms[0].elements.length; i++)
+		{
+			if (document.forms[0].elements[i].type != 'hidden' &&
+	                    document.forms[0].elements[i].type != 'checkbox' &&
+        	            document.forms[0].elements[i].type != 'radio')
+			{
+				document.forms[0].elements[i].focus();
+				return;
+			}
+
+		}
+
+	 }
+		catch(error)
+		{
+			return;
+		}
+}
 //-->
 </script>
 <style>
-
 body
-	{
-	margin-left:0;
-	margin-right:0;
-	margin-top:0;
-	margin-bottom:0;
-	margin-width:0;
-	margin-height:0;
-	background-color:#eeeeee;
-	
+{
+	margin:0px 0px 0px 0px;
+	background-color:#ffffff;
+
 	background:url('/images/1/skin.gif');
-	
-	}
-table.menu
-	{
-	background-color:#cccccc;
-	}
-tr.none
-	{
-	background-color:#eeeeee;
-	}
+
+}
 tr.menu
-	{
-	background-color:#cccccc;
-	}
+   {
+   background-color:#cccccc;
+   }
 tr.lite
-	{
-	background-color:#eeeeee;
-	}
+   {
+   background-color:#eeeeee;
+   }
+tr.body
+   {
+   background-color:#eeeeee;
+   }
 tr.dark
-	{
-	background-color:#dddddd;
-	}
+   {
+   background-color:#cccccc;
+   }
+tr.head
+   {
+   background-color:#cccccc;
+   }
 td
-	{
-	font-family:Verdana,Arial,Helvetica;
-	font-size:11px;
-	color:#333333;
-	}
+   {
+   font-family:Verdana,Arial,Helvetica;
+   font-size:11px;
+   color:#333333;
+   }
 td.divider
-    {
-    border-bottom-style:solid;
-    border-bottom-width:1px;
-    border-bottom-color:#ffffff;
-    }	
+   {
+   border-bottom:1px solid #ffffff;
+   }
+td.rule
+   {
+   border-bottom:1px solid #ffffff;
+   }
 small
-	{
-	font-size:11px;
-	}
+   {
+   font-size:11px;
+   }
 big
-	{
-	font-size:13px;
-	font-weight:bold;
-	}
-kbd
-	{
-	font-family:Monospace;
-	font-size:12px;
-	}
-input
-	{
-	font-family:Monospace;
-	font-size:12px;
-	}
-textarea
-	{
-	font-family:Monospace;
-	font-size:12px;
-	}
-select
-	{
-	font-family:Monospace;
-	font-size:12px;
-	}
+   {
+   font-size:13px;
+   font-weight:bold;
+   }
 b
-	{
-	font-weight:bold;
-	}
+   {
+   font-weight:bold;
+   }
 i
-	{
-	font-style:normal;
-	color:#ff6600; 
-	}
-var
-	{
-	font-style:normal;
-	background-color:#ffff99; 
-	}
+   {
+   font-style:normal;
+   color:#ff6600;
+   }
 a:link
-	{
-	color:#3333cc;
-	}
+   {
+   color:#3333cc;
+   }
 a:active
-	{
-	color:#3333cc;
-	}
+   {
+   color:#3333cc;
+   }
 a:visited
-	{
-	color:#3333cc;
-	}
+   {
+   color:#3333cc;
+   }
 a:hover
-	{
-	color:#ff6600;
-	}
+   {
+   color:#ff6600;
+   }
+var
+   {
+   font-style:normal;
+   background-color:#ffff99;
+   }
+kbd
+   {
+   font-family:Monospace;
+   font-size:12px;
+   color:#333333;
+   }
+input
+   {
+   font-family:Monospace;
+   font-size:12px;
+   color:#333333;
+   }
+textarea
+   {
+   font-family:Monospace;
+   font-size:12px;
+   color:#333333;
+   }
+select
+   {
+   font-family:Monospace;
+   font-size:12px;
+   color:#333333;
+   }
 
 </style>
 </head>
-<body marginwidth="0" marginheight="0">	
+<body marginwidth="0" marginheight="0" onload="JavaScript: setFocusOnLoad();">
 <table width="588" border="0" cellspacing="12" cellpadding="0" align="center" bgcolor="#ffffff"><tbody><tr><td colspan="5"><table width="100%" border="0" cellspacing="0" cellpadding="3"><tbody><tr class="menu"><td><small>Legal</small></td><td align="right"><small><a href="javascript:window.close();">Close Window</a></small></td></tr></tbody></table></td></tr><tr><td colspan="5"><big>Privacy Statement</big></td></tr><tr><td colspan="5"><img width="588" height="1" border="0" src="/images/1.gif"></td></tr><tr>
 <td valign="top" colspan="5">
 <p><big>CareerJunction (last updated 30/05/2002)</big><br><small></small></p><p><small><a name="top"><b>Index</b></a></small></p><small>
@@ -273,8 +318,8 @@ a:hover
 	<td colspan="5"><img width="588" height="1" border="0" src="/images/1.gif"></td>
 </tr>
 <tr>
-	<td colspan="5"><small>Powered by CareerJunction. Copyright ©1997-2002, all rights reserved.<br>
-	<a target="Terms" href="/legal/terms.asp">Terms &amp; Conditions</a> | <a href="/legal/privacy.asp" target="Privacy">Privacy Statement</a>
+	<td colspan="5"><small>Powered by CareerJunction. Copyright ©1997-2003, all rights reserved.<br>
+	<a target="Terms" href="/legal/terms.asp">Terms &amp; Conditions</a> | <a href="/legal/privacy.asp" target="Privacy">Privacy Statement</a> | <a href="/public/pdf/accesstoinformationmanual.pdf" target="Access">Access to Information Manual</a>
 	<br></small></td>
 </tr>
 <tr>
@@ -283,8 +328,7 @@ a:hover
 	<td><img width="108" height="1" border="0" src="/images/0.gif"></td>
 	<td><img width="108" height="1" border="0" src="/images/0.gif"></td>
 	<td><img width="108" height="1" border="0" src="/images/0.gif"></td>
-</tr>
-</tbody></table>
+</tr></tbody></table>
 <!-- begin of skin foot -->
 			
 		
