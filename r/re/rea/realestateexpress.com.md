@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193942id_/http%3A//realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204165744id_/http%3A//www.realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Real Estate Express Real Estate License School
 
@@ -7,8 +7,8 @@ This privacy statement covers the Web site www.realestateexpress.com. It is the 
 Our postal address is:
 
 American School of Real Estate Express, LLC  
-14450 South Outer Forty Road  
-Chesterfield, MO 63017
+12977 North Forty Drive Suite 214  
+St. Louis, MO 63141
 
 We can be reached via e-mail at info@realestateexpress.com
 
@@ -119,5 +119,7 @@ Users may also prevent their information from being used for purposes other than
 **  
 Contact Information**
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at the phone number, email address, or postal address listed at the top of this page.  
+If users have any questions or suggestions regarding our privacy policy, please contact us at the phone number, email address, or postal address listed at the top of this page.
+
+[Washington Real Estate Course](http://www.realestateexpress.com/prelicense/WA/washington-real-estate-course.asp) /[ Virginia Real Estate Course](http://www.realestateexpress.com/prelicense/va/virginia-real-estate-course.asp) / [ Missouri Real Estate Course ](http://www.realestateexpress.com/prelicense/mo/missouri-real-estate-course.asp)/ [ Alabama Real Estate Course ](http://www.realestateexpress.com/prelicense/al/alabama-real-estate-course.asp)/ [ Kansas Real Estate Course ](http://www.realestateexpress.com/prelicense/ks/kansas-real-estate-course.asp)/ [ Georgia Real Estate Course](http://www.realestateexpress.com/prelicense/ga/georgia-real-estate-course.asp) / [ Missouri Real Estate Broker Course](http://www.realestateexpress.com/Broker/MO/broker_info.asp)   
 
