@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2004-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-[](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/default.asp)
+[](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
@@ -58,7 +58,7 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-[](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20041111092246id_/http%3A//www.w3schools.com/about/default.asp)   
+[](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20050403151803id_/http%3A//www.w3schools.com/about/default.asp)   
 
 
 * * *
@@ -67,45 +67,11 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-## Hosting Spotlight
+## Today's birthday
 
-* * *
+Today's birthday is a free service of [The Free Dictionary](http://www.thefreedictionary.com/lookup.htm#sitecontent)
 
-|    | 
-
-## Get Your Diploma!
-
-W3Schools' Online Certification Program is the perfect solution for busy professionals who need to balance work, family, and career building.
-
-The [HTML Certificate](https://web.archive.org/cert/default.asp) is for developers who want to document their knowledge of HTML 4.01, XHTML, and CSS.
-
-The [ASP Certificate](https://web.archive.org/cert/default.asp) is for developers who want to document their knowledge of ASP, SQL, and ADO.  
-  
----|---|---  
-  
-
-
-* * *
-
-## Create Cool Flash Effects and Practical ActionScripts
-
-|    | 
-
-The Flash Anthology will show you how to create and customize dozens of different effects including text, navigation animation, video, and audio.
-
-Plus, learn to create and validate Flash works, work with external data and XML, debug your code, use CSS in Flash, create Flash charts and get indexed in the search engines.  
-  
----|---|---  
-  
-  * Create over 60 cool and practical ActionScript effects.
-  * Customize each effect in dozens of different ways.
-  * Learn to use Flash for navigation, animation, video and audio.
-  * Discover best-practice ActionScript coding techniques.
-  * Get FREE download access to all the code (45 MB) used in the book.
-
-
-
-[ Click Here to Download the First Three Chapters, Free!](http://www.sitepoint.com/launch/3a9053/2/10)
+**Click[here](http://www.thefreedictionary.com/lookup.htm#sitecontent) to get free daily content for your website.**
 
 * * *
 
@@ -138,6 +104,6 @@ Does the world know about us? Check out these places:
 
 W3Schools is for training only. We do not warrant the correctness of the content. The risk of using it remains entirely with the user. While using this site, you agree to have read and accepted our [terms of use](https://web.archive.org/about/about_copyright.asp) and [privacy policy](https://web.archive.org/about/about_privacy.asp).
 
-[Copyright 1999-2004](https://web.archive.org/about/about_copyright.asp) by Refsnes Data. All Rights Reserved.
+[Copyright 1999-2005](https://web.archive.org/about/about_copyright.asp) by Refsnes Data. All Rights Reserved.
 
 * * *
