@@ -1,0 +1,80 @@
+> *The following text is extracted and transformed from the thegarden.com privacy policy that was archived on 2000-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001025112134id_/http%3A//www.radiocity.com/privacy/index.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**Privacy Policy**
+
+At Madison Square Garden, L.P. ("MSG"), we understand that privacy is an important issue for visitors to websites. Specifically, Web users are concerned about what information is being collected, how it's being collected and how it is being used. The following information is designed to help you understand MSG's Internet Privacy Policy.
+
+  
+**INFORMATION COLLECTION AND USE**
+
+Parental Consent Required for Personal Information Collected From Children Under the Age of 13
+
+MSG cares about protecting the personal information of children and does not collect nor use personal information voluntarily supplied without parental consent of a child. Upon obtaining parental consent, MSG only shares this information internally with its business units (the New York Knicks, the New York Rangers, the Hartford Wolf Pack, the New York Liberty and Radio City Entertainment) for purposes of providing special gift offerings, ticket discounts, and conducting games and sweepstakes. The types of personal information collected are (i) names; (ii) email address; (iii) age; (iv) mailing address; (v) hobbies; (vi) sports and entertainment interests; and (vii) telephone numbers. If a parent decides not to authorize the online collection and/or use of such personal information, the child will still be able to participate in such offerings, discounts, games and sweepstakes. A parent may also elect to authorize the internal use of a child's personal information, but not the external use of such data. Either way, MSG will never collect more information from a child than is necessary for conducting the aforementioned activities. 
+
+If at any time MSG decides to use such personal information with its sponsors, partners or affiliates, it will not to do unless and until it obtains verifiable consent from parents (e.g. requiring parents to fax a signed consent form, or sending emails that only be opened with a PIN number supplied upon extending parental consent). A parent may revoke previously extended approval at any time. A parent may also authorize the collection of his/her child's personal information for internal marketing purposes, as described above, but not for disclosure to MSG's sponsors, partners and affiliates. 
+
+**Site Visitorship Data for All Website Visitors**
+
+MSG routinely gathers anonymous data on Web site activity, such as how many people visit the site, the pages they visit, where they come from, how long they stay, etc. 
+
+**Site visitorship data is...**
+
+· collected on an aggregate, anonymous basis, which means no personal information is associated with this data.
+
+· gathered through the use of Web server logs and cookies. A Web server log is a file where Web site activity is stored. A cookie is a small piece of information that a Web site sends to a visitor's computer, which is stored on his or her hard drive. MSG uses cookies to track repeat visits to its Web site. Although MSG assigns a cookie to a visitor's computer, the company does not know who that visitor is unless that person specifically tells us. 
+
+· shared among MSG business units (New York Knicks, New York Rangers, the Hartford Wolf Pack, New York Liberty and Radio City Entertainment) to improve site content and overall service. 
+
+  
+Personal Information Collected From Website Visitors Older Than 13
+
+MSG collects personal information from site visitors, such as a visitor's name, address, phone number, e-mail address, etc. only when volunteered. 
+
+**Personal information is...**
+
+· collected through our "Email Us," "Liberty Enews," "NYK Mail," "Blue Shirt Extra," "Radio City Entertainment Backstage Access," "Request for information" and "Request an Appointment" forms. Occasionally, we will also collect personal information through voluntary online surveys.
+
+· forwarded to the MSG business that is equipped to handle the site visitor's request or feedback. 
+
+  
+**What information do we collect? How do we use it?**
+
+· When you opt-in, we need to know your name, e-mail address, mailing address, phone number, age and gender. 
+
+· When you sign up for our Personal Notification Services, we need only an e-mail address -which we use to send the information you requested. 
+
+· When you submit a customer review, we also ask for your e-mail address, although you can choose not to have your e-mail address displayed with your review. 
+
+· When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
+
+· We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new Madison Square Garden, L.P. services, and special offers we think you'll find valuable. If you would rather not receive this information, visit your Madison Square Garden, L.P. Subscriptions page to change your preferences. Make sure to change your preferences for each account or e-mail address you have left with us. 
+
+  
+**What about "cookies"?**
+
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide features such as 1-Click(sm) shopping and to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them. 
+
+Will Madison Square Garden, L.P. or its business units disclose the information it collects to outside parties? 
+
+MSG and its business units do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties that are our partners, but you can tell us not to by sending an e-mail message to webmaster@thegarden.com. Also, MSG and its business units may provide aggregate statistics about our customer's sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+
+**In summary**
+
+MSG and its business units are committed to protecting your privacy. We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to share such personal data by sending an e-mail message to webmaster@thegarden.com. If you never want to receive any announcements or special offers from us, visit us at thegarden.com to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us. 
+
+**Changes to the Privacy Policy**  
+If we decide to change our privacy policy, we will always post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. At any time, you can opt-out of the collection of this data. We will never collect or use personal data from children under the age of 13 without parental consent.
+
+**A Word About Security and Your Online Account....**
+
+MSG currently offers e-commerce transactions via thegarden.com to its customer base. To protect customer information, MSG uses three layers of security:   
+· Users are required to login using a unique user ID and password. 
+
+· A firewall (a combination of computer hardware and software) keeps unauthorized users from accessing information within MSG's computer network. 
+
+· Encryption technology is used to secure customer data when it's being transferred from one computer to another.
+
+If you have any questions about MSG's Internet Privacy Policy, please contact us by emailing webmaster@thegarden.com.   
+© Copyright 1999-2000 Madison Square Garden, L.P. 2 Pennsylvania Plaza, New York, NY 10121-0091. All rights reserved. 
