@@ -1,0 +1,1105 @@
+<!--The following is the downloaded HTML source of the my3cents.com privacy policy that was archived on 2000-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206203600id_/http%3A//my3cents.com/cgi-bin/privacy.tps) for the most accurate reproduction.-->
+
+<html><head><style>
+
+	BODY		{
+
+                        font-size: 9pt;
+
+                        font-family: Arial;
+
+			}
+
+
+
+        A               {
+
+                        color: BLUE;
+
+                        Font-Size: 10pt;
+
+                        font-family: Arial;
+
+                        }
+
+        H3              {
+
+                        color: #000000;
+
+                        font-size: 12pt;
+
+                        font-family: Arial;
+
+                        font-weight: light;
+
+				left-margin: 10px;
+
+                        }
+
+        TD              {
+
+                        color: #000000;
+
+                        font-size: 9pt;
+
+                        font-family: Arial;
+
+                        }
+
+</style>
+
+
+<script>
+
+
+
+//Some globals...
+
+var li=0;
+
+var undef;
+
+var id;
+
+var uid;
+
+var url="";
+
+var pref;
+
+
+
+var isNetscape = (navigator.appName == "Netscape");
+
+
+
+var l_hist = new Array();
+
+
+
+// filling the indexing table for history
+l_hist[0] = new Object();
+l_hist[0].url = "loginForm.tps";
+l_hist[0].label = "LOGIN";
+
+var arrow = "<FONT SIZE=2 COLOR=#FFFFFF>&nbsp;&nbsp;>&nbsp;&nbsp;</FONT>";
+var back_path = '<A HREF="javascript:history.back();" style=text-decoration:none; ><FONT SIZE=1 COLOR=#FFFFFF><B>PUBLISH OPINION</B></A>';
+
+var readOpinions_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>BROWSE OPINIONS</B>';
+var login_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>LOGIN</B></FONT>';
+
+var compreg_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>COMPANY REGISTRATION</B></FONT>';
+var profile_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>PROFILE</B></FONT>';
+var newuser_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>USER REGISTRATION</B></FONT>';
+var complaint_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>SUBMIT COMPLAINT</B></FONT>';
+var opinion_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>PUBLISH OPINION: STEP 2</B></FONT>';
+var lsearch_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>LETTER SEARCH</B></FONT>';
+var lcompose_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>COMPOSE LETTER</B></FONT>';
+var lsent_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>LETTER REQUEST CONFIRMATION</B></FONT>';
+var movie_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>MOVIE REVIEWS</B></FONT>';
+
+var csearch_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>COMPANY SEARCH</B></FONT>';
+var ads_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>ADVERTISING</B></FONT>';
+var agreement_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>USER AGREEMENT</B></FONT>';
+var privacy_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>PRIVACY POLICY</B></FONT>';
+var help_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>ABOUT US</B></FONT>';
+var search_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>SEARCH RESULTS</B></FONT>';
+var laddbutton_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>ADD OUR BUTTON TO YOUR SITE</B></FONT>';
+var home_path='<A HREF="/cgi-bin/start.tps" style=text-decoration:none; ><FONT SIZE=1 COLOR=#FFFFFF><B>HOME</B></FONT></A>' + arrow  ;
+
+var opinStep1_path = '<FONT SIZE=1 COLOR=#FFFFFF><B>PUBLISH OPINION: STEP 1</B></FONT>';
+
+var navbar="<FONT COLOR=#04359b>-</FONT>";
+var x43;
+var x;
+
+
+function writeHistory(){
+
+}
+
+
+
+function writeBar(width,color,text,mode){
+
+	var showUser = "User: <b>" + uid;
+
+
+	if (mode==0){
+
+		showUser="";
+
+	}
+if (isNetscape){
+	document.write("<TABLE CELLPADDING=2 WIDTH=95% CELLSPACING=0 >");
+}else{
+	document.write("<TABLE CELLPADDING=2 WIDTH=95% CELLSPACING=0 style=margin:5px;>");
+}
+        document.write("<TR>");
+
+        document.write("<TD BGCOLOR=" + color + " WIDTH=" + width + " NOWRAP>");
+
+        document.write("<FONT COLOR=WHITE SIZE=3><B>" + text + "</B></FONT>");
+
+        document.write("</TD>");
+
+        document.write("<TD BGCOLOR=#FFFFFF ALIGN=RIGHT>" + showUser + "</b></TD>");
+
+        document.write("</TR>");
+
+	document.write("<TR BGCOLOR=" + color + "><TD><TD></TR>");
+
+	document.write("</TABLE>");
+
+}
+
+
+
+
+
+
+
+//Set a cookie for login...
+
+function setCookie(tag,name)
+
+
+{
+
+
+
+	var the_cookie = tag + name;
+
+
+
+	var the_date = new Date("December 31, 2099");
+
+
+
+	var the_cookie_date = the_date.toGMTString();
+
+
+
+	//the_cookie = the_cookie + ";expires=" + the_cookie_date;
+
+
+
+	document.cookie = the_cookie;
+
+
+
+	
+
+
+
+}
+
+
+
+
+
+
+
+//Get the cookie value
+
+function getCookie(tag)
+
+{
+
+	var name = tag;
+
+
+
+        if (document.cookie.length > 0) {
+
+
+
+		offset = document.cookie.indexOf(name);
+
+
+
+		if (offset != -1) {
+
+
+
+			offset += name.length;
+
+
+
+			end = document.cookie.indexOf(";", offset);
+
+
+
+			if (end == -1) 
+
+				end = document.cookie.length;
+
+
+
+			return document.cookie.substring(offset, end);
+
+		}
+
+	}
+
+}
+
+
+
+function checkCookie(){
+
+  document.forms[0].elements[0].value = getCookie('my3centsID');
+
+  if (document.forms[0].elements[0].value == "undefined"){
+
+	document.forms[0].elements[0].value = "";
+
+  }
+
+}
+
+
+
+
+
+//****************************
+var tmpid;
+id = getCookie('my3centsID');
+
+
+if(id==undef){
+	id = "Anonymous";
+	uid = "Anonymous";
+	li = 0;
+}else{
+	tmpid = id.split("7848IE8X754Bmy");
+	uid = tmpid[0];
+
+	li = 1;
+}
+
+//******************************
+
+
+
+function validate(overide){
+
+if(overide=='X'){
+		document.submitComplaint.submit();
+		return true;
+}
+
+
+	if(document.submitComplaint.msgtype.value==''){
+
+		alert("You must specify a Messages Type...");
+
+		document.submitComplaint.msgtype.focus();
+
+		return false;
+
+	}
+
+
+	if(document.submitComplaint.type.value==''){
+
+		alert("You must specify a Type...");
+
+		document.submitComplaint.type.focus();
+
+		return false;
+
+	}
+
+
+
+
+	if(document.submitComplaint.category.value==''){
+
+		alert("You must specify a Category...");
+
+		document.submitComplaint.category.focus();
+
+		return false;
+
+	}
+
+	if(document.submitComplaint.company.value==''){
+
+		alert("You must specify a Company...");
+
+		document.submitComplaint.company.focus();
+
+		return false;
+
+	}
+
+	if(document.submitComplaint.title.value==''){
+
+		alert("You must specify a Title/Topic...");
+
+		document.submitComplaint.title.focus();
+
+		return false;
+
+	}
+
+	if(document.submitComplaint.complaint.value==''){
+
+		alert("You must specify your story...");
+
+		document.submitComplaint.complaint.focus();
+
+		return false;
+
+	}
+
+	
+
+	document.submitComplaint.submit();
+
+
+
+	return true;
+
+}
+
+function validateLetter(send,overide){
+
+if(overide=='X'){
+	if(send==2){
+		document.letter.send.value="Yes";
+		document.letter.target="_top";
+		document.letter.submit();
+		return true;
+	}else{
+
+		document.letter.send.value="No";
+		document.letter.submit();
+		//top.document.location="/cgi-bin/thanks.tps";
+		return true;
+	}
+}
+
+	if(document.letter.msgtype.value==''){
+
+		alert("You must specify a Messages Type...");
+
+		document.letter.msgtype.focus();
+
+		return false;
+
+	}
+
+	if(document.letter.type.value==''){
+
+		alert("You must specify a Type...");
+
+		document.letter.type.focus();
+
+		return false;
+
+	}
+
+	if(document.letter.location.value==''){
+
+		alert("You must specify a Location...");
+
+		document.letter.location.focus();
+
+		return false;
+
+	}
+
+	if(document.letter.line1.value==''){
+
+		alert("You must specify your name");
+
+		document.letter.line1.focus();
+
+		return false;
+
+	}
+
+	if(document.letter.letter.value==''){
+
+		alert("You must enter content for your letter...");
+
+		document.letter.letter.focus();
+
+		return false;
+
+	}
+
+
+
+	if(send==2){
+		document.letter.send.value="Yes";
+		document.letter.target="_top";
+		document.letter.submit();
+		return true;
+	}else{
+
+		document.letter.send.value="No";
+		document.letter.submit();
+		//top.document.location="/cgi-bin/thanks.tps";
+		return true;
+	}
+
+
+
+	document.letter.submit();
+
+
+
+	return true;
+
+}
+
+function validateNewUser(){
+
+	if(document.frmLoginCreate.userid.value==''){
+
+		alert("You must specify a userid...");
+
+		document.frmLoginCreate.userid.focus();
+
+		return false;
+
+	}
+
+	if(document.frmLoginCreate.password1.value==''){
+
+		alert("You must specify a password...");
+
+		document.frmLoginCreate.password1.focus();
+
+		return false;
+
+	}
+
+	if(document.frmLoginCreate.password2.value==''){
+
+		alert("You must re-enter your password");
+
+		document.frmLoginCreate.password2.focus();
+
+		return false;
+
+	}
+
+	if(document.frmLoginCreate.password1.value != document.frmLoginCreate.password2.value){
+
+		alert("Your passwords do not match... please re-enter them...");
+		document.frmLoginCreate.password1.value="";
+		document.frmLoginCreate.password2.value="";
+		document.frmLoginCreate.password1.focus();
+
+		return false;
+
+	}
+
+
+
+	if(document.frmLoginCreate.email.value==''){
+
+		alert("You must specify your email address...");
+
+		document.frmLoginCreate.email.focus();
+
+		return false;
+
+	}
+
+	if(document.frmLoginCreate.zip.value==''){
+
+		alert("You must enter your zip...");
+
+		document.frmLoginCreate.zip.focus();
+
+		return false;
+
+	}
+
+	document.frmLoginCreate.submit();
+
+	return true;
+
+}
+
+
+function vli(url){
+var tmp_url;
+	if(li==1){
+		top.location=url;
+	}else{
+		tmp_url = "<SPLIT>" + url;
+	
+		top.location="/cgi-bin/loginForm.tps?url=" + tmp_url;
+	}
+	return;
+}
+
+
+
+
+
+function go_Services(index){
+
+	var my_url;
+
+	if (index==2){
+		vli('/cgi-bin/postOpinionStep1.tps');
+		//my_url = '/cgi-bin/postOpinionStep1.tps';
+
+		//top.location=my_url;
+
+	}
+
+	if (index=='NOTUSED'){
+		vli('/cgi-bin/opinionForm.tps');
+	 	//top.location='/cgi-bin/opinionForm.tps';
+
+	}
+
+	if (index=='NOTUSED'){
+
+	 	top.location='/cgi-bin/categories.tps';
+
+	}
+
+	if (index==3){
+		vli('/cgi-bin/letterSearch.tps');
+		//my_url = '/cgi-bin/letterSearch.tps';
+
+		//top.location=my_url;
+
+	}
+
+	if (index==5){
+
+		top.location='/cgi-bin/companySearch.tps';
+
+	}
+
+	if (index==4){
+
+		top.location='/cgi-bin/browse.tps';
+
+	}
+
+
+}
+
+
+
+
+
+function go_Login(index){
+
+	if (index==2){
+
+		top.location='/cgi-bin/loginForm.tps';
+
+	}
+
+	if (index==3){
+
+		if(id=='Anonymous'){
+
+			alert('Please login first!');
+
+		}
+
+		else{
+			document.myProfile.userid.value=id;
+			document.myProfile.li.value=li;
+			document.myProfile.submit();
+			//url='/cgi-bin/myProfile.tps?userid=' + id + '&li=' + li;
+			//top.location=url;
+
+		}
+
+	}
+
+	if (index==4){
+
+		alert('This feature is not available yet');
+
+		self.document.navSelect.login.selectedIndex=0;
+
+	}
+
+	if (index==5){
+
+		alert('This feature is not available yet');
+
+		self.document.navSelect.login.selectedIndex=0;
+
+	}
+
+	if (index==6){
+
+		alert('This feature is not available yet');
+
+		self.document.navSelect.login.selectedIndex=0;
+
+	}
+
+}
+
+
+
+function go_Company(index){
+
+	if (index==2){
+
+		top.location='/cgi-bin/companyRegister.tps';
+
+	}
+
+	if (index==3){
+
+		top.location='/cgi-bin/compLogin.tps';
+
+	}
+
+	if (index==4){
+
+		top.location='/cgi-bin/compLogin.tps';
+
+	}
+
+	if (index==5){
+
+		top.location='/cgi-bin/help.tps';
+
+	}
+
+}
+
+
+
+
+</script>
+
+
+
+<script>navbar=home_path;</script>
+<title>My3cents.com - Let your voice be heard!</title>
+
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<meta name="keywords" content="complaints, opinions, complaints, complain, buyers, consumer, letters, reviews, consumer rights, consumer help, companies, ratings, news, resources, travel complaints, airline complaints, hotel complaints, rental cars, Internet Service Providers, personal computers, delivery services, e-commerce sites, corporate contacts, complaints, suggestions, questions, compliments, complaints, complaints, empowerment, aggregation, complaints, consumer advocates">
+
+<meta name="description" content="My3cents.com - Your advocate for consumer empowerment.  We are dedicated to helping consumers with complaints or compliments regarding any company, product or service.  Our services include a FREE letter service for sending letters to any company, online opinion forum to education consumers, and an extensive company database for helping you connect to the company of your choice.">
+</head>
+
+<body bgcolor="white" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:5;">
+
+
+
+<center>
+
+<table width="600" style="margin:0;" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr><td>
+
+
+
+<table width="100%" style="margin:0;" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr valign="TOP">
+
+<td align="LEFT" valign="TOP" nowrap="">
+
+<a href="/cgi-bin/start.tps" border="0">
+<img src="/my3cents/images/prod_logo_xmas.gif" border="0">
+</a>
+</td>
+<td align="LEFT" valign="CENTER">
+<br>
+<font size="3" color="#04359b">
+<b>the consumer </b></font><font size="4" color="#04359b"><b>Revolution</b></font>
+<font size="3" color="#04359b"> <b>starts here... </b></font>
+
+<!--IMG SRC="/my3cents/images/revolution.gif"-->
+</td>
+
+<td align="RIGHT" valign="CENTER">
+
+	<table cellpadding="0" cellspacing="0" style="margin:none;">
+
+	<tbody><tr>
+
+	<td align="RIGHT" valign="TOP">
+
+	<script>
+
+	if(isNetscape){
+		//do nothing
+	}else{
+		document.write("<font size=3 color=#04359b><b>");
+	}
+		
+	var now=new Date();
+	var month=now.getMonth() + 1; 
+	document.write(month + "/" + now.getDate() + "/" + now.getFullYear());
+
+	if(isNetscape){
+		//do nothing
+	}else{
+		document.write("</b></font>");
+	}
+
+	</script>1/31/2020
+
+	</td>
+
+	</tr>
+
+	<tr>
+
+	<td align="right">
+	<font face="verdana, arial, helvetica" size="-2">
+
+    	First time user? </font>Click <a href="/cgi-bin/newuser.tps"><font face="verdana, arial, helvetica" size="-2">
+here!</font></a>&nbsp;&nbsp;
+
+    
+    	</td>
+
+    	</tr>
+
+	</tbody></table>
+
+
+
+	
+
+</td>
+
+</tr>
+
+</tbody></table>
+
+
+
+
+<table width="100%" bgcolor="#04359b" cellpadding="0" cellspacing="0" style="margin:0;" border="0">
+
+<tbody><tr>
+
+<td width="31%">
+
+	<table align="LEFT" cellpadding="0" cellspacing="0" border="0">
+
+	<tbody><tr>
+
+	<td>
+	<font color="WHITE">
+
+	<small>&nbsp;&nbsp;Quick Opinion Search...</small>
+
+	</font>
+	</td>
+
+	</tr>
+
+	</tbody></table>
+
+</td>
+
+<script>
+if (isNetscape){
+//do nothing
+}else{
+document.write("<TD ALIGN=LEFT>");
+document.write(navbar);
+document.write("</TD>");
+}
+</script>
+
+<td>
+
+	<table width="100%" align="RIGHT" cellspacing="0" cellpadding="2" border="0">
+
+	<tbody><tr>
+
+	<td align="RIGHT">
+
+	<a href="/cgi-bin/help.tps" style="color:white;text-decoration:none;"><small><b>HELP&nbsp;&nbsp;</b></small></a>
+
+	</td>
+
+	</tr>
+
+	</tbody></table>
+
+</td>
+
+</tr>
+
+</tbody></table>
+
+
+	<table height="22" bgcolor="#04359b" style="margin:0;" cellpadding="0" cellspacing="0" border="0">
+
+	<tbody><tr height="22">
+
+	<td nowrap="" height="22" valign="top">
+
+	<form name="search" action="/cgi-bin/search.tps" method="POST" style="margin:0;">
+
+
+
+	&nbsp;<input type="text" name="criteria" size="20" value="<Enter Company Name>" onfocus="this.value='';">
+
+	<script>
+	if (isNetscape){
+		document.write('&nbsp;<input type="submit" value="Go">');
+	}else{
+		document.write('<A HREF="javascript:document.search.submit();"><img src="/my3cents/images/go2.gif" border=0></A>');
+	}
+	</script>&nbsp;<input type="submit" value="Go">
+	</form>
+
+	</td>
+
+	<td height="22" valign="bottom" nowrap="" bgcolor="#FFFFFF">
+
+	<script>
+
+	if (isNetscape){
+
+		document.write("");
+
+	}else{
+		//document.write('<img src="/my3cents/images/new_corner.gif" border=0>');
+
+		document.write('<img src="/my3cents/images/l3_corner.gif" border=0>');
+
+	}
+
+	</script>
+
+	</td>
+
+	<td nowrap="" bgcolor="#FFFFFF" height="22">
+
+		<form name="navSelect" style="margin:0;">
+
+		<table height="22" width="70%" border="0" bordercolor="CCCCCC" cellspacing="3" cellpadding="0" style="margin:0;">
+
+		<tbody><tr valign="TOP" align="LEFT" height="22">
+
+		<td height="22">
+
+		<select name="services" onchange="go_Services(self.document.navSelect.services.selectedIndex);">
+
+			<option selected="">Consumer Services</option>
+
+			<option>- - - - - - - - - - - - - </option>
+
+			<option>Publish my Opinion</option>	
+
+			<option>Write letter to a Company</option>
+
+			<option>Browse Opinions</option>
+
+			<option>Find Company Info</option>
+
+		</select>
+
+		</td>
+
+		<td height="22">
+
+		<select name="login" onchange="go_Login(self.document.navSelect.login.selectedIndex);">
+
+			<option selected="">My Account</option>
+
+			<option>- - - - - - - - - - - - - </option>
+
+			<option>Login</option>
+
+			<option>Manage my Account</option>
+
+		</select>
+
+		</td>
+
+		<td height="22">
+
+		<select name="company" onchange="go_Company(self.document.navSelect.company.selectedIndex);">
+
+			<option selected="">Company Tools</option>
+
+			<option>- - - - - - - - - - - - - </option>
+
+			<option>Register your Company</option>
+
+			<option>Login</option>
+
+			<option>Respond to a Consumer</option>
+
+
+
+		</select>
+
+		</td>
+
+		</tr>
+
+		</tbody></table>
+
+		</form>
+
+	</td>
+
+
+
+	</tr>
+
+	
+
+	</tbody></table>
+
+<br>
+
+
+<script>writeBar('200','#eca61d','Privacy Policy', 0);</script><table cellpadding="2" width="95%" cellspacing="0"><tbody><tr><td bgcolor="#eca61d" width="200" nowrap=""><font color="WHITE" size="3"><b>Privacy Policy</b></font></td><td bgcolor="#FFFFFF" align="RIGHT"></td></tr><tr bgcolor="#eca61d"><td></td><td></td></tr></tbody></table>
+
+<br>
+
+<table>
+<tbody><tr>
+<td>
+
+The policy explains how we will gather and use the information at this Web site: 
+http://www.My3cents.com<br><br>
+
+<b>How we use your IP address</b><br>
+We may use your Internet Protocol (IP) address to help diagnose problems with our server and track movement within our web site only to optimize your experience. We may also collect the referring URL, access times and browser type. We will not link this information to any personally identifiable information.<br><br>
+
+<b>How we use cookies</b><br>
+Our site uses "cookies" to make your experience at our site specific to you. Currently, if you set your browser to reject cookies, you cannot use My3cents.com. We also plan to use cookies to keep track of how you found out about our site (i.e., what link to My3cents.com on another site you may have clicked on).<br><br>
+
+(A cookie is a tiny amount of data that's sent to your web browser from a web server and is stored on your computer's hard drive. Cookies generally are used to help web sites identify their users and determine the status of a "client.")<br><br>
+
+<b>Information Collected and Use and Disclosure of Information</b><br>
+Our site's registration form requires users to give us contact information (like your name and e-mail address), basic demographic information (like your zip code) and a password. We may use your contact information to get in touch with you when necessary (for instance, to get more information about a company you're contacting, to see what follow-up action you may want us to take, or if you send comments to us). <br><br>
+
+Our letter generator creates individual letters that are sent at your request to companies. Your e-mail address, and any other contact information you choose to give such as mailing address and phone number, will be shared with the company you're writing to so the company can respond to your letter. We send your letter only to those people whom you specify and we will not share it with others. My3cents.com is not responsible for any company's use of your personal information. From time to time, we single out individual letters as examples for our "Top Stories" section, but we will not post these letters or any part of them on our site or disclose them to others without the consent of the person who wrote the letter. <br><br>
+ 
+We will always ask you for permission before sharing your contact information with third parties interested in sending information and promotional offers about their products and services. This basically means that you won't get any junkmail from third parties unless we get you specific permission. <br><br>
+
+From time to time, we also conduct more detailed surveys of visitors to our site. You decide whether you want to respond to our surveys, and the answers to the questions are reported anonymously. <br><br>
+ 
+In addition, My3cents.com may disclose personally identifiable user information to others when we believe, in good faith, that such release is reasonably necessary to (i) comply with the requirements of the law or a legal process served on us; (ii) enforce or apply the terms of any of our user agreements; or (iii) protect the rights, property or safety of My3cents.com, our users, or others. <br><br>
+
+<b>Send Your Letter to Others/Pass It On E-mail</b><br>
+Our site gives you the opportunity to enter a friend's e-mail address to send a copy of your letter or opinion or other information you feel may be of interest. This use is a one-time only e-mail sent to the recipient and our site will not send any further communications to the recipient. <br><br>
+ 
+
+<b>Public Forums</b><br>
+My3cents.com may in the future add chat rooms, forums, message boards and/or news groups available to its users. Any information disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information. We reserve the right to remove any posted material for any reason (for instance, if you are being offensive, or using vulgar language). <br><br>
+
+<b>Feedback On Us</b><br>
+The Feedback on Us feature creates individual letters that are sent to us at your request. Your e-mail address, and any other contact information you give us such as mailing address and phone number, will not be shared with anyone except the My3cents.com employees responsible for the site feature(s) you are writing about. As a result of your feedback, we may contact you for clarification or more information, to let you know the results of your feedback, or to thank you for your interest in our site. From time to time, we single out individual letters to use as testimonials, but we will not post these letters or any part of them on our site or disclose them to others without the consent of the person who wrote the letter. <br><br>
+
+<b>E-mail Links</b><br>
+We use an e-mail form located on the "Contact Us" page to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to respond directly to your questions or comments. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties with your permission. <br><br>
+
+<b>Employment Opportunities</b><br>
+Users who are interested in learning more about employment opportunities at My3cents.com are invited to contact us.  Your e-mail address, and any other contact information you give us such as mailing address and phone number, will not be shared with anyone except for the My3cents.com employees responsible for recruitment and hiring. We may contact you if we wish to explore possible employment opportunities. <br><br>
+
+<b>Links to Other Sites</b><br>
+This site contains links to Web sites operated by third parties. My3cents.com is not responsible for the privacy practices or content of such sites. <br><br>
+
+<b>Security</b><br>
+My3cents.com has security measures in place to protect the loss, misuse and alteration of the information under our control. <br><br>
+
+<b>Updating Your Information</b><br>
+If you need to update information about your account or any opinions/letters you have posted on our website, please contact us via email using the <a href="/cgi-bin/mailUs.tps">feedback tool</a> provided on our website!<br><br>
+
+<b>Notification of Changes</b><br>
+If we change our privacy policy, we will post a notice on our site so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their previously submitted information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. <br><br>
+
+<b>Contacting the Web Site</b><br>
+If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, you can contact: <br><br>
+
+My3cents.com<br>
+<a href="/cgi-bin/mailUs.tps">Contact Us!</a>
+</td>
+</tr>
+</tbody></table>
+
+
+<form name="myProfile" method="post" action="/cgi-bin/myProfile.tps" enctype="application/html-form-urlencoded" target="_top">
+<script>
+document.write('<INPUT TYPE="hidden" NAME="userid" VALUE="' + id + '">');
+document.write('<INPUT TYPE="hidden" NAME="li" VALUE="' + li + '">');
+</script><input type="hidden" name="userid" value="Anonymous"><input type="hidden" name="li" value="0">
+</form>
+<br><br><br><br>
+<center>
+<table width="100%">
+<tbody><tr>
+<td align="CENTER">
+	<a href="/cgi-bin/addButton.tps">
+	<small>Add our button to your site!</small>
+	</a>
+	&nbsp;|&nbsp;
+	<a href="javascript:vli('/cgi-bin/letterSearch.tps');">
+	<small>Send a Letter to Any Company</small>
+	</a>
+	&nbsp;|&nbsp;
+	<a href="javascript:vli('/cgi-bin/postOpinionStep1.tps');">
+	<small>Write an Opinion</small>
+	</a>
+	&nbsp;|&nbsp;
+	<a href="/cgi-bin/browse.tps">
+	<small>Browse Opinions</small>
+	</a>
+</td>
+
+</tr>
+</tbody></table>
+</center>
+
+<center>
+
+<table width="100%" cellpadding="5" cellspacing="0" border="0" bgcolor="#ffffff"><tbody><tr><td align="center">
+
+<a href="/cgi-bin/start.tps"><small>HOME</small></a> | <a href="/cgi-bin/help.tps"><small>About Us</small></a> | <a href="/cgi-bin/ads.tps"><small>Advertising</small></a> | <a href="/cgi-bin/agreement.tps"><small>Terms and Conditions</small></a>  |  <a href="/cgi-bin/privacy.tps"><small>Privacy Policy</small></a> | <a href="/cgi-bin/press.tps"><small>Press</small></a> | <a href="/cgi-bin/investors.tps"><small>Investors</small></a> | <a href="/cgi-bin/mailUs.tps"><small>Contact Us</small></a> 
+
+</td></tr></tbody></table>
+
+
+
+<hr width="95%">
+
+<font size="-2" face="verdana, arial, helvetica">
+© Copyright 2000 MY3CENTS.COM, Inc.
+</font>
+
+</center>
+
+
+
+
+
+</td></tr>
+
+</tbody></table>
+
+</center>
+
+
+
+
+
+
+
+</body></html>
