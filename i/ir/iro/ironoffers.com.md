@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironoffers.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602233857id_/http%3A//ironoffers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironoffers.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229045226id_/http%3A//ironoffers.com/privacy.html) for the most accurate reproduction.*
 
 # The Leadhound Network
 
