@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210144234id_/http%3A//myob.com.au/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204093718id_/http%3A//www.myob.com.au/privacy.shtml) for the most accurate reproduction.*
 
 # MYOB Australia
 
@@ -10,7 +10,7 @@ MYOB considers the guarding of your privacy as of the utmost importance. This **
 
 ### Reasons for collecting information
 
-MYOB only collects such information as is necessary to conduct business with you. You will alwyas know what information is being collected, and will have the option to choose how MYOB utilises your information to communicate with you. We will only collect information by lawful and fair means and not in an intrusive way. 
+MYOB only collects such information as is necessary to conduct business with you. You will always know what information is being collected, and will have the option to choose how MYOB utilises your information to communicate with you. We will only collect information by lawful and fair means and not in an intrusive way. 
 
 MYOB and its service providers will only use personal or business information you have supplied in order to: 
 
