@@ -1,10 +1,25 @@
-<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602145406id_/http%3A//www.investors.com/privacy/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investors.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202171331id_/http%3A//www.investors.com/privacy/default.asp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script language="javascript">
+	if(window.name == "winMain")
+	{
+		if("" != "0" && "" != "")
+		{
+			window.location = "";
+		}
+	}
+</script>
+
+
+
+
+
+
+
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 <title>Investor's Business Daily: Privacy Statement</title>
-<link rel="stylesheet" href="http://www.investors.com/ibd10relmac.css" type="text/css" title="mac">
+<link rel="stylesheet" href="http://www.investors.com/ibd0903relmac.css" type="text/css" title="mac">
 <link rel="stylesheet" href="http://www.investors.com/ibd0110navmac.css" type="text/css" title="mac">
 <style type="text/css"><!--
 .left { background: #003366 url(http://www.investors.com/images/bacLeft.gif) repeat }
@@ -37,7 +52,7 @@ if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexO
   OAS_version = 10;
 if (OAS_version >= 11)
   document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-//--></script><script language="JavaScript1.1" src="http://oascentral.investors.com/RealMedia/ads/adstream_mjx.ads//1022275125@?"></script><script language="JavaScript"><!--
+//--></script><script language="JavaScript1.1" src="http://oascentral.investors.com/RealMedia/ads/adstream_mjx.ads//1474686215@?"></script><script language="JavaScript"><!--
 document.write('');
 function OAS_AD(pos) {
   if (OAS_version >= 11)
@@ -61,7 +76,7 @@ function OAS_AD(pos) {
 <!--
 intWidth  = 750;
 intHeight = 375;
-sigprops  = "top=25,left=25,width=600,height=400,directories=no,status=no,location=0,toolbar=no,scrollbars=yes,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=1,dependent=yes";
+sigprops  = "top=25,left=25,width=640,height=400,directories=no,status=no,location=0,toolbar=no,scrollbars=yes,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=1,dependent=yes";
 
 if (screen.width > 1024) {
 	intWidth        = 1024;
@@ -142,7 +157,10 @@ var dgiGraphPopup;
 var pvcChartOpened = 0;
 var pvcGraphPopup;
 
-var sChartsDailyWeeklyFlag = false; //to defined when the user select IBD Charts D & W
+var sChartsDailyWeeklyFlag = "false"; //to defined when the user select IBD Charts D & W
+//*** GT 06/19/03 start
+var bSurveyFlag = false; // defined the survey status for Stock Check UP
+//*** GT 06/19/03 end
 
 //04/03/03 GT Check for PremiumAcees
 function jsfCheckPremiumAccess(sChart)
@@ -177,6 +195,7 @@ function jsfPopupControl(strTicker,strCharts)
 //		12	Industry Group Graph
 //		13  IBD Charts (Weekly)
 //		22	DGO Graphs Default
+//		23	Smartlink Graphs (dgo or pvc)
 //////////////////////////////////////////////////////////
 	browserPlatform = navigator.platform
 	browserName = navigator.appName;
@@ -192,28 +211,37 @@ function jsfPopupControl(strTicker,strCharts)
 	if (window.name == "" || window.name == null)
 		window.name = "winMain"
 	strTicker = escape(strTicker);
-	
+
 	//04/03/03 GT Check for PremiumAcees
 	sLoginFlag = "";
-	if(sLoginFlag == "1" && !sChartsDailyWeeklyFlag && strCharts == 2)
+	if(sLoginFlag == "1" && sChartsDailyWeeklyFlag == "false" && strCharts == 2)
 	{	strCharts = jsfCheckPremiumAccess(strCharts);	}
-	
+
 ///////////////////////////////////////////////
 // Stock Checkup - strCharts = 1
 ///////////////////////////////////////////////
 	if (strCharts==1)
 	{
-//AA Commented out the following line for directing Checkup to only one server
 		strUrl="http://www.investors.com/member/checkup/checkUp.asp?t=" + strTicker + "&ss=YES";
-//		strUrl="http://data.investors.com/member/checkup/checkUp.asp?t=" + strTicker + "&ss=YES";
-
+		//*** GT 06/19/03 start
+		strUrl = strUrl + "&survey=" + bSurveyFlag.toString();
+		//*** GT 06/19/03 end
 		popup=window.open(strUrl,'CheckUpN',cupwindowprops);popup.focus();
 	}
 ///////////////////////////////////////////////
 // IBD Charts (Daily) - strCharts = 2
 ///////////////////////////////////////////////
-	else if (strCharts==2)
+	else if (strCharts==2 || strCharts==23)
 	{
+		switch(strCharts)
+		{
+		case 23:
+			sType = "ift";
+			break;
+		default:
+			sType = "pvc";
+		}
+
 		if (strTicker == "")
 		{
 			strTicker='0S%26P5'
@@ -235,32 +263,69 @@ function jsfPopupControl(strTicker,strCharts)
 	    	} else {
 				pvcChartOpened=1;
 				strTicker = strTicker.replace("%2526","%26");
-				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=pvc&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;	// *** TEST
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;	// *** TEST
 				pvcGraphPopup=window.open(surl,'ibddailyN',ibdwindowprops);
 				pvcGraphPopup.focus();
 				return;
 			}
 		}
 		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
-		if (pvcGraphPopup && pvcGraphPopup.open && !pvcGraphPopup.closed)
+		if(true)
 		{
-			// only use this window if it was originally
-			var currentUrl = pvcGraphPopup.window.location.toString();
-
-			if (currentUrl.search(/cht=pvc/i) != -1)
+			if (pvcGraphPopup && pvcGraphPopup.open && !pvcGraphPopup.closed)
 			{
-				strTicker = unescape(strTicker);				// decode string
-				strTicker = strTicker.replace(/%26/gi, "&");	// decode double-escaped string
-				pvcGraphPopup.focus();
-				pvcGraphPopup.document.dgf1.htmTicker.style.background = "red";
-				pvcGraphPopup.document.dgf1.htmTicker.value = strTicker;
-				pvcGraphPopup.Graph_onclick();
-				pvcGraphPopup.document.dgf1.htmTicker.style.background = "white";
+				// only use this window if it was originally
+				var currentUrl = pvcGraphPopup.window.location.toString();
+				if (currentUrl.search(/cht=pvc/i) != -1 || currentUrl.search(/cht=ift/i) != -1)
+				{
+					strTicker = unescape(strTicker);				// decode string
+					strTicker = strTicker.replace(/%26/gi, "&");	// decode double-escaped string
+					pvcGraphPopup.focus();
+					if(pvcGraphPopup.document.getElementById('htmTickerIFT'))
+					{
+						pvcGraphPopup.document.dgf1.htmTickerIFT.style.background = "red";
+						pvcGraphPopup.document.dgf1.htmTickerIFT.value = strTicker;
+						pvcGraphPopup.Graph_onclick();
+						pvcGraphPopup.document.dgf1.htmTickerIFT.style.background = "white";
+					}
+					else
+					{
+						pvcGraphPopup.document.dgf1.htmTicker.style.background = "red";
+						pvcGraphPopup.document.dgf1.htmTicker.value = strTicker;
+						if(pvcGraphPopup.Graph_onclick)
+						{	pvcGraphPopup.Graph_onclick();	}
+						else
+						{
+								if(isNS==0)
+								{
+									pvcGraphPopup.document.dgf1.plotwon1.grTyp = pvcGraphPopup.document.dgf1.GrType.value;
+									pvcGraphPopup.document.dgf1.plotwon1.GrID = sType;
+									pvcGraphPopup.document.dgf1.DPFMngr1.Symbol = strTicker;
+									pvcGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+								}
+								else
+								{
+									pvcGraphPopup.plotwon1.grTyp = pvcGraphPopup.document.dgf1.GrType.value;
+									pvcGraphPopup.plotwon1.GrID = sType;
+									pvcGraphPopup.DPFMngr1.Symbol = strTicker;
+									pvcGraphPopup.plotwon1.sym = strTicker;
+								}
+						}
+						pvcGraphPopup.document.dgf1.htmTicker.style.background = "white";
+					}
+				}
+				else
+				{
+					strTicker = strTicker.replace("%2526","%26");
+					var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;	// *** TEST
+					pvcGraphPopup=window.open(surl,'ibddailyN',ibdwindowprops);
+					pvcGraphPopup.focus();
+				}
 			}
 			else
 			{
 				strTicker = strTicker.replace("%2526","%26");
-				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=pvc&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;	// *** TEST
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;
 				pvcGraphPopup=window.open(surl,'ibddailyN',ibdwindowprops);
 				pvcGraphPopup.focus();
 			}
@@ -268,24 +333,33 @@ function jsfPopupControl(strTicker,strCharts)
 		else
 		{
 			strTicker = strTicker.replace("%2526","%26");
-			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=pvc&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;
+			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + "&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Daily&t=" + strTicker;
 			pvcGraphPopup=window.open(surl,'ibddailyN',ibdwindowprops);
 			pvcGraphPopup.focus();
 		}
-		if(sChartsDailyWeeklyFlag && window.name != "ibddailyN" && window.name != "ibdweeklyN")
-		{	sChartsDailyWeeklyFlag = false;	}
+
+		if(sChartsDailyWeeklyFlag == "true" && window.name != "ibddailyN" && window.name != "ibdweeklyN")
+		{	sChartsDailyWeeklyFlag = "false";	}
 	// end new code to prevent redraw
 	}
 ///////////////////////////////////////////////
 // IBD Charts (weekly) - strCharts = 13
 ///////////////////////////////////////////////
-	else if (strCharts==13)
+	else if (strCharts==13 || strCharts==24)
 	{
+		switch(strCharts)
+		{
+		case 24:
+			sType = "ift";
+			break;
+		default:
+			sType = "pvc";
+		}
+
 		if (strTicker == "")
 		{
 			strTicker='0S%26P5'
 		}
-	// start new code to prevent redraw after 1st chart
 		if (pvcChartOpened == 0)
 		{
 		    if (window.opener && window.opener.open && !window.opener.closed) {
@@ -295,34 +369,73 @@ function jsfPopupControl(strTicker,strCharts)
 				}
 	    	} else {
 				pvcChartOpened=1;
-				//*	var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=dgo&t=" + strTicker;
 				strTicker = strTicker.replace("%2526","%26");
-				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=pvc&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;	// *** TEST
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType +"&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;	// *** TEST
 				pvcGraphPopup=window.open(surl,'ibdweeklyN',ibdwwindowprops);
 				pvcGraphPopup.focus();
 				return;
 			}
 		}
 		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
-		if (pvcGraphPopup && pvcGraphPopup.open && !pvcGraphPopup.closed)
-		{
-			// only use this window if it was originally
-			var currentUrl = pvcGraphPopup.window.location.toString();
-
-			if (currentUrl.search(/cht=pvc/i) != -1)
+		if(true) {
+			if (pvcGraphPopup && pvcGraphPopup.open && !pvcGraphPopup.closed)
 			{
-				strTicker = unescape(strTicker);				// decode string
-				strTicker = strTicker.replace(/%26/gi, "&");	// decude double-escaped string
-				pvcGraphPopup.focus();
-				pvcGraphPopup.document.dgf1.htmTicker.style.background = "red";
-				pvcGraphPopup.document.dgf1.htmTicker.value = strTicker;
-				pvcGraphPopup.Graph_onclick();
-				pvcGraphPopup.document.dgf1.htmTicker.style.background = "white";
+				// only use this window if it was originally
+				var currentUrl = pvcGraphPopup.window.location.toString();
+
+				if (currentUrl.search(/cht=pvc/i) != -1 || currentUrl.search(/cht=ift/i) != -1)
+				{
+					if(pvcGraphPopup.document.getElementById('htmTickerIFT'))
+					{
+						strTicker = unescape(strTicker);				// decode string
+						strTicker = strTicker.replace(/%26/gi, "&");	// decude double-escaped string
+						pvcGraphPopup.focus();
+						pvcGraphPopup.document.dgf1.htmTickerIFT.style.background = "red";
+						pvcGraphPopup.document.dgf1.htmTickerIFT.value = strTicker;
+						pvcGraphPopup.Graph_onclick();
+						pvcGraphPopup.document.dgf1.htmTickerIFT.style.background = "white";
+					}
+					else
+					{
+						strTicker = unescape(strTicker);				// decode string
+						strTicker = strTicker.replace(/%26/gi, "&");	// decude double-escaped string
+						pvcGraphPopup.focus();
+						pvcGraphPopup.document.dgf1.htmTicker.style.background = "red";
+						pvcGraphPopup.document.dgf1.htmTicker.value = strTicker;
+						if(pvcGraphPopup.Graph_onclick)
+						{	pvcGraphPopup.Graph_onclick();	}
+						else
+						{
+								if(isNS==0)
+								{
+									pvcGraphPopup.document.dgf1.plotwon1.grTyp = pvcGraphPopup.document.dgf1.GrType.value;
+									pvcGraphPopup.document.dgf1.plotwon1.GrID = sType;
+									pvcGraphPopup.document.dgf1.DPFMngr1.Symbol = strTicker;
+									pvcGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+								}
+								else
+								{
+									pvcGraphPopup.plotwon1.grTyp = pvcGraphPopup.document.dgf1.GrType.value;
+									pvcGraphPopup.plotwon1.GrID = sType;
+									pvcGraphPopup.DPFMngr1.Symbol = strTicker;
+									pvcGraphPopup.plotwon1.sym = strTicker;
+								}
+						}
+						pvcGraphPopup.document.dgf1.htmTicker.style.background = "white";
+					}
+				}
+				else
+				{
+					strTicker = strTicker.replace("%2526","%26");
+					var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType +"&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;	// *** TEST
+					pvcGraphPopup=window.open(surl,'ibdweeklyN',ibdwwindowprops);
+					pvcGraphPopup.focus();
+				}
 			}
 			else
 			{
 				strTicker = strTicker.replace("%2526","%26");
-				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=pvc&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;	// *** TEST
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType +"&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;
 				pvcGraphPopup=window.open(surl,'ibdweeklyN',ibdwwindowprops);
 				pvcGraphPopup.focus();
 			}
@@ -330,64 +443,86 @@ function jsfPopupControl(strTicker,strCharts)
 		else
 		{
 			strTicker = strTicker.replace("%2526","%26");
-			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=pvc&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;
+			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType +"&chtdaily=" +sChartsDailyWeeklyFlag+ "&ibdMode=Weekly&t=" + strTicker;
 			pvcGraphPopup=window.open(surl,'ibdweeklyN',ibdwwindowprops);
 			pvcGraphPopup.focus();
 		}
-		if(sChartsDailyWeeklyFlag && window.name != "ibddailyN" && window.name != "ibdweeklyN")
-		{	sChartsDailyWeeklyFlag = false;	}
+
+		if(sChartsDailyWeeklyFlag == "true" && window.name != "ibddailyN" && window.name != "ibdweeklyN")
+		{	sChartsDailyWeeklyFlag = "false";	}
 	// end new code to prevent redraw
 	}
 ///////////////////////////////////////////////
 // Fund Graph - strCharts = 3
 ///////////////////////////////////////////////
-	else if (strCharts==3)
+	else if (strCharts==3 || strCharts==15)
 	{
+		switch(strCharts)
+		{
+		case 15:
+			sType = "SOWF";
+			sID = "&id=";
+			break;
+		default:
+			sType = "DGF";
+			sID = "";
+		}
+
 		if(strTicker == "" || strTicker =="Symbol")
 			strTicker="0MUTI";
 		// if chart fndGraphPopup has not been opened, then open new window
 		if (fndChartOpened == 0)
 		{
 			fndChartOpened=1;
-			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=dgf&t=" + strTicker;
+			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
 			fndGraphPopup=window.open(surl,'fndGraphsN',fundwindowprops);
 			fndGraphPopup.focus();
 			return;
 		}
+
 		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
-		if (fndGraphPopup && fndGraphPopup.open && !fndGraphPopup.closed)
+		if(true)
 		{
-			// only use this window if it was originally an option chart window
-			var currentUrl = fndGraphPopup.window.location.toString();
-			if (currentUrl.search(/cht=dgf/i) != -1)
+			if (fndGraphPopup && fndGraphPopup.open && !fndGraphPopup.closed)
 			{
-				fndGraphPopup.focus();
-				fndGraphPopup.document.dgf1.htmTicker.style.background = "red";
-				fndGraphPopup.document.dgf1.htmTicker.value = strTicker;
-				if(isNS==0){
-					fndGraphPopup.document.dgf1.plotwon1.grTyp = fndGraphPopup.document.dgf1.GrType.value;
-					fndGraphPopup.document.dgf1.plotwon1.GrID = "DGF";
-					fndGraphPopup.syncRSStatus(strTicker);
-					fndGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+				// only use this window if it was originally an option chart window
+				var currentUrl = fndGraphPopup.window.location.toString();
+				if (currentUrl.search(/cht=dgf/i) != -1)
+				{
+					fndGraphPopup.focus();
+					fndGraphPopup.document.dgf1.htmTicker.style.background = "red";
+					fndGraphPopup.document.dgf1.htmTicker.value = strTicker;
+					// fndGraphPopup.document.dgf1.htmID.value = "";
+					if(isNS==0){
+						fndGraphPopup.document.dgf1.plotwon1.grTyp = fndGraphPopup.document.dgf1.GrType.value;
+						fndGraphPopup.document.dgf1.plotwon1.GrID = sType;
+						fndGraphPopup.syncRSStatus(strTicker);
+						fndGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+					}
+					else
+					{
+						fndGraphPopup.plotwon1.grTyp = fndGraphPopup.document.dgf1.GrType.value;
+						fndGraphPopup.plotwon1.GrID = sType;
+						fndGraphPopup.syncRSStatus(strTicker);
+						fndGraphPopup.plotwon1.sym = strTicker;
+					}
+					fndGraphPopup.document.dgf1.htmTicker.style.background = "white";
 				}
 				else
 				{
-					fndGraphPopup.plotwon1.grTyp = fndGraphPopup.document.dgf1.GrType.value;
-					fndGraphPopup.plotwon1.GrID = "DGF";
-					fndGraphPopup.syncRSStatus(strTicker);
-					fndGraphPopup.plotwon1.sym = strTicker;
+					var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+					fndGraphPopup=window.open(surl,'fndGraphsN',fundwindowprops);
 				}
-				fndGraphPopup.document.dgf1.htmTicker.style.background = "white";
 			}
 			else
 			{
-				var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=dgf&t=" + strTicker;
+				var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
 				fndGraphPopup=window.open(surl,'fndGraphsN',fundwindowprops);
 			}
 		}
 		else
 		{
-			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=dgf&t=" + strTicker;
+			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
 			fndGraphPopup=window.open(surl,'fndGraphsN',fundwindowprops);
 		}
 	}
@@ -466,32 +601,40 @@ function jsfPopupControl(strTicker,strCharts)
 		}
 		else
 		{
-			// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
-			if (optGraphPopup && optGraphPopup.open && !optGraphPopup.closed)
+			if(true)
 			{
-				// only use this window if it was originally an option chart window
-				var currentUrl = optGraphPopup.window.location.toString();
-				if (currentUrl.search(/cht=dgg/i) != -1)
+				// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
+				if (optGraphPopup && optGraphPopup.open && !optGraphPopup.closed)
 				{
-					optGraphPopup.focus();
-					optGraphPopup.document.dgf1.htmTicker.style.background = "red";
-					optGraphPopup.document.dgf1.htmTicker.value = unescape(strTicker);
-					if(isNS==0){
-						optGraphPopup.document.dgf1.plotwon1.grTyp = optGraphPopup.document.dgf1.GrType.value;
-						optGraphPopup.document.dgf1.plotwon1.CorpEvents = optGraphPopup.document.dgf1.flgCorporate.value;
-						optGraphPopup.document.dgf1.plotwon1.GrID = "DGG";
-						optGraphPopup.syncRSStatus(strTicker);
-						optGraphPopup.document.dgf1.plotwon1.sym = unescape(strTicker);
+					// only use this window if it was originally an option chart window
+					var currentUrl = optGraphPopup.window.location.toString();
+					if (currentUrl.search(/cht=dgg/i) != -1)
+					{
+						optGraphPopup.focus();
+						optGraphPopup.document.dgf1.htmTicker.style.background = "red";
+						optGraphPopup.document.dgf1.htmTicker.value = unescape(strTicker);
+						if(isNS==0){
+							optGraphPopup.document.dgf1.plotwon1.grTyp = optGraphPopup.document.dgf1.GrType.value;
+							optGraphPopup.document.dgf1.plotwon1.CorpEvents = optGraphPopup.document.dgf1.flgCorporate.value;
+							optGraphPopup.document.dgf1.plotwon1.GrID = "DGG";
+							optGraphPopup.syncRSStatus(strTicker);
+							optGraphPopup.document.dgf1.plotwon1.sym = unescape(strTicker);
+						}
+						else
+						{
+							optGraphPopup.plotwon1.grTyp = optGraphPopup.document.dgf1.GrType.value;
+							optGraphPopup.plotwon1.CorpEvents = optGraphPopup.document.dgf1.flgCorporate.value;
+							optGraphPopup.plotwon1.GrID = "DGG";
+							optGraphPopup.syncRSStatus(strTicker);
+							optGraphPopup.plotwon1.sym = unescape(strTicker);
+						}
+						optGraphPopup.document.dgf1.htmTicker.style.background = "white";
 					}
 					else
 					{
-						optGraphPopup.plotwon1.grTyp = optGraphPopup.document.dgf1.GrType.value;
-						optGraphPopup.plotwon1.CorpEvents = optGraphPopup.document.dgf1.flgCorporate.value;
-						optGraphPopup.plotwon1.GrID = "DGG";
-						optGraphPopup.syncRSStatus(strTicker);
-						optGraphPopup.plotwon1.sym = unescape(strTicker);
+						var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgg&t=" + strTicker;
+						optGraphPopup=window.open(surl,'optGraphsN',ogwindowprops);
 					}
-					optGraphPopup.document.dgf1.htmTicker.style.background = "white";
 				}
 				else
 				{
@@ -517,13 +660,24 @@ function jsfPopupControl(strTicker,strCharts)
 ///////////////////////////////////////////////
 // Industry Group Graph - strCharts = 12
 ///////////////////////////////////////////////
-	else if (strCharts==12)
+	else if (strCharts==12 || strCharts==16)
 	{
+		switch(strCharts)
+		{
+		case 16:
+			sType = "SOWI";
+			sID = "&id=";
+			break;
+		default:
+			sType = "DGI";
+			sID = "";
+		}
+
 	// if chart optGraphPopup has not been opened, then open new window
 		if (dgiChartOpened == 0)
 		{
 			dgiChartOpened=1;
-			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=dgi&t=" + strTicker;
+			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + "&t=" + strTicker;
 			dgiGraphPopup=window.open(surl,'dgiGraphsN',igwindowprops);
 			dgiGraphPopup.focus();
 			return;
@@ -532,98 +686,127 @@ function jsfPopupControl(strTicker,strCharts)
 		if((strTicker.substr(0,1)== "G") && (strTicker.length == 5))
 			indGroup= strTicker.substr(1,4);
 
-		if (dgiGraphPopup && dgiGraphPopup.open && !dgiGraphPopup.closed)
+		if(true)
 		{
-			// only use this window if it was originally an option chart window
-			var currentUrl = dgiGraphPopup.window.location.toString();
-			if (currentUrl.search(/cht=dgi/i) != -1)
+			if (dgiGraphPopup && dgiGraphPopup.open && !dgiGraphPopup.closed)
 			{
-				dgiGraphPopup.focus();
-				dgiGraphPopup.document.dgf1.htmInTicker.style.background = "red";
-				dgiGraphPopup.document.dgf1.htmInTicker.value=indGroup; //dropdown
-				if(isNS==0){
-					dgiGraphPopup.document.dgf1.plotwon1.grTyp = dgiGraphPopup.document.dgf1.GrType.value;
-					dgiGraphPopup.document.dgf1.plotwon1.GrID = "DGI";
-					dgiGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+				// only use this window if it was originally an option chart window
+				var currentUrl = dgiGraphPopup.window.location.toString();
+				if (currentUrl.search(/cht=dgi/i) != -1)
+				{
+					dgiGraphPopup.focus();
+					dgiGraphPopup.document.dgf1.htmInTicker.style.background = "red";
+					dgiGraphPopup.document.dgf1.htmInTicker.value=indGroup; //dropdown
+					// dgiGraphPopup.document.dgf1.hID.value="";
+					if(isNS==0){
+						dgiGraphPopup.document.dgf1.plotwon1.grTyp = dgiGraphPopup.document.dgf1.GrType.value;
+						dgiGraphPopup.document.dgf1.plotwon1.GrID = sType;
+						dgiGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+					}
+					else
+					{
+						dgiGraphPopup.plotwon1.grTyp = dgiGraphPopup.document.dgf1.GrType.value;
+						dgiGraphPopup.plotwon1.GrID = sType;
+						dgiGraphPopup.plotwon1.sym = strTicker;
+					}
+					dgiGraphPopup.document.dgf1.htmInTicker.style.background = "white";
 				}
 				else
 				{
-					dgiGraphPopup.plotwon1.grTyp = dgiGraphPopup.document.dgf1.GrType.value;
-					dgiGraphPopup.plotwon1.GrID = "DGI";
-					dgiGraphPopup.plotwon1.sym = strTicker;
+					var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+					dgiGraphPopup=window.open(surl,'dgiGraphsN',igwindowprops);
 				}
-				dgiGraphPopup.document.dgf1.htmInTicker.style.background = "white";
 			}
 			else
 			{
-				var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=dgi&t=" + strTicker;
+				var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
 				dgiGraphPopup=window.open(surl,'dgiGraphsN',igwindowprops);
 			}
 		}
 		else
 		{
-			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=dgi&t=" + strTicker;
+			var surl="'../../../dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
 			dgiGraphPopup=window.open(surl,'dgiGraphsN',igwindowprops);
 		}
 	}
 ///////////////////////////////////////////////
 // DGO Graphs - strCharts = 22
 ///////////////////////////////////////////////
-	else if (strCharts==22)
+	else if (strCharts==22 || strCharts==14)
 	{
+		switch(strCharts)
+		{
+		case 14:
+			sType = "SOWS";
+			sID = "&id=";
+			break;
+		default:
+			sType = "DGX";
+			sID = "";
+		}
+
 		if (strTicker == "")
 		{
 			strTicker='0S%26P5'
 		}
-	// start new code to prevent redraw after 1st chart
 		if (dgoChartOpened == 0)
 		{
 			dgoChartOpened=1;
 
-			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgx&t=" + strTicker;	// *** TEST
+			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
 			dgoGraphPopup=window.open(surl,'dgoGraphsN',dgowindowprops);
 			dgoGraphPopup.focus();
 			return;
 		}
-		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
-		if (dgoGraphPopup && dgoGraphPopup.open && !dgoGraphPopup.closed)
-		{
-			// only use this window if it was originally
-			var currentUrl = dgoGraphPopup.window.location.toString();
 
-			if (currentUrl.search(/cht=dgx/i) != -1)
+		// if chart window has been opened and currently exists, then change variables in OCX directly this prevents the window flashing as it reloads
+		if(true)
+		{
+			if (dgoGraphPopup && dgoGraphPopup.open && !dgoGraphPopup.closed)
 			{
-				dgoGraphPopup.focus();
-				dgoGraphPopup.document.dgf1.htmTicker.style.background = "red";
-				strTicker = strTicker.replace(/%26/gi,"&");	// decode url
-				dgoGraphPopup.document.dgf1.htmTicker.value = strTicker;
-				if(isNS==0){
-					dgoGraphPopup.document.dgf1.plotwon1.grTyp = dgoGraphPopup.document.dgf1.GrType.value;
-					dgoGraphPopup.document.dgf1.plotwon1.GrID = "DGX";
-					dgoGraphPopup.document.dgf1.DPFMngr1.Symbol = strTicker;
-					dgoGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+				// only use this window if it was originally
+				var currentUrl = dgoGraphPopup.window.location.toString();
+
+				if (currentUrl.search(/cht=dgx/i) != -1)
+				{
+					dgoGraphPopup.focus();
+					dgoGraphPopup.document.dgf1.htmTicker.style.background = "red";
+					strTicker = strTicker.replace(/%26/gi,"&");	// decode url
+					dgoGraphPopup.document.dgf1.htmTicker.value = strTicker;
+					// dgoGraphPopup.document.dgf1.hID.value = "";
+					if(isNS==0)
+					{
+						dgoGraphPopup.document.dgf1.plotwon1.grTyp = dgoGraphPopup.document.dgf1.GrType.value;
+						dgoGraphPopup.document.dgf1.plotwon1.GrID = sType;
+						dgoGraphPopup.document.dgf1.DPFMngr1.Symbol = strTicker;
+						dgoGraphPopup.document.dgf1.plotwon1.sym = strTicker;
+					}
+					else
+					{
+						dgoGraphPopup.plotwon1.grTyp = dgoGraphPopup.document.dgf1.GrType.value;
+						dgoGraphPopup.plotwon1.GrID = sType;
+						dgoGraphPopup.DPFMngr1.Symbol = strTicker;
+						dgoGraphPopup.plotwon1.sym = strTicker;
+					}
+					dgoGraphPopup.document.dgf1.htmTicker.style.background = "white";
 				}
 				else
 				{
-					dgoGraphPopup.plotwon1.grTyp = dgoGraphPopup.document.dgf1.GrType.value;
-					dgoGraphPopup.plotwon1.GrID = "DGO";
-					dgoGraphPopup.DPFMngr1.Symbol = strTicker;
-					dgoGraphPopup.plotwon1.sym = strTicker;
+					var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
+					dgoGraphPopup=window.open(surl,'dgoGraphsN',dgowindowprops);
 				}
-				dgoGraphPopup.document.dgf1.htmTicker.style.background = "white";
 			}
 			else
 			{
-				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgx&t=" + strTicker;	// *** TEST
+				var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
 				dgoGraphPopup=window.open(surl,'dgoGraphsN',dgowindowprops);
 			}
 		}
 		else
 		{
-			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=dgx&t=" + strTicker;	// *** TEST
+			var surl="http://www.investors.com/member/dgoGraphs/dgoGraphs.asp?cht=" + sType + sID + "&t=" + strTicker;
 			dgoGraphPopup=window.open(surl,'dgoGraphsN',dgowindowprops);
 		}
-	// end new code to prevent redraw
 	}
 }
 //--></script>
@@ -667,7 +850,6 @@ function cleanTickerSymbols(s) {
 	return sout;
 }
 //--></script>
-
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 	<tbody><tr>
 		<td background="http://www.investors.com/images/bacnewstripeslg.gif" valign="middle" class="top"><a href="http://www.investors.com/default.asp" name="top" class="rev12"><img src="http://www.investors.com/images/ibdlogo061302.gif" height="55" width="155" border="0" alt="Investors.com powered by Investor's Business Daily" vspace="2" hspace="2"></a></td>	
@@ -682,7 +864,7 @@ function cleanTickerSymbols(s) {
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 	<tbody><tr>
 
-		<td bgcolor="#003366" class="top2" align="left" colspan="2"><img src="http://www.investors.com/images/btnTopnav-jan03b.gif" height="20" width="665" border="0" usemap="#topnavbarmap" alt=""><map name="topnavbarmap"><area href="http://www.investors.com/subscribe/2weekfree.asp?src=A482GGP" coords="569,2,666,20" shape="rect" alt="2 Weeks Free Offer"><area href="http://www.investors.com/custserv/" coords="466,2,566,20" shape="rect" alt="Customer Service"><area href="http://www.investors.com/learn/" coords="348,2,464,20" shape="rect" alt="IBD Stock Market Learning Center"><area href="http://www.investors.com/store/toolsmain.asp" coords="251,2,345,20" shape="rect" alt="IBD Stock Power Tools"><area href="http://www.investors.com/editorial/" coords="172,2,248,20" shape="rect" alt="Today In IBD Business News"><area href="http://www.investors.com/" coords="128,2,170,20" shape="rect" alt="Home"></map></td>		
+		<td bgcolor="#003366" class="top2" align="left"><img src="http://www.investors.com/images/btnTopnav-oct03.gif" height="20" width="649" border="0" usemap="#topnavbarmap"><map name="topnavbarmap"><area href="http://www.investors.com/subscribe/2weekfree.asp?src=A482GGP" coords="554,0,646,20" shape="rect" alt="Free Trial Offer"><area href="http://www.investors.com/custserv/" coords="456,0,552,20" shape="rect" alt="Customer Service"><area href="http://www.investors.com/learn/" coords="342,0,454,20" shape="rect" alt="IBD Stock Market Learning Center"><area href="http://www.investors.com/store/toolsmain.asp" coords="249,0,340,20" shape="rect" alt="IBD Stock Power Tools"><area href="http://www.investors.com/editorial/" coords="172,0,247,20" shape="rect" alt="Today In IBD Business News"><area href="http://www.investors.com/" coords="130,0,170,20" shape="rect" alt="Home"><area href="http://www.investors.com/learn/i01a.asp" coords="2,0,127,20" shape="rect" alt="Tour investors.com"></map></td>	
 
 		<td bgcolor="#003366" class="top2" align="center"><script language="JavaScript" type="text/javascript"><!--
 		OAS_AD('TopRight');
@@ -721,13 +903,13 @@ function jsfPopupWindow(path)
 <table bgcolor="#B0C4DE" border="0" cellspacing="0" cellpadding="0" width="100%" class="whiteout">
 
 	<tbody><tr>
-		<td width="2" class="left2" rowspan="29"><img height="1" width="2" src="px.gif" border="0" alt=""></td>
-		<td width="3" class="whiteout" rowspan="29"><img height="1" width="3" src="px.gif" border="0" alt=""></td>
+		<td width="2" class="left2" rowspan="33"><img height="1" width="2" src="px.gif" border="0" alt=""></td>
+		<td width="3" class="whiteout" rowspan="33"><img height="1" width="3" src="px.gif" border="0" alt=""></td>
 
 		<td align="center" class="whiteout" colspan="2"><a href="http://www.investors.com/register/default.asp?dest=/default.aspwinName=registration"><img height="61" width="115" border="0" alt="Click here to register for investors.com" vspace="5" src="http://www.investors.com/images/btnReg2002.gif"></a></td>
 
-		<td width="2" class="whiteout" rowspan="29"><img height="1" width="2" src="px.gif" border="0" alt=""></td>
-		<td width="3" class="right" rowspan="29"><img height="1" width="3" src="px.gif" border="0" alt=""></td>
+		<td width="2" class="whiteout" rowspan="33"><img height="1" width="2" src="px.gif" border="0" alt=""></td>
+		<td width="3" class="right" rowspan="33"><img height="1" width="3" src="px.gif" border="0" alt=""></td>
 	</tr>
 						
 						<tr>
@@ -741,25 +923,33 @@ function jsfPopupWindow(path)
  
 
 
-							<font color="#cc0033">Get IBD (2 Free Weeks!)</font></a><br><img src="px.gif" width="1" height="6" alt=""></td>
+							<font color="#cc0033">Get IBD (FREE Trial!)</font></a><br><img src="px.gif" width="1" height="6" alt=""></td>
 						</tr>
-						<!--tr>
-							<td class="whiteout" colspan="2"><a href="http://www.ibdcdrom.com/investorsnewrenew1" class="leftnav">IBD Subscribe/Renew</a><br><img src="px.gif" width="1" height="6" alt=""></td>
-						</tr-->
 						<tr>
-							<td class="whiteout" colspan="2"><a href="http://www.investors.com/ibdrenew" class="leftnav">IBD Subscribe/Renew</a><br><img src="px.gif" width="1" height="6" alt=""></td>
-						</tr>						
+							<td class="whiteout" colspan="2"><a href="http://www.investors.com/ibdstore/" class="leftnav">IBD Store</a><br><img src="px.gif" width="1" height="6" alt=""></td>
+						</tr>
+						<tr>
+							<td class="whiteout" colspan="2"><a href="http://www.ibdcdrom.com/investorsnewrenew1" class="leftnav">IBD Subscribe/Renew</a><br><img src="px.gif" width="1" height="6" alt=""></td>
+						</tr>
+						<tr>
+							<td class="whiteout" colspan="2" nowrap=""><a href="http://www.investors.com/store/islOffer.asp" class="leftnav"><nobr>Subscribe to<img width="20" height="8" hspace="3" src="/images/staNew20x8.gif" border="0"><br>IBD<span class="tm">TM</span> 100 <i>SmartLink</i></nobr></a><br><img src="px.gif" width="1" height="6" alt=""></td>
+						</tr>
 						<tr>
 							<td class="whiteout" colspan="2" nowrap=""><a href="http://www.investors.com/eibdoffer/" class="leftnav"><nobr>Subscribe to <i>e</i>IBD<span class="tm">TM</span></nobr><br>
-							<span class="leftnavsm">(IBD's digital edition)</span><img src="http://www.investors.com/images/staNew.gif" alt="New!" border="0"></a><br><img src="px.gif" width="1" height="6" alt=""></td>
+							<span class="leftnavsm">(IBD's digital edition)</span></a><br><img src="px.gif" width="1" height="6" alt=""></td>
 						</tr>
+						<tr>
+							<!--<td class="whiteout" colspan="2" nowrap><a href="http:///member/ibd100smartlink/" class="leftnav"><nobr>IBD 100 <i>SmartLink</i></nobr><br>- </a><br><img src="px.gif" width="1" height="6" alt=""></td>-->
+							<td class="whiteout" colspan="2" nowrap=""><a href="http://www.investors.com/member/ibd100smartlink/" class="leftnav"><nobr>IBD<span class="tm">TM</span> 100 <i>SmartLink</i></nobr><br>- Fri 11/28</a><br><img src="px.gif" width="1" height="6" alt=""></td>
+						</tr>						
 						
 						<tr>
-							<td class="whiteout" colspan="2"><a href="http://www.investors.com/eibd/" class="leftnav"><i>e</i>IBD<span class="tm">TM</span> - Mon 6/2<img src="http://www.investors.com/images/staNew.gif" alt="New!" border="0" hspace="0"></a><br><img src="px.gif" width="1" height="6" alt=""></td>
+							<td class="whiteout" colspan="2"><a href="http://www.investors.com/eibd/" class="leftnav"><i>e</i>IBD<span class="tm">TM</span> - Tue 12/2</a><br><img src="px.gif" width="1" height="6" alt=""></td>
 						</tr>
 						<tr>
 							<td class="whiteout" colspan="2"><img height="2" width="115" border="0" src="http://www.investors.com/images/staHzDiv.gif" alt=""><br><img src="px.gif" width="1" height="6" alt=""></td>
 						</tr>
+						
 						<tr>
 							<td class="whiteout" colspan="2"><a href="http://www.investors.com/editorial/" class="leftnav">Today In IBD</a><br><img src="px.gif" width="1" height="6" alt=""></td>
 						</tr>
@@ -775,6 +965,7 @@ function jsfPopupWindow(path)
 						<tr>							
 							<td class="whiteout" valign="top" colspan="2"><a href="http://www.investors.com/editorial/editorialcontent.asp?secid=1100&amp;status=archivelist" class="leftnav">Investor's Corner<br>Archives</a><br><img src="px.gif" width="1" height="6" alt=""></td>
 						</tr>					
+						
 						<tr>
 							<td class="whiteout" colspan="2"><a href="http://www.investors.com/askbill/" class="leftnav">Ask Bill O'Neil</a><br><img src="px.gif" width="1" height="6" alt=""></td>
 						</tr>
@@ -796,9 +987,11 @@ function jsfPopupWindow(path)
 						<tr>
 							<td class="whiteout" colspan="2"><a href="http://www.investors.com/seminar/" class="leftnav">Events &amp; Workshops</a><br><img src="px.gif" width="1" height="6" alt=""></td>
 						</tr>
-						
 						<tr>
-							<td class="whiteout" colspan="2"><a href="http://www.investors.com/investorsadvertising/mediakits.asp" class="leftnav">Advertising Media Kits</a><br><img src="px.gif" width="1" height="6" alt=""></td>
+							<td class="whiteout" colspan="2"><a href="http://ibd.meetup.com" class="leftnav">IBD Meetup</a><br><img src="px.gif" width="1" height="6" alt=""></td>
+						</tr>
+						<tr>
+							<td class="whiteout" colspan="2"><a href="http://www.investors.com/ibdadvertising" class="leftnav">Advertising Media Kits</a><br><img src="px.gif" width="1" height="6" alt=""></td>
 						</tr>	
 						<tr>
 							<td class="whiteout" colspan="2"><a href="http://www.investors.com/myprofile/" class="leftnav">My Profile</a><br><img src="px.gif" width="1" height="6" alt=""></td>
@@ -832,7 +1025,8 @@ function jsfPopupWindow(path)
 						<tr>
 							<td class="whiteout">&nbsp;&nbsp;&nbsp;</td>
 							<td class="whiteout"><a href="http://www.investors.com/classified/" class="leftnav">Classifieds</a><br><img src="px.gif" width="1" height="6" alt=""></td>
-						</tr>											
+						</tr>
+						
 						<tr>
 							<td colspan="6" class="top"><img height="20" width="130" src="px.gif" border="0" alt=""></td>
 						</tr>
@@ -854,7 +1048,7 @@ OAS_AD('Left1');
 </tr>
 	
 <tr>
-	<td align="center"><a href="http://www.investors.com/subscribe/2weekfree.asp?src=A6X2BJR"><img alt="Get Two Weeks Free!" height="90" width="120" src="http://www.investors.com/images/staIBDtile03.gif" border="0" vspace="5"></a></td>
+	<td align="center"><a href="http://www.investors.com/subscribe/2weekfree.asp?src=A6X2BJR"><img alt="Get A Free Trial!" height="90" width="120" src="http://www.investors.com/images/staIBDtile04.gif" border="0" vspace="5"></a></td>
 </tr>
 </tbody></table>
 <p>&nbsp;</p>
@@ -915,313 +1109,299 @@ OAS_AD('Left1');
 		</td><!-- Content ends here -->
 		<!-- Right bar starts here -->
 		<td align="center" valign="top" class="top2">
-
-<!-- Right bar starts here -->
 <table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-		<td colspan="4" align="center"><img src="px.gif" height="6" width="1" alt="" border="0"></td>
+		<td colspan="4" align="center"><img src="px.gif" height="6" width="1"></td>
 	</tr>
-
 
 <!--member Log in-->
-
-	<form name="forLogIn" action="http://www.investors.com/login.asp?/privacy/default.asp" method="post"></form>	
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#336699" class="sideheadnav" nowrap="" colspan="2">&nbsp;<font color="#ffffff">Member Log In</font></td>
-		<td width="1"><img src="px.gif" height="24" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="24" width="1"></td>
 	</tr>
+	
+	<form name="forLogIn" action="http://www.investors.com/login.asp?/privacy/default.asp" method="post"></form>		
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffe59a" class="gryformsub">&nbsp;<input type="text" name="htmUserName" size="10" class="rightbar">&nbsp;</td>
-		<td bgcolor="#ffe59a" class="gryformsub"><img src="px.gif" border="0" width="31" height="20" alt=""></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td bgcolor="#ffe59a" class="gryformsub"><img src="px.gif" width="31" height="20"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffe59a" colspan="2" class="gryformsub">&nbsp;User Name</td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffe59a" class="gryformsub">&nbsp;<input type="password" name="htmPassword" size="10" class="rightbar"></td>
 		<td bgcolor="#ffe59a" class="gryformsub"><input type="image" alt="Go!" width="31" height="20" src="http://www.investors.com/images/btnGo.gif" border="0" id="image2" name="image2"></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<input name="htmPage" type="hidden" value="http://www.investors.com/default.asp">
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffe59a" colspan="2" class="gryformsub">&nbsp;Password</td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-	</tr>	
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffe59a" align="center" colspan="2" class="gryformsub"><input type="checkbox" name="htmSaveLogin1" value="1" onclick="JavaScript:document.forLogIn.htmSaveLogin.value=1;">&nbsp;Save log in as a <a href="http://www.investors.com/cookie.asp" class="leftnavblue"><u>cookie</u></a><br>
 		<nobr>(Just click "Go!" on next visit)</nobr></td>
 		<td width="1">
 		<input type="hidden" name="htmSaveLogin">
-		<img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<img src="px.gif" height="1" width="1"></td>
 	</tr>
 	
-
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffe59a" colspan="2" class="gryformsub" align="center"><img src="px.gif" height="5" width="1" alt="" border="0"><br>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+		<td bgcolor="#ffe59a" colspan="2" class="gryformsub" align="center"><img src="px.gif" height="5" width="1"><br>
 		<a href="http://www.investors.com/PasswordReset.asp" class="leftnavblue"><u>Click here</u></a> for user name/</td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffe59a" colspan="2" class="gryformsub" align="center">password help.<br>
 		<span class="space">&nbsp;</span></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>	
-	<tr>
-		<td colspan="4" align="center"><img src="px.gif" height="6" width="1" alt="" border="0"></td>
-	</tr>
 	
-
-
+	<tr>
+		<td colspan="4" align="center"><img src="px.gif" height="6" width="1"></td>
+	</tr>
 
 <form name="forCharts" action="JavaScript:jsfPopupControl(document.forCharts.htmTicker.value,document.forCharts.htmChartValue.value);" method="post"></form>
-
 <!--IBD Power Tools Box-->
-
 	<tr valign="middle">
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#336699" class="sideheadnav">&nbsp;<font color="#ffffff">IBD Power Tools</font></td>
 		<td bgcolor="#336699" class="sideheadnav"><a href="JavaScript:popup=window.open('http://www.investors.com/ibdhelp/help.asp?page=13','help','width=375,height=400,directories=no,status=no,location=no,toolbar=no,scrollbars=yes,resizable=yes,menubar=no,copyhistory=no,alwaysRaised=0,dependent=0');popup.focus()"><img alt="Help" width="31" height="20" vspace="2" border="0" src="http://www.investors.com/images/btnHelpsml.gif"></a></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffe59a" nowrap="" valign="bottom" class="gryformsub">&nbsp;<input type="text" name="htmTicker" size="10" value="" class="rightbar">&nbsp;</td>
 		<td bgcolor="#ffe59a" class="gryformsub"><input type="image" alt="Go!" width="31" height="20" src="http://www.investors.com/images/btnGo.gif" border="0" id="image1" name="image1" onclick="if(document.forCharts.htmChartValue.value==2){sChartsDailyWeeklyFlag=true;}"></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffe59a" class="gryformsub"><img src="px.gif" height="1" width="8" alt="" border="0"><a href="javascript:goSymbolLookup()" class="leftnavblue"><u>Symbol Lookup</u></a></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+		<td bgcolor="#ffe59a" class="gryformsub"><img src="px.gif" height="1" width="8"><a href="javascript:goSymbolLookup()" class="leftnavblue"><u>Symbol Lookup</u></a></td>
 		<td bgcolor="#ffe59a" class="gryformsub">&nbsp;</td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffe59a" colspan="2" class="gryformsub" nowrap=""><input type="radio" value="7" name="htmCharts" onclick="JavaScript:document.forCharts.htmChartValue.value=7;" checked=""><img src="px.gif" height="1" width="2" alt="" border="0">Stock Quote</td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+		<td bgcolor="#ffe59a" colspan="2" class="gryformsub" nowrap=""><input type="radio" value="7" name="htmCharts" onclick="JavaScript:document.forCharts.htmChartValue.value=7;" checked=""><img src="px.gif" height="1" width="2">Stock Quote</td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffe59a" colspan="2" class="gryformsub" nowrap=""><input type="radio" value="4" name="htmCharts" onclick="JavaScript:document.forCharts.htmChartValue.value=1;"><img src="px.gif" height="1" width="2" alt="" border="0">IBD Stock Checkup®</td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+		<td bgcolor="#ffe59a" colspan="2" class="gryformsub" nowrap=""><input type="radio" value="4" name="htmCharts" onclick="JavaScript:document.forCharts.htmChartValue.value=1;"><img src="px.gif" height="1" width="2">IBD Stock Checkup®</td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<input type="hidden" value="7" name="htmChartValue">
 
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffe59a" colspan="2" class="gryformsub" nowrap=""><input type="radio" value="5" name="htmCharts" onclick="JavaScript:document.forCharts.htmChartValue.value=2;sChartsDailyWeeklyFlag=true;"><img src="px.gif" height="1" width="2" alt="" border="0">IBD Charts: Daily &amp; Weekly</td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+		<td bgcolor="#ffe59a" colspan="2" class="gryformsub" nowrap=""><input type="radio" value="5" name="htmCharts" onclick="JavaScript:document.forCharts.htmChartValue.value=2;sChartsDailyWeeklyFlag=true;"><img src="px.gif" height="1" width="2">IBD Charts: Daily &amp; Weekly</td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
+
 	
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffe59a" class="gryformsub" colspan="2" valign="top"><img src="px.gif" height="2" width="1" alt="" border="0"><br>
-			<img src="px.gif" height="1" width="22" alt="" border="0"><a href="http://www.investors.com/member/screen/screenoftheday.asp" class="leftnavblue"><u>Screen Of The Day</u></a><br>
-			<img src="px.gif" height="5" width="1" alt="" border="0"></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+		<td bgcolor="#ffe59a" class="gryformsub" colspan="2" valign="top"><img src="px.gif" height="2" width="1"><br>
+			<img src="px.gif" height="1" width="22"><a href="http://www.investors.com/idealbb/" class="leftnavblue"><u>IBD Forums</u></a><br>
+			<img src="px.gif" height="5" width="1"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+		<td bgcolor="#ffe59a" class="gryformsub" colspan="2" valign="top"><img src="px.gif" height="2" width="1"><br>
+			<img src="px.gif" height="1" width="22"><a href="http://www.investors.com/member/screen/screenoftheday.asp" class="leftnavblue"><u>Screen Of The Day</u></a><br>
+			<img src="px.gif" height="5" width="1"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffe59a" colspan="2" class="gryformsub">
-			<img src="px.gif" height="1" width="22" alt="" border="0"><a href="http://www.investors.com/member/mystocklist/myStockLists.asp?currentview=default&amp;sort=1" class="leftnavblue"><u>My Stock Lists</u> <!-- <img src="http://www.investors.com/images/staExpandedSm.gif" height="16" width="58" alt="Expanded!" border="0" style="vertical-align: bottom"> --></a><br>
-			<img src="px.gif" height="5" width="5" alt="" border="0"></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+			<img src="px.gif" height="1" width="22"><a href="http://www.investors.com/member/mystocklist/myStockLists.asp?currentview=default&amp;sort=1" class="leftnavblue"><u>My Stock Lists</u> <!-- <img src="http://www.investors.com/images/staExpandedSm.gif" height="16" width="58" alt="Expanded!" style="vertical-align: bottom"> --></a><br>
+			<img src="px.gif" height="5" width="5"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffe59a" colspan="2" class="gryformsub">
-			<img src="px.gif" height="1" width="22" alt="" border="0"><a href="http://www.investors.com/ibdarchives/" class="leftnavblue">Search IBD Archives</a><br>
-			<img src="px.gif" height="5" width="5" alt="" border="0"></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+			<img src="px.gif" height="1" width="22"><a href="http://www.investors.com/ibdarchives/" class="leftnavblue"><u>Search IBD Archives</u></a><br>
+			<img src="px.gif" height="5" width="5"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td colspan="4" align="center"><img src="px.gif" height="6" width="1" alt="" border="0"></td>
+		<td colspan="4" align="center"><img src="px.gif" height="6" width="1"></td>
 	</tr>
-	
 	<!--Premium Services Box-->
 
 	<tr valign="middle">
-		<td width="1"><img src="px.gif" height="24" width="1" alt="" border="0"></td>
-		<td bgcolor="#336699" class="sideheadnav">&nbsp;<font color="#ffffff">Premium Services</font></td>
-		<td bgcolor="#336699" class="sideheadnav"><img src="px.gif" border="0" hspace="2"></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="24" width="1"></td>
+		<td bgcolor="#336699" class="sideheadnav">&nbsp;<font color="#ffffff">
+		<span id="dimhead">Premium Services</span></font></td>
+		<td bgcolor="#336699" class="sideheadnav"><img src="px.gif" hspace="2"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="20" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
 		<td bgcolor="#ffffff" colspan="2" class="premform">
-			<img src="px.gif" height="1" width="15" alt="" border="0"><font color="#336699"><b>Daily Graphs Online®<img src="px.gif" height="1" width="1">:</b></font></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+			<img src="px.gif" height="1" width="15"><font color="#336699"><b>Daily Graphs Online®<img src="px.gif" height="1" width="1">:</b></font></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="20" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
 		<td bgcolor="#ffffff" colspan="2" class="RSG" nowrap="">
-			<img src="px.gif" height="1" width="15" alt="" border="0"><a href="JavaScript:document.forCharts.htmCharts[0].checked=false;document.forCharts.htmCharts[1].checked=false;document.forCharts.htmCharts[2].checked=false;document.forCharts.htmChartValue.value=22;document.forCharts.submit();" class="rightnavSG"><u>Premium Stock Graphs</u></a></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+			<img src="px.gif" height="1" width="15"><a href="JavaScript:document.forCharts.htmCharts[0].checked=false;document.forCharts.htmCharts[1].checked=false;document.forCharts.htmCharts[2].checked=false;document.forCharts.htmChartValue.value=22;document.forCharts.submit();" class="rightnavSG"><u>Premium Stock Graphs</u></a></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="20" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffffff" colspan="2" class="RCS"><img src="px.gif" height="1" width="15" alt="" border="0"><a href="JavaScript:jsfPopupControl('',11);" class="rightnavCS"><u>Custom Screen Wizard</u></a></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
+		<td bgcolor="#ffffff" colspan="2" class="RCS"><img src="px.gif" height="1" width="15"><a href="JavaScript:jsfPopupControl('',11);" class="rightnavCS"><u>Custom Screen Wizard</u></a></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="20" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffffff" colspan="2" class="RIG"><img src="px.gif" height="1" width="15" alt="" border="0"><a href="http://www.investors.com/member/IndGroups/default.asp" class="rightnavIG"><u>Industry Groups</u></a></td>
-		<td width="1"><img src="px.gif" height="20" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
+		<td bgcolor="#ffffff" colspan="2" class="RIG"><img src="px.gif" height="1" width="15"><a href="http://www.investors.com/member/IndGroups/default.asp" class="rightnavIG"><u>Industry Groups</u></a></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="20" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
 		<td bgcolor="#ffffff" colspan="2" class="RFC">
-			<img src="px.gif" height="1" width="15" alt="" border="0"><a href="http://www.investors.com/member/fundcenter/default.asp" class="rightnavFunds"><u>Fund Center</u><img width="25" height="8" alt="New!" src="http://www.investors.com/images/staNew.gif" border="0"></a></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+			<img src="px.gif" height="1" width="15"><a href="http://www.investors.com/member/fundcenter/default.asp" class="rightnavFunds"><u>Fund Center</u></a></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="20" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
 		<td bgcolor="#ffffff" colspan="2" class="ROG">
-			<img src="px.gif" height="1" width="15" alt="" border="0"><a href="http://www.investors.com/member/optGuide/default.asp" class="rightnavOG"><u>Option Guide</u><img width="25" height="8" alt="New!" src="http://www.investors.com/images/staNew.gif" border="0"></a></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffffff" align="center" colspan="2" class="premform" nowrap=""><font color="#336699">. . . . . . . . . . . . . . . . . . . . . . .</font></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td bgcolor="#ffffff" colspan="2" class="premform" align="center"><img src="px.gif" height="1" width="1" alt="" border="0"><br>
-		<a href="http://www.investors.com/store/IBDpricing.asp" class="leftnavblue"><u>Subscribe</u></a> or <a href="http://www.investors.com/products/" class="leftnavblue"><u>Learn More</u></a></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+			<img src="px.gif" height="1" width="15"><a href="http://www.investors.com/member/optGuide/default.asp" class="rightnavOG"><u>Option Guide</u></a></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
+		<td bgcolor="#ffffff" colspan="2" class="premform" nowrap="">
+			<img src="px.gif" height="1" width="15"><a href="http://www.investors.com/store/197IndGroups.asp" class="leftnavblue"><u>197 Industry Group List</u><img width="20" height="8" alt="New!" src="http://www.investors.com/images/staNew20x8.gif" border="0"></a></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+	</tr>
+
+	<tr>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+		<td bgcolor="#ffffff" align="center" colspan="2" class="premform" nowrap=""><font color="#336699">. . . . . . . . . . . . . . . . . . . . . . .</font></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+		<td bgcolor="#ffffff" colspan="2" class="premform" align="center"><img src="px.gif" height="1" width="1"><br>
+		<a href="http://www.investors.com/store/IBDpricing.asp" class="leftnavblue"><u>Subscribe</u></a> or <a href="http://www.investors.com/products/" class="leftnavblue"><u>Learn More</u></a></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffffff" align="center" colspan="2" class="premform">
-		<img src="px.gif" height="3" width="1" alt="" border="0"><br>
-		<img src="http://www.investors.com/images/bacBlueBord.gif" height="1" width="135" alt="" border="0"></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<img src="px.gif" height="3" width="1"><br>
+		<img src="http://www.investors.com/images/bacBlueBord.gif" height="1" width="135"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="20" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
 		<td bgcolor="#ffffff" colspan="2" class="premform">
-			<img src="px.gif" height="1" width="15" alt="" border="0"><a href="http://www.investors.com/store/library.asp" class="leftnavblue"><b>IBD Investment Library</b></a></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+			<img src="px.gif" height="1" width="15"><a href="http://www.investors.com/store/library.asp" class="leftnavblue"><b>IBD Investment Library</b></a></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="20" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="20" width="1"></td>
 		<td bgcolor="#ffffff" colspan="2" class="premform">
-			<img src="px.gif" height="1" width="15" alt="" border="0"><a href="http://www.investors.com/store/dgprint.asp" class="leftnavblue"><b>Daily Graphs Books</b></a></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+			<img src="px.gif" height="1" width="15"><a href="http://www.investors.com/store/dgprint.asp" class="leftnavblue"><b>Daily Graphs Books</b></a></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	<tr>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 		<td bgcolor="#ffffff" align="center" colspan="2" class="premform">
-		<img src="px.gif" height="3" width="1" alt="" border="0"></td>
-		<td width="1"><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<img src="px.gif" height="3" width="1"></td>
+		<td width="1"><img src="px.gif" height="1" width="1"></td>
 	</tr>
 	
 	<tr>
-		<td colspan="4" align="center"><img src="px.gif" height="2" width="1" alt="" border="0"></td>
+		<td colspan="4" align="center"><img src="px.gif" height="2" width="1"></td>
 	</tr>
 
 <!-- Mid-bar 88x31 ad -->
-
 	
 	<tr>
 		<td colspan="4" align="center" class="nopad">
-<script language="JavaScript">
-<!--
-OAS_AD('Right1');
-//-->
-</script></td>
+			<script language="JavaScript">
+			<!--
+			OAS_AD('Right1');
+			//-->
+			</script></td>
 	</tr>
 
 	<tr>
-		<td colspan="4" align="center"><img src="px.gif" height="2" width="1" alt="" border="0"></td>
+		<td colspan="4" align="center"><img src="px.gif" height="2" width="1"></td>
 	</tr>
-
 	
 	<tr>
 		<td colspan="4" align="center" class="nopad">
-<script language="JavaScript">
-<!--
-OAS_AD('Right2');
-//-->
-</script></td>
+			<script language="JavaScript">
+			<!--
+			OAS_AD('Right2');
+			//-->
+			</script>
+		</td>
 	</tr>
 
 	<tr>
-		<td><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td><img src="px.gif" height="1" width="1" alt="" border="0"></td>
-		<td><img src="px.gif" height="1" width="1" alt="" border="0"></td>
+		<td><img src="px.gif" height="1" width="1"></td>
+		<td><img src="px.gif" height="1" width="1"></td>
+		<td><img src="px.gif" height="1" width="1"></td>
+		<td><img src="px.gif" height="1" width="1"></td>
 	</tr>
 </tbody></table>
 
-
-
-
-
-<script language="JavaScript" type="text/javascript">
-<!--
+<script language="JavaScript" type="text/javascript"><!--
 browserName = navigator.appName;
 browserVer = parseInt(navigator.appVersion);
 
 if (document.forCharts.htmTicker.value != "" )
 {
-  document.forCharts.htmTicker.focus();document.forCharts.htmTicker.select();
+	document.forCharts.htmTicker.focus();document.forCharts.htmTicker.select();
 }
-//if (document.forQuote.htmTickerQuote.value != "" )
-//{
-//  document.forQuote.htmTickerQuote.focus();document.forQuote.htmTickerQuote.select();
-//}
-
-
 	//added:8-9-2001
 	window.name = "winMain"
 	//end added:8-9-2001
 //	alert(strCharts)
-  strTicker = document.forCharts.htmTicker.value
-  strTicker = cleanTickerSymbols(strTicker)
-  strTicker = escape ( strTicker )
-
+	strTicker = document.forCharts.htmTicker.value
+	strTicker = cleanTickerSymbols(strTicker)
+	strTicker = escape ( strTicker )
 
 function jsfRedirect(strLink){
-
 	document.forQM.action=strLink;
 	document.forQM.submit();
-
 }
 
 function goPopupStockLists(strSymbol, isFromPopup) {
-
 	window.name = "winMain"
 	strUrl = "/member/mystocklist/addstock.asp?ticker=" + strSymbol
 	popupStockLists=window.open(strUrl,"popupStockLists","width=530,height=300,directories=no,status=no,location=no,toolbar=no,scrollbars=yes,resize=yes,menubar=no,copyhistory=no,alwaysRaised=0,dependent=0")
 }
 
 function goSymbolLookup(){
-
 	var currentLocation
 	currentLocation = window.location.href
 	currentLocation = currentLocation.toLowerCase()
-
-	// "update.asp" is in the url My stock list.
 
 	if ( currentLocation.indexOf ( "updatelist.asp" ) != -1 ){
 		document.stockList.action = "/symbol.asp"
 		document.stockList.submit()
 	}
-
-	// "editbclist.asp" is in the url Buycheck list.
 
 	if ( currentLocation.indexOf ( "editbclist.asp" ) != -1 ){
 		document.frmSaveBcLists.action = "/symbol.asp"
@@ -1234,10 +1414,7 @@ function goSymbolLookup(){
 	}
 }
 //-->
-</script>
-
-
-</td>
+</script></td>
 	</tr>
 		<!-- Right bar ends here -->
 </tbody></table>
@@ -1283,23 +1460,23 @@ OAS_AD('Middle3');
 <span class="copyright">© 2003&nbsp;Investor's&nbsp;Business&nbsp;Daily,&nbsp;Inc. All rights reserved. Investor's&nbsp;Business&nbsp;Daily is a registered trademark of Investor's&nbsp;Business&nbsp;Daily,&nbsp;Inc.</span><br>
 <img src="px.gif" height="2" width="2" alt=""><br>
 <font color="white"><a href="http://www.investors.com/privacy/default.asp" class="rev12">Privacy Statement</a> &nbsp;&nbsp;&nbsp; <a href="http://www.investors.com/terms/default.asp" class="rev12">Terms and Conditions of Use</a></font><br>
-<a href="http://ibdweb2"><img src="px.gif" height="20" width="20" alt="" border="0" align="left"></a><br>
+<a href="http://ibdweb4"><img src="px.gif" height="20" width="20" alt="" border="0" align="left"></a><br>
 
-<script language="JavaScript">
-<!--
+<script language="JavaScript"><!--
 OAS_AD('x01');
 //-->
 </script>
-<script language="JavaScript">
-<!--
+<script language="JavaScript"><!--
 OAS_AD('x02');
 //-->
 </script>
-<script language="JavaScript">
-<!--
+
+<script language="JavaScript"><!--
 OAS_AD('x03');
 //-->
-</script></td>
+</script>
+
+</td>
 				
 	
 	</tr>
