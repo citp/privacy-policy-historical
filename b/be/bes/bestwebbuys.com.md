@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwebbuys.com privacy policy that was archived on 2000-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001119121400id_/http%3A//www.bestwebbuys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwebbuys.com privacy policy that was archived on 2001-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010129021600id_/http%3A//www6.bestwebbuys.com/privacy.html) for the most accurate reproduction.*
 
 # Best Web Buys Privacy Policy
 
@@ -24,7 +24,7 @@ Our online surveys ask visitors for contact information (like their email addres
 
 We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Best Book Buys works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+This site uses the services of [Engage](http://www.engage.com/) for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 
 Some ads served on our site may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
