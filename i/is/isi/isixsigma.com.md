@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206065509id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603173453id_/http%3A//www.isixsigma.com/uagree/privacy.asp) for the most accurate reproduction.*
 
 # iSixSigma Privacy Policy
 
@@ -15,6 +15,10 @@
   
   [ **New To Six Sigma?**](http://www.isixsigma.com/library/content/six-sigma-newbie.asp)  
   [ **Six Sigma Q &A**](http://www.isixsigma.com/library/content/c010204a.asp)  
+  **Industry Channels**    
+  [ **Healthcare**](http://healthcare.isixsigma.com/)  
+  [ **Software / IT**](http://software.isixsigma.com/)  
+  [ **Next Channel | Vote!**](javascript: openwindowlink\(\))  
   **Quality Directory**    
   [ **Best Practices**](http://www.isixsigma.com/bp)  
   [ **Certifications/Awards**](http://www.isixsigma.com/ca)  
@@ -45,6 +49,9 @@
   
 iSixSigma takes your privacy seriously. We have created this page to clearly identify what iSixSigma will and won't do with the information that is collected on the site.
 
+iSixSigma will not publish, disclose, sell or rent user data or any  
+personal data collected from users without their explicit approval.
+
  **What this Privacy Policy Covers**  
 This Privacy Policy covers iSixSigma's treatment of personally identifiable information that iSixSigma collects when you are on the iSixSigma site, and when you use iSixSigma's services. This policy also covers iSixSigma's treatment of any personally identifiable information that iSixSigma's business partners share with iSixSigma. This policy does not apply to the practices of companies that iSixSigma does not own or control, or to people that iSixSigma does not employ or manage.
 
@@ -65,7 +72,7 @@ iSixSigma will not sell or rent your personally identifiable information to anyo
 
 
  **Cookies**  
-iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1).
+iSixSigma may set and access iSixSigma cookies on your computer. iSixSigma allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to iSixSigma's cookies. If you would like to learn more about cookies, please visit [Cookie Central](http://www.isixsigma.com/offsite.asp?A=Fr&Url=http://www.cookiecentral.com/content.phtml?area=2&id=1). If you would like to remove the iSixSigma cookies stored on your computer that identify your name and email address and make it easier for you to post to the discussion forum, [click here](https://web.archive.org/web/20030603173453id_/http%3A//www.isixsigma.com/newsletter/expire.asp).
 
  **Your Ability to Edit and Delete Your Account Information**  
 iSixSigma gives you the ability to edit your iSixSigma Account Information and preferences at any time. You may request deletion of your iSixSigma account by sending an email to [Account-Remove@iSixSigma.com](mailto:Account-Remove@iSixSigma.com).
@@ -81,4 +88,4 @@ If you have questions or suggestions complete a [feedback form](http://www.isixs
 
   
 [**"The Bottom Line" Links**](http://www.isixsigma.com/adsales/ad-opps.asp#bottomline)   
-|  Make Us Your Homepage!
+|  [Free Six Sigma Book!](https://web.archive.org/books/)
