@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201220338id_/http%3A//www.techtracker.com/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versiontracker.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204194740id_/http%3A//www.techtracker.com/privacy) for the most accurate reproduction.*
 
-# TechTracker.com
+# TechTracker - desktop management solutions and software download tools for Windows, Macintosh, and Palm OS.
 
-[Home](https://web.archive.org/) > [Legal](https://web.archive.org/legal) > Privacy Policy >
+[](https://www.truste.org/validate/13167)
 
-TechTracker: Privacy Statement
+TechTracker, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-This statement discloses the privacy practices for the TechTracker family of web sites (www.techtracker.com, www.versiontracker.com, and www.macfixit.com) hereafter referenced as TechTracker, or "us" or "we." 
+If users have questions or concerns regarding this statement, they should first contact TechTracker Support by emailing support@techtracker.com. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process <http://www.truste.org/users/users_watchdog_intro.html> TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+
+**This statement discloses the privacy practices for the TechTracker family of web sites (www.techtracker.com, www.versiontracker.com, and www.macfixit.com) hereafter referenced as TechTracker, or "us" or "we."**
 
 PLEASE REVIEW THIS POLICY CAREFULLY, AS WELL AS THE TERMS AND CONDITIONS POLICY BEFORE USING THIS WEBSITE. By using any TechTracker website, you agree to the terms of these policies. If you do not agree to such terms, you may not use and must exit this web site. 
 
-### Information we collect about you
-
 We strive to provide information and services that are tailored to our users' needs. To do this, we may ask that you provide personal information when you do any of the following: register for our site, enter a contest/sweepstakes, complete surveys, submit content, subscribe to newsletters, or request customer service. We only collect personally identifiable information that you submit voluntarily. If you choose not to register or provide personally identifiable information, you can still use the website, but will not be able to use the services that require such information. 
 
-### Why we collect information
+TechTracker collects personal information only with the express consent of the user when they sign up for membership to the TechTracker Network. This information is only used when communicating with users as per their indicated preferences and as needed for service-related communications 
 
-TechTracker collects personal information for purposes such as: 
-
-Membership allows users to have access to several site features, including: email functions, forum participation, and access to free TechTracker software. If you prefer that TechTracker or any approved third party not contact you, you may choose to be not contacted (see the "Opting Out" section below). 
+Membership allows users to have access to several site features, including: receiving requested emails, forum participation, the ability to post software reviews, and access to free TechTracker software. If you prefer that TechTracker or any approved third party not contact you, you may choose to be not contacted (see the "Opting Out" section below). 
 
 Surveys are entirely optional and are used only to gather data regarding our users in the aggregate form, for use in improving our service. 
 
@@ -28,36 +26,26 @@ In the event of an assignment, sale, joint venture, or other transfer or disposi
 
 TechTracker may disclose user information when we believe in good faith that the law requires it, or when disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to others or interfering with TechTracker's rights or property. 
 
-### Opting Out
+We partner with other third parties to provide specific services. For example, we use 24/7 Media to manage special offer emails.. When the user signs up for these particular services, we share names, type of email requested and email address as is necessary for the third party to provide these services. These third parties are not permitted to use personally identifiable information except for the purpose of providing these services for TechTracker. 
 
 TechTracker provides users with the ability to opt out or opt in for communications from any of the TechTracker websites. At any point in the future, a User may change their preferences and "opt out" or "opt in" to communications by updating their User information within the membership area of the TechTracker site. 
 
 Note: the "opt in" and "opt out" features will not affect e-mail required to notify users of changes in membership or this privacy policy, or in response to user inquiries. 
 
-### Discussion Forums
-
 TechTracker forums are public. Please consider this before posting. 
 
-### Use of Aggregate Information
-
 TechTracker may share aggregate information about our Users with advertisers, business partners, sponsors and other third parties. For example, we may say that 40% of our readers are graphic designers. We use this information to customize our content and advertising to deliver services that are well tailored to our Users' needs. 
-
-### Use of Cookies:
 
 TechTracker uses cookies to track user traffic patterns, for membership, and in conjunction with advertising. You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use most of the TechTracker site. However, you do need cookies to use any member's only function of the sites as well as areas where content is customizable. 
 
 While using our websites, you may receive cookies from our advertisers or sponsors. TechTracker does not control such cookies or use the associated data. 
 
-### Correcting and updating personal information
-
 You may edit any of your membership preferences, at any time, by logging in to the membership area of the site with your e-mail address and password. If you wish to deactivate your TechTracker membership, simply call our Customer Service department at 503.227.2571 and request for you account to be removed. 
 
-### Security of Information
-
-The security of our Users' personally identifiable information is of the highest priority. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or through our Services, and you do so at your own risk. 
+The security of our users' personally identifiable information is of the highest priority. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or through our Services, and you do so at your own risk. 
 
 Once we receive your transmission, we make our best effort to ensure its security on our systems. Whenever credit card information is transmitted, we use industry-standard, SSL (secure socket layer) encryption. Only those who have your username and password can access your account information. We strongly recommend that you do not share your password with anyone. We will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Please remember to sign out properly and close your browser window when you have finished your work. This helps ensure that others cannot access your personal information. 
 
-### Policy Modifications
-
 We may change this Privacy Policy from time to time. Be assured that even if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy without your prior consent. 
+
+Questions regarding this statement should be directed to [info@techtracker.com](mailto:info@techtracker.com). 
