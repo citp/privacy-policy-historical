@@ -1,6 +1,46 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606031407id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204134154id_/http%3A//indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
 
 # Privacy Policy : SF Bay Area Indymedia
+
+[](https://web.archive.org/calendar/) [](http://www.enemycombatantradio.net/) [](https://web.archive.org/news/2003/12/1665904.php)
+
+  
+**africa**
+
+  
+**canada**
+
+  
+**east asia**
+
+  
+**europe**
+
+  
+**latin america**
+
+  
+**oceania**
+
+  
+**south asia**
+
+  
+**united states**
+
+  
+**west asia**
+
+  
+**process**
+
+  
+**projects**
+
+  
+**topics**
+
+| 
 
 > ### Privacy Policy
 
