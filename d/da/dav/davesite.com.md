@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407171526id_/http%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206054907id_/http%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy - davesite.com
 
@@ -10,7 +10,8 @@ We do not sell, share, or rent personal information about our users obtained fro
 
 ## Cookies
 
-Davesite.com does not use cookies to track users' usage of our site, although our advertisers may from time to time. While we do not believe these cookies are used to track personal information such as users' names, addresses, and phone numbers, we do not have control or access to this information. We encourage users to read the privacy policies of our advertisers (linked below.)
+added 10/05/2002:  
+Davesite.com uses cookies in an attempt to limit the amount of some types of advertising received by visitors to the site. Our advertisers may also use cookies from time to time. While we do not believe third-party cookies are used to track personal information such as users' names, addresses, and phone numbers, we do not have control or access to this information. We encourage users to read the privacy policies of our advertisers (linked below.)
 
   * [Burst!Media Privacy Policy](http://www.burstmedia.com/release/privacy.asp)
 
@@ -26,7 +27,6 @@ Davesite.com maintains usage log files which may collect IP addresses from users
 ## Surveys
 
 From time to time users may see surveys available on our site. These help our advertisers determine the type of people that visit our site. Data submitted through these surveys is aggregated with data of other respondents and stripped of all personal infomation. Although we encourage users to take part in these surveys they are not required to do so.   
-added 8/11/2000:  
 
 
 ## Third-Party Contests and Subscriptions
@@ -43,7 +43,7 @@ On some pages in our site there is a box that allows our servers to e-mail users
 
 ## Changes in Policy
 
-Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000 / July 28, 2001. 
+Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000 / July 28, 2001 / October 5, 2002. 
 
 ## Contact
 
