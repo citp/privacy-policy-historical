@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Adventure Gamers
+# Privacy Policy | Adventure Gamers
 
 | 
 
@@ -9,29 +9,26 @@
 
 |   | **sections**  
 ---|---  
-| **[News](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/newsarchives.php)**  
-| **[Reviews](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/reviews.php)**  
-| **[Previews](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/previews.php)**  
-| **[Features](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/features.php)**  
-| **[Interviews](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/interviews.php)**  
-| **[Community Forums](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/forums/)**  
-| **[Links](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/links.php)**  
+| **[News](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/newsarchives.php)**  
+| **[Reviews](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/reviews.php)**  
+| **[Previews](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/previews.php)**  
+| **[Features](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/features.php)**  
+| **[Interviews](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/interviews.php)**  
+| **[Underground](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/underground/index.php)**  
+| **[Community Forums](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/forums/index.php)**  
+| **[Links](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/links.php)**  
+| **[About Us](https://web.archive.org/web/20030402021513id_/http%3A//www.adventuregamers.com/about/index.php)**  
   
-  | **about**  
+  | **game search**  
 ---|---  
-| **[About Us](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/about/aboutus.php)**  
-| **[Staff](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/about/staff.php)**  
-| **[Editorial Policies](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/about/editorial.php)**  
-| **[Advertising](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/about/advertising.php)**  
-| **[Link To Us](https://web.archive.org/web/20021210072018id_/http%3A//www.adventuregamers.com/about/link2us.php)**  
+|   
   
 | 
 
   
 
 
-  
-
+* * *
 
 Adventure Gamers respects your privacy. Here's exactly what information Adventure Gamers gathers, and what is done with it:
 
