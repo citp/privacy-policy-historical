@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drspock.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806191840id_/http%3A//www.drspock.com/about/privacy/0%2C1787%2C0%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drspock.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606050906id_/http%3A//www.drspock.com/about/privacy/0%2C1787%2C0%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/toolsforyou/0,1496,,00.html?r=tpromo)[](https://web.archive.org/parentsense/0,2059,PSNET,00.html?r=tpromo)  
+[](https://web.archive.org/?r=tpromo)[](https://web.archive.org/faq/home/0,1515,,00.html?r=tpromo)[](https://web.archive.org/toolsforyou/0,1496,,00.html?r=tpromo)  
   
   
   
@@ -56,7 +56,7 @@ To ask a question of our experts or post information on our site on message boar
 It is important to remember that the questions or messages you submit to The Dr. Spock Company will be available to the public. For that reason, you should consider selecting a nickname for your user name that does not reveal information about you that you might not want others to know.
 
  **Control of Your Password**  
-You can create your own password. You should keep your password confidential and not share it with anyone else. If you lose your password, or are concerned that others have gained access to it, you can change it by contacting us at [help@drSpock.com](mailto:help@drSpock.com).
+You can create your own password. You should keep your password confidential and not share it with anyone else.
 
  **Surveys & Contests**  
 From time-to-time The Dr. Spock Company will offer surveys and contests. We will request information from you if you choose to participate. You do not have to provide any information unless you want to take part. We will use survey information to monitor and improve your experience on our site. We will use your contact information to notify you of information that might be of interest to you based on your survey responses, or if you have won a prize in one of our contests.
@@ -84,8 +84,6 @@ We may disclose any information about you to law enforcement, other government o
  **How We Keep Your Information Secure**  
 The Dr. Spock Company protects our users' information both online and off-line. All of our users' information, not just the personally identifiable information mentioned above, is restricted in our office. Only employees, suppliers and independent contractors who need the information to perform a specific job are granted access to personally identifiable information. Our employees, suppliers and independent contractors must use password-protected access to the system containing your personally identifiable information. Furthermore, all employees, suppliers and independent contractors are kept up-to-date on our security and privacy practices. Every three months, as well as any time new policies are added, our employees, suppliers and independent contractors are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers we use to store personally identifiable information are maintained in a secure environment.
 
-If you have any questions about the security at our website, you can send an email to [policy@drSpock.com](mailto:policy@drSpock.com).
-
  **How You Can Update The Information You Give Us**  
 If you want to change your personally identifiable information (such as your street address), you can do so on the "My Account" page.
 
@@ -95,12 +93,7 @@ If The Dr. Spock Company makes material changes to our privacy policy, we will p
  **Links to Other Web Sites**  
 This web site contains links to other sites. Please be aware that The Dr. Spock Company is not responsible for the privacy practices of such other sites.
 
- **How To Contact Us**  
-If you have questions about privacy at The Dr. Spock Company, you can contact us at [policy@drSpock.com](mailto:policy@drSpock.com). 
-
 | |   
-  
-[](http://www.johnsonsbaby.com/readiness.asp)  
 
 
   
