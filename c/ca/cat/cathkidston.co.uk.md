@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cathkidston.co.uk privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603191748id_/http%3A//www.cathkidston.co.uk/ppolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathkidston.co.uk privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605164033id_/http%3A//www.cathkidston.co.uk/ppolicy.phtml) for the most accurate reproduction.*
 
 # 
 
