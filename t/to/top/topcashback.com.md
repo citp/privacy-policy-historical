@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2003-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030509062416id_/http%3A//www.topcashback.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2003-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031113204741id_/http%3A//www.topcashback.com/info/privacy.asp) for the most accurate reproduction.*
 
 # topcashback.com - Online shopping stores rewards .
 
