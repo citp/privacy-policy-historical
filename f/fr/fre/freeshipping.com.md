@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407094411id_/http%3A//freeshipping.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2003-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031215102546id_/http%3A//freeshipping.com/policy.asp) for the most accurate reproduction.*
 
 # Free Shipping Merchant Directory - Terms and Conditions
 
@@ -16,6 +16,9 @@ In order to use this Web site, a user must first complete the registration form.
 **Order**  
 We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial and security information (such as credit card number, expiration date, mother's maiden name). This information is used for billing purposes, to verify customer membership and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
 
+**Claims**  
+Members may provide additional information to freeshipping.com when claiming certain rebates and offers provided through this site. Such information may include the retailer where a purchase was made, the price paid, verification of the purchase transaction, specific information on the product purchased and where a lower price was viewed. In some cases, additional documentation is requested from the member, and sent to freeshipping.com either electronically, or via postal mail. 
+
 **Information Use**
 
 We use Personal Information to fulfill orders and to contact a member when necessary, such as when a delivery may be delayed or when membership terms have changed. We may also use this information to notify consumers about new products or services and special promotions offered by freeshipping.com or any of its affiliates. From time to time, we may also share your Personal Information with trustworthy unaffiliated third parties, who offer products or services that we feel may be of interest to you. We will never share your credit card information with an unaffiliated third party without your consent.
@@ -31,8 +34,7 @@ We may use Aggregate Information to improve and enhance your experience on the f
 By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site.   
 Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the "Profile" section.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
-
+Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.  
   
 **Log Files  
 **Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
@@ -43,6 +45,9 @@ Some of our business partners use cookies on our site (for example, advertisers)
 Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the Web site (or advertising company) would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company. 
 
 In addition, we use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section. 
+
+**Claim Documentation  
+**In the event that additional information is requested from a member to support a claim made under a specific benefit provided by freeshipping.com, we will use this information to validate the nature of the claim. This may include contacting the retailer where a purchase was made to verify that an item was purchased, the amount paid, if a rebate was utilized, or if an item has been returned. 
 
 **Communications from the Site**
 
