@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204230754id_/http%3A//www.demon-tweeks.co.uk/content/default.asp%3Fcategory_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309002610id_/http%3A//www.demon-tweeks.co.uk/content/default.asp%3Fcategory_id%3D37) for the most accurate reproduction.*
 
 # Professional Motorsport equipment from Demon Tweeks
 
