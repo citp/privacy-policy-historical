@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203065126id_/http%3A//www.unisa.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604023217id_/http%3A//www.unisa.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -20,12 +20,12 @@ The University of South Australia makes a record of your visit to our website an
 
 ## Personal or financial information 
 
-A technically secure environment is in place when personal or financial information is collected to ensure that it cannot be accessed by other users or organisations. There are currently two e-commerce facilities within our website: [Webpay](http://www.unisa.edu.au/internat/fees/webpay.asp), our secure online fee payment facility for international students, and [U-shop](http://shop.alumni.net.au/perl/vsf) for online purchasing of corporate merchandise.
+A technically secure environment is in place when personal or financial information is collected to ensure that it cannot be accessed by other users or organisations. There is currently one e-commerce facility within our website: [Webpay](http://www.unisa.edu.au/internat/fees/webpay.asp), our secure online fee payment facility for international students.
 
-The network which hosts these facilities has sophisticated security and publishing systems in place and transactions involving payment authorisation are conducted within the secure online environments of UniSA authorised banks and financial institutions to provide a greater level of security.
+The network which hosts this facility has sophisticated security and publishing systems in place and transactions involving payment authorisation are conducted within the secure online environments of UniSA authorised banks and financial institutions to provide a greater level of security.
 
 ## Internal users of the UniSA computer environment
 
-The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy [relating to privacy on the University's IT network](http://www-i.unisa.edu.au/itac/pppg/security.htm). formalises this commitment.
+The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy [relating to privacy on the University's IT network](http://www.unisa.edu.au/ists/Governance/Policies/pppg/protocols.asp). formalises this commitment.
 
 top^
