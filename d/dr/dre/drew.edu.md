@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drew.edu privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207165427id_/http%3A//www.drew.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drew.edu privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001220624id_/http%3A//www.drew.edu/privacy) for the most accurate reproduction.*
 
-# Page Name -- Drew University
+# Privacy Statement -- Drew University
 
 |    
 **Drew Links  
