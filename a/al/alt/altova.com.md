@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altova.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004124517id_/http%3A//www2.altova.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altova.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401100422id_/http%3A//www.altova.com/privacy.html) for the most accurate reproduction.*
 
 # privacy: Privacy Policy
 
@@ -17,7 +17,7 @@ We will ask you when we need information that personally identifies you (“pers
 
 When you download and install a product, we may ask you to register the software electronically to receive an evaluation license. When you do, we keep this registration information on file with any other personal information you may already have given us. This is your personal profile.
 
- **C. HOW WE USE YOUR PERSONAL INFORMATION**
+ **C. HOW WE USE YOUR PERSONAL INFORMATION:**
 
 We use your personal information for four primary purposes:
 
