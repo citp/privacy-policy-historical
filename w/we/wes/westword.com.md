@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210151535id_/http%3A//www.westword.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605195437id_/http%3A//www.westword.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Westword | westword.com | About The Alternative Denver connection for events, event listings, music reviews, CD reviews, and all of the latest alternative news from the Denver area.
+# Westword | westword.com | About |
 
 ****
 
