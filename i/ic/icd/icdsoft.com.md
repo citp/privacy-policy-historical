@@ -1,25 +1,45 @@
-> *The following text is extracted and transformed from the icdsoft.com privacy policy that was archived on 2004-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040206044328id_/http%3A//www.icdsoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icdsoft.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204010728id_/http%3A//www.icdsoft.com/privacy.php) for the most accurate reproduction.*
 
 # ICDSoft.com - Privacy
 
 |   
 ---  
-WE RESPECT AND ARE COMMITTED TO PROTECTING YOUR PRIVACY. THAT IS WHY WE HAVE ADOPTED THIS PRIVACY POLICY. THIS PRIVACY POLICY LETS YOU KNOW HOW YOUR PERSONAL INFORMATION IS PROCESSED AND USED. WE PROMISE THAT WE WILL TAKE STEPS TO USE YOUR PERSONAL INFORMATION ONLY IN WAYS THAT ARE COMPATIBLE WITH THIS PRIVACY POLICY. THE FOLLOWING DISCLOSES OUR PRIVACY POLICY.  
+ICDSOFT RESPECTS THE RIGHT TO PRIVACY OF CUSTOMERS AND VISITORS OF THIS SITE AND IS COMMITTED TO PROTECTING IT. THIS PRIVACY POLICY EXPLAINS HOW YOUR PERSONAL INFORMATION IS PROCESSED AND USED. YOUR PERSONAL INFORMATION WILL ONLY BE USED IN WAYS DESCRIBED IN THIS PRIVACY POLICY.   
   
-  * Every computer connected to the Internet is given a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the ICDSoft.com Network, our Web servers automatically recognize that visitor's IP address. The IP address reveals nothing personal about you. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors. 
+  * Every computer connected to the Internet is assigned a set of numbers that serve as that computer's IP (Internet Protocol) address. When a visitor requests a page from any website within the ICDSoft.com Network, our web servers automatically recognize that visitor's IP address. The IP address does not reveal any personal information. We use the IP logs to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our web servers do not record e-mail addresses of visitors. 
 
   
   
-  * From time to time, our site may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of our site you have visited or customized, so the next time you visit, those pages may be readily accessible. We may use this information to better personalize the content that you see here. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
+  * A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. We may send session ID cookies as well as persistent cookies. Session ID cookies terminate and are erased once you close your browser or log out, while persistent cookies are stored on your hard drive for longer periods. Cookies cannot damage your system. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other websites may be diminished and some features may not work as intended. 
 
   
   
-  * We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services. Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy, that means that we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent.
-  * In addition, ICDSoft will not send you email that you have not agreed to receive. We may from time to time send e-mail announcing new ICDSoft.com products and services. If you choose to supply your postal address in an online form, you may receive mailings from other reputable, third-party companies. 
-  * If you choose to purchase something online, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related product and services, but will not be shared or sold to third parties for any purpose. 
-  * When you enter a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
-  * Wherever ICDSoft.com collects personal information we make an effort to include a link to this Privacy Policy on that page.
+  * The personal information that we request and collect through online forms for ordering services and products may include the following: 
 
+     Your name
+     Your e-mail address
+     Postal address
+     Phone and fax numbers
+     Domain name
+  
+
+
+This type of information allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you about renewal, service maintenance or upgrades, but will not be shared or sold to third parties for any purpose. We maintain a strict privacy policy, which means that we do not intend to sell, rent, or otherwise give your e-mail address to third parties. 
+  * ICDSoft.com does not request or collect credit card information. We use third party billing agents to process payments made for services or products offered by us. 
+  * ICDSoft.com will always make an effort to include a link to this Privacy Policy on every page that includes a web form for collecting personal information from you. 
+
+  
+  
+  * The Internet Corporation for Assigned Names and Numbers ("ICANN", the organization that assumes responsibility for domain name allocation) requires us to collect the following personal information during the domain name registration process: 
+
+     Your full name
+     Mailing address
+     Phone and fax number
+     E-mail address
+  
+
+
+ICANN then requires all registrars to make the above mentioned information, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, available to the public via an interactive web page and a "port 43" WHOIS service. This information can be referred to as your "WHOIS Information". Please note we may not be able to control how members of the public may use the WHOIS Information. 
   
   
   * ICDSoft will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
@@ -27,14 +47,17 @@ WE RESPECT AND ARE COMMITTED TO PROTECTING YOUR PRIVACY. THAT IS WHY WE HAVE ADO
      Conform to the edicts of the law or comply with a legal process served on ICDSoft's site.
      Protect and defend the rights or property of our site, or its visitors.
      Identify persons who may be violating the law, the legal notice, or the rights of third parties.
-     Cooperate with the investigations of purported unlawful activities.  
-  
-  * Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-  * Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+     Cooperate with the investigations of purported unlawful activities.
+
 
   
   
-  * By using our Web site, you consent to the collection and use of information by ICDSoft.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+  * Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+  * Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
+
+  
+  
+  * By using our website, you consent to the collection and use of information by ICDSoft.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
   
  
