@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203180718id_/http%3A//www.verticalresponse.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603095951id_/http%3A//www.verticalresponse.com/about/privacy.html) for the most accurate reproduction.*
 
 # VerticalResponse, Inc.
-
-  
-
 
 This privacy statement discloses the privacy practices for [www.verticalresponse.com](http://www.verticalresponse.com/).
 
@@ -66,4 +63,20 @@ Notification of Changes
 If we decide to change our privacy policy, we will prominently post those changes on our Homepage (located at [http://www.verticalresponse.com](http://www.verticalresponse.com/)) so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 Legal Disclaimer  
-Though we make every effort to preserve your privacy we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.
+Though we make every effort to preserve your privacy we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site. 
+
+| 
+
+**i Builder®** _Postcard_
+
+[](https://web.archive.org/product/postcard/index.html)Now you can build and send your own postcard marketing campaigns with the click of a mouse!
+
+[Learn more](https://web.archive.org/product/postcard/index.html)
+
+_Tour_ **i Builder®**
+
+[](https://web.archive.org/product/tour/index.html)Find out just how easy it is to create, send, and manage your email and postcard marketing campaigns. 
+
+[Start the tour](https://web.archive.org/product/tour/index.html)
+
+[](https://web.archive.org/resources/newsletter.html)
