@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601185559id_/http%3A//www.experience.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2003-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030809235135id_/http%3A//experience.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Experience eRecruiting Network™
+|    
+|  | 
 
-**Privacy Policy** Experience, Inc. ("Experience") is committed to maintaining the privacy of personal information of users ("you" or "User") of the Experience eRecruiting Network (the "Experience eRecruiting Network" or the "Site"). Since we collect certain types of information about our Users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we collect, how we use it and how to correct and change it. 
+Privacy Policy
+
+Experience, Inc. ("Experience") is committed to maintaining the privacy of personal information of users ("you" or "User") of the Experience eRecruiting Network (the "Experience eRecruiting Network" or the "Site"). Since we collect certain types of information about our Users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we collect, how we use it and how to correct and change it. 
 
 College and university career centers use the Experience eRecruiting Network to manage student data and automate and web-enable their on-campus recruiting programs and other career center functions. In that connection, career center staff and administrators from your school may have the ability to access and use some or all of your personal information on the Site, including, without limitation, the ability to send you e-mails using communication tools on the Site and, in certain instances, to publish your resume in the school's resume book on the Site and to apply for jobs on your behalf. Your school's career center and the activities and practices of its staff and administrators are not subject to this Privacy Policy, and we are not responsible for what they do with personal information about you which is available or accessible to them on or through the Site. If you have questions regarding the practices and policies of your school's career center with respect to your personal information, we recommend that you contact them directly. 
 
@@ -77,4 +80,6 @@ One Faneuil Hall Marketplace, 3rd fl.
 Boston, MA 02109  
 Phone: 800-583-7741  
 Fax: 617-305-7901  
-Attn: Client Services 
+Attn: Client Services   
+  
+---|---|---
