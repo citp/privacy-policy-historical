@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcommerce.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201174800id_/http%3A//www.digitalcommerce.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcommerce.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408062157id_/http%3A//digitalcommerce.com/privacy.htm) for the most accurate reproduction.*
 
 # Digital Commerce Corporation
 
@@ -23,7 +23,7 @@ _Digital Commerce Corporation_ wants to make your Internet experience satisfying
 
 When you come to the _Digital Commerce Corporation_ site, you complete a simple registration form that includes certain personal and financial information about you or your organization including your name, email address, phone number, and certain other business information. Some of the information you supply on the registration form is optional and is clearly marked as such. None of the information you furnish to Digital Commerce Corporation will be shared or sold to any person or organization except as authorized by you, or as may be required by law or court order. 
 
-All transactions take place on _Digital Commerce Corporation's_ servers; please see our[ **__Security Policy__**](https://web.archive.org/web/20001201174800id_/http%3A//www.digitalcommerce.com/security.htm) **** page for more information on how we protect the integrity of your data. 
+All transactions take place on _Digital Commerce Corporation's_ servers; please see our[ **__Security Policy__**](https://web.archive.org/web/20010408062157id_/http%3A//digitalcommerce.com/security.htm) **** page for more information on how we protect the integrity of your data. 
 
 **Who we are**
 
@@ -45,7 +45,7 @@ _Digital Commerce Corporation_ may also share certain aggregated data with third
 
 **Security**
 
-_Digital Commerce Corporation_ has security measures in place to protect against the loss, misuse and alteration of the information under our control. Please visit our **__[Security Policy](https://web.archive.org/web/20001201174800id_/http%3A//www.digitalcommerce.com/security.htm)__** page for a detailed explanation. 
+_Digital Commerce Corporation_ has security measures in place to protect against the loss, misuse and alteration of the information under our control. Please visit our **__[Security Policy](https://web.archive.org/web/20010408062157id_/http%3A//digitalcommerce.com/security.htm)__** page for a detailed explanation. 
 
 **Changing/deleting your information**
 
