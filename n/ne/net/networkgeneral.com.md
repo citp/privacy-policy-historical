@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the networkgeneral.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208171556id_/http%3A//nai.com/us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkgeneral.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603034326id_/http%3A//www.nai.com/us/privacy.htm) for the most accurate reproduction.*
 
-# Network Associates Inc. - Privacy Policy Statement
+# Network Associates Inc.- Privacy Policy Statement
 
 ## Privacy Policy Statement
 
