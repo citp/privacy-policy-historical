@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604023517id_/http%3A//www.wtrf.com/unclassified/335991.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204130434id_/http%3A//www.wtrf.com/unclassified/335991.html) for the most accurate reproduction.*
 
 # WTRF - PRIVACY POLICY
 
