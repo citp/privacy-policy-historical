@@ -1,10 +1,45 @@
-<!--The following is the downloaded HTML source of the xxxx.com.au privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208165600id_/http%3A//www.xxxx.com.au/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xxxx.com.au privacy policy that was archived on 2003-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622023017id_/http%3A//www.xxxx.com.au/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>XXXX</title>
 	<link href="http://www.xxxx.com.au/Library/CSS/xxxx.css" rel="stylesheet" type="text/css">
+	<link rel="SHORTCUT ICON" href="http://www.xxxx.com.au/favicon.ico">
 <script language="JavaScript">
+
+// created by Geoff Pack
+// geoff@spike.com.au
+//
+// modified for Netscape 6:  june 2000
+
+function show() {
+    // shows multiple layers
+    // does not work in NS4 with nested layers
+    var args = show.arguments;
+    for (var i=0; i<(args.length); i++) {
+		if (document.getElementById) { 		// IE5, NS6
+			if (document.getElementById(args[i])) document.getElementById(args[i]).style.visibility = 'visible';
+		} else if (document.all) { 			// IE4
+            if (document.all[args[i]]) document.all[args[i]].style.visibility = 'visible';
+        } else if (document.layers) {		// NS4
+            if (document.layers[args[i]]) document.layers[args[i]].visibility = 'visible';
+        }
+    }
+}
+function hide() {
+    // hides multiple layers
+    // does not work in NS4 with nested layers
+    var args = hide.arguments;
+    for (var i=0; i<(args.length); i++) {
+		if (document.getElementById) { 		// IE5, NS6
+			if (document.getElementById(args[i])) document.getElementById(args[i]).style.visibility = 'hidden';
+		} else if (document.all) { 			// IE4
+            if (document.all[args[i]]) document.all[args[i]].style.visibility = 'hidden';
+        } else if (document.layers) {		// NS4
+            if (document.layers[args[i]]) document.layers[args[i]].visibility = 'hidden';
+        }
+    }
+}
 //Validation for Mailing List Form Submit
 function mailingList_validate()
 {
@@ -197,6 +232,12 @@ function RegisterFormSubmit()
 		return false;
 	}	
 	
+	if (frmRegister.phone.value == '')
+	{
+		alert("Please enter a phone number so we can contact you if you win a prize");
+		frmRegister.phone.focus();
+		return false;
+	}
 	
 	if (frmRegister.birthDay.value == '-1' || frmRegister.birthMonth.value == '-1' || frmRegister.birthYear.value == '-1')
 	{
@@ -596,6 +637,79 @@ function ReferralentryformCheck()
 	}
 	return true;
 }
+
+function Tipping_formSubmit(){
+
+	if (document.frminput.Team.options[document.frminput.Team.selectedIndex].value == '-1'){
+		alert("Please select your favourite team");
+		document.frminput.Team.focus();
+		return false;
+	}
+	
+	var reminder;
+	if (document.frminput.reminder.checked == true)
+		reminder = 1
+	else
+		reminder = 0;
+	
+	ozWin = window.open('','','width=540,height=390,toolbar=no,scrollbars=yes,resizable=no,menubar=no,status=no,directories=no,location=no');
+	ozWin.document.writeln('<html><body>');
+	ozWin.document.writeln('<form name=frmoztips action="http://www.oztips.com/lionnathan/lncustomlogin.asp" method="post" target="_self">');
+	ozWin.document.writeln('<input type="hidden" name="FirstName" value="'+document.frminput.FirstName.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="LastName" value="'+document.frminput.LastName.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="Email" value="'+document.frminput.Email.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="CompID" value="'+document.frminput.CompID.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="ClientID" value="'+document.frminput.ClientID.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="UserID" value="'+document.frminput.UserID.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="Team" value="'+document.frminput.Team.options[document.frminput.Team.selectedIndex].value+'">');
+	ozWin.document.writeln('<input type="hidden" name="reminder" value="'+reminder+'">');
+	ozWin.document.writeln('</form>');
+	ozWin.document.writeln('<SCR' + 'IPT LANGUAGE=JavaScript>');
+	ozWin.document.writeln('document.frmoztips.submit();');
+	ozWin.document.writeln('<\/SCR' + 'IPT>');
+	ozWin.document.writeln('</body></html>');
+
+	return true;
+}
+
+function LaunchOzTips(){
+	if (!ozWin || !ozWin.open || ozWin.closed)
+		ozWin = window.open('','','width=540,height=390,toolbar=no,scrollbars=yes,resizable=no,menubar=no,status=no,directories=no,location=no')
+	else{
+		ozWin.close();
+		ozWin = window.open('','','width=540,height=390,toolbar=no,scrollbars=yes,resizable=no,menubar=no,status=no,directories=no,location=no')
+	}
+	ozWin.document.writeln('<html><body>');
+	ozWin.document.writeln('<form name="frmoztips" action="http://www.oztips.com/lionnathan/lncustomlogin.asp" method="post" target="_self">');
+	ozWin.document.writeln('<input type="hidden" name="FirstName" value="'+document.frminput.FirstName.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="LastName" value="'+document.frminput.LastName.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="Email" value="'+document.frminput.Email.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="CompID" value="'+document.frminput.CompID.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="ClientID" value="'+document.frminput.ClientID.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="UserID" value="'+document.frminput.UserID.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="Team" value="'+document.frminput.Team.value+'">');
+	ozWin.document.writeln('<input type="hidden" name="reminder" value="">');
+	ozWin.document.writeln('</form>');
+	ozWin.document.writeln('<SCR' + 'IPT LANGUAGE="JavaScript1.2">');
+	ozWin.document.writeln('document.frmoztips.submit();');
+	ozWin.document.writeln('<\/SCR' + 'IPT>');
+	ozWin.document.writeln('</body></html>');
+}
+		<!-- hide this stuff from other browsers 
+		// function that turns on Rugby League Sub Nav
+		var section = location.hash.substring(1,location.hash.length);
+		var ozWin;	
+		function showSubnav(n) {
+			hide("a1","b1", "SOO"); 
+			if (n) section=n;
+			switch (section) {
+				case 'SOO' 			: show("SOO"); break;
+				case 'league' 		: show("a1"); break;
+				case 'rugby' 		: show("b1"); break;			
+				case 'Waxoff' 		: break;
+				}
+		}
+		// end hiding javascript -->
 		<!--//
 		function changeImagesNow() {
 			if (document.images) {
@@ -816,58 +930,58 @@ function ReferralentryformCheck()
 		function downloadWallpaper(sfile){
 			var newWin = window.open('http://www.xxxx.com.au/' + 'BitterBabes/download.asp?file=' + sfile,'','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=800,height=600'); 
 		}
+		
+		
 	//-->
 </script>
 </head>
-<body bgcolor="#1C2B46" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="white" vlink="white" alink="white" height="100%">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<body bgcolor="#000033" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="white" vlink="white" alink="white" height="100%">
+<table background="/images/head_bg.gif" width="100%" cellpadding="0" cellspacing="0" border="0">
  <tbody><tr>
-	 <td valign="top" width="100%">
-	 	<table valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" background="/images/head_bg.gif">
-			<tbody><tr>
-				<td valign="top" width="100%"><img src="/images/header.jpg" border="0"></td>
-			</tr>
-		</tbody></table>
-	</td>
- </tr>
- <tr>
- 	<td valign="top" width="100%">
-		<table valign="top" background="/images/nav_bg.gif" width="100%" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td valign="top" align="left">
-					<table valign="top" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td valign="top" align="left"><img src="/images/nav_lft_bitter.gif" border="0"></td>
-							<td valign="top" align="left"><a href="/home.asp?page=1" onmouseover="document.home.src='/images/navbtn_home_over.gif'" onmouseout="document.home.src='/images/navbtn_home_up.gif'"><img name="home" src="/images/navbtn_home_up.gif" border="0"></a></td>
-							<td valign="top" align="left">&nbsp;</td>
-							<td valign="top" align="left"><a href="/PartyLocator/default.asp?page=9" onmouseover="document.ssession.src='/images/navbtn_ssession_over.gif'" onmouseout="document.ssession.src='/images/navbtn_ssession_up.gif'"><img name="ssession" src="/images/navbtn_ssession_up.gif" border="0"></a></td>
-							<td valign="top" align="left"><a href="/BreweryGame/default.asp?page=3" onmouseover="document.comp.src='/images/navbtn_comp_over.gif'" onmouseout="document.comp.src='/images/navbtn_comp_up.gif'"><img name="comp" src="/images/navbtn_comp_up.gif" border="0"></a></td>
-							<td valign="top" align="left"><a href="/Music/default.asp?page=16" onmouseover="document.mp3.src='/images/navbtn_mp3_over.gif'" onmouseout="document.mp3.src='/images/navbtn_mp3_up.gif'"><img name="mp3" src="/images/navbtn_mp3_up.gif" border="0"></a></td>
-							<td valign="top" align="left"><a href="/ContactUs/default.asp?page=5" onmouseover="document.contactus.src='/images/navbtn_contact_over.gif'" onmouseout="document.contactus.src='/images/navbtn_contact_up.gif'"><img name="contactus" src="/images/navbtn_contact_up.gif" border="0"></a></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-	</td>
- </tr>
- <tr>
- 	<td valign="top" width="100%">
-		<table valign="top" border="0" cellpadding="0" cellspacing="0" width="100%" background="/images/nav_btm_bg.gif">
-			<tbody><tr>
-				<td valign="top" width="100%">&nbsp;</td>
-			</tr>
-		</tbody></table>
-	</td>
- </tr>
+		<td valign="top" align="left">
+			<table width="760" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td><img src="/images/header.jpg" alt="" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" align="left">
+			<table height="21" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td><img src="/images/menu_lft.gif" alt="" border="0"></td>
+					<td valign="top" align="left"><a href="http://www.xxxx.com.au/home.asp" onmouseover="document.home.src='/images/genBtn_home_over.gif'; showSubnav('Waxoff')" onmouseout="document.home.src='/images/genBtn_home_up.gif'"><img name="home" src="/images/genBtn_home_up.gif" border="0" alt="HOME"></a></td>					
+					<!--<td valign="top" align="left"><a href="http://www.xxxx.com.au/XXXXGold/home.asp" onMouseOver="document.gold.src='/images/xxxx_gold_f2.gif'; showSubnav('Waxoff')" onMouseOut="document.gold.src='/images/xxxx_gold.gif'"><img name="gold" src="/images/xxxx_gold.gif" border="0" alt="XXXX GOLD"></a></td>//-->
+					<!--<td valign="top" align="left"><a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=6" onMouseOver="document.rugby.src='/images/genBtn_rugby_over.gif'; showSubnav('rugby')" onMouseOut="document.rugby.src='/images/genBtn_rugby_up.gif'"><img name="rugby" src="/images/genBtn_rugby_up.gif" border="0" alt="RUGBY"></a></td>//-->
+					<td valign="top" align="left"><a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=7" onmouseover="document.league.src='/images/genBtn_league_over.gif'; showSubnav('league')" onmouseout="document.league.src='/images/genBtn_league_up.gif'"><img name="league" src="/images/genBtn_league_up.gif" border="0" alt="LEAGUE"></a></td>
+					<td valign="top" align="left"><a href="http://www.xxxx.com.au/SOO/default.asp" onmouseover="document.SOOhome.src='/images/genBtn_soo_over.gif'; showSubnav('SOO')" onmouseout="document.SOOhome.src='/images/genBtn_soo_up.gif'"><img name="SOOhome" src="/images/genBtn_soo_up.gif" border="0" alt="State of Origin HOME"></a></td>
+					<!--<td valign="top" align="left"><a href="http://www.xxxx.com.au/XXXXBitter/home.asp" onMouseOver="document.bitter.src='/images/genBtn_xbitter_over.gif'; showSubnav('Waxoff')" onMouseOut="document.bitter.src='/images/genBtn_xbitter_up.gif'"><img name="bitter" src="/images/genBtn_xbitter_up.gif" border="0" alt="XXXX BITTER"></a></td>//-->
+					<td valign="top" align="left"><a href="http://www.xxxx.com.au/Alehouse/" onmouseover="document.alehouse.src='/images/genBtn_alehouse_over.gif'; showSubnav('Waxoff')" onmouseout="document.alehouse.src='/images/genBtn_alehouse_up.gif'"><img name="alehouse" src="/images/genBtn_alehouse_up.gif" border="0" alt="XXXX ALEHOUSE"></a></td>
+					<td valign="top" align="left"><a href="http://www.xxxx.com.au/profile.asp" onmouseover="document.myprofile.src='/images/genBtn_myprofile_over.gif'; showSubnav('Waxoff')" onmouseout="document.myprofile.src='/images/genBtn_myprofile_up.gif'"><img name="myprofile" src="/images/genBtn_myprofile_up.gif" border="0" alt="MY PROFILE"></a></td>
+					<td valign="top" align="left"><a href="http://www.xxxx.com.au/ContactUs/" onmouseover="document.contactus.src='/images/genBtn_contact_over.gif'; showSubnav('Waxoff')" onmouseout="document.contactus.src='/images/genBtn_contact_up.gif'"><img name="contactus" src="/images/genBtn_contact_up.gif" border="0" alt="CONTACT US"></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" align="left">
+			<table width="760" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td width="203" height="6"><img src="/images/head_btmlft.gif" alt="" border="0"></td>
+					<td width="557" height="6"><img src="/images/head_btm.gif" alt="" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
   <tr height="100%"> 
-     <td width="100%" valign="top">
+     <td width="100%" valign="top" background="/images/spacer.gif">
 	 	<table border="0" cellspacing="0" cellpadding="0" width="100%">
 			<tbody><tr>
 				<td width="100%" bgcolor="#ffcc00">
 			         <table valign="top" width="100%" border="0" cellspacing="0" cellpadding="0">
 			           <tbody><tr> 
-			             <td align="left" valign="top"><table border="0" cellpadding="2" cellspacing="0" width="760"><tbody><tr><td><blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
+			             <td align="left" valign="top"><table border="0" cellpadding="2" cellspacing="0" width="760" bgcolor="#ffcc00"><tbody><tr><td><blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
 <h1 style="MARGIN: 0cm 0cm 0pt"><font face="Verdana" size="2">XXXX PRIVACY POLICY</font></h1>
 <p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: Verdana; mso-bidi-font-family: 'Times New Roman'"><font face="Verdana"><font size="2">The purpose of this document is to tell you how Castlemaine Perkins Pty Limited (“XXXX ”, “we or “us”) manages your personal information.<span style="mso-spacerun: yes">&nbsp; </span>We may vary the XXXX Privacy Policy from time to time.<span style="mso-spacerun: yes">&nbsp; </span>We will notify you of any changes by publishing them on XXXX web sites.<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></font></font></span></p>
 <p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt"><span style="FONT-FAMILY: Verdana; mso-bidi-font-family: 'Times New Roman'"><font face="Verdana"><font size="2"><o:p></o:p></font></font></span></p>
@@ -993,24 +1107,64 @@ function ReferralentryformCheck()
    </tr>
   <tr> 
     <td align="left" width="100%">
-		<table width="100%" border="0" align="left" cellpadding="3" cellspacing="0" background="/images/footer_bg.gif">
+		<table bgcolor="#000033" background="/images/footer_bg.gif" width="100%" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
-				<td width="100%" align="center"> 
-					<font color="#CCCCCC" face="Verdana" size="1">
-					  <a href="/home.asp?page=1" style="text-decoration:none;">HOME</a> . 
-					  <a href="/PartyLocator/default.asp?page=9" style="text-decoration:none;">SUMMER SESSIONS</a> . 
-					  <!--<a href="/PartyPics/default.asp?page=10" style="text-decoration:none;">PARTY PICS</a> .//-->
-					  <a href="/BreweryGame/default.asp?page=3" style="text-decoration:none;">COMPETITIONS</a> . 
-					  <a href="/Music/default.asp?page=16" style="text-decoration:none;">MP3</a> . 
-					  <a href="/ContactUs/default.asp?page=5" style="text-decoration:none;">CONTACT US</a> . 
-					  <a href="/Excuse/terms_condition.asp" style="text-decoration:none;">TERMS &amp; CONDITIONS</a> .
-					  <!--<a href="/BossOfTheBrewery/winners.asp?page=4" style="text-decoration:none;">Prizes</a>. //-->
-					  <a href="/PrivacyPolicy/" style="text-decoration:none;">PRIVACY POLICY</a></font>
+				<td width="760" height="7" align="left"><img src="/images/footer_bg.gif" alt="" border="0"></td>
+			</tr>
+		</tbody></table>
+		<table bgcolor="#000033" width="100%" cellpadding="0" cellspacing="0" border="0" background="/images/spacer.gif">
+			<tbody><tr>
+				<td>
+					<table border="0" cellpadding="0" cellspacing="0" width="760">
+						<tbody><tr>
+							<td align="center"><!--<FONT FACE="Verdana" size="2" color="#ffffff"> <a href="http://www.xxxx.com.au/home.asp">HOME .</a> 
+								<a href="http://www.xxxx.com.au/XXXXGold/home.asp">XXXX GOLD .</a> <a href="http://www.xxxx.com.au/XXXXBitter/home.asp">XXXX BITTER .</a>
+								<a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=7">LEAGUE .</a> <a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=6">RUGBY .</a> <a href="http://www.xxxx.com.au/profile.asp">MY PROFILE .</a>
+								<a href="http://www.xxxx.com.au/PrivacyPolicy/">PRIVACY POLICY .</a> <a href="http://www.xxxx.com.au/ContactUs/">CONTACT US </a> </FONT>//-->
+								<font face="Verdana" size="2" color="#ffffff"><a href="http://www.xxxx.com.au/PrivacyPolicy/">PRIVACY POLICY</a></font>
+							</td>
+						</tr>
+					</tbody></table>
 				</td>
 			</tr>
 		</tbody></table>
 	</td>
   </tr>
 </tbody></table>
+<div id="a1" style="position:absolute; left:247px; top:118px; z-index:100; visibility:hidden; background-color:#ff0000; layer-background-color:#ff0000; padding-left:1px; padding-right:1px; padding-bottom:1px">
+	
+	<div><a href="http://www.xxxx.com.au/Footy/whattodo.asp?CompetitionID=7" onmouseover="document.league.src='/images/genBtn_league_over.gif'" onmouseout="document.league.src='/images/genBtn_league_up.gif'" class="nav">WHAT TO DO</a></div>
+	<div><a href="http://www.xxxx.com.au/register.asp?pageRedirect=http://www.xxxx.com.au/Footy/FootyTipping.asp?CompetitionID=7&amp;CompetitionID=7" onmouseover="document.league.src='/images/genBtn_league_over.gif'" onmouseout="document.league.src='/images/genBtn_league_up.gif'" class="nav">REGISTER</a></div>
+	<div><a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=7" onmouseover="document.league.src='/images/genBtn_league_over.gif'" onmouseout="document.league.src='/images/genBtn_league_up.gif'" class="nav">PLACE YOUR TIPS</a></div>
+	<div><a href="#" onclick="window.open('http://www.xxxx.com.au/Footy/prizes.asp?CompetitionID=7','popup1','width=518,height=498, scrollbars=yes, toolbar=no,directories=no, status=no')" onmouseover="document.league.src='/images/genBtn_league_over.gif'" onmouseout="document.league.src='/images/genBtn_league_up.gif'" class="nav">PRIZES</a></div>
+	<div><a href="#" onclick="window.open('http://www.xxxx.com.au/Footy/winners.asp?CompetitionID=7','popup2','width=518,height=388, scrollbars=yes, toolbar=no,directories=no, status=no')" onmouseover="document.league.src='/images/genBtn_league_over.gif'" onmouseout="document.league.src='/images/genBtn_league_up.gif'" class="nav">WINNERS</a></div>
+	<div><a href="http://www.xxxx.com.au/termsandconditions/default.asp?CompetitionID=7" onmouseover="document.league.src='/images/genBtn_league_over.gif'" onmouseout="document.league.src='/images/genBtn_league_up.gif'" class="nav">TERMS AND CONDITIONS</a></div>
+	
+</div>
+
+<div id="b1" style="position:absolute; left:247px; top:118px; width:150px; z-index:100; visibility:hidden; background-color:#ff0000; layer-background-color:#ff0000; padding-left:1px; padding-right:1px; padding-bottom:1px">
+	<div><a href="http://www.xxxx.com.au/Footy/whattodo.asp?CompetitionID=6" onmouseover="document.rugby.src='/images/genBtn_rugby_over.gif'" onmouseout="document.rugby.src='/images/genBtn_rugby_up.gif'" class="nav">WHAT TO DO</a></div>
+	<div><a href="http://www.xxxx.com.au/register.asp?pageRedirect=http://www.xxxx.com.au/Footy/FootyTipping.asp?CompetitionID=6&amp;CompetitionID=6" onmouseover="document.rugby.src='/images/genBtn_rugby_over.gif'" onmouseout="document.rugby.src='/images/rugby.gif'" class="nav">REGISTER</a></div>
+	<div><a href="http://www.xxxx.com.au/Footy/default.asp?CompetitionID=6" onmouseover="document.rugby.src='/images/genBtn_rugby_over.gif'" onmouseout="document.rugby.src='/images/genBtn_rugby_up.gif'" class="nav">PLACE YOUR TIPS</a></div>
+	<div><a href="#" onclick="window.open('http://www.xxxx.com.au/Footy/prizes.asp?CompetitionID=6','popup1','width=518,height=498, scrollbars=yes, toolbar=no,directories=no, status=no')" onmouseover="document.rugby.src='/images/genBtn_rugby_over.gif'" onmouseout="document.rugby.src='/images/genBtn_rugby_up.gif'" class="nav">PRIZES</a></div>
+	<div><a href="#" onclick="window.open('http://www.xxxx.com.au/Footy/winners.asp?CompetitionID=6','popup2','width=518,height=388, scrollbars=yes, toolbar=no,directories=no, status=no')" onmouseover="document.rugby.src='/images/genBtn_rugby_over.gif'" onmouseout="document.rugby.src='/images/genBtn_rugby_up.gif'" class="nav">WINNERS</a></div>
+	<div><a href="http://www.xxxx.com.au/termsandconditions/default.asp?CompetitionID=6" onmouseover="document.rugby.src='/images/genBtn_rugby_over.gif'" onmouseout="document.rugby.src='/images/genBtn_rugby_up.gif'" class="nav">TERMS AND CONDITIONS</a></div>
+</div>
+<!--<div id="SOO" style="position:absolute; left:365px; top:118px; width:190px; z-index:190; layer-width: 210px; visibility:hidden; background-color:#ff0000; layer-background-color:#000000; padding-left:1px; padding-right:1px; padding-bottom:1px">
+	<div><a href="http://www.xxxx.com.au/soo/FavouriteSOO.asp" onMouseOver="document.SOOhome.src='/images/genBtn_soo_over.gif'" onMouseOut="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">YOUR FAVORITE SOO MOMENT</a></div>
+	<div><a href="http://www.xxxx.com.au/soo/FanPhoto.asp" onMouseOver="document.SOOhome.src='/images/genBtn_soo_over.gif'" onMouseOut="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">ULTIMATE FAN PHOTOS</a></div>
+	<div><a href="http://www.xxxx.com.au/soo/HeroMail.asp" onMouseOver="document.SOOhome.src='/images/genBtn_soo_over.gif'" onMouseOut="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">SOO PLAYER HERO MAIL</a></div>
+	<div><a href="http://www.xxxx.com.au/soo/downloads.asp" onMouseOver="document.SOOhome.src='/images/genBtn_soo_over.gif'" onMouseOut="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">DOWNLOADS</a></div>
+	<div><a href="http://www.xxxx.com.au/soo/chair.asp" onMouseOver="document.SOOhome.src='/images/genBtn_soo_over.gif'" onMouseOut="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">GET YOUR INFLATABLE ORIGIN CHAIR</a></div>
+</div>-->
+<div id="SOO" style="position:absolute; left:303px; top:118px; width:225px; z-index:100; visibility:hidden; background-color:#ff0000; layer-background-color:#ff0000; padding-left:1px; padding-right:1px; padding-bottom:1px">
+	<div><a href="http://www.xxxx.com.au/soo/FavouriteSOO.asp" onmouseover="document.SOOhome.src='/images/genBtn_soo_over.gif'" onmouseout="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">FAVORITE QUEENSLANDER MOMENT</a></div>
+	<div><a href="http://www.xxxx.com.au/soo/FanPhoto.asp" onmouseover="document.SOOhome.src='/images/genBtn_soo_over.gif'" onmouseout="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">ULTIMATE QUEENSLANDER COMPETITION</a></div>
+	<div><a href="http://www.xxxx.com.au/soo/HeroMail.asp" onmouseover="document.SOOhome.src='/images/genBtn_soo_over.gif'" onmouseout="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">ORIGIN TEAM HERO MESSAGE</a></div>
+	<div><a href="http://www.xxxx.com.au/soo/downloads.asp" onmouseover="document.SOOhome.src='/images/genBtn_soo_over.gif'" onmouseout="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">DOWNLOADS</a></div>
+	<div><a href="http://www.xxxx.com.au/soo/chair.asp" onmouseover="document.SOOhome.src='/images/genBtn_soo_over.gif'" onmouseout="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navSoo">GET YOUR QUEENSLANDER CHAIR</a></div>
+	<div><a href="#" onclick="window.open('http://kickoff.amnesia.com.au/xxxx.html', 'wingame', 'directories=no,height=500,width=700,location=no,menubar=no,resizable=0,status=no,toolbar=no')" onmouseover="document.SOOhome.src='/images/genBtn_soo_over.gif'" onmouseout="document.SOOhome.src='/images/genBtn_soo_up.gif'" class="navsOO">QUEENSLANDER KICKING GAME</a></div>
+</div>
+
 
 </body></html>
