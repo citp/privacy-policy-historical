@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216034133id_/http%3A//www.ncix.com/canada/about.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602213842id_/http%3A//www.ncix.com/about.php%23privacy) for the most accurate reproduction.*
 
 # NCIX.com: great prices, great service, great selection
 
@@ -10,7 +10,7 @@ GREAT PRICES. GREAT SERVICE. GREAT SELECTION.
 
 > **Welcome to NCIX.com.** Our mission is to offer great prices, service and selection on computer products, electronics and games. Our web site is available online to take orders 24 hours a day, 7 days a week, and provides customers with an easy to use, safe and convenient way to shop for all your computer and electronics needs. 
 > 
-> If at any point during your shopping experience have any questions or concerns, we encourage you to [contact us](https://web.archive.org/web/20021216034133id_/http%3A//www.ncix.com/canada/contact.php?PHPSESSID=318e06691586e386238ff2e16f59eb6f). We strive for **great** customer service, and we will make every reasonable effort to insure your satisfaction. 
+> If at any point during your shopping experience have any questions or concerns, we encourage you to [contact us](https://web.archive.org/web/20030602213842id_/http%3A//www.ncix.com/contact.php). We strive for **great** customer service, and we will make every reasonable effort to insure your satisfaction. 
 
 * * *
 
