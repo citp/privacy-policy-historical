@@ -1,0 +1,46 @@
+> *The following text is extracted and transformed from the emporis.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012827id_/http%3A//www.emporis.com/en/ab/he/cn/ps) for the most accurate reproduction.*
+
+# Privacy statement for using Emporis.com
+
+[](http://www.emporis.com/trc/?l=3) |  | Please visit  
+our sponsors:  
+| [](http://www.kone.com/)  
+| [](http://www.wacker.com/)  
+| [](https://web.archive.org/en/ab/se/av/md/fo/sp/)  
+| [](http://www.db.com/)  
+  
+---|---|---|---|---  
+  
+Privacy Statement
+
+This website does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from a contest or sweepstakes registration, the registration process for subscription sites or services and in connection with content submissions, community postings (e.g., chat and bulletin boards), suggestions, voting/polling activities and transactional areas. Personally identifiable information on individual users will not be sold or otherwise transferred to third parties without the approval of the user at the time of collection. At such points of collection, the user will have the opportunity to indicate whether he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from Emporis.com. Further, notwithstanding any opt out of promotional information by the user, Emporis.com reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected. During a pageview the following information is tracked by Emporis.com: IP address, browser type, referrer, operating system, date/time and the page requested. This information is automatically collected and used to analyze trends, administer the site and gather broad demographic information.
+
+Emporis.com reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. Emporis.com will provide only aggregated data from these analyses to third parties. Also, users should be aware that Emporis.com sometimes permits third parties to offer subscription and/or registration-based services through a Emporis.com site. Emporis.com is not responsible for any actions or policies of such third parties and users should check the applicable privacy policy of such party when providing personally identifiable information.
+
+Additionally, users should be aware that when they voluntarily disclose personally identifiable information (e.g., user name, e-mail address) on the bulletin boards or in the chat areas of the Emporis.com sites, that information, along with any substantive information disclosed in the user's communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Emporis.com.
+
+Users also should be aware that non-personal information and data may be automatically collected through the standard operation of Emporis.com's internet servers or through the use of "cookies." "Cookies" are small text files a website can use to recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user's system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain features (e.g., customized delivery of information) available on the Emporis.com site.
+
+Upon request, Emporis.com will allow any user to "opt out" of further promotional contacts at any time. Additionally upon request, Emporis.com will use reasonable efforts to allow users to update/correct personal information previously submitted which the user states is erroneous to the extent such activities will not compromise privacy or security interests. There is a link in the community section fo rthis purpose. Also, upon a user's request, Emporis.com will use commercially reasonable efforts to functionally delete the user and his or her personal information from its database; however, it may be impossible to delete a user's entry without some residual information because of backups and records of deletions.
+
+Third Party Personally Identifiable Information such as used in the "tell a friend" section of the website will only be used to send a one-time invitation. The information is only stored to make sure the third party will not be solicited through our system.
+
+Emporis.com contains links to other websites. Please note that when you click on one of these links, you are 'clicking' to another website. We encourage you to read the privacy statement of these linked sites as their privacy policy may differ from ours.
+
+The foregoing policies are effective as of May 31, 2001. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+Emporis cares about your privacy  
+For any questions or requests, please send us [feedback](https://web.archive.org/en/ab/fb/). 
+
+|   
+---|---  
+  
+|   
+  
+  
+  
+  
+  
+
