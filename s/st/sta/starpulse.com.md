@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2002-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021020045616id_/http%3A//www.starpulse.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2003-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030205045107id_/http%3A//www.starpulse.com/help/privacy.html) for the most accurate reproduction.*
 
 # StarPulse.com - Privacy Policy
 
@@ -42,4 +42,4 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 **Contacting the Web Site**
 
-Contacting the Web Site, If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [support@starpulse.com](https://web.archive.org/web/20021020045616id_/http%3A//www.starpulse.com/help/support@starpulse.com)
+Contacting the Web Site, If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [support@starpulse.com](https://web.archive.org/web/20030205045107id_/http%3A//www.starpulse.com/help/support@starpulse.com)
