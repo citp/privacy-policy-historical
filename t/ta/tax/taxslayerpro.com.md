@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207143907id_/http%3A//www.taxslayerpro.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401200003id_/http%3A//www.taxslayerpro.com/privacy.asp) for the most accurate reproduction.*
 
 # TaxSlayer® Pro
 
