@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211094804id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603214844id_/http%3A//globalsecurity.org/privacy.htm) for the most accurate reproduction.*
 
 # GlobalSecurity.org Privacy Policy
 
