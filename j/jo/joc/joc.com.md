@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610030455id_/http%3A//www.joc.com/privacypolicy/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joc.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209001842id_/http%3A//www.joc.com/privacypolicy/privacypolicy.shtml) for the most accurate reproduction.*
 
 # JoC Online: Privacy Policy
 
