@@ -1,30 +1,34 @@
-> *The following text is extracted and transformed from the ultimatecarpage.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412170023id_/http%3A//www.ultimatecarpage.com/frame.mv%3Ffile%3Dcopyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecarpage.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002113448id_/http%3A//www.ultimatecarpage.com/frame.mv%3Ffile%3Dcopyright.html) for the most accurate reproduction.*
 
 # Ultimatecarpage.com - Images, Specifications and Information
 
-  
-[Cars by brand](http://www.ultimatecarpage.com/frame.mv?file=brandlist.mv&left=left_cars.mv)  
-[Racing Cars](http://www.ultimatecarpage.com/frame.mv?file=race.mv)  
-[Prototypes](http://www.ultimatecarpage.com/frame.mv?file=list.mv&typesearch=Proto)  
-[Random Car](http://www.ultimatecarpage.com/frame.mv?file=car.mv)  
-  
-[Events 2003](http://www.ultimatecarpage.com/frame.mv?file=Features/events2003.html)  
-[Events 2002](http://www.ultimatecarpage.com/frame.mv?file=Features/events.html)  
-[Wallpapers](http://www.ultimatecarpage.com/frame.mv?file=wall.mv)  
-  
-[Sorted lists](http://www.ultimatecarpage.com/frame.mv?file=lists.html&left=left_lists.mv)  
-[Top 50](http://www.ultimatecarpage.com/frame.mv?file=hitlist.mv)  
-[Site stats](http://www.ultimatecarpage.com/frame.mv?file=sitespec.mv)  
-  
-[Home](http://www.ultimatecarpage.com/)  
-[News](http://www.ultimatecarpage.com/frame.mv?file=news/current.mv)  
-[Links](http://www.ultimatecarpage.com/frame.mv?file=Links.html)  
-[Contact us](mailto:comment@ultimatecarpage.com)   
+[Forums:](https://web.archive.org/forums/index.php)  
+[Manufacturer forums](https://web.archive.org/forums/forumdisplay.php?s=&forumid=7)  
+[General automotive](https://web.archive.org/forums/forumdisplay.php?s=&forumid=13)  
+[General forums](https://web.archive.org/forums/forumdisplay.php?s=&forumid=1)  
+Cars:  
+[Cars by brand](https://web.archive.org/frame.mv?file=brandlist.mv&left=left_cars.mv)  
+[Racing Cars](https://web.archive.org/frame.mv?file=race.mv)  
+[Prototypes](https://web.archive.org/frame.mv?file=list.mv&typesearch=Proto)  
+[Random Car](https://web.archive.org/frame.mv?file=car.mv)  
+Features:  
+[Events 2003](https://web.archive.org/frame.mv?file=Features/events2003.html)  
+[Events 2002](https://web.archive.org/frame.mv?file=Features/events.html)  
+[Wallpapers](https://web.archive.org/frame.mv?file=wall.mv)  
+Lists:  
+[Sorted lists](https://web.archive.org/frame.mv?file=lists.html&left=left_lists.mv)  
+[Top 50](https://web.archive.org/frame.mv?file=hitlist.mv)  
+[Site stats](https://web.archive.org/frame.mv?file=sitespec.mv)  
+General:  
+[Home](https://web.archive.org/)  
+[News](https://web.archive.org/frame.mv?file=news/current.mv)  
+[Links](https://web.archive.org/frame.mv?file=Links.html)  
+[Contact us](https://web.archive.org/forums/forumdisplay.php?s=&forumid=2)   
 | 
 
 ## Manifest
 
-Ultimatecarpage.com is a database dedicated to show pictures and specifications of the best modern and classic cars. Ultimatecarpage.com was created by Wouter Melissen and is at this time managed by two people, Marijn Bezuijen and Wouter Melissen. Ultimatecarpage.com is a non profit site and not a club or a business site.   
+Ultimatecarpage.com is a database dedicated to show pictures and specifications of the best modern and classic cars. Ultimatecarpage.com was created by Wouter Melissen and is at this time managed by two people, Marijn Bezuijen and Wouter Melissen.   
 
 
 ## Disclaimer
@@ -41,7 +45,7 @@ No information of our visitors is being collected. The e-mail addresses gathered
 ## Third Party Advertising
 
 We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.networkadvertising.org/optout_nonppii.asp>   
-For information on the other's privacy policies click the following links: [Adtegrity](http://www.adtegrity.com/privacy.asp), [Burst! Media](http://www.burstmedia.com/release/privacy.asp), [Fastclick](http://www.fastclick.com/about/privacy2.html) and [Ad Volt](http://www.advolt.com/privacy.html). 
+For information on the other's privacy policies click the following links: [Burst! Media](http://www.burstmedia.com/release/privacy.asp) and [Fastclick](http://www.fastclick.com/about/privacy2.html). 
 
 ## Third Party Cookies
 
@@ -49,4 +53,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ## Legal Notice
 
-Ultimatecarpage.com is in no way affiliated with or sponsored by a car manufacturer or any other car related business or club. The content of ultimatecarpage.com is Copyright © 1998-2002 Wouter Melissen, all rights reserved. 
+Ultimatecarpage.com is in no way affiliated with or sponsored by a car manufacturer or any other car related business or club. The content of ultimatecarpage.com is Copyright © 1998-2003 Wouter Melissen, all rights reserved. 
