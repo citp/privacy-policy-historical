@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatodaygroup.com privacy policy that was archived on 2003-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030829154416id_/http%3A//indiatodaygroup.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatodaygroup.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604035113id_/http%3A//www.india-today.com/privacy.phtml) for the most accurate reproduction.*
 
 # India Today Group
 
