@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgrams.org privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014175641id_/http%3A//www.kgrams.org/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgrams.org privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608231120id_/http%3A//www.kgrams.org/main/privacy.html) for the most accurate reproduction.*
 
 # K-grams -- Privacy Policy
 
@@ -63,5 +63,5 @@ You may also contact us at:
 
 K-grams, Inc.  
 1024 Hill Street  
-Ann Arbor, MI 48104  
-734.647.7402
+Ann Arbor, MI 48109  
+734.647.9424
