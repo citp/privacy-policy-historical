@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603124944id_/http%3A//www.bie.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205141832id_/http%3A//www.bie.org/privacy.php) for the most accurate reproduction.*
 
 # BIE.org: Privacy Policy
 
