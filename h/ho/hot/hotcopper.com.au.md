@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407093002id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
+
+# HotCopper
+
+|  **TFA Investor Privacy Policy**
+
+TFA understands that privacy is an important aspect of our community. We explicitly ask when we need information that personally identifies you ("Personal Information"). When you visit a TFA Site (or request Services) that requires registration, we will ask you for your name and email address. If you wish to purchase certain premium services and products (like research reports), we will ask you for your credit card number as well as your address, phone number, and email address for notification and billing purposes. We will retain your credit card information in our database, and you will have the opportunity to change or delete the information at any time. The security of your transactions with TFA is very important to us. You will have the option of conducting your transactions through an encrypted, secure server. 
+
+When you register on a TFA Site, you can feel confident that we will ask you for only the Personal Information we need to serve you. We collect Personal Information only through registration or other voluntary means. We will not sell or license your Personal Information to third parties without your consent. We may, however, sell aggregate information (not individually identifiable information) to our sponsors or advertisers. 
+
+If you request access to certain premium content, such as sponsored broker research, we may ask you for additional Personal Information such as age, gender or income. In such cases, we recognize a mutually beneficial information swap: You provide our sponsors with information about yourself (the information filters through us before we send it on to our sponsors), and the sponsor provides you with free research or other premium content. Before we provide any Personal Information to the sponsor whose content you're requesting, you will be asked to review the information, and we will remind you that we will share this information with the sponsor. When you request a product or service that requires additional Personal Information, we will inform you. 
+
+TFA e-mails a number of regular newsletters to registered users. Each newsletter reaches an undisclosed list of recipients. In other words, none of the recipients can see any of the other names or e-mail addresses listed in the "To" field. Among other subjects, TFA newsletters highlight recent discussion topics from our TFA Investor boards, both free and for-purchase research reports, articles with investment ideas, the latest analysis of Internet stocks, and new features on the site, as well as other information designed to give you investment ideas. If you do not wish to receive our newsletters, please reply to them with the word "unsubscribe" in the subject line. 
+
+TFA may also gather and store information about your usage of the Services and provide aggregate statistical information (not including any Personal Information) about TFA's Users to advertisers, potential advertisers, and content providers. If you have any questions about our Privacy Policy, please contact us at privacy@The Financial Arena and we will do our best to answer. Please refer to the Terms of Use for additional information. 
+
+Internet user privacy is of paramount importance to TFA and our advertisers. The success of our business depends upon our ability to maintain the trust of our users. Below is information from DoubleClick (one of TFA's advertising partners) regarding its commitment to protect the privacy of Users and to ensure the integrity of the Internet. 
+
+All Users who receive an ad targeted by DoubleClick's technology remain completely anonymous to DoubleClick. In the course of delivering an ad to you, DoubleClick does not collect any personally-identifiable information about you, such as your name, address, phone number or email address. DoubleClick does, however, collect certain non-personally-identifiable information about you, such as the server your computer is logged onto or your browser type (for example, Netscape or Internet Explorer). The information collected by DoubleClick is used for the purpose of targeting ads and measuring ad effectiveness on behalf of DoubleClick's advertisers and Web publishers who specifically request it. 
+
+For additional information on the non-personally-identifiable information that is collected by DoubleClick, you can visit http://www.doubleclick.net/company_info/about_doubleclick/privacy/. 
+
+| 
