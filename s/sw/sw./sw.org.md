@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sw.org privacy policy that was archived on 1999-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990506111550id_/http%3A//sw.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sw.org privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607145540id_/http%3A//www.sw.org/privacy.htm) for the most accurate reproduction.*
 
 # Scott & White Privacy Policy Statement
 
