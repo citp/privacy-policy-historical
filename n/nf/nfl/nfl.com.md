@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044210id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606070016id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL.com - Privacy Policy
 
@@ -6,7 +6,9 @@
 
 |   
 ---  
-* [FANTASY](http://fantasy.nfl.com/)  
+* [NFL DRAFT](https://web.archive.org/draft)  
+* [NFL EUROPE](http://www.nfl.com/nfleurope)  
+* [JOIN THE TEAM](http://www.jointheteam.com/)  
 * [FIELD PASS](https://web.archive.org/fieldpass)  
 * [ROSTERS](https://web.archive.org/rosters)  
 * [DEPTH CHARTS](https://web.archive.org/depthcharts)  
@@ -16,6 +18,7 @@
 * [TICKETS](https://web.archive.org/tickets)  
 * [AUCTIONS](https://web.archive.org/auctions)  
 * [NFL SHOP](http://www.nflshop.com/home/default.cfm?SID=7193)  
+* [PRO BOWL](http://www.nfl.com/probowl/features)  
   
 [](http://www.nflshop.com/home/default.cfm?SID=7126)  
   
@@ -23,23 +26,21 @@
 * [KIDS](http://www.playfootball.com/)  
 * [HALL OF FAME](http://www.profootballhof.com/)  
 * [NFLPLAYERS.COM](http://www.nflplayers.com/)  
+* [FANTASY](http://www.nfl.com/fantasy)  
 * [SUPERBOWL.COM](http://www.superbowl.com/)  
-* [PRO BOWL](http://www.probowl.com/)  
-* [NFL Europe](http://www.nfleurope.com/)  
 * [NFL ALUMNI](http://www.nflalumni.org/)  
-* [IN THE COMMUNITY](http://www.jointheteam.com/)  
 ---  
-* [ROOKIES](https://web.archive.org/rookies)  
 * [CONTESTS](http://www.nfl.com/redir?url=2689)  
 * [PLAYER](http://www.nflplayerdevelopment.com/)  
 * [PROGRAMS](http://www.nflplayerdevelopment.com/)  
+* [HISTORY](https://web.archive.org/history)  
 * [INTERNATIONAL](https://web.archive.org/international)  
 * [NFL SUNDAY TICKET](https://web.archive.org/ticket)  
 * [USA FOOTBALL](http://www.usafootball.com/)  
 * [WIRELESS](https://web.archive.org/wireless)  
 |   |  | |   
 ---|---  
-[Play football Privacy Policy](http://www.playfootball.com/site/privacy.html) **·** [NFL Shop Privacy Policy](http://www.nflshop.com/Templates/Cm/cssecurity.tem#privacystatements) **PRIVACY POLICY**  
+[Play football Privacy Policy](http://www.playfootball.com/site/privacy.html) **·** [NFL Shop Privacy Policy](http://www.nflshop.com/content/help_privacy.cfm) **PRIVACY POLICY**  
 Effective Date: Aug. 16, 2001 
 
 This privacy policy is applicable to the Website[s] accessible at universal resource locators NFL.com and Superbowl.com (collectively the "Site"), which is operated pursuant to a strategic relationship among National Football League Enterprises, L.P. on behalf of the National Football League, SportsLine.com, Inc., America Online, Inc., and CBS Broadcasting, Inc. (collectively, the "NFL PARTNERS", "we", "our", or "us"). **Note:[Click here](https://web.archive.org/help/prior) if you disclosed personally identifiable information via the the NFL.com and/or Superbowl.com Web sites (individually or collectively, as applicable, the "NFL Sites") prior to Aug. 16, 2001.** This privacy policy shall be prominently published on the Site. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
