@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201154403id_/http%3A//selfhelpmagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602084335id_/http%3A//selfhelpmagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
