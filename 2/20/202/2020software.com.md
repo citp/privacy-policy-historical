@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2020software.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024840id_/http%3A//www.2020software.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2020software.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604212026id_/http%3A//2020software.com/privacy.asp) for the most accurate reproduction.*
 
 # Top 20 Accounting Systems and Accounting Software from 2020software.com
 
@@ -54,14 +54,12 @@ Another goal of 2020software.com is to provide you, the user, with a customized 
   
    
 **Who is collecting information?**  
-When you are on a 2020software.com site and are asked for information, you are providing that information to 2020software.com alone, unless it is specifically stated otherwise. An exception is the 2020software.com Business Mall which list merchants for various business services and products. 2020software.com has no responsibility or liability for these independent policies. For more information regarding the merchant, their store, and their privacy policies, return to that store's home page and click on their _Information_ link.  
+When you are on a 2020software.com site and are asked for information, you are providing that information to 2020software.com alone, unless it is specifically stated otherwise.  
    
 **With whom does 2020software.com share my information?**  
-If you are requesting demos or brochures we will share that information with the developer and/or reseller of that software. For example, some 2020software.com services, like 2020software.com AccountingDemos.com, are offered in conjunction with a partner company. This information is shared with the partner company so that they may provide you with the accounting software demo and brochures. 
+If you are requesting demos or brochures your mailing information may be shared with the demo cd fullfillment department of the developer of that software. For example, some 2020software.com services, like 2020software.com AccountingDemos.com, are offered in conjunction with a partner company. This information is shared with the partner company so that they may provide you with the accounting software demo and brochures. 
 
-When software or demos are ordered through a 2020software.com website your mailing information may be shared with our forms division so that you can receive a business forms catalog. This catalog will be sent once and no phone calls will be made to solicit forms purchasing. 
-
-_2020software.com Stores & Shops_: If you make a purchase from a store hosted by 2020software.com Store, or a merchant in 2020software.com Shopping, the information obtained during your visit to those stores, and the information you give such as your credit card number and contact information, is provided to the merchants. This is to enable transactions to take place.  
+When software or demos are ordered through a 2020software.com website your mailing information may be shared with our forms division so that you can receive a business forms catalog. This catalog will be sent once and no phone calls will be made to solicit forms purchasing.   
   
    
 **What security precautions are in place to protect the loss, misuse, or alteration of my information?**  
