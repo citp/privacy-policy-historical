@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606041356id_/http%3A//sophos.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010131458id_/http%3A//www.sophos.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Sophos privacy policy
 
@@ -37,6 +37,8 @@ Every time you connect to the Site, we store a log of your visit that shows the 
 #### Cookies
 
 A cookie is a piece of text that gets entered into the memory of your browser by a website, allowing the website to store information on a user's machine and later retrieve it. Some Sophos pages use cookies so that we can better serve you when you return to the Site. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. Cookies are in no way linked to any personally identifiable information. If a user rejects the cookie, they may still use the Site, although some areas may be functionally limited. 
+
+Most internet browsers allow the use of cookies to be enabled or disabled. For specific instructions to enable or disable cookies on your computer, please refer to the documentation for your browser software.
 
 #### How does Sophos use my personal data?
 
