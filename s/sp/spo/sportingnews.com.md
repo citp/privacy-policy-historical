@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614053129id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207112800id_/http%3A//sportingnews.com/privacy.html) for the most accurate reproduction.*
 
 # The Sporting News: Privacy Policy
 
