@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605203651id_/http%3A//store.yahoo.com/rodi/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011220044id_/http%3A//store.yahoo.com/rodi/privacypolicy.html) for the most accurate reproduction.*
 
 # AutoBarn.com Privacy Policy
 
