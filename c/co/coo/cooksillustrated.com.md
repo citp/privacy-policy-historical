@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405014223id_/http%3A//www.cooksillustrated.com/standard_pgs.asp%3FiPageID%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605165111id_/http%3A//www.cooksillustrated.com/standard_pgs.asp%3FiPageID%3D37) for the most accurate reproduction.*
 
 # Cook's Illustrated: Privacy
 
-|  |  |  |  **Boston Common Press Privacy Policy**
+**Boston Common Press Privacy Policy**
 
 We at Boston Common Press are committed to respecting your privacy and we recognize your need for appropriate protection of personally identifiable information (any information by which you can be identified, including name, address, e-mail address, or credit card information). For this reason, we have established the following privacy policy, so that you can understand the care with which we intend to treat your information.  
 
@@ -12,7 +12,7 @@ To protect your privacy, we have adopted the following principles, and assure yo
 
 
 **INFORMATION/CHOICE**  
-There are times when we may collect personal information from you. For example, when you register with Boston Common Press for our online subscription service, electronic newsletter, surveys, or other services, personal information is requested. Your E-mail address is added to our electronic mailing list so that, from time to time, we can send you our cooking newsletter or information about additions and special promotions on Boston Common Press's Web site. If you choose not to provide the information we request, you can still visit most of Boston Common Press's Web site, but you may be unable to access certain options, offers, and services. You may submit the [opt out form](https://web.archive.org/web/20010405014223id_/http%3A//www.cooksillustrated.com/remove/outop.asp) at any time, _and you will no longer receive any electronic communications from Boston Common Press._  
+There are times when we may collect personal information from you. For example, when you register with Boston Common Press for our online subscription service, electronic newsletter, surveys, or other services, personal information is requested. Your E-mail address is added to our electronic mailing list so that, from time to time, we can send you our cooking newsletter or information about additions and special promotions on Boston Common Press's Web site. We do not sell or share your e-mail address with any ohter companies or third parties. If you choose not to provide the information we request, you can still visit most of Boston Common Press's Web site, but you may be unable to access certain options, offers, and services. You may submit the [opt out form](https://web.archive.org/web/20020605165111id_/http%3A//www.cooksillustrated.com/remove/outop.asp) at any time, _and you will no longer receive any electronic communications from Boston Common Press._  
 
 
   
@@ -43,5 +43,3 @@ Brookline, MA. 02445
 
 We are committed to privacy, and we are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Personal data privacy is a new and evolving area, and Boston Common Press is committed to respecting your right to privacy. If you have any comments or questions regarding our privacy policy, please contact us at [webmaster@bcpress.com](mailto:webmaster@bcpress.com). We will address any issue to the best of our abilities.   
 
-
-|  |  |  | 
