@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnpcb.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204122328id_/http%3A//www.gnpcb.org/page/cs-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnpcb.org privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402105439id_/http%3A//www.gnpcb.org/page/cs-privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Good News Publishers / Crossway Books)
 
