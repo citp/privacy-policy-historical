@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jewishworldreview.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603100617id_/http%3A//www.jewishworldreview.com/0400/privacy1.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishworldreview.com privacy policy that was archived on 2002-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020212034240id_/http%3A//www.jewishworldreview.com/0400/privacy1.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Jewish World Review
 
-[ ](http://www4.burstnet.com/ads/ad2847c-map.cgi) **Clicking on banner ads keeps JWR alive**
+**Clicking on banner ads keeps JWR alive**
 
 ## Privacy Statement for Jewish World Review
 
