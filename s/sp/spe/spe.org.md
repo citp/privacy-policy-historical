@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202013856id_/http%3A//www.spe.org/spe/jsp/basic/0%2C2396%2C1104_1896_0%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204213709id_/http%3A//www.spe.org/spe/jsp/basic/0%2C2396%2C1104_1896_0%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|   
+Privacy Policy |   
 ---|---  
   
 Privacy Policy
