@@ -1,34 +1,28 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021153id_/http%3A//www.nlm.nih.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001223811id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
-# Copyright and Privacy Notice
+# NLM Privacy Policy
 
   
 
 
-**Copyright Status:** Most information at this site is in the public domain. Unless otherwise stated, these documents may be freely distributed and used for non-commercial, scientific, educational or personal purposes. However, you may encounter documents or portions of documents contributed by private companies or organizations. Other parties may retain all rights to publish or reproduce these documents. Commercial use of the documents on this site may be protected under U.S. and foreign copyright laws. 
+The National Library of Medicine (NLM) provides this Web site as a public service. We do **not** collect personal information about you when you visit our Web sites unless you choose to provide that information to us. 
 
-**License Notice:** For production and display of GIF images, this site uses Unisys patent No. 4,558,302 and/or foreign counterparts, which is licensed by Unisys for use on this site as a public service. 
+### Information Collected and Stored Automatically
 
-**Disclaimer of Liability:** For documents available from this server, the U.S. Government does not warrant or assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed. 
+Of the information we learn about you from your visit to NLM Web sites, we store only the following: the IP address from which you access the Internet, the date and time, the Internet address of the Web site from which you linked directly to our site, the name of the file or the words you searched, and the browser used to access our site. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us expand the coverage of the sites and to make the site more useful. NLM periodically deletes its Web logs.
 
-**Disclaimer of Endorsement**
+### Cookies
 
-**\-- General --**  
-NLM does not endorse or recommend any commercial products, processes, or services. The views and opinions of authors expressed on NLM Websites do not necessarily state or reflect those of the U.S. Government, and they may not be used for advertising or product endorsement purposes. 
+A "cookie" is a small file that a Web site transfers to your computer's hard disk allowing our server to "remember" specific information about your session. While visiting certain NLM sites you may occasionally encounter a Web page that employs cookies to make it easier to use the dynamic features of these Web pages. The cookie and the information about your session will be destroyed automatically shortly after you close your browser-it is not permanently stored on your computer. You can set your browser to disable cookies or prompt you before a cookie is accepted. If you do not want to receive cookies, you will still be able to use the NLM sites, but will be unable to use cookie-dependent features.
 
-**\-- External Links --**  
-Some NLM sites may provide links to other Internet sites only for the convenience of World Wide Web users. NLM is not responsible for the availability or content of these external sites, nor does NLM endorse, warrant or guarantee the products, services or information described or offered at these other Internet sites. 
+### Personally Provided Information
 
-**Medical Information:** It is not the intention of NLM to provide specific medical advice, but rather to provide users with information to better understand their health and their diagnosed disorders. Specific medical advice will not be provided, and NLM urges you to consult with a qualified physician for diagnosis and for answers to your personal questions. 
+If you choose to provide us with personal information by sending an email, or by filling out a form with your personal information and submitting it through our Web site, we use that information to respond to your message and to help us provide you with information or material that you request. If provided, personally identifiable information is maintained in a database that is regularly purged. Third party contractors may have access to this information in order to provide an initial response to your question or comment. These contractors are held to strict policies to safeguard the information and provide the same level of privacy protection as guaranteed by NLM. On occasion, we may conduct a study concerning the types of questions sent to us. These studies help us to improve our Web sites in order to make them more responsive to the needs of our users. We do not give, share, sell, or transfer any personal information to a third party unless required by law.
 
-**Privacy Notice:** This Web site is provided as a public service by the National Library of Medicine. 
+### Links to Other Sites
 
-Of the information we learn about you from your visit to "http://www.nlm.nih.gov" we store only the following: the IP address from which you access the Internet, the date and time, the Internet address of the web site from which you linked directly to our site, the name of the file or the words you searched, and the browser used to access our site. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us expand the coverage of the site to assist users in finding health information. 
+Some NLM Web sites, such as MEDLINEplus, provide links to other Internet sites that provide health information. Once you link to another site, you are subject to the privacy policy of the new site.
 
-We do not give, share, sell or transfer any personal information to a third party. 
+### Security
 
-When inquiries are e-mailed to us, we store the question and the e-mail address information so that we can respond electronically. Unless otherwise required by statute, we do not identify publicly who sends questions or comments to our web site. We will not obtain information that will allow us to personally identify you when you visit our site, unless you chose to provide such information to us. 
-
-A "cookie" is information stored on your computer by a web server and used to customize your web service in some way. The NLM main web site does not send cookies; however, some sites to which it links (including NLM sites such PubMed and DIRLINE) may send cookies. You can set your browser software to disable cookies or to prompt you before a cookie is accepted. 
-
-Questions about NIH privacy policies should be sent to the [ NIH Privacy Act Officer.](mailto:wheelest@od.nih.gov)
+The U.S. Government maintains this site. For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Causing damage to federal computer systems is a violation of U.S. law and is subject to criminal prosecution in federal court. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
