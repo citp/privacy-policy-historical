@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008071315id_/http%3A//digitalcamera-hq.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcamera-hq.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605185722id_/http%3A//digitalcamera-hq.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Unbiased reviews, prices and advice from Digital Camera HQ
 
-Consumer Electronics HQ, Inc. has provided this privacy policy because we value your right to privacy. This policy describes the types of information Consumer Electronics HQ's Web site, www.DigitalCamera-HQ.com, gathers from its users and how that information is used. Please read this policy carefully. If you have questions about this policy, please submit your query here. 
+## Privacy Policy
 
-## Information we collect
+Consumer Electronics HQ, Inc. has provided this privacy policy because we value your right to privacy. This policy describes the types of information Consumer Electronics HQ's Web site, DigitalCamera-HQ.com, gathers from its users and how that information is used. Please read this policy carefully. If you have questions about this policy, please submit your query here. 
+
+### Information we collect
 
 The information we collect from you is limited. We log your IP address in order to help diagnose problems with our server, administer our Website and track usage statistics. Your IP address may vary each time you visit, or it may be the same, depending on whether you access our site through an always-on type of Internet connection (e.g., cable modem or DSL), or through a dial-up connection (e.g., AOL or Earthlink). Either way, it would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, then we also log that information. This helps us to maximize our Internet exposure, and to understand the interests of our users. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not individual reports. 
 
