@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606174029id_/http%3A//www.unrealtournament.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201214655id_/http%3A//unrealtournament.com/site/privacy.html) for the most accurate reproduction.*
 
 # Unreal Tournament - Privacy Policy
 
@@ -36,7 +36,7 @@ The Infogrames web sites also log IP addresses for systems administration purpos
 
 Infogrames uses a feature of your browser to set a cookie on your computer. This allows us to measure and report aggregate information. Our site uses cookies to keep track of your shopping cart. We also use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
-Cookies by themselves, cannot be used to find out the identity of any user. Infogrames will only store information provided voluntarily, but this information is not personally identifiable. Most browsers allow you to reject cookies or to choose which cookies to accept. 
+Cookies by themselves cannot be used to find out the identity of any user. Infogrames will only store information provided voluntarily, but this information is not personally identifiable. Most browsers allow you to reject cookies or to choose which cookies to accept. 
 
 **External Links**
 
@@ -49,10 +49,9 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database or to not receive future communications. 
 
   1. You can send mail to the following postal address:   
-Infogrames North America  
-5300 Stevens Creek Blvd.  
-Suite 500  
-San Jose, CA 95129 
+Infogrames Inc.  
+2230 Broadway Street  
+Santa Monica, CA 90404
   2. You can send email to [remove@infogrames.net](mailto:remove@infogrames.net)  
 
   3. Call the following telephone number: (408) 296-8400 and speak to a customer service representative.
@@ -64,10 +63,9 @@ San Jose, CA 95129
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact the webmaster. 
 
   1. You can send mail to the following postal address:  
-Infogrames North America  
-5300 Stevens Creek Blvd.  
-Suite 500  
-San Jose, CA 95129 
+Infogrames Inc.  
+2230 Broadway Street  
+Santa Monica, CA 90404 
   2. You can send email to [help@infogrames.net](mailto:help@infogrames.net)
 
   
