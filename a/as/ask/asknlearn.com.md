@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asknlearn.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622233729id_/http%3A//asknlearn.com/pages/bottom%2520navigation/privacy%2520statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asknlearn.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207105550id_/http%3A//www.asknlearn.com/pages/bottom%2520navigation/privacy%2520statement.htm) for the most accurate reproduction.*
 
 # ASKnLearn.com - Privacy Statement
 
@@ -6,7 +6,7 @@ Privacy Statement
 
 The ASKnLearn.com web site consists of many pages and services. Information provided may be subject to change from time to time so we encourage you to check our online Privacy policies and this Privacy Statement regularly. 
 
-If you have any concerns or questions, please contact ASKnLearn.com by phoning (+65) 6872 2972 or give us your [Feedback](mailto:enquiry@asknlearn.com) via email. 
+If you have any concerns or questions, please contact ASKnLearn.com by phoning (+65) 6872 2972 or give us your [Feedback](mailto:admin1@asknlearn.com) via email. 
 
 Collection of your personal information  
 When you provide ASKnLearn.com with your personal information via the ASKnLearn.com web site, we will inform you of how the information will be used. We value your trust in the ASKnLearn.com web site. In all cases, your information will be held in strict confidence. 
@@ -48,7 +48,7 @@ You have the right, at anytime to modify, withdraw and access your personal info
 Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords. Please be careful and responsible whenever you are using the Internet and ASKnLearn.com. 
 
 How to contact us  
-If you have any concerns or questions, please contact ASKnLearn.com by phoning +(65) 6872 2972 or use the [Feedback](mailto:enquiry@asknlearn.com) link to send your questions and comments via email. 
+If you have any concerns or questions, please contact ASKnLearn.com by phoning +(65) 6872 2972 or use the [Feedback](mailto:admin1@asknlearn.com) link to send your questions and comments via email. 
 
 Thank you for taking the time to read the ASKnLearn.com Privacy Statement. 
 
