@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximonline.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206175100id_/http%3A//www.maximonline.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximonline.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603223026id_/http%3A//www.maximonline.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # MAXIM ONLINE: Privacy Policy
 
