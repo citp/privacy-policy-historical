@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundsxpress.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206095945id_/http%3A//fundsxpress.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundsxpress.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602173146id_/http%3A//fundsxpress.com/company/privacy.html) for the most accurate reproduction.*
 
 # FundsXpress Inc.
 
@@ -102,7 +102,7 @@ Effective: December 31, 2001
 
 ## FundsXpress subsidiaries
 
-FundsXpress, Inc. is an operating subsidiary of FundsXpress, Inc.
+FundsXpress Financial Network, Inc., a Texas Corporation, is an operating subsidiary of FundsXpress, Inc., a Delaware Corporation.
 
 ## Questions
 
