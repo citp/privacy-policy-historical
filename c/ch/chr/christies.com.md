@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christies.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616104432id_/http%3A//www.christies.com/clientservices/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christies.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009144805id_/http%3A//www.christies.com/clientservices/privacypolicy.asp) for the most accurate reproduction.*
 
 # Christie's - Privacy Policy
 
