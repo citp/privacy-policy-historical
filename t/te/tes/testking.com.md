@@ -1,16 +1,31 @@
-> *The following text is extracted and transformed from the testking.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602203043id_/http%3A//testking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testking.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621172737id_/http%3A//www.testking.com/index.cfm%3Fpageid%3D723%26siteid%3D1) for the most accurate reproduction.*
 
-# Privacy policy of Test King, Inc. / TestKing
+# Studying for Cisco CCNA, CCNP, CCIE 640-607, 350-001, 640-605, 640-901 exams? — TestKing
 
-Test King, Inc. obeys a strict code of privacy in regards to our customers' and visitors' information.  The following outlines what information we collect, and what we will do with it.  Test King is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. _**Registration**_  
-If you wish to download software, make a purchase, participate in a contest, or receive information, we will ask you to register.  During registration  you will be required to provide your contact information (such as name and email address). _**Order**_  
+|   
+---  
+[](http://www.testking.com/index.cfm?pageid=723&do=member) |    
+[](http://www.testking.com/index.cfm?pageid=724) |    
+[](http://www.testking.com/index.cfm?pageid=724) |    
+[](http://www.testking.com/index.cfm?pageid=724) |    
+[](http://www.testking.com/index.cfm?pageid=717) |    
+[](http://www.certifyexpress.com/)  
+  
+Test King, Inc. obeys a strict code of privacy in regards to our customers' and visitors' information.  The following outlines what information we collect, and what we will do with it.  Test King is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
+
+_**Registration**_  
+If you wish to download software, make a purchase, participate in a contest, or receive information, we will ask you to register.  During registration  you will be required to provide your contact information (such as name and email address). 
+
+_**Order**_  
 We request information from you to process your order.  Here you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date).  This information is used for billing purposes and to fill your orders.  If we have trouble processing an order, this contact information is used to get in touch you. 
 
 _**Log Files**_  
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information. 
 
 _**Sharing**_  
-We do not share aggregated demographic information with our partners and advertisers.  We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services.  These companies do not retain, share, store or use identifiable information for any secondary purposes.  The security staff of this website takes every precaution to protect our users information.  When users submit sensitive information via the website, your information is protected both online and off-line.  When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry _**SSL.**_  
+We do not share aggregated demographic information with our partners and advertisers.  We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services.  These companies do not retain, share, store or use identifiable information for any secondary purposes.  The security staff of this website takes every precaution to protect our users information.  When users submit sensitive information via the website, your information is protected both online and off-line.  When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry 
+
+_**SSL.**_  
 While on a secure page, such as our order form, the lock icon on the bottom of Netscape and Microsoft IE web browsers become locked, as opposed to unlocked / open when you are just surfing. 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line.  All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. 
