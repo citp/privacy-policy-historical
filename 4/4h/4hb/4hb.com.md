@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the 4hb.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210143848id_/http%3A//www.4hb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4hb.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203183016id_/http%3A//www.4hb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+   
+[Home](https://web.archive.org/web/20031203183016id_/http%3A//www.4hb.com/index.html) » **Privacy Policy**
+
+* * *
 
 **Information Collection and Use**
 
