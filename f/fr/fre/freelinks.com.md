@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204065200id_/http%3A//www.freelinks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619114527id_/http%3A//www.freelinks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for FreeLinks.com
 
