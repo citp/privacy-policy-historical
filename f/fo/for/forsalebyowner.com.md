@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forsalebyowner.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208184300id_/http%3A//www.forsalebyowner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forsalebyowner.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604210831id_/http%3A//www.forsalebyowner.com/privacy.html) for the most accurate reproduction.*
 
 # real estate - for sale by owner
 
@@ -47,5 +47,5 @@ At ForSaleByOwner.com user privacy is of utmost concern.  We are committed to y
 
   ForSaleByOwner.com, Inc., and its affiliates may disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the requirements of the law or comply with governmental orders, court orders, or legal process served on ForSaleByOwner.com, Inc., or its affiliates; (2) protect and defend the property or rights of ForSaleByOwner.com, Inc., and its affiliates or the users of ForSaleByOwner.com 
 
-[**Back to Home Page**](https://web.archive.org/web/20001208184300id_/http%3A//www.forsalebyowner.com/index.html)  
+[**Back to Home Page**](https://web.archive.org/web/20010604210831id_/http%3A//www.forsalebyowner.com/index.html)  
 
