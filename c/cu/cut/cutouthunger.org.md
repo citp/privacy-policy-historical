@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutouthunger.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603172037id_/http%3A//cutouthunger.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutouthunger.org privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217093542id_/http%3A//www.cutouthunger.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Cut your grocery bill in half and feed the hungry with cutouthunger.org. Money saving coupons from Smartsource, Coolsavings, and money saving offers from local grocery stores, Upromise and Babymint.
 
@@ -29,16 +29,13 @@ Cutouthunger.org gives users the following options for managing or removing thei
 
 2\. Manage Your Cutouthunger.org Profile: Within the Registration section of Cutouthunger.org you have the option to Manage Your Cutouthunger.org Profile. The Cutouthunger.org management system allows you to update or delete your information from our database. We also allow you to subscribe or unsubscribe to any of the promotional email updates we send out. 
 
-**Use of Cookies**  
-Cookies are files or pieces of information that may be stored in your computer's hard drive when you visit a website. We use cookies to better tailor our site and our products to your interests and needs. Cookies may also be used to help speed up your future activities or to improve your user experience by remembering the information that you have already provided to us. We do not use cookies to retrieve information from your computer that was not voluntarily provided by you (i.e., during membership registration or a contest). The use of cookies is an industry standard and you will find them at most websites. Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence. 
-
 **Our Privacy Practices with Third Parties**  
 We share aggregate, non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. We do not provide any identifiable personal information to any third party for any purpose whatsoever unless you register or subscribe for their services. 
 
 Our intention is never to use or share personally identifiable information provided to us in ways that are different than the ways described above without also providing you with an opportunity to "unsubscribe" or prohibit such unrelated uses. 
 
 **Links to Other Sites**  
-Users should be aware that when you are on this website you could be directed to other sites that are beyond our control. There may be links to other sites that take you outside our service. This includes links from advertisers, sponsors, and partners that may use the Tropicana, or Cutouthunger.org logo. These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. Always be aware of where you end up. Check the linked site to locate its Privacy Policy, which may be different from our own. If the Cutouthunger.org website links you to any third party website, Cutouthunger.org makes no representation as to the existence, sufficiency, accuracy or completeness of their Privacy Policy. 
+Users should be aware that when you are on this website you could be directed to other sites that are beyond our control. There may be links to other sites that take you outside our service. This includes links from advertisers, sponsors, and partners that may use the Cutouthunger.org logo. These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. Always be aware of where you end up. Check the linked site to locate its Privacy Policy, which may be different from our own. If the Cutouthunger.org website links you to any third party website, Cutouthunger.org makes no representation as to the existence, sufficiency, accuracy or completeness of their Privacy Policy. 
 
 **Our Commitment to Data Security:**  
 We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
