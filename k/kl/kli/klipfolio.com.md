@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klipfolio.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625141546id_/http%3A//www.serence.com/site.php%3Faction%3Dser_legal%2Clegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klipfolio.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205012637id_/http%3A//www.serence.com/site.php%3Faction%3Dser_legal%2Clegal_privacy) for the most accurate reproduction.*
 
 # serence | company | privacy policy
 
