@@ -1,10 +1,35 @@
-<!--The following is the downloaded HTML source of the babycenter.com.au privacy policy that was archived on 2003-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031215234151id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the babycenter.com.au privacy policy that was archived on 2004-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040620172317id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>BabyCenter Privacy Policy</title>
 <!-- $Source: /vob/app_fa_ho/binky/bc/app/frag/jhtml/head.jhtml $ -->
-<!-- $Date: 5-Dec-2003.01:51:18 $ $Revision: /main/169 $ $State: CHECKEDIN $ $Author: evs $ -->
+<!-- $Date: 12-Feb-2004.17:23:46 $ $Revision: /main/174 $ $State: CHECKEDIN $ $Author: scottg $ -->
+
+
+<script>
+var now=1087752197106;
+if (document.cookie.indexOf('a^'+now) < 0){
+
+var rand=Math.random();
+
+document.write('<script src=/timetest.jhtml?rand='+rand+'&base='+now+'>'+'<'+'/sc'+'ript>');
+
+var oldval='';
+if (document.cookie.indexOf('base=') != -1){
+  oldval = document.cookie.substring(document.cookie.indexOf('base=')+5);
+  if (oldval.indexOf(';')>0)
+    oldval=oldval.substring(0,oldval.indexOf(';'));
+
+  if (oldval.length > 3000)
+    oldval=oldval.substring(16);
+} 
+
+document.cookie = 'base='+oldval+'a^'+now+'; path=/';
+
+}
+
+</script><script src="/timetest.jhtml?rand=0.1649134251763087&amp;base=1087752197106"></script>
 
 
 
@@ -22,18 +47,32 @@
   </script>
   
     <!-- $Source: /vob/app_fa_ho/binky/bc/app/frag/jhtml/jsincludes.jhtml $ -->
-<!-- $Date: 28-Oct-2003.05:45:45 $ $Revision: /main/18 $ $State: CHECKEDIN $ $Author: svenn $ -->
+<!-- $Date: 1-Mar-2004.01:02:55 $ $Revision: /main/24 $ $State: CHECKEDIN $ $Author: svenn $ -->
 
 
 
-<script language="JavaScript1.2" src="http://www.babycenter.com/js/2002091501/lib.js"></script>
+
+<script language="JavaScript1.2" src="http://www.babycenter.com/js/2004021001/lib.js"></script>
+<script language="JavaScript1.2" src="http://www.babycenter.com/js/2002091501/smsurv.js"></script>
 <script language="JavaScript1.2" src="http://www.babycenter.com/js/2003091501/acmlib.js"></script>
-<script language="JavaScript1.2" src="http://www.babycenter.com/js/2003121515/acmdat.js"></script>
+<script language="JavaScript1.2" src="http://www.babycenter.com/js/2004062010/acmdat.js"></script>
 
 
 <script type="text/javascript">
+
+var user = new Object();
+user.phase = "general";
+user.email = "";
+user.stage = "0";
+user.date = "none";
+user.cheese = "n/a";
+
+      
+
 // BC site cookie
 var bcCookie = new Cookie('bcprod',Time.yr,'/');
+
+
 
 // Define rollover state images for menus
 var lnMenuImage=new Object(); // Left NAV
@@ -105,7 +144,8 @@ function defwinupdate(inword,inaka,indef){
 
 <!--stopindex-->
 
- <body background="/MEDIA/ProductCatalog/36143_dec_content.gif">
+ <body background="/MEDIA/ProductCatalog/41596_bc_wp_dadday_061004.gif">
+
 
  <div align="center">
   <script type="text/javascript" language="javascript">
@@ -129,6 +169,7 @@ function defwinupdate(inword,inaka,indef){
 <!-- / $Source: /vob/app_fa_ho/binky/bc/app/frag/jhtml/head.jhtml $ -->
 
 
+
 <!-- $Source: /vob/app_rm_to/binky/bc/app/topic/jhtml/help/privacytopic.jhtml $--> 
 
 <script language="javascript"> 
@@ -136,25 +177,25 @@ function defwinupdate(inword,inaka,indef){
 </script> 
  <!-- top navigation panel -->
     <!-- $Source: /vob/app_fa_ho/binky/bc/app/frag/jhtml/topnav.jhtml $ -->
-<!-- $Date: 11-Dec-2003.20:59:51 $ $Revision: /main/b_R-BC-2003-12-08/1 $ $State: CHECKEDIN $ $Author: svenn $ -->
+<!-- $Date: 15-Apr-2004.23:48:30 $ $Revision: /main/48 $ $State: CHECKEDIN $ $Author: meredithg $ -->
 
 <!-- top navigation panel -->
 <tbody><tr valign="top">
  <td>
   <map name="topnav" id="topnav">
-   <area id="tnHome" alt="" coords="1,0,41,24" href="/bc/?adcode=con:tnav:hom" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
-   <area id="tnComm" alt="" coords="80,0,160,24" href="/community/?adcode=con:tnav:com" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
-   <area id="tnStore" alt="" coords="198,0,238,24" href="/store/?adcode=con:tnav:sto" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
-   <area id="tnPlus" alt="" coords="274,0,380,24" href="/premium/?adcode=con:tnav:pls" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
-   <area id="tnStore" alt="" coords="198,0,238,24" href="/store/" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
-   <area alt="" coords="403,0,438,24" href="/store/cart/">
+   <area id="tnHome" alt="Home" coords="1,0,41,24" href="/bc/?adcode=con:tnav:hom" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
+   <area id="tnComm" alt="Community" coords="80,0,160,24" href="/community/?adcode=con:tnav:com" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
+   <area id="tnStore" alt="Store" coords="198,0,238,24" href="/store/?adcode=con:tnav:sto" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
+   <area id="tnPlus" alt="BabyCenter Plus" coords="274,0,380,24" href="/plus/?adcode=con:tnav:pls" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
+   <area id="tnStore" alt="Store" coords="198,0,238,24" href="/store/" onmouseover="return tn.show(this);" onmouseout="return tn.hide();">
+   <area alt="Shopping Cart" coords="403,0,438,24" href="/store/cart/?adcode=con:tnav:cart">
   </map>
  
   <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tbody><tr>
-   <td width="225"><a href="/?adcode=con:tnav:logo"><img src="/i/frag/bclogo_hd.gif" width="225" height="75" alt="" border="0"></a></td>
+   <td width="225"><a href="/?adcode=con:tnav:logo"><img src="/i/frag/bclogo_hd.gif" width="225" height="75" alt="BabyCenter" border="0"></a></td>
    
-      <td width="545" align="right" valign="bottom"><img id="topnavimg" src="/i/frag/topnav.gif" alt="" width="440" height="24" border="0" usemap="#topnav"></td>
+      <td width="545" align="right" valign="bottom"><img id="topnavimg" src="/i/frag/topnav.gif" alt="Navigation" width="440" height="24" border="0" usemap="#topnav"></td>
      
   </tr>
   <tr class="turquoise">
@@ -163,7 +204,7 @@ function defwinupdate(inword,inaka,indef){
       <div id="timelineFlash">
        <script language="javascript1.3">
        var tnFlash=new FlashMovie({
-         url:'http://us.bcimg.com/f/1652/403/10h/www.babycenter.com/i/timeline.swf?remainderDays=-1&amp;dob=none&amp;signup=/bc/members/profile%3Fadcode=CON:REG:TIME&amp;todaysDate=12152003&amp;currentStage=0',
+         url:'http://us.bcimg.com/f/1652/403/10h/www.babycenter.com/i/timeline.swf?remainderDays=-1&amp;dob=none&amp;signup=/bc/members/profile%3Fadcode=CON:REG:TIME&amp;todaysDate=06202004&amp;currentStage=0',
          width:770,
          height:60,
          altUrl:'http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/eveimages/timeline_flat.gif'
@@ -173,7 +214,7 @@ function defwinupdate(inword,inaka,indef){
       
      </div>
      <div id="timelineGif" style="display:none;">
-      <img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/eveimages/timeline_flat.gif" width="770" height="60" alt="" border="0"><br>
+      <img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/eveimages/timeline_flat.gif" width="770" height="60" alt="Development timeline" border="0"><br>
      </div>
      
    </td>
@@ -189,6 +230,8 @@ function defwinupdate(inword,inaka,indef){
  <div class="topNavMenuLink"><a href="/toddler?adcode=CON:TNAV:HOM">Toddler</a></div>
  <div class="topNavMenuLink"><a href="http://www.parentcenter.com/?adcode=CON:TNAV:HOM">Kids</a></div>
  <div class="topNavMenuLink"><a href="/topicsaz/?adcode=CON:TNAV:HOM">Topics A-Z</a></div>
+ <div class="topNavMenuLink"><a href="/freestuff/?adcode=CON:TNAV:MED:FRS">Free Stuff</a> &amp;<br>
+&nbsp; <a href="/freestuff/?adcode=CON:TNAV:MED:FRS">Great Deals</a></div>
  </div>
  
  <div id="tnCommMenu" class="topNavMenu">
@@ -210,7 +253,6 @@ function defwinupdate(inword,inaka,indef){
  <div class="topNavMenuLink"><a href="/store/category/for_parents/?adcode=CON:TNAV:STO:PAR">For Parents</a></div>
  <div class="topNavMenuLink"><a href="/store/category/toys/?adcode=CON:TNAV:STO:TOY">Toys</a></div>
  <div class="topNavMenuLink"><a href="/store/category/books_music_video/?adcode=CON:TNAV:STO:BMV">Books, Music &amp; Video</a></div>
- <div class="topNavMenuLink"><a href="/store/category/great_gifts/?adcode=CON:TNAV:STO">Great Gifts</a></div>
  <div class="topNavMenuLink"><a href="/store/category/parentpicks/?adcode=CON:TNAV:STO">Parents' Picks</a></div>
  <div class="topNavMenuLink"><a href="/store/guides/?adcode=CON:TNAV:STO">Buying Guides</a></div>
  </div>
@@ -219,13 +261,14 @@ function defwinupdate(inword,inaka,indef){
  <div id="tnPlusMenu" class="topNavMenu">
  
    <!-- Non BC Member -->
-   <div class="topNavMenuLink"><a href="/premium/?adcode=CON:TNAV:PLS">Sign up for:</a></div>
-   <div class="topNavMenuLink"><a href="/premium/?adcode=CON:TNAV:PLS">Ultimate Pregnancy Safety Guide</a></div>
-   <div class="topNavMenuLink"><a href="/premium/?adcode=CON:TNAV:PLS">Recall Alerts</a></div>
-   <div class="topNavMenuLink"><a href="/premium/?adcode=CON:TNAV:PLS">Consumer Reports Product Reviews</a></div>
-   <div class="topNavMenuLink"><a href="/premium/?adcode=CON:TNAV:PLS">Video Library</a></div>
-   <div class="topNavMenuLink"><a href="/premium/?adcode=CON:TNAV:PLS">BabyCenter Store Savings</a></div>
-   <div class="topNavMenuLink"><a href="/premium/?adcode=CON:TNAV:PLS">Partner Discounts</a></div>
+   <div class="topNavMenuLink"><a href="/plus/?adcode=CON:TNAV:PLS">Sign up for:</a></div>
+   <div class="topNavMenuLink"><a href="/plus/safe/?adcode=CON:TNAV:PLS">Ultimate Pregnancy Safety Guide</a></div>
+<div class="topNavMenuLink"><a href="/plus/readyornot/?adcode=CON:TNAV:PLS">Ready or Not Guide</a></div>
+   <div class="topNavMenuLink"><a href="/plus/recall/?adcode=CON:TNAV:PLS">Recall Alerts</a></div>
+   <div class="topNavMenuLink"><a href="/plus/reports/?adcode=CON:TNAV:PLS">Consumer Reports Product Reviews</a></div>
+   <div class="topNavMenuLink"><a href="/plus/video/?adcode=CON:TNAV:PLS">Video Library</a></div>
+   <div class="topNavMenuLink"><a href="/plus/rewards/store.jhtml?adcode=CON:TNAV:PLS">BabyCenter Store Savings</a></div>
+   
    <!-- /Non BC Member -->
   
  </div>
@@ -244,76 +287,7 @@ function defwinupdate(inword,inaka,indef){
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="205" valign="top">  
  
-<table border="0" cellpadding="0" cellspacing="0" width="190" class="whiteonTurquoise"> 
-<tbody><tr><td width="5" valign="top" bgcolor="#ffffff"><img src="/i/trans.gif" width="5" height="15"></td>
-<td style="padding: 10;">
-<br> 
-<b><a href="/help/ordering" class="hiliteWhite">Ordering From Our Store</a></b><br>  
-	 
-	 
-	<a href="/help/ordering/checkout" class="hiliteWhite">I've finished shopping. How do I check out?</a><br><a href="/help/ordering/cancel" class="hiliteWhite">How do I change or cancel my order?</a><br><a href="/help/ordering/problems" class="hiliteWhite">I'm having trouble ordering. What can I do?</a><br>•&nbsp;<a href="/help/ordering" class="hiliteWhite">more</a>...<br><br><b><a href="/help/payment" class="hiliteWhite">Paying for Your Order</a></b><br>  
-	 
-	 
-	<a href="/help/payment/options" class="hiliteWhite">What are my payment options?</a><br><a href="/help/payment/cost" class="hiliteWhite">How much will my order cost?</a><br><a href="/help/payment/ccsafety" class="hiliteWhite">Is it safe to use my credit card?</a><br>•&nbsp;<a href="/help/payment" class="hiliteWhite">more</a>...<br><br><b><a href="/help/shipping" class="hiliteWhite">Shipping</a></b><br>  
-	 
-	 
-	<a href="/help/shipping/oversize" class="hiliteWhite">How does BabyCenter handle oversize items?</a><br><a href="/help/shipping/international" class="hiliteWhite">Does BabyCenter ship outside the United States?</a><br><a href="/help/shipping/multipleaddresses" class="hiliteWhite">Can I have my order shipped to more than one address?</a><br>•&nbsp;<a href="/help/shipping" class="hiliteWhite">more</a>...<br><br><b><a href="/help/tracking" class="hiliteWhite">Tracking Your Order</a></b><br>  
-	 
-	 
-	<a href="/help/tracking/orderstatus" class="hiliteWhite">Can I check the status of my order?</a><br><a href="/topic/noorderconf.html" class="hiliteWhite">I didn't receive an order confirmation. What can I do?</a><br><a href="/topic/noshipconf.html" class="hiliteWhite">I didn't receive a shipping confirmation. What can I do?</a><br>•&nbsp;<a href="/help/tracking" class="hiliteWhite">more</a>...<br><br><b><a href="/help/store/gifts" class="hiliteWhite">Gifts and Gift Certificates</a></b><br>  
-	 
-	 
-	<a href="/topic/giftwrap.html" class="hiliteWhite">Can I have an item gift wrapped?</a><br><a href="/topic/message.html" class="hiliteWhite">Can I include a personal message with my gift?</a><br><a href="/topic/giftcerts.html" class="hiliteWhite">Are gift certificates available?</a><br>•&nbsp;<a href="/help/store/gifts" class="hiliteWhite">more</a>...<br><br><b><a href="/topic/returns.html" class="hiliteWhite">Returns</a></b><br>  
-	 
-	 
-	<a href="/help/returns/howtoreturn" class="hiliteWhite">How do I return an item?</a><br><a href="/topic/giftreturn.html" class="hiliteWhite">How do I return a gift?</a><br><a href="/topic/returnstatus.html" class="hiliteWhite">How can I check the status of my return?</a><br>•&nbsp;<a href="/topic/returns.html" class="hiliteWhite">more</a>...<br><br><b><a href="/help/coupons" class="hiliteWhite">Saving Money at BabyCenter</a></b><br>  
-	 
-	 
-	<a href="/help/coupons/get" class="hiliteWhite">How do I get a BabyCenter coupon?</a><br><a href="/help/coupons/rules" class="hiliteWhite">How do I use a BabyCenter coupon?</a><br><a href="/help/coupons/returns" class="hiliteWhite">Can I return an item bought with a coupon?</a><br>•&nbsp;<a href="/help/coupons" class="hiliteWhite">more</a>...<br><br><b><a href="/help/registry" class="hiliteWhite">Gift Registry</a></b><br>  
-	 
-	 
-	<a href="/topic/delete.html" class="hiliteWhite">Can I delete my entire gift registry?</a><br><a href="/help/registry/offers" class="hiliteWhite">Gift Registry special offers</a><br><a href="/topic/phone.html" class="hiliteWhite">Can gift-givers order from a gift registry by phone?</a><br>•&nbsp;<a href="/help/registry" class="hiliteWhite">more</a>...<br><br><b><a href="/topic/security.html" class="hiliteWhite">Shopping Security</a></b><br>  
-	 
-	 
-	<a href="/topic/ccsafety.html" class="hiliteWhite">Is it safe to use my credit card at BabyCenter?</a><br><a href="/help/security/ccauth" class="hiliteWhite">What if someone uses my credit card without my authorization?</a><br><a href="/help/privacy" class="hiliteWhite">BabyCenter Privacy Policy</a><br><br>  
-<br>
-<b><a href="/help/membership" class="hiliteWhite">BabyCenter and ParentCenter Membership</a></b><br>  
-	 
-	 
-	<a href="/help/membership/profile" class="hiliteWhite">How to change your membership profile</a><br><a href="/help/privacy" class="hiliteWhite">BabyCenter Privacy Policy</a><br><a href="/help/membership/password" class="hiliteWhite">Screen name and password help</a><br>•&nbsp;<a href="/help/membership" class="hiliteWhite">more</a>...<br><br><b><a href="/help/newsletters" class="hiliteWhite">Newsletters</a></b><br>  
-	 
-	 
-	<a href="/help/newsletters/about" class="hiliteWhite">About our newsletters</a><br><a href="/help/newsletters/backissues" class="hiliteWhite">How do I get a newsletter I missed?</a><br><a href="/help/newsletters/problems" class="hiliteWhite">My e-mail newsletter looks strange. What's wrong?</a><br>•&nbsp;<a href="/help/newsletters" class="hiliteWhite">more</a>...<br><br><b><a href="/help/howto" class="hiliteWhite">How to Use BabyCenter</a></b><br>  
-	 
-	 
-	<a href="/help/howto/bbs" class="hiliteWhite">Bulletin boards</a><br><a href="/help/howto/experts" class="hiliteWhite">Ask the Experts</a><br><a href="/help/howto/sponsors" class="hiliteWhite"> Sponsored educational areas</a><br>•&nbsp;<a href="/help/howto" class="hiliteWhite">more</a>...<br><br><b><a href="/help/trouble" class="hiliteWhite">Troubleshooting on BabyCenter</a></b><br>  
-	 
-	 
-	<a href="/help/browserinfo" class="hiliteWhite">Recommended Browsers &amp; Settings</a><br><a href="/help/trouble/macusers" class="hiliteWhite">If you have a MacIntosh computer</a><br><br>  
-<b>About Us</b><br> <a href="/help/about/company" class="hiliteWhite">About BabyCenter &amp; ParentCenter</a><br>  
-		<a href="/help/about/awards" class="hiliteWhite">BabyCenter's Honors and Awards </a><br>  
-		<a href="/topic/bcstore.html" class="hiliteWhite">About the BabyCenter Store</a><br>  
-		<a href="/help/privacy" class="hiliteWhite">BabyCenter Privacy Policy</a><br>  
-		<a href="/topic/aboutpremium.html" class="hiliteWhite">About BabyCenter Plus</a><br>  
-		<a href="/help/aboutus/jobs" class="hiliteWhite">Jobs</a><br>  
-		<a href="/topic/pressreleases.html" class="hiliteWhite">Press releases</a><br>  
-		<a href="/help/aboutus/terms" class="hiliteWhite">Terms of use </a><br>  
-		<a href="/topic/affiliateprogram.html" class="hiliteWhite">Store affiliate program</a><br>  
-		<br>
-<b>Contact Us</b><br><a href="/help/contactus/customerservice" class="hiliteWhite">Contact Store customer service</a><br>  
-	<a href="/help/contactus/suggestproducts" class="hiliteWhite">Suggest a product for our Store</a><br>  
-	<a href="/help/contactus/storeproblems" class="hiliteWhite">Report a problem with our Store</a><br>  
-	<a href="/help/contactus/editors" class="hiliteWhite">Contact the editors</a><br>  
-	<a href="/help/contactus/community" class="hiliteWhite">Contact community</a><br>  
-	<a href="/topic/advertising.html" class="hiliteWhite">Contact advertising</a><br>  
-	<a href="/help/contactus/pr" class="hiliteWhite">Contact public relations</a><br>  
-	<a href="/help/contactus/feedback" class="hiliteWhite">Send us feedback</a><br>  
-	  <br> 
-</td> 
-<td><br></td> 
-<td width="10" valign="top" bgcolor="#ffffff"><img src="/i/trans.gif" width="10" height="15"></td></tr> 
-</tbody></table>
-
+<table border="0" cellpadding="0" cellspacing="0" width="190" class="whiteonTurquoise"> <tbody><tr><td width="5" valign="top" bgcolor="#ffffff"><img src="/i/trans.gif" width="5" height="15"></td> <td style="padding: 10;"> <br> <b><a href="/help/ordering" class="hiliteWhite">Ordering From Our Store</a></b><br> <a href="/help/ordering/checkout" class="hiliteWhite">I've finished shopping. How do I check out?</a><br><a href="/help/ordering/cancel" class="hiliteWhite">How do I change or cancel my order?</a><br><a href="/help/ordering/problems" class="hiliteWhite">I'm having trouble ordering. What can I do?</a><br>•&nbsp;<a href="/help/ordering" class="hiliteWhite">more</a>...<br><br><b><a href="/help/payment" class="hiliteWhite">Paying for Your Order</a></b><br> <a href="/help/payment/options" class="hiliteWhite">What are my payment options?</a><br><a href="/help/payment/cost" class="hiliteWhite">How much will my order cost?</a><br><a href="/help/payment/ccsafety" class="hiliteWhite">Is it safe to use my credit card?</a><br>•&nbsp;<a href="/help/payment" class="hiliteWhite">more</a>...<br><br><b><a href="/help/shipping" class="hiliteWhite">Shipping</a></b><br> <a href="/help/shipping/oversize" class="hiliteWhite">How does BabyCenter handle oversize items?</a><br><a href="/help/shipping/international" class="hiliteWhite">Does BabyCenter ship outside the United States?</a><br><a href="/help/shipping/multipleaddresses" class="hiliteWhite">Can I have my order shipped to more than one address?</a><br>•&nbsp;<a href="/help/shipping" class="hiliteWhite">more</a>...<br><br><b><a href="/help/tracking" class="hiliteWhite">Tracking Your Order</a></b><br> <a href="/help/tracking/orderstatus" class="hiliteWhite">Can I check the status of my order?</a><br><a href="/topic/noorderconf.html" class="hiliteWhite">I didn't receive an order confirmation. What can I do?</a><br><a href="/topic/noshipconf.html" class="hiliteWhite">I didn't receive a shipping confirmation. What can I do?</a><br>•&nbsp;<a href="/help/tracking" class="hiliteWhite">more</a>...<br><br><b><a href="/help/store/gifts" class="hiliteWhite">Gifts and Gift Certificates</a></b><br> <a href="/topic/giftwrap.html" class="hiliteWhite">Can I have an item gift wrapped?</a><br><a href="/topic/message.html" class="hiliteWhite">Can I include a personal message with my gift?</a><br><a href="/topic/giftcerts.html" class="hiliteWhite">Are gift certificates available?</a><br>•&nbsp;<a href="/help/store/gifts" class="hiliteWhite">more</a>...<br><br><b><a href="/topic/returns.html" class="hiliteWhite">Returns</a></b><br> <a href="/help/returns/howtoreturn" class="hiliteWhite">How do I return an item?</a><br><a href="/topic/giftreturn.html" class="hiliteWhite">How do I return a gift?</a><br><a href="/topic/returnstatus.html" class="hiliteWhite">How can I check the status of my return?</a><br>•&nbsp;<a href="/topic/returns.html" class="hiliteWhite">more</a>...<br><br><b><a href="/help/coupons" class="hiliteWhite">Saving Money at BabyCenter</a></b><br> <a href="/help/coupons/get" class="hiliteWhite">How do I get a BabyCenter coupon?</a><br><a href="/help/coupons/rules" class="hiliteWhite">How do I use a BabyCenter coupon?</a><br><a href="/help/coupons/returns" class="hiliteWhite">Can I return an item bought with a coupon?</a><br>•&nbsp;<a href="/help/coupons" class="hiliteWhite">more</a>...<br><br><b><a href="/help/registry" class="hiliteWhite">Gift Registry</a></b><br> <a href="/topic/delete.html" class="hiliteWhite">Can I delete my entire gift registry?</a><br><a href="/help/registry/offers" class="hiliteWhite">Gift Registry special offers</a><br><a href="/topic/phone.html" class="hiliteWhite">Can gift-givers order from a gift registry by phone?</a><br>•&nbsp;<a href="/help/registry" class="hiliteWhite">more</a>...<br><br><b><a href="/topic/security.html" class="hiliteWhite">Shopping Security</a></b><br> <a href="/topic/ccsafety.html" class="hiliteWhite">Is it safe to use my credit card at BabyCenter?</a><br><a href="/help/security/ccauth" class="hiliteWhite">What if someone uses my credit card without my authorization?</a><br><a href="/help/privacy" class="hiliteWhite">BabyCenter Privacy Policy</a><br><br> <br> <b><a href="/help/membership" class="hiliteWhite">BabyCenter and ParentCenter Membership</a></b><br> <a href="/help/membership/profile" class="hiliteWhite">How to change your membership profile</a><br><a href="/help/privacy" class="hiliteWhite">BabyCenter Privacy Policy</a><br><a href="/help/membership/password" class="hiliteWhite">Screen name and password help</a><br>•&nbsp;<a href="/help/membership" class="hiliteWhite">more</a>...<br><br><b><a href="/help/newsletters" class="hiliteWhite">Newsletters</a></b><br> <a href="/help/newsletters/about" class="hiliteWhite">About our newsletters</a><br><a href="/help/newsletters/backissues" class="hiliteWhite">How do I get a newsletter I missed?</a><br><a href="/help/newsletters/problems" class="hiliteWhite">My e-mail newsletter looks strange. What's wrong?</a><br>•&nbsp;<a href="/help/newsletters" class="hiliteWhite">more</a>...<br><br><b><a href="/help/howto" class="hiliteWhite">How to Use BabyCenter</a></b><br> <a href="/help/howto/bbs" class="hiliteWhite">Bulletin boards</a><br><a href="/help/howto/experts" class="hiliteWhite">Ask the Experts</a><br><a href="/help/howto/sponsors" class="hiliteWhite"> Sponsored educational areas</a><br>•&nbsp;<a href="/help/howto" class="hiliteWhite">more</a>...<br><br><b><a href="/help/trouble" class="hiliteWhite">Troubleshooting on BabyCenter</a></b><br> <a href="/help/browserinfo" class="hiliteWhite">Recommended Browsers &amp; Settings</a><br><a href="/help/trouble/macusers" class="hiliteWhite">If you have a MacIntosh computer</a><br><br> <b>About Us</b><br> <a href="/help/about/company" class="hiliteWhite">About BabyCenter &amp; ParentCenter</a><br> <a href="/help/about/awards" class="hiliteWhite">BabyCenter's Honors and Awards </a><br> <a href="/topic/bcstore.html" class="hiliteWhite">About the BabyCenter Store</a><br> <a href="/topic/aboutpremium.html" class="hiliteWhite">About BabyCenter Plus</a><br> <a href="/help/aboutus/jobs" class="hiliteWhite">Jobs</a><br> <a href="/topic/pressreleases.html" class="hiliteWhite">Press releases</a><br> <a href="/help/aboutus/terms" class="hiliteWhite">Terms of use </a><br> <a href="/topic/affiliateprogram.html" class="hiliteWhite">Store affiliate program</a><br> <a href="/help/privacy" class="hiliteWhite">BabyCenter Privacy Policy</a><br> <br> <br> </td> <td><br></td> <td width="10" valign="top" bgcolor="#ffffff"><img src="/i/trans.gif" width="10" height="15"></td></tr> </tbody></table> 
   
 </td>   
 
@@ -325,7 +299,7 @@ function defwinupdate(inword,inaka,indef){
 <b><font size="4">Privacy &amp; Security</font></b><br><br>
 
 <b><font color="#3366cc">Welcome</font></b><br>
-Welcome to <b>BabyCenter.com</b> and <b>ParentCenter.com</b>, web sites owned by BabyCenter, L.L.C.  This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site.  Please be sure to read this entire Privacy Policy before using or submitting information to this site.  
+Welcome to <b>BabyCenter.com</b> and <b>ParentCenter.com</b>, <b>baby.com</b>, and <b>pregnancy.com</b>, web sites owned by BabyCenter, L.L.C.  This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site.  Please be sure to read this entire Privacy Policy before using or submitting information to this site.  
 
 <p><b><font color="#3366cc">Your Consent</font></b><br>
 By using this site, you agree to the terms of this Privacy Policy and the BabyCenter <a href="/help/aboutus/terms">Terms of Use</a>.  Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
@@ -347,8 +321,10 @@ As you navigate through this site, certain anonymous information can be passivel
 Except as otherwise stated, we may use information collected via this site to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for any other purpose specified.  We may use personally identifiable information to contact you in relation to a transaction (e.g., we may telephone you to update you on the delivery status of an order for goods).  In addition, we may make full use of all information acquired through this site that is not in personally identifiable form.
 
 </p><p>If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection.  We also may disclose personally identifiable information you provide via this site to third parties, but only:
-</p><blockquote><p>(i) to carefully selected partners who have offers that may be of interest to you, provided you have requested such offers, in which case we will require such partners  to agree to treat it in accordance with this Privacy Policy and use it for the same purposes.
-</p><p>(ii) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes;
+</p><blockquote><p>(i) to carefully selected partners who have offers that may be of interest to you, provided you have requested such offers, in which case we will require such partners  to agree to treat it in accordance with this Privacy Policy and use it for the same purposes.  
+
+</p><p>(ii) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. One such contractor is DoubleClick, Inc., who manages many of the advertisements you see on the Web site. For more information on DoubleClick, including your choices on how
+DoubleClick uses certain non-personal information, click <a href="http://www.babycenter.com/misc/privacy-doubleclick.jhtml" target="_blank" onclick="new ChildWindow({url:'http://www.babycenter.com/misc/privacy-doubleclick.jhtml', width:550, height:300, scrollbars:true});return false;">here</a>;
 </p><p>(iii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or
 </p><p>(iv) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations.
 </p></blockquote>
@@ -369,13 +345,13 @@ This site takes reasonable steps to protect personally identifiable information 
 This site may contain links or references to other Web sites to which this Privacy Policy does not apply.  We encourage you to read the Privacy Policy of every Web site you visit.
 
 </p><p><b><font color="#3366cc">How to Contact Us</font></b><br>
-To keep your personally identifiable information accurate, current, and complete, please visit our member center at http://www.babycenter.com/members/, or contact us as follows: 
+To keep your personally identifiable information accurate, current, and complete, please visit our member center at <a href="http://www.babycenter.com/members/">http://www.babycenter.com/members</a>, or contact us as follows: 
 
 </p><blockquote><b>BabyCenter, L.L.C.<br>
 Attention: Customer Service<br>
 163 Freelon St.<br>
 San Francisco, CA  94107<br>
-feedback@babycenter.com<br>
+<a href="http://www.babycenter.com/contactus/?form=membership">http://www.babycenter.com/contactus</a><br>
 1-866-241-2229<br>
 </b></blockquote>
 <p>If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, please contact us as follows:
@@ -390,53 +366,74 @@ privacy@babycenter.com<br>
 
 
 </font><p><font face="Arial,helvetica,sans-serif" size="2"><b><font color="#3366cc">Changes to This Privacy Policy</font></b><br>
-If this Privacy Policy changes, the revised policy will be posted on this site.  Please check back periodically, and especially before you provide any personally identifiable information.  This Privacy Policy was last updated on <b>June 6, 2003</b>.
+If this Privacy Policy changes, the revised policy will be posted on this site.  Please check back periodically, and especially before you provide any personally identifiable information.  This Privacy Policy was last updated on <b>April 20, 2004</b>.
 
 <br><br><br><a href="/help"><img src="/i/help/return.gif" width="123" height="63" border="0" align="right"></a></font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
 </p></td></tr></tbody></table>  
-<p><font size="-1">Version 4.0</font>  
+<p><font size="-1">Version 4.3</font>  
 <br> 
 
 <!-- $Source: /vob/app_fa_ho/binky/bc/app/frag/jhtml/foot.jhtml $ -->
-<!-- $Date: 5-Dec-2003.01:51:15 $ $Revision: /main/98 $ $State: CHECKEDIN $ $Author: evs $ -->
+<!-- $Date: 15-Apr-2004.23:48:23 $ $Revision: /main/109 $ $State: CHECKEDIN $ $Author: meredithg $ -->
 
-  </p></td></tr></tbody></table>
-  <table border="0" width="770" cellpadding="0" cellspacing="0" class="whiteOnTurquoise">
-   <!-- bottom navigation panel -->
-   <tbody><tr><td height="3"></td></tr>
-   <tr>
-    <td align="center" style="font-size: 8pt;">
-     <a href="/_r//|footer:logo"><img src="/i/frag/bclogo112x50.gif" width="112" height="50" alt="" border="0"></a><br>
-     <strong>Get Help:</strong>&nbsp;&nbsp;<a href="/help/" class="hiliteWhite">Help Center</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/contactus" class="hiliteWhite">Contact us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/orderstatus/" class="hiliteWhite">Order status</a>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Membership &amp; Newsletters:</strong>&nbsp;&nbsp;<a href="/members/profile/?adcode=CON:REG:FOOT" class="hiliteWhite">Sign up</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/unsubscribe/" class="hiliteWhite">Unsubscribe</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/members/profile/" class="hiliteWhite">Update profile</a><br>
-     <strong>Behind the Scenes:</strong>&nbsp;&nbsp;<a href="/help/aboutus" class="hiliteWhite">About BabyCenter</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/mediakit/" class="hiliteWhite">Advertisers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/affiliateprogram" class="hiliteWhite">Affiliates</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/aboutus/copyrights" class="hiliteWhite">Copyright</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/aboutus/privacy" class="hiliteWhite">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/aboutus/terms" class="hiliteWhite">Terms of use</a><br>
-     <strong>Our other sites:</strong>&nbsp;&nbsp;<a href="/uk" class="hiliteWhite">BabyCentre UK</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pc" class="hiliteWhite">ParentCenter</a><br>
+
+
+
+</p></td></tr></tbody></table>
+
+<table border="0" width="770" cellpadding="0" cellspacing="0" class="whiteOnTurquoise">
+<!-- bottom navigation panel -->
+<tbody><tr>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td align="center" style="font-size: 8pt;"><a href="/"><img src="/i/frag/bclogo112x50.gif" width="112" height="50" alt="BabyCenter" border="0"></a><br><strong>Get Help:</strong>&nbsp;&nbsp;<a href="/help/" class="hiliteWhite">Help Center</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/contactus" class="hiliteWhite">Contact us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/orderstatus/" class="hiliteWhite">Order status</a>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Membership &amp; Newsletters:</strong>&nbsp;&nbsp;<a href="/members/profile/?adcode=CON:REG:FOOT" class="hiliteWhite">Sign up</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/unsubscribe/" class="hiliteWhite">Unsubscribe</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/members/profile/" class="hiliteWhite">Update profile</a><br><strong>Behind the Scenes:</strong>&nbsp;&nbsp;<a href="/help/aboutus" class="hiliteWhite">About BabyCenter</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/mediakit/" class="hiliteWhite">Advertisers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/affiliateprogram" class="hiliteWhite">Affiliates</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/aboutus/copyrights" class="hiliteWhite">Copyright</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/aboutus/privacy" class="hiliteWhite">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/aboutus/terms" class="hiliteWhite">Terms of use</a><br><strong>Our other sites:</strong>&nbsp;&nbsp;<a href="/uk" class="hiliteWhite">BabyCentre UK</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pc" class="hiliteWhite">ParentCenter</a><br>
 <div style="padding:10;">
-All contents <a href="/help/aboutus/copyrights" class="fineprintWhite">copyright</a> © BabyCenter, L.L.C. 1997-2003 All rights reserved. This internet site provides information of a general nature and is designed for educational purposes only. If you have any concerns about your own health or the health of your child, you should always consult with a physician or other healthcare professional. Please review the <a href="/help/aboutus/terms" class="fineprintWhite">Terms of Use</a> before using this site. Your use of the site indicates your agreement to be bound by the <a href="/help/aboutus/terms" class="fineprintWhite">Terms of Use</a>.
-</div>
-    </td>
-   </tr>
-   <tr><td height="8"></td></tr>
-   <!-- /bottom navigation panel -->
-  </tbody></table><br>
-  <img border="0" height="1" width="778"></td>
-  <td class="mediumGrey"><img height="1" width="1"></td>
- </tr>
-</tbody></table></div>
+All contents <a href="/help/aboutus/copyrights" class="fineprintWhite">copyright</a> © BabyCenter, L.L.C.
+1997-2004
 
-<script language="javascript1.3">
-if(window.addLoadEvent&&window.ACM){addLoadEvent(function(){ACM.display()});ACM.init();}
+All rights reserved. This internet site provides information of a general nature and is designed for educational purposes only. If you have any concerns about your own health or the health of your child, you should always consult with a physician or other healthcare professional. Please review the <a href="/help/aboutus/terms" class="fineprintWhite">Terms of Use</a> before using this site. Your use of the site indicates your agreement to be bound by the <a href="/help/aboutus/terms" class="fineprintWhite">Terms of Use</a>.
+</div>
+<!-- $eve/app/misc-docs/pricetime.jhtml--><a href="/priceless/DWE5IHX53OTACCUAQI1CIIQ/2197124.html"><img src="/priceless/DWE5IHX53OTACCUAQI1CIIQ/2197124.gif" width="1" height="1" border="0" alt=""></a><!--/ $eve/app/misc-docs/pricetime.jhtml -->
+
+</td>
+</tr>
+
+<tr>
+<td height="8"></td>
+</tr>
+
+<!-- /bottom navigation panel -->
+</tbody></table>
+<br>
+<img border="0" height="1" width="778"></td>
+<td bgcolor="#666666"><img height="1" width="1"></td>
+</tr>
+
+</tbody></table>
+</div>
+
+
+<script language="javascript1.3">if(window.addLoadEvent&&window.ACM){addLoadEvent(function(){ACM.display()});ACM.init();}
 </script>
+
+
 <!-- $Source: /vob/app_fa_ho/binky/bc/app/frag/jhtml/bwtest.jhtml $ -->
-<!-- $Date: 5-Dec-2003.01:51:12 $ $Revision: /main/9 $ $State: CHECKEDIN $ $Author: evs $ -->
+<!-- $Date: 1-Feb-2004.06:54:08 $ $Revision: /main/10 $ $State: CHECKEDIN $ $Author: evs $ -->
 <!-- $bc/app/frag/jhtml/bwtest.jhtml -->
 
 <!-- $bc/app/frag/jhtml/bwtest.jhtml -->
 <!-- / $Source: /vob/app_fa_ho/binky/bc/app/frag/jhtml/bwtest.jhtml $ -->
+
+
+
 
 <!--startindex-->
 
 <!-- / $Source: /vob/app_fa_ho/binky/bc/app/frag/jhtml/foot.jhtml $ -->
 
 
-<!-- / $Source: /vob/app_rm_to/binky/bc/app/topic/jhtml/topic.jhtml $ -->
+
+	<!-- / $Source: /vob/app_rm_to/binky/bc/app/topic/jhtml/topic.jhtml $ -->
 </body></html>
