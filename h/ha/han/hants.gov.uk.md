@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203025745id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602111435id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Hantsweb
 
@@ -63,8 +63,8 @@ Delivers (serves up) web pages to your computer.
 
 ## Trademark and Copyright Information
 
-Hantsweb is a Registered® Trademark. Please read our [Copyright Statement](https://web.archive.org/web/20021203025745id_/http%3A//www.hants.gov.uk/copyrite.html) for more information.
+Hantsweb is a Registered® Trademark. Please read our [Copyright Statement](https://web.archive.org/web/20030602111435id_/http%3A//www.hants.gov.uk/copyrite.html) for more information.
 
-Top of this page       [](https://web.archive.org/index.html) [Hantsweb Homepage](https://web.archive.org/index.html)      [](https://web.archive.org/web/20021203025745id_/http%3A//www.hants.gov.uk/copyrite.html) [Hantsweb® Copyright Statement](https://web.archive.org/web/20021203025745id_/http%3A//www.hants.gov.uk/copyrite.html)
+Top of this page       [](https://web.archive.org/index.html) [Hantsweb Homepage](https://web.archive.org/index.html)      [](https://web.archive.org/web/20030602111435id_/http%3A//www.hants.gov.uk/copyrite.html) [Hantsweb® Copyright Statement](https://web.archive.org/web/20030602111435id_/http%3A//www.hants.gov.uk/copyrite.html)
 
 * * *
