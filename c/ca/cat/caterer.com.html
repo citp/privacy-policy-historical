@@ -1,22 +1,86 @@
-<!--The following is the downloaded HTML source of the caterer.com privacy policy that was archived on 2003-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031022134932id_/http%3A//www.caterer.com/help/PPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caterer.com privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606041559id_/http%3A//www.caterer.com/help/PPolicy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
+var gsSelected =',,';
+var gsExclusive=',,';
+var gsControl  ='';
+var gbEmptySelected=false;
+var gbClosing=true;
+
+function SelectionChange(TheForm) {
+	var loSelList = TheForm;
+	for(var i=0; i<loSelList.options.length; i++) {
+		if(loSelList.options[i].selected) {
+			if(gsExclusive.indexOf(',' + loSelList.options[i].value + ',') != -1 && !gbEmptySelected) {
+				for(var j=0; j<loSelList.options.length; j++) {
+					if(j != i) loSelList.options[j].selected = false;
+				}
+				gbEmptySelected = true;
+				return;
+			}
+			else {
+				for(var j=0; j<loSelList.options.length; j++) {
+					if(gsExclusive.indexOf(',' + loSelList.options[i].value + ',') != -1)
+						loSelList.options[j].selected = false;
+				}
+				gbEmptySelected = false;
+			}
+		}
+	}
+}
+
+
 function SubmitForm(TheForm)
 {
 	//alert("Submitting details...");
 	return true
 }
-
+/*
 function ValidateForm(TheForm)
 {
 	//alert("validating details...");
 	document.JobSearch.submit();
 }
-
+*/
 function TipsPop()
 {
 	window.open('../HELP/tips.asp','', 'width=400px,height=350px,scrollbars=yes');
+}
+
+function ValidateForm(TheForm){
+	var jtSelList = TheForm.JobType1;
+	var loSelList = TheForm.Locations;
+	var lsIds1 = '';
+	var lsIds2 = '';
+	var liCount1 = 0;
+	var liCount2 = 0;
+	
+	for (var liIdx1 = 0; liIdx1 != jtSelList.length; liIdx1++) {
+		if (jtSelList.options[liIdx1].selected) {
+			lsIds1 = lsIds1 + ',' + jtSelList.options[liIdx1].value;
+			liCount1++;
+		}
+		//if more than 10 job types selected return alrert message
+		if (liCount1 > 10) {
+			alert('You have selected too many job types. The maximum is 10.\nEither select fewer job types, or choose "All" from the menu.');
+			return false;
+		}
+	}
+	
+	for (var liIdx2 = 0; liIdx2 != loSelList.length; liIdx2++) {
+		if (loSelList.options[liIdx2].selected) {
+			lsIds2 = lsIds2 + ',' + loSelList.options[liIdx2].value;
+			liCount2++;
+		}
+		//if more than 35 locations selected return alert message
+		if (liCount2 > 35) {
+			alert('You have selected too many locations. The maximum is 35.\nEither select fewer locations, or choose "All Regions" from the menu.');
+			return false;
+		}
+	}
+	
+	document.JobSearch.submit();
 }
 </script>
 
@@ -31,9 +95,12 @@ jobs in hotels, leisure job, London employment, London job, London jobs, London 
 
 <meta name="robots" content="ALL">
 <meta name="revisit-after" content="15 days">
-
+<script language="javascript" src="/inc/optin.js"></script>
 
 <link rel="stylesheet" type="text/css" href="/CSS/Caterer.css">
+<style type="text/css">
+.btn{font-family:arial;font-size:12;color:#ffffff;font-weight:bold;background-color:#9e9ecf;}
+</style>
 </head>
 
 <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -45,11 +112,10 @@ jobs in hotels, leisure job, London employment, London job, London jobs, London 
 
 <table width="768" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr> 
-<td width="217" height="49" align="center" class="tbg1"><a href="/jobs/jobsearch.asp"><img src="/IMG/211x44_logo.gif" width="211" height="44" border="0" alt="Caterer.com - the best place to find catering jobs"></a></td>
-<td width="1" height="49"><img alt="*" src="/IMG/_.gif" width="1"></td>
-<td class="tbg2" width="550" align="right" height="49"> 
+<td width="341" height="52" align="center" class="tbg1"><a href="/jobs/jobsearch.asp"><img src="/IMG/337x47_js_logo.gif" width="337" height="47" border="0" alt="Caterer.com - the best place to find catering jobs"></a></td>
+<td class="tbg2" width="412" align="right" height="52"> 
 <!--Write RZ and CCP link-->
-<table width="110" height="20" cellspacing="0" cellpadding="0" class="tnb" border="0">
+<table width="220" height="20" cellspacing="0" cellpadding="0" class="tnb" border="0">
 <tbody><tr>
 <td id="frd" align="center" class="tnv1" width="110" onmouseover="MouseOver('frd');" onmouseout="MouseOut('frd');" onclick="RedirectURL('frd');">
 <a id="fra" href="http://recruiter.caterer.com" class="tnv4">
@@ -58,24 +124,17 @@ For recruiters
 
 </a>
 </td> 
-<!--
+
 <td width="1" class="tbg3"><img alt="*" src="/IMG/_.gif" width="1"></td>
 
-<td id="pjd" 
-align="center" 
-class="tnv1"
-width="110"  
-onmouseover="MouseOver('pjd');"
-onmouseout="MouseOut('pjd');"
-onclick="RedirectURL('pjd');"
->
-<a id="pja" href="#" class="tnv4">		
+<td id="pjd" align="center" class="tnv1" width="110" onmouseover="MouseOver('pjd');" onmouseout="MouseOut('pjd');" onclick="RedirectURL('pjd');">
+<a id="pja" href="http://recruiter.caterer.com/recruiters/ccp/caterer/instantjobposting.asp" class="tnv4">		
 
 Post a job now
 						
 </a>
 </td>
--->
+
 </tr>
 </tbody></table>
 </td>
@@ -156,7 +215,7 @@ Advice
 <table width="768" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr> 
 <td width="5" height="26"><img src="/IMG/_.gif" width="5" height="26" alt="*"></td>
-<td align="right" class="date">Wednesday&nbsp;22 October 2003</td>
+<td align="right" class="date">Sunday&nbsp;06 June 2004</td>
 </tr>
 </tbody></table>
 
@@ -266,7 +325,7 @@ if (cell == 'mcd'){url = '/asp/caterer/personalised/mycaterer.asp';}
 if (cell == 'scd'){url = '/jobs/JobSearch.asp';}
 if (cell == 'avd'){url = '/advice/index.asp';}
 if (cell == 'frd'){url = '/jobs/JobSearch.asp';}
-if (cell == 'pjd'){url = '/jobs/JobSearch.asp';}
+if (cell == 'pjd'){url = 'http://recruiter.cwjobs.co.uk/recruiters/ccp/caterer/instantjobposting.asp';}
 window.navigate(url);
 }
 -->
@@ -299,7 +358,7 @@ window.navigate(url);
 	  <td><br>
 At Caterer.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of the information you may give us while using the site.<br><br>
  
-You can remove any of the information that Caterer.com stores about you, at any time, by logging in to your ‘My Caterer’ account and clicking on ‘close this account’.<br><br>
+You can remove any of the information that Caterer.com stores about you, at any time, by logging in to your 'My Caterer' account and clicking on 'close this account'.<br><br>
 
 <i>Privacy policy update (15 October, 2003)</i><br><br>
  
@@ -308,13 +367,18 @@ You can remove any of the information that Caterer.com stores about you, at any 
 Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested.<br> 
 Caterer.com will use the aggregate data to identify employment trends across different industries, such as salary averages. This information will not be capable of being linked to any personally identifying information about users. <br>
 Some of our customers may be located in countries outside the European Economic Area. 
-When you ‘apply online’, we store some information about you in your ‘My Caterer’ area, but it is protected by your password and may only be accessed by you. You can delete your ‘My Caterer’ account at any time.<br><br> 
+When you 'apply online', we store some information about you in your 'My Caterer' area, but it is protected by your password and may only be accessed by you. You can delete your 'My Caterer' account at any time.<br><br> 
 
+<a name="cookiepolicy"></a>
 <b>Cookies</b><br>
- 
-Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access Caterer.com and to provide you with a convenient means of access to personal pages. They also protect the integrity of registered user names and passwords and limit access to 'paid for' services. 
-In addition, the third party companies who sell and provide advertisements to the site, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites, please go to: Adtech's <a class="rh1" href="http://www.adtech.info/privacy_en.php">privacy policy</a>.<br><br>
- 
+Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access the Caterer web site and to provide you with a convenient means of access. The cookies we use also protect the integrity of registered user names and passwords and limit access to 'paid for' services.  We also use cookies to collect aggregate statistical information about the use of our site (see <b>Statistical information</b> below).
+<br><br>There is no personally identifiable information held on cookies.  An example of a cookie is below.
+<ul>10.20.25.21- 2020212848.29592612::413EA8A33A38AC8CCE09CC624E8B4758</ul>
+You have the option to decline or accept these cookies, but if you decline you will not be able to access the personalised areas of the site. This means you will not be able to access your application list, jobs file or set up any jobs by emails.
+<br><br><b>We strongly recommend you accept cookies.</b>
+<br><br><input type="button" value=" ACCEPT COOKIES " class="btn" onclick="javascript:acceptcookies(true);" title="accept cookeies">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:declinecookies()" class="fl">Decline cookies</a>
+<br><br>In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: <a href="http://www.adtech.info/privacy_en.php" class="fl" target="_blank"><b>Adtech</b></a> and <a href="http://www.bluestreak.com" class="fl" target="_blank"><b>Bluestreak</b></a>.
+<br><br> 
 <b>Statistical information</b> <br>
 
 We provide aggregate statistical information about site visitors and users to recruiters (such as the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals.<br><br>
@@ -338,14 +402,34 @@ The site is protected against unauthorised access using the latest security devi
   </tr>
   <tr align="center"> 
     <td colspan="6">
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr align="center"> 
-<td colspan="7" class="ft"><br><br>
+    <script language="javascript" src="/inc/optin.js"></script>
+<style type="text/css">
+.btn{font-family:arial;font-size:12;color:#ffffff;font-weight:bold;background-color:#9e9ecf;}
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td align="center">
+<script language="javascript">
+var cookieOptIn = GetCookieByName ('PJBOPTIN');
+	if ((cookieOptIn == null) && (location.pathname.substring(0,4)!='/ASP')){
+		document.write ('<tr><td><br><br><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td align="center">\n');
+		document.write ('<b>Cookie warning:</b> This site uses cookies. <a href="/help/PPolicy.asp#cookiepolicy"); class="fl">More information...</a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="javascript:acceptcookies(true);" class="fl">Accept cookies</a>&#160;&#160;&#160;&#160;&#160;<a href="javascript:declinecookies()" class="fl">Decline cookies</a>\n');
+		document.write ('</td></tr></table><br></td></tr>\n');
+	}
+	else {
+		document.write('<tr><td><br><br></td></tr>');
+	}
+</script></td></tr><tr><td><br><br><table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tbody><tr><td align="center">
+<b>Cookie warning:</b> This site uses cookies. <a href="/help/PPolicy.asp#cookiepolicy" );="" class="fl">More information...</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:acceptcookies(true);" class="fl">Accept cookies</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:declinecookies()" class="fl">Decline cookies</a>
+</td></tr></tbody></table><br></td></tr>
+
+
+<tr align="center"> 
+<td colspan="7" class="ft">
 <a href="/jobs/JobSearch.asp" class="fl">Job search</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/jbe/jobsbyemail.asp" class="fl">Jobs by email</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/asp/caterer/personalised/mycaterer.asp" class="fl">My Caterer</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/ie/main.asp" class="fl">Employers index</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="/SAL/main.asp" class="fl">Salary checker</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/SAL/salarychecker.asp" class="fl">Salary checker</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/advice/index.asp" class="fl">Advice</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="http://recruiter.caterer.com" class="fl">For recruiters</a><br>
 <a href="/help/disclaimer.asp" class="fl">Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -355,7 +439,7 @@ The site is protected against unauthorised access using the latest security devi
 <a href="/help/T_C.asp#BPTable" class="fl">Browser policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/help/about_us.asp" class="fl">About us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/help/contact_us.asp" class="fl">Contact us</a>
-<br>© copyright and database rights The Potential Job Board Company Limited 2003<br><br></td>
+<br>© copyright and database rights The Potential Job Board Company Limited 2004<br><br></td>
 </tr>
 </tbody></table>
     </td>
