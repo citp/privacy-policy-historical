@@ -1,1464 +1,416 @@
-<!--The following is the downloaded HTML source of the shrm.org privacy policy that was archived on 2002-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021217040304id_/http%3A//shrm.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shrm.org privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621165701id_/http%3A//www.shrm.org/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>SHRM Privacy Standard</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-US"><head>
+<title>SHRM Online Privacy Statement</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+
+<meta name="pdate" content=""> 
+
+<meta name="cdate" content=""> 
+
+<script language="javascript">
+// ======================================================================
+// Javascript to be included in all SHRM webpages
+// ======================================================================
+
+
+// ======================================================================
+// Javascript supplied by Travis Low (travis@dawnstar.org)
+// ======================================================================
+var popupshown = false;
+var popup;
+// ...................................................... openPersistentExternal
+// Display a url in a subordinate window.  This window
+// remains open when the parent window is unloaded.
+// 
+function openPersistentExternal( link, h, w )
+{
+    if( ! h ) h = 600;
+    if( ! w ) w = 800;
+    persistent = window.open( link, "persistent", "height="+h+",width="+w+",resizable,scrollbars");
+    persistent.focus();
+}
+
+// ...................................................... openExternal
+// Display a url in a subordinate window.  This window
+// closes when the parent window is unloaded.
+// 
+function openExternal( link, h, w )
+{
+    if( ! h ) h = 600;
+    if( ! w ) w = 800;
+    popup = window.open( link, "popup", "height="+h+",width="+w+",resizable,scrollbars");
+    popup.focus();
+    popupshown = true;
+}
+
+// ...................................................... OpenExternal
+// Hack because javascript is case sensitive, and many
+// pages were written in case-insensitive fashion.
+// 
+function OpenExternal( link, h, w )
+{
+    openExternal( link, h, w );
+}
+
+// ======================================================================
+// Javascript supplied by Applied Theory
+// ======================================================================
+
+// ...................................................... checkNetMac
+// Return true if the browser is Netscape.
+// 
+function checkNetMac()
+{
+    if(navigator.appName == "Netscape")
+    {
+        return true;
+    }
+}
+
+// ...................................................... wrtForm
+// Write the a text input element to the browser window
+// 
+function wrtForm()
+{
+    if(checkNetMac())
+    {
+        document.write("<input type='text' value='' class='frmSize' id='txtFind' name='querytext' size='7'>");
+    }
+    else
+    {
+        document.write("<input type='text' value='' class='frmSize' id='txtFind' name='querytext' size='10'>");
+    }
+}
+
+// ----------------------------------------------------------------------
+// Date handling variables and functions.
+// 
+// These should be replaced with the appropriate javascript native
+// date formatting functions.
+// ----------------------------------------------------------------------
+theDate= new Date();
+daystext = new Array();
+months = new Array();
+daysnum = new Array();
+years = new Array();
+daystext[1] = "Sunday";
+daystext[2] = "Monday";
+daystext[3] = "Tuesday";
+daystext[4] = "Wednesday";
+daystext[5] = "Thursday";
+daystext[6] = "Friday";
+daystext[7] = "Saturday";
+months[1] ="January";
+months[2] ="February";
+months[3] ="March";
+months[4] ="April";
+months[5] ="May";
+months[6] ="June";
+months[7] ="July";
+months[8] ="August";
+months[9] ="September";
+months[10] ="October";
+months[11] ="November";
+months[12] ="December";
+daysnum[1] ="1";
+daysnum[2] ="2";
+daysnum[3] ="3";
+daysnum[4] ="4";
+daysnum[5] ="5";
+daysnum[6] ="6";
+daysnum[7] ="7";
+daysnum[8] ="8";
+daysnum[9] ="9";
+daysnum[10] ="10";
+daysnum[11] ="11";
+daysnum[12] ="12";
+daysnum[13] ="13";
+daysnum[14] ="14";
+daysnum[15] ="15";
+daysnum[16] ="16";
+daysnum[17] ="17";
+daysnum[18] ="18";
+daysnum[19] ="19";
+daysnum[20] ="20";
+daysnum[21] ="21";
+daysnum[22] ="22";
+daysnum[23] ="23";
+daysnum[24] ="24";
+daysnum[25] ="25";
+daysnum[26] ="26";
+daysnum[27] ="27";
+daysnum[28] ="28";
+daysnum[29] ="29";
+daysnum[30] ="30";
+daysnum[31] ="31";
+years[2000] ="2000";
+years[2001] ="2001";
+years[2002] ="2002";
+years[2003] ="2003";
+years[2004] ="2004";
+years[2005] ="2005";
+years[2006] ="2006";
+years[2007] ="2007";
+years[2008] ="2008";
+years[2009] ="2009";
+years[2010] ="2010";
+
+var dt = theDate.getDay()+1;
+var y = theDate.getFullYear();
+var m = theDate.getMonth()+1;
+var dn = theDate.getDate();
+
+// ...................................................... setDay
+// Write the day of week to the browser window.
+// 
+function setDay()
+{
+    document.write(daystext[dt]);
+}
+
+// ...................................................... setDate
+// Write the date to the browser window.
+// 
+function setDate()
+{
+    document.write(months[m]); // month
+    document.write('&nbsp;');
+    document.write(daysnum[dn]); // day
+    document.write(',&nbsp;');
+    document.write(years[y]); // year
+}
+
+</script>
+<link rel="stylesheet" type="text/css" href="/styles_net.css">
+<link rel="stylesheet" type="text/css" href="/styles_print.css" media="print">
 </head>
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onclick="init()">
+<body bgcolor="#FFFFFF" text="#000000" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="if( typeof init == 'function' ) { init(); };" onunload="if( popupshown ) { popup.close(); popupshown = false; }; if( typeof xit == 'function' ) { xit(); };">
+
+<!-- ============================================================ -->
+<!--                         MAIN DOCUMENT                        -->
+<!--                                                              -->
+<!--                                                              -->
+<!-- This document is basically a table with two rows.  The top   -->
+<!-- row is the masthead, and the bottom row contains three       -->
+<!-- cells.  The first cell contains the sidebar, the second      -->
+<!-- contains the document body, and the third contains the login -->
+<!-- box and doubleclick advertisement.                           -->
+<!--                                                              -->
+<!-- ============================================================ -->
+
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+
+  <!-- **************************************** -->
+  <!--            BEGIN MASTHEAD                -->
+  <!-- **************************************** -->
+  <tbody><tr> 
+    <td colspan="3" class="noprint">
+      <table border="0" cellpadding="0" cellspacing="0" bgcolor="#113B63" height="160">
+        <tbody><tr>
+          <td valign="top"><a href="/"><img src="/images/top_logo2.gif" width="107" height="159" alt="[Image]: HR" border="0"></a></td>
+          <td>
+            <table border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td background="/images/bg02.gif" height="82" align="center">
+<!-- Ad count: 1 -->
+<!-- Ad sql: select href,imgsrc,height,width,ifrsrc,ilysrc from bannerads left join adtype on adtype_id=id where name='Band-Aid' and page ='' -->
+<a href="/conferences/annual/"><img src="/images/Ads/061603_annualsavings.gif" border="0" width="120" height="60" alt="Advertisement"></a>
+<img src="/images/blank.gif" alt="" width="20" height="1" align="absmiddle">
+<!-- Ad count: 1 -->
+<!-- Ad sql: select href,imgsrc,height,width,ifrsrc,ilysrc from bannerads left join adtype on adtype_id=id where name='Large Banner' and page ='' -->
+<iframe src="http://ad.doubleclick.net/adi/shrm.dart/home;sz=468x60;ord=687685?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"><a href="http://ad.doubleclick.net/jump/shrm.dart/home;abr=!ie;sz=468x60;order=687685?"><img src="http://ad.doubleclick.net/ad/shrm.dart/home;abr=!ie;sz=468x60;order=687685?" border="0" width="468" height="60" alt="Advertisement"></A></iframe></td>
+              </tr>
+              <tr>
+                <td>
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td rowspan="2" valign="top" height="77"><img src="/images/top_type.gif" width="388" height="77" alt="[Image]: SHRM Online"></td>
+                      <td height="61"><img src="/images/top_valprop.gif" width="275" height="61" alt="[Image]: People"></td>
+                    </tr>
+                    <tr>
+                      <td valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" height="16" class="imgtop">
+                          <tbody><tr>
+                            <td class="imgtop"><a href="/join/"><img src="/images/top_join2.gif" width="80" height="16" border="0" alt="[Link]: Join/Renew"></a></td>
+                            <td class="imgtop"><a href="/sitemap/"><img src="/images/top_sitemap2.gif" width="65" height="16" border="0" alt="[Link]: Site Map"></a></td>
+                            <td class="imgtop"><a href="/sitehelp"><img src="/images/top_help2.gif" width="65" height="16" border="0" alt="[Link]: Help"></a></td>
+                            <td class="imgtop"><a href="/help/"><img src="/images/top_contact2.gif" width="65" height="16" border="0" alt="[Link]: Contact"></a></td>
+                          </tr>
+                        </tbody></table>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <!-- **************************************** -->
+  <!--              END MASTHEAD                -->
+  <!-- **************************************** -->
+
+  <tr> 
+    <td valign="top" height="100%" width="140" bgcolor="#113B63" class="noprint">
+      <!-- **************************************** -->
+      <!--         BEGIN LEFT SIDEBAR               -->
+      <!-- **************************************** -->
+      <table cellpadding="0" cellspacing="0" border="0" height="100%" width="140">
+        <tbody><tr>
+          <td valign="top">
+            <!-- **************************************** -->
+            <!--          BEGIN NAVIGATION                -->
+            <!--                                          -->
+            <!--  The navigation will be different on     -->
+            <!--  different pages.                        -->
+            <!--                                          -->
+            <!--  Most likely, navigation is dependent    -->
+            <!--  on the current directory.               -->
+            <!--                                          -->
+            <!-- **************************************** -->
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr><td height="20"><a href="/"><img src="/images/nav_home02.gif" width="140" height="20" alt="[Image]: Home"></a></td></tr>
+              <tr><td height="20"><a href="/about"><img src="/images/nav_about01.gif" width="140" height="20" border="0" alt="[Link]: About SHRM"></a></td></tr>
+              <tr><td><a href="/chapmemgrps/"><img src="/images/nav_groups01.gif" width="140" height="20" border="0" alt="[Link]: Chapter/Member Groups"></a></td></tr>
+              <tr><td><a href="/chat/"><img src="/images/nav_chat01.gif" width="140" height="20" border="0" alt="[Link]: Chats &amp; Bulletin Boards"></a></td></tr>
+              <tr><td><a href="/education/"><img src="/images/nav_edu01.gif" width="140" height="20" border="0" alt="[Link]: Education/Conferences"></a></td></tr>
+              <tr><td><a href="/government/"><img src="/images/nav_gov01.gif" width="140" height="20" border="0" alt="[Link]: Governmental Affairs"></a></td></tr>
+              <tr><td><a href="/jobs"><img src="/images/nav_careers01.gif" width="140" height="20" border="0" alt="[Link]: HR Careers"></a></td></tr>
+				<tr><td><a href="/hrnews_published/"><img src="/images/nav_news01.gif" width="140" height="20" border="0" alt="[Link]: News"></a></td></tr>
+              <tr><td><a href="/hrresources/"><img src="/images/nav_hrresources01.gif" width="140" height="20" border="0" alt="[Link]: HR Resources"></a></td></tr>
+              <tr><td><a href="/hrtools/"><img src="/images/nav_hrtools01.gif" width="140" height="20" border="0" alt="[Link]: HR Tools"></a></td></tr>
+              <tr><td><a href="/membercenter/"><img src="/images/nav_membership01.gif" width="140" height="20" border="0" alt="[Link]: Membership Center"></a></td></tr>
+              <tr><td><a href="/pubs/"><img src="/images/nav_publications01.gif" width="140" height="20" border="0" alt="[Link]: Publications"></a></td></tr>
+            </tbody></table>
+
+            <!-- **************************************** -->
+            <!--            END NAVIGATION                -->
+            <!-- **************************************** -->
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" height="100%" bgcolor="#113B63" align="center" width="140">
+            <!-- **************************************** -->
+            <!--         SEARCH AND OTHER STUFF           -->
+            <!-- **************************************** -->
+            <table border="0" cellspacing="0" cellpadding="0" valign="top">
+              <tbody><tr><td height="9"></td></tr>
+              <tr>
+                <td width="7"></td>
+                <td valign="bottom" class="sidebar">
+                  SEARCH SHRM ONLINE
+                </td>
+              </tr>
+              <tr><td height="3"></td></tr>
+              <tr> 
+                <td width="7"></td>
+            		<form action="http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.SHRMSearch" method="POST"></form>
+                <td valign="top">
+           		  <input type="text" name="querytext" size="10">
+                  <input type="submit" value="FIND" class="findbutton">
+                </td>
+                
+              </tr>
+              <tr>
+                <td height="4px"></td>
+              </tr>
+              <tr>
+                <td width="7"></td>
+                <td class="normal">
+                  <a href="http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.SHRMAdvSearch" class="und01">Advanced Search</a>
+                </td>
+              </tr>
+              <tr> 
+                <td height="5"></td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center"><p>&nbsp;</p></td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center">
+                  <table border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                      <td>
+                        <a href="/press"><img src="/images/press.gif" width="70" height="9" border="0" alt="[Link]: Press Room"></a>
+                      </td>
+                    </tr>
+					<tr>
+                <td align="center"><img src="images/leftnav_divideline.gif" width="131" height="1" border="0" alt=""></td>
+              </tr>
+                    <tr>
+                      <td>
+                        <a href="/chapters/resources/"><img src="/images/volunteer.gif" width="128" height="9" border="0" alt="[Link]: Volunteer Resources"></a>
+                      </td>
+                    </tr>
+					<tr>
+                <td align="center"><img src="images/leftnav_divideline.gif" width="131" height="1" border="0" alt=""></td>
+              </tr>
+                    <tr>
+                      <td>
+                        <a href="http://shrmstore.shrm.org/shrm/"><img src="/images/store.gif" width="69" height="9" border="0" alt="[Link]: SHRMStore"></a>
+                      </td>
+                    </tr>
+					<tr>
+                <td align="center"><img src="images/leftnav_divideline.gif" width="131" height="1" border="0" alt=""></td>
+              </tr>
+                    <tr>
+                      <td>
+                        <a href="/reachingmembers/"><img src="/images/advertise.gif" width="107" height="9" border="0" alt="[Link]: Advertise &amp; Exhibit"></a>
+                      </td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+              <tr> 
+                <td height="10"></td>
+              </tr>
+            </tbody></table>
+            <!-- **************************************** -->
+            <!--       END SEARCH AND OTHER STUFF         -->
+            <!-- **************************************** -->
+          </td>
+        </tr>
+      </tbody></table>
+      <!-- **************************************** -->
+      <!--           END LEFT SIDEBAR               -->
+      <!-- **************************************** -->
+    </td>
+
+    <!-- **************************************** -->
+    <!--          BEGIN MAIN DOCUMENT             -->
+    <!-- **************************************** -->
+    <td valign="top" align="center" width="630">
+      <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" valign="top">
+        <!-- **************************************** -->
+        <!--        BEGIN DOCUMENT HEADER             -->
+        <!-- **************************************** -->
+
+        <tbody><tr>
+          <td valign="bottom" height="15"><span class="hedhome">&nbsp;<b><a href="/" class="hedhome">SHRM Home</a>&nbsp;&gt;&nbsp;<a href="/privacy" class="hedsec">Privacy Statement</a></b></span></td>
+          <td align="right">&nbsp;</td>
+        </tr>
+
+        <tr><td height="2"></td></tr>
+        <!-- **************************************** -->
+        <!--           END DOCUMENT HEADER            -->
+        <!-- **************************************** -->
+        <!-- **************************************** -->
+        <!--           BEGIN DOCUMENT BODY            -->
+        <!-- **************************************** -->
+        <tr>
+          <td valign="top" colspan="2" class="normal">
+
+
+<table>
+<tbody><tr><td class="normal">
 
-<table border="0" cellspacing="0" height="100%" width="780" cellpadding="1">
-  <tbody><tr>
-          <td valign="top" width="150" bgcolor="#00214a" rowspan="4" height="104"> 
 
-
-<script language="JavaScript">
-function OpenExternal(varURL)
-{
-	window.open(varURL,"","width=600,height=400,location,directories,scrollbars=yes,menubar=yes,resizable=yes");
-}
-
-// End -->
-
-</script>
-
-<script language="JavaScript">
-var specialcase = ((navigator.userAgent.indexOf('Mac') != -1) || document.all)
-var flag = 0;
-var msg = 'This logo is intended for use on this website and may not be copied for other uses. Contact the Public Affairs Department: (703) 535-6046 for more information.';
-var x,y,x1,y1,copyAttempt;
-
-function init()
-{
-	if (!(document.getElementById || document.all || document.layers)) return;
-	if (specialcase && document.layers)
-	{
-		document.captureEvents(Event.MOUSEMOVE);
-		document.onmousemove = special;
-	}
-	for (i=0;i<document.images.length;i++)
-	{
-		document.images[i].onmousedown = checkIt;
-		document.images[i].onmouseup = function() {return false};
-		if (specialcase)
-		{
-			document.images[i].onmousemove = special;
-			document.images[i].onclick = clearIt;
-		}
-	}
-}
-
-function checkIt(e)
-{
-	copyAttempt = 0;
-	if (window.Event)
-	{
-		x = e.screenX;
-		y = e.screenY;
-		theButt = (e.which == 3);
-	}
-	else
-	{
-		x = window.event.clientX;
-		y = window.event.clientY;
-		theButt = (window.event.button == 2);
-	}
-	if (theButt)
-	{
-		copyAttempt = 1;
-		flag = 0;
-		alert(msg);
-		return false; // NN4 only
-	}
-	if (specialcase) flag = 1;
-	return false;
-}
-
-function special(e)
-{
-	theObj = '';
-	if (window.Event)
-	{
-		x1 = e.screenX;
-		y1 = e.screenY;
-		if (e.target.parentNode) theObj = e.target.parentNode.tagName;
-	}
-	else
-	{
-		x1 = window.event.clientX;
-		y1 = window.event.clientY;
-		theObj = window.event.srcElement.parentElement.tagName;
-	}
-	var isLink = (theObj == 'A');
-	if (flag && (!isLink || ((Math.abs(x-x1) > 10) || (Math.abs(y-y1) > 10))))
-	{
-		copyAttempt = 1;
-		flag = 0;
-		alert(msg);
-		return false;
-	}
-}
-
-function clearIt()
-{
-	flag = 0;
-	if (copyAttempt)
-	{
-		copyAttempt = 0;
-		return false;
-	}
-}
-
-
-</script>
-
-
-
-
-
-
-
-<center>
-<table width="100%" border="0" cellspacing="2" cellpadding="2" align="left" bgcolor="#00214a">
-<tbody><tr>
-    <td align="center" colspan="2" bgcolor="white">
-		<a href="/"><img border="0" src="/graphics/frontlogo.gif"></a>
-	</td>
-</tr>
-
-
-<!-- GENERAL SEARCH INFORMATION GOES HERE -->
-
-<tr>
-	<td colspan="2">&nbsp;</td>
-</tr>
-
-
-<tr>
-	<td valign="top" align="middle" colspan="2">
-		<font face="Arial, Helvetica, sans-serif" size="2">
-		<div align="center">
-		<form action="http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Search" method="POST">
-			<input type="text" name="querytext" size="15">
-			<br>
-			<input type="submit" value="Search" name="submit">
-		</form>
-		<p>
-		<font size="1" color="white">
-		<a href="http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.AdvSearch"><font color="white"><b>Advanced Search</b></font></a></font>
-		</p></div>
-	</font></td>
-</tr>
-
-<!--END SEARCH INFORMATION -->
-
-<!--
-<tr>
-	<td colspan="2"><A HREF="/search/broken.htm" STYLE="color: white;">Search</A>
-	</td>
-</tr>
--->
-
-	<tr>
-		<td colspan="2">
-			<br>
-   				<!-- NAVMENU -->
-				
-
-<script language="JavaScript">
-<!--
-//NS4 = (document.layers) ;
-//IE4 = (document.all) ;
-
-NS4 = true;
-IE4 = false;
-
-
-mac=((IE4)&&(navigator.appVersion.indexOf ("Mac")!=-1));
-if(IE4)
-	{
-	av=navigator.appVersion;
-	avi=av.indexOf("MSIE");
-	if (avi==-1)
-		version = parseInt (av) ;
-	  else
-		version = parseInt(av.substr(avi+4)) ;
-	}
-//-->
-</script>
-
-<script language="JavaScript1.2">
-<!--
-if (NS4 || IE4)
-	{
-	maxlev = 1;
-	popupWidth = 167;
-	levelOffset = 20;
-	bord = 2;
-	vertSpace = 5;
-	sep = 1;
-	sepFrame = false;
-	openSameFrame = false;
-	cntFrame = "content";
-	contentFrame = "content";
-	mout = true;
-	iconSize = 16;
-	borderCol = "#00214a";
-	menuHorizontal = false;
-	}
-//-->
-</script>
-
-
-<script language="JavaScript1.2">
-<!--
-
-
-
-
-lev0 = new Array ("xx-small","1",true,false,"White","#66648c","Black","Verdana","Silver") ;
-lev1 = new Array ("xx-small","1",true,false,"White","#66648c","Black","Verdana","Silver") ;
-
-
-
-mn2 = new Array
-(
-"Benefits","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=1&querytext=benefits&start=0",0
-,"Compensation","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=2&querytext=compensation&start=0",0
-,"Compliance","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=3&querytext=compliance&start=0",0
-,"Employee Relations","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=4&querytext=employee+relations&start=0",0
-,"HR Development (training)","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=5&querytext=hr+development&start=0",0
-,"Health, Safety & Security","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=6&querytext=health+safety+and+security&start=0",0
-,"HR Management Topics","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=7&querytext=hr+management+topics&start=0",0
-,"International HR","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=8&querytext=international+hr&start=0",0
-,"Performance/Productivity","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=9&querytext=performance+productivity&start=0",0
-,"Recruitment","http://sapphire.shrm.org/search/servlet/org.shrm.autonomy.Channels?channelID=10&querytext=recruitment&start=0",0
-);
-
-
-mn3 = new Array
-(
-"Member Services","/membership",0
-,"Areas","/areas",0
-,"Certification/HRCI","/hrci",0
-,"Chapters","/chapters",0
-,"Conferences & Seminars","/meetings",0
-,"Committees","/committees",0
-,"Diversity Program","/diversity",0
-,"Governmental Affairs","/government",0
-,"Information Center & Library","/whitepapers",0
-,"Member Directory","/members",0
-<!--,"Portfolio","/portfolio",0-->
-,"Press Room","/press",0
-,"SHRM Research","/research",0
-,"SHRM Foundation","/foundation",0
-,"SHRM Global Forum","http://www.shrmglobal.org/",0
-,"SHRMStore","/shrmstore",0
-,"State Councils","/chapters/default.asp?page=councils.html",0
-,"Student Program","/students",0
-,"Survey Program","/surveys",0
-,"Volunteer Leaders' Resource Center","/chapters/resources/",0
-,"Volunteer Opportunities","/committees/default.asp?page=volunteer.asp",0
-,"Workplace Trends & Forecasting","/trends",0
-);
-
-
-mn4 = new Array
-(
-"BNA Bulletin to Management","/bna",0
-,"Employment Management Today","/emt",0
-,"HR Comply","/hrcomply",0
-,"HR Co-pilot","/copilot",0
-,"HR Links","/hrlinks",0
-,"HR Magazine","/hrmagazine",0
-,"HR News","/hrnews",0
-,"HR Talk/Chat","/hrtalk/chat",0
-,"HR Talk/Discussion","/hrtalk",0
-,"Legal Reports","/whitepapers/documents_published_lrpt",0
-,"Managing Smart","/managingsmart",0
-,"Mosaics","/diversity/members/articles/default.asp?page=mosaics.asp",0
-,"Online Buyers Guide","http://www.mediabrains.com/client/shrm/bg1",0
-,"SHRM Annual Report","/annual",0
-,"SHRM Assessment Center","/assessment",0
-,"SHRM Books","/books",0
-,"SHRM Consultants Referral Directory","/consultants/directory/",0
-,"SHRM E-Bulletin","/ebulletin",0
-,"SHRMStore","/shrmstore",0
-,"Subscribe","javascript:OpenExternal('https://sapphire.shrm.org/subscriptions/subscriptionsform.cfm');",0
-,"Washington & State Insiders","/government/insiders",0
-,"White Papers","/whitepapers/default.asp?page=wplist.htm",0
-,"Workplace Visions","/trends",0
-);
-
-
-mn5 = new Array
-(
-"Consultants Forum","/consultants",0
-,"Employment Mgmt. Assoc.","/ema",0
-,"High-Tech Net","/technet",0
-,"HRTX","/hrtx",0
-,"Media HR Association","/mhra",0
-);
-
-
-mn6 = new Array
-(
-"HRJobs Main Page","/jobs",0
-,"HRJobs by Location","/jobs/byplace.asp",0
-,"HRJobs by Title","/jobs/bytitle.asp",0
-,"HRJobs by Date","/jobs/bydate.asp",0
-,"Post an HRJob","/jobs/order",0
-,"Search HRJobs","/jobs/search.asp",0
-);
-
-
-mn7 = new Array
-(
-"Conferences","/conferences",0
-,"Exhibitor/Advertiser Information","/reachingmembers",0
-,"Fundamentals of Human Resource Management","/fundamentals",0
-,"Learning Systems","/learning",0
-,"Seminars","/seminars",0
-,"SHRM e-Learning", "/elearning",0 
-);
-
-
-absPath="";
-if (sepFrame && !openSameFrame)
-	{
-	if (document.URL.lastIndexOf("\\")>document.URL.lastIndexOf("/")) {sepCh = "\\" ;} else {sepCh = "/" ;}
-	absPath = document.URL.substring(0,document.URL.lastIndexOf(sepCh)+1);
-	}
-iconTag = "<IMG SRC=\'"+(NS4?absPath:unescape(absPath))+"img/sxicona.gif\' BORDER=0 WIDTH=16 HEIGHT=16 ALIGN=RIGHT>" ;
-popupOffset = 8;
-toCnt = 0;
-stStr = new Array ('\\','|','/','-'+'-');
-newpx=0;
-newpy=0;
-stPos = 0 ;
-lev0menus = 1 ;
-loadStatus = 0;
-brSizeChg = false;
-readyStatus = 0;
-contentPage = null;
-brPage = (sepFrame) ? (NS4) ? parent : parent.document.body : window;
-brPage.onload = onCreate;
-prevActiveItem = null ;
-if(NS4) {startWidth = brPage.innerWidth; startHeight = brPage.innerHeight; brPage.onresize = reDo;}
-if(!mac)
-   {
-   iconTag = "<IMG SRC=\'"+(NS4?absPath:unescape(absPath))+"img/sxicona.gif\' BORDER=0 WIDTH=8 HEIGHT=8 ALIGN=RIGHT>" ;
-   if(IE4) {iconTag = "<SPAN STYLE='height:100%;width:"+ iconSize +";overflow:hidden;float:right'>"+ iconTag +"</SPAN>";}
-   }
-
-onReady();
-
-
-
-function chgVisib(obj,bVis)
-	{
-	if (NS4) {obj.visibility = (bVis) ? "show" : "hide";} else {obj.style.visibility = (bVis) ? "visible" : "hidden";}
-	obj.activeId = null;
-	}
-
-function onItemClick()
-	{
-	if (sepFrame && openSameFrame)
-		{
-		if (IE4){cntPage = eval("parent.frames."+cntFrame); cntPage.location.href=this.itemLink;}
-		omo=mout;mout=false;bMenuActive=false;
-		if (activeMenu) {activeMenu.bActive=false;itemId=activeMenu;closeMenu(itemId);}
-		mout=omo;
-		}
-	else if (IE4){contentPage.location.href = this.itemLink;}
-	prevActiveItem = null ;
-	}
-
-function onDocClick()
-	{
-	if (!bMenuActive && activeMenu!=null && !activeMenu.bActive)
-		{
-		itemId = activeMenu;
-		closeMenu(itemId);
-		}
-	prevActiveItem = null ;
-	}
-function onUnloadNS() {loadStatus = 0;}
-function onLoadNS(e) {if (e.target.name == contentFrame) {onReady(); onCreate();} }
-function onUnloadIE() {onReady(); loadStatus = 0; setTimeout("waitReady()",50);}
-
-function onOver(e)
-	{
-	this.bActive = true;
-	bMenuActive = true;
-	activeMenu = this;
-	if (this.collapseTime)
-		{
-		clearTimeout(this.collapseTime);
-		this.collapseTime=null;
-		}
-	}
-
-function onOut()
-	{
-	if (IE4)
-		{
-		ev = contentPage.event;
-		if (ev.srcElement.contains(ev.toElement)) return;
-		}
-	this.bActive = false;
-	bMenuActive = false;
-	contentPage.status = "";
-	if (mout) smCollapseTime = setTimeout("closeMenu(activeMenu)",10);  
-	}
-
-function onOverItem()
-	{
-	if (IE4)
-		{
-		ev = contentPage.event;
-		if (ev.srcElement.tagName == "IMG") return;
-		this.style.backgroundColor = this.brCont.itemHlBgCol;
-		this.style.color = this.brCont.fontHlCol;
-		}
-	else
-		{
-		this.bgColor = this.brCont.itemHlBgCol;
-		this.itemLayer.document.write(this.innerHlTag);
-		this.itemLayer.document.close();
-		}
-	contentPage.status = this.itemLink;
-	this.brCont.activeId = this;
-	if (this.brCont.bExp) closeSubmenus(this.brCont,this);
-	if (this.bParent)
-		{
-		horOffset = (this.brCont.popupWidth - this.brCont.levelOffset);
-		if (NS4)
-			{
-			this.childX = this.brCont.left + horOffset;
-			this.childY = (this.pageY+this.clip.top) + 6;
-			}
-		else
-			{
-			this.childX = this.brCont.style.pixelLeft + horOffset;
-			this.childY = this.offsetTop + this.brCont.style.pixelTop + 6 + bord;
-			}
-		this.child.moveTo(this.childX,this.childY);
-		ensureVisib(this.child);
-		this.brCont.bExp = true;
-		this.brCont.visibleChild = this.child;
-		chgVisib(this.child, true);
-		}
-	}
-
-function onItemOut()
-	{
-	if (IE4)
-		{
-		ev = contentPage.event;
-		if (ev.srcElement.contains(ev.toElement) || (ev.fromElement.tagName=="IMG" && ev.toElement.contains(ev.fromElement))) return;
-		this.style.backgroundColor = this.brCont.itemBgCol;
-		this.style.color = this.brCont.fontCol;
-		}
-	else
-		{
-		this.bgColor = this.brCont.itemBgCol;
-		with (this.itemLayer.document)
-			{
-			write(this.innerTag);
-			close();
-			}
-		if (!bMenuActive && mout)
-			smCollapseTime = setTimeout("closeMenu(activeMenu)",10); 
-		}
-	}
-
-function onReady()
-	{
-	if(readyStatus)
-		{
-		for(i=1; i<lev0menus; i++)
-			{
-			cur = eval("mnu"+i);
-			clearTimeout(cur.collapseTime);
-			cur.collapseTime=null;
-			}
-		clearTimeout(smCollapseTime);
-		}
-	lev0menus = 1;
-	readyStatus = 0;
-	createStatus = 0;
-	bMenuActive = false;
-	activeMenu = null;
-	smCollapseTime = null;
-	}
-
-function onCreate()
-	{
-	loadStatus = 1;
-	if (sepFrame)
-		{
-		contentPage = eval("parent.frames." + contentFrame);
-		if (NS4)
-			{
-			brPage.captureEvents(Event.LOAD);
-			brPage.onload = onLoadNS;
-			contentPage.onunload = onUnloadNS;
-			}
-		if (IE4) contentPage.document.body.onunload = onUnloadIE;
-		}
-	else
-		{
-		contentPage = window;
-		}
-	contentPage.nav = window;
-	if (!mout)
-		{
-		if (NS4) contentPage.document.captureEvents(Event.MOUSEDOWN);
-		contentPage.document.onmousedown = onDocClick;
-		}
-	createStatus = 1;
-	if(IE4)
-		{
-		topZ = 0;
-		for (z=0;z<contentPage.document.all.length;z++)
-			{
-			oldEl = contentPage.document.all(z);
-			topZ = Math.max(oldEl.style.zIndex,topZ);
-			}
-		}
-	while(eval("window.mn" + lev0menus))
-		{
-		if (NS4) {createNS(0,false,lev0menus);} else {createIE(0,false,lev0menus);}
-		lev0menus++;
-		}
-	status = "";
-	readyStatus = 1;
-	createStatus = 0;
-	}
-
-function waitReady()
-	{
-	if (contentPage.document.readyState == "complete")
-		{
-		onReady();
-		onCreate();
-		}
-	else
-		{
-		setTimeout("waitReady()",50);
-		}
-	}
-
-function setMenuTree(obj,bPopup,mnuPar)
-	{
-	if (obj.lev > maxlev) {levArr = eval ("lev" + maxlev) ;} else {levArr = eval ("lev" + obj.lev) ;}
-	obj.popupWidth = popupWidth ;
-	obj.fontCol = levArr [4] ;
-	obj.fontHlCol = levArr [6] ;
-	obj.itemBgCol = levArr [5] ;
-	obj.itemHlBgCol = levArr [8] ;
-	obj.popupBorderCol = borderCol ;
-	if (!bPopup)
-		{
-		obj.rootId = obj ;
-		obj.first = obj ;
-		}
-	else
-		{
-		obj.rootId = mnuPar.rootId ;
-		}
-	obj.itemCount = obj.array.length/3;
-	obj.bPopup = bPopup;
-	obj.itemIter = 0;
-	}
-
-function createIE(lev,bPopup,mnuId,mnuPar)
-	{
-	menu = createMenuTag("mnu" + mnuId);
-	menu.array = eval("mn" + mnuId);
-	menu.lev=lev;
-	setMenuTree(menu,bPopup,mnuPar);
-	menu.itemTag = "";
-	while (menu.itemIter < menu.itemCount)
-		{
-		menu.itemIter++;
-		if (++stPos == stStr.length) stPos = 0 ;
-		status = "Loading menu... " + stStr [stPos] ;
-		curId = "item" + mnuId + "_" + menu.itemIter;
-		nMnuItem = (menu.itemIter-1)*3 ;
-		itemText = menu.array[nMnuItem];
-		bParent = menu.array[nMnuItem + 2];
-		if(mac)
-			{
-			addText = contentPage.document.createElement("SPAN");
-	    with(addText)
-				{
-				id = curId;
-				with(style)
-				   {
-				   width = (menu.popupWidth-(bord*2));
-				   fontSize = 10;
-				   fontWeight = "normal";
-				   fontStyle =  "normal";
-				   fontFamily = "Arial";
-				   padding = vertSpace;
-				   }
-				innerHTML = itemText;
-				}
-			addLine = contentPage.document.createElement("BR");
-			menu.appendChild(addText);
-			menu.appendChild(addLine);
-	    if(bParent)
-	       {
-	       addIm=contentPage.document.createElement("IMAGE");
-	       with(addIm)
-		  {
-		  src=unescape(absPath)+"img/sxicona.gif";
-		  with(style)
-		     {
-		     position="absolute";
-		     width=8;
-		     height=8;
-		     left=addText.style.pixelWidth-vertSpace-8;
-		     top=addText.offsetTop+vertSpace;
-		     }
-		  }
-	       addText.appendChild(addIm);
-	       }
-			}
-		else
-			{
-			innerTag = (bParent) ? iconTag + itemText : itemText;
-			menu.itemTag += "<SPAN ID=" + curId + " STYLE=\"width:" + (menu.popupWidth-(bord*2)) + "\">" + innerTag + "</SPAN><BR>";
-			}
-		if (bParent)
-			{
-			createIE(lev+1,true,mnuId + "_" + menu.itemIter,menu);
-			menu = menu.parentMenu;
-			}       
-		}
-	if (!mac)
-		menu.innerHTML = menu.itemTag;
-	spanArray = menu.children.tags("SPAN");
-	for (i=0; i<spanArray.length; i++)
-		{
-		it = spanArray(i);
-		createSingleItem(it,i+1,menu.array);
-		}
-	menu.lastId = spanArray(spanArray.length-1);
-	createItemArr(menu,bPopup,mnuPar);
-	}
-
-function createNS(lev,bPopup,mnuId,mnuPar,parId)
-	{
-	tempArray = eval("mn" + mnuId);
-	if (!bPopup) {menu = createMenuTag("mnu" + mnuId,popupWidth,null,null);} else {menu = createMenuTag("mnu" + mnuId,null,mnuPar,null);}
-	menu.lev=lev;
-	menu.array = tempArray;
-	setMenuTree(menu,bPopup,mnuPar);
-	while (menu.itemIter < menu.itemCount)
-		{
-		menu.itemIter++;
-		if (++stPos == stStr.length) stPos = 0 ;
-		status = "Loading menu... " + stStr [stPos] ;
-		prevId = (menu.itemIter > 1) ? menu.item : null;
-		curId = "item" + mnuId + "_" + menu.itemIter;
-		menu.item = createMenuTag(curId,null,null,menu);
-		menu.item.prevId = prevId;
-		createSingleItem(menu.item,menu.itemIter,menu.array);
-		if (menu.item.bParent)
-			{
-			createNS(lev+1,true,mnuId + "_" + menu.itemIter,menu,menu.item);
-			menu = menu.parentMenu;
-			}
-		}
-	menu.lastId = menu.item;
-	createItemArr(menu,bPopup,mnuPar,parId);
-	}
-
-function createMenuTag(itemId,itemWidth,parentId,conId)
-	{
-	if (NS4)
-		{
-		if (itemWidth)
-			{
-			elWidth = itemWidth;
-			}
-		else
-			{
-			elWidth = (conId) ? conId.popupWidth : parentId.popupWidth;
-			if (conId) elWidth = elWidth-(bord*2)-(vertSpace*2);
-			}
-		if (!conId) conId = contentPage;
-		eval(itemId + "= new Layer(elWidth,conId)");
-		}
-	else if (mac)
-		{
-		addTag = contentPage.document.createElement ("DIV");
-		addTag.id = itemId;
-		addTag.style.position = "absolute";
-		contentPage.document.body.appendChild(addTag);
-		}
-	else
-		{
-		elStr = "<DIV ID=" + itemId + " STYLE='position:absolute'></DIV>";
-		contentPage.document.body.insertAdjacentHTML("BeforeEnd",elStr);
-		if (sepFrame && !openSameFrame) eval(itemId + "= contentPage." + itemId);
-		}
-	return eval(itemId);
-	}
-
-function createSingleItem(obj,itemId,arr)
-	{
-	if (mac)
-	{
-		if (obj.id.indexOf ("item")==-1)
-			return ;
-	}
-	obj.onmouseover = onOverItem;
-	obj.onmouseout = onItemOut;
-	obj.brCont = (NS4) ? obj.parentLayer : obj.parentElement;
-	nMnuItem = (itemId-1)*3;
-	obj.itemText = arr[nMnuItem];
-	obj.itemLink = arr[nMnuItem + 1];
-	obj.bParent = arr[nMnuItem + 2];
-	if (IE4 && obj.bParent)
-		{
-		obj.child = eval("mnu" + obj.id.substr(4));
-		obj.child.parentMenu = obj.brCont;
-		obj.child.parentItem = obj;
-		}
-	if (obj.itemLink)
-		{
-		if (NS4)
-			{
-			obj.captureEvents(Event.MOUSEUP);
-			obj.onmouseup = onItemClick;
-			}
-		else
-			{
-			obj.onclick = onItemClick;
-			obj.style.cursor = "hand";
-			}
-		}
-	if (obj.brCont.lev > maxlev) {levArr = eval ("lev" + maxlev) ;} else {levArr = eval ("lev" + obj.brCont.lev) ;}
-	fontSizeNS = levArr [1] ;
-	fontSizeIE = levArr [0] ;
-	fontB = levArr [2] ;
-	fontI = levArr [3] ;
-	fontFace = levArr [7] ;
-	if (NS4)
-		{
-		innerTag = obj.itemText;
-		if (fontB) innerTag = innerTag.bold();
-		if (fontI) innerTag = innerTag.italics();
-		innerTag = "<FONT FACE='" + fontFace + "' SIZE=" + fontSizeNS + ">" + innerTag+ "</FONT>";
-		if (obj.itemLink)
-			{
-			with (obj.document)
-				{
-				linkColor = obj.brCont.fontCol ;
-				alinkColor = obj.brCont.fontCol ;
-				vlinkColor = obj.brCont.fontCol ;
-				}
-			cmna = "<a ";
-			if (sepFrame && openSameFrame) cmna += "target='"+cntFrame+"' ";
-			cmna += "style='text-decoration:none' href='" + obj.itemLink + "'>";
-			obj.innerHlTag = innerTag.fontcolor (obj.brCont.fontHlCol);
-			obj.innerHlTag = cmna+obj.innerHlTag+"</a>";
-			obj.innerTag = cmna + innerTag + "</a>";
-			}
-		else
-			{
-			obj.innerHlTag = innerTag.fontcolor(obj.brCont.fontHlCol);
-			obj.innerTag = innerTag.fontcolor(obj.brCont.fontCol);
-			}
-		obj.innerTag = (obj.bParent) ? iconTag + obj.innerTag : obj.innerTag ;
-		obj.innerHlTag = (obj.bParent) ? (iconTag + obj.innerHlTag) : obj.innerHlTag ;
-		obj.visibility = "inherit";
-		obj.bgColor = obj.brCont.itemBgCol;
-		if (itemId == 1) {obj.top = bord + vertSpace;} else {obj.top = obj.prevId.top + obj.prevId.clip.height + sep;}
-		obj.left = bord + vertSpace;
-		obj.clip.top = obj.clip.left = -vertSpace;
-		obj.clip.right = obj.brCont.popupWidth-(bord*2)-vertSpace;
-		itemWidth = obj.brCont.popupWidth-(bord*2)-(vertSpace*2);
-		if (obj.brCont.isTree) itemWidth-=(iconSize); 
-		obj.itemLayer = new Layer(itemWidth,obj);
-		obj.itemLayer.document.write(obj.innerTag);
-		obj.itemLayer.document.close();
-		obj.itemLayer.document.tags.A.textDecoration = "none" ;
-		obj.itemLayer.visibility = "inherit";
-		obj.clip.bottom = obj.itemLayer.document.height+vertSpace;
-		}
-	else
-		{
-		with (obj.style)
-			{
-			if (obj.brCont.isTree && (mac||(!mac && !obj.bParent))) paddingRight = vertSpace+iconSize;
-			color = obj.brCont.fontCol;
-			if(!mac)
-				{
-				fontSize = fontSizeIE;
-				fontWeight = (fontB) ? "bold" : "normal";
-				fontStyle = (fontI) ? "italic" : "normal";
-				fontFamily = fontFace;
-				padding = vertSpace;
-				}
-			borderBottomWidth = sep + "px";
-			borderBottomColor = "black";
-			borderBottomStyle = "solid";
-			backgroundColor = obj.brCont.itemBgCol;
-			}
-		}
-	}       
-
-function moveTo(xPos,yPos)
-	{
-	this.style.pixelLeft = xPos;
-	this.style.pixelTop = yPos;
-	}
-
-function expandMenu(menuId,e,dItem)
-{
-	if (NS4 && brSizeChg) 
-		onCreate();
-	if (IE4) 
-		se = event.srcElement;
-	if (!loadStatus) 
-		return;
-	activeItem = (NS4) ? e.target : se;
-	if (dItem != prevActiveItem) 
-	{
-		prevActiveItem = dItem ;
-	} 
-	else 
-	{
-		return ;
-	}
-	if (!createStatus && !readyStatus) 
-		onCreate();
-	activeItem.menuId = menuId;     
-	if (!loadStatus || !readyStatus) 
-		return true;
-	eType = (NS4) ? e.type : event.type;
-	for(i=1; i<lev0menus; i++)
-	{
-		temp = eval("mnu" + i + ".first");
-		temp.bActive = false;
-		if (temp.bExp) 
-			closeSubmenus(temp);
-		chgVisib(temp, false);
-	}       
-	activeItem = (NS4) ? e.target : se;
-	activeMenu = eval(activeItem.menuId);
-	activeMenu.bPopup = false;
-	activeMenu.rootId.first = activeMenu;
-	if (activeMenu.collapseTime)
-	{
-		clearTimeout (activeMenu.collapseTime);
-		activeMenu.collapseTime=null;
-	}
-	if (NS4) 
-		setNSXY (dItem); 
-	else 
-		setIEXY (dItem);
-	if (!sepFrame || openSameFrame)
-	{
-		xPos=newpx;
-		yPos=newpy;
-	}
-	else
-	{
-		switch (menuPos)
-		{
-			case 0:
-				xPos = (NS4) ? contentPage.pageXOffset : contentPage.document.body.scrollLeft;
-				yPos = (NS4) ? newpy + contentPage.pageYOffset : newpy + contentPage.document.body.scrollTop;
-				break;
-			case 1:
-				xPos = (NS4) ? contentPage.pageXOffset+contentPage.innerWidth : contentPage.document.body.scrollLeft+contentPage.document.body.clientWidth;
-				yPos = (NS4) ? newpy+contentPage.pageYOffset : newpy + contentPage.document.body.scrollTop;
-				break;
-			case 2:
-				xPos = (NS4) ? newpx+contentPage.pageXOffset : newpx + contentPage.document.body.scrollLeft;
-				yPos = (NS4) ? contentPage.pageYOffset : contentPage.document.body.scrollTop;
-				break;
-			case 3:
-				xPos = (NS4) ? newpx+contentPage.pageXOffset : newpx + contentPage.document.body.scrollLeft;
-				yPos = (NS4) ? contentPage.pageYOffset+contentPage.innerHeight : contentPage.document.body.scrollTop + contentPage.document.body.clientHeight;
-				break;
-		}
-	}
-	if (!NS4 && version >= 5)//change by will smith of acs for ie4 menu
-		yPos += contentPage.document.body.scrollTop;
-	if (NS4) 
-		xPos = 150;
-	activeMenu.moveTo(xPos,yPos);
-	ensureVisib(activeMenu);
-	activeMenu.bActive = true;
-	chgVisib(activeMenu,true);
-	return false;
-}
-
-function ensureVisib(obj)
-	{
-	botScrBar = (sepFrame && !openSameFrame && menuPos==3) ? (bord*2) : 20;
-	rtScrBar = (sepFrame && !openSameFrame && menuPos==1) ? (bord*2) : 20;
-	if (NS4)
-		{
-		winRight = (contentPage.pageXOffset + contentPage.innerWidth) - rtScrBar;
-		rightPos = obj.left + obj.popupWidth;
-		if (rightPos > winRight)
-			{
-			if (obj.bPopup)
-				{
-				parentLeft = obj.parentMenu.left;
-				newLeft = ((parentLeft-obj.popupWidth) + obj.levelOffset);
-				obj.left = newLeft;
-				}
-			else
-				{
-				dif = rightPos - winRight;
-				obj.left -= dif;
-0                               }
-			}
-		winBot = (contentPage.pageYOffset + contentPage.innerHeight) - botScrBar ;
-		botPos = obj.top + obj.fullHeight;
-		if (botPos > winBot)
-			{
-			dif = botPos - winBot;
-			obj.top -= dif;
-			}
-		winLeft = contentPage.pageXOffset;
-		leftPos = obj.left;
-		if (leftPos < winLeft)
-			{
-			if (obj.bPopup)
-				{
-				parentLeft = obj.parentMenu.left;
-				newLeft = ((parentLeft+obj.popupWidth) - obj.levelOffset);
-				obj.left = newLeft;
-				}
-			else
-				{
-				obj.left = 5;
-				}
-			}
-		}
-	else
-		{
-	winRight = (contentPage.document.body.scrollLeft + contentPage.document.body.clientWidth) - rtScrBar;
-		rightPos = obj.style.pixelLeft + obj.popupWidth;
-		if (rightPos > winRight)
-			{
-			if (obj.bPopup)
-				{
-				parentLeft = obj.parentMenu.style.pixelLeft;
-				newLeft = ((parentLeft - obj.popupWidth) + obj.levelOffset);
-				obj.style.pixelLeft = newLeft;
-				}
-			else
-				{
-				dif = rightPos - winRight;
-				obj.style.pixelLeft -= dif;
-				}
-			}
-		winBot = (contentPage.document.body.scrollTop + contentPage.document.body.clientHeight) - botScrBar;
-		botPos = obj.style.pixelTop + obj.fullHeight;
-		if (botPos > winBot)
-			{
-			dif = botPos - winBot;
-			obj.style.pixelTop -= dif;
-			}
-		winLeft = contentPage.document.body.scrollLeft;
-		leftPos = obj.style.pixelLeft;
-		if (leftPos < winLeft)
-			{
-			if (obj.bPopup)
-				{
-				parentLeft = obj.parentMenu.style.pixelLeft;
-				newLeft = ((parentLeft+obj.popupWidth) - obj.levelOffset);
-				obj.style.pixelLeft = newLeft;
-				}
-			else
-				{
-				obj.style.pixelLeft = 5;
-				}
-			}
-		}
-	}
-
-function collapseMenu(menuId)
-	{
-	if (!loadStatus || !readyStatus) return;
-	itemId = eval(menuId);
-	itemId.bActive = false;
-	if (mout) closePopup(itemId);
-	}
-
-function closeMenu(obj)
-	{
-	smCollapseTime = null;
-	if (bMenuActive) return;
-	if (obj.bExp) closeSubmenus(obj);
-	tempMenu = obj;
-	while (tempMenu.bPopup)
-		{
-		chgVisib(tempMenu,false);
-		tempMenu.parentMenu.bActive = false;            
-		tempMenu = tempMenu.parentMenu;
-		}
-	closePopup(tempMenu);
-	}
-
-function tf(oldToCnt)
-	{
-	if (oldToCnt!=toCnt)
-		return ;
-	closeItem(hideId);
-	hideId.collapseTime=null;
-	prevActiveItem = null ;
-	}
-
-function closePopup(obj)
-	{
-	hideId = obj;
-	if(!mout)
-		{
-		closeItem(hideId);
-		}
-	else
-		{
-		if (obj.collapseTime)
-			clearTimeout (obj.collapseTime);
-		if (toCnt++ >= 1000)
-			toCnt = 0 ;
-		obj.collapseTime = setTimeout("tf("+toCnt+")",1000);
-		}
-	}
-
-function closeSubmenus(obj,item)
-	{
-	tempMenu = obj.visibleChild;
-	while (tempMenu.bExp)
-		{
-		chgVisib(tempMenu.visibleChild,false);
-		tempMenu.bExp = false;
-		tempMenu = tempMenu.visibleChild;
-		}
-	if (!obj.bActive || !obj.bParent || obj.visibleChild != obj.child)
-		{
-		chgVisib(obj.visibleChild,false);
-		obj.bExp = false;
-		}
-	}
-
-function cancelSelect(){return false}
-function reDo()
-	{
-	if (brPage.innerWidth==startWidth && brPage.innerHeight==startHeight) return;
-	onReady();
-	brSizeChg=true;
-	contentPage.location.reload();
-	}
-
-function createItemArr(obj,bPopup,parMnu,parId)
-	{
-	obj.onmouseover = onOver;
-	obj.onmouseout = onOut;
-	obj.bExp = false;
-	obj.bActive = false;
-	obj.collapseTime = null;
-	obj.levelOffset = levelOffset;
-	obj.activeId = null;
-	if (bPopup)
-		{
-		obj.bPopup = true;
-		obj.parentMenu = parMnu;
-		if (NS4)
-			{
-			obj.parentItem = parId;
-			obj.parentItem.child = obj;
-			}
-		}
-	else
-		{
-		obj.bPopup = false;
-		}
-	if (NS4)
-		{
-		obj.bgColor = obj.popupBorderCol;
-		obj.fullHeight = obj.lastId.top + obj.lastId.clip.bottom + bord;
-		obj.clip.right = obj.popupWidth;
-		obj.clip.bottom = obj.fullHeight;
-		}
-	else
-		{
-		if(!mac)
-			{
-			with (obj.style)
-				{
-				width = obj.popupWidth;
-				borderWidth = bord;
-				borderColor = obj.popupBorderCol;
-				borderStyle = "solid";
-				}
-			}
-		zIndex = topZ;
-		obj.lastId.style.border="";
-		obj.fullHeight = obj.offsetHeight;
-		if (mac)
-			obj.style.pixelHeight=obj.fullHeight;
-		chgVisib(obj,false);
-		obj.onselectstart = cancelSelect;
-		obj.moveTo = moveTo;
-		obj.moveTo(0,0);
-		}
-	}
-
-function closeItem(obj)
-	{
-	if (obj.collapseTime)
-		{
-		clearTimeout (obj.collapseTime);
-		obj.collapseTime=null;
-		}
-	if (!obj.bActive && !bMenuActive)
-		chgVisib(obj,false);
-	}
-
-function setIEXY (dItem)
-{
-	divColl = document.all.tags ("DIV");
-	dItemEl = divColl [dItem] ;
-	if (menuHorizontal) 
-	{
-		newpy = dItemEl.offsetHeight + popupOffset ;
-		newpx=0;
-	} 
-	else 
-	{
-		newpx = dItemEl.offsetWidth + popupOffset ;
-		newpy=0;
-	}
-	if (version < 5 || mac)
-	{
-		newpx += dItemEl.offsetLeft ;
-		newpy += dItemEl.offsetTop ;
-		while (dItemEl.offsetParent)
-		{
-			if (dItemEl.offsetParent == dItemEl || dItemEl.offsetParent == document.body) break ;
-			newpx += dItemEl.offsetParent.offsetLeft ;
-			newpy += dItemEl.offsetParent.offsetTop ;
-			dItemEl = dItemEl.offsetParent ;
-		}
-	}
-	else
-	{
-		r = dItemEl.getBoundingClientRect();
-		newpx += r.left;
-		newpy += r.top ;
-	}
-}
-
-function setNSXY (dItem)
-{
-	dItemEl = document.layers[dItem];
-	newpx = dItemEl.pageX ;
-	newpy = dItemEl.pageY ;
-	if (menuHorizontal) 
-	{
-		newpy += dItemEl.document.height + popupOffset ;
-	} 
-	else 
-	{
-		newpx += dItemEl.document.width + popupOffset ;
-	}
-}
-
-//-->
-</script>
-<style type="text/css">
-<!--
-	.CL0 {text-decoration:none;color:White; }
-	.topFold {position:relative}
--->
-</style>
-
-
-<table cellspacing="0" cellpadding="5" border="1" width="100%" rules="rows" align="center" bgcolor="#00214a">
-	<tbody><tr bordercolor="Black">
-		<td bgcolor="#88648c" width="100%" align="CENTER">
-			<table cellpadding="0" cellspacing="0" border="0" width="100%">
-				<tbody><tr>
-					<td align="CENTER" width="100%">
-						<font color="#00214a" face="'Verdana','Arial','Helvetica'" size="1"><b>
-						<a class="CL0" href="" onmouseover="expandMenu('mnu1',event,'tfol1')" onmouseout="collapseMenu('mnu1')"><div id="tfol1" class="topFold">Privacy </div></a>
-						</b></font>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-
-<table cellspacing="0" cellpadding="5" border="1" rules="rows" width="100%">
-<tbody><tr bordercolor="Black">
-<td bgcolor="#66648c" align="CENTER" width="100%">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td align="CENTER" width="100%">
-				<font color="White" face="'Verdana','Arial','Helvetica'" size="1"><b>
-
-
-<a class="CL0" href="/">
-SHRM HOME PAGE
-
-</a></b></font>
-			</td>
-		</tr>
-	</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="5" border="1" rules="rows" width="100%">
-<tbody><tr bordercolor="Black">
-<td bgcolor="#66648c" align="CENTER" width="100%">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td align="CENTER" width="100%">
-				<font color="White" face="'Verdana','Arial','Helvetica'" size="1"><b>
-				<a class="CL0" href="/sitemap">SITE MAP</a></b></font>
-			</td>
-		</tr>
-	</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="5" border="1" rules="rows" width="100%">
-<tbody><tr bordercolor="Black">
-<td bgcolor="#66648c" align="CENTER" width="100%">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td align="CENTER" width="100%">
-				<font color="White" face="'Verdana','Arial','Helvetica'" size="1">
-				<b>
-				<a class="CL0" href="/jobs" onmouseover="expandMenu('mnu6',event,'tfol6')" onmouseout="collapseMenu('mnu6')">
-				<div id="tfol6" class="topFold">HR JOBS</div></a></b></font>
-			</td>
-		</tr>
-	</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<!--<table cellspacing=0 cellpadding=5 border=1 RULES="rows" width="100%">
-<tr BORDERCOLOR="Black">
-<td bgcolor="#66648c" ALIGN="CENTER" WIDTH="100%">
-	<table cellpadding=0 cellspacing=0 border=0 WIDTH="100%">
-		<tr>
-			<td ALIGN="CENTER" WIDTH="100%">
-				<font color="White" face="'Verdana','Arial','Helvetica'" size="1" >
-				<B>
-				<A CLASS="CL0" HREF="/channels" onMouseOver="expandMenu('mnu2',event,'tfol2')" onMouseOut="collapseMenu('mnu2')">
-				<div id='tfol2' class='topFold'>HR CHANNELS</div></A></B></font>
-			</td>
-		</tr>
-	</table>
-</td>
-</tr>
-</TABLE>-->
-<table cellspacing="0" cellpadding="5" border="1" rules="rows" width="100%">
-<tbody><tr bordercolor="Black">
-<td bgcolor="#66648c" align="CENTER" width="100%">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td align="CENTER" width="100%">
-				<font color="White" face="'Verdana','Arial','Helvetica'" size="1">
-				<b>
-				<a class="CL0" href="/pubs/" onmouseover="expandMenu('mnu4',event,'tfol4')" onmouseout="collapseMenu('mnu4')">
-				<div id="tfol4" class="topFold">PUBLICATIONS RESOURCES</div></a></b></font>
-			</td>
-		</tr>
-	</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="5" border="1" rules="rows" width="100%">
-<tbody><tr bordercolor="Black">
-<td bgcolor="#66648c" align="CENTER" width="100%">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td align="CENTER" width="100%">
-				<font color="White" face="'Verdana','Arial','Helvetica'" size="1">
-				<b>
-				<a class="CL0" href="/education" onmouseover="expandMenu('mnu7',event,'tfol7');" onmouseout="collapseMenu('mnu7');">
-				<div id="tfol7" class="topFold" "="">MEETINGS, SEMINARS, &amp;&nbsp;<br>LEARNING SYSTEMS</div></a>
-</b></font>
-			</td>
-		</tr>
-	</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="5" border="1" rules="rows" width="100%">
-<tbody><tr bordercolor="Black">
-<td bgcolor="#66648c" align="CENTER" width="100%">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td align="CENTER" width="100%">
-				<font color="White" face="'Verdana','Arial','Helvetica'" size="1">
-				<b>
-				<a class="CL0" href="/about" onmouseover="expandMenu('mnu3',event,'tfol3')" onmouseout="collapseMenu('mnu3')">
-				<div id="tfol3" class="topFold">INSIDE SHRM</div></a></b></font>
-			</td>
-		</tr>
-	</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="5" border="1" rules="rows" width="100%">
-<tbody><tr bordercolor="Black">
-<td bgcolor="#66648c" align="CENTER" width="100%">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td align="CENTER" width="100%">
-				<font color="White" face="'Verdana','Arial','Helvetica'" size="1">
-				<b>
-				<a class="CL0" href="/pegs/" onmouseover="expandMenu('mnu5',event,'tfol5')" onmouseout="collapseMenu('mnu5')">
-				<div id="tfol5" class="topFold">PROFESSIONAL EMPHASIS GROUPS</div></a></b></font>
-			</td>
-		</tr>
-	</tbody></table>
-</td>
-</tr>
-</tbody></table>
-
-				<!-- NAVMENU -->
-			<br>
-			
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">&nbsp;</td>
-	</tr>
-</tbody></table>
-
-</center>
-<script language="JavaScript" src="/navigation/blankmenu.js"></script>
-
-            
-           </td><td valign="top" bgcolor="#FFFFFF" rowspan="3" width="2%">
-		&nbsp;
-	</td>
-<td valign="top" bgcolor="#FFFFFF" height="100" colspan="3"> 
-			
- <!--adslot--> 
-<center> 
-
-
-
-<table border="0" cellspacing="0" width="468">
-	<tbody><tr>
-		<td colspan="5" align="right" width="468">
-			<font size="3" color="BLACK">
-				<a style="color: #0000FF;" href="/sitehelp">Help</a>|<a style="color: #0000FF;" href="/about">About</a>|<a style="color: #0000FF;" href="/memberkit/">Member Services</a>|<a style="color: #0000FF;" href="/memberkit/sub_pages/shrm_now.html">Non-Members</a>|
-				<a style="color: #FF0000;" href="/join">		<b>Join SHRM</b></a>|<b><a style="color: #0000FF;" href="/login.asp">Log In</a></b>
-			
-			</font>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="5" align="center" width="468"><!--adslot-->
-			
-			<!--baninc1.asp--><nolayer><iframe src="http://ad.doubleclick.net/adi/shrm.dart/home;sz=468x60;ord=216820?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/shrm.dart/home;abr=!ie;sz=468x60;ord=216820?"><IMG SRC="http://ad.doubleclick.net/ad/shrm.dart/home;abr=!ie;sz=468x60;ord=216820?" border=0 height="60" width="468"></A></iframe></nolayer>
-			<ilayer id="layer1" visibility="show" width="468" height="60"></ilayer>
-			
-		</td>
-	</tr>
-	
-	<tr>
-		<script language="JavaScript">var mydate=new Date()
-			var year=mydate.getYear();
-			if (year<2000)
-				year=1900+year;
-			var month=mydate.getMonth();
-			var daym=mydate.getDate();
-
-			if (daym<10)
-				daym=""+daym;
-			var montharray=new     Array("January","February","March","April","May","June","July","August"   ,"September","October","November","December");
-		</script>
-		<td colspan="5" align="center" bgcolor="#00214a" width="468">
-			<center>
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td align="LEFT" width="40%">
-						<font face="Arial" color="#FFFFFF" size="2">
-						<b>
-						<a style="color: #FFFFFF;" href="/privacy/">Privacy&nbsp;Home</a>
-						</b>
-						</font>
-					</td>
-					<td align="LEFT" width="30%">
-						<font face="Arial" color="#FFFFFF" size="2">
-						<b>
-						&nbsp;
-						<script language="JavaScript">document.write(montharray[month]+" "+daym+", "+year)</script>February 2, 2020
-						</b>
-						</font>
-					</td>
-					<td align="CENTER" width="15%">
-						<font face="Arial" color="#FFFFFF" size="2">
-						<b>
-						<a style="color: #FFFFFF;" href="/">				SHRM</a>
-						</b>
-						</font>
-					</td>
-					<td align="RIGHT">
-						<a href="/"><img border="0" src="/graphics/minishrm.gif"></a>
-					</td>
-				</tr>
-			</tbody></table></center>
-		</td>
-	</tr>
-	
-</tbody></table>
-
-
-</center> 
-<!--end adslot-->    
-         
-</td><td valign="top" bgcolor="#FFFFFF" rowspan="3" width="3"> </td></tr>
-  
- 
-
-  <tr>
-
-			
-               
-          <td valign="top" bgcolor="#FFFFFF" colspan="3"> 
-
-
-
-
-
-<!--BeginDoc-->
-
-
-<!--BEGINDOC-->
-<title>SHRM Online Privacy Statement</title>
-<meta name="MEMBER" content="0">
-<meta name="PEG" content="">
-<meta name="PDATE" content="05/21/02">
-<meta name="CDATE" content="11/7/00">
-<meta name="SHRMSUMMARY" content="">
-
-
-
-<font face="arial,geneva" size="-1">
 <div align="center">
 <h3>SHRM ONLINE PRIVACY POLICY</h3>
 </div>
@@ -1522,7 +474,7 @@ A cookie is a small text file containing a unique identification number that is 
 To help serve you better, SHRM generally uses cookies to:
 </p><ul>
 	<p></p><li>Identify return visitors. Cookies let us remember your web browser so we can provide personalized member services such as My SHRM and SHRM search agents. Cookies also allow us to identify SHRM members who are returning to the site, so you will not have to re-enter a member ID and password the next time you visit. 
-	<p></p></li><li>Display advertisements.  SHRM uses an outside ad company to display SHRM-approved ads on our website. While we use cookies on other parts of our website(s), the cookies received with banner ads are collected by our ad company. These cookies allow SHRM to manage the delivery of ads and do not collect personally identifiable information. For more information about our third party ad company, their cookies, and how to "opt-out" of those cookies,  please <a href="http://www.doubleclick.net/us/coporate/privacy">click here</a>.
+	<p></p></li><li>Display advertisements.  SHRM uses an outside ad company to display SHRM-approved ads on our website. While we use cookies on other parts of our website(s), the cookies received with banner ads are collected by our ad company. These cookies allow SHRM to manage the delivery of ads and do not collect personally identifiable information. For more information about our third party ad company, their cookies, and how to "opt-out" of those cookies,  please <a href="http://www.doubleclick.net/us/corporate/privacy">click here</a>.
 
 </li></ul>
 
@@ -1532,7 +484,7 @@ Data collected through SHRM's website(s) is generally collected and maintained s
 </p><ol type="a">
 	<p></p><li><b>Personally identifiable information</b>. When you provide personally identifiable information on SHRM Online to register for a service,  buy a product, or take advantage of a promotion, that information is collected and maintained solely by SHRM, unless specifically stated otherwise at the point of collection.  SHRM will inform you at the point of collection if your personal data is being shared with another organization.  If you do not want to share your information with that company, you can choose not to use that service.  
 <p>
-If you join SHRM or renew your membership through our website, you provide personally identifiable information on the membership application. SHRM sells mailing lists (names and mailing addresses) of members to selected third-parties. You may opt out of mail list sales when you complete your online application or anytime during your membership, as described in Item 6 below. SHRM does not sell member e-mail addresses to third-parties.  
+If you join SHRM or renew your membership through our website, you provide personally identifiable information on the membership application. SHRM sells mailing lists (names and mailing addresses) of members to selected third-parties. If you wish to opt out of mail list sales at any time during your SHRM membership, you may do so by following the directions in Item 6 below. SHRM does not sell member e-mail addresses to third-parties.  
 	</p><p></p></li><li><b>Anonymous information</b>.  We disclose to third-party sponsors/advertisers aggregate statistics (i.e., impressions and click-throughs on a company's advertisement).  Also, we may share aggregate website statistics with the media or other third parties.  No personally identifiable information is disclosed to these sponsors/advertisers or other third parties as part of this process—only information in an aggregate form.
 <p>
 Be aware that SHRM's sponsors, advertisers, and third-party content providers have links on our site(s) that take you to other websites. For example, when you click on an ad displayed on SHRM Online, you are linked to another site. Please note also that links to other websites are provided throughout SHRM Online for users' information and convenience. SHRM hopes that all third parties involved adhere to our policies regarding the privacy of our users.  However, SHRM's Online Privacy Policy does not cover third-party data collection practices, and SHRM Online does not assume any responsibility for any actions of third parties.
@@ -1542,7 +494,7 @@ Be aware that SHRM's sponsors, advertisers, and third-party content providers ha
 <b>4.  How does SHRM use the information it collects?</b><br>
 SHRM collects information to provide you with the services you request and to improve our website(s). 
 </p><p>
-If you join SHRM or renew your SHRM membership through our website(s), we use the personally identifiable information you provide in the membership application to send you SHRM publications, information about member benefits and special offers, and other information that SHRM believes is relevant and useful to its members. 
+If you join SHRM or renew your SHRM membership through our website(s), we use the personally identifiable information you provide in the membership application to send you SHRM publications, information about member benefits and special offers, and other information that SHRM believes is relevant and useful to its members.  SHRM also sells mailing lists (names and mailing addresses) of members to selected HR service providers. You may opt out of mail list sales at any time during your membership, as described in Item 6 below. SHRM does not sell member e-mail addresses to third-parties. 
 </p><p>
 As mentioned above, SHRM uses the aggregate, anonymous data collected to let our sponsors/advertisers know the number of  impressions or views and the number of "click throughs" on their advertisement(s).  SHRM also uses this aggregate, anonymous data to perform statistical analyses of the collective characteristics and behavior of our site visitors; to measure user interests regarding specific areas of the SHRM Online; and to analyze how and where best to use our resources. Without such data, we would not know which  parts of SHRM Online are the most popular, and we would not be able to change and update the content and services appropriately. 
 </p><p>
@@ -1597,7 +549,7 @@ This site makes bulletin boards, discussion lists, and moderated chats available
 <p></p></li><li>Direct Marketing Association (DMA) <a href="http://www.the-dma.org/">http://www.the-dma.org/</a>
 <p></p></li><li>Electronic Frontier Foundation—non-profit dedicated to protecting public interest in online privacy.  <a href="http://www.eff.org">http://www.eff.org</a>
 <p></p></li><li>EPIC.org (Electronic Privacy Information Center) <a href="http://www.epic.org">http://www.epic.org</a>
-<p></p></li><li>Georgetown Internet Privacy Study  <a href="http://www.msb.edu/faculty/culnanm/gippshome.html">http://www.msb.edu/faculty/culnanm/gippshome.html</a> 
+<p></p></li><li>Georgetown Internet Privacy Study  <a href="http://www.msb.edu/faculty/culnanm/gippshome.asp">http://www.msb.edu/faculty/culnanm/gippshome.html</a> 
 <p></p></li><li>NetCoalition.com  <a href="http://www.netcoalition.com">http://www.netcoalition.com</a>
 <p></p></li><li>Network Advertising Initiative  <a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a>
 <p></p></li><li>Online Privacy Alliance  <a href="http://www.privacyalliance.org/">http://www.privacyalliance.org/</a>
@@ -1614,95 +566,64 @@ This site makes bulletin boards, discussion lists, and moderated chats available
 </form>
 
 
-
-<!--ENDDOC-->
-			 
-<!--EndDoc-->	
-
-
-<br>
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="100%">
-  <tbody><tr>
-  <td colspan="3">
-<!--
-<script language="Javascript">
-function openComments() {
-	var fileName;
-	fileName = "/feedback/feedback.asp?pageName=" + document.URL;
-	window.open(fileName,"Comments","toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=1");
-}
-</script><center>
-</center><BR>
-
--->
-  <hr width="80%" align="LEFT"></td>
-  </tr>
-  <tr><td width="90" valign="TOP"><a href="/default.asp"><img src="/graphics/weblogo02.jpg" width="73" height="115" border="0"></a><p></p></td>
-    <td>
-<b>Society for Human Resource Management</b><br>1800 Duke Street<br>
-Alexandria, Virginia 22314 USA<br>
-(800) 283-SHRM (U.S. only)<br>
-+1 (703) 548-3440 (International)<br>
-FAX: (703) 535-6490<br>
-Questions? <a href="/help">Contact SHRM</a><br>
-Technical Assistance: <a href="/webhelp/">webhelp@shrm.org</a>
-<p>
-<font size="-1">Copyright © 2002, Society for Human Resource Management</font>
-    </p></td>
-  </tr>
-<tr>
-    <td colspan="5" align="CENTER" width="100%">&nbsp;</td>
-</tr>
-<tr>
-    <td colspan="5" align="CENTER" width="100%"><font size="2" color="BLACK"><a style="color: #0000FF;" href="/privacy">SHRM Privacy Statement</a></font></td>
-</tr>
-<tr>
-    <td colspan="5" align="CENTER" width="100%"><hr width="100%"></td>
-</tr>
-<tr>
-    <td colspan="5" align="CENTER" width="100%">
-	<font size="2" color="BLACK">
-	<a style="color: #0000FF;" href="/sitehelp">Help</a>&nbsp;|&nbsp;<a style="color: #0000FF;" href="/about">About</a>&nbsp;
-	|&nbsp;<a style="color: #0000FF;" href="/jobs/career/">Careers@SHRM</a>&nbsp;
-	|&nbsp;<a style="color: #0000FF;" href="/memberkit">Member&nbsp;Services</a>&nbsp;
-	|&nbsp;<a style="color: #0000FF;" href="/memberkit/sub_pages/shrm_now.html">Non-Members</a>&nbsp;|&nbsp;
-	
-		<a style="color: #0000FF;" href="/join">Join</a>&nbsp;
-		|&nbsp;<b><a style="color: #0000FF;" href="/login.asp">Log In</a></b>
-	
-	</font>
+</center></li></ol></li></td></tr>
+</tbody></table>
+          </td>
+        </tr>
+        <!-- **************************************** -->
+        <!--           END DOCUMENT BODY              -->
+        <!-- **************************************** -->
+        <tr>
+          <td colspan="2"><img src="/images/blue-rule-440px.gif" width="600" height="10" alt=""></td>
+        </tr>
+        <tr> 
+          <td height="10"></td>
+        </tr>
+        <tr>
+          <td colspan="2" width="630">
+            <!-- **************************************** -->
+            <!--         BEGIN DOCUMENT FOOTER            -->
+            <!-- **************************************** -->
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td valign="top"><img src="/images/logo_bottom.gif" width="97" height="143" alt="[Image]: HR"></td>
+                <td valign="top"><span class="bodyshrm"><b><span class="hedshrm">Society 
+                  for Human Resource Management</span></b><br>
+                  1800 Duke Street • Alexandria, Virginia 22314 USA<br>
+                  <br>
+                  <b><span class="hedshrm">Phone</span></b> US Only: (800) 
+                  283-SHRM; <br>
+                  <b><span class="hedshrm">Phone</span></b> International: 
+                  +1 (703) 548-3440<br>
+                  <b><span class="hedshrm">Fax</span></b> (703) 535-6490<br>
+                  <b><span class="hedshrm">Questions?</span></b> <a href="/help/" class="hedshrm">Contact 
+                  SHRM</a><br>
+                  <b><span class="hedshrm">Technical Assistance</span></b> 
+                  <a href="/webhelp/" class="hedshrm">webhelp@shrm.org</a><br>
+                  <b><span class="hedshrm">Careers</span></b> <a href="/jobs/career/" class="hedshrm">Careers 
+                  @ SHRM</a><br>
+                  <b><br>
+                  <span class="hedshrm">Copyright</span></b> © 2003, 
+                  Society for Human Resource Management<br>
+                  SHRM <a href="/privacy/" class="hedshrm">Privacy Statement</a></span></td>
+              </tr>
+              <tr><td height="20"></td></tr>
+            </tbody></table>
+            <!-- **************************************** -->
+            <!--          END DOCUMENT FOOTER             -->
+            <!-- **************************************** -->
+          </td>
+        </tr>
+      </tbody></table>
     </td>
+    <!-- **************************************** -->
+    <!--           END MAIN DOCUMENT              -->
+    <!-- **************************************** -->
+    <!-- **************************************** -->
+    <!--                END DOCUMENT              -->
+    <!-- **************************************** -->
   </tr>
-
 </tbody></table>
-
-
-
-</center></li></ol></li></font></td><td valign="TOP" width="15%">
-<center><font size="1">ADVERTISEMENT</font></center>
-		<nolayer><iframe src="http://ad.doubleclick.net/adi/shrm.dart/home;sz=120x600;ord=143167?" width="120" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/shrm.dart/home;abr=!ie;sz=120x600;ord=143167?"><IMG SRC="http://ad.doubleclick.net/ad/shrm.dart/home;abr=!ie;sz=120x600;ord=143167?" border=0 height="600" width="120"></A></iframe></nolayer>
-		<ilayer id="towerLayer" visibility="show" width="120" height="600"></ilayer>
-
-</td>
-
-
-   </tr>
- 
-
-</tbody></table>
-
-
-
-
-
-
-
-
-
 
 
 </body></html>
