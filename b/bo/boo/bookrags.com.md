@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207013839id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307114702id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
 
 # BookRags - Privacy Policy
 
-| 
-
-Privacy Policy  
-  
----|---  
 | 
 
 Your privacy is very important to BookRags. Please read the following to learn about BookRags’s commitment to maintaining your privacy.  
