@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603043725id_/http%3A//www.edutopia.org/foundation/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205014343id_/http%3A//www.edutopia.org/foundation/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ The George Lucas Educational Foundation (GLEF) is firmly committed to respecting
 
 **WHAT INFORMATION DO WE COLLECT?:**
 
-Generally, we limit the collection of information to what is known as non-personally identifiable information (such as first name, age, state, or country). We will not require you to provide more information than is necessary to participate in any of our Web site activities. This information is collected so that visitors can participate in activities (such as receiving our GLEF Blast e-mail updates or participating in our polls). 
+Generally, we limit the collection of information to what is known as non-personally identifiable information (such as first name, age, state, or country). We will not require you to provide more information than is necessary to participate in any of our Web site activities. This information is collected so that visitors can participate in activities (such as receiving our Edutopia News e-newsletter updates or participating in our polls). 
 
 However, in some areas on our Web site personally identifiable information is asked for and collected (for example, the necessary personal information to subscribe to our magazine). Whenever we request that you submit such information, we will endeavor to notify you of our intended use of the information, as more specifically discussed below. PLEASE BE AWARE THAT YOU ARE UNDER NO OBLIGATION TO PROVIDE, AND CAN DECLINE TO PROVIDE, ANY REQUESTED INFORMATION AT ANY TIME. HOWEVER, IF YOU DECLINE, YOU MAY NOT BE ABLE TO PARTICIPATE IN CERTAIN ACTIVITIES ON THIS WEB SITE. 
 
