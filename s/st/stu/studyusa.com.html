@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the studyusa.com privacy policy that was archived on 2003-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030605085325id_/http%3A//studyusa.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studyusa.com privacy policy that was archived on 2003-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207141523id_/http%3A//studyusa.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,51 +14,22 @@
 <script language="JavaScript">
 
 	<!--
-	function MM_preloadImages() { //v3.0
-	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-	    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-	    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-	}
-	
-	function MM_swapImgRestore() { //v3.0
-	  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-	}
-	
-	function MM_findObj(n, d) { //v4.0
-	var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-	    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-	if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-	for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-	if(!x && document.getElementById) x=document.getElementById(n); return x;
-	}
-	
-	function MM_swapImage() { //v3.0
-	var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-	if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-	}
-	
-		function formHandler2(formlang){
+	function formHandler(form){
+	if (document.form.Cat.options[document.form.Cat.selectedIndex].value != "Other") {
+	var URL = "/toc.asp?lstCat=" + document.form.Cat.options[document.form.Cat.selectedIndex].value + "&lstLang=English&optSort=Geo";
+	window.location.href = URL;
+	}}
+	function formHandler2(formlang){
 	if (document.formlang.site.options[document.formlang.site.selectedIndex].value != "blank") {
 	var URL = document.formlang.site.options[document.formlang.site.selectedIndex].value
 	window.location.href = URL;
 	}}
-	// BROWSER CHECK
-	browser = navigator.appName;
-	appVer = parseInt(navigator.appVersion);
-	ie = "Microsoft Internet Explorer";
-	ns = "Netscape";
-	if (navigator.appVersion.indexOf("Macintosh") != -1) {
-		isMac = true;
-	} else {
-		isMac = false;
-	}
-
 	//-->
 </script>
 
 </head>
 
-<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" background="/site/background.gif" onload="MM_preloadImages('/site/langeng2_r.gif','/site/langjpn_h.gif','/site/langspn_h.gif','/site/langchn_h.gif','/site/nav_1r.gif','/site/nav_2r.gif','/site/nav_3r.gif','/site/nav_4r.gif','/site/nav_5r.gif','/site/nav_6r.gif')">
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" background="/site/background.gif">
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="760">
@@ -74,18 +45,12 @@
 </tr>
 <form name="formlang"></form>
 <tr valign="middle">
-	<td width="345" valign="middle" bgcolor="#F57921">
-
-	<a href="/default.asp"><img src="/site/langeng2_h.gif" width="100" height="24" border="0" name="langeng" alt="English" align="top"></a><a href="/jarticles.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('langjpn','','/site/langjpn_r.gif',1)"><img src="/site/langjpn.gif" width="80" height="24" border="0" name="langjpn" alt="Japanese" align="top"></a><a href="/sparticles.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('langspn','','/site/langspn_r.gif',1)"><img src="/site/langspn.gif" width="80" height="24" border="0" name="langspn" alt="Spanish" align="top"></a><a href="/Chinese" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('langchn','','/site/langchn_r.gif',1)"><img src="/site/langchn.gif" width="80" height="24" border="0" name="langchn" alt="Chinese" align="top"></a>
-	</td>
-	<td width="100" valign="middle" bgcolor="#F57921">
+	<td valign="middle" bgcolor="#F57921">
+	<a href="/default.asp"><img src="/site/langeng_h.gif" width="100" height="24" border="0" alt="English" align="top"></a><a href="/Japanese"><img src="/site/langjpn.gif" width="80" height="24" border="0" alt="Japanese" align="top"></a><a href="/Spanish"><img src="/site/langspn.gif" width="80" height="24" border="0" alt="Spanish" align="top"></a><a href="/Chinese"><img src="/site/langchn.gif" width="80" height="24" border="0" alt="Chinese" align="top"></a><a href="/Korean"><img src="/site/langkor.gif" width="80" height="24" border="0" alt="Korean" align="top"></a><a href="/Portuguese"><img src="/site/langpor.gif" width="80" height="24" border="0" alt="Portuguese" align="top"></a></td>
+	<td valign="middle" bgcolor="#F57921">
 <font style="font-size: 11px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif">
-
 <select name="site" class="dropdown2" onchange="javascript:formHandler2()">
-<option selected="" value="blank">Languages
-</option><option value="blank">--------
-</option><option value="/Korean">Korean
-</option><option value="/particles.htm">Portuguese
+<option selected="" value="blank">more Languages
 </option><option value="blank">--------
 </option><option value="/toc.asp?lstCat=All+Programs&amp;lstLang=Arabic&amp;optSort=Geo&amp;optFeat=Yes">Arabic
 </option><option value="/Chinese">Chinese
@@ -96,12 +61,12 @@
 </option><option value="/toc.asp?lstCat=All+Programs&amp;lstLang=Hebrew&amp;optSort=Geo&amp;optFeat=Yes">Hebrew
 </option><option value="/toc.asp?lstCat=All+Programs&amp;lstLang=Indonesian&amp;optSort=Geo&amp;optFeat=Yes">Indonesian
 </option><option value="/toc.asp?lstCat=All+Programs&amp;lstLang=Italian&amp;optSort=Geo&amp;optFeat=Yes">Italian
-</option><option value="/jarticles.htm">Japanese
+</option><option value="/Japanese">Japanese
 </option><option value="/Korean">Korean
 </option><option value="/toc.asp?lstCat=All+Programs&amp;lstLang=Polish&amp;optSort=Geo&amp;optFeat=Yes">Polish
-</option><option value="/particles.htm">Portuguese
+</option><option value="/Portuguese">Portuguese
 </option><option value="/toc.asp?lstCat=All+Programs&amp;lstLang=Russian&amp;optSort=Geo&amp;optFeat=Yes">Russian
-</option><option value="/sparticles.htm">Spanish
+</option><option value="/Spanish">Spanish
 </option><option value="/toc.asp?lstCat=All+Programs&amp;lstLang=Swedish&amp;optSort=Geo&amp;optFeat=Yes">Swedish
 </option><option value="/toc.asp?lstCat=All+Programs&amp;lstLang=Thai&amp;optSort=Geo&amp;optFeat=Yes">Thai
 </option><option value="/toc.asp?lstCat=All+Programs&amp;lstLang=Turkish&amp;optSort=Geo&amp;optFeat=Yes">Turkish
@@ -111,20 +76,7 @@
 </font>
 	</td>
 	
-	<td width="185" height="24" bgcolor="#919496" valign="middle">
-<form action="/vfp_search.asp" method="post" style="margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px; vertical-align: middle;">
 
-&nbsp;
-	<script language="Javascript">
-	if (browser == ie && !isMac) {
-		document.write('<input type="text" name="searchstring" size="20" class="netsearch">');
-	} else { 
-		document.write('<input type="text" name="searchstring" size="12" class="netsearch">'); 
-	}    
-	</script><input type="text" name="searchstring" size="12" class="netsearch">
-	<input type="image" name="go" src="/site/search2.gif" alt="Search" align="absmiddle" width="51" height="16" border="0">
-</form>
-</td>
 </tr>
 <tr>
 	<td height="28" colspan="3">
@@ -137,15 +89,13 @@
 <tbody><tr>
 	<td width="150" valign="top">
 	<img src="/site/nav_02.gif" width="130" height="37" border="0" alt=""><br>
-	<a href="/toc.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_1','','/site/nav_1r.gif',1)"><img src="/site/nav_1.gif" width="130" height="39" border="0" name="nav_1" alt="Featured Programs"></a><br>
-	<a href="/inforeq.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_2','','/site/nav_2r.gif',1)"><img src="/site/nav_2.gif" width="130" height="39" border="0" name="nav_2" alt="Request Information"></a><br>
-	<a href="/search.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_3','','/site/nav_3r.gif',1)"><img src="/site/nav_3.gif" width="130" height="39" border="0" name="nav_3" alt="Find a Program"></a><br>
-<!-- 	<a href="/applynow.asp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('nav_4','','/site/nav_4r.gif',1)"><img src="/site/nav_4.gif" width="130" height="39" border="0" name="nav_4" alt="Apply Now!"></a><br>
- -->	<a href="/articles.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_5','','/site/nav_5r.gif',1)"><img src="/site/nav_5.gif" width="130" height="39" border="0" name="nav_5" alt="Resource Guide"></a><br>
-	<a href="http://www.BoardingSchoolsUSA.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_6','','/site/nav_6r.gif',1)"><img src="/site/nav_6.gif" width="130" height="40" border="0" name="nav_6" alt="Boarding Schools"></a><br>
+	<a href="/toc.asp"><img src="/site/nav_1.gif" width="130" height="39" border="0" alt="Featured Programs"></a><br>
+	<a href="/inforeq.asp"><img src="/site/nav_2.gif" width="130" height="39" border="0" alt="Request Information"></a><br>
+	<a href="/search.asp"><img src="/site/nav_3.gif" width="130" height="39" border="0" alt="Find a Program"></a><br>
+	<a href="/articles.htm"><img src="/site/nav_5.gif" width="130" height="39" border="0" name="nav_5" alt="Resource Guide"></a><br>
+	<a href="http://www.BoardingSchoolsUSA.com"><img src="/site/nav_6.gif" width="130" height="40" border="0" alt="Boarding Schools"></a><br>
 	<img src="/logo/photo2.jpg" width="130" height="210" border="0" alt=""><br>
 	</td>
-
 	<td width="450" valign="top">
 	<p class="subhead">Privacy Policy</p>
 <br>
