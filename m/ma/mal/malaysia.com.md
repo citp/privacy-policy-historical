@@ -1,51 +1,14 @@
-> *The following text is extracted and transformed from the malaysia.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018135320id_/http%3A//en.communicate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysia.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405005731id_/http%3A//en.communicate.com/privacy.shtml) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT | Communicate.com Network
 
-Communicate.com is committed to our visitors and to protecting their privacy. We value our visitors and endeavor to create an enjoyable and valuable experience when visiting our network of sites. The following Privacy Statement applies to all visitors to the Communicate.com network of sites, and to all referrals made by our visitors. 
-
-## What Information We Collect
-
-The Communicate.com network of sites currently asks visitors for information in a variety of ways. First, there is a general survey posted that does not require the submission of any personal information. Second, when you enter our contest, we ask for your name, email address, age range, gender, country and zip/postal code to qualify as an entry. Third, we ask general interest questions in our survey questionnaire as a means for visitors to obtain additional entries into the contest. 
-
-## How the Customer Information is Used
-
-Information collected from the contest entry, survey questions and through any other forum helps us develop the design, content, and features of our sites. We may also use the information we collect to email you every now and then about upcoming contests and developments on the sites within our network or news and/or promotions from our partners or to market new services and/or products that we believe will be of interest to you, in conjunction with our business partners. 
-
-## Customer Protection
-
-Communicate.com takes all measures to provide a safe environment with security procedures in place to ensure proper storage and careful retrieval of information so that your personal information is secure and protected. 
-
-## What We Do with Your Information
-
-Your privacy is a very sensitive subject for us and we take it very seriously. So our Privacy Statement is pretty simple. We will not sell, barter, give away or rent your personal information to any third party outside of communicate.com Inc. and its properties. Communicate.com may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third parties, but these statistics will include no personally identifying information. 
-
-## Cookies
-
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. We use cookies to store visitor's preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to the site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads and to customize web page content based on visitors' browser type or other information that the visitor sends. 
-
-## Contests
-
-Communicate.com runs contests across the network from time to time. Please refer to the Contest Rules and Regulations for details about each contest. 
-
-## Your Consent
-
-By using our web site and submitting your information to the Communicate.com network, you consent to the collection and use of this information by communicate.com Inc. If we decide to change our Privacy Statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. If you are not comfortable with any of the changes to our Privacy Statement, you will have the opportunity to unsubmit your information from our network at any time by emailing [unsubscribe@communicate.com](mailto:unsubscribe@communicate.com) and typing "unsubscribe" in the subject line. 
-
-## Links
-
-Some sites within our network contain links to other external sites. Communicate.com is not responsible for the privacy practices or the content of such web sites. If you have a question about the Privacy Statement of those web sites, please visit them directly. 
-
-## Contacting Us
-
-If you have any questions about our Privacy Statement, our site practices or your personal experience dealing with this web site, you can contact our offices at Suite 360-220 Cambie Street, Vancouver, BC, Canada, V6B 2M9, tel: 1.800.559.9188 or at [ info@communicate.com](mailto:info@communicate.com). 
 Communicate.com is committed to protecting your privacy. We value our visitors and endeavor to create an enjoyable and valuable experience when visiting our network of sites. The following Privacy Statement applies to all visitors to the Communicate.com network of sites, and to all referrals made by our visitors. 
 
 ## 1.0 What information we collect and how we use it
 
 **1.1 User Registration**
 
-To help recognize you and personalize your experiences on the Communicate.com Network we offer a general registration service. Registration requires that you provide us with your first name, last name, email address, age range, gender and country. You have the option to opt-in to any products or services we may offer. You can change, update, opt-out of services, or terminate your registration altogether at any time. 
+To help recognize you and personalize your experiences on the Communicate.com network we offer a general registration service. Registration requires that you provide us with your first name, last name, email address, age range, gender and country. You have the option to opt-in to any products or services we may offer. You can change, update, opt-out of services, or terminate your register altogether at any time. 
 
 Registering once with our network gives you access to the various services that you may choose to opt-in to, for example receiving marketing materials, free email, and access to forums. Registration also allows you to automatically populate our contest forms should you choose to participate. Your one user name and password will provide you access to all the services you have chosen on any of our web sites. And, we may from time to time also ask general interest questions in a survey questionnaire to help us understand what type of experience you would like to have when you visit a Communicate.com web site. 
 
@@ -69,7 +32,7 @@ When we no longer need your information, or you have withdrawn your consent to u
 
 **1.4 Your consent**
 
-Consent means that you are aware, understand, and have expressly permitted Communicate.com to collect, use, re-use or disclose your personal information for the purpose(s) identified to you.  And, you understand that in providing us consent, you are permitting use of your personal information to ensure that we meet your reasonable expectations in providing services to you. For example, if you subscribe to a Communicate.com service, we may on occasion have to contact you regarding that service.
+Consent means that you are aware, understand, and have expressly permitted Communicate.com to collect, use, re-use or disclose your personal information for the purpose(s) identified to you. In other words, you must have agreed to. And, you understand that in providing us consent, you are permitting use of your personal information to ensure that we meet your reasonable expectations in providing services to you. For example, if you subscribe to a Communicate.com service, we may on occasion have to contact you regarding that service.
 
 Where the information you are providing to us is sensitive, your consent must be expressed. For example, clicking on the submit button on a form that includes your personal information is considered expressed consent. Or, sending us an email requesting a product or service is considered consent. The manner in which your consent is granted may vary depending on the sensitivity of the information that you are providing to us. Where the information is less sensitive, implied consent will be considered appropriate. For example, when participating in a discussion forum, your username may be made available to other users. 
 
@@ -83,7 +46,7 @@ We do not currently have services for children under 13. If a child wants to use
 
 **1.6 Accessing your personal information**
 
-Where applicable, we will provide the means to update or modify your personal information online. Otherwise, you can request an update or modification of your information by sending us an email detailing the changes. Information regarding the existence, collection, use or disclosure of your personal information can be accessed by sending an email to [privacy_admin@en.communicate.com](mailto:privacy_admin@en.communicate.com).
+Where applicable, we will provide the means to update or modify your personal information online. Otherwise, you can request an update or modification of your information by sending us an email detailing the changes. Information regarding the existence, collection, use or disclosure of your personal information can be accessed by sending an email to [privacy_admin@communicate.com](mailto:privacy_admin@communicate.com).
 
 We will provide the information to you within a reasonable period of time in a format that is easily understandable. We will only deny access if the information includes the information of another person, it is cost prohibitive, a security risk or it is proprietary, or where we are prohibited by law. Proof of your identify will be required before any information is disclosed to you, and depending on the nature of the request, you may be asked to incur the costs associated with supplying the information to you. You can also request our policies and procedures regarding the management of personal information. 
 
@@ -133,7 +96,7 @@ Please keep in mind that whenever you give out personal information while using 
 
 We exercise care and due diligence in managing, transmitting and securing personal information once we receive it. Your personal information is protected by safeguards that are appropriate to the sensitivity of the information. This may include restricted access to an office, secure access levels to databases, or the use of passwords and encryption. However, it is important for you to know that data transmission over the Internet is not 100% secure. Despite our efforts, unfortunately, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
 
-If you register with any web site on the Communicate.com network, your account is password protected. Only you can access and view the information you have provided. We strongly encourage you not to divulge your password to anyone. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. We also recommend that you log-out of the network when you have finished your visit, and close your browser window when you have finished your work. Doing so will ensure that others cannot access your personal information and correspondence if your computer is accessible to others, such as in a library or Internet café.
+If you register with any web site on the Communicate.com network, your account is password protected. Only you can access and view the information you have provided. We strongly encourage you not to divulge your password to anyone. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. We also recommend that you log-out of the network when you have finished your visit, and close your browser window when you have finished your work. Doing so will ensure that others cannot access your personal information and correspondence if your computer is accessible to others, such as in a library or internet café.
 
 ## 7.0 General
 
