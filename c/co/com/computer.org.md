@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computer.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604120507id_/http%3A//computer.org/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computer.org privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222045656id_/http%3A//www.computer.org/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Guidlines
 
@@ -53,8 +53,6 @@ Information in server logs is used for system administration and to report aggre
 
 ### E-mail aliases
 
-The Computer Society may from time to time send society-related e-mail messages to the member's "@computer.org" alias. A member can choose not to receive such unsolicited messages by filling out a request form that can be accessed from <http://computer.org/e-news/>.
-
 The e-mail alias service is a private benefit for individual members; aliases may not be established for commercial or other organizational purposes. The Computer Society does not monitor or interfere with individual messages sent through its e-mail alias system, but it reserves the right to discontinue any alias if it receives receives complaints about inappropriate use of that alias, or if the alias is otherwise used in a way that is inconsistent with the appropriate image of a society of professionals.
 
 ### Personalization
@@ -100,4 +98,4 @@ The membership registration form, Member Network, periodical subscription system
 Send general comments and any questions about the IEEE Computer Society's Web site to [help@computer.org](mailto:help@computer.org).  
 Read our [Privacy and Security](https://web.archive.org/privacy.htm) guidelines. 
 
-This site and all contents (unless otherwise noted) are [Copyright](https://web.archive.org/copyright.htm) ©2002, IEEE, Inc. All rights reserved. 
+This site and all contents (unless otherwise noted) are [Copyright](https://web.archive.org/copyright.htm) ©2003, IEEE, Inc. All rights reserved. 
