@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ffinsider.net privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209074922id_/http%3A//www.ffinsider.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffinsider.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305052732id_/http%3A//www.ffinsider.net/privacy.php) for the most accurate reproduction.*
 
 # Final Fantasy Insider / www.ffinsider.net - Privacy Policy
 
-  
-**FF Insider » Privacy Statement**
+[  
+**Buy Final Fantasy Merchandise at Anime International**](http://final-fantasy.series.animeinternational.com/) **FF Insider » Privacy Statement**
 
 * * *
 
