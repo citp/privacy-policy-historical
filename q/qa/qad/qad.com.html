@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qad.com privacy policy that was archived on 2004-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210154141id_/http%3A//www.qad.com/resources/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qad.com privacy policy that was archived on 2005-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050307224833id_/http%3A//www.qad.com/resources/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy</title>
@@ -208,7 +208,26 @@ function dcsTag(){
 	dcsCreateImage(P);
 }
 
-
+function dcsMultiTrack(){
+	for (var i=0;i<arguments.length;i++){
+		if (arguments[i].indexOf('WT.')==0){
+				WT[arguments[i].substring(3)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCS.')==0){
+				DCS[arguments[i].substring(4)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCSext.')==0){
+				DCSext[arguments[i].substring(7)]=arguments[i+1];
+				i++;
+		}
+	}
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag();
+}
+// End dcsMultiTrack Function
 
 if (employeeClientLoc >= 0) {
 
@@ -401,7 +420,7 @@ function searchVerifier() {
  <tbody><tr>
   <td width="96%" align="center"><hr>
   <font class="text">A Passion For Manufacturing</font><br>
-  <font class="copyright"><a href="/resources/copyright.html" class="one">Copyright 1997-2004 QAD Inc.</a> | <a href="/resources/privacy_policy.html" class="one">Privacy Policy</a> | <a href="/resources/terms.html" class="one">Terms of Use</a></font><br><br></td>
+  <font class="copyright"><a href="/resources/copyright.html" class="one">Copyright 1997-2005 QAD Inc.</a> | <a href="/resources/privacy_policy.html" class="one">Privacy Policy</a> | <a href="/resources/terms.html" class="one">Terms of Use</a></font><br><br></td>
  </tr>
 </tbody></table>
 <!-- END FOOTER--> 
