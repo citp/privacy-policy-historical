@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklystandard.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201230946id_/http%3A//weeklystandard.com/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklystandard.com privacy policy that was archived on 2002-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021113082829id_/http%3A//www.weeklystandard.com/misc/privacy.asp) for the most accurate reproduction.*
 
 # The Weekly Standard Privacy Policy
 
