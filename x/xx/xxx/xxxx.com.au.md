@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxx.com.au privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626092213id_/http%3A//www.xxxx.com.au/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxx.com.au privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229005520id_/http%3A//www.xxxx.com.au/PrivacyPolicy) for the most accurate reproduction.*
 
 # XXXX
 
@@ -8,20 +8,20 @@
 > 
 > Our Privacy Policy contains the following important information: 
 > 
-> [Security of your information](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#1)  
-> [Disclosure of your information](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#2)  
-> [Collection of your personal information](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#3)  
-> [How we use the personal information you give us](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#4)  
-> [How we use information gathered from site usage](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#5)  
-> [How & when you can Opt In to receive communication](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#6)  
-> [How & when you can Opt Out of receiving communication](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#6)  
-> [How to access, correct or update your information](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#7)  
-> [What else you should know about Privacy](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#8)  
-> [How to contact us](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#9)
+> [Security of your information](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#1)  
+> [Disclosure of your information](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#2)  
+> [Collection of your personal information](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#3)  
+> [How we use the personal information you give us](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#4)  
+> [How we use information gathered from site usage](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#5)  
+> [How & when you can Opt In to receive communication](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#6)  
+> [How & when you can Opt Out of receiving communication](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#6)  
+> [How to access, correct or update your information](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#7)  
+> [What else you should know about Privacy](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#8)  
+> [How to contact us](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/PrivacyPolicy/Default.asp#9)
 > 
 > When you visit a XXXX web site, you are encouraged to read the information provided on the XXXX sites you are using each time you enter them. 
 > 
-> If you have any concerns, questions or complaints regarding privacy and management of your personal data by XXXX, please use the [Contact Us](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/ContactUs/default.asp) button or email us at [consumerprivacy@xxxx.com.au](mailto:consumerprivacy@xxxx.com.au)
+> If you have any concerns, questions or complaints regarding privacy and management of your personal data by XXXX, please use the [Contact Us](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/ContactUs/default.asp) button or email us at [consumerprivacy@xxxx.com.au](mailto:consumerprivacy@xxxx.com.au)
 > 
 > **_**__****__**Security of your information_**
 > 
@@ -138,7 +138,7 @@
 > 
 > **_**_How to access, correct or update your information_**_**
 > 
-> You may request access to and correction of all personal information which XXXX holds about you at any time, by sending an email via the [Contact Us](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/ContactUs/default.asp) button on the XXXX website or emailing us at consumerprivacy@xxxx.com.au.  Your request will be processed in a reasonable time.  There is no fee for requesting access to your information, however you may be charged the reasonable cost of processing your request.
+> You may request access to and correction of all personal information which XXXX holds about you at any time, by sending an email via the [Contact Us](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/ContactUs/default.asp) button on the XXXX website or emailing us at consumerprivacy@xxxx.com.au.  Your request will be processed in a reasonable time.  There is no fee for requesting access to your information, however you may be charged the reasonable cost of processing your request.
 > 
 >   
 > XXXX reserves the right to decline to correct or update personal information about you where:
@@ -168,6 +168,6 @@
 > 
 > **_**_How to contact us_**_**
 > 
-> If you have any concerns, questions or complaints regarding privacy and management of your personal data, please contact XXXX by using the [Contact Us](https://web.archive.org/web/20040626092213id_/http://www.xxxx.com.au/ContactUs/default.asp) button on the website or by emailing us at [consumerprivacy@xxxx.com.au](mailto:consumerprivacy@xxxx.com.au)
+> If you have any concerns, questions or complaints regarding privacy and management of your personal data, please contact XXXX by using the [Contact Us](https://web.archive.org/web/20041229005520id_/http://www.xxxx.com.au/ContactUs/default.asp) button on the website or by emailing us at [consumerprivacy@xxxx.com.au](mailto:consumerprivacy@xxxx.com.au)
 > 
 > Thank you for taking the time to read the XXXX Privacy Policy.
