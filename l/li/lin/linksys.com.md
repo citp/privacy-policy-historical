@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626012354id_/http%3A//www.cisco.com/en/US/swassets/sw293/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216093550id_/http%3A//www.cisco.com/en/US/swassets/sw293/privacy_statement.html) for the most accurate reproduction.*
 
 # Sitewide Privacy Statement - Cisco Systems
 
 ## Cisco Systems, Inc. Online Privacy Statement
+
+Information Collection Notice  
+Cookies and Tracking Technology  
+Information Collected  
+Information Sharing and Disclosure  
+Review and Delete Your Account and Information  
+Data Security  
+Children and Privacy  
+Third Party Sites  
+Changes to this Privacy Policy  
+Questions or Suggestions
 
 Cisco respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
@@ -44,7 +55,7 @@ Cisco may send your personal information to other companies or people under any 
 
 ### Your Ability to Review and Delete Your Account and Information
 
-If you are a registered CCO user, you can review your personal information by accessing <http://tools.cisco.com/RPF/profile/profile_management.do>. You may also request deletion of your Cisco account or any of your personal information held by us by sending an email to [privacy@cisco.com](mailto:privacy@cisco.com).
+If you are a registered CCO user, review and edit your profile information by accessing <http://tools.cisco.com/RPF/profile/profile_management.do>. You may also request deletion of your Cisco account or any of your personal information held by us by sending an email to [privacy@cisco.com](mailto:privacy@cisco.com).
 
 ### Data Security
 
@@ -68,4 +79,4 @@ Cisco will amend this policy from time to time. If we make any substantial chang
 
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@cisco.com](mailto:privacy@cisco.com).
 
-This document was last updated April 14, 2003
+This document was last updated September 8, 2004
