@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whynotlink.com privacy policy that was archived on 2004-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040601051649id_/http%3A//www.whynotlink.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whynotlink.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214170742id_/http%3A//www.whynotlink.com/pp.php) for the most accurate reproduction.*
 
 # Introducing to you the best IT / E-commerce products and useful online resources and tools
 
