@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the mpsoftware.dk privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211113759id_/http%3A//www.mpsoftware.dk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpsoftware.dk privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220024id_/http%3A//www.mpsoftware.dk/privacy.php) for the most accurate reproduction.*
 
-# MPSOFTWARE - Designed for you!
+# MPSOFTWARE - Designed for you
 
-**  
-privacy statement  
-** ****
+**Privacy Statement**
 
-**This page is no longer valid. Please update your bookmarks.**  
-Please go to: [ www.mpsoftware.dk](http://www.mpsoftware.dk/)   
-**This policy is about personal information that MPSOFTWARE collects and receives**
+* * *
+
+**Policy about personal information collected and received by** **[mpsoftware.dk](http://www.mpsoftware.dk/) and [mpsoftware.org](http://www.mpsoftware.org/) **
 
 Personal information is information about you that may be personally identifiable like your name, organization, address, zip code, email address, or phone number, and that may or may not be otherwise publicly available.
 
-You can visit most pages on our website without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations.
+You can visit most pages on [mpsoftware.dk](http://www.mpsoftware.dk/)
 
-We will ask you when we need information that personally identifies you (personal information. Generally, this information is requested when you are downloading, requesting support, purchasing or registering MPSOFTWARE products.
+, [mpsoftware.org](http://www.mpsoftware.org/) and  [mpsoftwareweb.com](http://www.mpsoftwareweb.com/) without giving any information about yourself but sometimes I need information about you to provide those services you request.
 
-When you register, or otherwise give us personal information, MPSOFTWARE will not share that information with any third parties without your permission.
+Your personal information you share with 
+
+mpsoftware will _not be shared_ with any third parties without your permission.
