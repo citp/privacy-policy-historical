@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810034534id_/http%3A//insurancejournal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603040704id_/http%3A//www.insurancejournal.com/privacy) for the most accurate reproduction.*
 
-# Insurance Journal Online - Privacy Policy
+# Insurance Journal - Privacy Policy
 
-The policies below are applicable to Insurance Journal Online, which is owned and operated by Wells Publishing Inc. 
+Privacy Policy
+
+The policies below are applicable to Insurance Journal Online, which is owned and operated by Wells Publishing Inc.
 
 As a general policy, no personal information is automatically collected from visitors to the InsuranceJournal site, nor is so-called cookie technology used to collect personally identifying information by the sites created by Wells Publishing Inc.
 
