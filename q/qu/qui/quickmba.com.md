@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003211917id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604152941id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
 
 # QuickMBA Privacy Policy
 
@@ -7,10 +7,10 @@
 **Site Information  
      [Home](http://www.quickmba.com/)  
      [Site Map](http://www.quickmba.com/site.shtml)  
-     [About](http://www.quickmba.com/about.shtml)  
+     [About](http://www.quickmba.com/site/about/)  
      [Contact](http://www.quickmba.com/site/contact/)  
      [Reprints](http://www.quickmba.com/site/reprints/)  
-     [User Agreement](http://www.quickmba.com/useragree.shtml)** | 
+     [User Agreement](http://www.quickmba.com/site/agreement/)** | 
 
   
 
@@ -48,7 +48,7 @@ Any changes to this privacy statement will be posted on this site.
 
 * * *
 
-[Home](http://www.quickmba.com/)    [Site Map](http://www.quickmba.com/site.shtml)    [About](http://www.quickmba.com/about.shtml)    [Contact](http://www.quickmba.com/site/contact/)    Privacy    [Reprints](http://www.quickmba.com/site/reprints/)    [User Agreement](http://www.quickmba.com/useragree.shtml)   
+[Home](http://www.quickmba.com/)    [Site Map](http://www.quickmba.com/site.shtml)    [About](http://www.quickmba.com/site/about/)    [Contact](http://www.quickmba.com/site/contact/)    Privacy    [Reprints](http://www.quickmba.com/site/reprints/)    [User Agreement](http://www.quickmba.com/site/agreement/)   
 
 
 The articles on this website are copyrighted material and may not be reproduced,  
