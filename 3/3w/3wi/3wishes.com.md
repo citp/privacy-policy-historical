@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3wishes.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210135738id_/http%3A//3wishes.com/privacy.asp%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3wishes.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305114250id_/http%3A//www.3wishes.com/privacy.asp%23Privacy) for the most accurate reproduction.*
 
 # 3 Wishes Lingerie - Privacy Statement & Security Policy
 
