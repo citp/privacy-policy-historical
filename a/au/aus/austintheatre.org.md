@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the austintheatre.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604080308id_/http%3A//www.austintheatrealliance.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austintheatre.org privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210091440id_/http%3A//www.austintheatre.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Austin Theatre Alliance: Privacy Policy
+# The Paramount & State Theatres: Privacy Policy
 
-Austin Theatre Alliance has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.austintheatrealliance.org.
+The Paramount & State Theatres has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.austintheatre.org.
 
 In order to fully understand your rights we encourage you to read this Privacy   
-Policy as well as our Terms of Use. Austin Theatre Alliance reserves the right at any   
+Policy as well as our Terms of Use. The Paramount & State Theatres reserves the right at any   
 time and without notice to change this Privacy Policy simply by posting such   
 changes on our Site. Any such change will be effective immediately upon posting.
 
@@ -18,7 +18,7 @@ changes on our Site. Any such change will be effective immediately upon posting.
 7\. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control;   
 8\. and, How you can correct any inaccuracies in your information. 
 
-Questions regarding this statement should be directed to Austin Theatre Alliance by sending an e-mail to [khewitt@austintheatrealliance.org](mailto:khewitt@austintheatrealliance.org "E-mail khewitt@austintheatrealliance.org"). Please reference this Privacy Policy in your subject line. 
+Questions regarding this statement should be directed to The Paramount & State Theatres by sending an e-mail to [khewitt@austintheatre.org](mailto:khewitt@austintheatre.org "E-mail khewitt@austintheatrealliance.org"). Please reference this Privacy Policy in your subject line. 
 
 **What Information We Collect and How We Use That Information** :   
 Our registration forms require users to give us contact information that may include name, e-mail address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. 
@@ -32,19 +32,19 @@ Our Site may use cookies to enhance your experience while using our Site. Cookie
 Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them. 
 
 **Security** :   
-All information provided to Austin Theatre Alliance is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of Austin Theatre Alliance. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
+All information provided to The Paramount & State Theatres is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of The Paramount & State Theatres. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
 
 **Tell-A-Friend** :   
-If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and e-mail address. Austin Theatre Alliance will automatically send the friend a one-time e-mail inviting them to visit the Site. Austin Theatre Alliance stores this information for the sole purpose of sending this one-time e-mail. 
+If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and e-mail address. The Paramount & State Theatres will automatically send the friend a one-time e-mail inviting them to visit the Site. The Paramount & State Theatres stores this information for the sole purpose of sending this one-time e-mail. 
 
 **Other Web Sites** :   
-Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which Austin Theatre Alliance has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours. 
+Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which The Paramount & State Theatres has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours. 
 
 **Contacting the Web Site** :   
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
 
-Austin Theatre Alliance  
+The Paramount & State Theatres  
 Post Office Box 1566  
 Austin, Texas 78767  
 (512) 472-2901  
-You can also send an e-mail to: [khewitt@austintheatrealliance.org](mailto:khewitt@austintheatrealliance.org "E-mail jclearman@austintheatrealliance.org")
+You can also send an e-mail to: [khewitt@austintheatre.org](mailto:khewitt@austintheatre.org "E-mail khewitt@austintheatrealliance.org")
