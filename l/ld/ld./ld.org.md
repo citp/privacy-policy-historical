@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ld.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232932id_/http%3A//www.ld.org/LDInfoZone/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ld.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602225710id_/http%3A//ld.org/LDInfoZone/privacy.cfm) for the most accurate reproduction.*
 
-# National Center for Learning Disabilities
+# Child Learning Disabilities, Articles, Transition, Special Education, Dyslexia, LD
 
 |   
 Privacy Policy   
