@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1234-find-web-designers.org privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626070308id_/http%3A//www.1234-find-web-designers.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1234-find-web-designers.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103050id_/http%3A//www.1234-find-web-designers.org/privacy.html) for the most accurate reproduction.*
 
 # Web Site Designers Directories
 
@@ -10,4 +10,4 @@ We do not collect or use any personal information on visitors to our website thr
 
   If you give us your e-mail address, you may receive future communications from us by e-mail. If you do not wish to receive these communications, notify us by e-mail at: [info@1234-find-web-designers.org](http://www.1234-find-web-designers.org/contact.php). Your name will be deleted from our list.
 
-[ _Disclaimer_](https://web.archive.org/web/20040626070308id_/http%3A//www.1234-find-web-designers.org/disclaimer.html)
+[ _Disclaimer_](https://web.archive.org/web/20041204103050id_/http%3A//www.1234-find-web-designers.org/disclaimer.html)
