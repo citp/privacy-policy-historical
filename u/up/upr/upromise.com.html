@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the upromise.com privacy policy that was archived on 2001-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011202112259id_/http%3A//www.upromise.com/corp/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upromise.com privacy policy that was archived on 2002-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020607174812id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.-->
 
 <html><head>
 <title>Upromise - Privacy Statement and Principles</title>
-<link rel="stylesheet" href="../style.css" type="text/css">
+<link rel="stylesheet" href="http://im.upromise.com/style.css" type="text/css">
 <script language="JavaScript">
 <!--
 function getCookie(name) {
@@ -19,22 +19,40 @@ function getCookie(name) {
  if (end == -1) end = dc.length;
  return unescape(dc.substring(begin + prefix.length, end));
 }
-
-var modeLink = "<a href='../displayServlet?su=8100'><span STYLE='font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration:none; color: #ffcc00'>Member Login</span></a>";
-var mode = getCookie("mode");
-if (mode > "0") {
- modeLink = "<a href='../displayServlet?su=8107'><span STYLE='font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration:none; color: #ffcc00'>Logout</span></a>";
+var usr=getCookie("usr");
+var isUsr = false;
+if (usr!=null && (usr.length>1 && usr.indexOf("|")>1)){
+isUsr=true;
+var pipe1=usr.indexOf("|", 0);
+var pipe2=usr.indexOf("|", pipe1+1);
+var pipe3=usr.indexOf("|", pipe2+1);
+var pipe4=usr.indexOf("|", pipe3+1);
+var usrUsername=usr.substring(0,pipe1);
+var usrShopID=usr.substring(pipe1+1,pipe2);
+var usrFirstName=usr.substring(pipe2+1,pipe3);
+var usrFullName=(pipe4!=-1?usr.substring(pipe3+1,pipe4):usr.substring(pipe3+1,usr.length));
+var usrState=(pipe4!=-1?usr.substring(pipe4+1,usr.length):"");
 }
+var joinLink = '<a href="/dispatchServlet?tc.mn=enroll&cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree.gif" alt="JOIN FREE" vspace=0 hspace=0 border=0 align=absmiddle></a>';
+var loginLink = '<a href="/displayServlet?su=8100&cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="LOGIN" vspace=0 hspace=0 border=0 align=absmiddle></a>';
+var logoutLink = '<a href="/displayServlet?su=8107&cx=l0"><img src="http://im.upromise.com/images/nav/l0-logout.gif" alt="LOGOUT" vspace=0 hspace=0 border=0 align=absmiddle></a>';
+var mode = getCookie("mode");
+var modeLink =  joinLink + " | " + loginLink;
+if (isUsr) { modeLink = loginLink; }
+if (mode > "0") { modeLink = logoutLink; }
 function MM_onLoad(img) {
 	if (img!=0) { 	
 		MM_preloadImages(
-			'../images/nav/nav-home.gif',	
-			'../images/nav/nav-howitworks.gif',
-			'../images/nav/nav-cc.gif',
-			'../images/nav/nav-shoponline.gif',
-			'../images/nav/nav-investing.gif',			
-			'../images/nav/nav-myaccount.gif',
-			'../images/nav/nav-blank.gif'
+			'http://im.upromise.com/images/nav/l1-529.gif',	
+			'http://im.upromise.com/images/nav/l1-blank.gif',
+			'http://im.upromise.com/images/nav/l1-grocery.gif',
+			'http://im.upromise.com/images/nav/l1-hiw.gif',
+			'http://im.upromise.com/images/nav/l1-main.gif',			
+			'http://im.upromise.com/images/nav/l1-myact.gif',
+			'http://im.upromise.com/images/nav/l1-olm.gif',
+			'http://im.upromise.com/images/nav/l1-rest.gif',
+			'http://im.upromise.com/images/nav/l1-serv.gif',
+			'http://im.upromise.com/images/nav/l1-stores.gif'		
 		);
 	}
 	window.focus();
@@ -53,14 +71,33 @@ if ( j < 0 ) j = thisUrlLower.indexOf("&ax=");
 if ( (j > 0) && (j + 4 < thisUrl.length) ) {
 	var k = thisUrl.indexOf("&", j + 4);
 	if ( k < 0 ) k = thisUrl.length;
-	document.cookie = "AX=" + escape(thisUrl.substring(j + 4, k))+";path=/;domain=upromise.com";
+	document.cookie = "AX=" + escape(thisUrl.substring(j + 4, k))+";path=/;domain=.upromise.com";
+} else if (document.cookie.indexOf("AX=")==-1) {
+	document.cookie = "AX=up-default;path=/;domain=.upromise.com";
 }
+var m = thisUrlLower.indexOf("?ax=");
+if (m < 0) { m = thisUrlLower.indexOf("&ax="); }
+if ((m > 0) && (m + 4 < thisUrl.length)) {
+	var n = thisUrl.indexOf("&", m + 4);
+	if ( n < 0 ) { 	n = thisUrl.length;  }
+	document.cookie = "REF="+escape(thisUrl.substring(m + 4, n))+";path=/;domain=.upromise.com";
+} else if (document.cookie.indexOf("REF=")==-1) {
+	document.cookie = "REF=up-default;path=/;domain=.upromise.com";
+}
+var h = thisUrlLower.indexOf("?pc=");
+if (h < 0) { h = thisUrlLower.indexOf("&pc="); }
+if ((h > 0) && (h + 4 < thisUrl.length)) {
+	var i = thisUrl.indexOf("&", h + 4);
+	if ( i < 0 ) { 	i = thisUrl.length;  }
+	document.cookie = "PC="+escape(thisUrl.substring(h + 4, i))+";path=/;domain=.upromise.com";
+}
+NS4=document.layers; if(NS4){origWidth=innerWidth;origHeight=innerHeight;} function reDo(){if(innerWidth!=origWidth||innerHeight!=origHeight)location.reload();} if(NS4)onResize=reDo;
 //-->
 </script>
 </head>
 
 <body bgcolor="#ffffff" link="#0033CC" vlink="#0033CC" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" onload="MM_onLoad(1);">
-<script language="JavaScript" src="../js/cobrand.js"></script>
+<script language="JavaScript" src="http://im.upromise.com/js/cobrand.js"></script>
 <script language="JavaScript">
 <!--
 var cobrandChecked;
@@ -69,77 +106,60 @@ if (cobrandChecked){
 }
 //-->
 </script>
-<table width="760" border="0" cellspacing="0" cellpadding="0" height="67">
+<table width="760" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td rowspan="2" width="144" bgcolor="#003366" valign="middle" align="center"><a href="../index.html"><img src="../images/head/logo.gif" width="69" height="57" alt="" hspace="8" border="0"></a></td>
-    <td width="294" bgcolor="#003366" valign="bottom" height="51"><img src="../images/head/tagline.gif" width="222" height="18"></td>
-    <td width="322" bgcolor="#003366" valign="bottom" height="51">
-      <table width="320" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="82">
-            <div align="right"><img src="../images/home/spacer-small.gif" width="1" height="18"></div>
-          </td>
-          <td width="34">
-            <div align="right"><a href="../content/faq/index.html?cx=l0"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration:none; color: #ffffff">Help&nbsp;&nbsp;</span></a></div>
-          </td>
-          <td width="1" valign="bottom">
-            <div align="center"><img src="../images/home/spacer-small.gif" width="1" height="18"></div>
-          </td>
-          <td width="48">
-            <div align="center"><a href="../corp/privacy.html?cx=l0"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration:none; color: #ffffff">&nbsp;&nbsp;Privacy&nbsp;&nbsp;</span></a></div>
-          </td>
-          <td width="1" valign="bottom">
-            <div align="center"><img src="../images/home/spacer-small.gif" width="1" height="18"></div>
-          </td>
-          <td width="65">
-            <div align="center"><a href="../nspage?su=8105&amp;cx=l0"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration:none; color: #ffffff">&nbsp;&nbsp;Contact
-              Us&nbsp;&nbsp;</span></a></div>
-          </td>
-          <td width="1" valign="bottom">
-            <div align="center"><img src="../images/home/spacer-small.gif" width="1" height="18"></div>
-          </td>
-          <td width="88"><div align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration:none; color: #ffcc00"><script language="JavaScript">document.write(modeLink);</script><a href="../displayServlet?su=8100"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration:none; color: #ffcc00">Member Login</span></a><noscript><a href="../displayServlet?su=8100&cx=l0"><span style='font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration:none; color: #ffcc00'>Member Login</span></a><a href="../displayServlet?su=8107&cx=l0"><span style='font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-decoration:none; color: #ffcc00'>Logout</span></a></noscript></div></td>
-        </tr>
-      </tbody></table>
+    <td bgcolor="#ffffff" valign="middle" colspan="2" nowrap=""><a href="/index.html?cx=l0"><script language="JavaScript">
+if(isUsr){
+ document.write('<img src=\"http://im.upromise.com/images/nav/l0-uplogo.gif\" width=\"154\" height=\"31\" vspace=\"2\" hspace=\"8\" border=\"0\">');
+}else{
+ document.write('<img src=\"http://im.upromise.com/images/nav/l0-uplogowts.gif\" alt=\"Upromise - The Way to Save for College\"  width=\"278\" height=\"31\" vspace=\"2\" hspace=\"8\" border=\"0\">');
+}
+</script><img src="http://im.upromise.com/images/nav/l0-uplogowts.gif" alt="Upromise - The Way to Save for College" width="278" height="31" vspace="2" hspace="8" border="0"><noscript><img src="http://im.upromise.com/images/nav/l0-uplogowts.gif" alt="Upromise - The Way to Save for College" width="278" height="31" vspace="2" hspace="8" border="0"></noscript></a></td>
+    <td bgcolor="#ffffff" valign="middle" align="right" nowrap="" class="smalltext"><a href="/index.html?cx=l0">Home</a> &nbsp;|&nbsp;
+<a href="/content/faq/index.html?cx=l0">Help</a> &nbsp;|&nbsp;
+<script language="JavaScript">document.write(modeLink);</script><a href="/dispatchServlet?tc.mn=enroll&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-joinfree.gif" alt="JOIN FREE" vspace="0" hspace="0" border="0" align="absmiddle"></a> | <a href="/displayServlet?su=8100&amp;cx=l0"><img src="http://im.upromise.com/images/nav/l0-login.gif" alt="LOGIN" vspace="0" hspace="0" border="0" align="absmiddle"></a>
+<noscript><a href="/displayServlet?su=8100&cx=l0">Login</a> / <a href="/displayServlet?su=8107&cx=l0">Logout</a></noscript>
+&nbsp;&nbsp;
     </td>
   </tr>
-  <tr>
-    <td colspan="2" width="616"><img src="../images/nav/nav-home.gif" width="616" height="30" border="0" usemap="#L1nav"></td>
-  </tr>
 </tbody></table>
-
-<table width="760" cellspacing="0" cellpadding="0" border="0" bgcolor="#cccccc">
-<tbody><tr><td colspan="3" class="text">
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="3" width="760"><img src="http://im.upromise.com/images/nav/l1-main.gif" width="760" height="31" border="0" usemap="#L1nav"></td></tr>
+<tr><td colspan="3" class="text">
 <table width="760" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr bgcolor="#cccccc">
-<td valign="top" width="144"><img src="../images/nav/nav2-mid-thin.gif" hspace="0" width="144" height="15" border="0" alt=""></td>
-<td valign="top" width="616">
-<img src="../images/nav/nav2-mid-thin.gif" hspace="0" width="616" height="15" border="0" alt="">
-</td>
+<tbody><tr bgcolor="#ffcc33">
+<td valign="top" width="760" bgcolor="#ffcc33" align="left"><img src="http://im.upromise.com/images/1.gif" width="760" height="2" alt="" border="0"></td>
 </tr>
 </tbody></table>
 </td></tr>
-<tr bgcolor="white"><td width="144" height="31" bgcolor="#cccccc"><img src="../images/nav/img-headerblank.gif" width="144" height="31" alt="" border="0" hspace="0" vspace="0"></td><td align="left" width="472"><img src="../images/hdr/hdr-upprivacystatement.gif" width="472" height="31" alt="" border="0" hspace="0" vspace="0"></td><td align="right" width="144" bgcolor="#cccccc"><img src="../images/nav/img-headerblank.gif" width="144" height="31" alt="" border="0" hspace="0" vspace="0"></td></tr>
 </tbody></table>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="3" bgcolor="#cccccc"><img src="http://im.upromise.com/images/1.gif" width="760" height="12" alt="" border="0"></td></tr>
+<tr><td colspan="3" class="text">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr bgcolor="white"><td width="144" height="31" bgcolor="#cccccc"><img src="http://im.upromise.com/images/nav/img-headerblank.gif" width="144" height="31" alt="" border="0" hspace="0" vspace="0"></td><td align="left" width="472"><img src="http://im.upromise.com/images/hdr/hdr-upprivacystatement.gif" width="472" height="31" alt="" border="0" hspace="0" vspace="0"></td><td align="right" width="144" bgcolor="#cccccc"><img src="http://im.upromise.com/images/nav/img-headerblank.gif" width="144" height="31" alt="" border="0" hspace="0" vspace="0"></td></tr>
+</tbody></table>
+</td></tr></tbody></table>
 <map name="L1nav">
-<area shape="rect" coords="1,1,54,29" href="../home.html?cx=l1" alt="HOME">
-<area shape="rect" coords="56,1,152,29" href="../content/howitworks/acceleratesavings.html?cx=l1" alt="HOW IT WORKS">
-<area shape="rect" coords="154,1,283,29" href="../displayServlet?su=8200&amp;cx=l1" alt="GET COLLEGE SAVINGS">
-<area shape="rect" coords="284,1,369,29" href="../displayServlet?su=8230&amp;cx=l1" alt="SHOP ONLINE">
-<area shape="rect" coords="370,1,443,29" href="../content/savingsplans/index.html?cx=l1" alt="INVESTING">
-<area shape="rect" coords="445,1,534,29" href="../displayServlet?su=8300&amp;cx=l1" alt="MY ACCOUNT">
-<area shape="rect" coords="535,1,614,29" href="../displayServlet?su=8011&amp;cx=l1" alt="JOIN FREE">
+<area shape="rect" coords="1,1,106,31" href="/displayServlet?su=8300&amp;cx=l1" alt="MY ACCOUNT">
+<area shape="rect" coords="107,1,216,31" href="/content/howitworks/acceleratesavings.html?cx=l1" alt="HOW IT WORKS">
+<area shape="rect" coords="217,1,297,31" href="/nspage?su=8277&amp;cx=l1" alt="GROCERY">
+<area shape="rect" coords="298,1,382,31" href="/nspage?su=8220&amp;cx=l1" alt="SERVICES">
+<area shape="rect" coords="383,1,460,31" href="/nspage?su=8210&amp;cx=l1" alt="STORES">
+<area shape="rect" coords="461,1,563,31" href="/dining" alt="RESTAURANTS">
+<area shape="rect" coords="564,1,664,31" href="/nspage?su=8230&amp;cx=l1" alt="SHOP ONLINE">
+<area shape="rect" coords="665,1,759,31" href="/content/savingsplans/index.html?cx=l1" alt="529 SAVINGS PLANS">
 </map>
 <table cellpadding="0" cellspacing="0" border="0" width="760">
  <tbody><tr>
   <td valign="top" class="text" width="144">
   </td>
-  <td valign="top" width="12"><img src="../images/1.gif" width="12" height="1" border="0"></td>
+  <td valign="top" width="12"><img src="http://im.upromise.com/images/1.gif" width="12" height="1" border="0"></td>
   <td valign="top" class="text" width="604">
    <table cellpadding="0" cellspacing="4" border="0" width="100%">
     <tbody><tr>
      <td class="text" colspan="2">
-     <a href="http://www.truste.org/validate/8960" target="new_window"><img src="../images/privacy/trusteclick.gif" width="89" height="71" alt="TRUSTe:Click to Verify" border="0" hspace="5" vspace="5" align="right"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.bbbonline.org/cks.asp?id=201012613533712021" target="new_window"><img src="../images/privacy/PrivacySeal4.gif" width="90" height="31" alt="BBB OnLine" border="0" hspace="5" vspace="8" align="right"></a>
+     <a href="http://www.truste.org/validate/8960" target="new_window"><img src="http://im.upromise.com/images/privacy/trusteclick.gif" width="89" height="71" alt="TRUSTe:Click to Verify" border="0" hspace="5" vspace="5" align="right"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.bbbonline.org/cks.asp?id=201012613533712021" target="new_window"><img src="http://im.upromise.com/images/privacy/PrivacySeal4.gif" width="90" height="31" alt="BBB OnLine" border="0" hspace="5" vspace="8" align="right"></a>
    	<p class="subheadline2">
    	Principles
    	</p>
@@ -166,7 +186,7 @@ if (cobrandChecked){
      </td>
     </tr>
    
-    <tr><td colspan="2"><img src="../images/1.gif" width="1" height="10" alt="" border="0"></td></tr>
+    <tr><td colspan="2"><img src="http://im.upromise.com/images/1.gif" width="1" height="10" alt="" border="0"></td></tr>
    
      <tr>
      <td class="text" align="left">
@@ -204,7 +224,7 @@ if (cobrandChecked){
    	
    	</p><p><b>Family and Friends Network Information</b>.  You may use our Tell-a-Friend service to notify your family and friends about Upromise by providing their names and email addresses.  You can also increase your college savings through Upromise by creating a savings network of family and friends that directs a portion of its Upromise savings to your future college students.
    	
-   	</p><p>Upromise will automatically send a one-time email inviting your family and friends to visit Upromise.  Upromise stores the information for the purpose of sending these emails and to measure overall response rates to these services.  Your family and friends may  <a href="../nspage?su=8105">contact us</a> to request that their information be removed.
+   	</p><p>Upromise will automatically send a one-time email inviting your family and friends to visit Upromise.  Upromise stores the information for the purpose of sending these emails and to measure overall response rates to these services.  Your family and friends may  <a href="/nspage?su=8105">contact us</a> to request that their information be removed.
    	
    	</p><p>Family and friends who contribute to your future college students' investment accounts will receive confirmation of the name and age of each future college student for whom they are saving. You will soon be able to share access to additional information about these accounts with your family and friends network, including messages and progress towards your goal, if you wish.
    	
@@ -229,7 +249,7 @@ if (cobrandChecked){
    	
    	</p><p><b>Use of Non-Personally Identifiable Information</b>.  Upromise may also provide aggregated, non-personally identifiable information about our members and their future college students to third parties for audit and marketing purposes. Because aggregated data is not associated with any particular person, these third parties will not have access to any personally identifiable information about you or your future college students.
    	
-   	</p><p><b>Transfers of Information for Legal Purposes</b>.  Upromise may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, or search warrant, or in the course of a legal proceeding or lawsuit. If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially used by the purchaser.
+   	</p><p><b>Transfers of Information for Legal Purposes</b>.  Upromise may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, or search warrant, or in the course of a legal proceeding or lawsuit. If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially used by the purchaser.  If, as a result of such a change of control in Upromise's business, there is a material change in this statement or our information-handling practices as described in this statement, we will post the changes on this privacy statement and on our website at least 30 days prior to their implementation.  We will also send an email notification to our members.  You will have a choice as to whether we use your existing information in a new manner.
    	
    	<a name="optout"></a></p><p class="subheadline2"><b>What are my choices regarding how my personal information is used by Upromise?</b>
    	
@@ -257,15 +277,15 @@ if (cobrandChecked){
    	
    	</p><p class="subheadline2"><b>What is TRUSTe and why is it so important?</b>
    	
-   	</p><p class="text">Upromise is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+   	</p><p class="text">Upromise is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  TRUSTe has agreed to review the practices of www.upromise.com because this website wants to demonstrate its commitment to your privacy.
    	<br><br>
-   	If you have questions or concerns regarding this statement, you should first contact Upromise (see below). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then <a href="http://www.truste.org/users/users_watchdog.html">contact TRUSTe</a>. TRUSTe will then serve as a liaison with Upromise to resolve your concerns.
+   	If you have questions or concerns regarding this statement, you should first contact Upromise (see below). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then <a href="http://www.truste.org/users/users_watchdog.html" target="_blank">contact TRUSTe</a>. TRUSTe will then serve as a liaison with Upromise to resolve your concerns.
    	
    	<a name="contact"></a></p><p class="subheadline2"><b>How do I contact Upromise about this Privacy Statement?</b>
    	
-   	</p><p class="text">If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please  <a href="../nspage?su=8105">contact us</a>.
+   	</p><p class="text">If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please  <a href="/nspage?su=8105">contact us</a>.
    	
-   	</p><p>This statement covers both Upromise, Inc. and Upromise Investments, Inc., a registered broker-dealer and wholly-owned subsidiary of Upromise, Inc. that enables members to invest their contributions in Section 529 college savings plans.
+   	</p><p>This statement reflects the practices of both Upromise, Inc. and Upromise Investments, Inc., a registered broker-dealer and wholly-owned subsidiary of Upromise, Inc. that enables members to invest their contributions in Section 529 college savings plans.
      </p></td>
     </tr>
    </tbody></table>
@@ -274,35 +294,53 @@ if (cobrandChecked){
  <tr>
   <td valign="top" class="text" width="144">
   </td>
-  <td valign="top" width="12"><img src="../images/1.gif" width="12" height="1" border="0"></td>
+  <td valign="top" width="12"><img src="http://im.upromise.com/images/1.gif" width="12" height="1" border="0"></td>
   <td valign="top" class="text" width="604">  
   </td>
  </tr>
  <tr>
-  <td colspan="2" width="156"><img src="../images/1.gif" width="156" height="1" border="0"></td>
-  <td width="604"><img src="../images/1.gif" width="604" height="1" border="0"></td>
+  <td colspan="2" width="156"><img src="http://im.upromise.com/images/1.gif" width="156" height="1" border="0"></td>
+  <td width="604"><img src="http://im.upromise.com/images/1.gif" width="604" height="1" border="0"></td>
  </tr>
 </tbody></table>
 <p>
-<img src="../images/1.gif" width="1" height="20" alt="" border="0">
+<img src="http://im.upromise.com/images/1.gif" width="1" height="20" alt="" border="0">
 <table width="760" cellpadding="0" cellspacing="0">
  <tbody><tr>
   <td></td>
   <td class="smalltext">
-    <a href="../corp/aboutus/ourstory/ourstory.html">About Us</a> |
-    <a href="../corp/inthenews/index.html">In the News</a> |
-    <a href="../corp/legal.html">Legal</a> |
-    <a href="../content/faq/sitemap.html">Site Map</a> |
-    <a href="../corp/careers/career.html">Jobs</a><br>
-    Upromise is a <a href="../corp/security.html">secure</a> site that respects your <a href="../corp/privacy.html">privacy</a>.<br>
-    Copyright © 2001 Upromise, Inc. All rights reserved.<br>
+    <a href="/corp/aboutus/ourstory/ourstory.html?cx=f">About Us</a> |
+    <a href="/corp/inthenews/index.html?cx=f">In the News</a> |
+    <a href="/corp/legal.html?cx=f">Legal</a> |
+    <a href="/content/faq/sitemap.html?cx=f">Site Map</a> |
+      <a href="/nspage?su=8105&amp;cx=f">Contact Us</a> |
+    <a href="/corp/careers/career.html?cx=f">Jobs</a> |
+    <a href="/content/affiliates/affiliatesIndex.html?cx=f">Become an Affiliate</a><br>
+    Upromise is a <a href="/corp/security.html?cx=f">secure</a> site that respects your <a href="/corp/privacy.html?cx=f">privacy</a>.<br>
+    © 2001-2002 Upromise, Inc. All rights reserved.<br>
     Brokerage services are provided through Upromise Investments, Inc., member NASD/SIPC.
-    <img src="../t.gif" width="1" height="1" alt="">
+    <script language="JavaScript">
+    function popBoxFin(){
+     window.open('/corp/financialCond.html', 'finbox', 'toolbar=0,location=0,directories=0,status=0,menubar=0,resizable=1,scrollbars=1,width=585,height=400');
+    }
+    if (mode > "0") {
+    	document.write(
+    		"View Upromise Investments\' " +
+    		"<a href=\"/corp/financialCond.html\" target=\"_blank\" onClick=\"popBoxFin();return false;\" class=\"smalltext\">Statement of Financial Condition</a>"
+    	);
+    }
+    </script>
+    <noscript>
+    View Upromise Investments'
+    <a href="/corp/financialCond.html" target="_blank" class="smalltext">Statement of Financial Condition</a>
+    </noscript>
+    <br>
+    <img src="/t.gif" width="1" height="1" alt="">
   </td>
  </tr>
  <tr>
-  <td width="156"><img src="../images/1.gif" width="156" height="10" alt="" border="0"></td>
-  <td class="smalltext"><img src="../images/1.gif" width="604" height="10" alt="" border="0"></td>
+  <td width="156"><img src="http://im.upromise.com/images/1.gif" width="156" height="10" alt="" border="0"></td>
+  <td class="smalltext"><img src="http://im.upromise.com/images/1.gif" width="604" height="10" alt="" border="0"></td>
  </tr>
 </tbody></table>
 <script language="JavaScript">
