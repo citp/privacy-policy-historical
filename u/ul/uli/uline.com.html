@@ -1,8 +1,14 @@
-<!--The following is the downloaded HTML source of the uline.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604155710id_/http%3A//www.uline.com/PolicyPrivacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uline.com privacy policy that was archived on 2002-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020607142139id_/http%3A//www.uline.com/PolicyPrivacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Uline: Privacy Policy</title>
+
+
+
+<meta name="description" content="ULINE offers over 10,000 boxes, plastic poly bags, mailing tubes, warehouse supplies and bubble wrap for your storage, packaging, or shipping supplies.">
+<meta name="keywords" content="boxes, poly bags, corrugated boxes, bubble wrap, cardboard boxes, packaging supplies,  moving boxes, shipping supplies, mailing tubes, plastic bags, ULINE, cleaning supply, janitorial, tubes, vermiculite, Signode, strapping machine, kraft paper, label dispenser, packing peanuts, tape dispenser, warning labels, rubber floor mat, industrial cleaning supply, jiffylite, strapping tools, Better Pack tape dispensers, hazardous materials packaging, clear mailing tubes, foam packaging, corrugated mailers, Shockwatch, polyester strapping, cushioning, stretch film, shrink wrap, Minigrip poly bags"> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <script language="javascript">
 <!--
 
@@ -27,18 +33,108 @@ function reset()
 //-->
 </script>
 
- 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="Cardboard Box, Corrugated, Cardboard Boxes, CORRUGATED, boxes, Shipping Supplies, Plastic Poly Bags, Bubble Wrap">
 
-<meta name="description" content="Cardboard corrugated boxes, plastic poly bags and Bubble Wrap for business. Complete line of shipping supplies, packaging materials and over 700 corrugated box sizes in stock! Full catalog.">
- 
+<script language="javascript">
+function CookieTester() 
+{
+	// **Info**
+	//	This function tests for disabled session and permanent cookies.  If either are
+	//  found to be disabled, a window will pop displaying an error the the user and
+	//  will provide a link to an area to receive instructions on how to enable them.
+	//
+	// **Notes** 
+	// 1) Change the domain to .uline for production servers
+	// 2) This test is not accurate if cookies were enabled when the test was first ran, then
+	//    they were disabled and the test was ran again without closing and re-opening the
+	//	  browser.
+	//
+	// Author: John Hanold
+	// Created: 05/03/02
+	// Last Modified: 05/03/02
+	
+	var exp = new Date();
+	//Set the cookie expiration date variable 7 days ahead
+	exp.setTime(exp.getTime() + 604800000);
+	
+	//Write a session cookie
+	document.cookie = "sessiontest=yes; path=/; domain=.uline.com";
+	//Write a permanent cookie
+	document.cookie = "permtest=yes; path=/; domain=.uline.com; expires=" + exp.toGMTString();
+	
+	var testCookie = document.cookie;
+	
+	//Test if session cookies are disabled
+	if (testCookie.indexOf("sessiontest=yes") == -1)
+	{
+		//Session cookie test failed so we return 'false' to the function
+		//and display the error window
+		CookiesEnabled = false;
+		DisplayCookieError(420, 250);
+	}
+	else
+	{
+		//Session cookie test succeeded so we return 'true' to the function
+		CookiesEnabled = true;
+	//Test if permanent cookies are disabled
+		if (testCookie.indexOf("permtest=yes") == -1)
+		{
+			//Permanent cookie test failed so we return 'false' to the function
+			//and display the error window
+			CookiesEnabled = false;
+			DisplayCookieError(420, 250);
+		}
+		else
+		{
+			//Permanent cookie test succeeded so we return 'true' to the function
+			CookiesEnabled = true;
+		}
+	}
+	
+	//Delete the permanent cookie
+	document.cookie = "permtest=yes; path=/; domain=.uline.com; expires=Thu, 01-Jan-70 00:00:01 GMT";
+	
+	//Write flag if cookies were enabled so that this test is not ran again
+	document.cookie = "cookiesenabled=yes; path=/; domain=.uline.com";
+}
+
+
+function DisplayCookieError(width, height)
+{
+window.open('Cookie_Error_Message.asp','CookieWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=' + width + ',height='+height);
+}
+</script>
+
 <script language="JavaScript">
 <!--
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
   if (restore) selObj.selectedIndex=0;
 }
+
 function isSpace(s)
 {
 var i;
@@ -51,21 +147,16 @@ var i;
 return true;
 }
 
-
-
 function submit_frmSearch1()
 { 
 	document.frmSearch1.action = "http://www.uline.com/AdvSearchResult.asp?Source=ALL";
 	document.frmSearch1.submit();
 }	
 
-
-
 function display_help(HelpID)
 {
     window.open('HelpPopUp.asp?HelpID='+HelpID,'MyWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=350,height=400');
 }
-
 
 function enterLivePerson(aname, gname, re, name) {
 			window.name = "lp_parent";
@@ -73,7 +164,6 @@ function enterLivePerson(aname, gname, re, name) {
 			var hWnd = window.open(url,"live_person","width=300,height=350,resizable=yes,scrollbars=yes");
 			if (hWnd != null) { if (hWnd.opener == null) { hWnd.opener = self; window.name = "home"; hWnd.location.href=url; } }
 		}
-
 
 function SetFocus()
 {
@@ -83,37 +173,10 @@ function SetFocus()
     document.frmPwrshp.szItemNum.focus();
     }
 }
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
 //-->
 </script>
- 
-<script language="javascript" src="/include/slide_menu/slide_menu_java/pop_out_menu.js"></script>
+<!--Next line required for the links at the top of PageBegin.asp-->
 <link href="/include/slide_menu/slide_menu_java/pop_out_menu_ss.css" type="text/css" rel="stylesheet">
-
-
-
-
 <style type="TEXT/CSS">
 
 A:hover {
@@ -121,40 +184,52 @@ A:hover {
 }
 
 </style>
- </head><body onmouseover="hideMenu()" onmouseout="hideMenu()" background="images/bg.gif" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#000000" link="#000099" vlink="#000099" onload="MM_preloadImages('/Images/LINK_BAR/hdboxes_r.gif','/Images/LINK_BAR/hdbags_r.gif','/Images/LINK_BAR/hdfree_r.gif','/Images/LINK_BAR/hdtape_r.gif','/Images/LINK_BAR/hdmore_r.gif')"> 
-     
-    <table width="100%" border="0" cellspacing="0" cellpadding="0" height="73" background="Images/headbg.gif">
-      <tbody><tr> 
-        <td width="169" rowspan="2"><a href="http://www.uline.com/index.asp"><img src="Images/logo.gif" width="169" height="65" border="0"></a></td>
-        <td colspan="2">&nbsp;</td>
-        <td width="60" height="55">&nbsp; </td>
-        <td width="332" height="55"> <table width="167" border="0" cellspacing="0" cellpadding="0" height="52" background="Images/pwrshpbg.gif"> 
-           <form name="frmPwrshp" action="http://www.uline.com/ViewCart.asp?action=DETAIL&amp;from=powershop" method="post"></form> 
+
+
+	</head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#000000" link="#000099" vlink="#000099">
+	
+
+<!--removed background="Images/headbg.gif"-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="73" bgcolor="#003366">
+  <tbody><tr> 
+    <td width="353" rowspan="2"><a href="index.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/73d7c43336cad2/www.uline.com/Images/Logo_PageBegin.gif" width="353" height="79" border="0"></a></td>
+    <td width="116">&nbsp;</td>
+    <td width="60" height="55">&nbsp; </td>
+    <td width="353" height="55"> 
+      <table width="167" border="0" cellspacing="0" cellpadding="0" height="52" background="Images/pwrshpbg.gif">
+         <form name="frmPwrshp" action="http://www.uline.com/ViewCart.asp?action=DETAIL&amp;from=powershop" method="post"></form>
         <tbody><tr><td height="26" valign="top"> 
-          <div align="center"><img src="Images/easyorder.gif" width="58" height="15" alt="Enter an item number"> 
-            <input type="text" name="szItemNum" size="7">
-            <a href="javascript: document.frmPwrshp.submit();"><img border="0" name="imageField" src="Images/gobtn.gif" width="26" height="14"></a> 
+          <div align="center"><img src="http://a1289.g.akamai.net/6/1289/6459/5a162032d49c94/www.uline.com/Images/easyorder.gif" width="58" height="15" alt="Enter an item number"> 
+              <input type="text" name="szItemNum" size="7" maxlength="15">
+            <a href="javascript: document.frmPwrshp.submit();"><img border="0" name="imageField" src="http://a1289.g.akamai.net/6/1289/6459/71c2c1e922be05/www.uline.com/Images/gobtn.gif" width="26" height="14"></a> 
             <font face="Verdana, Arial, Helvetica, sans-serif" size="1">Enter 
             Model # to order.</font> </div>
         </td>
         <input type="hidden" name="txtQuantity" value="1">
          </tr>
-    </tbody></table>
-  </td>
-  <td width="211" height="55">&nbsp;</td>
-</tr>
-<tr> 
-  <td width="17">&nbsp;</td>
-  <td width="213"><img src="Images/hdPhone.gif" width="162" height="24" align="absbottom"></td>
-  <td colspan="2"> 
-    <table width="327" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr> 
-        <td><a href="http://www.uline.com/BrowseGroup.asp?WebClassID=04&amp;WebClassDesc=Boxes" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Boxes','','Images/LINK_BAR/hdboxes_r.gif',1)"><img name="Boxes" border="0" src="Images/LINK_BAR/hdboxes.gif" width="43" height="24"></a><img src="Images/LINK_BAR/hddivider.gif" width="14" height="24"><a href="http://www.uline.com/BrowseGroup.asp?WebClassID=01&amp;WebClassDesc=Bags" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Bags','','Images/LINK_BAR/hdbags_r.gif',1)"><img name="Bags" border="0" src="Images/LINK_BAR/hdbags.gif" width="32" height="24"></a><img src="Images/LINK_BAR/hddivider.gif" width="14" height="24"><a href="http://www.uline.com/AdvFreeOffers.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('FreeOffers','','Images/LINK_BAR/hdfree_r.gif',1)"><img name="FreeOffers" border="0" src="Images/LINK_BAR/hdfree.gif" width="68" height="24"></a><img src="Images/LINK_BAR/hddivider.gif" width="14" height="24"><a href="http://www.uline.com/BrowseGroup.asp?WebClassID=02&amp;WebClassDesc=Tapexor/xorAdhesives" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Tape','','Images/LINK_BAR/hdtape_r.gif',1)"><img name="Tape" border="0" src="Images/LINK_BAR/hdtape.gif" width="28" height="24"></a><img src="Images/LINK_BAR/hddivider.gif" width="14" height="24"><a href="http://www.uline.com/BrowseWebClass.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('More','','Images/LINK_BAR/hdmore_r.gif',1)"><img name="More" border="0" src="Images/LINK_BAR/hdmore.gif" width="48" height="24"></a></td>
-      </tr>
-    </tbody></table>
-  </td>
-  <td width="211">&nbsp;</td>
-</tr></tbody></table>
+      </tbody></table>
+    </td>
+    <td width="137" height="55">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="116">&nbsp;</td>
+    <td colspan="2" height="24"> 
+      <table width="327" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td height="24"> 
+                
+            <div align="left"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopBarLink" href="MyUline.asp">My 
+              Account</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopBarLink" href="specials.asp">Specials</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopBarLink" href="contactus_menu.asp">Contact 
+              Us</a><!--&nbsp;&nbsp;&nbsp;&nbsp;<a class=TopBarLink href='http://server.iad.liveperson.net/hc/LPuline_service/?cmd=file&file=visitorWantsToChat&site=LPuline_service&byhref=1' target='chatLPuline_service' onClick="window.open('http://server.iad.liveperson.net/hc/LPuline_service/?cmd=file&file=visitorWantsToChat&site=LPuline_service&referrer='+document.location,'chatLPuline_service','width=472,height=320');return false;">Chat</a>-->&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopBarLink" href="Uline_FAQ.asp">Help</a></font></b></div>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td width="137">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+
 <table width="605" border="0" cellspacing="0" cellpadding="0"> 
 <tbody><tr> 
   <td rowspan="3" valign="top" width="154"> 
@@ -173,23 +248,26 @@ A:hover {
               <input type="hidden" name="szWebClassID" value="ALL">
               <input type="hidden" name="szDisplayImage" value="Y">
               <tr align="center" valign="middle"> 
-                <td colspan="2" height="56" background="/Images/headbg.gif" width="155"> 
-                  <div align="center"><img src="/Images/LINK_BAR/kywrd_srch.gif" width="155" height="18" align="top"> 
+                <td colspan="2" height="56" background="http://a1289.g.akamai.net/6/1289/6459/b58e186fa690c7/www.uline.com/Images/headbg.gif" width="155"> 
+                  <div align="center"><img src="http://a1289.g.akamai.net/6/1289/6459/977692993f6064/www.uline.com/Images/LINK_BAR/kywrd_srch.gif" width="155" height="18" align="top"> 
                     <input type="text" name="szKeywords" size="13" value="">
-                    <a href="javascript: submit_frmSearch1();"><img border="0" name="imageField5" src="images/gobtn.gif" width="26" height="14"></a> 
+                    <a href="javascript: submit_frmSearch1();"><img border="0" name="imageField5" src="http://a1289.g.akamai.net/6/1289/6459/71c2c1e922be05/www.uline.com/images/gobtn.gif" width="26" height="14"></a> 
                   </div>
                 </td>
               </tr>
             
             </tbody> 
           </table>
+
+ 
+
           <table cellspacing="0" cellpadding="0" width="171" bgcolor="white" border="0" valign="top">
             <tbody> 
             <tr><td colspan="1" width="161"> </td>
             </tr>
-             
-            <tr onmouseover="setMenu(&quot;SearchUline&quot;, &quot;SearchUlineMenu&quot;)"> 
-              <td id="SearchUline" width="161" height="10"><a href="http://www.uline.com/AdvAll.asp"><img src="/Images/LINK_BAR/adv_search.gif" width="155" height="20" border="0" class="menulink"></a></td>
+            <tr>
+              <td width="161" height="10">
+			<a href="http://www.uline.com/AdvAll.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/4b524f2087a995/www.uline.com/Images/LINK_BAR/adv_search.gif" width="155" height="20" border="0"></a></td>
               <td align="right" width="10" height="17"></td>
             </tr>
             </tbody> 
@@ -198,8 +276,19 @@ A:hover {
             <tbody> 
             <tr><td colspan="1" width="161"> </td>
             </tr>
-            <tr onmouseover="setMenu(&quot;Browse&quot;, &quot;BrowseMenu&quot;)"> 
-              <td id="Browse" width="161" height="10"><a href="http://www.uline.com/BrowseWebClass.asp"><img src="/Images/LINK_BAR/browse_prod.gif" width="155" height="20" border="0" class="menulink"></a></td>
+            <tr>
+              <td width="161" height="10">
+              <a href="http://www.uline.com/BrowseWebClass.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/b8871e05e9ce44/www.uline.com/Images/LINK_BAR/browse_prod.gif" width="155" height="20" border="0"></a></td>
+              <td align="right" width="10" height="17"></td>
+            </tr>
+            </tbody> 
+          </table>
+		<table cellspacing="0" cellpadding="0" width="171" bgcolor="white" border="0" valign="top">
+            <tbody> 
+            <tr><td colspan="1" width="161"> </td>
+            </tr>
+            <tr> 
+              <td width="161" height="10"><a href="http://www.uline.com/PDF_Index_Redir.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/dd04381fc37356/www.uline.com/Images/LINK_BAR/view_cat_pages.gif" width="155" height="20" border="0"></a></td>
               <td align="right" width="10" height="17"></td>
             </tr>
             </tbody> 
@@ -216,29 +305,43 @@ A:hover {
                 <tbody> 
                 <tr><td colspan="1" width="161"> </td>
                 </tr>
-                <tr onmouseover="setMenu(&quot;CustomerService&quot;, &quot;CustomerServiceMenu&quot;)"> 
-                  <td id="CustomerService" width="161" height="10"><a href="http://www.uline.com/customerservicemap.asp"><img src="/Images/LINK_BAR/cus_service.gif" width="155" height="17" border="0" class="menulink"></a></td>
+                <tr> 
+                  <td id="CustomerService" width="161" height="10"><a href="http://www.uline.com/customerservicemap.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/dd1ace33eb70de/www.uline.com/Images/LINK_BAR/cus_service.gif" width="155" height="17" border="0"></a></td>
                   <td align="right" width="9" height="17"></td>
                 </tr>
                 </tbody> 
               </table>
             </td>
-          </tr>
- 
+          </tr> 
           <tr> 
             <td colspan="2" height="25"> 
               <table cellspacing="0" cellpadding="0" width="170" bgcolor="white" border="0" valign="top">
                 <tbody> 
                 <tr><td colspan="1" width="161"> </td>
                 </tr>
-                <tr onmouseover="setMenu(&quot;Catalog_Email&quot;, &quot;Catalog_Email_Menu&quot;)"> 
-                  <td id="Catalog_Email" width="161" height="10"><a href="http://www.uline.com/Catalog_Email_Map.asp"><img src="/Images/LINK_BAR/catalog_email.gif" width="155" height="17" border="0" class="menulink"></a></td>
+                <tr> 
+                  <td width="161" height="10"><a href="http://www.uline.com/Catalog_Email_Map.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/381c6e48ab992a/www.uline.com/Images/LINK_BAR/catalog_email.gif" width="155" height="17" border="0"></a></td>
                   <td align="right" width="9" height="17"></td>
                 </tr>
                 </tbody> 
               </table>
             </td>
-          </tr>
+          </tr>      
+                
+          <tr> 
+            <td colspan="2" height="25"> 
+              <table cellspacing="0" cellpadding="0" width="170" bgcolor="white" border="0" valign="top">
+                <tbody> 
+                <tr><td colspan="1" width="161"> </td>
+                </tr>
+                <tr> 
+                  <td width="161" height="10"><a href="http://www.uline.com/Specials.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/64a7f1c89df0d3/www.uline.com/Images/LINK_BAR/SpecialOffers.gif" width="155" height="17" border="0"></a></td>
+                  <td align="right" width="9" height="17"></td>
+                </tr>
+                </tbody> 
+              </table>
+            </td>
+          </tr>              
  
           <tr> 
             <td colspan="2" height="25" align="left"> 
@@ -246,32 +349,14 @@ A:hover {
                 <tbody> 
                 <tr><td colspan="1" width="161"> </td>
                 </tr>
-                
-                <tr onmouseover="setMenu(&quot;MyUline&quot;, &quot;MyUlineMenu&quot;)">
-                <td id="MyUline" width="161" height="10"><a href="http://www.uline.com/MyUline.asp"><img src="/Images/LINK_BAR/my_uline.gif" width="155" height="17" border="0" class="menulink"></a></td>
-                
-                  
+                <tr>
+                <td width="161" height="10"><a href="http://www.uline.com/MyUline.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/3a225261a5d3b2/www.uline.com/Images/LINK_BAR/my_uline.gif" width="155" height="17" border="0"></a></td>              
                   <td align="right" width="10" height="17"></td>
                 </tr>
-                </tbody> 
+                </tbody>
               </table>
             </td>
-          </tr>
- 
-          <tr>
-            <td colspan="2" height="25" align="left">
-              <table cellspacing="0" cellpadding="0" width="171" bgcolor="white" border="0" valign="top">
-                <tbody> 
-                <tr><td colspan="1" width="161"> </td>
-                </tr>
-                <tr onmouseover="setMenu(&quot;ShopUline&quot;, &quot;ShopUlineMenu&quot;)"> 
-                  <td id="ShopUline" width="161" height="10"><a href="http://www.uline.com/index.asp"><img src="/Images/LINK_BAR/shop_uline.gif" width="155" height="17" border="0" class="menulink"></a></td>
-                  <td align="right" width="10" height="17"></td>
-                </tr>
-                </tbody> 
-              </table>
-            </td>
-          </tr>                  
+          </tr>    
  
           <tr> 
             <td colspan="2" height="25" align="left">
@@ -279,42 +364,36 @@ A:hover {
                 <tbody> 
                 <tr><td colspan="1" width="161"> </td>
                 </tr>
-                <tr onmouseover="setMenu(&quot;AboutCompany&quot;, &quot;AboutCompanyMenu&quot;)"> 
-                  <td id="AboutCompany" width="161" height="10"><a href="http://www.uline.com/aboutuline.asp"><img src="/Images/LINK_BAR/about_company.gif" width="155" height="17" border="0" class="menulink"></a></td>
+                <tr> 
+                  <td width="161" height="10"><a href="http://www.uline.com/aboutuline.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/70f2f50007f453/www.uline.com/Images/LINK_BAR/about_company.gif" width="155" height="17" border="0"></a></td>
                   <td align="right" width="10" height="17"></td>
                 </tr>
                 </tbody> 
               </table>
             </td>
           </tr>
-	
-	  <tr>
-		<td colspan="2" height="97" align="left">
-          <table width="165" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr> 
-              <td width="21" rowspan="2">&nbsp;</td>
-              <td width="144"><a href="Javascript:enterLivePerson('uline','service','PolicyPrivacy','')"><img src="/Images/chat_link.gif" width="90" height="43" border="0"></a> 
-              </td>
-            </tr>
-            <tr>
-              <td width="144"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-                M-F 24 hours per day</font></td>
-            </tr>
-          </tbody></table>
+  
+          <tr> 
+            <td colspan="2" height="25" align="left">
+              <table cellspacing="0" cellpadding="0" width="171" bgcolor="white" border="0" valign="top">
+                <tbody> 
+                <tr><td colspan="1" width="161"> </td>
+                </tr>
+					<tr>
+						<td width="161" height="10"><a href="http://www.uline.com/Uline_FAQ.asp"><img src="http://a1289.g.akamai.net/6/1289/6459/2231b79318c5ee/www.uline.com/Images/LINK_BAR/help.gif" width="155" height="17" border="0"></a></td>
+                  <td align="right" width="10" height="17"></td>
+                </tr>
+                </tbody> 
+              </table>
+            </td>
+          </tr>
+<!--
+<tr>
+	    <td width=161 height="30"><a href='http://server.iad.liveperson.net/hc/LPuline_service/?cmd=file&file=visitorWantsToChat&site=LPuline_service&byhref=1' target='chatLPuline_service' onClick="window.open('http://server.iad.liveperson.net/hc/LPuline_service/?cmd=file&file=visitorWantsToChat&site=LPuline_service&referrer='+document.location,'chatLPuline_service','width=472,height=320');return false;"><img src="/Images/LINK_BAR/LiveChat.gif" width="155" height="17" border="0"></a> 
         </td>
-	  </tr>
-	  
-	  
-	  
-      <tr> 
-        <td colspan="2" height="29" align="left"><font face="Verdana, Helvetica, sans-serif" size="1">Click 
-          on these&nbsp;<a href="javascript: display_help(367);"><img src="images/qmrkbtn.gif" width="16" height="15" border="0"></a> 
-          for help.</font> </td>
-      </tr>
-      <tr> 
-        <td colspan="2" height="26" align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="./Uline_FAQ.asp">Frequently 
-          Asked Questions</a></font></td>
-      </tr>
+	<td align=right width=10 height="17"></td>
+</tr>
+-->
     </tbody></table>
       </td>
       <td width="451" valign="top"> 
@@ -325,8 +404,8 @@ A:hover {
 
 
  Hello,  <a href="https://www.uline.com/signin.asp">Sign in Here</a> 
-               <img src="images/shim.gif" width="2" height="17" align="absmiddle"></font></td>
-            <td align="right"><font size="1"><img src="images/carticon.gif" width="17" height="18" align="absmiddle"> <font face="Verdana, Helvetica, sans-serif"> 
+               <img src="http://a1289.g.akamai.net/6/1289/6459/1d8352905f2c38/www.uline.com/images/shim.gif" width="2" height="17" align="absmiddle"></font></td>
+            <td align="right"><font size="1"><img src="http://a1289.g.akamai.net/6/1289/6459/5c7e13503e1077/www.uline.com/images/carticon.gif" width="17" height="18" align="absmiddle"> <font face="Verdana, Helvetica, sans-serif"> 
               Subtotal=$0.00 <a href="http://www.uline.com/ViewCart.asp">view 
               cart</a></font></font></td>
           </tr>
@@ -342,22 +421,23 @@ A:hover {
   <tbody><tr>
     <td width="44" height="17" valign="top"></td>
     <td width="231" height="17" valign="top"></td>
-    <td width="165" height="17" valign="top"></td>
+    <td width="201" height="17" valign="top"></td>
     <td width="253" height="17" valign="top"></td>
   </tr>
   <tr>
-    <td width="44" height="35" valign="top"></td>
-    <td width="231" height="35" valign="top"></td>
-    <td width="165" height="35" valign="top"><b>ULINE's 
-  Privacy Policy</b></td>
-    <td width="253" height="35" valign="top"></td>
+    <td width="44" height="38" valign="top"></td>
+    <td width="231" height="38" valign="top"></td>
+    <td width="201" height="38" valign="top"><b><font face="Arial, Helvetica, sans-serif">ULINE 
+      Privacy Policy</font></b></td>
+    <td width="253" height="38" valign="top"></td>
   </tr>
   <tr>
     <td width="44" height="330" valign="top"></td>
-    <td width="649" height="330" colspan="3" valign="top"> 
+    <td height="330" colspan="3" valign="top"> 
       <p><font face="Arial, Helvetica, sans-serif">This is the web site of Uline 
-        Shipping Supplies. Our mailing address is:<br>
+        Shipping Supplies. <br>
         <br>
+        Our mailing address is: <br>
         Uline Inc.<br>
         2200 S. Lakeside <br>
         Waukegan, IL 60085 <br>
@@ -375,24 +455,23 @@ A:hover {
         <br>
         If you supply us with your postal address and/or email address on-line, 
         you will <br>
-        receive the information for which you asked. You may also receive periodic 
-        mailings from <br>
-        us with information on new products and services or upcoming events. If 
-        you do not wish <br>
-        to receive these offers, please contact us via one of the means provided 
-        above. People who<br>
-        provide us with their telephone number on-line will be contacted via telephone 
-        only if we <br>
+        receive the information or products for which you asked. You may also 
+        receive periodic mailings or emails from us or our special partners with 
+        information on new products, services or upcoming events. </font></p>
+      <p><font face="Arial, Helvetica, sans-serif">If you do not wish to receive 
+        these offers, please contact us via one of the means provided above. People 
+        who provide us with their telephone number on-line will be contacted via 
+        telephone only if we <br>
         have questions about additional information provided. </font></p>
       <p><font face="Arial, Helvetica, sans-serif">If you have any questions about 
         the above statement, please contact us at <a href="mailto:customer.service@uline.com">customer.service@uline.com</a>.</font></p>
   </td>
   </tr>
   <tr>
-    <td width="44" height="1" valign="top"><img width="44" height="1" src="transparent.gif"></td>
-    <td width="231" height="1" valign="top"><img width="231" height="1" src="transparent.gif"></td>
-    <td width="165" height="1" valign="top"><img width="165" height="1" src="transparent.gif"></td>
-    <td width="253" height="1" valign="top"><img width="253" height="1" src="transparent.gif"></td>
+    <td width="44" height="1" valign="top"><img width="44" height="1" src="http://a1289.g.akamai.net/6/1289/6459/f26805de1a1f27/www.uline.com/transparent.gif"></td>
+    <td width="231" height="1" valign="top"><img width="231" height="1" src="http://a1289.g.akamai.net/6/1289/6459/f26805de1a1f27/www.uline.com/transparent.gif"></td>
+    <td width="201" height="1" valign="top"><img width="165" height="1" src="http://a1289.g.akamai.net/6/1289/6459/f26805de1a1f27/www.uline.com/transparent.gif"></td>
+    <td width="253" height="1" valign="top"><img width="253" height="1" src="http://a1289.g.akamai.net/6/1289/6459/f26805de1a1f27/www.uline.com/transparent.gif"></td>
   </tr>
 </tbody></table>
 
@@ -402,10 +481,12 @@ A:hover {
   </tr>
   <tr>
     <td width="451" valign="top">
-      <table width="450" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          
+      
+    <table width="450" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr> 
         <td> 
+          <p align="center">&nbsp;</p>
+          <p align="center">&nbsp;</p>
           <p align="center"><font size="1" face="Verdana, Helvetica, sans-serif"><b><a href="BrowseWebClass.asp"><br>
             <br>
             Browse Products</a> | <a href="/advall.asp">Search Products</a> | 
@@ -418,18 +499,37 @@ A:hover {
             <a href="http://www.uline.com/AdvFreeOffers.asp">Free Offers</a> • 
             <a href="http://www.uline.com/MyUline.asp">My ULINE </a> • <a href="http://www.uline.com/AdvAll.asp">Search</a> 
             • <a href="http://www.uline.com/SiteMap.asp">Site Map</a> • 
-            <a href="http://www.uline.com/Jobs.asp">Work at ULINE</a></font></p>
-            
+            <a href="http://www.uline.com/Jobs.asp">Work at ULINE</a><br>
+            </font></p>
           <p align="center"><font size="1" face="Verdana, Helvetica, sans-serif">Copyright 
-            © 2001 ULINE&nbsp;&nbsp;<a href="PolicyPrivacy.asp">Privacy Policy</a>&nbsp;&nbsp;<a href="PolicyTermsAndConditions.asp">Terms 
+            © 2002 ULINE&nbsp;&nbsp;<a href="PolicyPrivacy.asp">Privacy Policy</a>&nbsp;&nbsp;<a href="PolicyTermsAndConditions.asp">Terms 
             and Conditions</a><br>
             &nbsp; </font></p>
-          </td>
-        </tr>
-      </tbody></table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div align="right"><font face="Arial, Helvetica, sans-serif" size="1">2</font></div>
+        </td>
+      </tr>
+    </tbody></table>
     </td>
   </tr>
 </tbody></table>
+
+
+
+<script>
+//These are the tag varialbes used for LiveChat  10/19/01  John Hanold
+var tagVars = "VISITORVAR!CustNum=0&SESSIONVAR!CartID=";
+</script>
+
+
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG-->
+<!-- <script language='javascript' src='http://server.iad.liveperson.net/hc/LPuline_service/x.js?cmd=file&file=chatScript3&site=LPuline_service&imageUrl=http://www.uline.com/images/chat'> </script> -->
+<script language="javascript" src="https://server.iad.liveperson.net/hc/LPuline_service/x.js?cmd=file&amp;file=chatScript3&amp;site=LPuline_service&amp;imageUrl=https://www.uline.com/images/chat"> </script>
+<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
 
 
 
