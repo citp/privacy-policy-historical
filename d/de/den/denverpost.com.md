@@ -1,17 +1,41 @@
-> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218002803id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215101538id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
 
-# DenverPost.com - Privacy Policy
+# DenverPost.com - PRIVACY POLICY
 
 |   
-|   
-|   
+| [ABOUT US/HELP](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
+---  
+[ARCHIVES](https://web.archive.org/Stories/0,1413,36%257E25%257E,00.html)  
+[BOOKS](https://web.archive.org/Stories/0,1413,36%257E26%257E,00.html)  
+[BUSINESS](https://web.archive.org/Stories/0,1413,36%257E33%257E,00.html)  
+[CLASSIFIEDS](http://post-newsclassified.com/)  
+[COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E198%257E,00.html)  
+[COMMUNITY](http://www.post-newscommunity.com/)  
+[CONTACT US](https://web.archive.org/Stories/0,1413,36%257E39%257E,00.html)  
+[DISCUSSION](http://talk.denverpost.com/webx/cgi-bin/WebX)  
+[DPO BY E-MAIL](https://web.archive.org/Stories/0,1413,36%257E183%257E,00.html)  
+[ENTERTAINMENT](https://web.archive.org/Stories/0,1413,36%257E78%257E,00.html)  
+[FOOD/DINING](https://web.archive.org/Stories/0,1413,36%257E40%257E,00.html)  
+[FRONT PAGE](https://web.archive.org/Stories/0,1413,36%257E23827%257E,00.html)  
+[LIFESTYLES](https://web.archive.org/Stories/0,1413,36%257E45%257E,00.html)  
+[NATION/WORLD](http://customwire.ap.org/dynamic/fronts/HOME)  
+[NEWS](https://web.archive.org/Stories/0,1413,36%257E53%257E,00.html)  
+[NEWSPAPER ADS](http://www.post-newsadsearch.com/)  
+[OBITUARIES](http://www.legacy.com/denver)  
+[OPINION](https://web.archive.org/Stories/0,1413,36%257E73%257E,00.html)  
+[SEAS. TO SHARE](https://web.archive.org/Stories/0,1413,36%257E10169%257E,00.html)  
+[SPORTS](https://web.archive.org/Stories/0,1413,36%257E76%257E,00.html)  
+[TRAVEL](https://web.archive.org/Stories/0,1413,36%257E77%257E,00.html)  
+[WAR ON TERROR](https://web.archive.org/Stories/0,1413,36%257E6439%257E,00.html)  
+[WEATHER](http://www.weatherpoint.com/denverpost/)  
+[DPO HOME](https://web.archive.org/Stories/0,1413,36%257E11%257E,00.html)  
   
-**Monday, December 17, 2001**
+|    
+Tuesday, December 03, 2002 
 
+|   
+---  
   
-12/17/2001 4:28:34 PM  
-
-
 The Denver Post Corp. is committed to protecting the privacy of our customers. The following statement discloses our information gathering and dissemination practices for the denverpost.com Web site.
 
 **
@@ -84,4 +108,5 @@ Denver, Colorado 80202
 
 E-Mail: [tengdahl@denverpost.com](mailto:tengdahl@denverpost.com)
 
-| 
+  
+
