@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208034914id_/http%3A//www.fark.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401211148id_/http%3A//www.fark.com/privacy.shtml) for the most accurate reproduction.*
 
 # FARK.com
 
@@ -71,28 +71,33 @@ Note: This policy also covers the personal information you provide to Fark Custo
   
 ---  
 [](http://www.tshirtsthatsuck.com/)  
-[](http://www.airgunstore.com/fark)  
-[](http://www.thinkgeek.com/)  
-[](http://ads.bigcitytools.com/motor?3|2|6;2;141:671)  
-[](http://www.oddballproducts.com/store/customer/home.php)  
+[](http://www.oddballproducts.com/)  
+[](http://go.fark.com/cgi/fark/go.pl?IDLink=473632&location=http://www.thoseshirts.com)  
+[](http://go.fark.com/cgi/fark/go.pl?IDLink=481481&location=http://www.esnipe.com)  
   
 |   
 ---  
   
 **Upcoming Photoshop Contests (EST):**  
   
-12/08 04:22AM EST  
+04/01 04:41PM EST  
   
-12/08 11:08AM EST  
+04/01 11:39PM EST  
   
-12/08 07:39PM EST  
+04/02 07:27AM EST  
   
-12/09 04:38AM EST  
+04/02 04:03PM EST  
   
-12/09 10:56AM EST  
+04/03 06:48AM EST  
   
-12/09 06:43PM EST  
+04/03 12:49PM EST  
   
-12/10 01:08AM EST  
+04/03 08:19PM EST  
   
-12/10 08:41AM EST
+04/04 04:23AM EST  
+  
+04/04 11:37AM EST  
+  
+04/04 07:16PM EST  
+  
+04/05 09:28AM EST
