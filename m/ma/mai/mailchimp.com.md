@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602193831id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008191205id_/http%3A//mailchimp.com/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -13,7 +13,7 @@ or you can reach us by telephone at (404) 527-3609
 
 We don't collect any information from people simply visiting our site, or from people requesting a sample email be sent to them.  
 We only collect information from people that **register** for Mail Chimp services.  
-We don't share, give away, or sell your (or your recipients') information to anyone. Ever. We hate that stuff.  
+We do not, and will not, share, give away, or sell your (or your recipients') information (including contact information, email content, or email lists) to anyone. Ever. That's just slimy.  
 When you use Mail Chimp, you'll enter email addresses of your recipients. These recipients' email addresses are stored in your account, and will never be contacted by us.  
 Yes, we can see what you're sending out through our server---we monitor our system constantly for jerks. We'll boot you from our system if you: 
 
