@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209051444id_/http%3A//www.technologyevaluation.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308234426id_/http%3A//www.technologyevaluation.com/Privacy.asp) for the most accurate reproduction.*
 
 # TechnologyEvaluation.Com (TEC)
 
@@ -42,27 +42,3 @@ _**Hypertext Links**_ | Our web site contains hypertext links to other sites for
 ---|---  
 |   
 | 
-
-| 
-
-**[R E S E A R C H   C E N T E R](https://web.archive.org/)**  
-  
----  
-  
-| 
-
-| 
-
-**T o d a y ' s   A r t i c l e**  
-  
----  
-  
-  
-
-
-[**Vertical Marketing--What Is A Vertical?**](http://www.technology-evaluation.com/Research/ResearchHighlights/TechnologySelections/2004/12/research_notes/TU_TS_XOT_12_09_04_1.asp)
-
-  
-December 9, 2004
-
-What is vertical marketing? Vertical marketing is product and promotion efforts targeted at specific industries. Many benefits are derived from vertical marketing. These include messages that are better received, credibility, marketing budgets that go farther, less competition, etc. A common mistake is the failure to understand the verticals you choose to target. The definition of a vertical is not what the vendor thinks; it is what the prospects think.
