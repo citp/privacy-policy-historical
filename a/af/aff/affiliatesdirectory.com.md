@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204223553id_/http%3A//www.affiliatesdirectory.com/contact-us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623075824id_/http%3A//www.affiliatesdirectory.com/contact-us/privacy.shtml) for the most accurate reproduction.*
 
 # We repect your privacy at AffiliatesDirectory.com
 
 ## Privacy Statement for AffiliatesDirectory.com
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: \- 
+We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: - 
 
 **AffiliatesDirectory.com.**
 
@@ -16,7 +16,7 @@ When you subscribe to any of our Newsletters we ask for your Name and E-Mail add
 
 ### Our Use of Cookies
 
-We only use 'Session Based' cookies at AffiliatesDirectory.com. These are only used to enhance the browsing experience of the visitor \- by allowing the visitor to remain logged in to our Directory, to post messages in our forums and similar online activities. 
+We only use 'Session Based' cookies at AffiliatesDirectory.com. These are only used to enhance the browsing experience of the visitor - by allowing the visitor to remain logged in to our Directory, to post messages in our forums and similar online activities. 
 
 No information is stored or gathered by AffiliatesDirectory.com from the use of these cookies. 
 
@@ -44,7 +44,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their personal information (or information about any affiliate program) from our database and/or to not receive future communications from AffiliatesDirectory.com. 
 
-  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/web/20021204223553id_/http%3A//www.affiliatesdirectory.com/contact-us/index.shtml)
+  1. You can send email to the webmaster by [using the following form.](https://web.archive.org/web/20030623075824id_/http%3A//www.affiliatesdirectory.com/contact-us/index.shtml)
 
 
 
@@ -60,7 +60,7 @@ To further protect your privacy and ensure that no one unlawfully or maliciously
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Please send an email by [using the following form.](https://web.archive.org/web/20021204223553id_/http%3A//www.affiliatesdirectory.com/contact-us/index.shtml)
+  1. Please send an email by [using the following form.](https://web.archive.org/web/20030623075824id_/http%3A//www.affiliatesdirectory.com/contact-us/index.shtml)
 
 
 
@@ -69,3 +69,7 @@ If it is in relation to updating information contained in our Directory of Affil
 ### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we urge you to [contact us](https://web.archive.org/contact-us/index.shtml).
+
+A Recommended Affiliate Opportunity
+
+Become an Affiliate Expert
