@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the roomandboard.com privacy policy that was archived on 2004-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040411195804id_/http%3A//www.roomandboard.com/rnb/privacy.vm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roomandboard.com privacy policy that was archived on 2004-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209092557id_/http%3A//www.roomandboard.com/rnb/privacy.vm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Room &amp; Board: Privacy Policy</title>
@@ -78,7 +78,6 @@ function thankYou(varForm, varRequest){
  return check;
 }
 
-/* Functions that open page in new window */
 function open_window(url,h,w,bScroll,bTool,bResize) {
 var specs = "toolbar="+bTool+",location=0,directories=0,status=0,scrollbars="+bScroll+",resizable="+bResize+",width=" + w + ",height=" + h
 var winName="newWin";
@@ -90,7 +89,38 @@ function open_window2(url,h,w,bScroll,bTool,bResize) {
 var specs = "toolbar="+bTool+",location=0,directories=0,status=0,scrollbars="+bScroll+",resizable="+bResize+",width=" + w + ",height=" + h
 var winName="newWin2";
 mywin = window.open(url,winName,specs);
-}</script>
+}
+
+function Go(){return}
+
+//-- NEW FUNCTIONS (10-04 SBENNETT) --//
+
+function openWindow(sUrl,iW,iH,bScr,bTbr,bRsz,sWin) {
+	var iAW = screen.availWidth, iAH = screen.availHeight,
+		sArg = 'toolbar=' + bTbr + ',location=0,directories=0,status=0,scrollbars=' + bScr + ',resizable=' + bRsz + ',width=' + iW + ',height=' + iH + ',left=' + (iAW-iW)/2 + ',top=' + (iAH-iH)/2;
+	if (sWin) {
+		sWin = window.open(sUrl,sWin,sArg);
+		sWin.focus();
+	} else {
+		oWin = window.open(sUrl,'newWin',sArg);
+		oWin.focus();
+		}
+	}
+
+function swapSwatch(x){
+	document.getElementById('imgLabel').innerHTML = arrSwatch[x][0];
+	document.bigImage.src = arrSwatch[x][1];
+	sRepeatName = arrSwatch[x][0];
+	sRepeatUrl = arrSwatch[x][1];
+//	document.getElementById('matDetail').innerHTML = arrSwatch[x][2];
+	}
+
+function closeRedirect(x){
+	opener.location.href = x;
+	opener.focus();
+	window.close();
+	}
+</script>
 <!-- BEGIN WEBSIDESTORY CODE v8.0.0 (11up) -->
 <!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
 <!-- determine the referrer infomation for segmentation -->
@@ -172,26 +202,21 @@ navigator.appVersion)<3)document.write("<\!"+"--")</script>
 </head>
 
 <body style="margin: 0 0 0 0; background-color: #FFFFFF;">
-<script type="text/javascript">function Go(){return}</script>
-<script type="text/javascript" src="http://www.roomandboard.com/rnb/exmplmenu_var.js"></script>
-<script type="text/javascript" src="http://www.roomandboard.com/rnb/menu_com.js"></script>
 <table width="770" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<!-- <td bgcolor="#ffffff"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="10" alt="" /></td> -->
-       <form action="http://www.exacttarget.com/subscribe.asp" name="signUp" method="post" onsubmit="return thankYou(document.signUp.elements[4].value,'subscribe');"></form>
-       <td colspan="3" bgcolor="#ffffff">
+		<!-- <td bgcolor="#ffffff"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="10" alt="" /></td> -->
+       <td colspan="3" bgcolor="#ffffff" width="770">
             <input type="hidden" name="lid" value="73801">
 	        <input type="hidden" name="thx" value="http://www.roomandboard.com/rnb/email_subscribed.vm">
 			<input type="hidden" name="err" value="http://www.roomandboard.com/rnb/email_err.vm">
 			<input type="hidden" name="SubAction" value="sub">
-            <table width="770" border="0" cellpadding="0" cellspacing="0" align="left">
-                <tbody><tr>
-                    <td><img src="http://www.roomandboard.net/images/rnb/misc/rnb_logo_small.gif" alt="Room &amp; Board" border="0"></td>
-                    <td nowrap="nowrap" valign="bottom"><input type="text" name="Email Address" value="e-mail updates" size="13" onfocus="clearEmail(this);" class="sidenote" maxlength="60"> <input type="image" src="http://www.roomandboard.net/images/rnb/misc/go1.gif" border="0" style="border:0;"></td>
-                </tr>
+            <table width="770" border="0" cellpadding="0" cellspacing="0" align="right">
+                <form name="searchform" method="get" action="http://search.roomandboard.com/exec/"></form><tbody><tr>
+                    <td width="540"><img src="http://www.roomandboard.com/images/rnb/misc/rnb_logo_small.gif" alt="Room &amp; Board" border="0"></td>
+					<td nowrap="nowrap" valign="bottom" class="productinfo" width="230" align="right">search <input type="text" name="query" value="keyword or sku" onfocus="clearEmail(this);"><input type="image" src="http://www.roomandboard.com/images/rnb/misc/go1.gif" border="0" style="border:0;"></td>
+				</tr>
             </tbody></table>
 		</td>
-		
 	</tr>
 	<tr>
 		
@@ -199,100 +224,106 @@ navigator.appVersion)<3)document.write("<\!"+"--")</script>
 		<!-- navigation -->
 			        <table width="770" border="0" cellpadding="0" cellspacing="0">
 			          <tbody><tr>
-					  	<td bgcolor="#000000" width="10"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="10" alt=""></td> 
+					  	<td bgcolor="#000000" width="10"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="10" alt=""></td> 
 			            <td width="88" height="29" bgcolor="#000000" align="left"><a href="http://www.roomandboard.com/rnb" class="newrnbdemo2">Home</a></td>
-			            <td width="1" height="29" bgcolor="#000000"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
+			            <td width="1" height="29" bgcolor="#000000"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
 			            <td width="183" height="29" bgcolor="#000000" nowrap="nowrap" align="center"><a href="javascript:open_window('http://www.roomandboard.com/rnb/ordering.vm',300,420,1,1,1)" class="newrnbdemo2">Order at <span class="newrnbdemobold"><font color="#FFFFFF">800.486.6554</font></span></a></td>
-			            <td width="1" height="29" bgcolor="#000000"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
+			            <td width="1" height="29" bgcolor="#000000"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
 			            <td width="143" height="29" bgcolor="#000000" nowrap="nowrap" align="center"><a href="http://www.roomandboard.com/rnb/catrequest.vm" class="newrnbdemo2">Request a Catalog</a></td>
-			            <td width="1" height="29" bgcolor="#000000"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
+			            <td width="1" height="29" bgcolor="#000000"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
 			            <td width="80" height="29" bgcolor="#000000" align="center"><a href="http://www.roomandboard.com/rnb/locations.vm" class="newrnbdemo2">Stores</a></td>
-			            <td width="1" height="29" bgcolor="#000000"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
+			            <td width="1" height="29" bgcolor="#000000"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
 			            <td width="100" height="29" bgcolor="#000000" align="right"><a href="http://www.roomandboard.com/rnb/wishlist.do" class="newrnbdemo2">My Wish List</a>&nbsp;</td>
 			          </tr>
 			        </tbody></table>    
 		</td>
 	</tr>
 	<!--<tr >
-		<td colspan="2" height="1" bgcolor="#000000"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="1" alt="" /></td>
+		<td colspan="2" height="1" bgcolor="#000000"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="1" alt="" /></td>
 	</tr>
 	<tr >
-		<td colspan="2" height="1" bgcolor="#FFFFFF"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="8" width="1" alt="" /></td>
+		<td colspan="2" height="1" bgcolor="#FFFFFF"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="8" width="1" alt="" /></td>
 	</tr>
 	</table>
 	<table width="770" border="0" cellpadding="0" cellspacing="0">-->
 	<tr valign="middle">
-		<td bgcolor="#CBC9A9"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="141" alt=""></td>
-		<td bgcolor="#E3E3E3" height="1"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="10" alt=""></td>
+		<td bgcolor="#CBC9A9"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="141" alt=""></td>
+		<td bgcolor="#E3E3E3" height="1"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="10" alt=""></td>
 		<td align="left" bgcolor="#E3E3E3" class="productinfoGrey2" valign="top" width="619">
 					Privacy Policy
 				</td>
 	</tr>
 	<tr>
-		<td bgcolor="#CBC9A9" height="1"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="141" alt=""></td>
-		<td bgcolor="#999999" height="1"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="10" alt=""></td>
-		<td bgcolor="#999999" height="1"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="619" alt=""></td>
+		<td bgcolor="#CBC9A9" height="1"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="141" alt=""></td>
+		<td bgcolor="#999999" height="1"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="10" alt=""></td>
+		<td bgcolor="#999999" height="1"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="619" alt=""></td>
 	</tr>
 <!-- white rule above image
- 	<tr ><td colspan="2" height="1" bgcolor="#ffffff"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="1" alt="" /></td></tr>
+ 	<tr ><td colspan="2" height="1" bgcolor="#ffffff"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="1" alt="" /></td></tr>
  -->
  </tbody></table>
- <table width="770" border="0" cellpadding="0" cellspacing="0">
- 	<tbody><tr>
-		<td bgcolor="#CBC9A9"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="10" alt=""></td>
-		<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="131">
+
+
 <!-- *********************************************end header*************************************** -->
 
 
     <!-- *************************************start sidebar************************************** -->
-  <tbody><tr valign="top"> 
+<script type="text/javascript">function Go(){return}</script>
+<script type="text/javascript" src="http://www.roomandboard.com/rnb/exmplmenu_var.js"></script>
+<script type="text/javascript" src="http://www.roomandboard.com/rnb/menu_com.js"></script>
+
+ <table width="770" border="0" cellpadding="0" cellspacing="0">
+ 	<tbody><tr>
+		<td bgcolor="#CBC9A9"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="10" alt=""></td>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="131">
+			  <tbody><tr valign="top"> 
     <td width="131" align="center" valign="top" bgcolor="#CBC9A9">	&nbsp;
       <table width="130" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr valign="top"><td valign="top">
         <div id="MenuPos" style="position:relative; top:-20px; left:0px;">
-        <table cellspacing="2" cellpadding="0" width="130" border="0" valign="top"><tbody><tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB1" class="mainnavtable">&nbsp;Sofas</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB102" class="mainnavtable">&nbsp;Accent Chairs</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB2" class="mainnavtable">&nbsp;Accent Tables</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB107" class="mainnavtable">&nbsp;Armoires</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB109" class="mainnavtable">&nbsp;Media</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB108" class="mainnavtable">&nbsp;Shelving</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB4" class="mainnavtable">&nbsp;Dining</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB5" class="mainnavtable">&nbsp;Office</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB6" class="mainnavtable">&nbsp;Bedroom</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB7" class="mainnavtable">&nbsp;Kids</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB14" class="mainnavtable">&nbsp;Herman Miller</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB8" class="mainnavtable">&nbsp;Rugs</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB9" class="mainnavtable">&nbsp;Accessories</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB135" class="mainnavtable">&nbsp;Lighting</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB13" class="mainnavtable">&nbsp;Outdoor</a></td></tr>
-<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB11" class="mainnavtable">&nbsp;Clearance</a></td></tr>
+        <table cellspacing="2" cellpadding="0" width="130" border="0" valign="top"><tbody><tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB1" class="mainnavtable">Sofas</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB102" class="mainnavtable">Accent Chairs</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB2" class="mainnavtable">Accent Tables</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB3" class="mainnavtable">Storage</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB4" class="mainnavtable">Dining</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB5" class="mainnavtable">Office</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB6" class="mainnavtable">Bedroom</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB7" class="mainnavtable">Kids</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB13" class="mainnavtable">Outdoor</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB28" class="mainnavtable">Retrospect Collection</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB9" class="mainnavtable">Accessories</a></td></tr>
+<tr><td class="tablebordertop"><a href="http://www.roomandboard.com/rnb/dept.do?dept=RB11" class="mainnavtable">Clearance</a></td></tr>
 </tbody></table>
         </div> 
         </td>
         </tr> 
         </tbody></table>
-        <br>
-        <br>
-		<br>
-         <table width="130" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr> 
-                <td> 
-                    <form name="form2" method="get" action="/cgi-bin/htsearch">
-                    <input type="hidden" name="config" value="htdig">
-                    <input type="hidden" name="restrict" value="">
-                    <input type="hidden" name="exclude" value="">
-                    <div align="center"> 
-                    <input name="words" type="text" value="Search" onfocus="clearEmail(this);" size="12">
-                    <input type="image" src="http://www.roomandboard.net/images/rnb/misc/go1.gif" border="0" style="border: 0;"> <br>
-                    </div>
-                    </form>
-                </td>
-            </tr>
-       </tbody></table>
+
+	<br>
+
+	<br>
+
+	<br>
+
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<form action="http://www.exacttarget.com/subscribe.asp" name="signUp" method="post" onsubmit="return thankYou(document.signUp.elements[5].value,'subscribe');"></form>
+	<input type="hidden" name="lid" value="73801">
+	<input type="hidden" name="thx" value="http://www.roomandboard.com/rnb/email_subscribed.vm">
+	<input type="hidden" name="err" value="http://www.roomandboard.com/rnb/email_err.vm">
+	<input type="hidden" name="SubAction" value="sub">
+	<input type="hidden" name="Receive our 2005 Catalog" value="Please select your catalog preference">
+		<td colspan="2" style="font-size:11px;">sign up</td>
+	</tr><tr>
+		<td style="padding-right:5px;"><input type="text" name="Email Address" value="e-mail updates" size="13" onfocus="clearEmail(this);" maxlength="60" class="fldTxt"></td>
+		<td><input type="image" src="http://www.roomandboard.com/images/rnb/misc/go1.gif" border="0" width="20" height="18" alt="Go"></td>
+	
+	</tr>
+	</tbody></table>
        
     </td>
-    <td width="1" bgcolor="#CBC9A9"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
+    <td width="1" bgcolor="#CBC9A9"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
     <td bgcolor="#ffffff" valign="top">
 <!-- *********************************************start main************************************** -->
 <table border="0" cellspacing="0" cellpadding="15" width="619">
@@ -306,7 +337,7 @@ navigator.appVersion)<3)document.write("<\!"+"--")</script>
 			<p class="productinfo"><strong>Collecting and using your information</strong> <br>
 			<u>Anonymous, non-personally identifiable information</u> such as your IP address, domain server, type of computer, type of web browser, and addresses of referring sites, also known as "traffic data," may be collected and used to diagnose problems with our server and administer our sites. We may also use "cookies" and "action tags" to collect information. Cookies and action tags allow us to compile statistics and other information about how you use our sites. We may use this data to analyze trends and improve the usability of our sites as well as to administer the sites and gather broad demographic statistics. We may also share non-personally identifiable data with third parties on an aggregate basis.
 			</p>
-			<p><u>Personally identifiable information</u> such as your name, home address and e-mail address may be required if you wish to communicate with us via e-mail. This "contact information" may be used to respond to your e-mail or contact you regarding a related matter. Our sites also give you the option to create a "wish list" of your favorite products. To create a wish list, you may be required to provide contact information and select a user name and password. This information may be used to provide you with personal services such as product order history, scheduled delivery information and other relevant notices not available to users who choose not to create a wish list. Submitting contact information and creating a wish list are strictly voluntary and are not required to use our sites.</p>
+			<p><u>Personally identifiable information</u> such as your name, home address and e-mail address may be required if you wish to communicate with us via e-mail. This "contact information" may be used to respond to your e-mail or contact you regarding a related matter. Our sites also give you the option to create a "Wish List" of your favorite products. To create a Wish List, you may be required to provide contact information and select a user name and password. This information may be used to provide you with personal services such as product order history, scheduled delivery information and other relevant notices not available to users who choose not to create a Wish List. Submitting contact information and creating a Wish List are strictly voluntary and are not required to use our sites.</p>
 			<p class="productinfo"><strong>Sharing your information</strong><br>
 			Room &amp; Board, Inc. may establish business relationships and share your contact information with select persons or entities whom we believe have privacy policies that are generally consistent with ours. These persons or entities may contact you about their products or services. You may opt out of sharing this information at any time; see the "Opting Out" section below.</p>
 			<p class="productinfo"> We reserve the right to provide personally identifiable information as required by law or legal process to protect and defend the rights of Room &amp; Board, Inc., our sites and users of our sites; or in the event of a corporate sale, merger, reorganization, dissolution or similar event. In such cases, the disclosure of information will be as necessary to protect the personal safety of users of our sites or the public.</p>
@@ -339,36 +370,34 @@ navigator.appVersion)<3)document.write("<\!"+"--")</script>
 			phone: 763.588.7525<br>
 			e-mail:  <a href="mailto:webmaster@roomandboard.com%20" class="links">webmaster@roomandboard.com</a>
 			</p>
-			<p><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"> </p>
+			<p><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="4"> </p>
 		</td>
 	</tr>
 </tbody></table>
     			<!-- *************************************************start footer************************************ -->
 			    </td>
-			    <td width="1" bgcolor="#ffffff"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
+			    <td width="1" bgcolor="#ffffff"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="1" alt=""></td>
 			  </tr>
 			</tbody></table>
 		</td>
 	</tr>
-	<tr><td colspan="2" bgcolor="#cccccc"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="1"></td></tr>
+	<tr><td colspan="2" bgcolor="#cccccc"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="1"></td></tr>
 	<tr>
-		<td><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="10" alt=""></td>
-		<td>
+		<td colspan="2">
             <table width="669" border="0" cellpadding="0" cellspacing="0" align="left">
                 <tbody><tr>
-                    <td align="left" valign="top" height="2" width="669" colspan="5"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" width="770" height="1" alt="" border="0"></td>
+                    <td align="left" valign="top" height="2" width="669" colspan="5"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" width="770" height="1" alt="" border="0"></td>
                 </tr>	
                 <tr>
                     <td height="3" width="669" colspan="5"></td>
                 </tr>
                 <tr>	
-                    <td class="smalltext" align="left"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><a href="http://www.roomandboard.com/rnb/aboutus.vm" class="productinfoGrey">About Us</a></td>
-                    <td class="smalltext" align="left"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><a href="http://www.roomandboard.com/rnb/careers.vm" class="productinfoGrey">Careers</a></td>
-                    <td class="smalltext" align="left"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><a href="http://www.roomandboard.com/rnb/news.vm" class="productinfoGrey">News</a></td>
-					<td><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><img src="http://www.roomandboard.net/images/rnb/misc/shimclear.gif" height="1" width="4"><a href="http://www.roomandboard.com/rnb/privacy.vm" class="productinfoGrey">Privacy Policy</a></td>
-                    <td class="smalltext" align="right" valign="top" nowrap="nowrap"><a href="http://www.retrospecthome.com"><img src="http://www.roomandboard.net/images/rnb/misc/retrolink2.gif" alt="retrospecthome.com" border="0"></a></td>
+                    <td class="smalltext" align="left"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="4"><a href="http://www.roomandboard.com/rnb/aboutus.vm" class="productinfoGrey">About Us</a></td>
+                    <td class="smalltext" align="left"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="16"><a href="http://www.roomandboard.com/rnb/careers.vm" class="productinfoGrey">Careers</a></td>
+                    <td class="smalltext" align="left"><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="12"><a href="http://www.roomandboard.com/rnb/news.vm" class="productinfoGrey">News</a></td>
+					<td><img src="http://www.roomandboard.com/images/rnb/misc/shimclear.gif" height="1" width="20"><a href="http://www.roomandboard.com/rnb/privacy.vm" class="productinfoGrey">Privacy Policy</a></td>
+                    <td class="smalltext" align="right" valign="top" nowrap="nowrap">©2004 Room &amp; Board, Inc. All Rights Reserved.</td>
                 </tr>
-				<tr><td class="smalltext" align="center" valign="bottom" nowrap="nowrap" colspan="5">©2004 Room &amp; Board, Inc. All Rights Reserved.</td></tr>
             </tbody></table>
 		</td>
 	</tr>
