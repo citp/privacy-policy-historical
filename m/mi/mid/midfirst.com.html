@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the midfirst.com privacy policy that was archived on 2004-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602220620id_/http%3A//midfirst.com/Inside/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the midfirst.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205192553id_/http%3A//www.midfirst.com/Inside/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script language="JavaScript" type="text/javascript">
 <!--
@@ -33,8 +33,10 @@ function openVisa2(){
 }
 function exitToOnlineBanking()
 {
-	window.open("/Exit/PersonalBankingLogin.htm", "OnlineBanking");
+	window.open("https://cib.ibanking-services.com/cib/login.jsp?FIORG=731&FIFID=303087995", "OnlineBanking","location=yes,status=yes,toolbar=yes, url=yes,scrollbars=yes, menu=yes, width=800, height=600, resizable=yes");
+	//this.location = "https://cib.ibanking-services.com/cib/login.jsp?FIORG=731&FIFID=303087995";
 }
+
 function exitCapitalConnect()
 {
 	window.open("/Exit/CapitalConnect.htm", "CapitalConnect");
@@ -43,6 +45,10 @@ function openLoanPage(strURL)
 {
 	window.open("/Loans/Details/" + strURL, "Loans");
 
+}
+function openAccountApp()
+{
+	window.open("/AccountApplication/Index.aspx","AccountApp","menu=no, width=750, scrollbars=yes, height=650, resizable=yes, status=yes");
 
 }
 
@@ -138,7 +144,7 @@ a:hover {color:Red}
 
 -->
 </style>
-</head><body link="#0000FF" vlink="#800080" bgcolor="White" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><input type="Hidden" name="subs" size="20" value="Iinside">
+</head><body link="#0000FF" vlink="#800080" onload="javascript:document.frmLogin.userid.focus();" bgcolor="White" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><input type="Hidden" name="subs" size="20" value="Iinside">
 <script>
 
 // (C) 2000 www.CodeLifter.com
@@ -271,17 +277,136 @@ if (parent.frames.length > 0) {
 	</tr>
 	<tr valign="top">
 		<td><img src="/images/shim.gif" width="3" height="1" border="0"></td>
-		<!--td width="125"  background="/images/background4.jpg" height=700><p align="center"><img src="/Rotation/pic03.jpg"><br-->
-		<!--td width="125" background="/images/bar.gif" height=700><p align="center"><img src="/Rotation/pic03.jpg"><br-->
-		<td width="125" bgcolor="navy" height="700"><p align="center"><img src="/Rotation/pic10.jpg"><br>
-		<font face="Times New Roman" color="white" size="1">Wednesday, June 02, 2004<br></font>
-		<font face="Times New Roman" color="white" size="1">5:08:19 PM&nbsp;CST</font></p>
+		<!--td width="125"  background="/images/background4.jpg" height=700><p align="center"><img src="/Rotation/pic07.jpg"><br-->
+		<!--td width="125" background="/images/bar.gif" height=700><p align="center"><img src="/Rotation/pic06.jpg"><br-->
+		<td width="125" bgcolor="navy" height="700"><p align="center"><img src="/Rotation/pic04.jpg"><br>
+		<font face="Times New Roman" color="white" size="1">Sunday, December 05, 2004<br></font>
+		<font face="Times New Roman" color="white" size="1">1:28:42 PM&nbsp;CST</font></p>
 
-			<span class="MenuHeading">Online Banking</span>
-<br>&nbsp;&nbsp;&nbsp;<a href="https://vault5.mids.com/731" class="nav">Login</a>
-<br>&nbsp;&nbsp;&nbsp;<a href="/Demo/interactive/p1bot.htm" target="_blank" class="nav">Demo</a>
-<br>&nbsp;&nbsp;&nbsp;<a href="/online_application_disclosures.asp" class="nav">Apply Online</a>
+			<script language="javascript">
+function demoLogin()
+{
+	window.location = 'https://cib.ibanking-services.com/cib/login.jsp?FIORG=731&FIFID=303087995';
+
+}
+
+
+function submitToOnlineBanking()
+{
+	if (document.frmLogin.userid.value=="")
+		{
+			alert("You must provide your Internet Banking ID to login to Online Banking");
+			document.frmLogin.userid.focus();
+			return false;
+		}
+	if (document.frmLogin.password.value=="")
+		{
+			alert("You must provide your Password to login to Online Banking");
+			document.frmLogin.password.focus();
+			return false;
+		
+		}
+	document.frmLogin.submit();
+}
+function imageIn()
+{
+document.images["imgButton"].src = "/images/OnlineBanking/LoginButton2.jpg";
+}
+
+function imageOut()
+{
+
+document.images["imgButton"].src = "/images/OnlineBanking/LoginButtonPush.jpg";
+
+}
+function openSecurity()
+{
+window.open("/OnlineBanking/Security.asp","Security", "width=600, height=400, menu=no, toolbar=no")
+
+
+}
+function keyPress(strKeyPressed)
+{
+if(event.keyCode) 
+{
+	key=event.keyCode;
+}
+else
+{
+	key=event.which;
+}
+if (key == "13")
+{	
+	if ((document.frmLogin.userid.value=='')&&(strKeyPressed == 'userid'))
+	{
+		alert("You must provide your Internet Banking ID to login to Online Banking");
+		document.frmLogin.userid.focus();
+		return false;
+	}
+	if ((document.frmLogin.userid.value=='')&&(strKeyPressed == 'password'))
+	{
+		alert("You must provide your Internet Banking ID to login to Online Banking");
+		document.frmLogin.userid.focus();
+		return false;
+	}
+	
+	if ((document.frmLogin.password.value=='')&&(strKeyPressed == 'password'))
+	{
+		alert("You must provide your Internet Banking Password to login to Online Banking");
+		document.frmLogin.password.focus();
+		return false;
+	}
+	if ((document.frmLogin.password.value=='')&&(strKeyPressed == 'userid'))
+	{
+		
+		document.frmLogin.password.focus();
+		return false;
+	}	
+	else
+	{
+		document.frmLogin.submit();	
+	}
+}
+}
+</script>
+
+
+<form name="frmLogin" id="frmLogin" method="Post" action="https://cib.ibanking-services.com/cib/login.jsp?FIORG=731&amp;FIFID=303087995">
+	<input type="hidden" name="action" id="action" value="validate">
+	<table border="0" width="100%" class="Login-Form">
+		<tbody><tr>
+			<td>Internet Banking ID:</td>
+		</tr>	
+		<tr>
+			<td align="Center"><input type="Text" name="userid" id="userid" onkeypress="javascript:keyPress('userid');" size="16" class="Small-Textbox" tabindex="1"></td>
+		</tr>
+		<tr>
+			<td>Password:</td>
+		</tr>
+			
+			<tr><td align="center"><input type="password" onkeypress="javascript:keyPress('password');" name="password" id="password" size="16" class="Small-Textbox" tabindex="2"></td>
+		</tr>
+		<tr>
+			<td align="center">
+				<table border="0" width="100%">
+					<tbody><tr>
+						<td width="33%">&nbsp;</td>
+						<td width="33%" align="center">
+							<img name="imgButton" id="imgButton" class="ImageLink" tabindex="3" src="/Images/OnLineBanking/LoginButton2.jpg" lowsrc="/images/OnlineBanking/LoginButtonPush.jpg" onmouseout="javascript:imageIn();" onblur="javascript:imageIn();" onmousedown="javascript:imageOut();" onkeypress="javascript:imageOut();submitToOnlineBanking();return false;" onclick="javascript:submitToOnlineBanking();return false;" width="59" height="26">
+						</td>
+						<td width="33%" align="center"><img src="/images/OnLineBanking/LOCK5.jpg" border="0" onclick="javascript:openSecurity();" class="ImageLink" width="15" height="19"></td>
+					</tr>
+				</tbody></table>			
+			</td>
+		</tr>			
+	</tbody></table>
+</form>
+<span class="MenuHeading">Internet Banking</span>
+<br>&nbsp;&nbsp;&nbsp;<a href="/Demo/OnlineBanking/" target="_blank" class="nav">Demo</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="https://cib.ibanking-services.com/cib/themes/cib_enroll/enroll/enroll.jsp?FIORG=731&amp;FIFID=303087995" class="nav">Apply Online</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="/More/faq.asp" class="nav">FAQ</a>
 <br>
+
 <br>
 <span class="MenuHeading">&nbsp;Inside MidFirst</span>
 <br>&nbsp;
@@ -297,6 +422,10 @@ if (parent.frames.length > 0) {
 <br>&nbsp;
 
 	<img src="/images/cb1.gif" width="10">&nbsp;<a href="/Inside/PressReleases.asp" class="nav">Press Releases</a>
+
+<br>&nbsp;
+
+	<img src="/images/cb1.gif" width="10">&nbsp;<a href="/Inside/MoneyMatters.asp" class="nav">MoneyMatters</a>
 
 <br>&nbsp;
 
@@ -324,7 +453,7 @@ if (parent.frames.length > 0) {
 
    </td>
    <td valign="top">
-		<span><img src="/images/topbar.jpg" width="449" height="13"><a href="/index.asp"><img src="/images/search.jpg" width="59" height="13" border="0"></a><a href="/More/Contact.asp"><img src="/images/contact.jpg" width="79" height="13" border="0"></a><a href="https://vault5.mids.com/731/clicgi/cgi-bin/accntSum "><img src="/images/login.jpg" width="63" height="13" border="0" onmouseover="popUp('elMenu7',event); " onmouseout="popDown('elMenu7');"></a></span><br>
+		<span><img src="/images/topbar.jpg" width="449" height="13"><a href="/index.asp"><img src="/images/search.jpg" width="59" height="13" border="0"></a><a href="/More/Contact.asp"><img src="/images/contact.jpg" width="79" height="13" border="0"></a><a href=" "><img src="/images/login.jpg" width="63" height="13" border="0" onmouseover="popUp('elMenu7',event); " onmouseout="popDown('elMenu7');"></a></span><br>
       <img name="area1" src="/images/area01a.jpg" width="134" height="80" border="0"><a href="/index.asp" target="_top"><img name="area2" src="/images/area02a.jpg" width="127" height="80" border="0"><img name="area3" src="/images/area03a.jpg" width="127" height="80" border="0"><img name="area4" src="/images/area04a.jpg" width="128" height="80" border="0"><img name="area5" src="/images/area05a.jpg" width="134" height="80" border="0"><br>  
 		</a><a href="/PersonalBanking/index.asp" onmouseover="popUp('elMenu1',event); selectA1();" onmouseout="popDown('elMenu1'); selectA1z();"><img name="button1" src="/images/button1a.jpg" height="23" border="0"></a><a href="/business/" onmouseover="popUp('elMenu2',event); selectA2();" onmouseout="popDown('elMenu2'); selectA2z();"><img src="/images/button2a.jpg" height="23" border="0" name="button2"></a><a href="/investments/" onmouseover="popUp('elMenu3',event); selectA3();" onmouseout="popDown('elMenu3'); selectA3z();"><img src="/images/button3a.jpg" height="23" border="0" name="button3"></a><a href="/loans/" onmouseover="popUp('elMenu4',event); selectA4();" onmouseout="popDown('elMenu4'); selectA4z();"><img src="/images/button4a.jpg" height="23" border="0" name="button4"></a><a href="/Inside/" onmouseover="popUp('elMenu5',event); selectA5();" onmouseout="popDown('elMenu5'); selectA5z();"><img src="/images/button5b.jpg" height="23" border="0" name="button5"></a><a href="/More/" onmouseover="popUp('elMenu6',event); selectA6();" onmouseout="popDown('elMenu6'); selectA6z();"><img src="/images/button6a.jpg" height="23" border="0" name="button6"></a><br> 
   
@@ -513,14 +642,14 @@ adhere to the information practices as described in this notice.</i></p>
         Page</a> | <a href="/PersonalBanking/">Personal Banking</a> | <a href="/Business/">Business Banking</a>
         | <a href="/Loans/">Rapid Loans</a> | <a href="/Investments/">Investment Services</a> | <a href="/Inside/">Inside MidFirst</a>
         | <a href="/More/">More...</a><br><a href="/More/Contact.asp">Contact Us</a> |
-        <a href="https://vault5.mids.com/731">Login</a> | <a href="/Inside/Privacy.asp">Privacy Statement</a> | <a href="/Inside/Terms.asp">Terms of Use</a><br><br> </font></td>
+        <a href="https://cib.ibanking-services.com/cib/login.jsp?FIORG=731&amp;FIFID=303087995" target="_blank">Login</a> | <a href="/Inside/Privacy.asp">Privacy Statement</a> | <a href="/Inside/Terms.asp">Terms of Use</a><br><br> </font></td>
     </tr>
 </tbody></table>
 
   <table border="0" cellpadding="0" cellspacing="0" width="750" align="left">
     <tbody><tr>
       <td>
-        <p align="center"><font face="Verdana" size="1" color="#000080">Copyright © 2003
+        <p align="center"><font face="Verdana" size="1" color="#000080">Copyright © 2004
         MidFirst Bank. All rights reserved.</font></p>
       </td>
     </tr>
