@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009030541id_/http%3A//www.training.rmit.edu.au/rmit_training_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2004-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040601162943id_/http%3A//www.rmittraining.com/rmit_training_privacy_policy.pdf) for the most accurate reproduction.*
 
 # RMIT TRAINING SECURITY & PRIVACY POLICY
 
@@ -36,8 +36,8 @@ To edit your personal details on the Short Courses or Single Courses database lo
 http://cbs.rmit.edu.au/book.php3 or call 1800 067 117
 
 
-To edit your personal details on New Career Connections log into:
-http://www.careerconnections.com.au or call 9925 8195
+To edit your personal details on JET Apprenticeship and Traineeship (formerly called New
+Career Connections) log into: http://www.jet.org.au or call 9925 8195
 If you come across any incorrect or outdated information on our websites please contact:
 privacy.training@rmit.edu.au or call 9925 8179
 "Cookies"
