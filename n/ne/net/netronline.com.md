@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603141559id_/http%3A//www.netronline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813113532id_/http%3A//www.netronline.com/privacy.htm) for the most accurate reproduction.*
 
 # NETRonline's Privacy Statement
 
@@ -7,13 +7,13 @@ Advertisers
 
 > We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 > 
-> **Top**
+> ** Top **
 
-####  **Cookies**
+####  ** Cookies **
 
 > This site uses cookies.  Its use is restricted to simplifying the login process of certain sections of our Web site.
 > 
-> **Top**
+> ** Top **
 
 ####  Order Forms
 
@@ -21,25 +21,27 @@ Advertisers
 > 
 > Contact information from the order forms is used to respond to the visitor when necessary, or to provide them with the information they have requested.
 > 
-> **Top**
+> In now way is this information ever shared or distributed to outside parties.
+> 
+> ** Top **
 
 ####  External Links
 
 > This site contains links to other sites. **NETR _online_ **is not responsible for the privacy practices or the content of such Web sites.
 > 
-> **Top**
+> ** Top **
 
-**Accounts and Secure Transactions**
+** Accounts and Secure Transactions **
 
 > A portion of **NETR _online_** allows a visitor to acquire online products or services by secure credit card transaction.  When an purchase is made, **NETR _online_** will be acquiring your name, address, email, and password.  Basic order information is stored in our database: who, what, when, how much.  This information will be stored on MS SQL Server, which is password protected and cannot be remotely interfaced with.  No credit card information is stored in our database.
 > 
 > Credit Card transactions will be conducted using an authorizing service,
 >
->> [**The E Processing Network**](http://www.eprocessingnetwork.com/),
+>> [**The E Processing Network**](http://www.eprocessingnetwork.com/) ,
 > 
 > to handle the transactions securely.  Once a user makes a purchase, they will be sent to the Authorizer's web site for the secure transaction.  **NETR _online_** will provide to them the information the customer provided to us (name, address), product purchase list, and prices.  The Authorizer will take the credit card number and expiration date from the customer.  Once complete, the Authorizer will return the customer to **NETR _online_** with a success or failure code.  If successful, the purchase will be complete.  
 > 
-> **NETR _online_** will never be in possession of a credit card number or expiration date.  
+> **NETR _online_ ** will never be in possession of a credit card number or expiration date.  
 > 
 > Two types of credit card transactions will be conducted through **NETR _online_** :
 >
@@ -61,7 +63,7 @@ Advertisers
 > 
 > Any questions or concerns regarding this process may be directed to [brett@netronline.com](mailto:brett@netronline.com).
 > 
-> **Top**
+> ** Top **
 
 **Special Relationships**
 
@@ -71,7 +73,7 @@ Advertisers
 
 | 
 
-**Top**
+** Top **
 
 **Surveys**
 
@@ -79,7 +81,7 @@ Advertisers
 > 
 > Demographic Information is used to understand the needs of our visitors so that we may tailor our site content to best suit them.  The survey that is indicated by the graphic to below is maintained by a third party advertising agency and may share the survey responses with other parties.
 >
->> [](https://web.archive.org/web/20010603141559id_/http%3A//www.netronline.com/survey.html)
+>> [](https://web.archive.org/web/20010813113532id_/http%3A//www.netronline.com/survey.html)
 > 
 > Contact information from the surveys is used to ship purchases or information about our company. The customer's contact information is also used to get in touch with the visitor when necessary, or to provide them with requested information about the company.
 > 
