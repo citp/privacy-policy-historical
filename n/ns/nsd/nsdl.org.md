@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nsdl.org privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009135917id_/http%3A//nsdl.org/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsdl.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403112839id_/http%3A//nsdl.org/help/privacy.php) for the most accurate reproduction.*
 
-# National Science Digital Library -
-
-Help
+# NSDL - The National Science Digital Library
 
 [Help Intro](https://web.archive.org/help/) -> Collections
 
 NSDL Privacy Policy in Brief
+
+The full NSDL Privacy Policy can be [seen here](http://comm.nsdl.org/download.php/179/Privacy_Draft-3.pdf).
 
 **Introduction** The NSDL in general subscribes to the ALA Library Bill of Rights (<http://www.ala.org/work/freedom/lbr.html>). The document below describes briefly the NSDL provisions for protection of user privacy and confidentiality when using the NSDL Main Portal. 
 
