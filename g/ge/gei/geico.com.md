@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602071451id_/http%3A//www.geico.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812200045id_/http%3A//geico.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to GEICO Direct® The Sensible Alternative, Privacy Policy
 
