@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206163600id_/http%3A//www.goireland.com/low/Corporate/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603065334id_/http%3A//www.goireland.com/low/Corporate/Privacy.htm) for the most accurate reproduction.*
 
 # GoIreland Privacy Policy
 
