@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604045511id_/http%3A//www.awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202155319id_/http%3A//awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
 
 # Australian War Memorial
 
@@ -43,14 +43,24 @@ The Australian War Memorial's Collection Databases use 'cookies' in order to ret
 
 Information passed between the client and server via these cookies is not retained by the host software in any fashion once the search session is terminated. The only information gathered from the client is that amount necessary to identify that particular session and keep it distinct from the other search sessions that may be happening at any one time.
 
-Cookie information is not retained or forwarded to any other body or organistion and users may have complete confidence that the Australian War Memorial fully respects and applies the principles of privacy and confidentiality over the Internet. 
+Cookie information is not retained or forwarded to any other body or organisation and users may have complete confidence that the Australian War Memorial fully respects and applies the principles of privacy and confidentiality over the Internet. 
 
 For more information about the Australian War Memorial's use of cookies in its databases, send an email to [webmaster@awm.gov.au](mailto:webmaster@awm.gov.au)
 
 ### Collection of personal information - Email, phone, address details
 
-Your email, phone and address details will only be used for the purpose for which they have been provided. We will not use your personal details for any other purpose, and will not disclose it, without your consent.
+The Australian War Memorial is fully committed to protecting your privacy. Any personal information, like your email, phone and address details, will be used to process your request or order. 
+
+From time to time, we may use parts of the data you and other users provide us with to better understand how our services are used and to provide information for future improvements. The data used to do these reviews does not include any direct personal information that identifies you as our customer.
+
+To enhance your online ordering and shopping experience, and to provide a more personalised service to you, we will ask you if we can use your personal information to contact you about upcoming products and items of interest. You will have the ability to choose whether or not you would like to receive this information from the Memorial. You can unsubscribe from this service at any time.
+
+We will not use your personal details for any other purpose, and will not disclose it, without your consent.
 
 ### Security
 
-Because there are risks associated with using the Internet as a transmission medium, when we use electronic forms to collect information we will also provide you with other options for providing the information - for example, a paper form and mailing address and a telephone contact. 
+The Memorial wants to ensure that you can purchase online with complete confidence. The Memorial's online purchasing technology uses the National Australia Bank's Secure Internet Payment Service. This employs SSL technology with 128 bit encryption and ensures that your card details are only accessible by NAB, not by the Memorial, and are stored behind their security firewall. For more information go to <http://www.national.com.au/Business_Solutions/0,,23513,00.html>
+
+### Red Sheriff
+
+The Memorial has contracted RedSheriff to collect statistics about website usage. For more information about Red Sheriff , the RedSheriff auditing system and RedSheriff's privacy policy see the [RedSheriff website](http://www.redsheriff.com/au/%20).
