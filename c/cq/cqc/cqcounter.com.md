@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqcounter.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605010842id_/http%3A//cqcounter.com%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqcounter.com privacy policy that was archived on 2003-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031026105226id_/http%3A//cqcounter.com%3Fprivacy) for the most accurate reproduction.*
 
 # CQ COUNTER: Privacy Policy
 
