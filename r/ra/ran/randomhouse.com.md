@@ -60,3 +60,32 @@ Books@Random may place a "cookie" in the browser file of a Books@Random user's c
 We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifying information collected by Books@Random from children will only be used by Random House Online, Inc. and its parent companies, subsidiaries, and affiliates for internal purposes such as market research, contests, and sweepstakes fulfillment, and may sometimes be included in our database. However, such information will not be posted or published by us, nor sold, rented or provided to any third parties, without your prior consent. Random House does not provide direct order fulfillment from this web site. We do, however, offer links to third party vendors that can fulfill your orders. Random House is not responsible for personally identifying information provided to these third party vendors. Additionally, **anonymous** aggregated data is sometimes provided to our advertisers for statistical purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various bulletin boards or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
 
 Again, if you have any concerns regarding privacy issues, please contact us at the above e-mail address. 
+[](https://web.archive.org/grfx/headers/batrheadermap.map)   
+
+
+The Books@Random web site is maintained by Random House Online, Inc., 201 East 50th Street, New York, NY, 10022. We can be reached by e-mail at [business@randomhouse.com.](mailto:business@randomhouse.com)
+
+ **HOW BOOKS@RANDOM USES INFORMATION PROVIDED BY YOU:**  
+This site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifying information will not be sold or rented to any other party. To enable users to receive automatic notification of updates to some areas of Books@Random, a user's personally identifying information may be shared with a third party who provides this service. 
+
+**A user's personally identifying information may also be used by Random House Online, Inc., its parent companies, subsidiaries, and affiliates for editorial, marketing, or promotional purposes. Users can opt out of such use by e-mailing the following information to[business@randomhouse.com](mailto:business@randomhouse.com): **
+
+> **1) The subject line should include the word: REMOVE  
+>  2) The body of the message should include:  
+>   a. your e-mail address  
+>   b. a description of the area where you signed up
+> 
+> Please be sure to provide us with the e-mail address that you used when you signed up.
+> 
+> **
+
+Books@Random users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. 
+
+While your personally identifying information is protected as outlined above, we sometimes collect anonymous aggregated data and provide it to our advertisers for statistical purposes. For example, we might report to advertisers that a certain percentage of users are between the ages of 35 and 45. In addition, non-personally identifying information my be used by Random House, Inc. for marketing analysis purposes. 
+
+**COOKIES:**  
+Books@Random may place a "cookie" in the browser file of a Books@Random user's computer. The cookie itself does not contain any personally identifying information although it will enable Books@Random to relate a user's use of Books@Random to information that the user has specifically and knowingly provided to Books@Random. From time to time, Books@Random hosts advertiser banners. If you link to our advertisers, you may also occasionally get cookies from them. Books@Random does not control these cookies and these cookies are not subject to this policy. The use of advertising cookies sent by third-party servers is common in the Internet industry. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some portions of Books@Random will not function properly if you do so. **KIDS:**  
+**Be sure to ask your parents for permission _before_ you send any information about yourself (your name, address, e-mail address, etc.) to us or anyone else over the Internet.** **PARENTS AND GUARDIANS:**  
+We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifying information collected by Books@Random from children will only be used by Random House Online, Inc. and its parent companies, subsidiaries, and affiliates for internal purposes such as market research, contests, and sweepstakes fulfillment, and may sometimes be included in our database. However, such information will not be posted or published by us, nor sold, rented or provided to any third parties, without your prior consent. Random House does not provide direct order fulfillment from this web site. We do, however, offer links to third party vendors that can fulfill your orders. Random House is not responsible for personally identifying information provided to these third party vendors. Additionally, **anonymous** aggregated data is sometimes provided to our advertisers for statistical purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various bulletin boards or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
+
+Again, if you have any concerns regarding privacy issues, please contact us at the above e-mail address. 
