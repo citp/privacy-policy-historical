@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330200155id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204001400id_/http%3A//bplans.com/c/ps.cfm) for the most accurate reproduction.*
 
-# Free Sample Business Plans: Bplans.com
+# Business Plan Software and Sample Business Plans
 
 [](https://www.truste.org/validate/3759)  
 This confirms that Palo Alto Software is a licensee of the TRUSTe Privacy Program. The privacy statement from which you came, discloses the privacy practices for paloaltosoftware.com. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:  
