@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610042743id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205033315id_/http%3A//www.afa.net/privacy.asp) for the most accurate reproduction.*
 
 # AFA - American Family Association - Privacy Statement
 
@@ -28,10 +28,7 @@ We can be reached by contacting:
 
 American Family Association  
 107 Parkgate Dr.  
-Tupelo, MS 38803  
-E-mail: [afa@afa.net](mailto:afa@afa.net)
-
-Copyright © 2002-2003, [American Family Association](http://www.afa.net/)
+Tupelo, MS 38803
 
   
 |   |    
