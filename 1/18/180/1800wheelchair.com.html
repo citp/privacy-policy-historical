@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1800wheelchair.com privacy policy that was archived on 2004-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040611064544id_/http%3A//www.1800wheelchair.com/on2003asp/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1800wheelchair.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204161506id_/http%3A//www.1800wheelchair.com/on2003asp/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <base href="http://www.1800wheelchair.com/asp/">
@@ -21,304 +21,7 @@
 <!--link javascripts here-->
 
 
-<script language="Javascript">
-<!--
-/**
- * DHTML dropdown menu script. Courtesy of SmartWebby.com (http://www.smartwebby.com/dhtml/)
- */
- 
- var bName = navigator.appName;
- var bVer = parseInt(navigator.appVersion);
- var NS6 = (bName == "Netscape" && bVer >= 5);
- var NS4 = (bName == "Netscape" && bVer >= 4 && bVer < 5);
- var IE4 = (bName == "Microsoft Internet Explorer" && bVer >= 4);
- var NS3 = (bName == "Netscape" && bVer < 4);
- var IE3 = (bName == "Microsoft Internet Explorer" && bVer < 4);
- window.onerror = null;
- var menuActive = 0
- var menuOn = 0
- var onLayer
- var timeOn = null // LAYER SWITCHING CODE
- if (NS4 || IE4 || NS6) {
-	 if (navigator.appName == "Netscape" && !document.getElementById){
-	 layerStyleRef="layer.";
-	 layerRef="document.layers";
-	 styleSwitch="";
-	 layerVis="show";
-	 layerHid="hide";
-	 }
-	 else if (!document.all && document.getElementById) {
-	 layerStyleRef="layer.style.";
-	 layerRef="document.getElementById";
-	 styleSwitch=".style";
-	 layerVis="visible";
-	 layerHid="hidden";
-	 }
-	 else {
-	 layerStyleRef="layer.style.";
-	 layerRef="document.all";
-	 styleSwitch=".style";
-	 layerVis="visible";
-	 layerHid="hidden";
-	 }
- }
-// SHOW MENU
-function shLayer(layerName){
- img = getImage("imgTabs");
- x = getImagePageLeft(img);
- y = getImagePageTop(img);
- menuTop = y + 18 ; // LAYER TOP POSITION
- ManualL = x + 11 ; // 'Manual Wheelchairs' LAYER LEFT POSITION
- MotorizedL = x + 187 ;  // 'Motorized Wheelchairs' LAYER LEFT POSITION
- ScootersL = x + 336 ;  // 'Scooters' LAYER LEFT POSITION
- WalkingL = x + 408 ;  // 'Walking Aids' LAYER LEFT POSITION
- LiftL = x + 500 ; // 'Manual Wheelchairs' LAYER LEFT POSITION
- DailyL = x + 578 ;  // 'Motorized Wheelchairs' LAYER LEFT POSITION
- BedroomL = x + 654 ;  // 'Scooters' LAYER LEFT POSITION
- AccessoriesL = x + 750 ;  // 'Walking Aids' LAYER LEFT POSITION
-if (NS4 || IE4 || NS6) {
- if (timeOn != null) {
- clearTimeout(timeOn)
- hideLayer(onLayer)
- }
- if (NS4 || IE4) {
- eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="'+layerVis+'"');
- eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.top="'+menuTop+'"');
- eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.left="'+eval(layerName+'L')+'"');
- } 
- if (NS6) {
- eval(layerRef+'("'+layerName+'")'+styleSwitch+'.visibility="'+layerVis+'"');
- eval(layerRef+'("'+layerName+'")'+styleSwitch+'.top="'+menuTop+'"');
- eval(layerRef+'("'+layerName+'")'+styleSwitch+'.left="'+eval(layerName+'L')+'"');
- } 
- onLayer = layerName
- }
-}// HIDE MENU
-function hideLayer(layerName){
- if (menuActive == 0) {
- if (NS4 || IE4) {
- eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="'+layerHid+'"');
- }
- if (NS6) {
- eval(layerRef+'("'+layerName+'")'+styleSwitch+'.visibility="'+layerHid+'"');
- }
- }
-}// TIMER FOR BUTTON MOUSE OUT
-function btnTimer() {
- timeOn = setTimeout("btnOut()",1000)
-}// BUTTON MOUSE OUT
-function btnOut(layerName) {
- if (menuActive == 0) {
- hideLayer(onLayer)
- }
-}// MENU MOUSE OVER 
-function menuOver(itemName) {
- clearTimeout(timeOn)
- menuActive = 1
-}// MENU MOUSE OUT 
-function menuOut(itemName) {
- menuActive = 0 
- timeOn = setTimeout("hideLayer(onLayer)", 400)
-
- }// SET BACKGROUND COLOR 
-function setBgColor(layer, color) {
-  if (NS6){
-    eval('document.getElementById("'+layer+'").style.backgroundColor="'+color+'"');
-  }
-  else if (NS4){
-    eval('window.document.layers["'+layer+'"].document.bgColor="'+color+'"');
-	eval('window.document.layers["'+layer+'"].saveColor="'+color+'"');
-  }
-  else if (IE4){
-    eval('document.all.'+layer+'.style.backgroundColor="'+color+'"');
-  }
-}
-
-function getImage(name) {
-  if (NS4 || NS6) {
-    return findImage(name, document);
-  }
-  if (IE4 || NS6)
-    return eval('document.all.' + name);
-  return null;
-}
-
-function findImage(name, doc) {
-  var i, img;
-  for (i = 0; i < doc.images.length; i++)
-    if (doc.images[i].name == name)
-      return doc.images[i];
-  for (i = 0; i < doc.layers.length; i++)
-    if ((img = findImage(name, doc.layers[i].document)) != null) {
-      img.container = doc.layers[i];
-      return img;
-    }
-  return null;
-}
-
-function getImagePageLeft(img) {
-  var x, obj;
-  if (NS4 || NS6) {
-    if (img.container != null)
-      return img.container.pageX + img.x - 1;
-    else
-      return img.x - 50; // adujusted from -1 to -50 for netscape 7
-  }
-  if (IE4) {
-    x = 0;
-    obj = img;
-    while (obj.offsetParent != null) {
-      x += obj.offsetLeft;
-      obj = obj.offsetParent;
-    }
-    x += obj.offsetLeft;
-    return x -50; //added -50 to shift menu left
-  }
-  return -1;
-}
-
-function getImagePageTop(img) {
-  var y, obj;
-  if (NS4 || NS6) {
-    if (img.container != null)
-      return img.container.pageY + img.y;
-    else
-      return img.y;
-  }
-  if (IE4) {
-    y = 0;
-    obj = img;
-    while (obj.offsetParent != null) {
-      y += obj.offsetTop;
-      obj = obj.offsetParent;
-    }
-    y += obj.offsetTop;
-    return y;
-  }
-  return -1;
-}
-
-function descbox(msg, i) {
-
-  isNS4 = (document.layers) ? true : false;
-  isIE4 = (document.all && !document.getElementById) ? true : false;
-  isIE5 = (document.all && document.getElementById) ? true : false;
-  isNS6 = (!document.all && document.getElementById) ? true : false;
-
-  if (isNS4){
-    lbox = document.layers[msg];
-    movelayer(msg);
-    NS4_boxtoggle(lbox, i);
-
-  }
-  else if (isIE4) {
-    lbox = document.all[msg];
-    movelayer(msg);
-    DOM_boxtoggle(lbox, i);
-
-  }
-  else if (isIE5 || isNS6) {
-    lbox = document.getElementById(msg);
-    movelayer(msg);
-    DOM_boxtoggle(lbox, i);
-
-  }
-
-
-}
-
-// -->
-</script>
-
-
-
-<script language="javascript">
-//<!--
-function val(){
-        var s=true
-        for (var i=0;i<document.forms.item.length;i++){
-                if (document.addcart.elements[i].type=="select-one"){
-                        if (document.addcart.elements[i].value=="1"){
-                                alert("Please choose one.");
-                                document.addcart.elements[i].focus();
-                                s=false;
-                                break;
-                        }
-                
-                }
-        
-        }
-return s;
-}
-
-
-
-function DOM_boxtoggle(lbox, i) {
-  if (lbox.style) {
-    boxstyle=lbox.style;
-    boxstyle.visibility=i;
-  }
-}
-
-
-function NS4_boxtoggle(lbox, i) {
-  lbox.visibility=i;
-}
-
-
-function getStyleObject(objectId) {
-    // cross-browser function to get an object's style object given its id
-    if(document.getElementById && document.getElementById(objectId)) {
-                // W3C DOM
-                return document.getElementById(objectId).style;
-    } else if (document.all && document.all(objectId)) {
-                // MSIE 4 DOM
-                return document.all(objectId).style;
-    } else if (document.layers && document.layers[objectId]) {
-                // NN 4 DOM.. note: this won't find nested layers
-                return document.layers[objectId];
-    } else {
-                return false;
-    }
-} // getStyleObject
-
-
-function changeObjectVisibility(objectId, newVisibility) {
-    // get a reference to the cross-browser style object and make sure the object exists
-    var styleObject = getStyleObject(objectId);
-    if(styleObject) {
-                styleObject.visibility = newVisibility;
-                return true;
-    } else {
-                // we couldn't find the object, so we can't change its visibility
-                return false;
-    }
-} // changeObjectVisibility
-
-
-function moveObject(objectId, newXCoordinate, newYCoordinate) {
-    // get a reference to the cross-browser style object and make sure the object exists
-    var styleObject = getStyleObject(objectId);
-    if(styleObject) {
-                styleObject.left = newXCoordinate;
-                styleObject.top = newYCoordinate;
-                return true;
-    } else {
-                // we couldn't find the object, so we can't very well move it
-                return false;
-    }
-} // moveObject
-
-
-function movelayer(obj) {
-        y = document.body.scrollTop + 30;
-        x = -100 + document.body.clientWidth / 2;
-        //alert("X: " + x + " Y: " + y + " Layer: " + obj.name);
-        moveObject(obj, x, y);
-        return false;
-}
-//-->
-</script>
+<script language="JavaScript" src="../html/scripts/header.js" type="text/javascript"></script>
 
 
 
@@ -335,9 +38,10 @@ function winopen(popup){
 
 
 
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#ECEEF2">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ECEEF2">
 	<tbody><tr>
 		<td height="43" colspan="17" align="center" valign="middle">
+		
 		
 		
 		<table border="0" cellspacing="0" cellpadding="0">
@@ -357,58 +61,125 @@ function winopen(popup){
 						<td align="center"><a href="../on2003asp/directory.asp" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #667C90; text-decoration: none;"><b>Store<br>Directory</b></a></td>
 					</tr>
 				</tbody></table>
-				
-				
-				
-				
-				
-				
-				
 				</td>
 			</tr>
 		</tbody></table>
 		
-		</td>
-	</tr>
-	<tr>
-		<td colspan="17"><img src="images/Header/NavBarTop.gif" width="100%" height="14" border="0" alt=""></td>
-	</tr>
-	<tr>
-		<td width="50%"><img src="images/Header/NavBarPiece.gif" width="100%" height="18" border="0" alt=""></td>
-		<td><a href="view-category-subcats.asp?category_id=297" onmouseout="btnTimer()" onmouseover="shLayer('Manual')"><img src="images/Header/ManualWheelchairs.gif" width="112" height="18" border="0" alt="" name="imgTabs"></a></td><td><img src="images/Header/NavBarPiece.gif" width="24" height="18" border="0" alt=""></td>
-		<td><a href="view-category-subcats.asp?category_id=298" onmouseout="btnTimer()" onmouseover="shLayer('Motorized')"><img src="images/Header/ElectricWheelchairs.gif" width="110" height="18" border="0" alt=""></a></td><td><img src="images/Header/NavBarPiece.gif" width="24" height="18" border="0" alt=""></td>
-		<td><a href="view-category-subcats.asp?category_id=291" onmouseout="btnTimer()" onmouseover="shLayer('Scooters')"><img src="images/Header/Scooters.gif" width="47" height="18" border="0" alt=""></a></td><td><img src="images/Header/NavBarPiece.gif" width="24" height="18" border="0" alt=""></td>
-		<td><a href="view-category-subcats.asp?category_id=294" onmouseout="btnTimer()" onmouseover="shLayer('Walking')"><img src="images/Header/WalkingAids.gif" width="70" height="18" border="0" alt=""></a></td><td><img src="images/Header/NavBarPiece.gif" width="24" height="18" border="0" alt=""></td>
-		<td><a href="view-category-subcats.asp?category_id=287" onmouseout="btnTimer()" onmouseover="shLayer('Lift')"><img src="images/Header/LiftChairs.gif" width="52" height="18" border="0" alt=""></a></td><td><img src="images/Header/NavBarPiece.gif" width="24" height="18" border="0" alt=""></td>
-		<td><a href="view-category-subcats.asp?category_id=278" onmouseout="btnTimer()" onmouseover="shLayer('Daily')"><img src="images/Header/DailyAids.gif" width="53" height="18" border="0" alt=""></a></td><td><img src="images/Header/NavBarPiece.gif" width="24" height="18" border="0" alt=""></td>
-		<td><a href="view-category-subcats.asp?category_id=276" onmouseout="btnTimer()" onmouseover="shLayer('Bedroom')"><img src="images/Header/BedroomAids.gif" width="75" height="18" border="0" alt=""></a></td><td><img src="images/Header/NavBarPiece.gif" width="24" height="18" border="0" alt=""></td>
-		<td><a href="view-category-subcats-all.asp?category_id=296" onmouseout="btnTimer()" onmouseover="shLayer('Accessories')"><img src="images/Header/Accessories.gif" width="64" height="18" border="0" alt=""></a></td>
-		<td width="50%"><img src="images/Header/NavBarPiece.gif" width="100%" height="18" border="0" alt=""></td>
-
-	</tr>
-	<tr>
-		<td colspan="17"><img src="images/Header/NavBarBottom.gif" width="100%" height="14" border="0" alt=""></td>
-	</tr>
-	<tr bgcolor="White">
-		<td></td>
-		<td colspan="15">
-		
-		
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td><img src="images/Header/PhoneNumber.gif" width="119" height="10" border="0" alt="Call 1800wheelchair.com at 1-800-320-7140"></td>
-				<td align="center" valign="top"><table border="0" cellspacing="1" cellpadding="1"><tbody><tr><td colspan="2"><img src="images/Spacer.gif" width="1" height="1" border="0" alt=""></td></tr><tr><td><img src="images/Header/FreeShip.gif" width="148" height="23" border="0" alt="Free shipping on wheelchairs, scooters, walkers, rollators, and orders over $200"></td><td><font style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #7A8A9A; text-decoration: none;">All Wheelchairs, Scooters,<br> Walkers, Rollators<br>or orders over $200</font></td></tr></tbody></table></td>
-				<td align="center"><a href="../on2003asp/medicare.asp"><img src="images/HomePage/medicare_icon.gif" width="179" height="30" border="0" alt=""></a></td><td>
-				</td><td height="40"><div align="right"><a href="https://server.iad.liveperson.net/hc/87853283/?cmd=file&amp;file=visitorWantsToChat&amp;site=87853283&amp;byhref=1" target="chat87853283" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/87853283/?cmd=file&amp;file=visitorWantsToChat&amp;site=87853283&amp;referrer='+document.location,'chat87853283','width=472,height=320');return false;"><img src="https://server.iad.liveperson.net/hc/87853283/?cmd=repstate&amp;site=87853283&amp;imageUrl=https://www.1800wheelchair.com/asp/images/LiveHelp/&amp;ver=1" name="hcIcon" width="156" height="32" border="0"></a></div></td>
-			</tr>
-		</tbody></table>
-		
 		
 		
 		</td>
-		<td></td>
+		
+	</tr>
+	<tr>
+		<td><img src="images\Header\NavBarTop1.gif" width="100%" height="15" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td align="center">		
+		
+		
+		
+		
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="50%"><img src="images\Header\NavBarPiece1.gif" width="100%" height="17" border="0" alt=""></td>
+		<td><a href="view-category-subcats.asp?category_id=297" onmouseout="btnTimer()" onmouseover="shLayer('Manual')"><img src="images\Header\ManualWheelchairs1.gif" width="119" height="17" border="0" alt="" name="imgTabs"></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>
+		<td><a href="view-category-subcats.asp?category_id=298" onmouseout="btnTimer()" onmouseover="shLayer('Electric')"><img src="images\Header\ElectricWheelchairs1.gif" width="116" height="17" border="0" alt=""></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>
+		<td><a href="view-category-subcats.asp?category_id=291" onmouseout="btnTimer()" onmouseover="shLayer('Scooters')"><img src="images\Header\MobilityScooters.gif" width="99" height="17" border="0" alt=""></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>
+		<td><a href="view-category-subcats.asp?category_id=296" onmouseout="btnTimer()" onmouseover="shLayer('Accessories')"><img src="images\Header\Accessories1.gif" width="72" height="17" border="0" alt=""></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>		
+		<td><a href="view-category-subcats.asp?category_id=294" onmouseout="btnTimer()" onmouseover="shLayer('Walking')"><img src="images\Header\WalkingAids1.gif" width="74" height="17" border="0" alt=""></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>	
+		<td><a href="view-category-subcats.asp?category_id=278" onmouseout="btnTimer()" onmouseover="shLayer('Daily')"><img src="images\Header\DailyAids1.gif" width="56" height="17" border="0" alt=""></a></td>
+		<td width="50%"><img src="images\Header\NavBarPiece1.gif" width="100%" height="17" border="0" alt=""></td>	
 	</tr>
 </tbody></table>
+
+
+
+
+
+		</td>
+	</tr>
+	<tr>
+		<td><img src="images\Header\NavBarMIddle.gif" width="100%" height="4" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td align="center">		
+		
+		
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="50%"><img src="images\Header\NavBarPiece1.gif" width="100%" height="17" border="0" alt=""></td>
+		<td><a href="view-category-subcats.asp?category_id=275" onmouseout="btnTimer()" onmouseover="shLayer1('Bath')"><img src="images\Header\BathSafety.gif" width="66" height="17" border="0" alt="" name="imgTabs1"></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>
+		<td><a href="view-category-subcats.asp?category_id=365" onmouseout="btnTimer()" onmouseover="shLayer1('Pillows')"><img src="images\Header\PillowsSupport.gif" width="98" height="17" border="0" alt=""></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>
+		<td><a href="view-category-subcats.asp?category_id=462" onmouseout="btnTimer()" onmouseover="shLayer1('Furniture')"><img src="images\Header\AssistiveFurniture.gif" width="100" height="17" border="0" alt=""></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>
+		<td><a href="view-category-subcats.asp?category_id=448" onmouseout="btnTimer()" onmouseover="shLayer1('Fitness')"><img src="images\Header\FitnessRehab.gif" width="91" height="17" border="0" alt=""></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>		
+		<td><a href="view-category-subcats.asp?category_id=463" onmouseout="btnTimer()" onmouseover="shLayer1('Incontinence')"><img src="images\Header\Incontinence.gif" width="77" height="17" border="0" alt=""></a></td>
+		<td><img src="images\Header\NavBarPiece1.gif" width="20" height="17" border="0" alt=""></td>	
+		<td><a href="view-category-subcats.asp?category_id=338" onmouseout="btnTimer()" onmouseover="shLayer1('Commercial')"><img src="images\Header\CommercialProducts.gif" width="127" height="17" border="0" alt=""></a></td>
+		<td width="50%"><img src="images\Header\NavBarPiece1.gif" width="100%" height="17" border="0" alt=""></td>	
+	</tr>
+</tbody></table>
+
+
+
+
+		
+		</td>
+	</tr>
+		<tr>
+		<td><img src="images\Header\NavBarBottom1.gif" width="100%" height="13" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+
+		
+		
+		<table width="760" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="150">						
+				<table width="140" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td height="21">&nbsp;<img src="images/Header/PhoneNumber.gif" width="125" height="11" border="0" alt="Call 1-800-Wheelchair.com at 1-800-320-7140"></td>
+							</tr>
+							<tr>
+								<td><font style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #5C6D7E; text-decoration: none;">
+								&nbsp;&nbsp;Mon-Fri&nbsp;&nbsp;9am-10pm&nbsp;&nbsp;EST</font></td>
+							</tr>
+						</tbody></table>
+				
+
+				</td>
+				<td>
+						<table width="146" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td><img src="images/Header/FreeShip.gif" width="139" height="21" border="0" alt="All orders over $100"></td>
+							</tr>
+							<tr>
+								<td><font style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #996531;">&nbsp;&nbsp;All orders over $100</font></td>
+							</tr>
+						</tbody></table>
+				
+				
+				</td>
+				<td align="right"><a href="../on2003asp/medicare.asp"><img src="images/HomePage/medicare_icon.gif" width="179" height="30" border="0" alt=""></a></td><td>
+				</td><td width="240"><div align="right">
+				<a href="http://server.iad.liveperson.net/hc/87853283/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.1800wheelchair.com/on2003asp/contact_LP.asp&amp;site=87853283&amp;byhref=1" target="chat87853283" onclick="window.open('http://server.iad.liveperson.net/hc/87853283/?cmd=file&amp;file=visitorWantsToChat&amp;offlineURL=http://www.1800wheelchair.com/on2003asp/contact_LP.asp&amp;site=87853283&amp;referrer='+document.location,'chat87853283','width=472,height=320');return false;"><img src="https://server.iad.liveperson.net/hc/87853283/?cmd=repstate&amp;site=87853283&amp;imageUrl=https://www.1800wheelchair.com/asp/images/LiveHelp/&amp;ver=1" name="hcIcon" width="156" height="32" border="0"></a>
+				
+				</div></td>
+			</tr>
+
+
+		</tbody></table> 
+		
+
+
 
 
 
@@ -432,7 +203,7 @@ function winopen(popup){
 						<td><a class="menu" href="view-category-products.asp?category_id=332" onmouseout="menuOut('rollimg2'),setBgColor('ma2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ma2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Light Weight&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
 					</tr>
 					<tr id="ma6" bgcolor="#DCE7F1">
-						<td><a class="menu" href="view-category-products.asp?category_id=373" onmouseout="menuOut('rollimg2'),setBgColor('ma6','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ma6','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Ultralight Weight&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+						<td><a class="menu" href="view-category-products.asp?category_id=373" onmouseout="menuOut('rollimg2'),setBgColor('ma6','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ma6','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Ultra Lightweight&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
 					</tr>
 					<tr id="ma3" bgcolor="#DCE7F1">
 						<td><a class="menu" href="view-category-products.asp?category_id=333" onmouseout="menuOut('rollimg2'),setBgColor('ma3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ma3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Heavy Duty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
@@ -447,7 +218,7 @@ function winopen(popup){
 						<td><a class="menu" href="view-category-products.asp?category_id=385" onmouseout="menuOut('rollimg2'),setBgColor('ma7','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ma7','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Pediatric&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
 					</tr>
 					<tr id="ma8" bgcolor="#DCE7F1">
-						<td><a class="menu" href="view-category-products.asp?category_id=447" onmouseout="menuOut('rollimg2'),setBgColor('ma8','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ma8','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">All-Terrain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+						<td><a class="menu" href="view-category-products.asp?category_id=447" onmouseout="menuOut('rollimg2'),setBgColor('ma8','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ma8','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Specialty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
 					</tr>
 				</tbody></table>
 			</td>
@@ -456,8 +227,8 @@ function winopen(popup){
 </div>
 
 
-<!-- Motorized Wheelchairs Categories -->
-<div id="Motorized" style="position:absolute; width: 130px; height: 52px; z-index: 1; visibility: hidden">
+<!-- Electric Wheelchairs Categories -->
+<div id="Electric" style="position:absolute; width: 130px; height: 52px; z-index: 1; visibility: hidden">
 	<table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
 		<tbody><tr>
 			<td>
@@ -498,6 +269,45 @@ function winopen(popup){
 </tbody></table>
 </div>
 
+
+
+<!-- Accessories Categories -->
+<div id="Accessories" style="position:absolute;  width: 116px; height: 52px; z-index: 4; visibility: hidden">
+<table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
+	<tbody><tr>
+		<td>
+			<table width="128" border="0" cellpadding="2" cellspacing="0">
+				<tbody><tr id="ac2" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-subcats.asp?category_id=325" onmouseout="menuOut('rollimg2'),setBgColor('ac2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Ramps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="ac6" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-subcats.asp?category_id=330" onmouseout="menuOut('rollimg2'),setBgColor('ac6','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac6','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Wheelchair Cushions</a></td>
+				</tr>
+				<tr id="ac1" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-subcats.asp?category_id=328" onmouseout="menuOut('rollimg2'),setBgColor('ac1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Attachments&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="ac3" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-subcats.asp?category_id=329" onmouseout="menuOut('rollimg2'),setBgColor('ac3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Bags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="ac7" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-subcats.asp?category_id=395" onmouseout="menuOut('rollimg2'),setBgColor('ac7','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac7','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Adaptive Clothing&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="ac4" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-subcats.asp?category_id=370" onmouseout="menuOut('rollimg2'),setBgColor('ac4','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac4','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Batteries&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="ac5" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-subcats.asp?category_id=372" onmouseout="menuOut('rollimg2'),setBgColor('ac5','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac5','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Lifts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+</div>
+
+
+
+
+
 <!-- Walking Aids Categories -->
 <div id="Walking" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
 <table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
@@ -528,30 +338,6 @@ function winopen(popup){
 </tbody></table>
 </div>
 
-<!-- Lift Chairs Categories -->
-<div id="Lift" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
-<table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
-	<tbody><tr>
-		<td>
-			<table width="130" border="0" cellpadding="2" cellspacing="0">
-				<tbody><tr id="li1" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-products.asp?category_id=300" onmouseout="menuOut('rollimg2'),setBgColor('li1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('li1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Partial Reclining&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr id="li2" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-products.asp?category_id=301" onmouseout="menuOut('rollimg2'),setBgColor('li2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('li2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Full Reclining&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr id="li3" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-products.asp?category_id=446" onmouseout="menuOut('rollimg2'),setBgColor('li3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('li3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Heavy Duty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr id="li4" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-products.asp?category_id=450" onmouseout="menuOut('rollimg2'),setBgColor('li4','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('li4','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Lifting Cushions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
 
 <!-- Daily Aids Categories -->
 <div id="Daily" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
@@ -560,16 +346,19 @@ function winopen(popup){
 		<td>
 			<table width="130" border="0" cellpadding="2" cellspacing="0">
 				<tbody><tr id="da1" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-products.asp?category_id=358" onmouseout="menuOut('rollimg2'),setBgColor('da1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('da1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Daily Assistance</a></td>
+					<td><a class="menu" href="view-category-products.asp?category_id=464" onmouseout="menuOut('rollimg2'),setBgColor('da1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('da1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Eating Aids</a></td>
 				</tr>
 				<tr id="da2" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-subcats.asp?category_id=275" onmouseout="menuOut('rollimg2'),setBgColor('da2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('da2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Bathroom Assistance</a></td>
+					<td><a class="menu" href="view-category-products.asp?category_id=281" onmouseout="menuOut('rollimg2'),setBgColor('da2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('da2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Dressing Aids&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
 				</tr>
 				<tr id="da3" bgcolor="#DCE7F1">
 					<td><a class="menu" href="view-category-products.asp?category_id=277" onmouseout="menuOut('rollimg2'),setBgColor('da3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('da3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Communication Aids</a></td>
 				</tr>
 				<tr id="da4" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-products.asp?category_id=448" onmouseout="menuOut('rollimg2'),setBgColor('da4','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('da4','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Fitness &amp; Rehab&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+					<td><a class="menu" href="view-category-products.asp?category_id=358" onmouseout="menuOut('rollimg2'),setBgColor('da4','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('da4','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Transfer Aids&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="da5" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=466" onmouseout="menuOut('rollimg2'),setBgColor('da5','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('da5','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Reachers&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -577,20 +366,129 @@ function winopen(popup){
 </tbody></table>
 </div>
 
-<!-- Bedroom Aids Categories -->
-<div id="Bedroom" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
+
+<!-- Bath Safety Categories -->
+<div id="Bath" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
+<table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
+	<tbody><tr>
+		<td>
+			<table width="135" border="0" cellpadding="2" cellspacing="0">
+				<tbody><tr id="ba1" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=423" onmouseout="menuOut('rollimg2'),setBgColor('ba1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ba1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Shower Chairs</a></td>
+				</tr>
+				<tr id="ba2" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=457" onmouseout="menuOut('rollimg2'),setBgColor('ba2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ba2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Transfer Benches&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="ba3" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=425" onmouseout="menuOut('rollimg2'),setBgColor('ba3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ba3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Commodes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="ba4" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=424" onmouseout="menuOut('rollimg2'),setBgColor('ba4','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ba4','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Grab Bars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+</div>
+
+
+<!-- Pillows & Support Categories -->
+<div id="Pillows" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
+<table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
+	<tbody><tr>
+		<td>
+			<table width="135" border="0" cellpadding="2" cellspacing="0">
+				<tbody><tr id="pi1" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=428" onmouseout="menuOut('rollimg2'),setBgColor('pi1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('pi1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Back Support&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="pi2" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=491" onmouseout="menuOut('rollimg2'),setBgColor('pi2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('pi2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Therapeutic Seating</a></td>
+				</tr>
+				<tr id="pi3" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=430" onmouseout="menuOut('rollimg2'),setBgColor('pi3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('pi3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Neck &amp; Travel&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="pi4" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=431" onmouseout="menuOut('rollimg2'),setBgColor('pi4','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('pi4','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Bed &amp; Leg Wedges&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="pi5" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=432" onmouseout="menuOut('rollimg2'),setBgColor('pi5','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('pi5','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Sleeping&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+</div>
+
+<!-- Fitness & Rehab Categories -->
+<div id="Fitness" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
+<table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
+	<tbody><tr>
+		<td>
+			<table width="135" border="0" cellpadding="2" cellspacing="0">
+				<tbody><tr id="fi1" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=467" onmouseout="menuOut('rollimg2'),setBgColor('fi1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('fi1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Fitness Equipment</a></td>
+				</tr>
+				<tr id="fi2" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=468" onmouseout="menuOut('rollimg2'),setBgColor('fi2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('fi2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Rehab Equipment&nbsp;&nbsp;</a></td>
+				</tr>
+
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+</div>
+
+
+<!-- Asssistive Furniture Categories -->
+<div id="Furniture" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
+<table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
+	<tbody><tr>
+		<td>
+			<table width="135" border="0" cellpadding="2" cellspacing="0">
+				<tbody><tr id="fu1" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-subcats.asp?category_id=287" onmouseout="menuOut('rollimg2'),setBgColor('fu1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('fu1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Lift Chairs&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="fu2" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=489" onmouseout="menuOut('rollimg2'),setBgColor('fu2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('fu2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Geri Chairs&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="fu3" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=415" onmouseout="menuOut('rollimg2'),setBgColor('fu3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('fu3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Stair Lifts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="fu4" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=450" onmouseout="menuOut('rollimg2'),setBgColor('fu4','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('fu4','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Lifting Cushions&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="fu5" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=363" onmouseout="menuOut('rollimg2'),setBgColor('fu5','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('fu5','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Adjustable Beds&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+				<tr id="fu6" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=475" onmouseout="menuOut('rollimg2'),setBgColor('fu6','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('fu6','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Overbed Tables&nbsp;&nbsp;&nbsp;</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+</div>
+
+
+
+
+<!-- Incontinence Categories -->
+<div id="Incontinence" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
 <table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
 	<tbody><tr>
 		<td>
 			<table width="130" border="0" cellpadding="2" cellspacing="0">
-				<tbody><tr id="be1" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-products.asp?category_id=363" onmouseout="menuOut('rollimg2'),setBgColor('be1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('be1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Adjustable Beds</a></td>
+				<tbody><tr id="in1" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=471" onmouseout="menuOut('rollimg2'),setBgColor('in1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('in1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Undergarments</a></td>
 				</tr>
-				<tr id="be2" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-products.asp?category_id=364" onmouseout="menuOut('rollimg2'),setBgColor('be2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('be2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Bedroom Assistance</a></td>
+				<tr id="in2" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=472" onmouseout="menuOut('rollimg2'),setBgColor('in2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('in2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Pads &amp; Liners</a></td>
 				</tr>
-				<tr id="be3" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-subcats.asp?category_id=365" onmouseout="menuOut('rollimg2'),setBgColor('be3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('be3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Pillows &amp; Support</a></td>
+				<tr id="in3" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=473" onmouseout="menuOut('rollimg2'),setBgColor('in3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('in3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Cloths &amp; Wipes</a></td>
+				</tr>
+				<tr id="in4" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=474" onmouseout="menuOut('rollimg2'),setBgColor('in4','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('in4','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Creams &amp; Lotions</a></td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -599,38 +497,24 @@ function winopen(popup){
 </div>
 
 
-<!-- Accessories Categories -->
-<div id="Accessories" style="position:absolute;  width: 116px; height: 52px; z-index: 4; visibility: hidden">
+<!-- Commercial Products Categories -->
+<div id="Commercial" style="position:absolute;  width: 116px; height: 52px; z-index: 1; visibility: hidden">
 <table border="0" cellspacing="1" cellpadding="0" bgcolor="#AAB3BD">
 	<tbody><tr>
 		<td>
-			<table width="120" border="0" cellpadding="2" cellspacing="0">
-				<tbody><tr id="ac2" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-subcats.asp?category_id=325" onmouseout="menuOut('rollimg2'),setBgColor('ac2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Ramps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+			<table width="130" border="0" cellpadding="2" cellspacing="0">
+				<tbody><tr id="co1" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=340" onmouseout="menuOut('rollimg2'),setBgColor('co1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('co1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Aisle Chairs</a></td>
 				</tr>
-				<tr id="ac6" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-subcats.asp?category_id=330" onmouseout="menuOut('rollimg2'),setBgColor('ac6','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac6','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Cushions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr id="ac1" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-subcats.asp?category_id=328" onmouseout="menuOut('rollimg2'),setBgColor('ac1','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac1','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Attachments&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr id="ac3" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-subcats.asp?category_id=329" onmouseout="menuOut('rollimg2'),setBgColor('ac3','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac3','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Bags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr id="ac7" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-subcats.asp?category_id=395" onmouseout="menuOut('rollimg2'),setBgColor('ac7','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac7','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Adaptive Clothing&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr id="ac4" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-subcats.asp?category_id=370" onmouseout="menuOut('rollimg2'),setBgColor('ac4','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac4','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Batteries&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-				</tr>
-				<tr id="ac5" bgcolor="#DCE7F1">
-					<td><a class="menu" href="view-category-subcats.asp?category_id=372" onmouseout="menuOut('rollimg2'),setBgColor('ac5','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('ac5','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Lifts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+				<tr id="co2" bgcolor="#DCE7F1">
+					<td><a class="menu" href="view-category-products.asp?category_id=342" onmouseout="menuOut('rollimg2'),setBgColor('co2','#DCE7F1')" onmouseover="menuOver('rollimg2'),setBgColor('co2','#FFFFFF')" target="_top"><img src="images/Spacer.gif" width="5" height="2" border="0">Terminal Chairs</a></td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
 </div>
+
 
 
 
@@ -649,6 +533,8 @@ currenturl=location.href
 //-->
 </script>
 <!--END ROI TRACKING Code-->
+
+&nbsp;<br>
 
 
 <table width="550" border="0" cellspacing="0" cellpadding="0">
@@ -848,19 +734,32 @@ self.name = "mainWin";
 		<td>
 <table width="100%" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td height="20" align="center" bgcolor="White" class="gray10">		
+		<td height="20" align="center" bgcolor="#F1F1F1" class="gray10">		
 		<a href="view-category-subcats.asp?category_id=297" class="gray10">Manual Wheelchairs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="view-category-subcats.asp?category_id=298" class="gray10">Motorized Wheelchairs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="view-category-subcats.asp?category_id=291" class="gray10">Scooters</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="view-category-subcats.asp?category_id=298" class="gray10">Electric Wheelchairs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="view-category-subcats.asp?category_id=291" class="gray10">Mobility Scooters</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="view-category-subcats-all.asp?category_id=296" class="gray10">Accessories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 		<a href="view-category-subcats.asp?category_id=294" class="gray10">Walking Aids</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; 
-		<a href="view-category-subcats.asp?category_id=287" class="gray10">Lift Chairs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="view-category-subcats.asp?category_id=278" class="gray10">Daily Aids</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="view-category-subcats.asp?category_id=276" class="gray10">Bedroom Aids</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="view-category-subcats.asp?category_id=296" class="gray10">Accessories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="view-category-subcats.asp?category_id=338" class="gray10">Commercial Products</a></td>
+		<a href="view-category-subcats.asp?category_id=278" class="gray10">Daily Aids</a>
+
+
+</td>
 	</tr>
 	<tr>
-		<td align="center" bgcolor="#E7E7E7">		
+		<td height="20" align="center" bgcolor="#F1F1F1" class="gray10">
+		<a href="view-category-subcats.asp?category_id=275" class="gray10">Bath Safety</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="view-category-subcats.asp?category_id=365" class="gray10">Pillows &amp; Support</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="view-category-subcats.asp?category_id=462" class="gray10">Assistive Furniture</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="view-category-subcats.asp?category_id=448" class="gray10">Fitness &amp; Rehab</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; 
+		<a href="view-category-subcats.asp?category_id=463" class="gray10">Incontinence</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="view-category-subcats.asp?category_id=338" class="gray10">Commercial Products</a>
+		
+		
+		
+		</td>
+	</tr>
+	<tr>
+		<td align="center" bgcolor="#DBDBDB">		
 
 		<a href="../on2003asp/contact.asp" class="graymed">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="/forum" class="graymed">Discussion Board</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
