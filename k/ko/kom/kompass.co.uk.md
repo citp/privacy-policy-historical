@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kompass.co.uk privacy policy that was archived on 2001-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011224072458id_/http%3A//www.kompass.co.uk/index.asp%3FPage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kompass.co.uk privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611214935id_/http%3A//www.kompass.co.uk/index.asp%3FPage%3DPrivacy) for the most accurate reproduction.*
 
-# Kompass UK Portal - Business Information for Purchasers and Suppliers - Search for Companies, Products, Services, Trade Names, Executives
+# Kompass UK - Business Information for Purchasers & Suppliers
 
 Kompass.co.uk is owned and operated by Reed Business Information Ltd. Information we collect from users of the site will be stored by us on computers in the UK and may be used in the following ways:
 
