@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epanorama.net privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605035439id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epanorama.net privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209184853id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.*
 
 # ePanorama.net
 
@@ -18,6 +18,10 @@ If you no longer wish to receive the information for which your data was collect
 ## Non-personally Identifiable Information Collected Automatically
 
 For each visitor to www.epanorama.net, our Web server automatically recognizes your domain, IP address, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the Web site from which you linked to our site. This non-personally identifiable information is collected automatically to be used only for internal review and statistical purposes. 
+
+## Information Collected by Advertisement System
+
+The web advertisements in www.epanorama.net are operated by [Fastclick.com](http://www.fastclick.com/). You can read their [Privacy Statement](http://www.fastclick.com/about/privacy2.html) for information what information they collect and how it is handled. Fastclick does not engage in the collection, distribution, sale or use of personally identifiable information about Web Users, such as email address, name, phone number and street address. All web user data collected by Fastclick as part of the ad serving process is not personally identifiable (browser type, for example) and is used in aggregate form. 
 
 ## Who to Contact
 
