@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 1999-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991118010504id_/http%3A//www.wenworld.com/Contactus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608143725id_/http%3A//www.wenworld.com/Contactus/privacy.html) for the most accurate reproduction.*
 
 # Wenatchee World Online Copyright notice
 
@@ -27,14 +27,13 @@
 [Movies](http://www.wenworld.com/arts/movies/index.html)  
 [Restaurants](http://www.wenworld.com/arts/restaurants/index.html)  
 [Local events](http://www.wenworld.com/arts/artsetc.html)  
-[TV listings](http://www.clicktv.com/index.cfm?cid=F4J)  
+[TV listings](http://www.clicktv.com/index.ASP?cid=F4J)  
 [A & E calendar](http://www.wenworld.com/arts/calendar.html)
 
 **Community**  
 [Virtual tour](http://www.wenworld.com/community/tour/index.html)  
 [Build a web page](http://www.wenatchee.net/wenworld/usbin/userpriv.usm?userlogin=t)  
 [Browse local pages](http://www.wenatchee.net/wenworld/usbin/SiteCreator.usm?ReqObject=category&ReqAction=browse)  
-[Calendars](http://www.wenatchee.net/wenworld/usbin/Calendar.usm?ReqObject=calendar&ReqAction=browse)  
 [Forums](http://www.wenatchee.net/wenworld/usbin/Forums.usm?ReqObject=topic&ReqAction=browse)  
 [Transportation](http://www.wenworld.com/community/transportation/index.html)  
 [Lodging](http://www.wenworld.com/community/lodging.html)  
@@ -64,7 +63,7 @@
 **Our Partners**  
 [Our Partners](http://www.wenworld.com/partners/index.html)
 
-|  |  [](http://hbz.wenworld.com/)
+|  |  [](http://www.wenworld.com/arts/movies/index.html)
 
   
 | 
@@ -171,7 +170,7 @@ ad rates](http://www.wenworld.com/Contactus/adrates.html)**
 * * *
 
 [Home](http://www.wenworld.com/Home.html) | [Classifieds](http://www.wenworld.com/classindex/classifieds.html) | [Obituaries](http://www.wenworld.com/obits/index.html) | [Weather](http://www.rainorshine.com/weather/index/sites/wenatchee) | [Local news](http://www.wenworld.com/news/newsindex.html) | [Local sports](http://www.wenworld.com/news/sportsindex.html) | [Build your own website](http://www.wenatchee.net/wenworld/usbin/userpriv.usm?userlogin=t)   
-[Movies](http://www.wenworld.com/arts/movies/index.html) | [WebCams](http://www.wenworld.com/WebCam/WebCam.html) | [Kid's Stuff](http://hbz.wenworld.com/) | [Contact Us](http://www.wenworld.com/contactus/staff.html) | [Homefinder](http://www.wenworld.com/homefinder/hf.html) © [Copyright](http://www.wenworld.com/Contactus/copyright.html) 1999 The Wenatchee World  
+[Movies](http://www.wenworld.com/arts/movies/index.html) | [WebCams](http://www.wenworld.com/WebCam/WebCam.html) | [Kid's Stuff](http://hbz.wenworld.com/) | [Contact Us](http://www.wenworld.com/contactus/staff.html) | [Homefinder](http://www.wenworld.com/homefinder/hf.html) © [Copyright](http://www.wenworld.com/Contactus/copyright.html) 2000 The Wenatchee World  
 P.O. Box 1511, Wenatchee, WA 98807-1511  
 [User agreement](http://www.wenworld.com/Contactus/user.html) | [Privacy policy](http://www.wenworld.com/Contactus/privacy.html) | [Advertising](http://www.wenworld.com/Contactus/advertising.html)  
 Send [comments](http://www.wenworld.com/contactus/Comment.html) or questions about www.wenworld.com to the [webmaster](mailto:webmaster@wenworld.com)
