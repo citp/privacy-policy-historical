@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getoutofdebt.org privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409001932id_/http%3A//www.myvesta.org/aboutus/ab_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getoutofdebt.org privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211135340id_/http%3A//www.myvesta.org/aboutus/ab_privacy.htm) for the most accurate reproduction.*
 
 # Myvesta.org: About Us: Privacy Policy
 
@@ -37,8 +37,6 @@ Our site provides users the opportunity to opt-out of receiving communications f
 ## Delete/Deactivate
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-You can send email to [info@Myvesta.org](mailto:info@Myvesta.org), or
 
 You can send mail to the following postal address:  
 Myvesta.org  
