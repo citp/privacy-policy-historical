@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216211344id_/http%3A//accenture.com/xd/xd.asp%3Fit%3Denweb%26xd%3Dprivacy%5Cprivacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609190249id_/http%3A//www.accenture.com/xd/xd.asp%3Fit%3Denweb%26xd%3Dprivacy%5Cprivacy.xml) for the most accurate reproduction.*
 
 # Accenture Privacy Statement
 
