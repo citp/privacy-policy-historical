@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eolss.net privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210050224id_/http%3A//www.eolss.net/eolss/eolss_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eolss.net privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207150120id_/http%3A//www.eolss.net/eolss/eolss_policy.asp) for the most accurate reproduction.*
 
 # EOLSS WEBSITE: Notion of an Encyclopedia
 
