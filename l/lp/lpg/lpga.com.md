@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603062553id_/http%3A//www.lpga.com/utility/index.cfm%3Fcont_id%3D38899) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpga.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205083122id_/http%3A//lpga.com/utility/index.cfm%3Fcont_id%3D38899) for the most accurate reproduction.*
 
-# LPGA.com
+# LPGA Official Website
 
 This privacy statement is applicable to LPGA.com and all its affiliates.
 
 The LPGA's policy is to respect and protect the privacy of our users.
 
-The LPGA and its Internet partner, Ignite Sports Media LLC, (hereafter collectively referred to as "LPGA" or "LPGA.com") do not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from a contest or sweepstakes registration, the registration process for subscription sites or services and in connection with content submissions, community postings (e.g., chat and bulletin boards), suggestions, voting/polling activities and transactional areas.
+The LPGA and its Internet partner, Ignite Sports LLC, (hereafter collectively referred to as "LPGA" or "LPGA.com") do not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from a contest or sweepstakes registration, the registration process for subscription sites or services and in connection with content submissions, community postings (e.g., chat and bulletin boards), suggestions, voting/polling activities and transactional areas.
 
 Personally identifiable information on individual users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. At such points of collection, the user will have the opportunity to indicate whether he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from the LPGA and/or any third parties. Further, notwithstanding any opt out of promotional information by the user, the LPGA reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected.
 
