@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sfmoma.org privacy policy that was archived on 2004-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040619083729id_/http%3A//sfmoma.org/info/about_privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sfmoma.org privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204100157id_/http%3A//www.sfmoma.org/info/about_privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>SFMOMA | Info | Privacy Policy</title>
@@ -832,7 +832,7 @@ document.writeln('#textsearch { font-family: "Arial", "Helvetica", "sans-serif";
 document.writeln('#mask { position:absolute; left: 490px; top: 17px; width: 187px; height: 23px; clip:rect(0px,187px,23px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>')
 
 document.writeln('<div id=mask></div>')
-document.writeln('<div id=searchbox><form method="get" action="http://catsearch.atomz.com/search/catsearch/" name="searchForm"><input type=hidden name="sp-p" value="all"><input type=hidden name="sp-f" value="ISO-8859-1"><input type=hidden name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="19" style="height=8;" id=textsearch></form></div>');
+document.writeln('<div id=searchbox><form method="get" action="http://catsearch.sfmoma.org/search/catsearch/" name="searchForm"><input type=hidden name="sp-p" value="all"><input type=hidden name="sp-f" value="ISO-8859-1"><input type=hidden name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="19" style="height=8;" id=textsearch></form></div>');
 
 document.writeln('<div id=searchbutton><a href="javascript:SearchSubmit()" onMouseOver="javascript:SearchOvr()" onMouseOut="javascript:SearchOut()" onfocus=blur()><IMG NAME="search" SRC="../images/search/search.gif" WIDTH=57 HEIGHT=17 BORDER=0 ALT=""></a></div>');
 
@@ -857,7 +857,7 @@ document.writeln('<div id=searchbutton style=;><a href="javascript:SearchSubmit(
 #textsearch { font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10px; border: 1px #cccccc groove }
 #mask { position:absolute; left: 490px; top: 17px; width: 187px; height: 23px; clip:rect(0px,187px,23px,0px); layer-background-color:white; background-color:white; z-index: 2 }</style>
 <div id="mask"></div>
-<div id="searchbox"><form method="get" action="http://catsearch.atomz.com/search/catsearch/" name="searchForm"><input type="hidden" name="sp-p" value="all"><input type="hidden" name="sp-f" value="ISO-8859-1"><input type="hidden" name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="19" style="height=8;" id="textsearch"></form></div>
+<div id="searchbox"><form method="get" action="http://catsearch.sfmoma.org/search/catsearch/" name="searchForm"><input type="hidden" name="sp-p" value="all"><input type="hidden" name="sp-f" value="ISO-8859-1"><input type="hidden" name="sp-a" value="sp10026505"><input type="text" name="sp-q" size="19" style="height=8;" id="textsearch"></form></div>
 <div id="searchbutton"><a href="javascript:SearchSubmit()" onmouseover="javascript:SearchOvr()" onmouseout="javascript:SearchOut()" onfocus="blur()"><img name="search" src="../images/search/search.gif" width="57" height="17" border="0" alt=""></a></div>
 
 
@@ -1039,10 +1039,21 @@ function dcsTag(TagImage){
 	}
 	dcsCreateImage(P);
 }
+function setCG(){
+  WT.cg_n = "Info";
+}
+function setSG(){
+  WT.cg_s = document.title;
+}
+setCG();
+setSG();
 
 dcsVar();
 dcsMeta();
 dcsTag(gTagPath);
+<!--alert("to test the content group and subgroup" + WT.cg_n + "-" + WT.cg_s)//-->
+
+
 
 function OnclickTrack(){
 	var dCurrent=new Date();
@@ -1080,19 +1091,7 @@ function OnclickTrack(){
 <noscript>
 <img BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs4er31zoifwzvhq6hbh0vhj_3f6r/njs.gif?dcsuri=/nojavascript&WT.js=No">
 </noscript>
-<script>
-function setCG(){
-	WT.cg_n = "Info";
-}
-function setSG(){
-	WT.cg_s = document.title;
-}
-// end
-setCG();
-setSG();
-<!--alert("to test the content group and subgroup" + WT.cg_n + "-" + WT.cg_s)//-->
-</script> 
- 
+
 
 
 
