@@ -1,112 +1,65 @@
-> *The following text is extracted and transformed from the wcax.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608034154id_/http%3A//www.wcax.com/now/story/0%2C1597%2C53940-390%2C00.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcax.com privacy policy that was archived on 2002-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020203041908id_/http%3A//www.wcax.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
-# CBS.com--CBS.com Privacy Statement
+# This Station’s Privacy Policy
 
-**(CBS)**  We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to: 
+**This Station’s Privacy Policy**   
+Email story to a friend    
+This station provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this station's site (the "Web site"). Because the success of this station is dependent on building and maintaining goodwill with our customers, this station and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
 
-**Privacy Coordinator  
-CBS.com (555/13)   
-524 West 57th Street   
-New York, New York 10019**
+Although we respect the privacy of all those who visit the Web site and use our online services, we do collect information from our Web site's members and visitors. This Privacy Policy governs your interaction with the Web site, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web site's members and visitors without their permission.
 
-We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion. 
+Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web site's Privacy Policy, or to raise any other issue regarding the Web site, please e-mail us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-**KINDS OF INFORMATION**   
-There are two kinds of information Web sites can obtain about you: AGGREGATE INFORMATION: Aggregate Information is anonymous data that Web sites use to diagnose problems on the sites' servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. PERSONALLY IDENTIFIABLE INFORMATION: Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing. 
+**The information we gather**
 
-We collect Aggregate Information - such as your IP address (a number that's automatically assigned to your computer whenever you're surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes. None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. 
+We gather two types of information about this Web site's users:
 
-**COOKIES**
+(1) **Non-personally identifiable information:** When visitors come to the Web site, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Web site. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
 
-We use [cookies](https://web.archive.org/now/story/0,1597,31142-390,00.shtml) to remember your zip code so that you can maintain a customized view of CBS.com showing your city's CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, chat rooms and contests to limit multiple responses and registrations. 
+The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Web site, identify the most popular areas of the Web site, and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
 
-We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not use information transferred through cookies for any promotional or marketing purposes. 
+For the same purposes, we use "cookies"---that is, small text files placed on your computer's hard drive---to help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the Web site, and your usage of our services offered via the Web site. Cookies also tell us which advertising you have seen on the Web site.  We use an outside advertising company to display advertisements on the Web site that may contain cookies ("banner ads"). These banner ads collect information stored by the advertising company and we do not have access to this information.
 
-You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
+Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Web site. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
 
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. 
+(2) **Personally identifiable information:** In certain areas of the Web site, such as online surveys and contests, the Web site may require---that you provide this station with personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). WorldNow, as host of the Web site, has access to this information. In addition, when registering to set up an account to use certain services of the Web site such as e-mail, chat rooms, and forums, or to receive certain newsletters or specifically targeted information ("Services"), we do require that you provide both your name and your current, valid e-mail address.
 
-**SURVEYS AND REGISTRATION FORMS**
+We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the Services of the Web site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
 
-Sometimes CBS.com posts surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
+We do not control the acts of this Web site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside this station or WorldNow. In the event that you encounter any user on this Web site who is improperly collecting or using information about you or other users, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-To send you information about CBS and this Web site   
-To give to our content partners, who may send you promotional material   
-To give to our advertisers, who may send you information about their products and services 
+**How we use (and do not use) the information we gather**
 
-The choice is yours - you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
+Please take some time to familiarize yourself with the different ways we use the information that we gather. Keep in mind that, while we encourage all third parties involved---including its affiliates and advertisers---to adhere to our policies regarding the privacy of this Web site's visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with us who you feel is improperly collecting or using information about you, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com); we will be happy to forward your message to the third party.
 
-**CONTESTS AND SWEEPSTAKES**
+(1) **How we use (and do not use) non-personally identifiable information:** We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of the Web site's members and visitors, and by measuring demographics and interests regarding specific areas of the Web site. We provide statistical information based on this data to advertisers, affiliates, and other current and potential business partners. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites.
 
-From time to time CBS.com runs contests and sweepstakes in which we ask for Personally   
-Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
+The Web site may contain links to other Internet web sites, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information (such as IP number, browser type, or operating system) collected when visitors to the web site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites.
 
-  
+(2) **How we use (and do not use) personally identifiable information:** We provide notice to potential registrants of this Web site whose personally identifiable information will be collected during the registration process. Such notice is provided simultaneously with your registration with this website; moreover, this Privacy Policy itself serves as notice that such information is collected under those circumstances. Although you may not "opt out" of the registration process if you wish to have access to Services, you may choose to "opt out" of receiving promotional materials from us and/or its affiliates, advertisers, or other business partners. If you do not "opt out" of receiving such promotional materials, we reserve the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-  * To notify you if you are a winner
-  
+We limit our own e-mail contact and solicitations to those customers who have not "opted out" of receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature.
 
-  * To send you information about CBS and our site
-  
+In addition, we sometimes use individual data to "target" advertising to decide which advertisements and sponsor messages to show to which members. As an example, if Sponsor XYZ wishes to display their advertising only to female members of this Web site, we use member registration data to ensure that Sponsor XYZ's ads are displayed only to female members.
 
-  * To give to content partners, who may send you promotional email
-  
+Finally, we may use individual members' data to "pre-populate" forms which are displayed for the purpose of collecting individual data by us and/or our sponsors. In no case does pre-populating a form transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place---for example, if/when a member clicks a "submit form" button or other button.
 
-  * To give to advertisers, who may send you emails about their products and services
+We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
 
-  
-We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. 
+If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
 
-If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. 
+**Security**
 
-**OPT OUT**
+All information gathered on the Web site is stored within a WorldNow controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
+**Changing/deleting personal information**
 
-**SUBPOENAS AND LAW ENFORCEMENT AGENCIES**
+If you would like to have your personally identifiable information changed or removed from our database, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.
 
-We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal. Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed. We may also share your Personally Identifiable Information in response to an appropriate subpoena. 
+**Third-Party Ad Serving**
 
-**COMMUNITY AND PUBLIC AREAS**
+We use third-party advertising companies to serve ads when you visit our web site.  These companies may use information (not including your name, address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
-Information posted to message boards or chat areas is available to the general public. Please use caution when posting any such information. Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information. 
+**Questions?**
 
-**FEEDBACK AND EMAIL**
-
-On every page at CBS.com there is a link to a "feedback" email form so you can comment, complaint, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type and referring URL to better diagnose technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence. 
-
-**CBS-TV AFFILIATES**   
-CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be "branded" to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
-
-Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content we produce. And some affiliates sell ads or run contests that will appear on their branded sites only. 
-
-We are not responsible for content or contests posted by our affiliates or for the use of any information that an affiliate may collect. 
-
-We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. 
-
-**LINKS TO OTHER SITES**
-
-When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. 
-
-**CBS STORE**
-
-The CBS Store uses a third-party fulfillment house to accept orders for CBS products purchased online. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders or for billing questions when necessary. However, neither CBS nor the fulfillment house shares this information with third parties. 
-
-**DELETING OR MODIFYING YOUR INFORMATION**
-
-If you've given us Personally Identifiable Information in the past and then have second thoughts or want to update it, here are your choices: 
-
-Email to [privacy@cbs.com](mailto:privacy@cbs.com). 
-
-Regular mail to: 
-
-**Privacy Coordinator  
-CBS.com (555/13)   
-524 West 57th Street   
-New York, New York 10019**
-
-Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. 
-
-**SECURITY OF PRIVATE INFORMATION**
-
-Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at [CBS.com](https://web.archive.org/now/section/0,1636,100-390,00.shtml), to protect your information from theft, misuse and alteration. 
+Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
