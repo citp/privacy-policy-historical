@@ -1,155 +1,368 @@
-<!--The following is the downloaded HTML source of the cypasia.org privacy policy that was archived on 2003-08-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030814082545id_/http%3A//www.cypasia.org/html/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cypasia.org privacy policy that was archived on 2004-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040419222814id_/http%3A//www.cypasia.org/html/policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>CYP Asia Centre</title>
+<html><head>
+<title>CYP Asia Centre</title>
+<style>
+<!--a{text-decoration:none}//.l {
+	color: #0000CC;
+	text-decoration: underline;
+}
+.l {
+	color: #0000CC;
+	text-decoration: underline;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+if (document.all) {
+yourLogo = "  Commonwealth Youth Programme : Asia Centre  ";  
+logoFont = "verdana";
+logoSize = "8";
+logoColor = "1d2a63";
+yourLogo = yourLogo.split('');
+L = yourLogo.length; 
+TrigSplit = 360 / L;
+Sz = new Array()
+logoWidth = 100;
+logoHeight = -30;
+ypos = 0;
+xpos = 0;
+step = 0.03;
+currStep = 0;
+document.write('<div id="outer" style="position:absolute;top:0px;left:0px"><div style="position:relative">');
+for (i = 0; i < L; i++) {
+document.write('<div id="ie" style="position:absolute;top:0px;left:0px;'
++'width:10px;height:10px;font-family:'+logoFont+';font-size:12px;'
++'color:'+logoColor+';text-align:center">'+yourLogo[i]+'</div>');
+}
+document.write('</div></div>');
+function Mouse() {
+ypos = event.y;
+xpos = event.x - 5;
+}
+document.onmousemove=Mouse;
+function animateLogo() {
+outer.style.pixelTop = document.body.scrollTop; 
+for (i = 0; i < L; i++) {
+ie[i].style.top = ypos + logoHeight * Math.sin(currStep + i * TrigSplit * Math.PI / 180);
+ie[i].style.left = xpos + logoWidth * Math.cos(currStep + i * TrigSplit * Math.PI / 180);
+Sz[i] = ie[i].style.pixelTop - ypos;
+if (Sz[i] < 5) Sz[i] = 5;
+ie[i].style.fontSize = Sz[i] / 1.7;
+}
+currStep -= step;
+setTimeout('animateLogo()',20);
+}
+window.onload = animateLogo;
+}
+ message     = "Commonwealth Youth Programme^" +
+                "Asia Centre^" +"Commonwealth Secretariat^" +
+                
+                "^"
+  scrollSpeed = 25
+  lineDelay   = 1500
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta content="MSHTML 5.50.4207.2601" name="GENERATOR"></head>
-<body vlink="#990000" alink="#cccc00" link="#cccc00" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<table cellspacing="0" cellpadding="0" width="99%" border="0">
-  <tbody>
-  <tr bgcolor="#000000"> 
-    <td> <img src="../img/aboutus.gif" width="755" height="77"></td>
-  </tr></tbody></table>
-<table cellspacing="0" cellpadding="0" width="99%" border="0">
-  <tbody> 
-  <tr>
-    <td valign="top" width="12%" rowspan="2"> 
-      <p><img width="100" height="400" usemap="#Map2" border="0" src="../img/aboutusframe.jpg"><map name="Map2"><area shape="rect" coords="6,39,62,55" href="aboutus.htm" alt="CYP Asia Centre" title="CYP Asia Centre"><area shape="rect" coords="4,86,74,105" href="chronology.htm" alt="Chronology of CYP Asia Centre" title="Chronology of CYP Asia Centre"><area shape="rect" coords="5,137,53,155" href="officers.htm" alt="Principal Officers at CYP Asia Centre" title="Principal Officers at CYP Asia Centre"><area shape="rect" coords="4,187,64,217" href="strategic.htm" alt="Strategic Areas" title="Strategic Areas"><area shape="rect" coords="5,245,63,277" href="countries.htm" alt="Asian Member Countries" title="Asian Member Countries"><area shape="rect" coords="5,307,56,322" href="cyptec.htm" alt="Centre for Excellence in Information Technology" title="Centre for Excellence in Information Technology"><area shape="rect" coords="89,397,90,398" href="#"></map></p>
-      </td>
-    <td width="88%" height="6" valign="top"> 
-      <table cellspacing="0" cellpadding="0" width="100%" border="0">
-        <tbody valign="top"> 
-        <tr bgcolor="#009900">
-          <td bordercolor="#ffffff" width="32%" height="21" bgcolor="#0EC8F6"> 
-            <div align="center"><font color="#ffffff"><b><font color="#3333FF"><a href="secretariat.htm"><font color="#0000FF" face="Arial, Helvetica, sans-serif" size="2">Commonwealth 
-              Secretariat</font></a></font></b></font></div>
-          </td>
-          <td bordercolor="#ffffff" width="33%" height="21" bgcolor="#0EC8F6"> 
-            <div align="center"><font face="Tahoma" size="2"><b><font face="Arial, Helvetica, sans-serif"><font color="#3333FF"><font size="-1"><a href="nodalagn.htm"><font color="#0000FF">Nodal 
-              Agencies</font></a></font></font></font></b></font></div>
-          </td>
-          <td width="35%" height="21" bgcolor="#0EC8F6"> 
-            <div align="center"><font face="Tahoma" color="#ffffff" size="2"><b><font face="Arial, Helvetica, sans-serif"><font color="#3333FF"><font size="-1"><a href="cypyoung.htm"><font color="#0000FF">CYP 
-              Asia &amp; Young People</font></a></font></font></font></b></font></div>
-          </td></tr></tbody></table></td></tr>
-  <tr>
-    <td width="88%" valign="top"> 
-      <table width="100%" border="0">
+  // Do not change the text below //
+
+  txt         = ""
+
+  function scrollText(pos) {
+    if (message.charAt(pos) != '^') {
+      txt    = txt + message.charAt(pos)
+      status = txt
+      pauze  = scrollSpeed
+    }
+    else {
+      pauze = lineDelay
+      txt   = ""
+      if (pos == message.length-1) pos = -1
+    }
+    pos++
+    setTimeout("scrollText('"+pos+"')",pauze)
+  }
+
+  // Unhide -->
+scrollText(0)
+</script>
+</head>
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bottommargin="0" link="#1D2A63" vlink="#1D2A63">
+
+<table width="908" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td colspan="6">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="4"><img src="images/spacer.gif" height="37" width="10"><img src="../images/comsec-logoblue.gif" width="93" height="97"></td>
+    <td width="193">
+<center>
+        <font face="Verdana" size="4" color="#1D2A63"><b>CYP Asia Centre</b></font> 
+      </center></td>
+    <td width="612" align="right"> <div align="center">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="610" height="97">
+          <param name="movie" value="../images/banner18.swf">
+          <param name="quality" value="high">
+          <embed src="../images/banner18.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="610" height="97"></object>
+      </div></td>
+  </tr>
+  <tr> 
+    <td colspan="6"><img src="images/spacer.gif" height="5" width="778"></td>
+  </tr>
+  <tr> 
+    <td width="100"><img src="images/spacer.gif" height="1" width="10"></td>
+    <td colspan="5"><img src="images/bar1.gif" width="768" height="1"></td>
+  </tr>
+  <tr> 
+    <td colspan="6"><img src="images/spacer.gif" height="1" width="778"></td>
+  </tr>
+  <tr> 
+    <td colspan="6"><p align="right"><font color="#ffffff"><font color="#3333FF"><a href="http://www.thecommonwealth.org" target="_blank"><font color="#1d2a63" face="Verdana, Arial, Helvetica, sans-serif" size="2">Commonwealth 
+        Secretariat</font></a></font></font><font face="Verdana" size="2">&nbsp;</font><font face="Verdana" size="1"> 
+        |<font size="2"> <a href="nodal_agencies.html" target="_self">Nodal Agencies</a></font> 
+        | <a href="young_people.html" target="_self"><font size="2">CYP Asia &amp; 
+        Young People</font></a></font></p></td>
+  </tr>
+  <tr> 
+    <td colspan="6"><img src="images/spacer.gif" height="3" width="778"></td>
+  </tr>
+  <tr> 
+    <td><img src="images/spacer.gif" height="1" width="10"></td>
+    <td colspan="5"><img src="images/bar1.gif" width="768" height="1"></td>
+  </tr>
+  <tr> 
+    <td colspan="6"><img src="images/spacer.gif" height="5" width="778"></td>
+  </tr>
+</tbody></table>
+
+
+<table width="860" border="0" cellpadding="0" cellspacing="0" height="64%">
+  <tbody><tr>
+		
+    <td width="179" height="463" valign="top"> <table width="179" border="0" cellpadding="0" cellspacing="0" height="168%">
         <tbody><tr> 
-          <td colspan="3" align="justify"> 
-            <center>
-              <font face="Trebuchet MS, Arial, Helvetica"> </font>
-              <table width="100%" border="0">
-                <tbody><tr> 
-                  <td> 
-                    <p align="center"><font face="Trebuchet MS, Arial, Helvetica" color="#0000FF" size="4"><b>Privacy 
-                      Policy </b></font></p>
-                    <p align="justify"> <font color="#666666" size="2" face="Arial, Helvetica, sans-serif">CYP 
-                      ASIA Centre has created this privacy &nbsp;statement in 
-                      order to demonstrates our organization's commitment to privacy. 
-                      We are keen on ensuring that the Net experience for all 
-                      the users is always safe and secured. Your privacy is as 
-                      important to us as our own privacy. &nbsp;All of the information 
-                      we obtain from you is used to provide and/or improve our 
-                      level of service to you. We will not rent, sell, or otherwise 
-                      disclose any information about you or your account to any 
-                      other party for direct mail, &nbsp;solicitation, &nbsp;or 
-                      &nbsp;telemarketing &nbsp;purposes &nbsp;without your consent. 
-                      &nbsp;This &nbsp;Privacy &nbsp;Policy ("Privacy Policy") 
-                      explains &nbsp;the &nbsp;types &nbsp;of information we gather 
-                      and what we do with it. &nbsp;We may &nbsp;modify &nbsp;this 
-                      privacy policy from time to time. Our current privacy policy 
-                      will be published on our web site. <br>
-                      <br>
-                      </font>
-                    </p><p align="justify"><font color="#666666" size="2" face="Arial, Helvetica, sans-serif"><b>1.Cookies</b> 
-                      &nbsp;Our &nbsp;sites &nbsp;use 'cookies' to record information. 
-                      &nbsp;A cookie is a small data file that certain Web sites 
-                      store on your hard drive when you visit them. Cyber Youth 
-                      Club use cookies to store a unique random user ID. We do 
-                      not store passwords or any &nbsp;other &nbsp;personal &nbsp;information 
-                      about users . &nbsp;This &nbsp;user ID is used to identify 
-                      user's anonymity and database and track the pages that users 
-                      visit and it also allow us to measure activity on our sites 
-                      and to improve your user experience by &nbsp;remembering 
-                      your passwords and viewing preferences, and allowing&nbsp; 
-                      you &nbsp;to &nbsp;visit &nbsp;various &nbsp;members-only 
-                      &nbsp;parts &nbsp;of &nbsp;our &nbsp;sites &nbsp;without 
-                      re-registering. However, the only information &nbsp;a &nbsp;cookie 
-                      can contain is &nbsp;information provided by users. &nbsp;Cookies 
-                      &nbsp;also &nbsp;enable users to enter the website and use 
-                      the services as&nbsp; a member without having to log on 
-                      every time. &nbsp;Our sites do not use cookies to retrieve 
-                      any information from &nbsp;your &nbsp;computer. &nbsp;Most 
-                      &nbsp;browsers &nbsp;are &nbsp;set to accept cookies and 
-                      if the user's browser &nbsp;is &nbsp;set &nbsp;to &nbsp;warn 
-                      &nbsp;them &nbsp;before &nbsp;accepting &nbsp;cookies, &nbsp;they 
-                      will receive the warning message with every cookie. &nbsp;Users 
-                      &nbsp;can &nbsp;refuse &nbsp;cookies &nbsp;by turning them 
-                      off in their browser. Cookies can neither read data off 
-                      a user's hard drive nor can they read cookie files created 
-                      by other sites. <br>
-                      <br>
-                      </font>
-                    </p><p align="justify"><font color="#666666" size="2" face="Arial, Helvetica, sans-serif"><b>2.Contacting</b> 
-                      <b>CYP Asia Centre</b> &nbsp;If users have any questions 
-                      or clarifications about this privacy statement, &nbsp;the 
-                      practices of CYP Asia Centre or their dealings with CYP 
-                      Asia Centre. </font>
-                    </p><div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><br>
-                      </font><font size="2"><br>
-                      <b>Contact:</b> <font color="#0000CC" face="Times New Roman, Times, serif">Commonwealth 
-                      Youth Programme: Asia Centre </font><font face="Times New Roman, Times, serif"><br>
-                      <font color="#0000CC">Sector 12,Chandigarh</font> </font><b><br>
-                      Phone No: </b><font color="#0000CC">0172-744482,745505,741658</font> 
-                      <br>
-                      <b>E-mail:</b><font color="#0000CC"> cypasia@glide.net.in</font></font> 
-                    </div>
-          </td>
-                </tr>
-              </tbody></table>
-              <font face="Trebuchet MS, Arial, Helvetica">
-              <p align="center">&nbsp;</p>
-              </font> 
-            </center>
-            </td>
+          <td><img src="images/spacer.gif" height="20" width="10"></td>
+          <td background="images/bar1.gif" rowspan="20"><img src="images/spacer.gif" height="20" width="10"></td>
+          <td colspan="3" width="159" background="images/menu2.gif"><img src="images/spacer.gif" width="159" height="20"></td>
         </tr>
-      </tbody></table>
-    </td>
-  </tr></tbody></table>
-<table width="100%" border="0">
-  <tbody><tr bgcolor="#669900"> 
-    <td colspan="2" height="21" bgcolor="#0EC8F6"> 
-      <div align="center"><font size="2" face="Arial, Helvetica, sans-serif"><b><font color="#0000FF"><a href="../index.htm"><font color="#0000CC">Home</font></a></font><font color="#FFFF00"> 
-        </font> </b> </font></div>
-    </td>
-    <td colspan="2" height="21" bgcolor="#0EC8F6"> 
-      <div align="center"><b><font color="#0000FF" face="Arial, Helvetica, sans-serif" size="2"><a href="disclaimer.htm"><font color="#0000CC">Disclaimer</font></a> 
-        </font></b></div>
-    </td>
-    <td colspan="2" height="21" width="32%" bgcolor="#0EC8F6"> 
-      <div align="center"><b><font color="#0000FF" size="2" face="Arial, Helvetica, sans-serif"><a href="privacy.htm"><font color="#0000CC">Privacy 
-        Policy</font></a></font></b> </div>
-    </td>
+        <tr> 
+          <td><img src="images/spacer.gif" height="3" width="10"></td>
+          <td colspan="3" width="159"><img src="images/menu_top.gif" width="159" height="3"></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="15" width="10"></td>
+          <td colspan="3" width="159" background="images/menu1.gif"><img src="images/spacer.gif" width="159" height="15"></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="26" width="10"></td>
+          <td background="images/button1.gif"><b>
+            <center>
+              <a href="aboutus.html" target="_self"><font color="white" size="2" face="verdana">About 
+              us </font></a> 
+            </center>
+            </b></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="26" width="10"></td>
+          <td background="images/button1.gif"><b>
+            <center>
+              <a href="chronology.html" target="_self"><font face="verdana" size="2" color="white">Chronology</font></a> 
+            </center>
+            </b></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="26" width="10"></td>
+          <td background="images/button1.gif"><b>
+            <center>
+              <a href="strategicareas.html" target="_self"><font face="verdana" size="2" color="white">Strategic 
+              Areas </font></a> 
+            </center>
+            </b></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="26" width="10"></td>
+          <td background="images/button1.gif"><b>
+            <center>
+              <a href="countries.html" target="_self"><font face="verdana" size="2" color="white">Member 
+              Countries </font></a> 
+            </center>
+            </b></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="26" width="10"></td>
+          <td background="images/button1.gif"><b>
+            <center>
+              <a href="cyptec.html" target="_self"><font face="verdana" size="2" color="white">CYPTEC</font></a> 
+            </center>
+            </b></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="26" width="10"></td>
+          <td background="images/button1.gif"><b>
+            <center>
+              <b><a href="cyptec_on_wheels.html" target="_self"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif">CYPTEC 
+              On Wheels</font></a> </b> 
+            </center>
+            </b></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="26" width="10"></td>
+          <td background="images/button1.gif"><b>
+            <center>
+              <a href="rcentre.html" target="_self"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif">Resource 
+              Centre </font> </a>
+            </center>
+            </b></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="26" width="10"></td>
+          <td background="images/button1.gif"><b>
+            <center>
+              <b><a href="staff.html" target="_self"><font face="verdana" size="2" color="white">Officers</font></a> 
+              </b> 
+            </center>
+            </b></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="15" width="10"></td>
+          <td colspan="3" width="159" background="images/menu1.gif"><img src="images/spacer.gif" width="159" height="15"></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="3" width="10"></td>
+          <td colspan="3" width="159"><img src="images/menu_bottom.gif" width="159" height="3"></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="20" width="10"></td>
+          <td colspan="3" width="159" background="images/menu2.gif"><img src="images/spacer.gif" width="159" height="100"></td>
+        </tr>
+        <tr> 
+          <td><img src="images/spacer.gif" height="20" width="10"></td>
+          <td colspan="3" height="100%" width="159" background="images/menu2.gif"><img src="images/spacer.gif" width="159" height="434%"></td>
+        </tr>
+      </tbody></table></td>
+		<td width="10"><img src="images/spacer.gif" width="10" height="10"></td>
+		
+    <td width="671" valign="top"> <table width="717" height="571" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td width="717" height="10">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="552" colspan="6" valign="top" bgcolor="#FFFFFF"> 
+            <table width="100%" height="521" border="0">
+              <tbody><tr> 
+                <td bgcolor="#333366"><div align="center"><font color="#FFFFFF" size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>Privacy 
+                    Policy </strong></font></div></td>
+              </tr>
+              <tr> 
+                <td height="494" valign="middle"> 
+                  <table width="100%" border="0" cellpadding="0">
+                    <tbody><tr>
+                      <td valign="top">
+<p align="justify"><font color="003366" size="2" face="Verdana, Arial, Helvetica, sans-serif">CYP 
+                          ASIA Centre has created this privacy statement in order 
+                          to demonstrates our organization's commitment to privacy. 
+                          We are keen on ensuring that the Net experience for 
+                          all the users is always safe and secured. Your privacy 
+                          is as important to us as our own privacy. All of the 
+                          information we obtain from you is used to provide and/or 
+                          improve our level of service to you. We will not rent, 
+                          sell, or otherwise disclose any information about you 
+                          or your account to any other party for direct mail, 
+                          solicitation, or telemarketing purposes without your 
+                          consent. This Privacy Policy ("Privacy Policy") 
+                          explains the types of information we gather and what 
+                          we do with it. We may modify this privacy policy from 
+                          time to time. Our current privacy policy will be published 
+                          on our web site. </font></p>
+                        </td>
+                    </tr>
+                  </tbody></table>
+                  <table width="100%" border="1" bordercolor="#27236D">
+                    <tbody><tr> 
+                      <td height="254"> 
+                        <div align="justify">
+                          <table width="100%" border="0">
+                            <tbody><tr>
+                              <td width="3%" valign="baseline"><img src="../images/bullet.gif" width="8" height="8"></td>
+                              <td width="97%" valign="baseline"><div align="justify"><font color="003366" size="2" face="Verdana, Arial, Helvetica, sans-serif">Cookies 
+                                  Our sites use 'cookies' to record information. 
+                                  A cookie is a small data file that certain Web 
+                                  sites store on your hard drive when you visit 
+                                  them. Cyber Youth Club use cookies to store 
+                                  a unique random user ID. We do not store passwords 
+                                  or any other personal information about users 
+                                  . This user ID is used to identify user's anonymity 
+                                  and database and track the pages that users 
+                                  visit and it also allow us to measure activity 
+                                  on our sites and to improve your user experience 
+                                  by remembering your passwords and viewing preferences, 
+                                  and allowing you to visit various members-only 
+                                  parts of our sites without re-registering. However, 
+                                  the only information a cookie can contain is 
+                                  information provided by users. Cookies also 
+                                  enable users to enter the website and use the 
+                                  services as a member without having to log on 
+                                  every time. Our sites do not use cookies to 
+                                  retrieve any information from your computer. 
+                                  Most browsers are set to accept cookies and 
+                                  if the user's browser is set to warn them before 
+                                  accepting cookies, they will receive the warning 
+                                  message with every cookie. Users can refuse 
+                                  cookies by turning them off in their browser. 
+                                  Cookies can neither read data off a user's hard 
+                                  drive nor can they read cookie files created 
+                                  by other sites. </font></div></td>
+                            </tr>
+                            <tr>
+                              <td valign="baseline"><img src="../images/bullet.gif" width="8" height="8"></td>
+                              <td valign="baseline"><div align="justify"><font color="003366" size="2" face="Verdana, Arial, Helvetica, sans-serif">Contacting 
+                                  CYP Asia Centre If users have any questions 
+                                  or clarifications about this privacy statement, 
+                                  the practices of CYP Asia Centre or their dealings 
+                                  with CYP Asia Centre. </font></div></td>
+                            </tr>
+                          </tbody></table>
+                          
+                        </div>
+                        <div align="justify"></div></td>
+                    </tr>
+                  </tbody></table>
+                  <p align="center"><strong><font color="1d2a63" size="2" face="Verdana, Arial, Helvetica, sans-serif">Contact:</font><font color="666699" size="2" face="Verdana, Arial, Helvetica, sans-serif"> 
+                    Commonwealth Youth Programme: Asia Centre <br>
+                    Sector 12,Chandigarh <br>
+                    <font color="1d2a63">Phone No:</font> 0172-744482,745505,741658 
+                    <br>
+                    <font color="1d2a63">E-mail:</font> <a href="mailto:admin@cypasia.org" class="l">admin@cypasia.org</a></font></strong></p>
+                  </td>
+              </tr>
+            </tbody></table>
+            
+          </td>
+        </tr>
+      </tbody></table></td>
+	</tr>
+</tbody></table>
+<table width="91%" border="0">
+  <tbody><tr bgcolor="#666699"> 
+    <td width="34%"> <div align="center"><a href="../index.html" target="_self"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Home</strong></font></a></div></td>
+    <td width="32%"> <div align="center"><a href="disclaimer.html" target="_self"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Disclaimer</strong></font></a></div></td>
+    <td width="34%"> <div align="center"><a href="policy.html" target="_self"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Privacy 
+        Policy</strong></font></a></div></td>
   </tr>
-  </tbody><tbody> 
-  <tr bgcolor="#ffffff"> 
-    <td colspan="6" height="7"> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif"><font color="#0000CC"><font size="-1">Best 
-        viewed in 800 x 600</font></font></font></div>
-    </td>
+</tbody></table>
+<table width="91%" border="0">
+  <tbody><tr>
+    <td><div align="center"><font face="Arial, Helvetica, sans-serif"><font color="#0000CC"><font color="#000066" size="2" face="Times New Roman, Times, serif">Best 
+        viewed in 1024 x 768</font></font></font></div></td>
   </tr>
-  <tr bgcolor="#ffffff"> 
-    <td colspan="6"> 
-      <div align="center"><font color="#000000" size="1" face="Arial, Helvetica, sans-serif">Copyright 
-          © 2001 Commonwealth Youth Programme Asia Centre.All rights reserved. 
-          Terms of Service<br>
-          NOTICE: Wherever your personal information is requested, please consult 
-          our privacy policy statement</font></div>
-    </td>
+</tbody></table>
+<table width="91%" border="0">
+  <tbody><tr>
+    <td><div align="center"><font color="#000066" size="1" face="Arial, Helvetica, sans-serif">Copyright 
+        © 2003 Commonwealth Youth Programme Asia Centre.All rights reserved. Terms 
+        of Service<br>
+        NOTICE: Wherever your personal information is requested, please consult 
+        our privacy policy statement</font></div></td>
   </tr>
-  </tbody> 
-</table>
+</tbody></table>
 
 </body></html>
