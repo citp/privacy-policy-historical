@@ -1,95 +1,97 @@
-> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095914id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macnn.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601143423id_/http%3A//www.macnn.com/index.php%3Fprivacy%3Dtrue) for the most accurate reproduction.*
 
 # MacNN | Privacy Policy
 
+Desktop Headlines 
+
 Popular Daily
 
-[Apple KB: data loss, cable select, Bluetooth](http://www.macnn.com/news.php?id=17569)
+[MS Watch: Panther vs. Longhorn: The Rematch](http://www.macnn.com/news/19605)
 
-[Apps: Mozilla, LiteSwitch X, NUDC...](http://www.macnn.com/news.php?id=17560)
+[KB: RAID admin, 16:9 movie clips, PWS...](http://www.macnn.com/news/19610)
 
-[Mac addicts saved Apple, mustn't be ignored](http://www.macnn.com/news.php?id=17555)
+[USA Today column praises iPod](http://www.macnn.com/news/19612)
 
-[Tech: Judge speaks out on Sun vs. MS; AOL 9.0](http://www.macnn.com/news.php?id=17572)
+[Apps: Omnigraffle, DropJPEG, Intaglio...](http://www.macnn.com/news/19609)
 
-[Apps: Analog, ProjectForum, Agenda...](http://www.macnn.com/news.php?id=17552)
+[Apps: Xupport, InterMapper, DockFun...](http://www.macnn.com/news/19604)
 
-[eMac 'Raster shifting' issue reported](http://www.macnn.com/news.php?id=17548)
+[Apple kicks of new educational mail-in rebate](http://www.macnn.com/news/19606)
 
 Popular Weekly
 
-[Photos from SoHo Day After Thanksgiving Event](http://www.macnn.com/news.php?id=17542)
+[Adobe ships Acrobat 6.0 product line](http://www.macnn.com/news/19557)
 
-[The Register: distracting from GHz war](http://www.macnn.com/news.php?id=17540)
+[Nikon introduces 5.1MP Coolpix 5400](http://www.macnn.com/news/19569)
 
-[New "Switch" advertisement online](http://www.macnn.com/news.php?id=17534)
+[Apps: iConquer, FastScripts, SquashCounter...](http://www.macnn.com/news/19552)
 
-[Apps: Moho, DockFun!, Workstrip, Imagebuddy](http://www.macnn.com/news.php?id=17538)
+[Infinisys updates After Dark X screensaver](http://www.macnn.com/news/19587)
 
-[Mac support for U.S. GPRS networks](http://www.macnn.com/news.php?id=17539)
+[Prototype IR receivers add-ons for iPods](http://www.macnn.com/news/19567)
 
-[Apps: pop-pop 1.0.2, shadowIP 2.0.1, more...](http://www.macnn.com/news.php?id=17532)
+[Apps: CCC, MiCal, Security Services...](http://www.macnn.com/news/19591)
 
 Hot Reviews
 
+[MindVision FileStorm](http://reviews.macnn.com/review.php?id=35)   
+  
+[Sorenson Squeeze 3](http://reviews.macnn.com/review.php?id=34)   
+  
+[Fight the Future: Toshiba SD-R2102 DVD/CD-RW](http://reviews.macnn.com/review.php?id=33)   
+  
+[M-System's Disk On Key](http://reviews.macnn.com/review.php?id=32)   
+  
 [ShuttlePRO](http://reviews.macnn.com/review.php?id=31)   
   
 [iPod Case Roundup](http://reviews.macnn.com/review.php?id=30)   
-  
-[Freeverse Software Classic Cribbage](http://reviews.macnn.com/review.php?id=29)   
-  
-[Wacom Graphire2](http://reviews.macnn.com/review.php?id=28)   
-  
-[Lapvantage Dome](http://reviews.macnn.com/review.php?id=27)   
-  
-[Logitech Elite Keyboard](http://reviews.macnn.com/review.php?id=26)   
 
 
 Most Commented
 
-[Mac addicts saved Apple, mustn't be ignored](http://www.macnn.com/news.php?id=17555)  
-46 Comments
+[MS Watch: Panther vs. Longhorn: The Rematch](http://www.macnn.com/news/19605)  
+61 Comments
 
-[The Register: distracting from GHz war](http://www.macnn.com/news.php?id=17540)  
+[Apple store coming to Tucson, AZ](http://www.macnn.com/news/19553)  
+60 Comments
+
+[Apple releases iTunes 4.0.1 update](http://www.macnn.com/news/19563)  
+51 Comments
+
+[NYT: Apple Finds the Future for Online Music](http://www.macnn.com/news/19589)  
+45 Comments
+
+[Apple's .Mac mail problems continue](http://www.macnn.com/news/19575)  
+44 Comments
+
+[Apple limits iTunes sharing to local networks](http://www.macnn.com/news/19576)  
 40 Comments
-
-[New "Switch" advertisement online](http://www.macnn.com/news.php?id=17534)  
-25 Comments
-
-[eMac 'Raster shifting' issue reported](http://www.macnn.com/news.php?id=17548)  
-24 Comments
-
-[AMD: AAPL relationship would be "interesting](http://www.macnn.com/news.php?id=17558)  
-22 Comments
-
-[Shreve discontinues Mac parts, used Mac sales](http://www.macnn.com/news.php?id=17512)  
-20 Comments
 
 Top Stories
 
-[Macromedia intros Director MX for OS X](http://www.macnn.com/news.php?id=17490)
+[Apple announces Chicago, Tokyo, SF stores](http://www.macnn.com/news.php?id=19498)
 
-[Apple releases WebObjects 5.2](http://www.macnn.com/news.php?id=17318)
+[Apple sells 2 million songs via iTunes](http://www.macnn.com/news.php?id=19445)
 
-[Apple releases Mac OS X 10.2.2 update](http://www.macnn.com/news.php?id=17300)
+[Apple releases Mac OS X 10.2.6](http://www.macnn.com/news.php?id=19365)
 
-[Apple updates SuperDrive firmware](http://www.macnn.com/news.php?id=17273)
+[eMac gets faster processors, networking](http://www.macnn.com/news.php?id=19353)
 
-[Apple bumps iBook line, lowers prices](http://www.macnn.com/news.php?id=17245)
+[Apple sells 1 million songs in first week](http://www.macnn.com/news.php?id=19342)
 
-[Apple announces 1GHz Titanium PowerBooks](http://www.macnn.com/news.php?id=17244)
+[New iPods, music service, and iTunes 4](http://www.macnn.com/news.php?id=19276)
 
-[Apple snubs IDG, declines to go to Boston](http://www.macnn.com/news.php?id=17036)
+[Updated MacNN XML, RSS feeds, other services](http://www.macnn.com/news.php?id=19252)
 
-[Apple offers free copy of Jaguar to educators](http://www.macnn.com/news.php?id=17033)
+[Apple Store gets facelift; iBook line updated](http://www.macnn.com/news.php?id=19204)
 
-[Apple provides details on FYQ4 Financials](http://www.macnn.com/news.php?id=17021)
+[Q2 earnings call highlights](http://www.macnn.com/news.php?id=19163)
 
-[Apple posts net loss of $45M after charges](http://www.macnn.com/news.php?id=17020)
+[Apple posts profit of $14 million, $0.04 eps](http://www.macnn.com/news.php?id=19161)
 
-[QuickTime 6 downloads top 25M in 100 days](http://www.macnn.com/news.php?id=16977)
+[Apple releases Safari Beta 2 browser update](http://www.macnn.com/news.php?id=19109)
 
-[Apple to use 64-bit IBM processors in Macs](http://www.macnn.com/news.php?id=16951)
+[LA Times: Apple may buy Universal Music](http://www.macnn.com/news.php?id=19096)
 
 | 
 
@@ -129,34 +131,139 @@ Top Stories
   
 
 
-| 
+|  | 
 
 * * *
 
 * * *
 
-[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=38687745080404)
+[](http://kermit.macnn.com/?RC=45005267&AI=992&RANDOM=64681069113667)
 
-[](http://kermit.macnn.com/?RC=45005268&AI=957&RANDOM=38687745081072)   
+[](http://kermit.macnn.com/?RC=45005268&AI=1068&RANDOM=64681069113169)   
 
 
 | 
 
-[](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com)  
+[](http://kermit.macnn.com/?RC=45005269&AI=1060&RL=http:%2F%2Fwww.ramjet.com)  
   
 ---  
   
 **Current Specials:**
 
-**[G4 DDR](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com%2Fg4ddr.asp) RAM:**  
-256MB - $95, 512MB - $149, 1GB - $295
+**[G4 DDR](http://kermit.macnn.com/?RC=45005269&AI=1060&RL=http:%2F%2Fwww.ramjet.com%2Fg4ddr.asp) RAM:**  
+512MB - $85, 1Gig - $169, 1.5Gig - $249
 
-**[G4](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com%2F), [iMac](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com%2Fimacdv.asp%2F) PC133 RAM:**  
-512MB - $69, 1Gig - $135, 1.5Gig - $199
+**[G4](http://kermit.macnn.com/?RC=45005269&AI=1060&RL=http:%2F%2Fwww.ramjet.com%2F), [iMac](http://kermit.macnn.com/?RC=45005269&AI=1060&RL=http:%2F%2Fwww.ramjet.com%2Fimacdv.asp%2F) PC133 RAM:**  
+512MB - $99, 1Gig - $189, 1.5Gig - $259
 
-[**iMac Flat Panel**](http://kermit.macnn.com/?RC=45005269&AI=954&RL=http:%2F%2Fwww.ramjet.com%2Fimacflat.asp) **RAM:**  
-256MB - $39, 512MB - $75, 1Gig - $139
+[**iMac Flat Panel**](http://kermit.macnn.com/?RC=45005269&AI=1060&RL=http:%2F%2Fwww.ramjet.com%2Fimacflat.asp) **RAM:**  
+256MB - $59, 512MB - $99, 1Gig - $189
 
 **1-800-831-4569**  
   
-[](http://kermit.macnn.com/?RC=45005301&AI=787&RANDOM=38687745081437)
+[](http://kermit.macnn.com/?RC=45005270&AI=1027&RANDOM=64681069112131)  
+  
+  
+Recent Headlines
+
+[Apps: PlayBWF, Transmit, Stupendous, ...](http://www.macnn.com/news/19613)
+
+[USA Today column praises iPod](http://www.macnn.com/news/19612)
+
+[O'Reilly publishes Head First Java](http://www.macnn.com/news/19611)
+
+[KB: RAID admin, 16:9 movie clips, PWS...](http://www.macnn.com/news/19610)
+
+[Apps: Omnigraffle, DropJPEG, Intaglio...](http://www.macnn.com/news/19609)
+
+[Tech: online music, AOL/MS agreement, Quanta](http://www.macnn.com/news/19608)
+
+[Acquisition 0.92: file sharing client updated](http://www.macnn.com/news/19607)
+
+[Apple kicks of new educational mail-in rebate](http://www.macnn.com/news/19606)
+
+[MS Watch: Panther vs. Longhorn: The Rematch](http://www.macnn.com/news/19605)
+
+[Apps: Xupport, InterMapper, DockFun...](http://www.macnn.com/news/19604)
+
+[Avid ships Media Composer Adrenaline](http://www.macnn.com/news/19603)
+
+[KeynotePro.com releases SoHo Keynote theme](http://www.macnn.com/news/19602)
+
+[Sonnet debuts Allegro FW800 PCI adapter card](http://www.macnn.com/news/19601)
+
+[Apps: Cinematics, iLink, ComChart, ...](http://www.macnn.com/news/19600)
+
+[WaterField debuts Racer-X case for 12" PB](http://www.macnn.com/news/19599)
+
+[Consumer Reports: Macs most reliable](http://www.macnn.com/news/19598)
+
+[Listing hints at Cleveland store](http://www.macnn.com/news/19597)
+
+[Kano debuts SureVAULT desktop RAID storage](http://www.macnn.com/news/19596)
+
+[KB: Open Firmware, Sendmail, Kerberos...](http://www.macnn.com/news/19595)
+
+[More details on Apple retail store in Tucson](http://www.macnn.com/news/19594)
+
+[MegaSeg 2.6.3 gets full AAC tag support](http://www.macnn.com/news/19593)
+
+[Apple awarded a Silver D&AD Award for iMac](http://www.macnn.com/news/19592)
+
+[Apps: CCC, MiCal, Security Services...](http://www.macnn.com/news/19591)
+
+[DragThing 4.6.1 release marks 8th anniversary](http://www.macnn.com/news/19590)
+
+[NYT: Apple Finds the Future for Online Music](http://www.macnn.com/news/19589)
+
+[Blizzard Warcraft III to ship July 1st](http://www.macnn.com/news/19588)
+
+[Infinisys updates After Dark X screensaver](http://www.macnn.com/news/19587)
+
+[Iomega offers trial of Iomega iStorage Online](http://www.macnn.com/news/19586)
+
+[Apps: Calendar Snap, Impression, ArchiOffice](http://www.macnn.com/news/19585)
+
+[FireWireDirect ships FireWire 800 cables](http://www.macnn.com/news/19584)
+
+[Apple posts Slot Combo Drive Update](http://www.macnn.com/news/19583)
+
+[FireWire Depot introduces new enclosure](http://www.macnn.com/news/19582)
+
+[iMatte unveils iSkia projector accessory](http://www.macnn.com/news/19581)
+
+[O'Reilly publishes "Cocoa in a Nutshell"](http://www.macnn.com/news/19580)
+
+[REAL showcase software's prototyping feature](http://www.macnn.com/news/19579)
+
+[Apps: Monkeybread, eSuite4X, PicScan...](http://www.macnn.com/news/19578)
+
+[Revolution 2.0 dev tool updated for Mac OS X](http://www.macnn.com/news/19577)
+
+[Apple limits iTunes sharing to local networks](http://www.macnn.com/news/19576)
+
+[Apple's .Mac mail problems continue](http://www.macnn.com/news/19575)
+
+[Crucial debuts Gizmo! USB flash drive](http://www.macnn.com/news/19574)
+
+[Connectix updates Virtual PC 6.02 product](http://www.macnn.com/news/19573)
+
+[RealNetworks launches online music service](http://www.macnn.com/news/19572)
+
+[equinux launches VPN Tracker 2.0 for OS X](http://www.macnn.com/news/19571)
+
+[4D Business Kit 2.0 updated with new features](http://www.macnn.com/news/19570)
+
+[Nikon introduces 5.1MP Coolpix 5400](http://www.macnn.com/news/19569)
+
+[Apps: ABFCT, SignalScope, B-Card Composer...](http://www.macnn.com/news/19568)
+
+[Prototype IR receivers add-ons for iPods](http://www.macnn.com/news/19567)
+
+[Panic updates Transmit 2.5 ftp client](http://www.macnn.com/news/19566)
+
+[Apple Creation Workshops in Poland](http://www.macnn.com/news/19565)
+
+[Excel Software releases QuickHelp for Mac OS](http://www.macnn.com/news/19564)
+
+Desktop Headlines
