@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2002-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020413213423id_/http%3A//www.alloy.com/home/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2002-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021110235615id_/http%3A//www.alloy.com/home/privacystatement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Alloy
 
 **Alloy, Inc.**
 
