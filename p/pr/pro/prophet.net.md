@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618094032id_/http%3A//prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophet.net privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207181844id_/http%3A//prophet.net/forms/privacy.jsp) for the most accurate reproduction.*
 
 # Prophet.Net | Home | Privacy Policy
 
@@ -7,12 +7,14 @@
 |   
 ---  
   
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=33&CampaignID=161&AdvertiserID=40&BannerID=417&SiteID=0&RandomNumber=62616)
+[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=33&CampaignID=201&AdvertiserID=40&BannerID=557&SiteID=0&RandomNumber=11619)
 
 |  | 
 
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=34&CampaignID=109&AdvertiserID=29&BannerID=246&SiteID=0&RandomNumber=13275)  
+[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=34&CampaignID=177&AdvertiserID=55&BannerID=483&SiteID=0&RandomNumber=98845)  
   
+**Urgent _Natural Gas Crisis of 2004._ Get our top stock to buy now. [ Yours FREE.](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=66&CampaignID=203&AdvertiserID=58&BannerID=561&SiteID=0&RandomNumber=12059)**
+
 | 
 
 Prophet Financial Systems, Inc. ("Prophet") is firmly committed to preserving your privacy. We do not, except under certain limited conditions described below, sell or distribute personal information regarding our customers or visitors to our website to third parties, though we reserve the right to transfer our customer list and customer information in connection with a purchase of our company, or of the business relating to those customers, or a corporate merger or similar transaction. 
@@ -27,14 +29,14 @@ If you would like more information about this practice and to know your choices 
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Information contained in cookies utilized by banner ads are maintained by the advertiser, and we have no access to or control over this information. 
 
-Prophet has security measures in place to protect against the loss, misuse, and alteration of the information under our control. Prophet uses encryption and authentication tools to protect your information. Credit Card information is transmitted via a secure page (HTPPS protocol), and our databases are protected by one of the industry's top rated firewall technologies. No sensitive data is stored on the web server. 
+Prophet has security measures in place to protect against the loss, misuse, and alteration of the information under our control. Prophet uses encryption and authentication tools to protect your information. Credit Card information is transmitted via a secure page (HTTPS protocol), and our databases are protected by one of the industry's top rated firewall technologies. No sensitive data is stored on the web server. 
 
 This site gives users the following options for removing their information from our database; to not receive future communications; and to no longer receive our subscription-based services: 
 
   1. Send email to:  
 [Info@prophet.net](mailto:Info@prophet.net)
   2. Send mail to:  
-115 Everett Avenue  
+658 High Street  
 Palo Alto, CA 94301  
 
   3. Call:  
@@ -49,7 +51,7 @@ The fastest and easiest way to update your account!
   2. Send email to:  
 [Info@prophet.net](mailto:Info@prophet.net)
   3. Send mail to:  
-115 Everett Avenue  
+658 High Street  
 Palo Alto, CA 94301 
   4. Call:  
 1-650-322-4183 
@@ -59,12 +61,12 @@ Palo Alto, CA 94301
 If you have any questions about this privacy statement, the practices of this site, or your dealing with this web site, contact: 
 
 Prophet Financial Systems  
-115 Everett Street  
+658 High Street  
 Palo Alto, CA 94301 
 
 [Info@prophet.net](mailto:Info@prophet.net)
 
 |  | 
 
-[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=162&AdvertiserID=40&BannerID=425&SiteID=0&RandomNumber=63934)  
+[](http://streamer.prophetfinance.com/ads/banman.asp?Task=Click&ZoneID=50&CampaignID=200&AdvertiserID=40&BannerID=558&SiteID=0&RandomNumber=99284)  
 | 
