@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcodeworld.com privacy policy that was archived on 2004-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040203111347id_/http%3A//zipcodeworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcodeworld.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009152548id_/http%3A//www.zipcodeworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Commercial Zip Code and Postal Code Database - Privacy
 
