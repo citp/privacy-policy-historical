@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the henrico.k12.va.us privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613163257id_/http%3A//henrico.k12.va.us/privacy_statement.htm%23PRIVACY%2520STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.k12.va.us privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy & Disclaimer Statement
 
-[ [Home](https://web.archive.org/web/20010613163257id_/http%3A//henrico.k12.va.us/index.html) ] [ [Employment Opportunities](https://web.archive.org/web/20010613163257id_/http%3A//henrico.k12.va.us/HumanResources/Vacancies.html) ] [ [News Releases](https://web.archive.org/web/20010613163257id_/http%3A//henrico.k12.va.us/happening.html) ] [ [General Information](https://web.archive.org/web/20010613163257id_/http%3A//henrico.k12.va.us/GeneralInformation/index.html) ] [ [Instruction](https://web.archive.org/web/20010613163257id_/http%3A//henrico.k12.va.us/Instruction.html) ]
+[ [Home](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/index.html) ] [ [Employment Opportunities](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/HumanResources/Vacancies.html) ] [ [News Releases](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/happening.html) ] [ [General Information](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/GeneralInformation/index.html) ] [ [Instruction](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/Instruction.html) ]
 
   
 P. O. Box 23120  
