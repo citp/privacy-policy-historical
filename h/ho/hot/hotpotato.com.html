@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotpotato.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202032844id_/http%3A//byowner.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotpotato.com privacy policy that was archived on 2004-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604201940id_/http%3A//byowner.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>ByOwner.com 1-800-ByOwner</title>
@@ -76,7 +76,8 @@ MyWindow=window.open('http://www.fsbotips.com/cb/report_pop_kwood.html','MyWindo
 }
 
 function advanced_search() {
-var wasabi=window.open('/advancedsearch.asp',"stories",'height=300,width=400,scrollbars=yes,resizable=0,status=no,menubar=no');
+//var wasabi=window.open('/advancedsearch.asp',"stories",'height=300,width=400,scrollbars=yes,resizable=0,status=no,menubar=no');
+var wasabi=window.open("/advancedsearch.asp","stories","height=300,width=400,scrollbars=yes,resizable=0,status=no,menubar=no");
 }
 </script>
 <style>
@@ -110,25 +111,34 @@ function GoFetch() {
 var strOwf;
 var tv;
 window.navigate="/asearch.asp?areacode=" + document.af.areacode.value;
+//window.navigate="asearch.asp?areacode=" + document.af.areacode.value;
 }
+function advanced_search() {
+//var wasabi=window.open('/advancedsearch.asp',"stories",'height=300,width=400,scrollbars=yes,resizable=0,status=no,menubar=no');
+//alert("calling");
+var wasabi=window.open('/advancedsearch.asp',"stories",'height=300,width=400,scrollbars=yes,resizable=0,status=no,menubar=no');
+}
+
 </script>
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 	<tbody><tr>
 		<td><img src="/images/spacer3.gif"></td>
 		<td valign="top" align="center">
 <font face="Arial" size="1">
-Dec. 1, 2003<br>10:23:44 PM EST
+Jun. 4, 2004<br>4:10:30 PM EST
 
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#dddddd" width="120">
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#dddddd" width="130">
 	<tbody><tr>
-		<td colspan="3"><img src="/images/header-find.gif" width="120" height="17"></td>
+		<td colspan="3"><img src="/images/header-find.gif" width="130" height="17"></td>
 	</tr>
 	<form name="countree"></form>
 	<tr>
 		<td><font face="Arial" size="1">Country</font></td><td colspan="2"><select name="country" size="1" onchange="javascript:getout()"><!--style="font-size: xx-small; font-family: arial, helvetica, verdana;"-->
 		<option value="/">U.S.A.</option>
 		<option value="/ads/frames.asp?d=http://www.realestateguide.com.au/">AUS</option>
-		<option value="/ads/frames.asp?d=http://vrbo.com/vrbo/carib.htm">BAH</option>
+		
+<!--		<option value="/ads/frames.asp?d=http://vrbo.com/vrbo/carib.htm">BAH</option> -->
+		<option value="/ads/frames.asp?d=http://www.fsbobahamas.com">BAH</option>
 		<option value="/ads/frames.asp?d=http://www.forsalebyowner.ca">CAN</option>
 		<option value="/ads/frames.asp?d=http://www.1-2-c.com/">CAR</option>
 		<option value="/ads/frames.asp?d=http://www.ref.fr/">FRA</option>
@@ -174,12 +184,13 @@ Dec. 1, 2003<br>10:23:44 PM EST
 		<td align="center"><input type="image" src="/images/smallgo.gif" border="0"></td>
 	</tr>
 	<tr>
+	
 		<td colspan="3" align="center"><img src="/images/space.gif" height="7" width="1"><br><a href="javascript:advanced_search();"><font face="Arial" size="1"><u>Advanced Search</u></font></a><br><img src="/images/space.gif" height="7" width="1"></td>
 	</tr>
 </tbody></table>
 	</font></td></tr><tr>
 		<td></td>
-		<td colspan="2"><img src="/images/header-footer.gif" height="17" width="120"></td>
+		<td colspan="2"><img src="/images/header-footer.gif" height="17" width="130"></td>
 	</tr>
 </tbody></table>
 
@@ -194,7 +205,7 @@ Dec. 1, 2003<br>10:23:44 PM EST
 	</tr>
 	
 	<tr>
-		<td align="center"><img src="/images/header-services.gif" width="120" height="17"></td>
+		<td align="center"><img src="/images/header-services.gif" width="130" height="17"></td>
 	</tr>
 	<tr>
 		<td bgcolor="#000044"><img height="1" width="1" src="/images/spacer.gif"></td>
@@ -209,13 +220,52 @@ Dec. 1, 2003<br>10:23:44 PM EST
 		<td bgcolor="#dddddd">
 			<table border="0" cellpadding="5" cellspacing="0">
 				<tbody><tr> 
-					<td><font face="Arial" size="2" color="#000066">•<a href="javascript:ListNow();"><font color="red">List Now!</font></a><br>•<a href="http://www.byowner.com/sellmyhome/whybyowner.asp">Learn More</a><br>•<a href="/mls/">MLS Option</a><br>•<a href="/coach/picacoach.asp">Pic-a-Coach™ </a><br>
+					<td><font face="Arial" size="2" color="#000066">
+<!--					&#149;<a href="javascript:ListNow();"><font color='red'>List Now!</font></a><br>  -->
+					•<a href="http://www.byowner.com/listnow/listpopOutline.asp"><font color="red">List Now!</font></a><br>
+					•<a href="http://www.byowner.com/sellmyhome/whybyowner.asp">Learn More</a><br>
+					•<a href="/mls/">MLS Option</a><br>•<a href="/coach/picacoach.asp">Pic-a-Coach™ </a><br>
 					•<a href="http://www.byownerappraisal.com">Instant Appraisal</a><br>
-					•<a href="/testimonials/">Testimonials</a><br>•<a href="/sellers/">Edit Your Listing</a></font></td>
+					•<a href="/testimonials/">Testimonials</a><br>
+				<!--	&#149;<a href="http://www.byowner.com/listnow/listpopOutline.asp">Add Your Listing</a><br> -->
+					•<a href="http://www.byowner.com/sellers/">Edit Your Listing</a>
+
+					
+					</font>
+					</td>
 		        </tr>
 			</tbody></table>
 		</td>
 	</tr>
+
+
+	<tr>
+		<td bgcolor="#000044"><img height="1" width="1" src="/images/spacer.gif"></td>
+	</tr>
+	<tr height="18">
+		<td bgcolor="#F8DC0E" height="18"><font face="Arial" size="2"><b>&nbsp;&nbsp; Open Houses</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#000044"><img height="1" width="1" src="/images/spacer.gif"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#dddddd">
+			<table border="0" cellpadding="2" cellspacing="0">
+				<tbody><tr> 
+					<td width="115">
+					<font face="Arial" size="2" color="#000066">
+						•<a href="http://byowner.com/SearchDateStateFormat.asp">Search
+						&nbsp;&nbsp;
+						<img src="/images/balloons4.jpg" border="0" alt="Open House Search"> </a>
+					</font>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+
+
 	<tr>
 		<td bgcolor="#000044"><img height="1" width="1" src="/images/spacer.gif"></td>
 	</tr>
@@ -229,7 +279,14 @@ Dec. 1, 2003<br>10:23:44 PM EST
 		<td bgcolor="#dddddd">
 			<table border="0" cellpadding="2" cellspacing="0">
 				<tbody><tr> 
-					<td width="115"><font face="Arial" size="2" color="#000066">•<a href="/listingupdates/">Listing Updates</a><br>•<a href="/ads/redirect.asp?id=29">Find Foreclosures</a><br>•<a href="/mortgage/">Mortgage Info</a><br>•<a href="/ads/redirect.asp?id=31">Owner Financing</a><br></font></td>
+					<td width="115">
+					<font face="Arial" size="2" color="#000066">•
+					<a href="/listingupdates/">Listing Updates</a>
+					<br>•<a href="/ads/redirect.asp?id=29">Find Foreclosures</a>
+					<br>•<a href="/mortgage/">Mortgage Info</a>
+					<br>•<a href="/ads/redirect.asp?id=31">Owner Financing</a>
+					</font>
+					</td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -307,7 +364,7 @@ Dec. 1, 2003<br>10:23:44 PM EST
 		<td bgcolor="#dddddd"><font face="Arial" size="2" color="#000066">•<a href="/about/">About ByOwner</a><br>•<a href="/intro.asp">Flash Intro</a><br>•<a href="/ads/redirect.asp?id=35">FSBO Tips</a><br>•<a href="/privacy/">Privacy Policy</a><br>•<a href="/hq/">Our Headquarters</a><br>•<a href="/data/SRES_booklet.pdf">Seller Financing</a><br></font></td>
 	</tr>
 	<tr>
-		<td><img src="/images/header-footer.gif" width="120" height="17"></td>
+		<td><img src="/images/header-footer.gif" width="130" height="17"></td>
 	</tr>
 </tbody></table>
 		</td>
@@ -354,11 +411,11 @@ You, as a home seller, can change or omit your personal information and listing 
     </td><td valign="top" height="603"> 
      
 <div align="right">
-<table border="0" cellspacing="-&quot;0&quot;" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
 	<tbody><tr>
 		<td align="center">
 
-<table border="0" cellspacing="0" cellpadding="1">
+<table border="0" cellspacing="0" cellpadding="1" bgcolor="#ffffff">
 	<tbody><tr>
 		<td align="center"><font face="Arial" size="1"><a href="http://www.erealestatesecrets.com"><img src="/images/res2.gif" border="0"></a></font></td>
 	</tr>
@@ -366,18 +423,24 @@ You, as a home seller, can change or omit your personal information and listing 
 
 <div align="center">
 <font face="Arial" size="1">
+For buyers and sellers<br> 
+FSBO Tips<br>
+</font>
+<!-- I have Changed 
 For buyers and sellers<br>
 Real estate secrets<br><br>
+-->
 <table border="0" cellspacing="0" cellpadding="0" bordercolor="#009933" width="120">
 	<tbody><tr height="14">
-		<td height="14" align="center"><img src="/images/header-tip.gif" width="120" height="17"></td>
+		<td height="14" align="center" bgcolor="#ffffff"><img src="/images/header-tip.gif" width="120" height="17"></td>
 	</tr>
 	<tr height="15">
-		<td height="15" bgcolor="#dddddd">
+		<td height="15" bgcolor="#ffffff">
 			<table border="0" cellpadding="10" cellspacing="0">
 				<tbody><tr>
-					<td><font size="2" face="Arial">How Lenders Can Help You Sell Your Home Yourself
-					<br><a href="/tips/tips.asp?id=2"><u>Click here to read more.</u></a></font>
+					<td><font size="2" face="Arial">How to Create An Effective Property
+Flyer
+					<br><a href="/tips/tips.asp?id=6"><u>Click here to read more.</u></a></font>
 					</td>
 				</tr>
 			</tbody></table>
@@ -387,12 +450,12 @@ Real estate secrets<br><br>
 		<td height="15"><img src="/images/header-footer.gif"></td>
 	</tr>
 </tbody></table>
-<br><a href="/ads/redirect.asp?id=51"><img src="/ads/ab120x60animated.gif" border="0"></a><p><a href="/ads/redirect.asp?id=63"><img src="/ads/120fore.gif" border="0"></a></p></font><p><font face="Arial" size="1">
+<br><a href="/ads/redirect.asp?id=51"><img src="/ads/ab120x60animated.gif" border="0"></a><p><a href="/ads/redirect.asp?id=63"><img src="/ads/120fore.gif" border="0"></a></p><p>
 
 
 
 <img src="/images/space.gif" height="10" width="100%">
-<a href="/ads/redirect.asp?id=73">Vacation Rentals<br>By Owner</a></font>
+<b><a href="/ads/redirect.asp?id=73" style="font-family:arial;font-size:10pt">Rentals<br>By Owner</a></b>
 </p></div>
 
 		</td>
@@ -426,7 +489,7 @@ Real estate secrets<br><br>
 <area alt="" coords="297,44,343,0" href="https://www.paypal.com/verified/pal=paypal%40byowner.com" target="_blank">
 </map>
 <img src="/images/cardz.gif" width="343" height="45" border="0" usemap="#pmap">
-<br><a href="http://www.wellsfargo.com/"><img src="/images/ew.gif" border="0"></a> Copyright Š BYOWNER.COM. All Rights Reserved.</font>
+<br><a href="http://www.wellsfargo.com/"><img src="/images/ew.gif" border="0"></a> Copyright © BYOWNER.COM. All Rights Reserved.</font>
 </div>
     
 	&nbsp;
