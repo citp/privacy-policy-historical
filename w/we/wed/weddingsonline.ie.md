@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055825id_/http%3A//www.weddingsonline.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204182245id_/http%3A//www.weddingsonline.ie/privacy) for the most accurate reproduction.*
 
-# WeddingsOnline.ie - Privacy Policy
+# WeddingsOnline.ie - Privacy Policy - Weddings in Ireland, Irish Wedding Directory, Wedding Resources Ireland, Getting Married in Ireland
+
+## Privacy Policy
 
 WeddingsOnline.ie is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. We encourage you to read our policy, , to understand what types of personal information we collect and how this information is used.
 
@@ -18,7 +20,7 @@ WeddingsOnline.ie and its partners frequently sponsor contests to give you the o
 **Chat rooms, forums, message boards, and/or news groups.**  
 We make chat rooms, forums, message boards, and/or news groups available to you. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
 
-#### With whom your information is shared and how it is used
+### With whom your information is shared and how it is used
 
 When you provide information to WeddingsOnline.ie, the information is stored in our databases, such information is used by WeddingsOnline.ie in accordance with this Privacy Policy. Information we collect is used to tailor your experience at our site (including the creation of an online bridal registry), to show you content that we think you might be interested in, and to display the content according to your preferences. We also use such personal information to send you information and promotional materials. Your contact information may also be used if it becomes necessary to contact you.
 
@@ -28,6 +30,6 @@ Any information we collect may be shared with advertisers on an aggregate basis.
 
 In addition to the circumstances described above, we may disclose your information if required to do so by law, court order, as requested by other government or law enforcement authorities, or in the good faith belief that disclosure is otherwise necessary or advisable, including (without limitation) when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
 
-#### What choices you have over the collection and use of your information
+### What choices you have over the collection and use of your information
 
 As a user, customer, or contest entrant you will occasionally receive e-mail updates from us about important functionality changes, special offers from us and our partners, new WeddingsOnline.ie services and other noteworthy news items about us and our partners. We hope you will find these updates interesting and informative. Of course, if you would rather not receive them, just let us know by replying to one of the e-mails with "Remove" in the body of the e-mail or let our partners know by following their instructions. Our site also provides you the opportunity to opt-out of receiving such communications from us at the point where we request information from you. In other words, if you don't want us to send you e-mails about our business, just let us know. WeddingsOnline.ie reserves the right to limit registration to those who will accept emails and to those who will provide the requested information.
