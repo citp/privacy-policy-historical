@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbay.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031075424id_/http%3A//wbay.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbay.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201225257id_/http%3A//wbay.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Station’s Privacy Policy
 
