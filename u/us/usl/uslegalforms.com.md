@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uslegalforms.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218005748id_/http%3A//www.uslegalforms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uslegalforms.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408223430id_/http%3A//www.uslegalforms.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@
 > 
 > **Privacy of our email lists:**
 >
->> USLF maintains several email lists to keep users informed about the site. Users may join lists.  USLF does not sell, rent, loan, trade, or lease the addresses on our list to anyone.
+>> USLF maintains a customer email list to keep customers informed about the site. Customers may request to be removed from the customer update list.  Customers will receive no more than three updates per year. USLF does not sell, rent, loan, trade, or lease the addresses on other list to anyone.
