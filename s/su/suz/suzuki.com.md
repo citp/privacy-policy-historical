@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzuki.com privacy policy that was archived on 2000-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001219210000id_/http%3A//www.suzuki.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzuki.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216004036id_/http%3A//www.suzuki.com/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
