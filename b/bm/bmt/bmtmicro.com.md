@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202173527id_/http%3A//www.bmtmicro.com/support/misc_forms/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619015342id_/http%3A//www.bmtmicro.com/support/misc_forms/PrivacyStatement.html) for the most accurate reproduction.*
 
-# BMT Micro Windows Catalog: Business Applications
+# BMT Micro Privacy Statement
 
 **Forward:**
 
@@ -12,7 +12,7 @@ BMT Micro, Inc. does not sell or rent your personal information in any capacity 
 
 **Security:**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control, including secure socket layer (SSL) certificates for online credit card payment and password-protected access to our databases. We also offer convenient toll free ordering (including toll free fax) as well as toll numbers for non-US callers if you simply do not want to put your information on the web.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control, including secure socket layer (SSL) certificates provided by [thawte](http://www.thawte.com/) for online credit card payment and password-protected access to our databases. We also offer convenient [toll free ordering](http://www.bmtmicro.com/BMTInfo_OrderingOptions.html) (including toll free fax) as well as toll numbers for non-US callers if you simply do not want to put your information on the web.
 
 As we sell almost 2000 products, we have over 1000 links to other sites for you to learn more about the products we sell. Understandably, we cannot be responsible for the privacy policies for sites that are not under our control. This is an area overlooked by most consumers and often is swept under the rug.
 
