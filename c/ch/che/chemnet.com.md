@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemnet.com privacy policy that was archived on 2003-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030201162825id_/http%3A//www.chemnet.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemnet.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603193656id_/http%3A//www.chemnet.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # Chemical Network
 
