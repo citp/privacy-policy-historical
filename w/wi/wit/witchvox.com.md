@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the witchvox.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610024615id_/http%3A//www.witchvox.com/wotw/wotw_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witchvox.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207125850id_/http%3A//www.witchvox.com/wotw/wotw_privacy.html) for the most accurate reproduction.*
 
 # WOTW - The Witches' Voice Privacy & Security Policies
 
@@ -45,7 +45,7 @@ Protecting the online privacy of the very young is especially important. For tha
 **How To Review, Update, Or Delete:**  
 Information submitted through the Witches' Voice submission forms can be later updated or deleted using the submission form index ([www.witchvox.com/xforms.html](http://www.witchvox.com/xforms.html)). To later review such information, simply view your post once it goes online (usually within 24 hours). If you delete a listing, you will also be removed from the verification email list (the occasional emails we send out to verify the accuracy of email and Web site links).
 
-All other personally identifiable information that may be maintained in a retrievable form can be later reviewed, updated, or deleted by writing to: [workerbeeez@witchvox.com](mailto:workerbeeez@witchvox.com). For security reasons, the Witches' Voice will only act on such requests when they are received from the original submitter's email account.
+All other personally identifiable information that may be maintained in a retrievable form can be later reviewed, updated, or deleted by emailing us (see our [ Staff Contact Page ](http://www.witchvox.com/twv/contactus.html) for contact info). For security reasons, the Witches' Voice will only act on such requests when they are received from the original submitter's email account.
 
 **How This Information Is Secured:**  
 The Witches' Voice employs stringent electronic, physical, and managerial procedures to maintain the security and integrity of information. Access to online information is limited to authorized individuals, adequate training has been provided, and all Witches' Voice personnel are bound to uphold these privacy and security policies.
