@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntlworld.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205233500id_/http%3A//www.ntlworld.com/legals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntlworld.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603021437id_/http%3A//www.ntlworld.com/legals/privacy.htm) for the most accurate reproduction.*
 
 # privacy statement
 
