@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024072504id_/http%3A//www.practicalfishkeeping.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602141907id_/http%3A//www.practicalfishkeeping.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # PracticalFishkeeping.co.uk
 
