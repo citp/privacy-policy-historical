@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408083829id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210160745id_/http%3A//www.fcc.gov/webpolicies.html) for the most accurate reproduction.*
 
 # FCC Web Site Policies, Privacy Statement and Notices
 
@@ -7,7 +7,7 @@ FCC Web Site Policies
 
 Customer Service Standards 
 
-You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20020408083829id_/http%3A//www.fcc.gov/css.html) when interacting with us.
+You will always be treated with courtesy and can expect these [Standards of Customer Service](https://web.archive.org/web/20021210160745id_/http%3A//www.fcc.gov/css.html) when interacting with us.
 
   
 
@@ -19,7 +19,18 @@ This Internet site contains hypertext links to information created and maintaine
   
 
 
-You are entering an official United States Government System, which may be used only for authorized purposes. Unauthorized modification of any information on this system may result in criminal prosecution. The Government may monitor or audit the usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing.
+Freedom of Information Act 
+
+The Freedom of Information Act, commonly known as the FOIA, ([5 U.S.C. § 552](https://web.archive.org/fcc-bin/bye?http://www.usdoj.gov/04foia/foiastat.htm)), was enacted by Congress in 1966 to give the American public greater access to the Federal Government's records. Congress has since expanded the scope of the FOIA to encompass electronic records. However, you do not have to file a FOIA request to obtain information which is routinely available for public inspection, including records from docketed cases, broadcast applications and related files, petitions for rulemakings, various legal and technical publications, legislative history compilations, etc. _See_ 47 C.F.R. §§ 0.453 and 0.455. Much of this information is available on our website. Visit the [FCC FOIA Home Page](http://www.fcc.gov/foia/) for an informal explanation of the FOIA process at the FCC.
+
+  
+
+
+Information Quality Guidelines & Notice 
+
+The FCC is dedicated to ensuring that all data it disseminates reflect a level of quality commensurate with the nature and timeliness of the information. Futher, the FCC seeks to disseminate all its data as broadly and promptly as possible so that the public can benefit from the FCC's work of ensuring vital and innovative communication services are available to all Americans at reasonable prices. In keeping with this commitment, and in accordance with OMB requirements, the FCC has developed Information Quality Guidelines and provides the public the opportunity to [comment](http://www.fcc.gov/omd/dataquality/complaint/) if those guidelines are not followed."
+
+The FCC makes every effort to insure that the information on this website is accurate. There may, however, be recent rule changes that have not yet been posted to the website or inadvertent errors in the content. The FCC will promptly modify the website information to ensure that the information posted is current, or to correct errors in content brought to the Commission's attention. In the event there is any conflict between information posted on this website and the Commission's rules, the rules shall prevail.
 
   
 
@@ -37,6 +48,4 @@ The FCC provides numerous online software programs that support the Universal Li
   
 
 
-Freedom of Information Act 
-
-The Freedom of Information Act, commonly known as the FOIA, ([5 U.S.C. § 552](https://web.archive.org/fcc-bin/bye?http://www.usdoj.gov/04foia/foiastat.htm)), was enacted by Congress in 1966 to give the American public greater access to the Federal Government's records. Congress has since expanded the scope of the FOIA to encompass electronic records. However, you do not have to file a FOIA request to obtain information which is routinely available for public inspection, including records from docketed cases, broadcast applications and related files, petitions for rulemakings, various legal and technical publications, legislative history compilations, etc. _See_ 47 C.F.R. §§ 0.453 and 0.455. Much of this information is available on our website. Visit the [FCC FOIA Home Page](http://www.fcc.gov/foia/) for an informal explanation of the FOIA process at the FCC.
+You are entering an official United States Government System, which may be used only for authorized purposes. Unauthorized modification of any information on this system may result in criminal prosecution. The Government may monitor or audit the usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing.
