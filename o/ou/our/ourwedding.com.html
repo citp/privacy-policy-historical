@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ourwedding.com privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604071008id_/http%3A//www.weddingchannel.com/cgi-bin/gx.cgi/AppLogic%2Bcom.wc.Utility.NavBarForStaticHTML%3Flocation%3D%252Ftemplates%252FShopping%252Fhtml%252FPrivacyPolicy.html%26frmSection%3Dhomeentrypage) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ourwedding.com privacy policy that was archived on 2002-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021202090233id_/http%3A//www.weddingchannel.com/cgi-bin/gx.cgi/AppLogic%2Bcom.wc.Utility.NavBarForStaticHTML%3Flocation%3D%252Ftemplates%252FShopping%252Fhtml%252FPrivacyPolicy.html%26frmSection%3Dhomeentrypage) for the most accurate reproduction.-->
 
 <html><head><title>Customer Service</title>
 <script type="text/javascript">
@@ -23,19 +23,19 @@ function jumpToLocal(category) {
 	var allcookies = document.cookie;
 
 	var pos = allcookies.indexOf("LBD%5FLOCATION%5FCOOKIE=");
-	
+
 	if (pos != -1) {
 		var start = pos + 24;
 		var end = allcookies.indexOf(";", start);
 		if (end == -1)
 			end = allcookies.length;
 		var LBD_cookie = allcookies.substring(start, end);
-		
-		
-						
-		window.location = "http://wedding.weddingchannel.com/local/featured_vendor_result.asp?category="+ category + "&search_type=regional&" + LBD_cookie;
+
+
+
+		window.location = "http://wedding.weddingchannel.com/local/featured_vendor_result.asp?category="+ category + "&ruid=&vuid=&search_type=regional&" + LBD_cookie;
 	} else {
-		window.open("http://wedding.weddingchannel.com/local/search_area.asp?category=" + category, "_popup", "width=379,height=362"); 
+		window.open("http://wedding.weddingchannel.com/local/search_area.asp?category=" + category, "_popup", "width=379,height=270");
 	}
 }
 //--></script>
@@ -87,52 +87,35 @@ function spring()
 <center>
  
 
-
-	
-	<script type="text/javascript">var g_strPopMenuGraphicsDir = "http://images.della.com/images/wc/newnav/";</script>
-	
+<script type="text/javascript">var g_strPopMenuGraphicsDir = "http://images.della.com/images/wc/newnav/";</script>
 	
 <script language="JavaScript1.2" src="http://images.della.com/images/utility/newnav.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-<!--
-var nsSpace = "";
-if (navigator.appName.indexOf('Netscape') != -1) {
-	if (navigator.userAgent.indexOf('Mac') != -1) {
-		nsSpace = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"; 
-	} else {
-		nsSpace = "&nbsp;&nbsp;&nbsp;&nbsp;"; 
-	}
-}
-// -->
-</script>
-  
-
 <!-- begin menu.js -->
 <script language="JavaScript1.2" type="text/javascript">
 	var PlanTopNav=createPopMenu("planning","http://wedding.weddingchannel.com/pg/pl_home.asp");
-	PlanTopNav.addPopMenuItem("invitations", "/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?frmSection=invitations&location=%2Ftemplates%2FInvitations%2Findex.html");
-	PlanTopNav.addPopMenuItem("flowers", "/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?frmSection=none&location=%2ftemplates%2fLocalBusiness%2fFlowers%2fFP.html");
+	PlanTopNav.addPopMenuItem("invitations", "/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?location=/templates/Invitations/index.html");
+	PlanTopNav.addPopMenuItem("flowers", "http://wedding.weddingchannel.com/contentsets/flowers/flowers_home.asp");
 	PlanTopNav.addPopMenuItem("honeymoons", "http://wedding.weddingchannel.com/travel/travelhome.asp");
-	PlanTopNav.addPopMenuItem("money matters", "/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?frmSection=none&location=%2Ftemplates%2FFinance%2FFH.html");
+	PlanTopNav.addPopMenuItem("money matters", "/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?location=/templates/Finance/FH.html");
 	PlanTopNav.addPopMenuItem("and more...", "http://wedding.weddingchannel.com/pg/pl_home.asp");
 	PlanTopNav.setPopMenuWidth(110);
 	
 
 	var YourOrgTopNav=createPopMenu("your organizer","http://wedding.weddingchannel.com/your_account/home.asp");
 	YourOrgTopNav.addPopMenuItem("wedding website","http://wedding.weddingchannel.com/pwp/ww_sell.asp");
-	YourOrgTopNav.addPopMenuItem("planning calendar","/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?location=%2Ftemplates%2FCreateAccount%2Fhtml%2FSampleCalendar.html&frmSection=calendar");
-	YourOrgTopNav.addPopMenuItem("address book","/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?location=%2Ftemplates%2FCreateAccount%2Fhtml%2FSampleAddress.html&frmSection=ourwedding");
-	YourOrgTopNav.addPopMenuItem("guest list manager","/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?location=%2Ftemplates%2FCreateAccount%2Fhtml%2FSampleGM.html&frmSection=ourwedding");
+	YourOrgTopNav.addPopMenuItem("scrapbook","http://wedding.weddingchannel.com/scrapbook/scrapbook.asp");
+	YourOrgTopNav.addPopMenuItem("budget calculator","http://wedding.weddingchannel.com/frame/framed.asp?frameURL=http://boards2.weddingchannel.com/WC2/Budget/");
+	YourOrgTopNav.addPopMenuItem("address book","/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?location=/templates/CreateAccount/html/SampleAddress.html");
+	YourOrgTopNav.addPopMenuItem("guest list manager","/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?location=/templates/CreateAccount/html/SampleGM.html");
 	YourOrgTopNav.addPopMenuItem("your registry","http://wedding.weddingchannel.com/registry/home.asp");
 	
 	YourOrgTopNav.setPopMenuWidth(130);
 	
 	var FashTopNav=createPopMenu("fashion","http://wedding.weddingchannel.com/fashion/fashionindex.asp");
 	FashTopNav.addPopMenuItem("gown search","http://wedding.weddingchannel.com/fashion/gown_bride.asp");
-	FashTopNav.addPopMenuItem("beauty","http://wedding.weddingchannel.com/fashion/beautyhome.asp");
+	FashTopNav.addPopMenuItem("beauty & hair styles","http://wedding.weddingchannel.com/fashion/beautyhome.asp");
 	FashTopNav.addPopMenuItem("health and fitness","http://wedding.weddingchannel.com/fashion/HealthFitness/home.asp");
-	FashTopNav.setPopMenuWidth(130);
+	FashTopNav.setPopMenuWidth(135);
 	
 	var JewelryTopNav=createPopMenu("jewelry","http://wedding.weddingchannel.com/jewelry/home.asp");
 	JewelryTopNav.addPopMenuItem("engagement rings","http://wedding.weddingchannel.com/jewelry/EngRings/engrings_home.asp");
@@ -172,6 +155,8 @@ if (navigator.appName.indexOf('Netscape') != -1) {
 </script>
 <!-- end menu.js -->	
 
+
+
 <!-- begin menubar.js -->
 <script language="JavaScript1.2" type="text/javascript">	
 	var PlanTopNav2=MenuBar.addMenuBarItem("Planning","http://wedding.weddingchannel.com/pg/pl_home.asp");
@@ -210,102 +195,115 @@ if (navigator.appName.indexOf('Netscape') != -1) {
 	TravelTopNav2.setPopMenu(TravelTopNav);
 	
     var LocVenTopNav2=MenuBar.addMenuBarItem("Local Vendors","http://wedding.weddingchannel.com/local/local_home.asp");
-	LocVenTopNav2.setImageOn("http://images.della.com/images/wc/newnav/nav-locven-on.gif");
-	LocVenTopNav2.setImageOff("http://images.della.com/images/wc/newnav/nav-locven-off.gif");
+	LocVenTopNav2.setImageOn("http://images.della.com/images/wc/newnav/nav-locser-on.gif");
+	LocVenTopNav2.setImageOff("http://images.della.com/images/wc/newnav/nav-locser-off.gif");
 	LocVenTopNav2.setPopMenu(LocVenTopNav);
 </script>
 <!-- end menubar.js -->
-            
-<!-- NavBar Outer Table --> 
+
 <table align="center" width="770" cellspacing="0" cellpadding="0" border="0">
 
 	<!-- clr.gif & ping -->
 	<tbody><tr>
-		<td bgcolor="#999999" colspan="4"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="1" height="1" border="0"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="1" height="1"></td>
+		<td bgcolor="#999999" colspan="4"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="1" height="1"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="1" height="1"></td>
 	</tr>
 
 	<!-- formatting row -->
 	<tr>
-		<td width="1" rowspan="4" bgcolor="#999999"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="1" height="1" border="0"></td>
-		<td bgcolor="#F9F9EF" colspan="2"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="768" height="1" border="0"></td>
-		<td width="1" rowspan="4" bgcolor="#999999"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="1" height="1" border="0"></td>
+		<td width="1" rowspan="3" bgcolor="#999999"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="1" height="1"></td>
+		<td bgcolor="#F9F9EF" colspan="2"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="768" height="1"></td>
+		<td width="1" rowspan="3" bgcolor="#999999"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="1" height="1"></td>
 	</tr>
 
 	<!-- logo, guest & bride links --> 
 	<tr>
 		<td bgcolor="#F9F9EF" valign="bottom">
 			<table cellspacing="0" cellpadding="0" border="0">
-			 <tbody><tr><td valign="bottom"><a target="_top" href="http://www.weddingchannel.com"><img src="http://images.della.com/images/general_images/new_logo.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="265" height="30" border="0" hspace="8" vspace="4"></a></td>	
-			    <td rowspan="4" align="left" valign="bottom">&nbsp;</td></tr>
-			<tr>
-			
-			<td><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="18" height="1" border="0"><a target="_top" href="http://wedding.weddingchannel.com/login/bride_home.asp?pageidoverride=bride"><img src="http://images.della.com/images/general_images/b_g_on_tab.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="107" height="16" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/login/guest_home.asp?pageidoverride=guest"><img src="http://images.della.com/images/general_images/g_off_tab.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="107" height="16" border="0"></a></td>
-			</tr></tbody></table>
+				<tbody><tr>
+					<td valign="bottom"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="325" height="1"><br><a target="_top" href="http://www.weddingchannel.com"><img src="http://images.della.com/images/general_images/new_logo.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="265" height="30" border="0" hspace="8" vspace="4"></a></td>	
+					<td rowspan="2" align="center" id="smNoColor"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="180" height="1"></td>
+				</tr>
+				<tr>
+					<td><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="18" height="1"><a target="_top" href="http://wedding.weddingchannel.com/login/bride_home.asp?pageidoverride=bride"><img src="http://images.della.com/images/general_images/b_g_on_tab.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="107" height="16" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/login/guest_home.asp?pageidoverride=guest"><img src="http://images.della.com/images/general_images/g_off_tab.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="107" height="16" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/newlywed/home.asp?pageidoverride=newlywed"><img src="http://images.della.com/images/wc/newnav/nw_tab_off.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="91" height="16" border="0"></a></td>
+				</tr>
+			</tbody></table>
 		</td>
 		<td bgcolor="#F9F9EF" align="right" valign="bottom">
-
-		<!-- bride/groom name, wedd. date, link 2 wedd. webpg. -->
-				
-			<br clear="all">	
-
-			<!--home/login/shoppgbg/yraccount linx-->
-
 			<table align="right" cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr>
-				<td></td>
-		    	<td valign="middle" nowrap="" id="sm"><a target="_top" href="http://www.weddingchannel.com"><font color="#3366CC">home</font></a> |&nbsp;<a target="_top" href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?location=%2Ftemplates%2Fazindex%2Fazindex.html"><font color="#3366CC">a - z index</font></a> |&nbsp;<a target="_top" href="http://wedding.weddingchannel.com/login/login.asp?pageid=bride"><font color="#BB3002">log in</font></a> 
-		    
-		   			|</td>
-					
-					
-					
-					
-					
-		    	<td valign="top">&nbsp;<a target="_top" href="http://wedding.weddingchannel.com/search_purchase/shopping_bag_redirector.asp"><img src="http://images.della.com/images/general_images/bag.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="13" height="15" border="0"></a>&nbsp;</td>
-		    	<td nowrap="" valign="middle" id="sm"><a target="_top" href="http://wedding.weddingchannel.com/search_purchase/shopping_bag_redirector.asp"><font color="#3366CC">shopping bag</font></a> &nbsp;</td>
+					<td valign="middle" nowrap="" id="sm"><a target="_top" href="http://wedding.weddingchannel.com/login/login.asp?pageid=bride&amp;disr=true"><font color="#BB3002"><b>log in</b></font></a> |</td>
+					<td valign="top">&nbsp;<a target="_top" href="http://wedding.weddingchannel.com/search_purchase/shopping_bag_redirector.asp"><img src="http://images.della.com/images/general_images/bag.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="13" height="15" border="0"></a>&nbsp;</td>
+					<td nowrap="" valign="middle" id="sm"><a target="_top" href="http://wedding.weddingchannel.com/search_purchase/shopping_bag_redirector.asp"><font color="#3366CC">shopping bag</font></a> &nbsp;</td>
+				</tr>
+			</tbody></table>
+			<br clear="all">
+			<table align="right" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td colspan="3"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="1" height="5"></td>
+				</tr>
+				<tr><form target="_top" action="http://wedding.weddingchannel.com/azIndex/search.asp" method="post"></form><input name="GXHC_uid" type="HIDDEN" value="2175760082"><input name="GXHC_SHAREDSESSION" type="HIDDEN" value="DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false"><input name="GXHC_gx_session_id_wc" type="HIDDEN" value="3a5ce6affd09dc03">
+					<td nowrap="" class="menubar"><font color="#3366cc"><b>Search:</b></font>&nbsp;<input type="text" id="smallfont" name="query" size="10">&nbsp;</td>
+					<td><input type="image" src="http://images.della.com/images/wc/newnav/nav_go.gif" width="21" height="14" border="0"></td>
+					<td nowrap="" valign="bottom" class="menubar">&nbsp;<a target="_top" href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?location=/templates/azindex/azindex.html"><font color="#3366CC">a - z index</font></a> &nbsp;<br><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="1" height="5"></td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" width="1" height="3"></td>
 				</tr>
 			</tbody></table></td>
 	</tr>
 	<tr align="center">
-	<td colspan="2" width="770" valign="bottom">
-	<script language="Javascript1.2">
-	if ((navigator.appName == "Microsoft Internet Explorer" && navigator.platform.indexOf("MacPPC") != -1) || (navigator.appName == "Netscape")) {
-		document.write('<table border=0 cellspacing=0 cellpadding=0>');
-			document.write('<tr><td bgcolor=#9999CC colspan=15><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&GXHC_SHAREDSESSION=DIVID=1&SUID=0&ACCOUNTID=-1&COUPLEID=0&PAGEID=bride&BAG_IS_DIRTY=false&GXHC_gx_session_id_wc=6addafeb129c04c2" width=1 height=2 border=0></td></tr>');
-			document.write('<tr align=center>');
-				document.write('<td nowrap width=80 bgcolor=#efefff><a class=navtext target="_top" href="http://wedding.weddingchannel.com/pg/pl_home.asp"><font color=#42419c>' + nsSpace + 'planning' + nsSpace + '</font></a></td>');
-				document.write('<td bgcolor=#9999CC><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&GXHC_SHAREDSESSION=DIVID=1&SUID=0&ACCOUNTID=-1&COUPLEID=0&PAGEID=bride&BAG_IS_DIRTY=false&GXHC_gx_session_id_wc=6addafeb129c04c2" width=2 height=15 border=0></td>');
-				document.write('<td nowrap width=120 bgcolor=#efefff><a class=navtext target="_top" href="http://wedding.weddingchannel.com/your_account/home.asp"><font color=#42419c>your organizer</font></a></td>');
-				document.write('<td bgcolor=#9999CC><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&GXHC_SHAREDSESSION=DIVID=1&SUID=0&ACCOUNTID=-1&COUPLEID=0&PAGEID=bride&BAG_IS_DIRTY=false&GXHC_gx_session_id_wc=6addafeb129c04c2" width=2 height=15 border=0></td>');
-				document.write('<td width=80 bgcolor=#efefff><a class=navtext target="_top" href="http://wedding.weddingchannel.com/fashion/fashionindex.asp"><font color=#42419c>' + nsSpace + 'fashion' + nsSpace + '</font></a></td>');
-				document.write('<td bgcolor=#9999CC><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&GXHC_SHAREDSESSION=DIVID=1&SUID=0&ACCOUNTID=-1&COUPLEID=0&PAGEID=bride&BAG_IS_DIRTY=false&GXHC_gx_session_id_wc=6addafeb129c04c2" width=2 height=15 border=0></td>');
-				document.write('<td width=80 bgcolor=#efefff><a class=navtext target="_top" href="http://wedding.weddingchannel.com/jewelry/home.asp"><font color=#42419c>' + nsSpace + 'jewelry' + nsSpace + '</font></a></td>');
-				document.write('<td bgcolor=#9999CC><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&GXHC_SHAREDSESSION=DIVID=1&SUID=0&ACCOUNTID=-1&COUPLEID=0&PAGEID=bride&BAG_IS_DIRTY=false&GXHC_gx_session_id_wc=6addafeb129c04c2" width=2 height=15 border=0></td>');
-				document.write('<td width=80 bgcolor=#efefff><a class=navtext target="_top" href="http://wedding.weddingchannel.com/registry/home.asp"><font color=#42419c>' + nsSpace + 'registry' + nsSpace + '</font></a></td>');
-				document.write('<td bgcolor=#9999CC><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&GXHC_SHAREDSESSION=DIVID=1&SUID=0&ACCOUNTID=-1&COUPLEID=0&PAGEID=bride&BAG_IS_DIRTY=false&GXHC_gx_session_id_wc=6addafeb129c04c2" width=2 height=15 border=0></td>');
-				document.write('<td nowrap width=115 bgcolor=#efefff><a class=navtext target="_top" href="http://wedding.weddingchannel.com/wedd_shop/shop_home.asp"><font color=#42419c>wedding shop</font></a></td>');
-				document.write('<td bgcolor=#9999CC><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&GXHC_SHAREDSESSION=DIVID=1&SUID=0&ACCOUNTID=-1&COUPLEID=0&PAGEID=bride&BAG_IS_DIRTY=false&GXHC_gx_session_id_wc=6addafeb129c04c2" width=2 height=15 border=0></td>');
-				document.write('<td width=100 bgcolor=#efefff><a class=navtext target="_top" href="http://wedding.weddingchannel.com/travel/travelhome.asp"><font color=#42419c>' + nsSpace + 'honeymoon' + nsSpace + '</font></a></td>');
-				document.write('<td bgcolor=#9999CC><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&GXHC_SHAREDSESSION=DIVID=1&SUID=0&ACCOUNTID=-1&COUPLEID=0&PAGEID=bride&BAG_IS_DIRTY=false&GXHC_gx_session_id_wc=6addafeb129c04c2" width=2 height=15 border=0></td>');
-				document.write('<td nowrap width=122 bgcolor=#efefff><a class=navtext target="_top" href="http://wedding.weddingchannel.com/local/local_home.asp"><font color=#42419c>local vendors</font></a></td>');
-			document.write('</tr><tr>');
-				document.write('<td bgcolor=#9999CC colspan=15><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&GXHC_SHAREDSESSION=DIVID=1&SUID=0&ACCOUNTID=-1&COUPLEID=0&PAGEID=bride&BAG_IS_DIRTY=false&GXHC_gx_session_id_wc=6addafeb129c04c2" width=1 height=2 border=0></td>');
-			document.write('</tr></table></td></tr>');
-	} else {
-		var Side="Bride";
-		initMenuBar();
-		document.write('</td></tr>');
-	}
-	</script><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#9999CC" colspan="15"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="1" height="2" border="0"></td></tr><tr align="center"><td nowrap="" width="80" bgcolor="#efefff"><a class="navtext" target="_top" href="http://wedding.weddingchannel.com/pg/pl_home.asp"><font color="#42419c">&nbsp;&nbsp;&nbsp;&nbsp;planning&nbsp;&nbsp;&nbsp;&nbsp;</font></a></td><td bgcolor="#9999CC"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="2" height="15" border="0"></td><td nowrap="" width="120" bgcolor="#efefff"><a class="navtext" target="_top" href="http://wedding.weddingchannel.com/your_account/home.asp"><font color="#42419c">your organizer</font></a></td><td bgcolor="#9999CC"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="2" height="15" border="0"></td><td width="80" bgcolor="#efefff"><a class="navtext" target="_top" href="http://wedding.weddingchannel.com/fashion/fashionindex.asp"><font color="#42419c">&nbsp;&nbsp;&nbsp;&nbsp;fashion&nbsp;&nbsp;&nbsp;&nbsp;</font></a></td><td bgcolor="#9999CC"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="2" height="15" border="0"></td><td width="80" bgcolor="#efefff"><a class="navtext" target="_top" href="http://wedding.weddingchannel.com/jewelry/home.asp"><font color="#42419c">&nbsp;&nbsp;&nbsp;&nbsp;jewelry&nbsp;&nbsp;&nbsp;&nbsp;</font></a></td><td bgcolor="#9999CC"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="2" height="15" border="0"></td><td width="80" bgcolor="#efefff"><a class="navtext" target="_top" href="http://wedding.weddingchannel.com/registry/home.asp"><font color="#42419c">&nbsp;&nbsp;&nbsp;&nbsp;registry&nbsp;&nbsp;&nbsp;&nbsp;</font></a></td><td bgcolor="#9999CC"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="2" height="15" border="0"></td><td nowrap="" width="115" bgcolor="#efefff"><a class="navtext" target="_top" href="http://wedding.weddingchannel.com/wedd_shop/shop_home.asp"><font color="#42419c">wedding shop</font></a></td><td bgcolor="#9999CC"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="2" height="15" border="0"></td><td width="100" bgcolor="#efefff"><a class="navtext" target="_top" href="http://wedding.weddingchannel.com/travel/travelhome.asp"><font color="#42419c">&nbsp;&nbsp;&nbsp;&nbsp;honeymoon&nbsp;&nbsp;&nbsp;&nbsp;</font></a></td><td bgcolor="#9999CC"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="2" height="15" border="0"></td><td nowrap="" width="122" bgcolor="#efefff"><a class="navtext" target="_top" href="http://wedding.weddingchannel.com/local/local_home.asp"><font color="#42419c">local vendors</font></a></td></tr><tr><td bgcolor="#9999CC" colspan="15"><img src="http://images.della.com/images/clr.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" width="1" height="2" border="0"></td></tr></tbody></table></td></tr>
+<script language="Javascript1.2">
+document.write('<td colspan=2 width=768 valign=bottom>');	//	Start the TD
+if ((navigator.appName == "Microsoft Internet Explorer" && navigator.platform.indexOf("MacPPC") != -1) || (navigator.appName == "Netscape")) {
+	var imgDir = "http://images.della.com/images/wc/newnav/";
+	var images = new Array(8);
+	images[0] = new Image();
+	images[0].src = imgDir + "nav-plan-on.gif";
+	images[1] = new Image();
+	images[1].src = imgDir + "nav-your_org-on.gif";
+	images[2] = new Image();
+	images[2].src = imgDir + "nav-fash-on.gif";
+	images[3] = new Image();
+	images[3].src = imgDir + "nav-jewel-on.gif";
+	images[4] = new Image();
+	images[4].src = imgDir + "nav-registry-on.gif";
+	images[5] = new Image();
+	images[5].src = imgDir + "nav-wedshop-on.gif";
+	images[6] = new Image();
+	images[6].src = imgDir + "nav-honeymoon-on.gif";
+	images[7] = new Image();
+	images[7].src = imgDir + "nav-locser-on.gif";
+document.write("<a target=_top href='http://wedding.weddingchannel.com/pg/pl_home.asp' onMouseOver=javascript:bplan.src=imgDir+'nav-plan-on.gif'; onMouseOut=javascript:bplan.src=imgDir+'nav-plan-off.gif';>");
+document.write("<img name=bplan src='http://images.della.com/images/wc/newnav/nav-plan-off.gif' alt='planning' border=0></a>");
+document.write("<a target=_top href='http://wedding.weddingchannel.com/your_account/home.asp' onMouseOver=javascript:byo.src=imgDir+'nav-your_org-on.gif'; onMouseOut=javascript:byo.src=imgDir+'nav-your_org-off.gif';>");
+document.write("<img name=byo src='http://images.della.com/images/wc/newnav/nav-your_org-off.gif' alt='your organizer' border=0></a>");
+document.write("<a target=_top href='http://wedding.weddingchannel.com/fashion/fashionindex.asp' onMouseOver=javascript:bfash.src=imgDir+'nav-fash-on.gif'; onMouseOut=javascript:bfash.src=imgDir+'nav-fash-off.gif';>");
+document.write("<img name=bfash src='http://images.della.com/images/wc/newnav/nav-fash-off.gif' alt='fashion' border=0></a>");
+document.write("<a target=_top href='http://wedding.weddingchannel.com/jewelry/home.asp' onMouseOver=javascript:bjewel.src=imgDir+'nav-jewel-on.gif'; onMouseOut=javascript:bjewel.src=imgDir+'nav-jewel-off.gif';>");
+document.write("<img name=bjewel src='http://images.della.com/images/wc/newnav/nav-jewel-off.gif' alt='jewelry' border=0></a>");
+document.write("<a target=_top href='http://wedding.weddingchannel.com/registry/home.asp' onMouseOver=javascript:breg.src=imgDir+'nav-registry-on.gif'; onMouseOut=javascript:breg.src=imgDir+'nav-registry-off.gif';>");
+document.write("<img name=breg src='http://images.della.com/images/wc/newnav/nav-registry-off.gif' alt='registry' border=0></a>");
+document.write("<a target=_top href='http://wedding.weddingchannel.com/wedd_shop/shop_home.asp' onMouseOver=javascript:bweddshop.src=imgDir+'nav-wedshop-on.gif'; onMouseOut=javascript:bweddshop.src=imgDir+'nav-wedshop-off.gif';>");
+document.write("<img name=bweddshop src='http://images.della.com/images/wc/newnav/nav-wedshop-off.gif' alt='wedding supplies' border=0></a>");
+document.write("<a target=_top href='http://wedding.weddingchannel.com/travel/travelhome.asp' onMouseOver=javascript:btrav.src=imgDir+'nav-honeymoon-on.gif'; onMouseOut=javascript:btrav.src=imgDir+'nav-honeymoon-off.gif';>");
+document.write("<img name=btrav src='http://images.della.com/images/wc/newnav/nav-honeymoon-off.gif' alt='honeymoon' border=0></a>");
+document.write("<a target=_top href='http://wedding.weddingchannel.com/local/local_home.asp' onMouseOver=javascript:blocal.src=imgDir+'nav-locser-on.gif'; onMouseOut=javascript:blocal.src=imgDir+'nav-locser-off.gif';>");
+document.write("<img name=blocal src='http://images.della.com/images/wc/newnav/nav-locser-off.gif' alt='local vendors' border=0></a>");
+}
+else {
+	var Side="Bride";
+	initMenuBar();
+}
+document.write('</td>');	//	End the TD
+</script><td colspan="2" width="768" valign="bottom"><a target="_top" href="http://wedding.weddingchannel.com/pg/pl_home.asp" onmouseover="javascript:bplan.src=imgDir+'nav-plan-on.gif';" onmouseout="javascript:bplan.src=imgDir+'nav-plan-off.gif';"><img name="bplan" src="http://images.della.com/images/wc/newnav/nav-plan-off.gif" alt="planning" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/your_account/home.asp" onmouseover="javascript:byo.src=imgDir+'nav-your_org-on.gif';" onmouseout="javascript:byo.src=imgDir+'nav-your_org-off.gif';"><img name="byo" src="http://images.della.com/images/wc/newnav/nav-your_org-off.gif" alt="your organizer" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/fashion/fashionindex.asp" onmouseover="javascript:bfash.src=imgDir+'nav-fash-on.gif';" onmouseout="javascript:bfash.src=imgDir+'nav-fash-off.gif';"><img name="bfash" src="http://images.della.com/images/wc/newnav/nav-fash-off.gif" alt="fashion" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/jewelry/home.asp" onmouseover="javascript:bjewel.src=imgDir+'nav-jewel-on.gif';" onmouseout="javascript:bjewel.src=imgDir+'nav-jewel-off.gif';"><img name="bjewel" src="http://images.della.com/images/wc/newnav/nav-jewel-off.gif" alt="jewelry" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/registry/home.asp" onmouseover="javascript:breg.src=imgDir+'nav-registry-on.gif';" onmouseout="javascript:breg.src=imgDir+'nav-registry-off.gif';"><img name="breg" src="http://images.della.com/images/wc/newnav/nav-registry-off.gif" alt="registry" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/wedd_shop/shop_home.asp" onmouseover="javascript:bweddshop.src=imgDir+'nav-wedshop-on.gif';" onmouseout="javascript:bweddshop.src=imgDir+'nav-wedshop-off.gif';"><img name="bweddshop" src="http://images.della.com/images/wc/newnav/nav-wedshop-off.gif" alt="wedding supplies" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/travel/travelhome.asp" onmouseover="javascript:btrav.src=imgDir+'nav-honeymoon-on.gif';" onmouseout="javascript:btrav.src=imgDir+'nav-honeymoon-off.gif';"><img name="btrav" src="http://images.della.com/images/wc/newnav/nav-honeymoon-off.gif" alt="honeymoon" border="0"></a><a target="_top" href="http://wedding.weddingchannel.com/local/local_home.asp" onmouseover="javascript:blocal.src=imgDir+'nav-locser-on.gif';" onmouseout="javascript:blocal.src=imgDir+'nav-locser-off.gif';"><img name="blocal" src="http://images.della.com/images/wc/newnav/nav-locser-off.gif" alt="local vendors" border="0"></a></td>
+	</tr>
+	
 </tbody></table>
-
-	<!-- end Nav Bar outer table -->
-
 <!-- -----  End Top NavBar ------ -->
 
-<img src="/images/Help/clear.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" height="10" width="550" border="0"><br>
-<img src="/images/Help/csheader.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" border="0" height="30" width="550" alt="Help Center"><br>
-<img src="/images/Help/clear.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" height="10" width="550" border="0"><br>
+<img src="/images/Help/clear.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" height="10" width="550" border="0"><br>
+<img src="/images/Help/csheader.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" border="0" height="30" width="550" alt="Help Center"><br>
+<img src="/images/Help/clear.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" height="10" width="550" border="0"><br>
 
 
 
@@ -325,7 +323,7 @@ confidence in our commitment, the intent of this policy is to fully disclose our
 privacy practices to you. We will only use your personal information in accordance 
 with this Privacy Policy. We encourage you to read our policy, as well as those of 
 our partners, including 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivacypolicyfed.html">Federated Department Stores</a>, <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=bloomingdales&amp;location=%2Ftemplates%2FBloomingdales%2FHelpPages%2FPrivacyPolicyFedCard.html&amp;storeGroup=BL">Federated Department Stores Credit Card Programs</a>, <a href="http://www.condenet.com/privacy.html?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" target="_blank">Bride's Magazine</a>, and others, to understand The types of personal information we collect and how this information is used. 
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivacypolicyfed.html">Federated Department Stores</a>, <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=bloomingdales&amp;location=%2Ftemplates%2FBloomingdales%2FHelpPages%2FPrivacyPolicyFedCard.html&amp;storeGroup=BL">Federated Department Stores Credit Card Programs</a>, <a href="http://www.condenet.com/privacy.html?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" target="_blank">Bride's Magazine</a>, and others, to understand The types of personal information we collect and how this information is used. 
 <br><br>
 
 
@@ -349,12 +347,12 @@ By using our site, you consent to the collection and use of your information as 
 <br><br>
 As part of our Privacy Policy, we address the following: 
 <ul>
-<li><a href="#personal?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">The personal information we collect</a>
-</li><li><a href="#whom?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">With whom your information is shared and how it is used</a>
-</li><li><a href="#choices?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">The choices you have about the collection and use of your information</a>
-</li><li><a href="#ability?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">Your ability to access, update or correct your information</a>
-</li><li><a href="#measures?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">The security measures we take to protect your personal information</a>
-</li><li><a href="#additional?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">Additional information about online privacy and changes to our policy</a>
+<li><a href="#personal?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">The personal information we collect</a>
+</li><li><a href="#whom?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">With whom your information is shared and how it is used</a>
+</li><li><a href="#choices?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">The choices you have about the collection and use of your information</a>
+</li><li><a href="#ability?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">Your ability to access, update or correct your information</a>
+</li><li><a href="#measures?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">The security measures we take to protect your personal information</a>
+</li><li><a href="#additional?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">Additional information about online privacy and changes to our policy</a>
 </li></ul>
 <br><br>
 <a name="personal"><b>The personal information we collect</b><br>
@@ -362,11 +360,11 @@ As part of our Privacy Policy, we address the following:
 <br><br>
 <i>Contests and Online Surveys.</i> WeddingChannel.com and its partners frequently sponsor contests to give you the opportunity to win great prizes. Your participation in these contests is entirely optional. Information we collect for such contests can include contact information and demographic information. WeddingChannel.com also values the opinions and comments from all of our users, so we frequently conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Information we collect in online surveys will include general information on the use of our site and other demographic information, such as age and income bracket. Survey participants are anonymous unless otherwise stated in the survey.
 <br><br>
-<i>Cookies.</i> "Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. We use cookies in several ways (and thousands of other sites are currently using them too!). Cookie files are used to better understand how you go through our website so that we may tailor your experience at our website. Cookies are also used to tell us whether you have visited our website previously, and to help us determine whether you came to our website from a particular Internet link or banner advertisement. Cookies can also be used to help you to save and retrieve passwords and other information and preferences you use on our website, saving you from having to re-enter this information upon every visit to our website. Cookies cannot and will not be used by us to retrieve any personal information about you from your computer that you have not previously and voluntarily provided to us. However, cookies may also be received when you link to our partners’ sites or when you click on banner advertisements served by our outside advertising company and we do not have control over how they use this information. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. However, most of our features will not function if you do not accept cookies. For more information on cookies, see </a><a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHtml?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=planning&amp;location=%2Ftemplates%2FAboutUs%2Farticle_1310.html">Cookies</a>.
+<i>Cookies.</i> "Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. We use cookies in several ways (and thousands of other sites are currently using them too!). Cookie files are used to better understand how you go through our website so that we may tailor your experience at our website. Cookies are also used to tell us whether you have visited our website previously, and to help us determine whether you came to our website from a particular Internet link or banner advertisement. Cookies can also be used to help you to save and retrieve passwords and other information and preferences you use on our website, saving you from having to re-enter this information upon every visit to our website. Cookies cannot and will not be used by us to retrieve any personal information about you from your computer that you have not previously and voluntarily provided to us. However, cookies may also be received when you link to our partners’ sites or when you click on banner advertisements served by our outside advertising company and we do not have control over how they use this information. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. However, most of our features will not function if you do not accept cookies. For more information on cookies, see </a><a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHtml?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=planning&amp;location=%2Ftemplates%2FAboutUs%2Farticle_1310.html">Cookies</a>.
 <br><br>
 <i>IP Addresses.</i> When you connect to our website, we record your IP addresses and information on the type of operating system (e.g. Windows98) and browser software(e.g. Microsoft Internet Explorer and Netscape) you are using. This helps us to diagnose problems with our servers and for system administration. Your IP address is also used to help gather aggregated demographic information. 
 <br><br>
-<i>Chat rooms, forums, message boards, and/or news groups.</i>  We make chat rooms, forums, message boards, and/or news groups available to you. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information. Please see  <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=customerservice&amp;location=%2Ftemplates%2FShopping%2Fhtml%2FTermsAndConditionsOfUse.html">Terms and Conditions of Use</a>.
+<i>Chat rooms, forums, message boards, and/or news groups.</i>  We make chat rooms, forums, message boards, and/or news groups available to you. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information. Please see  <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=customerservice&amp;location=%2Ftemplates%2FShopping%2Fhtml%2FTermsAndConditionsOfUse.html">Terms and Conditions of Use</a>.
 <br><br>
 <a name="whom"><b>With whom your information is shared and how it is used</b>
 <br><br>
@@ -384,7 +382,7 @@ As a user, customer, or contest entrant you will occasionally receive e-mail upd
 WeddingChannel.com provides you with the ability to receive e-mail subscriptions to various services we provide. If you elect to receive such e-mail subscriptions, you can opt-out of receiving future e-mails by logging in to your account and following the appropriate links. 
 <br><br>
 </a><a name="ability"><b>Your ability to access, update or correct your information</b><br>
-At any time, you can view and/or update all of the information contained in your Wedding Account, Guest Account or Wedding Website by logging in to your account and following the appropriate links.  Your account log-in can be easily accessed by visiting our home page at </a><a href="http://www.weddingchannel.com/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=home&amp;location=bridehome.html">www.weddingchannel.com</a>.  However, even if you delete or change some personal information in our registration database, it may still be stored on our, or other third party, databases (including those kept for archival purposes). 
+At any time, you can view and/or update all of the information contained in your Wedding Account, Guest Account or Wedding Website by logging in to your account and following the appropriate links.  Your account log-in can be easily accessed by visiting our home page at </a><a href="http://www.weddingchannel.com/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=home&amp;location=bridehome.html">www.weddingchannel.com</a>.  However, even if you delete or change some personal information in our registration database, it may still be stored on our, or other third party, databases (including those kept for archival purposes). 
 <br><br>
 <a name="measures"></a><b>The security measures we take to protect your personal information</b><br>
 All order information you provide to us and all information contained in your "Shopper Account" is transmitted using SSL (Secure Socket Layer) encryption.  SSL is a widely used coding system that lets your browser automatically encrypt or scramble data before you send it to us.  Transactions will not be permitted if your browser does not accept SSL encryption.  Only authorized personnel from WeddingChannel.com or its partners can decode this information and such personnel will only do so in accordance with our or their Privacy Policy.  In addition, to attempt to deter the theft of credit card numbers and other personal information residing in our system, we and our retail partners have installed secure "firewalls" and/or have implemented other security measures to help protect our systems against "hacker" break-ins.  Additionally, all credit card numbers are encrypted in our system until either the customer or WeddingChannel.com requires the information.  
@@ -393,7 +391,7 @@ In addition, when you register for certain online bridal registries or other Wed
 <br><br>
 <a name="additional"><b>Additional information about online privacy and changes to our policy</b><br>
 
-Please be aware that on our site we have advertisements and links to other websites that may collect personal information about you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read the privacy policies of all such sites, as their policies may be materially different from our Privacy Policy. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices to our Customer Service Center at </a><a href="mailto:CustomerService@weddingchannel.com?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">CustomerService@weddingchannel.com</a>.  Please reference the Privacy Policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
+Please be aware that on our site we have advertisements and links to other websites that may collect personal information about you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read the privacy policies of all such sites, as their policies may be materially different from our Privacy Policy. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices to our Customer Service Center at </a><a href="mailto:CustomerService@weddingchannel.com?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">CustomerService@weddingchannel.com</a>.  Please reference the Privacy Policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
 <br><br>
 <table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
@@ -403,7 +401,7 @@ Please be aware that on our site we have advertisements and links to other websi
 WeddingChannel.com<br>
 888 S. Figueroa St. Suite 700<br>
 Los Angeles, CA  90017<br>
-<a href="http://www.weddingchannel.com?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">http://www.weddingchannel.com</a></td>
+<a href="http://www.weddingchannel.com?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">http://www.weddingchannel.com</a></td>
 </tr>
 </tbody></table>
 
@@ -417,53 +415,53 @@ Los Angeles, CA  90017<br>
 <table width="400" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffcc">
 
 
-<tbody><tr><td width="20"><img src="/images/Help/clear.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" height="1" width="30" border="0" alt=""></td>
+<tbody><tr><td width="20"><img src="/images/Help/clear.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" height="1" width="30" border="0" alt=""></td>
 <td width="360">
 		<br>
-        <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;location=%2Ftemplates%2FShopping%2Fhtml%2FSecureShop.html&amp;frmSection=shopping">Secure Online Shopping</a><br>
+        <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;location=%2Ftemplates%2FShopping%2Fhtml%2FSecureShop.html&amp;frmSection=shopping">Secure Online Shopping</a><br>
 
 Privacy Policy - WeddingChannel.com<br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=bloomingdales&amp;location=%2Ftemplates%2FBloomingdales%2FHelpPages%2FPrivacyPolicyBloom.html&amp;storeGroup=BL">Privacy Policy - Bloomingdales</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=bloomingdales&amp;location=%2Ftemplates%2FBloomingdales%2FHelpPages%2FPrivacyPolicyBloom.html&amp;storeGroup=BL">Privacy Policy - Bloomingdales</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivacypolicyfed.html">Privacy Policy - The Bon Marché, Burdines, Goldsmith’s, Lazarus, Macy’s, Rich’s</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivacypolicyfed.html">Privacy Policy - The Bon Marché, Burdines, Goldsmith’s, Lazarus, Macy’s, Rich’s</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;location=%2Ftemplates%2FShopping%2Fhtml%2FPrivacyPolicyFedCard.html&amp;frmSection=shopping">Privacy Policy - Federated Department Stores Credit Card Programs</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;location=%2Ftemplates%2FShopping%2Fhtml%2FPrivacyPolicyFedCard.html&amp;frmSection=shopping">Privacy Policy - Federated Department Stores Credit Card Programs</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_tiffany.html">Privacy Policy - Tiffany &amp; Co.</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_tiffany.html">Privacy Policy - Tiffany &amp; Co.</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_crate.html">Privacy Policy - Crate and Barrel</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_crate.html">Privacy Policy - Crate and Barrel</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_neiman.html">Privacy Policy - Neiman Marcus</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_neiman.html">Privacy Policy - Neiman Marcus</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_williams.html">Privacy Policy - Williams-Sonoma</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_williams.html">Privacy Policy - Williams-Sonoma</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_restoration.html">Privacy Policy - Restoration Hardware</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_restoration.html">Privacy Policy - Restoration Hardware</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_gumps.html">Privacy Policy - Gump's</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_gumps.html">Privacy Policy - Gump's</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_rei.html">Privacy Policy - REI</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_rei.html">Privacy Policy - REI</a><br>
 
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_chiasso.html">Privacy Policy - Chiasso</a><br>
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_dean.html">Privacy Policy - Dean &amp; DeLuca</a><br>
-<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_pb.html">Privacy Policy - Pottery Barn</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_chiasso.html">Privacy Policy - Chiasso</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_dean.html">Privacy Policy - Dean &amp; DeLuca</a><br>
+<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=shopping&amp;location=%2Ftemplates%2FShopping%2Fhtml%2Fprivate_pb.html">Privacy Policy - Pottery Barn</a><br>
 	<br><br>
 <br><br>
-Back to <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;location=%2Ftemplates%2FShopping%2FCustomerService%2Findex.html&amp;frmSection=none">Help</a>
+Back to <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;location=%2Ftemplates%2FShopping%2FCustomerService%2Findex.html&amp;frmSection=none">Help</a>
         </td></tr>
 
-<tr><td colspan="2"><img src="/images/Help/clear.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" height="10" width="2" border="0" alt=""></td></tr>
+<tr><td colspan="2"><img src="/images/Help/clear.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" height="10" width="2" border="0" alt=""></td></tr>
 
 <tr><td colspan="2">&nbsp;&nbsp;Contact Us:</td></tr>
 
-<tr><td width="20"><img src="/images/Help/clear.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" height="1" width="30" border="0" alt=""></td>
+<tr><td width="20"><img src="/images/Help/clear.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" height="1" width="30" border="0" alt=""></td>
 <td width="360">
         E-mail:<br>
-        <a href="mailto:customerservice@weddingchannel.com?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">customerservice@weddingchannel.com</a>
+        <a href="mailto:customerservice@weddingchannel.com?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">customerservice@weddingchannel.com</a>
         
 		<br><br></td></tr>
 
-<tr><td colspan="2"><img src="/images/Help/clear.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" height="10" width="2" border="0" alt=""></td></tr>
+<tr><td colspan="2"><img src="/images/Help/clear.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" height="10" width="2" border="0" alt=""></td></tr>
 </tbody></table>
 </center>
 <!--  End of table center   -->
@@ -477,11 +475,11 @@ Back to <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXH
 <br>
 <table width="460" border="0" cellspacing="0" cellpadding="0" align="CENTER" valign="TOP">
 <tbody><tr><td align="center">
-<font face="verdana,geneva,arial,helvetica" size="-1"><a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;location=%2Ftemplates%2FShopping%2FCustomerService%2Findex.html&amp;frmSection=none" target="_top">Help</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://wedding.weddingchannel.com/search_purchase/shopping_bag_redirector.asp?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2">Shopping Bag</a></font></td></tr>
+<font face="verdana,geneva,arial,helvetica" size="-1"><a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;location=%2Ftemplates%2FShopping%2FCustomerService%2Findex.html&amp;frmSection=none" target="_top">Help</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://wedding.weddingchannel.com/search_purchase/shopping_bag_redirector.asp?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03">Shopping Bag</a></font></td></tr>
 
 <tr><td align="center">
 <font face="verdana,geneva,arial,helvetica" size="-1">For toll-free ordering or customer service, call</font>
-<br><img src="/images/Checkout/1-888.gif?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" border="0" align="middle" hspace="0" vspace="6"><br><font face="verdana,geneva,arial,helvetica" size="-2">(Mon-Sat, 9am-12am ET; Sun, 11am-10pm ET)</font></td></tr>
+<br><img src="/images/Checkout/1-888.gif?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" border="0" align="middle" hspace="0" vspace="6"><br><font face="verdana,geneva,arial,helvetica" size="-2">(Mon-Sat, 9am-12am ET; Sun, 11am-10pm ET)</font></td></tr>
 </tbody></table>
  
 
@@ -492,7 +490,7 @@ Back to <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXH
 </tbody></table>
 <br>
 
-<script language="javascript"><!--var newWin;function onClick(){ if (!newWin || newWin.closed) {  newWin = window.open();  newWin.focus(); }  else {  newWin.focus(); }}//--></script><center><table border="0" cellpadding="0" cellspacing="0" width="615"><tbody><tr><td><br><br></td></tr><tr><td align="center" style="font-size: 8pt;">		<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;location=%2Ftemplates%2FShopping%2Fhtml%2FPrivacyPolicy.html&amp;frmSection=homeentrypage" target="_top"><b>Privacy Policy</b></a> | <a href="/cgi-bin/gx.cgi/AppLogic com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=customerservice&amp;location=/templates/Shopping/html/TermsAndConditionsOfUse.html" target="_top"><b>Terms Of Use</b></a> |	<a href="http://wedding.weddingchannel.com/help/contact_us.asp?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" target="contactus" onclick="window.open('http://wedding.weddingchannel.com/help/contact_us.asp', '_slideshow', 'width=550,height=650,resizable'); return false">Contact Us</a> | <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.mailinglist.Subscribe?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;no_error_msg=yes" target="_top"><b>FREE Subscriptions</b></a></td></tr><tr><td align="center" style="font-size: 8pt;"> <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHtml?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=articles&amp;location=%2Ftemplates%2FAboutUs%2Farticle_1317.html" target="_top"><b>Advertising/Sponsorship</b></a> | <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHtml?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;frmSection=planning&amp;location=%2Ftemplates%2FAboutUs%2Farticle_1318.html" target="_top"><b>Company Info</b></a> |	<a href="http://wedding.weddingchannel.com/help_guest/survey.asp?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2" target="_top"><b>Survey</b></a> </td>	</tr><tr><td align="center" style="font-size: 8pt;">	© 1997-2002 WeddingChannel.com	 |		<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2171936721&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=-1&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=6addafeb129c04c2&amp;location=%2Ftemplates%2FShopping%2FCustomerService%2Findex.html&amp;frmSection=none" target="_top">HELP</a></td></tr></tbody></table><br></center><!--Footer include file for all pages-->
+<script language="javascript"><!--var newWin;function onClick(){ if (!newWin || newWin.closed) {  newWin = window.open();  newWin.focus(); }  else {  newWin.focus(); }}//--></script><style type="text/css">a.footer:link {	color: #999999;	font-size: 8pt;	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;}a.footer:active {color:#999999;font-size: 8pt;	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;}a.footer:visited {color:#666666;font-size: 8pt;	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;}.footer {color: #999999;font-size: 8pt;	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;}</style><center><table border="0" cellpadding="0" cellspacing="0" width="615"><tbody><tr><td><br><br></td></tr><tr><td align="center" class="footer"><a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;location=%2Ftemplates%2FShopping%2Fhtml%2FPrivacyPolicy.html&amp;frmSection=homeentrypage" target="_top" class="footer">Privacy Policy</a> | <a href="/cgi-bin/gx.cgi/AppLogic%20com.wc.Utility.NavBarForStaticHtml?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=customerservice&amp;location=%2Ftemplates%2FShopping%2Fhtml%2FTermsAndConditionsOfUse.html" target="_top" class="footer">Terms Of Use</a> |	<a href="http://wedding.weddingchannel.com/help/contact_us.asp?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" target="contactus" onclick="window.open('http://wedding.weddingchannel.com/help/contact_us.asp', '_slideshow', 'width=550,height=650,resizable'); return false" class="footer">Contact Us</a> | <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.mailinglist.Subscribe?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;no_error_msg=yes" target="_top" class="footer">FREE Subscriptions</a></td></tr><tr><td align="center" class="footer"> <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHtml?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=articles&amp;location=%2Ftemplates%2FAboutUs%2Farticle_1317.html" target="_top" class="footer">Advertising/Sponsorship</a> | <a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHtml?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;frmSection=planning&amp;location=%2Ftemplates%2FAboutUs%2Farticle_1318.html" target="_top" class="footer">Company Info</a> |	<a href="http://wedding.weddingchannel.com/help_guest/survey.asp?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03" target="_top" class="footer">Survey</a> </td>	</tr><tr><td align="center" class="footer">	© 1997-2002 WeddingChannel.com	 |		<a href="/cgi-bin/gx.cgi/AppLogic+com.wc.Utility.NavBarForStaticHTML?GXHC_uid=2175760082&amp;GXHC_SHAREDSESSION=DIVID=1&amp;SUID=0&amp;ACCOUNTID=0&amp;COUPLEID=0&amp;PAGEID=bride&amp;BAG_IS_DIRTY=false&amp;GXHC_gx_session_id_wc=3a5ce6affd09dc03&amp;location=%2Ftemplates%2FShopping%2FCustomerService%2Findex.html&amp;frmSection=none" target="_top" class="footer">HELP</a></td></tr></tbody></table><br></center><!--Footer include file for all pages-->
 </center><br><br>
 
 
