@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2000-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001110114200id_/http%3A//www.go2net.com/corporate/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2001-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010615183649id_/http%3A//www.go2net.com/corporate/legal) for the most accurate reproduction.*
 
 # [ Go2Net® ]
 
 |   
 ---  
-[](https://web.archive.org/web/20001110114200id_/http://www.go2net.com/corporate/legal/copyright.html)  
-[](https://web.archive.org/web/20001110114200id_/http://www.go2net.com/corporate/legal/terms.html)  
+[](https://web.archive.org/web/20010615183649id_/http://www.go2net.com/corporate/legal/copyright.html)  
+[](https://web.archive.org/web/20010615183649id_/http://www.go2net.com/corporate/legal/terms.html)  
 |    
 Go2Net, Inc. is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information Go2Net may gather about individuals who visit its Web sites, how that information is used, and Go2Net's disclosure practices. Please note that this policy applies only to Go2Net's Web sites and not to the Web sites of other companies or organizations to which we provide links. 
 
