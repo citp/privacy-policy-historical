@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208040902id_/http%3A//www.micros.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micros.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305165330id_/http%3A//www.micros.com/privacypolicy) for the most accurate reproduction.*
 
 # MICROS Systems, Inc. - Privacy Policy
 
