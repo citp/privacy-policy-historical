@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205115817id_/http%3A//scanna.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607180442id_/http%3A//scanna.com/privacy.cfm) for the most accurate reproduction.*
 
 # Scanna - Russian, Ukrainian, European women seek dating and marriage through correspondence.
 
