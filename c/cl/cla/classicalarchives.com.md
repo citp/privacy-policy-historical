@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008153511id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicalarchives.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606155428id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.*
 
 # CLASSICAL MUSIC ARCHIVES Privacy Policy
 
@@ -11,7 +11,7 @@ There are four kinds of Personal Information:
   1. Credit Card Information - never shared   
 This information is only required if you subscribe to the Classical Archives or register one of our software programs.   
 This information is collected for our credit card processor VeriSign - through secure servers (which means that all communication to and from these servers are encrypted.)   
-_Your credit card details are kept securely by VeriSign and no personal information is shared with any other third party by us or VeriSign._ (See [VeriSign's Privacy Policy](http://www.verisign.com/truste/index.html).) 
+_Your credit card details are kept securely by VeriSign and NOT even kept by us. No personal information is shared with any other third party by us or VeriSign._ (See [VeriSign's Privacy Policy](http://www.verisign.com/truste/index.html).) 
   2. Personal Data - never shared unless expressly requested by you
     * Name 
     * Email address 
@@ -26,7 +26,7 @@ In some special circumstances, and only if you have given us permission to do so
     * Cookie number 
     * Subscriber level 
   
-When you accept cookies from our site, your browser places small text files (a "cookie") on your computer so that you don't need to manually log-in each time you come to our site and to keep track of your status as a subscriber and of the limits you are entitled to. These cookies do not contain any personal information and cannot be used to track your usage by any other site. 
+When you accept cookies from our site, your browser places small text files (a "cookie") on your computer so that you don't need to manually login each time you come to our site and to keep track of your status as a subscriber and of the limits you are entitled to. These cookies do not contain any personal information and cannot be used to track your usage by any other site. 
 
 If you elect not to accept cookies we cannot determine if you are logged-in. In addition, if you are behind a proxy server, our server cannot determine exactly how many files you listened to that day and may indicate that you have reached the daily limit sooner than if you're allowing cookies. This is due to the fact that, without a cookie, the server can only rely on an IP address which is also shared by many other users behind the same proxy. 
 
@@ -47,7 +47,7 @@ You can access all your personally identifiable information that we collect onli
   
 Anti-Spam
 
-It is not the policy or the practice of our company, its affiliates, or personnel to send unsolicited email and in particular email containing advertising or other objectionable material. If you have received email which contains solicitations or objectionable content and which used one of our domain names in its return address -- it is most certainly a forgery or they have placed a link to our website without our permission. 
+It is not the policy or the practice of our company, its affiliates, or personnel to send unsolicited email and in particular email containing advertising or other objectionable material. If you have received email which contains solicitations or objectionable content and which used one of our domain names in its return address — it is most certainly a forgery or they have placed a link to our website without our permission. 
 
 Although there is little we and other legitimate companies can do to stop the appropriation of our name by fraudulent email web sites, we sincerely regret the distress this may cause you. 
 
