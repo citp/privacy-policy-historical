@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403020210id_/http%3A//learning.com/Privacy_Policy/0%2C1791%2C28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2002-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021011091143id_/http%3A//www.learning.com/Privacy_Policy/0%2C1791%2C28%2C00.html) for the most accurate reproduction.*
 
 # Learning.com :: Privacy Policy
 
   
-[Return to Home Page](https://web.archive.org/Home/1,1786,0,FF.html) |  | **Privacy Policy**
+[**Return to Home Page**](https://web.archive.org/Home/1,1786,0,FF.html) |  | **Privacy Policy**
 
 PLEASE REVIEW CAREFULLY LEARNING.COM'S USER AGREEMENT AND THIS PRIVACY POLICY, AND THE CHILD PRIVACY POLICY BELOW (IF APPLICABLE), BEFORE USING THIS WEBSITE. 
 
@@ -60,9 +60,9 @@ The safety of children is Learning.com's highest priority. We comply strictly wi
 **2\. Policies for Children Under the Age of 13**  
 Learning.com encourage parents and guardians to spend time online with their children and to participate in the activities offered through our services. No information should be submitted or posted through our services by any User under 13 years of age without the consent of their parent or guardian. 
 
-At this time, Learning.com is not collecting any personally identifiable information from Users under the age of 13. Children who access the EasyTech Learning System with login I.D.s provided by their schools will not be asked to provide any personally identifiable information to Learning.com. Only the school will know which student is using which login I.D. 
+At this time, Learning.com is not collecting any personally identifiable information from Users under the age of 13. Children who access the EasyTech Learning System with login I.D.s provided by their schools will not be asked to provide any personally identifiable information to Learning.com. 
 
 As with all our Users, we will collect and share aggregate, anonymous information as explained above. 
 
 **3\. Parents' Right to Review or Delete Information**  
-A parent may review the information a child has submitted to us by sending us a written request addressed to Consumer Relations, Attn: Children's Online Privacy Act - Information Request, 809 North Russell Street, Suite 203, Portland, Oregon 97227. The request must include the name and address of the child, the child's password and any other information that will allow us to verify that writer is the parent of the child whose information is being requested. In addition, a parent can instruct us to delete a child's information at any time and can also instruct us not to collect any more personal information from the child by sending us a written request addressed to Consumer Relations, Attn: Children's Online Privacy Act - Delete Request, 809 North Russell Street, Suite 203, Portland, Oregon 97227. However, if such a request is made, such request may unfortunately preclude the child's participation in certain activities. 
+A parent may review the information a child has submitted to us by sending us a written request addressed to Consumer Relations, Attn: Children's Online Privacy Act - Information Request, 1440 NW Overton Street, 2nd Floor, Portland, Oregon 97209. The request must include the name and address of the child, the child's password and any other information that will allow us to verify that writer is the parent of the child whose information is being requested. In addition, a parent can instruct us to delete a child's information at any time and can also instruct us not to collect any more personal information from the child by sending us a written request addressed to Consumer Relations, Attn: Children's Online Privacy Act - Delete Request, 1440 NW Overton Street, 2nd Floor, Portland, Oregon 97209. However, if such a request is made, such request may unfortunately preclude the child's participation in certain activities. 
