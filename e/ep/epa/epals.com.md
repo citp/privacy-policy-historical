@@ -1,71 +1,64 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619113351id_/http%3A//www.epals.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202231300id_/http%3A//www.epals.com/privacy/index_en.html) for the most accurate reproduction.*
 
 # ePALS Classroom Exchange Privacy Policy
 
-| [](https://web.archive.org/categories/main_en.html)  
+  
+  
+[](https://web.archive.org/in/0/uni/en)  
+[](https://web.archive.org/in/0/prt/en)  
+[](https://web.archive.org/in/0/stn/en)  
+    |   
 ---  
- | [Home](https://web.archive.org/info/20000/85)  
+**·**| [ **Home**](https://web.archive.org/index_en.html)  
+**·**| [ **Join ePALS**](https://web.archive.org/register/)  
+**·**| [ **Search for Classrooms**](https://web.archive.org/esearch/?st=ps&less=1)  
+**·**| [ **Check Email**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=gm)  
+**·**| [ **Your Settings**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=prefs)  
+**·**| [ **Login**](https://web.archive.org/info/20024/109)  
+   
+[](http://www.cartogra.com/)  
   
- | [Join ePALS](https://web.archive.org/info/20001/86)  
   
- | [Search for Classrooms](https://web.archive.org/info/20002/87)  
+**·**| [ **ePALS Webmail**](https://web.archive.org/webmail/index_en.html)  
+**·**| [ **Discussion Boards**](https://web.archive.org/forum/index_en.html)  
+**·**| [ **Instant Translation**](https://web.archive.org/cgi-bin/trans/trans.cgi)  
+**·**| [ **Safe school & class Webmail**](https://web.archive.org/webmail/index_en.html)  
+   
   
- | [My ePALS Settings](https://web.archive.org/info/20003/88)  
   
- | [Privacy Policy](https://web.archive.org/privacy/index_en.html)  
-  
- | [Login](https://web.archive.org/info/20024/109)  
-  
-[](https://web.archive.org/categories/epals_webmail_en.html)  
- | [Get Free Email](https://web.archive.org/info/20005/90)  
-  
- | [Teacher / Parent Monitored Email](https://web.archive.org/info/20007/92)  
-  
- | [Check Email](https://web.archive.org/info/20006/91)  
-  
-[](https://web.archive.org/categories/teacher_resources_en.html)  
- | [Interactive Projects](https://web.archive.org/info/20025/117)  
-  
- | [Online Resources](https://web.archive.org/info/20008/93)  
-  
- | [Manage Classroom Profiles](https://web.archive.org/info/20009/94)  
-  
- | [20th Century Retrospective](https://web.archive.org/info/20010/95)  
-  
-[](https://web.archive.org/categories/tools_en.html)  
- | [Instant Translation](https://web.archive.org/info/20011/96)  
-  
- | [World Maps](https://web.archive.org/info/20012/97)  
-  
- | [International Weather](https://web.archive.org/info/20013/98)  
-  
- | [Send eCards](https://web.archive.org/info/20014/99)  
-  
- | [Chat](https://web.archive.org/info/20022/107)  
-  
- | [Educational Products](https://web.archive.org/info/20015/100)  
-  
-[](https://web.archive.org/categories/about_epals_en.html)  
- | [About Us](https://web.archive.org/info/20004/89)  
-  
- | [Press](https://web.archive.org/info/20017/102)  
-  
- | [Awards & Testimonials](https://web.archive.org/info/20018/103)  
-  
- | [Careers@ePALS](https://web.archive.org/hr/index_en.html)  
-  
-[](https://web.archive.org/categories/support_en.html)  
- | [Help & FAQ](https://web.archive.org/info/20020/105)  
-  
- | [Contact Us](https://web.archive.org/info/20021/106)  
-  
-[](http://www.epals.com/phpAds/click.php3?bannerID=78) [](https://web.archive.org/privacy/index_en.html) | 
+**·**| [ **Monitored Email**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=monitored)  
+**·**| [ **Group Projects**](https://web.archive.org/projects/group/index_en.html)  
+**·**| [ **Class to Class Projects**](https://web.archive.org/projects/class/index_en.html)  
+**·**| [ **Your Classroom Profiles**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=manage)  
+**·**| [ **Teaching with ePALS**](https://web.archive.org/teacher_resources/tr_resources_en.html)  
+   
+**·**| [ **eCards**](https://web.archive.org/cgi-bin/ecards/emain.cgi)  
+**·**| [ **World Maps**](https://web.archive.org/emaps/newemaps.e)  
+**·**| [ **Weather**](https://web.archive.org/cgi-bin/weather/weather.pl)  
+**·**| [ **Online Resources**](https://web.archive.org/resources/index_en.html)  
+**·**| [ **ePALS Events**](https://web.archive.org/events/index_en.html)  
+**·**| [ **20th Century**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=ap)  
+**·**| [ **Educational Products**](https://web.archive.org/shop/index_en.html)  
+   
+**·**| [ **About Us**](https://web.archive.org/about/index_en.html)  
+**·**| [ **Privacy Policy**](https://web.archive.org/privacy/index_en.html)  
+**·**| [ **Sponsorship & Advertising Policy**](https://web.archive.org/about/ad_policy_en.html)  
+**·**| [ **Sponsorship Opportunities**](https://web.archive.org/about/spons_opps_en.html)  
+**·**| [ **Press**](https://web.archive.org/press/index_en.html)  
+**·**| [ **Awards & Testimonials**](https://web.archive.org/feedback/samples_en.html)  
+**·**| [ **Help & FAQ**](https://web.archive.org/help/index_en.html)  
+**·**| [ **Contact Us**](https://web.archive.org/feedback_en.html)  
+**·**| [ **Careers@ePALS**](https://web.archive.org/hr/index_en.html)  
+[](https://web.archive.org/phpAds/click.php3?bannerID=96)   | 
 
-### ePALS Classroom Exchange Privacy Policy
+### ePALS Classroom Exchange  
+Privacy Policy
 
-We never share your personal information, or that of your children or students, with any third parties.
+[](https://www.truste.org/validate/6371)
 
-At ePALS, we are committed to protecting your children’s privacy while we offer students and schools the full global experience offered by the Internet. Our service fosters communication among parents, students and educators all around the world, and we explain all our interactive features in this policy. We also explain what information we collect from children, and at the end of the policy, what different information we may collect from adults like teachers and parents. We never condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in that activity.
+We never share the personal information of children under 13 with any third parties.
+
+At ePALS, we are committed to protecting your children's privacy while we offer students and schools the full global experience offered by the Internet. Our service fosters communication among parents, students and educators all around the world, and we explain all our interactive features in this policy. We also explain what information we collect from children, and at the end of the policy, what different information we may collect from adults like teachers and parents. We never condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in that activity.
 
 ### REGISTRATION PROCESS
 
@@ -75,7 +68,7 @@ Members who register directly are asked to fill out a form that requests their f
 
 For those in the United States who told us they were under 13 the self pre-registration process stops here. We then send an email to the parent, requesting that the parent register their child and consent that their child become a member of ePALS. We do not activate the user name, open an email account, send a newsletter, or otherwise permit the child to become a member until we have received verifiable parental consent. If we do not receive consent within 21 days, we delete all of the information we collected from your child. 
 
-In order to give consent, either call us toll free at 1-888-450-2332 and follow the instructions given, or simply print the attached parental consent form, fill it out, sign it and fax it to 1-888-201-4332 or mail it to:
+In order to give consent, either call us toll free at 1-888-450-2332 and follow the instructions given, or simply print the attached parental consent form, fill it out, sign it and fax it to 1-888-201-2332 or mail it to:
 
 ePALS Classroom Exchange  
 Box 8202  
@@ -83,19 +76,19 @@ Box 8202
 Sacramento, California  
 95842 
 
-Detailed instructions on what information must be provided can be found in the attached parental permission slip. In addition to the information we collected from your child, we ask you to provide your name, your email address, your city, and a three digit pin number for identification purposes. Once we have received the consent, your child’s membership will be activated by an ePALS staff member. 
+Detailed instructions on what information must be provided can be found in the attached parental permission slip. In addition to the information we collected from your child, we ask you to provide your name, your email address, your city, and a three digit pin number for identification purposes. Once we have received the consent, your child's membership will be activated by an ePALS staff member. 
 
 We also permit teachers to register their students/classrooms. For students who are under 13, we instruct the teachers to print out the privacy policy and parental consent form, and obtain written parental consent. Once they have verified to us that they have received written parental consent, we permit them to register their students and create accounts for them, with access to all the features described below. 
 
-Members whose birthdates show they are over 12 are taken to a second registration page, where they give us their city, and have the option of providing us with their street address, state or province, and zip or postal code. Their mailing address may be used to send a print version of the ePALS Newsletter, and makes it possible to generate customized street maps on the user’s ePALS Settings page. Once this page is completed, the registration process is complete.
+Members whose birthdates show they are over 12 are taken to a second registration page, where they give us their city, and have the option of providing us with their street address, state or province, and zip or postal code. Their mailing address may be used to send a print version of the ePALS Newsletter, and makes it possible to generate customized street maps on the user's ePALS Settings page. Once this page is completed, the registration process is complete.
 
-Once registered with parental consent, children under 13 have the option of providing us with their mailing address at the Settings page of their account. This makes it possible to generate customized street maps on the user’s ePALS Settings page. 
+Once registered with parental consent, children under 13 have the option of providing us with their mailing address at the Settings page of their account. This makes it possible to generate customized street maps on the user's ePALS Settings page. 
 
 We protect the confidentiality, security and integrity of the personal information we collect. This information is maintained on secure servers and is only accessible to qualified ePALS personnel who require this information. 
 
 ### MEMBERSHIP FEATURES
 
-An ePALS membership comes with access to our interactive features such as email, chat rooms (public and private), and discussion boards. As with other typical email accounts, chat rooms and online discussion groups, children may disclose personal information (about themselves, their parents, friends or acquaintances) with their correspondents and in the online forums. Accordingly, parents should advise their children not to give out any personal information without the parents’ consent.
+An ePALS membership comes with access to our interactive features such as email, chat rooms (public and private), and discussion boards. As with other typical email accounts, chat rooms and online discussion groups, children may disclose personal information (about themselves, their parents, friends or acquaintances) with their correspondents and in the online forums. Accordingly, parents should advise their children not to give out any personal information without the parents' consent.
 
 #### Email
 
@@ -121,17 +114,9 @@ ePALS offers its registered members public chat rooms that are always open. They
 
 Our members are also able to create private chatrooms, with a name and password of their own choosing. A member who creates such a chatroom can invite whomever they want to join the discussion simply by providing others with the name and password of the private chat room. Only ePALS members may participate, and the private chatroom discussion is only available to the participants.
 
-#### Instant Messaging
-
-Instant Messaging is similar to chat, but is for individuals only. A child under 13 can communicate through Instant Messaging only with their teacher, other students in their class (as decided by the child's teacher), or individuals whom they have specifically added to THEIR list OF INSTANT MESSAGE CORRESPONDENTS. **** If the child’s account is monitored by a teacher or parent, that individual can access and alter the child’s list. In the case of an unrestricted account, the user has total control over their own list. It is only possible to contact someone through Instant Messaging if their username is known. 
-
-#### Bulletin Boards
-
-ePALS has moderated Bulletin Boards, where new topics and messages can be suggested by ePALS members. All topics and statements are monitored and pre-screened by ePALS employees and are typically posted to the Bulletin Board within 24 hours. If Bulletin Board messages are deemed to be inappropriate at ePALS' sole discretion then they will either be edited or not be posted. ePALS does not allow the posting of personally identifiable information in Discussion Boards by those under 13 (beyond their ePALS username). This could include the child’s first and last name, personal address, or other unique identifiers.
-
 #### Moderated Discussions 
 
-ePALS occasionally offers moderated, real-time discussions on specific topics. Any ePALS member can participate in or view these discussions, which typically last from 1 to 2 hours. Every submission is previewed by an ePALS staff member before it is posted, and ePALS does not allow the posting of personally identifiable information in Moderated Discussions by those under 13 (beyond their ePALS username). This could include the child’s first and last name, personal address, or other unique identifiers.
+ePALS occasionally offers moderated, real-time discussions on specific topics. Any ePALS member can participate in or view these discussions, which typically last from 1 to 2 hours. Every submission is previewed by an ePALS staff member before it is posted, and ePALS does not allow the posting of personally identifiable information in Moderated Discussions by those under 13 (beyond their ePALS username). This could include the child's first and last name, personal address, or other unique identifiers.
 
 #### Newsletters
 
@@ -139,17 +124,17 @@ ePALS offers its members our monthly newsletter on new site features and general
 
 Students whose teachers are members, but who may not be members themselves, can also participate in some interactive functions at the ePALS site. 
 
-#### Collaborative Projects [and Video Conferencing] 
+#### Collaborative Projects 
 
-In the course of using ePALS, teachers will often want to participate in collaborative projects with other classes. These projects could involve as many classes as the teacher wishes, and typically combine offline classwork with online collaboration. This collaboration could occur using any of our tools including email, voice or text chat, or video conferencing where they can be seen and heard by others participating in the video conference. These features are run by teachers through their own ePALS accounts. 
-
-#### Class Websites
-
-Teachers are given space on our servers to put up a class website. The contents of the site are previewed by ePALS staff before they are made live to ensure that no inappropriate content is displayed. In the event that the teacher wishes to display personally identifiable information or photographs of class members, they will be instructed to first request written permission from those children's parents. Though we make every effort to ensure that no inappropriate content is displayed and will act to prevent the access of repeat offenders, ePALS is not responsible for copyright or other issues related to personal webpages. 
+In the course of using ePALS, teachers will often want to participate in collaborative projects with other classes. These projects could involve as many classes as the teacher wishes, and typically combine offline classwork with online collaboration. This collaboration could occur using any of our tools including email, voice or text chat. These features are run by teachers through their own ePALS accounts. 
 
 ### PARENTAL REVIEW OF INFORMATION 
 
 Parents can review their child's personal information at any time, and they can also have that information deleted and refuse to permit further collection of information by us. If you wish to view, delete or modify this information, simply contact ePALS support via a "feedback" link, and indicate the changes you wish made. If you want your child's personal information modified or deleted and their membership terminated, simply send your request to ePALS support. 
+
+### CO-BRANDED WE MEDIA SITE
+
+We have joined with We Media to offer their users access to our site. We will be sharing with We Media the registration information of all users who tell us they are 13 and older who come to us from the We Media site, as well as non- personally identifiable aggregate demographic information. We Media will not reveal this information to any third parties. We will not share personally identifiable information of users who tell us they are younger than 13 with We Media or any third party. 
 
 ### LINKS TO OTHER SITES 
 
@@ -178,4 +163,4 @@ Canada
 K1N 7G1   
 Tel.: (613) 562-9847   
 Fax: (613)562-4768   
-Email: support@epals.com | 
+Email: support@epals.com |  
