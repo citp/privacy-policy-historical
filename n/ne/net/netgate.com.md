@@ -1,25 +1,28 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211037id_/http%3A//netgate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009155224id_/http%3A//netgate.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Netgate
 
-This is the web site of Rubicon Communications, LLC, DBA Netgate (hereafter referred to as Netgate).
+## Privacy
+
+This is the web site of Rubicon Communications, LP, DBA NetGate (hereafter referred to as Netgate).
 
 Our postal address is:   
-P.O. Box 1680  
-Spokane, WA 99210-1680
+111 Hekili Street  
+Suite A, PMB 168  
+Kailua, HI 96734-2800
 
 We can be reached via:  
-e-mail: sales@netgate.com  
-telephone: 509 280 8999  
-fax: 509 267 2369
+e-mail: sales@netgate.com (fastest)  
+telephone: +1 509 280 8999  
+fax: +1 509 267 2369
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, and the e-mail addresses of those who make postings to our mail lists / discussion areas. 
 
-The information we collect is not shared with other organizations for commercial purposes. 
+The information we collect is **not** shared with other organizations for commercial purposes. 
 
-With respect to cookies: We do not set any cookies. With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+With respect to cookies: Our shopping cart may set cookies. With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
 
@@ -33,6 +36,6 @@ If you feel that this site is not following its stated information policy, you m
 
 **We occasionally receive complains concerning spam that appears to originate from the "netgate.com" domain. Please look at the entire mail header and you should be able to determine that the spam did not ever come from or pass through the netgate.com domain.
 
-If you can determine where the spam really came from, please contact us with all relevant information so we may persue legal remedies. Our good name and reputation is being damaged, which makes us quite angry
+If you can determine where the spam really came from, please contact us with all relevant information so we may persue legal remedies. Our good name and reputation is being damaged, which makes us quite angry .
 
-** **.**
+**
