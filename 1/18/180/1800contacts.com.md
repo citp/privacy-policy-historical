@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618145523id_/http%3A//www.1800contacts.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800contacts.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604195720id_/http%3A//www.1800contacts.com/policies.html) for the most accurate reproduction.*
 
-# 1-800 CONTACTS | Privacy
+# Privacy Policy | 1-800 CONTACTS
 
   
 Privacy Policy -- Effective 10/11/2000 - Update 9/6/2002 
