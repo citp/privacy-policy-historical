@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620031120id_/http%3A//activediner.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205031400id_/http%3A//www.activediner.com/privacy.cfm) for the most accurate reproduction.*
 
 # ActiveDiner(SM) - Privacy Statement
 
-**  SEARCH**   
-   [United States](https://web.archive.org/search/SearchIndex.cfm)   
-   [Add a Restaurant](https://web.archive.org/add/)   
-
-
-**  REGISTER**  
-    [FREE SPECIALS!](https://web.archive.org/register)  
-
-
-**  [SPECIALS](https://web.archive.org/specials.cfm)**
-
-**  [ABOUT US](https://web.archive.org/about.cfm)**
-
-[](https://web.archive.org/ad/adclick.cfm?REDIRECT=http://www.alladvantage.com/go.asp?refid=JJD497&ADID=37)
-
-|    
-
+| 
 
 > ##  Privacy Statement for ActiveDiner 
 > 
@@ -71,3 +55,5 @@
 > [ comments@activediner.com ](mailto:comments@activediner.com)
 
 * * *
+
+| 
