@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2000-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000423033038id_/http%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205213000id_/http%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Information provided on product order forms is used by Van Dyke Technologies and
 
 Order forms require users to give contact information (like their name and e-mail address) and financial information (like their account or credit card numbers). Customer contact information from the order form is used to communicate with customers about order status, and to verify identity during support and customer service requests. Financial information is used solely for the purpose of billing the user for products. 
 
-Downloading SecureCRT and SecureFX requires a street address, phone number and e-mail address. This is done to verify location as required by US export control regulations. Names or company names and addresses of customers purchasing licenses for SecureCRT and SecureFX outside the US and Canada must be reported to the Bureau of Export Administration. No other personal information is reported. 
+Downloading VShell Server, SecureCRT and SecureFX requires a street address, phone number and e-mail address. This is done to verify location as required by US export control regulations. Names or company names and addresses of customers purchasing licenses for VShell Server, SecureCRT and SecureFX outside the US and Canada must be reported to the Bureau of Export Administration. No other personal information is reported. 
 
 If you have questions about the privacy policy, send e-mail to [privacy@vandyke.com](mailto:privacy@vandyke.com) .
 
