@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justlinux.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203042616id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justlinux.com privacy policy that was archived on 2004-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040113091010id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Jupitermedia Privacy Policy
 
