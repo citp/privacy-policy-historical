@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vetfriends.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622093630id_/http%3A//vetfriends.com/vetfriends.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetfriends.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203030648id_/http%3A//vetfriends.com/vetfriends.cfm) for the most accurate reproduction.*
 
 # US Military Veteran Locator! VetFriends.com
 
@@ -11,7 +11,7 @@ If you feel that VetFriends.com is not abiding by its posted privacy policy, you
 **  
 Information Collection and Use**
 
-VetFriends is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  VetFriends collects information from our users at several different points on our website. This information is used to assist visitors in locating their veteran friends whom they have served with.  
+VetFriends is the sole owner of the information collected on this site.    VetFriends collects information from our users at several different points on our website. This information is used to assist visitors in locating their veteran friends whom they have served with. In general, VetFriends retains the right to rent or sell member information. This assists us in covering the costs of operating the website.  
 
 
 **Registration**  
@@ -61,7 +61,7 @@ Site and Service Updates
 
   
 **Choice/Opt-out  
-** Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by updating their member's profile in the members' section of VetFriends.com or [clicking here.](https://web.archive.org/web/20030622093630id_/http%3A//vetfriends.com/unsubscribe.cfm)
+** Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by updating their member's profile in the members' section of VetFriends.com or [clicking here.](https://web.archive.org/web/20031203030648id_/http%3A//vetfriends.com/unsubscribe.cfm)
 
 Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
