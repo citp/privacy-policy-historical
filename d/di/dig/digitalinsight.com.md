@@ -1,70 +1,63 @@
-> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215093100id_/http%3A//www.digitalinsight.com/ps/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604014538id_/http%3A//digitalinsight.com/ps/privacy_statement.html) for the most accurate reproduction.*
 
 # Products and Services
 
-  
-**Our Commitment to Privacy**
+PRIVACY STATEMENT FOR DIGITAL INSIGHT'S CORPORATE WEBSITE (www.digitalinsight.com)
 
-Digital Insight, the leading provider of real-time Internet banking solutions to community financial institutions, has created this privacy statement in order to demonstrate our firm commitment to safeguarding the online privacy of our customers.
+Digital Insight, the leading provider of outsourced eFinance solutions to visionary financial institutions, is committed to protecting the privacy of our corporate website users. 
 
-[](https://www.truste.org/validate/5563)
+_Why We Gather Information_
 
-**How Collected Information Is Used**
+We gather information to monitor our products and equipment, to customize user preferences, and to improve our services. In certain areas of our website, we may also gather information in order to properly identify our users and complete requests initiated by them. 
 
-The paragraphs that follow disclose the information gathering and dissemination practices for www.digitalinsight.com. 
+_How We Gather Information_
 
-Digital Insight collects and is the sole owner of the following information: 
-* Internet Provider address
-| (collected for product and equipment monitoring to improve services)  
----|---  
-* Access time and date
-| (collected for product and equipment monitoring to improve services and for security purposes)  
-* Failed log-on attempts
-| (collected for security purposes)  
-* User name
-| (required for Customer Services section only)  
-* Password
-| (required for Customer Services section only)  
-* Email address
-| (voluntary information given by the user; Digital Insight uses this email address to provide requested information and services only)  
-* Mailing address
-| (voluntary information given by the user; Digital Insight uses this mailing address to provide requested information and services only)  
-* Telephone number
-| (voluntary information given by the user; Digital Insight uses this telephone number to provide requested information and services only)  
-* Clickstreams
-| (collected for customizing user preferences and reporting internal website statistics)  
-  
-  
-To enhance the personalization and performance of a customer's experience, Digital Insight utilizes cookies (very small files that a website sends to the customer's browser for record-keeping purposes). 
+Digital Insight collects and is the sole owner of the following information which is collected from all of our website users: 
 
-Cookies function as identification cards, recording passwords and preferences. Cookies cannot be executed as code or deliver viruses. Browsers can be set to deliver a message when a cookie has been sent, allowing the customer to decide whether to accept or reject it. 
+  * Internet Provider address 
+  * Access time and date 
+  * Click streams 
 
-In order to tailor website content to our customer's interests, all cookies must be accepted. All of our cookies are temporary, which means that they are active only as long as the customer's browser is running and are deleted when the session has ended. 
 
-**Our Commitment to Information Security**
 
-Digital Insight's encrypted website has security measures in place to protect against the loss, misuse, and alteration of information. 
+In certain areas of the Careers, Contact, and Investor Relations sections of our website, we may also gather voluntary information, including nonpublic personal information, in order to complete user-initiated requests. In these particular areas, if users request information, then to fulfill their requests we may collect their names, mailing addresses, email addresses, phone and fax numbers, and other optional information. Users always have the option not to disclose this information and to request information through another communication method such as telephone. 
 
-All sensitive transactions use Secure Socket Layer (SSL) encrypted network transmissions. Physical access to critical systems and network components is limited to specifically authorized personnel. 
+The Customer Services section of our website is designed for our financial institution clients only, who will be asked to provide their user name and password for identification and security purposes. This section also records failed log-on attempts for security purposes. 
 
-Backups of data stores are maintained in a secure, off-site location that utilizes secure access controls. 
+_Information We May Disclose_
 
-Information collected on [www.digitalinsight.com](http://www.digitalinsight.com/) is not sold to third parties. 
+Within Digital Insight - Digital Insight may share user information internally for the purpose of performing requested transactions and administering business. 
 
-**Beyond Our Control**
+Outside of Digital Insight - We are required to or we may provide information about users to third parties without the user's consent, as permitted by law; for example, to respond to a subpoena or court order, or judicial or regulatory process. 
 
-Our website may contain links to other websites. Digital Insight is not responsible for the privacy practices or the content of the linked websites and encourages customers to read the privacy statement of all linked websites to become acquainted with their specific privacy practices. 
+In addition, we may provide information about users to third parties who help us perform user-requested transactions under agreement with us. These companies are obligated to maintain the confidentiality of users' nonpublic personal information that we provide to them. 
 
-**How to Contact Us**
+We do not provide user information to any other third party except as permitted by law. 
 
-To correct misinformation or for questions and comments regarding this privacy statement, please contact: 
+_Beyond Our Control_
+
+Our website may contain links to other websites. Digital Insight is not responsible for the privacy practices or the content of the linked websites and encourages a full review of those third parties' privacy and security statements. 
+
+Our Security Practices 
+
+We also take steps to safeguard user information. We maintain physical, electronic, and procedural safeguards to guard this information. 
+
+We restrict access to the personal and account information of users to those employees who need to know that information in the course of their job responsibilities. We educate our employees and contractors about the importance of confidentiality and user privacy. We take appropriate disciplinary measures to enforce employee and contractor responsibilities regarding user information. 
+
+_How To Contact Us_
+
+For questions and comments regarding this privacy statement, please contact: 
 
 Customer Support  
 Digital Insight  
 26025 Mureau Road  
 Calabasas, CA 91302  
-[customersupport@digitalinsight.com](mailto:customersupport@digitalinsight.com)
+or [customersupport@digitalinsight.com](mailto:customersupport@digitalinsight.com)
 
-Privacy practices may change over time, please check [www.digitalinsight.com](http://www.digitalinsight.com/) regularly to view the most current version of our privacy statement. 
+We reserve the right to modify this Privacy Statement at any time. This page will always contain a version number and date, making it easy to see when changes have taken place. These principles are for general guidance and do not constitute a contract, and do not modify or amend any agreement we have with our customers. 
 
-Digtial Insight is a member of the TRUSTe program. If Digital Insight does not satisfactorily respond to your inquiry, contact TRUSTe at <http://www.truste.org/users/users/_watchdog.html>. 
+The examples contained within this Privacy Statement are illustrations and are not intended to be exclusive. 
+
+Last updated: May 16, 2001 Version 1.1 
+
+[](https://www.truste.org/validate/5563) Digital Insight is a member of the TRUSTe program. If Digital Insight does not satisfactorily respond to your inquiry, contact TRUSTe at <http://www.truste.org/watchdog.html>. 
