@@ -1,845 +1,795 @@
-<!--The following is the downloaded HTML source of the philly.com privacy policy that was archived on 2002-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601125610id_/http%3A//philadelphia.realcities.com/rc/support/terms.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the philly.com privacy policy that was archived on 2004-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610143933id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use) for the most accurate reproduction.-->
 
 <html><head>
-<title>Philly.com: Search Help</title>
+<meta name="generator" content="HTML Tidy, see www.w3.org"><title>Contact Us : Privacy Policy &amp; Terms of Use -- Philly.com</title>
+<link rel="stylesheet" type="text/css" href="/css/palette/philly/en/global.css"><script type="text/javascript" language="javascript">
 
-<!-- header below-->
-<link rel="stylesheet" type="text/css" href="/rc/styles/rcstyles.css">
-<script language="JavaScript" type="text/javascript">
-<!--
-function MM_openBrWindow(theURL,winName,features) {
-   window.open(theURL,winName,features);
+_krdDartOrd = new Date().getTime();
+
+_krdDartInc = 0;
+var navReady = false;
+var toolsReady = false;var onLoadScript="";function Browser() {var b=navigator.appName;
+if (b=="Netscape") this.b="ns";
+else if ((b=="Opera") || (navigator.userAgent.indexOf("Opera")>0)) this.b = "opera";
+else if (b=="Microsoft Internet Explorer") this.b="ie";
+// I have disabled the following line, but something similar might be useful later,
+// but launching a popup window is more polite than this alert.
+//if (!b) alert(''Unidentified browser./nThis browser is not supported,'');
+this.version=navigator.appVersion;
+this.v=parseInt(this.version);
+this.ns=(this.b=="ns" && this.v>=4);
+this.ns4=(this.b=="ns" && this.v==4);
+this.ns6=(this.b=="ns" && this.v==5);
+this.ie=(this.b=="ie" && this.v>=4);
+this.ie4=(this.version.indexOf('MSIE 4')>0);
+this.ie4up = (this.ie && this.v>= 4);
+this.ns5up = (this.ns && this.v>= 5);
+this.ie5=(this.version.indexOf('MSIE 5')>0);
+this.ie5up = (this.ie5);
+this.ie55=(this.version.indexOf('MSIE 5.5')>0);
+this.opera=(this.b=="opera");
+this.def=(this.ie||this.dom);var ua=navigator.userAgent.toLowerCase();
+this.mac = (ua.indexOf("mac")!=-1);if (ua.indexOf("win")>-1) this.platform="win32";
+else if (ua.indexOf("mac")>-1) this.platform="mac";
+else this.platform="other";
 }
-//-->
+var is = new Browser();
+// tiny extra css. these are ONLY used by old browsers.
+// VAST majority of users will NEVER request these files.
+// Even NS4 is around 7% of market and falling
+if (is.ns4 && is.mac==false) {
+var css = "<LINK rel='stylesheet' type='text/css' href='/css/palette/philly/en/browser/ns4.css'>\n";
+document.write(css);
+}
+if (((is.ns4)||(is.ie4))&&( is.mac)) {
+var css = "<LINK rel='stylesheet' type='text/css' href='/css/palette/philly/en/browser/ns4mac.css'>\n";
+document.write(css);
+}
+if (is.ie4 && is.mac==false) {
+var css = "<LINK rel='stylesheet' type='text/css' href='/css/palette/philly/en/browser/ie4.css'>\n";
+document.write(css);
+}
+
+function LayerObject(divId) {
+this.name = divId;
+if (is.ns4) this.ob = eval("document." +divId);
+else if (is.ie4) this.ob = document.all(divId);
+else this.ob = document.getElementById(divId);
+this.x = 0;
+this.y = 0;
+this.width = this.getWidth();
+this.height = this.getHeight();
+}
+LayerObject.prototype.px = (is.version>=5)?"px":"";
+LayerObject.prototype.hideSyntax = (is.ns4)? "hide":"hidden";
+LayerObject.prototype.showSyntax = "visible";// NS4::  Unbelievable, but document.layername.document.imgname works for img-in-layer-in document
+// and it works for img in layer in table in document.
+// but it doesnt work for img in layer in table in table in document.
+// Maybe a workaround exists, but it seems unlikely at this point.
+// The images MUST therefore be nested only one deep....
+LayerObject.prototype.getInlineLeft = function() {
+if (is.ns4) return this.ob.pageX;
+else if ((is.ie) || (is.opera)) {
+var elem = this.ob;
+var xPos = 0;
+var yPos = 0;
+while (elem.offsetParent != null) {
+xPos += elem.offsetLeft;
+yPos += elem.offsetTop;
+elem = elem.offsetParent;
+}
+if (is.mac) xPos += 2;
+return xPos;
+}
+else return (this.ob.offsetLeft + document.body.offsetLeft);
+}
+
+LayerObject.prototype.getInlineTop = function() {
+if (is.ns4) return this.ob.pageY;
+else if ((is.ie) || (is.opera)) {
+var elem = this.ob;
+var yPos=0;
+while (elem.offsetParent != null) {
+yPos += elem.offsetTop;
+elem = elem.offsetParent;
+}
+if (is.mac) yPos += 2;
+return yPos;
+}
+else return (this.ob.offsetTop+ document.body.offsetTop);
+}
+
+//getWidth and getHeight works for both inline and positioned divs.
+LayerObject.prototype.getWidth = function () {
+if (is.ns4) return this.ob.clip.width;
+else if (is.opera) return this.ob.style.pixelWidth;
+else return this.ob.offsetWidth;
+}
+LayerObject.prototype.getHeight = function () {
+if (is.ns4) return this.ob.clip.height;
+else if (is.opera) return this.ob.style.pixelHeight;
+else return this.ob.offsetHeight;
+}
+LayerObject.prototype.hide = function() {
+if (is.ns4) this.ob.visibility = this.hideSyntax;
+else this.ob.style.visibility = this.hideSyntax;
+}
+LayerObject.prototype.show = function() {
+if (is.ns4) this.ob.visibility = this.showSyntax;
+else this.ob.style.visibility = this.showSyntax;
+}
+LayerObject.prototype.moveLayerTo = function(toX, toY) {
+this.x = toX;
+this.y = toY;
+}
+LayerObject.prototype.updateLayer = function() {
+if (is.ns4) {
+this.ob.left = Math.round(this.x) + this.px;
+this.ob.top = Math.round(this.y)+ this.px ;
+}
+else {
+this.ob.style.left = Math.round(this.x) + this.px;
+this.ob.style.top = Math.round(this.y) + this.px;
+}
+}
+//-----------------
+function roll(divName, imgName, which) {
+var suffix = (which==1)?"on":"off"
+if ((is.ns4)&&(divName!=0)) {
+var imgObject = eval("document." + divName +".document.images['"+imgName +"']");
+imgObject.src = eval(imgName + "_" + suffix + ".src");
+}
+else {
+document.images[imgName].src = eval(imgName + "_" + suffix + ".src");
+}
+}
+
+function init() {
+if (onLoadScript) eval(onLoadScript);
+}
+
+// Workaround for the netscape resize problem --
+// namely, on resize ns looses div positioning and
+// styles from css files.
+// This checks to see if the window''s dimensions have
+// actually changed (because Netscape often fires a
+// false onResize event when it forms scrollbars);
+// if the dimensions have changed, page is reloaded
+function resizefix(){
+if((document.resizeFix.initWidth != window.innerWidth) ||
+(document.resizeFix.initHeight != window.innerHeight))
+{
+document.location = document.location;
+}
+}
+
+// This code creates a new object with properties
+// to hold the current window width & height to be
+// used in the event of a netscape resize
+document.resizeFix = new Object();
+if(is.ns4){
+document.resizeFix.initWidth = window.innerWidth;
+document.resizeFix.initHeight = window.innerHeight;
+window.onresize=resizefix;
+}
+
+
+
+
+
+
+
+function initMenus(){
+}
+
+
+function showResults(siteSurveyKey) {
+var url="/mld/templates/contentModules/poll-results-popup.jsp"+ "?siteSurveyKey=" + siteSurveyKey;
+window.open(url, 'Title');
+}
+
+function openWin(URL) {
+aWindow = window.open(URL,
+'thewindow','width=500,height=400,resizable=yes,scrollbars=yes');
+}
+
+
+
+
+
 </script>
 </head>
-<body bgcolor="#FFFFFF" link="#0033CC" alink="#00CC00" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<table bgcolor="FFFFFF" width="723" border="0" cellpadding="0" cellspacing="0" align="CENTER">
-<tbody><tr>
-    <td><a name="TOP"></a><br>
-      <table width="723" cellspacing="0" cellpadding="0" border="0" align="CENTER">
-<tbody><tr align="center"><td>
-<!-- begin ad -->
- 
-<!-- end ad -->
-</td></tr>
-</tbody></table>
+<body class="body" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 
-      <table width="723" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-	  <td background="/rc/graphics_common/topFade.gif" align="center" valign="middle"><a href="#" onclick="MM_openBrWindow('/rc/minicitynav.html','citylist','scrollbars=yes,width=438,height=572')"><img src="/rc/graphics_common/rc_horizontal.gif" height="15" width="260" hspace="10" vspace="4" border="0"></a></td>
-      </tr>
-      </tbody></table>
-       
-<table border="0" cellspacing="0" cellpadding="0" width="723">
-  <tbody><tr align="CENTER" bgcolor="#336699"> 
-    <td width="5"><img src="/rc/graphics_common/1pix.gif" width="1" height="1"></td>
-    <td class="tab"><a href="http://classifieds.phillynews.com" title="Browse &amp; Search Classified Ads"><font color="#FFFFFF">Classifieds</font></a></td>
-    <td class="tab" nowrap=""><font color="#6699CC">&nbsp; | &nbsp;</font></td>
-    <td class="tab"><a href="http://marketplace.philly.com" title="Local &amp; Online Shopping"><font color="#FFFFFF">Shopping</font></a></td>
-    <td class="tab" nowrap=""><font color="#6699CC">&nbsp; | &nbsp;</font></td>
-    <td class="tab"><a href="http://philadelphia.realcities.com/category/travel_and_visitors/" title="Travel &amp; Visitors"><font color="#FFFFFF">Travel</font></a></td>
-    <td class="tab" nowrap=""><font color="#6699CC">&nbsp; | &nbsp;</font></td>
-    <td class="tab"><a href="http://www.philly.com/health/" title="Health and Fitness"><font color="#FFFFFF">Health</font></a></td>	
-    <td class="tab" nowrap=""><font color="#6699CC">&nbsp; | &nbsp;</font></td>
-    <td class="tab"><a href="http://philadelphia.realcities.com/yellowpages/" title="Find Local Businesses"><font color="#FFFFFF">Yellow Pages</font></a></td>
-    <td class="tab" nowrap=""><font color="#6699CC">&nbsp; | &nbsp;</font></td>
-    <td class="tab"><a href="http://philadelphia.realcities.com/maps/" title="Get Maps and Directions"><font color="#FFFFFF">Maps &amp; Directions</font></a></td>
-    <td class="tab" nowrap=""><font color="#6699CC">&nbsp; | &nbsp;</font></td>
-    <td class="tab"><a href="http://money.philly.com/" title="Financial and Business Information"><font color="#FFFFFF">Money</font></a></td>
-    <td width="5"><img src="/rc/graphics_common/1pix.gif" width="1" height="1"></td>
-  </tr>
-  <tr> 
-    <td colspan="15" height="2" bgcolor="#333366"><img src="/rc/graphics_common/1pix.gif" width="1" height="1"></td>
-  </tr>
-</tbody></table>
 
-      <!-- logo -->
-<table border="0" cellspacing="0" cellpadding="0" align="center" width="723">
-<tbody><tr>
-    <td width="185" height="3"><img src="/rc/graphics_common/1pix.gif" width="185" height="3"></td>
-    <td width="538" height="3"><img src="/rc/graphics_common/1pix.gif" width="538" height="3"></td>
-</tr>
-<tr> 
-    <td align="left" width="185" rowspan="2"><a href="http://www.philly.com"><img src="/rc/logos/philly_185.gif" width="185" height="40" vspace="5" alt="Philly.com" border="0"></a></td>
-    <td width="538" align="center"><font size="1" style="color : #666666; font : 10px verdana,Arial,Helvetica" face="verdana,arial,helvetica" color="#666666">Featuring Local News &amp;
-        Information from:</font><br></td>
-</tr>
-<tr>
-    <td align="center"><a href="http://inquirer.philly.com/"><img src="/rc/logos/philly_inquirer_150.gif" alt="Inquirer" border="0" height="25" width="150" hspace="5"></a>
-	<a href="http://dailynews.philly.com/"><img src="/rc/logos/philly_news_150.gif" alt="Daily News" border="0" height="25" width="150" hspace="5"></a></td>
-</tr>
-</tbody></table>
-<!-- end logo -->
 
-       
-<table border="0" cellspacing="0" cellpadding="0" width="723">
-  <tbody><tr align="center" bgcolor="#336699"> 
-    <td width="5" bgcolor="#333366"><img src="/rc/graphics_common/1pix.gif" width="1" height="1"></td>
-    <td class="tab" bgcolor="#333366"><a href="http://www.philly.com" title="Find it in Philadelphia"><font color="#FFFFFF">Local Guide</font></a></td>
-    <td class="tab" bgcolor="#333366"><font color="#333366">|</font></td>
-    <td class="tab"><a href="/news/" title="Local and national news"><font color="#FFFFFF">News</font></a></td>
-    <td class="tab"><font color="#6699CC">|</font></td>
-    <td class="tab"><a href="/entertainment/" title="Your Local Entertainment Guide"><font color="#FFFFFF">Entertainment</font></a></td>
-    <td class="tab"><font color="#6699CC">|</font></td>
-    <td class="tab"><a href="http://sports.philly.com/" title="Sports &amp; Recreation"><f ont="" color="#FFFFFF">Sports</f></a></td>
-    <td class="tab"><font color="#6699CC">|</font></td>
-    <td class="tab"><a href="/category/autos_and_driving/" title="Your Automotive Resource"><font color="#FFFFFF">Cars</font></a></td>
-    <td class="tab"><font color="#6699CC">|</font></td>
-    <td class="tab"><a href="/category/real_estate_and_home/" title="Buy, Sell, Build or Rent"><font color="#FFFFFF">Real 
-      Estate</font></a></td>
-    <td class="tab"><font color="#6699CC">|</font></td>
-    <td class="tab"><a href="http://careers.philly.com" title="For Job Seekers &amp; Recruiters"><font color="#FFFFFF">Careers</font></a></td>  
-    <td width="5"><img src="/rc/graphics_common/1pix.gif" width="1" height="1"></td>
-  </tr>
-  <tr> 
-    <td colspan="15" height="2" bgcolor="#333366"><img src="/rc/graphics_common/1pix.gif" width="1" height="1" alt=""></td>
-  </tr>
-</tbody></table>
+
+
+<script id="search_box_center_jsp_script" language="javascript" type="text/javascript">
+function searchFormSubmit(form) {
+var searchSelectIndex = form.searchSelect.selectedIndex;
+var searchSelectValue = form.searchSelect.options[searchSelectIndex].value;
+if (searchSelectValue == "archives") {
+window.location = "http://www.newslibrary.com/nlsearch.asp?forceTheme=RealCities&s_site=philly&search_mode=all&action=search&date_mode=year&year=last+180+days&sort=d%3Ah&nitems=10&region=dn&region=pi&dbquery=" + form.query.value;
+return false;
+}
+return true;
+}
+</script>
+<!-- CDS : SDP2.3.0_full_05282004_120006 : production --><table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="768">
+<tbody><tr><td background="/images/palette/philly/bg1.gif" width="280"><a href="/"><img src="/images/logos/site/philly/philly/site_logo_280x75.gif" width="280" height="75" alt="" border="0"></a></td><td background="/images/palette/philly/bg2.gif" align="left" width="100%">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody><tr><td><table cellspacing="0" cellpadding="1" border="0">
+<tbody><tr><td rowspan="4"><img src="/images/common/spacer.gif" width="25" height="1"></td></tr><tr><td colspan="4"><b class="headersearch">Search: </b>&nbsp;</td></tr><form action="http://www.philly.com/mld/philly/search/search_results.htm" method="get" name="SearchForm_top" onsubmit="return searchFormSubmit(this)"></form>
+<input type="hidden" name="pubName" value="philly">
+<input type="hidden" name="orderBy" value="date">
+<input type="hidden" name="pageStart" value="1">
+
+
+<input type="hidden" name="sitesToSearch" value="philly,inquirer,dailynews,realcities">
+
+
+
+<input type="hidden" name="pageSize" value="10">
+<input type="hidden" name="fieldsToSearch" value="HEADLINE,FORSEARCH,LEAD,BYLINE">
+<input type="hidden" name="queryType" value="all">
+<tr><td class="v1search">
+<span id="globalsearchform"><select name="searchSelect" class="searchformelement2">
+<option value="article" selected="">Articles-last 7 days</option><option value="archives">Articles-older than 7 days</option>
+
+
+
+<option value="web">The Web</option>
+
+
+</select>
+</span>
+</td><td class="headersearch">&nbsp;<b>for</b>&nbsp;</td><td><input name="query" type="text" size="23" class="searchformelement" maxlength="256">
+</td><td><input type="submit" value="Go" class="smallformbutton">
+<img src="/images/common/spacer.gif" width="20" height="1">
 </td>
-  </tr>
-</tbody></table>
-<center>
-<table width="723" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>
-<table width="723" cellspacing="0" cellpadding="4" border="0" bgcolor="#4c8dce">
-<tbody><tr>
-  <form action="http://philadelphia.realcities.com/results/" method="GET"></form>
-<td>
-<center>
-  <font face="Arial, Verdana, Helvetica" size="-1">
-  <b>&nbsp;Search&nbsp;</b>
-  </font>
+</tr><tr><td colspan="4"><img src="/images/common/spacer.gif" width="1" height="4"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000000" width="768">
+<tbody><tr><td align="left" bgcolor="#000000" background="/images/palette/philly/bg3.gif"><img src="/images/palette/philly/navigation/en/mediabar_nav_label.gif" border="0" alt="Go to your local news source"><a href="/mld/inquirer/"><img src="/images/logos/site/philly/philly/mediapartners/media_partner_home_1.gif" border="0" alt="The Philadelphia Inquirer"></a><a href="/mld/dailynews/"><img src="/images/logos/site/philly/philly/mediapartners/media_partner_home_2.gif" border="0" alt="The Philadelphia Daily News"></a><a href="/mld/philly/sports/"><img src="/images/logos/site/philly/philly/mediapartners/media_partner_home_3.gif" border="0" alt="Sports"></a><a href="/mld/philly/entertainment/"><img src="/images/logos/site/philly/philly/mediapartners/media_partner_home_4.gif" border="0" alt="Entertainment"></a><a href="/mld/philly/classifieds/"><img src="/images/logos/site/philly/philly/mediapartners/media_partner_home_5.gif" border="0" alt="Classifieds"></a></td></tr></tbody></table>
 
-  <font face="Arial, Verdana, Helvetica" size="-2">
-  <select name="SearchType" class="formfont">
-    <option value="Local Web Sites">Local Web Sites</option>
-    <option value="The Web">The Web</option>
-    <option value="Philadelphia Inquirer">Philadelphia Inquirer</option>
-    <option value="Philadelphia Daily News">Philadelphia Daily News</option>
-  </select>
-  </font>
-  <font face="Arial, Verdana, Helvetica" size="-2">
-  <b>&nbsp;for&nbsp;</b>
-  </font>
-  <input type="text" name="SearchString" size="20" value="">
+<table border="0" cellpadding="0" cellspacing="0" width="768">
+<tbody><tr><td align="center" class="columndiv">
+<img src="/images/common/spacer.gif" width="768" height="1"><br></td></tr></tbody></table>
+<table border="0" cellpadding="2" cellspacing="0" width="768">
+<tbody><tr><td align="center" class="adbkg"><script language="JavaScript1.1">
+_krdDartInc++;
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;dcopt=ist;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;dcopt=ist;tile=1;ord=1580405477675?"></script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;ord=1086878373469?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=top;c2=terms_of_use;c3=terms_of_use_homepage;pos=top;group=banner;ord=1086878373469?" BORDER="0" ></A>
+</noscript>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="768">
+<tbody><tr><td class="columndiv" width="134"><img src="/images/common/spacer.gif" width="134" height="1"></td><td class="columndiv" width="1"><img src="/images/common/spacer.gif" width="1" height="1"></td><td class="columndiv" width="472"><img src="/images/common/spacer.gif" width="472" height="1"></td><td class="columndiv" width="1"><img src="/images/common/spacer.gif" width="1" height="1"></td><td class="columndiv" width="160"><img src="/images/common/spacer.gif" width="160" height="1"></td></tr><tr>
+<td class="leftrail" valign="top" align="center" width="134"><script type="text/javascript" language="javascript">
+var request_url = escape(document.location.href);
+var request_domain = ".philly.com";</script><script type="text/javascript" language="javascript">
+function remove_rm() {
+var cookie;
+var krm_cookies = "KRD_RM";
+cookie=krm_cookies + '=;path=/;domain=' + request_domain + ';expires=Fri, 02-Jan-1970 00:00:00 GMT';
+document.cookie=cookie;
+var erights_cookies = "ERIGHTS";
+cookie=erights_cookies + '=;path=/;domain=' + request_domain + ';expires=Fri, 02-Jan-1970 00:00:00 GMT';
+document.cookie=cookie;
+}
+var all_cookies = document.cookie;
+var krm_cookies = "KRD_RM";
+var erights_cookies = "ERIGHTS";var start;
+var end;
+var email_user="Dear user";
+var cookie_value;
+var is_rem_me="N";
+var is_log_in="N";
+var session="rememberMe";
+var cookie_pos = all_cookies.indexOf(krm_cookies + "=");
+if (cookie_pos != -1) {
+start = cookie_pos + krm_cookies.length + 1;
+end = all_cookies.indexOf(";", start);
+if (end == -1) end = all_cookies.length;
+cookie_value = all_cookies.substring(start, end);
+var cookie_array = cookie_value.split("|");
+if (cookie_array != null && cookie_array.length == 3) {
+email_user = cookie_array[1];
+is_rem_me = cookie_array[2];
+if (is_rem_me == "Y") {
+is_log_in = "Y";
+}
+}
+}
+cookie_pos = all_cookies.indexOf(erights_cookies + "=");
+if (cookie_pos != -1) {
+start = cookie_pos + erights_cookies.length + 1;
+end = all_cookies.indexOf(";", start);
+if (end == -1) end = all_cookies.length;
+cookie_value = all_cookies.substring(start, end);
+session = cookie_value;
+}
+if (is_log_in == "N") {
+if (cookie_pos != -1) {
+is_log_in = "Y";
+}
+}
 
-  <font face="Verdana, Arial, Helvetica" size="-1">
-  <input type="submit" value="Go" style="font-size: smaller">
-  </font>
+if (is_log_in == "Y") {
+document.write('<table border="0" cellpadding="0" cellspacing="0" width="100%">');
+document.write('<tr>');
+document.write('<td class="regboxbg" align="center" colspan="2"><span class="regtitle2">Welcome</span></td>');
+document.write('</tr>');
+document.write('<tr>');
+document.write('<td class="regboxbg" align="center" colspan="2"><span class="reg3">' + email_user + '</span><br></td>');
+document.write('<tr>');
+document.write('	<td class="regboxbg" align="center" colspan="2"><a href="https://registration.realcities.com/reg/toolbar.do?dispatch=updateAccount&url=' + request_url + '" class="v1"><b>Account Center</b></a><br /><a href="https://registration.realcities.com/reg/toolbar.do?dispatch=logout&url=' + request_url + '" onClick="remove_rm()" class="v1"><b>Log Out</b></a></td>');
+document.write('</tr>');
+document.write('<tr>');
+document.write('<td class="regboxbg"><img src="/images/common/spacer.gif" width="1" height="2"/></td>');
+document.write('</tr>');
+document.write('</table>');
+document.write('<table border="0" cellpadding="0" cellspacing="0" width="100%">');
+document.write('<tr>');
+document.write('<td class="raildiv"><img src="/images/common/spacer.gif" width="1" height="1" /><br></td>');
+document.write('</tr>');
+document.write('</table>');}
+else {
+document.write('<table border="0" cellpadding="0" cellspacing="0" width="100%">');
+document.write('<tr>');
+document.write('	<td class="regboxbg" align="center" colspan="2"><img src="/images/common/spacer.gif" width="1" height="7" /><br>' +
+'<span class="v1"><a href="https://registration.realcities.com/reg/toolbar.do?dispatch=createAccount&url=' + request_url + '" class="nav2">Register</a> <b>or</b> ' +
+'<a href="https://registration.realcities.com/reg/toolbar.do?dispatch=login&url=' + request_url + '" class="nav2">Log In</a>.</td>');
+document.write('</tr>');
+document.write('<tr>');
+document.write('	<td class="regboxbg" align="center"  colspan="2"><a href="https://registration.realcities.com/reg/toolbar.do?dispatch=memberBenefits&url=' + request_url + '" class="nav2"><b>Member Benefits</b></a><br>' +
+'<img src="/images/common/spacer.gif" width="1" height="6" /><br></td>');
+document.write('</tr>');
+document.write('</table>');
+document.write('<table border="0" cellpadding="0" cellspacing="0" width="100%">');
+document.write('<tr>');
+document.write('<td class="raildiv"><img src="/images/common/spacer.gif" width="1" height="1" /><br></td>');
+document.write('</tr>');
+document.write('</table>');
+}
+</script><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>	<td class="regboxbg" align="center" colspan="2"><img src="/images/common/spacer.gif" width="1" height="7"><br><span class="v1"><a href="https://registration.realcities.com/reg/toolbar.do?dispatch=createAccount&amp;url=https%3A//web.archive.org/web/20040610143933id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use/" class="nav2">Register</a> <b>or</b> <a href="https://registration.realcities.com/reg/toolbar.do?dispatch=login&amp;url=https%3A//web.archive.org/web/20040610143933id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use/" class="nav2">Log In</a>.</span></td></tr><tr>	<td class="regboxbg" align="center" colspan="2"><a href="https://registration.realcities.com/reg/toolbar.do?dispatch=memberBenefits&amp;url=https%3A//web.archive.org/web/20040610143933id_/http%3A//www.philly.com/mld/philly/contact_us/terms_of_use/" class="nav2"><b>Member Benefits</b></a><br><img src="/images/common/spacer.gif" width="1" height="6"><br></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="raildiv"><img src="/images/common/spacer.gif" width="1" height="1"><br></td></tr></tbody></table>
 
-<nobr><a class="noul" href="http://philadelphia.realcities.com/rc/support/searchhelp.htm" title="Using Search on Real Cities Sites">
-<font face="Verdana,Arial,Helvetica" size="-2" color="#CCFFCC"><b>Search Help</b></font></a></nobr>
-</center>
-  
-</td>
 
-</tr>
-</tbody></table>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td class="navborder">
+<table border="0" cellpadding="0" cellspacing="1" width="100%"><tbody><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/news/" name="1">
+<span class="nav1">News</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/business/" name="1">
+<span class="nav1">Business</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/entertainment/" name="1">
+<span class="nav1">Entertainment</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/sports/" name="1">
+<span class="nav1">Sports</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/classifieds/" name="1">
+<span class="nav1">Classifieds</span></a></b>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/about/" name="5750"><b>
+<span class="nav2">About</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/about_np2/" name="5800"><b>
+<span class="nav2">About The Philadelphia Daily News</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/about_np1/" name="5785"><b>
+<span class="nav2">About The Philadelphia Inquirer</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/advertise/" name="5740"><b>
+<span class="nav2">Advertise</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/advertise_np2/" name="5830"><b>
+<span class="nav2">Advertise with The Philadelphia Daily News</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/advertise_np1/" name="5790"><b>
+<span class="nav2">Advertise with The Philadelphia Inquirer</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/contact_list/" name="5780"><b>
+<span class="nav2">Contact List</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/copyright/" name="1000363"><b>
+<span class="nav2">Copyright</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/feedback/" name="5745"><b>
+<span class="nav2">Feedback</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/feedback_np2/" name="5825"><b>
+<span class="nav2">Feedback to The Philadelphia Daily News</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/feedback_np1/" name="5810"><b>
+<span class="nav2">Feedback to The Philadelphia Inquirer</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/help/" name="5755"><b>
+<span class="nav2">Help</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/help_np2/" name="8075"><b>
+<span class="nav2">Help with The Philadelphia Daily News</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/help_np1/" name="8070"><b>
+<span class="nav2">Help with The Philadelphia Inquirer</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/terms_of_use/" name="1000362"><b>
+<span class="nav2">Privacy Policy &amp; Terms of Use</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/site_index/" name="1000360"><b>
+<span class="nav2">Site Index</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/subscriptions_np2/" name="5770"><b>
+<span class="nav2">Subscriptions to The Philadelphia Daily News</span>
+</b></a>
+</td></tr><tr><td class="navbg2">
+<span class="navbullet2">&nbsp;•&nbsp;</span>
+<a href="/mld/philly/contact_us/subscriptions_np1/" name="5820"><b>
+<span class="nav2">Subscriptions to The Philadelphia Inquirer</span>
+</b></a>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/shopping/" name="1">
+<span class="nav1">Shopping</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/living/education/" name="1">
+<span class="nav1">Education</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/living/health/" name="1">
+<span class="nav1">Health</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/living/home/" name="1">
+<span class="nav1">Home &amp; Garden</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/living/travel/" name="1">
+<span class="nav1">Travel</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/living/columnists/" name="1">
+<span class="nav1">Columnists</span></a></b>
+</td></tr><tr><td class="navbg1">
+&nbsp;<b><a href="/mld/philly/living/fashion/" name="1">
+<span class="nav1">Style</span></a></b>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td class="raildiv"><img src="/images/common/spacer.gif" width="1" height="1" border="0"></td></tr></tbody></table>
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td class="navborder"><table border="0" cellpadding="0" cellspacing="1" width="100%">
+<tbody><tr><td valign="top" class="navbg1">&nbsp;<a href="/mld/philly/news/weather"><span class="nav1"><b>Weather</b></span></a></td></tr><tr><td class="navbg8"><table border="0" cellpadding="1" cellspacing="0" width="94%" align="center"><tbody><tr valign="top">
+<td class="navbg8" width="100%"><span class="mediumarea"><b>Philadelphia</b></span></td><td class="navbg8" nowrap="nowrap" align="right"><span class="mediumarea"><img src="/images/component/weather_temp_up.gif" width="6" height="7">84</span></td><td class="navbg8" nowrap="nowrap" align="right"><span class="mediumarea"><img src="/images/component/weather_temp_down.gif" width="6" height="7">60</span></td></tr><tr valign="top">
+<td class="navbg8" width="100%"><span class="mediumarea"><b>Atlantic City</b></span></td><td class="navbg8" nowrap="nowrap" align="right"><span class="mediumarea"><img src="/images/component/weather_temp_up.gif" width="6" height="7">85</span></td><td class="navbg8" nowrap="nowrap" align="right"><span class="mediumarea"><img src="/images/component/weather_temp_down.gif" width="6" height="7">58</span></td></tr></tbody></table></td></tr><tr><td class="navbg1">&nbsp;<a href="http://inquirer.philly.com/listings/"><span class="nav1"><b>Local Events</b></span></a><br></td></tr><tr><td class="navbg1">&nbsp;<a href="http://yp.philly.com/bin/cgidir.dll?MEM=1222"><span class="nav1"><b>Yellow Pages</b></span></a><br></td></tr><tr><td class="navbg1">&nbsp;<a href="http://forums.realcities.com/dir-app/nav/forumdirectory.aspx?webtag=kr-phillyz&amp;byName=y"><span class="nav1"><b>Discussion Boards</b></span></a><br></td></tr><tr><td class="navbg1">&nbsp;<a href="http://maps.philly.com/jump.cgi/refsrc=KR.1222"><span class="nav1"><b>Maps &amp; Directions</b></span></a><br></td></tr></tbody></table>
 </td></tr></tbody></table>
 
- 
-</center>
-<table border="0" cellpadding="0" cellspacing="0" width="723" align="center">
-  <tbody><tr height="30"> 
-    <td align="right" valign="middle" background="/rc/graphics_common/weatherFade.gif"><font style="font : 10px verdana,Arial,Helvetica" size="-2" face="verdana,Arial,Helvetica,sans-serif">Saturday, June 1, 2002
-&nbsp;&nbsp;
-			<font style="font : 10px verdana,Arial,Helvetica" size="-2" face="verdana,Arial,Helvetica,sans-serif"><nobr>High 62°F &nbsp;  Low 44°F</nobr></font>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://philadelphia.realcities.com/weather/" title="Weather conditions and 5-day forecast"><b><font style="font : bold 13px Arial,Helvetica,sans-serif" size="-1" face="Arial,Helvetica,sans-serif">Local Forecast &amp; More Weather</font></b></a>&nbsp;&nbsp;</font></td>
-<td width="100" valign="middle" background="http://philadelphia.realcities.com/rc/graphics_common/weatherFade.gif"><a href="http://philadelphia.realcities.com/weather/" alt="Weather conditions and 5-day forecast"><img src="http://philadelphia.realcities.com/weather/weather_icon.gif" width="25" height="20" hspace="3" border="0"></a>
-
-</td>
-  </tr>
-</tbody></table>
-<!-- End of Top bar -->
-<!-- Beginning of center content area table -->
-<table width="723" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr valign="top">
-    <!-- Start of Left Rail -->
-    <td width="160" bgcolor="#BCDEFE"><!-- top cube ads section -->
-	<center><img alt="" height="10" src="/rc/graphics_common/1pix.gif" width="100"><br>
-<!-- begin ad -->
- 
-<!-- end ad -->
-<br><img alt="" height="10" src="/rc/graphics_common/1pix.gif" width="100"><br>
-<!-- begin ad -->
- 
-<!-- end ad -->
-<br><img alt="" height="10" src="/rc/graphics_common/1pix.gif" width="100"><br>
-</center>
-	<!-- hot links section -->
-	
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
-    <tbody><tr>
-        <td bgcolor="#669999"><img width="160" src="http://philadelphia.realcities.com/rc/graphics_common/1pix.gif" height="1" alt=""></td>
-    </tr>
-    <tr>
-        <td bgcolor="#333366">
-            <font style="COLOR: #ffffff; FONT: bold 12px Arial,Helvetica" size="2" face="Arial,Helvetica" color="#ffffff">
-                <b>&nbsp;&nbsp;&nbsp;Find it Fast</b>
-            </font>
-        </td>
-    </tr>
-    <tr>
-        <td bgcolor="#cccccc"><img width="1" src="http://philadelphia.realcities.com/rc/graphics_common/1pix.gif" height="2" alt=""></td>
-    </tr>
-    <tr>
-        <td bgcolor="#eeeeee"><img width="1" src="http://philadelphia.realcities.com/rc/graphics_common/1pix.gif" height="2" alt=""></td>
-    </tr>
-    <tr>
-        <td><img width="1" src="http://philadelphia.realcities.com/rc/graphics_common/1pix.gif" height="4" alt=""></td>
-    </tr>
-</tbody></table>
-<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
-    <tbody><tr>
-        <td width="17"><img src="http://philadelphia.realcities.com/rc/graphics_common/1pix.gif" height="1"></td><td width="100%"><img src="http://philadelphia.realcities.com/rc/graphics_common/1pix.gif" height="1"></td>
-    </tr>
-	
-	
-
-  <tr valign="top">
-        <td width="17" valign="top" height="20"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"></td><td width="100%">
-            <font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://classifieds.phillynews.com/">Classifieds</a></b>
-            </font>
-        </td>
-    </tr>
-		
-		       <tr valign="top">
-        <td width="17" valign="top" height="20">&nbsp;</td><td width="100%"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"><font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://careers.philly.com/">Find a Job</a></b>
-            </font>
-        </td>
-    </tr>
-
-        <tr valign="top">
-        <td width="17" valign="top" height="20">&nbsp;</td><td width="100%"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"><font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://www.cars.com/carsapp/philly/?srv=parser&amp;act=display&amp;tf=/index-default.tmpl">Find a Car</a></b>
-            </font>
-        </td>
-    </tr>
-
-        <tr valign="top">
-        <td width="17" valign="top" height="20">&nbsp;</td><td width="100%"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"><font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://apartments.philly.com/">Find a Home</a></b>
-            </font>
-        </td>
-    </tr>
-
-  	<tr valign="top">
-        <td width="17" valign="top" height="20"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"></td><td width="100%">
-            <font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://health.philly.com/">Health</a></b>
-            </font>
-        </td>
-    </tr>
-  
-  	<tr valign="top">
-        <td width="17" valign="top" height="20"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"></td><td width="100%">
-            <font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://money.philly.com/">Money</a></b>
-            </font>
-        </td>
-    </tr>
-
-  	<tr valign="top">
-        <td width="17" valign="top" height="20"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"></td><td width="100%">
-            <font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://entertainment.philly.com/freebies/">Freebies</a></b>
-            </font>
-        </td>
-    </tr>
-
-	<tr valign="top">
-        <td width="17" valign="top" height="20"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"></td><td width="100%">
-            <font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://entertainment.philly.com/lottery/">Lottery</a></b>
-            </font>
-        </td>
-    </tr> 
-	<tr valign="top">
-        <td width="17" valign="top" height="20"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"></td><td width="100%">
-            <font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://education.philly.com/">Education</a></b>
-            </font>
-        </td>
-    </tr>
-	<tr valign="top">
-        <td width="17" valign="top" height="20"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"></td><td width="100%">
-            <font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href=" http://law.philly.com/">Law</a></b>
-            </font>
-        </td>
-    </tr>
-	<tr valign="top">
-        <td width="17" valign="top" height="20"><img width="14" src="http://philadelphia.realcities.com/rc/graphics_common/redLeftArrow.gif" height="16"></td><td width="100%">
-            <font size="2" face="Arial,Helvetica,Sans-Serif" class="sidelist">
-                <b><a href="http://www.philly.com/newslibrary/">Inquirer Archives</a></b>
-            </font>
-        </td>
-    </tr>
-
-<tr valign="top">
-        <td width="17"><img src="http://philadelphia.realcities.com/rc/graphics_common/1pix.gif" height="1"></td><td width="100%"><img src="http://philadelphia.realcities.com/rc/graphics_common/1pix.gif" height="1"></td>
-    </tr>
-</tbody></table>
+</td><td class="columndiv" rowspan="2"><img src="/images/common/spacer.gif" width="1" height="1"></td>
+<td class="centerrail" valign="top" align="center" width="472">
 
 
-	<!-- channels section --> 
-        <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff">
-	<tbody><tr><td bgcolor="#669999"><img src="/rc/graphics_common/1pix.gif" height="1" width="10"></td></tr>
-	<tr><td bgcolor="#333366" nowrap=""><font face="Arial, Helvetica" size="2" color="#ffffff" style="COLOR: #ffffff; FONT: bold 12px Arial, Helvetica"><b>&nbsp;&nbsp;&nbsp;Channels</b></font></td></tr>
-	<tr><td bgcolor="#cccccc"><img src="/rc/graphics_common/1pix.gif" height="2"></td></tr>
-	<tr><td bgcolor="#eeeeee"><img src="/rc/graphics_common/1pix.gif" height="2"></td></tr>
-	<tr><td><img src="/rc/graphics_common/1pix.gif" height="4"></td></tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff">
-	<tbody><tr><td width="17"><img src="/rc/graphics_common/1pix.gif" height="1" width="17"></td><td width="100%"><img src="/rc/graphics_common/1pix.gif" height="1" width="17"></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/autos_and_driving/">Autos &amp; Driving</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/business_and_money/">Business &amp; Money</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/careers/">Careers</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/community/">Community</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/computers_and_internet/">Computers &amp; Internet</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/education/">Education</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/entertainment_and_dining/">Entertainment &amp; Dining</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/family_and_kids/">Family &amp; Kids</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/government/">Government</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/health/">Health</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/hobbies_and_pets/">Hobbies &amp; Pets</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/news_and_media/">News &amp; Media</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/real_estate_and_home/">Real Estate &amp; Home</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/shopping_and_classifieds/">Shopping &amp; Classifieds</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/sports_and_recreation/">Sports &amp; Recreation</a></b></font></td></tr>
-	<tr><td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td><td width="100%" class="sidelist"><font size="2"><b><a href="/category/travel_and_visitors/">Travel &amp; Visitors</a></b></font></td></tr>
-	<tr><td colspan="2"><img src="/rc/graphics_common/1pix.gif" height="10" width="1"></td></tr>
-</tbody></table>
 
 
-    </td>
-    <!-- End of left rail -->
-    <!-- Shadow between left rail and center content. -->
-    <td width="1" valign="top" bgcolor="CDDDDD"><img src="/rc/graphics_common/ltbluepix.gif" width="1" height="8"></td>
-    <td width="2" valign="top" bgcolor="CCCCCC"><img src="/rc/graphics_common/ltbluepix.gif" width="2" height="8"></td>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="2" width="97%">
+<tbody><tr><td valign="middle"><a href="/mld/philly/" class="related">Back to Home</a>&nbsp;&gt;&nbsp;
+<a href="/mld/philly/contact_us/"> Contact Us </a> &gt;
+</td><td align="right" class="byline">Thursday, Jun 10, 2004</td></tr><tr><td colspan="2" align="center" bgcolor="#ffffff"> <img src="/images/common/spacer.gif" width="1" height="1"><br></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="97%">
+<tbody><tr> <td align="center" class="pagetitle" width="100%">Privacy Policy &amp; Terms of Use</td><td align="right" width="1" valign="top"><img src="/images/common/spacer.gif" width="1" height="1"></td><td align="right" valign="top">
 
-<!-- header above -->
+</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="97%" align="center">
+<tbody><tr><td align="center">
+<img src="/images/common/spacer.gif" width="1" height="2"><br></td></tr><tr><td align="center" bgcolor="#cccccc">
+<img src="/images/common/spacer.gif" width="1" height="2"><br></td></tr><tr><td align="center">
+<img src="/images/common/spacer.gif" width="1" height="2"><br></td></tr><tr><td align="center" bgcolor="#cccccc">
+<img src="/images/common/spacer.gif" width="1" height="1"><br></td></tr></tbody></table><img src="/images/common/spacer.gif" width="100%" height="5"><br></div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td width="10"><img src="/images/common/spacer.gif" width="10" height="1" border="0"></td><td><p><a href="#terms">Go to Terms of Use </a></p>
+<p><font size="3"><b><font size="4">Privacy Policy</font></b></font></p>
+<p>All Knight Ridder owned sites, including this site, are covered by the policies 
+  herein. Knight Ridder Digital (KRD) is part of the Real Cities Network (or "RCN"), 
+  a national network of Internet sites serving geographic and common interest 
+  communities across the United States. RCN affiliates each have their own Terms 
+  of Use and Privacy Policies. Please review all affiliate's policies to understand 
+  the privacy terms applicable on their sites. You can view the sites included 
+  in the Real Cities Network at <a href="http://www.realcities.com">http://www.realcities.com</a>. 
+</p>
+<p><b>When does KRD collect my personally identifiable information?</b></p>
+<p> When you register for one of KRD's sites, or for services on any of our sites, 
+  we collect personally identifying information from you. During registration 
+  you are asked to provide your email address and some demographic information 
+  including such items as your gender, year of birth, and address. The more information 
+  you provide, the better we are able to customize our services and your experience 
+  to suit your needs and preferences. In addition to registration, we may collect 
+  personally identifiable information from you when you enter contests and sweepstakes 
+  (which may be done in conjunction with site registration), participate in promotions 
+  and special programs, register for premium or customized services, make a purchase 
+  at one of our merchants or partners, subscribe to one of our print papers or 
+  magazines, or download a software product or plug-in. 
+</p><p>If you are making a purchase or enrolling in a premium service for which there 
+  is a fee, we, or a 3rd party working in partnership with us, will collect your 
+  credit card, billing address, and other verifying information. In addition, 
+  we may collect personally identifiable information from you when you provide 
+  content to us for display or use on one or more KRD sites, including but not 
+  limited to, when you participate in user surveys, post messages to bulletin 
+  boards or chat areas, submit personals or other classified listings, build a 
+  home page, report a problem with one of our sites or services, or submit a letter 
+  to the editor. 
+</p><p> <b>How is my personally identifiable information used? </b>
+</p><p> Our main goal is to provide you with a customized and more relevant experience 
+  on KRD sites. We review our users' preferences, demographics, traffic patterns, 
+  and other information in aggregate so that we can better understand who our 
+  audience is, and what it is you want. Tracking user preferences also helps us 
+  serve you more relevant advertising. Please note that we do not share your personally 
+  identifying information with the advertiser. 
+</p><p>We use a third party to serve ads when you visit our site. This third party 
+  ad server may use certain information about your visit to our site in order 
+  to provide advertisements about goods and services that may be of interest to 
+  you, but they are not allowed to collect or use personally identifiable information 
+  about you for their own purposes. 
+</p><p>All credit card information is transmitted in an encrypted form, using SSL 
+  (secure socket layer) encryption, the industry-standard. Although, we use all 
+  reasonable efforts to safeguard the privacy of your personal information, transmissions 
+  made by means of the Internet cannot be made absolutely secure. KRD assumes 
+  no liability for disclosure of data due to errors in transmission or unauthorized 
+  third parties. 
+</p><p>The email address provided by you at registration, or as updated, may be used 
+  by Knight Ridder and its affiliated entities, including KRD, to contact you 
+  for any reason, including: (1) Your account status (including an email confirmation 
+  of registration), (2) Major changes to the website, the Terms of Use and Privacy 
+  Policy, (3) Participation in user surveys, asking for feedback on the website 
+  and (4) notifying you of existing or prospective products and services offered 
+  by us or our advertisers and partners. This information helps us to improve 
+  our website, and any information we obtain will not be shared with third parties, 
+  except in aggregate form. The information provided by you at registration may 
+  be used by Knight Ridder and its affiliated entities, including KRD to contact 
+  you with special offers and promotions. 
+</p><p>Please check the registration screens applicable to the service, promotion, 
+  or product offering for which you are signing up for specific instructions on 
+  how to update your user profile and/or opt out of receiving offers and mailings. 
+  Also, please remember that third party vendors also sell products and services 
+  on KRD sites, and their policies may differ from ours. 
+</p><p><b>What other information does KRD collect and how is it used?</b>
+</p><p> <b>Cookies. </b>KRD uses cookies to store and track your preferences to provide 
+  you with a more personalized user experience. A cookie is a message that is 
+  sent to your browser from a Web server and stored on your computer's hard drive. 
+  Most Internet sites use cookies. You can set your browser preferences to reject 
+  all cookies but then you will not be able to participate in most customized 
+  services, and you may be required to repeatedly log in to participate in various 
+  services, promotions, or product offerings. Cookies make your experience easier 
+  by saving your preferences and passwords. We also use cookies that contain no 
+  personal information at all. These cookies, help us estimate our audience size, 
+  determine which areas of KRD sites are the most popular, and serve targeted 
+  advertising. Third party advertisers and our ad server may set and access their 
+  cookies on your computer in accordance with their own privacy policies. If you 
+  would like more information about the use of cookies by our third party ad server 
+  and your ability to opt out of receiving cookies from this third party, please 
+  click here: <a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a> 
+</p><p><b>IP Address. </b>KRD may also collect IP addresses for the purposes of systems 
+  administration or to report information in aggregate form to our advertisers 
+  (e.g. how many visitors logged in to a KRD site). An IP address is a number 
+  that is assigned to your computer automatically when you use the Internet. When 
+  you visit a particular KRD web page, our servers log your IP address. Your IP 
+  address is not linked to anything personally identifiable. 
+</p><p><b>Who does KRD share information with? </b>
+</p><p>User information is shared within KRD in order to provide you with a more integrated 
+  and customized user experience. In general, we will not disclose your personally 
+  identifiable information to third parties except to the extent necessary to 
+  provide you with a requested product or service. 
+</p><p>To the extent you are notified of uses of your personal information which are 
+  different from those described in this Policy Statement during your enrollment 
+  in any particular service, sweepstakes, contest or promotion, the uses of which 
+  you are specifically notified will govern that service, sweepstakes, contest 
+  or promotion. 
+</p><p><b>What are my options to control the use of my personal information? </b>
+</p><p>Most browsers can be configured to reject cookies or alert you when cookies 
+  are being sent. Keep in mind that if you refuse cookies, it is possible that 
+  some portions of KRD sites may not function exactly as intended. 
+</p><p><b>What else should I know about my privacy? </b>
+</p><p>You should be aware that if you voluntarily disclose personal information online 
+  in a public area, that information may be collected and used by others. We do 
+  not control the actions of our visitors and registered users. If you disclose 
+  personal information in a chat room, forum, on your home page, or any other 
+  publicly accessible place on KRD sites, you do so at your own risk and you understand 
+  that your submitted information may be collected and used by others to send 
+  you unsolicited messages, advertisements, or for other purposes. 
+</p><p>Please remember that protection of your privacy begins with you. You are solely 
+  responsible for maintaining the secrecy of any password you use to register, 
+  and you should always be careful and responsible whenever disclosing information 
+  online. 
+</p><p><b>PRIVACY PROTECTION FOR CHILDREN.</b> In compliance with the Children's Online 
+  Privacy Protection Act (COPPA), we will not knowingly provide access to KRD 
+  sites to persons under the age of thirteen (13). If KRD later learns that any 
+  registered user is under the age of thirteen (13), we will take appropriate 
+  steps to remove the member's information from the database and we will restrict 
+  this individual from future access to KRD sites. We feel strongly about protecting 
+  the privacy of children. We encourage kids to involve their parents in any interactive 
+  activity they participate in online. Except where otherwise disclosed, we will 
+  not collect or use any personal information from children we know to be under 
+  the age of thirteen without obtaining express parental consent. All general 
+  information collected from users under the age of thirteen is used only for 
+  aggregate statistical analysis. 
+</p><p>Acceptance of Privacy Policy. By using KRD sites and services, you signify 
+  your acceptance of this Privacy Statement. If you do not agree or are not comfortable 
+  with any policy described in this Privacy statement, your only remedy is to 
+  discontinue use of KRD sites. We reserve the right, to modify this Privacy Statement 
+  at any time. Your continued use of any portion of KRD sites following notification 
+  or posting of such changes, will constitute your accept of those changes. If 
+  you have questions or concerns about our specific policies, please contact us 
+  through our <a href="../feedback/">feedback form</a>. 
+</p><p><b>Want more information? Check out these helpful links... </b>
+</p><p><a href="http://www.eff.org/">Electronic Frontier Foundation</a> - a civil 
+  liberties organization working to protect your rights online. 
+</p><p><a href="http://www.epic.org/">Electronic Privacy Information Center</a> - 
+  established to focus public attention on emerging civil liberties issues relating 
+  to the National Information Infrastructure. 
+</p><p><a href="http://www.cdt.org/">Privacy Issues Page</a> - from the Center for 
+  Democracy and Technology (CDT). 
+</p><p><a href="http://www.cookiecentral.com/">Cookie Central</a> -- dedicated to 
+  provide full information upon Internet Cookies. 
+</p><hr noshade="" size="1" width="96%">
+<p><a name="terms"></a><font size="4"><b>Terms of Use</b></font> 
+</p><p>We welcome you to our site. We ask that you review these Terms of Use, which 
+  are intended to constitute a binding license agreement that conditions your 
+  use of this site ("Agreement"). We have tried to avoid unnecessary legal verbiage. 
+  Our goal is to protect our rights in order to provide you with access to the 
+  free content available at this site. If you do not wish to be bound by this 
+  Agreement after you have read it, please leave the site. If you remain on this 
+  site, or return thereafter, you agree to be bound by this Agreement. 
+</p><p><b>1. Responsible conduct. </b>You agree to act responsibly at this site and 
+  to treat other visitors with respect. 
+</p><p><b>2. Limited License/ Copyright and Intellectual Property Law Restrictions. 
+  </b>Except for public domain material, the content on this site is protected 
+  by intellectual property laws, including U.S. copyright laws. You are hereby 
+  granted a non-exclusive license to use the material at this site ("Content") 
+  while connected to this site (including, where available, to email individual 
+  stories to friends directly from this site). You are also granted a limited 
+  license to print one copy of any Content posted at the site, but only for your 
+  personal use. Except as expressly provided above, all rights are reserved. Among 
+  other things, except to the extent required for the limited purpose of reviewing 
+  material on our site, electronic reproduction, adaptation, distribution, performance 
+  or display is prohibited. Changes to or deletion of author attribution or copyright 
+  notices are prohibited. Commercial use of any of the Content is strictly prohibited. 
+  Use of any of our trademarks as metatags on other web sites also is strictly 
+  prohibited. You may not display this website in frames (or any of the Content 
+  via in-line links) without our express written permission, which may be requested 
+  by contacting us through our feedback form. You may, however, establish ordinary 
+  links to our site without our written permission. 
+</p><p><b>3. Links. </b>We may provide links from our site to other sites as a convenience 
+  to our visitors. We have no control over linked sites and make no representations 
+  about any content or material available at these locations. Links are not intended 
+  to imply sponsorship, affiliation or endorsement. 
+</p><p><b>4.</b> <b>Discussion Boards and other self-publishing 3rd party products.</b> 
+  Although we do not have any obligation to monitor these services, or this self-published 
+  content, we reserve the right at all times to remove any information or materials 
+  that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, 
+  pornographic, profane, indecent or otherwise objectionable to us in our sole 
+  discretion and to disclose any information necessary to satisfy the law, regulation, 
+  or government request. We also reserve the right to permanently block any user 
+  who violates these terms and conditions. 
+</p><p><b>5. DISCLAIMER OF WARRANTIES.</b> YOU EXPRESSLY AGREE THAT USE OF THIS WEB 
+  SITE IS AT YOUR SOLE RISK. THERE IS NO WARRANTY THAT YOUR ACCESS TO OR USE OF 
+  THIS SITE WILL BE UNINTERRUPTED OR ERROR FREE; OR THAT ANY PARTICULAR RESULTS 
+  MAY BE OBTAINED BY USE OF THIS SITE. THIS SITE IS MADE AVAILABLE ON AN "AS IS" 
+  BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING 
+  BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, 
+  FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE, OTHER THAN 
+  THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION, OR MODIFICATION 
+  UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. NEITHER WE NOR ANY OTHER PERSON 
+  OR ENTITY PROVIDING CONTENT VIA THIS SITE SHALL BE LIABLE TO YOU FOR ANY DIRECT, 
+  INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES. 
+</p><p><b>6. Modifications/ Termination. </b>The terms of this agreement will not 
+  be modified on an individual basis. You agree that we may modify the terms of 
+  this Agreement (or discontinue this site) in our sole discretion, without advance 
+  notice, and that your right to access this site is conditioned on an ongoing 
+  basis with your compliance with the then-current version of these Terms and 
+  Conditions. You should therefore visit this page frequently. 
+</p><p><b>7. Jurisdiction.</b> This Web site is hosted on servers located in the United 
+  States and is intended to be viewed by residents of the United States. In the 
+  event of any dispute arising out of or relating to this site, you agree that 
+  the exclusive venue for litigating disputes shall be in state or federal court 
+  in San Jose, California. 
+</p><p></p><p>
+</p></td><td width="10"><img src="/images/common/spacer.gif" width="10" height="1" border="0"></td></tr></tbody></table>
 
 
-      <!-- begin content area --> 
-      <td width="400" align="center"> 
-<table cellpadding="0" cellspacing="0" border="0" width="100%" height="16">
-    <tbody><tr valign="top" bgcolor="#336699"> 
-     <td width="8"><img src="/rc/graphics_common/1pix.gif" width="8" height="1" alt=""></td>
-     <td width="100%"><font face="Arial, Helvetica" size="-1" color="#FFFFFF"><b>Terms and Conditions</b></font></td>
-                  </tr>
-              </tbody></table>        
-<table width="100%" valign="TOP" cellspacing="0" cellpadding="0" border="0">
-          <tbody><tr> 
-<td valign="top" width="15"><img src="/rc/graphics_common/1pix.gif" width="15" height="10"></td>
-            <td> 
-              <p> <font face="Arial, Helvetica" size="-1"><b> <br>
-                We welcome you to our site. We ask that you review these Terms 
-                and Conditions, which are intended to constitute a binding license 
-                agreement that conditions your use of this site ("Agreement"). 
-                We have tried to avoid unnecessary legal verbiage and hope that 
-                you understand that we are simply trying to protect our rights 
-                in order to provide you with access to the free content available 
-                at this site. If you do not wish to be bound by this Agreement 
-                after you have read it, please leave the site. If you remain at 
-                this site, or return thereafter, you agree to be bound by this 
-                Agreement. </b> </font> 
-              </p><p><font face="Arial, Helvetica" size="-1"> 1. Responsible conduct. 
-                You agree to act responsibly at this site and to treat other visitors 
-                with respect. </font>
-              </p><p><font face="Arial, Helvetica" size="-1"> 2. Limited License/ 
-                Copyright and Intellectual Property Law Restrictions. Except for 
-                public domain material, the content on this site is protected 
-                by intellectual property laws, including U.S. copyright laws. 
-                You are hereby granted a non-exclusive license to use the material 
-                at this site ("Content") while connected to this site (including, 
-                where available, to email individual stories to friends directly 
-                from this site). You are also granted a limited license to print 
-                copies of any Content posted at the site, but only for your personal 
-                use. Except as expressly provided above, all rights are reserved. 
-                Among other things, except to the extent required for the limited 
-                purpose of reviewing material on our site, electronic reproduction, 
-                adaptation, distribution, performance or display is prohibited. 
-                Changes to or deletion of author attribution or copyright notices 
-                are prohibited. Commercial use of any of the Content is strictly 
-                prohibited. Use of any of our trademarks as metatags on other 
-                web sites also is strictly prohibited. You may not display this 
-                website in frames (or any of the Content via in-line links) without 
-                our express written permission, which may be requested by contacting 
-                us at <a href="mailto:rcfeedback@realcities.com">rcfeedback@realcities.com</a>. 
-                You may, however, establish ordinary links to our site without 
-                our written permission. </font>
-              
-        </p><p><font face="Arial, Helvetica" size="-1"> 3. Links. We may provide links 
-          from our site as a convenience to our visitors. We have no control over 
-          linked sites and make no representations about any content or material 
-          available at these locations. Links are not intended to imply sponsorship, 
-          affiliation or endorsement. If you believe that we have provided a link 
-          to a site that contains infringing or illegal content or which makes 
-          available cracker tools or other circumvention devices, we ask that 
-          you notify us so that we may evaluate whether (in our sole discretion) 
-          to disable it.</font>
-        </p><p><font face="Arial, Helvetica" size="-1">4. Discussion Boards. Although 
-          we do not have any obligation to monitor this board, we reserve the 
-          right at all times to check this board and to remove any information 
-          or materials that are unlawful, threatening, abusive, libelous, defamatory, 
-          obscene, vulgar, pornographic, profane, indecent or otherwise objectionable 
-          to us in our sole discretion and to disclose any information necessary 
-          to satisfy the law, regulation, or government request. We also reserve 
-          the right to permanently block any user who violates these terms and 
-          conditions.</font> 
-        </p><p><font face="Arial, Helvetica" size="-1"> 5. DISCLAIMER OF WARRANTIES. 
-          YOU EXPRESSLY AGREE THAT USE OF THIS WEB SITE IS AT YOUR SOLE RISK. 
-          THERE IS NO WARRANTY THAT YOUR ACCESS TO OR USE OF THIS SITE WILL BE 
-          UNINTERRUPTED OR ERROR FREE; OR THAT ANY PARTICULAR RESULTS MAY BE OBTAINED 
-          BY USE OF THIS SITE. THIS SITE IS MADE AVAILABLE ON AN "AS IS" BASIS 
-          WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING 
-          BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, 
-          FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE, OTHER 
-          THAN THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION, 
-          OR MODIFICATION UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. NEITHER 
-          WE NOR ANY OTHER PERSON OR ENTITY PROVIDING CONTENT VIA THIS SITE SHALL 
-          BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL 
-          DAMAGES. </font> 
-        </p><p><font face="Arial, Helvetica" size="-1"> 6. Modifications/ Termination. 
-          Our employees are not authorized to vary the terms of this Agreement. 
-          You agree that we may modify the terms of this Agreement (or discontinue 
-          this site) in our sole discretion, without advance notice, and that 
-          your right to access this site is conditioned on an ongoing basis with 
-          your compliance with the then-current version of these Terms and Conditions. 
-          You should therefore visit this page frequently. </font> 
-        </p><p><font face="Arial, Helvetica" size="-1"> 7. Jurisdiction. This Web 
-          site is hosted on servers located in Virginia and is intended to be 
-          viewed by residents of the United States. In the event of any dispute 
-          arising out of or relating to this site, you agree that the exclusive 
-          venue for litigating disputes shall be in state or federal court in 
-          San Jose, California. </font> 
-        </p><p> <font class="listlabel">Real Cities Network Privacy Statement</font><br>
-              </p><p> 
-              <font face="Arial, Helvetica, sans-serif" size="-1"> The Real Cities 
-              Network (or "RCN") is a national network of Internet site and services 
-              serving geographic and common interest communities across the United 
-              States. The privacy policies described below are applicable to each 
-              site in the Real Cities Network. You can view the sites included 
-              in the Real Cities Network at <a href="http://www.realcities.com/rc/cityoptions/cities.htm">http://www.realcities.com/rc/cityoptions/cities.htm</a>. 
-              </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>When 
-                does the RCN collect my personally identifiable information?</b> 
-                </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> When you 
-                register at one of the RCN sites or services, we collect personally 
-                identifying information from you. The more information you provide, 
-                the better we are able to customize our services and your experience 
-                to suit your needs and preferences. For example, if you utilize 
-                the "Passport" registration feature offered at many of the RCN 
-                sites, we will ask you for a username, password, e-mail address 
-                and zip code. Other sites and specific services (e.g. free e-mail) 
-                will have different registration processes, and may require you 
-                to provide additional personally identifying information such 
-                as your address, phone number and gender. In addition to registration, 
-                we may collect personally identifiable information from you when 
-                you enter contests, and sweepstakes, participate in promotions 
-                and special programs, register for premium or customized services, 
-                make a purchase at one of our merchants or partners, subscribe 
-                to one our print papers or magazines, or download a software product 
-                or plug-in. If you are making a purchase or enrolling in a premium 
-                service for which there is a fee, we will collect your credit 
-                card, billing address, and other verifying information. In addition, 
-                we may collect personally identifiable information from you when 
-                you provide content to us for display or use on one or more of 
-                the sites in the RCN, including but limited to, when you participate 
-                in user surveys, post messages to bulletin boards or chat areas, 
-                submit personals or other classified listings, build a home page, 
-                report a problem with one of our sites or services, or submit 
-                a letter to the editor. </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>How is 
-                my personally identifiable information used?</b> </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> Our main 
-                goal is to provide you with a customized and targeted user experience 
-                within the Real Cities Network. For instance, your personally 
-                identifiable information enables us to greet you when you return 
-                to a Real Cities site or service, and provide you with news and 
-                services we think will be of interest to you. We review our users' 
-                preferences, demographics, traffic patterns, and other information 
-                in the aggregate so that we can better understand who our audience 
-                is and what it is you want. Tracking user preferences also helps 
-                us serve you targeted advertising. Targeted advertisements are 
-                probably more interesting for you, and are definitely more productive 
-                for our advertisers. If a local grocery market wants to advertise 
-                an upcoming sale, we can target the ad to registered users who 
-                live near that grocery market. Please note that we do not share 
-                your personally identifying information with the advertiser. We 
-                or third party ad servers acting on our behalf act as the middleman 
-                between you and the advertisers that want to reach you.(Third 
-                party ad servers are not entitled to collect or use your personally 
-                identifying information). We use the information we collect in 
-                non-intrusive common sense ways, like using your credit card number 
-                to provide you with products and/or services that you request. 
-                All credit card information is transmitted in an encrypted form, 
-                using SSL (secure socket layer) encryption, the industry-standard. 
-                Although, we will use all reasonable efforts to safeguard the 
-                privacy of your personal information, transmissions made by means 
-                of the Internet cannot be made absolutely secure. The RCN assumes 
-                no liability for disclosure of data due to errors in transmission 
-                or unauthorized third parties. </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> Finally, 
-                if you register for one or more of our sites or services, from 
-                time to time, we will send information to you via e-mail about 
-                our products and services, or third party products and services 
-                we believe may be of interest to you. If you do not wish to receive 
-                these mailings, you can simply check off the appropriate box when 
-                you register, or update your profile at any time after registration 
-                so you no longer receive such offers and mailings. Please check 
-                the registration screens applicable to the service, promotion, 
-                or product offering for which you are signing-up for specific 
-                instructions on how to update your user profile and/or opt out 
-                of receiving offers and mailings. Also, please remember that third 
-                party vendors also sell products and services on the Real Cities 
-                network, and their policies may differ from ours. </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>What 
-                other information does RCN collect and how is it used?</b> </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>Cookies.</b> 
-                The RCN uses cookies to store and track your preferences to provide 
-                you with a more personalized user experience. A cookie is a message 
-                that is sent to your browser from a Web server and stored on your 
-                computer's hard drive. Most Internet sites use cookies. You can 
-                set your browser preferences to reject all cookies (see below) 
-                but then you will not be able to participate in most customized 
-                services, and you may be required to repeatedly type in your personally 
-                identifying information in order to participate in various services, 
-                promotions, or product offerings. Cookies make your experience 
-                easier by saving your preferences, purchases, and passwords. For 
-                example if you choose "Automatic Login" during registration, the 
-                RCN will store a scrambled version of your username in a permanent 
-                "cookie" file on your hard drive so that we can track your personalized 
-                services and preferences from one visit to the next. We also use 
-                cookies that contain no personal information at all. These cookies, 
-                help us estimate our audience size, determine which areas of the 
-                RCN are the most popular, and serve targeted advertising. </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>IP Address.</b> 
-                The RCN may also collect IP addresses for the purposes of systems 
-                administration or to report information in aggregate form to our 
-                advertisers (e.g. how many visitors logged in to a RCN site). 
-                An IP address is a number that is assigned to your computer automatically 
-                when you use the Internet. When you visit a particular web page 
-                in the Real Cities Network, our servers log your IP address. Your 
-                IP address is not linked to anything personally identifiable. 
-                </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>Who does 
-                RCN share information with?</b> </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> User information 
-                is shared by the RCN sites in order to provide you with a more 
-                integrated and customized user experience within the Real Cities 
-                Network. In general, we will not disclose your personally identifiable 
-                information to third parties except to the extent necessary to 
-                provide you with a requested product or service, or under circumstances 
-                required by law. However, many of the services available through 
-                the Real Cities Network are offered in conjunction with third 
-                parties (e.g. personalized stock quotes or online e-mail). We 
-                may disclose some or your personal information (such as an email 
-                address) to these third parties, but we will notify you of such 
-                disclosure prior to transferring the data. If you make a purchase 
-                from a Real Cities Network merchant, the information you provide 
-                in connection with that purchase is provided to that merchant 
-                in order to facilitate that transaction. Any personally identifiable 
-                information you provide online as part of an advertiser promotion 
-                (e.g. online coupons) may be provided directly to advertisers. 
-                </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> In general 
-                we will only disclose your personally identifiable information 
-                to the extent necessary to complete the transaction, administer 
-                the promotion, or fulfill the request. However, specific uses 
-                of personal information that vary from this Privacy Statement 
-                may be found the in the Terms of Service or privacy policies applicable 
-                to that particular service or offering. In addition, third party 
-                sponsors may administer sweepstakes, contests, promotions, and 
-                other programs. To the extent you are notified of uses of your 
-                personal information which are different from those described 
-                in this Policy Statement during your enrollment in any particular 
-                service, sweepstakes, contest or promotion, the uses of which 
-                you are specifically notified will govern that service, sweepstakes, 
-                contest or promotion. Please be on the look-out for terms of service 
-                and privacy statements applicable to the services for which you 
-                sign-up or participate in. In general, third parties that receive 
-                information about you from the Real Cities Network will be obligated 
-                to notify you and provide you with an opt-out method before sending 
-                you direct communications. Please note, however, that we do not 
-                control the privacy policies of our advertisers and other third 
-                party sites to which we provide banner ads and links. We assume 
-                no responsibility or liability for these third party policies 
-                or the actions of non-affiliated third parties. </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> We will 
-                disclose your personal information when we believe in good faith 
-                that any applicable law, regulation, or legal process requires 
-                it, or where we believe disclosure is necessary to protect or 
-                enforce our rights or the rights of another user. </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> We disclose 
-                aggregated user statistics (for example, the percentage of our 
-                users who access our Service from work) in order to describe our 
-                services and reach to prospective partners, advertisers, and other 
-                third parties. However aggregate data is not traceable to you 
-                specifically. </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>What 
-                are my options to control the use of my personal information?</b> 
-                </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> Most browsers 
-                can be configured to reject cookies or alert you when cookies 
-                or being sent. Keep in mind that if you refuse cookies, it is 
-                possible that some portions of the Real Cities Network, such as 
-                contests, shopping, or personalized stock quotes may not work 
-                properly. </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> You may 
-                cancel your registration to any Real Cities Network service (e.g. 
-                Passport") and/or request the removal of your personal information 
-                from our user records by sending e-mail to <a href="mailto:passport_feedback@realcities.com">passport_feedback@realcities.com</a>. 
-                We will send an email to confirm your request. After you respond, 
-                we will remove your information from our database. Residual information 
-                may remain in our archives and records, but this information will 
-                not be used for a commercial purpose (however we may notify you 
-                of major changes to our service from time to time). We reserve 
-                the right to maintain information on registered users who have 
-                violated our Terms of Service or who have had their access to 
-                the Real Cities Network blocked in order to detect repeat offenders. 
-                </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>What 
-                else should I know about my privacy?</b> </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> You should 
-                be aware that if you voluntarily disclose personal information 
-                online in a public area, that information may be collected and 
-                used by others. We do not control the actions of our visitors 
-                and registered users. If you disclose personal information in 
-                a chat room, forum, on your home page, or any other publicly accessible 
-                place in the RCN, you do so at your own risk and you understand 
-                that your submitted information may be collected and used by others 
-                to send you unsolicited messages, advertisements, or for other 
-                purposes. </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> Please remember 
-                that protection of your privacy begins with you. You are solely 
-                responsible for maintaining the secrecy of any password you use 
-                to register, and you should always be careful and responsible 
-                whenever disclosing information online. </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>What 
-                about kids' personally identifiable information?</b> </font>
-              </p><p><font face="Arial, Helvetica, sans-serif" size="-1"> We feel 
-                strongly about protecting the privacy of children. We encourage 
-                kids to involve their parents in any interactive activity they 
-                participate in online. Except where otherwise disclosed, we will 
-                not collect or use any personal information from children we know 
-                to be under the age of thirteen without obtaining express parental 
-                consent. All general information collected from users under the 
-                age of thirteen is used only for aggregate statistical analysis. 
-                Where users under the age of 13 are permitted to participate in 
-                contests, they may be required to provide the e-mail address of 
-                their parent or guardian so that we can send notification and 
-                prices to the parent or guardian. </font>
-              </p><p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>Acceptance 
-                of Privacy Policy.</b> By using the Real Cities Network sites 
-                and services, you signify your acceptance of this Privacy Statement. 
-                If you do not agree or are not comfortable with any policy described 
-                in this Privacy statement, your only remedy is to discontinue 
-                use of the Real Cities Network. We reserve the right, to modify 
-                this Privacy Statement at any time. Your continued use of any 
-                portion of the Real Cities Network following notification or posting 
-                of such changes, will constitute your accept of those changes. 
-                If you have questions or concerns about our specific policies, 
-                please send e-mail to <a href="mailto:privacy@realcities.com">privacy@realcities.com</a>. 
-                </font>
-			  </p><p> <font face="Arial, Helvetica, sans-serif" size="-1">Knight Ridder Digital 		is a member of the Engage LocalNet and 24/7 Media Network. For information on the privacy policies of our ad network partners please follow the links below:
-</font></p><ul><font face="Arial, Helvetica, sans-serif" size="-1">
-<li><a href="http://www.247media.com/privacy.html#commitment">24/7 Media</a></li>
-<li><a href="http://www.engage.com/privacy/">Engage LocalNet</a></li>
-</font></ul><font face="Arial, Helvetica, sans-serif" size="-1">
+</td><td class="columndiv" rowspan="2"><img src="/images/common/spacer.gif" width="1" height="1"></td><td class="rightrail" valign="top" align="center" width="160">
 
-              <p> <font face="Arial, Helvetica, sans-serif" size="-1"><b>Want 
-                more information? Check out these helpful links...</b> </font>
-              </p><ul>
-                <li><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.eff.org" target="_new">Electronic 
-                  Frontier Foundation</a> - a civil liberties organization working 
-                  to protect your rights online.</font></li>
-                <li><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.epic.org" target="_new">Electronic 
-                  Privacy Information Center</a> - established to focus public 
-                  attention on emerging civil liberties issues relating to the 
-                  National Information Infrastructure.</font></li>
-                <li><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.cdt.org" target="_new">Privacy 
-                  Issues Page</a> - from the Center for Democracy and Technology 
-                  (CDT).</font></li>
-                <li><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.cookiecentral.com/" target="_new">Cookie 
-                  Central</a> -- dedicated to provide full information upon Internet 
-                  Cookies.</font></li>
-                <li><font face="Arial, Helvetica, sans-serif" size="-1"><a href="http://www.epic.org/privacy/cookies/default.html" target="_new">The EPIC Cookies Page</a> - links, news, and explanations.</font></li>
-              </ul>
-              <br>
-              <!-- end content area --> 
-</font></td>
-</tr>
-        </tbody></table>
- </td>
-  <!-- far right column, Site Links below -->   
-	 	  <td width="1" bgcolor="#dddddd"><img src="/rc/graphics_common/1pix.gif" width="1" height="10"></td>
-      <td width="159"><table width="159" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr bgcolor="#336699"> 
-    <td class="tab" height="16"><font style="color : #FFFFFF; font : bold 13px Arial,Helvetica" face="Arial,Helvetica" size="2" color="#FFFFFF"><b>&nbsp;&nbsp;Site 
-        Links</b></font></td>
-  </tr>
-  <tr>
-    <td><img src="/rc/graphics_common/1pix.gif" width="159" height="5"></td>
-  </tr>
-  <tr>
-    <td>
-      <table width="159" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="17"><img src="/rc/graphics_common/1pix.gif" width="17" height="1"></td>
-          <td width="100%"><img src="/rc/graphics_common/1pix.gif" width="17" height="1"></td>
-        </tr><tr> 
-          <td valign="top" height="20" width="17" nobreak=""><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td>
-          <td width="100%"><a href="http://www.knightridderdigital.com/about/"><font class="sidelist" size="2"><b>About Real
-		Cities</b></font></a></td>
-        </tr>
-        <tr> 
-          <td valign="top" height="20" width="17"><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td>
-          <td><a href="/rc/support/contacts.htm"><font class="sidelist" size="2"><b>Contact Us</b></font></a></td>
-        </tr>
-        <tr> 
-          <td valign="top" height="20" width="17"><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td>
-          <td><a href="/rc/support/help.htm"><font class="sidelist" size="2"><b>Help</b></font></a></td>
-        </tr>
-        <tr> 
-          <td valign="top" height="20" width="17"><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td>
-          <td><a href="/rc/support/advertise.htm"><font class="sidelist" size="2"><b>Advertise</b></font></a></td>
-        </tr>
-        <tr> 
-          <td valign="top" height="20" width="17"><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td>
-          <td><a href="/rc/support/terms.htm"><font class="sidelist" size="2"><b>Terms</b></font></a></td>
-        </tr>
-        <tr> 
-          <td valign="top" height="20" width="17"><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td>
-          <td><a href="http://www.knightridderdigital.com/press/"><font class="sidelist" size="2"><b>Press Center</b></font></a></td>
-        </tr>
-        <tr> 
-          <td valign="top" height="20" width="17"><img src="/rc/graphics_common/redLeftArrow.gif" width="14" height="16"></td>
-          <td><a href="http://www.knightridderdigital.com/about/jobs.htm"><font class="sidelist" size="2"><b>Jobs at Real Cities</b></font></a></td>
-        </tr>
-        <tr> 
-          <td colspan="2"><img src="/rc/graphics_common/1pix.gif" width="1" height="10" alt=""></td>
-        </tr>
-      </tbody></table>
-      </td>
-  </tr>
-</tbody></table>
-</td>
-    
-  
-<!-- far right column, Site Links above -->
 
-<!-- footer below -->
-  </tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" valign="top" width="723" bgcolor="FFFFFF" align="CENTER">
-<tbody><tr>
-    <td valign="top">
-<table width="723" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td><img src="/rc/graphics_common/fade_blue_dark.gif" width="723" height="9" alt="" border="0"></td>
-  </tr>
-</tbody></table>
-<table width="723" border="0" cellpadding="5" cellspacing="0" bgcolor="#333366">
-  <tbody><tr valign="bottom"> 
-    <td valign="middle" align="center" width="46"> <a href="http://www.realcities.com/"><img src="/rc/logos/rclogo2.jpg" border="0" width="36" height="46" alt="Real Cities Network"></a><br>
-    </td>
-    <td class="text">
-      <form method="GET" action="/cgi-bin/rcNav.pl">
-        <font size="2"><b><a href="http://www.realcities.com/rc/cityoptions/cities.htm"><font color="#99CCFF">Other 
-        Real Cities Sites</font></a></b></font> <font face="Verdana, Arial, Helvetica, sans-serif" size="-2"> 
- 
-<select name="sendAddress" class="formfont">
-  <option value="http://www.realcities.com/rc/cityoptions/cities.htm">Select a 
-  City</option>
-  <option value="http://ohio.realcities.com/"> Akron/Cleveland, OH</option>
-  <option value="http://www.kvue.com/"> Austin, TX</option>
-  <option value="http://www.jerseysouth.com/"> Atlantic City</option>
-  <option value="http://charlotte.realcities.com/"> Charlotte, NC</option>
-  <option value="http://www.dallasnews.com/"> Dallas, TX</option>
-  <option value="http://www.rockymountainnews.com/"> Denver, CO</option>
-  <option value="http://www.dfw.com/"> Fort Worth, TX</option>
-  <option value="http://www.khou.com/"> Houston, TX</option>
-  <option value="http://www.indy.com/"> Indianapolis, IN</option>
-  <option value="http://www.kansascity.com/">Kansas City, MO</option>
-  <option value="http://www.knoxnews.com/"> Knoxville, TN</option>
-  <option value="http://www.kentucky.com/"> Lexington, KY</option>
-  <option value="http://www.whas11.com/"> Louisville, KY</option>
-  <option value="http://www.gomemphis.com/"> Memphis, TN</option>
-  <option value="http://www.miami.com/"> Miami, FL</option>
-  <option value="http://www.onwisconsin.com/"> Milwaukee, WI</option>
-  <option value="http://www.nydailynews.com/"> New York, NY</option>
-  <option value="http://www.twincities.com/"> Minneapolis/St. Paul, MN</option>
-  <option value="http://www.wwltv.com/">New Orleans, LA</option>
-  <option value="http://www.wvec.com/"> Norfolk, VA</option>
-  <option value="http://www.philly.com/">Philadelphia, PA</option>
-  <option value="http://www.azcentral.com/">Phoenix, AZ</option>
-  <option value="http://www.post-gazette.com/">Pittsburgh, PA</option>
-  <option value="http://www.kgw.com/"> Portland, OR</option>
-  <option value="http://www.projo.com/"> Providence, RI</option>
-  <option value="http://www.bayarea.com/"> San Francisco/Bay Area, CA</option>
-  <option value="http://www.nwsource.com/"> Seattle, WA</option>
-  <option value="http://www.kmov.com/">St. Louis, MO</option>
-  <option value="http://www.realcities.com/rc/cityoptions/cities.htm">More...</option>
-</select>
 
-</font> 
-<font face="Verdana, Arial, Helvetica" size="1"> 
-        <input type="submit" value="Go">
-        </font> 
-&nbsp; <font size="2">
-<a href="http://www.realcities.com/rc/cityoptions/cities.htm"><font color="#99CCFF">View all cities</font></a><br></font>
-      </form>
-      <font size="2">
-<a href="http://www.knightridderdigital.com/about/"><font color="#99CCFF">About Real Cities</font></a> 
-<font color="#99CCFF" size="2">|</font>
-<nobr><a href="/rc/support/contacts.htm"><font color="#99CCFF">Contact Us</font></a></nobr>
-<font color="#99CCFF" size="2">|</font>
-<a href="/rc/support/help.htm"><font color="#99CCFF">Help</font></a> 
-<font color="#99CCFF" size="2">|</font>
-<a href="/rc/support/advertise.htm"><font color="#99CCFF">Advertise</font></a>
-<font color="#99CCFF" size="2">|</font>
-<nobr><a href="/rc/support/terms.htm"><font color="#99CCFF">Terms of Use</font></a></nobr>
-<font color="#99CCFF" size="2">|</font>
-<nobr><a href="http://www.knightridderdigital.com/press/"><font color="#99CCFF">Press Center</font></a></nobr> 
-<font color="#99CCFF" size="2">|</font>
-<nobr><a href="http://www.knightridderdigital.com/about/jobs.htm"><font color="#99CCFF">Jobs at Real Cities</font></a></nobr> 
-        </font> 
-    </td>
-  </tr>
-</tbody></table>
- <br>
-    
-<table width="723" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td align="center" class="smtext"><font size="1">
-	<nobr><a href="http://www.philly.com" title="Find it in Philadelphia">Local Guide</a></nobr>
-	| <nobr><a href="/news/" title="Local and national news">Local/National News</a></nobr>
-	| <a href="/entertainment/" title="Your Local Entertainment Guide">Entertainment</a>
-	| <a href="http://sports.philly.com/" title="Sports &amp; Recreation">Sports</a> 
-	| <a href="/category/autos_and_driving/" title="Your Automotive Resource">Cars</a>
-	| <nobr><a href="/category/real_estate_and_home/" title="Buy, Sell, Build or Rent">Real Estate</a> </nobr>
-	| <a href="http://careers.philly.com" title="For Job Seekers &amp; Recruiters">Careers</a><br>
-	<a href="http://classifieds.phillynews.com" title="Browse &amp; Search Classified Ads">Classifieds</a> 
-	| <a href="http://marketplace.philly.com" title="Local &amp; Online Shopping">Shopping</a>
-	| <a href="http://philadelphia.realcities.com/category/travel_and_visitors/" title="Travel &amp; Visitors">Travel</a>
-	| <a href="http://www.philly.com/health/" title="Health and Fitness">Health</a>
-	| <nobr><a href="http://philadelphia.realcities.com/yellowpages/" title="Find Local Businesses">Yellow Pages</a></nobr>
-	| <nobr><a href="http://philadelphia.realcities.com/maps/" title="Get Maps and Directions">Maps &amp; Directions</a></nobr>
-	| <nobr><a href="http://money.philly.com/" title="Financial and Business Information">Money</a></nobr>
-	</font><p><font size="1">
-	<a href="#TOP"><font color="#CC0000">Back to Top</font></a><br></font>
-	</p></td>
-  </tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
- 
-<!-- footer above -->
+
+<img src="/images/common/spacer.gif" width="134" height="5"><br><script language="JavaScript1.1">
+_krdDartInc++;
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;tile=2;ord=1580405477675?"></script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;ord=1086878373805?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=right_top;c2=terms_of_use;c3=terms_of_use_homepage;pos=right_top;group=cube;ord=1086878373805?" BORDER="0" ></A>
+</noscript>
+
+
+
+
+<img src="/images/common/spacer.gif" width="134" height="5"><br><script language="JavaScript1.1">
+_krdDartInc++;
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right1;c2=terms_of_use;c3=terms_of_use_homepage;pos=right1;group=cube;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right1;c2=terms_of_use;c3=terms_of_use_homepage;pos=right1;group=cube;tile=3;ord=1580405477675?"></script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=right1;c2=terms_of_use;c3=terms_of_use_homepage;pos=right1;group=cube;ord=1086878373806?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=right1;c2=terms_of_use;c3=terms_of_use_homepage;pos=right1;group=cube;ord=1086878373806?" BORDER="0" ></A>
+</noscript>
+
+
+
+
+<img src="/images/common/spacer.gif" width="134" height="5"><br><script language="JavaScript1.1">
+_krdDartInc++;
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right2;c2=terms_of_use;c3=terms_of_use_homepage;pos=right2;group=tower;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/SCRIPT>');
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/philly.contact_us/terms_of_use;kw=right2;c2=terms_of_use;c3=terms_of_use_homepage;pos=right2;group=tower;tile=4;ord=1580405477675?"></script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/philly.contact_us/terms_of_use;kw=right2;c2=terms_of_use;c3=terms_of_use_homepage;pos=right2;group=tower;ord=1086878373806?" TARGET="_blank">
+<IMG SRC="http://ad.doubleclick.net/ad/philly.contact_us/terms_of_use;kw=right2;c2=terms_of_use;c3=terms_of_use_homepage;pos=right2;group=tower;ord=1086878373806?" BORDER="0" ></A>
+</noscript>
+
+
+
+</td></tr></tbody></table>
+
+
+
+<table border="0" cellpadding="3" cellspacing="0" width="768"><tbody><tr><td rowspan="2" valign="top" class="footer"><a href="http://www.realcities.com" target="_blank"><img src="/images/palette/philly/realcities_logo.gif" width="155" height="57" alt="RealCities" border="0"></a>
+</td><td align="left" class="footer">
+<span class="lightgreylinks"><a href="/mld/philly/contact_us/help">Help |</a> <a href="/mld/philly/contact_us">Contact Us |</a> <a href="/mld/philly/archives">Archives |</a> <a href="http://www.philly.com/mld/philly/contact_us/advertise/">Place an Ad |</a> <a href="http://www.pnionline.com/readerservices/">Newspaper Subscriptions  </a><br><a href="/mld/philly/contact_us/about">About Philly.com |</a> <a href="http://www.realcities.com/mld/realcities/">About the Real Cities Network |</a> <a href="/mld/philly/contact_us/terms_of_use">Terms of Use &amp; Privacy Statement |</a> <a href="http://www.knightridder.com">About Knight Ridder |</a> <a href="/mld/philly/contact_us/copyright">Copyright  </a><br></span>
+</td></tr></tbody></table>
+
+
+
+
 
 
 </body></html>
