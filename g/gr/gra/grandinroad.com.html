@@ -1,0 +1,634 @@
+<!--The following is the downloaded HTML source of the grandinroad.com privacy policy that was archived on 2005-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402082453id_/http%3A//www.frontgate.com/fg/cs.jsp%3FtId%3D59) for the most accurate reproduction.-->
+
+<html><head><script language="javascript" src="http://a1011.g.akamai.net/7/1011/6062/5ecacf302a9024/www.frontgate.com/flashinit.js"></script>
+
+<script language="JavaScript">
+if (!useRedirect) {    // if dynamic embedding is turned on
+if(hasRightVersion) {
+document.cookie = "flashenabled=1";
+} else {  // flash is too old or we cant detect the plugin
+document.cookie = "flashenabled=0";
+}
+} else {   // insert non-flash content
+document.cookie = "flashenabled=0";
+}
+</script>
+
+<title>Frontgate - Security &amp; Privacy</title>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="javascript" src="http://a1011.g.akamai.net/7/1011/6062/94ce5dec13486d/www.frontgate.com/global_functions.js"></script>
+<script language="javascript">
+function checkForm(formname) 
+{
+    if (IE) {
+        var form = eval('document.all.' + formname);
+    } else if (NS) {
+        var form = eval('document.' + formname);
+    }
+    var showmsg = false;
+    var msg='Please provide the following information:\n\n';
+    if ((isFilled(form.firstname) == false)){ msg += 'First Name\n'; showmsg = true;}
+    if ((isFilled(form.lastname) == false)){ msg += 'Last Name\n'; showmsg = true;}
+    if ((isFilled(form.address1) == false)) { msg += 'Address\n'; showmsg = true;}
+    if ((isFilled(form.email) == false)) { msg += 'Email\n'; showmsg = true;}
+    if ((isFilled(form.siteurl) == false)) { msg += 'Site URL\n'; showmsg = true;}
+    if (showmsg == false) {
+        msg = 'Please re-enter the following information:\n\n';
+        if (!IsEmailValid(form.email)) { msg += 'Email Address'; showmsg = true;}
+        
+    } 
+    if (showmsg == true) {
+        alert(msg);
+    } else {
+        form.submit();
+    }   
+}
+</script>
+
+
+</head>
+<body bgcolor="#FFFFFF" background="http://a1011.g.akamai.net/7/1011/6062/25dd8cdc0b0c54/www.frontgate.com/images/other/page_bkgd.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="PageLoad();">
+<center><div id="mainElement" align="center" width="748">
+
+
+<!-- The following must be kept on a single line.  Do not introduce link breaks between <fgfixup> tags -->
+<fgfixup name="cartCount"><script language="javascript">var cartCount = 0;</script></fgfixup>
+
+<script language="javascript">
+/******************************************************************************/
+function thisformsubmit() {
+    if (IE) {  
+        document.all.searchform.submit(); 
+    } else {
+        document.searchform.submit(); 
+    }
+} 
+/******************************************************************************/
+function cartSubmit(formname, typeSubmit) {
+    //A general purpose routine to submit the form
+    //I included the session and engine information in the form
+    //for consistency with other Broadvision code
+    //8/18/2000 Retrofitted for checkout link
+    if (IE) {
+        var form = eval('document.all.' + formname);
+    } else if (NS) {
+        var form = eval('document.' + formname);
+    }
+    
+    if (typeSubmit == 1) {
+        form.action = "http://www.frontgate.com/fg/shopcart.jsp";
+    } else {
+        form.action = "http://www.frontgate.com/fg/shopcart.jsp";
+        form.display.value = "review";
+    }
+    form.submit();
+    
+}
+
+
+// Initialiaze the main layers' HTML variables
+var sfHTML = '<table id="sfTable" name="sfTable" cellpadding="0" cellspacing="0" border="0" width="166" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
+var csHTML = '<table id="csTable" name="csTable" cellpadding="0" cellspacing="0" border="0" width="166" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
+var maHTML = '<table id="maTable" name="maTable" cellpadding="0" cellspacing="0" border="0" width="166" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
+var scHTML = '<table id="scTable" name="scTable" cellspacing="0" cellpadding="0" border="0" width="165" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
+var scHTMLadd = '<table id="scTableAdd" name="scTableAdd" cellspacing="0" cellpadding="0" border="0" width="165" class="bgcream"><tr><td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td></tr></table>';
+
+
+	var itemAdded = "N";
+	
+
+
+// Product Catalog HTML for inside layer
+sfHTML =     '<table id="sfTable" name="sfTable" cellpadding="0" cellspacing="0" border="0" width="167" class="bgcream">'.concat(
+                 '<tr>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="8"></td>',
+                     '<td colspan="3"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                 '</tr>',
+                 '<tr>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                     '<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                     '<td>', '<!--begin leftnav include--><p class="leftnavmaincats"><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13057" title="Patio &amp; Garden">Patio &amp; Garden</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13052" title="Outdoor Furniture">Outdoor Furniture</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13569" title="Furnishings &amp; Decor">Furnishings &amp; Decor</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-10635" title="Bed &amp; Bath">Bed &amp; Bath</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13579" title="Gourmet Kitchen &amp; Bar">Gourmet Kitchen &amp; Bar</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13576" title="Home Care &amp; Storage">Home Care &amp; Storage</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-10636" title="Electronics">Electronics</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13065" title="Grilling &amp; Entertaining">Grilling &amp; Entertaining</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13069" title="Pool &amp; Spa">Pool &amp; Spa</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13546" title="Gift Guide">Gift Guide</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="maincatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-10637" title="FRONTGATE OUTLET">FRONTGATE OUTLET</a><br><img src="http://a1011.g.akamai.net/7/1011/6062/8118a5e94de0ed/www.frontgate.com/images/leftnav/specialtytitles_bar_with_bg.gif" width=144 height=32 alt="" border="0"><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13318" title="Grandin Road">Grandin Road</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-13362" title="Fine Outdoor Furnishings">Fine Outdoor Furnishings</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="http://www.frontgate.com/fg/cat.jsp?category_key=-10644" title="Splash Pool &amp; Spa">Splash Pool &amp; Spa</a><br></p><!--end leftnav include-->', '</td>',
+                     '<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                 '</tr>',
+                 '<tr><td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="8" width="1"></td>',
+                     '<td colspan="3"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                 '</tr>',
+                 '<tr class="bglightgray">',
+                     '<td colspan="5"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                 '</tr>',
+              '</table>');
+   
+
+
+// My Account HTML for inside layer
+maHTML =     '<table id="maTable" name="maTable" cellpadding="0" cellspacing="0" border="0" width="167" class="bgcream">'.concat(
+                 '<tr>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="8"></td>',
+                     '<td colspan="3"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                 '</tr>',
+                 '<tr>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                     '<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="8"></td>',
+                     '<td>', '<!--begin leftnav include--><p class="leftnavmaincats"><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="https://www.frontgate.com/fg/ma_signin.jsp" title="Log In">Log In</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="https://www.frontgate.com/fg/createaccount.jsp" title="Create an Account">Create an Account</a><br><img width=\'4\' height=\'1\' src=\'/images/spacer.gif\'><a class="minorcatlist" href="http://www.frontgate.com/fg/ot_order_search.jsp" title="Order Tracking">Order Tracking</a><br></p><!--end leftnav include-->', '</td>',
+                     '<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="8"></td>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                 '</tr>',
+                 '<tr><td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="8" width="1"></td>',
+                     '<td colspan="3"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                     '<td class="bglightgray"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"></td>',
+                 '</tr>',
+                 '<tr class="bglightgray">',
+                     '<td colspan="5"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                 '</tr>',
+             '</table>');
+              
+
+// Shopping Cart HTML for inside layer
+scHTML =     '<table id="scTable" name="scTable" height="30" width="250" cellspacing="0" cellpadding="0" border="0" class="bgcream">'.concat(
+                '<tr>',
+                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
+                    '<td valign="top" align="left" width="228" colspan="2"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="5" width="228"></td>',
+                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
+                    '<td class="bglightgray" valign="top" align="left" width="1" align="left"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                 '</tr>',
+                 '<tr>',
+                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
+                    '<fgfixup name="cartItemQty">','<td colspan="2" valign="top" align="left" class="bgcream"><br><span class="standardsmall">There are no items in your cart.<br><br></span></td>','</fgfixup>',
+                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
+                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                '</tr>');
+
+	       
+                                    
+if (cartCount > 0)
+{                 
+  scHTML=
+  scHTML.concat('<tr>',
+                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
+                    '<td align="center" height="14" colspan="2">',
+                         '<table height="14" width="170" cellspacing="0" cellpadding="0" border="0">',
+                            '<tr>',
+                                '<td align="left"><a href="javascript:cartSubmit(\'searchform\',1);"><img src="http://a1011.g.akamai.net/7/1011/6062/fcf69c226008c7/www.frontgate.com/images/buttons/btn_viewdetails.gif" height="14" width="81" border="0"></a></td>',
+                                '<td class="bgcream"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="8" height="14"></td>',
+                                '<td align="right"><a href="javascript:cartSubmit(\'searchform\',2)"><img src="http://a1011.g.akamai.net/7/1011/6062/a0f94ae470a07d/www.frontgate.com/images/buttons/btn_checkout_small.gif" height="14" width="81" border="0"></a></td>',
+                            '</tr>',
+                        '</table>',
+                    '</td>',
+                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
+                    '<td class="bglightgray" valign="top" align="left" width="1" align="left"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                '</tr>');
+
+   scHTMLadd =
+   scHTMLadd.concat('<tr>',
+                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
+                    '<td align="center" height="14" colspan="2">',
+                         '<table height="14" width="170" cellspacing="0" cellpadding="0" border="0">',
+                            '<tr>',
+                                '<td align="left"><a href="javascript:cartSubmit(\'searchform\',1);"><img src="http://a1011.g.akamai.net/7/1011/6062/fcf69c226008c7/www.frontgate.com/images/buttons/btn_viewdetails.gif" height="14" width="81" border="0"></a></td>',
+                                '<td class="bgcream"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="8" height="14"></td>',
+                                '<td align="right"><a href="javascript:cartSubmit(\'searchform\',2)"><img src="http://a1011.g.akamai.net/7/1011/6062/a0f94ae470a07d/www.frontgate.com/images/buttons/btn_checkout_small.gif" height="14" width="81" border="0"></a></td>',
+                            '</tr>',
+                        '</table>',
+                    '</td>',
+                    '<td valign="top" align="left" width="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="10" height="1"></td>',
+                    '<td class="bglightgray" valign="top" align="left" width="1" align="left"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                '</tr>',
+                '<tr>',
+	                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+	                    '<td valign="top" align="left" width="1" height="8" colspan="4"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="2" width="190"></td>',
+	                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+	          '</tr>',
+                '<tr class="bglightgray">',
+	                    '<td valign="top" align="left" width="1" height="1" colspan="6"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="192"></td>',
+	         '</tr>',
+	         
+	          '</table>');
+}
+                
+scHTML =                 
+  scHTML.concat('<tr>',
+                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                    '<td valign="top" align="left" width="1" height="8" colspan="4"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="8" width="190"></td>',
+                    '<td class="bglightgray" valign="top" align="left" width="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="1"></td>',
+                '</tr>',
+                '<tr class="bglightgray">',
+                    '<td valign="top" align="left" width="1" height="1" colspan="6"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="1" width="192"></td>',
+                '</tr>',
+            '</table>');
+
+
+
+
+
+// Number of Items HTML for inside layer
+var niHTML = '<table id="niTable" name="niTable" cellspacing="0" cellpadding="0" border="0" width="165" class="bgcream"><tr><td class="bgcream" align="left" valign="top">('.concat(cartCount, ' item', (cartCount==1?"":"s"), ')</td></tr></table>');
+
+// Create the Layer objects for each unique dropdown or overlay and apply
+// Original v3 function had cart at 273px wide for all browsers by NS6, which was 280px
+var ieMouseOutCondition = IE ? 'if(!this.contains(event.toElement))' : '';
+
+var scLayer;
+            
+if(itemAdded != "N")
+{
+        
+        var scLayer = new Layer(document, 'sc', scHTMLadd, null, 90, 250, null, 'onMouseOver="stopHideTimer(scIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(scIndex);"'));
+	    scLayer.output();
+	    scLayer.hide();
+	
+	window.setTimeout("scLayer.show()", 3000);
+	  
+	window.setTimeout("scLayer.setBody(scHTML);scLayer.hide(); ", 8000);
+	
+	
+} else {
+
+var scLayer = new Layer(document, 'sc', scHTML, null, 90, 250, null, 'onMouseOver="stopHideTimer(scIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(scIndex);"'));
+	    scLayer.output();
+	    scLayer.hide();
+
+}
+
+var sfLayer = new Layer(document, 'sf', sfHTML, null, 90, 162, null, 'onMouseOver="stopHideTimer(sfIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(sfIndex);"'));
+    sfLayer.output();
+    sfLayer.hide();
+
+var csLayer = new Layer(document, 'cs', csHTML, null, 90, 162, null, 'onMouseOver="stopHideTimer(csIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(csIndex);"'));
+    csLayer.output();
+    csLayer.hide();
+
+var maLayer = new Layer(document, 'ma', maHTML, null, 90, 162, null, 'onMouseOver="stopHideTimer(maIndex);" onMouseOut="'.concat(ieMouseOutCondition, 'startHideTimer(maIndex);"'));
+    maLayer.output();
+    maLayer.hide();
+
+var niLayer = new Layer(document, 'ni', niHTML, null, 73, 60, null, 'onMouseOver="stopHideTimer(scIndex);"');
+    niLayer.output();
+    niLayer.hide();
+
+
+/******************************************************************************/
+// Build the search table HTML
+var searchHTML = '<table width="185" border="0" cellspacing="0" cellpadding="0" class="bgcream">'.concat(
+                     '<tr>',
+                        '<td align="left" valign="center">', buildInput("Description", 140, 200, ""), '</td>',
+                        '<td align="right" valign="center"><input type="image" name="btnFind" src="http://a1011.g.akamai.net/7/1011/6062/688eea181869a5/www.frontgate.com/images/buttons/btn_find.gif" border="0" width="32" height="17"></td>',
+                     '</tr>',
+                 '</table>');
+
+/******************************************************************************/
+
+// Set the default state of the number item layer for this page, so that it
+// can be used in an updateNumItemLayer() call in global_functions.js file
+numItemLayerHilite = false;
+itemAdded = "N";
+</script>
+
+
+
+
+
+
+<script language="javascript">
+/******************************************************************************/
+
+    
+
+
+</script>	
+
+
+
+
+<table align="center" width="748" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+       <td width="748" valign="top">
+            <div align="center">
+            <table align="center" width="748" border="0" cellpadding="0" cellspacing="0" class="bgcream">
+                
+	        <tbody><tr>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="145" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="5" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="15" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="150" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="95" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="71" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="35" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="130" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="69" height="1" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="1" alt=""></td>
+			<td></td>
+		</tr>
+                <tr>
+			<td colspan="6"><a href="home.jsp"><img src="http://a1011.g.akamai.net/7/1011/6062/522bedcfbc4b03/www.frontgate.com/images/globalheader/FGlogo.gif" width="332" height="70" alt="Home" title="Home"></a></td>
+			<td colspan="2"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="166" height="70" alt=""></td>
+			<td><img src="http://a1011.g.akamai.net/7/1011/6062/61e7026b2b8a2b/www.frontgate.com/images/globalheader/topnav_searchdivider.gif" width="35" height="70" alt=""></td>
+			<td colspan="3">
+                <!--begin nested table for search area-->
+                        <table width="185" border="0" cellspacing="0" cellpadding="0" class="bgcream">
+                        <form method="GET" action="http://www.frontgate.com/fg/search_result.jsp" name="searchform"></form>
+                            
+                            <tbody><tr>
+                                <td colspan="2" valign="top"><img src="http://a1011.g.akamai.net/7/1011/6062/3cfddb1f4acc29/www.frontgate.com/images/search/header.gif" width="181" height="8" alt=""></td>
+                            </tr>
+                            <tr>
+                                <td height="25" colspan="2" valign="top"><script language="javascript">document.write(searchHTML);</script>undefined<input type="hidden" name="display" value=""></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" valign="top"><a href="http://www.frontgate.com/fg/eo_enteritem.jsp"><img src="http://a1011.g.akamai.net/7/1011/6062/32e1d59563ea4e/www.frontgate.com/images/search/whatsanitem.gif" width="136" height="11" border="0" alt=""></a></td>
+                               
+                            </tr>
+                            
+                        
+                        </tbody></table>
+                <!--end nested table for search area-->
+                    </td>
+                    <td colspan="1" valign="top" height="70"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="70" border="0" alt=""></td>
+                </tr>
+                
+                <tr class="bgmedbrown">
+                    <!-- <td height="18"><img src="/images/globalheader/green_spacer_20.gif" width="16" height="20" alt=""></td> -->
+
+                    <td colspan="3" height="18"><a href="http://www.frontgate.com/fg/home.jsp" onmouseout="javascript:stopShowTimer(sfIndex);startHideTimer(sfIndex);" onmouseover="javascript:stopHideTimer(sfIndex);startShowTimer(sfIndex);changeImages('sfImage', 'http://a1011.g.akamai.net/7/1011/6062/fb731b0fa950b4/www.frontgate.com/images/globalheader/shop_on.gif');"><img name="sfImage" src="http://a1011.g.akamai.net/7/1011/6062/180e9a01a56aa2/www.frontgate.com/images/globalheader/shop.gif" width="166" height="18" border="0"></a></td>
+
+                    <!-- <td height="18"><img src="/images/globalheader/green_spacer_20.gif" width="27" height="18" alt=""></td> -->
+
+                    <td colspan="3" height="18"><a href="http://www.frontgate.com/fg/cs.jsp"><img name="csImage" src="http://a1011.g.akamai.net/7/1011/6062/839239a33c9284/www.frontgate.com/images/globalheader/custserv_on.gif" width="166" height="18" border="0"></a></td>
+    
+                    <!-- <td colspan="4" height="18"><img src="/images/globalheader/green_spacer_20.gif" width="27" height="18" alt=""></td> -->
+
+                    <td colspan="2" height="18"><a href="https://www.frontgate.com/fg/ma_portal.jsp" onmouseout="javascript:stopShowTimer(maIndex);startHideTimer(maIndex);" onmouseover="javascript:stopHideTimer(maIndex);startShowTimer(maIndex);changeImages('maImage','http://a1011.g.akamai.net/7/1011/6062/c279a81032e912/www.frontgate.com/images/globalheader/myaccount_on.gif');"><img name="maImage" src="http://a1011.g.akamai.net/7/1011/6062/6cd678f4eb9966/www.frontgate.com/images/globalheader/myaccount.gif" width="166" height="18" border="0"></a></td>
+
+                    <!-- <td colspan="2" height="18"><img src="/images/globalheader/green_spacer_20.gif" width="93" height="18" alt=""></td> -->
+
+                    <td colspan="5" height="18"><a href="http://www.frontgate.com/fg/shopcart.jsp" onmouseout="javascript:stopShowTimer(scIndex);startHideTimer(scIndex);" onmouseover="javascript:startShowTimer(scIndex);updateNumItemLayer(true);changeImages('scImage', 'http://a1011.g.akamai.net/7/1011/6062/61e041d160968f/www.frontgate.com/images/globalheader/shopcart_on.gif');stopHideTimer(scIndex);"><img name="scImage" src="http://a1011.g.akamai.net/7/1011/6062/30831f2ef955aa/www.frontgate.com/images/globalheader/shopcart.gif" width="250" height="18" border="0"></a></td>
+
+		     
+                   <!-- <td colspan="1" height="18" valign="top"><img src="/images/spacer.gif" width="15" height="18" alt=""></td>  
+                    <td colspan="1" height="18" valign="top"><img src="/images/spacer.gif" width="1" height="18" alt=""></td> -->
+                </tr>
+            </tbody></table>
+        </div></td>
+    </tr>
+    <tr>
+        <td width="748" valign="top" align="center"><!--HTML structures within this cell must be 748px wide, or less.-->
+
+
+
+
+            <table width="748" border="0" cellspacing="0" cellpadding="0" align="top">
+                <tbody><tr>
+                    <td width="16" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="10"></td>
+                    <td width="145" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="145" height="10"></td>
+                    <td width="5" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="5" height="10"></td>
+                    <td class="bglightgray" width="1" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="10"></td>
+                    <td width="15" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="15" height="10"></td>
+                    <td width="550" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="550" height="10"></td>
+                    <td width="16" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="10"></td>
+                </tr>
+                <tr>
+                    <td width="16" height="1" valign="top"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="1"></td>
+                    <td width="145" valign="top">
+                        <table width="145" border="0" cellspacing="0" cellpadding="0" align="top">
+                            <tbody><tr>
+                                <td width="145" align="left" valign="top"><!--begin leftnav include-->
+<p class="leftnavmaincats"><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">Ordering Information</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=50" title="How To Order">How To Order</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=52" title="Gifting Services">Gifting Services</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=85" title="Corporate Sales">Corporate Sales</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=54" title="Customer FAQs">Customer FAQs</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">Shipping &amp; Returns</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=51" title="Shipping &amp; Processing">Shipping &amp; Processing</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="https://www.frontgate.com/fg/ot_order_search.jsp" title="Order Tracking">Order Tracking</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=57" title="Returns &amp; Exchanges">Returns &amp; Exchanges</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=170" title="Holiday Shipping Schedule">Holiday Shipping Schedule</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">For Your Protection</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="subcathilite">Security &amp; Privacy</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=58" title="One-Year Guarantee">One-Year Guarantee</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=60" title="Price Protection Policy">Price Protection Policy</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=131" title="Cookies &amp; JavaScript">Cookies &amp; JavaScript</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">Email/Catalog Requests</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/email_signup.jsp" title="Preferred Email Registry">Preferred Email Registry</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/catalog.jsp" title="Request a Catalog">Request a Catalog</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=82" title="Catalog Mail Preference">Catalog Mail Preference</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">About Frontgate</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=61" title="Company Profile">Company Profile</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=125" title="Corporate Offices">Corporate Offices</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=72" title="Career Opportunities">Career Opportunities</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=74" title="Terms &amp; Conditions">Terms &amp; Conditions</a><br><img width="4" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><span class="maincatlist">Contacting Frontgate</span><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=62" title="Contact Us">Contact Us</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=126" title="Store Locator">Store Locator</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=68" title="Supplier Inquiries">Supplier Inquiries</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=69" title="Frontgate Partnerships">Frontgate Partnerships</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=73" title="Report Technical Issues">Report Technical Issues</a><br><img width="13" height="1" src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif"><a class="subcatlist" href="http://www.frontgate.com/fg/cs.jsp?tId=172" title="Media Requests">Media Requests</a><br><br><br></p>
+<!--end leftnav include--></td>
+                            </tr>
+                        </tbody></table>    
+                    </td>
+                    <td width="5" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="5" height="1"></td>
+                    <td class="bglightgray" width="1" height="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="1"></td>
+                    <td width="15" height="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="15" height="1"></td>
+                    <td width="550" valign="top">
+                        <table width="550" border="0" cellspacing="0" cellpadding="0" align="top">
+                            <tbody><tr>
+                                <td width="550" height="15" align="left" valign="top"><span class="breadcrumb"><a href="http://www.frontgate.com/fg/home.jsp" title="Home">Home</a>&nbsp;&gt;&nbsp;<a href="http://www.frontgate.com/fg/cs.jsp" title="Customer Service">Customer Service</a>&nbsp;&gt;&nbsp;Security &amp; Privacy</span></td>
+                            </tr>
+                            <tr>
+                                <td width="550" height="10"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="550" height="10"></td>
+                            </tr>
+                            <tr>
+                                <td width="550" valign="top" align="left">
+
+<script language="JavaScript"> 
+<!-- 
+function Rcertify() 
+{
+popupWin = window.open('http://www.bbbonline.org/cks.asp?id=292001193', 'Participant','location=yes,scrollbars=yes,width=600,height=450'); 
+window.name = 'opener';
+} 
+// --> 
+</script>  
+
+
+<!--begin outer table-->
+<table border="0" width="550" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+
+<p><img src="http://a1011.g.akamai.net/7/1011/6062/d69f822bcac076/www.frontgate.com/images/custcare/hd_privacy_security.gif" width="197" height="22" alt="" border="0"></p>
+
+<p>Frontgate has developed an online commerce environment that is safe, secure, and respectful of your privacy.</p>
+
+<h4>Online Security</h4>
+<p><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="400" valign="top">
+Frontgate understands your concerns about online security. We go to great lengths to ensure that our site offers a secure commerce environment. The transfer of sensitive information between you and Frontgate is protected by the highest standard of encryption technology available on the Internet. Public/private key cryptography enables the creation of a secure "conversation" between your browser and our secure server. While this conversation could potentially be "overheard," it cannot be decrypted.
+</td><td align="center">
+
+<a href="" onclick="Rcertify();return false;"><img src="http://a1011.g.akamai.net/7/1011/6062/524061a01bde63/www.frontgate.com/incs/images/bbb_seal.gif" width="56" height="85" border="0" vspace="4"><br><u>Click to verify</u></a><br><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.FRONTGATE.COM&amp;lang=en"><img src="http://a1011.g.akamai.net/7/1011/6062/4462c5186fe22d/www.frontgate.com/images/verisign2.jpg" width="87" height="39" vspace="4"></a></td></tr></tbody></table>
+
+Follow the links below to learn more:</p>
+
+<ul>
+<li><a href="cs.jsp?tId=70#p1_1">How You Can Tell You're Browsing a Secure Website</a>
+</li><li><a href="cs.jsp?tId=70#p1_2">Data Encryption &amp; Risk of Decryption</a>
+</li><li><a href="cs.jsp?tId=70#p1_3">Top 10 Online Smart Shopping Tips</a>
+</li><li><a href="cs.jsp?tId=70#p1_4">Contacting the Webmaster</a>
+</li></ul>
+
+<h4>Your Privacy</h4>
+<p>Those who communicate with Frontgate and supply us with their contact information may receive future communications by email, direct mail, or telephone. If you do not wish to receive correspondence from Frontgate, you can contact us with a request to be removed from our mailing list.</p>
+
+<p>This site recognizes the IP addresses of visitors, but not their email addresses. Individually identifiable email addresses are not captured or stored unless they are directly provided to us. Email addresses will NOT be provided to any non-affiliated parties outside the Frontgate business group.</p>
+
+<p>Follow the links below to learn more about Frontgate’s information-gathering and -dissemination practices:</p>
+
+<ul>
+<li><a href="cs.jsp?tId=71#p1">How We Gather &amp; Use Your Personal Information</a>
+</li><li><a href="cs.jsp?tId=71#p2">How Our Web Site Uses Cookies &amp; IP Addresses</a>
+</li><li><a href="cs.jsp?tId=71#p3">Information Received by or Supplied to Third Parties</a>
+</li><li><a href="cs.jsp?tId=71#p4">Changing Your Email &amp; Mailing Preferences</a>
+</li><li><a href="cs.jsp?tId=71#p5">Removing Your Name from Mailing Lists, Telemarketing Lists, &amp; Email Lists in General</a>
+</li><li><a href="cs.jsp?tId=71#p6">Making Corrections &amp; Updates to Your Frontgate Account Information</a>
+</li><li><a href="cs.jsp?tId=71#p7">Protecting Childrens' Privacy</a>
+</li><li><a href="cs.jsp?tId=71#p8">Contacting the Webmaster</a>
+</li></ul>
+
+<!--end outer table-->
+</td>
+</tr>
+</tbody></table>
+            
+                                </td>            
+                            </tr>
+                        </tbody></table>    
+                    </td>
+                    <td width="16" height="1" valign="top"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="1"></td>
+                </tr>
+                <tr>
+                    <td colspan="3" height="15"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="15"></td>
+                    <td class="bglightgray" width="1" height="15"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="1" height="15"></td>
+                    <td colspan="3" height="15"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="15"></td>
+                </tr>
+            </tbody></table>
+
+
+
+
+
+        </td>
+    </tr>
+    <tr>
+        <td width="748" height="90" valign="top">
+           <form method="post" action="javascript:checkOptinForm('submitEmail');" name="submitEmail"> 
+            
+            
+            <table width="748" border="0" cellpadding="0" cellspacing="0" align="center">
+                <tbody><tr>
+                    <td colspan="5"><img src="http://a1011.g.akamai.net/7/1011/6062/47badb8e286c57/www.frontgate.com/images/globalfooter/horizontal_rule_748.gif" width="748" height="1" alt=""></td>
+                </tr>
+                <tr valign="top">
+                    <td rowspan="2" width="166" align="left" valign="top"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="166" height="24" alt=""><br><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="28" height="1" alt=""><img src="http://a1011.g.akamai.net/7/1011/6062/824bea9ae72661/www.frontgate.com/images/other/phone_number.gif" alt=""><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="28" height="1" alt=""></td>
+                    <td rowspan="2"><img src="http://a1011.g.akamai.net/7/1011/6062/f24cd3e346d70c/www.frontgate.com/images/globalfooter/vertical_rule_down.gif" width="1" height="89" alt=""></td>
+                    <td rowspan="2" width="15"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="15" height="89" alt=""></td>
+                    <td width="550" height="1"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="550" height="1" alt=""></td>
+                    <td rowspan="2" width="16"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="16" height="89" alt=""></td>
+                </tr>
+                <tr>
+                   <td width="550">
+                     <table width="550" border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tbody><tr valign="middle"><td width="550" colspan="3"><span class="footer"><b>Join our <a href="email_signup.jsp"><b>Preferred Email Registry</b></a> for exclusive offers and previews: &nbsp;</b><input class="footer" type="text" name="receipt_email_address" value="Enter email address here" onclick="javascript:clearEmailField('submitEmail');" size="27"> <a href="javascript:checkOptinForm('submitEmail');"><img align="top" src="http://a1011.g.akamai.net/7/1011/6062/c7c01b04c678ef/www.frontgate.com/images/buttons/btn_submit_email.gif" alt="Submit" border="0"></a></span></td></tr>
+                     	<input type="hidden" name="FG_EMAIL" value="1">
+                     	<tr>
+                     	   <td width="550" colspan="3" height="5"><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" width="550" height="5" alt=""></td>	
+                     	</tr>
+                     	<tr>
+	                   <td width="550" colspan="3"><span class="footer"><a href="http://www.frontgate.com/fg/cs.jsp?tId=62" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;<a href="https://www.frontgate.com/fg/catalog.jsp" title="Free Catalog Request">Free Catalog Request</a>&nbsp;|&nbsp;<a href="http://www.frontgate.com/fg/cs.jsp?tId=58" title="One-Year Guarantee">One-Year Guarantee</a>&nbsp;|&nbsp;<a href="https://www.frontgate.com/fg/ot_order_search.jsp" title="Order Tracking">Order Tracking</a>&nbsp;|&nbsp;<a href="http://www.frontgate.com/fg/cs.jsp?tId=59" title="Security &amp; Privacy">Security &amp; Privacy</a><br><img src="http://a1011.g.akamai.net/7/1011/6062/3e567d6f16d040/www.frontgate.com/images/spacer.gif" height="6" width="1" alt=""><br><a href="http://www.frontgate.com/fg/cs.jsp?tId=51">Shipping Information</a> | <a href="http://www.frontgate.com/fg/cs.jsp?tId=126">Store Locator</a> | <a href="http://www.frontgate.com/sitemap/">Site Map</a>&nbsp;|&nbsp;© 2005 Frontgate®</span></td>
+	                </tr>
+	             </tbody></table>
+ 		  </td>
+                </tr>
+            </tbody></table>
+          </form>        
+        </td>
+    </tr>
+</tbody></table>
+<script language="javascript">
+
+function myBuildFullURL(filename, secure){
+    var linkURI = "http://";
+    if (secure)
+    {
+        linkURI = "https://";
+    }
+
+    var startsWithSlash = /^\//;
+    if ( !startsWithSlash.test(filename) )
+    {
+        filename = __fastconcat("/",filename);
+    }
+
+    var returnLink = __fastconcat(linkURI, FG_CONST.HTTP_HOST, FG_CONST.NSAPI_GATEWAY_NAME, filename);
+    return returnLink;
+}
+
+function clearEmailField(formname) {
+ if (IE)
+    {
+        var form = eval('document.all.' + formname);
+    }
+    else if (NS)
+    {
+        var form = eval('document.' + formname);
+    }
+ 
+ if (form.receipt_email_address.value == "Enter email address here")
+ 	form.receipt_email_address.value = '';
+  
+}
+function checkOptinForm(formname) {
+
+    if (IE)
+    {
+        var form = eval('document.all.' + formname);
+    }
+    else if (NS)
+    {
+        var form = eval('document.' + formname);
+    }
+    var showmsg = false;
+    var msg='';
+    
+    var actionPage = "http://www.frontgate.com/fg/signup_thanks.jsp";
+    if ((isFilled(form.receipt_email_address) == false)) { msg = "Please verify the email address you entered is accurate (e.g. account@website.com)."; showmsg = true;}
+    
+    if (showmsg == false)
+    {
+        
+        if (!IsEmailValid(form.receipt_email_address)) { msg = "Please verify the email address you entered is accurate (e.g. account@website.com)."; showmsg = true;}
+        
+    } 
+
+    if (showmsg == true)
+    {
+        alert(msg);
+    }
+    else
+    {
+        form.action=actionPage;	
+        form.submit();
+    }   
+    
+}
+</script>
+
+<script language="JavaScript">
+if ((top.frames.length > 0) && (self != top))	{
+top.location = 'http://www.frontgate.com/fg/cs.jsp?tId=59';
+} else {
+
+	<!-- Fireclick Netflame -->
+	function handle(){return true;}
+	window.onerror=handle;
+	var fc_host='www.frontgate.com';
+	document.write('<scr'+'ipt '
+	+'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
+	+'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
+	function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
+	var fcfn=window.onload;
+	function fcco(){window.setTimeout("fcce();", 100);fcfn();}
+	window.onload= null==fcfn ? fcce:fcco;
+	<!-- Fireclick Netflame -->
+}</script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.frontgate.com"></script>
+
+
+
+
+</div></center>
+
+
+</body></html>
