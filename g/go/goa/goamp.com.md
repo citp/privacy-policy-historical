@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goamp.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604173641id_/http%3A//www.goamp.com/AMP/Privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goamp.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207224614id_/http%3A//www.goamp.com/AMP/Privacystatement.htm) for the most accurate reproduction.*
 
 # AMP - Privacy Statement
 
@@ -18,7 +18,7 @@ This Applied Measurement Professional's, Inc. ( **AMP** ) privacy statement disc
 
 
 
-If you feel that we are not abiding by our posted privacy policy, you should first contact the Chief Information Officer [by email](mailto:AMPCIO@goAMP.com) or by phone at 843.520.2992.
+If you feel that we are not abiding by our posted privacy policy, you should first contact the Chief Information Officer [by email](mailto:AMPCIO@goAMP.com?subject=) or by phone at 843.520.2992.
 
 **Information Collection and Use**   
 AMP is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We may collect information from you at several different points on our website.  
@@ -55,7 +55,7 @@ If you choose to subscribe to our newsletter or mailing list, we ask you for con
 From time-to-time our site may request information from you via surveys. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (e.g., name and shipping address), and demographic information (e.g., zip code and age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of our site.
 
 **Security**  
-Our website takes every precaution to protect your information. When you submit sensitive information via the website, your information is protected both online and off-line. When we ask you to enter sensitive information (e.g., credit card number and/or Social Security number), that information is encrypted and is protected with the industry standard encryption software known as SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer indicates as closed lock. While we use SSL encryption to protect sensitive information online, we also take prudent measures to protect your information off-line. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing and customer service staffs) are granted access to personally identifiable information. Furthermore, we strive to keep all employees up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are kept in a secure environment. If you have any questions about the security at our website, you can send an [email to us.](mailto:info@goAMP.com) It is important to note that you also play a significant role in protecting your information. We take precautions to ensure that no one can view or edit your personal information on our website without knowing your password, so do not share your password with others.
+Our website takes every precaution to protect your information. When you submit sensitive information via the website, your information is protected both online and off-line. When we ask you to enter sensitive information (e.g., credit card number and/or Social Security number), that information is encrypted and is protected with the industry standard encryption software known as SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer indicates as closed lock. While we use SSL encryption to protect sensitive information online, we also take prudent measures to protect your information off-line. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing and customer service staffs) are granted access to personally identifiable information. Furthermore, we strive to keep all employees up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are kept in a secure environment. If you have any questions about the security at our website, you can send an [email to us.](mailto:info@goAMP.com?subject=) It is important to note that you also play a significant role in protecting your information. We take precautions to ensure that no one can view or edit your personal information on our website without knowing your password, so do not share your password with others.
 
 It is important to note that you also play a significant role in protecting your information. We take precautions to ensure that no one can view or edit your personal information on our web site without knowing your password, so do not share your password with others.
 
@@ -69,14 +69,14 @@ We send new users a welcoming e-mail to verify password and username. You will o
 If your personally identifiable information changes (e.g., your zip code), or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove the personal data provided to us UNLESS the data you have provided is under the auspices of a client for whom we are required to maintain long-term information for examination, licensure or credentialing purposes.
 
 **Choice/Opt-out**  
-You are given the opportunity to "opt-out" of having your information used for purposes not directly related to our site. This is typically done at the point where we ask for the information. If you no longer wish to receive our newsletter or promotional materials from our partners you may opt-out of receiving these communications by responding to the opt-out instructions in the e-mail. Or, [email us for more information.](mailto:info@goAMP.com)
+You are given the opportunity to "opt-out" of having your information used for purposes not directly related to our site. This is typically done at the point where we ask for the information. If you no longer wish to receive our newsletter or promotional materials from our partners you may opt-out of receiving these communications by responding to the opt-out instructions in the e-mail. Or, [email us for more information.](mailto:info@goAMP.com?subject=Privacy%20Statement%20Information%20Request)
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our home page so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will attempt to notify you by way of an e-mail.
 
 Updated on 31-Jan-20   
 [Terms of Use](http://www.goamp.com/AMP/Termsofuse.htm) | [Privacy  
-](http://www.goamp.com/AMP/Privacystatement.htm)Lost? Try the [sitemap](https://web.archive.org/web/20040604173641id_/http%3A//www.goamp.com/Sitemap.htm). **  
+](http://www.goamp.com/AMP/Privacystatement.htm)Lost? Try the [sitemap](https://web.archive.org/web/20041207224614id_/http%3A//www.goamp.com/Sitemap.htm). **  
 © 2004 Applied Measurement Professionals, Inc.**
 
 | 
