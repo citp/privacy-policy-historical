@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204205008id_/http%3A//www.1automationwiz.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611142501id_/http%3A//www.1automationwiz.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
-Privacy Policy 
+## Privacy Policy 
 
 Last Updated: July 4th, 2003
 
