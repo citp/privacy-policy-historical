@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010805id_/http%3A//ldonline.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622083836id_/http%3A//ldonline.org/privacy_policy.html) for the most accurate reproduction.*
 
 # LD Online Privacy Policy
 
@@ -89,8 +89,4 @@ By using this site, you signify your agreement to the terms and conditions of th
   
 
 
-© Copyright 1996-2003 [WETA](http://www.weta.org/). [Privacy Policy](http://www.ldonline.org/privacy_policy.html)   
-[Donate to LD OnLine](https://www2.weta.org/?d=dec01ld)
-
-[](http://www.cast.org/bobby)   
-_[please read our disclaimer](http://www.ldonline.org/bobby_notes.html)_
+© Copyright 1996-2004 [WETA](http://www.weta.org/) | [Privacy Policy](http://www.ldonline.org/privacy_policy.html) |  [Donate to LD OnLine](https://www2.weta.org/?d=dec01ld)
