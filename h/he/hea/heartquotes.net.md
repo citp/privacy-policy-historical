@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010064335id_/http%3A//www.heartmath.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306141622id_/http%3A//www.heartmath.com/company/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# HeartMath Privacy Policy
 
-Privacy Statement
-
-HeartMath LLC ("HMLLC") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our mailing lists, registrants for our events, participants in our surveys and contests and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by HMLLC.
+HeartMath LLC ("HMLLC") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our mailing lists, registrants for our events, participants in our surveys and contests and all of our customers. We created this policy with a fundamental respect for our users' right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by HMLLC.
 
 **Information Collection and Use**  
 HMLLC collects information from our website users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers. 
@@ -37,7 +35,7 @@ We offer our users the option to receive information about our company, related 
 **Automatic Data Collection**  
 Our web sites have features that automatically collect information from users, to deliver content specific to users' interests and to honor their preferences. This information assists us in creating sites that will serve the needs of our users. 
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Our Web shopping cart utilizes cookies to facilitate the ordering process.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Our Web shopping cart utilizes cookies to facilitate the ordering process.
 
 We use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our site. If users reject the cookies, they may be limited in the use of some areas of our site. For example, the user may not be able to place an order in our online store. Additionally, we may note some of the pages the user visits on our site through the use of pixel tags (also called clear gifs). The use of cookies and pixels enable us to track and target the interests of our users to enhance the experience on our sites. 
 
@@ -68,7 +66,10 @@ Our web sites contain links to other sites. HMLLC is not responsible for the pri
 **Notification and Changes**  
 If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
 
-For questions about this privacy statement, the practices of this site or any dealings with HeartMath LLC, contact us at: 
+For questions about this privacy statement, the practices of this site or any dealings with HeartMath LLC, contact:
 
-  
-
+Chris Jacob  
+VP of Finance  
+Telephone: (800) 450-9111, Ext. 52 (Toll-Free)  
+Telephone: (831) 338-8700, Ext. 52 (International)  
+E-Mail: [cjacob@heartmath.com](mailto:cjacob@heartmath.com)
