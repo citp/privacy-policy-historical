@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerhistory.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605092911id_/http%3A//www.computerhistory.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerhistory.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204125606id_/http%3A//www.computerhistory.org/privacy) for the most accurate reproduction.*
 
 # Computer History Museum - Privacy
 
@@ -41,7 +41,7 @@ _Choice/Opt-In, Contacting the Website, Correcting Personal Information:_
 Our site requires users to opt-in to receive communications from us or our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database, for not receiving future communications,
 or for modifying information previously provided:
  
-1\. You can send e-mail to: [webmaster@computerhistory.org](mailto:/contact/index.php?email=webmaster)
+1\. You can send e-mail to: [webmaster@computerhistory.org](https://web.archive.org/contact/index.php?email=webmaster)
 2\. You can send regular mail to the following postal address:
  
 Webmaster
