@@ -1,68 +1,33 @@
-> *The following text is extracted and transformed from the barcelona.com privacy policy that was archived on 2002-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020212063536id_/http%3A//www.barcelona.com/ps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcelona.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208085629id_/http%3A//www.barcelona.com/barcelona/Jahia/pid/148) for the most accurate reproduction.*
 
-# barcelona.com
+# Barcelona.com Barcelona Spain hotels, apartments, Travel and City Guide - Privacy Statement
 
-|  |  Contenido   
+|  |      [Contact us](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/contact/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
 ---|---  
-   **Donde dormir**  
----  
-      [apartamentos](https://web.archive.org/forrent)  
-      [campings](https://web.archive.org/campings)  
-      [casas rurales](https://web.archive.org/casasrurales)  
-      [hostales](https://web.archive.org/hostels)  
-      [hoteles](https://web.archive.org/reservas)  
-   **Entretenimiento**  
-      [cafés internet](https://web.archive.org/icafes)  
-      [entradas](https://web.archive.org/tickets)  
-      [pubs y bares](https://web.archive.org/bars)  
-      [restaurantes](https://web.archive.org/restaurants)  
-      [solo adultos](http://www.linkcounter.com/go.php?linkid=194277)  
-      [tours con guia](https://web.archive.org/tours)  
-   **Tiendas**  
-      [tiendas](https://web.archive.org/shops)  
-   **Negocios**  
-      [empleo](https://web.archive.org/empleo)  
-      [ferias](https://web.archive.org/fires)  
-      [inmobiliaria](http://tracker.tradedoubler.com/pan/TrackerServlet?p=268&a=209953&g=0)  
-      [su microweb](http://negocios.barcelona.com/)  
-   **Cultura**  
-      [academias](https://web.archive.org/academias)  
-      [cine](http://www.linkcounter.com/go.php?linkid=214726)  
-      [museos](https://web.archive.org/museums)  
-      [noticias](https://web.archive.org/noticias)  
-      [revistas y   
-      periódicos](https://web.archive.org/prensa)  
-      [televisión](https://web.archive.org/television)  
-      [universidades](https://web.archive.org/university)  
-   **Info General**  
-      [aeropuerto](https://web.archive.org/aeropuertos)  
-      [barça](https://web.archive.org/barsamania)  
-      [buscadores](https://web.archive.org/buscadores)  
-      [horóscopo](http://www.elperiodico.es/edicion/diario/CAS/horoscopo/zodiaco.htm)  
-      [hospitales](https://web.archive.org/salut)  
-      [loterias](https://web.archive.org/loterias)  
-      [municipios](https://web.archive.org/municipios)  
-      [teléfonos   
-      de urgencias](https://web.archive.org/urgencias)  
-      [tiempo](https://web.archive.org/tiempo)  
-      [webcams](https://web.archive.org/webcams)  
-   **Configuración**  
-      [configuración](https://web.archive.org/usuarios)  
-        
-tus comentarios  
-[](http://www.google.com/search)  
-**barcelona** **. com**  
-**www**   
+|      [Partners](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/partners/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|      [Press](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/press-releases/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|      [Privacy Statement](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/pricavy-statement/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|      [Advertising](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/Publicidad-en-Barcelona/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|   
   
-[management del  
-servidor por](http://www.linkcounter.com/go.php?linkid=196648)[](http://www.linkcounter.com/go.php?linkid=196648)  
-   |  Privacy Statement
+|    [Bookings](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/cache/offonce/pid/2;jsessionid=F09903BC20BE59240C48324242955C05)  
+---|---  
+|    [City Info](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/cache/offonce/pid/120;jsessionid=F09903BC20BE59240C48324242955C05)  
+|    [Useful](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/practica-useful/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|    [Catalonia](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/catalonia/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|    [About us](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|    [Goodies](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/services/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+|    [Guía Local](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/guia-local-barcelona/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
+| 
 
-Privacy Statement
+  
+  Privacy Statement  
+  [Home](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)    [About us](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)    [Privacy State...](https://web.archive.org/barcelona/Jahia/Barcelona-Spain-Travel/nosotros/pricavy-statement/cache/offonce;jsessionid=F09903BC20BE59240C48324242955C05)  
 
-* * *
 
-  1. **www.barcelona.com and Your Privacy:** At www.barcelona.com it is our intent to give you as much control as possible over your privacy in regard to your personal information and the use we make of it in the course of our business. In general, you can visit www.barcelona.com on the Web without telling us who you are or revealing any information about yourself.
+### Privacy Statement
+
+  1. **www.barcelona.com and Your Privacy:** At **www.barcelona.com** it is our intent to give you as much control as possible over your privacy in regard to your personal information and the use we make of it in the course of our business. In general, you can visit www.barcelona.com on the Web without telling us who you are or revealing any information about yourself.
 
     1. WWW.BARCELONA.COM does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from a contest or sweepstakes registration, the registration process for subscription sites or services and in connection with content submissions, community postings (e.g., chat and bulletin boards), suggestions, voting/polling activities, and transactional areas. Personally identifiable information on individual users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. At such points of collection, the user will have the opportunity to indicate whether he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services, and offerings from WWW.BARCELONA.COM and/or any third parties. Further, notwithstanding any opt out of promotional information by the user, WWW.BARCELONA.COM reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement, and other matters relevant to the underlying service and/or the information collected.
 
@@ -104,8 +69,7 @@ Privacy Statement
 
   
 **Third Party Advertising  
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here **  
-<http://www.networkadvertising.org/optout_nonppii.asp>**   
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here   
   
 Third Party Cookies  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.  
@@ -115,10 +79,21 @@ In the course of serving advertisements to this site, our third-party advertiser
   7. **Contacting Us About Privacy:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
 
 > barcelona.com, inc.  
->  P.O.Box 5253  
->  Sherman Oaks, CA 91413  
->  United States of America  
->  [Contact us](mailto:corporate@barcelona.com) .
+> P.O.Box 5253  
+> Sherman Oaks, CA 91413  
+> United States of America  
+> Tel. 1-888-762-6282  
+> Contact us .
 
 
+
+
+  
+  
+|  |  |   
+---|---|---  
+  
+|  |  Partners   
+---  
+  
 
