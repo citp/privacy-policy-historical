@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603235807id_/http%3A//democrats.com/display.cfm%3Fid%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211114033id_/http%3A//democrats.com/display.cfm%3Fid%3D67) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
