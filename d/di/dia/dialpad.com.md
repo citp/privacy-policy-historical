@@ -1,93 +1,89 @@
-> *The following text is extracted and transformed from the dialpad.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217203534id_/http%3A//dialpad.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialpad.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207204818id_/http%3A//dialpad.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This confirms that Dialpad is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Dialpad.
+This confirms that Dialpad Communications, Inc. ("Dialpad") is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. 
 
-[](https://www.truste.org/validate/5519)TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, this web site has agreed to notify you: [](https://www.truste.org/validate/5519)
 
-By displaying the TRUSTe trustmark, this web site has agreed to notify you:
+  1. What personally identifiable information is collected from you through the web site.
+  2. The organization collecting the information.
+  3. How the information is used.
+  4. With whom the information may be shared.
+  5. What choices are available to you regarding collection, use and distribution of the information.
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Dialpad's control.
+  7. How you can correct any inaccuracies in the information.
 
-1\. What personally identifiable information of yours or third-party personally identifiable information is collected from you through the web site.   
-2\. The organization collecting the information.   
-3\. How the information is used.   
-4\. With whom the information may be shared.   
-5\. What choices are available to you regarding collection, use and distribution of the information.   
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Dialpad control.   
-7\. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should first contact Dialpad's Legal Department by sending e-mail to [privacy@dialpad.com](mailto:privacy@dialpad.com). If you do not receive acknowledgment of your inquiry or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the web site to resolve your concerns.
 
-Dialpad has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: www.dialpad.com.
+If you have questions or concerns regarding this statement, you should first contact Dialpad by sending e-mail to [privacy@dialpad.com](mailto:privacy@dialpad.com).  If you do not receive acknowledgment of your inquiry or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>.  TRUSTe will then serve as a liaison with Dialpad to resolve your concerns. 
 
-Cookies
+Dialpad is sensitive to the private nature of information you provide to us over the Internet.  Our privacy practices are designed to maximize your ability to control the use of your personal information while at the same time giving you the opportunity to obtain interesting and useful information, products and services.  This statement describes how we treat information received about you when you visit our web site or register for Dialpad products or services.  Please read our privacy policy carefully.  By using this web site or submitting any personal information, you consent to the collection and use of this information by Dialpad and its affiliates.  Also, please be aware that Dialpad may change this privacy policy from time to time.  If we do, we will post any changes here, so be sure to check back here periodically.  Your continued use of our software and this web site will constitute your consent to any such change. 
 
-Our web site uses cookies to manage Dialpad call sessions and provide customizable and personalized services. Cookies are user-specific data that a web server sends to the client and are stored on the client's computer. Cookies are created by the web server or the Java script in the HTML. When you visit Dialpad, cookies will be sent to your web browser. We use cookies to:
+**Cookies**
 
-1\. Keep track of your session ID and user name.   
-2\. Display your phonebook and logbook.   
-3\. Make sure that you do not see the same ad repeatedly.   
-4\. Estimate the audience size of the Dialpad web site.   
-5\. Measure the certain aggregated traffic patterns of the Dialpad web site to enhance our service.   
-6\. Personalize the content, banners and promotions that you will see on the Dialpad web site. 
+Our web site uses cookies to manage Dialpad call sessions, provide customizable and personalized services and enhance your web viewing experience.  Cookies are user-specific data that a web server sends to you and are stored on your computer.  Cookies are created by the web server or the Java script in the HTML. When you visit Dialpad, cookies will be sent to your web browser by a web server, which can be later read by that server. We use cookies to: 
 
-We use cookies only for these objectives. We do not ask if you accept cookies or not on our web site. However, if you set your web browser to not accept cookies, you cannot use our service.
+  1. Keep track of your session ID and user name.
+  2. Display your phonebook and logbook.
+  3. Estimate the audience size of the Dialpad web site.
+  4. Measure certain aggregated traffic patterns of the Dialpad web site to enhance our service.
 
-Information Dialpad Gathers and Tracks
 
-We collect IP addresses to administer our web site and diagnose problems. Your IP address is also used to gather broad demographic information, which we may report to our advertisers on an aggregate basis. In addition, we collect information regarding log times, call durations, call numbers, country code and region code of our users for internal data analyses only.
 
-Our web site's registration form asks for contact information (such as name and email address) and demographic information (such as zip code, age, and income level.) We use contact information from your registration form to send information to you about Dialpad and, with your permission, to send promotional information from Dialpad and/or its partners. The contact information is also used to contact you when necessary about issues concerning the use of our service. We use demographic information to tailor your experience at our web site, showing you content and advertisements that we think you might be interested in, and displaying the content according to your preferences. This information is shared with advertisers on an aggregate basis for advertising and promotional purposes.
+We use cookies only for these objectives.  Cookies cannot be used to get data from your hard drive, your email or any other personal data about you.  We do not ask if you accept cookies or not on our web site.  However, if you set your web browser to not accept cookies, you cannot use our service. 
 
-You may also choose on the registration page or your account page to permit Dialpad to share your member ID with other Dialpad users.
+**Information Dialpad Gathers and Tracks**
 
-This web site contains links to other web sites. Dialpad is not responsible for the privacy practices or the content of such other web sites. 
+We collect IP addresses to administer our web site and diagnose problems.  Your IP address is also used to gather broad demographic information.  In addition, we collect information regarding log times, call durations, call numbers, country code and region code of our users for internal data analyses only.  Such web site usage information is not personally identifiable information. 
 
-We use outside advertising companies to display advertisements on our web site. These advertisements contain cookies. While we use cookies in other parts of our web site, cookies received with banner ads are collected by our advertising companies; as such, we do not have access to this information and they are not subject to Dialpad's privacy policy. As described above, some general customer data is shared with the advertising companies on an aggregate basis, and contact information is shared with Dialpad's partners only with your permission.
+Our web site's registration form asks for contact information (such as name and email address), by which you can be personally identified, and demographic information (such as zip code, age, and income level).  If you purchase products or services on our web site, you will be asked for financial information, such as account or credit card numbers.  We do not target our services to individuals less than age 13, and will not collect personal information from children under 13 without parental consent.  You may also choose on the registration page or your account page to permit Dialpad to share your member ID with other Dialpad users. 
 
-Choice/Opt-In
+We use reputable outside advertising companies to display advertisements on our web site.  These advertisements contain cookies.  While we use cookies in other parts of our web site, cookies received with ads are collected by our advertising companies; as such, we do not have access to this information and they are not subject to our privacy policy. 
 
-Our web site provides you with the opportunity to opt-in to receive important updates regarding the Dialpad service at the point where we request information about you. Our web site also provides you with the opportunity to opt-in to receive promotional emails from Dialpad and/or its partners at such point. If you choose not to opt-in to receive communications from Dialpad, you shall not receive future communications.
+**How Dialpad Uses Information**
 
-If you choose to receive communications from Dialpad and/or its partners, Dialpad provides you the ability to remove your information from our database so as not to receive future communications or to no longer receive our service by sending an email to [delist@dialpad.com](mailto:delist@dialpad.com).
+We use contact information from your registration form to send information to you about Dialpad and, with your permission, to send promotional information from Dialpad and/or its partners.  The contact information is also used to contact you when necessary about issues concerning the use of our service.  If you have provided credit card information, we will not use your credit card information for any purpose other than for processing payments.  We reserve the right to also use personally identifiable information to investigate and help prevent potentially unlawful activity that threatens either Dialpad or any company affiliated with Dialpad.  Moreover, upon the appropriate request of a government agency, law enforcement, court or as otherwise required by law, Dialpad may disclose personally identifiable information. 
 
-If you choose to receive promotional emails from Dialpad and/or its partners, you will be giving Dialpad permission to access your information on behalf of pre-screened third parties for marketing or promotional purposes. We will not share your personal information with our partners unless you have opted to receive promotional emails from such partners. In some situations, with such permission from you, we will share your personal information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending emails. These parties are not allowed to use personal information except for the limited purpose of providing the particular service on our behalf.
+We use demographic and web site usage information internally to improve the products and services we provide to you.  Unless you have opted-out as specified below, we reserve the right to share it with third party marketing partners to help us improve how we serve you and to alert you to new products, services and special offers.  If you choose to receive promotional materials from Dialpad and/or its partners, you will be giving Dialpad permission to access your information on behalf of pre-screened third parties for marketing or promotional purposes.  We will not share your personal information with our partners unless you have opted to receive promotional emails from such partners.  In some situations, we will also share your personal information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending emails; however, these parties are not allowed to use personal information except for the limited purpose of providing the particular service on our behalf. 
 
-Correct/Update
+**Choice/Opt-In**
 
-Dialpad provides you with the ability to change and modify your information previously provided by logging in and visiting the "my account" area of the web site. The URL of the "my account" area is [http://www.dialpad.com/dialpad/myaccount.html](https://web.archive.org/web/20011217203534id_/http%3A//dialpad.com/dialpad/myaccount.html).
+Our web site provides you with the opportunity to opt-in to receive important updates regarding the Dialpad service at the point where we request information about you.  Our web site also provides you with the opportunity to opt-in to receive promotional materials from Dialpad and/or its partners at such point.  If you choose not to opt-in to receive communications from Dialpad, you shall not receive future communications. 
 
-Database Security Measure
+If you choose to receive communications from Dialpad and/or its partners, Dialpad provides you the ability to remove your information from our database so as not to receive future communications or to no longer receive our service by sending an email to [delist@dialpad.com](mailto:delist@dialpad.com).  You may also follow the instructions contained in any promotional email to unsubscribe from receiving future promotional emails. 
 
-Dialpad maintains high security measures to protect your information from loss, misuse or alteration. Information that we collect from you will be stored and backed up securely in an environmentally-controlled location. Only authorized people with user ID and password from Dialpad have access to the database.
+**Correct/Update**
 
-Third Party Advertisers
+Dialpad provides you with the ability to change and modify your information previously provided by logging in and visiting the "my account" area of this web site.  The URL of the "my account" area is <https://www.dialpad.com/myaccount.php3>. 
 
-Dialpad uses DoubleClick and other third-party advertising companies to serve ads when you visit Dialpad's web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites, such as the number of times you have viewed an advertisement, in order to provide advertisements on this web site and other web sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp). Dialpad uses clear GIFs, or pixel tags, provided by DoubleClick, our ad serving partner, to help manage our online advertising. These clear GIFs enable our ad server to recognize a browser's cookie when a browser visits the Dialpad web site. This allows us and DoubleClick to learn which banner advertisements bring users to the Dialpad web site. The information we collect and share through this technology is not personally identifiable. To learn more about our third-party ad serving partner, cookies and how to opt-out, please [click here](http://www.doubleclick.net/us/corporate/privacy).
+**Surveys and Sweepstakes**
 
-The Onflow Rich Media plug-in may be installed with the Dialpad Java Applet. Please go to <http://www.onflow.com/privacy.php> to review Onflow's privacy policy.
+From time to time, our web site requests information from users via surveys or sweepstakes.  Participation in these surveys or sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose this information.  Information requested may include contact information (such as name and address) and demographic information (such as age and zip code).  Contact information will be used to notify sweepstakes winners and award prizes.  Survey information will be used for the purpose of monitoring or improving your use of, and satisfaction with, this web site. 
 
-Third Party Cookies
+**Public Forums**
 
-In the course of serving advertisements to this web site, our third party advertisers may place or recognize a unique cookie on your browser.
+From time to time, our web site may contain public forums available to users.  Please remember that any information you disclose in these areas becomes public information.  You should take appropriate measures to protect your personally identifiable information. 
 
-Email Links
+**Database Security Measures**
 
-This web site uses email links on the "Contact Us" page to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to respond promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve this web site and program, or review and discard the information. Your personal information provided in your comments is only shared with third parties with your explicit permission.
+Dialpad maintains high security measures to protect your information from loss, misuse or alteration.  Information that we collect from you will be stored and backed up securely in an environmentally-controlled location.  Only authorized people with user ID and password from Dialpad have access to the database. 
 
-Public Forums
+**Co-Branded Web Sites**
 
-This web site makes chat rooms, forums, message boards and/or news groups available to you. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+We sometimes enter into arrangements with third parties whereby we provide our services on their web sites.  In many such cases, users will register for our service as well as that of the co-branded web site.  We use your personally identifiable information and other general information in compliance with our privacy policy.  Our co-branding partners have their own privacy policy, which you should review since we do not have control over their privacy policies. 
 
-Changes to this Privacy Statement
+**Email Links**
 
-We will notify you if there is a material change in our privacy policies by posting a notice on the home page of this web site. We will take commercially reasonable measures to obtain written or active email consent from you if Dialpad will be using the personal information collected from you in a manner different from that stated at the time of collection. We will also post such changes in our privacy statement regarding the use of your personal information one week prior to such change.
+This web site uses email links on the "Contact Us" page to allow you to contact us directly with any questions or comments you may have.  We read every message sent in and try to respond promptly to every one.  This information is used to respond directly to your questions or comments.  We may also file your comments to improve this web site and program, or review and discard the information.  Your personal information provided in your comments is only shared with third parties with your explicit permission. 
 
-**Contacting the Web Site**
+This web site also contains links to other web sites.  Dialpad is not responsible for the privacy practices or the content of such other web sites.  You are encouraged to review the privacy policies of these other web sites before registering for any products or services from those web sites. 
 
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, you can contact:
+**Contacting Us**
+
+If you have any questions about this privacy policy, the practices of this web site, or your dealings with this web site, you can contact: 
 
 Dialpad Communications, Inc.  
 P.O. Box 5445  
 Santa Clara, CA 95056-5445  
-support@dialpad.com
+[support@dialpad.com](mailto:support@dialpad.com)
