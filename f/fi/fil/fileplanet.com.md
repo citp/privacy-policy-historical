@@ -1,85 +1,106 @@
-> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203001859id_/http%3A//www.gamespy.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606035029id_/http%3A//corp.igngamespy.com/privacy.html) for the most accurate reproduction.*
 
-# GameSpy.com - Legal Info
+# IGN/GameSpy - Corporate Site
 
-**GameSpy Industries Privacy Policy - An Overview**
+**Privacy Policy**
 
-GameSpy is strongly committed to protecting the privacy of consumers of its interactive products and services and of visitors to its site. Throughout cyberspace, we want to contribute to providing a safe and secure environment for consumers, and in particular, ensure that kids' information is protected. 
+**Updated December 18, 2003**
 
-All references in this policy to "GameSpy" include the GameSpy site, member-sites of the GameSpy Network, operated by GameSpy Industries, Inc. and all of the other Internet-accessible GameSpy-branded services. The purpose of this GameSpy privacy policy is to inform you, as a welcome visitor to GameSpy, (1) what kinds of information we may gather about you when you visit GameSpy; (2) how we may use that information; (3) whether we disclose it to anyone; and (4) the choices you have regarding our use of, and your ability to correct, the information. Finally, please note that this policy applies only to GameSpy and Web sites that carry the GameSpy brand, and not to other companies' or organizations' Web sites to which we link or assist in the distribution of their software. We have clearly marked GameSpy and these branded Web sites with our logo so you know where this policy applies. 
+**Our Approach to Privacy.** IGN respects your privacy. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of IGN Entertainment, Inc.
 
-GameSpy welcomes comments and questions on this policy. GameSpy is dedicated to protecting your personal information. Due to the rapidly evolving nature of the technologies GameSpy uses to communicate with you, we may occasionally update this policy. Notice of any revisions will be posted to this site. Any comments or questions regarding our privacy practices should be sent to privacy@gamespy.com. 
+This Privacy Policy applies to the web sites owned by IGN Entertainment, Inc. including IGN.com, VaultNetwork.com, GameSages.com, GameStats.com and TeamXbox.com. We refer to these web sites as the **IGN Sites.**
 
-**What personal information does GameSpy collect?**
+While the IGN Sites offer different combinations of services and tools from one site to another, this policy states IGN's company-wide Privacy Policy with regard to data-collection practices.
 
-GameSpy collects personally identifying information during: (i) events, sweepstakes, contest or promotion registration; (ii) subscription registration; (iii) user surveys; and (iv) registration for certain interactive areas on GameSpy and on Web sites that carry the GameSpy brand, where visitors also provide content submissions and suggestions or participate in interactive online activities (i.e., community postings, voting, chat, or bulletin boards). 
+By registering as a member of an IGN Site, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
 
-For each visitor to our Web page, our Web server automatically recognizes and we collect that visitor's domain name and e-mail address (where possible). In addition, we collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information about which pages visitors access, user-specific information about which pages visitors access and how much time is spent in particular areas, and information volunteered by the visitor, such as survey information and/or information provided in site registration forms, including but not limited to a visitor's name, address, and phone number. GameSpy also may record audio conversations or copy text chat or video images from chat rooms on our site. If a visitor signs up for a premium service, we collect credit card information along with a billing address. GameSpy may retain personally identifying information indefinitely. 
+ **Overview of our Policy**
 
-GameSpy automatically updates software used in conjunction with its services. In order to update these software titles, GameSpy will first collect the user's current version information from their hard drive. This information is not archived and is only used to determine which software titles require updating. 
+**The security of personal information is a high priority at IGN.** We maintain these web sites and all associated data with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. No computer system or information can ever be fully protected against every possible hazard. But IGN is committed to providing reasonable and appropriate security controls to protect our web sites and their information against foreseeable hazards.
 
-At times GameSpy may maintain publicly available user profiles as well, which may contain personally identifying information volunteered by its visitors. 
+The information you provide helps us, and our partners (including our service providers, advertisers and other partners) make the IGN Sites more fun and useful for you. It also enables us to provide you updates about our services and special offers from our partners. When you become a registered member of one of our sites, you may receive email or postal mail from IGN and our partners.
 
-**What does GameSpy do with the information it collects?**
+Please keep in mind that whenever you voluntarily disclose personal information in public areas of an IGN Site, such as the member home pages and message boards, your information can be viewed and possibly used by others. We advise users not to disclose information that can be used to contact the user ("Personally Identifiable information") that they do not wish for others to obtain, such as full name, home address, or phone number.
 
-GameSpy may use personally identifying information of its visitors to award prizes, track compliance with our Rules of Conduct, or for editorial and feedback purposes (to the extent that is explained when visitors provide the information). 
+ **Changes to this Policy**
 
-In addition, GameSpy may disclose personally identifying information about you, your accounts, or any content you provide on your site, if GameSpy believes in good faith that such action is reasonably necessary to enforce its User Agreement or copyright policy, to comply with the law, to comply with legal process, to operate its systems properly, or to protect the rights or property of itself, its members, its visitors, or others. 
+This Privacy Policy will always be available to users on this page for you to read. We will update this privacy and fair information practices policy to reflect new features, services and options, as well as any other changes with regard to the use of personal information. Users will be notified by a notice on the IGN Site of any significant update to our Privacy Policy. By registering as a member of an IGN Site, you agree to accept this Privacy Policy and are aware that our policy may change over time. Continued use of the IGN Sites or other IGN services will signify that you agree to these changes. 
 
-When you create a user profile or participate in interactive areas of GameSpy, including audio and gaming areas, all information volunteered by you is displayed or broadcast publicly to the GameSpy community and/or to the chat room that you are visiting. You should keep in mind that whenever you voluntarily disclose personal information online - in a user profile or in chat areas, for example - that information can be collected and used by others who visit that area of our site. 
+**About Children**
 
-GameSpy may record audio conversations or copy text chat or video images from chat rooms on our site and may disclose such material for use in promoting GameSpy or its services or if GameSpy believes in good faith that such action is reasonably necessary to enforce its User Agreement or copyright policy, to comply with the law, to comply with legal process, to operate its systems properly, or to protect the rights or property of itself, its members, its visitors, or others. 
+The IGN Sites are not directed to children under the age of 13. The IGN Sites prohibit registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted at points of data collection within the IGN Sites, such as registration for services.
 
-Other companies which provide services on our site, or which advertise on our site, may collect information about you. GameSpy does not control collection or use of this information. You should contact these companies or advertisers directly if you have any questions about their use of this information. We will provide notice to you if one of our partners or sponsors collects information about you on our site, such as through a tournament, sweepstake, or contest. 
+**Note to Parents.** If you have any concerns about the IGN Sites or its related services, please contact us via our online form, available at <http://www.ign.com/email.html>.
 
-With the permission of a visitor who is 13 years of age or over, information submitted at the time of registration or submission - including but not limited to age, phone number, address, and income level - may be used for marketing and promotional purposes by GameSpy and may be shared with companies that have been pre-screened by GameSpy. If a visitor objects to such use for any reason, he/she may stop that use -- either by e-mail request sent to privacy@gamespy.com or if available by modifying his/her registration information online. See "How to Unsubscribe" below. 
+ **Information Collection and Use**
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an e-mail to us at the above e-mail address and providing us with your exact name and address. We also will notify other organizations with which we share such information and request that they remove your information from their mailing lists. See "How to Unsubscribe" below. 
+Below are more details about the information the IGN Sites gather from you and how we use it.
 
-**How will GameSpy protect your personal information?**
+**A. Email Newsletters.** IGN offers email newsletters. Only registered users will be able to receive newsletters. We will use your email address only to send you the newsletter(s) ** __** that you signed up for. If you want to update your email address or stop receiving our newsletter, follow the procedures to unsubscribe at the bottom of any newsletter we send you or simply visit [http://my.ign.com](http://my.ign.com/) to update your profile.
 
-GameSpy will take appropriate steps to protect the information you share with us. Whenever you give GameSpy sensitive information (credit card numbers, for instance), GameSpy will take commercially reasonable steps to establish a secure connection with your web browser. Credit card numbers are used only for payment processing and are not retained for marketing purposes. 
+**B. Membership Information.** When you register for membership on one of our sites, we ask for information about you and your interests. We do this so we can better understand what you like and tailor the site to suit you better. At a minimum, we require your name, birth date, gender, email address and zip code. The more information you volunteer, the more we can tailor the site and promotions to your interests. 
 
-**How to update personal information**
+    * **Service Providers.** We also offer our members other services provided by third parties such as free email and free userpages, among others. When you register for membership on an IGN Site or activate a service by clicking on a particular service link (i.e. email) on our sites, you may be automatically registered to receive the free services we offer and some of your Personally Identifiable Information may be transferred from IGN to those third-party service providers. By becoming a member, you authorize us and our third-party service providers to send you email updates and information about promotions and special offers. We take care to require that our third-party service providers only use our member’s data as necessary to provide the particular service and to give you updates on that service provider’s products and services. 
 
-You can help GameSpy to maintain the accuracy of your information by notifying us of any change to your address, title, phone number, or e-mail address. If at any time you wish to modify your information or stop receiving communications from GameSpy, you can contact GameSpy through e-mail at privacy@gamespy.com or at Privacy, GameSpy, 18002 Skypark Circle, Irvine, CA 92614. Please include your e-mail address in the message. 
+  
 
-**Policies for individuals under 13**
+    * **Co-registration with Other Sites.** As a member, we offer you the ability to co-register with select third-party partner sites. In some instances where IGN provides co-registration, the co-registration partners allow you to opt-out of their membership. If you choose to co-register with our partners and accept their terms of service, then you are automatically registered as a member of their select web sites and your Personally Identifiable Information is transferred to those organizations. As a result, you may ** __**receive information from one of these web sites as any of their members would. We advise you to review their privacy and data collection policies for further information. In order to cancel your membership with any of these partners you will need to go directly to the partner's site.
 
-GameSpy encourages parents and guardians to spend time online with their children (persons under the age of 13 years old) and to participate in the interactive activities offered on our service. No information should be submitted to or posted at GameSpy's Web sites by visitors under 13 years of age without the consent of their parent or guardian. 
+  
 
-We will not knowingly use information collected from visitors under 13 years of age for any marketing or promotional purposes whatsoever, either inside or outside GameSpy. Visitors' e-mail addresses are not posted on GameSpy, unless provided by a visitor as part of a user profile. 
+    * **Advertisers.** By becoming a member, you authorize IGN to share your Personally Identifiable Information with our advertisers. Our advertisers may use your Personally Identifiable Information to send you, via email or postal mail, advertisements or other notices, and it is possible that your information may be shared with others. 
 
-**About IP addresses**
 
-GameSpy collects IP addresses for the purposes of system administration and to report aggregate information to our advertisers. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve" up Web pages -- automatically identify your computer by its IP address. 
+**C. Email Updates to Members**. If you so elect at registration, the IGN Sites will periodically send you promotional email about services offered by the IGN Sites, our partners and advertisers. If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you or simply visit [http://my.ign.com](http://my.ign.com/) to update your profile.
 
-When visitors request pages from GameSpy, our servers log their IP addresses. We do not link IP addresses to any personally identifiable information. This means that a user's session will be logged, but the user remains anonymous to us. 
+The IGN Sites may contact you regarding account status, changes to the user agreement, and to confirm registration. 
 
-**Use of cookies**
+**D. Promotions.** We may ask you for Personally Identifiable Information at other times, including, but not limited to, when you enter sweepstakes, contests or promotions sponsored by a third party. If you choose to enter sweepstakes, contests or promotions of this nature, we may share your Personally Identifiable Information with the third party so they can contact you. The third party may use that information to send you advertisements or other notices, and it is possible that your information may be shared with others.
 
-What are cookies? Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you're at our site. The use of cookies is an industry standard -- you'll find them at most major Web sites. 
+**E. Surveys and User Research.** IGN conducts email and web-delivered surveys from time to time, as well as instant polls, to gather information about our audience. It is important to remember that taking these surveys and polls is entirely optional. You have no obligation to respond to them. We share only the aggregate results of these surveys, not individual data, with our advertisers and partners to help them better understand our services and monitor the reach of their advertising on our service. We also store some of the information that our users provide in these surveys to help us understand your interests and to make the site more useful for you.
 
-By showing how and when guests use the site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. If you accept the first tracking cookie from GameSpy, you won't be offered as many afterwards. 
+**F. Use of Cookies.** On the Internet, a "cookie" is a piece of information (a file) that a Web site transfers to a user's computer for record-keeping purposes. The use of cookies is common on the Internet. The process we use to serve advertisements and to track use of our site involves cookies. Cookies help IGN and our advertising service (discussed below) track the frequency and placement of advertisements. Cookies also enable us to measure aggregate, or total usage and traffic to our site and to specific offerings. This aids us in producing content that best meets our users' preferences. In order to implement new services, we may use other types of cookies as well. We also may use cookies to understand better what parts of our site you like best. We may use that information to display advertisements that we think will be of particular interest to you. You may configure your browser to reject cookies, but this may interfere with some functionality of the IGN Sites. To find out more about changing your browser to reject cookies, we suggest the EPIC Cookies Page **[[http://www.epic.org /privacy/internet/cookies](http://www.epic.org/privacy/internet/cookies)].**
 
-**How GameSpy uses cookies**
+**G. Sites You Visit.** As you access our Affiliate Sites and browse around the IGN Sites, IGN may store information about which pages and which Affiliate Sites you visit and other information presented in your browser's URL address line. IGN will use this information to help determine what our users are most interested in.
 
-Each browser accessing GameSpy is given a unique cookie, which is then used to determine the number of unique site visitors. An additional cookie lets our computers remember that you've registered, which allows us to speed up your future activities at our sites. Similarly, the online commerce (when offered by GameSpy), may be operated by a separate company, not GameSpy, uses a temporary cookie to track which products you purchase while shopping. A cookie expires once you're done shopping. Letting it do the record-keeping saves you the trouble of entering information over and over again during a single visit. If you decline this cookie, you may have difficulty ordering your selections. 
+**H. Other Third Parties.** IGN may share non-personal, aggregate, or summary, information regarding our users with other third parties not mentioned in this policy. This kind of information does not identify you individually.
 
-**How GameSpy does not use cookies**
+**I. Merger or Acquisition.** In the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets, or the sale of an individual website owned by IGN, IGN may transfer your Personally Identifiable Information to a third party as a part of such merger, acquisition, reorganization, or sale.
 
-GameSpy does not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except as described below, GameSpy does not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. GameSpy does not use cookies to identify specific individuals, except in such cases as online shopping (see above) and contest registration (where a cookie allows you to enter a contest every day without registering again each time). 
+**J. Legal Authorities.** The IGN Sites may also disclose Personally Identifiable Information in cases when we have reason to believe that it is necessary to identify someone who may be violating IGN's [User Agreement](http://corp.ign.com/user_agreement.html) or may be causing injury to IGN's rights or property, other users, or anyone else. The IGN Sites may disclose Personally Identifiable Information of our users to government authorities at our discretion. 
 
-You may occasionally get cookies from our advertisers. GameSpy does not control these cookies, and these cookies are not subject to the GameSpy cookies policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
+**Access to Other Sites Through IGN**  
+  
+**Our Affiliates Sites.** You should be aware that when you are on an IGN Site, you will have the opportunity to visit, or link to, other sites associated with IGN. These sites are identified as our "Affiliates" and/or - "Partner Sites" These sites are not owned or operated by IGN, but are part of a larger network of sites with which the IGN Sites share content and advertising opportunities. We do not share Personally Identifiable Information of our members with these Affiliate Sites.
 
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, like the shopping areas, will not function properly if you do so. 
+**Linking to Other Sites.** You may also visit independent web sites, not operated by IGN, that are connected to our network for our users. Such sites are operated by external, third-party service providers. Some of these sites will have their own separate membership processes and privacy policies. The IGN Sites do not control sites that are operated by others and so cannot be responsible for the information practices of these sites. Other sites may set their own cookies, collect data or solicit personal information. It is always a good idea to check the Privacy Policy and Terms of Use of any site before offering any of your personal information.
 
-Web pages may contain electronic images (called a "single-pixel GIF" or "web beacon") that allow a web site to count users who have visited that page. GameSpy Industries uses web beacons within the GameSpy Network in order to count users and to recognize registered users by accessing GameSpy Network cookies. 
+ **Security**
 
-By using this site, you signify your assent to the GameSpy Privacy Policy. If you do not agree to this policy, please do not use the site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of GameSpy following the posting of changes to these terms will mean you accept those changes. For a full explanation of the terms and conditions for using this site, please see our Software License Agreement and GameSpy Arcade Agreement. You can send e-mail to us with any further questions. 
+The IGN Sites use diligent efforts to protect the security and integrity of the information you provide to us once it is received on our systems. However, when you submit information about yourself to the IGN Sites over the Internet, the information may travel over many systems that are not under the control of IGN. We take the protection of user data very seriously and to that end provide extra assurances that your information will not be intercepted. In the case of shopping pages, for example, the credit card information you submit is protected by secure servers.
 
-**How to Unsubscribe**
+ **Updating Your Information**
 
-From time to time, we make e-mail and postal addresses of those who access our site available to prescreened partners whose products or services we think you might find interesting. If you do not want us to share your e-mail or postal address with other companies or organizations, please [Edit your GameSpy ID account](http://www.gamespyid.com/) and uncheck the relevant options. 
+To update your account information such as your city or interests, please use the "Edit profile page" at the IGN Site on which you are registered. 
 
-If you request your e-mail or postal address not to be shared or choose to opt-out of any promotion, GameSpy Industries will use reasonable efforts to allow users to update/correct personal information previously submitted which the user states is erroneous to the extent such activities will not compromise privacy or security interests. Also, upon a user's request, GameSpy Industries will use commercially reasonable efforts to functionally delete the user and his or her personal information from its database; however, it may be impossible to delete a user's entry without some residual information because of backups and records of deletions. 
+**Cancellations**
+
+  
+
+    * **Canceling Newsletters**. You may cancel participation in email newsletters by following the instructions at the bottom of each newsletter.
+
+  
+
+    * **Email updates and special offers:** You may cancel participation in the email announcements by following the instructions at the bottom of each email.
+
+
+**Still Have Questions?**
+
+If you have any other questions about the IGN Privacy Policy, please contact us via our online form, available at <http://www.ign.com/email.html> or write to us at: 
+
+**IGN Entertainment, Inc.**  
+Attn: Customer Service  
+8000 Marina Blvd.  
+2nd Floor  
+Brisbane, CA 94005 *Be sure to include the specific IGN Site to which you are a member.    
+
