@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latimes.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203230159id_/http%3A//www.latimes.com/services/site/la-privacy%2C0%2C5897084.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latimes.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623083210id_/http%3A//www.latimes.com/services/site/la-privacy%2C0%2C5897084.story) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 | [](https://web.archive.org/services/site/)  
 ---  
 |   |  [Signing Up](https://web.archive.org/services/site/registration/)  
-[Change Member Info](https://web.archive.org/services/site/registration/)  
+[Change Member Info](https://web.archive.org/services/site/registration/show-editprofile.register)  
 [Crossword Puzzles](https://web.archive.org/services/site/la-crosswords-ssipage,0,2662050.ssipage)  
 [Your Password](https://web.archive.org/services/site/registration/show-emailpassword.register)  
 [MyPQA Member Support](https://web.archive.org/services/site/archives/la-qpass-support,0,5426170.htmlstory)  
@@ -18,16 +18,14 @@
   
 |  About the Site  
 |   |  [Finding Articles](https://web.archive.org/services/site/la-findstory,0,6566362.htmlstory)  
-[Content We Don't Have](https://web.archive.org/services/site/archives/la-archives-nocontent,0,6382770.htmlstory)  
+[Content We Don't Have](https://web.archive.org/services/site/la-archives-nocontent,0,4925936.htmlstory)  
 [Site Map](https://web.archive.org/services/site/la-about-sitemap,0,4772777.htmlstory)  
 [Advertise with Us](https://web.archive.org/services/site/la-media-contacts,0,2607813.htmlstory)  
 [Business Contacts](https://web.archive.org/services/site/la-websitestaff,0,3843775.htmlstory)  
-  
 |  Inside the Times  
 |   |  [Media Center](http://www.latimes.com/mediacenter)  
 [Subscribe to the Paper](http://myaccount.latimes.com/)  
 [Jobs at the Times](http://www.tribjobs.com/)  
-  
 |  Help  
 |   |  [Archives](http://pqasb.pqarchiver.com/latimes/tips.html)  
 [Crossword Puzzles](https://web.archive.org/features/puzzles/crosswords/la-crosswords-litsofthelp-ssipage,1,459251.ssipage)  
@@ -47,13 +45,13 @@
 |   |  [The Nation](https://web.archive.org/news/nationworld/nation/?track=mainnav-nation)  
   
 |   
-|   |  [California / Local](https://web.archive.org/news/local/?track=mainnav-california)  
+|   |  [California | Local](https://web.archive.org/news/local/?track=mainnav-california)  
   
 |   
 |   |  [Business](https://web.archive.org/business/?track=mainnav-business)  
   
 |   
-|   |  [Politics](https://web.archive.org/news/politics/?track=mainnav-politics)  
+|   |  [Politics](https://web.archive.org/news/politics/?track=mainnav-politics)|[Election 2004](https://web.archive.org/news/politics/2004/)  
   
 |   
 |   |  [Sports](https://web.archive.org/sports/?track=mainnav-sports)  
@@ -91,7 +89,7 @@
   
 |   | Editions  
 |   |  [Print Edition](https://web.archive.org/news/printedition/front/?track=mainnav-printedition)  
-[National (PDF)](https://web.archive.org/news/printedition/national/la-pdf-national,1,4397160.ssipage?track=mainnav-nationalpdf)  
+[National (PDF)](http://www.pressdisplay.com/pressdisplay/shownewspaper.aspx?cid=1042)  
 [Wireless](https://web.archive.org/wireless/la-wireless-sectionfront,0,2956367.htmlstory?track=mainnav-wireless)  
   
 |   | Extras  
@@ -99,11 +97,11 @@
 [Sweepstakes](https://web.archive.org/extras/sweeps/?track=mainnav-sweepstakes)  
 [Crossword](https://web.archive.org/services/site/la-crossword-info,1,5852458.htmlstory?track=mainnav-crossword)  
 [Horoscope](https://web.archive.org/features/horoscopes/?track=mainnav-horoscope)  
-[Lottery](https://web.archive.org/services/site/la-lotto,1,7376716.ssipage?track=mainnav-lottery)  
+[Lottery](http://www.calottery.com/winningnumbers/index.html)  
 [Multimedia](https://web.archive.org/broadband/?track=mainnav-multimedia)  
 [Traffic](https://web.archive.org/news/traffic/la-news-traffic,1,1290147.framedurl?track=mainnav-traffic)  
 [Weather](https://web.archive.org/go/weather/?track=mainnav-weather)  
-[Week in Focus](https://web.archive.org/broadband/la-weekinfocus-html,1,5448802.htmlstory?track=mainnav-weekinfocus)  
+[Week in Focus](https://web.archive.org/news/nationworld/world/la-weekinfocus-archive.gallery?track=mainnav-weekinfocus)  
   
 |   | Archives  
 |   |  Enter Keyword(s):  
@@ -119,8 +117,8 @@
   |   |  • [Subscribe](http://myaccount.latimes.com/)  
 • [Manage My Account](http://myaccount.latimes.com/)  
 • [Gift Subscription](http://myaccount.latimes.com/)  
-• [College Discount](http://www.latimes.com/services/site/la-collegedelivery.ssipage)  
-• [Mail Subscriptions](https://www.latimes.com/services/secure/subscriptions/la-mailsubscribe.htmlstory)  
+• [College Discount](http://myaccount.latimes.com/)  
+• [Mail Subscriptions](http://myaccount.latimes.com/)  
   
   
 |   
@@ -131,7 +129,7 @@
 • [Student Journalism](http://www.latimes.com/extras/studentjournalism)  
 • [LA Times Family Fund](http://www.latimes.com/extras/familyfund/)  
 • [Times-Mirror Foundation](http://www.timesmirrorfoundation.org/)  
-• [Community Events](http://www.latimesevents.com/)  
+• [LA Times Events](http://www.latimesevents.com/)  
   
 | [](http://www.latimes.com/mediacenter)  
   |    
@@ -142,6 +140,7 @@
 • [Homes](http://www.latimes.com/classified/realestate/?track=lahomesleftbottom)  
 • [Rentals](http://www.latimes.com/classified/realestate/rentals/?track=larentsleftbottom)  
   |   |  • [Newspaper Ads](http://www.latimes.com/printads/?track=laptwleftbottom)  
+• [Grocery Coupons](https://web.archive.org/shopping/coupons/la-couponfront,0,314188.htmlstory)  
 • [Personals](http://www.latimes.com/personals/?track=lapersonalsleftbottom)  
 • [Times Guides](http://www.latimes.com/extras/supplements/)  
 • [Recycler.com](http://www.recycler.com/)  
@@ -149,6 +148,7 @@
 |   | Partners  
 |   |   
 [](http://www.ktla.com/)  
+[](http://www.holahoy.com/)  
   
   
 |    
@@ -214,8 +214,25 @@ In the event case of any conflict between the terms of this policy and the terms
 
 a d v e r t i s e m e n t
 
-[](http://adserver.trb.com/event.ng/Type=click&FlightID=54068&AdID=95677&Custom=harvestfest&TargetID=6124&Segments=165,254,530,626,673,692,755,1268,1553,1600,1652,1671,1708,1911,1929,1962,2167,2396,2436,2532,2819,3391,3539,3753,3907,3912,3954,4343,4474,4948,5116,5595,5649,5681,5712,5776,5777,5943,6181&Targets=751,772,6576,2812,6124,7842&Values=34,46,51,63,77,83,91,100,110,131,287,289,328,333,356,388,391,591,835,903,1016,1065,1066,1120,1136,1191,1212,1263,1282,1438,1606,1617,1648,1654,1656,1664,1681,1745,1754,1758,1786,1787,1816,1818,1835,1836,1838,1844,1863,1869,1870,1871,1882,1888,1890,1892,1917,1946,1977,1986,2011,2036,2044,2061,2091&RawValues=&Redirect=http:%2F%2Fwww.harvestfestival.com%2Fshows.shtml%3FshowID%3D15)
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=68945&AdID=122885&Custom=closetworld3&TargetID=10604&Segments=165,254,530,626,673,692,755,1268,1553,1600,1652,1671,1708,1911,1929,1962,2167,2396,2436,2532,2819,3036,3391,3539,3716,3753,3907,3912,3954,4948,5712,5777,6181,6764,6787,6894,6946,7030,7145,7247,7413,7457,7637,7683&Targets=751,11514,6576,2812,6124,11845,10526,10604,11123&Values=34,46,51,63,77,83,93,100,110,131,287,289,328,333,356,388,391,591,998,1016,1093,1105,1136,1171,1438,1606,1617,1648,1816,1838,1844,1887,1888,1917,1978,1986,2091,2281,2283&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.homeclosets.com)
 
-[](http://adserver.trb.com/event.ng/Type=click&FlightID=53060&AdID=94075&Custom=preawarn2003&TargetID=751&Segments=165,254,530,673,692,708,755,851,1268,1350,1553,1600,1652,1671,1708,1908,1911,1929,1962,2167,2436,2532,2819,3391,3539,3589,3753,3907,3932,3954,4343,4474,4948,5116,5219,5595,5649,5681,5776,6181&Targets=751,772,5951,6576,2812,6124,7842&Values=34,46,51,63,77,83,91,100,110,131,287,289,328,334,356,388,391,591,835,903,1016,1065,1066,1120,1136,1191,1212,1263,1282,1438,1606,1617,1648,1654,1656,1664,1681,1745,1754,1758,1786,1787,1816,1818,1835,1836,1838,1844,1863,1869,1870,1871,1882,1888,1890,1892,1917,1946,1977,1986,2011,2036,2044,2061,2091&RawValues=&Redirect=http:%2F%2Fwww.thecatinthehatmovie.com%2F)
+| 
 
-[ ](http://adserver.trb.com/event.ng/Type=click&FlightID=49587&AdID=87958&Custom=skyscraper&TargetID=5951&Segments=165,254,530,673,692,755,756,851,1268,1350,1553,1600,1652,1671,1708,1908,1929,1962,2167,2396,2436,2532,2819,3173,3391,3539,3589,3753,3907,3954,4343,4474,4948,5116,5117,5595,5597,5649,5681,5776,5777&Targets=751,772,8607,5951,6576,2812,6124,7842,8609&Values=34,46,51,63,77,83,91,100,110,131,287,289,328,335,356,388,391,591,835,903,1016,1065,1066,1120,1136,1191,1212,1263,1282,1438,1606,1617,1648,1654,1656,1664,1681,1745,1754,1758,1786,1787,1816,1818,1835,1836,1838,1844,1863,1869,1870,1871,1882,1888,1890,1892,1917,1946,1977,1986,2011,2036,2044,2061,2091&RawValues=&Redirect=http://ad.doubleclick.net/jump/N1726.latimes/B1224070.2;sz=120x600;ord=2003.12.3.23.1.59.0?)
+**Country/Region:**  
+
+
+ **City:**  
+
+
+ **Check-In Date:**  
+
+
+ **Check-Out Date:**  
+
+
+ **Guests:**  
+  
+  
+---  
+  
+[](http://adserver.trb.com/event.ng/Type=click&FlightID=67518&AdID=120361&Custom=topofthetimes&TargetID=751&Segments=165,254,530,673,692,755,756,851,1268,1350,1553,1600,1652,1671,1708,1929,1962,2167,2396,2436,2532,2819,3036,3173,3391,3539,3589,3716,3753,3907,3954,4948,5117,5777,6764,6787,6894,6946,7030,7145,7247,7413,7457,7637,7683&Targets=751,6576,2812,6124,11845,10526,10604,11123&Values=34,46,51,63,77,83,93,100,110,131,287,289,328,335,356,388,391,591,998,1016,1093,1105,1136,1171,1438,1606,1617,1648,1816,1838,1844,1887,1888,1917,1978,1986,2091,2281,2283&RawValues=USERAGENTID%2Cia_archiver&Redirect=http:%2F%2Fwww.latimes.com%2Fextras%2Fsweeps%2Ftopofthetimes%2Findex.htm)
