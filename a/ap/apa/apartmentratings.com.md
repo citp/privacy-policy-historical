@@ -1,19 +1,27 @@
-> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621074227id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentratings.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204220258id_/http%3A//www.apartmentratings.com/rate/privacy) for the most accurate reproduction.*
 
 # Apartment Ratings - insider reviews of apartments
 
 |  |  |  |   
   
 **  Apartments**  
- • [apartment finder](https://web.archive.org/rate/finder) **  Moving**   
- • [Moving.com](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.moving.com%2Fpartners%2Faptratings%2F%3Fresource%3Dmoving&id=partner_movingcom&addcid=F) **  Roommates**   
- • [RoommateService](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.roommateservice.com%2Fclickmate%2F%3F0015&id=partner_roommatesvc&addcid=F)  
- • [EasyRoommate](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.easyroommate.com%2Findex.cfm%3Fac%3Daptratings&id=partner_easyroommate&addcid=F) **  Credit Reports**   
- • [free credit report](https://web.archive.org/review/frame_page.jsp?return=/&page=https%3A%2F%2Fqspace.iplace.com%2Fcobrands%2F15%2Forder1_1.asp%3FSC%3D%26TRACKPATH%3D%26SOURCEID%3D00391701935334769134) **  Insurance**   
- • [renters insurance](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.netquote.com%252Fhome%253Fstatus%253DAR%2526QT%253DR%26id%3Dpartner_netquote%26addcid%3DF&return=/)  
- • [auto insurance](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.netquote.com%252Fauto%253Fstatus%253DAR%26id%3Dpartner_netquote%26addcid%3DF&return=/) **  Long Distance**   
- • [3.5 cents/minute](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.saveonphone.com&id=partner_saveonphone&addcid=F) **  Tools**  
- • [tenant resources](https://web.archive.org/rate/resources)   
+ • [Apartment finder](https://web.archive.org/rate/finder) **  Roommates**   
+ • [Roommates.com](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.roommates.com%2Fclickmate_log.rs%3Fid%3D015&id=partner_roommatesvc&addcid=F)  
+ • [EasyRoommate](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.easyroommate.com%2Findex.cfm%3Fac%3Daptratings&id=partner_easyroommate&addcid=F)  
+ • [RoommateClick](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fwww.roommateclick.com%2F%3Frid%3Daptratings&id=partner_roommateclick&addcid=F) **  Credit Reports**   
+ • [Free credit report](https://web.archive.org/review/frame_page.jsp?return=/&page=https%3A%2F%2Fqspace.iplace.com%2Fcobrands%2F15%2Forder1_1.asp%3FSC%3D%26TRACKPATH%3D%26SOURCEID%3D00391701935334769134)   
+  
+  
+**  Movers**   
+ • [MonsterMoving](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fapartmentratings.monstermoving.com%2FMoving_and_Planning%2FQuotes%2Findex.asp%3FMType%3DALL&id=partner_movingcom&addcid=F)  
+ • [Movers Directory](https://web.archive.org/review/frame_page.jsp?return=/&page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.moversdirectory.com%252FQuote1.asp%253Ffrtype%253D1%2526bgtype%253D1%2526action%253Dmoving%2526id%253D0%252C%2526fromtag%253Daptratings%26id%3Dpartner_moversdir%26addcid%3DF) **  Self Moves**   
+ • [Truck rental](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fapartmentratings.monstermoving.com%2FMoving_and_Planning%2FDepartment%2FTruck_rental%2F&id=partner_movingcom&addcid=F)  
+ • [Packing center](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fapartmentratings.monstermoving.com%2FMoving_and_Planning%2FDepartment%2FPacking_center%2F&id=partner_movingcom&addcid=F)  
+ • [Self storage](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fapartmentratings.monstermoving.com%2FMoving_and_Planning%2FDepartment%2FStorage_center%2F&id=partner_movingcom&addcid=F) **  Insurance**   
+ • [Renters insurance](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.netquote.com%252Fhome%253Fstatus%253DAR%2526QT%253DR%26id%3Dpartner_netquote%26addcid%3DF&return=/)  
+ • [Auto insurance](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.netquote.com%252Fauto%253Fstatus%253DAR%26id%3Dpartner_netquote%26addcid%3DF&return=/) **  Tools**   
+ • [Resources](https://web.archive.org/rate/resources)  
+ • [Utility center](https://web.archive.org/review/redir.jsp?to=http%3A%2F%2Fapartmentratings.monstermoving.com%2FMoving_and_Planning%2FDepartment%2FUtility_center%2F&id=partner_movingcom&addcid=F)   
 |  | 
 
   
@@ -88,5 +96,7 @@ AptRatings.com takes your privacy seriously. Please read this to learn about our
 
 > If you have questions or suggestions complete a feedback form or send an email to [staff@aptratings.com](mailto:staff@aptratings.com). 
 
-|    
+|  Moving?  
+Get Renter's Insurance.  
+[](https://web.archive.org/review/frame_page.jsp?page=%2Freview%2Fredir.jsp%3Fto%3Dhttp%253A%252F%252Fwww.netquote.com%252Fhome%253Fstatus%253DAR%2526QT%253DR%26id%3Dpartner_netquote%26addcid%3DF&return=/)   
   | 
