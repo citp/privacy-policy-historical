@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211241id_/http%3A//www.returnpath.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411075005id_/http%3A//www.returnpath.net/privacy) for the most accurate reproduction.*
 
 # Return Path - Your Email Change of Address Solution - Your E-mail Change of Address Solution - Privacy Policy
 
