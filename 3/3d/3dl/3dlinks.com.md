@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the 3dlinks.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621113207id_/http%3A//www.3dlinks.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dlinks.com privacy policy that was archived on 2003-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031126194328id_/http%3A//3dlinks.com/privacy.cfm) for the most accurate reproduction.*
 
-# Ultimate 3D Links Privacy Statement
+# 
 
-### Ultimate 3D Links Privacy Policy
-
+|  | **Privacy** |  |  |   
+---|---|---|---|---  
 **3dlinks.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 3DLinks.com 
 
 Information Automatically Logged
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. We may use this demographic information to target advertising banners. 
 
-Advertisers
+Third Party Advertising
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy/privacy.htm>
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp)
+
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser 
 
 Registration Forms
 
-Our site's registration form requires users to give us basic contact information (like their name, and email) 
-
-Contact information from the registration forms is used to get in touch with the customer when necessary. 
-
-Unique identifiers (such as email addresses) are collected from Web site visitors for use as account numbers in our record system. 
-
-3DLinks.com will never sell, give away, or otherwise compromise this information. 
+Our site's registration form requires users to give us basic contact information (like their name, and email) Contact information from the registration forms is used to get in touch with the customer when necessary. Unique identifiers (such as email addresses) are collected from Web site visitors for use as account numbers in our record system. 3DLinks.com will never sell, give away, or otherwise compromise this information. 
 
 Contests
 
@@ -52,4 +50,55 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-[privacy@3dlinks.com](mailto:privacy@3dlinks.com)
+[Mark@3dlinks.com](mailto:Mark@3dlinks.com)
+
+  |  |  | **3d shop** |  |  | [](https://web.archive.org/web/20031126194328id_/http%3A//3dlinks.com/shop/index.cfm)  
+---|---|---|---|---  
+**Carrara Studio 2.0 Upgrade from Infini-D**  
+---  
+[ ](http://www.3dlinks.com/shop/ProductDescription.cfm?id=360) Upgrade from Infini-D \- Introducing Carrara Studio™ 2 — The Complete, Accessible and Productive 3D Solution for the creative user in the fields of Web, Print and Video. Available for   
+  
+| 
+
+$149.00
+
+| 
+
+[](http://www.3dlinks.com/shop/ProductDescription.cfm?id=360)  
+  
+---|---  
+  
+**Carrara Studio 3.0**  
+---  
+[ ](http://www.3dlinks.com/shop/ProductDescription.cfm?id=480) Eovia has done it again! The new version of Carrara Studio comes complete with an arsenal of new features, while remaining the most affordable professional 3D solution available today.   
+  
+| 
+
+$359.99
+
+| 
+
+[](http://www.3dlinks.com/shop/ProductDescription.cfm?id=480)  
+  
+---|---  
+  
+**Carrara Studio 3.0 Upgrade from 2**  
+---  
+[ ](http://www.3dlinks.com/shop/ProductDescription.cfm?id=481) Upgrade from 2 \- Eovia has done it again! The new version of Carrara Studio comes complete with an arsenal of new features, while remaining the most affordable professional 3D   
+  
+| 
+
+$159.00
+
+| 
+
+[](http://www.3dlinks.com/shop/ProductDescription.cfm?id=481)  
+  
+---|---  
+  
+   
+
+
+  
+| **books** |  |  |   
+---|---|---|---|---
