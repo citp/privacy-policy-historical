@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefoto.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608010157id_/http%3A//freefoto.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefoto.com privacy policy that was archived on 2002-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021031023139id_/http%3A//www.freefoto.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Free Pictures - FreeFoto.Com.
 
