@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitartabs.cc privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624190633id_/http%3A//www.guitartabs.cc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartabs.cc privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204142923id_/http%3A//www.guitartabs.cc/privacy.php) for the most accurate reproduction.*
 
 # Guitar Tab Universe - Privacy Policy
 
@@ -9,6 +9,3 @@
 
 **Release of Information to Third Parties:**   
       _Guitar Tab Universe_ and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. During the process of delivering an ad to you, _Guitar Tab Universe_ does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, _GTU_ does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by _GTU_ is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. 
-
-MusicVision.com's Advertisers Statement can be found at   
-<http://www.musicvision.com/network_privacy_policy.html>
