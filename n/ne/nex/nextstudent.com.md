@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609232333id_/http%3A//www.nextstudent.com/about_NextStudent/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208155537id_/http%3A//www.nextstudent.com/about_NextStudent/privacy.asp) for the most accurate reproduction.*
 
-# Student Loans and Federal Loan Consolidation - NextStudent.com
+# NextStudent Privacy Policy - Student Loans and Federal Loan Consolidation - NextStudent.com
 
 At NextStudent, your privacy is assured. We respect your right to privacy and recognize our obligation to keep information about you secure and confidential. We do not collect any nonpublic personal information about you unless you expressly authorize us to collect such information, such as when you submit a loan application to us. This information may include your name, address, telephone number, Social Security Number, and certain personal financial information such as student loan account balances, payment history, account usage and similar information relating to your transactions with NextStudent, and is used only to facilitate the performance of our services. We may share this information with other companies in the NextStudent family of companies, our servicers, originating agents, processing agents, and third party agents, to effectively and efficiently process or administer your loan. 
 
@@ -20,4 +20,4 @@ NextStudent
 11225 North 28th Drive, Suite A-202  
 Phoenix, Arizona 85029  
 Phone: (800) 658-6801  
-Website: [www.nextstudent.com ](http://www.nextstudent.com/)
+Web site: [www.nextstudent.com ](http://www.nextstudent.com/)
