@@ -1,874 +1,791 @@
-<!--The following is the downloaded HTML source of the gm.com privacy policy that was archived on 1999-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19991103203056id_/http%3A//www.gm.com/tools/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gm.com privacy policy that was archived on 2004-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041230190021id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
-<title>General Motors | Legal</title>
-<script language="JavaScript"> 
-<!-- 
-
-function go(){
-var temp = document.menu.tab.options[document.menu.tab.selectedIndex].value
-
-if (document.menu.tab.options[document.menu.tab.selectedIndex].value != "none") {
-parent.location = document.menu.tab.options[document.menu.tab.selectedIndex].value
- }
- if (temp.indexOf('links') > 0) {
-	writewindow();
-	}              
-}
-
-function getCookieVal (offset) 
-   {
-   var endstr = document.cookie.indexOf (";", offset);
-   if (endstr == -1)
-      endstr = document.cookie.length;
-   return unescape(document.cookie.substring(offset, endstr));
-   }
-function GetCookie (name) 
-   {
-   var arg = name + "=";
-   var alen = arg.length;
-   var clen = document.cookie.length;
-   var i = 0;
-   while (i < clen) 
-      {
-      var j = i + alen;
-      if (document.cookie.substring(i, j) == arg)
-         return getCookieVal (j);
-      i = document.cookie.indexOf(" ", i) + 1;
-      if (i == 0) 
-         break; 
-      }
-   return null;
-   }
-function SetCookie (name, value) 
-   {
-   var argv = SetCookie.arguments;
-   var argc = SetCookie.arguments.length;
-   var expires = (2 < argc) ? argv[2] : null;
-   var path = (3 < argc) ? argv[3] : null;
-   var domain = (4 < argc) ? argv[4] : null;
-   var secure = (5 < argc) ? argv[5] : false;
-   document.cookie = name + "=" + escape (value) +
-     ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
-     ((path == null) ? "" : ("; path=" + path)) +
-     ((domain == null) ? "" : ("; domain=" + domain)) +
-	((secure == true) ? "; secure" : "");
-   }
-
-function PrintLinks()
-{
-	nurls = 23;
-	nchoices = 14;
-
-	urls = new Array(nurls);
-	choices = new Array(nurls);
-
-	clist = new Array(nchoices);
-	
-	for (i = 0; i < nurls; i++) {
-		choices[i] = 0;
-	}
-
-	//Enter your HTML links here
-	urls[0] = "<A HREF=\"/about/info/news/index.html\">GM News</A><P>"
-	urls[1] = "<A HREF=\"/vehicles/us/selector/index.html\">Select-<font size=\"-1\">a</font>-Vehicle</A><P>"
-	urls[2] = "<A HREF=\"/vehicles/us/index.html\">US Cars & Trucks</A><P>" 
-	urls[3] = "<A HREF=\"/vehicles/us/innovations/jd_awards.html\">J.D. Power Awards</A><P>" 
-	urls[4] = "<A HREF=\"/vehicles/us/showroom/index.html\">Showroom</A><P>"
-	urls[5] = "<A HREF=\"/cgi-bin/dlrloc/dlr_index.cgi\">Dealer Locator</A><P>"
-	urls[6] = "<A HREF=\"/vehicles/us/finance/index.html\">Financing</A><P>"
-	urls[7] = "<A HREF=\"/vehicles/us/innovations/breakthroughs.html\">Breakthroughs</A><P>"
-	urls[8] = "<A HREF=\"/vehicles/us/innovations/designlab.html\">Design Center</A><P>"
-	urls[9] = "<A HREF=\"/vehicles/us/owners/index.html\">You and Your Vehicle</A><P>"
-	urls[10] = "<A HREF=\"/vehicles/us/owners/service/index.html\">Parts & Service</A><P>"
-	urls[11] = "<A HREF=\"/vehicles/index.html\">Cars & Trucks Worldwide</A><P>"
-	urls[12] = "<A HREF=\"/about/info/world/index.html\">World Citizenship</A><P>"
-	urls[13] = "<A HREF=\"/about/community/index.html\">Community Involvement</A><P>"
-	urls[14] = "<A HREF=\"/about/info/world/philanthropy.html\">Philanthropy</A><P>"
-	urls[15] = "<A HREF=\"/vehicles/us/owners/ontheroad/index.html\">On the Road</A><P>"
-	urls[16] = "<A HREF=\"/cgi-bin/linksout/linksout.cgi?www.onstar.com+/index.html\" onclick=\"writewindow()\">OnStar</A><p>"
-	urls[17] = "<A HREF=\"/about/investor/index.html\">Investor Info</A><P>"
-	urls[18] = "<A HREF=\"/about/info/overview/history/index.html\">History</A><p>"
-	urls[19] = "<A HREF=\"/vehicles/us/owners/mobility.html\">Mobility Program</A><P>"
-	urls[20] = "<A HREF=\"/about/info/overview/facts.html\">Company Profile</A><P>"
-	urls[21] = "<A HREF=\"/vehicles/us/innovations/advanced.html\">Advanced Technology Vehicles</A><P>"
-	urls[22] = "<A HREF=\"/about/info/world/environment.html\">Environment</A><P>"
-
-
-	clist[0] = "1,0"
-	clist[1] = "4,1,4,2,3"
-	clist[2] = "1,5"
-	clist[3] = "1,6"
-	clist[4] = "2,8,7"
-	clist[5] = "2,10,9"
-	clist[6] = "2,11,12"
-	clist[7] = "2,13,14"
-	clist[8] = "1,15"
-	clist[9] = "2,10,16"
-	clist[10] = "1,17"
-	clist[11] = "1,18"
-	clist[12] = "1,19"
-	clist[13] = "2,20,4"
-	clist[14] = "2,21,22"
-	
-	var bmask = GetCookie("GMLINKS");
-
-	if (bmask != null && bmask != "") {
-		if (bmask.length < 10)
-			for (var i = bmask.length; i < 10; i++)
-				bmask += "0";
-	} else {
-		document.write('<FONT FACE="Arial,Helvetica" SIZE=-1>');
-	document.write('<A HREF="/custom.html">Create your own path</A>'); 
-		document.write(' of customized links and go directly to');
-		document.write(' the information you want.');
-		document.write('</FONT><P>');
-		bmask = "0000000000";
-	}
-
-	prev = 0;
-
-	for (var i = 0; i < bmask.length; i++) {
-		if (bmask.charAt(i) != "1")
-			continue;
-
-		prev = 2;
-	
-		counter = clist[i].charAt(0);
-		val = counter - 1;
-
-		for (j = 0; j < val; j++) {
-			last = clist[i].indexOf("," , prev);
-			link = clist[i].substring(prev, last);
-			prev = last + 1;
-			choices[link - 0] = 1;
-		}
-	
-		link = clist[i].substring(prev, clist[i].length);
-		choices[link - 0] = 1;
-	}
-
-	for (i = 0; i < nurls; i++) {
-		if (choices[i] == 1) {
-			document.write('<FONT SIZE=-1 FACE="Arial,Helvetica">');
-			document.write(urls[i]);
-			document.write('</FONT>');
-		}
-	}
-}
-
-//backlink scripts
-
-function setCookie(name, value, expires, path, domain, secure) {
-  document.cookie = name + "=" + escape(value) + 
-  ((expires == null) ? "" : "; expires=" + expires.toGMTString()) +
-  ((path == null) ? "" : "; path=" + path) +
-  ((domain == null) ? "" : "; domain=" + domain) +
-  ((secure == null) ? "" : "; secure");
-}
-
-
-
-function writewindow() {
-	window.name='main';
-	var expiration = new Date();
-	expiration.setTime(expiration.getTime() + 2147483647);
-	var lasturl=document.location;
-	var lasttitle=document.title;
-	var lastlocation=lasturl + 'title:' + lasttitle;
-	setCookie("lastvisit",lastlocation,expiration,"/");
-	var newwin = window.open("/backlink.html","small","width=150,height=125"); 
-	if (newwin != null && newwin.opener == null) newwin.opener = self;
-}
-
-//custom path page function
-
-function checktheboxes() {
-var bmask = GetCookie("GMLINKS");
-if (bmask != null && bmask != "") {
-	for (var i = 1; i <= bmask.length; i++) {
-        if (bmask.charAt(i-1) == "1") {
-        document.customlinks.elements[i-1].checked = true;
-        }
-	}
-}
-}
-
-function writestock() {
-	
-	var stock = window.open("http://cfs.stockpoint.com/gm/dynamicstock2.asp","small","width=440,height=340"); 
-	if (stock != null && stock.opener == null) stock.opener = self;
-}
-
-// end script -->
+<html><head>
+<link rel="STYLESHEET" type="text/css" href="/css/gmbase.css">
+	<title>GM - Privacy Policy</title>
+<script language="javascript">
+	var querystring = "000";
 </script>
-
 </head>
-<body bgcolor="#FFFFFF">
-<table cellpadding="0" cellspacing="0" width="600" height="0" border="0">
-<tbody><tr valign="BOTTOM">
-<td><a href="/vehicles/index.html"><img src="/images/cartab_a.gif" width="230" height="28" border="0"></a></td>
-<td><a href="/about/index.html"><img src="/images/abouttab_a.gif" width="230" height="28" border="0"></a></td>
-<td rowspan="2"><a href="/index.html"><img src="/images/tabspace.gif" border="0"><img src="/images/gmani.gif" border="0"></a></td>
+<body bgcolor="#ffffff">
+<!-------------- start SiteCatalyst -------------->
+<div style="visibility:hidden; position:absolute; left:445px; top:90px;">
+<script language="Javascript" type="text/javascript" src="/include/s_code_remote.js"></script><img name="s_i_gmgmcomdev" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gmgmcomdev/1/G.5-PD-R/s62498958056608?[AQB]&amp;ndh=1&amp;t=31/0/2020%200%3A1%3A5%205%200&amp;pageName=GM%20-%20Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20041230190021id_/http%3A//www.gm.com/privacy/&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+</div>
+<!-------------- end SiteCatalyst -------------->
+<!-- start top nav -->
+<script language="JavaScript" src="/include/nav/js/topnav.js"></script>
+<link rel="STYLESHEET" type="text/css" href="/css/topnav.css">
+	<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="770">
+		<tbody><tr>
+			<td valign="top" align="left">
+				<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="150">
+					<tbody><tr>
+						<td align="left"><img src="/images/clear.gif" width="1" height="13" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td align="left"><img src="/images/clear.gif" width="13" height="1" border="0" alt=""><a href="/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Logo&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_parent"><img src="/images/gm_nav_logo.gif" border="0" width="45" height="45" alt="GM"></a></td>
+					</tr>
+				</tbody></table></td>
+			<td valign="top">
+				<map name="topnav">
+						<area alt="Shop GM" coords="70,0,138,33" href="/automotive/vehicle_shopping/shop_buy/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Shop GM&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)">
+						<area alt="Request Information" coords="139,0,253,30" href="/automotive/vehicle_shopping/request_info/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Request Brochure&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)">
+						<area alt="Current Offers" coords="255,0,342,33" href="/automotive/vehicle_shopping/currentoffers/index.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Current Offers&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)">
+						<area alt="Dealer Locator" coords="343,0,435,40" href="/automotive/vehicle_shopping/dealer_locator/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Dealer Locator&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_top">
+						<area alt="Vehicle Quality" coords="436,0,529,33" href="/automotive/vehicle_shopping/qualityreport/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Vehicle Quality&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_top">
+						<area alt="Sitios en Español" coords="531,1,623,30" href="/automotive/vehicle_shopping/espanol/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Sitios en Espanol&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_top">
+					</map><table border="0" cellpadding="0" cellspacing="0" width="620">
+					<tbody><tr bgcolor="#0434B1">
+						<td><a href="/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Home&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_top"><img src="/images/gm_nav_home.gif" width="50" height="30" border="0" alt="Home"></a></td>
+						<td><a href="/company/careers/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Careers&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_top"><img src="/images/gm_nav_careers.gif" width="71" height="30" border="0" alt="Careers"></a></td>
+						<td><a href="/company/investor_information/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Investors&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_top"><img src="/images/gm_nav_investorinfo.gif" width="71" height="30" border="0" alt="Investors"></a></td>
+						<td><a href="https://www.mygmlink.com/main/US/en/gm/home?cmp=gmcomhp" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Top Nav - Owner Center&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_blank"><img src="/images/gm_nav_ownercenter.gif" border="0" width="91" height="30" alt="Owner Center"></a></td>
+						<td><a href="/retirees/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - Retirees&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_top"><img src="/images/gm_nav_gmretirees.gif" border="0" width="71" height="30" alt="GM Retirees"></a></td>
+						<td><a href="/company/news_events/press_releases/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Top Nav - News&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_top"><img src="/images/gm_nav_gmnews.gif" border="0" width="71" height="30" alt="GM News"></a></td>
+						<form name="topnav" method="post" action="#"></form>
+							<td valign="middle" align="right">
+								<select class="tnselect" name="site" onchange="javascript:strValues();">
+									<option value="#">GM Brand Web Sites
+									</option><option value="#">Automotive
+									</option><option value="/pop_up_country_selector/buick.html">&nbsp;&nbsp;Buick
+									</option><option value="/pop_up_country_selector/cadillac.html">&nbsp;&nbsp;Cadillac
+									</option><option value="/pop_up_country_selector/chevy.html">&nbsp;&nbsp;Chevrolet
+									</option><option value="/pop_up_country_selector/gmc.html">&nbsp;&nbsp;GMC
+									</option><option value="/pop_up_country_selector/hummer.html">&nbsp;&nbsp;HUMMER
+									</option><option value="http://www.oldsmobile.com">&nbsp;&nbsp;Oldsmobile
+									</option><option value="/pop_up_country_selector/pontiac.html">&nbsp;&nbsp;Pontiac
+									</option><option value="http://www.saab.com/">&nbsp;&nbsp;Saab
+									</option><option value="/pop_up_country_selector/saturn.html">&nbsp;&nbsp;Saturn
+									</option><option value="http://www.gmbuypower.com/app/linksin?partnerId=900010">&nbsp;&nbsp;GM Buypower
+									</option><option value="http://www.gmcanada.com/">&nbsp;&nbsp;GM Canada
+									</option><option value="http://www.holden.com.au/">&nbsp;&nbsp;Holden
+									</option><option value="http://www.opel.com/">&nbsp;&nbsp;Opel
+									</option><option value="http://buypower.vauxhall.co.uk/index.jhtml">&nbsp;&nbsp;Vauxhall
+									</option><option value="http://www.gmbuypower.com/app/gmbp/components/cuv.do">&nbsp;&nbsp;GM Certified Used
+									</option><option value="http://www.gmfleet.com/index.html">&nbsp;&nbsp;GM Fleet
+									</option><option value="http://www.gm-defense.com/">&nbsp;&nbsp;GM Defense
+									</option><option value="#">Companies
+									</option><option value="http://www.acdelco.com/">&nbsp;&nbsp;ACDelco
+									</option><option value="http://www.allisontransmission.com/">&nbsp;&nbsp;Allison Transmission
+									</option><option value="http://www.gmemd.com/en/home/">&nbsp;&nbsp;Electro-Motive
+									</option><option value="http://www.gmgoodwrench.com/PartsAccessories/PartsAccessories.html">&nbsp;&nbsp;Genuine GM Parts
+									</option><option value="http://www.gmacfs.com/">&nbsp;&nbsp;GMAC
+									</option><option value="http://www.gmgoodwrench.com/gmgoodwrenchjsp/accessories/home.jsp">&nbsp;&nbsp;GM Accessories
+									</option><option value="http://www.gmacbank.com/">&nbsp;&nbsp;GMAC Bank
+									</option><option value="http://www.gmcardmemberservices.com">&nbsp;&nbsp;GM Cardmember Services
+									</option><option value="http://www.gmgoodwrench.com/">&nbsp;&nbsp;GM Goodwrench Service
+									</option><option value="/automotive/vehicle_shopping/gm_mobility/">&nbsp;&nbsp;GM Mobility
+									</option><option value="http://www.gmgoodwrench.com/gmgoodwrenchjsp/perfparts/home.jsp">&nbsp;&nbsp;GM Performance Parts
+									</option><option value="http://www.gm.com/beyond_automotive/xmradio/">&nbsp;&nbsp;GM XM Radio
+									</option><option value="javascript:onstarWindow()">&nbsp;&nbsp;OnStar
+									</option><option value="/automotive/gmpowertrain/">&nbsp;&nbsp;Powertrain
+									</option><option value="#">GM Network
+									</option><option value="http://www.fiat.com/">&nbsp;&nbsp;Fiat
+									</option><option value="http://www.fhi.co.jp/">&nbsp;&nbsp;Fuji/Subaru
+									</option><option value="http://www.isuzu.com/">&nbsp;&nbsp;Isuzu
+									</option><option value="http://www.suzuki.com/">&nbsp;&nbsp;Suzuki
+									</option><option value="#">GM Powered
+									</option><option value="/automotive/gmpowertrain/engines/duramax/">&nbsp;&nbsp;Duramax
+									</option><option value="/automotive/gmpowertrain/transmissions/hydra/">&nbsp;&nbsp;Hydra-matic
+									</option><option value="/automotive/gmpowertrain/engines/northstar/">&nbsp;&nbsp;Northstar
+									</option><option value="/automotive/gmpowertrain/engines/vortec/">&nbsp;&nbsp;Vortec
+								</option></select></td>
+							<td><img src="/images/clear.gif" width="10" height="29" border="0" alt=""></td>
+						
+					</tr>
+					<tr>
+						<td colspan="8" align="right"><img src="/images/topnav_whole4.gif" width="620" height="30" border="0" usemap="#topnav"></td>
+					</tr>
+					
+					<tr>
+						<td colspan="8" align="right"><img src="/images/clear.gif" width="620" height="4" border="0"></td>
+					</tr>
+				</tbody></table></td>
+		</tr>
+	</tbody></table>
+	
+<!-- end top nav -->
+<a name="top"></a>
+<table border="0" cellpadding="0" cellspacing="0" width="760">
+    <tbody><tr>
+        <td valign="top" rowspan="4">
+	<!-- start left nav -->
+	<link rel="stylesheet" type="text/css" href="/include/nav/leftnav/leftnav.css">
+<script language="JavaScript" src="/include/nav/leftnav/leftnav.js"></script>
+<script language="JavaScript">
+
+writeMenu();
+
+if(querystring != null)
+	if(querystring.length == 3)
+		showNavState(querystring);
+	else
+		showOldNavState(querystring);
+
+</script><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td><img src="/include/nav/leftnav/images/leftnav_spacer.gif" border="0" width="1" height="30"></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td><img src="/include/nav/leftnav/images/leftnav_1px_blue.gif" width="150" height="6" border="0"></td></tr>
+<tr><td><a href="javascript:showMenu(0,-1,'blue');"><img src="/include/nav/leftnav/images/blue/leftnav_co_head.gif" width="150" height="18" border="0" alt="The Company" title="The Company"></a></td></tr>
+</tbody></table>
+<div id="navDiv:0" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:0:0" src="/include/nav/leftnav/images/leftnav_blue_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/company/corp_info/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Corporate Info&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">Corporate Information</a></td></tr>
+</tbody></table><div id="navDiv:0:0" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:0:0:0" href="/company/corp_info/profiles/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Company Profile&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Company Profile</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:0:1" href="/company/corp_info/history/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - History&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">History</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:0:2" href="/company/corp_info/global_operations/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Global Operations&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Global Operations</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:0:3" href="/company/corp_info/doing_business/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Doing Business&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Doing Business with GM</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:0:4" href="/company/gmability/sustainability/reports/05/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Corporate Reporting&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Corporate Reporting</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:0:5" href="/retirees/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - For GM Retirees&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">For GM Retirees</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:0:1" src="/include/nav/leftnav/images/leftnav_blue_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/company/gmability/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - GMability&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">Corporate Responsibility</a></td></tr>
+</tbody></table><div id="navDiv:0:1" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:0:1:0" href="/company/gmability/environment/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Environment&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Environment</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:1:1" href="/company/gmability/safety/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Safety&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Safety</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:1:2" href="/company/gmability/edu_k-12/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Education&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Education</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:1:3" href="/company/gmability/community/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Community&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Community</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:1:4" href="/company/gmability/workplace/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Workplace&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Workplace</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:1:5" href="/company/gmability/sustainability/reports/05/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Reporting&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Reporting</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:1:6" href="/company/gmability/adv_tech/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Technology&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Technology</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:0:2" src="/include/nav/leftnav/images/leftnav_blue_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/company/investor_information/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Investor Information&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">Investor Information</a></td></tr>
+</tbody></table><div id="navDiv:0:2" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:0:2:0" href="/company/investor_information/cal_events/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Calendar/Events&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Calendar/Events</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:1" href="/company/investor_information/corp_gov/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Corporate Governance&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Corporate Governance</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:2" href="/company/investor_information/div_info/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Dividend Information&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Dividend Information</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:3" href="/company/investor_information/earnings/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Earnings Releases&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Earnings Releases</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:4" href="/company/investor_information/investor_news/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Investor News Releases&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Investor News Releases</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:5" href="/company/investor_information/request_info/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Request Information&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Request Information</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:6" href="/company/investor_information/sales_prod/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Sales and Production&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Sales and Production</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:7" href="/company/investor_information/sec/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - SEC Filings&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">SEC Filings</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:8" href="/company/investor_information/stock_perf/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Stock Performance&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Stock Performance</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:9" href="/company/investor_information/stockholder_info/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Stockholder Information&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Stockholder Information</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:2:10" href="/company/investor_information/sitemap/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Investor Sitemap&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Investor Sitemap</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:0:3" src="/include/nav/leftnav/images/leftnav_blue_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/company/onlygm/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - only GM&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">only GM</a></td></tr>
+</tbody></table><div id="navDiv:0:3" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:0:3:0" href="/company/onlygm/safety_index.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Safety&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Safety</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:3:1" href="/company/onlygm/fuel_index.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - OnlyGM Fuel Economy&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Fuel Economy</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:3:2" href="/company/onlygm/quality_index.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Quality&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Quality</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:0:4" src="/include/nav/leftnav/images/leftnav_blue_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/company/careers/index_flash.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Careers&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">Careers</a></td></tr>
+</tbody></table><div id="navDiv:0:4" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:0:4:0" href="/company/careers/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Careers Home&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Careers Home</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:4:1" href="/company/careers/job/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Job Search/Apply&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Job Search &amp; Apply</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:4:2" href="/company/careers/career_paths/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Career Paths&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Career Paths</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:4:3" href="/company/careers/life/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Life at GM&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Life@GM</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:4:4" href="/company/careers/locations/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Locations&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Locations</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:4:5" href="/company/careers/calendar/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Recruiting Calendar&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Recruiting Calendar</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:4:6" href="/company/careers/student/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Student Center&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Student Center</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:4:7" href="/company/careers/sitemap.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Careers Sitemap&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Careers Sitemap</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:0:5" src="/include/nav/leftnav/images/leftnav_blue_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/company/news_events/press_releases/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - News/Events&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">News &amp; Events</a></td></tr>
+</tbody></table><div id="navDiv:0:5" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:0:5:0" href="/company/news_events/press_releases/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - GM News&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">GM News</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:5:1" href="/company/news_events/speeches" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Speeches&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Speeches</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:0:5:2" href="/company/news_events/events/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Events&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverBlue">Events</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:0:6" src="/include/nav/leftnav/images/leftnav_blue_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/company/gm_exp_live/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Auto Shows&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">Auto Shows</a></td></tr>
+<tr><td valign="top" width="12"><img id="navArw:0:7" src="/include/nav/leftnav/images/leftnav_blue_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/company/racing/index.jsp" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Racing&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">Racing</a></td></tr>
+<tr><td valign="top" width="12"><img id="navArw:0:8" src="/include/nav/leftnav/images/leftnav_blue_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/beyond_automotive/company_store/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Company Merchandise&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">Company Merchandise</a></td></tr>
+</tbody></table></div>
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td><img src="/include/nav/leftnav/images/leftnav_1px_green.gif" width="150" height="6" border="0"></td></tr>
+<tr><td><a href="javascript:showMenu(1,-1,'green');"><img src="/include/nav/leftnav/images/green/leftnav_auto_head.gif" width="150" height="18" border="0" alt="Automotive" title="Automotive"></a></td></tr>
+</tbody></table>
+<div id="navDiv:1" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:1:0" src="/include/nav/leftnav/images/leftnav_green_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="javascript:showMenu(1,0,'green');" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Vehicle Shopping&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" class="navSecLink">Vehicle Shopping</a></td></tr>
+</tbody></table><div id="navDiv:1:0" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:1:0:0" href="https://web.archive.org/web/20051212143559/http://gm.gmvehicleadvisor.com" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Vehicle Advisor&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Vehicle Advisor</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:1" href="/automotive/vehicle_shopping/qualityreport/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - JD Power Quality Report&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">J.D. Power Quality Report</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:2" href="/automotive/vehicle_shopping/request_info/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Request Information&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Request Information</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:3" href="/automotive/vehicle_shopping/currentoffers/index.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Current Offers&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Current Offers</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:4" href="/automotive/vehicle_shopping/dealer_locator/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Dealer Locator&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Dealer Locator</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:5" href="https://web.archive.org/web/20051212143559/http://www.gmbuypower.com" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Vehicle Showroom&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Vehicle Showroom</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:6" href="/automotive/vehicle_shopping/worldwide_sites/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Shop GM Worldwide&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Shop GM Worldwide</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:7" href="/automotive/vehicle_shopping/vehicle_financing/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Vehicle Financing&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Vehicle Financing</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:8" href="/automotive/vehicle_shopping/service_parts/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Vehicle Service and Parts&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Vehicle Service and Parts</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:9" href="https://web.archive.org/web/20051212143559/http://www.gmcertified.com" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Certified Used&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Certified Used</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:10" href="/vc/women/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Womens With Drive&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Women With Drive</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:0:11" href="/automotive/vehicle_shopping/espanol/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Spanish Sites&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Sitios en Español</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:1:1" src="/include/nav/leftnav/images/leftnav_green_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/automotive/vehicle_shopping/autobrands/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Auto Brands&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">Auto Brands</a></td></tr>
+</tbody></table><div id="navDiv:1:1" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:1:1:0" href="javascript:winope('/pop_up_country_selector/chevy')" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Chevrolet&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Chevrolet</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:1" href="javascript:winope('/pop_up_country_selector/pontiac')" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Pontiac&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Pontiac</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:2" href="javascript:winope('/pop_up_country_selector/buick')" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Buick&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Buick</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:3" href="javascript:winope('/pop_up_country_selector/cadillac')" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Cadillac&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Cadillac</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:4" href="javascript:winope('/pop_up_country_selector/gmc')" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - GMC&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">GMC</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:5" href="javascript:winope('/pop_up_country_selector/oldsmobile')" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Oldsmobile&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Oldsmobile</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:6" href="javascript:winope('/pop_up_country_selector/saturn')" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Saturn&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Saturn</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:7" href="https://web.archive.org/web/20051212143559/http://www.hummer.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - HUMMER&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">HUMMER</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:8" href="https://web.archive.org/web/20051212143559/http://www.saab.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Saab&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Saab</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:9" href="https://web.archive.org/web/20051212143559/http://www.holden.com.au/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Holden&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Holden</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:10" href="https://web.archive.org/web/20051212143559/http://www.opel.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Opel&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Opel</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:11" href="https://web.archive.org/web/20051212143559/http://www.vauxhall.co.uk/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Vauxhall&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Vauxhall</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:12" href="https://web.archive.org/web/20051212143559/http://www.gmbuypower.com/app/gmbp/components/cuv.do?CLEAR=true" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Certified Used&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Certified Used</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:13" href="https://web.archive.org/web/20051212143559/http://www.gmfleet.com/index.htm" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Fleet&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Fleet</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:14" href="/automotive/vehicle_shopping/gm_mobility/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - GM Mobility&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">GM Mobility</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:15" href="https://web.archive.org/web/20051212143559/http://www.fhi.co.jp/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Fuji/Subaru&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Network - Fuji/Subaru</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:16" href="https://web.archive.org/web/20051212143559/http://www.isuzu.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Isuzu&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Network - Isuzu</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:17" href="https://web.archive.org/web/20051212143559/http://www.suzuki.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Suzuki&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Network - Suzuki</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:1:18" href="https://web.archive.org/web/20051212143559/http://www.gm-defense.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Defense&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Defense</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:1:2" src="/include/nav/leftnav/images/leftnav_green_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="javascript:showMenu(1,2,'green');" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Innovations/Safety&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" class="navSecLink">Innovations &amp; Safety</a></td></tr>
+</tbody></table><div id="navDiv:1:2" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:1:2:0" href="/automotive/innovations/new_devices/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - New Devices&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">New Devices</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:2:1" href="https://web.archive.org/web/20051212143559/http://www.onstar.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - OnStar&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">OnStar</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:2:2" href="/automotive/innovations/altfuel/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Alternative Fuels&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Alternative Fuels</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:2:3" href="/automotive/innovations/rnd/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Research/Development&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Research &amp; Development</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:2:4" href="/automotive/gmpowertrain/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Powertrain&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Powertrain</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:2:5" href="/company/gmability/adv_tech/500_stationary/index.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Stationary Fuel Cell Power&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Stationary Fuel Cell Power</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:2:6" href="/company/gmability/adv_tech/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Advanced Technology&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Advanced Technology</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:2:7" href="/company/gmability/safety/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Safety&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Safety</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:1:3" src="/include/nav/leftnav/images/leftnav_green_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/automotive/fueleconomy" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Automotive Fuel Economy&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">Fuel Economy</a></td></tr>
+<tr><td valign="top" width="12"><img id="navArw:1:4" src="/include/nav/leftnav/images/leftnav_green_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/automotive/vehicle_shopping/suv_facts/index.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - SUV Facts&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">SUV Facts</a></td></tr>
+<tr><td valign="top" width="12"><img id="navArw:1:5" src="/include/nav/leftnav/images/leftnav_green_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="javascript:showMenu(1,5,'green');" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Consumer Parts/Services&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" class="navSecLink">Consumer Parts/Services</a></td></tr>
+</tbody></table><div id="navDiv:1:5" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:1:5:0" href="https://web.archive.org/web/20051212143559/http://www.gmgoodwrench.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Goodwrench Service&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Goodwrench Service</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:5:1" href="https://web.archive.org/web/20051212143559/http://www.acdelco.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - ACDelco&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">ACDelco</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:5:2" href="/automotive/parts_for_consumers/service_support/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Service Support&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Service Support</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:5:3" href="/automotive/vehicle_shopping/gm_mobility/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - GM Mobility&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">GM Mobility</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:5:4" href="https://web.archive.org/web/20051212143559/http://www.gmgoodwrench.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Genuine GM Parts&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Genuine GM Parts</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:5:5" href="https://web.archive.org/web/20051212143559/https://www.mygmlink.com/main/US/en/gm/home?cmp=gmcomhp" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Owner Center/MyGMLink&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Owner Center @ MyGMLink</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:5:6" href="https://web.archive.org/web/20051212143559/http://www.gmmotorclub.com/save" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Motor Club&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Motor Club</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:5:7" href="https://web.archive.org/web/20051212143559/http://www.gmgoodwrench.com/gmgoodwrenchjsp/perfparts/home.jsp" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Performance Parts&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Performance Parts</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:5:8" href="https://web.archive.org/web/20051212143559/http://www.gmperformancedivision.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Performance Division&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Performance Division</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:5:9" href="https://web.archive.org/web/20051212143559/http://www.gmaccessorieszone.com" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Accessories&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Accessories</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:1:6" src="/include/nav/leftnav/images/leftnav_green_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="javascript:showMenu(1,6,'green');" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Business Products/Services&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" class="navSecLink">Business Products/Services</a></td></tr>
+</tbody></table><div id="navDiv:1:6" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:1:6:0" href="/automotive/gmpowertrain/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Powertrain&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Powertrain</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:1" href="https://web.archive.org/web/20051212143559/http://www.allisontransmission.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Allison Transmission&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Allison Transmission</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:2" href="https://web.archive.org/web/20051212143559/http://www.gmfleet.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Fleet&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Fleet</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:3" href="/automotive/innovations/altfuel/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Alternative Fuels&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Alternative Fuels</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:4" href="https://web.archive.org/web/20051212143559/http://www.gmsupplypower.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Supply Power&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Supply Power</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:5" href="https://web.archive.org/web/20051212143559/http://www.gmacfs.com/businesssolutions/finance/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Commercial Finance&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Commercial Finance</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:6" href="https://web.archive.org/web/20051212143559/http://www.gmsupplierdiscount.com" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Supplier Discount&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Supplier Discount</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:7" href="https://web.archive.org/web/20051212143559/http://gmcreativeservices.com" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Exhibits&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Exhibits and Events Services</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:8" href="https://web.archive.org/web/20051212143559/http://www.gmsurveys.com/comm_external/2003/mktplace/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Join GM Marketplace&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Join GM Marketplace</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:9" href="https://web.archive.org/web/20051212143559/http://www.gmbusinesscard.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Business Card&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Business Card</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:6:10" href="https://web.archive.org/web/20051212143559/http://www.gm-defense.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Defense&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM Defense</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:1:7" src="/include/nav/leftnav/images/leftnav_green_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="javascript:showMenu(1,7,'green');" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Dealer Services&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" class="navSecLink">Dealer Services</a></td></tr>
+</tbody></table><div id="navDiv:1:7" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:1:7:0" href="/automotive/vehicle_shopping/dealer_locator/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Dealer Locator&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Dealer Locator</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:7:1" href="https://web.archive.org/web/20051212143559/http://www.gm-dealerworld.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM-Dealerworld.com&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">GM-Dealerworld.com</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:7:2" href="/automotive/dealers/motorsholding/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Motors Holding&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Motors Holding</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:7:3" href="/automotive/dealers/minoritydealers/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Minority Dealers&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Minority Dealers</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:7:4" href="/automotive/dealers/womendealers/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Womens Retail Initiative&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Women's Retail Initiative</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:1:8" src="/include/nav/leftnav/images/leftnav_green_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="javascript:showMenu(1,8,'green');" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Specialized Transportation&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" class="navSecLink">Specialized Transportation</a></td></tr>
+</tbody></table><div id="navDiv:1:8" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:1:8:0" href="https://web.archive.org/web/20051212143559/http://www.gmemd.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Electro-Motive&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverGreen">Electro-Motive</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:8:1" href="/automotive/gmpowertrain/engines/specialized/marine/index.htm" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Marine Engines&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Marine Engines</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:1:8:2" href="/automotive/gmpowertrain/engines/specialized/industrial/index.htm" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - Industrial Engines&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverGreen">Industrial Engines</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+</table></div>
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td><img src="/include/nav/leftnav/images/leftnav_1px_orange.gif" width="150" height="6" border="0"></td></tr>
+<tr><td><a href="javascript:showMenu(2,-1,'orange');"><img src="/include/nav/leftnav/images/orange/leftnav_beyauto_head.gif" width="150" height="18" border="0" alt="Services" title="Services"></a></td></tr>
+</tbody></table>
+<div id="navDiv:2" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:2:0" src="/include/nav/leftnav/images/leftnav_orange_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="https://web.archive.org/web/20051212143559/https://www.mygmlink.com/main/US/en/gm/home?cmp=gmcomhp" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - Owner Center&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navSecLink">Owner Center</a></td></tr>
+<tr><td valign="top" width="12"><img id="navArw:2:1" src="/include/nav/leftnav/images/leftnav_orange_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/company/financial_svc/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - GMAC Services&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">GMAC</a></td></tr>
+</tbody></table><div id="navDiv:2:1" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:2:1:0" href="https://web.archive.org/web/20051212143559/http://www.gmacfs.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC Financial Services&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">Financial Services</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:1:1" href="https://web.archive.org/web/20051212143559/http://www.gmacfs.com/automotive/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC Automotive&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">Automotive</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:1:2" href="https://web.archive.org/web/20051212143559/http://www.gmacins.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC Insurance&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">Insurance</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:1:3" href="https://web.archive.org/web/20051212143559/http://www.gmacmortgage.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC Mortgage&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">Mortgage</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:1:4" href="https://web.archive.org/web/20051212143559/http://www.gmacbank.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC Bank&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">Bank</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:1:5" href="https://web.archive.org/web/20051212143559/http://edloans.gmacbank.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC Bank Education Loans&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">Bank Education Loans</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:1:6" href="https://web.archive.org/web/20051212143559/http://www.smartnotes.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC SmartNotes&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">SmartNotes</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:1:7" href="https://web.archive.org/web/20051212143559/http://www.gmaccf.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC Commercial Finance&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">Commercial Finance</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:1:8" href="https://web.archive.org/web/20051212143559/http://www.gmacglobalrelocation.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC Global Relocation Services&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">Global Relocation Services</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:1:9" href="https://web.archive.org/web/20051212143559/http://www.gmacre.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GMAC Reinsurance&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">Reinsurance</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:2:2" src="/include/nav/leftnav/images/leftnav_orange_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="https://web.archive.org/web/20051212143559/http://www.onstar.com" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - OnStar&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navSecLink">OnStar</a></td></tr>
+<tr><td valign="top" width="12"><img id="navArw:2:3" src="/include/nav/leftnav/images/leftnav_orange_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/beyond_automotive/xmradio/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - XM Satellite Radio&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navSecLink">XM Satellite Radio</a></td></tr>
+</tbody></table><div id="navDiv:2:3" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:2:3:0" href="https://web.archive.org/web/20051212143559/http://gm.xmradio.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - XM Satellite Radio&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navTerLinkHoverOrange">XM Satellite Radio</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td valign="top" width="12"><img id="navArw:2:4" src="/include/nav/leftnav/images/leftnav_orange_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="https://web.archive.org/web/20051212143559/http://www.gmcardmemberservices.com" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Cardmember Services&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navSecLink">GM Cardmember Services</a></td></tr>
+<tr><td valign="top" width="12"><img id="navArw:2:5" src="/include/nav/leftnav/images/leftnav_orange_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="https://web.archive.org/web/20051212143559/http://www.gmgoodwrench.com/ServiceMaintenance/CarCare.html" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Goodwrench&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navSecLink">GM Goodwrench</a></td></tr>
+<tr><td valign="top" width="12"><img id="navArw:2:6" src="/include/nav/leftnav/images/leftnav_orange_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="https://web.archive.org/web/20051212143559/http://www.gmfamilyfirst.com/" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Left Nav - GM Family First&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_blank" class="navSecLink">GM Family First</a></td></tr>
+<tr><td valign="top" width="12"><img id="navArw:2:7" src="/include/nav/leftnav/images/leftnav_orange_arrow_right.gif" width="12" height="14" border="0"></td>
+<td width="138" class="navSec"><a href="/retirees/" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - For GM Retirees&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navSecLink">For GM Retirees</a></td></tr>
+</tbody></table><div id="navDiv:2:7" style="display:none;">
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td class="navTer"><a id="navLnk:2:7:0" href="/retirees/benefits.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - For GM Retirees&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverOrange">GM Benefits</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:7:1" href="/retirees/products.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - For GM Retirees&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverOrange">GM Products</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:7:2" href="/retirees/services.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - For GM Retirees&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverOrange">GMAC Financial Services</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:7:3" href="/retirees/news.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - For GM Retirees&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverOrange">News from GM</a></td></tr>
+<tr><td class="navTer"><a id="navLnk:2:7:4" href="/retirees/ssmedicare.html" onclick="s_linkType=&quot;o&quot;;s_linkName=&quot;GM - Left Nav - For GM Retirees&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;);" target="_top" class="navTerLinkHoverOrange">Social Security &amp; Medicare</a></td></tr>
+</tbody></table></div><table cellpadding="0" cellspacing="0" border="0" width="150">
+</table></div>
+<table cellpadding="0" cellspacing="0" border="0" width="150">
+<tbody><tr><td><img src="/include/nav/home/images/leftnav_bottom_1px.gif" alt="" border="0" width="150" height="1"></td></tr></tbody></table>
+
+	<!-- end left nav -->
+		</td>
+		<td bgcolor="#cccccc" rowspan="4"><img src="/images/clear.gif" border="0" width="1" height="1" alt=""></td>
+		<td rowspan="4"><img src="/images/clear.gif" border="0" width="13" height="1" alt=""></td>
+		<td><br><img src="images/hd_privacy.gif" width="83" height="28" border="0" alt="Privacy"></td>
+		<td align="right"><br><a href="index_sp.html" target="_top"><img src="images/espanol.gif" width="71" height="28" border="0" alt="Espanol"></a></td>
+    </tr>
+    <tr>
+        <td colspan="2"><img src="/images/lines.gif" width="594" height="9" border="0" alt="lines"></td>
+    </tr>
+    <tr>
+	<td colspan="2" align="right"><a href="#california"><img src="images/california.gif" width="216" height="35" border="0" alt="Your California Privacy Rights" title="Your California Privacy Rights"></a></td>
+    </tr>
+    <tr>
+	<td colspan="2"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td><font face="arial, helvetica" size="-1">
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<tbody><tr><td>
+<p><font face="arial, helvetica" size="-1"><b>I. <u>About Privacy</u></b></font></p><font face="arial, helvetica" size="-1">
+<p>Your privacy is important to General Motors Corporation (GM), as is your trust in GM products and 
+services. We want you to know that the information we collect will be treated with care.</p>
+<p>GM's Privacy Statement for U.S. Consumers lets you know how we handle personally identifiable 
+information you share with GM through gm.com and certain other GM websites, such as GM BuyPower or 
+Chevrolet.com; at events; on Business Reply 
+Cards (BRCs); and through our customer call centers. It also applies to personal information we 
+obtain for marketing purposes from GM affiliates, GM dealers, GM licensees for consumer merchandise, 
+and other sources such as those that provide lists of potential vehicle purchasers or current 
+owners.  Some GM websites have supplemental information on privacy, and others have their own 
+privacy statements, which may be accessed at those websites. (Click for details on the <a href="#scope">Scope of the Statement</a>).</p>
+<p>The information you share with us may be used by GM, our affiliates, our licensees, and dealers.  
+It may be used by our suppliers exclusively to provide services for GM, and by our business partners 
+exclusively to conduct joint marketing programs with GM. <b>We will not share your personal 
+information with other third parties for their independent use without your permission.</b></p>
+<p>For more information, please read <a href="#privacy">GM's Privacy Statement for U.S. Consumers</a>. 
+For Frequently Asked Questions about privacy, please click <a href="#faqs">here</a>.</p></font></td></tr></tbody></table>
+<p><a name="privacy"><b>II. <u>GM's Privacy Statement for U.S. Consumers</u> ("Privacy 
+Statement")</b></a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Table of Contents</b>
+</p><ul>
+<li><a href="#scope">Scope</a></li>
+<li><a href="#infocollect">Personal Information Collection</a></li>
+<li><a href="#uses">Uses</a></li>
+<li><a href="#cookies">Cookies and Other Tracking Devices</a></li>
+<li><a href="#links">Outside Links</a></li>
+<li><a href="#security">Information Security</a></li>
+<li><a href="#privinquire">Privacy Inquiries</a></li>
+<li><a href="#changes">Changes</a></li>
+<li><a href="#supinfo">Supplemental Privacy Information</a></li>
+<ul><li><a href="#investinfo">Investor Information</a></li>
+<li><a href="#buypower">GM BuyPower</a></li>
+<li><a href="#mygmlink">My GMLink</a></li>
+<li><a href="#saturn">Saturn</a></li></ul>
+</ul><p></p>
+<p><a name="scope"><b>Scope</b></a><br>
+This Privacy Statement explains how we handle personally identifiable information you share with GM 
+in the United States, for example, through most GM consumer websites (see table below); at events; 
+on Business Reply Cards (BRCs); and through our customer call centers.  It also applies to personal 
+information GM obtains for marketing purposes from GM affiliates, GM dealers, GM licensees for 
+consumer merchandise, and other sources such as 
+companies that provide lists of potential vehicle purchasers or current owners.</p>
+<p><i>Websites covered by this privacy statement:</i><br>
+<table border="1" cellpadding="0" cellspacing="0" width="70%">
+<tbody><tr><td width="50%"><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.chevrolet.com/" target="_blank">Chevrolet.com</a></font></td>
+<td><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.buick.com/" target="_blank">Buick.com</a></font></td>
+</tr>
+<tr><td><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.gmc.com/" target="_blank">GMC.com</a></font></td>
+<td><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.cadillac.com/" target="_blank">Cadillac.com</a></font></td>
+</tr>
+<tr><td><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.hummer.com/" target="_blank">HUMMER.com</a></font></td>
+<td><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.pontiac.com/" target="_blank">Pontiac.com</a></font></td>
+</tr>
+<tr><td><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.acdelco.com/" target="_blank">ACDelco.com</a></font></td>
+<td><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.oldsmobile.com/" target="_blank">Oldsmobile.com</a></font></td>
+</tr>
+<tr><td><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.gmgoodwrench.com/" target="_blank">GMGoodwrench.com</a></font></td>
+<td><font face="arial, helvetica" size="-1">&nbsp;<a href="http://www.saturn.com/" target="_blank">Saturn.com</a></font></td>
+</tr>
+</tbody></table></p>
+<p><a href="http://www.gm.com/" target="_blank"><i>GM.com</i></a><br>
+Most pages on gm.com are covered by this privacy statement. The Education pages of GMability at 
+gm.com have their own privacy statements that address the pages of the website directed at children.  
+The Careers and Retiree Information sections of gm.com are not consumer sites and are not covered by 
+this consumer Privacy Statement.</p>
+<p><i>Other GM websites</i><br>
+To provide services, some GM websites may request additional information.  Please click on the links 
+listed below to view the supplemental privacy information that should be read together with this 
+Privacy Statement.
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">
+<li><a href="#investinfo">Investor Information</a></li>
+<li><a href="#buypower">GM BuyPower</a></li>
+<li><a href="#mygmlink">My GMLink</a></li>
+<li><a href="#saturn">Saturn</a></li></font></td></tr>
+</tbody></table></p>
+<p>Certain other GM websites and services have their own privacy statements that can be viewed on 
+their sites.  These include <a href="http://www.saab.com/" target="_blank">Saab.com</a>, <a href="http://www.gmcardmemberservices.com/" target="_blank">GM Card</a>, <a href="http://www.onstar.com/" target="_blank">OnStar</a>, the Education pages of <a href="http://www.gm.com/company/gmability/edu_k-12/" target="_blank">GMability</a>, and the GMAC 
+family of businesses (<a href="http://www.gmacfs.com/" target="_blank">GMACFS.com</a>, <a href="http://www.gmacglobalrelocation.com/" target="_blank">GMACrelocation.com</a>, <a href="http://www.gmacmortgage.com/" target="_blank">GMACMortgage.com</a>, <a href="http://www.gmacbc.com/" target="_blank">GMACBC.com</a>, <a href="http://www.gmaccm.com/" target="_blank">GMACCM.com</a>, <a href="http://www.gmacinsurance.com/" target="_blank">GMACinsurance.com</a>, <a href="http://www.gmacrealestate.com/" target="_blank">GMACrealestate.com</a>, <a href="http://www.gmacpolicy.com/" target="_blank">GMACpolicy.com</a>, <a href="http://www.gmacre.com/" target="_blank">GMACre.com</a>, <a href="http://www.gmacbank.com/" target="_blank">GMACbank.com</a>).</p>
+<p><a name="infocollect"><b>Personal Information Collection</b></a><br>
+You may use GM's websites to learn about our products and services without disclosing any personal 
+information.  We may ask you to provide us with personal information, for example, to access certain 
+customized features, such as requesting product information.  Information that may be requested on 
+GM websites includes: contact information, such as name, address, email address, and telephone 
+number; vehicle information including vehicle identification number (VIN); demographic information, 
+such as household information, age group, or purchase plans; or non-vehicle GM product 
+usage/ownership information, such as GM Card or OnStar.</p>
+<p>We may also obtain contact and other information from GM affiliates, GM dealers, GM licensees for 
+consumer merchandise, and other sources such as those that provide lists of potential vehicle 
+purchasers or current owners.</p>
+<p><a name="uses"><b>Uses</b></a><br>
+Personal information about you may be used to respond to your requests for information, to customize 
+and improve communication content, or for marketing research. It may also be used for providing you 
+with helpful offers and information on GM products and services.</p>
+<p>We may share personal information about you within GM, with our affiliates, and with our dealers.  
+GM may also share personal information collected (such as name, mailing address and email address) 
+with our suppliers for the exclusive purpose of providing services for us (for example, mailing 
+information in response to your request for information) and with our business partners exclusively 
+to conduct joint marketing programs with GM. <b>GM will not share your personal information with 
+other third parties for their independent use without your permission.</b></p>
+<p>We may disclose your personal information as required by law, in conjunction with a government 
+inquiry, or in litigation or dispute resolution.</p>
+<p><a name="cookies"><b>Cookies and Other Tracking Devices</b></a><br>
+We may use cookies and other tracking devices on our websites. Using cookies on our sites provides 
+benefits to you, such as allowing you to maintain your account login information between visits, or 
+locating a nearby dealer. The use of cookies also allows us to measure site activity to provide a 
+better user experience. Cookies and other tracking devices may be used to tell us the time and 
+length of your visit, the pages you look at on our site, the site you visited just before coming to 
+ours, and the name of your Internet service provider.</p>
+<p>You may elect to refuse cookies. Please refer to your browser Help instructions to learn more 
+about cookies and how to manage their use.</p>
+<p>We may use third parties to serve GM advertisements on other websites. In serving GM 
+advertisements, these companies may use cookies to collect certain information about your 
+visits to other websites (such as browser type, IP address, which page was visited, and time of 
+day).  This information may be used to evaluate our online advertising campaigns or to tailor promotions
+and other marketing messages to you.  To opt-out of these 
+cookies, please review the privacy policies of our current suppliers, and follow the instructions on 
+their sites - click <a href="http://www.centrport.com/aboutus/privacypolicy.html" target="_blank">here</a> for Centrport 
+and <a href="http://www.mediaplex.com/mplx_privacy.shtml" target="_blank">here</a> for Mediaplex.</p>
+<p><a name="links"><b>Outside Links</b></a><br>
+This site may contain links to third party sites not controlled by GM or covered by this privacy 
+statement, such as those belonging to GM dealers, GM licensees, or independent product review sites. 
+We recommend that you check the privacy statement of other sites you visit before providing any 
+personal information.</p>
+<p><a name="security"><b>Information Security</b></a><br>
+GM recognizes the importance of safeguarding consumer personal information in GM's possession from 
+theft, inappropriate use, or improper distribution.  It should, however, be recognized that no 
+company can perfectly protect personal information.</p>
+<p><a name="privinquire"><b>Privacy Inquiries</b></a><br>
+If you have concerns or questions regarding GM's consumer privacy practices, please refer to the <a href="#faqs">frequently asked questions</a> that follow, or you may contact us at 
+1-866-MYPRIVACY (1-866-697-7482).  California residents click for more information on <a href="#california">Your California Privacy Rights</a>.</p>
+<p><a name="changes"><b>Changes</b></a><br>
+We retain the right to change this Privacy Statement. We will post changes to this page in a timely 
+manner.</p>
+<p>This statement is effective as of 01/01/2005.</p>
+<p><a name="supinfo"><b>Supplemental Privacy Information</b></a><br>
+This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.</p>
+<p><table border="0" cellpadding="0" cellspacing="0" width="100%">
+   <tbody><tr>
+   <td colspan="2"><font face="arial, helvetica" size="-1"><a name="investinfo"><i></i></a><i><a href="http://www.gm.com/company/investor_information/" target="_blank">Investor Information on 
+   GM.com</a></i></font></td>
+   </tr>
+   <tr>
+   <td><font face="arial, helvetica" size="-1">&nbsp;&nbsp;</font></td>
+   <td><font face="arial, helvetica" size="-1"><i><u>Collection</u></i> - On the Investor Information 
+   website we may collect name, address, phone number, and email address.  GM may also receive 
+   personal information you provide to GM Stockholder Services through email, written communications, 
+   or telephone calls, and from our stock transfer agent, such as account information.  
+   <p><i><u>Uses</u></i> - This personal information may be used for providing you information you have 
+   requested.  We may share this personal information with suppliers for the purpose of providing 
+   the services you request and to provide services for GM.  We may also share your information with 
+   GM affiliates to provide you with information about GM products and services. <b>GM will not share 
+   your personal information with other third parties for their independent use.</b> We may disclose 
+   your personal information as required by law, in conjunction with a government inquiry, or in 
+   litigation or dispute resolution.</p>
+   <p><i><u>Choice and Updating Information</u></i> - Stockholders wishing to update information with GM's 
+   stock transfer agent or their own stockbrokers should contact those parties directly. Opt-outs 
+   from GM marketing communications will not affect communications sent by or on behalf of 
+   GM's stock transfer agent or stockbrokers.</p> 
+   </font><p><font face="arial, helvetica" size="-1"><i><u>Privacy Inquiries</u></i> - For inquiries about how the information you submit to the Investor 
+   Information portion of the site or to GM Stockholder Services is handled, please call 
+   313-667-1432.</font></p></td>
+   </tr>
+   <tr>
+   <td width="90"><font face="arial, helvetica" size="-1"><a name="buypower"><i></i></a><i><a href="http://www.gmbuypower.com/app/linksin?destination=homepage&amp;creative=unbranded&amp;partnerId=510018" onclick="s_linkType=&quot;e&quot;;s_linkName=&quot;GM - Privacy - GM BuyPower&quot;;s_lnk=s_co(this);s_gs(&quot;gmgmcom&quot;)" target="_blank">GM BuyPower</a></i></font></td>
+   <td>&nbsp;</td>
+   </tr>
+   <tr>
+   <td>&nbsp;</td>
+   <td><font face="arial, helvetica" size="-1"><i><u>Choice and Updating Information</u></i> - GM BuyPower 
+   users may correct their contact information provided during a visit to GM BuyPower (name, zip 
+   code, email address, and phone number) by calling GM at 1-800-462-8976.</font></td>
+   </tr>
+   <tr>
+   <td><font face="arial, helvetica" size="-1"><a name="mygmlink"><i></i></a><i><a href="https://www.mygmlink.com/main/US/en/gm/home?cmp=gmcomhp" target="_blank">My GMLink</a></i></font></td>
+   <td>&nbsp;</td>
+   </tr>
+   <tr>
+   <td>&nbsp;</td>
+   <td><font face="arial, helvetica" size="-1"><i><u>Personal Information Collection</u></i> - Personal 
+   information, such as vehicle insurance information, is also requested in a section of My GMLink 
+   called Vehicle Reference Card. The Vehicle Reference Card is provided solely for your convenience, 
+   and its use is optional.  Vehicle Reference Card information will not be shared within GM or with 
+   GM dealers.
+   <p><i><u>Correcting Your Information</u></i> - You may correct your contact information (Name, Address, 
+   Phone number, and email address) through your profile on My GMLink at <a href="https://www.mygmlink.com/main/US/en/gm/myprofile" target="_blank">https://www.mygmlink.com/main/US/en/gm/myprofile</a>, by sending an email to <a href="mailto:mygmlink@gm.com">mygmlink@gm.com</a>, or by calling us at 1-866-MYGMLINK.</p>
+   <p><i><u>Privacy Inquiries</u></i> - If you have a concern about the privacy practices of the 
+   MyGMLink.com website, please contact us by sending an email to <a href="mailto:mygmlink@gm.com">mygmlink@gm.com</a> or by calling us at 1-866-MYGMLINK.</p></font></td>
+   </tr>
+   <tr>
+   <td><font face="arial, helvetica" size="-1"><a name="saturn"><i></i></a><i><a href="http://www.saturn.com/" target="_blank">Saturn</a></i></font></td>
+   <td>&nbsp;</td>
+   </tr>
+   <tr>
+   <td>&nbsp;</td>
+   <td><font face="arial, helvetica" size="-1"><i><u>Personal Information Collection</u></i> - We 
+   may request personal information at certain points during your visit to Saturn's Web sites.  In 
+   addition to the information described in the Personal Information section above, this information 
+   may include vehicle service information; information regarding when you plan to purchase a new 
+   vehicle; your opinions for certain polls; and stories about your Saturn.  Providing any information 
+   on Saturn's Web sites is optional.  In our E-card service, we ask for the e-mail addresses of your 
+   friends to send E-cards - e-mail addresses submitted to this service will be used ONLY for sending 
+   the E-cards.
+   <p><i><u>Correcting Your Information</u></i> - You may correct the contact information (name, 
+   address, phone number, and e-mail address) you provide on the Saturn Web site by using <a href="http://www.saturn.com/mysaturn/" target="_blank">My Profile</a>.</p>
+   <p><i><u>Privacy Inquiries</u></i> - If you have a question or concern about the privacy 
+   practices of the Saturn.com Web site, please contact us by sending an e-mail from the <a href="http://www.saturn.com/talk_to_us/e-mail_saturn/" target="_blank">Contact Us</a> page or by writing 
+   to us at: Saturn Privacy, 100 Saturn Parkway, MD 371-999-S24, Spring Hill, TN 37174.</p></font></td>
+   </tr>
+   </tbody></table>
+</p>
+<p><a name="california"></a><b>III.  <u>Your California Privacy Rights</u><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004 Disclosure</b>
+</p>
+<p>Thank you for your interest in our privacy practices.  Your privacy is important to General Motors Corporation (GM), as is your trust in GM products and services.  Under California Civil Code Section 1798.83, also known as Senate Bill 27, you are entitled to request and receive, free of charge, a copy of GM’s California Information Sharing Disclosure Notice for the previous calendar year.  You may print this page, or call 1-866-MY Privacy (1-866-697-7482) to request a copy.
+</p>
+<p><b><u>California Information-Sharing Disclosure</u></b>
+</p><p>This Information-Sharing Disclosure Notice reflects the information sharing practices of GM during the previous calendar year with third parties for their own commercial marketing purposes.  You will notice that the “third parties” listed in this notice are General Motors affiliates.  These affiliates are listed as “third parties” because, under Senate Bill 27, any business that is a separate legal entity must be listed as a “third party.”
+</p>
+<p><b>GM did not share your personal information with non-affiliated third parties for their independent commercial marketing use without your permission.</b>
+</p>
+<p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+	<td colspan="2"><font face="arial, helvetica" size="-1">GM may have shared the following categories of information with the affiliates listed below so they could use it to offer you other valuable products and services as part of the GM family of companies:</font></td>
+    </tr>
+    <tr>
+	<td width="100">&nbsp;</td>
+	<td><br><font face="arial, helvetica" size="-1"> 
+	<p>-&nbsp;&nbsp;Contact information (including name, address, city, state and zip code, phone<br>&nbsp;&nbsp;&nbsp;number, email address)<br>
+	-&nbsp;&nbsp;Vehicle purchase information (including VIN, make, model, model year,  selling &nbsp;&nbsp;&nbsp;dealer, purchase date), and<br>
+	-&nbsp;&nbsp;Other non-credit related marketing profile information, (including information you &nbsp;&nbsp;&nbsp;provided when expressing your interest in, or during your purchase of, our products &nbsp;&nbsp;&nbsp;or services).<br>
+        </p></font></td><td>
+    </td></tr>
+</tbody></table>
+</p>
+<p>Our GM affiliates who may have received your information are:
+</p>
+
+<p>
+GMAC Insurance<br>
+Personal Lines Group<br>
+13736 Riverport Drive,<br>
+Suite 700<br>
+Maryland Heights, MO 63043<br><br>
+
+GMAC Insurance<br>
+Specialty Markets &amp; Products<br>
+GM Motor Club, Inc. <br>
+P.O. Box 3580<br>
+Southfield, MI 48037-3580<br><br>
+
+GMAC Insurance<br>
+Specialty Markets &amp; Products<br>
+General Motors Protection Plan<br>
+P.O. Box 37508<br>
+Detroit, MI 48237-9968<br><br>
+
+GMAC Mortgage Corporation<br>
+100 Witmer Road<br>
+Horsham, PA 19044<br><br>
+
+OnStar<br>
+400 Renaissance Center<br>
+P.O. Box 400<br>
+Detroit, MI  48265-4000<br>
+</p>
+<p>For the full GM Privacy Statement, <a href="#top">click here</a>.
+</p>
+<p>We are committed to providing our customers with outstanding products, services, and experiences across the GM Family of Companies.  This commitment requires the sharing of customer information among the GM Family of Companies.  We hope that this notice answers any questions you may have about our disclosure of personal information to "third parties"-including our affiliates-for their direct marketing purposes.  Thank you for your interest in GM. 
+</p>
+<p><a name="faqs"><b>IV. <u>Frequently Asked Questions</u></b></a></p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>Q1:</b></font>&nbsp;&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">What are "GM affiliates"?</font></td>
 </tr>
 <tr>
-<td colspan="2"><img src="/images/midbar.gif" width="460" height="21" border="0"></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="600" height="0" border="0">
-<tbody><tr>
-<td><img src="/images/tools_map.gif" border="0"></td>
-</tr>
-</tbody></table>
-<p>
-<table border="0" width="600" cellspacing="0">
-<tbody><tr valign="TOP">
-<td width="120"><img src="/images/custom.gif"><p>
-<script language="JavaScript1.1">
-<!-- Hide
-PrintLinks()
-//-->
-
-</script><font face="Arial,Helvetica" size="-1"><a href="/custom.html">Create your own path</a> of customized links and go directly to the information you want.</font></p><p>
-<a href="/custom.html"><img src="/images/buttons/update_path.gif" width="119" height="15" border="0"></a>
-</p><p>
-
-</p></td>
-<td width="10">&nbsp;&nbsp;&nbsp;</td>
-<td width="470">
-<table border="0" width="470">
-<tbody><tr valign="TOP">
-<td width="470">
-<p></p><hr size="1" color="#CC9900" noshade="">
-<font size="+1" face="Arial,Helvetica"><b>GM ONLINE PRIVACY PRINCIPLES</b></font>
-<p>
-
-You don't want your personal information to fall into the wrong hands.  Neither does General Motors. </p><p>
-
-When you visit one of the General Motors web sites, we may collect and store information about your visit on an <b>anonymous</b>, aggregate basis. This information may include the time and length of your visit, the pages you look at on our sites, and the site you visited just before coming to ours. We may also record the name of your Internet service provider. We use this information only to measure site activity and to develop ideas for improving our sites.</p><p>
-
-There are also several opportunities on our web sites for you to provide us with information about you and your interests, such as your name, mailing address and e-mail address. If you choose to share any personal information with us, we may store it and use it for marketing research and other marketing purposes, which may include sharing it with other companies in the General Motors family and our business partners. We will never sell your information to any other company.
-</p><p>
-You should be aware that when you voluntarily disclose personal information in public areas of our web sites, such as chat rooms or bulletin boards, this information may be seen and used by others.  We urge you to exercise good judgement when sharing personal information in these forums.
-</p><p>
-Some of our web sites may make use of "cookie" technology to measure site activity and to customize information to your personal tastes.  A cookie is an element of data that a Web site can send to your browser, which may then store the cookie on your hard drive.  So, when you come back to visit us again, we can tailor information to suit your individual preferences.  The goal is to save you time and provide you with a more meaningful visit.
-</p><p>
-You take online privacy seriously, and so does General Motors.  It's our way of sustaining your trust in General Motors and our products and services.
-</p><p>
-<font size="-1">General Motors reserves the right to alter our privacy principles as business needs require. Any alterations to these principles will be posted on our web sites in a timely manner. Applicable to U.S.-based divisions.</font>
-</p></td>
-</tr>
-</tbody></table><p>
-</p><p>
-<nobr>
-<applet code="Stock.class" codebase="/stock/" width="150" height="16">
-<param name="file" value="text">
-<param name="bgcolor" value="000000">
-<param name="fgcolor" value="FFFFFF">
-<param name="fontname" value="TIMES">
-<param name="fontsize" value="10">
-<param name="interval" value="300">
-<param name="pad" value="3">
-<param name="urlname" value="/about/investor">
-<b><font size="-1">GM Stock*:  70 3/8
-</font></b> <br> 
-</applet><img src="/images/toolbar.gif" border="0" usemap="#toolbar">
-</nobr>
-<br>
-<map name="toolbar">
-<area shape="rect" coords="0,0,76,15" href="/tools/sitemap.html" target="_top">
-<area shape="rect" coords="78,0,145,15" href="/tools/search.html" target="_top">
-<area shape="rect" coords="147,2,230,15" href="/tools/webtools.html" target="_top">
-<area shape="rect" coords="233,1,309,13" href="/tools/feedback.html" target="_top">
-<area shape="default" nohref="">
-</map>
-<font size="-2">* Updated every 20 minutes from a source other than General Motors. <br> Copyright ©1997,1998 General Motors Corporation. Complete <a href="#" onclick="writestock()" target="_top">stock</a>, <a href="/tools/legal.html" target="_top">copyright and trademark</a><br>information including photographs used with the permission of the General Motors Media Archives.</font>
-</p></td>
-</tr>
-</tbody></table>
-
-
-
-</p></body></html><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
-<title>General Motors | Legal</title>
-<script language="JavaScript"> 
-<!-- 
-
-function go(){
-var temp = document.menu.tab.options[document.menu.tab.selectedIndex].value
-
-if (document.menu.tab.options[document.menu.tab.selectedIndex].value != "none") {
-parent.location = document.menu.tab.options[document.menu.tab.selectedIndex].value
- }
- if (temp.indexOf('links') > 0) {
-	writewindow();
-	}              
-}
-
-function getCookieVal (offset) 
-   {
-   var endstr = document.cookie.indexOf (";", offset);
-   if (endstr == -1)
-      endstr = document.cookie.length;
-   return unescape(document.cookie.substring(offset, endstr));
-   }
-function GetCookie (name) 
-   {
-   var arg = name + "=";
-   var alen = arg.length;
-   var clen = document.cookie.length;
-   var i = 0;
-   while (i < clen) 
-      {
-      var j = i + alen;
-      if (document.cookie.substring(i, j) == arg)
-         return getCookieVal (j);
-      i = document.cookie.indexOf(" ", i) + 1;
-      if (i == 0) 
-         break; 
-      }
-   return null;
-   }
-function SetCookie (name, value) 
-   {
-   var argv = SetCookie.arguments;
-   var argc = SetCookie.arguments.length;
-   var expires = (2 < argc) ? argv[2] : null;
-   var path = (3 < argc) ? argv[3] : null;
-   var domain = (4 < argc) ? argv[4] : null;
-   var secure = (5 < argc) ? argv[5] : false;
-   document.cookie = name + "=" + escape (value) +
-     ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
-     ((path == null) ? "" : ("; path=" + path)) +
-     ((domain == null) ? "" : ("; domain=" + domain)) +
-	((secure == true) ? "; secure" : "");
-   }
-
-function PrintLinks()
-{
-	nurls = 27;
-	nchoices = 14;
-
-	urls = new Array(nurls);
-	choices = new Array(nurls);
-
-	clist = new Array(nchoices);
-	
-	for (i = 0; i < nurls; i++) {
-		choices[i] = 0;
-	}
-
-	//Enter your HTML links here
-	urls[0] = "<A HREF=\"/about/info/news/index.html\">GM News</A><P>"
-	urls[1] = "<A HREF=\"/vehicles/us/selector/index.html\">Select-<font size=\"-1\">a</font>-Vehicle</A><P>"
-	urls[2] = "<A HREF=\"/vehicles/us/index.html\">US Cars & Trucks</A><P>" 
-	urls[3] = "<A HREF=\"/vehicles/us/innovations/jd_awards.html\">J.D. Power Awards</A><P>" 
-	urls[4] = "<A HREF=\"/vehicles/us/showroom/index.html\">Showroom</A><P>"
-	urls[5] = "<A HREF=\"/cgi-bin/dlrloc/dlr_index.cgi\">Dealer Locator</A><P>"
-	urls[6] = "<A HREF=\"/vehicles/us/finance/index.html\">Financing</A><P>"
-	urls[7] = "<A HREF=\"/vehicles/us/innovations/breakthroughs.html\">Breakthroughs</A><P>"
-	urls[8] = "<A HREF=\"/vehicles/us/innovations/designlab.html\">Design Center</A><P>"
-	urls[9] = "<A HREF=\"/vehicles/us/owners/index.html\">You and Your Vehicle</A><P>"
-	urls[10] = "<A HREF=\"/vehicles/us/owners/service/index.html\">Parts & Service</A><P>"
-	urls[11] = "<A HREF=\"/vehicles/index.html\">Cars & Trucks Worldwide</A><P>"
-	urls[12] = "<A HREF=\"/about/info/world/index.html\">World Citizenship</A><P>"
-	urls[13] = "<A HREF=\"/about/community/index.html\">Community Involvement</A><P>"
-	urls[14] = "<A HREF=\"/about/info/world/philanthropy/index.html\">Philanthropy</A><P>"
-	urls[15] = "<A HREF=\"/vehicles/us/owners/ontheroad/index.html\">On the Road</A><P>"
-	urls[16] = "<A HREF=\"/cgi-bin/linksout/linksout.cgi?www.onstar.com+/index.html\" onclick=\"writewindow()\">OnStar</A><p>"
-	urls[17] = "<A HREF=\"/about/investor/index.html\">Investor Info</A><P>"
-	urls[18] = "<A HREF=\"/about/info/overview/history/index.html\">History</A><p>"
-	urls[19] = "<A HREF=\"/vehicles/us/owners/mobility.html\">Mobility Program</A><P>"
-	urls[20] = "<A HREF=\"/about/info/overview/facts.html\">Company Profile</A><P>"
-	urls[21] = "<A HREF=\"/vehicles/us/innovations/advanced.html\">Advanced Technology Vehicles</A><P>"
-	urls[22] = "<A HREF=\"/about/info/world/environment.html\">Environment</A><P>"
-	urls[23] = "<A HREF=\"/vehicles/us/motorsports/index.html\">Motorsports</A><P>"
-	urls[24] = "<A HREF=\"/vehicles/us/features/index.html\">Features</A><P>"
-	urls[25] = "<A HREF=\"/about/info/careers/index.html\">Careers in Motion</A><P>"
-	urls[26] = "<A HREF=\"/about/index.html\">About our Company</A><P>"
-
-	clist[0] = "2,0,25"
-	clist[1] = "5,1,4,2,3,24"
-	clist[2] = "1,5"
-	clist[3] = "1,6"
-	clist[4] = "3,8,7,23"
-	clist[5] = "2,10,9"
-	clist[6] = "2,11,12"
-	clist[7] = "2,13,14"
-	clist[8] = "1,15"
-	clist[9] = "2,10,16"
-	clist[10] = "1,17"
-	clist[11] = "2,18,26"
-	clist[12] = "1,19"
-	clist[13] = "2,20,4"
-	clist[14] = "2,21,22"
-	
-	var bmask = GetCookie("GMLINKS");
-
-	if (bmask != null && bmask != "") {
-		if (bmask.length < 10)
-			for (var i = bmask.length; i < 10; i++)
-				bmask += "0";
-	} else {
-		document.write('<FONT FACE="Arial,Helvetica" SIZE=-1>');
-	document.write('<A HREF="/custom.html">Create your own path</A>'); 
-		document.write(' of customized links and go directly to');
-		document.write(' the information you want.');
-		document.write('</FONT><P>');
-		bmask = "0000000000";
-	}
-
-	prev = 0;
-
-	for (var i = 0; i < bmask.length; i++) {
-		if (bmask.charAt(i) != "1")
-			continue;
-
-		prev = 2;
-	
-		counter = clist[i].charAt(0);
-		val = counter - 1;
-
-		for (j = 0; j < val; j++) {
-			last = clist[i].indexOf("," , prev);
-			link = clist[i].substring(prev, last);
-			prev = last + 1;
-			choices[link - 0] = 1;
-		}
-	
-		link = clist[i].substring(prev, clist[i].length);
-		choices[link - 0] = 1;
-	}
-
-	for (i = 0; i < nurls; i++) {
-		if (choices[i] == 1) {
-			document.write('<FONT SIZE=-1 FACE="Arial,Helvetica">');
-			document.write(urls[i]);
-			document.write('</FONT>');
-		}
-	}
-}
-
-//backlink scripts
-
-function setCookie(name, value, expires, path, domain, secure) {
-  document.cookie = name + "=" + escape(value) + 
-  ((expires == null) ? "" : "; expires=" + expires.toGMTString()) +
-  ((path == null) ? "" : "; path=" + path) +
-  ((domain == null) ? "" : "; domain=" + domain) +
-  ((secure == null) ? "" : "; secure");
-}
-
-function writewindow() {
-	window.name='main';
-	var expiration = new Date();
-	expiration.setTime(expiration.getTime() + 2147483647);
-	var lasturl=document.location;
-	var lasttitle=document.title;
-	var lastlocation=lasturl + 'title:' + lasttitle;
-	setCookie("lastvisit",lastlocation,expiration,"/");
-	var newwin = window.open("/backlink.html","small","width=150,height=125"); 
-	if (newwin != null && newwin.opener == null) newwin.opener = self;
-}
-
-//custom path page function
-
-function checktheboxes() {
-var bmask = GetCookie("GMLINKS");
-if (bmask != null && bmask != "") {
-	for (var i = 1; i <= bmask.length; i++) {
-        if (bmask.charAt(i-1) == "1") {
-        document.customlinks.elements[i-1].checked = true;
-        }
-	}
-}
-}
-
-function writestock() {
-	
-	var stock = window.open("http://cfs.stockpoint.com/gm/dynamicstock2.asp","small","width=440,height=340"); 
-	if (stock != null && stock.opener == null) stock.opener = self;
-}
-
-// end script -->
-</script>
-
-</head>
-<body bgcolor="#FFFFFF">
-<table cellpadding="0" cellspacing="0" width="600" height="0" border="0">
-<tbody><tr valign="BOTTOM">
-<td><a href="/vehicles/index.html"><img src="/images/cartab_a.gif" width="230" height="28" border="0"></a></td>
-<td><a href="/about/index.html"><img src="/images/abouttab_a.gif" width="230" height="28" border="0"></a></td>
-<td rowspan="2"><a href="/index.html"><img src="/images/tabspace.gif" border="0"><img src="/images/gmani.gif" border="0"></a></td>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>A:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">As used in this privacy statement, GM affiliates are 
+companies that are wholly owned subsidiaries of GM.  Some examples include Saturn, Saab, GMAC, and OnStar.</font></td>
 </tr>
 <tr>
-<td colspan="2"><img src="/images/midbar.gif" width="460" height="21" border="0"></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="600" height="0" border="0">
-<tbody><tr>
-<td><img src="/images/tools_map.gif" border="0"></td>
-</tr>
-</tbody></table>
-<p>
-<table border="0" width="600" cellspacing="0">
-<tbody><tr valign="TOP">
-<td width="120"><img src="/images/custom.gif"><p>
-<script language="JavaScript1.1">
-<!-- Hide
-PrintLinks()
-//-->
-
-</script><font face="Arial,Helvetica" size="-1"><a href="/custom.html">Create your own path</a> of customized links and go directly to the information you want.</font></p><p>
-<a href="/custom.html"><img src="/images/buttons/update_path.gif" width="119" height="15" border="0"></a>
-</p><p>
-
-</p></td>
-<td width="10">&nbsp;&nbsp;&nbsp;</td>
-<td width="470">
-<table border="0" width="470">
-<tbody><tr valign="TOP">
-<td width="470">
-<p></p><hr size="1" color="#CC9900" noshade="">
-<font size="+1" face="Arial,Helvetica"><b>GM ONLINE PRIVACY PRINCIPLES</b></font>
-<p>
-
-You don't want your personal information to fall into the wrong hands.  Neither does General Motors. </p><p>
-
-When you visit one of the General Motors web sites, we may collect and store information about your visit on an <b>anonymous</b>, aggregate basis. This information may include the time and length of your visit, the pages you look at on our sites, and the site you visited just before coming to ours. We may also record the name of your Internet service provider. We use this information only to measure site activity and to develop ideas for improving our sites.</p><p>
-
-There are also several opportunities on our web sites for you to provide us with information about you and your interests, such as your name, mailing address and e-mail address. If you choose to share any personal information with us, we may store it and use it for marketing research and other marketing purposes, which may include sharing it with other companies in the General Motors family and our business partners. We will never sell your information to any other company.
-</p><p>
-You should be aware that when you voluntarily disclose personal information in public areas of our web sites, such as chat rooms or bulletin boards, this information may be seen and used by others.  We urge you to exercise good judgement when sharing personal information in these forums.
-</p><p>
-Some of our web sites may make use of "cookie" technology to measure site activity and to customize information to your personal tastes.  A cookie is an element of data that a Web site can send to your browser, which may then store the cookie on your hard drive.  So, when you come back to visit us again, we can tailor information to suit your individual preferences.  The goal is to save you time and provide you with a more meaningful visit.
-</p><p>
-You take online privacy seriously, and so does General Motors.  It's our way of sustaining your trust in General Motors and our products and services.
-</p><p>
-<font size="-1">General Motors reserves the right to alter our privacy principles as business needs require. Any alterations to these principles will be posted on our web sites in a timely manner. Applicable to U.S.-based divisions.</font>
-</p></td>
-</tr>
-</tbody></table><p>
-</p><p>
-<nobr>
-<applet code="Stock.class" codebase="/stock/" width="150" height="16">
-<param name="file" value="text">
-<param name="bgcolor" value="000000">
-<param name="fgcolor" value="FFFFFF">
-<param name="fontname" value="TIMES">
-<param name="fontsize" value="10">
-<param name="interval" value="300">
-<param name="pad" value="3">
-<param name="urlname" value="/about/investor">
-<b><font size="-1">GM Stock*:  89
-</font></b> <br> 
-</applet><img src="/images/toolbar.gif" border="0" usemap="#toolbar">
-</nobr>
-<br>
-<map name="toolbar">
-<area shape="rect" coords="0,0,76,15" href="/tools/sitemap.html" target="_top">
-<area shape="rect" coords="78,0,145,15" href="/tools/search.html" target="_top">
-<area shape="rect" coords="147,2,230,15" href="/tools/webtools.html" target="_top">
-<area shape="rect" coords="233,1,309,13" href="/tools/feedback.html" target="_top">
-<area shape="default" nohref="">
-</map>
-<font size="-2">* Updated every 20 minutes from a source other than General Motors. <br> Copyright ©1997,1998 General Motors Corporation. Complete <a href="#" onclick="writestock()" target="_top">stock</a>, <a href="/tools/legal.html" target="_top">copyright and trademark</a><br>information including photographs used with the permission of the General Motors Media Archives.</font>
-</p></td>
-</tr>
-</tbody></table>
-
-
-
-</p></body></html><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
-<title>General Motors | Legal</title>
-<script language="JavaScript"> 
-<!-- 
-
-function go(){
-var temp = document.menu.tab.options[document.menu.tab.selectedIndex].value
-
-if (document.menu.tab.options[document.menu.tab.selectedIndex].value != "none") {
-parent.location = document.menu.tab.options[document.menu.tab.selectedIndex].value
- }
- if (temp.indexOf('links') > 0) {
-	writewindow();
-	}              
-}
-
-function getCookieVal (offset) 
-   {
-   var endstr = document.cookie.indexOf (";", offset);
-   if (endstr == -1)
-      endstr = document.cookie.length;
-   return unescape(document.cookie.substring(offset, endstr));
-   }
-function GetCookie (name) 
-   {
-   var arg = name + "=";
-   var alen = arg.length;
-   var clen = document.cookie.length;
-   var i = 0;
-   while (i < clen) 
-      {
-      var j = i + alen;
-      if (document.cookie.substring(i, j) == arg)
-         return getCookieVal (j);
-      i = document.cookie.indexOf(" ", i) + 1;
-      if (i == 0) 
-         break; 
-      }
-   return null;
-   }
-function SetCookie (name, value) 
-   {
-   var argv = SetCookie.arguments;
-   var argc = SetCookie.arguments.length;
-   var expires = (2 < argc) ? argv[2] : null;
-   var path = (3 < argc) ? argv[3] : null;
-   var domain = (4 < argc) ? argv[4] : null;
-   var secure = (5 < argc) ? argv[5] : false;
-   document.cookie = name + "=" + escape (value) +
-     ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
-     ((path == null) ? "" : ("; path=" + path)) +
-     ((domain == null) ? "" : ("; domain=" + domain)) +
-	((secure == true) ? "; secure" : "");
-   }
-
-function PrintLinks()
-{
-	nurls = 27;
-	nchoices = 14;
-
-	urls = new Array(nurls);
-	choices = new Array(nurls);
-
-	clist = new Array(nchoices);
-	
-	for (i = 0; i < nurls; i++) {
-		choices[i] = 0;
-	}
-
-	//Enter your HTML links here
-	urls[0] = "<A HREF=\"/about/info/news/index.html\">GM News</A><P>"
-	urls[1] = "<A HREF=\"/vehicles/us/selector/index.html\">Select-<font size=\"-1\">a</font>-Vehicle</A><P>"
-	urls[2] = "<A HREF=\"/vehicles/us/index.html\">US Cars & Trucks</A><P>" 
-	urls[3] = "<A HREF=\"/vehicles/us/innovations/jd_awards.html\">J.D. Power Awards</A><P>" 
-	urls[4] = "<A HREF=\"/vehicles/us/showroom/index.html\">Showroom</A><P>"
-	urls[5] = "<A HREF=\"/cgi-bin/dlrloc/dlr_index.cgi\">Dealer Locator</A><P>"
-	urls[6] = "<A HREF=\"/vehicles/us/finance/index.html\">Financing</A><P>"
-	urls[7] = "<A HREF=\"/vehicles/us/innovations/breakthroughs.html\">Breakthroughs</A><P>"
-	urls[8] = "<A HREF=\"/vehicles/us/innovations/designlab.html\">Design Center</A><P>"
-	urls[9] = "<A HREF=\"/vehicles/us/owners/index.html\">You and Your Vehicle</A><P>"
-	urls[10] = "<A HREF=\"/vehicles/us/owners/service/index.html\">Parts & Service</A><P>"
-	urls[11] = "<A HREF=\"/vehicles/index.html\">Cars & Trucks Worldwide</A><P>"
-	urls[12] = "<A HREF=\"/about/info/world/index.html\">World Citizenship</A><P>"
-	urls[13] = "<A HREF=\"/about/community/index.html\">Community Involvement</A><P>"
-	urls[14] = "<A HREF=\"/about/info/world/philanthropy/index.html\">Philanthropy</A><P>"
-	urls[15] = "<A HREF=\"/vehicles/us/owners/ontheroad/index.html\">On the Road</A><P>"
-	urls[16] = "<A HREF=\"/cgi-bin/linksout/linksout.cgi?www.onstar.com+/index.html\" onclick=\"writewindow()\">OnStar</A><p>"
-	urls[17] = "<A HREF=\"/about/investor/index.html\">Investor Info</A><P>"
-	urls[18] = "<A HREF=\"/about/info/overview/history/index.html\">History</A><p>"
-	urls[19] = "<A HREF=\"/vehicles/us/owners/mobility.html\">Mobility Program</A><P>"
-	urls[20] = "<A HREF=\"/about/info/overview/facts.html\">Company Profile</A><P>"
-	urls[21] = "<A HREF=\"/vehicles/us/innovations/advanced.html\">Advanced Technology Vehicles</A><P>"
-	urls[22] = "<A HREF=\"/about/info/world/environment.html\">Environment</A><P>"
-	urls[23] = "<A HREF=\"/vehicles/us/motorsports/index.html\">Motorsports</A><P>"
-	urls[24] = "<A HREF=\"/vehicles/us/features/index.html\">Features</A><P>"
-	urls[25] = "<A HREF=\"/about/info/careers/index.html\">Careers in Motion</A><P>"
-	urls[26] = "<A HREF=\"/about/index.html\">About our Company</A><P>"
-
-	clist[0] = "2,0,25"
-	clist[1] = "5,1,4,2,3,24"
-	clist[2] = "1,5"
-	clist[3] = "1,6"
-	clist[4] = "3,8,7,23"
-	clist[5] = "2,10,9"
-	clist[6] = "2,11,12"
-	clist[7] = "2,13,14"
-	clist[8] = "1,15"
-	clist[9] = "2,10,16"
-	clist[10] = "1,17"
-	clist[11] = "2,18,26"
-	clist[12] = "1,19"
-	clist[13] = "2,20,4"
-	clist[14] = "2,21,22"
-	
-	var bmask = GetCookie("GMLINKS");
-
-	if (bmask != null && bmask != "") {
-		if (bmask.length < 10)
-			for (var i = bmask.length; i < 10; i++)
-				bmask += "0";
-	} else {
-		document.write('<FONT FACE="Arial,Helvetica" SIZE=-1>');
-	document.write('<A HREF="/custom.html">Create your own path</A>'); 
-		document.write(' of customized links and go directly to');
-		document.write(' the information you want.');
-		document.write('</FONT><P>');
-		bmask = "0000000000";
-	}
-
-	prev = 0;
-
-	for (var i = 0; i < bmask.length; i++) {
-		if (bmask.charAt(i) != "1")
-			continue;
-
-		prev = 2;
-	
-		counter = clist[i].charAt(0);
-		val = counter - 1;
-
-		for (j = 0; j < val; j++) {
-			last = clist[i].indexOf("," , prev);
-			link = clist[i].substring(prev, last);
-			prev = last + 1;
-			choices[link - 0] = 1;
-		}
-	
-		link = clist[i].substring(prev, clist[i].length);
-		choices[link - 0] = 1;
-	}
-
-	for (i = 0; i < nurls; i++) {
-		if (choices[i] == 1) {
-			document.write('<FONT SIZE=-1 FACE="Arial,Helvetica">');
-			document.write(urls[i]);
-			document.write('</FONT>');
-		}
-	}
-}
-
-//backlink scripts
-
-function setCookie(name, value, expires, path, domain, secure) {
-  document.cookie = name + "=" + escape(value) + 
-  ((expires == null) ? "" : "; expires=" + expires.toGMTString()) +
-  ((path == null) ? "" : "; path=" + path) +
-  ((domain == null) ? "" : "; domain=" + domain) +
-  ((secure == null) ? "" : "; secure");
-}
-
-function writewindow() {
-	window.name='main';
-	var expiration = new Date();
-	expiration.setTime(expiration.getTime() + 2147483647);
-	var lasturl=document.location;
-	var lasttitle=document.title;
-	var lastlocation=lasturl + 'title:' + lasttitle;
-	setCookie("lastvisit",lastlocation,expiration,"/");
-	var newwin = window.open("/backlink.html","small","width=150,height=125"); 
-	if (newwin != null && newwin.opener == null) newwin.opener = self;
-}
-
-//custom path page function
-
-function checktheboxes() {
-var bmask = GetCookie("GMLINKS");
-if (bmask != null && bmask != "") {
-	for (var i = 1; i <= bmask.length; i++) {
-        if (bmask.charAt(i-1) == "1") {
-        document.customlinks.elements[i-1].checked = true;
-        }
-	}
-}
-}
-
-function writestock() {
-	
-	var stock = window.open("http://cfs.stockpoint.com/gm/dynamicstock2.asp","small","width=440,height=340"); 
-	if (stock != null && stock.opener == null) stock.opener = self;
-}
-
-// end script -->
-</script>
-
-</head>
-<body bgcolor="#FFFFFF">
-<table cellpadding="0" cellspacing="0" width="600" height="0" border="0">
-<tbody><tr valign="BOTTOM">
-<td><a href="/vehicles/index.html"><img src="/images/cartab_a.gif" width="230" height="28" border="0"></a></td>
-<td><a href="/about/index.html"><img src="/images/abouttab_a.gif" width="230" height="28" border="0"></a></td>
-<td rowspan="2"><a href="/index.html"><img src="/images/tabspace.gif" border="0"><img src="/images/gmani.gif" border="0"></a></td>
+<td colspan="2">&nbsp;</td>
 </tr>
 <tr>
-<td colspan="2"><img src="/images/midbar.gif" width="460" height="21" border="0"></td>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>Q2:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">What is an example of a supplier that provides services 
+to GM?</font></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>A:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">Suppliers are companies such as advertising agencies, 
+which provide services on GM's behalf.</font></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>Q3:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">What is an example of a GM business partner?</font></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>A:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">By business partners, we mean independent companies that 
+conduct joint marketing programs with GM.  An example is Household Bank, which issues the GM 
+Card.</font></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>Q4:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">What do you mean when you say "independent 
+use"?</font></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>A:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">By independent use, we mean for purposes unrelated to GM 
+and GM affiliates' products and services.</font></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>Q5:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">What do dealers do with my personal information?</font></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>A:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">GM dealers may use your personal information to contact 
+you about your interest in GM products and services and to provide you with information about 
+upcoming events and vehicle incentives.  For questions about your dealer's specific privacy 
+practices, please contact your dealer directly.</font></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>Q6:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">If I opt out of receiving communications from my dealer, 
+will I still receive communications from GM?</font></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>A:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">Yes. GM and GM dealers are separate legal entities with 
+their own privacy practices.</font></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>Q7:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">Will you use my personal information to send me 
+emails?</font></td>
+</tr>
+<tr>
+<td valign="top"><font face="arial, helvetica" size="-1"><b>A:</b></font>&nbsp;</td>
+<td><font face="arial, helvetica" size="-1">Yes, we may.  If so, we will give you an opportunity to 
+opt-out of receiving similar marketing emails in the future.</font></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
 </tr>
 </tbody></table>
-<table cellpadding="0" cellspacing="0" width="600" height="0" border="0">
-<tbody><tr>
-<td><img src="/images/tools_map.gif" border="0"></td>
-</tr>
+
+<br></font>
+</td></tr>
+</tbody></table></td>
+	<td><img src="/images/clear.gif" border="0" width="13" height="1" alt=""></td>
+    </tr>
 </tbody></table>
-<p>
-<table border="0" width="600" cellspacing="0">
-<tbody><tr valign="TOP">
-<td width="120"><img src="/images/custom.gif"><p>
-<script language="JavaScript1.1">
-<!-- Hide
-PrintLinks()
-//-->
-
-</script><font face="Arial,Helvetica" size="-1"><a href="/custom.html">Create your own path</a> of customized links and go directly to the information you want.</font></p><p>
-<a href="/custom.html"><img src="/images/buttons/update_path.gif" width="119" height="15" border="0"></a>
-</p><p>
-
-</p></td>
-<td width="10">&nbsp;&nbsp;&nbsp;</td>
-<td width="470">
-<table border="0" width="470">
-<tbody><tr valign="TOP">
-<td width="470">
-<p></p><hr size="1" color="#CC9900" noshade="">
-<font size="+1" face="Arial,Helvetica"><b>GM ONLINE PRIVACY PRINCIPLES</b></font>
-<p>
-
-You don't want your personal information to fall into the wrong hands.  Neither does General Motors. </p><p>
-
-When you visit one of the General Motors web sites, we may collect and store information about your visit on an <b>anonymous</b>, aggregate basis. This information may include the time and length of your visit, the pages you look at on our sites, and the site you visited just before coming to ours. We may also record the name of your Internet service provider. We use this information only to measure site activity and to develop ideas for improving our sites.</p><p>
-
-There are also several opportunities on our web sites for you to provide us with information about you and your interests, such as your name, mailing address and e-mail address. If you choose to share any personal information with us, we may store it and use it for marketing research and other marketing purposes, which may include sharing it with other companies in the General Motors family and our business partners. We will never sell your information to any other company.
-</p><p>
-You should be aware that when you voluntarily disclose personal information in public areas of our web sites, such as chat rooms or bulletin boards, this information may be seen and used by others.  We urge you to exercise good judgement when sharing personal information in these forums.
-</p><p>
-Some of our web sites may make use of "cookie" technology to measure site activity and to customize information to your personal tastes.  A cookie is an element of data that a Web site can send to your browser, which may then store the cookie on your hard drive.  So, when you come back to visit us again, we can tailor information to suit your individual preferences.  The goal is to save you time and provide you with a more meaningful visit.
-</p><p>
-You take online privacy seriously, and so does General Motors.  It's our way of sustaining your trust in General Motors and our products and services.
-</p><p>
-<font size="-1">General Motors reserves the right to alter our privacy principles as business needs require. Any alterations to these principles will be posted on our web sites in a timely manner. Applicable to U.S.-based divisions.</font>
-</p></td>
-</tr>
-</tbody></table><p>
-</p><p>
-<nobr>
-<applet code="Stock.class" codebase="/stock/" width="150" height="16">
-<param name="file" value="text">
-<param name="bgcolor" value="000000">
-<param name="fgcolor" value="FFFFFF">
-<param name="fontname" value="TIMES">
-<param name="fontsize" value="10">
-<param name="interval" value="300">
-<param name="pad" value="3">
-<param name="urlname" value="/about/investor">
-<b><font size="-1">GM Stock*:  68 15/16
-</font></b> <br> 
-</applet><img src="/images/toolbar.gif" border="0" usemap="#toolbar">
-</nobr>
-<br>
-<map name="toolbar">
-<area shape="rect" coords="0,0,76,15" href="/tools/sitemap.html" target="_top">
-<area shape="rect" coords="78,0,145,15" href="/tools/search.html" target="_top">
-<area shape="rect" coords="147,2,230,15" href="/tools/webtools.html" target="_top">
-<area shape="rect" coords="233,1,309,13" href="/tools/feedback.html" target="_top">
-<area shape="default" nohref="">
-</map>
-<font size="-2">* Updated every 20 minutes from a source other than General Motors. <br> Copyright ©1997,1998 General Motors Corporation. Complete <a href="#" onclick="writestock()" target="_top">stock</a>, <a href="/tools/legal.html" target="_top">copyright and trademark</a>, <a href="/tools/privacy.html">privacy</a><br>information including photographs used with the permission of the General Motors Media Archives.</font>
-
-</p></td>
-</tr>
+<!-- start footer -->
+<style type="text/css">
+.footerNav {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color : #353535;font-weight : 100;}
+a.footerNav:link{font-family: Arial, Helvetica, sans-serif;font-size: 11px;text-decoration: none;color : #353535;font-weight : 100;}
+a.footerNav:visited{font-family: Arial, Helvetica, sans-serif;font-size: 11px;text-decoration: none;color : #353535;font-weight : 100;}
+a.footerNav:hover{font-family: Arial, Helvetica, sans-serif;font-size: 11px;text-decoration: underline;color : #353535;font-weight : 100;}
+</style>
+<table border="0" cellpadding="0" cellspacing="0" width="770" class="footerNav">
+	<tbody><tr>
+		<td colspan="4"><img src="/images/baby_blue_bottom.gif" width="770" height="7" alt="" border="0"></td>
+	</tr>
+	<tr bgcolor="#CCCCCC">
+		<td><img src="/images/clear.gif" width="7" height="22" alt="" border="0"></td>
+		<td valign="middle">
+			<a href="/gmcomjsp/contactus/" class="footerNav">Contact Us</a> | 
+			<a href="/privacy/" class="footerNav">Privacy</a> | 
+			<a href="/sitemap/" class="footerNav">Sitemap</a> | 
+			<a href="/Scripts/SearchServer.exe?method=mainQueryInput" class="footerNav">Search</a>
+		</td>
+		<td align="right"><a href="/copyright/" class="footerNav">Copyright © 2004 General Motors Corporation</a></td>
+		<td><img src="/images/clear.gif" width="7" height="22" alt="" border="0"></td>
+	</tr>
 </tbody></table>
+<!-- end footer -->
 
 
-
-</p></body></html>
+</body></html>
