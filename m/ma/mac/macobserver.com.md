@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the macobserver.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204081131id_/http%3A//www.macobserver.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macobserver.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205145240id_/http%3A//www.macobserver.com/privacy.shtml) for the most accurate reproduction.*
 
 # TMO Privacy Policy
-
-The Mac Observer has been designed with standards-compliant, visual browsers in mind. However, it will function in any browser.
 
 ## TMO Privacy Policy:
 
@@ -39,39 +37,23 @@ If you have any questions about this privacy statement, the practices of this si
 The Mac Observer, Inc.   
 
 
-## Today's Headlines - Friday, December 3rd, 2004
+## Today's Headlines - Friday, February 4th, 2005
 
-5:00 PM
-    DV Dailies - [GenArts Drops Price on Sapphire for Shake Permanently](https://web.archive.org/dvdailies/2004/12/03.1.shtml)
-**4:15 PM**
- ****    **Frameline -[DVD Studio Pro: Creating a First-Play DVD Without Stress](https://web.archive.org/columns/frameline/2004/20041203.shtml)**
-3:30 PM
-    DV Dailies - [Boris FX Ships Continuum Complete 3.02](https://web.archive.org/dvdailies/2004/12/03.2.shtml)
-**3:00 PM**
- ****    **TMO Reports -[2004 Profit Would Have Been Cut 38% by Options, Apple Admits](https://web.archive.org/article/2004/12/03.11.shtml)**
-2:15 PM
-    [XtremeMac Releases iPod Audio Splitter](https://web.archive.org/article/2004/12/03.10.shtml)
-1:30 PM
-    [Oops: Make That 4 Million Spams a *Year* for Bill Gates](https://web.archive.org/article/2004/12/03.9.shtml)
-12:45 PM
-    [Apple Hot Deals Update: Books, Games, Cameras, More](https://web.archive.org/article/2004/12/03.8.shtml)
+**5:10 PM**
+ ****    **Frameline -[Livetype Tips For First Time Users](https://web.archive.org/columns/frameline/2005/20050204.shtml)**
+**3:20 PM**
+ ****    **First on TMO -[View Pepsi's Second Super Bowl iTunes Commercial HERE!](https://web.archive.org/article/2005/02/04.4.shtml)**
+2:00 PM
+    [PodBuddy Introduces shuffle Accessory Clips](https://web.archive.org/article/2005/02/04.3.shtml)
+1:00 PM
+    DV Dailies - [Boris FX Updates Continuum Complete With Motion Support](https://web.archive.org/dvdailies/2005/02/04.2.shtml)
 12:00 PM
-    TMO's DealsOnTheWeb.com - [eMac G4/1.25GHz Superdrive: $799 Shipped](http://www.dealsontheweb.com/deal/26001)
-10:00 AM
-    [Needham's Wolf: Apple Stock a "Hold"; Targets $70](https://web.archive.org/article/2004/12/03.7.shtml)
-8:30 AM
-    [EU Commission to Rule on iTunes UK Pricing](https://web.archive.org/article/2004/12/03.6.shtml)
-8:00 AM
-    [Report: IBM's PC Business Up for Sale](https://web.archive.org/article/2004/12/03.5.shtml)
-7:30 AM
-    [New Freeware App Lists A Directory's Content](https://web.archive.org/article/2004/12/03.2.shtml)
-**7:00 AM**
- ****    **TMO Reports -[Apple Annual Report: iPod Strong; Education Sales a Major Concern (UPDATED)](https://web.archive.org/article/2004/12/03.4.shtml)**
-6:00 AM
-    Thursday's Late News - [New Mac OS X Security Update; Significant Safari Fixes Included](http://www.macobserver.com/article/2004/12/02.5.shtml)
-5:00 AM
-    [Sonnet Intros New Serial ATA PCI-X Card](https://web.archive.org/article/2004/12/03.3.shtml)
-3:00 AM
-    [eWeek Looks Back At Apple's Thriving 2004](https://web.archive.org/article/2004/12/03.1.shtml)
+    DV Dailies - [Digital Film Tools Releases New Effects Plug-In For FCP](https://web.archive.org/dvdailies/2005/02/04.1.shtml)
+11:10 AM
+    TMO's DealsOnTheWeb.com - [Sharp 17" LCD Display w/ Speakers: $269.99 Shipped](http://www.dealsontheweb.com/deal/27960)
+7:15 AM
+    [BW: Apple Stock Past its High Prime](https://web.archive.org/article/2005/02/04.2.shtml)
+4:15 AM
+    [SpiderWorks Publishes OS X AppleScript Handbook Re-Write](https://web.archive.org/article/2005/02/04.1.shtml)
 
 ### The Mac Observer Reader Specials
