@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webshots.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402154333id_/http%3A//www.webshots.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webshots.com privacy policy that was archived on 2002-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021113155430id_/http%3A//www.webshots.com/html/privacy.html) for the most accurate reproduction.*
 
 # Webshots Customer Information Privacy Policy
 
