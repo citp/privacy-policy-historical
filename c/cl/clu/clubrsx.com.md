@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208041008id_/http%3A//corp.clubrsx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402213624id_/http%3A//corp.clubrsx.com/privacy.html) for the most accurate reproduction.*
 
 # Club RSX | Corporate | Privacy Policy
 
