@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603000341id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205033857id_/http%3A//www.interapptive.com/privacystatement.html) for the most accurate reproduction.*
 
 # Powerful UPS and USPS Shipping Software for Miva Merchant
 
@@ -10,4 +10,4 @@ Interapptive uses industry-standard encryption technologies when transferring an
 
 Interapptive has appropriate security measures in place to protect against the loss, misuse or alteration of information that we have gathered from you or from our site so you can feel comfortable and secure.
 
-If you have any questions regarding this policy, please [contact us](https://web.archive.org/web/20040603000341id_/http%3A//www.interapptive.com/company/contact.html).
+If you have any questions regarding this policy, please [contact us](https://web.archive.org/web/20041205033857id_/http%3A//www.interapptive.com/company/contact.html).
