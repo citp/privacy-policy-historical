@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ssactivewear.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202151222id_/http%3A//www.ssactivewear.com/SSActivewearPrivacyNotice.cfm%23Session.AddToken%23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssactivewear.com privacy policy that was archived on 2004-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040415153230id_/http%3A//ssactivewear.com/SSActivewearPrivacyNotice.cfm%23Token1%23) for the most accurate reproduction.*
 
-# S&S Activewear Privacy Notice
+# S&S Activewear
+
+**S &S Activewear Website Privacy Notice**
 
 S&S Activewear knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting www.ssactivewear.com, you are accepting the practices described in this Privacy Notice.**
 
