@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215001559id_/http%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162653id_/http%3A//www.whitehouse.gov/privacy.html) for the most accurate reproduction.*
 
-# White House Website Privacy Policy
+# White House Website Privacy and Security Policy
 
   
 
 
-**White House Website Privacy Policy**
+**White House Website Privacy and Security Policy**
 
 [En Español](https://web.archive.org/privacy.es.html)
 
 Thank you for visiting the White House Website and reviewing our privacy policy. Our privacy policy is clear: We will collect **no** personal information about you when you visit our website unless you choose to provide that information to us.  
 Here is how we handle information about your visit to our website: 
+
+**White House Internet Security Policy**
+
+For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 
 **Information Collected and Stored Automatically**
 
