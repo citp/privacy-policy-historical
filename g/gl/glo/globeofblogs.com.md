@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610143501id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206085633id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs ::: Privacy Policy
 
-****
+### Random Weblog
+
+[Mover Mike](http://movermike.blogspot.com/) ::: Mike is a retired stock broker, and now supports his wife's furniture business. He is her warehouseman, deluxer, and marketing guru. In addition, he writes poetry and finds abundance, health and joy in the world around him while pondering life's little mysteries  
+
 
 ## Statement of Policy
 
@@ -67,5 +70,3 @@ If Globe of Blogs should at some point in the future become a directory where us
 
 Copyright © 2001-2004 H.R., J.M. Dodd, Globe of Blogs. All rights reserved.  
 
-
-****
