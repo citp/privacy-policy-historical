@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s2ki.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195004id_/http%3A//www.s2ki.com/article/articleview/104/1/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s2ki.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401165745id_/http%3A//www.s2ki.com/article/articleview/104/1/7) for the most accurate reproduction.*
 
 # S2000 International - Privacy Policy
 
