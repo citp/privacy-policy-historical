@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208185057id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlive.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620052956id_/http%3A//www.mlive.com/privacypolicy) for the most accurate reproduction.*
 
 # MLive.com: Privacy Policy
 
@@ -27,7 +27,7 @@ It is the goal of **MLIVE.COM** to bring you information that is tailored to you
 
 **MLIVE.COM** uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
 
-**MLIVE.COM** does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [feedback@mlive.com](mailto:feedback@mlive.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of MLive.com, you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
+**MLIVE.COM** does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, please [contact us](https://web.archive.org/contactus/). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of MLive.com, you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
 
 We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While **MLIVE.COM** will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, **MLIVE.COM** does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose.
 
@@ -53,7 +53,7 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at [feedback@mlive.com](mailto:feedback@mlive.com).
+If you're worried about your children's activities or their privacy on our site, we encourage you to please [click here to contact our Privacy Policy Coordinator](https://web.archive.org/contactus/).
 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address: 
 
@@ -70,7 +70,7 @@ Ann Arbor, MI 48104
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads6.advance.net/RealMedia/ads/click_lx.ads/www.mlive.com/privacypolicy/index.ssf/NQS/2035516491/Tile1/MICHIGANLIVE/MI_TRUENORTH/truenorth_supertile.gif/64316564656561353364663339343930)  
+[](http://ads2.advance.net/RealMedia/ads/click_lx.ads/www.mlive.com/privacypolicy/index.ssf/NQS/1097216102/Tile1/MICHIGANLIVE/AV_JOBS_MI01/190_240_copy1_mi11.gif/64316564656561663365663239626430)  
   
   
 
