@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218054422id_/http%3A//www.vmware.com/vmwarestore/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610025449id_/http%3A//www.vmware.com/vmwarestore/privacy.html) for the most accurate reproduction.*
 
-# VMware's privacy Policy
+# VMware's Privacy Policy
 
-**Our postal address is:**   
-3145 Porter Drive, bldg F  
-Palo Alto, CA 94304 
-
-**You can reach us by:**  
+|  |   | VMware Store Policies  
+[Overview](https://web.archive.org/vmwarestore/storepolicy.html)  |  [Secure Transactions](https://web.archive.org/vmwarestore/safety.html)  |  **Privacy** **Our postal address is:**   
+3145 Porter Drive  
+Palo Alto, CA 94304 **You can reach us by:**  
 Phone: 1-877-4VMWARE (650-475-5000 outside the U.S.)  
-Email: [privacy@vmware.com](mailto:privacy@vmware.com)
-
-This privacy policy will let you know 
+Email: [privacy@vmware.com](mailto:privacy@vmware.com) This privacy policy will let you know 
 
   * What personal information is collected from you
   * What cookies are and how they are used
@@ -20,63 +17,18 @@ This privacy policy will let you know
   * How VMware protects your information
   * About privacy on VMware's newgroups
 
-
-
-  
-**What personal information does VMware collect from me?**   
-VMware collects information in several ways from different parts of our Web site. 
-
-During registration, VMware asks for your name and email address. 
-
-Our site uses an order form for customers to request information, products, and services. We collect visitors' contact information and financial information. Contact information from the order form is used to send orders to our customers. Financial information that is collected is used to bill the user for products and services. If you contact VMware we may keep a record of that correspondence. VMware also occasionally asks users to complete surveys that we use for research purposes. 
-
-Please be aware that VMware partners or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those Web sites linked to VMware are not covered by this privacy statement. 
-
-  
-**What are cookies and how does VMware use them?**   
-VMware uses [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All areas of the VMware site where you are prompted to log in or that are customizable require that you accept cookies. (See "What are my choices regarding collection, use and distribution of my information?" for more information on cookies.) 
-
-Generally, we use cookies to 
+**What personal information does VMware collect from me?**  
+VMware collects information in several ways from different parts of our Web site. During registration, VMware asks for your name and email address. Our site uses an order form for customers to request information, products, and services. We collect visitors' contact information and financial information. Contact information from the order form is used to send orders to our customers. Financial information that is collected is used to bill the user for products and services. If you contact VMware we may keep a record of that correspondence. VMware also occasionally asks users to complete surveys that we use for research purposes. Please be aware that VMware partners or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those Web sites linked to VMware are not covered by this privacy statement. **What are cookies and how does VMware use them?**  
+VMware uses [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All areas of the VMware site where you are prompted to log in or that are customizable require that you accept cookies. (See "What are my choices regarding collection, use and distribution of my information?" for more information on cookies.) Generally, we use cookies to: 
 
   * Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or sign in and is modified when you sign out of our site. 
   * Measure certain traffic patterns, which areas of VMware's Web site you have visited, and your visiting patterns in the aggregate. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our site. 
 
-
-
-VMware also collects [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration. 
-
-  
-**How does VMware use my information?**   
-VMware uses registration information to maintain customer records and to make using and buying from the VMware Store easier. 
-
-VMware does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files, or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. 
-
-  
-**With whom does VMware share my information?**   
-VMware will not disclose any of your personally identifiable information except when we have your permission. 
-
-  
-**What are my choices regarding collection, use, and distribution of my information?**   
-VMware may, from time to time, send you email regarding our products and services. Only VMware (or agents working on behalf of VMware and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time, you can easily edit your [VMware account information](https://web.archive.org/forms/Profile.cfm) to no longer receive such offers and mailings. You will need your VMware ID and password in order to access your [VMware account information](https://web.archive.org/forms/Profile.cfm). 
-
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. 
-
-VMware does not sell or rent user information to anyone. However, if we have your prior permission, we may on occaision allow selected partners to send you special offers in blind mailings. 
-
-  
-**What is VMware's policy on allowing me to update, correct, or delete my personally identifiable information?**   
-You may edit your [VMware account information](https://web.archive.org/forms/Profile.cfm)  at any time by using your VMware ID and password. If you have forgotten your password, please [click here to request a new password](https://web.archive.org/forms/ForgotPassword.cfm). 
-
-If you are participating in a VMware promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact [webmaster@vmware.com](mailto:webmaster@vmware.com). 
-
-  
-**How does VMware protect my information?**   
-Keeping your information private is very important to us. As with all information, VMware will never rent or sell your information. However, if we have your prior permission, we may on occasion allow selected partners to send you special offers in blind mailings. 
-
-Any user statistics that we may provide partners regarding product or service usage on VMware are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
-
-Please note that there are several places on the VMware Web site where you can transmit credit card information in order to complete a purchase transaction or for verification purposes. By default, any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. If you are not able to use SSL encryption, VMware offers you the option of providing this information in other ways, including by fax and over a non-secure Web connection. 
-
-  
-**How can I protect my privacy on the VMware newsgroups?**   
-VMware makes [newsgroups](https://web.archive.org/support/using/newsgroups.html) available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. VMware may, from time to time, send email regarding our products and services to users who have posted to our newsgroups. 
+VMware also collects [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration. **How does VMware use my information?**  
+VMware uses registration information to maintain customer records and to make using and buying from the VMware Store easier. VMware does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files, or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. **With whom does VMware share my information?**  
+VMware will not disclose any of your personally identifiable information except when we have your permission. **What are my choices regarding collection, use, and distribution of my information?**  
+VMware may, from time to time, send you email regarding our products and services. Only VMware (or agents working on behalf of VMware and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time, you can easily edit your [VMware account information](https://web.archive.org/forms/Profile.cfm) to no longer receive such offers and mailings. You will need your VMware ID and password in order to access your [VMware account information](https://web.archive.org/forms/Profile.cfm). You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. VMware does not sell or rent user information to anyone. However, if we have your prior permission, we may on occaision allow selected partners to send you special offers in blind mailings. **What is VMware's policy on allowing me to update, correct, or delete my personally identifiable information?**  
+You may edit your [VMware account information](https://web.archive.org/forms/Profile.cfm)  at any time by using your VMware ID and password. If you have forgotten your password, please [click here to request a new password](https://web.archive.org/forms/ForgotPassword.cfm). If you are participating in a VMware promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact [webmaster@vmware.com](mailto:webmaster@vmware.com). **How does VMware protect my information?**  
+Keeping your information private is very important to us. As with all information, VMware will never rent or sell your information. However, if we have your prior permission, we may on occasion allow selected partners to send you special offers in blind mailings. Any user statistics that we may provide partners regarding product or service usage on VMware are provided in the aggregate only and do not include any personally identifiable information about any individual user. Please note that there are several places on the VMware Web site where you can transmit credit card information in order to complete a purchase transaction or for verification purposes. By default, any time we ask for a credit card number we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption. If you are not able to use SSL encryption, VMware offers you the option of providing this information in other ways, including by fax and over a non-secure Web connection. **How can I protect my privacy on the VMware newsgroups?**  
+VMware makes [newsgroups](https://web.archive.org/support/using/newsgroups.html) available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. VMware may, from time to time, send email regarding our products and services to users who have posted to our newsgroups.   
+---|---
