@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vgmusic.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204053728id_/http%3A//www.vgmusic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgmusic.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306124931id_/http%3A//www.vgmusic.com/privacy.php) for the most accurate reproduction.*
 
 # VGMusic.com - Privacy Policy
 
-[](http://www.vgmusic.com/phpAdsNew-rc2/adclick.php?n=aabe00e1)
+[](http://www.vgmusic.com/adserver/adclick.php?n=aabe00e1)
 
 [](https://web.archive.org/)
 
@@ -37,4 +37,4 @@ Advertising is now provided by us for third parties.
 
 * * *
 
-Copyright © 1997-2004 Videogame Music Archive ([VGMusic.com](http://www.vgmusic.com/))
+Copyright © 1997-2005 Videogame Music Archive ([VGMusic.com](http://www.vgmusic.com/))
