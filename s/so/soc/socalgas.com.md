@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216185025id_/http%3A//socalgas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205141432id_/http%3A//www.socalgas.com/privacy.shtml) for the most accurate reproduction.*
 
 # SoCalGas - Welcome to Southern California Gas Company Home Page
 
+  
 Thank you for visiting SoCalGas' web site. We are committed to protecting the reasonable expectations of privacy of the visitors to our web site. 
 
 **Traffic Data**  
