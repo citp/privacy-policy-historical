@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622080808id_/http%3A//www.gmu.edu/mlnavbar/webdev/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2004-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/privacy) for the most accurate reproduction.*
 
 # Web Development -- Privacy - George Mason University
 
-**  
-** **Internet Privacy Statement**
+[](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/index.html)
 
-The following information explains the Internet Privacy Policy which George Mason has adopted for its website (web pages at addresses beginning with "http://www.gmu.edu"). The following is intended to explain our current Internet privacy practices but shall not be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy Statement at any time without notice. 
+##  Internet Privacy Statement
 
-**Virginia Law**
+The following information explains the Internet Privacy Policy which George Mason has adopted for its website (web pages at addresses beginning with "http://www.gmu.edu"). The following is intended to explain our current Internet privacy practices but shall not[](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/index.html) be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy Statement at any time without notice. 
+
+##  Virginia Law
 
 We protect our records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom of Information Act, and by any applicable U.S. federal laws. 
 
-**Links to Other Web Sites**
+##  Links to Other Web Sites
 
 Our website includes links to external sites. George Mason is not responsible for the privacy practices of these outside sites. Although these sites have been evaluated, it is recommended that users read the individual policy statements of each website when they leave a George Mason University server. 
 
-**Information We Collect**
+##  Information We Collect
 
 When you access our website, the routing, or client, information and the essential and nonessential technical information listed below is automatically collected. No other information is collected through our website except when you deliberately decide to send it to us (for example, by clicking on a link to send us an email). The information you might choose to send us is listed below as "optional information." George Mason bears no responsibility for material presented that is unrelated to the University's mission. 
 
@@ -27,7 +28,7 @@ When you access our website, the routing, or client, information and the essenti
 
 
 
-**How the Collected Information is Used**
+##  How the Collected Information is Used
 
 Routing information is used to route the requested web page to your computer for viewing. We send the requested web page and the routing information to our Internet service provider or other entities involved in transmitting the requested page to you. We do not control the privacy practices of those entities. Essential and nonessential technical information helps us respond to your request in an appropriate format [or in a personalized manner] and helps us plan website improvements. 
 
@@ -39,19 +40,55 @@ Optional information is retained in accordance with the records retention schedu
 
 Under the Virginia Freedom of Information Act, any records in our possession at the time of a Freedom Of Information Request might be subject to being inspected by or disclosed to members of the public. However, all identifiable confidential/personal information will be removed prior to releasing the routing information. 
 
-**Choice to Provide Information**
+##  Choice to Provide Information
 
 There is no legal requirement for you to provide any information at our website. However, our website will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of our website, but may prevent certain features from working Failure to provide optional information will mean that the particular feature or service associated with that part of the web page will not be available to you. 
 
-**Customer Comments or Review**
+##  Customer Comments or Review
 
 If you have questions about this privacy statement or the practices of this website or if you choose to review or correct any information you previously submitted, please contact the George Mason University Webmaster at [webmaster@gmu.edu](mailto:webmaster@gmu.edu). 
 
-**Related Links:**
+##  Related Links:
 
 [Battening down the Hatches](http://www.gmu.edu/srp/isptf/local/ispreport.pdf): Report of the GMU Task Force on Information Security and Privacy. 
 
 Commonwealth of Virginia: [Internet Web Page Privacy Statement Guidelines](http://state.vipnet.org/cts/papers/covitrmguide.pdf). 
 
-Updated November 12, 2003  
-Mason Web Team
+|  | 
+
+[](http://www.gmu.edu/) |   
+---  
+|  | 
+
+**  
+Web Site Design and Resources**
+
+  * [Web Identity Guide](http://logo.gmu.edu/webguide)   
+(includes logos & templates)
+  * [Design Tips ](http://designtips.html/)
+  * [Outside Mason Web Resources](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/resources.html)
+  * [Search Engine Meta Tags](http://www.gmu.edu:8765/help/meta.html)
+  * [Web Design Basics ](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/designbasics.html)
+  * [Accessible Design](http://www.gmu.edu/accessibility)
+  * [Universal Access Validator](http://condor.gmu.edu/validator)
+  * [Servers Available](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/servers.html)
+  * [Vendor Information](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/vendorinfo.html)
+
+
+
+**Statements, Policies and Disclosures**
+
+  * [Mission Statement](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/missionstmt.html)
+  * [Mason Web Procedures](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/procedures)
+  * [Accessibility](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/accessibility.html)
+  * [Copyright](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/copyright.html)
+  * [Disclaimer](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/disclaimer.html)
+  * Internet Privacy 
+  * [Responsible Use of Computing](http://www.gmu.edu/facstaff/policy/newpolicy/1301gen.html)
+  * [VA's Internet and Systems Policy](http://itu.gmu.edu/internetpolicy.htm)
+  * [Student Information Disclosure](https://web.archive.org/web/20041124094250id_/http%3A//www.gmu.edu/mlnavbar/webdev/sisdisclose.html)
+
+
+
+Mason Web Team  
+_Site Update 7/24/04_
