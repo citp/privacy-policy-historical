@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornlib.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405211509id_/http%3A//pornlib.com/links.php%3Faction%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornlib.com privacy policy that was archived on 2001-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011130082617id_/http%3A//pornlib.com/links.php%3Faction%3Dpp) for the most accurate reproduction.*
 
 # Pornlib - Privacy Policy
 
@@ -25,5 +25,5 @@ Please note that the Pornlib.com site contains links to other Web sites. We are 
 
 Pornlib.com reserves the right to update this policy at any time.
 
-[New Links](https://web.archive.org/web/20010405211509id_/http%3A//pornlib.com/links.php?action=newlinks) | [Popular Links](https://web.archive.org/web/20010405211509id_/http%3A//pornlib.com/links.php?action=popular) | [Top Rated](https://web.archive.org/web/20010405211509id_/http%3A//pornlib.com/links.php?action=rated) | [Home](https://web.archive.org/web/20010405211509id_/http%3A//pornlib.com/links.php) | Powered by [sslinks](http://www.tfc-central.co.uk/sslinks/) v1.1  
-[Privacy Policy](https://web.archive.org/web/20010405211509id_/http%3A//pornlib.com/links.php?action=pp) | [Terms of use](https://web.archive.org/web/20010405211509id_/http%3A//pornlib.com/links.php?action=tm) | [Contact](mailto:info@pornlib.com)
+[New Links](https://web.archive.org/web/20011130082617id_/http%3A//pornlib.com/links.php?action=newlinks) | [Popular Links](https://web.archive.org/web/20011130082617id_/http%3A//pornlib.com/links.php?action=popular) | [Top Rated](https://web.archive.org/web/20011130082617id_/http%3A//pornlib.com/links.php?action=rated) | [Home](https://web.archive.org/web/20011130082617id_/http%3A//pornlib.com/links.php) | Powered by [sslinks](http://www.tfc-central.co.uk/sslinks/) v1.1  
+[Privacy Policy](https://web.archive.org/web/20011130082617id_/http%3A//pornlib.com/links.php?action=pp) | [Terms of use](https://web.archive.org/web/20011130082617id_/http%3A//pornlib.com/links.php?action=tm) | [Contact](mailto:info@pornlib.com)
