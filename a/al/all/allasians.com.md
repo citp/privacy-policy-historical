@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allasians.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216210700id_/http%3A//www.webzotic.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allasians.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616153415id_/http%3A//www.webzotic.com/policy.html) for the most accurate reproduction.*
 
 # WebZotic - Privacy Policy
 
@@ -10,7 +10,7 @@ WebZotic Inc.
 Los Angeles, CA 90039-2520  
 U.S.A.
 
-We can be reached via e-mail by going [here](https://web.archive.org/web/20001216210700id_/http%3A//www.webzotic.com/mailform.html)
+We can be reached via e-mail by going [here](https://web.archive.org/web/20010616153415id_/http%3A//www.webzotic.com/mail.html)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
