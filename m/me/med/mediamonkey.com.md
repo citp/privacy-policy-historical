@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediamonkey.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221436id_/http%3A//www.mediamonkey.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamonkey.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113754id_/http%3A//www.mediamonkey.com/privacy.htm) for the most accurate reproduction.*
 
 # MediaMonkey Privacy Policy
 
@@ -8,4 +8,4 @@ We store the e-mail addresses of those who sign up as members of our Forum or th
 
 This site's store is run on SWREG's transaction processing site. This store collects personal information for transactional purposes. See [SWREG's Privacy Policy](http://www.swreg.org/pages/privacy.html) for a complete explanation of how any personal information is handled. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the [MediaMonkey webmaster](mailto:webmaster@mediamonkey.com)
+If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, you can contact the [MediaMonkey webmaster](mailto:webmaster@mediamonkey.com)
