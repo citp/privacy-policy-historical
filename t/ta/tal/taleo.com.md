@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804174200id_/http%3A//www.taleo.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161918id_/http%3A//www.taleo.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@
 
 Effective on: July 1, 2004 
 
-Taleo Corporation and its affiliated companies (“Taleo”) provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information online. Taleo also has a separate privacy statement that applies to certain personal data that Taleo receives in the United States from the European Union, called the [EU Safe Harbor Privacy Statement](https://web.archive.org/web/20040804174200id_/http%3A//www.taleo.com/en/privacy_EUSafe.html).
+Taleo Corporation and its affiliated companies (“Taleo”) provides this Web Site Privacy Statement to explain how we collect, use, and disclose certain personal information online. Taleo also has a separate privacy statement that applies to certain personal data that Taleo receives in the United States from the European Union, called the [EU Safe Harbor Privacy Statement](https://web.archive.org/web/20050403161918id_/http%3A//www.taleo.com/en/privacy_EUSafe.html).
 
 This Web Site Privacy Statement discloses the privacy practices for www.Taleo.com, and www.ilogos.com. Taleo Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Taleo wants to demonstrate its commitment to your privacy, it discloses its website information practices (set forth below) and permits TRUSTe to review its website privacy practices. This Website Privacy Statement notifies you of:
 
@@ -69,13 +69,13 @@ The kind of security procedures that are in place to protect against the loss, m
 
 How you can correct any inaccuracies in the information.  
   
-If you have questions or concerns regarding this Web Site Privacy Statement, you should first contact [WebSite-Feedback@Taleo.com](mailto:WebSite-Feedback@taleo.com) by email. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through its [Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this Web Site Privacy Statement, you should first contact [WebSite-Feedback@Taleo.com](mailto:WebSite-Feedback@taleo.com) by email. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through its [Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
   
 **How Personal Information is Collected and Used**  
 Generally, you can visit Taleo on the Web without telling us who you are or revealing any personally identifiable information about yourself. We collect no such information about you when you visit our sites, unless you choose to provide that information to us.
 
-The types of Personal Information we may collect about you through our sites include contact and identifying information (name, address, email address, phone and fax numbers, institution, title or job position), information about your interest in Taleo products or services, information about your interest in newsletters, seminars, or other services that we provide (solely or jointly with others), information provided in connection with the registration of your organization for certain solutions (such as “Workforce OnDemand”), information about other transactions that you or your organization may enter with Taleo, and any other Personal Information that you may provide to us in an online form or through an email.
+The types of Personal Information we may collect about you through our sites include contact and identifying information (name, address, email address, phone and fax numbers, institution, title or job position), information about your interest in Taleo products or services, information about your interest in newsletters, seminars, or other services that we provide (solely or jointly with others), information provided in connection with the registration of your organization for certain solutions (such as “Taleo Contingent”), information about other transactions that you or your organization may enter with Taleo, and any other Personal Information that you may provide to us in an online form or through an email.
 
 Where we collect Personal Information through online forms, we will notify you of which fields are mandatory for the particular service or functionality you are requesting (i.e., through the use of an asterisk (*) next to such mandatory field), and which fields are optional. If you choose to provide information that is optional, we may use and disclose such information for the purposes described below.
 
@@ -141,6 +141,6 @@ Fax: 1.866.507.5966
 
 Email: [Taleo Privacy Office](mailto:shardaway@taleo.com?subject=Taleo%20Privacy%20Office "Taleo Privacy Office")
 
-[](https://www.truste.org/validate/7675)
+[](http://www.truste.org/ivalidate.php?url=www.taleo.com&sealid=101)
 
 | 
