@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the virgin.net privacy policy that was archived on 2000-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000620144629id_/http%3A//virgin.net/terms/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virgin.net privacy policy that was archived on 2000-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001203220900id_/http%3A//www.virgin.net/terms/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Virgin Net - Terms &amp; conditions</title>
 <script>window.defaultStatus="Virgin Net"</script>
 <script language="JavaScript">
+
 
 <!--
 function getObj(frm, nme)
@@ -23,7 +24,53 @@ var obj=getObj(frm,"listname");
 top.location.href=obj.options[obj.selectedIndex].value;
 return true;
 }
+/*
+var cookie = getCookie("DCM");
+if (cookie != null) {
+	var nS = cookie.substring(18,30);
+	var sIP = cookie.substring(2,6);
+	
+	//get current time - getTime() returns milliseconds
+	var exp = new Date();
+	var now = exp.getTime()/1000;
+	
+	if ( (document.cookie.indexOf("FIRMp3545833p=true")==-1) && (Math.random() > 0.66) ) {
+		// start
+		var expDays = 180;
+		var exp = new Date();
+		exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+        document.cookie="FIRMp3545833p=true;path=/;Expires=" + exp.toString();
+		window.open("http://confirm.virgin.net/wi/p0096746/i.asp?url=" + document.location + "&cookie=" + cookie,"","height=400,width=620,scrollbars=yes,resizable=yes");
+		// end		
+	}
+	
+}
+*/
+//return the value of the cookie
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf (";", offset);
+	if (endstr == -1)
+		endstr = document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
+}
+//find the cookie(s)
+function getCookie (name) {
+	var arg = name + "=";
+	var argsLen = arg.length;
+	var cookieLen = document.cookie.length;
+	var i = 0;
+	while (i < cookieLen) {
+		var j = i + argsLen;
+		if (document.cookie.substring(i, j) == arg)
+			return getCookieVal (j);
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i == 0) break;
+	}
+	return null;
+}
+
 // -->
+
 
 </script>
 <meta name="description" content="Virgin Net members are asked to agree to a common sense group of Terms and Conditions for use of the service when they start. They know that both they and other members will all be asked to behave in a similar, friendly way while they are online.">
@@ -39,198 +86,188 @@ return true;
 </tr>
 <tr>
 <td valign="top" align="RIGHT">
-	<table width="102" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td bgcolor="#000000"><a href="/index.html" target="_top" onmouseover="self.status=&quot;Virgin Net home&quot;; return true"><img width="98" height="98" hspace="2" vspace="2" border="0" alt="Virgin Net" src="/pix/sq_logo.gif"></a></td>
-	</tr>
-	<tr>
-	<td bgcolor="#000000" align="CENTER" valign="TOP">
-		<table width="99%" border="0" cellspacing="1" cellpadding="3">
-		<tbody><tr>
-		<td bgcolor="#FF0000" valign="MIDDLE"><b><font face="arial, helvetica" color="#FFFFFF" size="-1">Terms &amp; conditions</font></b></td>
-		</tr>
-		<tr>
-		<td bgcolor="#FFFFFF" valign="TOP"><a href="/index.html" target="_top" name="Virgin Net Home" onmouseover="self.status='Virgin Net Home'; return true"><font size="-1" face="arial, helvetica" color="#FF0000"><b>Home</b></font></a></td>
-		</tr>
-		</tbody></table>
-	</td>
-	</tr>
-	<tr>
-	<td><img width="1" height="1" vspace="10" border="0" alt="" src="/pix/white_1x1.gif"></td>
-	</tr>
-	<tr>
-	<td bgcolor="#000000">
-		<table width="100%" border="0" cellspacing="1" cellpadding="1">
-		<form></form>
-		<tbody><tr>
-		<td bgcolor="#FFFFFF" align="left"><font size="-2" face="arial, helvetica" color="#FF0000"><b>Also on Virgin&nbsp;Net:</b></font></td>
-		</tr>
-		<tr>
-		<td bgcolor="#FFFFFF" align="center"><select size="1" name="listname" onchange="goUrl()">
-		<option selected="" value="returnvalue">Choose
-		</option><option value="http://www.virgin.net/cinema">Cinema
-		</option><option value="http://www.virgin.net/music">Music
-		</option><option value="http://www.virgin.net/travel">Travel
-		</option><option value="http://www.virgin.net/sport">Sport
-		</option><option value="http://www.virgin.net/daysout">Days out
-		</option><option value="http://www.virgin.net/theatre">Theatre
-		</option><option value="http://www.virgin.net/cards">Cards		
-		</option><option value="http://www.virgin.net/tv">TV
-		</option><option value="http://www.virgin.net/radio">Radio
-		</option><option value="http://www.virgin.net/games">Games
-		</option><option value="http://www.virgin.net/chat">Chat
-		</option><option value="http://www.virgin.net/discussion">Discuss	
-		</option><option value="http://www.virgin.net/search">Search
-		</option><option value="http://www.virgin.net/shopping">Shop
-		</option><option value="http://www.virgin.net/members">Member
-		</option><option value="http://www.virgin.net/members/help">Help
-		</option><option value="http://www.virgin.net/about">About us
-		</option></select></td>
-		</tr>
-		
-		</tbody></table>
-	</td>
-	</tr>
-	</tbody></table>
+        <table width="102" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+        <td bgcolor="#000000"><a href="/" target="_top" onmouseover="self.status=&quot;Virgin Net home&quot;; return true"><img width="98" height="98" hspace="2" vspace="2" border="0" alt="Virgin Net" src="/pix/sq_logo.gif"></a></td>
+        </tr>
+        <tr>
+        <td bgcolor="#000000" align="CENTER" valign="TOP">
+                <table width="99%" border="0" cellspacing="1" cellpadding="3">
+                <tbody><tr>
+                <td bgcolor="#FF0000" valign="MIDDLE"><b><font face="arial, helvetica" color="#FFFFFF" size="-1">Terms &amp; conditions</font></b></td>
+                </tr>
+                <tr>
+                <td bgcolor="#FFFFFF" valign="TOP"><a href="/" target="_top" name="Virgin Net Home" onmouseover="self.status='Virgin Net Home'; return true"><font size="-1" face="arial, helvetica" color="#FF0000"><b>Home</b></font></a></td>
+                </tr>
+                </tbody></table>
+        </td>
+        </tr>
+        <tr>
+        <td><img width="1" height="1" vspace="10" border="0" alt="" src="/pix/white_1x1.gif"></td>
+        </tr>
+        <tr>
+        <td bgcolor="#000000">
+                <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                <form></form>
+                <tbody><tr>
+                <td bgcolor="#FFFFFF" align="left"><font size="-2" face="arial, helvetica" color="#FF0000"><b>Also on Virgin&nbsp;Net:</b></font></td>
+                </tr>
+                <tr>
+                <td bgcolor="#FFFFFF" align="center"><select size="1" name="listname" onchange="goUrl()">
+                <option selected="" value="returnvalue">Choose
+                </option><option value="http://www.virgin.net/cinema">Cinema
+                </option><option value="http://www.virgin.net/music">Music
+                </option><option value="http://www.virgin.net/travel">Travel
+                </option><option value="http://www.virgin.net/sport">Sport
+                </option><option value="http://www.virgin.net/daysout">Days out
+                </option><option value="http://www.virgin.net/theatre">Theatre
+                </option><option value="http://www.virgin.net/cards">Cards               
+                </option><option value="http://www.virgin.net/tv">TV
+                </option><option value="http://www.virgin.net/radio">Radio
+                </option><option value="http://www.virgin.net/games">Games
+                </option><option value="http://www.virgin.net/chat">Chat
+                </option><option value="http://www.virgin.net/discussion">Discuss        
+                </option><option value="http://www.virgin.net/search">Search
+                </option><option value="http://www.virgin.net/shopping">Shop
+                </option><option value="http://www.virgin.net/members">Member
+                </option><option value="http://www.virgin.net/members/help">Help
+                </option><option value="http://www.virgin.net/about">About us
+                </option></select></td>
+                </tr>
+                
+                </tbody></table>
+        </td>
+        </tr>
+        </tbody></table>
 </td>
 
 <td valign="top">
-	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-	<td colspan="3" bgcolor="#000000">&nbsp;<font face="arial black, helvetica" color="#cccccc" size="+3">Terms &amp; conditions
-	</font>
-	</td>
-	</tr>
-	<tr>
-	<td colspan="3"><img height="1" width="1" vspace="3" alt="" src="/pix/white_1x1.gif"></td>
-	</tr>
-	</tbody></table>
-	
-	<table border="0" cellpadding="0" cellspacing="0" width="490">
-	<tbody><tr>
-	<td valign="TOP"><img height="1" width="1" hspace="5" vspace="4" alt="" src="/pix/white_1x1.gif"></td>
-	<td valign="TOP"><img height="1" width="1" hspace="172" alt="" src="/pix/white_1x1.gif"></td>
-	<td valign="TOP"><img height="1" width="1" hspace="6" alt="" src="/pix/white_1x1.gif"></td>
-	<td valign="TOP"><img height="1" width="1" hspace="65" alt="" src="/pix/white_1x1.gif"></td>
-	</tr>
-	
-	<tr>
-	<td rowspan="2"></td>
-	<td rowspan="2" valign="TOP">
-	
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-		<td valign="top"><img alt="" height="1" src="/pix/line.gif" width="342"></td>
-		</tr>
-		
-		<tr><td valign="top"><img alt="" height="1" src="/pix/white_1x1.gif" vspace="2" width="1"></td></tr>
-		
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr>
+        <td colspan="3" bgcolor="#000000">&nbsp;<font face="arial black, helvetica" color="#cccccc" size="+3">Terms &amp; conditions
+        </font>
+        </td>
+        </tr>
+        <tr>
+        <td colspan="3"><img height="1" width="1" vspace="3" alt="" src="/pix/white_1x1.gif"></td>
+        </tr>
+        </tbody></table>
+        
+        <table border="0" cellpadding="0" cellspacing="0" width="490">
+        <tbody><tr>
+        <td valign="TOP"><img height="1" width="1" hspace="5" vspace="4" alt="" src="/pix/white_1x1.gif"></td>
+        <td valign="TOP"><img height="1" width="1" hspace="172" alt="" src="/pix/white_1x1.gif"></td>
+        <td valign="TOP"><img height="1" width="1" hspace="6" alt="" src="/pix/white_1x1.gif"></td>
+        <td valign="TOP"><img height="1" width="1" hspace="65" alt="" src="/pix/white_1x1.gif"></td>
+        </tr>
+        
+        <tr>
+        <td rowspan="2"></td>
+        <td rowspan="2" valign="TOP">
+        
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr>
+                <td valign="top"><img alt="" height="1" src="/pix/line.gif" width="342"></td>
+                </tr>
+                
+                <tr><td valign="top"><img alt="" height="1" src="/pix/white_1x1.gif" vspace="2" width="1"></td></tr>
+ 
+ 
+ 
+ <tr>
+<td><font face="arial,helvetica" color="#ff0000"><b>Privacy policy for ISP</b></font></td></tr>
+
+
 
 <tr>
-<td><font face="arial,helvetica" color="#ff0000"><b>Virgin Net
-Privacy Policy</b></font></td></tr>
+<td><img height="1" width="1" src="/pix/white_1x1.gif" alt=""></td></tr>
+
+
+
+<tr>
+<td valign="top"><font face="arial,helvetica" size="-1">This is the Privacy Policy that you agreed to during ISP registration. If you have not registered for the ISP, please read the policy as it details the approach Virgin Net takes to the use of personal information from our ISP customers.</font></td>
+</tr>
+
+
+
+
+
+
+
+<tr>
+<td><img height="1" width="1" src="/pix/white_1x1.gif" alt="" vspace="5"></td></tr>
+
+
+
+<tr>
+<td valign="top"><font face="arial,helvetica" size="-1">At Virgin Net we use information collected online to develop and enhance the services we offer to you and to help us build our business. We take privacy issues seriously and are open about the way data is collected and used. This policy outlines the principles we follow. </font></td>
+</tr>
+
+
+
+
+
+
+
+<tr><td><img height="1" width="1" src="/pix/white_1x1.gif" alt="" vspace="5" border="0"></td></tr>
+
+<tr>
+<td><font face="arial,helvetica" color="#ff0000">What data is collected and how is it used? </font></td></tr>
 
 
 <tr>
 <td><img height="1" width="1" src="/pix/white_1x1.gif" alt=""></td></tr>
 
 <tr>
-<td valign="top"><font face="arial,helvetica">At Virgin Net, we are committed to protecting your privacy.  We use the information we collect about you to inform you of features, offers and competitions and to develop our service so that it meets our members' needs.</font></td>
+<td valign="top"><font face="arial,helvetica" size="-1"><ul><li>When you visit Virgin Net we issue a "cookie" or unique code that allows us to identify your computer. The cookie is used to note the different Virgin Net services recently accessed through your computer - this can only be done for Virgin Net and not on any other sites you might visit. Information collected this way is used to develop and manage our online services. 
+
+</li><li>The "cookie" contains no personally identifying information. However, when you register with the Virgin Net web site or subscribe to the ISP the "cookie" will be combined with the personal information that you have given as part of the registration.
+
+</li><li>When you register for Virgin Net, you need to choose a user name and password for authentication purposes. We also require an e-mail address. This may be used to send you information about your account and Virgin Net promotions. You may elect not to receive such promotions. 
+
+</li><li>We may occasionally ask our market research partners to contact you by telephone as part of a survey of our services. You will able to choose at the time whether or not you want to take part in that survey.
+
+</li><li>Should you choose our ISP service, we require your name, address, and telephone number for authentication purposes and to help prevent network abuse. The software disk supplied when you subscribe contains a unique code that helps us track which marketing campaigns work best.
+</li><li>Advertisers and advertising agencies that serve adverts onto Virgin Net may also attach their own cookies to your computer. If you want to find out about how these companies use these cookies, please refer to their own privacy policies found on their web sites.
+</li></ul>
+
+</font></td> 
 </tr>
 
 <tr><td><img height="1" width="1" src="/pix/white_1x1.gif" alt="" vspace="5" border="0"></td></tr>
 
 <tr>
-<td><font face="arial,helvetica" color="#ff0000">What information do we collect? How do we use it?</font></td></tr>
+<td><font face="arial,helvetica" color="#ff0000">Does Virgin Net disclose information it collects to Third Parties?</font></td></tr>
 
 
 <tr>
 <td><img height="1" width="1" src="/pix/white_1x1.gif" alt=""></td></tr>
 
 <tr>
-<td valign="top">
-<font face="arial,helvetica" size="-1">
-</font><ul><font face="arial,helvetica" size="-1">
-<li>
-When you register, we need to know your name, address, and telephone number. This allows us to authenticate who you are.
-
-</li><li>If you opt for our unlimited support option, we will need to take either credit card or direct debit details so that we may collect payment.
-
-</li><li>When you enter a competition or other promotion, we may ask for your name, address and e-mail address so we can administer the contest and notify winners. 
-</li><li>When you fill out a customer survey, we use the information collected to develop our service.
-</li></font><li><font face="arial,helvetica" size="-1">We also use the information we collect to notify you about important changes to the Web site, new Virgin Net services and special offers we think will be of interest to you. If you would rather not receive this information, a facility is available to unsubscribe at the end of every correspondence.</font></li></ul></td>
-</tr>
-
-<tr><td><img height="1" width="1" src="/pix/white_1x1.gif" alt="" vspace="5" border="0"></td></tr>
-
-<tr>
-<td><font face="arial,helvetica" color="#ff0000">How does Virgin Net protect customer information?</font></td></tr>
-
-
-<tr>
-<td><img height="1" width="1" src="/pix/white_1x1.gif" alt=""></td></tr>
-
-<tr>
-<td valign="top"><font face="arial,helvetica" size="-1">As required by the UK Data Protection Act 1984, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.</font></td>
-</tr>
-
-<tr><td><img height="1" width="1" src="/pix/white_1x1.gif" alt="" vspace="5" border="0"></td></tr>
-
-<tr>
-<td><font face="arial,helvetica" color="#ff0000">What about "cookies"? </font></td></tr>
-
-
-<tr>
-<td><img height="1" width="1" src="/pix/white_1x1.gif" alt=""></td></tr>
-
-<tr>
-<td valign="top"><font face="arial,helvetica" size="-1">"Cookies" are small pieces of information that are stored by your browser on your
-computer's hard drive. Our cookies do not contain any personally identifying
-information, but they do enable us to track site usage so that we can develop our website to member's needs and ensure that our high quality service is maintained.</font></td>
-</tr>
-
-<tr><td><img height="1" width="1" src="/pix/white_1x1.gif" alt="" vspace="5" border="0"></td></tr>
-
-<tr>
-<td><font face="arial,helvetica" color="#ff0000">Will Virgin Net disclose the information it collects to outside parties? </font></td></tr>
-
-
-<tr>
-<td><img height="1" width="1" src="/pix/white_1x1.gif" alt=""></td></tr>
-
-<tr>
-<td valign="top"><font face="arial,helvetica" size="-1">Virgin Net does not sell, trade or rent your personal information to others. Virgin Net may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. </font></td>
-</tr>
-
-<tr><td><img height="1" width="1" src="/pix/white_1x1.gif" alt="" vspace="5" border="0"></td></tr>
-
-<tr>
-<td><font face="arial,helvetica" color="#ff0000">In Summary</font></td></tr>
-
-
-<tr>
-<td><img height="1" width="1" src="/pix/white_1x1.gif" alt=""></td></tr>
-
-<tr>
-<td valign="top"><font face="arial,helvetica" size="-1">We are committed to protecting your privacy. We use the information we collect on the site to enhance your overall Virgin Net experience. We do not sell, trade or rent your personal information to others. If you do not want to receive any announcements or special offers from us, please unsubscribe from our correspondence. 
+<td valign="top"><font face="arial,helvetica" size="-1">
+Only in very limited circumstances. Virgin Net does not sell, trade or rent your personal information to others. Virgin Net provides aggregate statistics about our customers, sales, traffic and related information to third-parties but these statistics include no personally identifying information. If you shop through one of the Virgin Net shopping services or the auction service, we collect personal information including payment details and pass them on to the relevant retail partner. If you chose our ISP  payment and other personal information will necessarily be shared with our service  providers. 
 </font></td>
 </tr>
 
 <tr><td><img height="1" width="1" src="/pix/white_1x1.gif" alt="" vspace="5" border="0"></td></tr>
 
 <tr>
-<td><font face="arial,helvetica" color="#ff0000">Your Consent</font></td></tr>
+<td><font face="arial,helvetica" color="#ff0000">How does Virgin Net protect personal privacy?</font></td></tr>
 
 
 <tr>
 <td><img height="1" width="1" src="/pix/white_1x1.gif" alt=""></td></tr>
 
 <tr>
-<td valign="top"><font face="arial,helvetica" size="-1">By registering with Virgin Net and using our website, you consent to the collection and use of this information by Virgin Net. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.  
+
+<td valign="top"><font face="arial,helvetica" size="-1">
+Virgin Net  uses up to date industry procedures to keep personal data as safe and secure as possible and protect against loss, unauthorised disclosure or access. Please remember that you are responsible for protecting your password/user name and must not share it or allow its disclosure it to anyone. 
 </font></td>
 </tr>
 
 <tr><td><img height="1" width="1" src="/pix/white_1x1.gif" alt="" vspace="5" border="0"></td></tr>
+
+
 
 <tr>
 <td><font face="arial,helvetica" color="#ff0000">Tell Us What You Think </font></td></tr>
@@ -241,135 +278,177 @@ information, but they do enable us to track site usage so that we can develop ou
 
 <tr>
 <td valign="top"><font face="arial,helvetica" size="-1">Virgin Net welcomes your questions and comments about privacy. Please send
-e-mail to <a href="mailto:feedback@virgin.net">feedback@virgin.net</a></font><p><font face="arial,helvetica" size="-1"></font></p></td>
+e-mail to <a href="mailto:feedback@virgin.net?subject=Privacy Policy">virgincontact@london.virgin.net</a>. Our
+service team are available Monday-Friday 9am-5pm</font><p><font face="arial,helvetica" size="-1"></font></p></td>
 </tr>
 
 
 
-		
-		<tr><td valign="top"><img alt="" height="1" src="/pix/white_1x1.gif" vspace="5" width="1"></td></tr>
+                
+                <tr><td valign="top"><img alt="" height="1" src="/pix/white_1x1.gif" vspace="5" width="1"></td></tr>
 
-		</tbody></table>
-	</td>
+                </tbody></table>
+        </td>
 
-	<td rowspan="2" valign="TOP"><img alt="" height="1250" hspace="4" src="../pix/line.gif" width="1"></td>
-	<td valign="TOP" align="RIGHT">
-		<table border="0" cellpadding="0" cellspacing="0" width="135">
-		<tbody><tr>
-		<td colspan="2"><img alt="" height="1" src="/pix/line.gif" width="135"></td>
-		</tr>
-		<tr>
-		<td colspan="2"><font face="arial, helvetica" size="-2">TERMS &amp; CONDITIONS</font></td>
-		</tr>
-		<tr>
-		<td colspan="2"><img alt="" height="1" src="/pix/line.gif" width="135"></td>
-		</tr>
-		<tr>
-		<td colspan="2"><img alt="" height="1" src="/pix/white_1x1.gif" width="1" vspace="2"></td>
-		</tr>
-		<tr>
-		<td colspan="2"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td>
-		</tr>
-		<tr>
-		<td colspan="2"><table width="100%" cellpadding="2" cellspacing="1" border="0">
+        <td rowspan="2" valign="TOP"><img alt="" height="1080" hspace="4" src="../pix/line.gif" width="1"></td>
+        <td valign="TOP" align="RIGHT">
+                <table border="0" cellpadding="0" cellspacing="0" width="135">
+                <tbody><tr>
+                <td colspan="2"><img alt="" height="1" src="/pix/line.gif" width="135"></td>
+                </tr>
+                <tr>
+                <td colspan="2"><font face="arial, helvetica" size="-2">TERMS &amp; CONDITIONS</font></td>
+                </tr>
+                <tr>
+                <td colspan="2"><img alt="" height="1" src="/pix/line.gif" width="135"></td>
+                </tr>
+                <tr>
+                <td colspan="2"><img alt="" height="1" src="/pix/white_1x1.gif" width="1" vspace="2"></td>
+                </tr>
+                <tr>
+                <td colspan="2"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td>
+                </tr>
+                <tr>
+                <td colspan="2"><table width="100%" cellpadding="2" cellspacing="1" border="0">
 
-		<tbody><tr>
-		<td bgcolor="#CCCCCC"><a href="index.html" onmouseover="self.status=&quot;Introduction&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Introduction</font></a></td>
-		</tr>
-		
-		<tr>
-		<td bgcolor="#CCCCCC"><a href="vnet.html" onmouseover="self.status=&quot;Virgin Net&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Virgin Net</font></a></td>
-		</tr>
-		
-		
-		<tr>
-		<td bgcolor="#CCCCCC"><a href="freespace.html" onmouseover="self.status=&quot;Freespace&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Freespace</font></a></td>
-		</tr>
-		
-		<tr>
-		<td bgcolor="#CCCCCC"><a href="chat.html" onmouseover="self.status=&quot;Chat&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Chat</font></a></td>
-		</tr>
-		
-		<tr>
-		<td bgcolor="#FF0000"><font face="arial, helvetica" size="-2" color="#FFFFFF"><b>Privacy policy</b></font></td>
-		</tr>
-		
-		</tbody></table></td>
-		</tr>
-		<tr>
-		<td colspan="2"><img alt="" height="7" src="/pix/line.gif" vspace="4" width="135"></td>
-		</tr><tr>
-		<td colspan="2"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td>
-		</tr>
-	
-		</tbody></table>
-	</td>
-	</tr>
-	
-	<tr>
-	<td align="RIGHT" valign="BOTTOM">
-		<table border="0" cellpadding="0" cellspacing="0" width="135">
-		<tbody><tr>
-		<td colspan="2"><img alt="" height="1" src="/pix/line.gif" width="135"></td>
-		</tr>
-		<tr>
-		<td colspan="2"><font face="arial, helvetica" size="-2">TERMS &amp; CONDITIONS</font></td>
-		</tr>
-		<tr>
-		<td colspan="2"><img alt="" height="1" src="/pix/line.gif" width="135"></td>
-		</tr>
-		<tr>
-		<td colspan="2"><img alt="" height="1" src="/pix/white_1x1.gif" width="1" vspace="2"></td>
-		</tr>
-		<tr>
-		<td colspan="2"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td>
-		</tr>
-		<tr>
-		<td colspan="2"><table width="100%" cellpadding="2" cellspacing="1" border="0">
+                <tbody><tr>
+                <td bgcolor="#CCCCCC"><a href="" onmouseover="self.status=&quot;Introduction&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Introduction</font></a></td>
+                </tr>
+                
+                <tr>
+                <td bgcolor="#CCCCCC"><a href="vnet.html" onmouseover="self.status=&quot;Virgin Net&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Virgin Net</font></a></td>
+                </tr>
+                
+                
+                <tr>
+                <td bgcolor="#CCCCCC"><a href="freespace.html" onmouseover="self.status=&quot;Freespace&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Freespace</font></a></td>
+                </tr>
+                
+                <tr>
+                <td bgcolor="#CCCCCC"><a href="chat.html" onmouseover="self.status=&quot;Chat&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Chat</font></a></td>
+                </tr>
+                
+                
+							   			  				                <tr>
+                <td bgcolor="#CCCCCC"><a href="site.html" onmouseover="self.status=&quot;Virgin Net Site Registration&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Virgin Net Site Privacy Policy</font></a></td>
+                </tr>
+			  
+			  
 
-		<tbody><tr>
-		<td bgcolor="#CCCCCC"><a href="index.html" onmouseover="self.status=&quot;Introduction&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Introduction</font></a></td>
-		</tr>
-		
-		<tr>
-		<td bgcolor="#CCCCCC"><a href="vnet.html" onmouseover="self.status=&quot;Virgin Net&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Virgin Net</font></a></td>
-		</tr>
-		
-		
-		<tr>
-		<td bgcolor="#CCCCCC"><a href="freespace.html" onmouseover="self.status=&quot;Freespace&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Freespace</font></a></td>
-		</tr>
-		
-		<tr>
-		<td bgcolor="#CCCCCC"><a href="chat.html" onmouseover="self.status=&quot;Chat&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Chat</font></a></td>
-		</tr>
-		
-		<tr>
-		<td bgcolor="#FF0000"><font face="arial, helvetica" size="-2" color="#FFFFFF"><b>Privacy policy</b></font></td>
-		</tr>
-		</tbody></table></td>
-		</tr>
-		<tr>
-		<td colspan="2"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td>
-		</tr>
+			    
+				<tr>
+                <td bgcolor="#FF0000"><font face="arial, helvetica" size="-2" color="#ffffff">Privacy policy for ISP</font></td>
+                </tr>
 	
-		</tbody></table>
-	</td>
-	</tr>
-	
-	<tr>
-	<td valign="TOP"></td>
-	<td valign="BOTTOM" colspan="3"><img alt="" height="7" src="/pix/line.gif" vspace="4" width="495"></td>
-	</tr>
-	
-	<tr><td colspan="4"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td></tr>
+                
+                </tbody></table></td>
+                </tr>
+                <tr>
+                <td colspan="2"><img alt="" height="7" src="/pix/line.gif" vspace="4" width="135"></td>
+                </tr><tr>
+                <td colspan="2"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td>
+                </tr>
+        
+                </tbody></table>
+        </td>
+        </tr>
+        
+        <tr>
+        <td align="RIGHT" valign="BOTTOM">
+                <table border="0" cellpadding="0" cellspacing="0" width="135">
+                <tbody><tr>
+                <td colspan="2"><img alt="" height="1" src="/pix/line.gif" width="135"></td>
+                </tr>
+                <tr>
+                <td colspan="2"><font face="arial, helvetica" size="-2">TERMS &amp; CONDITIONS</font></td>
+                </tr>
+                <tr>
+                <td colspan="2"><img alt="" height="1" src="/pix/line.gif" width="135"></td>
+                </tr>
+                <tr>
+                <td colspan="2"><img alt="" height="1" src="/pix/white_1x1.gif" width="1" vspace="2"></td>
+                </tr>
+                <tr>
+                <td colspan="2"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td>
+                </tr>
+                <tr>
+                <td colspan="2"><table width="100%" cellpadding="2" cellspacing="1" border="0">
 
-	<tr>
-	<td></td>
-	<td colspan="3"><a href="#top"><font size="-1" face="arial, helvetica">Go to top of page</font></a></td>
-	</tr>
-	</tbody></table>
-	
+                <tbody><tr>
+                <td bgcolor="#CCCCCC"><a href="" onmouseover="self.status=&quot;Introduction&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Introduction</font></a></td>
+                </tr>
+                
+                <tr>
+                <td bgcolor="#CCCCCC"><a href="vnet.html" onmouseover="self.status=&quot;Virgin Net&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Virgin Net</font></a></td>
+                </tr>
+                
+                
+                <tr>
+                <td bgcolor="#CCCCCC"><a href="freespace.html" onmouseover="self.status=&quot;Freespace&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Freespace</font></a></td>
+                </tr>
+                
+                <tr>
+                <td bgcolor="#CCCCCC"><a href="chat.html" onmouseover="self.status=&quot;Chat&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Chat</font></a></td>
+                </tr>
+                
+               
+			   			  				                <tr>
+                <td bgcolor="#CCCCCC"><a href="site.html" onmouseover="self.status=&quot;Virgin Net Site Registration&quot;; return true"><font face="arial, helvetica" size="-2" color="#000000">Virgin Net Site Privacy Policy</font></a></td>
+                </tr>
+			  
+			  
+			  
+			  
+			  
+			    
+				<tr>
+                <td bgcolor="#FF0000"><font face="arial, helvetica" size="-2" color="#ffffff">Privacy policy for ISP</font></td>
+                </tr>
+			   
+			   
+			   
+			   
+			   <!--
+			   
+			    <TR>
+                <TD BGCOLOR="#FF0000"><FONT FACE="arial, helvetica" SIZE="-2" COLOR="#FFFFFF"><B>Privacy policy</B></FONT></TD>
+                </TR>
+				
+
+		
+		
+		
+		
+		
+		
+		
+		<TR>
+                <TD BGCOLOR="#CCCCCC"><A HREF="#" OnMouseOver='self.status="Hewlett Packard"; return true'><FONT FACE="arial, helvetica" SIZE="-2" COLOR="#000000">Hewlett Packard</FONT></A></TD>
+                </TR>
+				-->
+                </tbody></table></td>
+                </tr>
+                <tr>
+                <td colspan="2"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td>
+                </tr>
+        
+                </tbody></table>
+        </td>
+        </tr>
+        
+        <tr>
+        <td valign="TOP"></td>
+        <td valign="BOTTOM" colspan="3"><img alt="" height="7" src="/pix/line.gif" vspace="4" width="495"></td>
+        </tr>
+        
+        <tr><td colspan="4"><img height="1" width="1" alt="" src="/pix/white_1x1.gif"></td></tr>
+
+        <tr>
+        <td></td>
+        <td colspan="3"><a href="#top"><font size="-1" face="arial, helvetica">Go to top of page</font></a></td>
+        </tr>
+        </tbody></table>
+        
 </td></tr>
 
 </tbody></table>
