@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608214544id_/http%3A//www.loopnet.com/customerservice/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205051800id_/http%3A//loopnet.com/customerservice/privacy.asp) for the most accurate reproduction.*
 
 # LoopNet - The Internet's Leading Commercial Real Estate Marketplace
 
@@ -28,7 +28,7 @@ Collected information helps LoopNet better understand its users needs in order t
 
 **Shared information:**
 
-Unless explicitly stated, LoopNet uses all collected information for internal purposes only. In a rare occasion, but not without the users knowledge, information may be shared with a third party provider to offer an enhanced service to users or for the purpose of providing more targeting advertising. LoopNet does not sell, rent or lease user information to any third party. While LoopNet endeavors to work with other sites and companies with a similar respect for user privacy, LoopNet can not be responsible for the privacy practices of other sites that may be found by following links from LoopNet.
+Unless explicitly stated, LoopNet uses all collected information for internal purposes only. In a rare occasion, but not without the users knowledge, information may be shared with a third party provider to offer an enhanced service to users or for the purpose of providing more targeting advertising. LoopNet does not sell, rent or lease user information to any third party. From time to time, LoopNet may obtain information (such as electronic mail addresses) from third party providers. It is our goal to only contact individuals who we believe may have a legitimate business interest in LoopNet based on their membership or participation in other organizations or web sites, and who have indicated a willingness to be contacted for this purpose. While LoopNet endeavors to work with other sites and companies with a similar respect for user privacy, LoopNet cannot be responsible for the privacy practices of other sites.
 
 **Security of personal information:**
 
@@ -36,4 +36,4 @@ LoopNet's clients and their personal information are considered to be LoopNet's 
 
 **Opting-out, editing, updating or deleting personal information:**
 
-If a user does not wish to receive LoopNews, contact [LoopNet Administration](mailto:admin@loopnet.com?subject=Remove%20LoopNews) and request to be removed from the mailing list. Editing, updating or deleting of personal information may also be handled by contacting the [LoopNet Administration](mailto:admin@loopnet.com?subject=Change%20Membership%20Record) or call 415.216.1600 ext. 100 and requesting the necessary changes. However, by requesting the deletion of a user file, access to some features may be restricted.
+Users who do not wish to receive future mailings from LoopNet are requested to contact [LoopNet Administration](mailto:admin@loopnet.com?subject=Remove_LoopNews) via email. Please indicate what mailing lists you wish to be excluded from: LoopNews, all non-LoopNews email, or both. If you wish to exclude more than one email address from future mailings, please list all such addresses. Editing, updating or deleting of personal information in the LoopNet database may also be handled by contacting [LoopNet Administration](mailto:admin@loopnet.com?subject=Change_Membership%20Record) or by calling 415.216.1600 ext. 600 and requesting the necessary changes. Requesting the deletion of certain types of user information may prevent you from accessing some web site features.
