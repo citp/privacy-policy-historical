@@ -1,18 +1,139 @@
-> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2000-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000623061612id_/http%3A//www.allrecipes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206051500id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.*
 
-# All recipes .com -- The Recipe Network | Privacy Policy
+# All Recipes | Privacy Policy
 
-Here at Allrecipes.com -- The Recipe Network, we recognize that many visitors to our sites may be concerned about the information they provide to us, and what is done with that information. We have developed this Privacy Policy to address any concerns you may have. If you have any questions about our Privacy Policy, you can contact us at [**thestaff@Allrecipes.com**](mailto:%20thestaff@allrecipes.com). 
+    | 
 
-**Our Policy**  
-At our sites, we don't collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we don't require you to register or provide information to us in order to view our sites. When you provide information for the "RecipeNotes Newsletter," "Recipe Request" or "Email to a Friend" features of our site, we use the information you supply only for the purpose of providing the services you've requested. If you have specifically agreed to receive follow-up contacts from us or asked to be put on our mailing list, we may also contact you from time to time. You can always change your preference for follow-up contacts just by e-mailing us at any time. We do not disclose any personally identifiable information you give us with anyone outside of the sites that make up AllRecipe.com -- The Recipe Network. 
+At Allrecipes.com we recognize the importance of your privacy. That said, it's understandable that you may be concerned with the information you provide to us and how we use it. With these concerns in mind, we've developed the Allrecipes.com Privacy Policy outlined below. We may update this Policy from time to time, so please check back occasionally. If you have any questions about our Privacy Policy, you can contact us at [thestaff@allrecipes.com](mailto:thestaff@allrecipes.com). 
 
-A user's personally identifying information may be used for editorial purposes and we may also use such information for internal marketing and promotional purposes. Individuals always have the ability to stop their information from being used for such purposes by sending an e-mail request to us at the address given above. 
+Children's Policy  
+Information Collected  
+Registration  
+Ordering Online  
+Security  
+Cookies  
+Other Sites  
+Correcting/updating Personal Information  
+Policies Changes  
+Contact us  
 
-Like most web sites, we use "cookie" technology on our web site. We may place a "cookie" in the browser files of a user's computer, however the "cookie" itself does not contain any personally identifying information. The "cookie" doesn't track any personal information about you or provide us with any way to contact you, and the "cookie" doesn't extract any information from your computer. We use the "cookie" to provide functional information about your browser allowing us to provide a better user experience. We also use "cookies" to gather broad demographic information and general usage patterns of the visitors to our sites. A third-party advertising company is used to display the advertisements on our site. These advertisements may also contain "cookies." "Cookies" received with banner ads are collected by our ad company and used to provide broad demographic information for better advertisement targeting. 
 
-Children should always ask their parents for permission before sending any information about themselves to us or anyone else over the Internet. 
+**Note to children under the age of 13**   
+If you're under 13, you must provide us with written permission from your parents before sending any information about yourself to us over the Internet. 
 
-By using our Websites, you consent to the collection and use of the information, as described above, by Allrecipes.com -- The Recipe Network. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+**Information collected and how it is used**  
+Allrecipes.com is the sole owner of the information collected on this site. We will not sell, share, or rent your information to others in any way different from what is disclosed in this statement. Allrecipes.com collects voluntary information from you at several different points on our website. This information is used to enhance your experience on Allrecipes.com. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at [**thestaff@Allrecipes.com**](mailto:%20thestaff@allrecipes.com). 
+TOP
+
+**We collect information in the following areas:**
+
+**I. Registration**   
+Allrecipes.com does not collect your personal identifiable information unless you provide it to us voluntarily and knowingly. This means we don't require you to register or provide information to us in order to view our site. However, you must register if you wish to use certain features on our site. 
+
+In order to sign up for the following features you must first complete an online registration form. 
+
+  * Recipe Submission
+  * Recipe Request
+  * My Recipe Box
+  * RecipeNotes newsletter
+  * Email-a-Friend
+  * Contest, Promotions and Surveys
+
+During registration you are required to give contact information (such as your name and email address). This information is used to provide the services that you have requested, or to contact you about the service on our site for which you have expressed interest. We may contact you from time to time with news as well as for internal marketing and promotional purposes. 
+
+TOP
+
+**Recipe submission**  
+Your personally identifying information may be used for editorial purposes (such as attributing your submitted recipe to you). We may also use this information to contact you should we have any complications with your recipe. 
+
+**Recipe request**  
+When you subscribe to this feature, we ask for your name and email address and the description of the recipe that you are requesting. Allrecipes.com then posts your name and your recipe description to the site. The email address you provided is only used for us to contact you when your request has been filled. 
+
+**My Recipe Box**  
+When you subscribe to My Recipe Box, we ask for contact information such as your name, email address and zip code. The information collected allows us to provide you with access to grocery coupons, offers, events and promotions in the your area and/or region. If you have subscribed to My Recipe Box, we may contact you from time to time with news and promotional information. We also make your aggregate information (without any personal identification) available to our business partners in order to obtain information about products, services and offers, which we believe is useful to you. You always have the ability to change your preference for follow-up contacts by e-mailing us at [thestaff@allrecipes.com](mailto:thestaff@allrecipes.com). 
+
+**Recipe Notes**  
+When you subscribe to our newsletter, we ask for contact information such as your name and email address. If you have subscribed to our newsletter, we may contact you periodically with news and promotional information. You always have the ability to change your preference for follow-up contacts by e-mailing us at thestaff@allrecipes.com. [thestaff@recipenotes.com](mailto:thestaff@recipenotes.com). 
+
+**E-mail-A-Friend**  
+When you elect to use our referral service for emailing a recipe to a friend, we ask you for your friend's name and email address. Allrecipes.com will automatically send your friend a one-time email inviting them to visit the site. Allrecipes.com stores this information for the sole purpose of sending this one-time email. Your friend may contact Allrecipes.com at [thestaff@allrecipes.com](mailto:thestaff@allrecipes.co) to request their information to be removed from our database. 
+
+**Contest, Promotions and Surveys**  
+You must be a registered user in order to enter contests and promotions on Allrecipes.com. Participation in these events is completely voluntary and we do not require you to disclose this information. Information requested may include contact information (such as your name and shipping address) and demographic information. Your contact information will be used to notify you if you've won and award prizes. 
+
+From time to time our site requests information from you via surveys. This information will be used for purposes of monitoring or improving the use and satisfaction of this site and participation is completely at your discretion. 
+
+TOP
+
+**II. Ordering from the Allrecipes Store**   
+Allrecipes and our e-commerce partners, KitchenEtc. and Electricfood.com, are committed to respecting and protecting your privacy. When ordering products from one of our partner sites, information about you is requested on an order form. The information that is collected from you is used to process orders and provide a more personalized shopping experience. Allrecipes does not sell, trade, or rent your personal information to third parties. 
+
+To find out more detailed information regarding our commerce partner's privacy policies, please click on the links provided below: 
+
+[Electricfood.com Privacy Policy](http://allrecipes.com/shop/shop.asp?vid=2&v_code=priv)
+
+[KitchenEtc. Privacy Policy](http://allrecipes.com/shop/shop.asp?vid=1&ke_lnkt=10)
+
+**Security & Safety** To take the worry out of using your credit card to order through the web, Kitchen Etc. and Electricfood.com both use a Secure Server Technology (SSL), which encrypts your credit card information so that it cannot be read as it travels over the Internet. Which means - the characters are scrambled, making it impossible for a third party to intercept your personal information. 
+
+You can verify that the encryption is working by locating the lock icon at the bottom of the web page. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, as when you are just 'surfing.' All pages within the Marketplace will show the locked icon on the bottom of each page. To learn more about SSL, follow this link to our encryption software authenticator: www.versign.com. 
+
+**III. Cookies**   
+Like most web sites, we use "cookie" technology on our web site. We may place a "cookie" in the browser file of your computer, however the "cookie" itself does not contain any personally identifying information about you. The "cookie" does not track your personal information or provide us with any way to contact you, and the "cookie" does not extract any information off your computer. We use the "cookie" to provide functional information about your browser, allowing us to provide you a better experience. We also use "cookies" to gather broad demographic information and general usage patterns about you and other users of our sites. 
+
+If your browser rejects cookies, you may still use our site. The only drawback to this is that you will be limited from accessing certain areas of our site, such as contests, coupons, recipe box, shopping list feature, etc. 
+
+Some of our business partners also use cookies on our site. See next reference: 
+
+TOP
+
+**IV. DoubleClick**   
+DoubleClick is a third-party advertising company that we partner with to display the advertisements on our site. These advertisements also contain "cookies." "Cookies" received with banner ads are collected by our ad company and used to provide broad demographic information for better advertisement targeting. Privacy issues surrounding DoubleClick's use of certain non-personally identifiable user information by its technology are discussed in DoubleClick's privacy policy, and are the sole responsibility of DoubleClick. That policy can be viewed on DoubleClick's [Privacy Policy page](http://www.doubleclick.net:8080/privacy_policy/). 
+
+TOP
+
+**V. Sonar Network**   
+Sonar is another third-party advertising company that we partner with to deliver ads to you. In the course of delivering an ad, Sonar Network collects certain non-personally identifiable information about you. Sonar's collection and use of your information is the responsibility of Sonar. For more information about their information gathering practices and "opt-out" procedure of Sonar Network, please click here: Sonar's [Privacy Policy page](http://www.sonar.com/content/privacy.htm). 
+
+TOP
+
+**VI. 24/7 Media**   
+24/7 Media is another third-party advertising company that we partner with to deliver ads to you. 24/7 Media is committed to the responsible management of consumer information. Internet user privacy is a high priority to 24/7 Media, our advertisers and our Web publishers. Please click here to find out more about [24/7 Media's Privacy Policy](http://www.247media.com/privacy.html). 
+
+**VII. Log Files**   
+Each time an Allrecipes.com page is requested from your browser, we log your computer's IP address into our log files. Your computer has been pre-assigned a 12-digit number. This number is the IP address. We use your IP addresses to analyze trends, administer the site, track your movements on the site, and gather broad demographic information for aggregate use. IP addresses are not linked to your personally identifiable information. 
+
+TOP
+
+**VIII. Other Sites**   
+From time to time we may have links to other websites from our site. We do not control, and therefore cannot be responsible for, the collection, use or disclosure of your information by any such third party site. Please carefully review the privacy policy of any third party site that you link to from our site. 
+
+TOP
+
+**IX. Security**   
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of your information, Allrecipes.com has put into place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. We use industry standard security measures called SSL (secure socket layer) encryption. 
+
+TOP
+
+**Correction/updating Personal Information:**   
+At any time, you can update or stop your information from being used for any such purposes mentioned above by sending an email request to us at: [thestaff@allrecipes.com](mailto:thestaff@allrecipes.com). 
+
+TOP
+
+**Our policies may change.**   
+By using our Websites, you consent to the collection and use of your information, as described above, by Allrecipes.com. If we make any changes to our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+**Please contact us with any questions or comments.**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Allrecipes.com, please contact us at [thestaff@allrecipes.com](mailto:thestaff@allrecipes.com) or use the following address:   
+  
+**Allrecipes.com**  
+321 Minor Avenue North  
+Seattle, WA 98109  
+USA
+
+Phone: (206) 292-3990  
+Fax: (206) 292-1793
+
+TOP
