@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615134703id_/http%3A//www.worldsoccer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsoccer.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207003342id_/http%3A//worldsoccer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - World Soccer - The leading authority on international football
 
@@ -27,12 +27,8 @@ All rights reserved.
 
 ### Advertisements
 
-[](http://www.thesportshow.com/ "Try more sports in a day than you would in a lifetime. An interactive sporting experience like no other.")  
-Hundreds of sports. One Show. **[THE SPORTSHOW](http://www.thesportshow.com/ "Try more sports in a day than you would in a lifetime. An interactive sporting experience like no other.").**  
-**Earls Court - June 24-27th.**  
-Try more sports in a day than you would in a lifetime. An interactive sporting experience like no other.   
 [](http://www.soccer-books.co.uk/wsindex.html)   
 
 
-### Poll: Who will win Euro 2004?  
+### Poll: Who will win the UEFA Champions League?  
 
