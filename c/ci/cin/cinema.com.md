@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cinema.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614021815id_/http%3A//www.cinema.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinema.com privacy policy that was archived on 2001-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011008173942id_/http%3A//www.cinema.com/privacy.phtml) for the most accurate reproduction.*
 
-# Cinema.com: Terms and Conditions
+# Cinema.com: Privacy Statement
 
 ##  Privacy Statement for Cinema.com Limited: 
 
