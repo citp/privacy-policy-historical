@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620193756id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207140234id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -19,5 +19,3 @@
 > We can be reached via e-mail at [webmaster@webyield.net](mailto:webmaster@webyield.net)
 
 |  | 
-
-[**Link to us**](https://web.archive.org/linking.html)
