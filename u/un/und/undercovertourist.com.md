@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603161453id_/http%3A//www.undercovertourist.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203004236id_/http%3A//www.undercovertourist.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ---  
+[**UnderCoverTourist**](http://www.undercovertourist.com/) > **Privacy**  
 **Privacy Statement**  
   
 UnderCoverTourist.com policy is to respect & protect the privacy of our visitors. This policy statement explains what information we gather from your visit to our Web site & how such information may be used.   
