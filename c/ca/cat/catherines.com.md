@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catherines.com privacy policy that was archived on 2004-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041031080854id_/http%3A//catherines.charmingshoppes.com/custsvc/Catherines/priv_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catherines.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402020040id_/http%3A//catherines.charmingshoppes.com/custsvc/Catherines/priv_security.asp) for the most accurate reproduction.*
 
 # Catherines – plus size clothing and lingerie for women sizes 16W – 34W.
 
@@ -28,7 +28,7 @@ top
 
 mailing lists
 
-When you register with CSI or participate in a contest or promotion online through this Site you may choose to receive e-mails or postal mail from us regarding our company, corporate information, products, services, contests and promotions. From time to time, we may also send you e-mails to help us learn more about your online preferences. To find out how to remove yourself from our mailing list, [click here](https://web.archive.org/web/20041031080854id_/http%3A//catherines.charmingshoppes.com/custsvc/Catherines/faq.asp#maillist). Such removal shall not apply to e-mails or postal mail from us regarding subsequent contests or promotions you may choose to enter.  top
+When you register with CSI or participate in a contest or promotion online through this Site you may choose to receive e-mails or postal mail from us regarding our company, corporate information, products, services, contests and promotions. From time to time, we may also send you e-mails to help us learn more about your online preferences. To find out how to remove yourself from our mailing list, [click here](https://web.archive.org/web/20050402020040id_/http%3A//catherines.charmingshoppes.com/custsvc/Catherines/faq.asp#maillist). Such removal shall not apply to e-mails or postal mail from us regarding subsequent contests or promotions you may choose to enter.  top
 
 how do we disclose or share information with unrelated third parties?
 
