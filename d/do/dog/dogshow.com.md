@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogshow.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202032500id_/http%3A//www2.dogshow.com/privacy/coppa.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogshow.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222915id_/http%3A//www2.dogshow.com/privacy/coppa.php) for the most accurate reproduction.*
 
 # Your Child's Privacy at The Virtual Dog Show
 
@@ -8,7 +8,7 @@ In compliance with the [Children's Online Privacy Protection Act](http://www.ftc
 
 ### About the Junior Showmanship Class
 
-The Virtual Dog Show includes a special competition called the [Junior Showmanship variety class](http://www2.dogshow.com/spring2000/variety/junior.php) which is open to all entrants age 16 or younger. This is the only time at which the age of an entrant is important; in all other cases -- including cases in which younger entrants choose not to enter the Virtual Dog Show -- entering an age is optional. 
+The Virtual Dog Show includes a special competition called the [Junior Showmanship variety class](http://www2.dogshow.com/fall2002/variety/junior.php) which is open to all entrants age 16 or younger. This is the only time at which the age of an entrant is important; in all other cases -- including cases in which younger entrants choose not to enter the Virtual Dog Show -- entering an age is optional. 
 
 ### Information Collected by the Virtual Dog Show
 
