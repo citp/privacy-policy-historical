@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008082322id_/http%3A//www.audioholics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioholics.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604185236id_/http%3A//audioholics.com/privacy.html) for the most accurate reproduction.*
 
 # Audioholics, Audio Product Reviews for the Masses
 
@@ -31,7 +31,7 @@ When you utilize our online forums, we do not share any provided information wit
 We may provide your information as required by law or legal process; to protect and defend the rights of Audioholics, the Audioholics website or the users and, and under circumstances we believe reasonably necessary to protect the personal safety of users of Audioholics, this site or the public.
 
 **Links to External and/or Co-Branded Sites**  
-Our site may contain links to other sites on the Internet that are not under our control. Audioholics is not responsible for the privacy practices or the content of such web sites. See our [Terms of Service and Legal Notices](https://web.archive.org/web/20031008082322id_/http%3A//www.audioholics.com/terms.php). We do have co-branded sites with other companies. You should review those policies.
+Our site may contain links to other sites on the Internet that are not under our control. Audioholics is not responsible for the privacy practices or the content of such web sites. See our [Terms of Service and Legal Notices](https://web.archive.org/web/20040604185236id_/http%3A//audioholics.com/terms.php). We do have co-branded sites with other companies. You should review those policies.
 
 **Cookies**  
 A cookie is a small piece of information that many Web sites use to help make shopping online easier. The information is stored on your computer's hard drive. It lets you shop our site, place items in your cart and return several days later without having to reenter the information. Most Web browsers automatically accept cookies. Browsers usually provide the option to disable this feature.
@@ -49,7 +49,7 @@ Each time you view a page or download images or materials at Audioholics or prov
 **Choice/Opt-Out**  
 We offer you the opportunity to opt-out of receiving communications from us at the point where we request the information. Or, you may contact us in one of the following ways:
 
-  1. You can send e-mail using our [General contact](https://web.archive.org/web/20031008082322id_/http%3A//www.audioholics.com/contact/staff_emails.php) form
+  1. You can send e-mail using our [General contact](https://web.archive.org/web/20040604185236id_/http%3A//audioholics.com/contact/staff_emails.php) form
   2. You can send us mail to:  
 Audioholics  
 Attn: Customer Care  
@@ -60,7 +60,7 @@ P.O. Box 1381, Tarpon Springs, FL 34688-1381
 **Correct/Update**  
 We provide several different methods for you to change or modify the information you give us by contacting us in one of the following ways, and providing the details of the information you wish to change:
 
-  1. You can send e-mail using our [General contact](https://web.archive.org/web/20031008082322id_/http%3A//www.audioholics.com/contact/staff_emails.php) form
+  1. You can send e-mail using our [General contact](https://web.archive.org/web/20040604185236id_/http%3A//audioholics.com/contact/staff_emails.php) form
   2. You can send us mail to:  
 Audioholics  
 Attn: Customer Care  
@@ -69,7 +69,7 @@ P.O. Box 1381, Tarpon Springs, FL 34688-1381
 **Contacting Audioholics**  
 You may contact us if you have any questions about this privacy statement, the practices of this site, or your dealings with this site: 
 
-  1. You can send e-mail using our [General contact](https://web.archive.org/web/20031008082322id_/http%3A//www.audioholics.com/contact/staff_emails.php) form
+  1. You can send e-mail using our [General contact](https://web.archive.org/web/20040604185236id_/http%3A//audioholics.com/contact/staff_emails.php) form
   2. You can send us mail to:  
 Audioholics  
 Attn: Customer Care  
