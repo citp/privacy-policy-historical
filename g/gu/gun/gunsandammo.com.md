@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608204713id_/http%3A//www.gunsandammo.com/user/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222652id_/http%3A//www.gunsandammo.com/user/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # GunBroker.com Privacy Policy
 
