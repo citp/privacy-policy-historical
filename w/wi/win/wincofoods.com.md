@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/hipaa.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/hipaa.htm) for the most accurate reproduction.*
 
 # Welcome to WinCo Foods - We're committed to providing you with a very large selection of brand name products at the lowest possible prices.
 
@@ -6,17 +6,17 @@
   
   
   
-[ ](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/about_winco.html)  
-[ ](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/history.html)  
-[ ](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/news.html)  
-[ ](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/board_and_staff.html)  
-[ ](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/community.html)  
+[ ](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/about_winco.html)  
+[ ](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/history.html)  
+[ ](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/news.html)  
+[ ](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/board_and_staff.html)  
+[ ](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/community.html)  
   
-[ ](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/employees.html)  
-[ ](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/benefits.html)  
-[ ](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/esop.html)  
+[ ](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/employees.html)  
+[ ](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/benefits.html)  
+[ ](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/esop.html)  
   
-[ ](https://web.archive.org/web/20031008210255id_/http%3A//www.wincofoods.com/locations.html)  
+[ ](https://web.archive.org/web/20040607172401id_/http%3A//www.wincofoods.com/locations.html)  
 | 
 
 This summary is provided to assist you in understanding
