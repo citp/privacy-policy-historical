@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the edn.com privacy policy that was archived on 2004-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209001442id_/http%3A//www.edn.com/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edn.com privacy policy that was archived on 2005-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050307233703id_/http%3A//www.edn.com/index.asp%3Flayout%3Dpage%26module%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
 <title>EDN.com: The design source for electronics engineers and managers worldwide page   </title>
+
+
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="Content-Language" content="en-us">
@@ -213,27 +215,28 @@ hr {color: #999;width: 100%;height: 3px;}
   }
 </style>
 </head>
+
 <body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" background="http://www.edn.com/contents/images/ENEWStile.gif">
 <table width="760" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
 <tbody><tr>
 <td valign="top" align="center">
 
 
-<script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/edn.rbi/;dcopt=ist;abr=!webtv;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1102540626?">
+<script language="Javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/edn.rbi/;dcopt=ist;abr=!webtv;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1110227895?">
 </script>
 <script type="text/javascript">
 <!--
 if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0))
 {
-document.write('<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1102540626?">');
-document.write('<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1102540626?" width="468" height="60" border="0" alt="ad"><\/a>');
+document.write('<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1110227895?">');
+document.write('<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1110227895?" width="468" height="60" border="0" alt="ad"><\/a>');
 }
 //-->
 </script>
 <noscript>
 <!-- for non JavaScript browsers and Netscape 2.x -->
-<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1102540626?">
-<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1102540626?" width="468" height="60" border="0" alt="ad">
+<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1110227895?">
+<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=cegbanner;pos=1;lay=page;sz=468x60;ord=1110227895?" width="468" height="60" border="0" alt="ad">
 </a>
 </noscript></td></tr></tbody></table></td></tr></tbody></table>
 
@@ -241,25 +244,76 @@ document.write('<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=cegbanner;p
 <table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
   
 <tbody><tr> 
-    <td width="100%" colspan="5" valign="top" bgcolor="#ffffff"><script language="javascript">
+    <td width="100%" colspan="5" valign="top" bgcolor="#ffffff"><script language="javascript1.2">
 <!--
+function trim(psText) {
+	psText = psText.replace(/^[\s]+/g,"");
+	psText = psText.replace(/[\s]+$/g,"");
+	return psText;
+}
+
+function booleanOperator(txt) {
+  if ((txt=='and') || (txt=='or') || (txt=='not') || (txt=='within') || (txt=='near') || (txt=='atleast'))
+    return true
+  else
+    return false;
+}
+
 function checkSearch() { 
 if (document.SearchForm.text.value == "")
   {
     window.alert("Please enter a text value to be searched for.");
     return false;
   }
-     	document.SearchForm.text.value=trim(document.SearchForm.text.value.toLowerCase());
-	return true;
-}
 
-function trim(psText) {
-	psText = psText.replace(/^[\s]+/g,"");
-	psText = psText.replace(/[\s]+$/g,"");
-	return psText;
+/* 11/09/04 
+   Parse user query for double quotes and if found don't process the query at all (even if quotes doesn't cover the entire query). 
+   If no double quotes exist then do the following processing to the search text:
+     add double quotes around all of the Boolean commands (or, and, not, within, atleast). This changes the Boolean operator to a search term.
+     If an ANDed search then place the AND Boolean command between each term
+     If an ORed search than place the OR Boolean command between each term
+*/
+
+document.SearchForm.original.value = document.SearchForm.text.value;
+searchString = trim(document.SearchForm.text.value.toLowerCase());
+
+if (searchString.indexOf('"') != -1)
+  {  
+    document.SearchForm.text.value = searchString;
+    document.SearchForm.submit();
+    return;
+  }
+
+if (searchString.indexOf(' or ') != -1)
+  {  
+    document.SearchForm.text.value = searchString;
+    document.SearchForm.submit();
+    return;
+  }
+
+newString = searchString.split(' '); 
+originalString = searchString;
+searchString = '';
+
+for (i=0; i<newString.length; i++)
+  if ((booleanOperator(newString[i])) && (document.SearchForm.searchOption.selectedIndex!=0))
+    newString[i] = '"' + newString[i] + '"';
+
+for (i=0; i<newString.length; i++)
+  {   // ANDed search
+      if (searchString=='')
+        searchString = newString[i]
+      else
+        searchString = searchString + ' and ' + newString[i];
+  }
+
+
+document.SearchForm.text.value = searchString;
+document.SearchForm.submit();
 }
 //-->
-</script><map name="EDN2">
+</script>
+
 <!-- updated -->
 <script language="JavaScript1.2">
 <!--// 
@@ -270,12 +324,15 @@ function openWindow()
     term.value = escape(term.value);
     newURL="index.asp?layout=term&brand=edn&term="+term.value;
   }
-  newwindow=open(newURL,"termWindow","scrollbars=yes,toolbar=no,directories=no,menubar=no,location=no,resizable=yes,status=no,width=800,height=625,screenX=0,screenY=0");
+  
+newwindow=open(newURL,"termWindow","scrollbars=yes,toolbar=no,directories=no,menubar=no,location=no,resizable=yes,status=no,width=800,height=625,screenX=0,screenY=0");
 
   return false;
 }
 //-->
 </script>
+
+<map name="EDN2">
 <area alt="EDN" coords="1,19,153,112" href="http://www.edn.com/">
 <area alt="Reed Electronics Group" coords="2,20,112,1" href="http://www.reed-electronics.com">
 </map>
@@ -297,7 +354,8 @@ function openWindow()
           <td height="5" colspan="5" bgcolor="#CC0033"><img src="http://www.edn.com/contents/images/spacer.gif" width="1" height="5"></td>
         </tr>
 <tr>
-          <td rowspan="2" bgcolor="#CC0033"><form name="SearchForm" onsubmit="return checkSearch()" action="http://www.edn.com/index.asp" method="get" style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><img src="http://www.edn.com/contents/images/spacer.gif" width="1" height="86"></form></td>
+          <td rowspan="2" bgcolor="#CC0033"><form name="SearchForm" onsubmit="checkSearch()" action="http://www.edn.com/index.asp" method="get" style="MARGIN-BOTTOM: 0px;
+MARGIN-TOP: 0px"><img src="http://www.edn.com/contents/images/spacer.gif" width="1" height="86"></form></td>
           <td colspan="4" bgcolor="#CC0033"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
           <tbody><tr align="center"> 
             <td>
@@ -311,7 +369,8 @@ Welcome, Guest.</span></td></tr>
           </tbody></table></td>
         </tr>
         <tr>
-          <td colspan="4" bgcolor="#CC0033" align="center">&nbsp;&nbsp;&nbsp;&nbsp;<script language="javascript" type="text/javascript">
+          <td colspan="4" bgcolor="#CC0033" align="center"><script language="javascript" type="text/javascript">
+<!--
 function stripQts2(name){
 var newName = "";
 var test = name.split(unescape("%27%27")); //split the field on ascii code for double ''
@@ -346,10 +405,10 @@ for (i = 0; i < tempQuery.length; i++)
 
 userQuery=unescape(userQuery);
 stripQts2(userQuery);
-document.write('<input type=text name=text size=18 align=middle class=byline value="' + userQuery + '" >')
-</script><input type="text" name="text" size="18" align="middle" class="byline" value="">&nbsp;
-            <input type="image" height="16" width="39" src="http://www.edn.com/contents/images/searchButtonEDN2.gif" value="Log In" border="0"><br><img src="http://www.edn.com/contents/images/spacer.gif" width="1" height"5"=""><br><a href="http://www.edn.com/index.asp?layout=searchAdvanced" class="welcome">Advanced Search</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<input type="hidden" name="layout" value="searchResults"><input type="hidden" name="content" value="all">
+document.write('<input type=text name=text size=22 align=middle class=byline value="' + userQuery + '" >')
+//-->
+</script><input type="text" name="text" size="22" align="middle" class="byline" value="">&nbsp;<input type="image" height="16" width="39" src="http://www.edn.com/contents/images/searchButtonEDN2.gif" value="Log In" border="0"><br><img src="http://www.edn.com/contents/images/spacer.gif" width="1" height"5"=""><br><a href="http://www.edn.com/index.asp?layout=searchAdvanced" class="welcome">Advanced Search</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<input type="hidden" name="layout" value="searchResults"><input type="hidden" name="content" value="all"><input type="hidden" name="original">
 </td>
         </tr>
       </tbody></table></td>
@@ -358,7 +417,7 @@ document.write('<input type=text name=text size=18 align=middle class=byline val
     <td bgcolor="#CC0033"><a href="http://www.edn.com/subscribe.asp?"><img src="http://www.edn.com/contents/images/newsletterBall.gif" width="118" height="23" border="0"></a></td>
   </tr>
   <tr> 
-    <td bgcolor="#CC0033"><a href="http://www.e-insite.net/ednmag/jumplink.asp?target=http://www.reed4success.com/default.asp?magid=002&amp;promocode=WEA05DW6&amp;sponsor=r4s+EDN&amp;loc=texttopnav&amp;layout=webzine"><img src="http://www.edn.com/contents/images/printBall.gif" width="136" height="24" border="0"></a></td>
+    <td bgcolor="#CC0033"><a href="http://www.e-insite.net/ednmag/jumplink.asp?target=http://www.reed4success.com/default.asp?magid=002&amp;promocode=WBA04XX6&amp;sponsor=r4s+EDN&amp;loc=texttopnav&amp;&#10;layout=webzine"><img src="http://www.edn.com/contents/images/printBall.gif" width="136" height="24" border="0"></a></td>
   </tr>
   <tr> 
     <td bgcolor="#CC0033"><a href="http://www.edn.com/index.asp?layout=siteInfo&amp;doc_id=123732"><img src="http://www.edn.com/contents/images/digitalBall.gif" width="151" height="26" border="0"></a></td>
@@ -371,7 +430,7 @@ document.write('<input type=text name=text size=18 align=middle class=byline val
   <tbody><tr align="center">
     <td class="topnavbuttons" width="74"><a class="topnavbuttons2" href="http://www.edn.com/index.asp?">Home</a></td>
     <td class="topnavbuttons" width="74"><a class="topnavbuttons2" href="http://www.edn.com/index.asp?layout=siteInfo&amp;doc_id=30955&amp;rid=0&amp;rme=0&amp;cfd=1">About EDN</a></td>
-    <td class="topnavbuttons" width="74"><a class="topnavbuttons2" href="http://www.edn.com/toc-archive/2004/20041207.html">Current Issue</a></td>
+    <td class="topnavbuttons" width="74"><a class="topnavbuttons2" href="http://www.edn.com/toc-archive/2005/20050303.html">Current Issue</a></td>
     <td class="topnavbuttons" width="74"><a class="topnavbuttons2" href="http://www.edn.com/archive">Archives</a></td>
     <td class="topnavbuttons" width="74" bgcolor="#333333"><a class="topnavbuttons2" href="http://www.edn.com/index.asp?layout=eventTOC">Events</a></td>
     <td width="26" bgcolor="#333333"><img src="http://www.edn.com/contents/images/spacer.gif" width="26" height="1"></td>
@@ -815,7 +874,7 @@ document.write("" + dayNames[now.getDay()] + ", " + monNames[now.getMonth()] + "
 </tr>
 <tr>
 <td><img src="http://www.edn.com/contents/images/spacer.gif" width="5"></td>
-<td class="leftnav2" height="25"><a href="http://www.instat.com/" class="leftnav2" target="_&quot;new&quot;">In-Stat/MDR</a></td>
+<td class="leftnav2" height="25"><a href="http://www.instat.com/" class="leftnav2" target="_&quot;new&quot;">In-Stat</a></td>
 </tr>
 <tr>
 <td height="2" colspan="2"><img src="http://www.edn.com/contents/images/link_button_bottom.gif" width="132" height="2"></td>
@@ -995,21 +1054,21 @@ function openWindow()
     <td valign="top" width="10" bgcolor="#ffffff"><img src="http://www.edn.com/contents/images/pixel.gif" width="10" height="10"></td>
     <td width="150" valign="top" class="rightnav" bgcolor="#ffffff"><br><div align="center">
 
-<script language="Javascript1.1" src="http://ad.doubleclick.net/adj/edn.rbi/;abr=!webtv;type=searchsponsor;sz=150x100;ord=1102540626?">
+<script language="Javascript1.1" src="http://ad.doubleclick.net/adj/edn.rbi/;abr=!webtv;type=searchsponsor;sz=150x100;ord=1110227895?">
 </script>
 <script>
 <!--
 if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0))
 {
-document.write('<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=searchsponsor;sz=150x100;ord=1102540626?">');
-document.write('<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=searchsponsor;sz=150x100;ord=1102540626?" width="150" height="100" border="0"></a>');
+document.write('<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=searchsponsor;sz=150x100;ord=1110227895?">');
+document.write('<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=searchsponsor;sz=150x100;ord=1110227895?" width="150" height="100" border="0"></a>');
 }
 //-->
 </script>
 <noscript>
 <!-- for non JavaScript browsers and Netscape 2.x -->
-<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=searchsponsor;sz=150x100;ord=1102540626?">
-<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=searchsponsor;sz=150x100;ord=1102540626?" width="150" height="100" border="0">
+<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=searchsponsor;sz=150x100;ord=1110227895?">
+<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=searchsponsor;sz=150x100;ord=1110227895?" width="150" height="100" border="0">
 </a>
 </noscript></div>
 <table border="0" width="146" cellspacing="0" cellpadding="0">
@@ -1019,21 +1078,21 @@ document.write('<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=searchspons
 </tr>
   </tbody></table><div align="center">
 
-<script language="Javascript1.1" src="http://ad.doubleclick.net/adj/edn.rbi/;abr=!webtv;type=sky;pos=1;lay=page;sz=120x600;ord=1102540626?">
+<script language="Javascript1.1" src="http://ad.doubleclick.net/adj/edn.rbi/;abr=!webtv;type=sky;pos=1;lay=page;sz=120x600;ord=1110227895?">
 </script>
 <script>
 <!--
 if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || (navigator.userAgent.indexOf("WebTV") >= 0))
 {
-document.write('<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=sky;pos=1;lay=page;sz=120x600;ord=1102540626?">');
-document.write('<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=sky;pos=1;lay=page;sz=120x600;ord=1102540626?" width="120" height="600" border="0"></a>');
+document.write('<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=sky;pos=1;lay=page;sz=120x600;ord=1110227895?">');
+document.write('<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=sky;pos=1;lay=page;sz=120x600;ord=1110227895?" width="120" height="600" border="0"></a>');
 }
 //-->
 </script>
 <noscript>
 <!-- for non JavaScript browsers and Netscape 2.x -->
-<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=sky;pos=1;lay=page;sz=120x600;ord=1102540626?">
-<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=sky;pos=1;lay=page;sz=120x600;ord=1102540626?" width="120" height="600" border="0">
+<a href="http://ad.doubleclick.net/jump/edn.rbi/;type=sky;pos=1;lay=page;sz=120x600;ord=1110227895?">
+<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=sky;pos=1;lay=page;sz=120x600;ord=1110227895?" width="120" height="600" border="0">
 </a>
 </noscript><br><br></div>
 
@@ -1061,7 +1120,7 @@ Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="http://www.edn.com/index.asp?layout=siteInfo&amp;doc_id=31083" class="bottomnav">Free Subscriptions</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr align="center"> 
 <td align="middle" class="footer" width="100%">
-<br>© 2004 <a href="http://www.reedbusiness.com/index.asp?layout=cahnerscom" class="footer">Reed Business Information</a>, a division of <a href="http://www.reed-elsevier.com/" class="footer">Reed Elsevier Inc.</a>  All rights reserved.<br>Use of this web site is subject to its <a href="http://www.edn.com/index.asp?layout=page&amp;module=terms" class="footer">Terms and Conditions of Use.</a> View our <a href="http://www.edn.com/index.asp?layout=page&amp;module=privacy" class="footer">Privacy Policy</a>.<br><br></td></tr></tbody></table></td>
+<br>© 2005 <a href="http://www.reedbusiness.com/index.asp?layout=cahnerscom" class="footer">Reed Business Information</a>, a division of <a href="http://www.reed-elsevier.com/" class="footer">Reed Elsevier Inc.</a>  All rights reserved.<br>Use of this web site is subject to its <a href="http://www.edn.com/index.asp?layout=page&amp;module=terms" class="footer">Terms and Conditions of Use.</a> View our <a href="http://www.edn.com/index.asp?layout=page&amp;module=privacy" class="footer">Privacy Policy</a>.<br><br></td></tr></tbody></table></td>
   </tr>
 
 </tbody></table></body></html>
