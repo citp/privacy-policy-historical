@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestlinks.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122415id_/http%3A//www.thebestlinks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestlinks.com privacy policy that was archived on 2003-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030201110729id_/http%3A//www.thebestlinks.com/privacy.html) for the most accurate reproduction.*
 
 # www.TheBestLinks.com - FAQ
 
