@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blu.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010175012id_/http%3A//www.blu.com/privacystmt-splash.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blu.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622003507id_/http%3A//blu.com/privacystmt-splash.htm) for the most accurate reproduction.*
 
 # Blue Chip Value Fund News Page
 
@@ -16,4 +16,4 @@ You can be assured that Blue Chip Value Fund considers your data to be private a
 
 If you have any questions or comments about our privacy practices, please call us at 1-800-524-4190 or email us at [blu@denveria.com](mailto:blu@denveria.com). 
 
-[View a PDF version of this document here.](https://web.archive.org/web/20021010175012id_/http%3A//www.blu.com/PDFs/PrivacyNotice021601.pdf)
+[View a PDF version of this document here.](https://web.archive.org/web/20030622003507id_/http%3A//blu.com/PDFs/PrivacyNotice021601.pdf)
