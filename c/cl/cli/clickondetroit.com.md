@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickondetroit.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603215143id_/http%3A//www.clickondetroit.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickondetroit.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217222329id_/http%3A//www.clickondetroit.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
 
 # ClickonDetroit.com - Privacy Policy
 
