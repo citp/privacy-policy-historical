@@ -1,37 +1,262 @@
-<!--The following is the downloaded HTML source of the americangreetings.com privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604010843id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americangreetings.com privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207220836id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.-->
 
-<html><head></head><body bgcolor="#ffffff" link="#3300ff" vlink="#990099" alink="#000000" text="#000000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"><font color="#eag154"></font>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<meta name="agmips" content="1.700881">
  
+<title>AmericanGreetings.com - thousands of greetings for you to send.</title>
+ <script language="JavaScript">
+<!-- HIDE FROM OLD BROWSERS
+
+glbStdFeatures = "width=400,height=320,resizable=yes,scrollbars=yes,toolbar=no";
+glbStdFeaturesExcSize = "resizable=yes,scrollbars=yes,toolbar=no";
+
+var newwin;
+
+function encodePurl(purl){
+  purl=purl.replace(/http:\/\//,"");
+  purl=purl.replace(/\&/g,"|");
+  purl=purl.replace(/\?/g,"_");
+  purl=purl.replace(/\=/g,":");
+  purl=purl.replace(/\+/g,"%20");
+  purl=purl.replace(/#.*$/,"");  
+  purl=purl.replace(/%(\d+)/g,"perc$1");
+  return purl;
+}
+
+function decodePurl(purl){
+  purl=purl.replace(/\|/g,"&");
+  purl=purl.replace(/_/g,"?");
+  purl=purl.replace(/:/g,"=");
+  purl=purl.replace(/perc(\d+)/g,"%$1");
+  purl=purl.replace(/\/popup\/signin\.pd/,"/index.pd");
+  purl=purl.replace(/\/popup\/signout\.pd/,"/index.pd");
+  if(purl){
+    purl="http://"+purl;
+  }
+  return purl;
+}
+
+
+function setMyFocus()
+{
+// Keep subscription popup window on top.
+  if (newwin && !newwin.closed) 
+  {
+    newwin.focus(); 
+  }
+// Keep gift partner popup window on top.
+  else if (typeof(popupWindow)!="undefined" && !popupWindow.closed) 
+  {
+    popupWindow.focus(); 
+  } 
+}
+
+//Join Now
+function openJoin(url, purl, width, height, windowname, intX, intY) { 
+  if(!purl) {
+    purl=window.location.href;
+  }
+  if(!width) {
+    width='300';
+  }
+  if(!height) {
+    height='320';
+  }
+  if(!windowname) {
+    windowname = "joinwin";
+  }
+  if(!intX) {
+    intX=0;
+  }
+  if(!intY) {
+    intY=0;
+  }
+  purl=encodePurl(purl);
+  if(url.indexOf("ostatus") >= 0){    
+    url=url.replace(/ostatus/,"purl="+purl+"&ostatus");
+  }else{
+    url+="&purl="+purl;
+  }
+  pageindex = -1;
+  questionindex = -1;
+  questionindex = url.indexOf("?");
+  if (url.indexOf("offer.pd")>0) {pageindex = url.indexOf("offer.pd")}
+  else if (url.indexOf("announce.pd")>0) {pageindex = url.indexOf("announce.pd")}
+  else if (url.indexOf("marketingpop.pd")>0) {pageindex = url.indexOf("marketingpop.pd")}
+
+  if(pageindex < questionindex){
+    if (intX || intY)
+    {
+      strWinFeatures="resizable=no,screenX="+intX+",screenY="+intY+",left="+intX+",top="+intY+",scrollbars=no,width="+width+",height="+height;
+      newwin = window.open(url,windowname,strWinFeatures);
+    }
+    else
+    { 
+      strWinFeatures="resizable=no,scrollbars=no,width="+width+",height="+height;
+      newwin = window.open(url,windowname,strWinFeatures);
+    }
+    newwin.focus();
+  }else{
+    window.document.location.href=url;
+  }
+}
+
+//THESE WERE HARCODED ON INDEX PAGE
+function openTips()
+ {
+  aWindow=window.open("/popup/search.html","SearchTips","height=320,width=400,scrollbars=yes,status=yes");
+  aWindow.focus();
+}
+// registration popup
+function openRegisterPop()
+  {
+  aWindow=window.open("/popup/register.html", "RegisterToday",
+    glbStdFeatures);
+  aWindow.focus();
+    }
+// signin popup
+function openSignInPop()
+{
+  var url = "/popup/signin.pd?refresh=1";
+  openJoin(url);
+}
+// signout popup
+function openSignOutPop()
+{
+  var url = "/popup/signout.pd?popup=1";
+  openJoin(url);
+}
+// Flooz stuff
+function openPopup(pageUrl)
+{
+aWindow=window.open("/"+pageUrl, "thewindow",glbStdFeatures);
+  aWindow.focus();
+}
+// Offer Popup
+function openOfferPop(host) {
+  var url = "/popup/offer.pd?";
+  if(host) {
+    url = host + url;
+  }
+  var url = "/popup/offer.pd?";
+  var intSw = window.screen.availWidth;
+  var intSh = window.screen.availHeight;
+  var intW = 300;
+  var intH = 320;      
+  var intX=intSw - intW;
+  var intY=intSh - intH;
+  openJoin(url,0,0,0,0,intX,0);  
+}
+
+//THIS WAS IN POPUP.JS
+function loadParent(url){
+  if(window.opener.closed == false){
+    window.opener.location.href = url;
+    window.close();  
+  }else{
+    newwin = window.open(url,"","resizable=yes,scrollbars=yes,status=yes,location=yes,toolbar=yes,menubar=yes");
+    newwin.focus();
+    window.close();
+  }
+}
+
+//THIS WAS IN MEMBERS
+function showLogin(strHost)
+{
+  //var url = "/popup/signin.pd?refresh=1";
+  var url = "/popup/offer.pd?"
+  openJoin(url);
+}
+
+function showLoginUpdate(strHost) {
+        var url = "/popup/offer.pd?";
+        openJoin(url);
+	//winLogin = window.open(strHost + "/popup/offer.pd", "SignIn",
+	//	    glbStdFeatures);
+	//winLogin.focus();
+     }
+
+function showLoginWithVars(strHost, strVars) {
+    var url = "/popup/offer.pd?";
+    if(strHost) {
+      url = strHost + url;
+    }
+    openJoin(url);  
+    //strVarsA = ""
+    //if (strVars) {
+    //    strVarsA = "&"+strVars
+    //}
+//	winLogin = window.open(strHost + "/popup/offer.pd?refresh=1" + strVarsA,
+//		    "SignIn", glbNonStdFeatures);
+//	winLogin.focus();
+     }
+
+function Go(host, value) {
+  var strUrl =  host + value + ".pd";
+  window.self.location.protocol = "http";
+  window.self.location.href = strUrl;
+}
+
+//REMOVED MEMBERS SIGNOUT POPUP SCRIPT THAT WAS HERE IN MEMBERS.JS
+
+function checkRegistration(strHost, mstatus, func) {
+  if(mstatus == "PAID" || mstatus == "PAIDFORGET" || mstatus == "PAIDSUB" || mstatus == "PAIDSUBFORGET" || mstatus == "FREE" || mstatus == "FORGET"){
+    //  user is registered, call passed-in function
+    func();
+  }else{
+    //  open registration pop-up
+    showLogin(strHost)
+  }  
+  
+  
+          
+}
+  
+function OpenNewWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
+
+function OpenNewKitWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'kit','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
+
+// NO MORE HIDING -->
+</script>
  
+<style type="text/css">
+.header, a.header:link, a.header:visited, a.header:active {font-family: Arial, helvetica, sans-serif; font-size: 21px; color: #000066; font-weight: bold;}
+.medium, a.medium:link, a.medium:visited, a.medium:active {font-family: Arial, helvetica, sans-serif; font-size: 14px; color:  #000066;}
+.mediumb, a.mediumb:link, a.mediumb:visited, a.mediumb:active {font-family: Arial, helvetica, sans-serif; font-size: 14px; color:  #000066;  font-weight: bold;}
+
+.text, a.text, a.text:visited, a.text:active { font-size: 12px; font-family: verdana, Arial, Helvetica, sans-serif }
+.textb, a.textb, a.textb:visited, a.textb:active { font-weight: bold; font-size: 12px; font-family: verdana, Arial, Helvetica, sans-serif }
+.textc, a.textc, a.textc:visited, a.textc:active { font-weight: bold; font-size: 12px; font-family: verdana, Arial, Helvetica, sans-serif; color:  #000066;}
+.thumbs, a.thumbs, a.thumbs:visited, a.thumbs:active { font-size: 12px; font-family: verdana, Arial, Helvetica, sans-serif}
+.textsmall, a.textsmall, a.textsmall:visited, a.textsmall:active  {font-family: verdana; font-size: 10px;}
+.textsmallb, a.textsmallb, a.textsmallb:visited, a.textsmallb:active  {font-family: verdana; font-size: 10px; font-weight: bold;}
+.textsmallbc, a.textsmallb, a.textsmallb:visited, a.textsmallb:active  {font-family: verdana; font-size: 10px; font-weight: bold; color:  #000066;}
+
+.homehead, a.homehead:link, a.homehead:visited, a.homehead:active {font-family:  Verdana,Arial, helvetica, sans-serif; font-size: 12px; color: #000000; font-weight: bold;}
+.home, a.home:link, a.home:visited, a.home:active {font-family: Verdana,Arial, helvetica, sans-serif; font-size: 11px;}
+
+.bread, a.bread, a.bread:visited, a.bread:active { font-weight: bold; font-size: 10px; font-family: verdana,Arial,Helvetica,sans-serif;}
+.siteerror, a.siteerror, a.siteerror:visited, a.siteerror:active {COLOR: #ff0000; FONT-FAMILY: Verdana,Arial,Helvetica; FONT-weight: bold; FONT-SIZE: 12px}
+</style> 
+</head> 
  
- 
-<title>AmericanGreetings.com - thousands of greetings for you to send.</title> 
-<script language="JavaScript" src="http://www.americangreetings.com/js/master.js"></script> 
-<script language="JavaScript1.1" src="http://ads.web.aol.com/file/adsWrapper.js"></script> 
- 
-<!--nothing here--> 
- 
- 
- 
+<body bgcolor="#ffffff" link="#3300ff" vlink="#990099" alink="#000000" text="#000000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"> 
 <a name="top"></a> 
 <!--header--> 
 <center> 
 
-<table width="770" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://www.americangreetings.com/ag/space.gif" alt="" border="0" width="1" height="3"></td></tr><tr><td valign="bottom"><img src="http://www.americangreetings.com/ag/logo/ag_logodflt.gif" width="157" height="60" alt="" border="0" hspace="2"></td><td valign="bottom"><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=468x60&amp;channel=og&amp;page=warrants.pd&amp;site=DFLT&amp;cat=DFLT&amp;subcat=DFLT"><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=468x60&channel=og&page=warrants.pd&site=DFLT&cat=DFLT&subcat=DFLT"></SCRIPT><NOSCRIPT><A HREF="http://ads.adsag.com/click.ng/Params.richmedia=yes&adsize=468x60&channel=og&page=warrants.pd&site=DFLT&cat=DFLT&subcat=DFLT" target="_blank"><IMG SRC="http://ads.adsag.com/image.ng/Params.richmedia=yes&adsize=468x60&channel=og&page=warrants.pd&site=DFLT&cat=DFLT&subcat=DFLT"></A></NOSCRIPT></iframe></td></tr><tr><td colspan="2"><img src="http://www.americangreetings.com/ag/space.gif" alt="" border="0" width="1" height="3"></td></tr><tr><td colspan="2"><img src="http://www.americangreetings.com/ag/nav/nav_home2.gif" border="0" usemap="#nav"></td></tr><tr><td><img src="http://www.americangreetings.com/ag/space.gif" alt="" border="0" width="1" height="3"></td></tr></tbody></table>
-<map name="nav">
-<area alt="Our home page" coords="5,2,66,28" href="http://www.americangreetings.com">
-<area alt="Printable paper projects" coords="76,2,134,28" href="http://www.americangreetings.com/cnp/index.pd">
-<area alt="Sign In" coords="151,3,193,28" href="http://www.americangreetings.com/members/signin.pd">
-<area alt="Membership with unlimited access" coords="201,3,226,28" href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=DFLT&amp;params.styles=MKTjoin&amp;ostatus=1a')">
-<area alt="Questions answered" coords="234,3,292,28" href="http://www.americangreetings.com/customer/index.pd">
-<area alt="Update account information" coords="315,3,373,28" href="javascript:openOfferPop();">
-<area alt="Store email addresses" coords="380,3,441,28" href="javascript:openOfferPop();">
-<area alt="Reminders of upcoming events" coords="447,3,505,28" href="javascript:openOfferPop();">
-<area alt="Greetings you've saved" coords="508,3,562,28" href="javascript:openOfferPop();">
-<area alt="Favorite greetings" coords="565,3,612,28" href="javascript:openOfferPop();">
-<area alt="Greetings sent &amp; pending" coords="617,3,653,28" href="javascript:openOfferPop();">
-<area alt="Pick up a greeting you've been sent" coords="664,3,760,28" href="http://www.americangreetings.com/findit.pd">
+<table border="0" cellpadding="0" cellspacing="0" width="770"><tbody><tr><td width="241"><a href="http://www.americangreetings.com"><img src="http://www.americangreetings.com/img/ag/nav/logo_112902.gif" width="230" height="75" border="0"></a></td><td width="61"><img src="http://www.americangreetings.com/img/ag/nav/n_sign.gif" width="61" height="73" border="0" usemap="#top"></td>
+<td width="468"><img src="http://www.americangreetings.com/img/ag/space.gif" width="1" height="7" border="0"><br><iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=468x60&amp;channel=og&amp;page=warrants.pd&amp;memstat=afu&amp;site=DFLT&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=468x60&channel=og&page=warrants.pd&memstat=afu&site=DFLT&cat=DFLT&subcat=DFLT&product="></SCRIPT><NOSCRIPT><A HREF="http://ads.adsag.com/click.ng/Params.richmedia=yes&adsize=468x60&channel=og&page=warrants.pd&memstat=afu&site=DFLT&cat=DFLT&subcat=DFLT&product=" target="_blank"><IMG SRC="http://ads.adsag.com/image.ng/Params.richmedia=yes&adsize=468x60&channel=og&page=warrants.pd&memstat=afu&site=DFLT&cat=DFLT&subcat=DFLT&product="></A></NOSCRIPT></iframe></td></tr><tr><td colspan="3"><img src="http://www.americangreetings.com/img/ag/nav/n_home.gif" width="770" height="39" border="0" usemap="#bar"></td></tr></tbody></table>
+<map name="bar"><area alt="Our home page" coords="3,1,76,31" href="http://www.americangreetings.com" shape="RECT">
+<area alt="Gift Center" coords="77,1,150,31" href="http://click.bmais.net/r/co=gcf723;http://www.americangreetings.com/giftcenter.pd" shape="RECT">
+<area alt="Find out new features" coords="150,1,223,31" href="http://click.bmais.net/r/co=wnf723;http://www.americangreetings.com/whatsnew.pd" shape="RECT">
+<area alt="Printable paper projects" coords="225,1,298,31" href="http://click.bmais.net/r/co=cpf723;http://www.americangreetings.com/cnp/index.pd" shape="RECT">
+<area alt="Update account information" coords="306,17,367,29" href="javascript:openOfferPop();" shape="RECT"><area alt="Reminders of upcoming events" coords="373,17,424,29" href="javascript:openOfferPop();" shape="RECT"><area alt="Store email addresses" coords="432,17,502,29" href="javascript:openOfferPop();"><area alt="More member features" coords="508,17,545,29" href="http://www.americangreetings.com/whatsnew.pd">
+<area alt="Questions answered" coords="567,14,603,30" href="http://www.americangreetings.com/customer/index.pd"></map>
+<map name="top">
+<area alt="" coords="0,21,57,47" href="http://www.americangreetings.com/members/signin.pd?referer=" shape="RECT">
+<area alt="" coords="1,47,58,73" href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=DFLT&amp;ahost=http://www.americangreetings.com&amp;params.styles=MKTjoin', '')" shape="RECT">
 </map> 
 <!--header--> 
  
@@ -40,84 +265,130 @@
  
  
 <!--center--> 
-<td align="center" valign="top" width="630" bgcolor="#ffffff"><br> 
+<td align="center" valign="top" width="630" bgcolor="#ffffff"> 
+<!--breadcrumbs--> 
+<table border="0" cellpadding="3" cellspacing="0" width="100%"><tbody><tr><td align="left" valign="top" class="textsmall"><a href="http://www.americangreetings.com">Home</a> &gt; Privacy Policy</td></tr></tbody></table> 
+<!--endbreadcrumbs--> 
 <!--center--> 
  
 <!--stuff goes here--> 
  
 <table width="100%" border="0" cellspacing="0" cellpadding="10" bgcolor="#FFFFFF"> 
 <tbody><tr> 
-<td align="left" valign="top">  
+<td align="left" valign="top" class="text">  
 <center> 
-    <font face="verdana,arial,helvetica" size="4"><b>AmericanGreetings.com  
-    Privacy Policy </b></font> 
+<span class="header">AmericanGreetings.com  
+    Privacy Policy</span> 
 </center> 
-<font face="verdana,arial,helvetica" size="2" color="#000000"> 
+ 
 <br> 
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>GENERAL MATTERS</strong></font><p><font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Overview</strong></font><br>At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a top priority.  For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online.  This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.</p> 
+<span class="mediumb">GENERAL MATTERS<br> 
+Overview</span><br> 
+ 
+<span class="text">At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a top priority.  For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online.  This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.</span> 
   
 <table width="500"> 
 <tbody><tr> 
-	<td> <a href="https://www.truste.org/validate/4542" target="_NEW"><img src="http://www.americangreetings.com/ag/clicksealbox2.gif" width="91" height="73" border="0" align="left" alt=""></a> 
-  </td> 
+<td><a href="https://www.truste.org/validate/4542" target="_NEW"><img src="http://www.americangreetings.com/img/ag/clicksealbox2.gif" width="91" height="73" border="0" align="left" alt=""></a></td> 
 </tr> 
 </tbody></table><br> 
    
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>TRUSTe Licensee; Contact Information</strong></font><br> 
+<span class="mediumb">TRUSTe Licensee: Contact Information</span><br> 
+<span class="text"> 
+AG is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this Policy, you should first email AmericanGreetings.com Customer Service at <a href="mailto:chris@americangreetings.com">chris@americangreetings.com</a> or contact us by mail at AmericanGreetings.com, One American Road, Cleveland, OH 44144.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <a href="http://www.truste.org" target="_blank">http://www.truste.org</a>.  TRUSTe will then serve as a liaison with the Site to resolve your concerns.</span> 
+<br> 
+<br> 
  
-AG is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this Policy, you should first email AmericanGreetings.com Customer Service at <a href="mailto:chris@americangreetings.com">chris@americangreetings.com</a> or contact us by mail at AmericanGreetings.com, One American Road, Cleveland, OH 44144.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <a href="http://www.truste.org" target="_blank">http://www.truste.org</a>.  TRUSTe will then serve as a liaison with the Site to resolve your concerns.<p></p> 
+<span class="mediumb">Scope of Policy</span><br> 
+<span class="text"> 
+This Policy applies to all AG-branded sites, including the AG organic sites as well as our co-branded sites including AG-AOL sites and Kidzonks.   This Policy does not apply to other companies’ or organizations’ web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.</span> 
+<br> 
+<br> 
+<span class="mediumb">INFORMATION ABOUT YOU</span> 
+<br> 
+<span class="mediumb">Information Gathered From All Visitors</span><br> 
+<i><b>Aggregate Data</b></i> 
+<br> 
+<span class="text"> 
+We gather certain generic information with respect to customers' use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program.  We only use this type of data in aggregate-that is, we look at the data on a collective basis, in summary form, rather than on an individual basis.  This data helps us determine the extent to which our customers use certain parts of our web site, which, in turn, enables us to make it as appealing as possible.  We may also provide statistical "ratings" about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business ("Business Partners"). We do this so they, too, can understand how often people use their areas of the site in order for them to provide you with the best possible experience.  These statistical ratings do not contain any personally identifiable information about you or any of our users. 
+<br> 
+<br> 
  
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Scope of Policy</strong></font><br> 
-<font face="verdana,arial,helvetica" size="2" color="#000000">This Policy applies to all AG-branded sites, including the AG organic sites as well as our co-branded sites including AG-AOL sites and Kidzonks.   This Policy does not apply to other companies’ or organizations’ web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.<p></p></font> 
+<i><b>Cookies</b></i> 
+<br> 
+We use a technology nicknamed "cookies" on our web site.  Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes.  We use cookies to make your visit to our web site easier.  For example, cookies allow us to recognize you when you re-enter our web site so that you will not have to sign-in each time you visit.  Cookies also allow us to count the number of unique and return visitors who use our site. 
+<br> 
+<br> 
  
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>INFORMATION ABOUT YOU</strong></font><p><font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Information Gathered From All Visitors</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"><i><strong>Aggregate Data</strong></i><br> 
-We gather certain generic information with respect to customers' use of our web site, such as the number of unique visitors, the frequency with which they visit, and the areas on the web site that they favor. These statistics are very much like television ratings that tell the networks how many people tuned in to a program.  We only use this type of data in aggregate-that is, we look at the data on a collective basis, in summary form, rather than on an individual basis.  This data helps us determine the extent to which our customers use certain parts of our web site, which, in turn, enables us to make it as appealing as possible.  We may also provide statistical "ratings" about how our customers collectively use our web site to advertisers, sponsors, and other companies with which we do business ("Business Partners"). We do this so they, too, can understand how often people use their areas of the site in order for them to provide you with the best possible experience.  These statistical ratings do not contain any personally identifiable information about you or any of our users.</font></p><font face="verdana,arial,helvetica" size="2" color="#000000"> 
+Most browsers are initially set up to accept cookies.  If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies.  It is important to note that you may not be able to use certain features on our web site if you choose not to accept cookies, such as Create &amp; Print, My Page, address book, favorites, and greetings history. In addition, you will not be able to participate in any of our sweepstakes, contests or monthly drawings. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site. 
+<br> 
+<br> 
  
-<i><strong>Cookies</strong></i><br> 
-We use a technology nicknamed "cookies" on our web site.  Cookies are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes.  We use cookies to make your visit to our web site easier.  For example, cookies allow us to recognize you when you re-enter our web site so that you will not have to sign-in each time you visit.  Cookies also allow us to count the number of unique and return visitors who use our site.<p></p> 
- 
-Most browsers are initially set up to accept cookies.  If you prefer, you can reset your browser to notify you when you've received a cookie or, alternatively, to refuse to accept cookies.  It is important to note that you may not be able to use certain features on our web site if you choose not to accept cookies, such as Create &amp; Print, My Page, address book, favorites, and greetings history. In addition, you will not be able to participate in any of our sweepstakes, contests or monthly drawings. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site.<p></p> 
- 
-<i><strong>Third Party Advertiser Cookies</strong></i><br> 
+<i><b>Third Party Advertiser Cookies</b></i> 
+<br> 
 We use third-party advertising companies to serve our ads on the Internet.  These third-party advertising companies employ cookie and Clear Gif technology (aka 1x1 Pixel .gifs, Web bugs) to measure and improve the effectiveness of ads for their clients.  To do so, these companies may use anonymous information about your visits to our Web site and other Web sites.  This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address.  This information can also be used for online preference marketing purposes.  AG does not use or have access to this information.<br><br>   
  
-If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the web site of the National Advertising Initiative ("NAI") to opt-out of all network advertising cookies.  <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">Click here</a> for the NAI gateway opt-out site.  This site will also allow you to review the third-party advertising companies' privacy policies.<p></p> 
+If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the web site of the National Advertising Initiative ("NAI") to opt-out of all network advertising cookies.  <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">Click here</a> for the NAI gateway opt-out site.  This site will also allow you to review the third-party advertising companies' privacy policies. 
+<br> 
+<br> 
  
-<i><strong>IP Addresses</strong></i><br> 
-We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors.  An IP address is a unique number assigned to your computer when you are using your browser on the Internet.  We log this information so that we can monitor things like the number of visitors visiting the web site; however, we do not link your IP address to any personally identifying information.<p></p> 
+<i><b>IP Addresses</b></i> 
+<br> 
+We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors.  An IP address is a unique number assigned to your computer when you are using your browser on the Internet.  We log this information so that we can monitor things like the number of visitors visiting the web site; however, we do not link your IP address to any personally identifying information. 
+<br> 
+<br> 
  
-<i><strong>When You Send A Greeting</strong></i><br> 
-If you use our web site to send an online greeting or any other content, we collect your e-mail address and your recipient's e-mail address.  This information is necessary to send the content and provide confirmation that it has been received.  We may also use your e-mail address to contact you if you have chosen to receive communications from AG or its Partners.  (See Opt-Out/Changing Your Status, below).<p></p>   
- 
- 
-<i><strong>Personalizing Your Experience on the Web Site</strong></i><br> 
-We try to personalize your experience on our web sites by tracking greetings and other content you have sent and gifts you have purchased in order to shape our recommendations about the greetings, cards, games, and gifts that might be of interest to you. We also examine customer traffic patterns and web site usage to help us enhance the design and layout of the site and make it easier to navigate.<p></p>  
- 
-From time to time, we may send you surveys or solicit your feedback.  We use surveys to gage user interest in new products and premiums we may offer.  We will ask for your feedback on greetings and other site features.  We will use the information we gather to improve our sites and provide a more meaningful experience for our users.  We may also use the information to alert you to offers and products in which you have expressed an interest.<p></p> 
- 
- 
-<i><strong>Subscribing to the AG Newsletter</strong></i><br> 
-We send to all of our users our exclusive AG Newsletter, which alerts you to new features, content, and services, premiums available on our site.  From time to time, we will also send you invitations to enhance your AG membership.  These communications are sent to you directly by AG.  We do not share your personally identifiable information with any third parties in connection with the Newsletter.<p></p> 
- 
-You can always decline the Newsletter by un-checking the opt-out box on the "Personalize Your Greeting" pages or registration pages on our site.  If you are already receiving the Newsletter and you want to unsubscribe, you can simply follow the "unsubscribe" links at the bottom of each edition.  For other ways to unsubscribe, see Opt-Out/Changing Your Status, below.<p></p> 
+<i><b>When You Send A Greeting</b></i> 
+<br> 
+If you use our web site to send an online greeting or any other content, we collect your e-mail address and your recipient's e-mail address.  This information is necessary to send the content and provide confirmation that it has been received.  We may also use your e-mail address to contact you if you have chosen to receive communications from AG or its Partners.  (See Opt-Out/Changing Your Status, below). 
+<br> 
+<br> 
  
  
-<i><strong>Offers from Our Business Partners</strong></i><br> 
+<i><b>Personalizing Your Experience on the Web Site</b></i> 
+<br> 
+We try to personalize your experience on our web sites by tracking greetings and other content you have sent and gifts you have purchased in order to shape our recommendations about the greetings, cards, games, and gifts that might be of interest to you. We also examine customer traffic patterns and web site usage to help us enhance the design and layout of the site and make it easier to navigate. 
+<br> 
+<br> 
+ 
+ 
+From time to time, we may send you surveys or solicit your feedback.  We use surveys to gage user interest in new products and premiums we may offer.  We will ask for your feedback on greetings and other site features.  We will use the information we gather to improve our sites and provide a more meaningful experience for our users.  We may also use the information to alert you to offers and products in which you have expressed an interest. 
+<br> 
+<br> 
+ 
+ 
+<i><b>Subscribing to the AG Newsletter</b></i> 
+<br> 
+We send to all of our users our exclusive AG Newsletter, which alerts you to new features, content, and services, premiums available on our site.  From time to time, we will also send you invitations to enhance your AG membership.  These communications are sent to you directly by AG.  We do not share your personally identifiable information with any third parties in connection with the Newsletter. 
+<br> 
+<br> 
+ 
+You can always decline the Newsletter by un-checking the opt-out box on the "Personalize Your Greeting" pages or registration pages on our site.  If you are already receiving the Newsletter and you want to unsubscribe, you can simply follow the "unsubscribe" links at the bottom of each edition.  For other ways to unsubscribe, see Opt-Out/Changing Your Status, below. 
+<br> 
+<br> 
+ 
+ 
+<i><b>Offers from Our Business Partners</b></i> 
+<br> 
 AG also offers you the opportunity to receive money-saving offers, discounts, and promotions from our Business Partners.  These communications may come from AG or directly from the Partners themselves.  We may also share with them certain demographic, geographic, preference, and other personally identifiable information we have gathered about you.  This will help them in directing to you offers that are more likely to be of interest.<br><br> 
  
-This program is conducted strictly on an opt-in basis.  In order to receive the offers, you must affirmatively check the clearly marked box on our "Personalize Your Greeting" pages and registration pages on our site.  If you leave the box unchecked, you will not receive any offers.  If you do sign up for the program but later change your mind, you are free at any time to opt-out by following the procedures outlined in Opt-Out/Changing Your Status, below.  <p></p> 
+This program is conducted strictly on an opt-in basis.  In order to receive the offers, you must affirmatively check the clearly marked box on our "Personalize Your Greeting" pages and registration pages on our site.  If you leave the box unchecked, you will not receive any offers.  If you do sign up for the program but later change your mind, you are free at any time to opt-out by following the procedures outlined in Opt-Out/Changing Your Status, below.   
+<br> 
+<br></span> 
  
  
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Information Gathered From Members</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"> 
+<span class="mediumb">Information Gathered From Members</span><br> 
+<span class="text"> 
 If you elect to purchase an Unlimited Membership on AG, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.<br><br> 
   
 Additional data may be collected from Unlimited Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of greetings you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Unlimited Members may register for AG Reminders, which are e-mail alerts to track important dates and occasions they specify. AG Unlimited Membership allows you to store greetings for future delivery, bookmark favorite greetings, and save greetings received in an online scrapbook. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.<br><br> 
  
-If you become an Unlimited Member of AG from one of our co-branded sites, we may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted.<br><br> 
+If you become an Unlimited Member of AG from one of our co-branded sites, we may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted.<br><br></span> 
  
  
  
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>AG's USES OF PERSONAL INFORMATION</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"> 
+<span class="mediumb">AG's USES OF PERSONAL INFORMATION</span><br> 
+<span class="text"> 
 If you have provided us your consent, we will use the information we have collected about you in five ways: 
  
 <ul> 
@@ -128,21 +399,34 @@ If you have provided us your consent, we will use the information we have collec
 <li> To send the user other information about AG.</li>  
 </ul> 
  
-These communications may come via e-mail, postal mail, or telephone.<p></p> 
+These communications may come via e-mail, postal mail, or telephone. 
+<br> 
+<br> 
  
-<i><strong>On-Site Advertising</strong></i> 
-AG may also use information about you to target advertising while you are visiting our site.  For example, we may serve ads from toy companies to users searching the Kids Birthday Greeting pages.  We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area.  We may use cookie files to assure that you will not be served the same ads repeatedly.<p></p> 
+<i><b>On-Site Advertising</b></i><br> 
+AG may also use information about you to target advertising while you are visiting our site.  For example, we may serve ads from toy companies to users searching the Kids Birthday Greeting pages.  We may also use geographic or other information we have collected from you to make sure that the ads you see are for goods and services that are actually of interest to you or are available in your area.  We may use cookie files to assure that you will not be served the same ads repeatedly. 
+<br> 
+<br> 
  
-<i><strong>Order Fulfillment</strong></i> 
-From time to time, you may be given the opportunity to order products and services directly on the AG site, the Newsletters, or in other communications you may receive from AG.  These orders are typically fulfilled by AG's Business Partners directly.  To process your order, AG may provide these Partners with your name, street address, e-mail address, phone number, and credit card information.  AG will limit the types of information shared to the minimum necessary to efficiently process your order.  However, in accepting these offers, you become a customer of the Business Partner and therefore subject to its privacy policy.  AG will alert users whenever a Business Partner will be fulfilling an order for products or services ordered on our site.  We encourage you to review these companies' privacy policies and only do business with those who adhere to personal information practices with which you are comfortable.<p></p> 
+<i><b>Order Fulfillment</b></i><br> 
+From time to time, you may be given the opportunity to order products and services directly on the AG site, the Newsletters, or in other communications you may receive from AG.  These orders are typically fulfilled by AG's Business Partners directly.  To process your order, AG may provide these Partners with your name, street address, e-mail address, phone number, and credit card information.  AG will limit the types of information shared to the minimum necessary to efficiently process your order.  However, in accepting these offers, you become a customer of the Business Partner and therefore subject to its privacy policy.  AG will alert users whenever a Business Partner will be fulfilling an order for products or services ordered on our site.  We encourage you to review these companies' privacy policies and only do business with those who adhere to personal information practices with which you are comfortable.</span> 
+<br> 
+<br> 
  
  
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Privacy of Greeting Card Information</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"><strong><i>We treat all of our greetings products as private correspondence between the sender and the recipient and will not disclose the contents of any greeting other than to the intended recipient, except under the specific situations outlined in Disclosure Exceptions, below.</i></strong><p></p>  
+<span class="mediumb">Privacy of Greeting Card Information</span><br> 
+<span class="text"> 
+<b><i>We treat all of our greetings products as private correspondence between the sender and the recipient and will not disclose the contents of any greeting other than to the intended recipient, except under the specific situations outlined in Disclosure Exceptions, below.</i></b> 
+<br> 
+<br> 
  
-This policy applies to all aspects of our greetings, including your personalized messages, attached photos or graphics, Create &amp; Print™ products, or paper cards.  Under normal circumstances, we will not monitor or edit the contents of the online greetings you send.  On occasion, however, we may need to view your message in connection with the technical processing of your greeting or the maintenance of our network.  Also, if you ask one of our customer service representatives to help you send a greeting or to verify that a greeting was sent, that representative will be able to access all information about the card, including the recipient's e-mail address and the message.<p></p>   
  
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Disclosure Exceptions</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"><p></p> 
+This policy applies to all aspects of our greetings, including your personalized messages, attached photos or graphics, Create &amp; Print™ products, or paper cards.  Under normal circumstances, we will not monitor or edit the contents of the online greetings you send.  On occasion, however, we may need to view your message in connection with the technical processing of your greeting or the maintenance of our network.  Also, if you ask one of our customer service representatives to help you send a greeting or to verify that a greeting was sent, that representative will be able to access all information about the card, including the recipient's e-mail address and the message.</span> 
+<br> 
+<br> 
  
+<span class="mediumb">Disclosure Exceptions</span><br> 
+<span class="text"> 
 Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary:  
 <ul> 
 <li>To comply with legal process such as a search warrant, subpoena or court order;</li> 
@@ -150,87 +434,116 @@ Notwithstanding the above policies, we reserve the right to disclose your person
 <li>To investigate reports of users sending material using a false e-mail address or users sending</li> harassing, threatening, or abusive messages; 
 <li>To protect against misuse or unauthorized use of our web site and/or the AG service; or</li> 
 <li>During emergencies, such as when we believe someone's physical safety is at risk.</li>    
-</ul><p></p> 
+</ul></span> 
+<br> 
+<br> 
  
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>YOUR CONTROL OVER YOUR PERSONAL INFORMATION</strong></font><p></p> 
+<span class="mediumb">YOUR CONTROL OVER YOUR PERSONAL INFORMATION</span> 
+<br> 
+<br> 
  
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Opt-Out/Changing Your Status</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"> 
-At any time, you can change choices you have previously made as to the use of your personal information.  Every communication AG sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings.   Alternatively, you can send a blank e-mail to <a href="mailto:nomailag@privacy.americangreetings.com">nomailag@privacy.americangreetings.com</a> and type "unsubscribe" in the subject field.  This system is automated and must be contacted from the email address you wish to have removed.  Permission changes will be honored as soon as possible after receipt.  Please allow five to seven days for processing.  Permission changes will however not affect any information which you provided to us and which we previously shared with our Business Partners. <p></p>  
- 
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Editing Your Profile</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"><p></p> 
-If you are a registered member, you have the ability to review and correct your personally identifiable information at any time.  Simply log into the "My Page" area of the site and follow the links to "Edit My Profile."  You can revise, add, delete, or completely cancel all alerts by following the links to "Holiday Reminders" and "My Personal Reminders."<p></p> 
-  
- 
- 
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>OTHER MATTERS</strong></font><br><p></p> 
- 
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Protection For Children - COPPA Compliance</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"><p></p> 
- 
-We are committed to protecting the privacy and rights of children online.  We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information.  To that end, we have made it our policy to not collect any individually identifiable information from users whom we know are under the age of 13.  Our registration process blocks the registration of users under 13 years old and will automatically delete all individually identifiable information collected from such users.<p></p>    
- 
-Because we know that our AOL-Kidzonks site is frequented by children, we do not collect individually identifiable information from users of that service. When children send greetings from that site, we only maintain their e-mail address long enough to send and have the recipient view the card.  After that, all personally identifiable information relating to the transaction is deleted from our system.  We only communicate with children once during the card sending process -- to tell them that their greeting has been picked up.<p></p>   
- 
-The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children.  To learn more about COPPA, <a href=" http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html" target="_blank">click here</a> for the Federal Trade Commission COPPA Web Site.<p></p>  
- 
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Contests and Promotions</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"><br> 
- 
-Occasionally, AG may sponsor contests and/or promotions on our sites or in our e-mail products.  Participation in such contests is purely voluntary.  In order to enter a contest or promotion, you may be asked to provide personally identifiable information.  By entering, you agree to all of its terms and conditions, which will be clearly outlined in the rules.  Where a contest or promotion is not sponsored by AG, the identity of the sponsor will be clearly disclosed in the rules.  AG cannot be responsible for actions or policies of third-party contest sponsors.  Users are encouraged to review the relevant privacy policy of the sponsor before entering.<p></p> 
- 
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Sale of Assets</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"><p></p> 
- 
-In the event that AG and/or its units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party acquiring AG's assets.  In the event we do so, we will place a prominent notice of the sale on the homepage of  our site, with links to information as to how you can change your privacy preferences.<p></p> 
+<span class="mediumb">Opt-Out/Changing Your Status</span><br> 
+<span class="text"> 
+At any time, you can change choices you have previously made as to the use of your personal information.  Every communication AG sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings.   Alternatively, you can send a blank e-mail to <a href="mailto:nomailag@privacy.americangreetings.com">nomailag@privacy.americangreetings.com</a> and type "unsubscribe" in the subject field.  This system is automated and must be contacted from the email address you wish to have removed.  Permission changes will be honored as soon as possible after receipt.  Please allow five to seven days for processing.  Permission changes will however not affect any information which you provided to us and which we previously shared with our Business Partners. </span> 
+<br> 
+<br> 
  
  
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Data Security</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"><p></p> 
+<span class="mediumb">Editing Your Profile</span><br> 
+<span class="text"> 
+If you are a registered member, you have the ability to review and correct your personally identifiable information at any time.  Simply log into the "My Page" area of the site and follow the links to "Edit My Profile."  You can revise, add, delete, or completely cancel all alerts by following the links to "Holiday Reminders" and "My Personal Reminders."</span> 
  
-When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties.  While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser.<p></p>       
+<br> 
+<br> 
  
-In addition to our online security efforts, we take steps to protect your personal data offline, as well.  All of your information, not just the sensitive information mentioned above, is restricted in our offices.  Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer service representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage.<p></p> 
+<span class="mediumb">OTHER MATTERS</span><br> 
+<span class="mediumb">Protection For Children - COPPA Compliance</span><br> 
+<span class="text"> 
+We are committed to protecting the privacy and rights of children online.  We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information.  To that end, we have made it our policy to not collect any individually identifiable information from users whom we know are under the age of 13.  Our registration process blocks the registration of users under 13 years old and will automatically delete all individually identifiable information collected from such users. 
+<br> 
+<br> 
+   
  
+Because we know that our AOL-Kidzonks site is frequented by children, we do not collect individually identifiable information from users of that service. When children send greetings from that site, we only maintain their e-mail address long enough to send and have the recipient view the card.  After that, all personally identifiable information relating to the transaction is deleted from our system.  We only communicate with children once during the card sending process -- to tell them that their greeting has been picked up. 
+<br> 
+<br> 
+ 
+The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children.  To learn more about COPPA, <a href=" http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html" target="_blank">click here</a> for the Federal Trade Commission COPPA Web Site.</span> 
+<br> 
+<br> 
+ 
+ 
+<span class="mediumb">Contests and Promotions</span><br> 
+<span class="text"> 
+Occasionally, AG may sponsor contests and/or promotions on our sites or in our e-mail products.  Participation in such contests is purely voluntary.  In order to enter a contest or promotion, you may be asked to provide personally identifiable information.  By entering, you agree to all of its terms and conditions, which will be clearly outlined in the rules.  Where a contest or promotion is not sponsored by AG, the identity of the sponsor will be clearly disclosed in the rules.  AG cannot be responsible for actions or policies of third-party contest sponsors.  Users are encouraged to review the relevant privacy policy of the sponsor before entering.</span> 
+<br> 
+<br> 
+ 
+<span class="mediumb">Sale of Assets</span><br> 
+<span class="text"> 
+In the event that AG and/or its units or subsidiaries are ever sold, acquired, merged, liquidated, reorganized, or otherwise transferred, we reserve the right to transfer our user databases together with any personally identifiable information contained therein, to a third-party acquiring AG's assets.  In the event we do so, we will place a prominent notice of the sale on the homepage of  our site, with links to information as to how you can change your privacy preferences.</span> 
+<br> 
+<br> 
+ 
+ 
+<span class="mediumb">Data Security</span><br> 
+<span class="text"> 
+When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties.  While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser. 
+<br> 
+<br> 
+In addition to our online security efforts, we take steps to protect your personal data offline, as well.  All of your information, not just the sensitive information mentioned above, is restricted in our offices.  Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer service representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage. 
+<br> 
+<br> 
 AG's main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms.   
-If you have any questions about the security at our website, you can send an email to <a href="mailto:chris@americangreetings.com">chris@americangreetings.com.</a><p></p>   
- 
- 
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>Changes to the Privacy Policy</strong></font><br><font face="verdana,arial,helvetica" size="2" color="#000000"><p></p> 
- 
-AG  will occasionally update this Privacy Policy in response to changing business circumstances and legal developments.  When AG posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of AG Sites.  If there are material changes to this Policy or in how AG uses your personally identifiable information, AG will prominently post such changes prior to implementing the change. AG encourages you to periodically review this Policy to be informed of how we are protecting your information.<p></p> 
- 
- 
-<font face="verdana,arial,helvetica" size="4" color="#000000"><strong>USE COMMON SENSE IN ALL YOUR ONLINE  ACTIVITIES</strong></font><p></p> 
- 
-Even the best policy can't protect your online privacy and security in all circumstances.  Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets.  Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities.<p></p> 
- 
-Be aware that e-mail is an inherently insecure form of communication.  Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings.<p></p>   
- 
-Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam).  Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so.<p></p> 
- 
-Beware of scams in which persons unknown to you request your screen name, password, or credit card information.  Make sure you verify the identity of anyone asking for personal information.<p></p> 
- 
-Always monitor your children's on-line activities and educate them as to the rules for safe Internet use.  For more information, <a href="http://www.getnetwise.org" target="_blank">click here</a> for the Internet Education Foundation's Online Safety Guide for Kids.<p></p> 
- 
-As always, if you have any questions, please feel free to contact us at <a href="mailto:chris@americangreetings.com">chris@americangreetings.com</a>.<p></p>  
- 
- 
-</font></font></font></font></font></font></font></font></font></font></font></font></font></td></tr></tbody></table></td> 
+If you have any questions about the security at our website, you can send an email to <a href="mailto:chris@americangreetings.com">chris@americangreetings.com.</a></span> 
+<br> 
+<br> 
+<span class="mediumb">Changes to the Privacy Policy</span><br> 
+AG  will occasionally update this Privacy Policy in response to changing business circumstances and legal developments.  When AG posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of AG Sites.  If there are material changes to this Policy or in how AG uses your personally identifiable information, AG will prominently post such changes prior to implementing the change. AG encourages you to periodically review this Policy to be informed of how we are protecting your information. 
+<br> 
+<br> 
+<span class="mediumb">USE COMMON SENSE IN ALL YOUR ONLINE  ACTIVITIES</span><br> 
+<span class="text"> 
+Even the best policy can't protect your online privacy and security in all circumstances.  Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets.  Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities. 
+<br> 
+<br> 
+Be aware that e-mail is an inherently insecure form of communication.  Remember that third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings. 
+<br> 
+<br> 
+Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail (also known as spam).  Be sure that you only disclose your e-mail address in circumstances in which it is safe to do so. 
+<br> 
+<br> 
+Beware of scams in which persons unknown to you request your screen name, password, or credit card information.  Make sure you verify the identity of anyone asking for personal information. 
+<br> 
+<br> 
+Always monitor your children's on-line activities and educate them as to the rules for safe Internet use.  For more information, <a href="http://www.getnetwise.org" target="_blank">click here</a> for the Internet Education Foundation's Online Safety Guide for Kids. 
+<br> 
+<br> 
+As always, if you have any questions, please feel free to contact us at <a href="mailto:chris@americangreetings.com">chris@americangreetings.com</a>. 
+</span> 
+<br><br> 
+</td> 
+</tr> 
+</tbody></table></td> 
 <!--right--> 
-<td align="center" valign="top" bgcolor="#006699" width="140"> 
-<img src="http://www.americangreetings.com/ag/space.gif" width="140" height="1" border="0"> 
+<td align="center" valign="top" bgcolor="#319aff" width="140"> 
+<img src="http://www.americangreetings.com/img/ag/space.gif" width="140" height="1" border="0"> 
 </td> 
 <!--end right--> 
 </tr></tbody></table>   
 <br><p><br> 
 <br>
 <table width="770" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td colspan="2" bgcolor="#006699"><img src="http://www.americangreetings.com/ag/space.gif" border="0" alt="" width="770" height="1"></td></tr>
-<tr><td colspan="2"><img src="http://www.americangreetings.com/ag/space.gif" border="0" alt="" width="1" height="5"></td></tr>
+<tbody><tr><td colspan="2" bgcolor="#319aff"><img src="http://www.americangreetings.com/img/ag/space.gif" border="0" alt="" width="770" height="1"></td></tr>
+<tr><td colspan="2"><img src="http://www.americangreetings.com/img/ag/space.gif" border="0" alt="" width="1" height="5"></td></tr>
 <tr>
 <td width="630" align="center">
-<img src="http://www.americangreetings.com/ag/space.gif" border="0" alt="" width="630" height="1"><br>
+<img src="http://www.americangreetings.com/img/ag/space.gif" border="0" alt="" width="630" height="1"><br>
 <table border="0" cellpadding="4" cellspacing="0">
 <tbody><tr><td align="center">
 <font class="smallish" face="verdana,arial,helvetica" size="1">
  <a href="http://www.americangreetings.com/customer/index.pd" target="_top">Customer Service - Email Us</a><b> | </b>
- <script language="JavaScript" src="/mediakit/pop.js"></script><a href="JavaScript:OpenNewWindow('/advertise.pd','500','300','no')">Advertise With Us</a><b> | </b>
+ <a href="JavaScript:OpenNewWindow('/advertise.pd','500','300','no')">Advertise With Us</a><b> | </b>
  <a href="http://www.americangreetings.com/corp/index.pd" target="_blank">AmericanGreetings.com Information</a> <b> | </b>
  <a href="http://www.americangreetings.com/warrants.pd" target="_top">Privacy Policy</a> <b> | </b>  <a href="http://www.americangreetings.com/legal.pd#top" target="_top">Terms&nbsp;of&nbsp;Service</a>
 </font></td></tr>
@@ -239,14 +552,18 @@ As always, if you have any questions, please feel free to contact us at <a href=
 <font class="smallish" face="verdana,arial,helvetica" size="1">Copyright © 1997-2002 AG.com, Inc. All rights reserved.
 </font></td></tr></tbody></table>
 </td>
-<td width="140" align="right" valign="top"><img src="http://www.americangreetings.com/ag/space.gif" border="0" alt="" width="1" height="4"><br><a href="http://www.americangreetings.com/warrants.pd" target="_top">
-<img src="http://www.americangreetings.com/ag/finalmark2.gif" border="0" alt=""></a></td>
+<td width="140" align="right" valign="top"><img src="http://www.americangreetings.com/img/ag/space.gif" border="0" alt="" width="1" height="4"><br><a href="http://www.americangreetings.com/warrants.pd" target="_top">
+<img src="http://www.americangreetings.com/img/ag/finalmark2.gif" border="0" alt=""></a></td>
 </tr>
 </tbody></table><br>
  
 <br></p><p><br></p><p><br> 
-<script language="JavaScript1.1" src="http://ads.web.aol.com/file/adsEnd.js"></script> 
+ 
+</p></center> 
+<img height="1" width="1" border="0" src="http://ads.bluemountain.com/impression.gif?mstatus=AFU&amp;source=ag&amp;uid=3df271aad1edeea1511b6313&amp;path=/warrants.pd">
  
  
  
-</p></center></body></html>
+ 
+ 
+</body></html>
