@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209221209id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623082754id_/http%3A//www.ams.org/ams/privacy.html) for the most accurate reproduction.*
 
 # AMS Privacy Statement
 
@@ -11,7 +11,7 @@ Your email address will be used only within the AMS. AMS-generated email include
 
 We do not sell or rent email addresses to anyone outside the AMS. 
 
-####  **You may "Opt-Out"/Choose to be removed from AMS emails:**
+###  You may "Opt-Out"/Choose to be removed from AMS emails:
 
 By email: [cust-serv@ams.org](mailto:cust-serv@ams.org). Or, if you have subscribed to a majordomo (automatically-generated) email notification service, instructions to “unsubscribe” are at the bottom of each message you receive.
 
@@ -29,29 +29,29 @@ The AMS website uses SSL (Secure Sockets Layer, the industry-standard security p
 
 Once your information is received at the AMS, procedures are in place to protect it from loss, misuse, or alteration. 
 
-####  **Registration and Membership Renewal Forms**
+###  Registration and Membership Renewal Forms
 
 Our site's registration and membership renewal forms require users to give us contact information (e.g. name and email address), method of payment, unique identifiers (such as AMS membership codes), and, sometimes, demographic information. We use contact information from the registration forms to contact you when necessary. The unique identifiers are used to verify the user's identity and to establish account numbers in our record system. Information regarding method of payment is collected for member enrollment and renewal, and to process orders for products and services.
 
 Demographic information about individuals (ascertained from communications, transactions or surveys) is kept confidential and is used by the AMS only in compiling statistical information in the aggregate about and for the mathematical community. 
 
-####  **E-Commerce**
+###  **E-Commerce**
 
 The AMS Bookstore provides an order form for customers. We collect contact information (e.g. email address) and method of payment. Contact information from the order form is used to process orders and to send information about the organization, products, and services. User payment information that is collected is used to check the users' qualifications and to bill the user for products and services. 
 
-####  **Use of Cookies**
+###  **Use of Cookies**
 
 A cookie is a piece of data that is stored by your browser. The AMS uses cookies for two purposes: to keep track of your shopping cart and to maintain user session identity. 
 
 The cookie function on your browser may be disabled or the contents erased. Consult your browser help for instructions. Certain functions of the AMS website that require user identification depend on cookies being accepted by your browser. 
 
-####  **Use of IP Addresses**
+###  **Use of IP Addresses**
 
 The AMS uses IP addresses for two purposes: to help diagnose problems with our server in order to best administer our website, and to verify access by a licensed subscriber (for publications that require license agreements, such as AMS journals and MathSciNet). 
 
 Aggregate data such as domain names (not email addresses) are collected to record the number of hits on a page and to compile usage statistics. 
 
-####  **How to tell if a Website is secure**
+###  **How to tell if a Website is secure**
 
 SSL-capable browsers have a symbol on the browser window that indicates a secure mode: 
 
