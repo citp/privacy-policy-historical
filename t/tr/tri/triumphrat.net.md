@@ -1,47 +1,6 @@
-> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php%3Fop%3Dmodload%26name%3DPrivacy_Statement%26file%3Dindex) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625101740id_/http%3A//triumphrat.net/modules.php%3Fop%3Dmodload%26name%3DPrivacy_Statement%26file%3Dindex) for the most accurate reproduction.*
 
 # TriumphRat.Net :: Triumph Motorcycles, RAT Discussions, Triumph Web Links, Motorcycle News, Events, Triumph FAQ
-
-| 
-
-  
-
-
-  
-
-
-|  **Who's online**  
----  
-There are currently, 11 guest(s) and 4 member(s) online.  
-
-
-* * *
-
-Registered Users online:  
-[ledzepdad](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/user.php?op=userinfo&uname=ledzepdad)  
-[Will](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/user.php?op=userinfo&uname=Will)  
-[mickmaguire](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/user.php?op=userinfo&uname=mickmaguire)  
-[LegendTTom](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/user.php?op=userinfo&uname=LegendTTom)  
-  
-You are an anonymous user. You can register for free by clicking [here](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/user.php)  
-  
-  
-  
-
-
-  
-
-
-**Today's Events**  
----  
-No events found for today!  
-Why not [**submit**](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=submit) yours?  
-  
-  
-
-
-  
-| 
 
 Privacy Statement for TriumphRat.Net
 
@@ -51,9 +10,11 @@ Information Automatically Logged
 
 We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and/or Service Provider you are using. Your IP address is also used to gather broad demographic information, and for other purposes.
 
+In addition, TriumphRat.Net can track Browser Version, OS Version, Screen Resolution, Items clicked on, Search Engine Used, Search Engine words used to find TriumphRat.Net, and other types of general information. TriumphRat.Net does not pull your email address.
+
 Cookies
 
-Our Site uses cookies to keep track of your visits, and to make sure you don't see the same bannder ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
+TriumphRat.Net uses cookies to keep track of your visits, and to make sure you don't see the same banner ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
 
 Advertisers
 
@@ -105,64 +66,3 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 [ webmaster@TriumphRat.Net](mailto:webmaster@triumphrat.net)
-
-| | 
-
-|  **Login**  
----  
-Don't have a profile yet? You can [create one](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/user.php). As a registered user you have some advantages like discussion groups, comments configuration, and posting comments with your name.  
-  
-  
-
-
-**Event Calendar**  
----  
-| [December 2002](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/1/2002&type=month)  
----  
-[1](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/1/2002&type=day)  
-| [2](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/2/2002&type=day)  
-| **[3](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/3/2002&type=day)**  
-| [4](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/4/2002&type=day)  
-| [5](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/5/2002&type=day)  
-| [6](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/6/2002&type=day)  
-| [7](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/7/2002&type=day)  
-  
-[8](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/8/2002&type=day)  
-| [9](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/9/2002&type=day)  
-| [10](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/10/2002&type=day)  
-| [11](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/11/2002&type=day)  
-| [12](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/12/2002&type=day)  
-| [13](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/13/2002&type=day)  
-| [14](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/14/2002&type=day)  
-  
-[15](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/15/2002&type=day)  
-| [16](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/16/2002&type=day)  
-| [17](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/17/2002&type=day)  
-| [18](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/18/2002&type=day)  
-| [19](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/19/2002&type=day)  
-| [20](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/20/2002&type=day)  
-| [21](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/21/2002&type=day)  
-  
-[22](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/22/2002&type=day)  
-| [23](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/23/2002&type=day)  
-| [24](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/24/2002&type=day)  
-| [25](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/25/2002&type=day)  
-| [26](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/26/2002&type=day)  
-| [27](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/27/2002&type=day)  
-| [28](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/28/2002&type=day)  
-  
-[29](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/29/2002&type=day)  
-| [30](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/30/2002&type=day)  
-| [31](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=12/31/2002&type=day)  
-|   
-[Submit event](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=submit)| [Search](https://web.archive.org/web/20021203152652id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=searchevents)  
----|---  
-  
-  
-
-
-  
-
-
-  
-
