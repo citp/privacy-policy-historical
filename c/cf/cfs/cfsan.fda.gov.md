@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2000-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000503010727id_/http%3A//vm.cfsan.fda.gov/required.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204031900id_/http%3A//vm.cfsan.fda.gov/required.html) for the most accurate reproduction.*
 
 # REQUIRED NOTICES
 
@@ -40,7 +40,23 @@ We use this information
 
 **If You Send Us Personal Information**
 
-If you choose to provide us with personal information, as in an e-mail message or by filling out a form, we store the question and e-mail address information so that we can answer the question that was sent in, and send the answer back to the e-mail or other address or phone provided. If enough questions or comments come in that are the same, the question may be added to our Question and Answer section, or the suggestions may be used to guide the design of our Web site. Unless otherwise required by statute, we do not identify publicly who sends questions or comments into our web site. 
+If you choose to provide us with personal information, as in an e-mail message or by filling out a form, we store the question and e-mail address information so that we can answer the question that was sent in, and send the answer back to the e-mail or other address or phone provided. If you send us a comment, we relay the comment to the most appropriate program manager in the agency. If enough questions or comments come in that are the same, the question may be added to our Question and Answer section, or the suggestions may be used to guide the design of our Web site. Unless otherwise required by statute, we do not identify publicly who sends questions or comments into our web site. 
+
+**Children's Privacy**
+
+We collect no information from children under 13. If a child sends us an e-mail inquiry or comment, we answer, then delete the e-mail from our files. 
+
+**CFSAN Listservs**
+
+If you subscribe to a CFSAN Listserv, CFSAN considers your e-mail address confidential and it will not be released under FOI. For your convenience, you can subscribe to other government and non-government Listservs from our site. Each Listserv has its own privacy policy which you should check prior to subscribing. 
+
+## Disclosure
+
+FDA does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or by statute. We will only use personally identifying information to respond to you or to help us perform our public health duties. In those cases, various people may see the personal information you provide in order to look into the matter you inquired about.
+
+We may enter the information you send into an electronic database, to share with our attorneys and investigators involved in law enforcement or policy-making. We may also share it with other government agencies that have public health or consumer protection duties. FDA or any of those agencies may contact you. In other limited circumstances, including requests from Congress or private individuals, we may be required by law to disclose information you submit.
+
+Also, e-mail is not necessarily secure against interception. If you are worried because your communication is very sensitive, or includes personal information such as your social security number, you can send it by postal mail instead.
 
 ## Disclaimer of Endorsement
 
@@ -62,15 +78,17 @@ This site is maintained by the U.S. Government. It is protected by various provi
 
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
 
+[Comments or Questions](http://vm.cfsan.fda.gov/~dms/qa-top.html)  
 Privacy Policies for [FDA](http://www.fda.gov/privacy.html) and [HHS](http://www.hhs.gov/siteinfo/privacy.html)  
 CFSAN is a part of the Food and Drug Administration (FDA) and of the Department of Health and Human Services (HHS).  
 
 
 * * *
 
-[Home](http://vm.cfsan.fda.gov/list.html)
+CFSAN Privacy Policy Statement originally posted by LRD on 1998-FEB-26   
+Updated 2000-NOV-15  
+
 
 * * *
 
-CFSAN Privacy Policy Statement originally posted by LRD on 1998-FEB-26   
-Updated 2000-JAN-27 
+[Foods Home](http://vm.cfsan.fda.gov/list.html)   |   [FDA Home](http://www.fda.gov/)   |   [HHS Home](http://www.hhs.gov/)   |   [Search/Subject Index](http://vm.cfsan.fda.gov/~dms/wsearch.html)
