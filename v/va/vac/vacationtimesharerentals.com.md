@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vacationtimesharerentals.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207045839id_/http%3A//vacationtimesharerentals.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationtimesharerentals.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612091623id_/http%3A//vacationtimesharerentals.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Vacation Timeshare Rentals Sales Resales
+# Privacy Policy - Vacation Timeshare Rentals
 
 The VacationTimeshareRentals.com website is maintained by Vacation Timeshare Rentals, LLC, located and under the jurisdiction of laws in the State of Oklahoma, USA.
 
- **How Vacation Timeshare Rentals uses information provided by you:** This site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information will not be sold or otherwise transferred to unaffiliated third parties. Personal information is gathered from the registration process for subscription to membership in the VacationTimeshareRentals.com Member area (My Timeshare). Vacation Timeshare Rentals, LLC will always provide an option when users submit personally identifiable information for such site activities as surveys, polls, contests, sweepstakes, etc. 
+**How Vacation Timeshare Rentals uses information provided by you -** This site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information will not be sold or otherwise transferred to unaffiliated third parties. Personal information is gathered from the registration process for subscription to membership in the VacationTimeshareRentals.com Member area (My Timeshare). Vacation Timeshare Rentals, LLC will always provide an option when users submit personally identifiable information for such site activities as surveys, polls, contests, sweepstakes, etc. 
 
 Vacation Timeshare Rentals, LLC reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site. 
 
