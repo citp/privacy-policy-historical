@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2000-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001026204152id_/http%3A//www.ziprealty.com/footer_pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602094852id_/http%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
 
 # zipRealty.com: Privacy
 
