@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205000900id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608065030id_/http%3A//www.uscg.mil/disclaim.html) for the most accurate reproduction.*
 
 # U.S. Coast Guard Disclaimer
 
@@ -53,9 +53,9 @@ _**Links to Other Sites**_
 
 Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
 
-[U.S. Coast Guard Internet Link Policy](https://web.archive.org/web/20001205000900id_/http%3A//www.uscg.mil/link.html)
+[U.S. Coast Guard Internet Link Policy](https://web.archive.org/web/20010608065030id_/http%3A//www.uscg.mil/link.html)
 
   
-[[USCG Home Page](https://web.archive.org/web/20001205000900id_/http%3A//www.uscg.mil/welcome.html)]  
-Please send feedback/questions to: [US Coast Guard](https://web.archive.org/web/20001205000900id_/http%3A//www.uscg.mil/mailform/dist-mail.html)  
-Updated: 02/19/2020 21:28:46 
+[[USCG Home Page](https://web.archive.org/web/20010608065030id_/http%3A//www.uscg.mil/welcome.html)]  
+Please send feedback/questions to: [US Coast Guard](https://web.archive.org/web/20010608065030id_/http%3A//www.uscg.mil/mailform/dist-mail.html)  
+Updated: 02/19/2020 21:28:47 
