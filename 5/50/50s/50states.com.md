@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50states.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202201402id_/http%3A//www.50states.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50states.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608233108id_/http%3A//50states.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,9 +48,3 @@ By using 50states.com, you signify your agreement with our Privacy Policy. If yo
 
 In the event you have a question about this important subject, visit the Federal Trade Commission (FTC) website.  
 [Site Seeing On The Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html)
-
-* * *
-
-  
-Copyright © 2003 Pike Street Industries, Inc.  
-All Rights Reserved.
