@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schuster.com privacy policy that was archived on 2002-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020728043233id_/http%3A//schuster.com/eupdatesp.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuster.com privacy policy that was archived on 2003-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030507134526id_/http%3A//www.schuster.com/eupdatesp.cfm) for the most accurate reproduction.*
 
 # SimonSays.com
 
