@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614080943id_/http%3A//www.topsmarkets.com/Administrative/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsmarkets.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209151639id_/http%3A//www1.topsmarkets.com/Administrative/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,6 +49,6 @@ We use return email addresses to answer the email we receive. Such addresses are
 
  ****
 
-****To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online.   For more information, please visit our [Security](https://web.archive.org/web/20010614080943id_/http%3A//www.topsmarkets.com/gifts/Security/security.html) page. 
+****To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online.   For more information, please visit our [Security](https://web.archive.org/web/20021209151639id_/http%3A//www1.topsmarkets.com/gifts/Security/security.html) page. 
 
 ****Should you have other questions or concerns about these privacy policies, please send us an email at[ webmaster@topsmarkets.com](mailto:webmaster@topsmarkets.com)
