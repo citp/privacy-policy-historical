@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the gov.je privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202143229id_/http%3A//www.gov.je/privpol.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gov.je privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603100310id_/http%3A//www.gov.je/privpol.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 
 <link rel="stylesheet" type="text/css" href="/style.css">
-<title>Privacy Policy</title>
-<script language="javascript" src="banner.js"></script>
+<script language="javascript" src="res/js/banner.js"></script>
 <script type="text/javascript" language="javascript" src="/res/js/dmenu.js"></script>
 </head>
 
-<body onload="initialiseMenu();" link="#000000" vlink="#000000" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 <script type="text/javascript" language="javascript" src="/res/js/banner.js"></script>
+<script type="text/javascript" language="javascript" src="/res/js/newwindow.js"></script>
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function formHandler(form1){
@@ -30,338 +30,317 @@ function MM_reloadPage(init) {  //reloads the window if Nav4 resized
 MM_reloadPage(true);
 //-->
 </script>
-
 <script language="JavaScript" type="text/JavaScript">
-<!--
-function spawn(expr,qty,reversed){
-var spawnee=[expr];
-for(s=1;s<qty;s++){
-spawnee[s]=expr+spawnee[s-1]
-}
-if(reversed){
-return spawnee.reverse()
-}else{
-return spawnee
-}
-}
+	function redirect (){
+		var myInstance = document.form_new.test_select;
+		var test
 
+		test = myInstance.value.substring( 0, 1);
+		if (test == '*') {
+			//Uses form_new to load the webpage in a new window, first trimming the '*' character 
+			//which was used to signal the splashflag.
+			form_new.test.value = myInstance.value.substring(1,myInstance.value.length);
+			form_new.submit();
+		}
+		else{
+			//Uses form_same to load the new webpage in the current window
+			//form_same.test.value = myInstance.value;
+			//form_same.submit();
+			document.location.href ='http://' + myInstance.value;
+		}
 
-function generateTrail(divider){
-if(!divider) {divider=" : "}
-var m=location.toString(),h="";
-m=m.substring(m.indexOf("/")+1);
-m=m.split("/");
-var howmany=spawn("../",m.length,true);
-howmany[m.length]="index.asp";
-for(i=1;i<m.length-1;i++){
-h+=("<a class=menus href="+howmany[i+2]+">"+unescape( m[i]+"</a>"+divider))
-}
-h += document.title;
-return h
-}
+	}
+      </script>
 
-//-->
-</script>
-
-
-<table summary="Table used for layout only" width="770" style="border-left-style: solid; border-left-color: #B0C4DE; border-left-width: 1px; border-right-style: solid; border-right-color: #B0C4DE; border-right-width: 1px" align="center" cellpadding="0" cellspacing="0" background="/images/blubck770.gif">
-  <!--DWLayoutTable-->
+<table summary="Table used for layout only" width="770" style="border-left-style: solid; border-left-color: #B0C4DE; border-left-width: 1px; border-right-style: solid; border-right-color: #B0C4DE; border-right-width: 1px" align="center" cellpadding="0" cellspacing="0" background="/images/banner.gif">
   <tbody><tr>
-    <td height="71" align="right" valign="bottom"><form name="seek1" method="GET" accept-charset="iso-8859-1" action="http://search.gov.je/soj/query.html" <script="" type="text/javascript" language="javascript">
-<!--
-function seek1SetCols(v) {
-  for (i=0;i<document.seek1.elements.length;i++) {
-    if (document.seek1.elements[i].name=='col') {
-      document.seek1.elements[i].checked=v
-    }
-  }
-}
-//-->
-            
-            <input type="hidden" name="col" value="gov">
-            <input type="hidden" name="charset" value="iso-8859-1">
-            <input type="hidden" name="ht" value="0">
-            <input type="hidden" name="qp" value="">
-            <input type="hidden" name="qs" value="">
-			<input type="text" name="qt" id="search" size="16" maxlength="100" value="Keyword search" onfocus="if (this.value=='Keyword search') {this.value=''}" onblur="if (this.value=='') {this.value='Keyword search'}">
-            <input name="I3" type="image" src="/images/magglass1.gif" alt="search" align="middle" width="30" height="30" border="0">
-            <input type="hidden" name="qc" value="">
-            <input type="hidden" name="pw" value="100%">
-            <input type="hidden" name="ws" value="0">
-            <input type="hidden" name="la" value="en">
-            <input type="hidden" name="qm" value="0">
-            <input type="hidden" name="st" value="1">
-            <input type="hidden" name="nh" value="10">
-            <input type="hidden" name="lk" value="1">
-            <input type="hidden" name="rf" value="0">
-            <input type="hidden" name="oq" value="">
-            <input type="hidden" name="rq" value="0">
-            <input type="hidden" name="si" value="1">
-        </form>
+    <td height="71" align="right" valign="bottom">
+    <form name="seek1" method="GET" accept-charset="iso-8859-1" action="http://search.gov.je/query.html">
+    <script type="text/javascript" language="javascript">
+	<!--
+	function seek1SetCols(v) {
+	  for (i=0;i<document.seek1.elements.length;i++) {
+    	if (document.seek1.elements[i].name=='col') {
+      	document.seek1.elements[i].checked=v
+	    }
+	  }
+	}
+	//-->
+    </script>
+    <input type="hidden" name="col" value="gov">
+    <input type="hidden" name="charset" value="iso-8859-1">
+    <input type="hidden" name="ht" value="0">
+    <input type="hidden" name="qp" value="">
+    <input type="hidden" name="qs" value="">
+    <input type="text" name="qt" id="search" size="16" maxlength="100" value="Keyword search" onfocus="if (this.value=='Keyword search') {this.value=''}" onblur="if (this.value=='') {this.value='Keyword search'}">
+    <input name="I3" type="image" src="/images/gobutton.gif" alt="search" align="middle" width="30" height="30" border="0">&nbsp;
+    <input type="hidden" name="qc" value="">
+    <!-- <input type=hidden name=pw value="&$pw;"> Results width-->
+    <input type="hidden" name="ws" value="0">
+    <input type="hidden" name="la" value="en">
+    <input type="hidden" name="qm" value="0">
+    <input type="hidden" name="st" value="1">
+    <input type="hidden" name="nh" value="10">
+    <input type="hidden" name="lk" value="1">
+    <input type="hidden" name="rf" value="0">
+    <input type="hidden" name="oq" value="">
+    <input type="hidden" name="rq" value="0">
+    <input type="hidden" name="si" value="1">
+    </form>
     </td>
   </tr>
 </tbody></table>
-<table summary="Table used for layout only" width="770" height="20" valign="top" align="center" cellpadding="2" cellspacing="0" style="border-left-style: solid; border-left-color: #B0C4DE; border-left-width: 1px; border-right-style: solid; border-right-color: #B0C4DE; border-right-width: 1px; border-bottom-style: solid; border-bottom-color: #B0C4DE; border-bottom-width: 1px">
-<tbody><tr> 
-      <td height="20" valign="top"> 
-	  <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/index.asp" accesskey="1" title="Homepage">Home</a>&nbsp; 
-	   <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/sitemap.asp" accesskey="3" title="Sitemap">Site
-	  Map</a>&nbsp; 
-	  <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/links.asp" accesskey="4" title="Useful Links">Links</a>&nbsp; 
-	  <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/feedback.asp" accesskey="9" title="Contact us">Contact
-	  Us</a>&nbsp; 
-	  <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/faqs.asp" accesskey="5" title="Frequently Asked Questions">FAQ's</a>&nbsp; 
-	  <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/accessibility.asp" accesskey="K" title="Accessibility information">Accessibility</a> <br>
-	  <a href="/new/index.asp" accesskey="2"></a> 
-      <font class="crumbs">
-		<script language="JavaScript">
-document.write(generateTrail(">>"))
-        </script><a class="menus" href="../../../../../">web.archive.org</a>&gt;&gt;<a class="menus" href="../../../../">web</a>&gt;&gt;<a class="menus" href="../../../">20031202143229id_</a>&gt;&gt;<a class="menus" href="../../">http:</a>&gt;&gt;<a class="menus" href="../"></a>&gt;&gt;<a class="menus" href="index.asp">www.gov.je</a>&gt;&gt;Privacy Policy
-    </font></td>
-    <td nowrap="" align="right" valign="top"> <form method="POST" action="/splash.asp" name="form" target="_blank">
-          <select name="test" size="1" style="border:1px solid #9B0000; font-family: Verdana; color: #000000; ">
-            <option value="government websites" selected="">Government Websites</option>
-            <option value="---------------------"> -------------</option>
-            
-            
-              <option value="www.agfish.co.uk"> 
-              Agriculture &amp; Fisheries</option>
-			  
-              <option value="www.jerseyairport.com"> 
-              Airport</option>
-			  
-              <option value="www.jerseyheritagetrust.org"> 
-              Archives</option>
-			  
-              <option value="www.auditcommission.gov.je"> 
-              Audit Commission</option>
-			  
-              <option value="www.parish.gov.je"> 
-              Comité des Connétables</option>
-			  
-              <option value="www.csd.gov.je"> 
-              Computer Services</option>
-			  
-              <option value="www.customs.gov.je"> 
-              Customs &amp; Excise</option>
-			  
-              <option value="www.dataprotection.gov.je"> 
-              Data Protection</option>
-			  
-              <option value="www.dvs.gov.je"> 
-              Driver &amp; Vehicle Stds</option>
-			  
-              <option value="www.education.gov.je"> 
-              Education, Sport &amp; Culture</option>
-			  
-              <option value="www.ess.gov.je"> 
-              Employment &amp; Social Security</option>
-			  
-              <option value="www.env.gov.je"> 
-              Environment</option>
-			  
-              <option value="www.jerseyfsc.org"> 
-              Financial Services</option>
-			  
-              <option value="www.fire.gov.je"> 
-              Fire Service</option>
-			  
-              <option value="www.govreforms.gov.je"> 
-              Government Reforms</option>
-			  
-              <option value="www.jersey-harbours.com"> 
-              Harbours</option>
-			  
-              <option value="www.health.gov.je"> 
-              Health &amp; Social Services</option>
-			  
-              <option value="www.health.gov.je"> 
-              Health Protection</option>
-			  
-              <option value="www.housing.gov.je"> 
-              Housing</option>
-			  
-              <option value="www.humanrights.gov.je"> 
-              Human Rights</option>
-			  
-              <option value="www.immigration.gov.je"> 
-              Immigration</option>
-			  
-              <option value="www.incometax.gov.je"> 
-              Income Tax</option>
-			  
-              <option value="www.jerseymet.gov.je"> 
-              Jersey Met Office</option>
-			  
-              <option value="www.jerseypost.com"> 
-              Jersey Post</option>
-			  
-              <option value="www.jersey.com"> 
-              Jersey Tourism</option>
-			  
-              <option value="www.judicialgreffe.gov.je"> 
-              Judicial Greffe</option>
-			  
-              <option value="www.lawofficers.gov.je"> 
-              Law Officers</option>
-			  
-              <option value="www.jerseylegalinfo.je"> 
-              Legal Information Board</option>
-			  
-              <option value="www.jsylib.gov.je"> 
-              Library</option>
-			  
-              <option value="www.analyst.gov.je"> 
-              Official Analyst</option>
-			  
-              <option value="www.planning.gov.je"> 
-              Planning</option>
-			  
-              <option value="www.police.gov.je"> 
-              Police</option>
-			  
-              <option value="www.policyandresources.gov.je"> 
-              Policy &amp; Resources</option>
-			  
-              <option value="www.probation.gov.je"> 
-              Probation</option>
-			  
-              <option value="www.publicservicesdepartment.gov.je"> 
-              Public Services</option>
-			  
-              <option value="www.statesassembly.gov.je"> 
-              States Assembly</option>
-			  
-              <option value="www.statesgreffe.gov.je"> 
-              States' Greffe</option>
-			  
-              <option value="www.viscount.gov.je"> 
-              Viscount</option>
-			  
-          </select>
-          <input type="submit" value="Go" name="B1"><p></p>
-          </form>
+<table height="33" summary="Table used for layout only" width="770" valign="middle" align="center" cellpadding="2" cellspacing="0" style="border-left-style: solid; border-left-color: #B0C4DE; border-left-width: 1px; border-right-style: solid; border-right-color: #B0C4DE; border-right-width: 1px; border-bottom-style: solid; border-bottom-color: #B0C4DE; border-bottom-width: 1px">
+<form method="POST" action="/splash.asp" name="form_new" target="_blank"></form>
+  <tbody><tr>
+    <td valign="middle">   
+    <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/index.asp" accesskey="1" title="Homepage">Home</a>&nbsp; 
+    <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/feedback.asp" accesskey="2" title="Contact us">Contact Us</a>&nbsp; 
+    <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/sitemap.asp" accesskey="3" title="Sitemap">Site Map</a>&nbsp;
+    <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/links.asp" accesskey="4" title="Useful Links">Links</a>&nbsp;
+    <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> <a class="menus" href="/faqs.asp" accesskey="5" title="Frequently Asked Questions">FAQs</a>
     </td>
-  </tr>
+    <td nowrap="" align="right" valign="middle">
+    <input type="hidden" name="test">
+    <select name="test_select" size="1" style="border:1px solid #9B0000; font-family: Verdana; color: #000000; ">
+    <option value="index.asp" selected="">Government Websites</option>
+    <option value="index.asp"> -------------</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.jerseyairport.com"> Airport</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.alcdrug.gov.je/"> Alcohol &amp; Drugs Service</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.jerseyheritagetrust.org"> Archives</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.parish.gov.je"> Comité des Connétables</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.csd.gov.je"> Computer Services</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.courseyoucan.gov.je"> Course You Can</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.customs.gov.je"> Customs &amp; Excise</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.dataprotection.gov.je"> Data Protection</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.dvs.gov.je"> Driver &amp; Vehicle Standards</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.edd.gov.je"> Economic Development</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.education.gov.je"> Education, Sport &amp; Culture</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.ess.gov.je"> Employment &amp; Social Security</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.env.gov.je"> Environment</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.jerseyfsc.org"> Financial Services</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.fire.gov.je"> Fire Service</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.edd.gov.je/site.asp?NavID=46&amp;SubID=2"> Gambling</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.govreforms.gov.je"> Government Reforms</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.jersey-harbours.com"> Harbours</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.health.gov.je"> Health &amp; Social Services</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.health.gov.je"> Health Protection</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.housing.gov.je"> Housing</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.humanrights.gov.je"> Human Rights</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.immigration.gov.je"> Immigration</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.incometax.gov.je"> Income Tax</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.jerseymet.gov.je"> Jersey Met Office</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.jerseypost.com"> Jersey Post</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.jersey.com"> Jersey Tourism</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.judicialgreffe.gov.je"> Judicial Greffe</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.lawofficers.gov.je"> Law Officers</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.jerseylegalinfo.je"> Legal Information Board</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.jsylib.gov.je"> Library</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.analyst.gov.je"> Official Analyst</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.overseasaid.gov.je"> Overseas Aid</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.planning.gov.je"> Planning</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.police.gov.je"> Police</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.policyandresources.gov.je"> Policy &amp; Resources</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.probation.gov.je"> Probation</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.publicservicesdepartment.gov.je"> Public Services</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.regofunds.gov.je"> Regulation of Undertakings</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="*www.statesassembly.gov.je"> States Assembly</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.statesgreffe.gov.je"> States' Greffe</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.tradingstandards.gov.je"> Trading Standards</option>
+    
+    <!-- add a * to the url if the page is supposed to open in a new window (splashflag = "Yes") -->
+    <option value="www.viscount.gov.je"> Viscount</option>
+    
+    </select>
+    <input type="button" value="Go" onclick="javascript:redirect();" name="B1">
+      </td>
+  </tr>    
+  
 </tbody></table>
-
-<table width="770" align="center" cellpadding="5" style="border-left-style: solid; border-left-color: #B0C4DE; border-left-width: 1; border-right-style: solid; border-right-color: #B0C4DE; border-right-width: 1">
-    <tbody><tr> 
-    <td width="130" rowspan="3" valign="top">
-	<table summary="Table used for layout only" border="0" cellpadding="1" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber1">
+<table width="770" align="center" cellpadding="5" style="border-left-style: solid; border-left-color: #B0C4DE; border-left-width: 1px; border-right-style: solid; border-right-color: #B0C4DE; border-right-width: 1px">
+  <tbody><tr>
+    <td width="138" valign="top"><table summary="Table used for layout only" border="0" cellpadding="1" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber1">
   <tbody><tr>
     <td colspan="2"><script type="text/javascript" language="JavaScript">
 			<!-- hiding this script
 			document.write(ad)
 			// -->
-            </script><img src="/images/community.jpg" alt="Picture of Cider making" "="" width="125" height="85" <="" td="">
+            </script><img src="/images/tourism.jpg" alt="Tourism" "="" width="125" height="85" <="" td="">
   </td></tr>
   <tr>
-    <td width="10"><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td width="10">
+    <img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td width="130"><a class="menus" href="/island/index.asp" accesskey="A" title="About Jersey">About Jersey</a></td>
   </tr>
   <tr>
-    <td><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td><img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td><a class="menus" href="/business/index.asp" accesskey="B" title="Business and Finance">Business &amp; Finance</a></td>
   </tr>
     <tr>
-    <td><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td><img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td><a class="menus" href="/community/index.asp" accesskey="C" title="Community Pages">Community Pages</a></td>
   </tr>
   <tr>
-    <td><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td><img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td><a class="menus" href="/environment/index.asp" accesskey="N" title="The Environment">Environment</a></td>
   </tr>
   <tr>
-    <td><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td><img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td><a class="menus" href="/events/index.asp" accesskey="E" title="Events and Things to do">Events/Things to do</a></td>
   </tr>
   <tr>
-    <td><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td><img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td><a class="menus" href="/government/index.asp" accesskey="G" title="Government">Government</a></td>
   </tr>
   <tr>
-    <td><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td><img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td><a class="menus" href="/life_events/index.asp" accesskey="L" title="Life Events">Life Events</a></td>
   </tr>
   <tr>
-    <td><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td><img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td><a class="menus" href="/online/index.asp" accesskey="O" title="Online Services">Online Services</a></td>
   </tr>
   <tr>
-    <td><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td><img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td><a class="menus" href="/popular_docs/index.asp" accesskey="S" title="Popular Documents">Popular Documents</a></td>
   </tr>
   <tr>
-    <td><img src="/images/arrowbutton.gif" alt="*" width="9" height="10" border="0"></td>
+    <td><img src="/content/images/arrowbutton.gif" alt="*" border="0" width="9" height="10"></td>
     <td><a class="menus" href="/tourism/index.asp" accesskey="T" title="Jersey Tourism">Tourism</a></td>
   </tr>
   <tr>
     <td height="21" colspan="2">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="2"><div align="left"><a href="http://www.youth.je" accesskey="Y"><img src="/images/youthje.gif" alt="Link to Youth.je website" border="0"></a></div></td>
+    <td colspan="2"><div align="left">
+      <img border="0" src="../images/isassurvey3.jpg" width="91" height="44"></div></td>
   </tr>
   <tr>
-    <td colspan="2"><div align="left"><a href="/links/1204.asp" target="_blank"><img src="/images/1204.gif" alt="Click here to visit the Jersey 1204 website" width="91" height="59" border="0"></a></div></td>
+    <td colspan="2"><div align="left"><a href="/content/links/1204.asp" target="_blank">
+      <img src="/content/images/1204.gif" alt="Click here to visit the Jersey 1204 website" border="0" width="91" height="59"></a></div></td>
   </tr>
 </tbody></table>
-  </td>
-    </tr>
-  
-  <tr> 
-    <td height="19" colspan="2" cellpadding="4" valign="top">
-	<font class="mainhead">Privacy Policy</font><font><br>
-      <br></font>
-      <p align="left"><font>We Promise to meet the internationally recognised
-          standards of personal privacy protection such as complying with the
-          requirements of our <em style="font-style: normal"> Data Protection
-          (Jersey) Law 1987</em>.</font></p>
-      <p><font>This site does not store or capture personal information, but
-          merely logs the user’s IP Address which is automatically recognised
-          by the Web Server.</font></p>
-      <p><font>This site's Web Server/Internet Service Provider (ISP) uses cookies
-          for collecting user information for system administration of the Web
-          server only. We do&nbsp; not collect, hold or further process any information
-          about individuals that may visit this site.</font></p>
-      <p><font>This <em style="font-style: normal"> Privacy Policy Statement</em> only
-          relates to this site </font> <a target="_top" href="http://www.gov.je">www.gov.je</a><font> and
-          does not necessarily extend to any linked external or internal Internet/Intranet
-          sites as these sites should have their own relevant Privacy Policy
-          Statements included.</font></p>
-      <p><font><strong>Personal Information Collection Statement (PICS)</strong></font></p>
-      <p><font>Any information collected from you will only be used for display
-          on the Community pages. Information we collect about you will not be
-          disclosed to any third party without your prior consent or the requestors'
-          demonstrated legal authority to receive it. </font></p>
-      <p><font>You have the right to access your information at anytime to check
-          whether it is accurate and up to date. If you wish to amend any information
-      contact us by sending an email to </font> <a href="mailto:webmaster@gov.je"> webmaster@gov.je</a></p>
     </td>
-  </tr>
+    <td valign="top"><title>States of Jersey - Privacy Policy</title>
+<h1>Privacy Policy</h1>
+<p class="text">We Promise to meet the internationally recognised standards of
+  personal privacy protection such as complying with the requirements of our  Data
+  Protection (Jersey) Law 1987.</p>
+<p class="text">This site does not store or capture personal information, but
+  merely logs the user’s IP Address which is automatically recognised by the
+  Web Server.</p>
+<p class="text">This site's Web Server/Internet Service Provider (ISP) uses cookies
+  for collecting user information for system administration of the Web server
+  only. We do&nbsp; not collect, hold or further process any information about
+  individuals that may visit this site.</p>
+<p class="text">This Privacy Policy Statement only
+  relates to this site <a target="_top" href="http://www.gov.je">www.gov.je</a> and
+  does not necessarily extend to any linked external or internal Internet/Intranet
+  sites as these sites should have their own relevant Privacy Policy Statements
+  included.</p>
+<p class="text"><strong>Personal Information Collection Statement (PICS)</strong></p>
+<p class="text">Information we collect about you will not be disclosed
+  to any third party without your prior consent or the requestors' demonstrated
+  legal authority to receive it.</p>
+<p class="text">You have the right to access your information at anytime to check
+  whether it is accurate and up to date. If you wish to amend any information
+  contact us by sending an email to <a href="mailto:webmaster@gov.je"> webmaster@gov.je</a></p>
+          </td></tr>
 </tbody></table>
-      <script type="text/javascript" language="JavaScript" src="/res/js/newwindow.js"></script>
 <table summary="Table used for layout only" width="770" align="center" cellspacing="0" cellpadding="2" style="border-style: solid; border-color: #B0C4DE; border-width: 1px" height="12">
    <tbody><tr> 
     <td valign="middle" style="border-width: 1"> 
-      <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> 
-        <a class="menus" href="/index.asp" accesskey="1" title="Homepage">Home</a>&nbsp; 
-		<img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> 
-        <a class="menus" href="/sitemap.asp" accesskey="3" title="Sitemap">Site 
-        Map</a>&nbsp; <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> 
-        <a class="menus" href="/links.asp" title="Useful Links">Links</a>&nbsp;<img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> 
-        <a class="menus" href="/feedback.asp" accesskey="9" title="Contact us">Contact 
-        Us</a>&nbsp; <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> 
-        <a class="menus" href="/faqs.asp" accesskey="5" title="Frequently Asked Questions">FAQ's</a>&nbsp; <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> 
-        <a class="menus" href="/accessibility.asp" accesskey="K" title="Accessibility information">Accessibility</a></td>
-    <td valign="top" align="right"> 
-        &nbsp;<img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"> 
-          <a class="menus" href="/privpol.asp" accesskey="P" title="Privacy policy">Privacy Policy</a>
-		  <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*"><a class="menus" href="/disclaimer.asp" accesskey="D" title="Disclaimer">
-    Disclaimer</a>
+    <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*">&nbsp;<a class="menus" href="#top" title="Go to top of the Page" accesskey="9">Top</a>
+    </td><td align="right">
+    <img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*">&nbsp;<a class="menus" title="Information on how to make this page more accessible" accesskey="6" href="/accessibility.asp">Accessibility</a>&nbsp;
+	<img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*">&nbsp;<a class="menus" href="/privpol.asp" title="Our Privacy Policy" accesskey="7">Privacy Policy</a>&nbsp;
+	<img src="/images/arrowbuttonlite.gif" width="9" height="10" alt="*">&nbsp;<a class="menus" href="/disclaimer.asp" title="Click here for the site disclaimer" accesskey="8">Disclaimer</a>
     </td>
   </tr>
-</tbody></table>           
-    
+</tbody></table>
 
 </body></html>
