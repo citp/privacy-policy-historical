@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2002-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020615045241id_/http%3A//myrecipes.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217053354id_/http%3A//www.myrecipes.com/products/shourplg.asp%3FHome%3Dfoot2.priv.HP) for the most accurate reproduction.*
 
 # Cooking.com - Pledge
 
@@ -17,11 +17,11 @@ Cooking.com respects your privacy. Our Internet site is meant to be a service to
 
 **Your personal information: what we collect and how we use it**
 
-*  **When you purchase products from Cooking.com** , we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we only share your personal information with outside parties to the extent necessary to fulfill your order. In addition,
+*  **When you purchase products from Cooking.com** , we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we share your personal information with outside parties to the extent necessary to fulfill your order. In addition,
 
-**a. Your First Purchase from Cooking.com** \- Unless you click the link to edit your subscription profile at the time your order is confirmed, we use the information you provide to: 
+**a. Your First Purchase from Cooking.com** \- We use the information you provide to: 
 
-  * **automatically place you on our e-mail newsletter list** to receive e-mail newsletters with recipes, special offers and updates about products and services;
+  * **automatically place you on our e-mail newsletter list** to receive e-mail newsletters with recipes, special offers and updates about products and services, unless you click the link to edit your subscription profile at the time your order is confirmed;
   * **automatically place you on our direct mail/catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services; and
   * **make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available** to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
 
@@ -64,6 +64,9 @@ When you create a registry, guests can see your names, wedding date (month and y
   
 
 * We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [Third Party Advertising](http://www.networkadvertising.org/optout_nonppii.asp).
+  
+
+* Upon completing your purchase, we may present offers on behalf of third party partners on the order confirmation page. If you click on some of these promotional links and accept the offer(s), we will send your personal information to this party to complete the transaction. We do not share this information without your consent.
 
 **Reviewing, Changing Your Information or Unsubscribing**  
 At any time you can unsubscribe, correct or update your information or modify your preferences pertaining to our newsletters, catalog and mailing list.
