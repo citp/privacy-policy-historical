@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216190004id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123406id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
 
 # The Don Juan Center's Privacy Policy
 
-[Sex Tips](http://www.sosuave.com/cgi-bin/absolute/redirect.cgi?link=http://www.sexpositionsguide.com/cgi-bin/ccShare.pl?cmnd=home&id=djcenter)
-
-[  
-](http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=908602&PA=81267&BAN=2) [Do You Make  
-These Mistakes  
-with Women?](http://www.casanovasecrets.com/g.o/djcenter)
+[ The Lazy Man's Guide to One-Night Stands](http://secure.ibill.com/cgi-win/ccard/rscookie.exe?RevShareID=djadvanced&returnto=http://www.advancedmacking.com)
 
 [  
 Secrets](http://www.attractwomennow.com/cgi-bin/affiliates/clickthru.cgi/djcenter)
