@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmusic.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607103837id_/http%3A//www.dmusic.com/tos/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmusic.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075743id_/http%3A//www.dmusic.com/tos/privacy.php) for the most accurate reproduction.*
 
 # dmusic.com | Your Digital Music Oasis
 
