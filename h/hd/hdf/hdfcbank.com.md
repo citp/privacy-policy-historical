@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfcbank.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407154542id_/http%3A//hdfcbank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcbank.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208190438id_/http%3A//www.hdfcbank.com/privacy.htm) for the most accurate reproduction.*
 
 # HDFC-Bank-Privacy
 
