@@ -1,8 +1,31 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607070015id_/http%3A//nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208220656id_/http%3A//nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/web/20040607070015id_/http%3A//nanotech-now.com/) > [About Us](https://web.archive.org/web/20040607070015id_/http%3A//nanotech-now.com/about_us.htm) > Privacy Policy
+|   
+---  
+[ ](https://web.archive.org/nano_intro.htm)  
+[ ](https://web.archive.org/current-months-news.htm)  
+[ ](https://web.archive.org/products/)  
+[ ](https://web.archive.org/directory.htm)  
+[ ](https://web.archive.org/Press_Kit/)  
+[ ](https://web.archive.org/next-events.htm)  
+[ ](https://web.archive.org/nanotechnology-art-gallery.htm)  
+[ ](https://web.archive.org/interviews.htm)  
+[ ](https://web.archive.org/best_of.htm)  
+[ ](http://nanotech-now.tinytechjobs.com/)  
+[ ](https://web.archive.org/nanotechnology-glossary-N.htm)  
+[ ](https://web.archive.org/possible_futures.htm)  
+[ ](https://web.archive.org/about_us.htm)  
+[ ](https://web.archive.org/advertise.htm)  
+[ ](https://web.archive.org/accounts/)  
+  
+[](https://web.archive.org/banners/track.pl?banner_id=47)  
+  
+---  
+|  [](https://web.archive.org/banners/track.pl?banner_id=52) |   
+  
+[Home](https://web.archive.org/web/20041208220656id_/http%3A//nanotech-now.com/) > Privacy
 
 **Privacy Notice:**
 
@@ -18,8 +41,29 @@ whether yours individually or provided as a proxy by your ISP
 
 
 
-We use these summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to them, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas. This information is NOT shared with anyone beyond the our support staff, except when required by law enforcement agencies, and is used only as a source of anonymous statistical data. 
+We use these summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to them, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas. This information is NOT shared with anyone beyond our support staff, except when required by law enforcement agencies, and is used only as a source of anonymous statistical data. 
 
 **Personal Statement:**
 
 **Our site does not now - nor will it ever - knowingly link to or associate with hate, descriminatory, or adult [pornographic] sites.  We individually and collectively subscribe to a system of universal ethical treatment for all people, and strive to reflect that within this website.  While our views, beliefs, and understandings may differ from your's, we commit to always allowing room for being incorrect, and acknowledging everyone's right to free expression.**
+
+|  |   
+---  
+[](https://web.archive.org/products/nanonewsnow/)  
+|  Keep up with the rapid changes in nanotech   
+ [Learn More](https://web.archive.org/products/nanonewsnow/) |   
+   
+[](https://web.archive.org/products/nanotechtransfer/)  
+  |  University Technology Transfer & Patents   
+ [Learn More](https://web.archive.org/products/nanotechtransfer/) |   
+   
+[](https://web.archive.org/NanoStrategies.htm)  
+  |  Full-service, expert consulting   
+ [Learn More](https://web.archive.org/NanoStrategies.htm) |   
+   
+[](https://web.archive.org/products/newsdigest/)  
+|  The latest news from around the world, free   
+  
+  
+Subscribe |   
+ 
