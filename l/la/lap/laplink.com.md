@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215123id_/http%3A//laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142054id_/http%3A//laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
-# LapLink.com Privacy Policy
+# LapLink Inc Privacy Policy
 
   * What personal information do we collect from Web site visitors?
   * What happens to the information we collect?
@@ -24,21 +24,21 @@ The type of information that we request in these online forms includes your name
 
 **What happens to the information we collect?**
 
-The information that you provide to us when you register to download free trial software or register a product is stored with a unique identifying number. The information contained in your personal profile is not provided to anyone outside of LapLink.com nor is it shared with our designated agents. All of the information you provide during e-commerce transactions is stored by [Digital River](http://drhome.digitalriver.com/live/drv_00pvs_000.shtml) on a secure server which encrypts all of your personal information, including your name, address and credit card number.
+The information that you provide to us when you register to download free trial software or register a product is stored with a unique identifying number. The information contained in your personal profile is not provided to anyone outside of LapLink Inc nor is it shared with our designated agents. All of the information you provide during e-commerce transactions is stored by [Digital River](http://drhome.digitalriver.com/live/drv_00pvs_000.shtml) on a secure server which encrypts all of your personal information, including your name, address and credit card number.
 
-LapLink.com occasionally uses the information that customers provide to send announcements about new LapLink products and services. [Responsys.com](http://www.responsys.com/website/policies/privacy.asp), our partner for those e-mail mailings, is a licensee of the TRUSTe Privacy Program and does not share, sell or rent customer information without prior consent.
+LapLink Inc. occasionally uses the information that customers provide to send announcements about new LapLink products and services. 
 
 **Why do we collect it?**
 
 The information you provide helps us to improve our software products, to personalize your experience on our Web site and to provide technical support that best suits your needs. We occasionally use the information you provide to us to send you e-mail or postal mail announcements about LapLink products and services. And we may send announcements, free gifts or special offers by mail on behalf of our partners, from time to time, if we feel the mail would be relevant to your needs.
 
-We absolutely never provide your e-mail address or telephone number to anyone outside of LapLink.com nor do we provide it to our designated agents.
+We absolutely never provide your e-mail address or telephone number to anyone outside of LapLink Inc nor do we provide it to our designated agents.
 
 **Security**
 
-At LapLink.com, we understand and respect your concerns about privacy. Our corporate security policy is so important to us that we include a policy overview in every employee’s orientation. Access to our customer database is restricted to only those employees who have a specific need for access to that data to do their job. And even then, access to the customer data is password protected. Each quarter, we review and update our Web security. In addition to safeguarding the privacy of any information you give us as you visit our site, LapLink.com has entered into partnerships with other companies that care just as deeply about your privacy concerns.
+At LapLink Inc, we understand and respect your concerns about privacy. Our corporate security policy is so important to us that we include a policy overview in every employee’s orientation. Access to our customer database is restricted to only those employees who have a specific need for access to that data to do their job. And even then, access to the customer data is password protected. Each quarter, we review and update our Web security. In addition to safeguarding the privacy of any information you give us as you visit our site, LapLink Inc has entered into partnerships with other companies that care just as deeply about your privacy concerns.
 
-LapLink.com does not handle financial transactions via the Web, so it has no need for streaming encryption products. LapLink.com works with a third party, Digital River, to serve as a trusted intermediary to handle e-commerce transactions with our customers. Digital River handles e-commerce on a secure server which encrypts all of our customers’ personal information. To learn more about how Digital River manages the privacy of information in conjunction with these e-commerce transactions, please see their complete [privacy statement](http://drhome.digitalriver.com/live/drv_00pvs_000.shtml).
+LapLink Inc does not handle financial transactions via the Web, so it has no need for streaming encryption products. LapLink Inc works with a third party, Digital River, to serve as a trusted intermediary to handle e-commerce transactions with our customers. Digital River handles e-commerce on a secure server which encrypts all of our customers’ personal information. To learn more about how Digital River manages the privacy of information in conjunction with these e-commerce transactions, please see their complete [privacy statement](http://drhome.digitalriver.com/live/drv_00pvs_000.shtml).
 
 **Freedom of choice: "opting-out"**
 
@@ -53,7 +53,7 @@ Visitors who decide they no longer wish to receive our product mailings or promo
   * Mail us a short note to tell us you no longer wish to receive the promotional materials. For prompt handling of your request, remember to include your name, your full address and your e-mail address. Send your request to:  
 
 
-LapLink.com Inc.  
+LapLink Inc.  
 18702 North Creek Parkway  
 Bothell, WA 98011  
 USA  
@@ -64,7 +64,7 @@ Fax: 425.487.1284
 
 
 
-Visitors to our site are always notified when their information is being collected by any outside party. We do this so LapLink.com visitors can make informed choices as to whether they should proceed with services that require an outside party.
+Visitors to our site are always notified when their information is being collected by any outside party. We do this so LapLink Inc visitors can make informed choices as to whether they should proceed with services that require an outside party.
 
 **How to update your MyLapLink profile**
 
@@ -80,7 +80,7 @@ We may disclose personal information when required by law or in the good-faith b
 
 We will use information in accordance with the privacy policy under which the information was collected.
 
-We may choose to change our privacy policies in the future. At the time we decide to make any changes, however, we will post those revisions on this page so our visitors are always aware of what information we collect, how we use it, and under which circumstances -- if any -- we disclose it. If at any point we decide to use personally identifiable information in a manner different from what was stated at the time we collected it, we will notify you by e-mail. LapLink.com visitors will choose whether we use their specific information in a different manner than what was presented at the time they submitted that information.
+We may choose to change our privacy policies in the future. At the time we decide to make any changes, however, we will post those revisions on this page so our visitors are always aware of what information we collect, how we use it, and under which circumstances -- if any -- we disclose it. If at any point we decide to use personally identifiable information in a manner different from what was stated at the time we collected it, we will notify you by e-mail. LapLink Inc visitors will choose whether we use their specific information in a different manner than what was presented at the time they submitted that information.
 
 **"Cookies" and how we use them**
 
@@ -94,7 +94,7 @@ Cookies also help us to better understand general visitor interests and patterns
 
 Please feel free to write, call or send us an e-mail message with any questions or comments you have about our privacy policies!
 
-LapLink.com Inc.  
+LapLink Inc.  
 18702 North Creek Parkway  
 Bothell, WA. 98011  
 USA  
