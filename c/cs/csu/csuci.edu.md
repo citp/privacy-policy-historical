@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csuci.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202150908id_/http%3A//www.csuci.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csuci.edu privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605191405id_/http%3A//www.csuci.edu/privacy.htm) for the most accurate reproduction.*
 
 # CSUCI > Privacy Policy
 
