@@ -1,24 +1,33 @@
-> *The following text is extracted and transformed from the tmcnet.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601095040id_/http%3A//www.tmcnet.com/tmcnet/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcnet.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014121225id_/http%3A//www.tmcnet.com/tmcnet/privacy.htm) for the most accurate reproduction.*
 
-# TMCnet.com Privacy Policy
+# TMC Privacy Policy
 
   
-Updated 04/23/02
+Updated 07/16/02
 
-TMCnet.com is concerned about the privacy of its users and is committed to providing a secure environment for the free flow of ideas.
+Technology Marketing Corporation (TMC) is concerned about the privacy of its users and is committed to providing a secure environment for the free flow of ideas.
 
-The areas of this site are open to all visitors to read, search, browse, and download, at no cost. 
+If we change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-No software or hardware techniques are employed to capture a visitor's e-mail address. Visitors need not register or give any personal identification to use this site, with the exception of our "Forums" section (users must give a valid e-mail address to post comments in the Forum). We do collect e-mail addresses submitted in our Forums, but we will not publish your e-mail if you elect to keep it hidden from other users. We do not currently use e-mail addresses collected in the Forums for any type of corporate mailings. We do not collect or in any way use the e-mail addresses involved in our "E-mail this article to a friend" feature.
+No software or hardware techniques are employed to capture a visitor's e-mail address without their knowledge. Visitors need not register or give any personal identification to read the basic sections of this site.
 
-"Cookies" are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. We **do not** use cookies to track how you use our site. We employ a simple count system that tells us how many visits the site receives in a given period, but no identities or individually identifiable information is gathered by this process. 
+**How We Handle The Data We Collect**  
+Where visitors choose to provide TMC with their contact information in order to receive print magazines, e-mail newsletters, or other premium content, we may use the information for marketing and promotional purposes by TMC and companies we believe may be of interest to you. You may manage your e-mail newsletter subscriptions at any time, including removing yourself from our e-mail lists, by going to [www.tmcnet.com/enews/](http://www.tmcnet.com/enews/). Please note that if you are a subscriber to one of our print magazines and you do NOT want to receive magazine renewal notices via e-mail, you will need to e-mail our circulation director, [Shirley Russo](mailto:srusso@tmcnet.com), directly. You may remove yourself from our "snail mail" list by sending a request to [tmc@tmcnet.com](mailto:tmc@tmcnet.com). 
 
-The exception to this policy is that cookies are used in our online TMC Bookstore in order to store your TMC Bookstore account number and to enhance your overall shopping experience. 
+We do collect e-mail addresses submitted in our Forums, but we will not publish your e-mail if you elect to keep it hidden from other users. We do not currently use e-mail addresses collected in the Forums for any type of corporate mailings. We do not collect or in any way use the e-mail addresses involved in our "E-mail this article to a friend" feature. 
 
-Where visitors **choose** to provide the site with their contact information in order to receive e-mail newsletters or other content, TMCnet.com may use the information for marketing and promotional purposes by TMC and companies we believe may be of interest to you, unless you opt-out from receiving this information. You may manage your subscriptions at any time, including removing yourself from all our e-mail lists, by going to [www.tmcnet.com/enews/](http://www.tmcnet.com/enews/subs.asp). 
+**How We Use Cookies**  
+"Cookies" are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. We do not use cookies to track how non-registered members use our site. We employ a simple count system that tells us how many visits the site receives in a given period, but no identities or individually identifiable information is gathered by this process. 
 
-When visitors give their names and addresses to subscribe to our print magazines, they may receive periodic mailings from us with information on new products and services or upcoming events. 
+There are a couple of exceptions to this policy: 
 
-By giving us your information, you consent to the collection and use of this information by TMC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+Cookies are used in our online TMC Bookstore in order to store your TMC Bookstore account number and to enhance your overall shopping experience. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with TMCnet.com, you can contact our Webmaster at [webmaster@tmcnet.com](mailto:webmaster@tmcnet.com). 
+For your convenience and protection, TMC can utilize cookies for premium areas of its Web sites. Registered users can choose to accept the cookie, or they can decline it. Without the cookie, registered users must sign in every time they access premium content. Sessions expire after 20 minutes of inactivity and another sign in is required to access the premium content. 
+
+No personal information is ever recorded in the cookie itself. Instead, an encrypted key is used to identify the user. All user information is maintained in our highly secure data storage facility. 
+
+Non-premium sections -- those that do not require registration -- do not deposit any cookies. 
+
+**Still Have Questions?**  
+If you have any questions about this privacy statement or the privacy practices of TMC, please contact us at [tmc@tmcnet.com](mailto:tmc@tmcnet.com). 
