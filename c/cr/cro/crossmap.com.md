@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossmap.com privacy policy that was archived on 2003-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030216073504id_/http%3A//www.crossmap.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossmap.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002101015id_/http%3A//crossmap.com/privacy.htm) for the most accurate reproduction.*
 
 # Crossmap : Mapping your way into Christianity »»
 
@@ -10,7 +10,7 @@ We respect your privacy. We do this by carefully protecting information that you
 
 **
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster](mailto:sumitcharles@yahoo.com)  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact webmaster at crossmap dot com.  
 
 
 Please read this page for more details about our privacy policy. 
@@ -24,10 +24,8 @@ Our postal address is:
 
 **Crossmap  
 Attn: WebMaster  
-2991 Shattuck Ave.  
-Berkeley, CA 94705**
-
- **Information we collect and how it is used ...**
+2109 Shattuck Ave. #301  
+Berkeley, CA 94704**
 
 When you connect to our web site, we are able to recognize the Internet (IP) address of the computer providing you with Internet access. Our use of this IP address may be to help diagnose problems with our server or otherwise administer our Web site. This IP address may also be used to gather broad demographic information. Your IP address is never associated with you as an individual and never provided to another company or organization.
 
@@ -61,8 +59,8 @@ Our postal address is
 
 **Crossmap  
 Attn: Visitor Department  
-2991 Shattuck Ave.  
-Berkeley, CA 94705**
+2109 Shattuck Ave. #301  
+Berkeley, CA 94704**
 
-We can be reached via e-mail at [Visitor Requests](mailto:sumitcharles@yahoo.com)  
+We can be reached via e-mail at webmaster at crossmap dot com.  
 
