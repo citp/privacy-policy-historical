@@ -1,20 +1,17 @@
-> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605212851id_/http%3A//www.safecu.org/content/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206222442id_/http%3A//www.safecu.org/content/information/privacy.asp) for the most accurate reproduction.*
 
 # SAFE Credit Union - Privacy Policy
 
   
-  
----  
-  
 
 
-**Effective on:** 5/03/04
+**Effective on:** 8/24/04
 
 SAFE Credit Union and SAFE Financial Services have created this privacy policy in order to demonstrate our firm commitment to consumer privacy. The following discloses our information gathering and dissemination practices for the [www.safecu.org](http://www.safecu.org/) website. SAFE Credit Union is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. 
 
-If you have questions or concerns regarding this statement, you should first contact the SAFE Call Center by telephone at 1-800-733-7233, or email us at [callcenter@safecu.org](mailto:callcenter@safecu.org). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If you have questions or concerns regarding this statement, you should first contact the SAFE Call Center by telephone at 1-800-733-7233, or email us at [callcenter@safecu.org](mailto:callcenter@safecu.org). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
-[](https://www.truste.org/validate/12773)
+[](http://www.truste.org/ivalidate.php?url=www.safecu.org)
 
 Back to Top
 
@@ -30,7 +27,8 @@ Back to Top
 
 Back to Top
 
-We restrict access to personal information about you to those employees who have a specific business purpose in utilizing your data. Our employees are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your personal information. We will continue to test and update our technology to improve the protection of our information about you. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use state-of-the-art SSL encryption technology to ensure your data is secured during transmission.
+We restrict access to personal information about you to those employees who have a specific business purpose in utilizing your data. Our employees are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your personal information. We will continue to test and update our technology to improve the protection of our information about you. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use state-of-the-art SSL encryption technology to ensure your data is secured during transmission.  
+
 
 Back to Top
 
@@ -43,7 +41,7 @@ We collect information about you to provide competitive financial products and s
   * Information obtained when verifying the information you provide on an application or other forms (this may be obtained from your current or past employers, or from other institutions where you conduct financial transactions), such as your payment history, information concerning your transactions and income.
   * Information obtained from consumer purchasing and census data providers, marketing researchers and public records, such as your income, home ownership, and marital status to develop competitive marketing programs for our members. 
   * We use your IP address and aggregate log file statistics to help diagnose problems with our server, and to administer our web site. Your IP address, etc. is used to help identify you. 
-  * Cookies are electronic markers that are stored directly on the computer you are using to indicate activity or access to a specific web site or pages contained on a web site. When you return to our web site, your browser will give that information back to our server. We use cookies to maintain the state of your session on our web site and to store your computer's configuration data. This cookie data is tied to your personally identifiable information to enable our service. If you disable cookies on the computer you are using, you will not be able to bank online with us [or access our web site]. We do not encode your personally identifiable information in our cookies. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
+  * Cookies are electronic markers that are stored directly on the computer you are using to indicate activity or access to a specific web site or pages contained on a web site. When you return to our web site, your browser will give that information back to our server. We use cookies to maintain the state of your session on our web site and to store your computer's configuration data. This cookie data is tied to your personally identifiable information to enable our service. If you disable cookies on the computer you are using, you will not be able to bank online with us [or access our web site]. We do not encode your personally identifiable information in our cookies. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
   * Our site's applications and forms require users to give us contact information (such as name and e-mail address) and financial information (e.g. account numbers). The member's contact information is used to contact the visitor for the purposes of account maintenance, customer service or dissemination of product & service information. 
   * We have calculator functions on the site that allow you to calculate different financial scenarios. These are stand-alone functions and are not tied to you or your personal information so when you use these functions, we do not collect, capture or retain your personal information. 
   * This site may contain links to other sites. SAFE Credit Union and SAFE Financial Services Corporation are is not responsible for the collection and use practices of nonaffiliated third parties to which our web site may link or for the content of such web sites. 
@@ -120,13 +118,13 @@ To opt-out of promotional e-mail messages from SAFE, please follow the steps be
 
 **Other Choices regarding your personal information on the Internet**
 
-If you would like to reduce the amount of advertising you receive from other companies, visit the website [www.dmaconsumers.org](http://www.dmaconsumers.org/) or write to the following agencies and include your name, address and telephone number: **Mail Preference Service**  
+If you would like to reduce the amount of advertising you receive from other companies, visit the website [www.dmaconsumers.org](http://www.dmaconsumers.org/) or write to the following agencies and include your name, address and telephone number:  **Mail Preference Service**  
 c/o Direct Marketing Association  
 P.O. Box 643  
-Carmel, NY 10512 **Telephone Preference Service**  
+Carmel, NY 10512  **Telephone Preference Service**  
 c/o Direct Marketing Association  
 P.O. Box 1559  
-Carmel, NY 10512 ****
+Carmel, NY 10512  ****
 
 To reduce the amount of email advertising, use the opt-out service at [www.dmaconsumer.org](http://www.dmaconsumer.org/).
 
@@ -146,7 +144,7 @@ Name Removal Option
 P.O. Box 97328  
 Jackson, MS  
 39288-7328  
-[www.tuc.com](http://www.tuc.com/) Or, you may call (888) 567-8688. **National Do-Not-Call Registry**  
+[www.tuc.com](http://www.tuc.com/) Or, you may call (888) 567-8688.  **National Do-Not-Call Registry**  
 You can reduce the number of unwanted phone calls to your home by calling 1-888-382-1222 or registering your phone number at [www.fcc.gov/cgb/donotcall](http://www.fcc.gov/cgb/donotcall). 
 
 Back to Top
