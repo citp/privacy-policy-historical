@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shift.com privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126221919id_/http%3A//www.shift.com/toc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shift.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205062230id_/http%3A//www.shift.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Shift - privacy
 
