@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluepages.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615150429id_/http%3A//bluepages.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluepages.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211033800id_/http%3A//bluepages.com/privacy.shtml) for the most accurate reproduction.*
 
 # The Christian Blue Pages
 
