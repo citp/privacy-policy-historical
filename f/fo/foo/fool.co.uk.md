@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619205417id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210140801id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy and Cookie Statement
 
@@ -14,9 +14,7 @@ The Motley Fool Limited takes the issue of privacy very seriously and we are com
 
 **Emailing an Article or Message Board Post:** If you use our recommendation service to email an article or post to a friend, you will need to provide us with your friend's email address. The Motley Fool will automatically send this person a one-time email, attaching the recommended article as well as inviting them to visit and register with our site. We will not use these email addresses for any other purpose.
 
-**Making a purchase:** Orders placed with us for goods and services from areas like the [Fool Shop](http://www.fool.co.uk/foolshop/foolshop.htm) are fulfilled in a variety of different ways. Some products are handled entirely by the Motley Fool Limited, some are handled via our sister company FoolMart in the USA whilst others, such as books, are handled entirely by third parties. 
-
-If you place an order with [FoolMart](http://www.foolmart.com/default.asp) in the USA it will process the personal information that you provide. By submitting an order via FoolMart, you consent to this transfer outside the European Economic Area. FoolMart will collect your personal information including your credit card number, shipping information and telephone number and all of this information is encrypted, using Secure Socket Layers (SSL) technology. For more information on FoolMart's privacy practices, please click [here](http://www.foolmart.com/Customer_Service/CSP.asp?ID=CS_Privacy). 
+**Making a purchase:** Orders placed with us for goods and services from areas like the Fool Shop are fulfilled in a variety of different ways. Some products are handled entirely by the Motley Fool Limited and some, such as books, are handled entirely by third parties.
 
 If you order a product or service of ours via a third party, for example Global-Investor, Quicken or BT click&buy, please be aware that these sites have their own privacy and data collection practices. The Motley Fool does not collect, see or have access to any personal information you may provide to such third parties. 
 
@@ -99,10 +97,10 @@ The Fool may amend this Privacy and Cookie Statement from time to time. If we ma
   
 
 
-[](http://click.fool.com/14275/36795/127/http%3A%2F%2Fwww.fool.co.uk%2Fdebt%2Fpowergen1.htm)
+[](http://click.fool.com/15482/41024/127/http%3A%2F%2Fsummitmedia.cc-eu.co.uk%2Flink%2Fclick%3Flid%3D41000000001114821)
 
   
 |  |    
 
 
-[](http://click.fool.com/14228/36737/1718/http%3A%2F%2Fwww.sharepeople.com%2Flinks%2F010604%2F77fool%2F)
+[](http://click.fool.com/15169/41003/1718/http%3A%2F%2Fuk.sitestat.com%2Flandg%2Flandg%2Fs%3Fcarat.life.motleyfool_skyscraper%26ns_type%3Dclickin)
