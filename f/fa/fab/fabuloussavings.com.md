@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabuloussavings.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622133631id_/http%3A//fabuloussavings.com/cmct/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabuloussavings.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003035820id_/http%3A//www.fabuloussavings.com/cmct/privacy) for the most accurate reproduction.*
 
 # FabulousSavings.com - Free printable coupons and online discount coupon codes for shops, restaurants, services
 
