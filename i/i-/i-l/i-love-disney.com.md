@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607195541id_/http%3A//www.ktimothy.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209160318id_/http%3A//www.ktimothy.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 [](http://click.linksynergy.com/fs-bin/click?id=LbUtqIgJGMc&offerid=6555.10000049&type=4&subid=0)
-
-  
-
 
 > ## Information Collection and Use
 > 
@@ -51,17 +48,12 @@
   
   
   
-    [](http://www.ktimothy.com/)Site Navigation bar can be found by clicking on an empty space anywhere on the page.   
-This Page Last Updated:  
- _Friday, 08-Mar-2002 21:42:33 PST_  
+    [](http://www.ktimothy.com/) This Page Last Updated:  
+ _Tuesday, 19-Nov-2002 15:23:20 PST_  
 Page created:  
 Saturday, April 28, 2001   
 This site best viewed with a screen resolution of 800x600   
 Best viewed by IE5 or above and Java enable.  
 Netscape(and others) users won't see this site as intended.  
   
-  
-  
-[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00064141P006) [](http://click.linksynergy.com/fs-bin/stat?id=LbUtqIgJGMc&subid=0)   
-[ ](http://www.disneybanner.net/)   
-
+[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00064141P006)
