@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2001-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010511174820id_/http%3A//www.usta.com/usopen/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2001-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011210105921id_/http%3A//www.usta.com/usopen/policy.html) for the most accurate reproduction.*
 
 # 
 
