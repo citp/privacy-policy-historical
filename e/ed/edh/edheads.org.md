@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edheads.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206043603id_/http%3A//edheads.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edheads.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603105548id_/http%3A//edheads.org/privacy.htm) for the most accurate reproduction.*
 
 # Edheads - Privacy
 
@@ -24,7 +24,7 @@ Edheads.org provides users the opportunity to opt-out of receiving communication
 
 Edheads.org gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
 
-You can send email to: [Mailing Opt-out](mailto:eric@edheads.org).
+You can send email to: [Mailing Opt-out](mailto:eric@edheads.org) .
 
 **Contacting edheads.org**
 
@@ -32,8 +32,8 @@ If you have any questions about this privacy statement, the practices of edheads
 
 **Postal Mail:**  
 Edheads - Privacy  
-3393 Palatas Place  
-Dublin, OH 43017
+5802 Wooden Plank Road   
+Hilliard, OH 43026
 
 **E-mail:**  
 [Edheads](mailto:eric@edheads.org)
