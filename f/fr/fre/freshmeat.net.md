@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshmeat.net privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126141111id_/http%3A//osdn.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmeat.net privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204093326id_/http%3A//osdn.com/privacy.shtml) for the most accurate reproduction.*
 
 # Open Source Development Network
 
