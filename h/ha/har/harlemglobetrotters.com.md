@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207054654id_/http%3A//www.harlemglobetrotters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607055818id_/http%3A//www.harlemglobetrotters.com/privacy.php) for the most accurate reproduction.*
 
 # Harlem Globetrotters Privacy Policy
 
@@ -25,4 +25,4 @@ Phone: 602-258-0000
 Fax: 602-258-5925  
 Email: [info@harlemglobetrotters.com](mailto:info@harlemglobetrotters.com)
 
-[ **CLOSE WINDOW**](https://web.archive.org/web/20031207054654id_/http%3A//www.harlemglobetrotters.com/close)
+[ **CLOSE WINDOW**](https://web.archive.org/web/20040607055818id_/http%3A//www.harlemglobetrotters.com/close)
