@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408101109id_/http%3A//www.travelzoo.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210052022id_/http%3A//www.travelzoo.com/Privacy.htm) for the most accurate reproduction.*
 
 # Travelzoo - Privacy Statement
 
-Since 1998, Travelzoo® is a member of the TRUSTe program. This statement discloses the privacy practices for the Travelzoo Web sites. 
+Since 1998, Travelzoo® is a member of the TRUSTe program. This statement discloses the privacy practices for the Travelzoo Web site. 
 
 ### TRUSTe Certified
 
@@ -20,11 +20,11 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 We use cookies to deliver content specific to your interests. The cookie is a small text file that resides on your hard drive. It is used to retrieve stored information that you knowingly provided us to personalize your Travelzoo web site. Users can opt to personalize the Travelzoo Web site by providing their email address, first name, and zip code. The contact information is used to contact the visitor when necessary. 
 
-We do use an outside ad company to display ads on our site. These ads may place cookies on your computer, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. We do not have access to any information about you from cookies you might receive while visiting our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.doubleclick.net/us/corporate/privacy/?asp_object_1=&). 
+We do use an outside ad company to display ads on our site. These ads may place cookies on your computer, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. We do not have access to any information about you from cookies you might receive while visiting our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.atlasdmt.com/privacy/). 
 
 The Site includes a Service Center for Travelzoo shareholders. This section is password-protected. The features allow them to update their contact information (name, e-mail address). This information will not be shared with third parties. 
 
-Travelzoo publishes a newsletter called "Travelzoo Top 20." Users can sign up for the newsletter from our home page by providing their first name, email address, and zip code. This information will not be shared with third parties. Recipients can unsubscribe to the newsletter by visiting the [edit profile page](http://www.travelzoo.com/profiles). Information on how to unsubscribe is also included at the bottom of every newsletter. 
+Travelzoo publishes a newsletter called "Travelzoo Top 20." Users can sign up for the newsletter from our home page by providing their first name, email address, and zip code. This information will not be shared with third parties. Recipients can unsubscribe to the newsletter by visiting the [edit profile page](http://www.travelzoo.com/profiles/). Information on how to unsubscribe is also included at the bottom of every newsletter. 
 
 We have security measures in place to protect user information under our company's control against loss, misuse, or alteration. Access to private and confidential data is limited to only those employees with a specific need to retrieve this information. Data is stored on multiple service systems and written to tapes. All server systems are located in a secure, limited access Class A facility complete with environmentally controlled conditions, raised floors, and dry sprinkler systems. 
 
