@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614113641id_/http%3A//confetti.co.uk/company/private_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204191240id_/http%3A//confetti.co.uk/company/private_policy.asp) for the most accurate reproduction.*
 
 # confetti - jobs
 
