@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwaonline.net privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613204538id_/http%3A//www.nwaonline.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwaonline.net privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202192200id_/http%3A//www.nwaonline.net/privacy.html) for the most accurate reproduction.*
 
 # nwamorningnews.com | The Morning News ONLINE
 
