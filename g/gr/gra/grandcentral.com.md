@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the grandcentral.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402205133id_/http%3A//www.grandcentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandcentral.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202194821id_/http%3A//www.grandcentral.com/privacy.html) for the most accurate reproduction.*
 
-# Grand Central Communications - Privacy Policy
+# Grand Central Communications
 
+|   
 Privacy Policy  
   
   
@@ -37,3 +38,11 @@ By using the Web Site and/or the Grand Central Service, you consent to the colle
 
 Your Comments  
 If you have any comments or questions about this Privacy Policy or your personal information, please contact us at [support@grandcentral.com](mailto:support@grandcentral.com).
+
+|  |  | 
+
+[](https://web.archive.org/company/contact.html)
+
+[](https://web.archive.org/developers/register/)
+
+ 
