@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwombat.com.au privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614101541id_/http%3A//www.webwombat.com.au/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwombat.com.au privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205120715id_/http%3A//webwombat.com.au/about/privacy.htm) for the most accurate reproduction.*
 
 # Web Wombat: Privacy Policy
 
@@ -12,15 +12,13 @@ By using our web site, you consent to the collection and use of your information
 
 A "cookie" is a file sent to your browser by a Web server and stored on your computer, it contains data that Web sites use to identify you as a unique user.
 
-Web Wombat does not use cookies or any other method for personally identifying users.
-
-You should be aware, however, that other companies which advertise on our site may collect information from you if you click on their advertisements or access their sites. They may do this by using cookies. Due to the way the Internet operates, we cannot control this collection of information. Most Web browsers are initially set up to accept cookies. You can change the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer, giving you the choice whether to accept it or not.
+Companies which advertise on our site may collect information from you if you click on their advertisements or access their sites. They may do this by using cookies. Due to the way the Internet operates, we cannot control this collection of information. Most Web browsers are initially set up to accept cookies. You can change the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer, giving you the choice whether to accept it or not.
 
 If you have any questions or concerns about the way in which information is collected or used by another site, then you should contact whoever is responsible for that site directly.
 
 **What Information does Web Wombat Collect?**
 
-Web Wombat does not collect any personal information about you (such as your name or email address) except when you specifically and knowingly provide that information. We do keep a record of the IP addresses from which users access our site. This data is used by us for internal administration, and to analyse the way in which people use our site, so that we can keep improving the services we offer. This data also provides us with anonymous and broad demographic information about those using our site
+Web Wombat does not collect any personal information about you (such as your name or email address) except when you specifically and knowingly provide that information. We do keep a record of the IP addresses from which users access our site. This data is used by us for internal administration, and to analyse the way in which people use our site, so that we can keep improving the services we offer. This data also provides us with anonymous and broad demographic information about those using our site.
 
 **Does Web Wombat disclose information to anyone else?**
 
