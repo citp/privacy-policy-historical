@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2002-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021120220547id_/http%3A//www.gunbroker.com/user/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2003-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030403180252id_/http%3A//gunbroker.com/user/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # GunBroker.com Privacy Policy
 
@@ -37,7 +37,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 ###   
 Security  
   
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are locked in a secure data center with 24 hour security monitoring and pass-key access. Our database is password protected using strong security to prevent access by unauthorized persons.  
+This site has substantial security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are locked in private cabinets within a secure data center with 24 hour security monitoring and passkey/biometric access. Our database is password protected using strong security to prevent access by unauthorized persons. We employ hardware firewalls to protect our servers from intrusion. All financial transactions are encrypted at the highest level possible, and our credit card processing and data storage techniques meet or exceed the requirements of American Express, Discover, VISA, and MasterCard.  
   
 ###   
 Choice / Opt-out  
