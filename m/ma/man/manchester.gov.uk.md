@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609013004id_/http%3A//www.manchester.gov.uk/site/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchester.gov.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204173744id_/http%3A//www.manchester.gov.uk/site/privacy.htm) for the most accurate reproduction.*
 
 # Manchester City Council - Website Privacy Statement
 
