@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thegolfchannel.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207195957id_/http%3A//www.thegolfchannel.com/core.asp%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegolfchannel.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309010819id_/http%3A//www.thegolfchannel.com/core.aspx%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
 
-# The Golf Channel - The Golf Channel - PGA, LPGA, Senior PGA, European Tour, Buy.com, Canadian Tour &
-
-**TGC - Privacy Policy**  
-By TheGolfChannel.com Team - December 20, 2000
+# The Golf Channel - TGC - Privacy Policy - December 20, 2000
 
 TheGolfChannel.com's PRIVACY POLICY
 
