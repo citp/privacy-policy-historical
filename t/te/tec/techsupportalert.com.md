@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205050628id_/http%3A//www.techsupportalert.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605205925id_/http%3A//techsupportalert.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Tech Support Alert Privacy Policy
 
@@ -16,4 +16,4 @@ We unconditionally respect the privacy of our newsletter subscribers and site vi
 
 
 
-[**Back**](https://web.archive.org/web/20031205050628id_/http%3A//www.techsupportalert.com/al_subscribe.htm)
+[**Back**](https://web.archive.org/web/20040605205925id_/http%3A//techsupportalert.com/al_subscribe.htm)
