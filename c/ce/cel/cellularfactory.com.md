@@ -1,23 +1,24 @@
-> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205113614id_/http%3A//www.cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185241id_/http%3A//www.cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Cell Phone Accessories - Cellular Factory
+# Cell Phone Accessory - Cellular Factory
 
   
  [FAQs](http://www.cellularfactory.com/help/faq.jsp)   
  [Privacy Policy ](http://www.cellularfactory.com/help/privacy_policy.jsp)   
  [Return/Exchange Policy](http://www.cellularfactory.com/help/return_policy.jsp)   
  [Shipping Information](http://www.cellularfactory.com/help/shipping_information.jsp)   
- [Terms of Use](http://www.cellularfactory.com/help/terms_of_use.jsp) |    
-**DIGICELLIT INC. PRIVACY POLICY**
+ [Terms of Use](http://www.cellularfactory.com/help/terms_of_use.jsp)   
+ [Payment Methods](http://www.cellularfactory.com/help/payment_methods.jsp) |    
+**Echen INC. PRIVACY POLICY**
 
 **Effective as of: May 9, 2002** This privacy statement covers the site www.cellularfactory.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.   
-1\. What personally identifiable information DIGICELLIT Inc. collects.   
+1\. What personally identifiable information Echen Inc. collects.   
 2\. What personally identifiable information third parties collect through the Web site.   
 3\. What organization collects the information.   
-4\. How DIGICELLIT Inc. uses the information.   
-5\. With whom DIGICELLIT Inc. may share user information.   
+4\. How Echen Inc. uses the information.   
+5\. With whom Echen Inc. may share user information.   
 6\. What choices are available to users regarding collection, use and distribution of the information.   
-7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under DIGICELLIT Inc. control.   
+7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Echen Inc. control.   
 8\. How users can correct any inaccuracies in the information. 
 
 If users have questions or concerns regarding this statement, they should first contact our Customer Service Department by sales@cellularfactory.com, 1-626-855-4620, 1750 Old Canyon Drive, Hacienda Heights, CA 91745. 
@@ -25,7 +26,7 @@ If users have questions or concerns regarding this statement, they should first 
 **Information Collection and Use**
 
 **Information Collection**   
-DIGICELLIT Inc. is the sole owner of the information collected on this site. DIGICELLIT Inc. collects information from our users at several different points on our Web site. 
+Echen Inc. is the sole owner of the information collected on this site. Echen Inc. collects information from our users at several different points on our Web site. 
 
 **Registration**   
 During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site. 
@@ -46,7 +47,7 @@ We use cookies to personalize the site for your ease of use. By setting a cookie
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
-This privacy statement covers the use of cookies by DIGICELLIT only and does not cover the use of cookies by any advertisers. 
+This privacy statement covers the use of cookies by Echen only and does not cover the use of cookies by any advertisers. 
 
 **Log Files**   
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
@@ -71,7 +72,7 @@ We DO NOT Share Personal Information with Third Parties.
 We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
 
 **Business Transitions**   
-In the event DIGICELLIT Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
+In the event Echen Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
 
 **Choice/Opt-out**   
 Our users are given the opportunity to ~Qopt-out~R of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ~Qopt-out~R mechanism so users who buy a product from us, but don~Rt want any marketing material, can keep their email address off of our lists.   
@@ -79,13 +80,13 @@ Users who no longer wish to receive our newsletter and promotional communication
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
 **Links**   
-This Web site contains links to other sites. Please be aware that we, DIGICELLIT Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. [Discuss co-branding and/or framing relations where the user may not know who is collecting the information]. 
+This Web site contains links to other sites. Please be aware that we, Echen Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. [Discuss co-branding and/or framing relations where the user may not know who is collecting the information]. 
 
 **Surveys & Contests**   
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users~R personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users~R personally identifiable information for any secondary purposes. 
 
 **Tell-A-Friend**   
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. DIGICELLIT Inc. will automatically send the friend a one-time email inviting them to visit the site. DIGICELLIT Inc. does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact DIGICELLIT Inc. at https://www.cellularfactory.com/contact_us.jsp to request the removal of this information from our database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Echen Inc. will automatically send the friend a one-time email inviting them to visit the site. Echen Inc. does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Echen Inc. at https://www.cellularfactory.com/contact_us.jsp to request the removal of this information from our database. 
 
 **Security**   
 This Web site takes every precaution to protect our users~R information. When users submit sensitive information via the Web site, their information is protected both online and off-line.   
