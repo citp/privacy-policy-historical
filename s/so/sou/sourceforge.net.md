@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204200028id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceforge.net privacy policy that was archived on 2002-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020127010440id_/http%3A//sourceforge.net/docman/display_doc.php%3Fdocid%3D6049%26group_id%3D1) for the most accurate reproduction.*
 
 # SourceForge: SourceForge.net Privacy Policy
 
   
-**Project: SourceForge**
+**Project: SourceForge.net**
 
 ## Document Manager: Display Document
 
 * * *
 
-[Summary](https://web.archive.org/projects/alexandria/) |  [Admin](https://web.archive.org/project/admin/?group_id=1) |  [Home Page](http://sourceforge.net/) |  [Forums](https://web.archive.org/forum/?group_id=1) |  [Tracker](https://web.archive.org/tracker/?group_id=1) |  [Bugs](https://web.archive.org/tracker/?group_id=1&atid=100001) |  [Support](https://web.archive.org/tracker/?group_id=1&atid=200001) |  [Patches](https://web.archive.org/tracker/?group_id=1&atid=300001) |  [Lists](https://web.archive.org/mail/?group_id=1) |  [Tasks](https://web.archive.org/pm/?group_id=1) |  [Docs](https://web.archive.org/docman/?group_id=1) |  [Surveys](https://web.archive.org/survey/?group_id=1) |  [News](https://web.archive.org/news/?group_id=1) |  [Files](https://web.archive.org/project/showfiles.php?group_id=1) | 
+[Summary](https://web.archive.org/projects/alexandria/) |  [Admin](https://web.archive.org/project/admin/?group_id=1) |  [Home Page](http://sourceforge.net/) |  [Forums](https://web.archive.org/forum/?group_id=1) |  [Tracker](https://web.archive.org/tracker/?group_id=1) |  [Support](https://web.archive.org/tracker/?group_id=1&atid=200001) |  [Lists](https://web.archive.org/mail/?group_id=1) |  [Docs](https://web.archive.org/docman/?group_id=1) |  [Surveys](https://web.archive.org/survey/?group_id=1) |  [News](https://web.archive.org/news/?group_id=1) |  [Files](https://web.archive.org/project/showfiles.php?group_id=1) | 
 
 * * *
 
