@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny.co.uk privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216205700id_/http%3A//www.funny.co.uk/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny.co.uk privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604130232id_/http%3A//www.funny.co.uk/privacy.phtml) for the most accurate reproduction.*
 
 # Funny.co.uk - The UK's Premier Comedy Site - Privacy Policy
 
