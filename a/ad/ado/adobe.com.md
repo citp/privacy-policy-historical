@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adobe.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206033137id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adobe.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401201716id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Adobe.com: Online Privacy Policy
 
