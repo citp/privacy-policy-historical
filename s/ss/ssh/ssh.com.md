@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203085900id_/http%3A//www.ssh.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604050345id_/http%3A//www.ssh.com/about/privacy.html) for the most accurate reproduction.*
 
 # SSH - Company Info
 
@@ -52,5 +52,4 @@ Copyright © 2000 SSH Communications Security Ltd. All rights reserved.
 
 [Home](http://www.ssh.com/) _:_ [Products](http://www.ssh.com/products/) _:_ [Partners](http://www.ssh.com/partners/) _:_ [Tech](http://www.ssh.com/tech/) _:_ [Support](http://www.ssh.com/support/) _:_ [Company](http://www.ssh.com/about/)  
 [Download](http://www.ssh.com/download/) _:_ [Sales](http://www.ssh.com/sales/) _:_ [Contact info](http://www.ssh.com/about/contactinfo.html) _:_ [Feedback](http://www.ssh.com/about/feedback.html) _:_ [Terms and Conditions of Use](http://www.ssh.com/about/terms.html) _:_ [Privacy Policy](http://www.ssh.com/about/privacy.html)  
-Copyright © 2000 SSH Communications Security - All Rights Reserved  
- 
+Copyright © 2001 SSH Communications Security - All Rights Reserved  
