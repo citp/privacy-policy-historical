@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rage3d.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004120336id_/http%3A//www.rage3d.com/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rage3d.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200532id_/http%3A//rage3d.com/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Rage3D : Privacy Statement
 
