@@ -1,18 +1,7 @@
-> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607145952id_/http%3A//www.radisson.com/RAD/Customer_Service/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604102400id_/http%3A//www.radisson.com/customerservice/privacy.jsp) for the most accurate reproduction.*
 
-# Welcome to Radisson Hotels - Your Privacy Rights
+# Radisson Hotels & Resorts - Your Privacy Rights
 
-|  |  |  |  |  |  |  |  |   
----|---|---|---|---|---|---|---  
-[](http://www.radisson.com/RAD/RadissonHome.jsp) |  |   
-| [](http://www.radisson.com/RAD/Reservations/ClearReservation.jsp?redirectPath=%2FRAD%2FReservations%2FHotelSearchRes) | : | [](http://www.radisson.com/RAD/Adjustments/CurrentReservations.jsp) | : | [](http://www.radisson.com/RAD/Plan_an_Event/radEvent.jsp) | : | [](http://www.radisson.com/RAD/Reservations/ClearReservation.jsp?redirectPath=%2FRAD%2FReservations%2FHotelSearchBrowse) | : | [](http://www.radisson.com/RAD/Customer_Service/radServiceFirstHome.jsp)  
----|---|---|---|---|---|---|---|---  
-|   
-|   
-|   
-|  |  |  |   
----|---|---  
-  
 |  | 
 
 **Privacy Philosophy**  
@@ -42,28 +31,4 @@ If you do not want to receive posted or e-mail offers from us or from our partne
 **What Kind of Security Procedures Are in Place to Protect the Loss, Misuse or Alteration of Information Under the Company's Control**  
 We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. Any particularly sensitive information, such as a customer's credit card number, is encrypted prior to transmission. **How You Can Correct Any Inaccuracies in the Information**  
 You have the ability to access and edit the personal information that you have provided to us. To update the information retained about you, or to deactivate your account, please visit our Member Services area. **Your Acceptance of These Terms**  
-By using this site, you agree to our Privacy Policy. We may also change the Policy from time to time, so please be sure to visit this site often to see if anything has changed. If we post changes and you continue to use the site, you will be deemed to have agreed to the changes.   
-  
-| 
-
-|   
----  
-[](https://web.archive.org/RAD/Customer_Service/radYourStayLocation.jsp)  
-  
-  
-[](https://web.archive.org/RAD/Customer_Service/radContactUs.jsp?COUNTRY_CODE=US&BRAND_CODE=RAD)  
-  
-  
-[](https://web.archive.org/RAD/Customer_Service/radEmailUsCategory.jsp)  
-  
-  
-  
-  
-[](https://web.archive.org/RAD/Customer_Service/radUsingRadissonCom.jsp)  
-  
-  
-[](https://web.archive.org/RAD/Customer_Service/Terms.jsp)  
-|  |   
-|  |   
-|  |   
-| 
+By using this site, you agree to our Privacy Policy. We may also change the Policy from time to time, so please be sure to visit this site often to see if anything has changed. If we post changes and you continue to use the site, you will be deemed to have agreed to the changes.
