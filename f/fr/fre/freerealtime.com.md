@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the freerealtime.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613041845id_/http%3A//quotes.freerealtime.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerealtime.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603200615id_/http%3A//quotes.freerealtime.com/dl/frt/A%3FSA%3DPrivacy%2520Statement%26file%3Dmain/privacy.html) for the most accurate reproduction.*
 
-# privacy policy - FreeRealTime.com
+# Privacy Statement - FreeRealTime.com
+
+**Privacy Policy**
+
+* * *
 
   
 
@@ -23,15 +27,17 @@ From time to time we may supplement information that you provide to us with info
 
 ## Information We May Disclose
 
-We do not sell, trade or rent your personal contact information to anyone. 
-
 We share demographic, profile and other general information about you and our other customers with our advertisers on an aggregate basis. This means that we tell our advertisers general information about the characteristics of our customer base such as how many female visitors and registered users we have within a certain postal code, but we do not specifically identify a particular female visitor or provide her contact information to our advertisers. 
 
-Our advertisers may ask us to mail or e-mail you promotional information tailored to your interests. We will send you this information on behalf of our advertisers. Our advertisers will not be given your contact information. From time to time we may use third parties (pursuant to a confidentiality agreement) to assist us in e-mail broadcasts and list management. You may opt-out of receiving these mailings as explained below under the heading “Your Options.” 
+Our advertisers may ask us to mail or e-mail you promotional information tailored to your interests. We will send you this information on behalf of our advertisers. From time to time we may use third parties (pursuant to a confidentiality agreement) to assist us in e-mail broadcasts and list management. You may opt-out of receiving these mailings as explained below under the heading “Your Options.” 
 
-We may disclose your contact information or other specific information about you to third parties in conjunction with contests or new service offerings that you elect to participate in, but we will specifically describe with whom we will be sharing the information at the time we gather the information. 
+We may disclose your contact information or other specific information about you to third parties in conjunction with advertising, contests or new service offerings that you elect to participate in. 
 
-We may share your contact information with our strategic partners and certain other companies from whom you select to receive information. You must specifically opt to receive this information. For example, if you are interested in brokerages, and indicate that you would like to receive information regarding brokerages, we will provide our brokerage partners and other interested brokerages with information about your particular needs. These selected entities may send you information by e-mail or regular mail, or may contact you by telephone. 
+We may share your contact information with our strategic partners and certain other companies. These selected entities may send you information by e-mail or regular mail, or may contact you by telephone. 
+
+We may from time to time sell or transfer your contact and demographic information to affiliates and non-affiliates of the Company. 
+
+As we continually look for ways to improve our business, we may buy or sell a company. If we buy or sell a business, the names collected will likely be transferred as a part of the sale. Information about registrants will be used in the aggregate. However, if we buy a business, we will honor the requests that customers made of that business regarding e-mail communications. In the event that we sell a business, we will do everything in our power to ensure that the e-mail communications requests you made of us are honored. 
 
 We may release your contact and other information to third parties when we believe that such release is reasonably necessary to (i) comply with law, (ii) cooperate with state and federal regulatory agency investigations, (iii) comply with the terms of the Subscriber Agreements with Nasdaq and the New York Stock Exchange, (iv) enforce the terms of our User Agreement or License Agreement, or (v) protect the rights of FreeRealTime.com or others. 
 
@@ -51,10 +57,6 @@ You may subscribe for a fee to certain services through our Web site or purchase
 
 Chat rooms, forums, message boards, and/or news groups are available to you through our Web site. Please remember that any information disclosed in these areas becomes public information. If you post personal information online that is accessible to the public, you may receive unsolicited responses. You should exercise caution when deciding to disclose any of your personal information in a public forum. 
 
-## USER@FreeRealTime .com webmail service
-
-FreeRealTime.com does not censor or control the contents of its members’ e-mail messages to the extent that Members adhere to the Terms of Use for this service. 
-
 ## Security
 
 Our Web site has certain security measures in place in effort to protect the loss, misuse and alteration of the information under our control. 
@@ -63,7 +65,11 @@ Our Web site has certain security measures in place in effort to protect the los
 
 Our Web site contains links to other sites. FreeRealTime.com is not responsible for the privacy practices or the content of such sites. You may wish to review the privacy policies of these sites. 
 
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+**Third Party Advertising**   
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here ](http://www.networkadvertising.org/optout_nonppii.asp)
+
+**Third Party Cookies**   
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique 'cookie' on your browser. 
 
 ## Your Options
 
@@ -75,25 +81,24 @@ You may opt-out of receiving communications from us and/or our partners. Your op
 
 * Opting to not receive any newsletters, notices about new services or any other content from FreeRealTime.com. 
 
-You may opt-out during the registration process or after registering by visiting us at <http://www.freerealtime.com/>" and using the Account Information link or by contacting us by e-mail at [support@corp.freerealtime.com](mailto:support@corp.freerealtime.com). Every e-mail we send to you will provide you with instructions on how to unsubscribe so that you will not receive any future e-mails. 
+You may opt-out during the registration process or after registering by visiting us at <http://www.freerealtime.com/> and using the Account Information link or by contacting us [by e-mail](mailto:support@corp.freerealtime.com) Every e-mail we send to you will provide you with instructions on how to unsubscribe so that you will not receive any future e-mails. 
 
 ## Correct or Update Your Information
 
-You may correct or update any information previously provided to us by visiting us at <http://www.freerealtime.com/> and using the Account Information link or by contacting us by e-mail at [support@corp.freerealtime.com](mailto:support@corp.freerealtime.com). 
+You may correct or update any information previously provided to us by visiting us at <http://www.freerealtime.com/> and using the Account Information link or by contacting us by [by e-mail](mailto:support@corp.freerealtime.com)
 
 ## Contacting Us
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 Web Site Administrator  
-FreeRealTime.com, Inc.  
-3333 Michelson Drive  
-Suite 430  
-Irvine, California 92612  
-[support@corp.freerealtime.com](mailto:support@corp.freerealtime.com)
+FreeRealTime.com, Inc.   
+22365 El Toro Road #224   
+Lake Forest, California 92630  
+[Contact support](https://web.archive.org/dl/frt/account?IM=support)
 
 ## Additional Information
 
 Please also refer to the FreeRealTime.com License Agreement for additional privacy related information. For general information about Internet privacy issues, you may wish to visit the Web site hosted by the Federal Trade Commission at <http://www.ftc.gov/privacy>. 
 
-We may from time to time revise this Privacy Policy. This statement of our Privacy Policy was last revised on February 4, 2000. 
+We may from time to time revise this Privacy Policy. This statement of our Privacy Policy was last revised on March 18, 2002. 
