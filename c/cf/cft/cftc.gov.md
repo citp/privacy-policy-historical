@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601215456id_/http%3A//www.cftc.gov/cftc/cftcprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212140057id_/http%3A//www.cftc.gov/cftc/cftcprivacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for the CFTC Web Site
+# Privacy Policy for the CFTC Website
 
 The purpose of this policy statement is to describe how the CFTC handles information which we learn about you when you visit our website. The information we receive depends on how you use the website. You are not required to give us personal information to visit our website. 
 
@@ -14,8 +14,8 @@ If you visit the CFTC website to read or download information, such as press rel
 
 
 
-We use the information collected to measure the number of visitors to the different sections of our website and to help us make the website more useful to visitors. 
+We use the information collected to measure the number of visitors to the different sections of our website and to help us make the website more useful to visitors. 
 
-We do not enable "cookies." A "cookie" is a text file placed on your hard drive by a Web site that can be used to monitor your use of the site. 
+We do not enable "cookies." A "cookie" is a text file placed on your hard drive by a website that can be used to monitor your use of the site. 
 
-If you complete a form or send a comment or e-mail, you may be choosing to send us information which personally identifies you. This information is used generally to respond to your request but may have other uses _**which are identified on each form.**_ For example, if you send us a comment letter on a proposed regulation, that letter becomes part of the comment file and is available to the public. The comments are used to help CFTC and other members of the public evaluate proposed Commission actions. Other forms which you may choose to submit, such as Freedom of Information Act requests, contain information which is used by CFTC employees to track and respond to your request. Information provided on the enforcement questionnaire may be shared with other law enforcement agencies, if appropriate. 
+If you complete a form or send a comment or e-mail, you may be choosing to send us information which personally identifies you. This information is used generally to respond to your request but may have other uses _**which are identified on each form.**_ For example, if you send us a comment letter on a proposed regulation, that letter becomes part of the comment file and is available to the public. The comments are used to help CFTC and other members of the public evaluate proposed Commission actions. Other forms which you may choose to submit, such as Freedom of Information Act requests or requests for correction of information, contain information which is used by CFTC employees to track and respond to your request. Information provided on the enforcement questionnaire may be shared with other law enforcement agencies, if appropriate. 
