@@ -1,49 +1,21 @@
-> *The following text is extracted and transformed from the ientry.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603044511id_/http%3A//www.ientry.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ientry.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031048id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
 
-# iEntry.com | Privacy Policy
+# iEntry Newsletters - Safeguarding Consumer Information With Our Privacy Policy
 
-**[  
-](http://www.ientry.com/demographics/profiles.html) [](http://www.ientry.com/advertisingnew.html)   
-[](http://www.ientry.com/index2.html) [  
-](http://http//ientry.com/unsubinfo.html) [ ](http://www.ientry.com/demographics/wpn.html)** |   
-|   
-| **THE IENTRY, INC. PRIVACY POLICY**  
-  
-Recognized by the industry for our commitment to safeguarding consumer privacy on our Web site, we operate under a strict set of privacy principles: 
+The iEntry, Inc. Privacy Policy  
+iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
 
-  * The only information the iEntry Network obtains about individual visitors to its Web site is information supplied voluntarily by visitors. 
-  * In cases when the iEntry Network may need personal information to provide visitors with services tailored especially for them, or to inform them about new features or services, visitors are asked explicitly for that information. 
-  * All identifiable information provided by members (name, email or home address) will not be disclosed to anyone unless members specifically request the iEntry Network to do so. 
-  * Only statistical information of our members as a group (usage habits, demographics) may be shared with any partner of the iEntry Network; no identifiable information will be shared at any time. 
-  * The iEntry Network employs strict security measures to safeguard online transactions; personal information is stored in a secured database and always sent via an encrypted Internet channel.   
+Registration  
+iEntry collects personally identifying information only during the registration process. In addition, information is collected in certain portions of iEntry in which users specifically and knowingly provide such information along with content submissions, jayde.com submissions or suggestions. iEntry may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes. 
 
-  * **Delete/deactivate policy**  
-Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter.   
+Information submitted at the time of registration (including newsletter subscriptions) may be used for marketing and promotional purposes by iEntry and may be shared with companies that have something of value to offer. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. 
 
-  * **E-newsletter Privacy Policy**  
-iEntry maintains a strict "no-spam" policy. Your information, including your e-mail address will not be sold to any third party if you sign up for one of our e-newsletters. If you sign up for an e-mail newsletter at an iEntry site, you will receive only the e-mail newsletter you have requested and our house newsletter eZined. eZined promotes our new newsletter offerings and you can unsubscribe from it at any time.   
+Cookies  
+Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites.
 
-  * **Advertising**  
-iEntry newsletters may contain 3rd party advertising. As part of your subscription, we may send out occasional special newsletter issues or ‘advertorials’ featuring one of our advertising partners. Such issues will generally feature some product or service that we believe will be of interest to our subscribers. Instructions for unsubscribing from these issues will be included with each mailing. You may decline from receiving these special mailings and still continue to receive our regular issues.   
+Cookies help make iEntry better, by showing how and when guests use the site. Many content improvements and updates are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. A cookie lets iEntry remember that you've registered, which allows us to speed up your future activities at our sites. The cookie itself does not contain any personally identifying information although it may enable iEntry to relate a user's use of iEntry to personally identifying information that has previously been submitted by the user, if any. 
 
-  * **Polling**  
-Several iEntry sites offer interactive polls to users so they can easily share their opinions with other users and see what the iEntry audience thinks about important issues. iEntry uses a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.   
+You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to such third parties' policies. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, it is likely that most areas of the site will not function properly if you do so. 
 
-  * **Surveys**  
-Occasionally, iEntry conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party.   
-
-  * **Submission**  
-Our site submission guidelines are simple and straightforward. Multiple submissions of the same site, site descriptions with embedded graphics and/or javascript, pornographic site submissions and sites promoting hatred, intolerance, or prejudice are not permitted and will be deleted during or after our filtering process. Spamming the directory is a waste of everyone's time. It entails considerable work on our part to remove duplicate listings and consequently delays the posting of legitimate submissions for a period of 4 to 5 weeks following the date of submission.  
-
-  * **Tracking .Gif’s  
-**iEntry Inc. and its advertisers may use tracking or single-pixel gif images to count Web page accesses and gather some general statistical information. iEntry Inc. does not gather personal information through the use of these images. Some advertisers may use tracking gifs that can track personal information from cookies that may have been previously placed on a user's computer **  
-**  
-  * **Consent**  
-By using our Web site, you consent to the collection and use of information by iEntry Inc. as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-
-
-For additional detail regarding iEntry's site submission guidelines, please visit our [FAQ](http://www.jayde.com/subfaq.html) page.
-
-**How to Reach Us**  
-If you ever feel uncertain about whether this site is following the privacy policy we have described here, please notify us by e-mail to [abuse@ientry.com](mailto:abuse@ientry.com?subject=privacy%20policy). We will make every reasonable effort to find and correct the problem promptly.
+Removal from our Database  
+Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [support@ientry.com](mailto:support@ientry.com).
