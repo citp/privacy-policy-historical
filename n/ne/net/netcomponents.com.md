@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcomponents.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013032409id_/http%3A//www.netcomponents.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcomponents.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165655id_/http%3A//www.netcomponents.com/privacy.htm) for the most accurate reproduction.*
 
 # netCOMPONENTS: Privacy Policy
 
