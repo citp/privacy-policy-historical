@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratehispanic.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204233114id_/http%3A//www.ratehispanic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratehispanic.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607072716id_/http%3A//www.ratehispanic.com/privacy.php) for the most accurate reproduction.*
 
 # Rate Hispanic - The Hispanic HOT or NOT site
 
