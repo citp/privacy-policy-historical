@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610170508id_/http%3A//track-trace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224020538id_/http%3A//track-trace.com/privacy.html) for the most accurate reproduction.*
 
 # track-trace - Privacy statement
 
@@ -12,19 +12,19 @@ A cookie is a piece of data stored on the user’s hard drive containing informa
 Some of our business partners use cookies on our site (for example, advertisers), however we have no access to or control over these cookies. 
 
 **Log files**  
-We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+We use IP addresses to analyse trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
 **Links**  
-This web site containslinks to other sites. Please be aware that we are not responsiblefor the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **Feedback**  
 If users elects to use our feedback service for informing us of problems with our site or suggest improvements, we ask them for their email address. We will only use this information to respond to the entered topic, and the user will never receive emails from us that are not related to this. The user may choose not to enter their email address, the drawback to this is that we will not be able to respond to the users request. 
 
 **Tell A Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the users name and the friend's email address. We will automatically send the friend a one-time email inviting them to visit the site. This information will be used for the sole purpose of sending the email and will not be stored in any way by us. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the users name and the friend's email address. We will automatically send the friend a email inviting her to visit the site. The entered information will be used for the sole purpose of sending this email and the receiver will never receive emails from us that are not related to this. 
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@pakkesporing.no](mailto:webmaster@pakkesporing.no)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@track-trace.com](mailto:webmaster@track-trace.com)
