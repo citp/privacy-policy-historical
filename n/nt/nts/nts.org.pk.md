@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412023459id_/http%3A//www.nts.org.pk/Privacy/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607071021id_/http%3A//www.nts.org.pk/Privacy/Privacy.htm) for the most accurate reproduction.*
 
 # :::National Testing Service:::
 
