@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203181434id_/http%3A//hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602190012id_/http%3A//hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Hardware Analysis - Privacy Policy
 
