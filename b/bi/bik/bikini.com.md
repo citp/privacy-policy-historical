@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605041745id_/http%3A//www.bikini.com/privacy_policytest2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204054240id_/http%3A//www.bikini.com/privacy_policytest2.html) for the most accurate reproduction.*
 
 # Bikini.com: Privacy Policy
 
-Bikini.com Privacy Policy
+Bikini.com, All Star Media, LLC. Privacy Policy
 
 Bikini.com, All Star Media, LLC, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
 
