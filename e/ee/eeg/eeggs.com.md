@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeggs.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614130808id_/http%3A//www.eeggs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeggs.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215055406id_/http%3A//eeggs.com/privacy.html) for the most accurate reproduction.*
 
 # Eeggs.com - Privacy Policy
 
