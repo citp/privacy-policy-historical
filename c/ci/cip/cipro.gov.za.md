@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cipro.gov.za privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210034756id_/http%3A//www.cipro.gov.za/common/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipro.gov.za privacy policy that was archived on 2003-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030215110033id_/http%3A//www.cipro.gov.za/common/Privacy.asp) for the most accurate reproduction.*
 
 # CIPRO - Contact Us
 
