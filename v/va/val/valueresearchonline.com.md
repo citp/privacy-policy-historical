@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueresearchonline.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205231041id_/http%3A//www.valueresearchonline.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueresearchonline.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308204922id_/http%3A//www.valueresearchonline.com/policy.asp) for the most accurate reproduction.*
 
 # Value Research Online - Privacy Policy
 
