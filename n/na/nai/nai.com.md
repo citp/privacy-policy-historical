@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201175712id_/http%3A//www.nai.com/naicommon/aboutnai/copyright/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195345id_/http%3A//www.nai.com/naicommon/aboutnai/copyright/privacy.asp) for the most accurate reproduction.*
 
 # About NAI -- Privacy Policy Statement
 
