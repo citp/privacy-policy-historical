@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202021310id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211634id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
 
 # Belfast Telegraph
 
   
 |   |  Privacy Policy  
 Please read this carefully  
-28 March 2003 
+09 December 2003 
 
 Before using the Website (that is, any site operated by **Independent News & Media plc** companies) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties. 
 
 **The basic principles**
 
-By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20031202021310id_/http%3A//www.belfasttelegraph.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
+By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20040602211634id_/http%3A//www.belfasttelegraph.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
 
 ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably. 
 
@@ -44,12 +44,23 @@ _"What do I do if I am not happy for you to share information about me with othe
 
   * You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at [customerservice@independent.co.uk](mailto:customerservice@independent.co.uk) at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy..Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order. 
 
-_"Do you use cookies?"_
 
-  * Like many other web sites we do use cookies as they enable us to identify you when you visit the Web Site and to develop a clearer picture of our users' preferences. 
-  * Cookies are small text files that are sent to your browser when you visit the Web Site and are stored on your hard disc. By identifying your previous visits, they enable you to use the site more effectively and enable us to tailor the site better to suit your needs. 
-  * You can find out more about cookies at [www.cookiecentral.com](http://www.cookiecentral.com/). 
 
+**Use of cookies on a website**
+
+  * _The basic principles_  
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.   
+Two types of cookies are used on the Website: **Session Cookies** which are temporary cookies that remain in the cookie file of your browser until you leave the Website. **Persistent Cookies** which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of each specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. Find out more about [cookies](http://www.allaboutcookies.org/) here. 
+
+
+  * _How we collect cookies on the Website and what information we collect_   
+**Session Cookies:** To allow you to carry information across pages of the Website and avoid having to re-enter information. **Persistent Cookies:** To help us recognise you as a unique visitor (just a number) when you return to the Website and to allow us to tailor content, advertisements and the presentation of the Website to match your preferences. To compile anonymous, aggregated statistics that allow us to understand how users use the Website and to help us improve the structure of the Website. We cannot identify you personally in this way. 
+    * _Third Party Cookies._   
+Third parties serve cookies via the Website. These are used for the following purposes: To serve advertisements on the Website and track whether these advertisements are clicked on by users. To control how often you are shown a particular advertisement. To count the number of anonymous users of the Website.To provide security within transactions.
+    * _Use of Web Beacons_   
+Some of our web pages may contain electronic images know as web beacons (sometimes know as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. Find out more about [Web Beacons ](http://www.allaboutcookies.org/web-beacons/index.html)
+    * _Disabling/Enabling Cookies._   
+You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the Website if cookies are disabled. Find out how to [disable/enable cookies](http://www.allaboutcookies.org/manage-cookies/)
 **International transfer of personal data**   
 As you will know, the Internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way. 
 
@@ -61,5 +72,7 @@ If you want further information, or wish to communicate with us about this Priva
 
 
  Back  | Return to top  | [Printable Story](https://web.archive.org/low_res/story.jsp?story=55090&host=26&dir=674)  
+
+
 |   |    
 
