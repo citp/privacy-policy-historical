@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209123018id_/http%3A//www.ford.co.uk/static/gen_privacy/-/-/-/-/-/-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309005417id_/http%3A//www.ford.co.uk/static/gen_privacy/-/-/-/-/-/-) for the most accurate reproduction.*
 
 # Ford :: Privacy policy
 
