@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622013925id_/http%3A//www.astromart.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203002130id_/http%3A//www.astromart.com/privacy.asp) for the most accurate reproduction.*
 
 # ASTROMART - Privacy Policy
 
