@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stuffit.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604095016id_/http%3A//www.stuffit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffit.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204185806id_/http%3A//stuffit.com/privacy.html) for the most accurate reproduction.*
 
-# StuffIt - Legal Notices
+# StuffIt; File compression Windows & Mac
 
 #### Privacy Policy
 
@@ -22,9 +22,12 @@ These files in no way allow us to access your hard drive at anytime; it only all
 
 Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. Our system is completely cookie dependent and you must receive ALL cookies to order from our online store. 
 
+**Aladdin Software sending information via the Internet**  
+Some of our software products have been equipped with a version checking feature. Upon launching the software application, the version of the application you are running is captured and sent to our webserver. It is compared to the most current shipping version and if there is an update available the software will notify you of how to obtain it. There is no personal information sent to our server, only information from the software application itself.
+
 **E-mail Addresses and Their Usage**
 
-Aladdin does not purchase or rent bulk email lists. Aladdin asks that you enter your e-mail address on our download pages before downloading software. You always have the option to not provide your e-mail address; it is not a requirement to download our software. Aladdin does not sell, trade or rent your email address to others. We ask for your e-mail address so that we may contact you to inform you of updates, special offers, or other software that we think would be of interest to you, including software or products from companies other than Aladdin. Any offer you may receive via email will always come from Aladdin, not the sponsoring third party. We know that the members of our e-mail list are very sensitive to receiving spam, or unsolicited email; hence we are very careful about what we send out and to whom. 
+Aladdin asks that you enter your e-mail address on our download pages before downloading software. You always have the option to not provide your e-mail address; it is not a requirement to download our software. Aladdin does not sell, trade or rent your email address to others. We ask for your e-mail address so that we may contact you to inform you of updates, special offers, or other software that we think would be of interest to you, including software or products from companies other than Aladdin. Any offer you may receive via email will always come from Aladdin, not the sponsoring third party. We know that the members of our e-mail list are very sensitive to receiving spam, or unsolicited email; hence we are very careful about what we send out and to whom. 
 
 When you participate in a contest, promotion or survey, we may ask for your name, address, e-mail address or other information. 
 
