@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214033013id_/http%3A//www2.weta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weta.org privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630081516id_/http%3A//www2.weta.org/privacy.html) for the most accurate reproduction.*
 
 # WETA - Online Privacy Policy
 
@@ -18,9 +18,6 @@ To make use of certain features on WETA Online you need to register and to provi
 The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our sites. For example, we can't offer you participation in online auctions and/or subscription to electronic newsletters. And we can't send you email alerting you to any new service we're offering, or breaking news that may interest you if you don't tell us your preferences and give us your email address. Of course, even if you want to remain completely anonymous you're still free to take advantage of the wealth of content available on our site without registration.
 
 The areas of the site in which we collect information, the information collected and the purpose for collecting that information are described below:
-
-**Registration with the WETA Online Career Center**  
-WETA's online career center is operated by Career Builder, inc. Visitor's may choose to register with the WETA’s Career Center and create a My Career Builder account for the purpose of applying for jobs in the Career Center. Use of the Career Center and the My Career Builder feature is governed by Career Builder's [privacy policy](http://www.careerbuilder.com/corp_privacy.html).
 
 **Subscription to electronic newsletters**  
 WETA TV and FM offer free electronic newsletters to users. These newsletters include highlights of WETA programming, and other information of interest to WETA viewers and listeners. To subscribe, you must provide your email address. To remove yourself from the mailing list, follow the instructions at the bottom of any newsletter.
@@ -80,4 +77,4 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 [Privacy Policy](https://web.archive.org/privacy.html) | [Terms & Conditions](https://web.archive.org/terms.html) | [Site Map](https://web.archive.org/sitemap.html)
 
-© Copyright 1996-2002, GWETA.
+© Copyright 1996-2003, GWETA.
