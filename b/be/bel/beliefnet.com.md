@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630084815id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230142534id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Beliefnet.com
 
