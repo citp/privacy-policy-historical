@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kirklands.com privacy policy that was archived on 2000-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001021192211id_/http%3A//www.kirklands.com/kl_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kirklands.com privacy policy that was archived on 2001-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603022140id_/http%3A//www.kirklands.com/kl_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Kirkland's: Unique Home Decor and Accessories</title>
@@ -52,9 +52,36 @@ function MM_popupMsg(msg) { //v1.0
 // -->
 </script>
 
-
-
 <script language="JavaScript" src="include/TopMenuData.txt">
+</script>
+
+<script language="JavaScript">
+menuData[0][6][0]="Art"
+menuData[0][6][1]="kl_isle.asp?pfid=1"
+menuData[0][7][0]="Lamps"
+menuData[0][7][1]="kl_isle.asp?pfid=11"
+menuData[0][8][0]="Lighting"
+menuData[0][8][1]="kl_isle.asp?pfid=3"
+menuData[0][9][0]="Accessories"
+menuData[0][9][1]="kl_isle.asp?pfid=10"
+menuData[1][10][0]="Floral"
+menuData[1][10][1]="kl_isle.asp?pfid=6"
+menuData[1][11][0]="Garden"
+menuData[1][11][1]="kl_isle.asp?pfid=7"
+menuData[1][12][0]="Flags"
+menuData[1][12][1]="kl_isle.asp?pfid=5"
+menuData[2][13][0]="Textiles"
+menuData[2][13][1]="kl_isle.asp?pfid=12"
+menuData[2][14][0]="Gifts"
+menuData[2][14][1]="kl_isle.asp?pfid=8"
+menuData[2][15][0]="Literature"
+menuData[2][15][1]="kl_isle.asp?pfid=2"
+menuData[2][16][0]="Dolls"
+menuData[2][16][1]="kl_isle.asp?pfid=4"
+menuData[3][17][0]="Christmas"
+menuData[3][17][1]="kl_isle.asp?pfid=9"
+menuData[4][21][0]="New Items"
+menuData[4][21][1]="kl_isle.asp?pfid=13"
 </script>
 
 <script language="JavaScript">
@@ -239,7 +266,7 @@ function doDiv(){
                
                objDiv += "<div id=\"line\" style=\"position:relative; background-color:#000000; width:120px;\"><img src=images/shim.gif width=120 height=1></div>"
 
-	for (y = 0; y < 15; y++){
+	for (y = 0; y < 999; y++){
 	    if(menuData[x][y][0]!=null){
 		objDiv += "<div id=\"x" + tdID + "\" style=\"position:relative; background-color:#beac8e; width:120px;\" onMouseover=\"divOver('document.all[\\'x" + tdID + "\\']')\" onMouseout=\"divOut('document.all[\\'x" + tdID + "\\']')\"><span class=\"nav\" onClick=\"gotoUrl('"+menuData[x][y][1]+"')\">"+ menuData[x][y][0] +"&nbsp;</span></div>"
 		objDiv += "<div id=\"line\" style=\"position:relative; background-color:#000000; width:120px;\"><img src=images/shim.gif width=120 height=1></div>";		
@@ -272,7 +299,7 @@ function doLayer(){
 	objDiv = "<layer id=\""+ layerID +"\" Z-INDEX=1 BGCOLOR=\"#beac8e\" WIDTH=130 LEFT="+ layerLeft +" TOP="+ layerTop +" VISIBILITY=HIDE onmouseover=\"showDDNav('','document.layers[\\'"+ layerID +"\\']')\" onmouseout=\"hideDDNav('','document.layers[\\'"+ layerID +"\\']')\">"
                 objDiv +="<layer id=\"line1\" BGCOLOR=\"#000000\" WIDTH=130 HEIGHT=1 Z-INDEX=7 TOP="+ nestTop +"><center><img src=images/shim.gif width=120 height=1></center></layer>"
 	var nestTop=1
-	for (y = 0; y < 15; y++)
+	for (y = 0; y < 999; y++)
                {
                   if(menuData[x][y][0]!=null)
                  {
@@ -386,48 +413,30 @@ else{}
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table width="750" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr><td colspan="2"><img src="images/topbar.gif" width="749" height="76" usemap="#Map" border="0">
-<map name="Map">
-<area shape="rect" coords="2,3,167,46" href="http://www.kirklands.com/default.asp?pindex=1">
-<area shape="rect" coords="135,47,210,66" href="#" onmouseover="showDDNav('document.all[\'HomeDecor\']','document.layers[\'HomeDecor\']')" onmouseout="hideDDNav('document.all[\'HomeDecor\']','document.layers[\'HomeDecor\']')">
-<area shape="rect" coords="214,48,301,66" href="#" onmouseover="showDDNav('document.all[\'Floral\']','document.layers[\'Floral\']')" onmouseout="hideDDNav('document.all[\'Floral\']','document.layers[\'Floral\']')">
-<area shape="rect" coords="306,48,395,65" href="#" onmouseover="showDDNav('document.all[\'Accents\']','document.layers[\'Accents\']')" onmouseout="hideDDNav('document.all[\'Accents\']','document.layers[\'Accents\']')">
-<area shape="rect" coords="398,48,512,67" href="#" onmouseover="showDDNav('document.all[\'Seasonal\']','document.layers[\'Seasonal\']')" onmouseout="hideDDNav('document.all[\'Seasonal\']','document.layers[\'Seasonal\']')">
-<area shape="rect" coords="517,48,574,68" href="#" onmouseover="showDDNav('document.all[\'Special\']','document.layers[\'Special\']')" onmouseout="hideDDNav('document.all[\'Special\']','document.layers[\'Special\']')">
-</map></td>
+  <tbody><tr><td colspan="2"><img src="images/topbar.gif" width="749" height="76" usemap="#Map" border="0"><map name="Map"><area shape="rect" coords="2,3,167,46" href="http://www.kirklands.com/default.asp?pindex=1"><area shape="rect" coords="135,47,210,66" href="#" onmouseover="showDDNav('document.all[\'HomeDecor\']','document.layers[\'HomeDecor\']')" onmouseout="hideDDNav('document.all[\'HomeDecor\']','document.layers[\'HomeDecor\']')"><area shape="rect" coords="214,48,301,66" href="#" onmouseover="showDDNav('document.all[\'Floral\']','document.layers[\'Floral\']')" onmouseout="hideDDNav('document.all[\'Floral\']','document.layers[\'Floral\']')"><area shape="rect" coords="306,48,395,65" href="#" onmouseover="showDDNav('document.all[\'Accents\']','document.layers[\'Accents\']')" onmouseout="hideDDNav('document.all[\'Accents\']','document.layers[\'Accents\']')"><area shape="rect" coords="398,48,512,67" href="#" onmouseover="showDDNav('document.all[\'Seasonal\']','document.layers[\'Seasonal\']')" onmouseout="hideDDNav('document.all[\'Seasonal\']','document.layers[\'Seasonal\']')"><area shape="rect" coords="517,48,574,68" href="#" onmouseover="showDDNav('document.all[\'Special\']','document.layers[\'Special\']')" onmouseout="hideDDNav('document.all[\'Special\']','document.layers[\'Special\']')"></map></td>
   </tr>
   <tr> 
-    <td width="127" align="left" valign="top" bgcolor="#EAD5B2"> 
-      <form name="search" method="post" action="navPullDown.asp">
+    <td width="127" align="left" valign="top" bgcolor="#EAD5B2"><form name="search" method="post" action="kl_srchresult.asp">
       <table width="127" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-            <td width="116"><font size="-2" face="Arial, Helvetica, sans-serif">
-<!--              <input name="str" size="11"> -->
-              </font>
-<select name="myNavPullDown"><option value="1"> -- Select -- </option><option value="10">Accessories</option><option value="1">Art</option><option value="9">Christmas</option><option value="4">Dolls</option><option value="5">Flags</option><option value="6">Floral</option><option value="7">Garden</option><option value="8">Gifts</option><option value="13">Lamp Sale</option><option value="11">Lamps</option><option value="3">Lighting</option><option value="2">Literature</option><option value="12">Textiles</option></select>
-
-              </td>
+            <td width="116"><font size="-2" face="Arial, Helvetica, sans-serif"> 
+              <input type="text" name="str" size="11">
+              </font></td>
             <td width="24">
-            <input type="image" src="images/gobutton.gif">
-<!-- <input border="0" src="images/gobutton.gif" VALUE="Search Now!" OnClick="validate()" ID="btnSearch" NAME="btnSearch" hspace="5" type="image"> <input TYPE="hidden" NAME="srchCategory" VALUE="All product categories">-->
-             <input type="hidden" name="Kirkland's Products" value="1">
+<input border="0" src="images/gobutton.gif" value="Search Now!" id="btnSearch" name="btnSearch" hspace="5" type="image"><input type="hidden" name="srchCategory" value="All product categories">
+<input type="hidden" name="Kirkland's Products" value="1">
             </td>
         </tr>
         <tr>
           <td width="116">
               <div align="right"><font size="-2" face="Arial, Helvetica, sans-serif">
-<!--
 
--->
-             </font></div>
+</font></div>
             </td>
           <td width="24">&nbsp;</td>
         </tr>
-      </tbody></table></form>
-
-      
-      
-      
+      </tbody></table>
+      </form>
       <table width="127" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td colspan="2"><img height="20" src="images/welcome.gif" width="124"></td>
@@ -468,7 +477,7 @@ else{}
         </tr>
         <tr> 
           <td width="114" height="18"> 
-            <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="kl_coupon.asp">Buy More/Save More</a></font></div>
+            <!--<div align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><a href="kl_coupon.asp" >Buy More/Save More</a></font></div>-->
           </td>
           <td width="15" height="18">&nbsp;</td>
         </tr>
@@ -502,7 +511,7 @@ else{}
         <tr> 
           <td width="114" height="18"> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1">
-            <a href="wishlist.asp">My Wish List</a>
+            <a href="#" onclick="MM_popupMsg('Coming soon!')"><!-- <a href="wishlist.asp"> -->My Wish List</a>
             </font></div>
           </td>
           <td width="15" height="18">&nbsp;</td>
@@ -611,7 +620,6 @@ If you have questions concerning our privacy policy or any security matters, ple
 <td></td>
 </tr>
 </tbody></table>
-
 
 
 
