@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603050226id_/http%3A//www.scottbrand.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205203319id_/http%3A//www.scottbrand.com/privacy.asp) for the most accurate reproduction.*
 
 # SCOTT® Brand Privacy Policy
 
