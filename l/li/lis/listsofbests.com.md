@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listsofbests.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074541id_/http%3A//listsofbests.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listsofbests.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308154029id_/http%3A//listsofbests.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Lists of Bests : Privacy Policy
 
