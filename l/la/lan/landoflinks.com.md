@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the landoflinks.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205103441id_/http%3A//www.landoflinks.com/docs/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landoflinks.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408023224id_/http%3A//www.landoflinks.com/docs/info/privacy.html) for the most accurate reproduction.*
 
 # Land of Links: Privacy Policy
 
-  |    
+  
 
 
 ### Privacy Policy for LandofLinks.com
@@ -17,6 +17,4 @@ When a web page is submitted to LandofLinks.com, contact information from the si
 
 [Privacy@landoflinks.com](mailto:privacy@landoflinks.com)
 
-|     
-  
-Copyright © 2000-2002 TDE Web Services. All rights reserved. 
+Copyright © 2000-2003 TDE Web Services. All rights reserved. 
