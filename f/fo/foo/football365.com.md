@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the football365.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603094707id_/http%3A//www.football365.com/home/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football365.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208132218id_/http%3A//football365.com/home/privacy_policy.shtml) for the most accurate reproduction.*
 
-# Football news - Euro 2004 news, results, fixtures and features from Football365.com
+# Football news - news, results, fixtures and features from Football365.com
 
-## PRIVACY POLICY
+## TEAMtalk Media Group Network Privacy Policy
 
-1\. Football365 has a firm commitment to privacy.
+1\. ukbetting plc incorporating Sporting Life UK Limited, TEAMtalk Media Group Limited, Rivals Digital Media and sites within the company's TEAMtalk Media Group Network strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.
 
 2\. We may use your IP address to help diagnose problems with our server and to administer our website. Your IP address may be used to help identify you and to gather broad demographic information. We will not provide or sell user-specific demographic information to any other person or business. We will only share this information on an aggregate basis. 
 
