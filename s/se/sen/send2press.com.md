@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219011705id_/http%3A//www.send2press.com/about/mindset_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606132604id_/http%3A//www.send2press.com/about/mindset_privacy.shtml) for the most accurate reproduction.*
 
 # pr news bureau | mindsetnetwire.com | privacy statement
 
-  Tuesday, December 18, 2001 | [A Member of the Neotrope™ Interactive Network](http://www.neotrope.net/)   
+  Thursday, June 06, 2002 | [A Member of the Neotrope™ Interactive Network](http://www.neotrope.net/)   
   
 [](http://www.send2press.com/)  
 [](http://www.send2press.com/)  
    
 |  [](http://www.send2press.com/recent_press-releases.shtml) |  |  [](http://www.send2press.com/index.shtml) |  [](http://www.send2press.com/press_release/index.shtml) |  [](http://www.dotcommojo.com/website_promotion/index.shtml) |  [](http://www.send2press.com/library/index.shtml) |  [](http://www.bluespin.com/s2p/pages/order.shtml)  
 ---|---|---|---|---|---|---  
+  
   
 [View Headlines](http://www.send2press.com/recent_press-releases.shtml)  
 
