@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teach.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606075645id_/http%3A//www.teach.com/m0/m0c.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406105431id_/http%3A//www.teach.com/m0/m0c.asp) for the most accurate reproduction.*
 
 # Welcome to Intellinex
 
