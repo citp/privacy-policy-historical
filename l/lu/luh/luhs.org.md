@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the luhs.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205215747id_/http%3A//www.luhs.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luhs.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/privacy.htm) for the most accurate reproduction.*
 
 # Loyola Univ. Health Sys. - Privacy Policy
 
-[ ](https://web.archive.org/web/20021205215747id_/http%3A//www.luhs.org/under/index.htm)[](https://web.archive.org/web/20021205215747id_/http%3A//www.luhs.org/docs/index.htm)[](https://web.archive.org/web/20021205215747id_/http%3A//www.luhs.org/healthinfo/index.htm)[](https://web.archive.org/web/20021205215747id_/http%3A//www.luhs.org/happen/index.htm)[](https://web.archive.org/web/20021205215747id_/http%3A//www.luhs.org/maps/index.htm) **** |  | 
+| 
 
-You are here: [Home](http://www.luhs.org/)  > Privacy Policy
+[](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/index.cfm)
+
+|   
+---|---  
+| 
+
+You are here: [Home](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/index.cfm) > Privacy Policy 
 
 **Privacy Policy**
 
@@ -93,23 +99,18 @@ luhsweb@lumc.edu
 
 
 
-Please see our [Terms and Conditions](https://web.archive.org/web/20021205215747id_/http%3A//www.luhs.org/terms.htm) for other information governing your use of the LUHS web sites.
-
-[](http://www.lumc.edu/templates/luhs/email/email.cfm)
-
-* * *  
+Please see our [Terms and Conditions](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/terms.htm) for other information governing your use of the LUHS web sites.  
   
----|---  
-|  |  **[Choose a Doctor](http://www.lumc.edu/templates/luhs/physearch/search_entry.cfm)** | 
-
-**Search Our Site**  
-  
-  
-|  **** |  **[Health Topics](http://www.luhs.org/health/topics/index.htm)**  
-|  **** |  **Call 1-708-216-9000 to speak with an LUHS associate**  
+---  
   
 www.luhs.org - Maywood, IL  
-Last reviewed: Oct. 1, 2001
+Last reviewed: May 20, 2003  
+  
+| 
 
-©1995-2002 Loyola University Health System. All rights reserved.  
-All information is intended for educational purposes only and is not a substitute for medical advice or treatment for specific medical conditions. Should you have any health-care related questions or suspect you have a health problem, you should consult you health-care provider. Use of this online service is subject to the disclaimer and the [terms and conditions](https://web.archive.org/web/20021205215747id_/http%3A//www.luhs.org/terms.htm). LUHS observes a strict [privacy policy](https://web.archive.org/web/20021205215747id_/http%3A//www.luhs.org/privacy.htm) regarding online information.
+[Home](http://www.luhs.org/index.cfm) | [Children's Hospital](http://www.lumc.edu/rmch/) | [Jobs/Volunteer](http://www.luhs.org/jobs.htm) | [E-mail and Phone](http://www.luhs.org/contact.cfm) | [News Media](http://www.luhs.org/depts/media/index.htm) | [Site Map](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/sitemap.htm)  
+[myLoyola](http://www.myloyola.luhs.org/) | [Loyola University](http://www.luc.edu/) | [Contact Us](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/comments.htm) | [About this Site](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/about/index.htm) | [Intranet](http://www.luhs.org/internal)
+
+[©1995-2003 Loyola University Health System. All rights reserved. ](http://www.luhs.org/terms.htm#disclaimer)  
+[Disclaimer](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/terms.htm#disclaimer) | [Terms and conditions](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/terms.htm) | [Privacy Policy](https://web.archive.org/web/20030602205734id_/http%3A//www.luhs.org/privacy.htm)   
+
