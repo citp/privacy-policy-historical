@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628141953id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203152801id_/http%3A//mugglenet.com/privacy.shtml) for the most accurate reproduction.*
 
 # MuggleNet | Privacy Policy
 
