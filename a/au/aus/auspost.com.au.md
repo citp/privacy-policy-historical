@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416184219id_/http%3A//www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604113930id_/http%3A//www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
 
 # Australia Post - Privacy Policy
 
@@ -188,7 +188,7 @@ access would be unlawful, or
 
 access may prejudice enforcement activities, a security function or commercial negotiations.  
   
-Should you require more specific details concerning our privacy practices please read the[ Australia Post Privacy Policy](https://web.archive.org/web/20030416184219id_/http://www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy/AP_privacy_policy.pdf) . 
+Should you require more specific details concerning our privacy practices please read the[ Australia Post Privacy Policy](https://web.archive.org/web/20040604113930id_/http://www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy/AP_privacy_policy.pdf) . 
 
 You can also call our Customer Contact Centre on **13 13 18** between 9.00 am and 5.00 pm EST Monday to Friday or e-mail us at [dlhqprivacy@auspost.com.au](mailto:dlhqprivacy@auspost.com.au).
 
