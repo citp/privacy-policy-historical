@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
 
 # timeshare resales and rentals, buy and sell timeshare fast and easy
 
@@ -60,60 +60,59 @@ We also permit other companies that show advertisements on some of our pages to 
   
 
 
-[Carlsbad Seapointe Resort  
-$15,000(sale)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=18550)
+[Westgate Vacation Villas  
+$17,500 (NEG)(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=30422)
 
-[Tristram's Landing  
-$2,400 - NANTUCKET !!! AVAILABLE FRIDY, JULY 30 - FRIDAY, AUGUST 6TH(rent)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=18547)  
+[Flagship Resort, The  
+$14,500 - WEEK #47 IN ATLANTIC CITY !!!(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=29705)  
   
   
   
 
 
-[Summer Bay Las Vegas  
-$7,500 **LAS VEGAS GETAWAY1 1BD/1BA W/ ANNUAL USAGE!!**(sale)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=18220)
+[Shell Vacations Club - Multi-Destination  
+$14,000 NEGOTIABLE ***WITH 3,750 SVC POINTS!!!(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=29444)
 
-[Playa Grande Resort  
-$1,500 FOR A WEEK!(rent)  
-$15,500 **WONDERFUL MEXICO!!**(sale)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=18048)  
+[Cliffs at Peace Canyon, The  
+PRICE JUST DROPPED TO $11,900 (NEG) - LAS VEGAS !!! OWNER SAYS(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=28626)  
   
   
   
 
 
-[Fairmont Vacation Villas at Hillside  
-REDUCED TO $9,900 PLUS INCLUDES 4 BANKED WEEKS AND APPROX. 3 YEARS OF INTERVAL INTERNATIONAL(sale)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=17153)
+[Royal Sunset  
+$1,000 - FLOATING WEEK !(rent)  
+JUST REDUCED! PRESIDENTIAL SUITE - $16,000!!(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27868)
 
-[Marriott's Manor Club at Ford's Colony  
-$15,000 NEGOTIABLE(sale)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=16775)  
+[Plaza Resort Club  
+$8,500 (NEG) - FAMILY-ORIENTED RESORT IN RENO!!!(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27841)  
   
   
   
 
 
-[Grand Seas Resort  
-JUST REDUCED !! $6,000 - DAYTONA!! MOTIVATED SELLER!!!(sale)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=16147)
+[Shell Vacations Club at Kauai Coast Resort at the Beachboy  
+JUST REDUCED TO $8,500 INCLUDES 3,500 POINTS!!!(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27427)
 
-[Sheraton's Vistana Resort  
-$14,500(sale)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=15707)  
+[Westgate Towers  
+PRICE JUST REDUCED TO $12,500 (NEG) - OWN A LITTLE PIECE OF MAGIC !!!(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27040)  
   
   
   
 
 
-[Westgate Miami Beach  
-$1,100(rent)  
-PLENTY OF FUN AND SUN IN VIBRANT, EXCITING MIAMI!! $8,900(sale)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=11911)
+[Fairfield Smoky Mountains  
+PRICE DRASTICALLY REDUCED!! NOW ONLY $7,995!! OWNER WANTS TO SELL BEFORE END OF THE YEAR!(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=27018)
 
-[Vacation Village at Weston  
-JUST REDUCED TO ONLY $2,500 (NEG) - TRIANNUAL - **A STEAL!!!**(sale)  
-](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=10527)
+[Hilton Grand Vacations Club at SeaWorld International Center  
+REDUCED TO $8,800 - OUTSTANDING VACATION CLUB DEAL !!!(sale)  
+](https://web.archive.org/web/20041209071831id_/http%3A//www.sellmytimesharenow.com/details.php?idadd=26914)
