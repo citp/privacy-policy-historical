@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021533id_/http%3A//www.idg.net/content/bonus_content/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204081830id_/http%3A//www.idg.net/content/bonus_content/privacy.shtml) for the most accurate reproduction.*
 
 # IDG.net - Privacy
 
@@ -11,7 +11,7 @@ It is our commitment to notify you of the following:
   * How you can correct or make changes to this information. 
   * What choices are available to you regarding the collection, use, and distribution of information. 
   * What security procedures are in place to protect the loss, misuse, or alteration of information under IDG.net's control. 
-  * If you have questions or concerns regarding this statement, please contact us via our [feedback](https://web.archive.org/web/20020604021533id_/http%3A//www.idg.net/content/bonus_content/feedback.index.shtml) page.
+  * If you have questions or concerns regarding this statement, please contact us via our [feedback](https://web.archive.org/web/20021204081830id_/http%3A//www.idg.net/content/bonus_content/feedback.index.shtml) page.
 
 
 
