@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030028id_/http%3A//www.opentext.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604113944id_/http%3A//opentext.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Information - Open Text Corporation
 
