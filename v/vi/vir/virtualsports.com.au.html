@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virtualsports.com.au privacy policy that was archived on 2004-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607051829id_/http%3A//virtualsports.com.au%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtualsports.com.au privacy policy that was archived on 2004-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207035647id_/http%3A//www.virtualsports.com.au%3Fp%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head><title>VirtualSPORTS - The Leaders in Australasian Fantasy Sports! Play Dream Team Fantasy Sports FREE</title>	
 <meta name="description" content="VirtualSPORTS - Play fantasy sports, the ultimate team management games! Fantasy Football, Fantasy Rugby League, Fantasy Rugby Union, Fantasy Cricket, Fantasy F1, Fantasy V8s and more, FREE!">
@@ -10,11 +10,108 @@
 
 <script language="javascript" type="text/JavaScript" src="/common/layout/mouseover.js"></script> 
 <script language="javascript" type="text/JavaScript" src="/common/layout/date.js"></script> 
-<script language="javascript" src="/common/layout/timeleft.js"></script> 
+
+<script language="JavaScript">
+<!--
+// Type in event and time below.
+var eYear   = 2003;
+var eMonth  = 9;
+var eDay    = 10;
+var eHour   = 20;
+var eMinute = 0;
+var eSecond = 0;
+
+var debugOn = false;
+function debug(str) { if (debugOn==true) debugOn = confirm(str); };
+
+
+function setTarget ( year, month, day, hour, minute, second )
+{
+  this.tYear   = year;   // range 1970..2037
+  this.tMonth  = month;  // range 0..11 (jan=0, dec=11)
+  this.tDay    = day;    // range 0..31
+  this.tHour   = hour;   // range 0..23
+  this.tMinute = minute; // range 0..59
+  this.tSecond = second; // range 0..59
+  this.tDate   = new Date( year, month, day, hour, minute, second );
+  this.t       = Date.parse( this.tDate.toGMTString() );
+  debug ("setTarget: tSecond = " +this.tSecond);
+  return this;
+}; // end setTarget( ... ) -> object
+
+var target = new setTarget ( eYear, eMonth, eDay, eHour, eMinute, eSecond );
+
+function setDelta() {
+//  this.nDate    = new Date((1102391896)*1000);
+  this.nDate    = new Date(2004, 11, 7, 13, 03, 16);
+  this.d        = 0;
+
+  return this;
+}; // end setTarget( ... ) -> object
+
+var delta  = new setDelta ();
+
+var updateHand;
+
+function showTimeLeft() {
+  updateHand = setTimeout("showTimeLeft()",990);
+  //note: ms parameter fudged a bit to compensate for time betveen calls
+  var increment = delta.d;
+  var d = delta.nDate.getTime();
+  d -= 1000 * increment;
+  delta.nDate.setTime(d);
+  
+  delta.dSecond = Math.round( ( target.tDate.getTime() - delta.nDate.getTime() ) / 1000 );
+  
+  debug ("setTarget: dSecond = " +delta.dSecond);
+  if ( delta.dSecond < 0 ) {
+    delta.dSecond = -delta.dSecond;
+    delta.d = 1;
+  } else {
+    delta.d = -1;
+  };
+  delta.dMinute = Math.floor( delta.dSecond/60 );
+  delta.dSecond = delta.dSecond -(delta.dMinute * 60)
+  delta.dHour   = Math.floor( delta.dMinute/60 );
+  delta.dMinute = delta.dMinute -(delta.dHour * 60)
+  delta.dDay    = Math.floor( delta.dHour/24 );
+  delta.dHour   = delta.dHour -(delta.dDay * 24);
+
+  div = document.getElementById("timeleft");
+
+    var sDay = delta.dDay;
+  if(sDay < 10)
+    sDay = "0" + sDay;
+
+  var sHour = delta.dHour;
+  if(sHour < 10)
+    sHour = "0" + sHour;
+
+  var sMinute = delta.dMinute;
+  if(sMinute < 10)
+    sMinute = "0" + sMinute;
+
+  var sSecond = delta.dSecond;
+  if(sSecond < 10)
+    sSecond = "0" + sSecond;
+
+  div.innerHTML = sDay + ":" + sHour + ":" + sMinute + ":" + sSecond;
+
+
+}; //end showTimeLeft()
+
+function startTimeLeft()
+{
+	updateHand = setTimeout("showTimeLeft()", 1000);
+};
+
+-->
+</script>
+
 
 </head>
 
-<body class="bgcolor" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/layout/nav_aussierules_mo.gif','/layout/nav_rugbyleague_mo.gif','/layout/nav_rwc03_mo.gif','/layout/nav_cricket_mo.gif','/layout/nav_rugbyunion_mo.gif','/layout/nav_motorsports_mo.gif'); startTimeLeft();">
+<body class="bgcolor" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/layout/nav_soccer_mo.gif','/layout/nav_aussierules_mo.gif','/layout/nav_rugbyleague_mo.gif','/layout/nav_cricket_mo.gif','/layout/nav_rugbyunion_mo.gif','/layout/nav_basketball_mo.gif','/layout/nav_motorsports_mo.gif');">
 
 
 <!-- BEGIN HEADER -->
@@ -34,7 +131,7 @@
 <tbody><tr><td colspan="3" class="color2_bg"><img src="/common/layout/spacer.gif" width="1" height="1"></td></tr>
 <tr>
 <td width="8" class="color1_bg" background="/layout/leftmenu_bgstrip.gif"><img src="/common/layout/spacer.gif" width="8" height="1"></td>
-<td class="color2_bg" background="/layout/mainmenu_bg.gif"><img src="/common/layout/spacer.gif" width="4" height="13"><a href="http://footy.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('AFL','','layout/nav_aussierules_mo.gif',1)"><img src="/layout/nav_aussierules.gif" alt="AFL Aussie Rules Football" name="AFL" width="88" height="13" border="0"></a><a href="http://league.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('NRL','','layout/nav_rugbyleague_mo.gif',1)"><img src="/layout/nav_rugbyleague.gif" alt="NRL Rugby League" name="NRL" width="92" height="13" border="0"></a><a href="http://super12.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SUPER12','','layout/nav_rugbyunion_mo.gif',1)"><img src="/layout/nav_rugbyunion.gif" alt="Super 12 Rugby Union" name="SUPER12" width="88" height="13" border="0"></a><a href="http://cricket.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Cricket','','layout/nav_cricket_mo.gif',1)"><img src="/layout/nav_cricket.gif" alt="International Series Cricket" name="Cricket" width="61" height="13" border="0"></a><a href="http://motorsports.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Motorsports','','layout/nav_motorsports_mo.gif',1)"><img src="/layout/nav_motorsports.gif" alt="Motor Sports - Formula 1, V8 Supercars, Moto GP" name="Motorsports" width="96" height="13" border="0"></a></td>
+<td class="color2_bg" background="/layout/mainmenu_bg.gif"><img src="/common/layout/spacer.gif" width="4" height="13"><a href="http://footy.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('AFL','','layout/nav_aussierules_mo.gif',1)"><img src="/layout/nav_aussierules.gif" alt="AFL Aussie Rules Football" name="AFL" width="88" height="13" border="0"></a><a href="http://league.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('NRL','','layout/nav_rugbyleague_mo.gif',1)"><img src="/layout/nav_rugbyleague.gif" alt="NRL Rugby League" name="NRL" width="92" height="13" border="0"></a><a href="http://super12.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SUPER12','','layout/nav_rugbyunion_mo.gif',1)"><img src="/layout/nav_rugbyunion.gif" alt="Super 12 Rugby Union" name="SUPER12" width="88" height="13" border="0"></a><a href="http://cricket.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Cricket','','layout/nav_cricket_mo.gif',1)"><img src="/layout/nav_cricket.gif" alt="International Series Cricket" name="Cricket" width="61" height="13" border="0"></a><a href="http://soccer.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Soccer','','layout/nav_soccer_mo.gif',1)"><img src="/layout/nav_soccer.gif" alt="Soccer - English Premier League 2004-05" name="Soccer" width="58" height="13" border="0"></a><a href="http://basketball.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Basketball','','layout/nav_basketball_mo.gif',1)"><img src="/layout/nav_basketball.gif" alt="Basketball - NBL 2004-05" name="Basketball" width="81" height="13" border="0"></a><a href="http://motorsports.virtualsports.com.au" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Motorsports','','layout/nav_motorsports_mo.gif',1)"><img src="/layout/nav_motorsports.gif" alt="Motor Sports - Formula 1, V8 Supercars, Moto GP" name="Motorsports" width="96" height="13" border="0"></a></td>
 <td width="166" class="color2_bg" align="right" rowspan="5"><img src="/layout/mainmenu_right.gif" width="166" height="25"></td>
 </tr>
 <tr><td colspan="2" class="color2_bg"><img src="/common/layout/spacer.gif" width="1" height="1"></td></tr>
@@ -61,10 +158,10 @@
 <td width="5" class="color1_bg" background="/layout/scoreboard_left.gif"><img src="/common/layout/spacer.gif" width="5" height="109"></td>
 <td width="109" class="color2_bg" background="/common/layout/scoreboard_bg.gif" align="center">
 <span class="scoreboard_1">ACTIVE GAMES:</span><br>
-<span class="scoreboard_2"><strong>Aussie Rules, Rugby League, Super 12, Motor Sports (</strong>Formula 1, V8 Supercar, MotoGP<strong>)</strong></span><br>
+<span class="scoreboard_2"><strong>English Premier League, NBL Basketball, Motor Sports (</strong>Formula 1, V8 Supercar, MotoGP<strong>)</strong></span><br>
 <img src="/common/layout/spacer.gif" width="1" height="10"><br>
 <span class="scoreboard_1">COMING SOON:</span><br>
-<span class="scoreboard_2">ICC Champions Cricket</span><br>
+<span class="scoreboard_2">All-new Season 2005 Games!</span><br>
 </td>
 <td width="6" class="color1_bg" background="/layout/scoreboard_right.gif"><img src="/common/layout/spacer.gif" width="6" height="109"></td>
 </tr>
@@ -107,7 +204,16 @@ document.write (Days[gdDay] + ", " + Months[gdMonth] + " " + gdDate +  " " + gdY
 <td class="leftmenu01" onmouseover="this.className='leftmenu03'" onmouseout="this.className='leftmenu01'" onclick="window.location.href='http://cricket.virtualsports.com.au'"><a href="http://cricket.virtualsports.com.au"><span class="leftmenu">Cricket</span></a></td></tr>
 <tr><td colspan="2"><img src="/common/layout/spacer.gif" width="1" height="2"></td></tr>
 <tr><td class="leftmenu02"><img src="/common/layout/spacer.gif" width="7" height="1"></td>
+<td class="leftmenu01" onmouseover="this.className='leftmenu03'" onmouseout="this.className='leftmenu01'" onclick="window.location.href='http://soccer.virtualsports.com.au'"><a href="http://soccer.virtualsports.com.au"><span class="leftmenu">Soccer</span></a></td></tr>
+<tr><td colspan="2"><img src="/common/layout/spacer.gif" width="1" height="2"></td></tr>
+<tr><td class="leftmenu02"><img src="/common/layout/spacer.gif" width="7" height="1"></td>
+<td class="leftmenu01" onmouseover="this.className='leftmenu03'" onmouseout="this.className='leftmenu01'" onclick="window.location.href='http://basketball.virtualsports.com.au'"><a href="http://basketball.virtualsports.com.au"><span class="leftmenu">Basketball</span></a></td></tr>
+<tr><td colspan="2"><img src="/common/layout/spacer.gif" width="1" height="2"></td></tr>
+<tr><td class="leftmenu02"><img src="/common/layout/spacer.gif" width="7" height="1"></td>
 <td class="leftmenu01" onmouseover="this.className='leftmenu03'" onmouseout="this.className='leftmenu01'" onclick="window.location.href='http://motorsports.virtualsports.com.au'"><a href="http://motorsports.virtualsports.com.au"><span class="leftmenu">Motor Sports</span></a></td></tr>
+
+<tr><td colspan="2"><img src="/common/layout/spacer.gif" width="1" height="15"></td></tr>
+
 <tr><td colspan="2"><img src="/common/layout/spacer.gif" width="1" height="15"></td></tr>
 </tbody></table>
 <!--End Left Menu 1-->
