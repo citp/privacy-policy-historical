@@ -1,25 +1,63 @@
-> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2001-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010618165154id_/http%3A//www.intelligencecareers.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217171949id_/http%3A//www.intelligencecareers.com/privacy.cfm) for the most accurate reproduction.*
 
-# Online Career Center
+# IntelligenceCareers.com
 
-**Privacy Policy** (updated 2000/09/26) **[Proposed Revision](https://web.archive.org/web/20010618165154id_/http%3A//www.intelligencecareers.com/privacy_new.cfm)**[](https://web.archive.org/web/20010618165154id_/http%3A//www.intelligencecareers.com/privacy_new.cfm)
+**Privacy Policy**  |  [Policy prior to 2001.07.24](https://web.archive.org/web/20011217171949id_/http%3A//www.intelligencecareers.com/privacy_2001_0723.cfm)
 
-  * Access to the resume database is not knowingly given to any firm or organization that works against the interests of the United States of America. 
-  * Access to the resume database is given only to organizations and individuals registering as potential employers, or as search agents, and that supply all requested identifying information.
-  * Access to the resume database and associated contact information will not be given to non-Intelligence Careers staff or paid subscribers.
-  * Information collected via resume forms, subscription forms, etc., is not shared, sold or rented except using the following method.
-    * Indirect access may be made to publicize products or special events.
-    * Emails are sent only to those agreeing to accept collateral third-party information.
-    * All identifying contact  information will be handled by Intelligence Careers staff.
-  * Intelligence Careers supports the _Opt-In_ method for email information dissemination. 
-  * Requests for lost password updates will be sent only to the email address onfile or to onfile addresses. 
+**Comments can be sent to[customerservice@intelligencecareers.com](mailto:customerservice@intelligencecareers.com)**
 
-Intelligence Careers recognizes that some of the information contained in resumes for information intelligence professionals may be sensitive or contain potentially proprietary information. Intelligence Careers does not take responsibility for what is contained within resumes. Resume content is the liability of the resume writer. Access to resumes and identifying information associated with resumes is granted only at the level agreed to by the resume owner. The default release is all identifying information with anonymity options offered at the time of resume submission. 
+**General Resume Database Access Guidelines**
+
+  * Resume database access is limited to US organizations, companies or US DoD contractors.
+  * Access is not knowingly given to any organization that works against the interests of the United States of America. 
+  * Access is limited to organizations and individuals registering for the purpose of recruiting potential future employees.
+  * Potential employers should have a clear requirement for the skills within our database.
+  * All requested identifying employer information must be provided before access will be considered.
+  * Initial access may be delayed for as much as 72 hours while potential employer information is confirmed. 
+  * Denied access will be without explanation.
+
+
+
+**Media Access Guidelines**
+
+  * Resume database access is not routinely granted to the news media, or associated technical support divisions.
+  * Requests for access must be accompanied by a letterhead explanation of the intended use of resume information, who will have access to the information, and what safeguard will be taken to ensure that this information will be used only for the purpose of seeking potential employees.
+  * At no time will contact information be revealed. All resumes will be "anonymous" when searched.
+  * Contact will occur only by the use of a resume reference number and the forwarding of contact instructions to the resume owner. IntelligenceCareers staff will contact the individual who may choose to reply or not to reply.
+
+
+
+**Collected Information Usage**
+
+  * Other than being provided to potential employers, collected resume information is not shared, sold or rented.
+  * Email addresses within resumes are not used for any purpose other than to contact resume owners regarding the upkeep of their resume or to forward contact information from a potential employer.
+
+
+
+**Liability for Content and Access to Resumes**
+
+Users of our resume search service are national and international. We review all users before allowing access, and access is granted to organizations that have a valid interest in information technology, information sciences, and intelligence derived from information. Users may include government, academia, the defense industry, and information sciences industry members to include media. Access is not knowingly given to any organization that may have intentions other than offering employment, or that may be inappropriate viewers of your career info.
+
+Intelligence Careers recognizes that some of the information contained in resumes for information intelligence professionals may be sensitive or contain potentially proprietary information. Intelligence Careers does not review and does not take responsibility for what is contained within resumes. Resume content is the liability of the resume writer. 
+
+**Total Confidentiality of Your Resume Cannot Be Guaranteed**
+
+The confidentiality of material posted on any Internet _cannot_ be guaranteed. It should be expected that your resume information can be potentially viewed by anyone with access to the  Internet, and a determination to hack a system. To meet the concern for security and privacy there are a number of protective measures used to include allowing the assignment of anonymous identifiers to resumes listings. 
+
+**The Choice to be Anonymous**
+
+"Anonymous" privacy for resume owners is offered. Choosing "Anonymous" when submitting or updating a resume may limit your opportunities. However, this option will also limit knowledge about your persona or participation in previous career activities. 
+
+If you have a strong resume then recruiters will contact you. Selecting "Anonymous" blocks ANY potential employer from viewing contact information data fields. This feature can be turned on or off whenever the user updates their resume.
 
 Resumes can be editted online by resume owners via a login and password protected interface. Post-submission changes can be requested by contacting [webmaster@intelligencecareers.com](mailto:webmaster@intelligencecareers.com) .
 
-The confidentiality of material posted within the Information and Intelligence Skills Database (IISD) on the Internet _cannot_ be guaranteed. It should be expected that any resume information can potentially be viewed by anyone with access to the  Internet. To meet the concern for security and privacy there are a number of protective measures used to include allowing the assignment of anonymous identifiers to resumes listings, etc. Identifying information associated with anonymous resumes is never stored on the Internet. Should you have some specific concern please bring this to the attention of [webmaster@intelligencecareers.com](mailto:webmaster@intelligencecareers.com) .
+**Miscalleneous**
 
-Secure Socket Layer (SSL) encryption is used to protect all financial transactions, and is an option for submitting resume information.
+Intelligence Careers supports the _Opt-In_ method for email information dissemination such as newsletters.
+
+Requests for lost password updates will be sent only to the email address onfile or to onfile addresses. 
+
+Secure Socket Layer (SSL) encryption is used to protect all financial transactions.
 
 IntelligenceCareers.com uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm). 
