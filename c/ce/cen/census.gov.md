@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408160631id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207123701id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
 
 # Census Policy Statements
 
@@ -23,6 +23,8 @@ Thank you for visiting the U.S. Census Bureau's Internet web site and reviewing 
 This information does not identify you personally. We maintain the above information in system logs. We use this information to make our site more useful to visitors by learning the number of visitors to our site, the number of pages served, and the level of demand for specific pages. We do not track or record information about identifiable individuals and their visits. 
 
 We generally do not use cookies, which are files or file entries placed on your computer's hard drive by a web site, that allow monitoring of your use of the site. Some activities, such as using the American FactFinder, do require the use of transient cookies. In American FactFinder, transient cookies are used to keep track of user selections so that new requests for specific data or maps can be created more efficiently. No personally identifiable information is permanently retained on either the user's or the Census Bureau's computers. These transient cookies go away completely when you exit the browser. 
+
+During December, 2002, we will be using a cookie to supress the prompt for our annual Web Site Survey. A '1' is stored as the prompt appears. The cookie will last for 8 days, after which it will expire. If the cookie is present on a user's computer, the user will not be prompted to participate in our survey. The cookie does not track wether or not a user has taken the survey. 
 
 **Information Collected from E-mail:** When you send us personally-identifying information in an e-mail, we use the information you provide only to help us gather the information you might request. In an effort to respond to your request, information you submit may be viewed by various people within the Census Bureau. Public notices issued by the Bureau in which interested persons are invited to comment by e-mail will contain a notice of what we intend to do with the data gathered. Once received, the information in your e-mail is protected in accordance with law (e.g., the Privacy Act and the Freedom of Information Act). 
 
@@ -68,16 +70,6 @@ For the benefit of our visitors, the US Census Bureau Web site contains links to
 
 ### Census Bureau Statement on Statistical Quality 
 
-NOTE TO ALL DATA USERS: 
-
-All survey and census results contain measurement error and may contain sampling error. 
-
-Available information about these potential errors is provided or referenced in data products as they are presented. 
-
-The Census Bureau recommends that data users incorporate this information into their analyses as these errors could impact inferences. 
-
-Researchers analyzing the data to create their own estimates are responsible for their validity and should not cite the Bureau of the Census as the source of the estimates but only of the core data.
-
 ### Confidentiality
 
 Protection of Confidential Information -- Sections 9 and 214 of Title 13 
@@ -103,6 +95,6 @@ Whoever, being or having been an employee or staff member referred to in subchap
 2\. The Census Address List Improvement Act of 1994 (P.L. 103-430) amends section 214 making references to section 16 and "census liaisons." 
 
   
-[Census 2000](https://web.archive.org/main/www/cen2000.html)  |  [Subjects A to Z](https://web.archive.org/main/www/subjects.html)  |  [Search](https://web.archive.org/main/www/srchtool.html)  |  [Product Catalog](https://catalog.mso.census.gov/esales4boc)  |  [Data Tools](https://web.archive.org/main/www/access.html)  |  [FOIA](https://web.archive.org/po/www/foia/foiaweb.htm)  |  [Quality](https://web.archive.org/main/www/policies.html#quality)  |  [Privacy · Policies](https://web.archive.org/main/www/policies.html)  |  [Contact Us](https://web.archive.org/main/www/contacts.html)  |  [Home](https://web.archive.org/index.html)   
+[Census 2000](https://web.archive.org/main/www/cen2000.html)  |  [Subjects A to Z](https://web.archive.org/main/www/subjects.html)  |  [Search](https://web.archive.org/main/www/srchtool.html)  |  [Product Catalog](https://catalog.mso.census.gov/esales4boc)  |  [Data Tools](https://web.archive.org/main/www/access.html)  |  [FOIA](https://web.archive.org/po/www/foia/foiaweb.htm)  |  [Quality](http://www.census.gov/qdocs/www/)  |  [Privacy · Policies](https://web.archive.org/main/www/policies.html)  |  [Contact Us](https://web.archive.org/main/www/contacts.html)  |  [Home](https://web.archive.org/index.html)   
   
 
