@@ -1,89 +1,156 @@
-> *The following text is extracted and transformed from the stereophile.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008052152id_/http%3A//www.stereophile.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stereophile.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607031623id_/http%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Stereophile Magazine / Privacy
+# Primedia Consumer Privacy Policy
 
-Your privacy on the Internet is of the utmost importance to us. We are committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our Web site. In order to enhance your experience at our site, we gather certain personal information about you that helps us customize our content to your tastes and preferences. Because we gather certain types of information about the users of Stereophile Magazine Online, we feel you should fully understand the terms and conditions surrounding the capture and fair use of that information. 
+**PRIMEDIA CONSUMER PRIVACY POLICY**
 
-This privacy statement discloses what information we gather, how we use it and how to correct or change it. 
+Primedia and its family of consumer publications are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users and subscribers so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please note that some of our websites are subject to separate privacy policies. We encourage you to always check the privacy policy on each website you visit to be sure you understand the privacy policy governing that site. Please read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions. 
 
-For a good overview of the issues involved and definitions of some of the language, we suggest you look over these sites:  
-TRUSTe ([www.truste.org](http://www.truste.org/)) and BBBOnline ([www.BBBOnline.org](http://www.bbbonline.org/)) 
+**What Information Do We Collect About You?
+    _Information Users Volunteer_
+    _Subscriptions and Orders_
+    _Information Collected Automatically_
+    _Other Information_
+What Do We Do with Information We Collect?
+How Do We Share Personal Information?
+    _Primedia and Its Agents_
+    _Participating Vendors_
+    _Credit Card Companies_
+    _Advertisers, Sponsors and Promotional and Business Partners_
+    _Important Note_
+How Do We Use Cookies?
+How Do We Use Web Beacons?
+What About Third Party Advertisers?
+How Can You Control Your Personal Information?
+Security of Your Personal Information
+Children's Privacy
+Links
+Changes in Corporate Structure
+Visitors Outside the United States
+Changes to Our Privacy Policy
+Contact Information
+******
 
-**WHAT PERSONAL INFORMATION DO WE COLLECT?**  
-In general, when you visit our Web site and access information, you remain anonymous. Before we ask you for information, we will explain how this information will be used. We will not provide any of your personal information to other companies or individuals without your permission. 
+**WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
 
-We might require registration to access, although typically all that's requested is your e-mail address and some basic information about you, such as job function. 
+You can visit our websites, read articles and other materials, and check on offerings without giving us any personally identifiable information. So that we can provide our users and subscribers with the most efficient and enhanced, personalized service, we request information about you in certain circumstances, and also collect certain information automatically. We also use contact lists and other information we may obtain from third parties. For the convenience of our customers and to better serve you, a customer account includes all the collected personal information we may have, but you can update or correct your contact information or change your preferences about receiving offers and information from us or third parties at any time. 
 
-There are occasions when we will request additional information. We do this to be able to better understand your needs and provide you with services that we believe might be valuable to you. 
+**_Information Users Volunteer_**
 
-Some examples of information our Web site may collect are name, address and phone number. We give you the opportunity to elect not to receive materials from us. If you sign up for a Stereophile Magazine Online electronic newsletter or e-mail list, each message will include instructions on how to "unsubscribe" from that list. 
+We collect personally identifiable information, such as names, mailing addresses, and/or e-mail addresses, when you subscribe to one of our magazines or place an order (see the section below for more information on subscriptions and orders), or through optional, voluntary registration at one of our web sites. Occasionally, we may also request demographic information, such as age, gender, hobbies or interests. Often this additional information is optional or requested anonymously in connection with a survey. Website visitors may register to receive one of our e-mail updates, or to enter online contests and sweepstakes, and we may offer offline contests and sweepstakes as well. Registration may also be required to participate in message boards, bulletin boards, or chat rooms at our websites, and may be requested in connection with certain surveys. 
 
-The more you tell us about yourself, the more value we can offer you. Supplying such information is, of course, entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our site. And we can't send you e-mail alerting you to a new service we're offering or breaking news that may interest you if you don't tell us what you're interested in and give us your e-mail address. 
+Sometimes registration can be accomplished by submitting only a user name and password. Other types of offerings require submission of additional information. The information we collect may include your e-mail address, name, address, phone number, age, gender, hobbies, family information, and similar demographic information or information related to your interests. For example, our automotive publications and websites may ask about the type of car you drive. Registration forms will indicate what information is required and what information (if any) is optional. This information may be collected during registration on a site or in connection with specific activities, for example, signing up for a newsletter, entering a sweepstakes or contest, or answering a survey. 
 
-Of course, even if you want to remain completely anonymous, you're still free to take advantage of the wealth of content available on our site without registration. 
+**_Subscriptions and Orders_**
 
-If you choose to post messages in our forums or other message areas or leave feedback for other users, we will collect such information about you as you choose to disclose. 
+If you wish to subscribe to one of our publications or place an order for products or services online, you must generally establish a credit card account with us or our vendors. In addition to the customary information needed to fill your order (full name, address, ship-to name and address, gift information, etc.), subscriptions and orders necessitate collection of additional personal information, such as your credit card number and credit card expiration date. Most of our websites allow visitors to subscribe to our publications online, and some sites also offer areas where you may purchase items online. We offer online and offline subscribers a "bill me" option if they do not wish to use a credit card, but visitors should check online stores to see if other payment options are permitted for online store purchases apart from credit cards. 
 
-If you send us personal correspondence, such as e-mail or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you. 
+**_Information Collected Automatically_**
 
-**HOW WE WILL USE THE INFORMATION**  
-Stereophile Magazine Online's primary goal in collecting personal information is to provide you, the user, with a customized experience on our Web site. The information we collect may be used to provide such capabilities as personalization services, interactive communications, online shopping, and personalized communication between you and the companies you prefer. We may also use the information to estimate the size of our audience and measure certain traffic patterns, to track visits to and business conducted at our online store, to notify our visitors about updates to our Web site, to contact you for marketing purposes, to contact you on behalf of certain mobile-oriented companies and other third parties and deliver targeted advertisements that might interest you. 
+We also may collect your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our websites. In addition, we use cookies to track usage patterns at our site and to control the display of ads, as well as to offer other functionalities (such as screening for age, helping to track items in your shopping basket at sites which offer online shopping opportunities, and "recognizing" you to speed up your log-in when you visit our sites). See below for more detail on cookies. 
 
-**Statistical Analysis and Banner Advertising**  
-Stereophile Magazine Online may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. Stereophile Magazine Online also uses demographic and preference information to allow advertising banners on our Web site to be targeted, in aggregate, to the readers for whom they are most pertinent. 
+**_Other Information_**
 
-This means that readers see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We will disclose information to third parties only in aggregate form (for example, 45 percent of our users are female) in order to describe our services to prospective partners, advertisers and other third parties, and for other lawful purposes. In our role of delivering targeted advertisements, Stereophile Magazine Online plays the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). Stereophile Magazine Online takes the advertisement and displays it to users meeting that criterion. In this process, the advertiser never has access to individual account information. Only Stereophile Magazine Online has access to individuals' accounts. This kind of advertisement targeting is done with banner ads as well as promotional e-mail. You will receive special offers via e-mail from Stereophile Magazine Online only if you have indicated in your account preferences that you would like to receive them. You can change your account preferences at any time. Personal information about you as an individual subscriber will not be provided to any third party without your consent. Stereophile Magazine Online shares the information it gathers, in aggregate form, with advertisers and other partners. We do not release personal information about you as an individual to third parties. This information willbe sent only to the e-mail address on file for the subscriber ID associated with it. 
+We conduct market research in an effort to continually improve our publications and websites and may purchase lists of potential subscribers or customers from third parties. Those lists may include information on current subscribers or customers. This information is included in our database. That helps us, for example, minimize multiple mailings and e-mailings, and provide information tailored to your interests. 
 
-**E-mail**  
-As part of an effort to provide better and more valuable products, we use the e-mail addresses provided at registration to periodically send promotional e-mail to subscribers about services offered by Stereophile Magazine Online and its advertisers. You can indicate on the subscriber registration form that you do not wish to receive e-mail information from Stereophile Magazine Online or its advertisers. Stereophile Magazine Online may contact you regarding account status, changes to the subscriber agreement and to confirm registration. 
+**WHAT DO WE DO WITH COLLECTED INFORMATION?**
 
-**Polling**  
-Stereophile Magazine Online offers interactive polls so users can easily share their opinions on important issues with our editors and other users. 
+We use information you provide to fulfill your requests and improve our publications, products and services. We may, from time to time, produce reports for advertisers, sponsors and vendors containing anonymous, aggregate information about our users and subscribers, such as demographic, age and online usage information. This allows us to provide content and offers that are most relevant to our subscribers and users and to work more closely with advertisers. We do not include any personally identifiable information of our users in these reports. 
 
-While aggregate counts of click-through behavior are provided to advertisers, an advertiser will never know that a specific user clicked its ad. 
+We use personal information so that we may display or send custom, personalized content to our website visitors and to send newsletters, mail, e-mails, features, promotional material, surveys and other updates, information or offers to our users and subscribers. A user may, at any time, opt out of receiving such information. We also use collected information to evaluate and administer our products and services, fulfill customer requests, like subscription and other orders, respond to any problems that may arise, such as magazine delivery failures, difficulties in navigating our sites or accessing certain features, as well as to gauge user trends to determine what products and services are most popular with users. 
 
-We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve disputes, troubleshoot problems and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases. 
+We allow users of our website to send articles or links by email to other parties who may be interested in them. We do not retain any email addresses (unless you are a member who already has voluntarily provided your email address) of either the sender or recipient of such articles or links after they are sent, and do not share "send a friend" e-mail addresses with third parties. 
 
-**COOKIES**  
-Some advertisers or Web sites that have links on our site may also use their own cookies, which we don't control. We also collect IP addresses for system administration and to report aggregate information to our sponsors and advertisers. 
+Of course, we use personal information to allow you to subscribe online or to make product purchases at certain of our websites. Rest assured that we and our technical and fulfillment agents and consultants follow careful procedures to safeguard credit card data in connection with your transactions. 
 
-**SECURITY**  
-To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to protect the information we collect online. 
+**HOW DO WE SHARE PERSONAL INFORMATION?**
 
-**THIRD-PARTY SITES/CO-BRANDING**  
-We provide links to third-party sites. Since we do not control those Web sites, we encourage you to review the privacy policies posted on the third-party sites. 
+Personal information is available to Primedia and its technical and fulfillment agents and consultants who make this site and our publications, products and services available to you. Anonymous information is available to our advertisers, sponsors and promotional and business partners. We share your personal information with third parties only as described below. 
 
-Stereophile Magazine Online does not sell, rent or trade your personal information with others. However, when one or more of our business partners co-sponsor a service, promotion and/or contest, we may share some or all of the information collected in connection with such service, promotion or contest with the co-sponsor(s). If we intend to share such information, you will be notified prior to the collection of that information. 
+**_Primedia and Its Agents._** Primedia may access both anonymous, aggregate demographic data and any personal information you provide for internal marketing purposes, including sending you notices of subscription renewal deadlines, new publications, services or products we offer likely to be of interest, and filling subscription and other orders. To facilitate subscriptions and orders, Primedia will cache your order information, and create an authorization with a merchant account (i.e., your credit card company). There are many companies who may be required to assist Primedia in making its publications, products and web sites available to you. Web host firms, technical and database consultants, advertising agencies, and fulfillment firms, including firms assisting us in offering contests and promotions, may have access to personally identifiable information in the course of making our products and services available. All companies working for Primedia must comply with our information collection, use and disclosure policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law. 
 
-Stereophile Magazine Online uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We do not share information about individual users with any third party--and then, only with a user's express consent. 
+**_Participating Vendors._** Some of our sites offer opportunities to make purchases online from special participating vendors. On sites with online purchase opportunities for products and merchandise, we will also give participating manufacturers, retailers, wholesalers or distributors the order information and authorization for the merchant bank. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide. Primedia is not responsible for their privacy policies, and urges you to inquire about their information practices. In addition, all vendors will receive the same anonymous, aggregate data that our advertisers do. 
 
-When you are at Stereophile Magazine Online and are asked for personal information, you are sharing that information with Stereophile Magazine Online alone, unless it is specifically stated otherwise. For example, some Stereophile Magazine Online services, like classified ads, are offered in conjunction with a partner company. In order to provide this co-branded service to you, it is necessary for us to share your personal information with our partner company. If data is being collected and/or maintained by any company other than Stereophile Magazine Online, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
+**_Credit Card Companies._** As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. Primedia will not otherwise provide any personal data to your credit card company. 
 
-Stereophile Magazine Online may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Stereophile Magazine Online's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) Stereophile Magazine Online's rights or property, other Stereophile Magazine Online users or anyone else who could be harmed by such activities. Stereophile Magazine Online may disclose or access account information when we believe in good faith that the law requires it, and for administrative and other purposes that we deem necessary to maintain, service and improve our products and services. 
+**_Advertisers, Sponsors and Promotional and Business Partners._** We share anonymous, aggregate demographic information (such as gender, age, income, hobbies, interests, etc.), and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and with participating vendors at sites offering online sales opportunities. No personally identifiable information is disclosed to any of these third parties in providing these reports. Credit card numbers, bank account numbers, and passwords are not shared with advertisers, sponsors or promotional partners, and are only shared with specific vendors with whom you place an online order. 
 
-Stereophile Magazine Online offers third-party services from our site (e.g., calendars, contact management, authentication). If you choose to use these optional services, we will, by necessity, provide some of your personally identifiable information to the co-brand service provider offering such services. Before we provide your information to the co-brand service provider, we will let you see what data is about to be provided. You can, of course, avoid having us make such disclosures by choosing not to use these services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services. 
+Offline and online contact information is handled differently. As is customary in the publications business, offline contact information is shared with third parties who may send you offers or information about their products or services. You must opt-out if you do not wish to receive information from us or third parties by mail. 
 
-**CHILDREN**  
-The Web site covered by this policy does not knowingly collect personally identifiable information from children under age 13. 
+Your e-mail address is not shared with third parties unless you opt-in to receiving information from third parties. In other words, we may extend e-mail offers to users or subscribers on behalf of our business partners about a particular product or service that may be of interest to you, but only if you have indicated that you would like to receive those offers. If you wish to receive such offers, we do not share or disclose your name or e-mail address to those business partners, but will send you the information or offers on their behalf. As result, although Primedia may receive a fee from our business partners for this service, Primedia sends all the offers so that your personal information is never shared with any outside third party. Of course, you may opt out of receiving those offers at any time. 
 
-**OPTING OUT AND UPDATING YOUR PERSONAL INFORMATION**  
-Stereophile Magazine Online provides Web site visitors the opportunity to opt out of receiving communications from us at the point where we request information about you. During registration, you can choose not to receive our electronic newsletters or e-mail. 
+Sometimes we will give you the opportunity to opt in to receive e-mail offers from third parties not affiliated with Primedia. If you decide to accept these offers, we will provide, with your consent, your contact information to the third party. At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. Primedia is not responsible for the privacy policies and procedures of any third party. 
 
-Stereophile Magazine Online provides you with an opportunity to correct or change the information collected during registration for any site (see above). Users may change this information at any time and as often as necessary. 
+You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through Primedia's websites or any other service available online), that information can be collected and used by others. For example, if you use chat, forums, bulletin boards or message boards, or if you post personal information online (such as your e-mail address), you may receive unsolicited messages from others. Primedia has no control over this use of your personal information. 
 
-Upon request, Stereophile Magazine Online will a) remove your name and your personal information from our database, thereby canceling your registration; b) correct personal information that you state is erroneous; or c) permit you to opt out of further e-mail contact (excepting notification of major changes to the service) while still allowing access to the site. 
+**_Important Note_**
 
-Stereophile Magazine Online may, from time to time, send you e-mail regarding our present products and services or possible future activities. In addition, if you indicated upon registration that you are interested in receiving offers or information from Stereophile Magazine Online and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only Stereophile Magazine Online (or authorized agents working on behalf of Stereophile Magazine Online and under confidentiality agreements) will send you these direct mailings, and only if you indicate that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time, you can easily edit your Stereophile Magazine Online Account Information to no longer receive such offers and mailings. You will need your Stereophile Magazine Online ID and Password in order to access your Stereophile Magazine Online Account Information. 
+We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation. 
 
-Your Stereophile Magazine Online account can be deleted or deactivated, but doing so will result in not being able to access any "members-only" area of the Stereophile Magazine Online network, including your Stereophile Magazine Online Mail account (if you have one). If you saved the confirmation e-mail you received when you first created your Stereophile Magazine Online account, you can use the URL provided in that message to delete your account at any time. 
+**HOW DO WE USE COOKIES?**
 
-**OUR DISCLOSURE OF YOUR INFORMATION**  
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements or other activity that is illegal or may expose us to legal liability. Further, we can (and you authorize us to) disclose your User ID, name, street address, city, state, ZIP code, country, phone number, e-mail and company to such parties as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity. Therefore, although we use industry-standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will remain private. 
+Your Web browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you. Our third party advertisers may also use cookies. 
 
-**CHANGES TO OUR PRIVACY POLICY**  
-A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. 
+**HOW DO WE USE WEB BEACONS?**
 
-From time to time, we may change our Privacy Policy. We will post those changes on this page so that our customers will always be aware of what information we collect, how we use it and under what circumstances we share the information with others. 
+Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include Web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns. 
 
-**YOUR CONSENT**  
-By using our Web site, you consent to the collection and use of your personal information by Stereophile Magazine Online as outlined in this Privacy Policy. Please check this page periodically for changes. 
+**WHAT ABOUT THIRD PARTY ADVERTISERS?**
+
+Some of the banner ads displayed in our websites are provided by outside companies. These ads contain cookies and may also contain Web beacons. Unlike cookies and Web beacons used by Primedia in content it controls at its Web sites, cookies or Web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use reputable third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. DoubleClick is our third party ad server. If you would like to know more about their information gathering practices and "opt-out" procedures, please see <http://www.doubleclick.com/us/corporate/privacy>. 
+
+**HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?**
+
+We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information or change your preferences. 
+
+  1. If you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information. 
+  2. You may unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message. 
+  3. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: Primedia, Inc., c/o Privacy Coordinator, 745 Fifth Avenue, New York, NY 10151. In those instances, we will retain your information in a "do not promote" file in our database. 
+  4. You may also contact us at [privacypolicy@primedia.com](mailto:privacypolicy@primedia.com). 
+
+
+
+We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive promotional information from us by mail for up to 60 days due to printing and mailing schedules, and up to 10 days for e-mail. 
+
+**SECURITY OF YOUR PERSONAL INFORMATION**
+
+We use Secure Sockets Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices internally and with our service providers suitable to the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this policy. Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered. 
+
+Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions cannot be assured. Primedia employees are made aware of its privacy practices through periodic communications and training. We limit access to personal data only to those Primedia employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. To maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis. Remember, however, that any personal information you post in chat rooms or message boards is available to anyone. 
+
+**CHILDREN'S PRIVACY**
+
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. Primedia is strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13 and have adopted techniques to age-screen users on our teen-oriented sites to ensure compliance with this Privacy Policy and the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations establish United States federal law that protects the privacy of children using the Internet. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children's use of the Internet. 
+
+**LINKS**
+
+Primedia may offer links to or from Web sites it controls to other sites within the Primedia family as well as to sites operated by third parties. We offer links to third party sites so that you can conveniently visit our vendors and advertisers or locate other content likely to be of interest. We are not responsible for the content, practices or policies of sites operated by third parties and urge you to inquire about them before providing any personally-identifiable information. 
+
+**CHANGES IN CORPORATE STRUCTURE**
+
+In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets. 
+
+**VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES**
+
+Our websites and the servers that make these sites available worldwide are located in the United States. All matters relating to these sites are governed by the laws of the State of New York in the United States. Any information you provide in subscribing to one of our publications or registering or ordering at one of our web sites will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer, processing and use. 
+
+**CHANGES TO OUR PRIVACY POLICY**
+
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make material changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so, and we will e-mail registered website visitors information on material changes to this policy. 
+
+**CONTACT INFORMATION**
+
+If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at privacypolicy@primedia.com. Please include the URL of the Web site and/or name of the publication involved in your request. 
+
+Or you can contact us by mail at: 
+
+_Privacy Coordinator  
+Primedia, Inc.  
+745 5th Ave.  
+New York, NY 10151
+
+Or you can fax us at (212) 745-0131, Att: Privacy Coordinator 
+
+_
+
+Updated July 30, 2002 
