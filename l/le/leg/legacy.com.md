@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2001-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011220212949id_/http%3A//www.legacy.com/LegacySubPage1.asp%3FPage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacy.com privacy policy that was archived on 2002-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020622050335id_/http%3A//www.legacy.com/LegacySubPage1.asp%3FPage%3DPrivacy) for the most accurate reproduction.*
 
 # Legacy.com: LegacySubPage1.asp
 
@@ -28,17 +28,15 @@ Legacy.com uses temporary cookies to track visitor information when a visitor pl
     
    | Correcting or updating information |     
     
-   | You may modify and correct information previously provided to Legacy.com for the purposes of _Notices_ and _Life Stories_ , if necessary. Additionally, although _Guest Book_ entries are screened for appropriateness, they are not altered except by request. Legacy.com, Inc. offers users the following options for updating information: 
+   |  You may modify and correct information previously provided to Legacy.com for the purposes of _Notices_ and _Life Stories_ , if necessary. Additionally, although _Guest Book_ entries are screened for appropriateness, they are not altered except by request. Legacy.com, Inc. offers users the following options for updating information: 
 
-1\. Send e-mail to [info@legacy.com](https://web.archive.org/web/20011220212949id_/http%3A//www.legacy.com/LegacySubPage2.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Update+Guest+Book+Information)   
+1\. Send e-mail to [info@legacy.com](https://web.archive.org/web/20020622050335id_/http%3A//www.legacy.com/LegacySubPage2.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Update+Guest+Book+Information)   
 2\. Send postal mail to the following address:   
     Legacy.com   
     820 Davis St.   
-    Suite 500   
+    Suite 504   
     Evanston, IL 60201   
-    Attention: Life Stories Staff   
-3\. Call (888) 397-9494   
-4\. Fax (888) 397-3366
+    Attention: Life Stories Staff 
 
 |     
     
@@ -58,4 +56,4 @@ Legacy.com uses temporary cookies to track visitor information when a visitor pl
     
    | Additional information |     
     
-   | Questions regarding the Legacy.com Privacy Policy should be directed to [info@legacy.com](https://web.archive.org/web/20011220212949id_/http%3A//www.legacy.com/LegacySubPage2.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Privacy+Policy).  |   
+   | Questions regarding the Legacy.com Privacy Policy should be directed to [info@legacy.com](https://web.archive.org/web/20020622050335id_/http%3A//www.legacy.com/LegacySubPage2.asp?Page=MailLegacy&MailTo=info@legacy.com&Subject=Privacy+Policy).  |   
