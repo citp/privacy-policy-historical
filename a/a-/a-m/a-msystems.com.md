@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-msystems.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604071958id_/http%3A//www.a-msystems.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-msystems.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101035619id_/http%3A//www.a-msystems.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,11 +32,11 @@ A cookie is a small text file stored on your hard drive containing an temporary 
 
 #### Log Files
 
-We use log files containing IP addresses to analyze trends, administer the site, and gather broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information. 
+We use log files containing computer IP addresses to analyze trends, administer the website, and gather broad demographic information for aggregate use. For your protection, we also record you computer's IP address when you log in, change personal information, or make a purchase, in order to guard your security by facilitating any investigation of  unusual user activity. 
 
 #### Sharing
 
-We do not share customer information with third parties.
+We do not share customer information with third parties for marketing purposes.
 
 We use outside shipping companies to ship orders, and a credit card processing company to bill credit card transactions for goods and services. 
 
@@ -62,4 +62,4 @@ When your personally identifiable information changes, we encourage you to log i
 
 #### Notification of Changes
 
-If we decide to change our privacy policy, we will post an updated privacy statement here so our users are always aware of our current policy. We will use information in accordance with the privacy policy in effect when the information was collected. If at any point we desire to use personally identifiable information in a manner different from that stated at the time it was collected, we will only do so if we first notify you and obtain your permission.
+If we decide to change our privacy policy, we will post an updated privacy statement here so you are always aware of our current policy. We will use information in accordance with the privacy policy in effect when the information was collected. If at any point we desire to use personally identifiable information in a manner different from that stated in the privacy policy at the time the information was collected, we will only do so if we first obtain your permission.
