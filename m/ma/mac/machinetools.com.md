@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602144733id_/http%3A//www.machinetools.com/mt/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803172215id_/http%3A//www.machinetools.com/mt/privacy.tmpl) for the most accurate reproduction.*
 
 # MachineTools.com - machine tools, new and used machinery, lathes, CNC machines, and metalworking at MachineTools.com
 
