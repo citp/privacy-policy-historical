@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberty-bank.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608013452id_/http%3A//www.liberty-bank.com/AboutUs/Privacy/Default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty-bank.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114135id_/http%3A//www.liberty-bank.com/AboutUs/Privacy/Default.asp) for the most accurate reproduction.*
 
 # Liberty Bank Privacy Notice
 
@@ -14,11 +14,11 @@ Liberty Bank has been privileged to serve our customers for 176 years because we
 
 **The Liberty Bank Privacy Policy**
 
-The privacy policies described on this page apply to both Liberty Bank and its affiliates, Liberty Bank Mortgage Corporation and Community Realty Investors, Inc. Throughout this policy, the phrase “personal information” refers to nonpublic personal information that identifies you. 
+The privacy policies described on this page apply to both Liberty Bank and its affiliates, Liberty Bank Mortgage Corporation and Community Realty Investors, Inc. Throughout this policy, the phrase "personal information" refers to nonpublic personal information that identifies you. 
 
 **We do not sell your personal information to anyone.**
 
- **What do we mean when we say “personal information”?**
+ **What do we mean when we say "personal information"?**
 
 In the process of providing you with financial products and services, we collect certain personal information about you, including: 
 
@@ -66,7 +66,7 @@ In general, be careful of any Internet site with which you are not familiar. Avo
 
 Liberty Bank offers several ways of contacting the bank using electronic mail. 
 
-**Here are some “do’s” and “don’ts” for contacting Liberty Bank electronically:**
+**Here are some "do’s" and "don’ts" for contacting Liberty Bank electronically:**
 
 **Links to Non-Liberty Bank Web Sites**
 
