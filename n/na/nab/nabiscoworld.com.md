@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603205924id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DNabiscoWorld) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205215332id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DNabiscoWorld) for the most accurate reproduction.*
 
 # Privacy
 
 |  |  |  |   |  |    
 ---|---|---|---  
-   
+**Effective Date: 01/01/2000**  
   
-**Nabisco Online Privacy Policy**  
-This Policy relates only to our online information collection and use practices. At Nabisco we recognize that many consumers who visit our web sites are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy, especially for children who visit our sites, we have developed and implemented this Privacy Policy for our domestic (i.e., U.S.) company. This Policy relates only to our online information collection and use practices. As this policy may change from time to time, we encourage you to periodically check it. 
+**Nabisco Online Privacy Notice**  
+This Notice relates only to our online information collection and use practices. At Nabisco we recognize that many consumers who visit our web sites are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy, especially for children who visit our sites, we have developed and implemented this Privacy Notice for our domestic (i.e., U.S.) company. This Notice relates only to our online information collection and use practices. As this notice may change from time to time, we encourage you to periodically check it. 
 
 In short, we do the following: 
 
@@ -19,12 +19,12 @@ In short, we do the following:
   * We employ **appropriate security measures** to protect the loss, misuse and alteration of any information you provide us Tell me more; and
   * We provide you with **choice** and **control** over the collection and use of any personally identifiable information that you provide us on-line, and a means for **updating** , **correcting** or **removing** this information Tell me more;
 
-What follows is a more detailed explanation of our policy in each of these areas. ******Information We Collect and How We Use It**  
+What follows is a more detailed explanation of our notice in each of these areas. ******Information We Collect and How We Use It**  
 ---  
 **_General_**  
 We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our sites, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our sites. We collect personally identifiable information primarily to e-mail updates and news, for entry into promotions and to notify subsequent winners, to send out brochures, etc. via regular mail to subscribers, and to respond to your questions or suggestions. We do not sell any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods Global, Inc.. We do not transfer or disclose any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods Global, Inc., without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Nabisco in maintaining and managing the activities on its web sites, including, for example, fulfillment of prizes awarded in connection with an online game. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users (for example, the % of male and female visitors to our sites) with advertisers, business partners, sponsors, and other third parties in an effort to customize or enhance the content and advertising on our sites for our users. 
 
-We do reserve the right, in connection with the potential sale or transfer of the interests of Nabisco and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Nabisco’s successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy policy.
+We do reserve the right, in connection with the potential sale or transfer of the interests of Nabisco and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Nabisco’s successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy notice.
 
 **_Polls& Surveys_**  
 We periodically conduct polls and surveys on our sites. The information we collect from these polls and surveys is only for Nabisco’s use. If sample answers to polls or surveys are posted on one of our web sites, no identifiable information is included.
@@ -60,13 +60,16 @@ Our sites provide you the opportunity to opt-in to receive communications from u
 You can always ask to review any personal information that we may have collected from you at one of our web sites, have us update, correct or delete this information (if we still have the information in our databases), and/or instruct us not to use this information in the future. If you wish to exercise this right, simply [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=NabiscoWorld).
 
 **_Links To Other Sites_**  
-We do our best to make sure that every link on our web sites sends you and/or your child to a safe place on the Internet. However, web sites and addresses change quickly, and we can't always guarantee the content of every site for which we provide a link.  
+We do our best to make sure that every link on our web sites sends you and/or your child to a safe place on the Internet. However, web sites and addresses change quickly, and we can't always guarantee the content of every site for which we provide a link.
+
+**_Updates To This Privacy Notice_**  
+We may change or update portions of this Privacy Notice at any time and without prior notice to you. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.  
   
 **How To Contact Us**  
   
-If you have any questions or concerns about our Privacy Policy or your dealings with this web site, you can contact us at: 
+If you have any questions or concerns about our Privacy Notice or your dealings with this web site, you can contact us at: 
 
-Kraft Foods Global,Inc.  
+Kraft Foods Global, Inc.  
 1 Kraft Court  
 Glenview, IL 60025  
 Attention: Legal Department
@@ -77,4 +80,4 @@ or [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer
 
 **ENJOY THE Nabisco WEB SITES!**
 
-Last Revised: April 9, 2004 
+Last Revised: July 9, 2004 
