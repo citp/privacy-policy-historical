@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195612id_/http%3A//web.insidevc.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205004223id_/http%3A//web.venturacountystar.com/info/privacy.shtml) for the most accurate reproduction.*
 
-# InsideVC.com
+# www.VenturaCountyStar.com
 
-**P R I V A C Y    P O L I C Y**
+**Privacy policy**
 
-InsideVC.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At InsideVC.com.com and InsideVCWheels.com we intend to give you as much control as possible over your personal information.
+VenturaCountyStar.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At InsideVC.com.com and InsideVCWheels.com we intend to give you as much control as possible over your personal information.
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
 
@@ -14,7 +14,7 @@ I. Information Which We Collect
 
 We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.
 
-Like many other commercial sites, our site(s) may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. Our web site(s) may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.
+Like many other commercial sites, our site(s) may use a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. Our web site(s) may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.
 
 We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site.
 
@@ -34,9 +34,9 @@ IV. Accuracy of User Information
 
 In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed to feedback@InsideVC.com.com, or you can reach us by telephone at (805) 650-2900. You can also write us at:
 
-InsideVC.com  
+VenturaCountyStar.com  
 c/o Ventura County Star  
-5250 Ralston St.  
+P.O. Box 6711  
 Ventura, Calif. 93003
 
 These privacy policies are effective as of April 8, 1999\. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
@@ -51,5 +51,5 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 VII. Use of Materials
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20030603195612id_/http%3A//web.insidevc.com/info/user.shtml).  
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20031205004223id_/http%3A//web.venturacountystar.com/info/user.shtml).  
 
