@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603164240id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
-[](https://web.archive.org/web/20030603164240id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20030603164240id_/http%3A//www.w3schools.com/about/default.asp)
+[](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/default.asp)
 
 * * *
 
@@ -54,21 +54,38 @@ W3Schools contains links to other sites. We are not responsible for the privacy 
 
 ## Contacting the Web Site
 
-For any questions about this privacy statement, please contact hege@refsnesdata.no 
+For any questions about this privacy statement, please contact:
 
 * * *
 
-[](https://web.archive.org/web/20030603164240id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20030603164240id_/http%3A//www.w3schools.com/about/default.asp)
+[](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/about_copyright.asp) [](https://web.archive.org/web/20031203005521id_/http%3A//www.w3schools.com/about/default.asp)   
+
 
 * * *
 
-[ ](https://web.archive.org/spotlights_dir.asp?site=lunarpages)
+## Product Spotlight
 
-Lunarpages offers affordable, reliable and scalable hosting plans with a 30-day, money-back guarantee!
+* * *
 
-Lunarpages offers industry leading infrastructure built with the best equipment, including: Dell, Sun and Cisco Network Devices. Their datacenter, located in Los Angeles, California, provides the highest level of security, safety, redundancy, reliability, scalability and technology. They are multi backboned with Mzima Networks, NTT/Verio, Global Crossing, Genuity and Cable & Wireless.
+## Want To Be A Web Master?
 
-[Visit Lunarpages](https://web.archive.org/spotlights_dir.asp?site=lunarpages)
+If you want to be a Web Master, you will have to host your web site with an ISP (Internet Service Provider).
+
+Maximum ASP is a service provider with a unique web hosting platform designed specifically for serious Microsoft developers. They offer high performance and stability at a good price with a 30-day, money-back guarantee.
+
+They have access to all of Microsoft's web technologies, and their support staff is 100% Microsoft-certified.
+
+[Visit MaximumASP](https://web.archive.org/spotlights_dir.asp?site=maximumasp)
+
+* * *
+
+## The Web Design Business Kit
+
+Brendon Sinclair has a unique philosophy that everyone from Freelancers to the huge International Web Design Shops can learn from:
+
+* * *
+
+## Hosting Spotlight
 
 * * *
 
@@ -84,7 +101,7 @@ Lunarpages offers industry leading infrastructure built with the best equipment,
 
 * * *
 
-Jump to: **Top of Page** or [**HOME**](https://web.archive.org/) or [ **Printer friendly page**](https://web.archive.org/about/about_privacy.asp?output=print)
+Jump to: **Top of Page** or [**HOME**](https://web.archive.org/default.asp) or [ **Printer friendly page**](https://web.archive.org/about/about_privacy.asp?output=print)
 
 * * *
 
@@ -96,12 +113,12 @@ Jump to: **Top of Page** or [**HOME**](https://web.archive.org/) or [ **Printer 
 
 Does the world know about us? Check out these places:
 
-[Google](http://www.google.com/search?q=W3Schools)  [Yahoo](http://search.yahoo.com/search?p=w3schools)  [Alta Vista](http://www.altavista.com/web/results?q=w3schools)  [MSN](http://search.msn.com/results.asp?q=W3Schools)  [Lycos](http://search.lycos.com/main/?query=W3Schools)  [Excite](http://search.excite.com/search.gw?search=W3Schools)  [Ask Jeeves](http://www.ask.com/main/askJeeves.asp?ask=W3Schools)  [HotBot](http://www.hotbot.com/default.asp?query=w3schools)
+[Google](http://www.google.com/search?q=W3Schools&safe=active)  [Yahoo](http://search.yahoo.com/search?p=w3schools&vm=r)  [Alta Vista](http://www.altavista.com/web/results?q=w3schools)  [MSN](http://search.msn.com/results.asp?q=W3Schools)  [Lycos](http://search.lycos.com/main/?query=W3Schools)  [Excite](http://search.excite.com/search.gw?search=W3Schools)  [Ask Jeeves](http://www.ask.com/main/askJeeves.asp?ask=W3Schools)  [HotBot](http://www.hotbot.com/default.asp?query=w3schools)
 
 * * *
 
-W3Schools is for training only. We do not warrant its correctness or its fitness for use. The risk of using it remains entirely with the user. While using this site, you agree to have read and accepted our [terms of use](https://web.archive.org/about/about_copyright.asp) and [privacy policy](https://web.archive.org/about/about_privacy.asp).
+W3Schools is for training only. We do not warrant the correctness of the content. The risk of using it remains entirely with the user. While using this site, you agree to have read and accepted our [terms of use](https://web.archive.org/about/about_copyright.asp) and [privacy policy](https://web.archive.org/about/about_privacy.asp).
 
-[Copyright 1999-2003](https://web.archive.org/about/about_copyright.asp) by Refsnes Data. All Rights Reserved
+[Copyright 1999-2003](https://web.archive.org/about/about_copyright.asp) by Refsnes Data. All Rights Reserved.
 
 * * *
