@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tucows.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204093402id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucows.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601082313id_/http%3A//www.tucows.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,7 +25,7 @@ This information is provided on the contractual understanding with each software
 
 Tucows.com and Tucows Interactive Limited does not provide this information to any other third parties under any circumstances. 
 
-Questions regarding this statement should be directed to [privacy@Tucows.com](mailto:privacy@tucows.com)
+Questions regarding this statement should be directed [here](http://www.tucows.com/contactus.html). 
 
 ## Electronic Newsletters
 
@@ -71,7 +71,7 @@ Tucows uses the above-described information to tailor our content to suit your n
 
 Tucows.com gives users options wherever necessary and practical, such choices include: 
 
-  * 7 Opting not to receive our electronic newsletters when registering for a site 
+  * Opting not to receive our electronic newsletters when registering for a site 
   * Opting not to provide certain personal information when registering for a site or service
   * Opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users 
 
