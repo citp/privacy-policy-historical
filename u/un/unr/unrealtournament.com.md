@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209055552id_/http%3A//us.infogrames.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealtournament.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309005207id_/http%3A//us.infogrames.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Atari - US - Privacy
 
@@ -192,11 +192,11 @@ Attn: Customer Database
 
 For complaints, you can also contact ESRB Privacy Online directly at www.esrb.org or by regular mail at:
 
-ESRB Privacy Online  
-845 Third Avenue  
-New York, NY 10022
+Entertainment Software Rating Board  
+317 Madison Avenue, 22nd Floor  
+New York, NY 10017
 
-This Privacy Policy was last updated on July 1, 2004.  
+This Privacy Policy was last updated on January 31, 2005.  
 
 
 | 
