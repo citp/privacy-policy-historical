@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodraw.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204014140id_/http%3A//www.prodraw.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodraw.net privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406061436id_/http%3A//www.prodraw.net/privacy.htm) for the most accurate reproduction.*
 
 # ProDraw Graphics
 
@@ -12,9 +12,6 @@ Our Site uses cookies to keep track of your shopping cart.
 
 ******Advertisers**  
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
-
-**Flycast banner network Privacy Policy**  
-ProDraw Graphics works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy/>. 
 
 ******Registration Forms** **/ Mailling List**  
 Our site's registration form requires users to give us contact information (like their name, email, and postal address), and unique identifiers (like their social security number).
@@ -36,7 +33,7 @@ Unique identifiers (such as social security numbers) are collected from Web site
 This site contains links to other sites. **ProDraw Graphics** is not responsible for the privacy practices or the content of such Web sites.
 
 ******Special Relationships**  
-All graphics on our site may not be redistributed or resold in any form, in any quantity, from any web site(especially on those graphics archive site), CD-ROM, or media of any kind. If you find any pirate use, please [contact us](https://web.archive.org/web/20041204014140id_/http%3A//www.prodraw.net/contact.htm). Thanks.
+All graphics on our site may not be redistributed or resold in any form, in any quantity, from any web site(especially on those graphics archive site), CD-ROM, or media of any kind. If you find any pirate use, please [contact us](https://web.archive.org/web/20050406061436id_/http%3A//www.prodraw.net/contact.htm). Thanks.
 
 ******Public Forums**  
 This site makes public gallery, web site launch pad and guest book available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
