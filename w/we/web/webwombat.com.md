@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwombat.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815212746id_/http%3A//www.webwombat.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwombat.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406183543id_/http%3A//www.webwombat.com/privacy.htm) for the most accurate reproduction.*
 
 # Web Wombat World Search Engine : Search Solutions
 
