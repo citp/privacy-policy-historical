@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccergaming.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602025315id_/http%3A//www.soccergaming.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccergaming.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215054256id_/http%3A//www.soccergaming.com/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Soccer Gaming - Privacy Statement
 
@@ -20,9 +20,7 @@ We run contests on our network in which we ask visitors for contact information 
 
 We use an outside ad company to display ads on our network. These ads may contain cookies. While we use cookies in other parts of our Web network, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies. 
 
-This site, Soccer Gaming, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
-
-To enhance your Web experience, this site uses anonymous identifiers ("cookies") to collect anonymous preference and interest visitor information. This information is provided to the Ad-Server and is used by the Ad-Server to create anonymous interest profiles. This information does not include and is never merged with personally identifiable information (such as name, address or email address) or any information that is considered sensitive or controversial or that would compromise your privacy. The Ad-Server(s') profiles may be accessed by the website and marketers to tailor site content, promotions and advertising, and to perform marketing research. Consumers can opt-out from these profiles at any time. For more information on the privacy policies of the Ad-Servers that serve advertisements on this site, including your option not to have this information used for this purpose, refer to: [http://us.www.sabela.com/information/privacy.html"](http://us.www.sabela.com/information/privacy.html) and <http://www.bmcmedia.com/privacy>. 
+Our web site uses ad servers (such as DoubleClick) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy). 
 
 ### Public Forums
 
