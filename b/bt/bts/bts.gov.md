@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603163232id_/http%3A//www.bts.gov/footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020640id_/http%3A//www.bts.gov/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Bureau of Transportation Statistics (BTS) - Privacy
 
-We collect no personal information about you when you visit the Bureau of Transportation Statistics (BTS) website unless you choose to provide this information to us. However, BTS collects and stores certain information automatically. 
+## Privacy
 
-Here is how BTS handles information about your visit to our website.
+We collect no personal information about you when you visit the Bureau of Transportation Statistics (BTS) website unless you choose to provide this information to us. However, BTS collects and stores certain information automatically. Here is how BTS handles information about your visit to our website.
 
 #### What We Collect and Store Automatically
 
@@ -20,16 +20,10 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 BTS uses the information we collect to count the number and type of visitors to the different pages on our site and to help us make our site more useful to visitors like you. 
 
-#### If You Send Us E-mail
+#### If You Send Us E-mail or Order A Product
 
-You may choose to provide BTS with personal information, as in e-mail with a comment or question. BTS uses the information to improve our service to you or to respond to your request. Sometimes BTS forwards your e-mail to other government employees who may be better able to help you. Except for authorized law enforcement investigations, BTS does not share our e-mail with any other outside organizations. 
+You may choose to provide BTS with personal information such as your mailing address, phone number and/or e-mail address. BTS uses the information to provide a service to you or to respond to your request. Sometimes BTS forwards your e-mail to other government employees who may be better able to help you or use your personal information for internal purposes. Except for authorized law enforcement investigations, BTS does not share your personal information with any other outside organizations. 
 
 #### Links to Other Sites
 
 The BTS website has many links to our partners, especially other federal agencies. In a few cases BTS links to private organizations. When you link to another site, you are no longer on the BTS website and are subject to the privacy policy of the new site.
-
-Bureau of Transportation Statistics  
-400 7th Street, SW • Room 3103 • Washington, DC 20590  
-L'Enfant Plaza Metrorail Station (7th and D Streets exit)   
-800-853-1351 • [answers@bts.gov](mailto:answers@bts.gov?subject=Feedback_on_https://web.archive.org/web/20030603163232id_/http%3A//www.bts.gov/footer/Privacy.htm)   
-[Directions](https://web.archive.org/about/directions.html)
