@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hewitt.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214105256id_/http%3A//was4.hewitt.com/hewitt/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hewitt.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311034307id_/http%3A//was4.hewitt.com/hewitt/privacy.htm) for the most accurate reproduction.*
 
 # Hewitt Associates - Privacy Statement
 
 Hewitt Associates Data Privacy Statement 
+
+**Updated: July 30, 2004**
 
 This Data Privacy Statement describes how Hewitt collects, uses, and protects personally identifiable information. At Hewitt, protecting personally identifiable information about you is important to us. We strive to protect the personal information under our control and take certain precautions to help maintain the security and integrity of that data. 
 
