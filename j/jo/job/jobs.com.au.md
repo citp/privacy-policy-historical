@@ -1,43 +1,76 @@
-> *The following text is extracted and transformed from the jobs.com.au privacy policy that was archived on 2002-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020805004856id_/http%3A//www.jobs.com.au/about/dsp_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603222021id_/http%3A//careerone.com.au/privacy/0%2C8521%2C%2C00.html) for the most accurate reproduction.*
 
-# : : E M P L O Y M E N T . C O M . A U : :
+# CareerOne - Privacy Policy
 
-### **employment.com.au** Privacy Commitment - Overview 
+News Interactive ( ** _News_** ) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word _customers_ includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
-**employment.com.au** is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us via this system remains private, and is used only for the purposes as set forth herein. The following reflects our commitment to you. 
+We are bound by the National Privacy Principles in the _Privacy Act 1988_ (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act. 
 
-### Information About All Visitors 
+Personal Information 
 
-In general, we gather information about all of our users collectively, such as what areas users visit most frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall experience for you. We may share this information with our partners, but only in the aggregate, so that they too may understand how our site visitors use our site, so they may create a better overall experience for you, as well.
+We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information. 
 
-### Information About You Specifically
+We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents. 
 
-**Registered User**  
-As a registered user, you supply personal information, such as name, address, e-mail address, resume details etc. and is accessible to you through your account password. This information is accessible only by you and employment.com.au for storage and aggregate statistic purposes.
+Use of Information 
 
-A history, accessible only by the user, is retained of positions applied for whilst the position remains actively advertised on the site.
+We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
 
-Personal information is only released to a third party, i.e. job advertiser, by the intervention of the registered user. 
+We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. 
 
-**Non - Registered User**  
-In some instances, when you apply for a job for example, we collect more specific information about you, such as name, address, e-mail address, telephone number etc. This information is collected and sent directly to the advertiser of the position. This information is not retained by employment.com.au
+We may share your information with other companies which are related to News Limited, within Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
 
-### General Information Disclosure
+Use by Third Parties 
 
-We do not disclose information about your personal information that you provide, such as your name, address, e-mail address, telephone number, etc., to any outside parties. But, we may record and share aggregated information with our partners. 
+News may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. We may also share your information with third parties who provide prizes for competitions or reader offers. If we do this we generally require these parties to protect your information in the same way we do. 
 
-### Updating Account Information
+Use of Aggregate Data 
 
-Our site allows you to view your personal information at any time. To do so, simply log into your account, and view the information you have submitted. 
+We may collect certain non-personal information to optimise our goods and services including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
 
-### Cookies
+News may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes. 
 
-To enhance your experience, we use a feature on your Internet browser called a "cookie". Cookies are small files that your Web browser places on your computer's hard drive. We use cookies for remembering user names and passwords and preferences, tracking click streams, and for load balancing. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will hinder performance and negatively impact your experience on our site.
+Security 
 
-### Feedback 
+News strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure. 
 
-We have an area on the site where you can submit feedback. Any feedback that is submitted through this area becomes our property. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
+Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. 
 
-### Privacy Commitment Changes 
+Access to Personal Information 
 
-If we decide to change our privacy commitment for our site, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our privacy commitment, please feel free to email us at [help@employment.com.au](mailto:help@employment.com.au) or call (02) 8524 8500.
+You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why. 
+
+To request access, please contact our privacy office as set out at the end of this document. 
+
+Public Information 
+
+Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While News strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board. 
+
+Cookies 
+
+Cookies are data that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services. 
+
+Online Links to Third Party and Co-Branded Sites 
+
+News may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner. 
+
+News is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by News of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site. 
+
+What else you should know about privacy on the Internet 
+
+Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café. You as an individual are responsible for the security of and access to your own computer. 
+
+Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the Internet. 
+
+For further information 
+
+Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
+
+Brook Milbank   
+Privacy Officer   
+News Interactive   
+[privacy@news.com.au](mailto:privacy@news.com.au)   
+02 9288 3000   
+Level 3   
+2 Holt Street   
+Surry Hills 2010 
