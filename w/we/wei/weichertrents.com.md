@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weichertrents.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004154032id_/http%3A//www.weichertrents.com/visitor/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weichertrents.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406061136id_/http%3A//www1.weichertrents.com/visitor/privacy.asp) for the most accurate reproduction.*
 
 # Weichert Rental Network | Apartment Listings | Apartment Guide | Apartment Search
 
@@ -12,4 +12,4 @@ If you do not want to receive e-mail from us in the future, please unsubscribe b
 
 Access to your personal information is limited to employees and participating properties, which are reasonably believed to need such information to provide their services to you. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. Your Account Information is password-protected. In certain areas we uses industry-standard SSL encryption to protect data transmissions.
 
-This is the web site of Weichert Rental Network. Our postal address is Weichert Rental Network 225 Littleton Road,3rd Floor Morris Plains, NJ 07950\. We can be reached via e-mail at questions@weichertrents.com Or you can reach us by telephone at (877)301-7368. 
+This is the web site of Weichert Rental Network. Our postal address is Weichert Rental Network 225 Littleton Road,3rd Floor Morris Plains, NJ 07950\. [Click here](https://web.archive.org/visitor/contact.asp) to contact us. 
