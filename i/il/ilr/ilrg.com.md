@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204104449id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilrg.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205172219id_/http%3A//www.ilrg.com/terms/privacy.html) for the most accurate reproduction.*
 
 # ILRG.com: Privacy Policy
 
@@ -34,7 +34,7 @@ In addition, ILRG.com may, and you hereby authorize us to, disclose your persona
 
 **A Special Note about Children.** Children are not eligible to use our services, and ILRG.com asks that minors (under the age of 18) do not submit any personal information to ILRG.com. If you are a minor, you can use this service only in conjunction with your parents or guardians.
 
-The Site is owned and operated by [Maximilian Ventures LLC](http://www.maximilian.net/), 2711 Centerville Road, Suite 120-5800, Wilmington, Delaware 19808, United States of America; 1+815-301-3766 (voicemail only) or 1+860-540-8159 (fax).
+The Site is owned and operated by [Maximilian Ventures LLC](http://www.maximilian.net/), 2711 Centerville Road, Suite 120-5800, Wilmington, Delaware 19808, United States of America; +1 (815) 301-3766 (voicemail only) or +1 (815) 572-5766 (fax).
 
   
 |    |    
