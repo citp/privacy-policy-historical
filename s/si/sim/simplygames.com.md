@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603080618id_/http%3A//www.simplygames.com/information_item.asp%3Fid%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208055553id_/http%3A//www.simplygames.com/information_item.asp%3Fid%3D21) for the most accurate reproduction.*
 
 # Simply Games - Information
 
