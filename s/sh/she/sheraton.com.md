@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the sheraton.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624140146id_/http%3A//www.starwood.com/sheraton/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheraton.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605113110id_/http%3A//www.starwood.com/sheraton/privacy_policy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
-| 
-
-[](http://ad.doubleclick.net/clk;4917898;7727758;o?http://promo.starwood.com/bestrate)
+|   
+| [](https://web.archive.org/sheraton/index.html) |  |   
+  
+[](http://ad.doubleclick.net/clk;4917898;7727758;o?http://www.starwood.com/bestrate)
 
 |  |  |   
+---  
+|  |   
 ---  
 |  | 
 
@@ -30,28 +33,19 @@ WEBSITES:
   
 The websites owned or controlled by Starwood Hotels & Resorts Worldwide, Inc., including [www.starwood.com](https://web.archive.org/),[ www.starwoodhotels.com](https://web.archive.org/), [www.sheraton.com](https://web.archive.org/sheraton), [www.stregis.com](https://web.archive.org/stregis), [www.westin.com](https://web.archive.org/westin), [www.luxurycollection.com](https://web.archive.org/luxury), [www.whotels.com](https://web.archive.org/whotels), [www.preferredguest.com](https://web.archive.org/preferredguest), [www.spg.com](https://web.archive.org/preferredguest), [www.fourpoints.com](https://web.archive.org/fourpoints) may ask for and collect personally identifiable information in order to provide a customized experience. Visitors are given notice of this request and they have the ability to choose the information they wish to share with Starwood. Visitors will be informed about how Starwood may use such information, including whether it will be shared with carefully selected third parties. In most cases, the information a visitor provides is added to our database in order for Starwood to provide personally tailored messages which are delivered online and offline. Visitors will always be offered the choice not to provide personally identifiable information or to have it shared with others. Please note that Starwood does not control and will not be responsible for the privacy policies of third party websites, including websites owned or controlled by independent franchises, third party owners of hotel properties, or websites not controlled or authorized by Starwood. Third party websites that are accessed through links on our websites have separate privacy and data collection practices, and security measures. We have no responsibility or liability for the practices, policies and security measures implemented by third parties on their websites. We encourage you to contact them to ask questions about their privacy practices, policies and security measures before disclosing personal information.
 
-Visitors to our websites are given the option to become Registered Online Customers. In order to become a Registered Online Customer, visitors will be asked for their name, address and other basic profile information. If visitors choose not to supply the information, their ability to perform certain transactions may be affected. For example, not providing a name may prevent the processing of online reservations. Registered Online Customers will be assigned a login ID and password in order to perform certain transactions the next time they visit our websites.
+Visitors to our websites are given the option to become Registered Online Customers. In order to become a Registered Online Customer, visitors will be asked for their name, address and other basic profile information. If visitors choose not to supply the information, their ability to perform certain transactions may be affected. For example, not providing a name may prevent the processing of online reservations. Registered Online Customers will be assigned a login ID and password in order to perform certain transactions the next time they visit our websites. 
 
 Questions or comments about Starwood or about our privacy policy should be directed as follows: 
 
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com  
-](mailto:starwood.preferred.guest@starwoodhotels.com)by phone: 1-888-625-4988  
-by fax: 1-512-836-4002
+You can contact us these ways:  
+by e-mail: [consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)   
+by fax: 1-914-640-2655
 
 by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
-
-Non Starwood Preferred Guest members can contact us by brand below: 
-
-[Sheraton Hotels & Resorts  
-](https://web.archive.org/sheraton/contact/index.html)[Westin Hotels & Resorts  
-](https://web.archive.org/westin/contact/index.html)[Four Po](https://web.archive.org/fourpoints/contact/index.html)[ints  
-](https://web.archive.org/fourpoints/contact/index.html)[The Luxury Collection  
-](https://web.archive.org/luxury/contact/index.html)[St. Regis  
-](https://web.archive.org/stregis/contact/index.html)[W Hotels](https://web.archive.org/whotels/contact/index.html)
+Starwood Hotels & Resorts Worldwide, Inc.  
+1111 Westchester Avenue  
+White Plains, NY 10604  
+Attention:  Consumer Affairs - Privacy
 
 Back to Top  
   
@@ -61,22 +55,15 @@ We respect our visitors' privacy. Personally identifiable information can be acc
 
 Questions or comments about Starwood or about our privacy policy should be directed as follows: 
 
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com  
-](mailto:starwood.preferred.guest@starwoodhotels.com)by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
+You can contact us these ways:  
+by e-mail: [consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)   
+by fax: 1-914-640-2655
 
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts  
-](https://web.archive.org/sheraton/contact/index.html)[Westin Hotels & Resorts  
-](https://web.archive.org/westin/contact/index.html)[Four Points  
-](https://web.archive.org/fourpoints/contact/index.html)[The Luxury Collection  
-](https://web.archive.org/luxury/contact/index.html)[St. Regis  
-](https://web.archive.org/stregis/contact/index.html)[W Hotels](https://web.archive.org/whotels/contact/index.html)
+by writing to us at:  
+Starwood Hotels & Resorts Worldwide, Inc.  
+1111 Westchester Avenue  
+White Plains, NY 10604  
+Attention:  Consumer Affairs - Privacy
 
 Back to Top  
   
@@ -102,22 +89,15 @@ Starwood also uses invisible pixels, sometimes called web beacons, to count how 
 
 Questions or comments about Starwood or about our privacy policy should be directed as follows: 
 
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
+You can contact us these ways:  
+by e-mail: [consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)   
+by fax: 1-914-640-2655
 
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points ](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
+by writing to us at:  
+Starwood Hotels & Resorts Worldwide, Inc.  
+1111 Westchester Avenue  
+White Plains, NY 10604  
+Attention:  Consumer Affairs - Privacy
 
 Back to Top  
   
@@ -131,22 +111,15 @@ Data collected by Starwood is an asset. It is possible that Starwood, its subsid
 
 Questions or comments about Starwood or about our privacy policy should be directed as follows: 
 
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
+You can contact us these ways:  
+by e-mail: [consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)   
+by fax: 1-914-640-2655
 
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
+by writing to us at:  
+Starwood Hotels & Resorts Worldwide, Inc.  
+1111 Westchester Avenue  
+White Plains, NY 10604  
+Attention:  Consumer Affairs - Privacy
 
 Back to Top  
   
@@ -156,24 +129,17 @@ From time to time, Starwood asks visitors for their email address in order to pr
 
 Email communication is sent only to people who have consented to receive email from Starwood or by our carefully selected third parties. At the time of email capture, Starwood will advise the visitor that we will use the email address for service and product information, as well as marketing and promotional communications. At any time a visitor may opt-out of receiving email communication by following the directions posted in every email, or by following the directions at Starwood's website or by contacting a Starwood customer service representative to opt out of email communication. 
 
-Visitors may receive periodic offers and information from Starwood about our products and services, as well as offers and information from Starwood's carefully selected marketing partners. Visitors may also receive offers and information directly from these selected third parties. Visitors who do not want to receive marketing information from Starwood and/or these third parties in the future, have the option to contact us in order to decline such communication. 
+Visitors may receive periodic offers and information from Starwood about our products and services, as well as offers and information from Starwood's carefully selected marketing partners. Visitors may also receive offers and information directly from these selected third parties. Visitors who do not want to receive marketing information from Starwood and/or these third parties in the future, have the option to contact us in order to decline such communication.   
 
-Starwood Preferred Guest members can contact us these ways:  
+
+Starwood guests can contact us these ways:  
 by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
+by phone: 1-800-328-6242  
+by fax: 1-512-835-4417  
 by writing to us at:  
 Starwood Preferred Guest Program  
 P.O. Box 143986  
-Austin, TX 78714-3986
-
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
+Austin, TX  78714-3986
 
 Once a visitor has opted out, they can choose to opt-in again by changing their profile online or by contacting us in any of the above ways. 
 
@@ -187,22 +153,15 @@ As part of the service that Starwood provides its visitors, Starwood may mail or
 
 Starwood offers our visitors the option to decline these communications. Visitors may contact us to opt-out of such communications as follows: 
 
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
+You can contact us these ways:  
+by e-mail: [consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)   
+by fax: 1-914-640-2655
 
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels ](https://web.archive.org/whotels/contact/index.html)
+by writing to us at:  
+Starwood Hotels & Resorts Worldwide, Inc.  
+1111 Westchester Avenue  
+White Plains, NY 10604  
+Attention:  Consumer Affairs - Privacy
 
 Back to Top  
   
@@ -214,22 +173,15 @@ All Starwood sweepstakes/contests entry forms will provide a way for participant
 
 Questions or comments about Starwood or about our privacy policy should be directed as follows: 
 
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
+You can contact us these ways:  
+by e-mail: [consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)   
+by fax: 1-914-640-2655
 
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points](https://web.archive.org/luxury/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
+by writing to us at:  
+Starwood Hotels & Resorts Worldwide, Inc.  
+1111 Westchester Avenue  
+White Plains, NY 10604  
+Attention:  Consumer Affairs - Privacy
 
 Back to Top  
   
@@ -247,22 +199,15 @@ Participation in Starwood's surveys is voluntary. Participants who do not wish t
 
 Questions or comments about Starwood or about our privacy policy should be directed as follows: 
 
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
+You can contact us these ways:  
+by e-mail: [consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)   
+by fax: 1-914-640-2655
 
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points ](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
+by writing to us at:  
+Starwood Hotels & Resorts Worldwide, Inc.  
+1111 Westchester Avenue  
+White Plains, NY 10604  
+Attention:  Consumer Affairs - Privacy
 
 Back to Top  
   
@@ -276,23 +221,21 @@ CONTACT US:
   
 Starwood provides all visitors with the option to contact us with any further questions or concerns. 
 
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
+You can contact us these ways:  
+by e-mail: [consumer.privacy@starwoodhotels.com](mailto:consumer.privacy@starwoodhotels.com)   
+by fax: 1-914-640-2655
 
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points ](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
+by writing to us at:  
+Starwood Hotels & Resorts Worldwide, Inc.  
+1111 Westchester Avenue  
+White Plains, NY 10604  
+Attention:  Consumer Affairs - Privacy
 
 [[Terms and Conditions](https://web.archive.org/corporate/terms_conditions.html)]
 
-Back to Top
+Back to Top  
+  
+| [](https://web.archive.org/sheraton/contact/index.html)| [](https://web.archive.org/sheraton/help/site_index.html)| [](https://web.archive.org/sheraton/help/faq.html)| [](https://web.archive.org/sheraton/agents/index.html)| | [](https://web.archive.org/development)| [](http://www.starwood.com/bestrate/)  
+---|---|---|---|---|---|---  
+|  |   
+---|---
