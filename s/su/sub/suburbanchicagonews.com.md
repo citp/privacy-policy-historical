@@ -1,51 +1,82 @@
-> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2002-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020223141308id_/http%3A//www.suburbanchicagonews.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208163547id_/http%3A//www.suburbanchicagonews.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # SuburbanChicagoNews.com
 
-|   [Local News](https://web.archive.org/aboutus/map.html)  
+| [Marketplace](https://web.archive.org/classifieds/)  
 ---  
-News & Features  
-  [AP Wire](http://wire.ap.org/)  
-  [Business](https://web.archive.org/business/)  
-  [Columnists](https://web.archive.org/opinions/columnists/)  
-  [Dining Guide](https://web.archive.org/dining_guide/)  
-  [Entertainment](https://web.archive.org/entertainment/)  
-  [Features](https://web.archive.org/features/)  
-  [Health](https://web.archive.org/features/health/)  
-  [Movies](https://web.archive.org/entertainment/movies/)  
-  [Pro Sports](https://web.archive.org/sports/)  
-  [Weather](https://web.archive.org/weather/)  
-  [Web Street Cafe](http://www.webstreetcafe.com/)  
-  [World View](https://web.archive.org/digest/worldview/)  
-Classified  
-  [Autos](https://web.archive.org/autos/)  
-  [Classifieds](https://web.archive.org/classifieds/)  
-  [New Homes](http://www.scnhomes.com/newhomes/)  
-  [Real Estate](http://www.scnhomes.com/realestate/)  
-Specials  
-  [Business Directory](https://web.archive.org/biz1/)  
-  [Chicago Dateline](https://web.archive.org/features/chicagodateline/)  
-  [E-The People](http://www.e-thepeople.com/affiliates/copleynet/)  
-  [Photo Galleries](https://web.archive.org/photos/)  
-  [Special Sections](https://web.archive.org/features/specialsections/)  
-  [Virtual Postcards](https://web.archive.org/greeting/)  
-Site Tools  
-  [About Our Site](https://web.archive.org/aboutus/)  
-  [Advertiser Index](https://web.archive.org/partners/)  
-  [Privacy Policy](https://web.archive.org/aboutus/privacy.html)  
-  [Search](https://web.archive.org/search)  
-  [Site Map ](https://web.archive.org/siteindex.html)  
-  [Terms of Use](https://web.archive.org/aboutus/terms.html)  
+[  Autos](https://web.archive.org/autos/)  
+[  Classified Ads](https://web.archive.org/classifieds/)  
+[  JobPlace](https://web.archive.org/classifieds/jobplace.shtml)  
+[  New Homes](http://www.scnhomes.com/newhomes/)  
+[  Real Estate](http://www.scnhomes.com/realestate/)  
+[Today's News](https://web.archive.org/)  
+---  
+[  Local News](https://web.archive.org/)  
+[  National/World News](http://www.suburbanchicagonews.com/ap/top/)  
+[  News In Depth](https://web.archive.org/focus/)  
+[  Weather](https://web.archive.org/weather/)  
+[Business](https://web.archive.org/business/)  
+---  
+[  Local Business](https://web.archive.org/business/)  
+[  Wall Street Update](http://www.suburbanchicagonews.com/ap/business/)  
+[  Specials](https://web.archive.org/business/)  
+[Entertainment](https://web.archive.org/entertainment/)  
+---  
+[  Local Entertainment](https://web.archive.org/entertainment/)  
+[  Books](https://web.archive.org/entertainment/books/)  
+[  Calendar](https://web.archive.org/entertainment/calendar/)  
+[  Chicago Dateline](https://web.archive.org/features/chicagodateline/)  
+[  Just for Fun](https://web.archive.org/entertainment/justforfun/)  
+[  G-Rated Reviews](https://web.archive.org/entertainment/grated/)  
+[  Hollywood Update](http://www.suburbanchicagonews.com/ap/entertainment/)  
+[  Movies](https://web.archive.org/entertainment/movies/)  
+[  Music](https://web.archive.org/entertainment/music/)  
+[  Television](https://web.archive.org/entertainment/tv/)  
+[  Travel](https://web.archive.org/entertainment/travel/)  
+[  Video Games](https://web.archive.org/opinions/columnists/pavlacka/)  
+[  Wedding Planner](http://localbride.contentchameleon.com/scn/)  
+[Features](https://web.archive.org/features/)  
+---  
+[  Local Features](https://web.archive.org/features/local/)  
+[  Food](https://web.archive.org/features/food/)  
+[  Health](https://web.archive.org/features/health/)  
+[  Home & Garden](https://web.archive.org/features/homeandgarden/)  
+[  Religion](https://web.archive.org/features/religion/)  
+[  Specials](https://web.archive.org/features/specialsections/)  
+[  Technology](https://web.archive.org/features/technology/)  
+[  WebStreetCafe.com](http://www.webstreetcafe.com/)  
+[Opinions](https://web.archive.org/opinions/)  
+---  
+[  Local Opinions](https://web.archive.org/opinions/)  
+[  Columnists](https://web.archive.org/opinions/columnists/)  
+[  E-The People](http://www.e-thepeople.com/affiliates/copleynet/)  
+[  Making the Rounds](https://web.archive.org/opinions/makingtherounds/)  
+[  OpenLine / SpeakOut](https://web.archive.org/opinions/)  
+[Sports](https://web.archive.org/sports/)  
+---  
+[  Local Sports](https://web.archive.org/sports/local/)  
+[  Pro / College Sports](https://web.archive.org/sports/)  
+[  Specials](https://web.archive.org/sports/)  
+[  Sports Update](http://www.suburbanchicagonews.com/ap/sports/)  
+[Site Tools](https://web.archive.org/aboutus/)  
+---  
+[   About Our Site](https://web.archive.org/aboutus/)  
+[   Advertiser Index](https://web.archive.org/partners/scn_ekit/oa_advlist.html)  
+[   Privacy Policy](https://web.archive.org/aboutus/privacy.html)  
+[   Search](https://web.archive.org/search/)  
+[   Terms of Use](https://web.archive.org/aboutus/terms.html)  
+  
+  |    
   
 **Privacy Policy**
 
-This "Web Site" is sponsored and hosted by Digital Chicago, Inc. [Click here](https://web.archive.org/web/20020223141308id_/http%3A//www.suburbanchicagonews.com/aboutus/sites.html) for a list of the Web Sites governed by Digital Chicago's Privacy Policy and [Terms of Use](https://web.archive.org/web/20020223141308id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html) (collectively, "Digital Chicago" or "we" or "us"). Digital Chicago respects the privacy of its users. This Privacy Policy explains what information we collect, how we use your information, and your choices. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20020223141308id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html), which governs your use of Digital Chicago's Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
+This "Web Site" is sponsored and hosted by Digital Chicago, Inc. [Click here](https://web.archive.org/web/20021208163547id_/http%3A//www.suburbanchicagonews.com/aboutus/sites.html) for a list of the Web Sites governed by Digital Chicago's Privacy Policy and [Terms of Use](https://web.archive.org/web/20021208163547id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html) (collectively, "Digital Chicago" or "we" or "us"). Digital Chicago respects the privacy of its users. This Privacy Policy explains what information we collect, how we use your information, and your choices. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20021208163547id_/http%3A//www.suburbanchicagonews.com/aboutus/terms.html), which governs your use of Digital Chicago's Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
 
 **General**
 
 While on our Web Site, you may encounter links to other Web sites or online materials. For example, you may encounter links from sponsors or partners, which may include Digital Chicago's logo as part of a co-branding agreement. If you "click" on a link to such a third party, the "click" takes you off our Web Site and to a third party's Web site, which is beyond Digital Chicago's control. These other Web sites may set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected by Digital Chicago, and we encourage you to review the privacy policy of any other Web site you visit.
 
-In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in user forums (such as chat rooms, bulletin boards, or similar Web pages). You should keep in mind that whenever you publicly disclose information about yourself online - for example, via message boards or chat rooms - that information could be collected and used by people that you do not know. In addition, certain message boards (and similar user forums) may display [IP addresses](https://web.archive.org/web/20020223141308id_/http%3A//www.suburbanchicagonews.com/aboutus/sites.html) along with the message poster's name and message. Digital Chicago bears no responsibility for any action or policies of any third parties who collect any information users may disclose in user forums or other public areas, if any, of this Web Site. 
+In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in user forums (such as chat rooms, bulletin boards, or similar Web pages). You should keep in mind that whenever you publicly disclose information about yourself online - for example, via message boards or chat rooms - that information could be collected and used by people that you do not know. In addition, certain message boards (and similar user forums) may display [IP addresses](https://web.archive.org/web/20021208163547id_/http%3A//www.suburbanchicagonews.com/aboutus/sites.html) along with the message poster's name and message. Digital Chicago bears no responsibility for any action or policies of any third parties who collect any information users may disclose in user forums or other public areas, if any, of this Web Site. 
 
 **Information Digital Chicago Collects**
 
@@ -57,7 +88,7 @@ Digital Chicago does not knowingly collect information from children under thirt
 
 Anonymous Information: When you visit this Web Site, our Web servers automatically collect certain Web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each Web page and the length of their stays. We also collect the anonymous information automatically sent to us by your Web browser, such as browser type, referrer data that identifies the Web page visited prior and subsequent to visiting our Web Site, and IP address. 
 
-Cookies: Like most Web sites, this Web Site sometimes makes use of browser ["cookies."](https://web.archive.org/web/20020223141308id_/http%3A//www.suburbanchicagonews.com/aboutus/cookies.html) Digital Chicago does not save PII in cookies, but we may link the cookie to any PII or other information we collect. In addition, we or our third party advertising networks may use cookies in connection with the serving of advertisements. For example, cookies may be used to control the number of times a user sees a particular advertisement or to target an advertisement to those users that will likely be the most interested in it. We do not have access to cookies set by third parties or the information that they may contain. 
+Cookies: Like most Web sites, this Web Site sometimes makes use of browser ["cookies."](https://web.archive.org/web/20021208163547id_/http%3A//www.suburbanchicagonews.com/aboutus/cookies.html) Digital Chicago does not save PII in cookies, but we may link the cookie to any PII or other information we collect. In addition, we or our third party advertising networks may use cookies in connection with the serving of advertisements. For example, cookies may be used to control the number of times a user sees a particular advertisement or to target an advertisement to those users that will likely be the most interested in it. We do not have access to cookies set by third parties or the information that they may contain. 
 
 Web Beacons. A Web beacon, which is sometimes also called a Web bug or "clear gif", is a small graphic image in a Web page, a Web-based document or an e-mail message, which generally allows the party that set the Web beacon to monitor certain information about the viewer of the Web page, Web-based document or e-mail message, and it may allow access to certain cookies. Web beacons are usually invisible to the user, because they are very small (generally 1-by-1 pixel). However, in general, any electronic image viewed as part of a Web page, including an advertisement, can act as a Web beacon. Web beacons typically collect the URL of the page the Web beacon comes from, the type of browser requesting the Web beacon, the IP address of the computer that the Web beacon is sent to and the time the Web beacon was viewed. Web beacons can also be linked to PII. Digital Chicago may use Web beacons for a number of purposes, such as to count visitors to our Web pages or to monitor how our users navigate our site, and we may include Web beacons in HTML-formatted e-mail newsletters in order to count how many newsletters (or particular articles, links, etc.) we sent were actually opened. In addition, third parties that serve ads or content onto this Web Site may use Web beacons. Digital Chicago does not have control over Web beacons used by such third parties and does not have access to whatever information they may collect. 
 
@@ -115,47 +146,40 @@ This Digital Chicago Privacy Policy was last updated on Nov. 8, 2001.
 
 © 2001 Digital Chicago, Inc. All rights reserved. 
 
-|  |  **THURSDAY  
+  
+
+
+|   | 
+
+|  **THURSDAY  
 JANUARY 30, 2001**  
 ---  
-•[Get daily news headlines via e-mail](https://web.archive.org/forms/headlines.html)  
-•[Today in history](http://wire.ap.org/APpackages/todayinhistory/)  
-•[More national headlines updated every hour](https://web.archive.org/newswire.html)  
+[](javascript:vote\('/vote/poll.asp?data_file=TOPpoll.js'\);)  
+•[ **VOTE:** One year later, have the events of last Sept. 11 changed your life? ](javascript:vote\('/vote/poll.asp?data_file=TOPpoll.js'\);)  
   
+SPECIAL SECTIONS  
   
-SPECIAL SECTION  
-  
-[](https://web.archive.org/stories/terrorism/)  
-•[Get the latest news in the war on terrorism](https://web.archive.org/stories/terrorism/)  
+|  [](https://web.archive.org/stories/terrorism/)  
+• [IN DEPTH: The U.S. war on terrorism](https://web.archive.org/stories/terrorism/) |  [](https://web.archive.org/opinions/columnists/)  
+• [CHATTER: Columnists say it all](https://web.archive.org/opinions/columnists/)  
+---|---  
   
 FEATURED  
 ADVERTISERS   
   
+GET DAILY HEADLINES  
+• [Sign up to receive your local newspaper's top headlines each day via e-mail. It only takes a minute, and it's free!](https://web.archive.org/forms/headlines.html)  
 CONTACT US  
 **At the newspaper:**  
-•[Contact one of our editorial staff members](https://web.archive.org/aboutus/selection/contact.html)  
-•[Send a letter to the editor for publication](https://web.archive.org/aboutus/selection/letter.html)  
-•[Send a news release](https://web.archive.org/aboutus/selection/newsrelease.html)  
-•[Subscribe to the paper](https://secure.scn1.com/subscribe/)  
-•[Place a classified ad](https://secure.scn1.com/classifieds/)  
-•[Contact the customer service department](https://web.archive.org/aboutus/selection/customerservice.html)  
-•[Get information about advertising in the paper](https://web.archive.org/aboutus/selection/advertising.html)  
+• [Contact one of our editorial staff members](https://web.archive.org/aboutus/selection/contact.html)  
+• [Send a letter to the editor for publication](https://web.archive.org/aboutus/selection/letter.html)  
+• [Send a news release](https://web.archive.org/aboutus/selection/newsrelease.html)  
+• [Subscribe to the paper](https://secure.scn1.com/subscribe/)  
+• [Place a classified ad](https://secure.scn1.com/classifieds/)  
+• [Contact the customer service department](https://web.archive.org/aboutus/selection/customerservice.html)  
+• [Get information about advertising in the paper](https://web.archive.org/aboutus/selection/advertising.html)  
 **At the web site:**  
-•[Ask questions and get answers about the site](https://web.archive.org/aboutus/online_contacts.html)  
-•[Provide a tip about breaking news](https://web.archive.org/aboutus/newstips.html)  
-•[Subscribe to our free daily headlines e-mail](https://web.archive.org/forms/headlines.html)  
-•[Get information about advertising on the site](http://www.scnmedia.com/)  
-SPECIAL SECTIONS  
-•[A Life in Three Centuries](https://web.archive.org/photos/threecenturies/)  
-•[Crime in Illinois](https://web.archive.org/crime/)  
-•[European Vacation](https://web.archive.org/photos/europe/)  
-•[Found money](https://web.archive.org/money/)  
-•[Generations Under the Influence  
-](https://web.archive.org/features/alcohol/)•[Golf Guide  
-](https://web.archive.org/sports/golf/)•[Joliet's prisons](https://web.archive.org/joliet/prisons/)  
-•[Living Well at the End of Life  
-](https://web.archive.org/features/specialsections/endoflife/)•[Photo galleries](https://web.archive.org/photos/)  
-•[Remembering Vietnam](https://web.archive.org/features/specialsections/vietnam/)  
-•[Racing: Route 66 & Chicagoland Speedway](http://www.joliet.com/raceways/)  
-•[School report cards](https://web.archive.org/rcard/)  
-•[Time for college](https://web.archive.org/webstreetcafe/college/)
+• [Ask questions and get answers about the site](https://web.archive.org/aboutus/online_contacts.html)  
+• [Provide a tip about breaking news](https://web.archive.org/aboutus/newstips.html)  
+• [Subscribe to our free daily headlines e-mail](https://web.archive.org/forms/headlines.html)  
+• [Get information about advertising on the site](http://www.scnmedia.com/)
