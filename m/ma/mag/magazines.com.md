@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208212628id_/http%3A//www.magazines.com/ncom/mag/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307074249id_/http%3A//www.magazines.com/ncom/mag/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Magazines.com -- Privacy Policy
 
@@ -25,9 +25,9 @@ Email address
 Phone number 
 
 **The Way We Use Information:**   
-We use the information you provide about yourself when placing an order to complete the order. It is necessary to furnish this information to the publisher in order to quickly fulfill your order, provide you with discounted subscription rates, and qualify you for free magazine subscription offers. We also use the information to provide you with information about magazine subscriptions and other products and services. We may also provide your information to other businesses which may sell other products and services. Because your information is shared with third parties, the information is governed by the privacy policies of the recipients of the information. 
+We use the information you provide about yourself when placing an order to complete the order. It is necessary to furnish this information to the publisher in order to quickly fulfill your order, provide you with discounted subscription rates, and qualify you for free magazine subscription offers. We also use the information to provide you with information about magazine subscriptions and other products and services. We may also provide your information to other businesses which may sell other products and services. Because your information is shared with third parties, the information is governed by the privacy policies of the recipients of the information. **Magazines.com does not share email addresses with third parties.**
 
-Furthermore, by placing an order with Magazines.com, you are agreeing to receive promotional mailings and emails from us. Each email from us will contain opt-out information. If you choose to opt-out, then you will be removed from our email list and will receive no future emails from us. 
+Furthermore, by placing an order with Magazines.com or registering for the Magazines.com Instant Win Game Sweepstakes promotion, you are agreeing to receive promotional mailings and emails from us. Each email from us will contain opt-out information. If you choose to opt-out, then you will be removed from our email list and will receive no future emails from us. 
 
 **Cookies**   
 Although we use cookies for web site optimization reasons, we do not use cookies to collect any personal information (cookies are small files downloaded to your computer to record movements within web sites). 
