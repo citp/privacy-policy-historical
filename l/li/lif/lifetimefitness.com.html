@@ -1,0 +1,605 @@
+<!--The following is the downloaded HTML source of the lifetimefitness.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202175632id_/http%3A//www.lifetimefitness.com/security_and_privacy/index.cfm) for the most accurate reproduction.-->
+
+<html><head>
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
+
+	<title>Life Time Fitness</title>
+
+<script language="javascript">
+<!-- Begin
+
+// var that is set to true in the body onload tag. templates that include this file may reference this variable inorder to run javascript onload.
+var isDocLoaded = false;
+var FilePath = "";
+
+// Browser sniffing variables
+var ns4 = document.layers ? 1 : 0;
+var ie4 = document.all ? 1 : 0;
+var ns6 = document.getElementById && !document.all ? 1 : 0;
+
+function openWindow(winURL, winName, winWidth, winHeight, winX, winY, boolScrollBars) 
+{
+	if (!winURL) winURL = '/';
+	if (!winName) winName = 'newWin';
+	if (!winWidth) winWidth = 100;
+	if (!winHeight) winHeight = 100;
+	if (!winX) winX = 0;
+	if (!winY) winY = 0;		
+	if (!boolScrollBars) boolScrollBars = 1;
+      
+	newWinObject = window.open(winURL, winName,'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=' + boolScrollBars + ',resizable=1,width=' + winWidth + ',height=' + winHeight + ',left=' +  winX + ',top=' + winY);
+	
+	if (newWinObject.blur)
+	{ newWinObject.focus(); }
+	
+	return newWinObject;
+}
+
+// function to change an image's (or multiple images') source
+function changeImages() {
+	if (document.images) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			var argArray = arguments[i].split('.');
+			var objName;
+			if ((document.layers && argArray.length > 1) || argArray.length <= 1) {
+				objName = eval("document." + arguments[i]);
+			} else {
+				objName = eval("document." + argArray[argArray.length - 1]);
+			}
+			objName.src = eval(changeImages.arguments[i+1] + ".src");
+		}
+	}
+}
+
+// dhtml layer variables for cross-browser compatability
+if (document.layers) {	// Netscape 4
+	doc = "document[";
+	conDoc = "document";
+	sty = "]";
+	htm = ".document";
+} else if (document.getElementById) {	// NS 6 or IE 5 and up (W3C compliant browsers).
+	doc = "document.getElementById(";
+	conDoc = "document.getElementById(";
+	sty = ").style";
+	htm = ".document";
+} else if (document.all) {	// IE 4
+	doc = "document.all[";
+	conDoc = "document.all[";
+	sty = "].style";
+	htm = "";
+}
+
+// vars for dropdown menus
+var navTimer = null;
+var currNav = null;
+var navHideDelay = 500;
+var isNavLoaded = false;
+
+// build dropdown objects (run onload)
+function buildNav() {
+	navJoinUsObj = eval(doc + '"navJoinUs"' + sty);
+	navClubsObj = eval(doc + '"navClubs"' + sty);
+	navMemAdvObj = eval(doc + '"navMemAdv"' + sty);
+	navActivitiesObj = eval(doc + '"navActivities"' + sty);
+	navServicesObj = eval(doc + '"navServices"' + sty);
+	navHealthInfoObj = eval(doc + '"navHealthInfo"' + sty);
+	navShopObj = eval(doc + '"navShop"' + sty);
+	isNavLoaded = true;
+}
+
+// shows a dropdown menu, hides any other dropdown that is currently showing
+function showNav(which) {
+	if (isNavLoaded) {
+		if ((currNav != null) && (currNav != which)) {
+			eval("nav" + currNav + "Obj.visibility = 'hidden'");
+		}
+		currNav = which;
+		eval("nav" + currNav + "Obj.visibility = 'visible'");
+		clearTimeout(navTimer);
+		navTimer = null;
+	}
+}
+// hides a dropdown menu on a time delay
+function hideNav(which) {
+	if (isNavLoaded) {
+		navTimer = setTimeout("nav" + which + "Obj.visibility = 'hidden'", navHideDelay);
+	}
+}
+
+if (document.images) {
+	nav_joinus_on = new Image();
+	nav_joinus_on.src = FilePath + "/images/JoinUs_On.gif";
+	nav_joinus_off = new Image();
+	nav_joinus_off.src = FilePath + "/images/JoinUs.gif";
+
+	nav_clubs_on = new Image();
+	nav_clubs_on.src = FilePath + "/images/Clubs_On.gif";
+	nav_clubs_off = new Image();
+	nav_clubs_off.src = FilePath + "/images/clubs.gif";
+
+	nav_memadv_on = new Image();
+	nav_memadv_on.src = FilePath + "/images/MemberAdvantage_On.gif";
+	nav_memadv_off = new Image();
+	nav_memadv_off.src = FilePath + "/images/MemberAdvantage.gif";
+
+	nav_activities_on = new Image();
+	nav_activities_on.src = FilePath + "/images/Activities_On.gif";
+	nav_activities_off = new Image();
+	nav_activities_off.src = FilePath + "/images/Activities.gif";
+
+	nav_services_on = new Image();
+	nav_services_on.src = FilePath + "/images/Services_On.gif";
+	nav_services_off = new Image();
+	nav_services_off.src = FilePath + "/images/Services.gif";
+
+	nav_healthinfo_on = new Image();
+	nav_healthinfo_on.src = FilePath + "/images/HealthInformation_On.gif";
+	nav_healthinfo_off = new Image();
+	nav_healthinfo_off.src = FilePath + "/images/HealthInformation.gif";
+
+	nav_shop_on = new Image();
+	nav_shop_on.src = FilePath + "/images/Shop_On.gif";
+	nav_shop_off = new Image();
+	nav_shop_off.src = FilePath + "/images/Shop.gif";
+
+	nav_contactus_on = new Image();
+	nav_contactus_on.src = FilePath + "/images/ContactUs_On.gif";
+	nav_contactus_off = new Image();
+	nav_contactus_off.src = FilePath + "/images/ContactUs.gif";
+	
+	btn_newmembers_on = new Image();
+	btn_newmembers_on.src = FilePath + "/images/wrapper/new_members_on.gif";
+	btn_newmembers_off = new Image();
+	btn_newmembers_off.src = FilePath + "/images/wrapper/new_members_off.gif";
+	
+	btn_search_on = new Image();
+	btn_search_on.src = FilePath + "/images/wrapper/search_on.gif";
+	btn_search_off = new Image();
+	btn_search_off.src = FilePath + "/images/wrapper/search_off.gif";
+}
+
+// End -->
+</script>
+
+
+<script language="javascript" src="/wrappers/blink.js"></script>	
+	
+<script language="Javascript" src="/wrappers/fade2.js"></script>	
+<link rel="stylesheet" href="/wrappers/main.css" type="text/css">
+	
+
+</head>
+
+
+
+
+<body bgcolor="#000000" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" link="#ff9900" vlink="#ff9900" onload="buildNav(); isDocLoaded=true;">
+
+
+<div id="navJoinUs" style="position:absolute; z-index:100; left:5px; top:76px; visibility:hidden;">
+	<table width="150" border="0" cellspacing="0" cellpadding="2" bgcolor="#666666">
+	<tbody><tr>
+		<td>
+			
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/join_us/about_ltf/" onmouseover="showNav('JoinUs')" onmouseout="hideNav('JoinUs')" target="_top"><font color="#ffffff">About Life Time Fitness</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/events/athletic_events/" onmouseover="showNav('JoinUs')" onmouseout="hideNav('JoinUs')" target="_top"><font color="#ffffff">Athletic Events</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/join_us/about_ltf/index.cfm?strWebAction=press_room" onmouseover="showNav('JoinUs')" onmouseout="hideNav('JoinUs')" target="_top"><font color="#ffffff">Press Room</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/join_us/membership/" onmouseover="showNav('JoinUs')" onmouseout="hideNav('JoinUs')" target="_top"><font color="#ffffff">Membership</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/sports/" onmouseover="showNav('JoinUs')" onmouseout="hideNav('JoinUs')" target="_top"><font color="#ffffff">Sports Membership</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/corporate_wellness/" onmouseover="showNav('JoinUs')" onmouseout="hideNav('JoinUs')" target="_top"><font color="#ffffff">Corporate Wellness</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/careers/" onmouseover="showNav('JoinUs')" onmouseout="hideNav('JoinUs')" target="_top"><font color="#ffffff">Career Opportunities</font></a><br>
+			
+		</td>	
+	</tr>
+	</tbody></table>
+</div>
+
+<div id="navClubs" style="position:absolute; z-index:100; left:82px; top:76px; visibility:hidden;">
+	<table width="160" border="0" cellspacing="0" cellpadding="2" bgcolor="#666666">
+	<tbody><tr>
+		<td>
+			
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/clubs/" onmouseover="showNav('Clubs')" onmouseout="hideNav('Clubs')" target="_top"><font color="#ffffff">Club Locator</font></a><br>
+			
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/clubs/index.cfm?strWebAction=new_locations" onmouseover="showNav('Clubs')" onmouseout="hideNav('Clubs')" target="_top"><font color="#ffffff">New Locations</font></a><br>
+			
+		</td>	
+	</tr>
+	</tbody></table>
+</div>
+
+
+<div id="navMemAdv" style="position:absolute; z-index:100; left:465px; top:76px; visibility:hidden;">
+</div>
+
+
+<div id="navActivities" style="position:absolute; z-index:100; left:297px; top:76px; visibility:hidden;">
+	<table border="0" cellspacing="0" cellpadding="2" bgcolor="#666666">
+	<tbody><tr>
+		<td>
+			 
+					
+					&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/group_fitness/" onmouseover="showNav('Activities')" onmouseout="hideNav('Activities')" target="_top"><font color="#ffffff">Group Fitness</font></a>&nbsp;&nbsp;
+					<br>
+				
+					&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/activities/index.cfm?strWebAction=class_list&amp;intActivityId=5" onmouseover="showNav('Activities')" onmouseout="hideNav('Activities')" target="_top"><font color="#ffffff">Aquatics</font></a>&nbsp;&nbsp;
+					<br>
+				
+					&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/activities/index.cfm?strWebAction=class_list&amp;intActivityId=8" onmouseover="showNav('Activities')" onmouseout="hideNav('Activities')" target="_top"><font color="#ffffff">Kids Club</font></a>&nbsp;&nbsp;
+					<br>
+				
+					&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/activities/index.cfm?strWebAction=class_list&amp;intActivityId=10" onmouseover="showNav('Activities')" onmouseout="hideNav('Activities')" target="_top"><font color="#ffffff">Rock Climbing</font></a>&nbsp;&nbsp;
+					<br>
+				
+					&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/activities/index.cfm?strWebAction=class_list&amp;intActivityId=11" onmouseover="showNav('Activities')" onmouseout="hideNav('Activities')" target="_top"><font color="#ffffff">Summer Camps</font></a>&nbsp;&nbsp;
+					<br>
+				
+					&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/activities/index.cfm?strWebAction=class_list&amp;intActivityId=12" onmouseover="showNav('Activities')" onmouseout="hideNav('Activities')" target="_top"><font color="#ffffff">Youth Activities</font></a>&nbsp;&nbsp;
+					<br>
+				
+					&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/activities/index.cfm?strWebAction=class_list&amp;intActivityId=13" onmouseover="showNav('Activities')" onmouseout="hideNav('Activities')" target="_top"><font color="#ffffff">Adult Activities</font></a>&nbsp;&nbsp;
+					<br>
+				
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/activities/running_club/" onmouseover="showNav('Activities')" onmouseout="hideNav('Activities')" target="_top"><font color="#ffffff">Running Club</font></a><br>
+			
+		</td>	
+	</tr>
+	</tbody></table>
+</div>
+
+<div id="navServices" style="position:absolute; z-index:100; left:383px; top:76px; visibility:hidden;">
+	<table width="180" border="0" cellspacing="0" cellpadding="2" bgcolor="#666666">
+	<tbody><tr>
+		<td>
+			
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/personal_training/" onmouseover="showNav('Services')" onmouseout="hideNav('Services')" target="_top"><font color="#ffffff">Personal Training</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/services/child_center/" onmouseover="showNav('Services')" onmouseout="hideNav('Services')" target="_top"><font color="#ffffff">Child Center</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/lifespa/" onmouseover="showNav('Services')" onmouseout="hideNav('Services')" target="_top"><font color="#ffffff">LifeSpa &amp; Salon</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/services/lifecafe/" onmouseover="showNav('Services')" onmouseout="hideNav('Services')" target="_top"><font color="#ffffff">LifeCafe &amp; Nutrition Center</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.in2nutrition.com/lifetimefitness/" onmouseover="showNav('Services')" onmouseout="hideNav('Services')" target="_blank"><font color="#ffffff">Meal Planning</font></a><br>
+			
+		</td>	
+	</tr>
+	</tbody></table>
+</div>
+
+<div id="navHealthInfo" style="position:absolute; z-index:100; left:465px; top:76px; visibility:hidden;">
+	<table width="160" border="0" cellspacing="0" cellpadding="2" bgcolor="#666666">
+	<tbody><tr>
+		<td>
+			
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/magazine/" onmouseover="showNav('HealthInfo')" onmouseout="hideNav('HealthInfo')" target="_top"><font color="#ffffff">Experience Life Magazine</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=fit_facts" onmouseover="showNav('HealthInfo')" onmouseout="hideNav('HealthInfo')" target="_top"><font color="#ffffff">Fit Facts</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.in2nutrition.com/lifetimefitness/" onmouseover="showNav('HealthInfo')" onmouseout="hideNav('HealthInfo')" target="_blank"><font color="#ffffff">Meal Planning</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=ask_etrainer" onmouseover="showNav('HealthInfo')" onmouseout="hideNav('HealthInfo')" target="_top"><font color="#ffffff">Ask the eTrainer</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=health_news" onmouseover="showNav('HealthInfo')" onmouseout="hideNav('HealthInfo')" target="_top"><font color="#ffffff">Health News</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/health_info/index.cfm?strWebAction=health_tips" onmouseover="showNav('HealthInfo')" onmouseout="hideNav('HealthInfo')" target="_top"><font color="#ffffff">Health Tips</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://www.lifetimefitness.com/health_info/cooking_for_life.cfm" onmouseover="showNav('HealthInfo')" onmouseout="hideNav('HealthInfo')" target="_top"><font color="#ffffff">Cooking For Life</font></a><br>
+			
+		</td>	
+	</tr>
+	</tbody></table>
+</div>
+
+<div id="navShop" style="position:absolute; z-index:100; left:606px; top:76px; visibility:hidden;">
+	<table width="155" border="0" cellspacing="0" cellpadding="2" bgcolor="#666666">
+	<tbody><tr>
+		<td>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://store.lifetimefitness.com/index.cfm" onmouseover="showNav('Shop')" onmouseout="hideNav('Shop')" target="_top"><font color="#ffffff">Shop Life Time Fitness</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://store.lifetimefitness.com/coupon.cfm?EXPANDED=CUSTOMER_SERVICE&amp;BOLDED=COUPON" onmouseover="showNav('Shop')" onmouseout="hideNav('Shop')" target="_top"><font color="#ffffff">Use a Gift Certificate</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://store.lifetimefitness.com/trainer.cfm?EXPANDED=SHOP_WITH" onmouseover="showNav('Shop')" onmouseout="hideNav('Shop')" target="_top"><font color="#ffffff">Shop with a Trainer</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://store.lifetimefitness.com/auto_ship.cfm?EXPANDED=AUTO_SHIP&amp;BOLDED=OVERVIEW" onmouseover="showNav('Shop')" onmouseout="hideNav('Shop')" target="_top"><font color="#ffffff">Auto Ship Program</font></a><br>
+			&nbsp;&nbsp;<font class="text2">::</font>&nbsp;<a class="link3" href="http://store.lifetimefitness.com/order_status/order_status.cfm?EXPANDED=CUSTOMER_SERVICE&amp;BOLDED=ORDER_STATUS" onmouseover="showNav('Shop')" onmouseout="hideNav('Shop')" target="_top"><font color="#ffffff">Check Order Status</font></a><br>
+		</td>	
+	</tr>
+	</tbody></table>
+</div>
+
+
+
+
+<table bgcolor="#000000" border="0" width="780" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td width="100%" align="center">
+		
+		<table width="765" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="100"><a href="http://www.lifetimefitness.com/index.cfm"><img src="/images/LifetimeLogo.gif" width="100" height="56" border="0"></a></td>
+			<td width="573">&nbsp;</td>
+			<td width="92"><img src="/images/blank.gif" border="0" width="92" height="1"></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="765">
+		<tbody><tr>
+			<td><a href="http://www.lifetimefitness.com/join_us/join_us_main.cfm" target="_top" onmouseover="showNav('JoinUs'); changeImages('nav_joinus','nav_joinus_on');" onmouseout="hideNav('JoinUs'); changeImages('nav_joinus','nav_joinus_off');"><img src="/images/JoinUs.gif" width="77" height="20" border="0" name="nav_joinus"></a></td>
+			<td><a href="http://www.lifetimefitness.com/clubs/" onmouseover="showNav('Clubs'); changeImages('nav_clubs','nav_clubs_on');" onmouseout="hideNav('Clubs'); changeImages('nav_clubs','nav_clubs_off');"><img src="/images/Clubs.gif" width="68" height="20" border="0" name="nav_clubs"></a></td>
+			<td><a href="http://www.lifetimefitness.com/member_advantage/index.cfm" onmouseover="showNav('MemAdv'); changeImages('nav_memadv','nav_memadv_on');" onmouseout="hideNav('MemAdv'); changeImages('nav_memadv','nav_memadv_off');"><img src="/images/MemberAdvantage.gif" width="147" height="20" border="0" name="nav_memadv"></a></td>
+			<td><a href="http://www.lifetimefitness.com/activities/" onmouseover="showNav('Activities'); changeImages('nav_activities','nav_activities_on');" onmouseout="hideNav('Activities'); changeImages('nav_activities','nav_activities_off');"><img src="/images/Activities.gif" width="86" height="20" border="0" name="nav_activities"></a></td>
+			<td><a href="http://www.lifetimefitness.com/services/services_main.cfm" onmouseover="showNav('Services'); changeImages('nav_services','nav_services_on');" onmouseout="hideNav('Services'); changeImages('nav_services','nav_services_off');"><img src="/images/Services.gif" width="82" height="20" border="0" name="nav_services"></a></td>
+			<td><a href="http://www.lifetimefitness.com/health_info/index.cfm" onmouseover="showNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_on');" onmouseout="hideNav('HealthInfo'); changeImages('nav_healthinfo','nav_healthinfo_off');"><img src="/images/HealthInformation.gif" width="141" height="20" border="0" name="nav_healthinfo"></a></td>
+			<td><a href="http://store.lifetimefitness.com/index.cfm" onmouseover="showNav('Shop'); changeImages('nav_shop','nav_shop_on');" onmouseout="hideNav('Shop'); changeImages('nav_shop','nav_shop_off');"><img src="/images/Shop.gif" width="65" height="20" border="0" name="nav_shop"></a></td>
+			<td><a href="http://www.lifetimefitness.com/contact_us/index.cfm" onmouseover="changeImages('nav_contactus','nav_contactus_on');" onmouseout="changeImages('nav_contactus','nav_contactus_off');"><img src="/images/ContactUs.gif" width="99" height="20" border="0" name="nav_contactus"></a></td>
+		</tr>
+		</tbody></table>
+		
+	</td>
+</tr>
+<tr>
+	<td width="100%" align="center">
+
+
+		<table width="765" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td width="100%">
+			
+	
+
+
+	
+	
+
+
+	
+		
+			
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr>
+	
+	<td colspan="7" class="frameworkSpacerCell"><img src="/images/blank.gif" width="1" height="1"></td>
+	
+</tr>
+<tr valign="top">
+	<td width="165" rowspan="3" class="frameworkNavCell">
+		 
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" class="frameworkNavCell">		
+<tbody><tr valign="top">
+	
+			<td><a href="/security_and_privacy/"><img src="/images/security_and_privacy/main_nav_image.jpg" border="0"></a></td>
+		
+</tr>
+<tr>
+	
+	<td class="frameworkSpacerCell"><img src="/images/blank.gif" width="1" height="1"></td>
+	
+</tr>
+<tr>
+	<td>
+		&nbsp;
+	</td>
+</tr>
+<tr>
+	<td style="padding-left: 10px;">
+						  
+	</td>
+</tr>
+</tbody></table>
+
+				  
+	</td>	
+	
+	<td class="frameworkSpacerCell" rowspan="3"><img src="/images/blank.gif" width="1" height="1"></td>
+	
+	<td class="frameworkHeaderCell" colspan="5" width="100%">	
+		
+		
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" class="frameworkHeaderCell" background="">
+<tbody><tr style="background-color: #99a9a9;">
+	<td id="frameworkHeaderTitle" style="color: ">
+		
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		
+	</td>
+	<td>
+		<img src="/images/blank.gif" width="24" height="24">
+	</td>
+	<td>&nbsp;</td>	
+</tr>
+</tbody></table>
+
+
+
+	</td>
+</tr>
+<tr>
+	
+	<td colspan="5" class="frameworkSpacerCell"><img src="/images/blank.gif" width="1" height="10" border="0"></td>
+	
+</tr>
+<tr valign="top">
+	
+	<td class="frameworkSpacerCell"><img src="/images/blank.gif" width="19" height="400" border="0"></td>
+	
+	<td class="frameworkMainCell" width="100%">
+
+		
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td><img src="/images/security_and_privacy/page_titles/privacy_statement.gif" border="0"></td>
+</tr>
+
+<tr>
+	<td><img src="/images/blank.gif" height="30" width="1" border="0"></td>
+</tr>
+</tbody></table>
+
+<span style="font-size: 11px;">
+<strong>Information about our Organization and Web site</strong><br>
+Modern information and communication technologies play a fundamental role in the activities LIFE TIME FITNESS, Inc. 
+(“Life Time Fitness”). 
+<br>
+<br>
+Our corporate office is located at:<br>
+6442 City West Parkway<br>
+Eden Prairie, MN 55344, USA 
+<br>
+<br>
+Life Time Fitness is a healthy lifestyle brand consisting of health and fitness centers, healthy living products, 
+and educational services. 
+<br>
+<br>
+
+Our privacy policy covers <a href="/" style="font-size: 11px;">www.lifetimefitness.com.</a>
+
+<br>
+<br>
+<strong>Providing Visitors with Anonymous Access </strong><br>
+<li>You can access our Web site home page and browse our site without disclosing your personal data.</li>
+<br>
+<br>
+<strong>The services and links of our Web site </strong><br>
+<li>Our Web site does not enable our visitors to communicate with other
+  visitors or to post information to be accessed by others.</li>
+<li>Our Web site does include links to third party Web service providers.</li>
+<li>We may contract with other companies to perform services on our behalf.     
+  We may need to provide only such personally identifiable 
+  information about you as necessary for such purposes.</li>
+<br>
+<br>
+<strong>Automatic Collection of Information </strong><br>
+We do not automatically log personal data nor do we link information 
+automatically logged by other means with personal data about specific 
+individuals. We do use cookies to store personal data, but we do not link non-personal information stored in 
+cookies with personal data about specific individuals. 
+<br>
+<br>
+<strong>Data Collection and Purpose Specification </strong><br>
+<li>We collect the personal data that you may volunteer while using our 
+  services.</li>
+<li>We do not collect information about our visitors from other sources, such 
+  as public records or bodies, or private organizations. </li>
+<li>Information collected may be shared in the aggregate with others and 
+  may be used for our own business purposes. </li>
+<br>
+<br>
+<strong>Children's Privacy</strong>
+<li>We do not knowingly collect personal data nor solicit in any manner to 
+  persons under 13 years of age.</li>
+<br>
+<br>
+<strong>Confidentiality / Security </strong><br>
+<li>We give you the option of using a secure transmission method to send us 
+  your credit card information.</li>
+<li>We have implemented security policies, rules and technical measures to 
+  protect the personal data that we have under our control from: 
+</li><li>Unauthorized access </li>
+<li>Improper use or disclosure </li>
+<li>Unauthorized modification </li>
+<li>Unlawful destruction or accidental loss</li> 
+<li>All our employees and data processors, who have access to, and are 
+  associated with the processing of personal data, are obliged to respect 
+  the confidentiality of our visitors' personal data.</li> 
+<li>We ensure that your personal data will not be disclosed to state 
+  institutions and authorities except if required by law or other regulation.</li> 
+<br>
+<br>
+<strong>Access to the personal data we may hold about you</strong><br>
+<li>You can ask us, by sending an email to
+  
+  <a href="/contact_us/index.cfm?strWebAction=email_form&amp;intGroupId=20" style="font-size: 11px;">webmaster@lifetimefitness.com</a>, 
+  
+  whether we are keeping personal data about you. </li>
+<li>Upon request, which you can indicate by sending an email to 
+	
+  <a href="/contact_us/index.cfm?strWebAction=email_form&amp;intGroupId=20" style="font-size: 11px;">webmaster@lifetimefitness.com</a>, 
+  
+  we will provide you with a readable copy of the personal data that we keep about you, within a month. </li>
+<li>We do reserve the right to require proof of your identity before providing 
+  the information. </li>
+<li>Information will be provided to you without any charge. 
+</li><li>We allow you to challenge the data that we hold about you and, where 
+  appropriate, you may have the data rectified or amended. </li>
+<li>We do not reserve the right to refuse to provide you with a copy of your 
+  personal data. </li>
+<br>
+<br>
+<strong>Privacy Support </strong><br>
+If you have an enquiry or concern about our privacy policy, please contact 
+
+<a href="/contact_us/index.cfm?strWebAction=email_form&amp;intGroupId=20" style="font-size: 11px;">webmaster@lifetimefitness.com</a>.
+
+</span>		  
+
+		<br>
+		<br>		
+	</td>
+	
+	<td class="frameworkSpacerCell"><img src="/images/blank.gif" width="20" height="1"></td>
+	
+
+	<td width="160" class="frameworkColThreeCell">
+
+		
+		<div style="height: 10px;"></div>		
+	
+		<table border="0" cellpadding="0" cellspacing="0" width="160">
+		<tbody><tr>
+			<td width="150" bgcolor="#ffffff">
+			
+				
+
+	
+	
+
+
+<br>	
+			
+			</td>
+
+			
+			<td class="frameworkSpacerCell"><img src="/images/blank.gif" width="10" height="1"></td>	
+			
+
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+		
+
+
+
+	
+	
+		
+			<!--	footer.cfm -->
+
+
+
+
+			</td>
+		</tr>
+		<tr>
+			<td align="center" style="color: #ffffff;">
+				<br>
+				©2003, Life Time Fitness. All Rights Reserved.&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.lifetimefitness.com/security_and_privacy/index.cfm">Privacy Statement</a>
+				<br>
+			</td>
+		</tr>
+		</tbody></table>
+		
+	</td>
+	<td width="7"><img src="/images/blank.gif" border="0" width="7" height="1"></td>
+</tr>
+</tbody></table>
+
+
+
+
+		
+	
+	
+	
+
+
+</body></html>
