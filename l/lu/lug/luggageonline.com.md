@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204154400id_/http%3A//www.luggageonline.com/help/company_policies.cfm%23security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232419id_/http%3A//www.luggageonline.com/help/company_policies.cfm%23security) for the most accurate reproduction.*
 
 # Luggage Online - Customer Service
 
