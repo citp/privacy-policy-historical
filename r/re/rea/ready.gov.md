@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the ready.gov privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ready.gov privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/privacy.html) for the most accurate reproduction.*
 
 # Ready.gov - Privacy Policy
 
 |  |  |   
-|  | [Ready.gov Home](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/default.html)[Text Only Version](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/text/index.html)[Glossary](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/glossary.html)[En Español](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/espanol/index.html)[FAQ](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/faq.html) | 
+|  | [Ready.gov Home](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/default.html)[Text Only Version](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/text/index.html)[Glossary](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/glossary.html)[En Español](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/espanol/index.html)[FAQ](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/faq.html) | 
 
 Wednesday, February 19, 2020  
   
 ---|---  
-|  | [](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/index.html "to home page") |   
+|  | [](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/index.html "to home page") |   
 ---|---  
 [](http://www.dhs.gov/ "Department of Homeland Security website")  
 |  |  |  |   
 ---|---|---  
 |  |  |   
 ---|---|---  
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/overview.html "overview about being prepared for an attack") | [Overview](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/overview.html) |   
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/get_a_kit.html "information on how to get a kit") | [Get a Kit](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/get_a_kit.html) |   
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/make_a_plan.html "information on how to make a plan") | [Make a Plan](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/make_a_plan.html) |   
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/get_informed.html "how to get information") | [Be Informed](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/get_informed.html) |   
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/biological.html "information on how to plan for a biological attack") | [Biological Threat](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/biological.html) |   
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/chemical.html "information on how to plan for a chemical attack") | [Chemical Threat](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/chemical.html) |   
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/explosions.html "information on how to prepare for an explosion") | [Explosions](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/explosions.html) |   
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/nuclear.html "information on how to prepare for a nuclear blast") | [Nuclear Blast](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/nuclear.html) |   
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/radiation.html "information on what to do about radiation") | [Radiation Threat](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/radiation.html) |   
-[](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/natural_disasters.html "information on what to do about a natural disaster") | [Natural Disasters](https://web.archive.org/web/20041210021816id_/http%3A//www.ready.gov/natural_disasters.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/overview.html "overview about being prepared for an attack") | [Overview](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/overview.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/get_a_kit.html "information on how to get a kit") | [Get a Kit](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/get_a_kit.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/make_a_plan.html "information on how to make a plan") | [Make a Plan](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/make_a_plan.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/get_informed.html "how to get information") | [Be Informed](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/get_informed.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/biological.html "information on how to plan for a biological attack") | [Biological Threat](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/biological.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/chemical.html "information on how to plan for a chemical attack") | [Chemical Threat](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/chemical.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/explosions.html "information on how to prepare for an explosion") | [Explosions](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/explosions.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/nuclear.html "information on how to prepare for a nuclear blast") | [Nuclear Blast](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/nuclear.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/radiation.html "information on what to do about radiation") | [Radiation Threat](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/radiation.html) |   
+[](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/natural_disasters.html "information on what to do about a natural disaster") | [Natural Disasters](https://web.archive.org/web/20050403210812id_/http%3A//www.ready.gov/natural_disasters.html) |   
 |  |  |   
 ---|---|---  
 |   
