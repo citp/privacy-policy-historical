@@ -1,51 +1,37 @@
-> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621193700id_/http%3A//www.analog.com/Analog_Root/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209182337id_/http%3A//www.analog.com/Analog_Root/static/privacy.html) for the most accurate reproduction.*
 
-# Analog Devices: Privacy
+# Analog Devices: : Privacy and Security Statement
 
-|  |   
----  
-|   
-  | 
+**Collection of Personal Information**
 
-| 
+Visitors to the Analog Devices, Inc. ("ADI") Web site (the "Site") are not required to reveal any personal information in order to use many of the features of the Site. However, in some instances, ADI requests that users provide certain personal information in order to facilitate future communications, make a purchase of Analog Devices' products, or receive software, tools, information or other materials from ADI. This policy sets forth the practices that Analog Devices intends to follow with respect to such personal information.
 
-### Privacy  
-  
----  
-  
-**Policy on Privacy of Personal Information**
+**Can I decline the collection of personal information?**
 
-Analog Devices frequently communicates with customers, users and others through its site on the World Wide Web. Visitors to Analog Devices' Web site are not required to reveal any information about themselves. However, in some instances, Analog Devices' Web site may give visitors the opportunity to provide information in order to facilitate future communications, make a purchase of Analog Devices' products, or receive Analog Devices information and materials. This policy sets forth the practices that Analog Devices intends to follow with respect to such personal information.  
-  
-   
-  
-**When will the Analog Devices Web site collect information from me?**
+To the extent that ADI seeks personal information from you, you will be prompted to provide that information, but you will always have the choice to decline to provide the information and not receive the services or materials from ADI.
 
-The Analog Devices Web site does not automatically collect information about visitors. To the extent that Analog Devices seeks information from you, you will be prompted to provide that information; you will be told what use Analog Devices plans to make of the information; and you will be given the opportunity to decline to provide the information.  
-  
-   
-  
-**What uses does Analog Devices make of this information?**
+**Cookies**
 
-The sole use Analog Devices will make of any information you provide will be to facilitate future communications with you, assist you in making a purchase of Analog Devices' products, or respond to your request for Analog Devices information and materials. Analog Devices will not provide your information to any third party. Under certain circumstances, your information will be forwarded to Analog Devices authorized sales representatives and distributors for action.  
-  
-   
-  
+The ADI Site is continuously being improved as far as performance, navigation and ease of use. In order to help us meet this commitment, we use cookies to understand how the Site is being navigated and used. A cookie is a tiny piece of text placed on your computer's hard drive. The purpose is to let ADI know when you visit the Site, however ADI does not collect any personal information from the use of cookies that you have not already disclosed.
+
+The advantage to you as a visitor on the Site is that information requested by us for purchasing will be pre-filled for you based on the ID we collect via a cookie. This saves you time in filling out information over and over again when visiting the Site and requesting information or samples, or signing up for myAnalog, or any other function within the Site that requires registration.
+
+If you have any further questions, please feel free to contact [external.webmaster@analog.com](mailto:external.webmaster@analog.com).
+
+**What uses does ADI make of personal information?**
+
+ADI will use the information you provide for legitimate business purposes, such as to facilitate future communications with you, assist you in making a purchase of ADI products, or respond to your request for ADI information and materials. ADI does not generally share your personal information with third parties, however authorized third parties may be given access to your personal information in connection with fulfillment of legitimate business uses which are designed to serve you, such as shipping products or materials requested by you. In addition, ADI reserves the right to collect and share personal information as part of (i) an investigation or response to a violation of ADI terms and conditions of use, fraud, illegal activities or other actions or threats which may damage ADI, the Site, or other property, or injure or threaten ADI's customers or other persons, (ii) compliance with a court order, subpoena, government investigation or other legal process, or (iii) transfer or sale of a business unit.
+
 **What if I change my mind?**
 
-If at any time you wish to have Analog Devices remove your information from its database, please notify us at [external.webmaster@analog.com](mailto:external.webmaster@analog.com). Similarly, if you need to update or expand upon any other information you have provided to us, you can re-enter that information at the relevant prompt, or notify us by e-mail of this additional information.  
-  
-   
-  
-**What does Analog Devices do to protect the information I provide?**
+If at any time you wish to have ADI remove your information from its database, or to make other changes, please notify ADI at [external.webmaster@analog.com](mailto:external.webmaster@analog.com). Similarly, if you need to update or expand upon any other information you have provided to ADI, you can re-enter that information at the relevant prompt, or notify ADI by e-mail of this additional information at [external.webmaster@analog.com](mailto:external.webmaster@analog.com).
 
-Analog Devices provides three levels of protection. First, access to the servers that store your information is limited to those Analog Devices employees with a need to know the information. Second, Analog Devices' servers use commercially-available security measures to prevent unauthorized access. Finally, when you purchase Analog Devices products through our Web site, Analog Devices will take reasonable steps to establish a secure connection to your Web browser. Analog Devices does not use credit card information for any purpose other than to process payment for sales, and does not provide your credit card information to anyone else.
+**Security Statement: What does ADI do to protect the information I provide?**
 
-Analog Devices is committed to the responsible use of the World Wide Web. Analog Devices reserves the right to change or amend this policy from time to time, but will post any such changes on this site.  
-  
-|   
----|---  
-|   
-|  [Privacy](http://www.analog.com/Analog_Root/static/privacy.html) | [About This Site](http://www.analog.com/Analog_Root/static/about.html) | [Contact ADI](http://www.analog.com/Analog_Root/static/contact.html) | [Site Map](http://www.analog.com/Analog_Root/sitePage/sectionSiteMap/) | [Registration](http://products.analog.com/membership/formslogin.asp)  
-| © 1995-2004 Analog Devices, Inc. All Rights Reserved  
-| 
+ADI provides three levels of protection. First, access to the servers that store your information is limited to those ADI employees and third parties with a need to know the information. Second, ADI servers use commercially-available security measures to prevent unauthorized access. Finally, when you purchase ADI products through our Web site, ADI will take reasonable steps to establish a secure connection to your Web browser. ADI does not use credit card information for any purpose other than to process payment for sales, and does not provide your credit card information to anyone other than the financial services institutions and contractors responsible for the confidential processing of your payment.
+
+While ADI will continue to exercise diligence and use reasonable measures to protect the security of this Site, ADI cannot warrant that all internet communications will be absolutely secure.
+
+ADI is committed to the responsible use of the World Wide Web. ADI reserves the right to change or amend this policy from time to time, but will post any such changes as part of its privacy and security statement on this Site.
+
+Last updated: May 20, 2004 
