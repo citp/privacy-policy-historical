@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013030607id_/http%3A//qspace.iplace.com/cobrands/289/privacy_cic.asp%3Fsc%3D11000000%26af%3D%26br%3D%26cl%3D0114) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416135948id_/http%3A//qspace.iplace.com/cobrands/289/privacy_cic.asp%3Fsc%3D11000000%26af%3D%26br%3D%26cl%3D0114) for the most accurate reproduction.*
 
 # Free Online Credit Report - credit check monitoring, credit rating, credit scores
 
@@ -70,9 +70,9 @@ Top
 
 **Cookies and Third Party Advertisers**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Currently, we use cookies in the process of delivering online credit reports and to track aggregate traffic statistics on our site. However, when you exit your credit report, all cookies that were used for delivery are then deleted. We also use cookies to make sure you do not see the same ad repeatedly and to deliver content specific to your interests. Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+A cookie is a piece of data stored on the user's hard drive containing information about the user. We do not use cookies on QSpace.Com. Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
 
-ConsumerInfo.com works with a third party to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by ConsumerInfo.com and does not cover the use of cookies by any advertisers. ConsumerInfo.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how 24/7 manages the privacy of information in conjunction with serving ads on this site go to [www.247media.com](http://www.247media.com/).   
+ConsumerInfo.com works with third parties to serve ads on our websites. These ads may contain cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and gather completely anonymous information. This policy only covers the use of cookies and action tags by ConsumerInfo.com on QSpace.Com and does not cover the use of cookies by any advertisers. ConsumerInfo.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how 24/7 manages the privacy of information in conjunction with serving ads on QSpace.com go to [www.247media.com](http://www.247media.com/?NETSCAPE_LIVEWIRE_ID=19D1D86BF157BE9CEABD0C6251CAADE4001ACDC1). If you would like more information about Avenue A's privacy practices and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).   
   
 Top
 
@@ -167,7 +167,7 @@ Our users are given the opportunity to opt-out of having their information used 
 
 Because we want our users to feel completely comfortable using ConsumerInfo.com's services, we provide you with various opportunities to control how the information you provide to us is used. This site gives you the option to cancel our service and not receive future communications from us, to direct that we not share your information with third parties (in cases where you previously granted us permission to share such information--we do not share users' personal information with third parties without their permission), and to change your profile information. 
 
-Users who no longer wish to receive email newsletters or promotional materials from our partners or us may opt out of receiving these communications by emailing us at [feedback@consumerinfo.com](mailto:feedback@consumerinfo.com).   
+Users who no longer wish to receive email newsletters or promotional materials from our partners or us may opt out of receiving these communications by emailing us at [optouts@consumerinfo.com](mailto:optouts@consumerinfo.com).   
   
 Top
 
@@ -175,8 +175,8 @@ Top
 
 If you have any questions about this privacy statement or the privacy practices of this site, you can contact [Privacy@ConsumerInfo.Com](mailto:Privacy@ConsumerInfo.Com). If you have questions regarding our products and services or your order through this Web site, you can contact [CustServ@ConsumerInfo.Com](mailto:CustServ@ConsumerInfo.Com).   
   
-[](https://web.archive.org/web/20021013030607id_/http%3A//qspace.iplace.com/cobrands/289/product14.asp)   [](https://web.archive.org/web/20021013030607id_/http%3A//qspace.iplace.com/cobrands/289/product2.asp?sc=11000000)  
+[](https://web.archive.org/web/20030416135948id_/http%3A//qspace.iplace.com/cobrands/289/product14.asp)   [](https://web.archive.org/web/20030416135948id_/http%3A//qspace.iplace.com/cobrands/289/product2.asp?sc=11000000)  
   
 
 
-Server: 14_3 | Time: 10/12/2002 8:06:09 PM 
+Server: 14_3_0 1100 | Time: 4/16/2003 6:59:25 AM
