@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205111817id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602203110id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.*
 
 # NOVELL: Privacy
 
-  
+Our approach to responsible information handling is founded on the basis of the Fair Information Practices, the cornerstone of which is providing notice of our information practices and other privacy aspects in order to allow individuals to make informed decisions regarding personally identifiable information. Furthermore, Novell has adopted leading industry practices as set forth by the [Online Privacy Alliance](http://www.privacyalliance.org/), [Direct Marketing Association](http://www.the-dma.org/), and [TRUSTe](http://www.truste.org/). As a sponsor and member of TRUSTe, you will see the TRUSTe seal on many of our web sites and on pages that request information from you. You may click through the seals to reach the site privacy policy or validate our privacy certification for that site.
 
-
-Novell Online Privacy Policy 
-
-We at Novell value the relationship we have with our customers and web site visitors, and are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web sites, access our online services, or participate in our online offerings. Although our web sites have unique services and offerings, they share a similar privacy philosophy. Therefore, we drafted this corporate online privacy policy to represent Novell's general privacy approach to the information practices of our web sites. In addition to this privacy policy, you can find specific web site privacy statements that provide more detailed information about the web site data handling practices-see links below: 
-
-Novell Privacy Principles 
-
-Our approach to responsible information handling is founded on the basis of the Fair Information Practices, the cornerstone of which is providing notice of our information practices and other privacy aspects in order to allow individuals to make informed decisions regarding personally identifiable information. Furthermore, Novell has adopted leading industry practices as set forth by the [Online Privacy Alliance](http://www.privacyalliance.org/), [Direct Marketing Association](http://www.the-dma.org/), and [TRUSTe](http://www.truste.org/). As a sponsor and member of TRUSTe, you will see the TRUSTe seal on many of our web sites and on pages that request information from you. You may click through the seals to reach the site privacy policy or validate our privacy certification for that site. 
-
-As a licensee of TRUSTe, we have established the following principles that govern our information practices and other privacy aspects of our web sites: 
+As a licensee of TRUSTe, we have established the following principles that govern our information practices and other privacy aspects of our web sites:
 
   * We provide you notice of our information practices. 
   * We offer you choices regarding how personally identifiable information you provide us may be used. 
@@ -23,26 +14,26 @@ As a licensee of TRUSTe, we have established the following principles that gover
 
 
 
-WE PROVIDE YOU NOTICE OF OUR INFORMATION PRACTICES.
+we provide you notice of our information practices
 
-When you visit our web sites, information may be requested of you in order for you to participate more fully in our online offerings and services. When we collect information from you, we let you know what is being collected, how it is collected, for what purpose(s) it is collected, and to whom it may be disclosed. We also identify the information that is necessary to fulfill your request. Whenever we request additional or optional information, we mark those as voluntary so that you know it is not required to provide the requested service. 
+When you visit our web sites, information may be requested of you in order for you to participate more fully in our online offerings and services. When we collect information from you, we let you know what is being collected, how it is collected, for what purpose(s) it is collected, and to whom it may be disclosed. We also identify the information that is necessary to fulfill your request. Whenever we request additional or optional information, we mark those as voluntary so that you know it is not required to provide the requested service.
 
-WE OFFER YOU CHOICES REGARDING HOW PERSONALLY IDENTIFIABLE INFORMATION YOU PROVIDE TO US MAY BE USED.
+If we change our information handling practices or other privacy aspects, we will post a prominent notice of our homepage those changes on this privacy statement, at least 30 days prior to their the implementation. You will have a choice as to whether or not we use your information in this different manner.
 
-You may browse our web sites without providing personal information to us. However, if you want to receive or our online products and services, or participate in other online activities (e.g., surveys and contests), we may request that you provide us with information about yourself. Providing this information is optional and not a requirement to visit our sites. When you provide personally identifiable information to us that may be used for secondary purposes (i.e., uses not related to the purpose for which the information was collected), we give you the opportunity to opt-out of such uses. 
+we offer you choices regarding how personally identifiable information your provide us may be used
 
-WE STRIVE TO PROVIDE YOU THE OPPORTUNITY TO UPDATE OR CORRECT THE CONTACT INFORMATION THAT YOU HAVE PROVIDED TO US.
+You may browse our web sites without providing personal information to us. However, if you want to receive or our online products and services, or participate in other online activities (e.g., surveys and contests), we may request that you provide us with information about yourself. Providing this information is optional and not a requirement to visit our sites. When you provide personally identifiable information to us that may be used for secondary purposes (i.e., uses not related to the purpose for which the information was collected), we give you the opportunity to opt-out of such uses.
 
-We have a variety of mechanisms for you to modify and update the contact information that you have provided to us and are in the process of developing more mechanisms to update your personal data. When you visit our web sites, we let you know in our privacy statements how you may currently modify the contact information that you have provided. 
+we strive to provide you the opportunity to update or correct the contact information that you have provided to us
 
-WE PROTECT PERSONALLY IDENTIFIABLE INFORMATION.
+We have a variety of mechanisms for you to modify and update the contact information that you have provided to us and are in the process of developing more mechanisms to update your personal data. When you visit our web sites, we let you know in our privacy statements how you may currently modify the contact information that you have provided.
 
-We recognize industry standards and employ security safeguards to protect personally identifiable information from unauthorized access and misuse. Furthermore, we take measures to ensure that the information used to process your request is accurate and current. See our site privacy statements for details about how we protect information. 
+we protect personally identifiable information
 
-WE PROVIDE YOU WITH MEANS TO CONTACT US ABOUT OUR INFORMATION PRACTICES AND OTHER PRIVACY ASPECTS.
+We recognize industry standards and employ security safeguards to protect personally identifiable information from unauthorized access and misuse. Furthermore, we take measures to ensure that the information used to process your request is accurate and current. See our site privacy statements for details about how we protect information.
 
-We are committed to protecting the privacy of our customers and web site visitors. Should you have any questions or concerns about this privacy policy or the practices of our web sites, please contact us at [privacy@novell.com](mailto:privacy@novell.com). 
+we provide you with means to contact us about our information practices and other privacy aspects
 
-[](https://www.truste.org/validate/2922)
+We are committed to protecting the privacy of our customers and web site visitors. Should you have any questions or concerns about this privacy policy or the practices of our web sites, please contact us at [privacy@novell.com](mailto:privacy@novell.com).
 
-Novell is a premier sponsor of **TRUSTe** and a member of the **TRUSTe privacy program** , an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting **TRUSTe's** principles of fair information practices. Questions regarding this statement should be directed to [privacy@novell.com](mailto:privacy@novell.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact <http://www.truste.org/users/users_watchdog.html>. 
+Novell.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact [privacy@novell.com](mailto:privacy@novell.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe http://www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
