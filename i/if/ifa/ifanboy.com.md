@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619120656id_/http%3A//www.ifanboy.com/view.cgi/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2002-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020625120941id_/http%3A//www.ifanboy.com/view.cgi/privacy.html) for the most accurate reproduction.*
 
 # iFanboy: iFanboy Privacy Policy
 
