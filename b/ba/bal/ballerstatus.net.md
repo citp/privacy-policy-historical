@@ -1,31 +1,22 @@
-> *The following text is extracted and transformed from the ballerstatus.net privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerstatus.net privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208061258id_/http%3A//www.ballerstatus.net/default.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
-# ballerSTATUSdotNET
+# BallerStatus.net: Hip-Hop
 
-[ ](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/home.shtml) |  [ ](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/releasedates.shtml) |  [ ](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/interviews.shtml) |  [ ](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/reviews.shtml) |  [ ](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/theshop.shtml) |  [ ](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/artistprofiles.shtml) |  [ ](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/forums.shtml) |  [ ](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/links.shtml) |  [ ](https://web.archive.org/web/20030210160021id_/http%3A//www.ballerstatus.net/contactus.shtml)  
-  
-|  |  | 
+We respect the privacy of our newsletter subscribers, customers, contacts, those who answer our surveys, and those who fill out our questionnaires. It is our policy: Choice and Consent: To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request.
 
-**Privacy Policy**  
-Here you will find the terms and conditions of our Privacy Policy and how it is being used.\---------------------------------------------------------------------------------------------------  
-Keeping the information of our registered members private is one of our main objectives.
+**Third Party Use**  
+To not sell, rent, or loan our subscriber or customer lists to third parties for e-mail marketing. While we sell advertising in our e-mail publications to other companies, we never allow third parties any other use of these subscriber lists.
 
-**Privacy.**
+**Unsubscriptions**  
+To send our periodicals only to those who request them (that is, opt-in). We immediately unsubscribe those who request it through convenient unsubscribe links in every e-mailing. Our welcome message to subscribers and every issue of our newsletters/e-zine's clearly explain how to unsubscribe. We keep our subscription lists as clean as possible to prevent obsolete e-mail addresses which use unnecessary bandwidth.
 
-The information that is collected by us, to better understand and suit your online experience is your name, age, gender and e-mail address. In accordance with the varies contests that are being hosted on our website in association with the third party group/company (located within BallerStatus.net) might also ask you to provide your current postal address and telephone number.
+**Cookies**  
+To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies to: (a) to help rotate banner advertising; (b) to identify shoppers with their shopping carts; (c) to make it easy to order a second time; (d) to allow subscribers to store passwords in cookies if they desire; and (e) to give proper credit for sales made through links on our affiliates' sites. We do not collect or use information from cookies to develop a profile about our visitors or shoppers.
 
-Please keep in mind that your personal information will never be shared, disclosed or sold to a third party outside of BallerStatus.net, unless you specifically indicate to do so during the registration process.
+**Security**  
+To store subscriber and password files with personal information in a secure manner. We store such files in areas not accessible to Web browsers, behind password protection, or off-line.
 
-**Cookies.**
+**Termination**  
+To continue this policy beyond the termination of our company. If a majority portion of the assets of our company were to be acquired by another organization, that might include our subscriber and other lists, but only as part of a clear agreement binding that organization to abide by the spirit and letter of our privacy policy.
 
-The cookies are pieces of information which are being used to make your stay on our website as smooth and worthwhile as possible, as well as provide us with the demographics of your stay on BallerStatus.net. Only already provided information is being collected. All cookies are stored and can be found on your local hard drive.
-
-**Updates.**
-
-Although the information you provide during the registration might later be modified by yourself, the total deletion of the account could only be accomplished by the webmaster and/or administrator of the website. If at any time you decide to delete your account completely, please contact us at [**jayo@ballerstatus.net**](mailto:jayo@ballerstatus.net).Whenever you register your account, you are assigned a password in addition to your username, please know that you and only you are expected to keep all of the information, including username and password as confidential from others as possible, at no time are we responsible for your handling of the aforementioned information.However, at any time BallerStatus.net has the right to delete/terminate your account and keep you from registering with our services in the future.All provided information is being monitored only by the administrators of BallerStatus.net
-
-  
-  
-  
----|---|---  
- 
+If you have any concerns or questions about our privacy policy or information collected on our sites, please contact us at [info@ballerstatus.net](mailto:info@ballerstatus.net)
