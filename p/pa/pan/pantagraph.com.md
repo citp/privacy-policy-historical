@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211221016id_/http%3A//www.pantagraph.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantagraph.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621161216id_/http%3A//www.pantagraph.com/info/privacy.html) for the most accurate reproduction.*
 
 # Pantagraph.com - Privacy Policy
 
@@ -28,9 +28,9 @@ E-mails or other electronic submissions that indicate they are intended as lette
 
 Pantagraph.com opinion polls allow users to submit their opinions on various topics. No submitted opinion is linked with a user's personal identifiable information; poll submissions are completely anonymous.
 
-**"Recommend this page to a friend"**
+**"E-mail this page"**
 
-Users can forward a story or page to someone else by clicking the link at the bottom of some pages. The user must provide his/her email address to tell the recipient who sent the story. Users can also choose to include a message. None of this information is used or tracked for any other purpose.
+Users can forward a story or page to someone else by clicking the "E-mail this page" link at the bottom of most pages. The user must provide his/her email address to tell the recipient who sent the story. Users can also choose to include a message. None of this information is used or tracked for any other purpose.
 
 **Contests**
 
@@ -38,7 +38,7 @@ Pantagraph.com occasionally administers contests in which participants must regi
 
 **Browser cookies**
 
-Cookies are tiny information files sent by some Web pages and stored by your browser. A browser stores a cookie so that it remembers whether or not to take an action the next time you visit a page. For example, a cookie might tell a pop-up window not to appear the next time you visit. Pantagraph.com uses browser cookies only to enhance functionality for visitors. Unless otherwise explicitly stated, we do not use cookies to collect a user's personal identifiable information. From our [cookie management page](https://web.archive.org/web/20021211221016id_/http%3A//www.pantagraph.com/info/cookiemanage.html) you can manage certain cookies to prevent certain pop-up windows from appearing.
+Cookies are tiny information files sent by some Web pages and stored by your browser. A browser stores a cookie so that it remembers whether or not to take an action the next time you visit a page. For example, a cookie might tell a pop-up window not to appear the next time you visit. Pantagraph.com uses browser cookies only to enhance functionality for visitors. Unless otherwise explicitly stated, we do not use cookies to collect a user's personal identifiable information. From our [cookie management page](https://web.archive.org/web/20030621161216id_/http%3A//www.pantagraph.com/info/cookiemanage.html) you can manage certain cookies to prevent certain pop-up windows from appearing.
 
 **Subscribing to the paper or placing a classified ad**
 
