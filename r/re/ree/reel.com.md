@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reel.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413112122id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reel.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218001346id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/privacy) for the most accurate reproduction.*
 
 # Reel.com: Privacy Policy
 
-Reel.com created this privacy statement to describe our commitment to your privacy. We seek to protect your private information so that you have a pleasurable shopping and viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. 
+_Updated: October 11, 2001_
 
-Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at privacy@reel.com. 
+Reel.com created this privacy statement to describe our commitment to your privacy. We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. We welcome and encourage questions, comments, and suggestions. Please contact us at [privacy@reel.com](mailto:privacy@reel.com) with any questions. 
 
 This policy discusses the following topics: 
 
@@ -21,7 +21,10 @@ _Our Policy For Guests Under Age 18_
 _TrustE and Enonymous_  
 
   * Choices You Have  
-_How You Can Change Your Information and Preferences_  
+_How to Update Your Personally Identifiable Information, Cancel Your Subscription to Our Newsletter, or Disable Cookies_  
+
+  * Changes to this Privacy Policy  
+_Information about Additions and Deletions to this page_  
 
   * Contact Information  
 _How You Can Contact Us_  
@@ -32,22 +35,28 @@ _How You Can Contact Us_
 **Personally Identifiable Information**
 
 _What Personally Identifiable Information Is_  
-Personally identifiable information is your name, address, e-mail address, phone number and credit card information. 
+Personally identifiable information is your name, address, e-mail address, phone number, and credit card information. 
 
 _Where We Collect Personally Identifiable Information_  
-Reel.com collects personally identifiable information when you (1) register or make a purchase, (2) subscribe to our newsletter, fanclubs, or magazine, (3) enter sweepstakes, trivia or other contests, (4) buy gift certificates, make referrals or use the "tell a friend" option, and (5) submit feedback, questions or "contact us" messages. 
+Reel.com collects personally identifiable information when you (1) subscribe to our newsletter, (2) enter sweepstakes, trivia, or other contests, (3) buy gift certificates, make referrals, or use the "tell a friend" option, and (4) submit feedback, questions, or "contact us" messages. 
+
+For more information about where we collect personally identifiable information, please [click here](https://web.archive.org/web/20011218001346id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
 
 _How We Use Personally Identifiable Information_  
 Reel.com uses your personally identifiable information to personalize your experience on our Web site and to contact you. 
 
 Reel.com also compiles aggregate data from all of our customers to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. Reel.com does not combine your personally identifiable information with information about pages visited, purchases made, or any other clickstream data. 
 
+For more information about how we use personally identifiable information, please [click here](https://web.archive.org/web/20011218001346id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
+
 _Who We Disclose Personally Identifiable Information To_  
-Reel.com will not sell, rent, trade or disclose your personally identifiable information to anyone except as explained in this policy. Reel.com may disclose some personal information to outside companies who help Reel.com with the administration and delivery of purchases, newsletters, the Reel magazine, promotional games, trivia contests and sweepstakes. For example, a company who administers a sweepstakes for us may use your e-mail address to update you on your status in the sweepstakes. Or, our newsletters or the Reel magazine may be distributed by another company who will use your e-mail or shipping address for delivery. 
+Reel.com will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Reel.com may disclose some personal information to outside companies who help Reel.com with the administration and delivery of newsletters, promotional games, trivia contests, and sweepstakes. For example, a company who administers a sweepstakes for us may use your e-mail address to update you on your status in the sweepstakes. Or, our newsletters may be distributed by another company that will use your e-mail or shipping address for delivery. 
 
-The Reel.com Web site contains links to other Web sites. Although we **do not** provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the Reel.com Web site. Reel.com is not responsible for the privacy policies, practices or content of Web sites with links on our site. Also, shopping services for our customers are now provided by **buy.com** through a link on our site. When you make a purchase, you will enter your personally identifiable information directly on the **buy.com** Web site. You should review **buy.com** 's privacy policy if you choose to make purchases. 
+The Reel.com Web site contains links to other Web sites. Although we **do not** provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the Reel.com Web site. Reel.com is not responsible for the privacy policies, practices, or content of Web sites with links on our site. Also, shopping services for our customers are now provided by **800.com** through a link on our site. When you make a purchase, you will enter your personally identifiable information directly on the **800.com** Web site. Reel.com's privacy policy will not apply on **800.com** 's Web site. You should review **800.com** 's [privacy policy](http://www.800.com/reel.asp?keycode=158316) if you choose to make purchases. 
 
-Aggregate statistical data gathered from customers, but NOT personally identifiable information, may be shared with our [Affiliate Program](https://web.archive.org/web/20010413112122id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=affiliates) affiliates in order to calculate sales information. Reel.com may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to Reel.com or others. 
+Aggregate statistical data gathered from customers, but NOT personally identifiable information, may be shared with our [Associate Program](https://web.archive.org/web/20011218001346id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=affiliates) associates in order to calculate sales information. Reel.com may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to Reel.com or others. 
+
+For more information about the disclosure of personally identifiable information to select companies, please [click here](https://web.archive.org/web/20011218001346id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
 
 **Cookies**
 
@@ -55,34 +64,49 @@ _What A Cookie Is_
 A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. Cookies store information about your use of a particular Web site or service and are typically used to make services more convenient and personalized. Most cookies are "session cookies," which are automatically deleted whenever you leave a Web site, although some cookies remain on your computer until you remove them. 
 
 _How We Use Cookies_  
-We use cookies (1) to provide a personalized service, (2) to estimate the number of visitors to our Web site, (3) to measure general traffic patterns, (4) to notify you of your status in promotional contests or sweepstakes, (5) to store the items you've placed in your shopping cart, and (6) to help us determine which of our [Affiliate Program](https://web.archive.org/web/20010413112122id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=affiliates) affiliates make customer referrals. 
+We use cookies (1) to estimate the number of visitors to our Web site, (2) to measure general traffic patterns, and (3) to help us determine which of our [Associate Program](https://web.archive.org/web/20011218001346id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=affiliates) associates make customer referrals. 
 
-Companies that place ads on the Reel.com Web site may also use their own cookies to help determine the frequency and placement of particular ads (please see [Advertising](https://web.archive.org/web/20010413112122id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/advertising)). Your browser controls how cookies are used and can be set to not allow them. However, it is possible that some parts of the Reel.com site may not function properly if your browser refuses our cookies. 
+Companies that place ads on the Reel.com Web site — including, but not limited to DoubleClick, X10, Avenue A, Mediaplex, Ascendo, and Advertisting.com — may also use their own cookies to help determine the frequency and placement of particular ads (please see [Advertising](https://web.archive.org/web/20011218001346id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/advertising)). Your browser controls how cookies are used and can be set to not allow them. However, it is possible that some parts of the Reel.com site may not function properly if your browser refuses our cookies. 
+
+For more information about cookies, how we use them, and how to access your browser's cookie settings, please [click here](https://web.archive.org/web/20011218001346id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
 
 **Children**   
 _Our Policy For Guests Under Age 18_
 
-Reel.com is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children. Each visitor confirms that he or she is at least 18 years of age upon registration or the purchase of a product. Visitors under age 18 should not submit any personally identifiable information to Reel.com. 
+Reel.com is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children. Each visitor confirms that he or she is at least 18 years of age upon registration for our newsletter. Visitors under age 18 should not submit any personally identifiable information to Reel.com. 
 
 **Privacy Organizations**  
-_TRUSTe and Enonymous.com_
-
-Reel.com's Web site privacy is reviewed by the following organizations: 
+_TRUSTe and Enonymous.com_  
+Reel.com's Web site privacy is reviewed by the following organizations:
 
 _TRUSTe_  
-Reel.com is a member of [TRUSTe](http://www.truste.com/), (www.truste.com) an Internet watchdog organization that monitors Web sites' compliance with their posted privacy policies. The TRUSTe seal on the Reel.com Web site further guarantees our commitment to maintaining a secure and private dialogue with our customers. 
+Reel.com is a member of [TRUSTe](http://www.truste.org/users/users_watchdog.html), (www.truste.com) an independent Internet watchdog organization that monitors Web sites' compliance with their posted privacy policies. The TRUSTe seal on the Reel.com Web site further guarantees our commitment to maintaining a secure and private dialogue with our customers. 
 
 _Enonymous.com_  
-[Enonymous.com](http://www.enonymous.com/auction.htm) (www.enonymous.com) rated Reel.com as a 4 Star Privacy Site. 
+[Enonymous.com](http://www.enonymous.com/) (www.enonymous.com) rated Reel.com as a 4-Star Privacy Site. 
+
+For more information about other Web sites with online privacy information, please [click here](https://web.archive.org/web/20011218001346id_/http%3A//www.reel.com/reel.asp%3Fnode%3Dabout/reel.asp?node=about/privacy/detailed). 
 
 **Choices You Have**  
-_How You Can Change Your Information and Preferences_
+_How to Update Your Personally Identifiable Information, Cancel Your Subscription to Our Newsletter, or Disable Cookies_
 
-_Use Of Your Information_  
-From time to time, Reel.com may contact you about our services and/or products. If you request it, you may also receive our e-mail newsletter, the Reel magazine, or promotional updates. 
+_How To Update Your Personally Identifiable Information_  
+To update or change the personally identifiable information you gave us, send an email with the new information to [privacy@reel.com](mailto:privacy@reel.com). 
+
+_How To Cancel Your Subscription to Our Newsletter_  
+If you wish to unsubscribe from the Hollywood NewsReel mailing list, please [Click Here](http://host1.4at7.net/cgi-bin/a2bv/host_pages/rel/unsub/en_rel.html). 
 
 _Cookie Notification and Disabling_  
-Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the Reel.com Web site may not function properly if your browser is set to reject cookies. 
+Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the Reel.com Web site may not function properly if your browser is set to reject cookies.   
+Some of the companies that place advertisements on our site allow you to "opt-out" of receiving their cookies:  
+For DoubleClick's "Opt-Out" link, please [Click Here](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp).  
+For Avenue A's "Opt-Out" link, please [Click Here](http://www.avenuea.com/info/prBlockingCookies.asp).  
+For Media Plex's "Opt-Out" link, please [Click Here](http://www.mediaplex.com/mp/privacy/privacy_f.html).  
+
+
+**Changes to this Privacy Policy**
+
+Please return to this page from time to time, as we will be updating this statement as our services continue to grow. If we make substantial changes in the way we collect or use your personally identifiable information, we will notify you by posting a prominent announcement on our pages prior to implementation. 
 
 **Contact Information**
 
