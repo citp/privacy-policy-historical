@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotwheels.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413001915id_/http%3A//hotwheels.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwheels.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201234901id_/http%3A//www.hotwheels.com/policy.asp) for the most accurate reproduction.*
 
 # Mattel, Inc. Website Policies
 
@@ -95,14 +95,14 @@ East Aurora, NY 14052
 ****
 
 In the U.S.: 800-524-TOYS (800-524-8697)  
-In Canada: 800-665-6288
+In Canada: 800-665-6288  
+In Australia: 1300 135 312  
+In the UK: 01628 500303
 
 For other contact information please visit:
 
 **
 
-[www.service.mattel.com](http://www.mattel.com/corporate/service/index.asp) ****
+[www.service.mattel.com](http://www.service.mattel.com/) ****
 
- **** [Legal Terms / Conditions](https://web.archive.org/common/hwlegal.asp)  
-Use of this site signifies your acceptance of the terms and conditions.  
-© 1998 Mattel, Inc. All Rights Reserved.
+ ****
