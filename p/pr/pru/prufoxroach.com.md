@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prufoxroach.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211032900id_/http%3A//prufoxroach.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prufoxroach.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616145304id_/http%3A//www.prufoxroach.com/privacy.htm) for the most accurate reproduction.*
 
 # Prudential Fox & Roach Realtors - Privacy Statement
 
