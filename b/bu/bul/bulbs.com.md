@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216044900id_/http%3A//bulbs.com/default.asp%3Fpage%3Dhome%26pagespec%3Dyourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405114906id_/http%3A//www.bulbs.com/default.asp%3Fpage%3Dhome%26pagespec%3Dyourprivacy) for the most accurate reproduction.*
 
 # bulbs.com - Buy Light Bulbs From The Web's #1 Light Bulb Superstore!
 
@@ -111,15 +111,15 @@ If you have subscribed to our email newsletter and would like to change the emai
 
 If you have subscribed to our email newsletter, follow the instructions at the end of any newsletter to remove your email address from our subscriber list.
 
-If you would like your name removed from our active records, please send email to [newsletter@bulbs.com](mailto:newsletter@bulbs.com).
+If you would like your name removed from our active records, please send email to [newsletter@bulbs.com](mailto:customerservice@bulbs.com).
 
 7\. How do I contact bulbs.com with questions about this policy?
 
 If you have any questions about this privacy statement, the practices of our site, or your dealings with this web site, you can contact:
 
-Tom Roy  
+Mike Connors  
 bulbs.com  
 40 Jackson St.  
 Suite 2000  
 Worcester, MA 01608  
-[troy@bulbs.com](mailto:troy@bulbs.com) | 
+[mconnors@bulbs.com](mailto:mconnors@bulbs.com) | 
