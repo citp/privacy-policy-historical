@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201214400id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605135542id_/http%3A//www.dvdtalk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for DVD Talk
 
@@ -6,39 +6,56 @@
 **DVD TALK FORUM**  
 ---  
 **Forum Area:**  
-**SHOP**  
+**DVD TALK SITE**  
 • [DVD Release List](http://www.dvdtalk.com/bargain.html)  
-• [Coupons](http://www.dvdtalk.com/coupon.html)  
-• [Store Ratings](http://www.dvdtalk.com/store.html)  
-• [Store List](http://www.dvdtalk.com/support.html)  
-• [Customer Service #'s](http://www.dvdtalk.com/csr.html)  
-• [Movie Posters](http://www.dvdtalk.com/posters.html)  
-• [Price Search](http://www.dvdtalk.com/price.html)  
- **DVD REVIEWS**  
-Search reviews:  
-
-
-• [New DVD Reviews](http://www.dvdtalk.com/reviews/index.php)  
-• [Collector Series DVD's](http://www.dvdtalk.com/reviews/index.php?orderBy=Rating&searchText=&start=0&letter=)  
-• [DTS Reviews](http://www.dvdtalk.com/reviews/index.php?orderBy=Date&searchText=dts&start=0&letter=)  
-  
-**INTERACT**  
+• [DVD Reviews](http://www.dvdtalk.com/reviews/index.php)  
+• [DVD Savant](http://www.dvdtalk.com/dvdsavant/spec.html)  
+• [CineSchlock-O-Rama](http://www.dvdtalk.com/cineschlock/index.html)  
 • [DVD Talk Forum](http://www.dvdtalk.com/forum.html)  
-• [Online Chat](http://www.dvdtalk.com/chat.html)  
-**RESOURCE**  
-• [Best DVDs of 2000](http://www.dvdtalk.com/bestdvd2000.html)  
-• [DVD Interviews](http://www.dvdtalk.com/dvdinterviews.html)  
-• [DTS Release List](http://www.dvdtalk.com/dts.html)  
+• [DVD Talk Price Search](http://www.dvdtalk.com/price.html)  
+• [DVD Talk Chat](http://www.dvdtalk.com/chat.html)  
+• **[DVD Talk Newsletter](http://www.dvdtalk.com/subscrbe.html)**  
+**SHOP**  
+• [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/dvdtalk) ([DVD](http://www.amazon.com/exec/obidos/redirect?tag=dvdtalk&path=subst/video/dvd/dvd.html))  
+• [Best Buy](http://service.bfast.com/bfast/click?bfmid=30991737&siteid=38641856=&bfpage=global468x60)  
+• [Buy.com](http://click.linksynergy.com/fs-bin/stat?id=cZdGXyuEAtc&offerid=13541.10000006&type=3&subid=0)  
+• [CD Now](http://www.cdnow.com/from=cr-2225175-1)  
+• [DeepDiscountDVD](http://www.deepdiscountdvd.com/redirect.cfm?referral=dvdtalkedt&goto=home)  
+• [DVD Empire](http://www.dvdempire.com/index.asp?partner_id=49648684)  
+• [DVD Overnight](http://www.dvdovernight.com/)  
+• [FiveStarDVD (Adult)](http://www.fivestardvd.com/home.asp?source=1005)  
+• [Half.com](http://www.qksrv.net/click-280928-167876)  
+• [HKFlix.com](http://www.hkflix.com/xq/asp/aid.007782/qx/home.htm)  
+• [Movie Poster Store](http://www.dvdtalk.com/posters.html)  
+• **[Complete List of Stores](http://www.dvdtalk.com/support.html)**  
+**DVD REVIEWS**  
+  
+[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=31&layout=multi&id=2119)
+
+Search reviews:  
+  
+  
+• [New DVD Reviews](http://www.dvdtalk.com/reviews/index.php)  
+• [Collector's Series Award](http://www.dvdtalk.com/reviews/list.php?adviceStart=1&adviceEnd=1&orderBy=Date&reviewType=DVD+Video&NReviews=50)  
+  
+**DVD RESOURCE**  
+• [Store Ratings](http://www.dvdtalk.com/store.html)  
+• [Customer Service #'s](http://www.dvdtalk.com/csr.html)  
 • [DVD FAQ](http://www.dvdtalk.com/faq.html)  
-• [DVD ROM FAQ](http://www.dvdtalk.com/dvdromfaq.html)  
 • [Regional Encoding Info](http://www.dvdtalk.com/rce.html)  
 • [Links](http://www.dvdtalk.com/links.html)  
-**SITE**  
+**DVDTALK INFO**  
 • [About DVD Talk](http://www.dvdtalk.com/welcome.html)  
 • [Advertise](http://www.dvdtalk.com/ad.html)  
 • [Contribute](http://www.dvdtalk.com/contribute.html)  
 • [Tell A Friend](http://www.dvdtalk.com/recommend.html)  
-• **[Newsletter SUBSCRIBE](http://www.dvdtalk.com/recommend.html)**  
+• [Newsletter SUBSCRIBE](http://www.dvdtalk.com/subscribe.html)  
+• [Join DVD Talk Forum](http://www.dvdtalk.com/forum/register.php)  
+**SEARCH**  
+  
+  
+[](http://bilbo.counted.com/7/23448/)  
+  
 **DVD TALK   
 Coupons**   
 
@@ -88,12 +105,12 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Geoffrey Kleinman Kleinman.com Inc. 8872 SW 82nd Ave Portland, OR 97223 talk@dvdtalk.com |  | **Coming Soon**  
 ---  
   
-[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=33&layout=multi&id=2224)  
+[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=33&layout=multi&id=2254)  
   
 **Special Offers**  
 ---  
   
-[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=4&layout=multi&id=1419)  
+[](http://ads.kleinman.com/cgi-bin/adcycle/adclick.cgi?manager=adcycle.com&gid=4&layout=multi&id=1688)  
   
   
 
