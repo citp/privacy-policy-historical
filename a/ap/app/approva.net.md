@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2004-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040812202836id_/http%3A//www.approva.net/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305114449id_/http%3A//www.approva.net/legal/privacy.htm) for the most accurate reproduction.*
 
 # Approva Corporation
 
 Last Updated: April 15, 2004 
 
-Approva® Corporation respects your privacy, and is sensitive to concerns regarding the collection and use of personal data. Our goal is to provide you with information targeted to your industry, your role in your organization, and your specific preferences. In order to provide you with information that is relevant to your needs, and to fulfill specific requests on your part, we may occasionally request personal information from you. The information requested, and how it is used will vary across our website.
+Approva Corporation respects your privacy, and is sensitive to concerns regarding the collection and use of personal data. Our goal is to provide you with information targeted to your industry, your role in your organization, and your specific preferences. In order to provide you with information that is relevant to your needs, and to fulfill specific requests on your part, we may occasionally request personal information from you. The information requested, and how it is used will vary across our website.
 
 Approva Corporation and its subsidiaries (collectively, "Approva") have developed this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our website (the "Site"). The following information summarizes Approva's policy relating to the collection and use of information obtained from the Site. By using this Site, you consent to the collection and use of information about you in the ways described in this Privacy Policy. Approva reserves the right to change its Privacy Policy at any time by posting the new privacy statement at our website Homepage. By using the Site subsequent to such changes, you consent to them. The last date the Privacy Policy was revised is set forth above. 
 
