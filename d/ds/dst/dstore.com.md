@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dstore.com privacy policy that was archived on 2002-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020630184004id_/http%3A//dstore.com.au/help/%3Fpage%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstore.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217120753id_/http%3A//dstore.com.au/help/%3Fpage%3D30) for the most accurate reproduction.*
 
 # dStore.com.au - Australian Online Department Store
 
