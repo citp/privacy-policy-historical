@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610192119id_/http%3A//www.eyeglasses.com/visitor%3D0022708a2276b3a8/information/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2002-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021024052956id_/http%3A//www.eyeglasses.com/visitor%3Df5d879e48431caa2/information/privacy.page) for the most accurate reproduction.*
 
-# Eyeglasses.com
+# eyeglasses.com
 
 |  |  |  privacy statement
-
-[](http://www.eyeglasses.com/visitor=0022708a2276b3a8/information/privacy.page?return_page=/information/privacy.page) [](https://digitalid.verisign.com/as2/8663d5b7aaf01912621403df852748c5) [](http://www.bizrate.com/merchant/reports/index.xpml?mid=29932)
 
 This confirms that Eyeglasses.com, Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.eyeglasses.com. 
 
