@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607180442id_/http%3A//scanna.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanna.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209045654id_/http%3A//www.scanna.com/privacy.cfm) for the most accurate reproduction.*
 
 # Scanna - Russian, Ukrainian, European women seek dating and marriage through correspondence.
 
-**Scanna International  
+**Scanna International   
 Privacy Policy**
 
 Depending on what you do when you visit any web site, you are providing information about your visit to the site's owners. This includes Scanna.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask.
@@ -13,31 +13,31 @@ The bottom line at www.Scanna.com and its related sites (collectively "Scanna.co
 
 **I. Notice**
 
- What personal information we collect and how we use your information
+What personal information we collect and how we use your information
 
- Our policy regarding sharing of information
+Our policy regarding sharing of information
 
 **II. Choice**
 
- How you can decide what communication you'll receive from us
+How you can decide what communication you'll receive from us
 
 **III. Access**
 
- How you can control the use of your personal information
+How you can control the use of your personal information
 
 **IV. Security**
 
- How we protect the security of your personal information
+How we protect the security of your personal information
 
 **V. Customer Service and Recourse**
 
- Changes to the Scanna.com Privacy Policy
+Changes to the Scanna.com Privacy Policy
 
- How to contact Scanna.com
+How to contact Scanna.com
 
- Protecting Your Privacy Online
+Protecting Your Privacy Online
 
-  **I. Notice**
+**I. Notice**
 
 What personal information we collect and how we use your information:
 
@@ -56,9 +56,9 @@ Information we collect on Scanna.com may be used to enhance your use of this web
 
 
 
-  **Visitor Registration or Requests for Information:**
+**Visitor Registration or Requests for Information:**
 
-  Scanna.com only collects personal information that you choose to provide voluntarily when using or registering with the Scanna.com site. "Personal information" includes information that can identify you as a specific individual, such as your name or email address; and, in the case of affiliate agreements, your name and company name. While you can browse our site without registering, you will need to register in order to take advantage of certain features, such as being able to view booklets 2 weeks earlier then general public.
+Scanna.com only collects personal information that you choose to provide voluntarily when using or registering with the Scanna.com site. "Personal information" includes information that can identify you as a specific individual, such as your name or email address; and, in the case of affiliate agreements, your name and company name. While you can browse our site without registering, you will need to register in order to take advantage of certain features, such as being able to view booklets 2 weeks earlier then general public.
 
 **Browsing and the use of Cookies:**
 
