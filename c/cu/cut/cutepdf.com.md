@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutepdf.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204102741id_/http%3A//www.acrosoftware.com/US/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutepdf.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402063104id_/http%3A//cutepdf.com/US/privacy.asp) for the most accurate reproduction.*
 
 # CutePDF, FormMax - Business Form Software, Free PDF Creator, PDF Form Filler
 
@@ -20,4 +20,4 @@ Cookies allow us to personalize our site for you and to provide you with informa
   
 | Contact us  
    
-|  Acro Software Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to [ contact us](https://web.archive.org/web/20031204102741id_/http%3A//www.acrosoftware.com/US/contact.asp). Because technologies on the Internet change so quickly, Acro Software reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Acro Software's [Legal notices](https://web.archive.org/web/20031204102741id_/http%3A//www.acrosoftware.com/US/legal.asp) Statement. 
+|  Acro Software Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to [ contact us](https://web.archive.org/web/20040402063104id_/http%3A//cutepdf.com/US/contact.asp). Because technologies on the Internet change so quickly, Acro Software reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Acro Software's [Legal notices](https://web.archive.org/web/20040402063104id_/http%3A//cutepdf.com/US/legal.asp) Statement. 
