@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603192411id_/http%3A//chronicle.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806182031id_/http%3A//chronicle.com/help/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle: Privacy Statement
 
@@ -69,7 +69,7 @@ You can also send an e-mail message to [help@chronicle.com](mailto:help@chronicl
 If you have any questions about this privacy statement, the practices of _The Chronicle_ or its online service, or any other aspects of this Web site, please contact:
 
 Philip W. Semas  
-Editor, New Media  
+Editor in Chief  
 The Chronicle of Higher Education  
 1255 23rd St., N.W.  
 Washington, D.C. 20037  
