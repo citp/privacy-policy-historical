@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the booksontape.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203131119id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksontape.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602211704id_/http%3A//www.booksontape.com/privacy.cfm) for the most accurate reproduction.*
 
-# Books on Tape® : Privacy Policy
+# Booksontape.com : Privacy Policy
 
-| **Information about our Organization and website** | TOP  
----|---  
-  
-Our principal activity is: Manufacturer and distributor of audiobooks. 
-
-Our privacy policy covers BOOKS ON TAPE, INC. and its website: 
-
-**Organization Name:** |  BOOKS ON TAPE, INC.  
----|---  
-**Address:** |  P.O. Box 7900  
-**City, Zip:** |  Newport Beach, 92658  
-**State:** |  CA  
-**Country:** |  United States  
-**Data Controller:** |  Kevin Coon  
-**Website:** | [ http://www.booksontape.com](http://www.booksontape.com/)  
-  
-**Providing Visitors with Anonymous Access** | TOP  
+| **Providing Visitors with Anonymous Access** | TOP  
 ---|---  
   
 You can access our website home page and browse our site without disclosing your personal data. 
@@ -26,9 +10,11 @@ You can access our website home page and browse our site without disclosing your
 **The services and links of our website** | TOP  
 ---|---  
   
-Our website enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data. 
+Our website enables you to post information to be accessed by others. When you do so, other visitors may collect your data. 
 
-Our website does include links to third party Web service providers (such as Wishlist.com and Anwsers.com). 
+Our website does include links to third party Web service providers (such as Bizrate.com, Amazon.com, and WishList.com). 
+
+Our WishList and PO Manager services are powered by WishList.com, a third party application service provider (ASP). Their servers and software provide all functionality for these services. Books on Tape owns the data stored in your WishList and PO Manager, and we reserve the right to discontinue either service or directly provide these features to our customers. To view the WishList.com privacy policy, please visit http://www.wishlist.com/company/privacy.htm. 
 
 **Automatic Collection of Information** | TOP  
 ---|---  
@@ -42,7 +28,7 @@ We do not use cookies to store personal data nor do we link non-personal informa
   
 We collect the personal data that you may volunteer while using our services. 
 
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. 
+In some instances, we do collect information about our visitors from other sources, such as public records or bodies, or private organizations. 
 
 To access the table of personal data collected and purposes for which they are used, please  click here 
 
@@ -51,7 +37,7 @@ We do not collect or use personal data for any purpose other than that indicated
 If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes: 
 
   * by sending an email (never@booksontape.com) 
-  * by sending postal mail to this address (P.O. Box 7900, Newport Beach, CA 92658) 
+  * by sending postal mail to this address (P.O. Box 25122, Santa Ana, CA 92799-5122) 
   * by calling this telephone number (1-800-626-3333) 
 
 
@@ -97,7 +83,7 @@ You can ask us, by:
 
   * sending an email (botcs@booksontape.com) 
   * visiting this url (<https://www.booksontape.com/account/index.cfm>) 
-  * sending postal mail to this address (P.O. Box 7900, Newport Beach, CA 92658) 
+  * sending postal mail to this address (P.O. Box 25122, Santa Ana, CA 92799-5122) 
   * calling this telephone number (1-800-626-3333) 
 
 whether we are keeping personal data about you. 
@@ -106,7 +92,7 @@ Upon request, which you can indicate by:
 
   * sending an email (botcs@booksontape.com) 
   * visiting this url (<https://www.booksontape.com/account/index.cfm>) 
-  * sending postal mail to this address (P.O. Box 7900, Newport Beach, CA 92658) 
+  * sending postal mail to this address (P.O. Box 25122, Santa Ana, CA 92799-5122) 
   * calling this telephone number (1-800-626-3333) 
 
 We will provide you with a readable copy of the personal data which we keep about you, although we may before require proof of your identity. We will provide the information without any charge. 
@@ -138,14 +124,14 @@ In order to demonstrate that our privacy policy accords with the above privacy i
 **Name or designation of the privacy policy person or service:** |  Kevin Coon, Privacy Specialist  
 ---|---  
 **URL:** |  <http://www.booksontape.com/privacy.cfm>  
-**Address:** |  P.O. Box 7900, Newport Beach, CA 92658  
+**Address:** |  P.O. Box 25122, Santa Ana, CA 92799-5122  
 **Country:** |  United States  
   
 If you have an enquiry or concern about our privacy policy, please contact: 
 
 **Name/designation:** |  Kevin Coon, Privacy Specialist  
 ---|---  
-**Address:** |  P.O. Box 7900, Newport Beach, CA 92658  
+**Address:** |  P.O. Box 25122, Santa Ana, CA 92799-5122  
 **Phone Number:** |  (714) 327-0315  
 **Fax Number:** |  (714) 825-0756  
 **Email address:** | [ privacy@booksontape.com](mailto:privacy@booksontape.com)  
@@ -158,8 +144,9 @@ If you have an enquiry or concern about our privacy policy, please contact:
 
 **x** |  volunteered by each visitor  
 ---|---  
-- |  collected from public records or bodies  
-- |  collected from private organizations  
+**pr** |  collected from public records or bodies  
+**po** |  collected from private organizations (library and schools only)  
+- |  not collected  
   
 |  Technical administration of the website  |  Research &development  |  Customer Administration  |  Marketing  |  Trading in personal data   
 ---|---|---|---|---|---  
@@ -291,15 +278,15 @@ Employer/organization  |
 
 | 
 
-\- 
+**po**
 
 | 
 
-\- 
+**po**
 
 | 
 
-\- 
+**po**
 
 | 
 
@@ -311,15 +298,15 @@ Job title  |
 
 | 
 
-\- 
+**po**
 
 | 
 
-\- 
+**po**
 
 | 
 
-\- 
+**po**
 
 | 
 
@@ -331,15 +318,15 @@ Address  |
 
 | 
 
-\- 
+**po**
 
 | 
 
-\- 
+**po**
 
 | 
 
-\- 
+**po**
 
 | 
 
@@ -359,7 +346,7 @@ E-mail address  |
 
 | 
 
-\- 
+**po**
 
 | 
 
@@ -371,15 +358,15 @@ Phone/Fax number  |
 
 | 
 
-\- 
+**po**
 
 | 
 
-\- 
+**po**
 
 | 
 
-\- 
+**po**
 
 | 
 
@@ -407,11 +394,6 @@ other (describe)  __ |
   
 ####  Other personal details and profiling data 
 
-\-  |  volunteered by each visitor  
----|---  
-\-  |  collected from public records or bodies  
-\-  |  collected from private organizations  
-  
 |  Technical administration of the website  |  Research & development  |  Customer Administration  |  Marketing  |  Trading in personal data   
 ---|---|---|---|---|---  
 Personal details  | 
