@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621142936id_/http%3A//www.mckinseyquarterly.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208145057id_/http%3A//www.mckinseyquarterly.com/privacy.asp) for the most accurate reproduction.*
 
 # The McKinsey Quarterly: Privacy policy
 
@@ -73,7 +73,7 @@ This data may be used by us and our agents for the following purposes:
 
 
 
-For example, this data helps us in controlling access to certain content on our site and in alerting users to new site content and services. We will not share user information with outside companies for their use for marketing purposes. In addition, we will not share user information with divisions of McKinsey outside the _McKinsey Quarterly_ except in aggregated form for generalized user analysis. Accordingly, you will only be contacted by e-mail or otherwise by the _McKinsey Quarterly_ , and you may opt out of such contacts.
+For example, this data helps us in controlling access to certain content on our site and in alerting users to new site content and services. We will not share user information with outside companies for their use for marketing purposes. In addition, we will not share any user information with any outside company or with any divisions of McKinsey outside the _McKinsey Quarterly_ except (i) in aggregated form for generalized user analysis, in which case such aggregated data may be shared with any outside persons or companies or (ii) periodically, to review whether users qualify for complimentary Premium Membership through special programs, in which case user information may be shared with other divisions of McKinsey and with organizations with which you are affiliated (e.g., your employer, college, or an association to which you belong). You will only be contacted by e-mail or otherwise by the _McKinsey Quarterly_ (or occasionally by other McKinsey staff or an organization with which you are affiliated as described above regarding complimentary premium membership), and you may opt out of such contacts.
 
 Links to third-party sites
 
@@ -81,7 +81,7 @@ We may provide links to third-party Web sites as a service to our users. Please 
 
 How can I access, change, and/or delete information?
 
-You may access, correct, update, and/or delete any personally-identifiable information that you submitted to the Site. You may also unsubscribe from mailing lists or any registrations on the Site. To do so, please either follow instructions on the page of the Site on which you have provided such information or subscribed or registered, or send us an e-mail at [quarterly_privacy@mckinsey.com](mailto:quarterly_privacy@mckinsey.com).
+You may access, correct, update, and/or delete any personally-identifiable information that you submitted to the Site. You may also unsubscribe from mailing lists or any registrations on the Site. To do so, please either follow instructions on the page of the Site on which you have provided such information or subscribed or registered, or contact us at McKinsey & Company, Legal Department, 55 East 52nd Street, New York, NY 10022.
 
 You also may go to [My Profile](https://web.archive.org/my_profile.asp) for information on how to opt-in or opt-out of use of your information.
 
@@ -91,7 +91,7 @@ McKinsey has implemented generally accepted standards of technology and operatio
 
 Transborder hosting and transfer of information
 
-Personally-identifiable information collected on the Site may be transferred from time to time to McKinsey offices located throughout the world, including offices located outside the European Economic Area (EEA), and the Site may be viewed and hosted anywhere in the world, including countries (such as the United States) that may not have laws regulating the use and transfer of personally-identifiable data. By using the Site and submitting such information on it, you voluntarily consent to such transborder transfer and hosting of such information.
+Personally-identifiable information collected on the Site may be transferred from time to time to McKinsey offices or personnel, or to third parties, located throughout the world, and the Site may be viewed and hosted anywhere in the world, including countries that may not have laws of general applicability regulating the use and transfer of such data.
 
 Children's on-line privacy protection
 
@@ -99,8 +99,8 @@ McKinsey understands the importance of protecting children's privacy, especially
 
 Consent
 
-By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy.
+By using the Site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the Site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy. This Privacy Policy was last updated on October 15, 2003.
 
 Contact our Privacy Department
 
-If you have any questions about our Privacy Policy, please e-mail us at [quarterly_privacy@mckinsey.com](mailto:quarterly_privacy@mckinsey.com).
+If you have any questions about our Privacy Policy, please contact us at McKinsey & Company, Legal Department, 55 East 52nd Street, New York, NY 10022.
