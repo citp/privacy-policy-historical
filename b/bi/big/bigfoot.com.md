@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfoot.com privacy policy that was archived on 2003-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030614120335id_/http%3A//www.bigfoot.com/ef/infopage.jsp%3Fshow%3Dlegal.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfoot.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801211134id_/http%3A//www.bigfoot.com/ef/infopage.jsp%3Fshow%3Dlegal.privacy) for the most accurate reproduction.*
 
 # Bigfoot.com
 
