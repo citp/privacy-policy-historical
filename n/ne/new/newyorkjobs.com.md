@@ -1,87 +1,52 @@
-> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2002-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020701024355id_/http%3A//www.newyorkjobs.com/about_us/main/main.aspx%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405205618id_/http%3A//www.newyorkjobs.com/privacy.cfm) for the most accurate reproduction.*
 
-# 
+# New York Jobs - NewYorkJobs.com
 
-   **INFORMATION COLLECTION**
+In general, we gather information about all of our users collectively. We only use such information anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall experience for you. We may share this information with our partners, but only in the aggregate, so that they too may understand how NewYorkJobs.com visitors use our site, so they may create a better overall experience for you, as well. 
 
-For all processes that require information collection, ComputerJobs.com is committed to providing the highest level of security and privacy for IT professionals and employers. 
+**Email Links**   
+NewYorkJobs.com provides email address link located on the Contact Us page so that you may email us directly with any questions or comments you may have. NewYorkJobs.com reads all messages received and makes efforts to respond promptly. In addition to replying to your comment or inquiry, we may also file your email for future reference regarding improvements to our website or discard the information. Your personal information is not shared to third parties without your express permission 
 
-We use various methods to collect information on our site, such as registration forms, contests, surveys, request forms, contact us, and mail-to's. These registration forms are linked to ComputerJobs.com mailing lists and require users to give contact information (such as name and email address). We use this contact information to send users information about our company and its products and services. The information may also be used to contact site visitors by email for marketing purposes. Registered users can opt-out of receiving email marketing communications through the opt-out function available in each email message delivered from ComputerJobs.com. Once a user has completed the opt-out process, they will be removed from ComputerJobs.com email marketing mailing list.
+**Information Collection and Use**   
+NewYorkJobs.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. NewYorkJobs.com collects information from our users at several different point on our website. 
 
-ComputerJobs.com collects system-related information, such as IP address, browser type, and operating system type, and uses it for system administration purposes. This information helps diagnose problems with our servers, monitor traffic patterns, and site usage. System information also assists us in identifying the most popular areas of our site, so we can continue to deliver content that is important and relevant to our users. 
+**Membership Information**   
+Company's wishing to sign up for NewYorkJobs.com's service are asked to provide certain data including full name, complete mailing address, phone number and email address. 
 
-       **Information Collected from IT Professionals:**
+**Resume Database**   
+Since NewYorkJobs.com is a career site, we give you the option of putting your resume in our database. There are two ways of doing this: 
 
-> *  **User Registration**  
->  To register to use the Web site for creating an online resume, creating a Consultant’s Corner profile, applying for a Direct Connect position, or using Power Search, IT professionals must complete our personalization profile. The registration process requests the following information:
-> 
->   1. Required information: First and last name, email address, password of their own creation, zip code, at least one skill or certification, and how they heard about us.  
-> 
->   2. Optional information: Password hint, if they would like to participate in Job Matching, and if they would like to receive emails of jobs that match their skill set.
-> 
+1\. You can store your resume in our database, but not allow your contact information to be viewed by potential employers. Employers must contact you through a private form if they are interested in your resume. 
 
-> *  **Resume Registration**  
->  To place a resume online, IT professionals must complete our resume registration. The resume registration process requests the following information: 
-> 
->   1. Required Information: First and last name, state, at least one skill or certification, a brief career summary, availability, willing to work location, citizenship information, how they heard about us, and the amount of time that subscribing companies should have access to their resume.   
-> 
->   2. Optional Information: Address, city, zip code, country of residence, home and work phone numbers, email address, best time to contact, additional skills/certifications and how much experience they have in those, desired position/objective, education history, Web resume URL, preferred work location, employment type, travel considerations, security clearance, polygraph certification, resume blocking options, use of other employment Web sites information, which type of clients should have access to their resume, and if they want an email reminder before their resume expires.
-> 
+2\. If you allow your resume to be searchable, then all employers and recruiters who pay for access to our resume database product will have access to your resume. 
 
-> *  **Consultant's Corner Profile**  
->  To place a Consultant’s Corner profile on our site, IT professionals must complete the profile form. The process requests the following information:
-> 
->   1. Required information: Before completing the profile, IT professionals must confirm that they are available for work on a contract status and that they are eligible to work in the United States. They must also provide contractor title; first and last names; city, state, and zip code of residence; email address; years in business; number of employees; major skill category they wish to be listed under; at least one specific skill; and a list of services they provide.  
-> 
->   2. Optional information: Company name, address, phone number, fax number, company URL, indication if the company is incorporated, the number of clients they have, additional specific skills, certifications, references, notes, willingness to travel, rate, how clients are billed, preferred work location, how they found our site, preferred project description, and if they wish to be auto-logged in to Consultant’s Corner instead of being directed to the My Career page at login.
-> 
+We use our best efforts to grant access to this database only to legitimate employers, recruiters, hiring managers, headhunters, and human resource professionals, but cannot guarantee that other parties will not, without our consent, gain access to this database. You may remove your resume from our searchable database at any time. However, employers and recruiters who have paid for access to the database, and other parties who have otherwise gained access to the database, may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties while resumes are in the database 
 
-> *  **Direct Connect Online Applications**  
->  The apply online process requests the following information from IT professionals:
-> 
->   1. Required information: First and last name; zip code; email address; password that the user creates; work status; how the user heard about us; desired salary or rate; willingness to relocate; willingness to travel; at least one skill category, subskill, and months experience; street address; city; state; availability; phone number; work history (at least one company name, city, state, last title held, start and end dates, and skills used); education history (at least one institution, city, state, major, degree, and year of graduation); and security clearance information.  
-> 
->   2. Optional information: User may attach a resume, enter the URL for a Web resume, country of residence, call notes, details of work history, and accreditation and certification information.
-> 
+**Personal Information**   
+NewYorkJobs.com resume functionality requires/requests users to give us contact information (such as their email address) and personal information (such as their work histories and academic achievements). The user's contact and personal information is used to contact the visitor when necessary, but is primarily used in the construction of the user's resume and Candidate Profile. 
 
-> *  **Feedback**  
->  ComputerJobs.com encourages feedback from IT professionals. The feedback enables us to continually improve our products and services. All information received through the feedback process becomes the property of ComputerJobs.com and may be used in press materials and advertisements.
-> *  **Message Boards**  
->  ComputerJobs.com makes message boards available to its users. Any information that is disclosed in these areas becomes public information. Users should exercise caution when disclosing personal information to any message board.
+We do not disclose information about your individual visits to NewYorkJobs.com, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, personal references, etc., to any outside parties, except when we believe the law requires it. But, we may record and share aggregated information with our partners. 
 
-  
-       **Information Collected from IT Employers:**
+**Legal Disclaimer**   
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process serviced on our website. 
 
-> *  **Client Registration**  
->  To fully utilize the services offered by ComputerJobs.com, employers must complete our client registration. The 'Join Us' client registration form requests the following information: 
-> 
->   1. Required Information: Company name, city, state, zip code, type of company, contact name, email address, number of IT recruiters, number of IT openings to fill on a monthly basis, how did you hear about our site.   
-> 
->   2. Optional Information: Contact person's title, company URL, phone number, fax number, number of IT employees, states where client is most interested in advertising, comments and suggestions. 
-> 
+**Change/Modify**   
+This site gives users the following options for changing and modifying information previously provided. You can go to: <http://www.newyorkjobs.com/>, Logon to your respective account, and enter your Username. and password. On the next page, simply click on the Update Profile menu for the data you wish to modify. 
 
-> * **Financial Transactions**  
->  Credit card transactions are processed through CyberCash, a leading third-party credit card processing company. CyberCash only uses your information to complete the appropriate transactions. ComputerJobs.com stores the first two and last four digits of your credit card to complete the verification and approval process. Your entire credit card number is not stored on any ComputerJobs.com system.
-> *  **Feedback**  
->  ComputerJobs.com encourages feedback from all employers. All exchange of information between ComputerJobs.com and our employers is confidential unless written permission to use such information for another purpose is given.
+**Opt-Out**   
+NewYorkJobs.com provides users the opportunity to opt-out from our mailing list from their accounts. To do this: You can go to: <http://www.newyorkjobs.com/>, Logon to your respective account, and enter your Username and Password. On the next page, simply click on the Update Profile menu. At the bottom of the page select NO to Unsubscribe from our mailing list and click the update button. 
 
-  
+**Links**   
+NewYorkJobs.com contains links to other sites. These sites have their own policies and practices with respect to online privacy, and NewYorkJobs.com cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a NewYorkJobs.com advertiser may ask you for personal information. NewYorkJobs.com cannot be responsible for the privacy practices of its advertisers. 
 
+**Surveys & Contests **   
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as zip code). Contact information will be used to notify winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
-   **INFORMATION USE**
+Only certain employees have access to the information you provide us. For example, we impose strict rules on our employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we try to prevent such unfortunate occurrences. 
 
-ComputerJobs.com is committed to safeguarding your personal information. We take this responsibility very seriously and are continuously looking for improved methods to ensure privacy and security.
+**Notification of Changes**   
+This policy may be revised over time as new features are added to the website. We will post those changes so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy. 
 
->  **Use of Information Collected from IT Professionals**
-> 
-> COMPUTERJOBS.COM DOES NOT SELL YOUR PERSONAL INFORMATION TO ANYONE. It is important to note that information provided in the resume registration process is completely available to subscribing employers. Our employers sign contracts that legally prohibit them from redistributing ComputerJobs.com information without consent. 
-> 
-> Information provided in the Consultant's Corner registration process is online, public information.
-> 
-> Information provided in the Direct Connect registration process is not available to all employers, but is available to a career specialist employed by ComputerJobs.com.
-> 
-> Internally, ComputerJobs.com uses your personal information for validation purposes only. To predict broad trends about our Web site, we request general or generic input from our users in a clearly identifiable fashion, such as our Salary Survey or the Question of the Day.
-> 
->  **Use of Information Collected from Employers**
-> 
-> Information collected from employers is not shared with third parties. Employer information is used for contact and billing purposes only. Because of the nature of the ComputerJobs.com Web site, any information that is included on a job listing must be considered public information. ComputerJobs.com provides an anonymous job posting option to exclude contact or company information from public view. IT professionals can only respond to anonymous job postings through an online form which prevents them from knowing the identity of the anonymous job poster.
+We will notify you directly if there is a material change in our privacy practices. We will take commercially reasonable measures to obtain written or active e-mail consent from the user if NewYorkJobs.com is going to be using the information collected from the user in a manner different from that stated at the time of collection. We will also post the changes in our privacy statement 10 days prior to a change. 
+
+**<< Return to NewYorkJobs.com**
