@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talentzoo.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204200744id_/http%3A//talentzoo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentzoo.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408225523id_/http%3A//www.talentzoo.com/privacy.asp) for the most accurate reproduction.*
 
-# Advertising Jobs at Talent Zoo - North America's Premiere Advertising Recruitment Firm
+# Advertising Jobs at Talent Zoo:
 
 As a user of TalentZoo.com, you can be certain your privacy will be respected and your confidentiality maintained. Talent Zoo understands the need for privacy and employs a strict privacy policy. 
 
