@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mts.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614105432id_/http%3A//www.mts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mts.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210094656id_/http%3A//www.mts.com/privacy.htm) for the most accurate reproduction.*
 
 # MTS Systems Internet Privacy Statement
 
@@ -10,7 +10,7 @@
 > 
 > ### Use of Information
 > 
-> Before we collect any personally identifiable information, we will provide an explanation for the possible use of your data. The information you supply will be used by MTS Systems Corporation to respond to your inquiries, supply you with requested information on MTS Systems Corporation products and services, or track orders you place with MTS Systems Corporation. Authorized third parties may be utilized by MTS Systems Corporation to collect, track and process such information. If you have submitted personal information to MTS Systems Corporation electronically and would like it removed or modified, please contact us at [_webmaster@mts.com_](mailto:webmaster@mts.com). We will use reasonable efforts to comply with your request.
+> Before we collect any personally identifiable information, we will provide an explanation for the possible use of your data. The information you supply will be used by MTS Systems Corporation to respond to your inquiries, supply you with requested information on MTS Systems Corporation products and services, or track orders you place with MTS Systems Corporation. Authorized third parties may be utilized by MTS Systems Corporation to collect, track and process such information. If you have submitted personal information to MTS Systems Corporation electronically and would like it removed or modified, please contact us at [_info@mts.com_](mailto:info@mts.com). We will use reasonable efforts to comply with your request.
 > 
 > ### Children and Parents
 > 
