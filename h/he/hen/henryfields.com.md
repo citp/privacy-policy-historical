@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the henryfields.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622235206id_/http%3A//henryfields.com/article_disp.asp%3Fai%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryfields.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000817id_/http%3A//henryfields.com/article_disp.asp%3Fai%3D113) for the most accurate reproduction.*
 
 # Henry Field's Seed and Nursery Co.
 
 This is the web site of Henry Field's Seed & Nursery Co.
 
-Our postal address is  
+Our postal address is:  
 Henry Field's Seed & Nursery Co.  
 Order Processing Center  
 Aurora, IN 47001-0397
 
-We can be reached via e-mail at service@henryfields.com
+Email Address: service@henryfields.com
 
-Telephone: (513) 354-1495
+Phone: (513) 354-1495
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
@@ -33,11 +33,7 @@ If you agreed to receive email from our marketing partners, we will share with t
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
+Please provide us with your exact name and address. We will be sure yourname is removed from the list we share with other organizations.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.
 
