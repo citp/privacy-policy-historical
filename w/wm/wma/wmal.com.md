@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205043140id_/http%3A//www.wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607131338id_/http%3A//wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.*
 
 # 630 WMAL
 
