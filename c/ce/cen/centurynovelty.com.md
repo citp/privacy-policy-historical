@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211172836id_/http%3A//www.centurynovelty.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601210627id_/http%3A//www.centurynovelty.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Learn about Century Novelty Company supplier of novelty toys gifts and other items for kids
+# Privacy Policy.Online novelty store, carnival game prizes, Graduation party favors, patriotic American flags, wholesale novelty.
 
 _**Privacy Policy**_
 
@@ -9,6 +9,8 @@ Effective **05/30/2002**
 **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+_There has been no instance of fraud with credit-card usage on this website._
 
 **The Information We Collect:**
 
@@ -53,7 +55,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by emailing cust_support@centurynovelty.com. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by emailing [ _cust_support@centurynovelty.com_](mailto:cust_support@centurynovelty.com). We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request. 
 
@@ -61,4 +63,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at (800) 235-6232 or (734) 464-0590 or send us an email at cust_support@centurynovelty.com.
+Should you have other questions or concerns about these privacy policies, please call us at (800) 235-6232 or (734) 464-0590 or send us an email at [_cust_support@centurynovelty.com_](mailto:cust_support@centurynovelty.com).
