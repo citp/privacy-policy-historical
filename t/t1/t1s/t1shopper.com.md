@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t1shopper.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206062900id_/http%3A//www.t1shopper.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t1shopper.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606075221id_/http%3A//www.t1shopper.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # T1 Shopper Privacy Policy
 
