@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adr.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604164337id_/http%3A//www.adr.org/index2.1.jsp%3FJSPssid%3D15767%26JSPsrc%3D%5CLIVESITE%5CAbout%5CPrivacyPolicy%5Cportal_terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adr.org privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013010734id_/http%3A//www.adr.org/index2.1.jsp%3FJSPssid%3D15767%26JSPsrc%3D%5CLIVESITE%5CAbout%5CPrivacyPolicy%5Cportal_terms.html) for the most accurate reproduction.*
 
-# AAA - Arbitration, Mediation and other forms of Alternative Dispute Resolution (ADR) - Downloadable Forms
+# AAA - Arbitration, Mediation and other forms of Alternative Dispute Resolution (ADR) - Privacy Policy
 
 |  | 
 
