@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204155517id_/http%3A//www.orvis.com/intro.asp%3Fsubject%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015824id_/http%3A//www.orvis.com/intro.asp%3Fsubject%3D107) for the most accurate reproduction.*
 
 # Orvis Privacy Policy
 
 |   
 ---  
-  
   
   
 | ****  
@@ -19,7 +18,7 @@
 
 > This is the web site of **The Orvis Company, Inc.**
 > 
-> Our postal address is **Historic Route 7A, Manchester, VT 05254**  
+> Our postal address is **PO Box 798, Historic Route 7A, Manchester, VT 05254**  
 >   
   
 ---  
