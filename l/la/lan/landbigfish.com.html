@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the landbigfish.com privacy policy that was archived on 2003-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030605163634id_/http%3A//landbigfish.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the landbigfish.com privacy policy that was archived on 2003-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204181831id_/http%3A//landbigfish.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Land Big Fish Privacy Policy</title>
@@ -14,6 +14,94 @@
 <body topmargin="1" marginheight="0" leftmargin="1" marginwidth="0">
 <script id="clientEventHandlersJS" language="JavaScript">
 <!--
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function startTimeout()
+{
+var args=startTimeout.arguments
+DKTimeOut = args[0]
+fwStart = new Date();
+fwDHFlag = true;
+fwHideMenuTimer = setTimeout("DoHide()", DKTimeOut);
+}
+
+
+function resetTimeout()
+{
+	fwDHFlag = false;
+}
+
+function DoHide()
+{
+if (!fwDHFlag) return;
+var elapsed = new Date() - fwStart;
+if (elapsed < DKTimeOut) {
+fwHideMenuTimer = setTimeout("DoHide()", DKTimeOut+100-elapsed);
+return;
+}
+fwDHFlag = false;
+Show_Layer();
+window.ActiveMenuItem = 0;
+}
+
+function Show_Layer() { //v3.0
+// parameters:	char string - <DIV> layer name of or 'clear' to show no menus
+//		integer  - as number of <DIV> layers in menu; used for hiding all layers on call w/ no layer name
+//		char string - non-integer part of <DIV> layer name; ex: nav_menu1, nav_menu2, etc -> 'nav_menu'
+
+
+  var global_div_len = 10; 	//integer  - as number of <DIV> layers in menu; used for hiding all layers on call w/ no layer name
+  var global_div_name = 'nav';	//char string - non-integer part of <DIV> layer name; ex: nav_menu1, nav_menu2, etc -> 'nav_menu'
+
+  var i,obj,args=Show_Layer.arguments;
+  if (global_div_len && global_div_name){
+	  var div_len = global_div_len;
+	  var div_name = global_div_name;}
+  else {
+	  var div_len = 10;
+	  var div_name = 'nav';
+  }
+  if(document.getElementById){
+   for (i=1; i<= div_len; i+=1){
+     div_num = div_name + i;
+     obj=document.getElementById(div_num);
+     if(obj)obj.style.visibility='hidden';}
+   if (args[0]){
+   obj=document.getElementById(args[0]);
+   if(obj)obj.style.visibility='visible';}}
+  else  {
+   for (i=1; i<= div_len; i+=1){
+     div_num = div_name + i;
+     if ((obj=MM_findObj(div_num))!=null){
+       if (obj.style) { obj=obj.style;}
+       obj.visibility='hidden';}}
+   if (args[0]){
+   if ((obj=MM_findObj(args[0]))!=null){
+     if (obj.style)  { obj=obj.style;}
+     obj.visibility='visible';  }}}
+}
 
 function submit_searchterm()
 {
@@ -37,86 +125,8 @@ function openLBFMF(lbfnewin3) {
 
        lbfflyout3=window.open(lbfnewin3,"lbfflyout3","resizable=no,scrollbars=no,width=630,height=450,")
 }
-	
-	-->
-</script>
 
-<table width="768" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	
-	<td valign="top" width="157" rowspan="2">
-	<a href="/default.cfm"><img src="/images/newlogo_lg.gif" alt="Land Big Fish, Rated the #1 Angling Website by Forbes Magazine" border="0" vspace="0"></a><br>
-	</td>
-	
-	<td valign="top" align="center" width="487">
-	
-		
-		
-		
-	
-<a href="/banner2.cfm?id=48" target="_blank" onmouseover="window.status='North American Fishing Club';return true" onmouseout="window.status='';return true"><img src="/images/banners/NAFCLove.gif" border="0" alt="North American Fishing Club" width="468" height="60"></a>
-
-
-	</td>
-	
-	<td valign="top" width="124" class="instructions" align="right">
-	
-<a href="/banner2.cfm?id=100" onmouseover="window.status='Stars &amp; Stripers Sticker ';return true" onmouseout="window.status='';return true"><img src="/images/banners/starsstripers.gif" border="0" alt="Stars &amp; Stripers Sticker " width="120" height="60"></a>
- 
-
-	</td>
-	</tr>
-	<tr>
-	
-	
-<td valign="top" align="right" colspan="2"><a href="/memberresources.cfm"><img src="/images/tabs/memberresources.gif" alt="Member Resources" border="0"></a><a href="/fishingresources.cfm"><img src="/images/tabs/freeresources.gif" alt="Free Fishing Resources" border="0"></a><a href="/news/default.cfm"><img src="/images/tabs/articlesblue.gif" alt="Fishing Articles" border="0"></a><a href="/shopping.cfm"><img src="/images/tabs/tacklestore.gif" alt="Buy Fishing Gear" border="0"></a><a href="/businesses.cfm"><img src="/images/tabs/travelbusinesses.gif" alt="Travel Planner" border="0"></a><a href="/funstuff.cfm"><img src="/images/tabs/funblue.gif" alt="Fun Related" border="0"></a></td></tr>
-	
-	<tr><td valign="middle" colspan="3" class="spacer"></td></tr>
-	<tr bgcolor="250072">
-	
-	<td valign="middle" colspan="3">
-		<table width="98%" border="0" align="center" cellspacing="0" cellpadding="2">
-		<tbody><tr>
-		
-		<td valign="middle"><font color="white" size="-2" face="verdana"><b><a href="/home.cfm" style="color:ffffff">Home</a>&nbsp;|&nbsp;<a href="/members/default.cfm" style="color:ffffff">Login</a>&nbsp;|&nbsp;<a href="/sitemap.cfm" style="color:ffffff">Site Map</a>&nbsp;|&nbsp;<a href="/contact.cfm" style="color:ffffff">Contact</a>&nbsp;|&nbsp;<a href="/register/registerpromo.cfm" style="color:ffffff">Register</a>&nbsp;|&nbsp;<a href="javascript:OpenGlobalUsername('/livehelp.cfm');" style="color:ffffff">Live Help</a>&nbsp;|&nbsp;<a href="/advertise.cfm" style="color:ffffff">Advertise</a></b></font></td>
-		
-		<form action="/search/default.cfm" method="post" name="searchsite"></form>
-		<td valign="bottom" align="right" class="whiteinstructions">
-		<b>Search LBF</b>
-		<input type="text" class="smallselect" name="searchString" value="enter keyword" size="14" onclick="this.value=''">
-		<select name="searchtype" size="1" class="smallselect">
-		<option value="articles" selected="">Articles</option>
-		<option value="business">Businesses</option>
-		
-		<option value="reports">Fishing Reports</option>
-		<option value="hotspots">Fishing Spots</option>
-		<option value="fish">Fish ID</option>
-		<option value="recipes">Fish Recipes</option>
-		<option value="classifieds">Classifieds</option>
-		<option value="tournaments">Tournaments</option>
-		</select>
-		</td>
-		<td valign="middle" align="right" width="75"><img src="/images/search.gif" border="0" hspace="0" onclick="submit_searchterm();"></td>
-		
-		</tr>
-		</tbody></table>
-	</td>
-	</tr>
-</tbody></table>
-<table width="768" border="0" cellspacing="0" cellpadding="2">
-<tbody><tr><td valign="middle" width="196" bgcolor="250072"></td><td valign="top" align="right" colspan="2" class="instructions"><font color="black" size="-2" face="arial"><b>Welcome Guest  - Thursday, Jun. 5, 2003</b></font></td></tr>
-</tbody></table>
-
-
-<table width="768" border="0" cellspacing="0" cellpadding="0">
-	
-	<tbody><tr>
-	<td valign="top" width="200" align="left" bgcolor="D1D1E3">
-		
-<script id="clientEventHandlersJS" language="JavaScript">
-	<!--
-	
-	function submit_newsletter()
+function submit_newsletter()
 	{
 		
 	if ( document.newsletter.useremail.value == "" )
@@ -134,6 +144,84 @@ function openLBFMF(lbfnewin3) {
 	document.newsletter.submit();	
 	}
 	
+	-->
+</script>
+
+<table width="768" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	
+	<td valign="top" width="157" align="center">
+	<a href="/default.cfm"><img src="/images/newlogo.gif" alt="Land Big Fish, Rated the #1 Angling Website by Forbes Magazine" border="0" vspace="0"></a><br>
+	</td>
+	
+	<td valign="top" align="center" width="487">
+	
+		
+		
+		
+	
+<a href="/banner2.cfm?id=113" target="_blank" onmouseover="window.status='LBF Charters Locator';return true" onmouseout="window.status='';return true"><img src="/images/banners/lbf46860charters.gif" border="0" alt="LBF Charters Locator" width="468" height="60"></a>
+
+
+	</td>
+	
+	<td valign="top" width="124" class="instructions" align="right">
+	
+<a href="/banner2.cfm?id=150" onmouseover="window.status='Zoom Fluke';return true" onmouseout="window.status='';return true"><img src="/images/banners/ZoomFluke12060.gif" border="0" alt="Zoom Fluke" width="120" height="60"></a>
+ 
+
+	</td>
+	</tr>
+	<tr>
+	
+	
+<td valign="top" align="right" colspan="3">
+	<table border="0" width="768" cellspacing="0" cellpadding="0">
+	<tbody><tr> 
+	<td valign="top"><a href="/home.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('home','','/images/buttons/navbar/homeB.gif',1); resetTimeout(); Show_Layer('nav1');"><img name="home" border="0" src="/images/buttons/navbar/home.gif" alt="Home"></a></td>
+	<td valign="top"><a href="/tacklestore/default.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('tackle','','/images/buttons/navbar/tacklestoreB.gif',1); resetTimeout(); Show_Layer('nav2');"><img name="tackle" border="0" src="/images/buttons/navbar/tacklestore.gif" alt="Tackle Store"></a></td>
+	<td valign="top"><a href="/news/default.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('reading','','/images/buttons/navbar/readingroomB.gif',1); resetTimeout(); Show_Layer('nav3');"><img name="reading" border="0" src="/images/buttons/navbar/readingroom.gif" alt="Reading Room"></a></td>
+	<td valign="top"><a href="/members/default.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('members','','/images/buttons/navbar/myLBFB.gif',1); resetTimeout(); Show_Layer('nav4');"><img name="members" border="0" src="/images/buttons/navbar/myLBF.gif" alt="Member's Area"></a></td>
+	<td valign="top"><a href="/reports/default.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('reports','','/images/buttons/navbar/reportsB.gif',1); resetTimeout(); Show_Layer('nav5');"><img name="reports" border="0" src="/images/buttons/navbar/reports.gif" alt="The Reports"></a></td>
+	<td valign="top"><a href="/memberresources.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('research','','/images/buttons/navbar/researchB.gif',1); resetTimeout(); Show_Layer('nav6');"><img name="research" border="0" src="/images/buttons/navbar/research.gif" alt="Research"></a></td>
+	<td valign="top"><a href="/funstuff.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('fun','','/images/buttons/navbar/funstuffB.gif',1); resetTimeout(); Show_Layer('nav7');"><img name="fun" border="0" src="/images/buttons/navbar/funstuff.gif" alt="Fun Stuff"></a></td>
+	<td valign="top"><a href="/businesses.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('travel','','/images/buttons/navbar/travelB.gif',1); resetTimeout(); Show_Layer('nav8');"><img name="travel" border="0" src="/images/buttons/navbar/travel.gif" alt="Outdoor Businesses"></a></td>
+	<td valign="top"><a href="/fishingresources.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('resources','','/images/buttons/navbar/resourcesB.gif',1); resetTimeout(); Show_Layer('nav9');"><img name="resources" border="0" src="/images/buttons/navbar/resources.gif" alt="Fishing Resources"></a></td>
+	<td valign="top"><a href="/websitetools.cfm" onmouseout="MM_swapImgRestore(); startTimeout(300);" onmouseover="MM_swapImage('webmasters','','/images/buttons/navbar/webmastersB.gif',1); resetTimeout(); Show_Layer('nav10');"><img name="webmasters" border="0" src="/images/buttons/navbar/webmasters.gif" alt="Webmasters"></a></td>
+	</tr>
+	</tbody></table>
+</td>
+</tr>
+	<tr><td valign="middle" colspan="3" class="spacer"></td></tr>
+	<tr bgcolor="250072">
+	<td valign="middle" colspan="3">
+		<table width="98%" border="0" align="center" cellspacing="0" cellpadding="2">
+		<tbody><tr>
+		
+		<td valign="middle"><font color="white" size="-2" face="verdana"><b><a href="/members/default.cfm" style="color:ffffff">Login</a>&nbsp;|&nbsp;<a href="/sitemap.cfm" style="color:ffffff">Site Map</a>&nbsp;|&nbsp;<a href="/contact.cfm" style="color:ffffff">Contact</a>&nbsp;|&nbsp;<a href="/register/registerpromo.cfm" style="color:ffffff">Register</a>&nbsp;|&nbsp;<a href="javascript:OpenGlobalUsername('/livehelp.cfm');" style="color:ffffff">Live Help</a>&nbsp;|&nbsp;<a href="/advertise.cfm" style="color:ffffff">Advertise</a></b></font></td>
+		
+		<form action="/register/newsletter.cfm" method="post" name="newsletter"></form>
+		<td valign="bottom" align="right" class="whiteinstructions">
+		<b>Get Our Newsletter</b>&nbsp;<input type="text" class="smallselect" size="20" name="useremail" value="enter your email" onclick="this.value=''"></td>
+		<td valign="middle" align="right" width="75"><img src="/images/signmeup.gif" border="0" hspace="0" vspace="0" onclick="submit_newsletter();"></td>
+		 
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+</tbody></table>
+<table width="768" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr><td valign="middle" width="196" bgcolor="250072"></td><td valign="top" align="right" colspan="2" class="instructions"><font color="black" size="-2" face="arial"><b>Welcome Guest  - Thursday, Dec. 4, 2003</b></font></td></tr>
+</tbody></table>
+
+
+<table width="768" border="0" cellspacing="0" cellpadding="0">
+	
+	<tbody><tr>
+	<td valign="top" width="200" align="left" bgcolor="D1D1E3">
+		
+<script id="clientEventHandlersJS" language="JavaScript">
+	<!--
 	
 	function submit_login()
 	{
@@ -169,38 +257,49 @@ function openLBFMF(lbfnewin3) {
 	<tr>
 	<td valign="top" bgcolor="D1D1E3">
 	
-	<img src="/images/navpics/homepage24.jpg" vspace="0" alt="Welcome to LandBigFish - Buy Fishing Tackle - Read Fishing Articles and Reports - Research Everything!" width="200" height="170">
+	<img src="/images/navpics/homepage6.jpg" vspace="0" alt="Welcome to LandBigFish - Buy Fishing Tackle - Read Fishing Articles and Reports - Research Everything!" width="200" height="170">
 
 </td>
 	</tr>	
 	<tr>
 	<td valign="top" bgcolor="D1D1E3">
 
-		<img src="/images/dot.gif" width="1" height="1" vspace="4"><br>
-		
-		
+		<img src="/images/dot.gif" width="1" height="1" vspace="2"><br>
 		<table cellpadding="2" cellspacing="0" border="0" width="198">
+		
 		<tbody><tr>
 		<td class="instructions" colspan="2">
-		<b>Get the LBF Newsletter</b><br>
-		Win <a href="javascript:OpenGlobalUsername('/newsletterprize.cfm');" class="basiclink">weekly prizes</a> and stay informed of weekly product specials and site happenings.
+		<b>Search LandBigFish</b><br>
 		</td>
 		</tr>
 		<tr>
-		<form action="/register/newsletter.cfm" method="post" name="newsletter"></form>
-		<td class="instructions">
-		<input type="text" class="smallselect" size="14" name="useremail" value="enter your email" onclick="this.value=''">
+		<form action="/search/default.cfm" method="post" name="searchsite"></form>
+		<td valign="bottom">
+		<input type="text" class="smallselect" name="searchString" value="enter keyword" size="12" onclick="this.value=''">
 		</td>
-		<td class="instructions">
-		<img src="/images/signmeup.gif" border="0" hspace="0" onclick="submit_newsletter();">
+		<td valign="bottom">
+		<select name="searchtype" size="1" class="smallselect">
+		<option value="articles" selected="">Articles</option>
+		<option value="business">Businesses</option>
+		<option value="store">Tackle Store</option>
+		<option value="reports">Fishing Reports</option>
+		<option value="hotspots">Fishing Spots</option>
+		<option value="fish">Fish ID</option>
+		<option value="recipes">Fish Recipes</option>
+		<option value="classifieds">Classifieds</option>
+		<option value="tournaments">Tournaments</option>
+		</select>
 		</td>
-		</tr>	
+		</tr>
+		<tr bgcolor="D1D1E3">
+		<td valign="middle" colspan="2"><img src="/images/search.gif" border="0" hspace="0" onclick="submit_searchterm();">
+		</td>
+		</tr>
 		
 		<tr bgcolor="D1D1E3">
-		<td valign="top" align="center" colspan="2"><img src="/images/bluedot.gif" width="100%" height="1" vspace="4"></td>
+		<td valign="top" align="center" colspan="2"><img src="/images/bluedot.gif" width="196" height="1" vspace="4"></td>
 		</tr>	
 		</tbody></table> 
-			
 	</td>
 	</tr>	
 	<tr bgcolor="D1D1E3">
@@ -336,20 +435,20 @@ function openLBFMF(lbfnewin3) {
 		
 		<form name="poll_form" method="post" action="/polls/processing.cfm"></form>
 		<input type="hidden" name="TheVote" value="answerOneVotes">
-		<input type="hidden" name="ID" value="39">
+		<input type="hidden" name="ID" value="55">
 		<tr>
 		<td class="instructions">
 		<img src="/images/checkbox.gif" alt="Fishing Poll"><b>Fishing Poll</b><br>
-		What is your favorite top water bait?
+		How would you rate fisheries management in your state?
 		<br><img src="/images/dot.gif" width="100%" height="1" vspace="2" alt="fishing tips"><br>
-		&nbsp;&nbsp;<input type="radio" name="answer" value="answerOneVotes" checked="" onclick="document.poll_form.TheVote.value='answerOneVotes';">Buzz Baits<br>
-		&nbsp;&nbsp;<input type="radio" name="answer" value="answerTwoVotes" onclick="document.poll_form.TheVote.value='answerTwoVotes';">Jerk Baits<br>
-		&nbsp;&nbsp;<input type="radio" name="answer" value="answerThreeVotes" onclick="document.poll_form.TheVote.value='answerThreeVotes';">Poppers<br>
-		&nbsp;&nbsp;<input type="radio" name="answer" value="answerFourVotes" onclick="document.poll_form.TheVote.value='answerFourVotes';">Stick Baits<br>
+		&nbsp;&nbsp;<input type="radio" name="answer" value="answerOneVotes" checked="" onclick="document.poll_form.TheVote.value='answerOneVotes';">Excellent<br>
+		&nbsp;&nbsp;<input type="radio" name="answer" value="answerTwoVotes" onclick="document.poll_form.TheVote.value='answerTwoVotes';">Above Average<br>
+		&nbsp;&nbsp;<input type="radio" name="answer" value="answerThreeVotes" onclick="document.poll_form.TheVote.value='answerThreeVotes';">Below Average<br>
+		&nbsp;&nbsp;<input type="radio" name="answer" value="answerFourVotes" onclick="document.poll_form.TheVote.value='answerFourVotes';">Poor<br>
 		<img src="/images/dot.gif" width="100%" height="1" vspace="2" alt="fishing tips"><br>
 		<input type="image" src="/images/votenow.gif" border="0" value="Cast your Vote">
 		<br>
-		<b>Total Votes:</b> 399
+		<b>Total Votes:</b> 116
 		<br>
 		<a href="/polls/archivepolls.cfm" class="basiclink" onmouseover="window.status='Archived Polls';return true" onmouseout="window.status='';return true">View and Vote on Archived Polls</a>
 		</td>
@@ -414,11 +513,43 @@ function openLBFMF(lbfnewin3) {
 	<img src="/images/headings/weeklyspecial.gif" alt="Buy Fishing Tackle and Fishing Gear" width="135" border="0"><br>
 
 		<table cellpadding="2" cellspacing="0" border="0" width="133">
+		
 		<tbody><tr>
-		<td align="center">
-		<font color="black" size="-2" face="verdana,arial">
-		<a href="/giftshop/showcase.cfm?ID=62" onmouseover="window.status='ZorbX Perfume-free Odor Eliminator';return true" onmouseout="window.status='';return true" class="basiclink"><img src="/images/giftshop/products/zorbx1.jpg" alt="ZorbX Perfume-free Odor Eliminator" border="0"><br>ZorbX Perfume-free Odor Eliminator</a>
-		</font> 
+		<td valign="top" align="center">
+		<a href="/tacklestore/showcase.cfm?PID=498" onmouseover="window.status='View Product Details';return true" onmouseout="window.status='';return true" style="color:000000"><img src="/images/store/thumbs/Hum-P1t.jpg" alt="Click to View Product Details" border="1" width="100" height="100" vspace="0" hspace="2"></a>
+		</td>
+		</tr>
+		<tr>
+		<td valign="top" align="left" class="instructionssmall">
+		<a href="/tacklestore/showcase.cfm?PID=498" onmouseover="window.status='View Product Details';return true" onmouseout="window.status='';return true" style="color:000000"><b>Hummingbird Piranha 1 &amp; Portable Fish Finders</b></a><br>MSRP: $129.99<br>Our Price: $99.00<br>Member Price $97.00
+	<br><img src="/images/dot.gif" width="1" height="1" vspace="3"><br>
+	<a href="/tacklestore/showcase.cfm?PID=498" onmouseover="window.status='View Product Details';return true" onmouseout="window.status='';return true" style="color:000000">More Info &gt;&gt;</a>
+	</td>
+		</tr>
+		<tr>
+		<td valign="top" align="center">
+		<img src="/images/bluedot.gif" width="130" height="1" vspace="3"></td>
+		</tr>
+		
+		<tr>
+		<td valign="top" align="center">
+		<a href="/tacklestore/showcase.cfm?PID=803" onmouseover="window.status='View Product Details';return true" onmouseout="window.status='';return true" style="color:000000"><img src="/images/store/thumbs/Berk-HS1t.jpg" alt="Click to View Product Details" border="1" width="100" height="100" vspace="0" hspace="2"></a>
+		</td>
+		</tr>
+		<tr>
+		<td valign="top" align="left" class="instructionssmall">
+		<a href="/tacklestore/showcase.cfm?PID=803" onmouseover="window.status='View Product Details';return true" onmouseout="window.status='';return true" style="color:000000"><b>Berkley Hook Sharpener</b></a><br>MSRP: $15.95<br>Our Price: $14.95<br>Member Price $14.45
+		<br><img src="/images/dot.gif" width="1" height="1" vspace="3"><br>
+		<a href="/tacklestore/showcase.cfm?PID=803" onmouseover="window.status='View Product Details';return true" onmouseout="window.status='';return true" style="color:000000">More Info &gt;&gt;</a>
+		</td>
+		</tr>
+		<tr>
+		<td valign="top" align="center">
+		<img src="/images/bluedot.gif" width="130" height="1" vspace="3"></td>
+		</tr>
+		<tr>
+		<td valign="top" align="left" class="instructionssmall">
+		<a href="/tacklestore/showcase.cfm?PID=506" onmouseover="window.status='View Product Details';return true" onmouseout="window.status='';return true" style="color:000000"><img src="/images/promo/LBFCalendar.gif" hspace="3" vspace="3" border="0" align="left">2004 Day-at-a-Time Fishing Calendar</a>
 		</td>
 		</tr>
 		</tbody></table>
@@ -427,22 +558,17 @@ function openLBFMF(lbfnewin3) {
 	<tr>
 	<td align="center" bgcolor="efefef">
 		<font color="black" size="-2" face="verdana,arial">
-		<a href="/giftshop/default.cfm" onmouseover="window.status='Gift Shop';return true" onmouseout="window.status='';return true" style="color:blue">Discounted Tackle</a>
+		<a href="/tacklestore/default.cfm" onmouseover="window.status='Discount Fishing Tackle';return true" onmouseout="window.status='';return true" style="color:blue">Discount Tackle Store</a>
 		</font> 
 		<br><img src="/images/dot.gif" width="1" height="1" vspace="1"><br>
 	</td>
 	</tr>
 </tbody></table>
-
+<img src="/images/dot.gif" width="1" height="1" vspace="1"><br>
 	</td>
 	</tr>
 	
 	
-	<tr>
-	<td align="right">
-		<a href="/register/registerpromo.cfm"><img src="/images/registerrightmenuad.gif" alt="Register Today" border="0" vspace="5"></a>	
-	</td>
-	</tr>
 	
 	
 	<tr>
@@ -472,15 +598,15 @@ function openLBFMF(lbfnewin3) {
 			
 			
 			
-			<a href="/gallery/gallery.cfm?photo=179" onmouseover="window.status='View this catch';return true" onmouseout="window.status='';return true">
-			<img src="/images/gallery/slider/thumbnail/thumbP4200035c.jpg" alt="Blue Mesa" width="125" hspace="1" vspace="5" border="0"><br>
+			<a href="/gallery/gallery.cfm?photo=309" onmouseover="window.status='View this catch';return true" onmouseout="window.status='';return true">
+			<img src="/images/gallery/slider/thumbnail/thumb32striper.jpg" alt="Wells Beach" width="125" hspace="1" vspace="5" border="0"><br>
 			</a>
 			<img src="/images/rate.gif" alt="Rate this catch" vspace="0" hspace="0"><br>
-			<a href="/gallery/galleryrating.cfm?rating=1&amp;photo=179" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/1.gif" alt="1" hspace="0" vspace="0" border="0"></a>
-			<a href="/gallery/galleryrating.cfm?rating=2&amp;photo=179" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/2.gif" alt="2" hspace="0" vspace="0" border="0"></a>
-			<a href="/gallery/galleryrating.cfm?rating=3&amp;photo=179" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/3.gif" alt="3" hspace="0" vspace="0" border="0"></a>
-			<a href="/gallery/galleryrating.cfm?rating=4&amp;photo=179" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/4.gif" alt="4" hspace="0" vspace="0" border="0"></a>
-			<a href="/gallery/galleryrating.cfm?rating=5&amp;photo=179" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/5.gif" alt="5" hspace="0" vspace="0" border="0"></a>
+			<a href="/gallery/galleryrating.cfm?rating=1&amp;photo=309" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/1.gif" alt="1" hspace="0" vspace="0" border="0"></a>
+			<a href="/gallery/galleryrating.cfm?rating=2&amp;photo=309" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/2.gif" alt="2" hspace="0" vspace="0" border="0"></a>
+			<a href="/gallery/galleryrating.cfm?rating=3&amp;photo=309" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/3.gif" alt="3" hspace="0" vspace="0" border="0"></a>
+			<a href="/gallery/galleryrating.cfm?rating=4&amp;photo=309" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/4.gif" alt="4" hspace="0" vspace="0" border="0"></a>
+			<a href="/gallery/galleryrating.cfm?rating=5&amp;photo=309" onmouseover="window.status='Rate this catch';return true" onmouseout="window.status='';return true"><img src="/images/5.gif" alt="5" hspace="0" vspace="0" border="0"></a>
 			<br><font color="black" size="-2" face="verdana,arial">
 			<a href="/gallery/default.cfm" onmouseover="window.status='View Trophy Room';return true" onmouseout="window.status='';return true" class="basiclink">View Trophy Room</a><br>
 			<a href="/gallery/slider.cfm" onmouseover="window.status='Trophy Room Image Scroller';return true" onmouseout="window.status='';return true" class="basiclink">LBF Image Scroller</a><br>
@@ -517,7 +643,7 @@ function openLBFEF(lbfnewin) {
 <table width="768" cellspacing="0" cellpadding="1" border="0">
 <tbody><tr>
 
-<td bgcolor="250072" valign="middle" align="center"><img src="/images/bluedot.gif" width="198" height="1" vspace="0"><br><a href="https://digitalid.verisign.com/as2/9baf874d3b6932660b08f5c1bdbcfff6" target="_blank"><img src="/images/lbfaccepts.gif" vspace="2" alt="Shop for fishing tackle" border="0"></a></td>
+<td bgcolor="250072" valign="middle" align="center"><img src="/images/bluedot.gif" width="198" height="1" vspace="0"><br><a href="https://digitalid.verisign.com/as2/fcce60964956ea0269bb420e94df65b9" target="_blank"><img src="/images/lbfaccepts.gif" vspace="2" alt="Shop for fishing tackle" border="0"></a></td>
 <td class="footer" width="568">
 <br>
 
@@ -548,7 +674,104 @@ Copyright 2001-2003, LandBigFish.com. All rights reserved.<br>
 </tr>
 </tbody></table>
 
+ 
+ 
 
+<div id="nav1" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="768" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav1');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/about.cfm" style="color:white" onmouseover="resetTimeout(); Show_Layer('nav1');" onmouseout="startTimeout(300);">About LBF</a>&nbsp;|&nbsp;<a href="/contact.cfm" style="color:white" onmouseover="resetTimeout(); Show_Layer('nav1');" onmouseout="startTimeout(300);">Contact</a>&nbsp;|&nbsp;<a href="/sitemap.cfm" style="color:white" onmouseover="resetTimeout(); Show_Layer('nav1');" onmouseout="startTimeout(300);">Site Map</a>&nbsp;|&nbsp;<a href="/feedback.cfm" style="color:white" onmouseover="resetTimeout(); Show_Layer('nav1');" onmouseout="startTimeout(300);">Send Feedback</a>&nbsp;|&nbsp;<a href="/register/newsletter.cfm" style="color:white" onmouseover="resetTimeout(); Show_Layer('nav1');" onmouseout="startTimeout(300);">Newsletter</a></font></td>
+</tr>
+</tbody></table>
+</div>
+  
+ 
+<div id="nav2" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="768" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav2');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/tacklestore/default.cfm" style="color:white">Tackle Store Home</a>&nbsp;|&nbsp;<a href="/tacklestore/customerservice.cfm" style="color:white">Customer Service</a>&nbsp;|&nbsp;<a href="/tacklestore/orderstatus.cfm" style="color:white">Order Status</a>&nbsp;|&nbsp;<a href="/affiliates/default.cfm" style="color:white">Affiliate Program</a>&nbsp;|&nbsp;<a href="/tacklestore/customerservice.cfm?help=18" style="color:white">Member Pricing Benefits</a></font></td>
+</tr>
+</tbody></table>
+</div>
+	  
+	  
+
+<div id="nav3" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="768" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav3');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/news/default.cfm" style="color:white">Articles</a>&nbsp;|&nbsp;<a href="/tournaments/default.cfm" style="color:white">Latest Tournament Trail News</a>&nbsp;|&nbsp;<a href="/fishingtips/default.cfm" style="color:white">Quick Tips</a>&nbsp;|&nbsp;<a href="/magazines/default.cfm" style="color:white">Magazines</a>&nbsp;|&nbsp;<a href="/books/default.cfm" style="color:white">Books</a>&nbsp;|&nbsp;<a href="/askpro/default.cfm" style="color:white">Ask A Pro</a>&nbsp;|&nbsp;<a href="/flyfishing/fletcherquill.cfm" style="color:white">Fletcher Quill</a></font></td>
+</tr>
+</tbody></table>
+</div>
+	  
+
+<div id="nav4" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="768" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav4');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/members/default.cfm" style="color:white">Login</a>&nbsp;|&nbsp;<a href="/fishingprofile.cfm" style="color:white">My Member Profile</a>&nbsp;|&nbsp;<a href="/fishinglogs.cfm" style="color:white">My Fishing Logs</a>&nbsp;|&nbsp;<a href="/fishingmessenger.cfm" style="color:white">My Member Messenger</a>&nbsp;|&nbsp;<a href="/pointsprogram.cfm" style="color:white">My LBF Points</a>&nbsp;|&nbsp;<a href="/register/registerpromo.cfm" style="color:white">My Account Info</a></font></td>
+</tr>
+</tbody></table>
+</div>
+	  
+
+<div id="nav5" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="768" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav5');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/reports/default.cfm" style="color:white">Fishing Reports</a>&nbsp;|&nbsp;<a href="/weather/default.cfm" style="color:white">Weather</a>&nbsp;|&nbsp;<a href="/riverlevels/default.cfm" style="color:white">Water Levels</a>&nbsp;|&nbsp;<a href="/watertemps/default.cfm" style="color:white">Water Temperatures</a>&nbsp;|&nbsp;<a href="/tides/default.cfm" style="color:white">Tide Reports</a>&nbsp;|&nbsp;<a href="/fishingspots/fishingspotsbygeneration.cfm" style="color:white">Generation Schedules</a></font></td>
+</tr>
+</tbody></table>
+</div>
+	  
+
+<div id="nav6" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="768" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav6');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/fishingspots/default.cfm" style="color:white">Fishing Spots</a>&nbsp;|&nbsp;<a href="/fish/default.cfm" style="color:white">Fish ID</a>&nbsp;|&nbsp;<a href="/nadaguide.cfm" style="color:white">Used Boat Values</a>&nbsp;|&nbsp;<a href="/knots/default.cfm" style="color:white">Fishing Knots</a>&nbsp;|&nbsp;<a href="/glossary/default.cfm" style="color:white">Glossary</a>&nbsp;|&nbsp;<a href="/staterecords/default.cfm" style="color:white">Fishing Records</a>&nbsp;|&nbsp;<a href="/astrotables/default.cfm" style="color:white">Lunar Tables</a>&nbsp;|&nbsp;<a href="/webcams/default.cfm" style="color:white">Webcams</a></font></td>
+</tr>
+</tbody></table>
+</div>
+	  
+
+<div id="nav7" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="768" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav7');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/gallery/default.cfm" style="color:white">Trophy Room</a>&nbsp;|&nbsp;<a href="/fishingtrivia.cfm" style="color:white">Trivia Challenge</a>&nbsp;|&nbsp;<a href="/caption/default.cfm" style="color:white">Cartoon Caption</a>&nbsp;|&nbsp;<a href="/wallpaper.cfm" style="color:white">Wallpaper</a>&nbsp;|&nbsp;<a href="/jokes/default.cfm" style="color:white">Jokes</a>&nbsp;|&nbsp;<a href="/postcards/default.cfm" style="color:white">Send Postcard</a>&nbsp;|&nbsp;<a href="/videos/default.cfm" style="color:white">Watch Videos</a>&nbsp;|&nbsp;<a href="/art/default.cfm" style="color:white">Artwork</a></font></td>
+</tr>
+</tbody></table>
+</div>
+	  
+ 
+<div id="nav8" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="769" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav8');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/charters/default.cfm" style="color:white">Guides/Charters</a>&nbsp;|&nbsp;<a href="/lodges/default.cfm" style="color:white">Fishing Lodges</a>&nbsp;|&nbsp;<a href="/campgrounds/default.cfm" style="color:white">Campgrounds</a>&nbsp;|&nbsp;<a href="/retailshops/default.cfm" style="color:white">Bait/Retails Shops</a>&nbsp;|&nbsp;<a href="/marinas/default.cfm" style="color:white">Marinas</a>&nbsp;|&nbsp;<a href="/clubs/default.cfm" style="color:white">Clubs</a>&nbsp;|&nbsp;<a href="/schools/default.cfm" style="color:white">Schools</a>&nbsp;|&nbsp;<a href="/manufacturers/default.cfm" style="color:white">Manufacturers</a></font></td>
+</tr>
+<tr onmouseover="resetTimeout(); Show_Layer('nav8');" onmouseout="startTimeout(300);" bgcolor="3300CC"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/businesstools.gif" height="18" border="0" hspace="4" align="left"><a href="/advertise_website.cfm" style="color:white">Website Solutions</a>&nbsp;|&nbsp;<a href="/advertise_upgrade.cfm" style="color:white">Upgrade Business Listing</a>&nbsp;|&nbsp;<a href="/business_addlisting.cfm" style="color:white">Add Your Listing</a>&nbsp;|&nbsp;<a href="/businesses/business_login.cfm" style="color:white">Business Login</a>&nbsp;|&nbsp;<a href="/advertise.cfm" style="color:white">Other Advertising</a></font></td>
+</tr>
+</tbody></table>
+</div>
+	  
+ 
+<div id="nav9" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="769" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav9');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/tournaments/default.cfm" style="color:white">Tournaments</a>&nbsp;|&nbsp;<a href="/recipes/default.cfm" style="color:white">Fish Recipes</a>&nbsp;|&nbsp;<a href="/classifieds/default.cfm" style="color:white">Classifieds</a>&nbsp;|&nbsp;<a href="/flyfishing/flypatterns.cfm" style="color:white">Fly Swap</a>&nbsp;|&nbsp;<a href="/links/default.cfm" style="color:white">Links Directory</a>&nbsp;|&nbsp;<a href="/calculators/default.cfm" style="color:white">Calculators</a>&nbsp;|&nbsp;<a href="/statewebsites/default.cfm" style="color:white">DNR Links</a>&nbsp;|&nbsp;<a href="/events/default.cfm" style="color:white">Trade/Boat Shows</a></font></td>
+</tr>
+<tr onmouseover="resetTimeout(); Show_Layer('nav9');" onmouseout="startTimeout(300);" bgcolor="250072"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/searchbysection.gif" height="18" border="0" hspace="4" align="left"><a href="/freshwater/default.cfm" style="color:FFCC66">Freshwater</a>&nbsp;|&nbsp;<a href="/saltwater/default.cfm" style="color:FFCC66">Saltwater</a>&nbsp;|&nbsp;<a href="/flyfishing/default.cfm" style="color:FFCC66">Fly Fishing</a>&nbsp;|&nbsp;<a href="/icefishing/default.cfm" style="color:FFCC66">Ice Fishing</a>&nbsp;|&nbsp;<a href="/boating/default.cfm" style="color:FFCC66">Boating</a>&nbsp;|&nbsp;<a href="/women/default.cfm" style="color:FFCC66">Womens</a>&nbsp;|&nbsp;<a href="/local/default.cfm" style="color:FFCC66">Local</a></font></td>
+</tr>
+</tbody></table>
+</div>
+	  
+ 
+<div id="nav10" style="position:absolute; z-index:1; left: 1px; top: 85px; visibility:hidden;">
+<table width="768" border="0" height="20" cellspacing="0" cellpadding="0" bgcolor="250072">
+<tbody><tr onmouseover="resetTimeout(); Show_Layer('nav10');" onmouseout="startTimeout(300);"> 
+<td valign="top" class="instructionssmall"><font color="white"><img src="/images/buttons/navbar/inthissection.gif" width="88" height="18" border="0" hspace="4" align="left"><a href="/affiliates/default.cfm" style="color:white">Affiliate Program</a>&nbsp;|&nbsp;<a href="/links/siteaward.cfm" style="color:white">Apply For Site Award</a>&nbsp;|&nbsp;<a href="/news/content/default.cfm" style="color:white">Free Newsfeed</a>&nbsp;|&nbsp;<a href="/adbanners.cfm" style="color:white">LBF Banners</a>&nbsp;|&nbsp;<a href="/links/default.cfm" style="color:white">Add Link</a>&nbsp;|&nbsp;<a href="/advertise.cfm" style="color:white">Advertise</a>&nbsp;|&nbsp;<a href="/banners/login.cfm" style="color:white">Banner Login</a></font></td>
+</tr>
+</tbody></table>
+</div>
 
 
 
