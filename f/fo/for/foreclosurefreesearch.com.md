@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the foreclosurefreesearch.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610080648id_/http%3A//www.foreclosurefreesearch.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosurefreesearch.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211044244id_/http%3A//www.foreclosurefreesearch.com/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
-# Foreclosure, Bank, VA, HUD and Government Owned Property Listings
+# Bank Foreclosures Free Foreclosure Listing Foreclosed Home List Government Forclosures Real Estate Forclosure Listings Property HUD VA Lists
 
+|   
+---  
+|  | **ForeclosureFreeSearch.com: Privacy Policy and Security Statement**  
+---  
+   
+  
 **ForeclosureFreeSearch.com** is dedicated to safeguarding your privacy online. The following explains how your information will be treated as you make use of our products and services. 
 
 **_Your Information_**   
@@ -34,4 +40,13 @@ At **ForeclosureFreeSearch.com** , we constantly monitor our Web security in ord
 You, as a user, can change or edit your personal information at any time. This procedure is accomplished by choosing to edit your profile account information once logged in on our Web site. If you have any difficulties with, or questions about the modification of personal information, please contact [support@ForeclosureFreeSearch.com](mailto:support@ForeclosureFreeSearch.com). 
 
 **_Conclusion_**   
-Thank you for taking the time to educate yourself about the ways in which **ForeclosureFreeSearch.com** collects, uses, and stores the information that you provide. We recommend that you also read our [Terms and Conditions of Service and Use](http://www.foreclosurefreesearch.com/index.cfm?fuseaction=termsofuse) since it provides more information about **ForeclosureFreeSearch.com** policies. If you have any questions about our privacy policy and security statement, please email [support@ForeclosureFreeSearch.com](mailto:support@ForeclosureFreeSearch.com). Please revisit this site on occasion to make sure that you have viewed the most recent version of the privacy policy and security statement. **ForeclosureFreeSearch.com** reserves the right to change any of the information listed on this document and will notify users of any changes by posting the new version of this document to the site at the Privacy Policy & Security Statement link. 
+Thank you for taking the time to educate yourself about the ways in which **ForeclosureFreeSearch.com** collects, uses, and stores the information that you provide. We recommend that you also read our [Terms and Conditions of Service and Use](http://www1.foreclosurefreesearch.com/index.cfm?fuseaction=termsofuse) since it provides more information about **ForeclosureFreeSearch.com** policies. If you have any questions about our privacy policy and security statement, please email [support@ForeclosureFreeSearch.com](mailto:support@ForeclosureFreeSearch.com). Please revisit this site on occasion to make sure that you have viewed the most recent version of the privacy policy and security statement. **ForeclosureFreeSearch.com** reserves the right to change any of the information listed on this document and will notify users of any changes by posting the new version of this document to the site at the Privacy Policy & Security Statement link.   
+  
+| [**Need a Mortgage?**](http://service.bfast.com/bfast/click?bfmid=115759&sourceid=32380555&categoryid=mortgage) |  | | [**Guaranteed MasterCard®**](http://www.johnsonlane.com/Director.asp?Tag=013248&P=AOC) |  | | [**Foreclosure Books**](http://www1.foreclosurefreesearch.com/index.cfm?fuseaction=books "Real Estate")  
+---|---|---|---|---  
+  
+  
+When looking for accurate foreclosure data or the resources to invest wisely... Foreclosure Free Search offers you everything you need to profit from foreclosure investing. The properties listed on Foreclosure Free Search are the most current and comprehensive inventory of foreclosures available on the Internet today. Foreclosures Free Search provides daily data updates along with complete tax roll information. All information is acquired directly from the foreclosing lenders and government agencies, insuring accuracy and timely delivery of the data. The data is a compiled easy to use search engine of Foreclosures, HUD foreclosures, Fannie Mae owned real estate, HUD homes, VA / HUD real estate, For Sale Buy Owner foreclosures, Bank foreclosures, Freddie Mac foreclosures, government foreclosures and all types of REO properties. Some of the hundreds of sources included are: HUD, VA, Fannie Mae, Freddie Mac, First Preston, Premier Asset Services, Citibank, Golden Feather, Bank of America, SunTrust, Wachovia, Wells Fargo, SouthTrust, Bank Atlantic, Union Planters Bank, FDIC, GSA, Federal Government, DEA, Sheriffs Department and many more.   
+  
+[Site Map](http://www1.foreclosurefreesearch.com/index.cfm/fuseaction/sitemap)   
+
