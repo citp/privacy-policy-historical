@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209094750id_/http%3A//www.roxypalace.com/roxypalace/default.asp%3Fmid%3Dprivacystatment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404003848id_/http%3A//www.roxypalace.com/roxypalace/defaultUSD.asp%3Fmid%3Dprivacystatment) for the most accurate reproduction.*
 
 # RoxyPalace - Online Casino - privacystatment
 
