@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609132602id_/http%3A//oakwood.com/fortune/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203023828id_/http%3A//www.oakwood.com/fortune/privacy.htm) for the most accurate reproduction.*
 
 # Oakwood Corporate Housing - Privacy
 
@@ -8,7 +8,6 @@ Oakwood Corporate Housing is strongly committed to protecting your right to priv
 
 > **Access By Children  
 >  Cookies  
->  Credit Card Information  
 >  [How To Contact Oakwood](http://www.oakwood.com/contactus.htm)  
 >  How Your Information Is Gathered  
 >  Links  
@@ -21,10 +20,7 @@ Access By Children:
 When parents or guardians permit their children to use the internet and other electronic media, they also permit distribution of information. We encourage parents and guardians to participate in and be aware of their children's use of the internet and other electronic media. No information should be provided to Oakwood, or any person or company, by children under the age of majority in their country, state and/or other community without the consent of the parent or guardian. 
 
 Cookies:  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. If a user rejects the cookie, they may still use our site. Cookies enable us to track and target the interests of our users to enhance the experience on our site. 
-
-Credit Card Information:  
-Payment information (credit card numbers and expiration dates) is treated confidentially and will not be shared with anyone outside of Oakwood and the financial institutions used to process payments.  {top of page}
+A cookie is a piece of data stored on the user’s hard drive containing information about the user. If a user rejects the cookie, they may still use our site. Cookies enable us to track and target the interests of our users to enhance the experience on our site.
 
 How Your Information Is Gathered:  
 Visitors to Oakwood.com provide various kinds of information. Some visitors submit personal information through our information/reservations forms. Other data such as pages visited, site trends, user movements, broad demographic information, inferred preferences, as well as aggregate site data, are collected through your browser's cookie technology and IP address.
