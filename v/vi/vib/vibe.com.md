@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203185742id_/http%3A//vibe.com/new/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibe.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603101307id_/http%3A//vibe.com/index.php%3Fmodule%3Dhtmlpages%26func%3Ddisplay%26pid%3D6) for the most accurate reproduction.*
 
-# vibe.com: Vibe Magazine Online
+# VIBE MAGAZINE ONLINE :: Your Online Urban Community
 
-|  |  **PRIVACY POLICY**  
+**PRIVACY POLICY**  
 The policies below are applicable to the Authors of this site which include Vibe/Spin Ventures, LLC, and other sites on the World Wide Web portion of the Internet.
 
 We respect your privacy. Any information you give us is held with the utmost care and security and is only used in the ways that are described in this policy.
@@ -55,8 +55,3 @@ Most browsers are initially set to accept cookies. If you'd prefer, you can set 
 By using this site, you signify your assent to our Privacy Policy. If you do not agree to this policy, please do not use our sites.
 
 We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the our sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions at [info@vibe.com](mailto:info@vibe.com).
-
-Return to last viewed page...
-
-|   
----|---|---
