@@ -1,176 +1,343 @@
-<!--The following is the downloaded HTML source of the cesweb.org privacy policy that was archived on 2003-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603173328id_/http%3A//www.cesweb.org/privacy/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cesweb.org privacy policy that was archived on 2004-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040611211941id_/http%3A//www.cesweb.org/privacy_policy.asp) for the most accurate reproduction.-->
 
-<html><head>
-<!-- **INSERT PAGE TITLE HERE (immediately following &nbsp;)** -->
-<title>2004 International CES: Privacy Policy</title>
+<html><head><script language="javascript1.2">
+function newWin(urlString,pgNum)
+  {
+    var popupWindow;
+	urlString += "?pageID=" + pgNum;
+	
+    popupWindow = window.open(urlString,"","toolbar=yes,menubar=no,resizable=no,status=no,scrollbars=yes,location=no,directories=no,copyhistory=no,height=550,width=610,left=50,top=50");
+  }//  function for opening a new pop-up window for printing a page
+  
+ 
+function openNewWindow(strURL) {
+	window.name = "main";
+	
+	var newWindow = window.open(strURL,"newWindow", "toolbar=no,menubar=no,resizable=no,status=no,scrollbars=yes,location=no,directories=no,copyhistory=no,height=400,width=450,left=50,top=50");
+} //  function for opening a new pop-up window
 
-<!-- **INSERT PAGE ID HERE** -->
+// javascript for e-mail this page tool - gets the url of the page the user is on before the e-mail page tool button is clicked
+	
+	function loadReferrer() {
+		referrerString = opener.document.location.href;
+		document.emailForm.page.value = referrerString;
+	}
+
+</script>
 
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- 
+INSERT PAGE VARIABLES
+pgNum = the page ID
+template = 1 for full content space, 2 for added value, 3 for a 150px white column on the right side (for images)
+bodyTitle = the page header (or the alt text if we go the image route in the future)
+-->
 
-<!-- **INSERT Search Zone HERE** -->
-<meta name="searchZone" content="generalCESweb">
 
-<link rel="stylesheet" href="/global_include/css/global.css" type="text/css">
 
-<script language="javascript1.2" src="/global_include/js/global_script.js"></script>
-<script language="javascript1.2">init('0');</script>
+
+	<!-- INSERT PAGE TITLE HERE (immediately following gblPAGE_TITLE) -->
+	<title>2005 International CES:&nbsp;Privacy Policy</title>
+	
+	<!-- INSERT SEARCH ZONE HERE -->
+	<meta name="searchZone" content="generalCESweb">
+
+	<!-- INSERT ANY SCRIPT TAGS FOR THIS PAGE HERE (header.asp closes the <head> tag!) -->
+	
+	
+	<link rel="StyleSheet" href="/global_include/css/mainMethod.css" type="text/css">
+	<link rel="SHORTCUT ICON" href="http://www.easymovement.com/ces/favicon.ico">
+
+<!-- Browser detection script -->
+	<script src="/global_include/js/browser_detection.js" type="text/javascript"></script>
+
+<!-- Rollover script -->
+		
+
+
+		<script language="javascript1.2">
+		/* for graphical rollovers*/
+			function rollOver(which,name)
+				{
+				var on="/global_images2005/0.0/0.0_" + which + "_r.gif";
+				if(document.images) {document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(name).src=on;}
+				}
+			function rollOff(which)
+				{
+				var on="/global_images2005/0.0/0.0_" + which + ".gif";
+				if(document.images){document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(which).src=on;}
+				}
+			function introllOver(which,name)
+				{
+				var on="/global_images2005/0.0/random_main2/0.0_" + which + "_r.gif";
+				//var on="/global_images2005/0.0/0.0_" + which + "_r.gif";
+				if(document.images) {document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(name).src=on;}
+				}
+			function introllOff(which)
+				{
+				var on="/global_images2005/0.0/random_main2/0.0_" + which + ".gif";
+				//var on="/global_images2005/0.0/0.0_" + which + ".gif";
+				if(document.images){document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(which).src=on;}
+				}
+				//******** ALEX ADDED THESE TO APPLY TO GLOBAL CONSTANT PAGES********
+			function introllOver2(which,name)
+				{
+				var on="/global_images2005/0.0/0.0_" + which + "_r.gif";
+				//var on="/global_images2005/0.0/0.0_" + which + "_r.gif";
+				if(document.images) {document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(name).src=on;}
+				}
+			function introllOff2(which)
+				{
+				var on="/global_images2005/0.0/0.0_" + which + ".gif";
+				//var on="/global_images2005/0.0/0.0_" + which + ".gif";
+				if(document.images){document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(which).src=on;}
+				}
+
+			//******** JANAE ADDED THESE TO APPLY TO ONLY THE CENTER HOMEPAGE IMAGE********
+			function introllOverNEW(which,name)
+				{
+				var on="/global_images2005/0.0/0.0_" + which + "_r.gif";
+				if(document.images) {document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(name).src=on;}
+				}
+			function introllOffNEW(which)
+				{
+				var on="/global_images2005/0.0/0.0_" + which + ".gif";
+				if(document.images){document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(which).src=on;}
+				}
+			function snrollOver(which,name)
+				{
+				var on="/global_images2005/0.0/0.0" + which + "_r.gif";
+				if(document.images) {document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(name).src=on;}
+				}
+			function snrollOff(which)
+				{
+				var on="/global_images2005/0.0/0.0" + which + ".gif";
+				if(document.images){document.images[which].src=on;}
+				else if (document.GetElementById){document.GetElementById(which).src=on;}
+				}
+
+			function onLoadHandler() {
+			    if( typeof(bodyOnLoadFunction) != 'undefined' ) {
+			        return eval(bodyOnLoadFunction);
+			    }
+			}
+		</script>
+		
+
+		<style>
+			.text_colored, .intro_copy, .section_title, .subhead, .body_title, .intro_dates, .box10
+				{ 	color:#498429}
+		</style>
 </head>
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<!-- Split up 'pageID' and put into an array of strings -->
+<!-- script to determine the different browser and put in the correct body tag to align the background image properly -->
+<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" onload="onLoadHandler();self.focus();">
 
-<!-- BEGIN TABLE A (header) -->
-<table width="773" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-	<td colspan="5" class="header" bgcolor="#6699CC">
-		<!-- BEGIN TABLE 2 (header, including tabs and global constants) -->	
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td rowspan="3" align="left" width="135">
-			<!-- CES LOGO -->
-			<a href="/default.asp"><img src="/global_images/ces_hdr_logo.gif" border="0"></a></td>
-			<td colspan="2" align="left">
-				<!-- BEGIN TABLE 3 (global constants) -->
-				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+
+
+
+<td width="50%" valign="top" background="/global_images2005/attendees_bg.gif">&nbsp;</td>
+<td valign="top" background="/global_images2005/attendees_bg.gif">
+
+<!-- main table for site -->
+	<table width="770" cellspacing="0" cellpadding="0" border="0">
+<!-- Commented out dummy row to add another tr to the main table
+	<tr>
+	    <td width="10"></td>
+	    <td width="140"></td>
+	    <td width="10"></td>
+	    <td width="10"></td>
+	    <td width="380"></td>
+	    <td width="10"></td>
+	    <td width="10"></td>
+	    <td width="190></td>
+	    <td width="10"></td>
+	</tr>
+   /Commented out dummy row to add another tr to the main table	-->
+<!-- blank 1 pixel row at top of page -->
+	<tbody><tr>
+	    <td width="10"><img src="/global_images2005/spacer.gif" alt="" width="10" height="1" hspace="0" vspace="0" border="0"></td>
+	    <td width="140"><img src="/global_images2005/spacer.gif" alt="" width="140" height="1" hspace="0" vspace="0" border="0"></td>
+	    <td width="10"><img src="/global_images2005/spacer.gif" alt="" width="10" height="1" hspace="0" vspace="0" border="0"></td>
+	    <td width="10"><img src="/global_images2005/spacer.gif" alt="" width="10" height="1" hspace="0" vspace="0" border="0"></td>
+	    <td width="380"><img src="/global_images2005/spacer.gif" alt="" width="380" height="1" hspace="0" vspace="0" border="0"></td>
+	    <td width="10"><img src="/global_images2005/spacer.gif" alt="" width="10" height="1" hspace="0" vspace="0" border="0"></td>
+	    <td width="10"><img src="/global_images2005/spacer.gif" alt="" width="10" height="1" hspace="0" vspace="0" border="0"></td>
+	    <td width="190"><img src="/global_images2005/spacer.gif" alt="" width="190" height="1" hspace="0" vspace="0" border="0"></td>
+	    <td width="10"><img src="/global_images2005/spacer.gif" alt="" width="10" height="1" hspace="0" vspace="0" border="0"></td>
+	</tr>
+<!-- /blank 1 pixel row at top of page -->
+<!-- global navigation row - register, about, faqs, contact, and site map -->
+	<tr>
+	    <td width="10"></td>
+	    <td width="140"></td>
+	    <td width="10"></td>
+	    <td width="10"></td>
+	    <td width="600" colspan="5" class="nav_global"><span class="intro_dates">January 6-9, 2005</span><img src="/global_images2005/spacer.gif" width="4" height="20" hspace="0" vspace="0" border="0" align="absmiddle">| Las Vegas<img src="/global_images2005/spacer.gif" alt="" width="225" height="1" border="0">	<a href="/about_ces/">About CES</a> | <a href="/faqs/">FAQs</a> | <a href="/contact_us/">Contact Us</a> | <a href="/site_map.asp">Site Map</a></td>
+	    <!--<td width="600" colspan="5" class="nav_global"><img src="/global_images2005/test_logo.jpg" width="385" height="20" hspace="0" vspace="0" border="0" align="absmiddle"><a href="/about_ces/">About CES</a> | <a href="/faqs/">FAQs</a> | <a href="/contact_us/">Contact Us</a> | <a href="site_map.asp">Site Map</a></td>-->
+	</tr>
+<!-- /global navigation row - register, about, faqs, contact, and site map -->
+<!-- logo and banner image row -->
+	<tr>
+	    <td width="10"></td>
+	    <td width="140"><a href="/default.htm"><img src="/global_images2005/logo.gif" alt="International CES" width="140" height="74" hspace="0" vspace="0" border="0"></a></td>
+	    <td width="10"></td>
+	    <td width="610" colspan="6"><img src="/global_images2005/0.0/random_main2/0.0.banner.gif" alt="" width="610" height="74" border="0"></td>
+	</tr>
+<!-- /logo and banner image row -->
+<!-- primary navigation row -->
+	<tr>
+	    <td width="10"></td>
+	    <td width="140"></td>
+	    <td width="10"></td>
+		<td width="610" colspan="6" background="/global_images2005/spacer.gif"><a href="/attendees/" onmouseover="rollOver('tab_attendees');" onmouseout="rollOff('tab_attendees');"><img name="tab_attendees" src="/global_images2005/0.0/0.0_tab_attendees.gif" alt="Attendees" width="70" height="27" hspace="0" vspace="0" border="0"></a><a href="/exhibitors/" onmouseover="rollOver('tab_exhibitor');" onmouseout="rollOff('tab_exhibitor');"><img name="tab_exhibitor" src="/global_images2005/0.0/0.0_tab_exhibitor.gif" alt="Exhibitor Services" width="118" height="27" hspace="0" vspace="0" border="0"></a><a href="/press/" onmouseover="rollOver('tab_press');" onmouseout="rollOff('tab_press');"><img name="tab_press" src="/global_images2005/0.0/0.0_tab_press.gif" width="78" height="27" alt="Press" border="0"></a><a href="/international/" onmouseover="introllOver2('tab_international');" onmouseout="introllOff2('tab_international');"><img src="/global_images2005/0.0/0.0_tab_international.gif" width="134" height="27" alt="" border="0" name="tab_international"></a><img src="/global_images2005/0.0/0.0_tab_right.gif" alt="" width="210" height="27" hspace="0" vspace="0" border="0"></td>
+	</tr>
+<!-- /primary navigation row -->
+<!-- secondary navigation row -->
+	<tr>
+	    <td width="10"></td>
+			<form name="searchCESWeb" method="POST" action="/search/searchResult.asp"></form>
+        	    <td width="760" colspan="8" background="/global_images2005/spacer.gif" class="home3">
+<!-- table for secondary navigation and form -->
+				<table cellspacing="0" cellpadding="0" border="0" width="760" background="/global_images2005/spacer.gif">
 				<tbody><tr>
-					<!--<TD><IMG SRC="/global_images/spacer.gif" WIDTH="366" HEIGHT="14"></TD>-->
-					<td class="headerconstants" align="right">
-					<!-- HEADER CONSTANTS -->
-					<a href="/default.asp" class="headerconstants">home</a> | <a href="/about_ces/default.asp" class="headerconstants">about ces</a> | <a href="/help/default.asp" class="headerconstants">help</a> | <a href="/contact_ces/default.asp" class="headerconstants">contact us</a> |  <a href="/privacy/default.asp" class="headerconstants">privacy</a>&nbsp;</td>
+
+				<td class="home_second_nav" width="560">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+
+				<td width="173" align="right">
+<!-- Script for setting correct search box size -->
+				<script language="JavaScript">
+				<!--
+					if (is_nav4) {
+						document.write("<input  size=20 ");
+					}
+					else if (is_mac) {
+						document.write("<input align='absmiddle' size=30");
+					}
+					else if (is_safari) {
+						document.write(" style='margin-bottom :-25px;' ");
+					}
+					else {
+					    document.write("<input  size=34 ");
+					}
+                    function checkSearch() {
+                        var searchForm = document.searchCESWeb;
+
+                        if(searchForm.SEARCH_STRING.value.search(/\S/) == -1) {
+                            alert("Please enter text to search for.");
+                            return;
+                        }
+                        searchForm.submit();
+                    }
+				//-->
+				</script><input size="34" type="text" name="SEARCH_STRING" value=" Search CESweb.org" class="homeform" onfocus="if(this.value==' Search CESweb.org')this.value=''; snrollOver('.button_search');" onblur="if(this.value=='')this.value=' Search CESweb.org'; snrollOff('.button_search');">&nbsp;&nbsp;</td>
+				<td width="27"><img name=".button_search" src="/global_images2005/0.0/0.0.button_search.gif" alt="go" width="27" height="33" hspace="0" vspace="0" border="0" onmouseover="snrollOver('.button_search');" onmouseout="snrollOff('.button_search');" onclick="checkSearch();"></td>
 				</tr>
 				</tbody></table>
-				<!-- END TABLE 3 -->
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" align="left">
-			<img src="/global_images/spacer.gif" width="630" height="15"></td>
-		</tr>
-		<tr>
-			<td align="center" valign="bottom">
-			<!-- NAVIGATION TABS -->
-			<!-- Begin conditional (Select) statement to determine which active tab to display (based on pageID) -->
-			
-			<a href="/default.asp"><img name="tab_main" src="/global_images/tab_main_active.gif" border="0" alt="Main Menu"></a><a href="/for_press_analysts/default.asp" onmouseover="rollover('tab_press', tab_press_active);" onmouseout="rollover('tab_press', tab_press_standard);"><img name="tab_press" src="/global_images/tab_press.gif" border="0" alt="for Press/Analysts"></a><a href="/for_exhibitors/default.asp" onmouseover="rollover('tab_exhibitors', tab_exhibitors_active);" onmouseout="rollover('tab_exhibitors', tab_exhibitors_standard);"><img name="tab_exhibitors" src="/global_images/tab_exhibitors.gif" border="0" alt="for Exhibitors"></a><a href="/for_speakers/default.asp" onmouseover="rollover('tab_speakers', tab_speakers_active);" onmouseout="rollover('tab_speakers', tab_speakers_standard);"><img name="tab_speakers" src="/global_images/tab_speakers.gif" border="0" alt="for Speakers"></a></td>
-			
-			<td><img src="/global_images/spacer.gif" width="140" height="10"></td>
-		</tr>
-		</tbody></table>
-		<!-- END TABLE 2 -->
-	</td>
-</tr>
-</tbody></table>
-<!-- END TABLE A (header) -->
-
-<!-- BEGIN TABLE B (main content area - everything below main header) -->
-<table width="773" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<!-- BEGIN SUB-TAB NAVIGATION (all logic contained in include files) -->
-	<!-- Begin conditional (Select) statement to determine which active sub-tab to display (based on pageID) -->
-		<!-- subtab nav: main -->
-
-	<td align="center" colspan="5" background="/global_images/subtab_bg_main.gif" class="subtab_main">
-		<!--<A HREF="http://ww4.expocard.com/ces031/" ONMOUSEOVER="rollover('subtab_main_register', subtab_main_register_active);" ONMOUSEOUT="rollover('subtab_main_register', subtab_main_register_standard);"><IMG NAME="subtab_main_register" SRC="/global_images/subtab_main_register.gif" ALT="Register Now!" BORDER="0"></A>-->
-		<a href="/conferences/default.asp" onmouseover="rollover('subtab_main_conferences', subtab_main_conferences_active);" onmouseout="rollover('subtab_main_conferences', subtab_main_conferences_standard);"><img name="subtab_main_conferences" src="/global_images/subtab_main_conferences.gif" alt="Conferences" border="0"></a>
-		<a href="/exhibitor_dir/exhibitor_name.asp" onmouseover="rollover('subtab_main_exhdir', subtab_main_exhdir_active);" onmouseout="rollover('subtab_main_exhdir', subtab_main_exhdir_standard);"><img name="subtab_main_exhdir" src="/global_images/subtab_main_exhdir.gif" alt="Exhibitor Directory" border="0"></a>
-		<a href="/for_press_analysts/news/default.asp" onmouseover="rollover('subtab_main_news', subtab_main_news_active);" onmouseout="rollover('subtab_main_news', subtab_main_news_standard);"><img name="subtab_main_news" src="/global_images/subtab_main_news.gif" alt="News" border="0"></a>
-		<a href="/special_events/default.asp" onmouseover="rollover('subtab_main_special', subtab_main_special_active);" onmouseout="rollover('subtab_main_special', subtab_main_special_standard);"><img name="subtab_main_special" src="/global_images/subtab_main_special.gif" alt="Special Events" border="0"></a>
-		<a href="/pavilions/default.asp" onmouseover="rollover('subtab_main_pavillions', subtab_main_pavillions_active);" onmouseout="rollover('subtab_main_pavillions', subtab_main_pavillions_standard);"><img name="subtab_main_pavillions" src="/global_images/subtab_main_pavillions.gif" alt="Pavilions" border="0"></a>
-		<a href="/awards/default.asp" onmouseover="rollover('subtab_main_awards', subtab_main_awards_active);" onmouseout="rollover('subtab_main_awards', subtab_main_awards_standard);"><img name="subtab_main_awards" src="/global_images/subtab_main_awards.gif" alt="Awards" border="0"></a>
-		<!--<A HREF="/e_newsletters/default.asp" ONMOUSEOVER="rollover('subtab_main_newsletters', subtab_main_newsletters_active);" ONMOUSEOUT="rollover('subtab_main_newsletters', subtab_main_newsletters_standard);"><IMG NAME="subtab_main_newsletters" SRC="/global_images/subtab_main_newsletters.gif" ALT="eNewsletters" BORDER="0"></A>-->
-		<a href="/ces_locations/default.asp" onmouseover="rollover('subtab_main_locations', subtab_main_locations_active);" onmouseout="rollover('subtab_main_locations', subtab_main_locations_standard);"><img name="subtab_main_locations" src="/global_images/subtab_main_locations.gif" alt="CES Locations" border="0"></a>
-		<!--<A HREF="/travel/default.asp" ONMOUSEOVER="rollover('subtab_main_travel', subtab_main_travel_active);" ONMOUSEOUT="rollover('subtab_main_travel', subtab_main_travel_standard);"><IMG NAME="subtab_main_travel" SRC="/global_images/subtab_main_travel.gif" ALT="Travel" BORDER="0"></A>-->
-		<a href="/partners/default.asp" onmouseover="rollover('subtab_main_partners', subtab_main_partners_active);" onmouseout="rollover('subtab_main_partners', subtab_main_partners_standard);"><img name="subtab_main_partners" src="/global_images/subtab_main_partners.gif" alt="Partners" border="0"></a>
-	</td>
-
-	<!-- END SUB-TAB NAVIGATION -->
-</tr>
-<tr>
-	<td colspan="5">
-		<!-- BEGIN TABLE 4 (international navigation & 'register now' button) -->
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td>
-				<!-- BEGIN TABLE 5 (international navigation) -->
-				<table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td class="internationalnav"><img src="/global_images/spacer.gif" width="8" height="25"></td>
-					<!--<TD CLASS="internationalnav" ALIGN="left" VALIGN="middle"><A HREF="/international/default.asp">International Visitors</a>-->
-					<td class="internationalnav" align="left" valign="middle">International Visitors:&nbsp;&nbsp;<a href="/international/default.asp" class="internationalnav">English</a>&nbsp;&nbsp;&nbsp;<a href="/international/Deutsch/default.asp" class="internationalnav">Deutsch</a>&nbsp;&nbsp;&nbsp;<a href="/international/Francais/default.asp" class="internationalnav">Francaís</a>&nbsp;&nbsp;&nbsp;<a href="/international/Espanol/default.asp" class="internationalnav">Español</a>&nbsp;&nbsp;</td>
-					<td class="internationalnav" align="left" valign="middle">&nbsp;<a href="/international/Korean/default.asp"><img src="/global_images/language_korean.gif" border="0"></a><a href="/international/japanese/default.asp"><img src="/global_images/language_chinese.gif" border="0"></a><a href="/international/chinese/default.asp"><img src="/global_images/language_japanese.gif" border="0"></a></td>
-				</tr>
-				</tbody></table>
-			</td>
-			<td align="right">
-				<!--<A HREF="/registration/default.asp" ONMOUSEOVER="rollover('register', register_active);" ONMOUSEOUT="rollover('register', register_standard);"><IMG NAME="register" SRC="/global_images/register.gif" BORDER="0"></A>-->
-				<!--<a href="http://ww4.expocard.com/ces031/" class="register">Registration</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>-->
-		</td></tr>
-		</tbody></table>
-		<!-- END TABLE 4 -->	
-	</td>
-</tr>
-<tr>
-	<td colspan="5" valign="bottom" background="/global_images/page_sep_top.gif">
-	<!-- top page sep -->
-	<img src="/global_images/spacer.gif" width="760" height="1"></td>
-</tr>
-<!-- END HEADER (ending at dull blue line just beneath international links) -->
-<!-- BEGIN SUB-HEAD TABLE ROW (beginning at top of left column) -->
-<tr>
-    <!-- BEGIN LEFT COLUMN -->
-	<td valign="top" align="right" width="130">
-	<!-- Split up 'pageID' and put into an array of strings -->
-
-	<!-- BEGIN LEFT COLUMN (including left navigation (if any) and page constants -->
-	<!-- BEGIN TABLE 5 (optional left-hand navigation, based on pageID)
-	
-	<!-- Begin conditional (Select) statement to determine which left navigation to display (based on pageID) -->
-	
-			<img src="/global_images/ad_campaign/orange_green.jpg" border="0"><br><img src="/global_images/spacer.gif" height="10" border="0">
+<!-- /table for secondary navigation and form -->
+		</td>
+			<input type="hidden" name="ExhibitorSearchField" value="on">
+			<input type="hidden" name="EventSearchField" value="on">
+			<input type="hidden" name="PressSearchField" value="on">
+			<input type="hidden" name="ConferenceSearchField" value="on">
+			<input type="hidden" name="GeneralCESwebSearchField" value="on">
 		
+	 </tr>
+<!-- /secondary navigation row -->
+<!-- colored row with section color 4 - 5 pixels high -->
+	<tr>
+	    <td width="10"></td>
+	    <td width="140"></td>
+	    <td width="10"></td>
+	    <td width="610" colspan="6" background="/global_images2005/spacer.gif" class="home4"><img src="/global_images2005/spacer.gif" alt="" width="610" height="5" hspace="0" vspace="0" border="0"></td>
+	 </tr>
+<!-- /colored row with section color 4 - 5 pixels high -->
 
-	<div align="center"><a href="http://www.ce.org" target="new"><img src="/global_images/CEAproCESart.jpg" border="0"></a></div><br>	
-	
-	<a href='javascript:newWin("/global_include/asp/page_tools/print.asp","0.5")'><img border="0" src="/global_images/page_tool_print2.gif"></a><br>
-	<a href='javascript:openNewWindow("/global_include/asp/page_tools/email.asp")'><img src="/global_images/page_tool_email3.gif" border="0"></a><br>
-	<!--<A HREF=javascript:openNewWindow("/global_include/asp/page_tools/sync.asp")><IMG SRC="/global_images/page_tool_sync.gif" BORDER="0"></A><br>-->
-	<a href='javascript:openNewWindow("/global_include/asp/page_tools/bookmark.asp")'><img src="/global_images/page_tool_bookmark2.gif" border="0"></a><br>
-	<a href='javascript:openNewWindow("/global_include/asp/page_tools/idea.asp")'><img src="/global_images/page_tool_idea2.gif" border="0"></a><br><br>
-
-
-	</td>
-    <!-- left col sep line -->
-	<td valign="top" background="/global_images/page_sep_left.gif">
-	<img src="/global_images/spacer.gif" width="7">
-	</td>
-	<!-- END LEFT COLUMN -->
-	
-	<!-- BEGIN CENTER CONTENT AREA -->
-	<td valign="top" width="100%">
-	<img src="/global_images/spacer.gif" width="490" height="5"><br>
-	<!-- content begins here, then table data <TD> cell is closed in page_right_column.asp --> <!-- **this file includes page_left_column.asp** -->	
+<!-- breadcrumb row -->
+	<tr>
+	    <td width="10"></td>
+	    
+			<td width="140"><a href="/register/" onmouseover="snrollOver('.register');" onmouseout="snrollOff('.register');"><img src="/global_images2005/0.0/0.0.register.gif" alt="Register" name=".register" id=".register" width="140" height="40" hspace="0" vspace="0" border="0"></a></td>
 		
-<!-- **CONTENT STARTS HERE** -->
-<div class="text" id="0.5">
-<span class="pagehead">Privacy</span><br><br>
-<span class="head">CESweb Privacy Statement: Our Commitment to You</span><br><br>
-<span class="subhead">Our Commitment To Privacy</span><br>
+			<!--<td width="140"><a href="/exhibitors/resource_center/badges/default.asp" onmouseover=snrollOver('.register'); onmouseout=snrollOff('.register');><img src="/global_images2005//0.0_files/.register.gif" alt="Register" name=".register" id=".register" width="140" height="40" hspace="0" vspace="0" border="0"></a></td>-->
+		
+			<!--<td width="140"><a href="/registration_temp.asp" onmouseover=snrollOver('.register'); onmouseout=snrollOff('.register');><img src="/global_images2005//0.0_files/.register.gif" alt="Register" name=".register" id=".register" width="140" height="40" hspace="0" vspace="0" border="0"></a></td>-->
+		
+		<td width="10"></td>		
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To ensure this notice is easy to find, it is available on our homepage and at every point where personal identification is requested.<br><br>
-<span class="subhead">The Information We Collect</span><br>
-This notice applies to all information collected or submitted on the www.CESweb.org website. On some pages, you can order products, register for events, make requests and/or ask to receive materials. The types of personal information collected at these pages include: <br><br>
+		
+		    <td width="10" background="/global_images2005/spacer.gif" class="home6"><img src="/global_images2005/spacer.gif" alt="" width="10" height="40" hspace="0" vspace="0" border="0"></td>
+		    <td width="390" colspan="2" background="/global_images2005/spacer.gif" class="home6" valign="bottom"><span class="home_nav_breadcrumb">
+			<a href="/default.asp">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
+			</span><br><img src="/global_images2005/spacer.gif" height="8" width="1"></td>
+		    <td width="200" background="/global_images2005/spacer.gif" colspan="2" class="home6"><img src="/global_images2005/0.0/0.0_print_mail.gif" width="115" height="40" alt="print - email" border="0"><a href='javascript:newWin("/global_include/asp/page_tools/print.asp","0.5")' onmouseover="snrollOver('_button_print');" onmouseout="snrollOff('_button_print');"><img src="/global_images2005/0.0/0.0_button_print.gif" alt="Print" name="_button_print" id="_button_print" width="42" height="40" hspace="0" vspace="0" border="0"></a><a href='javascript:openNewWindow("/global_include/asp/page_tools/email.asp")' onmouseover="snrollOver('_button_mail');" onmouseout="snrollOff('_button_mail');"><img src="/global_images2005/0.0/0.0_button_mail.gif" alt="Email" name="_button_mail" id="_button_mail" width="42" height="40" hspace="0" vspace="0" border="0"></a></td>
+		    <td width="10" background="/global_images2005/spacer.gif" class="home6">&nbsp;</td>
+    			
+	</tr>
+<!-- /breadcrumb row -->	
+<!-- main body row -->
+	<tr>
+	    <td width="10" background="/global_images2005/spacer.gif"></td>
+	    <td width="140" background="/global_images2005/spacer.gif" valign="top"><img src="/global_images2005/spacer.gif" width="140" height="20" alt="" border="0"><br>
 
-<table cellpadding="0" cellspacing="0">
+		<span class="nav_third">
+
+
+
+<a href="http://www.ce.org" target="new" onmouseover="snrollOver('_logo_cea');" onmouseout="snrollOff('_logo_cea');"><img src="/global_images2005/0.0/0.0_logo_cea.gif" name="_logo_cea" width="140" height="116" alt="Produced by Consumer Electronics Association" border="0"></a><br><img src="/global_images2005/spacer.gif" width="1" height="12" border="0"><br>
+
+</span>
+
+
+		</td>
+	    <td width="10"></td>
+		<!-- checking to see if the page is a main section page or not -->
+		
+			<td width="10" background="/global_images2005/spacer.gif" class="attendees7">&nbsp;</td>
+		    <td width="590" colspan="4" background="/global_images2005/spacer.gif" class="attendees7" valign="top">
+				
+					<img src="/global_images2005/spacer.gif" height="10" width="1"><br><div class="body_title">Privacy Policy<br><img src="/global_images2005/spacer.gif" height="16" width="1"></div>
+				
+
+<div id="0.5">
+<!-- text for main page -->
+<span class="section_title">CESweb Privacy Statement: Our Commitment to You</span><br>
+
+<img src="/global_images2005/spacer.gif" alt="" width="1" height="30" hspace="0" vspace="0" border="0"><br>
+<img src="/global_images2005/0.0/0.0.line.gif" alt="-----------------------------------------------" width="590" height="2" hspace="0" vspace="0" border="0"><br>
+<div class="section_title">Our commitment to privacy</div>
+Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To ensure this notice is easy to find, it is available on our homepage and at every point where personal identification is requested.
+
+<br>
+<img src="/global_images2005/spacer.gif" alt="" width="1" height="30" hspace="0" vspace="0" border="0"><br>
+<img src="/global_images2005/0.0/0.0.line.gif" alt="-----------------------------------------------" width="590" height="2" hspace="0" vspace="0" border="0"><br>
+<div class="section_title">The information we collect</div>
+This notice applies to all information collected or submitted on the www.CESweb.org website. On some pages, you can order products, register for events, make requests and/or ask to receive materials. The types of personal information collected on these pages include: 
+<br><br>
+
+<table cellpadding="0" cellspacing="0" width="320" border="0">
 	<tbody><tr>
 	<td class="text">Name</td>
 	<td>&nbsp;&nbsp;</td>
-	<td class="text">Fax number</td>
+	<td class="text">Fax Number</td>
 	</tr>
 	<tr>
-	<td class="text">Title</td>
+	<td class="text">Business Title</td>
 	<td>&nbsp;&nbsp;</td>
 	<td class="text">Credit/Debit Card Information</td>
 	</tr>
@@ -190,195 +357,101 @@ This notice applies to all information collected or submitted on the www.CESweb.
 	<td class="text">Company's Gross Annual Sales</td>
 	</tr>
 	<tr>
-	<td class="text">Email address</td>
+	<td class="text">E-mail Address</td>
 	<td>&nbsp;&nbsp;</td>
 	<td class="text">Buying Influence</td>
 	</tr>
 	<tr>
-	<td class="text">Phone number</td>
+	<td class="text">Phone Number</td>
 	<td>&nbsp;&nbsp;</td>
 	<td class="text"></td>
 	</tr>
 
 </tbody></table>
-
-<br>
-<span class="subhead">The Way We Use Information</span><br>
+  
+<img src="/global_images2005/spacer.gif" alt="" width="1" height="30" hspace="0" vspace="0" border="0"><br>
+<img src="/global_images2005/0.0/0.0.line.gif" alt="-----------------------------------------------" width="590" height="2" hspace="0" vspace="0" border="0"><br>
+<div class="section_title">The way we use information</div>
 We use the information you provide when placing an order only in the context of your involvement with CES. We use the information to the extent necessary to complete an order you placed. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share the information with outside parties except to the extent necessary to complete that order. 
 <br><br>
-<b>E-mail Use</b><br>
-We use return e-mail addresses to answer the e-mail we receive and for future contact with you. Such addresses are not shared with outside parties without your permission. If you would like your e-mail address removed from the CES list, please click on or copy and paste the following link into your browser <a href="http://www.CESweb.org/listremove">http://www.CESweb.org/listremove</a>, and enter your e-mail address.  Removal requests made any other way may not be processed.  NOTE: When you remove your name from the list, you will not receive further show updates regarding the International CES, via e-mail.<br><br>
-<b>Address and Fax Number Use</b><br>
-As a service to exhibitors, partners and sponsors, we make CES attendee/guests mailing addresses and fax numbers (only) available to companies exhibiting at CES for pre-and post-show promotion for limited use through a third party vendor. If you would like your name, mailing address and fax number removed from these promotional opportunities, please e-mail CES Customer Service at <a href="mailto:CESinfo@CE.org">CESinfo@CE.org</a>. You also may contact CES Customer Service by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675.  When you remove your name from the list, you will not receive further show updates regarding the International CES, via fax or mail.  Be sure to include whether you want to be removed from CES lists, exhibitor/sponsor/partner lists, or both.<br><br>
-<b>Cookies</b><br>
-A cookie is a piece of data stored on the user’s computer and is tied to information about the user.  (Usage of a cookie is in no way linked to any personal information while on our site.) We use both session ID cookies and persistent cookies.  For the session ID cookie, once you close your browser, the cookie simply terminates.  A persistent cookie is a small text file stored on your hard drive for an extended period of time.  CES uses cookies to gather information about your visits and to help customize your experience while on our website.  If cookies are disabled on your browser, you will still be able to access our website.<br><br>
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose any information that could be used to identify those individuals. 
-
+<span class="subhead">E-mail Use</span><br>
+We use return e-mail addresses to answer the e-mail we receive and for future contact with you. Such addresses are not shared with outside parties without your permission. If you would like your e-mail address removed from the CES list, please click on or copy and paste the following link into your browser <a href="http://www.CESweb.org/listremove">http://www.CESweb.org/listremove</a>, and enter your e-mail address.  Removal requests made any other way may not be processed.  NOTE: When you remove your name from the list, you will not receive further show updates regarding the International CES via e-mail.<br><br>
+<span class="subhead">Address and Fax Number Use</span><br>
+As a service to exhibitors, partners and sponsors, we make CES attendee/guests mailing addresses and fax numbers (only) available to companies exhibiting at CES for pre-and post-show promotion for limited use through a third party vendor. If you would like your name, mailing address and fax number removed from these promotional opportunities, please e-mail CES Customer Service at <a href="mailto:CESinfo@CE.org">CESinfo@CE.org</a>. You may also may contact CES Customer Service by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675.  When you remove your name from the list, you will not receive further show updates regarding the International CES, via fax or mail.  Be sure to include whether you want to be removed from CES lists, exhibitor/sponsor/partner lists, or both.<br><br>
+<span class="subhead">Cookies</span><br>
+A cookie is a piece of data stored on the user’s computer and is tied to information about the user.  (Usage of a cookie is in no way linked to any personal information while on our site.) We use both session ID cookies and persistent cookies.  For the session ID cookie, once you close your browser, the cookie simply terminates.  A persistent cookie is a small text file stored on your hard drive for an extended period of time.  CES uses cookies to gather information about your visits and to help customize your experience while on our website.  If cookies are disabled on your browser, you will still be able to access our website.
 <br><br>
-<span class="subhead">Our Commitment To Data Security</span><br>
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. <br><br>
-<span class="subhead">Our Commitment To Children's Privacy</span><br>
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under the age of 13, and no part of our website is structured to attract anyone under the age of 13. <br><br>
-<span class="subhead">How You Can Access Or Correct Your Information</span><br>
-If you are a registered exhibitor, you can access and amend your information online. If you are an attendee, you can amend your information online until badge production begins, or you may e-mail CES Customer Service at <a href="mailto:CESinfo@CE.org">CESinfo@CE.org</a> for assistance. 
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose any information that could be used to identify those individuals. 
+<br>
+
+<img src="/global_images2005/spacer.gif" alt="" width="1" height="30" hspace="0" vspace="0" border="0"><br>
+<img src="/global_images2005/0.0/0.0.line.gif" alt="-----------------------------------------------" width="590" height="2" hspace="0" vspace="0" border="0"><br>
+<div class="section_title">Our commitment to data security</div>
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+<br>
+
+<img src="/global_images2005/spacer.gif" alt="" width="1" height="30" hspace="0" vspace="0" border="0"><br>
+<img src="/global_images2005/0.0/0.0.line.gif" alt="-----------------------------------------------" width="590" height="2" hspace="0" vspace="0" border="0"><br>
+<div class="section_title">Our commitment to children's privacy</div>
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under the age of 13, and no part of our website is structured to attract anyone under the age of 13. 
+<br>
+
+<img src="/global_images2005/spacer.gif" alt="" width="1" height="30" hspace="0" vspace="0" border="0"><br>
+<img src="/global_images2005/0.0/0.0.line.gif" alt="-----------------------------------------------" width="590" height="2" hspace="0" vspace="0" border="0"><br>
+<div class="section_title">How you can access or correct your information</div>
+If you are a registered exhibitor, you can access and amend your information online. If you are an attendee, you can amend your information online until September 15, 2003 , or you may e-mail CES Customer Service at <a href="mailto:CESinfo@CE.org">CESinfo@CE.org</a> for assistance. 
 You also may contact CES Customer Service by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675.<br><br>
-You can correct factual errors in your personal information by sending us a request that illustrates the error. <br><br>
-To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections. <br><br>
-<span class="subhead">How To Contact Us</span><br>
+You may correct factual errors in your personal information by sending us a request that illustrates the error. <br><br>
+To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections. 
+<br>
+
+<img src="/global_images2005/spacer.gif" alt="" width="1" height="30" hspace="0" vspace="0" border="0"><br>
+<img src="/global_images2005/0.0/0.0.line.gif" alt="-----------------------------------------------" width="590" height="2" hspace="0" vspace="0" border="0"><br>
+<div class="section_title">How to contact us</div>
 Should you have other questions or concerns about these privacy policies, please contact CES Customer Service at <a href="mailto:CESinfo@CE.org">CESinfo@CE.org</a>, by phone at (866) 233-7968 (USA), (301) 631-3983 (International), or by fax at (703) 907-7675.<br><br>
 
+<!-- /text for main page -->
 </div>
-<!-- **CONTENT ENDS HERE** -->
-		
-	</td>
-	<!-- (close of <TD> cell from page_header.asp) -->
-	<!-- END CENTER CONTENT AREA -->
 	
-	<!-- BEGIN RIGHT COLUMN -->
-	<!-- right col sep line -->
-	<td valign="top" background="/global_images/page_sep_right.gif">
-	<img src="/global_images/spacer.gif" width="7">
-	</td>
-	<td valign="top" width="135" bgcolor="#ffffff">
-		<!-- BEGIN TABLE 7 (show dates and search box) -->
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td colspan="2" class="avshadowmain"><img src="/global_images/spacer.gif" height="8"></td>
-		</tr>
-		<tr>
-			<td class="avshadowmain"><img src="/global_images/spacer.gif" width="2"></td>
-			<td class="avshadowmain">
-				<div align="center" class="subhead">Save the date!</div><img src="/global_images/spacer.gif" height="4" border="0"><br>	
-				<div align="center" class="callout_small">2004 International CES</div>
-				<div align="center" style="COLOR:#004aa0">
-				<strong>
-				<img src="/global_images/spacer.gif" height="4"><br>
-				January 8-11, 2004<br>
-				Las Vegas, Nevada</strong>
-				<br><img src="/global_images/spacer.gif" height="4"><br>
-				<b><a href="/registration/">Registration</a></b>
-				<br><img src="/global_images/spacer.gif" height="8"><br>				
-				</div>
-			<!--<img src="/global_images/spacer.gif" height="4"><br>
-			<span class="callout"><i>
-			&nbsp;Coming in
-			<SCRIPT LANGUAGE = "JavaScript">
-				var now = new Date();
-				// set this value to the countdown date.
-				var then = new Date("January 9, 2003");
-				var gap = then.getTime() - now.getTime();
-					gap = Math.floor(gap / (1000 * 60 * 60 * 24));
-				document.write(gap);
-			</SCRIPT>
-			days!<br><br>
-			</i></span>-->
-			</td>
-		</tr>
-		<!--<TR>
-			<TD COLSPAN="2" BACKGROUND="/global_images/page_sep_top.gif"><IMG SRC="/global_images/spacer.gif" WIDTH="135" HEIGHT="1"></TD>
-		</TR>-->
+
+			<br>
+			<br>
+			<br>
 		
-		<!-- ** SEARCH BOX -->
-		
-<script language="javascript1.2">
-	function checkSearch() {
-			var searchForm = document.searchCESWeb;
+		</td>
+	    <td width="10" background="/global_images2005/spacer.gif" class="attendees7">&nbsp;</td>
 			
-			if(searchForm.SEARCH_STRING.value.search(/\S/) == -1) {
-				alert("Please enter text to search for.");
-				return;
-			}
-			searchForm.submit();
-	}
-</script>
-		<tr>
-			<td colspan="2"><img src="/global_images/spacer.gif" height="12"></td>
 		</tr>
-
-		<tr>
-			<td>&nbsp;</td>
-			<td class="search">
-			
-			<form name="searchCESWeb" method="POST" action="/search/searchResult.asp">
-			&nbsp;&nbsp;<span class="search">Search CESweb</span><br>
-			
-			&nbsp;&nbsp;<input type="text" name="SEARCH_STRING" size="15" class="text">&nbsp;<a href="javascript:checkSearch();"><img border="0" src="/global_images/search_go_Button.gif"></a><br>
-			<!--<A HREF="" CLASS="search">advanced search</A>-->
-			<!-- Component Fields -->
-			<input type="hidden" name="ExhibitorSearchField" value="on">
-			<input type="hidden" name="EventSearchField" value="on">
-			<input type="hidden" name="PressSearchField" value="on">
-			<input type="hidden" name="ConferenceSearchField" value="on">
-			<input type="hidden" name="GeneralCESwebSearchField" value="on">
-			</form>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2"><img src="/global_images/spacer.gif" height="10"></td>
-		</tr>
-		
-		<!--<tr>
-			<td colspan="2"><span class="subhead"><em>&nbsp;&nbsp;&nbsp;Questions?</em></span>
-			<br>&nbsp;&nbsp;&nbsp;<a href="/help/default.asp">We've got answers.</a>
-			</td>
-		</tr>-->
-
-		<tr>
-			<td colspan="2"><img src="/global_images/spacer.gif" height="6"></td>
-		</tr>
-		
-		<!--<TR>
-			<TD COLSPAN="2" BACKGROUND="/global_images/page_sep_top.gif"><IMG SRC="/global_images/spacer.gif" WIDTH="135" HEIGHT="1"></TD>
-		</TR>-->
-		
-		</tbody></table>
-		<!-- END TABLE 7 -->
-					
-	<!-- table data <TD> cell is closed in page_footer.asp (following optional added value and CEA Sponsorship info) -->		
+<!-- /main body row -->
+<!-- footer row -->
+	<tr>
+	    <td width="10"></td>
+	    <td width="140"></td>
+	    <td width="10"></td>
+	    <!--<td width="610" colspan=6><img src="/global_images2005//_files/.page_bottom1.jpggif" alt="" width="610" hspace="0" vspace="0" border="0"></td>-->
+		<td width="610" colspan="6"><img src="/global_images2005/0.0/0.0.page_bottom1.gif" alt="" width="610" height="10" hspace="0" vspace="0" border="0"></td>
+	</tr>
+	<tr>
+	    <td width="10"></td>
+	    <td width="140"></td>
+	    <td width="10"></td>
+	    <td width="10" class="footer"><img src="/global_images2005/footer_left.gif" alt="(" width="10" height="30" hspace="0" vspace="0" border="0"></td>
+	    <td width="380" background="/global_images2005/footer_bg.gif" class="footer"><span class="nav_footer"><a href="/about_ces/">About CES</a> | <a href="/faqs/">FAQs</a> | <a href="/contact_us/">Contact Us</a> | <a href="/site_map.asp">Site Map</a> | <a href="/privacy_policy.asp">Privacy Policy</a> | <a href="/vendors.asp">Vendors</a></span></td>
+	    <td width="210" colspan="3" align="right" background="/global_images2005/footer_bg.gif" class="footer"><span class="nav_footer"> © 2004 CEA, All rights reserved</span></td>
+	    <td width="10" class="footer"><img src="/global_images2005/footer_right.gif" alt=")" width="10" height="30" hspace="0" vspace="0" border="0"></td>
+	</tr>
+<!-- /footer row -->
+	</tbody></table>
+	<img src="/global_images2005/spacer.gif" alt="" width="1" height="20" hspace="0" vspace="0" border="0" "="">
+<!-- /main table for site -->
 
 
-<!-- **INSERT OPTIONAL ADDED VALUE CONTENT HERE (use added value template, located in templates folder)** -->
-<!-- BEGIN TABLE 8 (optional added value) -->
-
-<!-- END TABLE 8 -->
-
-		<!-- BEGIN TABLE 9 (CEA sponsorship & logo) -->
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td>&nbsp;</td>
-			<td class="ceasponsorship"><!--<br>CES is sponsored, produced and managed by the Consumer Electronics Association (CEA).
-			To learn more about CEA, please visit <A HREF="http://www.ce.org">www.ce.org</A><br>
-			<A HREF="http://www.ce.org"><IMG SRC="/global_images/logo_cea.gif" BORDER="0"></A>
-			-->&nbsp;</td>
-		</tr>
-		</tbody></table>
-		<!-- END TABLE 9 -->
-	</td>
-	<!-- (close of <TD> cell from page_right_column.asp) -->
-</tr>
-<!-- (close of <TR> cell from page_header.asp) -->
-<tr>
-	<td><img src="/global_images/spacer.gif" width="130" height="10"></td>
-	<td colspan="3" valign="top" background="/global_images/page_sep_bottom.gif">
-	<!-- bottom page separator -->
-	<img src="/global_images/spacer.gif" width="490" height="10"></td>
-	<td><img src="/global_images/spacer.gif" width="135" height="10"></td>
-</tr>
-<tr>
-	<td colspan="5" valign="top" class="footer">
-		<!-- BEGIN TABLE 10 (page footer) -->
-		<table width="100%" border="0" cellpadding="3" cellspacing="0">
-		<tbody><tr>
-			<td class="footerconstants" align="left"><a href="/default.asp" class="footerconstants">home</a> | <a href="/about_ces/default.asp" class="footerconstants">about ces</a> | <a href="/help/default.asp" class="footerconstants">help</a> | <a href="/contact_ces/default.asp" class="footerconstants">contact us</a> | <a href="/privacy/default.asp" class="footerconstants">privacy</a></td>
-			<td class="footerconstants" align="right">© 2002-2003 Consumer Electronics Association</td>
-		</tr>
-		</tbody></table>
-		<!-- END TABLE 10 -->
-	</td>
+</td>
+<td width="50%" valign="top" background="/global_images2005/attendees_bg.gif">&nbsp;</td>
 </tr>
 </tbody></table>
-<!-- END TABLE B (from page_header.asp) -->
+
+
 
 
 </body></html>
