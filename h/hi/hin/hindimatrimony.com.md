@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindimatrimony.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203152410id_/http%3A//www.hindimatrimony.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindimatrimony.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611172402id_/http%3A//www.hindimatrimony.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
