@@ -1,28 +1,58 @@
-> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2001-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010401011247id_/http%3A//northerntrust.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215061515id_/http%3A//northerntrust.com/privacy.html) for the most accurate reproduction.*
 
 # Consumer Privacy Principles
 
-Consumer Privacy Principles
+Consumer Privacy Notice
 
-Northern Trust Corporation ("Northern Trust", "we", "us", or "our") and its subsidiaries recognize and respect the privacy expectations of our customers. In that spirit, we provide the following principles of consumer customer privacy: 
+Privacy at Northern Trust - Keeping Your Finances a Private Matter
 
-Use, Collection and Retention of Customer Information   
-We support the principle that financial institutions should collect, retain and use information about individual customers only in situations that the institution believes it would be useful (and allowed by law) in administering that person's business and in providing products, services and other opportunities to its customers. 
+When it comes to your financial affairs, you expect a relationship built on privacy and integrity. You can trust Northern to meet and exceed these expectations. 
 
-Maintenance of Accurate Information   
-We have established procedures to further the goal that our customer's financial information be accurate, current and complete in accordance with reasonable commercial standards. We strive to respond to requests to correct inaccurate information in a timely manner. 
+We respect the premium you place on keeping your personal finances a private matter. **That’s why Northern Trust does not sell client lists or any other client information to outside companies.**
 
-Limiting Employee Access to Information   
-We seek to limit employee access to personally identifiable information to those with a business reason for knowing such information. Northern Trust believes in educating employees so that they will understand the importance of confidentiality and customer privacy and believes in taking appropriate measures to enforce employee privacy responsibilities. 
+Keeping Your Information Secure   
+Northern Trust employees must uphold a high standard of conduct to maintain our clients’ privacy. Preserving your trust is one of our core values. In order to keep information confidential and appropriately protected, we have policies that limit access to your personal information to only those employees who need it to perform their jobs. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your personal information. 
 
-Protection of Information via Established Security Procedures   
-We maintain appropriate security standards and procedures regarding unauthorized access to customer information. 
+Collecting Information   
+Northern works hard to collect information that helps us provide you with better service, better products, and a better financial relationship. The types of information we collect are: 
 
-Restrictions on the Disclosure of Account Information   
-It is Northern Trust's policy not to reveal specific information about customer accounts or other personally identifiable data to unaffiliated third parties for their independent use, except for the exchange of information with reputable information reporting agencies to maximize the accuracy and security of such information or in the performance of bona fide corporate due diligence or business matter; unless 1) the information is provided to help complete a customer initiated transaction; 2) the customer requests or permits it; 3) the disclosure is required by or allowed by law (e.g., subpoena, investigation of fraudulent activity, request by regulator, etc.); or 4) the customer has been informed about the possibility of disclosure for marketing or similar purposes through a prior communication and given the opportunity to decline (i.e., "opt out"). 
+  * Information we receive from you on applications, other forms, through our web sites, and from conversations with you 
+  * Information we receive from a third party with your permission 
+  * Information about your transactions with us or our affiliates 
+  * Information we receive from consumer reporting agencies 
 
-Maintaining Customer Privacy in Business Relationships with Third Parties   
-In the limited circumstances that we provide personally identifiable customer information to a third party, we expect that the third party will adhere to similar privacy principles that provide for keeping such information confidential. 
 
-Protection of Information Online   
-We subscribe to the same privacy principles that protect personally identifiable customer information on the Internet. Our online security procedures include the use of Secure Socket Layer (SSL) technology, which encrypts (or scrambles) the information transmitted as it travels through the Internet, and decrypts the information after a secure connection has been made with our Internet server. For a complete description of our online security procedures visit [www.northerntrust.com/passport/security.html](https://web.archive.org/personal/onlineservices/private/security.html). To provide better services to our customers and more effective web sites, we gather and analyze online data, including number of hits, number of page visits, length of user sessions, etc. Additionally, we use and analyze "cookies," small pieces of information stored by a web site on users' browsers that can only be read by the web site that set them. These cookies do not collect personally identifiable information, and Northern Trust does not combine data collected through cookies with other customer information. 
+
+We may disclose any of this information about our clients and former clients to unaffiliated third parties only under certain circumstances, and only as permitted by law. For instance, we share with companies that perform services for us, such as a company that mails your statements or performs marketing services for us. These companies are not allowed to use this information to sell their products to you directly, and they are not allowed to sell this information to other companies. We also may share with other affiliated and non-affiliated financial institutions with which we have joint marketing agreements. Some of these companies may include Northern Funds and the institution that provides and services Northern Trust credit cards. 
+
+In addition, we share the information we collect about our clients and former clients with our affiliated financial service providers — such as a Northern Trust Bank in another state and our securities broker-dealer, Northern Trust Securities, Inc. (NTSI). **We share this information so we can invite you to special events and inform you of products we think fit your needs**. 
+
+Your Privacy Preferences   
+You do have the right to restrict some of the information we disclose to our affiliates for marketing purposes. You may direct us not to share certain information about you, such as your assets, income, and date of birth by calling 1-866-260-9550, Monday through Friday, 7 AM to 7 PM Central Time; by writing to us at Northern Trust, P.O. Box 92929, Chicago, IL 60675; or by stopping in one of our locations. Please be sure to provide your full name, address, telephone number, and Social Security number. We will process your request within a reasonable period of time — please be aware that between the time you make the request and when it becomes effective, you still may receive marketing materials from an affiliate. 
+
+If you have a joint account at Northern, we will assume your request to not share those pieces of information among our affiliates applies only to your information and not to the information of the other joint account holders, unless we are directed otherwise. If you contact us on behalf of a joint account holder who wants to restrict the information we share, please be prepared to provide the full name, address, telephone number, and Social Security number of the joint account holder as well. 
+
+Please note that even if you ask us not to share certain information with our affiliates, we still may share that information for other reasons, such as to service your existing accounts. In addition, the Northern organization that originally collected the information still can use it for its own marketing decisions. 
+
+Keeping You Informed   
+While this privacy statement will be sent to you annually, you only need to notify us once if you choose to restrict how we share information. If our information-sharing practices change, we will send you a revised notice. You also can return to this page on our web site, to view the most current privacy notice. 
+
+This privacy notice applies to all the Northern Trust affiliates listed below. If you have other relationships with Northern Trust or another affiliate, you may receive more than one privacy notice from Northern.   
+
+
+  * The Northern Trust Company *****
+  * Northern Trust Securities, Inc.
+  * Northern Trust Bank of Arizona N.A. *****
+  * Northern Trust Bank of California N.A. *****
+  * Northern Trust Bank of Colorado*
+  * Northern Trust Bank of Florida N.A. *****
+  * Northern Trust Bank of Texas N.A. *****
+  * Northern Trust Bank, FSB *****
+  * The Northern Trust Company of Connecticut
+  * Northern Trust Investments, Inc.
+  * Northern Trust Global Advisors, Inc.
+  * Northern Trust Global Investments (Europe) Limited
+
+
+
+***Member FDIC**
