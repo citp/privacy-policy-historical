@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606195751id_/http%3A//www.smartcruiser.com/privacy.rvlx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcruiser.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804220731id_/http%3A//www.smartcruiser.com/privacy.rvlx) for the most accurate reproduction.*
 
 # A Discount Cruise Site for the Savvy Traveler
 
-[](https://www.truste.org/validate/8670)
-
-This privacy statement discloses the privacy practices for http://www.smartcruiser.com. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices. We have agreed to advise you of:
+This privacy statement discloses the privacy practices for Smart Travel Group, Ltd. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices. We have agreed to advise you of:
 
   1. what personally identifiable information is collected from you through our web site;
   2. the organization collecting the information;
@@ -16,13 +14,13 @@ This privacy statement discloses the privacy practices for http://www.smartcruis
 
 
 
-**If you feel that we are not abiding by our posted privacy policy, you should contact us at[security@smartcruiser.com](mailto:security@smartcruiser.com).**
+**If you feel that we are not abiding by our posted privacy policy, you should contact us at[security@smarttravelgroup.com](mailto:security@smarttravelgroup.com).**
 
 **Information Collection and Use**
 
 We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs. 
 
-Palm Coast Travel is the sole owner of the information collected on our website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website.
+Smart Travel Group, Ltd. is the sole owner of the information collected on our website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website.
 
 **Registration**
 
@@ -48,7 +46,7 @@ We use an outside financial institution to process credit card payments. This in
 
 **Links**
 
-Our website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Palm Coast Travel (SmartCruiser.com) on this website.
+Our website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Smart Travel Group, Ltd. on this website.
 
 **Surveys & Contests**
 
@@ -62,7 +60,7 @@ When our registration form asks users to enter sensitive information (such as cr
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our website, you can send an email to [security@smartcruiser.com](mailto:security@smartcruiser.com).
+If you have any questions about the security at our website, you can send an email to [security@smarttravelgroup.com](mailto:security@smarttravelgroup.com).
 
 **Special Offers**
 
@@ -76,7 +74,7 @@ If a user's personally identifiable information changes (such as your zip code),
 
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our registration form has an "opt-out" mechanism so users who utilize our services, but don't want any marketing material, can keep their email address off of our lists.
 
-Members who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [unsubscribe@smartcruiser.com](mailto:unsubscribe@smartcruiser.com).
+Members who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [unsubscribe@smarttravelgroup.com](mailto:unsubscribe@smarttravelgroup.com).
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
@@ -86,4 +84,4 @@ Due to the rapidly evolving technologies on the Internet, we may occasionally re
 
 **How to Contact Us**
 
-We welcome comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. Should you have any questions, concerns or comments regarding our privacy policy, send an e-mail to us at [security@smartcruiser.com](mailto:security@smartcruiser.com).
+We welcome comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. Should you have any questions, concerns or comments regarding our privacy policy, send an e-mail to us at [security@smarttravelgroup.com](mailto:security@smarttravelgroup.com).
