@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051129id_/http%3A//seattlechildrens.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlechildrens.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206033712id_/http%3A//www.seattlechildrens.org/privacy.asp) for the most accurate reproduction.*
 
 # Children's
 
@@ -34,11 +34,11 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Our site provides users the opportunity to opt-out or opt-in of receiving communications from us and our partners at the point at which we request information about the visitor.
 
-A user who does not wish to receive future communications should email us at [info@chmc.org](mailto:info@chmc.org)
+A user who does not wish to receive future communications should email us at [info@seattlechildrens.org](mailto:info@seattlechildrens.org)
 
 **Correct/Update**
 
-A user who wishes to modify or correct information previously provided should email us at [info@chmc.org](mailto:info@chmc.org)
+A user who wishes to modify or correct information previously provided should email us at [info@seattlechildrens.org](mailto:info@seattlechildrens.org)
 
 **Contacting the Web Site**
 
@@ -46,9 +46,9 @@ If you have any questions about this privacy statement, the practices of this si
 
 > Web Development Manager  
 >  Children's Hospital and Regional Medical Center  
->  PO Box 5371-CL/06  
+>  PO Box 5371 S-217  
 >  Seattle, WA 98105  
->  [info@chmc.org](mailto:info@chmc.org)
+>  [info@seattlechildrens.org](mailto:info@seattlechildrens.org)
 
 **Updates and Changes to Privacy Policy**
 
