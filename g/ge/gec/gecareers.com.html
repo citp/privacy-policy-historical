@@ -1,837 +1,444 @@
-<!--The following is the downloaded HTML source of the gecareers.com privacy policy that was archived on 2002-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602114459id_/http%3A//www.ge.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gecareers.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208054420id_/http%3A//www.gecareers.com/ExperiencedProfessionals/candidate_privacy.cfm) for the most accurate reproduction.-->
 
 <html><head>
-<title>GE - Privacy Policy</title>
-<meta name="Description" content="GE.com Privacy Policy page">
+<!-- Template A2 : {Business Unit} Secondary -->
+<title>GE - Careers : Career</title>
 
-<meta name="Keywords" content="GE, General Electric, Privacy Policy, privacy, policy, internet, legal, legal notice, disclaimer, copyright">
-<script language="javascript">
 
+
+<link rel="stylesheet" href="/style.css" type="text/css">
+
+<!-- ------ javascript/dropdown_goto.cfm ------
+  -- Created by iXL, Inc. 09/09/1999 
+  -->
+<script language="JavaScript">
+function gotoUrl(theForm, selectName) {
+	var url = eval("theForm." + selectName + ".options[theForm." + selectName + ".options.selectedIndex].value");
+	theForm.action = url;
+	theForm.submit();
+}
+</script> <!-- ------ javascript/primary_rollovers.cfm ------
+  -- Created by iXL, Inc. 09/09/1999 
+  -->
+<script language="JavaScript">
+var imageNames = new Array("a", "b", "c", "d", "e", "sidepica", "sidepicb", "sidepicc", "sidepicd", "sidepice");
+var imgPath = "../images/";
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 )))
+if (browser) {
+        for (i = 0; i < imageNames.length; i++) {
+                        var image = imageNames[i];
+                        eval(image + "1Obj = new Image()");
+                        eval(image + "1Obj.src = imgPath + image + '1.gif'");
+                        eval(image + "2Obj = new Image()");
+                        eval(image + "2Obj.src = imgPath + image + '2.gif'");
+        }
+}
+function mE(imgName) {
+        if (browser) {
+            eval("document."  +  imgName  +  ".src = "  + imgName + "2Obj.src");
+        	eval("document.sidepic.src = sidepic"  + imgName + "2Obj.src");					
+
+        } 
+}
+function mO(imgName) {
+        if (browser) {
+			eval("document."  +  imgName  +  ".src = "  +  imgName  +  "1Obj.src");
+        } 
+}
+
+function mOsidepic(imgName) {
+        if (browser) {
+        	eval("document.sidepic.src = sidepic"  + imgName + "1Obj.src");	
+        } 
+}
+
+</script> <script language="JavaScript">
 <!--
-if (document.images) {
-	
-	img1_off = new Image(154,33);
-	img1_off.src = "images/cserv_inact.gif";
-	img1_on = new Image(154,33);
-	img1_on.src = "images/cserv_act.gif";
-		
-	img2_off = new Image(68,15);
-	img2_off.src = "images/nav_gestock.gif";
-	img2_on = new Image(68,15);
-	img2_on.src = "images/nav_gestock_on.gif";
+function displayWindow(url, width, height) {
+        var Win = window.open(url,"displayWindow",'width=' + width + ',height=' + height + ',scrollbars=yes,status=no,toolbar=no,directories=no,menubar=no,location=no,resizable' );
+}
+//-->
+</script>
+
+	<!-- JavaScript for Rollover/visibility toggle -->
+<script language="JavaScript">
+<!--
+
+function init(){
+       if (navigator.appName == "Netscape") {
+			layerStyleRef="layer.";
+			layerRef="document.layers";
+			styleSwitch="";
+       }else{
+			layerStyleRef="layer.style.";
+			layerRef="document.all";
+			styleSwitch=".style";
+	}
 }
 
-function hiLite(imgID,imgName) {
+function showLayer(layerName){
+	eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="visible"');
+}
+
+function hideLayer(layerName){
+	eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="hidden"');
+}
+
+function newImage(arg) {
 	if (document.images) {
-		document.images[imgID].src = eval(imgName + ".src");
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
 	}
 }
-//--></script>
-</head>
-<body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" rightmargin="0" alink="#6699ff" vlink="#663399" link="#0000cc">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr><td colspan="3"><table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td><a href="http://www.ge.com/accessibility/accessibility_help.html"><img src="/mfhge01_includes/images/template/pixel.gif" width="1" height="1" border="0" alt="Accessibility Statement/Help"></a></td>
-		<td><a href="#universal_navigation"><img src="/mfhge01_includes/images/template/pixel.gif" width="1" height="1" border="0" alt="Skip Universal Navigation"></a></td>
-		<td><a href="#main_content"><img src="/mfhge01_includes/images/template/pixel.gif" width="1" height="1" border="0" alt="Link to Main Content"></a></td>
-	</tr>
-</tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-	<tbody><tr>
-		<td valign="top" width="408" height="80">
 
-		<!--Begin Segment: Mast Logo-->
-		<noindex>
-		<img src="/mfhge01_includes/images/header_logo/ANY/ANY/ge_logo.gif" width="408" height="80" border="0" usemap="#logo" alt="">
-		<map name="logo">
-		<area shape="rect" coords="14,9,64,54" href="http://www.ge.com" alt="GE Home">
-		</map>
-		</noindex>
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
 
-		<!--Mast Logo -->
+var preloadFlag = false;
+function preloadBusinessImages() {
+	if (document.images) {
+		biz_aircraft_over = newImage("../images/biz_aircraft-over.gif");
+		biz_appliances_biz_aircraft_over = newImage("../images/biz_appliances-biz_aircraft.gif");
+		biz_capital_biz_aircraft_over = newImage("../images/biz_capital-biz_aircraft_ov.gif");
+		biz_global_biz_aircraft_over = newImage("../images/biz_global-biz_aircraft_ove.gif");
+		biz_gefa_on = newImage("../images/biz_gefa_on.gif");
+		biz_industrial_biz_aircraft_over = newImage("../images/biz_industrial-biz_aircraft.gif");
+		biz_lighting_biz_aircraft_over = newImage("../images/biz_lighting-biz_aircraft_o.gif");
+		biz_medical_biz_aircraft_over = newImage("../images/biz_medical-biz_aircraft_ov.gif");
+		biz_nbc_biz_aircraft_over = newImage("../images/biz_nbc-biz_aircraft_over.gif");
+		biz_plastics_biz_aircraft_over = newImage("../images/biz_plastics-biz_aircraft_o.gif");
+		biz_power_biz_aircraft_over = newImage("../images/biz_power-biz_aircraft_over.gif");
+		biz_research_biz_aircraft_over = newImage("../images/biz_research-biz_aircraft_o.gif");
+		biz_supply_biz_aircraft_over = newImage("../images/biz_supply-biz_aircraft_ove.gif");
+		biz_transportation_biz_aircraft_over = newImage("../images/biz_transportation-biz_airc.gif");
+		preloadFlag = true;
+	}
+}
 
-		</td>
+function preloadSiteMapImages() {
+	if (document.images) {
+		indx_asia_on_over = newImage("../images/indx_asia_on-indx_global.gif");
+		indx_europe_on_over = newImage("../images/indx_europe_on-indx_global.gif");
+		indx_canada_on_over = newImage("../images/indx_canada_on-indx_global.gif");
+		
+		indx_aircraft_on_over = newImage("../images/indx_aircraft_on-over.gif");
+		indx_about_on_over = newImage("../images/indx_about_on-over.gif");
+		indx_about_on_indx_medsystsms_on_over = newImage("../images/indx_about_on-indx_medsysts.gif");
+		indx_internships_on_over = newImage("../images/indx_internships_on-over.gif");
+		indx_careermgt_on_over = newImage("../images/indx_careermgt_on-over.gif");
+		indx_appliances_on_indx_aircraft_on_over = newImage("../images/indx_appliances_on-indx_air.gif");
+		indx_benefits_on_indx_about_on_over = newImage("../images/indx_benefits_on-indx_about.gif");
+		indx_benefits_on_indx_medsystsms_on_over = newImage("../images/indx_benefits_on-indx_medsy.gif");
+		indx_school_on_indx_internships_on_over = newImage("../images/indx_school_on-indx_interns.gif");
+		indx_leadership_on_indx_careermgt_on_over = newImage("../images/indx_leadership_on-indx_car.gif");
+		indx_capsrvcs_on_indx_aircraft_on_over = newImage("../images/indx_capsrvcs_on-indx_aircr.gif");
+		indx_careerpaths_on_indx_about_on_over = newImage("../images/indx_careerpaths_on-indx_ab.gif");
+		indx_careerpaths_on_indx_medsystsms_on_over = newImage("../images/indx_careerpaths_on-indx_me.gif");
+		indx_networking_on_indx_careermgt_on_over = newImage("../images/indx_networking_on-indx_car.gif");
+		indx_globxservc_on_indx_aircraft_on_over = newImage("../images/indx_globxservc_on-indx_air.gif");
+		indx_commsrvc_on_indx_about_on_over = newImage("../images/indx_commsrvc_on-indx_about.gif");
+		indx_commsrvc_on_indx_medsystsms_on_over = newImage("../images/indx_commsrvc_on-indx_medsy.gif");
+		indx_indsystms_on_indx_aircraft_on_over = newImage("../images/indx_indsystms_on-indx_airc.gif");
+		indx_diversity_on_indx_about_on_over = newImage("../images/indx_diversity_on-indx_abou.gif");
+		indx_diversity_on_indx_medsystsms_on_over = newImage("../images/indx_diversity_on-indx_meds.gif");
+		indx_lighting_on_indx_aircraft_on_over = newImage("../images/indx_lighting_on-indx_aircr.gif");
+		indx_growth_on_indx_about_on_over = newImage("../images/indx_growth_on-indx_about_o.gif");
+		indx_growth_on_indx_medsystsms_on_over = newImage("../images/indx_growth_on-indx_medsyst.gif");
+		indx_medsystsms_on_indx_aircraft_on_over = newImage("../images/indx_medsystsms_on-indx_air.gif");
+		indx_values_on_indx_about_on_over = newImage("../images/indx_values_on-indx_about_o.gif");
+		indx_values_on_indx_medsystsms_on_over = newImage("../images/indx_values_on-indx_medsyst.gif");
+		indx_nbc_on_indx_aircraft_on_over = newImage("../images/indx_nbc_on-indx_aircraft_o.gif");
+		indx_plastics_on_indx_aircraft_on_over = newImage("../images/indx_plastics_on-indx_aircr.gif");
+		indx_powsystm_on_indx_aircraft_on_over = newImage("../images/indx_powsystm_on-indx_aircr.gif");
+		indx_randd_on_indx_aircraft_on_over = newImage("../images/indx_randd_on-indx_aircraft.gif");
+		indx_supply_on_indx_aircraft_on_over = newImage("../images/indx_supply_on-indx_aircraf.gif");
+		indx_transystm_on_indx_aircraft_on_over = newImage("../images/indx_transystm_on-indx_airc.gif");
+		indx_futuregrad_on_over = newImage("../images/indx_futuregrad_on-over.gif");
+		indx_professional_on_indx_futuregrad_on_over = newImage("../images/indx_professional_on-indx_f.gif");
+		preloadFlag = true;
+	}
+}
 
-		<td><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="1" height="1" border="0"></td>
+function preloadWorkingAtGEImages() {
+	if (document.images) {
+		subNav_about_over = newImage("/images/subNav_about-over.gif");
+		subNav_growth_subNav_about_over = newImage("/images/subNav_growth-subNav_about_.gif");
+		subNav_benefits_subNav_about_over = newImage("/images/subNav_benefits-subNav_abou.gif");
+		subNav_values_subNav_about_over = newImage("/images/subNav_values-subNav_about_.gif");
+		subNav_diversity_subNav_about_over = newImage("/images/subNav_diversity-subNav_abo.gif");
+		subNav_commsrvc_subNav_about_over = newImage("/images/subNav_commsrvc-subNav_abou.gif");
+		preloadFlag = true;
+	}
+}
 
-		<!--Begin Segment: Search Functionality-->
-		<td valign="top" align="right" width="369">
-			<noindex><form method="post" name="form" action="http://supersearch.ge.com/cgi-bin/global/search.pl">
-			<table width="369" cellspacing="0" cellpadding="0" border="0" height="81" align="right">
-				<tbody><tr>
-					<td colspan="3" width="369" height="10" align="right" bgcolor="#ffffff"><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="6" height="10" border="0"></td>
-				</tr>
-				<tr>
-					<td width="297" align="right" valign="top"><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="1" height="15" border="0"><label for="homeSearch"><font color="#ffffff" size="1">Search GE.Com</font><input name="queryText" maxlength="50" type="text" id="homeSearch"></label></td>
-					<td width="6"><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="6" height="1" border="0"></td>
-					<td width="66" valign="top"><input type="image" src="/mfhge01_includes/images/search_button/ANY/ANY/default.gif" border="0" name="go"></td>
-				</tr>
-				<tr>
-					<td colspan="3" width="369" height="40" align="right" bgcolor="#ffffff"><p align="right"><b><font face="verdana,arial,helvetica" size="-1"><a href="/faqs.htm">FAQs</a><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="15" height="1" border="0"><a href="/sitemap.htm">Site Map</a><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="15" height="1" border="0"><a href="/feedback.htm">Contact Us</a><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="5" height="1" border="0"></font></b></p></td>
-				</tr>
-			</tbody></table></form>
-			</noindex>
-
-		</td>
-	</tr>
-	<!--End Search Functionality-->
-
-	<tr>
-		<td colspan="3"><!--Begin Segment: Top Nav-->
-			<noindex><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="http://www.ge.com"><img src="/mfhge01_includes/images/tab/ANY/ENG/Home_19_m.gif" alt="GE Home" width="111" height="22" border="0"></a><a href="http://www.ge.com/businesses.htm"><img src="/mfhge01_includes/images/tab/GE/ENG/GEBusinesses_19_m.gif" alt="GE Businesses" width="111" height="22" border="0"></a><a href="http://www.ge.com/business_finance.htm"><img src="/mfhge01_includes/images/tab/GE/ENG/BusinessFinance_19_m.gif" alt="Business Finance" width="111" height="22" border="0"></a><a href="http://www.ge.com/industry/"><img src="/mfhge01_includes/images/tab/GE/ENG/IndustrySolutions_19_m.gif" alt="Industry Solutions" width="111" height="22" border="0"></a><a href="http://www.ge.com/homesolutions.htm"><img src="/mfhge01_includes/images/tab/GE/ENG/HomeSolutions_19_m.gif" alt="Home Solutions" width="111" height="22" border="0"></a><a href="http://www.gefn.com/"><img src="/mfhge01_includes/images/tab/GE/ENG/PersonalFinance_19_m.gif" alt="Personal Finance" width="111" height="22" border="0"></a><a href="http://www.ge.com/corporate.htm"><img src="/mfhge01_includes/images/tab/GE/ENG/CorporateInfo_19_l.gif" alt="Corporate Info" width="111" height="22" border="0"></a></td></tr></tbody></table></noindex>
-		<!-- End Top Nav--></td>
-	</tr>
-	<tr>
-		<td bgcolor="#cc0000" align="center" colspan="3" height="10"><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="1" height="10" border="0"></td>
-	</tr>
-	<tr>
-		<td colspan="3">
-		<!--Begin Segment: Gray Nav-->
-		<noindex>
-			<table cellpadding="0" cellspacing="0" border="0" width="100%">
-				<tbody><tr>
-					<td background="/mfhge01_includes/images/template/gray_bar.gif" valign="top" width="100%">
-						<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<!--GE Stock-->
-								<td><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="10" height="33" border="0"></td>
-								<td><a href="http://moneycentral.msn.com/scripts/webquote.dll?ipage=qd&amp;symbol=ge&amp;SUBMIT1=Go" onmouseover="if(document.images) { document.images.stocklabel.src='/mfhge01_includes/images/stock_ticker_on/ANY/ANY/ge_stock_on.gif';} window.status='GE Stock'; return true;" onmouseout="if(document.images) { document.images.stocklabel.src='/mfhge01_includes/images/stock_ticker/ANY/ANY/ge_stock.gif';} window.status=''; return true;"><img src="/mfhge01_includes/images/stock_ticker/ANY/ANY/ge_stock.gif" name="stocklabel" border="0"></a></td>
-								<td width="4"><a href="http://www.ge.com/cgi-bin/investor/acc_stock_quote.pl"><img src="/mfhge01_includes/images/template/pixel.gif" width="4" height="1" border="0" alt="GE Stock Feed for Accessibility"></a></td>
-								<td><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="1" height="33" border="0"></td>
-								<td align="right"><b><font face="arial" size="2" color="#000000">31.14 -0.06 at 5:00 ET 05/31/2002</font></b></td>
-								<td><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="4" height="33" border="0"></td>
-								<!--GE Stock-->
-
-								<td>&nbsp;<b><a href="http://www.ge.com/links/common/topnav/tn_index/portalpromos/investor.html"><font face="arial" size="2" color="#0000cc">Investor Relations</font></a> <font color="#666666">|</font> <a href="http://www.ge.com/links/common/topnav/tn_index/portalpromos/careers.html"><font face="arial" size="2" color="#0000cc">Careers</font></a> <font color="#666666">|</font> <a href="http://www.ge.com/links/common/topnav/tn_index/portalpromos/pressroom.html"><font face="arial" size="2" color="#0000cc">Press Room</font></a> <font color="#666666">|</font> <a href="http://www.ge.com/privacy.htm"><font face="arial" size="2" color="#0000cc">Privacy</font></a> <font color="#666666">|</font> <a href="http://www.ge.com/terms.htm"><font face="arial" size="2" color="#0000cc">Legal Notices</font></a></b></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-			</noindex>
-		<!--End Gray Nav--></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="/mfhge01_includes/images/template/pixel.gif" alt="" width="1" height="20" border="0"></td>
-	</tr>
-</tbody></table>
-</td>
-</tr>
-<tr><td colspan="3" valign="top"><table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td valign="top"><table cellspacing="0" cellpadding="0" border="0" width="200">
-<tbody><tr><td width="200" align="right"><!--Begin Segment: Buy Online--><noindex>
-<script language="javascript">
-<!-- hide from old browsers...
-var nsup4 = false;
-var ieup4 = false;
-
-var ns4 = (document.layers)? true:false;
-var ie4 = (document.all)? true:false;
-var ns4_version = (parseInt(navigator.appVersion) >= 4)? true:false;
-
-var ie4_version = navigator.appVersion;
-var i = ie4_version.indexOf("5.0",3);
-ie4_version = (i != -1)? true:false;
-
-if ((ns4)&&(ns4_version)) nsup4 = true
-if ((ie4)&&(ie4_version)) ieup4 = true
-
-var agt=navigator.userAgent.toLowerCase(); 
-
-var is_mac = (agt.indexOf("mac")!=-1)? true:false;
-var is_macppc = (is_mac && ((agt.indexOf("ppc")!=-1) || (agt.indexOf("powerpc")!=-1)));
-/******************************************************************************************************/
-var product_menu1 = new Array();
-var product_menu1_0 = new Array();
-var product_menu1_1 = new Array();
-var product_menu1_2 = new Array();
-var product_menu1_3 = new Array();
-var product_menu1_4 = new Array();
-var product_menu1_5 = new Array();
-var product_menu1_6 = new Array();
-var product_menu1_7 = new Array();
-var product_menu1_8 = new Array();
-var product_menu1_9 = new Array();
-var product_menu1_10 = new Array();
-var product_menu1_11 = new Array();
-var product_menu1_12 = new Array();
-var product_menu1_13 = new Array();
-var product_menu1_14 = new Array();
-var product_menu1_15 = new Array();
-var product_menu1_16 = new Array();
-var product_menu1_17 = new Array();
-var product_menu1_18 = new Array();
-var product_menu1_19 = new Array();
-var product_menu1_20 = new Array();
-var product_menu1_21 = new Array();
-var product_menu1_22 = new Array();
-
-product_menu1[0]=new Array("Select product category     "," ");
-product_menu1[1]=new Array("Adhesives & Silicones"," ");
-product_menu1[2]=new Array("Aircraft"," ");
-product_menu1[3]=new Array("Appliances"," ");
-product_menu1[4]=new Array("Business Productivity"," ");
-product_menu1[5]=new Array("Clubs"," ");
-product_menu1[6]=new Array("Corporate Finance"," ");
-product_menu1[7]=new Array("Equipment Sales"," ");
-product_menu1[8]=new Array("Extended Warranties"," ");
-product_menu1[9]=new Array("Healthcare"," ");
-product_menu1[10]=new Array("Industrial Parts"," ");
-product_menu1[11]=new Array("Insurance"," ");
-product_menu1[12]=new Array("Investments"," ");
-product_menu1[13]=new Array("NBC Store"," ");
-product_menu1[14]=new Array("Penske Truck Leasing"," ");
-product_menu1[15]=new Array("Personal Finance"," ");
-product_menu1[16]=new Array("Plastics"," ");
-product_menu1[17]=new Array("Power Systems"," ");
-product_menu1[18]=new Array("Protection Relays"," ");
-product_menu1[19]=new Array("Small Business Financing"," ");
-product_menu1[20]=new Array("Specialty Materials"," ");
-product_menu1[21]=new Array("Telecommunications"," ");
-product_menu1[22]=new Array("Trucking"," ");
-
-product_menu1_0[0]=new Array("Select product type       ", " ");
-
-// Adhesives & Silicones*
-product_menu1_1[0]=new Array("Select product type        ", " ");
-product_menu1_1[1]=new Array("GE Silicones Americas      ", "http://www.ge.com/links/common/shoponline/adhesives-silicones/americas.htm");
-product_menu1_1[2]=new Array("GE Silicones Europe        ", "http://www.ge.com/links/common/shoponline/adhesives-silicones/europe.htm");
-product_menu1_1[3]=new Array("GE Adhesives               ", "http://www.ge.com/links/common/shoponline/adhesives-silicones/adhesives.htm");
-
-// Aircraft*
-product_menu1_2[0]=new Array("Select product type        ", " ");
-product_menu1_2[1]=new Array("Commercial Aircraft        ", "http://www.ge.com/links/common/shoponline/aircraft/commercial.htm");
-product_menu1_2[2]=new Array("Corporate Aircraft         ", "http://www.ge.com/links/common/shoponline/aircraft/corporate.htm");
-
-// Appliances*
-product_menu1_3[0]=new Array("Select product type        ", " ");
-product_menu1_3[1]=new Array("Appliance Products         ", "http://www.ge.com/links/common/shoponline/appliances/applianceproducts.htm");
-product_menu1_3[2]=new Array("Parts/Accessories          ", "http://www.ge.com/links/common/shoponline/appliances/partsservices.htm");
-product_menu1_3[3]=new Array("Extended Warranties        ", "http://www.ge.com/links/common/shoponline/appliances/warranties.htm");
-product_menu1_3[4]=new Array("Schedule Service           ", "http://www.ge.com/links/common/shoponline/appliances/scheduleservice.htm");
-
-// Business Productivity*
-product_menu1_4[0]=new Array("Select product type        ", " ");
-product_menu1_4[1]=new Array("Call Center Services       ", "http://www.ge.com/links/common/shoponline/businessproductivity/callcenterservices.html");
-product_menu1_4[2]=new Array("Purchase Tracker           ", "http://www.ge.com/links/common/shoponline/businessproductivity/purchasetracker.html");
-product_menu1_4[3]=new Array("Sales Lead Management      ", "http://www.ge.com/links/common/shoponline/businessproductivity/salesleadmanagement.html");
-
-// Clubs*
-product_menu1_5[0]=new Array("Select product type        ", " ");
-product_menu1_5[1]=new Array("Auto Club                  ", "http://www.ge.com/links/common/shoponline/clubs/autoclub.htm");
-product_menu1_5[2]=new Array("Dental Plan & More         ", "http://www.ge.com/links/common/shoponline/clubs/dentalplanandmore.htm");
-product_menu1_5[3]=new Array("Home Protection            ", "http://www.ge.com/links/common/shoponline/clubs/homeprotection.htm");
-
-// Corporate Finance*
-product_menu1_6[0]=new Array("Select product type        ", " ");
-product_menu1_6[1]=new Array("Buying a Business          ", "http://www.ge.com/links/common/shoponline/corporatefinance/buyingabusiness.html");
-product_menu1_6[2]=new Array("Growing Your Business      ", "http://www.ge.com/links/common/shoponline/corporatefinance/growingyourbusiness.html");
-product_menu1_6[3]=new Array("Refinance/Restructure      ", "http://www.ge.com/links/common/shoponline/corporatefinance/restructurerefinance.html");
-product_menu1_6[4]=new Array("Turnaround & Bankruptcy    ", "http://www.ge.com/links/common/shoponline/corporatefinance/turnaroundbankruptcy.html");
-product_menu1_6[5]=new Array("Equipment & Management     ", "http://www.ge.com/links/common/shoponline/corporatefinance/equipmentmanagement.html");
-product_menu1_6[6]=new Array("Commercial Real Estate     ", "http://www.ge.com/links/common/shoponline/corporatefinance/commercialrealestate.html");
-product_menu1_6[7]=new Array("Tax/Balance Sheet Help     ", "http://www.ge.com/links/common/shoponline/corporatefinance/taxbalancesheethelp.html");
-
-// Equipment Sales*
-product_menu1_7[0]=new Array("Select product type        ", " ");
-product_menu1_7[1]=new Array("Over The Road Trailers     ", "http://www.ge.com/links/common/shoponline/equipmentsales/overtheroadtrailers.htm");
-product_menu1_7[2]=new Array("Intermodal Equipment       ", "http://www.ge.com/links/common/shoponline/equipmentsales/intermodalequipment.htm");
-product_menu1_7[3]=new Array("Storage Equipment          ", "http://www.ge.com/links/common/shoponline/equipmentsales/storageequipment.htm");
-product_menu1_7[4]=new Array("Modular Buildings          ", "http://www.ge.com/links/common/shoponline/equipmentsales/modularbuildings.htm");
-
-// Extended Warranties*
-product_menu1_8[0]=new Array("Select product type        ", " ");
-product_menu1_8[1]=new Array("Auto Warranty Program      ", "http://www.ge.com/links/common/shoponline/extendedwarranties/autowarrantyprogram.htm");
-product_menu1_8[2]=new Array("Major Appliances           ", "http://www.ge.com/links/common/shoponline/extendedwarranties/majorappliances.htm");
-product_menu1_8[3]=new Array("Consumer Electronics       ", "http://www.ge.com/links/common/shoponline/extendedwarranties/consumerelectronics.htm");
-
-// Healthcare*
-product_menu1_9[0]=new Array("Select product type        ", " ");
-product_menu1_9[1]=new Array("Cardiology                 ", "http://www.ge.com/links/common/shoponline/healthcare/cardiology.html");
-product_menu1_9[2]=new Array("Financial Services         ", "http://www.ge.com/links/common/shoponline/healthcare/financialservices.htm");
-product_menu1_9[3]=new Array("Monitoring Systems         ", "http://www.ge.com/links/common/shoponline/healthcare/monitoringsystems.html");
-product_menu1_9[4]=new Array("Radiology PACS             ", "http://www.ge.com/links/common/shoponline/healthcare/radiologypacs.html");
-
-// Industrial Parts*
-product_menu1_10[0]=new Array("Select product type        ", " ");
-product_menu1_10[1]=new Array("Brakes                     ", "http://www.ge.com/links/common/shoponline/industrialparts/brakes.htm");
-product_menu1_10[2]=new Array("Breaker Conversion Kits    ", "http://www.ge.com/links/common/shoponline/industrialparts/breakerconversionkits.htm");
-product_menu1_10[3]=new Array("Contactors                 ", "http://www.ge.com/links/common/shoponline/industrialparts/contactors.htm");
-product_menu1_10[4]=new Array("CNCs                       ", "http://www.ge.com/links/common/shoponline/industrialparts/cncs.htm");
-product_menu1_10[5]=new Array("Drives                     ", "http://www.ge.com/links/common/shoponline/industrialparts/drives.htm");
-product_menu1_10[6]=new Array("Grounding Resistors        ", "http://www.ge.com/links/common/shoponline/industrialparts/groundingresistors.htm");
-product_menu1_10[7]=new Array("Fuses                      ", "http://www.ge.com/links/common/shoponline/industrialparts/fuses.htm");
-product_menu1_10[8]=new Array("Protective Relays          ", "http://www.ge.com/links/common/shoponline/industrialparts/protectiverelays.htm");
-product_menu1_10[9]=new Array("Resistors                  ", "http://www.ge.com/links/common/shoponline/industrialparts/resistors.htm");
-product_menu1_10[10]=new Array("Relays                    ", "http://www.ge.com/links/common/shoponline/industrialparts/relays.htm");
-product_menu1_10[11]=new Array("Switches                  ", "http://www.ge.com/links/common/shoponline/industrialparts/switches.htm");
-product_menu1_10[12]=new Array("Transformer Parts         ", "http://www.ge.com/links/common/shoponline/industrialparts/transformerparts.htm");
-product_menu1_10[13]=new Array("Switchgear Parts          ", "http://www.ge.com/links/common/shoponline/industrialparts/switchgearparts.htm");
-product_menu1_10[14]=new Array("Motor Parts               ", "http://www.ge.com/links/common/shoponline/industrialparts/motorparts.htm");
-
-// Insurance*
-product_menu1_11[0]=new Array("Select product type        ", " ");
-product_menu1_11[1]=new Array("Auto Insurance             ", "http://www.ge.com/links/common/shoponline/insurance/autoinsurance.htm");
-product_menu1_11[2]=new Array("Annuities                  ", "http://www.ge.com/links/common/shoponline/insurance/annuities.htm");
-product_menu1_11[3]=new Array("Life Insurance             ", "http://www.ge.com/links/common/shoponline/insurance/lifeinsurance.htm");
-product_menu1_11[4]=new Array("Long Term Care             ", "http://www.ge.com/links/common/shoponline/insurance/longtermcare.htm");
-product_menu1_11[5]=new Array("Immediate Annuities        ", "http://www.ge.com/links/common/shoponline/insurance/immediateannuities.html");
-product_menu1_11[6]=new Array("Medical Malpractice        ", "http://www.ge.com/links/common/shoponline/insurance/medicalmalpractice.htm");
-product_menu1_11[7]=new Array("Health Insurance           ", "http://www.ge.com/links/common/shoponline/insurance/healthinsurance.html");
-
-// Investments*
-product_menu1_12[0]=new Array("Select product type        ", " ");
-product_menu1_12[1]=new Array("GE Interest Plus           ", "http://www.ge.com/links/common/shoponline/investments/geinterestplus.htm");
-product_menu1_12[2]=new Array("Mutual Funds               ", "http://www.ge.com/links/common/shoponline/investments/mutualfunds.htm");
-product_menu1_12[3]=new Array("Variable Annuities         ", "http://www.ge.com/links/common/shoponline/investments/variableannuities.html");
-product_menu1_12[4]=new Array("Direct Stock Investing     ", "http://www.ge.com/links/common/shoponline/investments/directstockinvesting.htm");
-
-// NBC Store
-product_menu1_13[0]=new Array("Select product type        ", " ");
-product_menu1_13[1]=new Array("Logos/Show Merchandise     ", "http://www.ge.com/links/common/shoponline/nbcstore/logosshowmarchandise.html");
-
-// Penske Truck Leasing*
-product_menu1_14[0]=new Array("Select product type        ", " ");
-product_menu1_14[1]=new Array("Business Rental            ", "http://www.ge.com/links/common/shoponline/pensketruckleasing/rentalforbusinessuse.htm");
-product_menu1_14[2]=new Array("Personal Rental            ", "http://www.ge.com/links/common/shoponline/pensketruckleasing/personaltruckrental.htm");
-product_menu1_14[3]=new Array("Full Service Leasing       ", "http://www.ge.com/links/common/shoponline/pensketruckleasing/personaltruckleasing.htm");
-product_menu1_14[4]=new Array("Logistics                  ", "http://www.ge.com/links/common/shoponline/pensketruckleasing/logistics.htm");
+function preloadCareerImages() {
+	if (document.images) {
+		nav_career_carreermgt_over = newImage("/images/nav_career_carreermgt-over.gif");
+		nav_career_network_nav_career_carreermgt_over = newImage("/images/nav_career_network-nav_care.gif");
+		nav_career_leadership_nav_career_carreermgt_over = newImage("/images/nav_career_leadership-nav_c.gif");
+		nav_career_training_nav_career_carreermgt_over = newImage("/images/nav_career_training-nav_car.gif");
+		preloadFlag = true;
+	}
+}
  
-// Personal Finance
-product_menu1_15[0]=new Array("Select product type        ", " ");
-product_menu1_15[1]=new Array("Annuities",                "http://www.ge.com/links/home/index/leftnav/gefn/pf_7.htm");
-product_menu1_15[2]=new Array("Auto Insurance             ", "http://www.ge.com/links/home/index/leftnav/gefn/pf_2.htm");
-product_menu1_15[3]=new Array("Credit Card                ", "http://www.ge.com/links/common/shoponline/personalfinance/gecreditcard.html");
-product_menu1_15[4]=new Array("Direct Stock Investing     ", "http://www.ge.com/links/home/index/leftnav/gefn/pf_11.htm");
-product_menu1_15[5]=new Array("GE Auto Warranty           ", "http://www.ge.com/links/home/index/leftnav/gefn/pf_12.htm");
-product_menu1_15[6]=new Array("GE Interest Plus           ", "http://www.ge.com/links/home/index/leftnav/gefn/pf_9.htm");
-product_menu1_15[7]=new Array("Health Insurance           ", "http://www.ge.com/links/home/index/leftnav/gefn/healthinsurance.html");
-product_menu1_15[8]=new Array("Homebuyer Information      ", "http://www.ge.com/links/home/index/leftnav/gefn/homebuyer.html");
-product_menu1_15[9]=new Array("Home Mortgage             ", "http://www.ge.com/links/common/shoponline/personalfinance/homemortgage.html");
-product_menu1_15[10]=new Array("Immediate Annuities       ", "http://www.ge.com/links/home/index/leftnav/gefn/immed_annuit.html");
-product_menu1_15[11]=new Array("Investments               ", "http://www.ge.com/links/home/index/wizards/gefn/investments.html");
-product_menu1_15[12]=new Array("Life Insurance            ", "http://www.ge.com/links/home/index/leftnav/gefn/pf_3.htm");
-product_menu1_15[13]=new Array("Long Term Care Insurance  ", "http://www.ge.com/links/home/index/leftnav/gefn/pf_10.htm");
-product_menu1_15[14]=new Array("Mutual Funds              ", "http://www.ge.com/links/home/index/leftnav/gefn/pf_5.htm");
-product_menu1_15[15]=new Array("Protection Plans          ", "http://www.ge.com/links/home/index/wizards/gefn/protection_plans.html");
-product_menu1_15[16]=new Array("Variable Annuities        ", "http://www.ge.com/links/home/index/leftnav/gefn/variable_annuit.html");
-
-// Plastics*
-product_menu1_16[0]=new Array("Select product type        ", " ");
-product_menu1_16[1]=new Array("Polymerland order entry    ", "http://www.ge.com/links/common/shoponline/plastics/polymerlandorderentry.htm");
-product_menu1_16[2]=new Array("Colorxpress color chips    ", "http://www.ge.com/links/common/shoponline/plastics/colorxpresschips.htm");
-product_menu1_16[3]=new Array("GE Plastics S.E. Asia      ", "http://www.ge.com/links/common/shoponline/plastics/geplasticsseasia.htm");
-product_menu1_16[4]=new Array("GE Plastics Korea          ", "http://www.ge.com/links/common/shoponline/plastics/geplasticskorea.htm");
-product_menu1_16[5]=new Array("GE Plastics Japan          ", "http://www.ge.com/links/common/shoponline/plastics/geplasticsjapan.htm");
-product_menu1_16[6]=new Array("GE Plastics China          ", "http://www.ge.com/links/common/shoponline/plastics/geplasticschina.htm");
-product_menu1_16[7]=new Array("GE Plastics Australia      ", "http://www.ge.com/links/common/shoponline/plastics/geplasticsaustralia.htm");
-product_menu1_16[8]=new Array("GE Electromaterials        ", "http://www.ge.com/links/common/shoponline/plastics/geelectromaterials.htm");
-
-// Power Systems*
-product_menu1_17[0]=new Array("Select product type        ", " ");
-product_menu1_17[1]=new Array("GE and Other OEM Parts     ", "http://www.ge.com/links/common/shoponline/powersystems/geandotheroemparts.htm");
-product_menu1_17[2]=new Array("Refurbished Turbines       ", "http://www.ge.com/links/common/shoponline/powersystems/refurbishedturbines.htm");
-product_menu1_17[3]=new Array("Service Manuals            ", "http://www.ge.com/links/common/shoponline/powersystems/servicemanuals.htm");
-product_menu1_17[4]=new Array("Rental Generators          ", "http://www.ge.com/links/common/shoponline/powersystems/rentalgenerators.htm");
-product_menu1_17[5]=new Array("Rental Chiller Equipment   ", "http://www.ge.com/links/common/shoponline/powersystems/rentalchillerequipment.htm");
-product_menu1_17[6]=new Array("Rental Air Conditioners    ", "http://www.ge.com/links/common/shoponline/powersystems/rentalairconditioners.htm");
-
-// Protection Relays*
-product_menu1_18[0]=new Array("Select product type        ", " ");
-product_menu1_18[1]=new Array("Multifunction relays       ", "http://www.ge.com/links/common/shoponline/protectionrelays/multifunctionrelays.htm");
-product_menu1_18[2]=new Array("Single function relays     ", "http://www.ge.com/links/common/shoponline/protectionrelays/singlefunctionrelays.htm");
-product_menu1_18[3]=new Array("Components                 ", "http://www.ge.com/links/common/shoponline/protectionrelays/components.htm");
-product_menu1_18[4]=new Array("Accessories                ", "http://www.ge.com/links/common/shoponline/protectionrelays/accessories.htm");
-product_menu1_18[5]=new Array("Parts                      ", "http://www.ge.com/links/common/shoponline/protectionrelays/parts.htm");
-product_menu1_18[6]=new Array("Systems                    ", "http://www.ge.com/links/common/shoponline/protectionrelays/systems.htm");
-
-// Small Business Financing*
-product_menu1_19[0]=new Array("Select product type        ", " ");
-product_menu1_19[1]=new Array("Acquire A Business         ", "http://www.ge.com/links/common/shoponline/smallbusinessfinancing/acquireabusiness.htm");
-product_menu1_19[2]=new Array("Buy/Lease Equipment        ", "http://www.ge.com/links/common/shoponline/smallbusinessfinancing/buyleaseequipment.htm");
-product_menu1_19[3]=new Array("Buy/Lease Vehicles         ", "http://www.ge.com/links/common/shoponline/smallbusinessfinancing/buyleasevehicles.htm");
-product_menu1_19[4]=new Array("Expand/Relocate Facility   ", "http://www.ge.com/links/common/shoponline/smallbusinessfinancing/expandrelocatefacility.htm");
-product_menu1_19[5]=new Array("Refinance A Loan           ", "http://www.ge.com/links/common/shoponline/smallbusinessfinancing/refinancealoan.htm");
-
-// Specialty Materials*
-product_menu1_20[0]=new Array("Select product type        ", " ");
-product_menu1_20[1]=new Array("Quartz                     ", "http://www.ge.com/links/common/shoponline/specialtymaterials/quartz.html");
-product_menu1_20[2]=new Array("Silicones                  ", "http://www.ge.com/links/common/shoponline/specialtymaterials/silicones.html");
-product_menu1_20[3]=new Array("Specialty Chemicals        ", "http://www.ge.com/links/common/shoponline/specialtymaterials/specialtychemicals.html");
-product_menu1_20[4]=new Array("Superabrasives             ", "http://www.ge.com/links/common/shoponline/specialtymaterials/superabrasives.html");
-
-// Telecommunications*
-product_menu1_21[0]=new Array("Select product type        ", " ");
-product_menu1_21[1]=new Array("Prepaid Phone Cards        ", "http://www.ge.com/links/common/shoponline/telecommunications/prepaidphonecards.html");
-product_menu1_21[2]=new Array("Long Distance              ", "http://www.ge.com/links/common/shoponline/telecommunications/longdistance.html");
-
-// Trucking*
-product_menu1_22[0]=new Array("Select product type        ", " ");
-product_menu1_22[1]=new Array("Trucks/Trailers            ", "http://www.ge.com/links/common/shoponline/trucking/trailers.html");
-product_menu1_22[2]=new Array("Financing                  ", "http://www.ge.com/links/common/shoponline/trucking/financing.html");
-product_menu1_22[3]=new Array("Maintenance                ", "http://www.ge.com/links/common/shoponline/trucking/maintenance.html");
-product_menu1_22[4]=new Array("Used Equipment             ", "http://www.ge.com/links/common/shoponline/trucking/equipment.html");
-/******************************************************************************************************/
-function createproduct_menus () {
-    var pproduct = document.product.type;
-    var purl = document.product.url;
-    pproduct.length = product_menu1.length;
-    purl.length = product_menu1_0.length; 
-    for ( var j=0; j < product_menu1.length; j++ ) {
-         pproduct.options[j].text   = product_menu1[j][0];
-         pproduct.options[j].value  = product_menu1[j][1];
-    }
-    pproduct.options[0].defaultselected = true;
-    //pdocument.product.type.selected = 1;
-   for (var x=0; x < product_menu1_0.length; x++) {
-         purl.options[x].text = product_menu1_0[x][0];
-         purl.options[x].value = product_menu1_0[x][1];
-    }         
-   purl.options[0].selected = true;
-   updateproduct_menus();
-}
-/******************************************************************************************************/
-function updateproduct_menus () {
-    var what = document.product.type;  
-    var sel = what.selectedIndex;
-    if ( sel >= 0 && sel < product_menu1.length ) 
-        var temp = eval("product_menu1_"+sel);
-    else
-        var temp = new Array ();
-    what.form.url.length = temp.length;
-    for ( var i = 0; i < temp.length; i++ ) {
-        what.form.url.options[i].text  = temp[i][0];
-        what.form.url.options[i].value = temp[i][1];
-    }
-}
-
-function testproduct_menus() {
-	var what = document.product.url;  
-	var sel = what.selectedIndex;
-	if(what.options[sel].value=="                      ")  {
-		alert("Please Select Product/url");
-	}
-}
-/******************************************************************************************************/
-
-document.write(' <table cellpadding="0" cellspacing="0" border="0" width="210" bgcolor="#333399"> ');
-document.write('<tr><td bgcolor="#163e8f" valign="top" colspan="2"><IMG alt="Learn, Shop and Buy" border="0" height="37" src="/images/learnshopbuy_top.gif" width="210" ></td></tr> <tr><td bgcolor="#333399"><a href="/accessibility/buyonline_text.html"><IMG alt="Learn, Shop and Buy for Accessibility" border="0" height="1" src="/images/pixel.gif" width="5"></a></td> <td><table cellpadding="0" cellspacing="0" border="0" width="195" bgcolor="#333399"> <tr><td height="10"><IMG alt="" border="0" height="10" src="/images/pixel.gif" width="1"></td></tr><tr><td><font face="verdana,arial,sans-serif" color="#ffcc66" size="-1"><b>Buy Online:</b></font></td></tr>');
-
-if (nsup4 && is_mac) {
-	document.write ('<tr><td colspan="2"><IMG alt="" border="0" height="10" src="/images/pixel.gif" width="1" onLoad="createproduct_menus();"></td></tr>');
-}
-else {
-	document.write('<tr><td colspan="2"><IMG alt="" border="0" height="10" src="/images/pixel.gif" width="1"></td></tr>');
-}
-
-document.write('<form name="product" method="post" action="http://www.ge.com/cgi-bin/redirect.pl">');
-document.write('<tr><td>');
-
-if (ieup4) {
-	document.write('<select name="type" onFocus="createproduct_menus()" onUnload="updateproduct_menus()" onChange="updateproduct_menus()" style="HEIGHT: 22px; WIDTH: 189px">');    
-}
-else if (nsup4 && is_mac) {
-	document.write('<select name="type" onChange="updateproduct_menus()" >');
-}
-else {
-	document.write('<select name="type" onFocus="createproduct_menus()" onChange="updateproduct_menus()" >');
-}
-
-if (nsup4 && is_mac) {
-	document.write ('<option selected>(Select type)&nbsp;&nbsp;<option><option></option> </select>');
-}
-else {
-	document.write ('<option selected>-------(Select type)------<option>-------(Select type)-----<option>--------(Select type)------<option>-------(Select type)------</option> </select>');
-}
-
-document.write('</td> </tr><tr><td height="5"><IMG alt="" border="0" height="5" src="/images/pixel.gif" width="1"></td></tr><tr><td valign="top"><table cellpadding="0" cellspacing="0" border="0"><TBODY><tr><td>')
-
-if (ieup4) {
-	document.write('<select name="url" onChange="testproduct_menus()" style="HEIGHT: 22px; WIDTH: 189px">');
-	document.write ('<option selected>---------(Select url)---------<option>---------(Select url)--------<option>----------(Select url)------<option>---------(Select url)---------</option> </select>');
-}
-else if (nsup4 && is_mac) {
-	document.write('<select name="url" onChange="testproduct_menus()"><option selected>(Select url)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<option><option></option></select>');
-}
-else {
-	document.write('<select name="url"  onChange="testproduct_menus()">');
-	document.write ('<option selected>---------(Select url)---------<option>---------(Select url)--------<option>----------(Select url)------<option>---------(Select url)---------</option> </select>');
-}
-
-document.write('</TD></TR><TR><TD colspan="2"><IMG src="/images/pixel.gif" width="8" height="1" border="0" alt=""></TD><TD valign="bottom" align="left"></TD></TR></TABLE></TD></TR>');
-
-document.write('<tr><td height="5" bgcolor="#333399"><IMG alt="" border="0" height="5" src="/images/pixel.gif" width="1"></td></tr>')
-document.write('<tr><td valign="middle" align="right" bgcolor="#333399"><INPUT type="image" src="/images/find_btn.gif" valign="middle" name="go" border="0" alt="Find Product"></td></tr><tr><td height="5"><font face="verdana,arial,sans-serif" color="#ffcc66" size="-1"><b>Buy Offline:</b></font>&nbsp;<a href="/atht3.htm"><font face="verdana,arial,sans-serif" color="#ffffff" size="-2"><b>home</b></font></a>&nbsp;<font face="verdana,arial,sans-serif" size="-2" color="#ffffff"><b>or</b></font>&nbsp;<a href="/midas.htm"><font face="verdana,arial,sans-serif" color="#ffffff" size="-2"><b>business</b></font></a></table></td></tr>');
-
-document.write('</form>')
-document.write('<tr><td height="5" colspan="2" bgcolor="#333399"><IMG alt="" border="0" height="5" src="/images/pixel.gif" width="1"></td></tr></table>')
-
-createproduct_menus();
 // -->
-</script> <table cellpadding="0" cellspacing="0" border="0" width="210" bgcolor="#333399"> <tbody><tr><td bgcolor="#163e8f" valign="top" colspan="2"><img alt="Learn, Shop and Buy" border="0" height="37" src="/images/learnshopbuy_top.gif" width="210"></td></tr> <tr><td bgcolor="#333399"><a href="/accessibility/buyonline_text.html"><img alt="Learn, Shop and Buy for Accessibility" border="0" height="1" src="/images/pixel.gif" width="5"></a></td> <td><table cellpadding="0" cellspacing="0" border="0" width="195" bgcolor="#333399"> <tbody><tr><td height="10"><img alt="" border="0" height="10" src="/images/pixel.gif" width="1"></td></tr><tr><td><font face="verdana,arial,sans-serif" color="#ffcc66" size="-1"><b>Buy Online:</b></font></td></tr><tr><td colspan="2"><img alt="" border="0" height="10" src="/images/pixel.gif" width="1"></td></tr><form name="product" method="post" action="http://www.ge.com/cgi-bin/redirect.pl"></form><tr><td><select name="type" onfocus="createproduct_menus()" onchange="updateproduct_menus()"><option selected="" value=" ">Select product category     </option><option value=" ">Adhesives &amp; Silicones</option><option value=" ">Aircraft</option><option value=" ">Appliances</option> <option value=" ">Business Productivity</option><option value=" ">Clubs</option><option value=" ">Corporate Finance</option><option value=" ">Equipment Sales</option><option value=" ">Extended Warranties</option><option value=" ">Healthcare</option><option value=" ">Industrial Parts</option><option value=" ">Insurance</option><option value=" ">Investments</option><option value=" ">NBC Store</option><option value=" ">Penske Truck Leasing</option><option value=" ">Personal Finance</option><option value=" ">Plastics</option><option value=" ">Power Systems</option><option value=" ">Protection Relays</option><option value=" ">Small Business Financing</option><option value=" ">Specialty Materials</option><option value=" ">Telecommunications</option><option value=" ">Trucking</option></select></td> </tr><tr><td height="5"><img alt="" border="0" height="5" src="/images/pixel.gif" width="1"></td></tr><tr><td valign="top"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><select name="url" onchange="testproduct_menus()"><option selected="" value=" ">Select product type       </option> </select></td></tr><tr><td colspan="2"><img src="/images/pixel.gif" width="8" height="1" border="0" alt=""></td><td valign="bottom" align="left"></td></tr></tbody></table></td></tr><tr><td height="5" bgcolor="#333399"><img alt="" border="0" height="5" src="/images/pixel.gif" width="1"></td></tr><tr><td valign="middle" align="right" bgcolor="#333399"><input type="image" src="/images/find_btn.gif" valign="middle" name="go" border="0" alt="Find Product"></td></tr><tr><td height="5"><font face="verdana,arial,sans-serif" color="#ffcc66" size="-1"><b>Buy Offline:</b></font>&nbsp;<a href="/atht3.htm"><font face="verdana,arial,sans-serif" color="#ffffff" size="-2"><b>home</b></font></a>&nbsp;<font face="verdana,arial,sans-serif" size="-2" color="#ffffff"><b>or</b></font>&nbsp;<a href="/midas.htm"><font face="verdana,arial,sans-serif" color="#ffffff" size="-2"><b>business</b></font></a></td></tr></tbody></table></td></tr><tr><td height="5" colspan="2" bgcolor="#333399"><img alt="" border="0" height="5" src="/images/pixel.gif" width="1"></td></tr></tbody></table>
-<noscript>
-<table cellpadding="0" cellspacing="0" border="0" width="210" bgcolor="#333399">
-<tr><td bgcolor="#163e8f" valign="top" colspan="2"><IMG alt="Learn, Shop and Buy" border="0" height="37" src="/images/learnshopbuy_top.gif" width="210" ></td></tr> <tr><td bgcolor="#333399"><a href="/accessibility/buyonline_text.html"><IMG alt="Learn, Shop and Buy for Accessibility" border="0" height="1" src="/images/pixel.gif" width="5"></a></td> <td><table cellpadding="0" cellspacing="0" border="0" width="195" bgcolor="#333399"> <tr><td height="10"><IMG alt="" border="0" height="10" src="/images/pixel.gif" width="1"></td></tr><tr><td><font face="verdana,arial,sans-serif" color="#ffcc66" size="-1"><b>Buy Online:</b></font></td></tr>
-<tr><td height="10" colspan="2"><IMG alt="" border="0" height="10" src="/images/pixel.gif" width="1" onLoad="createMenus()"></td></tr>
-<tr><td height="10" colspan="2"><IMG alt="" border="0" height="10" src="/images/pixel.gif" width="1"></td></tr>
-<form name="product" method="post" action="http://www.ge.com/cgi-bin/redirect.pl">
-<tr><td>
-
-<select name="url">
-<option value="">Select product type</option>
-<option value="http://www.ge.com/links/common/shoponline/adhesives-silicones/americas.htm">GE Silicones Americas       </option>
-<option value="http://www.ge.com/links/common/shoponline/adhesives-silicones/europe.htm">GE Silicones Europe       </option>
-<option value="http://www.ge.com/links/common/shoponline/adhesives-silicones/adhesives.htm">GE Adhesives              </option>
-<option value="http://www.ge.com/links/common/shoponline/aircraft/commercial.htm">Commercial Aircraft        </option>
-<option value="http://www.ge.com/links/common/shoponline/aircraft/corporate.htm">Corporate Aircraft        </option>
-<option value="http://www.ge.com/links/common/shoponline/appliances/applianceproducts.htm">Appliance Products         </option>
-<option value="http://www.ge.com/links/common/shoponline/appliances/partsservices.htm">Parts/Accessories         </option>
-<option value="http://www.ge.com/links/common/shoponline/appliances/warranties.htm">Extended Warranties       </option>
-<option value="http://www.ge.com/links/common/shoponline/appliances/scheduleservice.htm">Schedule Service          </option>
-<option value="http://www.ge.com/links/common/shoponline/businessproductivity/callcenterservices.html">Call Center Services       </option>
-<option value="http://www.ge.com/links/common/shoponline/businessproductivity/purchasetracker.html">Purchase Tracker          </option>
-<option value="http://www.ge.com/links/common/shoponline/businessproductivity/salesleadmanagement.html">Sales Lead Management     </option>
-<option value="http://www.ge.com/links/common/shoponline/clubs/autoclub.htm">Auto Club                  </option>
-<option value="http://www.ge.com/links/common/shoponline/clubs/dentalplanandmore.htm">Dental Plan & More        </option>
-<option value="http://www.ge.com/links/common/shoponline/clubs/homeprotection.htm">Home Protection           </option>
-<option value="http://www.ge.com/links/common/shoponline/corporatefinance/buyingabusiness.html">Buying a Business          </option>
-<option value="http://www.ge.com/links/common/shoponline/corporatefinance/growingyourbusiness.html">Growing Your Business     </option>
-<option value="http://www.ge.com/links/common/shoponline/corporatefinance/restructurerefinance.html">Refinance/Restructure     </option>
-<option value="http://www.ge.com/links/common/shoponline/corporatefinance/turnaroundbankruptcy.html">Turnaround & Bankruptcy   </option>
-<option value="http://www.ge.com/links/common/shoponline/corporatefinance/equipmentmanagement.html">Equipment & Management    </option>
-<option value="http://www.ge.com/links/common/shoponline/corporatefinance/commercialrealestate.html">Commercial Real Estate    </option>
-<option value="http://www.ge.com/links/common/shoponline/corporatefinance/taxbalancesheethelp.html">Tax/Balance Sheet Help    </option>
-<option value="http://www.ge.com/links/common/shoponline/equipmentsales/overtheroadtrailers.htm">Over The Road Trailers     </option>
-<option value="http://www.ge.com/links/common/shoponline/equipmentsales/intermodalequipment.htm">Intermodal Equipment      </option>
-<option value="http://www.ge.com/links/common/shoponline/equipmentsales/storageequipment.htm">Storage Equipment         </option>
-<option value="http://www.ge.com/links/common/shoponline/equipmentsales/modularbuildings.htm">Modular Buildings         </option>
-<option value="http://www.ge.com/links/common/shoponline/extendedwarranties/autowarrantyprogram.htm">Auto Warranty Program      </option>
-<option value="http://www.ge.com/links/common/shoponline/extendedwarranties/majorappliances.htm">Major Appliances          </option>
-<option value="http://www.ge.com/links/common/shoponline/extendedwarranties/consumerelectronics.htm">Consumer Electronics      </option>
-<option value="http://www.ge.com/links/common/shoponline/gefinancialnetwork/investments.html">Investments                </option>
-<option value="http://www.ge.com/links/common/shoponline/gefinancialnetwork/insurance.html">Insurance                 </option>
-<option value="http://www.ge.com/links/common/shoponline/gefinancialnetwork/lending.html">Lending                   </option>
-<option value="http://www.ge.com/links/common/shoponline/healthcare/cardiology.html">Cardiology                 </option>
-<option value="http://www.ge.com/links/common/shoponline/healthcare/financialservices.htm">Financial Services        </option>
-<option value="http://www.ge.com/links/common/shoponline/healthcare/monitoringsystems.html">Monitoring Systems        </option>
-<option value="http://www.ge.com/links/common/shoponline/healthcare/radiologypacs.html">Radiology PACS            </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/brakes.htm">Brakes                     </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/breakerconversionkits.htm">Breaker Conversion Kits   </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/contactors.htm">Contactors                </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/cncs.htm">CNCs                      </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/drives.htm">Drives                    </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/groundingresistors.htm">Grounding Resistors       </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/fuses.htm">Fuses                     </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/protectiverelays.htm">Protective Relays         </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/resistors.htm">Resistors                 </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/relays.htm">Relays                    </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/switches.htm">Switches                  </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/transformerparts.htm">Transformer Parts         </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/switchgearparts.htm">Switchgear Parts          </option>
-<option value="http://www.ge.com/links/common/shoponline/industrialparts/motorparts.htm">Motor Parts               </option>
-<option value="http://www.ge.com/links/common/shoponline/insurance/autoinsurance.htm">Auto Insurance             </option>
-<option value="http://www.ge.com/links/common/shoponline/insurance/annuities.htm">Annuities                 </option>
-<option value="http://www.ge.com/links/common/shoponline/insurance/lifeinsurance.htm">Life Insurance            </option>
-<option value="http://www.ge.com/links/common/shoponline/insurance/longtermcare.htm">Long Term Care            </option>
-<option value="http://www.ge.com/links/common/shoponline/insurance/immediateannuities.html">Immediate Annuities       </option>
-<option value="http://www.ge.com/links/common/shoponline/insurance/medicalmalpractice.htm">Medical Malpractice       </option>
-<option value="http://www.ge.com/links/common/shoponline/insurance/healthinsurance.html">Health Insurance          </option>
-<option value="http://www.ge.com/links/common/shoponline/investments/geinterestplus.htm">GE Interest Plus           </option>
-<option value="http://www.ge.com/links/common/shoponline/investments/mutualfunds.htm">Mutual Funds              </option>
-<option value="http://www.ge.com/links/common/shoponline/investments/variableannuities.html">Variable Annuities        </option>
-<option value="http://www.ge.com/links/common/shoponline/investments/directstockinvesting.htm">Direct Stock Investing    </option>
-<option value="http://www.ge.com/links/common/shoponline/nbcstore/logosshowmarchandise.html">Logos/Show Merchandise     </option>
-<option value="http://www.ge.com/links/common/shoponline/pensketruckleasing/rentalforbusinessuse.htm">Business Rental            </option>
-<option value="http://www.ge.com/links/common/shoponline/pensketruckleasing/personaltruckrental.htm">Personal Rental           </option>
-<option value="http://www.ge.com/links/common/shoponline/pensketruckleasing/personaltruckleasing.htm">Full Service Leasing      </option>
-<option value="http://www.ge.com/links/common/shoponline/pensketruckleasing/logistics.htm">Logistics                 </option>
-<option value="http://www.ge.com/links/common/shoponline/personalfinance/gecreditcard.html">GE Credit Card            </option>
-<option value="http://www.ge.com/links/common/shoponline/personalfinance/homemortgage.html">Home Mortgage             </option>
-<option value="http://www.ge.com/links/common/shoponline/plastics/polymerlandorderentry.htm">Polymerland order entry    </option>
-<option value="http://www.ge.com/links/common/shoponline/plastics/colorxpresschips.htm">Colorxpress color chips   </option>
-<option value="http://www.ge.com/links/common/shoponline/plastics/geplasticsseasia.htm">GE Plastics S.E. Asia     </option>
-<option value="http://www.ge.com/links/common/shoponline/plastics/geplasticskorea.htm">GE Plastics Korea         </option>
-<option value="http://www.ge.com/links/common/shoponline/plastics/geplasticsjapan.htm">GE Plastics Japan         </option>
-<option value="http://www.ge.com/links/common/shoponline/plastics/geplasticschina.htm">GE Plastics China         </option>
-<option value="http://www.ge.com/links/common/shoponline/plastics/geplasticsaustralia.htm">GE Plastics Australia     </option>
-<option value="http://www.ge.com/links/common/shoponline/plastics/geelectromaterials.htm">GE Electromaterials       </option>
-<option value="http://www.ge.com/links/common/shoponline/powersystems/geandotheroemparts.htm">GE and Other OEM Parts     </option>
-<option value="http://www.ge.com/links/common/shoponline/powersystems/refurbishedturbines.htm">Refurbished Turbines      </option>
-<option value="http://www.ge.com/links/common/shoponline/powersystems/servicemanuals.htm">Service Manuals           </option>
-<option value="http://www.ge.com/links/common/shoponline/powersystems/rentalgenerators.htm">Rental Generators         </option>
-<option value="http://www.ge.com/links/common/shoponline/powersystems/rentalchillerequipment.htm">Rental Chiller Equipment  </option>
-<option value="http://www.ge.com/links/common/shoponline/powersystems/rentalairconditioners.htm">Rental Air Conditioners   </option>
-<option value="http://www.ge.com/links/common/shoponline/protectionrelays/multifunctionrelays.htm">Multifunction relays       </option>
-<option value="http://www.ge.com/links/common/shoponline/protectionrelays/singlefunctionrelays.htm">Single function relays    </option>
-<option value="http://www.ge.com/links/common/shoponline/protectionrelays/components.htm">Components                </option>
-<option value="http://www.ge.com/links/common/shoponline/protectionrelays/accessories.htm">Accessories               </option>
-<option value="http://www.ge.com/links/common/shoponline/protectionrelays/parts.htm">Parts                     </option>
-<option value="http://www.ge.com/links/common/shoponline/protectionrelays/systems.htm">Systems                   </option>
-<option value="http://www.ge.com/links/common/shoponline/smallbusinessfinancing/acquireabusiness.htm">Acquire A Business         </option>
-<option value="http://www.ge.com/links/common/shoponline/smallbusinessfinancing/buyleaseequipment.htm">Buy/Lease Equipment       </option>
-<option value="http://www.ge.com/links/common/shoponline/smallbusinessfinancing/buyleasevehicles.htm">Buy/Lease Vehicles        </option>
-<option value="http://www.ge.com/links/common/shoponline/smallbusinessfinancing/expandrelocatefacility.htm">Expand/Relocate Facility  </option>
-<option value="http://www.ge.com/links/common/shoponline/smallbusinessfinancing/refinancealoan.htm">Refinance A Loan          </option>
-<option value="http://www.ge.com/links/common/shoponline/specialtymaterials/quartz.html">Quartz                     </option>
-<option value="http://www.ge.com/links/common/shoponline/specialtymaterials/silicones.html">Silicones                 </option>
-<option value="http://www.ge.com/links/common/shoponline/specialtymaterials/specialtychemicals.html">Specialty Chemicals       </option>
-<option value="http://www.ge.com/links/common/shoponline/specialtymaterials/superabrasives.html">Superabrasives            </option>
-<option value="http://www.ge.com/links/common/shoponline/telecommunications/prepaidphonecards.html">Prepaid Phone Cards        </option>
-<option value="http://www.ge.com/links/common/shoponline/telecommunications/longdistance.html">Long Distance             </option>
-<option value="http://www.ge.com/links/common/shoponline/trucking/trailers.html">Trucks/Trailers            </option>
-<option value="http://www.ge.com/links/common/shoponline/trucking/financing.html">Financing                 </option>
-<option value="http://www.ge.com/links/common/shoponline/trucking/maintenance.html">Maintenance               </option>
-<option value="http://www.ge.com/links/common/shoponline/trucking/equipment.html">Used Equipment            </option>
-</select>
-
-</td> </tr><tr><td height="5"><IMG alt="" border="0" height="5" src="/images/pixel.gif" width="1"></td></tr><tr><td valign="top"><table cellpadding="0" cellspacing="0" border="0"><TBODY><tr><td>
-
-
-</TD></TR><TR><TD colspan="2"><IMG src="/images/pixel.gif" width="8" height="1" border="0" alt=""></TD><TD valign="bottom" align="left"></TD></TR></TABLE></TD></TR>
-
-<tr><td height="5" bgcolor="#333399"><IMG alt="" border="0" height="5" src="/images/pixel.gif" width=1></td></tr>
-<tr><td valign="middle" align="right" bgcolor="#333399"><INPUT type="image" src="/images/find_btn.gif" valign="middle" name="go" border="0" alt="Find Product"></td></tr><tr><td height="5"><font face="verdana,arial,sans-serif" color="#ffcc66" size="-1"><b>Buy Offline:</b></font>&nbsp;<a href="/atht3.htm"><font face="verdana,arial,sans-serif" color="#ffffff" size="-2"><b>home</b></font></a>&nbsp;<font face="verdana,arial,sans-serif" size="-2" color="#ffffff"><b>or</b></font>&nbsp;<a href="/midas.htm"><font face="verdana,arial,sans-serif" color="#ffffff" size="-2"><b>business</b></font></a></table></td></tr>
-
-</form>
-<tr><td height="5" colspan="2" bgcolor="#333399"><IMG alt="" border="0" height="5" src="/images/pixel.gif" width=1></td></tr></table>
-
-</noscript>
-</noindex><!--End Buy Online--></td></tr>
-<tr><td><img src="images/pixel.gif" alt="" width="1" height="15" border="0"></td>
-</tr>
-<tr><td width="10"><!--Begin Segment: Left Nav--><table cellpadding="0" cellspacing="0" border="0" width="200">
-<tbody><tr><td><a name="universal_navigation"><img src="/images/pixel.gif" width="5" height="1" border="0" alt=""></a></td></tr>
-<tr><td colspan="2"><img src="/images/welc_subtab.gif" alt="" border="0" width="200" height="23"></td></tr></tbody></table>			<noindex>
-			<table width="200" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-					<td colspan="3" width="200" height="23"><a href="/feedback.htm"><img src="/images/custserv_but.gif" alt="Contact Us" width="200" height="23" border="0"></a></td>
-				</tr>
-				<tr>
-					<td colspan="3" width="200" height="23"><a href="/faqs.htm"><img src="/images/faqsbutton.gif" alt="Frequently Asked Questions" width="200" height="23" border="0"></a></td>
-				</tr>
-				<tr>
-					<td bgcolor="#ffcc66" height="30" width="169">&nbsp;<font face="verdana" size="2"><nowrap><b>Find a GE Business</b></nowrap></font></td>
-					<td bgcolor="#ffcc66" height="30" width="3"><img src="/images/pixel.gif" width="3" height="1" border="0" alt=""></td>
-					<td bgcolor="#ffcc66" width="28" height="30" align="left"><a href="/businesses.htm"><img src="/images/go_yellow2.gif" alt="GE Businesses" width="26" height="26" border="0"></a></td>
-				</tr>
-				<tr>
-					<td bgcolor="#ffcc66" height="1" width="169"><img src="/images/pixel.gif" width="169" height="1" alt=""></td>
-					<td bgcolor="#ffcc66" height="1" width="3"><img src="/images/pixel.gif" width="3" height="1" alt=""></td>
-					<td bgcolor="#ffcc66" height="1" width="28"><img src="/images/pixel.gif" width="28" height="1" alt=""></td>
-				</tr>
-			</tbody></table>
-			</noindex>
-					
-						<noindex>
-						<table cellpadding="0" cellspacing="0" border="0" width="200">
-							<tbody><tr>
-								<td bgcolor="#ffebc1" colspan="2"><img src="images/pixel.gif" width="1" height="15" border="0" alt=""></td>
-							</tr>
-							<tr>
-								<td bgcolor="#ffebc1"><img src="images/pixel.gif" width="10" height="1" border="0" alt=""></td>
-								<td bgcolor="#ffebc1"><font face="verdana,helvetica" size="2">
-								<br>
-								<a href="/links/home/index/leftnav/businessfinance/home.htm"><b>Business Finance</b></a><br>
-								<a href="/links/home/index/leftnav/businessfinance/sbs.htm">Businesses with revenue</a><br>
-								&nbsp;&nbsp;&nbsp;<a href="/links/home/index/leftnav/businessfinance/sbs.htm">between $1MM &amp; $20MM</a><br>
-								<a href="/links/home/index/leftnav/businessfinance/cfo.htm">Businesses with revenue</a><br>
-								&nbsp;&nbsp;&nbsp;<a href="/links/home/index/leftnav/businessfinance/cfo.htm">greater than $20MM</a><br>
-								<a href="/links/home/index/leftnav/businessfinance/healthcare.htm">Healthcare Business Finance</a><br>
-								<a href="/links/home/index/leftnav/businessfinance/trucking.htm">Trucking/Fleet Needs</a><br>
-								<a href="/links/home/index/leftnav/businessfinance/capital.htm">Other Financing</a><br>
-								<br>
-								<a href="/links/home/index/leftnav/gefn/pf_1.htm"><b>Personal Finance</b></a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_7.htm">Annuities</a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_2.htm">Auto Insurance</a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_6.htm">Credit Cards</a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_11.htm">Direct Stock Investing</a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_12.htm">GE Auto Warranty Program</a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_9.htm">GE Interest Plus</a><br>
-								<a href="/links/home/index/leftnav/gefn/healthinsurance.html">Health Insurance</a><br>
-								<a href="/links/home/index/leftnav/gefn/homebuyer.html">Homebuyer Information</a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_4.htm">Home Mortgages</a><br>
-								<a href="/links/home/index/leftnav/gefn/immed_annuit.html">Immediate Annuities</a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_3.htm">Life Insurance</a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_10.htm">Long Term Care Insurance</a><br>
-								<a href="/links/home/index/leftnav/gefn/pf_5.htm">Mutual Funds</a><br>
-								<a href="/links/home/index/leftnav/gefn/variable_annuit.html">Variable Annuities</a><br>
-								<br>
-								<a href="/links/home/index/leftnav/portalpromos/industry_landing.html"><b>Industry Solutions</b></a><br>
-								<a href="/links/home/index/leftnav/portalpromos/industry_automotive.html">Automotive</a><br>
-								<a href="/links/home/index/leftnav/portalpromos/industry_construction.html">Building &amp; Construction</a><br>
-								<a href="/links/home/index/leftnav/portalpromos/industry_healthcare.html">Healthcare</a><br>
-								<a href="/links/home/index/leftnav/portalpromos/industry_retail.html">Retail</a><br>
-								<a href="/links/home/index/leftnav/portalpromos/industry_telecommunications.html">Telecommunications</a><br>
-								<a href="/links/home/index/leftnav/portalpromos/industry_transportation.html">Transportation</a><br>
-								<a href="/links/home/index/leftnav/portalpromos/industry_utilities.html">Utilities</a><br>
-								<br>
-								<a href="/links/home/index/leftnav/portalpromos/homesolutions.html"><b>Home Solutions</b></a><br>
-								<a href="/links/home/index/leftnav/gel/hs_1.htm">Lighting</a><br>
-								<a href="/links/home/index/leftnav/gea/hs_2.htm">Appliances</a><br>
-								<a href="/links/home/index/leftnav/gea/homebuyer.htm">Homebuyer Resources</a><br>
-								<a href="/links/home/index/leftnav/geindsys/hs_4.htm">Home Comfort &amp; Safety</a><br>
-								<a href="/links/home/index/leftnav/gep/ges/hs_3.htm">Adhesives &amp; Sealants</a><br>
-								<br>
-								<a href="/links/home/index/leftnav/portalpromos/corporate.html"><b>Corporate Info</b></a><br>
-								<a href="/links/home/index/leftnav/portalpromos/pressroom.html">Press Room</a><br>
-								<a href="/investor/annuals.htm">Annual Reports</a><br>
-								<a href="/links/home/index/leftnav/portalpromos/investor.html">Investors</a><br>
-								<a href="/community/">GE in the Community</a><br>
-								<a href="/links/home/index/leftnav/gecareer/students.html">Student Portal</a><br>
-								<a href="/links/home/index/leftnav/gecareer/ci_1.htm">Careers</a><br>
-								<a href="/feedback.htm">Contact Us</a><br>
-								<br>
-								<a href="/links/home/index/leftnav/gea/cs_1.htm"><b>Customer Service</b></a><br>
-								<a href="/faqs.htm">FAQs</a><br>
-								<a href="/sitemap.htm">Site Map</a><br>
-								<br></font></td>
-							</tr>
-							<tr>
-								<td colspan="2" bgcolor="#ffebc1"><img src="images/pixel.gif" width="1" height="10" border="0" alt=""></td>
-							</tr>
-							<tr>
-								<td width="100%" colspan="2" valign="top"><img src="images/brown_pix.gif" width="100%" height="1" border="0" alt=""></td>
-							</tr>
-						</tbody></table>
-						</noindex>
-</td></tr>
-<tr><td><noindex><form action="/cgi-bin/redirect.pl" method="post">
-<table border="0" align="left">
-<tbody><tr valign="top">
-<td colspan="2" align="left" valign="bottom"><font face="arial,helvetica" size="2">Select a country</font></td>
-</tr>
-<tr valign="top">
-<td align="left" valign="top">
-<select name="url">
-<option value="http://www.ge.com/">GE Worldwide
-</option><option value="http://www.ge.com/europe/">GE in Europe
-</option><option value="http://www.ge.com/gulf/">GE in the Gulf
-</option><option value="http://www.ge.com.ar/">Argentina
-</option><option value="http://www.ge.com.au/">Australia
-</option><option value="http://www.general-electric.at/">Austria
-</option><option value="http://www.ge.az/">Azerbaijan
-</option><option value="http://www.ge.com/benelux/">Belgium
-</option><option value="http://www.ge.com.br/">Brazil
-</option><option value="http://www.generalelectric.bg/ge/bulgarian/index_b.htm">Bulgaria
-</option><option value="http://www.ge.com/canada/">Canada
-</option><option value="http://www.ge.com/chile/">Chile
-</option><option value="http://www.ge-china.com/">China (PRC)
-</option><option value="http://www.gecb.cz/">Czech Republic
-</option><option value="http://www.gedenmark.com/">Denmark
-</option><option value="http://www.ge.com/eg/">Egypt
-</option><option value="http://www.gefinland.com/">Finland
-</option><option value="http://www.ge.com/france/">France
-</option><option value="http://www.general-electric.de/">Germany
-</option><option value="http://www.ge.com/greece/">Greece
-</option><option value="http://www.ge.com/hk/">Hong Kong (PRC)
-</option><option value="http://www.ge.com/hu/">Hungary
-</option><option value="http://www.ge.com/in/">India
-</option><option value="http://www.ge.com/id/">Indonesia
-</option><option value="http://www.ge.com/ireland/">Ireland
-</option><option value="http://www.ge.com/israel/">Israel
-</option><option value="http://www.ge.com/italy/">Italy
-</option><option value="http://www.gejapan.com/">Japan
-</option><option value="http://www.ge.kz/">Kazakhstan
-</option><option value="http://www.ge.com/korea/">Korea (South)
-</option><option value="http://www.ge.com/gulf/">Kuwait
-</option><option value="http://www.ge.com/gulf/">Lebanon
-</option><option value="http://www.ge.com/benelux/">Luxembourg
-</option><option value="http://www.ge.com/malaysia/">Malaysia
-</option><option value="http://www.ge.com.mx/">Mexico
-</option><option value="http://www.ge.com/ma/">Morocco
-</option><option value="http://www.ge.com/benelux/">Netherlands
-</option><option value="http://www.genorway.com/">Norway
-</option><option value="http://www.ge.com.pk/">Pakistan
-</option><option value="http://www.ge.com/ph/">Philippines
-</option><option value="http://www.ge.com/pl/">Poland
-</option><option value="http://www.ge.com/iberia/index_po.html">Portugal
-</option><option value="http://www.ge-romania.ro/">Romania
-</option><option value="http://www.ge.com/ru/">Russia
-</option><option value="http://www.gesa.com.sa/">Saudi Arabia
-</option><option value="http://www.ge.com/singapore/">Singapore
-</option><option value="http://www.ge.com/southafrica/">South Africa
-</option><option value="http://www.ge.com/iberia/index_en.html">Spain
-</option><option value="http://www.gesweden.com/">Sweden
-</option><option value="http://www.ge.com/switzerland/">Switzerland
-</option><option value="http://www.ge.com/gulf/">Syria
-<!-- <option value="http://www.ge-taiwan.com/">Taiwan -->
-</option><option value="http://www.ge.com/thailand/">Thailand
-</option><option value="http://www.ge.com/turkey/">Turkey
-</option><option value="http://www.ge.com/ukraine/">Ukraine
-</option><option value="http://www.ge.com/gulf/">United Arab Emirates
-</option><option value="http://www.ge.com/uk/">United Kingdom
-</option><option value="http://www.ge.com">United States
-</option><option value="http://www.ge.com/venezuela/">Venezuela
-</option><option value="http://www.ge.com/gulf/">Yemen
-</option></select>
-</td></tr>
-<tr><td colspan="2" align="right" valign="top"><input type="image" src="/images/go_white.gif" alt="Select Country" border="0" name="go"></td></tr></tbody></table></form></noindex>
-</td></tr>
-</tbody></table><!--End Left Nav--></td>
-<td><img src="images/pixel.gif" alt="" width="15" height="1" border="0"></td>
-<td width="100%" align="center" valign="top"><!--Begin Segment: Center 
-Content--><table cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr><td valign="top"><!--Begin Welcome--><a name="main_content"><img src="images/hdr_geprivacy.gif" alt="GE.com Privacy Policy for the Internet" width="222" height="28" border="0"></a><!--End Welcome--></td>
-</tr>
-<tr><td><img src="images/pixel.gif" alt="" width="1" height="5" border="0"></td>
-</tr>
-<tr><td bgcolor="#cccccc"><img src="images/pixel.gif" alt="" width="100%" height="1" border="0"></td>
-</tr>
-<tr><td><img src="images/pixel.gif" alt="" width="1" height="20" border="0"></td>
-</tr>
-<tr><td valign="top"><!--Begin Main Content--><font face="arial,helvetica" size="2" color="#666666">The General Electric 
-Company (GE) is sensitive to privacy issues on the Internet. We believe it is 
-important you know how we treat the information about you we receive on the 
-Internet. 
-<p>
-In general, you can visit GE on the World Wide Web without telling us who
-you are or revealing any information about yourself. Our Web servers collect
-the domain names, not the e-mail addresses, of visitors. This information is
-aggregated to measure the number of visits, average time spent on the site,
-pages viewed, etc. GE uses this information to measure the use of our site
-and to improve the content of our site. 
-</p><p>
-There are times, however, when we may need information from you, such as
-your name and address. When information is needed, we will try to let you
-know at the time of collection, how we will use the personal information.
-Usually, the personal information we collect is used only by us to respond to
-your inquiry, process an order or allow you to access specific account
-information. Occasionally, we may make the e-mail addresses, of those who
-provide information, available to other reputable organizations whose
-products or services we think you may find interesting. In these cases, you
-will be offered an opportunity to limit access to your information. 
-</p><p>
-If you register with one of GE's business units online, they may use this
-information to provide you with custom information about GE's offering in
-support of your business needs. A technology called cookies may be used to
-provide you with tailored information. A cookie is a tiny element of data that
-a Web site can send to your browser, which may then be stored on your hard
-drive so we can recognize you when you return. You may set your browser
-to notify you when you receive a cookie. 
-</p><p>
-At times we conduct online surveys to better understand the needs and
-profile of our visitors. When we conduct a survey, we will try to let you know
-how we will use the information at the time we collect information from you
-on the Internet. 
-</p></font><p><font face="arial,helvetica" size="2" color="#666666">
-GE's Web site may contain links to other sites such as GE distributors and
-sales affiliates. While we try to link only to sites that share our high standards
-and respect for privacy, we are not responsible for the content or the privacy
-practices employed by other sites.</font><!--End Main Content--></p></td></tr>
-</tbody></table><!--End Center Content--></td>
-<td><img src="images/pixel.gif" alt="" width="12" height="1" border="0"></td>
-<td width="195" valign="top"><img src="images/pixel.gif" alt="" width="1" height="15" border="0"><p></p></td></tr></tbody></table>
-<p>
-</p></td>
-</tr></tbody></table><!--End Opening Table-->
-
-<!--Begin Copyright-->
-		<font face="verdana,arial,helvetica" size="1" color="#666666">&nbsp;©  General Electric Company 1997-2002</font>
-
-<!--End Copyright-->
+</script>
 
 
 
-</body></html>
+<script language="JavaScript"><!--
+		init();
+	//--></script></head>
+
+
+	
+	
+
+	
+
+
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="preloadCareerImages();" <!--="=========" begin="" masthead="" (a00)="=========" --="">
+<table width="735" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td valign="top" style="background-image:url(/images/ticker_bg.jpg)"><a href="/index.cfm"><img src="/images/logo_ge_career_masthead.jpg" width="237" height="63" alt="GE. We bring good things to life." border="0"></a></td>
+		<td width="499" height="63" style="background-image:url(/images/bg_masthead_checkered.jpg)">&nbsp;
+
+		</td>
+	</tr>
+	<tr class="layout">
+		<td width="735" colspan="2" align="right" style="background-image:url(/images/ticker_bg.jpg)" class="mastLink">
+			
+			<span class="mastArrow">&gt;&nbsp;</span><a href="/index.cfm" class="mastLink">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="mastArrow">&gt;&nbsp;</span><a href="/AboutGE/sitemap.cfm" class="mastLink">Site&nbsp;Map</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="mastArrow">&gt;&nbsp;</span><a href="http://www.ge.com" class="mastLink">GE.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="mastArrow">&gt;&nbsp;</span><a href="/ExperiencedProfessionals/candidate_privacy.cfm" class="mastLink">Privacy&nbsp;Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+		<img src="images/spacer.gif" alt="" width="2" height="2" border="0"></td>
+	</tr>
+</tbody></table>
+<!-- ========== END MASTHEAD (A00) ========== -->
+<!-- ========== BEGIN PRIMARY NAVIGATION (A01) ========== -->
+<table width="735" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr class="layout">
+	<td>
+			
+				<a href="/WorkingForGE/index.cfm"><img src="/images/menu_working_ge_home.gif" width="184" height="19" alt="Link to Working at GE section" border="0"></a>
+			
+	</td>
+	<td><img src="/images/menu_spacer.gif" width="1" height="19" alt="" border="0"></td>
+	<td>
+			
+				<a href="/Career/index.cfm"><img src="/images/menu_career_dev_home_on.gif" width="182" height="19" alt="Link to Career Development section" border="0"></a>
+			
+	</td>
+	<td><img src="/images/menu_spacer.gif" width="1" height="19" alt="" border="0"></td>
+	<td>
+			
+				<a href="/Campus/index.cfm"><img src="/images/menu_campus_recruiting_home.gif" width="184" height="19" alt="Link to Campus Recruiting section" border="0"></a>
+			
+	</td>
+	<td><img src="/images/menu_spacer.gif" width="1" height="19" alt="" border="0"></td>
+	<td>
+			
+				<a href="/search.cfm"><img src="/images/menu_global_careers_home02.gif" width="182" height="19" alt="Link to GE Global Careers section" border="0"></a>
+			
+	</td>
+	</tr>
+</tbody></table>
+<!-- ========== END PRIMARY NAVIGATION (A01) ========== -->
+
+<!-- *** red portion of top banner - BREADCRUMBS *** -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="735" bgcolor="#CC0000">
+	<tbody><tr>
+		<td bgcolor="#FFFFFF" valign="top" width="15" class="secondNavLink"><img src="/images/spacer.gif" border="0" height="19" width="15" align="top" alt=""></td><td bgcolor="#FFFFFF" valign="top" width="453" class="breadText"><img src="/images/spacer.gif" border="0" height="1" width="453" align="top" alt=""><br><span class="globalArrow">&gt;&nbsp;</span>Candidate Privacy Policy</td>
+		<td bgcolor="#FFFFFF" valign="bottom" align="RIGHT">&nbsp;</td>
+	</tr>
+</tbody></table>
+<a name="skipNav"><img src="/images/spacer.gif" width="1" height="5" border="0" alt="Beginning of main page content"></a><br>
+
+
+<!-- ------ End of htdocs\header.cfm  -------- -->
+
+
+<table border="0" cellpadding="10" cellspacing="0" width="600">
+<tbody><tr>
+<td class="content">
+<img src="/images/spacer.gif" width="600" height="1" alt=""><br>
+At GE we are committed to protecting your privacy. Your personal information will be used by GE for recruitment purposes. It will be protected internationally according to GE's Candidate Data Privacy Guidelines outlined below.
+
+<p>By submitting your personal information you agree that GE may process it for recruitment purposes and transfer it worldwide consistent with GE's Candidate Data Privacy Guidelines.
+
+</p><p>Your consent to provide this information is required in order to complete the submittal process. If you do not agree, click on the "x" button in the upper right hand corner and the submittal process will discontinue.
+
+</p><p><b>Candidate Data Privacy Guidelines</b>
+<br><br>
+These guidelines are derived from the GE global Guidelines on Employment Data Protection and Privacy. They are intended to provide candidates with information about the processing of Candidate-related data. For the avoidance of doubt, these guidelines do not form part of your contract of employment (where applicable). GE may amend these guidelines from time to time, should it become necessary to do so.
+
+</p><p>GE respects the privacy rights and interests of its candidates and the following principles will be applied when dealing with information that relates to identified or identifiable candidates in connection with your interest in a GE position. This type of information will be referred to as "Candidate Data".
+
+</p><p>Data Privacy Principles
+</p><ul>
+
+<li>
+Data will be collected for the purposes specified below and used accordingly. The collection and processing of the data will be limited to these purposes and you are hereby informed in advance of the purposes and uses of such data.
+</li>
+<li>
+Data will be adequate, relevant and not excessive relative to the purposes for which they are processed.
+</li>
+<li>
+Data will be as accurate as possible and, where necessary, kept up to date.
+</li>
+<li>
+Data will not be kept longer than is appropriate or necessary for the purposes for which it is being processed or local legal requirements.
+</li>
+<li>
+Data will be collected, used and retained in accordance with the legal rights of the data subjects.
+</li>
+<li>
+Appropriate technical and physical measures will be taken to prevent unauthorized access, accidental loss, destruction or damage to data and any unauthorized organization, disclosure or processing.
+</li>
+</ul>
+<p>Processing
+</p><ul>
+<li>
+The Company processes Candidate Data fairly and lawfully for the purposes of your potential employment.
+</li>
+<li>
+Processing for these purposes includes obtaining, recording, holding, organizing, transferring, adapting, amending, recovering, consulting, using, limiting, disclosure by transmission, dissemination or otherwise making available, aligning, blocking, destroying and erasing data. The Candidate Data that is processed includes, but is not limited, to:
+</li>
+<ul>
+<li>Candidate status </li>
+<li>Work history/job data </li>
+<li>Education </li>
+<li>Compensation  </li>
+<li>Employer feedback </li>
+<li>Online questionnaire results </li>
+</ul>
+
+<li>
+This list is not exhaustive and may be changed and/or added to from time to time.
+</li>
+<ul><br>
+<b><u>Information Collection</u></b>
+<ul>
+<li>
+Subject to local legal requirements, GE may use external services to collect, process and/or validate Candidate Data. GE requires that any such external service will ensure adequate protection for Candidate Data and complies with local legal requirements.
+</li>
+<li>
+GE may collect candidate feedback and opinions periodically (e.g. surveys) for business purposes, such as improving processes, subject to local legal requirements. You may respond to these surveys voluntarily or may elect not to respond and will not suffer reprisals for your decision. These guidelines will be applicable to personal information provided as response to the surveys.
+</li>
+</ul>
+<b><u>Disclosure Within GE</u></b>
+<ul>
+<li>
+To operate as a global business and to promote your career within GE, it is necessary to process and transfer Candidate Data both within GE businesses and GE affiliates. This will involve transferring Candidate Data outside the European Economic Area (EEA) to the USA and elsewhere.
+</li>
+<li>
+Processing and/or transfer of Candidate Data and release of information within GE and/or to third parties outside the European Economic Area is subject to local law and, where required, will be subject to candidate consent, as well as ensuring adequate security measures.
+</li>
+</ul>
+
+<b><u>Disclosure to Third Parties</u></b>
+<ul>
+<li>
+GE may be obliged to disclose certain Candidate Data to third parties such as Government Authorities.
+</li>
+<li>
+It may be necessary to disclose certain Candidate Data to a supplier or contractor organization supplying services which require the use and/or creation of Candidate Data.
+</li>
+<li>
+It may also be necessary to disclose Candidate Data so as to protect the legal interests and other rights of GE, subject to local legal requirements.
+</li>
+</ul>
+<b><u>Candidate Data Security</u></b>
+<ul>
+<li>
+GE ensures adequate security to protect manual and electronic processing of Candidate Data and prevent its misuse, subject to local legal requirements.
+</li>
+<li>
+Data sensitivity categories are separated by GE into high, medium, standard and public depending upon the type of data being protected and as appropriate, or otherwise in accordance with local categorization requirements.
+</li>
+<li>
+GE also ensures adequate security is observed by third parties and affiliates processing Candidate Data on behalf of GE, subject to local legal requirements.
+</li>
+</ul>
+
+<b><u>Sensitive Personal Data</u></b>
+<ul>
+<li>
+GE ensures special protection for Sensitive Personal Data. This is defined by GE as:
+</li>
+<ul>
+<li>
+Demographic data (e.g. sex, race, color, ethnic or national origin, religion, philosophical or political beliefs, trade union membership and criminal proceedings); and
+</li>
+<li>
+Medical data (e.g. pre-placement medicals, and other medical documents produced for the purposes of employment, such as, drug screen results); and
+</li>
+<li>
+Personal financial data.
+</li>
+</ul>
+<li>
+GE may process this type of data for the purposes of equal opportunities monitoring, or if it is prescribed by law, or it is needed for the protection of life, health or freedom, or if it is required for the performance of your employment contract, subject to appropriate security safeguards and local legal requirements.
+</li>
+<li>
+If required by local law, explicit candidate consent may be obtained to the processing of sensitive personal data.
+</li>
+</ul>
+<b><u>Data Collection and Candidate Access</u></b>
+<br>
+Candidates may use various methods of submitting their Candidate Data to GE. These include email or paper submission to GE personnel, online resume submittal which is processed by a third party provider into an electronic database based in the U.S. accessible by GE authorized personnel, or via a GE employment application.  In addition, some candidates may be invited to complete separate online questionnaires for our Leadership Programmes where automated decisions will be made based on your responses to the online questionnaires.  If your Candidate Data is held in an electronic database, either through your submission process or from completing an online questionnaire:
+<ul>
+<li>
+You have the right to see Candidate Data that GE holds about you (subject to certain legal limitations).
+</li>
+<li>
+You should send a request in writing to the Human Resources Data Protection Administrator at 3135 Easton Turnpike Mail Drop W2G, Fairfield, CT 06431 if you would like to view your Candidate Data, correct your Candidate Data or discuss the outcome of the results of your online questionnaire.  Any letters sent to this address for any other purpose other than the above will not be responded to and will be discarded.
+</li>
+<li>
+Human Resources Data Protection Administrator will confirm your rights of access to such Candidate Data.
+</li>
+<li>
+GE will allow you to view your Candidate Data within a reasonable period, within relevant legal time limits and subject to local legal requirements.
+</li>
+<li>
+You are encouraged to ensure that Candidate Data is kept up to date and amend Candidate Data that is inaccurate or out of date (e.g. name and address).
+</li>
+<li>
+GE will endeavor to resolve any issues concerning your Candidate Data in accordance with relevant procedures.
+</li>
+
+</ul></ul></ul></td>
+<!-- footer.cfm: created by iXL 5/11/2000 -->
+
+
+
+</tr></tbody></table>
+
+<!-- Start of htdocs\Includes\footer.htm  Scient -->
+<table cellpadding="0" cellspacing="0" width="735" border="0">
+	<tbody><tr>
+		<td><img src="/images/spacer.gif" width="2" height="20" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<!-- leading image separates adjacent links (in previous row) according to accessibility guidelines.  trailing image balances the line for centering. -->
+		<td><div style="width:100%;" class="footerBlock"><div class="footSecondary"><img src="/images/spacer.gif" width="2" height="2" alt="" border="0"> <a href="http://www.ge.com/nyseclose.htm" class="footSecondary">Previous&nbsp;Stock&nbsp;Close</a>  | <a href="/ExperiencedProfessionals/candidate_privacy.cfm" class="footSecondary">Candidate&nbsp;Privacy&nbsp;Policy</a> |  <a href="http://www.ge.com/ge/gl_terms.htm" class="footSecondary">Terms&nbsp;and&nbsp;Conditions</a><img src="/images/spacer.gif" width="2" height="2" alt="" border="0">
+			<br>
+			<br>Copyright General Electric Company 1997-2002
+			</div></div></td>
+	</tr>
+	<tr>
+		<td><img src="/images/spacer.gif" width="2" height="20" alt="" border="0"></td>
+	</tr>
+</tbody></table>
+
+
+<!-- End of htdocs\Includes\footer.htm -->
+
+
+<!-- End of ExpProf\candidate_privacy.cfm --></body></html>
