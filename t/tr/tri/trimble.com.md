@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202141646id_/http%3A//www.trimble.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402082056id_/http%3A//www.trimble.com/privacy.html) for the most accurate reproduction.*
 
 # Trimble - Privacy Statement
 
@@ -8,7 +8,7 @@
 
  ****
 
-****Effective date: Nov   13, 2003
+****Effective date: Jan. 17, 2004
 
 **Trimble's Commitment to Online Privacy**
 
@@ -18,16 +18,15 @@
 
 This Privacy Statement covers Trimble's family of corporate web sites, which include:
 
-[www.trimble.com](https://web.archive.org/web/20031202141646id_/http%3A//www.trimble.com/index.html)  
+[www.trimble.com](https://web.archive.org/web/20040402082056id_/http%3A//www.trimble.com/index.html)  
 [www.trimblestore.com](http://www.trimblestore.com/)  
 [www.gpspathfinderexpress.com](http://www.gpspathfinderexpress.com/)  
 [www.knet.trimble.com  
 ](http://www.knet.trimble.com/)[Telvisant Mobile Resource Management System  
-](http://209.137.103.31/)[ _http://global.trimble.com/_](http://global.trimble.com/)
+](http://209.137.103.31/)[ _http://global.trimble.com/  
+_](http://global.trimble.com/) __[ __http://www.ez-guide.com/](http://www.ez-guide.com/)
 
-[ __](http://global.trimble.com/)
-
-[__](http://global.trimble.com/)__[__](http://209.137.103.31/)__Some of our subsidiaries or programs have their own, possibly different, policies. We encourage you to read this privacy policy and those of all web sites you visit.
+Some of our subsidiaries or programs have their own, possibly different, policies. We encourage you to read this privacy policy and those of all web sites you visit.
 
 **Consent**
 
