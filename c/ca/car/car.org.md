@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the car.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005534id_/http%3A//car.org/index.php%3Fid%3DMTY1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car.org privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401200306id_/http%3A//www.car.org/index.php%3Fid%3DMTY1) for the most accurate reproduction.*
 
 # Privacy Policies
 
 Privacy Policies
 
-[**Privacy Policy for C.A.R. Online (www.car.org)**](https://web.archive.org/web/20031205005534id_/http%3A//car.org/index.php?id=MTY1#privpol)  
-[**California Association of REALTORS® Member Information Privacy Policy**](https://web.archive.org/web/20031205005534id_/http%3A//car.org/index.php?id=MTY1#mmp)
+[**Privacy Policy for C.A.R. Online (www.car.org)**](https://web.archive.org/web/20040401200306id_/http%3A//www.car.org/index.php?id=MTY1#privpol)  
+[**California Association of REALTORS® Member Information Privacy Policy**](https://web.archive.org/web/20040401200306id_/http%3A//www.car.org/index.php?id=MTY1#mmp)
 
  **  Privacy Policy for C.A.R. Online (www.car.org)**
 
