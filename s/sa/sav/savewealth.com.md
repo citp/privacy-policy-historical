@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the savewealth.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604021838id_/http%3A//www.savewealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savewealth.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214122207id_/http%3A//www.savewealth.com/privacy) for the most accurate reproduction.*
 
 # SaveWealth.com Privacy Policy
 
-**Privacy Policy**  
+Privacy Policy  
 
 
 At SaveWealth.com, we're committed to protecting your privacy. We take every visitor's personal information very seriously, and want to explain in further detail how we protect it.
@@ -38,11 +38,11 @@ E-mail is an easy and efficient way of giving you the answers you're looking for
 
 When you request information, you always have the option of requesting to receive periodic news on financial or estate matters via e-mail. If you do not wish to receive these regular e-mailings, it is always your choice.
 
-If you should ever change your mind or wish to update your contact information, please [update](http://www.savewealth.com/contact/change/) us.
+If you should ever change your mind or wish to update your contact information, please [update](https://www.savewealth.com/contact/change/) us.
 
 **What About External Links?**
 
-Any information that you provide to parties linked from this website is maintained under that company's privacy policy. Information is not shared with SaveWealth.com by these parties. Several of our corporate partners, including [The Preservation Group](http://www.preservationgroup.com/) and [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/savewealthcomboo), maintain very strict guidelines to ensure your private information remains just that: **private.**
+Any information that you provide to parties linked from this website is maintained under that company's privacy policy. Information is not shared with SaveWealth.com by these parties. Several of our corporate partners maintain very strict guidelines to ensure your private information remains just that: **private.**
 
 **Is Your Site Designed For Kids?**
 
@@ -56,4 +56,4 @@ We encourage you to visit the Center for Media Education's guide to children's p
 
 Your privacy is of paramount importance. We use the information we collect to improve SaveWealth.com, and ensure you receive accurate estate planning, retirement and investing information. By using our website, you consent to the collection and use of this information by SaveWealth.com. If we change this policy, we will post changes here so that you always know how we handle your private information.
 
-We welcome your questions and comments about privacy. Please [send us an email](mailto:privacy@savewealth.com) and tell us what you think about our privacy policy. ****
+We welcome your questions and comments about privacy. Please [contact us](https://www.savewealth.com/contact/) and tell us what you think about our privacy policy. ****
