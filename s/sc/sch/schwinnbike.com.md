@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the schwinnbike.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606151442id_/http%3A//www.schwinnbike.com/care/privacy.php) for the most accurate reproduction.*
+
+# Schwinn Heritage
+
+**PRIVACY STATEMENT**  
+Because Schwinn respects its customers and understands that they are concerned about privacy, it has instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. Schwinn also posts this privacy statement so that you know what kind of information is collected, how it is handled and with whom it may be shared. 
+
+Schwinn collects customer information to make your online shopping experience the very best on the Internet. Schwinn respects your privacy, and assures you that it will maintain and use this information responsibly. 
+
+Schwinn believes in providing a safe and secure shopping experience for all of its customers. It provides only the most stringent of security measures available on the Internet. Schwinn wants you to feel comfortable that personal information such as your name, address, and credit card number will be kept safe throughout your entire shopping experience at the Schwinn online store. It is Schwinn's policy to never send private information, such as your credit card number, via e-mail. In fact, this is a policy Schwinn recommends you adopt in all of your Internet activities. 
+
+Schwinn may use customer information for its own marketing and promotional purposes. It does not sell online customer information to any outside company or third party. If at any time you would like Schwinn to delete your registration information, feel free to send an e-mail to [remove@schwinn.com](mailto:remove@schwinn.com). Please be sure to include your e-mail address, user name, password, and full name. 
+
+**How does Schwinn Online protect kids' privacy?**  
+Schwinn Online are concerned about the safety of children when they use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a subscriber is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files. Please note: we may nevertheless maintain a record of that person's name and address in a "do not register" file to avoid subsequent registration by a child under the age of 13. 
+
+**Personally Identifiable Information**  
+Schwinn World Wide Web sites collect personally identifiable information (such as name, address, telephone number, or e-mail address) from Web site visitors only when visitors voluntarily provide such information to Schwinn. Schwinn Web site visitors who do not want their personally identifiable information collected online are asked not to submit such information to Schwinn. 
+
+If Schwinn Web site visitors previously provided their e-mail addresses to Schwinn and would like to have their e-mail addresses removed from Schwinn e-mail mailing lists, Schwinn asks them to send an e-mail message to [remove@schwinn.com](mailto:remove@schwinn.com). Schwinn informs such visitors that it will use reasonable efforts to delete their e-mail addresses from its existing files. 
+
+**Personally Identifiable Information Collected Automatically**  
+Schwinn Web Sites may collect information from Web site visitors that is not personally identifiable, including the visitor's operating system, browser, domain name, and the specific web pages on the Schwinn Web site that are accessed or visited. Schwinn only collects this information in the aggregate, and only uses it to improve Schwinn Web sites. 
+
+The Schwinn online store uses "Cookie Technology." Cookie Technology is a means that may be used to identify you as a previous visitor and to tailor Schwinn's online store to your interests based on the items you review within the store. A Cookie is a data element that a Web site may send to your browser, which then may store it on your computer or computer system. For example, if you browse a certain line of equipment or accessories, the Cookie stored in your system will "remember" that you visited the web page with that equipment or accessories next time you visit the Web site. That information, in turn, may be used by a web site to serve you more effectively. For example, based on a Cookie, the Web site would know that you liked a certain line of accessories and could take the opportunity to let you know of new merchandise or specials being offered during a future web site visit. You can set your browser to notify you when you receive a Cookie, which provides you with the opportunity to decide whether you want to accept or reject the Cookie. 
+
+Schwinn informs web site visitors that when they visit Schwinn web sites, Schwinn may store some information on the visitor's computer in the form of a "Cookie." These files allow Schwinn to tailor a Web site to reflect a customer's listed or historical preferences. Most Web browsers allow Web users to exercise control over such files on their computers by erasing them, blocking them, or notifying the user when such a file is stored. Schwinn Web site visitors are asked to refer to their browser's instructions to learn about those functions.
