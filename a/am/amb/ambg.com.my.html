@@ -1,249 +1,747 @@
-<!--The following is the downloaded HTML source of the ambg.com.my privacy policy that was archived on 2002-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602111359id_/http%3A//www.ambg.com.my/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ambg.com.my privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208181345id_/http%3A//www.ambg.com.my/privacypolicy.asp) for the most accurate reproduction.-->
 
-<html><!-- #BeginTemplate "/Templates/new_misc.dwt" --><head>
+<html><!-- #BeginTemplate "/Templates/new_investment.dwt" --><head>
+<meta name="keywords" content="Privacy, Privacy Policy, Personal Information, Security, Cookies,  Complaints, AmBank Group's web site, Login ID, Password, information confidential">
 <!-- #BeginEditable "doctitle" --> 
-<title>AMBG | Privacy</title>
+<title>AmBank Group | Privacy</title>
 <!-- #EndEditable -->
+
+
+<script language="JavaScript">
+<!--   
+	var infq;
+	infq = "False";   	
+-->
+</script>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="/css/style.css" type="text/css">
-<script language="javascript">
-<!--
-function jumpTo(theVal){
-if (theVal!=""){
-document.location.href = theVal;
+<link rel="stylesheet" href="/css/text" type="text/css">
+<link href="/css/style_mouseover.css" rel="styleSheet" type="text/css">
+<script language="JavaScript1.2">
+var isDOM = (document.getElementById ? true : false); 
+var isIE4 = ((document.all && !isDOM) ? true : false);
+var isNS4 = (document.layers ? true : false);
+
+function getRef(id) {
+   if (isDOM) return document.getElementById(id);
+   if (isIE4) return document.all[id];
+   if (isNS4) return document.layers[id];
 }
+
+function getSty(id) {
+   return (isNS4 ? getRef(id) : getRef(id).style);
 } 
-//-->
-</script><script language="JavaScript">
-<!--
-var strWebSiteNm = "";
 
-function appendProdServ(iAction, inForm)
-{	
-	if (inForm.sltProduct.value !="")		
-	{
-		document.location.href = strWebSiteNm + inForm.sltProduct.value;
+// Hide timeout.
+var popTimer = 0;
+// Array showing highlighted menu items.
+var litNow = new Array();
+
+function popOver(menuNum, itemNum) {
+   clearTimeout(popTimer);
+   hideAllBut(menuNum);
+   litNow = getTree(menuNum, itemNum);
+   changeCol(litNow, true);
+   targetNum = menu[menuNum][itemNum].target;
+   if (targetNum > 0) {
+	thisX = parseInt(menu[menuNum][0].ref.left) + parseInt(menu[menuNum][itemNum].ref.left);
+	thisY = parseInt(menu[menuNum][0].ref.top) + parseInt(menu[menuNum][itemNum].ref.top);
+	with (menu[targetNum][0].ref) {
+	   left = parseInt(thisX + menu[targetNum][0].x);
+	   top = parseInt(thisY + menu[targetNum][0].y);
+	   visibility = 'visible';
+      }
+   }
+}
+
+function popOut(menuNum, itemNum) {
+   if ((menuNum == 0) && !menu[menuNum][itemNum].target)
+	hideAllBut(0)
+   else
+	popTimer = setTimeout('hideAllBut(0)', 500);
+}
+
+function getTree(menuNum, itemNum) {
+   // Array index is the menu number. The contents are null (if that menu is not a parent)
+   // or the item number in that menu that is an ancestor (to light it up).
+   itemArray = new Array(menu.length);
+
+   while(1) {
+	itemArray[menuNum] = itemNum;
+	// If we've reached the top of the hierarchy, return.
+	if (menuNum == 0) return itemArray;
+	itemNum = menu[menuNum][0].parentItem;
+	menuNum = menu[menuNum][0].parentMenu;
+   }
+}
+
+// Pass an array and a boolean to specify colour change, true = over colour.
+function changeCol(changeArray, isOver) {
+   for (menuCount = 0; menuCount < changeArray.length; menuCount++) {
+	if (changeArray[menuCount]) {
+	   newCol = isOver ? menu[menuCount][0].overCol : menu[menuCount][0].backCol;
+	   // Change the colours of the div/layer background.
+	   with (menu[menuCount][changeArray[menuCount]].ref) {
+		if (isNS4) 
+		   bgColor = newCol;
+		else 
+		   backgroundColor = newCol;
+         }
+      }
+   }
+}
+
+function hideAllBut(menuNum) {
+   var keepMenus = getTree(menuNum, 1);
+   for (count = 0; count < menu.length; count++) {
+	if (!keepMenus[count])
+	   menu[count][0].ref.visibility = 'hidden';
+   }
+   changeCol(litNow, false);
+}
+
+// *** MENU CONSTRUCTION FUNCTIONS ***
+
+function Menu(isVert, popInd, x, y, width, overCol, backCol, borderClass, textClass) {
+   // True or false - a vertical menu?
+   this.isVert = isVert;
+
+   // The popout indicator used (if any) for this menu.
+   this.popInd = popInd
+
+   // Position and size settings.
+   this.x = x;
+   this.y = y;
+   this.width = width;
+
+   // Colours of menu and items.
+   this.overCol = overCol;
+   this.backCol = backCol;
+
+   // The stylesheet class used for item borders and the text within items.
+   this.borderClass = borderClass;
+   this.textClass = textClass;
+
+   // Parent menu and item numbers, indexed later.
+   this.parentMenu = null;
+   this.parentItem = null;
+
+   // Reference to the object's style properties (set later).
+   this.ref = null;
+}
+
+function Item(text, href, frame, length, spacing, target) {
+   this.text = text;
+   this.href = href;
+   this.frame = frame;
+   this.length = length;
+   this.spacing = spacing;
+   this.target = target;
+   // Reference to the object's style properties (set later).
+   this.ref = null;
+}
+
+function writeMenus() {
+   if (!isDOM && !isIE4 && !isNS4) return;
+
+   for (currMenu = 0; currMenu < menu.length; currMenu++) with (menu[currMenu][0]) {
+	// Variable for holding HTML for items and positions of next item.
+	var str = '', itemX = 0, itemY = 0;
+
+	// Remember, items start from 1 in the array (0 is menu object itself, above).
+	// Also use properties of each item nested in the other with() for construction.
+	for (currItem = 1; currItem < menu[currMenu].length; currItem++) {
+	   with (menu[currMenu][currItem]) {
+		var itemID = 'menu' + currMenu + 'item' + currItem;
+
+		// The width and height of the menu item - dependent on orientation!
+	   	var w = (isVert ? width : length);
+	   	var h = (isVert ? length : width);
+
+	   	// Create a div or layer text string with appropriate styles/properties.
+	   	if (isDOM || isIE4) {
+		   str += '<div id="' + itemID + '" style="position: absolute; left: ' + itemX + '; top: ' + itemY + '; width: ' + w + '; height: ' + h + '; visibility: inherit;';
+	         if (backCol) str += 'background: ' + backCol + '; ';
+		   str += '" ';
+		}
+
+		if (isNS4) {
+		   str += '<layer id="' + itemID + '" left="' + itemX + '" top="' + itemY + '" width="' +  w + '" height="' + h + '" visibility="inherit" ';
+		   if (backCol) str += 'bgcolor="' + backCol + '" ';
+	   	}
+
+	   	if (borderClass) str += 'class="' + borderClass + '" ';
+
+	   	// Add mouseover handlers and finish div/layer.
+	   	str += 'onMouseOver="popOver(' + currMenu + ',' + currItem + ')" onMouseOut="popOut(' + currMenu + ',' + currItem + ')">';
+
+	   	// Add contents of item (default: table with link inside).
+	   	// In IE/NS6+, add padding if there's a border to emulate NS4's layer padding.
+	   	// If a target frame is specified, also add that to the <a> tag.
+
+	   	str += '<table width="' + (w - 8) + '" border="0" cellspacing="0" cellpadding="' + (!isNS4 && borderClass ? 3 : 0) + '"><tr><td align="left" height="' + (h - 7) + '">'
+
+	   	if (currMenu > 0) {
+		   if(frame && frame!="_blank" && frame!="_new" && frame!="_parent" && frame!="_top" && frame!="_self")		        
+		   	str += '<a href="javascript:;" onclick="'+ frame +'; return false;" class="' + textClass + '">' + text + '</a>';
+		   else		
+		   	str += '<a class="' + textClass + '" href="' + href + '"' + (frame ? ' target="' + frame + '">' : '>') + text + '</a>';
+	   	}
+	   	else {
+		   str += '<a class="' + textClass + '" href="' + href + '"' + (frame ? ' target="' + frame + '">' : '>') + text + '</a>';
+	   	}
+
+
+	   	//str += '<a class="' + textClass + '" href="' + href + '"' + (frame ? ' target="' + frame + '">' : '>') + text + '</a>'
+	   	str += '</td>';
+
+	   	if (target > 0) {
+		   // Set target's parents to this menu item.
+		   menu[target][0].parentMenu = currMenu;
+		   menu[target][0].parentItem = currItem;
+
+		   // Add a popout indicator.
+		   if (popInd) str += '<td class="' + textClass + '" align="right">' + popInd + '</td>';
+		}
+
+	   	str += '</tr></table>' + (isNS4 ? '</layer>' : '</div>');
+	   	if (isVert) 
+		   itemY += length + spacing;
+	   	else 
+	   	   itemX += length + spacing;
+	   }
 	}
-	return;
-	
+
+	if (isDOM) {
+	   var newDiv = document.createElement('div');
+	   document.getElementsByTagName('body').item(0).appendChild(newDiv);
+	   newDiv.innerHTML = str;
+	   ref = newDiv.style;
+	   ref.top = 0;
+	   ref.position = 'absolute';
+	   ref.visibility = 'hidden';
+	}
+
+	// Insert a div tag to the end of the BODY with menu HTML in place for IE4.
+	if (isIE4) {
+	   document.body.insertAdjacentHTML('beforeEnd', '<div id="menu' + currMenu + 'div" ' + 'style="position: absolute; visibility: hidden; top:0">' + str + '</div>');
+	   ref = getSty('menu' + currMenu + 'div');
+	}
+
+	// In NS4, create a reference to a new layer and write the items to it.
+	if (isNS4) {
+	   ref = new Layer(0);
+	   ref.document.write(str);
+	   ref.document.close();
+	}
+
+	for (currItem = 1; currItem < menu[currMenu].length; currItem++) {
+	   itemName = 'menu' + currMenu + 'item' + currItem;
+	   if (isDOM || isIE4) menu[currMenu][currItem].ref = getSty(itemName);
+	   if (isNS4) menu[currMenu][currItem].ref = ref.document[itemName];
+	}
+   }
+   with(menu[0][0]) {
+	ref.left = x;
+	ref.top = y;
+	ref.visibility = 'visible';
+   }
 }
 
-function searchPages()
-{	
-	document.search.action = strWebSiteNm + "/asp/search.asp";
-	document.search.submit();
-	return false;
+// *** OPTIONAL CODE FROM HERE DOWN ***
+
+// These two lines handle the window resize bug in NS4. See <body onResize="...">.
+// I recommend you leave this here as otherwise when you resize NS4's width menus are hidden.
+
+var popOldWidth = window.innerWidth;
+nsResizeHandler = new Function('if (popOldWidth != window.innerWidth) location.reload()');
+
+
+// This is a quick snippet that captures all clicks on the document and hides the menus
+// every time you click. Use if you want.
+
+if (isNS4) document.captureEvents(Event.CLICK);
+document.onclick = clickHandle;
+
+function clickHandle(evt)
+{
+ if (isNS4) document.routeEvent(evt);
+ hideAllBut(0);
 }
 
-function MM_openBrWindow(theURL,winName,features) { //v2.0
+// This is just the moving command for the example.
+
+function moveRoot()
+{
+ with(menu[0][0].ref) left = ((parseInt(left) < 100) ? 100 : 5);
+}
+
+function smallwindowEdu() {
+	popup = window.open("/p/loans/edu/eduloancalc.asp","ching","toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,resizable=yes,width=750,height=500,top=25,left=25");	
+	popup.focus();
+
+}
+
+function smallwindowHP() {
+	popup = window.open("/p/loans/mtr/hpcalc.asp","ching","toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,resizable=yes,width=750,height=500,top=25,left=25");	
+	popup.focus();
+
+}
+
+function smallwindowHome() {
+	popup = window.open("/p/loans/pty/homeloancalc.asp","ching","toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,resizable=yes,width=750,height=500,top=25,left=25");	
+	popup.focus();
+
+}
+
+</script><script language="JavaScript1.2">
+//detect the machine
+
+// Default colours passed to most menu constructors (just passed to functions, not
+// a global variable - makes things easier to change later in bulk).
+var defOver = '#336699', defBack = '#003366';
+var P_on_main_bgcolor = '#FFD166', P_off_main_bgcolor = '#ffcc99';
+var P_on_sub_bgcolor  = '#FFD166', P_off_sub_bgcolor = '#ffcc99';
+//var P_on_sub_bgcolor  = '#FD772F', P_off_sub_bgcolor = '#FEAF1D';
+
+var E_on_main_bgcolor = '#FFD166', E_off_main_bgcolor = '#ffcc99';
+var E_on_sub_bgcolor  = '#FFD166', E_off_sub_bgcolor = '#ffcc99';
+//var E_on_sub_bgcolor  = '#FD772F', E_off_sub_bgcolor = '#FEAF1D';
+
+var I_on_main_bgcolor = '#FFD166', I_off_main_bgcolor = '#ffcc99';
+var I_on_sub_bgcolor  = '#FFD166', I_off_sub_bgcolor = '#ffcc99';
+//var I_on_sub_bgcolor  = '#FD772F', I_off_sub_bgcolor = '#FEAF1D';
+
+// Default 'length' of menu items - item height if menu is vertical, width if horizontal.
+var main_height   = 18;
+var main_height2  = 30;
+var defLength     = 22;
+var defLength2    = 30;
+var main_width    = 125;
+var main_width_i  = 165;
+var submenu_width = 120;
+var top_menu      = 91;
+
+var menu = new Array();
+// Menu 0 is the special, 'root' menu from which everything else arises.
+menu[0] = new Array();
+// A non-vertical menu with a few different colours and no popout indicator, as an example.
+// *** MOVE ROOT MENU AROUND HERE ***  it's positioned at (5, 0) and is 17px high now.
+menu[0][0] = new Menu(false, '', 172, top_menu, 0, '#FFFFFF', '#FFFFFF', '', 'itemText');
+// Notice how the targets are all set to nonzero values...
+// The 'length' of each of these items is 40, and there is spacing of 10 to the next item.
+// Most of the links are set to '#' hashes, make sure you change them to actual files.
+menu[0][1] = new Item('<img src=/images/TOP_r3_c4.gif border=0>', '/p/mainpage_p.asp', '', 136, 10, 1);
+menu[0][2] = new Item('<img src=/images/TOP_r3_c6.gif border=0>', '/e/mainpage_e.asp', '', 128, 10, 2);
+menu[0][3] = new Item('<img src=/images/TOP_r3_c7.gif border=0>', '/i/mainpage_i.asp', '', 100, 10, 3);
+
+// Personal Banking Main Menu.
+menu[1] = new Array();
+// The File menu is positioned 0px across and 22 down from its trigger, and is 80 wide.
+// All text in this menu has the stylesheet class 'item' -- see the <style> section above.
+// We've passed a 'greater-than' sign '>' as a popout indicator. Try an image...?
+menu[1][0] = new Menu(true, '', 11, 24, 132, P_on_main_bgcolor, P_off_main_bgcolor, 'itemBorder', 'itemText_p');
+menu[1][1] = new Item('Deposit &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '#', '', main_height, 0, 4);
+menu[1][2] = new Item('Card &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/card/main_card.asp', '', main_height, 0, 5);
+menu[1][3] = new Item('Hire Purchase &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/loans/mtr/main_mtr.asp', '', main_height, 0, 6);
+menu[1][4] = new Item('Property Loan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/loans/pty/main_pty.asp', '', main_height, 0, 0);
+menu[1][5] = new Item('Insurance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '#', '', main_height, 0, 7);
+menu[1][6] = new Item('Islamic Products &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/islambank.asp', '', main_height, 0, 8);
+menu[1][7] = new Item('Remittance Services', '/p/remittance_services.asp', '', main_height, 0, 9);
+menu[1][8] = new Item('Unit Trust Products &nbsp;', '/p/pi/main_pi.asp', '', main_height, 0, 10);
+menu[1][9] = new Item('Financial Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '#', '', main_height, 0, 11);
+menu[1][10] = new Item('More Services &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '#', '', main_height, 0, 12);
+
+// Enterprise Banking Main Menu.
+menu[2] = new Array();
+menu[2][0] = new Menu(true, '', 4, 24, 132, E_on_main_bgcolor, E_off_main_bgcolor, 'itemBorder', 'itemText_e');
+menu[2][1] = new Item('Corporate Banking &nbsp;&nbsp;', '/e/cb/main_cb.asp', '', main_height, 0, 13);
+menu[2][2] = new Item('Trade Finance &nbsp;&nbsp;', '#', '', main_height, 0, 14);
+menu[2][3] = new Item('Treasury Products <BR> & Services &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/i/tps/main_tps.asp', '', main_height2, 0, 15);
+menu[2][4] = new Item('Commercial Services', '/e/cs/main_cs.asp', '', main_height, 0, 16);
+menu[2][5] = new Item('Unit Trust Products &nbsp;&nbsp;', '/p/pi/main_pi.asp', '', main_height, 0, 17);
+menu[2][6] = new Item('Insurance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '#', '', main_height, 0, 18);
+menu[2][7] = new Item('Islamic Products &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/e/islam_prod.asp', '', main_height, 0, 19);
+
+
+// Investment & Capital Banking Main Menu.
+menu[3] = new Array();
+menu[3][0] = new Menu(true, '', 2, 24, 170, I_on_main_bgcolor, I_off_main_bgcolor, 'itemBorder', 'itemText_i');
+menu[3][1] = new Item('Debt', '#', '', main_height, 0, 20);
+menu[3][2] = new Item('Treasury Products &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <BR> & Services &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/i/tps/main_tps.asp', '', main_height2, 0, 21);
+menu[3][3] = new Item('Unit Trust Products &nbsp;&nbsp;&nbsp;&nbsp;', '/p/pi/main_pi.asp', '', main_height, 0, 22);
+menu[3][4] = new Item('Equity', '#', '', main_height, 0, 23);
+menu[3][5] = new Item('Futures Trading &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/i/futrading/main_futrading.asp', '', main_height, 0, 24);
+menu[3][6] = new Item('Property &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/i/property/main_property.asp', '', main_height, 0, 25);
+menu[3][7] = new Item('Islamic Products &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/i/debt/islamic/main_islamic.asp', '', main_height, 0, 26);
+
+//--------------------------------------------------------------------------------------------------------------
+//Personal Banking Sub Menu.
+//--------------------------------------------------------------------------------------------------------------
+// Deposit menu
+menu[4] = new Array();
+menu[4][0] = new Menu(true, '', main_width, 0, 120, P_on_sub_bgcolor, P_off_sub_bgcolor, 'itemBorder', 'subitemText_p');
+menu[4][1] = new Item('Savings Account &nbsp;&nbsp;&nbsp;', '/p/dep/sav/main_sav.asp', '', defLength, 0, 0);
+menu[4][2] = new Item('Current Account &nbsp;&nbsp;&nbsp;', '/p/dep/cur/main_cur.asp', '', defLength, 0, 0);
+menu[4][3] = new Item('Fixed Deposits &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/dep/fd/main_fd.asp', '', defLength, 0, 0);
+
+// Card menu
+menu[5] = new Array();
+menu[5][0] = new Menu(true, '', main_width, 0, 120, P_on_sub_bgcolor, P_off_sub_bgcolor, 'itemBorder', 'subitemText_p');
+
+// Consumer menu
+menu[6] = new Array();
+menu[6][0] = new Menu(true, '', main_width, 0, 120, P_on_sub_bgcolor, P_off_sub_bgcolor, 'itemBorder', 'subitemText_p');
+//menu[6][1] = new Item('Hire Purchase &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/loans/mtr/main_mtr.asp', '', defLength, 0, 0);
+//menu[6][2] = new Item('Property &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/loans/pty/main_pty.asp', '', defLength, 0, 0);
+
+// Insurance menu
+menu[7] = new Array();
+menu[7][0] = new Menu(true, '', main_width, 0, 120, P_on_sub_bgcolor, P_off_sub_bgcolor, 'itemBorder', 'subitemText_p');
+menu[7][1] = new Item('Life &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/ins/main_ins.asp', '', defLength, 0, 0);
+menu[7][2] = new Item('General &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/ins/gen/main_gen.asp', '', defLength, 0, 0);
+
+// Islamic Products menu
+menu[8] = new Array();
+menu[8][0] = new Menu(true, '', main_width, 0, 120, P_on_sub_bgcolor, P_off_sub_bgcolor, 'itemBorder', 'subitemText_p');
+
+// Remittance Services menu
+menu[9] = new Array();
+menu[9][0] = new Menu(true, '', main_width, 0, 120, P_on_sub_bgcolor, P_off_sub_bgcolor, 'itemBorder', 'subitemText_p');
+
+// Unit Trust Products menu
+menu[10] = new Array();
+menu[10][0] = new Menu(true, '', main_width, 0, 120, P_on_sub_bgcolor, P_off_sub_bgcolor, 'itemBorder', 'subitemText_p');
+
+// Financial Tools menu
+menu[11] = new Array();
+menu[11][0] = new Menu(true, '', main_width, 0, 123, P_on_sub_bgcolor, P_off_sub_bgcolor, 'itemBorder', 'subitemText_p');
+if (infq == "True"){
+menu[11][1] = new Item('Education Loan &nbsp;&nbsp;&nbsp;&nbsp;<BR> Calculator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/loans/edu/eduloancalc.asp','_self', defLength2, 0, 0);
+menu[11][2] = new Item('Hire Purchase Loan<BR>Calculator &nbsp;&nbsp;&nbsp;', '/p/loans/mtr/hpcalc.asp', '_self', defLength2, 0, 0);
+menu[11][3] = new Item('Home Loan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR> Calculator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/loans/pty/homeloancalc.asp', '_self', defLength2, 0, 0);
+
+}else{
+menu[11][1] = new Item('Education Loan &nbsp;&nbsp;&nbsp;&nbsp;<BR> Calculator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/loans/edu/eduloancalc.asp','smallwindowEdu()', defLength2, 0, 0);
+menu[11][2] = new Item('Hire Purchase Loan<BR>Calculator &nbsp;&nbsp;&nbsp;', '/p/loans/mtr/hpcalc.asp', 'smallwindowHP()', defLength2, 0, 0);
+menu[11][3] = new Item('Home Loan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR> Calculator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/loans/pty/homeloancalc.asp', 'smallwindowHome()', defLength2, 0, 0);
+}
+// More Services menu
+menu[12] = new Array();
+menu[12][0] = new Menu(true, '', main_width, 0, 120, P_on_sub_bgcolor, P_off_sub_bgcolor, 'itemBorder', 'subitemText_p');
+menu[12][4] = new Item('Interbank Giro', '/p/ibg.asp', '', defLength, 0, 0);
+menu[12][3] = new Item('Bill Payment', '/p/bill.asp', '', defLength, 0, 0);
+menu[12][2] = new Item('AmLink', '/p/amlink.asp', '', defLength, 0, 0);
+menu[12][1] = new Item('Electronic Share &nbsp;&nbsp;<BR>Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/ames.asp', '', defLength2, 0, 0);
+
+
+//************************************ End Pesonal Banking Sub menu**********************************************//
+
+//-----------------------------------------------------------------------------------------------------------------
+//Enterprise Banking Sub Menu
+//-----------------------------------------------------------------------------------------------------------------
+
+//
+menu[13] = new Array();
+menu[13][0] = new Menu(true, '', main_width, 0, 120, E_on_sub_bgcolor, E_off_sub_bgcolor, 'itemBorder', 'subitemText_e');
+
+menu[14] = new Array();
+menu[14][0] = new Menu(true, '', main_width, 0, 123, E_on_sub_bgcolor, E_off_sub_bgcolor, 'itemBorder', 'subitemText_e');
+menu[14][1] = new Item('Conventional Trade Financing Products', '/e/tf/mainc.asp', '', defLength2, 0, 0);
+menu[14][2] = new Item('Islamic Trade Financing Product', '/e/tf/main_tf.asp', '', defLength2, 0, 0);
+
+menu[15] = new Array();
+menu[15][0] = new Menu(true, '', main_width, 0, 120, E_on_sub_bgcolor, E_off_sub_bgcolor, 'itemBorder', 'subitemText_e');
+
+menu[16] = new Array();
+menu[16][0] = new Menu(true, '', main_width, 0, 120, E_on_sub_bgcolor, E_off_sub_bgcolor, 'itemBorder', 'subitemText_e');
+
+menu[17] = new Array();
+menu[17][0] = new Menu(true, '', main_width, 0, 120, E_on_sub_bgcolor, E_off_sub_bgcolor, 'itemBorder', 'subitemText_e');
+
+menu[18] = new Array();
+menu[18][0] = new Menu(true, '', main_width, 0, 120, E_on_sub_bgcolor, E_off_sub_bgcolor, 'itemBorder', 'subitemText_e');
+menu[18][1] = new Item('Life &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/ins/main_ins.asp', '', defLength, 0, 0);
+menu[18][2] = new Item('General &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;', '/p/ins/gen/main_gen.asp', '', defLength, 0, 0);
+
+menu[19] = new Array();
+menu[19][0] = new Menu(true, '', main_width, 0, 120, E_on_sub_bgcolor, E_off_sub_bgcolor, 'itemBorder', 'subitemText_e');
+/****************************End OF Enterprise Banking Sub Menu*************************************************/
+
+//---------------------------------------------------------------------------------------------------------------
+//Investment & Capital Market Main Menu
+//---------------------------------------------------------------------------------------------------------------
+//
+menu[20] = new Array();
+menu[20][0] = new Menu(true, '', main_width_i, 0, 120, I_on_sub_bgcolor, I_off_sub_bgcolor, 'itemBorder', 'subitemText_i');
+menu[20][1] = new Item('Traditional Debt', '/i/debt/td/main_td.asp', '', defLength, 0, 0);
+menu[20][2] = new Item('Offshore Services', '/i/debt/os/main_os.asp', '', defLength, 0, 0);
+
+menu[21] = new Array();
+menu[21][0] = new Menu(true, '', main_width_i, 0, 120, I_on_sub_bgcolor, I_off_sub_bgcolor, 'itemBorder', 'subitemText_i');
+
+menu[22] = new Array();
+menu[22][0] = new Menu(true, '', main_width_i, 0, 120, I_on_sub_bgcolor, I_off_sub_bgcolor, 'itemBorder', 'subitemText_i');
+
+menu[23] = new Array();
+menu[23][0] = new Menu(true, '', main_width_i, 0, 120, I_on_sub_bgcolor, I_off_sub_bgcolor, 'itemBorder', 'subitemText_i');
+menu[23][1] = new Item('Stockbroking', '/i/equity/stobroking/main_stobroking.asp', '', defLength, 0, 0);
+menu[23][2] = new Item('Advisory Services', '/i/equity/advserv/main_advserv.asp', '', defLength, 0, 0);
+menu[23][3] = new Item('Offshore Services', '/i/equity/offserv/main_offserv.asp', '', defLength, 0, 0);
+menu[23][4] = new Item('Trustee Services', '/i/equity/trusteesrvcs/main_trusteesrvcs.asp', '', defLength, 0, 0);
+
+
+menu[24] = new Array();
+menu[24][0] = new Menu(true, '', main_width_i, 0, 120, I_on_sub_bgcolor, I_off_sub_bgcolor, 'itemBorder', 'subitemText_i');
+
+menu[25] = new Array();
+menu[25][0] = new Menu(true, '', main_width_i, 0, 120, I_on_sub_bgcolor, I_off_sub_bgcolor, 'itemBorder', 'subitemText_i');
+
+menu[26] = new Array();
+menu[26][0] = new Menu(true, '', main_width_i, 0, 120, I_on_sub_bgcolor, I_off_sub_bgcolor, 'itemBorder', 'subitemText_i');
+
+</script><script language="JavaScript1.2">
+
+ function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
+
+//extracted from the old incHdrPersonal.asp file
+function win_full(filename) {
+    myfilename = window.open('','ching','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,resizable=yes,width=750,height=500,top=25,left=25');
+    myfilename.location.href = filename;
+    myfilename.focus();   
+}
+
+//extracted from the old incHdrPersonal.asp file
 function promo_openBrWindow(theURL,winName,features,width,height) { //v2.0
   popup = window.open(theURL,winName,features);
   popup.blur(); 
   popup.resizeTo(width,height);
   popup.focus();
 }
-
-function win_full(filename) {
-    myfilename = window.open('','ching','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,resizable=yes,width=750,height=500,top=25,left=25');
-    myfilename.location.href = filename;
-    myfilename.focus();   
-}
-//-->
-</script><script language="JavaScript">
 function smallwindowRates() {
 	window.open('/rates.asp','ching','toolbar=yes,status=yes,scrollbars=yes,location=yes,menubar=yes,directories=yes,resizable=yes,width=750,height=500,top=25,left=25')
 }
-</script></head>
+function smallwindow1() {
+	window.open('/p/card/hesstar.asp','ching','toolbar=no,status=no,scrollbars=no,location=no,menubar=no,directories=no,resizable=no,width=410,height=500,top=25,left=25')
+}
+function smallwindow2() {
+	window.open('/p/card/best.asp','ching','toolbar=no,status=no,scrollbars=yes,location=no,menubar=no,directories=no,resizable=no,width=430,height=520,top=25,left=25')
+}
+function smallwindow3() {
+	window.open('/p/card/citycpu.asp','ching','toolbar=no,status=no,scrollbars=no,location=no,menubar=no,directories=no,resizable=no,width=410,height=500,top=25,left=25')
+}
+function smallwindow4() {
+	window.open('/p/card/sritahana.asp','ching','toolbar=no,status=no,scrollbars=no,location=no,menubar=no,directories=no,resizable=no,width=410,height=500,top=25,left=25')
+}
+function smallwindow5() {
+	window.open('/p/card/zitron.asp','ching','toolbar=no,status=no,scrollbars=yes,location=no,menubar=no,directories=no,resizable=no,width=426,height=500,top=25,left=25')
+	
+}
+
+function smallwindowRates7() {
+window.navigate('/rates.asp') 
+	
+}
+
+function load(url) {
+    window.onerror = supressError;
+    opener.location.href = url;
+    setTimeout('self.close()',1000);
+}
+
+function searchPages()
+{	
+	document.frmsearch.action = "/search1.asp";
+	document.frmsearch.submit();
+	return false;
+}
+
+</script>
+
+<script language="JavaScript"><!--
+//names of dropdowns stored here
+showlayer=new Array()
+showlayer[0]="search_textbox"
+
+//simple browser check
+ns6=(document.getElementById&&!document.all)?1:0
+v4=(parseInt(navigator.appVersion)>=4 && parseInt(navigator.appVersion)<=5)?1:0;
+ns=(document.layers && v4)?1:0;
+ie=(document.all && v4)?1:0;
+
+//code for drops
+function showdrop(thelayer){
+	keepit=thelayer;
+	hideall(); 
+	showitnow=1
+	showit(thelayer)
+	}
+
+function showit(thelayer){
+		if(ie){ eval(showlayer[thelayer]+'.style.visibility="visible"') }
+		if(ns){ eval('document.'+showlayer[thelayer]+'.visibility="show"');}
+		if(ns6){ document.getElementById(showlayer[thelayer]).style.visibility="visible"		
+		}
+		
+	}
 
 
+function hidedrop(){
+	keepit=-1; setTimeout('hideall()',500)
+	}
+
+keepit=-1
+
+function hideall(){
+	for(i=0;i<showlayer.length;i++){  
+		hideit=0;
+		checkmousepos(i)
+		if(ie && keepit!=i){ 
+			if(hideit){ eval(showlayer[i]+'.style.visibility="hidden"') } 
+			}
+		if(ns && keepit!=i){ 
+			if(hideit){ 
+			eval('document.'+showlayer[i]+'.visibility="hide"') }
+			}
+		if(ns6 && keepit!=i){ 
+			if(hideit){ document.getElementById(showlayer[i]).style.visibility="hidden"} 
+			}
+		
+		}
+	}
+
+//deal with cursor over layer
+document.onmousemove = getmousepos
+if (ns) document.captureEvents(Event.MOUSEMOVE)
+
+function getmousepos(e){
+	if(ns){mousex=e.pageX; mousey=e.pageY}
+	if(ie){mousex=event.clientX; mousey=event.clientY;}
+	if(ns6){mousex=e.pageX; mousey=e.pageY}
+	}
+
+function checkmousepos(i){          
+	if(ns){     
+		x_min=eval('document.'+showlayer[i]+'.left')		
+		x_max=x_min+eval('document.'+showlayer[i]+'.clip.width')		
+		y_min=eval('document.'+showlayer[i]+'.top')
+		y_max=y_min+eval('document.'+showlayer[i]+'.clip.height')
+		}    
+	if(ie){     
+		x_min=eval(showlayer[i]+'.style.pixelLeft')		
+		x_max=x_min+eval(showlayer[i]+'.scrollWidth')		
+		y_min=eval(showlayer[i]+'.style.pixelTop')		
+		y_max=y_min+eval(showlayer[i]+'.scrollHeight')		
+		}
+	if(ns6){ 	
+		x_min = parseInt(document.getElementById(showlayer[i]).style.left, 10);		
+		x_max = x_min+(document.getElementById(showlayer[i]).offsetWidth);		
+		y_min = 0;		
+		y_max = document.getElementById(showlayer[i]).offsetHeight;				
+		}
+	if (mousex>=x_min && mousex<=x_max && mousey>=y_min && mousey<=y_max){
+		hideit=0; setTimeout('hideall()',500)		
+		}
+	else { hideit=1;}	
+	return hideit
+	}
+
+//--></script>
+<script language="JavaScript"><!--
+
+//browser stylesheets
+
+if(ie){
+document.write('<style type="text/css"><!--')
+
+document.write('.dropdown {height:1px; width:1px; padding-left:1px; padding-top:1px; padding-right:1px; padding-bottom:1px;}')
+document.write('--></style>')
+}
+
+if(ns6){
+document.write('<style type="text/css"><!--')
+document.write('#dropdown{position:absolute; left:150; top:150; clip:rect(100,100,130,100); height:1px; width:1px ; overflow:hidden; visibility:hidden;padding-left:100px; padding-top:10px; padding-right:10px; padding-bottom:10px;}')
+document.write('--></style>')
+}
 
 
+//--></script><style type="text/css"><!--#dropdown{position:absolute; left:150; top:150; clip:rect(100,100,130,100); height:1px; width:1px ; overflow:hidden; visibility:hidden;padding-left:100px; padding-top:10px; padding-right:10px; padding-bottom:10px;}--></style>
+<script language="javascript">
+<!--
 
 
-<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<a name="top"></a> 
-<table border="0" cellspacing="0" cellpadding="0" width="780">
-  <tbody><tr bgcolor="000060" valign="top"> 
-    <td width="613"><img src="/images/ambg_toplogo.gif" width="500" height="66" alt="Arab-Malaysian Banking Group"> 
-    </td>
-    <td width="167"> 
-      <div align="center"><a href="/echa/call_center.asp"><img src="/images/misc/main_tittle_advani.gif" width="157" height="60" alt="24-hour Call Centre" border="0" vspace="5" hspace="5"></a></div>
-    </td>
-  </tr>
-  <tr bgcolor="000060" valign="top"> 
-    <td width="613">&nbsp;</td>
-    <td width="167"> 
-      <div align="center"> <font color="#CCCCCC" size="1" face="Arial, Helvetica, sans-serif"><b><font color="#FFFFFF" class="date"> 
-        <script language="JavaScript1.2">
+function winLogin1()
+{
 
-    var theDate = new Date();
-	 var str = theDate.toString();
-    var theyr = str.substring(str.length -4,str.length); // grab the year
-	 var theday = theDate.getDate(); // grab the day
-	 var themth = theDate.getMonth() + 1; //grab the month
-	 document.write(theday + " " + writeMonth(themth) + " " + theyr);
-	 
-	 function writeMonth(themth){
-		if  (themth==1) 
-			return "January";
-		else if  (themth==2) 
-			return "February";
-		else if  (themth==3) 
-			return "March";
-		else if  (themth==4) 
-			return "April";
-		else if  (themth==5) 
-			return "May";
-		else if  (themth==6) 
-			return "June";
-		else if  (themth==7) 
-			return "July";
-		else if  (themth==8) 
-			return "August";
-		else if  (themth==9) 
-			return "September";
-		else if  (themth==10) 
-			return "October";
-		else if  (themth==11) 
-			return "November";
-		else if  (themth==12) 
-			return "December";	 
-	 } // end function
-</script>19 February ime)
-        </font></b></font> </div>
-    </td>
-  </tr>
-</tbody></table>
-<table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="2087BF">
-  <tbody><tr> 
-    <td width="402"> 
-      <table border="0" cellspacing="0" cellpadding="0" width="398">
-        <form name="product" method="post" action=""></form>
-          <tbody><tr> 
-            <td width="130"> 
-              <div align="right"><font class="toplink">Products &amp; Services 
-                </font></div>
-            </td>
-            <td colspan="3" align="left" width="268"> 
-              <select name="sltProduct">
-                <option selected="">Choose one</option>
-                <option value="/p/mainpage.asp">Personal Banking</option>
-                <option>----------------------------</option>
-                <option value="/p/dep/sav/saving.asp">Conventional (Step Up) Savings</option>
-                <option value="/p/dep/sav/alw_savings.asp">Al-Wadiah Savings Account</option>
-                <option value="/p/dep/sav/savers_gang.asp">Savers' G.a.n.g Savings Account</option>
-                <option value="/p/dep/sav/alw_gang.asp">Al-Wadiah Savers' G.a.n.g</option>
-                <option value="/p/dep/sav/am_genius.asp">AM Genius Savings Account</option>
-                <option value="/p/dep/cur/current.asp">Conventional Current Account</option>
-                <option value="/p/dep/cur/alw_current.asp">Al-Wadiah Current Account</option>
-                <option value="/p/dep/cur/amstar.asp">AMSTAR Current Account</option>
-				<option value="/p/dep/cur/iamstar.asp">i-AMSTAR Current Account</option>
-                <option value="/p/dep/fd/fd_conventional.asp">Conventional Fixed Deposit</option>
-                <option value="/p/dep/fd/am50_plus.asp">AM50Plus Fixed Deposit</option>
-                <option value="/p/dep/fd/interest_plus.asp">InterestPlus Fixed Deposit</option>
-                <option value="/p/dep/fd/fd_quantum.asp">AMQuantum</option>
-                <option value="/p/dep/fd/am50_plus_gia.asp">GIA AM50Plus</option>
-                <option value="/p/dep/fd/al_mudharabahGIA.asp">Al-Mudharabah GIA</option>
-                <option value="/p/dep/fd/al_mudharabahSIA.asp">Al-Mudharabah SIA</option>
-                <option value="/p/dep/fd/af_invest.asp">Afdhal Investment Account</option>
-                <option value="/p/card/credit_cards.asp">AMBank Visa/MasterCard</option>
-                <option value="/p/card/debit_cards.asp">Raydius Visa Electron Debit Card</option>
-                <option value="/p/loans/mtr/hp.asp">Conventional Hire Purchase</option>
-                <option value="/p/loans/mtr/arif.asp">Islamic Arif Hire Purchase</option>
-                <option value="/p/loans/pty/statloan.asp">Statutory Rate Housing Loan</option>
-                <option value="/p/loans/pty/homeloan.asp">Home Loan</option>
-                <option value="/p/loans/pty/homefree.asp">Home Free Housing Loan</option>
-                <option value="/p/loans/pty/abba.asp">Islamic BBA House Financing</option>
-                <option value="/p/loans/pty/propertyloan.asp">Property Loan</option>
-                <option value="/p/loans/pty/abba_prop_fin.asp">Islamic BBA Property Financing</option>
-                <option value="/p/ins/main.asp">Life Insurance</option>
-                <option value="/p/ins/gen/main.asp">General Insurance</option>
-                <option value="/p/pi/main.asp">Unit Trust Products</option>
-                <option></option>
-                <option value="/e/mainpage.asp">Enterprise Banking</option>
-                <option>------------------------------</option>
-				<option value="/p/pi/main.asp">Unit Trust Products</option>
-                <option value="/e/cb/bridge_loan.asp?mode=CB">Bridging Loan</option>
-                <option value="/e/cb/flexi_loan.asp?mode=CB">Flexi Loan (below RM 500,000)</option>
-                <option value="/e/cb/flexi_loan500.asp?mode=CB">Flexi Loan (above RM 500,000)</option>
-                <option value="/e/cb/term_loan.asp?mode=CB">Term Loan (below RM 500,000)</option>
-                <option value="/e/cb/term_loan500.asp?mode=CB">Term Loan (above RM 500,000)</option>
-                <option value="/e/cb/fin_gua.asp?mode=CB">Financial Guarantee</option>
-                <option value="/e/cb/end_finfac.asp?mode=CB">End Financing Facility</option>
-                <option value="/e/cb/ihp.asp?mode=CB">Industrial Hire Purchase</option>
-                <option value="/e/cb/main.asp">Small Business Loans</option>
-                <option value="/e/cb/main.asp">Islamic Corporate Banking</option>             
-                <option value="/e/tf/mainc.asp">Conventional Trade Finance</option>
-                <option value="/e/tf/main.asp">Islamic Trade Finance</option>
-                <option value="/e/cs/rf.asp">Receivables Financing</option>
-                <option value="/e/cs/cf.asp">Contract Financing</option>
-                <option value="/e/cs/if.asp">International Financing</option>
-                <option></option>
-                <option value="/i/mainpage.asp">Investment &amp; Capital Market</option>
-                <option>-------------------------------------------</option>
-				<option value="/p/pi/main.asp">Unit Trust Products</option>
-                <option value="/i/debt/td/main.asp">Traditional Debt</option>
-                <option value="/i/debt/dcm/main.asp">Debt Capital Market</option>
-                <option value="/i/debt/os/main.asp">Offshore Services</option>
-                <option value="/i/tps/main.asp">Treasury Products &amp; Services</option>
-                <option value="/i/equity/stobroking/main.asp">Stockbroking</option>
-                <option value="/i/equity/advserv/main.asp">Advisory Services</option>
-                <option value="/i/equity/offserv/main.asp">Equity Offshore Services</option>
-                <option value="/i/futrading/main.asp">Futures Trading</option>
-                <option value="/i/property/main.asp">Property</option>
-                <option value="/i/debt/islamic/main.asp">Islamic Products</option>
-              </select> 
-              <a href="javaScript:jumpTo(document.product.sltProduct.options[document.product.sltProduct.selectedIndex].value)"><img src="/images/misc/go.gif" width="22" height="15" border="0" align="absmiddle" alt="GO"></a></td>
-          </tr>
-        
-      </tbody></table>
-    </td>
-    <td width="162" height="2"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <form name="search" method="post" action="/asp/search.asp"></form>
-          <tbody><tr> 
-            <td colspan="3"> 
-              <table border="0" cellspacing="0" cellpadding="0" width="175">
-                <tbody><tr> 
-                  <td width="52"> 
-                    <div align="right"><font class="toplink">Search </font></div>
-                  </td>
-                  <td colspan="3" align="left" width="123"> 
-                    <input type="text" name="txtSearchFor" size="10">
-                    <a href="javascript:void()" onclick="return searchPages();">
-                    <img src="/images/misc/go.gif" width="22" height="15" border="0" align="absmiddle" name="image" alt="GO">
-                    </a></td>
-                </tr>
-              </tbody></table>
-            </td>
-          </tr>
-        
-      </tbody></table>
-    </td>
-    <td height="30" align="right" width="216"> 
-      <div align="right"><span class="toplink"><a href="/index.asp"><font color="#FFFFFF">Home</font></a></span><font color="#FFFFFF"><span class="toplink"> 
-        | </span></font><span class="toplink"><a href="#"><font color="#FFFFFF"></font></a></span><span class="toplink"><a href="/about_us.asp"><font color="#FFFFFF">About 
-        Us</font></a></span><font color="#FFFFFF"><span class="toplink"> | </span></font><span class="toplink"><a href="mailto:customercare@ambg.com.my?subject=Customercare"><font color="#FFFFFF">Customer 
-        Care</font></a></span><b><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><img src="/images/misc/trans.gif" width="4" height="4"></font></b></div>
-    </td>
-  </tr>
-</tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="780">
-  <tbody><tr> 
-    
-  <td rowspan="2" valign="top" width="185"> 
-    <table width="200" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
-      <tbody><tr> 
-        <td colspan="2" class="bodytext2">&nbsp;</td>
-      </tr>
-      <tr> 
-        <td width="12"></td>
-        <!--modify by WHC on 27112001 -->
-        <td width="188"><img src="/images/personal/am_direct2.gif" width="168" height="42" alt="Online Banking Available Now" border="0" usemap="#Map0">          
-        
+ if (document.formAm.radiobutton[0].checked){  
+window.location.href="https://amdirect.ambg.com.my"}
+//if(document.formAm.radiobutton[1].checked )
+//{window.location.href="http://www.amsecurities.com/"}
+	
+}
+
+
+function winInfo1()
+{
+if (document.formAm.radiobutton[0].checked){  
+window.location.href="/echa/am_direct.asp"}
+//if(document.formAm.radiobutton[1].checked )
+//{window.location.href="http://www.amsecurities.com/ProductServices/Product_Services.cfm"}
+ 
+
+}
+/*
+var dest="https://amdirect.ambg.com.my"
+
+function winLogin() {
+	if (document.formAm.radiobutton[0].checked == true) {
+		if (navigator.appName.indexOf('Netscape') != -1)
+		{
+			if (navigator.appVersion.substr(0, 4) >= 4.7)
+			{
+			window.open(dest,"bank","width=750,height=500,left=20,top=0,menubar=yes,scrollbars=yes,resizable=yes");
+			 }
+			else
+			{
+			window.parent.navigate('http://www.ambg.com.my/echa/netbrow_warn.html',"bank","width=750,height=500,left=20,top=0,menubar=yes,scrollbars=yes,resizable=yes");
+		 	}
+		}
+		else if (navigator.appName.indexOf('Microsoft') != -1) 
+		{ 
+			if (navigator.appVersion.substr(navigator.appVersion.lastIndexOf("MSIE")+5,3) >= 5.0)
+			{
+		 	window.open(dest,"bank","width=750,height=500,left=20,top=0,menubar=yes,scrollbars=yes,resizable=yes");
+			 }
+			else
+			{
+			window.open('http://www.ambg.com.my/echa/iebrow_warn.html',"bank","width=750,height=500,left=20,top=0,menubar=yes,scrollbars=yes,resizable=yes");
+			 }
+		}
+	}
+	else {
+		window.open('http://www.amsecurities.com');
+	}
+} 
+*/
+
+function winInfo() {
+	if (document.formAm.radiobutton[0].checked == true) {
+		window.location.href="/echa/am_direct.asp";
+	}
+	else {
+		window.open("http://www.amsecurities.com/ProductServices/Product_Services.cfm");
+	}
+}
+//-->
+</script>
+<style type="text/css">
+.dropdown {BACKGROUND-COLOR: #CC0000; BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; COLOR: black; POSITION: absolute; TOP: 120px; VISIBILITY: hidden; WIDTH: 100px; Z-INDEX: 1; layer-background-color: #CC0000}
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="writeMenus();" onresize="if (isNS4) nsResizeHandler()">
+     
            
 <script language="javascript">
 <!--
@@ -252,6 +750,7 @@ var dest="https://amdirect.ambg.com.my"
 
 function winLogin() 
 {
+if (document.formAm.radiobutton[0].checked == true) {
 					if (navigator.appName.indexOf('Netscape') != -1) 
 					{
 						if (navigator.appVersion.substr(0, 4) >= 4.7)
@@ -277,71 +776,281 @@ function winLogin()
 						 }
 					 
 					}
+					}
+					else {
+		window.open('http://www.amsecurities.com');
+	}
     
 }  
 //-->
 </script>
 
-          <map name="Map0"> 
-                    <area shape="rect" coords="95,6,164,21" href="javascript:winLogin()" alt="Login Now" title="Login Now" onclick="winLogin()">
-                    <area shape="rect" coords="96,24,164,38" href="/echa/am_direct.asp" alt="More Info" title="More Info"> 
-          </map>
-          <!--
-			<map name="Map"> 
-			  <area shape="rect" coords="95,6,164,21" href="#" alt="Login Now" title="Login Now" onClick="MM_openBrWindow('/amsecu_popup.asp?mode=login','','width=380,height=240,scrollbars=no,resizable=no')">
-			  <area shape="rect" coords="96,24,164,38" href="#" alt="More Info" title="More Info" onClick="MM_openBrWindow('/amsecu_popup.asp?mode=info','','width=380,height=240,scrollbars=no,resizable=no')">
-			</map>
-			-->
-       
-        </td>
-        <!--End of modify -->
+<div class="dropdown" id="search_textbox" onmouseout="hidedrop();" onmouseover="showdrop(0);" style="LEFT:638px">	
+<form name="frmsearch" method="post" action="search1.asp">
+  <table border="0" cellpadding="0" cellspacing="0">
+         <tbody><tr> 
+         <td width="80%">
+         <input type="text" name="txtSearch" size="8">
+         </td>
+         <td width="20%">
+         <!--
+        a href="#" onclick="return searchPages();>
+         <img src='/images/BUTTON_gonred.gif' width='25' height='20' border='0'>
+         </a>
+         //-->
+         <input type="submit" value="Go" name="button1">
+         </td>
+        <!--
+		<td valign="bottom"><font color="#000000" class="bodytext">
+		 <input type="text" size="10" name="query" onchange="searchsubmit(value)"></font>
+		</td>
+		<td><font color="#000000" class="bodytext">&nbsp;
+		<a href="javascript:searchsubmit(document.frmsearch.query.value)">
+		<img src='/images/BUTTON_gonred.gif' width=20 height=20 border='0' alt='search'></a></font>
+		</td>
+		//-->
       </tr>
-      <tr> 
-        <td colspan="2"></td>
-      </tr>
-      <tr> 
-        <td width="12"></td>
-        <td width="188" class="bodytext2">&nbsp;</td>
-      </tr>
-      <tr> 
-        <td width="12"></td>
-        <td width="188"><img src="/images/personal/am_securities2.gif" width="168" height="42" alt="AMSecurities Trade Online" usemap="#Map" border="0"></td>
-      </tr>
-      <tr> 
-        <td colspan="2" class="bodytext2">&nbsp;</td>
-      </tr>
-      <tr> 
-        <td width="12">&nbsp;</td>
-        <td width="188"><a href="javascript:smallwindowRates()"><img src="/images/personal/leftnavi_rates.gif" width="166" height="21" border="0" alt="Rates"></a></td>
-      </tr>
-    </tbody></table>
-    <!-- #BeginEditable "edit2" --><!-- #EndEditable --> 
-  </td>
-    <td valign="top" height="12" width="595"> 
-      <table width="580" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="12" height="30">&nbsp;</td>
-          <td width="165" align="center"><a href="/p/mainpage.asp"><img src="/images/topnavi_per.gif" width="150" height="20" border="0" alt="Personal Banking"></a></td>
-          <td width="177" align="center"><a href="/e/mainpage.asp"><img src="/images/topnavi_ent.gif" width="161" height="21" border="0" alt="Enterprise Banking"></a></td>
-          <td width="226" align="center"><a href="/i/mainpage.asp"><img src="/images/topnavi_inv.gif" width="213" height="21" border="0" alt="Investment &amp; Capital Market"></a></td>
-        </tr>
-      </tbody></table>
+  </tbody></table>
+</form></div>
+
+
+<table width="658" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td rowspan="3" background="/images/BG.gif" width="172" valign="top" height="120"><img src="/images/TOP_r1_c1.jpg" width="172" height="119" border="0" align="baseline" usemap="#Map"></td>
+    <td width="386" valign="bottom"><img src="/images/TOP_r1_c2.gif" width="386" height="20" border="0"></td>
+    <td width="76">&nbsp;</td>
+    <td width="141"> 
+      <div align="right"><b class="Bodytextbold_smaller">09 December  2002</b></div>
     </td>
   </tr>
   <tr> 
-    <td valign="top" width="595"><!-- #BeginEditable "edit1" --> 
-      <table width="560" border="0" cellspacing="0" cellpadding="0" align="center">
+    <td colspan="3" align="left" height="69" valign="top"> 
+      <div align="left"><img src="/images/TOP_r1_c3.gif" width="599" height="71" border="0" usemap="#Map2"></div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" height="2"><img src="/images/trans.gif" width="146" height="29" border="0"><img src="/images/trans.gif" width="138" height="29" border="0"><img src="/images/trans.gif" width="175" height="29" border="0"></td>
+    <td width="141" valign="top" height="2"> 
+      <div align="center"><img src="/images/TOP_r3_c9.gif" width="141" height="12" border="0"><br>
+        <b><a href="#" onmouseout="hidedrop()" onmouseover="showdrop(0)" class="Bodytextbold_smaller">Search</a> 
+        | <a href="/customer_care1.asp?subject=Customercare" class="Bodytextbold_smaller">Customer 
+        Care</a></b></div>
+    </td>
+  </tr>
+</tbody></table>
+<table width="771" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="174" valign="top" background="/images/BG.gif"> 
+      <form name="formAm" method="post">
+        <table width="172" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            
+          <td valign="bottom"><img src="/images/login_top.gif" width="172" height="9" border="0"></td>
+          </tr>
+          <tr> 
+            <td background="/images/login_center.gif"> 
+              
+            <table width="172" border="0" cellspacing="2" cellpadding="2" background="../images/trans.gif">
+              <tbody><tr> 
+                  <td width="27" height="13"> 
+                    <div align="center"> 
+                      <input type="radio" name="radiobutton" value="amdirect" checked="">
+                    </div>
+                  </td>
+                  
+                <td width="131" class="Login_text" height="13">AmDirect <br>
+                  Online Banking</td>
+                </tr>
+                <tr> 
+                  <td width="27"> 
+                    <div align="center"> 
+                      <input type="radio" name="radiobutton" value="amsecurities">
+                    </div>
+                  </td>
+                  
+                <td width="131" class="Login_text">AmSecurities<br> Trade Online</td>
+                </tr>
+              </tbody></table>
+              <table width="158" border="0" cellspacing="3" cellpadding="0" align="center">
+                <tbody><tr> 
+                  <td width="78" height="2"> 
+                    
+                  <div align="center"><a href="javascript:winLogin();"><img src="/images/button_login.gif" width="71" height="17" border="0" alt="Login"></a></div>
+                  </td>
+                  <td width="81" height="2"> 
+                    
+                  <div align="center"><a href="javascript:winInfo();"><img src="/images/button_moreinfo.gif" width="71" height="17" border="0" alt="More Info"></a></div>
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            
+          <td valign="top" height="2"><img src="/images/login_bottom.gif" width="172" height="10" border="0"></td>
+          </tr>
+        </tbody></table>
+      </form>
+      
+    <table width="163" border="0" cellspacing="2" cellpadding="3" class="content_normal">
+      <tbody><tr> 
+        <td colspan="2" height="24" class="normal_whitebold">
+          <table width="153" border="0" cellspacing="2" cellpadding="0">
+            <tbody><tr> 
+              <td width="14" height="23">&nbsp;</td>
+              <td width="139" height="23" class="content_normal"><font class="Leftnavi_yellow"><a href="/p/mainpage_p.asp" class="Leftnavi_yellow">Personal 
+                Banking</a></font></td>
+            </tr>
+            <tr> 
+              <td width="14">&nbsp;</td>
+              <td width="139" class="Leftnavi_yellow"><a href="/e/mainpage_e.asp" class="Leftnavi_yellow">Enterprise 
+                Banking</a></td>
+            </tr>
+            <tr> 
+              <td width="14">&nbsp;</td>
+              <td width="139" class="content_normal"><font class="Leftnavi_yellow"><a href="/i/mainpage_i.asp" class="Leftnavi_yellow">Investment 
+                &amp; Capital Market</a></font></td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+      <tr> 
+        <td width="9">&nbsp;</td>
+        <td width="152"><b><font class="normal_whitebold"><br>
+          <span class="Side_quicklinks">QUICK LINKS</span></font></b></td>
+      </tr>
+      <tr> 
+        <td width="9" height="2"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" height="2"><a href="/echa/am_direct.asp" class="Leftnavi_white">Online 
+          Banking</a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/p/bill.asp" class="Leftnavi_white">Online 
+          Bill Payment</a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/echa/call_center.asp" class="Leftnavi_white">Call 
+          Centre </a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/asp/branch_network.asp" class="Leftnavi_white">Branch 
+          Network </a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/asp/atm.asp" class="Leftnavi_white">ATM 
+          Location</a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/echa/ebank_mainpage.asp" class="Leftnavi_white">eBanking 
+          Centre </a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/rates.asp" class="Leftnavi_white">Rates 
+          </a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152"><a href="/fin_tools.asp" class="Leftnavi_white">Financial 
+          Tools</a></td>
+      </tr>
+      <tr> 
+        <td width="9">&nbsp;</td>
+        <td width="152" class="verdana_small_bold">&nbsp;</td>
+      </tr>
+      <tr> 
+        <td width="9" height="2">&nbsp;</td>
+        <td width="152" class="verdana_small_bold" height="2"><span class="Side_quicklinks">MORE 
+          SERVICES</span></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/p/bill.asp" class="Leftnavi_white">Bill 
+          Payment</a></td>
+      </tr>
+	  <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/debit_epos.asp" class="Leftnavi_white">Debit 
+          e-POS</a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/p/ibg.asp" class="Leftnavi_white">Interbank 
+          Giro</a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/p/ames.asp" class="Leftnavi_white">Electronic Share Application</a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"><img src="/images/whitedot.gif" width="9" height="9" border="0"></div>
+        </td>
+        <td width="152" class="Leftnavi_white"><a href="/p/amlink.asp" class="Leftnavi_white">AmLink</a></td>
+      </tr>
+      <tr> 
+        <td width="9"> 
+          <div align="center"></div>
+        </td>
+        <td width="152">&nbsp;</td>
+      </tr>
+      <tr> 
+        <td colspan="2" class="Side_banknegara"><a href="javascript:MM_openBrWindow('/amsecu_popup.asp?mode=bnm','','width=380,height=240,scrollbars=no,resizable=no,top=100,left=200');" class="Side_banknegara">Bank Negara Malaysia</a></td>
+      </tr>
+    </tbody></table>
+    
+  </td>
+    <td width="589" valign="top" class="small_white_bold">
+<map name="Map">
+      <area shape="rect" coords="48,100,120,119" href="/index.asp">
+</map>
+<map name="Map2">
+  <area shape="rect" coords="378,3,604,72" href="/echa/call_center.asp">
+</map>
+      <table width="580" border="0" cellspacing="0" cellpadding="0" align="center" height="2128">
         <tbody><tr> 
-          <td valign="top" width="595"> 
-            <table width="560" border="0" cellspacing="5" cellpadding="0">
+          <td valign="top" width="595" height="2122"> 
+            <table width="580" border="0" cellspacing="5" cellpadding="0" align="center" height="60">
               <tbody><tr> 
                 <td width="575"> 
-                  <table border="0" cellspacing="0" cellpadding="0" width="550">
+                  <table border="0" cellspacing="0" cellpadding="0" width="580" align="right">
                     <tbody><tr valign="top"> 
-                      <td class="section_per_header" height="23" width="550">Privacy</td>
+                      <td class="Header1" height="23" width="550"><img src="images/trans.gif" width="4" height="4">Privacy 
+                        Policy </td>
                     </tr>
                     <tr> 
-                      <td width="550"><img src="/images/misc/line.gif" width="550" height="5"></td>
+                      <td width="550"> 
+                        <div align="right"><img src="/images/misc/line.gif" width="568" height="5" align="right" border="0"></div>
+                      </td>
                     </tr>
                     <tr> 
                       <td class="bodytext2" width="550">&nbsp;</td>
@@ -350,79 +1059,78 @@ function winLogin()
                 </td>
               </tr>
             </tbody></table>
-            <table width="560" border="0" cellspacing="5" cellpadding="0">
+            <table width="580" border="0" cellspacing="5" cellpadding="0" align="right">
               <tbody><tr> 
-                <td colspan="2" valign="top"><span class="bodytext2_nojustify">Contents 
-                  of this Privacy Policy Statement:</span> </td>
+                <td colspan="2" valign="top"><span class="Bodytext">Contents of 
+                  this Privacy Policy Statement: </span> </td>
               </tr>
               <tr> 
                 <td class="bodytext2" width="11"><img src="/images/bullet_p.gif" width="5" height="5" vspace="2" hspace="3"></td>
-                <td class="bodytext2" width="532"><span class="header3"><a href="#about">About 
+                <td class="bodytext2" width="532"><span class="header3"><a href="#about" class="Bodytext">About 
                   this Privacy Policy Statement</a></span></td>
               </tr>
               <tr> 
                 <td class="bodytext2" width="11"><img src="/images/bullet_p.gif" width="5" height="5" vspace="2" hspace="3"></td>
-                <td class="bodytext2" width="532"><a href="#cpi"><span class="header3">Collection 
-                  of Personal Information</span></a></td>
+                <td class="bodytext2" width="532"><a href="#cpi" class="Bodytext">Collection 
+                  of Personal Information</a></td>
               </tr>
               <tr> 
                 <td class="bodytext2"><img src="/images/bullet_p.gif" width="5" height="5" vspace="2" hspace="3"></td>
-                <td class="bodytext2"><span class="header3"><a href="#udi">Use 
+                <td class="bodytext2"><span class="header3"><a href="#udi" class="Bodytext">Use 
                   and Disclosure of Information</a></span></td>
               </tr>
               <tr> 
                 <td class="bodytext2"><img src="/images/bullet_p.gif" width="5" height="5" vspace="2" hspace="3"></td>
-                <td class="bodytext2"><span class="header3"><a href="#is">Information 
+                <td class="bodytext2"><span class="header3"><a href="#is" class="Bodytext">Information 
                   Security</a></span></td>
               </tr>
               <tr> 
                 <td class="bodytext2"><img src="/images/bullet_p.gif" width="5" height="5" vspace="2" hspace="3"></td>
-                <td class="bodytext2"><span class="header3"><a href="#access">Your 
+                <td class="bodytext2"><span class="header3"><a href="#access" class="Bodytext">Your 
                   access to your Personal Information</a></span></td>
               </tr>
               <tr> 
                 <td class="bodytext2"><img src="/images/bullet_p.gif" width="5" height="5" vspace="2" hspace="3"></td>
-                <td class="bodytext2"><span class="header3"><a href="#cookies">Use 
+                <td class="bodytext2"><span class="header3"><a href="#cookies" class="Bodytext">Use 
                   of Cookies </a></span></td>
               </tr>
               <tr> 
                 <td class="bodytext2"><img src="/images/bullet_p.gif" width="5" height="5" vspace="2" hspace="3"></td>
-                <td class="bodytext2"><span class="header3"><a href="#link">Links 
+                <td class="bodytext2"><span class="header3"><a href="#link" class="Bodytext">Links 
                   to other sites</a></span></td>
               </tr>
               <tr> 
                 <td class="bodytext2"><img src="/images/bullet_p.gif" width="5" height="5" vspace="2" hspace="3"></td>
-                <td class="bodytext2"><a href="#ec"><span class="header3"> Complaints 
-                  </span></a></td>
+                <td class="bodytext2"><a href="#ec" class="Bodytext">Complaints 
+                  </a></td>
               </tr>
               <tr> 
                 <td class="bodytext2" colspan="2">&nbsp;</td>
               </tr>
               <tr> 
-                <td class="header3" colspan="2" valign="top"><a name="about"></a>About 
-                  this Privacy Policy Statement</td>
+                <td class="header3" colspan="2" valign="top"><a name="about"></a><span class="Header2">About 
+                  this Privacy Policy Statement</span></td>
               </tr>
               <tr> 
-                <td class="bodytext2" colspan="2"> This privacy policy statement 
-                  applies to the Arab-Malaysian Banking Group's web site located 
-                  at <a href="http://www.ambg.com.my">www.ambg.com.my</a> ("AMBG 
-                  site"), owned and operated by Arab-Malaysian Bank Berhad (Company 
+                <td class="Bodytext" colspan="2"> This privacy policy statement 
+                  applies to the AmBank Group's web site located at <a href="http://www.ambg.com.my">www.ambg.com.my</a> 
+                  ("AmBank Group site"), owned and operated by AmBank Berhad (Company 
                   No:295576-U).<br>
                   <br>
-                  By using or accessing the AMBG site you shall be deemed to have 
+                  By using or accessing the AmBank Group site you shall be deemed to have 
                   accepted this Privacy Policy Statement ("this Statement"). If 
                   you do not accept this Statement, please immediately discontinue 
-                  your access to the AMBG site. <br>
+                  your access to the AmBank Group site. <br>
                   <br>
-                  AMBG reserves the right to change the contents and/or services 
-                  offered on the AMBG site including this Statement at any time 
-                  and without notice. By your continued use or access of the AMBG 
+                  AmBank Group reserves the right to change the contents and/or services 
+                  offered on the AmBank Group site including this Statement at any time 
+                  and without notice. By your continued use or access of the AmBank Group 
                   site you shall be deemed to have agreed to and accepted the 
                   changes in this Statement. You are advised to periodically review 
                   this Statement for changes.<br>
                   <br>
                   In addition to this Statement, specific privacy provisions may 
-                  apply to certain sections of the AMBG site. These specific privacy 
+                  apply to certain sections of the AmBank Group site. These specific privacy 
                   provisions must be read together with this Statement. In the 
                   event of any inconsistency between this Statement and the specific 
                   provisions, the specific provisions shall prevail.<br>
@@ -435,32 +1143,32 @@ function winLogin()
                 <td class="bodytext2" colspan="2">&nbsp;</td>
               </tr>
               <tr> 
-                <td class="header3" colspan="2"><a name="cpi"></a>Collection of 
-                  Personal Information</td>
+                <td class="header3" colspan="2"><a name="cpi"></a><span class="Header2">Collection 
+                  of Personal Information</span></td>
               </tr>
               <tr> 
                 <td class="bodytext2" colspan="2"> 
-                  <p>The AMBG site is committed to ensure the privacy of its users. 
-                    The information collected by AMBG about you will depend on 
-                    how you use the facilities and features on the AMBG site. 
+                  <p class="Bodytext">The AmBank Group site is committed to ensure the 
+                    privacy of its users. The information collected by AmBank Group about 
+                    you will depend on how you use the facilities and features 
+                    on the AmBank Group site. <br>
                     <br>
-                    <br>
-                    When you use the AMDIRECT Online Banking Service, the information 
+                    When you use the AmDirect Online Banking Service, the information 
                     collected will generally include your Login ID, Password, 
                     personally identifiable information, contact details and identification 
                     numbers. This information is necessary for us to provide the 
                     service you applied for. Personal information provided by 
-                    you upon application for the AMDIRECT Online Banking Service 
-                    shall be used to enroll you for the AMDIRECT Call Centre Service. 
+                    you upon application for the AmDirect Online Banking Service 
+                    shall be used to enroll you for the AmDirect Call Centre Service. 
                     <br>
                     <br>
-                    To enable us to monitor the activity on the AMBG site, we 
+                    To enable us to monitor the activity on the AmBank Group site, we 
                     also collect information such as the number of users, the 
                     date and time of visits, the number of pages viewed and the 
                     information downloaded. In addition to this, we collect personal 
                     information when you use the online application forms to apply 
                     for our products and/or services and when you complete the 
-                    survey forms or contact/feedback forms available on the AMBG 
+                    survey forms or contact/feedback forms available on the AmBank Group 
                     site. </p>
                 </td>
               </tr>
@@ -468,24 +1176,24 @@ function winLogin()
                 <td class="bodytext2" colspan="2">&nbsp;</td>
               </tr>
               <tr> 
-                <td class="header3" colspan="2"><a name="udi"></a>Use and Disclosure 
-                  of Information</td>
+                <td class="header3" colspan="2"><a name="udi"></a><span class="Header2">Use 
+                  and Disclosure of Information</span></td>
               </tr>
               <tr> 
-                <td class="bodytext2" colspan="2">Personal information supplied 
-                  by you through the AMBG site shall be used in providing AMBG's 
-                  services. AMBG may also use your personal information to market 
-                  AMBG's products and services to you based on your interests 
-                  and to mainly assist AMBG in customising and delivering its 
+                <td class="Bodytext" colspan="2">Personal information supplied 
+                  by you through the AmBank Group site shall be used in providing AmBank Group's 
+                  services. AmBank Group may also use your personal information to market 
+                  AmBank Group's products and services to you based on your interests 
+                  and to mainly assist AmBank Group in customising and delivering its 
                   services and products that may be of interest to you. <br>
                   <br>
-                  AMBG will not use or disclose information collected about you, 
+                  AmBank Group will not use or disclose information collected about you, 
                   including information collected using cookies, other than for 
                   the purpose made known to you, a purpose you would reasonably 
                   expect, a purpose required, authorised or permitted by or under 
                   law, or a purpose otherwise authorised by you. <br>
                   <br>
-                  You agree that AMBG shall not disclose your personal information 
+                  You agree that AmBank Group shall not disclose your personal information 
                   unless the following circumstances apply: </td>
               </tr>
               <tr> 
@@ -493,67 +1201,68 @@ function winLogin()
                   <table border="0" cellspacing="2" cellpadding="2">
                     <tbody><tr> 
                       <td valign="baseline"><img src="images/bullet_p.gif" width="5" height="5" vspace="4"></td>
-                      <td class="bodytext2">for the purpose of processing your 
-                        Instruction(s) given through the AMDIRECT Online Banking 
+                      <td class="Bodytext">for the purpose of processing your 
+                        Instruction(s) given through the AmDirect Online Banking 
                         Service;</td>
                     </tr>
                     <tr> 
                       <td><img src="/images/bullet_p.gif" width="5" height="5"></td>
-                      <td class="bodytext2"> when cross selling and cross servicing 
-                        the products and/or services of AMBG; and/or</td>
+                      <td class="Bodytext"> when cross selling and cross servicing 
+                        the products and/or services of AmBank Group; and/or</td>
                     </tr>
                     <tr> 
                       <td valign="baseline"><img src="/images/bullet_p.gif" width="5" height="5" vspace="4"></td>
-                      <td class="bodytext2"> to any third party service providers, 
+                      <td class="Bodytext"> to any third party service providers, 
                         contractors, agents who provide administrative, telecommunication, 
                         computer payment or securities clearing or other services 
-                        to AMBG in connection with the operation of its business. 
-                        In such cases, AMBG will require that such persons undertake 
+                        to AmBank Group in connection with the operation of its business. 
+                        In such cases, AmBank Group will require that such persons undertake 
                         to keep your information confidential. </td>
                     </tr>
                   </tbody></table>
                 </td>
               </tr>
               <tr> 
-                <td class="bodytext2" colspan="2">Although AMBG uses reasonable 
+                <td class="Bodytext" colspan="2">Although AmBank Group uses reasonable 
                   efforts to ensure that third parties keep your information confidential, 
-                  please be informed that AMBG has no control over these third 
+                  please be informed that AmBank Group has no control over these third 
                   parties, who may or may not further disclose information to 
                   other parties and there can be no assurances that such parties 
                   will not solicit you via e-mail or otherwise. <br>
                   <br>
                   Demographic or statistical information collated from any information 
-                  provided by you upon your use of the AMBG site may be divulged 
+                  provided by you upon your use of the AmBank Group site may be divulged 
                   to any third party. Such demographic or statistical information 
                   shall be in the form of a summary or compilation of information 
                   which is not personally identifiable. <br>
                   <br>
                   If you do not wish to be solicited for products or services 
-                  offered by AMBG, please indicate accordingly when requested. 
+                  offered by AmBank Group, please indicate accordingly when requested. 
                 </td>
               </tr>
               <tr> 
                 <td class="bodytext2" colspan="2">&nbsp;</td>
               </tr>
               <tr> 
-                <td class="header3" colspan="2"><a name="is"></a>Information Security</td>
+                <td class="header3" colspan="2"><a name="is"></a><span class="Header2">Information 
+                  Security</span></td>
               </tr>
               <tr> 
-                <td class="bodytext2" colspan="2">You are responsible for maintaining 
-                  the secrecy of your Login ID and Password for the AMDIRECT Online 
-                  Banking Service. AMBG will not be able to secure your information 
-                  if you reveal your Login ID and Password to anyone. AMBG's personnel 
+                <td class="Bodytext" colspan="2">You are responsible for maintaining 
+                  the secrecy of your Login ID and Password for the AmDirect Online 
+                  Banking Service. AmBank Group will not be able to secure your information 
+                  if you reveal your Login ID and Password to anyone. AmBank Group's personnel 
                   are not authorised to ask you for your Password. <br>
                   <br>
-                  For the AMDIRECT Online Banking Service, AMBG applies stringent 
+                  For the AmDirect Online Banking Service, AmBank Group applies stringent 
                   procedures to ensure that only a limited number of authorised 
                   personnel within the organisation will have direct access to 
                   your personal data. Transmission of data during login, registration 
                   and personal information update between the browser and server 
-                  in the AMDIRECT Online Banking Service is encrypted using the 
+                  in the AmDirect Online Banking Service is encrypted using the 
                   proven 128-bit Secure Socket Layer ("SSL") technology. <br>
                   <br>
-                  All your personal data collected from the AMDIRECT Online Banking 
+                  All your personal data collected from the AmDirect Online Banking 
                   Service is stored in secured repositories in our secured data 
                   centre. Only authorised personnel have physical access to the 
                   data repositories in limited circumstances and they are prohibited 
@@ -562,12 +1271,12 @@ function winLogin()
                   is safe against system failures. These backups are stored in 
                   a secured location. <br>
                   <br>
-                  AMBG takes reasonable care to ensure that the AMBG site is safe 
+                  AmBank Group takes reasonable care to ensure that the AmBank Group site is safe 
                   and secure, however please be informed that no data transmission 
                   over the Internet can be guaranteed as fully secure. As such, 
-                  AMBG cannot guarantee or warrant the security of any information 
-                  you send to us through the AMBG site. You submit information 
-                  at your own risk. Once AMBG receives your information, AMBG 
+                  AmBank Group cannot guarantee or warrant the security of any information 
+                  you send to us through the AmBank Group site. You submit information 
+                  at your own risk. Once AmBank Group receives your information, AmBank Group 
                   will take all reasonable steps to protect the data held in its 
                   system. </td>
               </tr>
@@ -575,18 +1284,18 @@ function winLogin()
                 <td class="bodytext2" colspan="2">&nbsp;</td>
               </tr>
               <tr> 
-                <td class="header3" colspan="2"><a name="access"></a>Your access 
-                  to your Personal Information</td>
+                <td class="header3" colspan="2"><a name="access"></a><span class="Header2">Your 
+                  access to your Personal Information</span></td>
               </tr>
               <tr> 
-                <td class="bodytext2" colspan="2">AMBG regards confidentiality 
+                <td class="Bodytext" colspan="2">AmBank Group regards confidentiality 
                   and privacy of your information of paramount importance. Upon 
                   request, we may provide you access to the personal information 
                   we hold about you. The information will be limited to your address, 
                   occupation, age, sex, martial status, accounts with us and the 
                   balances and statements relating to those accounts. You can 
-                  also inform AMBG in writing of any changes or errors in your 
-                  personal information and AMBG will update its records or correct 
+                  also inform AmBank Group in writing of any changes or errors in your 
+                  personal information and AmBank Group will update its records or correct 
                   any errors as soon as possible as to ensure accuracy and completeness 
                   of your personal information. </td>
               </tr>
@@ -594,10 +1303,11 @@ function winLogin()
                 <td class="bodytext2" colspan="2">&nbsp;</td>
               </tr>
               <tr> 
-                <td class="header3" colspan="2"><a name="cookies"></a>Use of "cookies"</td>
+                <td class="header3" colspan="2"><a name="cookies"></a><span class="Header2">Use 
+                  of "cookies"</span></td>
               </tr>
               <tr> 
-                <td class="bodytext2" colspan="2">The AMBG site may send you a 
+                <td class="Bodytext" colspan="2">The AmBank Group site may send you a 
                   "cookie". A cookie is a package of data that allows our server 
                   to identify and interact more effectively with your computer 
                   without identifying the individual users. Most current browser 
@@ -608,39 +1318,38 @@ function winLogin()
                 <td class="bodytext2" colspan="2">&nbsp;</td>
               </tr>
               <tr> 
-                <td class="header3" colspan="2"><a name="link"></a>Links to other 
-                  Sites</td>
+                <td class="header3" colspan="2"><a name="link"></a><span class="Header2">Links 
+                  to other Sites</span></td>
               </tr>
               <tr> 
-                <td class="bodytext2" colspan="2">The AMBG site may be linked 
-                  to other web sites but AMBG is not responsible for the privacy 
-                  practices or the contents of these linked sites. AMBG advises 
+                <td class="Bodytext" colspan="2">The AmBank Group site may be linked to 
+                  other web sites but AmBank Group is not responsible for the privacy 
+                  practices or the contents of these linked sites. AmBank Group advises 
                   you to read the privacy practices of those linked sites.</td>
               </tr>
               <tr> 
                 <td class="bodytext2" colspan="2">&nbsp;</td>
               </tr>
               <tr> 
-                <td class="header3" colspan="2"><a name="ec"></a>Enquiries and 
-                  Complaints</td>
+                <td class="header3" colspan="2"><a name="ec"></a><span class="Header2">Enquiries 
+                  and Complaints</span></td>
               </tr>
               <tr> 
-                <td class="bodytext2_nojustify" colspan="2">You may address any 
-                  queries, concerns or complaints regarding the use of your personal 
-                  information or this Statement, using the contact information 
-                  provided below.</td>
+                <td class="Bodytext" colspan="2">You may address any queries, 
+                  concerns or complaints regarding the use of your personal information 
+                  or this Statement, using the contact information provided below.</td>
               </tr>
-              <tr>
+              <tr> 
                 <td class="bodytext2" colspan="2">&nbsp;</td>
               </tr>
               <tr> 
-                <td class="header3" colspan="2">Contact Information</td>
+                <td class="Header2" colspan="2">Contact Information</td>
               </tr>
               <tr> 
-                <td class="bodytext2_nojustify" colspan="2"><b> </b> AMDIRECT 
+                <td class="bodytext2_nojustify" colspan="2"> <span class="Bodytext">AmDirect 
                   Call Centre Address:<b> </b>P.O. Box No. 12617 50784 Kuala Lumpur.<br>
-                  E-mail address: <a href="mailto:customercare@ambg.com.my"></a><a href="mailto:customercare@ambg.com.my">customercare@ambg.com.my</a> 
-                </td>
+                  E-mail address: <a href="/customer_care1.asp?subject=Customercare">customercare@ambg.com.my</a> 
+                  </span> </td>
               </tr>
               <tr> 
                 <td class="bodytext2" colspan="2">&nbsp;</td>
@@ -649,29 +1358,34 @@ function winLogin()
           </td>
         </tr>
       </tbody></table>
-      <!-- #EndEditable --></td>
+      </td>
   </tr>
 </tbody></table>
-<table width="780" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr bgcolor="2087BF" align="center"> 
-    <td colspan="2"><span class="footerlink"><a href="/info_news.asp"><font color="#FFFFFF">Financial 
-      Information</font></a> . <a href="/latest_news.asp"><font color="#FFFFFF">Latest 
-      News</font></a> . <a href="/careers/careers.asp"><font color="#FFFFFF"><span class="footerlink">Careers</span></font></a><span class="footerlink"></span> 
-      . <a href="/links.asp"><font color="#FFFFFF">Links</font></a> . <a href="/faq.asp"><font color="#FFFFFF">FAQ</font></a> 
-      . <a href="/sitemap.asp"><font color="#FFFFFF">Sitemap</font></a> . <a href="/terms.asp"><font color="#FFFFFF">Terms 
-      of Use</font></a> . <a href="/privacypolicy.asp"><font color="#FFFFFF">Privacy</font></a> 
-      . </span><span class="footerlink"><a href="/clientcharter.asp"><font color="#FFFFFF">Client 
-      Charter</font></a></span></td>
+<table width="771" border="0" cellspacing="2" cellpadding="0">
+  <tbody><tr> 
+    <td width="171">&nbsp;</td>
+    <td width="11">&nbsp;</td>
+    <td width="589">&nbsp;</td>
   </tr>
-  <tr bgcolor="2087BF" align="center"> 
-    <td colspan="2"><font class="copyright">Copyright@2001 Arab-Malaysian Bank 
-      Berhad. All rights reserved.</font></td>
+  <tr> 
+    <td width="171" height="2"> 
+      <div align="left"><font class="content_small"><span class="Copyright">Copyright 
+        © 2002 AmBank Berhad. All Rights Reserved</span>.</font></div>
+    </td>
+    <td width="11" height="2"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1"></font></td>
+    <td width="589" class="Bodytextbold_smaller"> 
+      <p><a href="/index.asp">Home</a> | <a href="/about_us.asp">About Us</a> 
+        | <a href="/info_news.asp" class="Bodytextbold_smaller">Financial Information</a> 
+        | <a href="/latest_news.asp" class="Bodytextbold_smaller">Press Release</a> 
+        | <a href="/careers/careers.asp">Careers</a> | <a href="/links.asp">Links</a><br>
+        <a href="/AmDirect_faq.asp">FAQs</a> | <a href="/terms.asp" class="Bodytextbold_smaller">Terms 
+        of Use</a> | <a href="/privacypolicy.asp" class="Bodytextbold_smaller">Privacy 
+        Policy</a> | <a href="/clientcharter.asp" class="Bodytextbold_smaller">Client 
+        Charter</a> | <a href="/sitemap.asp" class="Bodytextbold_smaller">Sitemap</a></p>
+      </td>
   </tr>
 </tbody></table>
-<map name="Map"> 
-  <area shape="rect" coords="89,28,165,44" href="javascript:MM_openBrWindow('/amsecu_popup.asp?mode=info','','width=380,height=240,scrollbars=no,resizable=no,top=100,left=200')" alt="More Info" title="More Info">
-  <area shape="rect" coords="88,10,166,27" href="javascript:MM_openBrWindow('/amsecu_popup.asp?mode=login','','width=380,height=240,scrollbars=no,resizable=no,top=100,left=200')" alt="Login Now" title="Login Now">
-</map>
 
-<!-- #EndTemplate -->
-</body></html>
+
+
+<div style="top: 91px; position: absolute; visibility: visible; left: 172px;"><div id="menu0item1" style="position: absolute; left: 0; top: 0; width: 136; height: 0; visibility: inherit;background: #FFFFFF; " onmouseover="popOver(0,1)" onmouseout="popOut(0,1)"><table width="128" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="-7"><a class="itemText" href="/p/mainpage_p.asp"><img src="/images/TOP_r3_c4.gif" border="0"></a></td></tr></tbody></table></div><div id="menu0item2" style="position: absolute; left: 146; top: 0; width: 128; height: 0; visibility: inherit;background: #FFFFFF; " onmouseover="popOver(0,2)" onmouseout="popOut(0,2)"><table width="120" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="-7"><a class="itemText" href="/e/mainpage_e.asp"><img src="/images/TOP_r3_c6.gif" border="0"></a></td></tr></tbody></table></div><div id="menu0item3" style="position: absolute; left: 284; top: 0; width: 100; height: 0; visibility: inherit;background: #FFFFFF; " onmouseover="popOver(0,3)" onmouseout="popOut(0,3)"><table width="92" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="-7"><a class="itemText" href="/i/mainpage_i.asp"><img src="/images/TOP_r3_c7.gif" border="0"></a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu1item1" style="position: absolute; left: 0; top: 0; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,1)" onmouseout="popOut(1,1)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="#">Deposit &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu1item2" style="position: absolute; left: 0; top: 18; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,2)" onmouseout="popOut(1,2)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="/p/card/main_card.asp">Card &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu1item3" style="position: absolute; left: 0; top: 36; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,3)" onmouseout="popOut(1,3)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="/p/loans/mtr/main_mtr.asp">Hire Purchase &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu1item4" style="position: absolute; left: 0; top: 54; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,4)" onmouseout="popOut(1,4)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="/p/loans/pty/main_pty.asp">Property Loan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu1item5" style="position: absolute; left: 0; top: 72; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,5)" onmouseout="popOut(1,5)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="#">Insurance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu1item6" style="position: absolute; left: 0; top: 90; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,6)" onmouseout="popOut(1,6)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="/p/islambank.asp">Islamic Products &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu1item7" style="position: absolute; left: 0; top: 108; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,7)" onmouseout="popOut(1,7)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="/p/remittance_services.asp">Remittance Services</a></td></tr></tbody></table></div><div id="menu1item8" style="position: absolute; left: 0; top: 126; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,8)" onmouseout="popOut(1,8)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="/p/pi/main_pi.asp">Unit Trust Products &nbsp;</a></td></tr></tbody></table></div><div id="menu1item9" style="position: absolute; left: 0; top: 144; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,9)" onmouseout="popOut(1,9)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="#">Financial Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu1item10" style="position: absolute; left: 0; top: 162; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(1,10)" onmouseout="popOut(1,10)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_p" href="#">More Services &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu2item1" style="position: absolute; left: 0; top: 0; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(2,1)" onmouseout="popOut(2,1)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_e" href="/e/cb/main_cb.asp">Corporate Banking &nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu2item2" style="position: absolute; left: 0; top: 18; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(2,2)" onmouseout="popOut(2,2)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_e" href="#">Trade Finance &nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu2item3" style="position: absolute; left: 0; top: 36; width: 132; height: 30; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(2,3)" onmouseout="popOut(2,3)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="23"><a class="itemText_e" href="/i/tps/main_tps.asp">Treasury Products <br> &amp; Services &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu2item4" style="position: absolute; left: 0; top: 66; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(2,4)" onmouseout="popOut(2,4)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_e" href="/e/cs/main_cs.asp">Commercial Services</a></td></tr></tbody></table></div><div id="menu2item5" style="position: absolute; left: 0; top: 84; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(2,5)" onmouseout="popOut(2,5)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_e" href="/p/pi/main_pi.asp">Unit Trust Products &nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu2item6" style="position: absolute; left: 0; top: 102; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(2,6)" onmouseout="popOut(2,6)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_e" href="#">Insurance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu2item7" style="position: absolute; left: 0; top: 120; width: 132; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(2,7)" onmouseout="popOut(2,7)"><table width="124" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_e" href="/e/islam_prod.asp">Islamic Products &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu3item1" style="position: absolute; left: 0; top: 0; width: 170; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(3,1)" onmouseout="popOut(3,1)"><table width="162" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_i" href="#">Debt</a></td></tr></tbody></table></div><div id="menu3item2" style="position: absolute; left: 0; top: 18; width: 170; height: 30; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(3,2)" onmouseout="popOut(3,2)"><table width="162" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="23"><a class="itemText_i" href="/i/tps/main_tps.asp">Treasury Products &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> &amp; Services &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu3item3" style="position: absolute; left: 0; top: 48; width: 170; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(3,3)" onmouseout="popOut(3,3)"><table width="162" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_i" href="/p/pi/main_pi.asp">Unit Trust Products &nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu3item4" style="position: absolute; left: 0; top: 66; width: 170; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(3,4)" onmouseout="popOut(3,4)"><table width="162" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_i" href="#">Equity</a></td></tr></tbody></table></div><div id="menu3item5" style="position: absolute; left: 0; top: 84; width: 170; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(3,5)" onmouseout="popOut(3,5)"><table width="162" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_i" href="/i/futrading/main_futrading.asp">Futures Trading &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu3item6" style="position: absolute; left: 0; top: 102; width: 170; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(3,6)" onmouseout="popOut(3,6)"><table width="162" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_i" href="/i/property/main_property.asp">Property &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu3item7" style="position: absolute; left: 0; top: 120; width: 170; height: 18; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(3,7)" onmouseout="popOut(3,7)"><table width="162" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="11"><a class="itemText_i" href="/i/debt/islamic/main_islamic.asp">Islamic Products &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu4item1" style="position: absolute; left: 0; top: 0; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(4,1)" onmouseout="popOut(4,1)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_p" href="/p/dep/sav/main_sav.asp">Savings Account &nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu4item2" style="position: absolute; left: 0; top: 22; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(4,2)" onmouseout="popOut(4,2)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_p" href="/p/dep/cur/main_cur.asp">Current Account &nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu4item3" style="position: absolute; left: 0; top: 44; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(4,3)" onmouseout="popOut(4,3)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_p" href="/p/dep/fd/main_fd.asp">Fixed Deposits &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu7item1" style="position: absolute; left: 0; top: 0; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(7,1)" onmouseout="popOut(7,1)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_p" href="/p/ins/main_ins.asp">Life &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu7item2" style="position: absolute; left: 0; top: 22; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(7,2)" onmouseout="popOut(7,2)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_p" href="/p/ins/gen/main_gen.asp">General &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu11item1" style="position: absolute; left: 0; top: 0; width: 123; height: 30; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(11,1)" onmouseout="popOut(11,1)"><table width="115" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="23"><a href="javascript:;" onclick="smallwindowEdu(); return false;" class="subitemText_p">Education Loan &nbsp;&nbsp;&nbsp;&nbsp;<br> Calculator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu11item2" style="position: absolute; left: 0; top: 30; width: 123; height: 30; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(11,2)" onmouseout="popOut(11,2)"><table width="115" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="23"><a href="javascript:;" onclick="smallwindowHP(); return false;" class="subitemText_p">Hire Purchase Loan<br>Calculator &nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu11item3" style="position: absolute; left: 0; top: 60; width: 123; height: 30; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(11,3)" onmouseout="popOut(11,3)"><table width="115" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="23"><a href="javascript:;" onclick="smallwindowHome(); return false;" class="subitemText_p">Home Loan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> Calculator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu12item1" style="position: absolute; left: 0; top: 0; width: 120; height: 30; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(12,1)" onmouseout="popOut(12,1)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="23"><a class="subitemText_p" href="/p/ames.asp">Electronic Share &nbsp;&nbsp;<br>Application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu12item2" style="position: absolute; left: 0; top: 30; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(12,2)" onmouseout="popOut(12,2)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_p" href="/p/amlink.asp">AmLink</a></td></tr></tbody></table></div><div id="menu12item3" style="position: absolute; left: 0; top: 52; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(12,3)" onmouseout="popOut(12,3)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_p" href="/p/bill.asp">Bill Payment</a></td></tr></tbody></table></div><div id="menu12item4" style="position: absolute; left: 0; top: 74; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(12,4)" onmouseout="popOut(12,4)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_p" href="/p/ibg.asp">Interbank Giro</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu14item1" style="position: absolute; left: 0; top: 0; width: 123; height: 30; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(14,1)" onmouseout="popOut(14,1)"><table width="115" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="23"><a class="subitemText_e" href="/e/tf/mainc.asp">Conventional Trade Financing Products</a></td></tr></tbody></table></div><div id="menu14item2" style="position: absolute; left: 0; top: 30; width: 123; height: 30; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(14,2)" onmouseout="popOut(14,2)"><table width="115" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="23"><a class="subitemText_e" href="/e/tf/main_tf.asp">Islamic Trade Financing Product</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu18item1" style="position: absolute; left: 0; top: 0; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(18,1)" onmouseout="popOut(18,1)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_e" href="/p/ins/main_ins.asp">Life &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div><div id="menu18item2" style="position: absolute; left: 0; top: 22; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(18,2)" onmouseout="popOut(18,2)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_e" href="/p/ins/gen/main_gen.asp">General &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu20item1" style="position: absolute; left: 0; top: 0; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(20,1)" onmouseout="popOut(20,1)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_i" href="/i/debt/td/main_td.asp">Traditional Debt</a></td></tr></tbody></table></div><div id="menu20item2" style="position: absolute; left: 0; top: 22; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(20,2)" onmouseout="popOut(20,2)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_i" href="/i/debt/os/main_os.asp">Offshore Services</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"><div id="menu23item1" style="position: absolute; left: 0; top: 0; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(23,1)" onmouseout="popOut(23,1)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_i" href="/i/equity/stobroking/main_stobroking.asp">Stockbroking</a></td></tr></tbody></table></div><div id="menu23item2" style="position: absolute; left: 0; top: 22; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(23,2)" onmouseout="popOut(23,2)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_i" href="/i/equity/advserv/main_advserv.asp">Advisory Services</a></td></tr></tbody></table></div><div id="menu23item3" style="position: absolute; left: 0; top: 44; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(23,3)" onmouseout="popOut(23,3)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_i" href="/i/equity/offserv/main_offserv.asp">Offshore Services</a></td></tr></tbody></table></div><div id="menu23item4" style="position: absolute; left: 0; top: 66; width: 120; height: 22; visibility: inherit;background: #ffcc99; " class="itemBorder" onmouseover="popOver(23,4)" onmouseout="popOut(23,4)"><table width="112" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="subitemText_i" href="/i/equity/trusteesrvcs/main_trusteesrvcs.asp">Trustee Services</a></td></tr></tbody></table></div></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"></div><div style="top: 0px; position: absolute; visibility: hidden;"></div></body></html>
