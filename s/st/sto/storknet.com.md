@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storknet.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406220647id_/http%3A//storknet.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storknet.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201214337id_/http%3A//storknet.com/privacy.htm) for the most accurate reproduction.*
 
 # StorkNet Privacy Policy
 
