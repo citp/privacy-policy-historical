@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batkhela.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207123200id_/http%3A//www.batkhela.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batkhela.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405011421id_/http%3A//www.batkhela.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Batkhela.com
 
@@ -11,11 +11,11 @@ Main Categories:
   * [Display Pics](https://web.archive.org/msn/display-pic.asp)
   * [Pashto Music](https://web.archive.org/music)
   * [Funny Pictures](https://web.archive.org/cool-funny-pictures)
-  * [MSN Emotions](https://web.archive.org/msn/msn-6-emoticons.shtml)
+  * [MSN Emotions](https://web.archive.org/msn/msn-6-emoticons.php)
   * [Play Games](https://web.archive.org/play_online_games)
   * [World of MSN](https://web.archive.org/msn)
-  * [**Free Stuff!**](https://web.archive.org/free-stuff)
-  * [Greeting Cards](https://web.archive.org/cards)
+  * [Greeting Cards](https://web.archive.org/greeting-cards)
+  * [Funny Jokes](https://web.archive.org/jokes)
   * [Join the Community](https://web.archive.org/forum)
   * [Free Wallpapers](https://web.archive.org/wallpapers)
 
@@ -28,11 +28,11 @@ General Sections:
   * [Check E-Mail](https://web.archive.org/email)
   * [Webmasters Tips](https://web.archive.org/web-development)
   * [Guests Book](https://web.archive.org/guestbook)
-  * [Privacy Policy](https://web.archive.org/privacy_policy.asp)
+  * [Privacy Policy](https://web.archive.org/privacy_policy.php)
   * [Contact Us](https://web.archive.org/contact/)
 
   
-|    
+   |    
   Privacy Policy: 
 
 First of all Thank you very much for visiting Batkhela.com  
@@ -46,7 +46,7 @@ Email addresses used in sending greeting cards, songs, wallpapers or other servi
 
 Contact Us, if you have any question regarding this statement:  
 [  
-Click here to Contact with us!](https://web.archive.org/web/20041207123200id_/http%3A//contact)
+Click here to Contact with us!](https://web.archive.org/web/20050405011421id_/http%3A//www.batkhela.com/contact)
 
 «
 
