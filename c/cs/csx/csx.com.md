@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608012501id_/http%3A//csx.com/aboutus/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017093945id_/http%3A//www.csx.com/aboutus/company/privacy.shtml) for the most accurate reproduction.*
 
 # CSX Corporation: About Us: Company Information & History: Privacy Policy
 
