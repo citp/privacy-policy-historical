@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091029id_/http%3A//www.valueoptions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605235232id_/http%3A//valueoptions.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
-[**ValueOptions Notice of Privacy Practices**](https://web.archive.org/web/20031206091029id_/http%3A//www.valueoptions.com/newsroom/privacy_policy.htm)
+[**ValueOptions Notice of Privacy Practices**](https://web.archive.org/web/20040605235232id_/http%3A//valueoptions.com/newsroom/privacy_policy.htm)
 
 This Web site offered by ValueOptions, Inc. (the "ValueOptions site") is designed to help you learn more about getting help with life issues that are sensitive, emotional and often private. We respect your personal privacy and provide this informational statement so that you may better understand how we may collect and use aggregate and personal information about you. This Privacy Statement describes ValueOptions privacy and security practices for this Web site.
 
@@ -60,4 +60,4 @@ Reston, VA 20191
 
 Revised: September 2003
 
-[**ValueOptions Notice of Privacy Practices**](https://web.archive.org/web/20031206091029id_/http%3A//www.valueoptions.com/newsroom/privacy_policy.htm)
+[**ValueOptions Notice of Privacy Practices**](https://web.archive.org/web/20040605235232id_/http%3A//valueoptions.com/newsroom/privacy_policy.htm)
