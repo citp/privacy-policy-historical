@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816171435id_/http%3A//www.gipsymedia.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405211331id_/http%3A//www.gipsymedia.com/general/privacy.html) for the most accurate reproduction.*
 
 # GipsyMedia Limited - Privacy Statement
 
@@ -14,9 +14,9 @@ GipsyMedia gathers user information in the following processes:
 
 > GipsyMedia offers interactive votes for users so they can easily choose the channels and features that should be developed for our products.
 
-### Bulletin Board/Forums
+### Forums
 
-> Users of the GipsyMedia Bulletin Boards can register to interact with these boards and forums. Registration is free and users can continue using these services even if they do not register. During registration the user is required to supply a username, password and email address. The password is stored in encrypted form only. The user can later supply more information that he/she wants to share with others as part of their profile.
+> Users of the GipsyMedia Forums can register to interact with them. Registration is free and users can continue using these services even if they do not register. During registration the user is required to supply a username, password and email address. The user can later supply more information that he/she wants to share with others as part of their profile.
 
 ### Electronic Newsletters
 
@@ -28,19 +28,23 @@ GipsyMedia gathers user information in the following processes:
 
 ### Usage Tracking
 
-> GipsyMedia tracks user traffic patterns throughout our sites. However, we do not correlate this information with data about individual users. GipsyMedia does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
+> GipsyMedia tracks user traffic patterns throughout our sites. GipsyMedia breaks down overall usage statistics according to a user's browser type and MIME type by reading this information from the browser string (information contained in every user's browser).
+> 
+> GipsyMedia Limited also collects [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration purposes only.
 
 ### Cookies
 
-> A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites.
+> A [cookie](http://www.zdwebopedia.com/TERM/c/cookie.html) is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. A cookie can't read data off your hard disk or read cookie files created by other sites.
 > 
 > If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie.
 > 
 > You can refuse cookies by turning them off in your browser. However, you will need to have cookies turned on to use some GipsyMedia products.
+> 
+> More information can be found in the [Cookies Knowledgebase Article](http://www.digiguide.com/dg/faq/cookies.shtml).
 
 ### Advertising
 
-> GipsyMedia works with a third party that serves ads to their sites. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on these sites, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+> GipsyMedia sites use the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
 
 GipsyMedia uses any information voluntarily given by our users two-fold: 
 
