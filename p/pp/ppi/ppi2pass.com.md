@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ppi2pass.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407133331id_/http%3A//ppi2pass.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppi2pass.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013044503id_/http%3A//www.ppi2pass.com/priv.html) for the most accurate reproduction.*
 
-# PPI Privacy Notice
-
-## Privacy Policy
+# PPI Privacy Policy
 
 When you request information, a catalog, or literature, enroll in a course or program, or purchase a product from Professional Publications, our order-processing software creates a permanent, historical record containing information ("Personal Information") about you. The software gives you a unique identification number which helps us to track all of your transactions. When you buy a Professional Publications product, we may ask you to return a registration card that comes with the product. If you install software or enroll in an online course, we may ask you to register electronically. When you do, we may merge your registration information with any other information you've already left with us. If you ever want to review or update that information, please contact Professional Publications's [Marketing Department.](mailto:marketing@ppi2pass.com) If you haven't already given us your e-mail address, we will ask you to do so. This ensures that only you can access your information. 
 
