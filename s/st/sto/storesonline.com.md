@@ -1,68 +1,96 @@
-> *The following text is extracted and transformed from the storesonline.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417055636id_/http%3A//www.storesonline.com/mall3/internal/mall/t0/en/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesonline.com privacy policy that was archived on 2004-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041221015225id_/http%3A//www.imergentinc.com/privacypolicy/policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy  
+Privacy Policy
+As a customer of StoresOnline, we recognize the importance of protecting your personal
+information.
+This Privacy Policy will answer your questions about the kind of information we collect and how
+we use it.
+If you have any further questions or comments, contact us by privacy@myquickresponse.com.
+What information do you gather and how do you use it?
+We collect information about you from contracts you enter into with us, correspondence you
+submit, telephone contacts, and applications on file as well as visits to our web sites. When
+visiting our web site, we may access additional information, such as service provider, browser
+type, and operating system, pages accessed on our web site and the date and time of access to
+optimize your user experience and enhance your time spent with us online. When you send us an
+email, we will retain the content of the e-mail, your e-mail address, and our response in order to
+handle any follow-up questions you may have. We also use this information to measure how
+effectively we address your concerns.
+We may ask you for the following information:
+• Name and address
+• E-mail address
+• Credit/Debit card number and expiration date if products are purchased from us
+• Credit Information
+• Billing address
+• Shipping address
+• Phone/fax number
+• Social Security Number (used for identification only)
+• Employer
+• Education
+• Product Information
+• Customer Experience Information for quality checking
+We may ask you to voluntarily provide us with information regarding your personal or
+professional interests, demographics, experience with our products, and contact preferences.
+This information may be combined with information about you which we gathered from other
+offline sources. We use the information to design offers customized to your interests. For
+example, you may receive a special offer to purchase new products, or receive information on
+services we believe will be of assistance to you in operation a web-based business. If you do
+not wish to receive information from us, privacy@myquickresponse.com
+Do you share my personal information?
 
 
-StoresOnline.com, Inc. and its affiliate, Netgateway ("StoresOnline," "we," "us" or "our"), maintain this Web site as a hosted electronic commerce solution and online shopping mall. StoresOnline is committed to ensuring your privacy online. Please read the following policy to understand how your personal information will be treated when you use our hosted Web site. This policy may change from time to time so we suggest that you check back periodically to review the most up-to-date version.
+We may provide information about you to parties we believe will provide you with items of
+interest. We may also share your information with our vendors. You may request not to have
+information provided to any party. If you do not wish to have us share information with our
+partners, privacy@myquickresponse.com, Subject: Partner Removal
+We may share anonymous, aggregated information about all our users with third parties.
+Communications with StoresOnline
+StoresOnline may periodically conduct individual voluntary customer surveys. We encourage
+our customers to participate in these surveys because they provide us with important information
+that helps us to improve the types of services we offer, and how we provide them to you.
+How is Personal Information Used?
+StoresOnline and participating vendors (unless you have requested to not have this information
+shared or receive such information) may use and share personal information in different ways,
+such as:
+• To provide information as is necessary to fulfill the fundamental purpose of our products and
+    services;
+• To provide information to parties we believe can provide services that would be beneficial in
+    support of your business.
+• To identify users of StoresOnline products and services that may be interested in offers of
+    goods and services that are suited to their needs and interests, both from StoresOnline and
+    from other parties;
+• In response to a lawful request issued by a court, government agency, or regulatory authority
+    with jurisdiction to make the request or to otherwise comply with legal requirements;
+• To companies that work for StoresOnline or others providing services through this Site, such
+    as fulfillment printers or delivery companies. These companies are required to keep the
+    information provided to them confidential.
+How is My Information Protected?
+We use the latest technologies to secure your transactions. We use highest industry standard
+encryption to protect financial transactions.
+What if I Have a Question or Problem?
+StoresOnline is committed to preserving the privacy of our customers. We have described the
+manner in which we collect and use personal information. We have provided you with a choice
+regarding our use of personal information. In the event you have concerns or questions
+regarding our use of personal information, or this policy, or if you have any problems arising out
+of performance pursuant to this policy, it should be directed to privacy@myquickresponse.com.
+How to Update or Delete Your Information
+If you want to request that we update or delete your personal information in regard to
+StoresOnline products and services, you can send them to privacy@myquickresponse.com,
+Subject: Change/Modify.
+If you have any questions about this privacy statement, you can contact:
 
-The privacy statement discloses the privacy practices for http://www.storesonline.com. 
 
-If you are a customer to our online mall, we may collect information from you regarding the type of browser that you are using, the stores that you visit while shopping in the mall, the products that you have considered buying or have actually bought and how you connected to the Internet. If you wish to purchase something from one of our merchants, we also collect information that will enable you to complete the transaction, such as your name, address and credit card information. Otherwise, our Web site logs IP addresses and browser types, but we do not link IP addresses to anything personally identifiable. You can browse our Web site without entering any personal information and therefore remain anonymous during your visit.
-
-**• What are cookies and how are they used?**
-
-Cookies are small data structures used by a Web site (server) to deliver data to a Web client (user), request that the client store information or, in certain circumstances, return the information to a Web site. Web sites can thus "remember" and keep track of information about users to facilitate their preferences for a particular site and to allow the use of user passwords. The Web site may deliver one or more cookies to the user. The user stores cookie data in one or more flat files on its local hard drive.
-
-With respect to our merchants, we generally use cookies for administrative purposes; for example, cookies help to remind us of our merchants' identities (through the use of passwords) and allow us to access your account information so that we may provide better service to you in the management of your online storefronts. Specifically, our site's registration form requires merchants to give us contact information (like your name and e-mail address) and financial information (like your account or credit card numbers). The merchant's contact information is used to contact the merchant when necessary. The merchant's financial information is used to bill the merchants for the use of our services. The cookies that we use do not contain information that will enable anyone to contact our merchants (or anyone else for that matter) via telephone, e-mail or "snail mail."
-
-With respect to our shoppers, we may use cookies to collect information from you related to the type of browser that you are using, the stores that you visit while shopping in the mall, the products that you have considered buying or have actually bought and how you connected to the Internet.
-
-Advertisers that serve ads to our online shopping mall may use their own cookies.
-
-If you are a merchant, the information that we collect from you is generally used in connection with the management and operation of your storefront, to provide you with certain services and to communicate separately with you if you experience a problem with our services or in the event we request that you fill out a survey in connection with internal research that we may conduct from time to time. If you prefer to not receive any communications from StoresOnline, please send an email to support@storesonline with REMOVE FROM MAILING LIST in the body of the letter.
-
-If you are a customer, the information that we collect from you is used for statistical calculations, marketing and cross-promotional programs or in connection with the completion of a sales transaction that you have requested from one of our merchants. We do not use any information collected from shoppers in our mall for any other reasons.
-
-**• Who is collecting the information that is requested from me?**
-
-When you are asked for personal information on this site, that request comes from StoresOnline alone, unless specifically stated otherwise. You should be aware that advertisers or Web sites that have links on our Web site might collect personally identifiable data about you. The information practices of those advertisers or Web sites are not covered by this privacy statement.
-
-**• Who has access to my personally indentifiable information?**
-
-As a general rule, we will not disclose your personally identifiable information to any third parties, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances set forth below.
-
-If you are a merchant, we will not disclose any of the information we collect from you to anyone without your permission. If you are a customer who makes a purchase from one or more of our merchants, the information obtained during your visit to those stores, and the information you give to complete the sale transaction, such as your credit card number and contact information, is provided to the merchants. Unless we turn over that information, it would be impossible to complete your sale transaction.
-
-Merchants who have a storefront in our online mall have separate privacy policy and data collection practices. We have no responsibility or liability for any of these independent privacy and data collection policies.
-
-**• What choices do I have with respect to the use of my personally identifiable information?**
-
-We do not sell or rent your information to anyone, except that we do provide certain information to our merchants so that your sales transactions can be completed online. Otherwise, we will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer.
-
-You also have choices with respect to our cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when cookies are set or to reject all cookies. You should be aware, however, that you will be unable to maintain a merchant storefront if you choose to reject all cookies.
-
-**• What if I need to change the personal information that I previously disclosed?**
-
-If you are a merchant with us, you may edit your account information at any time by using your password and StoresOnline ID.
-
-**• What security precautions are in place to protect my personal information?**
-
-Protecting your personal information is extremely important to us. StoresOnline does not intend to sell or rent your personal information, including any of the information you provided to us during the merchant registration process. If you are a merchant, your account information is password protected so that only you have access to the information contained in your account. We recommend that you never divulge your password to anyone. Also, remember to sign out of your account and close your browser window when you have finished managing your account. This will ensure that others cannot access your account (and the information contained in it) if you are sharing a computer with someone else or using a computer in a public place.
-
-Our site also allows you to transmit credit card information in order to complete a purchase transaction or for verification purposes. Every time you send us your credit card number and related billing and shipping information, we use the industry standard Secure Sockets Layer (SSL) technology to prevent the information from being intercepted by third parties. We also encrypt your credit card number when we store your order and whenever we transfer that information to our participating merchants. 
-
-Unfortunately, no data transmission over the Internet can be guaranteed as one hundred percent secure. As a result, while we do our best to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from our products or services, and you do so at your own risk. Once we receive your transmission, we make every effort to ensure its security on our systems.
-
-**• Who can I contact if I have questions about my online privacy?**
-
-If you have any questions or concerns regarding this statement, you should first contact:
-
-Customer Support   
-StoresOnline.com, Inc.  
-754 E Technology Ave  
-Orem , UT 84097  
-[support@storesonline.com](mailto:support@storesonline.com)
-
-**COPYRIGHT © STORESONLINE.COM, INC. 1999. All Rights Reserved.**
+StoresOnline
+Attn: Privacy Department
+privacy@myquickresponse.com
+Links
+Portions of our web site may contain links to other sites. Please be aware that we are not
+responsible for the content or privacy practices of such other sites. We encourage our uses to be
+aware when they leave our site and to read the privacy statements of each and every web site that
+collects personally identifiable information.
+Changes
+By using this site, you signify your assent to the StoresOnline on-line privacy policy.
+StoresOnline reserves the right to make changes to the privacy statement at is sole discretion.
+Such changes, if any, will be posted at this location, so we recommend that you occasionally
+check back to this posted privacy statement for changes.
