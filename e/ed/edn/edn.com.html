@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edn.com privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208210423id_/http%3A//www.e-insite.net/ednmag/index.asp%3Flayout%3DsiteInfo%26doc_id%3D26254) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edn.com privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603223257id_/http%3A//www.e-insite.net/ednmag/index.asp%3Flayout%3DsiteInfo%26doc_id%3D26254) for the most accurate reproduction.-->
 
 <html><head>
 <title>EDN Access</title>
@@ -30,10 +30,12 @@
 .rightnavhilite { color : #000000; font : bold 11px Arial, Helvetica, Geneva, sans-serif; background-color: #FFFFFF; TEXT-DECORATION: none}
 .search { color : #FFFFCC; font : bold 12px Arial, Helvetica, Geneva, sans-serif; background-color: #6699CC}
 .searchhead { color : #FFCC00; font : bold 12px Arial, Helvetica, Geneva, sans-serif; background-color: #CCCC99}
+.smallcopy { color : #000000; font : 8pt Arial, Helvetica, Geneva, sans-serif}
 .smallgray { color : #666666; font : 12px Arial, Helvetica, Geneva, sans-serif; text-transform : uppercase}
 .stockcopy { color : #000000; font : 10px Arial, Helvetica, Geneva, sans-serif; background-color: #FFCC99}
 .stockhead { color : #000000; font : bold 11px Arial, Helvetica, Geneva, sans-serif; background-color: #FFCC99}
 .table { color : #000000; font : 11px Arial, Helvetica, Geneva, sans-serif}
+.term { color : #000000; font : 11px Arial, Helvetica, Geneva, sans-serif; background-color: #FFE2C6}
 .tfoot { color : #000000; font : 10px Arial, Helvetica, Geneva, sans-serif}
 .topnav { color : #CCFFFF; font : bold 11px Arial, Helvetica, Geneva, sans-serif;  background-color: #006699}
 
@@ -61,6 +63,8 @@
 </style>
 </head>
 <body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" link="#003399" background="http://a330.g.akamai.net/7/330/2540/04a81974ba209c/www.e-insite.net/ednmag/contents/images/EDNtile2.gif">
+
+<img src="http://ad.doubleclick.net/ad/edn.rbi/;type=ros;sz=1x1;ord=37775582394866432?" border="0" width="1" height="1">
 <table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
   
 <tbody><tr> 
@@ -69,24 +73,19 @@
 <script language="javascript">
 <!--
 function checkSearch() { 
-	if (getSelectValue("SearchForm", "layout") == "business.com") { 		window.location="http://www.e-insite.net/ednmag/webdirectory.asp?qu=" + trim(document.SearchForm.text.value);
-      	return false;
-    	}
-    	else
-    	{	
+if (document.SearchForm.text.value == "")
+  {
+    window.alert("Please enter a text value to be searched for.");
+    return false;
+  }
      	document.SearchForm.text.value=trim(document.SearchForm.text.value.toLowerCase());
 	return true;
-    	}
 }
 
 function trim(psText) {
 	psText = psText.replace(/^[\s]+/g,"");
 	psText = psText.replace(/[\s]+$/g,"");
 	return psText;
-}
-
-function getSelectValue(psFormName, psFieldName) {
-	return eval('document.' + psFormName + '.' + psFieldName + '.options[document.' + psFormName + '.' + psFieldName + '.selectedIndex].value');
 }
 //-->
 </script>
@@ -96,8 +95,9 @@ function getSelectValue(psFormName, psFieldName) {
 </td>
 <td width="95%" height="20" align="center" class="date"> 
       <table width="97%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr align="right"> 
-          <td class="date" colspan="2"><script language="JavaScript">var now = new Date();
+        <tbody><tr> 
+          <td align="left"><a href="/index.asp?layout=staticwithoutads&amp;page=info&amp;doc_id=83536"><img src="http://a330.g.akamai.net/7/330/2540/9ca58c5bf9c294/www.e-insite.net/ednmag/contents/images/EDNReedElectronicsTop.gif" border="0" height="19" width="118"></a></td>
+          <td class="date" align="right"><script language="JavaScript">var now = new Date();
 var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
 var monNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
 document.write("" + dayNames[now.getDay()] + ", " + monNames[now.getMonth()] + " " + now.getDate() + ", " + now.getFullYear());</script>Wednesday, February 19, 2020</td>
@@ -107,26 +107,66 @@ document.write("" + dayNames[now.getDay()] + ", " + monNames[now.getMonth()] + "
   </tr>
   <tr> 
     <td width="95%" valign="middle" align="right" height="65" class="search">
-<img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="2" height="5"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+<img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="2" height="5">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
 <td width="50%" align="center" valign="middle">
 <form name="SearchForm" onsubmit="return checkSearch()" action="index.asp" method="get" style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px">
+<input type="hidden" name="layout" value="searchResults">
 
 <table width="100%" border="0" cellspacing="0" cellpadding="2"><tbody><tr align="center">
 <td>
 <span class="search">Search</span>
-<select name="layout" class="byline">
-<option value="searchAllEDN" selected="">Entire site</option>
-<option value="searchArticlesEDN">Articles</option>
-<option value="searchDesignIdeas">Design Ideas</option>
-<option value="searchWebEx">e-inSITE News</option>
-<option value="searchWires">News Wires</option>
-<option value="searchIndustry">Key Industry Sites - Google</option>
-<option value="searchNewProductsEDN">Products</option>
-<option value="searchEvents">Events</option>
-<option value="business.com">Web Directory - Business.com</option>
+<select name="content" class="byline">
+
+<option value="All" selected="">Entire site</option>
+<option value="Articles">Articles</option>
+<option value="DesignIdeas">Design Ideas</option>
+<option value="News">e-inSITE News</option>
+<option value="Wires">News Wires</option>
+<option value="Industry">Key Industry Sites - Google</option>
+<option value="Product">Products</option>
+<option value="Events">Events</option>
+
 </select></td></tr><tr align="center"><td>
 <span class="search">for:</span>
-<input type="text" size="10" name="text" align="middle" class="byline">
+<script language="javascript">
+function stripQts2(name){
+var newName = "";
+var test = name.split(unescape("%27%27")); //split the field on ascii code for double ''
+for(i=0;i<test.length;i++){
+	if(i!=(test.length - 1)){
+		
+		newName = newName + test[i] + "'"  // put it back together with an "'" 
+	}
+	else{
+		newName = newName + test[i] // make sure end of string has no "'"
+	}
+}
+	userQuery = newName;
+}
+
+var tempQuery="";
+userQuery = "";
+
+for (i = 0; i < tempQuery.length; i++)
+  if ((tempQuery.charAt(i)=='%') &&
+     (tempQuery.charAt(i+1)=='2') &&
+     (tempQuery.charAt(i+2)=='2'))
+       {userQuery = userQuery + '&quot;';
+        i=i+2;
+       }
+  else
+       {if (tempQuery.charAt(i)=="+")
+	     userQuery = userQuery + " "
+		else
+		 userQuery = userQuery + tempQuery.charAt(i);
+       }
+
+userQuery=unescape(userQuery);
+stripQts2(userQuery);
+document.write('<input type=text name=text size=18 align=middle class=byline value="' + userQuery + '" >')
+</script><input type="text" name="text" size="18" align="middle" class="byline" value="">
 <input type="submit" value="Go" align="middle" class="byline">
 </td></tr></tbody></table></form></td><td width="1" bgcolor="#003366"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="2"></td><form method="POST" action="http://e-insite.freetradezone.com/cgi-bin/db2www/cpartsearch.d2w/hdrsearch"></form><td width="50%" align="center"><span class="search">Find a Part&nbsp;&nbsp;<a href="http://e-insite.freetradezone.com/cgi-bin/db2www/cpartsearch.d2w/hdrsearch" class="byline"><font color="#ffffcc">Advanced</font></a></span><br><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" height="4"><br>
 <span class="byline"><font color="#ffffcc">Enter&nbsp;Part&nbsp;#:&nbsp;<input type="text" size="10" name="part">
@@ -142,7 +182,8 @@ document.write("" + dayNames[now.getDay()] + ", " + monNames[now.getMonth()] + "
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
 <tbody><tr> 
 <td class="breadcrumb" width="42%">You are here &gt; <a href="/ednmag/" class="breadcrumb">Home</a>&nbsp;
-&gt;&nbsp;Privacy Policy<script language="JavaScript">
+&gt;&nbsp;Privacy Policy
+<script language="JavaScript">
 var filename = document.location.pathname;
 if (filename == "/commvergemag/login.asp")
 {
@@ -156,7 +197,8 @@ else
 {
 document.write ("");
 }
-</script></td><td align="right" height="20" class="topnav" width="58%"><a href="index.asp?layout=archiveTOC" class="topnav">Archives</a>&nbsp;|&nbsp;<a href="index.asp?layout=eventTOC" class="topnav">Events</a>&nbsp;|&nbsp;<a href="http://www.ednasia.com/" class="topnav">EDN Asia</a>&nbsp;|&nbsp;<a href="http://www.ednc.com.cn/" class="topnav">EDN China</a>&nbsp;|&nbsp;<a href="http://www.cahners-japan.com/" class="topnav">EDN Japan</a>&nbsp;|&nbsp;<a href="index.asp?layout=siteInfo&amp;doc_id=37008" class="topnav">EDN Europe</a>&nbsp;|&nbsp;<a href="http://www.reed4success.com/default.asp?magid=002&amp;promocode=WBA01EB4" target="_blank" class="topnav">Subscribe</a></td></tr></tbody></table></td>
+</script></td><td align="right" height="20" class="topnav" width="58%"><a href="http://www.ednasia.com/" class="topnav">EDN Asia</a>&nbsp;|&nbsp;<a href="http://www.ednc.com.cn/" class="topnav">EDN China</a>&nbsp;|&nbsp;<a href="http://www.cahners-japan.com/" class="topnav">EDN Japan</a>&nbsp;|&nbsp;<a href="index.asp?layout=siteInfo&amp;doc_id=37008" class="topnav">EDN Europe</a>
+&nbsp;|&nbsp;<a href="http://www.commvergemag.com" class="topnav">CommVerge</a><br><a href="index.asp?layout=contentArchive" class="topnav">Archives</a>&nbsp;|&nbsp;<a href="http://www.reed4success.com/default.asp?magid=002&amp;promocode=WBA01EB4" target="_blank" class="topnav">Subscribe</a>&nbsp;|&nbsp;<a href="index.asp?layout=eventTOC" class="topnav">Events</a></td></tr></tbody></table></td>
 </tr>
   
 <tr> 
@@ -211,75 +253,6 @@ document.write ("");
     <td class="leftnav" height="4"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td class="leftnavhilite" height="1"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
-  </tr>
-  <tr> 
-    <td class="leftnavhead" height="24">Tools &amp; Services</td>
-  </tr>
-  <tr> 
-    <td class="leftnavhilite" height="1"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
-  </tr>
-</tbody></table>
-<table align="center" border="0" cellpadding="2" cellspacing="0" width="95%">
-  <tbody><tr> 
-    <td class="leftnav" height="4"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
-  </tr>
-<tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31452&amp;spacedesc=tools" class="leftnav">Acronyms and Abbreviations</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="http://www.bh.com/e-insitebooks/default.asp?ref=4404EDN" class="leftnav">Bookstore</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31494&amp;spacedesc=tools" class="leftnav">Buy Stuff</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31498&amp;spacedesc=tools" class="leftnav">CarEEr Zone</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31861&amp;spacedesc=tools" class="leftnav">Design Ideas Software Center</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="http://www.manufacturing.net/edn/index.asp?layout=ecardsHome" class="leftnav">eCards</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31852&amp;spacedesc=tools" class="leftnav">EDN Supplements</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="index.asp?layout=industryLinks&amp;spacedesc=tools" class="leftnav">Industry Links</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="http://www.e-insite.net/ednmag/subscribe.asp" class="leftnav">Newsletter</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="index.asp?layout=newProductsEDN&amp;spacedesc=tools" class="leftnav">Products</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="http://rscahners.ims.ca/ednmag/webcard1.asp" class="leftnav">Reader Service</a></td>
-  </tr>
-  <tr> 
-    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
-    <td class="leftnav"><a href="index.asp?layout=webexArchive&amp;spacedesc=tools" class="leftnav">Web Exclusives</a></td>
-  </tr>
-<tr> 
-    <td class="leftnav" height="4"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
-  </tr>
-</tbody></table>
-
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
     <td class="leftnavhilite" height="1"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
@@ -356,7 +329,133 @@ Technical Resources</td>
 
 
 
-<div align="center"><a href="http://www.e-insite.net/index.asp?layout=staticwithoutads&amp;page=info&amp;doc_id=83536"><img src="http://a330.g.akamai.net/7/330/2540/edfd7616fcfd81/www.e-insite.net/ednmag/contents/images/EDNcahnersleftnav.gif" vspace="5" width="96" height="25" border="0"></a></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td class="leftnavhilite" height="1"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td class="leftnavhead" height="24">Tools &amp; Services</td>
+  </tr>
+  <tr> 
+    <td class="leftnavhilite" height="1"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table align="center" border="0" cellpadding="2" cellspacing="0" width="95%">
+  <tbody><tr> 
+    <td class="leftnav" height="4"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+<tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31452&amp;spacedesc=tools" class="leftnav">Acronyms and Abbreviations</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="http://www.bh.com/e-insitebooks/default.asp?ref=4404EDN" class="leftnav">Bookstore</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31494&amp;spacedesc=tools" class="leftnav">Buy Stuff</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31498&amp;spacedesc=tools" class="leftnav">CarEEr Zone</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31861&amp;spacedesc=tools" class="leftnav">Design Ideas Software Center</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="http://www.manufacturing.net/edn/index.asp?layout=ecardsHome" class="leftnav">eCards</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="index.asp?layout=siteInfo&amp;doc_id=31852&amp;spacedesc=tools" class="leftnav">EDN Supplements</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="index.asp?layout=industryLinks&amp;spacedesc=tools" class="leftnav">Industry Links</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="http://www.e-insite.net/ednmag/subscribe.asp" class="leftnav">Newsletter</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="index.asp?layout=newProductsEDN&amp;spacedesc=tools" class="leftnav">Products</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="http://rscahners.ims.ca/ednmag/webcard1.asp" class="leftnav">Reader Service <br>(North America)</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="http://rscahners.ims.ca/EDNEuropemag/webcard1.asp" class="leftnav">Reader Service <br>(Europe)</a></td>
+  </tr>
+  <tr> 
+    <td class="leftnav" valign="top" width="7"><img src="http://a330.g.akamai.net/7/330/2540/deaeb692b5cf16/www.e-insite.net/ednmag/contents/images/EDNtri.gif" width="8" height="9"></td>
+    <td class="leftnav"><a href="index.asp?layout=webexArchive&amp;spacedesc=tools" class="leftnav">Web Exclusives</a></td>
+  </tr>
+<tr> 
+    <td class="leftnav" height="4"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+
+<br>
+<!-- updated -->
+<script language="JavaScript1.2">
+<!--// 
+function openWindow()
+{
+  with (document.termForm)
+  {
+    term.value = escape(term.value);
+    newURL="index.asp?layout=term&brand=ednmag&term="+term.value;
+  }
+  newwindow=open(newURL,"termWindow","scrollbars=yes,toolbar=no,directories=no,menubar=no,location=no,resizable=yes,status=no,width=800,height=625,screenX=0,screenY=0");
+
+  return false;
+}
+//-->
+</script><table width="100%" border="0" cellspacing="0" cellpadding="0" class="term">
+<tbody><tr><td width="100%" align="left" valign="top" colspan="2"><div align="center"><img src="http://a330.g.akamai.net/7/330/2540/f513939d45a5cc/www.e-insite.net/ednmag/contents/images/dark_grey_rule.gif" height="1" width="98%"></div>
+    <span style="font:bold 13px Arial, Helvetica, Geneva, sans-serif"><center>Technical Encyclopedia</center></span><div align="center"><img src="http://a330.g.akamai.net/7/330/2540/f513939d45a5cc/www.e-insite.net/ednmag/contents/images/dark_grey_rule.gif" height="1" width="98%"></div></td>
+</tr>
+<tr> 
+  <td width="100%" colspan="2" height="5"><img src="http://a330.g.akamai.net/7/330/2540/94fb0c3ed8a8f9/www.e-insite.net/ednmag/contents/images/1pt.gif" height="5"></td>
+</tr>
+<tr>
+  <td width="100%" valign="top" align="left" colspan="2"><span class="byline"><b>&nbsp;More than 20,000<br>&nbsp;technical terms defined</b></span></td>
+</tr>
+<tr> 
+  <td width="100%" colspan="2" height="10"><img src="http://a330.g.akamai.net/7/330/2540/94fb0c3ed8a8f9/www.e-insite.net/ednmag/contents/images/1pt.gif" height="10"></td>
+</tr>
+<form action="#" name="termForm" method="get" onsubmit="return openWindow()"></form>
+<tr>
+  <td colspan="2">&nbsp;<input type="text" name="term" size="13">&nbsp;<input type="submit" value="go"></td>
+</tr>
+
+<tr> 
+  <td width="100%" colspan="2" height="10"><br><img src="http://a330.g.akamai.net/7/330/2540/94fb0c3ed8a8f9/www.e-insite.net/ednmag/contents/images/1pt.gif" height="10"></td>
+</tr>
+<tr>
+  <td width="5"><img src="http://a330.g.akamai.net/7/330/2540/94fb0c3ed8a8f9/www.e-insite.net/ednmag/contents/images/1pt.gif" width="5"></td>
+  <td align="left" valign="top" class="byline">Your online source of technical terminology and definitions.</td>
+</tr>
+<tr> 
+  <td width="100%" colspan="2" height="10"><img src="http://a330.g.akamai.net/7/330/2540/94fb0c3ed8a8f9/www.e-insite.net/ednmag/contents/images/1pt.gif" height="10"></td>
+</tr>
+<!-- tr> 
+  <td width="100%" colspan=2 height=1><p align=center><img src="contents/images/dark_grey_rule.gif" height="1" width="98%"></p></td>
+</tr -->
+
+
+
+<tr> 
+  <td width="100%" colspan="2" height="1"><p align="center"><img src="http://a330.g.akamai.net/7/330/2540/f513939d45a5cc/www.e-insite.net/ednmag/contents/images/dark_grey_rule.gif" height="1" width="98%"></p></td>
+</tr>
+</tbody></table>
+<br>
 
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -384,31 +483,85 @@ Sign up today for special features, including free e-letters, access to archives
 
 </td></tr></tbody></table>
 
+
 <br>
-<center><script language="JavaScript1.2" src="http://instataffiliate.com/links/edntq.js"></script></center><br><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="132" height="1"><br></td>
+<center>
+<script language="JavaScript1.2" src="http://instataffiliate.com/links/edntq.js"></script></center><br><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="132" height="1"><br></td>
     <td valign="top" width="10" bgcolor="#ffffff"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="10" height="10"></td>
     <td valign="top" width="100%" bgcolor="#ffffff"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="1" height="10"><br><table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr><td class="centernavhead" height="24" width="100%">&nbsp;Privacy Policy</td></tr></tbody></table>
 
 
-
 <br>
-<span class="copy"><span class="head">Privacy Policy <br>
-V.1.2.3 January, 2000 </span><br><br>
-
-Privacy Policy for Reed Business Information, a division of Reed Elsevier Inc. publications.<br><br>
-
-This Privacy Policy for EDN, a publication of Reed Business Information, a division of Reed Elsevier Inc., will be continuously assessed against new technologies, business practices and our customers' changing needs. We may change our privacy practices from time to time. If we make any changes, we'll update this privacy statement accordingly (the date of the most recent change is displayed at the top of this statement).<br><br>
-
-Many of our publications are available free of charge or may be subscribed to at reduced rates because they are supported by advertisers. Qualification and registration questionnaires and other processes ensure that our advertisers reach the appropriate audiences. We may use the information we collect from you individually or aggregated with other user's information to improve our publications, to customize these publications, and to notify you about updates or new features. In addition, we may use information we collect to notify you of third-party products and services in which you may be interested.In addition to the options made available to you, if any, when we collect information, you may elect to 'opt out' of having your individually identifiable information shared with third-parties that are not affiliated with Reed Business Information (except for uses specifically requested by you and legitimate business uses). Separate third-party opt out request for each medium (mail or telephone or e-mail) must be submitted in writing to our Privacy Manager in one of the following ways:<br><br>
-
-Attention: Privacy Manager<br>
-Address: Reed Business Information, 1350 E. Touhy Avenue, Des Plaines, IL 60018<br>
-E-Mail: <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a><br>
-Phone: (877) 504-1273<br>
-Fax: (847) 390-2377<br><br>
-
-We will update the specific records related to your request as promptly as practical. Note, however, that you may receive additional communications from third parties after you submit your request while we process the request. Additionally, your information may exist in multiple lists within the company and our technology limits the processing of opt out requests to the specific list source. We will continuously assess our responsiveness to opt out requests against new technologies, business practices and our customers' needs.<br><br></span><br><br><br><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="458" height="1"></td>
+<span class="copy"><p><b>Privacy Policy, December 19, 2002
+</b></p><p><b>Overview<br></b>This Privacy Policy describes the policies of Reed Business 
+Information ("<em><strong>RBI</strong></em>" or "<em><strong>we</strong></em>"), a division of Reed Elsevier Inc. (<b><i>"Reed Elsevier"</i></b>), regarding the collection, use, 
+disclosure and protection of the following types of information:
+</p><ul><li>Information obtained when you and other users ("<b><i>you</i></b>"
+or "<b><i>Users</i></b>") visit the web site (the "<strong><em>Site</em></strong>") <a href="http://www.e-insite.net/ednmag/">http://www.e-insite.net/ednmag/</a> 
+</li><li>Information obtained through e-mail communications with you related to the Site.</li>          </ul>
+<p>This privacy policy does not apply to information that we may collect from you by other means 
+(including offline) or from other sources. Your use of this Site constitutes your acceptance of all of the terms and conditions contained in this Privacy Policy and your consent to any action we take with respect to your information that is in compliance with this Privacy Policy.</p>
+<p>We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy 
+Policy means that you accept the changes.</p>
+<p>If you do not agree to this Privacy Policy, as modified from time to time, please do not visit this Site.</p>
+<p>Information We Collect and How We Collect It</p>
+<p><strong>General<br></strong>We require you to provide us with certain information about yourself when you register with this Site and when you request products and services. We also collect information from you when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site, such as moderated discussions and bulletin boards.</p>      
+<p>The information we collect may include information from which you may be personally identified ("<strong><em>Personally Identifiable Information</em></strong>"), such as name, postal address, telephone number, fax number and e-mail address, and also may include certain business information, such as employer name, occupation, job function, job title and buying information (<i>e.g.</i>, preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
+</p><p><strong>Automatic Data Collection <br> 
+  </strong>When you visit this Site, we may collect the IP address of your computer.</p>
+<p>We also automatically record other information that identifies your computer to this Site and tracks your behavior on the Site. For example, we may record how many times you visit this Site and your navigation within the Site. We do not collect Personally Identifiable Information in this manner; however, if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.</p>
+<p>Methods used to collect this information may include "cookies" and "clear GIFs" (also known 
+as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message.</p>
+<p>Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. You may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at <a href="http://www.privacychoices.org">www.privacychoices.org</a>.</p>
+<p><b>How We Use Your Information</b><br>
+We use Personally Identifiable Information that we collect on this Site for the following purposes:
+</p><ul><li>To provide you with this Site and other products and services, such as electronic and print publications and newsletters.
+</li><li>To respond to your inquiries and contact you about changes regarding the Site.
+</li><li>To provide you with e-mail, fax and other notices (such as expiration and renewal notices) and inquiries regarding your account and the products or services that you are receiving, and for billing and collection purposes.
+</li><li>For any other purpose disclosed at the time the information is collected or to which you consent.
+</li><li>As otherwise specifically described in this Privacy 
+  Policy.</li>       </ul>We also may use your information to better understand the 
+needs of our Users and to improve our Site. For example, we may use this 
+information to determine what portions of the Site are most popular and the 
+demographics of our Users generally. Cookies and other User information also 
+enable us to customize your experience on the Site.
+<p></p>
+<p>We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.</p>
+<p><b>Newsletters and Offers<br></b>We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI or other Reed Elsevier divisions. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services. All of these communications will include instructions explaining how you can request that we not send you ("<b><i>opt out</i></b>" of) future communications of the same type.</p>
+<p>We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from 
+this Web Site at any time by sending an e-mail to <a href="mailto:privacymanager@cahners.com">privacymanager@reedbusiness.com</a> 
+with the subject line "<em><strong>opt out – third party.</strong></em>"</p>
+<p><strong>Our Disclosure of Your Information<br></strong>
+We will not disclose your information to anyone outside of RBI or other Reed Elsevier divisions, except as described in this section.</p>
+<p>We may disclose aggregated anonymous statistics about many Users to advertisers, content and service providers and other affiliated and unaffiliated companies.</p>
+<p>We sometimes engage third parties to perform services for us, including in connection with this Site, that require us to disclose Users' Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services.</p>
+<p>We also may disclose your information to third parties that wish to market products or services that may be of interest to you. We will require these parties to keep any Personally Identifiable Information provided by us confidential and use it only to market and provide their products or services or with your approval. When you register with and provide information to this Site, you will be given an opportunity to opt out of our disclosing your Personally Identifiable Information as described in this paragraph. You may also opt out of such disclosures at any time by sending an e-mail to <a href="mailto:eletters@cahners.com">eletters@reedbusiness.com</a> with the subject line "<strong><em>do not disclose.</em></strong>"</p>
+<p>The only other times we may disclose your Personally Identifiable Information collected on this Site are as follows:</p><ul><li>In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site, we may transfer some or all User information, including Personally Identifiable Information, to the successor company.
+</li><li>We will disclose your Personally Identifiable Information when we believe such 
+disclosure is required by law or for the protection of persons or property.
+</li><li>We may disclose your Personally Identifiable Information with your consent, as well as when disclosure is necessary to accomplish the purpose for which you provide it. For example, when you request information from advertisers in the "Reader Services" section of our publications, we will disclose your Personally Identifiable Information to the advertisers you specify.</li></ul>
+<strong>Security</strong><br>
+We use reasonable 
+security safeguards to protect Personally Identifiable Information we collect on 
+this Site from unauthorized access, use, modification or disclosure. However, 
+due to the design of the Internet and other factors outside of our control, we 
+cannot guarantee that communications between you and our servers will be free 
+from unauthorized access by third parties.
+<p></p>
+<p><b>Right to Access and Change Information<br></b>
+You may view and update information that you previously submitted to this Site by <b>visiting the registration page for this Site or sending an e-mail to <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a></b>. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.</p>
+<p><b>Opt-Out<br></b>
+This Privacy Policy describes certain opportunities you will have to opt out of our using or disclosing your Personally Identifiable Information.</p>
+<p>Typically, an opt out request will be specific to a particular service or product. For example, if you opt out of receiving third party offers from this Site, you may continue to receive third party offers from other RBI web sites or publications not associated with this Site. Similarly, opting out of our disclosing Personally Identifiable Information collected on this Site will not 
+apply to information collected on other RBI web sites. We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you wish to opt out of the use or disclosure of Personally Identifiable Information collected by more than one RBI web site, the best way of accomplishing this is to provide a separate opt out request for each web site, product or service.</p>
+<p>Any opt out request will only be effective after a reasonable period of time for processing.</p>
+<p><b>Links<br></b>This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.</p>
+<p><b>This Site is operated by:</b><br>
+Reed Business Information<br>
+360 Park Avenue South<br>
+New York, NY 10010</p>
+<p>Email: <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a></p></span><br><br><br><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="458" height="1"></td>
     <td valign="top" width="10" bgcolor="#ffffff"><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="10" height="10"></td>
     <td width="150" valign="top" class="rightnav" bgcolor="#ffffff"><table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
           <tbody><tr bgcolor="#FFFFFF"> 
@@ -432,41 +585,44 @@ Welcome, Guest.</span></td></tr>
 </td>
           </tr>
           </tbody></table>
+
+
 <br>
 <!--.-->
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
 <td valign="top" align="center">
 
-<iframe src="http://ad.doubleclick.net/adi/edn.rbi/;type=cegbutton;pos=2;lay=siteInfo;desc=26254;sz=125x125;ord=375987103184896?" name="ad2" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/edn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=siteInfo;desc=26254;sz=125x125;ord=375987103184896?">
+<iframe src="http://ad.doubleclick.net/adi/edn.rbi/;type=cegbutton;pos=4;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775591323136768?" name="ad4" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/edn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775591323136768?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/edn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=siteInfo;desc=26254;sz=125x125;ord=375987103184896?">
-<img src="http://ad.doubleclick.net/ad/edn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=siteInfo;desc=26254;sz=125x125;ord=375987103184896?" border=0 width="125" height="125"></A>
+<a href="http://ad.doubleclick.net/jump/edn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775591323136768?">
+<img src="http://ad.doubleclick.net/ad/edn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775591323136768?" border=0 width="125" height="125"></A>
 </noscript>
-</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/edn.rbi/;type=cegbutton;pos=3;lay=siteInfo;desc=26254;sz=125x125;ord=3759873452130560?" name="ad3" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/edn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=siteInfo;desc=26254;sz=125x125;ord=3759873452130560?">
+</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/edn.rbi/;type=cegbutton;pos=1;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775591369012736?" name="ad1" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/edn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775591369012736?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/edn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=siteInfo;desc=26254;sz=125x125;ord=3759873452130560?">
-<img src="http://ad.doubleclick.net/ad/edn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=siteInfo;desc=26254;sz=125x125;ord=3759873452130560?" border=0 width="125" height="125"></A>
+<a href="http://ad.doubleclick.net/jump/edn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775591369012736?">
+<img src="http://ad.doubleclick.net/ad/edn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775591369012736?" border=0 width="125" height="125"></A>
 </noscript>
-</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/edn.rbi/;type=cegbutton;pos=1;lay=siteInfo;desc=26254;sz=125x125;ord=375987459064064?" name="ad1" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/edn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=siteInfo;desc=26254;sz=125x125;ord=375987459064064?">
+</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/edn.rbi/;type=cegbutton;pos=3;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775592120401920?" name="ad3" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/edn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775592120401920?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/edn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=siteInfo;desc=26254;sz=125x125;ord=375987459064064?">
-<img src="http://ad.doubleclick.net/ad/edn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=siteInfo;desc=26254;sz=125x125;ord=375987459064064?" border=0 width="125" height="125"></A>
+<a href="http://ad.doubleclick.net/jump/edn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775592120401920?">
+<img src="http://ad.doubleclick.net/ad/edn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=37775592120401920?" border=0 width="125" height="125"></A>
 </noscript>
-</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/edn.rbi/;type=cegbutton;pos=4;lay=siteInfo;desc=26254;sz=125x125;ord=375987854574080?" name="ad4" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/edn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=siteInfo;desc=26254;sz=125x125;ord=375987854574080?">
+</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/edn.rbi/;type=cegbutton;pos=2;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=3777559422991104?" name="ad2" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/edn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=3777559422991104?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/edn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=siteInfo;desc=26254;sz=125x125;ord=375987854574080?">
-<img src="http://ad.doubleclick.net/ad/edn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=siteInfo;desc=26254;sz=125x125;ord=375987854574080?" border=0 width="125" height="125"></A>
+<a href="http://ad.doubleclick.net/jump/edn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=3777559422991104?">
+<img src="http://ad.doubleclick.net/ad/edn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=;kw=siteinfo;desc=;kw=26254;sz=125x125;ord=3777559422991104?" border=0 width="125" height="125"></A>
 </noscript>
 </iframe><br><br></td></tr></tbody></table>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="3">
 <tbody><tr> 
   <td align="center">
@@ -474,7 +630,8 @@ Welcome, Guest.</span></td></tr>
      
 </td>
 </tr>
-</tbody></table><br><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="150" height="1"></td>
+</tbody></table>
+&nbsp;<br><img src="http://a330.g.akamai.net/7/330/2540/80bd2f4a2941d3/www.e-insite.net/ednmag/contents/images/pixel.gif" width="150" height="1"></td>
   </tr>
 
   <tr> 
@@ -483,7 +640,9 @@ Welcome, Guest.</span></td></tr>
 <td class="topnav" height="20"><a href="index.asp?layout=siteInfo&amp;doc_id=28978" class="topnav">
 About Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="index.asp?layout=siteInfo&amp;doc_id=30955" class="topnav">
-Edit/Ad Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="topnav" href="subscribe.asp?title=Register&amp;regopt=logout">
+Editorial Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="index.asp?layout=siteInfo&amp;doc_id=30955" class="topnav">
+Marketing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class="topnav" href="subscribe.asp?title=Register&amp;regopt=logout">
 Register</a><a class="topnav" href="login.asp?title=Register&amp;regopt=logout">/Log In</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="index.asp?layout=siteInfo&amp;doc_id=31091" class="topnav">
@@ -491,7 +650,7 @@ Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="http://www.reed4success.com/default.asp?magid=002&amp;promocode=WBA01EB4" class="topnav">Free Subscriptions</a></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr align="center"> 
-<td align="middle" class="footer"><br>©&nbsp;2002&nbsp;<a href="http://www.reedbusiness.com/" class="footer">Reed Business Information</a><br>Use of this website is subject to its <a href="index.asp?layout=siteInfo&amp;doc_id=26250" class="footer">terms of use.</a><br>
+<td align="middle" class="footer"><br>©&nbsp;2003&nbsp;<a href="http://www.reedbusiness.com/" class="footer">Reed Business Information</a><br>Use of this website is subject to its <a href="index.asp?layout=siteInfo&amp;doc_id=26250" class="footer">terms of use.</a><br>
 <a href="index.asp?layout=siteInfo&amp;doc_id=26254" class="footer">Privacy Policy</a><br><br></td></tr></tbody></table></td>
   </tr>
 
