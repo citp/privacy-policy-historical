@@ -1,20 +1,46 @@
-> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413223555id_/http%3A//www.oxygen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217221152id_/http%3A//www.oxygen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Oxygen
 
-**Oxygen's Online Privacy Policy**
+|  You are here:  [oxygen](https://web.archive.org/) > privacy  
+---  
+|  |  |  |   
+---|---|---|---|---  
+|   
+| |   
+---|---  
+| [entertainment](https://web.archive.org/topic/ent/)  
+| [family & home](https://web.archive.org/topic/family/)  
+| [health & fitness](https://web.archive.org/topic/health/)  
+| [money & work](https://web.archive.org/topic/money/)  
+| [relationships & sex](https://web.archive.org/topic/sex/)  
+| [self-discovery](https://web.archive.org/topic/self/)  
+| [sports](https://web.archive.org/topic/sports/)  
+| [think & act](https://web.archive.org/topic/act/)  
+| [about Oxygen](https://web.archive.org/basics/about/)  
+| [boards & chats](https://web.archive.org/basics/boardschat/)  
+| [e-cards](http://www.americangreetings.oxygen.com/)  
+| [games](https://web.archive.org/basics/games/)  
+| [Oxygen TV](https://web.archive.org/basics/oxytv/)  
+| [shopping](https://web.archive.org/basics/shop/)  
+| [video gallery](https://web.archive.org/basics/video/)  
+  
+|  |   
+---  
+  
+Oxygen's Online Privacy Policy
 
 We are committed to protecting the privacy and security of the users of our sites.
 
 This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
 
-If you have any questions or concerns about our privacy policy, please send us an e-mail to: [info@oxygen.com](mailto:info@oxygen.com).
+If you have any questions or concerns about our privacy policy, please send us an e-mail to: [privacy@oxygen.com](mailto:privacy@oxygen.com).
 
- **Scope Of Privacy Policy**
+Scope Of Privacy Policy
 
-This policy applies to your use of all of the sites and services owned or operated by Oxygen Media, Inc., and affiliated companies (collectively "Oxygen" or "we," "us," or "our"), including oxygen.com, Moms Online, Thriveonline, Electra, ka-Ching, The Lab, Oprah.com, Breakup Girl, Girls On, O2 Simplify and any other site that we may own or operate currently or in the future (collectively, the "Oxygen Sites"). Unless we say otherwise, all references to the Oxygen Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Oxygen Sites only links.
+This policy applies to your use of all of the sites and services owned or operated by Oxygen Media, Inc., and affiliated companies (collectively "Oxygen" or "we," "us," or "our"), including oxygen.com, Moms Online, ThriveOnline, Trackers, ka-Ching, Oxygen Sports, Oprah.com, Girls On, O2 Simplify and any other site that we may own or operate currently or in the future (collectively, the "Oxygen Sites"). Unless we say otherwise, all references to the Oxygen Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Oxygen Sites only links.
 
- **Personal Identification Information**
+Personal Identification Information
 
 We will never intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, credit card number or e-mail address) to any third party without having received your permission. We may request personal identification information from you in connection with your use of, or participation in, our contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors' requests for free products or services or additional information, and in connection with other activities, services or resources we make available on any of our sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us.
 
@@ -28,15 +54,15 @@ We have the following exceptions to these policies: We will release specific inf
 
 Please note that if you give out personal information online -- for example, through a message board or chat room -- that information can be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
 
- **Privacy of Children**
+Privacy of Children
 
 Oxygen understands that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
 
 The Oxygen Sites are not directed to children under the age of 13. Oxygen prohibits registration by children under the age of 13 for all interactive portions of the Sites including chats and message boards. Oxygen knowingly will not collect personally identifiable information from children under 13.
 
-Note to Parents. If you have any concerns about the Oxygen Sites or their related services, please e-mail: [info@oxygen.com](mailto:info@oxygen.com).
+Note to Parents. If you have any concerns about the Oxygen Sites or their related services, please e-mail: [privacy@oxygen.com](mailto:privacy@oxygen.com).
 
-**Non-Personal Identification Information And The Use Of Cookie Technology**
+Non-Personal Identification Information And The Use Of Cookie Technology
 
 We collect non-personal identification information through the use of "cookie" technology and/or IP address tracking. Non-personal identification information might include the browser you use, the type of computer, the operating systems, the Internet service providers and other similar information. Our system also automatically gathers information about the areas you visit on our sites and about the links you may select from within our site to other areas of the World Wide Web or elsewhere online.
 
@@ -46,24 +72,24 @@ We may share this aggregate statistical information with our partners, suppliers
 
 Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Oxygen Sites, such as message boards, chats, shopping, contests and game areas, may not function properly.
 
- **Links To Other Sites**
+Links To Other Sites
 
-Users will find advertising or other contents on our sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. In many cases, the links represent cooperative projects or are mutual links established with persons or entities connected with our sites. Although we initially visit the sites or services that are so linked, we do not control the contents or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy (policies) at all. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information.
+Users will find advertising or other contents on our sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensorsand other third parties. In many cases, the links represent cooperative projects or are mutual links established with persons or entities connected with our sites. Although we initially visit the sites or services that are so linked, we do not control the contents or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy (policies) at all. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information.
 
- **Security Policy**
+Security Policy
 
 Protecting your privacy and your information is a top priority. We have taken careful measures to secure both your information and our physical premises. We exercise great care in providing secure transmission of your information from your PC to our servers. Our secure server software encrypts information, ensuring that all Internet transactions remain private (unless sent by an unsecured means, such as e-mail).
 
- **Access To/Correction of Information**
+Access To/Correction of Information
 
-If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at [myinfo@oxygen.com](mailto:myinfo@oxygen.com). Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to [newinfo@oxygen.com](mailto:newinfo@oxygen.com?subject=Privacy%20Policy).
+If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at [privacy@oxygen.com](mailto:privacy@oxygen.com). Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to [privacy@oxygen.com](mailto:privacy@oxygen.com?subject=Privacy%20Policy).
 
- **Choice/Opt-Out**
+Choice/Opt-Out
 
 If you "opt-in" to receive information from Oxygen or others, you can change your mind later. If at any time you would like to stop receiving such information, you can let us know by sending an e-mail stating your preference to [optout@oxygen.com](mailto:optout@oxygen.com).
 
- **Your Acceptance of These Terms**
+Your Acceptance of These Terms
 
 By using any of the Oxygen Sites, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Oxygen Sites following the posting of changes to these terms will mean that you accept those changes.
 
-(Last modified on January 5, 2001.)
+(Last modified on October 29, 2001.)
