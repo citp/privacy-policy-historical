@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theganggreen.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201021753id_/http%3A//www.theganggreen.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theganggreen.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603154055id_/http%3A//www.theganggreen.com/about/privacy.php) for the most accurate reproduction.*
 
 # TheGangGreen.Com - Privacy Statement
 
