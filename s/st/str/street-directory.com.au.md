@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the street-directory.com.au privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209154104id_/http%3A//www.street-directory.com.au/administrative/map_admin.cgi%3Ffile%3D/administrative/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the street-directory.com.au privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608235743id_/http%3A//www.street-directory.com.au/administrative/map_admin.cgi%3Ffile%3D/administrative/privacypolicy.htm) for the most accurate reproduction.*
 
-# Administrative Policies, Streetdirectory.com
+# Administrative Policies, Streetdirectory.com.au
 
-**Virtual Map and its site Streetdirectory.com** pledge to protect their customers’ and users’ privacy online.  This page explains the policy.  The policy may be updated periodically.  You can contact [webmaster@virtual-map.com](mailto:webmaster@virtual-map.com) for more information as necessary. 
+**Virtual Map and its site Streetdirectory.com** pledge to protect their customers’ and users’ privacy online.  This page explains the policy.  The policy may be updated periodically.  You can contact [webmaster@virtualmap.com.au](mailto:webmaster@virtualmap.com.au) for more information as necessary. 
 
 ### Collection of personal information
 
-**Virtual Map ([www.virtual-map.com](http://www.virtual-map.com/)) and Streetdirectory.com ([www.streetdirectory.com](http://www.streetdirectory.com/)) **do **not** collect any personal information of its sites’ users unless specifically stated.  However, to use certain services of the sites, such as receiving the newsletters or using personalized services or participating in contests, some information may be collected.  The information asked may include your name, email address, birth date, gender, address, postal code, occupation, industry, car ownership and personal interests.  Such information is collected for us to provide you better service and its amount is kept to the minimum and made optional whenever possible.  At least a valid email address is often required by us to serve you better. 
+**Virtual Map ([www.virtual-map.com](http://www.virtual-map.com/)) and Street-directory.com.au ([www.street-directory.com.au](http://www.street-directory.com.au/)) **do **not** collect any personal information of its sites’ users unless specifically stated.  However, to use certain services of the sites, such as receiving the newsletters or using personalized services or participating in contests, some information may be collected.  The information asked may include your name, email address, birth date, gender, address, postal code, occupation, industry, car ownership and personal interests.  Such information is collected for us to provide you better service and its amount is kept to the minimum and made optional whenever possible.  At least a valid email address is often required by us to serve you better. 
 
 To use our e-commerce services, other additional information such as a credit card number may be necessary to execute the transaction and will be provided to the party handling the transaction.  In the e-commerce sections of our site, we use the industry standard SSL encryption (SSL = secure socket layer).  You are encouraged to review the privacy policies of these third party service providers.
 
@@ -38,4 +38,4 @@ We do our utmost to guard your rights and privacy when using our sites.  Howeve
 
 ### Feedback
 
-We welcome any feedback on this privacy policy or other concerns of yours.  Please write to [webmaster@virtual-map.com](mailto:webmaster@virtual-map.com). 
+We welcome any feedback on this privacy policy or other concerns of yours.  Please write to [webmaster@virtualmap.com.au](mailto:webmaster@virtualmap.com.au). 
