@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the smartphonemag.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207031316id_/http%3A//www.pocketpcmag.com/_top/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartphonemag.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405210747id_/http%3A//www.pocketpcmag.com/_top/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy of Pocket PC magazine and Thaddeus Computing Inc.
 
-  |  |   
----  
-|  |  |  [ ](https://web.archive.org/nustore/asp/ih_subscribe.asp?cf=2) |  |  [ ](https://web.archive.org/_top/free.asp) |  |  [ ](https://web.archive.org/media/default.asp) |   
-|   
-[ ](https://web.archive.org/_top/) |  [ ](https://web.archive.org/_service/) |  [ ](http://www.usedhandhelds.com/)  
-|  |   
-|   
   
 | 
 
@@ -55,11 +48,20 @@ Thaddeus Computing Privacy Policy
 
 
 
-Copyright © 2004 Thaddeus Computing INC
+Copyright © 2005 Thaddeus Computing Inc
 
 | 
 
-[](https://web.archive.org/store/asp/aftrack.asp?ID=90&Req=product.asp?product=71)  
-  
----|---|---  
- 
+Sponsored Links: [Win $25,000 and Application Distribution.](http://www.pocketpcmag.com/banman/banman.asp?ZoneID=0&BannerID=114&AdvertiserID=35&CampaignID=111&Task=Click&Mode=TEXT)  
+Enter the Windows Mobile™ Application Contest today. Submit applications for Windows Mobile-based Pocket PCs or Smartphones for your chance to win $25,000 and application distribution. Subscribe or Renew!  
+Don't miss a single issue of _Pocket PC_ magazine!  
+[www.PocketPCmag.com](http://www.pocketpcmag.com/nustore/asp/subscribe_1.asp?cf=19) Pocket PC back issues  
+All magazines since May 2000, in MS Reader format (with images)  
+[www.PocketPCmag.com](http://www.pocketpcmag.com/store/asp/product.asp?product=71) Buy/Sell your Handheld  
+We specialize in Windows Powered Handhelds and Pocket PCs.  
+[www.UsedHandhelds.com](http://www.usedhandhelds.com/) HP 200LX DOS Palmtop  
+We buy, refurbish, sell, repair, upgrade, accessorize.  
+[www.PalmtopPaper.com](http://www.palmtoppaper.com/) Your Ad Here  
+You can place a text ad here. [Click for details](http://www.pocketpcmag.com/media/2005_webrates.asp)
+
+[](https://web.archive.org/store/asp/aftrack.asp?ID=90&Req=product.asp?product=71)
