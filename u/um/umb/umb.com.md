@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umb.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008081417id_/http%3A//www.umb.com/inside/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umb.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213244id_/http%3A//www.umb.com/inside/legal/privacy.html) for the most accurate reproduction.*
 
 # UMB Bank - UMB Bank - UMB Financial Corporation Privacy Statement for Individuals
 
