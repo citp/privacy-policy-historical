@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compassion.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604134146id_/http%3A//www.compassion.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassion.com privacy policy that was archived on 2001-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011220140905id_/http%3A//www.compassion.com/privacy.asp) for the most accurate reproduction.*
 
 # Compassion International: Privacy / Copyright
 
