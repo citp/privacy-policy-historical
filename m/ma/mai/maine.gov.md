@@ -1,96 +1,74 @@
-> *The following text is extracted and transformed from the maine.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033813id_/http%3A//www.maine.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maine.gov privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217005025id_/http%3A//www.maine.gov/portal/privacy.html) for the most accurate reproduction.*
 
-# State of Maine Privacy Statement
+# Maine.gov: Privacy Policy
 
-###   
-Privacy Policy for the Official Website of the State of Maine
+Individuals who visit the Maine.gov website are important to us. Because visitors to our website are important, we do not capture personal information about them without their permission. We endeavor to collect only the minimum amount of information needed to meet the purposes for which the website was created. 
 
-Individuals who visit the State of Maine website are important to us. Because visitors to our website are important, we do not capture personal information about them without their permission. We endeavor to collect only the minimum amount of information needed to meet the purposes for which the website was created.
+## Use of This Policy
 
-### Public Disclosure
+Various websites are linked through the Maine.gov website. State and local government agencies may have their own privacy statements posted on their sites, which take precedence over this policy. The Maine.gov Privacy Statement does not apply to non-Maine State Government websites that may be linked from Maine.gov. Visitors should read the privacy policies of individual sites and be cautious about providing personally identifiable information without a clear understanding of how the information will be used. 
 
-All information collected on the State of Maine website will be treated the same as any written communication and is subject to the confidentiality and public disclosure provisions of 1 MRSA Chapter 13.
+## PRIVACY STATEMENT
 
-###   
-PRIVACY STATEMENT
+**Public Disclosure**   
+All information collected on the Maine.gov website will be treated the same as any written communication and is subject to the confidentiality and public disclosure provisions of 1 MRSA Chapter 13. 
 
-####  Visitors to the State of Maine Website
+**Visitors to the Maine.gov Website**   
+We may collect some or all of the following information about visitors who view or download information from our website: 
 
-We may collect some or all of the following information about visitors who view or download information from our websites:
-
-**Information** | **Definition**  
+|  **Information** |  **Definition**  
 ---|---  
-Date | Date the visit occurred.  
-Time | Time the visit occurred.  
-Client IP | Unique Internet Protocol (IP) address of the website visitor. The IP address recorded is normally that of the visitor's Internet service provider, e.g., aol.com if the visitor connects from an America Online account.  
-Server IP | Unique Internet Protocol (IP) address of the State of Maine web server accessed.  
-HTTP Status | Hyper Text Transfer Protocol (HTTP) error code. E.g., "404 Requested Page Not Found."  
-HTTP Request URL | Identifies the web page or file requested by the website visitor.  
-Bytes Sent | Amount of data sent from the web server to website visitor during that connection.  
+Date  |  Date the visit occurred.   
+Time  |  Time the visit occurred.   
+Client IP  |  Unique Internet Protocol (IP) address of the website visitor. The IP address recorded is normally that of the visitor's Internet service provider, e.g., aol.com if the visitor connects from an America Online account.   
+Server IP  |  Unique Internet Protocol (IP) address of the State of Maine web server accessed.   
+HTTP Status  |  Hyper Text Transfer Protocol (HTTP) error code. E.g., "404 Requested Page Not Found."   
+HTTP Request URL  |  Identifies the web page or file requested by the website visitor.   
+Bytes Sent  |  Amount of data sent from the web server to website visitor during that connection.   
   
-Bytes Received | Amount of data sent from website visitor to the web server.  
-User Agent  | Type of web browser or other client software that made request to the web server.  
-Referrer | Uniform Resource Locator (URL) that referred to the requested file.   
-Protocol Version  | Version of HTTP used by the visitor's web browser software.  
+Bytes Received  |  Amount of data sent from website visitor to the web server.   
+User Agent  |  Type of web browser or other client software that made request to the web server.   
+Referrer  |  Uniform Resource Locator (URL) that referred to the requested file.   
+Protocol Version  |  Version of HTTP used by the visitor's web browser software.   
   
-The information we collect is used to improve the content of our web services and help us understand how people are using our services. We analyze our website logs to continually improve the value of the materials available on our site. The information in our website logs is not personally identifiable, and we make no attempt to link it with the individuals that browse our website.
+The information we collect is used to improve the content of our web services and help us understand how people are using our services. We analyze our website logs to continually improve the value of the materials available on our site. The information in our website logs is not personally identifiable, and we make no attempt to link it with the individuals that browse our website. Some of this statistical information, such as a running count of the number of visitors, may be displayed on the website or shared with other state governments to aid in the provision of better service to the public. 
 
-Some of this statistical information, such as a running count of the number of visitors, may be displayed on the website or shared with other state governments to aid in the provision of better service to the public.
+**Personally Identifiable Information**   
+"Personally identifiable information" is information about a person that is readily identifiable to that specific individual. It includes, for example, an individual's name, street address, e-mail address, or phone number. 
 
-#### Personally Identifiable Information
+Personally identifiable information will not be collected unless you voluntarily send an e-mail message, fill out and send an online form, or fill out personal information and send in a survey. Your choice not to participate in these activities will not impair your ability to access certain information or obtain a service. Unless specifically protected under state law, any information provided may be inspected by the public or disclosed in a legal proceeding. 
 
-"Personally identifiable information" is information about a person that is readily identifiable to that specific individual. It includes, for example, an individual's name, street address, e-mail address, or phone number.
-
-Personally identifiable information will not be collected unless you voluntarily send an e-mail message, fill out and send an online form, or fill out personal information and send in a survey. Your choice not to participate in these activities will not impair your ability to access certain information or obtain a service online.
-
-Unless specifically protected under state law, any information provided may be inspected by the public or disclosed in a legal proceeding.
-
-#### E-mail Senders
-
+**E-mail Messages**   
 E-mail messages, sent to any Maine State Government address, will be treated the same as any other written communication. They may be subject to public inspection or legal disclosure and may be saved for a period of time before they are destroyed. E-mail or other information requests sent to the state website may be maintained in order to respond to the request, forward that request to the appropriate agency, or to provide the web designer with valuable customer feedback to assist in improving the site. E-mail addresses obtained as a result of a request to the state site will not be sold or given to private companies for marketing purposes. 
 
-#### Electronic Form Filers
+**Electronic Forms**   
+Any other information provided by a visitor at the request of an agency of Maine State Government, such as the completion and electronic filing of a form, will be considered to be voluntarily provided by the visitor and will be treated in the same manner as information provided in written form or in person during a visit to the agency. Information provided may be subject to public inspection and legal disclosure and may be saved for a period of time before it is destroyed. It may be shared with another state agency for appropriate action. 
 
-Any other information provided by a visitor at the request of an agency of Maine State Government, such as the completion and electronic filing of a form, will be considered to be voluntarily provided by the visitor and will be treated in the same manner as information provided in written form or in person during a visit to the agency. Information provided may be subject to public inspection and legal disclosure and may be saved for a period of time before it is destroyed. It may be shared with another state agency for appropriate action.
+**Surveys**   
+Surveys will be used for the purpose stated. If personally identifiable information is collected it may be subject to public inspection and legal disclosure and may be saved for a period of time before it is destroyed. 
 
-#### Surveys
+**InforME Subscribers**   
+The Information Resource of Maine collects, retains and utilizes personal information about its customers only when they volunteer to subscribe to InforME. The information is used to administer subscriber accounts and to provide products, services and other opportunities requested by InforME subscribers. Records containing personal information about InforME subscribers are confidential and may only be released with the express written permission of the subscriber pursuant to the provisions of 1 MRSA Chapter 14. 
 
-Surveys will be used for the purpose stated. If personally identifiable information is collected it may be subject to public inspection and legal disclosure and may be saved for a period of time before it is destroyed.
+**Cookies**   
+In order to better serve you, the user, we use cookies for certain types of online transactions. Cookies are small text files that a web server may ask your web browser to store, and to send back to the web server when needed. Cookies may be used to store a transaction identifier or other information a user may provide. 
 
-#### InforME Subscribers
+We use cookies in the following ways: 
 
-The Information Resource of Maine collects, retains and utilizes personal information about its customers only when they volunteer to subscribe to InforME. The information is used to administer subscriber accounts and to provide products, services and other opportunities requested by InforME subscribers. Records containing personal information about InforME subscribers are confidential and may only be released with the express written permission of the subscriber pursuant to the provisions of 1 MRSA Chapter 14.
-
-#### Cookies
-
-In order to better serve you, the user, we use cookies for certain types of online transactions. 
-
-Cookies are small text files that a web server may ask your web browser to store, and to send back to the web server when needed. Cookies may be used to store a transaction identifier or other information a user may provide. We use cookies in the following ways:
-
-  * **Complex transactions** : Cookies are used to store and retrieve unique transaction identifiers or other server-generated or user-provided information in complex, multi-page web applications. This allows us to distinguish between different users, and to use information provided at one stage of an application at a later time (for instance, items placed in a 'shopping cart' might need to be displayed on a later 'check-out' screen). When we use cookies in this way, the cookie is stored on your web browser only temporarily; the cookie is destroyed at the end of the transaction or at the end of the browser session.
-
+  * **Complex transactions** : Cookies are used to store and retrieve unique transaction identifiers or other server-generated or user-provided information in complex, multi-page web applications. This allows us to distinguish between different users, and to use information provided at one stage of an application at a later time (for instance, items placed in a 'shopping cart' might need to be displayed on a later 'check-out' screen). When we use cookies in this way, the cookie is stored on your web browser only temporarily; the cookie is destroyed at the end of the transaction or at the end of the browser session. 
   * **Customized Services** : Cookies may also be used to automatically identify a particular user to the system, in order to provide a customized service, such as a personalized web page. In this case, a cookie containing a unique user identifier will be permanently stored on your web browser. We do not store sensitive information in such cookies; only a unique user identifier or generic preference values are stored. Personal information you give us for processing a transaction or using one of our personalization features, may be stored on our secure web server. 
 
 
 
 
-We do not use cookies in order to track your visit to our website. 
+We do not use cookies in order to track your visit to our website. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies or how to disable cookies altogether. However, cookies allow you to take full advantage of many of Maine's eGovernment services, and we recommend that you set your web browser to accept cookies. 
 
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies or how to disable cookies altogether. However, cookies allow you to take full advantage of many of the Information Resource of Maine's eGovernment services, and we recommend that you set your web browser to accept cookies.
+If you have further questions about cookies, the Computer Incident Advisory Capacity unit that monitors computer problems for the U.S. Department of Energy issued a study on March 12, 1998 of the risks of cookies to users, titled Information Bulletin I-034: Internet Cookies.You can refuse the cookies or delete the cookie file from your computer by using any of the widely available methods. 
 
-If you have further questions about cookies, the Computer Incident Advisory Capacity unit that monitors computer problems for the U.S. Department of Energy issued a study on March 12, 1998 of the risks of cookies to users, titled Information Bulletin I-034: Internet Cookies.
+## Disclaimer
 
-You can refuse the cookies or delete the cookie file from your computer by using any of the widely available methods.
+The State of Maine and InforME make every effort to ensure that published information is accurate and current. Neither the State of Maine, nor any agency, officer, or employee of the State of Maine warrants the accuracy, reliability or timeliness of any information published on the Maine.gov website, nor endorses any products or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of the information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk. 
 
-###   
-Disclaimer
+## **Contact Information**
 
-Neither the State of Maine, nor any agency, officer, or employee of the State of Maine warrants the accuracy, reliability or timeliness of any information published on the State of Maine website, nor endorses any products or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of the information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
-
-Various websites may be linked through the State of Maine website. Visitors to those sites are advised to check the privacy statements of those sites and be cautious about providing personally identifiable information without a clear understanding of how the information will be used. This Privacy Statement does not apply to non-Maine State Government websites linked to the State of Maine website.  
-
-
-###   
-Contact Information
-
-To offer comments about the State of Maine website or about information presented in this Privacy Statement, contact [webmaster@informe.org](mailto:webmaster@informe.org). 
+To offer comments about the Maine.gov website or about information presented in this Privacy Statement, contact [the Maine.gov webmaster](https://web.archive.org/web/20041217005025id_/http%3A//www.maine.gov/portal/contactus.html). 
