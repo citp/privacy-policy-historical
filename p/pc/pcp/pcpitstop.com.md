@@ -1,83 +1,23 @@
-> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|  |  |   
-Sun Dec 16 03:48 CT  
----|---  
-|   
-  | 
-
-Test My PC  
-   
-[Full Tests](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/default.asp)  
-[AntiVirus](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/antivirus/default.asp)  
-[Disk Health](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/diskhealth.asp)  
-[Internet Connection](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/internet/default.asp)  
-[Check ActiveX](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/testax.asp)  
-[TechExpress](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/techexpress/default.asp)  
-[XP Readiness Test](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/xpready/default.asp)  
-  
-|   
-  | 
-
-Tech Support  
-   
-[Free Online Help](https://web.archive.org/pcpitstop/support.asp) [Email/Phone Support](https://web.archive.org/askdrtech.asp)  
-[Home Plan](https://web.archive.org/askdrtech.asp)  
-[Business Plan](https://web.archive.org/askdrtech.asp)  
-[Support Items](https://web.archive.org/askdrtech.asp)  
-  
-  
-|   
-  | 
-
-User Services  
-   
-[FAQ](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/faqindex.asp)  
-[PC Pitstop Support](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/support.asp)  
-[User Support BBS](http://support.pcpitstop.com/cgi-bin/ultimatebb.cgi)  
-[Glossary](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.techweb.com/encyclopedia)  
-[Mechanics Lesson](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/Lesson1.asp)   
-[Statistics (September)](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/research/default.asp)  
-[Pitstop Store](https://web.archive.org/supportus.asp)  
-[Support Us](https://web.archive.org/supportus.asp)  
-  
-  
-|   
-  | 
-
-PC World Links  
-   
-[Top Products](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.pcworld.com/reviews/top100/index/0,00.asp)  
-[Product Finder](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://pcworld.pricegrabber.com)  
-[News & Trends](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.pcworld.com/news/index/0,00.asp)  
-[Downloads](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.pcworld.com/downloads/index/0,00.asp)  
-[Free Newsletters](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.pcworld.com/resource/newsletters/index.asp?sub_source=PCWXH4)  
-  
-|   
-  | 
-
-September 11  
-   
-Support the relief efforts to help victims in New York, Pennsylvania and Washington D.C. To find out how you can help, visit [Helping.org](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.helping.org).   
-  
 PC Pitstop Privacy Policy 
 
-|    | 
+  | 
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLineŽ Privacy Program, we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.  
-bbbonline.org](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.bbbonline.org). 
+Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine� Privacy Program, we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.  
+bbbonline.org](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/offsite.asp?http://www.bbbonline.org). 
 
 * * *
 
 _Other content certifications:_
 
-[](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.icra.org)  
+[](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/offsite.asp?http://www.icra.org)  
   
 ---|---  
   
-**Last Appended:** July 3, 2001
+**Last Amended:** April 23, 2002
 
 Effective March 1, 2000 
 
@@ -118,9 +58,9 @@ To better protect your privacy we provide this notice explaining our complete on
 
 The Information We Collect
 
-The tests at PC Pitstop prompt you to _voluntarily_ enter your name and e-mail as part of our login process. While we strongly suggest you provide this information for greater accuracy and convenience in testing (see How We Use Information below), these two pieces of information are not required. You may register anonymously. Names and e-mail addresses are kept strictly confidential and are never distributed outside of PC Pitstop (see How We Use Information for more). 
+The tests at PC Pitstop prompt you to _voluntarily_ enter your name and e-mail as part of our login process. While we strongly suggest you provide this information for greater accuracy and convenience in testing (see How We Use Information below), these two pieces of information are not required. You may use the site anonymously. Names and e-mail addresses are kept strictly confidential and are never distributed outside of PC Pitstop (see How We Use Information for more). 
 
-In addition, the tests at PC Pitstop require that several small utilities--or **DLLs** \--are installed on your system to help collect PC information vital to our service and testing. These DLLs are detailed in our FAQ: [http://www.pcpitstop.com/faq.asp#pcpitstop](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/faq.asp#pcpitstop). 
+In addition, the tests at PC Pitstop require that several small utilities--or **DLLs** \--are installed on your system to help collect PC information vital to our service and testing. These DLLs are detailed in our FAQ: [http://www.pcpitstop.com/faq.asp#pcpitstop](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/faq.asp#pcpitstop). 
 
 Along with **signed ActiveX controls and JavaScript** , these utilities exercise and collect information from Windows about various components of your PC. This includes information on: 
 
@@ -137,15 +77,15 @@ How We Use Information
 
 The information we collect about your PC is stored in our database, analyzed, then presented back to you in summary and detailed reports, along with any tips that you can implement to improve system performance. How you use these recommendations is up to you; the tips are not automatically implemented. 
 
-In some cases, AutoFixes are made available to correct specific settings on your system. AutoFixes are compact utilities written by PC Pitstop that you use voluntarily; they are never downloaded or executed without your permission, and an explanation detailing what changes will be made accompanies each fix. While the changes an AutoFix makes may not always be reversible, the utilities themselves are easily removable: Simply delete the AutoFix file from the directory to which you downloaded it. For more on PC Pitstop AutoFixes, see [http://www.pcpitstop.com/pcpitstop/AutoFix.asp](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/AutoFix.asp). 
+In some cases, AutoFixes are made available to correct specific settings on your system. AutoFixes are compact utilities written by PC Pitstop that you use voluntarily; they are never downloaded or executed without your permission, and an explanation detailing what changes will be made accompanies each fix. While the changes an AutoFix makes may not always be reversible, the utilities themselves are easily removable: Simply delete the AutoFix file from the directory to which you downloaded it. For more on PC Pitstop AutoFixes, see [http://www.pcpitstop.com/pcpitstop/AutoFix.asp](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/pcpitstop/AutoFix.asp). 
 
 The personal information that you voluntarily give us (name and e-mail address) is kept strictly confidential. Your address will not be sold or made available outside of PC Pitstop. We only use your e-mail address to assist in our correspondence with you if you have a question or concern about your test results. 
 
-PC Pitstop's [TechExpress](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/techexpress/default.asp) feature gives users the opportunity to e-mail their tests results to friends, colleagues or support technicians. The feature will send a unique link to a user's results (with no password-protection) to an e-mail address(es) he/she specifies. The link will work for only one week from the time it was mailed. However, once the link and results are made public, PC Pitstop--despite its rigorous privacy measures--cannot guarantee the security of the user's results. PC Pitstop advises its visitors to act responsibly and use common sense about to whom they send their results. 
+PC Pitstop's [TechExpress](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/techexpress/default.asp) feature gives users the opportunity to e-mail their tests results to friends, colleagues or support technicians. The feature will send a unique link to a user's results (with no password-protection) to an e-mail address(es) he/she specifies. The link will work for only one week from the time it was mailed. However, once the link and results are made public, PC Pitstop--despite its rigorous privacy measures--cannot guarantee the security of the user's results. PC Pitstop advises its visitors to act responsibly and use common sense about to whom they send their results. 
 
-Also, PC Pitstop periodically distributes an e-mail newsletter to your e-mail address. You choose whether you want to receive mail from us when you create your login. If you submit your e-mail address to us for testing purposes, but later decide not to receive the newsletter, you can remove yourself from the mailing list: 
+Also, PC Pitstop periodically distributes an e-mail newsletter to your e-mail address. You choose whether you want to receive mail from us when you create your login. If you submit your e-mail address to us for testing purposes, but later decide not to receive the newsletter, you can remove yourself from the mailing list at any time: 
 
-  * Visit our site at [http://www.pcpitstop.com/pcpitstop](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/default.asp)
+  * Visit our site at [http://www.pcpitstop.com/pcpitstop](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/pcpitstop/default.asp)
 
   * Log in using the form in the left-hand column. 
 
@@ -156,24 +96,28 @@ Also, PC Pitstop periodically distributes an e-mail newsletter to your e-mail ad
 
 
 
-Lastly, as part of our **market research model** , we collect aggregate information about all of the PCs tested at our site. This information includes average CPU speed, hard drive size, average free capacity, types of removable storage devices installed, most commonly installed software and so on. This is derived directly from the PC Pitstop tests described above. During this process, your anonymity will be 100% protected. We only look at trends in totality, not at the individual level. Ever. Hence, our motto: “We look at PCs, not people.” Examples of the types of market research reports we produce can be found here: [http://www.pcpitstop.com/research](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/research/default.asp). All of our research reports are publicly viewable. 
+Lastly, as part of our **market research model** , we collect aggregate information about all of the PCs tested at our site. This information includes average CPU speed, hard drive size, average free capacity, types of removable storage devices installed, most commonly installed software and so on. This is derived directly from the PC Pitstop tests described above. During this process, your anonymity will be 100% protected. We only look at trends in totality, not at the individual level. Ever. Hence, our motto: “We look at PCs, not people.” Examples of the types of market research reports we produce can be found here: [http://www.pcpitstop.com/research](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/research/default.asp). All of our research reports are publicly viewable. 
 
 Cookies
 
 To be able to remember your computer's test results as you browse from page to page, we use cookies. _We do not use cookies to track PCs in locations outside our site._ There are two types of cookies that we use at the PC Pitstop site: _session_ and _persistent_ cookies. Session cookies are only used for the duration of your visit, and help us keep your PC’s results associated with your browser session as you move through the site. Persistent cookies store data between visits to PC Pitstop, primarily for your convenience. You must accept some of these cookies for the site to work, but others are optional. 
 
-No personal information is collected through the use of PC Pitstop's cookies. Details on all the cookies used at PC Pitstop are available here: [http://www.pcpitstop.com/pcpitstop/aboutcookies.asp](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/aboutcookies.asp)
+No personal information is collected through the use of PC Pitstop's cookies. Details on all the cookies used at PC Pitstop are available here: [http://www.pcpitstop.com/pcpitstop/aboutcookies.asp](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/pcpitstop/aboutcookies.asp)
 
-**Third-party cookies:** Like most sites, PC Pitstop also uses banner advertising throughout its site. While some of these ads are served directly by PC Pitstop and do not employ cookies, most of the advertising is sold by PCWorld.com and served by DoubleClick, an ad service which does place and collect cookie information. These cookies are used primarily to ensure that you do not view the same ad too many times, and also to track PC Pitstop as a referring site. However, we do not control the issuing or use of these cookies, and they are not required for proper operation of the PC Pitstop site. You may safely reject them, if you choose ([see instructions here](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/aboutcookies.asp)). The privacy policies for these ad companies differ from PC Pitstop's; you may review their policies and/or contact the agencies via their Web sites: 
+**Third-party cookies:** Like most sites, PC Pitstop also uses banner advertising throughout its site. While some of these ads are served directly by PC Pitstop and do not employ cookies, most of the advertising is sold by third-party ad agencies and served by DoubleClick, an ad service which does place and collect cookie information. These cookies are used primarily to ensure that you do not view the same ad too many times, and also to track PC Pitstop as a referring site. However, we do not control the issuing or use of these cookies, and they are not required for proper operation of the PC Pitstop site. You may safely reject them, if you choose ([see instructions here](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/pcpitstop/aboutcookies.asp)). The privacy policies for these ad companies differ from PC Pitstop's; you may review their policies and/or contact the agencies via their Web sites: 
 
-  * [DoubleClick](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&): Serves ads for independent merchants 
+  * [DoubleClick](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/offsite.asp?http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&): Serves ads for independent merchants 
 
-  * [PC World](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.pcworld.com/resource/privacy.asp)
+  * [PC World](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/offsite.asp?http://www.pcworld.com/resource/privacy.asp)
+
+  * [Tribal Fusion](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/offsite.asp?http://www.tribalfusion.com/www/about/privacy.html)
+
+  * [Commission Junction](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/offsite.asp?http://www.cj.com/privacy.asp)
 
 
 
 
-For more information on cookies, including how to reject them, see [http://www.pcpitstop.com/pcpitstop/aboutcookies.asp](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/aboutcookies.asp). 
+For more information on cookies, including how to reject them, see [http://www.pcpitstop.com/pcpitstop/aboutcookies.asp](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/pcpitstop/aboutcookies.asp). 
 
 Technology Licensing
 
@@ -185,7 +129,7 @@ PC Pitstop has partnered with PCWorld.com to sell advertising on PCPitstop.com. 
 
 PC Pitstop Support Board (BBS)
 
-The PC Pitstop bulletin board service (BBS) is located at [http://support.pcpitstop.com/cgi-bin/Ultimatebb.cgi](http://support.pcpitstop.com/cgi-bin/ultimatebb.cgi) and is powered by Infopop ([http://www.infopop.com](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.infopop.com)). It is used only as a means of disseminating technical support about issues within PC Pitstop. Any postings you make on the BBS will become publicly viewable. 
+The PC Pitstop bulletin board service (BBS) is located at [http://support.pcpitstop.com/cgi-bin/Ultimatebb.cgi](http://support.pcpitstop.com/cgi-bin/ultimatebb.cgi) and is powered by Infopop ([http://www.infopop.com](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/offsite.asp?http://www.infopop.com)). It is used only as a means of disseminating technical support about issues within PC Pitstop. Any postings you make on the BBS will become publicly viewable. 
 
 The Support BBS requires user registration to post an entry. This registration is independent of the main PC Pitstop registration system, and gives you the opportunity to customize your profile. The registration system requires a username (profile name), password and e-mail address; the user's city, state, country, occupation, home page, interests, ICQ number and an electronic signature are optional. However, with the exception of the user's e-mail address (which the user has the option to hide) and password (which is not publicly viewable), all information entered in the registration will be publicly viewable. Note: Passwords for the BBS are not encrypted and can be seen by the BBS administrators. In addition, users have the option of allowing a PC Pitstop BBS administrator to contact them via e-mail to help clarify support issues. 
 
@@ -199,7 +143,7 @@ To prevent unauthorized access, maintain data accuracy and ensure the correct us
 
 How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by browsing to [http://www.pcpitstop.com/pcpitstop/default.asp](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/pcpitstop/default.asp) and logging in with your e-mail address and password. You may then change your login information by selecting the Change Login link. We use this procedure to better safeguard your information. If you have forgotten your password, we provide a mechanism that e-mails your password to you. 
+If you have created an account, you can access to review all your personally identifiable information that we collect at any time by browsing to [http://www.pcpitstop.com/pcpitstop/default.asp](https://web.archive.org/web/20020605191041id_/http%3A//pcpitstop.com/pcpitstop/default.asp) and logging in with your e-mail address and password. You may then change your login information by selecting the Change Login link. We use this procedure to better safeguard your information. If you have forgotten your password, we provide a mechanism that e-mails your password to you. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
@@ -208,18 +152,3 @@ For instructions on changing your BBS profile, see the PC Pitstop Support Board 
 How to Contact Us
 
 Should you have any other questions or concerns about these privacy policies, please send us e-mail at [webmaster@pcpitstop.com](mailto:webmaster@pcpitstop.com). 
-
-|  |  | 
-
-PC World Magazine
-
-[](https://web.archive.org/web/20011216094825id_/http%3A//offsite.asp?http://www.pcworld.com/magazine/index/0,00.asp)  
----|---  
-| [Get 2 Risk-Free Issues  
-and a Free Gift  
-](https://web.archive.org/web/20011216094825id_/http%3A//offsite.asp?https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PCW&cds_page_id=848)   
-|   
-|   
-|   
-  
-[](https://web.archive.org/web/20011216094825id_/http%3A//pcpitstop.com/offsite.asp?http://www.totaltech.com)
