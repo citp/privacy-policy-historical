@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206083906id_/http%3A//weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621141359id_/http%3A//www.weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
 
 # Weather for You Privacy Statement
 
@@ -15,7 +15,7 @@ We invite you to contact us if you have questions about this policy. You may con
     USA
     
 
-You may contact us by e-mail at [weather@weatherforyou.com](mailto:weather@weatherforyou.com). You may call us at 916-434-8893. 
+You may contact us by e-mail at [support@weatherforyou.com](mailto:support@weatherforyou.com). You may call us at 916-434-8893. 
 
 ## Dispute Resolution and Privacy Seals
 
