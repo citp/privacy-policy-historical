@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203224729id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210121648id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -76,7 +76,7 @@ You should be aware that when you are on the Site you could be directed to other
 
  **Other Terms  
 **  
-Your use of this Site is subject to the Terms of Use [Insert link to Terms of Use]. If you choose to use this Site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms of Use including limitations on damages and application of the law of the State of New York.
+Your use of this Site is subject to the [Terms of Use](http://www.usta.com/site_services/custom.sps?iType=961&icustompageid=1659). If you choose to use this Site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms of Use including limitations on damages and application of the law of the State of New York.
 
  **How to Contact Us  
 **  
