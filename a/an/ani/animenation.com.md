@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animenation.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610144712id_/http%3A//store.yahoo.com/animenation/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animenation.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204181212id_/http%3A//store.yahoo.com/animenation/privacypolicy.html) for the most accurate reproduction.*
 
-# AnimeNation.com - The Anime Source! Privacy Policy
+# AnimeNation - The Anime Source for videos, books, games and other anime merchandise ! Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
