@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232712id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213803id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,8 +6,6 @@
 ---  
     [Fact sheet](https://web.archive.org/pages/factsheet.html)  
     [Our team](https://web.archive.org/pages/team.html)  
-    [Board](https://web.archive.org/pages/board.html)  
-    [Investors](https://web.archive.org/pages/investors.html)  
 [Press room](https://web.archive.org/pages/press_center.html)  
     [In the news](https://web.archive.org/pages/in_the_news.html)  
     [Press releases](https://web.archive.org/pages/press_releases.html)  
