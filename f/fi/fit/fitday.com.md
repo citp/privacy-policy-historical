@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fitday.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207101328id_/http%3A//fitday.com/WebFit/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitday.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623164813id_/http%3A//www.fitday.com/WebFit/Privacy.html) for the most accurate reproduction.*
 
 # 
 
 ## FitDay.com Privacy Statement
 
-_Last Updated: August 14, 2001_
+_Last Updated: March 11, 2004_
 
 At FitDay.com, your personal privacy is very important to us. This page outlines our privacy policy, and gives you contact information if you have any other questions. 
 
@@ -27,14 +27,12 @@ At FitDay.com, your personal privacy is very important to us. This page outlines
 
 ### Advertising
 
-  * We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Web site in order to provide advertisements on this site about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.doubleclick.net/us/corporate/privacy). 
+  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Web site in order to provide advertisements on this site about goods and services that may be of interest to you. 
 
 
 
 ### Removing your account
 
-  * You may request to have you FitDay account removed at any time by sending an email to [remove@fitday.com](mailto:remove@fitday.com). 
-  * FitDay will attempt to remove your account promptly, but we do not guarantee that your account will be removed in any specific amount of time. After your account is removed, it will not be accessible by anyone through the web, but your information may remain in FitDay archives that FitDay maintains. 
   * FitDay reserves the right to terminate your membership if FitDay learns that you are abusing your membership or not adhering to the [terms of service.](https://web.archive.org/WebFit/TermsOfUse.html)
 
 
