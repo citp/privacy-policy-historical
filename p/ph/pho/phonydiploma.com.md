@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607071646id_/http%3A//www.phonydiploma.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2004-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040722182045id_/http%3A//www.phonydiploma.com/privacy.aspx) for the most accurate reproduction.*
 
 # Document Printing Services, LLC
 
