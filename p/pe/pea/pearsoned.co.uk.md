@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsoned.co.uk privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203222200id_/http%3A//www.pearsoned.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsoned.co.uk privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607111344id_/http%3A//www.pearsoned.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Pearson Education, the world's leading educational publishing business - Europe Middle East and Africa Home Page
 
