@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eetasia.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202002id_/http%3A//www.eetasia.com/MAGAZINE/POLICY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eetasia.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223200009id_/http%3A//www.eetasia.com/MAGAZINE/POLICY.HTM) for the most accurate reproduction.*
 
 # Electronic Engineering Times - Asia
 
@@ -58,29 +58,125 @@ You may notice that some services available through our website are "Powered by"
 __Important Notice__  
 _Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy._
 
-**WHAT IS A COOKIE?**
+**COOKIES**
 
-A "cookie" is a small piece of information that a website can store in a designated file on your computer. It can be used, among other things, to identify you when you log in to a website. When you visit a site, that site can access only the information which it stored in your cookie -- not information put in your cookie by other sites. We are one of many sites that use cookies. 
+**What is a cookie?**  
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk, so as to help the website remember who you are, amongst other things. 
 
-**Why do you use cookies?**
+A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
 
-Cookies allow us to recognize you as a return user every time you visit our site so we can tailor the content and services to your needs. 
+**Use of cookies on our website**  
+Cookies help us to arrange content to match your preferred interests more quickly, and to make our website more convenient and useful to you. Most major websites use cookies. 
 
-**Will another website be able to steal my ID and password?**
+Cookies cannot be used by themselves to identify you. Nor will acceptance of cookies on our website result in you receiving any e-mail from us. However, when you signed up for our services, you may have chosen to receive promotional or other types of e-mails from us. To check or update this choice, please see your applicable User Profile. 
 
-No. Only we can read the information about your ID and password. No website has access to it through your browser. That is how web browsers are. However, anyone who sits down at your computer can log on to our site using your information if you have chosen to save your sign-on information. We recommend you sign-on only if your computer is located in a secure place. 
+Two types of cookies are used on our website: 
 
-**Will I receive unsolicited e-mail if I accept your cookies?**
+Session Cookies: These are temporary cookies that remain in the cookie file of your browser until you leave the website. 
 
-No. Acceptance of cookies on our website does not result in your receiving any e-mail from us. When you signed up for our FREE services, you chose whether to receive promotional e-mail from us. To check or update this choice, please see [Your Profile]. 
+Persistent Cookies: These are stored in your computer and remain in the cookie file of your browser for much longer. The storage period will depend on the lifetime of the specific cookie. 
 
-**What do those characters I see in the cookie alert mean?**
+**How and why we use cookies on our website and what information we collect**
 
-If you have setup your browser to warn you every time a cookie is set, you can see the contents of a cookie before your computer accepts it.
+Session Cookies: 
 
-**What if I do not accept your cookies?**
+* To allow you to access stored information within a registration process.   
 
-Some of our services or features require cookies. If you do not accept cookies on our website, you may not be able to use, access or participate in such services or features fully or at all. 
+* To allow you to carry information across pages of our website and avoid you having to re-enter information. For example, to help automatically fill in your inquiry or other forms with your contact and other applicable details.   
+
+* To save or record your user ID and/or password (at your option), so that you do not have to repeatedly log-in when you visit our website.   
+
+* To allow you to maintain an inquiry basket, and to help us determine which of our active supplier community members you are addressing your inquiries to.   
+
+* To identify you as a member, customer or referred user of an alliance or business partner, when you log-in using a unique reference code previously issued to you.   
+
+* To determine if you have already visited or logged-in to our website.   
+
+* To record the category or type of user to which you belong, based upon the services for which you have registered, subscribed or paid for.   
+
+* To determine which of our relevant computer servers you will be directed to.   
+
+* To ensure that you do not receive "pop-up" banners or advertisements, if you have opted not to receive such "pop-ups" during the session.   
+
+* To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure, services and features of our website. You will not be personally identified in this way. 
+
+Persistent Cookies: 
+
+* To help us recognize you as a unique visitor when you return to our website, for trend reports and analysis, or to allow us to tailor content to match your preferred interests, or to avoid or minimize showing you the same content repeatedly.   
+
+* To save or record your user ID and/or password (at your option), so that you do not have to repeatedly log-in when you visit our website.   
+
+* To help our system identify who you are, if you have opted to "remember me" during the log-in process.   
+
+* To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure, services and features of our website. You will not be personally identified in this way.   
+
+* Within research surveys, to ensure you are not invited to complete a questionnaire too often, or after you have already done so. 
+
+Third Party Cookies: 
+
+* Third parties serve cookies through this website. These are used for counting the number of anonymous users referred to our website by the third parties. These cookies do not carry any personally identifiable information and are merely used to track the effectiveness of a particular campaign. 
+
+**Web Beacons**  
+Some pages on our website may contain images known as "web beacons" (also known as "clear gifs"), some of which may be served by third parties. They allow us to count users who have viewed these pages. Web beacons collect only limited information, including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. These web beacons do not carry any personally identifiable information and are merely used to track the effectiveness of a particular campaign. 
+
+**Disabling/Enabling Cookies**  
+There are a number of ways to manage your cookies. You can decide to accept or decline cookies by modifying the settings in your browser. You can also set-up your browser to warn you every time a cookie is sent, so that you can review the cookie before you decide whether or not to accept it. 
+
+For example, if you are using Microsoft Internet Explorer 5.5 or earlier: 
+
+* Click on "Internet Options" from the "Tools" menu in your browser (older versions may have this option under the "View" menu instead).   
+
+* Select the "Security" tab.   
+
+* Click the web content zone which you want, and then click "Custom Level".   
+
+* Under "Cookies", select the options you want, click "OK", and then click "OK". 
+
+If you are using Netscape version 6: 
+
+* Go to "Edit" in the menu, and click on "Preferences".   
+
+* Click on "Advanced" and then select the "Cookies" field.   
+
+* Choose your preferred cookies option by checking the appropriate box.   
+
+* Click on "OK" to close the box and save your changes. 
+
+If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on how to manage your cookies settings. 
+
+If you use different computers in different locations to access our website, you will need to ensure that each browser is adjusted to suit your cookie preferences. 
+
+Some of our site services or features require cookies. If you disable or do not accept cookies on our website, you may not be able to use, access or participate in such site services or features fully or at all. 
+
+**Deleting Cookies**  
+You can delete any cookies that have been installed in the cookie folder of your browser. 
+
+For example, if you are using Microsoft Internet Explorer version 5.5 or earlier: 
+
+* Click on "Internet Options" from the "Tools" menu in your browser (older versions may have this option under the "View" menu instead).   
+
+* Under the "General" tab, click on the "Settings..." button.   
+
+* In the "Settings" box, click on the "View Files..." button at the bottom.   
+
+* You will now see a list of all the temporary files that Internet Explorer has stored in your computer for quick access. This is also where all cookies are stored.   
+
+* Select the cookie file(s) which you wish to delete, then hit the "Delete" button on your keyboard. Press "Yes" at the prompt to confirm your deletion. 
+
+If you are using Netscape version 6: 
+
+* Click on "Preferences" from the "Edit" menu.   
+
+* Under the "Advanced" tab, go to the "Cookies" option, then click on the "View Stored Cookies" button.   
+
+* A "Cookie Manager" box will appear. Scroll down to review and select the cookie file(s) which you wish to delete, then click "Remove Cookie". You can also click on the "Remove All Cookies" button to clear all cookies stored in your computer.   
+
+* Click "OK", and "OK" again, to close the boxes and save your changes. 
+
+If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies. 
+
+**Our Contact Information**  
+If you have any queries, comments or concerns, or require any help on cookie-related matters, please feel free to contact us at: [service@eetasia.com](mailto:service@eetasia.com) or Customer Services, 1 Sims Lane #08-01, Singapore 387355. 
 
   
 
