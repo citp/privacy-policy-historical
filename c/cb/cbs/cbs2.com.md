@@ -1,47 +1,120 @@
-> *The following text is extracted and transformed from the cbs2.com privacy policy that was archived on 2001-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010618214512id_/http%3A//www.channel2000.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs2.com privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126215755id_/http%3A//cbs2.com/privacy) for the most accurate reproduction.*
 
-# Channel2000.com - Privacy Policy
+# cbs2.com - Privacy
 
-## Privacy Policy
+Privacy Statement - kcbs CBS takes your electronic privacy seriously. We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information.
 
-### __
+We understand the need to protect the online privacy of children who may not yet be sophisticated enough to determine for themselves what information is appropriate to release. The Kidshow portion of our site is hosted by Nikolai.com. Nikolai.com has a [Children's Privacy Policy](http://cbs.nikolai.com/privacy.shtm) that parents can read.
 
-Internet Broadcasting Systems has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: [www.Channel2000.com](http://www.channel2000.com/)
+Questions regarding this statement should be directed to the cbs.com privacy coordinator by email at [privacy@cbs.com](mailto:privacy@cbs.com). You may also send inquiries by mail to:
 
-[](http://www.truste.org/validate/7289)
+**Privacy Coordinator  
+CBS New Media (555/13)  
+524 West 57th Street  
+New York, New York 10019**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. The [www.Channel2000.com](http://www.channel2000.com/) website make use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a Web site if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are not being collected by us and we do not have access to this information. Cookies can be rejected by you and if so none of the functions listed above will be performed.
+ **Kinds of Information**
 
-This site contains links to other sites. [www.Channel2000.com](http://www.channel2000.com/) is not responsible for the privacy practices or the content of such Web sites.
+There are two kinds of information Web sites can obtain about you:
 
-We collect information from website visitors who must register for certain services on-line, from users who agree to participate in on-line surveys, from users who wish to make certain on-line information requests from us and from users who wish to participate in on-line contests and promotions sponsored by us. The type of information so requested or collected by us includes user contact information (like their name and email address) and user demographic information (like their zip code, age or income level). The visitor's contact information will be used to contact the visitor when the visitor has expressed interest in being contacted (visitors can opt-out of receiving future mailings by complying with the choice/output requirements noted below). The user demographic information so collected will be used by us to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying content according to their preferences. We do track and record IP addresses that access our site for reporting and profiling purposes only. We also gather anonymous browsing habits of our visitors to better identify content preferences. User demographic information is shared with advertisers on an aggregate basis in a manner which will not personally identify the individual submitting such information. We also share user information with governmental authorities when legally required to do so, and cooperate with such authorities investigating claims of illegal activity such as (but not limited to) illegal transfer of copyrighted material, or user website postings or email messages that contain threats of violence. Other than these specific exceptions noted, we do not sell, rent or provide access to any data collected about or from our users.
+Aggregate Information: Aggregate Information is anonymous data that Web sites use to diagnose problems on the sites´ servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. 
 
-**Public Forums**  
-This site at some or all times make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Personally Identifiable Information: Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online, sign up with an Internet Service Provider (ISP) or subscribe to an email newsletter. Other times, Web sites collect this information to help target advertising and marketing. 
 
-**Security**  
-This site has taken reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Please remember that no computer system should be considered safe from intrusion. E-mail may pass through many computer systems, and should not be considered as a secure means of communication unless encrypted. Even then, information is only as secure as the encryption method. Employees are made aware of security policies and changes via email reminders monthly. Access is limited to a very small number of employees with a defined need and is password protected. In order to provide the best possible security we review our Web security policies every 180 days.
+We at CBS.com collect certain Aggregate Information – such as your IP address (a number that´s automatically assigned to your computer whenever you´re surfing the Web), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. 
 
-**Supplementation Information**  
-This site supplements the information that you provide with information that is received from third parties. This information is received from our partners in sponsored content sections. When you leave the www.Channel2000.com Web site the privacy statement of our partners apply. The type of information that is shared could include user contact information (like name and email address) and user demographic information (like zip code, age or income level). 
+**Surveys**
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. You will notice in all free email subscriptions generated from [www.Channel2000.com](http://www.channel2000.com/) there is an unsubscribe link at the bottom of the message. Simply click on this link to go to a page that allows you to unsubscribe from any or all of the lists you are subscribed to.
+Sometimes CBS.com posts optional surveys in which we ask for Personally Identifiable Information. Here are some ways we might use that information:
 
-In addition to using the unsubscribe page, you can send email to [security@ibsys.com](mailto:security@ibsys.com)
+To send you information about CBS and this Web site  
+To give to our content partners, who may send you promotional material  
+To give to our advertisers, who may send you information about their products and services
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided. 1. email [security@ibsys.com](mailto:security@ibsys.com)
+The choice is yours – you do not have to answer surveys. If you choose to answer the survey, we will always tell you on the survey form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. 
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+**Contests and Sweepstakes**
 
-Security Administrator  
-Internet Broadcasting Systems  
-Mendota Heights, MN 55120  
-[security@ibsys.com](mailto:security@ibsys.com)
+From time to time CBS.com runs contests and sweepstakes in which we ask for Personally Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect:
 
-**Changes to This Policy**  
-We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We may also decide to notify our users by e-mail of significant changes.
+  
 
-| 
+  * To notify you if you are a winner
+  
+
+  * To send you information about CBS and this Web site
+  
+
+  * To give to content partners, who may send you promotional email
+  
+
+  * To give to advertisers, who may send you emails about their products and services
+
+
+
+We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with any third party unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by CBS.com and any third parties.
+
+If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the site unless you give us your permission. 
+
+**Opt Out**
+
+We've mentioned this phrase - opt out - several times already. Here is how it works at CBS.com:
+
+We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information. It's that simple. 
+
+If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don’t want us to share the information or if you don’t want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
+
+**Feedback and Email**
+
+On every page at CBS.com, there is a link to a “feedback” email form so you can comment, complain, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type, and referring URL to better diagnosis technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence.
+
+ **Links To Other Sites**
+
+When you visit CBS.com, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave CBS.com. This includes links to sites operated by advertisers, sponsors and partners that may use CBS's logo as part of an agreement with CBS. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to the CBS.com privacy policy and CBS.com is not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect.
+
+ **CBS Store**
+
+The CBS Store uses an online, faxable order form for users to buy CBS products. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders when necessary. However, neither CBS.com nor the CBS Store shares this information with third parties.
+
+ **Deleting or Modifying Your Information**
+
+If you've given us personally identifiable information in the past and then have second thoughts or want to update it, here are your choices: 
+
+Email to [privacy@cbs.com](mailto:privacy@cbs.com).
+
+Regular mail to:
+
+Privacy Coordinator  
+CBS New Media (555/13)  
+524 West 57th Street  
+New York, New York 10019
+
+Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above [remember, we tell you that when we ask the questions] and we've already passed it on, we cannot delete or change the information.
+
+ **Security of Private Information**
+
+We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at CBS.com, to protect your information from theft, misuse and alteration. 
+
+Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. 
+
+**Contacting CBS.com**
+
+If you have any questions about this privacy policy statement or the privacy practices of CBS.com, please contact the Privacy Coordinator.
+
+Email to [privacy@cbs.com](mailto:privacy@cbs.com).
+
+Regular mail to:
+
+**Privacy Coordinator  
+CBS New Media (555/13)  
+524 West 57th Street  
+New York, New York 10019**
+
+ **The Bottom Line**
+
+Sometimes we want personal information from you so that we, our partners and our advertisers can send you some material we think might be of interest to you. 
+
+We promise never to be sneaky about it getting this information from you. We always tell you up front what we’re going to do with the answers, and we always give you a chance to say “no thanks.”
+
+  
+
