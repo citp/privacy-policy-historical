@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205001857id_/http%3A//www.uaex.edu/Statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605193435id_/http%3A//www.uaex.edu/Statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
 
 # Mission Statement; Cooperating Statement; EEO; Disclaimer; Privacy Statement for Cooperative Extension Service Web Site
 
 #### Mission Statement
 
-The mission of the University of Arkansas Cooperative Extension Service is to provide research-based information through informal education to help Arkansans improve their economic well-being and the quality of their lives.
+The mission of the University of Arkansas Cooperative Extension Service is to provide research-based information through non-formal education to help Arkansans improve their economic well-being and the quality of their lives.
 
 ####   **Cooperating Statement**
 
@@ -15,6 +15,8 @@ University of Arkansas, United States Department of Agriculture and County Gover
 The Arkansas Cooperative Extension Service offers its programs to all eligible persons regardless of race, color, national origin, religion, gender, age, disability, marital or veteran status, or any other legally protected status, and is an Equal Opportunity Employer. 
 
 #### **Disclaimer**
+
+All links to external sites open in a new window.  You may return to the University of Arkansas Cooperative Extension Service web site by closing this window when you are finished. We do not guarantee the accuracy of the information, or the accessibility for people with disabilities listed at any external site.
 
 Links to commercial sites are provided for information and convenience only. Inclusion of sites does not imply University of Arkansas Division of Agriculture Cooperative Extension Service's approval of their product or service to the exclusion of others that may be similar, nor does it guarantee or warrant the standard of the products or service offered.
 
