@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/privacy.stm) for the most accurate reproduction.*
 
 # Food Lion
 
@@ -6,37 +6,39 @@
   
 
   Shoppers  
-[     Weekly Specials](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/weeklyspecials.stm)  
-[     Coupons](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/coupons.stm)  
-[     FAQs](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/faqs.stm)  
-[     Recipes](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/recipes.stm)  
-[     Food Forum](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/foodforum.asp)  
-[     KidZone](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/kidzone.stm)  
-[     MVP Card](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/mvp.stm)  
-[     Store Locator](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/mapquest.asp)
+[     Weekly Specials](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/weeklyspecials.stm)  
+[     Coupons](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/coupons.stm)  
+[     FAQs](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/faqs.stm)  
+[     Recipes](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/recipes.stm)  
+[     Food Forum](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/foodforum.asp)  
+[     KidZone](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/kidzone.stm)  
+[     MVP Card](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/mvp.stm)  
+[     Store Locator](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/mapquest.asp)
 
-[     Regional Events](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/regevents.stm)  
-[     Contact Us](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/contactus.stm)
+[     Regional Events](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/regevents.stm)  
+[     Contact Us](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/contactus.stm)
 
   Employment  
-[     Welcome](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/jp_home.asp)  
-[     Location](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/jp_location.stm)  
-[     Benefits](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/jp_benefits.stm)  
-[     Job Search](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/jp_jobDisplMain.asp)
+[     Welcome](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/jp_home.asp)  
+[     Location](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/jp_location.stm)  
+[     Benefits](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/jp_benefits.stm)  
+[     Job Search](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/jp_jobDisplMain.asp)
 
   Corporate  
-[     Company Info](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/companyinfo.stm)  
-[     News](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/news.asp)  
-[     Fast Facts](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/fastfacts.stm)  
-[     Investor Info](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/dz.asp)
+[     Company Info](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/companyinfo.stm)  
+[     News](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/news.asp)  
+[     Fast Facts](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/fastfacts.stm)  
+[     Investor Info](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/dz.asp)
 
   Vendors  
-[     EDI Information](http://199.72.78.18/edi/default.asp?title=EDI%20Home)  
-[     Diversity Info](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/sd_var.stm)  
-[     Store List](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/redirects/storelist.asp)
+[     EDI Information](http://64.132.102.213/edi/default.asp?title=EDI%20Home)  
+[     Diversity Info](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/sd_var.stm)  
+[     Store List](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/redirects/storelist.asp)  
+[     Produce Log On](http://64.132.102.213/apps_sec/sec_app.asp)
 
   Associates  
-[     Profit Sharing](https://web.archive.org/web/20010602053634id_/http%3A//www.foodlion.com/profit.asp)
+[     Profit Sharing](https://web.archive.org/web/20011211151611id_/http%3A//foodlion.com/profit.asp)  
+[     Credit Assoc.](http://www.foodlionca.org/)
 
 |    
 |    
