@@ -1,0 +1,68 @@
+> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211211836id_/http%3A//thebiglot.com/privacy.asp%3Fgc%3D%26gcdc%3D7654%26tcsi%3D%26fr%3D%26) for the most accurate reproduction.*
+
+# Privacy Policy
+
+|   |  **Privacy Policy**
+
+TheBigLot.com is a classified service provided by Independent Systems, LLC.  Independent Systems, LLC established TheBiglot.com as a means for customers to achieve unprecedented online exposure for their vehicle, while at the same time having access to unparalleled customer service. TheBigLot.com recognizes and understands your concerns about privacy and the use of your personal information.  This Privacy Policy is intended to summarize the privacy practices of the [www.thebiglot.com](http://www.thebiglot.com/)
+
+**Personal Information from Customers and Visitors**
+
+In order to facilitate the sale of our customers’ vehicles online, it is imperative that personal information is collected.  Personal information on TheBiglot.com falls into two distinct categories: 1) personal information that customers volunteer in order to post their ad online; and 2) tracking information that does not identify you as an individual but that assists us in tracking affiliate referrals.
+
+When posting an ad on TheBigLot.com, customers must volunteer personal information so as to enable potential buyers to contact them.  “Personal information” includes name, address, telephone number, email address, and specific vehicle information.  Personal information is used for two main purposes: 1) As contact information for anyone interested in purchasing a vehicle; and 2) To help us provide fulfillment services in connection with goods and services ordered by you.  Thus, as a customer of TheBigLot.com, you will be contacted by potential buyers.  We may also contact you about your account and/or send you information directly related to the purpose for which you have registered.  We will not sell your contact information to unaffiliated third parties without your express permission.  However, please understand that when posting an ad on the Internet, your information is available to anyone.  We cannot control how potential buyers or businesses use your contact information.  If a business contacts you with respect to your vehicle and you’re not interested in their service, tell them: “Put me on your Do Not Call list” and hang up.
+
+As a customer, your personal information will continue to be available on the Internet until you notify us to cancel your ad.  You may discontinue your ad by calling us at 1 (800) 430-1965 ( _Please note that refund requests must be submitted in writing_ ) or writing to: 
+
+Independent Systems, LLC  
+Attn: Customer Care  
+P.O. Box 1671  
+Roanoke, VA 24008  
+
+
+
+If you wish to obtain a hard copy of the personal information contained in your ad, contact our Customer Care department at 1 (800) 430-1965, ext. 2 and request that we fax you a copy of the information.
+
+**Amending Personal Information**
+
+As a customer, you may also make corrections or updates to the personal information that you provide us.  With respect to your personal contact information, (i.e., your name, address, telephone number and email address) you must contact our Customer Care department at 1 (800) 430-1965, ext. 2.  With respect to specific vehicle information, you may either contact Customer Care or make changes online.  When making changes online, simply click “Find Your Ad” on the TheBig Lot.com home page, enter your Customer ID number, click “GO”, and then enter the Pin Number given to you when you purchased the ad.  Please be aware that this information is located on a non-secure site.    
+
+**Use of Cookies**
+
+In order for TheBigLot.com to better track affiliate referrals, and thus better target our services to you, we place a small text file on your hard drive, called a “cookie”.  Cookies do not contain any personal data, they do not damage your files, and they do not allow us or anyone else to access your personally identifiable information - they simply tell us what site referred you to us.  Cookies may contain such information as an IP address, DNS host name, and/or browser type.  We may aggregate this information in order to analyze website traffic figures and technical issues.  We may also share aggregate (not individual) site referral statistics with advertisers and other third parties, but again, this information will not include any personally identifiable information.  If you do not wish to receive cookies on your hard drive, most web browsers have a help option that will explain how to reject certain cookies or to disable them entirely.
+
+**Policy on Children’s Personal Information**
+
+We do not knowingly collect personal data from children.  To ensure that children’s privacy is respected on our Web site, we will not knowingly allow anyone under the age of 13 to provide any personally identifying information. In the event that someone under the age of 13 indicates that they have provided personally identifiable information to us, we will immediately remove that information from the website.  Such information will not be sold to any third party for any purpose whatsoever.
+
+**Contact Information for Affiliates**
+
+TheBigLot.com also runs an affiliate referral program.  Technical contact information is required for such partnerships.  “Technical contact information” includes name, name of employer, business address, and email address.  The information is only used in order to carry out the purposes of each partnership.  This information is not sold to third parties.  The technical contact information is collected on a non-secure registration page.   
+
+| **Links on** | ****  
+---|---  
+****
+
+In order to better serve you, and make your visit to our site more worthwhile, TheBigLot.com has links on the homepage to other third party Web service providers.  Those third party Web service providers specialize in pricing new and used cars and obtaining vehicle history reports and insurance quotes.  When you choose to visit those sites, we are not responsible for their privacy policies or how they treat user information.  You should review the privacy policies of these third parties when supplying personally identifiable information, as they will likely differ from this one.
+
+TheBigLot.com strives to protect your information off-line as well.  We restrict access to personal financial information to those employees who need to process your account and/or refunds, such as a customer service representative or the Chief Financial Officer.
+
+Finally, under certain circumstances, TheBigLot.com may disclose personal information when required by law. 
+
+**Where is Personal Information stored?**
+
+The security of the information you provide to TheBigLot.com is important to us.  Information that is collected by TheBigLot.com and TheBigLot.com website is stored on in-house controlled databases and servers.  We have implemented security policies, rules and technical measures to prevent the loss, misuse, and alteration of sensitive information under our control.   In particular, all credit card transactions are protected by the latest Secure Socket Layer (SSL) encryption technology.  SSL is the Internet standard for secured transactions.  If you have any questions about the use of your credit card information, please contact our Customer Care department at 1 (800) 430-1965, ext. 2 or via e-mail at web@thebiglot.com. 
+
+**Possible Future Uses of Information**
+
+In the unlikely event that the assets of Independent Systems, LLC and TheBigLot.com are acquired by another company, information on our customers/visitors would be among the transferred assets. 
+
+TheBigLot.com reserves the right to change our Privacy Policy as business needs require.  Any changes will be posted to our website in a timely manner, and will become effective upon posting.  This statement and the policies outlined here are not intended to and do not give you any contractual or other legal rights.  To the extent not contradicted by this Privacy Policy, this Privacy Policy also incorporates the provisions of our User Agreement.
+
+**Contact Information**
+
+If you have any questions, concerns or suggestions regarding our privacy policy, please contact our Operations Manager directly at 800-430-1965, ext. 120 or e-mail at info@thebiglot.com. 
+
+For any other questions, please contact our Customer Care department at 800-430-1965, ext. 2 or e-mail at info@thebiglot.com. Our customer service hours of operation are Monday through Thursday 9:00 a.m. to 9:00 p.m., Friday 9:00 a.m. to 6:00 p.m., and Saturday 1:00 p.m. to  5:00 p.m., Eastern Time. Our mailing address is: Independent Systems, LLC, P.O. Box 1671, Roanoke, Virginia 24008.
+
+. 
