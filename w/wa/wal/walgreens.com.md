@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011943id_/http%3A//www.walgreens.com/help/privacyandsecurity.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605191957id_/http%3A//www.walgreens.com/help/privacyandsecurity.jhtml) for the most accurate reproduction.*
 
 # Walgreens | Help | Walgreens.com Online Privacy & Security Policy
 
@@ -20,7 +20,7 @@ Walgreens.com gives you access to the following information about you for the li
   * [Confidential Messages](https://www.walgreens.com/messaging/psm/psmhome.jhtml)
   * [Ask a Pharmacist](http://www.walgreens.com/help/hy_askapharm.jhtml)
   * [Maintain Immunization Records](http://www.walgreens.com/pharmacy/immunization/ViewImmunizeRcmd.jhtml)
-  * [Print Prescription Records*](http://www.walgreens.com/help/rxrecords/tutorial1.jhtm)
+  * [Print Prescription Records*](http://www.walgreens.com/help/rxrecords/tutorial1.jhtml)
   * [Your Shopping List](http://www.walgreens.com/help/shoplisttut/default.jhtml)
 
 *Prescription information will be available for up to 15 months from the date the prescription was filled. 
@@ -42,7 +42,7 @@ We will not intentionally release your particular prescription information other
 
 **Business Transfers:** As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Walgreens.com, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets and is permissible under law. 
 
-**Protection of Walgreens.com and Others:** We release account and other personal information when we believe release is appropriate to comply with laws; enforce or apply our [Terms of Use](http://www.walgreens.com/termsofuse.jhtml) and other agreements; or protect the rights, property, or safety of Walgreens.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+**Protection of Walgreens.com and Others:** We release account and other personal information when we believe release is appropriate to comply with laws; enforce or apply our [Terms of Use](http://www.walgreens.com/common/termsofuse.jhtml) and other agreements; or protect the rights, property, or safety of Walgreens.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
 **Third Party Service Providers:** Our web site uses a third party service provider to serve images. This service allows us to improve your overall customer experience. They also use similar technology to improve the overall user experience. 
 
@@ -65,6 +65,8 @@ Cookies do not enable us to determine the identity of any visitor to our web sit
 
 Most Internet browsers permit you to erase or block cookies. Refer to your browser instructions or help screens to assist you in these processes: preventing your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that cookies permit you to take full advantage of Walgreens.com features and we recommend that you leave them turned on. 
 
+We contract with Omniture, a service partner, to provide us with a data collection and reporting service to measure the effectiveness of promotions and e-mails as well as perform analysis of our customers' activities on Walgreens.com. We will use this information to improve your shopping experience on Walgreens.com by ensuring that related products, promotions and services are easily accessible. When you visit our site, Omniture may use cookies on our behalf and may receive anonymous information about your browsing and buying activity on Walgreens.com. The only information shared with Omniture will be a random ID number and zip code. But no personally identifiable information, such as your name, address, e-mail address, etc., will be shared with Omniture. Omniture is contractually prohibited from using the information obtained in the course of providing these services to Walgreens.com in any manner other than to help us provide the best possible shopping experience on our site. 
+
 **How secure is the information I provided?**  
 Walgreens is committed to securing your personal information. We use technology that is designed for use with secure web servers. Prescription drug information resides in a database behind a firewall where it cannot be accessed without proper authorization. Secure Sockets Layer ("SSL") technology encrypts your personal information as well as your prescription health history as it is transmitted over the Internet. You maintain the security of your medical information by keeping your user name, password, [PIN](http://www.walgreens.com/help/pin.jhtml) and other personal information confidential. In addition, Walgreens customer service representatives will never ask you or call you to request your password. 
 
@@ -85,23 +87,24 @@ We may provide links to other sites that we believe offer our customers useful s
 Under the Fair Credit Billing Act, you cannot be held liable for more than $50.00 of fraudulent charges. If your credit card provider requires payment of any of this $50.00 amount as a result of a purchase made at our web site's secure server, we will reimburse you up to that $50.00 limit. 
 
 **Will this privacy policy change?**  
-As our business changes, we will continue to implement new technologies and improve the services and features we provide. This privacy policy and the [Terms of Use](http://www.walgreens.com/termsofuse.jhtml) will be updated to reflect these changes. The use of information that we gather now is subject to the privacy policy in effect at the time of use. If there are changes or additions to this privacy policy, we will post those changes here or in other formats we deem acceptable, so that you will always know what information we collect online or offline, how we use it and what choices you have. 
+As our business changes, we will continue to implement new technologies and improve the services and features we provide. This privacy policy and the [Terms of Use](http://www.walgreens.com/common/termsofuse.jhtml) will be updated to reflect these changes. The use of information that we gather now is subject to the privacy policy in effect at the time of use. If there are changes or additions to this privacy policy, we will post those changes here or in other formats we deem acceptable, so that you will always know what information we collect online or offline, how we use it and what choices you have. 
 
 It is your responsibility to review our privacy policy and Terms and Conditions for changes. 
 
 **Whom can I contact if I have questions or concerns?**  
-If you choose to visit Walgreens.com, your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](http://www.walgreens.com/termsofuse.jhtml), including limitations on damages and application of the law of the state of Illinois. If you have any concern about this privacy policy, please contact us at [customerservice@mail.walgreens.com](mailto:customerservice@mail.walgreens.com), and we will try to resolve it. 
+If you choose to visit Walgreens.com, your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](http://www.walgreens.com/common/termsofuse.jhtml), including limitations on damages and application of the law of the state of Illinois. If you have any concern about this privacy policy, please contact us at [customerservice@mail.walgreens.com](mailto:customerservice@mail.walgreens.com), and we will try to resolve it. 
 
 **Related Practices and Information**
 
-  * [Terms of Use](http://www.walgreens.com/termsofuse.jhtml)
+  * [Terms of Use](http://www.walgreens.com/common/termsofuse.jhtml)
 
-|  | 
+  
+**Last Revised:**  01/15/2004  |  | 
 
 **MOST COMMON QUESTIONS**
 
 Need additional help? 
 
-[Click here](https://web.archive.org/web/20031203011943id_/http%3A//www.walgreens.com/help/faq/default.jhtml)  
+[Click here](https://web.archive.org/web/20040605191957id_/http%3A//www.walgreens.com/help/faq/default.jhtml)  
   
 ---|---|---
