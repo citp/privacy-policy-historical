@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.co.uk privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213013400id_/http%3A//www.banking.hsbc.co.uk/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.co.uk privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603073455id_/http%3A//www.banking.hsbc.co.uk/privacy/privacy.htm) for the most accurate reproduction.*
 
 # HSBC : Important Notes
 
@@ -24,8 +24,8 @@ Cookies are pieces of information that a website transfers to your computer’s 
 
 **Your queries**
 
-If you have any questions regarding privacy issues, then e-mail us or visit any of our branches or call [ _insert relevant number_ ] for more information.
+If you have any questions regarding privacy issues, then e-mail us or visit any of our branches for more information.
 
-To ensure the accuracy of our conversation and to help us to continually improve our service and in the interests of security we may monitor and/or record your telephone calls with us. 
+To ensure the accuracy of our conversation and to help us to continually improve our service and in the interests of security we may monitor and/or record your telephone calls with us.
 
 Please see our Important Legal Information for more details on the use of our Site.
