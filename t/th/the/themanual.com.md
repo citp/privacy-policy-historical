@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themanual.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605083019id_/http%3A//themanual.com/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themanual.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009150107id_/http%3A//themanual.com/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # NetHere Privacy Policy
 
