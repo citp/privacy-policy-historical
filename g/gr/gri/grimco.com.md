@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214110828id_/http%3A//www.grimco.com/0012c/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610041628id_/http%3A//www.grimco.com/0012c/html/privacy.html) for the most accurate reproduction.*
 
 # Grimco, Inc. - Signs and Sign Supplies Since 1875
 
