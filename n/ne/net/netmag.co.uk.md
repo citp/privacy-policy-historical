@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202235200id_/http%3A//www.netmag.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmag.co.uk privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410002842id_/http%3A//netmag.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# .net magazine: the UK's best-selling Internet magazine
+# 
 
 |   
 ---  
 [.home](https://web.archive.org/default.asp)  
-[.news](https://web.archive.org/news_index.asp "The latest news headlines")  
-[.sites](https://web.archive.org/top100.asp "explore the best Web sites around")  
+[.news](https://web.archive.org/news_index1.asp "The latest news headlines")  
+[.sites](https://web.archive.org/directory.asp "explore the best Web sites around")  
 [.free downloads](https://web.archive.org/fullproducts.asp "free full products, wallpaper and freeware links")  
 [.tips & tricks](https://web.archive.org/qanda.asp "advice and help with browsers and Web building")  
 [.web builder](https://web.archive.org/webbuilder.asp?ch=WB001 "tutorials and articles for Web builders")  
 [.in-depth articles](https://web.archive.org/indepth.asp?ch=IND01 "Net life and technologies explored")  
 [.magazine](https://web.archive.org/aboutmag.asp "all about .net magazine")  
+[.webcam](https://web.archive.org/webcam/default.asp "the .net web cam")  
 [.forums](https://web.archive.org/forums.asp "discuss your views with other readers")  
+[.the team](https://web.archive.org/theteam.asp "meet the .net team")  
 [.contacts](https://web.archive.org/contacts.asp "how to contact .net")  
 [.site map](https://web.archive.org/sitemap.asp "a quick guide to the contents of this site")  
 [.IE5 companion](https://web.archive.org/ie5/ "The Web's most popular browser explained")  
@@ -75,15 +77,15 @@ By using our site you agree to accept this privacy policy and are aware that our
   
   
 ---  
-| Christmas shopping  
+| Digital underground  
   
 ---  
-| When you shop on-line do you feel confident you'll receive what you ordered?  
-|  **  Never had a problem  
- It should be OK  
- Perhaps...perhaps not  
- Don't bank on it  
- Not a hope in hell  
+| Are you a cyberpunk?  
+|  **  I hate Blade Runner.  
+ No, I leave the house.  
+ What's a MUD?  
+ Dig my black jacket.  
+ 1984 is where it's at.  
 **
 
-click [here](https://web.archive.org/polls.asp?poll_id=35) to see the current results and previous polls. 
+click [here](https://web.archive.org/polls.asp?poll_id=67) to see the current results and previous polls. 
