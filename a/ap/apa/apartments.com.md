@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205153830id_/http%3A//www.apartments.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603170347id_/http%3A//www.apartments.com/privacy.htm) for the most accurate reproduction.*
 
 # Apartments.com Privacy Policy
 
@@ -68,7 +68,7 @@ This site contains links to other sites. While we encourage our business partner
 
 Apartments.com uses a third-party advertising company to serve ads when you visit our site. This company may use information (not including your name, address, e-mail address or telephone number) about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our site through the use of pixel tags (also called clear gifs or single-pixel gifs). In the course of serving advertisements to this site, our third-party advertising company may place or recognize a unique "cookie" on your computer. If you would like more information about the information collection practices of this third-party advertising company and to know your choices about not having this information used by this company,[click here.](http://www.doubleclick.net/us/corporate/privacy/default.asp)
 
-If you have any questions about this privacy statement, please e-mail us at [customerservice@apartments.com.](mailto:customerservice@apartments.com)
+If you have any questions about this privacy statement, please e-mail us at [feedback@apartments.com.](mailto:feedback@apartments.com)
 
 Last updated: August 15, 2001   
   
