@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afl.com.au privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205115707id_/http%3A//afl.com.au/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afl.com.au privacy policy that was archived on 2003-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030324211324id_/http%3A//afl.com.au/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Official Website of the Australian Football League
 
