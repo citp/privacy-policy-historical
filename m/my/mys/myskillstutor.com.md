@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the myskillstutor.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210051631id_/http%3A//www.achievementtech.com/index.cfm%3Ffuseaction%3Dhome.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myskillstutor.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309000514id_/http%3A//www.achievementtech.com/index.cfm%3Ffuseaction%3Dhome.privacy) for the most accurate reproduction.*
 
 # Privacy Statement
-
-|  | 
-
-  
-|    | 
 
 **Right to Privacy**
 
@@ -93,6 +88,4 @@
 
 **Notification of changes**
 
-> If we change our privacy policy, we will post those changes on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.   
-  
----|---
+> If we change our privacy policy, we will post those changes on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
