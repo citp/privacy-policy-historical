@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610123056id_/http%3A//motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207030555id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -37,14 +37,9 @@ The [Mother Jones Market](http://market.motherjones.com/) is operated through a 
 
 **Transactions:** When purchasing products in the Mother Jones Market, any financial information you send to us will be saved with our banking records for verification of deposits and handling of refunds. We make only one copy, and store it in the accounting office. Other information, such as your name and mailing address, may be used to send you updates about new features on our site, from time to time we may also share mailing information from the Mother Jones Market users with other reputable companies. If you do not wish to receive such third-party mailings, please contact us at the above postal address, or send an e-mail to [privacy@motherjones.com](mailto:privacy@motherjones.com) with your full name, postal address, and e-mail address and we will be sure to remove your name from our shared lists. 
 
-**Online giving:** Donations made to Mother Jones through the Foundation for National Progress are processed by Helping.org or Give for Change. These secure transactions are governed by the privacy policies for these respective services. To learn more about how these services process and interact with the information that you provide to them, click the links below: 
+**Online giving:** Online donations made to Mother Jones through the Foundation for National Progress are processed by [GetActive](http://www.getactive.com/). Details of these secure transactions, including name, address and email information, are not shared with any outside organization. If you supply us with your postal address or email, we will use that information for the purpose of delivering what you have requested, such as your magazine subscription or other premium. We may use that information to send you occasional mailings about our projects or ways that you can support Mother Jones. If you wish to be removed from such lists, e-mail us at [privacy@motherjones.com](mailto:privacy@motherjones.com), or write to the above postal address with your request, along with your name and e-mail address. 
 
-  * [Helping.org Privacy Policy](https://www.helping.org/about/security.adp)
-  * [Give for Change Privacy Policy](http://www.workingforchange.com/about/privacy.cfm)
-
-
-
-Additional questions about how these philanthropic partnerships work can be addressed to [privacy@motherjones.com](mailto:privacy@motherjones.com). 
+Additional questions about how these philanthropic partnerships work can be addressed to [giving@motherjones.com](mailto:giving@motherjones.com). 
 
 **MoJournal:** When you sign up for our weekly newsletter about new we do not share your e-mail address, or any information about yourself which you may volunteer, with any third parties. 
 
