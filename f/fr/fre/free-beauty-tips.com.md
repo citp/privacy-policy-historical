@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215053007id_/http%3A//free-beauty-tips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-beauty-tips.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,19 +20,24 @@ Furthermore, Free-Beauty-Tips does not divulge any information regarding the use
 
 |  |  **Health Tips**  
 ---  
-[**Healthy You**](https://web.archive.org/web/20011215053007id_/http%3A//free-beauty-tips.com/health.html)  
+[**Healthy You**](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/health.html)  
   
 **Special Care**  
-**[ Acne Problems](https://web.archive.org/web/20011215053007id_/http%3A//free-beauty-tips.com/acne.html)**  
+**[ Acne Problems](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/acne.html)**  
   
 **Cosmetics**  
-[**Cosmetics**](https://web.archive.org/web/20011215053007id_/http%3A//free-beauty-tips.com/cosmetics.html)  
+[**Cosmetics**](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/cosmetics.html)  
   
 **Free Samples**  
-[**Samples of Free Beauty Products**](https://web.archive.org/web/20011215053007id_/http%3A//free-beauty-tips.com/samples.html)  
+[**Samples of Free Beauty Products**](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/samples.html)  
+  
+**Fun Stuff**  
+[**Free Greeting Cards**](http://www.1lovecards.com/)  
+[**Lyrics**](http://www.romantic-lyrics.com/)  
+[**Fitness**](http://www.wholefitness.com/)  
   
 **Resources**  
-[**Related Websites**](https://web.archive.org/web/20011215053007id_/http%3A//free-beauty-tips.com/resources.html)  
+[**Related Websites**](https://web.archive.org/web/20020603073112id_/http%3A//free-beauty-tips.com/resources.html)  
   
   
 Be good to yourself. Enjoy every day.
