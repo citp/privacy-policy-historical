@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603150017id_/http%3A//www.4jobs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202120539id_/http%3A//4jobs.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy
 
