@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621162241id_/http%3A//www.eeoc.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212210600id_/http%3A//www.eeoc.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for the U.S. Equal Employment Opportunity Commission Web Site
 
@@ -26,8 +26,12 @@ If you choose to provide us with personal information, as in e-mail with a comme
 
 Our web site has links to other federal agencies. In a few cases we may link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
 
+## Use of cookies
+
+Our web site is designed to [allow visitors to change the appearance of the site](https://web.archive.org/web/20001212210600id_/http%3A//www.eeoc.gov/style/about.html) by selecting from several style sheets. The main purpose of this is to improve accessibility and make the site easier to use for people with limited vision, or people who use adaptive equipment to access the web. It may also be of use for people using hand-held computers, WebTV, or other alternative web access devices. If you choose to use this feature, a "cookie" will be set on your web browser. The only thing we put in the cookie is the name of the style sheet you select. We do not track or monitor cookies, and no personal information will be collected or stored. We do not use cookies for any other purpose.
+
 * * *
 
-_This page was last modified on July 6, 1999._
+_This page was last modified on September 26, 2000._
 
-[](https://web.archive.org/web/20000621162241id_/http%3A//www.eeoc.gov/index.html "Link to home page of EEOC web site") [Return to Home Page](https://web.archive.org/web/20000621162241id_/http%3A//www.eeoc.gov/index.html "Link to home page of EEOC web site")
+[](https://web.archive.org/web/20001212210600id_/http%3A//www.eeoc.gov/index.html "Link to home page of EEOC web site") [Return to Home Page](https://web.archive.org/web/20001212210600id_/http%3A//www.eeoc.gov/index.html "Link to home page of EEOC web site")
