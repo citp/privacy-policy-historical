@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ffinsider.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607211640id_/http%3A//ffinsider.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffinsider.net privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209074922id_/http%3A//www.ffinsider.net/privacy.php) for the most accurate reproduction.*
 
-# Final Fantasy Insider - Your Complete Final Fantasy Guide
+# Final Fantasy Insider / www.ffinsider.net - Privacy Policy
 
-[ ](http://www.ffinsider.net/) |    |    
+  
 **FF Insider » Privacy Statement**
 
 * * *
@@ -16,4 +16,4 @@ This site uses cookies. If you disable your cookie, you will not be able to navi
 
 Your personal information (real name, country, and email) is securely stored in our database and will not be published. Your name and email will only be used to contact you for notification about your Fan works submission. These information is safely stored and there would be no party whatsoever that could lay their hands on it.
 
-If you disagree with our privacy policy, you should refrain by not going any further into the site.
+If you disagree with our privacy policy, you should refrain by not going any further into the site. 
