@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2001-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010620113852id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622053749id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
 
-# About Respondus: Privacy Statement | Respondus, Inc.
-
-**Respondus.com Privacy Statement**
+# About Respondus :: Privacy Statement
 
 Respondus, Inc. has created this statement to explain our commitment to your privacy. We seek to protect your private information so that you have an enjoyable experience on our web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. 
 
@@ -29,6 +27,10 @@ We employ other companies and individuals to perform functions on our behalf. Ex
 Respondus may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to Respondus.com or others. 
 
 As we continue to develop our business, we might sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that Respondus, Inc., or substantially all of its assets are acquired, customer information will likely be one of the transferred assets. 
+
+**Software Updates**
+
+The Respondus software will periodically and automatically check for a software update at the Respondus.com web site. No information about your computer hardware and software is collected by Respondus, Inc. during this process. Instead, the Respondus software retrieves information from Respondus.com and will display a message if an update is available. The user can choose whether or not to upgrade to the latest version of software. 
 
 **Security**
 
@@ -60,7 +62,7 @@ Respondus.com is committed to protecting the privacy of children. We encourage p
 **Updating, Correcting, Or Deleting Your Information**  
 Because your account information is stored offline for added security, there is no provision for you to manually edit your account information via the web browser. 
 
-If you receive an e-mail from us, you can have your e-mail address edited or deleted from a particular list by replying to the e-mail message with the word REMOVE as the subject. Please understand that we maintain different mailing lists, such as one for registered users of Respondus Lite and another for people who have signed up to participate in a beta program. If you have provided us information at different times or for different purposes, it may be necessary to have your e-mail address removed from multiple lists. 
+If you receive an e-mail from us, you can have your e-mail address edited or deleted from a particular list by replying to the e-mail message with the word REMOVE as the subject. Please understand that we maintain different mailing lists, such as one for registered users of Respondus LE and another for people who have signed up to participate in a beta program. If you have provided us information at different times or for different purposes, it may be necessary to have your e-mail address removed from multiple lists. 
 
 **Contact Information**
 
