@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appleone.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408164429id_/http%3A//www.appleone.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleone.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206190327id_/http%3A//www.appleone.com/Privacy.asp) for the most accurate reproduction.*
 
 # AppleOne - Privacy Statement
 
@@ -16,7 +16,7 @@ As an employer and employment service representing associates to potential emplo
 In the course of representing associates to potential employers, AppleOne will provide such information as is necessary to convey the full scope of an individual's work experience, history and abilities. Further AppleOne partners with associate companies to provide enhanced benefit offerings to its valued associates. AppleOne will share such information as is necessary to provide and support on-going benefit offerings. 
 
 **4\. E-Mail Addresses**  
-From time to time, AppleOne utilizes e-mail to share valuable information with those associates who have requested to be kept informed regarding career searches, employment opportunities and special benefits available to associates. Associates may choose to Opt-Out of these distributions at any time.
+From time to time, AppleOne utilizes e-mail to share valuable information with those associates who have requested to be kept informed regarding career searches, employment opportunities and special benefits available to associates. Associates may choose to [Opt-Out](https://web.archive.org/Subs/) of these distributions at any time.
 
 **5\. Site Logs and Web Statistics**  
 AppleOne collects statistical information in aggregate regarding the utilization of its web site. Such information is used to provide enhanced support and service offerings. AppleOne does not associate aggregate statistical information with personal information such as names or addresses, and AppleOne does not seek to determine the usage patterns of individuals within its web site. 
