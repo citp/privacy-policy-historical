@@ -8,3 +8,9 @@ We maintain your name, postal, and e-mail address and car selection information 
 This information is only used by Hyundai Motor America and its affiliated companies. The information is not disclosed or sold to outside organizations.
 
 For more information, please call Hyundai at 1-800-826-CARS.
+**Hyundai Privacy Policy**  
+We maintain your name, postal, and e-mail address and car selection information in our database. We use this information to measure consumer interest in our various automobiles and services.
+
+This information is only used by Hyundai Motor America and its affiliated companies. The information is not disclosed or sold to outside organizations.
+
+For more information, please call Hyundai at 1-800-826-CARS.
