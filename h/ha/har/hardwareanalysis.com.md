@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603163447id_/http%3A//www.hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareanalysis.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608174927id_/http%3A//hardwareanalysis.com/content/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Hardware Analysis - Privacy Policy
 
@@ -30,5 +30,6 @@ The Netherlands
 
 Privacy related complaints:
 
-If you believe that Hardware Analysis has not complied with this Privacy Policy with respect to your personal information, you may write Hardware Analysis at the address indicated above. In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly.   
+If you believe that Hardware Analysis has not complied with this Privacy Policy with respect to your personal information, you may write Hardware Analysis at the address indicated above. In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
 
+Copyright © 2001, 2002 Hardware Analysis
