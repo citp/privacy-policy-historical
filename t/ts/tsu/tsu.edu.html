@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tsu.edu privacy policy that was archived on 2003-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031008105707id_/http%3A//www.tsu.edu/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tsu.edu privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603122528id_/http%3A//www.tsu.edu/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -178,7 +178,7 @@ DQM_url2_3 = "/student/health/"
 DQM_url2_4 = "/student/disability/"
 DQM_url2_5 = "/student/organizations/"
 DQM_url2_6 = "/student/events/"
-DQM_url2_7 = "/student/ktsu/"
+DQM_url2_7 = "http://www.ktsufm.org/ktsu/"
 DQM_url2_8 = "/about/police/"
 
 /*---------------------------------------------
@@ -216,7 +216,7 @@ DQM_subdesc4_0 = "Campus Employment"
 DQM_subdesc4_1 = "Career Office"
 DQM_subdesc4_2 = "Career Resources"
 DQM_subdesc4_3 = "Web Site Links"
-DQM_url4_0 = "/career/employment/"
+DQM_url4_0 = "http://jobs.tsu.edu"
 DQM_url4_1 = "/career/office/"
 DQM_url4_2 = "/career/resources/"
 DQM_url4_3 = "/career/links.asp"
@@ -263,13 +263,18 @@ DQM_url5_2 = "/giving/objectives.asp"
 </tr>
 
 <tr>
-<td class="search" align="center" height="54"><form method="post" action="http://search.beacontec.com/tsu/searchResultsRpt.jsp">
+<td class="search" align="center" height="54"><form action="/cgi-bin/tsu/search.pl" method="get">
+	<input type="hidden" name="p" value="1">
+	<input type="hidden" name="lang" value="en">
+	<input type="hidden" name="include" value="">
+	<input type="hidden" name="exclude" value="">
+	<input type="hidden" name="penalty" value="0">
 <!--//start search nested table//-->
 <table border="0" cellpadding="5" cellspacing="0" summary="Search form is in this table">
 <tbody><tr valign="bottom">
 <!--//form tag causes extra space in IE if in the div or td tags but won't validate here//-->
-<td class="searchBox"><label for="tbSearch">SEARCH:</label></td>
-<td class="field"><input type="text" size="15" name="tbSearch" id="tbSearch" class="field"></td>
+<td class="searchBox"><label for="q">SEARCH:</label></td>
+<td class="field"><input type="text" size="15" name="q" id="q" class="field"></td>
 <td><input type="image" src="/images/header/go_b.gif" class="searchButton" value="search" border="0" name="GO" id="GO" alt="GO"></td>
 </tr>
 </tbody></table></form>
@@ -426,15 +431,15 @@ The TSU Website contains links to other independently run Websites within the Te
 <!--//opening divs are closed in the main left nav include//--><!--//opening divs are included in the section specific left navs//-->
 <br>
 <div id="lNavBox">
-<a href="/about/faculty/">Faculty &amp; Staff</a>
+<a href="/about/faculty/index.asp">Faculty &amp; Staff</a>
 <a href="/prospective.asp">Prospective Students</a>
-<a href="/current.asp">Current Students</a>
+<a href="http://em.tsu.edu/currentstudents.php">Current Students</a>
 <a href="/international.asp">International Students</a>
-<a href="/academics/continue/">Continuing Ed</a>
-<a href="/alumni/">TSU Alumni</a>
+<a href="/academics/continue/index.asp">Continuing Ed</a>
+<a href="/alumni/index.asp">TSU Alumni</a>
 <a href="javascript:newWindow = window.open('/giving/index.asp', 'Giving', 'top=30,left=30,width=550,height=450,resizable=1,scrollbars=1'); newWindow.focus()" title="This link will open up popup window">Contributors</a>
 <br>
-<a href="/media/">Marketing &amp; Communications</a>
+<a href="/media/index.asp">Office of Communications</a>
 </div>
 
 </div>
