@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devarticles.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602182106id_/http%3A//www.devarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devarticles.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008195300id_/http%3A//www.devarticles.com/privacy.php) for the most accurate reproduction.*
 
 # DevArticles
 
