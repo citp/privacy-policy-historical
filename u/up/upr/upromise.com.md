@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202112259id_/http%3A//www.upromise.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upromise.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607174812id_/http%3A//www.upromise.com/corp/privacy.html%3Fcx%3Df) for the most accurate reproduction.*
 
 # Upromise - Privacy Statement and Principles
 
@@ -16,7 +16,7 @@
 
 **Family and Friends Network Information**. You may use our Tell-a-Friend service to notify your family and friends about Upromise by providing their names and email addresses. You can also increase your college savings through Upromise by creating a savings network of family and friends that directs a portion of its Upromise savings to your future college students. 
 
-Upromise will automatically send a one-time email inviting your family and friends to visit Upromise. Upromise stores the information for the purpose of sending these emails and to measure overall response rates to these services. Your family and friends may [contact us](https://web.archive.org/web/20011202112259id_/http%3A//www.upromise.com/nspage?su=8105) to request that their information be removed. 
+Upromise will automatically send a one-time email inviting your family and friends to visit Upromise. Upromise stores the information for the purpose of sending these emails and to measure overall response rates to these services. Your family and friends may [contact us](https://web.archive.org/nspage?su=8105) to request that their information be removed. 
 
 Family and friends who contribute to your future college students' investment accounts will receive confirmation of the name and age of each future college student for whom they are saving. You will soon be able to share access to additional information about these accounts with your family and friends network, including messages and progress towards your goal, if you wish. 
 
@@ -38,7 +38,7 @@ Family and friends who contribute to your future college students' investment ac
 
 **Use of Non-Personally Identifiable Information**. Upromise may also provide aggregated, non-personally identifiable information about our members and their future college students to third parties for audit and marketing purposes. Because aggregated data is not associated with any particular person, these third parties will not have access to any personally identifiable information about you or your future college students. 
 
-**Transfers of Information for Legal Purposes**. Upromise may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, or search warrant, or in the course of a legal proceeding or lawsuit. If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially used by the purchaser. 
+**Transfers of Information for Legal Purposes**. Upromise may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, or search warrant, or in the course of a legal proceeding or lawsuit. If there is a change of control in Upromise's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially used by the purchaser. If, as a result of such a change of control in Upromise's business, there is a material change in this statement or our information-handling practices as described in this statement, we will post the changes on this privacy statement and on our website at least 30 days prior to their implementation. We will also send an email notification to our members. You will have a choice as to whether we use your existing information in a new manner. 
 
 **What are my choices regarding how my personal information is used by Upromise?**
 
@@ -66,12 +66,12 @@ If we materially change this statement or our information-handling practices as 
 
 **What is TRUSTe and why is it so important?**
 
-Upromise is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Upromise is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. TRUSTe has agreed to review the practices of www.upromise.com because this website wants to demonstrate its commitment to your privacy. 
 
 If you have questions or concerns regarding this statement, you should first contact Upromise (see below). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with Upromise to resolve your concerns. 
 
 **How do I contact Upromise about this Privacy Statement?**
 
-If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please [contact us](https://web.archive.org/web/20011202112259id_/http%3A//www.upromise.com/nspage?su=8105). 
+If you have any questions about this privacy statement, our information-handling practices, or other aspects of privacy at Upromise, please [contact us](https://web.archive.org/nspage?su=8105). 
 
-This statement covers both Upromise, Inc. and Upromise Investments, Inc., a registered broker-dealer and wholly-owned subsidiary of Upromise, Inc. that enables members to invest their contributions in Section 529 college savings plans. 
+This statement reflects the practices of both Upromise, Inc. and Upromise Investments, Inc., a registered broker-dealer and wholly-owned subsidiary of Upromise, Inc. that enables members to invest their contributions in Section 529 college savings plans. 
