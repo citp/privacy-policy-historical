@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 0kay.net privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405095842id_/http%3A//www.0kay.net/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0kay.net privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803231201id_/http%3A//www.0kay.net/privacy/index.shtml) for the most accurate reproduction.*
 
 # 0kay.net
 
