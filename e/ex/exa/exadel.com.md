@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exadel.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053750id_/http%3A//www.exadel.com/legalinfo_privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exadel.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605200519id_/http%3A//www.exadel.com/legalinfo_privacystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,8 +8,10 @@
   
   
   
-[](http://www.java.net/)  
-  
+
+
+[](http://www.java.net/)
+
 |   
 |   
 |   
