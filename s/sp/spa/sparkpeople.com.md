@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602034727id_/http%3A//sparkpeople.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204200647id_/http%3A//www.sparkpeople.com/privacy.asp) for the most accurate reproduction.*
 
 # SparkPeople: Privacy Policy
 
