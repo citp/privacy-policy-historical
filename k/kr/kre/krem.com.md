@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610133352id_/http%3A//www.krem.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231025538id_/http%3A//www.krem.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KREM.com | News for Spokane, Washington | Privacy Policy
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1112878129/Left/default/empty.gif/7a2f486f6556347a594d344143595174?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1156202448/Left/default/empty.gif/7a2f486f6556347a594e414144704e54?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1036817658/Left1/default/empty.gif/7a2f486f6556347a594d344143595174?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1836358155/Left1/default/empty.gif/7a2f486f6556347a594e414144704e54?x)
 
 | 
 
@@ -100,7 +100,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure.  You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1.                  Enter (or click) [http://signin. **KREM**.com](http://signin.krem.com/) in your browser.
+1.                  Enter (or click) <http://www.krem.com/sharedcontent/registration/membercenter.jsp> in your browser.
 
 2.                  Sign in by entering your e-mail address and password.  Your account information will then be displayed.
 
@@ -124,10 +124,6 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 | 
 
-Advertising 
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1976483373/Position4/default/empty.gif/7a2f486f6556347a594e414144704e54?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/1851160219/Position1/default/empty.gif/7a2f486f6556347a594d344143595174?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/266047638/Position4/default/empty.gif/7a2f486f6556347a594d344143595174?x)
-
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/354675740/Position5/default/empty.gif/7a2f486f6556347a594d344143595174?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.krem.com/aboutus/401787333/Position5/default/empty.gif/7a2f486f6556347a594e414144704e54?x)
