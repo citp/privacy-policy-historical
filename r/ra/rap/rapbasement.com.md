@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapbasement.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206065705id_/http%3A//www.rapbasement.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapbasement.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606222251id_/http%3A//www.rapbasement.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D7) for the most accurate reproduction.*
 
 # Rap Basement - Rap Hip Hop Lifestyle Network - Content
 
