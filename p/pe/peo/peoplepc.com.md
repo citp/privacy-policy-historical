@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 1999-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991128010151id_/http%3A//peoplepc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 2000-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000511171341id_/http%3A//www.peoplepc.com/privacy.htm) for the most accurate reproduction.*
 
 # PeoplePC | Your Privacy Matters
 
@@ -50,9 +50,9 @@ Any amendments to this policy will be posted on this Web page, and will take eff
 * | We really do. Read [this _New York Times story_](http://www.nytimes.com/library/tech/98/04/biztech/articles/10microsoft.html) about the history of Firefly Network, the PeoplePC founders' previous company, and its pioneering work for online privacy.  
 ---|---  
   
-### [Join PeoplePC now!](https://web.archive.org/web/19991128010151id_/http%3A//peoplepc.com/join1.htm)
+### [Join PeoplePC now!](https://web.archive.org/web/20000511171341id_/http%3A//www.peoplepc.com/join1.asp)
 
    
-[Home](http://www.peoplepc.com/index.htm) | [What You Get](http://www.peoplepc.com/aboutppc.htm) | [The Details](http://www.peoplepc.com/faq.htm) | [Join PeoplePC](http://www.peoplepc.com/join1.htm) | [Check Your Order](http://www.peoplepc.com/status1.htm) | [Our Privacy Policy](http://www.peoplepc.com/privacy.htm)   
-[We're Hiring!](http://www.peoplepc.com/corp_jobs.htm) | [Corporate Information](http://www.peoplepc.com/corporateinfo.htm) | [The Fine Print](http://www.peoplepc.com/legal.asp) | [Access Numbers](http://www.peoplepc.com/check_state.asp) | [Contact Us](http://www.peoplepc.com/contactus.htm)   
+[Home](http://www.peoplepc.com/index.htm) | [What You Get](http://www.peoplepc.com/about/ppc.htm) | [The Details](http://www.peoplepc.com/about/faq/faq.htm) | [Join PeoplePC](http://www.peoplepc.com/join1.asp) | [Check Your Order](http://www.peoplepc.com/status1.htm) | [Our Privacy Policy](http://www.peoplepc.com/privacy.htm)   
+[We're Hiring!](http://www.peoplepc.com/about/corp/corp_jobs.htm) | [Corporate Information](http://www.peoplepc.com/corporateinfo.htm) | [The Fine Print](http://www.peoplepc.com/legal.asp) | [Access Numbers](http://www.peoplepc.com/check_state.asp) | [Contact Us](http://www.peoplepc.com/contactus.htm)   
 Copyright © 1999, PeoplePC, Inc. All rights reserved
