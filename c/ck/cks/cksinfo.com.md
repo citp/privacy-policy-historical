@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cksinfo.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609154144id_/http%3A//www.cksinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cksinfo.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202075831id_/http%3A//www.cksinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # Free clip art and clipart images - Privy Policy
 
