@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activision.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082151id_/http%3A//activision.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activision.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204224408id_/http%3A//www.activision.com/privacy.asp) for the most accurate reproduction.*
 
 # Activision : Privacy Policy
 
@@ -34,9 +34,9 @@ This Privacy Policy currently applies to the following Web sites operated by Act
 
 **[www.activision.com](http://www.activision.com/)**
 
-In addition, Activision also owns several other domain names that point to the Web site listed above, and we may from time to time add new sites that may or may not be listed above. Please note, however, that this policy applies only to **www.Activision.com** and not to web sites maintained by other companies or organizations to which we link and Activision cannot and does not guarantee the security of any personal information disclosed on those sites. In addition, please note that we may solicit third parties to collect personal information on our behalf and in such cases such third parties will be instructed to comply with the our Online Privacy Statement as set forth herein. Finally, please note that this Online Privacy Statement applies only to the collection, use and disclosure of information obtained online and not to the collection of information obtained offline.
+In addition, Activision also owns several other domain names that point to the Web site listed above, and we may from time to time add new sites that may or may not be listed above. Please note, however, that this policy applies only to www.Activision.com and not to web sites maintained by other companies or organizations to which we link and Activision cannot and does not guarantee the security of any personal information disclosed on those sites. Also, this privacy policy does not apply to websites operated by our International affiliates. When you link to these foreign sites or any other sites from a website listed above, their privacy policies will apply. In addition, please note that we may solicit third parties to collect personal information on our behalf and in such cases such third parties will be instructed to comply with the Online Privacy Statement as set forth herein. Finally, please note that this Online Privacy Statement applies only to the collection, use and disclosure of information obtained online and not to the collection of information obtained offline.
 
-If you have any questions, complaints, or comments regarding our privacy s statement or policies, please send written correspondence to the address provided for at the end of this Online Privacy Statement. You can also contact ESRB Privacy Online directly at (212) 759-0700 or by regular mail at 845 Third Avenue, New York, NY 10022.
+If you have any questions, complaints, or comments regarding our privacy statement or policies, please send written correspondence to the address provided for at the end of this Online Privacy Statement. You can also contact ESRB Privacy Online directly at (212) 759-0700 or by regular mail at 845 Third Avenue, New York, NY 10022.
 
 **What information does Activision collect?**
 
