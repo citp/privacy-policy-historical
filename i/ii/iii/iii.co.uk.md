@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209114641id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607202012id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.*
 
 # Ample - About us
 
 ### Privacy Policy
 
+Version: 17 December 2003
+
 #### Introduction
 
 1\. We take our obligations under the Data Protection Act 1998 and all related regulations ("the Act") very seriously and have taken steps to ensure compliance with the provisions of the Act. 
 
-2\. This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below. Defined terms in this Privacy Policy have the same meanings as in the [General Site Conditions](https://web.archive.org/web/20031209114641id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy?subtype=terms&type=legal) and the Act. 
+2\. This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below. Defined terms in this Privacy Policy have the same meanings as in the [General Site Conditions](https://web.archive.org/web/20040607202012id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy?subtype=terms&type=legal) and the Act. 
 
 #### What Personal Data do we collect and why
 
@@ -29,7 +31,7 @@
 
 Full details of the purposes are set out in our Data Protection registration.
 
-5\. As part of our customer service we may also share your Personal Data with other AMP Group companies so that we can provide you with appropriate information about our or other AMP Group products and selected services. You will be able to indicate on the Site if you do not wish to receive such information. You may also notify us at any time on the "My Profile" page on the Site or by contacting the Ample Contact Centre on 0845 88 00 267 if you decide you do not want to receive such information.
+5\. As part of our customer service we may also share your Personal Data with other HHG Group companies so that we can provide you with appropriate information about our or other HHG Group products and selected services. You will be able to indicate on the Site if you do not wish to receive such information. You may also notify us at any time on the "My Profile" page on the Site or by contacting the Ample Contact Centre on 0845 88 00 267 if you decide you do not want to receive such information.
 
 #### Use of Cookies
 
@@ -59,7 +61,9 @@ Full details of the purposes are set out in our Data Protection registration.
 
 > The Ample Data Protection Officer  
 >  Interactive Investor Trading Limited  
->  142 Holborn  
->  London EC1N 2NQ 
+>  Dashwood House,  
+>  69 Old Broad Street,  
+>  London  
+>  EC2M 1QS 
 
 15\. We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act. If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify the Ample Contact Centre on 0845 88 00 267 as soon as possible.
