@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014122928id_/http%3A//www.metropolismag.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603221729id_/http%3A//www.metropolismag.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Metropolis Magazine
 
-|  Metropolis Privacy Statement  
-Bellerophon Publications, Inc., is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+|  Privacy Statement Bellerophon Publications, Inc., is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
 **Subscription**  
 We request information from the user on our subscription order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Our subscriber list is sometimes rented to direct-response mailers.
@@ -30,7 +29,7 @@ We partner with another party to provide specific services. When the user signs 
 This web site contains links to other sites. Please be aware that Metropolis is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this Web site.
 
 **Talk2us**  
-If a user elects to email information to our Talk2Us pages, we reserve the right to use this information on the site. We also reserve the right to edit this information for appropriate content, correct spelling and syntax, and for the sake of brevity. If the user's phone number, or email address is included, he may be contacted by an editor if that editor has questions regarding the content of his message. Otherwise, that user's information will be kept confidential. Any responses to his message will be funneled through Metropolismag.com.
+If a user elects to email information to our Talk2Us pages, we reserve the right to use this information on the site. We also reserve the right to edit this information for appropriate content, correct spelling and syntax, and for the sake of brevity. If the user's phone number, or email address is included, he may be contacted by an editor if that editor has questions regarding the content of his message. Otherwise, that user's information will be kept confidential. Any responses to his message will be funneled through MetropolisMag.com.
 
 **Email to a Friend**  
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Metropolis will automatically send the friend a one-time email inviting them to visit the site. Metropolis stores this information for the sole purpose of sending this one-time email. The friend may contact us at [webmaster@metropolismag.com](mailto:webmaster@metropolismag.com) to request the removal of this information from their database. Otherwise the information may be retained for the purpose of improving or further personalizing the site.
@@ -51,9 +50,9 @@ If we decide to change our privacy policy, we will post those changes so our use
 Metropolis  
 61 W. 23rd St.  
 New York, NY 10010  
-212/627-9977; 212/627-9988 (fax)  
+212-627-9977; 212-627-9988 (fax)  
 [webmaster@metropolismag.com](mailto:webmaster@metropolismag.com)
 
 USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY
 
-© Bellerophon Publications, Inc. 2002, All rights reserved.
+© Bellerophon Publications, Inc. 2003, All rights reserved.
