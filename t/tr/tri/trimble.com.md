@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622125215id_/http%3A//www.trimble.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202141646id_/http%3A//www.trimble.com/privacy.html) for the most accurate reproduction.*
 
 # Trimble - Privacy Statement
 
@@ -8,7 +8,7 @@
 
  ****
 
-****Effective date: March   31, 2003
+****Effective date: Nov   13, 2003
 
 **Trimble's Commitment to Online Privacy**
 
@@ -18,15 +18,16 @@
 
 This Privacy Statement covers Trimble's family of corporate web sites, which include:
 
-[www.trimble.com](https://web.archive.org/web/20030622125215id_/http%3A//www.trimble.com/index.html)  
+[www.trimble.com](https://web.archive.org/web/20031202141646id_/http%3A//www.trimble.com/index.html)  
 [www.trimblestore.com](http://www.trimblestore.com/)  
 [www.gpspathfinderexpress.com](http://www.gpspathfinderexpress.com/)  
 [www.knet.trimble.com  
-](http://www.knet.trimble.com/)[Telvisant Mobile Resource Management System](http://209.137.103.31/)
+](http://www.knet.trimble.com/)[Telvisant Mobile Resource Management System  
+](http://209.137.103.31/)[ _http://global.trimble.com/_](http://global.trimble.com/)
 
-[ ](http://209.137.103.31/)
+[ __](http://global.trimble.com/)
 
-[](http://209.137.103.31/)Some of our subsidiaries or programs have their own, possibly different, policies. We encourage you to read this privacy policy and those of all web sites you visit.
+[__](http://global.trimble.com/)__[__](http://209.137.103.31/)__Some of our subsidiaries or programs have their own, possibly different, policies. We encourage you to read this privacy policy and those of all web sites you visit.
 
 **Consent**
 
@@ -52,6 +53,7 @@ For example, you may choose to give us personal information when you:
   * Subscribe to newsletters and online services
   * Enter Trimble-sponsored contests, sweepstakes and other promotions
   * Create a user profile to receive future information, special offers and communications.
+  * Apply to be considered for employment in connection with a job opening at Trimble. 
 
 
 
@@ -62,6 +64,8 @@ At such times you may be asked to provide contact and billing information (e.g.,
  ****
 
 ****Trimble uses personal information collected on its web sites for the purpose it is requested or as necessary or permissible under applicable law (e.g., in some jurisdictions we may have to keep invoices under tax laws).   We also may use the information you provide to notify you later about new developments with respect to the products and services you have purchased or to inform you about new products, special offers and services offered by Trimble, its subsidiaries and affiliates ("Trimble Companies") or its business partners.  It is important to note that you may opt out of receiving further information from Trimble, as discussed in detail below. We use non-personal information to analyze sales trend data as it relates to geography, time and demographics.
+
+In connection with a job application or inquiry advertised on a Trimble Web site, you may provide us with information about yourself, such as a resume or curriculum vitae.  We may use this information throughout Trimble and the Trimble Companies for the purpose of employment consideration or your inquiry.  Except where you tell us not to, we will keep the information for future consideration.
 
 **With Whom We Share Information**
 
@@ -93,8 +97,18 @@ Digital River, Inc., a leading e-commerce service provider, hosts and operates o
 
 Trimble does not receive sensitive financial information such as credit card numbers from Digital River. The information we receive from them is limited to customer contact details, customer opt-in/opt-out preferences and sales transaction information such as order date, products ordered and their quantities, product serial number etc.
 
+  * [www.softype.com:](http://www.softype.com/)
+
+Softype, Inc. provides support services by registering and processing job candidate resumes submitted online, and by maintaining Trimble's database of job candidate resumes on behalf of Trimble.
 
 
+
+
+**Links**
+
+ ****
+
+****Please note that our Web sites contain links to other sites, such as to those of our external service providers identified above. When you access a non-Trimble Web site, even one that may contain the Trimble logo and content regarding Trimble's products and services, please understand that the Web site is independent of Trimble, and that Trimble has no control over operation of that Web site.  Please be aware that Trimble is not responsible for the privacy practices of such other sites. We encourage our users to  read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Trimble web sites listed above. A link to a non-Trimble Web site does not mean that Trimble endorses such site.
 
 **Choice**
 
@@ -108,19 +122,13 @@ Trimble does not receive sensitive financial information such as credit card num
 
 ****Cookies are small pieces of information stored in your browser on you computer's hard drive. Some Trimble pages use cookies, sent by Trimble or its third-party agents, to better serve you when you return to the site. If you prefer not to receive cookies you have the option of setting your browser to warn you before accepting cookies or to reject them altogether. If you do so, however, some areas of some sites may not function properly.
 
-**Links**
-
- ****
-
-****Our Web site may contain links to other sites. Please be aware that Trimble is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Trimble web sites listed above.
-
 **How You Can Access Or Correct Your Information** **How You Can Access Or Correct Your Information**
 
 You can access or ask for corrections of your personally identifiable information that we collect and maintain in retrievable form by following this procedure: 
 
-  1. Contact Trimble's Privacy Program Manager at [_privacy@Trimble.com_](mailto:privacy@trimble.com) __by sending a detailed message explaining your request including:
-    * Full contact information (your name, street address, e-mail address, telephone number)
-    * Details of the request (e.g. change of e-mail address, unsubscribe from a newsletter, review of personal information, etc.). Please be very specific about the concerns that led to your request.
+  1. Contact Trimble's Privacy Program Manager at [_privacy@Trimble.com_](mailto:privacy@trimble.com) __for general requests, or to Trimble's Human Resources Department at[ HR_HELP@Trimble.com](mailto:HR_HELP@Trimble.com) for requests related to online resume submissions, by sending a detailed message explaining your request including:
+      * Full contact information (your name, street address, e-mail address, telephone number)
+      * Details of the request (e.g. change of e-mail address, unsubscribe from a newsletter, review of personal information, etc.). Please be very specific about the concerns that led to your request.
   2. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access to information or making corrections.
   3. We do not place frequency or fee limits on your ability to access your information, however we reserve the right to decline unreasonable requests for information access and correction. If this right is exercised, we will inform you about the reasons for which your request is declined and explain to you a dispute resolution process should you wish to use it.
   4. If the information to which access is requested is not maintained in retrievable form, we will explain why access cannot be provided and how this type of information is collected and used.
