@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontseek.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/copyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontseek.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623144250id_/http%3A//fontseek.com/copyright.html) for the most accurate reproduction.*
 
 # Privacy policy - fontseek.com
 
@@ -20,7 +20,7 @@
 > **Privacy of email addresses:**  
 >  We do not sell, rent, loan, trade, or lease email addresses to anyone. 
 > 
-> If you have questions to the above, please e-mail: [**info@fontseek.com**](mailto:info@fontseek.com)  
+> If you have questions to the above, please e-mail: infofontseek.com   
   
   
 **Copyright FontSeek.com   **All rights reserved.   
@@ -31,7 +31,7 @@
 >  In no event shall FontSeek.com be liable for any damages, errors in text or wrong links. The owner of a site, which is found using FontSeek, assumes the responsibility for the content of that site.  
 >  All brands and font names are registered trademarks of their respective owners. Please read the font description for more information.
 > 
-> If you have questions, instigations or criticism, please send an email to [info@fontseek.com](mailto:info@fontseek.com).   
+> If you have questions, instigations or criticism, please send an email to infofontseek.com.   
   
-[Home](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/index.html)  |  [Live-Search](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/livesearch.shtml)  |   [Software](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/software.html)  |  [Add Site](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/add.html)  |  [Supplier](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/supplier.html)   
-© 2000 [FontSeek.com](https://web.archive.org/web/20021204195935id_/http%3A//www.fontseek.com/copyright.html)
+[Home](https://web.archive.org/web/20030623144250id_/http%3A//fontseek.com/index.html)  |  [Live-Search](https://web.archive.org/web/20030623144250id_/http%3A//fontseek.com/livesearch.shtml)  |   [Software](https://web.archive.org/web/20030623144250id_/http%3A//fontseek.com/software.html)  |  [Add Site](https://web.archive.org/web/20030623144250id_/http%3A//fontseek.com/add.html)  |  [Supplier](https://web.archive.org/web/20030623144250id_/http%3A//fontseek.com/supplier.html)   
+© 2000 [FontSeek.com](https://web.archive.org/web/20030623144250id_/http%3A//fontseek.com/copyright.html)
