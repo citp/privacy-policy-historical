@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ntrs.com privacy policy that was archived on 2003-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031002035053id_/http%3A//www.ntrs.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ntrs.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603084941id_/http%3A//www.ntrs.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Consumer Privacy Principles</title>
@@ -17,601 +17,294 @@
 <body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 
 <script>
-
-
-
 	// * * * * * * *
-
 	// * Determine which menu item is active from which area.
-
 	// * See script.js for function definition.
-
 	// * * * * * * *
 
 	currentCategory = getCurrentCategory( strMenuWanted );
-
-
-
-
-
+	
 	function launchPrivatePassport(event,link) {
-
 		if (navigator.appName == "Netscape") {
-
 			x = event.pageX;
-
 			y = event.pageY;
-
 		} else {
-
 			x = event.x;
-
 			y = event.y;
-
 		}
-
 		param=link.href + "?sf=";
 
-
-
 		if (y <= 100) {
-
 			if (x < 400)
-
 				param = param + "nttpp";
-
 			else
-
 				param = param + "nttob";
-
 		} else {
-
 			if (window.location.href.toLowerCase().indexOf("northernfunds") >= 0)
-
 				param = param + "nf";
-
 			else
-
 				param = param + "nt";
+		}
 
+		window.location = param;
+		return false;
+	}
+</script>
+
+<script>
+var NS = (navigator.appName == "Netscape");
+var mactest=navigator.userAgent.indexOf("Mac")!=-1
+
+if (NS) {
+document.write("<style>");
+document.write(".grad {background-repeat: no-repeat; background-position: top right; width:785; background-image: url(/images/grad.gif)}");
+document.write("</style>");
+} else {
+document.write("<style>");
+document.write(".grad {background-repeat: no-repeat; background-position: top right; width:756; background-image: url(/images/grad.gif)}");
+document.write("</style>");
+}
+
+if ((mactest) && (!NS)) {
+document.write("<style>");
+document.write(".grad {background-repeat: no-repeat; background-position: top right; width:785; background-image: url(/images/grad.gif)}");
+document.write("</style>");
+} 
+</script><style>.grad {background-repeat: no-repeat; background-position: top right; width:785; background-image: url(/images/grad.gif)}</style>
+
+<span id="transparentbackground" name="transparentbackground" class="clsTransparentBackground">
+<a href="#" onclick="return false;" onmouseover="removeDropDown()"><img src="/images/transparent.gif" width="780" height="450" border="1"></a>
+</span>
+
+<style type="text/css">
+.hpreload {position:absolute; top:50; left:0;}
+input.srch {font-family:verdana,arial; font-size:9.5px;}
+</style>  
+<div class="hpreload"><a href="/index.html"><img src="/images/transparent.gif" width="300" height="50" alt="The Northern Trust Company"></a></div><a href="/index.html">
+<div id="personaldropdownbg" name="personaldropdownbg" class="clsPersonalDropdownbg"><img src="/images/personalddbkg.gif" height="118" width="183" border="0"></div>
+<div id="personaldropdown" name="personaldropdown" class="clsPersonalDropdown"><script>buildDropDown('personaldropdown',document);</script><table border="0" width="190" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="/personal/index.html"><img border="0" src="/images/transparent.gif" height="16" width="76" alt="personal"></a><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="114" height="16"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall1"></td><td align="left"><a href="/personal/investments/index.html" onmouseover="setImage(ddBall1,document.ddBall1,'/images/bulletWhite.gif')"><font class="clsDDLink">Investments&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall16"></td><td align="left"><a href="/personal/banking/index.html" onmouseover="setImage(ddBall16,document.ddBall16,'/images/bulletWhite.gif')"><font class="clsDDLink">Banking&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall21"></td><td align="left"><a href="/personal/trust_estate/index.html" onmouseover="setImage(ddBall21,document.ddBall21,'/images/bulletWhite.gif')"><font class="clsDDLink">Trust<font face="Verdana" size="-2"> &amp; </font>Estate&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall27"></td><td align="left"><a href="/personal/financialplanning/index.html" onmouseover="setImage(ddBall27,document.ddBall27,'/images/bulletWhite.gif')"><font class="clsDDLink">Financial Planning&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall31"></td><td align="left"><a href="/personal/familyoffice/index.html" onmouseover="setImage(ddBall31,document.ddBall31,'/images/bulletWhite.gif')"><font class="clsDDLink">Family Office Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall41"></td><td align="left"><a href="/personal/onlineservices/index.html" onmouseover="setImage(ddBall41,document.ddBall41,'/images/bulletWhite.gif')"><font class="clsDDLink">Online Services&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
+<div id="corporatedropdownbg" name="corporatedropdownbg" class="clsCorporateDropdownbg"><img src="/images/corporateddbkg.gif" height="169" width="190" border="0"></div>
+<div id="corporatedropdown" name="corporatedropdown" class="clsCorporateDropdown"><script>buildDropDown('corporatedropdown',document);</script><table border="0" width="190" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="/corporate/index.html"><img border="0" src="/images/transparent.gif" height="16" width="152" alt="corporate"></a><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="38" height="16"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall44"></td><td align="left"><a href="/corporate/investments/index.html" onmouseover="setImage(ddBall44,document.ddBall44,'/images/bulletWhite.gif')"><font class="clsDDLink">Investments&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall58"></td><td align="left"><a href="/corporate/globalsecurities/index.html" onmouseover="setImage(ddBall58,document.ddBall58,'/images/bulletWhite.gif')"><font class="clsDDLink">Custody Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall65"></td><td align="left"><a href="/corporate/fund/index.html" onmouseover="setImage(ddBall65,document.ddBall65,'/images/bulletWhite.gif')"><font class="clsDDLink">Fund Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall71"></td><td align="left"><a href="/corporate/participant/index.html" onmouseover="setImage(ddBall71,document.ddBall71,'/images/bulletWhite.gif')"><font class="clsDDLink">Retirement Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall76"></td><td align="left"><a href="/corporate/treasurymanagement/index.html" onmouseover="setImage(ddBall76,document.ddBall76,'/images/bulletWhite.gif')"><font class="clsDDLink">Treasury Management&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall93"></td><td align="left"><a href="/corporate/correspondent/index.html" onmouseover="setImage(ddBall93,document.ddBall93,'/images/bulletWhite.gif')"><font class="clsDDLink">Correspondent Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall102"></td><td align="left"><a href="/corporate/banking/index.html" onmouseover="setImage(ddBall102,document.ddBall102,'/images/bulletWhite.gif')"><font class="clsDDLink">Corporate Banking&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall104"></td><td align="left"><a href="/corporate/smallbusiness/index.html" onmouseover="setImage(ddBall104,document.ddBall104,'/images/bulletWhite.gif')"><font class="clsDDLink">Small Business&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall110"></td><td align="left"><a href="/corporate/onlineservices/index.html" onmouseover="setImage(ddBall110,document.ddBall110,'/images/bulletWhite.gif')"><font class="clsDDLink">Online Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall120"></td><td align="left"><a href="/corporate/events/index.html" onmouseover="setImage(ddBall120,document.ddBall120,'/images/bulletWhite.gif')"><font class="clsDDLink">Events&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
+<div id="librarydropdownbg" name="librarydropdownbg" class="clsLibraryDropdownbg"><img src="/images/libraryddbkg.gif" height="136" width="220" border="0"></div>
+<div id="librarydropdown" name="librarydropdown" class="clsLibraryDropdown"><script>buildDropDown('librarydropdown',document);</script><table border="0" width="230" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="/library/index.html"><img border="0" src="/images/transparent.gif" height="16" width="74" alt="library"></a><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="156" height="16"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall161"></td><td align="left"><a href="/library/econ_research/index.html" onmouseover="setImage(ddBall161,document.ddBall161,'/images/bulletWhite.gif')"><font class="clsDDLink">Economic Research&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall174"></td><td align="left"><a href="/library/news_wire/headlines_general.html" onmouseover="setImage(ddBall174,document.ddBall174,'/images/bulletWhite.gif')"><font class="clsDDLink">News Wire&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall205"></td><td align="left"><a href="/library/personal/estate_planning/index.html" onmouseover="setImage(ddBall205,document.ddBall205,'/images/bulletWhite.gif')"><font class="clsDDLink">Estate Planning Library&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall210"></td><td align="left"><a href="/library/personal/index.html" onmouseover="setImage(ddBall210,document.ddBall210,'/images/bulletWhite.gif')"><font class="clsDDLink">Personal Investing Library&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall216"></td><td align="left"><a href="/library/corporate/index.html" onmouseover="setImage(ddBall216,document.ddBall216,'/images/bulletWhite.gif')"><font class="clsDDLink">Corporate<font face="Verdana" size="-2"> &amp; </font>Institutional Library&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall229"></td><td align="left"><a href="/library/glossary/" onmouseover="setImage(ddBall229,document.ddBall229,'/images/bulletWhite.gif')"><font class="clsDDLink">Glossary&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall230"></td><td align="left"><a href="/library/multimedia/index.html" onmouseover="setImage(ddBall230,document.ddBall230,'/images/bulletWhite.gif')"><font class="clsDDLink">Multimedia Center&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall234"></td><td align="left"><a href="/library/toolset/" onmouseover="setImage(ddBall234,document.ddBall234,'/images/bulletWhite.gif')"><font class="clsDDLink">Tools&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
+<div id="aboutusdropdownbg" name="aboutusdropdownbg" class="clsAboutusDropdownbg"><img src="/images/aboutusddbkg.gif" border="0"></div>
+<div id="aboutusdropdown" name="aboutusdropdown" class="clsAboutusDropdown"><script>buildDropDown('aboutusdropdown',document);</script><table border="0" width="154" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="/aboutus/index.html"><img border="0" src="/images/transparent.gif" height="16" width="76" alt="aboutus"></a><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="78" height="16"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall121"></td><td align="left"><a href="/aboutus/news/index.html" onmouseover="setImage(ddBall121,document.ddBall121,'/images/bulletWhite.gif')"><font class="clsDDLink">Northern Trust News&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall126"></td><td align="left"><a href="/aboutus/investor/index.html" onmouseover="setImage(ddBall126,document.ddBall126,'/images/bulletWhite.gif')"><font class="clsDDLink">Investor Relations&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall138"></td><td align="left"><a href="/aboutus/management/index.html" onmouseover="setImage(ddBall138,document.ddBall138,'/images/bulletWhite.gif')"><font class="clsDDLink">Management&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall142"></td><td align="left"><a href="/aboutus/history/index.html" onmouseover="setImage(ddBall142,document.ddBall142,'/images/bulletWhite.gif')"><font class="clsDDLink">History&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall143"></td><td align="left"><a href="/aboutus/locations/index.html" onmouseover="setImage(ddBall143,document.ddBall143,'/images/bulletWhite.gif')"><font class="clsDDLink">Locations&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall148"></td><td align="left"><a href="/aboutus/community/index.html" onmouseover="setImage(ddBall148,document.ddBall148,'/images/bulletWhite.gif')"><font class="clsDDLink">In the Community&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall151"></td><td align="left"><a href="/aboutus/careers/index.html" onmouseover="setImage(ddBall151,document.ddBall151,'/images/bulletWhite.gif')"><font class="clsDDLink">Careers&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
+<div id="feedbackdropdownbg" name="feedbackdropdownbg" class="clsFeedbackDropdownbg"><img src="/images/feedbackddbkg.gif" height="83" width="84" border="0"></div>
+<div id="feedbackdropdown" name="feedbackdropdown" class="clsFeedbackDropdown"><script>buildDropDown('feedbackdropdown',document);</script><table border="0" width="84" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="8" height="16"></a><a href="/feedback/index.html"><img border="0" src="/images/transparent.gif" height="16" width="76" alt="contact us"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall245"></td><td align="left"><a href="/feedback/email.html" onmouseover="setImage(ddBall245,document.ddBall245,'/images/bulletWhite.gif')"><font class="clsDDLink">E-Mail&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall246"></td><td align="left"><a href="/feedback/byphone.html" onmouseover="setImage(ddBall246,document.ddBall246,'/images/bulletWhite.gif')"><font class="clsDDLink">By Phone&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall247"></td><td align="left"><a href="/feedback/inperson.html" onmouseover="setImage(ddBall247,document.ddBall247,'/images/bulletWhite.gif')"><font class="clsDDLink">In Person&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
+
+<div id="dropdownlayout" name="dropdownlayout" class="clsDropDownLayout" style="visibility: visible;">
+	<table cellspacing="0" cellpadding="0" border="0">
+	  <tbody><tr>
+		<td width="77"><a href="/personal/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.personaldropdown,personaldropdown,document.personaldropdownbg,personaldropdownbg)"><img name="picpersonal" id="picpersonal" src="/images/row1Personal.gif" width="77" height="16" border="0" alt="Personal" class="clsZindex10"></a></td>
+		<td width="152"><a href="/corporate/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.corporatedropdown,corporatedropdown,document.corporatedropdownbg,corporatedropdownbg)"><img name="piccorporate" src="/images/row1corporate.gif" width="152" height="16" border="0" alt="Corporate &amp; Institutional" class="clsZindex10"></a></td>
+		<td width="77"><a href="/library/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.librarydropdown,librarydropdown,document.librarydropdownbg,librarydropdownbg)"><img name="piclibrary" src="/images/row1library.gif" width="77" height="16" border="0" alt="Resources" class="clsZindex10"></a></td>
+		<td width="77"><a href="/aboutus/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.aboutusdropdown,aboutusdropdown,document.aboutusdropdownbg,aboutusdropdownbg)"><img name="picaboutus" src="/images/row1aboutus.gif" width="77" height="16" border="0" alt="About Us" class="clsZindex10"></a></td>
+		<td width="77"><a href="/feedback/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.feedbackdropdown,feedbackdropdown,document.feedbackdropdownbg,feedbackdropdownbg)"><img name="picfeedback" src="/images/row1feedback.gif" width="77" height="16" border="0" alt="Contact us" class="clsZindex10"></a></td>
+	  </tr>
+	</tbody></table>
+</div>
+
+<div class="grad">
+<div class="clsTopOfL">
+<!-- this is the Account Access dropdown table -->
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" colspan="3" width="780"><img src="/images/universal/spacer.gif" width="780" height="20"></td>
+</tr>
+<tr>
+	<script language="JavaScript">
+
+		function accountAccessRedirect( strMenuChoice ) {
+
+			// Based on the user selection, redirect to the
+			// appropriate page.
+			switch( strMenuChoice ) {
+				case "Private":
+					var rightNow = new Date();
+					var iUnique = rightNow.getTime();
+					window.open("http://www.northerntrust.com/incs/signons/privatepassport.html","popup"+iUnique,"toolbar=yes,location=yes, status=yes, menubar=yes, resizable=yes, height=600, width=800, scrollbars=yes");
+					break;
+				case "Online":
+					var rightNow = new Date();
+					var iUnique = rightNow.getTime();
+					window.open("http://www.northerntrust.com/incs/signons/privatepassport.html","popup"+iUnique,"toolbar=yes,location=yes, status=yes, menubar=yes, resizable=yes, height=600, width=800, scrollbars=yes");
+					break;
+				case "Family":
+					document.location = "https://web-xp1-ptl.ntrs.com/ptl.public/cgi-bin/ptl/ntrs/jsp/ptl/login.jsp";
+					break;
+				case "Business":
+					document.location = "https://ntrsb.ebanking-services.com/";
+					break;
+				case "Global":
+					document.location = "https://web-xp1-ptl.ntrs.com/ptl.public/cgi-bin/ptl/ntrs/jsp/ptl/login.jsp";
+					break;
+				case "Custody":
+					document.location = "https://web-xp1-pss.ntrs.com/pss/jsp/index.jsp";
+					break;
+				case "Benefit":
+					document.location = "https://web-xp1b-bpp.ntrs.com/bppsecure";
+					break;
+				case "Correspondent":
+					document.location = "https://web-xp1-pss.ntrs.com/pss/jsp/index.jsp";
+					break;
+				case "Foreign":
+					document.location = "https://ntfxpassport.ntrs.com/";
+					break;
+				case "Securities":
+					document.location = "https://web-xp1-slp.ntrs.com/slp";
+					break;
+				case "Treasury":
+					document.location = "https://web-xp1-tms.ntrs.com/tms/common/index.html";
+					break;
+				case "Investment":
+					var rightNow = new Date();
+					var iUnique = rightNow.getTime();
+
+window.open("https://web-xp1-cnt.ntrs.com/cnt/","popup"+iUnique,"toolbar=yes,location=yes, status=yes, menubar=yes, resizable=yes, height=600, width=800, scrollbars=yes");
+					break;
+			}
 		}
 
 
-
-		window.location = param;
-
-		return false;
-
-	}
-
-</script>
-
-
-
-<div id="personaldropdownbg" name="personaldropdownbg" class="clsPersonalDropdownbg"><img src="/images/personalddbkg.gif" height="118" width="183" border="0"></div>
-
-<div id="personaldropdown" name="personaldropdown" class="clsPersonalDropdown"><script>buildDropDown('personaldropdown',document);</script><table border="0" width="190" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="/personal/index.html"><img border="0" src="/images/transparent.gif" height="16" width="76" alt="personal"></a><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="114" height="16"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall1"></td><td align="left"><a href="/personal/investments/index.html" onmouseover="setImage(ddBall1,document.ddBall1,'/images/bulletWhite.gif')"><font class="clsDDLink">Investments&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall16"></td><td align="left"><a href="/personal/banking/index.html" onmouseover="setImage(ddBall16,document.ddBall16,'/images/bulletWhite.gif')"><font class="clsDDLink">Banking&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall21"></td><td align="left"><a href="/personal/trust_estate/index.html" onmouseover="setImage(ddBall21,document.ddBall21,'/images/bulletWhite.gif')"><font class="clsDDLink">Trust<font face="Verdana" size="-2"> &amp; </font>Estate&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall27"></td><td align="left"><a href="/personal/financialplanning/index.html" onmouseover="setImage(ddBall27,document.ddBall27,'/images/bulletWhite.gif')"><font class="clsDDLink">Financial Planning&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall31"></td><td align="left"><a href="/personal/familyoffice/index.html" onmouseover="setImage(ddBall31,document.ddBall31,'/images/bulletWhite.gif')"><font class="clsDDLink">Family Office Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall41"></td><td align="left"><a href="/personal/onlineservices/index.html" onmouseover="setImage(ddBall41,document.ddBall41,'/images/bulletWhite.gif')"><font class="clsDDLink">Online Services&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
-
-<div id="corporatedropdownbg" name="corporatedropdownbg" class="clsCorporateDropdownbg"><img src="/images/corporateddbkg.gif" height="169" width="190" border="0"></div>
-
-<div id="corporatedropdown" name="corporatedropdown" class="clsCorporateDropdown"><script>buildDropDown('corporatedropdown',document);</script><table border="0" width="190" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="/corporate/index.html"><img border="0" src="/images/transparent.gif" height="16" width="152" alt="corporate"></a><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="38" height="16"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall44"></td><td align="left"><a href="/corporate/investments/index.html" onmouseover="setImage(ddBall44,document.ddBall44,'/images/bulletWhite.gif')"><font class="clsDDLink">Investments&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall58"></td><td align="left"><a href="/corporate/globalsecurities/index.html" onmouseover="setImage(ddBall58,document.ddBall58,'/images/bulletWhite.gif')"><font class="clsDDLink">Custody Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall65"></td><td align="left"><a href="/corporate/fund/index.html" onmouseover="setImage(ddBall65,document.ddBall65,'/images/bulletWhite.gif')"><font class="clsDDLink">Fund Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall71"></td><td align="left"><a href="/corporate/participant/index.html" onmouseover="setImage(ddBall71,document.ddBall71,'/images/bulletWhite.gif')"><font class="clsDDLink">Retirement Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall76"></td><td align="left"><a href="/corporate/treasurymanagement/index.html" onmouseover="setImage(ddBall76,document.ddBall76,'/images/bulletWhite.gif')"><font class="clsDDLink">Treasury Management&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall93"></td><td align="left"><a href="/corporate/correspondent/index.html" onmouseover="setImage(ddBall93,document.ddBall93,'/images/bulletWhite.gif')"><font class="clsDDLink">Correspondent Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall102"></td><td align="left"><a href="/corporate/banking/index.html" onmouseover="setImage(ddBall102,document.ddBall102,'/images/bulletWhite.gif')"><font class="clsDDLink">Corporate Banking&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall104"></td><td align="left"><a href="/corporate/smallbusiness/index.html" onmouseover="setImage(ddBall104,document.ddBall104,'/images/bulletWhite.gif')"><font class="clsDDLink">Small Business&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall110"></td><td align="left"><a href="/corporate/onlineservices/index.html" onmouseover="setImage(ddBall110,document.ddBall110,'/images/bulletWhite.gif')"><font class="clsDDLink">Online Services&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall120"></td><td align="left"><a href="/corporate/events/index.html" onmouseover="setImage(ddBall120,document.ddBall120,'/images/bulletWhite.gif')"><font class="clsDDLink">Events&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
-
-<div id="librarydropdownbg" name="librarydropdownbg" class="clsLibraryDropdownbg"><img src="/images/libraryddbkg.gif" height="186" width="220" border="0"></div>
-
-<div id="librarydropdown" name="librarydropdown" class="clsLibraryDropdown"><script>buildDropDown('librarydropdown',document);</script><table border="0" width="230" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="/library/index.html"><img border="0" src="/images/transparent.gif" height="16" width="74" alt="library"></a><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="156" height="16"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall161"></td><td align="left"><a href="/library/econ_research/index.html" onmouseover="setImage(ddBall161,document.ddBall161,'/images/bulletWhite.gif')"><font class="clsDDLink">Economic Research&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall174"></td><td align="left"><a href="/library/news_wire/headlines_general.html" onmouseover="setImage(ddBall174,document.ddBall174,'/images/bulletWhite.gif')"><font class="clsDDLink">News Wire&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall205"></td><td align="left"><a href="/library/personal/estate_planning/index.html" onmouseover="setImage(ddBall205,document.ddBall205,'/images/bulletWhite.gif')"><font class="clsDDLink">Estate Planning Library&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall210"></td><td align="left"><a href="/library/personal/index.html" onmouseover="setImage(ddBall210,document.ddBall210,'/images/bulletWhite.gif')"><font class="clsDDLink">Personal Investing Library&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall216"></td><td align="left"><a href="/library/corporate/index.html" onmouseover="setImage(ddBall216,document.ddBall216,'/images/bulletWhite.gif')"><font class="clsDDLink">Corporate<font face="Verdana" size="-2"> &amp; </font>Institutional Library&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall229"></td><td align="left"><a href="/library/glossary/" onmouseover="setImage(ddBall229,document.ddBall229,'/images/bulletWhite.gif')"><font class="clsDDLink">Glossary&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall230"></td><td align="left"><a href="/library/multimedia/index.html" onmouseover="setImage(ddBall230,document.ddBall230,'/images/bulletWhite.gif')"><font class="clsDDLink">Multimedia Center&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall234"></td><td align="left"><a href="/library/toolset/" onmouseover="setImage(ddBall234,document.ddBall234,'/images/bulletWhite.gif')"><font class="clsDDLink">Tools&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
-
-<div id="aboutusdropdownbg" name="aboutusdropdownbg" class="clsAboutusDropdownbg"><img src="/images/aboutusddbkg.gif" height="163" width="154" border="0"></div>
-
-<div id="aboutusdropdown" name="aboutusdropdown" class="clsAboutusDropdown"><script>buildDropDown('aboutusdropdown',document);</script><table border="0" width="154" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="/aboutus/index.html"><img border="0" src="/images/transparent.gif" height="16" width="76" alt="aboutus"></a><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="78" height="16"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall121"></td><td align="left"><a href="/aboutus/news/index.html" onmouseover="setImage(ddBall121,document.ddBall121,'/images/bulletWhite.gif')"><font class="clsDDLink">Northern Trust News&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall126"></td><td align="left"><a href="/aboutus/investor/index.html" onmouseover="setImage(ddBall126,document.ddBall126,'/images/bulletWhite.gif')"><font class="clsDDLink">Investor Relations&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall138"></td><td align="left"><a href="/aboutus/management/index.html" onmouseover="setImage(ddBall138,document.ddBall138,'/images/bulletWhite.gif')"><font class="clsDDLink">Management&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall142"></td><td align="left"><a href="/aboutus/history/index.html" onmouseover="setImage(ddBall142,document.ddBall142,'/images/bulletWhite.gif')"><font class="clsDDLink">History&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall143"></td><td align="left"><a href="/aboutus/locations/index.html" onmouseover="setImage(ddBall143,document.ddBall143,'/images/bulletWhite.gif')"><font class="clsDDLink">Locations&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall148"></td><td align="left"><a href="/aboutus/community/index.html" onmouseover="setImage(ddBall148,document.ddBall148,'/images/bulletWhite.gif')"><font class="clsDDLink">In the Community&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall151"></td><td align="left"><a href="/aboutus/careers/index.html" onmouseover="setImage(ddBall151,document.ddBall151,'/images/bulletWhite.gif')"><font class="clsDDLink">Careers&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
-
-<div id="feedbackdropdownbg" name="feedbackdropdownbg" class="clsFeedbackDropdownbg"><img src="/images/feedbackddbkg.gif" height="83" width="84" border="0"></div>
-
-<div id="feedbackdropdown" name="feedbackdropdown" class="clsFeedbackDropdown"><script>buildDropDown('feedbackdropdown',document);</script><table border="0" width="84" class="clsNoBackground" cellspacing="0" cellpadding="0"><tbody><tr class="clsNoBackground"><td align="left" class="clsNoBackground"><a href="#" onclick="return false;" onmouseover="removeDropDown()"><img border="0" src="/images/transparent.gif" width="8" height="16"></a><a href="/feedback/index.html"><img border="0" src="/images/transparent.gif" height="16" width="76" alt="contact us"></a><br><img src="/images/transparent.gif" height="8" width="90"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall245"></td><td align="left"><a href="/feedback/email.html" onmouseover="setImage(ddBall245,document.ddBall245,'/images/bulletWhite.gif')"><font class="clsDDLink">E-Mail&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall246"></td><td align="left"><a href="/feedback/byphone.html" onmouseover="setImage(ddBall246,document.ddBall246,'/images/bulletWhite.gif')"><font class="clsDDLink">By Phone&nbsp;</font></a></td></tr><tr height="17"><td width="16" align="center"><img src="/images/transparent.gif" width="8" height="7" name="ddBall247"></td><td align="left"><a href="/feedback/inperson.html" onmouseover="setImage(ddBall247,document.ddBall247,'/images/bulletWhite.gif')"><font class="clsDDLink">In Person&nbsp;</font></a></td></tr></tbody></table><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table></div>
+	</script>
+<td valign="top" align="left" width="320"><img src="/images/universal/spacer.gif" width="448" height="1"></td>
+<td valign="middle" align="right" width="331"><img src="/images/universal/NTTopNavAccountAccess_ttl.gif" alt="Account Access" width="101" height="18" border="0"></td>
+<td valign="top" align="right" width="128">
+	<script language="javascript">
+		document.write( '<form name="frmAccountAccess" action="http://' + location.hostname + ':8765/nt/query.html" method="POST">' );
+	</script><form name="frmAccountAccess" action="http://web.archive.org:8765/nt/query.html" method="POST">
+	<div id="accounts">
+	<select name="sltAccess" rows="14" onchange="javascript:accountAccessRedirect( document.frmAccountAccess.sltAccess.options[document.frmAccountAccess.sltAccess.selectedIndex].value );">
+		<option value="">Sign on to...</option>
+		<option value="Private">Private Passport</option>
+		<option value="Online">Online Brokerage</option>
+		<option value="Family">Family Passport</option>
+		<option value="Business">Business Passport</option>
+		<option value="Global">Global Investor Passport</option>
+		<option value="Custody">Custody Passport</option>
+		<option value="Investment">Investment Passport</option>
+		<option value="Benefit">Benefit Payments Passport</option>
+		<option value="Foreign">Foreign Exchange (FX) Passport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</option>
+		<option value="Treasury">Treasury Passport</option>
+		<option value="Securities">Securities Lending Passport</option>
+		<option value="Correspondent">Correspondent Services</option>
+	</select></div></form></td>
 
 
+<!-- <td valign="top" width="1"><img src="/images/universal/spacer.gif" width="1" height="0"></td> -->
+</tr>
+</tbody></table>
 
-<div id="dropdownlayout" name="dropdownlayout" class="clsDropDownLayout" style="visibility: visible;">
-
-	<table cellspacing="0" cellpadding="0" border="0">
-
-	  <tbody><tr>
-
-		<td width="77"><a href="/personal/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.personaldropdown,personaldropdown,document.personaldropdownbg,personaldropdownbg)"><img name="picpersonal" id="picpersonal" src="/images/row1Personal.gif" width="77" height="16" border="0" alt="Personal" class="clsZindex10"></a></td>
-
-		<td width="152"><a href="/corporate/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.corporatedropdown,corporatedropdown,document.corporatedropdownbg,corporatedropdownbg)"><img name="piccorporate" src="/images/row1corporate.gif" width="152" height="16" border="0" alt="Corporate &amp; Institutional" class="clsZindex10"></a></td>
-
-		<td width="77"><a href="/library/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.librarydropdown,librarydropdown,document.librarydropdownbg,librarydropdownbg)"><img name="piclibrary" src="/images/row1library.gif" width="77" height="16" border="0" alt="Resources" class="clsZindex10"></a></td>
-
-		<td width="77"><a href="/aboutus/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.aboutusdropdown,aboutusdropdown,document.aboutusdropdownbg,aboutusdropdownbg)"><img name="picaboutus" src="/images/row1aboutus.gif" width="77" height="16" border="0" alt="About Us" class="clsZindex10"></a></td>
-
-		<td width="77"><a href="/feedback/index.html" onmouseclick="return false" onmouseover="displayDropDown(document.feedbackdropdown,feedbackdropdown,document.feedbackdropdownbg,feedbackdropdownbg)"><img name="picfeedback" src="/images/row1feedback.gif" width="77" height="16" border="0" alt="Contact us" class="clsZindex10"></a></td>
-
-	  </tr>
-
-	</tbody></table>
-
-</div>
-
-
-
-<span id="transparentbackground" name="transparentbackground" class="clsTransparentBackground">
-
-  <a href="#" onclick="return false;" onmouseover="removeDropDown()"><img src="/images/transparent.gif" width="780" height="435" border="1"></a>
-
-</span>
-
-
-
-<div class="clsTopOfL">
-
-
+<!-- this is the locations, quotes, calculators and about online services table -->
 
 <table width="780" border="0" cellpadding="0" cellspacing="0">
-
-
-
-	<script language="JavaScript">
-
+<tbody><tr height="12"><td valign="top" colspan="3" width="780">&nbsp;</td>
+</tr>
+<tr>
+<script language="JavaScript">
 	searchurl = location.hostname;
-
 	port = 80;
-
 	if (searchurl.toLowerCase().indexOf("web-is1") >=0) {
-
 		searchurl = "web-is1g-pws.ntrs.com";
-
 		port = 11140;
-
 	}
-
-
 
 	if (searchurl.toLowerCase().indexOf("web-xa1") >=0) {
-
 		searchurl = "web-xa1g-pws.ntrs.com";
-
 		port = 12067;
-
 	}
-
-
 
 	if (searchurl.toLowerCase().indexOf("web-xa2") >=0) {
-
 		searchurl = "web-xa2g-pws.ntrs.com";
-
 		port = 12067;
-
 	}
-
-
 
 	if (searchurl.toLowerCase().indexOf("web-xp") >=0) {
-
 		searchurl = "web-xp2g-pws.ntrs.com";
-
 		port = 80;
-
 	}
-
-
 
 	if (searchurl.toLowerCase().indexOf("northerntrust") >=0 || searchurl.toLowerCase().indexOf("ntrs") >=0) {
-
 		searchurl = "web-xp2g-pws.ntrs.com";
-
 		port = 80;
-
 	}
 
-
+	if (searchurl.toLowerCase().indexOf("swebiwvu01") >=0 || searchurl.toLowerCase().indexOf("ntrs") >=0) {
+		searchurl = "web-xp2g-pws.ntrs.com";
+		port = 80;
+	}
 
 	//searchurl = "web1b13.ntrs.com"; // correct web1t04 search error
-
 //		document.write( '<form name="frmSiteSearch" action="http://' + searchurl + ':8765/nt/query.html" method="GET">' );
-
 		document.write( '<form name="frmSiteSearch" action="http://' + searchurl + ':' + port + '/nt/query.html" method="GET">' );
 
 
-
-
-
-	</script><form name="frmSiteSearch" action="http://web.archive.org:80/nt/query.html" method="GET"></form>
-
-
-
-	<!--	The follow table row creates the area holding the search utility
-
-			and other misc. links. -->
-
-	<tbody><tr>
-
-		<td rowspan="6" width="320" align="left" valign="top"><a href="/index.html"><img src="/images/universal/spacer.gif" width="320" height="66" border="0"></a></td>
-
-		<td><img src="/images/universal/spacer.gif" width="215" height="7"></td>
-
-		<td><img src="/images/universal/spacer.gif" width="42" height="7"></td>
-
-		<td><img src="/images/universal/spacer.gif" width="190" height="7"></td>
-
-		<td><img src="/images/universal/spacer.gif" width="13" height="7"></td>
-
-	</tr>
-
-	<tr>
-
-		<td width="215" align="left" valign="bottom" class="clsSearchLinks">
-
-			<a href="javascript:targetPopup( 'http://invest.northerntrust.com/cgi/inet/companyinfo.trn?selection=stock_quote_dl&amp;chart_type=6&amp;symbol=t', 'quotes', 'yes', 'yes', 'yes', 'yes', 'yes', 700, 650 );" class="searchLinks">Quotes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/library/toolset/calculator/index.html" class="searchLinks">Calculators</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/aboutus/locations/index.html" class="searchLinks">Locations</a>&nbsp;&nbsp;<br>
-
-			<img src="/images/universal/spacer.gif" width="1" height="6" border="0"></td>
-
-		<td width="42" align="left" valign="bottom">
-
-			<img src="/images/universal/NTTopNav_Search.gif" width="42" height="11" alt="Search"><br>
-
-			<img src="/images/universal/spacer.gif" width="1" height="6" border="0"></td>
-
-		<td width="190" align="left" valign="bottom">
-
-			<input type="text" name="qt" size="15" maxlength="25">
-
-			<a href="javascript:window.document.frmSiteSearch.submit();">
-
-			<img src="/images/universal/NTTopNav_Go.gif" width="20" height="11" alt="Go" border="0"></a></td>
-
-		<td width="13" align="left" valign="bottom"><img src="/images/universal/spacer.gif" width="1" height="24" border="0"></td>
-
-	</tr>
-
-	<!-- Cheater row - forces the table to be layed out exactly to designer specs -->
-
-	<tr>
-
-		<td width="215"><img src="/images/universal/spacer.gif" width="215" height="14" border="0"></td>
-
-		<td width="42"><img src="/images/universal/spacer.gif" width="42" height="14" border="0"></td>
-
-		<td width="190"><img src="/images/universal/spacer.gif" width="190" height="14" border="0"></td>
-
-		<td width="13"><img src="/images/universal/spacer.gif" width="13" height="14" border="0"></td>
-
-	</tr>
-
-		<input type="hidden" name="qs" value="">
-
-		<input type="hidden" name="qc" value="">
-
-		<input type="hidden" name="pw" value="779">
-
-		<input type="hidden" name="ws" value="0">
-
-		<input type="hidden" name="la" value="en">
-
-		<input type="hidden" name="qm" value="0">
-
-		<input type="hidden" name="ql" value="">
-
-		<input type="hidden" name="st" value="1">
-
-		<input type="hidden" name="nh" value="10">
-
-		<input type="hidden" name="lk" value="1">
-
-		<input type="hidden" name="rf" value="0">
-
-		<input type="hidden" name="rq" value="0">
-
-		<input type="hidden" name="si" value="0">
-
-		<input type="hidden" name="col" value="nt">
-
-	
-
-	<tr>
-
-		<td colspan="4">
-
-			<img src="/images/universal/spacer.gif" width="50" height="14">
-
-		</td>
-
-	</tr>
-
-	<tr>
-
-		<td colspan="4"><img src="/images/universal/spacer.gif" width="50" height="4"></td>
-
-	</tr>
-
-	<tr>
-
-		<td colspan="4">
-
-			<!-- 	The following table was needed for layout purposes only -
-
-					here, we are creating the thin line below the global nav bar. -->
-
-			<table width="460" border="0" cellpadding="0" cellspacing="0">
-
-				<tbody><tr>
-
-					<td width="304" bgcolor="#006633"><img src="/images/universal/spacer.gif" width="304" height="1"></td>
-
-					<td width="10"><img src="/images/universal/spacer.gif" width="10" height="1"></td>
-
-					<td width="124" bgcolor="#006633"><img src="/images/universal/spacer.gif" width="124" height="1"></td>
-
-					<td width="22" background="/images/universal/1pxGreenWhite.gif"><img src="/images/universal/spacer.gif" width="22" height="1"></td>
-
-				</tr>
-
-			</tbody></table>
-
-		</td>
-
-	</tr>
-
-	<tr>
-
-		<td colspan="5">
-
-
-
-			<table width="780" border="0" cellpadding="0" cellspacing="0">
-
-				<script language="JavaScript">
-
-
-
-					function accountAccessRedirect( strMenuChoice ) {
-
-
-
-						// Based on the user selection, redirect to the
-
-						// appropriate page.
-
-						switch( strMenuChoice ) {
-
-							case "Private":
-
-								var rightNow = new Date();
-
-								var iUnique = rightNow.getTime();
-
-								window.open("http://www.northerntrust.com/incs/signons/privatepassport.html","popup"+iUnique,"toolbar=yes,location=yes, status=yes, menubar=yes, resizable=yes, height=600, width=800, scrollbars=yes");
-
-								break;
-
-							case "Online":
-
-								var rightNow = new Date();
-
-								var iUnique = rightNow.getTime();
-
-								window.open("http://www.northerntrust.com/incs/signons/privatepassport.html","popup"+iUnique,"toolbar=yes,location=yes, status=yes, menubar=yes, resizable=yes, height=600, width=800, scrollbars=yes");
-
-								break;
-
-							case "Family":
-
-								document.location = "http://www.northerntrust.com/family";
-
-								break;
-
-							case "Business":
-
-								document.location = "https://ntrsb.ebanking-services.com/";
-
-								break;
-
-							case "Global":
-
-								document.location = "https://web-xp1-ptl.ntrs.com/ptl.public/cgi-bin/ptl/ntrs/jsp/ptl/login.jsp";
-
-								break;
-
-							case "Custody":
-
-								document.location = "https://web-xp1-pss.ntrs.com/pss/jsp/index.jsp";
-
-								break;
-
-							case "Benefit":
-
-								document.location = "https://web-xp1b-bpp.ntrs.com/bppsecure";
-
-								break;
-
-							case "Correspondent":
-
-								document.location = "https://web-xp1-pss.ntrs.com/pss/jsp/index.jsp";
-
-								break;
-
-							case "Foreign":
-
-								document.location = "https://ntfxpassport.ntrs.com/";
-
-								break;
-
-							case "Securities":
-
-								document.location = "https://web-xp1-isl.ntrs.com/isl";
-
-								break;
-
-							case "Treasury":
-
-								document.location = "https://web-xp1-tms.ntrs.com/tms/common/index.html";
-
-								break;
-
-							case "Investment":
-
-								var rightNow = new Date();
-
-								var iUnique = rightNow.getTime();
-
-
-
-window.open("https://web-xp1-cnt.ntrs.com/cnt/","popup"+iUnique,"toolbar=yes,location=yes, status=yes, menubar=yes, resizable=yes, height=600, width=800, scrollbars=yes");
-
-								break;
-
-						}
-
-					}
-
-
-
-
-
-				</script>
-
-				<tbody><tr>
-
-					<td rowspan="3" width="153"><img src="/images/universal/spacer.gif" width="153" height="25"></td>
-
-					<td rowspan="3" width="120"><img src="/images/universal/spacer.gif" width="120" height="2"></td>
-
-					<td width="99"><img src="/images/universal/spacer.gif" width="99" height="2"></td>
-
-					<td width="251"><img src="/images/universal/spacer.gif" width="251" height="2"></td>
-
-					<td width="1" bgcolor="#123456"><img src="/images/universal/spacer.gif" width="1" height="2"></td>
-
-					<td width="10"><img src="/images/universal/spacer.gif" width="10" height="2"></td>
-
-					<td width="123"><img src="/images/universal/spacer.gif" width="123" height="2"></td>
-
-					<td width="1" bgcolor="#123456"><img src="/images/universal/spacer.gif" width="1" height="2"></td>
-
-					<td width="21"><img src="/images/universal/spacer.gif" width="21" height="2"></td>
-
-				</tr>
-
-				<tr>
-
-					<td rowspan="2" width="99"><img src="/images/universal/spacer.gif" width="1" height="5"><br>
-
-						<img src="/images/universal/NTTopNavAccountAccess_ttl.gif" width="99" height="14" alt="Account Access"></td>
-
-					<script language="javascript">
-
-						document.write( '<form name="frmAccountAccess" action="http://' + location.hostname + ':8765/nt/query.html" method="POST">' );
-
-					</script><form name="frmAccountAccess" action="http://web.archive.org:8765/nt/query.html" method="POST"></form>
-
-					<td rowspan="2" width="251">
-
-						<div id="accounts">
-
-						<select name="sltAccess" rows="14" onchange="javascript:accountAccessRedirect( document.frmAccountAccess.sltAccess.options[document.frmAccountAccess.sltAccess.selectedIndex].value );">
-
-							<option value="">Sign on to your Passport Account...</option>
-
-							<option value="Private">Private Passport</option>
-
-							<option value="Online">Online Brokerage</option>
-
-							<option value="Family">Family Passport</option>
-
-							<option value="Business">Business Passport</option>
-
-							<option value="Global">Global Investor Passport</option>
-
-							<option value="Custody">Custody Passport</option>
-
-							<option value="Investment">Investment Passport</option>
-
-							<option value="Benefit">Benefit Payments Passport</option>
-
-							<option value="Foreign">Foreign Exchange (FX) Passport</option>
-
-							<option value="Treasury">Treasury Passport</option>
-
-							<option value="Securities">Securities Lending Passport</option>
-
-							<option value="Correspondent">Correspondent Services</option>
-
-						</select></div></td>
-
-					
-
-					<td width="1" bgcolor="#006633"><img src="/images/universal/spacer.gif" width="1" height="10"></td>
-
-					<td rowspan="2" width="10"><img src="/images/universal/spacer.gif" width="10" height="10"></td>
-
-					<td rowspan="2" width="123"><a href="/library/onlineservices/index.html"><img src="/images/universal/NTTopNavOnlineSrvc_btn.gif" width="123" height="14" alt="About Online Services" border="0"></a></td>
-
-					<td width="1" bgcolor="#006633"><img src="/images/universal/spacer.gif" width="1" height="10"></td>
-
-					<td rowspan="2" width="20"><img src="/images/universal/spacer.gif" width="20" height="10"></td>
-
-				</tr>
-
-				<tr>
-
-					<td><img src="/images/universal/spacer.gif" width="1" height="8"></td>
-
-					<td><img src="/images/universal/spacer.gif" width="1" height="8"></td>
-
-				</tr>
-
-
-
-			</tbody></table>
-
-
-
-
-
-		</td>
-
-	</tr>
-
+</script><form name="frmSiteSearch" action="http://web.archive.org:80/nt/query.html" method="GET"></form>
+<td valign="top" width="316"><img src="/images/universal/spacer.gif" width="316" height="0"></td>
+<td valign="middle" width="330"><a href="/aboutus/locations/index.html" class="searchLinks">Locations</a>
+	|&nbsp;<a href="/library/toolset/quotes.html" class="searchLinks">Quotes</a>
+	|&nbsp;<a href="/library/toolset/calculator/index.html" class="searchLinks">Calculators</a>
+	|&nbsp;<a href="/library/onlineservices/index.html" class="searchLinks">About Online Services</a>
+</td>
+<td valign="bottom" width="120" align="left">
+<input type="text" name="qt" size="20" maxlength="25" class="srch"></td>
+<td valign="top" width="40" align="left"><a href="javascript:window.document.frmSiteSearch.submit();"><img src="/images/universal/NTTopNav_Search.gif" width="44" height="18" alt="Search"></a></td>
+</tr>
 </tbody></table>
-
-
-
-
-
-<img src="/images/universal/spacer.gif" width="5" height="15" border="0"><br>
-
-
+<input type="hidden" name="qs" value="">
+<input type="hidden" name="qc" value="">
+<input type="hidden" name="pw" value="779">
+<input type="hidden" name="ws" value="0">
+<input type="hidden" name="la" value="en">
+<input type="hidden" name="qm" value="0">
+<input type="hidden" name="ql" value="">
+<input type="hidden" name="st" value="1">
+<input type="hidden" name="nh" value="10">
+<input type="hidden" name="lk" value="1">
+<input type="hidden" name="rf" value="0">
+<input type="hidden" name="rq" value="0">
+<input type="hidden" name="si" value="0">
+<input type="hidden" name="col" value="nt">
 
 </div>
 
+<!-- ----------------------------------------------------- -->
+<!-- Added 02/09/04                                        -->
+<!-- By: Scott Smith                                       -->
+<!-- Purpose: To push the body content down one paragraph  -->
+<!-- break if you are using Netscape                       -->
+<!-- ----------------------------------------------------- -->
+
+<script>
+if (NS) {
+document.write("<img src='/images/universal/spacer.gif' width='5' height='21' border='0'><br />");
+}
+</script><img src="/images/universal/spacer.gif" width="5" height="21" border="0"><br>
+
+<script>
+if (mactest) {
+	document.write("<img src='/images/universal/spacer.gif' width='5' height='0' border='0'>");
+} else {
+	document.write("<img src='/images/universal/spacer.gif' width='5' height='1' border='0'><br />");
+}
+</script><img src="/images/universal/spacer.gif" width="5" height="1" border="0"><br>
 
 
+<img src="/images/universal/spacer.gif" width="5" height="44" border="0"><br>
+</div>
 <script language="javascript">
-
 	// Added the following code to eliminate some timing issues during
-
 	// rollover loading.
 
 	if (browserType() == "netscape") {
-
 		bVer  = parseInt(navigator.appVersion);
-
 		if ( bVer >= 5 )
-
 			document.getElementById('dropdownlayout').style.visibility = 'visible';
-
 		else
-
 			document.dropdownlayout.visibility = "show";
-
 	}
-
 	else
-
 		dropdownlayout.style.visibility = "visible";
-
-
-
 </script>
 <table cellpadding="0" cellspacing="0" border="0" width="780">
   <tbody><tr>
@@ -764,7 +457,7 @@ affiliate that originally collected the information still may use it for its own
 	<table width="780" cellpadding="3" cellspacing="0" border="0">
 		<tbody><tr>
 			<td width="50%" bgcolor="#669966" background="/images/transparent.gif" class="clsBottomNav" align="left">
-				&nbsp;&nbsp;©&nbsp;&nbsp;2003 Northern Trust Corporation</td>
+				&nbsp;&nbsp;©&nbsp;&nbsp;2004 Northern Trust Corporation</td>
 			<td width="50%" bgcolor="#669966" background="/images/transparent.gif" class="clsBottomNav" align="right">
 				<a href="/aboutus/careers/index.html" class="footer">&nbsp;Careers&nbsp;</a>|
 				<a href="/legal.html" class="footer">Legal&nbsp;Terms&nbsp;&amp;&nbsp;Conditions&nbsp;</a>|
@@ -776,4 +469,4 @@ affiliate that originally collected the information still may use it for its own
 </span>
 <span id="updateFormHere"></span>
 
-</body></html>
+</a></body></html>
