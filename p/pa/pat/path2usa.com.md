@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the path2usa.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604063059id_/http%3A//path2usa.com/PvtPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the path2usa.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207091659id_/http%3A//www.path2usa.com/PvtPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,7 +6,7 @@ Path2usa.com, does not force our users/visitors to provide their particulars, or
 
 Any information directly supplied to Path2usa.com will not be disclosed to any outside sources. 
 
-Path2usa.com values the privacy of our visitors. For any related query/concern, please write to us at [info@path2usa.com.](mailto:info@path2usa.com) We will respond to them appropriately. 
+Path2usa.com values the privacy of our visitors. For any related query/concern, please write to us at [info@path2usa.com.](http://www.path2usa.com/contactus.htm) We will respond to them appropriately. 
 
 **Finally:**
 
