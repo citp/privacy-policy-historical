@@ -1,8 +1,23 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2004-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040917080421id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308171057id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
 
 # Texas Monthly: Privacy Statement
 
-TEXAS MONTHLY has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site. This information may be updated or changed without notice.
+TEXAS MONTHLY has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this Web site. This information may be updated or changed without notice.
+
+## Overview
+
+This privacy policy describes the policies of Texas Monthly, a division of Emmis Communications, regarding the collection, use, disclosure and protection of the following types of information:
+
+  * Information obtained when you and other users visit the www.texasmonthly.com web site.
+  * Information obtained through email communications with you related to the site.
+
+
+
+This privacy policy does not apply to information that we may collect from you by other means (including offline) or from other sources, nor does it apply with respect to information you provide to other RBI publications or web sites. Your use of this site constitutes your acceptance of all of the terms and conditions contained in this privacy policy and your consent to any action we take with respect to your information that is in compliance with this privacy policy.
+
+We may change the terms of this privacy policy, so Users are encouraged to review this page from time to time. Your continued use of this site following the posting of changes to the privacy policy means that you accept the changes.
+
+If you do not agree to this privacy policy, as modified from time to time, please do not visit this site.
 
 ## Our Pledge
 
