@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2003-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030424093037id_/http%3A//www.machinetools.com/mt/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407154054id_/http%3A//www.machinetools.com/mt/privacy.tmpl) for the most accurate reproduction.*
 
-# MachineTools.com - machine tools, new and used machinery, lathes, CNC machines, and metalworking at MachineTools.com
+# MachineTools.com - new and used machine tools, new and used machinery dealers, CNC lathes, machines, and fanuc parts available here!
 
 **PRIVACY STATEMENT**
 
@@ -16,7 +16,7 @@ When you access your account information, we offer the use of a secure server. T
 "Cookies" are small pieces of information that identify your computer to our site. Our cookies do not contain any personally identifying information and allow us to customize the site to suit your needs. We use cookies to personalize your visit and prevent you from having to re-enter information on each visit.
 
 **YOUR CONSENT:**  
-By using our Web site, you consent to the collection and use of this information by MachineTools.com . Any changes in the information we collect and how we use it will be posted on this page.
+By using our Web site, you consent to the collection and use of this information by MachineTools.com. Any changes in the information we collect and how we use it will be posted on this page.
 
 **FEEDBACK:**  
 MachineTools.com welcomes your questions or comments about privacy. Please e-mail them to [info@machinetools.com.](mailto:info@machinetools.com)
