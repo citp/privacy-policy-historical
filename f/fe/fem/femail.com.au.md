@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602191225id_/http%3A//www.femail.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202144235id_/http%3A//www.femail.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 
 
-[ ](https://web.archive.org/include/banner?a=1&b=4)
+[](https://web.archive.org/include/banner?a=4&b=4)
 
 This site has been provided by Femail.com.au/Female.com.au for the Australian Internet Community as a whole. We expect that whilst using this site that respect is given to any other users of the site. That is, we expect that no abusive, inappropriate or racial language is used in the chat or discussion areas of the site.
 
@@ -39,4 +39,16 @@ By using our Web site, you consent to the collection and use of this information
 
 **Tell us what you think**
 
-Femail.com.au encourages feedback and any questions you may have about privacy. Please send email to the Editor [michelle@femail.com.au](mailto:michelle@femail.com.au). 
+Femail.com.au encourages feedback and any questions you may have about privacy. Please send email to the Editor [michelle@femail.com.au](mailto:michelle@femail.com.au).
+
+* * *
+
+  
+**Trellian Privacy Policy**
+
+Trellian Ltd. understands the importance of your privacy on and off the Internet. In every action we take, Trellian Ltd. lives up to our strict privacy statement:  
+Trellian Ltd. will never disclose information about you to any third party without first receiving your permission.  
+Please read the following policy to understand how your personal information will be treated as you make full use of the many offerings on our Web site.  
+This policy may change from time to time so please check back frequently.  
+Trellian Ltd. may, from time to time, send you email regarding our products or services. If you do not want to receive such mailings, simply tell us when you give us your personal information or at any point in time. Trellian Ltd. does not sell or rent user information to anyone.  
+Whenever Trellian Ltd. handles personal information, regardless of where this occurs, we take steps to ensure that your information is treated securely and in accordance with the relevant Terms of Service and this Privacy Policy 
