@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opm.gov privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202065824id_/http%3A//www1.opm.gov/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opm.gov privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002103042id_/http%3A//www1.opm.gov/html/privacy.htm) for the most accurate reproduction.*
 
 # Office of Personnel Management Web Privacy Policy
 
