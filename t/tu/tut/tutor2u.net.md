@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014101001id_/http%3A//www.tutor2u.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604084640id_/http%3A//www.tutor2u.net/privacy.asp) for the most accurate reproduction.*
 
 # Tutor2u - Terms and Conditions
 
@@ -25,3 +25,7 @@ When you order products from our online store, tutor2u will offer the use of a s
 A cookie is a piece of information that is stored on your computer's hard drive by your web browser. On revisiting this site our computer server will recognise the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our web site
 
 The pages of this web site are subject to copyright © tutor2u 2002
+
+**[Home](https://web.archive.org/web/20030604084640id_/http%3A//www.tutor2u.net/default.asp)** | [Privacy Policy ](https://web.archive.org/web/20030604084640id_/http%3A//www.tutor2u.net/privacy.asp)| [Terms of Use](https://web.archive.org/web/20030604084640id_/http%3A//www.tutor2u.net/terms.asp) | [FAQ ](https://web.archive.org/web/20030604084640id_/http%3A//www.tutor2u.net/faq.asp)| [Feedback](https://web.archive.org/web/20030604084640id_/http%3A//www.tutor2u.net/feedback) | 
+
+Copyright © 2003 Tutor2u Limited. All Rights Reserved
