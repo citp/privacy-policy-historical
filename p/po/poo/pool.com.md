@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pool.com privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619200454id_/http%3A//pool.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pool.com privacy policy that was archived on 2003-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031022193009id_/http%3A//pool.com/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
@@ -60,4 +60,4 @@ Additionally, our information management systems are configured in such a way as
 
 Our trusted vendors, business partners and affiliates are responsible for processing or handling some of the information that we receive. These vendors, business partners and affiliates are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
 
-If you feel that Pool.com, or any of our agents, representatives or employees, is violating this Privacy Statement, please contact us via e-mail at [service@pool.com](mailto:service@pool.com), by telephone at (613)- 221-1210.
+If you feel that Pool.com, or any of our agents, representatives or employees, is violating this Privacy Statement, please contact us via e-mail at [ service@pool.com](mailto:service@pool.com), by telephone at (613)- 221-1210.
