@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomcar.com privacy policy that was archived on 2000-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001219230800id_/http%3A//www.zoomcar.com/ZoomCar_XSML.cgi%3Ffile%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomcar.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602055113id_/http%3A//zoomcar.com/ZoomCar_XSML.cgi%3Ffile%3Dprivacy.html) for the most accurate reproduction.*
 
 # Used cars for sale and lease - certified and guaranteed pre-owned automobiles at low prices
 
