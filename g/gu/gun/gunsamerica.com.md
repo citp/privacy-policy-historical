@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the gunsamerica.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206071700id_/http%3A//www.gunsamerica.com/%3Fprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsamerica.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603195538id_/http%3A//www.gunsamerica.com/%3Fprivacy.htm) for the most accurate reproduction.*
 
 # 
 
   
   
-GunsAmerica Sellers: $1,000 Cash for Guns!! [Click Here](https://web.archive.org/web/20001206071700id_/http%3A//www.gunsamerica.com/%3Fprivacy.htm?cashforguns.htm) to enter our Jan. 1 2001 drawing.  
 Privacy Statement for GunsAmerica
 
 ## Privacy Statement for GunsAmerica
@@ -44,7 +43,7 @@ GunsAmerica also gives users the following options for changing and modifying in
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Shlomo Helinski Customer Support Representative GunsAmerica LLC 142 Main Street Suite 217 Morristown, NJ 07960 privacy@gunsamerica.com
 
-If you haven't registered as a seller yet, [Click Here](https://web.archive.org/web/20001206071700id_/http%3A//www.gunsamerica.com/newuser.cgi) to sell your guns on GunsAmerica right now! 
+If you haven't registered as a seller yet, [Click Here](https://web.archive.org/web/20010603195538id_/http%3A//www.gunsamerica.com/newuser.cgi) to sell your guns on GunsAmerica right now! 
 
 * * *
 
