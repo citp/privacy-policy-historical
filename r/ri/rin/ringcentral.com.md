@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ringcentral.com privacy policy that was archived on 2001-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010615083407id_/http%3A//ringcentral.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringcentral.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212085955id_/http%3A//ringcentral.com/company/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# RingCentral: Privacy Statement
 
 RingCentral, Inc. understands your desire to protect personal information. We intend to inform you how your personal information is gathered, tracked and used. RingCentral is firmly committed to protecting the privacy rights of our customers, and will not disclose personally identifiable registration data to any third parties without customer's permission, unless required to do so by law. RingCentral believes that a strong guarantee of privacy is essential to the success of its service and to your ongoing patronage, as well as to the overall health of the Internet.
 
@@ -33,6 +33,3 @@ If you do not wish to continue receiving our e-mail communications you can opt-o
 **Who to contact if you have questions about our Privacy Policy**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with RingCentral, Inc., you can send e-mail to [privacy@ringcentral.com](mailto:privacy@ringcentral.com).
-
-Copyright ©2001 RingCentral Incorporated. All rights reserved.  
-[Privacy Statement](https://web.archive.org/company/privacy.asp)
