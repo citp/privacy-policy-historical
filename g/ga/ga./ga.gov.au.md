@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621054948id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204224437id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
 
 # Geoscience Australia: About Us: Privacy and Security
 
-**Updated:  ** 15 January 2003 
+**Updated:  ** 02 December 2003 
 
   * #### Privacy
 
@@ -53,11 +53,11 @@ If you have concerns about sending information over the web, please visit our [c
 
 ### User Feedback
 
-We seek [feedback from our users](http://www.ga.gov.au/about/feedback.jsp) in order to improve the service offered by our site. Answering feedback questions is voluntary and does not in any way affect your access to the Geoscience Australia site. [Contacts list](http://www.ga.gov.au/about/contacts/contacts.jsp) ; [General e-mail contact](mailto:http@ga.gov.au\(/\))
+We seek feedback from our users in order to improve the service offered by our site. [Contacts list](http://www.ga.gov.au/about/contacts/contacts.jsp) ; [General e-mail contact](mailto:http@ga.gov.au\(/\))
 
 ### Accountability
 
-The staff who operate the Geoscience Australia Website, and most Commonwealth government agencies, are subject to the Commonwealth Privacy Act 198 
+The staff who operate the Geoscience Australia Website, and most Australain government agencies, are subject to the Commonwealth Privacy Act 1988 
 
 ## Security
 
@@ -88,6 +88,6 @@ If you have concerns about sending information over the web, please visit our [a
 
 ### Accountability
 
-The staff who operate the Geoscience Australia Website, and most Commonwealth government agencies, are subject to the Commonwealth Privacy Act 1988\. 
+The staff who operate the Geoscience Australia Website, and most Australian Government agencies, are subject to the Commonwealth Privacy Act 1988\. 
 
 See also [online ordering](http://www.ga.gov.au/sales/howto/index.jsp#forms) for more information. 
