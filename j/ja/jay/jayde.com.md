@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayde.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211040143id_/http%3A//www.jayde.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayde.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204010722id_/http%3A//www.jayde.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jayde.com - The B2B Search Engine
 
