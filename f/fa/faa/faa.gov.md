@@ -1,48 +1,39 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625072450id_/http%3A//www1.faa.gov/index.cfm/1031) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204230508id_/http%3A//www1.faa.gov/utilities/privacy.cfm) for the most accurate reproduction.*
 
-# FAA - Web Policy
+# Federal Aviation Administration: Privacy Policy
 
-## Online FAA Web Privacy Statement 
+**FAA Privacy and Web Site Policy **
 
-At the FAA, we recognize the importance of privacy to our web site visitors. This privacy policy explains what type of information is collected from you when you visit, and how the FAA uses it.
+The Federal Aviation Administration is committed to respecting your right to privacy and will protect it when you visit our web site. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us. This policy explains how we handle information about your visit to our website. 
 
-#### Information Collected and Stored Automatically
+**Internet Security**
 
-When you visit the FAA Web site, we use automated tools to log information about each visit. We process this information in the aggregate to determine site performance issues, such as popular pages, most frequently downloaded forms, and other site performance characteristics. This information does not identify you personally. We do not track or record information about individuals and their visits
+We monitor and audit visit to our web site to identify and deter any attempt to tamper with it. We use technologies which allow us to monitor network traffic and identify unauthorized attempts to upload or change information, or otherwise cause damage, to ensure the web site is available to all users. We may be required to identify you personally when legally required by law enforcement or counterintelligence organizations. Any information we collect for those investigations is protected and destroyed according to federal guidelines. 
 
-The specific data we collect are:
+You may not try to upload information to or change information on this website, defeat or circumvent security features, or use this system for other than its intended purposes without permission from FAA. If you do, you may be punished under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act and Title 5 of the USC. 
 
-  1. The Internet domain (example: www.columbia.edu) and the assigned Internet protocol (IP) address. IP address is a number that is assigned to your computer when you are surfing the Web).
+**Information Collected and Stored Automatically**
 
-  2. The type of browser and operating system used to access our site;
+When you visit our web site we collect certain information about your visit that does not identify you personally. We can tell the type of computer, browser, and web service you are using. We also know the date and time you visit and the pages you visit. Collecting this information helps us design the site according to your needs. 
 
-  3. The date and time you access our site;
+Sometimes we use "cookies," which are small amounts of text stored on your computer. We use only "session cookies" in some places where people can transact business. That means we store the cookie on your computer only during your visit; and we’ll notify you in advance. So, if you are entering information for a business transaction, you won't lose the information if you go to another site and come back during the visit. After you turn off your computer or stop using the Internet, the cookie is erased. 
 
-  4. The pages that are viewed, and paths that are taken through the Web site.
+**E-mail and web forms**
 
+When you send us e-mail we won't keep or share your e-mail address with anyone outside of DOT staff and its contractors. We'll use your e-mail address only to respond to your requests for information. 
 
+If you sign up for one of our electronic mailing lists, we'll send you only the kinds of information you've requested. We won't keep your name on the list or share your e-mail address with anyone outside of DOT. 
 
+**Accessibility**
 
-This aggregated log data is processed by software tool. The raw log data is retained for three months, and is then destroyed.
+Our policy is to provide access to all our programs, services and information to people with disabilities that is comparable to the level of access provided to others, as required by Section 508 of the Rehabilitation Act of 1973, as amended. This includes making sure that our websites are accessible to people with disabilities. 
 
-#### About Web "Cookies"
+If you have a problem with access to our websites, please contact the [Accessibility Help Desk](mailto:9-awa-aio-section508@faa.gov). 
 
-On some FAA Web pages, "session " cookies are utilized to enhance and improve your visit. "Session" cookies" expire when you close your Web browser. On those Web pages that use "persistent cookies", an advisory is posted on that page, informing you what information is being collected, why it is being collected, and how it is being used.
+**Links to Other Sites**
 
-#### Information Collected from E-mail and Web Forms
+Our website has links to many other web sites. When you go to another site, you are subject to the privacy and security policies of that site. FAA cannot attest to the accuracy of information provided there. 
 
-You can contact us by postal mail, telephone, or electronically, via an on-line form. Please do not send information that you would not want a third party to read. For example, please do not send your Social Security number or credit card information, as it is unlikely this data is needed to respond to your e-mail. The FAA may share the information that you provide to us via e-mail within the agency to respond to your queries, but we do not provide e-mail information to anyone outside of the agency unless required by law to do so. We will not collect or sell your information for commercial purposes.
+Linking to a web site does not constitute an endorsement by DOT, or any of its employees, of the sponsors of the site or the products presented on the site. 
 
-#### Links to Other Sites
-
-Our Website has links to many other federal agencies. In a few cases we link to private organizations, with their permission. Once you link to another site, you are subject to the privacy policy of the new site. This website and the information it contains are provided as a public service by the Federal Aviation Administration (FAA). This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for comparable purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this systems, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution.
-
-#### RESTRICTION OF LIABILITY
-
-The FAA makes no claims, promises, or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website. No warranty of any kind, implied, expressed or statutory, including but not limited to warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this website or its hyperlinks to other Internet resources. Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by FAA.
-
-#### OWNERSHIP
-
-Information presented on this website is considered public information and may be distributed or copied. FAA shall have the unlimited right to use for any purpose, free of any charge, all information submitted to FAA via this site except those submissions made under separate legal contract. FAA shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to FAA through this site .
-
-Posted November 6, 2000
+If you have any questions about our privacy and web site policies, please contact the [FAA Web Manager](mailto:askus@faa.gov). 
