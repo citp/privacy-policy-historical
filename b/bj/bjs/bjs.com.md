@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082928id_/http%3A//bjs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012221016id_/http%3A//www.bjs.com/privacy.html) for the most accurate reproduction.*
 
 # BJ's Wholesale - Privacy Policy
 
@@ -39,7 +39,6 @@ This website contains links to other sites which offer products and services to 
   * _BJ's Protection Plus_ offers extended warranty services. Although BJ's holds certain legal rights to information collected at this site, BJ's currently receives aggregated information on the number and length of visits and aggregated demographic data, but this information is not linked to any personal information. Please click here to view the _BJ's Protection Plus_ privacy policy. 
   * _BJ's Merchant Payment Processing_ provides credit and debit card payment financial transaction processing services. Although BJ's holds certain legal rights to information collected at this site, BJ's currently does not receive any personal information that may be collected from this site, but receives aggregated data collected at this site on the total number of visits to the site, the length of each visit and the services purchased. Please click here to [view the privacy statement for _BJ's Merchant Payment Processing_](http://www.bjspaymentprocessing.com/priv_state.html) or to opt out of use of any personal information collected.
   * _BJ's Checks_ offers check and other business printing services for personal and business use. Although BJ's holds certain legal rights to information collected at this site, BJ's does not currently receive any personal information that may be collected from this site, but has access to aggregated data collected at this site on the total number of visits to this site, the length of each visit and the services purchased. Please click here to [see the _BJ's Checks_ privacy policy](http://www.bjschecks.com/privacy.html) and to learn how you can opt out of use of any personal data collected through the BJ's Checks site.
-  * _BJ's Embroidered Apparel_ arranges for embroidery of names and logos onto apparel for businesses, church, civic and other organizations. Although BJ's holds certain legal rights to information collected at this site, BJ's receives aggregated information collected on this site regarding the total number of visits to the site and the length of each visit. BJ's may also request e-mail addresses of customers purchasing through this site. Please click here to [view the _BJ's Embroidered Apparel_ privacy statement](http://www.biltwelluniforms.com/privacy.html).
   * _BJ's Gazebos_ offers gazebos for sale in New England and New York. Customers may purchase gazebos by calling the telephone number listed on this site or printing an order form from the site and sending it by mail to the address indicated.
 
 
@@ -64,7 +63,7 @@ From time to time, BJ's may supplement the information we collect through this s
 
 **Choice/Opt Out**
 
-You may "opt out" of having any personal information collected through this site used for purposes not directly related to our site. To do so, please [click here to opt out](https://web.archive.org/web/20020602082928id_/http%3A//bjs.com/optout.html "Opt out of having any personal information collected through this site used for purposes not directly related to this site") and fill in your name, BJ's membership number, address, and e-mail address on the form provided.
+You may "opt out" of having any personal information collected through this site used for purposes not directly related to our site. To do so, please [click here to opt out](https://web.archive.org/web/20021012221016id_/http%3A//www.bjs.com/optout.html "Opt out of having any personal information collected through this site used for purposes not directly related to this site") and fill in your name, BJ's membership number, address, and e-mail address on the form provided.
 
 **Correction/Updating Personal Information:**
 
