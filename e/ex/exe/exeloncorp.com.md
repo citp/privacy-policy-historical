@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exeloncorp.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206063214id_/http%3A//www.exeloncorp.com/global/terms/d_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exeloncorp.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603095659id_/http%3A//www1.exeloncorp.com/global/terms/d_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Exelon | Privacy Policy
 
