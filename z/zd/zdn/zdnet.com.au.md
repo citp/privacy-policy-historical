@@ -1,26 +1,59 @@
-> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609141436id_/http%3A//www.zdnet.com.au/services/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com.au privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209043024id_/http%3A//www.zdnet.com.au/services/privacy) for the most accurate reproduction.*
 
-# ZDNet Australia: Services
+# ZDNet Australia:
 
-**ZDNet Australia Security & Privacy Statement**
+**About ZDNet Australia's Privacy Policy**
 
-**Security**  
-ZDNet Australia uses a Thawte Digital Certificate to secure your information. This ensures that anything you send to us via the World Wide Web will be encrypted. Please click on the Thawte Authentic Site Seal to verify the validity of our Thawte Certificate, and our commitment to your security.
+At ZDNet Australia we recognise the importance of protecting the privacy of personally identifiable information collected about our customers. We want your on-line experience to be enjoyable and we take care to respect your privacy when you visit our web site. As a member of the Australian Direct Marketing Association (ADMA), we abide by a strict Code of Practice that demands we handle your personal details responsibly. 
 
-**Privacy**  
-We at ZDNet Australia are concerned about the information that you provide us in the course of using our site. This statement outlines our policy concerning the information that you provide us when using ZDNet Australia.
+ZDNet Australia is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried out in the course of journalism. ZDNet Australia is exempt from complying with the Privacy Act in relation to journalism activities. 
 
-This statement sets out:  
-1\. What information this site gathers/tracks about you  
-2\. What this site does with the information it gathers/tracks  
-3\. With whom this site shares the information it gathers/tracks
+ZDNet Australia may, from time to time, review and update this policy to take account of new laws and technology and changes to ZDNet's operations. All personal information held by ZDNet Australia will be governed by ZDNet Australia's most recent policy, posted on the ZDNet Australia site. 
 
-ZDNet Australia collects personal information about our users only during voluntary registration for ZDNet services, from our use of "cookie" technology as you use the site and during entry into a ZDNet contest.
+ZDNet Australia is a wholly owned subsidiary of CNET Networks Inc and is part of a world wide network of sites providing information about technology. As such ZDNet Australia also adheres to the policy guidelines set down by CNET Networks. 
 
-ZDNet Australia respects your right to privacy. As part of the registration process, we give you the opportunity to decline to receive any mailings from either ZDNet Australia, our parent company ZDNet or other parties to whom ZDNet may provide such information.
+**What is CNET Networks?**
 
-The data we collect from cookies is used only in the aggregate to give us demographic information about the entire ZDNet Australia audience in order to improve our service. The personal information you provide - name, address, etc. -- allows us to inform you about updates to the service and to notify you of products and services of ZDNet Australia and its affiliates that we believe may be of interest to you. We also share aggregate information -- not individual data --with our advertisers to help them better understand our services and to monitor the reach of their advertising on the service.
+CNET Networks is the global source of information and commerce services for the technology industry. We connect buyers, sellers and suppliers throughout the IT supply chain with award-winning content via the web, wireless devices, television, radio and print. Our respected brand portfolio includes CNET, ZDNet, mySimon, TechRepublic, GameSpot, Download.com, News.com, CNET Radio and Computer Shopper magazine as well as CNET ChannelServices, which include CNET DataServices and ChannelOnline. For more information about the company [click here](http://www.cnet.com/aboutcnet/0-13612-7-309130.htm). 
 
-ZDNet Australia uses reasonable precautions to keep the personal information disclosed to us secure. However, we are not responsible for any breach of security. ZDNet also links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users.
+**1\. What personally identifiable information does ZDNet Australia collect?**
 
-To return to the Site, please use the "Back" button on your browser.
+ZDNet Australia's primary goal in collecting personal information is to provide you with the best and most useful content and services. Because ZDNet Australia derives its revenue mainly from advertising, collecting information is essential to keeping our services free to users. 
+
+ZDNet Australia collects personally identifiable information when you provide it to us, such as when you register on our sites, when you subscribe for a print magazine or an e-mail newsletter, when you use certain products or services and when you visit ZDNet Australia pages and read newsletters. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our ZDNet sites you are no longer anonymous to us. 
+
+**2\. What anonymous information does ZDNet Australia collect?**
+
+_Cookies_  
+Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to any of our sites. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit the ZDNet Australia site, although active participation in certain areas of our site may require cookies. In addition, you may elect not to allow cookies to be collected by selecting certain options on your browser. 
+
+_Web Bugs & Servers_  
+We use electronic images known as Web bugs - sometimes called single-pixel GIFs, transparent GIFs, or clear gifs- that allow us to track general user traffic patterns. ZDNet Australia also automatically receives and records information from our servers and from your browser including your IP address, the time, and information about the page you requested. 
+
+We use tracking technologies in a variety of ways, including:
+
+  * keeping count of return visits to our site or our advertiser' or partners' sites 
+  * accumulate and report anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage 
+  * determining which features users like best 
+  * saving your password so you don't have to re-enter it each time you visit our sites
+
+
+
+_Third-Party Advertisement Servers_  
+ZDNet Australia uses the DoubleClick DART technology for serving advertisements on its web pages. To view the DoubleClick privacy policy [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp). 
+
+Some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. In both cases, these third-party advertising companies employ cookie and Web bug technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. If you would like more information about the privacy policies of the third-party advertising providers including information on how to opt out of their tracking methods, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+
+**3\. How does ZDNET Australia use the information?**
+
+ZDNet Australia uses the information we gather for four general purposes:  
+
+
+  * to customise the advertising and content you see, which helps keep our services free to users 
+  * to enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you 
+  * to fulfil your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in polls, contests, message boards, and auctions 
+  * to send you information you agreed to receive about topics we think will be of interest to you
+
+
+
+[Next page >>](https://web.archive.org/services/privacy/page2.htm)
