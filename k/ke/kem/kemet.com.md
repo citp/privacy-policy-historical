@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2002-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020614081640id_/http%3A//www.kemet.com/kemet/web/homepage/kechome.nsf/vabypagename/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemet.com privacy policy that was archived on 2002-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021220202010id_/http%3A//www.kemet.com/kemet/web/homepage/kechome.nsf/vabypagename/privacy) for the most accurate reproduction.*
 
 # KEMET Electronics - KEMET Privacy Statement
 
@@ -14,7 +14,7 @@ Our site uses different forms for registration, feedback, notification and authe
 Generally, we use your information for the specific purpose that caused us to ask for it. To fulfill this purpose and provide the best service, we may occasionally provide it to our marketing channel for follow-up. We do not share your information with any company other than those directly aligned with KEMET Electronics to market capacitors.
 
 **Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. To remove your information from our database so that you will no longer receive communications or services from us, you can send e-mail to [capmaster@kemet.com](mailto:capmaster@kemet.com) and make that request. 
+Our site provides users the opportunity to opt-out of receiving communications from us. To remove your information from our database so that you will no longer receive communications or services from us, you can send e-mail to [capmaster@kemet.com](mailto:capmaster@kemet.com) and make that request. 
 
 **Correct/Update**  
 Our site also provides users the option to change or modify information previously provided. To do this, please e-mail [capmaster@kemet.com](mailto:capmaster@kemet.com) and make that request. 
