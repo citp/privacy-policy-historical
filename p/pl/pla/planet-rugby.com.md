@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planet-rugby.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603230826id_/http%3A//planet-rugby.com/HOME/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-rugby.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207172326id_/http%3A//www.planet-rugby.com/HOME/privacy.shtml) for the most accurate reproduction.*
 
-# Rugby news, fun, results, fixtures and features from Planet-Rugby.com
+# Rugby World Cup news, fun, results, fixtures and features from Planet-Rugby.com ....
 
   
 **1.** **Planet Rugby** has a firm commitment to privacy. 
