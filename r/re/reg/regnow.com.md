@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205105438id_/http%3A//www.regnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202072957id_/http%3A//www.regnow.com/privacy.html) for the most accurate reproduction.*
 
 # RegNow.com
 
-[ ](https://digitalid.verisign.com/as2/8f66bb6a90e2f941b79147155073258d)
+[ ](https://digitalid.verisign.com/as2/abc79cd2afa715963abeab76dea71fca)
 
 RegNow, one of the most trusted names in e-commerce and Web-based technology, respects the privacy of our partners, clients and their customers. Any and all information collected through our system is treated with the utmost care. 
 
