@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607093554id_/http%3A//www.kumc.edu/Pulse/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813171423id_/http%3A//kumc.edu/Pulse/privacy.html) for the most accurate reproduction.*
 
 # KU Medical Center Online Privacy Statement
 
