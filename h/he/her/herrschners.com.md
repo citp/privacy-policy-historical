@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207093907id_/http%3A//www.herrschners.com/cs_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609110223id_/http%3A//herrschners.com/cs_privacy.asp) for the most accurate reproduction.*
 
 # Herrschners Online
 
@@ -36,7 +36,7 @@ Some of our sites contain links to other sites whose information practices may b
 **"Cookies"**  
 To enhance your experience with our sites, many of our web pages use "cookies". Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. Your credit card number is never stored within these files.
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. Herrschners requires the use of cookies to complete and process your order. If you choose not to accept cookies, you can still [order from Herrschners via phone, mail or fax](https://web.archive.org/web/20021207093907id_/http%3A//www.herrschners.com/cs_order.asp).
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. Herrschners requires the use of cookies to complete and process your order. If you choose not to accept cookies, you can still [order from Herrschners via phone, mail or fax](https://web.archive.org/web/20030609110223id_/http%3A//herrschners.com/cs_order.asp).
 
 **Email Addresses and Telephone Numbers**  
 Herrschners does not share any email addresses you provide to any other companies or organizations. If you choose to receive our promotional emails, they will arrive bi-monthly, but we always extend you the option to 'opt-out' from future mailings.
