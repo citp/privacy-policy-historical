@@ -1,113 +1,117 @@
-<!--The following is the downloaded HTML source of the harpercollins.com privacy policy that was archived on 2000-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001209225300id_/http%3A//www.harpercollins.com/hc/privacy/index.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harpercollins.com privacy policy that was archived on 2001-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603223629id_/http%3A//www.harpercollins.com/hc/privacy/index.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 	<title>HarperCollins.com: Privacy</title>
 </head>
 
-<body bgcolor="black" topmargin="0" leftmargin="0" link="#333333">
+<body bgcolor="black" topmargin="0" leftmargin="0" link="#333333" onload="init()">
 	<center>
 		<table width="611" border="1" cellspacing="0" cellpadding="0" bordercolor="#ffffff">
 			<tbody><tr>
 				<td><!--DO NOT EDIT-->
 					<!--BEGINNING STANDARD INCLUDES-->
 					<!------------------------------------------------------------>
-								<script language="JavaScript">
+					
 
+<script language="JavaScript" src="/hc/_include/navcond.js"></script>
+<script language="JavaScript">
+// Copyright 2000 by Mike Hall (http://www.brainjar.com)
+var myNavBar = new NavBar(392);
+var tempMenu;
+myNavBar.setColors("#000000", "#ffffff", "#000000", "#000000", "#99ccff", "#000000", "#99ccff", "#000000", "#FFFFFF");
+myNavBar.setAlign("left");
+tempMenu = new NavBarMenu(0, 135);
+tempMenu.addItem(new NavBarMenuItem("Authors", "/hc/authors"));
+tempMenu.addItem(new NavBarMenuItem("Locate an author on tour, interviews with authors, authors' notes and Web sites.", "/hc/authors"));
+myNavBar.addMenu(tempMenu);
+tempMenu = new NavBarMenu(0, 120);
+tempMenu.addItem(new NavBarMenuItem("Browse", "/catalog/book_browse.asp"));
+tempMenu.addItem(new NavBarMenuItem("Search for books within areas of interest.", "/catalog/book_browse.asp"));
+myNavBar.addMenu(tempMenu);
+tempMenu = new NavBarMenu(0, 135);
+tempMenu.addItem(new NavBarMenuItem("Bestsellers", "/catalog/bestseller_browse.asp"));
+tempMenu.addItem(new NavBarMenuItem("These books are too hot to stay on the shelves!", "/catalog/bestseller_browse.asp")) ;
+myNavBar.addMenu(tempMenu);
+tempMenu = new NavBarMenu(0, 115);
+tempMenu.addItem(new NavBarMenuItem("Channels", "#"));
+tempMenu.addItem(new NavBarMenuItem("AvonRomance", "/hc/features/romance"));
+tempMenu.addItem(new NavBarMenuItem("Audio", "/hc/features/audio"));
+tempMenu.addItem(new NavBarMenuItem("Business", "/hc/features/business"));
+tempMenu.addItem(new NavBarMenuItem("Children's", "http://www.harperchildrens.com"));
+tempMenu.addItem(new NavBarMenuItem("Cookbooks", "/hc/features/cookbooks"));
+tempMenu.addItem(new NavBarMenuItem("E-books", "/hc/perfectbound"));
+tempMenu.addItem(new NavBarMenuItem("Health, Beauty,<br>Fitness, Sports", "/hc/features/health"));
+tempMenu.addItem(new NavBarMenuItem("Mystery", "/hc/features/mystery"));
+tempMenu.addItem(new NavBarMenuItem("Poetry", "/hc/features/poetry"));
+tempMenu.addItem(new NavBarMenuItem("Self-help", "/hc/features/selfhelp"));
+tempMenu.addItem(new NavBarMenuItem("SF&F/Eos", "/hc/features/eos"));
+tempMenu.addItem(new NavBarMenuItem("Teen", "/hc/features/teen"));
+myNavBar.addMenu(tempMenu);
+tempMenu = new NavBarMenu(0, 100);
+tempMenu.addItem(new NavBarMenuItem("Readers", "/hc/readers"));
+tempMenu.addItem(new NavBarMenuItem("Find Reading Group Guides, sign up for newsletters and more!", "/hc/readers"));
+myNavBar.addMenu(tempMenu);
+tempMenu = new NavBarMenu(0, 150);
+tempMenu.addItem(new NavBarMenuItem("About Us", "/hc/aboutus"));
+tempMenu.addItem(new NavBarMenuItem("Learn about careers, imprints, history of the company, permissions and more.", "/hc/aboutus"));
+myNavBar.addMenu(tempMenu);
 
-<!--
+function init() {
+  var img;
+  myNavBar.create();
+  img = getImage("placeholder");
+  myNavBar.moveTo(getImagePageLeft(img) - 0, getImagePageTop(img) - 0);
+}
+</script>
+<script language="JavaScript">
+<!-- //this is the rollover script
 
-
-img1on = new Image(); // Active images
-img1on.src = "/hc/_include/images/topnav_Uni2_01.gif";
-img2on = new Image();
-img2on.src = "/hc/_include/images/topnav_Uni2_02.gif";
-img3on = new Image();
-img3on.src = "/hc/_include/images/topnav_Uni2_03.gif";
-img4on = new Image();
-img4on.src = "/hc/_include/images/topnav_Uni2_04.gif";
-img5on = new Image();
-img5on.src = "/hc/_include/images/topnav_Uni2_05.gif";
-img6on = new Image();
-img6on.src = "/hc/_include/images/topnav_Uni2_06.gif";
-img26on = new Image();
-img26on.src = "/hc/_include/images/harpercollinson.gif";
-
-
-
-img1off = new Image(); // inActive images
-img1off.src = "/hc/_include/images/topnav_Uni_01.gif";
-img2off = new Image();
-img2off.src = "/hc/_include/images/topnav_Uni_02.gif";
-img3off = new Image();
-img3off.src = "/hc/_include/images/topnav_Uni_03.gif";
-img4off = new Image();
-img4off.src = "/hc/_include/images/topnav_Uni_04.gif";
-img5off = new Image();
-img5off.src = "/hc/_include/images/topnav_Uni_05.gif";
-img6off = new Image();
-img6off.src = "/hc/_include/images/topnav_Uni_06.gif";
-img26off = new Image();
-img26off.src = "/hc/_include/images/harpercollins.gif";
-
-
-
-
-
-
+img7on = new Image(); // Active image
+img7on.src = "/hc/_include/images/hclogonew2.gif";
+img7off = new Image(); // inActive image
+img7off.src = "/hc/_include/images/hclogonew.gif";
 function imgOn(imgName) {
-
 if (document.images) {
-
 document[imgName].src = eval(imgName + "on.src");
-
 }
-
-
-
 }
-
-
-
 function imgOff(imgName) {
-
 if (document.images) {
 
 document[imgName].src = eval(imgName + "off.src");
 
 }
-
-
-
 }
-
-//-->
-
-
-
+// end rollover script-->
 </script>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#000000">
-  <tbody><tr>
-    <td width="488"><nobr><img border="0" src="/hc/_include/images/hclogo.GIF" width="48" height="60"><a href="/hc" onmouseover="imgOn('img26')" onmouseout="imgOff('img26')"><img border="0" src="/hc/_include/images/harpercollins.gif" width="307" height="44" name="img26"></a><img border="0" src="/hc/_include/images/hcright.gif" width="133" height="11"></nobr><br>
-      <a href="/hc/authors/index.asp" onmouseover="imgOn('img2')" onmouseout="imgOff('img2')"><img src="/hc/_include/images/topnav_Uni_02.gif" width="65" height="30" name="img2" border="0"></a><img border="0" src="/hc/_include/images/pipe.gif" width="6" height="30"><a href="/hc/browse/index.asp" onmouseover="imgOn('img4')" onmouseout="imgOff('img4')"><img src="/hc/_include/images/topnav_Uni_04.gif" width="68" height="30" name="img4" border="0"></a><img border="0" src="/hc/_include/images/pipe.gif" width="6" height="30"><a href="/hc/bestsellers/index.asp" onmouseover="imgOn('img1')" onmouseout="imgOff('img1')"><img src="/hc/_include/images/topnav_Uni_01.gif" width="92" height="30" name="img1" border="0"></a><img border="0" src="/hc/_include/images/pipe.gif" width="6" height="30"><a href="/hc/features/index.asp" onmouseover="imgOn('img6')" onmouseout="imgOff('img6')"><img src="/hc/_include/images/topnav_Uni_06.gif" width="76" height="30" name="img6" border="0"></a><img border="0" src="/hc/_include/images/pipe.gif" width="6" height="30"><a href="/hc/readers/index.asp" onmouseover="imgOn('img5')" onmouseout="imgOff('img5')"><img src="/hc/_include/images/topnav_Uni_05.gif" width="71" height="30" name="img5" border="0"></a><img border="0" src="/hc/_include/images/pipe.gif" width="6" height="30"><a href="/hc/aboutus/index.asp" onmouseover="imgOn('img3')" onmouseout="imgOff('img3')"><img src="/hc/_include/images/topnav_Uni_03.gif" width="80" height="30" name="img3" border="0"></a></td>
-    <td><form name="searchForm" method="POST" target="_self" action="/hc/searchResults/index.asp?">
-    <nobr><select name="cboSearch" size="1">
-				<option value="Title" selected="">Title
-				</option><option value="Author1">Author
-				</option><option value="Isbn">ISBN
-				</option><option value="Imprint">Imprint
-                        </option><option value="Series">Series
-			</option></select><i><font face="Arial" color="#FFFFFF" size="2"> search
-                   </font></i></nobr><br>
-      <input type="text" name="txtSearch" size="12">
-      <input type="image" src="/hc/_include/images/search.gif" align="LEFT" width="75" height="27" border="0" onclick="" id="image1" name="image1">
-       </form>
-    </td>
-    <td>&nbsp;</td>
-  </tr>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+	<td background="/hc/_include/images/hclogoback.gif" valign="top"><a href="/hc" onmouseover="imgOn('img7')" onmouseout="imgOff('img7')"><img src="/hc/_include/images/hclogonew.gif" width="360" height="48" border="0" name="img7"></a></td>
+	<td background="/hc/_include/images/hclogoback.gif" rowspan="2" align="right">
+<form name="searchForm" method="POST" target="_self" action="/catalog/book_search.asp">
+    <nobr><select name="a" size="1">
+				<option value="title" selected="">Title
+				</option><option value="author">Author
+				</option><option value="isbn">ISBN
+				</option><option value="imprint">Imprint
+                        </option><option value="series">Series
+			</option></select><i><font face="Arial" color="#FFFFFF" size="2">
+                   </font></i></nobr><br><img src="/hc/images/clear.gif" width="4"><br>
+      <input type="text" name="b" size="12"><br>
+      <input type="image" src="/hc/_include/images/newsearch.gif" align="center" border="0" onclick="" id="image1" name="image1">
+       </form></td><td background="/hc/_include/images/hclogoback.gif"><img src="/hc/images/clear.gif" width="10"></td>
+</tr>
+<tr>
+	<td width="400">&nbsp;<img name="placeholder" border="0" src="/hc/_include/images/menudummy.gif" width="392" height="29">
+</td>
+</tr>
 </tbody></table>
+
 
 					<!------------------------------------------------------------>
 					<!--ENDING STANDARD INCLUDES-->
@@ -248,51 +252,50 @@ document[imgName].src = eval(imgName + "off.src");
 
 <!--
 
-
 img15on = new Image(); // Active images
 img15on.src = "/hc/_include/images/bnewsletterson.GIF";
-img16on = new Image(); // Active images
+img16on = new Image();
 img16on.src = "/hc/_include/images/bchildrenson.GIF";
-img17on = new Image(); // Active images
+img17on = new Image();
 img17on.src = "/hc/_include/images/baudioon.GIF";
-img18on = new Image(); // Active images
+img18on = new Image();
 img18on.src = "/hc/_include/images/bbusinesson.GIF";
-img19on = new Image(); // Active images
+img19on = new Image();
 img19on.src = "/hc/_include/images/bcookbookson.GIF";
-img20on = new Image(); // Active images
+img20on = new Image();
 img20on.src = "/hc/_include/images/beossffon.GIF";
-img21on = new Image(); // Active images
+img21on = new Image();
 img21on.src = "/hc/_include/images/bealthon.GIF";
-img22on = new Image(); // Active images
+img22on = new Image();
 img22on.src = "/hc/_include/images/bmysteryon.GIF";
-img23on = new Image(); // Active images
+img23on = new Image();
 img23on.src = "/hc/_include/images/bpoetryon.GIF";
-img24on = new Image(); // Active images
+img24on = new Image();
 img24on.src = "/hc/_include/images/bromanceon.GIF";
-img25on = new Image(); // Active images
+img25on = new Image();
 img25on.src = "/hc/_include/images/bselfhelpon.GIF";
 
 img15off = new Image(); // inActive images
 img15off.src = "/hc/_include/images/bnewslettersoff.GIF";
-img16off = new Image(); // inActive images
+img16off = new Image(); 
 img16off.src = "/hc/_include/images/bchildrensoff.GIF";
-img17off = new Image(); // inActive images
+img17off = new Image(); 
 img17off.src = "/hc/_include/images/baudiooff.GIF";
-img18off = new Image(); // inActive images
+img18off = new Image(); 
 img18off.src = "/hc/_include/images/bbusinessoff.GIF";
-img19off = new Image(); // inActive images
+img19off = new Image(); 
 img19off.src = "/hc/_include/images/bcookbooksoff.GIF";
-img20off = new Image(); // inActive images
+img20off = new Image(); 
 img20off.src = "/hc/_include/images/beossffofff.GIF";
-img21off = new Image(); // inActive images
+img21off = new Image(); 
 img21off.src = "/hc/_include/images/bealthoff.GIF";
-img22off = new Image(); // inActive images
+img22off = new Image(); 
 img22off.src = "/hc/_include/images/bmysteryoff.GIF";
-img23off = new Image(); // inActive images
+img23off = new Image(); 
 img23off.src = "/hc/_include/images/bpoetryoff.GIF";
-img24off = new Image(); // inActive images
+img24off = new Image(); 
 img24off.src = "/hc/_include/images/bromanceoff.GIF";
-img25off = new Image(); // inActive images
+img25off = new Image(); 
 img25off.src = "/hc/_include/images/bselfhelpoff.GIF";
 
 
@@ -335,7 +338,7 @@ document[imgName].src = eval(imgName + "off.src");
     <tbody><tr>
       <td width="100%">
         <p align="center"><nobr><a href="/hc/readers/newsletters.asp" onmouseover="imgOn('img15')" onmouseout="imgOff('img15')"><img border="0" src="/hc/_include/images/bnewslettersoff.GIF" name="img15" width="65" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="http://www.harperchildrens.com/hch" onmouseover="imgOn('img16')" onmouseout="imgOff('img16')"><img border="0" src="/hc/_include/images/bchildrensoff.GIF" name="img16" width="51" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="/hc/features/audio" onmouseover="imgOn('img17')" onmouseout="imgOff('img17')"><img border="0" src="/hc/_include/images/baudiooff.GIF" name="img17" width="33" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="/hc/features/business" onmouseover="imgOn('img18')" onmouseout="imgOff('img18')"><img border="0" src="/hc/_include/images/bbusinessoff.GIF" name="img18" width="50" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="/hc/features/cookbooks" onmouseover="imgOn('img19')" onmouseout="imgOff('img19')"><img border="0" src="/hc/_include/images/bcookbooksoff.GIF" name="img19" width="61" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="/hc/features/health" onmouseover="imgOn('img21')" onmouseout="imgOff('img21')"><img border="0" src="/hc/_include/images/bealthoff.GIF" name="img21" width="38" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="/hc/features/mystery" onmouseover="imgOn('img22')" onmouseout="imgOff('img22')"><img border="0" src="/hc/_include/images/bmysteryoff.GIF" name="img22" width="47" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="/hc/features/poetry" onmouseover="imgOn('img23')" onmouseout="imgOff('img23')"><img border="0" src="/hc/_include/images/bpoetryoff.GIF" name="img23" width="40" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="/hc/features/romance" onmouseover="imgOn('img24')" onmouseout="imgOff('img24')"><img border="0" src="/hc/_include/images/bromanceoff.GIF" name="img24" width="51" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="/hc/features/selfhelp" onmouseover="imgOn('img25')" onmouseout="imgOff('img25')"><img border="0" src="/hc/_include/images/bselfhelpoff.GIF" name="img25" width="52" height="23"></a><img border="0" src="/hc/_include/images/pipe2.gif" align="absmiddle" width="5" height="17"><a href="/hc/features/eos" onmouseover="imgOn('img20')" onmouseout="imgOff('img20')"><img border="0" src="/hc/_include/images/beossffofff.GIF" name="img20" width="30" height="23"><br>
-        </a></nobr><font size="1" face="Arial" color="#FFFFFF">© 2000, HarperCollins Publishers.
+        </a></nobr><font size="1" face="Arial" color="#FFFFFF">© 2001, HarperCollins Publishers.
 </font></p></td>
     </tr>
   </tbody></table>
