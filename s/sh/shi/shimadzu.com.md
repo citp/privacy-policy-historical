@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606090819id_/http%3A//shimadzu.com/privacy/privpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207035651id_/http%3A//www.shimadzu.com/privacy/privpolicy.html) for the most accurate reproduction.*
 
 # Shimadzu - Privacy Policy
 
