@@ -1,0 +1,577 @@
+<!--The following is the downloaded HTML source of the hgtvpro.com privacy policy that was archived on 2005-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405145308id_/http%3A//www.hgtvpro.com/hpro/about_us/article/0%2C2616%2CHPRO_20139_3386704%2C00.html) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript" src="http://www.hgtvpro.com/hpro/cda/javascript/tacoda_header.js"></script> 	
+		
+		<title>HGTVPro.com: About Us</title>
+		
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Refresh" content="1800">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+		<link rel="stylesheet" href="/hpro/cda/styles/mainCSS">
+		<script language="JavaScript">
+
+function popup(url,w,h,menu) {
+	x = Math.floor((screen.width - w) / 2);
+	y = Math.floor((screen.height - h) / 2);        
+	now = new Date();
+	features = "screenx="+x+",screeny="+y+",left="+x+",top="+y+",width="+w+",height="+h+",location=no,resizable=yes"+",directories=no,status=no,scrollbars=yes";
+
+	if (menu != null) {
+		//features += ",menubar=yes,toolbar=yes,scrollbars=yes";
+		features += ",menubar=yes,toolbar=yes";
+	} else {
+		//features += ",menubar=no,toolbar=no,scrollbars=no"; 
+		features += ",menubar=no,toolbar=no"; 
+	}
+	window.open(url,"newwin",features);
+}
+
+
+function MM_reloadPage(init) {  
+  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {
+    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+     document.MM_pgW=innerWidth; 
+	 document.MM_pgH=innerHeight;
+	 onresize=MM_reloadPage; 
+    }
+  } else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
+    location.reload();
+}
+
+// for Netscape thisdomain = www.scripps.com
+// for other browser thisdomain = scripps.com
+
+thisdomain = document.location + "";
+thisdomain = thisdomain.substring(thisdomain.indexOf('//')+2,thisdomain.length);
+thisdomain = thisdomain.substring(0,thisdomain.indexOf('/'));
+thisdomain = (navigator.appName != "Netscape")? thisdomain.substring(thisdomain.indexOf('.')+1,thisdomain.length): thisdomain;
+
+
+
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf(';',offset);
+	if (endstr == -1) {
+		endstr = document.cookie.length;
+	}
+	return unescape(document.cookie.substring(offset,endstr))
+}
+
+
+function SetCookie (name, value, expires, path, domain, secure) {
+	document.cookie = name + "=" + escape (value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+} 
+
+
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i,j) == arg) {
+			return getCookieVal(j);
+		}
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i==0) break;
+	}
+	return null;  
+}
+
+
+function DeleteCookie (name, path, domain) {
+   if (GetCookie(name)) {
+    document.cookie = name + "=" + ((path) ? "; path=" + path : "") +  ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+   }
+}
+
+
+function FixCookieDate (date) { 
+	var base = new Date(0); 
+	var skew = base.getTime();
+	if(skew > 0)
+		date.setTime (date.getTime() - skew);     
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function vod (url,streamtitle,customfeatures) {
+	windowFeatures = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=210,height=480';
+
+	//Browser Detection
+	var browser = "";
+	var browsername = navigator.appName;
+	var browserversion = parseInt(navigator.appVersion);
+	var browserplatform = navigator.userAgent;
+	if (browsername == "Netscape") {
+		browser = "ns" + browserversion;
+	} else {
+		if (browsername == "Microsoft Internet Explorer") {
+			if (browserversion >= 4) {
+				browser = "ie" + browserversion;
+			} else {
+				browser = "ie3";
+			}
+		}
+	}
+
+	if ((customfeatures) && customfeatures != '') {
+		windowFeatures = customfeatures;
+	}
+
+	if (url.indexOf(".rm",(url.length-10)) != -1) {
+		if (browser != 'ie3') {
+			hasplugin = 'false';
+			// Mac Browser (Not Netscape)
+			if ( (browserplatform.indexOf('Mac') !=-1) && ( browsername != "Netscape")) {
+				numPlugins = 0;
+				// Real Strange never goes into the followinf loop
+				// because numPlugins is 0
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.embeds[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			} else {
+				numPlugins = navigator.plugins.length;
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.plugins[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			}
+			if (browser.substring(0,2) == 'ie') {
+				hasplugin = 'true';
+			}
+			if (hasplugin == 'true') {
+				videoWin = window.open (url , 'video', windowFeatures);
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+				videoWin.document.close();              
+			} else {
+				stream = url.substring(0,(url.length-5));
+				location.href=stream + '.ram';
+			}
+		} else {
+			videoWin = window.open (url , 'video', windowFeatures);
+			if (document.images) {
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+			}
+			videoWin.document.close();                      
+		}               
+	} else {
+		videoWin = window.open (url , 'video', windowFeatures);
+		if (document.images) {
+			if (streamtitle != '') {
+				videoWin.streamtitle=streamtitle;
+			}
+		}
+		videoWin.document.close();
+	}
+}
+</script>
+
+		
+				
+		
+		
+		
+		
+		<script type="text/javascript">
+		<!--
+		// Prevent others from including this site
+		var preview = 'no'
+		if (preview != 'yes') {
+			if (top != self) {
+				top.location = location;
+			}
+		}
+
+		MM_reloadPage(true);
+
+		if (GetCookie('cookieChk') == null) { 
+			var expdate = new Date ();
+
+			// Correct for Mac date bug - call only once for given Date object!
+			FixCookieDate (expdate); 
+
+			// expires 30 days from now
+			expdate.setTime (expdate.getTime() + (30 * 24 * 60 * 60 * 1000)); 
+			SetCookie ('cookieChk', 'OK', expdate, '/', thisdomain, null);
+		}
+		// -->
+		</script>
+		<style> 
+    	<!--
+		.bgimage {
+			background-color:	#ccd;
+			background-image: 	url(http://images.hgtvpro.com/shell/hgtvprobg.gif);
+			background-repeat:	repeat-x;
+			}	
+   		-->
+    </style></head> <!-- ----------------------------------------------	-->
+	<!-- Begin body	                                    -->
+	<!-- ----------------------------------------------	-->	
+	<!-- Bob --- (  ) -- Bob -->
+	
+		
+	<body class="bgimage" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+			
+			<!-- ----------------------	BEGIN SITE HEADER LIBRARY 	----------------------- -->
+			<!-- Vignette V6 Mon Jan 24 11:17:13 2005 -->
+
+	
+		<!-- HEADER -- 0 -->
+		
+		<table id="headertop" width="1000" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="258"><a href="http://www.hgtvpro.com"><img src="/hpro/images/headers/headlogo.gif" alt="" height="158" width="258" border="0"></a></td>
+				<td valign="bottom" width="742">
+					<table width="742" border="0" cellspacing="0" cellpadding="0" height="158">
+						<tbody><tr width="728" border="0">
+							<td height="120" width="728" align="center" valign="middle">
+								<!-- AdSpace Unsized AD pos.1 PageType: ARTICLE-DETAIL --><script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=HPRO&amp;category=ABOUT_US&amp;vgncontent=ABOUT_US&amp;pagetype=ARTICLE_DETAIL&amp;adtype=LEADERBOARD&amp;PagePos=1"></script><!-- /AdSpace -->
+							</td>
+						</tr>
+						<tr>
+							
+		<td align="right" height="38">
+<!-- SiteCatalyst code version: G.6. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="/hpro/cda/javascript/s_code_remote.js"></script><img name="s_i_scrippshgtvpro" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/scrippshgtvpro/1/G.7-Pd-R/s55885538371473?[AQB]&amp;ndh=1&amp;t=30/0/2020%2022%3A4%3A7%204%200&amp;g=https%3A//web.archive.org/web/20050405145308id_/http%253A//www.hgtvpro.com/hpro/about_us/article/0%252C2616%252CHPRO_20139_3386704%252C00.html&amp;cc=USD&amp;c1=Flash%20Version%20%3D%200&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><a href="javascript:%20void(window.open('http://www.hgtvpro.com/make_us_your_homepage/default.htm',null,'width=504,height=427,scrollbars=no,status=no,toolbar=no,menubar=no,location=no,resizable=no'));"><img src="/hpro/images/nav/nav2make.gif" alt="" height="20" width="165" border="0"></a><a href="/hpro/ab_newsletter"><img src="/hpro/images/nav/nav2news.gif" alt="" height="20" width="89" border="0"></a><a href="http://boards.hgtvpro.com/eve"><img src="/hpro/images/nav/nav2board.gif" alt="" height="20" width="116" border="0"></a><a href="/hpro/ab_sweepstakes"><img src="/hpro/images/nav/nav2sweeps.gif" alt="" height="20" width="97" border="0"></a><a href="/hpro/about_us"><img src="/hpro/images/nav/nav2about.gif" alt="" height="20" width="76" border="0"></a><a href="/hpro/on_tv"><img src="/hpro/images/nav/nav2tv.gif" alt="" height="20" width="37" border="0"></a><br><img src="/hpro/images/spacers/spacer.gif" alt="" height="18" width="1" border="0"></td>
+	
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<table width="1000" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td id="nav1hilite" width="779"><img src="/hpro/images/nav/spacer.gif" alt="" height="2" width="779" border="0"></td>
+				<td id="nav1hilite" width="221"><img src="/hpro/images/nav/spacer.gif" alt="" height="2" width="221" border="0"></td>
+			</tr>
+			<tr>
+				
+		<td id="nav1" width="779" height="27"><a href="/hpro/home" onmouseover="document.nav1home.src='/hpro/images/nav/nav1home_on.gif';" onmouseout="document.nav1home.src='/hpro/images/nav/nav1home.gif';"><img src="/hpro/images/nav/nav1home.gif" name="nav1home" alt="" height="27" width="56" border="0"></a><img src="/hpro/images/icons/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="/hpro/best_practices" onmouseover="document.nav1best.src='/hpro/images/nav/nav1best_on.gif';" onmouseout="document.nav1best.src='/hpro/images/nav/nav1best.gif';"><img src="/hpro/images/nav/nav1best.gif" name="nav1best" alt="" height="27" width="116" border="0"></a><img src="/hpro/images/icons/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="/hpro/pro_zone" onmouseover="document.nav1prozone.src='/hpro/images/nav/nav1prozone_on.gif';" onmouseout="document.nav1prozone.src='/hpro/images/nav/nav1prozone.gif';"><img src="/hpro/images/nav/nav1prozone.gif" name="nav1prozone" alt="" height="27" width="87" border="0"></a><img src="/hpro/images/icons/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="/hpro/videos" onmouseover="document.nav1video.src='/hpro/images/nav/nav1video_on.gif';" onmouseout="document.nav1video.src='/hpro/images/nav/nav1video.gif';"><img src="/hpro/images/nav/nav1video.gif" name="nav1video" alt="" height="27" width="103" border="0"></a><img src="/hpro/images/icons/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="/hpro/online_tools" onmouseover="document.nav1tools.src='/hpro/images/nav/nav1tools_on.gif';" onmouseout="document.nav1tools.src='/hpro/images/nav/nav1tools.gif';"><img src="/hpro/images/nav/nav1tools.gif" name="nav1tools" alt="" height="27" width="114" border="0"></a><img src="/hpro/images/icons/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="/hpro/virtual_tradeshows?vid=2754" onmouseover="document.nav1trade.src='/hpro/images/nav/nav1trade_on.gif';" onmouseout="document.nav1trade.src='/hpro/images/nav/nav1trade.gif';"><img src="/hpro/images/nav/nav1trade.gif" name="nav1trade" alt="" height="27" width="162" border="0"></a><img src="/hpro/images/spacers/spacer.gif" alt="" height="27" width="24" border="0"><img src="/hpro/images/nav/nav1search.gif" alt="" height="27" width="57" border="0"></td>
+	
+				
+		<form action="http://web.hgtvpro.com/hpro/web/searchResults" method="get" name="search" valign="bottom"></form>
+			<td nowrap="" id="search" width="221">
+				<div align="right">
+				&nbsp;<input type="text" name="searchString" size="20" class="searchfield"> <a onclick="document.search.submit()"><img src="/hpro/images/nav/nav1go.gif" alt="" height="20" width="42" align="absmiddle" border="0"></a>&nbsp;&nbsp;&nbsp;</div>
+			</td>
+		
+	
+			</tr>
+			
+			<tr>
+				<td width="779"><img src="/hpro/images/spacers/spacer.gif" alt="" height="10" width="1" border="0"></td>
+				<td width="221"></td>
+			</tr>
+		
+		</tbody></table>
+		 <!-- ----------------------	BEGIN SITE HEADER LIBRARY 	----------------------- -->
+		 
+		<table border="0" cellpadding="0" cellspacing="0" width="986">
+		<!-- MainBody - Start		ARTICLE-DETAIL	214X565X207-PAGE			    -->
+		<tbody><tr>
+			
+			<td width="7"><img src="/hpro/images/spacers/spacer.gif" width="7" height="31" border="0" align="bottom"></td>
+			<td width="207" class="lnb_shadow" valign="top" align="right">
+				  <!-- Vignette V6 Tue Jan 25 18:11:07 2005 -->
+
+	<table width="100%" cellpadding="0" cellspacing="0" border="0" align="right"><tbody><tr><td><table width="207" cellpadding="0" cellspacing="0" border="0" align="CENTER"><tbody><tr><td><table class="" width="207" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td class="lnb_header" width="100%"><a href="/hpro/about_us/0,2596,HPRO_20139,00.html">About Us Index</a></td>
+        </tr>
+        <tr>
+          <td class="lnb_body">
+            <a href="/hpro/ab_newsletter/0,2596,HPRO_20140,00.html" class="selected">Newsletter</a><br>
+            <a href="/hpro/ab_sweepstakes/0,2596,HPRO_20141,00.html">Sweepstakes</a><br>
+            <a href="/hpro/pac_ctnt/text/0,,HPRO_20196_28115,00.html">Media Kit</a><br>
+            <a href="/hpro/ab_press_releases/0,2596,HPRO_20143,00.html">Press Releases</a><br>
+            <a href="/hpro/about_us/article/0,2616,HPRO_20139_3457394,00.html">Writer Biographies</a></td>
+        </tr>
+      </tbody></table><!-- newsletter signup bucket -->
+
+<table width="207" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr id="buckettitle" height="24">
+    <td class="buckettitle" height="24">Newsletter Signup</td>
+  </tr>
+  <tr id="bucketcontent">
+    <td class="bucketcontent">Subscribe to HGTVProFile for<br>
+      timely information on new<br>
+      products, best practices,<br>
+      professional advice and more.
+      <div align="center">
+        <p><a href="/hpro/ab_newsletter/"><img src="http://images.hgtvpro.com/shell/subscribe.gif" alt="" height="20" width="79" border="0"></a></p>
+      </div></td>
+  </tr>
+</tbody></table>
+<!-- go 2 broadband bucket -->
+<table width="207" border="0" cellspacing="0" cellpadding="0" id="Table2">
+	<tbody><tr>
+		<td align="center">
+		<a href="#" onclick="window.open('http://cpss.go2broadband.com/default.aspx',null,'width=764,height=607,scrollbars=no,status=no,toolbar=no,menubar=no,location=no,resizable=no');"><img src="http://images.hgtvpro.com/lnb/images/go2broadband.gif" width="178" height="133" alt="" border="0"></a><br><br>
+		</td>
+	</tr>
+</tbody></table><!-- MaxSize (3) --></td></tr></tbody></table> <!-- MaxSize (3) --></td></tr></tbody></table>
+			</td>
+			
+				<td width="565" class="centerarea" valign="top">
+			
+			
+			
+				  <!-- Vignette V6 Wed Feb 16 11:01:36 2005 -->
+
+	<table class="center_area_c" cellspacing="0" cellpadding="0" width="100%" border="0" valign="TOP"><tbody><tr><td valign="TOP"><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td class="bodytext">
+		<table border="0" cellpadding="0" cellspacing="0" width="565">
+			<tbody><tr>
+				<td valign="top">
+					<table cellpadding="0" cellspacing="0" border="0" width="100%">
+						
+				<tbody><tr>
+					<td><img src="/hpro/images/tableheaders/generic_article2.gif"></td>
+				</tr>
+			
+						
+						
+						 
+						<tr>
+									<td>
+		<table border="0" cellpadding="0" cellspacing="0" width="565">
+			<tbody><tr>
+				<td valign="top">
+					<table cellpadding="0" cellspacing="0" border="0">
+						
+						
+				<tbody><tr>
+					<td class="padheadline1"> Privacy Policy</td>
+				</tr>
+			
+						
+						 
+						<tr>
+									<td class="padbodytext">
+			<table border="0" cellspacing="0" cellpadding="0" width="92">
+				<tbody><tr><td height="12"><img src="/hpro/images/spacers/spacer.gif" width="1" height="1" border="0"></td></tr>
+					<tr><td align="LEFT" class="deeplinks"><a href="javascript:popup('/hpro/cda/article_print/0,2645,HPRO_20139_3386704_ARTICLE-DETAIL-PRINT,00.html',700,500,1)"><img src="/hpro/images/icons/print_version.gif" width="91" height="18" name="print1" border="0"></a></td></tr>
+					<tr><td align="LEFT" class="deeplinks"><a href="javascript:popup('/cr/cda/email/article/1,1249,HPRO_20139_3386704,00.html',400,350)"><img src="/hpro/images/icons/email.gif" width="91" height="18" name="email1" border="0"></a></td></tr>
+			</tbody></table></td>
+								</tr>
+						
+					</tbody></table>
+				</td>
+				
+			<td width="200" valign="top" height="270" class="article_ad300_txt">
+				<div align="center">
+		<center>
+		 
+		<!-- AdSpace Unsized AD pos.5 PageType: ARTICLE-DETAIL --><script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=HPRO&amp;category=ABOUT_US&amp;vgncontent=ABOUT_US&amp;pagetype=ARTICLE_DETAIL&amp;adtype=UNSIZED_AD&amp;PagePos=5"></script><!-- /AdSpace -->
+	
+		</center>
+	</div>
+			</td>
+		
+			</tr>
+		</tbody></table>
+	</td>
+								</tr>
+						
+					</tbody></table>
+				</td>
+				
+			</tr>
+		</tbody></table>
+	<br><p>
+			<table width="100%" cellspacing="0" border="0">
+			<tbody><tr><td class="padbodytext"><p>At HGTVPro.com, we are committed to protecting the online personal identifiable information of non-business visitors to our websites.  We are also committed to protecting information of our business visitors from unauthorized disclosure.  This Policy applies only to the websites and online services provided by HGTVPro.com. This Policy does not cover any interaction you may have with HGTV or HGTV.com by interacting in the HGTV.com website, telephone, postal mail, or other communications. The purpose of this Policy is to inform you about the types of information we gather about you and/or your business when you visit our website, how we may use that information, and how we disclose it to third parties. 
+
+</p><p>Our HGTVPro.com website is not designed for use by children without their parent's supervision. We ask that anyone under the age of thirteen not submit any personal information through our website. We do not knowingly collect any personal information from children under the age of thirteen, and therefore we do not knowingly distribute such information to third parties. 
+
+</p><p>Our HGTVPro.com website may contain links to other websites, including websites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other websites to which we provide links from our website. You should check the applicable privacy policy of the website sponsor when linking to other websites. 
+
+</p><p><b>I. Information That We Collect</b> 
+
+</p><p><b>Personal Information</b>
+<br>At various locations on our HGTVPro.com website, such as in registration forms, sweepstakes entries, message boards, online stores, surveys, and polls, we may request that you supply us with "personal information," such as your name, personal email address, personal mailing and personal shipping addresses, home (non-business) telephone number, and/or personal credit card information. You will hopefully know when we are collecting such personal information and indicate, as applicable, that the information you are providing is personal in nature.  Although you do not have to provide us with any information to visit our websites, you may not be able to fully utilize all of the services on our websites that are targeted at individuals if you choose not to provide certain information. If you do choose to give us personal information through our websites, we will collect and retain that information. 
+
+</p><p><b>Non-Personal and/or Business Information</b>
+<br>We also collect "non-personal information" and "business information."  We consider "non-personal information" to be information that, by itself, cannot be used to identify or contact you in your personal, non-business capacity personally, such as demographic information (your age, gender, income, education, profession, zip code, etc.). Non-personal information may also include technical information, such as your IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. Non-personal information may also include information that you provide us through your use of our websites, such as the terms you enter into the search functions of our websites.  We consider "business information" to be details related to your business, such as firm name, trades covered, number of employees and the like.
+
+</p><p><b>Online Stores</b>
+<br>We collect personal and/or business information from you when you purchase products from our online stores. For example, we require you to provide your name, business name, contact information, shipping and billing addresses and a credit card number before we process your orders. We also collect information about your transactions with us. We may use the information that you provide to communicate with you about products purchased through our online stores, to provide customer support in connection with those products, and to send you information about other products and services which we believe may be of interest to you. 
+
+</p><p><b>Cookies</b>
+<br>We use "cookies" to enhance your visits to our websites. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies do not store personal information about you, unless you knowingly provide it. Cookies can store non-personal information, such as what websites, pages, or advertisements your browser has accessed. We use cookies to store information and personalize your experience with our websites. For example, cookies allow our websites to recognize your browser as a previous visitor, and thus save and remember any preferences that may have been set while you were previously browsing our websites. Our cookies can also store your password, personalize pages, and keep track of selections, such as your time zone, or items you have placed in a "shopping cart." 
+
+</p><p>You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. Most browsers can also be set to refuse to accept cookies, although this may affect your Internet experience. You can also erase cookies that are already on your computer. For more information about working with cookies, you should consult your user manual, FAQ, or "help" function of your specific browser and operating system software. 
+
+</p><p><b>II. How We Use the Information We Collect</b> 
+
+</p><p><b>Our Services and Websites</b>
+<br>We use your information provided by you to provide you any services that you may request or require, to communicate with you, to allow you to make purchases, and to allow you to participate in online contests, surveys and games. We use aggregated non-personal and business information about our users (A) to understand our website's demographics, such as the percentage of male and female users, the categories of the businesses that use our website, the geographic distribution of our users, the age ranges of our users, the interests of our business users, or a combination of these or other demographics, (B) to analyze how our websites are being used, and (C) to improve the content of our websites, online product offerings, and marketing and promotional efforts. 
+
+</p><p><b>Email Communications</b>
+<br>If you send us an email with questions or comments, we may use your personal information or business information to respond to your questions or comments, and we may save your questions or comments for future reference. However, aside from our reply to such an email, it is not our standard practice to send you email unless you have indicated an interest in a particular service that involves email communications, you otherwise consent to being contacted by email or if such contact is to communicate with you about products purchased through our online stores, to provide customer support in connection with those products, and to send you information about other products and services which we believe may be of interest to you. There may be times when you will have the opportunity to subscribe to an email list or electronic newsletter that will send information about our websites or our advertisers to your email address. However, we will provide you with the option to change your preferences and opt-out of receiving those communications. You may request at any time that we not email you in the future by clicking the "unsubscribe" link which is included at the bottom of any email that you receive from us, or by contacting us at <a href="mailto:privacy@HGTVPro.com">privacy@HGTVPro.com</a>. If you unsubscribe, we will make reasonable efforts to discontinue these email communications as soon as practicable. 
+
+</p><p><b>Online Stores</b>
+<br>If you make a purchase through our online stores, we may use the information you provide to send you important announcements and updates regarding our websites or online products. You may also receive periodic mailings regarding new products and services. However, you may opt- out from receiving future mailings by contacting <a href="mailto:privacy@HGTVPro.com">privacy@HGTVPro.com</a> or: 
+
+</p><p>HGTVPro.com
+<br>Attn: Web Privacy Policy Department
+<br>PO Box 50970
+<br>Knoxville, TN 37950 
+
+</p><p>When you provide us with your information to make a purchase through our online stores, we use this information to process your online order and credit card number. We also use your address and billing information to bill you and provide associated support. 
+
+</p><p><b>III. Disclosure of Information to Third Parties</b> 
+
+</p><p><b>Affiliates and Non-Affiliates</b>
+<br>Except as specifically set forth in this Policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties, including advertisers or other business partners. This aggregate information does not include your personal information. We may, however, share your personal information with certain websites that control us, are controlled by us, or under common control with us (our "Affiliates"), such as <a target="_blank" href="http://HGTV.com">HGTV.com</a>, <a target="_blank" href="http://FoodNetwork.com">FoodNetwork.com</a>, <a target="_blank" href="http://DIYNetwork.com">DIYNetwork.com</a>, <a target="_blank" href="http://FineLiving.com">FineLiving.com</a>, <a target="_blank" href="http://ShopAtHomeTV.com">ShopAtHomeTV.com</a>, and <a target="_blank" href="http://GACTV.com">GACTV.com</a> and websites operated by our Affiliates or other businesses of the E. W. Scripps Company, our parent company, so that they and we can offer you products and services that may be of interest to you. Please refer to our Affiliates' privacy policies for details regarding how they handle your personal and non-personal information.  We also reserve the right to share business information with others in our sole discretion.
+
+</p><p><b>Service Providers</b>
+<br>We sometimes engage unaffiliated businesses to assist us in providing you certain services. For example, we may hire a shipping company to help us deliver our products or services to you. We may also use third parties to process online transactions and credit card payments, provide advertising, marketing and promotional assistance, provide email services, or facilitate our online services (such as message boards, chat rooms, and surveys). In those instances, we may need to share your personal or business information, as applicable, with them. We require these companies to use your information only to provide the particular product or service and do not authorize them to use your information for any other reason. 
+
+</p><p>We sometimes offer promotions (like sweepstakes or free subscriptions) in conjunction with a third party sponsor. If you choose to participate in one of those promotions, we may share your information with the sponsor if they need it to send you a product or other special promotion they offer. 
+
+</p><p><b>Business Transactions</b>
+<br>As HGTVPro.com continues to develop, we may buy, sell or combine with other businesses. If so, personal, business and non-personal information that we or other businesses have collected will likely be transferred as part of the transaction. If we sell a business, we will attempt to ensure that requests made of us regarding email communications will be honored. 
+
+</p><p><b>Public Forums</b>
+<br>We feature public forums such as chat rooms, message boards, bulletin boards, or similar activities where you and other users of our websites can communicate with one another. This Policy does not protect you when you use these public forums or provide information (including personal information) about yourself. Any information you share in a public forum such as a chat room, message board, or bulletin board is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. HGTVPro.com is not responsible for events arising from the distribution of any information you choose to publicly post or share through our websites. 
+
+</p><p><b>Third Party Advertisers</b>
+<br>We use third-party advertising companies to deliver specific advertisements to you, which appear on pages throughout our websites. These companies collect non-personal information about your visits to our websites and other websites in order to provide advertisements about products and services that may be of interest to you. These companies may also aggregate your non-personal information for use in targeted advertising, marketing research, and other similar purposes. These companies may place their own cookies on your computer. If you want to prevent a third-party advertiser from collecting and using this information, you may visit each third party advertiser's website directly and opt-out. You may also visit Network Associates at <a target="_blank" href="http://www.nai.com">www.nai.com</a> for solutions regarding consumer privacy. 
+
+</p><p><b>Other Disclosures</b>
+<br>We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of HGTVPro.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. We reserve the right to use or disclose non-personal information in any way we see fit. 
+
+</p><p><b>IV. Security of the Information We Collect</b> 
+
+</p><p>The security of your personal, non-personal and business information is important to us. We maintain physical, electronic, and procedural safeguards to secure your information. However, "perfect security" does not exist on the Internet, and there is always some risk in transmitting information electronically. The information we collect is stored within databases that we control. As we deem appropriate, we use security measures consistent with industry standards, such as firewalls and encryption technology, to protect your information. However, since no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. Of course, any information you post to any message board, discussion group, or other public posting area on our websites is available to anyone with Internet access. 
+
+</p><p><b>V. Accuracy of the Information We Collect</b> 
+
+</p><p>Any questions you may have regarding our Privacy Policy, the accuracy of your information or the use of your information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to <a href="mailto:privacy@HGTVPro.com">privacy@HGTVPro.com</a>, or via telephone to 865-694-7879. You also can write us at: 
+
+</p><p>HGTVPro.com
+<br>Attn: Web Privacy Policy Department
+<br>PO Box 50970
+<br>Knoxville, TN 37950 
+
+</p><p>After receiving a request to change your information, we will make reasonable efforts to ensure that all of your information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use. In addition, it is not technologically possible to remove each and every record of the information you have provided to us. A copy of your information may exist in a non-erasable form that will be difficult or impossible for us to locate. 
+
+</p><p>This Policy is effective as of January 10, 2005. We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. Please refer back to this Policy on a regular basis. <br>
+			</p></td></tr>
+			</tbody></table></p></td></tr></tbody></table></td></tr></tbody></table><!-- hpro article fix -->   
+			
+			
+				<br>
+				<img src="/hpro/images/spacers/spacer.gif" width="564" height="1" border="0">
+				</td>
+					
+			
+			
+			<td width="207" class="gutter" valign="top">
+				  <!-- Vignette V6 Tue Jan 11 22:14:14 2005 -->
+
+   
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td>
+				<script language="javascript" src="http://images.hgtvpro.com/gutter/vars.js"></script>
+<script language="javascript" src="http://images.hgtvpro.com/gutter/featured.js"></script>
+<script language="javascript" src="http://images.hgtvpro.com/gutter/gutter_format.js"></script><!-- MaxSize (1) -->
+				</td>
+			</tr>
+			</tbody></table><!-- MaxSize (1) -->
+			</td>
+	
+		</tr>
+		<!-- MainBody - End									    -->
+		</tbody></table>
+ 
+			<!-- ----------------------	BEGIN SITE FOOTER LIBRARY 	----------------------- -->
+			<!-- HPRO 20138 ARTICLE-DETAIL 262860 FOOTER no ( HPRO_20138_ARTICLE-DETAIL_262860_FOOTER_no )-->
+			<!-- Vignette V6 Wed Jan 12 13:52:22 2005 -->
+
+  
+			
+			<!-- footer -->
+<table id="footer" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="1000"><img src="http://images.hgtvpro.com/shell/spacer.gif" alt="" height="10" width="1000" border="0"></td>
+<td width="100%"><img src="http://images.hgtvpro.com/shell/spacer.gif" alt="" height="10" width="1" border="0"></td>
+</tr>
+<tr>
+<td id="footernav" nowrap="" width="1000">
+<div align="center">
+<a href="http://www.hgtv.com" target="_blank"><img src="http://images.hgtvpro.com/shell/footer/fnavhgtv.gif" alt="" height="26" width="48" border="0"></a><img src="http://images.hgtvpro.com/shell/footer/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="http://www.diynetwork.com" target="_blank"><img src="http://images.hgtvpro.com/shell/footer/fnavdiy.gif" alt="" height="26" width="95" border="0"></a><img src="http://images.hgtvpro.com/shell/footer/nav1plus.gif" alt="" height="27" width="11" border="0"><a target="_blank" href="http://www.foodnetwork.com"><img src="http://images.hgtvpro.com/shell/footer/fnavfood.gif" alt="" height="26" width="109" border="0"></a><img src="http://images.hgtvpro.com/shell/footer/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="http://www.fineliving.com" target="_blank"><img src="http://images.hgtvpro.com/shell/footer/fnavfine.gif" alt="" height="26" width="82" border="0"></a><img src="http://images.hgtvpro.com/shell/footer/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="http://www.shopathometv.com" target="_blank"><img src="http://images.hgtvpro.com/shell/footer/fnavshop.gif" alt="" height="26" width="102" border="0"></a><img src="http://images.hgtvpro.com/shell/footer/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="http://www.gactv.com" target="_blank"><img src="http://images.hgtvpro.com/shell/footer/fnavgac.gif" alt="" height="26" width="168" border="0"></a><img src="http://images.hgtvpro.com/shell/footer/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="/hpro/about_us/"><img src="http://images.hgtvpro.com/shell/footer/fnavabout.gif" alt="" height="26" width="74" border="0"></a><img src="http://images.hgtvpro.com/shell/footer/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="/hpro/ab_newsletter/"><img src="http://images.hgtvpro.com/shell/footer/fnavnews.gif" alt="" height="26" width="87" border="0"></a><img src="http://images.hgtvpro.com/shell/footer/nav1plus.gif" alt="" height="27" width="11" border="0"><a href="/hpro/pac_ctnt/text/0,,HPRO_20196_28115,00.html"><img src="http://images.hgtvpro.com/shell/footer/fnavads.gif" alt="" height="26" width="87" border="0"></a></div>
+</td>
+<td id="footernav" width="100%"><img src="http://images.hgtvpro.com/shell/spacer.gif" alt="" height="1" width="1" border="0"></td>
+</tr>
+<tr>
+<td id="headertop" valign="bottom" width="1000">
+<div align="center">
+<br>
+<br>
+<img src="http://images.hgtvpro.com/shell/footer/fshiri.gif" alt="" height="81" width="112" border="0"><img src="http://images.hgtvpro.com/shell/footer/fsnahb.gif" alt="" height="81" width="149" border="0"><img src="http://images.hgtvpro.com/shell/footer/fsnkba.gif" alt="" height="81" width="150" border="0"><a href="/hpro/pac_ctnt/text/0,,HPRO_20196_27961,00.html"><img src="http://images.hgtvpro.com/shell/footer/fsbuildiq.gif" alt="" height="81" width="155" border="0"></a><img src="http://images.hgtvpro.com/shell/footer/fsnchi.gif" alt="" height="81" width="154" border="0"><img src="http://images.hgtvpro.com/shell/footer/fsremodelers.gif" alt="" height="81" width="151" border="0"><img src="http://images.hgtvpro.com/shell/footer/fsnari.gif" alt="" height="81" width="106" border="0"><br>
+<br><br>
+© 2005 Scripps Networks, Inc. All rights reserved. <a href="/hpro/about_us/article/0,2616,HPRO_20139_3386704,00.html">Privacy Policy</a> | <a href="/hpro/about_us/article/0,2616,HPRO_20139_3386705,00.html">Legal Info</a><br><img src="http://images.hgtvpro.com/shell/spacer.gif" alt="" height="20" width="1" border="0">
+</div>
+</td>
+<td width="100%"><img src="http://images.hgtvpro.com/shell/spacer.gif" alt="" height="125" width="1" border="0"></td>
+</tr>
+</tbody></table><!-- MaxSize (1) --> <!-- ----------------------	END SITE FOOTER LIBRARY 	----------------------- -->
+		  
+			
+		<!-- AdSpace adtype=SUPERSTITIAL pos.1 -->
+			<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=HPRO&amp;category=ABOUT_US&amp;vgncontent=ABOUT_US&amp;pagetype=ARTICLE-DETAIL&amp;adtype=SUPERSTITIAL&amp;PagePos=1">
+			</script>
+		<!-- /AdSpace --> 
+		<!-- AdSpace adtype=SUPERSTITIAL pos.1 -->
+			<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=HPRO&amp;category=ABOUT_US&amp;vgncontent=ABOUT_US&amp;pagetype=ARTICLE-DETAIL&amp;adtype=SUPERSTITIAL&amp;PagePos=2">
+			</script>
+		<!-- /AdSpace -->  
+		<script language="JavaScript">Tacoda_AMS_DDC_js=1.0</script>
+		<script language="JavaScript1.1">Tacoda_AMS_DDC_js=1.1</script>
+		<script language="JavaScript1.2">Tacoda_AMS_DDC_js=1.2</script>
+		<script language="JavaScript1.3">Tacoda_AMS_DDC_js=1.3</script>
+		<script language="JavaScript">TacodaSetupCode();</script>				
+		<noscript><img src="http://te.scripps.com/blank.gif" width="1" height="1" border="0"></noscript> 
+	<!-- ----------------------------------------------	-->
+	<!-- End body	                                    -->
+	<!-- ----------------------------------------------	-->
+
+</body></html>
