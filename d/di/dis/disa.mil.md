@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disa.mil privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619120913id_/http%3A//www.disa.mil/info/secpriv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disa.mil privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203221600id_/http%3A//www.disa.mil/info/secpriv.html) for the most accurate reproduction.*
 
 # Security and Privacy Notice
 
@@ -21,6 +21,6 @@ Back to the page that sent you here
 
 * * *
 
-**Last Revision - 08 Apr 1999**  
-_chased@ncr.disa.mil  
-lieuy@ncr.disa.mil _
+This page is Bobby approved  
+**Last Revision - 26 September 2000**  
+_cm-web@ncr.disa.mil_
