@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the food.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012021557id_/http%3A//www.food.com/food/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305010247id_/http%3A//www.food.com/food/privacy_policy) for the most accurate reproduction.*
 
 # Food Network: Privacy Policy
 
