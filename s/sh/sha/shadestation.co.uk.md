@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadestation.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204110005id_/http%3A//www.shadestation.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadestation.co.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404031246id_/http%3A//www.shadestation.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Shade Station : sun glasses, sunglasses, prada, oakley, rayban, chanel, gucci, fashion
 
