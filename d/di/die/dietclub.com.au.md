@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dietclub.com.au privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204213827id_/http%3A//www.familyhealth.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietclub.com.au privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603180349id_/http%3A//www.dietclub.com.au/privacy) for the most accurate reproduction.*
 
-# FamilyHealth.com.au - Privacy Policy
+# DietClub.com.au - Privacy Policy
 
 Your personal information is important to The Family Health Network.
 
@@ -89,3 +89,5 @@ The Family Health Network reserves the right to add to, remove and alter any of 
 Some sites on the Network may be operated in conjunction with other individuals or entities. They may have special Terms and Conditions and Privacy Policies which differ from those of The Family Health Network. Where they differ the more specific terms will apply.
 
 You should familiarize yourself with the relevant Web site's Terms and Conditions and Privacy Policy before using their site or disclosing any of your personal information to them.
+
+[Back to home page](https://web.archive.org/)
