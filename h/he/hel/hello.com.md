@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hello.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402021746id_/http%3A//www.picasa.net/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hello.com privacy policy that was archived on 2004-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040712094645id_/http%3A//www.picasa.com/content/privacy.php) for the most accurate reproduction.*
 
 # Picasa: Automated Digital Photo Organizer software, instant photo albums, sharing & printing: Privacy Policy
 
