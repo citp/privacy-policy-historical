@@ -1,11 +1,23 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619114722id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013071352id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
 
 ## Privacy Statement
 
   
-Last Updated April, 21, 2004, 10:30 
+Last Update: September, 15, 2004, 15:59 Personal Information Collection Change: USA Customers
+
+Notice to our customers located in the United States of America, Sept. 9: Starting October 1, 2004, US Customs and Border Protection, as a result of the **Dept. of Homeland Security's initiative** to improve security at the US border, **requires that importation shipments costing $200 USD and over must document** complete information about its tariff classification, as well as contain **a tracking number** , either an Employer Identification Number (some times referred to as a Tax Id) or a Social Security Number (SSN). 
+
+This requirement **does not apply to purchases that are either downloaded over the Internet, do not require importation, or are importation orders totaling less than $200 USD**. The tracking number must belong to the ultimate consignee of the party receiving any portion of the shipment. For further information on US security policies and requirements, please visit the US Customs and Border Protection [web site](http://www.cbp.gov/). 
+
+**The impact** on houseofnames.com American customers is that for any purchase item or items totaling $200 USD or more that must be imported into the United States, the consignee must provide their Tax Id or SSN number. As our customers are general consumers who do not normally have a Tax Id, we have elected to request the consignee's SSN number on the on-line purchase order form, when applicable. 
+
+**This number is provided to US Customs in electronic form** , and printed on a hard copy of the invoice shipped with the product (if necessary). House Of Names will, in those cases where it must collect it, treat the customer's SSN identification with the same respect as any of his or her's other personal information, and in particular with the same security as given credit card numbers; that is, the SSN will be recorded only for shipping requirement purposes, and is retained as per our Privacy, Security, and Information Retention policy, as documented further on this page. 
+
+**If you have concerns** regarding this policy change, contact House of Names via [email](mailto:privacy@swyrich.com?Subject=SSN%20Privacy%20Questions), or if you have immediate concerns regarding ordering and shipping, or if you wish to make a personal statement to House Of Names regarding such, call us toll free: 888-468-7686 xt 222. 
+
+End of Policy Change Statement
 
 Swyrich Corporation, the parent company of Houseofnames.com, has created this privacy statement in order to demonstrate our strong commitment to protecting your privacy. This statement discloses how we collect and disseminate information. 
 
@@ -130,7 +142,7 @@ Employees of Swyrich Corporation do not have access to your personal information
 
 We are committed to protecting the security of your personal information from loss, misuse or alteration. We use security technology and procedures to protect information from unauthorized access, use or disclosure. We store information on a global secure server, with limited access, that is located in controlled facilities. When personal information is transmitted, such as a credit card number, we protect it through the use of 128 bit SSL encryption.
 
-Houseofnames.com internet security is auditted daily by way of a third party [security service](http://www.scanalert.com/RatingVerify?ref=www.houseofnames.com). Our [security policy](http://www.houseofnames.com/xq/asp/sId.0/kbId.181/title.Security+Certificates/qx/knowledgebase.htm) and procedures are reviewed monthly, and employees are made aware of security policies and procedures.
+Houseofnames.com internet security is auditted daily by way of a third party [security service](http://www.scanalert.com/RatingVerify?ref=www.houseofnames.com). Our [security policy](http://www.houseofnames.com/xq/asp/sId./kbId.181/title.Security+Certificates/qx/knowledgebase.htm) and procedures are reviewed monthly, and employees are made aware of security policies and procedures.
 
 ## Information Protection for Children
 
