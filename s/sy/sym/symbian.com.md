@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the symbian.com privacy policy that was archived on 2001-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011007051753id_/http%3A//www.symbian.com/About/legal-pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbian.com privacy policy that was archived on 2002-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020418044057id_/http%3A//www.symbian.com/about/legal-pp.html) for the most accurate reproduction.*
 
-# Legal Notice and Disclaimer
+# Symbian: Privacy policy
 
-Privacy Policy
+**Privacy policy**
 
 **1\. Introduction**  
-Symbian Limited (referred to as "Symbian", "we, or "our") is committed to protecting the privacy of visitors to the Symbian web sites (including the web sites at the following uniform resource locaters: http://www.symbian.com/ and http://www.symbiandevnet.com/, together with all related discussion forums, directories and databases) (the "web sites"). We have put in place policies and procedures to protect personal information we collect about you in order to comply with the Data Protection Act 1998. This privacy policy explains how we collect and use the information we collect about you.
+Symbian Limited (referred to as "Symbian", "we, or "our") is committed to protecting the privacy of visitors to the Symbian web sites (including the web sites at the following uniform resource locaters: http://www.symbian.com/ and http://www.symbian.com/developer/, together with all related discussion forums, directories and databases) (the "web sites"). We have put in place policies and procedures to protect personal information we collect about you in order to comply with the Data Protection Act 1998. This privacy policy explains how we collect and use the information we collect about you.
 
 **2\. Services**  
 Symbian provides details on the web site about its business practices including details of its partners and licensees, professional services providers, third party software developers, and independent software vendors (together the "Symbian Community"). The web sites also includes details about the Symbian 32 bit operating system , and the Symbian Developer Network and include authorised access to interactive discussion forums, directories and/or databases, together with details of related products and/or services available to you (together the "Services"). 
@@ -69,4 +69,4 @@ We may amend this privacy policy from time to time. If we make any changes we wi
 **15\. External Web Sites**  
 This privacy policy only applies to the web sites. The web sites may contain links to external web sites. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through the web sites. 
 
-[back to top](https://web.archive.org/web/20011007051753id_/http%3A//www.symbian.com/About/legal-pp.html)
+[back to top](https://web.archive.org/about/legal-pp.html)
