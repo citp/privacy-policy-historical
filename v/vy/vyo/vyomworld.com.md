@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyomworld.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204041100id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyomworld.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405191644id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,8 +14,8 @@ This site may contain links to other sites. Although we are very selective in ch
 
 Protecting your privacy is one of our highest priorities, but as with all Web sites, ours may be vulnerable to service interruptions, intentional attacks, or other events that may compromise the security of our site and the information contained therein (including that which you provide). Accordingly, by submitting such information, you acknowledge and agree that VyomWorld.com is not responsible for any direct or consequential damages that may result from such events. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with the Webmaster-Affiliates.net Web site, please contact us at [support@vyomworld.com](mailto:support@vyomworld.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with the Webmaster-Affiliates.net Web site, please contact us at [support@vyomworld.com](mailto:support@vyomworld.com).   
 
-| **Subscribe to FREE Vyom Career Magazine**  
----  
-Email:  | 
+
+  
+| 
