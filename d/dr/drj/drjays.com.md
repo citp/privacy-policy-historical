@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408131800id_/http%3A//www.drjays.com/cgi/show_generic.cgi%3Ffile%3Dcs_privacypolicy.html%26id%3DDJADu4y98k3C2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409141406id_/http%3A//www.drjays.com/cgi/show_generic.cgi%3Ffile%3Dcs_privacypolicy.html%26id%3DDJNA%2C9jb1kboo) for the most accurate reproduction.*
 
 # DrJays.com
 
   |    
-**Privacy Policy**
+**Privacy Policy **
 
 The Internet is a powerful tool allowing its users to exchange information freely. As a recipient of information collected on **DrJays.com** (the "Site"), **Dr. Jay's** ("we", "our" or "us") have policies about how we use the information we collect.
 
