@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609025530id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206063056id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
 
 # Surfing the Net with Kids: Privacy Policy
 
