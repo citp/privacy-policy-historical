@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622124404id_/http%3A//www.bodyforlife.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202022635id_/http%3A//bodyforlife.com/privacy.shtml) for the most accurate reproduction.*
 
 # Body-for-LIFE®
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy**
 
-Experimental and Applied Sciences, Inc. (EAS) has created this privacy statement as part of our commitment to protect the privacy and security of information obtained on-line concerning our customers and visitors to our Web site. The following discloses our information gathering and dissemination practices for EAS web sites, including EAS.com, BodyforLIFE.com, MuscleMedia.com, BodyofWork.com, EASAdvantEdge.com, EASPiranha.com and EASResults.com. Using our web sites demonstrates your consent to the collection and use of information pursuant to EAS' disclosures in this policy statement.
+Experimental and Applied Sciences, Inc. (EAS) has created this privacy statement as part of our commitment to protect the privacy and security of information obtained on-line concerning our customers and visitors to our Web site. The following discloses our information gathering and dissemination practices for EAS web sites, including EAS.com, Body _for_ LIFE.com, MuscleMedia.com, BodyofWork.com, EASAdvantEdge.com and Piranha.eas.com. Using our web sites demonstrates your consent to the collection and use of information pursuant to EAS' disclosures in this policy statement.
 
 **Information collected and how used by EAS**  
 We collect log information that is not personally identifying and personal information you supply when utilizing a service offered at this Web site.
@@ -33,7 +33,7 @@ You may choose to "opt-in" at any you time you visit our site by simply clicking
 
 If you do not select the "opt-in" option, or if at any time you wish to cancel your "opt-in" election you may "opt-out" by selecting the "opt-out" option or by removing your personal information at the 
 
-[Opt Out](http://www.bodyforlife.com/bfl_email.asp) page. We will honor your request to "opt-out" with the exception of providing information to law enforcement authorities or other governmental entities if required to do so by law, or if EAS believes it to be appropriate to protect, defend, or enforce the rights or property of EAS. 
+[Opt Out](http://register.eas.com/OA_HTML/xxeasibeOptOut.jsp) page. We will honor your request to "opt-out" with the exception of providing information to law enforcement authorities or other governmental entities if required to do so by law, or if EAS believes it to be appropriate to protect, defend, or enforce the rights or property of EAS. 
 
 **Personal Home Page**  
 Among the features that will be available on our site will be the opportunity for you to share personal information about yourself and your "fitness" accomplishments with other users who visit our site by completing a personal home page. Your personal home page will give you the opportunity to display information about yourself that may be of interest to coaches, scouts, Challenge participants, or others who are interested in fitness accomplishments or athletic performance. The personal information provided on your home page will be accessible by third parties and will be displayed to anyone who visits your home page. This feature will be available only to users who select the "opt-in" option, as a condition of creating their home page. If you take advantage of this personal home page feature, your selection of the "opt-in" option will be your acknowledgment that you understand and agree that any personal information you put on your home page, including photographs, may be viewed by third parties and may be downloaded and used by third parties without your consent. 
@@ -46,7 +46,7 @@ The term "cookie" refers to small text files that are transferred from a Web sit
 **E-mail Communications**  
 EAS occasionally uses e-mail to send announcements regarding new products, services, and/or promotions that would be of interest to our customers. You can choose to unsubscribe to EAS.com e-mail lists at any time by visiting the 
 
-[Opt Out](http://www.bodyforlife.com/bfl_email.asp) area of this Web site. EAS will also send replies to customer e-mail. Finally, if you have sent a request to us about which we need to communicate with you, we may do so by e-mail. 
+[Opt Out](http://register.eas.com/OA_HTML/xxeasibeOptOut.jsp) area of this Web site. EAS will also send replies to customer e-mail. Finally, if you have sent a request to us about which we need to communicate with you, we may do so by e-mail. 
 
 **Correcting Personal Information**
 
