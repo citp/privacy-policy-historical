@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the kyivpost.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611131450id_/http%3A//kyivpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyivpost.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213183421id_/http%3A//www.kyivpost.com/privacy) for the most accurate reproduction.*
 
-# KYIV POST - Privacy policy
+# Kyiv Post. Privacy Policy
+
+Categories[Main page](https://web.archive.org/) [Nation](https://web.archive.org/nation/) [Opinion](https://web.archive.org/opinion/) [Business](https://web.archive.org/business/) [The Guide](https://web.archive.org/guide/) [Breaking news](https://web.archive.org/bn/) KP activity[DONATE NOW!](https://web.archive.org/donate/) [Employment fair](https://web.archive.org/ef/) [Best of Kyiv](https://web.archive.org/best04/) PDF download[Employment](https://web.archive.org/employment/) [Business Organizer](https://web.archive.org/business_organizer/) [Real Estate](https://web.archive.org/real_estate/) [E-version](https://web.archive.org/e_version/) Subscription[Print subscription](https://web.archive.org/printsubscr/) [Web subscription](https://web.archive.org/websubscr/) Our services[User profile](https://web.archive.org/profile/) [Useful links](https://web.archive.org/links/) [Registration](https://web.archive.org/signup/) [Afisha Card](https://web.archive.org/card/)   
+[](https://web.archive.org/survey) |  Privacy policy
 
 **Last Updated:** February, 2003
 
@@ -38,6 +41,28 @@ Kyivpost.com reserves the right to change this policy at any time. Please check 
 
 This policy and the use of this Site are governed by the laws of Ukraine.
 
-  
-  
+[](http://www.kyivpost.com/privacy/14155/print/)[](mailto:?subject=Privacy%20Policy&body=http://www.kyivpost.com/privacy/14155/)[](mailto:kpletters@kyivpost.com?subject=Privacy%20Policy&body=http://www.kyivpost.com/privacy/14155/)  
+|    
 
+
+BREAKING NEWS
+
+Dec 13, 17:20
+
+Dec 13, 17:20
+
+Dec 13, 12:09
+
+Dec 13, 11:57
+
+Dec 11, 14:33
+
+Dec 11, 14:12
+
+Dec 11, 14:11
+
+Dec 11, 14:11
+
+Dec 10, 18:50
+
+Dec 10, 17:01
