@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapnames.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001130204id_/http%3A//www.snapnames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapnames.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202193213id_/http%3A//www.snapnames.com/privacy.html) for the most accurate reproduction.*
 
 # SnapNames - Privacy Statement
 
@@ -42,18 +42,14 @@ IV. Links
 
 This Web site contains links to other sites. Please be aware that SnapNames is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-V. Newsletter 
-
-If you wish to subscribe to our newsletter, please go to our web site and you will be able to subscribe (no purchase is necessary.) 
-
-VI. Corrections 
+V. Corrections 
 
 You may contact SnapNames to correct organizational information. You can correct personal information on the SnapNames site, or via your account administrator. Please access the SnapNames help system for further assistance. 
 
-VII. Your Consent 
+VI. Your Consent 
 
 By using SnapNames, you consent to the collection and use of information as outlined above. SnapNames reserves the right to make changes to this privacy policy, and will post any and all changes on this Web page. We will work to secure all information at all times; however, by using the SnapNames site, you are voluntarily transmitting information to us, and we cannot ensure or warrant the security said information. 
 
 We welcome any comments on this policy. You may e-mail any thoughts to [info@SnapNames.com](mailto:info@SnapNames.com). 
 
-See our [Terms & Conditions](https://web.archive.org/web/20031001130204id_/http%3A//www.snapnames.com/terms.html)
+See our [Terms & Conditions](https://web.archive.org/web/20040202193213id_/http%3A//www.snapnames.com/terms.html)
