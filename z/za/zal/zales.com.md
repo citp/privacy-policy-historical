@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zales.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204235526id_/http%3A//www.zales.com/customerservice.aspx%3Fpid%3D68%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zales.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402032815id_/http%3A//www.zales.com/customerservice.aspx%3Fpid%3D68%23Privacy) for the most accurate reproduction.*
 
 # Zales Privacy Policy - Zales.com
 
@@ -31,7 +31,7 @@ Irving, Texas 75038-1003
 or   
 1-800-311-JEWEL (5393)  
 or   
-[Contact Us](https://web.archive.org/web/20041204235526id_/http%3A//www.zales.com/customerservice.aspx?pid=67)**
+[Contact Us](https://web.archive.org/web/20050402032815id_/http%3A//www.zales.com/customerservice.aspx?pid=67)**
 
 We currently send emails only to those Zales.com customers who request that we provide them with information about our products and services. If you have previously requested such emails, but have changed your mind, contact us by one of the methods referenced above or by unsubscribing to the Zales.com Newsletter. 
 
@@ -50,7 +50,7 @@ Our site is not directed or marketed to children under the age of 18. We do not 
 **6\. Will Zales.com privacy policy change?**  
 We may change or enhance our policy to improve our service to you. If we do change our policy, we will note those changes on our Web site. A message will be displayed on our home page for a period of time that a change has been made, and the change will be highlighted within the privacy policy. You are welcome to refer to this policy each time you are considering making a purchase.
 
-**If you have any questions or concerns about our Privacy Policy, please[Contact Us](https://web.archive.org/web/20041204235526id_/http%3A//www.zales.com/customerservice.aspx?pid=67)**   
+**If you have any questions or concerns about our Privacy Policy, please[Contact Us](https://web.archive.org/web/20050402032815id_/http%3A//www.zales.com/customerservice.aspx?pid=67)**   
 
 
 | 
