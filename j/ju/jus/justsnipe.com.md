@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the justsnipe.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621165116id_/http%3A//justsnipe.com/auctions/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justsnipe.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207165529id_/http%3A//www.justsnipe.com/auctions/privacy.asp) for the most accurate reproduction.*
 
-# JustSnipe: We provide online auction sniping application.
-
-Privacy Policy 
+# Privacy Policy at JustSnipe: We provide online auction sniping application.
 
 This privacy statement discloses the privacy practices for JustSnipe.com and its owner JUSTCUTE INC. 
 
