@@ -1,59 +1,88 @@
-> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205005800id_/http%3A//www.brandera.com/b/B/corp_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604073708id_/http%3A//www.brandera.com/corporate/term/privacy.html) for the most accurate reproduction.*
 
-# BrandEra.com | Privacy Policy
+# BrandEra.com | Privacy @ BrandEra
+
+Introduction
+
+Nothing is more important to us than protecting the privacy of our users. This Privacy Statement tells you how we collect information from you, what we disclose, how we use it and otherwise maintain such information. By using the Website, you consent to the collection and use of your personal information as set out below. 
+
+\- Go to top \- 
 
 Application
 
-This privacy policy is applicable to all of the websites represented by the logos above. Each website is referred to generically herein as the "Website". This Website is also governed by the [Terms and Conditions](http://www.brandera.com/corp_term.html). 
+This Privacy Statement is applicable to all of the websites and services owned and operated by BrandEra.com Inc. ("BrandEra.com") -- BrandEra.com, Portfolios.com, adsGallery.com, MediaLot.com, RFP Exchange, Black Book, Talk! and BrandEra Shoppe. In this Privacy Statement, we refer to these websites collectively as the "Website". Use of the Website is subject to BrandEra.com's [Terms of Service](http://www.brandera.com/corporate/term/term.html) [http://www.brandera.com/corporate/term/term.html]. 
 
 \- Go to top -
 
-Use Of Personal Information
+What Information does Brandera.com Collect About You?
 
-[BrandEra.com Inc.](http://www.brandera.com/) ("BrandEra.com") owns and operates the Website. BrandEra.com does not collect personal information about individual users except when such personal information is provided to BrandEra.com on a voluntary basis. For example, personal information may be gathered during the registration process, in connection with content submissions, postings in chat rooms or other public areas, and transactional areas. The information you provide is being used to: (a) expand Brandera.com's online directories; (b) maintain a list of visitors to the Website; (c) monitor traffic to the Website; (d) determine the future direction of the Website; and (e) contact you regarding future BrandEra.com services. Personal information about you will not be sold or otherwise transferred to unaffiliated third parties without your approval, except that BrandEra.com reserves the right to disclose and sell such personal information: (a) to BrandEra.com partners, its affiliates, subsidiaries and third party agents for purposes related to marketing and services and products offered by BrandEra.com, BrandEra.com partners, its affiliates and subsidiaries, provided the information is required for, and is to be used only for such purposes; (b) if such disclosure is made pursuant to a legal proceeding or as required by law.
+BrandEra.com collects personal information about you when you use the Website and when you voluntarily provide us with such information. There are four types of information that BrandEra.com collects about you: 
 
-If you do not wish to be included in future marketing efforts that may involve BrandEra.com partners, affiliates, subsidiaries or third party agents, you must notify BrandEra.com via e-mail at [mail@BrandEra.com](mailto:mail@BrandEra.com). 
+A. Personal Registration Information We collect the contact information you supply when you register or sign up for one of BrandEra.com's services, including your name, address, phone, fax or e-mail address and the password you select. This information, which we refer to as "Personal Registration Information", may be edited at any time, either using your password or contacting a BrandEra.com customer representative at customerservice@brandera.com [mailto:customerservice@brandera.com. 
 
-Notwithstanding your wish to cease receiving such promotional and/or marketing information, BrandEra.com reserves the right to contact you regarding matters relevant to the continuing use of the Website and/or the information about you that is held by BrandEra.com. 
+B. Limited Access Information We collect the information you provide in the course of using our services, such as when you share files in MediaLot.com, or submit a quote in the RFP Exchange. This information, which we refer to as Limited Access Information, is accessible only to you and the people who you give permission to access your files. 
 
-\- Go to top -
+C. Publicly Posted Information We collect the information you post or want to be publicly viewable, such as your online portfolio on Portfolios.com or adsGallery.com, your Request for Proposal on RFP Exchange, or correspondence in one of our discussion forums. We refer to this information as Publicly Posted Information, and it is accessible by anyone with Internet access. 
 
-Acceptance of Privacy Policy
-
-BY USING THE WEBSITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY.
+D. Cookies and Tracking Information BrandEra.com uses "cookies" to personalize your experience on our Website. Cookies are small data files that contain information about you, that are stored on your hard drive when you visit certain websites. Many popular websites use cookies to store your preferences on a particular site. Cookies collect information such as your browser type, time and length of your visit. 
 
 \- Go to top -
 
-E-Mail
+Brandera.com's Use and Disclosure of Your Personal Information
 
-It is BrandEra.com's policy to respect your privacy. BrandEra.com will not monitor, edit, or disclose the contents of your private communications or files unless required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the law; (b) comply with any legal process that is served on BrandEra.com; or (c) protect and defend the rights or property of BrandEra.com. However, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond the control of BrandEra.com; (b) the security, integrity and privacy of any and all information and data exchanged between you and BrandEra.com through the Website cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
+BrandEra.com has several uses for the information we collect about you. First, we use your information to specify unique preferences and to provide personalized content. Secondly, we track user trends and patterns. Where applicable, we use the information to expand our online directories or contact you regarding future BrandEra.com and third party products and services. This helps us better understand and improve our Website. While both of these activities depend in part on the use of cookies, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. Note that if you refuse cookies, you may be unable to use certain services in the Website.
 
-\- Go to top -
+BrandEra.com will not sell or otherwise transfer your personal information to unaffiliated third parties without your prior consent. If you do not want the information you provide to BrandEra.com used to inform you of other products, services and special offers available from BrandEra.com, you can indicate this preference to our customer service representatives at [customerservice@brandera.com](mailto:customerservice@brandera.com). In addition, BrandEra.com may selectively provide certain information about products or services we think may interest you. If you do not want to receive promotional materials regarding third party products or services, again, contact our customer service representatives at [customerservice@brandera.com](mailto:customerservice@brandera.com) and we will honor your preference. BrandEra.com reserves the right to provide aggregate data to third parties for statistical analysis. Such data will not be linked to any particular individuals. In addition, we also reserve the right to disclose your personal information if such disclosure is made pursuant to a legal proceeding or is required by law.
 
-Advertising
-
-BrandEra.com reserves the right to conduct statistical analyses of user behaviour and characteristics in order to measure interest in and use of the Website and to provide advertisers with information such as the number of users that have been exposed to or clicked on their advertising banners. BrandEra.com will provide only aggregated data from these analyses to third parties. Also, you are advised that BrandEra.com may permit third parties to offer services through the Websites. BrandEra.com is not responsible for any actions or policies of such third parties and you should check the applicable privacy policy of each such third party when providing personal information. 
-
-BrandEra.com works with a third party that serves ads to this site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy>.
+We will only keep your personal information for as long as it remains necessary or relevant for the purposes stated above or as otherwise required by law. 
 
 \- Go to top -
 
-Chat Rooms and Public Areas
+Advertisers on Brandera.com
 
-You should be aware that when personal information is voluntarily disclosed (i.e. your name, e-mail address, etc.) in the chat rooms or other public areas in the Website, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond the control of BrandEra.com. 
+From time to time, we conduct statistical analyses of the collective behavior and characteristics of our users to measure interest in and use of BrandEra.com's services. We sometimes provide our advertisers with this statistical information, such as the number of users that have been exposed to or clicked on their advertising banners. However, we only provide aggregated data from these analyses to third parties, we do not provide personal data characteristics such as your name, address or phone number.
 
-Any submissions to chat rooms or other public areas on the Website are accepted with the understanding that they are accessible to all third parties. If you do not want your comments to be viewed by third parties, you are advised not to make any submissions. 
+BrandEra.com permits third parties to offer their services to visitors of our Website through advertisements. BrandEra.com is not responsible for the actions or policies of our advertisers or other third parties; therefore, we recommend that you verify the applicable privacy practices of any other website or third party before you provide them with your personal information. 
 
-\- Go to top -
-
-Your Rights
-
-At your request, BrandEra.com will: (a) provide reasonable access to your information that is in BrandEra.com's records; and (b) use reasonable efforts to allow you to update/correct personal information which you state is incorrect to the extent such updating/correction will not compromise BrandEra.com's privacy or security interests, subject to the understanding that it may be impossible to completely delete your information without some residual information because of backups. 
+Outside companies advertise on BrandEra.com using banner advertisements. When you click on these ads to visit an advertiser's website, you may be given a cookie. While we use cookies in other parts of our Website (this use is described in more detail in Section 4 above), only the companies advertising on our Website collect the cookies you may receive with the banner ads. We do not have access to or control over our advertisers' cookies or data collection practices. 
 
 \- Go to top -
 
-Effective Date
+Security
 
-This Privacy Policy is effective as of [October 19, 1999]. BrandEra.com reserves the right to change this Privacy Policy at any time. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to issuing an email to the email address listed by registered users and posting the effective date at the top of this page. You acknowledge and agree that it is your responsibility to maintain a valid email address as a registered user, review this Website and this Privacy Policy periodically and to be aware of any modifications. Your continued use of the Website after such modifications will constitute your: (a) acknowledgement of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy. 
+Your Personal Registration Information -- the information you supply when you register or sign up for one of BrandEra.com's services -- is password-protected so that only you and BrandEra.com have access to this information. Your Limited Access Information is accessible only to you and the people who you give permission to access your files. Your Publicly Posted Information is available to anyone with Internet access. Your Cookie and Tracking Information is used by us for internal purposes only to provide you with personalized service. 
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, BrandEra.com cannot ensure or warrant the security of any information that you transmit to us through our Website or that you download from our online products or services on our Website, and you do so at your own risk. Once we receive your transmission, we use commercially reasonable efforts to ensure its security on our systems. Your personal information resides on a secure server that only authorized BrandEra.com personnel and contractors have access to via password.
+
+Please note that there are several places on the Website where you can transmit credit card information in order to complete a purchase transaction. Any time we ask for a credit card number, we transmit that credit card number in an encrypted format. We use industry-standard, SSL (secure socket layer) encryption.
+
+\- Go to top -
+
+Chat Rooms and Public Forums
+
+When participating in BrandEra.com's public forums or chat rooms, any Publicly Posted Information that you disclose in your communications on the Website may be collected and used by third parties. Publicly Posted Information could also result in unsolicited messages from third parties. These activities are beyond the control of BrandEra.com. If you do not want your comments to be viewed by third parties, you are advised not to make any submissions to the chat rooms or other public forums on the Website. 
+
+\- Go to top -
+
+Changing or Deleting Personal Information
+
+At your request, BrandEra.com will provide reasonable access to your Personal Registration Information in BrandEra.com's records, and use reasonable efforts to allow you to update and/or correct personal information to the extent such updating/correction will not compromise our privacy or security interests. To notify us of changes to your personal information, to request that information about you is deleted or deactivated from our records, or to withdraw your consent for the collection and/or use of your personal information please e-mail us at [ customerservice@brandera.com](mailto:customerservice@brandera.com). 
+
+\- Go to top -
+
+Modifications
+
+BrandEra.com reserves the right to make changes, modifications, additions or deletions to this Privacy Statement at any time. Changes become effective immediately, and notice of material changes may be given to you by various means including, but not limited to, issuing e-mail to the e-mail address you provided us and posting the effective date at the top of the Privacy Statement page. You acknowledge and agree that it is your responsibility to maintain a valid e-mail address as a registered user and to review this Privacy Statement periodically to be aware of any modifications. Your continued use of BrandEra.com after such modifications constitutes your acknowledgement of the modified Privacy Statement, and agreement to abide and be bound by the modified Privacy Statement. 
+
+\- Go to top -
+
+How to Contact BrandEra.com
+
+If you have any questions about this Privacy Statement or the personal information practices of BrandEra.com, please direct your inquiry to:   
+BrandEra.com Inc.   
+5255 Yonge Street Suite 705   
+Toronto, Ontario   
+M2N 6P4   
+[customerservice@brandera.com](mailto:customerservice@brandera.com)
 
 \- Go to top -
