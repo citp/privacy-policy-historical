@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangirl.com privacy policy that was archived on 2000-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000623185109id_/http%3A//www.americangirl.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangirl.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203022100id_/http%3A//americangirl.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Pleasant Company Online Privacy Policy
 
@@ -34,7 +34,7 @@ Pleasant Company's American Girl Web site offers an entertaining and educational
 
 [Fun For Girls](https://web.archive.org/homepage2.html): The content portion of the American Girl Web site offers online games, polls, features, advice, and activity ideas based on American Girl® magazine, AmeliaTM, and The American Girls Collection®.
 
-[Family Fun](https://web.archive.org/collection/collection/agc_events.html): Find out about American Girl's company-sponsored Special Events and Living History Museum programs across the country. 
+[Family Fun](https://web.archive.org/pr/evnt_prog_intro.html): Find out about American Girl's company-sponsored Special Events and Living History Museum programs across the country. 
 
 [American Girl PlaceTM, Chicago](https://web.archive.org/agp/index.html): Take a peek at American Girl's retail store, theater, and cafe in Chicago.
 
@@ -44,7 +44,7 @@ Pleasant Company's American Girl Web site offers an entertaining and educational
 
 [Surfing Tools](https://web.archive.org/tools/tools.html): Follow easy step-by-step procedures for downloading free plug-ins that will help users make the best use of the American Girl Web site.
 
-[ E-Mail Us](https://web.archive.org/cgi/feedback/Pages/email_01.cgi): Tell us your comments about our Web site games, e-store, and products.
+[ E-Mail Us](https://web.archive.org/feedback/index.html): Tell us your comments about our Web site games, e-store, and products.
 
 [Request a Catalogue](https://web.archive.org/catalogue/catalogue.html): American Girl fans over age 18 can order a free catalogue of American Girl products.
 
@@ -58,7 +58,7 @@ The Fun for Girls portion of Pleasant Company's American Girl Web site is direct
 
 Pleasant Company may collect some information from your child under age 13 without your consent, but only in the following case:
 
-  * If a child sends us a comment through [E-mail Us](https://web.archive.org/cgi/feedback/Pages/email_01.cgi) and includes an e-mail address for a response, we keep that e-mail address only long enough to respond to that question or comment. E-mail addresses collected through the Fun for Girls site are not posted, released, sold, or distributed to anyone outside of Pleasant Company. 
+  * If a child sends us a comment through [E-mail Us](https://web.archive.org/feedback/index.html) and includes an e-mail address for a response, we keep that e-mail address only long enough to respond to that question or comment. E-mail addresses collected through the Fun for Girls site are not posted, released, sold, or distributed to anyone outside of Pleasant Company. 
 
 
 
@@ -74,10 +74,7 @@ A "cookie" is a small file that we save on your computer's hard drive, which con
 
 Thanks for reading our privacy statement. We hope you have a better understanding of the many activities offered on our Web site and the ways in which we really are committed to safeguarding online privacy. Remember, we may change our policy from time to time to conform to changing legal requirements or to better protect your information. When this happens we will notify you of the new policy by posting it on our site.
 
-If you have concerns about your child's use of our service, please contact us using our [feedback](https://web.archive.org/cgi/feedback/Pages/email_01.cgi) form. Your child's use of this site is also governed by our [Terms and Conditions](https://web.archive.org/privacy/terms.html) statement. Please read it.
-
-[Terms and Conditions](https://web.archive.org/web/20000623185109id_/http%3A//www.americangirl.com/privacy/terms.html) / [Web-Surfing Tips](https://web.archive.org/web/20000623185109id_/http%3A//www.americangirl.com/privacy/safesurf.html) / [Tools for Super Surfing](https://web.archive.org/web/20000623185109id_/http%3A//www.americangirl.com/tools/tools.html)  
-[American Girl Home](https://web.archive.org/web/20000623185109id_/http%3A//www.americangirl.com/homepage2.html)
+If you have concerns about your child's use of our service, please contact us using our [feedback](https://web.archive.org/feedback/index.html) form. Your child's use of this site is also governed by our [Terms and Conditions](https://web.archive.org/privacy/terms.html) statement. Please read it.
 
 American Girl  
 8400 Fairway Place  
@@ -85,5 +82,3 @@ Middleton, WI 53562
 608-836-4848  
 e-mail: im_cs@pleasantco.com  
 This page was last updated April 3, 2000 
-
-© Copyright 2000 Pleasant Company. All rights reserved.
