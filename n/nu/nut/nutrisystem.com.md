@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216221102id_/http%3A//www.nutrisystem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604050135id_/http%3A//www.nutrisystem.com/privacy) for the most accurate reproduction.*
 
 # nutrisystem.com - Privacy Policy
 
@@ -27,7 +27,7 @@ At nutrisystem.com, we are committed to protecting your privacy. We use the info
 
 **A Special Note to Parents and Caregivers**
 
-> In an effort to provide a solution to the ever growing problem of adolescent obesity, nutrisystem.com allows the participation of persons 14 years and older. Parents can call **1-800-411-DIET** to review or change the adolescent's information. Parents are responsible for keeping credit cards from children to prevent any unauthorized usage. 
+> In an effort to provide a solution to the ever growing problem of adolescent obesity, nutrisystem.com allows the participation of persons 14 years and older. Parents can call **1-800-585-5483** to review or change the adolescent's information. Parents are responsible for keeping credit cards from children to prevent any unauthorized usage. 
 
 **Cookies**
 
@@ -53,7 +53,7 @@ At nutrisystem.com, we are committed to protecting your privacy. We use the info
 
 > By using our Web site, you consent to the collection and use of this information by nutrisystem.com. If at some point in the future, there is a change to our information usage practices that affect your Personally Identifiable Information, we will notify you by e-mail. At the time of this message, you will be able to opt-out of this information usage by sending a message to the following e-mail: [never@nutrisystem.com](mailto:never@nutrisystem.com). You should check this posted privacy statement for changes. 
 > 
-> In the event of privacy statement changes or changes to our policy concerning user information will be posted on the nutrisystem.com home page and in the [My Account](https://web.archive.org/web/20011216221102id_/http://www.nutrisystem.com/main/myaccount/index.cfm) Section of the website. 
+> In the event of privacy statement changes or changes to our policy concerning user information will be posted on the nutrisystem.com home page and in the [My Account](https://web.archive.org/web/20020604050135id_/http://www.nutrisystem.com/main/myaccount/index.cfm) Section of the website. 
 
 **Tell us what you think**
 
@@ -63,7 +63,7 @@ At nutrisystem.com, we are committed to protecting your privacy. We use the info
 
 **Newsletter**
 
-> If a user wishes to subscribe to our newsletter, we ask only for an individual's email address. Out of respect for our users' privacy we provide a way to opt-out of these communications. To unsubscribe to the nutrisystem.com newsletter users may send an email to [unsubscribe@nutrisystem.com](mailto:unsubscribe@nutrisystem.com).
+> If a user wishes to subscribe to our newsletter, we ask only for an individual's email address. Out of respect for our users' privacy we provide a way to opt-out of these communications. [Click here to unsubscribe to the nutrisystem.com newsletter.](https://web.archive.org/help/unsubscribe.cfm)
 
 **Corrections/Updates**
 
