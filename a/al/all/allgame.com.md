@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgame.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204063300id_/http%3A//www.allgame.com/com/amg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgame.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616162250id_/http%3A//allgame.com/com/amg/privacy.html) for the most accurate reproduction.*
 
 # All Media Guide Privacy Policy
 
@@ -8,7 +8,7 @@ _**Personal Information**_
 All Media Guide collects personally-identifiable information _only_ during voluntary user surveys, contests or e-mailed submissions. The information we collect helps us better program our sites. We do not send unsolicited communication to our users. All Media Guide may provide aggregate statistics about our users, traffic patterns and related site information to reputable third-party vendors, but these statistics will not include personally-identifiable information. All Media Guide does not sell, trade or rent your personal information to others.
 
 _**Security**_   
-All Media Guide will maintain appropriate safeguards to ensure the security, integrity and privacy of your personally-identifiable information.
+Although All Media Guide uses all reasonable efforts to safeguard the confidentiality of your personally-identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. All Media Guide will have no liability for disclosure of personally-identifiable information due to errors in transmission or unauthorized acts of third parties.
 
 _**Outside Links**_   
 The All Media Guide sites contain links to other sites. All Media Guide is not responsible for the privacy practices or the content of such Web sites.
