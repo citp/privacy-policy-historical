@@ -1,0 +1,951 @@
+<!--The following is the downloaded HTML source of the midfirst.com privacy policy that was archived on 2001-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010616173550id_/http%3A//www.midfirst.com/privacy1.asp) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+	NS4 = (document.layers) ? 1 : 0;
+    IE4 = (document.all) ? 1 : 0;
+    ver4 = (NS4 || IE4) ? 1 : 0;
+
+	var selectParent = null
+	var selectChild = null
+
+	NS4 = (document.layers) ? 1 : 0;
+    IE4 = (document.all) ? 1 : 0;
+    ver4 = (NS4 || IE4) ? 1 : 0;
+
+    if (ver4) {
+         with (document) {
+             write("<STYLE TYPE='text/css'>\n");
+             if (NS4) {
+                 write(".parent {position:absolute; visibility:inherit}\n");
+                 write(".child {position:absolute; visibility:inherit}\n");
+             }
+             else {
+                  write(".child {display:none}\n")
+             }
+             write("</STYLE>");
+         }
+     }
+
+     isExpanded = false;
+
+     function getIndex(el) {
+         ind = null;
+         for (i=0; i<document.NavMenu.document.layers.length; i++) {
+             whichEl = document.NavMenu.document.layers[i];
+             if (whichEl.id == el) {
+                 ind = i;
+                 break;
+             }
+         }
+         return ind;
+     }
+
+	 function arrange() {
+	 	 nextY = document.NavMenu.document.layers[firstInd].pageY + document.NavMenu.document.layers[firstInd].document.height;
+		 for (i=firstInd+1; i<document.NavMenu.document.layers.length; i++) {
+		 	if (document.NavMenu.document.layers[i].name != "Content") {
+				whichEl = document.NavMenu.document.layers[i];
+				if (whichEl.visibility != "hide") {
+					whichEl.pageY = nextY;
+					whichEl.pageX = 0;
+					nextY += whichEl.document.height;
+				}
+			}
+		}
+	 }
+
+     function initIt(){
+         if (!ver4) return;
+         if (NS4) {
+             for (i=0; i<document.NavMenu.document.layers.length; i++) {
+                 whichEl = document.NavMenu.document.layers[i];
+                 if (whichEl.id.indexOf("Child") != -1) whichEl.visibility = "hide";
+             }
+             arrange();
+			 // make the menu visible after it finishes loading to prevent the flashing effect
+			 document.NavMenu.visibility = "visible";
+         }
+         else {
+             divColl = document.all.tags("DIV");
+             for (i=0; i<divColl.length; i++) {
+                 whichEl = divColl(i);
+                 if (whichEl.className == "child") whichEl.style.display = "none";
+             }
+         }
+     }
+
+     function expandIt(el) {
+         if (!ver4) return;
+         if (IE4) {
+             whichEl = eval(el + "Child");
+             whichIm = eval("document.images['"+ el + "imEx']");
+             if (whichEl.style.display == "none") {
+                 whichEl.style.display = "block";
+				 // if (el == selectParent) whichIm.src = "f1.gif";
+                 // else whichIm.src = "f2.gif";
+                 whichIm.src = "f1.gif";
+             }
+             else {
+                 whichEl.style.display = "none";
+                 //if (el == selectParent) whichIm.src = "f1.gif";
+                 //else whichIm.src = "f2.gif";
+                 whichIm.src = "f2.gif";
+             }
+         }
+         else {
+             whichEl = eval("document.NavMenu.document." + el + "Child");
+			 whichIm = eval("document.NavMenu.document." + el + "Parent.document.images['"+ el + "imEx']");
+			 if (whichEl.visibility == "hide") {
+                 whichEl.visibility = "show";
+                 //if (el == selectParent) whichIm.src = "f2.gif";
+                 //else whichIm.src = "f1.gif";
+                 whichIm.src = "f1.gif";
+             }
+             else {
+                 whichEl.visibility = "hide";
+                 //if (el == selectParent) whichIm.src = "f2.gif";
+                 //else whichIm.src = "f1.gif";
+                 whichIm.src = "f2.gif";
+             }
+             arrange();
+         }
+     }
+
+	function highlight(parentNum,childItemNum) {
+		if (!ver4) return;
+		var el = "el" + parentNum
+		var nextNum = parentNum + 1
+		selectParent = el
+		if (IE4) {
+			whichElP = eval("el" + parentNum + "Parent");
+			whichElC = eval("el" + parentNum + "Child");
+			whichImP = eval("document.images['"+ el + "imEx']");
+			nextYelIm = eval("document.images['Rule" + nextNum + "']");
+			var imageSource = whichImP.src;
+			if (imageSource.indexOf("f1.gif") != -1) {
+				whichImP.src = "f2.gif"
+				if (childItemNum != null) eval ("document.images['ChildImage" + parentNum + "-" + childItemNum + "'].src = 'http://www.countrywide.com/images/mn_check.gif'")
+				expandIt(el);
+			}
+			else {
+				whichImP.src = "f2.gif"
+			}
+		}
+		else {
+			whichElP = eval("document.NavMenu.document." + el + "Parent");
+			whichElC = eval("document.NavMenu.document." + el + "Child");
+			whichImP = eval("whichElP.document.images['"+ el + "imEx']");
+			var imageSource = whichImP.src;
+			if (imageSource.indexOf("f1.gif") != -1) {
+				whichImP.src = "f2.gif"
+				if (childItemNum != null) eval ("whichElC.document.images['ChildImage" + parentNum + "-" + childItemNum + "'].src = 'http://www.countrywide.com/images/mn_check.gif'")
+				expandIt(el);
+			}
+			else {
+				whichImP.src = "f1.gif"
+			}
+		}
+	}
+</script>
+		<script language="JavaScript">
+		if (NS4)  document.write("<div id='NavMenu' style='position:absolute; width:125px; height:600px; z-index:100; left: 0px; top: 300px; visibility:hidden;'>");
+		else document.write("<div id='NavMenu' style='position:absolute; width:125px; z-index:100; left: 0px; top: 300px;'>");
+		</script></head><body bgcolor="White" leftmargin="0" onload="initIt();
+	return false"><div id="NavMenu" style="position:absolute; width:125px; z-index:100; left: 0px; top: 300px;">
+
+			
+			<!-- ------------------menu section 1------------------------ -->
+			<div id="el1Parent" class="parent">
+			<table width="125" border="0" cellspacing="0">
+			<tbody><tr align="left" valign="top">
+				<td width="20"><a href="inside_annualreport.asp" onmouseover="window.status='Click to expand or collapse menu.'; return true;" onmouseout="window.status=' '; return true;"><img src="f2.gif" border="0" name="el1imEx" align="TOP" vspace="0" hspace="0"></a></td>
+				<td><a href="inside_annualreport.asp" onmouseover="window.status='Click to expand or collapse menu.'; return true;" onmouseout="window.status=' '; return true;" class="menuParent">Annual Report</a></td><td>&nbsp;</td>
+			</tr>
+			</tbody></table>
+			 </div>
+			 <div id="el1Child" class="child">
+			 <!-- nested table for open menu -->
+			<!-- /nested table for open menu -->
+			</div>
+
+			
+			<!-- ------------------menu section 2------------------------ -->
+			<div id="el2Parent" class="parent">
+			<table width="125" border="0" cellspacing="0">
+			<tbody><tr align="left" valign="top">
+				<td width="20"><a href="" onmouseover="window.status='Click to expand or collapse menu.'; return true;" onmouseout="window.status=' '; return true;" onclick="expandIt('el2'); return false"><img src="f2.gif" border="0" name="el2imEx" align="TOP" vspace="0" hspace="0"></a></td>
+				<td><a href="" onmouseover="window.status='Click to expand or collapse menu.'; return true;" onmouseout="window.status=' '; return true;" onclick="expandIt('el2'); return false" "="" class="menuParent">Career Center</a></td><td>&nbsp;</td>
+			</tr>
+			</tbody></table>
+			 </div>
+			 <div id="el2Child" class="child">
+			 <!-- nested table for open menu -->
+		 	<table width="125" border="0" cellspacing="1" cellpadding="1">
+		 	<tbody><tr valign="TOP"><td>&nbsp;</td><td><a href="inside_opportunities.asp?mnu=2,9"><img name="ChildImage2-9" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="inside_opportunities.asp?mnu=2,9" class="menuChild">Introduction</a></td><td></td></tr>		 	
+		 	<tr valign="TOP"><td>&nbsp;</td><td><a href="openpositions.asp?mnu=2,1"><img name="ChildImage2-1" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="openpositions.asp?mnu=2,1" class="menuChild">Career Opportunities</a></td><td></td></tr>
+			<tr valign="TOP"><td>&nbsp;</td><td><a href="career_benefits.asp?mnu=2,2"><img name="ChildImage2-2" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="career_benefits.asp?mnu=2,2" class="menuChild">Employee Benefits</a></td><td></td></tr>
+			<tr valign="TOP"><td>&nbsp;</td><td><a href="eeo_policy.asp?mnu=2,3"><img name="ChildImage2-3" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="eeo_policy.asp?mnu=2,3" class="menuChild">Employment Policy</a></td><td></td></tr>
+			<tr valign="TOP"><td>&nbsp;</td><td><a href="online_employment.asp?mnu=2,4"><img name="ChildImage2-4" src="/images/mn_checkbox.gif" width="10" height="12" border="0" vspace="0" hspace="0"></a></td><td><a href="online_employment.asp?mnu=2,4" class="menuChild">Apply Online</a></td><td></td></tr>
+		 	</tbody></table>
+			<!-- /nested table for open menu -->
+			</div>
+
+			
+			<!-- ------------------menu section 3------------------------ -->
+			<div id="el3Parent" class="parent">
+			<table width="125" border="0" cellspacing="0">
+			<tbody><tr align="left" valign="top">
+				<td width="20"><a href="inside_history.asp"><img src="f2.gif" border="0" name="el3imEx" align="TOP" vspace="0" hspace="0"></a></td>
+				<td><a href="inside_history.asp" class="menuParent">History</a></td><td>&nbsp;</td>
+			</tr>
+			</tbody></table>
+			 </div>
+			 <div id="el3Child" class="child">
+			 <!-- nested table for open menu -->
+			<!-- /nested table for open menu -->
+			</div>
+
+			
+			<!-- ------------------menu section 4------------------------ -->
+			<div id="el4Parent" class="parent">
+			<table width="125" border="0" cellspacing="0">
+			<tbody><tr align="left" valign="top">
+				<td width="20"><a href="inside_pressreleases.asp"><img src="f2.gif" border="0" name="el4imEx" align="TOP" vspace="0" hspace="0"></a></td>
+				<td><a href="inside_pressreleases.asp" class="menuParent">Press Releases</a></td><td>&nbsp;</td>
+			</tr>
+			</tbody></table>
+			 </div>
+			 <div id="el4Child" class="child">
+			 <!-- nested table for open menu -->
+			<!-- /nested table for open menu -->
+			</div>
+
+			
+			<!-- ------------------menu section 5------------------------ -->
+			<div id="el5Parent" class="parent">
+			<table width="125" border="0" cellspacing="0">
+			<tbody><tr align="left" valign="top">
+				<td width="20"><a href="inside_privacy.asp"><img src="f2.gif" border="0" name="el5imEx" align="TOP" vspace="0" hspace="0"></a></td>
+				<td><a href="inside_privacy.asp" class="menuParent">Privacy Statement</a></td><td>&nbsp;</td>
+			</tr>
+			</tbody></table>
+			 </div>
+			 <div id="el5Child" class="child">
+			 <!-- nested table for open menu -->
+			<!-- /nested table for open menu -->
+			</div>
+          
+			<!-- ------------------menu section 6------------------------ -->
+			<div id="el6Parent" class="parent">
+			<table width="125" border="0" cellspacing="0">
+			<tbody><tr align="left" valign="top">
+				<td width="20"><a href="locations.asp"><img src="f2.gif" border="0" name="el6imEx" align="TOP" vspace="0" hspace="0"></a></td>
+				<td><a href="locations.asp" class="menuParent">Locate Us</a></td><td>&nbsp;</td>
+			</tr>
+			</tbody></table>
+			 </div>
+			 <div id="el6Child" class="child">
+			 <!-- nested table for open menu -->
+			<!-- /nested table for open menu -->
+			</div>
+
+			
+
+
+		</div><!-- end menu div -->
+		
+		
+		<script language="JavaScript">
+		if (NS4) {
+			firstEl = "el1Parent";
+			firstInd = getIndex(firstEl);
+			arrange();
+		}
+		</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>Welcome To MidFirst Bank - Home Page</title>
+
+<style type="text/css">
+<!--
+
+a:visited,a:link
+				{font-size:8pt;
+				font-family:arial;
+				text-decoration:none;
+				color:Blue;
+				}
+a:hover {color:Red}
+
+-->
+</style>
+<script language="JavaScript">
+<!--
+// MouseOver functions.
+function selectA1() {
+  document.images["button1"].src = "images/button01b.jpg";
+  document.images["area1"].src = "images/area01b.jpg";
+}
+function selectA2() {
+  document.images["button2"].src = "images/button02b.jpg";
+  document.images["area2"].src = "images/area02b.jpg";
+
+}
+function selectA3() {
+  document.images["button3"].src = "images/button03b.jpg";
+  document.images["area3"].src = "images/area03b.jpg";
+}
+
+function selectA4() {
+  document.images["button4"].src = "images/button04b.jpg";
+  document.images["area4"].src = "images/area04b.jpg";
+}
+function selectA5() {
+  document.images["button5"].src = "images/button05b.jpg";
+  document.images["area5"].src = "images/area05b.jpg";
+}
+function selectHome() 
+  {
+    document.images["area1"].src = "images/area01a.jpg";
+    document.images["area2"].src = "images/area02a.jpg";
+    document.images["area3"].src = "images/area03a.jpg";
+    document.images["area4"].src = "images/area04a.jpg";
+    document.images["area5"].src = "images/area05a.jpg";
+    document.images["button1"].src = "images/button01a.jpg";
+    document.images["button2"].src = "images/button02a.jpg";
+    document.images["button3"].src = "images/button03a.jpg";
+    document.images["button4"].src = "images/button04a.jpg";
+    document.images["button5"].src = "images/button05a.jpg";
+  }
+function selectHomepers() 
+  {
+    document.images["area1"].src = "images/area01a.jpg";
+    document.images["area2"].src = "images/area02a.jpg";
+    document.images["area3"].src = "images/area03a.jpg";
+    document.images["area4"].src = "images/area04a.jpg";
+    document.images["area5"].src = "images/area05a.jpg";
+    document.images["button1"].src = "images/button01c.jpg";
+    document.images["button2"].src = "images/button02a.jpg";
+    document.images["button3"].src = "images/button03a.jpg";
+    document.images["button4"].src = "images/button04a.jpg";
+    document.images["button5"].src = "images/button05a.jpg";
+ 
+  }
+function selectHomebus() 
+  {
+    document.images["area1"].src = "images/area01a.jpg";
+    document.images["area2"].src = "images/area02a.jpg";
+    document.images["area3"].src = "images/area03a.jpg";
+    document.images["area4"].src = "images/area04a.jpg";
+    document.images["area5"].src = "images/area05a.jpg";
+    document.images["button1"].src = "images/button01a.jpg";
+    document.images["button2"].src = "images/button02c.jpg";
+    document.images["button3"].src = "images/button03a.jpg";
+    document.images["button4"].src = "images/button04a.jpg";
+    document.images["button5"].src = "images/button05a.jpg";
+
+  }
+function selectHomeinv() 
+  {
+    document.images["area1"].src = "images/area01a.jpg";
+    document.images["area2"].src = "images/area02a.jpg";
+    document.images["area3"].src = "images/area03a.jpg";
+    document.images["area4"].src = "images/area04a.jpg";
+    document.images["area5"].src = "images/area05a.jpg";
+    document.images["button1"].src = "images/button01a.jpg";
+    document.images["button2"].src = "images/button02a.jpg";
+    document.images["button3"].src = "images/button03c.jpg";
+    document.images["button4"].src = "images/button04a.jpg";
+    document.images["button5"].src = "images/button05a.jpg";
+
+  }
+function selectHomeins() 
+  {
+    document.images["area1"].src = "images/area01a.jpg";
+    document.images["area2"].src = "images/area02a.jpg";
+    document.images["area3"].src = "images/area03a.jpg";
+    document.images["area4"].src = "images/area04a.jpg";
+    document.images["area5"].src = "images/area05a.jpg";
+    document.images["button1"].src = "images/button01a.jpg";
+    document.images["button2"].src = "images/button02a.jpg";
+    document.images["button3"].src = "images/button03a.jpg";
+    document.images["button4"].src = "images/button04c.jpg";
+    document.images["button5"].src = "images/button05a.jpg";
+
+  }
+function selectHomemor() 
+  {
+    document.images["area1"].src = "images/area01a.jpg";
+    document.images["area2"].src = "images/area02a.jpg";
+    document.images["area3"].src = "images/area03a.jpg";
+    document.images["area4"].src = "images/area04a.jpg";
+    document.images["area5"].src = "images/area05a.jpg";
+    document.images["button1"].src = "images/button01a.jpg";
+    document.images["button2"].src = "images/button02a.jpg";
+    document.images["button3"].src = "images/button03a.jpg";
+    document.images["button4"].src = "images/button04a.jpg";
+    document.images["button5"].src = "images/button05c.jpg";
+
+  }
+  
+//-->  
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="MidFirst Bank Oklahoma City Banks Financial Loans">
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+   <td><img src="images/shim.gif" width="3" height="1" border="0"></td>
+   <td><img src="images/shim.gif" width="125" height="1" border="0"></td>
+   <td><img src="images/shim.gif" width="573" height="1" border="0"></td>
+   <td><img src="images/shim.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr <tr="" valign="top"><!-- row 1 -->
+  
+  
+  
+  
+  
+  
+  
+      <td><img src="images/shim.gif" width="3" height="1" border="0"></td>
+    <td width="125" background="images/background4.jpg" height="700"><img src="Rotation/pic04.jpg"><br>
+  
+
+
+    <img src="images/Online.jpg" width="125" height="59" usemap="#Map3" border="0"><map name="Map3"><area shape="RECT" alt="Login" coords="1,31,125,43" href="https://vault5.mids.com/731"> <area shape="RECT" alt="Online Banking" coords="1,1,125,31" href="https://vault5.mids.com/731"> <area shape="RECT" alt="Demo" coords="1,44,58,59" href="Demo/interactive/p1bot.htm" target="_blank"> <area shape="RECT" alt="Apply" coords="59,45,125,59" href="online_application_disclosures.asp"></map><br>
+
+
+      </td>
+
+    <td valign="top"><img src="images/topbar.jpg" width="449" height="13"><a href="index.asp"><img src="images/search.jpg" width="59" height="13" border="0"></a><a href="contact.asp"><img src="images/contact.jpg" width="79" height="13" border="0"></a><a href="https://vault5.mids.com/731"><img src="images/login.jpg" width="63" height="13" border="0"></a><br>
+<!--    <td valign="top"><img src="images/topbar.jpg" width="449" height="13"><a href="#"><img src="images/search.jpg" width="59" height="13" border="0"></a><a href="#" onmouseover="popUp('elMenu6',event);" onmouseout="popDown('elMenu6');"><img src="images/contact.gif" width="79" height="13" border="0"><a href="#" onmouseover="popUp('elMenu7',event);" onmouseout="popDown('elMenu7');"><img src="images/login.gif" width="63" height="13" border="0"></a><BR> -->
+<!--	  <img name="midrv1new_r2_c2" src="images/titlebar1.jpg" width="510" height="80" border="0" usemap="#midrv1new_r2_c2Map"><map name="midrv1new_r2_c2Map"><area shape="rect" coords="134,0,385,55" href="index.asp"></map> -->
+<!--	  <img name="midrv1new_r2_c3" src="images/titlebar2.jpg" width="140" height="80" border="0"><BR> -->
+      <img name="area1" src="images/area01a.jpg" width="134" height="80" border="0"><a href="index.asp" target="_top"><img name="area2" src="images/area02a.jpg" width="127" height="80" border="0"><img name="area3" src="images/area03a.jpg" width="127" height="80" border="0"><img name="area4" src="images/area04a.jpg" width="128" height="80" border="0"><img name="area5" src="images/area05a.jpg" width="134" height="80" border="0"><br>  
+<!--  <a href="personal_checking.asp" onmouseover="menu(1,168,122);"><img alt="Personal Services: Checking, Savings, CDs & IRAs, Lending, Mortgage Loans" src="images/button01.jpg" height="23" border="0"></a><a href="business_intro.asp" onmouseover="menu(2,315,122);"><img alt="Business Services: Checking, Money Market Gold, Savings, Business Services, Business Loans" src="images/button02.jpg" height="23" border="0"></a><a href="investment_trust.asp" onmouseover="menu(3,458,122);"><img alt="Investment Services: Trust Services, Waddell & Reed" src="images/button03.jpg" height="23" border="0"></a><a Alt="Inside Midfirst" href="inside_MF.asp" onmouseover="menu(4,608,122);"><img Alt="Inside Midfirst" src="images/button04.jpg" height="23" border="0"></a><a alt="More: Contact Us, FAQs, Financial Calculators, Glossary of Terms, Locate Us, More than you'd expect." href="moremore.asp" onmouseover="menu(7,718,122);"><img alt="More: Contact Us, FAQs, Financial Calculators, Glossary of Terms, Locate Us, More than you'd expect." src="images/button05.jpg" height="23" border="0"></a><BR> -->
+
+      </a><a href="personal_intro.asp" onmouseover="selectA1()" onmouseout="selectHomeins()"><img name="button1" src="images/button01a.jpg" height="23" border="0"></a><a href="business_intro1.asp" onmouseover="selectA2()" onmouseout="selectHomeins()"><img name="button2" src="images/button02a.jpg" height="23" border="0"></a><a href="investment.asp" onmouseover="selectA3()" onmouseout="selectHomeins()"><img name="button3" src="images/button03a.jpg" height="23" border="0"></a><a href="inside_MF.asp" onmouseover="selectA4()" onmouseout="selectHomeins()"><img name="button4" src="images/button04c.jpg" height="23" border="0"></a><a href="moremore.asp" onmouseover="selectA5()" onmouseout="selectHomeins()"><img name="button5" src="images/button05a.jpg" height="23" border="0"></a><br>
+  	      	  
+
+
+
+
+
+
+<!-- 	  <a href="personalcheckingintro.asp" onmouseover="menu(1,230,122);"><img src="images/button01.jpg" height="23" border="0"></a><a href="businessintro.asp" onmouseover="menu(2,341,122);"><img src="images/TabBusBankingNew.gif" height="23" border="0"></a><a href="javascript:menu(3,455,122)" onmouseover="menu(3,455,122);"><img src="images/TabInvestmentServicesNew.gif" height="23" border="0"></a><a href="insideintro.asp" onmouseover="menu(4,570,122);"><img src="images/TabInsideMidFirstNew.gif" height="23" border="0"></a><a href="businessintro.asp" onmouseover="menu(7,682,122);"><img src="images/TabMoreNew.gif" height="23" border="0"></a><BR> -->
+
+
+<!--  	  <a href="personal_checking.asp" onmouseover="popUp('elMenu1',event);" onmouseout="popDown('elMenu1');"><img src="images/button01.jpg" height="23" border="0"></a><a href="business_intro.asp" onmouseover="popUp('elMenu2',event);" onmouseout="popDown('elMenu2');"><img src="images/button02.jpg" height="23" border="0"></a><a href="investment_trust.asp" onmouseover="popUp('elMenu3',event);" onmouseout="popDown('elMenu3');"><img src="images/button03.jpg" height="23" border="0"></a><a href="inside_MF.asp" onmouseover="popUp('elMenu4',event);" onmouseout="popDown('elMenu4');"><img src="images/button04.jpg" height="23" border="0"></a><a href="insideintro.asp" onmouseover="popUp('elMenu5',event);" onmouseout="popDown('elMenu5');"><img src="images/button05.jpg" height="23" border="0"></a><BR> -->
+<!--  	  <img src="images/LeftWS.gif" width="12" height="23"><a href="personalcheckingintro.asp" onmouseover="menu(1,238,122);"><img src="images/ButtonPersonalBanking.gif" height="23" border="0"></a><a href="business_intro.asp" onmouseover="menu(2,364,122);"><img src="images/ButtonBusBanking.gif" width="111" height="23" border="0"></a><a href="javascript:menu(3,490,122)" onmouseover="menu(3,490,122);"><img src="images/ButtonInvestmentServices.gif" width="109" height="23" border="0"></a><a href="insideintro.asp" onmouseover="menu(4,616,122);"><img src="images/ButtonInsideMidFirst.gif" width="110" height="23" border="0"></a><a href="business_intro.asp" onmouseover="menu(7,740,122);"><img src="images/ButtonMore.gif" width="110" height="23" border="0"></a><img src="images/RightWS.gif" width="12" height="23"><BR> -->
+      <table width="620" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td colspan="2" width="620" align="left" valign="top">&nbsp;<br>
+          <table border="0" width="100%" cellpadding="0" cellspacing="0"><tbody><tr><td>&nbsp;&nbsp;</td><td>
+<!-- End Header -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1><font face="Verdana" size="4">MIDFIRST BANK&nbsp;</font></h1>
+<font face="Verdana" size="4"><span style="mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><b>CUSTOMER
+INFORMATION DISCLOSURE</b></span></font>
+
+<p><font face="Verdana" size="2"><span style="mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">This
+disclosure provides information about the collection, use and security of
+consumers’ nonpublic personal information by MidFirst Bank (“we”).<span style="mso-spacerun: yes; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">&nbsp;
+</span>This disclosure applies to you if we provide one or more products or
+services to you to be used primarily for personal, family or household purposes.
+The information practices described in this disclosure do not apply to (1)
+products or services used for business purposes, (2) credit serviced by our
+affiliates Midland Mortgage Co. or First Credit Solutions Inc.</span></font></p>
+
+<p><font face="Verdana" size="2"><span style="mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">We
+collect nonpublic personal information about you from the following sources:</span></font></p>
+
+<table>
+<tbody><tr>
+	<td valign="top"><img src="lilbluebullet.jpg" width="12" height="13" border="0"></td>
+	<td>&nbsp;</td>
+	<td><font face="Verdana" size="2"><span style="mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Information
+      we receive from you on applications or other forms;</span></font></td>
+</tr>
+<tr>
+	<td valign="top"><img src="lilbluebullet.jpg" width="12" height="13" border="0"></td>
+	<td></td>
+	<td><font face="Verdana" size="2"><span style="mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Information
+      about your transactions with us, our affiliates, or others; and</span></font></td>
+</tr>
+<tr>
+	<td valign="top"><img src="lilbluebullet.jpg" width="12" height="13" border="0"></td>
+	<td></td>
+	<td><font face="Verdana" size="2"><span style="mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Information
+      we receive from a consumer reporting agency.</span></font></td>
+</tr>
+</tbody></table>
+
+<p><font face="Verdana" size="2">As permitted by law, we may disclose nonpublic
+personal information about you to our affiliates (businesses related to us by
+common ownership or control) and to other nonaffiliated third parties under
+certain circumstances.<span style="mso-spacerun: yes">&nbsp; </span>We may
+disclose certain information we collect to companies that perform activities on
+our behalf to service your account, including but not limited to companies that
+perform check printing or data processing services, credit bureaus, real estate
+appraisers, and title companies. Additionally, we may disclose information about
+you to nonaffiliated firms that assist us in marketing our products. We may also
+disclose information about you to financial institution partners to offer
+jointly endorsed financial products or services, such as credit cards.<span style="mso-spacerun: yes">&nbsp;
+</span>We reserve the right to disclose your information in these and other
+circumstances as allowed or required by law.<span style="mso-spacerun: yes">&nbsp;
+</span>Other than as described in this disclosure or as otherwise authorized or
+required by law, we do not disclose your nonpublic personal information to
+nonaffiliated third parties. We maintain procedures whereby companies that
+receive your nonpublic personal information from us are required to maintain it
+in a secure manner and use it only for the purpose for which it was provided.</font><span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;</span></p>
+
+<p><font face="Verdana" size="2"><span style="mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Our
+employees are trained regarding the importance of customer financial privacy and
+proper handling of confidential information. We maintain physical, electronic,
+and procedural safeguards to reasonably guard your nonpublic personal
+information.<span style="mso-spacerun: yes; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">&nbsp;
+</span>Additionally, we restrict access to nonpublic personal information about
+you to those employees who have a business reason for accessing that
+information.</span></font></p>
+
+<p><font face="Verdana" size="2"><i style="mso-bidi-font-style:normal">If you
+close your account(s) or become an inactive customer, we will adhere to the
+information practices as described in this notice.</i></font></p>
+
+<!-- Start Footer -->
+ <script language="JavaScript">
+	function popupsvrates() {
+	win1 =window.open("popup_rates.asp","Rates","toolbar=no,status=no,menubar=no,scrollbars=yes,top=105,left=125,resizable=no,width=400,height=525");
+	}
+  </script>
+
+
+			</td></tr></tbody></table>&nbsp;
+			</td>
+	      <td height="534" colspan="2"><img src="/images/shim.gif" width="1" height="352" border="0"></td>
+          
+     </tr>
+</tbody></table>
+     </td>
+     </tr>
+     <tr valign="top">
+     <td><img src="/images/shim.gif" width="3" height="1" border="0"></td>
+     <td colspan="2"><img src="/images/shim.gif" width="3" height="1" border="0"></td>
+	 </tr>
+          
+          
+        
+</tbody></table>
+
+
+<table width="745" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><img src="/images/shim.gif" width="3" height="1" border="0"></td>
+    <td bgcolor="#003399" width="745">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+<table width="745" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td width="100%" align="center" valign="middle"><font size="1" face="Arial, Helvetica, sans-serif"><a href="index.asp">Home
+        Page</a> | <a href="personal_intro.asp">Personal Banking</a> | <a href="business_intro1.asp">Business Banking</a>
+        | <a href="investment.asp">Investment Services</a> | <a href="inside_MF.asp">Inside MidFirst</a>
+        | <a href="moremore.asp">More...</a> | <a href="contact.asp">Contact Us</a> 
+        | <a href="https://vault5.mids.com/731">Login</a>| <a href="privacy1.asp" target="_blank">Privacy Statement</a><br><br> </font></td>
+    </tr>
+</tbody></table>
+
+
+<img align="center" src="FDIC.JPG" alt="" border="0"><img align="center" src="EQUAL.JPG" alt="" border="0"><table width="400" border="0" align="right">
+		
+		
+		
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
