@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609064621id_/http%3A//mbtrading.com/disc0.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208183425id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
 
 # MB Trading | Our Privacy Policy
 
@@ -63,6 +63,6 @@ New York, NY 10036-6700
 
 When contacting the DMA, please be sure to include complete information about each name, address, and telephone number that you would like to have excluded from their national contact lists. If you have moved within the past year, you should also include your old address and phone number. This is also true for name changes and the addresses and phone numbers associated with each name.
 
-If you have any questions regarding our privacy policy, please do not hesitate to contact our Customer Service Department at (866) 628-3001.
+If you have any questions regarding our privacy policy, please do not hesitate to contact our Customer Service Department at .
 
 **THIS PRIVACY NOTICE IS PROVIDED TO YOU FOR INFORMATIONAL PURPOSES ONLY. YOU DO NOT NEED TO CALL OR TAKE ANY ACTION IN RESPONSE TO THIS NOTICE. WE RECOMMEND THAT YOU READ AND RETAIN THIS NOTICE FOR YOUR PERSONAL RECORDS.**
