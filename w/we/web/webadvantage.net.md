@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 1999-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991114014235id_/http%3A//www.webadvantage.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 2000-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000522211458id_/http%3A//webadvantage.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ This page © Copyright 1998-1999, Web Ad.vantage Inc.
 
 Send email to [webmaster@webadvantage.net](mailto:webmaster@webadvantage.net)
 
-[Privacy Policy](https://web.archive.org/web/19991114014235id_/http%3A//www.webadvantage.net/privacy.asp)
+[Privacy Policy](https://web.archive.org/web/20000522211458id_/http%3A//webadvantage.net/privacy.asp)
