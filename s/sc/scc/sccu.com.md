@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209172309id_/http%3A//www.sccu.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602171514id_/http%3A//sccu.com/privacy.asp) for the most accurate reproduction.*
 
-# SCCU - Shared Service Centers
+# SCCU.COM - Privacy Policy
 
 At Space Coast Credit Union, your privacy is a top priority. This notice describes how we protect the privacy of your personal information. Throughout this notice, the word "information" refers to personal information about you that may not be publicly available. 
 
