@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075214id_/http%3A//analystforum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608234234id_/http%3A//analystforum.com/privacy.shtml) for the most accurate reproduction.*
 
-# CFA Exam Preparation at AnalystForum for AIMR's Chartered Financial Analyst
+# CFA Exam Discussion at AnalystForum for Chartered Financial Analyst candidates
 
 **AnalystForum's Privacy Policy:**   
 AnalystForum's policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so.
@@ -37,4 +37,4 @@ AnalystForum's policy does not extend to anything that is inherent in the operat
 **Your Acceptance of These Terms:**   
 By using this site, you signify your assent to the AnalystForum Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the AnalystForum site following the posting of changes to these terms will mean you accept those changes.
 
-If you have any questions or comments about our privacy practices, please contact us at [customerservice@analystforum.com](mailto:customerservice@analystforum.com).
+If you have any questions or comments about our privacy practices, please [contact us](https://web.archive.org/contact.php).
