@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206202736id_/http%3A//driversed.com/faq/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404070918id_/http%3A//driversed.com/faq/privacy_statement.asp) for the most accurate reproduction.*
 
 # DriversEd.com
 
@@ -11,7 +11,7 @@
 **I** **nteractive Solutions, Inc.  
 (DBA WebTrafficSchool.com, DriversEd.com)**
 
-| [](https://www.truste.org/ivalidate.php?url=www.24x7drivingschool.com)  
+| [](http://www.truste.org/ivalidate.php?url=www.webtrafficschool.com&sealid=101)  
 ---|---  
   
 Date Revised: July 16, 2004
@@ -126,7 +126,7 @@ We use an outside shipping company to ship orders, and a credit card processing 
 **Third Party Service Providers** |  |   
 ---|---|---  
   
-We partner with [www.idrivesafely.com](https://web.archive.org/web/20041206202736id_/http%3A//driversed.com/faq/www.idrivesafely.com) to provide online traffic school in the States of Colorado, New Mexico, and Missouri. When you sign up for traffic school in these three states through our website, we keep a record of your driver's license, email, name and contact information. We only use this information to keep track of the referrals through our website. [www.idrivesafely.com](http://www.idrivesafely.com/) collects all other personally identifiable information and they are the sole owners of the information they collect. We encourage you to be aware when you leave our site and to read their privacy policy at <http://www.idrivesafely.com/policy.htm>. This privacy statement applies solely to information collected by [www.WebTrafficSchool.com](http://webtrafficschool.com/).  
+We partner with [www.idrivesafely.com](https://web.archive.org/web/20050404070918id_/http%3A//driversed.com/faq/www.idrivesafely.com) to provide online traffic school in the States of Colorado, New Mexico, and Missouri. When you sign up for traffic school in these three states through our website, we keep a record of your driver's license, email, name and contact information. We only use this information to keep track of the referrals through our website. [www.idrivesafely.com](http://www.idrivesafely.com/) collects all other personally identifiable information and they are the sole owners of the information they collect. We encourage you to be aware when you leave our site and to read their privacy policy at <http://www.idrivesafely.com/policy.htm>. This privacy statement applies solely to information collected by [www.WebTrafficSchool.com](http://webtrafficschool.com/).  
   
 **Unsubscribe** |  |   
 ---|---|---  
