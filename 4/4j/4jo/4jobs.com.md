@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202120539id_/http%3A//4jobs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605185029id_/http%3A//4jobs.com/Common/Content/Privacy.asp) for the most accurate reproduction.*
 
-# Your Privacy
+# 4Jobs - The Best in Recruiting and Staffing
 
-  
-[Back] 
+If you have questions or concerns regarding this statement, please contact us. 
 
-**Privacy Policy**
+Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms. 
 
-If you have questions or concerns regarding this statement, please [Contact Us](http://www.4jobs.com/default.asp?seg=bp&p=frm&f=10&fp=1&@topic=11). 
-
-Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms.
-
-|  Background  
+Background  
 ---  
 Collection and Use of Information  
 Viewing and Updating Your Information  
@@ -40,7 +35,7 @@ Back to top
 **Collection and Use of Information**  
 
 
-We are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website. When you first register at with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
+We are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
 
 We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes.  
 
@@ -96,13 +91,13 @@ For transmitting your personal information to us, we use a secure server (SSL), 
 
 We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
 
-Users should not post personal information to any site if they are uncomfortable with the security of the site.  If you have any questions, please [Contact Us](http://www.4jobs.com/default.asp?seg=bp&p=frm&f=10&fp=1&@topic=11) . Back to top
+Users should not post personal information to any site if they are uncomfortable with the security of the site.  If you have any questions, please contact us.  Back to top
 
 * * *
 
 **Notification of Changes**  
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 Back to top
 
@@ -110,7 +105,7 @@ Back to top
 
 **Contact**
 
-If you have questions concerning your account or this privacy policy, please [Contact Us](http://www.4jobs.com/default.asp?seg=bp&p=frm&f=10&fp=1&@topic=11). 
+If you have questions concerning your account or this privacy policy, please contact us. 
 
 Back to top
 
