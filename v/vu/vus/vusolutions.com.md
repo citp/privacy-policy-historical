@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vusolutions.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221919id_/http%3A//www.vusolutions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vusolutions.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010000457id_/http%3A//www.vusolutions.com/privacy.htm) for the most accurate reproduction.*
 
 # VFS Privacy Policy
 
