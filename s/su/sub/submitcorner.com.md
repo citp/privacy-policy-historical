@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitcorner.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604082610id_/http%3A//www.submitcorner.com/Inside/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitcorner.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010080747id_/http%3A//www.submitcorner.com/Inside/privacy.shtml) for the most accurate reproduction.*
 
 # Submit Corner - Privacy Policy
 
