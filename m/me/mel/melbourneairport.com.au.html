@@ -1,0 +1,430 @@
+<!--The following is the downloaded HTML source of the melbourneairport.com.au privacy policy that was archived on 2002-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021216222718id_/http%3A//www.melbourneairport.com.au/disclaimer.asp) for the most accurate reproduction.-->
+
+<html><head>
+	<title>Melbourne Airport</title>
+
+	<!--
+	Copyright © 2001 Melbourne Airport Inc. All rights reserved.
+	Web site developed by Reactive Media
+
+	For more information contact Tim O'Neill: timo@reactive.com
+	http://www.reactive.com
+	-->
+
+	<!---detects whether to use Mac or PC stylesheet-->
+	<script language="JavaScript" src="/ssi/js_styles.js"></script>
+	<script language="JavaScript" src="/ssi/rollover_code.js"></script>
+	<script language="JavaScript" src="/ssi/popup_code.js"></script>
+		<script language="JavaScript" type="text/javascript">
+	<!--
+
+
+	// #############################################
+	// These are the user defined globals.
+	// Modify the following variables to customize the inspection behaviour.
+
+	var requiredVersion = 4;   // Version the user needs to view site (max 6, min 2)
+	var useRedirect = false;    // Flag indicating whether or not to load a separate
+							   // page based on detection results. Set to true to
+							   // load a separate page. Set to false to embed the
+							   // movie or alternate html directly into this page.
+
+	// Only set next three vars if useRedirect is true...
+	var flashPage = "movie.html"        // the location of the flash movie page
+	var noFlashPage = "noflash.html"    // send user here if they don't have the plugin or we can't detect it
+	var upgradePage = "upgrade.html"    // send user here if we detect an old plugin	// #############################################
+	// #############################################
+
+
+	// *************
+	// Everything below this point is internal until after the BODY tag.
+	// Do not modify! Proceed to the BODY tag for further instructions.
+	// *************
+
+	// System globals
+	var flash2Installed = false;    // boolean. true if flash 2 is installed
+	var flash3Installed = false;    // boolean. true if flash 3 is installed
+	var flash4Installed = false;    // boolean. true if flash 4 is installed
+	var flash5Installed = false;    // boolean. true if flash 5 is installed
+	var flash6Installed = false;    // boolean. true if flash 6 is installed
+	var maxVersion = 6;             // highest version we can actually detect
+	var actualVersion = 0;          // version the user really has
+	var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
+	var jsVersion = 1.0;            // the version of javascript supported
+
+	// -->
+	</script>
+
+	<script language="JavaScript1.1" type="text/javascript">
+	<!--
+
+	// Check the browser...we're looking for ie/win
+	var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
+	var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if we're on windows
+
+	// This is a js1.1 code block, so make note that js1.1 is supported.
+	jsVersion = 1.1;
+
+	// Write vbscript detection on ie win. IE on Windows doesn't support regular
+	// JavaScript plugins array detection.
+	if(isIE && isWin){
+	  document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
+	  document.write('on error resume next \n');
+	  document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
+	  document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
+	  document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
+	  document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
+	  document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');
+	  document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
+	}
+	// -->
+	</script>
+
+	<script language="JavaScript" type="text/javascript">
+	<!--
+
+	// Next comes the standard javascript detection that uses the
+	// navigator.plugins array. We pack the detector into a function so it loads
+	// before we run it.
+
+	function detectFlash() {
+	  // If navigator.plugins exists...
+	  if (navigator.plugins) {
+		// ...then check for flash 2 or flash 3+.
+		if (navigator.plugins["Shockwave Flash 2.0"]
+			|| navigator.plugins["Shockwave Flash"]) {
+
+		  // Some version of Flash was found. Time to figure out which.
+
+		  // Set convenient references to flash 2 and the plugin description.
+		  var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+		  var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
+
+		  // DEBUGGING: uncomment next line to see the actual description.
+		  // alert("Flash plugin description: " + flashDescription);
+
+		  // A flash plugin-description looks like this: Shockwave Flash 4.0 r5
+		  // We can get the major version by grabbing the character before the period
+		  // note that we don't bother with minor version detection.
+		  // Do that in your movie with $version or getVersion().
+		  var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
+
+		  // We found the version, now set appropriate version flags. Make sure
+		  // to use >= on the highest version so we don't prevent future version
+		  // users from entering the site.
+		  flash2Installed = flashVersion == 2;
+		  flash3Installed = flashVersion == 3;
+		  flash4Installed = flashVersion == 4;
+		  flash5Installed = flashVersion == 5;
+		  flash6Installed = flashVersion >= 6;
+		}
+	  }
+
+	  // Loop through all versions we're checking, and
+	  // set actualVersion to highest detected version.
+	  for (var i = 2; i <= maxVersion; i++) {
+		if (eval("flash" + i + "Installed") == true) actualVersion = i;
+	  }
+
+	  // If we're on webtv, the version supported is 2 (pre-summer2000,
+	  // or 3, post-summer2000). Note that we don't bother sniffing varieties
+	  // of webtv. You could if you were sadistic...
+	  if(navigator.userAgent.indexOf("WebTV") != -1) actualVersion = 3;
+
+	  // DEBUGGING: uncomment next line to display flash version
+	  // alert("version detected: " + actualVersion);
+
+
+	  // We're finished getting the version on all browsers that support detection.
+	  // Time to take the appropriate action.
+
+	  // If the user has a new enough version...
+	  if (actualVersion >= requiredVersion) {
+		// ...then we'll redirect them to the flash page, unless we've
+		// been told not to redirect.
+		if (useRedirect) {
+		  // Need javascript1.1 to do location.replace
+		  if(jsVersion > 1.0) {
+			// It's safe to use replace(). Good...we won't break the back button.
+			window.location.replace(flashPage);
+		  } else {
+			// JavaScript version is too old, so use .location to load
+			// the flash page.
+			window.location = flashPage;
+		  }
+		}
+
+		// If we got here, we didn't redirect. So we make a note that we should
+		// write out the object/embed tags later.
+		hasRightVersion = true;
+	  } else {
+		// The user doesn't have a new enough version.
+		// If the redirection option is on, load the appropriate alternate page.
+		if (useRedirect) {
+		  // Do the same .replace() call only if js1.1+ is available.
+		  if(jsVersion > 1.0) {
+			window.location.replace((actualVersion >= 2) ? upgradePage : noFlashPage);
+		  } else {
+			window.location = (actualVersion >= 2) ? upgradePage : noFlashPage;
+		  }
+		}
+	  }
+	}
+
+
+	detectFlash();  // call our detector now that it's safely loaded.
+
+	// -->
+	</script>
+
+</head>
+
+
+<body text="#363636" vlink="#2F81A8" link="#2F81A8" bgcolor="#06587F" alink="#2F81A8" marginheight="20" marginwidth="10" topmargin="20" bottommargin="10" leftmargin="10" rightmargin="10">
+<a name="top"></a>
+<center>
+
+<!---------start of *HEADER TABLE*----------->
+<table cellpadding="0" cellspacing="0" border="0" width="95%">
+	<tbody><tr>
+		<td align="left" valign="top" width="4"><img src="/images/invis.gif" width="4" height="4" border="0" alt="spacer"></td>
+		<td align="left" valign="top" bgcolor="#FFFFFF" width="167"><a href="/index.asp"><img src="/images/melLogo.gif" width="167" height="60" border="0" alt="MELBOURNE AIRPORT"></a></td>
+		<td width="100%" bgcolor="#FFFFFF"><img src="/images/invis.gif" width="242" height="60" border="0" alt="spacer"></td>
+		<td align="right" valign="top" width="20"><img src="/images/topNavCnr.gif" width="20" height="60" border="0" alt="spacer"></td>
+		<td align="left" valign="top" width="312">
+<!--subnav-->
+			<table cellpadding="0" cellspacing="0" border="0" width="312" height="60">
+				<tbody><tr>
+					<td height="18" nowrap=""><a href="/index.asp"><img src="/images/subnav/home.gif" width="36" height="18" border="0" alt="Home"><img src="/images/invis.gif" width="4" height="18" border="0" alt="Home"></a><a href="/help.asp"><img src="/images/subnav/help.gif" width="38" height="18" border="0" alt="Help"></a><a href="/sitemap.asp"><img src="/images/subnav/sitemap.gif" width="55" height="18" border="0" alt="Sitemap"></a><a href="/contact.asp"><img src="/images/subnav/contactUs.gif" width="68" height="18" border="0" alt="Contact Us"></a><a href="/search/index.asp"><img src="/images/subnav/search.gif" width="49" height="18" border="0" alt="Search"></a><a href="/feedback.asp"><img src="/images/subnav/feedback.gif" width="62" height="18" border="0" alt="Feedback"></a></td>
+				</tr>
+<!--melbourne time-->
+				<tr bgcolor="#FFFFFF">
+					<td align="right" valign="top" nowrap="" height="42">
+					<img src="/images/invis.gif" width="200" height="5" border="0" alt="spacer"><br>
+						<font face="Verdana, Arial, Helvetica" size="-2" color="#054F7B">
+							Melb. time 08:27 &nbsp;
+						</font>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="5"><img src="/images/invis.gif" width="745" height="1" border="0" alt="spacer"></td>
+	</tr>
+</tbody></table>
+<!---------end of *HEADER TABLE*----------->
+
+<!---------start of *MAIN TABLE*----------->
+<table cellpadding="0" cellspacing="0" border="0" width="95%">
+	<tbody><tr>
+
+<!--------start of *MAIN NAV*---------->
+		<td align="left" valign="top" nowrap="" width="164" bgcolor="#06587F">
+			<!--flight information-->
+			<a href="/flight_info/index.asp" onmouseover="image_swap('over01')" onmouseout="image_restore('over01')">
+				<img name="over01" src="/images/nav/flightInfo.gif" width="164" height="30" border="0" alt="Flight Information"><br>
+			</a>
+<!--getting there & away-->
+			<a href="/getting_there/index.asp" onmouseover="image_swap('over02')" onmouseout="image_restore('over02')">
+				<img name="over02" src="/images/nav/gettingThere.gif" width="164" height="30" border="0" alt="Getting There &amp; Away"><br>
+			</a>
+<!--passengers-->
+			<a href="/passengers/index.asp" onmouseover="image_swap('over03')" onmouseout="image_restore('over03')">
+				<img name="over03" src="/images/nav/passengers.gif" width="164" height="30" border="0" alt="Passengers"><br>
+			</a>
+<!--shopping & eating-->
+			<a href="/shopping_eating/index.asp" onmouseover="image_swap('over04')" onmouseout="image_restore('over04')">
+				<img name="over04" src="/images/nav/shoppingEating.gif" width="164" height="30" border="0" alt="Shopping &amp; Eating"><br>
+			</a>
+<!--melbourne region-->
+			<a href="/melbourne_region/index.asp" onmouseover="image_swap('over05')" onmouseout="image_restore('over05')">
+				<img name="over05" src="/images/nav/melbourneRegion.gif" width="164" height="30" border="0" alt="Melbourne &amp; Region"><br>
+			</a>
+<!--corporate information-->
+			<a href="/corporate_info/index.asp" onmouseover="image_swap('over06')" onmouseout="image_restore('over06')">
+				<img name="over06" src="/images/nav/corporateInfo.gif" width="164" height="30" border="0" alt="Corporate Information"><br>
+			</a>
+			<img src="/images/nav/lineBlue.gif" width="164" height="1" border="0" alt="spacer"><br>
+			<img src="/images/shopping_eating/btm_Image.gif" width="164" height="161" border="0" alt="Girl shopping">
+		</td>
+<!--------end of *MAIN NAV*---------->
+
+		<td width="1"><img src="/images/invis.gif" width="1" height="1" border="0" alt="spacer"><br></td>
+		<td valign="top" align="left" width="100%">
+<!--------start of *FLASH TITLE & BANNER*---------->
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="" align="left" valign="top" bgcolor="#4E9BC0" height="72"><img src="/images/flash/titleDisclaimer.gif" width="290" height="72" border="0" alt="DISCLAIMER &amp; PRIVACY POLICY"></td>
+					<td align="left" valign="top" width="100%" bgcolor="#4E9BC0" background="/images/bgHelp.gif"><img src="/images/invis.gif" width="30" height="72" border="0" alt="spacer"></td>
+					<td align="right" valign="top" height="72" bgcolor="#4E9BC0"><script language="JavaScript">
+    <!--
+		// in this section we set up the content to be placed dynamically on the page
+		// customize movie tags and alternate html content below
+
+		if (!useRedirect) {     // if dynamic embedding is turned on
+			if(hasRightVersion) {   // if we've detected an acceptable version
+
+				var oeTags = '<OBJECT CLASSID="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'
+				+ 'ID="interactive_map" WIDTH=260 HEIGHT=72 '
+				+ 'CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0">'
+				+ '<PARAM NAME="MOVIE" VALUE="/images/adverts/flash/inter_map.swf?urllink=/passengers/interactive_map.asp">'
+				+ '<PARAM NAME="PLAY" VALUE="true">'
+				+ '<PARAM NAME="LOOP" VALUE="false">'
+				+ '<PARAM NAME="QUALITY" VALUE="high">'
+				+ '<PARAM NAME=scale VALUE=exactfit>'
+				+ '<PARAM NAME=bgcolor VALUE=#BEC963>'
+				+ '<PARAM NAME="MENU" VALUE="false">'
+				+ '<EMBED src="/images/adverts/flash/inter_map.swf?urllink=/passengers/interactive_map.asp" '
+				+ 'swLiveConnect=true '
+				+ 'quality=high '
+				+ 'bgcolor=#BEC963 '
+				+ 'name="interactive_map" '
+				+ 'scale=exactfit '
+				+ 'WIDTH=260 '
+				+ 'HEIGHT=72 '
+				+ 'TYPE="application/x-shockwave-flash" '
+				+ 'PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">'
+				+ '</EMBED>'
+				+ '</OBJECT>';
+
+				document.write(oeTags);     // embed the flash movie
+			}
+			else
+			{
+
+				var alternateContent = '<a href="/passengers/interactive_map.asp"><IMG SRC="/images/adverts/inter_map.gif" WIDTH="260" HEIGHT="72" BORDER="0" ALT=""></a>';
+
+				document.write(alternateContent);   // insert non-flash content
+			}
+		}
+
+    // -->
+    </script><a href="/passengers/interactive_map.asp"><img src="/images/adverts/inter_map.gif" width="260" height="72" border="0" alt=""></a></td>
+				</tr>
+				<tr bgcolor="#054F7B">
+					<td align="left" valign="top"><img src="/images/invis.gif" width="290" height="1" border="0" alt="spacer"></td>
+					<td align="left" valign="top"><img src="/images/invis.gif" width="30" height="1" border="0" alt="spacer"></td>
+					<td align="left" valign="top"><img src="/images/invis.gif" width="260" height="1" border="0" alt="spacer"></td>
+				</tr>
+			</tbody></table>
+<!--------end of *FLASH TITLE & BANNER*---------->
+<!--------start of *BODYTEXT* table---------->
+
+			<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#FFFFFF">
+				<tbody><tr>
+					<td align="left" valign="top" rowspan="2"><img src="/images/white.gif" width="20" height="37" border="0" alt="spacer"></td>
+					<td align="left" valign="top" width="100%"><img src="/images/main_title/title_disclaimer.gif" width="371" height="37" border="0" alt="Disclaimer &amp; Private Policy"></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" width="100%" bgcolor="#06587F"><img src="/images/invis.gif" width="1" height="1" border="0" alt="spacer"></td>
+				</tr>
+			</tbody></table>
+			<table cellpadding="20" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td align="left" valign="top" bgcolor="#FFFFFF" width="100%"><font face="Arial, Helvetica,Verdana" size="-1">
+
+						<font face="Arial, Helvetica,Verdana" size="-1" color="#4E9BC0">
+							<b>Liability Disclaimer</b>
+						</font>
+						<!--start of *BLUE LINE* table-->
+												<table cellpadding="0" cellspacing="0" border="0" width="100%">
+													<tbody><tr>
+														<td><img src="/images/invis.gif" width="1" height="4" border="0" alt="spacer"></td>
+													</tr>
+													<tr>
+														<td bgcolor="#4E9BC0"><img src="/images/invis.gif" width="1" height="1" border="0" alt="spacer"></td>
+													</tr>
+												</tbody></table>
+						<!--end of *BLUE LINE* table-->
+						<p>
+						Every effort has been made to ensure the accuracy of the information contained on the Melbourne Airport web site. Melbourne Airport, however, shall not be liable to any person or entity with respect to any liability, misleading information, loss or damage caused directly or indirectly by the information contained on the site.
+						</p><p>
+						Changes and additions to the information contained on the Melbourne Airport site are made frequently. Melbourne Airport may make such changes and additions at any time.
+						</p><p>
+						Melbourne Airport web pages provide links and pointers to Internet sites controlled and maintained by others. These links and pointers are included solely for the convenience of users, and do not constitute an endorsement by Melbourne Airport to the sites linked or referred to. The user takes sole responsibility for use of third party sites.
+						</p><p>
+						Melbourne Airport is operated by Australia Pacific Airports (Melbourne) Pty Ltd <nobr>(ACN 076 999 114)</nobr>.
+						</p><p>
+
+						<font face="Arial, Helvetica,Verdana" size="-1" color="#4E9BC0">
+													<b>Privacy Policy</b>
+												</font>
+						<!--start of *BLUE LINE* table-->
+												<table cellpadding="0" cellspacing="0" border="0" width="100%">
+													<tbody><tr>
+														<td><img src="/images/invis.gif" width="1" height="4" border="0" alt="spacer"></td>
+													</tr>
+													<tr>
+														<td bgcolor="#4E9BC0"><img src="/images/invis.gif" width="1" height="1" border="0" alt="spacer"></td>
+													</tr>
+												</tbody></table>
+						<!--end of *BLUE LINE* table-->
+						</p><p>
+
+						The Privacy Policy of Australia Pacific Airports Corporation Limited and its related entities Australia Pacific Airports (Melbourne) Pty Limited, Australia Pacific Airports (Launceston) Pty Limited, and APAC (Holdings) Pty Limited is as follows :
+						</p><p>
+						We will only collect personal information with the prior knowledge and consent of that person.  Personal information will be used only for the purposes for which it is collected.  Personal information will not be disclosed to a third party unless by consent or to the extent required by law.  Appropriate technology and security policies, rules and measures will be implemented to protect the personal information that we have under our control from unauthorised access, improper use, alteration, unlawful or accidental destruction and accidental loss.  Personal information will be removed from our systems when it is no longer required. The National Privacy Principles as set out in the Privacy Amendment (private sector) Act 2001 will be complied with in every respect by us.  Any complaints about privacy issues are to be directed immediately to the Company Secretary who carries responsibility for compliance and resolution of complaints.
+
+						</p><p>
+						Chris Barlow<br>
+						Chief Executive Officer
+						</p></font><p><font face="Arial, Helvetica,Verdana" size="-1">
+						<font size="-2">Last updated 24 January 2002</font>
+
+
+					</font></p></td>
+					
+<!---------start of *RIGHT COLUMN ICONS*-------->
+					<td align="left" valign="top" bgcolor="#DBEEF7"><font face="Arial, Helvetica,Verdana" size="-1" color="#06587F">
+						&nbsp;
+						<br><img src="/images/invis.gif" width="150" height="15" border="0" alt="spacer"><br>
+					</font></td>
+<!---------end of *RIGHT COLUMN ICONS*-------->
+				</tr>
+			</tbody></table>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#FFFFFF">
+				<tbody><tr>
+					<td align="left" valign="top"><img src="/images/white.gif" width="20" height="1" border="0" alt="spacer"></td>
+					<td align="left" valign="top" width="100%" bgcolor="#06587F"><img src="/images/invis.gif" width="1" height="1" border="0" alt="spacer"></td>
+				</tr>
+			</tbody></table>
+<!--------end of *BODYTEXT* table---------->
+
+<!---------start of *BTM ICONS*----------->
+				<center>
+					<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#FFFFFF">
+						<tbody><tr>
+							<td align="left" valign="top" width="20"><img src="/images/invis.gif" width="20" height="36" border="0" alt="spacer"></td>
+							<td align="left" valign="top"><a href="#top"><img src="/images/backTop.gif" width="73" height="18" border="0" alt="Back to top"></a></td>
+							<td align="left" valign="top" width="100%">
+								<table cellpadding="8" cellspacing="0" border="0" width="100%" bgcolor="#FFFFFF">
+									<tbody><tr>
+										<td align="right" nowrap=""><a href="/getting_there/parking.asp"><img src="/images/icons/parking.gif" height="36" width="87" alt="Parking" border="0"></a><a href="/shopping_eating/gstFree.asp"><img src="/images/icons/gst.gif" width="107" height="36" border="0" alt="GST Free Zone"></a><a href="javascript:displayInteractiveMap();"><img src="/images/icons/map.gif" width="110" height="36" border="0" alt="Interactive Map"></a><a href="/corporate_info/property_development.asp"><img src="/images/icons/property.gif" width="121" height="36" border="0" alt="Property Development"></a></td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</center>
+<!---------end of *BTM ICONS*----------->
+
+<!---------start of *FOOTER TABLE*----------->
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td align="center" valign="bottom" nowrap="" height="15"><font face="Arial, Helvetica,Verdana" size="-2" color="#83ACBF">
+						Copyright © 2002 - 2003 Melbourne Airport Inc. All rights reserved. <a href="/disclaimer.asp" class="linkBlue">Disclaimer / Privacy Policy</a>. <a href="http://www.reactive.com" target="_blank" class="linkBlueNone">Website design by Reactive</a>
+					</font></td>
+				</tr>
+			</tbody></table>
+<!---------end of *FOOTER TABLE*----------->
+		</td>
+	</tr>
+</tbody></table>
+<!---------end of *MAIN TABLE*----------->
+
+</center>
+
+
+</body></html>
