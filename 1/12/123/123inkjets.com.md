@@ -1,39 +1,37 @@
-> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html%3Fshow%3Dprivacy%26frm%3Dbnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123inkjets.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html%3Fshow%3Dprivacy%26frm%3Dbnav) for the most accurate reproduction.*
 
 # 123inkjets.com - General Information
 
-[](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=customerserv)
-
 Company Information  
-  **»** [About Us](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=aboutus)  
-  **»** [Affiliate Program](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=affiliates)  
-  **»** [Contact Us](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=contact)
+  **»** [About Us](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=aboutus)  
+  **»** [Affiliate Program](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=affiliates)  
+  **»** [Contact Us](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=contact)
 
 Shipping Info  
-  **»** [Methods and Costs](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=shipping)  
-  **»** [E-mails About Your Order](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=emails)  
+  **»** [Methods and Costs](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=shipping)  
+  **»** [E-mails About Your Order](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=emails)  
 
 
 Guarantees & Policies  
-  **»** [One-Year Product Guarantee](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=guarantee)  
-  **»** [Easy Returns & Exchanges](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=returns)  
-  **»** [Privacy Policy](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=privacy)  
-  **»** [Terms & Conditions](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=terms)  
+  **»** [One-Year Product Guarantee](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=guarantee)  
+  **»** [Easy Returns & Exchanges](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=returns)  
+  **»** [Privacy Policy](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=privacy)  
+  **»** [Terms & Conditions](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=terms)  
 
 
 About Your Order  
-  **»** [About Cookies](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=cookies)  
-  **»** [Frequently Asked Questions](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=faq)  
-  **»** [Fast & Easy Return Instructions](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=rinstructions)  
+  **»** [About Cookies](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=cookies)  
+  **»** [Frequently Asked Questions](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=faq)  
+  **»** [Fast & Easy Return Instructions](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=rinstructions)  
 
 
 Payment & Inquiries  
-  **»** [Check Ticket Status](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=noacc-tkt)  
-  **»** [Check Orders By Mail](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=checkorders)  
-  **»** [Fax Orders](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=faxorders)  
-  **»** [Purchase Orders](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/scontent.html?show=pos)  
-  **»** [Sales Tax](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=salestax)  
-  **»** [Payment Options](https://web.archive.org/web/20040602205136id_/http%3A//www.123inkjets.com/content.html?show=poptions)  
+  **»** [Check Ticket Status](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=noacc-tkt)  
+  **»** [Check Orders By Mail](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=checkorders)  
+  **»** [Fax Orders](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=faxorders)  
+  **»** [Purchase Orders](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/scontent.html?show=pos)  
+  **»** [Sales Tax](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=salestax)  
+  **»** [Payment Options](https://web.archive.org/web/20041209060633id_/http%3A//www.123inkjets.com/content.html?show=poptions)  
 
 
 |  
