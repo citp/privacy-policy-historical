@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013205558id_/http%3A//www.museumstuff.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207041452id_/http%3A//www.museumstuff.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MuseumStuff.com
 
-**last updated October 8, 2002**
-
-_MuseumStuff.com and its parent company Discovery Media are committed to safeguard and respect our visitors rights to honest and secure privacy. This current policy was updated and strengthened on July 8, 2002._
+_MuseumStuff.com and its parent company Discovery Media are committed to safeguard and respect our visitors rights to honest and secure privacy. This current policy was updated and strengthened on October 8, 2002._
 
 **What personal information does MuseumStuff.com collect?** .. If you take part in advanced features of our network, such as signing up for a newsletter or participating in contests, we may collect personal information such as your name, location, email address, and general age information. If this advanced activity has taken place on behalf of one of our member organizations (i.e. participating museums) then there is the potential for your information to be shared with appropriate member organizations. - For general site visits the information we collect is restricted anonymous statistics such as what site or search engine you used to enter our network, which browser and platform you are using, and in some cases the search terms you employed that brought you to our virtual doorstep. - This general and we stress, ANONYMOUS information may at time be shared with strategic partners as described below. 
 
