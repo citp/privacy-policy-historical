@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610103526id_/http%3A//www.xml.com/pub/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2000-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001017050159id_/http%3A//www.xml.com/pub/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com - Privacy Policy
 
