@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wmal.com privacy policy that was archived on 2003-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205043140id_/http%3A//www.wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wmal.com privacy policy that was archived on 2004-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607131338id_/http%3A//wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>630 WMAL</title>
@@ -18,6 +18,7 @@ A {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	line-height: 15p
 .fLinks:visited {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	line-height: 15px;	font-weight: bold;	color: #373535;}
 .fLinks:active {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	line-height: 15px;	font-weight: bold;	color: #BD141A;}
 .fLinks:hover {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	line-height: 15px;	font-weight: bold;	color: #0000D0;}
+.fFeatureLink {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	line-height: 15px;	font-weight: bold;	color: #BD141A;}
 .gNavText {	font-family: Arial, Helvetica, sans-serif;	font-size: 10px;	line-height: 13px;	font-weight: bold;	color: #FFFFFF;	text-decoration: none}
 .gNavText:hover {	font-family: Arial, Helvetica, sans-serif;	font-size: 10px;	line-height: 13px;	font-weight: bold;	color: #FFDE00;	text-decoration: none}
 .iPageTitles {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	font-weight: bold;	text-transform: uppercase;	color: #FFDE00;	line-height: 12px;}
@@ -57,6 +58,16 @@ A {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	line-height: 15p
 .gBody {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	line-height: 15px;	color: #373535; background-color:FFFFFF}
 .gMemberText {	font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	line-height: 15px;	color: #373535;}
 .cfDropdown {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	font-weight: bold;	color: #FFFFFF;	background-color: #C60010;}
+.cPollBody { Font-Family: Arial, Helvetica, Verdana, Tahoma, sans-serif; Font-Size: 13px; Color: #000000; Background-Color: #ffffff; MARGIN: 0pt 0px 0px; TOP: 0pt; LEFT: 0pt; }
+.cPollRadioCheckbox {  font-family: "Trebuchet MS", Arial, Verdana; font-size: 11px; font-weight: normal; color: #000000; text-align: left; height: 21px}
+.cPollTable { border-style: solid; border-width: 4px; border-color: #C60010; }
+.cPollBarCell { background-color: #C60010; }
+.cPollHeadline {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: bold;	color: #C60010;}
+.cPollNarrative  {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: normal;	color: #000000;}
+.cPollQuestion {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: bold;	color: #C60010;}
+.cPollAnswers {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: bold;	color: #000000;}
+.cPollVotes {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: bold;	color: #C60010;}
+.cPollText {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: normal;	color: #000000;}
 .elsAlertMsg { font-family: arial,verdana,helvetica; font-size: 13px; font-weight: bold; color: #000000; line-height: normal }
 .elsTable { border-style: solid; border-width: 1px; border-color: #000000; }
 .elsCellField { background-color: FFDE00; color: #000000; font-family: arial,verdana,helvetica; font-size: 13px; }
@@ -100,6 +111,10 @@ function printpage() {
 	if (window.print) window.print();
 	else alert('To print this page, select Print Frame from the file menu.');
 }
+function openGame() {
+  window.open("/SlotMachine/","mywin","scrollbars=yes,resizable=no,width=757,height=455");
+}
+
 
 //-->
 </script>
@@ -149,10 +164,12 @@ function testPlugins(nRequiredVersion) {
 		if (appVr.indexOf("3.1")!=-1){
 			flashenabled = false;
 		}
-		else if (windows) {  
+		else if (windows) {
 			document.writeln('<SC'+'RIPT LANGUAGE="VBScript">');
 			document.writeln('on error resume next');
-			document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))');
+			document.writeln('flashenabled = false');
+			document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))');
+			if (nRequiredVersion < 7) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))');
 			if (nRequiredVersion < 6) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))');
 			if (nRequiredVersion < 5) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))');
 			if (nRequiredVersion < 4) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))');
@@ -167,7 +184,8 @@ function testPlugins(nRequiredVersion) {
 		for(var i=0; i < navigator.plugins.length; i++) {
 			if (navigator.plugins[i].name == "Shockwave Flash") {
 				nPlayerVersion = parseInt(navigator.plugins[i].description.substring(navigator.plugins[i].description.indexOf(".")-1));
-				if (nPlayerVersion >= 6) flashenabled = true;
+				if (nPlayerVersion >= 7) flashenabled = true;
+				else if (nPlayerVersion >= 6 && nRequiredVersion < 7) flashenabled = true;
 				else if (nPlayerVersion >= 5 && nRequiredVersion < 6) flashenabled = true;
 				else if (nPlayerVersion >= 4 && nRequiredVersion < 5) flashenabled = true;
 				else if (nPlayerVersion >= 3 && nRequiredVersion < 4) flashenabled = true;
@@ -175,6 +193,7 @@ function testPlugins(nRequiredVersion) {
 			}
 		}
 	}
+
 	if (!flashenabled) {
 		if (choice(nRequiredVersion)) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
 	}
@@ -199,9 +218,9 @@ if ( flashenabled ) {
                       <td><img src="/images/both_locations.gif" width="358" height="14"></td>
                     </tr>
                   </tbody></table><table width="411" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="72" rowspan="2" bgcolor="#004274"><img src="/images/both_title_nowonair.gif" width="72" height="91"></td><td width="77" rowspan="2" valign="middle" bgcolor="#004274">
-<img src="http://images.radcity.net/5159/510503-s.gif" border="0" width="74" align="center" alt="Batchelor &amp; Alexander"><img src="/images/trans.gif" width="3" height="3"></td>
-<td height="59" bgcolor="#004274"><strong><a class="cgHostlink" href="/showdj.asp?DJID=9992">Batchelor &amp; Alexander</a><br><span class="gText1"></span><span class="cgHosttime">10:00PM - 12:00AM<br>
-<a class="cgHostemaillink" href="mailto:randall.bloomquist@abc.com">Send E-Mail</a></span></strong></td><td width="1" rowspan="2" bgcolor="#ffffff"><img src="/images/trans.gif" width="1" height="1"></td><td rowspan="2" align="left" valign="top" bgcolor="#c0d5e9"><table width="100" border="0" cellspacing="0" cellpadding="5"><tbody><tr><td align="left" valign="top"><font class="cgNextup">Next Up:</font><br><a class="cgHostlink1" href="/showdj.asp?DJID=9992">Batchelor &amp; Alexander</a><br>
+<img src="http://images.radcity.net/5159/584531-s.jpg" border="0" width="74" align="center" alt="The Michael Graham Show"><img src="/images/trans.gif" width="3" height="3"></td>
+<td height="59" bgcolor="#004274"><strong><a class="cgHostlink" href="/showdj.asp?DJID=2514">The Michael Graham Show</a><br><span class="gText1"></span><span class="cgHosttime">9:00AM - 11:45AM<br>
+<a class="cgHostemaillink" href="mailto:michaelgraham@630wmal.com">Send E-Mail</a></span></strong></td><td width="1" rowspan="2" bgcolor="#ffffff"><img src="/images/trans.gif" width="1" height="1"></td><td rowspan="2" align="left" valign="top" bgcolor="#c0d5e9"><table width="100" border="0" cellspacing="0" cellpadding="5"><tbody><tr><td align="left" valign="top"><font class="cgNextup">Next Up:</font><br><a class="cgHostlink1" href="/showdj.asp?DJID=1587">Paul Harvey</a><br>
 </td></tr></tbody></table></td></tr><tr><td colspan="3" height="32" align="left" valign="bottom"><a href="/listenlive.asp"><img src="/images/both_button_listenlive.gif" border="0" alt="Listen Live"></a></td></tr></tbody></table>
 
 <map name="llcsignup">
@@ -284,16 +303,16 @@ function navPass()
                     <table align="center" width="100" border="0" cellspacing="0" cellpadding="5" background="/images/trans.gif">
                       <tbody><tr>
                         <td background="/images/trans.gif"></td></tr><tr>
-<td align="center"><a target="_blank" href="/ad/click.asp?adID=7865&amp;adRunID=13947"><img src="http://images.radcity.net/5159/502053.gif" border="0" alt="www.wcsr.com"></a></td>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=11795&amp;adRunID=18552"><img src="http://images.radcity.net/5159/640236.gif" border="0" alt=""></a></td>
 </tr>
 <tr>
 <td align="center"><a target="_blank" href="/ad/click.asp?adID=8468&amp;adRunID=14750"><img src="http://images.radcity.net/ads/tiles/MortgageTile1.gif" border="0" alt="Mortgage Specialists"></a></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" href="/ad/click.asp?adID=8154&amp;adRunID=14340"><img src="http://images.radcity.net/5159/514595.gif" border="0" alt="Dodge.com"></a></td>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=12596&amp;adRunID=1876"><img src="http://images.radcity.net/ads/tiles/PSA_JusticeForChildren.gif" border="0" alt="Justice For Children"></a></td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" href="/ad/click.asp?adID=8677&amp;adRunID=14987"><img src="http://images.radcity.net/5159/536502.gif" border="0" alt="FitnessResource.com"></a></td>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=4482&amp;adRunID=1876"><img src="http://images.radcity.net/PublicService/adc_nul_read2_130x100_fmw.gif" border="0" alt="Read and Rise"></a></td>
 </tr>
 
                       
@@ -305,7 +324,7 @@ function navPass()
 				<div align="center"><table align="center" width="479" border="0" cellspacing="0" cellpadding="1">
                       <tbody><tr>
                         <td align="center">
-							<a target="_blank" href="/ad/click.asp?adID=4486&amp;adRunID=1879"><img src="http://images.radcity.net/PublicService/adc_pca_stove.gif" border="0" alt="Prevent Child Abuse"></a></td>
+							<a target="_blank" href="/ad/click.asp?adID=12891&amp;adRunID=19687"><img src="http://images.radcity.net/5159/674229.gif" border="0" alt=""></a></td>
                       </tr>
                     </tbody></table>
                    
@@ -345,7 +364,7 @@ function navPass()
                       <table border="0" cellpadding="0" cellspacing="0" width="479">
                         <tbody><tr> 
                           <td width="479" background="/images/both_pagebottom_menu_back.gif" valign="middle" align="center">
-                          <a href="/sendpage.asp"><img src="/images/both_menu_emailthispage_on.gif" border="0" alt="E-Mail this Page"></a>
+                          <a href="/sendpage.asp"><img src="/images/both_menu_emailthispage_on.gif" border="0" alt="E-Mail this Page" width="176" height="9"></a>
                           <!--<a href="javascript:MM_openBrWindow('')">--><a href="javascript:printpage()"><img src="/images/both_menu_printthispage_on.gif" height="9" border="0" alt="Print this Page"></a>
                           <a href="/onairnumbers.asp"><img src="/images/both_menu_onairnumbers_on.gif" height="9" border="0" alt="On Air Number"></a></td><td width="1" bgcolor="#000000"><img src="/images/trans.gif" width="1" height="20"></td>
                         </tr>
@@ -398,10 +417,12 @@ function testPlugins(nRequiredVersion) {
 		if (appVr.indexOf("3.1")!=-1){
 			flashenabled = false;
 		}
-		else if (windows) {  
+		else if (windows) {
 			document.writeln('<SC'+'RIPT LANGUAGE="VBScript">');
 			document.writeln('on error resume next');
-			document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))');
+			document.writeln('flashenabled = false');
+			document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))');
+			if (nRequiredVersion < 7) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))');
 			if (nRequiredVersion < 6) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))');
 			if (nRequiredVersion < 5) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))');
 			if (nRequiredVersion < 4) document.writeln('flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))');
@@ -416,7 +437,8 @@ function testPlugins(nRequiredVersion) {
 		for(var i=0; i < navigator.plugins.length; i++) {
 			if (navigator.plugins[i].name == "Shockwave Flash") {
 				nPlayerVersion = parseInt(navigator.plugins[i].description.substring(navigator.plugins[i].description.indexOf(".")-1));
-				if (nPlayerVersion >= 6) flashenabled = true;
+				if (nPlayerVersion >= 7) flashenabled = true;
+				else if (nPlayerVersion >= 6 && nRequiredVersion < 7) flashenabled = true;
 				else if (nPlayerVersion >= 5 && nRequiredVersion < 6) flashenabled = true;
 				else if (nPlayerVersion >= 4 && nRequiredVersion < 5) flashenabled = true;
 				else if (nPlayerVersion >= 3 && nRequiredVersion < 4) flashenabled = true;
@@ -424,6 +446,7 @@ function testPlugins(nRequiredVersion) {
 			}
 		}
 	}
+
 	if (!flashenabled) {
 		if (choice(nRequiredVersion)) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
 	}
@@ -470,12 +493,12 @@ if ( flashenabled ) {
 <td colspan="3"><img src="/images/both_title_News.gif"></td>
 </tr><tr><td width="5" bgcolor="#000000"><img src="/images/trans.gif" width="5" height="5"></td>
 <td width="118" bgcolor="#000000" valign="center"><img src="/images/trans.gif" width="118" height="5"><br>
-<table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/newsandinfo.asp" target="_top">News &amp; Info</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/traffic.asp" target="_top">Traffic</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/weather.asp" target="_top">Weather</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/commuterforecast.asp" target="_top">Commuter Forecast</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/wmalbusinessreport.asp" target="_top">The WOMBLE CARLYLE Business Report</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/goout.asp?u=http://www.abcnews.go.com/sections/business" target="_top">Your Money</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/630wmalsports.asp" target="_top">630 WMAL Sports</a></font></td></tr></tbody></table><img src="/images/trans.gif" width="5" height="5"></td><td valign="top" align="right" width="5"><img src="/images/trans.gif" width="5" height="5"></td></tr></tbody></table></div>
+<table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/newsandinfo.asp" target="_top">News &amp; Info</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/traffic.asp" target="_top">Traffic</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/weather.asp" target="_top">Weather</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/commuterforecast.asp" target="_top">Commuter Forecast</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/goout.asp?u=http://www.wsj.com" target="_top">The Wall Street Journal Report</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/goout.asp?u=http://www.abcnews.go.com/sections/business" target="_top">Your Money</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/630wmalsports.asp" target="_top">630 WMAL Sports</a></font></td></tr></tbody></table><img src="/images/trans.gif" width="5" height="5"></td><td valign="top" align="right" width="5"><img src="/images/trans.gif" width="5" height="5"></td></tr></tbody></table></div>
 <div align="right"><a href="/marylandterrapins.asp"><img src="/images/terrapins.gif" border="0"></a><br><table cellpadding="0" cellspacing="0" border="0" width="128" background="/images/trans.gif"><tbody><tr>
 <td colspan="3"><img src="/images/both_title_Features.gif"></td>
 </tr><tr><td rowspan="2" background="/images/both_right_back.gif" width="5"><img src="/images/trans.gif" width="5" height="5"></td>
 <td rowspan="2" background="/images/both_right_back.gif" width="118"><img src="/images/trans.gif" width="118" height="5"><br>
-<table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/630wmaladvertisers.asp" target="_top">630 WMAL Advertisers</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/coupons.asp" target="_top">Advertisers and Coupons</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/listingsEntry.asp?ID=114536&amp;PT=America's%20Most%20Wanted" target="_top">America's Most Wanted</a></font></td></tr></tbody></table><img src="/images/trans.gif" width="5" height="5"></td>
+<table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/wmalbusinessreport.asp" target="_top">The WOMBLE CARLYLE Business Report</a></font></td></tr></tbody></table><img src="/images/trans.gif" width="5" height="5"></td>
 <td background="/images/both_right_back.gif" valign="top" align="right" width="5"><img src="/images/trans.gif" width="5" height="5"></td></tr><tr>
 <td background="/images/both_right_back.gif" valign="bottom" align="right" width="5"><img src="/images/trans.gif" width="5" height="5"></td>
 </tr></tbody></table></div>
@@ -488,7 +511,7 @@ if ( flashenabled ) {
 <td colspan="3"><img src="/images/both_title_ListenerServices.gif"></td>
 </tr><tr><td rowspan="2" background="/images/both_right_back.gif" width="5"><img src="/images/trans.gif" width="5" height="5"></td>
 <td rowspan="2" background="/images/both_right_back.gif" width="118"><img src="/images/trans.gif" width="118" height="5"><br>
-<table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/advertiseon630wmal.asp" target="_top">Advertise on<br>630 WMAL</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/contactus.asp" target="_top">Contact Us</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/faqs.asp" target="_top">FAQ's</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/goout.asp?u=http://www.wmalfreemail.com/" target="_top">Free E-Mail</a></font></td></tr></tbody></table><img src="/images/trans.gif" width="5" height="5"></td>
+<table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/630wmaladvertisers.asp" target="_top">630 WMAL Advertisers</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/coupons.asp" target="_top">Coupons</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/advertiseon630wmal.asp" target="_top">Advertise on<br>630 WMAL</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/contactus.asp" target="_top">Contact Us</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/faqs.asp" target="_top">FAQ's</a></font></td></tr></tbody></table><table cellpadding="1" cellspacing="0" border="0" width="118"><tbody><tr><td><font class="gNavText"><a class="gNavText" href="/goout.asp?u=http://www.wmalfreemail.com/" target="_top">Free E-Mail</a></font></td></tr></tbody></table><img src="/images/trans.gif" width="5" height="5"></td>
 <td background="/images/both_right_back.gif" valign="top" align="right" width="5"><img src="/images/trans.gif" width="5" height="5"></td></tr><tr>
 <td background="/images/both_right_back.gif" valign="bottom" align="right" width="5"><img src="/images/trans.gif" width="5" height="5"></td>
 </tr></tbody></table></div>
@@ -542,18 +565,14 @@ Traffic</option>
 Weather</option>
 <option value="/commuterforecast.asp">
 Commuter Forecast</option>
-<option value="/wmalbusinessreport.asp">
-The WOMBLE CARLYLE Business Report</option>
+<option value="/goout.asp?u=http://www.wsj.com">
+The Wall Street Journal Report</option>
 <option value="/goout.asp?u=http://www.abcnews.go.com/sections/business">
 Your Money</option>
 <option value="/630wmalsports.asp">
 630 WMAL Sports</option>
-<option value="/630wmaladvertisers.asp">
-630 WMAL Advertisers</option>
-<option value="/coupons.asp">
-Advertisers and Coupons</option>
-<option value="/listingsEntry.asp?ID=114536&amp;PT=America's%20Most%20Wanted">
-America's Most Wanted</option>
+<option value="/wmalbusinessreport.asp">
+The WOMBLE CARLYLE Business Report</option>
 <option value="/contests.asp">
 Contests</option>
 <option value="/artsentertainment.asp">
@@ -564,6 +583,10 @@ Arts and Entertainment</option>
 630 WMAL Scrapbook</option>
 <option value="/community.asp">
 Community</option>
+<option value="/630wmaladvertisers.asp">
+630 WMAL Advertisers</option>
+<option value="/coupons.asp">
+Coupons</option>
 <option value="/advertiseon630wmal.asp">
 Advertise on630 WMAL</option>
 <option value="/contactus.asp">
@@ -576,13 +599,13 @@ Free E-Mail</option><option value="/aboutthiswebsite.asp">About This Site</optio
                             </tbody></table>
                           </div></td>
                         <td bgcolor="#ffffff" align="center" width="33%"><a href="/default.asp"><img src="/images/both_logo_bottom.gif" width="271" height="28" alt="Home" border="0"></a></td>
-                        <td bgcolor="#ffffff" align="right" width="33%"><a href="/goout.asp?u=http://www.abcnews.com"><img src="/images/both_abc_logo.gif" width="29" height="28" alt="abc_logo" border="0"></a></td>
+                       	<td bgcolor="#ffffff" align="right" width="40%"><a target="_blank" href="http://www.mix1073fm.com"><img src="/images/mix.gif" width="96" height="28" border="0" alt="Mix 107.3"></a><img src="/images/trans.gif" width="5" height="5"><a target="_blank" href="http://www.smoothjazz1059.com"><img src="/images/smoothjazz.gif" width="104" height="28" border="0" alt="Smooth Jazz 105.9"></a><img src="/images/trans.gif" width="5" height="5"><a href="/goout.asp?u=http://www.abcnews.com"><img src="/images/both_abc_logo.gif" width="29" height="28" border="0" alt="ABC News"></a></td>
                       </tr>
                     </tbody></table>
                   </div></td>
               </tr>
               <tr> 
-                <td align="center"><p><img src="/images/trans.gif" width="10" height="10"><br><font class="gCopyright">Copyright © 2003 WMAL-ABC Radio and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a><br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=wmal.com">Powered by First MediaWorks</a></font><script language="Javascript">
+                <td align="center"><p><img src="/images/trans.gif" width="10" height="10"><br><font class="gCopyright">Copyright © 2004 WMAL-ABC Radio and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a><br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=wmal.com">Powered by First MediaWorks</a></font><script language="Javascript">
 <!--
 function displayNotice()
 {
