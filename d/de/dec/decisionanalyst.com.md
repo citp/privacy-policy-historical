@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623153744id_/http%3A//decisionanalyst.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402140212id_/http%3A//www.decisionanalyst.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ We believe that consumers have an inalienable right to privacy. We protect your 
 We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us. 
 
 Who We Are  
-The site [www.DecisionAnalyst.com](https://web.archive.org/web/20030623153744id_/http%3A//decisionanalyst.com/index.asp) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20030623153744id_/http%3A//decisionanalyst.com/index.asp).  Tell me more.
+The site [www.DecisionAnalyst.com](https://web.archive.org/web/20040402140212id_/http%3A//www.decisionanalyst.com/index.asp) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20040402140212id_/http%3A//www.decisionanalyst.com/index.asp).  Tell me more.
 
   
 We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our Stats™ Statistical Software.  Tell me more.
@@ -27,7 +27,7 @@ We use the information you provide us to measure our advertising efforts. Tell m
 We don't share any information that personally identifies you with any business, client, or business partner. Decision Analyst does not sell or rent your personal information to anyone.  Tell me more.
 
   
-We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20030623153744id_/http%3A//decisionanalyst.com/index.asp) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion™ website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20030623153744id_/http%3A//decisionanalyst.com/index.asp). We do collect information in our log files.  Tell me more.
+We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20040402140212id_/http%3A//www.decisionanalyst.com/index.asp) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20040402140212id_/http%3A//www.decisionanalyst.com/index.asp). We do collect information in our log files.  Tell me more.
 
   
 The www.decisionanalyst.com website contains links to other websites whose privacy policies may differ from ours.  Tell me more.
@@ -66,7 +66,7 @@ We do not share your personal information with any third parties–no client, no
 
 Back to top
 
-  * "Cookies" are pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies are used by thousands of websites to make your life as a web user much easier. Cookies are not used on our corporate website; however, there are occasions where we may use cookies for American Consumer Opinion™ website. For example in the Affiliate Program, we may use cookies to track registrations back to any affiliate site that may have referred American Consumer Opinion™ panel members, and we may use cookies to track other advertising efforts for American Consumer Opinion™. Some of this tracking is routed through the [www.decisionanalyst.com](http://www.decisionanalyst.com/) website.
+  * "Cookies" are pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies are used by thousands of websites to make your life as a web user much easier. Cookies are not used on our corporate website; however, there are occasions where we may use cookies for American Consumer Opinion® website. For example in the Affiliate Program, we may use cookies to track registrations back to any affiliate site that may have referred American Consumer Opinion® panel members, and we may use cookies to track other advertising efforts for American Consumer Opinion®. Some of this tracking is routed through the [www.decisionanalyst.com](http://www.decisionanalyst.com/) website.
   
 
   * Like many website servers we gather information in our log files. Information gathered in log files includes Internet protocol (IP) address, browser type, Internet service provider (ISP), referring and exit pages, platform type, date and time stamp, and number of clicks while onsite.
