@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2002-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020203035507id_/http%3A//www.cinemanow.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemanow.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209154250id_/http%3A//www.cinemanow.com/about/privacy.asp) for the most accurate reproduction.*
 
 # CinemaNow | Privacy Statement
 
