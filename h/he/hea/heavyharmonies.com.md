@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602032334id_/http%3A//heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyharmonies.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207184718id_/http%3A//www.heavyharmonies.com/cgi-bin/privacy.cgi) for the most accurate reproduction.*
 
 # Heavy Harmonies - Privacy Statement
 
+**_Nov. 18, 2003_ \- Ratings option turned back on for all site visitors. Be forewarned, if you abuse the disc ratings function, I can and will disable the ability to rate the CD. **  
+---  
+**_Nov. 10, 2003_ \- In response to action by BMI/RIAA, all audio has been removed from the site. This includes the "Song of the Week", which will not be returning. If you represent a band that wishes to have their audio clips played here, that's fine, however I will need explicit permission in writing, as well as written waiver of any BMI/ASCAP/SOCAN performance royalties. -Dan**  
   
 
 
