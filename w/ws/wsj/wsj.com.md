@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the wsj.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202205746id_/http%3A//online.wsj.com/public/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsj.com privacy policy that was archived on 2004-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040112234601id_/http%3A//online.wsj.com/public/privacy_policy) for the most accurate reproduction.*
 
 # WSJ.com - Privacy Policy
 
   |  Privacy Policy **General**  
-Dow Jones & Company, Inc., publisher of WSJ.com, and its affiliates (hereafter referred to collectively as "Dow Jones") are committed to maintaining the privacy of personal information that you provide to us when using WSJ.com and Barrons.com (hereafter referred to collectively as "WSJ.com"). This Privacy Policy describes how we treat personal information received about you when you visit WSJ.com. 
+Dow Jones & Company, Inc., publisher of The Wall Street Journal Online, and its affiliates (hereafter referred to collectively as "Dow Jones") are committed to maintaining the privacy of personal information that you provide to us when using WSJ.com and Barrons.com (hereafter referred to collectively as "WSJ.com"). This Privacy Policy describes how we treat personal information received about you when you visit or subscribe to WSJ.com.. 
 
 We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on WSJ.com. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy. 
 
@@ -23,6 +23,7 @@ We may use information in the following ways:
   * To enhance existing features or develop new features, products and services. 
   * To provide advertisers and other third parties with aggregate information about our user base and usage patterns. 
   * To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences. 
+  * We may share parts of your information that we have collected from you to ensure that you do not receive duplicate product service announcements and/or offers. 
 
 We may combine the information that we collect from you on this Web site with information that you provide to us in connection with your use of our other products, services and Web sites. 
 
@@ -38,7 +39,7 @@ We may disclose and use personally identifiable information in special circumsta
 Our Discussions section provides you with an opportunity to tell us what you think and read what other readers have to say. When you use our Discussions features (for example, by posting a message on our Discussions message boards, responding to our Question of the Day or by participating in our E-mail Express Yourself forum), we may make public any information that you provide including your name, location and e-mail address. 
 
 **Your Ability to Choose**  
-When you subscribe to WSJ.com, you can let us know that you do not wish to receive information about new features and special offers by opting out at the time you give us your personally identifiable information or by contacting us at <http://online.wsj.com/acct/my_account>. 
+When you subscribe to WSJ.com, you can let us know that you do not wish to receive information about new features and special offers by opting out at the time you give us your personally identifiable information. You may also opt out of receiving such information by visiting our [E-Mail Setup Center](http://online.wsj.com/user-cgi-bin/searchUser.pl?action=emailalert). 
 
 **Cookies**  
 We employ cookie technology to help visitors and subscribers move faster through our site. When you sign on to our Web site or take advantage of several key features, we may pass cookies to your computer. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory. Read our [Cookie Disclosure Statement ](http://online.wsj.com/public/cookie_disclosure) for more information on our use of cookies. 
@@ -50,10 +51,10 @@ When you view an ad for WSJ.com on other sites, our third party advertising comp
 The personally identifiable information we collect about you is stored in limited access servers. We will maintain safeguards to protect the security of these servers and your personally identifiable information. 
 
 **Review and Correction**  
-You may review and update the personally identifiable information/registration information that you have provided to us by contacting us at <http://online.wsj.com/acct/my_account>. 
+You may review and update the personally identifiable information/registration information that you have provided by going to the [Billing Information Page](https://online.wsj.com/acct/personal) or contacting Customer Service at [**onlinejournal@wsj.com**](mailto:onlinejournal@wsj.com). 
 
 **E-mail by Topic**  
-Currently, you may subscribe to our E-mail by Topic service at <http://wsj.com/email> without also subscribing to WSJ.com. The only personally identifiable information that we collect in connection with the E-mail by Topic service is your e-mail address. If you want to update or change the e-mail address that you use to receive this e-mail service, you must unsubscribe and then re-subscribe with your new e-mail address. We may also include Web beacons (invisible images often referred to as pixel tags or clear GIFs) in our e-mail messages in order to count how many e-mail messages have been opened. 
+Currently, you may subscribe to our [E-mail by Topic service](http://preferencecenter.opt-in-mail.net/wallstreet/WSJ_PrefCtr.asp?Origin=ol) without also subscribing to WSJ.com. The only personally identifiable information that we collect in connection with the E-mail by Topic service is your e-mail address. From time to time, we may send E-Mail by Topic subscribers information about WSJ.com features and special offers. You may opt out of receiving such information by visiting the E-Mail by Topic page. If you subscribe to WSJ.com and [E-Mail by Topic](http://preferencecenter.opt-in-mail.net/wallstreet/WSJ_PrefCtr.asp?Origin=ol) and use two different e-mail addresses, in order to avoid receiving such information, you must opt out at both our WSJ.com [E-Mail Setup Center](http://online.wsj.com/user-cgi-bin/searchUser.pl?action=emailalert) and our [E-Mail by Topic page](http://preferencecenter.opt-in-mail.net/wallstreet/WSJ_PrefCtr.asp?Origin=ol). We may include Web beacons (invisible images often referred to as pixel tags or clear GIFs) in our e-mail messages in order to count how many e-mail messages have been opened. 
 
 **Policy Modifications**  
 We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. 
@@ -62,6 +63,6 @@ We may change this Privacy Policy from time to time. We will post any changes he
 If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By subscribing to WSJ.com, you consent to this transfer. 
 
 **Comments and Questions**  
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [**info@interactive.wsj.com**](mailto:info@interactive.wsj.com). 
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [**onlinejournal@wsj.com**](mailto:onlinejournal@wsj.com). 
 
-This policy was last updated on Nov. 8, 2001. ****Copyright © 2002    Dow Jones & Company, Inc.    All Rights Reserved****
+This policy was last updated on March 28, 2003. ****Copyright © 2004    Dow Jones & Company, Inc.    All Rights Reserved****
