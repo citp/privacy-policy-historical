@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christiansonline.com.au privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211161934id_/http%3A//www.christiansonline.com.au/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiansonline.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603093553id_/http%3A//www.christiansonline.com.au/content/privacy.asp) for the most accurate reproduction.*
 
-# Christian web site offering online singles, music and bible.
+# Privacy Policy - Christians Online - Australia's Christian Community
 
 **ChristiansOnline.com.au** was founded on the idea that Australia needed an online Christian Community, to bring together people with a common belief to pray for world issues, make new Christian friends and find anything you may need as a Christian person. We understand that your right to privacy is of the utmost importance. To that end, we are committed to the protection of your personal information. Any information we collect from you is used only to fulfil your needs. Our privacy policy appears below in detail. Please note by visiting ChristiansOnline.com.au, you are accepting the practices described in this Privacy Policy. 
 
