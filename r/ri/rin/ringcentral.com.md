@@ -1,48 +1,87 @@
-> *The following text is extracted and transformed from the ringcentral.com privacy policy that was archived on 2003-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030715231302id_/http%3A//www.ringcentral.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringcentral.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604235821id_/http%3A//www.ringcentral.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# RingCentral: Privacy Statement
+# RINGCENTRAL SERVICE PRIVACY POLICY
 
-RingCentral, Inc. understands your desire to protect personal information. We intend to inform you of how your personal information is gathered, tracked and used. RingCentral, Inc. is firmly committed to protecting the privacy rights of our customers. RingCentral believes that a strong guarantee of privacy is essential to the success of its service and to your ongoing patronage, as well as to the overall health of the Internet.
+We realize how important it is to you to understand what happens to your Personal Information when you use our RingCentral service. RingCentral is committed to protecting the privacy of data that you, the user ("you"), submit to this website or to websites under the operation and control of RingCentral (as indicated by your ability to access such websites via hyperlinks on [www.ringcentral.com](http://www.ringcentral.com/)). To demonstrate this commitment, RingCentral has adopted this privacy policy ("Privacy Policy"). Our policy is based on the principles of notice/awareness, choice/consent, access/participation, and integrity/security in the collection and use of all information regarding our users and their activities at the [www.ringcentral.com](http://www.ringcentral.com/) website and such other websites as are directly accessible via hyperlink (collectively "Website"). Please review this policy each time you use the Website, as it is subject to change at any time with or without notice by RingCentral. Whether or not RingCentral places notice on the Website indicating that this Privacy Policy has been modified, it is your obligation to review the Privacy Policy from time to time. By accessing the Website, you are indicating your agreement to this Privacy Policy. Any changes to the Privacy Policy will be effective immediately upon posting to the Website.
 
-**What Information We Track & Gather **
+_**Notice of Privacy Policy**_
 
-We may request personal information including but not limited to your name, address, email address, birth date, gender and phone number when you place an order, register a product, request a service, answer a survey, correspond with us or engage in other activities on our website. You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, you may choose to do so, although, you may not be able to complete the transaction.
+This Privacy Policy explains the collection, use, and disclosure of your information in connection with the capability to receive and respond to incoming phone calls and faxes while connected to the Internet, receive, store and access voice messages and faxes, and place calls or faxes (collectively the "Service").
 
-We may also set and access [cookies](http://support.microsoft.com/default.aspx?scid=kb;EN-US;q260971) on your computer to identify repeat website visitors.
+This Privacy Policy supplements and is incorporated into the RingCentral Terms of Use Agreement (currently available on the Website at <http://www.ringcentral.com/tou.asp>), and you agree to be bound by its terms and conditions. RingCentral reserves the right to modify this Privacy Policy at any time by posting the amended version on the Website. By continuing to use the Service, you agree to the terms of the then-current version of this Privacy Policy. If at any time you do not agree to the terms of this Privacy Policy, you must discontinue using the Service. If you have any questions about this Privacy Policy, please contact RingCentral at <http://www.ringcentral.com/contact.asp>.
 
-**How We Use the Information We Track & Gather**
+Information that may be collected based on your use of the Service includes Personal Information and Non-Personal Information. "Personal Information" is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number, or email address, as well as information that is associated with or linked to such contact information. "Non-Personal Information" is information that is not associated with or linked to the individually identifying contact information of a specific person including without limitation information about your use of the Service, also referred to as "Usage Data". "Aggregate Data" is the combined information collected from all of the users of the Service, or from subgroups of our users, which does not contain any individually identifying contact information. In other words, Aggregate Data is never connected to you individually.
 
-We may use personally identifiable information in the following ways:
+**1\. What Types of Information Is Collected and Why?**
 
-_Cookies may be used_
+**Personal Information.** You provide certain Personal Information to RingCentral when you: (a) register and sign up for the Service, (b) log into your account with the Service, or (c) use the Service, submit forms, or send other information to RingCentral.
 
-  * To identify repeat website visitors to enhance your website experience, and to provide you with specific information or offers.
+RingCentral may also receive Personal Information about you from other users, our partners, or third parties, who may communicate information to RingCentral about you.
 
+**Non-Personal Information.** RingCentral collects Non-Personal Information as well. RingCentral's software and servers also automatically collect Usage Information, which includes, but is not limited to, your frequency and duration of interaction with the Service.
 
+**Information collected by Cookies.** RingCentral may also make use of website "cookies" to help you use the Service more easily and to help RingCentral continuously improve the Website and the value of the Service to you. A "cookie" is a small data file that a website can send to your browser, which may then be stored on your hard drive to help that website "remember" information about you when you return to that website, such as the specific web pages you previously visited. RingCentral's cookies do not read data off of your hard drive, read cookie files created by other websites, or track any personal information about you. RingCentral's cookies do monitor Website usage, including the collection of IP addresses of visitors to the Website. RingCentral does not, however, collect any Personal Information with cookies. You may have the option of setting your browser to reject cookies; however, doing so may negatively impact the performance of the Website or restrict RingCentral in effectively serving your needs and interests. The "Help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. The Personal Information and Non-Personal Information allows RingCentral to efficiently and properly serve you, and to contact you should the need arise in order to respond appropriately to your requests.
 
-_Personal information may be used_
+**Information collected by Overture.** We have contracted with Overture services, Inc. ("Overture") to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred to Overture. For more information about how the information collected by Overture is used, please see Overture's privacy policy at <http://www.overture.com/d/USm/about/company/ccprivacypolicy.jhtml>.
 
-  * To provide you with notices of product upgrades, new products, services, newsletters, research on future product ideas and improvements, special offers, announcements and third party offers or information.
-  * To assist us in creating better products and services to meet your needs.
-  * To allow you to purchase and download products, obtain access to services or otherwise engage in activities you select.
-  * To help you quickly find services or product information important to you.
+**2\. Who Collects Information About You?**
 
+RingCentral operates the Service and collects Personal Information as explained in this Privacy Policy. You may contact RingCentral by mail at
 
+RingCentral Inc., P.O. Box 399, Belmont, CA 94002-0399, USA
 
-**With Whom We May Share Your Information**
+or by Internet at <http://www.ringcentral.com/contact.asp>. RingCentral collects information when you register, use the Service, and respond to promotions that RingCentral may offer from time to time.
 
-From time to time, we may provide your information to selected business partners or third party vendors to communicate to you information about products or services that they believe are important to you or your business. In addition, RingCentral Inc. retains the services of outside contractors to provide services for us. They may be used to ship products, provide technical support, or handle order processing. We require that these contractors keep the personal information of customers secure and confidential. We also require that these contractors use personal information only on behalf of RingCentral Inc.. Finally, RingCentral Inc. may transfer your information to a buyer of the company, its assets, or its relevant division or line of business.
+Advertisers may also collect Non-Personal Information about you. The information they collect might include the type of ad displayed, the times the banner was displayed, and the effectiveness of the banner ad. This information may be collected by using one or more cookies that are stored on your hard drive as described above.
 
-**Changes to this Privacy Policy**
+In addition, while using the Service, you may disclose information to parties other than RingCentral. For example, you may receive offers, promotions, and advertisements that originate from third parties; when you respond to these offers, promotions, or advertisements, third parties may collect information about your activities. The information practices of those third parties are not covered by this Privacy Policy.
 
-RingCentral Inc. may update this policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your RingCentral account or by placing a prominent notice on our site. If at any time you choose not to accept our privacy policy you can opt-out of our list.
+**3\. How May RingCentral Use Your Personal Information?**
 
-**Opt-out**
+RingCentral may use your Personal Information to improve the quality of the Service and to boost the relevance of the offering delivered to you. RingCentral uses your Non-Personal Information to provide you with content (such as offers, advertisements, voicemails, and other promotions) that RingCentral believes will be of interest to you. RingCentral will retain information collected on a secure server so that on re-visiting the Website, your access can be more easily expedited. RingCentral may use this information in an aggregated form to measure number of visits, average time spent on the Website, pages viewed, and other related statistics. RingCentral collects this information to measure the use of the Website and to improve the content of the Website. RingCentral uses your personally identifying information to identify you as a user of the Website and to assist and speed the completion of transactions through the Website. RingCentral may use your email address to contact you directly regarding services or products that RingCentral believes may be of interest to you. RingCentral may also use information collected about your preferences and activities on the Website, such as the particular pages you visit on the Website, your history of purchases, and/or other transactions that you effect through the Website. RingCentral may vary the content you receive in future visits to the Website based on your past preferences and activities.
 
-RingCentral Inc. provides a number of ways for you to 'opt-out' of receiving additional information from us or having us provide your personal information to our partners or affiliates. We may offer you these choices at the time you give us your information.
+RingCentral uses Usage Data to maintain and improve the Service. RingCentral also uses Usage Data to do such things as operate and enhance the Service and negotiate with vendors and advertisers.
 
-If you do not wish to continue receiving our e-mail communications you can opt-out of receiving these communications by sending e-mail to [remove@ringcentral.com](mailto:remove@ringcentral.com).
+**4\. Disclosure of Your Information**
 
-**Who to contact if you have questions about our Privacy Policy**
+By using the Service, you consent to RingCentral's disclosure of your information to RingCentral's partners. Other than disclosure of your Personal Information to RingCentral's partners, RingCentral will never disclose any of your Personal Information except when given your permission or under special circumstances, such as when RingCentral believes in good faith that the law requires it or under the circumstances described below.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with RingCentral, Inc., you can send e-mail to [privacy@ringcentral.com](mailto:privacy@ringcentral.com).
+RingCentral may disclose Aggregate Data. RingCentral may also share your responses to questions, advertiser-sponsored promotions, etc. with advertisers or marketers. RingCentral may combine statistical results concerning the usage of the Website to prepare collective profiles of users' activities for RingCentral's internal use. For example, RingCentral may track the number of RingCentral users who view certain pages or use certain features of the Website. Such information, and other information RingCentral derives from individual users' information allows RingCentral to continue to grow and to provide you with high-quality information and service.
+
+Due to legal rules beyond RingCentral's control, RingCentral cannot fully ensure that your private communications and other Personal Information will not be disclosed to other third parties. For example, if RingCentral needs to investigate or resolve possible problems or inquiries, or if RingCentral receives a subpoena requesting information about you or communications by or to you, RingCentral can, and you authorize RingCentral to (without any opportunity by you to challenge the validity of the request or the subpoena), disclose any information about you to law enforcement or other government officials or the party serving the subpoena as RingCentral believes necessary or appropriate.
+
+**
+
+5\. Privacy Protections for Children
+
+**
+
+RingCentral feels very strongly about protecting the privacy of children and encourages children to involve their parents in any online activities in which they participate. In order to protect the privacy of younger Internet users, children under the age of 18 are prohibited from registering for the Service.
+
+**6\. Choices You Have Regarding the Collection, Use, and Disclosure of Your Personal Information**
+
+You can limit the collection and use of different elements of your Personal Information by not participating in those activities for which RingCentral collects Personal Information. You may opt out at any time.
+
+You may also choose to discontinue the collection of your Personal Information by discontinuing your use of the Service.
+
+**7\. Accuracy and Access**
+
+Certain areas of the Website may restrict access to specific individuals through the use of passwords and through providing personal data. RingCentral strives to keep your personally identifiable information accurate. RingCentral will provide you with access to your information, including online access to your registration data so that you may view, update or correct your information on the Website. To protect your privacy and security, RingCentral will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. Any links to third-party web sites on the Website are provided solely as a convenience to you. If you use these links, you will leave the RingCentral site. RingCentral has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content, or their privacy policies. Thus, RingCentral does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to the Website, you do so at your own risk.
+
+**
+
+8\. RingCentral Security Procedures
+
+**
+
+Please keep in mind that no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while RingCentral strives to protect your Personal Information, RingCentral cannot ensure or warrant the security of any information you transmit to RingCentral or from the Service, and you do so at your own risk. Once RingCentral receives your transmission, RingCentral exerts best effort to ensure its security on RingCentral's systems by implementing industry-standard security measures.
+
+RingCentral may amend this Privacy Policy at any time by posting the amended Privacy Policy at the Website. RingCentral encourages you to investigate and ask questions about disclosing any information to third parties; this is a good practice to follow in all of your online activities.
+
+**
+
+_General_
+
+**
+
+This Privacy Policy is governed by the internal substantive laws of the State of California in the United States, without regard to its conflict of laws principles. Jurisdiction for any claims arising under or out of this Privacy Policy shall lie exclusively with the state and federal courts within the State of California. If any provision of this Privacy Policy is found to be invalid by a court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Privacy Policy, which shall remain in full force and effect. Under no circumstances shall RingCentral have any liability whatsoever for any consequential, incidental, indirect or special damages arising out of the breach of this Privacy Policy, however occasioned.
