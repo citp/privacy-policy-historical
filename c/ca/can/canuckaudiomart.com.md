@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601113734id_/http%3A//www.canuckaudiomart.com/cgi-bin/classifieds/classifieds.cgi%3Fprint_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202144621id_/http%3A//www.canuckaudiomart.com/cgi-bin/classifieds/classifieds.cgi%3Fprint_privacy_page%3Don) for the most accurate reproduction.*
 
 # Canuck Audio Mart Privacy Statement
 
@@ -139,8 +139,10 @@ Back to Top
 * * *
 
   
-**PRIVATE CLASSIFIED ADS ONLY**  
-  
+**DEALER ADS WELCOME -** ** WITH CONDITIONS**  
+Canuck Audio Mart now accepts Dealer Ads for Dealers who are paying advertisers on Canuck Audio Mart.   
+[Contact us for Advertising if you are interested. Thanks.](http://www.canuckaudiomart.com/advertising.html)
+
 **[Terms of Use](http://www.canuckaudiomart.com/cgi-bin/classifieds/classifieds.cgi?print_terms_page=on) | [Privacy Statement](http://www.canuckaudiomart.com/cgi-bin/classifieds/classifieds.cgi?print_privacy_page=on)  
 _Content copyright © 2000 - 2003[Abstract Solutions](http://www.canuckaudiomart.com/). All rights reserved.  
 Please send your questions, comments, or bug reports to the [Webmaster](mailto:webmaster@canuckaudiomart.com)._**   
