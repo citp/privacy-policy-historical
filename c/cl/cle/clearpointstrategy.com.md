@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearpointstrategy.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212014052id_/http%3A//clearpointstrategies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearpointstrategy.com privacy policy that was archived on 2005-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050313012202id_/http%3A//clearpointstrategies.com/privacy.html) for the most accurate reproduction.*
 
 # Clear Point Strategies: Privacy Statement
 
