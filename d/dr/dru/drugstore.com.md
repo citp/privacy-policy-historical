@@ -1,43 +1,7 @@
-> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207154301id_/http%3A//www.drugstore.com/cat/11867/tmpl/default.asp%3Fcatid%3D15729) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404044305id_/http%3A//www.drugstore.com/cat/11867/tmpl/default.asp%3Fcatid%3D15729) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-| **ways to shop**  
----  
-• | [shop by brand](https://web.archive.org/templates/brand/sbb.asp)  
-• | [your list™](https://web.archive.org/list.asp?catid=10782&trx=2306)  
-• | [your store](https://web.archive.org/yourstore/default.asp?catid=50&trx=28618)  
-• | [gift guide](https://web.archive.org/templates/browse/default.asp?catid=13888&trx=28105)  
-• | [international shipping](https://web.archive.org/templates/stackdept/default.asp?catid=48001&trx=29144)  
-  
-  
-| |   
----|---|---  
-  **your shopping bag**    
-| |   
-| |   
----|---|---  
-| |   
-  
-[view details](https://web.archive.org/cart.asp?trx=2307) |[](https://web.archive.org/checkout/place_order.asp?trx=2308)  
-  
-  
-**health guide**  
----  
-• | [vitamin guide index](https://web.archive.org/templates/hnotes/default.asp?catid=42374&trx=HN-IN&trxp1=0&trxp2=49461&trxp3=2&trxp4=42374)  
-• | [herbal remedies index](https://web.archive.org/templates/hnotes/default.asp?catid=42330&trx=HN-IN&trxp1=0&trxp2=49461&trxp3=2&trxp4=42330)  
-• | [women's health index](https://web.archive.org/templates/hnotes/default.asp?catid=42384&trx=HN-IN&trxp1=0&trxp2=49461&trxp3=2&trxp4=42384)  
-• | [weight management](https://web.archive.org/templates/hnotes/default.asp?catid=42381&trx=HN-IN&trxp1=0&trxp2=49461&trxp3=2&trxp4=42381)  
-• | [health guide](https://web.archive.org/templates/notcoldept/default.asp?catid=9248&trx=HN-IN&trxp1=0&trxp2=49461&trxp3=2&trxp4=9248)  
-  
-
-
-|    
-| **Privacy Policy**  
- **back to:**[ **home**](https://web.archive.org/default.asp?catid=60)  
----  
- **TRUSTe Licensee**  
 [](https://www.truste.org/ivalidate.php?url=www.drugstore.com) drugstore.com, inc. is licensed by the TRUSTe Privacy Program. This statement discloses the privacy practices for the drugstore.com™ Web site (including the Beauty.com™ Web store). When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of the following: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and how you can correct any inaccuracies in the information.
 
 Questions regarding this privacy policy should be directed to [privacy@drugstore.com](mailto:privacy@drugstore.com). If we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe (<http://www.truste.org/consumers/watchdog_complaint.php>).
@@ -56,10 +20,11 @@ We protect all of your information against unauthorized access or release. We sh
 
   *  **GNC** \- Because we sell and accept GNC Gold Cards on behalf of GNC, when you purchase a GNC Gold Card from the drugstore.com™ Web store, we share your name, address, phone number, gender, and birth month and year with GNC. At your direction, we also share your e-mail address. When you use your GNC Gold Card to purchase GNC products at the drugstore.com™ Web store, we share with GNC a list of the products you purchased in the GNC Live Well store. We do not share with GNC information about products that you purchase outside of the GNC Live Well store.
   *  **Rite Aid** \- The drugstore.com™ pharmacy serves as the on-line pharmacy for Rite Aid Corporation, a chain pharmacy with approximately 3,800 store locations throughout the United States. We entered into the relationship to serve as the online pharmacy for Rite Aid because we believe that the relationship allows us to provide better services to our customers. If you are filling an original prescription through the drugstore.com™ pharmacy for the first time, the prescription will be mailed to you. Because of our relationship with Rite Aid, when you place your Rite Aid or drugstore.com™ refill prescription order at the drugstore.com™ pharmacy, you may choose to have the prescription mailed to you or available for pickup at a Rite Aid store convenient to you. From time to time it may be more efficient for the drugstore.com™ pharmacy to fill a prescription ordered on our Web site through Rite Aid's central pharmacy (e.g., to meet short-term shortages of drug product availability, or to allow insurance coverage). If you have chosen to pick up your prescription at a Rite Aid store or your prescription is being filled through Rite Aid's central pharmacy, drugstore.com, inc. and Rite Aid will share patient information necessary to allow each to meet its obligations in dispensing medications and related information. This exchange is solely for purposes of professional pharmacy practice and administration. Rite Aid is bound by the same confidentiality standards as drugstore.com, inc., and will not release patient information to others.
+  *  **Flexible Spending Account (FSA) Purchases** – When you make a purchase from the drugstore.com™ Web store of FSA-reimbursable items that will be automatically deducted from your FSA account (i.e., if you use your FSA-approved credit or debit card to make the purchase or if we have an arrangement with your FSA administrator to provide electronic substantiation on your behalf), we share with your FSA administrator a list of the FSA-eligible products you purchased, together with such account, transaction and payment information as may be requested by your FSA administrator for the purpose of substantiating and tracking your purchase. We do not share with your FSA administrator information about non-FSA items you purchase.
   *  **Brand Manufacturers** \- We may develop programs with some of our brand manufacturers through which you may be offered special discounts or coupons on products in exchange for providing your e-mail address or completing a survey about the manufacturer's products. When you are offered such discounts or coupons in exchange for providing information (for example, giving your e-mail address or completing a survey), you will be notified that if you choose to participate, your name, e-mail address and responses will be shared with the brand manufacturer. No other information will be shared.
   *  **Agents** \- We may enter into agreements with other companies or individuals to perform functions on our behalf. These functions may include sending promotional e-mails on our behalf to such companies' customers; serving advertisements on our behalf, analyzing data; providing marketing assistance; processing credit card or debit card payments; and fulfilling and delivering orders. These companies and individuals have access to only to information necessary to perform their functions. They are not allowed to use the information for any other purpose and are contractually obligated to maintain the confidentiality and security of the information. We may share non-personal, summary, or aggregate customer data with partners and other third parties.
   *  **Business Transfers** \- We may buy or sell stores or assets. In such transactions, customer information is usually treated as one of the transferred business assets. Should drugstore.com, inc., or Beauty.com, Inc., or substantially all of either of their assets be sold, customer information will be one of the transferred business assets. In that event, we will post a notification on this page or send you an email so that you are always aware of how your information is being used.
-  *  **Compliance with Law; Protection of Rights, Property or Safety** \- We will disclose account and other personal information when we believe that disclosure is necessary to comply with the law, to enforce or apply our Terms of Use or other policies or user agreements, or to protect the rights, property, or safety of our business, our users, or others.
+  *  **Compliance with Law; Protection of Rights, Property or Safety** \- We will disclose account and other personal information when we believe that disclosure is necessary to comply with the law, to enforce or apply our Terms of Use or other policies or user agreements, or to protect the rights, property, or safety of our business, our customers, or others.
   *  **As You Direct** \- If you direct, we will release prescription or other customer information to your authorized representative, the prescribing or other authorized practitioner caring for you, or such other person as you may direct. At the direction of the patient and to the extent specifically authorized by law, we will release such information to other persons, including Rite Aid (see above for details) and insurance plans. For example, at your request we will automatically forward your prescription information to your insurance plan so that the drugstore.com™ pharmacy can directly handle reimbursement of your prescription purchase on your behalf.
 
 From time to time, we may partner with certain companies who, in conjunction with their membership programs or rewards programs, require that we disclose purchasing information about their members who visit our Web store (for example, to earn points for purchases made on our site through links from the partner site). We will disclose only the information required to make these programs work for you and support your membership in them. In addition, we disclose this information to such companies only if you have consented first, including consent implied by your agreement to the membership or participation rules. If you do not want us to disclose that information to the strategic partner, then you must contact the partner directly.
@@ -85,11 +50,7 @@ Privacy Officer
 13920 SE Eastgate Way, Suite 300  
 Bellevue, WA 98005
 
-Last updated: 8/25/04
+Last updated: 2/7/05
 
-Copyright © 2004 drugstore.com, inc. All rights reserved.[  
-Terms of Use](https://web.archive.org/category.asp?catid=21617&atrx=dps-6&atrxp1=15729&atrxp2=5&atrxp3=%2Fcategory%2Easp%3Fcatid%3D21617&atrxp4=15729)  
-  
-  
-  
- 
+Copyright © 2005 drugstore.com, inc. All rights reserved.[  
+Terms of Use](https://web.archive.org/category.asp?catid=21617&atrx=dps-6&atrxp1=15729&atrxp2=5&atrxp3=%2Fcategory%2Easp%3Fcatid%3D21617&atrxp4=15729)
