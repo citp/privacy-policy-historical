@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forbesimg.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210075305id_/http%3A//www.forbesimg.com/fdc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbesimg.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203034416id_/http%3A//www.forbes.com/fdc/privacy.shtml) for the most accurate reproduction.*
 
 # Forbes.com
 
 FORBES.COM PRIVACY STATEMENT
 
-Revised and posted as of: June 5, 2000 
+Revised and posted as of: May 29, 2003 
 
 Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com Web site. The Forbes.com Web site is owned and operated by Forbes.com Inc. 
 
@@ -43,6 +43,10 @@ In addition, any personally identifiable information provided by our users as pa
 Please be aware that Forbes.com sponsors, advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those parties and Web sites linked to Forbes.com are not covered by this privacy statement. Forbes.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. 
 
 Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible. 
+
+E-Mail
+
+FORBES respects the privacy of its readers and shall not disclose, distribute or rent its e-mail subscriber newsletter list to any third party, nor shall it permit anyone else to do so. However, FORBES does make available for rental its list of those registrants who have expressly provided us with their permission to receive third party information and offers as part of their user profile. Registrants may change their user profile at any time by visiting the "edit my profile" page at <http://www.forbes.com/membership/editprofile.jhtml>. 
 
 How to Contact Us
 
