@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the esl.org privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614121020id_/http%3A//www.esl.org/infodesk/privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+| At ESL, we know that trust is the foundation of our members’ relationship with us. We understand the need and desire of our members to have information regarding their personal finances kept confidential. Therefore, ESL has always had a strict policy regarding the protection of our members’ information. This policy, explained below, details how we use information from and regarding you (our member), how we keep it private, and when information can or must be shared by ESL. 
+
+  1. ESL and its employees will, within strict guidelines, safeguard any information you share with us. Access to your information by employees will be reasonably limited to those employees that have a business reason for such access. Employees that do not follow these guidelines will be subject to our normal disciplinary procedures. 
+  2. We will collect, retain and use information about you only where we believe it necessary or useful in order to operate our business and to make available products, services, and other opportunities to you. 
+  3. We will share information regarding you with third parties only when, in our judgment, either (a) you have authorized the sharing of information, (b) we have previously informed you in disclosures that we will share information, (c) we are compelled by law or valid court order to do so, or (d) we have entered into an agreement with a third party for support services (in which case the third party will also agree to maintain the confidentiality of our members’ information). 
+  4. ESL does not share or sell marketing lists to third parties. ESL may share information with its subsidiaries and affiliates within the limits of applicable law. 
+  5. We will attempt to keep all member information up-to-date wherever feasible. Please inform us immediately if any information about you is inaccurate. 
+  6. Any information provided to ESL or its affiliates through our Web sites will be maintained according to the above privacy principles. 
+  7. In order to provide better service or to address security hazards, we will occasionally use a "cookie." A cookie is a small piece of information that a Web site stores on your Web browser on your PC and can later retrieve. A Web site other than the one that set the cookie cannot read the cookie. We use cookies for a number of administrative purposes. Most cookies last only through a single session, or visit. None will contain information that will enable anyone to contact you via telephone, e-mail, or "snail mail." You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set. 
+
+
+
+Please contact our member service department with any questions at (800)-848-2265 or e-mail us at legal@esl.org.
