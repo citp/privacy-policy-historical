@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newark.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205104200id_/http%3A//newark.com/custsrv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newark.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613033933id_/http%3A//www.newark.com/custsrv/privacy.html) for the most accurate reproduction.*
 
 # Newark: Cust Srvc: Privacy
 
@@ -6,14 +6,13 @@
 IN THIS SECTION: |   
 ---  
 [**Order Services**](https://web.archive.org/custsrv/trackship.html)  
-[**Questions**](https://web.archive.org/custsrv/questions/)  
 [**Contact**](https://web.archive.org/custsrv/contact.html)  
 | CONTACT:  
 ---|---  
-| [**E-mail**](https://web.archive.org/web/20001205104200id_/http%3A//newark.com/custsrv/contact.html)  
-[**Corporate**](https://web.archive.org/web/20001205104200id_/http%3A//newark.com/custsrv/corporate.html)  
-[**Sales offices**](https://web.archive.org/web/20001205104200id_/http%3A//newark.com/custsrv/locations.html)  
-[**Newark Int'l**](https://web.archive.org/web/20001205104200id_/http%3A//newark.com/custsrv/nwkintl.html)  
+| [**E-mail**](https://web.archive.org/web/20010613033933id_/http%3A//www.newark.com/custsrv/contact.html)  
+[**Corporate**](https://web.archive.org/web/20010613033933id_/http%3A//www.newark.com/custsrv/corporate.html)  
+[**Sales offices**](https://web.archive.org/web/20010613033933id_/http%3A//www.newark.com/custsrv/locations.html)  
+[**Newark Int'l**](https://web.archive.org/web/20010613033933id_/http%3A//www.newark.com/custsrv/nwkintl.html)  
 [**Farnell**](http://www.farnell.com/)  
 : link opens in  
 new window  
