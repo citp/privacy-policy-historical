@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204205245id_/http%3A//www.e-myth.com/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605060802id_/http%3A//www.e-myth.com/corporate/privacy.htm) for the most accurate reproduction.*
 
 # E-Myth Worldwide - About Us: e-myth.com Privacy Policy
 
