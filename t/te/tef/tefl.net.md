@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tefl.net privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602021206id_/http%3A//www.tefl.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tefl.net privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211132026id_/http%3A//www.tefl.net/privacy.htm) for the most accurate reproduction.*
 
 # TEFL.NET - Privacy Policy
 
@@ -10,4 +10,4 @@ We collect only information that is voluntarily provided by our visitors, and we
 
 **Questions Or Concerns**
 
-If you have any questions about TEFL.NET's privacy policy or practices, or about your dealings with this web site, please do not hesitate to [**contact us**](https://web.archive.org/web/20010602021206id_/http%3A//www.tefl.net/contact.htm). 
+If you have any questions about TEFL.NET's privacy policy or practices, or about your dealings with this web site, please do not hesitate to [**contact us**](https://web.archive.org/web/20011211132026id_/http%3A//www.tefl.net/contact.htm). 
