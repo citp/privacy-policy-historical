@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 1999-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991109092125id_/http%3A//www.news-observer.com/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520040311id_/http%3A//www.news-observer.com/policies/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -10,7 +10,7 @@ The News & Observer has a firm commitment to privacy. We take your privacy conce
 
 From time to time, we will ask for information that personally identifies you, as in our user surveys or registration for The News & Observer services such as e-mail, forums, or promotions. We use this information to operate The News & Observer's services, provide you with the highest quality services and offer you opportunities we think will be of interest. 
 
-We will **not** disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of The News & Observer, or as explained below or in our [User Agreement](https://web.archive.org/web/19991109092125id_/http%3A//www.news-observer.com/policies/user_agreement.html). 
+We will **not** disclose any personal information without your advance permission except when we believe the law requires us to do so or the disclosure is necessary to protect the rights or property of The News & Observer, or as explained below or in our [User Agreement](https://web.archive.org/web/20000520040311id_/http%3A//www.news-observer.com/policies/user_agreement.html). 
 
 In order to describe our services to prospective partners, advertisers and others, we may disclose user information but only in a form that does **not** identify individual users. For example, we might disclose that a certain percentage of our users are male or within a certain age range. 
 
@@ -20,7 +20,7 @@ Occasionally, we may disclose personal information in other circumstances, but w
 
 The News & Observer is particularly concerned with providing a safe online environment for kids. Therefore, in areas operated by The News & Observer that are directed to kids or when we learn that a user is under the age of 13, we will ask for parental consent before collecting additional personal information about the child or allowing the child to use the The News & Observer services to provide additional personal information. Parental consent can be provided in two ways: 
 
-  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/19991109092125id_/http%3A//www.news-observer.com/policies/parental_consent.html) (which will be provided in applicable areas on our site); or 
+  1. Send a fax copy of a completed Parental Consent Form, including your signature, to the facsimile number provided on the [Parental Consent Form](https://web.archive.org/web/20000520040311id_/http%3A//www.news-observer.com/policies/parental_consent.html) (which will be provided in applicable areas on our site); or 
   2. Call our toll-free number at the telephone number provided on the Parental Consent Form. 
 
 
