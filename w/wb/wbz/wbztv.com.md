@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbztv.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205102925id_/http%3A//wbz4.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbztv.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623051156id_/http%3A//wbz4.com/privacy) for the most accurate reproduction.*
 
 # WBZ 4: Privacy
 
