@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishexpats.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409084302id_/http%3A//www.britishexpats.com/s/3/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishexpats.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021133423id_/http%3A//britishexpats.com/s/3/privacy_policy.html) for the most accurate reproduction.*
 
 # BritishExpats.com Privacy Statement
 
