@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607190814id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superkids.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205061220id_/http%3A//www.superkids.com/aweb/pages/privacy.shtml) for the most accurate reproduction.*
 
 # SuperKids Privacy Policy.
 
@@ -15,7 +15,7 @@ A cookie is a small message that may be written to your hard drive by some Web s
 SuperKids does not use any cookies to track or identify visitors to our site. Cookies appear in only two places on SuperKids: 
 
   * Advertisers. Some advertisers on SuperKids use cookies to limit the number of times they show a particular ad banner to each computer. These cookies are associated with the ad banners only, and are never transmitted back to SuperKids. 
-  * Several of the Logic Games on SuperKids' site use cookies to keep track of where a user is in a game. For example, in the [Hangman Game for The United States](https://web.archive.org/aweb/tools/words/hangman/states.sht), the page uses cookies to keep track of which states have been played, to avoid premature repetition. No user information is transmitted back to SuperKids. 
+  * Several of the Logic Games on SuperKids' site use cookies to keep track of where a user is in a game. For example, in the [Hangman Game for The United States](https://web.archive.org/aweb/tools/words/hangman/states.sht), the page uses cookies to keep track of which games and letters have been played, to avoid premature repetition. No user information is transmitted back to SuperKids. 
 
 
 
@@ -23,7 +23,7 @@ SuperKids does not use any cookies to track or identify visitors to our site. Co
 SuperKids occasionally conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with advertisers and partners. We never share any information about specific individuals with any third party. 
 
 **Questions?**   
-Please email us if you have any questions about our privacy policy, at: [privacy@superkids.com](mailto:privacy@superkids.com)
+Please email us if you have any questions about our privacy policy, at: [webmaster@superkids.com](mailto:webmaster@superkids.com)
 
 back to top of page
 
