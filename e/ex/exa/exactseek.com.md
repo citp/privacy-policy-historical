@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604030052id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204220043id_/http%3A//exactseek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: ExactSeek.com
 
@@ -16,7 +16,7 @@ For Standard Site submissions, the only information collected is Name, Email Add
 
 Your use of ExactSeek's services (standard or enhanced listing of your web site or sites) constitutes a business relationship wherein we provide a promotion service for your web site(s). In exchange, ExactSeek reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free sample newsletters, to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information from our partners. 
 
-With the exception of auto-response messages which are sent at the time of site submission and which contain important confirmation details regarding your site listing,  you may remove yourself from any or all other notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. Should you encounter problems in this regard, contact [support@exactseek.com](mailto:support@exactseek.com). Our turnaround time for responding to unsubscribe requests is generally 24 hours.
+With the exception of auto-response messages which are sent at the time of site submission and which contain important confirmation details regarding your site listing,  you may remove yourself from any or all other notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. Should you encounter problems in this regard, contact [**support@exactseek.com**](mailto:support@exactseek.com). Our turnaround time for responding to unsubscribe requests is generally 24 hours.
 
   
 **Information Sharing and Disclosure**   
