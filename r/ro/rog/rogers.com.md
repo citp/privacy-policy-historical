@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogers.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204205051id_/http%3A//rogers.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogers.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630221607id_/http%3A//www.rogers.com/english/privacy.html) for the most accurate reproduction.*
 
 # Rogers.com | Privacy Policy
 
@@ -16,6 +16,7 @@ Frequently Asked Questions
   * Will my information be used by Rogers Communications Inc. for direct mailings?
   * How does Rogers Communications Inc. protect the privacy of children?
   * Does www.rogers.com use cookies?
+  * How can I disable cookies?
   * Does Rogers Communications Inc. use the Internet provider addresses?
   * What else should I know about my privacy?
 
@@ -106,6 +107,29 @@ Yes, [www.rogers.com](http://www.rogers.com/) uses cookies. A cookie is set when
   * Perform self service activities on the site. 
   * Determine which browser you are using so we can ensure the site is designed to work properly with the most common versions of different browsers. 
 
+When you register with us your browser must be set to accept cookies. A cookie is a text record placed on our hard drive that tells us who you are so that the site can remember information you have given us in the past, or activities you have carried out on our site. The cookies can only contain data you've told us about yourself. They cannot examine your computer or read data from it. If you are worried about the information we place in the cookie, you may delete the file(s) at the end of each browser session. Your browser's help file will have instructions on how to do that. If you are interested in learning more about how cookies work, you can visit [http://www.cookiecentral.com](http://www.cookiecentral.com/)  
+   
+  
+How can I disable cookies?
+
+|   
+  
+  
+Both Netscape and Microsoft Internet Explorer (MSIE) allow some level of cookie verification or choice. Netscape 3.0 and MSIE 3.0 allow you only an "alert before accepting cookies." This way you can voluntarily choose not to visit a site or areas of a site that use cookies.
+
+To be alerted about accepting cookies, please follow one of these procedures (the following is only a brief list of some popular browsers):
+
+If you are using Netscape Navigator 3.0, go to the "Options" menu, then to "Network Preferences," and then to "Protocols." Check the box that says, "Show an alert before accepting a cookie." 
+
+In Netscape 4.0+, go to "Edit" in the menu bar, then to "Preferences," then to "Advanced." Check the box that says, "Warn me before accepting a cookie." 
+
+In Netscape 6.0, go to "Edit" in the menu bar, then to "Preferences," then to "Advanced," then to "Cookies." Check the box that says, "Warn me before accepting a cookie." 
+
+In Internet Explorer 3.0, go to the "View" menu, then to "Options," then to "Advanced." Check the box that says, "Warn before accepting cookies." 
+
+In Internet Explorer 4.0, go to the "View" menu, then to "Internet Options," then to "Advanced." Check the box that says, "Prompt before accepting cookies." 
+
+In Internet Explorer 5.0, go to the "Tools" menu, then to "Internet Options," then to "Security," then to "Custom Level." In the "Cookies" section, go to the "Allow cookies that are stored on your machine" sub-section and select "Prompt."   
   
    
   
@@ -155,6 +179,15 @@ Our online surveys may ask visitors for such information as contact information 
 Demographic and profile data is also collected at our site. We use this data to tailor our visitor’s experience at our site and display the content according to their preferences. This information is shared with advertisers on an aggregate basis only. 
 
 We run contests on our site in which we ask visitors for contact information (like their email address), financial information (like investment portfolio holdings), and demographic information (like their postal code, age, or income level). We may use contact data from our contests to send users information about our company, and promotional material from some of our partners. The customer’s contact information is also used to contact the visitor when necessary and may be shared with other companies or affiliated companies within the Rogers group of companies who may want to contact our visitors. Only Rogers Communications Inc. or affiliated companies within the Rogers group of companies have access to your personal information. Users may opt-out of receiving future e-mail communications; see the choice/opt-out section below.   
+  
+   
+  
+How does rogers.com handle disputes regarding their privacy policy?
+
+|   
+  
+  
+Whereas this web site shall be bound by the standards as set out by the W3C, and reserves the right to determine what constitutes a privacy breach. Any disagreement a user might have with the privacy policy may contact customer service at 1-877-343-5745.   
   
    
   
