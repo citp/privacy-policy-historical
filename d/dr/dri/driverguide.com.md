@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 1999-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991104040919id_/http%3A//www.driverguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621003317id_/http%3A//www.driverguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for DriverGuide.com
 
-CDMAX Enterprises, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: DriverGuide.com. 
+iCentric Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: DriverGuide.com. 
 
 Our membership registration form requires users to give us contact information (like their name and email address). The contact information is used to contact the members if necessary. We may at times need to send out a bulletin to all members describing significant changes to the site (no more than 3 per year). You will not receive any other email from us. We do not and will never rent, sell, or in any way misuse the information you provide. No unsolicited email will ever be sent to our members. Members may at any time cancel their membership; see the choice/opt-out section below. 
 
