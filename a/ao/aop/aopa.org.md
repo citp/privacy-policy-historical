@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209093059id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621121358id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
 
 # AOPA Online - Privacy Policy Statement
 
@@ -36,3 +36,6 @@ With respect to ad servers: We do not partner with or have special relationships
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+  
+
