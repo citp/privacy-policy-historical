@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618152329id_/http%3A//www.thecarconnection.com/index.asp%3Farticle%3D164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2003-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031224215827id_/http%3A//thecarconnection.com/index.asp%3Farticle%3D164) for the most accurate reproduction.*
 
-# The Car Connection [ The Web´s Automotive Authority ]
+# The Car Connection [ The Web's Automotive Authority ]
 
-  
-
+**Privacy Statement for TheCarConnection.com  
+**
 
 TheCarConnection.com is committed to protecting the privacy of all its readers. As a result, you have the right to view the privacy policy of this site. 
 
