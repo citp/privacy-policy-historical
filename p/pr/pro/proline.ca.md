@@ -1,21 +1,24 @@
-> *The following text is extracted and transformed from the proline.ca privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proline.ca privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp) for the most accurate reproduction.*
 
-# OLGC Corporate Site: Privacy
+# OLGC.ca: Privacy
 
-**Overview**  
+Date last updated: August 20, 2002. 
 
+If you have any questions regarding this privacy policy, please call 
+
+1-800-387-0098
 
 This statement discloses the privacy practices of OLGC's Web sites. 
 
 This Web site Privacy Policy contains detailed information about the following: 
 
-  1. [What information of yours does OLGC collect?](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#qa01)
-  2. [What are "cookies" and does OLGC use them?](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#qa02)
-  3. [Who is collecting the information?](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#qa03)
-  4. [How does OLGC use the information collected?](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#qa04)
-  5. [Does OLGC share the information that is collected?](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#qa05)
-  6. [How can you access, edit or delete your information?](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#qa06)
-  7. [What type of security procedures are in place to protect against the loss, misuse or alteration of your information?](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#qa07)
+  1. [What information of yours does OLGC collect?](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#qa01)
+  2. [What are "cookies" and does OLGC use them?](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#qa02)
+  3. [Who is collecting the information?](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#qa03)
+  4. [How does OLGC use the information collected?](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#qa04)
+  5. [Does OLGC share the information that is collected?](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#qa05)
+  6. [How can you access, edit or delete your information?](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#qa06)
+  7. [What type of security procedures are in place to protect against the loss, misuse or alteration of your information?](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#qa07)
 
 
 
@@ -34,19 +37,25 @@ OLGC collects personal information in the following ways from different parts of
   * In addition to registration for services at OLGC Web sites, OLGC will ask you for other personal information when you enter a sweepstakes, contest or promotion offered through an OLGC Web site. 
   * If you contact the OLGC by email, we will keep a record of that correspondence, but only so that we may respond to the email. 
 
-[  
-](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#top)
+
+
+Any personal information provided is collected pursuant to the Ontario Lottery and Gaming Corporation Act, 1999. For further information contact an OLGC representative at 1-800-387-0098.
+
+[Back To Top](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#top)   
+
 
 **2\. What are "cookies" and does OLGC use them?**  
 A cookie is a small text file containing a unique identification number that is transferred from a Web site to the hard drive of your computer. This unique number identifies your browser, but not the individual, whenever you visit one of OLGC's Web sites. These cookies will NOT let a Web site know any personal information about you, such as your name and address. Since these cookies are only text files, they cannot run on your computer, search your computer for other information or transmit any information to anyone. Cookies are used on many major Web sites. Many browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. 
 
-To help serve you better, OLGC uses cookies to help us remember your choice of language preference, English or French, when visiting, www.OLGC.ca. In addition, cookies are utilized to set the pay-out calculator wager amount. [  
-](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#top)   
+To help serve you better, OLGC uses cookies to help us remember your choice of language preference, English or French, when visiting, www.OLGC.ca. In addition, cookies are utilized to set the pay-out calculator wager amount. 
+
+[Back To Top](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#top)   
 
 
 **3\. Who is collecting the information?**  
-When you provide personal information at any OLGC Web site, that information is collected by OLGC. OLGC may offer sweepstakes, contests or promotions on OLGC Web sites. These sweepstakes, contests or promotions may be operated by third parties on behalf of OLGC, in which case personal information may be collected by such third party, or disclosed to such third party by OLGC. If you do not want to have OLGC share your personal information for such purposes, you can choose not to opt-in to the sweepstakes, contest or promotion. [  
-](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#top)   
+When you provide personal information at any OLGC Web site, that information is collected by OLGC. OLGC may offer sweepstakes, contests or promotions on OLGC Web sites. These sweepstakes, contests or promotions may be operated by third parties on behalf of OLGC, in which case personal information may be collected by such third party, or disclosed to such third party by OLGC. If you do not want to have OLGC share your personal information for such purposes, you can choose not to opt-in to the sweepstakes, contest or promotion. 
+
+[Back To Top](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#top)   
 
 
 **4\. How does the OLGC use the information it collects?**  
@@ -58,21 +67,27 @@ Any personal information you provide to OLGC when registering for products and s
   * If you enter a sweepstakes, contest or promotion through OLGC's Web sites, OLGC will use the personal information you provided to contact you in the event you win. All such OLGC contest entry forms will provide a way for a consumer to opt-in to any communications that is not related to awarding prizes for the promotion. Any information you provide will not be shared with such third parties unless you agree through the appropriate consent box on the entry form. If you enter a contest, you may be asked, under the rules of the contest, to agree that the contest sponsor may use your name in relation to announcing and promoting the winners of the contest. 
   * OLGC may disclose personal information where required by the operation of law or by a judicial or governmental body. 
 
-[  
-](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#top)
+
+
+[Back To Top](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#top)   
+
 
 **5\. Does OLGC share the information that is collected?**  
 OLGC may disclose personal information to its agents, suppliers and service providers in conjunction with providing you with products and services or operating portions of the OLGC Web sites. Such entities will be required to use personal information provided solely for such purposes. All such third parties are prohibited from using your personal information except to provide these services. 
 
-OLGC does not sell, rent or lease customer lists generated through OLGC Web sites to third parties. [  
-](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#top)   
+OLGC does not sell, rent or lease customer lists generated through OLGC Web sites to third parties. 
+
+[Back To Top](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#top)   
 
 
 **6\. How can you access, edit or delete your information?**  
-To delete your personal information relating to the email alert functionality currently offered by OLGC, please follow the unsubscribe process available through the link located at the bottom of the email. [  
-](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#top)   
+To delete your personal information relating to the email alert functionality currently offered by OLGC, please follow the unsubscribe process available through the link located at the bottom of the email. 
+
+[Back To Top](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#top)   
 
 
 **7\. What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?**  
-OLGC has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. OLGC attempts to keep such information in secure facilities, protected from unauthorized access and kept only as long as is reasonably required. Only persons who have a need to know your personal information for the purposes described in this Privacy Policy have access to the user data you choose to provide to us. OLGC has imposed strict rules on OLGC employees who have access to the databases that store user personal information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make reasonable efforts to prevent such occurrences. OLGC is not liable for any use or disclosure of your personal information that is beyond our reasonable control. [  
-](https://web.archive.org/web/20030412163058id_/http%3A//corporate.olgc.ca/privacy.jsp#top)
+OLGC has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. OLGC attempts to keep such information in secure facilities, protected from unauthorized access and kept only as long as is reasonably required. Only persons who have a need to know your personal information for the purposes described in this Privacy Policy have access to the user data you choose to provide to us. OLGC has imposed strict rules on OLGC employees who have access to the databases that store user personal information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make reasonable efforts to prevent such occurrences. OLGC is not liable for any use or disclosure of your personal information that is beyond our reasonable control. 
+
+[Back To Top](https://web.archive.org/web/20031212185924id_/http%3A//www.olgc.ca/privacy.jsp#top)   
+
