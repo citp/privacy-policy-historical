@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608142851id_/http%3A//www.prosoundweb.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosoundweb.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204190011id_/http%3A//www.prosoundweb.com/about/privacy.php) for the most accurate reproduction.*
 
 # Huge Universe, Inc./ProSoundWeb.com Privacy Policy
 
