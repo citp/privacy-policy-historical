@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakeworld.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203053431id_/http%3A//www.wakeworld.com/General/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeworld.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603053239id_/http%3A//wakeworld.com/General/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # WakeWorld -- Privacy Policy
 
