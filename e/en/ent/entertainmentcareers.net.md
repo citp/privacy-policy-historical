@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602212046id_/http%3A//www.entertainmentcareers.net/sbjobs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202153451id_/http%3A//www.entertainmentcareers.net/sbjobs/privacy.asp) for the most accurate reproduction.*
 
 # Entertainment Jobs and Internships - Entertainment Careers.Net
 
@@ -21,7 +21,8 @@ You may contact us by e-mail at [ info@entertainmentcareers.net](mailto:info@ent
 
 We have the following privacy seals: 
 
-  * **SquareTrade** : As the market leader in online dispute resolution and building trust, SquareTrade: 
+  * **SquareTrade** : As the market leader in online dispute resolution and building trust, SquareTrade:   
+
 
 
 
@@ -118,7 +119,6 @@ This data will be used for the following purposes:
   * User analysis.
   * User profiling and decision-making.
   * Contacting visitors for marketing of services or products.
-  * Telemarketing.
 
 
 
@@ -228,8 +228,7 @@ In addition, the data is used in the following manner, marking the policy as uns
   * The data is used for contacting the user. 
   * The data is used for analysis, including knowledge of the visitor's identity. 
   * The data is used for decision-making, including knowledge of the visitor's identity. 
-  * The data is used for telemarketing. 
-
+  * 
 
 
 Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory. 
