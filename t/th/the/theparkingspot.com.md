@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theparkingspot.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621143011id_/http%3A//theparkingspot.com/index.cfm%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparkingspot.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203030943id_/http%3A//www.theparkingspot.com/index.cfm%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
-# The Parking Spot - Privacy Policy
+# The Parking Spot - Privacy Policy; Parking At The Airport, Airport Parking, The Parking Spot, Parking Lot, Airport Discount Parking, airport car parking, Long-Term Airport Parking, airport coupon parking, Airport Park
 
   | 
 
