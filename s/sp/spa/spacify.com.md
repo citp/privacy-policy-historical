@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spacify.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616120340id_/http%3A//www.spacify.com/text.asp%3Fstore%3Dspacify%26target%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacify.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218004901id_/http%3A//www.spacify.com/text.asp%3Fstore%3Dspacify%26target%3Dprivacy) for the most accurate reproduction.*
 
-# spacify dot com - Got Space? Fill it here!
+# Spacify;Contemporary Furniture:Modern Furniture, Italian Furniture, Designer Furniture, Bauhaus, Storage, Contemporary home office furniture and Contemporary bedroom furniture
 
 Spacify.com is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our store. This policy may change from time to time so please check back periodically.
 
