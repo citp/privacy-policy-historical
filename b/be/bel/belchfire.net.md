@@ -1,28 +1,23 @@
-> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604185812id_/http%3A//www.belchfire.net/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D6) for the most accurate reproduction.*
 
-# Belchfire.net - Windows XP Themes, LogonUIs, Wallpaper and More
+# Belchfire.net - Windows XP|NET Themes, LogonUIs, Boot Screens, Wallpaper and More
 
+| [](http://www.belchfire.net/)  
+   Welcome to belchfire.net!  |  |  | [](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/index.php) | [](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Forums) | [](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=XP_Themes) | [](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Downloads) | [](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Web_Links) | [](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Submit_News) | [](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Your_Account) |  | 
+
+**12/04/02**
+
+|   
+---|---|---|---|---|---|---|---|---|---|---|---|---  
+  
+ [Register/Login](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Your_Account)     Search
+
+|  [](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Content&pa=showpage&pid=7)  [](http://www.winxptop.com/winxptop/rankem.asp?id=51)   
 | 
 
-Members to date **37681**.There are currently **48** guests and **26** members online.
-
-You are an Anonymous user. [Register](https://web.archive.org/modules.php?name=Your_Account&op=new_user) now. It's free!
-
-  
-  
-
-
-[](http://www.winxptop.com/winxptop/rankem.asp?id=51) Click the button to vote for us on Windows XP Top Sites. 
-
-  
-  
-  
-  
-  
-  
-  
-| |  **Please Visit Our Sponsor...**  
-[](https://web.archive.org/web/20020604185812id_/http%3A//www.belchfire.net/banners.php?op=click&bid=31)
+| |   
+|  **Please Visit Our Sponsor...**  
+[](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/banners.php?op=click&bid=31)
 
 Privacy Policy  
 Belchfire.net's Privacy Policy  
@@ -36,15 +31,15 @@ Belchfire.net's Privacy Policy
 > 
 > **You are always in control.**
 > 
->   * The only personal information that we collect is information that you give us when you register. We use that information to service your account and to personalize your experience at Belchfire.net. We'll never share that information with third parties interested in e-mailing you or send you our own promotional offer e-mails without your consent. To see (or change) your information, just visit the [Your Account](https://web.archive.org/web/20020604185812id_/http%3A//www.belchfire.net/modules.php?name=Your_Account) page at Belchfire.net (you will need to do this for each account, if you have more than one). 
+>   * The only personal information that we collect is information that you give us when you register. We use that information to service your account and to personalize your experience at Belchfire.net. We'll never share that information with third parties interested in e-mailing you or send you our own promotional offer e-mails without your consent. To see (or change) your information, just visit the [Your Account](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Your_Account) page at Belchfire.net (you will need to do this for each account, if you have more than one). 
 > 
 
 > 
 > **Here is the information we gather:**
 > 
->   * When you register at the site, we ask for certain basic information to service your account: your e-mail address and a Nickname. We assign you a password that you can change using the [Your Account](https://web.archive.org/web/20020604185812id_/http%3A//www.belchfire.net/modules.php?name=Your_Account) page. You can change any of this information at any time by going to the [Your Account](https://web.archive.org/web/20020604185812id_/http%3A//www.belchfire.net/modules.php?name=Your_Account) page.  
+>   * When you register at the site, we ask for certain basic information to service your account: your e-mail address and a Nickname. We assign you a password that you can change using the [Your Account](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Your_Account) page. You can change any of this information at any time by going to the [Your Account](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Your_Account) page.  
 >   
->   * You have the option to use certain services, such as the [Recommend Us](https://web.archive.org/web/20020604185812id_/http%3A//www.belchfire.net/modules.php?name=Recommend_Us) page, which may require you to provide us with transmittal information for your friends or family. We only use this information to provide the requested service.  
+>   * You have the option to use certain services, such as the [Recommend Us](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Recommend_Us) page, which may require you to provide us with transmittal information for your friends or family. We only use this information to provide the requested service.  
 >   
 >   * We also keep track of users' traffic patterns and related site usage inside our website to help us manage promotions and advertising, and improve our web page and site design.  
 >   
@@ -83,7 +78,7 @@ Belchfire.net's Privacy Policy
 > 
 > **E-Mail Addresses.**
 > 
->   * We never rent or sell your name and e-mail address to other on-line marketers of products or services without your consent. You make the decisions on how you would like to hear from us and if you are interested in receiving our newsletter and any valuable offers from reputable marketers of products and services. You can change your preference at any time by going to your [Your Account](https://web.archive.org/web/20020604185812id_/http%3A//www.belchfire.net/modules.php?name=Your_Account) page at Belchfire.net (you will need to do this for each account, if you have more than one).
+>   * We never rent or sell your name and e-mail address to other on-line marketers of products or services without your consent. You make the decisions on how you would like to hear from us and if you are interested in receiving our newsletter and any valuable offers from reputable marketers of products and services. You can change your preference at any time by going to your [Your Account](https://web.archive.org/web/20021204210520id_/http%3A//belchfire.net/modules.php?name=Your_Account) page at Belchfire.net (you will need to do this for each account, if you have more than one).
 > 
 
 > 
@@ -124,6 +119,9 @@ Belchfire.net's Privacy Policy
 
 Copyright [©](http://www.whatiscopyright.org/) 2001, 2002 James Simmons, Belchfire.net.
 
-Published on: 2002-02-22 (187 reads)
+Published on: 2002-02-22 (613 reads)
 
 [ Go Back ]
+
+|   
+---|---
