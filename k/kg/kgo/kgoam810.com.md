@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603150309id_/http%3A//kgoam810.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2002-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021011105819id_/http%3A//www.kgoam810.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# KGO AM 810
+# KGO
 
 |  | 
 
