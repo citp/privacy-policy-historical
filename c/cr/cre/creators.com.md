@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the creators.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405105139id_/http%3A//creators.com/privacy.php4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creators.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215327id_/http%3A//www.creators.com/index2_privacypolicy.html) for the most accurate reproduction.*
 
-# Creators.com : Privacy Policy
+# Creators.com - Creators Syndicate
+
+**Privacy Policy**
 
 **In summary**  
 This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects and stores anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy/>. 
@@ -9,7 +11,7 @@ This site uses the services of Engage for the serving and/or targeting of ads, p
 When you use our "Send To a Friend", which allows you to send your favorite creators works to your friends, we use your name and email address. 
 
 **How does Creators.com protect customer information?**  
-We offer the use of a secure server. The secure server software ([SSL](http://home.netscape.com/security/techbriefs/ssl.html)) encrypts all information you input before it is sent to us. 
+We offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. 
 
 **What about "cookies"?**  
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We do NOT currently employ the use of cookies anywhere on the site. IF we do plan to employ them we will notify you directly. Our cookies would not contain any personally identifying information. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. 
@@ -24,4 +26,4 @@ We are committed to protecting your privacy. We use the information we collect o
 By using our Web site, you consent to the collection and use of this information at your discretion by Creators.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
 **What do you think?**  
-Please contact us with an questions or comments about privacy. [creators@eyeo.com](mailto:creators@eyeo.com)
+Please contact us with an questions or comments about privacy.
