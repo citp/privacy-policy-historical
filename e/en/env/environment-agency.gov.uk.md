@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209003038id_/http%3A//www.environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404044029id_/http%3A//www.environment-agency.gov.uk/other/help/196646) for the most accurate reproduction.*
 
 # Environment Agency - Privacy Policy
 
@@ -46,6 +46,6 @@ The Environment Agency uses 2 separate cookies to identify preferred language s
 
 We also use an external agent to analyse usage behaviour on our behalf. To enable this we use a ‘unique visitor cookie’ to obtain information about your use of our site, such as whether you have visited our site more than once and how you found us. 
 
-This information allows us to more effectively tailor our site to make its use easier.Their privacy policy can be found at: <http://www.redsheriff.com/6.0.0.htm>
+This information allows us to more effectively tailor our site to make its use easier.Their privacy policy can be found at: [Nielsen//Netratings](http://www.netratings.com/privacy.jsp?section=leg_scs)
 
 Through modification of browser preferences, a user can elect to accept all cookies, receive notification when a cookie is set, or decline all cookies. Further information regarding the deletion of cookies can be found at: <http://www.aboutcookies.org/deletecookies.html>[ ](http://www.aboutcookies.org/deletecookies.html)
