@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215140500id_/http%3A//jigzone.com/indexpage/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigzone.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603035136id_/http%3A//jigzone.com/indexpage/privacy.htm) for the most accurate reproduction.*
 
 # JigZone - privacy policy
 
@@ -16,7 +16,7 @@
 
 #### Information Sharing and Disclosure
 
-  * JigZone will not sell of rent your personally identifiable information to anyone. 
+  * JigZone will not sell or rent your personally identifiable information to anyone. 
   * JigZone will send personally identifiable information about you to other companies or people when: 
     * We have your consent to share the information; 
     * We need to share your information to provide the product or service you have requested; 
@@ -41,8 +41,7 @@
 #### Advertisers
 
   * We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information. 
-  * Jigzone works with **Flycast** to deliver ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.  
-  * JigZone works with **BURST!** to deliver ads to this site. To find out more about how BURST manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.burstmedia.com/release/privacy.asp>. 
+  * This site, Jigzone Jigsaw Puzzles, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.  
 
 
 
