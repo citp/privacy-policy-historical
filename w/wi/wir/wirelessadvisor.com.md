@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
 
 # WirelessAdvisor.com - Privacy Statement
 
@@ -8,22 +8,22 @@
 * * *  
   
   
-**[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/Glossary.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/waforums/index.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/book1.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/faq.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/index.cfm)  
+**[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/Glossary.cfm)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/forums/index.php)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/book1.cfm)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/faq.cfm)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/index.cfm)  
 **  
   
 * * *
 
-**[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/company.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/advertising.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/privacy.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/press.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/legal.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/feedback.cfm)  
-[](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/intouch.cfm)  
+**[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/company.cfm)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/advertising.cfm)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/privacy.cfm)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/press.cfm)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/legal.cfm)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/feedback.cfm)  
+[](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/intouch.cfm)  
 **  
 |  WirelessAdvisor.com is not associated by ownership or membership with any cellular, PCS or wireless service provider companies and is not meant to be an endorsement of any company or service.  
   
@@ -152,7 +152,7 @@ Search by ZIP code for the cellular, PCS and wireless phone companies serving yo
   
   
   
-**OR** ... [Select a city by name](https://web.archive.org/web/20031206074214id_/http%3A//wirelessadvisor.com/regions.cfm " Select City")  
+**OR** ... [Select a city by name](https://web.archive.org/web/20040607123718id_/http%3A//www.wirelessadvisor.com/regions.cfm " Select City")  
   
   
   
