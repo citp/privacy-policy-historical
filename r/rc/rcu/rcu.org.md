@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcu.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207094539id_/http%3A//www.rcu.org/ACCOUNTACCESS/PrivacyStatement.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcu.org privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625081045id_/http%3A//www.rcu.org/ACCOUNTACCESS/PrivacyStatement.phtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,4 +25,6 @@ To protect our member’s privacy, we only work with companies that agree to mai
 If you terminate your membership with RCU, we will not share information we have collected about you, except as permitted by law.
 
 **How we protect your information**  
-We restrict access to nonpublic personal information about you to those employees who have specific business purpose in utilizing your data. Our employees are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information.
+We restrict access to nonpublic personal information about you to those employees who have specific business purpose in utilizing your data. Our employees are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information. 
+
+In accordance with the Children’s Online Privacy Protection Act, RCU does not collect any information on children under the age of 13. 
