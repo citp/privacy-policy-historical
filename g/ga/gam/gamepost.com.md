@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepost.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615113653id_/http%3A//gamepost.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepost.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214142000id_/http%3A//www.gamepost.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Game Post Screenshots
 
