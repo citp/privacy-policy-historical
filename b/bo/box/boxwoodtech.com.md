@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxwoodtech.com privacy policy that was archived on 2004-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040525211224id_/http%3A//www.boxwoodtech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxwoodtech.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211160747id_/http%3A//boxwoodtech.com/privacy) for the most accurate reproduction.*
 
 # Boxwood Technology, Inc. - Privacy
 
@@ -35,7 +35,7 @@ Email: [privacy@boxwoodtech.com](mailto:privacy@boxwoodtech.com)
 
 Phone: (800) 331-2177 
 
-Mail: 600 Herndon Parkway, Suite 500  
+Mail: 590 Herndon Parkway, Suite 400  
 Herndon, VA 20170
 
   
