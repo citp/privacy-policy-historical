@@ -1,0 +1,143 @@
+> *The following text is extracted and transformed from the oocl.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409210718id_/http%3A//www.oocl.com/company_profile/privacy.htm) for the most accurate reproduction.*
+
+# Privacy and Security Statement
+
+   
+This Privacy and Security Statement applies to this website which is owned and operated by Orient Overseas Container Line Limited ("OOCL") under the domain name [www.OOCL.com](http://www.oocl.com/) ("OOCL Website" or "Website") and to any services provided by OOCL or pursuant to the Website ("Service").
+
+As part of the normal operation of our services we collect and, in some cases, disclose information about you. OOCL understands and appreciates that you, as an OOCL Website and/or Service user, are concerned about your privacy and about the confidentiality and security of information we may collect from about you online. OOCL is committed to safe guarding your privacy. This OOCL Privacy and Security Statement explains how information collected from you will be treated as you access and interact with the OOCL Website.
+
+In addition to the provisions of this Privacy and Security Statement, there may also be specific and additional privacy provisions which apply to certain sections of the OOCL Website. Because those specific and additional provisions also relate to your privacy protection, you should review them wherever they are accessible by you on the OOCL Website. In the event of any inconsistency between the provisions of this Privacy and Security Statement and those other specific and additional provisions, the specific and additional provisions will prevail.
+
+**1\. Acceptance and changes to Privacy and Security Statement**
+
+This Privacy and Security Statement and [Legal Notice and Disclaimer](https://web.archive.org/web/20020409210718id_/http%3A//www.oocl.com/company_profile/disclaimer.htm) is intended to form part of a binding agreement of terms and conditions for your use of the Service and of this Website ("the Agreement"). You acknowledge and accept that your use of and/or access to the OOCL Website and/or Service indicate your acceptance to the Agreement
+
+This is the current Privacy and Security Statement. It replaces other Privacy and Security Statement for the OOCL Website published on OOCL Website to date. As the OOCL Website develops and as technology evolves, OOCL will continue to strive to provide you with better and more customised services and with a more effective website. OOCL may at any time revise the Privacy and Security Statement by publishing the revised Privacy and Security Statement on the OOCL Website. You accept that by doing this, OOCL has provided you with sufficient notice of the changes. OOCL nevertheless encourages you to review the Privacy and Security Statement periodically because the Privacy and Security Statement may change from time to time.
+
+**2\. Information We Collect**
+
+We collect information from you in order to provide you with a smooth, efficient, and customized service while using OOCL.  Some of this information may be of a form or format that identifies you or another person ("personal identifying information").
+
+The more information you volunteer (and the more accurate it is), the better we are able to customize your experience.
+
+If you visit the OOCL Website to read, browse or download information, our system will record the date and time of your visit to our Website, the pages viewed and any information downloaded.
+
+The OOCL Website offers a number of non-interactive and interactive services.
+
+We generally do not capture any personal identifying information that you may enter when using the non-interactive service.
+
+To use some of the OOCL's service, you may need to complete various online form(s) where you will be required to provide us with your personal identifying information, such as name and email address.
+
+Whenever OOCL collects personal identifying information, we make an effort to include a link to this Privacy and Security Statement.
+
+OOCL automatically tracks certain information about you based upon your behaviour on the OOCL Website. OOCL uses this information to do internal research on registered users' shipping preferences and behaviour to better understand and serve our users. This information is compiled and analyzed on an aggregated basis.
+
+**3\. Third Party Websites**
+
+The OOCL Website also contains links to the websites of third party providers of goods and services ("Third Party Websites") who may collect personal identifying information about you. If you have accessed Third Party Websites through the OOCL Website and if those third parties collect information about you, OOCL may also collect or have access to that information as part of our arrangements with those third parties.
+
+Third Party Websites should contain their own privacy statements. Third Party Websites are not covered by this Privacy and Security Statement and are responsible for informing you about their own privacy practices.
+
+**4\. Cookies**
+
+OOCL uses "cookies" as a fundamental part of our interaction with your Internet browser. The intention is to provide you with a better and more customised service and with a more effective website.
+
+A "cookie" is a small text file placed on your computer by our webpage server. A cookie can later be retrieved by our webpage servers. Most cookies are "session cookies", meaning that they are automatically deleted at the end of a session.
+
+Currently, each browser accessing OOCL Website is given a unique cookie which is then used to determine the extent of repeat usage and usage by a registered user as opposed to an unregistered user.
+
+Most of the OOCL Website operates by use of cookies. Accordingly, if you wish to make full use of the OOCL Website, it is required that you accept cookies. If your browser is configured to reject all cookies you may be unable to use certain services on the OOCL Website that require cookies in order to participate.
+
+You are always free to decline OOCL's cookies if your browser permits, although in that case you are limited to using our non-interactive service of the OOCL Website.
+
+Advertising networks that serve advertisements onto OOCL Website may also use their own cookies.
+
+**5\. Use and disclosure of information **
+
+Information collected from you that is not personal identifying information be used or shared as OOCL in its sole discretion deems appropriate. Personal identifying information collected from you will be used by us or third parties or disclosed to third parties.  By using or accessing the Website and/or the Service, you expressly consent to our use or disclosure of the information you provided to OOCL.  Generally, OOCL use personal identifying information for marketing purposes and for its own benefit, for example,
+
+>   
+>  (1) to remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. 
+> 
+> (2) to estimate our audience size and to statistically analyze the usage.
+> 
+> (3) to identify pages you have accessed and Third Party Websites you have accessed. 
+> 
+> (4) to improve our marketing and promotional efforts. 
+> 
+> (5) to measure certain traffic patterns, which areas of the OOCL Websites you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on OOCL Website a better one. OOCL may use this information to better personalize the content, banners, and promotions that you and other users will see on our Websites. 
+> 
+> (6) to improve our service
+> 
+> (7) for administrative and security purposes.
+
+OOCL may also use:  
+ 
+
+> (1) personal identifying information to deliver information to you that, in some cases, is targeted to your interests, such as, new services. 
+> 
+> (2) your email address, your mailing address, and phone number to contact you regarding administrative notices, new features and communications relevant to your use of OOCL Website. 
+> 
+> (3) information in the file that OOCL maintains about you, and other information OOCL obtains from your current and past activities on OOCL Website, to resolve disputes, troubleshoot problems and enforce the Agreement.
+
+OOCL will only disclose your personal identifying information collected from you when:
+
+> (1) You have authorised OOCL to do so; 
+> 
+> (2) OOCL has given you notification of the intended use or disclosure and you have not objected to that use or disclosure; 
+> 
+> (3) OOCL believes that such disclosure is reasonably necessary to enforce the Agreement, or to respond to claims of violation of the rights of third parties or to protect the rights, property or personal safety of OOCL, its affiliates, OOCL users and the public. 
+> 
+> (4) OOCL believes that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for national security in the performance of their functions; or
+> 
+> (5) OOCL is authorised, required or permitted by law, governmental or quasi government agencies to disclose the information.
+
+An exception is where you access a Third Party Website from the OOCL Website. In that case, information generated by cookies and information about your preferences or other information that you provide about yourself may be shared between that third party, the person hosting the Third Party Website, OOCL and/or its affiliates. OOCL uses the information to provide you with information about products and services that may be of interest to you. It may also be used for the enhancement of services offered through the OOCL Website and Third Party Websites.
+
+Except as otherwise expressly discussed herein, this Privacy and Security Statement only addresses the use and disclosure in first instance of information we collect from you.  Personal identifying information about you provided by another party will for purposes of this Privacy and Security Statement be deemed to be personal identifying information collected from such other party, not you, whether such other party originally received the information from you, OOCL or another source.
+
+**6.  How we handle E-mails**
+
+We will preserve the content of any e-mail that you send us, if we believe that we have a legal requirement to do so. Any personal identifying information contained in your e-mail, including your e-mail address, will be used or disclosed in ways set out in this Privacy and Security Statement. Your e-mail message content may be monitored by OOCL's employees for trouble shooting and maintenance purposes or where e-mail abuse is suspected.
+
+**7\. Choice/Opt-out**
+
+You have the right to request OOCL not to use or retain personal identifying information collected from you. However, we may retain in our files some information you have requested to be removed in some circumstances, such as to resolve disputes, troubleshoot problems and/or enforce the Agreement. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal identifying information would be completely removed from our databases in response to your requests.
+
+**8\. Data Protection necessary Consent**
+
+You hereby provide OOCL with all such necessary consents, licenses, permits and authorizations as may be required by any applicable law or otherwise (including all privacy and other data protection regulations and legislation) as shall be necessary for the transfer of personal data to OOCL, its affiliates and/or third parties wherever they may be situated, and for the use of such data by OOCL, its affiliates and/or third parties.
+
+**9\. Control of Your Password**
+
+Except as specifically permitted by this section, you may not disclose your password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify us and change your password.
+
+OOCL will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your OOCL account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place.
+
+**10\. Reviewing and Changing your Personal Identifying Information**
+
+You can review and change the information you submitted including but not limited to the following:  
+
+
+> (i) Your Password and email address. If you change your Password, OOCL keep track of your old Password and your new Password.
+> 
+> (ii) Your address, city, state, zip code, country, primary phone number, secondary phone number, and fax number.
+> 
+> (iii) Your shipping preferences and preferred time zone
+
+You must promptly update us of any changes to your information.
+
+**11\. Security of Information**
+
+OOCL takes reasonable steps to preserve the security of cookie and personal information in accordance this Privacy and Security Statement. OOCL will use standard industry efforts to safeguard the confidentiality of your personal identifying information, such as firewalls and Secure Socket Layers. You acknowledge that notwithstanding the steps OOCL takes to ensure security, there can be no guarantee of security on the internet and that the risk of interception of and tampering with any communication in relation to the OOCL Website is your own.
+
+**12\. Disclaimer and Users Responsibility**
+
+OOCL regularly reviews developments in security and encryption technologies. HOWEVER, NO DATA TRANSMISSION OVER THE INTERNET CAN BE GUARANTEED AS TOTALLY SECURE. ACCORDINGLY, ALTHOUGH OOCL STRIVES TO PROTECT SUCH INFORMATION, OOCL CANNOT ENSURE OR WARRANT THE SECURITY OF ANY INFORMATION YOU TRANSMIT TO US OR FROM OUR ONLINE PRODUCTS OR SERVICES AND YOU DO SO AT YOUR OWN RISK.
+
+Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems. We remind you that different means exist and are being developed in the internet which will enable you to improve the protection of your data. Therefore, we encourage you to use all available means to protect your data and communications such as access codes to your own personal computer.
+
+We also remind you that you may be legally responsible for the processing of data, for example, if you illicitly upload or download and that everything may be traced back to you even if you use a pseudonym.
+
+Should you have any questions about this Privacy and Security Statement, the practice of this Website, or your dealings with this Website, you can [contact us](http://www.oocl.com/contact_us/contact_us.htm).
