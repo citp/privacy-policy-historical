@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phys.vt.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204213658id_/http%3A//www.phys.vt.edu/%7Eadmin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phys.vt.edu privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604114930id_/http%3A//www.phys.vt.edu/%7Eadmin/privacy.html) for the most accurate reproduction.*
 
 # VT Physics Privacy statement
 
