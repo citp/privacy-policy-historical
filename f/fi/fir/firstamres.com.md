@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstamres.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202051738id_/http%3A//www.firstamres.com/html/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstamres.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605181102id_/http%3A//firstamres.com/html/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # First American Real Estate Solutions
 
