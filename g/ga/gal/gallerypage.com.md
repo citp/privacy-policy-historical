@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gallerypage.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606203818id_/http%3A//www.gallerypage.com/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallerypage.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803164250id_/http%3A//gallerypage.com/help_privacy.html) for the most accurate reproduction.*
 
 # Gallerypage.com - The Online Gallery
 
