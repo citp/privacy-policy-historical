@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806183927id_/http%3A//www.heritage.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606223053id_/http%3A//www.heritage.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ The Heritage Foundation reserves the right to change the policy on use of inform
 
 * * *
 
-**© 2003 The Heritage Foundation**  
+**© 1995 - 2004 The Heritage Foundation**  
 All Rights Reserved.  
 Read our [privacy guidelines](https://web.archive.org/about/privacy.cfm). | [Contact us](https://web.archive.org/about/contact.cfm). | [Return Home](https://web.archive.org/).  
 ---|---|---
