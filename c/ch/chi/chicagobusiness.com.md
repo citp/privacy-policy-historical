@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601132711id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215225832id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
 
 # Chicagobusiness.com
 
@@ -17,6 +17,9 @@ In the future, we may decide to make the email addresses of those who subscribe 
 Website subscribers who supply us with their postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an email or snail mail message to us at the appropriate address given above. You may also receive mailings from other reputable companies. Again, if you prefer that your address not be shared, please contact us with your exact name and address, and we will remove your name from the list we share with other organizations.
 
 Persons who supply us with their telephone or fax numbers online may receive telephone contact from us. Any such call will probably concern orders they have placed online or questions they have about our firm's products and services. We will not share telephone or fax numbers with other organizations.
+
+  
+
 
 * * *
 
