@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptilt.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212141526id_/http%3A//uptilt.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptilt.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607182024id_/http%3A//www.uptilt.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -29,10 +29,11 @@ Uptilt provides online marketing services and products to its clients. These ser
 John Doe | JohnDoe@someaddress.com  
 JohnDoe@anotheraddress.com | John Doe | JohnDoe@someaddress.com  
   
-  
 Uptilt's services sometimes use cookies to help our clients better analyze the success of their email and other online marketing campaigns. The cookies we serve are often correlated with individually identifiable information, but this information is not shared with anyone other than the client. As with the email example above, this data is not shared across multiple clients.
 
-_Uptilt is not responsible for its clients' privacy policies and makes no representations about their accuracy. If you have questions about our clients' practices, we recommend you check their privacy policies and/or contact them directly.
+_Uptilt is not responsible for its clients' privacy policies_
+
+_and makes no representations about their accuracy. If you have questions about our clients' practices, we recommend you check their privacy policies and/or contact them directly.
 
 **Security  
 **
