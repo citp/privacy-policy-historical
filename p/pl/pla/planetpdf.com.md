@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207172657id_/http%3A//planetpdf.com/mainpage.asp%3FWebPageID%3D753) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606074310id_/http%3A//www.planetpdf.com/mainpage.asp%3FWebPageID%3D753) for the most accurate reproduction.*
 
 # Planet PDF - Privacy Policy - updated 6 June 2002
 
