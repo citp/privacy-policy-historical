@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the blink.com privacy policy that was archived on 2000-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205115400id_/http%3A//www.blink.com/go%3Fpage%3DAbout%26args%3D1%26arg0%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blink.com privacy policy that was archived on 2001-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604171434id_/http%3A//blink.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta name="KEYWORDS" content="bookmark, favorites, bookmark manager, bookmarks, link manager, online bookmark, share, search, private, online, hotlists">
 <meta name="DESCRIPTION" content="FREE service for storing your Web bookmarks online in a private account. Collaborative searching finds great new ones. Cool sharing features lets you exchange bookmarks with friends and other Blink members.">
 <title>Blink and Your Privacy</title>
 <link rel="stylesheet" type="text/css" href="/css/20001129/s/0/en/html/var.Default.css"></head>
-<body bgcolor="#FFFFFF" link="#000066" alink="#FF9933" vlink="#000066" text="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onload="loadFunc();"><script type="text/javascript" language="javascript" src="/js/misc20001116.js"></script><script type="text/javascript" language="javascript"><!--
+<body bgcolor="#FFFFFF" link="#000066" alink="#FF9933" vlink="#000066" text="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onload="loadFunc();"><script type="text/javascript" language="javascript" src="/js/misc20010122.js"></script><script type="text/javascript" language="javascript"><!--
 function spacer(w, h) {
 	return "<img src=\"/icons/1x1p-clear.gif\" width=" + w + " height=" + h + " border=0>";
 }
@@ -19,13 +19,13 @@ function loadFunc() {
 
 }
 function doLaunch(urlId, dirId, postId, guId) {
- window.open('/go?args=5&arg0=cmd&arg1=url&arg2=' + urlId + '&arg3=' + dirId + '&arg4=' + postId + '&session_id=n5dbe0pvow.va4', 'HZ'+ guId);
+ window.open('/go?args=5&arg0=cmd&arg1=url&arg2=' + urlId + '&arg3=' + dirId + '&arg4=' + postId + '&session_id=2wcw4jim55.va3', 'HZ'+ guId);
 if (window.reloadAd != null) {reloadAd();}
 }
 function doBRLaunch(urlId, dirId, postId, guId) {
- window.open('br?arg1=0&arg2=' + urlId + '&arg3=' + dirId, 'HZ'+ guId);
-if (window.reloadAd != null) {reloadAd();}
-}
+ location.href='/go?page=Entry';}
+function doBROfferLaunch(activityID, offerID, key) {
+ location.href='/go?page=Entry';}
 
 //-->
 </script><table id="advertTable" width="98%" border="0" cellspacing="0" cellpadding="0">
@@ -40,59 +40,109 @@ if (window.reloadAd != null) {reloadAd();}
 <area shape="rect" coords="0,0,111,92" href="/go?page=Main">
 </map>
 </td>
-    <td align="right"><script type="text/javascript" language="javascript">
+    <td align="left"><script type="text/javascript" language="javascript">
 <!--
-// Copyright 2000 Blink.Com
 
+var abr = '';
 // date based number
-function getRandom(){
-  DartNow = new Date();
-  DartRandom = DartNow.getTime() % 10000000;
-  return DartRandom;
+function getRandom() {
+    DartNow = new Date();
+    DartRandom = DartNow.getTime() % 10000000;
+    return DartRandom;
+}
+
+function inner(r) {
+    return '<a href="' + dartHref + abr + 'ord=' + r + '?">' +
+	'<img src="' + dartImgSrc + abr + 'ord=' + r + '?" ' +
+	'border="0" height="60" width="468"></a>';
+}
+
+function outer(r) {
+    return '<iframe name="myframe" src="' + dartIF + 'ord=' + r +
+	'?\" width="468" height="60" frameborder="no" border="0"' +
+	' marginwidth="0" marginheight="0" scrolling="no">' +
+	inner(r) + '</iframe>';
 }
 
 // this is called when a bookmark is clicked on
 function reloadAd() {
- if (document.images && document.all) {
-     document.dartImg.src = dartImgSrc + getRandom() + '?';
-     document.all.dartLink.href = dartHref + getRandom() + '?';
-  }
-}
+    if (document.images && document.all) {
+	var r = getRandom();
 
-// this writes the ad
-function writeAd() {
-    r = getRandom();
-    document.write('<A NAME="dartLink"' + ' HREF="' + dartHref + r
-		+ '?">');
-    if (is.vendor == "MSIE"
-        && is.majV == 4
-        && is.os == "Windows"
-        && document.folders)
-    {
-        document.write('<IMG NAME="dartImg" WIDTH=468 HEIGHT=60 BORDER=0 SRC="'
-         + spacer + '"></A>');
-    } else {
-        document.write('<IMG NAME="dartImg" WIDTH=468 HEIGHT=60 BORDER=0 SRC="'
-         + dartImgSrc + r + '?"></A>');
+	if (document.all.myframe) {
+	    var fr = document.all.myframe;
+	    fr.outerHTML = outer(r);
+	} else {
+	    if (document.dartImg)
+		document.dartImg.src = dartImgSrc + abr + 'ord=' + r + '?';
+
+	    if (mydoc.all.dartLink)
+		mydoc.all.dartLink.href = dartHref + abr + 'ord=' + r + '?';
+	}
     }
 }
 
+function dartLayer() {
+    var r = getRandom();
+    if (is.vendor == "Netscape" && is.majV < 5) {
+	document.write('<layer src="' + dartIL + 'ord=' + r +
+	    '?" width="468" height="60" visibility="hide" ' +
+	    'onLoad="moveToAbsolute(layer1.pageX,layer1.pageY); ' +
+	    'clip.height=60; clip.width=468; visibility=\'show\';"></layer>');
+    }
+}
+
+function writeAd() {
+    var r = getRandom();
+
+    if (document.all) {
+	abr = 'abr=!ie;';
+        document.write(outer(r));
+    } else if (is.vendor == "Netscape" && is.majV < 5) {
+        document.write('<ilayer id="layer1" visibility="hide"' +
+	    ' width="468" height="60"></ilayer>');
+    } else {
+        document.write('<a name="dartLink"' + ' href="' + dartHref +
+	    'ord=' + r + '?">');
+        if (is.vendor == "MSIE"
+            && is.majV == 4
+            && is.os == "Windows"
+            && document.folders) {
+            document.write('<img name="dartImg" width="468" height="60"' +
+		' border="0" src="' + spacer + '"></a>');
+        } else {
+            document.write('<img name="dartImg" width="468" height="60"' +
+		' border="0" src="' + dartImgSrc + 'ord=' + r + '?"></a>');
+        }
+    }
+}
+
+
 // keep these
-dartImgSrc = 'http://ad.doubleclick.net/ad/blink.dart/about-us;d2=0;d1=0;sz=468x60;ord=';
-dartHref = 'http://ad.doubleclick.net/jump/blink.dart/about-us;d2=0;d1=0;sz=468x60;ord=';
+var i = window.location.href.indexOf('://');
+if (i != -1)
+    proto = window.location.href.substring(0, i + 3);
+else
+    proto = 'http://';
+
+parameters = 'blink.dart/about-us;d1=0;d2=0;sz=468x60;';
+dartImgSrc = proto + 'ad.doubleclick.net/ad/' + parameters;
+dartHref = proto + 'ad.doubleclick.net/jump/' + parameters;
+dartIF = proto + 'ad.doubleclick.net/adi/' + parameters;
+dartIL = proto + 'ad.doubleclick.net/adl/' + parameters;
 
 // write the advert
 writeAd();
 
 //-->
-</script><a name="dartLink" href="http://ad.doubleclick.net/jump/blink.dart/about-us;d2=0;d1=0;sz=468x60;ord=4057374?">
-</a></td>
+</script><a name="dartLink" href="https://ad.doubleclick.net/jump/blink.dart/about-us;d1=0;d2=0;sz=468x60;ord=4055939?"><img name="dartImg" width="468" height="60" border="0" src="https://ad.doubleclick.net/ad/blink.dart/about-us;d1=0;d2=0;sz=468x60;ord=4055939?"></a>
+</td>
 </tr>
 <tr>
-    <td valign="bottom" align="right"><table cellpadding="0" cellspacing="0" border="0">
+    <td valign="bottom" align="left"><table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 	<td></td>
-	<td><a href="/go?page=RegEmail&amp;path=0"><img src="/s/0/en/img/signupnow.gif" width="130" height="29" border="0"></a> <a href="/go?page=Popup&amp;path=0&amp;args=4&amp;arg0=false&amp;arg1=demo&amp;arg2=guest"><img src="/s/0/en/img/splash/splash_09.gif" width="156" height="40" border="0"></a></td>
+	<td><img src="/s/0/en/img/bttn_header_loggedout2.gif" width="468" height="40" border="0" usemap="#signupmap"><map name="signupmap"><area shape="rect" coords="0,0,180,40" href="/register"><area shape="rect" coords="306,0,468,40" href="/login"><area shape="rect" coords="181,0,305,40" href="/go?page=Popup&amp;args=4&amp;arg0=false&amp;arg1=demo&amp;arg2=guest"></map></td>
 	</tr>
     </tbody></table></td>
 </tr>
@@ -100,22 +150,13 @@ writeAd();
 
 <table id="menuTable" width="99%" border="0" cellspacing="2" cellpadding="2" bgcolor="#CCCCCC">
 <tbody><tr>
-<td valign="middle" align="left" bgcolor="#000099"><nobr><table width="90%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td valign="middle" align="right" nowrap=""><form name="form" method="post" action="/go">
-<input type="hidden" name="frm" value="form"><input type="hidden" name="page" value="About"><img src="/s/0/en/img/arrowyel.gif" width="9" height="11" border="0" alt="">&nbsp;<a class="navw" href="/go?page=ForgotPass&amp;args=1&amp;arg0=init">Login:</a>&nbsp;</form></td>
-<td valign="middle" align="left"><font face="normal"><input type="text" name="LCusername" size="8" value="" tabindex="1"></font></td>
-<td valign="middle" align="right" nowrap="">&nbsp;<img src="/s/0/en/img/arrowyel.gif" width="9" height="11" border="0" alt="">&nbsp;<a class="navw" href="/go?page=ForgotPass&amp;args=1&amp;arg0=init">Password:</a>&nbsp;</td>
-<td valign="middle" align="left"><font face="normal"><input type="password" name="LCpassword" size="8" value="" tabindex="2"></font></td>
-<td width="20" valign="middle" align="center"><input type="image" alt="login" src="/s/0/en/img/goblue.gif" width="24" height="18" border="0" name="Login" value="Login" tabindex="4"></td>
-<td valign="middle" align="center" nowrap=""><img src="/s/0/en/img/savepassword.gif" width="52" height="18" border="0"><input type="checkBox" name="autologin" value="true" tabindex="3"></td>
-</tr>
-</tbody></table>
-</nobr></td>
-<td bgcolor="#66CC00" valign="middle" width="100" align="center"><nobr><img src="/s/0/en/img/arrowyel.gif" width="9" height="11" border="0" alt="">&nbsp;<a class="nav" href="/go?page=Popup&amp;args=4&amp;arg0=false&amp;arg1=demo&amp;arg2=guest&amp;arg3=false">DEMO</a>&nbsp;</nobr></td>
-<td bgcolor="#66CC00" valign="middle" width="100" align="center"><nobr><img src="/s/0/en/img/arrowyel.gif" width="9" height="11" border="0" alt="">&nbsp;<a class="nav" href="/go?page=Public">PUBLIC&nbsp;LIBRARY</a>&nbsp;</nobr></td>
-<td bgcolor="#000099" valign="middle" width="100" align="center"><nobr><img src="/s/0/en/img/arrowdown.gif" width="11" height="9" border="0" alt="">&nbsp;<a class="navw" href="/go?page=About">ABOUT&nbsp;US</a>&nbsp;</nobr></td>
-<td bgcolor="#66CC00" valign="middle" width="100" align="center"><nobr><img src="/s/0/en/img/arrowyel.gif" width="9" height="11" border="0" alt="">&nbsp;<a class="nav" href="/go?page=Login&amp;">HOME</a>&nbsp;</nobr></td>
+<td bgcolor="#66CC00" valign="middle" width="100" align="center"><nobr><img src="/s/0/en/img/arrowyel.gif" width="9" height="11" border="0" alt="">&nbsp;<a class="nav" href="/go?page=BlinkRewards">MY&nbsp;BLINK&nbsp;</a>&nbsp;</nobr></td>
+<td bgcolor="#66CC00" valign="middle" width="100" align="center"><nobr><img src="/s/0/en/img/arrowyel.gif" width="9" height="11" border="0" alt="">&nbsp;<a class="nav" href="/go?page=Public&amp;clicksource=menubar">PUBLIC&nbsp;LIBRARY</a>&nbsp;</nobr></td>
+<td bgcolor="#66CC00" valign="middle" width="100" align="center"><nobr><img src="/s/0/en/img/arrowyel.gif" width="9" height="11" border="0" alt="">&nbsp;<a class="nav" href="/go?page=Search&amp;clicksource=menubar">SEARCH</a>&nbsp;</nobr></td>
+<td bgcolor="#000099" valign="middle" width="100" align="center"><nobr><img src="/s/0/en/img/arrowdown.gif" width="11" height="9" border="0" alt="">&nbsp;<a class="navhi" href="/go?page=About">ABOUT&nbsp;US</a>&nbsp;</nobr></td>
+<td bgcolor="#66CC00" valign="middle" width="100" align="center"><nobr><img src="/s/0/en/img/arrowyel.gif" width="9" height="11" border="0" alt="">&nbsp;<a class="nav" href="/go?page=Help&amp;clicksource=menubar">HELP</a>&nbsp;</nobr></td>
+<td align="right" bgcolor="#66CC00"><form name="form" method="post" action="/go">
+<input type="hidden" name="frm" value="form"><input type="hidden" name="page" value="About">&nbsp;</form></td>
 </tr>
 </tbody></table>
 <table width="99%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
@@ -158,7 +199,7 @@ writeAd();
 </tr>
 <tr>
 <td bgcolor="#CCCCFF"><img src="/icons/1x1p-clear.gif" width="10" height="20" border="0"></td>
-<td bgcolor="#CCCCFF"><img src="/s/0/en/img/point.gif" width="5" height="6" border="0">&nbsp;<font color="#000000"><a href="/go?page=About&amp;args=1&amp;arg0=network">The Blink Network</a></font>&nbsp;</td>
+<td bgcolor="#CCCCFF"><img src="/s/0/en/img/point.gif" width="5" height="6" border="0">&nbsp;<font color="#000000"><a href="/go?page=About&amp;args=1&amp;arg0=wireless">Blink Wireless</a></font>&nbsp;</td>
 </tr>
 <tr>
 <td bgcolor="#CCCCFF"><img src="/icons/1x1p-clear.gif" width="10" height="20" border="0"></td>
@@ -170,7 +211,7 @@ writeAd();
 </tr>
 <tr>
 <td bgcolor="#FFFFFF"><img src="/icons/1x1p-clear.gif" width="10" height="20" border="0"></td>
-<td bgcolor="#FFFFFF"><img src="/s/0/en/img/pointred.gif" width="5" height="6" border="0">&nbsp;<font color="#FF0000">Privacy</font>&nbsp;</td>
+<td bgcolor="#FFFFFF"><img src="/s/0/en/img/pointred.gif" width="5" height="6" border="0">&nbsp;<font color="#000000">Privacy</font>&nbsp;</td>
 </tr>
 <tr>
 <td bgcolor="#CCCCFF"><img src="/icons/1x1p-clear.gif" width="10" height="20" border="0"></td>
@@ -197,7 +238,7 @@ writeAd();
 </tr>
 <tr>
 <td valign="top"><!-- Version: 1 -->
-<!-- $Id: privacy.html,v 1.9 2000/11/17 21:15:33 bomee Exp $ -->
+<!-- $Id: privacy.html,v 1.11 2001/01/18 23:17:22 bradley Exp $ -->
 <!-- Title: Privacy Policy -->
 
 <table width="450" cellpadding="5" align="center" border="0">
@@ -215,11 +256,13 @@ writeAd();
             <p><strong>TRUSTe Privacy Program</strong></p>
 	    <img src="/s/0/en/img/truste.org.gif" width="120" height="60" border="0" alt="Truste Privacy Partnership" align="right">
             <p>Blink is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Blink wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Blink has agreed to notify you of: what personally identifiable information of yours is collected from you through Blink; how the information is used; any exceptional circumstance under which the information may be shared (it is the policy of Blink never to share your information); what choices are available to you regarding collection, use, and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse, or alteration of information under Blink's control; and how you can correct any inaccuracies in the information.</p>
-            <p>If you have questions or concerns regarding this statement, you should first contact <a href="mailto:privacy@Blink.com">privacy@blink.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org">http://www.truste.org</a>. TRUSTe will then serve as a liaison with Blink to resolve your concerns.</p>
+            <p>If you have questions or concerns regarding this statement, you should first contact <a href="mailto:privacy@Blink.com">privacy@blink.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org/users/users_watchdog.html">http://www.truste.org/users/users_watchdog.html</a>. TRUSTe will then serve as a liaison with Blink to resolve your concerns.</p>
             <p><strong>Personal Information Collection</strong></p>
 
 <p>Two kinds of personal information are requested during registration: personally identifiable information and demographic information. Personally identifiable information is required for registration, but other demographic information is optional and may be given at your discretion.  During registration, Blink asks for your first name, middle initial, last name, an e-mail address, and a home page, if you have one. In addition, we ask you to provide a password. Personally identifiable information is not shared with anyone, nor is it sold to anyone.  The demographic information gathered includes gender, approximate age, country, language, zip code, time zone, occupation and industry.  You may update any of this information at any time (except your member name) from within your Blink account by clicking the "Demographics" choice within the "Preferences" tab and changing any information you wish. The more information you provide us with, and the more accurate it is, the easier it is for us to customize your use of Blink, as well as provide information to you that you will find useful. For example, your personal profile might help us connect you with other members who share similar interests to yours.  </p>
-<p>In addition to registration we may ask you for personal information at other times, such as when you report a problem with one of our sites or services. Blink may also occasionally ask members to complete surveys that we use for internal research. Blink also tracks information about web site visitation, on an aggregated basis.  Blink calculates the total number of Blink members who have bookmarked a site. Blink calculates the aggregate number of visits to a site by all Blink members together. When you are viewing a link in a public folder, Blink also tells you the last time that link was visited by any member of Blink. You can choose not to have your links and visits counted towards these aggregate totals by checking: "Add my bookmarks to the Blink Search Engine, to help other Members find great sites?" found within the "General Settings" choice within the "Preferences" tab.  This aggregate information is posted on the web site, and available to our registered members to view.  This information can also be used to help you find communities of members with similar interests.</p>
+<p>In addition to registration we may ask you for personal information at other times, such as when you report a problem with one of our sites or services. Blink may also occasionally ask members to complete surveys that we use for internal research. Blink also tracks information about web site visitation, on an aggregated basis.  Blink calculates the total number of Blink members who have bookmarked a site. Blink calculates the aggregate number of visits to a site by all Blink members together. When you are viewing a link in a public folder, Blink also tells you the last time that link was visited by any member of Blink. You can choose not to have your links and visits counted towards these aggregate totals by checking no to the question: "Add my bookmarks to the Blink Search Engine, to help other Members find great sites?" found within the "General Settings" choice within the "Preferences" tab.  This aggregate information is posted on the web site, and available to our registered members to view.  This information can also be used to help you find communities of members with similar interests.</p>
+
+<a name="spam"></a>
             <p><strong>Personal Information Utilization</strong></p>
 <p>Your personal information is used only for demographic statistics and to display appropriately targeted advertisements. For example, Blink does internal research on our members' demographics, interests, and behavior based on what you tell us when you register, what links you keep on your Blink account, and from our server log files. In general, Blink automatically gathers certain usage information like the numbers and frequency of visits to Blink. This research is compiled and analyzed on an aggregated basis, meaning your personal demographic information is never directly accessed. The collective data helps us determine how often Blink members use parts of the site, primarily so that we can improve our site to keep it as interesting and appealing as possible. Blink may disclose aggregated user statistics (for example, 20% of our users are between 33-40) so that we may describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. By providing this information, you acknowledge that Blink may use members' profile information to improve or customize the Blink service or to provide demographic profiling to obtain advertising. Any use of profile information will be conducted in line with the guidelines set forth in this Privacy Statement.</p>
 <p>Blink's main goal in collecting personal information is to provide you with the best customized experience on our site. This includes communities of users, interactive communications, and many other types of services, all of which are completely free to you. For us to provide these services free of charge, we display advertisements, which cover the cost of operating this site. Our primary services are customized services - including link management, allowing access to your links from any location and any computer, as well as the ability for you to send lists of links to anyone at any time. In addition, we offer community services, such as allowing you to share any folder you want to with other members or groups of members.</p>
@@ -231,19 +274,15 @@ writeAd();
             <p><strong>Blink Profiles</strong></p>
 <p>During the Blink registration process you have the opportunity to choose whether you want your profile information to be made available to other members. This profile information includes your name, email address, and the address of your homepage, if applicable. You can change or remove your profile at any time by clicking on the "General Settings" option in the "Preferences" tab.</p>
             <p><strong>Security</strong></p>
-<p>Personal information collected by Blink is stored and maintained in secure operating environments that are not available to the public. Blink does not sell or rent member information to anyone, although as discussed under the section on "Personal Information Utilization," certain demographic information is made available to other sites or advertisers on an aggregated basis. When we ask you for personal information, you are sharing that information with Blink alone, unless it is specifically stated otherwise. We do not share personal information with any third parties unless we have belief that such action is necessary to: either conform to legal requirements, protect the rights of Blink, or enforce the Blink Terms of Service. Please be aware that Blink advertisers or web sites that have links on our site may collect personally identifiable information about you when you access their site or use their services. In order to participate in BlinkRewards(SM), members may have to share additional information with Third Parties in the fulfillment of BlinkRewards(SM). If you choose to not provide this information, which may be subject to their Privacy Policy, then you cannot participate in BlinkRewards(SM). As stated below, the information practices of third party web sites are not covered by this privacy statement.</p>
+<p>Personal information collected by Blink is stored and maintained in secure operating environments that are not available to the public. Blink does not sell or rent member information to anyone, although as discussed under the section on "Personal Information Utilization," certain demographic information is made available to other sites or advertisers on an aggregated basis. When we ask you for personal information, you are sharing that information with Blink alone, unless it is specifically stated otherwise. We do not share personal information with any third parties unless we have belief that such action is necessary to: either conform to legal requirements, protect the rights of Blink, or enforce the Blink Terms of Service. Please be aware that Blink advertisers or web sites that have links on our site may collect personally identifiable information about you when you access their site or use their services. In order to participate in BlinkRewards(SM), members may have to share additional information with Third Parties in the fulfillment of BlinkRewards(SM). If you choose to not provide this information, which may be subject to their Privacy Policy, then you cannot participate in BlinkRewards(SM). You should also be aware that Blink uses frames to display awards that are part of the BlinkRewards(SM) Incentive Program.  As stated below, the information practices of third party web sites are not covered by this privacy statement.</p>
 <p>Please be aware that you might also provide personal information through discussion sessions, email exchanges or shared link folders. Certain information that you choose to post is publicly available. For example, information posted in shared folders is accessible to all members, or groups of members that you designate. By designating a folder shared, and clicking on the add links button, you are giving consent to other members to add links to your folders. Private folders are accessible only to you. All shared link folders, chat sessions and bulletin board use is considered public and you are responsible for your actions in these areas. The Blink "Privacy Statement" cannot protect your personal information if it is transferred in this manner. We recommend that you be careful when distributing any personal information this way.</p>
-<p>Your Blink information is password-protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Remember to logout and close your browser window when you have finished your work to ensure that others cannot access your personal information.
+<p>Your Blink information is password-protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Blink employees do not have access to your data, however certain technical staff need access to the data and are given password protected access.  This security policy is defined in the employee handbook, and employees are regularly reminded of our privacy policy by circulating handouts and email reminders.  Our web security is reviewed by running daily security scripts on the Web servers that report any abnormal behavior.  Remember to logout and close your browser window when you have finished your work to ensure that others cannot access your personal information.
 </p>
             <p><strong>Third Party Web Sites</strong></p>
 <p>Blink contains folders composed of links to third-party web sites. These numerous linked sites are not under the control of Blink and are not affiliated with Blink.  Blink cannot be responsible for the contents of any linked site or the contents of any link contained in a linked site. Blink provides these links only as an information service to our members, or our members have voluntarily listed their favorite sites for information purposes in folders maintained by Blink. Therefore, a web site contained in a member's link list folder, or group folders, on Blink does not indicate endorsement of the linked site or its contents by Blink. Please refer to the <a href="/about/terms">Terms of Service</a> for additional details.</p>
+<p>In addition, Blink.com works with a third party (DoubleClick, Inc.) to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by Blink.com and does not cover the use of cookies by any advertisers. Blink.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how DoubleClick manages the privacy of information in conjunction with serving ads on this site go to <a href="http://www.doubleclick.com/us/corporate/privacy/">http://www.doubleclick.com/us/corporate/privacy/</a>.
 
-<p><strong>Third Party Advertising Companies</strong></p>
-
-<p>We use third-party advertising companies to serve ads when you visit our Web site.  Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please <a href="http://www.sonar.com/content/privacy.htm">click here</a>.</p>
-
-
-            <p><strong>Blink Privacy Policy Changes</strong></p>
+            </p><p><strong>Blink Privacy Policy Changes</strong></p>
 <p>If Blink changes its privacy policy, these changes will be posted here so that you will always know what information Blink gathers, how Blink might use that information, and whether Blink will disclose it to anyone.  If Blink makes any material change concerning how your personally identifiable information is used, then, in addition to including such revision in this privacy statement, Blink will post a notice on the Blink site that a change to the privacy policy has taken place. You are expected to review this Agreement periodically to ensure familiarity with the most current version Please also review Blink(SM)'s <a href="/about/terms">Terms of Service</a>.</p>
 
             <p><strong>Questions</strong></p>
@@ -294,7 +333,7 @@ Fax: (212) 619-0080<br></p>
 <tr>
     <td>&nbsp;</td>
     <td><!--links-->
-	<a href="/about/">About&nbsp;Blink</a> |
+	<a href="/about">About&nbsp;Blink</a> |
 	<a href="mailto:suggest@blink.com">Contact&nbsp;Blink</a> |
 	<!-- <a href="/affiliates">Affiliates</a> | -->
 	<!-- <a href="/about/terms">Terms&nbsp;of&nbsp;Service</a> | -->
@@ -302,10 +341,10 @@ Fax: (212) 619-0080<br></p>
 	<a href="/help">Help</a>
 	<!-- <a href="/help/faq">FAQ</a> | <a href="/jobs">Jobs</a> | -->
 	<br>
-	<!-- <a href="javascript:{}" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www1.blink.com');">Make&nbsp;Blink&nbsp;your&nbsp;homepage!</a> -->
+	<!-- <a href="javascript:{}" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.blink.com');">Make&nbsp;Blink&nbsp;your&nbsp;homepage!</a> -->
 	<br>
 	<!--copyright-->
-	<div class="footer"><br>Copyright © 1999, 2000 Blink.com, Inc., All Rights Reserved, Patent Pending<br>"Blink" and "My Blink" are service marks of Blink.com, Inc.</div></td>
+	<div class="footer"><br>Copyright © 1999-2001 Blink.com, Inc., All Rights Reserved, Patent Pending<br>"Blink" and "My Blink" are service marks of Blink.com, Inc.</div></td>
 
     <td align="center" valign="top" nowrap=""><a href="/go?page=ForgotPass">Forgot your password?</a></td>
 </tr>
@@ -313,9 +352,14 @@ Fax: (212) 619-0080<br></p>
     <td colspan="4">&nbsp;</td>
 </tr>
 </tbody></table>
-<input type="hidden" name="blink_eof" value="yes"><script type="text/javascript" language="javascript"><!--
+<!-- blank partner footer -->
+<script type="text/javascript" language="javascript"><!--
 if (window.reposition) reposition();
 //-->
 </script>
-
-</body></html>
+<script type="text/javascript" language="javascript">
+<!--
+if (window.dartLayer)
+	dartLayer();
+//-->
+</script></body></html>
