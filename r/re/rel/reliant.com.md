@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602103702id_/http%3A//www.reliant.com/www/home2/1%2C1378%2CCID650-TYPABOU-STYFOOT-PLMCORPCOMM-DSTEXIN-TAG-BULEGAL-GEO-LOCUSA-LANENG%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2002-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020119221325id_/http%3A//reliant.com/www/home2/1%2C2451%2CCID650-TYPABOU-STYFOOT-PLMCORPCOMM-DSTEXIN-TAGtag_value-BUSLEGAL-GEOINF-LOCUSA-LANENG%2C00.html) for the most accurate reproduction.*
 
 # 
 
