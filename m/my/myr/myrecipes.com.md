@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213172800id_/http%3A//www.myrecipes.com/products/shourplg.asp%3FHome%3Dprod) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405035109id_/http%3A//myrecipes.com/products/shourplg.asp%3FHome%3Dfoot2.priv.prod) for the most accurate reproduction.*
 
 # Cooking.com - Pledge
 
@@ -18,13 +18,13 @@ Cooking.com respects your privacy. Our Internet site is meant to be a service to
 
 *  **When you purchase products from Cooking.com** , we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we only share your personal information with outside parties to the extent necessary to fulfill your order. In addition,
 
-a. Your First Purchase from Cooking.com - Unless you click the link to edit your subscription profile at the time your order is confirmed, we use the information you provide to: 
+**a. Your First Purchase from Cooking.com** \- Unless you click the link to edit your subscription profile at the time your order is confirmed, we use the information you provide to: 
 
   * **automatically place you on our e-mail newsletter list** to receive e-mail newsletters with recipes, special offers and updates about products and services;
   * **automatically place you on our direct mail/ catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services; and
   * **make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available** to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
 
-b. Your Subsequent Purchases from Cooking.com - If you have purchased product from Cooking.com before, unless you click the link to edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
+**b. Your Subsequent Purchases from Cooking.com** \- If you have purchased product from Cooking.com before, unless you click the link to edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
 
 Whether you are making a first purchase or any subsequent purchase, if you later decide that you want to be removed from a list or do not want us to share your name and postal address information, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
 
@@ -41,6 +41,17 @@ Whether you are making a first purchase or any subsequent purchase, if you later
   * **automatically place you on our direct mail/ catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services.
 
 If you want to be removed from a list, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
+*  **When you create a wedding registry at Cooking.com** , we collect your name, your spouse’s name, your shipping address, telephone number, wedding date (month and year) and location (city and state), email address, and if you provide them, your spouse’s email address and a guest password.
+
+We use this information to maintain your wedding registry, help guests find it on our web site, and send you products purchased for you. We also use the information you provide to: 
+
+  * Automatically place you on our e-mail newsletter lists to receive e-mails with recipes, special offers and updates about products and services; and
+  * Automatically place you on our direct mail/catalog list to receive from us direct mail and printed catalogs with special offers and updates about products and services.
+
+You can unsubscribe from the e-mail newsletters and/or direct mail/catalog list at any time by following the instructions in the section below “Reviewing, Changing Your Information or Unsubscribing.” When you ask that we notify your guests of your registry, we collect your guests’ name and e-mail address. We use your guests' name and e-mail address only to send them the notification e-mail.
+
+When you create a registry, guests can see your names, wedding date (month and year), wedding location (city and state), the items you have registered for, and the quantities you have received. If you password-protect the guest view of your registry, guests initially see only your names, wedding date and location. They need a password (provided to them by you) to view the items you have registered for.
+
 *  **If you are part of a rewards or incentive program** such as ClickRewards or AOL Rewards that gives you "points" or other incentives for purchasing product on our website, we will share your information with the operator of the rewards or incentive program in order to enable them to credit you with the purchase.
 
 **Information about customers and visitors shared with third parties**
