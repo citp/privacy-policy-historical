@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiroeco.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212170914id_/http%3A//www.chiroeco.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiroeco.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403192404id_/http%3A//www.chiroeco.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Chiropractic Economics - Privacy Policy
 
@@ -10,7 +10,7 @@
 > Chirocpractic Economics, Inc. 5150 Palm Valley Rd. Suite 103, Ponte Vedra Beach, FL 32082  
 > 
 > 
-> This is a website of Chirocpractic Economics, Inc. We are committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. If you have any concerns, questions or comments please email the Website [editor](https://web.archive.org/web/20041212170914id_/http%3A//www.chiroeco.com/digitaloutput@digitaloutput.net).   
+> This is a website of Chirocpractic Economics, Inc. We are committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. If you have any concerns, questions or comments please email the Website [editor](https://web.archive.org/web/20050403192404id_/http%3A//www.chiroeco.com/digitaloutput@digitaloutput.net).   
 > 
 > 
 > 2\. Use of Information   
