@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labsafety.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622101623id_/http%3A//www.labsafety.com/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labsafety.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604142019id_/http%3A//www.labsafety.com/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Lab Safety Supply - Privacy Statement
 
