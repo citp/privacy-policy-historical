@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lbf-virtual.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605144851id_/http%3A//www.lbf-virtual.com/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbf-virtual.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209050144id_/http%3A//www.lbf-virtual.com/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
 
-# London Book Fair 2004 - Privacy Pledge
+# London Book Fair 2005 - Privacy Pledge
 
 **Reed Exhibitions Ltd – Privacy Statement**
 
