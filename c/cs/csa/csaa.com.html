@@ -1,0 +1,573 @@
+<!--The following is the downloaded HTML source of the csaa.com privacy policy that was archived on 1999-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19991104070013id_/http%3A//csaa.com/help/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html><head>
+	<title>AAA - Privacy Policy</title>
+
+	<!-- Start Main Include (includes javascript) -->
+	
+
+
+
+
+<script language="JavaScript">
+
+<!-- hide
+
+	// initialize the value of "browser"
+                      var browser = "old";
+                      var bName = navigator.appName;
+                      var bVersion = parseInt(navigator.appVersion);
+
+                      // check for Netscape
+                      if (bName == "Netscape") {
+                        browser = "ns" + bVersion;
+                      } else {
+                        // check for MSIE
+                        if (bName == "Microsoft Internet Explorer") {
+                          if (bVersion >= 4) {
+                            browser = "ie" + bVersion;
+                          } else {
+                            browser = "ie3";
+                          }
+                        }
+                      }
+
+
+
+       function openWindow(url) { 
+          popupWin = window.open(url,'popupWin','height=600,width=600,left=25,top=75,resizable=yes,scrollbars,toolbar'); 
+		   	   if (browser != "ie4") {
+					if (window.focus) { 
+ 	          	     popupWin.focus(); } 
+			   		}
+			   if (browser == "ie3") {
+			   		onLoad="popupWin.focus();"
+					}
+          } 
+
+
+       function openWindows(url) { 
+          popupWin = window.open(url,'popupWin','height=600,width=600,left=25,top=75,resizable=yes,scrollbars,toolbar=yes,menubar=yes,status=yes,location=yes'); 
+		   	   if (browser != "ie4") {
+					if (window.focus) { 
+ 	          	     popupWin.focus(); } 
+			   		}
+			   if (browser == "ie3") {
+			   		onLoad="popupWin.focus();"
+					}
+          }  
+
+					  
+// Pre-load rollovers 
+  if (document.images) {
+  var travel_text = new Image();
+  travel_text.src = "/images/inc/globalnav/travel_3.gif";
+  var auto_text = new Image();
+  auto_text.src = "/images/inc/globalnav/automotive_3.gif";
+  var insurance_text = new Image();
+  insurance_text.src = "/images/inc/globalnav/insurance_3.gif"; 
+  var member_text = new Image();
+  member_text.src = "/images/inc/globalnav/member_3.gif";
+  var via_text = new Image();
+  via_text.src = "/images/inc/globalnav/via_3.gif";
+  var personal_text = new Image();
+  personal_text.src = "/images/inc/globalnav/personal_3.gif";
+  var about_text = new Image();
+  about_text.src = "/images/inc/globalnav/about_3.gif";
+  var help_text = new Image();
+  help_text.src = "/images/inc/globalnav/help_3.gif";
+  var home_text = new Image();
+  help_text.src = "/images/spacer.gif";
+  var imgBase = new Image();
+  imgBase.src = "/images/spacer.gif";
+  }
+  
+// Defining the rollovers
+function LoadTravel() {
+if (document.images) {
+        showDefault = false;
+        document.images["rollover"].src = travel_text.src;
+        }
+        }
+        
+function LoadAutomotive() {
+if (document.images) {
+        showDefault = false;
+        document.images["rollover"].src = auto_text.src;
+        }
+        }
+        
+function LoadInsurance() {
+if (document.images) {
+        showDefault = false;
+        document.images["rollover"].src = insurance_text.src;
+        }
+        }
+        
+function LoadMember() {
+if (document.images) {
+        showDefault = false;
+        document.images["rollover"].src = member_text.src;
+        }
+        }
+		
+function LoadVia() {
+if (document.images) {
+        showDefault = false;
+        document.images["rollover"].src = via_text.src;
+        }
+        }
+
+function LoadPersonal() {
+if (document.images) {
+        showDefault = false;
+        document.images["rollover"].src = personal_text.src;
+        }
+        }
+
+function LoadAbout() {
+if (document.images) {
+        showDefault = false;
+        document.images["rollover"].src = about_text.src;
+        }
+        }
+
+function LoadHelp() {
+if (document.images) {
+        showDefault = false;
+        document.images["rollover"].src = help_text.src;
+        }
+        }
+		
+function LoadHome() {
+if (document.images) {
+        showDefault = false;
+        document.images["rollover"].src = help_text.src;
+        }
+        }
+
+function setDefault() {
+        if (showDefault) {
+                document.images["rollover"].src = imgBase.src;
+        }
+        }
+
+function unLoad() {
+if (document.images) {
+        showDefault = true;
+                setTimeout('setDefault();', 1);
+        }
+}
+        var     nRollOverFlag = 0;
+        var nTotalImages = 0;
+
+        if (document.images) {
+
+                nRollOverFlag = 1;
+                var ImageName = new Array();
+                var ImageArray = new Array();
+
+        }
+
+function AddImageCache(sImageName, sImageURL) {
+
+                // returns -2 if nRollOverFlag is false
+                // returns 0 else...
+                
+                if (!nRollOverFlag) return(-2);
+                ImageName[nTotalImages] = sImageName;
+                ImageArray[nTotalImages] = new Image();
+                ImageArray[nTotalImages].src = sImageURL;
+                nTotalImages += 1;
+                return(0);
+        }
+
+function FindImage(sImageName) {
+
+                // returns -2 if nRollOverFlag is false
+                // returns -1 if not found
+                // returns index to imagename
+
+                if (!nRollOverFlag) return(-2);
+                var nTemp = 0;
+                var nFound = -1;
+                while (nTemp < nTotalImages) {
+                        if (ImageName[nTemp] == sImageName) {
+                                nFound = nTemp;
+                                break;                          
+                        }
+                        nTemp += 1;
+                }
+                return(nFound);
+        }
+
+function swapimage(xobject, sImageName) {
+                if (!nRollOverFlag) return(-2);
+                var nImageIndex = -1;
+                nImageIndex = FindImage(sImageName);
+                if (nImageIndex >= 0) {
+          document.images[xobject].src = ImageArray[nImageIndex].src;
+                }
+                return(0);
+        }
+        
+if (nRollOverFlag) {
+        // image initialization
+        AddImageCache("off1", "/images/inc/globalnav/travel_1.gif");
+        AddImageCache("off2", "/images/inc/globalnav/automotive_1.gif");
+        AddImageCache("off3", "/images/inc/globalnav/insurance_1.gif");
+        AddImageCache("off4", "/images/inc/globalnav/member_1.gif");
+        AddImageCache("off5", "/images/inc/globalnav/via_1.gif");
+		AddImageCache("off6", "/images/inc/globalnav/personal_1.gif");
+		AddImageCache("off7", "/images/inc/globalnav/about_1.gif");
+		AddImageCache("off8", "/images/inc/globalnav/help_1.gif");
+		AddImageCache("off9", "/images/inc/globalnav/home_1.gif");
+        AddImageCache("on1", "/images/inc/globalnav/travel_2.gif");
+        AddImageCache("on2", "/images/inc/globalnav/automotive_2.gif");
+        AddImageCache("on3", "/images/inc/globalnav/insurance_2.gif");
+		AddImageCache("on4", "/images/inc/globalnav/member_2.gif");
+        AddImageCache("on5", "/images/inc/globalnav/via_2.gif");
+        AddImageCache("on6", "/images/inc/globalnav/personal_2.gif");
+		AddImageCache("on7", "/images/inc/globalnav/about_2.gif");
+		AddImageCache("on8", "/images/inc/globalnav/help_2.gif");
+		AddImageCache("on9", "/images/inc/globalnav/home_2.gif");
+        }
+  //-->
+</script>
+
+
+
+
+
+	<!-- End Javascript -->
+
+
+
+</head>
+<body bgcolor="#FFFFFF" link="#0066FF" alink="#CC0000" vlink="#663300">
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+	<tbody><tr>
+<td width="600" colspan="4" align="LEFT" valign="TOP">
+		
+<!-- Start Header Include Cell -->
+		
+
+	
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<input type="hidden" name="strCook02" value="">
+<input type="hidden" name="strSessLogAuth02" value="">
+<input type="hidden" name="strCN02" value=""> 
+	<tbody><tr>
+   		<td align="LEFT" valign="TOP" width="63" height="43"><img src="/images/splash/logo.gif" width="63" height="43" hspace="0" vspace="0" border="0" align="LEFT" alt=""></td>
+<!--
+		<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="74" HEIGHT="43"><IMG SRC="/images/splash/space_holdyourrroad.gif" WIDTH=74 HEIGHT=43 HSPACE=0 VSPACE=0 BORDER=0 ALIGN="LEFT" ALT=""></TD>
+-->
+		<td align="LEFT" valign="TOP" width="74" height="43"><img src="/images/splash/yourroad.gif" width="74" height="43" hspace="0" vspace="0" border="0" align="left" alt=""></td>
+		<td align="LEFT" valign="TOP" width="463" height="43"><img src="/images/splash/mountains.gif" width="463" height="43" hspace="0" vspace="0" border="0" align="LEFT" alt=""></td>
+	</tr>
+</tbody></table>
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="LEFT" valign="TOP" width="54" height="16" bgcolor="#000000"><a href="/travel/" onmouseover="swapimage('off1','on1'); LoadTravel();" onmouseout="swapimage('off1','off1'); unLoad();"><img src="/images/inc/globalnav/travel_1.gif" width="54" height="16" hspace="0" vspace="0" border="0" align="LEFT" name="off1" alt=""></a></td>
+		<td align="LEFT" valign="TOP" width="77" height="16" bgcolor="#000000"><a href="/automotive/" onmouseover="swapimage('off2','on2'); LoadAutomotive();" onmouseout="swapimage('off2','off2'); unLoad();"><img src="/images/inc/globalnav/automotive_1.gif" width="77" height="16" hspace="0" vspace="0" border="0" align="LEFT" name="off2" alt=""></a></td>
+		<td align="LEFT" valign="TOP" width="64" height="16" bgcolor="#000000"><a href="/insurance/" onmouseover="swapimage('off3','on3'); LoadInsurance();" onmouseout="swapimage('off3','off3'); unLoad();"><img src="/images/inc/globalnav/insurance_1.gif" width="64" height="16" hspace="0" vspace="0" border="0" align="LEFT" name="off3" alt=""></a></td>
+		<td align="LEFT" valign="TOP" width="93" height="16" bgcolor="#000000"><a href="/memberservices/" onmouseover="swapimage('off4','on4'); LoadMember();" onmouseout="swapimage('off4','off4'); unLoad();"><img src="/images/inc/globalnav/member_1.gif" width="93" height="16" hspace="0" vspace="0" border="0" align="LEFT" name="off4" alt=""></a></td>
+		<td align="LEFT" valign="TOP" width="80" height="16" bgcolor="#000000"><a href="/via/" onmouseover="swapimage('off5','on5'); LoadVia();" onmouseout="swapimage('off5','off5'); unLoad();"><img src="/images/inc/globalnav/via_1.gif" width="80" height="16" hspace="0" vspace="0" border="0" align="LEFT" name="off5" alt=""></a></td>
+		<td align="LEFT" valign="TOP" width="80" height="16" bgcolor="#000000"><a href="/personal/" onmouseover="swapimage('off6','on6'); LoadPersonal();" onmouseout="swapimage('off6','off6'); unLoad();"><img src="/images/inc/globalnav/personal_1.gif" width="80" height="16" hspace="0" vspace="0" border="0" align="LEFT" name="off6" alt=""></a></td>
+		<td align="LEFT" valign="TOP" width="68" height="16" bgcolor="#000000"><a href="/about/" onmouseover="swapimage('off7','on7'); LoadAbout();" onmouseout="swapimage('off7','off7'); unLoad();"><img src="/images/inc/globalnav/about_1.gif" width="68" height="16" hspace="0" vspace="0" border="0" align="LEFT" name="off7" alt=""></a></td>
+		<td align="LEFT" valign="TOP" width="35" height="16" bgcolor="#000000"><a href="/help/" onmouseover="LoadHelp();" onmouseout="unLoad();"><img src="/images/inc/globalnav/help_4.gif" width="35" height="16" hspace="0" vspace="0" border="0" align="LEFT" name="off8" alt=""></a></td>
+		<td align="LEFT" valign="TOP" width="49" height="16" bgcolor="#000000"><a href="/index-anonym.asp" onmouseover="swapimage('off9','on9');" onmouseout="swapimage('off9','off9');"><img src="/images/inc/globalnav/home_1.gif" width="49" height="16" hspace="0" vspace="0" border="0" align="LEFT" name="off9" alt=""></a></td>
+	</tr>
+</tbody></table>
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="LEFT" valign="TOP" width="2" bgcolor="#BBBBBB"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
+   		<td align="LEFT" valign="TOP" width="427"><img src="/images/splash/upperblue2.gif" width="98" height="16" hspace="0" vspace="0" border="0" align="LEFT" alt="blue"><img src="/images/spacer.gif" width="328" height="16" name="rollover" hspace="0" vspace="0" border="0" alt=""></td>
+   		<td align="LEFT" valign="TOP" width="10"><img src="/images/splash/cornerdrip.gif" width="10" height="16" hspace="0" vspace="0" border="0" alt=""></td>
+   		<td align="CENTER" valign="TOP" width="159" bgcolor="#000000">
+		<font face="ARIAL,HELVETICA" size="1" color="#FFFFFF">
+		November 3, 1999
+		</font>
+		</td>
+		<td align="LEFT" valign="TOP" width="2" bgcolor="#BBBBBB"><img src="/images/spacer.gif" width="2" height="1" hspace="0" vspace="0" border="0" alt=""></td>
+		</tr>
+</tbody></table>
+	
+
+<!-- End Header Include Cell -->
+		
+</td>
+	</tr>
+	<tr>
+<td align="LEFT" valign="TOP" width="2" bgcolor="#BBBBBB"><img src="/images/spacer.gif" width="2" height="1" hspace="0" vspace="0" border="0" alt="space"></td>
+    <td align="LEFT" valign="TOP" width="436"> 
+	
+                        <table width="436" border="0" cellpadding="0" cellspacing="0" align="LEFT" valign="TOP" bgcolor="#FFFFFF">
+							<tbody><tr>
+								<td>
+									<table width="436" border="0" cellpadding="0" cellspacing="0" align="CENTER" valign="TOP" bgcolor="#FFFFFF">
+										<tbody><tr>
+												
+	                                        <!-- Start Title Cell -->
+	                                        <td width="75" height="42" align="LEFT" valign="TOP" bgcolor="#FFFFFF"><img src="/images/headers/curve_top.gif" width="75" height="42" border="0" alt=""></td>
+	                                        <td width="335" height="42" align="LEFT" valign="TOP" bgcolor="#FFFFFF"><img src="/images/headers/blank_header.gif" width="335" height="42" hspace="0" vspace="0" border="0" align="TOP" alt=""></td>
+	                                        <td width="26" height="42" align="LEFT" valign="TOP" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="26" height="42" hspace="0" vspace="0" border="0" alt=""></td>
+	                                        <!-- End Title Cell -->
+										
+										</tr>
+									</tbody></table>
+									<table width="436" border="0" cellpadding="0" cellspacing="0" align="LEFT" valign="TOP" bgcolor="#FFFFFF">
+										<tbody><tr>
+	                                        <td width="15" align="LEFT" valign="TOP" bgcolor="#FFFFFF"><img src="/images/headers/curve_bottom_a.gif" width="15" height="78" hspace="0" vspace="0" border="0" align="TOP" alt=""></td>
+											<td width="412" align="LEFT" valign="TOP" bgcolor="#FFFFFF"><img src="/images/headers/curve_bottom_b.gif" width="20" height="30" hspace="0" vspace="0" border="0" alt="">
+	                                        <!-- Start Content Cell -->
+
+											<font size="2" face="Arial,Helvetica">
+                
+											<!-- Start Content -->
+
+	 
+     <font size="2" face="Arial,Helvetica">
+
+	  <!-- Start Content -->
+
+<font size="4"><b>AAA of Northern California, Nevada, &amp; Utah California State Automobile Association Web Site Privacy Policy</b></font>
+<br><br>
+
+<font size="2" face="Arial,Helvetica">
+
+
+<font size="3" face="Arial,Helvetica"><b>Introduction:</b></font>
+<br><br>
+
+Depending on what you do when you visit any Web site, you are providing information about your visit to the site's owners. This includes the Web site maintained by the California State Automobile Association at csaa.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask. 
+<br><br>
+
+The bottom line for the CSAA site is that we use the information that we get from your visit for internal tracking purposes, to make the CSAA site as useful and interesting to you as we can, and to respond to your requests for information or other services and to advise you of services and products. Except as specifically noted below or in the <u>CSAA Web Site Terms, Conditions and Notices</u> ("Terms"), we do not use your personal information for any other purpose, and we never sell it to any third party. 
+<br><br>
+
+Here is more detail on how we handle information we learn from you when you visit CSAA.com. 
+<br><br>
+
+<font size="3" face="Arial,Helvetica"><b>Browsing:</b></font>
+<br><br>
+
+When you visit CSAA.com and move from page to page, read pages, or download content onto your computer, we learn which pages are visited, what is downloaded, the domains our visitors come from (e.g. 'aol.com,' or 'ucsf.edu'), and the addresses of sites visited immediately before coming to CSAA.com. 
+<br><br>
+
+CSAA.com employs cookie technology for personalization. We use standard Web server log files, to help us count visitors and evaluate our site's technical capacity. Our cookies do not capture your individual e-mail address or any private information about you. 
+<br><br>
+
+We use this information to find out how many people visit CSAA.com, help us arrange the pages in the most user-friendly way, keep the site browser-friendly, and to make our pages more useful to our visitors. 
+<br><br>
+
+<font size="3" face="Arial,Helvetica"><b>Responding to Games or Surveys:</b></font>
+<br><br>
+
+When you respond to a trivia game by submitting your answers or respond to a survey question with your opinion, we learn your answer or opinion. We use your response to come up with the game or survey results and, sometimes, to publish those results in aggregate on the site. 
+<br><br>
+
+<font size="3" face="Arial,Helvetica"><b>E-mail:</b></font>
+<br><br>
+
+When you send us an e-mail to comment on something or ask us a question, we learn your exact e-mail address and the thoughts you share. 
+<br><br>
+
+We use your e-mail address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. 
+<br><br>
+
+<font size="3" face="Arial,Helvetica"><b>Mailing Lists, Other Services:</b></font>
+<br><br>
+
+When you give us your e-mail address and/or other information and ask us to use it to provide you with specific communications or other services offered on the CSAA site, we learn your exact e-mail address, any other information you provide, and your request.
+<br><br>
+
+<font size="3" face="Arial,Helvetica"><b>Linking To Other Sites:</b></font>
+<br><br>
+
+Please remember that when you use a link to go from CSAA.com to another Web site, the CSAA Terms and this Privacy Policy are no longer in effect. Your browsing and interaction on any other Web site, including sites which have a link on CSAA.com, are subject to the terms, conditions, and policies of that site. Please read over those terms, conditions, and policies before proceeding. 
+<br><br>
+
+Please note the whenever you submit any information to us in connection with any service or product provided in connection with CSAA.com, your consent to CSAA's processing this information in the United States as necessary to provide the services in which you are participating. Please also read over the CSAA Terms. 
+<br><br>
+
+CSAA takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. If you have any questions, comments, criticisms, or complaints about CSAA.com's privacy policy and/or the way it affects you, please feel free to e-mail us at <a href="mailto:webmaster@csaa.com">webmaster@csaa.com</a>.
+<br><br>
+
+
+© Copyright 1996-1999, California State Automobile Association. All rights reserved. 
+
+
+
+
+
+
+
+
+</font>
+
+
+<!-- End Content -->
+
+ </font>
+ 
+
+											<!-- End Content -->
+                
+											</font>
+                
+											<!-- End Content Table -->
+                                        </td>
+                                        <td width="9" align="LEFT" valign="TOP" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="9" height="1" hspace="0" vspace="0" border="0" alt=""></td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+
+
+	 
+      <p></p>
+    </td>
+   <td align="LEFT" valign="TOP" width="160">
+		
+<!-- Start Navigation Include Cell -->
+		
+<table width="160" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <tbody><tr>
+	 <td align="LEFT" valign="middle" width="1" bgcolor="#BBBBBB"><img src="/images/spacer.gif" width="1" height="2" hspace="0" vspace="0" border="0" alt=""></td>
+	 <td align="LEFT" valign="middle" width="3" bgcolor="#000000"><img src="/images/spacer.gif" width="4" height="3" hspace="0" vspace="0" border="0" alt=""></td>
+<form method="get" action="http://206.132.60.154/searchcsaa/search_results.asp" id="form1" name="form1"></form>
+	 <td align="left" valign="middle" width="155" bgcolor="#000000"><input type="text" name="q1" size="11"></td>
+	 <td align="left" valign="middle">
+			<input type="hidden" name="ct" value="wwwcsaacom">
+			<input type="IMAGE" src="/images/splash/btn_search2.gif" width="42" height="15" border="0" align="left" valign="middle" name="Search"></td>
+	 <td width="1" bgcolor="#000000"><img src="/images/spacer.gif" width="1" height="2" hspace="0" vspace="0" border="0" alt=""></td>
+	</tr>
+   </tbody></table>
+
+<table width="160" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+	<tbody><tr>
+	  	<td width="1" rowspan="7" align="left" bgcolor="#BBBBBB"><img src="/images/spacer.gif" width="1" height="2" hspace="0" vspace="0" border="0" alt=""></td>
+		<td width="159" height="6" align="left" valign="top" bgcolor="#000000"><img src="/images/spacer.gif" width="159" height="6" hspace="0" vspace="0" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td width="159"><img src="/images/personal/personal_access.gif" width="159" height="21"></td>
+	</tr>
+	<tr>
+ 		<td width="159" height="3" align="left" valign="top" bgcolor="#000000"><img src="/images/spacer.gif" width="159" height="3" hspace="0" vspace="0" border="0" alt=""></td>
+	</tr>
+
+
+
+
+ 	<tr>
+ 		<td width="159" height="2" align="left" valign="top" bgcolor="#000000"><img src="/images/spacer.gif" width="159" height="2" hspace="0" vspace="0" border="0" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+	  &nbsp;&nbsp;<a href="/formsLogin.asp?/help/privacy.asp"><img src="/images/personal/tiny_signin.gif" width="10" height="10" border="0"></a>&nbsp;<a href="/formsLogin.asp?/help/privacy.asp"><font color="#ffffff" size="1" face="verdana, ariel, helvetica">Log On</font></a>
+	</td>
+  </tr>
+  
+
+	<tr>
+ 		<td width="159" height="8" align="left" valign="top" bgcolor="#000000"><img src="/images/spacer.gif" width="159" height="8" hspace="0" vspace="0" border="0" alt=""></td>
+	</tr>
+</tbody></table>
+
+
+<table width="160" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><img src="/images/inc/navigation/slice_top_off.gif" width="160" height="6" hspace="0" vspace="0" border="0" align="LEFT" alt="choose an item"></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><a href="/help/sitemap/index.asp"><img src="/images/inc/navigation/help/sitemap_off.gif" width="160" height="26" hspace="0" vspace="0" border="0" align="LEFT" alt="Site Map"></a></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><img src="/images/inc/navigation/slice_off_1.gif" width="160" height="6" hspace="0" vspace="0" border="0" align="LEFT" alt=""></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><a href="/help/y2k.asp"><img src="/images/inc/navigation/help/y2k_off.gif" width="160" height="26" hspace="0" vspace="0" border="0" align="LEFT" alt="Year 2000 Disclosure"></a></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><img src="/images/inc/navigation/slice_off_1.gif" width="160" height="6" hspace="0" vspace="0" border="0" align="LEFT" alt=""></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><a href="/help/terms.asp"><img src="/images/inc/navigation/about/terms_conditions_off.gif" width="160" height="26" hspace="0" vspace="0" border="0" align="LEFT" alt="Terms and Conditions"></a></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><img src="/images/inc/navigation/slice_on.gif" width="160" height="6" hspace="0" vspace="0" border="0" align="LEFT" alt=""></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><a href="/help/privacy.asp"><img src="/images/inc/navigation/about/privacy_policy_on.gif" width="160" height="26" hspace="0" vspace="0" border="0" align="LEFT" alt="Privacy Policy"></a></td>
+	</tr>
+	
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><img src="/images/inc/navigation/slice_off_2.gif" width="160" height="6" hspace="0" vspace="0" border="0" align="LEFT" alt=""></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><a href="/help/contactus.asp"><img src="/images/inc/navigation/about/contactus_off.gif" width="160" height="26" hspace="0" vspace="0" border="0" align="LEFT" alt="Contact Us"></a></td>
+	</tr>
+	<tr>
+		<td align="LEFT" valign="TOP" width="160" colspan="4"><img src="/images/inc/navigation/slice_btm_off.gif" width="160" height="7" hspace="0" vspace="0" border="0" align="LEFT" alt=""></td>
+	</tr>
+</tbody></table>
+
+
+
+<!-- End Navigation Include Cell -->
+		
+</td>
+<td align="LEFT" valign="TOP" width="2" bgcolor="#BBBBBB"><img src="/images/spacer.gif" width="2" height="1" hspace="0" vspace="0" border="0" alt="space"></td>
+	</tr>
+	<tr>
+<td width="600" height="32" colspan="4" align="LEFT" valign="TOP">
+		
+<!-- Start Footer Include Cell -->
+
+
+<table width="600" height="32" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="600" height="32" align="LEFT" valign="TOP"><img src="/images/inc/footer/bottom.gif" width="600" height="32" hspace="0" vspace="0" border="0" align="TOP" alt=""></td>
+	</tr>
+</tbody></table>
+	
+		
+
+<!-- End Footer Include Cell -->
+		
+</td>
+	</tr>
+	<tr>
+<td width="600" height="18" colspan="4" align="LEFT" valign="TOP" bgcolor="#000000">
+		
+<!-- Start Bottom Bar/Nav -->
+		
+
+
+<table width="600" height="18" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+	<tbody><tr>
+		<td width="600" height="18" align="CENTER" valign="TOP" bgcolor="#000000"><font size="1" face="Arial,Helvetica" color="#FFFFFF">
+		<a href="/travel/index.asp"><font color="#FFFFFF">Travel</font></a> &nbsp;|&nbsp; <a href="/automotive/index.asp"><font color="#FFFFFF">Automotive</font></a> &nbsp;|&nbsp; <a href="/insurance/index.asp"><font color="#FFFFFF">Insurance</font></a> &nbsp;|&nbsp; <a href="/memberservices/index.asp"><font color="#FFFFFF">Member Services</font></a> &nbsp;|&nbsp; <a href="/via/index.asp"><font color="#FFFFFF">VIA Magazine</font></a> &nbsp;|&nbsp; <a href="/personal/index.asp"><font color="#FFFFFF">Personal AAA</font></a> &nbsp;|&nbsp; <a href="/about/index.asp"><font color="#FFFFFF">About AAA</font></a> &nbsp;|&nbsp; <a href="/help/index.asp"><font color="#FFFFFF">Help</font></a> &nbsp;|&nbsp; <a href="/index.asp"><font color="#FFFFFF">Home</font></a>
+		</font></td>
+	</tr>
+	<tr>
+		<td width="600" height="18" align="CENTER" valign="BOTTOM" bgcolor="#FFFFFF"><font size="1" face="Arial,Helvetica">
+		<a href="/help/terms.asp#copyrights">© copyright 1996-1999, CSAA</a><br>
+<a href="/help/ContactUS.asp">Contact Us</a> | <a href="/help/privacy.asp">Privacy Policy</a>
+		</font></td>
+	</tr>
+</tbody></table>
+
+	
+		
+<!-- End Bottom Bar/Nav -->
+		
+</td>
+	</tr>
+</tbody></table>
+
+</body></html>
