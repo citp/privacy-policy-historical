@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407120522id_/http%3A//www.amazon.co.uk/exec/obidos/subst/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010234920id_/http%3A//www.amazon.co.uk/exec/obidos/subst/help/privacy.html) for the most accurate reproduction.*
 
 # Amazon.co.uk: Help / Help / Security & Privacy / Privacy Notice
 
