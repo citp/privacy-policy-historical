@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcc.edu privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214220301id_/http%3A//www.rcc.edu/Policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcc.edu privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315134249id_/http%3A//www.rcc.edu/Policy/privacy) for the most accurate reproduction.*
 
 # Riverside Community College: Home Page
 
@@ -54,4 +54,4 @@ The browser you are using is incapable of viewing cascading style sheets (CSS) p
 
 
 
-If you believe that your browser is CSS-2 compliant and should view this page properly, please e-mail the [webmaster](https://web.archive.org/web/20041214220301id_/http://rcc.edu/webmaster@rcc.edu) the name and version of your browser as well as the operating system you are using so that we may be able to address the situation. Thank you for your assistance.
+If you believe that your browser is CSS-2 compliant and should view this page properly, please e-mail the [webmaster](https://web.archive.org/web/20050315134249id_/http://www.rcc.edu/webmaster@rcc.edu) the name and version of your browser as well as the operating system you are using so that we may be able to address the situation. Thank you for your assistance.
