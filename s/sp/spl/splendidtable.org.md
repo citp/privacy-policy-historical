@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splendidtable.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603150605id_/http%3A//splendidtable.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splendidtable.org privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004033507id_/http%3A//www.splendidtable.org/about/privacy.html) for the most accurate reproduction.*
 
 # The Splendid Table: User Privacy
 
