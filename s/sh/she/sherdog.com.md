@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherdog.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407213220id_/http%3A//sherdog.com/daily/june2001/06060102.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherdog.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602193324id_/http%3A//www.sherdog.com/daily/june2001/06060102.shtm) for the most accurate reproduction.*
 
 # Sherdog.com Privacy Policy
 
@@ -31,8 +31,4 @@ Email JSherdog@yahoo.com
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Jeff Sherwood  
-Sherdog.com  
-jsherdog@yahoo.com 
-
-**[Return Home](https://web.archive.org/index.shtm)**
+Jeff Sherwood (jsherdog@yahoo.com) or Garrett Poe (garrett@sherdog.com), Owners Sherdog.com
