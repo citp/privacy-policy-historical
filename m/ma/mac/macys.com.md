@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602225014id_/http%3A//www.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208185921id_/http%3A//www.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
 
 # Macy*s - Customer Service - Getting Started - Safe Shopping - Privacy Policy
 
@@ -12,17 +12,17 @@ As we continue to develop our website and take advantage of technologies to impr
 
 If you have any questions about this policy, you can contact us in a number of ways: by using the Contact Us Form and selecting the subject "PRIVACY MASTER" from the first drop-down menu. Then, using the drop-down menu directly beneath that, please select "PRIVACY POLICY"; by postal mail at FACS Customer Service, ATTN: Privacy Master, P.O. Box 8215, Mason, OH 45040; or by calling our Privacy Hotline at 1-888-529-2254.
 
-If you have any questions regarding your store credit account(s), [click here](https://web.archive.org/service/contact/index.ognc) for more information.
+If you have any questions regarding your store credit account(s), [click here](https://web.archive.org/service/credit/privacy.jsp) for more information. 
 
   
-We collect various types of information depending upon how you use our site.
+We collect various types of information depending upon how you use our site. 
 
   * When you order from us, we collect your name, billing address, shipping address, email address, phone number, and credit card number (with expiration date) or gift card number. We also gather information on the person who will receive any gift you send (e.g., that person's name and address) and we will retain a record of your purchases. In addition, if you are a registered user and have signed in when you enter this information, it will automatically be saved in your Wallet and/or Address Book for ease of reference.
   * When you become a macys.com registered user, we collect your name, mailing address, email address, birth date and password. This information is gathered to make your shopping experience as a registered user as quick and easy as possible. We also may ask for additional information (e.g., about your favorite brands and interests) in the section called My Profile so that we may offer services and promotions that may be of interest to you. However, you have the option not to provide it.
   * When you enter a sweepstakes or contest online, we usually collect your name, address, email address, and phone number. We also may ask you for additional information, such as your age, interests, product preferences, or zip code.
   * When you submit a question to customer service, we need your email address to respond, and you also may provide us with various additional information to help us answer your question.
   * We also may receive some information about you from other sources and may add it to your account information. For example, we might get your updated address from a shipper or information on your preferences from another Web site conducting a promotion or event with us.
-  * When you apply for a store credit card, you will be asked to provide your name, address, email address, phone number, and other information needed to assess your creditworthiness and verify your identity, such as social security number and employer. This information is required to process your application. The personal information you provide is transmitted through a secure server using SSL encryption. To apply for a store credit card and review the separate privacy policy that applies to your store credit card account, [click here](https://www.macys.com/service/credit/applynow/index.jsp).
+  * When you apply for a store credit card, you will be asked to provide your name, address, email address, phone number, and other information needed to assess your creditworthiness and verify your identity, such as social security number and employer. This information is required to process your application. The personal information you provide is transmitted through a secure server using SSL encryption. To apply for a store credit card and review the separate privacy policy that applies to your store credit card account, [click here](https://www.macys.com/service/credit/applynow/index.jsp). 
   * We may acquire customer lists from other parties so that we may invite new people to visit macys.com. Our policy is to acquire only lists of people who have indicated that they are willing to receive email offers. Also, each time we send an email offer, we provide people with the opportunity to opt out of receiving future email offers.
 
 What Are Cookies and Do We Use Them?
@@ -57,7 +57,7 @@ The information gathered may be shared with the Federated Department Stores' fam
   * In some cases, macys.com may enter into a co-branding relationship with another Web site that offers you products or services that supplement macys.com's assortment (e.g., flowers). In those cases, you may link from macys.com to another site to purchase the item. In that case, both macys.com and the other Web site may receive your information.
   * macys.com may team with another Web site to conduct a sweepstakes or other event (e.g., a live Web chat). In those cases, each of the participating Web sites may collect or receive personal information from you.
   * For some of our products, macys.com may provide you with a link to the supplier of that product so that you may get further information. If you link to the supplier's site, the supplier may collect or receive information about you.
-  * Like other companies, macys.com may use an outside company to place its advertising banners or links on other sites. In certain cases, the advertiser may collect information on people who click on the banner or link.
+  * Like other companies, macys.com may use third party advertising companies to serve ads (e.g., banners or links) on its behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is anonymous. If you would like more information about this practice and your choices, click here. 
 
 
 
@@ -107,11 +107,11 @@ You also may use the address and phone number above to request that we not discl
 
 Can I Access My Information?
 
-If you are a registered user of macys.com, you can update your information.
+If you are a registered user of macys.com, you can update your information in My Account.
 
-If you have questions about your order, you may check your order status online by [clicking here](https://www.macys.com/myinfo/status/index.ognc).
+If you have questions about your order, you may check your order status online in [My Account](https://www.macys.com/myinfo/status/index.ognc). 
 
-If you would like to email our Customer Service Department, please use the [Contact Us](https://web.archive.org/service/contact/index.ognc) Form and select the appropriate subject line from the drop down menu.
+If you would like to email our Customer Service Department, please [click here](https://www.macys.com/service/contact/index.ognc?defaultSubject=PRIVACY&DefaultRegarding=UNSUB#formstart) or visit our [Customer Service](https://web.archive.org/service/index.jsp) page and click on Privacy Options. 
 
 Questions regarding your charge account may be forwarded to our Credit Customer Service Department. Please use the Contact Us Form and select the appropriate subject line from the drop down menu.
 
@@ -129,4 +129,7 @@ The Children's Online Privacy Protection Act took effect on April 21, 2000 and i
 
 If this policy changes, macys.com will revise this portion of its privacy policy and will comply with the requirements of the Children's Online Privacy Protection Act, which include providing notice and choice to each child's parent or guardian before collecting personal information.
 
-Thank you for shopping with macys.com. If you have any questions or comments about this policy, please use the Contact Us Form and select the subject "PRIVACY MASTER" from the first drop-down menu. Then, using the drop-down menu directly beneath that, please select "PRIVACY POLICY".
+Thank you for shopping with macys.com. If you have any questions or comments about this policy, please visit [Customer Service](https://web.archive.org/service/index.jsp) and choose Privacy Options. 
+
+  
+
