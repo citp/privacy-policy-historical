@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203201500id_/http%3A//nbwebexpress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411184429id_/http%3A//www.nbwebexpress.com/privacy.htm) for the most accurate reproduction.*
 
 # New Balance Web Express - Privacy Statement
 
   
 
 
-[](https://web.archive.org/web/20001203201500id_/http%3A//nbwebexpress.com/marathon/)
+[](https://web.archive.org/web/20010411184429id_/http%3A//www.nbwebexpress.com/contactus.htm)
 
-[](https://web.archive.org/web/20001203201500id_/http%3A//nbwebexpress.com/contactus.htm)
-
-[](https://web.archive.org/web/20001203201500id_/http%3A//nbwebexpress.com/shipping.htm)
+[](https://web.archive.org/web/20010411184429id_/http%3A//www.nbwebexpress.com/fish.htm)[](https://web.archive.org/web/20010411184429id_/http%3A//www.nbwebexpress.com/shipping.htm)
 
 [](http://www.nbwebexpress.com/security.htm)
 
 |  | 
 
-### Privacy Statement
+| [](https://web.archive.org/web/20010411184429id_/http%3A//www.nbwebexpress.com/policy.htm) | 
 
+### Privacy Statement  
+  
+---|---  
+  
 New Balance Web Express is committed to protecting your privacy and have created this statement to outline our approach in this regard. The following discloses the information gathering and dissemination practices for our web sites (newbalancewebexpress.com, newbalancecloseouts.com, dunhamwebexpress.com, and related sites). If you have any concerns, comments or complaints, please [let us know](mailto:privacy@newbalancewebexpress.com).
 
-|  | **Information We Collect...**  
+| **Information We Collect...**  
 ---|---  
   
 We collect general information as you browse our site to help us diagnose problems with our server, administer our web site, and analyze broad demographic information about our visitors. The following information is obtained:
@@ -33,14 +35,14 @@ We collect general information as you browse our site to help us diagnose proble
 
 In addition, our site uses an order form for customers to request products. This order form allows us to obtain contact information (email, address, & phone number) and payment information (credit card number). This information is used to confirm your order and respond to any questions you may have. Where required, we also share this information with certain intermediaries (UPS, USPS, New Balance) strictly to process and ship your order. New Balance Web Express does not sell, rent or loan information regarding its customers to any third party.
 
-We allow customers to maintain a Customer Profile to aid in the input of future orders. The Customer Profile contains contact information only, we do not maintain payment information in our customer database. This feature is optional and available during the order process. You may change the information in your Customer Profile at any time by visiting the [Edit Customer Profile](https://web.archive.org/web/20001203201500id_/http%3A//nbwebexpress.com/profile.asp) page.
+We allow customers to maintain a Customer Profile to aid in the input of future orders. The Customer Profile contains contact information only, we do not maintain payment information in our customer database. This feature is optional and available during the order process. You may change the information in your Customer Profile at any time by visiting the [Edit Customer Profile](https://web.archive.org/web/20010411184429id_/http%3A//www.nbwebexpress.com/profile.asp) page.
 
 Lastly, to improve our services to you we may from time to time request some of our customers to complete a voluntary survey. Survey answers are confidential. If you do not wish to participate is a survey, simply decline to participate when asked.
 
 | **Cookies...**  
 ---|---  
   
-Our site uses "cookies" to keep track of your current shopping session. For more information about cookies, [click here](https://web.archive.org/web/20001203201500id_/http%3A//nbwebexpress.com/cookies.htm).
+Our site uses "cookies" to keep track of your current shopping session. For more information about cookies, [click here](https://web.archive.org/web/20010411184429id_/http%3A//www.nbwebexpress.com/cookies.htm).
 
 | **Correspondence From Us...**  
 ---|---  
@@ -49,7 +51,7 @@ To keep you informed about our latest offers, we may notify you of current promo
 
 We provide our customers with the ability to be removed from our mailing list and to cease receiving all communications from us. To do so, follow one of the following steps:
 
-  1. Reply to the email received from New Balance Web Express and type "UNSUBSCRIBE" in the subject field.
+  1. Visit our [Newsletter Sign-Up Page](https://web.archive.org/web/20010411184429id_/http%3A//www.nbwebexpress.com/newsletter.htm) and complete the Removal Request Form.
   2. [Contact Us](mailto:service@newbalancewebexpress.com) and request to be removed from our mailing list.
 
 
