@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the netimperative.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608144256id_/http%3A//www.netimperative.com/cmn/corp/index.jsp%3Fsub%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netimperative.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011080350id_/http%3A//www.netimperative.com/about/privacy) for the most accurate reproduction.*
 
-# netimperative : Privacy policy
+# Netimperative - Privacy Policy
 
-Privacy Policy    
-
-
-Our policy    
-
+Our policy 
 
 Netimperative is committed to ensuring that your privacy is protected and respected. This Privacy Statement sets out our Privacy Policy and explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. If you have any questions or concerns regarding this statement, you should contact info@Netimperative.com.
 
-The information we collect and how we use it    
-
+The information we collect and how we use it 
 
 We collect a limited amount of information about our users on the open site, so that we can provide a site that is more interesting and useful, as well as provide advertising that is more appropriate for our readers. We do this using a cookie that we place on your computer. You may disable cookies on your browser to prevent this.
 
@@ -25,8 +20,7 @@ Netimperative and our group and subsidiary companies may also wish to provide yo
 
 Neither Netimperative, nor any group companies, will issue your personal data to third parties without your prior permission, except in the instance of the sale of the company as part of the transfer of assets to the new owner.
 
-Our use of cookies    
-
+Our use of cookies 
 
 Netimperative collects IP addresses as part of the system administration process. This is both for our traffic statistics and also to help us better understand how our audience uses the site. This helps us evolve and develop our service.
 
@@ -34,8 +28,7 @@ We will not look at the IP addresses we collect unless it becomes necessary to r
 
 The majority of browsers are set up to accept cookies, however you can configure your browser to either refuse cookies, or notify when your browser has received one.
 
-How we protect your information    
-
+How we protect your information 
 
 The internet is not a secure medium. However we have put in place various security procedures as set out in this policy. 
 
@@ -49,8 +42,7 @@ We may also disclose aggregate information (for example, 1m of our members click
 
 However, in the event that the business is sold, or integrated with another business, your details may be disclosed to our and any prospective purchasers' advisers and will be passed on to the new owners of the business.
 
-Other points about privacy    
-
+Other points about privacy 
 
 The information that you post on bulletin boards, in chat rooms and other similar places on our site is visible to the general public. Please remember that whenever you disclose personal information publicly, that information can be collected and used by others. If you post your email address on an open bulletin board, you may receive unsolicited messages from other parties. This is against the policies of Netimperative.com, and if you believe you are receiving such messages via postings on Netimperative, please email us at info@Netimperative.com.
 
@@ -58,19 +50,16 @@ Furthermore, while we will do our best to protect your personal information, Net
 
 A number of our data providers, advertisers, sponsors or partners link from our site to areas on their own sites where they sell goods and services. If you follow links away from Netimperative to their sites, please be aware that these other sites may have different privacy and data collection practices and that Netimperative bears no responsibility for these independent policies. Please check each site for its own policies.
 
-Updating your details    
-
+Updating your details 
 
 If any of the information that you have provided to Netimperative changes, for example if you change your email address, please let us know by following the links on the site or by sending an email to info@Netimperative.com or by sending a letter to Customer Services, Netimperative, 3 Waterhouse Square, 142 Holborn, London EC1N 2NX.
 
-Your consent    
-
+Your consent 
 
 By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page so that you may be aware of the information we collect and how we use it at all times. We will also email you should we make any changes so that you may consent to our use of your information in that way.
 
 Because the internet infrastructure is global, the information you provide may be transferred outside the European Economic Area during use as set our in this policy. By submitting your information you consent to these transfers. While we are not anticipating such a transfer, as the databases will be held within the European Economic Area and subject to European Data Privacy laws, there may come a time where some information is accessible via localised servers in the rest of the world. We will make you aware of such a situation should it arise. However, it should be noted that Netimperative operates its business (and the business of all subsidiaries) according to European Data Protection directives.
 
-How to contact Netimperative    
+How to contact Netimperative 
 
-
-We welcome your views about our website and our Privacy Policy. If you would like to contact us with any queries or comments, please send an email to info@Netimperative.com
+We welcome your views about our website and our Privacy Policy. If you would like to contact us with any queries or comments, please send an email to info@Netimperative.com 
