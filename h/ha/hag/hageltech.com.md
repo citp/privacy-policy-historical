@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617211403id_/http%3A//www.hageltech.com/root/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hageltech.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207004104id_/http%3A//www.hageltech.com/root/privacy.php) for the most accurate reproduction.*
 
 # Hagel Technlologies Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Hagel Technologies will never sell, rent, or share your personal information without your consent unless compelled by law or court order to do so. 
 
-Hagel Technologies has created this Privacy Policy Statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for our web sites: [www.hageltech.com](http://www.hageltech.com/root/main.php), [www.tweakmaster.com](http://www.tweakmaster.com/main.php), [www.dumeter.com](http://www.dumeter.com/main.php) and [www.tradetrakker.com](http://www.tradetrakker.com/main.php).
+Hagel Technologies has created this Privacy Policy Statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for our web sites: [www.hageltech.com](http://www.hageltech.com/root/main.php?SID=f77d3763dd78b1091b6438011d453108), [www.tweakmaster.com](http://www.tweakmaster.com/main.php?SID=f77d3763dd78b1091b6438011d453108), [www.dumeter.com](http://www.dumeter.com/main.php?SID=f77d3763dd78b1091b6438011d453108) and [www.tradetrakker.com](http://www.tradetrakker.com/main.php?SID=f77d3763dd78b1091b6438011d453108).
 
 ### What we gather from visitors to our site
 
