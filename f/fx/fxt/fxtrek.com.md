@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxtrek.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608024356id_/http%3A//www.fxtrek.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxtrek.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207164027id_/http%3A//fxtrek.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy -- FXtrek.com
 
