@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209050227id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409092554id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
 
 # al.com: Privacy Policy
 
@@ -71,7 +71,7 @@ INSIDE
   
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
-[](http://ads4.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/1155020699/Tile1/ALABAMALIVE/AV_CLASSIFIEDS_03/tile1_al1.gif/64316564656561313364663432336530)   
-[](http://ads4.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/1927505785/Tile2/ALABAMALIVE/AV_CONDE_AL02/romantic_tile_2.gif/64316564656561313364663432336530)   
+[](http://ads5.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/1673776550/Tile1/ALABAMALIVE/AL_HPOTTERBOOK/harryP_Contest_tile.gif/30613031306134383365393365373130)   
+[](http://ads5.advance.net/RealMedia/ads/click_lx.ads/www.al.com/privacypolicy/index.ssf/NQS/596901773/Tile2/ALABAMALIVE/AV_CLASSIFIEDS_08/tile4_al1.gif/30613031306134383365393365373130)   
   
 
