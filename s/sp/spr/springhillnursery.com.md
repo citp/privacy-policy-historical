@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the springhillnursery.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206102856id_/http%3A//springhillnursery.com/article_disp.asp%3Farticle_id%3D123) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springhillnursery.com privacy policy that was archived on 2003-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030120134418id_/http%3A//springhillnursery.com/article.asp%3Fai%3D123) for the most accurate reproduction.*
 
-# Spring Hill Nurseries
+# Spring Hill Nurseries - Spring Hill Nurseries Privacy Policy
+
+Spring Hill Nurseries Privacy Policy
 
 This is the web site of Spring Hill Nurseries
 
@@ -54,7 +56,7 @@ If you feel that this site is not following its stated information policy, you m
 
 * * *
 
-Have another question? Return to the [Customer Service Help](https://web.archive.org/article_disp.asp?article_id=204) page or send an e-mail directly to Customer Service.
+Have another question? Return to the [Customer Service Help](https://web.archive.org/web/20030120134418id_/http%3A//springhillnursery.com/article.asp?ai=204) page or send an e-mail directly to Customer Service.
 
   
 
