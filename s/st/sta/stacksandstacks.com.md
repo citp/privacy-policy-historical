@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621062000id_/http%3A//stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215809id_/http%3A//stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
 
-# Welcome to Stacks & Stacks Site
+# STACKS & STACKS PRIVACY STATEMENT
 
 > ##   
 >  Privacy Statement for www.stacksandstacks.com
 > 
 > Stacks & Stacks has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.stacksandstacks.com.**
+> 
+> Stacks and Stacks does not sell, rent, trade, or barter any customer email names or addresses. 
 > 
 > This site may contain links to other sites. **www.stacksandstacks.com** is not responsible for the privacy practices or the content of such Web sites.
 > 
