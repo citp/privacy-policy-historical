@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nationaljournal.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202224300id_/http%3A//nationaljournal.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaljournal.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606203343id_/http%3A//nationaljournal.com/help/privacy.htm) for the most accurate reproduction.*
 
 # NationalJournal.com Help
 
-**National Journal's Privacy Policy** [ [About NationalJournal.com](https://web.archive.org/web/20001202224300id_/http%3A//nationaljournal.com/help/about.htm) ]  
-[ [Site Index](https://web.archive.org/help/) | [Viewing The Site](https://web.archive.org/web/20001202224300id_/http%3A//nationaljournal.com/help/viewing.htm) | [Searching](https://web.archive.org/web/20001202224300id_/http%3A//nationaljournal.com/help/searching.htm) ]  
-[ [Make NJ.com Your Homepage](https://web.archive.org/web/20001202224300id_/http%3A//nationaljournal.com/help/home.htm) | **Privacy Policy** | [Sign Up For E-Mail Alerts](https://web.archive.org/members/help/emailalerts.htm) ]
+**National Journal's Privacy Policy** [ [About NationalJournal.com](https://web.archive.org/web/20010606203343id_/http%3A//nationaljournal.com/help/about.htm) ]  
+[ [Site Index](https://web.archive.org/help/) | [Viewing The Site](https://web.archive.org/web/20010606203343id_/http%3A//nationaljournal.com/help/viewing.htm) | [Searching](https://web.archive.org/web/20010606203343id_/http%3A//nationaljournal.com/help/searching.htm) ]  
+[ [Make NJ.com Your Homepage](https://web.archive.org/web/20010606203343id_/http%3A//nationaljournal.com/help/home.htm) | **Privacy Policy** | [Sign Up For E-Mail Alerts](https://web.archive.org/members/help/emailalerts.htm) ]
 
 At National Journal Group we want you to enjoy and benefit from NationalJournal.com with the comfort and knowledge that we have taken steps to implement fair information practices designed to protect your privacy. The following explains what information we collect about you and how we use it. 
 
