@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the susanpowteronline.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206054133id_/http%3A//www.susanpowteronline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susanpowteronline.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417153144id_/http%3A//www.susanpowteronline.com/privacy.asp) for the most accurate reproduction.*
 
 # Susan Powter Online
 
