@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/prvcystmt.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204183311id_/http%3A//microtelinn.com/privacy.asp) for the most accurate reproduction.*
 
-# Microtel Inn & Suites - Same great hotel everywhere you go
+# Microtel Inns & Suites | Privacy Policy
 
-[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/hotel%20directory/directory.asp)  
-[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/reservations/reservations.html)  
-[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/groups/gmain.html)  
-[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/business/business.html)  
-[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/gov/gmtravel.html)[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/disabilities/dmain.html)   
-[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/press/press.asp)  
-[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/franchise/info.html)  
+[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/hotel%20directory/directory.asp)  
+[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/reservations/reservations.html)  
+[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/groups/gmain.html)  
+[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/business/business.html)  
+[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/gov/gmtravel.html)[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/disabilities/dmain.html)   
+[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/press/press.asp)  
+[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/franchise/info.html)  
 [  
-](http://www.usfsi.com/)[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/employment/employment.html)  
-[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/contact/contact.html)   
+](http://www.usfsi.com/)[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/employment/employment.html)  
+[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/contact/contact.html)   
 
 
-[](https://web.archive.org/web/20010602054902id_/http%3A//www.microtelinn.com/index.asp)
+[](https://web.archive.org/web/20011217234119id_/http%3A//microtelinn.com/index.asp)
 
 |  | 
 
