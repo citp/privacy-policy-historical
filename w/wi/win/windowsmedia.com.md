@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsmedia.com privacy policy that was archived on 2000-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001109111100id_/http%3A//go.msn.com/A6/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsmedia.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613225753id_/http%3A//www.msn.com/help/legal/privacy.htm) for the most accurate reproduction.*
 
 # MSN.com Privacy Statement
 
@@ -9,7 +9,7 @@ MSN is committed to protecting your privacy and developing technology that gives
 [MSN Internet Access Service](http://www.msn.com/help/legal/privacy.htm#MSNIA) | [MSN Explorer](http://www.msn.com/help/legal/privacy.htm#MSNEXP) | [MSN Hotmail](http://www.msn.com/help/legal/privacy.htm#MSNMAIL)  
 ---|---|---  
 [MSN Auctions](http://www.msn.com/help/legal/privacy.htm#MSNAUC) | [MSN Calendar](http://www.msn.com/help/legal/privacy.htm#MSNCAL) | [MSN Chat and Web Communities](http://www.msn.com/help/legal/privacy.htm#MSNCHAT)  
-[MSN Egreetings](http://www.msn.com/help/legal/privacy.htm#MSNGREET) | [MSN eShop](http://www.msn.com/help/legal/privacy.htm#ESHOP) | [MSN Gaming Zone](http://www.msn.com/help/legal/privacy.htm#ZONE)  
+[MSN Greetings](http://www.msn.com/help/legal/privacy.htm#MSNGREET) | [MSN eShop](http://www.msn.com/help/legal/privacy.htm#ESHOP) | [MSN Gaming Zone](http://www.msn.com/help/legal/privacy.htm#ZONE)  
 [MSN Health](http://www.msn.com/help/legal/privacy.htm#HEALTH) | [MSN Messenger](http://www.msn.com/help/legal/privacy.htm#MSNGR) | [MSN Mobile](http://www.msn.com/help/legal/privacy.htm#MOBILE)  
 [MSN Moneycentral](http://www.msn.com/help/legal/privacy.htm#MONEY) | [MSN Newsletters](http://www.msn.com/help/legal/privacy.htm#NEWS) |    
   
@@ -61,7 +61,7 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 Use of Web Beacons
 
-MSN Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow MSN to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information on the MSN network of sites and services; they are a technique we use to compile aggregated statistics about MSN Web site usage.
+MSN Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow MSN to count users who have visited those pages and to deliver co-branded services. MSN may include web beacons in promotional e-mail messages or MSN Newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information on the MSN network of sites and services; they are a technique we use to compile aggregated statistics about MSN Web site usage.
 
 Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. MSN Web pages may also contain Web beacons placed there by our advertising partner, Avenue A, to help MSN determine the effectiveness of our Internet advertising campaigns.
 
@@ -170,7 +170,23 @@ MSN uses data gathered in error reporting to learn how to prevent future critica
 
 MSN Hotmail
 
-Follow this [link](http://www.hotmail.msn.com/cgi-bin/dasp/hminfo_shell.asp?content=pstate&_lang=EN&id=2&ct=969296811) to read the entire MSN Hotmail Privacy Statement.
+**What information is collected:** Hotmail collects information during the registration process. The personally identifiable information Hotmail collects includes first and last name. In addition, Hotmail also collects non-personally identifiable information such as: country, region or state, zip or postal code, time zone, gender, birth date and occupation. You may update your Registration Information at any time from within your Hotmail account by clicking the "Options" button on the navigation bar, and then clicking on the "Personal" icon. 
+
+**How does MSN use my information:** Your registration information is used to operate the site, for demographic statistics, and to display appropriate individualized advertisements. Hotmail will not send you any unsolicited information, including e-mail, except as mentioned below. New users will receive a Hotmail welcome letter explaining the features provided by the service. Hotmail may also send periodic member letters to announce important service changes, new features, technical issue updates and news about other Microsoft products and services. Hotmail may also contact you to conduct research about your opinion of current and prospective services via e-mail surveys. Hotmail may from time to time contact you, on behalf of external business partners, about a particular offering that may be of interest to you. Hotmail will not share your e-mail address with these business partners. 
+
+**Who else may receive my personal information:** Hotmail keeps your personally identifiable information private and does not share it with any third parties, unless you choose, at the time of registration, to be listed in either the Hotmail Directory or the Internet White Pages directory. In the case of the Internet White Pages, we will share your registered name, location, and e-mail address with the Internet White pages provider InfoSpace who may only use your personally identifiable information to provide their directory services. For more information about how to change you directory preferences, see the FAQ below. Hotmail will not disclose your Personal Information unless acting under a good faith belief that such action is necessary to: (1) conform to legal requirements or comply with legal process; (2) protect and defend the rights or property of Microsoft; (3) enforce the MSN Hotmail Terms of Use; or (4) act to protect the interests of its members or others. 
+
+Your non-personally identifiable information from your Hotmail registration (such as zip code and gender) may be shared with other Microsoft websites to provide a more personalized advertising experience online. For example, you may see ads from a Microsoft bCentral/LinkExchange Banner Network member as you surf the Web but none of your personally identifiable information is shared with the third party websites. 
+
+**What can I do to manage unsolicited e-mail in my Hotmail account?** Hotmail will not sell, lease or rent its member lists with any third parties. While Microsoft continues to actively review and implement new technology, such as expanded filtering features, there is no currently available technology that will totally prevent the sending and receiving of unsolicited e-mail. Using tools such as the Inbox Protector and being cautious about the sharing of your e-mail address while online will help reduce the amount of unsolicited e-mail you receive. For more information on how to best use Hotmail's tools, please contact abuse@hotmail.com. 
+
+**How do I control my personal information:** You may update your Registration Information at any time from within your Hotmail account by clicking the "Options" button on the navigation bar, and then clicking on the "Personal" icon. 
+
+**How can I change my preferences for the Hotmail Directory and Internet White Pages?**
+
+During the Hotmail registration process you are given the choice as to whether you want to be listed in the Hotmail Directory and the Internet White Pages. If you did not make a choice during the initial registration process, your registered name and location is listed in the Hotmail Directory and the Internet White Pages. At any time, you may remove your information from the Hotmail Directory by clicking on the "Options" button on the navigation bar, and then clicking on the "Personal" icon. To remove your e-mail address from the Internet White Pages, go to www.msn.com,click on “More,” click on "White Pages", click on "Email Search" where you may register or delete your e-mail address. 
+
+If you have questions about our privacy policy, please e-mail [Hotmailprivacy@hotmail.com](mailto:Hotmailprivacy@hotmail.com).
 
 [Top](http://www.msn.com/help/legal/privacy.htm#top)
 
@@ -206,9 +222,9 @@ While participating in chats, communities or other public forums, MSN cautions y
 
 [Top](http://www.msn.com/help/legal/privacy.htm#top)
 
-MSN Egreetings
+MSN Greetings
 
-MSN Egreetings is provided by MSN's partner Egreetings Network, Inc. When you register to use the Egreetings Invites service and you submit your personal information (such as your name, gender, or age) on the registration form, this information will be supplied to Egreetings and is not transmitted to MSN. Note that you may send greeting cards without registering. Both companies are committed to protecting your privacy. To determine how Egreetings will treat your personal information, please refer to its privacy policy at [www.egreetings.com](http://www.egreetings.com/).
+MSN Greetings is provided by MSN's partner Egreetings Network, Inc. When you check the box on the MSN Greetings' send page to receive information from Egreetings Network, your e-mail address will be collected by Egreetings Network. When you register to use the Egreetings service on Egreetings.com and you submit your personal information (such as your name, gender, or age) on the registration form on Egreetings.com, this information will be supplied to Egreetings and is not transmitted to MSN. Note that you may send greeting cards on both MSN.com and Egreetings without registering. Both companies are committed to protecting your privacy. To determine how Egreetings Network will treat your personal information, please refer to its privacy policy at [www.egreetings.com](http://www.egreetings.com/).
 
 [Top](http://www.msn.com/help/legal/privacy.htm#top)
 
@@ -278,4 +294,4 @@ You may subscribe and unsubscribe to MSN Newsletters by going to [newsletters.ms
 
 By using a password when subscribing, you are securing your newsletter account. If you do not secure your account, others who know your e-mail address can view and modify your subscription choices.
 
-Updated October 2000
+Updated June 2001
