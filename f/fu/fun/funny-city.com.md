@@ -1,15 +1,37 @@
-> *The following text is extracted and transformed from the funny-city.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605040100id_/http%3A//www.funny-city.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-city.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206054033id_/http%3A//www.adtegrity.com/privacy.asp) for the most accurate reproduction.*
 
-# Funny-City
+# Adtegrity.com :: Insightful :: Internet :: Advertising
 
-**Privacy Policy**
+| 
 
-We are committed to maintain your confidence and trust, and accordingly maintain the following privacy policy to protect personal information you provide online. 
+Adtegrity.com has created the following privacy policy in order to demonstrate our commitment to assuring privacy for publishers, advertisers, and website visitors. 
 
-**Basic Confidentiality Policy**
+**Collected Information**  
+Adtegrity.com, through sign up processes, collects publisher information (name, address, phone, fax, email & URL), which is used solely for billing, payout, and marketing purposes. 
 
-It is our policy that personal information, such as your name, postal and e-mail address , is private and confidential. Accordingly, the personal information you provide is stored in a secure location, is accessible only by designated staff, and is used only for the purposes for which you provide the information (such as to reply to your request ). For example, when you send a file or a joke you want as to publish, the personal information you provide will be used only to reply to you and to give credits.
+**Non-Disclosure**  
+Adtegrity.com is committed to protecting the privacy of our publishers, advertisers, and website visitors. Adtegrity.com does not disclose any of the gathered information to third parties. While Adtegrity.com cannot fully control the actions of their website publishers, Adtegrity.com does require full disclosure of each site's privacy guidelines for every site that serves Adtegrity.com ads. 
 
-**No Release of Information to Third Parties**
+**Information Use**  
+If Adtegrity.com, Inc, for any reason uses the personal information that publishers/advertisers have provided, written permission will be obtained before doing so. The only exception to this will be the use of a publisher's company name and/or logo while finding advertising to be used on their site, or to promote the Adtegrity.com network. 
 
-Personal information will not be released to third parties Our computer does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. This information is used only for internal purposes by Smiles technical support staff. Our computer also recognizes the site where a visitor "clicked-to-check" on Smiles, but we cannot identify the visitor or the visitor's address. No personal information is collected. In addition, our web sites track information about the visits to our web sites. For example, we compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
+**Cookies**  
+If a visitor to a website views an ad served by Adtegrity.com, they are assigned a unique number, known as a cookie, that is recorded and stored on their computer in their web browser's cookie file. If the visitor then visits another web site that has ads served by Adtegrity.com, the cookie is recognized by the computer and may be used to target ads to that web surfer based on his or her past browsing experience. Cookies do not harm visitors' computers. 
+
+**_Why Use Cookies?_**  
+
+
+  * They help to ensure that ads are not repeated to visitors 
+  * They help advertisers learn how their web site is used 
+  * They help advertisers gain knowledge to improve the look and feel of their web sites 
+  * They help advertisers learn which ads are most effective and appealing to website visitors 
+
+
+
+Overall, the cookie helps the ad network, Adtegrity.com; determine which advertisements best fit which visitors and which websites. A visitor may choose to opt-out on using cookies at any time by following a simple procedure to manually delete them. Visitors should refer to their respective browser's user manual for instructions. 
+
+**Third Party Advertising**  
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.net/us/corporate/privacy)
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
