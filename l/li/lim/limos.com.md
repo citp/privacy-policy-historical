@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601143330id_/http%3A//www.limos.com/limousines/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003235105id_/http%3A//www.limos.com/limousines/privacypolicy.html) for the most accurate reproduction.*
 
 # Limos.com Privacy Policy
 
