@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garmin.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607091819id_/http%3A//www.garmin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garmin.com privacy policy that was archived on 2001-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010812041820id_/http%3A//www.garmin.com/privacy) for the most accurate reproduction.*
 
 # GARMIN: GARMIN International's Privacy Statement
 
