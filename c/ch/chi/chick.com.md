@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202065500id_/http%3A//chick.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405043347id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -50,7 +50,7 @@
 Chick Publications  
 P.O. Box 3500  
 Ontario, Calif.   
-91761-1100
+91761-1019
 
 (909) 987-0771 Ph.  
 (909) 941-8128 Fax 
