@@ -1,197 +1,406 @@
-<!--The following is the downloaded HTML source of the wildgames.com privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203180830id_/http%3A//wildtangent.com/default.asp%3FpageID%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wildgames.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602232505id_/http%3A//www.wildtangent.com/default.asp%3FpageID%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
-<meta http-equiv="Content-Type" content="text/html">
-<title>WildTangent : WildTangent Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="css/default.css"><script language="javascript" src="js/zdx/zaazDomExtensions.js"></script><script language="javascript" src="js/quickNav.js"></script><script language="javascript" src="js/navPreload.js"></script><script language="javascript">
-					var referrer = document.referrer;
-					if (referrer.indexOf("genesis") != -1) 
-					{
-						document.location="http://www.genesis3d.com/"
-					}
-				</script><script language="javascript">
-					var subRolloverImages = new Array();
-					
-					roll.preloadImages(subRolloverImages);
-				</script></head>
-<body background="images/bg_tile.gif" bgcolor="#ffffff" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload=" start(); 
-		"><a name="top"></a><table height="100%" width="784" cellpadding="0" cellspacing="0" border="0" bgcolor="#a1b4c6" align="center">
-<form></form>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-16">
+<title>WildTangent - Leading Online Game Publishing</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script language="JavaScript">
+var lastshowing = "navo2";
+var stickynav = "navnull";
+
+
+locSec = location.search
+function checkLocation(){
+if(locSec.indexOf('about') != -1 || locSec.indexOf('press') != -1)
+{
+	document.getElementById('navo5').style.visibility = 'visible';
+	document.getElementById('subnav').style.visibility = 'visible';
+	lastshowing = "navo5";
+	stickynav = "navo5";
+}
+else if(locSec.indexOf('showcase') != -1)
+{
+	document.getElementById('navo4').style.visibility = 'visible';
+	document.getElementById('subnav').style.visibility = 'visible';
+	lastshowing = "navo4";
+	stickynav = "navo4";
+}
+else if(locSec.indexOf('solutions') != -1)
+{
+	document.getElementById('navo3').style.visibility = 'visible';
+	document.getElementById('subnav').style.visibility = 'visible';
+	lastshowing = "navo3";
+	stickynav = "navo3";
+}
+else if(locSec.indexOf('sellgames') != -1)
+{
+	document.getElementById('navo2').style.visibility = 'visible';
+	document.getElementById('subnav').style.visibility = 'visible';
+	lastshowing = "navo2";
+	stickynav = "navo2";
+}
+else if(locSec.indexOf('developer_main') != -1)
+{
+	document.getElementById('nav_developers').style.visibility = 'visible';
+	document.getElementById('subnav').style.visibility = 'visible';
+	lastshowing = "nav_developers";
+	stickynav = "nav_developers";
+}
+else if(locSec.indexOf('devel') != -1)
+{
+	document.getElementById('nav_developers').style.visibility = 'visible';
+	document.getElementById('subnav').style.visibility = 'visible';
+	lastshowing = "nav_developers";
+	stickynav = "nav_developers";
+}
+
+
+else if(locSec.indexOf('sitemap') != -1 || locSec.indexOf('support') != -1 || locSec.indexOf('privacy') != -1 || locSec.indexOf('terms') != -1 || locSec.indexOf('contact') != -1){
+
+	document.getElementById('subnav').style.visibility = 'hidden';
+	lastshowing = "navnull";
+	stickynav = "navnull";
+}
+
+else 
+{
+	document.getElementById('subnav').style.visibility = 'hidden';
+	lastshowing =  "navo2";
+	stickynav = "navnull";
+}
+
+}
+
+
+
+
+function showHide(a){
+
+document.getElementById(lastshowing).style.visibility = 'hidden';
+document.getElementById(stickynav).style.visibility = 'hidden'
+
+document.getElementById(a).style.visibility = 'visible';
+document.getElementById('subnav').style.visibility = 'visible';
+
+lastshowing = document.getElementById(a).id;
+}
+
+function showSecNav(){
+document.getElementById(lastshowing).style.visibility = 'hidden';
+
+if(locSec.indexOf('sitemap') != -1 || locSec.indexOf('support') != -1 || locSec.indexOf('privacy') != -1 || locSec.indexOf('contact') != -1){
+document.getElementById(stickynav).style.visibility = 'hidden'
+document.getElementById('subnav').style.visibility = 'hidden';
+}
+else{
+document.getElementById(stickynav).style.visibility = 'visible'
+document.getElementById('subnav').style.visibility = 'visible';
+}
+
+}
+
+function hideAll(){
+document.getElementById(lastshowing).style.visibility = 'hidden';
+document.getElementById(stickynav).style.visibility = 'hidden'
+document.getElementById('subnav').style.visibility = 'hidden';
+}
+
+
+
+if (document.images){
+nav1 = new Image();
+nav1.src = 'images/nav/playgames.gif';
+nav1o = new Image();
+nav1o.src = 'images/nav/playgames_o.gif';
+
+nav2 = new Image();
+nav2.src = 'images/nav/sellgames.gif';
+nav2o = new Image();
+nav2o.src = 'images/nav/sellgames_o.gif';
+
+nav3 = new Image();
+nav3.src = 'images/nav/solutions.gif';
+nav3o = new Image();
+nav3o.src = 'images/nav/solutions_o.gif';
+
+nav4 = new Image();
+nav4.src = 'images/nav/clientshowcase.gif';
+nav4o = new Image();
+nav4o.src = 'images/nav/clientshowcase_o.gif';
+
+nav5 = new Image();
+nav5.src = 'images/nav/about.gif';
+nav5o = new Image();
+nav5o.src = 'images/nav/about_o.gif';
+
+wdriver = new Image();
+wdriver.src = 'images/global/wdriver.gif';
+wdrivero = new Image();
+wdrivero.src = 'images/global/wdriver_o.gif';
+
+but1 = new Image();
+but1.src = '';
+but1o = new Image();
+but1o.src = '';
+
+but2 = new Image();
+but2.src = '';
+but2o = new Image();
+but2o.src = '';
+
+but3 = new Image();
+but3.src = '';
+but3o = new Image();
+but3o.src = '';
+
+but4 = new Image();
+but4.src = '';
+but4o = new Image();
+but4o.src = '';
+
+wdriver = new Image();
+wdriver.src = 'images/global/wdriver.gif';
+wdrivero = new Image();
+wdrivero.src = 'images/global/wdriver_o.gif';
+
+
+}
+
+function act(imgName) {
+  if (document.images) 
+    document.images[imgName].src = eval(imgName + "o.src");
+}
+
+function inact(imgName) {
+  if (document.images)
+    document.images[imgName].src = eval(imgName + ".src");
+}
+
+
+</script><link href="styles/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body background="images/global/bg.gif" onload="checkLocation()">
+<div id="nav1" style="position:absolute; width:99px; height:25px; z-index:11; left: 225px; top: 6px;" onmouseover="hideAll()"><a href="http://www.wildgames.com" target="_blank" onmouseover="act('nav1')" onmouseout="inact('nav1')"><img src="/images/nav/playgames.gif" width="99" height="25" border="0" id="nav1"></a></div>
+<div id="nav2" style="position:absolute; width:99px; height:25px; z-index:11; left: 326px; top: 6px;" onmouseover="showHide('navo2')"><a href="/default.asp?pageID=sellgames" onmouseover="act('nav2')" onmouseout="inact('nav2')"><img src="/images/nav/sellgames.gif" width="99" height="25" border="0" id="nav2"></a></div>
+<div id="nav3" style="position:absolute; width:99px; height:25px; z-index:11; left: 427px; top: 6px;" onmouseover="showHide('navo3')"><a href="/default.asp?pageID=solutions" onmouseover="act('nav3')" onmouseout="inact('nav3')"><img src="/images/nav/solutions.gif" width="99" height="25" border="0" id="nav3"></a></div>
+<div id="nav4" style="position:absolute; width:99px; height:25px; z-index:11; left: 528px; top: 6px;" onmouseover="showHide('navo4')"><a href="/default.asp?pageID=showcase" onmouseover="act('nav4')" onmouseout="inact('nav4')"><img src="/images/nav/clientshowcase.gif" width="99" height="25" border="0" id="nav4"></a></div>
+<div id="nav5" style="position:absolute; width:99px; height:25px; z-index:11; left: 629px; top: 6px;" onmouseover="showHide('navo5')"><a href="/default.asp?pageID=about" onmouseover="act('nav5')" onmouseout="inact('nav5')"><img src="/images/nav/about.gif" width="99" height="25" border="0" id="nav5"></a></div><script>
+if (navigator.appName.indexOf('Netscape') > -1){
+subnavWidth = '493px';
+}
+else{
+subnavWidth = '503px';
+
+}
+
+
+
+document.write('<div id="subnav" style="position:absolute; width:' + subnavWidth + '; height:18px; z-index:13; left: 225px; top: 33px; background-color: D1D1D1; layer-background-color: D1D1D1; border: 1px solid #ADADAD; visibility: hidden">');
+document.write('<div id="navo2" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
+document.write('<a href="/default.asp?pageID=sellgames_1">Publishing Platform</a><span class="spacer1">|</span><a href="/default.asp?pageID=sellgames_2">Distribution Partners</a><span class="spacer1">|</span><a href="/default.asp?pageID=sellgames_3">Developers</a></div>');
+document.write('<div id="navo3" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
+document.write('<a href="/default.asp?pageID=solutions_1">Research and Trends</a><span class="spacer1">|</span><a href="/default.asp?pageID=solutions_2">Effective Advertising</a><span class="spacer1">|</span><a href="/default.asp?pageID=solutions_3">The WildTangent Advantage</a></div>');
+document.write('<div id="navo4" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
+document.write('<a href="/default.asp?pageID=showcase">Coast Soap</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_2">DaimlerChrysler</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_3">Nike</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_4">FOX Sports/GM</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_5">Pepsi</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_6">Toyota</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_7">Sony</a></div>');
+document.write('<div id="navo5" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
+document.write('<a href="/default.asp?pageID=about_1">Technology</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_2">Press Room</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_3">Management Team</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_4">Investors</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_5">Jobs</a><span class="spacer1">|</span><a href="/default.asp?pageID=contact_main">Contact</a></div>');
+document.write('<div id="nav_developers" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden">');
+document.write('<a href="/default.asp?pageID=developer_1">Downloads</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_2">Tutorials</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_3">Example Code</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_4">Tech Overviews</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_5">Licensing</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_6">FAQs</a></div>');
+document.write('<div id="navnull" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"></div></div>');
+
+
+</script><div id="subnav" style="position:absolute; width:493px; height:18px; z-index:13; left: 225px; top: 33px; background-color: D1D1D1; layer-background-color: D1D1D1; border: 1px solid #ADADAD; visibility: hidden"><div id="navo2" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=sellgames_1">Publishing Platform</a><span class="spacer1">|</span><a href="/default.asp?pageID=sellgames_2">Distribution Partners</a><span class="spacer1">|</span><a href="/default.asp?pageID=sellgames_3">Developers</a></div><div id="navo3" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=solutions_1">Research and Trends</a><span class="spacer1">|</span><a href="/default.asp?pageID=solutions_2">Effective Advertising</a><span class="spacer1">|</span><a href="/default.asp?pageID=solutions_3">The WildTangent Advantage</a></div><div id="navo4" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=showcase">Coast Soap</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_2">DaimlerChrysler</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_3">Nike</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_4">FOX Sports/GM</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_5">Pepsi</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_6">Toyota</a><span class="spacer1">|</span><a href="/default.asp?pageID=showcase_7">Sony</a></div><div id="navo5" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=about_1">Technology</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_2">Press Room</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_3">Management Team</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_4">Investors</a><span class="spacer1">|</span><a href="/default.asp?pageID=about_5">Jobs</a><span class="spacer1">|</span><a href="/default.asp?pageID=contact_main">Contact</a></div><div id="nav_developers" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"><a href="/default.asp?pageID=developer_1">Downloads</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_2">Tutorials</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_3">Example Code</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_4">Tech Overviews</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_5">Licensing</a><span class="spacer1">|</span><a href="/default.asp?pageID=developer_6">FAQs</a></div><div id="navnull" style="position:absolute; width:503px; height:18px; z-index:13; left: 0px; top: 0px; padding-left: 5px; text-align: center; visibility: hidden"></div></div><div id="boxnav" style="position: absolute; width: 210px; height: 60px; z-index: 14; left: 730px; top: 3109px;">
+<div id="boxnav_topline" style="position:absolute; width:210px; height:3px; z-index:1; left: 0px; top: 0px; border-top: 3px #5C5C5C solid;"></div>
+<div id="boxnav_navtop" style="position:absolute; width:210px; height:15px; z-index:3; left: 0px; top: 5px; text-align: center;"><a href="/default.asp?pageID=sitemap">SITEMAP</a><span class="spacer2"></span><a href="/default.asp?pageID=developer_main">DEVELOPERS</a><span class="spacer2"></span><a href="/default.asp?pageID=support">SUPPORT</a></div>
+<div id="boxnav_botline" style="position:absolute; width:210px; height:3px; z-index:1; left: 0px; top: 22px; border-top: 3px #5C5C5C solid;"></div>
+<div id="boxnav_navbot" style="position:absolute; width:210px; height:3px; z-index:3; left: 0px; top: 27px; text-align: center;"><a href="/default.asp?pageID=privacy">PRIVACY</a><span class="spacer3"></span><a href="/default.asp?pageID=terms">TERMS OF USE</a><span class="spacer3"></span><a href="/default.asp?pageID=contact_main">CONTACT</a></div>
+<div id="copyright" style="position:absolute; width:210px; height:3px; z-index:3; left: 0px; top: 44px; text-align: center;"><img src="/images/global/copyright.gif"> 2004 WildTangent, Inc. All Rights Reserved</div>
+</div>
+<div id="web_driver_dl" style="position:absolute; width:210px; height:44px; z-index:4; left: 730px; top: 33px;"><a href="/default.asp?pageID=webdriver_download" onmouseover="act('wdriver')" onmouseout="inact('wdriver')"><img id="wdriver" src="/images/global/wdriver.gif" width="210" height="45" border="0"></a></div>
+<div style="position:absolute; width:50px; height:110px; z-index:1; top: 0px; left: 172px;" onmouseover="showSecNav()"><img src="images/global/blank.gif" width="50" height="110"></div>
+<div style="position:absolute; width:504px; height:52px; z-index:1; top: 57px; left: 224px;" onmouseover="showSecNav()"><img src="images/global/blank.gif" width="504" height="52"></div>
+<div style="position:absolute; width:504px; height:23px; z-index:1; top: -19px; left: 224px;" onmouseover="showSecNav()"><img src="images/global/blank.gif" width="505" height="22"></div>
+<div style="position:absolute; width:50px; height:110px; z-index:1; top: 0px; left: 731px;" onmouseover="showSecNav()"><img src="images/global/blank.gif" width="50" height="110"></div>
+<div id="top_main" style="position:absolute; width:729px; height:px; z-index:0; left: 0px; top: 0px;"><img src="images/privacy/top.jpg" width="729" height="210" border="0" usemap="#Map"> </div>
+<div id="counter_box" style="position:absolute; width:222px; height:32px; z-index:1; left: 729px; top: 0px;"><img src="images/home/counter_bg.jpg" width="222" height="32"></div>
+<div id="game_counter" style="position:absolute; width:190px; height:14px; z-index:12; left: 742px; top: 13px;" class="gry"><span id="c0">4</span><span id="c1">2</span><span id="c2">5</span><span>,</span><span id="c3">1</span><span id="c4">7</span><span id="c5">0</span><span>,</span><span id="c6">5</span><span id="c7">7</span><span id="c8">4</span><script language="javascript" src="js/wdCount.js"></script> downloads</div>
+<div id="crumb" style="position:absolute; width:500px; height:17px; z-index:12; left: 23px; top: 182px;"> <a href="default.asp">Home</a> &gt; Privacy  </div>
+<div id="topleftlinkbox" style="position:absolute; width:182px; height:93px; z-index:2; left: 23px; top: 61px; margin: 0;padding: 0; ">
+<table width="182" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td width="22" valign="top" background="images/bg_l-vert.gif"><img src="images/pixel.gif" width="22" height="1" alt="" border="0"></td>
-<td width="740" valign="top">
-<table width="740" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="740">
-<table width="740" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><img src="images/header_0.gif" width="4" height="89" alt="" border="0"></td>
-<td><a href="default.asp?pageID=home"><img src="images/header_1.gif" width="106" height="89" alt="" border="0"></a></td>
-<td><a href="default.asp?pageID=home"><img src="images/header_n_01.gif" width="254" height="89" alt="" border="0"></a></td>
-<td><a href="default.asp?pageID=home"><img src="images/header_n_02.gif" width="210" height="89" alt="" border="0"></a></td>
-<td><a href="http://www.wildtangent.com/publiclinks/redirect/webdriver_download.html?source=02"><table cellpadding="0" cellspacing="0" border="0" align="right">
-<tbody><tr>
-<td colspan="5"><img src="images/counter/getwd_01.gif" width="165" height="12" alt="" border="0"></td>
-</tr>
-<tr>
-<td rowspan="4"><img src="images/counter/getwd_02.gif" width="4" height="77" alt="" border="0"></td>
-<td colspan="3"><a href="http://www.wildtangent.com/publiclinks/redirect/webdriver_download.html?source=02"><img src="images/counter/getwd_03.gif" width="151" height="42" alt="" border="0"></a></td>
-<td rowspan="4"><img src="images/counter/getwd_04.gif" width="10" height="77" alt="" border="0"></td>
-</tr>
-<tr>
-<td><img src="images/counter/getwd_05.gif" width="10" height="12" alt="" border="0"></td>
-<td bgcolor="#333333" width="57"><img src="images/counter/1.gif" name="c0" width="6" height="12" border="0" alt=""><img src="images/counter/9.gif" name="c1" width="6" height="12" border="0" alt=""><img src="images/counter/5.gif" name="c2" width="6" height="12" border="0" alt=""><img src="images/counter/comma.gif" width="1" height="12" border="0" alt=""><img src="images/counter/1.gif" name="c3" width="6" height="12" border="0" alt=""><img src="images/counter/0.gif" name="c4" width="6" height="12" border="0" alt=""><img src="images/counter/7.gif" name="c5" width="6" height="12" border="0" alt=""><img src="images/counter/comma.gif" width="1" height="12" border="0" alt=""><img src="images/counter/8.gif" name="c6" width="6" height="12" border="0" alt=""><img src="images/counter/2.gif" name="c7" width="6" height="12" border="0" alt=""><img src="images/counter/6.gif" name="c8" width="6" height="12" border="0" alt=""></td>
-<td><a href="http://www.wildtangent.com/publiclinks/redirect/webdriver_download.html?source=02"><img src="images/counter/getwd_07.gif" width="84" height="12" alt="" border="0"></a></td>
-</tr>
-<tr>
-<td colspan="3"><img src="images/counter/getwd_08.gif" width="151" height="5" alt="" border="0"></td>
-</tr>
-<tr>
-<td colspan="3"><img src="images/counter/getwd_09.gif" width="151" height="18" alt="" border="0"></td>
-</tr>
-</tbody></table><script language="javascript" src="js/updateCount.js"></script></a></td>
-</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="740">
-<tbody><tr>
-<td valign="top" bgcolor="#000000"><img src="images/nav/nav_divider.gif" width="1" height="20" alt="" border="0"><a href="http://www.wildtangent.com/publiclinks/redirect/wildgames.html?source=wthp_games" target="_new" onmouseover="roll.over('nav_games')" onmouseout="roll.out('nav_games')"><img height="20" border="0" name="nav_games_ROLL" src="images/nav/nav_games_off.gif" width="66"></a></td>
-<td valign="top" bgcolor="#000000"><img src="images/nav/nav_divider.gif" width="1" height="20" alt="" border="0"><a href="default.asp?pageID=products" onmouseover="roll.over('nav_products')" onmouseout="roll.out('nav_products')"><img height="20" border="0" name="nav_products_ROLL" src="images/nav/nav_products_off.gif" width="139"></a></td>
-<td valign="top" bgcolor="#000000"><img src="images/nav/nav_divider.gif" width="1" height="20" alt="" border="0"><a href="default.asp?pageID=dev" onmouseover="roll.over('nav_dev')" onmouseout="roll.out('nav_dev')"><img height="20" border="0" name="nav_dev_ROLL" src="images/nav/nav_dev_off.gif" width="131"></a></td>
-<td valign="top" bgcolor="#000000"><img src="images/nav/nav_divider.gif" width="1" height="20" alt="" border="0"><a href="default.asp?pageID=support" onmouseover="roll.over('nav_support')" onmouseout="roll.out('nav_support')"><img height="20" border="0" name="nav_support_ROLL" src="images/nav/nav_support_off.gif" width="129"></a></td>
-<td valign="top" bgcolor="#000000"><img src="images/nav/nav_divider.gif" width="1" height="20" alt="" border="0"><a href="default.asp?pageID=company" onmouseover="roll.over('nav_company')" onmouseout="roll.out('nav_company')"><img height="20" border="0" name="nav_company_ROLL" src="images/nav/nav_company_off.gif" width="79"></a><img src="images/nav/nav_divider.gif" width="1" height="20" alt="" border="0"></td>
-<td width="100%" valign="top" align="center" bgcolor="#000000"><select id="quickNavSelect" name="pageID" onchange="navQuickly(this)"><option value="">Quick Nav</option>
-<option value="home">Home</option>
-<option value="webdriver_download">Download Web Driver</option>
-<option value="http://www.wildtangent.com/publiclinks/redirect/wildgames.html?source=wthpnav_games">Games</option>
-<option value="http://www.wildtangent.com/publiclinks/redirect/wildgames.html?source=wthpnav_newreleases">--PLAY NOW!</option>
-<option value="products">Products &amp; Services</option>
-<option value="products_brandmarket">--Marketers/Advertisers</option>
-<option value="products_tvfilm">--Television/Movie</option>
-<option value="products_gamepub">--Game Publishers</option>
-<option value="products_oems">--OEMs/ISPs/Portals</option>
-<option value="products_broadcastnet">--Game Distribution</option>
-<option value="webdriver_overview">--Web Driver/GameChannel</option>
-<option value="dev">Developer Central</option>
-<option value="dev_news">--Developer News</option>
-<option value="dev_downloads">--Downloads</option>
-<option value="dev_tutorials">--How To's &amp; Tutorials</option>
-<option value="dev_examplecode">--Example Code</option>
-<option value="dev_licensing">- Licensing &amp; Contracts</option>
-<option value="dev_techoverviews">--Technical Overviews</option>
-<option value="http://www.wildtangent.com/developer/help/">--API Docs</option>
-<option value="http://devforum.wildtangent.com/cgi-bin/ib3/ikonboard.cgi">--Forums</option>
-<option value="dev_faqs">--Developer FAQs</option>
-<option value="support">Customer Support</option>
-<option value="company">Company</option>
-<option value="company_pressroom">--Press Room</option>
-<option value="company_management">--Management Team</option>
-<option value="company_partners">--Partners</option>
-<option value="company_careers">--Careers</option>
-<option value="company_investor">--Investor Relations</option>
-<option value="company_contact">--Contact</option>
-<option value="privacy" selected="true">--Privacy Policy</option></select></td>
-</tr>
-<tr background="images/nav/indicator_back.gif"><td valign="top" background="images/nav/indicator_back.gif" align="center"><img height="6" width="7" alt="" border="0" src="images/menu_dots_off.gif"></td>
-<td valign="top" background="images/nav/indicator_back.gif" align="center"><img height="6" width="7" alt="" border="0" src="images/menu_dots_off.gif"></td>
-<td valign="top" background="images/nav/indicator_back.gif" align="center"><img height="6" width="7" alt="" border="0" src="images/menu_dots_off.gif"></td>
-<td valign="top" background="images/nav/indicator_back.gif" align="center"><img height="6" width="7" alt="" border="0" src="images/menu_dots_off.gif"></td>
-<td valign="top" background="images/nav/indicator_back.gif" align="center"><img height="6" width="7" alt="" border="0" src="images/menu_dots_off.gif"></td>
-<td align="center" background="images/nav/indicator_back.gif"><img src="images/pixel.gif" width="1" height="1" alt="" border="0"></td></tr>
-</tbody></table>
-<table width="740" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><table width="740" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><img width="740" height="24" alt="" border="0" src="images/sub_hdr_privacy_.gif"></td>
-</tr>
-<tr><td><img src="images/shadow_subpage_top.gif" width="740" height="29" alt="" border="0"></td></tr>
-<tr>
-<td bgcolor="#9da3ab">
-<div class="subContent">
-<table width="680" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td><img src="images/pixel.gif" width="680" height="1" alt="" border="0"></td>
-</tr>
-<tr>
-<td valign="top"><div type="xhtml">
-<a href="default.asp?pageID=webdriver_overview">Overview</a> | <a href="http://www.wildtangent.com/publiclinks/redirect/webdriver_download.html?source=05">Download the Web Driver</a> | [Privacy Policy] | <a href="default.asp?pageID=terms_of_service">Terms of Service</a> | <a href="default.asp?pageID=safe_shopping">Safe Shopping Guarantee</a> <br><br>
-</div><span class="paragraphTitle"></span><br><br><span class="paragraphTitle">Privacy Policy</span><br><br><br>
-WildTangent, Inc. takes your privacy concerns regarding our products and services seriously, so we have created the following Privacy Policy to explain our information collection and use practices.  Our Privacy Policy covers what information we collect through our products and services, how this information is used, how you may opt-out of this collection, the security measures we take to protect this information and our policy regarding children under 13 years of age.  The terms "you", "your", and "yours" refer to you, the end user using our products and services.  The terms "WildTangent," "we", "us", and "our" refer to WildTangent, Inc.  By using our products and services, you consent and agree to the information collection and practices described in our Privacy Policy.
-<br><br><b>Changes to the Privacy Policy</b><br>
-We may periodically update our Privacy Policy.  We will notify you about significant changes to the Privacy Policy by sending a notice to the e-mail address specified in your account, or placing a prominent notice on the WildTangent website.  However, it is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it.  The most recent version of our Privacy Policy can always be found at: 
-<br><br><a target="_new" href="http://www.wildtangent.com/default.asp?pageID=privacy">
-http://www.wildtangent.com/default.asp?pageID=privacy
-</a><br><br><b>What Information Is Collected?</b><br>
-We may collect information from individuals through our web site, when you download our products, and when you purchase, register for, and use our products and services (collectively, "Collected Information").  Below are the specific details on what, where, when, and why the Collected Information is collected and how it is used.
-<br><br><b>When Downloading WildTangent Products</b><br>
-The term "personally identifiable information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, address, e-mail address, phone number, or other contact information, and Collected Information linked to this information.  You may be asked for certain personally identifiable information when accessing a particular product or service.  Occasionally, and only with your consent, we may share this information with select third parties.  At the time you are asked for this information, you will be informed of the following:
-<br><br><ul type="disc">
-<li>What specific personally identifiable information is being shared with the select third party </li>
-<li>The identity of the select third party</li>
-<li>A link to the privacy statement of the select third party, if available</li>
-</ul>
-The shared information is subject to the select third parties' privacy statement.  We will not resell or disclose this information to anyone other than the select third party.  Should you decide not to share this information for a particular product or service, you may not be able to access the product or service, however, this will not affect your ability to access other products and services.  We will not be responsible or liable if a third party violates its privacy statement.
-<br><br><b>When Purchasing WildTangent Products and Services</b><br>
-When you purchase a WildTangent product or service from us, we collect standard payment and billing information, including your billing address, for use in processing the payment transaction.  We do not resell or share this payment information with other companies or third parties. 
-<br><br>
-We may retain the services of certain outside contractors to perform services on our behalf (for example, to help provide technical support services, to deliver new game technology, or to administer the delivery of e-mails to users).  At times, we must disclose relevant personally identifiable information about you to our contractors so they may provide specific services for us.  We require our contractors to keep this information confidential and to only use the information on our behalf.  For purposes of this Privacy Policy, these contractors are not considered "select third parties" and we may disclose personally identifiable information to these contractors without providing notice to you.
-<br><br><b>The Security of Your Information</b><br>
-We use Secure Sockets Layer encrypted connections to transmit your payment-related personally identifiable information, including credit card information.  We store personally identifiable information in a secure form.   We limit the employees that can access your personally identifiable information.  We require that all of our employees, contractors, and any third parties in business with us adhere to a confidentiality policy. 
-<br><br><b>System Configuration and Product Usage Information</b><br>
-We collect certain system configuration information through our software such as your computer's CPU speed, video card configuration, and DirectX version.  We use this information to adjust the way our games and other software work in order to ensure their best possible performance.  We also collect certain product usage information through our software such as the number of product launches and time spent playing a product.  We use this information to determine how users are interacting with our products and what features users like and dislike, in order to find ways that our products may be improved and to help us develop new products.  We may share this information with select third parties, but when we do so we only share it in an anonymous aggregated form.
-<br><br><b>GameChannel Updates and Messages</b><br>
-Our software includes a service that updates the GameChannel folder located in your Start Menu with the latest games.  Periodically, your computer will connect to our servers to receive the latest product updates.  A message will notify you when new games are available to install.  When you install a product through a message, the GameChannel folder located in your Start Menu will be updated with that new product.  We collect the following GameChannel usage information: 
-<br><br><ul>
-<li>Receipt of a message</li>
-<li>Number of times a particular message is viewed and clicked on </li>
-</ul>
-We use this information to better understand how the GameChannel service is used and what types of products are most popular with our users.  We may share this information with select third parties, but when we do so we only share it in an anonymous aggregated form.
-<br><br><b>Cookies</b><br>
-Cookies are small text files stored by your browser on your computer when you visit a web site.  We use cookies to improve our web site and make it easier to use.  Cookies permit us to recognize you and avoid repetitive requests for the same information.  Select third parties may also use and view these cookies to recognize you and provide products and services to you.  Most browsers will accept cookies until you change your browser settings to refuse them.  You may change your browser's settings to refuse our cookies.  However, if you do so, you may not be able access certain WildTangent products and services.
-<br><br><b>User Authentication</b><br>
-We use Globally Unique Identifiers (GUIDs) to identify you to provide authentication for certain products and services.  These GUIDs, which are produced by the Windows operating system, are assigned to you when you create an account with us.  We do not share these GUIDs with any third parties. 
-<br><br><b>Children</b><br>
-We do not ask children who identify themselves as being under the age of 13 for any personally identifiable information.  We also restrict them from accessing or using any of our products or services that require them to enter personally identifiable information.  They may access parts of our web site without any personally identifiable information being collected.  We do not sell products or services for purchase by children who identify themselves as being under the age of 13.  Any person who provides their personally identifiable information to us through any of our products or services represents to us that they are 13 years of age or older.
-<br><br><b>Links to Third Party Web Sites</b><br>
-Our products and services may contain links to other web sites and software.  We are not responsible for the privacy practices or the content of these web sites or software.  Please visit the privacy policies of these third party sites in order to understand their privacy and information collection practices.
-<br><br><b>E-mail Communications</b><br>
-Periodically, we may send e-mail to users of our products and services who have indicated a preference to receive news, updates, special offers, and other information relating to our products and services and select third party products and services.  To unsubscribe from these e-mails, please go to the Customer Service area at the URL below and change your e-mail preference.  You may also unsubscribe to these e-mails by clicking on the link provided at the bottom of our e-mail to you.
-<br><br><a target="_new" href="http://www.wildtangent.com/default.asp?pageID=support">
-http://www.wildtangent.com/default.asp?pageID=support
-</a><br><br>
-Occasionally, when downloading a product or using a service, you will be given the option to receive news, updates, special offers and the like directly from third parties.  We are not responsible for the privacy practices or e-mail practices of the third parties.  Please review the privacy policies on the third party's web sites in order to understand their privacy, information collection, and e-mail practices.
-<br><br><b>Disclosures Required by Law</b><br>
-We reserve the right to disclose your personally identifiable information when we believe in good faith that an applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user.
-<br><br><b>Mergers and Acquisitions</b><br>
-In the event that we or a portion of our assets are acquired by another company, customer information, including personally identifiable information, may be one of the transferred assets. 
-<br><br><b>No Error-Free Performance</b><br>
-We do not guarantee error-free performance under this Privacy Policy.  We may not always catch an unintended privacy issue, despite our efforts to do so.  Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our products and services generally.  We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it.  We will not be liable for any incidental, consequential, or punitive damages relating to this Privacy Policy.
-<br><br>WildTangent, Inc.<br>18578 NE 67th Court<br>Building 5<br>Redmond, WA 98052<br></td>
+<td width="166" height="31" class="bbn" style="padding-left: 10px; text-align: left;"> <br> </td>
 </tr>
 </tbody></table>
 </div>
-</td>
-</tr>
-<tr><td><img src="images/shadow_subpage_bottom.gif" width="740" height="17" alt="" border="0"></td></tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="740" background="images/footer_n_02.gif">
-<tbody><tr>
-<td valign="top"><img src="images/pixel.gif" align="left" width="1" height="187" alt="" border="0"><div id="footer">© 2003 WildTangent, Inc. All Rights Reserved.<img src="images/pixel.gif" width="6" height="1" alt="" border="0"><a href="default.asp?pageID=support">Customer Support</a> | <a href="default.asp?pageID=privacy">Privacy Policy</a> | <a href="default.asp?pageID=terms_of_service">Terms of Service</a><a href="http://shop.ipilot.com/"><img src="images/pixel.gif" alt="" width="1" height="1" border="0"></a></div>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-<td width="22" valign="top" background="images/bg_r-vert.gif"><a href="http://www.wildtangent.com/liloandstitch/"><img src="images/pixel.gif" alt="" width="1" height="1" border="0"></a><a href="http://shop.ipilot.com/"><img src="images/pixel.gif" alt="" width="1" height="1" border="0"></a><img src="images/pixel.gif" width="20" height="1" alt="" border="0"></td>
-</tr>
+<div id="contentheader" style="position:absolute; width:167px; height:17px; z-index:14; left: 245px; top: 212px;"><img src="images/contentheaders/privacy_03.gif"></div>
+<div id="textbox" style="margin-bottom: 200px; top: 232px;" class="textbox_nn">  <p><b>Privacy Policy</b></p> <p>WildTangent, Inc. takes your 
+        privacy concerns regarding our products and services seriously, so we 
+        have created the following Privacy Policy to explain our information collection 
+        and use practices. Our Privacy Policy covers what information we collect 
+        through our products and services, how this information is used, how you 
+        may opt-out of this collection, the security measures we take to protect 
+        this information and our policy regarding children under 13 years of age. 
+        The terms "you", "your", and "yours" refer to you, the end user using 
+        our products and services. The terms "WildTangent," "we", "us", and "our" 
+        refer to WildTangent, Inc. By using our products and services, you consent 
+        and agree to the information collection and practices described in our 
+        Privacy Policy. </p> <p><b>Changes to the Privacy Policy</b></p> <p>We 
+        may periodically update our Privacy Policy. We will notify you about significant 
+        changes to the Privacy Policy by sending a notice to the e-mail address 
+        specified in your account, or placing a prominent notice on the WildTangent 
+        website. However, it is your responsibility to review the most recent 
+        version of our Privacy Policy frequently and remain informed about any 
+        changes to it. The most recent version of our Privacy Policy can always 
+        be found at: </p> <p><a href="http://www.wildtangent.com/?pageID=privacy">http://www.wildtangent.com/?pageID=privacy</a></p> 
+        <p><b>What Information Is Collected?</b></p> <p>We may collect information 
+        from individuals through our web site, when you download our products, 
+        and when you purchase, register for, and use our products and services 
+        (collectively, "Collected Information"). Below are the specific details 
+        on what, where, when, and why the Collected Information is collected and 
+        how it is used. </p> <p><b>When Downloading WildTangent Products</b></p> 
+        <p>The term "personally identifiable information" means any information 
+        that may be used to identify an individual, including, but not limited 
+        to, a first and last name, address, e-mail address, phone number, or other 
+        contact information, and Collected Information linked to this information. 
+        You may be asked for certain personally identifiable information when 
+        accessing a particular product or service. Occasionally, and only with 
+        your consent, we may share this information with select third parties. 
+        At the time you are asked for this information, you will be informed of 
+        the following: </p> <ul> <li>What specific personally identifiable information 
+        is being shared with the select third party </li> <li>The identity of 
+        the select third party </li> <li>A link to the privacy statement of the 
+        select third party, if available </li> </ul> <p>The shared information 
+        is subject to the select third parties privacy statement. We will not 
+        resell or disclose this information to anyone other than the select third 
+        party. Should you decide not to share this information for a particular 
+        product or service, you may not be able to access the product or service, 
+        however, this will not affect your ability to access other products and 
+        services. We will not be responsible or liable if a third party violates 
+        its privacy statement. </p> <p><b>When Purchasing WildTangent Products 
+        and Services</b></p> <p>When you purchase a WildTangent product or service 
+        from us, we collect standard payment and billing information, including 
+        your billing address, for use in processing the payment transaction. We 
+        do not resell or share this payment information with other companies or 
+        third parties. </p> <p>We may retain the services of certain outside contractors 
+        to perform services on our behalf (for example, to help provide technical 
+        support services, to deliver new game technology, or to administer the 
+        delivery of e-mails to users). At times, we must disclose relevant personally 
+        identifiable information about you to our contractors so they may provide 
+        specific services for us. We require our contractors to keep this information 
+        confidential and to only use the information on our behalf. For purposes 
+        of this Privacy Policy, these contractors are not considered "select third 
+        parties" and we may disclose personally identifiable information to these 
+        contractors without providing notice to you. </p> <p><b>The Security of 
+        Your Information</b></p> <p>We use Secure Sockets Layer encrypted connections 
+        to transmit your payment-related personally identifiable information, 
+        including credit card information. We store personally identifiable information 
+        in a secure form. We limit the employees that can access your personally 
+        identifiable information. We require that all of our employees, contractors, 
+        and any third parties in business with us adhere to a confidentiality 
+        policy. </p> <p><b>System Configuration and Product Usage Information</b></p> 
+        <p>We collect certain system configuration information through our software 
+        such as your computer's CPU speed, video card configuration, and DirectX 
+        version. We use this information to adjust the way our games and other 
+        software work in order to ensure their best possible performance. We also 
+        collect certain product usage information through our software such as 
+        the number of product launches and time spent playing a product. We use 
+        this information to determine how users are interacting with our products 
+        and what features users like and dislike, in order to find ways that our 
+        products may be improved and to help us develop new products. We may share 
+        this information with select third parties, but when we do so we only 
+        share it in an anonymous aggregated form. </p> <p><b>GameChannel Updates 
+        and Messages</b></p> <p>Our software includes a service that updates the 
+        GameChannel folder located in your Start Menu with the latest games. Periodically, 
+        your computer will connect to our servers to receive the latest product 
+        updates. A message will notify you when new games are available to install. 
+        When you install a product through a message, the GameChannel folder located 
+        in your Start Menu will be updated with that new product. We collect the 
+        following GameChannel usage information: </p> <ul> <li>Receipt of a message</li> 
+        <li>Number of times a particular message is viewed and clicked on</li> 
+        </ul> <p>We use this information to better understand how the GameChannel 
+        service is used and what types of products are most popular with our users. 
+        We may share this information with select third parties, but when we do 
+        so we only share it in an anonymous aggregated form. </p> <p><b>Cookies</b></p> 
+        <p>Cookies are small text files stored by your browser on your computer 
+        when you visit a web site. We use cookies to improve our web site and 
+        make it easier to use. Cookies permit us to recognize you and avoid repetitive 
+        requests for the same information. Select third parties may also use and 
+        view these cookies to recognize you and provide products and services 
+        to you. Most browsers will accept cookies until you change your browser 
+        settings to refuse them. You may change your browser's settings to refuse 
+        our cookies. However, if you do so, you may not be able access certain 
+        WildTangent products and services. </p> <p><b>User Authentication</b></p> 
+        <p>We use Globally Unique Identifiers (GUIDs) to identify you to provide 
+        authentication for certain products and services. These GUIDs, which are 
+        produced by the Windows operating system, are assigned to you when you 
+        create an account with us. We do not share these GUIDs with any third 
+        parties. </p> <p><b>Children</b></p> <p>We do not ask children who identify 
+        themselves as being under the age of 13 for any personally identifiable 
+        information. We also restrict them from accessing or using any of our 
+        products or services that require them to enter personally identifiable 
+        information. They may access parts of our web site without any personally 
+        identifiable information being collected. We do not sell products or services 
+        for purchase by children who identify themselves as being under the age 
+        of 13. Any person who provides their personally identifiable information 
+        to us through any of our products or services represents to us that they 
+        are 13 years of age or older. </p> <p><b>Links to Third Party Web Sites</b></p> 
+        <p>Our products and services may contain links to other web sites and 
+        software. We are not responsible for the privacy practices or the content 
+        of these web sites or software. Please visit the privacy policies of these 
+        third party sites in order to understand their privacy and information 
+        collection practices. </p> <p><b>E-mail Communications</b></p> <p>Periodically, 
+        we may send e-mail to users of our products and services who have indicated 
+        a preference to receive news, updates, special offers, and other information 
+        relating to our products and services and select third party products 
+        and services. To unsubscribe from these e-mails, please go to the Customer 
+        Service area at the URL below and change your e-mail preference. You may 
+        also unsubscribe to these e-mails by clicking on the link provided at 
+        the bottom of our e-mail to you. </p> <p><a href="http://www.wildtangent.com/?pageID=support">http://www.wildtangent.com/?pageID=support</a></p> 
+        <p>Occasionally, when downloading a product or using a service, you will 
+        be given the option to receive news, updates, special offers and the like 
+        directly from third parties. We are not responsible for the privacy practices 
+        or e-mail practices of the third parties. Please review the privacy policies 
+        on the third party's web sites in order to understand their privacy, information 
+        collection, and e-mail practices. </p> <p><b>Disclosures Required by Law</b></p> 
+        <p>We reserve the right to disclose your personally identifiable information 
+        when we believe in good faith that an applicable law, regulation, or legal 
+        process requires it, or where we believe disclosure is necessary to protect 
+        or enforce our rights or the rights of another user. </p> <p><b>Mergers 
+        and Acquisitions</b></p> <p>In the event that we or a portion of our assets 
+        are acquired by another company, customer information, including personally 
+        identifiable information, may be one of the transferred assets. </p> <p><b>No 
+        Error-Free Performance</b></p> <p>We do not guarantee error-free performance 
+        under this Privacy Policy. We may not always catch an unintended privacy 
+        issue, despite our efforts to do so. Accordingly, we welcome your feedback 
+        regarding any privacy concerns that you may have, including how we can 
+        improve our products and services generally. We will use reasonable efforts 
+        to comply with this Privacy Policy and will take prompt corrective action 
+        when we learn of any failure to comply with it. We will not be liable 
+        for any incidental, consequential, or punitive damages relating to this 
+        Privacy Policy. </p> <p> WildTangent, Inc.<br> 18578 NE 67th Court<br> Building 5<br> Redmond, WA 98052 </p>  <br><br></div><script>
 
-</tbody></table>
+if (navigator.appName.indexOf('Netscape') > -1){
+document.getElementById('textbox').className = 'textbox_nn';
+}
+else{
+document.getElementById('textbox').className = 'textbox_ie';
+}
 
+</script><map name="Map"><area shape="rect" coords="14,7,223,60" href="default.asp"></map><script>
 
+var yPage
+var test1 = document.body.scrollHeight;
+var test2 = document.body.offsetHeight
+if (test1 > test2) // all but Explorer Mac
+{
+	yPage = document.body.scrollHeight;
+}
+else // Explorer Mac;
+     //would also work in Explorer 6 Strict, Mozilla and Safari
+{
+	yPage = document.body.offsetHeight;
+}
+
+document.getElementById("boxnav").style.top = yPage - 67;
+</script>
 </body></html>
