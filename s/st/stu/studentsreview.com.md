@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606183131id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212141916id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
 
 # College Reviews : StudentsReview - Actually _Useful_ college information.
 
-[ ](http://www.studentsreview.com/) |      |  |  |  **Student reviews of Universities** |   
+[ ](http://www.studentsreview.com/) |      
+
+[ ](http://www.blink.com/error/no_javascript.html)
+
+[](http://www.eclipti.com/)
+
+|  |  |  ** Over 2600 Student Reviews! ** | 
+
+**StudentsReview **  
+  
 ---|---  
   
 Answers to the questions college students wish they had known to ask.  
@@ -40,4 +49,4 @@ Send Comments/Suggestions to: [sradmin@eclipti.com](mailto:sradmin@eclipti.com).
 
 * * *
 
-Copyright © 2000. Ecliptical Technologies, Inc. All Rights Reserved. | 
+Copyright © 2000, 2001. Students Review, Inc. All Rights Reserved. | 
