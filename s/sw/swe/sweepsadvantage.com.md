@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085333id_/http%3A//www.sweeps.ws/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602195238id_/http%3A//www.sweeps.ws/privacy.htm) for the most accurate reproduction.*
 
 # Sweepstakes Advantage is committed to respecting and protecting your personal privacy
 
@@ -12,7 +12,7 @@ Sweepstakes Advantage  is committed to respecting and protecting your personal 
   
 **What Information Does Sweepstakes Advantage   Collect From You?**  
   
-  * You can visit our site and use many of our services without having to tell us who you are or reveal any personally identifiable information to us. It is only when you register to become an  [Sweepstakes Advantage Member](https://web.archive.org/web/20031206085333id_/http%3A//www.sweeps.ws/forms/sweepsalertsubscribe.old), use certain Sweepstakes Advantage  services, or enter contests, that you will be asked to provide us with personally identifiable information. 
+  * You can visit our site and use many of our services without having to tell us who you are or reveal any personally identifiable information to us. It is only when you register to become an  Sweepstakes Advantage Member, use certain Sweepstakes Advantage  services, or enter contests, that you will be asked to provide us with personally identifiable information. 
   * Whenever you visit Sweepstakes Advantage , even if you have not registered with us, our web server logs automatically receive and record anonymous information from your web browser including your IP Address, Sweepstakes Advantage  cookie information, the Sweepstakes Advantage  page(s) you request, and any search terms you query. 
   * Sweepstakes Advantage  uses this anonymous information to customize your experience on our site, to improve our services, and to show you more relevant advertising messages. We ordinarily do not attempt to link this information to a specific person, with certain important exceptions. 
   * If you are a registered Sweepstakes Advantage  Member, your personally identifiable registration information is also recorded alongside the anonymous information in our web server log. So, once you register as an Sweepstakes Advantage  Member, you are no longer anonymous to us. 
@@ -29,7 +29,7 @@ Sweepstakes Advantage  is committed to respecting and protecting your personal 
   
 **What Choices Do You Have?**  
   
-  * You may edit or delete your Sweepstakes Advantage  Member Registration information and account preferences, including whether you want us to contact you about special offers and products, at the [Sweepstakes Advantage Subscriptions page](https://web.archive.org/web/20031206085333id_/http%3A//www.sweeps.ws/forms/sweepsalertsubscribe.old) at any time. Even so, certain information might remain in our records for a short time after your account is deleted. 
+  * You may edit or delete your Sweepstakes Advantage  Member Registration information and account preferences, including whether you want us to contact you about special offers and products, at the Sweepstakes Advantage Subscriptions page at any time. Even so, certain information might remain in our records for a short time after your account is deleted. 
 
   
 **What Security Measures Are in Place to Protect Your Information?**  
@@ -45,5 +45,5 @@ Sweepstakes Advantage  updates this policy from time to time so please review i
   
   * If you have any questions or concerns about this privacy policy or the practices of this site, please email us at [webmaster@sweepsadvantage.com](mailto:webmaster@sweepsadvantage.com) . 
 
-Last updated January 24, 2000.  
+Last updated March 22, 2004  
 
