@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204080743id_/http%3A//www.mexgrocer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2003-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030303083801id_/http%3A//www.mexgrocer.com/privacy-policy.html) for the most accurate reproduction.*
 
-# MexGrocer.com online grocery store for mexican food products and mexican recipes
+# No Name
+
+Privacy Policy Overview
 
 [](http://www.truste.org/validate/10910)
 
-Privacy Policy Overview MexGrocer.com is strongly committed to protecting the privacy of its customers. We have written this privacy policy to inform you of the specific information that we collect from you, how we use this information, and what options you have in sharing this information with us when you visit our site. Protecting your privacy is a significant part of MexGrocer.com's commitment to providing you with a high quality shopping experience.
+MexGrocer.com is strongly committed to protecting the privacy of its customers. We have written this privacy policy to inform you of the specific information that we collect from you, how we use this information, and what options you have in sharing this information with us when you visit our site. Protecting your privacy is a significant part of MexGrocer.com's commitment to providing you with a high quality shopping experience.
 
 This confirms that MexGrocer.com is a licensee of the TRUSTe Privacy Program. TRUSTe certifies this website’s online gathering and dissemination of information and privacy practices. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices.  Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -54,7 +56,7 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 
 Refer-A-Friend 
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. MexGrocer.com will automatically send the friend a one-time email inviting them to visit the site. MexGrocer.com stores this information for the sole purpose of sending this one-time email. The friend may contact MexGrocer.com at info@mexgrocer.com to request the removal of this information from their database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. MexGrocer.com will automatically send the friend a one-time email inviting them to visit the site. MexGrocer.com stores this information for the sole purpose of sending this one-time email. The friend may contact MexGrocer.com at info@mexgrocer.com to request the removal of this information from their database
 
 Security ** **
 
@@ -82,7 +84,7 @@ Choice/Opt-out 
 
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to “REMOVE” in the subject line in the email sent out or email us at [info@mexgrocer.com](mailto:info@mexgrocer.com) and let us know that you want to opt-out of further newsletter communications. You may also edit your account under the “My Account” tab at the top of the website, login and click to modify your account. There, you will be able to select to not receive the newsletter any more by selecting “NO” in the designated field.
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to “REMOVE” in the subject line in the email sent out or email us at [info@mexgrocer.com](mailto:info@mexgrocer.com) and let us know that you want to opt-out of further newsletter communications. You may also edit your account under the “My Account” tab at the top of the website, login and click to modify your account. There, you will be able to select to not receive the newsletter any more by selecting “NO” in the designated field. ~~~~
 
 Notification of Changes 
 
@@ -90,7 +92,7 @@ If we decide to change our privacy policy, we will prominently post those change
 
 Our Guarantee
 
-We are so confident about the security of our site that we back every purchase with this guarantee: If using your credit card on our site results in subsequent unauthorized use of your card, we'll cover your liability up to $50. The unauthorized use must have resulted from giving your credit card information to MexGrocer.com - not from fault of your own. Our guarantee applies only if your credit card information was given to us over the MexGrocer.com secure server.
+We are so confident about the security of our site that we back every purchase with this guarantee: If using your credit card on our site results in subsequent unauthorized use of your card, we'll cover your liability up to $50. The unauthorized use must have resulted from giving your credit card information to MexGrocer.com \- not from fault of your own. Our guarantee applies only if your credit card information was given to us over the MexGrocer.com secure server.
 
 If you discover unauthorized use of your credit card, you must notify MexGrocer.com of the problem in writing (by email or letter) within 24 hours of discovery. You must also notify your credit card provider in accordance with its reporting rules and procedures. We limit our Safe Shopping Guarantee to $50 because your credit card provider likely will either cover the unauthorized charges altogether, or limit your liability to $50 or less. Your card user agreement will have the details.
 
@@ -104,16 +106,12 @@ Though we make every effort to preserve your privacy we may need to disclose per
 
 Your **** Feedback
 
-At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click Contact Us and let us know or write us by mail at: 
+At MexGrocer.com, your privacy is extremely important. If you have any questions about the privacy statement, the practices of this site, or your dealings with MexGrocer, please click [Contact Us](http://store.yahoo.com/mexgrocer/contact-us.html) and let us know or write us by mail at: 
 
-**MexGrocer.com LLC  
+MexGrocer.com LLC  
 P.O. BOX 2888  
 La Jolla, CA 92038  
 USA
 
 Phone (858)459-0577  
-Email
-
-  **
-
-**[info@mexgrocer.com](mailto:info@mexgrocer.com)**
+Email [info@mexgrocer.com](mailto:info@mexgrocer.com%20)
