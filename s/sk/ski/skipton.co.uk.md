@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205090100id_/http%3A//www.skipton.co.uk/security_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305094434id_/http%3A//www.skipton.co.uk/security_privacy.asp) for the most accurate reproduction.*
 
 # Security and privacy policy - Skipton Building Society
 
-Skipton Building Society is committed to protecting your privacy and keeping your personal information secure. This policy does not extend to external websites accessed from this site –including those of other members of the Skipton Building Society Group. Please read the terms and conditions of any other sites separately.  
+|   
+---|---  
+  
+Skipton Building Society is committed to protecting your privacy and keeping your personal information secure. This policy does not extend to external websites accessed from this site –including those of other members of the Skipton Building Society Group. Please read the terms and conditions of any other sites separately.
 
+## Security
 
 Strict security procedures are followed whenever your information is obtained and stored. Encryption technology is also used to keep the information submitted via the online contact forms secure. Encryption codes information to make it virtually impossible for someone else to read unless they have a key to decipher it. It is then stored in a secure area that can only be accessed by authorised persons.
 
@@ -11,10 +15,11 @@ Open emails are not secure and third parties may be able to intercept, access or
 
 If you make an enquiry via email, we will take steps to check your identity before giving out any personal information.
 
-We regularly review our security procedures.  
+We regularly review our security procedures.
 
+## Privacy
 
-The Data Protection Act 1998 (see [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/) for more information) gives individuals certain rights as it defines the rules for processing personal information. It also states that those who record and process personal information, such as the Society, must be open and honest in how the information is used. 
+The Data Protection Act 1998 (see [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/) for more information) gives individuals certain rights as it defines the rules for processing personal information. It also states that those who record and process personal information, such as the Society, must be open and honest in how the information is used.
 
 The principle purpose of collecting personal data from you via this web site is to assist in the efficient running of your accounts or to provide information or services specifically requested by you. When you complete our online enquiry forms, we ask for your contact details and other selected information so that we can deal with your request as efficiently and effectively as possible.
 
