@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201225613id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401135652id_/http%3A//www.interactivetools.com/about/privacy.html) for the most accurate reproduction.*
 
 # interactivetools.com - Privacy Policy
 
   
 
 
-Join our newsletter for free info on software updates and new releases. You can unsubscribe at any time.
+Join our monthly newsletter for free info on software updates and new releases. You can unsubscribe at any time. [Click here](http://www.interactivetools.com/iforum/General_C1/Announcements_F10/) to see some example newsletters.
 
   
 
@@ -29,7 +29,7 @@ We take your privacy very seriously. In order for you to better understand our d
 
 **2\. Newsletter**
 
-> If you elect to join our newsletter we will notify you of new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. You may unsubscribe from our newsletter at any time and we do not make email addresses available to any third parties. 
+> If you elect to join our newsletter we will send you a notification once a month about new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. You may unsubscribe from our newsletter at any time and we do not make email addresses available to any third parties. [Click here](http://www.interactivetools.com/iforum/General_C1/Announcements_F10/) if you'd like to see some example newsletters. 
 
 **3\. During Software Purchase**
 
