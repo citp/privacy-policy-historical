@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life123.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610190727id_/http%3A//life123.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life123.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009151645id_/http%3A//www.life123.com/privacy.html) for the most accurate reproduction.*
 
 # Cutting Edge Fitness Privacy Policy
 
