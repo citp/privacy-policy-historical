@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janatabank-bd.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603123926id_/http%3A//www.janatabank-bd.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janatabank-bd.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211191928id_/http%3A//www.janatabank-bd.com/policy.htm) for the most accurate reproduction.*
 
 # Janata Privacy Policy
 
@@ -30,8 +30,8 @@ We will take appropriate steps to protect the information you share with us from
 
 **COMMITMENT**
 
-We are committed to privacy and through our membership in and actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Personal data privacy is a new and evolving area, and Janata Bank is evolving to meet these demands. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at [jbcomp@citechco.net](mailto:jbcomp@citechco.net) We will address any issue to the best of our abilities. 
+We are committed to privacy and through our membership in and actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Personal data privacy is a new and evolving area, and Janata Bank is evolving to meet these demands. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at [jbcomp@janatabank-bd.com](mailto:jbcomp@citechco.net) We will address any issue to the best of our abilities. 
 
 Thank you for your support of these policies and of Janata Bank. 
 
-|Top|         |[Home](https://web.archive.org/web/20010603123926id_/http%3A//www.janatabank-bd.com/index.htm)|
+|Top|         |[Home](https://web.archive.org/web/20021211191928id_/http%3A//www.janatabank-bd.com/index.htm)|
