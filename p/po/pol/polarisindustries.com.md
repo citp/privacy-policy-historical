@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarisindustries.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602213427id_/http%3A//www.polarisindustries.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarisindustries.com privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214044404id_/http%3A//www.polarisindustries.com/privacy/default.asp) for the most accurate reproduction.*
 
 # Polaris : The Way Out
 
