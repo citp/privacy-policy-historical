@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206053011id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610202728id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Information at The Jackson Laboratory - The Jackson Laboratory
 
@@ -57,7 +57,7 @@ If you do not want your browser to accept cookies, you can turn off the cookie a
 
 We treat information about visits to our Web Site with the utmost respect and attention to confidentiality. This information is critically important to providing a high level of individualized service to our site visitors. Information collected from Web site visits is used to help ensure that your experience with our Web site is productive, time efficient, helpful, and personalized. 
 
-Please be assured that we will not sell or rent information gathered during visits to the Web site to any third party. However, we may need to provide some of this information to a third party if required by third party license agreements, by grant obligations, or by law 
+Please be assured that we will not sell or rent information gathered during visits to the Web site to any third party. However, we may need to provide some of this information to a third party if required by third party license agreements, by grant obligations, or by law.
 
 **Surveys**
 
