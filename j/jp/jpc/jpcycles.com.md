@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604173818id_/http%3A//www.jpcycles.com/Shell.aspx%3Fsrc%3DFooter/Ordering/ReadText.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206203443id_/http%3A//www.jpcycles.com/Shell.aspx%3Fsrc%3DFooter/Ordering/ReadText.htm) for the most accurate reproduction.*
 
-# J&P Cycles, Keeping the World on 2 Wheels!
+# J&P Cycles - Motorcycle exhausts, seats, mirrors, and more
 
 J&P Cycles collects the email addresses of those who communicate with us via email, the email addresses of those who make postings in our Rider's Forum area and email address of those who choose to receive email from a catalog or merchandise request. Those who fill out a merchandise order or catalog request must opt to be added to the mailing list.
 
