@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204235949id_/http%3A//www.chesterfield.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604061601id_/http%3A//chesterfield.gov/privacy.asp) for the most accurate reproduction.*
 
 # Chesterfield County, Virginia | Privacy Policy
 
@@ -97,8 +97,3 @@ Chesterfield, VA 23832
 If you have department or service specific concerns, please see our department contact list at <http://chesterfield.gov/phonedirectory/>
 
 * * *
-
-**Can't find what you need?**  
-Try our [Services Guide](https://web.archive.org/Services/serguide.asp), use [Search](https://web.archive.org/Search/default.asp), [Contact Us](https://web.archive.org/PhoneDirectory/default.asp), or get [Driving Directions](https://web.archive.org/countydirections.asp)
-
-**NOTICE:** The Chesterfield Connections Internet site will be down for maintenance from midnight Friday, Dec. 5, until 9 a.m. Saturday, Dec. 6. We apologize for any inconvenience this might cause.
