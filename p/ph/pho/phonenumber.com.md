@@ -1,78 +1,91 @@
-> *The following text is extracted and transformed from the phonenumber.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604143717id_/http%3A//www.phonenumber.com/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumber.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210023317id_/http%3A//phonenumber.com/2321/privacy) for the most accurate reproduction.*
 
-# PhoneNumber.com - Free Phone Number Directory
+# Free People Search - Phone Numbers, Reverse Phone Directory, Area Codes, and Zip Codes
 
-**Last Revision: November 5th, 2003**
+|  |  |  | [FIND PERSON](https://web.archive.org/2321/person "Free People Search")  
+---  
+| FIND BUSINESS  
+---  
+| Business |  | Type  | **-OR-** |  | Name  
+---|---|---|---|---|---  
+City, ZIP or Area Code  
+| State  |    |   
+---|---|---  
+[REVERSE PHONE](https://web.archive.org/2321/reverse-phone "Reverse Phone Number Directory")  
+[REVERSE ADDRESS](https://web.archive.org/2321/reverse-address "Reverse Address Search")  
+[AREA, ZIP &   
+COUNTRY CODES](https://web.archive.org/2321/area-zip-codes "Zip Code and Area Code Finder")  
+|  Get the Digits the First Time  
+| 
 
-W3 Data, Inc. ("W3 Data") is committed to protecting your privacy. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by [www.bbbonline.org](http://www.bbbonline.org/). Further information about this program is available at www.bbbonline.org. This privacy policy ("Privacy Policy") explains the type of information W3 Data collects through [www.w3data.com](http://www.w3data.com/) and any services offered therein (e.g., BatchAppend411 and EnterpriseDA), [www.whitepages.com](http://www.whitepages.com/) as well as any Web site incorporating the content of [www.whitepages.com](http://www.whitepages.com/) (the "Whitepages.com Network"), and My WhitePages ("MyWP"). MyWP, BatchAppend411, EnterpriseDA and the WhitePages.com Network offer electronic information services provided by W3 Data which allow you to access a list of names, addresses, telephone numbers and other information compiled from telephone company databases (the "Service(s)"). For purposes of this Privacy Policy, viewing any portion of the aforementioned Web sites that offer Services is considered a "use" of the Services. 
+**Our Privacy Policy**
 
-Please read the following Privacy Policy carefully before using the Services. If you use any of the Services, you will be bound by the terms of this Privacy Policy. This Privacy Policy may change from time to time so you should check it frequently. If you do not want us to contact you via telephone, please contact customer support. 
+ **LAST REVISION: November 11, 2004**  
+Privacy Policy Glossary
 
-W3 DATA COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW, THE INFORMATION YOU PROVIDE US IN CONNECTION WITH YOUR USE OF THE SERVICES AND THE DATA YOU ENTER IN ONLINE FORMS AND SEARCHES. ALTHOUGH W3 DATA DOES NOT ATTEMPT TO ANALYZE INTERNET USAGE DATA TO DETERMINE THE IDENTITY OF ANY SERVICE USER, SOME INFORMATION COLLECTED BY THE SERVICES ARE PERSONALLY IDENTIFIABLE. W3 DATA AGGREGATES AND ANALYZES THE INFORMATION IT COLLECTS TO IMPROVE ITS SERVICES AND TO PREPARE REPORTS ABOUT AGGREGATE INTERNET USAGE AND YOUR DIRECTORY ASSISTANCE LOOK-UP HABITS. IN ADDITION, WHEN YOU USE THE SERVICES YOUR SEARCH RESULTS WILL BE TRANSMITTED TO AND LOGGED BY W3 DATA AND MAY BE CORRELATED BY W3 DATA WITH ANY PERSONALLY IDENTIFIABLE INFORMATION YOU MAY HAVE PREVIOUSLY PROVIDED TO W3 DATA. 
+WhitePages.com Network respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a trusted consumer brand. Accordingly, we abide by the following privacy principles for all the Personal Information we collect from you: 
 
-**What types of information does W3 Data collect?**
+  * You maintain ownership rights to Your Information, even if there is a business transition. 
+  * You may access or modify Your Information at any time. 
+  * We will not sell or share your Personal Information with anyone outside our company, unless required by law or in accordance with your instructions. 
+  * We apply high data security protections to safeguard your personal information. 
 
-If you are using any of the Services, we may collect the following information: the full Uniform Resource Locator ("URL") of the Web page from which you came to the Services; your Internet Protocol ("IP") address, which may include a domain name; the date and time for each page you view; the name of and information about any advertisement that brought you to the Web pages that offer the Services; searches you perform, links you click on; and computer and connection information such as browser type and version, operating system, and platform. We also transmit cookies to your computer so we can track the pages of our Web site that you view and the order in which you view them. 
 
-If you e-mail W3 Data we collect your message, the recipient e-mail address(es), and your e-mail address for the purpose of sending the e-mail. We do not send other e-mail to these address(es). 
 
-Certain Services (e.g., BatchAppend411) allow you to send us the personal identifiable information of third parties. We treat such personal identifiable information as if it is your personal identifiable information (i.e., this Privacy Policy covers third party personal identifiable information provided by you to us). 
+Below is the Short Version of the policies we have put in place to carry out these principles. We pledge to follow them in our day-to-day operations. 
 
-If you use the Services, we collect any information voluntarily provided by you during the registration process (if applicable), which can include your e-mail address as well as billing information and demographic information such as gender, age, occupation, household income, zip code and country. We also collect the name of and information about any advertisement that brought you to the Web pages that offer the Services. Demographic information is correlated to Internet usage collected during your use of the Service, but we do not attempt to determine your identity by analyzing this information. 
+As our business grows and changes, we expect to revise or enhance these policies. We will communicate our updated policies to our users and the public by posting a notice on our Web sites or some other reasonable means. 
 
-When you use the Services we transmit cookies to the hard drive of your computer. These cookies assign your Web browser a unique series of numbers, letters, or characters that enable W3 Data's servers to recognize and identify your Web browser when you are using the Service. They also enable W3 Data to track and store information about your Internet usage path while using the Service. See below for more information about how W3 Data uses this data. 
+If you have any questions, you can view a longer version of our policy that provides a detailed discussion about each of the "Short Policy" statements. Click here to view our [Long Privacy Policy](https://web.archive.org/2321/privacy_l). 
 
-When you use the Services we collect information about the Web sites you visit (e.g., by clicking on advertisements) and the Web pages you view. This information allows us to build our database of information about related Web pages. Thus, for every Web page you view while using a Service, the Service transmits and stores the following information from your computer to W3 Data: 
+You can also contact our Chief Privacy Officer, Rob Voce, by e-mail at [privacy@w3data.com](mailto:privacy@w3data.com) or by mail at 1301 Fifth Ave, Suite 1600, Seattle, WA 98101. 
 
-  * your IP address, which may include a domain name; 
-  * the full URL of the Web page you are visiting;
-  * general information about your browser; 
-  * general information about your computer's operating system; 
-  * your cookie number; and 
-  * the date and time the above information is logged. 
+**WhitePages.com Network's Short Privacy Policy**
 
-All of the above information is logged together in a single data string for each Web page you visit. Each string is logged in our database. 
+  1.  **WHAT INFORMATION WE COLLECT**  
+We do not collect any Personal Information about you from our Web sites unless you choose to provide it to us. This means you can visit our Web sites without telling us who you are or revealing any Personally Identifiable Information about yourself. As you browse the Web sites, our Web servers do collect information about your visit, but not about you personally. None of the information about how you navigate the sites is combined with your personal identifiers. [[More info](https://web.archive.org/2321/privacy_l#1)] 
 
-**Does W3 Data collect personally identifiable information?**
+  2. **HOW WE USE THE PERSONAL INFORMATION WE DO COLLECT**  
+When you supply information about yourself for a specific purpose, we use such Personal Information for that purpose. For example, you may be asked to give us Personal Information to purchase a product or service, receive information, register for an account, or apply for a job. [[More info](https://web.archive.org/2321/privacy_l#2)] 
 
-The URLs we collect through your use of the Services sometimes contain personal information about you. For example, when you enter information on a Web page (e.g., when you complete an online registration form or advertisement form) the operator of the Web site may insert that information into its URL for that or the next page. This information often appears after a question mark ("?") in the URL, although it can appear in other places. This means that your name, your address, your e-mail address, or similar information you might consider private or personally identifiable which you enter into a Web page sometimes becomes part of a URL and is automatically stored in W3 Data databases. This can also occur with words, topics, products, or phrases you enter into search engines - whether those engines are provided by the Services or found elsewhere on the Internet - while using the Services. W3 Data has no control over what information third party Web sites put into their URLs or where they put it, and any information in each URL is collected and stored by W3 Data when you are using the Services. 
+  3. **YOU HAVE FULL ACCESS TO YOUR INFORMATION**  
+You have access to and can edit the Personal Information that we have collected from you, including your account preferences, at any time. [[More info](https://web.archive.org/2321/privacy_l#3)] 
 
-W3 Data analyzes its logs of usage path collected from users to determine Internet usage in the aggregate. Further, by storing this information with users' cookie numbers, W3 Data correlates each user's usage path information and demographic information to each other. 
+  4. **NO MARKETING OF YOUR DATA**  
+We do not sell or disclose Personally Identifiable Information obtained online about you to other people or nonaffiliated companies unless (a) you specifically authorize it; (b) it is to complete a transaction that you initiated; (c) it is required by law, (d) disclosure is necessary to protect the safety of customers, employees or property, or (e) required in order to service the company's technical infrastructure. [[More info](https://web.archive.org/2321/privacy_l#4)] 
 
-We may monitor and record telephone communications between you and our employees for quality control and training purposes. We protect the personally identifiable information we collect through these telephone recordings and transcriptions in the same manner as other personally identifiable information covered by this policy. We will only permit authorized employees and business associates to access these recordings or transcriptions. By using the Services you hereby consent to such monitoring and recording unless you affirmatively inform W3 Data that you do not want such telephone conversations recorded or monitored. 
+  5. **CONFIDENTIALITY AND SECURITY OF YOUR INFORMATION**  
+We apply high data security protections to safeguard your personal information. To protect the personal information we have about you, we use physical, electronic, and procedural safeguards that comply with federal regulations. [[More info](https://web.archive.org/2321/privacy_l#5)] 
 
-All transmissions between you and W3 Data, including e-mails, URLs, cookie identification numbers, usage paths, and any personally identifiable information they might contain, pass through many third party machines, operating systems, programs, browsers, Internet servers, networks, routers, Ethernet switches, ISPs, proxy servers, intranets, the public telephone systems, or other devices, any of which may create activity logs containing such transmissions. 
 
-**What does W3 Data do with the information it collects?**
 
-If you gave us your e-mail address when you registered, we may use it to send you W3 Data newsletters, product updates, service-related information, and other offers and information from W3 Data or its business partners. If you gave us your telephone number, we may use your telephone number to contact you to discuss your use of the Services or other matters pertaining to the Services. W3 Data also may contact you by e-mail or telephone to respond to any customer service inquiries you submit. We do not disclose your e-mail address to business partners or to anyone other than employees and agents working for or on behalf of W3 Data, except as required by subpoenas, court orders, or legal requirements. We do not use your e-mail address to correlate your identity to your Internet usage paths. By using the Services you hereby give W3 Data permission to contact you via e-mail or telephone. If you do not want to receive W3 Data newsletters, offers, or product and service information, simply click the unsubscribe link at the bottom of the unwanted e-mail message or http://www.w3data.com/newsletter_unsubscribe_form.xhtml. If you do not want us to contact you via telephone, please inform us of this fact via e-mail at customer support. 
 
-We use cookies for such functions as verifying that you are a Services user and counting and tracking your Web site visits. We further use cookies to determine the number of visitors that use the Services or come to a web site offering the Services through a particular advertisement. Your cookie number is also used to create usage paths and to correlate those with any demographic information you provide, but we do not use your cookies or usage paths to attempt to determine your identity. 
+NOTE: This privacy policy applies only to the privacy of users of the WhitePages.com Network. By using the WhitePages.com Network you agree to the terms of this privacy policy. If you move from WhitePages.com Network Web sites to other company Web sites, you should check the privacy policies of such Web sites carefully as the terms by which the company manages your Personal Information obtained from such Web sites could differ from how the company manages your Personal Information obtained via the WhitePages.com Network. 
 
-We use IP addresses to diagnose problems with our servers and to administer our Web sites. Your IP address also is used by W3 Data to gather broad demographic information, such as your general geographic location and Internet Service Provider. IP addresses are further used to help determine the number of Service users. This demographic information may also be used by W3 Data to analyze aggregate Internet usage behavior. 
+  
 
-**How does W3 Data share the information it collects?**
 
-W3 Data does not intentionally disclose personally identifying information collected from any user to any third party without the user's consent. In no event will W3 Data use any personally identifiable information for direct marketing purposes. 
+* * *
 
-We provide "stripped" usage path information and demographic information to researchers. They use it to prepare analyses of aggregate Internet patterns and trends. Such analyses are used in research and commercial reports provided to third parties. We disclose any information we possess in response to subpoenas, court orders, or legal requirements, and such information might be used by the receiving party to determine your identity, your Internet usage, or other things about you. We generally do not inform users of such requests for information, although we might try to do so in some cases. 
+**Privacy Policy—Glossary of Terms**
 
-We employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to W3 Data's databases and servers, which may contain personally identifying information about users. They may not use such access or information for any purpose other than that for which they are retained. 
+"Contact Information" means information you have collected and saved using ContactsManager or MyInfo AddressBook. 
 
-In the event that W3 Data or substantially all of its assets are sold or acquired, all information collected by W3 Data would be transferred to the acquiring party. In any such transfer, however, such information would remain subject to any applicable terms and conditions, including the terms of this Privacy Policy and any amendment thereto. 
+"Contacts" means the individuals and/or entities existing within Contact Information. 
 
-**How we use financial information.**
+"Personally Identifiable Information" or "Personal Information" means your name, address, telephone number or other information which by its nature can identify you personally. Personally Identifiable Information does not mean the information found in our standard white page listing database which we make available to the general public. 
 
-For certain Services, you may provide W3 Data with certain financial information. We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information you provided during your registration, you consent to our providing your financial information to our service providers and to such third parties as we determine are necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support the transaction or activity. By using the Service you consent to our providing your financial information to those third parties. Any of these various third parties may be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that you submit to us. 
+"Registration Information" means your name, e-mail address, and password. 
 
-**How we use third party personal identifiable information.**
+"WhitePages.com" means the [www.whitepages.com](http://www.whitepages.com/) Web site or the business unit "WhitePages.com", a division of W3 Data, Inc., a Washington corporation. 
 
-For certain Services you may provide W3 Data with third party personal identifiable information. If you provide us third party personal identifiable information in connection with your use of the Services, we will only use such information to the extent it enables us to provide the Services to you. You consent to our providing the third party personal information to our service providers and to such vendors as we determine are necessary to support and process your activities and transactions. These service providers and vendors may include the data providers used to process and support the transaction or activity. By using the Services you consent to our providing the third party personal identifiable information to those vendors and service providers. Any of these various vendors and service providers may be authorized to use such third party personal information in accordance with our contractual arrangements with such vendors and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Additionally, you agree that we may use and disclose all such information so submitted to such vendors and service providers in the same manner in which we are entitled to use and disclose any other information that you submit to us (but in no event will W3 Data disclose any third party personal identifiable information to direct marketers). 
+"WhitePages.com Network" means [www.whitepages.com](http://www.whitepages.com/), [www.whitepages.ca](http://www.whitepages.ca/), [www.411.com](http://www.411.com/), [www.phonenumber.com](http://www.phonenumber.com/) and Web sites that incorporate the content of www.whitepages.com. 
 
-**How can I view or edit my account information?**
+"Your Information" means your Registration Information, Contacts and Contact Information. 
 
-You can view or edit your Service account information (if applicable) at any time. In order to view or edit your information, log in to your pertinent Service offering. Once logged in, follow the procedures delineating how you can revise your account information. 
+[Back to top] 
 
-**How is your information protected?**
-
-W3 Data uses commercially reasonable computer security safeguards to protect its databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data. These risks, however, cannot be completely eliminated and W3 Data therefore cannot guarantee complete security. 
+  
+  
+---  
+| 
