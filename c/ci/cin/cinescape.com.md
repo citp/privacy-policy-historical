@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinescape.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204194841id_/http%3A//cinescape.com/0/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinescape.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605181912id_/http%3A//www.cinescape.com/0/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cinescape - Home - Editorial
 
