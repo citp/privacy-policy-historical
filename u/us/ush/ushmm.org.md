@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216173400id_/http%3A//www.ushmm.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushmm.org privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404225422id_/http%3A//www.ushmm.org/privacy.htm) for the most accurate reproduction.*
 
 # USHMM Website Privacy Policy
 
@@ -30,7 +30,7 @@ We use this information to help us make our site more useful to visitors -- to l
 ####   
 If You Send Us Personal Information
 
-If you choose to provide us with personal information -- as in an e-mail to the web administrator or other member of the Museum's staff, or by filling out a form with personal information and submitting it to us through our website -- we use that information to respond to your message, to help us get you the information you have requested, or to provide you the requested service . We treat emails the same way we treat letters sent to the Museum. We do not create individual profiles with the information you provide or to give it to any private organizations. The Museum does not collect information for commercial marketing. 
+If you choose to provide us with personal information -- as in an e-mail to the web administrator or other member of the Museum's staff, or by filling out a form with personal information and submitting it to us through our website -- we use that information to respond to your message, to help us get you the information you have requested, or to provide you the requested service . We treat emails the same way we treat letters sent to the Museum. We do not create individual profiles with the information you provide or to give it to any private organizations. The Museum does not collect information for commercial or other marketing. 
 
 ####   
 Links to Other Sites 
