@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the un.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208093659id_/http%3A//www0.un.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the un.org privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605082513id_/http%3A//www.un.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
