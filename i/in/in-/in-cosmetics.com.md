@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the in-cosmetics.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034018id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the in-cosmetics.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606122558id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
 
-# In-cosmetics 2004 - Privacy Pledge
+# in-cosmetics 2005 - Privacy Pledge
 
 **Reed Exhibitions Ltd – Privacy Statement**
 
 **Introduction**
 
 Since 1995, Reed Exhibitions Ltd (RX) has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Ltd. Our corporate offices are located at Oriel House, 26 The Quadrant, Richmond, Surrey TW9 1DL, Great Britain. You can also reach us by telephone on (44) 208 910 7910.
+
+Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience. To be removed from our database please [click here](http://www.in-cosmetics.com/page.cfm/Action=RXDPAOptOut/ShowForm=Yes/t=m) to complete a form that will allow us to amend your record.
 
 **Customer Definition**
 
