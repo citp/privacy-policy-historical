@@ -1,79 +1,67 @@
-> *The following text is extracted and transformed from the fisherinvestments.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisherinvestments.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008134258id_/http%3A//www.fi.com/us/legal/privacy) for the most accurate reproduction.*
 
-# Fisher Investments Inc. Online Privacy Policy
+# Fisher Investments - Privacy Policy
 
-### Fisher Investments Inc. Online Privacy Policy
+### Privacy Policy
 
-This is the web site of Fisher Investments, Inc.
+##### _Our commitment to you: User data and contact information obtained by Fisher Investments will never be sold to any third party._
 
-Our postal address is  
-13100 Skyline Blvd  
-Woodside, CA 94062  
-We can be reached via e-mail at [privacy@fi.com](mailto:privacy@fi.com) or you can reach us by telephone at 650.851.3334 
+If you have any questions concerning Fisher Investment's Privacy Policy, please send us an email to [privacy@fi.com](mailto:privacy@fi.com) or give us a call toll-free at 1-800-851-8845. We'll be glad to help!
 
-Fisher Investments, Inc. [FI] is focused on providing all users with a satisfying experience while at FI.com. The following online privacy policy illustrates FI's commitment to developing an insightful online environment for high net worth investors. Please keep in mind that this policy encompasses privacy issues affecting U.S. and Canadian online marketing initiatives and the websites, [www.fi.com](http://www.fi.com/) and [www.fi-canada.com](http://www.fi-canada.com/). 
+##### Introduction
 
-#### Email
+Fisher Investments, Inc. provides investment management services to over 10,000 high net worth clients worldwide. As a world-class organization, we are committed to providing the highest quality of service to all of our customers. We also have a responsibility to our customers, the public, and our profession to deliver our services in a professional manner, with uncompromising values and standards. As such, the firm must and will in all respects comply with all relevant Federal and State laws, regulations and requirements.
 
-We collect the e-mail addresses of users who communicate with us via email or request information via our Web site. FI collects online data from current and prospective clients in order to provide them with information they have requested whether from FI or from one of FI's marketing partners.
+Fisher Investments is committed to providing you with a clear explanation of its Privacy Policy. This Privacy Policy covers privacy issues as they relate to US, Canada, and UK online marketing initiatives and www.fi.com, www.fi-canada.com, www.fisherinvestments.co.uk, pcg.fisherinvestments.com, www.fi-inst.com, and all respective subdirectories.
 
-In certain instances, we employ partner companies who may help us gain access to prospective clients by collecting email addresses. These addresses come from people who specifically request information on Fisher Investments Inc. via clearly labeled online advertising units. 
+##### Email
 
-#### Cookies
+Fisher Investments always likes to hear from our valued clients and prospective clients, and we collect the email addresses of users who communicate with us via email or request information via our website. Fisher Investments collects online data from current and prospective clients so that we can provide them with the information they've requested, whether from Fisher Investments or from one of our marketing partners.
 
-Cookie data is used to record aggregate information on what pages users access or visit. FI uses this data to streamline the Web site so users can find the information they are looking for more easily. None of this information that is collected is personally identifiable. 
+In certain instances, Fisher Investments uses the services of partner companies who may help us reach prospective clients by collecting email addresses. Please note that these addresses come from people who _specifically request information on Fisher Investments via clearly labeled online advertising_.
 
-#### Removal from FI Database
+Fisher Investments also collects online data from prospective employees via our website. You can be assured that resumes and personal information submitted to us will be held confidential and will not be shared with any third parties.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us e-mail at [privacy@fi.com](mailto:privacy@fi.com) or by writing to us at the address listed above. Please provide us with your exact name and address.
+##### Cookies
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address or writing to us at the above address. 
+Cookie data is used to record aggregate information on which pages web visitors access. Fisher Investments uses this data to streamline the website so visitors can find the information they are looking for more easily.
 
-#### Online Advertising
+##### Removal from the Fisher Investments Database
 
-To try and bring you offers that are of interest to you, we have relationships with companies that place ads on other sites' Web pages. In addition, these companies may track advertising placed within certain email newsletters. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. This information is not individually identifiable. For further information, consult the privacy policies of Worldata at: [ http://www.worldata.com/wdnet3/Main/Privacy.html](http://www.worldata.com/wdnet3/Main/Privacy.html)
+If contact information is willingly provided to Fisher Investments by mail, phone, email, online, or otherwise, in response to our marketing activities, individuals may receive subsequent periodic information from Fisher Investments on new products and services or upcoming events. If individuals don't wish to receive such information, please let Fisher Investments know by sending an email to [privacy@fi.com](mailto:privacy@fi.com). Please provide Fisher Investments with the exact name and address as it was originally provided. We will be happy to remove your name from our database and will do everything possible to honor your request for removal.
 
-#### Partners
+##### Online Advertising
 
-Certain partner organizations review aggregate cookie and email data in order to help us get a better understanding of the users who visit our site. These companies do not have access to individual user information. The cumulative data they maintain for FI is expressly not shared with other organizations for commercial purposes. 
+To best serve users with offers that are of relevance, Fisher Investments has formed relationships with companies that place ads on third party publishers' websites. In addition, these companies may track advertising that are placed within certain email newsletters. As a result of users visiting its website, ad server companies may collect information about users such as domain type, IP address, and clickstream data. _Please note that this information is not individually identifiable_.
 
-#### Miscellaneous
+##### Partners
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+Certain partner organizations review aggregate cookie and email data in order to help Fisher Investments get a better understanding of the users visiting its website. _These companies do NOT have access to individual user information_. The cumulative data they maintain for Fisher Investments is expressly NOT SHARED with other organizations for commercial purposes. User data and contact information obtained by Fisher Investments will never be sold to any third party.
 
-Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. You can access this information by sending us e-mail at [privacy@fi.com](mailto:privacy@fi.com) or by writing to us at the address listed above.
+##### Miscellaneous
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by sending us e-mail at the above address or writing to us at the above address. 
+From time to time, Fisher Investments may use data for new, unanticipated uses not previously disclosed in our privacy notice. If its information practices change at some time in the future Fisher Investments will post the policy changes to its website to notify users of these changes and provide the ability to "opt-out" or unsubscribe from these new uses. If users are concerned about how information is used, they should check back to Fisher Investments' website periodically.
 
-#### Security
+Upon request, Fisher Investments will provide site visitors with access to respective contact information (e.g., name, address, phone number) that is maintained about them. To access this information, please email [privacy@fi.com](mailto:privacy@fi.com).
 
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Upon request, Fisher Investments will also offer visitors the ability to have inaccuracies corrected in the database. Users can have this information corrected by sending email to [privacy@fi.com](mailto:privacy@fi.com).
 
-If you feel that this site is not following its stated information policy, you may contact us via e-mail at [privacy@fi.com](mailto:privacy@fi.com) or by writing to us at the address listed above. 
+##### Security
 
-#### General Privacy Notice for Fisher Investments Inc. Clients
+Fisher Investments has appropriate security measures in place at its physical facilities to protect against the loss, misuse or alteration of private information collected from users. If users feel that this website is not following its stated privacy policy, they are encouraged to contact Fisher Investments at [privacy@fi.com ](mailto:privacy@fi.com). 
 
-Fisher Investments, Inc. collects nonpublic information about you from the following sources:
+##### General Privacy Notice for Fisher Investments' Clients
 
-  * Information we receive about you on applications or other forms;
-  * Information you give us orally; and
-  * Information about your transactions with us or with others.
+Fisher Investments collects nonpublic information about users from the following sources:
 
+  * Information received on applications or other forms;
+  * Information provided orally
+  * Information about transactions or online behavior with Fisher Investments or other publishers 
 
 
-We do not disclose any nonpublic personal information about our customers or former customers without the customer's authorization, except as permitted by law or in response to inquires from governmental authorities. We restrict access to your personal and account information to those personnel who need to know that information to provide products and services to you. We also may disclose that information to unaffiliated third parties (such as to brokers or custodians) only as permitted by law and only as needed for us to provide agreed services to you. We maintain physical, electronic and procedural safeguards to guard your nonpublic personal information. 
 
-  
-  
-[Welcome](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/index.html) | [Profile](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/about.html)[](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/philosophy.html) | [Private Client](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/private.html) | [Institutional](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/inst.html) | [Philosophy](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/philosophy.html)   
-[Publications](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/pub.html) | [Employment](http://recruit.fi.com/candidates/jobopportunities.cfm) | [Contact Us](https://ad.doubleclick.net/clk;4738068;7598877;m?https://pcg.fisherinvestments.com/0602cap/usletter.asp?KC=%epid!_%erid!_%eaid!_01) | Top of Page
+Fisher Investments does not disclose any nonpublic personal information about its clients or non-clients without explicit authorization from the respective party, except as permitted by law or in response to inquires from governmental authorities.
 
-**Fisher Investments, Inc.**  
-13100 Skyline Blvd., Woodside CA 94062  
-**Phone:** 800-851-8845    **Fax:** 650-851-3514  
-**E-mail:** [info@fi.com](mailto:%20info@fi.com)
+Fisher Investments restricts access to personal and account information to those personnel who need to know that information to conduct business. Fisher Investments may also disclose that information to unaffiliated third parties (such as to brokers or custodians) only as permitted by law and only as needed for Fisher Investments to provide agreed services to clients. Fisher Investments maintains physical, electronic and procedural safeguards to guard nonpublic personal information.
 
-Copyright 2002 Fisher Investments, Inc. All rights reserved. [Privacy Policy](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/privacy.shtml)
-
-  
-
+[Back to top of page](http://www.fi.com/us/legal/privacy/#top)
