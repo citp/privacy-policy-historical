@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802153334id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622035517id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com: O'Reilly & Associates, Inc. Privacy Policy [Feb. 06, 2001]
 
@@ -14,17 +14,24 @@
 [Schemas](https://web.archive.org/schemas)  
 [Style](https://web.archive.org/style)  
 [Web](https://web.archive.org/web/)  
-[Web Services](https://web.archive.org/webservices)  
+[Web Services](http://webservices.xml.com/)  
   
-[](http://www.xml.com/pub/a/survey/2002_08.html)     
+
+
+    
 [Annotated XML](https://web.archive.org/pub/a/axml/axmlintro.html)  
 [What is XML?](https://web.archive.org/pub/a/98/10/guide0.html)  
 [What is XSLT?](https://web.archive.org/pub/a/2000/08/holman/index.html)  
 [What is XSL-FO?](https://web.archive.org/pub/a/2002/03/20/xsl-fo.html)  
 [What is XLink?](https://web.archive.org/pub/a/2000/09/xlink/index.html)  
 [What is XML Schema?](https://web.archive.org/pub/a/2000/11/29/schemas/part1.html)  
+[What is XQuery?](https://web.archive.org/pub/a/2002/10/16/xquery.html)  
 [What is RDF?](https://web.archive.org/pub/a/2001/01/24/rdf.html)  
-[What are Web Services?](https://web.archive.org/pub/a/2001/04/04/webservices/index.html)
+[What is RSS?](https://web.archive.org/pub/a/2002/12/18/dive-into-xml.html)  
+[What are Topic Maps?](https://web.archive.org/pub/a/2002/09/11/topicmaps.html)  
+[What are Web Services?](http://webservices.xml.com/pub/a/ws/2001/04/04/webservices/index.html)  
+[What are XForms?](https://web.archive.org/pub/a/2001/09/05/xforms.html)  
+[XSLT Recipe of the Day](http://www.xml.com/cookbooks/xsltckbk/solution.csp?day=1)
 
 [Manage Your Account](http://www.xml.com/cs/user/login)  
 [Forgot Your Password?](http://www.xml.com/cs/user/lostpw)
@@ -37,22 +44,23 @@
 [XML Q&A](https://web.archive.org/pub/q/xmlqanda)  
 [Transforming XML](https://web.archive.org/pub/q/transformingxml)  
 [Perl and XML](https://web.archive.org/pub/q/perlxml)  
-[XML Endpoints](https://web.archive.org/pub/q/endpoints)   
-[<taglines>](https://web.archive.org/pub/q/taglines)   
-[Sacré SVG](https://web.archive.org/pub/q/sacresvg)    
+[Rich Salz](http://webservices.xml.com/pub/q/salz)   
+[Jon Udell](http://webservices.xml.com/pub/q/udell)   
+[</taglines>](https://web.archive.org/pub/q/taglines)   
+[Sacré SVG](https://web.archive.org/pub/q/sacresvg)   
+[Python and XML](https://web.archive.org/pub/q/pyxml)  
+[Dive Into XML](https://web.archive.org/pub/q/divexml)    
 [XML Resources](https://web.archive.org/resourceguide/)  
 [Buyer's Guide](https://web.archive.org/buyersguide/)  
 [Events Calendar](https://web.archive.org/events)  
 [Standards List](https://web.archive.org/pub/q/stdlist)  
 [Submissions List](https://web.archive.org/pub/q/submlist)
 
+Traveling to a Tech Show?  
+
+
   
-| 
-
-[](https://web.archive.org/lpt/a/admin/policy.html)  
-
-
-February 06, 2001  
+|  February 06, 2001  
 
 
 ### Purpose and Scope
@@ -111,6 +119,7 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 **Snailmail** : To change your address or delete your name from our mailing list for paper catalogs, brochures, or advertisements, send email to catalog@oreilly.com or call 800-998-9938 or 707-829-0515.
 
   
-|  |    
+|  |  Sponsored By:   
+  
   
 
