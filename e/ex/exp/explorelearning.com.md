@@ -1,50 +1,104 @@
-> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605105912id_/http%3A//explorelearning.com/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorelearning.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603014658id_/http%3A//explorelearning.com/index.cfm%3Fmethod%3DController.dspPrivacy) for the most accurate reproduction.*
 
-# ExploreLearning Privacy Statement
+# ExploreLearning.com
 
-_  1. Introduction_   
-_  2. What information do we compile?_   
-_  3. How do we use the data about our members and visitors internally?_   
-_  4. Do we allow an opt-out from the collection of data on an individual?_   
-_  5. What is our policy on removing information about a person?_   
+This privacy policy covers the site http://www.explorelearning.com. Because we want to demonstrate our commitment to our users’ privacy, we disclose the following information. 
+
+  1. What personally identifiable information ExploreLearning collects. 
+  2. What personally identifiable information third parties collect through the Web site. 
+  3. What organization collects the information. 
+  4. How ExploreLearning uses the information. 
+  5. With whom ExploreLearning may share user information. 
+  6. What choices are available to users regarding collection, use and distribution of the information. 
+  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under ExploreLearning control. 
+  8. How users can correct any inaccuracies in the information. 
 
 
-## _1\. Introduction_
 
-ExploreLearning provides interactive services on the Internet to enable members to express themselves and share their ideas and interests by creating and participating in a virtual community focused on education. To promote trust and confidence in the Internet and in ExploreLearning, we are providing a full disclosure of our privacy practices and information uses. 
+## Information Collection and Use 
 
-One of our goals is to respect the privacy rights of anyone who joins ExploreLearning or visits an ExploreLearning site. Except as set forth within this privacy statement and within the scope of our member and site agreements, we do not release personally identifiable information about our individual members and visitors without their permission. We do collect information from our members and visitors. The following is a statement of how we use that information, as well as a statement about how, and if, we disseminate the information. 
+ExploreLearning is the sole owner of the infomation collected on our web site. ExploreLearning collects information at several different points on our Web site. 
 
-If you feel that ExploreLearning has violated this statement on privacy in any way, please contact us at [support@explorelearning.com](mailto:support@explorelearning.com), so that we may address this issue. Please note that the information provided in this statement relates only to ExploreLearning's policies and practices. ExploreLearning is not responsible for the content or the privacy policies of websites to which it may link. ExploreLearning also reserves the right to modify this statement policy, although we will not do so without notifying our current ExploreLearning members. 
+We generally use the aggregate data we collect to evaluate the extent to which the ExploreLearning websites continue to be useful and relevant to our members and the general public. For example, we may perform statistical analyses of the collective characteristics and behavior of our members and visitors, to measure overall user demographics and interests regarding specific areas of the ExploreLearning domain and to analyze how and where to use our resources. A user must provide the clickstream information (internet protocol address, internet service provider, platform type, date/time stamp, operating system), http protocol information (last uri requested and browser type), interaction information (browser interaction such as when the mouse moves over an image), navigation and click-stream data (passive activity such as pages visited), unique identifiers (login id or other id), interactive data (account activity and searches performed), navigation and click-stream data (passive activity such as pages visited), online contact information (email address), unique identifiers (login id or other id), search terms (search text), transaction information (account transactions), user's name, user's login information, user's employer, organization department user is employed, user's job title, business/organization name and department/division of business/organization. It is optional for the user to provide User's Name, User's Login Information, User's Employer, Organization Department User is Employed, User's Job Title, Business/Organization Name and Department/Division of Business/Organization. We encourage users to provide optional information so we can provide a more personalized experience on our site. The reason we use this information is to complete the current transaction, contact by email or regular mail, enhance our site and product offerings, maintain and secure our site and understand (in aggregate) interests of website visitors. We retain this information as stated by our business practices. When users have data collected for the purpose of contacting by email or regular mail, they are given the opportunity to opt-out of information collected (Please see our Choice and Opt-out section). 
 
-##   _2\. What Information Do We Compile?_
+### Cookies
 
-For everyone who visits the ExploreLearning sites, we log IP addresses, the type of operating system that the visitor's computer uses, and the type of browser software used by the visitor. From the IP address, we can determine the internet service provider and the geographic location of the visitor's point of connectivity. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. You can set your browser to notify you to either accept or deny the cookie according to the following information. 
 
-If a visitor (such as a student) wants to use ExploreLearning sites in a generic way (i.e. reading, but no contribution of content), they are not required to register. However, if a visitor wants to take advantage of the member services offered at ExploreLearning sites (i.e. course page creation, posting in discussion forums, etc.), we require that the visitor become a registered member by providing us with their name, login name, password, zip code, and valid e-mail address. Members can also supply additional optional information about themselves such as location, course level, etc. 
+  * IE6, see [Microsoft's Internet Explorer Web Privacy](http://www.microsoft.com/windows/ie/evaluation/overview/privacy.asp) page. 
+  * Netscape 6, see [Netscape 6 - Safety with More Control](http://home.netscape.com/browsers/6/safety.html) . 
+  * Opera 5 or 6, see [Opera Preferences: Privacy](http://www.opera.com/support/resources/privacy.html). 
 
-ExploreLearning currently uses cookies to save, facilitate, and maintain a member's login session, and to track site usage. A "cookie" is a file transferred from a website to the hard drive of your computer so that the website may track your activities on the website. A cookie will not let a website know any personally identifying information about you, such as your real name, address, etc., unless you previously provided that information at the website or have set your preferences in your browser to provide that information. ExploreLearning is not generally interested in any one individual and does not collect personally identifiable information about any persons using cookies. 
 
-We save all course content (e.g. activity guides, resources) created by members for an indeterminate amount of time, but this content can be amended, made private, or deleted by its author at any time. (In this case, "private" means that only the member who created the content can access it.) ExploreLearning may also choose to highlight some of the content on its website, e.g., what it may consider as the "best content" from time to time. 
 
-ExploreLearning will generally adopt this policy toward any type of member-contributed content in the future, such as an activity guide, lesson, links, or any other educational content, subject to the terms and conditions of the member agreement of [ExploreMath.com](http://www.exploremath.com/about/privacy.cfm) or [ExploreScience.com](http://www.explorescience.com/about/privacy.cfm), as appropriate. In these cases, contributed content will be attributed to the members that created or supplied the information, and in most cases, these members will have the means to either modify this content or change its accessibility on the site. 
+Our website uses cookies to enhance our site. 
 
-However, ExploreLearning does not and cannot otherwise control the acts of its members and visitors. All members and visitors should be aware that, when they disclose personal information such as their actual name, login name, e-mail address, etc., the information may be collected and used by others to send that person unsolicited e-mail from other parties, and such acts necessarily lie outside ExploreLearning's control. 
+## Profiles 
 
-In general, ExploreLearning does not seek to edit, moderate or remove any member-contributed content, but reserves the right to do so in its sole discretion, such as, for example, where it considers the material to be inappropriate. The terms and conditions governing the use of and contributions to this website, which members agree to abide by when they register with us, can be found [here](https://web.archive.org/web/20030605105912id_/http%3A//explorelearning.com/policy/legal.html "Read the terms and conditions in the member agreement."). 
+ExploreLearning does not create a user profile. 
 
-## _3\. How do we internally use the data about our members and visitors?_
+## Communications from the Site
 
-We generally use the aggregate data we collect to evaluate the extent to which the ExploreLearning websites continue to be useful and relevant to our members and the general public. For example, we may perform statistical analyses of the collective characteristics and behavior of our members and visitors, to measure overall user demographics and interests regarding specific areas of the ExploreLearning domain and to analyze how and where to use our resources. We may also use the aggregate data to inform any sponsors and/or advertisers as to the profile and number of people who have seen and clicked on their advertisement. No personally identifiable information will be disclosed to any sponsor or advertiser as part of this process; only information in an aggregate form may be used. Without the data collected, we would not know what the most popular sections of ExploreLearning are, we would not be able to provide an effective forum for sponsors to advertise in, and we would be unable to measure the effectiveness of any possible promotions. 
+When customers provide us contact information for User Group 1 (users can opt-out by following the directions in our 'Choice' section) we use the information to contact the user to deliver sales and product information that will be useful to the them. 
 
-In addition, ExploreLearning does not share any personally identifiable information with outside parties for commercial purposes, unless stated at the time of collection. At the time of collection, the option is given to disallow ExploreLearning to share such information with outside parties. If members or visitors opt for such an option, we will not share such information with outside parties; however, we do reserve the right to release that information concerning a member when the member partakes in an illegal activity, or for a member who we believe is in violation of our content guidelines, even without a subpoena, warrant, or other court order. ExploreLearning hopes that all members, visitors and third parties adhere to our policies regarding the privacy of our members; however, ExploreLearning does not assume any responsibility for any actions of third parties. 
+## Sharing Information 
 
-## _4\. Do we allow an opt-out from the collection of data on an individual?_
+### Legal Disclaimer 
 
-During the registration process for ExploreLearning membership, we do require that individuals supply personal information. The fields that we require to be completed include login name, first name, last name, password, e-mail address, and zip code. We also ask if that individual would like to periodically receive promotional e-mail about products or services offered by ExploreLearning or its partners. 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
-If at any time a member would like to receive or defer these mailings, the member profile should be changed to indicate his or her new preference using the _My Profile_ page from their membership _Start Page_. 
+### Personally Identifiable Information 
 
-##   _5\. What is our policy on removing information about a person?_
+Personally identifiable information is not shared with any third parties. 
 
-We keep all general information (including postings and member-contributed material, as described above) for an indeterminate amount of time. All personal information of our members may be changed at any time by using the profile page. If a member ceases to use ExploreLearning, there may be residual information which will remain within the ExploreLearning database and records. This residual information will not be used for commercial purposes, except as part of any aggregate data about our membership as a whole. This information also ensures that such member will continue to receive credit for any content they may have contributed while they were active. From time to time, we may contact non-active members. 
+### Aggregate Information (non-personally identifiable) 
+
+Aggregate information is not shared with any third parties. 
+
+## Choice/Opt-out 
+
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. 
+
+When our web site originates email, users can opt-out of these communications by replying to unsubscribe in the subject line in the email or by emailing us at [info@explorelearning.com](mailto:info@explorelearning.com). 
+
+## Data Security 
+
+ExploreLearning has physical security in our facilities to protect against the loss, misuse, or alteration of information. Our company uses secure encryption technology (secure socket connection) for all sensitive financial or health data transmitted on our site. 
+
+## Visitors Under 13 Years of Age 
+
+ExploreLearning collects personally identifiable information online from a child under 13 without any parental consent. 
+
+## Correcting/Updating/Deleting/Deactivating Personal Information 
+
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address) they can change all information. If a user wishes to correct/update information or no longer desires our service, they can notify us of what they desire by contacting us using any of the information in the Contact section of this policy. 
+
+## Links and Advertisements 
+
+Our website contains links to other sites. We do not partner with or have special relationships with any ad server companies. We, ExploreLearning, are not responsible for the privacy practices or the content of any other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+## Changes to the Privacy Statement 
+
+The information you submit to us is controlled by the privacy policy in effect at the time you submit it. If we significantly change our policy, we will post a notice in a conspicuous place on our website notifying visitors of policy changes. 
+
+## Data Retention Statement
+
+Stated Business Practices Data retention - We keep information about you and your purchases for as long as you remain our customer. 
+
+## Contact Information 
+
+Using the following information, you can contact us if you have questions about our privacy policy.   
+
+
+ExploreLearning   
+P.O. Box 2185   
+Charlottesville, VA 22902   
+USA 
+
+E-mail: [info@explorelearning.com](mailto:info@explorelearning.com)
+
+Phone: 434-293-7043 
+
+## Resolving Privacy Policy Disputes
+
+If you think we have not followed our privacy policy in some way, please contact us at [support@explorelearning](mailto:support@explorelearning "We will attempt to resolve the dispute.") for resolution. 
