@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectdisk.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605111711id_/http%3A//www.raxco.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectdisk.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207101319id_/http%3A//www.perfectdisk.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # Raxco - Privacy Statement
 
