@@ -1,32 +1,29 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209154520id_/http%3A//www.alternet.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625000817id_/http%3A//alternet.org/privacy.html) for the most accurate reproduction.*
 
 # AlterNet: Privacy Policy
 
-| 
+|  [](http://service.bfast.com/bfast/click?bfmid=10828116&siteid=32317986&bfpage=londistance1)
 
 Content Files
 
 **[War on Iraq](https://web.archive.org/waroniraq/)**  
 Coverage of America's war with Iraq.
 
+**[Rights& Liberties](https://web.archive.org/rights/)**  
+Human rights and civil liberties.
+
 **[EnviroHealth](https://web.archive.org/envirohealth/)**  
 From climate change to medical news.
 
-**[Rights& Liberties](https://web.archive.org/rights/)**  
-Human rights and civil liberties.
+**[MediaCulture](https://web.archive.org/mediaculture/)**  
+The culture and politics of media.
 
 **[DrugReporter](https://web.archive.org/drugreporter/)**  
 News from the front lines of the drug war.
 
-**[MediaCulture](https://web.archive.org/mediaculture/)**  
-The Culture and Politics of Media.
-
 Feedback
 
 [Tell us](https://web.archive.org/feedback.html) how we're doing.
-
-[](http://service.bfast.com/bfast/click?bfmid=10828116&siteid=32317986&bfpage=londistance1)  
-
 
  Discussion
 
@@ -52,7 +49,7 @@ For more on cookies, please [click here](http://help.netscape.com/kb/consumer/19
 
 **Weekly Headlines and "Send a Friend" Feature**
 
-After signing up online, users will receive weekly headlines and other occasional announcements from AlterNet.org. In order to distribute our weekly headlines, we collect subscribers' email addresses. We do not share addresses with other companies or partners. Users can choose to [unsubscribe](https://web.archive.org/signup.html) from AlterNet.org headlines at any time.
+After signing up online, users will receive weekly headlines and other occasional announcements from AlterNet.org. In order to distribute our weekly headlines, we collect subscribers' email addresses. We do not share addresses with other companies or partners. Users can choose to [unsubscribe](http://email.alternet.org/?p=unsubscribe) from AlterNet.org headlines at any time.
 
 AlterNet.org offers a "send this story to a friend" feature, which allows our users to inform others about an article they might be interested in. For this feature to function, we ask for email addresses from the sender and for the recipient. We do not store or save these addresses and you will not receive any communication from AlterNet.org or its partners as a result of having used this feature.
 
@@ -103,8 +100,8 @@ AlterNet.org reserves the right to amend this Privacy Statement at any time with
 
 |  |  |  | 
 
-Donate
+Support AlterNet
 
-America needs independent media now more than ever. Please help support AlterNet's continuing coverage of current events, civil rights and liberties and more with your [tax-deductible donation](https://web.archive.org/donate).
+Do you value the information you're getting from AlterNet? Please show your support with a **[tax-deductible donation](https://web.archive.org/donate/)**.
 
 | 
