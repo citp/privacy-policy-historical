@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203065754id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611180952id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
 1001fonts.com is commited to protecting the privacy of Internet users and does not collect any personally identifiable information from its website visitors such as name, address, phone number, or e-mail address. However, 1001fonts.com does obtain some types of non-personally identifiable information such as your browser type, or the system platform of your computer (Macintosh or Windows, for example). The information collected by 1001fonts.com is used for statistical purposes.
 
-The email addresses collected from members of 1001fonts.com are not given away to anyone under any circumstances.
+The email addresses collected from members of 1001fonts.com are not given away to anyone under any circumstances. Email addresses of members are published within a public accessible members' profile page, which is linked to from all messageboard posts, newsboard posts, and fonts posted by the that member. The published email addresses are posted in a format not readable by spambots.
 
 1001fonts.com uses cookies to enable user sessions for logged in members. The cookies do not track member activity in any way, they are purely used for identification purposes.
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
 
-We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.maxonline.com/privacy_policy/index.php).
 
 If you have any additional questions about 1001fonts.com's dedication to consumer privacy, please contact us at [privacy@1001fonts.com](mailto:privacy@1001fonts.com).
 
@@ -85,18 +85,17 @@ If you have any additional questions about 1001fonts.com's dedication to consume
    
 [Ink4art.com](http://www.qksrv.net/click-797593-8791513)  
 [4inkjets.com](http://www.qksrv.net/click-797593-9224636)  
-[Inkjets.com](http://www.qksrv.net/click-797593-7050732)  
-[Mrinkman.com](http://www.qksrv.net/click-797593-804984) [123Inkjets.com](http://www.qksrv.net/click-797593-512018)
+[Inkjets.com](http://www.qksrv.net/click-797593-7050732)
 
 [**Pay Fonts**](https://web.archive.org/font_paylinks.html)  
    
-[FontFinder.ws](http://www.fontfinder.ws/)  
+[MyFonts.com](http://www.myfonts.com/?refby=bloch)  
 [Fonts.com](http://www.qksrv.net/click-797593-5765012)  
 [ITCFonts.com](http://www.qksrv.net/click-797593-5529320)
 
 **Free Fonts**  
    
-[FontFinder.ws](http://www.fontfinder.ws/)  
+[PCfonts.com](http://www.pcfonts.com/in.php?id=giotto)  
 [TopFreeFonts.com](http://www.topfreefonts.com/cgi-bin/autorank/rankem.cgi?id=1001font)  
 [AbstractFonts.com](http://www.abstractfonts.com/fonts/partners/in.htm?id=1001fonts)  
 [Best100Free.com](http://www.best100free.com/in.asp?id=1001fonts)  
