@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the casinocitytimes.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607032544id_/http%3A//casinocitypress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinocitytimes.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209045457id_/http%3A//www.casinocitypress.com/privacy) for the most accurate reproduction.*
 
 # None
 
 Casino City takes your privacy seriously. Please read the following to learn more about our privacy policy.   
-NOTICE: Click [here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for important information about safe surfing from the Federal Trade Commission.   
+NOTICE: Click [here](http://www.ftc.gov/infosecurity/) for important information about safe surfing from the Federal Trade Commission.   
 
 
   * This policy covers how Casino City treats personal information that Casino City collects and receives, including information related to your past use of Casino City products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.  
