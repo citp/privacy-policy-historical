@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603174746id_/http%3A//fast411.com/%26aft/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204192135id_/http%3A//fast411.com/%26aft/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information
 
-_****_
-
+|  [Directory](http://64.81.35.231/) |  |  [Marketplace](https://web.archive.org/web/20031204192135id_/http%3A//fast411.com/marketplace/index.htm) |  |  [Coupon](http://www.adsavers.net/2267) |  |  **Privacy** |  |  [Travel](http://64.81.35.231/&osl/travel.htm) |   
+---|---|---|---|---|---|---|---|---|---|---  
+  
 ## Privacy Statement for Fast411.com
 
 _Fast_ 411 Internet Directories has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: _Fast_ 411.com. 
@@ -30,7 +31,8 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can send email to [system@fast411.com](mailto:system@fast411.com)
+  1. You can send email to [ ads@fast411.com](mailto:system@fast411.com)
+
 
 
 
@@ -38,11 +40,17 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [system@fast411.com](mailto:system@fast411.com)
+  1. email [ads@fast411.com](mailto:system@fast411.com)
+
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:    
-Brian C. Bergström  Fast411 Internet Services 5300 Beach Boulevard Suite 269 Buena Park, CA 90621 [brian@fast411.com](mailto:brian@fast411.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+
+  
+Brian C. Bergström  Fast411 Internet Services 5300 Beach Boulevard Suite 269 Buena Park, CA 90621 [brian@fast411.com](mailto:brian@fast411.com)  
+
+Currently Serving: 4,215,585 web pages. Updated: Thursday, 20 November 2003 08:11  
+All Local Content and Graphics Copyright © **1995-2003** _Fast_ 411 Internet Directory All Rights Reserved
