@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2003-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031011103646id_/http%3A//qspace.iplace.com/cobrands/289/privacy_cic.asp%3Fsc%3D11000000%26af%3D%26br%3D%26cl%3D0114) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecreditreport.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604005319id_/http%3A//qspace.iplace.com/cobrands/526/privacy_cic.asp%3Floc%3D526) for the most accurate reproduction.*
 
 # Free Online Credit Report - credit check monitoring, credit rating, credit scores
 
