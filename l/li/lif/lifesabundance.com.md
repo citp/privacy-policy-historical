@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesabundance.com privacy policy that was archived on 2004-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041225125003id_/http%3A//www.healthypetnet.com/common/privacy.asp%3Frealname%3D10022895) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesabundance.com privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315233609id_/http%3A//www.healthypetnet.com/common/privacy.asp%3Frealname%3D10022895) for the most accurate reproduction.*
 
 # Privacy Statement for www.healthypetnet.com
 
