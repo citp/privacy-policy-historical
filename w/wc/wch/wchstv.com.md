@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624144232id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020744id_/http%3A//wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
@@ -9,11 +9,35 @@
 | [**JOBS @ TV8 & FOX11**](https://web.archive.org/jobs.shtml)  
 | [**GUESTBOOK**](https://web.archive.org/register.shtml)  
 | [**SEARCH**](https://web.archive.org/8search.shtml)  
+| [**DIGITAL TV INFORMATION**](https://web.archive.org/aboutdtv.shtml)  
 | [**SATELLITE INFORMATION**](https://web.archive.org/aboutsatellite.shtml)  
 | [**THE TV MARKET**](https://web.archive.org/market.shtml)  
 | [**ONLINE ADVERTISING**](https://web.archive.org/ads/)  
 | [**COMMUNITY SURVEY**](https://web.archive.org/ca/communitysurvey.shtml)  
 | [**SCHOOL CLOSINGS**](https://web.archive.org/newsroom/schoolclosing.shtml)  
+  
+[](https://web.archive.org/newsroom/wvwildlife/)  
+  
+**Respond to Editorial**  
+[](http://www.newscentral.tv/thepoint/thepoint.shtml)  
+  
+**Powerball-Mega Millions  
+Hot Lotto-Lotto South  
+WV - KY - OH  
+[](https://web.archive.org/newsroom/lottery.shtml)  
+EYEWITNESS NEWS  
+WINNING NUMBERS**  
+  
+[](https://web.archive.org/newsroom/healthyforlife/)  
+  
+[](https://web.archive.org/aboutdtv.shtml)  
+  
+[](https://web.archive.org/newsroom/wx/tcamlive.shtml)  
+**W E B C A M S**  
+  
+[](https://web.archive.org/homelawn/)  
+
+
 |  |    
 **Privacy Statement for www.wchstv.com**
 
@@ -73,14 +97,3 @@ If you have any questions about this privacy statement, the practices of this si
     Charleston, WV 25338
 
     [webmaster@wchstv.com](mailto:webmaster@wchstv.com) |  |  |  | 
-
-[](http://www.supportournation.com/)  
-  
-[](https://web.archive.org/synd_prog/weakestlink/)  
-  
-EYEWITNESS NEWS IS AFFILIATED WITH  
-[](http://cnn.com/LOCAL/regions/southeast/WCHS-TV/)  
-  
-Also Visit:  
-[](http://www.wvah.com/)  
-
