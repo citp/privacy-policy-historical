@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520040233id_/http%3A//www.oldhouseweb.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604015806id_/http%3A//www.oldhouseweb.net/stories/Detailed/997.shtml) for the most accurate reproduction.*
 
-# Privacy Statement
+# Our privacy policy We strive to protect your personal privacy. Here are the policies we follow.
 
-[Home](https://web.archive.org/default.asp) -> Privacy Statement
-
-THE OLD HOUSE WEB'S  
-PRIVACY STATEMENT
+| 
 
 It is crucial to us at The Old House Web that your personal privacy remains protected. This statement summarizes our policy on privacy.
 
@@ -18,6 +15,16 @@ It is crucial to us at The Old House Web that your personal privacy remains prot
 
 While the above statements and policies do not create any contractual or other legal rights in or on behalf of any party, the staff at The Old House Web wishes to reiterate our opening statement: Your right to personal privacy is crucial to us. We will endeavor to respect it. 
 
-If you have any questions concerning our Privacy Policy, please feel free to contact us by writing to [webmaster@mail.oldhouseweb.com](mailto:webmaster@mail.oldhouseweb.com)
+If you have any questions concerning our Privacy Policy, please feel free to contact us by writing to [webmaster@oldhouseweb.com](mailto:webmaster@oldhouseweb.com)
 
-**_This File Updated: Jan. 31, 2000_**
+**_This File Updated: May 28, 2000_**
+
+  
+|  **Sponsored Links:**  
+---  
+  
+* * *  
+  
+* * *  
+  
+| 
