@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207091402id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605130034id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy For Internet Business Consultants For 3rd Millennium
 
-  
-with respect to information gathered on their web pages. Such information is received by the above and the Partners. 
-
   The terms "we" and "us" refer to the above.
 
-  **The Information We Collect**
+ You may freely browse our site without giving out any private information. However, if you decide to sign up for our Ezine, refer our site to your friends or require updates or additional information etc you are asked for some of your personally identifiable information. Please read below which information we may need to render you the service you want: 
 
-  This notice applies to all information collected on the above websites, or submitted to the above and Partners at any time through any Service Pages. Personally Identifiable Information— may include your name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history and other information. We collect **prospect information** , which may include name and contact information of individual(s) you think would be interested in our services. For **Partners** , the information we collect may include your name and contact information, your site's category, your website information (URL, visitors per day, page views per month, services offered), payment information (check payee, SSN/Tax ID, bank information), and user-comments.
+**The Information We Collect**
+
+  This notice applies to all information collected on the above websites, or submitted to the above at any time through any Service Pages. Personally Identifiable Information— may include your name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history and other information. We collect **prospect information** , which may include name and contact information of individual(s) you think would be interested in our services. For **Partners** , the information we collect may include your name and contact information, your site's category, your website information (URL, visitors per day, page views per month, services offered), payment information (check payee, SSN/Tax ID, bank information), and user-comments.
 
   Aggregate Information—We collect non-identifying and aggregate information to better design our website and services, and share the aggregate data with advertisers and other third parties.
 
   Each of the Partners has access to information specific to their site only. Each Partner will determine what it will do with the collected information; however, each Partner has individually agreed to abide by this Privacy Policy, Partner Agreement, and End-User Agreement.
 
-  **Collection of Personal Information from Children under Thirteen**
+  Note: the above mentioned information necessary for your Partners means our Partners, ie ClickBank, e-Bullion, Stormpay, whom we use as secure merchants and banking Partners in case you buy an item from us. Their connection and billing procedure is 100% secure, and you don't need to be afraid of any disclosure. These Partners do NOT store the information you give them. They guarantee your Privacy. You can learn more at their respective sites. 
+
+**Collection of Personal Information from Children under Thirteen**
 
   We do not allow children under the age of thirteen (13) to register for any services.
 
@@ -50,13 +51,11 @@ with respect to information gathered on their web pages. Such information is rec
 
   **How to Contact Us**
 
-  Should you have other questions or concerns about this privacy policy, please contact us at the [ Contact Us](https://web.archive.org/Portal/ContactUs.html) or email us ([ webmaster@thecassiopeia.com](mailto:webmaster@thecassiopeia.com)) 
+  Should you have other questions or concerns about this privacy policy, please contact us at the [ Contact Us](http://www.thecassiopeia.com/Portal/ContactUs.html) or email us ([ webmaster@thecassiopeia.com](mailto:webmaster@thecassiopeia.com)) 
 
-**Email, Search, and Community Specific Terms and Conditions**
+**Community Specific Terms and Conditions**
 
- To provide you with these services, we partner with Everyone.net. Everyone.net and we consider email transmitted via our service to be private correspondence between the sender and recipient. Therefore, none of us will monitor, edit, or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](http://www.everyone.net/main/html/agreement_enduser.html).
-
-  Content posted to public community areas is publicly available and Everyone.net reserves the right to remove any publicly posted content that is objectionable.
+ To provide you with these services, we partner with Everyone.net. Content posted to public community areas is publicly available and Everyone.net reserves the right to remove any publicly posted content that is objectionable.
 
   **Advertising Sales Specific Terms and Conditions**
 
@@ -64,6 +63,6 @@ with respect to information gathered on their web pages. Such information is rec
 
   **Conclusion**
 
-In case you have any more questions on the topic, please email us at the above addresses.
+You should be aware of the fact that by using our website you agree to our below Terms and Conditions of Use and Disclaimer [**Terms of Use & Disclaimer**](http://www.thecassiopeia.com/Terms.html)
 
-**Internet Business Consultants For 3rd Millennium**
+In case you have any more questions on the topic, please email us at the above addresses. 
