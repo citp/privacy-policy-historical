@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitsquad.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617122305id_/http%3A//hitsquad.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsquad.com privacy policy that was archived on 2001-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010322221429id_/http%3A//www.hitsquad.com/privacy.shtml) for the most accurate reproduction.*
 
 # Hitsquad.com Privacy Policy
 
@@ -15,4 +15,4 @@ We also collect aggregated tracking information derived mainly by tallying page 
 **Third Parties**  
 Hitsquad.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
 
-Please [contact us](https://web.archive.org/web/20000617122305id_/http%3A//hitsquad.com/contact.html) for more information about our privacy policy if required. 
+Please [contact us](https://web.archive.org/web/20001207032700id_/http%3A//hitsquad.com/contact.html) for more information about our privacy policy if required. 
