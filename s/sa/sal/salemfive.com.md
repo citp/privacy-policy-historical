@@ -1,47 +1,38 @@
-> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 1999-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990422045205id_/http%3A//www.salemfive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210023649id_/http%3A//www.salemfive.com/aboutus/html/privacy.html) for the most accurate reproduction.*
 
-# Salem Five: Customer Privacy Policy
+# directbanking.com: Salem Five's Online Bank
 
-|  |   
-**Customer Privacy Policy**
+**SALEM FIVE CENTS SAVINGS BANK PRIVACY POLICY**  
+At Salem Five, we have been in the business of serving the financial needs of our customers since 1855. Our long history is based on the strength of our reputation, a reputation built on trust. We honor that trust by respecting and safeguarding the sensitive information you have shared with us. To help you better understand how your personal information is protected here at Salem Five, we are providing you with the following statement describing our privacy policies and practices. Whether you do business with Salem Five Cents Bank, our Internet division, directbanking.comTM, or a member of our family of affiliates, including Salem Five Mortgage Company, LLC, Clippership Financial Services, LLC., and Clippership Insurance Services, LLC, your privacy is protected by the following principles. In the event your relationship with us terminates, or you become an inactive customer, we will continue to adhere to the policies and practices described here. 
 
-Technology and new marketing practices have increased the amount of customer information collected and shared in today's marketplace. Consumers are concerned about the need for protection of their personal information. As a financial institution, Salem Five has a special duty to safeguard its customers' sensitive information. To serve our customers as effectively as possible, we must make use of customer information. At the same time, we want our customers to be confident that their financial records and their relationship with the Bank will be treated with the appropriate confidentiality. Therefore we have adopted the following principles to protect the privacy of the information shared with us:
+**The Information That We Collect**  
+As a financial institution, we must collect, retain, and use information about our customers and applicants for the purpose of providing our products and services. We may collect nonpublic personal information from a variety of sources: applications or other forms you submit to us or one of our affiliates; information about your transactions with us, one of our affiliates or others; or information we receive from a consumer reporting agency. 
 
-  1. **Recognition of Customers' Expectation of Privacy**
+The information collected and retained by Salem Five is used for specific business purposes, such as approving or administering your account, complying with banking regulations, protecting against fraud, and developing a better understanding of your financial needs to provide you with products and services of value to you. 
 
-Salem Five recognizes and respects the privacy expectations of its customers and will take appropriate steps to convey its commitment to financial privacy to customers and to bank staff.
+**The Information That May Be Shared Within Salem Five**  
+We believe that the responsible use of information benefits our customers by enabling us to understand their specific financial needs and to offer products and services tailored to meet those needs. To continue providing you with the best possible service and offering you the broadest array of financial products, we reserve the right to share the nonpublic personal information we collect among our family of affiliates. The information shared may include information that you have provided to us on an application (such as your marital status or income); information we obtain from a consumer report (such as your credit score or credit history with others); information we obtain to verify representations made by you (such as your open lines of credit); and information we obtain from a third party regarding their employment, credit, or other relationship with you (such as your employment history). If you prefer that we not share information among our affiliates other than information we have obtained through our transactions and experience with you, please call us at 1-800-472-5365 (1-800-4SALEM5) or send your request by mail to: Privacy, Salem Five Cents Savings Bank, 210 Essex Street, Salem, MA 01970. We will honor your request. 
 
-  2. **Use, Collection and Retention of Customer Information**
+**Who Else May Receive Information and Why**   
+Salem Five does not sell or provide nonpublic personal information about customers or former customers to other companies for their independent use. To provide our customers with products or services that we believe will meet their financial needs, we may disclose limited nonpublic personal information to reputable companies that perform marketing services on our behalf or to other financial institutions with whom we have joint-marketing agreements (such as an insurance agency and our branded credit card provider). The information shared may include information that has been provided to us by you (such as your name, address, and social security number), from outside sources, or information derived from our experiences or transactions with you (such as account balance or payment history). We may also reveal specific information about your accounts if you request or authorize it, to help complete a transaction initiated by you, to a credit reporting agency in accordance with standard banking industry practice, or as permitted or required by law. 
 
-The Bank will collect, retain and use information about individual customers only where it reasonably believes it would be useful (and allowed by law) to administer the Bank's business and to provide products, services and other opportunities to customers. 
+**How We Protect Your Personal Information**   
+We understand that the protection of your nonpublic personal information is of the utmost importance. Salem Five maintains physical, electronic, and procedural safeguards that comply with federal rules to guard your nonpublic personal information. We do not authorize access to customer information except to those who have a business reason to know such information, and we educate our employees about the importance of confidentiality and customer privacy. 
 
-Information provided to the Bank or an affiliate within the Salem Five organization by customers or applicants may be shared with other Salem Five affiliates, such as Salem Five Mortgage Corporation or Clippership Financial Services, Inc., in order to offer products or services we think may be of interest to the customer. However, the Bank will honor any request from a customer that their personal information not be so shared. 
+**Accuracy of Records and Your Right to Correct**  
+We continually strive to maintain current, complete and accurate information about you and your accounts. Should you ever believe that our records contain inaccurate or incomplete information about you, please notify us. You may send your notice to: Customer Service, Salem Five Cents Savings Bank, 210 Essex Street, Salem, MA 01970. We will investigate your concerns and we will correct any inaccuracies, to the extent we are able to do so. 
 
-  3. **Maintenance of Accurate Information**
+**Questions About Privacy**  
+If you have any questions about Salem Five's privacy policy or practices, or if you have concerns about the protection of your information, please contact us by mail at: Privacy, Salem Five Cents Savings Bank, 210 Essex Street, Salem, MA 01970. 
 
-The Bank has established procedures to ensure that customers' financial information is accurate, current and complete in accordance with reasonable commercial standards. Should we become aware of any inaccuracies in our records, we will take prompt steps to make appropriate corrections.
+**Cookies and Session Variables**  
+In order to provide the best possible service, we may use a "cookie" or a "session variable" as part of our interaction with your browser. Cookies are messages a web server places on a web browser. The message contains information that is then stored on your computer and sent back to the server when your browser requests pages from the server. Cookies provide added convenience to you by allowing you to apply for accounts or loans online, personalize your session, and providing non-personal information to us to allow us to understand and respond to our market. Similarly, session variables may be used on some of our pages in order to store your preferences or access information during a particular session. We do not use cookies or session variables to retrieve any information from your computer that you have not explicitly revealed. Cookies and session variables are commonly used on web sites and do not harm your system. You may disable them by making the appropriate selection from your browser options. If you do, you should know that you will be unable to use some of our online services. 
 
-  4. **Employee Education**
+**Protection of Online Application Information**  
+When you apply online for accounts or services, or enroll in Online Banking, you provide personal information that is necessary for us to process your application. That information is sent to our server in a secure session established with Secure Sockets Layer (SSL). To learn more about SSL and Online Banking security features, please refer to "[Online Banking Security Information](https://web.archive.org/homebanking/html/security.htm)". 
 
-Salem Five employees will be educated so that they understand the importance of confidentiality and customer privacy. In the event of a breach of privacy responsibilities by an employee, appropriate disciplinary action will be taken.
+**E-mail**   
+Internet e-mail is not secure. Therefore, we ask that when you communicate with us by e-mail, you send only information that is not of a confidential or sensitive nature. If you need to communicate personal information, such as your account number or social security number, for your protection you may want to provide it to us by phone or regular mail. You may, at your own risk, e-mail us personal information when it is more convenient for you or you wish to obtain a quick response. 
 
-  5. **Protection of Information via Established Security Procedures**
-
-The Bank will maintain appropriate security standards and procedures to ensure that only employees who are actively engaged in the discharge of their assigned duties are authorized to access or use customer information.
-
-  6. **Restrictions on the Disclosure of Account Information**
-
-Salem Five will not reveal specific information about customers or customer accounts to unaffiliated third parties for their independent use. However, the Bank recognizes the following exceptions to this rule: 
-
-    1. If the customer expressly authorizes the Bank to provide such information, the Bank may honor that request. 
-    2. The Bank may provide customer information to an auditor or examiner of the bank, solely for the purpose of an official audit or accounting. 
-    3. The Bank may provide information to an attorney or collection agency in furtherance of a legitimate bank purpose, such as the collection of a customer debt. 
-    4. The Bank may exchange information about our customers with reputable information reporting agencies or merchants in accordance with standard banking industry practice, so that we can verify the existence and condition of customers' accounts. 
-    5. The Bank must comply with certain laws that require mandatory disclosure of customer information. For example, if a customer is involved in a legal proceeding, the Bank may be compelled by court order or subpoena to produce records regarding that customer's accounts or relationship with the Bank. Laws such as the Bank Secrecy Act, the Internal Revenue Code and the Right to Financial Privacy Act may require us, under certain circumstances, to provide certain customer information to government agencies. In such instances, the Bank will limit disclosure to what is required by law. 
-  7. **Maintaining Customer Privacy in Business Relationships with Third Parties**
-
-If personally identifiable customer information is provided to a third party, Salem Five will ask that the third party adhere to strict privacy guidelines that provide for keeping such information confidential. 
-
-
-  
-
+**Transferring to Other Web Sites**   
+For your convenience, our web site may allow you to transfer to sites maintained by other organizations. You should be aware that any personal information you release on such linked internet sites is governed by the privacy policies of those organizations, and not that of Salem Five. 
