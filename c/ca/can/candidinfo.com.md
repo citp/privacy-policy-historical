@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609133729id_/http%3A//www.candidinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004020413id_/http%3A//www.candidinfo.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy of Candidinfo an Indian website - Your Information Powerhouse
 
@@ -57,6 +57,6 @@ Postal Address:
 Meerut - 250001  
 Uttar Pradesh  
 INDIA  
-Ph: 91-121-645421
+Ph: +91-9810178155
 
 _
