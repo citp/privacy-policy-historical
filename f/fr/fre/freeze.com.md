@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeze.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204175010id_/http%3A//www.freeze.com/snow/info/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeze.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604072728id_/http%3A//www.freeze.com/snow/info/policy.shtml) for the most accurate reproduction.*
 
 # F r e e z e . c o m : A new degree of free.
 
@@ -100,19 +100,10 @@ Freeze.com does not share personally identifying information about users who are
 
 Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
+Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.  
+__
 
-Additional Information
-
-If you have a question that was not addressed in this privacy policy you may contact us at [privacypolicy@Freeze.com](mailto:privacypolicy@Freeze.com) or at the following:
-
-Freeze.com, LLC  
-Attention: Customer Care - Privacy Policy Issues  
-3950 3rd Street North  
-St. Cloud, MN 56303  
-(320) 203-7157
-
- _"Privacy Policy for Chek and PostMasterDirect"  
+_"Privacy Policy for Chek and PostMasterDirect"  
 Freeze.com  works with Chek and PostMasterDirect. These companies may use information (not including name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. If you would like to know your choices about not having this information used by Check or PostmasterDirect  and to read the privacy policy associated with Chek and PostMasterDirect, click here   
 _[Chek.com - Freeze's Email Provider](http://mail.freeze.com/privacy.php3?domain=freeze.com)  
 [Netcreations (Post Master Direct) - Freeze's 3rd Party Email Partner](http://w3.netcreations.com/main?page=privacy)__
