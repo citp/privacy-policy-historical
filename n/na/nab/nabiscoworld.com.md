@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408235437id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DNabiscoWorld) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208172110id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DNabiscoWorld) for the most accurate reproduction.*
 
 # Privacy
 
