@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202165154id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605200656id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp%3F) for the most accurate reproduction.*
 
 # American Family Immigration History Center
 
@@ -7,7 +7,7 @@
   
 **General**   
   
-The Statue of Liberty-Ellis Island Foundation ("SOLEIF") respects your concerns about privacy. SOLEIF's Privacy Policy is intended to provide you with information regarding our use of information collected from users of the AFIHC Experience both on Ellis Island and online at ellisislandrecords.org. As we continue to improve the AFIHC Experience and to utilize new technologies, SOLEIF's Privacy Policy may change over time. We therefore recommend that you review this Privacy Policy regularly to ensure that you are familiar with our privacy practices. If at any time you have questions regarding this Privacy Policy, you may always contact a representative of SOLEIF by sending an e-mail to [historycenter@ellisisland.org](mailto:historycenter@ellisisland.org).   
+The Statue of Liberty-Ellis Island Foundation ("SOLEIF") respects your concerns about privacy. SOLEIF's Privacy Policy is intended to provide you with information regarding our use of information collected from users of the AFIHC Experience both on Ellis Island and online at ellisisland.org. As we continue to improve the AFIHC Experience and to utilize new technologies, SOLEIF's Privacy Policy may change over time. We therefore recommend that you review this Privacy Policy regularly to ensure that you are familiar with our privacy practices. If at any time you have questions regarding this Privacy Policy, you may always contact a representative of SOLEIF by sending an e-mail to [historycenter@ellisisland.org](mailto:historycenter@ellisisland.org).   
   
 **Aggregated Information**   
   
@@ -15,13 +15,13 @@ SOLEIF collects anonymous, non-personal, aggregate information, such as AFIHC Ex
   
 SOLEIF uses cookies to provide tailored information on our website. A cookie is a small data file that a website transfers to online users' hard drives to remember service settings. Cookies do not personally identify SOLEIF users. Cookies allow SOLEIF to measure user activity on the website and to improve users' experiences. You can set your browser to notify you when you receive a cookie, and to decline to accept it.   
   
-SOLEIF also collects IP addresses from every online user. An IP address is a number that is automatically assigned to your computer and is automatically identified to the SOLEIF web server when you visit the ellisislandrecords.org website. This information is collected to provide aggregate data to our corporate sponsors and advertisers or other third parties about SOLEIF's users.       
+SOLEIF also collects IP addresses from every online user. An IP address is a number that is automatically assigned to your computer and is automatically identified to the SOLEIF web server when you visit the ellisisland.org website. This information is collected to provide aggregate data to our corporate sponsors and advertisers or other third parties about SOLEIF's users.       
   
 Such aggregate information collected by SOLEIF may be used either by SOLEIF and its corporate sponsors or shared with unrelated third parties.    
   
 **Personal Information**   
   
-Personal identifying information may include name, street address, phone number and/or e-mail addresses, and other similar information, some or all of which may be requested of you for access to various information or services at Ellis Island or on the ellisislandrecords.org website (the "Service"). SOLEIF collects personal identifying information from you in circumstances when you knowingly provide such information, including but not limited to when you provide information in connection with your establishing yourself as a SOLEIF Sustaining Member, in posting Annotations or creating your own Family Scrapbook (see Use of Interactive Functions below for more information), or in placing an order with the SOLEIF Store. We will let you know where providing personal information is optional.   
+Personal identifying information may include name, street address, phone number and/or e-mail addresses, and other similar information, some or all of which may be requested of you for access to various information or services at Ellis Island or on the ellisisland.org website (the "Service"). SOLEIF collects personal identifying information from you in circumstances when you knowingly provide such information, including but not limited to when you provide information in connection with your establishing yourself as a SOLEIF Sustaining Member, in posting Annotations or creating your own Family Scrapbook (see Use of Interactive Functions below for more information), or in placing an order with the SOLEIF Store. We will let you know where providing personal information is optional.   
   
 SOLEIF uses personal information provided by you in order to improve the AFIHC Experience, to publish information you have submitted to the AFIHC Experience in posting Annotations and in creating and editing Family Scrapbooks (subject to the [Sustaining Member Terms and Conditions](https://web.archive.org/membership/wme_1c.asp)), to help us to service Sustaining Members, to provide you with products or services and to inform you about additional products or services that may be of interest to you.   
   
@@ -49,7 +49,7 @@ SOLEIF does not collect any information from children that would allow a child t
   
 Your use of the AFIHC Experience at Ellis Island and online at www.ellisisland.org signifies that you agree to the terms of this Privacy Policy.   
   
-Last Updated - April 19, 2002   
+Last Updated - March 23, 2004   
   
   
 ---|---
