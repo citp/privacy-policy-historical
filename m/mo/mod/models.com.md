@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401103039id_/http%3A//www.models.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204085925id_/http%3A//models.com/company/privacy.html) for the most accurate reproduction.*
 
 # MODELS.com - Privacy Statement
 
