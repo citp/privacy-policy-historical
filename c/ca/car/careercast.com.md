@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002083118id_/http%3A//www.careercast.com/privacy.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605110944id_/http%3A//www.careercast.com/privacy.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # CareerCast, Inc.
 
@@ -14,9 +14,7 @@ Generally available information about your machine capabilities are used to allo
 
 **Cookies**
 
-In addition to information provided by your browser, small data files called cookies can be created to help tailor your site visit. If you choose to accept the cookie, the information is stored on your hard disk for later retrieval by us the next time you visit. Cookies, by themselves, cannot be used to identify the individual user. This data includes only the information that you volunteer to provide us; email address, name, address, phone number, company information, and site preferences. On your return visit to our site, if you have elected to accept the cookie, we can streamline your login to the site and provide you with the relevant updates for information you have chosen to be informed about.
-
-If you choose to not take advantage of the cookie, acceptance of cookies can be turned off via your browser. You do not need cookies turned on to navigate through our site. Session information is only gathered while you are browsing our site. No information will be stored in a cookie on your machine if you choose not to accept cookies.
+In addition to information provided by your browser, small data files called cookies are created to help tailor your site visit. This information is stored on your hard disk for later retrieval by us the next time you visit. Cookies, by themselves, cannot be used to identify the individual user. This data includes only the information that you volunteer to provide us; email address, name, address, phone number, company information, and site preferences. On your return visit to our site, we can streamline your login to the site and provide you with the relevant updates for information you have chosen to be informed about.
 
 **Personal Information**
 
@@ -26,7 +24,7 @@ While CareerCast has taken steps to protect your privacy, this site contains lin
 
 **The "Refer A Friend or Email Job" service**
 
-You can choose to electronically forward a job description to someone else by clicking on the "Refer a Friend" or "Email Job" link or button on a job page. The user must provide the recipient's email address for which to send the job. This information is used only in the case of transmitting the job information and letting the recipient know who sent the job description. A brief text message provided by the sender is included with the job referral. This information is not used for any other purpose.
+You can choose to electronically forward a job description to someone else by clicking on the "Refer a Friend" or "Email Job" link or button on a job page. The user must provide the recipient's email address for which to send the job. This information is used only in the case of transmitting the job information and is not saved in our system. A brief text message provided by the sender is included with the job referral. This information is not used for any other purpose.
 
  **Security**
 
