@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the state.ia.us privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609130932id_/http%3A//www.state.ia.us/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.ia.us privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202085200id_/http%3A//www.state.ia.us/main/privacy.html) for the most accurate reproduction.*
 
 # www.state.ia.us | Privacy Statement
 
-IOWAccess network  
-500 E. Locust  
-Des Moines, IA 50309  
-Telephone (515) 283-8211
+**Information Technology Department**  
+Level B Hoover Building  
+Des Moines, IA 50319-0001
+
+(515) 281-5703 **Help Desk  
+**(800) 532-1174 Toll Free  
+(515) 281-6137 Fax
 
 Personally identifiable information that is available from governmental web sites through IOWAccess is subject to these principles and policies:
 
