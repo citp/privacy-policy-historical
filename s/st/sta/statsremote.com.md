@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statsremote.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606020414id_/http%3A//www.statsremote.com/clients/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsremote.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208225636id_/http%3A//www.statsremote.com/clients/privacy.php) for the most accurate reproduction.*
 
 # StatsRemote :: Privacy Policy
 
@@ -21,4 +21,4 @@ Upon request, Network 24/7 AG will inform you, what personal data is stored by u
 **Security**  
 Network 24/7 AG uses technical and organizational security measures in order to protect the data we have under our control against accidental or intentional manipulation, loss, destruction or against access by unauthorized persons. Our security procedures are continually enhanced as new technology becomes available.
 
-Should you have questions regarding data protection and privacy of your personal data, you can [contact us](mailto:privacy@network247.com?subject=StatsRemote%20Privacy%20Policy) any time.
+Should you have questions regarding data protection and privacy of your personal data, you can [contact us](mailto:info@network247.com?subject=StatsRemote%20Privacy%20Policy) any time.
