@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204123348id_/http%3A//edealinfo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305052120id_/http%3A//edealinfo.com/privacy.shtml) for the most accurate reproduction.*
 
 # eDealinfo.com Privacy Policy
 
-[](https://web.archive.org/) |  [](https://web.archive.org/cgi-bin/lsredir.cgi?id=CPqWkHwkNyo&offerid=50582.10000086&subid=0&type=4)  
----|---  
-  
 eDealinfo.com is committed to the security and privacy of our visitors.
 
 Personal Information
@@ -25,6 +22,10 @@ This site contains links to other Web sites. We use third-party ad servers in or
 
 Questions?
 
-eDealinfo.com welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. Any revisions to our policy will be posted to this site. Questions regarding this statement should be directed to [admin@edealinfo.com](mailto:adminNOSPAM@edealinfo.com?body=Please%20remove%20word%20NOSPAM%20from%20the%20email%20address%20before%20sending%20it&subject=eDealinfo.com%20Privacy%20Policy).
+eDealinfo.com welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. Any revisions to our policy will be posted to this site. Questions regarding this statement should be directed to [admin [at] edealinfo.com](mailto:adminNOSPAM@edealinfo.com?body=Please%20remove%20word%20NOSPAM%20from%20the%20email%20address%20before%20sending%20it&subject=eDealinfo.com%20Privacy%20Policy).
 
-© Copyright 2000-2004 eDealinfo.com Inc. All Rights Reserved.
+[](http://www.anrdoezrs.net/click-600263-9997451) | [](http://www.dpbolvw.net/click-600263-9785833) | [](http://service.bfast.com/bfast/click?bfmid=37923709&siteid=40038143&bfpage=choiceair120x90) | [](http://service.bfast.com/bfast/click?bfmid=30719175&siteid=39444434&bfpage=dynamic_links) | [](http://click.linksynergy.com/fs-bin/click?id=CPqWkHwkNyo&offerid=53479&subid=0)  
+---|---|---|---|---  
+[](http://www.jdoqocy.com/click-600263-10363464) | [](http://www.anrdoezrs.net/click-600263-1490092) | [](https://web.archive.org/Companies/stamps.htm) | [](http://service.bfast.com/bfast/click?bfmid=37922269&siteid=39908941&bfpage=dsl) | [](http://service.bfast.com/bfast/click?bfmid=37925169&siteid=40038143&bfpage=1522892)  
+  
+© Copyright 2000-2004 eDealinfo.com Inc. All Rights Reserved. Other product and company names mentioned here in may be the trademarks of their respective owners. This site is best experienced at 1024x768 (or higher) with Internet Explorer 4.0+.
