@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606031521id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207235512id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
 
 # recipelink.com Privacy Policy
+
+[ ](http://www.recipelink.com/holiday/gingerbread.html) [**Gingerbread House Recipes**](http://www.recipelink.com/holiday/gingerbread.html) [ ](http://www.recipelink.com/holiday/gingerbread.html)     [**Holiday Recipes**](http://www.recipelink.com/holiday/merrylinks.html) **  [Jar Mixes and Food Gifts](http://www.recipelink.com/holiday/merrygifts.html)**
 
 **Recipelink.com Privacy Policy**
 
