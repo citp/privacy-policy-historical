@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the britneyspears.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610040236id_/http%3A//www.britneyspears.com/shared/priv_term.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britneyspears.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412091042id_/http%3A//www.britneyspears.com/shared/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy / Terms of Use
+# britneyspears.com :: privacy policy
 
-| 
+  | 
+
+  
+
 
 Britneyspears.com and Britney Online, Inc. care about your privacy. We're providing this policy to let you know what information we collect from you and how we use it. We may update this policy from time to time, so we'll always keep you informed about our privacy practices. 
 
@@ -42,10 +45,11 @@ We protect the confidentiality, security and integrity of the personal informati
 Our site provides links to other sites. We are not responsible for those other sites, their privacy policies or how they treat information about their users. We advise you to check their privacy policies as well. If you have any questions about our privacy practices, please feel free to contact us at: 
 
 britneyspears.com  
-c/o nvu Productions, Inc.  
-1 North Dearborn Suite 1300 Chicago, IL 60602  
-(312) 606-2570  
-[WebmasterB@BritneySpears.com](mailto:webmasterb@britneyspears.com)  
+c/o NVU Productions, Inc.  
+363 W. Erie St. 4W  
+(312) 951-9500  
+[webmasterb@britneyspears.com](mailto:webmasterb@britneyspears.com)  
 
 
-|  |  | 
+|   |   |    
+|  
