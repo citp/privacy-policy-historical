@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caesars.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604075350id_/http%3A//www.parkplace.com/default.aspx%3FContentID%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caesars.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008184507id_/http%3A//www.parkplace.com/default.aspx%3FContentID%3D14) for the most accurate reproduction.*
 
 # Privacy Policy
 
