@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the novell.com privacy policy that was archived on 2001-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010504103033id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novell.com privacy policy that was archived on 2001-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011205111817id_/http%3A//www.novell.com/company/policies/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <!--  ENTER A PAGE TITLE THAT DESCRIBES YOUR PAGE CONTENT! SEE STYLE GUIDE  -->
@@ -13,300 +13,9 @@
 <!--  BEGIN VIRTUAL SCRIPT HEADER INCLUDE  -->
 	<!--  DO NOT ALTER OR DELETE  -->
 	<!--*Robots NoIndex -->
-
-<script language="JavaScript">
-<!--hide
-
-// FUNCTION FOR GENERIC POPUP WINDOW
-// PASS THE HEIGHT AND WIDTH PARAMETERS WHEN CALLING THE FUNCTION
-// CALL THE FUNCTION IN AN HREF TAG WITH A TARGET OF "winOpen"
-
-function popUp(winHeight,winWidth) {
-	var winOpen = window.open('','winOpen','height=' + winHeight + ',width=' + winWidth); return false;
-}
-
-// DETERMINE USER'S BROWSER FOR STYLE SHEET ASSIGNMENTS
-
-var isNav, isIE, isNavMac
-
-if (parseInt(navigator.appVersion) >= 4) {
-	if (navigator.appName == "Netscape") {
-		isNav = true;
-		if (navigator.platform.substring(0,1) == "M") {
-			isNav = false;
-			isNavMac = true;
-		}
-	} else {
-		isIE = true;				 
-	}
-} else if (!isNav && !isIE) {
-}
-
-//PRELOAD HEADER NAVIGATION BUTTONS
-if (isNav || isIE) {
-	headerButtons = new Array(20)
-	for(i = 0; i <= 19; i++) {
-		if (i==8) i=12;
-		headerButtons[i] = new Image();
-		headerButtons[i].src = "/inc/img/topnav_"+i+".gif";
-	}
-}
-
-//Header Rollovers
-function button_change(name, button) {
-	if (isNav || isIE) {
-		name.src=headerButtons[button].src;
-	}
-}
-
-//SET NO NAVIGATION BUTTON TO BE DOWN BY DEFAULT
-var alwaysDown = "";
-
-//BUILD MAIN NAVBAR IN HEADER
-function writeMainNav (buttonName) {
-	var prodUpValue = 12;
-	var edUpValue = 14;
-	var conUpValue = 16;
-	var compUpValue = 18;		
-	if (buttonName == "products") prodUpValue = 13;
-	if (buttonName == "education") edUpValue = 15;
-	if (buttonName == "consulting") conUpValue = 17;
-	if (buttonName == "company") compUpValue = 19;	 
-	document.write ("<a href=\"/products/\" onMouseOver=\"button_change(products,13)\" onMouseOut=\"button_change(products," + prodUpValue + ")\"><img src=\"/inc/img/topnav_" + prodUpValue + ".gif\" border=0 name=\"products\" alt=\"Products\"></a>");
-	document.write ("<a href=\"/education/\" onMouseOver=\"button_change(education,15)\" onMouseOut=\"button_change(education," + edUpValue + ")\"><img src=\"/inc/img/topnav_" + edUpValue + ".gif\" border=0 name=\"education\" alt=\"Education\"></a>");
-	document.write ("<a href=\"/consulting/\" onMouseOver=\"button_change(consulting,17)\" onMouseOut=\"button_change(consulting," + conUpValue + ")\"><img src=\"/inc/img/topnav_" + conUpValue + ".gif\" border=0 name=\"consulting\" alt=\"Consulting\"></a>");
-	document.write ("<a href=\"/company/\" onMouseOver=\"button_change(company,19)\" onMouseOut=\"button_change(company," + compUpValue + ")\"><img src=\"/inc/img/topnav_" + compUpValue + ".gif\" border=0 name=\"company\" alt=\"Company\"></a>");
-}
-
-// DEFINE STYLE SHEETS FOR DIFFERENT BROWSERS
-
-if (isIE) {
-	document.write('<link rel="stylesheet" href="/inc/novellstyle.css">');
-} else if (isNav) {
-	document.write('<link rel="stylesheet" href="/inc/netstyle.css">');
-} else if (isNavMac) {
-	document.write('<link rel="stylesheet" href="/inc/net_mac.css">');
-}
-
-// SEARCH FUNCTIONS
-
-	var maxColls	=2;
-	var ckExpire	=28;
-	var ckDomain	=".novell.com";
-
-	var stColls = new Array(
-		new Clxn("","All of Novell","",""),
-		new Clxn("products","in Products", "Products",""),
-		new Clxn("education","in Education","Education",""),
-		new Clxn("consulting","in Consulting","Consulting",""),
-		new Clxn("company","in Company","Company",""),
-		new Clxn("support","in Support","Support",""),
-		new Clxn("developer","in Developer","Developer",""),
-		new Clxn("documentation","in Documentation","Documentation",""));
-	var dyColls = new Array(0);
-	loadDyColls();
-
-
-	function Clxn(Th,Tx,C,E)
-	{
-		this.Theme	=Th;
-		this.DisplayText=Tx;
-		this.Collections=C;
-		this.ExpandTo	=E;
-	}
-
-	function addCollection(Th,Tx,C,E)
-	{
-		var at=-1;
-		if (dyColls.length==0)
-			stColls[stColls.length] = new Clxn("","----------------","","");
-		at = findClxn(dyColls,C);
-		if (at==-1)
-			if (dyColls.length==maxColls)
-				at=dyColls.length-1;
-			else
-				at=dyColls.length;
-		for (var i=at;i>0;i--)
-			dyColls[i]=dyColls[i-1];
-		dyColls[0] =new Clxn(Th,Tx,C,E);
-		saveDyColls();
-
-		if(document.SearchForm != document.__undefined)
-			updateDisplay();
-	}
-
-	function updateDisplay()
-	{
-		var i = stColls.length-1;
-		document.SearchForm.collection.options[i] = new Option(stColls[i].DisplayText, stColls[i].Collections);
-		i++;
-		for(var x=0;x<dyColls.length;x++)
-			document.SearchForm.collection.options[i+x] = new Option(dyColls[x].DisplayText, dyColls[x].Collections);
-
-		document.SearchForm.collection.options[i].selected = true;
-	}
-
-	function findClxn(arr,C)
-	{
-		if (arr!=null)
-		{
-			for (var i=0;i<arr.length;i++)
-			{
-				var nxClxn = arr[i];
-				if (nxClxn.Collections.toLowerCase()==C.toLowerCase())
-					return i;
-			}
-			return -1;
-    		}
-	}
-
-	function getClxn(C)
-	{
-		var i = findClxn(stColls,C);
-		if (i!=-1)
-			return stColls[i];
-
-		i = findClxn(dyColls,C);
-		if (i!=-1)
-			return dyColls[i];
-		return null;
-	}
-
-	function saveDyColls()
-	{
-		var clxnVlu = "";
-		var expires = new Date(new Date().getTime() + ckExpire *24*60*60*1000);
-
-		for (var i=dyColls.length-1;i>=0;i--)
-		{
-			var clxn = dyColls[i];
-			clxnVlu = clxnVlu + "[T]"+clxn.Theme + "[D]"+clxn.DisplayText + "[C]"+clxn.Collections + "[E]"+clxn.ExpandTo;
-		}
-
-		document.cookie = "Collections="+escape(clxnVlu) +"; expires="+expires.toGMTString() +"; path=/; domain="+ckDomain;
-	}
-
-	var clxnVlu = "";
-	function loadDyColls()
-	{
-		var ck = document.cookie;
-		var x = ck.indexOf("Collections=");
-		if (x==-1) return;
-		x = ck.indexOf("=",x)+1;
-		var eS = ck.indexOf(";",x);
-		if (eS==-1) eS = ck.length;
-		clxnVlu = unescape(ck.substring(x,eS));
-
-		do{
-			var Th	= getClxnAtt("[T]");
-			var Tx	= getClxnAtt("[D]");
-			var C	= getClxnAtt("[C]");
-			var E	= getClxnAtt("[E]");
-			if (Tx.length>0)
-				addCollection(Th,Tx,C,E);
-		} while(Tx.length>0);
-	}
-
-	function getClxnAtt(A)
-	{
-		if (clxnVlu.substring(0,A.length)!=A) return "";
-
-		var eA = clxnVlu.indexOf("[",A.length);
-		if (eA==-1) eA = clxnVlu.length;
-		var att = clxnVlu.substring(A.length,eA);
-		clxnVlu = clxnVlu.substring(eA);
-		return att;
-	}
-
-	function VerifySearchData(SearchForm)
-	{	//return true only if we have a user-entered query
-		return (SearchForm.query0.value.length > 0);
-	}
-
-	function enable(formElement, activate)
-	{
-		if (activate == false)
-		{
-			if (formElement.value == "")
-				formElement.disabled = true;
-		}
-		else
-			formElement.disabled = false;
-	}
-
-	function doQuery(SearchForm, doReturn)
-	{
-		if (VerifySearchData(SearchForm) == true)
-		{
-			var tStr = "";
-			var c = getClxn(SearchForm.collection.options[SearchForm.collection.selectedIndex].value);
-
-			if (c!=null)
-				tStr = c.Theme;
-			SearchForm.theme.value = tStr;
-
-
-			//Disable all form elements that are at their current default settings
-			for(var x=0;x<SearchForm.elements.length;x++)
-				enable(SearchForm.elements[x], false);
-
-			//Submit the form
-			SearchForm.submit();
-
-			//Restore all form elements to their operational state
-			for(var x=0;x<SearchForm.elements.length;x++)
-				enable(SearchForm.elements[x], true);
-		}
-
-		if(doReturn)
-			return false;
-	}
-
-	function collectionChanged(thBox)
-	{
-		var t = thBox.options[thBox.selectedIndex].value;
-		if (t.substring(0,1) == "")
-			selectCollection("");
-	}
-
-	function writeCollection(Collection, DisplayText)
-	{
-		document.write("			<option VALUE=\""+Collection+"\">" +DisplayText+"</option>\n");
-	}
-
-	function writeSearchParam(fldName,fldValue,noWriteValue)
-	{
-		if (fldValue != noWriteValue)
-			document.write("			<INPUT TYPE=\"HIDDEN\" NAME=\""+fldName+"\" VALUE=\""+fldValue+"\">\n");
-	}
-
-	function getCollectionText()
-	{
-		var searchIndex = document.SearchForm.collection.selectedIndex;
-		return document.SearchForm.collection.options[searchIndex].text;
-	}
-
-	function selectCollection(Collection)
-	{
-		for(x=0;x<document.SearchForm.collection.length;x++)
-		{
-			if(document.SearchForm.collection.options[x].value.toLowerCase() == Collection.toLowerCase())
-			{
-				document.SearchForm.collection.options[x].selected = true;
-				break;
-			}
-		}
-	}
-	
-	function setQueryEncoding(encoding)
-	{
-		document.SearchForm.encoding.value = encoding;
-	}
-	
-//-->
-</script><link rel="stylesheet" href="/inc/netstyle.css">
+	<script language="javascript" type="text/javascript" src="/inc/hdr_script_common.js"></script>
+	<script language="javascript" type="text/javascript" src="/inc/hdr_script.js"></script><link rel="STYLESHEET" type="text/css" href="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/inc/novellstyle2001.css">
 <!--*Robots Index -->
-
 <!--  END VIRTUAL SCRIPT HEADER INCLUDE  -->
 <!--------------------------------------------------------->
 <!--  BEGIN VIRTUAL SECTION HEADER INCLUDE  -->
@@ -317,107 +26,21 @@ if (isIE) {
 	<!--  I.E. COMPANY - "/inc/hdr_comp.html"  -->
 </head> <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" text="black" link="#FF9933" alink="#FFCC33" vlink="#FF9933">
 	<!--*Robots NoIndex -->
-
-<div style="position: absolute; top: 0; left: 0; z-index: 0;">
-	<a href="#body"><img src="/img/spacer.gif" width="1" height="1" border="0" alt="Skip to body content"></a>
-</div>
-
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td>&nbsp;</td>
-	<td colspan="2" bgcolor="#CC0000">
-		<table border="0" width="477" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><!-- _________________Top navigation row
-			 --><a href="http://support.novell.com/" onmouseover="button_change(support,1)" onmouseout="button_change(support,0)"><img src="/inc/img/topnav_0.gif" border="0" name="support" alt="Get Support"></a><!-- 
-			 --><a href="/download/" onmouseover="button_change(download,3)" onmouseout="button_change(download,2)"><img src="/inc/img/topnav_2.gif" border="0" name="download" alt="Download Software"></a><!-- 
-			 --><a href="/commerce/" onmouseover="button_change(shop,5)" onmouseout="button_change(shop,4)"><img src="/inc/img/topnav_4.gif" border="0" name="shop" alt="Go Shopping"></a><!-- 
-			 --><a href="/company/contact.html" onmouseover="button_change(contact,7)" onmouseout="button_change(contact,6)"><img src="/inc/img/topnav_6.gif" border="0" name="contact" alt="Contact Us"></a><!-- 
-			 --><img src="/inc/img/vert_div.gif" border="0" alt=""><br><!-- <img src="/inc/img/topnav_8.gif" border=0 name="login" alt="Login"><br> --></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td colspan="2" bgcolor="#CC0000">&nbsp;</td>
-</tr>
-<tr>
-	<td><img src="/img/spacer.gif" width="187" height="1" alt=""><br></td>
-	<td bgcolor="#990000"><img src="/img/spacer.gif" width="357" height="1" alt=""><br></td>
-	<td bgcolor="#990000"><img src="/img/spacer.gif" width="120" height="1" alt=""><br></td>
-	<td width="50%" bgcolor="#990000"><img src="/img/spacer.gif" width="1" height="1" alt=""><br></td>
-	<td bgcolor="#990000"><img src="/img/spacer.gif" width="10" height="1" alt=""><br></td>
-</tr>
-<tr>
-	<td colspan="2">
-		<table border="0" width="544" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><a href="/"><img src="/inc/img/novell_logo.gif" width="187" height="33" border="0" alt="Novell Worldwide Home"></a><br></td>
-			<td background="/inc/img/tile.gif"><img src="/img/spacer.gif" width="50" height="1" alt=""><br></td>
-			<td><!-- Main row of navigation
-			 --><script language="JavaScript"><!--
-			 alwaysDown = "company" 
-			 writeMainNav(alwaysDown);
-			// --></script><a href="/products/" onmouseover="button_change(products,13)" onmouseout="button_change(products,12)"><img src="/inc/img/topnav_12.gif" border="0" name="products" alt="Products"></a><a href="/education/" onmouseover="button_change(education,15)" onmouseout="button_change(education,14)"><img src="/inc/img/topnav_14.gif" border="0" name="education" alt="Education"></a><a href="/consulting/" onmouseover="button_change(consulting,17)" onmouseout="button_change(consulting,16)"><img src="/inc/img/topnav_16.gif" border="0" name="consulting" alt="Consulting"></a><a href="/company/" onmouseover="button_change(company,19)" onmouseout="button_change(company,19)"><img src="/inc/img/topnav_19.gif" border="0" name="company" alt="Company"></a><br></td>
-		</tr>
-		<tr>
-			<td colspan="3" bgcolor="#FFCC33"><img src="/img/spacer.gif" width="1" height="21" alt=""><br></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td colspan="3" bgcolor="#FFCC33" background="/inc/img/tile.gif" valign="bottom" align="right">
-		<!-- SEARCH TABLE BEGINS: -->
-		<table border="0" cellspacing="0" cellpadding="0" background="/img/spacer.gif">
-			<form action="http://search.novell.com/NSearch/SearchServlet" name="SearchForm" method="get" onsubmit="javascript:return doQuery(this, true);"></form>
-			<tbody><tr>
-				<td><img src="/inc/img/search.gif" width="45" height="27" alt="Search"><br></td>
-				<td><font size="1" face="arial,helvetica"><input type="text" name="query0" value="" size="14" class="hdr-forms"></font></td>
-				<td><font size="1" face="arial,helvetica">
-					<select name="collection" class="hdr-forms" onchange="javascript:collectionChanged(this);">
-						<script language="JavaScript">
-						<!--
-							for (var i=0; i < stColls.length; i++)
-							{
-								writeCollection(stColls[i].Collections, stColls[i].DisplayText);
-							}
-							for (var i=0; i < dyColls.length; i++)
-							{
-								writeCollection(dyColls[i].Collections, dyColls[i].DisplayText);
-							}
-							selectCollection('Company');
-						// -->
-						</script>			<option value="">All of Novell</option>
-			<option value="Products">in Products</option>
-			<option value="Education">in Education</option>
-			<option value="Consulting">in Consulting</option>
-			<option value="Company">in Company</option>
-			<option value="Support">in Support</option>
-			<option value="Developer">in Developer</option>
-			<option value="Documentation">in Documentation</option>
-
-					</select></font>
-					<input type="HIDDEN" name="theme" value="">
-					<input type="HIDDEN" name="encoding" value="iso-8859-1">
-					<input type="HIDDEN" name="noredirect" value="">
-					</td>
-				<td><input type="image" src="/inc/img/search_arrow.gif" border="0" alt="Submit Search"><br></td>
-				<td><img src="/img/spacer.gif" width="10" height="10" alt=""><br></td>
-			</tr>
-			
-		</tbody></table>
-		<!-- SEARCH TABLE ENDS -->
-	</td>
-</tr>
-<tr>
-	<td colspan="5" bgcolor="#FF9900" align="right"><a href="/search/"><img src="/inc/img/adv_search.gif" width="100" height="17" hspace="56" border="0" alt="" advanced="" search=""></a><br></td>
-</tr>
-<tr>
-	<td colspan="5" bgcolor="#990000"><img src="/img/spacer.gif" width="1" height="9" alt=""><br></td>
-</tr>
-</tbody></table>
-
-<a name="body"></a>
-
+	<script language="JavaScript">
+		<!--  IDENTIFY DEFAULT MENU TO REMAIN DOWN -->
+			<!--  COMPANY - "company"  -->
+			<!--  PRODUCTS & SOLUTIONS - "products"  -->
+			<!--  EDUCATION & CONSULTING - "education"  -->
+			<!--  SUPPORT & DOWNLOADS - "support"  -->
+			<!--  RESOURSES FOR - "resourcesfor"  -->
+		<!--
+		alwaysDown = "company";
+		//-->
+	</script>
+	<script language="javascript" type="text/javascript" src="/inc/hdr_main.js"></script><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>	<td width="773" rowspan="2" bgcolor="#2e3436"><table width="773" cellpadding="0" cellspacing="0" border="0" bgcolor="#2e3436"><tbody><tr><td width="11"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/tnav_corner1.gif" width="11" height="20" border="0" alt=""></td><td width="100"><a href="http://www.novell.com/products/howtobuy.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/howtobuy.gif" width="93" height="20" border="0" alt="store"></a></td><td width="81"><a href="http://e-portal.novell.com"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/mynovell.gif" width="81" height="20" border="0" alt="my novell"></a></td><td width="65"><a href="https://web.archive.org/web/20020202032355/http://www.novell.com/company/index.html" onmouseover="showMenu('1')"><img name="navImg1" src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/t3_tnav1_on.gif" width="65" height="20" border="0" alt=""></a></td><td width="1"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/t3_line1.gif" width="1" height="20" border="0" alt=""></td><td width="138"><a href="https://web.archive.org/web/20020202032355/http://www.novell.com/products/" onmouseover="showMenu('2')"><img name="navImg2" src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/t3_tnav2.gif" width="138" height="20" border="0" alt=""></a></td><td width="1"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/t3_line2.gif" width="1" height="20" border="0" alt=""></td><td width="147"><a href="https://web.archive.org/web/20020202032355/http://www.novell.com/educationconsulting.html" onmouseover="showMenu('3')"><img name="navImg3" src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/t3_tnav3.gif" width="147" height="20" border="0" alt=""></a></td><td width="1"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/t3_line3.gif" width="1" height="20" border="0" alt=""></td><td width="138"><a href="http://support.novell.com" onmouseover="showMenu('4')"><img name="navImg4" src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/t3_tnav4.gif" width="138" height="20" border="0" alt=""></a></td><td width="1"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/t3_line4.gif" width="1" height="20" border="0" alt=""></td><td width="96"><a href="https://web.archive.org/web/20020202032355/http://www.novell.com/resourcefor.html" onmouseover="showMenu('5')"><img name="navImg5" src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/t3_tnav5.gif" width="96" height="20" border="0" alt=""></a></td></tr></tbody></table></td><td bgcolor="#2e3436"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="3" height="19" border="0" alt=""></td></tr><tr><td bgcolor="#2e3436" background="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/darkdotbg.gif"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="3" height="1" border="0" alt=""></td></tr></tbody></table><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="773" bgcolor="#babdb6" rowspan="2"><table width="773" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="11" bgcolor="#babdb6"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/tnav_corner2.gif" width="11" height="41" border="0" alt=""></td><td width="174" bgcolor="#babdb6"><a href="https://web.archive.org/web/20020202032355/http://www.novell.com/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/logo.gif" width="174" height="41" border="0" alt=""></a></td><td width="514" bgcolor="#babdb6"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="514" height="1" border="0" alt=""></td><td width="73" bgcolor="#babdb6" valign="bottom" align="right"><a href="#" onclick="javascript:showSearch(); return false;"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/search.gif" width="73" height="18" border="0" alt=""></a></td><td width="1" bgcolor="#babdb6" rowspan="2"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/endline.gif" width="1" height="42" border="0" alt=""></td></tr><tr><td width="772" bgcolor="#babdb6" colspan="5"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/dotline.gif" width="772" height="1" border="0" alt=""></td></tr></tbody></table></td><td bgcolor="#babdb6"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="3" height="41" border="0" alt=""></td></tr><tr><td bgcolor="#babdb6" background="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/lightdotbg.gif"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="3" height="1" border="0" alt=""></td></tr></tbody></table>
+	<script language="javascript" type="text/javascript" src="/inc/hdr_script_navlinks.js"></script>	<div class="hdrMenu" id="navMenu1" onmouseover="resetNavTimer()" onmouseout="resetMenu('1')" style="visibility: visible;">		<table width="525" border="0" cellspacing="0" cellpadding="0">			<tbody><tr>				<td class="hdrMenuText">					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/company/careers/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">careers</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/company/cr/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">community relations</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/company/contact.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">contact us</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/success/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">customer wins</a>					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/company/bios/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">executive biographies</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/events/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">events</a>&nbsp;				</td>			</tr>			<tr>				<td class="hdrMenuText">					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/company/ir/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">investor relations</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/company/legal/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">legal</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/partners/corporate/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">novell partnerships</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/company/policies/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">novell policy</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/news/press/pressroom/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">press room</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/company/shareholder/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">shareholder services</a>&nbsp;				</td>			</tr>		</tbody></table>	</div>	<div class="hdrMenu" id="navMenu2" onmouseover="resetNavTimer()" onmouseout="resetMenu('2')" style="visibility: hidden;">		<table width="525" border="0" cellspacing="0" cellpadding="0">			<tbody><tr>				<td class="hdrMenuText">					<a href="http://nw6launch.novell.com/nw6launch/index.jsp"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">NetWare</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/products/groupwise/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">GroupWise</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/products/zenworks/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">ZENworks</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/products/bordermanager/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">BorderManager</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/products/nds/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">eDirectory</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/products/nds/dirxml/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">DirXML</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/products/ichain/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">iChain</a>&nbsp;				</td>			</tr>			<tr>				<td class="hdrMenuText">					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/index/products.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">products a-z</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/solutions/eprovisioning/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">eProvisioning</a>&nbsp;					<a href="http://developer.novell.com/nss/nss_esolution.jsp?solutionKey=3651"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">eSecurity</a>&nbsp;					<a href="http://www.novell.com/solutions/spp/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">secure partner portal</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/solutions/netmanagement/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">net enterprise mgmt</a>&nbsp;				</td>			</tr>		</tbody></table>	</div>	<div class="hdrMenu" id="navMenu3" onmouseover="resetNavTimer()" onmouseout="resetMenu('3')" style="visibility: hidden;">		<table width="525" border="0" cellspacing="0" cellpadding="0">			<tbody><tr>				<td class="hdrMenuText">					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/education/certinfo/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">certification</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/education/learningzone/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">ATT/custom training</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/education/locator/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">training locator</a>&nbsp;					<a href="http://developer.novell.com/training.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">developer training</a>&nbsp;					<a href="http://www.novell.com/education/chaninfo/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">education partners</a>&nbsp;				</td>			</tr>			<tr>				<td class="hdrMenuText">					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/consulting/consulti.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">consulting info</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/consulting/bso/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">solution offerings</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/consulting/solutions/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">custom solutions</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/consulting/onsite/engage.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">engage consulting</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/partners/bso/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">partner opportunity kit</a>&nbsp;				</td>			</tr>		</tbody></table>	</div>	<div class="hdrMenu" id="navMenu4" onmouseover="resetNavTimer()" onmouseout="resetMenu('4')" style="visibility: hidden;">		<table width="525" border="0" cellspacing="0" cellpadding="0">			<tbody><tr>				<td class="hdrMenuText">					<a href="http://support.novell.com/online.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">online product support</a>&nbsp;					<a href="http://support.novell.com/paid.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">paid product support</a>&nbsp;					<a href="http://support.novell.com/search/kb_index.jsp"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">knowledgebase</a>&nbsp;					<a href="http://support.novell.com/forums/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">support forums</a>&nbsp;					<a href="http://support.novell.com/resources.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">other resources</a>&nbsp;				</td>			</tr>			<tr>				<td class="hdrMenuText">				 	<a href="http://developer.novell.com/support/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">developer support</a>&nbsp;					<a href="http://developer.novell.com/ndk/downloadaz.htm"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">developer downloads</a>&nbsp;					<a href="http://beta.novell.com/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">beta downloads</a>&nbsp;					<a href="http://download.novell.com/sdMain.jsp"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">product downloads</a>&nbsp;					<a href="http://support.novell.com/filefinder/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">product updates</a>&nbsp;				</td>			</tr>		</tbody></table>	</div>	<div class="hdrMenu" id="navMenu5" onmouseover="resetNavTimer()" onmouseout="resetMenu('5')" style="visibility: hidden;">		<table width="525" border="0" cellspacing="0" cellpadding="0">			<tbody><tr>				<td class="hdrMenuText">					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/customers/education/edsales/ "><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">academic</a>&nbsp;					<a href="http://partner.novell.com/servlet/partners/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">channel partners</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/partners/corporate/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">corporate partners</a>&nbsp;					<a href="http://developer.novell.com/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">developers</a>&nbsp;				</td>			</tr>			<tr>				<td class="hdrMenuText">					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/industries/healthcare/"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">healthcare</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/customers/smallbusiness/index.html"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">small businesses</a>&nbsp;					<a href="https://web.archive.org/web/20020202032355/http://www.novell.com/customers/sysadmin/index.html "><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/arrow.gif" width="12" height="9" border="0" alt="">system administrators</a>&nbsp;				</td>			</tr>		</tbody></table>	</div>
+	<script language="javascript" type="text/javascript" src="/inc/hdr_script_search.js"></script><div id="SearchPopup" style="position:absolute; top:44px; left:582px; width:190px; z-index:100; visibility:hidden"><form id="SearchForm" name="SearchForm" action="https://web.archive.org/web/20020202032929/http://search.novell.com/NSearch/SearchServlet" method="get" onsubmit="return submitSearch(true);"><input type="HIDDEN" name="theme" value=""><input type="HIDDEN" name="encoding" value="iso-8859-1"><input type="HIDDEN" name="noredirect" value=""><table width="190" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="3"><map name="searchbtn"><area alt="" coords="125,0,190,18" href="#" onclick="hideElement('SearchPopup'); return false;"></map><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/srch/search_on.gif" width="190" height="18" border="0" alt="" usemap="#searchbtn"></td></tr><tr bgcolor="#2e3436"><td width="8"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="8" height="26" alt=""></td><td width="166" class="hdrSearchTitle" align="left">Search for</td><td width="16" class="hdrSearchTitle" align="right" valign="top"><a href="#" onclick="hideElement('SearchPopup'); return false;"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/srch/close.gif" width="16" height="15" border="0" alt=""></a></td></tr><tr bgcolor="#2e3436"><td width="8" rowspan="4"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="8" height="1" alt=""></td><td colspan="2"><input type="text" name="query0" class="searchEntry"></td></tr><tr bgcolor="#2e3436"><td colspan="2"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="1" height="5" alt=""></td></tr><tr bgcolor="#2e3436"><td class="hdr-forms" colspan="2"><select name="collection" class="searchEntry"><option value="">All of Novell</option><option value="Products;Education;Consulting;Company;Support;Developer;Documentation;ctp">in Novell+Cambridge</option><option value="ctp">in Cambridge</option><option value="Products">in Products</option><option value="Education">in Education</option><option value="Consulting">in Consulting</option><option value="Company">in Company</option><option value="Support">in Support</option><option value="Developer">in Developer</option><option value="Documentation">in Documentation</option></select></td></tr><tr bgcolor="#2e3436"><td align="right"><input type="image" name="Input" src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/srch/submit.gif" alt="Submit Search" onclick="submitSearch(false)" border="0"></td><td><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="16" height="26" alt=""></td></tr><tr><td colspan="3"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/srch/line.gif" width="190" height="1" alt=""></td></tr><tr bgcolor="#2e3436"><td><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="1" height="15" alt=""></td><td colspan="2"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/srch/adv.gif" width="147" height="7" alt=""></td></tr><tr><td colspan="3"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/srch/line.gif" width="190" height="1" alt=""></td></tr><tr bgcolor="#2e3436"><td><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="1" height="26" alt=""></td><td class="hdrSearchTitle" align="left">Find pages that contain</td><td rowspan="2">&nbsp;</td></tr><tr bgcolor="#2e3436"><td>&nbsp;</td><td class="hdrSearchText" valign="top"><input type="radio" name="operator0" value="0" class="hdrSearchText" checked="">all of these words<br><input type="radio" name="operator0" value="1" class="hdrSearchText">at least one of these words<br><input type="radio" name="operator0" value="2" class="hdrSearchText">this exact phrase<br>&nbsp;</td></tr><tr><td colspan="3"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/srch/line.gif" width="190" height="1" alt=""></td></tr><tr bgcolor="#2e3436"><td><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="1" height="26" alt=""></td><td class="hdrSearchTitle" align="left">Date Range</td><td rowspan="2">&nbsp;</td></tr><tr bgcolor="#2e3436"><td>&nbsp;</td><td class="hdr-forms"><select name="date" class="hdr-forms"><option value="">All Dates</option><option value="-604800000">Last 1 week</option><option value="-2635200000">Last 1 month</option><option value="-7905600000">Last 3 months</option><option value="-15768000000">Last 6 months</option><option value="-31536000000">Last 1 year</option><option value="-94608000000">Last 3 years</option></select></td></tr><tr bgcolor="#2e3436"><td colspan="3"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="1" height="5" alt=""></td></tr><tr><td colspan="3"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/srch/line.gif" width="190" height="1" alt=""></td></tr><tr bgcolor="#2e3436"><td><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="1" height="26" alt=""></td><td class="hdrSearchTitle" align="left">Hits Per Page</td><td rowspan="2">&nbsp;</td></tr><tr bgcolor="#2e3436"><td>&nbsp;</td><td class="hdr-forms"><select name="numhits" class="hdr-forms"><option value="10" selected="">10</option><option value="25">25</option><option value="50">50</option><option value="100">100</option></select></td></tr><tr bgcolor="#2e3436"><td colspan="3"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="1" height="5" alt=""></td></tr><tr><td colspan="3"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/hdr/srch/line.gif" width="190" height="1" alt=""></td></tr><tr bgcolor="#2e3436"><td><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="1" height="26" alt=""></td><td class="hdrSearchTitle" align="left">Result List Format</td><td rowspan="2">&nbsp;</td></tr><tr bgcolor="#2e3436"><td>&nbsp;</td><td class="hdrSearchText"><input type="radio" name="template" value="ResultListTerseTemplate.html" class="hdrSearchText" checked="">basic (URL only)<br><input type="radio" name="template" value="" class="hdrSearchText">normal (URL and Description)<br><input type="radio" name="template" value="ResultListVerboseTemplate.html" class="hdrSearchText">detailed (Everything)<br></td></tr><tr bgcolor="#2e3436"><td colspan="3"><img src="https://web.archive.org/web/20020202032355/https://secure-www.novell.com/img/spacer.gif" width="1" height="8" alt=""></td></tr></tbody></table></form></div>
 <!--*Robots Index -->
-
 <!--  END VIRTUAL SECTION HEADER INCLUDE  -->
 <!--------------------------------------------------------->
 <!--  BEGIN BODY TABLE  -->
@@ -731,26 +354,25 @@ Novell is a premier sponsor of <b>TRUSTe</b> and a member of the <b>TRUSTe priva
 				<!--------------------------------------------------------->
 			</tbody></table>
 		</td>
-		<td bgcolor="#CC0000" width="100%">&nbsp; </td>
-		<td bgcolor="#CC0000"><img src="/img/spacer.gif" width="1" height="1"></td>
+		<td bgcolor="#FFFFFF" width="2"><img src="/img/spacer.gif" width="2" height="1" alt=""></td>
+		<td bgcolor="#FF9933" width="1"><img src="/img/spacer.gif" width="1" height="1" alt=""></td>
+		<td bgcolor="#FFFFFF" width="100%"><img src="/img/spacer.gif" width="1" height="1" alt=""></td>
 	</tr>
 </tbody></table>
 <!--  END BODY TABLE  -->
 <!---------------------------------------------------------> 
 <!--  BEGIN VIRTUAL FOOTER INCLUDE  -->
-	<!--  BEGIN FOOTER  -->
-<!--*Robots NoIndex -->
+	<!--*Robots NoIndex -->
+	<script language="javascript" type="text/javascript" src="http://www.novell.com/inc/footer.js"></script>
+	<script language="javascript" type="text/javascript" src="http://www.novell.com/inc/superstats.js"></script>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td bgcolor="#990000" align="center" valign="middle" nowrap=""><div class="footerText"><a href="/index/">SITE INDEX</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/servlet/com.novell.services.it.PubSys.swapper">TEXT ONLY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/company/legal/">LEGAL © 2001 NOVELL, INC.</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="/company/policies/privacy/">PRIVACY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://webapps.novell.com/cgi-bin/custom/corp/feedback.pl">FEEDBACK</a></div></td>
-	</tr>
-</tbody></table>
-
+	<script language="JavaScript1.2" src="http://www.novell.com/opinionlab/onlineopinion.js" type="text/javascript"></script>
+	<script language="JavaScript1.2" type="text/javascript">
+	<!--
+	O_Go();
+	//-->
+	</script>
 <!--*Robots Index -->
-<!--  END FOOTER  -->
-
-
 <!--  END VIRTUAL FOOTER INCLUDE  --> 
 <!--------------------------------------------------------->
 
