@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202153708id_/http%3A//durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402164436id_/http%3A//durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
 
 # Durham Technical Community College Web Site Privacy Policy
 
-  
-Our Web site does not track, collect, or distribute **personal** information about visitors. 
+Our Web site does not track, collect, or distribute personal information about visitors. 
 
-Our web server automatically records **general** information on all users who browse the content of our site. The data collection includes: 
+Our web server automatically records general information on all users who browse the content of our site. The data collection includes: 
 
   * Your IP address. This information does not result in the identification of your personal email address or other personal information.
 
@@ -24,5 +23,4 @@ Our web server automatically records **general** information on all users who br
 
 
 
-This information is analyzed to help us improve the site's organization, performance, and usefulness. This information is only examined in the aggregate, not at the individual level. We never sell or rent information to any third parties under any circumstances.   
-
+This information is analyzed to help us improve the site's organization, performance, and usefulness. This information is only examined in the aggregate, not at the individual level. We never sell or rent information to any third parties under any circumstances. 
