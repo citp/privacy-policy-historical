@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621154708id_/http%3A//wirednewyork.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206051736id_/http%3A//www.wirednewyork.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Wired New York Privacy Policy
 
 | 
 
-[Home](https://web.archive.org/web/20030621154708id_/http%3A/default.htm) / Privacy Policy
+[Home](https://web.archive.org/web/20031206051736id_/http%3A/default.htm) / Privacy Policy
 
 ##  How we gather information from users
 
