@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcvb.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031758id_/http%3A//www.thebostonchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcvb.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412183444id_/http%3A//www.thebostonchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheBostonChannel.com - News
 
