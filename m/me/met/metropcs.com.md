@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622115344id_/http%3A//metropcs.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204212803id_/http%3A//www.metropcs.com/privacy.shtml) for the most accurate reproduction.*
 
 # MetroPCS » privacy policy
 
@@ -16,7 +16,7 @@ We may use or disclose Customer Service Information that we collect about you as
 
 
 
-In addition, you can compel us to disclose Customer Service Information about you to any person by writing to us at the address listed above in the "Notices" section. 
+In addition, you can compel us to disclose Customer Service Information about you to any person by writing to us at the address listed in the ‘Notices’ section of the [Terms and Conditions](https://web.archive.org/terms.shtml) page
 
 MetroPCS is constantly striving to enhance the quality and selection of the products and services that we offer to you as our customer. As a result, we reserve the right to share information, including Customer Service Information, about you with others such as retailers and direct marketers that we select in an effort to make you aware of additional products and services that may be of interest to you. You have the right to opt out of our use and sharing of Customer Service Information for this purpose. If you choose to opt out of this use and disclosure of Customer Service Information, however, it will make it more difficult for us to offer you products and services tailored to your needs. You can direct us at any time:
 
@@ -26,7 +26,7 @@ MetroPCS is constantly striving to enhance the quality and selection of the prod
 
 
 
-by writing to us at the address listed above in the "Notices" section, or by visiting our website at http://www.metropcs.com. Your opt out direction will continue to apply until you notify us that you would like to revoke or limit it. Your decision to opt out will not affect our provision of Service to you. 
+by writing to us at the address listed above in the "Notices" section section of the [Terms and Conditions](https://web.archive.org/terms.shtml) page, or by visiting our website at http://www.metropcs.com. Your opt out direction will continue to apply until you notify us that you would like to revoke or limit it. Your decision to opt out will not affect our provision of Service to you. 
 
 IN CONNECTION WITH THE SALE OR TRANSFER OF ALL OR A PORTION OF OUR BUSINESS INTERESTS, MetroPCS MAY TRANSFER PERSONALLY-IDENTIFIABLE INFORMATION WE HAVE COLLECTED ABOUT YOU (INCLUDING, BUT NOT LIMITED TO, CUSTOMER SERVICE INFORMATION AND IDENTIFYING INFORMATION SUCH AS YOUR ADDRESS, NAME, AGE, SEX, ZIP CODE, STATE AND COUNTRY OF RESIDENCY) TO A THIRD PARTY ENTITY THAT AGREES TO BE MetroPCS'S SUCCESSOR IN INTEREST WITH REGARD TO THE PROVISION OF SERVICE UNDER THIS AGREEMENT AND THE MAINTENANCE AND PROTECTION OF SUCH INFORMATION.
 
