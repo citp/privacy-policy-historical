@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningplanet.com privacy policy that was archived on 2000-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000601062141id_/http%3A//www.learningplanet.com/about5.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningplanet.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217045000id_/http%3A//www.learningplanet.com/about5.htm) for the most accurate reproduction.*
 
 # Learning Planet Privacy Statement
 
