@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbfsms.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603174127id_/http%3A//www.cbfmail.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbfsms.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201170931id_/http%3A//www.cbfmail.com/privacy.htm) for the most accurate reproduction.*
 
 # CBFMail.com
 
