@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611183756id_/http%3A//www.asme.org/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082709id_/http%3A//www.asme.org/terms/privacy.html) for the most accurate reproduction.*
 
 # ASME Terms of Use
 
 **ASME.ORG Privacy and Security Statement**
 
-[Terms of Use](https://web.archive.org/web/20040611183756id_/http%3A//www.asme.org/terms/index.html)
+[Terms of Use](https://web.archive.org/web/20041204082709id_/http%3A//www.asme.org/terms/index.html)
 
 Last Revised: July 16, 2003
 
@@ -68,9 +68,9 @@ You can let us know that you do not wish to receive information by contacting us
 **Sharing Information with Third Parties**  
 ASME International may share your information with third parties that offer information, goods or services that we think may be of interest to you. If you do not wish your information to be shared with third parties, please contact ASME International at [infocentral@asme.org](mailto:infocentral@asme.org) and we will respect your request.
 
-ASME International will not share your email address with any third party; we use email addresses only for internal purposes and to promote efficient communications between ASME International and its members and customers.
+ASME does not share your e-mail address with any third party advertisers; we use email addresses only for internal purposes and to promote efficient communications between ASME International and its members and customers.
 
-ASME International uses third party network advertisers such as [list, e.g., "DoubleClick"] to deliver ads to you on our behalf. We may also use third-party service providers to facilitate some aspects of our Web site services or fulfill your requests. These service providers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.
+ASME International sometimes uses third party networks such as (list, e.g., "DoubleClick") to deliver ads to you on ASME's behalf. We may also use third-party service providers to facilitate some aspects of our Web site services or fulfill your requests. These service providers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.
 
 We may disclose and use personally identifiable information in special circumstances where it is necessary to protect our proprietary rights, in connection with a sale or transfer of some or all of our assets in ASME.ORG, or when we, in good faith, believe that the law requires us to do so.
 
