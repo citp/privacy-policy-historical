@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairlosstalk.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205120648id_/http%3A//www.hairlosstalk.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairlosstalk.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205115822id_/http%3A//www.hairlosstalk.com/privacy.htm) for the most accurate reproduction.*
 
 # Hair Loss Talk.com
 
@@ -24,11 +24,11 @@ HairlossTalk.com will disclose your personal information, without notice, only i
 
 There are only three locations where we collect information from you, and all are done with your knowledge and consent:
 
-  * The [ Contact Us](https://web.archive.org/web/20011205120648id_/http%3A//www.hairlosstalk.com/contact.htm) Form - Information entered here is used solely to communicate back with you, and qualify you for our Monthly newsletter which is emailed with a special opt-out option in the event you do not wish to continue receiving them.
+  * The [ Contact Us](https://web.archive.org/web/20020205115822id_/http%3A//www.hairlosstalk.com/contact.htm) Form - Information entered here is used solely to communicate back with you, and qualify you for our Monthly newsletter which is emailed with a special opt-out option in the event you do not wish to continue receiving them.
   * [Discussion Forum](http://www.hairlosstalk.com/discus/) \- Assuming you choose to register a Username and Profile.
   * Forms - There are various forms throughout the site.  Some appear in newsletters, some on product information pages.  These forms are used typically for you to request more information on a topic, or register for a study or event.  Your information is used only to complete the goal of the form, whether it be sending you the information, or enrolling you in a study.
   * Email - There are locations throughout the site where you are able to email us to request more information on a product.  In these cases, we have established an agreement with the product vendor that your email will not be resold to any third party, and that you will only receive the information you have requested.
-  * [Newsletter Registration Forms](https://web.archive.org/web/20011205120648id_/http%3A//www.hairlosstalk.com/new.htm) \- Boxes appear throughout the site allowing you to register for our Monthly Newsletter.  Information entered here is Email address only, and is used to register the user for our Monthly Newsletter and upcoming chat announcements.  This information is kept 100% strictly confidential.  No 2nd or Third party will ever receive our newsletter mailing list from us, and you will receive an email only once per month.
+  * [Newsletter Registration Forms](https://web.archive.org/web/20020205115822id_/http%3A//www.hairlosstalk.com/new.htm) \- Boxes appear throughout the site allowing you to register for our Monthly Newsletter.  Information entered here is Email address only, and is used to register the user for our Monthly Newsletter and upcoming chat announcements.  This information is kept 100% strictly confidential.  No 2nd or Third party will ever receive our newsletter mailing list from us, and you will receive an email only once per month.
   * [Online Product Center](https://id64.securedata.net/hairlosstalk/catalog/default.php) \- Information collected here is very personal, including name, address, phone, email, and credit card billing information.  All of this information is collected on a secure server for your protection, and is only used to communicate your interest in the products to the product vendors themselves.
 
 
