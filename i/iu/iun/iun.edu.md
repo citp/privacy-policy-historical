@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iun.edu privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208022721id_/http%3A//www.itpo.iu.edu/OLPS.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iun.edu privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207022346id_/http%3A//www.itpo.iu.edu/OLPS.htm) for the most accurate reproduction.*
 
 # DRAFT--3/7/02
 
