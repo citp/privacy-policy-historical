@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottery.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619213351id_/http%3A//www.lottery.com/privacy/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottery.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207110400id_/http%3A//www.lottery.com/privacy/policy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
