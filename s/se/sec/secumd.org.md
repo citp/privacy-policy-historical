@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210162712id_/http%3A//www.secumd.org/html/security_privacy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306114531id_/http%3A//www.secumd.org/html/security_privacy/privacy_policy.htm) for the most accurate reproduction.*
 
 # SECU Credit Union | Security/Privacy: Privacy Policy
 
@@ -29,6 +29,10 @@ We do not disclose any nonpublic personal information about our members or forme
 **How SECU Protects Your Information**
 
 We restrict access to nonpublic personal information about you to those employees who have a specific business purpose in utilizing your data. Our employees are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information.
+
+ **Third-Party Links Disclaimer**
+
+Links are available on SECU Credit Union's website that allow convenient access to other sites that may be of interest. Clicking on a link may take you out of SECU's website to an alternative website not operated by SECU Credit Union. SECU is not responsible for content on third-party websites and does not represent either the third-party websites or the member if he or she enters into a transaction. While we hope these organizations join us in respecting your privacy, SECU Credit Union is not responsible for the content, products, services, or privacy practices of these third-party websites. Linked sites may have privacy policies that are different from SECU Credit Union. We encourage you to read the privacy policy of every website you visit.
 
 **SECU's Right to Amend**
 
