@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606022818id_/http%3A//cracker.com.au/static/Help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217185637id_/http%3A//cracker.com.au/static/Help/privacy.htm) for the most accurate reproduction.*
 
 # Cracker Privacy Policy
 
@@ -15,7 +15,7 @@ This policy sets out how Cracker uses your personal information and explains:
 
 
 
-The Cracker business name and website is an online property of f2 Limited, f2 Australia & New Zealand Pty Limited.
+The Cracker business name and website is an online property of Fairfax Digital Limited, Fairfax Digital Australia & New Zealand Pty Limited.
 
 This policy applies to cracker.com.au and explains how Cracker uses personal information collected through the Cracker website. 
 
