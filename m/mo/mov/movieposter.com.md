@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieposter.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203084114id_/http%3A//movieposter.com/cgi-bin/mpw8/new_footer.pl%3Fsrc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieposter.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610142834id_/http%3A//www.movieposter.com/cgi-bin/mpw8/new_footer.pl%3Fsrc%3D1) for the most accurate reproduction.*
 
 # movie posters at movie poster warehouse movieposter.com
 
