@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622140939id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010632id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
 # Internet Privacy and Security Policy
 
@@ -7,24 +7,24 @@
 **Resources for:**  
   
 ---  
-**-** [Citizens](https://web.archive.org/web/20030622140939id_/http%3A//citizens/)  
-**-** [Individuals with Disabilities](https://web.archive.org/web/20030622140939id_/http%3A//disa/)  
-**-** [Licensed Professionals](https://web.archive.org/web/20030622140939id_/http%3A//professionals/)  
-**-** [Parents](https://web.archive.org/web/20030622140939id_/http%3A//parents/)  
-**-** [School Administrators](https://web.archive.org/web/20030622140939id_/http%3A//schooladmin/)  
-**-** [Students](https://web.archive.org/web/20030622140939id_/http%3A//students/)  
-**-** [Teachers](https://web.archive.org/web/20030622140939id_/http%3A//teachers/)  
+**-** [Citizens](https://web.archive.org/web/20031205010632id_/http%3A//citizens/)  
+**-** [Individuals with Disabilities](https://web.archive.org/web/20031205010632id_/http%3A//disa/)  
+**-** [Licensed Professionals](https://web.archive.org/web/20031205010632id_/http%3A//professionals/)  
+**-** [Parents](https://web.archive.org/web/20031205010632id_/http%3A//parents/)  
+**-** [School Administrators](https://web.archive.org/web/20031205010632id_/http%3A//schooladmin/)  
+**-** [Students](https://web.archive.org/web/20031205010632id_/http%3A//students/)  
+**-** [Teachers](https://web.archive.org/web/20031205010632id_/http%3A//teachers/)  
   
 **Information about:**  
   
-**-** [Grants & Finance](https://web.archive.org/web/20030622140939id_/http%3A//grants/)  
-**-** [Higher Education](https://web.archive.org/web/20030622140939id_/http%3A//highered/)  
-**-** [Laws & Regulations](https://web.archive.org/web/20030622140939id_/http%3A//lawsregs/)  
-**-** [Licensing & Certification](https://web.archive.org/web/20030622140939id_/http%3A//licensing/)  
-**-** [Museum, Library & Archives](https://web.archive.org/web/20030622140939id_/http%3A//museum/)  
-**-** [PreK-Adult Education](https://web.archive.org/web/20030622140939id_/http%3A//prekadult/)  
+**-** [Grants & Finance](https://web.archive.org/web/20031205010632id_/http%3A//grants/)  
+**-** [Higher Education](https://web.archive.org/web/20031205010632id_/http%3A//highered/)  
+**-** [Laws & Regulations](https://web.archive.org/web/20031205010632id_/http%3A//lawsregs/)  
+**-** [Licensing & Certification](https://web.archive.org/web/20031205010632id_/http%3A//licensing/)  
+**-** [Museum, Library & Archives](https://web.archive.org/web/20031205010632id_/http%3A//museum/)  
+**-** [PreK-Adult Education](https://web.archive.org/web/20031205010632id_/http%3A//prekadult/)  
 **[SED PORTAL Log In](http://portal.nysed.gov/pls/portal30/)**  
-|  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20030622140939id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
+|  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20031205010632id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
 
 
 Internet Privacy and Security Policy
