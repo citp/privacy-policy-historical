@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604210426id_/http%3A//cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207114729id_/http%3A//cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.*
 
 # Make money online: Cashfiesta Policies
 
