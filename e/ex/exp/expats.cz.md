@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2003-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030803082700id_/http%3A//www.expats.cz/cgi-bin/go.cgi%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611101257id_/http%3A//www.expats.cz/cgi-bin/go.cgi%3Fprivacy) for the most accurate reproduction.*
 
-# Expats.cz - Prague Expat Community Web site
+# SMS Gate
 
 **Expats.cz has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by Expats.cz from time to time. Expats.cz will provide notice of materially significant changes to this privacy policy by posting notice on the Expats.cz site.  
 **
