@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idfpr.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204093236id_/http%3A//www.idfpr.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idfpr.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305032322id_/http%3A//www.idfpr.com/privacystatement.asp) for the most accurate reproduction.*
 
 # State of Illinois Department of Financial and Professional Regulation
 
