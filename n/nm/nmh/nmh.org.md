@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmh.org privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409174816id_/http%3A//www.nmh.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmh.org privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607134902id_/http%3A//www.nmh.org/privacy_statement.html) for the most accurate reproduction.*
 
 # Northwestern Memorial Website Privacy Statement
 
