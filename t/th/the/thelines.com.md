@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelines.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603050646id_/http%3A//thelines.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelines.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024043543id_/http%3A//www.thelines.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for The Lines
 
@@ -29,7 +29,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   1. You can send email to [info@thelines.com](mailto:info@thelines.com)
-  2. You can visit the following URL: [www.thelines.com](https://web.archive.org/web/20010603050646id_/http%3A//thelines.com/www.thelines.com)
+  2. You can visit the following URL: [www.thelines.com](https://web.archive.org/web/20011024043543id_/http%3A//www.thelines.com/www.thelines.com)
   3. You can send mail to the following postal address:
 
 7802 11th Ave NE, Seattle, WA 98115
@@ -39,7 +39,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided.
 
   1. email [info@thelines.com](mailto:info@thelines.com)
-  2. visit [www.thelines.com](https://web.archive.org/web/20010603050646id_/http%3A//thelines.com/www.thelines.com)
+  2. visit [www.thelines.com](https://web.archive.org/web/20011024043543id_/http%3A//www.thelines.com/www.thelines.com)
 
 
 
