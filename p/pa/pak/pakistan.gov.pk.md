@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistan.gov.pk privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistan.gov.pk privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/Privacy.jsp) for the most accurate reproduction.*
 
 # Pakistan.Gov - Privacy Policy
 
@@ -9,11 +9,11 @@ My Pakistan.Gov
   
   
 [ Login   
-](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/login.jsp)   
+](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/login.jsp)   
   
   
 [ Register as a New User   
-](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/register.jsp)   
+](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/register.jsp)   
   
   
   
@@ -21,24 +21,24 @@ Reference
   
   
   
-What's New in Pakistan.Gov  
+[ What's New in Pakistan.Gov  
+](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/SiteMap.jsp)   
   
   
-  
-[ Gazette Notifications  
-](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/gazpak.jsp)   
-  
-  
-[ News & Press Releases  
-](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/newsListing.jsp)   
+[ The Gazette of Pakistan  
+](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/gazpak.jsp)   
   
   
-[ Tender & EOI Notices  
-](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/tendersListing.jsp)   
+[ Official News  
+](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/newsListing.jsp)   
   
   
-[ Jobs   
-](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/jobsListing.jsp)   
+[ Government Tender Notices  
+](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/tendersListing.jsp)   
+  
+  
+[ Government Jobs   
+](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/jobsListing.jsp)   
   
   
 Queries   
@@ -46,7 +46,7 @@ Queries
   
   
 [ Contact the Government  
-](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/Complaints.jsp)   
+](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/Complaints.jsp)   
   
   
 Feedback   
@@ -54,9 +54,9 @@ Feedback
   
   
 [ Comments & Suggestions for Pakistan.Gov  
-](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/Suggestions.jsp) |     
+](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/Suggestions.jsp) |     
 |    
-[Home](https://web.archive.org/web/20021003062911id_/http%3A//www.pakistan.gov.pk/index.jsp) > Privacy Policy  
+[Home](https://web.archive.org/web/20030207105332id_/http%3A//www.pakistan.gov.pk/index.jsp) > Privacy Policy  
   
 Privacy Policy  
   
