@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008182036id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604230020id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**SWAPALEASE INC. PRIVACY STATEMENT**  
+**SWAPALEASE INC. PRIVACY STATEMENT  
+**EFFECTIVE ON: 5/19/2004** **  
 ---  
 | [](https://www.truste.org/validate/8927) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Swapalease.com of Swapalease Inc.'s Website.  
 ---|---  
@@ -49,13 +50,16 @@ Some of our business partners use cookies on our site (for example, advertisers)
 **Sharing  
 **We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
-We use an outside credit card processing company to bill users for services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.  
+We use an outside credit card processing company to bill users for services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
+
+For users completing the "Publisher Application", a 3rd party, Commission Junction Inc. is collecting user data and storing this information outside of the Swapalease website.  
   
 **Links  
 **This web site contains links to other sites. Please be aware that Swapalease Inc. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.  
   
 **Surveys & Contests  
-**From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.  
+**From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. If these surveys or contests are administered by a 3rd party, the information you provide will be given to the 3rd party. This information will not be used for marketing or contacting you outside of the Swapalease system by any 3rd parties. You may contact Swapalease at 1-866-SWAPNOW (1-866-792-7669) if you do not wish to have your information given to 3rd parties.  
+  
   
 **Security  
 **This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
@@ -86,7 +90,7 @@ For example, to determine if our customers qualify (meet generally accepted leas
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.  
   
 **Notification of Changes  
-**If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
+**If we decide to change our privacy policy, we will post those changes on our Homepage 30 days prior to making the changes so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
   
 **Legal Disclaimer  
 **Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.  
