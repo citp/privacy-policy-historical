@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412021012id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203065754id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
@@ -77,24 +77,34 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 
 **Partner Sites**  
    
+[FontFinder.ws](http://www.fontfinder.ws/)  
 [1001 Winamp Skins](http://www.1001winampskins.com/)  
 [1001 ICQ Skins](http://www.1001icqskins.com/)
 
 [**Printer Supplies**](https://web.archive.org/low_on_ink.html)  
    
-[411Inkjets.com](http://www.qksrv.net/click-797593-5038903)  
-[123Inkjets.com](http://www.qksrv.net/click-797593-512018)  
-[All-Ink.com](http://www.qksrv.net/click-797593-489930)  
-[00inkjets.com](http://www.qksrv.net/click-797593-5046826)  
-[Proinkjets.com](http://www.qksrv.net/click-797593-597688)
+[Ink4art.com](http://www.qksrv.net/click-797593-8791513)  
+[4inkjets.com](http://www.qksrv.net/click-797593-9224636)  
+[Inkjets.com](http://www.qksrv.net/click-797593-7050732)  
+[Mrinkman.com](http://www.qksrv.net/click-797593-804984) [123Inkjets.com](http://www.qksrv.net/click-797593-512018)
 
-[**Top Font Links**](https://web.archive.org/font_links.html)  
+[**Pay Fonts**](https://web.archive.org/font_paylinks.html)  
    
-[PCfonts.com](http://www.pcfonts.com/rankem.html?action=in&id=giotto)  
-[Abstract Fonts](http://www.abstractfonts.com/fonts/partners/in.htm?id=1001fonts)  
-[Top20Free.com](http://www.top20free.com/cgi-bin/rankem.cgi?action=in&id=1001font)  
+[FontFinder.ws](http://www.fontfinder.ws/)  
 [Fonts.com](http://www.qksrv.net/click-797593-5765012)  
-[ITCFonts.com](http://www.qksrv.net/click-797593-5529320)  
+[ITCFonts.com](http://www.qksrv.net/click-797593-5529320)
+
+**Free Fonts**  
+   
+[FontFinder.ws](http://www.fontfinder.ws/)  
+[TopFreeFonts.com](http://www.topfreefonts.com/cgi-bin/autorank/rankem.cgi?id=1001font)  
+[AbstractFonts.com](http://www.abstractfonts.com/fonts/partners/in.htm?id=1001fonts)  
+[Best100Free.com](http://www.best100free.com/in.asp?id=1001fonts)  
+[HighFonts.com](http://www.highfonts.com/in.asp?id=1001fonts)
+
+**Font Designers**  
+   
+[pizzadude.dk](http://www.pizzadude.dk/home.html)  
 [larabiefonts.com](http://www.larabiefonts.com/)
 
 |  
