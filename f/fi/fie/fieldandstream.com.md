@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fieldandstream.com privacy policy that was archived on 2000-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000511030852id_/http%3A//www.fieldandstream.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldandstream.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212015500id_/http%3A//fieldandstream.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Field & Stream Online -- Hunting, Fishing and the Great Outdoors
 
