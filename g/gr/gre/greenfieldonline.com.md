@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2002-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021114050745id_/http%3A//www.greenfieldonline.com/memberservices/Privstate.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628060105id_/http%3A//www.greenfieldonline.com/memberservices/Privstate.htm) for the most accurate reproduction.*
 
 # Greenfield Online
 
-This overall Privacy Statement verifies that **Greenfield Online** is a member of the [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) program and is in compliance with [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) privacy principles. This statement discloses the privacy practices for the entire greenfieldonline.com website. 
+Greenfield Online adheres to the principles set forth in the Safe Harbor framework as established by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information provided to Greenfield Online from the European Union.
 
-[**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) is an independent, nonprofit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because **Greenfield Online** wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html). When you visit a website displaying the [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) mark, you can expect to be notified of the following: 
+  This overall Privacy Statement verifies that **Greenfield Online** is a member of the [**TRUSTe**](http://www.truste.org/users/users_watchdog.html) program and is in compliance with [**TRUSTe**](http://www.truste.org/users/users_watchdog.html) privacy principles. This statement discloses the privacy practices for the entire greenfieldonline.com website. 
+
+[**TRUSTe**](http://www.truste.org/users/users_watchdog.html) is an independent, nonprofit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because **Greenfield Online** wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by [**TRUSTe**](http://www.truste.org/users/users_watchdog.html). When you visit a website displaying the [**TRUSTe**](http://www.truste.org/users/users_watchdog.html) mark, you can expect to be notified of the following: 
 
   * What information this site gathers/tracks about you. 
   * What this site does with the information it gathers/tracks. 
@@ -19,21 +21,23 @@ This overall Privacy Statement verifies that **Greenfield Online** is a member o
   * This site’s policy regarding legal disclaimers. 
   * This site’s policy regarding children's privacy.
 
-Questions regarding this statement should be directed to the **Greenfield Online** site coordinator at privacy@greenfieldonline.com or [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) for clarification. To return to our site, please use the "Back" button on your browser. 
+Questions regarding this statement should be directed to the **Greenfield Online** site coordinator at [privacy@greenfieldonline.com](mailto:privacy@greenfieldonline.com) or [**TRUSTe**](http://www.truste.org/users/users_watchdog.html) for clarification. To return to our site, please use the "Back" button on your browser. 
 
-### Overall Privacy Commitment 
+### Overall Privacy
 
-**Greenfield Online** is a full-service marketing research provider that maintains large online consumer Panels. You can be assured your privacy and the confidentiality of your information is our number one priority. All of our research studies report aggregate information, that is, information about groups—not individuals. Individual information is never reviewed or published, as it is irrelevant to our research. All individual information provided is held strictly confidential. 
+### Commitment
+
+**Greenfield Online** is an online data collection company focused on providing high quality data to the full-service marketing research industry. We build and maintain large online consumer Panels. You can be assured your privacy and the confidentiality of your information is our number one priority. All of the data that Greenfield Online collects in our research studies report as aggregate information, that is, information about groups - not individuals. Individual information is never reviewed or published, as it is irrelevant to the research conducted by our clients. All individual information provided is held strictly confidential.
 
 ### The Information We Gather
 
-To become a panel member, we ask that you fill out a registration survey that gathers some personal and general consumer information. We ask for your email address so that we can send you email invitations to participate in our upcoming surveys. The other information we gather, such as your name, address, gender, birthday, and employment status, is for matching you with the appropriate marketing research projects. Your birthday is used to automatically update your age for us to target age-related marketing groups. We ask you for this information as a means to see if you might qualify for particular projects. All email contact from **Greenfield Online** will be sent to your primary email address that you gave to us upon registration. If you become a panel member, your information (name, address, city, state, and Zip) is also used for the purposes of incentive fulfillment. When you receive a deposit in your account and wish to redeem it, this information is required so that we may send your check to the apporpriate recipient address. From time to time, a third party may be used for issuing checks; your personally identifiable information will not be used for any other reason, but to mail you your check. 
+Greenfield Online gathers personal information when individuals register to become member of our panels, after registration we ask panel members to provide us with more personal information so that we may invite them to appropriate surveys. To become a panel member, we ask that you fill out a registration survey that gathers some personal and general consumer information. We ask for your email address so that we can send you email invitations to participate in our upcoming surveys. The other information we gather, such as your name, address, gender, birthday, and employment status, is for matching you with the appropriate marketing research projects. Your birthday is used to automatically update your age for us to target age-related marketing groups. We ask you for this information as a means to see if you might qualify for particular projects. All email contact from **Greenfield Online** will be sent to your primary email address that you gave to us upon registration. If you become a panel member, your information (name, address, city, state, and Zip) is also used for the purposes of incentive fulfillment. When you receive a deposit in your account and wish to redeem it, this information is required so that we may send your check to the appropriate recipient address. From time to time, a third party may be used for issuing checks; your personally identifiable information will not be used for any other reason, but to mail you your check. 
 
 If you take a survey or provide us with personal information without being a member of our panel, the only personally identifiable information we will preserve is your email address. We do this so we may contact you if you have won a prize or are entitled to an incentive and to limit the number of times that you are eligible to take a survey. Unless you elect to become a member of the **Greenfield Online** panel, we will not contact you for any reason other than to notify you that you have won a prize or are eligible for an incentive. If you are entitled to a prize or an incentive, we will collect and maintain such personally identifiable information, as we are required to maintain or report by virtue of any law or regulation. 
 
 ### Use of This Information 
 
-If you are a member of the **Greenfield Online** panel, your information is stored in our proprietary database so we may call upon it to determine which people match up with specific research studies. If we think your profile makes you a potential candidate for a study, we will email you an invitation to make you aware of this opportunity. From time to time **Greenfield Online** may use third-party software for email list management and email distribution. 
+Greenfield Online does not sell or transfer the personally indentifiable information collected about the members of its panels or the individuals that take surveys for us. Information which is personally indentifiable will only be transferred with your prior permission on a case by case basis. If you are a member of the **Greenfield Online** panel, your information is stored in our proprietary database so we may call upon it to determine which people match up with specific research studies. If we think your profile makes you a potential candidate for a study, we will email you an invitation to make you aware of this opportunity. From time to time **Greenfield Online** may use third-party software for email list management and email distribution. In such cases only a minimum amount of information is transferred to these third parties so as to enable them to perform specific functions on out behalf. 
 
 ### The Use of Cookies on Our Site 
 
@@ -45,7 +49,7 @@ We provide you with a Members Area on our site; here you may correct or update y
 
 ### Opt-Out Policy
 
-By becoming a **Greenfield Online** panel member, you agree to receive emails inviting you to participate in surveys that we feel may match your experiences and background. You also agree to the automatic establishment of your personal prized account. From time to time, we will also email newsletters to you to make you aware of new features or contests running on our site. You may update your registration information at any time. Please see Correct/Update Policy below. 
+By becoming a **Greenfield Online** panel member, you agree to receive emails inviting you to participate in surveys that we feel may match your experiences and background. You also agree to the automatic establishment of your personal prize account. From time to time, we will also email newsletters to you to make you aware of new features or contests running on our site. You may update your registration information at any time. Please see Correct/Update Policy below. 
 
 ### Correct/Update Policy
 
@@ -53,7 +57,7 @@ If you need to correct any of your profile information or if you would like to u
 
 ### Delete/Deactivate Policy
 
-If you choose to end your membership with **Greenfield Online** , you may automatically delete your profile information by clicking on Delete Membership under [**Your Profile**](http://www.greenfieldonline.com/memberservices/accountlinks.asp) found in the Members area. By following the appropriate directions, your information will be deleted, and you will no longer receive communications from **Greenfield Online**. Please allow two to three business days for your information to be completely removed from all of our records. Or you may send an email directly to **help@greenfieldonline.com** requesting to be removed. Email links are provided on the site so that you may contact us directly with any questions or concerns you may have. Each email we receive is read and responded to individually; please allow two to three business days for us to get back to you. 
+If you choose to end your membership with **Greenfield Online** , you may automatically delete your profile information by clicking on Delete Membership under [**Your Profile**](http://www.greenfieldonline.com/memberservices/accountlinks.asp) found in the Members area. By following the appropriate directions, your information will be deleted, and you will no longer receive communications from **Greenfield Online**. Please allow two to three business days for your information to be completely removed from all of our records. Or you may send an email directly to [help@greenfieldonline.com](mailto:help@greenfieldonline.com) requesting to be removed. Email links are provided on the site so that you may contact us directly with any questions or concerns you may have. Each email we receive is read and responded to individually; please allow two to three business days for us to get back to you. 
 
 ### Winners Policy and Privacy Guarantee
 
@@ -65,7 +69,7 @@ If there are ever any material changes in our privacy policy practices, you will
 
 ### Security
 
-**Greenfield Online** takes strict measures to ensure every aspect of your information is kept secure. Access to all personal information is restricted and limited to few key personnel. Our website security is reviewed on a monthly basis and can only be accessed via a strict password policy. **Greenfield Online** will never ask you for private information such as your credit card or social security numbers as a part of our research. We may be required by law to ask for your social security number to comply with reporting laws and regulations if you are the recipient of survey incentives. Your profile information is highly confidential and will be used only by **Greenfield Online** to email you concerning our studies, newsletters, winner notifications, and incentive redemtions. 
+**Greenfield Online** takes strict measures to ensure every aspect of your information is kept secure. Access to all personal information is restricted and limited to few key personnel. Our website security is reviewed on a monthly basis and can only be accessed via a strict password policy. **Greenfield Online** will never ask you for private information such as your credit card or social security numbers as a part of our research. We may be required by law to ask for your social security number to comply with reporting laws and regulations if you are the recipient of survey incentives. Your profile information is highly confidential and will be used only by **Greenfield Online** to email you concerning our studies, newsletters, winner notifications, and incentive redemptions. 
 
 ### Business Transfers
 
@@ -82,3 +86,10 @@ We may disclose personal information when required by law or in the good-faith b
 ### Children's Privacy
 
 **Greenfield Online** will not knowingly collect any information from any individual under the age of 13 without permission from his/her parents or legal guardian. **Greenfield Online** is in adherence to all COPPA rules and regulations. 
+
+### Privacy Contact
+
+Jonathan A. Flatow, VP & General Counsel  
+21 River road  
+Wilton, Connecticut 06897  
+[privacy@greenfield.com](mailto:privacy@greenfield.com)
