@@ -1,0 +1,829 @@
+<!--The following is the downloaded HTML source of the opensourcecms.com privacy policy that was archived on 2004-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041118055002id_/http%3A//www.opensourcecms.com/index.php%3Foption%3Dcontent%26task%3Dview%26id%3D313%26Itemid%3D73) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>opensourceCMS.com</title>	
+		<script language="JavaScript" type="text/javascript" src="http://www.opensourcecms.com/editor/rte/richtext.js"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	        <meta name="description" content="Mambo Open Source - the dynamic portal engine and content management system ,">
+            <meta name="keywords" content="mambo, mambo open source, Mambo, Mambo Open Source, AngelineCMS, AWF, bes-cms, CPG-Nuke, Drupal, e107, eNvolution, eZ Publish, ezContents,  Geeklog, Jetbox One, LDU, Mambo, MD-Pro, myPHPNuke, Ovidentia, PHP-Nuke, phpwcms, phpWebSite, PHPX, Postnuke, Props, RUNCMS, Spip, TikiWiki, Typo3, Xaraya, XOOPS,  b2evolution, bBlog, BLOG:CMS, Nucleus, pLog, pMachine Free, Serendipity, Textpattern,  WordPress, MyMarket, osc2nuke, osCommerce, Zen Cart, dotProject, eGroupWare, MoreGroupware,  phpCollab,  PHProjekt,  openBB,  Phorum,  phpBB,  PunBB,  W-Agora, XMB, 
+ ATutor,  Claroline,  LogiCampus,  Moodle,  Segue,  Site@School,  Coppermine,  Gallery,  Owl, ">
+    	<link href="http://www.opensourcecms.com/templates/rhuk_oscms/css/template_css.css" rel="stylesheet" type="text/css">
+	<link rel="shortcut icon" href="http://www.opensourcecms.com/templates/rhuk_oscms/images/favicon.ico">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="redbg">
+	<a name="up" id="up"></a>
+	<center>
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr class="oscms_header">
+			<td rowspan="2"><img src="http://www.opensourcecms.com/templates/rhuk_oscms/images/oscms.gif" width="350" height="110"></td>
+			<td align="right" valign="middle"><a href="index.php?option=com_banners&amp;task=click&amp;bid=9" target="_blank"><img src="http://www.opensourcecms.com/images/banners/opensource_host.gif" border="0" vspace="5" alt="Advertisement"></a><img src="http://www.opensourcecms.com/templates/rhuk_oscms/images/spacer.gif" width="10" height="4"></td>
+		</tr>
+		<tr class="oscms_header">
+			<td align="right">
+			<a href="http://www.opensourcecms.com/index.php?option=com_frontpage&amp;Itemid=1" class="mainmenu">Home</a>
+                        <a href="http://www.opensourcecms.com/index.php?option=com_simpleboard&amp;Itemid=109" class="mainmenu">Forums</a>
+			<a href="http://www.opensourcecms.com/index.php?option=content&amp;task=view&amp;id=290&amp;Itemid=32" class="mainmenu">Services</a>
+			<a href="http://www.opensourcecms.com/index.php?option=content&amp;task=view&amp;id=286&amp;Itemid=28" class="mainmenu">About Us</a>
+			<a href="http://www.opensourcecms.com/index.php?option=com_contact&amp;Itemid=3" class="mainmenu">Contact Us</a>
+			<a href="http://www.opensourcecms.com/index.php?option=com_sitemap&amp;Itemid=88" class="mainmenu">Site Map</a>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" class="oscms_line"><img src="http://www.opensourcecms.com/templates/rhuk_oscms/images/spacer.gif" width="100" height="7"></td>
+		</tr>
+	</tbody></table>
+	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+			<tbody><tr valign="top">
+				<td class="leftnav" width="153">
+
+							<table cellspacing="0" cellpadding="1" class="moduletable">
+		  			<tbody><tr>
+    			<th valign="top">Demo Refresh</th>
+    		</tr>
+		    		<tr>
+    			<td>
+<!-- Demo refresh count down SCRIPT -->
+<!-- Chanh Ong - 10/03/04 Script to count down when demos will be refreshed  -->
+<script language="JavaScript1.2">
+// global variables
+var gtdiff;         // diff between server and local time
+var counttime=120;    // number of minutes to count down
+//var counttime=2;    // number of minutes to count down
+var onesec=1000; // milliseconds
+var oneminute=60*onesec;
+var gservertime = co_get_servertime();
+var gfuturetime;
+
+var countdownwidth='156px';
+var countdownheight='30px';
+var countdownbgcolor='lightgreen';
+var opentags='<font face="Verdana" size="1">';
+var closetags='</font>';
+
+var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
+var crosscount='';
+
+// general function
+function co_pad ( num ) { return ( ( num > 9 ) ? num : "0" + num ); }
+
+var debugCounter = 0;
+function co_debugMsg(msg) {
+  // un rem the next line when you go live to prevent debug messages from showing
+  return;
+  debugCounter++;
+  var t = document.createTextNode("\n" + co_pad(debugCounter) + ": " + msg);
+  var br = document.createElement("br");
+  var debug = document.getElementById("debug");
+  debug.appendChild(t);
+  debug.appendChild(br);
+}
+
+function co_get_servertime() { 
+  var stime = "October 12, 1988 23:59:55"; // Date format
+  stime = "November 17, 2004 23:50:03"; // get date from server 
+  return new Date(stime);
+}
+
+function co_setfuturetimestamp(idate,tnum) {
+  var tyy, tmm, tdd, thh, tmi=0;
+  var rdate, rsec;
+  var ttime = idate.getTime()+(tnum*oneminute);
+  rdate = new Date(ttime);
+  tyy = rdate.getYear();
+  tmm = rdate.getMonth();
+  tdd = rdate.getDate();
+  thh = rdate.getHours();
+  if (thh%2 != 0) { thh = thh-1;} // Not even adj to even hrs count down
+  if (tnum < 60) { tmi = rdate.getMinutes(); }
+  return new Date(tyy,tmm,tdd,thh,tmi,0); // set new time w/ 0 sec
+}
+
+function co_redirect_refresh_page() {
+  window.location="http://www.opensourcecms.com/index2.html";
+}
+
+function co_refresh_alert() {
+  alert("The demos at opensourceCMS.com are being refreshed.  Please stand by.");
+}
+
+function co_get_futuretime(tnum) {
+  var curtime = new Date();
+  gtdiff=Date.parse(gservertime)-Date.parse(curtime);
+  return co_setfuturetimestamp(gservertime,tnum);
+}
+
+function co_seconds_elapsed (istarttime) {
+  curtime = new Date();
+  var time_diff=Date.parse(istarttime)-(Date.parse(curtime)+gtdiff); // adj to get server time
+  return Math.floor ( (time_diff) / onesec ); // sec elapsed
+}
+// general function
+
+function co_dmsg(ehour,emin,esec) {
+//  var msg1 = opentags + "Demos refresh in " + co_pad(ehour) + ":" + co_pad(emin) + ":" + co_pad(esec);
+  var msg1 = opentags + "Count Down: " + co_pad(ehour) + ":" + co_pad(emin) + ":" + co_pad(esec);
+  if(ehour<=0 && emin<=0 && esec<=1){ 
+//    window.location.reload();  this is like DOS and put high load on server, BAD!!! 
+    gservertime=gfuturetime;
+    gfuturetime=co_get_futuretime(counttime); 
+    co_debugMsg("server "+gservertime);
+    co_debugMsg("future "+gfuturetime);
+//    co_redirect_refresh_page();
+    co_refresh_alert();
+  }
+  else{
+    if (document.layers){
+      co_debugMsg("else "+gservertime);
+      document.countdownnsmain.document.countdownnssub.document.write(msg1);
+      document.countdownnsmain.document.countdownnssub.document.close();
+    }
+    else if (document.all||document.getElementById){
+      crosscount.innerHTML = msg1;
+    }
+  }
+}
+
+// THIS FUNCTION TAKES THE SECONDS ELAPSED AND CONVERTS THEM FOR OUTPUT
+function co_countdown(){
+  setTimeout("co_countdown()",onesec); // set timer delay
+  var secs = co_seconds_elapsed (gfuturetime);   // TAKE THE SECONDS ELAPSED
+  var mins = Math.floor ( secs / 60 );   // CONVERT SECONDS TO MINUTES AND SECONDS
+  secs = secs - (mins * 60);
+  var hour = Math.floor ( mins / 60 );   // CONVERT MINUTES TO HOURS AND MINUTES
+  mins = mins - (hour * 60);
+  co_dmsg(hour,mins,secs);
+}
+
+function co_start_countdown(){
+  if (document.layers) document.countdownnsmain.visibility="show";
+  else if (document.all||document.getElementById)
+    crosscount = document.getElementById&&!document.all ? document.getElementById("countdownie") : countdownie;
+  co_countdown();
+}
+
+<!-- main -->
+if (document.all||document.getElementById) 
+  document.write('<span id="countdownie" style="width:'+countdownwidth+'; background-color:'+countdownbgcolor+'"></span>');
+
+gfuturetime=co_get_futuretime(counttime);
+window.onload=co_start_countdown;
+</script><span id="countdownie" style="width:156px; background-color:lightgreen"><font face="Verdana" size="1">Count Down: 0-16655064:09:57</font></span>
+<span id="debug"><br></span>
+<ilayer id="countdownnsmain" width="&amp;{countdownwidth};" height="&amp;{countdownheight};" bgcolor="&amp;{countdownbgcolor};" visibility="hide">
+<layer id="countdownnssub" width="&amp;{countdownwidth};" height="&amp;{countdownheight};" left="0" top="0"></layer>
+</ilayer>
+
+</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Main Menu</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			
+<table width="100%" border="0" cellpadding="0" cellspacing="1">
+<tbody><tr align="left"><td>&nbsp;<a href="index.php?option=com_frontpage&amp;Itemid=1" class="mainlevel">Home</a>
+</td></tr>
+<tr align="left"><td>&nbsp;<a href="index.php?option=content&amp;task=view&amp;id=286&amp;Itemid=28" class="mainlevel">About Us</a>
+</td></tr>
+<tr align="left"><td>&nbsp;<a href="index.php?option=com_contact&amp;Itemid=3" class="mainlevel">Contact Us</a>
+</td></tr>
+<tr align="left"><td>&nbsp;<a href="index.php?option=content&amp;task=category&amp;sectionid=2&amp;id=113&amp;Itemid=80" class="mainlevel">FAQ: What is ...?</a>
+</td></tr>
+<tr align="left"><td>&nbsp;<a href="index.php?option=content&amp;task=view&amp;id=314&amp;Itemid=75" class="mainlevel">Forum and More!</a>
+</td></tr>
+<tr align="left"><td>&nbsp;<a href="index.php?option=content&amp;task=view&amp;id=313&amp;Itemid=73" class="mainlevel">Privacy Policy</a>
+</td></tr>
+<tr align="left"><td>&nbsp;<a href="index.php?option=com_sitemap&amp;Itemid=123" class="mainlevel">Site Map</a>
+</td></tr>
+<tr align="left"><td>&nbsp;<a href="index.php?option=content&amp;task=view&amp;id=290&amp;Itemid=32" class="mainlevel">Services</a>
+</td></tr>
+</tbody></table>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">User Menu</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			
+<table width="100%" border="0" cellpadding="0" cellspacing="1">
+<tbody><tr align="left"><td>&nbsp;<a href="index.php?option=com_user&amp;task=UserDetails&amp;Itemid=21" class="mainlevel">Your Details</a>
+</td></tr>
+<tr align="left"><td>&nbsp;<a href="index.php?option=com_pms&amp;Itemid=53" class="mainlevel">Private Message</a>
+</td></tr>
+<tr align="left"><td>&nbsp;<a href="index.php?option=content&amp;task=view&amp;id=408&amp;Itemid=131" class="mainlevel">Your 2 cents</a>
+</td></tr>
+</tbody></table>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Login Form</th>
+    		</tr>
+			    		<tr>
+    			<td>
+				<form action="index.php?option=login" method="post" name="login">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr>
+	  <td>
+		Username<br><input type="text" name="username" class="inputbox" size="10"><br>
+		Password<br><input type="password" name="passwd" class="inputbox" size="10"><br>
+		<input type="hidden" name="op2" value="login">
+		<input type="hidden" name="lang" value="english">
+		<input type="checkbox" name="remember" class="inputbox" value="yes"> Remember me<br>
+		<input type="submit" name="Submit" class="button" value="Login">
+	  </td>
+	</tr>
+	<tr>
+	  <td><a href="index.php?option=com_registration&amp;task=lostPassword">Forgotten your password</a>?</td>
+	</tr>
+	</tbody></table>
+	</form>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		<tbody><tr>
+		  <td>No account yet?		  <a href="index.php?option=com_registration&amp;task=register">
+		  Create one</a></td>
+		</tr>
+	</tbody></table>
+	    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">CMS - Portals</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=184">&nbsp;AngelineCMS
+<!-- 21 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=194">&nbsp;bes-cms
+<!-- 21 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=351">&nbsp;CPG-Nuke
+<!-- 22 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=132">&nbsp;Drupal
+<!-- 30 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=133">&nbsp;e107
+<!-- 48 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=175">&nbsp;eNvolution
+<!-- 22 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=416">&nbsp;Exoops
+<!-- 58 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=182">&nbsp;eZ Publish
+<!-- 21 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=166">&nbsp;ezContents
+<!-- 21 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=134">&nbsp;Geeklog
+<!-- 33 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=169">&nbsp;Jetbox One
+<!-- 84 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=156">&nbsp;LDU
+<!-- 21 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=149">&nbsp;Mambo
+<!-- 38 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=201">&nbsp;MD-Pro
+<!-- 30 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=168">&nbsp;myPHPNuke
+<!-- 22 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=135">&nbsp;Ovidentia
+<!-- 84 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=131">&nbsp;PHP-Nuke
+<!-- 65 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=367">&nbsp;phpwcms
+<!-- 69 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=141">&nbsp;phpWebSite
+<!-- 65 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=197">&nbsp;PHPX
+<!-- 64 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=130">&nbsp;Postnuke
+<!-- 22 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=179">&nbsp;Props
+<!-- 84 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=443">&nbsp;Renegade
+<!-- 37 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=372">&nbsp;RUNCMS
+<!-- 76 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=180">&nbsp;TikiWiki
+<!-- 48 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=181">&nbsp;Typo3
+<!-- 84 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=173">&nbsp;Xaraya
+<!-- 64 days old --></a></div><div><img src="/images/barrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=165">&nbsp;XOOPS
+<!-- 62 days old --></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">CMS - Blogs</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div><img src="/images/karrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=207">&nbsp;b2evolution
+<!-- 21 days old --></a></div><div><img src="/images/karrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=206">&nbsp;bBlog
+<!-- 22 days old --></a></div><div><img src="/images/karrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=378">&nbsp;BLOG:CMS
+<!-- 56 days old --></a></div><div><img src="/images/karrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=145">&nbsp;Nucleus CMS
+<!-- 25 days old --></a></div><div><img src="/images/karrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=330">&nbsp;pLog
+<!-- 21 days old --></a></div><div><img src="/images/karrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=205">&nbsp;Serendipity
+<!-- 22 days old --></a></div><div><img src="/images/karrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=177">&nbsp;Textpattern
+<!-- 22 days old --></a></div><div><img src="/images/karrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=144">&nbsp;WordPress
+<!-- 22 days old --></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">CMS - e-Commerce</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div><img src="/images/oarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=200">&nbsp;MyMarket
+<!-- 22 days old --></a></div><div><img src="/images/oarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=203">&nbsp;osc2nuke
+<!-- 22 days old --></a></div><div><img src="/images/oarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=139">&nbsp;osCommerce
+<!-- 22 days old --></a></div><div><img src="/images/oarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=300">&nbsp;Zen Cart
+<!-- 22 days old --></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">CMS - Groupware</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div><img src="/images/rarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=178">&nbsp;dotProject
+<!-- 56 days old --></a></div><div><img src="/images/rarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=354">&nbsp;eGroupWare
+<!-- 55 days old --></a></div><div><img src="/images/rarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=161">&nbsp;MoreGroupware
+<!-- 84 days old --></a></div><div><img src="/images/rarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=153">&nbsp;phpCollab
+<!-- 22 days old --></a></div><div><img src="/images/rarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=136">&nbsp;PHProjekt
+<!-- 84 days old --></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">CMS - Forums</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div><img src="/images/tarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=138">&nbsp;openBB
+<!-- 22 days old --></a></div><div><img src="/images/tarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=185">&nbsp;Phorum
+<!-- 55 days old --></a></div><div><img src="/images/tarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=143">&nbsp;phpBB
+<!-- 21 days old --></a></div><div><img src="/images/tarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=361">&nbsp;PunBB
+<!-- 22 days old --></a></div><div><img src="/images/tarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=192">&nbsp;W-Agora
+<!-- 84 days old --></a></div><div><img src="/images/tarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=183">&nbsp;XMB
+<!-- 56 days old --></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">CMS - e-Learning</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div><img src="/images/uarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=373">&nbsp;ATutor
+<!-- 49 days old --></a></div><div><img src="/images/uarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=170">&nbsp;Claroline
+<!-- 49 days old --></a></div><div><img src="/images/uarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=158">&nbsp;Moodle
+<!-- 4 days old --><img src="/images/upd.gif" border="0"></a></div><div><img src="/images/uarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=199">&nbsp;Segue
+<!-- 4 days old --><img src="/images/upd.gif" border="0"></a></div><div><img src="/images/uarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=374">&nbsp;Site@School
+<!-- 4 days old --><img src="/images/upd.gif" border="0"></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">CMS - Miscellaneous</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div><img src="/images/varrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=189">&nbsp;Coppermine
+<!-- 84 days old --></a></div><div><img src="/images/varrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=142">&nbsp;Gallery
+<!-- 6 days old --><img src="/images/upd.gif" border="0"></a></div><div><img src="/images/varrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=160">&nbsp;Owl
+<!-- 21 days old --></a></div><div><img src="/images/varrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=442">&nbsp;SugarSales
+<!-- 4 days old --><img src="/images/upd.gif" border="0"></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">CMS - Wiki</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div><img src="/images/warrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=455">&nbsp;ErfurtWiki
+<!-- new ErfurtWiki --><img src="/images/new.gif" border="0"></a></div><div><img src="/images/warrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=415">&nbsp;MediaWiki
+<!-- 7 days old --><img src="/images/upd.gif" border="0"></a></div><div><img src="/images/warrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=407">&nbsp;PmWiki
+<!-- 7 days old --><img src="/images/upd.gif" border="0"></a></div><div><img src="/images/warrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=431">&nbsp;UniWakka
+<!-- 7 days old --><img src="/images/upd.gif" border="0"></a></div><div><img src="/images/warrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=398">&nbsp;WackoWiki
+<!-- 78 days old --></a></div><div><img src="/images/warrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=411">&nbsp;WikkaWiki
+<!-- 22 days old --></a></div><div><img src="/images/warrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=412">&nbsp;WikkiTikkiTavi
+<!-- 73 days old --></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">CMS - Lite</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div><img src="/images/xarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=452">&nbsp;CMS Made Simple
+<!-- new CMS Made Simple --><img src="/images/new.gif" border="0"></a></div><div><img src="/images/xarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=429">&nbsp;CMSimple
+<!-- 66 days old --></a></div><div><img src="/images/xarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=453">&nbsp;Limbo
+<!-- new Limbo --><img src="/images/new.gif" border="0"></a></div><div><img src="/images/xarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=448">&nbsp;Rodin
+<!-- 20 days old --></a></div><div><img src="/images/xarrow.gif"> <a href="index.php?option=content&amp;task=view&amp;id=409">&nbsp;zTml
+<!-- 39 days old --></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+						<!-- left nav -->
+
+					<br>
+					<img src="http://www.opensourcecms.com/templates/rhuk_oscms/images/spacer.gif" width="159" height="1"><br>
+										<!-- user1 nav -->
+
+								<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Donate</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<span class="small">Make a donation to opensourceCMS</span>
+<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="chanh.ong@gmail.com">
+<input type="hidden" name="item_name" value="opensourceCMS">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax" value="0">
+<input type="image" src="/images/x-click-butcc-donate.gif" border="0" name="submit" alt="Make payments with PayPal - its fast, free and secure!">
+</form>
+</center>
+</td>
+</tr>
+</tbody>
+</table>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+	
+									</td>
+				<td class="centernav" width="99%">
+					<span class="pathway"><a href="index.php" class="pathway">Home</a>  <img src="images/M_images/arrow.png" border="0" alt="arrow">   Privacy Policy </span><img src="http://www.opensourcecms.com/templates/rhuk_oscms/images/spacer.gif" width="174" height="24">
+										
+					
+					<div class="centerblock">
+					<table cellpadding="0" cellspacing="1" border="0" width="100%" class="contentpaneopen">
+  <tbody><tr>
+        <td class="contentheading" width="100%">
+			Privacy Policy	        &nbsp;
+	</td>
+        <td align="right"><a href="javascript:void window.open('http://www.opensourcecms.com/index2.php?option=content&amp;do_pdf=1&amp;id=313', 'win2', 'status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no');" title="PDF"><img src="http://www.opensourcecms.com/images/M_images/pdf_button.png" border="0" alt="PDF"></a>&nbsp;</td>
+    	    <td align="right"><a href="javascript:void window.open('http://www.opensourcecms.com/index2.php?option=content&amp;task=view&amp;id=313&amp;pop=1&amp;page=0', 'win2', 'status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no');" title="Print"><img src="http://www.opensourcecms.com/images/M_images/printButton.png" border="0" alt="Print"></a>&nbsp;</td>
+    	        <td align="right"><a href="javascript:void window.open('http://www.opensourcecms.com/index2.php?option=content&amp;task=emailform&amp;id=313', 'win2', 'status=no,toolbar=no,scrollbars=no,titlebar=no,menubar=no,resizable=yes,width=400,height=200,directories=no,location=no');" title="E-mail"><img src="http://www.opensourcecms.com/images/M_images/emailButton.png" border="0" alt="E-mail">&nbsp;</a></td>
+      </tr>
+
+</tbody></table>
+<table cellpadding="0" cellspacing="1" border="0" width="100%" class="contentpaneopen">
+  <tbody><tr>
+    <td width="70%" align="left" valign="top">
+      		<span class="small"> Written by Scott Goodwin</span>&nbsp;&nbsp;
+	<span class="content_rating">
+	User Rating:<img src="http://www.opensourcecms.com/images/M_images/rating_star.png" width="11" height="10" border="0" alt="star" valign="middle"><img src="http://www.opensourcecms.com/images/M_images/rating_star.png" width="11" height="10" border="0" alt="star" valign="middle"><img src="http://www.opensourcecms.com/images/M_images/rating_star.png" width="11" height="10" border="0" alt="star" valign="middle"><img src="http://www.opensourcecms.com/images/M_images/rating_star.png" width="11" height="10" border="0" alt="star" valign="middle"><img src="http://www.opensourcecms.com/images/M_images/rating_star_blank.png" width="11" height="10" border="0" alt="star" valign="middle">&nbsp;/&nbsp;4	</span>
+	</td>
+    <td valign="top" align="right">
+	    </td>
+  </tr>
+
+  <tr>
+	<td valign="top" colspan="2">
+
+	  
+<form method="post" action="index.php">
+
+  </form></td></tr><tr>
+    <td colspan="4">
+		<span class="content_vote">
+		Poor      <input type="radio" name="user_rating" value="1">
+      <input type="radio" name="user_rating" value="2">
+      <input type="radio" name="user_rating" value="3">
+      <input type="radio" name="user_rating" value="4">
+      <input type="radio" name="user_rating" value="5" checked="">
+		Best      <input class="button" type="submit" name="submit_vote" value="Rate">
+      <input type="hidden" name="task" value="vote">
+      <input type="hidden" name="pop" value="0">
+      <input type="hidden" name="option" value="content">
+      <input type="hidden" name="Itemid" value="73">
+      <input type="hidden" name="cid" value="313">
+      <input type="hidden" name="url" value="/index.php?option=content&amp;task=view&amp;id=313&amp;Itemid=73">
+		</span>
+		</td>
+  </tr>
+
+
+  
+  
+  <tr>
+    <td valign="top" colspan="2">
+	  <span class="createdate">Thursday, 17 June 2004</span><br>
+<!--StartFragment -->&nbsp;
+<h3>Privacy Policy</h3>The following Privacy Policy is applicable to all of the information collected during your use of opensourceCMS.com. Please read this information carefully before accessing any part of the site. <br><br><b>Our Commitment to Your Privacy</b><br>OpensourceCMS.com recognizes and respects the privacy of users of its web site. To better protect your privacy, we are providing this Policy to explain our online information practices and the way that we may collect and use information from you. <br>OpensourceCMS.com will not sell, lease, or rent its mailing list to third parties.<br>OpensourceCMS.com will not use or share the personally-identifiable information provided to us online without also providing you an opportunity to opt-out or otherwise prohibit unrelated uses. <br><br><b>The Information We Collect</b><br>Generally, OpensourceCMS.com may gather information about visitors to its web site when it aggregates information gathered by tracking the usage of certain features available on the web site. The collection of this information enables OpensourceCMS.com to tailor its content to your needs, keep you informed of information that you may find of interest, and to help better understand the demographics of its audience, which assists it in providing appropriate products and services to its customers. <br><br><b>Registration or Information Requests</b><br>Additionally, at certain sections of our web sites you may register or request to receive additional information or services. During these processes, you may be asked to provide the following personally-identifiable information: your name, address, telephone and fax numbers, and email address. OpensourceCMS.com and/or its designee will use this information in responding to your request. <br>When you register, you may also be given the opportunity to ask to be on OpensourceCMS.com's mailing list for future information. If you decide to be on our mailing list, OpensourceCMS.com will maintain your personally-identifiable information in secure on-line and off-line facilities. Your personally-identifiable information will only be disclosed to certain employees of OpensourceCMS.com or its designees with a business purpose to review your information. Except as set forth in this Policy, if you decide not to be on our mailing list or are not given the option to opt-in or out of the mailing list, OpensourceCMS.com will not maintain your personally-identifiable information for longer than is reasonably necessary to respond to your request and maintain its computer systems, except that OpensourceCMS.com may utilize your personal information in aggregated statistics.<br><br><b>Electronic Mail Messages</b><br>We will use return email addresses to answer, or have our designees answer electronic mail messages that we may receive. Unless you specifically request that we not keep your address and/or other information for our mailing list, we reserve the right to keep and disclose your address and other information as if you registered to be on our mailing list. <br><br><b>Data Security</b><br>OpensourceCMS.com uses industry standard efforts to safeguard your personally-identifiable information. However, it is impossible to absolutely guarantee the security of data transmission over the internet or any wireless network. Therefore, although we take reasonable measures to protect your information, OpensourceCMS.com cannot ensure the security of any information you transmit to us or from online services and you do so at your own risk. Once we receive your transmission, we will use industry standard efforts to ensure its security on our systems.<br><br><b>Other Disclosures</b><br>Finally, OpensourceCMS.com may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of OpensourceCMS.com or others and (b) conform to legal or regulatory requirements.<br><br><b>Correcting Your Information</b><br>If your personally-identifiable information changes (such as your zip code), or if you no longer want OpensourceCMS.com to maintain your information, this can be accomplished by sending us an email at admin @ opensourcecms.com.<br><br><b>Cookies and Log Files</b><br>A cookie is a piece of data stored on your hard drive containing information about you. OpensourceCMS.com may use cookies on its sites to provide better navigation on our site for you. Additionally, you may still use our site even if you reject the cookie. Cookies, however, may be used by some of the web sites to which we link. In addition, we may use your Internet Protocol (or IP) address to analyze trends, administer the site and gather broad demographic information for aggregate use in order to improve our site. We will not link any IP addresses that we may collect to any personally-identifiable information. <br><br><b>Links</b><br>OpensourceCMS.com endeavors to only link to reputable organizations related to your areas of interest. Because these other sites may not be hosted or controlled by OpensourceCMS.com, however, we are not responsible for the privacy practices of those sites. Therefore, the privacy policies with respect to these areas may differ from those applicable to our site and we encourage you to review the privacy policies of each of those other web sites. This privacy policy only applies to information collected and maintained by OpensourceCMS.com. <br><br><b>Governing Law</b><br>The internal laws of the State of Virginia, without reference to any choice of law provisions, shall govern any claims relating to the materials on our web sites. <br><br><b>Contact Us</b><br>If you have any questions about this Policy or our web site, please contact us at admin @ opensourcecms.com.<br>	</td>
+  </tr>
+    <tr>
+    <td class="modifydate" colspan="2" align="left">Last Updated (
+      Thursday, 01 July 2004      )</td>
+  </tr>
+      </tbody></table>
+<br>
+<a name="form"></a>
+   <hr width="100%" size="1">
+     <div class="ModuleHeading">Add your comments to this article...</div>
+	 	 
+      <form method="post" action="index.php?option=com_comments&amp;task=pt_preview&amp;id=313" name="commentForm" id="commentForm">
+      <input name="return" type="hidden" value="index.php?option=content&amp;task=view&amp;id=313">
+    	  <div align="center" class="text">Name <small><i>(required)</i></small><br>
+      <input type="text" name="pt_comment_name" style="width:300px;" class="inputbox" value=""><br>
+ 	     <div align="center" class="text">E-Mail <small><i>(required)</i></small></div><br>
+      <input type="text" name="pt_comment_email" style="width:300px;" class="inputbox" value="">
+        <br><div class="small">Your email will not be displayed on the site - only to our administrator</div><br>
+        Homepage<br>
+          <input type="text" name="pt_comment_homepage" style="width:300px;" class="inputbox" value="http://">
+          <br> Comment<br>
+          <textarea name="pt_comment" cols="30" rows="7" class="inputbox"></textarea>
+          <br>
+          <input type="submit" name="pressbutton" value="Submit" style="width: 100px;" class="button" onclick="validate()">
+        </div>
+      </form>
+               <br><div align="center" class="small">©2003 Review Script 0.5.2 by <a href="http://www.phil-taylor.com">Phil Taylor</a></div><br>
+						</div>
+					<br>
+					
+											<div class="centerblock">
+								<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Latest News</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<table cellpadding="1" cellspacing="1" border="0">
+	<tbody><tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td><a href="index.php?option=content&amp;task=view&amp;id=457">Where is Forum?</a></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td><a href="index.php?option=content&amp;task=view&amp;id=456">ErfurtWiki Features</a></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td><a href="index.php?option=content&amp;task=view&amp;id=455">ErfurtWiki</a></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td><a href="index.php?option=content&amp;task=view&amp;id=454">Limbo Features</a></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td><a href="index.php?option=content&amp;task=view&amp;id=453">Limbo</a></td>
+	</tr>
+</tbody></table>
+    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Related Items</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Newsflash</th>
+    		</tr>
+			    		<tr>
+    			<td>
+					<table cellpadding="4" cellspacing="0" border="0">
+	 	 <tbody><tr>
+		   <td class="newsflash">
+<p><span style="font-weight: bold;">How do I pick the best one for me?</span> </p>  <p>First,
+get a clear picture in mind of what you're going to want to do with it.
+Spend as much time as you need to make that mental picture as crystal
+clear as you can. Most CMS offer ways to expand them or to add
+functions, but you're way better off to start with the right system.</p>  <p>Once
+you know what you want, try out a lot of them. Look for the one that
+does what you need it to do with the minimum hassle. Try to find the
+one that looks and works closest to your ideal. The less customizing
+work you have to do, the better.</p>  <p>Pay particular attention to
+the admin interface, since that's where you are going to have to do
+your work. Make sure you understand what all of the options do.</p>  <p>Check the forums and find out what other users have found out.</p>  <p><br>
+</p>
+</td>
+		 </tr>
+		</tbody></table>
+		    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+							</div>
+						<br>
+										
+										
+					<div align="right">Miro International Pty Ltd. © 2000 - 2004 All rights reserved.
+  <a href="http://www.mamboserver.com">Mambo Open Source</a> is Free Software released under the GNU/GPL License.
+</div>
+					
+				</td>
+								
+				
+				<td class="rightnav" width="174" align="right">
+					<span class="pathway">Wednesday, 17 November 2004</span> <img src="http://www.opensourcecms.com/templates/rhuk_oscms/images/spacer.gif" width="4" height="24">
+					
+					
+											<div class="rightblock">
+									<table cellspacing="0" cellpadding="1" class="moduletable">
+		  			<tbody><tr>
+    			<th valign="top">OpenSourceHost</th>
+    		</tr>
+		    		<tr>
+    			<td>
+<p align="center"><a href="http://opensourcehost.opensourcecms.com."><img alt="" src="images/stories/opensource1.gif" align="bottom" border="0" hspace="0"></a></p>  <p align="center">Host with the company that eats, sleeps, and breathes open source and content management. You won't be disappointed.<br></p>
+</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+		    		<tbody><tr>
+    			<td><form action="http://www.google.com/custom" method="get" target="google_window">
+<table bgcolor="#f1f4d9" border="0">
+<tbody>
+<tr>
+<td valign="top" nowrap="" align="left" height="32"><a href="http://www.google.com/"><img alt="Google" src="http://www.google.com/logos/Logo_25wht.gif" border="0"></a><br><input type="hidden" value="opensourceCMS.com" name="domains"><input maxlength="255" size="23" name="q"></td></tr>
+<tr>
+<td nowrap="">
+<table>
+<tbody>
+<tr>
+<td><input type="radio" value="" name="sitesearch"><font color="#000000" size="-1">Web</font></td>
+<td><input type="radio" checked="" value="opensourceCMS.com" name="sitesearch"><font color="#000000" size="-1">opensourceCMS</font></td></tr></tbody></table><input type="submit" value="Search" name="sa"><input type="hidden" value="pub-4432509506627047" name="client"><input type="hidden" value="1" name="forid"><input type="hidden" value="5399212196" name="channel"><input type="hidden" value="ISO-8859-1" name="ie"><input type="hidden" value="ISO-8859-1" name="oe"><input type="hidden" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:F1F4D9;LBGC:990000;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1;" name="cof"><input type="hidden" value="en" name="hl"></td></tr></tbody></table></form><!-- SiteSearch Google --></td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Polls</th>
+    		</tr>
+			    		<tr>
+    			<td>
+				<style>
+		.pollstableborder {
+		border: 1px solid;
+		padding: 1px;
+		}
+	</style>
+	<form name="form2" method="post" action="index.php?option=com_poll&amp;Itemid=73">
+	<table width="95%" border="0" cellspacing="0" cellpadding="1" align="center">
+		<tbody><tr>
+			<td colspan="2" class="poll"><b>What do you consider your knowledge of open source CMS's?</b></td>
+		</tr>
+		<tr><td align="center">
+			<table class="pollstableborder" cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr><td>
+		</td></tr><tr>
+			<td class="sectiontableentry2" valign="top"><input type="radio" name="voteid" value="61"></td>
+			<td class="sectiontableentry2" valign="top">I'm fresh off the boat.  I don't know a thing about CMS's.</td>
+		</tr>
+		<tr>
+			<td class="sectiontableentry1" valign="top"><input type="radio" name="voteid" value="62"></td>
+			<td class="sectiontableentry1" valign="top">I'm a newbie.  I know a little bit about this stuff though.</td>
+		</tr>
+		<tr>
+			<td class="sectiontableentry2" valign="top"><input type="radio" name="voteid" value="63"></td>
+			<td class="sectiontableentry2" valign="top">I feel comfortable installing a system or two.</td>
+		</tr>
+		<tr>
+			<td class="sectiontableentry1" valign="top"><input type="radio" name="voteid" value="64"></td>
+			<td class="sectiontableentry1" valign="top">I understand these systems and even get into the code from time to time.</td>
+		</tr>
+		<tr>
+			<td class="sectiontableentry2" valign="top"><input type="radio" name="voteid" value="65"></td>
+			<td class="sectiontableentry2" valign="top">I know these systems and can write my own modules/components.</td>
+		</tr>
+		<tr>
+			<td class="sectiontableentry1" valign="top"><input type="radio" name="voteid" value="66"></td>
+			<td class="sectiontableentry1" valign="top">I am a guru and help development of a system.</td>
+		</tr>
+			
+			</tbody></table>
+		</td></tr>
+		<tr>
+			<td colspan="2" align="center">
+				<input type="submit" name="task_button" class="button" value="Vote">&nbsp;&nbsp;
+				<input type="button" name="option" class="button" value="Results" onclick="document.location.href='index.php?option=com_poll&amp;task=results&amp;id=19';">
+			</td>
+		</tr>
+	</tbody></table>
+
+	<input type="hidden" name="id" value="19">
+	<input type="hidden" name="task" value="vote">
+	</form>
+    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Syndicate</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<div align="center">Get the latest news<br>direct to your desktop<br><a href="http://www.opensourcecms.com/index2.php?option=com_rss&amp;no_html=1"><img src="http://www.opensourcecms.com/images/M_images/rss.png" border="0" alt="RSS"></a></div>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Archive</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<table cellpadding="1" cellspacing="1" border="0">
+	<tbody><tr>
+	  <td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+	  <td><a href="index.php?option=content&amp;task=archivecategory&amp;year=2004&amp;month=08">August, 2004</a></td>
+	</tr>
+</tbody></table>
+    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+							</div>
+						<br>
+										
+					
+					
+											<div class="rightblock">
+								<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Top 5 SB Posters</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<table cellpadding="1" cellspacing="1" border="0">
+	<tbody><tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td>hcgtv <i>(200 posts)</i></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td>Chanh <i>(164 posts)</i></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td>tonyskyday <i>(125 posts)</i></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td>Tom <i>(120 posts)</i></td>
+	</tr>
+	<tr>
+		<td valign="top"><img src="http://www.opensourcecms.com/images/M_images/arrow.png" alt=""></td>
+		<td>silverwing <i>(109 posts)</i></td>
+	</tr>
+</tbody></table>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Hit Counter</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			832705 Visitors    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Who's Online</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			We have 94 guests online and 1 member online    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+			<table cellspacing="0" cellpadding="1" class="moduletable">
+			  			<tbody><tr>
+    			<th valign="top">Online Users</th>
+    		</tr>
+			    		<tr>
+    			<td>
+			<b>chanh</b><br>    			</td>
+			</tr>
+      	</tbody></table>
+		<br>
+							</div>
+										<br>
+					<img src="http://www.opensourcecms.com/templates/rhuk_oscms/images/spacer.gif" width="174" height="2">
+				</td>
+				
+							</tr>
+		</tbody></table>
+	</center>
+
+</body></html>
