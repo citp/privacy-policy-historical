@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055509id_/http%3A//www.fashionmagazine.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202161746id_/http%3A//www.fashionmagazine.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Fashion Magazine
+# 
 
-[](https://web.archive.org/admanage.html?action=click&AdID=19)
-
-[](https://web.archive.org/admanage.html?action=click&AdID=24)
-
-[](https://web.archive.org/admanage.html?action=click&AdID=25)
-
-|  |    
+  
 FASHION MAGAZINE:  
 ONLINE PRIVACY PRINCIPLES
 
@@ -25,6 +19,3 @@ Some of our web sites may make use of "cookie" technology to measure site activi
 You take online privacy seriously, and so does Fashion18. 
 
 Fashion Magazine reserves the right to alter our privacy principles as business needs require. Any alterations to these principles will be posted on our web sites in a timely manner. 
-
-|  |  | [ ](https://web.archive.org/html/subscribe.html) |   
----|---
