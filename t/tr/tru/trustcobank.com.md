@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628105315id_/http%3A//www.trustcobank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206073038id_/http%3A//www.trustcobank.com/privacy.htm) for the most accurate reproduction.*
 
 # Trustco Bank - Privacy Statement
 
