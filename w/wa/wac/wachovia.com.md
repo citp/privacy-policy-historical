@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624204737id_/http%3A//www.wachovia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203001623id_/http%3A//www.wachovia.com/privacy) for the most accurate reproduction.*
 
 # Wachovia Privacy Statement
 
@@ -81,7 +81,7 @@ Protecting customer information online is an essential part of our service to yo
 
 
 
-For more information on our Internet security measures, please visit our [Security Statement](https://web.archive.org/security).
+For more information on our Internet security measures, please visit our [Security Statement](http://www.wachovia.com/security).
 
  Back to Top
 
@@ -180,7 +180,7 @@ Please note that we are committed to providing you with superior service.  Occa
 
 If you believe you may be a victim of identity theft:
 
-  1. Contact us at (888) 647-3648 to place holds on your accounts and obtain a free copy of Wachovia’s [Customer Fraud Assistance Package](https://web.archive.org/files/Fraud.pdf) .
+  1. Contact us at (888) 647-3648 to place holds on your accounts and obtain a free copy of Wachovia’s [Customer Fraud Assistance Package](https://web.archive.org/file/new_fraud_0728.pdf) .
   2. Contact the Social Security Administration’s Fraud Hotline at (800) 269-0271 to report fraudulent use of your identification information.
   3. Report the incident as quickly as possible to each of the credit reporting agencies:
 
@@ -222,7 +222,7 @@ If you believe we have reported inaccurate information about your account to any
 
 ## If You Have Questions, Contact Us
 
-We welcome the opportunity to answer any questions you may have about this statement or the safeguarding and confidentiality of your information.  For more information, please read our [Internet Privacy](https://web.archive.org/inside/legal_footer/0,,2157_2158,00.html) section, visit a Wachovia financial center, or call us at (866) 203-5722 (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114) to speak to a representative.
+We welcome the opportunity to answer any questions you may have about this statement or the safeguarding and confidentiality of your information.  For more information, please read our [Internet Privacy](http://www.wachovia.com/inside/legal_footer/0,,2157_2158,00.html) section, visit a Wachovia financial center, or call us at (866) 203-5722 (CAP, IRA, Brokerage and Insurance customers should call (877) 358-1114) to speak to a representative.
 
   
 
