@@ -1,0 +1,14 @@
+> *The following text is extracted and transformed from the 39dollarglasses.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211110624id_/http%3A//39dollarglasses.com/privacypolicy.html) for the most accurate reproduction.*
+
+# 39DollarGlasses.com Privacy Policy
+
+| 
+
+| | | [](https://web.archive.org/web/20011211110624id_/http%3A//39dollarglasses.com/index.html)
+
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+
+ **39dollarglasses.com Privacy Policy:**   
+We are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. We may use it to tell you about changes in our services or about special offers we think you'll find valuable. We do not sell, trade or rent your personal information to others.  
+  
+---|---|---
