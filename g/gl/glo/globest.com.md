@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072344id_/http%3A//www.globest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017023716id_/http%3A//www.globest.com/privacy.html) for the most accurate reproduction.*
 
 # GlobeSt.com - Real Estate is our domain
 
-| |   
----  
-   
-  
-##  _Privacy Statement_
+## _Privacy Statement_
 
 GlobeSt.com has adopted this statement to demonstrate our commitment to privacy. These guidelines disclose the privacy policies for this Web site, www.GlobeSt.com. Any changes to these guidelines will be posted here. In general, GlobeSt.com only obtains information about you when you supply such information to us. If you send GlobeSt.com personal correspondence, such as emails or letters, or if other users or third parties send correspondence to GlobeSt.com about your activities or postings on the Web site, GlobeSt.com may collect such information into a file specific to you. For more information, please review our Terms and Conditions of Use or contact GlobeSt.com using our Contact Us form. All submissions become property of GlobeSt.com.
 
