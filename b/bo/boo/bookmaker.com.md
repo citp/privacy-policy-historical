@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the bookmaker.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408132538id_/http%3A//www.bookmaker.com/InfoCenter/rules_regs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmaker.com privacy policy that was archived on 2003-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031230051512id_/http%3A//bookmaker.com/InfoCenter/rules_regs/privacy.asp) for the most accurate reproduction.*
 
 # Online gambling and casino games at Bookmaker.com - offshore betting and online casino
 
+  
 PRIVACY STATEMENT
 
 **Bookmaker.com** strive to ensure that it provides an accountable and secure gaming and banking experience.
