@@ -32,3 +32,33 @@ P.O. Box 308, Rocklin, California 95677-0308, USA
 [http://www.joyfulheart.com](http://www.joyfulheart.com/)
 
 Copyright © 1996-2001, Ralph F. Wilson. All rights reserved. [JesusWalk](http://www.jesuswalk.com/)is a registered trademark and Joyful Heart is trademark of [Joyful Heart Ministries](http://www.joyfulheart.com/study.htm). Unless otherwise stated, scripture quotations are from the New International Version (NIV) of the Bible (copyright © 1973, 1978, 1983, by International Bible Society). 
+|    
+[](http://www.jesuswalk.com/)
+
+##  Privacy Policy 
+
+by Dr. Ralph F. Wilson  
+[Part of JesusWalk, Disciple Lessons from Luke's Gospel](http://www.jesuswalk.com/)
+
+* * *
+
+[**JesusWalk**](http://www.jesuswalk.com/) e-mail Bible study invites you. [Current lesson](http://www.jesuswalk.com/lessons/current.htm)
+
+We respect the privacy of our newsletter subscribers, those who answer our surveys, and those who fill out our questionnaires. It is our policy: 
+
+  * **Choice and consent.** To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request. 
+  * **Third party use.** To not sell, rent, or loan our lists to third parties for e-mail marketing without specific consent of our site visitors. While we sell advertising in our e-mail publications to other companies, we do not allow third parties any other use of our lists except on a clearly "opt-in" basis. 
+  * **Unsubscriptions.** To send our periodicals only to those who request them, and immediately unsubscribe those who request it. Sometimes people subscribe for their friends, and while we cannot prevent that, our welcome message to subscribers -- and every issue of our free newsletter -- explain how to subscribe. We keep our subscription lists as clean as possible to prevent obsolete e-mails to take unnecessary bandwidth. 
+  * **Cookies.** To use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies to help rotate banner advertising, to identify shoppers with their shopping carts, to make it easy to order a second time, to allow subscribers to store passwords in cookies if they desire, and to greet our visitors by name when they return. We do NOT collect or use this information from cookies to develop a profile about our shoppers. 
+  * **Security.** To store subscriber and password files with personal information in a secure manner. We store such files in areas not accessible to Web browsers, or behind password protection, or off-line. 
+  * **Termination**. If a majority portion of the assets of Joyful Heart Ministries were to be acquired by another organization, that might include our subscriber and other lists, but only as part of a clear agreement binding that organization to abide by the spirit and letter of our privacy policy. 
+
+For assistance in developing a privacy policy for your own site check out the [Direct Marketing Association](http://www.the-dma.org/library/privacy/) site.  [Part of JesusWalk, Disciple Lessons from Luke's Gospel](http://www.jesuswalk.com/)
+
+**Joyful Heart Ministries**  
+Pastor Ralph F. Wilson, Director ([pastor@joyfulheart.com](mailto:pastor@joyfulheart.com))  
+P.O. Box 308, Rocklin, California 95677-0308, USA  
+(916) 652-4659, M-F 8:00 am to 4:00 pm Pacific Time  
+[http://www.joyfulheart.com](http://www.joyfulheart.com/)
+
+Copyright © 1996-2001, Ralph F. Wilson. All rights reserved. [JesusWalk](http://www.jesuswalk.com/)is a registered trademark and Joyful Heart is trademark of [Joyful Heart Ministries](http://www.joyfulheart.com/study.htm). Unless otherwise stated, scripture quotations are from the New International Version (NIV) of the Bible (copyright © 1973, 1978, 1983, by International Bible Society). 
