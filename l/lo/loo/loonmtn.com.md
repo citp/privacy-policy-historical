@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605071532id_/http%3A//www.boothcreek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209105210id_/http%3A//www.boothcreek.com/privacy.html) for the most accurate reproduction.*
 
 # Booth Creek Resorts - Privacy Policy
 
