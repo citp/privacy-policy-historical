@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the idaho.gov privacy policy that was archived on 2002-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602142520id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idaho.gov privacy policy that was archived on 2002-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209003027id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy - Access Idaho</title>
@@ -22,16 +22,80 @@
 <body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#ffffff" text="#000000" link="#0000ff" alink="#ff6600" vlink="#6699ff" onload="init();">
 
 <!-- DHTML Menu Builder Loader Code START -->
-
+<div id="DMBRI" style="position: absolute; visibility: hidden;">
+<img src="/media/dmb_i.gif" name="DMBImgFiles">
+<img src="/inc/dmb_m.gif" name="DMBJSCode">
+</div>
 <script language="JavaScript" type="text/javascript">
-var navVer = navigator.appVersion;
+	var rimPath = null;
+	var rjsPath = null;
+	var rPath2Root = null;
+	
+	function InitRelCode() {
+		var iImg;
+		var jImg;
+		var tObj;
+		
+		if(!document.layers) {
+			iImg = document.images['DMBImgFiles'];
+			jImg = document.images['DMBJSCode'];
+			tObj = jImg;
+		} else {
+			tObj = document.layers['DMBRI'];
+			if(tObj) {
+				iImg = document.layers['DMBRI'].document.images['DMBImgFiles'];
+				jImg = document.layers['DMBRI'].document.images['DMBJSCode'];
+			}
+		}
+		if(!tObj) {
+			window.setTimeout("InitRelCode()", 1500);
+			return false;
+		}
+		
+		rimPath = _gp(iImg.src);
+		rjsPath = _gp(jImg.src);
+		rPath2Root = rjsPath + "../";
+		
+		return true;
+	}
+	
+	function _purl(u) {
+		return xrep(xrep(u, "%%REP%%", rPath2Root), "\\", "/");
+	}
+	
+	function _fip(img) {
+		if(!img.fixed) {
+			if(img.src.indexOf("%%REL%%")!=-1)
+				img.src = rimPath + img.src.split("%%REL%%")[1];
+			img.fixed = true;
+		}
+		return img.src;
+	}
+	
+	function _gp(p) {
+		return p.substr(0,p.lastIndexOf("/")+1);
+	}
+	
+	function FixImages() {
+		var h = null;
+	
+		if(typeof(hStyle)!="undefined") h = hStyle;
+		if(typeof(hS)!="undefined") h = hS;
+		if(h)
+			for(var i=0; i<h.length; i++)
+				h[i] = xrep(h[i], "%%REL%%", rimPath);
+	}
+	
+	InitRelCode();
+</script>
+<script language="JavaScript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 10);return false;}var navVer = navigator.appVersion;
 if(navVer.substr(0,3) >= 4)
 if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4))
-document.write('<'+'script language="JavaScript" type="text/javascript" src="/inc/nsmenu.js"><\/script\>');
+document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'nsmenu.js"><\/script\>');
 else
-document.write('<'+'script language="JavaScript" type="text/javascript" src="/inc/iemenu.js"><\/script\>');
-</script><script language="JavaScript" type="text/javascript" src="/inc/iemenu.js"></script>
-
+document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + rjsPath + 'iemenu.js"><\/script\>');
+}LoadMenus();</script><script language="JavaScript" type="text/javascript" src="https://web.archive.org/inc/iemenu.js"></script>
 <!-- DHTML Menu Builder Loader Code END -->
 
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -41,8 +105,9 @@ document.write('<'+'script language="JavaScript" type="text/javascript" src="/in
     </tr>
 
     <tr>
-        <td width="163" class="aiEmCell05" rowspan="2"><a href="/"><img src="/media/ai_logo.gif" width="163" height="46" border="0" name="ailogo" alt="Access Idaho"></a></td>
-      <td width="100%" class="aiEmCell05" align="right"><img src="/media/topnav_hunk.gif" width="72" height="19" border="0" name="topnav_hunk" alt=""><a href="/"><img src="/media/topnav_home.gif" width="42" height="19" border="0" name="topnav_home" alt="Home"></a><a href="/online_services/search.html"><img src="/media/topnav_search.gif" width="64" height="19" border="0" name="topnav_search" alt="Search"></a><a href="/topical.html"><img src="/media/topnav_agencyindex.gif" width="97" height="19" border="0" name="topnav_agencyindex" alt="Agency Index"></a><a href="/portal/eventcal.html"><img src="/media/topnav_calendar.gif" width="78" height="19" border="0" name="topnav_calendar" alt="Calendar"></a><a href="/portal/howdoi.html"><img src="/media/topnav_howdoi.gif" width="84" height="19" border="0" name="topnav_howdoi" alt="How Do I"></a></td>
+        <td width="163" class="aiEmCell10" rowspan="2"><a href="/"><img src="/media/ai_logo.gif" width="163" height="46" border="0" name="ailogo" alt="Access Idaho"></a></td>
+      <td width="100%" class="aiEmCell10" align="right"><a class="aiEmCell10" href="#maincontent">Skip Navigation</a><img src="/media/topnav_hunk.gif" width="72" height="19" border="0" alt=""><a href="/"><img src="/media/topnav_home.gif" width="42" height="19" border="0" name="topnav_home" alt="Home"></a><a href="/online_services/search.html"><img src="/media/topnav_search.gif" width="64" height="19" border="0" name="topnav_search" alt="Search"></a><a href="/topical.html"><img src="/media/topnav_agencyindex.gif" width="97" height="19" border="0" name="topnav_agencyindex" alt="Agency Index"></a><a href="/public/portal/calendar.html"><img src="/media/topnav_calendar.gif" width="78" height="19" border="0" name="topnav_calendar" alt="Calendar"></a><a href="/public/portal/howdoi.html"><img src="/media/topnav_howdoi.gif" width="84" height="19" border="0" name="topnav_howdoi" alt="How Do I"></a></td>
+
     </tr>
 
     <!--SECTION HEADER-->
@@ -58,14 +123,16 @@ document.write('<'+'script language="JavaScript" type="text/javascript" src="/in
   <tbody><tr> 
     <td width="117" valign="top">
     
-        <a onmouseover="MM_swapImgRestore();MM_swapImage('btn_aboutidaho','','/media/3nav_aboutidaho_o.gif',1);cFrame.ShowMenu('About_Idaho', 0, 0, false,'btn_aboutidaho|3',6);" onmouseout="cFrame.tHideAll();" href="/aboutidaho/"><img src="/media/3nav_aboutidaho.gif" width="117" height="25" border="0" name="btn_aboutidaho" alt="About Idaho"></a><br>   
+    
+    <a onmouseover="MM_swapImgRestore();MM_swapImage('btn_aboutidaho','','/media/3nav_aboutidaho_o.gif',1);cFrame.ShowMenu('About_Idaho', 0, 0, false,'btn_aboutidaho|3',6);" onmouseout="cFrame.tHideAll();" href="/aboutidaho/"><img src="/media/3nav_aboutidaho.gif" width="117" height="25" border="0" name="btn_aboutidaho" alt="About Idaho"></a><br>   
     <a onmouseover="MM_swapImgRestore();MM_swapImage('btn_education','','/media/3nav_education_o.gif',1);cFrame.ShowMenu('Education', 0, 0, false,'btn_education|3',6);" onmouseout="cFrame.tHideAll();" href="/education/"><img src="/media/3nav_education.gif" width="117" height="25" border="0" name="btn_education" alt="Education"></a><br>       
     <a onmouseover="MM_swapImgRestore();MM_swapImage('btn_govt','','/media/3nav_govt_o.gif',1);cFrame.ShowMenu('Government', 0, 0, false,'btn_govt|3',6);" onmouseout="cFrame.tHideAll();" href="/government/"><img src="/media/3nav_govt.gif" width="117" height="25" border="0" name="btn_govt" alt="Government"></a><br>
     <a onmouseover="MM_swapImgRestore();MM_swapImage('btn_health','','/media/3nav_health_o.gif',1);cFrame.ShowMenu('Health___Safety', 0, 0, false,'btn_health|3',6);" onmouseout="cFrame.tHideAll();" href="/health_safety/"><img src="/media/3nav_health.gif" width="117" height="25" border="0" name="btn_health" alt="Health and Safety"></a><br>
     <a onmouseover="MM_swapImgRestore();MM_swapImage('btn_legal','','/media/3nav_legal_o.gif',1);cFrame.ShowMenu('Laws___Rules', 0, 0, false,'btn_legal|3',6);" onmouseout="cFrame.tHideAll();" href="/laws_rules/"><img src="/media/3nav_legal.gif" width="117" height="25" border="0" name="btn_legal" alt="Laws and Rules"></a><br>
     <a onmouseover="MM_swapImgRestore();MM_swapImage('btn_tourism','','/media/3nav_tourism_o.gif',1);cFrame.ShowMenu('Tourism___Trans', 0, 0, false,'btn_tourism|3',6);" onmouseout="cFrame.tHideAll();" href="/tourism_transport/"><img src="/media/3nav_tourism.gif" width="117" height="38" border="0" name="btn_tourism" alt="Tourism and Transportation"></a><br>  
     <a onmouseover="MM_swapImgRestore();MM_swapImage('btn_working','','/media/3nav_working_o.gif',1);cFrame.ShowMenu('Working', 0, 0, false,'btn_working|3',6);" onmouseout="cFrame.tHideAll();" href="/working/"><img src="/media/3nav_working.gif" width="117" height="25" border="0" name="btn_working" alt="Working"></a><br>
-      <img src="/media/3nav_rounded.gif" width="117" height="14" border="0" alt=""><br>
+    <img src="/media/3nav_rounded.gif" width="117" height="14" border="0" alt=""><br>
+<a name="maincontent">
     
     <!--ONLINE SERVICES-->
     <table width="117" border="0" cellspacing="0" cellpadding="0" align="left">
@@ -86,7 +153,7 @@ document.write('<'+'script language="JavaScript" type="text/javascript" src="/in
     </tbody></table>
        <!--END ONLINE SERVICES-->  
     
-    </td>
+    </a></td>
     
     <td width="100%" valign="top" class="aiContent">
     
@@ -181,6 +248,7 @@ Alliance.</a></p>
     <td width="468" class="aiContent">
       <a href="/ai/about.html">About Access Idaho</a> | 
       <a href="/disclaimer.html">Disclaimer</a> |
+      <a href="/accessibility.html">Accessibility</a> |
       <a href="/privacy.html">Privacy Policy</a> | 
       <a href="/public/portal/contact.html?ScriptForm.contactformstep=general">Contact</a>
     </td>
