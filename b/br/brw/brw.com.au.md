@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2002-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021130081320id_/http%3A//f2.com.au/core/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603163748id_/http%3A//f2.com.au/core/privacy.html) for the most accurate reproduction.*
 
 # f2 Membership - f2 Network Privacy Policy
 
