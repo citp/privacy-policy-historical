@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatebot.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114812id_/http%3A//www.affiliatebot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatebot.com privacy policy that was archived on 2003-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030327060852id_/http%3A//www.affiliatebot.com/privacy.htm) for the most accurate reproduction.*
 
 # Affiliatebot.com - Privacy Policy
 
