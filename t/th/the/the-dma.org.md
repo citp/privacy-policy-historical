@@ -1,66 +1,73 @@
-> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216225350id_/http%3A//www.the-dma.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603070037id_/http%3A//www.the-dma.org/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###  **Privacy Policy**
+###  **DMA’s Online Privacy Policy**
 
-This is a web site of The Direct Marketing Association (The DMA). 
-
-Our postal address is: 
+This is a Web site of The Direct Marketing Association. Our address is:
 
 > The Direct Marketing Association  
->  Attn: Customer Service, Opt Out  
->  1120 Avenue of the Americas   
-> New York, NY 10036-6700
+>  1120 Avenue of the Americas  
+>  New York, NY 10036-6700
+> 
+> [www.the-dma.org](http://www.the-dma.org/)
 
-We can be reached via e-mail at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or you can reach us by calling Customer Service at 212.768.7277. 
+You can reach us by e-mail at [customer@the-dma.org](mailto:customer@the-dma.org) or call us at 212.768.7277 x1500.
 
-For years The DMA has developed guidelines and programs to help marketers meet consumer privacy expectations. By providing consumers with notice of information practices and the ability to remove their names from lists, marketers have demonstrated their commitment to protecting consumer privacy. As interactive media evolve, The DMA and its membership renew their commitment to offer notice and opt-out in this new medium. 
+This policy is valid for one month from the time you visit our site. If our information practices change in the future, we will use only data collected from the time of the policy change forward for these new purposes, or we will contact you before we use your data for these new purposes and offer you the ability to opt out of these new uses.
 
-To reduce the amount of unsolicited commercial mail, telephone contact or e-mail from DMA member companies, you may submit an online form by going to <http://www.the-dma.org/consumers/consumerassistance.html>. To take your name off DMA contact lists only, use the mailing address above or e-mail us at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy). 
+### For Web site visitors who make purchases or otherwise sign on to our site…
 
-**_Note:_** The DMA does not compile, buy, sell, rent or trade consumer mailing lists. All marketing efforts we undertake are targeted toward a business audience only. We sometimes rent our DMA compiled, business oriented mailing lists to business-to-business companies and require that they adhere to the DMA's Privacy Promise. 
+When you sign on to our site or make a purchase, we collect your name, company name, contact information, profile and preference information. 
 
-For visitor's who do not sign on to our Web site, our Web server does not recognize information regarding their e-mail address. We do not have access to personally identifiable information related to visitors, unless they have a sign on account. We place cookies on visitors hard drives to collect agregate generic information about the number of vistors to our Web site and pages viewed. This information is used for analysis of traffic at our site. 
+When you make a purchase we also collect your credit card information, as well as information about your current purchase and we keep information on your purchase history. 
 
-For visitor's who sign on to our Web site, we ask for name, address and profile information when issuing a user name and password. These visitors may receive periodic mailings from us with information on new DMA products and services or upcoming DMA events. They may also receive mailings from other reputable companies. 
+This information is used by us and/or our agents: to support your interaction with our site, to deliver your purchases and to contact you again about other services and products we offer. We may also share your name and geographic address with other reputable companies who have offers we think may interest you. These marketers may in turn contact you. 
 
-If you do not want to receive marketing material from The DMA in the future, please let us know by sending us an e-mail at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or calling or writing us at the mailing address above. 
+**Addresses and phone numbers**
 
-For visitor's who sign on to the Web site, we place cookies on their hard drive which are used to maintain the sign on for the duration of the visit. We also use these cookies to track the pages the signed on visitor requests and to deliver DMA Web content based on the visitor's profile (as provided by the visitor) and past activity on the DMA Web site. The usage information we collect as a result of signing on to the Web site is not provided to any other organization or company and is used by The DMA in aggregate for traffic analysis and to provide relevant information or customized information to the visitor. 
+If you give us your postal address, we will send you periodic mailings with information on new DMA products, services or information on upcoming DMA events. You may also receive business mailings from other reputable companies.
 
-We collect the e-mail addresses of those who communicate with us via e-mail, and any information volunteered by the customer, such as survey information and/or site registrations. The information we collect is used to improve the content of our Web page and to contact business customers for marketing purposes or consumers for the purpose of providing assistance. 
+If you supply us with your telephone number, you may receive telephone contact from us with information regarding orders you have placed, new products and services or information on upcoming events. 
 
-If you do not want to receive e-mail from The DMA in the future, please let us know by sending us an e-mail at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or calling or writing us at the above address. 
+If you do not wish to receive mailings or phone calls from the DMA in the future or if you do not wish us to provide other reputable marketers with your mailing information, please let us know by sending an e-mail to [customer@the-dma.org](mailto:customer@the-dma.org).
 
-Visitors that supply The DMA with their postal address on-line may receive periodic mailings from us with information on new DMA products and services or upcoming DMA events. They may also receive mailings from other reputable companies. 
+**E-mail addresses**
 
-If you do not wish to receive such mailings, please let us know by sending an e-mail at [ customer@the-dma.org](mailto:customer@the-dma.orgsubject=The%20DMA%20Web%20Site%20Privacy%20Policy) or calling or writing us at the above address. Please provide us with your exact name and address and we will be sure your name is removed from our marketing list and/or the list we share with other organizations. 
+We collect the e-mail addresses of those who communicate with us by e-mail. The e-mail addresses are used to contact existing or potential business customers. Consumer-provided e-mails are kept only for the purpose of providing consumer advice and assistance. We will not share business or consumer e-mail addresses you give to us with other marketers unless you agree.
 
-Persons who supply The DMA with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line, new products and services or upcoming events. They may also receive periodic telemarketing calls from other carefully screened business-to-business marketers. 
+If you do not want to receive future e-mail from The DMA, please let us know by sending an e-mail to [customer@the-dma.org](mailto:customer@the-dma.org). 
 
-If you do not wish to receive such telephone calls, please let us know by sending e-mail to us at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or calling us at the above telephone number or writing to us at the above address. Please provide your correct phone number and we will be sure your name is removed from our marketing list and/or the list we share with other organizations. 
+**Cookies**
 
-Upon request we provide site visitors with access to a description of information that we maintain about visitors to our Web site.  If you wish to access and/or correct specific information we may maintain about you, we will accommodate all reasonable requests. Please contact us via e-mail at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or in writing at the above address. 
+**_All visitors_** – we place cookies on all Web site visitor hard drives to collect aggregate information on the number of visitors to our site and the number of pages viewed.
 
-We use industry-standard encryption technologies when transferring and receiving consumer payment data exchanged with our site. We have security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. 
+**_Registered visitors_** – we place unique identifier cookies on the hard drives of those who sign on which are used to maintain the visitor "sign on" status for the duration of the visit, for one-time customizing/tailoring of your visit and for long-term storage of user preferences. We also use cookies to track the pages visited by a visitor so that we can deliver DMA Web content based on the visitor's profile (as provided by the visitor) and the visitor's past activity on the DMA Web site.
 
-If our information practices change in the future, we will use only data collected from the time of the policy change forward for these new purposes, or we will contact you before we use your data for these new purposes and offer you the ability to opt out of these new uses. 
+**_General information_** – cookie information is used only by The DMA and our agents and is not provided to any other organization. It is used in aggregate for traffic analysis and to provide relevant information to our visitors. It is also used for Web site and system administration, including research and development, user analysis and business decision-making.
 
-When an organization posts a privacy statement on their Web site, they are making a commitment to visitors' privacy.  Of course, The DMA makes every effort to live up to its stated committment to privacy.  However, if you feel that The DMA, or any site, is not living up to its stated information policy, you may contact any of the following resources: 
+### For Web site visitors who do not make purchases or otherwise identify themselves…
 
-  * The DMA’s Committee on Ethical Business Practices at [pfaley@the-dma.org](mailto:pfaley@the-dma.org);
-  * State or local chapters of the Better Business Bureau;
-  * State or local consumer protection office; or 
-  * The Federal Trade Commission by phone at 202-FTC-HELP (202-382-4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>
+If you do not sign on to our Web site, our Web server does not have access to personally identifiable information about you. It does not know your e-mail address unless you volunteer it. At the same time, much of The DMA’s communication comes in the form of e-mail, so by not sharing your e-mail address you will have limited access to The DMA’s newsletters and other valuable information.
 
+### Clickstream Data
 
+We collect click-stream data and HTTP protocol elements through access logs. This information is not personally identifiable and is used for Web site and system administration including: research and development, user analysis and business decision-making.
 
-Companies that wish to create a privacy policy page and post it to their Web site can use [The DMA's Privacy Policy Creation Tool.](http://www.the-dma.org/library/privacy/creating.shtml)
+### Access
 
-You can find more information about privacy issues at The [Privacy Leadership Initiative](http://www.understandingprivacy.org/). The Privacy Leadership Initiative was formed by leaders of a number of different companies and associations who believe that individuals should have a say in how and when their personal information can be used to their benefit.
+Upon your request, we will provide you with a description of the information that we maintain about you. We will accommodate all reasonable requests. Please contact us by e-mail at [customer@the-dma.org](mailto:customer@the-dma.org) or in writing at the above address.
 
-  
+### Security
 
+We use industry-standard encryption technologies when transferring and receiving payment data. We have security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from or about you.
+
+### Accountability
+
+If you feel that The DMA, or any site, is not living up to its stated information policy, you may contact: 
+
+The DMA' s Department of Ethics and Consumer Affairs at [pfaley@the-dma.org](mailto:pfaley@the-dma.org) or call them at 202/861-2410, or
+
+The Federal Trade Commission at <http://www.ftc.gov/ftc/complain.htm> or call them at 202/FTC-HELP.
 
   [© Direct Marketing Association](http://www.the-dma.org/copyright.shtml) | [Privacy Statement](http://www.the-dma.org/privacy.shtml) | [Disclaimer](http://www.the-dma.org/disclaimer.shtml)
