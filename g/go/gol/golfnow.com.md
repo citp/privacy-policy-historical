@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205121900id_/http%3A//golfnow.com/shared/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203132700id_/http%3A//www.golfnow.com/shared/privacypolicy.asp) for the most accurate reproduction.*
 
 # Golf Now.com - Golf New, Travel, Auctions, Clubs, Tee Times, Golf Tips
 
