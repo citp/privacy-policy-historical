@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelguide.net privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607034649id_/http%3A//www.hotelguide.net/privacy_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelguide.net privacy policy that was archived on 2001-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011225022406id_/http%3A//www.hotelguide.net/privacy_policies.html) for the most accurate reproduction.*
 
 # RealMetros Privacy Policies
 
@@ -39,7 +39,7 @@ We do not disclose information about your individual visits or information that 
 **Privacy Policy Changes**   
 If we change our privacy policy, we will post those changes here so that you will always be fully informed of our privacy policy. 
 
-If you have any questions or concerns about this privacy policy, our practices, or your dealings with us, please [click here](http://metromanager.com/mm-bin/form_mn_contact.cfm?p_mgID=privacy). 
+If you have any questions or concerns about this privacy policy, our practices, or your dealings with us, please [click here](http://forms.metromanager.com/asp/ContactRM.asp?s=hg000&p=f1). 
 
 You can also send us mail at: RealMetros.com, Inc., c/o Legal Department, 3990 Sheridan Street, Suite 106, Hollywood, FL 33021. 
 
