@@ -1,51 +1,44 @@
-> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201034315id_/http%3A//stories.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212082912id_/http%3A//wimp.com/p) for the most accurate reproduction.*
 
-# Stories.Com: Stories.Com Privacy Statement
+# Privacy
 
-**Stories.Com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Stories.Com](http://www.stories.com/)
+No information is sold or released to anyone about visitors to Wimp.com without prior consent or a court order. In other words, no information is released to anyone unless you give permission first.
 
-Information Automatically Logged 
+Wimp.com does not attempt to collect personal information from children. Note that Wimp.com cannot always determine that a user is a child. Wimp.com does not maintain databases of children or adults.
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. It is also used to help determine the number of unique vistors to our website. 
+When visiting any Internet site, your unique address called an "IP address" is recorded. Wimp.com does not release any information about the collection of this address to any third party except under court order. Wimp.com archives the log files in order to create aggregate statistical reports, detect errors on the web site, and for security reasons. The log files are eventually deleted.
 
-Cookies 
+IP reports for advertisement clicks are shared with the advertiser. However, they usually have this information already since it is captured by their server when you view or click an ad. This is done to verify billing for the ads. No additional information associated with any specific user is provided to the advertisers. 
 
-Our Site uses cookies to save your password so you don't have to re-enter it as you surf through our site. Your login cookie will expire 24 hours after logging in or immediately upon clicking any "logout" link. 
+Overview
 
-Advertisers 
+Your privacy is important to us. Wimp.com's service is free for all to use, and prior registration is not needed.
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+Wimp.com will explicitly ask when it needs information that personally identifies you. All personal identifiable information Wimp.com collects are only gathered with your voluntary act. Wimp.com keeps all information private and does not, and will not, share it with any third parties except under these circumstances:
 
-Registration Forms 
+\- When such action is necessary to conform to legal requirements or comply with legal process.
 
-Our site's registration form requires users to give us contact information (like their first name, email, and postal code) and demographic information (like their zip code, age, or income level). 
+\- When such action is necessary to protect and defend the rights or property of Wimp.com.
 
-Contact information from the registration forms is used to get in touch with the customer when necessary, though we will use your provided @Stories.Com address in most cases. 
+Wimp.com uses cookies as part of tracking process for advertisement banners so you do not see the same ad repeatedly, but cookies will not be used to personally identify you without your prior consent.
 
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
+Wimp.com uses subscription forms for individuals to subscribe to its newsletter . Wimp.com will use your email address to provide you with the newsletter, which is usually mailed daily. Wimp.com will never send you any unsolicited email outside of the newsletter.
 
-Surveys 
+Wimp.com does not and will not share, sell or rent your email address to outside third parties. Neither does it supplement your information with any outside third parties. The contents of Wimp.com's mailing list will only be disclosed due to law or court demands. 
 
-Our online surveys ask visitors for demographic information (like zip code, age, or income level). 
+Unsubscribing from Wimp.com's newsletter is simple and can be done by following the instructions at the end of every email sent. 
 
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. 
+Disclaimer
 
-External Links 
+Wimp.com does not denote ownership of any images or content unless specified. Wimp.com recognizes all images and content on this site as free material. Wimp.com does not use images or content that are copyrighted unless express written permission is given by the author. Frequently, images and content are submitted by the visitors. Wimp.com does not have a way of checking for its copyright unless specifically stated on or in the image or content. If any image or content on Wimp.com is your work, please contact Miss Amy Bethune at amy.bethune@gmail.com for its removal. 
 
-This site may contain links to other sites. **Stories.Com** is not responsible for the privacy practices or the content of such Web sites. 
+Any pages that are original material of Wimp.com will include Wimp.com's URL on or in it. Any theft, alteration, modification, translation, or transgenderation of this material will be construed as robbery of intellectual property and will land in a fine and court date. 
 
-Public Forums 
+Some links on Wimp.com will take visitors outside its web server. Although these links were established to provide access to useful information, Wimp.com is not responsible for any of these sites or their content. 
 
-This site makes a public portfolio available to its users. Please remember that any information that is disclosed in this and other areas public areas, including but not limited to message forums, become public information and you should exercise caution when deciding to disclose your personal information. 
+Contact
 
-Security 
+If you have any questions about the dealings with this website, please contact:
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. While measures are in place, please be aware that nohing is 100% secure and we do not claim it to be so. 
-
-Contacting the Web Site 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-[ webmaster@Stories.Com](mailto:webmaster@Stories.Com)
+Name: Amy L. Bethune  
+Email: amy.bethune@gmail.com
