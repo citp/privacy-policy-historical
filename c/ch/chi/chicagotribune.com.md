@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the chicagotribune.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207094644id_/http%3A//www.chicagotribune.com/services/site/chi-privacy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagotribune.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604033520id_/http%3A//www.chicagotribune.com/services/site/chi-privacy.story) for the most accurate reproduction.*
 
 # Chicago Tribune | Privacy policy
 
-|  |  |  |    
-Privacy policy  
-Last updated January 2002   
 Chicagotribune.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by chicagotribune.com online and does not impact information collected or used by chicagotribune.com or its affiliates through other means.
 
 **How we gather information from users.**
@@ -55,10 +52,3 @@ Chicagotribune.com reserves the right to change this policy at any time. Please 
 **Governing law.**
 
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. Users of chicagotribune.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Chicagotribune.com is controlled, operated and administered entirely within the United States. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
-
-Copyright © 2002, [Chicago Tribune](https://web.archive.org/)
-
-  
-|   
----|---|---  
-| 
