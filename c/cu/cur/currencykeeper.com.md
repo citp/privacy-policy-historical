@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currencykeeper.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205133917id_/http%3A//compu-quote.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencykeeper.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206042648id_/http%3A//www.compu-quote.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Protection: Coin Collecting and Stamp Collecting Software by HobbySoft
 
@@ -29,8 +29,8 @@ In areas where you are purchasing HobbySoft products online, HobbySoft uses indu
 HobbySoft may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
 **Questions or Suggestions**  
-If you have questions or suggestions, please [contact us](https://web.archive.org/web/20041205133917id_/http%3A//compu-quote.net/contact.htm).
+If you have questions or suggestions, please [contact us](https://web.archive.org/web/20050206042648id_/http%3A//www.compu-quote.net/contact.htm).
 
 * * *
 
-HobbySoft ® by COMPU-QUOTE © Copyright 1982-2004 - Stamp Keeper TM, Coin Keeper TM, and HobbySoft ® are all Trademarks of COMPU-QUOTE 
+HobbySoft ® by COMPU-QUOTE © Copyright 1982-2005 - Stamp Keeper TM, Coin Keeper TM, and HobbySoft ® are all Trademarks of COMPU-QUOTE 
