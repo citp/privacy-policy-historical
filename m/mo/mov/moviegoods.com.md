@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215081355id_/http%3A//www.moviegoods.com/privacy_security.asp%3F%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604071150id_/http%3A//www.moviegoods.com/privacy_security.asp%3F%26) for the most accurate reproduction.*
 
 # MovieGoods - Privacy / Security
 
