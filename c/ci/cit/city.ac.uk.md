@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city.ac.uk privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611004424id_/http%3A//www.city.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city.ac.uk privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806000530id_/http%3A//www.city.ac.uk/privacy) for the most accurate reproduction.*
 
 # City University, London - privacy policy
 
