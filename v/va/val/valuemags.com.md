@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206182200id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402104957id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
