@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promomagazine.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203193618id_/http%3A//promomagazine.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promomagazine.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411153244id_/http%3A//promomagazine.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # PRIMEDIA Business - Online Business Information and News for Industry Communities
 
