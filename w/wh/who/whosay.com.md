@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whosay.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012212240id_/http%3A//www.whosay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosay.com privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619133856id_/http%3A//www.whosay.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
