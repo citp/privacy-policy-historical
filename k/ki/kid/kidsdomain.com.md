@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/FAQ/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/FAQ/privacy.html) for the most accurate reproduction.*
 
 # Kids Domain Privacy Policy
 
@@ -15,7 +15,7 @@ We are compliant with the Children's Online Privacy Protection Act (Coppa).
 
 When using our Site you may be asked to provide your e-mail address and age to receive one of our newsletters or to enter a contest. If you give us your e-mail address for a newsletter and you are under the age of 13, we will also ask you for your parent or guardian's e-mail address, so we can let them know that you asked us for a newsletter. 
 
-You may also be asked to create a screen name and password in order to participate in certain areas of the Site. If your are asked to create a screen name, please do not use your real name, try to think of something special and different. We will not use this information to contact you, only to make your access on the Site easier. 
+You may also be asked to create a screen name and password in order to participate in certain areas of the Site. If you are asked to create a screen name, please do not use your real name, try to think of something special and different. We will not use this information to contact you, only to make your access on the Site easier. 
 
 We will also ask for your parent or guardian's e-mail address if you win a contest or sweepstakes, so we can send you your prize. 
 
@@ -31,17 +31,17 @@ It is important for you to talk with your child about using the Internet safely.
   * Treat others as you would like to be treated! 
 
    
-We have a page of [safety information for families](http://www.kidsdomain.com/grown/nanny.html) with additional information. **OUR GENERAL PRIVACY POLICY**
+We have a page of [safety information for families](http://www.kidsdomain.com/brain/computer/surfing/index.html) with additional information. **OUR GENERAL PRIVACY POLICY**
 
 **I. INFORMATION COLLECTED**
 
-We only collect personally identifiable information that is voluntarily submitted to us. We may request such information to, among other things, allow a Visitor to receive one of our newsletters or to enter a contest. When such information is requested, the Visitor will be told the purpose for such information. The Site will not require a Visitor to disclose more information than is reasonable necessary to participate in an activity on the Site as a condition of such participation. 
+We only collect personally identifiable information that is voluntarily submitted to us. We may request such information to, among other things, allow a Visitor to receive one of our newsletters or to enter a contest. When such information is requested, the Visitor will be told the purpose for such information. The Site will not require a Visitor to disclose more information than is reasonably necessary to participate in an activity on the Site as a condition of such participation. 
 
 As with most sites, certain non-personally identifiable information is recorded by the standard operation of our server. Such information may include: the name of the ISP from which a Visitor accesses the Internet, the date and time a Visitor accessed the Site, the Internet address of the Web site from which a Visitor entered our Site and where a Visitor goes after leaving this Site. This information is used to measure and monitor the use of our Site and to improve its content. Data which would personally identify a Visitor is known only when voluntarily submitted. 
 
 **II. USE OF INFORMATION**
 
-E-mail addresses that are submitted for entry in a contest or sweepstakes will only be used for the purpose of determining a winner. If a child under the age of 13 is selected as the winner, we will notify that child that he/she has won and request that they provide us with a parent or guardian e-mail address, so that we may award the prize. Also, if permission is granted by a parent of guardian, we may post the winner's first name and home state. Once the prize is awarded, only information related to the child that won the prize will be maintained for internal administrative purposes. 
+E-mail addresses that are submitted for entry in a contest or sweepstakes will only be used for the purpose of determining a winner. If a child under the age of 13 is selected as the winner, we will notify that child that he/she has won and request that they provide us with a parent or guardian e-mail address, so that we may award the prize. Also, if permission is granted by a parent of guardian, we may post the winner's first name and home state. Once the prize is awarded, only information related to the person who won the prize will be maintained for internal administrative purposes. 
 
 Similarly, if a child wants to receive our newsletter, we will require a parent's e-mail address so that we may notify the parent or guardian of the child's request and allow the parent or guardian the opportunity to rescind that specific request. 
 
@@ -82,9 +82,9 @@ Bedford, TX 76022
 [Tigger@KidsDomain.com](mailto:tigger@kidsdomain.com) 
 
 
-[Kids Home](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/kids.html) \- [Grownups Place](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/grown.html) \- [KD Review](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/review/) \- [Downloads](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/down/)
+[Kids Home](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/kids.html) \- [Grownups Place](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/grown.html) \- [KD Review](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/review/) \- [Downloads](https://web.archive.org/web/20010602085817id_/http%3A//www.kidsdomain.com/down/)
 
 The Kids Domain - www.kidsdomain.com  
-© 2000 Attitude Network, Ltd., part of theglobe.com network, All Rights Reserved  
+© 2001 Attitude Network, Ltd., part of theglobe.com network, All Rights Reserved  
 Kid's Domain and the Kids Domain Logo are service marks of Attitude Network, Ltd.  
 Send comments and suggestions to: [tigger@kidsdomain.com](mailto:tigger@kidsdomain.com)
