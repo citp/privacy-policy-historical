@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the respond.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604025901id_/http%3A//www.respond.com/d/common/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respond.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813202702id_/http%3A//www.respond.com/d/common/privacypolicy.html) for the most accurate reproduction.*
 
-# Respond.com Respond.com | Privacy Policy
+# Respond.com | Privacy Policy
 
 Overview   
 [](https://www.truste.org/validate/3446)Respond.com knows how important your privacy is to you, and we appreciate you trusting us to handle your personal information responsibly and with integrity. The information we gather is used to provide you with a good experience and to help us improve our service for you. This document describes Respond.com's privacy policy and practices. **Please note that you are accepting the practices described in this Privacy Policy by visiting and using Respond.com.**
