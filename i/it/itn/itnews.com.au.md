@@ -1,21 +1,25 @@
-> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/privacystat.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnews.com.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/privacystat.asp) for the most accurate reproduction.*
 
 # iTNews
 
-|  [ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/crn/)  
+|  [ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/crn/)  
 ---  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/infoweek/)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/windows/)  
-[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/index.asp)  
-[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/subscribe/)  
-[](https://secure.itnews.com.au/register/register.asp)  
-[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/media/)  
-[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/event_sales.asp)  
-[](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/contact.asp)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/infoweek/)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/windows/)  
+[](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/index.asp)  
+[](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/subscribe/)  
+[](https://secure.authoritynetwork.com/itnews/register/register.asp)  
+[](http://www.authoritynetwork.com/advertise/)  
+[](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/event_sales.asp)  
+[](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/contact.asp)  
 [](http://www.itresellers.com.au/)  
+[RSS NEWS FEEDS](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/rssfeeds.asp)  
+[DIGITAL WEB BOOKS](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/digitalbooks.asp)  
   
 >   
->  AJB Publishing Pty Limited is committed to protecting your privacy. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
+>  _Our privacy policy has changed. To view changes please read the Email Marketing section._
+> 
+> AJB Publishing Pty Limited is committed to protecting your privacy. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
 > 
 > We take this stance not just to fulfil our legislative obligations under the Privacy Act 1988 ("the Act"), but also because we value your trust and our ongoing relationship. 
 > 
@@ -55,6 +59,16 @@
 >  (e) we have reason to suspect that unlawful activity has been, is being or may be engaged in, and we use the personal information as a necessary part of our investigation of the matter or in reporting our concerns to relevant persons or authorities; or  
 >  (f) it is required or specifically authorised by law; or  
 >  (g) it is reasonably necessary for the enforcement of the criminal law, a law imposing a pecuniary penalty, or for the protection of the public revenue. 
+> 
+> **Email Marketing**  
+>  At times we may send you promotional email offers we think you will be interested in (competitions, surveys and other offers). It is our policy to contact you in this manor, only if we have your consent to do so. Please note that we will have deemed to have been granted consent under the following circumstances: 
+> 
+> * where you have given us direct consent, via telephone, email, in writing or when prompted on one of our competitions, subscription, survey or other collection forms. 
+> * where we have stated that your consent is required as part of our terms and conditions on one of our competitions, surveys or other promotional offers. 
+> * where we have a direct relationship with you, via your purchase of one of our products. Please note in this circumstance, consent is only recorded for that specific product. 
+> * where you have subscriber to one on our online site or newsletter products. Please note in this circumstance, consent is only recorded for that specific product.
+> 
+> If at any time you wish to withdraw your consent to receive any such promotional material from any AJB Publishing product, simply visit our preference centre [click here](http://secure2.authoritynetwork.com/managelogin.aspx) and you can up date your options instantly. Please note if you are a customer of any AJB Publishing products you will have a unique Subscriber ID number which enables you to access this system. If you dont know your number, you can provide your email and surname details and we will do our best to locate you in our database. 
 > 
 > **Data Quality**   
 >  We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up-to-date. 
@@ -169,16 +183,16 @@
 > 
 > You may be required to provide identification prior to us releasing personal information. 
 
-> |  | [ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=2)  
+> |  | [ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=2)  
 ---  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=5)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=3)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=7)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=1)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=8)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=9)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=6)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=10)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=4)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=12)  
-[ ](https://web.archive.org/web/20031008201640id_/http%3A//www.itnews.com.au/content.asp?ID=17)
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=5)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=3)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=7)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=1)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=8)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=9)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=6)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=10)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=4)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=12)  
+[ ](https://web.archive.org/web/20040610122316id_/http%3A//www.itnews.com.au/content.asp?ID=17)
