@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800wheelchair.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621123303id_/http%3A//1800wheelchair.com/on2003asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800wheelchair.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204818id_/http%3A//www.1800wheelchair.com/on2003asp/privacy.asp) for the most accurate reproduction.*
 
 # 1-800-wheelchair.com: Corporate Information, Home Medical Equipment, Wheelchairs, Electric Scooters, walkers, Ramps, Lifts and Diabetic Supplies.
 
