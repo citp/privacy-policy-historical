@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wibw.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603162954id_/http%3A//www.wibw.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wibw.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008184627id_/http%3A//www.wibw.com/unclassified/647.html) for the most accurate reproduction.*
 
 # WIBW | Home
 
