@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wndu.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603180518id_/http%3A//www.wndu.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wndu.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203030738id_/http%3A//www2.wndu.com/about/privacy.php) for the most accurate reproduction.*
 
-# WNDU-TV: About WNDU
-
-| 
+# WNDU-TV: About WNDU - Privacy Guidelines
 
 [Home](https://web.archive.org/) > [About WNDU](https://web.archive.org/about/) > Privacy
 
@@ -44,32 +42,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 If you have any questions or concerns about the WNDU-TV's online policy for this site or its implementation you may contact us at [programming@wndu.com](mailto:programming@wndu.com). 
 
-|  |  |   
----  
-|  |   
-|  |    
-[New reason to go back to the carbohydrates?](https://web.archive.org/news/062002/news_14416.php)  
-  
-[Israelis say bomb factory was destroyed](https://web.archive.org/news/062002/news_14412.php)  
-  
-[Hearing being held to find out why FBI/CIA didn't do more to prevent 9/11 attacks](https://web.archive.org/news/062002/news_14411.php)  
-  
-[Terrorism drill in Israel dedicated to N.Y. firefighters killed on 9/11](https://web.archive.org/news/062002/news_14409.php)  
-  
-[World War II Veterans honored with High School diplomas](https://web.archive.org/news/062002/news_14402.php)  
-  
-  
-[Brewers try to continue success against Cubs tonight](https://web.archive.org/sports/062002/sports_14417.php)  
-  
-[Estes wins Kemper Open](https://web.archive.org/sports/062002/sports_14413.php)  
-  
-[Lakers have shot at a three-peat](https://web.archive.org/sports/062002/sports_14408.php)  
-  
-[Holyfield records a technical decision over Rahman](https://web.archive.org/sports/062002/sports_14407.php)  
-  
-[Indians pull out a victory over the Sox](https://web.archive.org/sports/062002/sports_14405.php)  
-  
-|  |   
-|  |   
-  
-
+[](http://www.wndu.com/ads/click.php3?bannerID=41)
