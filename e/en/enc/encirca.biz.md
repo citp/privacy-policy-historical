@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207034500id_/http%3A//www.encirca.biz/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404015139id_/http%3A//www.encirca.biz/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EnCirca
 
@@ -92,11 +92,12 @@ We conduct internal and external audits to determine the effectiveness of our co
 
 EnCirca  
 Attention: Privacy  
-PO Box 164  
-Reading, MA 01867 
+400 W. Cummings Park  
+Suite 1725-307  
+Woburn, MA 01801 
 
 Fax: 781-823-8911  
-E-mail: privacy(at)EnCirca.us 
+E-mail: encirca(at)spamfree.pw 
 
 **Openness**
 
@@ -202,11 +203,12 @@ If you have any questions regarding our privacy policy, please contact us at:
 
 EnCirca  
 Attention: Privacy  
-PO Box 164  
-Reading, MA 01867 
+400 W. Cummings Park  
+Suite 1725-307  
+Woburn, MA 01801>BR>
 
 Fax: 781-823-8911  
-E-mail: privacy(at)EnCirca.us 
+E-mail: encirca(at)spamfree.pw 
 
 **Policy Regarding Children's Use of Our Site**
 
