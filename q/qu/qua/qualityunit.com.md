@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224213539id_/http%3A//www.webradev.com/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204042026id_/http%3A//www.qualityunit.com/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # WebraDev - Professional/ Free Affiliate Script
 
