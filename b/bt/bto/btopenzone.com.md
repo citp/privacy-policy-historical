@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btopenzone.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024033id_/https%3A//www.bt.com/registration/monty_infopolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btopenzone.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611224055id_/http%3A//www.bt.com/registration/monty_infopolicy.jsp) for the most accurate reproduction.*
 
 # Register at BT.com
 
@@ -82,11 +82,12 @@ If you would like to stop unsolicited direct marketing mailers from BT and other
 If you would like BT ONLY not to call or mail you with details of products, services and special offers:
 
   * Residential customers please call 0800 800 150.
-  * Business customers please contact your Account Manager or call 0800 028 1801.
+  * Business customers please contact your Account Manager or call 0800 389 2312.
+  * Corporate and Government customers please call 0800 587 4687.
 
 If you would like to stop unsolicited marketing **facsimiles (faxes)** , please contact the Fax Preference Service on 0845 0700702 and register your fax number(s). Direct marketing faxes should stop after 28 days. If you are an individual consumer or a sole trader, it is illegal to send you such faxes unless you have given explicit permission to the sender.
 
-If you would like BT not to **email** you with details of products, services and special offers please complete your email address in the BT.com profile together with the contact option next to it. You may still receive emails in reply to those you send BT and notices connected with bills and orders. This opt out applies to the email address you provide to BT.com. But please remember that if you change your email provider, you will also need to change the address used by BT.com.
+If you would like BT not to **email** you with details of products, services and special offers please complete your email address in the BT.com profile together with the contact option next to it. You may still receive emails in reply to those you send BT and notices connected with bills and orders. This opt out applies to the email address you provide to BT.com. But please remember that if you change your email provider, you will also need to change the address used by BT.com. 
 
   
   
