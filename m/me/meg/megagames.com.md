@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607141258id_/http%3A//megagames.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012113219id_/http%3A//www.megagames.com/policy.htm) for the most accurate reproduction.*
 
 # MegaGames - Game Cheats
 
 |   
 ---  
-| [](http://www.myaffiliateprogram.com/u/gamegizm/t.asp?id=1017) |  |   
+| [](http://209.120.143.51/adimages/megagames/MG_shopadLINK.asp) |  |   
 ---|---|---  
   
 [](http://www.webtrendslive.com/redirect.asp?siteID=70254)
