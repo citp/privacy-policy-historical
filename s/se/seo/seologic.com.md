@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208080805id_/http%3A//www.seologic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seologic.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171250id_/http%3A//www.seologic.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement - SEO Logic
+# Privacy Statement - SEO Logic Search Engine Optimization and Placement Services
 
+  
 Effective January 1, 2002
 
 **Privacy Notice**
@@ -19,8 +20,6 @@ Email address
 Phone number  
 Descriptions of business issues  
 
-
-
 **The Way We Use Information**  
 We use the information you provide about yourself and your business to reply to your inquiries.
 
@@ -34,7 +33,7 @@ Finally, we never use or share the personally identifiable information provided 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **Our Commitment To Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Web site from those we actually know are under 13, and no part of our Web site is structured to attract anyone under 13.
 
 **How You Can Access Or Correct Your Information**  
 You can request that we delete your information by [emailing us](http://www.seologic.com/contact.php).
