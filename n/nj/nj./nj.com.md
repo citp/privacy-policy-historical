@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205111600id_/http%3A//nj.com/userguide/index.ssf%3F/njo_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413111003id_/http%3A//www.nj.com/userguide/index.ssf%3F/njo_privacy.html) for the most accurate reproduction.*
 
-# New Jersey Online: User Guide
+# NJ.com - User Guide
 
   
 **New Jersey Online Privacy Policy**
@@ -25,27 +25,20 @@ Again, if you have any concerns regarding your child's or your use of **New Jers
 
 |    
 |  INSIDE  
-**User Guide**  
+**[User Guide](https://web.archive.org/userguide/)**  
   
-**»**  [ **privacy policy**](https://web.archive.org/userguide/index.ssf?/njo_privacy.html)  
-**»**  [ **user agreement**](https://web.archive.org/userguide/index.ssf?/njo_agreement.html)  
-**»**  [ **copyright information**](https://web.archive.org/userguide/index.ssf?/copyright.html)  
-**»**  [ **help**](https://web.archive.org/help/)  
-**»**  [ **njo as homepage**](https://web.archive.org/userguide/index.ssf?/homepage.html)  
-**»**  [ **clicklets**](https://web.archive.org/clicklets/)  
-**»**  [ **njo pressroom**](https://web.archive.org/userguide/pressroom/)  
-**»**  [ **free newsletters**](https://web.archive.org/lists/)  
-**»**  [ **multimedia help**](https://web.archive.org/help/index.ssf?/multi.html)  
-**»**  [ **site index**](https://web.archive.org/index/)  
-**»**  [ **njo forums**](https://web.archive.org/forums/)  
-**»**  [ **njo awards**](https://web.archive.org/awards/)  
-**»**  [ **faq**](https://web.archive.org/userguide/index.ssf?/faq.html)  
-**»**  [ **bookmarking**](https://web.archive.org/userguide/index.ssf?/bookmarking.html)  
-**»**  [ **njo staff**](https://web.archive.org/userguide/index.ssf?/staff.html)  
-**»**  [ **jobs @ njo**](http://careersite.nj.com/perl/vaui/EmpList/top/foliobycust/99342-0162)  
-**»**  [ **home**](https://web.archive.org/userguide/index.ssf)  
+**»**  [Privacy Policy](https://web.archive.org/userguide/index.ssf?/njo_privacy.html)  
+**»**  [User Agreement](https://web.archive.org/userguide/index.ssf?/njo_agreement.html)  
+**»**  [Copyright](https://web.archive.org/userguide/index.ssf?/copyright.html)  
+**»**  [Help](https://web.archive.org/help/)  
+**»**  [Pressroom](https://web.archive.org/userguide/pressroom/)  
+**»**  [Free Newsletters](https://web.archive.org/lists/)  
+**»**  [Site Index](https://web.archive.org/index/)  
+**»**  [Bookmarking](https://web.archive.org/userguide/index.ssf?/bookmarking.html)  
+**»**  [NJ.com Staff](https://web.archive.org/userguide/index.ssf?/staff.html)  
+**»**  [Jobs With Us](http://careersite.nj.com/perl/vaui/EmpList/top/foliobycust/99342-0162)  
   
-[](http://ads4.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/userguide/index.ssf//njo_privacy.html/20001205061643/1425597526/Tile1/NJONLINE/NJBUREAU02NJ01/BPUAskTile.gif/64306439366435633361326363653930) | MARKETPLACE  
+[](http://ads4.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/userguide/index.ssf//njo_privacy.html/20010413071004/385929565/Tile1/NJONLINE/NJO_AUTO/AutoSupStoreTile.gif/64306439366435633361643664653830) | MARKETPLACE  
 ---  
 |  |  |   
 **»** [Savings Center](https://web.archive.org/savings/)  
