@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413094849id_/http%3A//forbes.com/fdc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbes.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216195458id_/http%3A//www.forbes.com/fdc/privacy.shtml) for the most accurate reproduction.*
 
 # Forbes.com
 
