@@ -1,77 +1,138 @@
-> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206145204id_/https%3A//www.coffeeforless.com/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeforless.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/privacy_and_security.asp) for the most accurate reproduction.*
 
-# CoffeeForLess.com
+# Coffee, Starbucks, Tea, Millstone, Keurig, coffee machines
 
-**Privacy & Security At CoffeeForLess.com[](https://www.truste.org/validate/12023)**
+|   
+---  
+  
+**  browse the store:**  
+  
+---  
+  
+  [ Ground Coffee](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=113)  
+  
+  [ Coffee Beans](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=159)  
+  
+  [ Tea](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=98)  
+  
+  [ Hot Chocolate](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=125)  
+  
+  [ Keurig](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=84)  
+  
+  [ Coffee Machines](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=145)  
+  
+  [ Espresso Machines](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=138)  
+  
+  [ Coffee Grinders](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=143)  
+  
+  [ Coffee Roaster](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=309)  
+  
+  [ Coffee Creamer](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=131)  
+  
+  [ Paper Products](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=165)  
+  
+  [ Sugar & Sweeteners](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=74)  
+  
+  [ Coffee Syrup](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=251)  
+  
+  [ Bottled Water](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=209)  
+  
+  [ Water Coolers](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=234)  
+  
+  [ Gifts](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=296)  
+  
+  [ Coffee Drinks](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/category.asp?id=351)  
+  
+|  |     
+---|---  
+| 
 
-**Privacy at CoffeeForLess.com-**
+|   
+  
+---  
+  
+**[ ](https://www.truste.org/validate.php?invnum=12023&fromcgi=1)CoffeeForLess.com** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site CoffeeForLess.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-**www.CoffeeForLess.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.CoffeeForLess.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.**
+  1. **What personally identifiable information CoffeeForLess collects.**
 
-**1\. What personally identifiable information CoffeeForLess collects.**
+  2. **What personally identifiable information third parties collect through the Web site.**
 
-**2\. What personally identifiable information third parties collect through the Web site.**
+  3. **What organization collects the information.**
 
-**3\. What organization collects the information.**
+  4. **How CoffeeForLess uses the information.**
 
-**4\. How CoffeeForLess uses the information.**
+  5. **With whom CoffeeForLess may share user information.**
 
-**5\. With whom CoffeeForLess may share user information.**
+  6. **What choices are available to users regarding collection, use and distribution of the information.**
 
-**6\. What choices are available to users regarding collection, use and distribution of the information.**
+  7. **What types of security procedures are in place to protect the loss, misuse or alteration of information under CoffeeForLess control.**
 
-**7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under CoffeeForLess control.**
+  8. **How users can correct any inaccuracies in the information.**
 
-**8\. How users can correct any inaccuracies in the information.  
-**
 
-**If users have questions or concerns regarding this statement, they should first contact Ben Kirshner by e-mail (ben@coffeeserv.com) If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/users/users_watchdog_intro.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns.**
 
-**Information Collection and Use Information Collection CoffeeForLessis the sole owner of the information collected on www.CoffeeForLess.com. CoffeeForLess collects information from our users at several different points on our Web site.**
 
-**Registration  
-In order to use this Web site, a user must first complete the registration form. During registration a user [is required to] give[s] contact information (such as name and email address). We use this information to contact the user about goods and services on our site for which he/she has expressed interest. **
+**** If users have questions or concerns regarding this statement, they should first contact Ben Kirshner by e-mail (ben@coffeeserv.com) If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/users/users_watchdog_intro.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
-**Order  
-We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user. **
+Information Collection and Use Information Collection CoffeeForLessis the sole owner of the information collected on www.CoffeeForLess.com. CoffeeForLess collects information from our users at several different points on our Web site. 
 
-**Cookies  
-A cookie is a piece of data stored on the user's computer tied to information about the user. [Usage of a cookie is in no way linked to any personally identifiable information while on our site.] We use [both] session ID cookies [and] persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. **
+**Registration**  
+In order to use this Web site, a user must first complete the registration form. During registration a user [is required to] give[s] contact information (such as name and email address). We use this information to contact the user about goods and services on our site for which he/she has expressed interest. 
 
-**Log Files  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. **
+**Order**  
+We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user. 
 
-**Service Announcements  
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. [Users may opt-out of these communications. Please see our Choice and Opt-out section.] **
+**Cookies**  
+A cookie is a piece of data stored on the user's computer tied to information about the user. [Usage of a cookie is in no way linked to any personally identifiable information while on our site.] We use [both] session ID cookies [and] persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. 
 
-**Customer Service  
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. **
+**Log Files**  
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
-**Sharing  
-Legal Disclaimer Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. **
+**Service Announcements**  
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. [Users may opt-out of these communications. Please see our Choice and Opt-out section.] 
 
-**Third Party Intermediaries  
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes **
+**Customer Service**  
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. 
 
-**Correcting/Updating/Deleting/Deactivating Personal Information  
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at ben@coffeeserv.com. [Or, contact us by telephone or postal mail at the contact information listed below]. **  
+**Sharing**  
+Legal Disclaimer Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+
+**Third Party Intermediaries**  
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes 
+
+**Correcting/Updating/Deleting/Deactivating Personal Information**  
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at ben@coffeeserv.com. [Or, contact us by telephone or postal mail at the contact information listed below]. 
+
 **Coffee Serv Inc.  
 1452 Southwind Way  
 Dresher PA 19025  
-800-784-8400 **
+800-784-8400**
 
-**Notification of Changes  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. **
+**Notification of Changes**  
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
-**If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner**
+If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner 
 
-**Security at CoffeeForLess.com-**
+**Security at CoffeeForLess.com-**  
+Ensuring secure online purchasing is a vital part of our commitment to honor your privacy. The CoffeeForLess.com site utilizes SSL (secure socket layers) to protect your personal information, including credit card numbers. SSL is used in order to encrypt all personal information, including your name and credit card number, so that it can't be read while being transferred from your web browser to our Internet site. Orders can only be completed using a browser that supports SSL. All versions of Microsoft Internet Explorer starting with 2.0 support SSL. All versions of Netscape Navigator starting with 2.0 support SSL. 
 
-**Ensuring secure online purchasing is a vital part of our commitment to honor your privacy. The CoffeeForLess.com site utilizes SSL (secure socket layers) to protect your personal information, including credit card numbers. SSL is used in order to encrypt all personal information, including your name and credit card number, so that it can't be read while being transferred from your web browser to our Internet site. Orders can only be completed using a browser that supports SSL. All versions of Microsoft Internet Explorer starting with 2.0 support SSL. All versions of Netscape Navigator starting with 2.0 support SSL.**
+If your browser does not support SSL or if you feel uncomfortable sending your personal information over the Internet, you can simply contact our customer service department to complete your order. Call us at 1-800-784-8400 for US/Canada customers or 1-215-848-8400 for international customers. Please have your product, shipping, and credit card information ready. 
 
-**If your browser does not support SSL or if you feel uncomfortable sending your personal information over the Internet, you can simply contact our customer service department to complete your order. Call us at 1-800-784-8400 for US/Canada customers or 1-215-848-8400 for international customers. Please have your product, shipping, and credit card information ready.**
+For tips and ideas on how to shop on the Internet while protecting your privacy, check out How to Be Web Ready, by the United States Federal Trade Commission (FTC). For more in-depth information read Site Seeing on the Internet which is also published by the FTC and is loaded with information on how to use the Internet wisely, while avoiding fraud and maintaining your privacy. 
 
-**For tips and ideas on how to shop on the Internet while protecting your privacy, check out[ How to Be Web Ready](http://www.ftc.gov/bcp/conline/pubs/online/webready/index.htm), by the United States Federal Trade Commission (FTC). For more in-depth information read [Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) which is also published by the FTC and is loaded with information on how to use the Internet wisely, while avoiding fraud and maintaining your privacy. **
-
-**Secure Shopping Guarantee:  
-The Fair Credit Billing Act states that you cannot be held liable by your bank for more than $50.00 of fraudulent charges on your credit card. We are so confident in our security that if you are held liable for any part of the $50.00, we guarantee to cover that amount, up to the full $50.00. We will cover this liability only when fraudulent use of your credit card came as a result of transactions made at CoffeeForLess.com, through no fault of your own. You must contact and notify your credit card company immediately in the event of fraudulent use of your credit card, following their rules and procedures. **
+**Secure Shopping Guarantee:**  
+The Fair Credit Billing Act states that you cannot be held liable by your bank for more than $50.00 of fraudulent charges on your credit card. We are so confident in our security that if you are held liable for any part of the $50.00, we guarantee to cover that amount, up to the full $50.00. We will cover this liability only when fraudulent use of your credit card came as a result of transactions made at CoffeeForLess.com, through no fault of your own. You must contact and notify your credit card company immediately in the event of fraudulent use of your credit card, following their rules and procedures.   
+  
+   
+  
+  
+  
+  
+[Contact Us](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/customerservice.asp) |  [ Office Coffee Service](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/fortheoffice.asp) |[ Privacy and Security ](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/privacy_and_security.asp)|[ Terms and Conditions](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/terms_and_conditions.asp)[  
+Press Room](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/pressroom.asp) |[Coffee Glossary](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/coffeeglossary.asp) | [ Recommended Coffee Sites](https://web.archive.org/web/20021209102331id_/http%3A//www.coffeeforless.com/links.asp)  
+** 1-800-784-8400  
+Weeknights/Weekends 1-917-596-1424  
+**© 2002 CoffeeServ Inc. All rights reserved.  
+  
+  
+[ ](http://www.looknomore.com/)
