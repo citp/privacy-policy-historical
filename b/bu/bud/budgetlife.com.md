@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetlife.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607232831id_/http%3A//www.budgetlife.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetlife.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012012052id_/http%3A//www.budgetlife.com/privacy.htm) for the most accurate reproduction.*
 
 # Budget life insurance - clients say thank you!
 
@@ -60,9 +60,9 @@ If you have any questions about the security at our website, you can send an ema
 **If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, you may email Customer Service at [ info@budgetlife.com](mailto:info@budgetlife.com), or phone or mail us at: 
 
 Budget Life Insurance  
-4968 Lakeridge Drive Suite 1A  
-Ypsilanti, MI 48197  
-(734) 417-4176 
+8255 E. Fairyduster Drive - Suite 101  
+Gold Canyon, AZ 85219  
+(480) 671-4686
 
   
 **Choice/Opt-out   
