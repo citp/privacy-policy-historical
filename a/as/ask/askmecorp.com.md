@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askmecorp.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215543id_/http%3A//www.askmecorp.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmecorp.com privacy policy that was archived on 2002-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020401214417id_/http%3A//www.askmecorp.com/privacy.asp) for the most accurate reproduction.*
 
-# Welcome to Askme Corporation
+# 
 
 Our postal address is:   
 AskMe Corporation   
@@ -9,7 +9,7 @@ Bellevue WA 98007
 Phone: (425) 564-9000   
 Fax: (425) 564-9200 
 
-We can be reached via e-mail at [feedback@askme.com](mailto:feedback@askme.com), or you can reach us by telephone at 206-937-9972. 
+We can be reached via e-mail at [feedback@askme.com](mailto:feedback@askme.com), or you can reach us by telephone at 425-564-9000. 
 
 AskMe respects your privacy. Please read the following information about our policies for use of any of your personal information. 
 
