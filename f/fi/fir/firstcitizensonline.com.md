@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401140326id_/http%3A//www.firstcitizensonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2003-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031218074350id_/http%3A//www.firstcitizensonline.com/privacy.htm) for the most accurate reproduction.*
 
 # Disclaimers
 
@@ -99,7 +99,7 @@ _Note: Medical information obtained as part of an application for insurance is s
      You may have additional privacy rights in the future under the laws of South Carolina or the state in which you reside, and we may be required to send you additional notices or disclosures. We will comply with all applicable state and federal laws that protect the privacy of your information. 
 
 **A Final Comment.  **  
-     We are confident our consumer privacy policies and practices warrant your trust and confidence. If you have any questions, please contact us at **1-888-612-4444** , or write to us at First Citizens Bank, P.O. Box 29, Columbia, South Carolina 29202, Attention: Compliance Department. Thank you for doing business with us.
+     We are confident our consumer privacy policies and practices warrant your trust and confidence. If you have any questions, please contact us at **1-888-612-4444** , or you may visit one of our offices. Thank you for doing business with us.
 
 **CONSUMER TIPS FOR PROTECTING PERSONAL INFORMATION**
 
