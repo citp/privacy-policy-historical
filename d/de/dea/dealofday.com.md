@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204030700id_/http%3A//www.worldvillage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603082925id_/http%3A//www.worldvillage.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -13,7 +13,7 @@ We can be reached via e-mail at jcomm@worldvillage.com
 Or you can reach us by telephone at 405-348-2800  
 
 
-The policies below are applicable to worldvillage.com, toylab.com and other sites on the World Wide Web portion of the Internet owned and operated by InfoMedia, Inc. 
+The policies below are applicable to worldvillage.com, toylab.com, dealofday.com, freebietracker.com, familyfirst.com and other sites on the World Wide Web portion of the Internet owned and operated by InfoMedia, Inc. 
 
 InfoMedia, Inc. collects personally identifying information only during (i) contest or sweepstakes Registration, (ii) subscription Registration for sites that require subscription, (iii) opt-in email lists where content is specifically presented, and (iv) online shopping. In addition, Registration is required and information is collected in certain portions of sites in which guests provide content submissions and suggestions or participate in interactive online activities (i.e., community postings, voting, chat, games, or bulletin boards). InfoMedia, Inc. may use such information to fulfill prizes, track compliance with our House Rules, or for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event that InfoMedia, Inc. plans to post any such information on a site, guests are provided prior notification of such posting and given the option of preventing such posting. 
 
@@ -69,7 +69,7 @@ Users should be aware that when you are on InfoMedia, Inc. sites you could be di
 
 Please keep in mind that whenever you give out personal information online -– for example, via message boards or chat -– that information can be collected and used by people you don’t know. While InfoMedia, Inc. strives to protect its users' personal information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
 
-WorldVillage works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy-body.html>
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 
 **Your Acceptance of These Terms**
 
