@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhbbank.com.my privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004164922id_/http%3A//www.rhbbank.com.my/generalinfo/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhbbank.com.my privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205534id_/http%3A//rhbbank.com.my/generalinfo/privacy.shtm) for the most accurate reproduction.*
 
 # RHB BANK > Privacy
 
@@ -73,6 +73,6 @@ Jalan Tun Razak
 50400 Kuala Lumpur  
 Malaysia  
 Facsimile number : +60-3-2143 5552  
-email: [ibanksupport@rhbbank.com](mailto:ibanksupport@rhbbank.com) 
+email: [ibanksupport@rhbbank.com.my](mailto:ibanksupport@rhbbank.com.my) 
 
 ©2003, RHB Bank Berhad. Subject to Terms & Conditions of Use
