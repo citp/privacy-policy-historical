@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410211754id_/http%3A//www.equifax.com/universal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204215934id_/http%3A//www.equifax.com/universal/privacy.shtml) for the most accurate reproduction.*
 
 # Equifax Corporate
 
 [Corporate Home](https://web.archive.org/index.html) > Privacy Policy  
   
+
+
+**ALERT:** [False e-mail resurfaces about Consumer Credit File Privacy. Get the facts!](https://web.archive.org/corp/pressroom/pressreleases/2003/2003_04_16.shtml)  
 
 
 **EQUIFAX ONLINE PRIVACY POLICY & FAIR INFORMATION PRINCIPLES   
@@ -155,13 +158,46 @@ Further information on the BBBOnLine Privacy Seal is available at [http://www.bb
 Return to Top
 
 **Equifax and the Online Privacy Alliance**  
-Equifax is also a member of the Online Privacy Alliance (OPA) ([www.privacyalliance.org](https://web.archive.org/web/20030410211754id_/http%3A//www.equifax.com/universal/www.privacyalliance.org)). Equifax and OPA support self-regulatory initiatives that create an environment of trust and that foster the protection of individuals' privacy online and in electronic commerce.
+Equifax is also a member of the Online Privacy Alliance (OPA) ([www.privacyalliance.org](https://web.archive.org/web/20031204215934id_/http%3A//www.equifax.com/universal/www.privacyalliance.org)). Equifax and OPA support self-regulatory initiatives that create an environment of trust and that foster the protection of individuals' privacy online and in electronic commerce.
 
-**USE OF COOKIES**
+**USE OF COOKIE TECHNOLOGY**
 
-Equifax uses "cookie" technology only during those web sessions during which you access the Personal Solutions web site and register for a User ID and Password, and choose to order Personal Solutions Products during that same session. All other visits to our web site will be anonymous and no cookies are used.
+**What is a Cookie?**   
+A cookie is a piece of text information that a web server may transfer to the hard drive of your computer through your web browser when you visit our website. Cookies are commonly used by websites to improve your experience and to enable systems to recognize your browser. Some cookies may last only through a single visit (session cookie); others may have an expiration date; still others may remain on your computer until you delete them (persistent cookie).
 
-When we do use cookies, as described above, our use of them is limited. Cookies that we use are "per session" and are deleted once your browser is closed. We use these cookies for several purposes; for example, a cookie creates a tracking identification number each time you sign on to the web site. This tracking number makes your registration information accessible for each transaction you make during that visit. This permits you to order more than once during a visit without your having to re-enter your information each time you place an order for a Personal Solutions Product.
+Only the information that you provide, or the choices you make while visiting a website, can be stored in a cookie. For example, the site cannot determine your e-mail name unless you choose to type it. Allowing a website to create a cookie does not give that or any other site access to the rest of your computer, and only the site that created the cookie can interpret it.
+
+**How We Use Cookies:** We use session and persistent cookie technology for several purposes. For example, cookies:
+
+  * allow you to order more than once during a visit without your having to re-enter your information each time you place an order for a Personal Solutions product;   
+
+  * allow us to gather aggregated statistical data about the use of our website for research purposes;   
+
+  * help us improve your navigation of our website;   
+
+  * enable us to store your preferences for certain kinds of information and marketing offers;   
+
+  * help us provide features such as personalized greetings;  
+
+  * allow us to store your username and encrypted customer identification number so that we recognize you when you return to our website;   
+
+  * and to help us combat identity theft and fraud with more reliable identity verification and authentication data.
+
+
+
+Our cookies will only collect information during your online activity at our website, not during any of your other Internet activity. Cookies set by us or our agents are not able to be interpreted by or shared with any other third party without your explicit consent. 
+
+We may combine cookie data with personally identifiable information you provide to us (e.g., your email address) so that you may receive marketing offers likely to be of interest to you. Of course, you may opt out of receiving these offers at any time by following the instructions in the marketing offer.
+
+We may sometimes use outside technology companies to set cookies on our website and collect cookie information for us. We use the cookie information collected by these companies in the same manner as stated above in this section. Those companies may not use these cookies for their own internal purposes or share the information collected with any party other than Equifax.
+
+**How You Can Accept or Reject Cookies:**  
+You can decide if and how your computer will accept a cookie by establishing your preferences in your web browser. Please understand that, if you choose to reject cookies, you may not be able to use certain of our online services or website features.   
+
+
+Internet Explorer is set up to allow the creation of cookies; however, you can specify that you be prompted before a site puts a cookie on your hard disk, so you can choose to allow or disallow the cookie; or you can prevent Internet Explorer from accepting any cookies. 
+
+You can specify different settings for different security zones. For example, you might want to allow websites to create cookies if they are in your Trusted sites or Local intranet zone, prompt you before creating cookies if they are in your Internet zone, and never allow cookies if they are in your Restricted sites zone. 
 
 **CHILDREN'S PRIVACY**
 
