@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unos.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603223618id_/http%3A//www.unos.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604030223id_/http%3A//www.unos.org/privacy.asp) for the most accurate reproduction.*
 
-# United Network for Organ Sharing
+# United Network for Organ Sharing: Organ Donation and Transplantation
 
 The United Network for Organ Sharing (UNOS) respects the privacy of every individual who visits our Web site. This privacy policy outlines the information UNOS may collect and how we may use that information.
 
