@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbug.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211154843id_/http%3A//www.searchbug.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbug.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621162512id_/http%3A//www.searchbug.com/privacy.aspx) for the most accurate reproduction.*
 
 # SearchBug Privacy Policy
 
@@ -15,9 +15,8 @@ SearchBug collects information through our Web site at several points. Informati
 A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. SearchBug makes limited use of cookies only in order to provide personalized content. Examples include:  
 
 
-  * On the homepage, SearchBug can remember your favorite search engine selection in the drop-down list.
-  * On search pages, some information you enter like ZIP codes and State names is automatically saved, so that next time you visit this page you do not have to type ZIP or State name.
-  * You login name (not the password) to SearchBug e-mail is preserved in a cookie, if you select "Remember" check box.
+  * Some information you enter like ZIP codes and State names is automatically saved, so that next time you visit this page you do not have to type ZIP or State name.
+  * You login name (not the password) to SearchBug e-mail can be preserved in a cookie, if you select "Remember" check box.
 
 
 
