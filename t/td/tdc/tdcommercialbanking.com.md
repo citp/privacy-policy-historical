@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdcommercialbanking.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165930id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdcommercialbanking.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622232746id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.*
 
 # 
 
@@ -6,11 +6,10 @@ TD Bank Financial Group's Privacy Code informs you of our commitment to and poli
 
 Many of you have questions about how we are handling the information we obtain from you when you visit our Web sites. We developed an On-Line Privacy Policy to answer your questions about the information we collect when you visit a Web site of the TD Bank Financial Group and how we use it. To review the full text of our On-Line Privacy Policy, click here. 
 
-Privacy Code Table of Contents
+Privacy Code Table of Contents   
 
-* * *
 
-Protecting your privacy and the confidentiality of your personal information has always been fundamental to the way we do business within TD Bank Financial Group*. 
+Protecting your privacy and the confidentiality of your personal information has always been fundamental to the way we do business within TD Bank Financial Group¤. 
 
 We strive to provide you with the best customer service. To us, that includes treating you fairly and with respect. 
 
@@ -43,7 +42,9 @@ We will protect your information with appropriate safeguards and security measur
 
 5\. Respecting and responding to your privacy concerns
 
-In this Privacy Code, we will explain your options for refusing or withdrawing consent to the collection, use and release of your information, and we will record and respect your choices. We will investigate and respond to your concerns about any aspect of our handling of your information. In this Privacy Code, we will explain how we fulfill each of these important principles.
+In this Privacy Code, we will explain your options for refusing or withdrawing consent to the collection, use and release of your information, and we will record and respect your choices. We will investigate and respond to your concerns about any aspect of our handling of your information. 
+
+In this Privacy Code, we will explain how we fulfill each of these important principles.
 
 Why we ask for your information
 
@@ -65,7 +66,11 @@ This is used to assess your eligibility for any credit product, for example, a T
 
 • Health information
 
-This is required for some insurance products to ensure you are eligible for coverage. We only collect the information we need and only use it for the purposes explained to you. When you apply for a new product or service, we will indicate in the application or agreement how we intend to use your information. If we wish in the future to use it for another purpose, we will ask you for your consent at that time. We will only ask for the information we need for that particular product or service. We will indicate clearly which information would help us to serve you but is optional for you to provide.
+This is required for some insurance products to ensure you are eligible for coverage. 
+
+_We only collect the information we need and only use it for the purposes explained to you._
+
+When you apply for a new product or service, we will indicate in the application or agreement how we intend to use your information. If we wish in the future to use it for another purpose, we will ask you for your consent at that time. We will only ask for the information we need for that particular product or service. We will indicate clearly which information would help us to serve you but is optional for you to provide.
 
 Serving you better
 
@@ -77,7 +82,9 @@ It lets us instantly recognize your total relationship with TD Bank Financial Gr
 
 Sharing your information also helps us determine your financial needs because it allows us to review what TD Bank Financial Group products you have and how you use them. We may then offer you other TD Bank Financial Group products and services - including special promotions - that we believe will be of interest to you. 
 
-Please note that health information that may have been provided in connection with an insurance product is never shared. This consent is optional and you can decide to withdraw it at any time. Please refer to the "Respecting your preference" section (Page 10).
+_Please note that health information that may have been provided in connection with an insurance product is never shared._
+
+This consent is optional and you can decide to withdraw it at any time. Please refer to the "Respecting your preference" section (Page 10).
 
 Why we ask others for information about you
 
@@ -89,7 +96,7 @@ For credit products, for example, we need to know your creditworthiness. For thi
 
 When we release your information
 
-We are not in the business of selling customer lists or information to others. However, we may release your information to parties outside TD Bank Financial Group in certain circumstances, which include:
+_We are not in the business of selling customer lists or information to others. However, we may release your information to parties outside TD Bank Financial Group in certain circumstances, which include:_
 
 • With your consent
 
@@ -123,7 +130,9 @@ All employees of TD Bank Financial Group are familiar with the procedures that m
 
 _We audit our procedures and security measures regularly to ensure that they are being properly administered and that they remain effective and appropriate._
 
-We retain your information only as long as it is required for the reasons it was collected. The length of time we retain information varies depending on the product or service and the nature of the information. This period may extend beyond the end of your relationship with us but only for so long as it is legally necessary for us to have sufficient information to respond to any issue that may arise at a later date. When your information is no longer needed for the purposes explained to you, we have procedures to destroy, delete, erase or convert it to an anonymous form.
+_We retain your information only as long as it is required for the reasons it was collected._
+
+The length of time we retain information varies depending on the product or service and the nature of the information. This period may extend beyond the end of your relationship with us but only for so long as it is legally necessary for us to have sufficient information to respond to any issue that may arise at a later date. When your information is no longer needed for the purposes explained to you, we have procedures to destroy, delete, erase or convert it to an anonymous form.
 
 Your right to access your information
 
@@ -147,7 +156,11 @@ You can help by keeping us informed of any changes, such as if you move or chang
 
 Respecting your preference
 
+_
+
 We will explain your options of refusing or withdrawing consent to the collection, use or release of your information, and we will record and respect your choices.
+
+_
 
 In most cases you are free to refuse or withdraw your consent at any time. You may do so by contacting the branch or office where your account is held or by calling us at 1-800-430-6095. Our staff will be pleased to explain your options and any consequences of refusing or withdrawing your consent, and record your choices.
 
@@ -207,7 +220,8 @@ Toronto, Ontario M5B 2K3
 
 _You may also contact The Office of the Privacy Commissioner of Canada at 112 Kent Street, Ottawa, Ontario K1A 1H3, or call toll-free at 1-800-282-1376._
 
-* * *
+  
+
 
 Our online privacy policy
 
@@ -268,27 +282,29 @@ When you submit your answers to a game or contest or submit your response to a s
 
 We will use your submission for the purpose of awarding a prize in a contest. We use your submission to come up with the game or survey results, and we may publish those results in aggregate on our websites. We may use your response to improve our website or other products or services of TD Bank Financial Group. Based on your response, we may forward information about our offers on products and services that we believe may be of interest to you.
 
-* * *
+  
+
 
 Who can answer your  
 questions about privacy
 
 To review your options under TD's Privacy Code, simply visit  
-any TD branch or office, or call toll-free:  
-1-800-430-6095 
+any branch or office, or call toll-free:  
+1-800-430-6095
 
 en français (in French)  
-1-888-572-8925 
+1-888-572-8925
 
   
 (in Cantonese/Mandarin)  
-1-800-328-3698 
+1-800-328-3698
 
-TDD (Telephone Device for the Deaf)  
-1-800-361-1180 
+TTY (text telephone for customers who are deaf)  
+1-800-361-1180
 
 or visit our website at  
-www.td.com  
+[www.td.com](http://www.td.com/)  
 
 
-* * *
+  
+
