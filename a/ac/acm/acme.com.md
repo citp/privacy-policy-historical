@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acme.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620024636id_/http%3A//www.acme.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acme.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211015900id_/http%3A//www.acme.com/privacy.html) for the most accurate reproduction.*
 
 # ACME Labs Privacy Policy
 
@@ -10,7 +10,7 @@ We log the standard information kept by web servers, including your IP address. 
 
 #### Cookies
 
-We believe that the privacy concerns over cookies are uninformed. If you set your browser to only accept cookies from the same server as the page being viewed (in Netscape, Edit -> Preferences -> Advanced), you are safe from cookie-based snooping. That's really all there is to it. 
+We believe that the privacy concerns over cookies are mostly uninformed. If you set your browser to only accept cookies from the same server as the page being viewed (in Netscape, Edit -> Preferences -> Advanced), you are safe from cookie-based snooping. That's really all there is to it. 
 
 This site uses cookies wherever they are technically indicated. 
 
