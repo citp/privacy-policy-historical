@@ -1,0 +1,746 @@
+<!--The following is the downloaded HTML source of the crainscleveland.com privacy policy that was archived on 2005-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405232726id_/http%3A//www.crainscleveland.com/page.cms%3FpageId%3D15) for the most accurate reproduction.-->
+
+<html><head>
+<title>Crain's Cleveland Business</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Expires" content="0">
+<link href="/styles/default.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ browser_version = parseInt(navigator.appVersion);
+ browser_type = navigator.appName;
+ 
+ if (browser_type == "Netscape" && (browser_version <= 4.7)) {
+  document.write("<link REL='stylesheet' HREF='/styles/default-ns4.css' TYPE='text/css'>");
+ } 
+// -->
+</script>
+
+<style type="text/css">
+<!--
+a:link, a:visited {
+	color: #950124;
+	text-decoration: none;
+	}
+-->
+</style>
+<!------ OAS SETUP begin ------>
+<script language="JavaScript">
+<!--
+//+PMA 6.12.2002 Added for oas tags.
+function MakeArray(n)
+{
+  this.length = n;
+  for (var x = 1; x <= n; x++)
+  {
+    this[x] = 0;
+  }
+
+  return this;
+}
+
+var ckArray = new MakeArray(3);
+ckArray[0] = "USER-ID";
+ckArray[1] = "CTM-NBR";
+ckArray[2] = "ZIP-5";
+
+function GetCookie (name) {
+    var arg = name + "=";
+    var alen = arg.length;
+    var clen = document.cookie.length;
+    var i = 0;
+    while (i < clen) {
+        var j = i + alen;
+        if (document.cookie.substring(i, j) == arg)
+            return getCookieVal (j);
+        i = document.cookie.indexOf(" ", i) + 1;
+        if (i == 0) break;
+    }
+    return null;
+}
+function SetCookie (name, value) {
+    var argv = SetCookie.arguments;
+    var argc = SetCookie.arguments.length;
+    var expires = (argc > 2) ? argv[2] : null;
+    var path = (argc > 3) ? argv[3] : null;
+    var domain = (argc > 4) ? argv[4] : null;
+    var secure = (argc > 5) ? argv[5] : false;
+    document.cookie = name + "=" + escape (value) +
+    ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+    ((path == null) ? "" : ("; path=" + path)) +
+    ((domain == null) ? "" : ("; domain=" + domain)) +
+    ((secure == true) ? "; secure" : "");
+}
+function DeleteCookie (name) {
+    var exp = new Date();
+    exp.setTime (exp.getTime() - 1);
+    var cval = GetCookie (name);
+    document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+function getCookieVal(offset) {
+    var endstr = document.cookie.indexOf (";", offset);
+    if (endstr == -1)
+        endstr = document.cookie.length;
+    return unescape(document.cookie.substring(offset, endstr));
+}
+function SwapCharactersInString(fullString, stringToSwap, stringToSwapWith)
+{
+  
+  var returnString = '';
+  var charString;
+  var i = 0;
+  while (i < fullString.length)
+  {
+    charString = fullString.charAt(i);
+    if (charString == stringToSwap)
+	{
+	  charString = stringToSwapWith;
+	}
+	returnString = returnString + charString;
+    i++;
+  }
+  return returnString;
+}
+function WriteSecCrainLink (str,type)
+{
+  {
+        secCrainLink = "https://sec.crain.com/cl/cgi-bin/circulation.pl";
+  }
+  
+  if (str == 'NewSubscription') {
+    secCrainLink = 'https://sec.crain.com/clw/cgi-bin/newsub.pl';
+  }
+  if (str == 'RenewMySubscription') {
+    secCrainLink = 'https://sec.crain.com/clw/cgi-bin/renew.pl';
+  }
+  if (str == 'Subscribe') {
+    secCrainLink = 'https://sec.crain.com/cl/cgi-bin/circulation.pl';
+  }
+  if (str == 'CheckOnASubscription') {
+    secCrainLink = 'https://sec.crain.com/clw/cgi-bin/verify.pl';
+  }
+  if (str == 'PayAnInvoice') {
+    secCrainLink = 'https://sec.crain.com/clw/cgi-bin/paysub.pl';
+  }
+  if (str == 'ChangeMyAddress') {
+    secCrainLink = 'https://sec.crain.com/clw/cgi-bin/adrchng.pl';
+  }
+    
+  var maxParams = 3;
+  var firstTimeIn = true;
+
+  for (var x = 0; x < maxParams; x++)
+  {
+    cookieValue = GetCookie(ckArray[x]);
+	if (cookieValue != null)
+    {
+      if (firstTimeIn) { secCrainLink = secCrainLink + "?"; }
+	  firstTimeIn = false;
+	  secCrainLink = secCrainLink + ckArray[x] + "=" + cookieValue;
+	  if (x != (maxParams - 1))
+	  {
+	    secCrainLink = secCrainLink + "&";
+	  }
+	}
+  }  
+        if (firstTimeIn) {
+                secCrainLink = secCrainLink + "?";
+        } else {
+                secCrainLink = secCrainLink + "&";
+        }
+        if (type == 'nav') {
+                secCrainLink = secCrainLink + "KEY-CDE=W5SCLK";
+        } 
+        if (type == "banner") {
+                secCrainLink = secCrainLink + "KEY-CDE=W5468LK";
+        }
+
+  return secCrainLink;
+}
+//End of 6.12.2002
+//configuration
+OAS_url = 'http://oascentral.crainscleveland.com/RealMedia/ads/';
+//OAS_url = 'http://oas-central.realmedia.com/RealMedia/ads/';
+//OAS_sitepage = window.location.hostname + window.location.pathname;
+OAS_sitepage = 'www.crainscleveland.com/page/crains_privacy_policy';
+OAS_listpos = 'Top2,Right1,Middle1,TopRight,Left1,x13';
+OAS_query = '';
+
+OAS_target = '_blank';
+//end of configuration
+OAS_version = 10;
+//OAS_rn = '001234567890'; OAS_rns = '1234567890';
+//OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+OAS_rns = '471628582';
+function OAS_RICH(pos) {
+  document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + '" BORDER=0></A>');
+}
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+  OAS_version = 10;
+if (OAS_version >= 11)
+  document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + '"><\/SCRIPT>');
+//-->
+</script><script language="JavaScript1.1" src="http://oascentral.crainscleveland.com/RealMedia/ads/adstream_mjx.ads/www.crainscleveland.com/page/crains_privacy_policy/1471628582@Top2,Right1,Middle1,TopRight,Left1,x13?"></script>
+<script language="JavaScript">
+<!--
+document.write('');
+//-->
+</script>
+<!------ OAS SETUP end ------>
+<script language="javascript">
+function GetObjRef (id) 
+{
+    if (document.getElementById) 
+    {
+	return document.getElementById(id);
+    }
+    else if (document.all) 
+    {
+	return document.all[id];
+    }
+    return null;
+}
+
+function SetLeftNav () 
+{
+    var objLeftNavSpacer = GetObjRef('LeftNavSpacer');
+    var objLeftRailTd = GetObjRef('LeftRailTd');
+    if (objLeftNavSpacer && objLeftRailTd) 
+    {
+    	objLeftNavSpacer.height = objLeftRailTd.offsetHeight - 
+    	objLeftNavSpacer.offsetTop;
+    	objLeftNavSpacer.width = 1;
+    }
+}
+</script>
+</head>
+
+<body topmargin="5" bgcolor="#ffffff" onload="SetLeftNav();">
+<!-- BEGIN WEBSIDESTORY CODE v8.0.0 (11up) -->
+<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
+<!-- prepared for crainscleveland.com  -->
+
+<script language="javascript" id="_hbc">
+var _acct="DM530610L3AS83EN3";	//account number(s)
+var _pn="Index.html"; //page name(s)
+var _mlc="page/crains_privacy_policy"; //multi-level content category
+var _seg=""; // visitor segmentation
+var _cmp=""; // campaign id
+var _gp="";  // campaign goal
+var _cmpn="CCLOCMP";// campaign id in query
+var _gpn="CCLOGLPG"; // campaign goal in query
+var _fnl=""; // funnels
+var _pec=""; // error codes
+var _fv="";  // form validation function name
+var _dcmp="";// dynamic campaign
+var _dcmpn="";//dynamic campaign in query
+var _hra=""; // response attribute
+var _hcn=""; // conversion
+var _hcv=""; // conversion value
+var _hlt=""; // lead tracking
+var _hla=""; // lead attribute
+var _hqsr="";// response attribute in referrer query
+var _hqsp="";// response attribute in query
+var _hc1=""; // custom 1
+var _hc2=""; // custom 2
+var _hc3=""; // custom 3
+var _hc4=""; // custom 4
+var _cp="null"; // campaign
+var _pndef="title"; //default page name
+var _ctdef="full"; //default content category
+var _dlf="n"; //download filter
+var _elf="n"; //exit link filter
+var _epg="n"; //event page identifier
+var _gn="ehg-crain.hitbox.com",_mn="we12"; //gateway & machine name
+</script><script language="javascript1.1" defer="" src="/javascripts/hbe-11up.js">
+</script><script language="javascript">if(navigator.appName!='Netscape'&&parseInt(
+navigator.appVersion)<3)document.write("<!"+"--")</script><noscript>
+<img src="http://ehg-crain.hitbox.com/HG?hc=we12&cd=1&hv=6&ce=u&hb=DM530610L3AS83EN3&n=Index.html&vcon=page/crains_privacy_policy&seg=&cmp=&gp=&fnl=&pec=&dcmp=&ra=&gn=&cv=&ld=&la=&c1=&c2=&c3=&c4=" border="0" width="1" height="1">
+</noscript><!--//-->
+<!-- END WEBSIDESTORY CODE  -->
+
+<table border="0" cellspacing="0" cellpadding="0" width=" 758">
+  <tbody><tr> 
+      <td><img src="/images/global/spacer.gif" width="190" height="1"></td>
+      <td align="right"><img src="/images/global/tab_inactive_left.gif" width="9" height="17" id="newsLeft" alt="Today's News"></td>
+      <td width=" 115" class="inactiveTab" align="center" valign="middle"><a href="http://crainscleveland.com" class="blackLinks">HEADLINES </a></td>
+      <td align="left"><img src="/images/global/tab_inactive_right.gif" width="9" height="17" id="newsRight" alt="Today's News"></td>
+    <td><img src="/images/global/spacer.gif" width="7" height="17" id="newsSpacer" alt=""></td>
+      <td align="right"><img src="/images/global/tab_inactive_left.gif" width="9" height="17" id="weekLeft" alt="This Week's Issue"></td>
+      <td width=" 115" class="inactiveTab" align="center" valign="middle"><a href="http://crainscleveland.com/article.cms" class="blackLinks">THIS WEEK'S ISSUE</a></td>
+      <td align="left"><img src="/images/global/tab_inactive_right.gif" width="9" height="17" id="weekRight" alt="This Week's Issue"></td>
+    <td><img src="/images/global/spacer.gif" width="7" height="17" id="weekSpacer" alt=""></td>
+      <td align="right"><img src="/images/global/tab_inactive_left.gif" width="9" height="17" id="archivesLeft" alt="Archives"></td>
+      <td width=" 115" class="inactiveTab" align="center" valign="middle"><a href="http://crainscleveland.com/search.cms" class="blackLinks">ARCHIVES</a></td>
+      <td align="left"><img src="/images/global/tab_inactive_right.gif" width="9" height="17" id="archivesRight" alt="Archives"></td>
+    <td><img src="/images/global/spacer.gif" width="7" height="17" id="archivesSpacer" alt="Archives"></td>
+      <td align="right"><img src="/images/global/tab_inactive_left.gif" width="9" height="17" id="listLeft" alt="Crain's List"></td>
+      <td width=" 115" class="inactiveTab" align="center" valign="middle"><a href="http://crainscleveland.com/list.cms" class="blackLinks">BUSINESS LISTS</a></td>
+      <td align="left"><img src="/images/global/tab_inactive_right.gif" width="9" height="17" id="listRight" alt="Crain's List"></td>
+  </tr>
+  <tr> 
+    <td colspan="16" bgcolor="#000000"><img src="/images/global/spacer.gif" width="1" height="4"></td>
+  </tr>
+  <tr> 
+    <td colspan="16">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td><a href="http://crainscleveland.com"><img src="/images/index/dotcomHeader.gif" width="545" height="104" alt="Crain's Cleveland Business" id="header" border="0"></a></td>
+          <td align="right">
+            <script language="JavaScript">
+	<!-- 
+	OAS_RICH("TopRight"); 
+	//-->
+	</script><a href="http://oascentral.crainscleveland.com/RealMedia/ads/click_nx.ads/www.crainscleveland.com/page/crains_privacy_policy/1471628582@Top2,Right1,Middle1,TopRight,Left1,x13!TopRight?" target="_blank"><img src="http://oascentral.crainscleveland.com/RealMedia/ads/adstream_nx.ads/www.crainscleveland.com/page/crains_privacy_policy/1471628582@Top2,Right1,Middle1,TopRight,Left1,x13!TopRight?" border="0"></a>
+            <!-- <img src="/images/index/header_ad.gif" width="185" height="90" alt="" id="ad1"> -->
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<table width="758" border="0" cellspacing="0" cellpadding="0">
+
+          <tbody><tr><td valign="middle" align="center"><script language="JavaScript"> 
+		  <!-- 
+		  OAS_RICH("Top2"); 
+		  //-->
+		  </script><a href="http://oascentral.crainscleveland.com/RealMedia/ads/click_nx.ads/www.crainscleveland.com/page/crains_privacy_policy/1471628582@Top2,Right1,Middle1,TopRight,Left1,x13!Top2?" target="_blank"><img src="http://oascentral.crainscleveland.com/RealMedia/ads/adstream_nx.ads/www.crainscleveland.com/page/crains_privacy_policy/1471628582@Top2,Right1,Middle1,TopRight,Left1,x13!Top2?" border="0"></a> <!-- <img src="/images/index/middle_ad.gif" > --> </td>
+
+</tr></tbody></table>
+
+
+<table width="758" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width=" 138"><img src="/images/global/spacer.gif" width="1" height="8"></td>
+    <td width=" 500"><img src="/images/global/spacer.gif" width="1" height="8"></td>
+    <td width=" 120"><img src="/images/global/spacer.gif" width="1" height="8"></td>
+  </tr>
+
+  <tr> 
+
+    <td width="138" valign="top" align="center" height="1" bgcolor="#DBB780" id="LeftRailTd"> 
+      <script language="JavaScript">
+      <!--
+	  var SearchInNum = "1";
+	  function SetSearchIn (n) 
+	  {
+		if (document["radio" + SearchInNum]) {
+			document["radio" + SearchInNum].src = "/images/global/radioff.gif";
+		}
+		if (document["radio" + n]) {
+			document["radio" + n].src = "/images/global/radion.gif";
+		}
+		SearchInNum = n;
+		if (n == 1) {
+		  document.nlsearch.action = "http://crainscleveland.com/search.cms";
+		  document.nlsearch.method = "post";
+        }
+		if (n == 2) {
+		  document.nlsearch.action = "http://www.google.com/custom";
+		  document.nlsearch.method = "get";
+        }
+		return false;
+	  }
+	  -->
+      </script>
+      <form name="nlsearch" method="post" action="http://crainscleveland.com/search.cms" onsubmit="		  document.nlsearch.q.value = document.nlsearch.keyword.value;">
+        <input type="hidden" name="cof" value="T:black;LW:545;L:http://crainscleveland.com/images/index/dotcomHeader.gif;LC:green;LH:104;BGC:white;AH:center;S:http://www.crainscleveland.com;AWFID:58cafa0cb8898c8a;">
+		<input type="hidden" name="q" value="">
+		<input type="hidden" name="quickSearch" value="1">
+		<input type="hidden" name="quickSearchResults" value="1">
+		<input type="hidden" name="case" value="insensitive">
+		<input type="hidden" name="words" value="all">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+          <tbody><tr> 
+            <td style="padding-left: 3px;" colspan="2" class="blackCell"><script language="JavaScript"><!--
+browser_version = parseInt(navigator.appVersion);
+browser_type = navigator.appName;
+
+if (browser_type == "Netscape" && (browser_version <= 4.7)) {
+document.write('<b>Search </b><input type="text" name="keyword" class="input" size="4">');
+} 
+
+else {
+document.write('<b>Search </b><input type="text" name="keyword" class="input" style="width: 75px;">');
+}
+
+// --></script><b>Search </b><input type="text" name="keyword" class="input" style="width: 75px;"></td>
+            <td><img src="/images/global/spacer.gif" width="1" height="34"></td>
+          </tr>
+          <tr> 
+            <td class="dotcomSearchBg" colspan="3"> &nbsp;&nbsp;<a href="#" onclick="return SetSearchIn (1);"><img name="radio1" border="0" src="/images/global/radion.gif" width="13" height="13" align="top"></a> 
+              Search Crain's<br>
+              <nobr> &nbsp;&nbsp;<a href="#" onclick="return SetSearchIn (2);"><img name="radio2" border="0" src="/images/global/radioff.gif" width="13" height="13" align="top"></a> 
+              Search Google</nobr> </td>
+          </tr>
+          <tr align="right"> 
+            <td valign="top" class="dotcomSearchButton"><img src="/images/global/spacer.gif" width="70" height="1"> 
+            </td>
+            <td valign="top" align="left"> 
+              <input type="image" src="/images/index/dotcomSearchButton.gif" id="searchButton" border="0" width="35" height="14" name="image" onclick="submit();">
+            </td>
+            <td valign="top"><img src="/images/global/spacer.gif" width="1" height="1" name="searchSpacer"></td>
+          </tr>
+        </tbody></table>
+</form>
+<table cellpadding="0" cellspacing="0" border="0" class="dotcomLeftnav" id="LeftNavTable">
+<tbody><tr>
+<td align="center" valign="top">
+<!-- begin nav --> 
+	<img src="/images/global/spacer.gif" width="130" height="1" alt="Email Services" id="emailServices"> 
+      <div id="blackLinks"> 
+        <table width="90%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            <td align="left"><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="" id="leftnavSpacer1"></td>
+            <td><a href="/subscribe.cms" class="dotcomSidenav">Subscribe</a> </td>
+          </tr>
+          <tr> 
+            <td align="left"><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="" id="leftnavSpacer1"></td>
+            <td><a href="/profile.cms" class="dotcomSidenav">Email Alerts</a> </td>
+          </tr>
+          <tr> 
+            <td align="left"><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="" id="leftnavSpacer2"></td>
+            <td><a href="/profile.cms" class="dotcomSidenav">Edit Profile</a></td>
+          </tr>
+        </tbody></table>
+        <p> <script language="JavaScript"> 
+		<!-- 
+		OAS_RICH("Left1");
+		//-->
+		</script><a href="http://oascentral.crainscleveland.com/RealMedia/ads/click_nx.ads/www.crainscleveland.com/page/crains_privacy_policy/1471628582@Top2,Right1,Middle1,TopRight,Left1,x13!Left1?" target="_blank"><img src="http://oascentral.crainscleveland.com/RealMedia/ads/adstream_nx.ads/www.crainscleveland.com/page/crains_privacy_policy/1471628582@Top2,Right1,Middle1,TopRight,Left1,x13!Left1?" border="0"></a> <!-- <img src="/images/index/left_ad.gif" width="126" height="125" alt="" id="ad2"> -->
+        </p>
+        <table width="90%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr valign="top"> 
+                <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Subscription Services" id="arrow6"></td>
+                <td colspan="2" class="dotcomSidenav">
+                <script languange="JavaScript">
+                   document.write('<a href="' + WriteSecCrainLink('Circulation','nav') +'">');
+                   </script><a href="https://sec.crain.com/cl/cgi-bin/circulation.pl?KEY-CDE=W5SCLK">Subscription Services</a></td>
+              </tr>
+          <tr valign="top"> 
+           <td align="left"><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Book of Lists" id="arrow0"></td>
+           <td colspan="2"><a href="http://crainscleveland.clickdata.com" class="dotcomSidenav" width="8" height="10">Book of Lists</a></td>
+          </tr>
+
+          <tr valign="top"> 
+            <td align="left"><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Lists" id="arrow1"></td>
+            <td colspan="2"><a href="http://crainscleveland.com/list.cms" class="dotcomSidenav" width="8" height="10">Business Lists</a></td>
+          </tr>
+
+
+          <tr valign="top"> 
+            <td align="left"><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Events" id="arrow1"></td>
+            <td colspan="2"><a href="http://crainscleveland.com/events/calendar.cms" class="dotcomSidenav" width="8" height="10">Events</a></td>
+          </tr>
+
+          <tr valign="top"> 
+            <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Classifieds" id="arrow2"></td>
+            <td colspan="2"><a href="http://crainscleveland.com/classified.cms" class="dotcomSidenav" width="8" height="10">Classifieds</a></td>
+          </tr>
+<!--
+          <tr valign="top"> 
+            <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Stocks" id="arrow3"></td>
+            <td colspan="2"><a href="http://crainscleveland.master.com/texis/master/search/stock.html" class="dotcomSidenav" width="8" height="10" >Stocks</a></td>
+          </tr>
+-->
+           
+          <tr valign="top"> 
+            <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Stocks" id="arrow3"></td>
+            <td colspan="2" class="dotcomSidenav"><a href="http://crainscleveland.com/resource.cms?resourceId=10">Career Center</a></td>
+          </tr>
+           
+          <tr valign="top"> 
+            <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Stocks" id="arrow3"></td>
+            <td colspan="2" class="dotcomSidenav"><a href="http://www.neohio.craintech.com" target="_blank">CrainTech</a></td>
+          </tr>
+           
+          <tr valign="top"> 
+            <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Stocks" id="arrow3"></td>
+            <td colspan="2" class="dotcomSidenav"><a href="http://crainscleveland.com/resource.cms?resourceId=5">Health Care</a></td>
+          </tr>
+           
+          <tr valign="top"> 
+            <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Stocks" id="arrow3"></td>
+            <td colspan="2" class="dotcomSidenav"><a href="http://crainscleveland.com/resource.cms?resourceId=6">Real Estate</a></td>
+          </tr>
+           
+          <tr valign="top"> 
+            <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Stocks" id="arrow3"></td>
+            <td colspan="2" class="dotcomSidenav"><a href="http://crainscleveland.com/resource.cms?resourceId=12">Small Business</a></td>
+          </tr>
+           
+<!--
+        <tr valign="top"> 
+          <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Bankruptcies" id="arrow4"></td>
+          <td colspan="2"><a href="Use Static Manager To Create Link" class="dotcomSidenav" width="8" height="10">Bankruptcies</a></td>
+        </tr>
+        <tr valign="top"> 
+          <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Tax Leins" id="arrow5"></td>
+          <td colspan="2"><a href="Use Static Manager To Create Link" class="dotcomSidenav" width="8" height="10">Tax 
+            Leins</a></td>
+        </tr>
+-->
+          <tr valign="top"> 
+            <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="How do I?" id="arrow6"></td>
+            <td colspan="2" class="dotcomSidenav">How do I?</td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer3"></td>
+            <td class="tanDropBg"><img src="/images/global/tanDropDown.gif" width="10" height="15" alt="Contact Crain's" id="dropdown4"></td>
+            <td><a href="http://www.crainscleveland.com/page.cms?pageId=9" class="dotcomSidenavSub" width="8" height="10">Contact 
+              Crain's</a></td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer4"></td>
+            <td class="tanDropBg"><img src="/images/global/tanDropDown.gif" width="10" height="15" alt="Advertise" id="dropdown5"></td>
+            <td><a href="http://www.crainscleveland.com/page.cms?pageId=8" class="dotcomSidenavSub" width="8" height="10">Advertise</a></td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer5"></td>
+            <td><img src="/images/global/tanDropBottom.gif" width="10" height="15" alt="" id="dropdown6"></td>
+            <td><a href="http://www.crainscleveland.com/page.cms?pageId=6" class="dotcomSidenavSub" width="8" height="10">Add 
+              Crain's to my site</a></td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/darkRedArrow.gif" width="11" height="14" alt="Crain's Links" id="arrow8"></td>
+            <td colspan="2" class="dotcomSidenav">Crain's Links</td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer6"></td>
+            <td class="tanDropBg"><img src="/images/global/tanDropDown.gif" width="10" height="15" alt="Chicago" id="dropdown7"></td>
+            <td><a href="http://www.chicagobusiness.com" class="dotcomSidenavSub" width="8" height="10" target="_blank">Chicago</a></td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer7"></td>
+            <td class="tanDropBg"><img src="/images/global/tanDropDown.gif" width="10" height="15" alt="Detroit" id="dropdown8"></td>
+            <td><a href="http://www.crainsdetroit.com" class="dotcomSidenavSub" width="8" height="10" target="_blank">Detroit</a></td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer8"></td>
+            <td class="tanDropBg"><img src="/images/global/tanDropDown.gif" width="10" height="15" alt="Mexico City" id="dropdown9"></td>
+            <td><a href="http://www.elasesor.com.mx/" class="dotcomSidenavSub" width="8" height="10" target="_blank">Mexico 
+              City</a></td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer9"></td>
+            <td class="tanDropBg"><img src="/images/global/tanDropDown.gif" width="10" height="15" alt="New York" id="dropdown10"></td>
+            <td><a href="http://www.crainsny.com" class="dotcomSidenavSub" width="8" height="10" target="_blank">New 
+              York</a></td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer10"></td>
+            <td class="tanDropBg"><img src="/images/global/tanDropDown.gif" width="10" height="15" alt="Automotive News" id="dropdown11"></td>
+            <td><a href="http://www.automotivenews.com" class="dotcomSidenavSub" width="8" height="10" target="_blank">Automotive 
+              News</a></td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer11"></td>
+            <td class="tanDropBg"><img src="/images/global/tanDropDown.gif" width="10" height="15" alt="Modern Healthcare" id="dropdown12"></td>
+            <td><a href="http://www.modernhealthcare.com" class="dotcomSidenavSub" width="8" height="10" target="_blank">Modern 
+              Healthcare</a></td>
+          </tr>
+          <tr valign="top"> 
+            <td><img src="/images/global/spacer.gif" width="11" height="1" alt="" id="leftnavSpacer12"></td>
+            <td><img src="/images/global/tanDropBottom.gif" width="10" height="15" alt="Plastics News" id="dropdown13"></td>
+            <td class="dotcomSidenavSub"><a href="http://www.plasticsnews.com" class="dotcomSidenavSub" target="_blank">Plastics 
+              News</a></td>
+          </tr>
+        </tbody></table>
+      </div>
+<img src="/images/global/spacer.gif" id="LeftNavSpacer" width="1" height="782">
+</td></tr></tbody></table>
+<!-- end nav-->
+
+      </td>
+<!-- end google code -->
+
+<!-- body/middle rail content -->
+
+    <td valign="top"><a name="top"></a> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td valign="top">      </td>
+        </tr>
+      </tbody></table>
+
+<!-- Always have this at the top for the online main template -->
+  
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  
+  <tbody><tr> 
+    <td style="width: 10px;"><img src="/images/global/spacer.gif" width="10" height="1"></td>
+    <td> 
+<p class="MsoNormal" align="center" style="text-align:center"><span style="mso-bidi-font-family: Times New Roman"><b><font face="Arial" size="3">Privacy
+Policy<o:p>
+</o:p>
+</font></b></span><font face="Arial"><span style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Times New Roman"><font size="2"><span style="mso-spacerun:yes">&nbsp;</span></font></span></font><b style="mso-bidi-font-weight:
+normal"><span style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Times New Roman"><font size="2" face="Arial"><span style="color:black"><o:p>
+</o:p>
+</span></font></span></b></p>
+<p class="MsoNormal" style="mso-pagination:none;tab-stops:28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt;
+mso-layout-grid-align:none;text-autospace:none"><i style="mso-bidi-font-style:
+normal"><font face="Arial" size="2"><span style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Times New Roman">CrainsCleveland.com</span></font></i><font face="Arial" size="2"><span style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Times New Roman">
+is the Web site of<i style="mso-bidi-font-style:normal"> Crain’s Cleveland
+Business</i>, a publication of Crain Communications Inc.<span style="mso-spacerun:yes">&nbsp;
+</span>Our postal address is <st1:address w:st="on">
+<st1:street w:st="on">
+700 W. St. Clair Ave., Suite 310</st1:street>
+, <st1:city w:st="on">
+Cleveland</st1:city>
+, <st1:state w:st="on">
+OH</st1:state>
+ <st1:postalcode w:st="on">
+44113</st1:postalcode>
+</st1:address>
+.<span style="mso-spacerun:yes">&nbsp; </span>We can be reached by e-mail at </span><i style="mso-bidi-font-style:normal"><span style="mso-bidi-font-family: Times New Roman"><a href="mailto:clevelandweb@crain.com">clevelandweb@crain.com</a></span></i><span style="mso-bidi-font-family: Times New Roman">
+or by telephone at 216-522-1383.<span style="mso-spacerun:yes">&nbsp; </span>Your
+use of our Web site indicates to us that you have read and accepted our Privacy
+Policy and our Terms and Conditions.</span><span style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Times New Roman"><o:p>
+&nbsp;</o:p>
+</span></font></p>
+<p class="MsoNormal" style="mso-pagination:none;tab-stops:28.0pt 56.0pt 84.0pt 112.0pt 140.0pt 168.0pt 196.0pt 224.0pt 3.5in 280.0pt 308.0pt 336.0pt;
+mso-layout-grid-align:none;text-autospace:none"><font face="Arial"><span style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Times New Roman"><font size="2">We
+have developed this Privacy Policy to advise subscribers and users of our
+products about our possible uses of information collected by us and to inform
+you on how to modify your marketing preferences.<span style="mso-spacerun:yes">&nbsp;
+</span>This Privacy Policy is subject to change.<span style="mso-spacerun:yes">&nbsp;
+</span>When we make any material change to this Privacy Policy, we will inform
+you by posting a notice on the home page of this site and by changing the date
+on this page noting when the Privacy Policy was last updated.</font></span></font><font face="Arial" size="2"><span style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Times New Roman; color: black"><o:p>
+&nbsp;</o:p>
+</span></font></p>
+<p class="MsoNormal" style="margin-bottom:12.0pt"><font face="Arial" size="2"><span style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Times New Roman; color: black">When
+you subscribe, register, make purchases or at other times, we collect and store
+personally identifiable information from you that may include your name, postal
+and e-mail addresses, credit card information, facts about your profession,
+company and responsibilities and information regarding your computer system. For
+each visitor to this Web site, our web server may automatically attempt to
+identify the user through a cookie set within your browser. This is done to
+provide access to the site. From time to time we may also track information, in
+aggregate, on pages and features that users access or view. The activity is
+collected and stored in our server's log files. Our email alerts utilize
+tracking technology that allows us to see how many newsletter e-mails are opened
+and the e-mail address of users who have clicked on a given story, feature or
+advertisement.<span style="mso-spacerun:yes">&nbsp; </span>We use this
+information for internal purposes to measure the aggregate number of people who
+view a given newsletter item.<o:p>
+</o:p>
+</span></font></p>
+<p><font face="Arial" size="2">We may also set cookies to your computer to allow
+subscribers and users to store login information, set personalization and
+navigate easily through the site.<span style="mso-spacerun:yes">&nbsp;&nbsp; </span>Additionally,
+through the use of an additional cookies or technology, we will have the ability
+to track users by their behavior profile and geographic location for the purpose
+of pushing advertising that matches their interests and/or specific location.<span style="mso-spacerun:yes">&nbsp;
+</span>We may conduct online surveys and contests or generate content that is
+presented by aggregating activity of users on the site. These surveys and
+contests are entirely voluntary and you may decline to participate.</font></p>
+<p><font face="Arial" size="2">Information collected about subscribers and users
+may be used by us and our affiliates and partnering third-party companies to
+provide subscribers and users with the features of the site, to enable us to
+provide the products you requested, to personalize content and advertising, to
+send you e-mail notifications about our services and products, for audits, to
+perform statistical analysis of user behavior in order to measure interest in
+the various areas of our site (such as for product development purposes), to
+enforce our user agreement and to inform advertisers as to how many users have
+seen or "clicked" their advertising banners. We will disclose site
+usage information to third parties only in aggregate.</font></p>
+<p><font face="Arial" size="2">From time to time, we may make individual
+subscriber or user information available to carefully selected third parties to
+send you information through e-mail or postal mail about their products or
+services.<span style="mso-spacerun:yes">&nbsp; </span>If you prefer not to have
+your personal information disclosed to third parties for direct marketing
+purposes, please send an e-mail stating this preference and including your full
+name and e-mail address to<i style="mso-bidi-font-style:normal"> <a href="mailto:clevelandweb@crain.com">clevelandweb@crain.com</a>
+</i>or, if you are a print subscriber, please call 1-800-678-9595.<span style="mso-spacerun:yes">&nbsp;
+</span>A user may change/correct his/her preferences or personal information at
+any time online or by contacting us at the above e-mail address or phone number.<span style="mso-spacerun:yes">&nbsp;
+</span>We retain the right to contact a subscriber or registered user regarding
+account status, orders for products or services, changes to the registration
+agreement or to enforce our subscription agreement.</font></p>
+<p><font face="Arial" size="2">We will remove any registrant (and their personal
+information) from our database pursuant to a request from the registrant,
+including full name and e-mail address, to<i style="mso-bidi-font-style:normal">
+<a href="mailto:clevelandweb@crain.com">clevelandweb@crain.com</a></i>. You may
+not be able to fully access this Web site if you request removal of your
+personal information.</font></p>
+<p><font face="Arial" size="2">This Web site is operated in the <st1:place w:st="on">
+<st1:country-region w:st="on">
+United States</st1:country-region>
+</st1:place>
+.<span style="mso-spacerun:yes">&nbsp; </span>If you are located in the European
+Union or elsewhere outside of the <st1:country-region w:st="on">
+United States</st1:country-region>
+, please be aware that any information you provided to us will be transferred to
+the <st1:place w:st="on">
+<st1:country-region w:st="on">
+United States</st1:country-region>
+</st1:place>
+.<span style="mso-spacerun:yes">&nbsp; </span>By using our Web site,
+participating in any of our services and/or providing us with your information,
+you consent to this transfer.</font></p>
+<p><font face="Arial" size="2">If you have any questions or concerns about the
+substance or implementation of this Privacy Policy, please contact the Crain
+Communications Inc Legal Department at <a href="mailto:privacyhelp@crain.com">privacyhelp@crain.com</a>
+or 313-446-6000.</font></p>
+<p><font face="Arial" size="2"><i>[Policy Last Updated:<span style="mso-spacerun:yes">&nbsp;
+</span>January 1, 2005]</i></font></p>
+ </td>
+    <td style="width: 10px;"><img src="/images/global/spacer.gif" width="10" height="1"></td>
+  </tr>
+</tbody></table>
+<!-- Always have this at the bottom for the online main template --><table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+<tbody><tr>
+          <td>
+<br>
+      <p align="center">
+        <script languange="JavaScript">
+        document.write('<a href="' + WriteSecCrainLink('Circulation','banner') + '">');
+                   </script><a href="https://sec.crain.com/cl/cgi-bin/circulation.pl?KEY-CDE=W5468LK">
+<img src="/images/global/sr_banner_1.gif" width="468" height="60" border="0"></a>
+      </p></td>
+
+        </tr>
+  <tr>
+    <td valign="bottom" align="center" class="footer"><a href="#top"><b>Back to Top</b></a><br>
+      <div id="blackLinks"> <a href="http://crainscleveland.com/search.cms" class="dotcomSmallLinks">SEARCH 
+        </a> | <a href="http://www.crainscleveland.com/page.cms?pageId=9" class="dotcomSmallLinks">CONTACT 
+        CRAIN'S</a> | <a href="http://www.crainscleveland.com/page.cms?pageId=35" class="dotcomSmallLinks">TERMS 
+        OF USE</a> | <a href="http://www.crainscleveland.com/page.cms?pageId=15" class="dotcomSmallLinks">PRIVACY 
+        POLICY</a><br>
+        </div><div class="footer">Copyright 2005, Crain Communications, Inc.<br>
+        Site by: <a href="http://www.chaffee.com" target="blank">Chaffee Interactive</a></div>
+    </td>
+  </tr>
+
+      </tbody></table>
+    </td>
+
+<!-- end body/middle rail content -->
+
+<!-- right rail ad -->
+    <td width=" 120" align="right" valign="top"><script language="JavaScript">
+	<!--
+	OAS_RICH("Right1");
+	//-->
+	</script><a href="http://oascentral.crainscleveland.com/RealMedia/ads/click_nx.ads/www.crainscleveland.com/page/crains_privacy_policy/1471628582@Top2,Right1,Middle1,TopRight,Left1,x13!Right1?" target="_blank"><img src="http://oascentral.crainscleveland.com/RealMedia/ads/adstream_nx.ads/www.crainscleveland.com/page/crains_privacy_policy/1471628582@Top2,Right1,Middle1,TopRight,Left1,x13!Right1?" border="0"></a> 
+  </td>
+  </tr>
+<!-- end right rail ad -->
+
+
+
+
+</tbody></table>
+
+
+</body></html>
