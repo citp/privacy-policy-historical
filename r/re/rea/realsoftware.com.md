@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realsoftware.com privacy policy that was archived on 2004-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040213183921id_/http%3A//www.realsoftware.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsoftware.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207051244id_/http%3A//www.realsoftware.com/privacy_policy.html) for the most accurate reproduction.*
 
 # REAL Software - Privacy Policy
 
@@ -13,8 +13,7 @@ We may use this information for three general purposes: to customize the content
 We will not sell or rent your personally identifiable information to anyone. We will send personally identifiable information about you to other companies or people when:
 
 **(1)** we have your consent to share the information;  
-**(2)** we need to share your information to provide the product or service you  
-have requested;  
+**(2)** we need to share your information to provide the product or service you have requested;  
 **(3)** we need to send the information to companies who work on behalf of REAL Software Inc. to provide a product or service to you (unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us);  
 **(4)** we respond to subpoenas, court orders or legal process; or  
 **(5)** we find that your actions on our web sites violate the above terms of service, or any of our usage guidelines for specific products or services. 
