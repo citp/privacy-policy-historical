@@ -1,39 +1,16 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2004-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040426015954id_/http%3A//store.faucet.com/cgi-bin/fcom/gen_ppolicy%3F%3BFaucet.com%7C%3B) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204215159id_/http%3A//www.faucet.com/cgi-bin/static.pl%3FS%3DprivacyNotice) for the most accurate reproduction.*
 
-# Faucet.com - Kitchen & Bathroom Faucets, Sinks, Fixtures and Hardware
+# Faucet.com - Privacy Notice
 
-  
+Decorative Product Source Inc. is firmly committed to maintaining your privacy while you shop on our web sites.  We gladly disclose this privacy information to emphasize how important your privacy is to us.  Information Collection and Use  
+Decorative Product Source Inc. is the sole owner of the information collected on its web sites.  We will not sell, share, or rent this information to others.  Decorative Product Source Inc. collects information from our customers at several different points on our web sites including the order and quote pages.  This information is used for the sole purpose of providing you the best possible service when requesting information or ordering products.  Ordering  
+When you place an order, we request contact and credit card information.  This information is used strictly for billing purposes and to successfully complete and fill orders.  If we should have trouble processing an order, the contact information is used to get in touch with you.  Method of payment  
+Decorative Product Source Inc. accepts personal checks, American Express, Discover, Mastercard and VISA credit cards.  Security  
+Decorative Product Source Inc. takes strong precautions to protect your information both online and offline.  We use a variety of technical solutions to make shopping safe at our web sites.  Your information is encryted and is protected by industry-standard Secure Sockets Layer (SSL) software.  While we use SSL encryption to protect sensitive information online, we also protect your information offline.  All of your customer information is maintained in a restricted section.  Only those of our employees who need the information to perform a specific job function (for example, customer service representatives) are granted access to personally identifiable data.  Cookies  
+Our web sites use "cookies", small pieces of data stored on your computer and delivered through your web browser.  Most, if not all, e-commerce merchants now use cookies.  By using this technology we can provide you with an enhanced shopping experience.  It is possible for you to turn off cookies in your web browser.  If you do this, you can still browse our web sites, but we will not be able to provide you with a more personalized shopping experience or accept orders from you. Links  
+Our web sites often contain links to other sites.  Decorative Product Source Inc. is not responsible for the privacy practices of other sites you may visit.  Newsletters  
+If you wish to subscribe to our newsletters, we ask for information such as name and e-mail address.  Every newsletter we send includes easy-to-use removal instructions and complies with all Federal regulations for such communications. 
 
+If you have any questions about our privacy policies, or experience problems with our web sites, please feel free to 
 
-Faucet.com has created this privacy notice in order to demonstrate our firm commitment to consumer privacy on our web site.  Because Faucet.com wants to demonstrate its commitment to your privacy, we have agreed to disclose our information handling practices. 
-
-**Information Collection and Use**  
-Faucet.com is the sole owner of the information collected on it's web site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  Faucet.com collects information from our users at several different points on our website including the order forms and the quote forms.  This information will only be used for customer service purposes. 
-
-**Ordering**  
-We request information from the user on our order forms.  Here, a user provides contact information and credit card information.  This information is used for billing purposes and to fill customers' orders.  If we have trouble processing an order, the contact information is used to get in touch with the customer. 
-
-**Method of payment**  
-We accept Checks, VISA, Mastercard & Discover. 
-
-**Security**  
-Faucet.com takes every precaution to protect our customers' information.  When users submit sensitive information via the internet, your information is protected online and offline.  In the ordering process, Faucet.com is protected and encrypted with 
-
-[_Thawte SSL_](http://www.thawte.com/html/RETAIL/ssl/index.html) software. 
-
-**Links**  
-This site contains links to other sites. Faucet.com is not responsible for the privacy practices of the sites outside of the Faucet.com site. 
-
-**Newsletter**  
-If a customer wishes to subscribe to our newsletter services, we ask for information such as name and e-mail address.  Every newsletter you receive will include opt-out information.
-
-If you have any questions about this privacy notice statement or problems with the site, please contact:
-
-Dan Auer  
-President
-
-[ _dauer@faucet.com_](mailto:dauer@Faucet.com)  
-
-
-  
-
+[_contact us_](https://web.archive.org/cgi-bin/static.pl?S=contact).  Thank you for choosing Decorative Product Source Inc. to help decorate and improve your home. 
