@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604150048id_/http%3A//techsoup.org/global_privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204162735id_/http%3A//www.techsoup.org/about/privacy.cfm%3Fcg%3Dhome%26sg%3Dfooter_privacy) for the most accurate reproduction.*
 
-# TechSoup - The Technology Place for Nonprofits
+# TechSoup - About TechSoup - Privacy Statement
 
-  
+**Privacy Statement**
+
 This privacy statement discloses the privacy practices for TechSoup.org. TechSoup.org is a project of [CompuMentor](http://www.compumentor.org/). 
 
 **Information Collection and Use**  
@@ -32,13 +33,7 @@ This Web site takes every precaution to protect our users' information, and we h
 If a user wishes to subscribe to our newsletter (By The Cup), we ask for an email address only. We do not keep track of names or other personal information, and the list is stored locally. 
 
 You can subscribe or unsubscribe from By The Cup online at:   
-[http://www.techsoup.org/sub_btc.cfm](https://web.archive.org/sub_btc.cfm)
-
-You can also subscribe or unsubscribe by sending an email to:   
-[lists@compumentor.org](mailto:lists@compumentor.org)
-
-With the following text (minus the quotes) in the subject of the email:   
-" **unsubscribe by-the-cup** " 
+[http://www.techsoup.org/tools/newsletters.cfm](https://web.archive.org/tools/newsletters.cfm)
 
 **Surveys**  
 From time-to-time our site requests information from users via Web surveys. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include demographic information (such as zip code, age level), but no information that can identify any individual person will be collected. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
@@ -50,10 +45,10 @@ If a user elects to use our "Send this to a friend" function, we ask them for th
 We may also send the user site and service announcement updates. Members are not able to unsubscribe from service announcements which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
 
 **Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as zip code or email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update, or remove that user's personal data provided to us. Users can use the "Edit My Profile" link from their [My TechSoup homepage](https://web.archive.org/mts_homepage.cfm) or they can email our Help Desk ([help@techsoup.org](mailto:help@techsoup.org)) to change, correct, or remove information. 
+If a user's personally identifiable information changes (such as zip code or email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update, or remove that user's personal data provided to us. Users can use the "Edit My Profile" link from their My TechSoup homepage or they can email our Help Desk ([help@techsoup.org](mailto:help@techsoup.org)) to change, correct, or remove information. 
 
 **Choice/Opt-in**  
-Our users are given the opportunity to "opt-in" to newsletters and site update emails. For example, our My TechSoup form has checkboxes that let users choose which topic(s) they would like to receive email updates on. Likewise, By The Cup is an "opt-in" newsletter. Originally, we sent By The Cup to CompuMentor's mentor and organization mailing list, but we no longer will subscribe anyone automatically. To unsubscribe from By The Cup, please see that section above. To unsubscribe from any updates, users can use the "edit my profile" link from their [My TechSoup homepage](https://web.archive.org/mts_homepage.cfm). To avoid receiving certain topic updates, the user can simply deselect the topics, and hit the "modify" button. 
+Our users are given the opportunity to "opt-in" to newsletters and site update emails. Likewise, By The Cup is an "opt-in" newsletter. Originally, we sent By The Cup to CompuMentor's mentor and organization mailing list, but we no longer will subscribe anyone automatically. To unsubscribe from By The Cup, please see that section above. To unsubscribe from any updates, users can use the "edit my profile" link from their My TechSoup homepage. To avoid receiving certain topic updates, the user can simply deselect the topics, and hit the "modify" button. 
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
