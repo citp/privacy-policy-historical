@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlu.edu privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207005317id_/http%3A//www2.wlu.edu/web/page/normal/273.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlu.edu privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204145908id_/http%3A//www2.wlu.edu/web/page/normal/273.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
