@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605194028id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208153121id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
 
 # EXA - website design, web development, IT services, Melbourne, Sydney, Brisbane, Perth, Australia
 
@@ -37,6 +37,8 @@ ICANN (the Internet Corporation for Assigned Names and Numbers) is the organisat
 The public policy behind this requirement is that the personal details of domain name licence holders should be freely available to all other users of the Internet. This public policy is adopted by the domain name industry as a whole. The requirement means, however, that Exa will not be able to control how members of the public may use the information made available on these publicly accessible databases.   
 In addition, ICANN has another mandatory requirement that all its accredited registrars make the WHOIS database of personal information for com, net and org available for bulk downloads by third parties who have entered into a bulk access agreement with Exa. If you do not want your personal information to be included in these bulk downloads, you may opt out of this service by providing written notice to Exa, or by emailing us at:
 
+[ ](mailto:info@exa.com.au)
+
 \- Use of your information to fulfil our role as registrar   
 We will be contacting you using the personal details you provide to us when you apply for a domain name registration through Exa, to advise you of all relevant information relating to your domain name licence. This includes any account administration information including renewal information and billing information, as well as notices of any important system changes which will impact on your online interactions with us. Each of these functions is necessary if Exa is to effectively fulfil its role as the registrar of your domain names.   
   
@@ -58,7 +60,7 @@ Our relationships with such third party service providers are governed by our co
 
 ACCURACY  
   
-You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20040605194028id_/http%3A//www.exa.com.au/contact/index.php).   
+You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20041208153121id_/http%3A//www.exa.com.au/contact/index.php).   
 If you believe that Exa may hold other personal information about you which is inaccurate, please contact us by using this web form and we will take reasonable steps to ensure that it is corrected.
 
 SECURITY  
@@ -75,6 +77,6 @@ Exa may make changes to its privacy policy from time to time. You should check o
 
 FURTHER INFORMATION OR QUERIES  
   
-If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20040605194028id_/http%3A//www.exa.com.au/contact/index.php).
+If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20041208153121id_/http%3A//www.exa.com.au/contact/index.php).
 
   |  
