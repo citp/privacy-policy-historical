@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402015710id_/http%3A//www.steelcase.com/en/legal/legal_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606041142id_/http%3A//www.steelcase.com/en/legal/legal_privacy.jsp) for the most accurate reproduction.*
 
 # Steelcase - Privacy Policy
 
