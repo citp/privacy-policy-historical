@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicityinsider.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602112531id_/http%3A//publicityinsider.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicityinsider.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209220703id_/http%3A//www.publicityinsider.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement, Publicity Insider - Publicity Secrets for Savvy Businesses & Entrepreneurs
 
