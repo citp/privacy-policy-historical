@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugo.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604021138id_/http%3A//www.ugo.com/services/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugo.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214092158id_/http%3A//www.ugo.com/services/about/privacyPolicy) for the most accurate reproduction.*
 
 # UGO.com - Privacy Policy
 
@@ -11,7 +11,11 @@ This document describes the privacy practices for UGO Networks, Inc. (“UGO”)
 _**This policy makes clear that UGO could merge with or be acquired by another entity. Should this occur, you should expect that UGO would share some or all of your information with the other entity.**_
 
   
-**Information We Collect Via Log Files And Cookies:  ** UGO collects information about its users in a number of ways. While a user is on the UGO network, we automatically track certain information through log files and, on some pages, through cookies. This information includes a user’s most recent visit, the URL they came from, the URL they visit next, the browser they are using, and their IP address. UGO evaluates this data on an aggregate basis and does not associate the information with a user’s personal identity.  
+**Information We Collect Via Log Files And Cookies:  ** UGO collects information about its users in a number of ways. While a user is on the UGO network, we automatically track certain information through log files and, on some pages, through cookies. This information includes a user’s most recent visit, the URL they came from, the URL they visit next, the browser they are using, and their IP address. UGO evaluates this data on an aggregate basis and does not associate the information with a user’s personal identity.
+
+**Information Collected by Third-Party Advertisers** We may use third party advertising companies to serve ads when you visit UGO. Often, these companies employ cookie and 1x1 pixel technology to collect and use anonymous information about your visits to our member websites and other websites to track the performance of an ad program. This does not include your name, address, e-mail or telephone number but will include the date and time of your visit, your IP address, the URLs of sites you visit and the banner ad that was shown.
+
+To stop a third-party advertiser from employing cookies on your computer, you may opt out by visiting the Network Advertising Initiative’s (NAI) site. [Click here for the NAI site.](http://www.networkadvertising.org/optout_nonppii.asp)   
   
 **Information We Collect Via User Submission:  ** We may ask users for personal information when they: 
 
