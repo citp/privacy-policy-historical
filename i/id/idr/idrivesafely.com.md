@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206124943id_/http%3A//www.idrivesafely.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402052353id_/http%3A//idrivesafely.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Traffic school Defensive driving Company Privacy Policy at I Drive Safely
 
