@@ -1,23 +1,25 @@
-> *The following text is extracted and transformed from the gamepro.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205140500id_/http%3A//gamepro.com/gpw/privacy/0%2C1472%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepro.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209090514id_/http%3A//gamepro.com/legal/privacy.shtml) for the most accurate reproduction.*
 
-# GamePro : Home
+# GamePro.com / Privacy Statement
 
-**_Privacy Statement for GamePro.com_**
+GamePro.com has created this privacy statement in order to demonstrate our firm commitment to the confidentiality of user data. GamePro.com is an online information portal for multiplatform gaming enthusiasts and is a business unit of the IDG Entertainment. The following discloses our information gathering and dissemination practices for these sites. The purpose of this information is to answer the following questions: 
 
-GamePro.com has created this privacy statement in order to demonstrate our firm commitment to the confidentiality of user data. GamePro.com is an online information portal for multiplatform gaming enthusiasts and is a business unit of the IDG Games Media Group. The following discloses our information gathering and dissemination practices for these sites. The purpose of this information is to answer the following questions: 
+  1. What personally identifiable information this web site collects from you and how the information is used?  
 
-1\. What personally identifiable information this web site collects from you and how the information is used?  
-2\. With whom this site shares the information it collects?  
-3\. How you can correct or make changes to this information?  
-4\. What choices are available to you regarding the collection, use, and distribution of information?  
-5\. What security procedures are in place to protect the loss, misuse, or alteration of information under GamePro.com's control? 
+  2. With whom this site shares the information it collects?  
 
-If you have questions or concerns regarding this statement, please contact:
+  3. How you can correct or make changes to this information?  
+
+  4. What choices are available to you regarding the collection, use, and distribution of information?  
+
+  5. What security procedures are in place to protect the loss, misuse, or alteration of information under GamePro.com's control? 
+
+If you have questions or concerns regarding this statement, please contact: 
 
 GamePro.com   
 Attn: Customer Service Department   
 501 Second Street, Suite 500   
-San Francisco, CA 94107 Email: [privacy@gamepro.com](mailto:privacy@gamepro.com)
+San Francisco, CA 94107 Email: [privacy](https://web.archive.org/email_submission_form.cfm?address=privacy)
 
 **Information Collection and Use**  
 GamePro.com collects optional data supplied by visitors to our web site through registration, surveys, sweepstakes or contests, as well as information that we gather from visitors via our server log. This information enables us to better tailor our content to your interests, and to help our advertisers better understand the audience they are reaching. Our site is completely free, and is supported by paid advertisements and it is therefore critically important for us to be able to identify our audience. Information is only shared with advertisers or any other third parties in aggregate form. We are also firmly committed to identifying whether information presented on our sites is written by our editorial staff or is contributed by a user or vendor. 
@@ -36,6 +38,9 @@ Some optional services that GamePro.com offers require registration. Our site's 
 **Ad Serving Technology**  
 GamePro.com uses Doubleclick's ad serving technology (called DART) to serve advertising banners on our web site. Doubleclick is not privy to any registration information or log data that is gathered by GamePro.com. GamePro.com's contract with Doubleclick prevents the company from using any data collected from our site for any purpose other than aggregate reports and standard advertising reporting metrics which are delivered to our advertising clients under our direction. Neither GamePro.com nor any IDG business unit joined Doubleclick's Abacus Alliance, which is an effort to match data derived from cookies with the information in their databases. 
 
+**User Reviews**  
+By posting content on the Service, including, without limitation, any game reviews, you automatically grant, or warrant, that the owner of such content has expressly granted GMG the royalty-free, perpetual, irrevocable, nonexclusive right and license to use, reproduce, publish, translate, sublicense, copy, and distribute the content in whole or in part worldwide and/or to incorporate it in other works in any form, media, or technology now known or hereafter developed for the full term of any copyright that may exist in such content. In addition, you agree to permit any other user of the Service to access, store, or reproduce the content for that user's personal use. Subject to this grant, the owner of the content posted on the Service retains any and all rights which may exist in such content. 
+
 **User Surveys**  
 We occasionally run surveys that are optional to participate in. We only ask participants for contact information and demographic information that pertains to their gaming habits. The customer's contact information is also used to contact the visitor when necessary, or for the delivery of prizes or rewards. Users may opt-out of receiving future survey mailings; please see the choice/opt-out section below. The survey data is only used in aggregate form and may be used to guide our editorial process or site development process. 
 
@@ -46,15 +51,15 @@ Information that is shared with or collected at partner sites is used to provide
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. These hardened security systems include firewalls, authenticated access to internal databases, and audit of regular procedures. 
 
 **Choice/Opt-Out**  
-GamePro.com gives visitors the opportunity to opt-out of receiving communications from us, at the point we request information from you. To remove personal information from our database users can send an email to [lists@gamepro.com](mailto:lists@gamepro.com). 
+GamePro.com gives visitors the opportunity to opt-out of receiving communications from us, at the point we request information from you. To remove personal information from our database users can send an email to [lists](https://web.archive.org/email_submission_form.cfm?address=lists). 
 
 **Correct/Update**  
-To change or modify information previously provided, users can send an email to [updatelists@gamepro.com](mailto:updatelists@gamepro.com). 
+To change or modify information previously provided, users can send an email to [updatelists](https://web.archive.org/email_submission_form.cfm?address=updatelists). 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-GamePro.com  
+**GamePro.com**  
 Attn: Customer Service Department  
 501 Second Street, Suite 500  
 San Francisco, CA 94107  
-Email: [privacy@gamepro.com](mailto:privacy@gamepro.com)
+Email: [privacy](https://web.archive.org/email_submission_form.cfm?address=privacy)
