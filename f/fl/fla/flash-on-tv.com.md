@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flash-on-tv.com privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014143613id_/http%3A//www.flash-on-tv.com/support/flash-tv-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flash-on-tv.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309215547id_/http%3A//www.flash-on-tv.com/support/flash-tv-privacy.html) for the most accurate reproduction.*
 
 # Flash DVD Maker Software:Flash DVD Convertor,Flash on TV, Flash on VCD, Flash on DVD, Flash to TV,Flash to VCD, Flash to DVD.
 
