@@ -1,114 +1,88 @@
-<!--The following is the downloaded HTML source of the restaurants.com privacy policy that was archived on 2003-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030608185614id_/http%3A//restaurants.com/Resources/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the restaurants.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202170353id_/http%3A//restaurants.com/Resources/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title></title>
-		<meta name="description" content="">
-        <meta name="keywords" content="">
-<link rel="stylesheet" href="/CSS30/Restaurants.css" type="text/css"></head>
-
-
-
+<html><head>
+<title></title>
+</head>
 <body bgcolor="#ffffff" link="#003399" vlink="#003399" alink="#FF3300" text="#000000" topmargin="2" marginheight="2">
-
-<script language="JavaScript1.1" src="/JScript30/common.js"></script>
-
-
 <!-- Begin Logo & TopBanner Ad  -->
 <center>
 
-			<script language="JavaScript">
-			<!-- /* ?1997-2001 BURST! Media, LLC. All Rights Reserved.*/ 
-			function ShowBurstAd(adcode, width, height) {
-			 var bN = navigator.appName;
-			 var bV = parseInt(navigator.appVersion);   
-			 var base='http://www.burstnet.com/';   
-			 var Tv='';   
-			 var agt=navigator.userAgent.toLowerCase();   
-			 if (bV>=4)  
-			 {ts=window.location.pathname+window.location.search;
-			  i=0; Tv=0; while (i< ts.length)
-			    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;}
-			  else   {Tv=escape(window.location.pathname);
-			  if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
-			    else if (Tv.charAt(1)=="/")
-			 Tv="";     
-			 if( Tv.charAt(Tv.length-1) == "/")
-			   Tv = Tv + "_";}   
-			 if (bN=='Netscape'){        
-			  if ((bV>=4)&&(agt.indexOf("mac")==-1))  
-			 { document.write('<s'+'cript src="'+ 
-			  base+'cgi-bin/ads/'+adcode+'.cgi/RETURN-CODE/JS' 
-			  +Tv+'">'); 
-			  document.write('</'+'script>');
-			 }
-			   else if (bV>=3) {document.write('<'+'a href="'+base+'ads/'+ 
-			  ad100a+'-map.cgi'+Tv+'"target=_top>');
-			  document.write('<img src="' + base + 'cgi-bin/ads/' +
-			  adcode + '.cgi' + Tv + '" ismap width="' + width + '" height="' + height + '"' +
-			  ' border="0" alt="Click Here"></a>');}   
-			}
-			if (bN=='Microsoft Internet Explorer')    
-			document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'  
-			+     
-			adcode + '.cgi' + Tv + '/RETURN-CODE" width="' + width + '" height="' + height + '"' +     
-			'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' +     
-			'frameborder="0" scrolling="no"></ifr'+'ame>');  
-			}
-			//-->
-			</script>
-			<!-- END BURST CODE -->
+<script language="JavaScript"> 
+<!-- /* Copyright 1997-2003 BURST! Media, LLC. All Rights Reserved. (Version 1.0J) */ 
+function ShowBurstAd(adcode, width, height, sizes, intrusive, bgcolor, background) {
+var bN = navigator.appName;
+var bV = parseInt(navigator.appVersion);
+var base='http://www.burstnet.com/';
+var Tv=''; var Itr='';
+var sz=''; var bkgd='';
+var bgc=''; var rfr='';
+var vr='v=1.0J';
+var agt=navigator.userAgent.toLowerCase();
+
+if (sizes.length!=0) {sz='/sz='+sizes;} else {sz='';}
+if (bgcolor.length!=0) {bgc='/zg' + bgcolor;} else {bgc='';}
+if (background.length!=0) {bkgd='/bgi='+(escape(escape(background))).replace(/\//gi,'%252F');} else {bkgd='';}
+rfr='/r='+(escape(escape(top.location.href))).replace(/\//gi,'%252F');
+                            
+if (bV>=4) {
+  ts=window.location.pathname+window.location.search;
+  i=0; Tv=0; while (i< ts.length)
+    { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;
+} else {Tv=escape(window.location.pathname);
+  if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
+    else if (Tv.charAt(1)=="/")
+ Tv="";
+  if( Tv.charAt(Tv.length-1) == "/")
+   Tv = Tv + "_";
+}
+
+var fCode='<ifr'+'ame id="BURST" src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/NI/if/'+vr+bgc+sz+bkgd+
+ rfr+Tv+'/RETURN-CODE" width="'+width+'" height="'+
+ height+'"'+'marginwidth="0" marginheight="0"'+
+ 'hspace="0" vspace="0" frameborder="0" '+
+ 'scrolling="no">';
+ var gCode = '<'+'a href="'+base+'ads/'+adcode+'-map.cgi/'+
+ vr+sz+rfr+Tv+'" target=_top><im'+'g src="'+base+
+ 'cgi-bin/ads/'+adcode+'.cgi/'+vr+sz+rfr+Tv+
+ '" border="0" alt="Click Here"></a>';
+var fCodeEnd = '</ifr'+'ame>';
+
+if ((adcode.charAt(0)=="a")&&(intrusive=="1")) {
+ Itr='<di'+'v><scr'+'ipt src="'+base+'cgi-bin/ads/'+adcode+
+ '.cgi/sz=0X0MN/'+vr+rfr+Tv+'/RETURN-CODE/JS/"></scr'+'ipt></d'+'iv>';
+}
+
+if (agt.indexOf("mac")==-1) {
+  document.write(fCode+gCode+fCodeEnd+Itr);
+} else {
+  document.write(gCode);
+}
+}
+//-->
+</script>
+<!-- END BURST CODE -->
 
 	<table cellspacing="0" cellpadding="0" border="0" width="760">
-	<tbody><tr><td align="left" valign="middle">
-		
-			<a href="http://www.restaurants.com"><img src="http://www.restaurants.com/images20/logo.gif" alt="Restaurants.com" border="0" width="122" height="56"></a></td>
-		
-		<td width="625" height="60" align="center" valign="middle">
-
+	<tbody><tr><td align="center" valign="top" height="90">
 	
-			<!-- BEGIN RICH-MEDIA BURST! CODE / Above-the-Scroll Subscript --> 
-			<script language="JavaScript">
-			<!--
-			ShowBurstAd('ad6863a','468','60');
-			// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ad6863a.cgi/RETURN-CODE/JS/5932"></script>
-			<noscript><a href="http://www.burstnet.com/ads/ad6863a-
-			map.cgi/ns" target="_top"><img src="http://www.burstnet.com/cgi-
-			bin/ads/ad6863a.cgi/ns" <width="468" height="60" 
-			border="0" alt="Click Here"></a> 
-			</noscript>
-			<!-- END BURST CODE -->
+		<!-- BEGIN RICH-MEDIA BURST! CODE --> 
+		<script language="JavaScript">
+		<!--
+		ShowBurstAd('ad6863a','728','90','468x60A|728x90A','1', '', '');
+		// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ad6863a.cgi/NI/if/v=1.0J/sz=468x60A|728x90A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917/RETURN-CODE" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ad6863a-map.cgi/v=1.0J/sz=468x60A|728x90A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ad6863a.cgi/v=1.0J/sz=468x60A|728x90A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917" border="0" alt="Click Here"></a></iframe><div><script src="http://www.burstnet.com/cgi-bin/ads/ad6863a.cgi/sz=0X0MN/v=1.0J/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917/RETURN-CODE/JS/"></script></div>
+		<noscript><a href="http://www.burstnet.com/ads/ad6863a-map.cgi/ns/v=1.0J/sz=468x60A|728x90A/" target="_top">
+		<img src="http://www.burstnet.com/cgi-bin/ads/ad6863a.cgi/ns/v=1.0J/sz=468x60A|728x90A/" border="0" alt="Click Here"></a> 
+		</noscript>
+		<!-- END BURST CODE -->
 	
-		</td>
-		<td align="right" valign="middle" width="140" height="60">
-	
-	
-			<a href="http://www.qksrv.net/click-1326237-5529524" target="_blank"><img src="http://www.qksrv.net/image-1326237-5529524" width="120" height="60" alt="Love, Romance, Friendship" border="0"></a>
-			<!--<a href="/B2C/GiftCertificates.asp"><IMG border=0 width=120 height=60 alt="Buy a Gift Certificate" src="http://www.restaurants.com/images20/GiftCertificate.gif"></a><BR>
-				<table width=100% border="0" cellspacing="0" cellpadding="0" height="100%">
-					<tr>
-					<td>
-					<table width=100% border="0" cellspacing="1" cellpadding="2" bgcolor="#AC1313" height="100%">
-						<tr bgcolor="#FDECEC" valign="top"> 
-						<td class=smallForm align=CENTER>
-							<img src="http://www.restaurants.com/images/spacer.gif" border=0 width=1 height=2><BR>
-							<NOBR>FREE Listing</NOBR>
-							<A HREF="/Resources/AddURL.asp"><NOBR>Add Restaurant Here</NOBR></A>
-							<NOBR>Not just name, address</NOBR><BR>
-							cuisine, BUT more...<br>
-							</td>
-			            </tr>
-			          </table>
-			        </td>
-			      </tr>
-			    </table>
-			   -->
-		
-		</td>
-	</tr>
-	<tr><td height="5" color="white" colspan="3"></td></tr>
+	</td></tr>
+	<tr><td height="5" bgcolor="#FFFFFF"></td></tr>
 	</tbody></table>
 
+
+<link rel="stylesheet" href="/CSS30/Restaurants.css" type="text/css">
 
 <script language="JavaScript1.2" type="text/javascript">
 <!--
@@ -169,9 +143,6 @@ function popup_focus(srcURL) { //MMIS javascript
 
 //-->
 </script>
-<script language="JavaScript1.2" type="text/javascript" src="/includes/HM_localvar.js"></script>
-<script language="JavaScript1.2" type="text/javascript" src="/includes/HM_Loader.js"></script>
-<script language="JavaScript1.2" type="text/javascript" src="/includes/dd_menu.js"></script>
 <!-- -- End of script definition ---->
 <center>
 <table border="0" cellpadding="0" cellspacing="0" width="760" bgcolor="#FF6600">
@@ -202,6 +173,18 @@ function popup_focus(srcURL) { //MMIS javascript
 	
 		<img src="/images/T3/DrinkCocktail_off.gif" width="97" height="14" border="0" name="Image4" alt="Drinks &amp; Cocktails"></a>
 	
+	<img src="/images/spacer.gif" width="1" border="0"><img src="/images/spacerwhite.gif" width="1" height="14" border="0"><img src="/images/spacer.gif" width="1" border="0">
+
+	<a class="ContentTopInfo" href="/Resources/RCentral.asp" onmouseout="HM_f_PopDown('elMenu5');MM_swapImgRestore()" onmouseover="HM_f_PopUp('elMenu5',event);MM_swapImage('Image5','','/images/T3/Classified_on.gif',1)">
+	
+		<img src="/images/T3/Classified_off.gif" width="60" height="14" border="0" name="Image5" alt="Classified"></a>
+	
+	<img src="/images/spacer.gif" width="1" border="0"><img src="/images/spacerwhite.gif" width="1" height="14" border="0"><img src="/images/spacer.gif" width="1" border="0">
+
+	<a class="ContentTopInfo" href="/R4S/Restaurants-for-sale.asp" onmouseout="HM_f_PopDown('elMenu6');MM_swapImgRestore()" onmouseover="HM_f_PopUp('elMenu6',event);MM_swapImage('Image6','','/images/T3/R4S_on.gif',1)">
+	
+		<img src="/images/T3/R4S_off.gif" width="125" height="14" border="0" name="Image6" alt="Restaurants for sale"></a>
+	
 </td>
 </tr>
 </tbody></table>
@@ -212,21 +195,18 @@ function popup_focus(srcURL) { //MMIS javascript
 <tbody><tr align="center">
 <td bgcolor="#00639C" width="100%" valign="top" align="left" class="ContentTopInfo">
 
-
-		<img src="http://www.restaurants.com/images/Spacer.gif" width="1" height="3" border="0"><br>
-		&nbsp;<a href="http://www.restaurants.com"><img src="http://www.restaurants.com/images/house.gif" border="0" width="13" height="15" valign="bottom"></a> <a href="http://www.restaurants.com" class="ContentTopInfo">Home</a>
-		&nbsp;&gt;&nbsp;
-		
-			RCentral
-		
-				&nbsp;&gt;&nbsp;About us
-		
-		<br>
-		<img src="http://www.restaurants.com/images/Spacer.gif" width="1" height="3" border="0"><br>
-
-	</td>
+	<img src="/images/Spacer.gif" width="1" height="3" border="0"><br>
+	&nbsp;<a href="http://www.restaurants.com"><img src="/images/house.gif" border="0" width="13" height="15" valign="bottom"></a> <a href="http://www.restaurants.com" class="ContentTopInfo">Home</a>
+	&nbsp;&gt;&nbsp;
 	
-	</tr>
+		RCentral
+	
+		&nbsp;&gt;&nbsp;About us
+	
+	<br>
+	<img src="/images/Spacer.gif" width="1" height="3" border="0"><br>
+
+	</td></tr>
 	</tbody></table>
 
 </center>
@@ -293,21 +273,12 @@ function popup_focus(srcURL) { //MMIS javascript
 			<br></p><p>
 			Like most web sites, we use "cookie" technology on our web site. We may place a "cookie" in the browser files of a user's computer, however the "cookie" itself does not contain any personally identifying information. The "cookie" doesn't track any personal information about you or provide us with any way to contact you, and the "cookie" doesn't extract any information from your computer. We use the "cookie" to provide functional information about your browser allowing us to provide a better user experience. We also use "cookies" to gather broad demographic information and general usage patterns of the visitors to our sites.  
 			<br></p><p>
-<!--		Restaurants.com works with a third party that serves ads to this site.  To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <A HREF="http://www.flycast.com/about_us/about-privacy.html">http://www.flycast.com/about_us/about-privacy.html</A>.
-			<BR><P>
--->
+
 			By using our Websites, you consent to the collection and use of the information, as described above, by Restaurants.com. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 			<br></p><p>
 			<u><b>Contact Us about Privacy</b></u><br>
 			If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
-<!--
-			<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Terence Chow<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1722 Junction Ave., Suite C,<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Jose, CA 95112-1011<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;United States<BR>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
--->			
+
 			<a href="mailto:info@restaurants.com?Subject=Privacy">info@restaurants.com</a>
 		</p></td></tr>
 	</tbody></table>
@@ -321,59 +292,26 @@ function popup_focus(srcURL) { //MMIS javascript
 
 <td width="160" valign="top" align="center">
 
+<table border="0" cellpadding="0" cellspacing="0" width="145">
+<tbody><tr><td width="145" align="middle">
+
+<center>
+<!-- BEGIN RICH-MEDIA BURST! CODE --> 
+<script language="JavaScript">
+<!--
+ShowBurstAd('sk6863a','160','600','120x600A|160x600A','0', '', '');
+// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/sk6863a.cgi/NI/if/v=1.0J/sz=120x600A|160x600A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917/RETURN-CODE" width="160" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/sk6863a-map.cgi/v=1.0J/sz=120x600A|160x600A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/sk6863a.cgi/v=1.0J/sz=120x600A|160x600A/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917" border="0" alt="Click Here"></a></iframe>
+<noscript><a href="http://www.burstnet.com/ads/sk6863a-map.cgi/ns/v=1.0J/sz=120x600A|160x600A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/sk6863a.cgi/ns/v=1.0J/sz=120x600A|160x600A/" border="0" alt="Click Here"></a> 
+</noscript>
+<!-- END BURST CODE -->
+</center>
+<br><p>
 
 
-
-		<table border="0" cellpadding="0" cellspacing="0" width="145">
-		<tbody><tr><td width="145" align="middle">
-		
-		<center>
-			<!-- BEGIN RICH-MEDIA BURST! CODE --> 
-			<script language="JavaScript">
-			<!-- /* ?1997-2002 BURST! Media, LLC. All Rights Reserved.*/ 
-			var TheAdcode = 'sk6863a'; 
-			var bN = navigator.appName; 
-			var bV = parseInt(navigator.appVersion); 
-			var base='http://www.burstnet.com/'; 
-			var Tv=''; 
-			var backColor='FFFFFF';
-			var fontColor='000000';
-			var agt=navigator.userAgent.toLowerCase(); 
-			if (bV>=4) 
-			  {ts=window.location.pathname+window.location.search;
-
-
-			   i=0; Tv=0; while (i< ts.length) 
-			      { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;} 
-			  else   {Tv=escape(window.location.pathname); 
-			   if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
-			          else if (Tv.charAt(1)=="/")
-			Tv=""; 
-			  if( Tv.charAt(Tv.length-1) == "/") 
-			    Tv = Tv + "_";} 
-
-
-			  document.write('<ifr'+'ame id=BURST src="'+base+'cgi-bin/ads/' + 
-			  TheAdcode + '.cgi' + Tv +  '/zg' + backColor + 'x' + fontColor + 'l' + fontColor +  
-			  fontColor + 'k' + fontColor + '/RETURN-CODE" width=160 height=600' + 
-			  'v' +'marginwidth=0 marginheight=0 hspace=0 vspace=0 ' + 
-			  'frameborder=0 scrolling=no>');
-			  document.write('</ifr'+'ame>');    
-			// --> 
-			</script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/sk6863a.cgi/5932/zgFFFFFFx000000l000000000000k000000/RETURN-CODE" width="160" height="600vmarginwidth=0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
-			<!-- END BURST CODE -->
-		</center>
-		<br><p>
-
-
-
-		</p></td>
-		</tr>
-		</tbody></table>
-
-		<br><p>
-
-
+</p></td></tr>
+</tbody></table>
+<br><p>
 	
 </p></td>
 
@@ -388,125 +326,112 @@ function popup_focus(srcURL) { //MMIS javascript
 <!-- Begin Bottom Content -->
 <center>
 
+<table cellspacing="0" cellpadding="0" border="0" width="760">
+<tbody><tr><td align="left" valign="middle">
+		<img src="/images/spacer.gif" width="122" height="1"></td>
+	<td width="625" height="60" align="center" valign="middle">
+		<script language="JavaScript">
+		<!--
+		ShowBurstAd('ba6863a','468','60','468x60B','0', '', '');
+		// --></script><iframe id="BURST" src="http://www.burstnet.com/cgi-bin/ads/ba6863a.cgi/NI/if/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917/RETURN-CODE" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><a href="http://www.burstnet.com/ads/ba6863a-map.cgi/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917" target=_top><img src="http://www.burstnet.com/cgi-bin/ads/ba6863a.cgi/v=1.0J/sz=468x60B/r=https%253A%252F%252Fweb.archive.org%252Fweb%252F20031202170353id_%252Fhttp%25253A%252F%252Frestaurants.com%252FResources%252Fprivacy.asp/5917" border="0" alt="Click Here"></a></iframe>
+		<noscript><a href="http://www.burstnet.com/ads/ba6863a-map.cgi/ns/v=1.0J/sz=468x60B/" target="_top">
+		<img src="http://www.burstnet.com/cgi-bin/ads/ba6863a.cgi/ns/v=1.0J/sz=468x60B/" border="0" alt="Click Here"></a> 
+		</noscript>
+	</td>
+	<td align="right" valign="middle" width="140" height="60">
+		<img border="0" width="120" height="1" src="/images/spacer.gif"><br>
+	</td>
+</tr>
+<tr><td height="5" color="white"></td></tr>
+</tbody></table>
+
+<table cellspacing="0" cellpadding="0" border="0" width="760">
+<tbody><tr><td valign="TOP">
+
+	<table>	
+	<tbody><tr><td width="60"><font size="2" face="ARIAL,SANS-SERIF" color="#FF9933"><b>Search</b></font></td>
+	<td width="320" class="BContent"><font color="#CC3366">Local:</font>&nbsp;&nbsp;
+	   <a href="/US/Metro.asp?Metro=BO" target="_top" class="BContent">Boston</a> -
+	   <a href="/US/Metro.asp?Metro=CHIC" target="_top" class="BContent">Chicago</a> -
+	   <a href="/US/Metro.asp?Metro=DA" target="_top" class="BContent">Dallas</a> -
+	   <a href="/US/Metro.asp?Metro=DC" target="_top" class="BContent">DC</a> -
+	   <a href="/US/Metro.asp?Metro=PHIL" target="_top" class="BContent">Philadelphia</a> -
+	   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	   <a href="/US/Metro.asp?Metro=LA" target="_top" class="BContent">LA</a> -
+	   <a href="/US/Metro.asp?Metro=NY" target="_top" class="BContent">NYC</a> -
+	   <a href="/US/Metro.asp?Metro=SEAT" target="_top" class="BContent">Seattle</a> -
+	   <a href="/US/Metro.asp?Metro=SF" target="_top" class="BContent">SF Bay Area</a> -
+	   <a href="/US/USA.asp" target="_top" class="BContent">More...</a>
+	   <br>
+	   <font color="#CC3366">World:</font>&nbsp;
+		<a href="/World/RedirectWSearch.asp?Country=AU" target="_top" class="BContent">Australia</a> -
+		<a href="/World/RedirectWSearch.asp?Country=CA" target="_top" class="BContent">Canada</a> -
+		<a href="/World/RedirectWSearch.asp?Country=NZ" target="_top" class="BContent">New Zealand</a> -
+		<a href="/World/RedirectWSearch.asp?Country=UK" target="_top" class="BContent">UK</a> -
+		<a href="/World/World.asp" target="_top" class="BContent">More...</a>
+		<br>
+	   <font color="#CC3366">City:</font>&nbsp;
+		<a href="/World/RedirectWSearch.asp?Country=HK&amp;City=Hong+Kong" target="_top" class="BContent">Hong Kong</a> -
+		<a href="/World/RedirectWSearch.asp?Country=UK&amp;City=London" target="_top" class="BContent">London</a> -
+		<a href="/World/RedirectWSearch.asp?Country=FR&amp;City=Paris" target="_top" class="BContent">Paris</a> -
+		<a href="/World/RedirectWSearch.asp?Country=CN&amp;City=Shanghai" target="_top" class="BContent">Shanghai</a> -
+		<a href="/World/RedirectWSearch.asp?Country=SG&amp;City=Singapore" target="_top" class="BContent">Singapore</a>
+		<br>
+	</td></tr><tr>
+	</tr></tbody></table>
+	</td>
+	<td valign="TOP">
+	<table>
+	<tbody><tr><td width="60"><font size="2" face="ARIAL,SANS-SERIF" color="#FF9933"><b>Links &amp;<br>Services</b></font></td>
+	    <td width="320" class="BContent">
+	   <a href="/R4S/restaurants-for-sale.asp" target="_top" class="BContent">Restaurants for Sale</a> - 
+		<a href="/Classified/equipment-for-sale.asp" target="_top" class="BContent">Used Equipment/Supplies for sale</a>
+	   <br>
+	   <a href="/B2C/GiftCertificates.asp" class="BContent">Buy a Gift Certificate</a> - 
+	   <a href="/Classified/Job.asp" class="BContent">Find a Job</a> - 
+	   <a href="/Business/Buyers_Guide.asp" class="BContent">Buyers Guide</a>
+	   <br>
+	   <a href="/Gourmet/Global.asp" class="BContent">Global Gourmet</a> - 
+	   <a href="/gourmet/recipes/recipes.asp" class="BContent">Food &amp; Recipes</a> - 
+	   <a href="/gourmet/drinks/drinks.asp" class="BContent">Drinks &amp; Recipes</a>
+	   <br>
+	   <font color="#BBBBBB"><u>Forum &amp; Chat</u></font> -
+	   <a href="/Resources/Offer.asp#webpage" class="BContent">Need a webpage</a> - 
+	   <a href="/Resources/Offer.asp#FaxMenu" class="BContent">Fax us a menu</a>
+	</td></tr>
+	</tbody></table></td>
+
+</tr>
+</tbody></table>
+<table><tbody><tr><td height="5" color="white"></td></tr></tbody></table>
+
 	<table cellspacing="0" cellpadding="0" border="0" width="760">
-	<tbody><tr><td align="left" valign="middle">
-			<img src="http://www.restaurants.com/images/spacer.gif" width="122" height="1"></td>
-		<td width="625" height="60" align="center" valign="middle">
-
-			<!-- BEGIN RICH-MEDIA BURST! CODE --> 
-			<script language="JavaScript">
-			<!--
-			ShowBurstAd('ba6863a','468','60');
-			// --></script><script src="http://www.burstnet.com/cgi-bin/ads/ba6863a.cgi/RETURN-CODE/JS/5932"></script>
-			<noscript><a href="http://www.burstnet.com/ads/ba6863a-map.cgi/ns" target="_top">
-			<img src="http://www.burstnet.com/cgi-bin/ads/ba6863a.cgi/ns" 
-			width="468" height="60" border="0" alt="Click Here"></a> 
-			</noscript>
-			<!-- END BURST CODE -->
-
-		</td>
-		<td align="right" valign="middle" width="140" height="60">
-			<img border="0" width="120" height="1" src="http://www.restaurants.com/images/spacer.gif"><br>
-		</td>
-	</tr>
-	<tr><td height="5" color="white"></td></tr>
+	<tbody><tr><td bgcolor="#FFCC66" align="left" class="BInfo" colspan="2">&nbsp;&nbsp;
+	    <a href="http://www.restaurants.com" class="BInfo" target="_top"><img src="/images/home2.gif" border="0" width="19" height="12" align="bottom"></a> 
+	    <a href="http://www.restaurants.com" class="BInfo" target="_top">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="/Resources/AddURL.asp" class="BInfo" target="_top">Add/<font color="red">Update</font> a Restaurant - Free Listing!</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="/Resources/Advertise.asp" class="BInfo" target="_top">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="/Resources/XLink.asp" class="BInfo" target="_top">Exchange Link!</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="/Resources/login.asp" class="BInfo" target="_top">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	    <a href="/Resources/PoweredBy.asp" class="BInfo" target="_top"><i>Powered-by</i> Partnership</a>
+	</td></tr>
+	<tr><td height="3" color="white" colspan="2"></td></tr>
+	<tr><td align="left" class="smallForm">
+		&nbsp; Copyright <font size="-1">©</font> 1999-2003 <b>Restaurants.com Inc.</b>. All rights reserved.<br>
+		&nbsp; <a href="mailto:info@restaurants.com">Comments &amp; Suggestions</a> | <a href="/Resources/disclaimer.asp">Terms of Use</a> | <a href="/Resources/privacy.asp">Privacy Policy</a>
+	</td>
+	<td align="right" class="smallForm">
+		&nbsp;
+	</td></tr>
+	<tr><td color="white" colspan="2" align="center" valign="middle">
+		
+	</td></tr>
 	</tbody></table>
 
+<script language="JavaScript1.2" type="text/javascript" src="http://www.restaurants.com/includes/HM_localvar.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="http://www.restaurants.com/includes/HM_Loader.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="http://www.restaurants.com/includes/dd_menu.js"></script>
 
-	<table cellspacing="0" cellpadding="0" border="0" width="760">
-	<tbody><tr><td valign="TOP">
-	
-		<table>	
-		<tbody><tr><td width="60"><font size="2" face="ARIAL,SANS-SERIF" color="#FF9933"><b>Search</b></font></td>
-			<td width="320" class="BContent"><font color="#CC3366">Local:</font>&nbsp;&nbsp;
-			   <a href="/US/Metro.asp?Metro=BO" target="_top" class="BContent">Boston</a> -
-			   <a href="/US/Metro.asp?Metro=CHIC" target="_top" class="BContent">Chicago</a> -
-			   <a href="/US/Metro.asp?Metro=DA" target="_top" class="BContent">Dallas</a> -
-			   <a href="/US/Metro.asp?Metro=DC" target="_top" class="BContent">DC</a> -
-			   <a href="/US/Metro.asp?Metro=PHIL" target="_top" class="BContent">Philadelphia</a> -
-			   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			   <a href="/US/Metro.asp?Metro=LA" target="_top" class="BContent">LA</a> -
-			   <a href="/US/Metro.asp?Metro=NY" target="_top" class="BContent">NYC</a> -
-			   <a href="/US/Metro.asp?Metro=SEAT" target="_top" class="BContent">Seattle</a> -
-			   <a href="/US/Metro.asp?Metro=SF" target="_top" class="BContent">SF Bay Area</a> -
-			   <a href="/US/USA.asp" target="_top" class="BContent">More...</a>
-			   <br>
-			   <font color="#CC3366">World:</font>&nbsp;
-				<a href="/World/RedirectWSearch.asp?Country=AU" target="_top" class="BContent">Australia</a> -
-				<a href="/World/RedirectWSearch.asp?Country=CA" target="_top" class="BContent">Canada</a> -
-				<a href="/World/RedirectWSearch.asp?Country=NZ" target="_top" class="BContent">New Zealand</a> -
-				<a href="/World/RedirectWSearch.asp?Country=UK" target="_top" class="BContent">UK</a> -
-				<a href="/World/World.asp" target="_top" class="BContent">More...</a>
-				<br>
-			   <font color="#CC3366">City:</font>&nbsp;
-				<a href="/World/RedirectWSearch.asp?Country=HK&amp;City=Hong+Kong" target="_top" class="BContent">Hong Kong</a> -
-				<a href="/World/RedirectWSearch.asp?Country=UK&amp;City=London" target="_top" class="BContent">London</a> -
-				<a href="/World/RedirectWSearch.asp?Country=FR&amp;City=Paris" target="_top" class="BContent">Paris</a> -
-				<a href="/World/RedirectWSearch.asp?Country=CN&amp;City=Shanghai" target="_top" class="BContent">Shanghai</a> -
-				<a href="/World/RedirectWSearch.asp?Country=SG&amp;City=Singapore" target="_top" class="BContent">Singapore</a>
-				<br>
-		</td></tr><tr>
-		</tr></tbody></table>
-		</td>
-		<td valign="TOP"><!-- Right Side Bottom Content  -->
-		<table>
-			<tbody><tr><td width="60"><font size="2" face="ARIAL,SANS-SERIF" color="#FF9933"><b>Links &amp;<br>Services</b></font></td>
-			    <td width="320" class="BContent">
-			   <font color="#CC3366">B2B:</font>&nbsp;
-
-			   <font color="#BBBBBB"><u>Restaurants for Sale</u></font> -
-
-			   <font color="#BBBBBB"><u>Equipment/Food Supplies</u></font>
-			   <br>
-			   <font color="#CC3366">B2C:</font>&nbsp;
-			   <a href="/B2C/GiftCertificates.asp" class="BContent">Buy a Gift Certificate</a> - 
-			   <a href="/B2C/FoodShopping.asp" class="BContent">Food Shopping</a>
-			   <br>
-			   <a href="/Gourmet/Global.asp" class="BContent">Global Gourmet</a> - 
-			   <font color="#BBBBBB"><u>Food &amp; Recipes</u></font> -
-			   <font color="#BBBBBB"><u>Drinks &amp; Recipes</u></font>
-			   <br>
-			   <font color="#BBBBBB"><u>Forum &amp; Chat</u></font> -
-			   <a href="/Resources/Offer.asp#webpage" class="BContent">Need a webpage</a> - 
-			   <a href="/Resources/Offer.asp#FaxMenu" class="BContent">Fax us a menu</a>
-				
-			</td></tr>
-		</tbody></table></td>
-	
-	</tr>
-	</tbody></table>
-	<table><tbody><tr><td height="5" color="white"></td></tr></tbody></table>
-
-
-		<table cellspacing="0" cellpadding="0" border="0" width="760">
-			<tbody><tr><td bgcolor="#FFCC66" align="left" class="BInfo" colspan="2">&nbsp;&nbsp;
-			    <a href="http://www.restaurants.com" class="BInfo" target="_top"><img src="/images/home2.gif" border="0" width="19" height="12" align="bottom"></a> 
-			    <a href="http://www.restaurants.com" class="BInfo" target="_top">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			    <a href="/Resources/AddURL.asp" class="BInfo" target="_top">Add a Restaurant - Free Listing!</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			    <a href="/Resources/Advertise.asp" class="BInfo" target="_top">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			    <a href="/Resources/XLink.asp" class="BInfo" target="_top">Exchange Link!</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			    <a href="/Resources/login.asp" class="BInfo" target="_top">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			    <a href="/Resources/PoweredBy.asp" class="BInfo" target="_top"><i>Powered-by</i> Partnership</a>
-			</td></tr>
-			<tr><td height="3" color="white" colspan="2"></td></tr>
-			<tr><td align="left" class="smallForm">
-				&nbsp; Copyright <font size="-1">©</font> 1999-2003 <b>Restaurants.com Inc.</b>. All rights reserved.<br>
-				&nbsp; <a href="mailto:info@restaurants.com">Comments &amp; Suggestions</a> | <a href="/Resources/disclaimer.asp">Terms of Use</a> | <a href="/Resources/privacy.asp">Privacy Policy</a>
-			</td>
-			<td align="right" class="smallForm">
-				&nbsp;
-<!--
-				Restaurants.com prefers <IMG SRC="/images20/visa.gif" WIDTH="37" HEIGHT="23" BORDER="0" ALT="Restaurants.com prefers VISA"  ALIGN="ABSMIDDLE">
--->
-			</td></tr>
-			<tr><td color="white" colspan="2" align="center" valign="middle">
-				
-			</td></tr>
-		</tbody></table>
-	
 </center>
-<!-- End Bottom Content -->
-
-
 
 </body></html>
