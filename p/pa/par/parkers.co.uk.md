@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619011407id_/http%3A//parkers.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204091808id_/http%3A//www.parkers.co.uk/info/privacy) for the most accurate reproduction.*
 
-# Parker's - Parker's - Car prices, car reviews, news, buying guides, finance and insurance advice. Parkers.co.uk has the most comprehensive and accurate valuations for cars and vans in the UK.
+# Parker's - Car prices, car reviews, news, buying guides, finance and insurance advice. Parkers.co.uk has the most comprehensive and accurate valuations for cars and vans in the UK.
 
 **This is Parker's Online, part of the Parker's portfolio of products + services, owned by EMAP Automotive Ltd.**
 
