@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610202144id_/http%3A//www.authorhouse.com/Terms_Policies/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208012029id_/http%3A//www.authorhouse.com/Terms_Policies/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Writing the book was hard. Publishing it doesn't have to be. Call toll-free 888/519-5121
 
@@ -34,7 +34,7 @@ If you feel more comfortable doing so, you may place your book order over the te
 COOKIES   
 When you visit a website, information may be stored in a file known as a "cookie." This file is stored on your computer and is used for future reference. If you revisit a website, the cookie allows that website to identify you as a returning guest and tailor your shopping experience to you. 
 
-AuthorHouse's cookies do not contain any personally identifiable information. We use them in two places. The first is when a user places an order. We use cookies to fill in their name and email address in the form where appropriate (this is known as "auto-fill.") The second is when a customer uses the [Contact Us](https://web.archive.org/web/20040610202144id_/http%3A//www.authorhouse.com/ContactUs/) page. Again, we use cookies for auto-filling the form.
+AuthorHouse's cookies do not contain any personally identifiable information. We use them in two places. The first is when a user places an order. We use cookies to fill in their name and email address in the form where appropriate (this is known as "auto-fill.") The second is when a customer uses the [Contact Us](https://web.archive.org/web/20041208012029id_/http%3A//www.authorhouse.com/ContactUs/) page. Again, we use cookies for auto-filling the form.
 
 Most web browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Please refer to your web browser's help file to learn more about these functions. 
 
