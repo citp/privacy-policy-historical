@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217231741id_/http%3A//www.vault.com/admin2/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209184437id_/http%3A//www.vault.com/admin2/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Vault, Inc: Privacy Policy
 
@@ -9,19 +9,7 @@ We at Vault ("Vault") are committed to protecting the privacy of your personal i
 
 Note that, by using the Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes; therefore, please bookmark this page and review it frequently. If you have any questions regarding this Privacy Policy, the Services, or Vault, please e-mail us at [feedback@staff.vault.com](mailto:feedback@staff.vault.com). If we change the way we use your personally identifiable information, we will notify you by e-mail and await your response for 20 days before making the change.
 
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Vault's control 
-  7. How you can correct any inaccuracies in the information. 
-
-If you have questions or concerns regarding this statement, you should first contact feedback@staff.vault.com by e-mail. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
-
-
-  
-**I. The information we gather**  
+  **I. The information we gather**  
 Although most parts of the Services do not require you to be a Member (and you can therefore use them without submitting any "personally identifiable information," that is, information that relates to an identified individual), some areas - such as our detailed online profiles and industry guides - do. In order to become a Member, individuals are required to provide us with (a) an e-mail address and a unique user name and password, as well as certain personally identifying and other information such as the Member's zip code, country, industry and occupation and (b) before making a purchase, the Member's name, address, phone number, payment information (including credit card information), and other shipping information. Once you complete your registration, you will be given the opportunity to submit additional personally identifying information to create an "online profile" (the "Profile"). In your Profile, we ask for optional contact information, including demographic information (like age, or income level). Your contact information is also used to contact you when necessary. You may op-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data are also collected at our site. We use this data to tailor your experience at our site, showing you content that we think you might be interested in, and displaying the content according to your preferences. We also use demographic information to target advertisements to users from specific demographics.
 
 Vault also collects non-personally identifiable information (that is, information that does not identify a specific individual), such as aggregate use statistics for the Services, for both visitors and Members. We collect such non-personally identifiable information in part through the use of "cookies" - that is, small text files placed on your computer's hard drive. We collect some basic information about your computer and Internet connections, including: (1) your IP address (your computer's unique signature); (2) your operating system (e.g., Windows or Mac); (3) your browser software (e.g., Netscape or Internet Explorer); (4) your Internet Service Provider (e.g., AOL or AT&T); (5) your geographic location (e.g., New York, NY.); (6) your IP address. Collecting this information helps us streamline your experience on the Services - for example, helping us diagnose problems with our server, administering our Web site, by "automatically" filling out forms for you, or keeping track of the contents of your online shopping cart.
