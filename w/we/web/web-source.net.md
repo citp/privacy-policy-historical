@@ -1,55 +1,53 @@
-> *The following text is extracted and transformed from the web-source.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193616id_/http%3A//www.web-source.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-source.net privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001172228id_/http%3A//web-source.net/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement For Web-Source
+# Web-Source.net Privacy Policy
 
-  
-**Privacy Statement for Web-Source.net**
+Last Updated: August 22, 2003
 
-Web-Source.net has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Web-Source.net.
+Web-Source.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
-Web-Source.net respects the privacy of its users and promises not to disclose personal and/or business information to third parties without Your permission. We will not sell your name, email address, phone number, or any other personal information to anyone else. We consider this information to be private, and it will remain as such.
+**How we gather information from users**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site.
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests and message boards, and other interactive areas of our site. Like most Web sites, Web-Source.net also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences. 
 
-This site contains links to other sites. **Web-Source.net** is not responsible for the privacy practices or the content of such Web sites.
+**What we do with the information we collect**
 
-Our site uses subscription forms which collects email addresses. We use these email addresses to send subscribers our publications and to keep them updated on issues that affect them. Subscribers may choose to unsubscribe from any mailings at any time. See the choice/opt-out section below.
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
-**Public Forums**
+We may use Personally Identifiable Information collected on Web-Source.net to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Web-Source.net and other topics we think you might find of interest. 
 
-This site makes a forum available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Personally Identifiable Information collected by Web-Source.net may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-**Security**
+**Affiliated sites, linked sites and advertisements**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All credit card orders are processed on a secure server through our online retailer.
+Web-Source.net expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Web-Source.net page, certain content that is actually created or hosted by a third party. Also, through Web-Source.net you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Web-Source.net is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-**Choice/Opt-Out**
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Web-Source.net does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
 
-Our site provides users the opportunity to opt-out of each mailing list. 
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Web-Source.net and this policy. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service:
+**Children**
 
-Each mailing contains information pertaining to your subscription. This includes an email and/or web address to unsubscribe from the publication and/or mailings.
+Web-Source.net does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Web-Source.net has any information from or about anyone under 13, please contact us at the address listed below. 
 
-Visit Web-Source.net to manage your subscriptions. There are subscription management forms located at the bottom of most pages. (See the bottom of this page)
+**Contacting Us**
 
-You can send email to [service@web-source.net](mailto:service@web-source.net)
+We can be reached by contacting:
 
-**Correct/Update**
+Feedback: [Web-Source.net](http://www.web-source.net/feedback.htm)
 
-This site gives users the following options for changing and modifying information previously provided.
+Email: [admin@web-source.net](mailto:admin@web-source.net)
 
-email [service@web-source.net](mailto:service@web-source.net)
+**Changes to this Policy**
 
-**Contacting the Web Site**
+Web-Source.net reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
+**Governing law**
 
-Shelley Lowery   
-Brajusta Publishing   
-P.O. Box 156   
-Lewis Center, OH 43035  
-740.548.9594  
-[info@web-source.net](mailto:info@web-source.net)
+This policy and the use of this Site are governed by Ohio law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Delaware, Ohio. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Delaware, Ohio, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+
+Web-Source.net is controlled, operated and administered entirely within Ohio. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
