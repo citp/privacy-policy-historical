@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dslextreme.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002125031id_/http%3A//www.dslextreme.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslextreme.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204063725id_/http%3A//www.dslextreme.com/privacy.htm) for the most accurate reproduction.*
 
-# DSLExtreme -
+# DSLExtreme - Privacy Policy
 
 Privacy Policy
 
@@ -30,8 +30,7 @@ All customer/visitor information, not just the sensitive information mentioned a
 
 **Questions:** Any questions or comments regarding privacy should be sent to [support@dslextreme.com](mailto:support@dslextreme.com) or mailed to: 
 
-Customer Service  
+**Customer Service**  
 DSLExtreme  
-21018 Osborne St #2  
-Canoga Park, CA 91304  
-
+20847 Sherman Way  
+Winnetka, CA 91306
