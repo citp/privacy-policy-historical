@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214093703id_/http%3A//www.wtrf.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D11%26subtopicintid%3D248) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206044717id_/http%3A//www.wtrf.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D11%26subtopicintid%3D248) for the most accurate reproduction.*
 
 # Welcome to WTRF
 
