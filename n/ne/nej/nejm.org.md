@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014717id_/http%3A//www.nejm.org/aboutnejm/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603023352id_/http%3A//nejm.org/aboutnejm/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policies -- The New England Journal of Medicine
 
@@ -9,7 +9,7 @@
 This is the Web site of the _New England Journal of Medicine,_ owned and published by the Massachusetts Medical Society. Our publishing offices are located at 860 Winter Street, Waltham, Massachusetts, 02451, USA; telephone (781) 893-3800. The _New England Journal of Medicine_ Editorial Office is located at 10 Shattuck St., Boston, MA 02115, USA; telephone (617) 734-9800.   
 
 
-Please direct any questions about this privacy statement to Joseph Elia at the publishing offices, or to [jelia@nejm.org](mailto:jelia@nejm.org). 
+Please direct any questions about this privacy statement to our publishing offices at [webmaster@nejm.org](mailto:webmaster@nejm.org). 
 
 ## ** PRINCIPLES GOVERNING THIS SITE**
 
