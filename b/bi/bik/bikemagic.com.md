@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikemagic.com privacy policy that was archived on 2001-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011110184723id_/http%3A//bikemagic.com/members/privacy.asp%3Fsp%3D%26v%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikemagic.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408180716id_/http%3A//www.bikemagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # BIKEmagic - Privacy Policy
 
@@ -36,5 +36,4 @@ You should be aware that if we are requested by the police or any regulatory or 
 
 All of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.  
   
-| |   
----
+| 
