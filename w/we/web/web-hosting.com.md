@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205052047id_/http%3A//web-hosting.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114609id_/http%3A//www.web-hosting.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement - DeZines Web Hosting Corporation
-
-| 
+# DeZines Web Hosting: Privacy Statement
 
 **Privacy Statement**
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy.
 
-This statement discloses the information gathering and dissemination practices of [DeZines Web Hosting Corporation](https://web.archive.org/web/20011205052047id_/http%3A//web-hosting.com/index.htm), pertinent to this web site. This statement supplements our [Legal Notices](http://www.web-hosting.com/order/agreement.html), with respect to privacy. The terms, conditions and provisions of our [Legal Notices](http://www.web-hosting.com/order/agreement.html) shall govern and take precedence over any conflicting provision or disclosure in this privacy statement. 
+This statement discloses the information gathering and dissemination practices of [DeZines Web Hosting Corporation](https://web.archive.org/web/20020602114609id_/http%3A//www.web-hosting.com/index.htm), pertinent to this web site. This statement supplements our [Legal Notices](http://www.web-hosting.com/order/agreement.html), with respect to privacy. The terms, conditions and provisions of our [Legal Notices](http://www.web-hosting.com/order/agreement.html) shall govern and take precedence over any conflicting provision or disclosure in this privacy statement. 
 
   * **General:**
 
@@ -40,8 +38,7 @@ When you fill out the Domain Name Registration Form to register a domain name, t
 
   * **Corrections/Updates:**
 
-To make any changes in your order, your contact information or your financial information, please [contact us](https://web.archive.org/web/20011205052047id_/http%3A//web-hosting.com/contact.html). Please do not send us any financial information or any other sensitive information via email. 
+To make any changes in your order, your contact information or your financial information, please [contact us](https://web.archive.org/web/20020602114609id_/http%3A//www.web-hosting.com/contact.html). Please do not send us any financial information or any other sensitive information via email. 
 
 
-  
----|---
+
