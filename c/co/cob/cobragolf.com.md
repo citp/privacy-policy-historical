@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603163523id_/http%3A//www.cobragolf.com/355.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085511id_/http%3A//www.cobragolf.com/355.html) for the most accurate reproduction.*
 
 # Corporate: Employment
 
