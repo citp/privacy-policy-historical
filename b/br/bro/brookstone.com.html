@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brookstone.com privacy policy that was archived on 2002-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205094619id_/http%3A//www.brookstone.com/service/service.asp%3Fcust_serv_id%3D201) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brookstone.com privacy policy that was archived on 2003-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030624212203id_/http%3A//www.brookstone.com/service/service.asp%3Fcust_serv_id%3D201) for the most accurate reproduction.-->
 
 <html><head>
 <script language="javascript">
@@ -36,32 +36,69 @@ function swapImage(imgName,imgPath){
 function popupDisplay(){
 	var myForm = document.signup;
 	var email = myForm.header_email.value;
-	emailPopUp = window.open('../service/email_signup_popup.asp?header_email=' + escape(email) ,'emailWin','width=506,height=580,scrollbars,resizable')
+	emailPopUp = window.open('../service/email_signup_popup.asp?header_email=' + escape(email) ,'emailWin','width=506,height=580,scrollbars,resizable');
 }
 
 
 function blankEmail() {
 		if (document.signup.header_email.value == "Enter email address here") {
-			document.signup.header_email.value = ""
+			document.signup.header_email.value = "";
 		}
 }
 
 
 function blankSearch() {
 		if (document.searchForm.search_words.value == "Type keyword(s) or item #") {
-			document.searchForm.search_words.value = ""
+			document.searchForm.search_words.value = "";
 		}
 }
 
 //-->
 </script>
 
+<script language="javascript">
+
+  var allow_popup = true;
+  var nn = (document.layers) ? 1:0
+  var ie = (document.all) ? 1:0
+
+
+
+
+  function HidePopUp()
+  {
+     allow_popup=false;
+  }
+
+
+
+  function ShowPopUp()
+  {
+
+
+    
+
+  	if (allow_popup)
+  	    window.open("../service/exit_popup.asp","","directories=0,height=325,width=375,resizable");
+
+  }
+
+
+</script>
+
 <script language="javascript" type="text/javascript" src="/css/stylesheet.js">
 <!-- Loading Browser Specific Style Sheets -->
 </script><link rel="stylesheet" type="text/css" href="/css/ns.css">
+
+<script language="JavaScript" type="text/javascript" src="../js/search.js">
+<!-- Search functions -->
+</script>
+
+
 <title>Brookstone.com - 1-866-576-7337</title>
 </head>
-<body marginheight="0" marginwidth="0">
+   <body marginheight="0" marginwidth="0">
+
 <div align="center">
 <table cellpadding="0" cellspacing="0" border="0" width="758">
 	<tbody><tr>
@@ -69,12 +106,12 @@ function blankSearch() {
 		<td><img src="/bs_assets/images/misc/spacer.gif" width="397" height="3" border="0" alt=""></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.brookstone.com/shop/catalog.asp"><img src="/bs_assets/images/nav/hd_cat_request.gif" width="90" height="15" alt="" border="0"></a></td>
-		<td><a href="http://www.brookstone.com/service/store_locator.asp?cust_serv_id=0"><img src="/bs_assets/images/nav/hd_store_locator.gif" width="81" height="15" alt="" border="0"></a></td>
-		<td><a href="http://www.brookstone.com/corporate/index.asp"><img src="/bs_assets/images/nav/hd_corp_gifting.gif" width="97" height="15" alt="" border="0"></a></td>
-		<td><a href="http://www.brookstone.com/service/service.asp?cust_serv_id=200"><img src="/bs_assets/images/nav/hd_customer_serv.gif" width="93" height="15" alt="" border="0"></a></td>
-		<td valign="top" align="right"><img src="/bs_assets/images/nav/nav_cart.gif" alt="" width="14" height="9" border="0"> <a href="http://www.brookstone.com/shop/basket.asp">Shopping Cart:</a> <a href="http://www.brookstone.com/shop/basket.asp">
-		0  Items</a>&nbsp;&nbsp;<a href="http://www.brookstone.com/myaccount/login.asp">My Account</a>&nbsp;&nbsp;<a href="http://www.brookstone.com/service/order_tracking.asp?cust_serv_id=0">Order Tracking</a></td>
+		<td><a onclick="HidePopUp();" href="http://www.brookstone.com/shop/catalog.asp"><img src="/bs_assets/images/nav/hd_cat_request.gif" width="90" height="15" alt="" border="0"></a></td>
+		<td><a onclick="HidePopUp();" href="http://www.brookstone.com/service/store_locator.asp?cust_serv_id=0"><img src="/bs_assets/images/nav/hd_store_locator.gif" width="81" height="15" alt="" border="0"></a></td>
+		<td><a onclick="HidePopUp();" href="http://www.brookstone.com/corporate/index.asp"><img src="/bs_assets/images/nav/hd_corp_gifting.gif" width="97" height="15" alt="" border="0"></a></td>
+		<td><a onclick="HidePopUp();" href="http://www.brookstone.com/service/service.asp?cust_serv_id=200"><img src="/bs_assets/images/nav/hd_customer_serv.gif" width="93" height="15" alt="" border="0"></a></td>
+		<td valign="top" align="right"><img src="/bs_assets/images/nav/nav_cart.gif" alt="" width="14" height="9" border="0"> <a onclick="HidePopUp();" href="http://www.brookstone.com/shop/basket.asp">Shopping Cart:</a> <a onclick="HidePopUp();" href="http://www.brookstone.com/shop/basket.asp">
+		0  Items</a>&nbsp;&nbsp;<a onclick="HidePopUp();" href="http://www.brookstone.com/myaccount/login.asp">My Account</a>&nbsp;&nbsp;<a onclick="HidePopUp();" href="http://www.brookstone.com/service/order_tracking.asp?cust_serv_id=0">Order Tracking</a></td>
 	</tr>
 	<tr>
 		<td colspan="5"><img src="/bs_assets/images/misc/spacer.gif" width="1" height="6" border="0" alt=""></td>
@@ -94,12 +131,12 @@ function blankSearch() {
 			<!-- logo and sign up box -->
 			<table cellpadding="0" cellspacing="0" border="0" width="251">
 				<tbody><tr>
-					<td colspan="4"><a href="http://www.brookstone.com/world.asp"><img src="/bs_assets/images/nav/hd_logo.gif" width="207" height="39" alt="" border="0"></a></td>
+					<td colspan="4"><a onclick="HidePopUp();" href="http://www.brookstone.com/world.asp"><img src="/bs_assets/images/nav/hd_logo.gif" width="207" height="39" alt="" border="0"></a></td>
 				</tr>
 				<tr>
 					<td colspan="4"><img src="/bs_assets/images/misc/spacer.gif" width="1" height="6" border="0" alt=""></td>
 				</tr>
-				<form name="signup" id="signup" onsubmit="javascript:popupDisplay()"></form>
+				<form name="signup" id="signup" onclick="HidePopUp();" onsubmit="javascript:popupDisplay()"></form>
 				<input type="hidden" name="cust_serv_id" value="201">
 				<tr>
 					<td><img src="/bs_assets/images/nav/hd_sign_up.gif" width="75" height="7" alt="" border="0"></td>
@@ -150,7 +187,7 @@ function blankSearch() {
 				<tr>
 					<td bgcolor="#EBEBEB"><img src="/bs_assets/images/misc/spacer.gif" width="1" height="1" border="0" alt=""></td>
 					<td><img src="/bs_assets/images/misc/spacer.gif" width="18" height="1" border="0" alt=""></td>
-					<td><img src="/bs_assets/images/homepage/hd_bestof_links.gif" width="202" height="15" border="0" alt="Best Of" usemap="#bestof"></td>
+					<td><div onclick="HidePopUp();"> <img src="/bs_assets/images/homepage/hd_bestof_links.gif" width="202" height="15" border="0" alt="Best Of" usemap="#bestof"></div></td>
 				</tr>
 				
 				<tr>
@@ -162,21 +199,20 @@ function blankSearch() {
 		<td valign="top" bgcolor="#F4F4F4">
 			<!-- search box and gift ideas -->
 			<map name="giftideas">
-				<area alt="By Price" coords="3,0,57,15" href="/world.asp?world_code=100&amp;locid=price">
-				<area alt="By Occasion" coords="67,0,142,15" href="/world.asp?world_code=100&amp;locid=occasion">
-				<area alt="By Top Gifts" coords="154,0,226,15" href="/world.asp?world_code=100&amp;locid=gifts">
+				<area alt="By Price" coords="3,0,57,15" onclick="HidePopUp();" href="/world.asp?world_code=100&amp;locid=price">
+				<area alt="By Occasion" coords="67,0,142,15" onclick="HidePopUp();" href="/world.asp?world_code=100&amp;locid=occasion">
+				<area alt="By Top Gifts" coords="154,0,226,15" onclick="HidePopUp();" href="/world.asp?world_code=100&amp;locid=gifts">
 				</map><table cellpadding="0" cellspacing="0" border="0" width="251">
 				<tbody><tr>
 					<td bgcolor="#CCCCCC" colspan="3"><img src="/bs_assets/images/misc/spacer.gif" width="1" height="5" border="0" alt=""></td>
 				</tr>
-				<form action="/shop/thumbnail.asp" method="get" name="searchForm" id="searchForm"></form>
-				<input type="hidden" name="search_type" value="search">
 				<tr>
 					<td bgcolor="#CCCCCC"><img src="/bs_assets/images/nav/hd_search.gif" width="69" height="20" alt="" border="0"></td>
+					<form onclick="HidePopUp();" action="Javascript:Search_TopNav();" name="searchForm" id="searchForm"></form>
 					<td bgcolor="#CCCCCC"><input type="text" name="search_words" onfocus="javascript:blankSearch()" value="Type keyword(s) or item #" size="14" maxlength="30" class="smallinput" style="width:130px;"></td>
-					<td bgcolor="#CCCCCC"><input type="image" src="/bs_assets/images/nav/hd_search_go.gif" width="24" height="20" alt="GO" border="0"></td>
+					
+					<td bgcolor="#CCCCCC"><a onclick="HidePopUp();" href="javascript:Search_TopNav();"><img src="/bs_assets/images/nav/hd_search_go.gif" width="24" height="20" alt="GO" border="0"></a></td>
 				</tr>
-				
 				<tr>
 					<td bgcolor="#CCCCCC" colspan="3"><img src="/bs_assets/images/misc/spacer.gif" width="1" height="5" border="0" alt=""></td>
 				</tr>
@@ -204,12 +240,12 @@ function blankSearch() {
 <table cellpadding="0" cellspacing="0" border="0" width="758">
 	<tbody><tr>
 		<td bgcolor="#DEDEDE"><img src="/bs_assets/images/misc/spacer.gif" width="1" height="1" border="0" alt=""></td>
-		<td><a href="http://www.brookstone.com/world.asp?world_code=1" onmouseover="swapImage('hf','/bs_assets/images/nav/hd_health_on.gif');" onmouseout="swapImage('hf','/bs_assets/images/nav/hd_health_on.gif');"><img src="/bs_assets/images/nav/hd_health_on.gif" width="124" height="24" alt="health and fitness" border="0"></a></td>
-		<td><a href="http://www.brookstone.com/world.asp?world_code=2" onmouseover="swapImage('ho','/bs_assets/images/nav/hd_home_on.gif');" onmouseout="swapImage('ho','/bs_assets/images/nav/hd_home_on.gif');"><img src="/bs_assets/images/nav/hd_home_on.gif" width="128" height="24" alt="home and office" border="0"></a></td>
-		<td><a href="http://www.brookstone.com/world.asp?world_code=3" onmouseover="swapImage('ol','/bs_assets/images/nav/hd_outdoor_on.gif');" onmouseout="swapImage('ol','/bs_assets/images/nav/hd_outdoor_on.gif');"><img src="/bs_assets/images/nav/hd_outdoor_on.gif" width="124" height="24" alt="outdoor living" border="0"></a></td>
-		<td><a href="http://www.brookstone.com/world.asp?world_code=4" onmouseover="swapImage('ta','/bs_assets/images/nav/hd_travel_on.gif');" onmouseout="swapImage('ta','/bs_assets/images/nav/hd_travel_on.gif');"><img src="/bs_assets/images/nav/hd_travel_on.gif" width="118" height="24" alt="travel and auto" border="0"></a></td>
-		<td><a href="http://www.brookstone.com/shop/thumbnail.asp?world_code=100&amp;category_code=61&amp;subcategory_code=627&amp;search_type=subcategory" onmouseover="swapImage('ta','/bs_assets/images/nav/hd_tempur_on.gif');" onmouseout="swapImage('ta','/bs_assets/images/nav/hd_tempur_on.gif');"><img src="/bs_assets/images/nav/hd_tempur_on.gif" width="116" height="24" alt="tempur-pedic" border="0"></a></td>
-		<td><a href="http://www.brookstone.com/world.asp?world_code=5" onmouseover="swapImage('htft','/bs_assets/images/nav/hd_htft_on.gif');" onmouseout="swapImage('htft','/bs_assets/images/nav/hd_htft_on.gif');"><img src="/bs_assets/images/nav/hd_htft_on.gif" width="146" height="24" alt="hard to find tools" border="0"></a></td>
+		<td><a onclick="HidePopUp(); " href="http://www.brookstone.com/world.asp?world_code=1" onmouseover="swapImage('hf','/bs_assets/images/nav/hd_health_on.gif');" onmouseout="swapImage('hf','/bs_assets/images/nav/hd_health_on.gif');"><img src="/bs_assets/images/nav/hd_health_on.gif" width="124" height="24" alt="health and fitness" border="0"></a></td>
+		<td><a onclick="HidePopUp(); " href="http://www.brookstone.com/world.asp?world_code=2" onmouseover="swapImage('ho','/bs_assets/images/nav/hd_home_on.gif');" onmouseout="swapImage('ho','/bs_assets/images/nav/hd_home_on.gif');"><img src="/bs_assets/images/nav/hd_home_on.gif" width="128" height="24" alt="home and office" border="0"></a></td>
+		<td><a onclick="HidePopUp();" href="http://www.brookstone.com/world.asp?world_code=3" onmouseover="swapImage('ol','/bs_assets/images/nav/hd_outdoor_on.gif');" onmouseout="swapImage('ol','/bs_assets/images/nav/hd_outdoor_on.gif');"><img src="/bs_assets/images/nav/hd_outdoor_on.gif" width="124" height="24" alt="outdoor living" border="0"></a></td>
+		<td><a onclick="HidePopUp();" href="http://www.brookstone.com/world.asp?world_code=4" onmouseover="swapImage('ta','/bs_assets/images/nav/hd_travel_on.gif');" onmouseout="swapImage('ta','/bs_assets/images/nav/hd_travel_on.gif');"><img src="/bs_assets/images/nav/hd_travel_on.gif" width="118" height="24" alt="travel and auto" border="0"></a></td>
+		<td><a onclick="HidePopUp();" href="http://www.brookstone.com/shop/thumbnail.asp?world_code=100&amp;category_code=61&amp;subcategory_code=627&amp;search_type=subcategory" onmouseover="swapImage('ta','/bs_assets/images/nav/hd_tempur_on.gif');" onmouseout="swapImage('ta','/bs_assets/images/nav/hd_tempur_on.gif');"><img src="/bs_assets/images/nav/hd_tempur_on.gif" width="116" height="24" alt="tempur-pedic" border="0"></a></td>
+		<td><a onclick="HidePopUp();" href="http://www.brookstone.com/world.asp?world_code=5" onmouseover="swapImage('htft','/bs_assets/images/nav/hd_htft_on.gif');" onmouseout="swapImage('htft','/bs_assets/images/nav/hd_htft_on.gif');"><img src="/bs_assets/images/nav/hd_htft_on.gif" width="146" height="24" alt="hard to find tools" border="0"></a></td>
 		<td bgcolor="#DEDEDE"><img src="/bs_assets/images/misc/spacer.gif" width="1" height="1" border="0" alt=""></td>
 	</tr>
 	<tr>
@@ -315,7 +351,7 @@ Brookstone also uses persistent cookies to identify members after their first vi
 <!-- end body -->
 <table width="758" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#ffffff">
 <tbody><tr>
-<td align="center" class="footer"><br><a href="http://www.brookstone.com/world.asp" title="Brookstone.com Home Page" class="footer">Home</a> | <a href="http://www.brookstone.com/service/company_info.asp?company_info_id=233" class="footer">Company Info</a> | <a href="http://www.brookstone.com/world.asp?world_code=6" class="footer">Outlet Store</a> | <a href="http://www.brookstone.com/service/service.asp?cust_serv_id=209" class="footer">Returns Policy</a> | <a href="http://www.brookstone.com/service/service.asp?cust_serv_id=245" class="footer">Affiliate Program</a><br>
+<td align="center" class="footer"><br><a onclick="HidePopUp();" href="http://www.brookstone.com/world.asp" title="Brookstone.com Home Page" class="footer">Home</a> | <a onclick="HidePopUp();" href="http://www.brookstone.com/service/company_info.asp?company_info_id=233" class="footer">Company Info</a> | <a onclick="HidePopUp();" href="http://www.brookstone.com/world.asp?world_code=6" class="footer">Outlet Store</a> | <a onclick="HidePopUp();" href="http://www.brookstone.com/service/service.asp?cust_serv_id=209" class="footer">Returns Policy</a> | <a onclick="HidePopUp();" href="http://www.brookstone.com/service/service.asp?cust_serv_id=245" class="footer">Affiliate Program</a><br>
 Customer Service 1-800-846-3000 | Sales 1-866-576-7337</td>
 </tr>
 <tr>
@@ -323,8 +359,8 @@ Customer Service 1-800-846-3000 | Sales 1-866-576-7337</td>
 </tr>
 <tr>
 <td align="center" class="footer">
-Use of the site constitutes acceptance of our <a href="http://www.brookstone.com/service/service.asp?cust_serv_id=202">Terms of Use</a><br>
-Copyright © 2002, Brookstone Company, Inc. All Rights Reserved | <a href="http://www.brookstone.com/service/service.asp?cust_serv_id=201">Privacy Policy</a></td>
+Use of the site constitutes acceptance of our <a onclick="HidePopUp();" href="http://www.brookstone.com/service/service.asp?cust_serv_id=202">Terms of Use</a><br>
+Copyright © 2003, Brookstone Company, Inc. All Rights Reserved | <a onclick="HidePopUp();" href="http://www.brookstone.com/service/service.asp?cust_serv_id=201">Privacy Policy</a></td>
 </tr>
 </tbody></table>
 </div>
