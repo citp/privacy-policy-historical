@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603175007id_/http%3A//newgrounds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094502id_/http%3A//www.newgrounds.com/privacy.html) for the most accurate reproduction.*
 
 # Newgrounds Privacy Statement
 
@@ -20,21 +20,23 @@ We use an outside ad company to display ads on our site. These ads may contain c
 
 ###  Third Party Advertising
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp)
+Some ads appearing on this website are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy)
+
+We use Gorilla Nation, Max WorldWide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
 ###  Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique “cookie” on your browser. 
 
 ####  Registration Forms 
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). 
+Our site's registration form requires users to give us contact information (like their name, email address), unique identifiers (like their email address), and demographic information (like their zip code or age). 
 
-Contact information from the registration forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the customer when necessary. 
+Contact information from the registration forms is used to get in touch with the customer when necessary. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. 
+Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. 
 
 Demographic and profile data is also collected at our site.   
 This information is shared with advertisers on an aggregate basis. 
@@ -51,7 +53,7 @@ Users may opt-out of receiving future mailings; see the choice/opt-out section b
 
 Our online surveys ask visitors for contact information (like email address). 
 
-Contact information from the surveys is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. 
+Contact information from the surveys is used to identify users. The customer's contact information is also used to get in touch with the visitor when necessary. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -79,8 +81,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 This site **DOES NOT MEET** the Online Privacy Protection Act guidelines The following criteria are violated: 
 
-  1. This site collects, uses, or distributes to third parties personally identifiable information without prior verifiable parental consent. 
-  2. This site has links that are unsuitable for children. 
+  1. This site has links that are unsuitable for children. 
 
 
 
