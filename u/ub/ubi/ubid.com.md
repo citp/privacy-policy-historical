@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2000-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000606214711id_/http%3A//www.ubid.com/help/policies_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203083100id_/http%3A//www.ubid.com/help/topic5.asp) for the most accurate reproduction.*
 
 # uBid.com - Help Pages
 
@@ -10,35 +10,40 @@
 [Auction & Bidding Info](https://web.archive.org/help/topic_list3.asp)  
 [My Page](https://web.archive.org/help/topic_list5.asp)  
 [Payment & Credit Policies](https://web.archive.org/help/topic_list7.asp)  
-[Shipping & Returns](https://web.archive.org/help/topic_list2.asp)  
+[Shipping](https://web.archive.org/help/topic_list2.asp)  
+[Returns Policy & Procedures](https://web.archive.org/help/topic29.asp)  
 [Product & Warranty Info](https://web.archive.org/help/topic_list4.asp)  
+[Add On Sales](https://web.archive.org/help/topic55.asp)  
 [Website Issues](https://web.archive.org/help/topic_list6.asp)  
-[About the Auction Community](https://web.archive.org/help/topic_list9.asp)  
-[Still having problems? - Contact our Reps](https://web.archive.org/help/topic38.asp)  
+[About the Auction Exchange](https://web.archive.org/help/topic68.asp)  
+[Still having problems? \- Contact our Reps](https://web.archive.org/help/topic38.asp)  
 [About uBid.com](https://web.archive.org/help/topic_list8.asp)  
 [Contacting uBid - Corporate Directory](https://web.archive.org/help/topic_list10.asp)  
+[Tech Help](http://www.service911.com/ubid/)  
+[Quick Checkout ](https://web.archive.org/help/topic69.asp)  
    
   
   
-[](http://ad.doubleclick.net/jump/wiseads.ubid/help;sz=125x125;ord=3626215)   
-
-
   
-  
-  
-[](http://www.pcmall.com/deal/zwb10515)
+[](http://www.ubid.com/about/business/affiliate.asp)
 
 **What is uBid's Privacy & Security Policy?**
 
 uBid.com has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically.
 
-uBid.com uses the information we collect about you to process orders. When you register at uBid.com, we collect your name, email addresses, mailing address, credit card number, and expiration date in order to process and fulfill your order.
+uBid.com uses the information we collect about you to process orders. When you register at uBid.com, we collect your name, email addresses, mailing address, credit card number, and expiration date in order to process and fulfill your order. In some instances, products ordered at uBid.com are shipped directly from our vendors, and some of your information is shared with these vendors to enable them to fulfill and ship your order.
 
 When you sign up for uBid Mail, we need only an email address to send you the email topics that you have selected. We also use your email address to send you email notice of your bid and order status, and we may use your email address to send you notice of upgrades or changes to uBid.com, new services, and special offers. We do not currently sell, trade, or rent our list of email addresses to any third parties, although we do occasionally allow third parties to insert messages in our emails to you. You may choose not to receive any of these emails when you register or at a later date by accessing My Mailbox.
 
 We occasionally will ask for additional information from you. For instance, we may ask for your name, address, and e-mail address in connection with a contest or other promotional feature in which you participate, so we can administer the contest and notify winners. We may offer contests or promotions with third parties; policies concerning use of your personal data gathered in connection with any such contest or promotion will be specifically set forth in the rules and policies applicable to the contest or promotion.
 
 uBid offers a service called "Tell a Buddy" that allows you to notify friends about open auctions. Please note, however, that uBid opposes the practice of sending unsolicited commercial emails, also known as "spam." Therefore, we request that you send "Tell a Buddy" emails only to people known by you who may be interested in the auction. If someone asks you not to send these emails to him or her, please comply. Your friends' email addresses will not be used for promotional purposes nor disclosed to a third party.
+
+When you submit ratings or comments on the Consumer Exchange Ratings page, all such ratings and comments will be publicly available, together with the uBid Login IDs of both parties (the rating party and the party being rated). You may be contacted about your experiences.
+
+When you bid on an item, you must enter the amount of your bid, your uBid Login ID and your password. Your initials, city and state and your bid will be publicly available in the Current Winning Bids history.
+
+uBid cannot and does not control information users make available to others in the Consumer Exchange, including but not limited to information disclosed by you in connection with creating an auction as a seller in the Consumer Exchange. Though prohibited, users may provide information that is false, deceptive, harmful or offensive to other users. Please exercise care in determining what information you share with others in using this service. uBid will not share any of your user information with other users, except for your email address when you are either a seller or successful bidder in a Consumer Exchange Auction, to enable the parties to communicate to complete the transaction. 
 
 **Cookies**   
 "Cookies" are pieces of information that are passed to your browser and stored on your computer's hard drive. uBid uses cookies to recognize repeat visitors, to automatically enter your login ID in our bid form, and to provide additional features to make shopping at uBid easier and more efficient. If you do not wish to receive cookies, you can turn them off using your browser's settings.
