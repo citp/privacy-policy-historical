@@ -1,63 +1,109 @@
-<!--The following is the downloaded HTML source of the affiliatewindow.com privacy policy that was archived on 2001-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011214160042id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the affiliatewindow.com privacy policy that was archived on 2004-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040616161453id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<meta http-equiv="Content-Language" content="en-gb">
-<title>Affiliate Software from Affiliate Window</title>
-<meta name="description" content="UK affiliate software. earn commissions for linking to UK companies selling services and products to the UK and European consumers">
-<meta name="keywords" content="uk affiliate software, software, merchant services, associates, commission, england, afiliates, ecommerce, internet marketing, ecommerce solutions, marketing advice, marketer, UK, Europe, Global, marketing newsletter, internet marketing tips">
+<title>
+affiliate network - AffiliateWindow.com</title>
+<meta name="description" content="affiliate network offering tracking and management solutions for maintaining an affiliate program">
+<meta name="keywords" content="affiliate network, program, marketing, tracking, commission, advertising, banner ads, text links CPA CPC">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<link rel="StyleSheet" href="stylesheet.css" type="text/css" media="screen">
-
+<link rel="StyleSheet" href="/stylesheet.css" type="text/css" media="screen">
+<script language="javascript">
+var productsEnabled;
+productsEnabled = ""
+</script>
 
 <script language="javascript" type="text/javascript">
+
+
 function popup( daLink ) {
-	var comwin = window.open(daLink,'popup','width=700,height=450,scrollbars=yes,resize=no');
-	    comwin.focus() ;	    }
+	var comwin = window.open(daLink,'popup','width=700,height=450,scrollbars=yes,resizable=yes');
+	    comwin.focus() ;	    
+}
+
+function findObj(n, d) { 
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+  d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function openNewWin(windowUrl,winHeight,winWidth){
+	msgWindow=window.open(windowUrl,"displayWindow","toolbar=no,width="+winWidth+",height="+winHeight+",directories=no,status=no,scrollbars=yes,resizable=yes,menubar=no");
+}
+
+function changeColour(ident,trValue)
+{
+	ident.style.background = trValue;
+}
+
+function login()
+{
+	screenWidth = screen.width;
+	screenHeight = screen.height;
+	colourDepth = screen.colorDepth;
+
+	document.loginForm.screenwidth.value = screenWidth;
+	document.loginForm.screenheight.value = screenHeight;
+	document.loginForm.colourdepth.value = colourDepth;
+	document.loginForm.submit();
+}
+
+function loginkeyhandler(e) 
+{
+    if (document.layers) Key = e.which;
+    else Key = window.event.keyCode;
+    if (Key == 13) login();
+}
+
 </script>
 </head>
 
 <body>
-
-<table width="360" cellspacing="0" cellpadding="0" align="center" border="0">
-  <tbody><tr>
-    <td width="172" rowspan="3">
-    <img src="../images/awlogos.gif" width="170" height="34" border="0"><br>
-    &nbsp;<p>
-    <img src="../images/aw_spacer.gif" width="128" height="8" border="0" alt=""><br>
-    <img src="../images/dot_blk.gif" width="172" height="1" border="0" alt=""><br>
-    </p></td>
-    <td width="511" align="center" valign="top" class="smaller">
-
-
-    
-    
-    
-    </td>
-  </tr>
-  <tr>
-    <td width="511">
-    <table width="488" cellspacing="0" cellpadding="1" border="0">
-      <tbody><tr>
-        <td width="1" valign="middle"></td>
-      </tr>
-    </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td width="511" valign="bottom"><a href="index.php">
-    <img border="0" src="../images/button_home.gif" width="83" height="21"></a><a href="resources"><img border="0" src="../images/button-resources.gif" width="83" height="21"></a><a href="forum.php"><img border="0" src="../images/button_forum.gif" width="83" height="21"></a><a href="faq.php"><img border="0" src="../images/button_faq.gif" width="83" height="21"></a><a href="javascript:popup('help.php')"><img src="../images/topnav_help.gif" border="0" alt="GET HELP" width="68" height="20"></a><img src="../images/dot_blk.gif" width="79" height="1" border="0" alt=""></td>
-  </tr>
+<form action="/index.php" method="POST" name="loginForm">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr> 
+		<td background="/images/affiliate-bg.gif"><a href="/"><img src="/images/top.gif" width="539" height="86" border="0"></a></td>
+		<td background="/images/affiliate-bg.gif" class="txt" valign="bottom">&nbsp;</td>
+	</tr>
+	<tr bgcolor="#5D5D5D"> 
+		<td align="right" colspan="2" height="40">
+			<table width="90%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="55%">
+				&nbsp;	
+					</td>
+					<td valign="top">&nbsp;</td>
+					<td align="right"><input type="hidden" name="orig_location" value="/privacy.php"><input type="hidden" name="screenwidth" value=""><input type="hidden" name="screenheight" value=""><input type="hidden" name="colourdepth" value=""> <span class="txtwhite">login id </span><input class="formtext" size="8" name="user" onkeypress="loginkeyhandler()"></td>
+					<td align="right"> <span class="txtwhite">password </span><input class="formtext" type="password" name="password" size="8" maxlength="20" onkeypress="loginkeyhandler()"></td>
+					<td align="right" valign="bottom">
+						<input type="image" src="/images/login2.gif" border="0" width="44" height="38" name="image2"></td>				</tr>
+			</tbody></table>
+		</td>
+	</tr>
 </tbody></table>
-<table width="675" cellspacing="0" cellpadding="6" align="center" border="0">
-  <tbody><tr>
-    <td align="right" class="smaller" width="121">&nbsp; </td>
-  </tr>
-</tbody></table>
-<table width="640" border="0" cellspacing="0" cellpadding="6" align="center">
-  <tbody><tr>
-    <td width="902" valign="top">
 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+    <tbody><tr> <td>&nbsp;</td>
+      <td align="left" width="54%" height="20"> <a href="/"><span class="link">HOME</span></a><span class="link"> 
+        <!-- | <a href="/cgi-bin-local/Ultraboard/UltraBoard.cgi">FORUM</a> --> 
+        | <a href="/resources/">RESOURCES</a> 
+        | <a href="/faq.php">FAQ</a> 
+	  | <a href="/shopwindow/">SHOPWINDOW</a> 
+	  | <a href="/jobs/">JOBS</a> 
+    <!--     | <a href="/merchants/testimonials.php" class="link">TESTIMONIALS</a>  -->
+		
+        <!-- | <a href="help.php"><font color="#FF6600">HELP</font></a></span></td> -->
+      </span></td><td align="right" width="46%" height="20"><span class="txtsmall">To retrieve lost details click <a href="/lostlogin.php">here</a>. Not a member? <a href="http://www.awin1.com/signup.php">Join Now</a>! </span><span class="txt"></span></td> 
+    </tr>
+  
+  </tbody></table>
+	 
+<table width="700" align="center">
+<tbody><tr>
+	<td>
 <p><span class="header">Privacy on this site</span><br>
 <!--headline ends-->
 <!--main page content begins-->
@@ -155,20 +201,26 @@ law or comply with legal process served on Affiliate Window.<br>
 <br>
 <b>For more information</b><br>
 If you have any questions, concerns or comments, please e-mail
-privacy@affiliatewindow.com
+<a href="mailto:privacy@affiliatewindow.com">privacy@affiliatewindow.com</a>
 
-</p><p><font face="Arial,Helvetica" size="1"><br>
-<br>
-</font></p>
+</p><p></p>
 
-</td></tr></tbody></table><table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr><td height="10" align="centre"></td></tr><tr><td class="smaller" align="center"><a href="/">HOME</a>&nbsp; | &nbsp;<a href="faq.php">FAQS</a>&nbsp;&nbsp; 
-    | &nbsp;<a href="http://www.affiliatewindow.com/newsletter/index.php">NEWSLETTERS</a>&nbsp;&nbsp; 
-    | &nbsp;<a href="contact.php">CONTACT US</a>&nbsp;&nbsp; | &nbsp;<a href="help.php">HELP</a> 
-    | &nbsp;<a href="testimonials.php">TESTIMONIALS</a> </td>
-  </tr><tr><td height="12"></td></tr><tr><td class="smaller" align="center"><a href="about.php">About Us</a> &nbsp;|&nbsp;
-    <a href="/adminarea/merchants">Current merchants</a>&nbsp; &nbsp;|&nbsp;
-    <a href="privacy.php">Privacy</a> &nbsp;|&nbsp; <a href="terms.php">Terms and 
-    Conditions</a></td></tr><tr><td height="6"></td></tr><tr><td class="smaller" align="center">© 1999-2001 affiliatewindow.com Ltd. All 
-    rights reserved. </td></tr></tbody></table>
-</body></html>
+	</td></tr><tr>
+		<td colspan="3" align="center"><br><br>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+				<tbody><tr>
+					<td align="center"><span class="small"><a href="/about.php">about us</a> <!-- | <a href="/affiliates/news.php">news</a> --> | <a href="/terms.php">terms &amp; conditions</a> | <a href="/privacy.php">privacy</a> | <a href="/contact.php">contact us</a> | <a href="/newsletter/">newsletter archive</a></span></td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td height="1" class="txtwhite" align="center"><span class="smaller">© 1999-2004 affiliatewindow.com Ltd. All rights reserved. </span></td>
+				</tr>
+			</tbody></table>
+		
+		</td>
+	</tr>
+</tbody></table><!-- </TABLE CONTAINING ALL CONTENT> -->
+
+</form></body></html>
