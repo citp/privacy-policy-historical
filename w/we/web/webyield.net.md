@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607160442id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208171018id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy Statement
 
 > For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 > 
@@ -18,22 +18,4 @@
 > 
 > We can be reached via e-mail at [webmaster@webyield.net](mailto:webmaster@webyield.net)
 
-|  |  **SEO Tools**  
-[Search Engine Submission](https://web.archive.org/submit.html)  
-[Check Search Engine Position](https://web.archive.org/position.html)  
-[Link Popularity analysis](https://web.archive.org/popularity.html)  
-[Doorway Page Generator](https://web.archive.org/builder.html)  
-[Meta Tag Optimization](https://web.archive.org/metatags.html)  
-[Robot Tag Generator](https://web.archive.org/robot_tags.html)  
-[Keyword Generator](https://web.archive.org/keywordgenerator.html)  
-[Reciprocal Link Generator](https://web.archive.org/linkgenerator.html)
-
-**SEO Resources**  
-[Search The Web](https://web.archive.org/searchengine.html)  
-[Search Engine News](https://web.archive.org/searchenginenews.html)  
-[ Domain Name Registration](https://web.archive.org/domainregister.html)  
-[ Search Engine Keywords](https://web.archive.org/keywordgenerator.html)  
-[Submit to Inktomi](https://web.archive.org/inkt.html)  
-[SEO Software](https://web.archive.org/software.html)
-
-[](https://web.archive.org/cgi-bin/banner.cgi?click=36)
+|  | 
