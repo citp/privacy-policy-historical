@@ -1,45 +1,47 @@
-> *The following text is extracted and transformed from the verizon.com privacy policy that was archived on 2000-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verizon.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/privacy.html) for the most accurate reproduction.*
 
 # Verizon - About Verizon - Privacy/Other Policies
 
   
 [](http://investor.verizon.com/)  
 [](http://newscenter.verizon.com/)  
-[](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/foundation)  
-[](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/careers/index.html)  
-[](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/international)  
-[](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/name.html)  
+[](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/foundation)  
+[](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/careers/index.html)  
+[](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/international)  
+[](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/name.html)  
 |   
 ---  
   |  |   
 •  |   
 _**Internet Privacy**_  
   
-  |  | •  | [Letter from CEO](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/letter.html)  
+  |  | •  | [Letter from CEO](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/letter.html)  
   
-  |  | •  | [General Privacy Principles](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/genprivprin.html)  
+  |  | •  | [General Privacy Principles](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/genprivprin.html)  
   
-  |  | •  | [Browser Policy Statement](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/browser.html)  
+  |  | •  | [Telephone Company Customer Privacy](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/customer.html)  
   
-  |  | •  | [Linking Policy Statement](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/linking.html)  
+  |  | •  | [Do Not Call Policy](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/no_call.html)  
   
-  |  | •  | [Terms and Conditions](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/terms.html)  
+  |  | •  | [Browser Policy Statement](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/browser.html)  
   
-  |  | •  | [Telephone Company Customer Privacy](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/customer.html)  
+  |  | •  | [Linking Policy Statement](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/linking.html)  
+  
+  |  | •  | [Terms and Conditions](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/about/terms.html)  
   
 |  |  |   
-[](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/home.html)  
+[](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/home.html)  
   |    
 **Straight Talk about Internet Privacy**
 
-Edited 9.26.00
+Edited 1.25.01
 
 Verizon (the company formed by the merger of Bell Atlantic and GTE) respects your right to privacy. When you visit this site, as well as the [www.bellatlantic.com](http://www.bellatlantic.com/) and [www.gte.com](http://www.gte.com/) sites, you may provide information on two different levels about your visit:
 
   * Anonymous statistics collected as you browse the site, and 
   * Personal information you knowingly give us. 
 
-We want you to be aware of what information we collect, and how we handle this information. If you would like additional information, visit our Customer Service Policies. 
+We want you to be aware of what information we collect, and how we handle this information. If you would like to learn more about Verizon's privacy policy for our telephone company customers, [click here](http://www.verizon.com/about/customer.html) or Verizon's General Privacy Principles, [click here](http://www.verizon.com/about/genprivprin.html). 
 
 **What it means to me for Verizon to be a TRUSTe licensee?**   
 This confirms that Verizon is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified regarding:
@@ -52,7 +54,7 @@ This confirms that Verizon is a licensee of the TRUSTe Privacy Program. TRUSTe i
   * What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control, and 
   * How you can correct any inaccuracies in the information.
 
-If you have questions or concerns regarding this statement, you should first [Contact Us](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/support/contact.html). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first [Contact Us](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/support/contact.html). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 [](http://www.truste.org/users/users_watchdog.html)
 
@@ -69,21 +71,21 @@ As you browse the site, our web servers collect information about your visit, no
 
 None of this information is associated with you as an individual (see information about cookies below). We use these statistics to improve our Web site, to monitor its performance, and to make the Web site easier for you and other visitors to use. 
 
-**What about pages that asks for personal information?**   
+**What about pages that ask for personal information?**   
 When visitors supply information about themselves for a specific purpose, we use the information for that purpose (such as to provide the service or information the visitor has requested). 
 
 For example, you may be asked to give us individual information to purchase a product or service, receive information, manage online account registration, or apply for a job. The information may range from your zip code, to your phone number, account number, a credit card number, age, gender, mother's maiden name, social security number, e-mail address, organization URL, resume, or mailing address. 
 
-When visitors use our Web site to order services, we may use this individually identifiable information as we would use the same information obtained in a traditional non-electronic manner. For example, to publish your name, address, and phone number in our directories (unless you have requested a non-published number), or to evaluate your service needs and contact you regarding additional services you may find useful. If you do not want us to contact you, [you can remove your name](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/optout.html) from our telephone or mail solicitation lists.
+When visitors use our Web site to order services, we may use this individually identifiable information as we would use the same information obtained in a traditional non-electronic manner. For example, to publish your name, address, and phone number in our directories (unless you have requested a non-published number), or to evaluate your service needs and contact you regarding additional services you may find useful. 
 
 Should any changes be made in the way we use personally identifiable information, Verizon will contact you via email notifying you of this change and to give you the opportunity to choose to opt-out of such use.
 
 **What happens to information when I fill out registration forms?**   
-We encourage all visitors to register with us, although registration is only required for certain transaction-related areas of Verizon.com or other Verizon or co-branded sites. The registration forms request accurate contact information (like name and e-mail address) and preferences that help us better serve you. Your name and e-mail address are used to send you information about our company, product updates, special offers, and newsletters. You may change your email, user ID or password online; or you can choose to remove your name from our user list by going to [Contact Us](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/support/contact.html) and emailing us a request to remove your name from the online billing application.
+We encourage all visitors to register with us, although registration is only required for certain transaction-related areas of Verizon.com or other Verizon or co-branded sites. The registration forms request accurate contact information (like name and e-mail address) and preferences that help us better serve you. Your name and e-mail address are used to send you information about our company, product updates, special offers, and newsletters. You may change your email, user ID or password online; or you can choose to remove your name from our user list by going to [Contact Us](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/support/contact.html) and emailing us a request to remove your name from the online billing application.
 
-For our local phone service customers, you may also be given the option of registering a profile with us (limited to specific areas). This would store your name, purchase history, and billing information to make it easier for you to shop and purchase products/services from us in the future. You may opt out of this feature at any time by either going to [Contact Us](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/support/contact.html) and emailing us your request, or in some applications you can cancel/change your profile within the application itself.
+For our local phone service customers, you may also be given the option of registering a profile with us (limited to specific areas). This would store your name, purchase history, and billing information to make it easier for you to shop and purchase products/services from us in the future. You may opt out of this feature at any time by either going to [Contact Us](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/support/contact.html) and emailing us your request, or in some applications you can cancel/change your profile within the application itself.
 
-We strive to ensure that the information we obtain and use about customers is accurate. Please [notify us](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/support/contact.html) to review or modify any personal information we have previously collected from you online or if you find an error in your bill. Customers have access to their account information via our monthly bills or by establishing an [account online](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/support/vrzbill.html). To improve the services we can offer you, we may decide to expand the site's capabilities for obtaining information about users in the future. We will update this privacy statement continually to ensure that you are aware of developments in this area.
+We strive to ensure that the information we obtain and use about customers is accurate. Please [notify us](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/support/contact.html) to review or modify any personal information we have previously collected from you online or if you find an error in your bill. Customers have access to their account information via our monthly bills or by establishing an [account online](https://web.archive.org/web/20010405004832id_/http%3A//www.verizon.com/support/vrzbill.html). To improve the services we can offer you, we may decide to expand the site's capabilities for obtaining information about users in the future. We will update this privacy statement continually to ensure that you are aware of developments in this area.
 
 **Do you sell or give my information to non-Verizon companies?**   
 We do not sell or disclose individually-identifiable information obtained online about our visitors, to anyone outside of Verizon unless you specifically authorize it, it is required by law, or disclosure is necessary to protect the safety of customers, employees or property. If you provide individually identifiable information to us in the context of an event Verizon sponsors with another company, such as a contest, or if you register on a co-sponsored site or feature, you may also be providing the individually identifiable information to the co-sponsor. For example, on Verizon co-branded sites, our partner will generally co-own the customer information received through the site. How the partner uses this information will be explained in the privacy statement at the co-branded site, which will govern the use of data gathered through the co-branded site. 
@@ -144,10 +146,10 @@ Should any changes be made in the way we use personally identifiable information
 All concerns or questions about your privacy related to online advertising should be sent to Verizon care of our [Webmaster](mailto:www.webmaster@verizon.com).
 
 **Does Verizon use the information provided online to profile its customers?**   
-The combination of offline and online information provided by the customer has the ability to enhance the customer experience, and make the consumer's interaction with Verizon more meaningful and relevant. Verizon requires notification of any consumer profiling or purchasing behavior being captured by Verizon online and combined with offline information be clearly stated to the consumer at the time of online data collection. The consumer will have the ability to choose not to have that information aggregated and be part of subsequent marketing campaigns by choosing to be identified within the application or by choosing to [Opt-Out](https://web.archive.org/web/20001115071300id_/http%3A//www.verizon.com/about/optout.html) of future marketing campaigns from Verizon.
+The combination of offline and online information provided by the customer has the ability to enhance the customer experience, and make the consumer's interaction with Verizon more meaningful and relevant. Verizon requires notification of any consumer profiling or purchasing behavior being captured by Verizon online and combined with offline information be clearly stated to the consumer at the time of online data collection. The consumer will have the ability to choose not to have that information aggregated and be part of subsequent marketing campaigns by choosing to be identified within the application.
 
 **Please note**   
-We may disclose personal information when required by law or when neccessary to protect the safety of our customers, employees or property.
+We may disclose personal information when required by law or when necessary to protect the safety of our customers, employees or property.
 
 **SECURITY ISSUES**
 
