@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208171929id_/http%3A//www.hormel.com/templates/corporate.asp%3Fcatitemid%3D75%26id%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310023042id_/http%3A//www.hormel.com/templates/corporate.asp%3Fcatitemid%3D75%26id%3D88) for the most accurate reproduction.*
 
 # Privacy Policy - Hormel Foods Corporation - corporate
 
