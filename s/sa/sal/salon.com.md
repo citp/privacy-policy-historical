@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162028id_/http%3A//www.salon.com/about/policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salon.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205094633id_/http%3A//www1.salon.com/about/policy/index.html) for the most accurate reproduction.*
 
 # Salon.com
 
@@ -14,7 +14,9 @@ We also count, track and aggregate the visitor's activity into our analysis of g
 
 **Use of Salon.com cookies**
 
-A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We use cookies in a limited way to help deliver advertisements, to identify unique browsers that visit us and to track usage throughout our site. We also use cookies on our Salon Shopping site to make the ordering process more convenient for users.
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We use cookies in a limited way to help deliver advertisements, to identify unique browsers that visit us and to track usage throughout our site.
+
+The information about readership and site usage that Salon collects through cookies is aggregated into general reports about readership and not tied to individual identities, with one exception. Salon saves usage information collected with cookies for Premium subscribers solely for the use of our customer support team to help resolve problems subscribers may have. This Premium readership information is not used for any other purpose, shared with any party, or correlated with any other information the subscriber may have provided to order the subscription.
 
 Other companies which place advertising on our site also have the ability to assign their cookies to you in a process that Salon.com does not control. However, cookies cannot be used to identify individuals, only machines, so these advertisers will not know who you are. 
 
@@ -23,6 +25,14 @@ Other companies which place advertising on our site also have the ability to ass
 In order to subscribe, subscribers to our Salon Premium service provide Salon with personal information including name, address, e-mail address and credit card information. Salon keeps all such information strictly confidential and does not reuse, resell or redistribute it in any way. 
 
 At the time of registering for their subscription, Salon Premium subscribers are asked whether they wish to receive e-mail from Salon, such as notification of new Premium benefits. Salon does not reuse or resell the list of users who have "opted in" to such mailings. 
+
+**Salon Newsletters**
+
+In order to receive Salon Newsletters subscribers provide Salon with personal information including an e-mail address, zip code, gender, age range and income range. Salon collects this information so that we can effectively target advertisements. This information may be shared in aggregate form with our advertisers. When we present aggregated information to outside companies, no one will be able to identify or contact you.
+
+If you select "yes" in response to the statement, " I would like to receive occasional offers or information from Salon and our marketing partners by e-mail" on the newsletter registration page, Salon may e-mail you occasional messages about our or our marketing partners' products. Your e-mail address will not be shared with anyone and no one except Salon will be able to contact you.
+
+Our newsletter registration and confirmation pages may also contain other offers to receive messages from specific advertisers or other third parties. If you choose to opt in to receive such messages, your e-mail address will be shared with those specific advertisers or third parties, and Salon will have no control over the messages that you receive from them.
 
 **Letters to the editor**
 
