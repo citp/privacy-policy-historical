@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605215815id_/http%3A//socalgas.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204024012id_/http%3A//socalgas.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
 Thank you for visiting SoCalGas' web site. We are committed to protecting the reasonable expectations of privacy of the visitors to our web site. 
 
 **Traffic Data**  
