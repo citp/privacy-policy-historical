@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2003-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031118233537id_/http%3A//cheapflights.ca/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605234525id_/http%3A//cheapflights.ca/misc/privacy.html) for the most accurate reproduction.*
 
 # Cheap Flights Canada: Privacy policy
 
@@ -7,7 +7,7 @@
 
 Our website is located at [www.cheapflight.ca](http://www.cheapflight.com/). 
 
-We invite you to [contact us](https://web.archive.org/web/20031118233537id_/http%3A//cheapflights.ca/misc/feedback.html) if you have questions about this policy.
+We invite you to [contact us](https://web.archive.org/web/20040605234525id_/http%3A//cheapflights.ca/misc/feedback.html) if you have questions about this policy.
 
 You may contact us by mail at the following address: 
 
