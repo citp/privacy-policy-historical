@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorlife.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619231338id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorlife.com privacy policy that was archived on 2004-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040811090645id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/outdoorlife%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Outdoor Life Privacy Policy
 
