@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiglass.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207012124id_/http%3A//www.delphiglass.com/index.cfm%3Fpage%3Dmain_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiglass.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015938id_/http%3A//www.delphiglass.com/index.cfm%3Fpage%3Dmain_security) for the most accurate reproduction.*
 
 # Delphi - Security and Privacy Info
 
