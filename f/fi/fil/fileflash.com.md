@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203185818id_/http%3A//www.fileflash.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileflash.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606171418id_/http%3A//www.fileflash.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # File Flash - Your Downloads Start Here
 
@@ -59,22 +59,3 @@ To conform with the [Children's Online Privacy Protection Act of 1998](http://ww
  **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-[Advertise Here](mailto:advertising@fileflash.com)
-
-jv16 PowerTools Review  
----  
-jv16 PowerTools by [Macecraft Software](http://www.macecraft.com/?did=16) is a group of tools to tweak, monitor, and diagnose your PC. Included are tools that can perform a wide variety of tasks that would normally take dozens of independent applications to accomplish. Everyone from an occasional PC user to a system administrator will find some part of jv16 PowerTools very useful.   
-[Read Review](https://web.archive.org/web/20031203185818id_/http%3A//www.fileflash.com/%3Faction%3Dprivacy?action=review&program=2330)  
-  
-Weekly Top Downloads  
----  
-[VirtualDub](https://web.archive.org/web/20031203185818id_/http%3A//www.fileflash.com/%3Faction%3Dprivacy?action=info&program=638) | 192  
-[SMS-it](https://web.archive.org/web/20031203185818id_/http%3A//www.fileflash.com/%3Faction%3Dprivacy?action=info&program=2620) | 181  
-[AIDA32](https://web.archive.org/web/20031203185818id_/http%3A//www.fileflash.com/%3Faction%3Dprivacy?action=info&program=4013) | 135  
-[Tweak-XP Pro](https://web.archive.org/web/20031203185818id_/http%3A//www.fileflash.com/%3Faction%3Dprivacy?action=info&program=2774) | 107  
-[eMule](https://web.archive.org/web/20031203185818id_/http%3A//www.fileflash.com/%3Faction%3Dprivacy?action=info&program=4236) | 107  
-  
-Download Tracker  
----  
-You have no previous downloads. 
