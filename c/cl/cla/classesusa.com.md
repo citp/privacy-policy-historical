@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605091937id_/http%3A//classesusa.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208144630id_/http%3A//classesusa.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Classroom Training and Online Classes from ClassesUSA.com
 
@@ -76,5 +76,9 @@ Back to top
 **  
 Choice/Opt-Out**  
 We offer you the opportunity to opt-out of receiving communications from us at the point where we request the information. 
+
+Back to top
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 Back to top
