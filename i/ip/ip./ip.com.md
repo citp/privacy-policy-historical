@@ -1,45 +1,39 @@
-> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408054513id_/http%3A//www.ip.com/documents/legal/privacy1.0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204071946id_/http%3A//www.ip.com/privacy.jsp) for the most accurate reproduction.*
 
-# IP.com - Privacy Policy
+# IP.com Web Privacy Statement
 
-This Privacy Policy relates to the use of the site with its home page at [www.ip.com](http://www.ip.com/) (the "site"). 
+IP.com Web Privacy Statement
 
-  At IP.com, we are committed to protecting your privacy. Maintaining control over your personal information is extremely important when using Internet websites.It is important to us that you understand how we use your personal information, allowing you to make an intelligent and informed decision when using our services and accessing the content we provide you. 
+Your privacy is important to IP.COM. This statement discloses the information practices for IP.COM on the web, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
 
-  Primarily, we use the information we collect about you to sell you products and services and to provide you a more personalized experience. 
+In general, you can visit IP.COM on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you. 
 
-  While this statement describes the privacy practices of IP.com, it does not describe the practices of any partners who may publish documents or display trademarks or advertising on IP.com and its related pages (collectively, the "site").You should consult the practices of these parties before submitting any information to them.IP.com is only responsible for webpages on or available through the site on which we place a notice stating such webpage is covered by this Privacy Policy and a link to this Privacy Policy. 
+You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail ID, to correspond with you, to process an order, or to provide you with a subscription to our services. You may give us your credit card details to buy something from us. We intend to let you know how we will use such information before we collect it from you; if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so. 
 
-### What information is collected and how is it used?
+The following paragraphs describe in more detail how IP.COM may use your personal information and with whom we may share it. Depending on the type of IP.COM Web site you are visiting, one or more of the paragraphs may apply. 
 
-When you register with us, we need your name, address, phone number, e-mail address, and credit card information. We use this information to validate that we can communicate with you. We use your credit card information to validate that you are over 18 years old.We do not charge you anything to register and we do not store the credit card information given at registration. 
+If you request something from an IP.COM Web site, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information, with others, for instance, other parts of IP.COM, IP.COM's Business Partners, financial institutions, shipping companies, postal or government authorities (for example, Customs authorities) involved in fulfillment. In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes. 
 
-  When you purchase a product or service from us, we need to know your name, e-mail address, billing address, credit card type, credit card number, and expiration date.This allows us to process and fulfill your order and to notify you of your order status or other important information regarding your orders. 
+The information you provide to IP.COM on certain IP.COM Web sites may also be used by IP.COM and selected third parties for marketing purposes. Before we use it, however, we will offer you the opportunity to choose whether or not to have your information used in this way. 
 
-  We may also use the information we collect to occasionally notify you about important functionality changes to the site, new services, and special offers we think you may find valuable. If we are utilizing your information in this manner and if you would rather not receive notifications of new services and special offers, you may change your preferences by contacting IP.com at [privacy@ip.com](mailto:privacy@ip.com). We gather certain information about the use of our site and its content. We only collect this information as aggregated anonymous statistics; we absolutely do not associate this information with you personally. 
+We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we may keep track of the domains from which people visit, and we also measure visitor activity on IP.COM Web sites, but we do so in ways that keep the information non-identifiable. This information is sometimes known as "clickstream data." IP.COM or others on IP.COM's behalf may use this data to analyze trends and statistics and to help us provide better customer service. 
 
-### What about "cookies"?
+Also, when we collect personal data from you in a transaction, we may extract some information about that transaction in a non-identifiable format and combine it with other non-identifiable information such as clickstream data. This information is used and analyzed only at an aggregate level to help us understand trends and patterns. This information is not reviewed at an individual level. If you do not want your transaction details used in this manner you can disable your cookies. 
 
-Cookies are small pieces of information that are stored by your web browser on your computer's hard drive. Our use of cookies is limited and none of our cookies contain any personally identifying information. Without allowing session cookies, you will be unable to access certain services of our site. Session cookies are not permanently stored on your computer. 
+We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality. 
 
-### How does IP.com protect your information?
+In some cases IP.COM uses suppliers to collect, use, analyze and otherwise process information on its behalf. It is IP.COM's practice to require such suppliers to handle information in a manner consistent with IP.COM's policies. 
 
-When you transfer certain information, place orders, or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us.Furthermore, we use industry standard efforts (such as firewalls) to safeguard all of the information we collect to protect it against unauthorized access. 
+Circumstances may arise where, whether for strategic or other business reasons, IP.COM decides to sell, buy, merge or otherwise re-organize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is IP.COM's practice to seek appropriate protection for information in these types of transactions. 
 
-  If you change any of your personal information by accessing the account maintenance page, we will do our best to propagate these changes to all relevant databases.However, it isn't always possible to change all databases and in some cases certain of our databases may retain your old information. 
+We collect the information mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some IP.COM pages use cookies, sent by IP.COM or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly. 
 
-### Will IP.com disclose the information it collects to outside parties?
+If you turn off cookies, other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded. 
 
-IP.com does not sell, trade, or rent your personal information to others.We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third parties, but these statistics will include no personally identifying information. 
+Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. 
 
-  IP.com may release account information and/or account information when we believe, in good faith, that such release is reasonably necessary to (a) comply with law, (b) enforce or apply the terms of any of our user agreements, or (c) protect the rights, property, or safety of IP.com, our users, or others. 
+If you wish to obtain a copy of particular information you provided to IP.COM, or if you become aware the information is incorrect and you would like us to correct it contact us at [legal@ip.com](mailto:legal@ip.com). 
 
-### Your consent
+Before IP.COM is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will respond to your requests as quickly as possible. If you have a question about this statement, you can send an email to IP.COM at [legal@ip.com](mailto:legal@ip.com). 
 
-By using our site, you consent to the collection and use of account and personal information by IP.com.If we decide to change our privacy policy, we will post those changes on this page.By continuing to use the site after we have posted the changes, you agree to and accept such changes. 
-
-### In summary
-
-IP.com is committed to protecting your privacy.We use the information we collect on the site to make using our services possible and to enhance your overall experience.We do not sell, trade, or rent your personal information to others. 
-
-  IP.com welcomes your questions and comments about privacy. Please contact us by sending e-mail to us at [privacy@ip.com](mailto:privacy@ip.com) or by regular mail at IP.com, Inc., 150 Lucius Gordon Drive, West Henrietta,NY, 14586. 
+This Web site is maintained by the IP.com. 
