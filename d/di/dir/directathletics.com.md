@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directathletics.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003012410id_/http%3A//www.directathletics.com/front/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directathletics.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605185818id_/http%3A//directathletics.com/front/privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to DirectAthletics.com!
 
