@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the streetinsider.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603161631id_/http%3A//streetinsider.com/index.cfm%3Fmethod%3Dsite_disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetinsider.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209180857id_/http%3A//streetinsider.com/index.cfm%3Fmethod%3Dsite_disclaimer) for the most accurate reproduction.*
 
 # Welcome to Street Insider
-
-|    
-|   |    
-
 
 StreetInsider.com provides information only. It is not meant to be a recommendation to buy or to sell securities nor an offer to buy or sell securities. The publishers of StreetInsider.com are not brokers, dealers or registered investment advisors and do not attempt or intend to influence the purchase or sale of any security. StreetInsider.com does not guarantee the accuracy or completeness of the information displayed in any section of the web site. 
 
@@ -45,6 +41,3 @@ Out Web site has certain security measures in place in effort to protect the los
 
 **Links to Other Web Sites**   
 Our Web site contains links to other sites. StreetInsider.com is not responsible for the privacy practices or the content of such sites. You may wish to review the privacy policies of these sites. 
-
-|  |    
-| 
