@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020033id_/http%3A//www.skynews.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606202942id_/http%3A//www.skynews.com.au/privacy.htm) for the most accurate reproduction.*
 
-# Sky News Australia [Privacy Policy]
-
-|   |   
----|---|---  
-  | 
-
-|  |   |   
----|---|---  
-  | 
-
-**SKY NEWS AUSTRALIA PRIVACY POLICY**
+# Sky News Australia - Privacy Policy
 
 Sky News Australia ( **Sky News** ) commenced its 24 hour news service on February 19th 1996, becoming the first and only Australian produced television news channel. Sky News is a joint venture of Australia's Nine Network and Seven Network, and the United Kingdom's Sky News channel, a part of the British Sky Broadcasting (BSkyB) network. 
 
@@ -51,12 +41,7 @@ Sky News will not sell, rent or trade personal information about you to or with 
 
 Personal information collected by Sky News may be disclosed to third parties to whom we outsource specialised functions (such as mailing houses or printing companies), and if so, Sky News takes steps to ensure that those contractors:
 
-  * comply with the NPPs when they handle personal information about you (regardless of whether they are a small business, and would otherwise be exempt from the NPPs); and
-
-
-  * are authorised only to use personal information in order to provide the services or to perform the functions required by Sky News. 
-
-
+  * are authorised only to use personal information in order to provide the services or to perform the functions required by Sky News.
 
 The only other time Sky News would make disclosures of personal information is if we are required to do so by law, or if the disclosure is permitted under the Privacy Act.
 
@@ -87,7 +72,7 @@ Sometimes our website contains links to other websites, for your convenience and
 
 Sky News may change its Privacy Policy at any time. We will make this Privacy Policy available to anyone who requests it, either at our offices or through our website. 
 
-For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](https://web.archive.org/web/20031205020033id_/http%3A//www.skynews.com.au/redirect.asp?URL=http://www.privacy.gov.au).
+For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](https://web.archive.org/web/20040606202942id_/http%3A//www.skynews.com.au/redirect.asp?URL=http://www.privacy.gov.au).
 
 If you feel that Sky News is not complying with this Privacy Policy, or if you have other privacy concerns, please contact our Privacy Officer (using the following contact details): 
 
@@ -100,8 +85,3 @@ by email to privacy@skynews.com.au
 by letter to Privacy Officer, Australian News Channel Pty Ltd (Sky News Australia), Unit E, Skyline Place, Frenchs Forest, NSW 2086. 
 
 _The Sky News Privacy Policy was last updated on 21 December 2001_
-
-|    
-|   |   
-  
- 
