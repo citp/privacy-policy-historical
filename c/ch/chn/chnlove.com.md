@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210151443id_/http%3A//www.chnlove.com/end_files/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405075043id_/http%3A//www.chnlove.com/end_files/privacy.php) for the most accurate reproduction.*
 
 # Chinese women seeking love, relationship, romance, marriage and more !
 
