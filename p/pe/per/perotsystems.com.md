@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perotsystems.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604155753id_/http%3A//www.perotsystems.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perotsystems.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113742id_/http%3A//www.perotsystems.com/privacy.htm) for the most accurate reproduction.*
 
 # Perot Systems: Privacy Policy
 
