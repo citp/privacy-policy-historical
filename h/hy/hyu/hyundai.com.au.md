@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605204958id_/http%3A//hyundai.com.au/j_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206190300id_/http%3A//www.hyundai.com.au/j_privacy.asp) for the most accurate reproduction.*
 
 # Hyundai Motor Company Australia Pty Limited
 
@@ -90,7 +90,7 @@ Policy updates
 All updates to this policy will be posted here. Last update: 20 October 2003.  
 We will not separately notify you of changes to the policy.
 
-Click [here](https://web.archive.org/web/20040605204958id_/http%3A//hyundai.com.au/HADAPrivacy.pdf) if you wish to download the latest version of the [HMCA Privacy Policy Statement](https://web.archive.org/web/20040605204958id_/http%3A//hyundai.com.au/HADAPrivacy.pdf) in PDF format.  
+Click [here](https://web.archive.org/web/20041206190300id_/http%3A//www.hyundai.com.au/HADAPrivacy.pdf) if you wish to download the latest version of the [HMCA Privacy Policy Statement](https://web.archive.org/web/20041206190300id_/http%3A//www.hyundai.com.au/HADAPrivacy.pdf) in PDF format.  
 If you don't have Adobe Acrobat on your computer, click [here](http://www.adobe.com/products/acrobat/readstep2.html) to download the reader. 
 
 [ Top of Page ]  
