@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201162942id_/http%3A//www.samaritanspurse.org/index.asp%3Fsection%3DGiving%26subsection%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622041132id_/http%3A//www.samaritanspurse.org/index.asp%3Fsection%3DGiving%26subsection%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Samaritan's Purse | Giving | Privacy Policy
 
