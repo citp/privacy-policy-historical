@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cataloglink.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601184206id_/http%3A//amos.catalogcity.com/cc.class/cc%3Fmain%3Dccn_privacy%26ccsyn%3D45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloglink.com privacy policy that was archived on 2003-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031012013444id_/http%3A//amos.catalogcity.com/cc.class/cc%3Fmain%3Dccn_privacy%26ccsyn%3D45) for the most accurate reproduction.*
 
 # CatalogLink
 
