@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621223214id_/http%3A//www.oregonlive.com/about/privacy.html) for the most accurate reproduction.*
+
+# Oregon Live: Privacy Policy
+
+ 
+
+Posted February 28th, 1998  
+
+
+  
+
+
+> ****
+> 
+> ## ******Oregon Live PRIVACY POLICY**
+> 
+> The **Oregon Live** Web site is maintained by **Oregon Live, 815 SW Second Avenue, Suite 200, Portland, OR 97204.** We can be reached by e-mail at [otalkback@oregonlive.com.](mailto:otalkback@oregonlive.com).
+> 
+> **HOW Oregon Live USES INFORMATION PROVIDED BY YOU:** This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information may be used by **Oregon Live** and its affiliates for editorial purposes. Or if you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment. **Oregon Live** may also use such information for marketing and promotional purposes. We may share your personally identifiable information with other companies with which it conducts business. For example, if you enter our contests, make a purchase or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While **Oregon Live** will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, **Oregon Live** does not bear any responsibility for any actions or policies of any third parties.
+> 
+> **Except for purposes outlined above, we do not provide, sell or lease your personally identifiable information to any third parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what is done with your information on any part of **Oregon Live** , please e-mail us at [otalkback@oregonlive.com](mailto:otalkback@oregonlive.com), _before_ submitting any information.**
+> 
+> We also collect anonymous, aggregated data and provide it to our advertisers and other companies that we do business with for market research and statistical purposes. For example, we might report to our advertisers that a certain percentage of users are between the ages of 30-35.
+> 
+> Finally, you should be aware that when you voluntarily disclose personally identifiable information (e.g., first and last name, address, e-mail address, etc) on the forums or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties.
+> 
+> **COOKIES:** **Oregon Live** may place a "cookie" in the browser files of **Oregon Live** user's computer. The cookie may contain personally identifiable information. Cookies enable **Oregon Live** to serve information that you have requested, or that relate to your use of **Oregon Live** to information that you have specifically and knowingly provided to **Oregon Live**. You also may occasionally get cookies from our advertisers. **Oregon Live** does not control these cookies and these cookies are not subject to this policy. The use of advertising cookies sent by third-party servers is common in the Internet industry. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some portions of **Oregon Live** will not function properly if you do so. For further information on cookies and their use, see the help instructions delivered with your browser or contact the browser's manufacturer. **Oregon Live** cannot provide help regarding your browser's cookie settings.
+> 
+> **CHILDREN: Be sure to ask your parents for permission before you send any information about yourself (your name, address, e-mail address, etc.) to us or anyone else over the Internet, and before making any purchases online. If you are under the age of 13, you are not allowed to use this service.**
+> 
+> **PARENTS:** We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. This service is not intended for users under the age of 13. This service does not knowingly collect personally identifiable information from users under the age of 13. Such users are expressly prohibited from submitting their personally identifiable information to us, and from using our forums or chat area; any information submitted by such users will not knowingly be used, posted, or retained by us. Any personally identifiable information collected by Oregon Live from children above 13 (that we are aware are children above the age of 13) will be used only for **Oregon Live** internal purposes such as market research, sweepstakes fulfillment and for fulfilling requests for information or materials, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, anonymous aggregated data is sometimes provided to other companies which we do business with, for statistical and market research purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, e-mail address, etc. on various forums, or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
+> 
+> Again, if you have any concerns regarding your child's or your use of **Oregon Live** , please contact us at [otalkback@oregonlive.com](mailto:otalkback@oregonlive.com).
+
+* * *
