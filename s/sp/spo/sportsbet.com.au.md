@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsbet.com.au privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811070531id_/http%3A//www.sportsbet.com.au/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbet.com.au privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607030528id_/http%3A//www.sportsbet.com.au/Privacy.asp) for the most accurate reproduction.*
 
-# SportsBet - Licensed Sports Bookmaker
+# Sportsbet Australia - Licensed Sports Betting
 
 Sportsbet and this Privacy Statement may be subject to applicable legislation, regulations and codes of practice. Sportsbet is committed to keeping the highest level of scrutiny and trade practises possible to ensure the safest possible environment for all of our customers. Sportsbet complies with the National Privacy Principles and takes seriously its obligation to safeguard personal information about its customers. Sportsbet is committed to complying with the National Privacy Principles contained in the Privacy Act. 
 
