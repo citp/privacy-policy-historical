@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628094230id_/http%3A//www.nbc12.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2004-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040813061109id_/http%3A//www.nbc12.com/servlet/Satellite%3Fpagename%3DWWBT/Page/WBT_ContentPage%26c%3DPage%26cid%3D1059969234860) for the most accurate reproduction.*
 
-# NBC12 Online - Privacy Policy
+# NBC12 Online | Privacy Policy
 
 This document describes NBC12's policy regarding information received about you during visits to our web site. The amount and type of information received depends on how you use our site. 
 
