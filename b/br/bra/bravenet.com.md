@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravenet.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206014100id_/http%3A//www.bravenet.com/members/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravenet.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616133831id_/http%3A//www.bravenet.com/members/privacy.php) for the most accurate reproduction.*
 
 # Bravenet.com Webmaster Resources Website Tools Free Guestbooks Forums Hit Counters Greeting Cards
 
@@ -31,14 +31,14 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. These measures include secure servers, encrypted passwords, and other security measures to guarantee the privacy of our members. 
 
-##### Choice/Opt-Out
+##### Mailing Lists
 
-Our site provides users the opportunity to opt-out of receiving communications from us by providing the ability of deleting their accounts. 
+By registering a Bravenet account, you agree to subscribe to our Members Update and Special Offers mailing lists. These lists may contain third-party sponsorships. You may unsubscribe to one or both lists at any time. Other lists subscriptions are completely optional and may contain third-party endorsements. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+You have the following options for removing your information from our database to not receive future communications or to terminate your Bravenet account. 
 
   1. You can unsubscribe from mailing lists here <http://www.bravenet.com/members/unsubscribe.php>
-  2. You can send email to [support@bravenet.com](mailto:support@bravenet.com)
+  2. You can go to the [Support Center](http://www.bravenet.com/supportcenter)
   3. You can visit the following URL: [http://www.bravenet.com](http://www.bravenet.com/) and go to the Members Area and delete your account.
 
 
@@ -59,6 +59,6 @@ Bravenet Web Services
 P O Box 1722   
 103-281 E. Island Hwy   
 Parksville, BC, Canada V9P 2H5   
-support@bravenet.com  
+comments@bravenet.com  
 250-954-3203    
  
