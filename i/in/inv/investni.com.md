@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investni.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209150808id_/http%3A//www.investni.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investni.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621175134id_/http%3A//www.investni.com/privacy.htm) for the most accurate reproduction.*
 
-# Invest Northern Ireland - Privacy
+# Invest in Northern Ireland - InvestNI, Privacy Statement.
 
 The following comprises details of our privacy policy and how we use any personal data (as defined in the Data Protection Act 1998) that you supply to us through this website.   
 Please read this complete Invest NI.com privacy statement. By using this site, you consent to the data practices described in this statement. 
