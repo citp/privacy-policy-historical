@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009051656id_/http%3A//www.sydneyairport.com.au/Sydney%2BAirport/terms%2Bof%2Buse/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605215845id_/http%3A//www.sydneyairport.com.au/Sydney%2BAirport/terms%2Bof%2Buse/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Sydney Airport : privacy policy
 
