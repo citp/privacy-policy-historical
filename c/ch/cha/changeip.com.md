@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205050646id_/http%3A//changeip.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619183645id_/http%3A//www.changeip.com/privacy.asp) for the most accurate reproduction.*
 
 # ChangeIP.com - Privacy Statement
 
@@ -101,7 +101,6 @@ If users have any questions or suggestions regarding our privacy policy, please 
 ChangeIP.com  
 [Support@ChangeIP.com](mailto:Support@ChangeIP.com)
 
-310 S. Twin Oaks Valley Road Suite #107  
-PMB 124  
-San Marcos, CA  92078  
+P.O. Box 2333  
+San Marcos, CA  92079  
 866 474 4246 
