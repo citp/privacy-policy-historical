@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606165335id_/http%3A//www.alertsite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertsite.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201215259id_/http%3A//alertsite.com/privacy.html) for the most accurate reproduction.*
 
 # AlertSite.com - The Internet Monitoring Company - Privacy Statement
 
@@ -14,4 +14,4 @@ AlertSite uses a subscription form for visitors to request services. We collect 
 
 AlertSite has security measures in place to protect against the loss, misuse and alteration of the information under our control. All credit card data is transmitted and stored in an encrypted format and only authorized individuals within the Company who have a need to view this information are permitted access to the data.
 
-AlertSite gives visitors the following options for removing their information from the Company's database to not receive future communications or to no longer receive the Company's service. Send email to privacy@alertsite.com or send mail to the following address: Boca Internet Technologies, Inc. 21301 Powerline Road, Suite 206, Boca Raton, FL 33433, or call 561-218-5527.
+AlertSite gives visitors the following options for removing their information from the Company's database to not receive future communications or to no longer receive the Company's service. Send email to admin@alertsite.com or send mail to the following address: Boca Internet Technologies, Inc. 21301 Powerline Road, Suite 104, Boca Raton, FL 33433, or call 561-218-5527.
