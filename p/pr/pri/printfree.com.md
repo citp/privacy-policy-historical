@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the printfree.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205172100id_/http%3A//www.printfree.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfree.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614062527id_/http%3A//printfree.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our Privacy Policy** We at Printfree.com respect your right to privacy.
+**Our Privacy Policy   ** We at Printfree.com respect your right to privacy.
 
   We do not collect and sell your personal information   
 to marketers, or anyone else.
@@ -16,7 +16,8 @@ transactions on this site, we do not offer secure encrypted pages. 
 
 Please remember this when you create one of our user interactive   
 customizable items, i.e. customizable calendars, and don't enter   
-any personal information that you would not want viewed by anyone.
+any personal information that you would not want viewed by anyone.  
+The first field is saved by default to our results for evaluation purposes.
 
 When visiting one of our affiliate merchants to make a purchase, they   
 will handle the transaction on their site, and provide the security they   
