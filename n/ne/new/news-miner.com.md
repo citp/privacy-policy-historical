@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207031304id_/http%3A//www.news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404102200id_/http%3A//www.news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
 
 # News-Miner - Privacy Policy
 
-December 06, 2004   
+April 04, 2005   
 Fairbanks, AK
 
 | [Home Page](https://web.archive.org/Stories/0,1413,113%257E7250%257E,00.html)  
