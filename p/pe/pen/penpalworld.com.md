@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605085047id_/http%3A//www.penpalworld.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020743id_/http%3A//penpalworld.com/policy.html) for the most accurate reproduction.*
 
 # PenPal!World Policy
 
@@ -17,7 +17,7 @@ _PenPal!World_ is not responsible of what kind of emails are being send through 
 
 To report a email system missue please contact the
 
-[ webmaster@penpalworld.com](https://web.archive.org/web/20030605085047id_/http%3A//www.penpalworld.com/feedback.asp) and make sure you included any kind of prove stating your claim. **_Chatroom_**   
+[ webmaster@penpalworld.com](https://web.archive.org/web/20031205020743id_/http%3A//penpalworld.com/feedback.asp) and make sure you included any kind of prove stating your claim. **_Chatroom_**   
 _PenPal!World_ DOES NOT take any responsibility of what content is shown or what kind of language or content in that language is used in the chatroom. The user understands that he/she can log off at any time. **_External Links_**   
 This site contains links to other sites. _PenPal!World_ is not responsible for the privacy practices or the content of such Web sites. **_Special Relationships_**   
 _PenPal!World_ has special relationships with 50states.com. This web site has NO access to the information submitted by subscribers of _PenPal!World_. **_Children's Guidelines_**   
@@ -37,4 +37,4 @@ This site gives users the following options for changing and modifying informati
   2. You can visit the following URL to erase your information:[ http://www.penpalworld.com/erase.html](http://www.penpalworld.com/erase.html) .
 
 **_Contacting the Web Site_**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ webmaster@penpalworld.com](https://web.archive.org/web/20030605085047id_/http%3A//www.penpalworld.com/feedback.asp) . 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ webmaster@penpalworld.com](https://web.archive.org/web/20031205020743id_/http%3A//penpalworld.com/feedback.asp) . 
