@@ -1,39 +1,42 @@
-> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/privacy.cfm) for the most accurate reproduction.*
 
 # WirelessAdvisor.com - Privacy Statement
 
 |   
 ---  
-| **A free, consumer service.**  
-| 
-
+  
 * * *  
   
-|  **[Wireless Glossary](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/Glossary.cfm)  
-[Discussion Forums](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/forums.cfm)  
-[Wireless Books](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/book1.cfm)  
-[FREE Classified Ads](http://209.213.96.253/classpro/viewads.html)  
-[Frequently Asked Questions](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/faq.cfm)  
-[Home](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/index.cfm)  
+  
+**[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/Glossary.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/waforums/index.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/book1.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/faq.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/index.cfm)  
 **  
-|   
-|  **WirelessAdvisor.com** ®
-
+  
 * * *
 
-**[Company](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/company.cfm)  
-[Advertising](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/advertising.cfm)  
-[Privacy Statement](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/privacy.cfm)  
-[Press](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/press.cfm)  
-[Legal](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/legal.cfm)  
-[Feedback](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/feedback.cfm)  
+**[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/company.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/advertising.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/privacy.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/press.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/legal.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/feedback.cfm)  
+[](https://web.archive.org/web/20020607191100id_/http%3A//www.wirelessadvisor.com/intouch.cfm)  
 **  
 |  WirelessAdvisor.com is not associated by ownership or membership with any cellular, PCS or wireless service provider companies and is not meant to be an endorsement of any company or service.  
   
-|  | **Privacy Statement**  
+|   
+|  **Search WirelessAdvisor.com** :   
+  
+| 
+
+|  |   
+---|---  
+  
+  
 ---  
-  
-  
 [](https://www.truste.org/validate/386) |  Wireless Advisor, LLC is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for WirelessAdvisor.com. 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe mark, this Web site has agreed to notify you of:
@@ -45,10 +48,11 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
   * What choices are available to you regarding collection, use and distribution of the information
   * What kind of security procedures that are in place to protect the loss, misuse or alteration of information under the company's control 
   * How you can correct any inaccuracies in the information.
+  * What happens to the information if we change our privacy policy.
 
 
 
-If you have questions or concerns regarding this Web site's privacy statement, you should first contact the company at [webmaster@wirelessadvisor.com](mailto:webmaster@wirelessadvisor.com) or 732-892-0563. If you do not receive acknowledgment of if your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe (http://www.truste.org/users/users_watchdog.html)](http://www.truste.org/users/users_watchdog.html).   
+If you have questions or concerns regarding this Web site's privacy statement, you should first contact the company at [webmaster@wirelessadvisor.com](mailto:webmaster@wirelessadvisor.com) or 732-701-1100. If you do not receive acknowledgment of if your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe (http://www.truste.org/users/users_watchdog.html)](http://www.truste.org/users/users_watchdog.html).   
   
 * * *  
   
@@ -78,7 +82,7 @@ Further information about this program is available at [http://www.bbbonline.org
 >   * Visitors can optionally provide more detailed personal information, as much or as little as desired, in order to provide feedback on their experience using the WirelessAdvisor.com web site.
 >   * To use the Tell-a-Friend feature users must enter their own email addresses and a list of email addresses of people they would like to inform of the WirelessAdvisor.com web site.
 >   * WirelessAdvisor.com records traffic and usage patterns for the web site.
->   * IP addresses of visitors are collected and used for administrative purposes.
+>   * Like most standard web site servers we use log files. This includes IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and #of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 >   * WirelessAdvisor.com may occasionally conduct surveys and/or interactive polls for informational and/or entertainment purposes. Participation in survey will never require personal information to participate and is never recorded with personal information about visitors. We may share the aggregated information in these surveys with our advertisers and partners. The polling mechanism may use information about a visitor's server to exclude visitors from voting more than once in a particular poll or survey.
 >   * In order to post ads in the WirelessAdvisor.com classified ads section, users are required to supply an email address. Email addresses submitted for this purpose are not publicly displayed in the ad but used to relay messages to users responding to posted ads.
 >   * WirelessAdvisor.com itself does not use cookies in any part of the web site, however, other companies that place advertising on our site may use cookies. WirelessAdvisor.com cannot control other companies' use of cookies. These cookies cannot be used to individually identify visitors.
@@ -110,6 +114,10 @@ Further information about this program is available at [http://www.bbbonline.org
 > 
 > Email addresses submitted for use in the discussion forums cannot at this time be deleted, removed or changed. However, at your request, originating from the email address in question, WirelessAdvisor.com will delete any post containing your email address.
 > 
+> **Notification of Changes**
+> 
+> If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. However, if you have opted out of all communication with the site, or deleted/deactivated your account, then you will not be contacted. Nor will your personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. We will use information in accordance with the privacy policy under which the information was collected.
+> 
 > **Security**
 > 
 > Protecting your privacy and your information is a top priority at WirelessAdvisor.com. WirelessAdvisor.com uses industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as passwords and server monitoring.
@@ -125,18 +133,4 @@ Further information about this program is available at [http://www.bbbonline.org
 >   
   
   
-|  |   
-  
----  
-  
-|    
-**WirelessAdvisor.com®**  
-Search by ZIP code for the cellular, PCS and wireless phone companies serving your area of the U.S.  
-  
-  
-**Enter your ZIP Code:**  
-  
-  
-**OR** ... [Select a city by name](https://web.archive.org/web/20001205204000id_/http%3A//www.wirelessadvisor.com/regions.cfm " Select City")  
-  
-
+| 
