@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet-source-code.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208055905id_/http%3A//www.planet-source-code.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-source-code.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603161135id_/http%3A//www.planet-source-code.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
 
 # visual basic, vb, active server pages (ASP),java, javscript,c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP,Free source code for the taking. Over five million lines of programs.
 
@@ -35,7 +35,3 @@ This site uses the services of Adtegrity for the serving and/or targeting of ads
 
   
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
-
-_**Code of the Day**_
-
-Planet Source Code's Code of the Day works with a third party that hosts our e-mail newsletters and serves ads into this publication. To find out more about how Flycast manages the privacy of information in conjunction with hosting and serving ads into our newsletters, please go to <http://edispatch.flycast.com/privacy>.
