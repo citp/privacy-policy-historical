@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the where2getit.com privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602062328id_/http%3A//www.where2getit.com/whoweare/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the where2getit.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203101502id_/http%3A//where2getit.com/whoweare/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>where2getit: Who We Are</title>
@@ -10,15 +10,41 @@
 
 if (document.images)
 	{
-		contactON = new Image
+		infrastructureON = new Image
+		partnersON = new Image
+		privacyON = new Image
+		contactON = new Image		
+		
+		infrastructureOFF = new Image
+		partnersOFF = new Image
+		privacyOFF = new Image
 		contactOFF = new Image
+		
+		infrastructureON.src = "../_siteres/_images/whatwedo/infrastructure_1.gif"
+		partnersON.src = "../_siteres/_images/clients/partners_1.gif"
+		privacyON.src = "../_siteres/_images/whoweare/privacy_1.gif"
 		contactON.src = "../_siteres/_images/whoweare/contact_1.gif"
+		
+		infrastructureOFF.src ="../_siteres/_images/whatwedo/infrastructure_0.gif"
+		partnersOFF.src ="../_siteres/_images/clients/partners_0.gif"
+		privacyOFF.src ="../_siteres/_images/whoweare/privacy_0.gif"
 		contactOFF.src = "../_siteres/_images/whoweare/contact_0.gif"
 	}
 	else
 	{
+	infrastructureON = ""
+	partnersON = ""
+	privacyON = ""
 	contactON = ""
+	
+	infrastructureOFF = ""
+	partnersOFF = ""
+	privacyOFF = ""
 	contactOFF = ""
+	
+	document.infrastructure.src = ""
+	document.partners.src = ""
+	document.privacy.src = ""
 	document.contact.src = ""	
 	}
 	
@@ -89,10 +115,11 @@ if (document.images)
 <!-- /Nav include -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-	<td width="152" valign="TOP" bgcolor="#CCCCCC"><img src="/_siteres/_images/whoweare/privacy_1.gif" width="152" height="16" border="0" alt="Privacy Statement." name="privacy"><br>
-	  <a href="/contactus/index.php" onmouseover="document.contact.src=contactON.src" onmouseout="document.contact.src=contactOFF.src"><img src="/_siteres/_images/whoweare/contact_0.gif" width="152" height="16" border="0" alt="Contact Us." name="contact"></a><br>
-	  <img src="/_siteres/_images/nav/sNav_endcap.gif" width="152" alt=" " border="0" height="3"><br>
-	  <img src="/_siteres/_images/nav/sNav_grayfade.gif" width="152" alt=" " border="0" height="6"></td>
+	<td width="152" valign="TOP" bgcolor="#CCCCCC">
+	<a href="/whoweare/infrastructure.php" onmouseover="document.infrastructure.src=infrastructureON.src" onmouseout="document.infrastructure.src=infrastructureOFF.src"><img src="/_siteres/_images/whatwedo/infrastructure_0.gif" width="152" height="16" border="0" alt="Infrastructure." name="infrastructure"></a>
+	<a href="/whoweare/partners.php" onmouseover="document.partners.src=partnersON.src" onmouseout="document.partners.src=partnersOFF.src"><img src="/_siteres/_images/clients/partners_0.gif" width="152" height="16" border="0" alt="Partners." name="partners"></a>
+	<img src="/_siteres/_images/whoweare/privacy_1.gif" width="152" height="16" border="0" alt="Privacy." name="privacy">	
+	<a href="/contactus/index.php" onmouseover="document.contact.src=contactON.src" onmouseout="document.contact.src=contactOFF.src"><img src="/_siteres/_images/whoweare/contact_0.gif" width="152" height="16" border="0" alt="Contact Us." name="contact"></a><img src="/_siteres/_images/nav/sNav_endcap.gif" width="152" alt=" " border="0" height="3"><img src="/_siteres/_images/nav/sNav_grayfade.gif" width="152" alt=" " border="0" height="6"></td>
 	<td id="A2" width="1"><img src="/_siteres/_images/nav/clearpixel.gif" width="1" height="1" alt=" "></td>
 	<td id="A2" valign="TOP"> 
 	  <!--Begin main content table-->
