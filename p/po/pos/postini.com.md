@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602183259id_/http%3A//www.postini.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postini.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211221522id_/http%3A//postini.com/company/privacy.html) for the most accurate reproduction.*
 
 # Postini Privacy Statement
 
-   
-
-
-  
 Postini is committed to honoring the privacy of our users and visitors. By publishing our Privacy Statement, we allow users to make informed consent to participate in Postini service offerings. 
 
 The Postini information disclosure practices are described in the following sections. 
