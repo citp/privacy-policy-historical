@@ -1,36 +1,44 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2002-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020110122144id_/http%3A//lww.com/privacy/0%2C2415%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208102237id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
 
 # Lippincott Williams & Wilkins
 
-**Privacy Policy for LWW**
+**LWW.com does not share or sell any individual's contact information, financial information, or unique identifiers to any advertiser or third party.**
 
-Lippincott Williams & Wilkins has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Lippincott Williams & Wilkins ([http://www.lww.com](https://web.archive.org/home))
+Privacy Policy for LWW
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart.
+Lippincott Williams & Wilkins has created this privacy statement in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our practices on gathering and disseminating information for this web site (LWW.com).
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
+LWW.com uses cookies to keep track of your shopping cart, to deliver content specific to your interests and to save your account information so you don't have to re-enter it during the check-out/purchase process.
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+There is currently one combined registration opportunity at LWW.com:
 
-This site contains links to other sites. **Lippincott Williams & Wilkins** is not responsible for the privacy practices or the content of such Web sites.
+LWW.com Registration & Updates
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, title, and specialty). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+Registering with LWW.com is optional during the shopping cart check out process. The registration form requests contact information (address and phone number), unique identifiers (e-mail address and password) and basic profile information. The contact information is used to send you order confirmations and information about Lippincott Williams & Wilkins. Unique identifiers (such as e-mail address and password) are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. Profile information is used to better understand our users tastes and interests and to tailor the visitor's experience at our site by developing content, products and services that we think might meet their interests and preferences and by offering customized search results, product recommendations and promotions. 
 
-## Security
+Signing up for LWW.com Updates requires customers to give us additional information about your profile, including specialties of interest and profession. LWW.com gives you options for removing your information from our database in order to discontinue receiving future communications or service. To opt out: 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
-
-## Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-You can visit the following URL: [/e-news/](http://lippincott.rsc02.net/servlet/website/ResponseForm?spiipgJhmmElNIlJkpIL_Mhkt_gLP)
+  * Go to the [Opt-out form](https://web.archive.org/e-news/unsubscribeform.html)
+  * Enter your email address (if it isn't already there)
+  * Click on the unsubscribe button
 
 
-## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+LWW.com often contains links to other web sites. Lippincott Williams & Wilkins is **not responsible** for the privacy practices or the content of those web sites. 
 
-Stephanie Marshall, Internet Marketing Lippincott Williams & Wilkins [smarshal@lww.com](mailto:smarshal@lww.com)
+Security
+
+LWW.com has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+
+**LWW.com does not share or sell any individual's contact information, financial information, or unique identifiers to any advertiser or third party.**
+
+Contacting LWW.com
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
+
+_Frank Roldan  
+Senior Director, Internet Database Marketing  
+Lippincott Williams & Wilkins  
+[froldan@lww.com](mailto:froldan@lww.com) _
+
+__
