@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208074742id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172324id_/http%3A//www.kvue.com/registration/privacy.html) for the most accurate reproduction.*
 
 # kvue.com | News for Austin, Texas | Privacy Policy
 
@@ -122,8 +122,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/441574197/Position1/default/empty.gif/7a2f48693231347a686f454143577636?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/1804089366/Position1/default/empty.gif/7a2f4868346c347a686f554141657876?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/1253075790/Position4/default/empty.gif/7a2f48693231347a686f454143577636?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/1905833556/Position4/default/empty.gif/7a2f4868346c347a686f554141657876?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/1433821640/Position5/default/empty.gif/7a2f48693231347a686f454143577636?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kvue.com/aboutus/975008315/Position5/default/empty.gif/7a2f4868346c347a686f554141657876?x)
