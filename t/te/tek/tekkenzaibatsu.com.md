@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tekkenzaibatsu.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212143346id_/http%3A//tekkenzaibatsu.com/privacy.shtml%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tekkenzaibatsu.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607145101id_/http%3A//www.tekkenzaibatsu.com/privacy.php%23privacy) for the most accurate reproduction.*
 
-# Tekken Zaibatsu - Site Info
+# Tekken Zaibatsu - Privacy Policy
 
 Tekken is a copyright and registered trademark of Namco. All Rights Reserved. Tekken Zaibatsu is an unofficial site and is not related to Namco in any way, shape or form. Tekken Zaibatsu is not endorsed, nor supported by Namco.
 
