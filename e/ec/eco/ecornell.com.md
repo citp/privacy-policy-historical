@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210103048id_/http%3A//www.ecornell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618103912id_/http%3A//www.ecornell.com/privacy) for the most accurate reproduction.*
 
 # eCornell.com >> Privacy Policy
 
