@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002151438id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626024034id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
 
 # News Corporation: Privacy Policy
 
 News America Incorporated Statement of Privacy Principles 
 
 PREAMBLE  
-News America Incorporated ("News America") is the principal U.S. subsidiary of The News Corporation Limited, one of the world's largest media companies. The businesses of News America and its subsidiary, Fox Entertainment Group, Inc., include: the production and distribution of motion pictures, television programming and related consumer products (Twentieth Century Fox); television and cable broadcasting (the Fox Network, Fox owned television stations, Fox Sports Net, Fox Sports World, Fox Sports World Espaňol, Speedvision, Fox News Channel, FX and Fox Movie Channel); the publication of newspapers, books, magazines and promotional free-standing inserts (The New York Post, HarperCollins Publishers, The Weekly Standard and News America Marketing); sports franchises (the Los Angeles Dodgers); and marketing services (SmartSource/iGroup). In this Statement of Privacy Principles these businesses are collectively called the News America Group.
+News America Incorporated ("News America") is the principal U.S. subsidiary of The News Corporation Limited, one of the world's largest media companies. The businesses of News America and its subsidiary, Fox Entertainment Group, Inc., include: the production and distribution of motion pictures, television programming and related consumer products (Twentieth Century Fox); television and cable broadcasting (the Fox Network, Fox owned television stations, Fox Sports Net, Fox Sports World, Fox Sports World Espaňol, Speedvision, Fox News Channel, FX and Fox Movie Channel); the publication of newspapers, books, magazines and promotional free-standing inserts (The New York Post, HarperCollins Publishers, The Weekly Standard and News America Marketing); and marketing services (SmartSource/iGroup). In this Statement of Privacy Principles these businesses are collectively called the News America Group.
 
 At the News America Group we strive to enhance our relationship with consumers. Collecting personal information about consumers is vital to this effort.
 
@@ -41,4 +41,4 @@ Each News America Group company will take appropriate measures to ensure complia
 
 June 30, 2001
 
-* Please see the [ Commentary](https://web.archive.org/web/20031002151438id_/http%3A//www.newscorp.com/commentary.html) further explaining these Principles.
+* Please see the [ Commentary](https://web.archive.org/web/20040626024034id_/http%3A//www.newscorp.com/commentary.html) further explaining these Principles.
