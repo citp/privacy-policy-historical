@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iballer.com privacy policy that was archived on 2004-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040308065500id_/http%3A//www.iballer.com/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iballer.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115631id_/http%3A//www.iballer.com/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # iBaller.com - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **iBaller.com** **respects your right to keep your personal information private. All information that you submit to us will be held in the strictest confidence.**
 
-iBaller.com is a nonprofit website. We do not sell or rent out any personal information collected about our visitors.
+iBaller.com does not sell or rent out any personal information collected about our visitors.
 
 We do not collect information on how individuals surf our site. In order to better serve you, and evaluate the effectiveness of our site, we collect general statistics about our site usage (i.e. how many people came to a particular page, etc.). This information is completely anonymous.
 
