@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009213232id_/http%3A//www.melaleuca.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627141849id_/http%3A//melaleuca.com/privacy.html) for the most accurate reproduction.*
 
 # Melaleuca: The Wellness Company: Privacy Policy
 
-MELALEUCA, INC. AND MELALEUCA OF CANADA, INC. WEB SITE  
+MELALEUCA WEB SITE  
 ONLINE PRIVACY POLICY 
 
-**MELALEUCA, INC. and MELALEUCA OF CANADA, INC. ("MELALEUCA") are committed to respecting your privacy. We've structured our Web site so that, in general, you can visit MELALEUCA on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with MELALEUCA.**
+**MELALEUCA and its affiliates and subsidiaries ("MELALEUCA") are committed to respecting your privacy. We've structured our Web site so that, in general, you can visit MELALEUCA on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with MELALEUCA.**
 
 This statement regarding the privacy of the personally identifiable information you provide online covers four main areas: **Awareness** , **Choice** , **Accuracy & Access** and **Security**. 
 
@@ -66,6 +66,14 @@ At present, MELALEUCA does not offer links to third-party Web sites.
 **_Security_ **
 
 MELALEUCA is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. We use the latest in encryption technology when collecting or transferring sensitive data, such as credit card information.
+
+**
+
+International Use
+
+**
+
+Information that is submitted to Melaleuca's Web Sites will be collected, processed, stored, disclosed, and disposed of in accordance with applicable U.S. law. If you are a non-U.S. user, you agree and acknowledge that we may collect and use your personal data and disclose it outside your resident jurisdiction, as discussed in "Whom We Share It With" above. In addition, such information may be stored on servers located outside your resident jurisdiction. U.S. law may not provide the degree of protection for information that is available in other countries. By providing us with your information, you acknowledge that you have read this Policy, understand it, agree to its terms and consent to the transfer of such information outside your resident jurisdiction. If you do not agree to this policy, please do not use the Melaleuca Web Sites.
 
 **
 
