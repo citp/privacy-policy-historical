@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitsquad.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204002325id_/http%3A//www.hitsquad.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsquad.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403151847id_/http%3A//www.hitsquad.com/privacy.shtml) for the most accurate reproduction.*
 
 # Hitsquad Privacy Policy
 
@@ -29,4 +29,4 @@ In the course of serving advertisements to this site, our advertisers may place 
 Cookies are small pieces of information that may be placed into your browser by any web server your browser connects to. Cookies can only be retrieved by a web server from the same domain name as the one that placed it there. You can change the way your browser handles cookies, or disable them completely by changing your browser's preferences. You can do this under the Tools>Internet Options menu in Microsoft Internet Explorer, see your Help menu in other browsers for information on how to do this. 
 
 **Contact Hitsquad**  
-Please [contact us](https://web.archive.org/web/20041204002325id_/http%3A//www.hitsquad.com/contact.html) for more information about our privacy policy if required. 
+Please [contact us](https://web.archive.org/web/20050403151847id_/http%3A//www.hitsquad.com/contact.html) for more information about our privacy policy if required. 
