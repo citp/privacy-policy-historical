@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multicards.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216072735id_/http%3A//multicards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multicards.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810050517id_/http%3A//multicards.com/pages/privacy.html) for the most accurate reproduction.*
 
 # MultiCards - Privacy Statement
 
