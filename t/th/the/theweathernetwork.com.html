@@ -1,362 +1,122 @@
-<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2001-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010413103001id_/http%3A//theweathernetwork.com/twn/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theweathernetwork.com privacy policy that was archived on 2003-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205112909id_/http%3A//www.theweathernetwork.com/inter/help/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
-<link rel="stylesheet" href="/menu.css">
-<meta name="description" content="The Weather Network: www.TheWeatherNetwork.com, or www.MeteoMedia.com for information in French. Instant weather maps, seasonal reports, Canadian, U.S. and World forecasts, and  customized weather.">
-<meta name="keywords" content="weather forecast weather forecast weather forecast weather forecast weather forecast weatehr wetaher waether weahter weatehr wetaher waether weahter weatehr wetaher waether weahter weatehr wetaher waether weahter weatehr wetaher waether weahter weatehr wetaher waether weahter conditions conditions conditions conditions conditions tornado hurricane storm storm storm cloud thunder lightning snow snow snow blizzard rain precipitation radar precipitation radar precipitation radar Doppler satellite satellite satellite satellite satellite satellite allergy health gardening aviation travel vacation meteorology meteorology meteorology season atmosphere environment climate temperature air atmosphere environment climate temperature air atmosphere climate temperature air  pollen UV ultraviolet humidity bugs insects maps ski ski ski ski golf parks cartography fog dew humidex sun showers road watches warnings watches warnings watches warnings watches warnings alert Pelmorex">
+<title>The Weather Network · Help · About TWN</title>
+<!--Loading of the master CSS which contains basic style-->
+<link rel="stylesheet" type="text/css" href="/common/css/Master.css">
+<!--Loading of the section(area) CSS which contains specific style for each sections-->
+<link rel="stylesheet" type="text/css" href="/common/css/ros.css">
+<meta name="description" content="the weather network web site provides weather forecasts, news, and information for Canadian cities, U.S cities and International cities, including weather maps and radar maps">
+<meta name="keywords" content="the weather network weather forecasts news weather information canadian canada current weather conditions dopplar radar maps weather maps satellite maps U.S cities international cities world weather local forecasts waether tornadoes hurricanes clouds thunder and lightning storms snow storm blizzards rain precipitation weahter allergies gardening marine information travel vacation meteorology meterology atmosphere environment climate temperature air quality pollen UV index uv information humidity bugs insects golf parks humidex sun watches warnings alerts pelmorex ">
 <meta name="robot" content="index,follow">
 <meta name="author" content="Pelmorex Inc.">
-<meta name="expires" content="0">
-<title>The Weather Network - Privacy Policy</title>
+<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.theweathernetwork.com&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.theweathernetwork.com&quot; r (n 0 s 0 v 0 l 0))">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/javascript">
 
-<!--- TWN ad server variables --->
-<script>
-	area		= "ros";
-	sector		= "nil";
-	cityName	= "nil";
-	button_cityName	= "clear_dot";
-
-<!--- 247 ad server variables --->
-
-	area247			= "ros";
-	BannerSector247	= "40659";
-	ButtonSector247 = "40660";
-	keyword247a		= "kw=twn;";
-	keyword247b		= "";
-	keyword247c		= "";
-
-</script>
-
-<script language="JavaScript" type="TEXT/JAVASCRIPT" runat="Server">
-
-<!--
-function jumpto1(navselect1) {
-        var myindex1=navselect1.select1.selectedIndex
-        if (navselect1.select1.options[myindex1].value != "0") {
-        window.open(navselect1.select1.options[myindex1].value, target="_top");}
-}
-//-->
-
-</script>
-
-<script language="JavaScript" runat="Server">
-
-//VARIABLE INIT
 var d = document;
-var mastheadNum = Math.ceil(Math.random() * 4);//mastheadNum
-var BannerNum = Math.ceil(Math.random() * 99999); // Banner Random Number
-var ButtonNum = Math.ceil(Math.random() * 99999); // Button Random Number
-
-var ShockMode = 0;
-if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] && navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin) {
-	if (navigator.plugins && navigator.plugins["Shockwave Flash"])
-		ShockMode = 1;
-}
-else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
-&& (navigator.userAgent.indexOf("Windows 9")>=0 || navigator.userAgent.indexOf("Windows NT")>=0)) {
-	d.write('<SCRIPT LANGUAGE=VBScript\> \n');
-	d.write('on error resume next \n');
-	d.write('ShockMode = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3")))\n');
-	d.write('</SCR'); //split line to fix an ie 4.5 mac bug
-	d.write('IPT\> \n');
-}
-if (navigator.appName=="Microsoft Internet Explorer" && parseInt(navigator.appVersion) <= 3) {
-	ShockMode = 1;
-}
-if (navigator.userAgent && navigator.userAgent.indexOf("Mac") >= 0) {
-ShockMode = 1;
-}
+var rndBanner=Math.ceil(Math.random()*999999);
+var BannerNum=rndBanner;
+var now=new Date;
+var PageID = Math.ceil(Math.random() * 999999); // PageID Random Number
 
 
-// done hiding -->
-
-</script>
-
-<script language="JAVASCRIPT" type="TEXT/JAVASCRIPT" runat="Server">
-
-// Array of day names
-
-var monthNames = new Array("January","February","March","April","May","June","July",
-                           "August","September","October","November","December");
+var monthNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
 
 var dt = new Date();
-var y  = dt.getYear();
+var year1  = dt.getYear();
 
 // Y2K compliant
-if (y < 1000) y +=1900;
+if (year1 < 1000) year1 +=1900;
 
-// -->
 </script>
 
-
 </head>
-
-<body bgcolor="#FFFFFF" text="#000000" link="#777777" vlink="#777777" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgproperties="FIXED">
-
-<table border="0" cellspacing="0" cellpadding="0" nowrap="">
-
-
-<tbody><tr valign="TOP"><td><b><font face="Verdana, Arial" size="1">&nbsp;&nbsp;&nbsp;
-
-<script>d.write(monthNames[dt.getMonth()] + " " + dt.getDate() + ", " + y);</script>January 31, 2020
-
-</font></b></td>
-<td align="RIGHT"><a href="/index.htm" target="_top"><font face="Verdana, Arial" size="1"><b>TWN Home</b></font></a></td></tr>
-<tr>
-<td rowspan="3" valign="TOP"><a href="/index.htm" target="_top"><img src="/commonimg/masthd/mst_en_l_4.jpg" width="144" height="134" alt="TWN Home" name="MastLft" border="0"></a></td>
-<td><img src="/commonimg/masthd/mst_en_r_4.jpg" width="468" height="49" name="MastRgt" border="0"></td>
-</tr>
-<tr><td width="468" height="25" align="CENTER">
-<script>
-if ( ShockMode ) {
-d.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
-d.write('codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=3,0,0,0"');
-d.write('ID=TWNWatch WIDTH=460 HEIGHT=25>');
-d.write('<PARAM NAME=movie VALUE="/media/watch.swf"> ');
-d.write('<PARAM NAME=loop VALUE=false> ');
-d.write('<PARAM NAME=quality VALUE=high> ');
-d.write('<PARAM NAME=scale VALUE=EXACTFIT> ');
-d.write('<PARAM NAME=bgcolor VALUE=#FFFFFF> ');
-d.write('<EMBED SRC="/media/watch.swf"');
-d.write(' WIDTH=460 HEIGHT=21');
-d.write(' LOOP="false"  ');
-d.write(' QUALITY="high" SCALE="EXACTFIT" BGCOLOR=#FFFFFF');
-d.write(' SWLIVECONNECT="False"');
-d.write(' TYPE="application/x-shockwave-flash"');
-d.write(' PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
-d.write('</EMBED>');
-d.write('</OBJECT>');
-}
-else
-{
-d.write("<CENTER><FONT FACE=\'Verdana, Arial\' SIZE=\'1\' COLOR=\'#999999\'>WEATHER ALERT - Requires Flash Plug-in</CENTER>");
-}</script><center><font face="Verdana, Arial" size="1" color="#999999">WEATHER ALERT - Requires Flash Plug-in</font></center><font face="Verdana, Arial" size="1" color="#999999">
-</font></td></tr>
-
-<!--- Banner Starts --->
-	<tr>
-		<td>
-
-<script>
-d.write('<IFRAME SRC="http://connect.247media.ads.link4ads.com/serv/2/The_Weather_Network/'+area247+'/468x60/'+BannerSector247+';type=t;uniq='+BannerNum+';'+keyword247a+keyword247b+keyword247c+'" WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 FRAMEBORDER=0 SCROLLING=no>');
-d.write('<a href="http://connect.247media.ads.link4ads.com/click/2/The_Weather_Network/'+area247+'/468x60/'+BannerSector247+';uniq='+BannerNum+'" target="_top">');
-d.write('<img src="http://connect.247media.ads.link4ads.com/serv/2/The_Weather_Network/'+area247+'/468x60/'+BannerSector247+';uniq='+BannerNum+';'+keyword247a+keyword247b+keyword247c+'" BORDER="0" HEIGHT="60" WIDTH="468"></a></IFRAME>');
-</script><iframe src="http://connect.247media.ads.link4ads.com/serv/2/The_Weather_Network/ros/468x60/40659;type=t;uniq=19092;kw=twn;" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><a href="http://connect.247media.ads.link4ads.com/click/2/The_Weather_Network/ros/468x60/40659;uniq=19092" target="_top"><img src="http://connect.247media.ads.link4ads.com/serv/2/The_Weather_Network/ros/468x60/40659;uniq=19092;kw=twn;" BORDER="0" HEIGHT="60" WIDTH="468"></a></iframe>
-
-
+<body marginwidth="0" marginheight="0">
+<!--Javascript variables which contains specific variables for ad and reusable JS variables-->
+<script type="text/javascript">
+<!--
+	var area="ros";
+	var sector="nil";
+	var cityName="nil";
+	var province="nil";
+	var codePlace="nil";
+	// If the Tag vars are undefined, make default
+	if (typeof area == "undefined") {
+		area="ros"; sector="nil"; cityName="nil"; province="nil";
+	}
+// -->
+</script>
+<!-- HEADER -->
+<script language="JavaScript1.2">dqm__codebase = "/common/scripts/navbar/" //script folder location</script>
+<script language="JavaScript1.2" src="/common/scripts/navbar/sample1_data.js"></script>
+<script language="JavaScript1.2" src="/common/scripts/navbar/dqm_loader.js"></script><script language="JavaScript1.2" src="/common/scripts/navbar/browser_ns.js"></script>
+<script language="JavaScript1.2" src="/common/scripts/headerTWN.js"></script><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td colspan="6" class="Header"><table border="0" cellpadding="0" cellspacing="0" width="100%">	<tbody><tr>		<td background="" bgcolor="#000066" width="210" align="left" colspan="2"><img src="/common/images/spacer.gif" width="210" height="17" border="0"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="78" height="17" name="menu0" id="menu0" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="102" height="17" name="menu1" id="menu1" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="100" height="17" name="menu2" id="menu2" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="76" height="17" name="menu3" id="menu3" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" valign="top"><img src="/common/images/spacer.gif" width="98" height="17" name="menu4" id="menu4" onmouseover="showMenu(event)" onmouseout="hideMenu(event)"></td>		<td background="" width="100%"><img src="/common/images/spacer.gif" height="17" width="100%"></td>	</tr>	<tr>		<td colspan="2" background=""><a href="/index.htm"><img src="/common/images/spacer.gif" width="210" height="51" border="0" alt="The Weather Network"></a></td>		<td colspan="6" background=""><form name="searchform" action="/common/scripts/search.htm" method="POST"></form></td>	</tr>	<tr>		<td background="" rowspan="2" width="92"><img src="/common/images/spacer.gif" width="92" height="20"></td>		<td background="" rowspan="2"><input type="text" name="recherche" size="10" value="enter city" class="searchbox" onclick="CheckCity();"></td>		<td background="" rowspan="2" valign="top" colspan="5"><a href="/weather/cities/indexcan.htm"><img src="/common/images/spacer.gif" width="133" height="18" border="0"></a><a href="/weather/cities/indexusa.htm"><img src="/common/images/spacer.gif" width="109" height="18" border="0"></a><a href="/weather/cities/indexintl.htm"><img src="/common/images/spacer.gif" width="162" height="18" border="0"></a></td>	</tr></tbody></table>		</td>	</tr></tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<!-- Section "SUBTITLE" (right under Masthead) -->
+	<tbody><tr>
+		<td colspan="3" width="100%">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<!--Left cell with the same width than the right one to make sur the title image stays centered-->
+					<td width="200">&nbsp;</td>
+					<!--Section Title image centered-->
+					<td align="center"><img src="/common/images/pagetitles/helpPageTitleEN.gif"></td>
+					<!--Right end portion of the title row which will set a search box if requested-->
+					<td width="200"><img src="/common/images/RightWave.gif" align="right"></td>
+				</tr>
+			</tbody></table>
 		</td>
 	</tr>
-
+	<!-- Page Title & Date -->
 	<tr>
-		<td colspan="2"><img src="/commonimg/1x1.gif" width="1" height="8"></td>
-	</tr>
-</tbody></table>
-
-
-<table border="0" width="610" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td valign="TOP" nowrap="">
-
-<table width="145" border="0" cellspacing="0" cellpadding="0" valign="TOP" nowrap="">
-
-
-<tbody><tr><td><a href="/alerts/" target="_top"> <img src="/commonimg/mnu/weather_alerts_en.gif" width="145" height="23" border="0" alt="Weather Watches &amp; Warnings"></a></td></tr>
-
-<tr><td align="CENTER"><img src="/commonimg/spacer.gif" width="3" height="5" alt="" border="0"></td></tr> 
-
-<tr><td>  
-<table border="0" cellpadding="0" cellspacing="0" width="130"> 
-<tbody><tr><td width="121" height="1" colspan="3"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial" color="#444444"><b>Weather Forecasts</b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navtop.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, Arial" color="#000057"><b>Search by City</b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr>
-
-<form action="/services/search/search.asp" method="post"></form>
-<tr><td align="right">
-<input type="text" name="recherche" style="font-family: Verdana,Geneva,Arial; font-size: 8pt;" size="10"></td>
-<td>&nbsp;</td><td width="13" valign="bottom"><img src="/commonimg/navgrad2_search.gif" width="13" height="24"></td></tr>
-
-
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/cities/canindex.htm" target="_top"><b>Canadian Cities</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/cities/usindex.htm" target="_top"><b>U.S. Cities</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/cities/intlindex.htm" target="_top"><b>International Cities</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad.gif"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial"><b><a href="/wmaps" target="_top"><b>Weather Maps</b></a></b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/radar" target="_top"><b>Radar Maps</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad.gif"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial"><b><a href="/ww" target="_top"><b>Weatherwire<font size="-2"><sup>TM</sup></font></b></a></b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad3.gif"></td></tr> 
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad.gif"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial"><b><a href="/features" target="_top"><b>Features</b></a></b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/features/airq" target="_top"><b>Air Quality</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<!---<tr><td align = right><font size = 1 face = "Verdana, arial"><a href = /features/bugs target = _top><b>Bug Report</b></a></font></td><td><img src = /commonimg/5x1.gif></td><td><IMG SRC="/commonimg/navgrad.gif"></td></tr> --->
-<!---<tr><td align = right><font size = 1 face = "Verdana, arial"><a href = /features/flu target = _top><b>Flu Report</b></a></font></td><td><img src = /commonimg/5x1.gif></td><td><IMG SRC="/commonimg/navgrad.gif"></td></tr> --->
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/features/golf" target="_top"><b>Golf Report</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/features/marine" target="_top"><b>Marine Forecast</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/features/parks" target="_top"><b>Parks</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/features/pollen" target="_top"><b>Claritin Pollen<br>Forecast</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad2_search.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/features/road" target="_top"><b>Road Report</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/features/ski" target="_top"><b>Ski Report</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/features/snow" target="_top"><b>Snow Report</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/features/uv" target="_top"><b>UV Report</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="http://209.47.231.97" target="_new"><b>TWN Farmzone</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr>
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad.gif"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial" color="#444444"><b>Travellers</b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/cities/bizindex.htm" target="_top"><b>Business</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/cities/vacindex.htm" target="_top"><b>Vacation</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/cities/us/disney.htm" target="_top"><b>Disney World<br>Weather</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad2_search.gif"></td></tr> 
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad.gif"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial"><b><a href="http://www.viewerplus.com/SplashWeather.asp?Stat=Weather" target="_top"><b>StoreFront</b></a></b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/promotions" target="_top"><b>Promotions</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad.gif"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/ask" target="_top"><b>Ask the Expert</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><b><a href="/help" target="_top"><b>Help</b></a></b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad.gif"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="/twn/partners" target="_top"><b>TWN on Your Site</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad.gif"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial"><b><a href="/tv" target="_top"><b>TWN on TV</b></a></b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><b><a href="/twn" target="_top"><b>About TWN</b></a></b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right"><font size="1" face="Verdana, arial"><b><a href="/twn/press.htm" target="_top"><b>Newsroom</b></a></b></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad.gif"></td></tr> 
-
-<tr><td align="right"><font size="1" face="Verdana, arial"><a href="http://www.meteomedia.com" target="_new"><b>Météomédia</b></a></font></td><td><img src="/commonimg/5x1.gif"></td><td><img src="/commonimg/navgrad.gif"></td></tr> 
-<tr><td align="right" colspan="2"><img src="/commonimg/navlongline.gif"></td><td align="left"><img src="/commonimg/navgrad4.gif"></td></tr> 
-</tbody></table> 
-
-</td></tr>
-
-<!--- Button 1 Starts --->
-				<tr>
-					<td align="RIGHT">
-						<table border="0" cellspacing="0" cellpadding="0">
-
-							<tbody><tr>
-								<td>
-<script>
-d.write('<IFRAME SRC="http://connect.247media.ads.link4ads.com/serv/2/The_Weather_Network/'+area247+'/120x60/'+ButtonSector247+';type=t;uniq='+ButtonNum+'" WIDTH=120 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 FRAMEBORDER=0 SCROLLING=no>');
-d.write('<a href="http://connect.247media.ads.link4ads.com/click/2/The_Weather_Network/'+area247+'/120x60/'+ButtonSector247+';uniq='+ButtonNum+'" target="_top">');
-d.write('<img src="http://connect.247media.ads.link4ads.com/serv/2/The_Weather_Network/'+area247+'/120x60/'+ButtonSector247+';uniq='+ButtonNum+'" BORDER="0" HEIGHT="60" WIDTH="120"></a></IFRAME>');
-</script><iframe src="http://connect.247media.ads.link4ads.com/serv/2/The_Weather_Network/ros/120x60/40660;type=t;uniq=69144" width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><a href="http://connect.247media.ads.link4ads.com/click/2/The_Weather_Network/ros/120x60/40660;uniq=69144" target="_top"><img src="http://connect.247media.ads.link4ads.com/serv/2/The_Weather_Network/ros/120x60/40660;uniq=69144" BORDER="0" HEIGHT="60" WIDTH="120"></a></iframe>
-
-								</td>
-								<td>
-									<img src="/commonimg/spacer.gif" width="2" height="2" border="0">
-								</td>
-								<td>
-									<img src="/commonimg/spacer.gif" width="16" height="5" border="0">
-								</td>
-							</tr>
+		<td valign="top" width="100%" bgcolor="#ffffff" colspan="3">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td>
+						<table width="100%" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr><td bgcolor="#336799" height="19"><img src="/common/images/spacer.gif" width="25" height="3"></td><td bgcolor="#09036D" width="100%" class="UnderPageTitle" height="26">&nbsp;&nbsp;Privacy Policy</td></tr>
 						</tbody></table>
 					</td>
-				</tr>
-<!--- Button 1 Ends --->
-				<tr>
-					<td align="right">
-						<table border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td bgcolor="#ffffff">
-									<img src="/commonimg/spacer.gif" width="2" height="2" border="0">
-								</td>
-								<td>
-									<img src="/commonimg/spacer.gif" width="16" height="5" border="0">
-								</td>
-							</tr>
+					<td>
+						<table width="100%" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr><td bgcolor="#09036D" width="100%" class="RightDate" height="26" align="right"><script>d.write(monthNames[dt.getMonth()] + '&nbsp;' + dt.getDate() + ',&nbsp;' +year1);</script>January&nbsp;31,&nbsp;2020&nbsp;&nbsp;&nbsp;</td></tr>
 						</tbody></table>
-					</td>
-				</tr>
-<!--- Button 2 Starts --->
-				<tr>
-					<td align="right">
-						<table border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td>
-
-
-<script>
-d.write('<iframe src="http://Ads.weather.ca:98/hserver/SITE=twn/AREA='+area+'/AAMSZ=120X60/SECTOR='+sector+'/CITY='+button_cityName+'/acc_random=' + BannerNum + '?" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="120" height="60">');
-d.write('<a href="http://Ads.weather.ca:98/accipiter/adclick/SITE=twn/AREA='+area+'/AAMSZ=120X60/SECTOR='+sector+'/CITY='+button_cityName+'?" target="_top">');
-d.write('<img src="http://Ads.weather.ca:98/accipiter/nserver/SITE=twn/AREA='+area+'/AAMSZ=120X60/SECTOR='+sector+'/CITY='+button_cityName+'?" BORDER="0" HEIGHT="60" WIDTH="120"></a>');
-d.write('</iframe>');
-</script><iframe src="http://Ads.weather.ca:98/hserver/SITE=twn/AREA=ros/AAMSZ=120X60/SECTOR=nil/CITY=clear_dot/acc_random=19092?" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="120" height="60"><a href="http://Ads.weather.ca:98/accipiter/adclick/SITE=twn/AREA=ros/AAMSZ=120X60/SECTOR=nil/CITY=clear_dot?" target="_top"><img src="http://Ads.weather.ca:98/accipiter/nserver/SITE=twn/AREA=ros/AAMSZ=120X60/SECTOR=nil/CITY=clear_dot?" BORDER="0" HEIGHT="60" WIDTH="120"></a></iframe>
-
-								</td><td>
-									<img src="/commonimg/spacer.gif" width="2" height="2" border="0">
-								</td>
-								<td>
-									<img src="/commonimg/spacer.gif" width="16" height="5" border="0">
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-<!--- Button 2 Ends --->
-				<tr>
-					<td align="RIGHT"><br>
 					</td>
 				</tr>
 			</tbody></table>
-
-
 		</td>
-		<td valign="TOP" align="RIGHT">
-			<table border="0" cellspacing="0" cellpadding="0" nowrap="">
+	</tr>
+	<!-- CONTENTS -->
+	<tr>
+		<!-- Left CONTENT cell -->
+		<td valign="top" width="100%" bgcolor="#ffffff">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
-					<td colspan="3">
-						<table border="0" cellpadding="0" cellspacing="0" bgcolor="#34649C" width="468">
-							<tbody><tr>
-								<td>
-									<table border="0" cellpadding="0" cellspacing="2" width="100%">
-										<tbody><tr>
-											<td>
-												<table border="0" cellpadding="2" cellspacing="0" width="100%">
-													<tbody><tr>
-														<td bgcolor="#FFFFFF" align="left" valign="center">
-															<font face="Verdana,Arial" color="#000039" size="2"><b>Privacy Policy</b></font>
-														</td>
-													</tr>
-												</tbody></table>
-											</td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-					<td rowspan="5">
-						<img src="/commonimg/spacer.gif" width="2" height="2" border="0">
-					</td>
+					<td class="Background"><img src="/common/images/spacer.gif" width="100%" height="4"></td>
 				</tr>
-				<tr>
-					<td>
-						<img src="/commonimg/spacer.gif" width="10" height="5" border="0">
-					</td>
-					<td>
-						<img src="/commonimg/spacer.gif" width="5" height="5" border="0">
-					</td>
-					<td>
-						<img src="/commonimg/spacer.gif" width="1" height="5" border="0">
-					</td>
-				</tr>
-				<tr>
-					<td>
-					</td>
-<!--- Content Starts --->
-					<td width="460">
+				<!--Ad banner 468 width if needed-->
+				<tr><td align="center">
+<script>
+	Adtype = "banner";
+	setWidth = 468;
+	setHeight = 60;
+	client = "";
 
-		<!-- BEGIN content body table -->
-		<font face="Verdana, Arial" size="1">
+	if ((area != "pollen") && (area != "uvb") && (area != "hwyfx") && (area != "hwycond")) {
+		d.write('<SCR'+'IPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
+		d.write('</SCR'+'IPT>');
+	} 
+</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=772351/AREA=ros/AAMSZ=468X60/SECTOR=nil/CITY=nil/acc_random=594349?" language="JavaScript1.1"></script>
+</td></tr>
 
-		<p>
-<b>
-</b></p><ul type="disc"><b>
+				<tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td class="Content">
+<p><br>
+
+</p><ul>
 <li><a href="#1">Privacy Policy</a>
 </li><li><a href="#2">The Ten Privacy Principles</a>
 </li><li><a href="#3">Where and Why We Collect Personal Information Online</a>
@@ -365,19 +125,18 @@ d.write('</iframe>');
 </li><li><a href="#6">Limitation of Liability</a>
 </li><li><a href="#7">Contact Us</a>
 </li><li><a href="#8">Updates</a>
-</li></b></ul><b>
-</b>
-<p><font size="2"><a name="1">Privacy Policy</a></font>
-</p><p>Pelmorex Media Inc. ("PMI") is committed to respecting and safeguarding the privacy of our stakeholders and to ensure the protection of personal information of our employees, customers, clients and users of this web site.  It has always been fundamental to the way we do business at Pelmorex in all our relationships, either on or off the Internet: we are committed to keeping personal information accurate, confidential, secure and private.
+</li></ul>
 
-</p><p>PMI's policy is simple: we collect personal information about you only when you knowingly and willingly provide it, and we will not share or otherwise profit from the distribution of personal data beyond the use it was provided to fulfill.
+<p><font class="title"><a name="1"></a>Privacy Policy</font>
+<br>Pelmorex Media Inc. ("PMI") is committed to respecting and safeguarding the privacy of our stakeholders and to ensure the protection of personal information of our employees, customers, clients and users of this web site.  It has always been fundamental to the way we do business at Pelmorex in all our relationships, either on or off the Internet: we are committed to keeping personal information accurate, confidential, secure and private.</p>
 
-</p><p>Our practices conform with the Canadian Standards Association (CSA) Model Code for the Protection of Personal Information (CAN/CSA - Q830-06) and the Canadian Association of Broadcasters Privacy Policy Guidelines. The code consists of ten inter-related principles which are outlined below.
+<p>PMI's policy is simple: we collect personal information about you only when you knowingly and willingly provide it, and we will not share or otherwise profit from the distribution of personal data beyond the use it was provided to fulfill.</p>
+
+<p>Our practices conform with the Canadian Standards Association (CSA) Model Code for the Protection of Personal Information (CAN/CSA - Q830-06) and the Canadian Association of Broadcasters Privacy Policy Guidelines. The code consists of ten inter-related principles which are outlined below.</p>
 
 
-</p><p><font size="1"><a name="2">The Ten Privacy Principles</a>
-<b>
-</b></font></p><p><font size="1"><b><a href="#p1">Principle 1 - Accountability</a>
+<p><font class="title"><a name="2"></a>The Ten Privacy Principles</font>
+<br><a href="#p1">Principle 1 - Accountability</a>
 <br><a href="#p2">Principle 2 - Identifying Purposes</a>
 <br><a href="#p3">Principle 3 - Consent</a>
 <br><a href="#p4">Principle 4 - Limiting Collection</a>
@@ -387,117 +146,273 @@ d.write('</iframe>');
 <br><a href="#p8">Principle 8 - Openness</a>
 <br><a href="#p9">Principle 9 - Customer Access</a>
 <br><a href="#p10">Principle 10 - Handling Customer Complaints and Suggestions</a>
-</b>
-</font>
+</p>
 
-</p><p><font size="2"><a name="#p1">Principle 1</a> - Accountability</font>
-<br>PMI is responsible for all personal information under its control including any personal information disclosed to third parties for processing.  Pelmorex has established policies and procedures to comply with its own privacy code, and has designated one or more persons to be accountable for compliance.
 
-</p><p><font size="2"><a name="#p2">Principle 2</a> - Identifying Purposes</font>
-<br>PMI will identify the purposes for collecting personal information, prior to or at the time it is being provided.  Personal information will not be used for a purpose not previously identified without further individual consent, unless the new purpose is required by law.
+<p><font class="title"><a name="#p1"></a>Principle 1 - Accountability</font>
+<br>PMI is responsible for all personal information under its control including any personal information disclosed to third parties for processing. Pelmorex has established policies and procedures to comply with its own privacy code, and has designated one or more persons to be accountable for compliance.</p>
 
-</p><p><font size="2"><a name="#p3">Principle 3</a> - Consent</font>
-<br>The knowledge and consent of the customer are required for the collection, use or disclosure of customer information, except where inappropriate.
+<p><font class="title"><a name="#p2"></a>Principle 2 - Identifying Purposes</font>
+<br>PMI will identify the purposes for collecting personal information, prior to or at the time it is being provided. Personal information will not be used for a purpose not previously identified without further individual consent, unless the new purpose is required by law.</p>
 
-</p><p><font size="2"><a name="#p4">Principle 4</a> - Limiting Collection</font>
-<br>The collection of personal information shall be limited to that which is necessary for the purposes identified by PMI.
+<p><font class="title"><a name="#p3"></a>Principle 3 - Consent</font>
+<br>The knowledge and consent of the customer are required for the collection, use or disclosure of customer information, except where inappropriate.</p>
 
-</p><p><font size="2"><a name="#p5">Principle 5</a> - Limiting Use, Disclosure and Retention</font>
-<br>Personal information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.
+<p><font class="title"><a name="#p4"></a>Principle 4 - Limiting Collection</font>
+<br>The collection of personal information shall be limited to that which is necessary for the purposes identified by PMI.</p>
 
-</p><p><font size="2"><a name="#p6">Principle 6</a> - Accuracy</font>
+<p><font class="title"><a name="#p5"></a>Principle 5 - Limiting Use, Disclosure and Retention</font>
+<br>Personal information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.</p>
+
+<p><font class="title"><a name="#p6"></a>Principle 6 - Accuracy</font>
 <br>Personal information shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used.
+</p>
+<p><font class="title"><a name="#p7"></a>Principle 7 - Safeguarding Customer Information</font>
+<br>Pelmorex protects personal information with safeguards appropriate to the sensitivity of the information.</p>
 
-</p><p><font size="2"><a name="#p7">Principle 7</a> - Safeguarding Customer Information</font>
-<br>Pelmorex protects personal information with safeguards appropriate to the sensitivity of the information.
+<p><font class="title"><a name="#p8"></a>Principle 8 - Openness</font>
+<br>Pelmorex will make specific information about its personal information management policies and practices readily available to individuals.</p>
 
-</p><p><font size="2"><a name="#p8">Principle 8</a> - Openness</font>
-<br>Pelmorex will make specific information about its personal information management policies and practices readily available to individuals.
+<p><font class="title"><a name="#p9"></a>Principle 9 - Customer Access</font>
+<br>Upon request, Pelmorex will inform individuals of the existence, use, and disclosure of their personal information and provide access to that information. An individual shall be able to verify the accuracy and completeness of their information, and may request that it be amended, as appropriate.</p>
 
-</p><p><font size="2"><a name="#p9">Principle 9</a> - Customer Access</font>
-<br>Upon request, Pelmorex will inform individuals of the existence, use, and disclosure of their personal information and provide access to that information.  An individual shall be able to verify the accuracy and completeness of their information, and may request that it be amended, as appropriate.
+<p><font class="title"><a name="#p10"></a>Principle 10 - Handling Customer Complaints and Suggestions</font>
+<br>Pelmorex will provide procedures to receive and respond to complaints or inquiries about policies and practices relating to the handling of personal information. These procedures will be easily accessible and simple to use.</p>
 
-</p><p><font size="2"><a name="#p10">Principle 10</a> - Handling Customer Complaints and Suggestions</font>
-<br>Pelmorex will provide procedures to receive and respond to complaints or inquiries about policies and practices relating to the handling of personal information.  These procedures will be easily accessible and simple to use.
+<p><font class="title"><a name="3"></a>Where and Why We Collect Personal Information Online</font>
+<br>Currently PMI collects personal information from users when they register for WeatherDirect (an email program that delivers weather forecasts for free), sign up to add the 'Weather Button' on their site, or send us an email.</p>
 
 
-</p><p><font size="2"><a name="3">Where and Why We Collect Personal Information Online</a></font><a name="3">
-</a></p><p><a name="3">Currently PMI collects personal information from users when they sign up to add the 'Weather Button' on their site, or send us an email.
+<p><font class="title">WeatherDirect</font>
+<br><a href="/Inter/WeatherCentre">When an individual registers</a> for WeatherDirect, they are required to provide their name, email address, and password. This information allows us to deliver weather forecasts to a subscriber’s email address and enables them to change their preferences associated with this program. We also ask subscribers for additional information, which is not required to participate in the email program. The purpose of gathering this optional information is twofold: 1) with a greater understanding of our users we can develop an email program even better suited to the needs of our subscribers and 2) to generate a statistical profile of all subscribers that is shared with advertisers on The Weather Network. Note that The Weather Network will not sell or share your email address or individual information with any third party.</p>
+<p>When a subscriber cancels his or her subscription, that individual’s personal information (name and email address) will be deleted from our database within 30 days.</p>
 
-</a></p><p><a name="3">'Weather Button'</a>
-</p><p>When users sign up for the 'Weather Button' we request their name, email address, company name (if available) and website URL.  The purpose of this is to be able to contact users of the button to communicate changes in the program as well as to track and check the sites they are implemented on to gauge the effectiveness of the program.  This information will be retained for the life of the weather button program.
+<p><font class="title">Weather Button</font>
+<br>When users sign up for the 'Weather Button' we request their name, email address, company name (if available) and website URL. The purpose of this is to be able to contact users of the button to communicate changes in the program as well as to track and check the sites they are implemented on to gauge the effectiveness of the program. This information will be retained for the life of the weather button program.</p>
 
-</p><p><font size="2">Email</font>
-</p><p>When you send us an email you provide us with your name (or tag) and email address, along with any other information you provide in the body of your email.  This information may be shared with persons outside of The Weather Network only when they are required to receive this information in order to respond effectively to your query.  We retain all email correspondence indefinitely in order to for purposes of reflecting upon our customer feedback.
+<p><font class="title">Email</font>
+<br>When you send us an email you provide us with your name (or tag) and email address, along with any other information you provide in the body of your email. This information may be shared with persons outside of The Weather Network only when they are required to receive this information in order to respond effectively to your query. We retain all email correspondence indefinitely in order to for purposes of reflecting upon our customer feedback.</p>
 
-</p><p><font size="2"><a name="4">Cookies</a></font>
-</p><p>Cookies are small text files transferred to your hard drive by a web server.  Because cookies only contain text, they cannot transmit a virus or damage your system.  They are commonly used to determine return visitors to a site, record your preferences, shopping cart, registration information, pages viewed or items purchased.
+<p><font class="title"><a name="4"></a>Cookies</font>
+<br>Cookies are small text files transferred to your hard drive by a web server. Because cookies only contain text, they cannot transmit a virus or damage your system. They are commonly used to determine return visitors to a site, record your preferences, shopping cart, registration information, pages viewed or items purchased.</p>
 
-</p><p>PMI only uses cookies on theweathernetwork.com cookies to allow users of the Golf Report to 'bookmark' their favourite course.  No personal information is involved in providing this feature.
+<p>PMI only uses cookies on theweathernetwork.com cookies to allow users of the Golf Report to 'bookmark' their favourite course. No personal information is involved in providing this feature.</p>
 
-</p><p>Our Advertising Representation firm, 24/7 Canada, uses sessional cookies (ones that expire once you turn off your computer) to execute advertising campaigns in order to limit repeat views of a banner for an individual user, or track the number of clicks a banner receives.  These cookies do not, however, collect any personal data about who the cookies are served to.  For more information regarding the use of cookies in advertising on TWN.com, please contact 24/7 at privacy@247canada.com  or see their privacy policy here.
+<p>Our Advertising Representation firm, 24/7 Canada, uses sessional cookies (ones that expire once you turn off your computer) to execute advertising campaigns in order to limit repeat views of a banner for an individual user, or track the number of clicks a banner receives. These cookies do not, however, collect any personal data about who the cookies are served to. For more information regarding the use of cookies in advertising on TWN.com, please contact 24/7 at privacy@247canada.com or see their privacy policy here.</p>
 
-</p><p>You have the option to set your browser to either accept cookies openly, to notify you before accepting cookies, or to refuse cookies altogether.
+<p>You have the option to set your browser to either accept cookies openly, to notify you before accepting cookies, or to refuse cookies altogether.</p>
 
-</p><p><font size="2"><a name="5">Employee Confidentiality</a></font>
-</p><p>Upon employment, every employee of The Weather Network is required to sign a "Confidentiality Agreement and Code of Ethics" that ensures the confidential handling of business information. This agreement demonstrates our commitment, both collectively and as individuals, to protecting the confidentiality of information held by the company, including specifically, "customer information."
+<p><font class="title"><a name="5"></a>Employee Confidentiality</font>
+<br>Upon employment, every employee of The Weather Network is required to sign a "Confidentiality Agreement and Code of Ethics" that ensures the confidential handling of business information. This agreement demonstrates our commitment, both collectively and as individuals, to protecting the confidentiality of information held by the company, including specifically, "customer information."</p>
 
-</p><p><font size="2"><a name="6">Limitation of Liability</a></font>
-</p><p>Complete confidentiality and security is not yet possible over the Internet.  Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that messages to newsgroups have resulted in unsolicited email from spammers. You acknowledge and agree that PMI and its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.
+<p><font class="title"><a name="6"></a>Limitation of Liability</font>
+<br>Complete confidentiality and security is not yet possible over the Internet. Internet use and communication is subject to interception, loss and alteration. On whichever site you provide personal information, it is possible for a third party to view that information. It is not surprising, for example, that messages to newsgroups have resulted in unsolicited email from spammers. You acknowledge and agree that PMI and its affiliates and related companies shall not be responsible for any damages you may suffer as a result of the transmission of confidential or sensitive information over the Internet, and that all such communications will be at your own risk.</p>
 
-</p><p><font size="2"><a name="7">Contact Us</a></font>
-</p><p>We hope you find this statement informative and clear.  Please <b><a href="mailto:privacy@on.pelmorex.com"><u>email us</u></a></b> regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:
+<p><font class="title"><a name="7"></a>Contact Us</font>
+<br>We hope you find this statement informative and clear.  Please <a href="mailto:privacy@on.pelmorex.com">email us</a> regarding any questions or further information you may be interested in. Or, if you prefer, contact us in writing, at:</p>
 
-</p><p><b>Privacy Officer</b>
+<p><font class="title">Privacy Officer</font>
 <br>1 Robert Speck Parkway
 <br>Suite 1600
 <br>Mississauga, Ontario
 <br>L4Z 4B3
+</p>
 
+<p>Individuals can also contact the Privacy Commissioner of Canada in writing at the address provided.</p>
 
-</p><p>Individuals can also contact the Privacy Commissioner of Canada in writing at the address provided.
-
-</p><p><b>The Privacy Commissioner of Canada</b>
+<p><font class="bodyb">The Privacy Commissioner of Canada</font>
 <br>112 Kent Street
 <br>Ottawa, Ontario
 <br>K1A 1H3
 
-</p><p>or email to: <b><a href="mailto:info@privcom.gc.ca">info@privcom.gc.ca</a></b>
-<br>website: <b><a href="http://www.privcom.gc.ca" target="_new">www.privcom.gc.ca</a></b>
 
-</p><p><font size="2"><a name="8">Updates</a></font>
-</p><p>PMI reserves the right to update and amend this policy as it is deemed necessary or appropriate to do so.  Please check back often to be appraised of any changes. This version was updated on December 27, 2000.
+<br>or email to: <a href="mailto:info@privcom.gc.ca">info@privcom.gc.ca</a>
+<br>website: <a href="http://www.privcom.gc.ca" target="_new">www.privcom.gc.ca</a></p>
 
-<!-- END content body table -->
-
-					</p></font></td>
-<!--- Content Ends --->
-
-				</tr>
-
-<!--- Footer Starts --->
-				<tr>
-					<td colspan="3">
-						<img src="/commonimg/spacer.gif" width="5" height="15" border="0">
-					</td>
-				</tr>
-
-<tr><td colspan="3"><br><br><center><font face="Verdana, Arial" size="1"><a href="/features/snow/"><b>Snow Report</b></a>&nbsp; · &nbsp;
-<a href="/features/road/"><b>Road Report</b></a>&nbsp; · &nbsp;
-<a href="/features/ski/"><b>Ski Report</b></a><br>
-<a href="/features/airq/"><b>Air Quality Index</b></a>&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="/features/parks/"><b>Parks Report</b></a></font></center></td></tr>
-
-<tr><td colspan="3"><img src="/commonimg/spacer.gif" width="5" height="15" alt="" border="0"></td></tr>
-
-<tr><td colspan="3"><center><hr width="60%" color="#336699"></center></td></tr>
-<tr><td colspan="3"><center><font face="Verdana, Arial" size="-2"><a href="/twn/copyright.htm"><b>© 2001 The Weather Network</b></a>&nbsp;</font></center></td></tr>
-<tr><td colspan="3"><center><font face="Verdana, Arial" size="1"><a href="/twn/privacy.htm"><b>Privacy Policy</b></a></font></center></td></tr>
-			</tbody></table>
+<p><font class="title"><a name="8"></a>Updates</font>
+<br>PMI reserves the right to update and amend this policy as it is deemed necessary or appropriate to do so.  Please check back often to be appraised of any changes. This version was updated on December 27, 2000.</p>
 		</td>
 	</tr>
 </tbody></table>
-<br>
+</td></tr>
+			</tbody></table> 
+		</td>
+		<td bgcolor="#ffffff"><img src="/common/images/spacer.gif" width="2"></td>
+		<!-- Right CONTENT (Ads + Local NavBar & other stuff) -->
+		<td width="300" align="right" valign="top">
+			<script>
+// Read the QUERY STRING if needed.
+url = document.URL;
+if (url.indexOf("?") > -1) {
+	queryString = url.substring(url.indexOf("?")+1,url.length);
+	eMail = url.substring(url.indexOf("?")+1,url.indexOf("?")+13);
+	if (queryString == "area=GM") {
+		area = "GM";
+		queryString = "";
+	} else if (eMail == "emailaddress") {
+		queryString = "";
+	}
+
+} else {
+	queryString = "";
+}
+
+buildMenu = true;
+// Extract QUERY STRING informations if theres is nothing else already built-in
+if (queryString != "" && (typeof featureAIR == "undefined")) {
+	codePlace = queryString;
+}
+
+// Load profile for the requested Place
+if (codePlace != "XXXX0000" && codePlace != "nil" && codePlace != "XXXXXXXX" && codePlace != "CAQC0000" && codePlace != "") {
+//	if ((area == "can") || (area == "usa") || (area == "intl")) {
+	if (((queryString != "") || ((area == "can") || (area == "usa") || (area == "intl"))) && (area != "home")) {
+		if ((queryString != "") && ((area == "radar") || (area == "wxc") || (area == "flu") || (area == "wcam") || (area == "floods"))) {
+			codePlace = "XXXXXXXX";
+			d.write('<scr'+'ipt type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></scr'+'ipt>');
+		} else {
+			d.write('<scr'+'ipt type="text/javascript" src="/common/ssidata/profiles/'+codePlace+'.js"></scr'+'ipt>');
+		}
+	} else {
+		codePlace = "XXXXXXXX";
+		d.write('<scr'+'ipt type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></scr'+'ipt>');
+	}
+//	} else {
+//		
+//		d.write('<scr'+'ipt type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></scr'+'ipt>');
+//	}
+} else if (codePlace == "XXXXXXXX" || codePlace == "XXXX0000" || codePlace == "nil" || codePlace == "") {
+	d.write('<scr'+'ipt type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></scr'+'ipt>');
+}
+</script><script type="text/javascript" src="/common/ssidata/profiles/XXXXXXXX.js"></script>
+
+<script type="text/javascript" src="/common/scripts/features.js"></script>
+<script type="text/javascript" src="/common/scripts/rightContent.js"></script>
+<script type="text/javascript" src="/common/scripts/buildingmenu.js"></script>
+
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td colspan="3" bgcolor="#DBDFEB" width="100%" height="1"><img src="/common/images/spacer.gif" width="300" height="1"></td>
+	</tr>
+	<tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0" bgcolor="#326896" width="300">
+				<tbody><tr>
+<script type="text/javascript" src="/common/scripts/checkingtype.js"></script>
+<td colspan="2" bgcolor="#000066"><center>
+<iframe src="/common/includes/ads.htm?type=box/pageid=772351/width=300/height=250/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=772351/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=772351/AREA=ros/AAMSZ=300X250/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="250" WIDTH="300"></a></iframe><br>
+</center></td>
+</tr>
+<tr><td bgcolor="#000066" class="RightHandTitle" colspan="2" height="26"><font face="verdana" size="2" color="#ffcc33"><b>QUICK LINKS</b><br></font></td></tr>
+<tr>
+<td valign="top">
+<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Weather.gif"></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/weather/alerts/"><font face="arial" size="2" color="#ffffff"><b>Watches and Warnings</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/weather/maps/floods.htm"><font face="arial" size="2" color="#ffffff"><b>Weather Maps</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/weather/maps/Satrad.htm"><font face="arial" size="2" color="#ffffff"><b>Satellite &amp; Radar Maps</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/weather/stats/"><font face="arial" size="2" color="#ffffff"><b>Statistics</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/camweather/"><font face="arial" size="2" color="#ffffff"><b>Weather Cameras</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/inter/help/glossary/index.htm"><font face="arial" size="2" color="#ffffff"><b>Glossary</b></font></a></td></tr></tbody></table></td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Travel.gif"></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/hwycond/"><font face="arial" size="2" color="#ffffff"><b>Highway Conditions</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/hwyfx/"><font face="arial" size="2" color="#ffffff"><b>Highway Forecast</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/camtraffic/"><font face="arial" size="2" color="#ffffff"><b>Traffic Cameras</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/roadconstr/"><font face="arial" size="2" color="#ffffff"><b>Road Construction</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/travellers/"><font face="arial" size="2" color="#ffffff"><b>Travel Information</b></font></a></td></tr></tbody></table></td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Activities.gif"></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/golf/index.htm"><font face="arial" size="2" color="#ffffff"><b>Golf Report</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/parks/index.htm"><font face="arial" size="2" color="#ffffff"><b>Park Report</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/farmzone"><font face="arial" size="2" color="#ffffff"><b>Farmzone</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/marine/index.htm"><font face="arial" size="2" color="#ffffff"><b>Marine Forecast</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/schoolday/index.htm"><font face="arial" size="2" color="#ffffff"><b>SchoolDay Forecast</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/ski/index.htm"><font face="arial" size="2" color="#ffffff"><b>Ski Report</b></font></a></td></tr></tbody></table></td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Health.gif"></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/flu/"><font face="arial" size="2" color="#ffffff"><b>Flu Report</b></font></a></td></tr></tbody></table></td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<table border="0" cellpadding="4" cellspacing="4" width="160" bgcolor="#326896"><tbody><tr><td><table border="0" cellpadding="1" cellspacing="1" width="152" bgcolor="#326896"><tbody><tr><td width="100%"><img src="/common/images/r_Environment.gif"></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/airq/"><font face="arial" size="2" color="#ffffff"><b>Air Quality</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/uv/"><font face="arial" size="2" color="#ffffff"><b>UV Report</b></font></a></td></tr></tbody></table></td></tr>
+<tr><td>
+<table border="1" cellpadding="0" cellspacing="0" width="100%" bordercolor="#4876A3"><tbody><tr><td><a href="/features/snow/"><font face="arial" size="2" color="#ffffff"><b>Snow Report</b></font></a></td></tr></tbody></table></td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+
+</td>
+
+<td valign="top"><iframe src="/common/includes/ads.htm?type=tower/pageid=772351/width=120/height=600/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="120" height="600"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=772351/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=772351/AREA=ros/AAMSZ=120X600/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="600" WIDTH="120"></a></iframe><br>
+</td>
+</tr>
+
+			</tbody></table>
+
+		</td>
+	</tr>
+</tbody></table>
+
+<p>
+</p><center>
+<script>
+	d.write('<');
+	d.write('SCRIPT SRC="http://a'+'ds.weather.ca/jserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=VOKEN/SECTOR='+sector+'/CITY='+cityName+'/acc_random=' + BannerNum + '?" LANGUAGE="JavaScript1.1">');
+	d.write('</');
+	d.write('script>');
+</script><script src="http://ads.weather.ca/jserver/SITE=twn/pageid=772351/AREA=ros/AAMSZ=VOKEN/SECTOR=nil/CITY=nil/acc_random=594349?" language="JavaScript1.1"></script>
+</center>
+<p>
+		</p></td>
+	</tr>
+	<!-- FOOTER -->
+	<tr>
+		<td colspan="3" width="100%">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td height="100" bgcolor="#FFFFFF" width="100%" align="center"><script>
+	if ((area != "uvb") && (area != "pollen") && (area != "hwyfx") && (area != "hwycond")) {
+		Adtype = "banner";
+		client = "";
+
+		document.write('<iframe src="/common/includes/a'+'ds.htm?type='+Adtype+'/pageid='+PageID+'/width=468/height=60B/client='+client+'/area='+area+'/sector='+sector+'/cityName='+cityName+'" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width = "468" height = "60">');
+		document.write('<a href="http://a'+'ds.weather.ca/accipiter/a'+'dclick/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" target="_top">');
+		document.write('<img src="http://a'+'ds.weather.ca/accipiter/nserver/SITE=twn/pageid='+PageID+'/AREA='+area+'/AAMSZ=468X60B/client='+client+'/SECTOR='+sector+'/CITY='+cityName+'?" BORDER="0" HEIGHT="60" WIDTH="468"></a>');
+		document.write('</iframe>');
+	}
+</script><iframe src="/common/includes/ads.htm?type=banner/pageid=772351/width=468/height=60B/client=/area=ros/sector=nil/cityName=nil" noresize="" scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="468" height="60"><a href="http://ads.weather.ca/accipiter/adclick/SITE=twn/pageid=772351/AREA=ros/AAMSZ=468X60B/client=/SECTOR=nil/CITY=nil?" target="_top"><img src="http://ads.weather.ca/accipiter/nserver/SITE=twn/pageid=772351/AREA=ros/AAMSZ=468X60B/client=/SECTOR=nil/CITY=nil?" BORDER="0" HEIGHT="60" WIDTH="468"></a></iframe>
+</td>
+		<td width="300"><img src="/common/images/spacer.gif" width="300" height="1"></td>
+	</tr>
+</tbody></table>
+<script language="JavaScript1.2" src="/common/scripts/footerTWN.js"></script><table width="100%" cellpadding="0" cellspacing="0" border="0">        <tbody><tr height="30">        	<td class="BottomYellow1" width="60%" height="30"><!---<a href = /inter/stormline/ class="BottomYellow">--->If severe weather is happening in your area call our Stormline: 1-800-463-9463<!---</a>---></td>        	<td class="BottomYellow" width="10%"><a href="/inter/help/sitemap.htm" class="BottomYellow">Site Map</a></td>        	<td class="BottomYellow" width="10%"><a href="/inter/help/index.htm" class="BottomYellow">Help</a></td>        	<td class="BottomYellow" width="10%"><a href="/twn/contactinfo/contactus.htm" class="BottomYellow">Contact Us</a></td>        	<td class="BottomYellow" width="10%"><a href="https://web.archive.org/web/20031223122458/http://www.meteomedia.com" class="BottomYellow">En Français</a></td>        </tr>        <tr>        	<td class="BottomBlue" colspan="5" align="right">        		<table border="0" cellpadding="10" cellspacing="5" align="right">        			<tbody><tr>        				<td class="BottomBlue" height="20"><a href="/inter/help/privacy.htm" class="BottomBlue">Privacy&nbsp;Policy</a></td>        				<td class="BottomBlue"><a href="/twn/partners/data_attribution.htm" class="BottomBlue">Data&nbsp;Attribution</a></td>        				<td class="BottomBlue"><a href="https://web.archive.org/web/20031223122458/http://www.farmzone.com" class="BottomBlue">Farmzone.com</a></td>        				<td class="BottomBlue"><a href="/inter/help/copyright.htm" class="BottomBlue">©2020 The&nbsp;Weather&nbsp;Network</a></td>        			</tr>        		</tbody></table>        	</td>        </tr></tbody></table>
+
+		</td>
+	</tr>
+</tbody></table>
 
 
 </body></html>
