@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203091906id_/http%3A//reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308033620id_/http%3A//www.reference.com/help/privacy.html) for the most accurate reproduction.*
 
 # Reference.com/Privacy Policy
 
@@ -70,23 +70,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 > Lexico Publishing Group, LLC  
 >  Attn: Customer Service  
->  13428 Maxella Avenue #236  
->  Marina del Rey, CA 90292  
+>  65 Pine Avenue #319  
+>  Long Beach, CA 90802  
 >  [E-mail](https://web.archive.org/help/contact.html)
 
-|  | [**93% Satisfaction**](https://web.archive.org/go/http://achieve.phoenix.edu/banners.asp?revkey=3587)  
-See why thousands of professionals in your field advance their careers with University of Phoenix.  
----  
-Sponsored Link  
-  
-[**Free College Money**](https://web.archive.org/go/http://www.fastweb.com/ib/dictionary-2f)  
-Use FastWeb's free scholarship search to find information on more than 600,000 scholarships!  
----  
-Sponsored Link  
-  
-[**Unlimited Nationwide Calling**](https://web.archive.org/go/https://www.simpleservice.biz/register/simpleservice/wotdw3)  
-Flat Fee $49.95/mo. - No Contracts - Call Anyone, Anytime - No Hidden Fees - Activated In Minutes!  
----  
-Sponsored Link  
-  
-
+|  ADVERTISEMENT [ADVERTISE WITH US](https://web.archive.org/go/http://www.lexico.com/contact/ad/index.html?ref=ref)
