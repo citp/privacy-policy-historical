@@ -1,0 +1,420 @@
+<!--The following is the downloaded HTML source of the ingrambook.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205054915id_/http%3A//www.ingrambook.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Privacy Policy</title>
+<meta name="description" content="Statement of policy regarding the privacy of information supplied by users or collected by Ingram Book Group in the operation of this site.">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/javascript">
+//<!--
+// Ultimate client-side JavaScript client sniff. Version 3.03
+// (C) Netscape Communications 1999.  Permission granted to reuse and distribute.
+// Revised 17 May 99 to add is_nav5up and is_ie5up (see below).
+// Revised 20 Dec 00 to add is_gecko and change is_nav5up to is_nav6up
+//                      also added support for IE5.5 Opera4&5 HotJava3 AOLTV
+// Revised 22 Feb 01 to correct Javascript Detection for IE 5.x, Opera 4, 
+//                      correct Opera 5 detection
+//                      add support for winME and win2k
+//                      synch with browser-type-oo.js
+// Revised 26 Mar 01 to correct Opera detection
+// Revised 02 Oct 01 to add IE6 detection
+
+// Everything you always wanted to know about your JavaScript client
+// but were afraid to ask. Creates "is_" variables indicating:
+// (1) browser vendor:
+//     is_nav, is_ie, is_opera, is_hotjava, is_webtv, is_TVNavigator, is_AOLTV
+// (2) browser version number:
+//     is_major (integer indicating major version number: 2, 3, 4 ...)
+//     is_minor (float   indicating full  version number: 2.02, 3.01, 4.04 ...)
+// (3) browser vendor AND major version number
+//     is_nav2, is_nav3, is_nav4, is_nav4up, is_nav6, is_nav6up, is_gecko, is_ie3,
+//     is_ie4, is_ie4up, is_ie5, is_ie5up, is_ie5_5, is_ie5_5up, is_ie6, is_ie6up, is_hotjava3, is_hotjava3up,
+//     is_opera2, is_opera3, is_opera4, is_opera5, is_opera5up, is_aol3, is_aol4, is_aol5, is_aol6
+// (4) JavaScript version number:
+//     is_js (float indicating full JavaScript version number: 1, 1.1, 1.2 ...)
+// (5) OS platform and version:
+//     is_win, is_win16, is_win32, is_win31, is_win95, is_winnt, is_win98, is_winme, is_win2k
+//     is_os2
+//     is_mac, is_mac68k, is_macppc
+//     is_unix
+//     is_sun, is_sun4, is_sun5, is_suni86
+//     is_irix, is_irix5, is_irix6
+//     is_hpux, is_hpux9, is_hpux10
+//     is_aix, is_aix1, is_aix2, is_aix3, is_aix4
+//     is_linux, is_sco, is_unixware, is_mpras, is_reliant
+//     is_dec, is_sinix, is_freebsd, is_bsd
+//     is_vms
+//
+// See http://www.it97.de/JavaScript/JS_tutorial/bstat/navobj.html and
+// http://www.it97.de/JavaScript/JS_tutorial/bstat/Browseraol.html
+// for detailed lists of userAgent strings.
+//
+// Note: you don't want your Nav4 or IE4 code to "turn off" or
+// stop working when new versions of browsers are released, so
+// in conditional code forks, use is_ie5up ("IE 5.0 or greater") 
+// is_opera5up ("Opera 5.0 or greater") instead of is_ie5 or is_opera5
+// to check version in code which you want to work on future
+// versions.
+
+    // convert all characters to lowercase to simplify testing
+    var agt=navigator.userAgent.toLowerCase();
+
+    // *** BROWSER VERSION ***
+    // Note: On IE5, these return 4, so use is_ie5up to detect IE5.
+    var is_major = parseInt(navigator.appVersion);
+    var is_minor = parseFloat(navigator.appVersion);
+
+    // Note: Opera and WebTV spoof Navigator.  We do strict client detection.
+    // If you want to allow spoofing, take out the tests for opera and webtv.
+    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+                && (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1));
+    var is_nav2 = (is_nav && (is_major == 2));
+    var is_nav3 = (is_nav && (is_major == 3));
+    var is_nav4 = (is_nav && (is_major == 4));
+    var is_nav4up = (is_nav && (is_major >= 4));
+    var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) ||
+                          (agt.indexOf("; nav") != -1)) );
+    var is_nav6 = (is_nav && (is_major == 5));
+    var is_nav6up = (is_nav && (is_major >= 5));
+    var is_gecko = (agt.indexOf('gecko') != -1);
+
+
+    var is_ie     = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+    var is_ie3    = (is_ie && (is_major < 4));
+    var is_ie4    = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
+    var is_ie4up  = (is_ie && (is_major >= 4));
+    var is_ie5    = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
+    var is_ie5_5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.5") !=-1));
+    var is_ie5up  = (is_ie && !is_ie3 && !is_ie4);
+    var is_ie5_5up =(is_ie && !is_ie3 && !is_ie4 && !is_ie5);
+    var is_ie6    = (is_ie && (is_major == 4) && (agt.indexOf("msie 6.")!=-1) );
+    var is_ie6up  = (is_ie && !is_ie3 && !is_ie4 && !is_ie5 && !is_ie5_5);
+
+    // KNOWN BUG: On AOL4, returns false if IE3 is embedded browser
+    // or if this is the first browser window opened.  Thus the
+    // variables is_aol, is_aol3, and is_aol4 aren't 100% reliable.
+    var is_aol   = (agt.indexOf("aol") != -1);
+    var is_aol3  = (is_aol && is_ie3);
+    var is_aol4  = (is_aol && is_ie4);
+    var is_aol5  = (agt.indexOf("aol 5") != -1);
+    var is_aol6  = (agt.indexOf("aol 6") != -1);
+
+    var is_opera = (agt.indexOf("opera") != -1);
+    var is_opera2 = (agt.indexOf("opera 2") != -1 || agt.indexOf("opera/2") != -1);
+    var is_opera3 = (agt.indexOf("opera 3") != -1 || agt.indexOf("opera/3") != -1);
+    var is_opera4 = (agt.indexOf("opera 4") != -1 || agt.indexOf("opera/4") != -1);
+    var is_opera5 = (agt.indexOf("opera 5") != -1 || agt.indexOf("opera/5") != -1);
+    var is_opera5up = (is_opera && !is_opera2 && !is_opera3 && !is_opera4);
+
+    var is_webtv = (agt.indexOf("webtv") != -1); 
+
+    var is_TVNavigator = ((agt.indexOf("navio") != -1) || (agt.indexOf("navio_aoltv") != -1)); 
+    var is_AOLTV = is_TVNavigator;
+
+    var is_hotjava = (agt.indexOf("hotjava") != -1);
+    var is_hotjava3 = (is_hotjava && (is_major == 3));
+    var is_hotjava3up = (is_hotjava && (is_major >= 3));
+
+    // *** JAVASCRIPT VERSION CHECK ***
+    var is_js;
+    if (is_nav2 || is_ie3) is_js = 1.0;
+    else if (is_nav3) is_js = 1.1;
+    else if (is_opera5up) is_js = 1.3;
+    else if (is_opera) is_js = 1.1;
+    else if ((is_nav4 && (is_minor <= 4.05)) || is_ie4) is_js = 1.2;
+    else if ((is_nav4 && (is_minor > 4.05)) || is_ie5) is_js = 1.3;
+    else if (is_hotjava3up) is_js = 1.4;
+    else if (is_nav6 || is_gecko) is_js = 1.5;
+    // NOTE: In the future, update this code when newer versions of JS
+    // are released. For now, we try to provide some upward compatibility
+    // so that future versions of Nav and IE will show they are at
+    // *least* JS 1.x capable. Always check for JS version compatibility
+    // with > or >=.
+    else if (is_nav6up) is_js = 1.5;
+    // NOTE: ie5up on mac is 1.4
+    else if (is_ie5up) is_js = 1.3
+
+    // HACK: no idea for other browsers; always check for JS version with > or >=
+    else is_js = 0.0;
+
+    // *** PLATFORM ***
+    var is_win   = ( (agt.indexOf("win")!=-1) || (agt.indexOf("16bit")!=-1) );
+    // NOTE: On Opera 3.0, the userAgent string includes "Windows 95/NT4" on all
+    //        Win32, so you can't distinguish between Win95 and WinNT.
+    var is_win95 = ((agt.indexOf("win95")!=-1) || (agt.indexOf("windows 95")!=-1));
+
+    // is this a 16 bit compiled version?
+    var is_win16 = ((agt.indexOf("win16")!=-1) || 
+               (agt.indexOf("16bit")!=-1) || (agt.indexOf("windows 3.1")!=-1) || 
+               (agt.indexOf("windows 16-bit")!=-1) );  
+
+    var is_win31 = ((agt.indexOf("windows 3.1")!=-1) || (agt.indexOf("win16")!=-1) ||
+                    (agt.indexOf("windows 16-bit")!=-1));
+
+    var is_winme = ((agt.indexOf("win 9x 4.90")!=-1));
+    var is_win2k = ((agt.indexOf("windows nt 5.0")!=-1));
+
+    // NOTE: Reliable detection of Win98 may not be possible. It appears that:
+    //       - On Nav 4.x and before you'll get plain "Windows" in userAgent.
+    //       - On Mercury client, the 32-bit version will return "Win98", but
+    //         the 16-bit version running on Win98 will still return "Win95".
+    var is_win98 = ((agt.indexOf("win98")!=-1) || (agt.indexOf("windows 98")!=-1));
+    var is_winnt = ((agt.indexOf("winnt")!=-1) || (agt.indexOf("windows nt")!=-1));
+    var is_win32 = (is_win95 || is_winnt || is_win98 || 
+                    ((is_major >= 4) && (navigator.platform == "Win32")) ||
+                    (agt.indexOf("win32")!=-1) || (agt.indexOf("32bit")!=-1));
+
+    var is_os2   = ((agt.indexOf("os/2")!=-1) || 
+                    (navigator.appVersion.indexOf("OS/2")!=-1) ||   
+                    (agt.indexOf("ibm-webexplorer")!=-1));
+
+    var is_mac    = (agt.indexOf("mac")!=-1);
+    // hack ie5 js version for mac
+    if (is_mac && is_ie5up) is_js = 1.4;
+    var is_mac68k = (is_mac && ((agt.indexOf("68k")!=-1) || 
+                               (agt.indexOf("68000")!=-1)));
+    var is_macppc = (is_mac && ((agt.indexOf("ppc")!=-1) || 
+                                (agt.indexOf("powerpc")!=-1)));
+
+    var is_sun   = (agt.indexOf("sunos")!=-1);
+    var is_sun4  = (agt.indexOf("sunos 4")!=-1);
+    var is_sun5  = (agt.indexOf("sunos 5")!=-1);
+    var is_suni86= (is_sun && (agt.indexOf("i86")!=-1));
+    var is_irix  = (agt.indexOf("irix") !=-1);    // SGI
+    var is_irix5 = (agt.indexOf("irix 5") !=-1);
+    var is_irix6 = ((agt.indexOf("irix 6") !=-1) || (agt.indexOf("irix6") !=-1));
+    var is_hpux  = (agt.indexOf("hp-ux")!=-1);
+    var is_hpux9 = (is_hpux && (agt.indexOf("09.")!=-1));
+    var is_hpux10= (is_hpux && (agt.indexOf("10.")!=-1));
+    var is_aix   = (agt.indexOf("aix") !=-1);      // IBM
+    var is_aix1  = (agt.indexOf("aix 1") !=-1);    
+    var is_aix2  = (agt.indexOf("aix 2") !=-1);    
+    var is_aix3  = (agt.indexOf("aix 3") !=-1);    
+    var is_aix4  = (agt.indexOf("aix 4") !=-1);    
+    var is_linux = (agt.indexOf("inux")!=-1);
+    var is_sco   = (agt.indexOf("sco")!=-1) || (agt.indexOf("unix_sv")!=-1);
+    var is_unixware = (agt.indexOf("unix_system_v")!=-1); 
+    var is_mpras    = (agt.indexOf("ncr")!=-1); 
+    var is_reliant  = (agt.indexOf("reliantunix")!=-1);
+    var is_dec   = ((agt.indexOf("dec")!=-1) || (agt.indexOf("osf1")!=-1) || 
+           (agt.indexOf("dec_alpha")!=-1) || (agt.indexOf("alphaserver")!=-1) || 
+           (agt.indexOf("ultrix")!=-1) || (agt.indexOf("alphastation")!=-1)); 
+    var is_sinix = (agt.indexOf("sinix")!=-1);
+    var is_freebsd = (agt.indexOf("freebsd")!=-1);
+    var is_bsd = (agt.indexOf("bsd")!=-1);
+    var is_unix  = ((agt.indexOf("x11")!=-1) || is_sun || is_irix || is_hpux || 
+                 is_sco ||is_unixware || is_mpras || is_reliant || 
+                 is_dec || is_sinix || is_aix || is_linux || is_bsd || is_freebsd);
+
+    var is_vms   = ((agt.indexOf("vax")!=-1) || (agt.indexOf("openvms")!=-1));
+if(is_win) {
+    document.writeln("<link href='http://www.ingrambook.com/style.css' rel='stylesheet' type='text/css'>")}
+else if(is_mac){
+	document.writeln("<link href='http://www.ingrambook.com/style2.css' rel='stylesheet' type='text/css'>")}
+	
+//-->
+</script>
+
+</head>
+<body leftmargin="0" topmargin="0">
+<table width="775" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td height="110" rowspan="4"><a href="http://www.ingrambook.com/"><img src="images/nav/s_home_top1.gif" width="158" height="110" border="0"></a></td>
+    <td height="110" rowspan="4"><img src="images/nav/s_home_top2.gif" width="22" height="110"></td>
+    <td rowspan="4"><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<span onload="MM_preloadImages('http://www.ingrambook.com/images/nav/s_on.gif','http://www.ingrambook.com/images/nav/n_on.gif','http://www.ingrambook.com/images/nav/p_on.gif','http://www.ingrambook.com/images/nav/c_on.gif','http://www.ingrambook.com/images/nav/i_on.gif')"> 
+<table width="354" height="110" border="0" cellpadding="0" cellspacing="0">
+  <!-- fwtable fwsrc="bookmarks_inside_NEW4.png" fwbase="programs2.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+  <tbody><tr> 
+    <td rowspan="4"><a href="http://www.ingrambook.com/start/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','http://www.ingrambook.com/images/nav/s_on.gif',1)"><img src="http://www.ingrambook.com/images/nav/s_off.gif" name="Image16" width="36" height="110" border="0"></a></td>
+    <td rowspan="4"><img src="http://www.ingrambook.com/images/nav/space1.gif" width="28" height="110"></td>
+    <td rowspan="4"><a href="http://www.ingrambook.com/new/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','http://www.ingrambook.com/images/nav/n_on.gif',1)"><img src="http://www.ingrambook.com/images/nav/n_off.gif" name="Image17" width="43" height="110" border="0"></a></td>
+    <td rowspan="4"><img src="http://www.ingrambook.com/images/nav/space2.gif" width="23" height="110"></td>
+    <td rowspan="4"><a href="http://www.ingrambook.com/programs/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','http://www.ingrambook.com/images/nav/p_on.gif',1)"><img src="http://www.ingrambook.com/images/nav/p_off.gif" name="Image18" width="63" height="110" border="0"></a></td>
+    <td rowspan="4"><img src="http://www.ingrambook.com/images/nav/space3.gif" width="19" height="110"></td>
+    <td rowspan="4"><a href="http://www.ingrambook.com/careers/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','http://www.ingrambook.com/images/nav/c_on.gif',1)"><img src="http://www.ingrambook.com/images/nav/c_off.gif" name="Image19" width="59" height="110" border="0"></a></td>
+    <td rowspan="4"><img src="http://www.ingrambook.com/images/nav/space4.gif" width="18" height="110"></td>
+    <td rowspan="4"><a href="http://www.ingrambook.com/insights/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','http://www.ingrambook.com/images/nav/i_on.gif',1)"><img src="http://www.ingrambook.com/images/nav/i_off.gif" name="Image20" width="65" height="110" border="0"></a></td>
+  </tr>
+  <tr> </tr>
+  <tr> </tr>
+  <tr> </tr>
+</tbody></table>
+</span>
+</td>
+    <td height="110" rowspan="4"><img src="images/nav/vrule_top.gif" width="5" height="110"></td>
+    <td height="70" align="center" valign="middle"><a href="http://www.ingramperiodicals.com" target="_blank"><img src="http://www.ingrambook.com/images/banner/IPI_banner.gif" alt="Increase profits with magazines! Visit IPI Web site." width="210" height="50" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td height="5"><img src="images/nav/hrule_top.gif" width="236" height="5"></td>
+  </tr>
+  <tr> 
+    <td height="32"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="1"><img src="images/nav/search.gif" height="32"></td>
+          <td><form name="form99" method="post" action="http://www.ingrambook.com/search.asp">
+              <input name="searchstring" type="text" class="textbox" id="searchstring" size="20">
+              <input name="Submit" type="submit" class="textbox" value="GO">
+            </form>
+</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td height="3"><img src="images/nav/hrule_bot.gif" width="236" height="3"></td>
+  </tr>
+  <tr> 
+    <td width="158" height="449" align="left" valign="top"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td height="449" align="left" valign="top" background="images/nav/s_home_mid.gif">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="5" height="85"><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="5" height="85"></td>
+    <td height="85">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="5">&nbsp;</td>
+    <td><a href="http://www.ingrambook.com/start/default.asp" class="blacklink1">Start Here</a></td>
+  </tr>
+  <tr>
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="20"></td>
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="20"></td>
+  </tr>
+  <tr> 
+    <td width="5">&nbsp;</td>
+    <td><a href="http://www.ingrambook.com/start/mission.asp" class="blacklink1">Mission</a></td>
+  </tr>
+  <tr> 
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="5"></td>
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="5"></td>
+  </tr>
+  <tr> 
+    <td width="5">&nbsp;</td>
+    <td><a href="http://www.ingrambook.com/start/history.asp" class="blacklink1">History</a></td>
+  </tr>
+  <tr> 
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="5"></td>
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="5"></td>
+  </tr>
+  <tr> 
+    <td width="5">&nbsp;</td>
+    <td><a href="http://www.ingrambook.com/start/org.asp" class="blacklink1">Organization</a></td>
+  </tr>
+  <tr> 
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="5"></td>
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="5"></td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td><a href="http://www.ingrambook.com/start/facts.asp" class="blacklink1">Fast 
+      Facts </a></td>
+  </tr>
+  <tr> 
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="5"></td>
+    <td><img src="http://www.ingrambook.com/images/nav/spacer.gif" width="1" height="5"></td>
+  </tr>
+  <tr> 
+    <td width="5">&nbsp;</td>
+    <td><a href="http://www.ingrambook.com/contact.asp" class="blacklink1">Contact 
+      Us</a></td>
+  </tr>
+</tbody></table>
+</td>
+        </tr>
+        <tr> 
+          <td height="100%" align="left" valign="top" background="images/nav/s_home_var.gif">&nbsp;</td>
+        </tr>
+      </tbody></table>
+	  </td>
+    <td height="449" colspan="4" rowspan="2" align="left" valign="top">
+	       <table width="100%" border="0" cellspacing="0" cellpadding="5">
+           <tbody><tr> 
+           <td><img src="images/nav/spacer.gif" width="1" height="10"></td>
+           </tr>
+           <tr> 
+          <td><h2>Privacy Policy</h2></td>
+         </tr>
+        <tr> 
+          <td> <p>This Privacy Policy explains the policy of Ingram Customer Systems 
+              Inc. ("INGRAM") regarding the privacy of information supplied 
+              by USERS of ingrambook.com (the "SITE") or collected by 
+              INGRAM from SITE USERS. INGRAM intends to build USER trust and confidence 
+              in the SITE and is committed to protecting USER privacy. </p>
+            <h4>User Information</h4>
+            <p>The SITE server automatically recognizes the Internet URL from 
+              which a visitor is accessing the SITE. INGRAM may log a USER's IP 
+              address for system administration and troubleshooting purposes. 
+              (A USER's IP address indicates the location of the USER's computer 
+              on the Internet.) </p>
+            <p>Other than disclosing the information described within this privacy policy, INGRAM does not disclose a USER's specific information to third
+               parties. INGRAM does, however, identify a USER in connection with
+              
+              its use of certain aspects of the SITE. For example, INGRAM may
+               identify a USER with any e-mail message that a USER sends through
+              the SITE.</p>
+            <h4>Marketing</h4>
+            <p> We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes page visits, paths and purchases. By supplementing our records, this information helps us better serve our customers. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this web site analysis tool by <a href="http://optout.ingram.rpts.net/cgi-bin/rpts/optout.pl">clicking here</a>. INGRAM does not sell or rent any USER's personal and confidential business information to any third party.</p>
+            <h4>Cookies</h4>
+            <p>The SITE employs "cookies" to speed navigation of the Web site, recognize each USER and his or her access privileges, and track a USER's site usage. "Cookies" are small pieces of information that are stored by a USER's Internet browser on a USER's computer's hard drive. Most Internet browsers are initially set to accept cookies. A USER can set his or her browser to refuse cookies, but the USER will not be able to use the SITE. The SITE's cookies do not have the capability of infiltrating a USER's hard drive and gathering a USER's personal and confidential business information.</p>            
+            <h4>
+              Ingram cannot guarantee complete security, as it does not exist 
+              on the Internet.<br>
+&nbsp;            </h4>
+           
+            <h4>Updates To This Policy</h4>
+            <p>If INGRAM decides to change or update this Privacy Policy, it will 
+              post those changes and updates on this page so that the USER is 
+              always aware of what information INGRAM collects, how it uses that 
+              information, and under what circumstances INGRAM discloses it. INGRAM 
+              encourages each USER to review this Privacy Policy from time to 
+              time so USERS will know if the Privacy Policy has been updated or 
+              amended. If you have any questions about the SITE's Privacy Policy, 
+              please contact INGRAM at ics-techsupport@ingrambook.com. </p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+      </tbody></table>
+	  </td>
+  </tr>
+  <tr> 
+    <td background="images/nav/s_home_var.gif">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td height="40"><img src="images/nav/s_home_bot.gif" width="158" height="40"></td>
+    <td height="40" colspan="4" align="left" valign="top" class="footer"><a href="http://www.ingrambook.com/privacy.asp" class="bluelink1">Privacy 
+      Policy</a>&nbsp;&nbsp;&nbsp;<a href="http://www.ingrambook.com/contact.asp" class="bluelink1">Contact 
+      Us</a>&nbsp;&nbsp;&nbsp;<a href="https://ipage.ingrambook.com" class="bluelink1" target="_ipage">ipage.ingrambook.com</a><br> 
+    © Copyright 2000 - 2003 Ingram Book Group. All Rights Reserved.</td>
+  </tr>
+</tbody></table>
+
+
+<img src="http://ingram.rpts.net/sa;src=970325;ord=25463283061981?;pgnm=IBG%3A+Privacy+Policy;sect=ibg;pgurl=http%3A%2F%2Fwww%2Eingrambook%2Ecom%2Fprivacy%2Easp;ref=" width="1" height="1" border="0"></body></html>
