@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207050427id_/http%3A//www.loudoun.gov/general/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604182748id_/http%3A//www.loudoun.gov/general/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Practices and Security Policy
 
   
 Loudoun County Government respects your privacy! The information below explains how the County gathers information on this web site and the technology the County uses to ensure that your  information is private and secure. 
 
-#### Collecting Information
+Collecting Information
 
 **
   1. What information is collected?
@@ -33,12 +33,12 @@ The County analyzes the web site activity by tracking visitor movements through 
 
 The information that you provide in an online form or email message is used solely to fulfill your online request.
 
-The County does not share, sell, or trade any information collected on this web site.
+The County does not share, sell, or trade any information collected on this web site; however, please be aware that pursuant to Virginia Code section 2.2-3700 _et seq._ (Virginia Freedom of Information Act), information you provide may be considered to be a public record and subject to disclosure if requested by a citizen of the Commonwealth of Virginia or a media outlet broadcasting or publishing within the Commonwealth. 
 
 
 **
 
-####  Providing External Links
+##### Providing External Links
 
 **
 
@@ -48,7 +48,7 @@ When a link on the County's web site directs you to a third party's site, the Co
 
 **
 
-####  Ensuring Confidentiality
+##### Ensuring Confidentiality
 
 **
 
@@ -56,8 +56,8 @@ The County utilizes a system of hardware and software known as a "firewall" to r
 
 **
 
-####  Sending Your Comments
+##### Sending Your Comments
 
 **
 
-If you have questions regarding this privacy statement, the practices of the County's web site, or your interaction with the County's web site please contact the **[Webmaster](mailto:webmaster@co.loudoun.va.us) **( **[webmaster@loudoun.gov](mailto:webmaster@co.loudoun.va.us)** ).
+If you have questions regarding this privacy statement, the practices of the County's web site, or your interaction with the County's web site please contact the **[Webmaster](mailto:webmaster@co.loudoun.va.us) **( **[webmaster@loudoun.gov](mailto:webmaster@co.loudoun.va.us)** ). 
