@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208201800id_/http%3A//cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405001948id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
 
 # CyberAstro.com - Vedic Astrology for the new Millennium
 
-  |  This confirms that Cyber Astro Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [http://www.cyberastro.com](http://www.cyberastro.com/)
+  |  [](https://www.truste.org/validate/6237) This confirms that Cyber Astro Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [http://www.cyberastro.com](http://www.cyberastro.com/)
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of :
 
@@ -137,5 +137,5 @@ Cyber Astro, Inc.
 27108 Fielding Drive  
 Hayward, CA 94542  
 [runa@cyberastro.com](mailto:runa@cyberastro.com)  
-Phone: 510.708.3177  
+Phone: 510.581.6699  
 Fax: 510.581.0287**
