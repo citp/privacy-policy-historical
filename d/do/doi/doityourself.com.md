@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619003701id_/http%3A//doityourself.com/services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206190700id_/http%3A//doityourself.com/services/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -80,6 +80,6 @@ We may amend this Privacy Policy on a prospective basis (i.e., for future visits
 This Privacy Statement is effective January 4, 2000.  
 
 
-[](http://bbs.doityourself.com/cgi-bin/Ultimate.cgi)
+[](http://forum.doityourself.com/index.php)
 
 |  | 
