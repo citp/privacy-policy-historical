@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611205656id_/http%3A//www.ebookers.com/helpandinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205194400id_/http%3A//www.ebookers.com/helpandinfo/privacy.html) for the most accurate reproduction.*
 
 # ebookers.com - Privacy Statement
 
@@ -63,6 +63,8 @@ We do not sell customer names or other private profile information to third part
 We at ebookers.com are constantly researching the latest in technology to ensure that we are able to give you the most effective, informative and enjoyable experience on our site. An integral part of this is the use of permanent cookies. A cookie is a small text file that our site may send to your hard drive when you are logged on to the ebookers site. When you next visit ebookers, our site may request the retrieval of one of these cookies, and the information received will personalise our content, offers and services to suit your individual travel preferences. 
 
 If you want to know when our site is using a cookie from your hard drive, you can set your browser to send you an alert. If you prefer to use our site without utilising cookies, you can set your browser to not accept them at all, however, they will make your life easier. Many web sites are employing this cookie technology and cookies are never to be used to store information of a private nature, such as credit card numbers. Also, you can be assured that the information stored in any cookies initiated by ebookers cannot be accessed by any other web sites. 
+
+ebookers.com works with a third party to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by ebookers.com and does not cover the use of cookies by any advertisers. ebookers.com does not have control, nor access to the information contained in its advertisers' cookies. To find out more about how DoubleClick, Inc. manages the privacy of information in conjunction with serving ads on this site go to [www.doubleclick.net](https://web.archive.org/web/20001205194400id_/http%3A//www.ebookers.com/helpandinfo/www.doubleclick.net)
 
 **Links**
 
