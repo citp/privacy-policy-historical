@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bareback.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604061320id_/http%3A//www.bareback.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareback.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062027id_/http%3A//www.bareback.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome To Bareback.com
 
 Our Commitment To Privacy Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. The Information We Collect: 
 
-When you join the membership portion of our web site you are asked to provide your name, address, e-mail, username and password, credit card number and expiration date, and birth date. When you participate in special events such as contests and polls, you may be asked to provide your name, e-mail, username and password, and birth date. 
+When you join the membership portion of our web site you are asked to provide your name, address, e-mail, username, password and birth date. When you participate in special events such as contests and polls, you may be asked to provide your name, e-mail, username and password, and birth date. 
 
 When users request pages from our server, our Web server automatically collects some information about the users, including their IP addresses. We also collect information regarding your use of our site through the use of cookies. If you send us personal correspondence, such as emails or letters, we may collect such information into a file specific to you. We will maintain a record or notes of communications with you regarding your account.
 
