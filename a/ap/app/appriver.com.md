@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207052500id_/http%3A//www.appriver.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605113131id_/http%3A//www.appriver.com/privacy.htm) for the most accurate reproduction.*
 
 # Appriver
 
 _**AppRiver's Privacy Policy**_
 
-| [ ](https://web.archive.org/web/20021207052500id_/http%3A//www.appriver.com/Default.htm)  
+| [ ](https://web.archive.org/web/20030605113131id_/http%3A//www.appriver.com/Default.htm)  
 ---|---  
   
 AppRiver places the privacy, security and protection of our customer’s (and prospective customer’s) data and information as our number one priority.  Because AppRiver wants to demonstrate its commitment to our users’ privacy, we have disclosed our information collection and management practices on this page. 
@@ -15,7 +15,7 @@ If you should have questions or concerns regarding this statement, please contac
 
 AppRiver LLC is the **ABSOLUTE SOLE** **OWNER** of the information collected on www.appriver.com with **NO EXCEPTIONS**.  We do **NOT** and will **NOT** share **ANY** information from our customers (or prospective customers) to any third party.
 
-One Time Email Address Usage   
+One Time Email Address Usage    
 AppRiver does **NOT** send out email marketing about any of our products.  We will **NOT** add your email address to ANY sort of monthly newsletters or email promotions.  All email communications are one time and are only pertinent to customer service related issues.
 
 Demo Request and Additional Information Forms
@@ -36,16 +36,11 @@ Like most standard Web site servers we use log files.  This includes internet p
 
 **Communications from the Site**
 
-Newsletter  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.  Out of respect for our users privacy we provide a way to opt-out of these communications.   
-
 Service Announcements  
 On rare occasions it is necessary to send out a strictly service related announcement.  For instance, if we add additional features or discontinue features to our service we might send users an email.  Generally, users may not opt-out of these communications, though they can deactivate their account.  However, these communications are not promotional in nature. 
 
 Customer Service  
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user’s wishes.
-
-Users who no longer wish to receive our newsletter communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [ support@appriver.com](mailto:support@appriver.com). 
 
 Third Party Intermediaries  
 AppRiver LLC uses an outside company for credit card processing to bill users for services.  These companies do NOT retain, share, store or use personally identifiable information for any secondary purposes.
@@ -64,8 +59,6 @@ While we use SSL encryption to protect sensitive information online, we also do 
 If users have any questions about the security at our Web site, users can send an email to [support@appriver.com](mailto:support@appriver.com). 
 
 Supplementation of Information 
-
-In order for AppRiver to properly fulfill its obligation to users it may be necessary for us to supplement the information we receive with information from 3rd party sources. 
 
 Address Verification  
 We use the local directory information services to verify a user’s address and to verify that the company applying for our service is indeed who they claim to be.   
