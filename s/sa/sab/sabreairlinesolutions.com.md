@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabreairlinesolutions.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601144151id_/http%3A//www.sabreairlinesolutions.com/sas_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabreairlinesolutions.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008051851id_/http%3A//www.sabreairlinesolutions.com/sas_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Thank you for taking the time to review our privacy policy for this Web site. Sa
 
 **SABRE INC. DATA PRIVACY POLICY**
 
-_Click here to view Sabre Inc.'s Data Privacy Policy_ (English) _Datenschutzregelung von Sabre Inc._ (German) _Politica di Sabre Inc. sulla riservatezza dei dati_ (Italian) _Politique de Sabre Inc. en matière de confidentialité des données_ (French) _Normas de privacidad sobre información de Sabre Inc._ (Spanish) _Política de privacidade de dados do Sabre Inc._ (Portuguese) _Sabre Inc. datasekretesspolicy_ (Swedish) _Δήλωση προστασίας προσωπικών δεδομένων της Sabre Inc._ (Greek)
+_Click here to view Sabre Inc.'s Data Privacy Policy_ (English) _Richtlinien zum Datenschutz für Sabre Inc._ (German) _Norme sulla riservatezza dei dati di Sabre Inc._ (Italian) _Politique de confidentialité des données Sabre_ (French) _Reglamentos de protección de datos de Sabre, Inc._ (Spanish) _Política de privacidade de dados do Sabre Inc._ (Portuguese) _Sabre Inc. datasekretesspolicy_ (Swedish) _Δήλωση προστασίας προσωπικών δεδομένων της Sabre Inc._ (Greek)
 
 **SABRE AIRLINE SOLUTIONS (SABREAIRLINESOLUTIONS.COM) POLICY**
 
