@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212230542id_/http%3A//www.nraila.org/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nraila.org privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624033503id_/http%3A//nraila.org/security.asp) for the most accurate reproduction.*
 
 # Security and Privacy Policy
 
@@ -23,7 +23,7 @@ COOKIES
 "Cookies" are small files downloaded to your hard drive that enable your browser to save and recall information.  NRA-ILA uses cookies in a responsible manner to help our visitors quickly and easily navigate our site.  We do not collect or use this information from cookies to develop a profile about our members and other site visitors.
 
 ENFORCEMENT   
-If you believe NRA-ILA has not adhered to the above principles, please notify us by visiting our [contact page](https://web.archive.org/web/20021212230542id_/http%3A//www.nraila.org/contact.asp).
+If you believe NRA-ILA has not adhered to the above principles, please notify us by visiting our [contact page](https://web.archive.org/web/20030624033503id_/http%3A//nraila.org/contact.asp).
 
 NOTICE TO PARENTS   
 We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
