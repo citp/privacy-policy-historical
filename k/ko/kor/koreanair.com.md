@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreanair.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204031152id_/http%3A//www.koreanair.com/local/na/eng/ld/btm/pi/privacyinfo.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreanair.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604162507id_/http%3A//www.koreanair.com/local/na/eng/ld/btm/pi/privacyinfo.htm) for the most accurate reproduction.*
 
 # Welcome to Korean Air
 
