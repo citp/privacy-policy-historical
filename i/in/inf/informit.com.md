@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602232911id_/http%3A//informit.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207114737id_/http%3A//www.informit.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://www.truste.org/ivalidate.php?url=www.informit.com)
-
-InformIT is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.informit.com.
-
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
-
-  1. What personally identifiable information of yours or third party personal identification is collected from you through the web site.
-  2. The organization collecting the information.
-  3. How the information is used.
-  4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information.
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under InformIT's control.
-  7. How you can correct any inaccuracies in the information.
-
-
-
-If you feel that this company is not abiding by its posted privacy policy, you should first contact our customer service department by e-mailing [comments@informit.com](mailto:comments@informit.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.TRUSTe.org/users/users_watchdog.php](http://www.truste.org/users/users_watchdog.php). TRUSTe will then serve as a liaison with the web site to resolve your concerns. However, please understand that the TRUSTe program covers only information that is collected through this web site, and does not cover information that may be collected through software downloaded from the site.
 
 We make every effort to preserve user privacy, however we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
 
@@ -38,7 +20,7 @@ We would like to remind our users that any Personally Identifiable Information t
 
 ## Registration
 
-In order to use certain areas of this site, a user must first complete the registration form. During registration a user is required to give his or her e-mail address. This e-mail address is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as your job, technical interests, etc.), but encouraged so we can provide a more personalized experience on our site.
+In order to use certain areas of this site, a user must first complete the registration form. During registration, a user is required to give his or her e-mail address, which can be used to contact the user about the services on our site for which they have expressed interest. The user is also required to provide demographic information, such as your job, technical interests, etc.
 
 ## Order
 
@@ -70,7 +52,7 @@ This web site contains links to other sites. Please be aware that we (InformIT.c
 
 ## Newsletters
 
-If you have elected to receive e-mail newsletters but want to unsubscribe, simply visit the following page and uncheck the newsletters you would no longer like to receive: [http://www.informit.com/u.asp](https://web.archive.org/u.asp)
+If you have elected to receive e-mail newsletters but want to unsubscribe, simply visit the following page, enter your email address in the field supplied, and click on the Submit button. On the resulting page, check the newsletters you would no longer like to receive, and click the Unsubscribe button: [http://www.informit.com/u.asp](https://web.archive.org/u.asp)
 
 ## Service Announcements
 
