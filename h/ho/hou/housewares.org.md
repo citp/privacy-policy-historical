@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housewares.org privacy policy that was archived on 2001-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011030005025id_/http%3A//housewares.org/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housewares.org privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207223331id_/http%3A//housewares.org/site/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - housewares.org
 
