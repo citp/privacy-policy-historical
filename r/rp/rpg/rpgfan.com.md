@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811012817id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606043815id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
 
 # RPGFan - Privacy Policy
 
@@ -14,7 +14,7 @@
 [Fan Fiction](https://web.archive.org/fanfics.html)  
 [Lores](https://web.archive.org/lores.html)  
 [Editorials](https://web.archive.org/editorials.html)  
-[Message Boards](http://www.rpgfan.com/cgi-bin/ikonboard/ikonboard.cgi)  
+[Message Boards](http://www.rpgfan.com/boards/index.php)  
   
 [Soundtracks](https://web.archive.org/soundtracks1.html)  
 [RPGFan Radio](http://www.live365.com/stations/80941)  
@@ -23,11 +23,13 @@
 [Utilities](https://web.archive.org/utilities.html)  
 [Links](https://web.archive.org/links.html)  
 [Staff](https://web.archive.org/staff.html)  
-[Contact Us](mailto:RPGFan%20Webmasters%20%3Crpgfan@rpgfan.com%3E)   
+[Contact Us](https://web.archive.org/contactus.html)
+
 [](https://web.archive.org/donations/index.html)  
 [](http://www.cafepress.com/rpgfan/)  
 [](http://www.animedream.com/)  
-[](http://www.chudahs-corner.com/)  
+[](http://www.chudahs-corner.com/)
+
 |  | Privacy Policy  
 ---  
   
@@ -68,4 +70,4 @@ Cookies
 Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by RPGFan, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. RPGFan does not save passwords or credit card information within Cookies, nor are our Cookies programs that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services.  
   
 |   
-© 2003 RPGFan - [Legal](https://web.archive.org/legal.html) \- [Privacy Policy](https://web.archive.org/privacy.html) \- [Advertising Info](https://web.archive.org/adinfo.html) | 
+© 1999-2004 RPGFan - [Legal](https://web.archive.org/legal.html) \- [Privacy Policy](https://web.archive.org/privacy.html) \- [Advertising Info](https://web.archive.org/adinfo.html) | 
