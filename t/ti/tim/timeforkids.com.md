@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211144040id_/http%3A//www.timeinc.net/legal/privacy/tfk_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606033039id_/http%3A//www.timeinc.net/legal/privacy/tfk_privacy.html) for the most accurate reproduction.*
 
 # Time for Kids | About Us
 
@@ -50,14 +50,16 @@ As mentioned in Section I, the only personally identifiable information we may c
 
 VII. Contact Us
 
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address, address and telephone number: 
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, or if you would like to opt-out of marketing communications from us and our partners, please contact us at the following e-mail address: 
 
-TIME For Kids  
-[privacy@timeforkids.com](mailto:privacy@timeforkids.com)  
-Time & Life Building  
-Rockefeller Center  
-New York, NY 10020  
-212-522-0948 
+[privacy@timeforkids.com](mailto:privacy@timeforkids.com)
+
+OR:
+
+TIME FOR KIDS CUSTOMER SERVICE   
+ATTENTION : CONSUMER AFFAIRS   
+3000 University Center Drive  
+Tampa, FL 33612-6408 
 
 VIII. A Final Note to Parents
 
