@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122646id_/http%3A//www.marketday.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209091916id_/http%3A//www.marketday.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Market Day: Order Online: Privacy Policy
 
@@ -7,11 +7,11 @@ This is the web site of Market Day Corporation ("Market Day") and the privacy po
 555 W. Pierce Road, Suite 200  
 Itasca, IL 60143-2647
 
-We can be reached via e-mail at [webmaster@marketday.com](mailto:webmaster@marketday.com) or you can reach us by telephone at 630-285-1470. Questions regarding this statement should be directed to Market Day Corporation. To return to the site, please use the "Back" button on your browser.
+We can be reached via e-mail at [webmaster@marketday.com](mailto:marketplace@marketday.com) or you can reach us by telephone at 630-285-1470. Questions regarding this statement should be directed to Market Day Corporation. To return to the site, please use the "Back" button on your browser.
 
 __****__
 
-__**Note:**__ Market Day does not buy, sell, rent or trade consumer mailing lists.
+__**Note:**__ Market Day does not sell, rent or trade consumer mailing lists.
 
 Market Day Corporation is strongly committed to protecting the privacy of consumers of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for consumers, and in particular, ensure that our young people's information is protected.
 
