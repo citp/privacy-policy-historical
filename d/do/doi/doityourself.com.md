@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618193414id_/http%3A//www.doityourself.com/services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203053029id_/http%3A//www.doityourself.com/services/privacypolicy.htm) for the most accurate reproduction.*
 
 # DoItYourself.com Privacy Statement
 
-**No time to Do-It-Yourself? For a Qualified Local Expert,[ Click Here!](http://www.servicemagic.com/servlet/RedirectServlet?m=doityourself&D=SUPERCAT&entry_point_id=38)**
+**No time to Do-It-Yourself? For a Qualified Local Expert,[ Click Here!](http://www.servicemagic.com/servlet/RedirectServlet?m=doityourself&D=HOME&entry_point_id=77)**
 
   
 
