@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalzoom.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/universal/privacy.html) for the most accurate reproduction.*
 
 # Privacy - We incorporate strict privacy policies to keep your personal and financial information secure.
 
 |  |  |  |  |   
 ---|---|---|---|---  
-[](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/index.html) |   
-[](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/index.html) |  [](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/advantage/advantage.html) |  [](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/legalzip/lw_procedure_main.html) |  [](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/law_library/library_home.html) |  [](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/telelawyer/telelayer.html) |  [](https://www.legalzoom.com/signin/signin.html) |   
+[](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/index.html) |   
+[](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/index.html) |  [](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/advantage/advantage.html) |  [](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/legalzip/lw_procedure_main.html) |  [](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/law_library/library_home.html) |  [](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/telelawyer/telelayer.html) |  [](https://www.legalzoom.com/signin/signin.html) |   
 |  |   
 |   
 ---  
@@ -28,6 +28,8 @@ LegalZoom only collects personally identifiable information you provide in order
 
 If, however, LegalZoom is required by law to comply with a valid legal requirement such as law, federal regulation, search warrant, subpoena or court order, LegalZoom may be required to release personal information. We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed. 
 
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
+
 LegalZoom currently retains personally identifiable information for a period of seven years. The reason for this lies in the fact that oftentimes, users will request their legal documents for revision and update purposes. If at anytime you wish to delete all of your personally identifiable information from our site, you may contact us at 
 
 [**customersupport@legalzoom.com**](mailto:customersupport@legalzoom.com) or you may reach us at (323) 962-8600. **Our Commitment To Data Security**
@@ -39,6 +41,6 @@ IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE US
 |   
 ---|---  
 |  |   
-[Home](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/index.html) [About Us](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/aboutus.html) [Contact](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/contact.html) [Press](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/press.html) [Privacy](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/privacy.html) [Disclaimer](https://web.archive.org/web/20030607104554id_/http%3A//www.legalzoom.com/universal/disclaimer.html) [Bookstore](http://www.legal.com/shop/?affilid=1002)  
+[Home](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/index.html) [About Us](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/universal/aboutus.html) [Contact](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/universal/contact.html) [Press](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/universal/press.html) [Privacy](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/universal/privacy.html) [Disclaimer](https://web.archive.org/web/20030812091423id_/http%3A//www.legalzoom.com/universal/disclaimer.html) [Bookstore](http://www.legal.com/shop/?affilid=1002)  
   
 
