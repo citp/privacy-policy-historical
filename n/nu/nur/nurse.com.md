@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nurse.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606191819id_/http%3A//nurse.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nurse.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202090132id_/http%3A//nurse.com/privacy.shtml) for the most accurate reproduction.*
 
 # Nursing: Nurse, RN, LPN, Health Career. Nurse.Com Is A Community For Nurses.
 
-|  |     |  [](http://www.nurse.com/cgi-local/redirect.cgi/dcbdb97a?REGION=ROS_Banner&CAMPAIGN=RNNetwork&ACCOUNT=RNnetwork&BANNER=rnnbanner1)  
+|  |     |  [](http://www.nurse.com/cgi-local/redirect.cgi/1996332c?REGION=ROS_Banner&CAMPAIGN=fastaff&ACCOUNT=fastaff&BANNER=fastaff)  
 ---|---  
 |  | **Search** | | | **Jump to a Section**|   
 ---|---|---|---|---  
