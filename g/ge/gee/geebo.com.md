@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204014154id_/http%3A//geebo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403152129id_/http%3A//www.geebo.com/privacy.htm) for the most accurate reproduction.*
 
 # Geebo - your local online community
 
@@ -58,6 +58,6 @@
 
 **Geebo  
 Customer Care - Privacy Policy Issues  
-7002 Tyndale St.  
+1350 Beverly Rd., Ste 115-218  
 McLean, VA 22101  
 (888) 235-3134**
