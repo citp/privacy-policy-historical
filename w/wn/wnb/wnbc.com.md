@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnbc.com privacy policy that was archived on 2003-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030916224817id_/http%3A//www.wnbc.com/news/1176131/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnbc.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405141519id_/http%3A//www.wnbc.com/news/1176131/detail.html) for the most accurate reproduction.*
 
 # wnbc.com - News - Online Privacy Statement
 
@@ -28,13 +28,21 @@ Our site also uses "cookies" to collect information. A cookie is a small data fi
 
 You may occasionally get cookies from advertisers on the site, which is standard on the Internet. These cookies are outside the control of our site, and are not subject to our privacy policy. Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the member-only areas and shopping, contest and game areas, will not function properly if you do so.
 
+**Third Party Advertising**
+
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
+
+**Third Party Cookies**
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
 **Use of Information Collected by Our Site**
 
 Our site uses both the personal and aggregated information collected for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user and to notify users about updates to the site or promotional offers or opportunities that we believe will be of interest to you.
 
 We share aggregated information collected from the site with third parties for both advertising and promotional purposes.
 
-Personal information collected by this site may be shared with other NBC-owned or controlled entities. With your permission, we may also share personal information collected on the site with prescreened third parties for marketing or promotional purposes. We will provide users with an opportunity to decline this service when such information is requested from you online. In addition, in the event we plan to post any such information on the site (for example, if you are the winner of a contest) we will either notify you of this possibility when you provide the information and/or, if possible, when the information is posted. Personal information may also be shared only as necessary with third parties who provide technical services to the Site, or host portions of the site, who will not share or otherwise disseminate this information other than as necessary to perform these services.
+Personal information collected by this site may be shared with other NBC-owned or controlled entities. With your permission, we may also share personal information collected on the site with prescreened third parties for marketing or promotional purposes. We will provide users with an opportunity to decline this service when such information is requested from you online. In addition, in the event we plan to post any such information on the site (for example, if you are the winner of a contest) we will either notify you of this possibility when you provide the information and/or, if possible, when the information is posted. Personal information may also be shared only as necessary with third parties who provide technical services to the Site, or host portions of the site, who will not share or otherwise disseminate this information other than as necessary to perform these services. In addition, FCC regulations require that certain emails and correspondence sent to the television station via the site (which may include personally identifiable information, such as name and address) on matters including television signal reception, community matters, programming and suggestions for investigative reports and other similar issues, be kept in a file that is available to the public for a period of three years.
 
 Also, if you have subscribed to one or more e-mail newsletters and do not want to receive such e-mail in the future, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message.
 
