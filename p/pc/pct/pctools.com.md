@@ -1,36 +1,43 @@
-> *The following text is extracted and transformed from the pctools.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215015237id_/http%3A//www.pctools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pctools.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311032514id_/http%3A//www.pctools.com/info/privacypolicy) for the most accurate reproduction.*
 
 # PC Tools Privacy Policy
 
-Pctools.com Privacy Policy
+## Pctools.com Privacy Policy
 
-**PC Tools Pty Ltd** has created this privacy policy in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for the Pctools.com network of sites. 
+### PC Tools Pty Ltd 
 
-**Our Privacy Guarantee**   
+has created this privacy policy in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for the Pctools.com network of sites. 
+
+### Our Privacy Guarantee 
+
 We will never sell, rent or share any of your personal information with a third-party without your express prior permission. For customers, this means that the only people who will ever access your address and contact information are us and our credit card processor. 
 
-**Cookies**   
+### Cookies 
+
 Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. We may also use cookies to assist in the ordering and sales process. 
 
-**Advertisers**   
+### Advertisers 
+
 We use an outside advertising company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
 Some anonymous demographic data is shared with the advertising companies on an aggregate basis. 
 
-**Third Party Cookies**   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
+### Third Party Cookies 
 
-**Registration Forms**   
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique 'cookie' on your browser. 
+
+### Registration Forms 
+
 Our site's registration form requires users to give us contact information (like their name, email, and postal address), and demographic information (like their zip code, age, or income level). 
 
 Contact information from the registration forms is used to get in touch with the customer when necessary. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-**Surveys**   
+### Surveys 
+
 Our online surveys may ask visitors for contact information (like email address) and demographic information (like zip code, age, or occupation). 
 
 Contact information from the surveys is used to get in touch with the visitor when necessary. 
@@ -39,32 +46,36 @@ Users may opt-out of receiving future mailings; see the choice/opt-out section b
 
 Unique identifiers (such as passwords) are collected from Web site visitors to verify the user's identity. 
 
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. 
+Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
 
-**Contests**   
+### Contests 
+
 We run contests on our site in which we ask visitors for contact information (like email address) and demographic information (like zip code, age, or occupation). 
 
 Contact information is also used to get in touch with the visitor when necessary. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-**External Links**   
+### External Links 
+
 This site contains links to other sites. **Pctools.com** is not responsible for the privacy practices or the content of such Web sites. 
 
-**Public Forums**   
+### Public Forums 
+
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-**Security**   
+### Security 
+
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
 
-**Automatically Logging**   
+### Automatically Logging 
+
 Our systems log information including your IP address, browser and operating system to help diagnose problems with our server and to administer our Web site. 
 
-**Children's Guidelines**   
+### Children's Guidelines 
+
 We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
 
   1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent. 
@@ -74,16 +85,19 @@ We care about children and understand that they have special privacy needs. Ther
 
 
 
-**Choice/Opt-Out**   
+### Choice/Opt-Out 
+
 Our site provides users the opportunity to opt-out of receiving promotional / marketing information from our partners, and us. 
 
-  1. You can [contact us](https://web.archive.org/contact.php)
-  2. You can visit the following URL: [www.pctools.com](http://www.pctools.com/)
+  1. You can [contact us ](https://web.archive.org/contact/)
+  2. You can visit the following URL: [www.pctools.com ](http://www.pctools.com/)
 
 
 
-**Data Quality/Access**   
-This site gives users the following options for changing and modifying information previously provided by [contacting us](https://web.archive.org/contact.php). 
+### Data Quality/Access 
 
-**Contacting the Web Site**   
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/contact.php). 
+This site gives users the following options for changing and modifying information previously provided by [contacting us ](https://web.archive.org/contact/). 
+
+### Contacting the Web Site 
+
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please [contact us ](https://web.archive.org/contact/). 
