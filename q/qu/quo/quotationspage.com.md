@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotationspage.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211205250id_/http%3A//quotationspage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotationspage.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204061444id_/http%3A//www.quotationspage.com/privacy.html) for the most accurate reproduction.*
 
 # The Quotations Page: Privacy Policy
 
@@ -16,7 +16,7 @@ We do not share any email addresses, names, or other information that we receive
 
 ## Cookies
 
-Our site does not, as yet, use cookies. If it does, they will be used strictly to store local preferences or state information for our site, and will not be shared with any external site. Our advertising provider, [ Burst Media](http://www.burstmedia.com/), does use cookies, but does not use them in any fashion that would threaten your privacy; view the privacy statement at their site for details. 
+Our site uses session-only cookies to track which advertisements it has shown you and prevent you from seeing too many pop-under ads. These cookies are used strictly by our site, are not associated with any other information about your connection, and will not be shared with any external site. Our advertising providers, such as [ Burst Media](http://www.burstmedia.com/), use cookies to manage advertisements. View the privacy statements at their site for details. 
 
 ## IP addresses, etc.
 
