@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206211527id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403224749id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-VegWeb Privacy Policy 
+  |  VegWeb Privacy Policy 
 
 This Website, VegWeb, [vegweb.com](http://vegweb.com/), is owned and produced by VegWeb.com, Inc. Your privacy is very important at VegWeb. We understand that your health and dietary choices are very personal subjects, and we want you to feel as comfortable as possible visiting our web sites and using the services. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. We may update this Privacy Policy from time to time, so please check back occasionally. By using the VegWeb.com, Inc. web sites (veggiesunite.com, vegweb.org and vegweb.com), you agree to the terms of this Privacy Policy. If you have any questions about our Privacy Policy, you can [use this form](https://web.archive.org/misc/form.shtml) to contact us. 
 
@@ -66,7 +66,7 @@ From time to time our site requests information from you via polls and surveys. 
 
 TOP
 
-**VI. VegWeb Personals**
+**VII. VegWeb Personals**
 
 **What information will you ask me for?**
 
@@ -76,9 +76,7 @@ Once you have registered, you will be asked for some personal but non-identifyin
 
 **How will this information be used and who has access to it?**
 
-If you choose to have it sent to you, we may use your contact information to send you the Monthly VegWeb Personals Newsletter containing updates and timely notices of promotions. Our site provides you with the opportunity to opt-in for this newsletter when editing your Profile. You may modify this choice at any time by selecting "Modify" button when logged in and viewing your profile. We reserve the right to use your contact information at any time to advise you of any updates that may materially affect your rights or status on our site. 
-
-Your non-personally identifying demographic information is used to personalize your experience, allow other members to find you through a search and to compose your personal profile - which is associated with a pseudonymous identity you have created. Other than your VegWeb Personals mail box, your contact information is never available to other members or organizations. 
+Your non-personally identifying information is used to personalize your experience, allow other members to find you through a search and to compose your personal profile - which is associated with a pseudonymous identity you have created. Other than your VegWeb Personals mail box, your contact information is never available to other members or organizations. 
 
 In the event that you decide to become a Subscriber of VegWeb Personals, you will be asked for your financial information (like credit card number) through PayPal's secured system. You financial information cannot be read by others when you initiate your order through a secured system. You will know you are in secure mode when the tiny padlock icon - located at the bottom of your browser - appears "locked". 
 
@@ -130,3 +128,5 @@ Surprise, AZ 85378
 USA
 
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
+
+|   
