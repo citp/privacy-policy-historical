@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401221343id_/http%3A//www.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204124603id_/http%3A//www.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
 
-# macys.com - Privacy Policy
+# Macy*s - Customer Service - Getting Started - Safe Shopping - Privacy Policy
 
-  
 This policy was updated last on October 16, 2000.
 
 At macys.com, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. We also have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information, and how you may access some of the data you provide to us.
@@ -58,7 +57,7 @@ The information gathered may be shared with corporate affiliates of macys.com (f
   * WeddingChannel (www.weddingchannel.com) operates the Web site where you can access the Macy's bridal registry or register for your own wedding. When you use that Web site, both macys.com and WeddingChannel receive your information.
   * Some of our vendors may work closely with us to create a vendor shop within the macys.com site or to ship your order directly to you. In certain instances, we may share certain information about you with that vendor (e.g., if you decide to buy their products).
   * You also may make a purchase from macys.com through a link from another Web site or search engine and may use their express checkout tool to do so. When you do, please be aware that both macys.com and that Web site or search engine will receive your information.
-  * In some cases, macys.com may enter into a cobranding relationship with another Web site that offers you products or services that supplement macys.com's assortment (e.g., flowers). In those cases, you may link from macys.com to another site to purchase the item. In that case, both macys.com and the other Web site may receive your information.
+  * In some cases, macys.com may enter into a co-branding relationship with another Web site that offers you products or services that supplement macys.com's assortment (e.g., flowers). In those cases, you may link from macys.com to another site to purchase the item. In that case, both macys.com and the other Web site may receive your information.
   * macys.com may team with another Web site to conduct a sweepstakes or other event (e.g., a live Web chat). In those cases, each of the participating Web sites may collect or receive personal information from you.
   * For some of our products, macys.com may provide you with a link to the supplier of that product so that you may get further information. If you link to the supplier's site, the supplier may collect or receive information about you.
   * Like other companies, macys.com may use an outside company to place its advertising banners or links on other sites. In certain cases, the advertiser may collect information on people who click on the banner or link.
@@ -83,7 +82,7 @@ Please use the [Contact Us](https://web.archive.org/service/contact/index.ognc) 
 
   * "Please do not send me email" or
   * "Keep my email address private" or
-  * "Don't send email/Keep e-addr private."
+  * "Don't send email/Keep e-address private."
 
 Or you can click on the unsubscribe link and hit send at the bottom of any macys.com email communication. 
 
