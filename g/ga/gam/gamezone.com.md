@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204170559id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201231201id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
 
 # GameZone.com - PC Privacy Policy
 
@@ -57,7 +57,7 @@
 >> GameZone uses additional third-party advertising companies to serve ads when you visit our Web site.  You may determine the origin of a given advertisement from the URL.  We make use of the following companies so please review their separate privacy policies:
 >> 
 >> [Burst Media](https://www.burstmedia.com/release/privacy.asp)  
->  [Adplicity](http://www.adtegrity.com/privacy.asp)
+>  [Adtegrity](http://www.adtegrity.com/privacy.asp)
 
 **  Public Forums**
 
