@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211190152id_/http%3A//www.investorlinks.com/about/aboutusprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603185436id_/http%3A//www.investorlinks.com/about/aboutusprivacy.asp) for the most accurate reproduction.*
 
-# InvestorLinks - About Us - Member Services
+# InvestorLinks - Financial Directory
 
 InvestorLinks.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
 
@@ -56,4 +56,4 @@ Users may unsubscribe to any of our electronic newsletters at any time by follow
 
 9\. InvestorLinks.com - Contact
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact at [ info@investorlinks.com](mailto:info@investorlinks.com?subject=Information%20Request%20via%20Website)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact at[info@investorlinks.com](mailto:info@investorlinks.com?subject=Information%20Request%20via%20Website)
