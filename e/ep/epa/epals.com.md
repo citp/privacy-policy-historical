@@ -1,58 +1,26 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202231300id_/http%3A//www.epals.com/privacy/index_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604115357id_/http%3A//www.epals.com/privacy/index_en.html) for the most accurate reproduction.*
 
 # ePALS Classroom Exchange Privacy Policy
 
-  
-  
-[](https://web.archive.org/in/0/uni/en)  
-[](https://web.archive.org/in/0/prt/en)  
-[](https://web.archive.org/in/0/stn/en)  
-    |   
+| [**Products and  
+Services**](https://web.archive.org/solutions/)  
 ---  
-**·**| [ **Home**](https://web.archive.org/index_en.html)  
-**·**| [ **Join ePALS**](https://web.archive.org/register/)  
-**·**| [ **Search for Classrooms**](https://web.archive.org/esearch/?st=ps&less=1)  
-**·**| [ **Check Email**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=gm)  
-**·**| [ **Your Settings**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=prefs)  
-**·**| [ **Login**](https://web.archive.org/info/20024/109)  
-   
-[](http://www.cartogra.com/)  
+Put ePALS expertise to work for you.  
+[**Communication  
+Tools**](https://web.archive.org/tools/)  
+Get in touch and stay in touch with ePALS' tools.  
+[**Teaching with  
+ePALS**](https://web.archive.org/teaching/)  
+Making education and ePALS easier for you.  
+[**Events**](https://web.archive.org/events/)  
+Current happenings and memorable moments.  
+[**Support**](https://web.archive.org/feedback/index_en.html)  
+Help materials and ePALS Support.  
+[**About ePALS**](https://web.archive.org/about/)  
+FAQ, media, awards, partners and more...  
   
-  
-**·**| [ **ePALS Webmail**](https://web.archive.org/webmail/index_en.html)  
-**·**| [ **Discussion Boards**](https://web.archive.org/forum/index_en.html)  
-**·**| [ **Instant Translation**](https://web.archive.org/cgi-bin/trans/trans.cgi)  
-**·**| [ **Safe school & class Webmail**](https://web.archive.org/webmail/index_en.html)  
-   
-  
-  
-**·**| [ **Monitored Email**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=monitored)  
-**·**| [ **Group Projects**](https://web.archive.org/projects/group/index_en.html)  
-**·**| [ **Class to Class Projects**](https://web.archive.org/projects/class/index_en.html)  
-**·**| [ **Your Classroom Profiles**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=manage)  
-**·**| [ **Teaching with ePALS**](https://web.archive.org/teacher_resources/tr_resources_en.html)  
-   
-**·**| [ **eCards**](https://web.archive.org/cgi-bin/ecards/emain.cgi)  
-**·**| [ **World Maps**](https://web.archive.org/emaps/newemaps.e)  
-**·**| [ **Weather**](https://web.archive.org/cgi-bin/weather/weather.pl)  
-**·**| [ **Online Resources**](https://web.archive.org/resources/index_en.html)  
-**·**| [ **ePALS Events**](https://web.archive.org/events/index_en.html)  
-**·**| [ **20th Century**](https://web.archive.org/cgi-bin/goto_en.cgi?fn=ap)  
-**·**| [ **Educational Products**](https://web.archive.org/shop/index_en.html)  
-   
-**·**| [ **About Us**](https://web.archive.org/about/index_en.html)  
-**·**| [ **Privacy Policy**](https://web.archive.org/privacy/index_en.html)  
-**·**| [ **Sponsorship & Advertising Policy**](https://web.archive.org/about/ad_policy_en.html)  
-**·**| [ **Sponsorship Opportunities**](https://web.archive.org/about/spons_opps_en.html)  
-**·**| [ **Press**](https://web.archive.org/press/index_en.html)  
-**·**| [ **Awards & Testimonials**](https://web.archive.org/feedback/samples_en.html)  
-**·**| [ **Help & FAQ**](https://web.archive.org/help/index_en.html)  
-**·**| [ **Contact Us**](https://web.archive.org/feedback_en.html)  
-**·**| [ **Careers@ePALS**](https://web.archive.org/hr/index_en.html)  
-[](https://web.archive.org/phpAds/click.php3?bannerID=96)   | 
-
-### ePALS Classroom Exchange  
-Privacy Policy
+[](https://web.archive.org/phpAds/click.php3?bannerID=96) |    **ePALS Classroom Exchange  
+Privacy Policy**
 
 [](https://www.truste.org/validate/6371)
 
@@ -163,4 +131,4 @@ Canada
 K1N 7G1   
 Tel.: (613) 562-9847   
 Fax: (613)562-4768   
-Email: support@epals.com |  
+Email: [support@epals.com](mailto:support@epals.com) | 
