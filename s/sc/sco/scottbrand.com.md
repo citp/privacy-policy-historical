@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202181200id_/http%3A//www.scottbrand.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottbrand.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603050226id_/http%3A//www.scottbrand.com/privacy.asp) for the most accurate reproduction.*
 
 # SCOTT® Brand Privacy Policy
 
@@ -39,4 +39,4 @@ If you have any questions about our Privacy Policy, you can contact us via [ e-m
 
 [](https://web.archive.org/) • [](https://web.archive.org/products/) • [](https://web.archive.org/products/tissue/) • [](https://web.archive.org/products/towels/) • [](https://web.archive.org/products/napkins/)  
 ---  
-[](https://web.archive.org/faqs/) • [](http://www.kimberly-clark.com/ask/scott/index.asp?site=www.scott.com) • [](https://web.archive.org/history/) • [](https://web.archive.org/sitemap.asp)
+[](https://web.archive.org/faqs/) • [](http://www.kimberly-clark.com/ask/scott/index.asp?site=www.scott.com) • [](https://web.archive.org/history/) • [](https://web.archive.org/globallinks.asp) • [](https://web.archive.org/sitemap.asp)
