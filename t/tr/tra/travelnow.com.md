@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelnow.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603235101id_/http%3A//www2.travelnow.com/index.jsp%3FpageName%3Dprivacy%26cid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelnow.com privacy policy that was archived on 2003-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031224094048id_/http%3A//www2.travelnow.com/index.jsp%3FpageName%3Dprivacy%26cid%3D1) for the most accurate reproduction.*
 
 # travel now . com -- infocenter
 
@@ -44,7 +44,11 @@ TravelNow.com is the sole owner of the information collected on this site.  We 
 
 
 **Cookies**  
-A cookie is a piece of data stored on the user?s hard drive containing information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  Once the user closes the browser, the cookie simply terminates.
+Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID cookies and persistent cookies. For the session ID cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the Web browser help file directions.
+
+We use cookies to track usage of the Guest path and to serve advertisements through our advertising networks. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may still use our website. The only drawback to this is that you will be limited in some areas of our website. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our website. 
+
+Usage of a cookie is in no way linked to any personally identifiable information while on our site.
 
 **Advertising**  
 TravelNow.com uses pixels, or transparent GIF files, to help manage our online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
@@ -64,7 +68,7 @@ TravelNow.com will share aggregated demographic information with our Affiliates 
 This site may contain links to other sites. Please be aware that TravelNow.com is in no way responsible for the privacy practices of such other sites.  We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.  This privacy statement applies solely to information collected by the TravelNow.com website.
 
 **Notification of Changes**  
-If TravelNow.com decides to change its privacy policy, we will post those changes at [www.travelnow.com/index.jsp?pageName=privacy](https://web.archive.org/index.jsp;jsessionid=eaa-qG4zH3eIev?pageName=privacy&cid=1) so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of email.  You will have a choice as to whether or not we use your information in this different manner.
+If TravelNow.com decides to change its privacy policy, we will post those changes at [www.travelnow.com/index.jsp?pageName=privacy](https://web.archive.org/index.jsp;jsessionid=jjsH6fZrahwg?pageName=privacy&cid=1) so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of email.  You will have a choice as to whether or not we use your information in this different manner.
 
 **Cruises**  
 <http://cruises.travelnow.com/privacy_policy.asp>
