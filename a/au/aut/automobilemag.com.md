@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612164711id_/http%3A//www.automobilemag.com/pages.cfm%3Farea_id%3D0%26page_id%3D323%26template%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilemag.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205135700id_/http%3A//www.automobilemag.com/pages.cfm%3Farea_id%3D0%26page_id%3D323%26template%3D1) for the most accurate reproduction.*
 
 # privacy policy
 
