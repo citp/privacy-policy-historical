@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the msexchange.org privacy policy that was archived on 2003-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204232436id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the msexchange.org privacy policy that was archived on 2004-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040622082944id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
   <title>Privacy statement</title>
   <meta name="Keywords" content="Microsoft Exchange Server, Exchange Server, Exchange 2000, Exchange 5.5, tutorials, software, sharware, microsoft, y2k, books, anti-virus, freeware, backoffice, outlook express, news, server, exchange, windows, fax, virus, ">
   <meta name="description" content="Microsoft Exchange Server portal for information of interest to corporate users of Microsoft Exchange and those who are just interested. Contains software, information, faqs, news, forums and more">
   <link href="/css/styles.css" rel="stylesheet" type="text/css">
+  <script language="javascript" src="/templates/showemail.js"></script>
  </head>
  
  
@@ -20,11 +21,8 @@
 	<a href="/articles_tutorials/" class="topmenu">Articles</a> |
 	<a href="/authors/" class="topmenu">Authors</a> |
 	<a href="/pages/books.asp" class="topmenu">Books</a> |
-	<a href="/pages/certification.asp" class="topmenu">Certification</a> |
 	<a href="http://www.webelists.com/cgi/lyris.pl?enter=exchangelist" class="topmenu">Discussion List</a> |
-	<a href="/pages/events.asp" class="topmenu">Events</a> |
 	<a href="/faq/" class="topmenu">FAQs</a> |
-	<a href="/tutorial/" class="topmenu">Learning Zone</a> |
 	<a href="/pages/links.asp" class="topmenu">Links</a> |
 	<a href="http://forums.msexchange.org/" class="topmenu">Message Boards</a> |
 	<a href="/pages/newsletter.asp" class="topmenu">Newsletter</a> |
@@ -66,7 +64,7 @@ if (browName=='Netscape'){
 else
      { document.write('<ifr'+'ame src="http://ads.isoftmarketing.com/banman.asp?ZoneID=16&Task=Get&SiteID=7&X=' + browDateTime + '" width=470 height=80 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No AllowTransparency=Yes></ifr'+'ame>'); }
 // --> 
-</script><iframe src="http://ads.isoftmarketing.com/banman.asp?ZoneID=16&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=7&amp;X=1580436907800" width="470" height="80" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+</script><iframe src="http://ads.isoftmarketing.com/banman.asp?ZoneID=16&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=7&amp;X=1580436906983" width="470" height="80" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
 <noscript>
     <a href="http://ads.isoftmarketing.com/banman.asp?ZoneID=16&Task=Click&Mode=HTML&SiteID=7&PageID=63625" target="_new">
     <img src="http://ads.isoftmarketing.com/banman.asp?ZoneID=16&Task=Get&Mode=HTML&SiteID=7&PageID=63625" width="470" height="80" border="0"></a>
@@ -104,8 +102,9 @@ else
                   {
                     var curObj = obj.parentNode.parentNode.nextSibling;
                     if (! curObj || curObj.className != "child") return;
-                    var vis = "none";
-                    if (obj.id) document.cookie = obj.id + "=0;"
+
+                    var  re = new RegExp(obj.id + "=[0|1];*","gi");
+                    document.cookie = String(document.cookie).replace(re,"") + ";";
                     if (curObj.style.display == "none")
                      {
                        vis = "";
@@ -114,6 +113,8 @@ else
                      } 
                     else 
                      {
+                       vis = "none";
+                       if (obj.id) document.cookie = obj.id + "=0;";
                        obj.parentNode.style.backgroundColor = "";
                      } 
              
@@ -132,15 +133,21 @@ else
 				  <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
 				  
               <tr><td class="menucontainer"><a id="mnt_articletutorial" onclick="click_tree_menu(this); return false;" class="menuitem" href="#">Articles &amp; Tutorials</a></td></tr>
-              <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/author/">By Authors</a></td></tr>
-              <tr class="child" style="display: none"><td class="menucontainerlast"><a class="menuitem2" href="/articles_tutorials/topic/">By Topics</a></td></tr>
+              <tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/ms_exchange_server_2000/">Exchange 2000</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/Exchange_Server_2003/">Exchange 2003</a></td></tr>
+<tr class="child"><td class="menucontainer2"><a class="menuitem2" href="/articles_tutorials/ms_exchange_server_5_5/">Exchange 5.5</a></td></tr>
+<tr class="child"><td class="menucontainerlast"><a class="menuitem2" href="/articles_tutorials/general/">General</a></td></tr>
+
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
               <tr><td class="menucontainer"><a id="mnt_author" onclick="click_tree_menu(this); return false;" class="menuitem" href="#">Authors</a></td></tr>
-              <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Markus_Klein/">Markus Klein</a></td></tr>
+              <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Marc_Grote/">Marc Grote</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Henrik_Walther/">Henrik Walther</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Markus_Klein/">Markus Klein</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Lee_Derbyshire/">Lee Derbyshire</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Mark_Fugatt/">Mark Fugatt</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Thomas_Shinder/">Thomas Shinder</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Alex_Zammit/">Alex Zammit</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Steve_Bryant/">Steve Bryant</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Will_Schmied/">Will Schmied</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/Amit_Zinman/">Amit Zinman</a></td></tr>
@@ -149,9 +156,6 @@ else
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
               <tr><td class="menucontainer"><a class="menuitem" href="/pages/books.asp">Books</a></td></tr>
-
-              <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
-              <tr><td class="menucontainer"><a class="menuitem" href="/tutorial/">Learning zone</a></td></tr>
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
               <tr><td class="menucontainer"><a class="menuitem" href="/pages/links.asp">Links</a></td></tr>
@@ -170,66 +174,66 @@ else
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="2"></td></tr>
               <tr><td class="menucontainer"><a id="mnt_software" onclick="click_tree_menu(this); return false;" class="menuitem" href="#">Software</a></td></tr>
               <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Administration/">Administration</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Anti_Spam/">Anti Spam</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Backup_&amp;_Recovery/">Backup &amp; Recovery</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Collaboration_&amp;_CRM/">Collaboration &amp; CRM</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Content_Checking/">Content Checking</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Anti-Spam/">Anti Spam</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Backup-&amp;-Recovery/">Backup &amp; Recovery</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Collaboration-&amp;-CRM/">Collaboration &amp; CRM</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Content-Checking/">Content Checking</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Disclaimers/">Disclaimers</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Document_Management/">Document Management</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Email_Anti_Virus/">Email Anti Virus</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Email_Archive_&amp;_Storage/">Email Archive &amp; Storage</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Fax_Connectors/">Fax Connectors</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/List_Servers_-_Mgmt/">List Servers - Mgmt</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Log_Monitoring/">Log Monitoring</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Document-Management/">Document Management</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Email-Anti-Virus/">Email Anti Virus</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Email-Archive-&amp;-Storage/">Email Archive &amp; Storage</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Fax-Connectors/">Fax Connectors</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/List-Servers---Mgmt/">List Servers - Mgmt</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Log-Monitoring/">Log Monitoring</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Migration/">Migration</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Misc._Exchange_server_software/">Misc. Exchange server software</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Outlook_Addons/">Outlook Addons</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/POP3_Downloaders/">POP3 Downloaders</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Misc.-Exchange-server-software/">Misc. Exchange server software</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Outlook-Addons/">Outlook Addons</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/POP3-Downloaders/">POP3 Downloaders</a></td></tr>
 <tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Reporting/">Reporting</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Security_&amp;_Encryption/">Security &amp; Encryption</a></td></tr>
-<tr class="child" style="display: none"><td class="menucontainerlast"><a class="menuitem2" href="/software/SMS_&amp;_Paging/">SMS &amp; Paging</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainer2"><a class="menuitem2" href="/software/Security-&amp;-Encryption/">Security &amp; Encryption</a></td></tr>
+<tr class="child" style="display: none"><td class="menucontainerlast"><a class="menuitem2" href="/software/SMS-&amp;-Paging/">SMS &amp; Paging</a></td></tr>
 
 
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
-              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Featured product</a></td></tr>
+              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Featured Product</a></td></tr>
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
               <tr><td align="center">
 <!-- Begin Ban Man Pro Static Banner Code -->
-<a href="http://ads.isoftmarketing.com/banman.asp?ZoneID=0&amp;BannerID=96&amp;AdvertiserID=8&amp;CampaignID=116&amp;Task=Click&amp;SiteID=7&amp;RandomNumber=61681" target="_Blank"><img src="http://banners.isoftmarketing.com/mes_block-spam-server(120x60).gif" width="120" height="60" border="0"></a>
-<img src="http://ads.isoftmarketing.com/banman.asp?ZoneID=0&amp;BannerID=96&amp;AdvertiserID=8&amp;CampaignID=116&amp;Task=Get&amp;Mode=TEXT&amp;SiteID=7&amp;RandomNumber=61681" width="1" height="1" border="0">
+<a href="http://ads.isoftmarketing.com/banman.asp?ZoneID=0&amp;BannerID=167&amp;AdvertiserID=8&amp;CampaignID=116&amp;Task=Click&amp;SiteID=7&amp;RandomNumber=61681" target="_Blank"><img src="http://banners.isoftmarketing.com/fex-woman-best_price-orange(120x60).gif" width="120" height="60" border="0"></a>
+<img src="http://ads.isoftmarketing.com/banman.asp?ZoneID=0&amp;BannerID=167&amp;AdvertiserID=8&amp;CampaignID=116&amp;Task=Get&amp;Mode=TEXT&amp;SiteID=7&amp;RandomNumber=61681" width="1" height="1" border="0">
 <!-- End Ban Man Pro Static Banner Code -->
 </td></tr>
 
-<tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Readers' Choice</a></td></tr><tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td align="center"><table border="0" width="100%"><tbody><tr><td valign="top"><form method="POST" action="/poll/vote.asp" name="poll"><input type="hidden" name="QID" value="13"><font color="#63583A"><b>Vote for your preferred Reporting solution for Exchange:</b><br><font size="1"><br></font>
-<input name="AID" type="radio" value="62">Don't need reporting<br>
-<input name="AID" type="radio" value="63">Use reporting of Anti Virus/Spam product<br>
-<input name="AID" type="radio" value="64">AppAnalyzer<br>
-<input name="AID" type="radio" value="65">bt-LogAnalyzer<br>
-<input name="AID" type="radio" value="66">eIQ MailAnalyzer<br>
-<input name="AID" type="radio" value="67">Exchange Monitor<br>
-<input name="AID" type="radio" value="68">Imanami SmartR<br>
-<input name="AID" type="radio" value="69">MessageStats<br>
-<input name="AID" type="radio" value="70">OmniAnalyser<br>
-<input name="AID" type="radio" value="71">PROMODAG Reports<br>
-<input name="AID" type="radio" value="72">StealthAUDIT<br>
-<input name="AID" type="radio" value="73">Other <input name="other" type="text" size="12" value="please specify" onfocus="if (this.defaultValue==this.value) { this.value = ''; }"><br>
+              <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
+              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Featured Book</a></td></tr>
+              <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
+              <tr><td align="center"><a href="http://www.amazon.com/exec/obidos/ASIN/1931836248/ref=isaserver/002-1581563-9329608" target="_blank"><img src="/img/books/1931836248_73.jpg" border="0" width="73" height="110"></a><br>
+              <a href="http://www.msexchange.org/tutorials/Securing-Exchange-Server-2003-Outlook-Web-Access-Chapter5.html">Special Preview: Read Chapter 5 here</a></td></tr>
+
+<tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Poll</a></td></tr><tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr><tr><td align="center"><table border="0" width="100%"><tbody><tr><td valign="top"><form method="POST" action="/poll/vote.asp" name="poll"><input type="hidden" name="QID" value="18"><font color="#63583A"><b>Do you have an Exchange archiving solution?</b><br><font size="1"><br></font>
+<input name="AID" type="radio" value="105">Yes - KVS<br>
+<input name="AID" type="radio" value="106">Yes - EAS<br>
+<input name="AID" type="radio" value="107">Yes - Other<br>
+<input name="AID" type="radio" value="108">No - Not needed<br>
+<input name="AID" type="radio" value="109">No - But considering it<br>
 <br></font><center><input type="submit" value="Vote!"></center></form></td></tr></tbody></table></td></tr>
 
 
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
-              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Recommended links</a></td></tr>
+              <tr><td class="menucontainer3" bgcolor="#F2D58A"><a class="menuitem">Recommended Sites</a></td></tr>
               <tr><td><img src="/img/empty.gif" border="0" width="160" height="15"></td></tr>
               <tr><td align="center">
-                 <a href="http://www.isaserver.org" target="blank"><img src="/img/isalogo.gif" border="0" vspace="4"></a><br>
-                 <a href="http://www.windowsecurity.com" target="blank"><img src="/img/winseclogo.gif" border="0" vspace="4"></a><br>
-                 <a href="http://www.serverfiles.com" target="blank"><img src="/img/32bitlogo_small.gif" border="0" vspace="4"></a><br>
-                 <a href="http://www.ntfaxfaq.com" target="blank"><img src="/img/ntlogo.gif" border="0" vspace="4"></a><br>
+                 <a href="http://www.windowsnetworking.com" target="_blank"><img src="/img/rec/windowsnetworking.gif" border="0" vspace="4"></a><br>
+                 <a href="http://www.windowsecurity.com" target="_blank"><img src="/img/rec/windowsecurity.gif" border="0" vspace="4"></a><br>
+                 <a href="http://www.isaserver.org" target="_blank"><img src="/img/rec/isaserver.gif" border="0" vspace="4"></a><br>
+                 <a href="http://www.serverfiles.com" target="_blank"><img src="/img/rec/serverfiles.gif" border="0" vspace="4"></a><br>
+                 <a href="http://www.ntfaxfaq.com" target="_blank"><img src="/img/rec/ntfaxfaq.gif" border="0" vspace="4"></a><br>
               </td></tr>
              </tbody></table>
              
              <script language="JavaScript">
-               if (document.cookie.indexOf("mnt_articletutorial=1") != -1) click_tree_menu(document.getElementById("mnt_articletutorial"));
+               if (document.cookie.indexOf("mnt_articletutorial=0") != -1) click_tree_menu(document.getElementById("mnt_articletutorial"));
                if (document.cookie.indexOf("mnt_author=1") != -1) click_tree_menu(document.getElementById("mnt_author"));
                if (document.cookie.indexOf("mnt_software=1") != -1) click_tree_menu(document.getElementById("mnt_software"));
                if (document.cookie.indexOf("mnt_services=1") != -1) click_tree_menu(document.getElementById("mnt_services"));
@@ -293,8 +297,7 @@ else
                 of Microsoft Corporation in the United States and/or other countries. 
                 All other trademarks are the property of their respective owners.</p>
                           <p>Should you have any question about the privacy issues here at 
-                            MSExchange.org, please <a href="mailto:msexchange@msexchange.org">contact 
-                            us</a>, and we will take measures to correct any problems. 
+                            MSExchange.org, please <script>ShowEmail('info/msexchange|org','contact us');</script><a href="mailto:info@msexchange.org">contact us</a>, and we will take measures to correct any problems. 
                             <br>
 <!-- End content -->
   </p></div>
@@ -302,7 +305,7 @@ else
 
   <br clear="all">
 <table border="0" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr><td width="200"><img src="/img/empty.gif" border="0" width="200" height="1"></td>
+<tbody><tr><td><img src="/img/empty.gif" border="0" width="180" height="1"></td>
 <td>
 		
 		<h2><img src="/img/li_subtitle.gif" align="absMiddle">Featured Links*</h2>
@@ -319,6 +322,7 @@ else
       </tbody></table>
       </td></tr></tbody></table>
 </td>
+<td><img src="/img/empty.gif" border="0" width="15" height="1"></td>
 </tr>
 </tbody></table><br>
   <table border="0" cellpadding="0" cellspacing="0" align="center"><form method="post" action="/pages/newsletter.asp"></form><tbody><tr><td width="200"><img src="/img/empty.gif" border="0" width="200" height="1"></td><td width="50%" align="center" valign="top" class="smalltext2">Receive Real-Time &amp; Monthly MSExchange.org<br>article updates in your mailbox!<br>Enter your email below!<br><input type="text" name="email"><input type="image" src="/img/join.gif" border="0" alt="Click here to join our mailing list!" name="image" width="41" height="25"></td><td width="50%" align="center" valign="top" class="smalltext2"><b>Join our Email Discussion List!</b><br>Discuss your Exchange Server issues<br>with other Exchange experts through email.<br><br><a href="http://www.webelists.com/cgi/lyris.pl?join=exchangelist">Click here</a> to join!</td></tr></tbody></table><br>
@@ -332,11 +336,8 @@ else
 	<a href="/articles_tutorials/" class="topmenu">Articles</a> |
 	<a href="/authors/" class="topmenu">Authors</a> |
 	<a href="/pages/books.asp" class="topmenu">Books</a> |
-	<a href="/pages/certification.asp" class="topmenu">Certification</a> |
 	<a href="http://www.webelists.com/cgi/lyris.pl?enter=exchangelist" class="topmenu">Discussion List</a> |
-	<a href="/pages/events.asp" class="topmenu">Events</a> |
 	<a href="/faq/" class="topmenu">FAQs</a> |
-	<a href="/tutorial/" class="topmenu">Learning Zone</a> |
 	<a href="/pages/links.asp" class="topmenu">Links</a> |
 	<a href="http://forums.msexchange.org/" class="topmenu">Message Boards</a> |
 	<a href="/pages/newsletter.asp" class="topmenu">Newsletter</a> |
@@ -348,14 +349,16 @@ else
 
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
    <tbody><tr><td bgcolor="#CDCDCD" background="/img/bg_line.gif" align="center" class="smalltext">
-      <a href="http://www.isoftmarketing.com/aboutus.htm">About Us</a> : <a href="mailto:info@msexchange.org" class="tableText">Email Us</a> : <a href="/software/submissionform.asp" class="tableText">Product Submission Form</a> : <a href="mailto:advertising@msexchange.org" class="tableText">Advertising Information</a>
+      <a href="http://www.isoftmarketing.com/aboutus.htm">About Us</a> : <script>ShowEmail('info/msexchange|org','Email Us');</script><a href="mailto:info@msexchange.org">Email Us</a> : <a href="/software/submissionform.asp" class="tableText">Product Submission Form</a> : <script>ShowEmail('advertising/msexchange|org','Advertising Information');</script><a href="mailto:advertising@msexchange.org">Advertising Information</a>
    </td></tr>
    <tr><td bgcolor="#E8E8E8" background="/img/bg_line.gif" align="center" class="smalltext">
       <img src="/img/copy.gif" width="18" height="13" align="absMiddle">MSExchange.org is in no way affiliated with Microsoft Corp.
       *Links are sponsored by advertisers.<br>
-      Copyright © 2003 <a href="http://www.isoftmarketing.com" target="_blank">Internet Software Marketing Ltd.</a> All rights reserved. Please read our <a href="/pages/privacy.asp">online privacy statement.
+      Copyright © 2004 <a href="http://www.isoftmarketing.com" target="_blank">Internet Software Marketing Ltd.</a> All rights reserved. Please read our <a href="/pages/privacy.asp">online privacy statement.
    </a></td></tr>
   </tbody></table>
+
+<!--  -->
  
 
 </body></html>
