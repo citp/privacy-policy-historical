@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203064718id_/http%3A//dc.gov/legal/privacy_policy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602152503id_/http%3A//dc.gov/legal/privacy_policy.shtm) for the most accurate reproduction.*
 
 # Washington DC Government: Privacy Policy
 
@@ -17,7 +17,7 @@ When you visit certain areas of this site, you may be asked to provide personall
 **Secure Transmissions**  
 Please be assured that this site has security measures in place to protect the information you provide us. We encrypt information that is deemed sensitive (such as credit card numbers) or data that must remain secure to meet legal requirements. 
 
-**Page  1 of 2 **     **   1   [2](https://web.archive.org/web/20021203064718id_/http%3A//dc.gov/legal/privacy_policy_p2.shtm)   [](https://web.archive.org/web/20021203064718id_/http%3A//dc.gov/legal/privacy_policy_p2.shtm)**
+**Page  1 of 2 **     **   1   [2](https://web.archive.org/web/20030602152503id_/http%3A//dc.gov/legal/privacy_policy_p2.shtm)   [](https://web.archive.org/web/20030602152503id_/http%3A//dc.gov/legal/privacy_policy_p2.shtm)**
 
 |   
   
