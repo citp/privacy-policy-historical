@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603160458id_/http%3A//www.uaex.edu/Statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205001857id_/http%3A//www.uaex.edu/Statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
 
 # Mission Statement; Cooperating Statement; EEO; Disclaimer; Privacy Statement for Cooperative Extension Service Web Site
 
