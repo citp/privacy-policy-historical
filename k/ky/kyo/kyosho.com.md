@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kyosho.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626092324id_/http%3A//www.hobbico.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyosho.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204054540id_/http%3A//www.hobbico.com/privacy.html) for the most accurate reproduction.*
 
 # Hobbico Privacy Statement
 
 * * *
+
+Effective January 1, 2002.
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This privacy statement applies to all manufacturer web sites maintained by Hobbico, Inc. 
 
