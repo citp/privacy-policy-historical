@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214102033id_/http%3A//www.vistek.ca/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604191324id_/http%3A//www.vistek.ca/about/privacy.asp) for the most accurate reproduction.*
 
 # Vistek - Privacy Statement
 
