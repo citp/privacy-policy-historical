@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113737id_/http%3A//www.techstreet.com/sec_priv.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303172312id_/http%3A//www.techstreet.com/sec_priv.tmpl) for the most accurate reproduction.*
 
 # Techstreet.com :
 
