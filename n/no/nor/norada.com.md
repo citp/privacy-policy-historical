@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021030046id_/http%3A//norada.com/privacy.asp%3Fsite%3DNorada) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610025707id_/http%3A//norada.com/privacy.asp%3Fsite%3DNorada) for the most accurate reproduction.*
 
-# Norada Corporation ::. Privacy Policy
+# Norada .:: Customizable Web and wireless scheduling, communication and management solution - ASP, personalized email, group calendar, shared contact manager, shared project manager, shared files, e-mail, intranet
 
 Last modified: May 4, 2001
 
