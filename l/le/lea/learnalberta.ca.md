@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211202034id_/http%3A//www.learnalberta.ca/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624104126id_/http%3A//www.learnalberta.ca/Privacy.asp) for the most accurate reproduction.*
 
 # LearnAlberta.ca
 
@@ -22,22 +22,22 @@
 
 [Overview
 
-](https://web.archive.org/web/20021211202034id_/http%3A//www.learnalberta.ca/Overview.asp)**  
+](https://web.archive.org/web/20030624104126id_/http%3A//www.learnalberta.ca/Overview.asp)**  
 **
 
 [Guided Tour
 
-](https://web.archive.org/web/20021211202034id_/http%3A//www.learnalberta.ca/GuidedTour.asp)**  
+](https://web.archive.org/web/20030624104126id_/http%3A//www.learnalberta.ca/GuidedTour.asp)**  
 **
 
 [Resources
 
-](https://web.archive.org/web/20021211202034id_/http%3A//www.learnalberta.ca/LearningResources.asp)**  
+](https://web.archive.org/web/20030624104126id_/http%3A//www.learnalberta.ca/LearningResources.asp)**  
 **
 
 [Activities
 
-](https://web.archive.org/web/20021211202034id_/http%3A//www.learnalberta.ca/Activities.asp)**  
+](https://web.archive.org/web/20030624104126id_/http%3A//www.learnalberta.ca/Activities.asp)**  
    
    
    
