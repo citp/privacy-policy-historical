@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slate.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217232244id_/http%3A//go.msn.com/AI/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slate.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602080851id_/http%3A//go.msn.com/AI/6) for the most accurate reproduction.*
 
 # MSN.com Privacy Statement
 
@@ -6,12 +6,12 @@ MSN Statement of Privacy
 
 MSN is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This MSN Statement of Privacy applies to Microsoft's MSN family of Web sites and governs data collection and usage at all MSN sites and services. Please read the complete MSN Statement of Privacy below and also click the links following this paragraph to learn additional details about how some of MSN's sites and services protect your personal information.
 
-[MSN Internet Access Service](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MSNIA) | [ MSN Explorer ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MSNEXP) | [ MSN Hotmail ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MSNMAIL)  
+[MSN Internet Access Service](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MSNIA) | [ MSN Explorer ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MSNEXP) | [ MSN Hotmail ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MSNMAIL)  
 ---|---|---  
-[ MSN Auctions ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MSNAUC) | [ MSN Calendar ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MSNCAL) | [ MSN Chat and Web Communities ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MSNCHAT)  
-[ MSN Greetings ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MSNGREET) | [ MSN eShop ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#ESHOP) | [ MSN Gaming Zone ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#ZONE)  
-[ MSN Health ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#HEALTH) | [ MSN Messenger ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MSNGR) | [ MSN Mobile ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MOBILE)  
-[ MSN Money ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#MONEY) | [ MSN Newsletters ](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#NEWS) |     
+[ MSN Auctions ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MSNAUC) | [ MSN Calendar ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MSNCAL) | [ MSN Chat and Web Communities ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MSNCHAT)  
+[ MSN Greetings ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MSNGREET) | [ MSN eShop ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#ESHOP) | [ MSN Gaming Zone ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#ZONE)  
+[ MSN Health ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#HEALTH) | [ MSN Messenger ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MSNGR) | [ MSN Mobile ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MOBILE)  
+[ MSN Money ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#MONEY) | [ MSN Newsletters ](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#NEWS) |     
   
 Other Microsoft services linked to from this Web site, [Microsoft Passport](http://www.passport.com/Consumer/PrivacyPolicy.asp?PPlcid=1033), [bCentral](http://www.bcentral.com/privacy.html) and [MSN Radio and Video](http://www.microsoft.com/isapi/redir.dll?prd=windows&sbp=mediaplayer&ar=home&sba=privacy&pver=7.0) have their own statements of privacy which can be viewed by clicking on the links.
 
@@ -93,7 +93,7 @@ MSN secures your personal information from unauthorized access, use or disclosur
 
 Protection of Children's Personal Information
 
-MSN offers a Kids Passport account to allow parents to give consent for the collection, use and sharing of their children's (ages 12 and under) personal information online. To learn more about this service, visit Kids Passport on [www.passport.com](http:).
+MSN offers a Kids Passport account to allow parents to give consent for the collection, use and sharing of their children's (ages 12 and under) personal information online. To learn more about this service, visit Kids Passport on [www.passport.com](http://www.passport.com/).
 
 Changes to this Statement
 
@@ -115,7 +115,7 @@ Redmond, Washington 98052
 
 Click [here](mailto:MSNPrivacy@msn.com) to send e-mail.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Internet Access Service
 
@@ -144,7 +144,7 @@ If your account was offered in conjunction with another company through a co-pro
 
 How do I control my personal information: If you do not wish to receive any special offers on behalf of selected third party companies, or from MSN, access the [Communication Preferences](http://privacy.msn.com/choice/default.asp) section of the [MSN Privacy Statement](http://privacy.msn.com/choice/default.asp). Review the list of choices on the page and check the appropriate boxes. You will still receive communication from MSN Internet Access to alert you to new products, product upgrades, special offers and other information related directly to the MSN Internet Access service.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Explorer
 
@@ -166,7 +166,7 @@ Who else may receive my personal information: All information you share with MSN
 
 How do I control my personal information: You may change your personal information, at any time while you are online, by going to the MSN Explorer Member Services pages under "Help/Settings" at the top of the MSN Explorer home page.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Hotmail
 
@@ -188,7 +188,7 @@ During the Hotmail registration process you are given the choice as to whether y
 
 If you have questions about our privacy policy, please e-mail [Hotmailprivacy@hotmail.com](mailto:Hotmailprivacy@hotmail.com).
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Auctions
 
@@ -198,7 +198,7 @@ How does MSN use your personal information: MSN does not share any of your perso
 
 Who else may receive my Auctions information: No other third party receives your personally identifiable information or other transactional data except for those with whom you make auction transactions or other auction participants with whom you choose to share your information.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Calendar
 
@@ -208,7 +208,7 @@ No information in your calendar date book is used in any other way by MSN Calend
 
 MSN Calendar system administrators are the only people who have access to customer accounts and can only view customers account information to troubleshoot technical issues, upon your request for customer assistance.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Chat and Web Communities
 
@@ -220,13 +220,13 @@ Your MSN social nickname and the information in your public profile is used by t
 
 While participating in chats, communities or other public forums, MSN cautions you against giving out personally identifiable information (such as names and addresses, phone numbers, social security numbers, credit card numbers, and driver's license numbers) to strangers online, which they may use for illegal or harmful purposes.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Greetings
 
 MSN Greetings is provided by MSN's partner Egreetings Network, Inc. When you check the box on the MSN Greetings' send page to receive information from Egreetings Network, your e-mail address will be collected by Egreetings Network. When you register to use the Egreetings service on Egreetings.com and you submit your personal information (such as your name, gender, or age) on the registration form on Egreetings.com, this information will be supplied to Egreetings and is not transmitted to MSN. Note that you may send greeting cards on both MSN.com and Egreetings without registering. Both companies are committed to protecting your privacy. To determine how Egreetings Network will treat your personal information, please refer to its privacy policy at [www.egreetings.com](http://www.egreetings.com/).
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN eShop
 
@@ -234,7 +234,7 @@ What Information is Collected: MSN does not collect information associated with 
 
 When you purchase an MSN Gift Certificate, MSN requests your e-mail address, credit card information, and other information about you and the gift certificate recipient. That information is not shared with any third parties. Similarly, when you make an MSN Wish List, none of the information that you enter on your wish list is shared with third parties and is collected only for the customer's benefit.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Gaming Zone
 
@@ -244,7 +244,7 @@ Inside the Gaming Zone it is possible to create an optional personal profile. Th
 
 The Gaming Zone also hosts a small number of premium games. To participate in these optional games a fee is charged. In order to collect this fee, the Gaming Zone requests your credit card information sufficient to process the credit card transaction for this service.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Health
 
@@ -254,19 +254,19 @@ You may change the information in your WebMD member profile at any time, or requ
 
 MSN encourages you to read the entire [MSN Health/WebMD Privacy Statement](http://content.health.msn.com/medcast_channel_toc/1761) to understand the extra precautions that WebMD has taken to safeguard your health data.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Messenger
 
 When you sign up for MSN Messenger service, MSN requests your Passport Member Name, a "friendly" name that you choose, a phone number (optional), and the list of "buddies" with whom you can send and receive instant messages and similar information about those "buddies." No other company has access to your phone number or buddy information. Only authorized MSN customer service representatives may access this information, upon your request, to assist you in using the Messenger service. Go to Tools Options in Messenger to change your friendly name, phone number, or any other information.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Mobile
 
 When you sign up for MSN Mobile for your mobile phone or pager, MSN requests your Passport Member Name, time zone, mobile e-mail address (usually phonenumber@carrier.com), carrier name, ZIP code, your phone or pager member ID, your phone or pager's gateway server name, and your mobile alert preferences. MSN uses this information to operate the MSN Mobile service and provide customer support to users when they need help. If you signed up for MSN Mobile at a co-branded site, your carrier will also have your personal information. MSN does not share your information with any third parties. You may visit the mobile.msn.com website at any time to edit or change your personal information.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Money
 
@@ -284,7 +284,7 @@ For more detailed information about how CheckFree handles your data for the MSN 
 
 For more specific information about how your data is handled by the MSN Money MyAccounts feature, please go to <http://moneycentral.msn.com/banking/accounts/welcome.asp>.
 
-[Top](https://web.archive.org/web/20011216032331id_/http://privacy.msn.com/default.asp#top)
+[Top](https://web.archive.org/web/20020528224708id_/http://privacy.msn.com/default.asp#top)
 
 MSN Newsletters
 
@@ -294,4 +294,6 @@ You may subscribe and unsubscribe to MSN Newsletters by going to [newsletters.ms
 
 By using a password when subscribing, you are securing your newsletter account. If you do not secure your account, others who know your e-mail address can view and modify your subscription choices.
 
-Updated September 2001
+Updated December 2001 
+
+©2002 Microsoft Corporation.  All rights reserved. 
