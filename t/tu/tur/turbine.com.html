@@ -1,330 +1,399 @@
-<!--The following is the downloaded HTML source of the turbine.com privacy policy that was archived on 2004-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207000631id_/http%3A//www.turbinegames.com/index.php%3Fpage_id%3D77) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the turbine.com privacy policy that was archived on 2005-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404014729id_/http%3A//www.turbine.com/index.php%3Fpage_id%3D59) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
-  <title>Turbine Entertainment Software :: Privacy Policy</title>
-
-  <link rel="stylesheet" href="http://www.turbinegames.com/themes/12/style.css" type="text/css">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ai="" xml:lang="en" lang="en"><head>
+  <title>Turbine &gt; Privacy Poilicy</title>
+  <link href="http://www.turbine.com/themes/10/style.css" rel="stylesheet" type="text/css">
 
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-
-
-<script type="text/javascript">
-
-<!--
-
-function newImage(arg) {
-
-	if (document.images) {
-
-		rslt = new Image();
-
-		rslt.src = arg;
-
-		return rslt;
-
-	}
-
-}
-
-
-
-function changeImages() {
-
-	if (document.images && (preloadFlag == true)) {
-
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-
-		}
-
-	}
-
-}
-
-var preloadFlag = false;
-
-function preloadImages() {
-
-  if (document.images) {
-
-    nav_home_over = newImage("images/nav/nav_home_over.gif");
-
-    nav_comp_over = newImage("images/nav/nav_comp_over.gif");
-
-    nav_empl_over = newImage("images/nav/nav_empl_over.gif");
-
-    nav_store_over = newImage("images/nav/nav_store_over.gif");
-
-    nav_prod_over = newImage("images/nav/nav_prod_over.gif");
-
-    nav_news_over = newImage("images/nav/nav_news_over.gif");
-
-    preloadFlag = true;
-
-  }
-
-}
-
-// -->
-
-</script>
-
-
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta name="author" content="Turbine, Inc.">
+  <meta name="copyright" content="(c) 2005 Turbine, Inc. All rights reserved.">
+  <meta name="robots" content="all">
+  <meta http-equiv="pragma" content="no-cache">
 
   <script language="Javascript" src="/js/common.js"></script>
 
   
- </head>
 
+  <script type="text/javascript">
+    function toggleOn(menuId, imageId, imageName)
+    {
+      obj                  = document.getElementById(menuId);
+      image                = document.getElementById(imageId);
+      obj.style.visibility = 'visible';
+      image.src            = imageName;
+    }
 
+    function toggleOff(menuId, imageId, imageName)
+    {
+      obj                  = document.getElementById(menuId);
+      image                = document.getElementById(imageId);
+      obj.style.visibility = 'hidden';
+      image.src            = imageName;
+    }
+	
+    //Christopher Bianchi
+    function setMenuImage(){
+		
+		url = document.location.href;
+		
+		if (url.indexOf("index.php?page_id=52") != -1){				//World
+			
+			image = document.getElementById("worlds_menu");
+			image.src = "images/turbinehome/worlds_text_f2.gif";
+		
+		}else if(url.indexOf("index.php?page_id=57") != -1){		//Store
+			
+			image = document.getElementById("store_menu");
+			image.src = "images/turbinehome/store_text_f2.gif";
+		
+		}else if(url.indexOf("index.php?page_id=56") != -1){		//Community
+			
+			image = document.getElementById("community_menu");
+			image.src = "images/turbinehome/community_text_f2.gif";
+		
+		}else if(url.indexOf("index.php?page_id=53") != -1){		//Contact
+			
+			image = document.getElementById("contact_menu");
+			image.src = "images/turbinehome/contact_text_f2.gif";
+		
+		}else if(url.indexOf("index.php?page_id=55") != -1){		//Company
+			
+			image = document.getElementById("company_menu");
+			image.src = "images/turbinehome/company_text_f2.gif";
+		
+		}else if((url.indexOf("index.php?page_id=54") != -1) || (url.indexOf("index.php?page_id=20") != -1)){		//Press
+			
+			image = document.getElementById("press_menu");
+			image.src = "images/turbinehome/press_text_f2.gif";
+		
+		}else {														//Home
+			
+			image = document.getElementById("home_menu");
+			image.src = "images/turbinehome/home_text_f2.gif";			
+		}
+			
+	}
+	
+    //Christopher Bianchi
+    function keepImageOnMouseOut(imageID, pageIDString, imageReplace){
+		
+		url = document.location.href;
+		image = document.getElementById(imageID);
+		oldImageSrc = image.src;
+		
+		//Testing for odd homepage case.
+		if (pageIDString == ""){
+			if (url.indexOf("page_id") == -1)
+				image.src = oldImageSrc;
+			else
+				image.src = imageReplace;
+		}else {
+			if(url.indexOf(pageIDString) != -1)
+				image.src = oldImageSrc;
+			else
+				image.src = imageReplace;
+		}
+	}
+	
+    //Christopher Bianchi
+    function setSubMenu(){
 
-<body background="http://www.turbinegames.com/themes/12/swatch.jpg" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();"><a name="top"></a>
+        var windowWidth = document.body.clientWidth;    //Window width.
+        var employmentPos = windowWidth/2 + 111;        //Adding the offset to half the width.
+        
+        companySubNav.style.left = employmentPos + 'px';
+    }
+    
+    //Christopher Bianchi
+    function pageManagement()
+    {
+        setSubMenu();
+        setMenuImage();
+        window.onresize = setSubMenu;
+    }
 
+    // from http://www.quirksmode.org/js/flash.html
+    var flashinstalled = 0;
+    var flashversion   = 0;
+    MSDetect           = "false";
+    if (navigator.plugins && navigator.plugins.length)
+    {
+      x = navigator.plugins["Shockwave Flash"];
+      if (x)
+      {
+        flashinstalled = 2;
+        if (x.description)
+        {
+          y = x.description;
+          flashversion = y.charAt(y.indexOf('.')-1);
+        }
+      }
+      else
+      {
+        flashinstalled = 1;
+      }
+      if (navigator.plugins["Shockwave Flash 2.0"])
+      {
+        flashinstalled = 2;
+        flashversion = 2;
+      }
+    }
+    else if (navigator.mimeTypes && navigator.mimeTypes.length)
+    {
+      x = navigator.mimeTypes['application/x-shockwave-flash'];
+      if (x && x.enabledPlugin)
+      {
+        flashinstalled = 2;
+      }
+      else
+      {
+        flashinstalled = 1;
+      }
+    }
+    else
+    {
+      MSDetect = "true";
+    }
+  </script>
 
+  <script type="text/vbscript">
+    on error resume next
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    If MSDetect = "true" Then
+      For i = 2 to 6
+        If Not(IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & i))) Then
+          
+        Else
+          flashinstalled = 2
+          flashversion = i
+        End If
+      Next
+      If flashinstalled = 0 Then
+        flashinstalled = 1
+      End If
+    End If
+  </script>
+</head>
 
- <tbody><tr>
+<body>
 
-  <td width="780">
-
-    <!-- TOP NAV -->
-
-      <table width="780" border="0" cellpadding="0" cellspacing="0">
-
-       <tbody><tr>
-
-         <td rowspan="3"><a href="index.php?page_id=1"><img src="http://www.turbinegames.com/themes/12/turb_logo.jpg" width="151" height="118" border="0" alt="Turbine Entertainment Software"></a><img src="http://www.turbinegames.com/themes/12/hdr_left.jpg" width="57" height="118" alt=""></td>
-
-         <td><img src="http://www.turbinegames.com/themes/12/hdr_top.gif" width="467" height="40" alt=""></td>
-
-         <td rowspan="3"><img src="http://www.turbinegames.com/themes/12/hdr_right.jpg" width="105" height="118" alt=""></td>
-
-	   </tr>
-
-	   <tr><td height="22" bgcolor="black" width="467">
-
-	      <table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-
-           <td><a href="index.php?page_id=1" onmouseover="changeImages('nav_home', 'images/nav/nav_home_over.gif'); return true;" onmouseout="changeImages('nav_home', 'images/nav/nav_home.gif'); return true;">
-
-               <img name="nav_home" src="images/nav/nav_home.gif" width="55" height="22" border="0" alt="Home"></a></td>
-
-               
-
-           <td><img src="images/nav/nav_spacer.jpg" width="5" height="22" alt=""></td>
-
-
-
-           <td><a href="index.php?page_id=50" onmouseover="changeImages('nav_comp', 'images/nav/nav_comp_over.gif'); return true;" onmouseout="changeImages('nav_comp', 'images/nav/nav_comp.gif'); return true;">
-
-               <img name="nav_comp" src="images/nav/nav_comp.gif" width="91" height="22" border="0" alt="Company Info"></a></td>
-
-               
-
-           <td><img src="images/nav/nav_spacer.jpg" width="6" height="22" alt=""></td>
-
-           <td><a href="http://www.careerexchange.com/cejobs/templateTurbine.asp" onmouseover="changeImages('nav_empl', 'images/nav/nav_empl_over.gif'); return true;" onmouseout="changeImages('nav_empl', 'images/nav/nav_empl.gif'); return true;">
-
-			   <img name="nav_empl" src="images/nav/nav_empl.gif" width="85" height="22" border="0" alt="Employment"></a></td>
-
-			   
-
-           <td><img src="images/nav/nav_spacer.jpg" width="6" height="22" alt=""></td>
-
-		   <td><a href="http://store.turbinegames.com/" onmouseover="changeImages('nav_store', 'images/nav/nav_store_over.gif'); return true;" onmouseout="changeImages('nav_store', 'images/nav/nav_store.gif'); return true;">
-
-			   <img name="nav_store" src="images/nav/nav_store.gif" width="55" height="22" border="0" alt="Store"></a></td>
-
-			   
-
-		   <td><img src="images/nav/nav_spacer.jpg" width="5" height="22" alt=""></td>
-
-           <td><a href="index.php?page_id=52" onmouseover="changeImages('nav_prod', 'images/nav/nav_prod_over.gif'); return true;" onmouseout="changeImages('nav_prod', 'images/nav/nav_prod.gif'); return true;"> 
-
-			   <img name="nav_prod" src="images/nav/nav_prod.gif" width="72" height="22" border="0" alt="Products"></a></td>
-
-			   
-
-		   <td><img src="images/nav/nav_spacer.jpg" width="5" height="22" alt=""></td>
-
-		   <td><a href="index.php?page_id=53" onmouseover="changeImages('nav_news', 'images/nav/nav_news_over.gif'); return true;" onmouseout="changeImages('nav_news', 'images/nav/nav_news.gif'); return true;"> 
-
-			   <img name="nav_news" src="images/nav/nav_news.gif" width="55" height="22" border="0" alt="News"></a></td>
-
-			   
-
-		  </tr>
-
-		  </tbody></table>
-
-	   </td></tr>
-
-	   <tr>
-
-         <td colspan="3">
-
-          <img src="http://www.turbinegames.com/themes/12/hdr_bottom.jpg" width="467" height="56" alt=""></td>
-
-	   </tr>
-
+<table id="homeContainer" cellspacing="0" cellpadding="0">
+  <!-- BEGIN TOP MOST ROW -->
+  <tbody><tr>
+    <td style="height:27px;" colspan="3">
+      <table class="rssTable" cellspacing="0" border="0" cellpadding="0">
+        <tbody><tr>
+          <td class="rssTable" valign="top"><script language="javascript" type="text/javascript">
+              <!--
+              if (flashinstalled == 2 && flashversion >= 6)
+              {
+                document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="271" height="27"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/images/turbinehome/powered.swf" /><param name="loop" value="false" /><param name="quality" value="high" /><embed src="/images/turbinehome/powered.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" allowScriptAccess="sameDomain" quality="high" loop="false" type="application/x-shockwave-flash" width="271" height="27"></embed></object>');
+              }
+              else
+              {
+                document.write('<img src="/images/turbinehome/swap_title.gif" height="27" width="287" alt="Powered By Our Fans" />');
+              }
+              // -->
+            </script><img src="/images/turbinehome/swap_title.gif" height="27" width="287" alt="Powered By Our Fans"></td>
+          <td id="right"><img src="/images/turbinehome/top_end_piece.gif" width="46" height="27" alt="" align="right"></td>
+        </tr>
       </tbody></table>
+    </td>
+  </tr>
+  <!-- END TOP MOST ROW -->
 
-    <!-- TOP NAV -->
+  <!-- BEGIN HEADLINER DISPLAY ROW -->
+  <tr>
+    <td style="height:188px;" colspan="3">
+      <table class="headerTable" cellspacing="0" border="0" cellpadding="0">
+        <tbody><tr>
+          <td colspan="2"><img src="/images/turbinehome/top_trim.gif" width="745" height="7" alt=""></td>
+          <td rowspan="3" height="188" width="100%" style="background-image:url(/images/turbinehome/top_banner_bg.gif); background-repeat:repeat-x; background-position: -1px 0px">&nbsp;</td>
+        </tr>
+        <tr>
+          <td rowspan="2"><img src="/images/turbinehome/fan_left.gif" width="78" height="181" alt=""></td>
+          <td style="width: 667px; height: 113px">
+              <script language="javascript" type="text/javascript">
+              <!--
+              if ((flashinstalled == 2) && (flashversion >= 6) && ((document.location.href.indexOf('?') == -1) || (document.location.href.indexOf('51') != -1)))
+              {
+                document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="667" height="113"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/images/turbinehome/banneranime.swf" /><param name="loop" value="false" /><param name="quality" value="high" /><embed src="/images/turbinehome/banneranime.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" allowScriptAccess="sameDomain" quality="high" loop="false" type="application/x-shockwave-flash" width="667" height="113"></embed></object>');
+              }
+              else
+              {
+                document.write('<img src="/images/turbinehome/flashswaparea.gif" width="667" height="113" alt="Turbine - powered by our fans" />');
+              }
+              // -->
+              </script><img src="/images/turbinehome/flashswaparea.gif" width="667" height="113" alt="Turbine - powered by our fans">
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 667px; height: 68px; background-image: url('/images/turbinehome/bottom_header.gif'); background-repeat: no-repeat;">
+              <!-- MAIN MENU -->
+            <table class="topMenu" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td>
+                  <a href="/"><img id="home_menu" name="home" src="images/turbinehome/home_text_f2.gif" width="88" height="16" border="0" alt="Turbine, Inc." onmouseover="this.src=&quot;/images/turbinehome/home_text_f2.gif&quot;" onmouseout="keepImageOnMouseOut(&quot;home_menu&quot;, &quot;&quot;, &quot;images/turbinehome/home_text.gif&quot;)"></a>
+                </td>
+                <td>
+                  <a href="index.php?page_id=52"><img id="worlds_menu" name="worlds_text" src="/images/turbinehome/worlds_text.gif" width="72" height="16" border="0" alt="Turbine Worlds" onmouseover="this.src=&quot;/images/turbinehome/worlds_text_f2.gif&quot;" onmouseout="keepImageOnMouseOut(&quot;worlds_menu&quot;, &quot;index.php?page_id=52&quot;, &quot;images/turbinehome/worlds_text.gif&quot;)"></a>
+                </td>
+                <td>
+                  <a href="http://store.digitalriver.com/servlet/ControllerServlet?Action=DisplayHomePage&amp;Locale=en_US&amp;SiteID=turbine"><img id="store_menu" name="store_text" src="/images/turbinehome/store_text.gif" onmouseover="this.src=&quot;/images/turbinehome/store_text_f2.gif&quot;" onmouseout="keepImageOnMouseOut(&quot;store_menu&quot;, &quot;index.php?page_id=57&quot;, &quot;images/turbinehome/store_text.gif&quot;)" width="65" height="16" border="0" alt="Turbine Store"></a>
+                </td>
+                <td>
+                  <a href="index.php?page_id=56"><img id="community_menu" name="community_text" src="/images/turbinehome/community_text.gif" onmouseover="this.src=&quot;/images/turbinehome/community_text_f2.gif&quot;" onmouseout="keepImageOnMouseOut(&quot;community_menu&quot;, &quot;index.php?page_id=56&quot;, &quot;images/turbinehome/community_text.gif&quot;)" width="79" height="16" border="0" alt="Community"></a>
+                </td>
+                <td>
+                  <a href="index.php?page_id=53"><img id="contact_menu" name="contact_text" src="/images/turbinehome/contact_text.gif" onmouseover="this.src=&quot;/images/turbinehome/contact_text_f2.gif&quot;" onmouseout="keepImageOnMouseOut(&quot;contact_menu&quot;, &quot;index.php?page_id=53&quot;, &quot;images/turbinehome/contact_text.gif&quot;)" width="74" height="16" border="0" alt="Contact"></a>
+                </td>
+                <td>
+                  <a href="index.php?page_id=55"><img id="company_menu" src="images/turbinehome/company_text.gif" onmouseover="this.src=&quot;/images/turbinehome/company_text_f2.gif&quot;; toggleOn(&quot;companySubNav&quot;, &quot;company_menu&quot;, &quot;/images/turbinehome/company_text_f2.gif&quot;);" onmouseout="keepImageOnMouseOut('company_menu', 'index.php?page_id=55', 'images/turbinehome/company_text.gif'); toggleOff('companySubNav', 'company_menu', '/images/turbinehome/company_text.gif');" width="77" height="16" border="0" alt="Company"></a>
+                </td>
+                <td>
+                  <a href="index.php?page_id=54"><img id="press_menu" name="press_text" style="position: relative; left: -1px;" src="/images/turbinehome/press_text.gif" onmouseover="this.src=&quot;/images/turbinehome/press_text_f2.gif&quot;" onmouseout="keepImageOnMouseOut(&quot;press_menu&quot;, &quot;index.php?page_id=54&quot;, &quot;images/turbinehome/press_text.gif&quot;)" width="71" height="16" border="0" alt="Press"></a>
+                </td>
+              </tr>
+            </tbody></table>
+            <!-- /MAIN MENU -->
+            
+            <!-- FLOATING GAME MENU -->
+            <table class="gameMenu" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td width="52" height="51">
+                  <a href="index.php?page_id=52#ac1"><img src="/images/turbinehome/ac_menu_item.gif" width="52" height="51" onmouseover="this.src=&quot;/images/turbinehome/ac_menu_item_on.gif&quot;" onmouseout="this.src=&quot;/images/turbinehome/ac_menu_item.gif&quot;" border="0" alt="Asheron's Call" title="Asheron's Call"></a>
+                </td>
+                <td width="48" height="51">
+                  <a href="index.php?page_id=52#ac2"><img src="/images/turbinehome/ac2_menu_item.gif" width="48" height="51" onmouseover="this.src=&quot;/images/turbinehome/ac2_menu_item_on.gif&quot;" onmouseout="this.src=&quot;/images/turbinehome/ac2_menu_item.gif&quot;" border="0" alt="Asheron's Call 2" title="Asheron's Call 2"></a>
+                </td>
+                <td width="47" height="51">
+                  <a href="index.php?page_id=52#ddo"><img src="/images/turbinehome/d&amp;d_menu_item.gif" width="47" height="51" onmouseover="this.src=&quot;/images/turbinehome/d&amp;d_menu_item_on.gif&quot;" onmouseout="this.src=&quot;/images/turbinehome/d&amp;d_menu_item.gif&quot;" border="0" alt="Dungeons &amp; Dragons Online" title="Dungeons &amp; Dragons Online"></a>
+                </td>
+                <td width="54" height="51">
+                  <a href="index.php?page_id=52#meo"><img src="/images/turbinehome/meo_menu_item.gif" width="54" height="51" onmouseover="this.src=&quot;/images/turbinehome/meo_menu_item_on.gif&quot;" onmouseout="this.src=&quot;/images/turbinehome/meo_menu_item.gif&quot;" border="0" alt="Middle-Earth Online" title="Middle-Earth Online"></a>
+                </td>
+              </tr>
+            </tbody></table>
+            <!-- /FLOATING GAME MENU  -->
+            
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="background-image:url(/images/turbinehome/header_bottom_strip.gif); background-repeat:repeat-x; height:7px;"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <!-- END HEADLINER DISPLAY ROW -->
 
-  </td>
-
-  <td width="100%"><img src="http://www.turbinegames.com/themes/12/hdr_repeat.jpg" width="100%" height="118"></td>
-
- </tr>
-
-</tbody></table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-
- <tbody><tr>
-
-  <td width="780">
-
-   <table width="100%" border="0" cellpadding="0" cellspacing="0">
-
+  <tr>
+    <td class="leftColumns" valign="top"><img src="/images/turbinehome/top_left_column.gif" width="46" height="135"></td>
+    <td valign="top" width="100%" class="mainBodyTable" height="100%">
+      <div style="height:22px;background-image:url(/images/turbinehome/main_body_top_blue.gif); background-repeat:repeat-x">&nbsp;</div>
+      <div style="height:22px; background-image:url(images/turbinehome/code_top.gif);background-repeat:no-repeat">&nbsp;</div>      
+      <div style="margin-left:122px;width:520px">
+        <!-- BEGIN MAIN CONTENT AREA  -->
+        <table class="lightBlueBox" cellspacing="0" cellpadding="0">
     <tbody><tr>
+        <td>
+          <div class="messageBoxText">
+<p><span class="sectionTitle">Privacy Policy</span></p>
+<p>Last updated April 26, 2004</p>
+<p>Turbine, Inc. (“Turbine,” the “Company” or “we”) respects the privacy of its online visitors and users of its products. Turbine recognizes the importance of protecting any information collected from users and has adopted this privacy policy that guides how Turbine gathers, stores, and uses information provided from users through the Turbine products and online sites as described below.</p>
+<p>This policy is current as of its last revision date indicated above.  However, please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. Please check back for the most current version before relying on any of the provisions in this privacy policy.</p>
+<p>This privacy policy applies to turbinegames.com and other web sites operated by Turbine (including the related online products and services, the “Turbine Sites”), unless such sites contain a separate privacy policy.</p>
 
-     <td width="151" bgcolor="white" valign="top">
+<p><span class="sectionTitle">Collection and Use of Information</span><br>
+By using the Turbine Sites, users agree that Turbine may share with other parties aggregate information and non-identifiable information gathered by Turbine in the course of the continuing use of Turbine Sites.  "Aggregate information" is information that describes the habits, usage patterns, and demographics of users as a group but does not describe or reveal the identity of any particular user.  "Non-identifiable information" is information about a user that is presented in a form distinguishable from information relating to other users but not in a form that personally identifies any user, or enables the recipient to communicate directly with any user unless agreed to by the user in advance of such communication.  Aggregate information or non-identifiable information may be used to improve the Turbine Sites, for internal marketing studies, or simply to collect demographic information about Turbine's users.</p>
+<p>Turbine may use customer contact information provided by users to send information about Turbine, including news about product updates, contests, events, and other promotional materials, but only if the users agree to receive such communications.  Except in the cases described below, Turbine will not share personally identifiable information with any third party unless the user agrees to such disclosure in advance.  "Personally identifiable information" is information that permits a recipient to identify you as an individual, such as your name, mailing address, phone number, email address, credit card information.  While Turbine collects personally identifiable information on a voluntary basis for the use of the Turbine Sites, Turbine's collection of personally identifiable information may be a requirement for access to certain parts of the Turbine Sites and related products or services.</p>
+<p>If you make an online purchase through the Turbine Store (store.turbinegames.com), we may use the personally identifiable information that you provide for shipping and billing purposes only, unless you expressly give us permission to use it for promotional and marketing purposes.  We may also use the personally identifiable information you provide to administer and manage your account.  </p>
+<p>Turbine allows for the online submission of resumes via the Turbine Sites.  Please note that the information (including personal information) collected from a resume is not subject to this privacy policy.  However, we want to assure you that information obtained from your resume will be used solely for the purpose of accepting and evaluating your submission for a job with Turbine.</p>
+<p>We may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service.  You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.</p>
+<p>Turbine may occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail, providing billing and collection services, and processing event registration.  We will only provide these companies the information they need to perform the service, and they will be prohibited from using that information for any other purpose. </p>
+<p>Also, in certain cases, third party companies engaged by Turbine may be collecting your personally identifiable information in connection with certain products or services made available through the Turbine Sites.  For example, product registration data and billing information for Asheron’s Call is currently collected by Microsoft.  In these cases the privacy policies of such companies will apply rather than Turbine’s policy.  If providing the information is a requirement of usage, the user may decline to use that particular product or service. </p>
+<p>Turbine may elect to share personally identifiable information of users with qualified third party partners for marketing or other similar purposes but only if the users agree to share such information.  In such event, such partners will be prohibited from disclosing such information or using such information except for the limited purposes for which such users agree to share such information. </p>
+<p>Generally, when our third-party contractors or partners collect and/or have access to the personally identifiable information you provide when requesting such services from Turbine, we require that they adhere to our stated privacy policies and protect the confidentiality of personally identifiable information they collect or have access to in the course of its engagement by Turbine.</p>
+<p>Furthermore, third party web sites and companies with links to and from the Turbine Sites may collect personally identifiable information about users.  You should be aware that these third-party web sites or links may have their own information collection practices and privacy policies.  We do not control the privacy policies of third parties that have web sites linked to the Turbine Sites.  If you click on a third party advertisement or link, the privacy policies of the third party web site that you link to will govern the use of your information by that web site's operator.  Turbine's privacy policy does not extend to these external web sites and companies.  Please refer directly to these companies and web sites regarding their privacy policies.  We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise.  Accordingly, please make sure you are aware of and comfortable with the privacy policies of any third party web sites you link to.</p>
+<p>Turbine may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Turbine; (b) protect and defend the rights or property of Turbine and its web sites, or (c) act in urgent circumstances to protect the personal safety of Turbine employees, users of Turbine products or services, or members of the public.</p>
 
-     
+<p><span class="sectionTitle">Children Under The Age of 13</span><br>
+Turbine will not knowingly collect personally identifiable information from any person aged 12 and under.  Turbine encourages parents to instruct their children to never give out personal information when online.  Parents who are concerned about the transfer of personally identifiable information from their children may use the tools made available with the particular Turbine Site to delete such information or contact us at privacy@turbinegames.com to make a request to delete such information (subject to proper verification of parental authority).  Once we are so notified we will delete such information.  If you choose to delete your personally identifiable information, you may not be able to access some areas of the Turbine Sites</p>
 
-      <!-- SUBNAV MENU -->
+<p><span class="sectionTitle">Use of Cookies and Other Information Stored on a User's Machine</span><br>
+Cookies are bits of electronic information stored on a user's hard drive to provide information needed by the user on a regular basis. They are often used to save web site customizations and web site login information.  We use cookies only for the operation of the Turbine Sites.</p>
+<p>An IP address is a number that uniquely identifies your computer on the Internet.  We may collect IP addresses for the purposes of system administration, troubleshooting, and compiling aggregate information (such as how many visitors logged on to the Turbine Sites).  When you visit a particular web page on the Turbine Sites, our servers log your IP address.  Your IP address is not linked to your personally identifiable information.</p>
+<p>Turbine stores information on a user's hard drive that is used in conjunction with online play of Turbine products.  This includes a unique authorization key or CD-Key that is either entered by the user or downloaded automatically during product registration.  This authorization key is used to identify a user as valid and allow access to online play of Turbine's products.  Additionally, some user configuration settings for multiplayer game play, including the player name input by the user, are uploaded to the server for online play.  The player name along with current game play stats is displayed to other users during multiplayer game play.  Users should be aware that this game play information disclosed during multiplayer game play is public information.  Turbine does not associate this game play information to personally identifiable information and will not disclose a user's personally identifiable information to other users.</p>
 
-	  <table width="151" height="100%" border="0" cellpadding="0" cellspacing="0">
+<p><span class="sectionTitle">Chat Rooms/Forums</span><br>
+From time to time, Turbine's online products may provide chat rooms and/or forums to users.  Any information that is disclosed in these chat rooms and forums is public information and users should exercise caution when deciding to disclose personal information in such chat forums.  If you voluntarily disclose information in a public area of the Turbine Sites, such as a chat room or message board, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes.  We do not control the actions of these third parties in public areas of the Turbine Sites, so if you disclose information in a public area, you do so at your own risk.</p>
 
-	   <tbody><tr>
+<p><span class="sectionTitle">Choice/Opt-out</span><br>
+Turbine provides users the opportunity to opt-out of receiving communications from Turbine when you are asked to provide information.  In addition, Turbine also gives users the option of discontinuing receipt of communications from Turbine by removing the users' information from Turbine's databases.  Instructions for discontinuing receipt of communications from Turbine will be provided in subsequent email communications to users or updates of this policy.</p>
 
-	    <td><img src="images/nav/snav_gear.jpg" width="151" height="85" alt=""></td>
+<p><span class="sectionTitle">Storage and Security of Information</span><br>
+Personally identifiable information may be stored and processed in the United States or any other country in which Turbine or its affiliates, subsidiaries or agents maintain facilities, and by using the Turbine Sites, you consent to any such transfer of information outside of your country.  Turbine will take reasonable steps to protect the information users share with us.  We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.</p>
 
-	   </tr>
+<p><span class="sectionTitle">Corrections, Updates and Removal of Information</span><br>
+If you are concerned about the accuracy of personally identifiable information maintained by Turbine or would like your personally identifiable information removed from Turbine's records, you may use the tools made available with the particular Turbine Site to update or remove such information or contact us at privacy@turbinegames.com to make a request to update or remove such information.  For your protection, you will be required to provide proof of your identity to obtain a copy of your personally identifiable information.  If you choose to delete your personally identifiable information, you may not be able to access some areas of the Turbine Sites.  We may still retain your information in our files, however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our web sites.</p>
 
-	   <tr>
+<p><span class="sectionTitle">No Absolute Safeguards</span><br>
+Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure.  Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.</p>
 
-	    <td style="background-image: url('images/nav/snav_spacer.jpg'); background-repeat: repeat">
+<p><span class="sectionTitle">Your Role in Protecting Your Privacy</span><br>
+Please remember that protection of your privacy begins with you.  You are solely responsible for maintaining the secrecy of any account ID or password you use to register, and you should always be careful and responsible whenever disclosing information online.</p>
 
-	     <div style="padding-left:0px"><a href="index.php?page_id=50" target="_self"><img src="files/07/03/66/70/2.gif" border="0"></a></div>
-<div style="padding-left:0px"><a href="index.php?page_id=54" target="_self"><img src="files/84/22/52/11/3.gif" border="0" onmouseover="this.src=&quot;files/29/31/50/48/4.gif&quot;" onmouseout="this.src=&quot;files/84/22/52/11/3.gif&quot;"></a></div>
-<div style="padding-left:0px"><a href="index.php?page_id=55" target="_self"><img src="files/26/94/02/75/5.gif" border="0" onmouseover="this.src=&quot;files/04/29/95/88/6.gif&quot;" onmouseout="this.src=&quot;files/26/94/02/75/5.gif&quot;"></a></div>
-<div style="padding-left:0px"><a href="index.php?page_id=56" target="_self"><img src="files/50/34/85/42/7.gif" border="0" onmouseover="this.src=&quot;files/21/45/95/74/8.gif&quot;" onmouseout="this.src=&quot;files/50/34/85/42/7.gif&quot;"></a></div>
-<div style="padding-left:0px"><a href="index.php?page_id=57" target="_self"><img src="files/07/44/65/41/9.gif" border="0" onmouseover="this.src=&quot;files/02/85/80/37/10.gif&quot;" onmouseout="this.src=&quot;files/07/44/65/41/9.gif&quot;"></a></div>
-<div style="padding-left:0px"><a href="index.php?page_id=58" target="_self"><img src="files/06/62/35/61/11.gif" border="0" onmouseover="this.src=&quot;files/01/37/50/04/12.gif&quot;" onmouseout="this.src=&quot;files/06/62/35/61/11.gif&quot;"></a></div>
-<div style="padding-left:0px"><a href="index.php?page_id=59" target="_self"><img src="files/24/44/98/06/13.gif" border="0" onmouseover="this.src=&quot;files/20/64/74/41/14.gif&quot;" onmouseout="this.src=&quot;files/24/44/98/06/13.gif&quot;"></a></div>
-<div style="padding-left:0px"><a href="index.php?page_id=60" target="_self"><img src="files/57/06/80/00/15.gif" border="0" onmouseover="this.src=&quot;files/84/77/90/44/16.gif&quot;" onmouseout="this.src=&quot;files/57/06/80/00/15.gif&quot;"></a></div>
-<div style="padding-left:0px"><a href="index.php?page_id=61" target="_self"><img src="files/13/97/16/53/17.gif" border="0" onmouseover="this.src=&quot;files/73/64/73/16/18.gif&quot;" onmouseout="this.src=&quot;files/13/97/16/53/17.gif&quot;"></a></div>
-<div style="padding-left:0px"><a href="index.php?page_id=62" target="_self"><img src="files/44/24/51/93/19.gif" border="0" onmouseover="this.src=&quot;files/21/88/57/07/20.gif&quot;" onmouseout="this.src=&quot;files/44/24/51/93/19.gif&quot;"></a></div>
+<p><span class="sectionTitle">Acceptance of Privacy Policy</span><br>
+If you use the Turbine Sites, you are accepting the terms and conditions of this privacy policy, and we will have the right to use your information as described in this privacy policy.  If you do not agree to have your information used in any of the ways described in this privacy policy, you must discontinue use of the Turbine Sites.  We reserve the right to modify this privacy policy at any time.  Your continued use of the Turbine Sites after we either personally notify you or generally post such changes on the Turbine Sites will constitute your acceptance of those changes.</p>
 
-
+<p><span class="sectionTitle">Contacting Turbine</span><br>
+If you have any questions about this privacy statement, or the privacy practices of Turbine, please send an e-mail to <a href="mailto:privacy@turbinegames.com">privacy@turbinegames.com</a>. 
+</p></div>
         </td>
-
-	   </tr>
-
-	   <tr>
-
-	    <td><img src="images/nav/snav_bottom.jpg" width="151" height="29" alt=""><br><br><br></td>
-
-	   </tr>
-
- 	  </tbody></table>
-
-	  <!-- End SUBNAV MENU -->
-
-     
-
-     </td>
-
-     <td bgcolor="white" valign="top">
-
-      <table width="100%" cellpadding="0" cellspacing="0" border="0">
-
-       <tbody><tr>
-
-       <td width="70"><img src="images/spacer.gif" alt="" width="70" height="1" border="0"></td>
-
-       <td><br>
-
-       <table border="0" width="100%" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-        <td><p><b><img height="17" src="files/98/23/46/90/81.gif" width="400" border="0"></b></p><p><b>Privacy Policy<br></b></p><p>Last updated April 26, 2004</p><p>Turbine Entertainment Software Corporation (“Turbine,” the “Company” or “we”) respects the privacy of its online visitors and users of its products. Turbine recognizes the importance of protecting any information collected from users and has adopted this privacy policy that guides how Turbine gathers, stores, and uses information provided from users through the Turbine products and online sites as described below. <br></p><p>This policy is current as of its last revision date indicated above. &nbsp;However, please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. Please check back for the most current version before relying on any of the provisions in this privacy policy. <br></p><p>This privacy policy applies to turbinegames.com and other web sites operated by Turbine (including the related online products and services, the “Turbine Sites”), unless such sites contain a separate privacy policy.<br></p><p><b><u>Collection and Use of Information</u></b><br>By using the Turbine Sites, users agree that Turbine may share with other parties aggregate information and non-identifiable information gathered by Turbine in the course of the continuing use of Turbine Sites. &nbsp;"Aggregate information" is information that describes the habits, usage patterns, and demographics of users as a group but does not describe or reveal the identity of any particular user. &nbsp;"Non-identifiable information" is information about a user that is presented in a form distinguishable from information relating to other users but not in a form that personally identifies any user, or enables the recipient to communicate directly with any user unless agreed to by the user in advance of such communication. &nbsp;Aggregate information or non-identifiable information may be used to improve the Turbine Sites, for internal marketing studies, or simply to collect demographic information about Turbine's users. <br></p><p>Turbine may use customer contact information provided by users to send information about Turbine, including news about product updates, contests, events, and other promotional materials, but only if the users agree to receive such communications. &nbsp;Except in the cases described below, Turbine will not share personally identifiable information with any third party unless the user agrees to such disclosure in advance. &nbsp;"Personally identifiable information" is information that permits a recipient to identify you as an individual, such as your name, mailing address, phone number, email address, credit card information. &nbsp;While Turbine collects personally identifiable information on a voluntary basis for the use of the Turbine Sites, Turbine's collection of personally identifiable information may be a requirement for access to certain parts of the Turbine Sites and related products or services. <br></p><p>If you make an online purchase through the Turbine Store (<a href="http://store.turbinegames.com/" target="_blank">store.turbinegames.com</a>), we may use the personally identifiable information that you provide for shipping and billing purposes only, unless you expressly give us permission to use it for promotional and marketing purposes. &nbsp;We may also use the personally identifiable information you provide to administer and manage your account. &nbsp;<br></p><p>Turbine allows for the online submission of resumes via the Turbine Sites. &nbsp;Please note that the information (including personal information) collected from a resume is not subject to this privacy policy. &nbsp;However, we want to assure you that information obtained from your resume will be used solely for the purpose of accepting and evaluating your submission for a job with Turbine.<br></p><p>We may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. &nbsp;You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.<br></p><p>Turbine may occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail, providing billing and collection services, and processing event registration. &nbsp;We will only provide these companies the information they need to perform the service, and they will be prohibited from using that information for any other purpose.&nbsp; <br></p><p>Also, in certain cases, third party companies engaged by Turbine may be collecting your personally identifiable information in connection with certain products or services made available through the Turbine Sites.&nbsp; For example, product registration data and billing information for Asheron’s Call is currently collected by Microsoft. &nbsp;In these cases the privacy policies of such companies will apply rather than Turbine’s policy. &nbsp;If providing the information is a requirement of usage, the user may decline to use that particular product or service.&nbsp; <br></p><p>Turbine may elect to share personally identifiable information of users with qualified third party partners for marketing or other similar purposes but only if the users agree to share such information.&nbsp; In such event, such partners will be prohibited from disclosing such information or using such information except for the limited purposes for which such users agree to share such information.&nbsp; <br></p><p>Generally, when our third-party contractors or partners collect and/or have access to the personally identifiable information you provide when requesting such services from Turbine, we require that they adhere to our stated privacy policies and protect the confidentiality of personally identifiable information they collect or have access to in the course of its engagement by Turbine.<br></p><p>Furthermore, third party web sites and companies with links to and from the Turbine Sites may collect personally identifiable information about users. &nbsp;You should be aware that these third-party web sites or links may have their own information collection practices and privacy policies.&nbsp; We do not control the privacy policies of third parties that have web sites linked to the Turbine Sites.&nbsp; If you click on a third party advertisement or link, the privacy policies of the third party web site that you link to will govern the use of your information by that web site's operator. &nbsp;Turbine's privacy policy does not extend to these external web sites and companies. &nbsp;Please refer directly to these companies and web sites regarding their privacy policies. &nbsp;We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. &nbsp;Accordingly, please make sure you are aware of and comfortable with the privacy policies of any third party web sites you link to. <br></p><p>Turbine may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Turbine; (b) protect and defend the rights or property of Turbine and its web sites, or (c) act in urgent circumstances to protect the personal safety of Turbine employees, users of Turbine products or services, or members of the public.<br></p><p><b><u>Children Under The Age of 13</u></b><br>Turbine will not knowingly collect personally identifiable information from any person aged 12 and under. &nbsp;Turbine encourages parents to instruct their children to never give out personal information when online. &nbsp;Parents who are concerned about the transfer of personally identifiable information from their children may use the tools made available with the particular Turbine Site to delete such information or contact us at <a href="mailto:privacy@turbinegames.com">privacy@turbinegames.com</a>&nbsp;to make a request to delete such information (subject to proper verification of parental authority).&nbsp; Once we are so notified we will delete such information.&nbsp; If you choose to delete your personally identifiable information, you may not be able to access some areas of the Turbine Sites</p><p><b><u>Use of Cookies and Other Information Stored on a User's Machine</u></b><br>Cookies are bits of electronic information stored on a user's hard drive to provide information needed by the user on a regular basis. They are often used to save web site customizations and web site login information.&nbsp; We use cookies only for the operation of the Turbine Sites.</p><p>An IP address is a number that uniquely identifies your computer on the Internet.&nbsp; We may collect IP addresses for the purposes of system administration, troubleshooting, and compiling aggregate information (such as how many visitors logged on to the Turbine Sites).&nbsp; When you visit a particular web page on the Turbine Sites, our servers log your IP address.&nbsp; Your IP address is not linked to your personally identifiable information.</p><p>Turbine stores information on a user's hard drive that is used in conjunction with online play of Turbine products. &nbsp;This includes a unique authorization key or CD-Key that is either entered by the user or downloaded automatically during product registration. &nbsp;This authorization key is used to identify a user as valid and allow access to online play of Turbine's products. &nbsp;Additionally, some user configuration settings for multiplayer game play, including the player name input by the user, are uploaded to the server for online play. &nbsp;The player name along with current game play stats is displayed to other users during multiplayer game play. &nbsp;Users should be aware that this game play information disclosed during multiplayer game play is public information. &nbsp;Turbine does not associate this game play information to personally identifiable information and will not disclose a user's personally identifiable information to other users. </p><p><b><u>Chat Rooms/Forums</u></b><br>From time to time, Turbine's online products may provide chat rooms and/or forums to users. &nbsp;Any information that is disclosed in these chat rooms and forums is public information and users should exercise caution when deciding to disclose personal information in such chat forums. &nbsp;If you voluntarily disclose information in a public area of the Turbine Sites, such as a chat room or message board, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. &nbsp;We do not control the actions of these third parties in public areas of the Turbine Sites, so if you disclose information in a public area, you do so at your own risk.</p><p><b><u>Choice/Opt-out</u></b><br>Turbine provides users the opportunity to opt-out of receiving communications from Turbine when you are asked to provide information. &nbsp;In addition, Turbine also gives users the option of discontinuing receipt of communications from Turbine by removing the users' information from Turbine's databases. &nbsp;Instructions for discontinuing receipt of communications from Turbine will be provided in subsequent email communications to users or updates of this policy. </p><p><b><u>Storage and Security of Information</u></b><br>Personally identifiable information may be stored and processed in the United States or any other country in which Turbine or its affiliates, subsidiaries or agents maintain facilities, and by using the Turbine Sites, you consent to any such transfer of information outside of your country.&nbsp; Turbine will take reasonable steps to protect the information users share with us. &nbsp;We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.</p><p><b><u>Corrections, Updates and Removal of Information</u></b><br>If you are concerned about the accuracy of personally identifiable information maintained by Turbine or would like your personally identifiable information removed from Turbine's records, you may use the tools made available with the particular Turbine Site to update or remove such information or contact us at <a href="mailto:privacy@turbinegames.com">privacy@turbinegames.com</a>&nbsp;to make a request to update or remove such information. &nbsp;For your protection, you will be required to provide proof of your identity to obtain a copy of your personally identifiable information.&nbsp; If you choose to delete your personally identifiable information, you may not be able to access some areas of the Turbine Sites.&nbsp; We may still retain your information in our files, however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our web sites.</p><p><b><u>No Absolute Safeguards</u></b><br>Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure.&nbsp; Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.</p><p><b><u>Your Role in Protecting Your Privacy</u></b><br>Please remember that protection of your privacy begins with you. &nbsp;You are solely responsible for maintaining the secrecy of any account ID or password you use to register, and you should always be careful and responsible whenever disclosing information online.</p><p><b><u>Acceptance of Privacy Policy</u></b><br>If you use the Turbine Sites, you are accepting the terms and conditions of this privacy policy, and we will have the right to use your information as described in this privacy policy. &nbsp;If you do not agree to have your information used in any of the ways described in this privacy policy, you must discontinue use of the Turbine Sites. &nbsp;We reserve the right to modify this privacy policy at any time.&nbsp; Your continued use of the Turbine Sites after we either personally notify you or generally post such changes on the Turbine Sites will constitute your acceptance of those changes.</p><p><b><u>Contacting Turbine</u></b><br>If you have any questions about this privacy statement, or the privacy practices of Turbine, please send an e-mail to <a href="mailto:privacy@turbinegames.com">privacy@turbinegames.com</a>. </p><p></p><p></p></td>
     </tr>
 </tbody></table>
 
+        <!-- END MAIN CONTENT AREA  -->
+      </div>
+      <div style="height:10px; background-image: url(images/turbinehome/code_bottom.gif); background-repeat: no-repeat">&nbsp;</div>
+    </td>
+    <td width="46" class="rightColumns" align="right" valign="top"><img src="/images/turbinehome/top_right_column.gif" width="46" height="133" alt=""></td>
+  </tr>
 
-       <br><br>
-
-       </td>
-
-       </tr>
-
+  <tr>
+    <td valign="bottom" height="34" colspan="3">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td height="34" width="46"><img src="images/turbinehome/lower_left.gif" width="46" height="34" alt=""></td>
+          <td height="34" style="background-image:url(images/turbinehome/bottom_middle_tile.gif); background-repeat:repeat-x; text-align: right" valign="middle"><img style="position: relative; right: -18px; float: right" src="/images/turbinelogo_small.gif" width="35" height="34" alt="Turbine, Inc."><div style="color: #FFFFFF; font-size: 11px; font-weight: bold; position: relative; top: 8px">© 2005 Turbine, Inc. All rights reserved. [ <a href="/index.php?page_id=58" style="color:#FFFFFF;">Legal Info</a> | <a href="/index.php?page_id=59" style="color:#FFFFFF;">Privacy Policy</a> ]</div></td>
+          <td height="34" width="29"><img src="images/turbinehome/lower_right.gif" height="34" alt="" width="29"></td>
+        </tr>
       </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
 
-     </td>
-
-    <td bgcolor="white" align="right" valign="bottom">&nbsp;</td>
-
+<!-- Company sub-menu -->
+<div id="companySubNav" class="companySubNav" onmouseout="toggleOff(&quot;companySubNav&quot;, &quot;company_menu&quot;, &quot;/images/turbinehome/company_text.gif&quot;);" onmouseover="toggleOn(&quot;companySubNav&quot;, &quot;company_menu&quot;, &quot;/images/turbinehome/company_text_f2.gif&quot;);" style="left: 794px;">
+    <table width="78" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td width="78" valign="top">
+            <a href="http://www.turbinejobs.com/"><img id="employment_button" src="/images/turbinehome/employment_text.gif" border="0" width="76" height="15" alt="Employment"></a>
+        </td>
     </tr>
+    <!-- more menu rows here as necessary -->
+    </tbody></table>
+</div>
 
-   </tbody></table>
-
-  </td><td width="100%" bgcolor="white">&nbsp;</td>
-
- </tr>
-
- <tr>
-
-  <td width="780"><img src="http://www.turbinegames.com/themes/12/ftr_bar.jpg" width="780" height="31" alt=""></td>
-
-  <td width="100%">&nbsp;</td>
-
- </tr>
-
-</tbody></table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-
- <tbody><tr>
-
-   <td>
-
-    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-
-     <tbody><tr>
-
-      <td valign="top"><img src="http://www.turbinegames.com/themes/12/ftr_gears.jpg" width="208" height="63" alt=""></td>
-
-      <td valign="top"><img src="http://www.turbinegames.com/themes/12/ftr_spacer.jpg" width="572" height="25"><br><br>
-
-          <font color="white">©2004 Turbine Entertainment Software Corp. All rights reserved.</font>
-      </td>
-
-     </tr>
-
-     <tr><td colspan="2"><div align="center">
-     <a style="color:white" href="index.php?page_id=62">Legal Info</a> | <a style="color:white" href="index.php?page_id=77">Privacy Policy</a><!-- | <a style='color:white' href='index.php?page_id=78'>Terms of Use</a> --><br><br><br>
-     <img src="images/logosmall.gif"></div></td></tr>
-
-    </tbody></table></td>
-
-   <td width="100%">&nbsp;</td>
-
- </tr>
-
-</tbody></table>
-
-<p>&nbsp;<br>&nbsp;<br>&nbsp;</p>
-
-
-
-
+<script type="text/javascript">
+	<!--
+	
+    pageManagement();
+	
+	// -->
+</script>  
 
 
 
