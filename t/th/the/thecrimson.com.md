@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2000-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000601123643id_/http%3A//www.thecrimson.com/internal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208152900id_/http%3A//www.thecrimson.com/internal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement: The Harvard Crimson Online
 
