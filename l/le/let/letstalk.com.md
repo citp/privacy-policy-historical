@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405183445id_/http%3A//letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201054241id_/http%3A//letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -11,13 +11,15 @@ We collect information at several stages during your interaction with LetsTalk.c
 When you buy a product, you give us contact and shipping information (like your name, address, phone number, e-mail address, etc.) and credit information like Social Security number, date of birth, credit card and driver's license identification. We use this information to process and fulfill your order and to protect you from false purchases made in your name.
 
   * What if I am reluctant to provide information online?  
-Not a problem, you may contact [customer service](https://web.archive.org/about/support1.htm) and give them your information through email or via the telephone. If you elect not to provide the information necessary for a service contract, you may choose to acquire a pre-paid service agreement.
+Not a problem, you may contact [customer service](https://web.archive.org/about/contact1.htm) and give them your information through email or via the telephone. If you elect not to provide the information necessary for a service contract, you may choose to acquire a pre-paid service agreement.
   * What do you do with the information?   
 Your contact and shipping information is given only to the service provider, the manufacturer making the product you purchase, and Federal Express. Your personal credit information is forwarded only to a third-party credit card approval service to verify your credit card account balance and for your wireless service provider to authorize service credit according to their terms. 
 
 LetsTalk.com uses your information to follow-up on your order and to send you updated information on our company, products and services. Your service provider and manufacturer may also send you similar information.
 
-If you prefer not to receive correspondence from LetsTalk.com, you may contact [customer service](https://web.archive.org/about/support1.htm) with your request. If you elect not to receive information from the manufacturer of the product you bought or the service provider you selected, please note that in your correspondence. If you prefer NOT to provide personal information over the internet, please place your order directly through Customer Service. 
+At checkout, you can opt-out of our mailing list to avoid receiving newsletters on new wireless products and promotions. Our site also provides the opportunity to opt-in to receive mailings without purchasing from LetsTalk.com. All promotional newsletters have instructions on how to be removed from our mailing list. Subscribers may also contact [help@letstalk.com](mailto:help@LetsTalk.com) to opt-out. We do not collect email addresses of recipients of newsletters forwarded by LetsTalk.com subscribers. 
+
+If you prefer not to receive correspondence from LetsTalk.com, you may contact [customer service](https://web.archive.org/about/contact1.htm) with your request. If you elect not to receive information from the manufacturer of the product you bought or the service provider you selected, please note that in your correspondence. If you prefer NOT to provide personal information over the internet, please place your order directly through Customer Service. 
 
 
 
@@ -39,7 +41,7 @@ In addition to technical security, we do not share data with other organizations
 
 Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, LetsTalk.com will cover the entire liability for you, up to the full $50.00. We will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at LetsTalk.com while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
-For more detailed information about our security measures, contact [customer service](https://web.archive.org/about/support1.htm).  
+For more detailed information about our security measures, contact [customer service](https://web.archive.org/about/contact1.htm).  
 
 
 Cookies  
@@ -51,7 +53,7 @@ How to enable cookies:
 Microsoft Internet Explorer 5.0  
 
   * Select Tools -> Internet Options and click on the "Security" tab. 
-  * The default selection, "Medium", supports cookies, but you can click on the "Custom Level" button to check. Scroll down until you see the word "Cookies" and verify that the radio button next to "Enable" is selected in both options. 
+  * The default selection, "Medium," supports cookies, but you can click on the "Custom Level" button to check. Scroll down until you see the word "Cookies" and verify that the radio button next to "Enable" is selected in both options. 
 
 Microsoft Internet Explorer 4.0  
 _On a PC:_  
