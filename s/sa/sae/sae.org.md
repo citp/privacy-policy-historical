@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207052508id_/http%3A//www.sae.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605055721id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
 
 # SAE Website Privacy Policy
+
+|  |  |  |  | [Membership](http://www.sae.org/membership/) |  | [Events & Education](http://www.sae.org/events/) |  | [Publications](http://store.sae.org/) |  | [Standards](http://www.sae.org/standardsdev/) |  | [Forums](http://forums.sae.org/)  
+---|---|---|---|---|---|---|---|---|---  
+|  |   
+---|---|---  
+| 
 
 ##  SAE Website Privacy Policy  
 _Your privacy is important to us!_  
@@ -78,7 +84,13 @@ If you have comments or questions about this Policy, please contact us at:
 > Email: PrivacyPolicy@sae.org  
 >  Phone: +1 877 606 7323 
 
-|  |    
+|   
   
-[](https://web.archive.org/jsp/jsps/logout_shortcut.jsp)   
-| 
+|   
+---|---  
+  
+|   
+|  | ©2004 SAE International. All rights reserved.  
+CustomerService@sae.org | U.S. & Canada: 1-877-606-7323  
+International: 1-724-776-4970  
+---|---
