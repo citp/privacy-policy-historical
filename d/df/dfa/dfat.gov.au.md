@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203011036id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602130336id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The Department - Australian Department of Foreign Affairs and Trade
 
@@ -32,6 +32,4 @@ _Updated April 2002_
 
 * * *
 
-[Home](https://web.archive.org/index.html) | [Search](http://www.dfat.gov.au/search) | [Site Index](http://www.dfat.gov.au/directory.html)
-
-© [Commonwealth of Australia 2002](http://www.dfat.gov.au/copyright.html) | [Disclaimer](http://www.dfat.gov.au/disclaim.html) | [Privacy](http://www.dfat.gov.au/privacy.html)
+© [1996-2003 Commonwealth of Australia](http://www.dfat.gov.au/copyright.html) | [Disclaimer](http://www.dfat.gov.au/disclaim.html) | [Privacy](http://www.dfat.gov.au/privacy.html)
