@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212001725id_/http%3A//www.42photo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406025441id_/http%3A//www.42photo.com/privacy.asp) for the most accurate reproduction.*
 
 # 42Photo.com Computers and Electronics
 
@@ -42,9 +42,9 @@ We use IP addresses to analyze trends, administer the site, track user�s movem
 
 When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just �surfing�.  To learn more about SSL, follow this link
 
-<https://digitalid.verisign.com/as2/eacaa94e20e0a1eac8e44a02e1b0567a>
+[https://digitalid.verisign.com/as2/89d16c88a39f4c4137227222b27baa29](https://digitalid.verisign.com/as2/eacaa94e20e0a1eac8e44a02e1b0567a)
 
-[](https://digitalid.verisign.com/as2/4622aa586dae4cce5e81e850204e9562)    
+[](https://digitalid.verisign.com/as2/89d16c88a39f4c4137227222b27baa29)    
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users� information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Our employees must use password-protected screen-savers when they leave their desk.  When they return, they must re-enter their password to re-gain access to your information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers� information is protected.  Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
