@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604093721id_/http%3A//www.british-history.ac.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204182805id_/http%3A//www.british-history.ac.uk/privacy.asp) for the most accurate reproduction.*
 
-# British History Online - privacy policy
-
-  
-
+# Privacy policy | British History Online
 
 ## Privacy policy
 
@@ -32,7 +29,7 @@ This information is stored such that you do not need to re-register when you com
 
 #### 2 Feedback Information
 
-We welcome your feedback. You can contact us by completing our [feedback form](https://web.archive.org/web/20040604093721id_/http%3A//www.british-history.ac.uk/about.asp). 
+We welcome your feedback. You can contact us by completing our [feedback form](https://web.archive.org/web/20041204182805id_/http%3A//www.british-history.ac.uk/about.asp). 
 
 #### Site usage information 
 
@@ -61,11 +58,8 @@ We do not pass on any personal information you have given us to any other site.
 
 You can change your registration information at any time. To do this, you should sign in then click to "Edit your details" on the right-hand menu bar. 
 
-If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by completing our [feedback form](https://web.archive.org/web/20040604093721id_/http%3A//www.british-history.ac.uk/about.asp)
+If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by completing our [feedback form](https://web.archive.org/web/20041204182805id_/http%3A//www.british-history.ac.uk/about.asp)
 
 ### Changes to this privacy policy 
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-
-  
-
