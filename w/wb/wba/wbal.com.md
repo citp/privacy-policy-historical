@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405131609id_/http%3A//www.wbal.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214083920id_/http%3A//wbal.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # WBAL Radio - Privacy Policy
 
