@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193054id_/http%3A//www.pga.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001173319id_/http%3A//www.pga.com/privacy.cfm) for the most accurate reproduction.*
 
-# PGA.com :: Provacy Policy
+# PGA.com :: Privacy Policy
 
 Thank you for visiting PGA.com. Turner Sports Interactive, Inc. ("TSI") operates PGA.com pursuant to agreements with the Professional Golfers Association of America ("PGA"). Your privacy is important to TSI and PGA ("we", "us" or "our"). To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at PGA.com. Please be advised that the practices described in this Privacy Notice apply only to information gathered through and in connection with this web site and do not necessarily reflect our practices for other sites we operate. 
 
