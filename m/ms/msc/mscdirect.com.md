@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mscdirect.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603175022id_/http%3A//www.mscdirect.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscdirect.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203020351id_/http%3A//www.mscdirect.com/privacy.shtml) for the most accurate reproduction.*
 
 # MSC Industrial Supply Co.
 
