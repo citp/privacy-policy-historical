@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritair.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608202317id_/http%3A//spiritair.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritair.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222705id_/http%3A//www.spiritair.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # 
 
