@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209160318id_/http%3A//www.ktimothy.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602170431id_/http%3A//i-love-disney.com/info/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy
+# I-Love-Disney.com Privacy Policy
 
   
-[](http://click.linksynergy.com/fs-bin/click?id=LbUtqIgJGMc&offerid=6555.10000049&type=4&subid=0)
+  
+  
+
 
 > ## Information Collection and Use
 > 
-> Ktimothy.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Ktimothy.com collects information from our users at several different points on our website.
+> I-Love-Disney.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. I-Love-Disney.com collects information from our users at several different points on our website.
 > 
 > ## Log Files
 > 
@@ -15,29 +17,29 @@
 > 
 > ## Links
 > 
-> This web site contains links to other sites. Please be aware that we [Ktimothy.com] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+> This web site contains links to other sites. Please be aware that we [I-Love-Disney.com] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 > 
 > ## Newsletter
 > 
 > If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
 > 
-> ## Surveys, Contests & Awards 
+> ## Surveys, Contests, Topsites & Awards 
 > 
-> From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+> From time-to-time our site may request information from users via surveys ,topsites or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 > 
 > ## Tell-A-Friend
 > 
-> If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. [Ktimothy.com] will automatically send the friend a one-time email inviting them to visit the site. [Ktimothy.com] stores this information for the sole purpose of sending this one-time email. The friend may contact [Ktimothy.com] at [www.ktimothy.com] to request the removal of this information from their database.
+> If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. [I-Love-Disney.com] will automatically send the friend a one-time email inviting them to visit the site. [I-Love-Disney.com] stores this information for the sole purpose of sending this one-time email. The friend may contact [I-Love-Disney.com] at [I-Love-Disney.com] to request the removal of this information from their database.
 > 
 > ## Correction/Updating Personal Information:
 > 
-> If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. 
+> If a user's personally identifiable information changes (such as your email), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. 
 > 
 > ## Choice/Opt-out 
 > 
-> Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
+> Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. 
 > 
-> Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@ktimothy.com](mailto:support@ktimothy.com)
+> Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@I-Love-Disney.com](mailto:support@I-Love-Disney.com)
 > 
 > Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 > 
@@ -48,12 +50,19 @@
   
   
   
-    [](http://www.ktimothy.com/) This Page Last Updated:  
- _Tuesday, 19-Nov-2002 15:23:20 PST_  
+    [ ](http://i-love-disney.com/)   
+This Page Last Updated:  
+ _Friday, 15-Nov-2002 16:01:20 PST_  
 Page created:  
 Saturday, April 28, 2001   
 This site best viewed with a screen resolution of 800x600   
 Best viewed by IE5 or above and Java enable.  
 Netscape(and others) users won't see this site as intended.  
+**  
+****  
   
-[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00064141P006)
+[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00064141P006)   
+**[Image and Domain Hosting& Domain Registration and Management ](http://jbchosting.com/)**[  
+  
+**MONTHLY and YEARLY Domain Hosting Packages available!!**](http://jbchosting.com/) ****   
+**
