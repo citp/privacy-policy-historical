@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202210957id_/http%3A//lbc.co.uk/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612053111id_/http%3A//lbc.co.uk/privacypolicy.asp) for the most accurate reproduction.*
 
 # LBC
 
