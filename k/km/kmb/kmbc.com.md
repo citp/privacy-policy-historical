@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the kmbc.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603033007id_/http%3A//www.thekansascitychannel.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmbc.com privacy policy that was archived on 2002-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020203152639id_/http%3A//kmbc.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
 
 # TheKansasCityChannel.com - Privacy Policy
 
 [](https://web.archive.org/news/)  
 |    
+|   
+---  
+|   
+  
 
 
 ## Privacy Policy
@@ -48,10 +52,30 @@ Mendota Heights, MN 55120
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We may also decide to notify our users by e-mail of significant changes.
 
-Stock Box [Copyright ©2001](https://web.archive.org/sh/miscellaneous/stories/miscellaneous-75094720010502-100516.html) , Standard & Poor’s, a division of The McGraw-Hill Companies, Inc. All rights reserved.
+  
 
+
+Stock Box [Copyright ©2002](https://web.archive.org/sh/miscellaneous/stories/miscellaneous-75094720010502-100516.html) , Standard & Poor’s, a division of The McGraw-Hill Companies, Inc. All rights reserved.
+
+  
+  
+  
   
   
 |    
+| Sponsor  
+---  
   
 
+
+  
+
+
+Noon News Headlines  
+Entertainment News  
+Sports News  
+Letter From Larry  
+Daily Weather Forecast  
+
+
+[...more newsletters](https://web.archive.org/news/email-newsletters.html)
