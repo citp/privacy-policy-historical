@@ -1,51 +1,61 @@
-> *The following text is extracted and transformed from the londonstockexchange.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202065622id_/http%3A//www.londonstockexchange.com/disclaimer/dispol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonstockexchange.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013080347id_/http%3A//www.londonstockexchange.com/en-gb/Global/F/privacypolicy) for the most accurate reproduction.*
 
-# London Stock Exchange > Disclaimer
+# London Stock Exchange - Privacy policy
 
-Disclaimer & Privacy Policy
+**1.  INTRODUCTION**
 
-Disclaimer
+1.1 This Privacy Policy explains how the London Stock Exchange plc (“the Exchange”, “we”, “us” or “our”) collects information from you when you visit or register to use [www.londonstockexchange.com](http://www.londonstockexchange.com/) (the “Website”) and how this information is then used. If you have any questions about this statement or your personal information that we may collect from you, please contact us at [newwebsite@londonstockexchange.com](mailto:newwebsite@londonstockexchange.com).
 
-London Stock Exchange plc endeavours to ensure that the data and other material in this web-site are correct and complete, but does not accept liability for any error made or omission from this web-site. The development of London Stock Exchange plc products and services is continuous and published information may not be up to date. It is important to check the current position with London Stock Exchange plc.
+1.2 Please read this Privacy Policy carefully and re-visit this page from time to time to review any changes that may have been made.
 
-You acknowledge and agree that all proprietary rights in the information received shall remain the property of London Stock Exchange plc. Reproduction, redistribution and transmission of any information contained in the web-site is strictly prohibited.
+1.3 We are registered as a data controller in accordance with United Kingdom Data Protection Act 1998. We will process any personal information we collect about you in accordance with the Data Protection Act 1998. 
 
-London Stock Exchange plc shall not be liable for any claims or losses of any nature, arising indirectly or directly from use of the data or material on this site or unauthorised access to this site or otherwise howsoever arising (except to the extent required by law).
+1.4 This Privacy Policy applies to you whether you use the Website as a casual browser, have registered to use the Website or have entered into a contract with the Exchange in relation to the supply of specific services and/or products. In the event of any conflict between this Privacy Policy and the terms of a contract you have with the Exchange, the relevant provision of that contract shall prevail to the extent of any inconsistency.
 
-The contents of this web-site do not constitute an invitation to invest in shares of London Stock Exchange plc. Links to other sites from this web-site are for information only. Should the viewer leave this web-site via a link contained herein, and view content that is not provided by London Stock Exchange plc, the viewer does so at its own risk. The content to which you link will not have been developed, checked for accuracy, or otherwise reviewed by London Stock Exchange plc. London Stock Exchange plc is not responsible for damages or losses caused by any delays, defects or omissions that may exist in the services, information or other content provided in such site, whether actual, alleged, consequential or punitive. London Stock Exchange plc makes no guarantees or representations as to, and shall have no liability for, any electronic content delivered by any third party, including, without limitation, the accuracy, subject matter, quality or timeliness of any electronic content.
+**2.  WHAT PERSONAL INFORMATION DOES THE EXCHANGE COLLECT, AND HOW IS THAT INFORMATION THEN USED?**
 
-Access to this web-site is confirmation that you have understood and accepted these terms.
+2.1 Information collected when you browse the Website  
+We will not collect any personal information about you from your browsing of the Website unless you agree to collection and use of your personal data.
 
-Calls to the London Stock Exchange plc may be recorded to enable London Stock Exchange plc to carry out its regulatory responsibilities.
+2.2 Information collected when you become a customer of the Exchange  
+When you enter into a contract with us for our services or products, you may be asked to submit personal information about yourself in order to receive or use these services or products. This information may include, for example, your name, address, job title, telephone number, email address and financial information necessary to conclude the contract and enable administration and management of such services or products.  We will only collect information that is necessary for us to provide you with the product or service that you have requested. The type of information that we may collect will depend upon the nature of that service or product. 
 
-FTSE™ techMARK mediscience Index is calculated by FTSE International Limited ("FTSE"). All rights, except for the rights to the trademark techMARK medisicence, in and to the FTSE™ techMARK mediscience Index vest in FTSE. "FTSE™" is a trade mark of London Stock Exchange PLC and The Financial Times Limited and is used by FTSE under licence. techMARK mediscience is a trade mark of London Stock Exchange plc and is used by FTSE under licence.
+2.3 How will we use any personal information that we collect?
 
-Privacy Policy
+2.3.1 Where we collect personal information, we will use it for administration and to tailor our service and/or products to match your needs. We may also use personal information to conduct market research surveys, for statistical analysis to determine site usage, to run competitions and for direct marketing purposes relating to our business. 
 
-**1\. What information do we collect?**
+2.3.2 We may employ the services of a third party to help us in certain areas, such as website hosting, marketing and market researching. In some cases that third party may receive your information. However, at all times we will control and be responsible for the use of your information. 
 
-From time to time, you will be asked to submit personal information about yourself (eg name, job title and contact details) in order to receive or use our services, eg our share prices services, receipt of techMARK news, Market Operations Notices and employment information.
+2.3.3 At all times we are legally obliged to collect, retain and process any personal information that you provide in accordance with the Data Protection Act 1998. Each time you provide us with personal information we aim to let you know how we intend to use it and ask you to give your consent to such use.  This will include:  
 
-**2\. What do we use personal information for?**
 
-We will use your data to tailor our service to match your needs. We may also use personal information collected from our services to conduct market research surveys, for statistical analysis to determine site usage, to run competitions and for direct marketing purposes relating to our business. An 'opt-out' box will appear each time you are asked to provide personal data for these additional purposes. Please tick this box if you do not wish your data to be used in this way.
+(a) where we would like to use that information to send you details of other products and services we offer which are similar to the product/service for which you have subscribed; and 
 
-**3\. How do we use your information?**
+(b) where we would like to share that information with certain selected third parties to allow them to provide you with details of their services and/or products which might be of interest to you.
 
-We have legal obligations, under the Data Protection Act 1998, to collect any personal information that you provide to us fairly. Each time you provide us with personal information we will let you know how we intend to use it and whether we will pass the information on to a third party. We will hold your personal information securely and will only keep it for as long as you use the service that you have requested, unless you have provided us with your consent to use the data for any additional purposes.
+2.4  How can I remove, update, prevent use of or correct my personal information?  
+Please refer to the “My Account” section of the Website, where you can update, correct or delete your personal information as appropriate.  Should you wish the Exchange to cease marketing to you, you should also utilise this area of the Website or contact [newwebsite@londonstockexchange.com](mailto:newwebsite@londonstockexchange.com).
 
-**4\. What is a cookie?**
+**3.  HOW DOES THE EXCHANGE PROTECT YOUR PERSONAL INFORMATION?**
 
-When you enter our site your computer will automatically be issued with a cookie. Cookies are devices which identify your computer to our server and personalise the site for your future use. Cookies only record the areas of our site that a computer has visited. A cookie will not provide us with any personal information. Therefore, if you have not supplied us with any personal information, you can still browse our site anonymously. If you do not want a cookie you can set your browser to deny it.
+3.1 We will hold your personal information securely and will only keep it for as long as is reasonably necessary in the circumstancesyou are registered to use the Website or for as long as you use the service that you have requested, unless you have provided us with your consent to use the data for any additional purposes.  We take the security of the Website and the information you provide very seriously and we will take all appropriate technical measures using recognized security procedures and tools in accordance with good industry practice to protect your personal information. 
 
-**5\. IP Address**
+3.2 Whilst we use all reasonable endeavours to protect your security in the manner described above, we consider that it is only appropriate to advise users that data transmission over the Internet and the World Wide Web cannot always be guaranteed as 100% secure, and therefore that you use the Website at your own risk.
 
-If you are connected to the internet you will have an IP Address. This may take the form of a figure, such as 333.333.22.1. The address will be automatically collected and logged as part of the connection of your computer to our web server and may be used to determine the total number of visits to each part of the site. If there is a security breach the relevant IP Address will be identified by the Internet Service Provider and the user may be contacted.
+**4.  DOES THE EXCHANGE USE COOKIES?**
 
-**6\. Advertisements and Promotions**
+4.1 Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to the Website.  You do not need to have cookies turned on to visit most of the Website. A cookie will not provide us with any personal information. Therefore, if you have not supplied us with any personal information, you can still browse our site anonymously. 
 
-We use the services of Engage (UK) Limited for the selling and tracking of advertisements, promotions and other marketing messages on our site. To do this, Engage collects and stores anonymous data usually through the use of cookies. Also, in relation to WAP services, Engage uses an ID associated with your wireless device (this ID may be your phone number for your mobile phone). No personally identifiable information about you is disclosed to Engage, nor does Engage use the device ID to derive any personally identifiable information. To learn more about Engage or if you do not wish your anonymous data to be collected and stored by Engage, go to [http://www.engage.com/privacy](https://web.archive.org/web/20020202065622id_/http%3A//www.londonstockexchange.com/disclaimer/disclaimer.asp?url=www.engage.com/privacy/).
+4.2 We do not automatically capture or store personal data from browsers to the site, other than to log your IP address and session information such as the duration of the visit to our site and the nature of the browser used. This information is used only for administration of the site system and in the compilation of statistics used by the Exchange.
 
-**7\. Scope of this policy**
+4.3  Cookies may be required to allow you to access and participate in certain areas of the Website.  We will notify you of this when you attempt to access such an area. Once you have closed your browser, the cookie is deactivated. 
 
-This privacy policy only covers the London Stock Exchange website at [www.londonstockexchange.com](http://www.londonstockexchange.com/). Links within this site to other websites are not covered by this policy.
+4.4 The majority of browsers will allow you to alter the settings used for cookies and to disable and enable them as you require.  If you do not want cookies then please refer to the help menu on your browser for instructions on disabling them.  For further general information on cookies and more detailed advice on how to disable and enable them please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+**5.  CHANGES TO THIS PRIVACY POLICY**
+
+If we make any changes to this Privacy Policy these changes will be detailed on this page in order to ensure that you are fully aware of what information is collected, how it is used and under what circumstances it will be disclosed. 
+
+**6.  LINKS**
+
+This Privacy Policy applies only to information collected by this Website.  The Website may contain links to other websites. Please be aware that we are not responsible for the privacy policies of such other sites and we would advise you to read the privacy statement of any website that collects personal information from you.
