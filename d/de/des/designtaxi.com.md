@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611235801id_/http%3A//www.designtaxi.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206185631id_/http%3A//www.designtaxi.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # TAXI .:::. Privacy Policy
 
-[Online Privacy Notice](http://www.designtaxi.com/#one)  
-[What Information is Collected](http://www.designtaxi.com/#two)  
-[How Information is Used](http://www.designtaxi.com/#three)  
-[How Third-Parties are Involved](http://www.designtaxi.com/#four)  
-[Application of Cookies](http://www.designtaxi.com/#five)  
-[Commitment to Security](http://www.designtaxi.com/#six)  
-[How End-Users can Access and Correct Information](http://www.designtaxi.com/#seven)  
-[Special Notes to General Audience and Parents](http://www.designtaxi.com/#eight)  
-[Essential Contact Information](http://www.designtaxi.com/#nine)
+» [Online Privacy Notice](http://www.designtaxi.com/privacypolicy.jsp#one)  
+» [What Information is Collected](http://www.designtaxi.com/privacypolicy.jsp#two)  
+» [How Information is Used](http://www.designtaxi.com/privacypolicy.jsp#three)  
+» [How Third-Parties are Involved](http://www.designtaxi.com/privacypolicy.jsp#four)  
+» [Application of Cookies](http://www.designtaxi.com/privacypolicy.jsp#five)  
+» [Commitment to Security](http://www.designtaxi.com/privacypolicy.jsp#six)  
+» [How End-Users can Access and Correct Information](http://www.designtaxi.com/privacypolicy.jsp#seven)  
+» [Special Notes to General Audience and Parents](http://www.designtaxi.com/privacypolicy.jsp#eight)  
+» [Essential Contact Information](http://www.designtaxi.com/privacypolicy.jsp#nine)
 
-**HILLS CREATIVE ARTS Pte Ltd ("HCA") Online Privacy Notice**  
+**HILLS CREATIVE ARTS Pte Ltd ("HCA") Online Privacy Notice** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
 This page set forth Hills Creative Arts Pte Ltd’s Privacy Policy (“Privacy Policy”) for these web sites, http://www.ASTERIK.net and http://www.DESIGNTAXI.com (“Site”) and other residing sites under its domain. To better protect our end-user privacy, this notice explains our online information practices and the choices end-users can make about the way their information is collected and used at this HCA site. BY USING THIS WEBSITE, THE USER AGREES TO THE TERMS OF THIS PRIVACY POLICY.  
-[Back to Top](http://www.designtaxi.com/#top)
 
-**What information is collected**  
+
+**What information is collected** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
 At some HCA sites, end-users can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online mailing lists, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include:
 
 | **Individual End-Users** | **Corporate End-Users**  
@@ -81,9 +81,9 @@ At certain HCA sites, end-users can submit information about other people. For e
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to log in to user accounts; order products, programs, and services; or otherwise participate in the site's activities and offerings.
 
 We also may collect certain non-personally identifiable information when end-users visit our web pages such as the types of browsers end-users are using (e.g., Netscape, Internet Explorer), the type of operating systems end-users are using and the domain name of their Internet service providers.  
-[Back to Top](http://www.designtaxi.com/#top)
 
-**How information is used**  
+
+**How information is used** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
 We may use the information end-users provide about yourself to fulfill their requests for our products, programs, and services, to respond to their inquiries about our offerings, and to offer end-users other products, programs or services that we believe may be of interest to end-users.
 
 We sometimes use this information to communicate with end-users, such as to notify end-users when they have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by end-users for an online newsletter, or to contact end-users about their account with us.
@@ -107,38 +107,38 @@ Certain HCA sites may disclose personally identifiable information to companies 
 HCA may on occasion combine information we receive online with outside records to enhance our ability to market to end-users those products or services that may be of interest to end-users. If end-users prefer not to receive marketing information from this site.
 
 Finally, HCA sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing end-users with an opportunity to opt out of these unrelated uses.  
-[Back to Top](http://www.designtaxi.com/#top)
 
-**How Third-Parties are involved**  
+
+**How Third-Parties are involved** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
 HCA sites sometimes may offer content (e.g., contests or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. HCA has no control over these parties' use of this information. The HCA site will notify end-users at the time of requesting personally identifiable information if these parties will obtain such information.
 
 Some HCA sites may use a reputable third party to present or serve the advertisements that end-users may see at its Web pages. Our privacy policy does not cover any use of information that a third-party ad server may have collected from end-users.  
-[Back to Top](http://www.designtaxi.com/#top)
 
-**Application of Cookies**  
+
+**Application of Cookies** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
 In order to enhance end-user experience, some of HCA pages use "cookies" to store preferences to facilitate navigation of the end-user. Cookies, by themselves, do not disclose e-mail addresses or other personally identifiable information unless end-users choose to provide this information to us by, for example, registering at one of our sites. However, once end-users choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
 We use cookies to understand consumer behavior, site traffic and usage; and to improve the content and offerings on our sites. For example, we may use cookies to personalize their experience at our web pages (e.g. to recognize end-users by name when they return to our site), save their password in password-protected areas, and enable end-users to use shopping carts on our sites. We also may use cookies to offer end-users products, programs, or services.  
-[Back to Top](http://www.designtaxi.com/#top)
 
-**Commitment to Security**  
+
+**Commitment to Security** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
 Appropriate physical, electronic, and managerial procedures will be maintained to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.  
-[Back to Top](http://www.designtaxi.com/#top)
 
-**How End-Users can Access or Correct Information**  
+
+**How End-Users can Access or Correct Information** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
 For instructions on how end-users can access the personally identifiable information that this HCA site has collected about end-users online, or how to correct factual errors in such information, please click on the login link on the top of this page. Different users will have different levels of access. For security reasons, end-users will have to log in with their preferred user ids and assigned passwords.  
-[Back to Top](http://www.designtaxi.com/#top)
 
-**Special Note for General Audience and Parents**  
-The site end-users are visiting is one of the HCA general audience sites. Content has been regulated and any explicit (e.g. violence or sexual) or unauthorized content, as decided by HCA, will be removed within forty-eight (48) hours once the HCA online team has been notified. It should be, however, noted that certain topics (e.g. nudity or racism) may be displayed on some articles and be recognized as authorized articles for artistic expression and not be treated as illegal materials. 
+
+**Special Note for General Audience and Parents** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
+The site end-users are visiting is one of the HCA general audience sites. Content has been regulated and any explicit (e.g. violence or sexual) or unauthorized content, as decided by HCA, will be removed within forty-eight (48) hours once the HCA online team has been notified. It should be, however, noted that certain topics (e.g. nudity or racism) may be displayed on some articles and be recognized as authorized articles for artistic expression and not be treated as illegal materials.
 
 Due to the artistic and creative nature of HCA, its sites and its end-users, certain display content may be controversial to certain audience. In instance of this happening, our audience is advised to contact HCA if they find any content undesirable and/or unsuitable for public viewing by using our feedback form at the end of each page. Upon removal, owner(s) of the removed content(s) will be notified accordingly after removal of content. They will then advance to submit new content(s) that will undergo another evaluation process before publishing. It is, however, important to note that request to remove content may be disregarded if we have evaluated and find the content suitable for display on our sites.  
-[Back to Top](http://www.designtaxi.com/#top)
 
-**Essential Contact Information**  
-If end-users have any questions or concerns about the HCA online policy for this site or its implementation end-users may contact us by means of 
+
+**Essential Contact Information** [](http://www.designtaxi.com/privacypolicy.jsp#top)  
+If end-users have any questions or concerns about the HCA online policy for this site or its implementation end-users may contact us by means of
 
 Postal Address  
 Robinson Road Post Office  
@@ -151,4 +151,4 @@ Helpdesk Facsimile
 
 Helpdesk Email Address (Privacy Policies)  
 privacy@hillscreativearts.com  
-[Back to Top](http://www.designtaxi.com/#top)
+
