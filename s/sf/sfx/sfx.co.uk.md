@@ -1,53 +1,22 @@
-> *The following text is extracted and transformed from the sfx.co.uk privacy policy that was archived on 2000-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000819045058id_/http%3A//www.sfx.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfx.co.uk privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207142242id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
 
-# Welcome to SFX Online
+# FutureNet - Privacy Policy
 
-**Privacy Policy covering the websites of Future Publishing Ltd.**
+Privacy Policy covering the websites of Future Publishing Ltd
 
-Future Publishing Ltd.  
-Beauford House  
-30 Monmouth Street  
-Bath  
-BA1 2BW  
-England 
+Future Publishing Ltd. Beauford House 30 Monmouth Street Bath BA1 2BW England  
+Tel: (+44) 01225 442244
 
-Tel: (+44) 01225 442244 [www.futurenet.co.uk](http://www.futurenet.co.uk/)
-
-**General policy**  
-Future Publishing Ltd. respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please email [webmaster@futurenet.co.uk](mailto:webmaster@futurenet.co.uk). 
-
-**Email newsletters**  
-Future operates email newsletters on many of its sites. These are free to sign up to. What we ask of you is your email address, at times we may ask you for further information, which is used for demographic purposes. We do not give our email lists out to other parties unless you choose to opt in to a scheme whereby third parties may use your details for their own purposes. Our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer. If at any time you wish to unsubscribe from our newsletter you may do so by visiting the site you signed up with and using the unsubscribe facility. You may also email the website editor although it may take a longer time before your email address is removed than with the automatic unsubscribe facility. 
-
-**Registration**  
-Some of our sites may require you to register with us. This is to allow access to extra services that we provide for you. The information is not used for sending you newsletters or promotions unless stated. 
-
-**Emailing of Future Publishing Ltd content from websites**  
-Some of our sites permit the emailing of content from you to another person for personal use only. We ask that you provide us with a valid email address for yourself and the recipient. This is used to check for transmission errors and to inform the recipient who sent the story. This information is not used for newsletters or promotions. 
-
-**Third party sites**  
-Many of our sites operate with third party sites (such as online shops). We may, on occasion, share non-personal aggregated information to these third parties. 
-
-**Cookies**  
-We use 'cookies' to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. 
-
-**Surveys**  
-On occasion we may conduct online surveys. This is used to gauge our service, collect demographic information and other information that we may find useful. These surveys are optional. We may share non-personal, aggregated information with third parties. 
-
-**Affiliates**  
-Many of our sites have affiliated websites operated by third parties. The content on these sites are not under our control. If you have any questions concerning these sites and the usage of them we suggest that you contact the webmaster of the site directly. 
-
-**Security**  
-While we strive to keep the information that you supply directly or indirectly secure please be aware that the Internet is not a fully secure medium. 
-
-**Competitions**  
-From time to time we operate competitions and promotions. Participation in these is optional. Information submitted may be submitted to third parties, check individual competition rules. You may also be given an option to sign up for a free email newsletter, opting out of this does not disqualify you from a competition. 
-
-**Usage of information**  
-If requested we may submit your information to local or government authorities. 
-
-**Corrections/updates**  
-You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please email [webmaster@futurenet.co.uk](mailto:webmaster@futurenet.co.uk). 
-
-**Policy changes**  
-By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page. 
+  
+1\. General   
+This is a website of Future Publishing Ltd (“Future”). We are committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. If you have any concerns, questions or comments please email the Website editor.  2\. Use of Information   
+If you provide us with any personal information through this Website or any associated poll, survey or competition (“Your Information”) we will use it as set out in this policy and to: (a) provide you with any goods or services that you request and to monitor the provision of those goods and services; and (b) contact you about any goods or services of Future or any of its group companies which may be of interest to you. If you do not wish to receive information about our goods and services or those of our group companies, please follow the unsubscribe instructions on the correspondence you receive or on this Website or contact the Website editor.  3\. Disclosure to third parties   
+We may pass Your Information on to our group companies and our agents, subcontractors and partners and any agents, subcontractors and partners of our group of companies. We may also pass Your Information on to third parties who help us to organise and administer any competition, survey or poll which we run on or through this Website, only if specified in the rules of the competition, survey or poll. Unless expressly stated in this policy, we will not disclose any of Your Information to any other person without your consent. Please note that if you upload or post any information to a public part of this Website, we may use it in accordance with our [website terms and conditions of use](https://web.archive.org/futureonline/termsandconditions.asp) and it may be viewed and used by others.  4\. Our email newsletters and special interest newsletters   
+If you subscribe to receive one of our email newsletters or a special interest newsletter provided by one of our partners, that newsletter will be provided to you free of charge, unless otherwise stated. To enable us to do this you will need to provide us with your email address. We may ask you to provide us with other information which we or our partner may require from time to time for business purposes. Our newsletters and those of our partners may contain promotions or advertisements relating to the goods and services provided by us or our group companies or partners from time to time. If at any time you wish to unsubscribe from an email newsletter or a special interest newsletter you may do so by following the unsubscribe instructions on the newsletter or on this Website or by e-mailing the Website editor.  5\. Third party sites   
+This Website may contain a link to third party websites. We may, on occasion, disclose non-personal aggregated information to the owners or providers of those third party websites.  6\. Cookies   
+This Website may make use of 'cookies' and tracking software. Cookies are pieces of information that are stored by the browser on the hard drive of your computer. Cookies enable us and any person who advertises on our Website to provide features such as remembering certain of Your Information and your preferences. Cookies can be deleted from your hard drive or you can configure your web browser so that it rejects cookies. Rejection of cookies will not prevent you from using most of the features on this Website. If you experience any problems having deleted cookies, you should contact the supplier of your web browser. The tracking software monitors traffic patterns and site usage so that we can design and develop this Website to suit the needs and requirements of visitors to it.  7\. Surveys   
+If you choose to take part in an on-line survey or poll conducted by us, we may use the information you provide for the purposes set out in Paragraph 2 above and we may disclose that information to the parties referred to in Paragraph 3 above. We may disclose non-personal, aggregated information we collect from you in this way to any other party.  8\. Security   
+In accordance with our requirements under the Data Protection Act 1998, we shall use reasonable endeavours to implement security procedures to help prevent unauthorised access to Your Information. However, Future shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this Website including any of Your Information.  9\. Usage of information   
+We may disclose Your Information if we are required to do so by any law or other regulatory or government authority.  10\. Corrections/updates   
+If we hold any of Your Information and that information is incorrect in any respect, you can e-mail the Website editor and the information will be corrected as soon as reasonably possible.  11\. Policy changes   
+By using this Website you agree to the terms of this privacy policy and our [website terms of use](https://web.archive.org/futureonline/termsandconditions.asp). We may amend this privacy policy and our [website terms of use](https://web.archive.org/futureonline/termsandconditions.asp) from time to time. If we do so, we will post an updated version on this Website. 
