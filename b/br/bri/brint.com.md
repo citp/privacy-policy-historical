@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610015412id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203150100id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -39,4 +39,4 @@ Please send a blank e-mail message to [subscribe@brint.com](mailto:subscribe@bri
 
 If you do not want to receive this Newsletter and ALL  information, offers and opportunities available to @Brint.com BizTech Network Members, please send an e-mail message with the subject UNSUBSCRIBE to e-mail address [unsubscribe@brint.com](mailto:unsubscribe@brint.com). You will receive a response acknowledging that your membership has been suspended. Please note that the unsubscribed e-mail address can not be used for accessing any services of @Brint.com BizTech Network.
 
-**Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact by postal mail: President @Brint.com L.L.C. 818 NW 89th Avenue Fort Lauderdale FL 33324, U.S.A. privacy@brint.com
+**Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact by postal mail: President @Brint.com L.L.C. P.O. Box 15635 Fort Lauderdale, FL 33318, U.S.A
