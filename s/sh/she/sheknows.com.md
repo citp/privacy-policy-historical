@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205000811id_/http%3A//coincide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604192656id_/http%3A//coincide.com/privacy.htm) for the most accurate reproduction.*
 
-# coincide media
+# Coincide Media | Privacy policy
 
-privacy policy statementThis is how we handle information we learn about you from your visit to a Coincide Media, LLC site: 
+Privacy policy statementThis is how we handle information we learn about you from your visit to a Coincide Media, LLC site: 
 
 **Information collected**  
 We collect and store the following information about you: the IP address or name of the domain from which you access the Internet (for example, aol.com, if you are coming from an America Online account, or yale.edu if you are connecting from a Yale domain): the date and time you access our site; the Internet address of the Web site from which you linked directly to our site; and your Operating System and Browser. We use the information to measure the number of visitors to the sections of our site, which, in turn, helps us make our site more useful. The browser information is used to develop and code pages so most people will be able to view the site correctly. We also maintain information volunteered by site visitors, including contest/sweepstakes entries; survey information; board/site registrations; additions to reviews, due date and other databases; notebook registration; and e-mail list membership. 
