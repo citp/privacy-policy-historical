@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206050500id_/http%3A//www.express.com/consumer/custservice/cs_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603113426id_/http%3A//www.express.com/custservice/cs_privacy.asp) for the most accurate reproduction.*
 
 # Express.com
 
@@ -7,7 +7,8 @@ Search By: Title   Keyword |  |  |
 ---|---|---|---  
    |  |  |   
 |    |  |  |   
-**[EXPRESS](https://web.archive.org/consumer/default.asp) >** **[CUSTOMER SERVICE](https://web.archive.org/consumer/custservice/default.asp) >** **PRIVACY POLICY** **Our Promise to You, Our Customer**
+  
+**[EXPRESS](https://web.archive.org/default.asp) >** **[CUSTOMER SERVICE](https://web.archive.org/custservice/default.asp) >** **PRIVACY POLICY** **Our Promise to You, Our Customer**
 
 Express.com is firmly committed to protecting your privacy. Under no circumstances will we use your personal information to send you promotional materials you have not requested nor will we release it to other companies without your explicit consent. At Express.com, privacy _is_ our policy.
 
@@ -20,7 +21,7 @@ Because the information we gather from you is personal, we feel you should fully
 Express.com, Inc., is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the Express.com Web site. 
 
 When you visit a Web site displaying the TRUSTe trust mark, you can expect to be notified of:   
-
+[](https://www.truste.org/validate/2867)
 
   * what personally identifiable information of yours is collected 
   * what organization is collecting the information 
@@ -81,8 +82,7 @@ Express.com contains links to partners, advertisers and third-party Internet sit
 
 Express.com gives users the following options for altering their information in our database or having it removed and stopping our service: 
 
-  * [Click here](https://web.archive.org/consumer/resetpassword.asp) to change your name, email address or password. 
-  * [Click here](https://web.archive.org/consumer/insider_remove.asp) to be removed from the Express.com Insider newsletter. 
+  * [Click here](https://web.archive.org/myaccount/change_nep.asp) to change your name, email address or password. 
   * Send an email message to [orders@express.com](mailto:orders@express.com). 
   * Send a letter to the following postal address:  
 
@@ -91,7 +91,6 @@ Express.com gives users the following options for altering their information in 
 >  5890 West Jefferson Boulevard  
 >  Los Angeles, CA 90016-3194
 
-  * Call Customer Service: (888) 383-9700 (within the U.S.) or (310) 202-7646 (outside the U.S.). 
 
 **Changes to Personally Identifiable Information**
 
@@ -101,6 +100,4 @@ If at some point in the future we change information usage practices that direct
 
 * * *
 
-By using the Express.com Web site, you consent to the collection and use of this information by Express.com. If we make any changes to our privacy policy, we will post the changes on this page so that you are always aware of our policies. Express.com reserves the right to modify, alter or update these policies at any time, and you agree to be bound by such modifications, alterations or updates.  
-|  |    
-
+By using the Express.com Web site, you consent to the collection and use of this information by Express.com. If we make any changes to our privacy policy, we will post the changes on this page so that you are always aware of our policies. Express.com reserves the right to modify, alter or update these policies at any time, and you agree to be bound by such modifications, alterations or updates. |   | 
