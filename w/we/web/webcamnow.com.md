@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamnow.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619195453id_/http%3A//www.webcamnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamnow.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022047id_/http%3A//webcamnow.com/privacy.html) for the most accurate reproduction.*
 
 # WebcamNow: Privacy
 
@@ -27,7 +27,7 @@ Cookies are small packets of information that a site's computer stores on your c
 
 These cookies, by themselves, cannot be used to determine the identity of any user. Unless you specifically tell us, WebcamNow will not know who you are. In some cases and from time to time, WebcamNow may have arrangements with third parties who provide or track usage of sponsored links that we believe may be of value to our customers. WebcamNow does not permit these third parties to collect personal information from our customers without the customers' explicit permission. 
 
-**How WebcamNow uses your information**   
+**How WebcamNow Uses Your Information**   
 WebcamNow is always trying to provide you with a compelling reason to return to our site. We monitor customer traffic patterns and try to analyze what our customers like and don't like about our current offerings, so that we can design better services for you. 
 
 The personally identifiable information that you provide to us may be used to process your order (if any) and to offer you a customized and valuable user experience, such as personalized special offers and relevant information, products, and services. 
@@ -45,18 +45,14 @@ WebcamNow allows its users to experience live webcam video with a refresh rate o
 
 When you sign up for our Speedster service, we use state-of-the-art technology to protect your data from unauthorized third parties. When WebcamNow processes your order for the Speedster service, we use Secure Socket Layer (SSL) software to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name and address as it is transmitted over the Internet. 
 
-**Using a secure server**   
+**Using a Secure Server**   
 A secure server safeguards "shopping" transactions over the Internet by encoding information passing between computers at different locations. Using our secure server means that your credit card number, name, address, and other information is guarded as it travels to our store. This is accomplished using a Secure Sockets Layer (SSL). 
 
-**Standard server**   
+**Standard Server**   
 Some older browsers are incompatible with secure servers. If you try to use our secure server and get an error message, you can use our standard server instead. A standard server transports information without encoding it first. 
 
-**Safe shopping when ordering Speedster**   
-We guarantee that every transaction you make at WebcamNow will be safe. This means you pay nothing if unauthorized charges are made to your card as a result of ordering Speedster service at WebcamNow. 
-
-Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, WebcamNow will cover the entire liability for you, up to the full $50.00. WebcamNow will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at WebcamNow while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
-
-Of course, you may cancel Speedster service, simply by logging into your account and selecting "My Settings". There, you will find a button labeled "Speedster Settings" that will offer the option to cancel your account. 
+**Cancelling Speedster Service**   
+To cancel Speedster service, simply log into your account by going to [My Settings](https://web.archive.org/login.html). There, you will find a button labeled "Speedster Settings" that will offer the option to cancel your account. 
 
 **Your Consent**   
 By using our Website, you consent to the collection and use of the information you provide to us. If we ever change our privacy policy, we will post any changes on this page so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. 
