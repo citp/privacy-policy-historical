@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207163444id_/http%3A//www.twomenandatruck.com/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308233326id_/http%3A//www.twomenandatruck.com/company/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
