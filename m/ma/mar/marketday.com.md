@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614031605id_/http%3A//www.marketday.com/cgi-bin/page.exe%3FCatalog%3DCatalog%26File%3DPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218175119id_/http%3A//www.marketday.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Market Day: Online Ordering: Privacy policy
+# Market Day: Order Online: Privacy Policy
 
-| 
-
-This is the web site of Market Day Corporation.
-
-Our postal address is:  
+|   
+This is the web site of Market Day Corporation.Our postal address is:  
 555 W. Pierce Road, Suite 200  
 Itasca, IL 60143-2647
 
@@ -14,7 +11,7 @@ We can be reached via e-mail at [webmaster@marketday.com](mailto:webmaster@marke
 
 __****__
 
-__**Note:**__ Market Day does not compile, buy, sell, rent or trade consumer mailing lists.
+__**Note:**__ Market Day does not buy, sell, rent or trade consumer mailing lists.
 
 Market Day Corporation is strongly committed to protecting the privacy of consumers of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for consumers, and in particular, ensure that our young people's information is protected.
 
@@ -35,7 +32,7 @@ We may specifically ask for information about you when you sign up to use a serv
 **Email Addresses**  
 When you register with marketday.com, we ask for your email address. This information is used to contact you with questions that we may have about your order. In addition, you may also 'opt-in' and elect to receive promotional information via email from Market Day. Your email address will also be provided to the Market Day Chairperson at your school, for the express purpose of enabling the chairperson to contact you regarding your order or to promote the Market Day sale at your school.
 
-****
+E-mail addresses may also be collected at times other than registration; for example, in connection with promotions. Market Day may from time to time send promotional information to these e-mail addresses. If you wish to 'opt-out' from receiving such material, please [log-in](http://www.marketday.com/WelcomeBack.asp) and choose ‘personal settings’ from the menu at the page bottom. Then select ‘no’ to receive e-mail newsletters. ****
 
 **For Market Day Chairs**  
 These email addresses are to be used solely for the promotion of the Market Day sale at your school or to provide customer service for issues relating to the Market Day sale or products. Any other use is prohibited.
@@ -43,7 +40,7 @@ These email addresses are to be used solely for the promotion of the Market Day 
 ****
 
 **Disclosure**  
-We collect the domain names of visitors to our web site and the e-mail addresses of those who communicate with us via e-mail, however, we do not use or disclose information about your individual visits to marketday.com or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. 
+We collect the domain names of visitors to our web site and the e-mail addresses of those who communicate with us via e-mail, however, we do not disclose information about your individual visits to marketday.com or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. 
 
 ****
 
