@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202070228id_/http%3A//www.womensforum.com/Privacy_Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensforum.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207140201id_/http%3A//womensforum.com/Privacy_Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - WomensForum.com
 
