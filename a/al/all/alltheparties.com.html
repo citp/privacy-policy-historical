@@ -1,103 +1,179 @@
-<!--The following is the downloaded HTML source of the alltheparties.com privacy policy that was archived on 2001-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011024015635id_/http%3A//alltheparties.com/index.php%3Fmainact%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alltheparties.com privacy policy that was archived on 2002-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209112404id_/http%3A//www.alltheparties.com/index.php%3Fmainact%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="ALLTHEPARTIES, parties, privacy">
-<meta name="description" content="">
-<meta name="revisit-after" content="7 days">
+<meta name="keywords" content="Allnightclubs.com's Privacy Policy">
+<meta name="description" content="Allnightclubs.com's Privacy Policy">
+<meta name="revisit-after" content="2 days">
 <meta name="resource-type" content="document">
 <meta name="distribution" content="global">
-<meta name="rating" content="Mature">
-<meta name="copyright" content="Copyright 1999, Netstudent.com, LLC.">
-<meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; for &quot;http://www.GoMocha.com&quot; on &quot;1999.06.24T13:56-0800&quot; r (n 1 s 1 v 0 l 1))">
+<meta name="copyright" content="Copyright 1999, Allnightclubs.com">
 <title>Allnightclubs.com's Privacy Policy</title><link rel="STYLESHEET" type="text/css" href="/ie.css"><script langauage="JavaScript" type="text/javascript">
 <!--
 if (window!= top)
-top.location.href=location.href
+top.location.href=location.href;
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+/* Functions that swaps images. */
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+/* Functions that handle preload. */
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
 function openpopup(file,title){
 winpops=window.open(file,title,"width=400,height=200,toolbar=no,left=395,top=220, status=no,scrollbars=no,resize=no");
 return false;
 }
 
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
+function openWindow(newURL, newWidth, newHeight, resize, scrollbars) {
+  // Declare and initialize top and left variables
+  var calcLeft = 25;
+  var calcTop = 25;
+  if (scrollbars=="") {scrollbars="no"}
+
+
+  // Update properties if comp. browser
+  if (parseInt(navigator.appVersion) >= 4){
+  calcTop = screen.availHeight /2 - newHeight / 2;
+  calcLeft = screen.availWidth / 2 - newWidth / 2;}
+
+  // Open the new window using top and left properties
+  popup_win = window.open(newURL, 'remote', 'status=no,toolbar=no,menubar=no,location=no,scrollbars=' + scrollbars + ',width=' + newWidth + ',height=' + newHeight + ',left=' + calcLeft + ',top=' + calcTop + ',resizable=yes');
+  popup_win.opener.name = "opener";
+  popup_win.focus()
+}
+var submit = false; // indicates whether the form has been sumitted.
+var timeout = 180;  // 3 minutes.
+var timeoutID;
+
+function resetTimer()
+{
+  window.clearTimeout(timeoutID);
+  window.status = "Enter PIN";
+  submit = false;
+  document.login.pin.focus();
+}
+function checkLogin(form)
+{
+
+if (submit)
+  {
+    alert("Your login request is being processed.\nPlease do not hit reload or refresh.\nThis request may take up to a minute to process.");
+    return false;
+  }
+  timeoutID = window.setTimeout("resetTimer()", timeout*1000);
+  submit=true;
+  return true;
+}
+counter = 0;
+function count() {
+counter++;
+if(counter > 1) {
+if(counter > 2) { return false; }
+alert('Sometimes the servers are a bit slow. ' +
+'One click is sufficient.\n\nI\'m sure the ' +
+'server will respond in a few seconds.\n\n' +
+'Thank you for your patience.');
+return false;
+}
+return true;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
 }
 // --->
 </script>
 </head>
-<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF">
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF" onload="MM_preloadImages('/i/home_f2.gif','/i/gallery_f2.gif','/i/parties_f2.gif','/i/mediakit_f2.gif','/i/aboutus_f2.gif');" link="#767676" vlink="#996699" alink="#008080" id="main">
+<form action="/index.php" method="get" enctype=""><table width="760" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr valign="top">
+		<td colspan="3" align="left" valign="top">
+			<table width="760" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
 
-<!-- Form begins here. -->
-<form action="http://www.alltheparties.com/index.php" method="get"><table width="764" border="0" cellspacing="0" cellpadding="0" align="center">
-	<tbody><tr>
-		<td width="250" rowspan="2"><a href="http://www.alltheparties.com/index.php"><img src="http://www.alltheparties.com/i/a3.gif" width="250" height="72" alt="AllTheParties.com: Nightclubbing and Partying" border="0"></a></td>
-		<td width="514" nowrap="" bgcolor="#eaeaea" align="center" valign="middle">
-		<img src="/i/advertisement_w.gif" width="120" height="10" border="0" alt="">
-		<!-- BEGIN RICH-MEDIA BURST! CODE --> 
-		<script language="JavaScript"> 
-		<!-- /* © 1997-2001 BURST! Media, LLC. All Rights Reserved.*/ 
-		var TheAdcode = 'ad6276a'; 
-		var bN = navigator.appName; 
-		var bV = parseInt(navigator.appVersion); 
-		var base='http://www.burstnet.com/'; 
-		var Tv=''; 
-		var agt=navigator.userAgent.toLowerCase(); 
-		if (bV>=4) 
-		  {ts=window.location.pathname+window.location.search; 
-		   i=0; Tv=0; while (i< ts.length) 
-		      { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;} 
-		  else   {Tv=escape(window.location.pathname); 
-		   if( Tv.charAt(0)!='/' ) Tv="/"+Tv; 
-		          else if (Tv.charAt(1)=="/")
-		Tv=""; 
-		  if( Tv.charAt(Tv.length-1) == "/") 
-		    Tv = Tv + "_";} 
-		if (bN=='Netscape'){ 
-		     if ((bV>=4)&&(agt.indexOf("mac")==-1))
-		{  document.write('<s'+'cript src="'+ 
-		      base+'cgi-bin/ads/'+TheAdcode+'.cgi/RETURN-CODE/JS' 
-		      +Tv+'">'); 
-		     document.write('</'+'script>');    
-		} 
-		     else if (bV>=3) {document.write('<'+'a href="'+base+'ads/'+ 
-		        TheAdcode+'-map.cgi'+Tv+'"target=_top>'); 
-		        document.write('<img src="' + base + 'cgi-bin/ads/' + 
-		        TheAdcode + '.cgi' + Tv + '" ismap width="468" height="60"' + 
-		       ' border="0" alt="Click Here"></a>');} 
-		 } 
-		if (bN=='Microsoft Internet Explorer') 
-		 document.write('<ifr'+'ame id="BURST" src="'+base+'cgi-bin/ads/'
-		+ 
-		  TheAdcode + '.cgi' + Tv + '/RETURN-CODE" width="468" height="60"' + 
-		  'marginwidth="0" marginheight="0" hspace="0" vspace="0" ' + 
-		  'frameborder="0" scrolling="no"></ifr'+'ame>'); 
-		// --> 
-		</script><script src="http://www.burstnet.com/cgi-bin/ads/ad6276a.cgi/RETURN-CODE/JS/6685"></script> <noscript><a href="http://www.burstnet.com/ads/ad6276a-map.cgi/ns" target="_top"> 
-		<img src="http://www.burstnet.com/cgi-bin/ads/ad6276a.cgi/ns" 
-		width="468" height="60" border="0" alt="Click Here"></a> 
-		</noscript> 
-		<!-- END BURST CODE --> 
+          <td><a href="/index.php"><img src="/i/all_logo.gif" border="0"></a></td>
 
+          <td></td>
+			</tr>
+			</tbody></table>
 		</td>
 	</tr>
-	<tr>
-		<td width="514" nowrap="" bgcolor="#eaeaea" valign="bottom" align="right">
-			<a href="http://www.alltheparties.com/index.php?mainact=search&amp;localact=atomz">Search</a>&nbsp;|&nbsp;
-			<a href="http://www.alltheparties.com/index.php?mainact=findnightclubs">Nightclubs</a>&nbsp;|&nbsp;
-			<a href="http://www.allnightclubs.com/index.php">Go to Allnightclubs.com</a>
-		</td>
+	<tr valign="top">
+		<td colspan="3" bgcolor="#000000"><img name="blank" src="/i/_tx_.gif" width="760" height="1" border="0"></td>
 	</tr>
-	<tr bgcolor="#ffffff">
-	<td class="location" bgcolor="#ffffff" colspan="2"><b><a href="http://www.alltheparties.com/index.php">Home</a>: Privacy Policy</b></td></tr>
-</tbody></table>
-<!-- File begins here. -->
-<table width="764" border="0" cellpadding="3" cellspacing="0" align="center" bgcolor="#ffffff">
+	<tr valign="top">
+		<td width="90">
+			<table border="0" cellpadding="0" cellspacing="0" width="90">
+  <tbody><tr valign="top"><!-- row 2 -->
+   <td><a href="/index.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home','','/i/home_f2.gif',1);"><img name="home" src="/i/home.gif" width="90" height="16" border="0"></a></td>
+  </tr>
+   
+  <tr valign="top">
+   <td><a href="/index.php?mainact=birthdays" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('birthdays','','/i/birthdays_f2.gif',1);"><img name="birthdays" src="/i/birthdays.gif" width="90" height="16" border="0"></a></td>
+  </tr>
+    <tr valign="top"><!-- row 4 -->
+   <td><a href="/gallery.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('gallery','','/i/gallery_f2.gif',1);"><img name="gallery" src="/i/gallery.gif" width="90" height="16" border="0"></a></td>
+  </tr>
+    <tr valign="top"><!-- row 5 --><!-- 
+   <td><a href="/parties.php" onMouseOut="MM_swapImgRestore();"  onMouseOver="MM_swapImage('parties','','/i/parties_f2.gif',1);" ><img name="parties" src="/i/parties.gif" width="90" height="16" border="0"></a></td>
+  </tr> -->
+  </tr><tr valign="top">
+   <td><a href="http://allnightclubs.community.everyone.net" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('messageboards','','/i/messageboards_f2.gif',1);"><img name="messageboards" src="/i/messageboards.gif" width="90" height="16" border="0"></a></td>
+  </tr>
+  <tr valign="top"><!-- row 7 -->
+   <td><a href="/aboutus.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('mediakit','','/i/mediakit_f2.gif',1);"><img name="mediakit" src="/i/mediakit.gif" width="90" height="16" border="0"></a></td>
+  </tr>
+    <tr valign="top"><!-- row 8 -->
+   <td><img name="menuline" src="/i/menuline.gif" width="90" height="50" border="0"></td>
+  </tr>
+  <!-- row 7 -->
+  <tr valign="top"><td><a href="/index.php?mainact=checkemail" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('freeemail','','/i/freeemail_f2.gif',1);"><img name="freeemail" src="/i/freeemail.gif" width="90" height="16" border="0"></a><br>
+ <a href="/index.php?mainact=login" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('logon','','/i/logon_f2.gif',1);"><img name="logon" src="/i/logon.gif" width="90" height="16" border="0"></a></td>
+  </tr>
+  <!-- <tr valign="top">
+   <td><a href="/firstsip.php" onMouseOut="MM_swapImgRestore();"  onMouseOver="MM_swapImage('firstsip','','/i/firstsip_f2.gif',1);" ><img name="firstsip" src="/i/firstsip.gif" width="90" height="16" border="0"></a></td>
+  </tr>
+  <tr valign="top">
+   <td><a href="/parties.php?mainact=guestlist" onMouseOut="MM_swapImgRestore();"  onMouseOver="MM_swapImage('guestlist','','/i/guestlist_f2.gif',1);" ><img name="guestlist" src="/i/guestlist.gif" width="90" height="16" border="0"></a></td>
+  </tr> -->
+</tbody></table>		</td>
+		<td width="1" bgcolor="#000000">
+			<img name="blank" src="/i/_tx_.gif" width="1" height="1" border="0">
+		</td>
+		<td width="670">
+		<div align="right"><b><a href="/index.php">Home</a>: Privacy Policy</b></div>
+		<input type="hidden" name="mainact" value="privacy"><input type="hidden" name="localact" value=""><input type="hidden" name="subact" value=""><table width="100%" border="0" cellpadding="3" cellspacing="0" align="center" bgcolor="#ffffff">
 	<tbody><tr>
 		<td>
 			<div align="left"><b><u>Privacy Policy for AllNightclubs.com</u></b>
-<p><b>Netstudent.com, LLC </b>has 
+<p><b>Allnightclubs.com </b>has 
                   created this privacy statement in order to demonstrate our firm 
                   commitment to privacy. The following discloses our information 
                   gathering and dissemination practices for this website: www.AllNightclubs.com.
@@ -233,96 +309,93 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                   of this site, or your dealings with this Web site, you can contact 
                   
 </p><p><i>Samuel 
-                  O. Obukwelu<br>Netstudent.com, LLC<br>PO Box 1454<br>New York, NY 10027<br>Sam@allnightclubs.com</i>
+                  O. Obukwelu<br>Allnightclubs.com<br>PO Box 1454<br>New York, NY 10027<br>Sam@allnightclubs.com</i>
 			</p></div>
 		</td>
 	</tr>
 </tbody></table>
-
-<!-- File ends here. -->
-
-<!-- Footer goes here. -->
-
-<!-- Main and local variables goes here. -->
-<input type="hidden" name="mainact" value="privacy"><input type="hidden" name="localact" value="">
-<!-- Form ends here. -->
-</form><table width="764" border="0" cellspacing="0" cellpadding="0" align="Center" bgcolor="#FFFFFF">
-	<tbody><tr>
-		<td valign="top" align="center" colspan="2">
-			<!-- Atomz.com Search HTML for AllTheParties.com -->
-			<form method="get" action="http://search.atomz.com/search/">
-			<b>Search:</b><!-- Atomz Search HTML for AllTheParties.com -->
-            <input size="15" name="sp-q">
-            <input type="submit" value="Search">
-            <input type="hidden" name="sp-a" value="sp0433d202">
-			</form>
 		</td>
 	</tr>
-	<tr>
-		<td valign="top" align="center"><a href="/index.php?mainact=help">help</a>&nbsp;|&nbsp;<a href="/index.php?mainact=comments">comments</a>&nbsp;|&nbsp;<a href="#" onclick="javascript: window.open('./tellafriend.php ','tellafriend','width=415,height=410,toolbar=no,left=20,top=100, status=no,scrollbars=yes,resize=no'); return false;">tell-a-friend</a>&nbsp;|&nbsp;<a href="/index.php?mainact=privacy">privacy policy</a>&nbsp;|&nbsp;<a href="/index.php?mainact=useragreement">user agreement</a>&nbsp;|&nbsp;<a href="/index.php?mainact=copyrights">© netstudent.com, llc.</a> 2000. all rights reserved.<br>please send your <a href="/index.php?mainact=comments">feedback, comments and suggestions</a> to our staff.
+	<tr valign="top">
+		<td colspan="3" bgcolor="#000000"><img src="/i/_tx_.gif" width="760" height="1" border="0"></td>
+	</tr>
+	<tr valign="top">
+		<td colspan="3"><table width="760" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td valign="top" align="center">
+<div align="center"><b>Never Underestimate The Power of Association.</b> Receive Yours Free at Allnightclubs.</div>
+&nbsp;<br><a href="/aboutus.php"><b>Media Kit</b></a>&nbsp;|&nbsp;<a href="/index.php?mainact=help">help</a>&nbsp;|&nbsp;<a href="/index.php?mainact=comments">Comments</a>&nbsp;|&nbsp;<a href="#" onclick="javascript: window.open('./tellafriend.php ','tellafriend','width=415,height=410,toolbar=no,left=20,top=100, status=no,scrollbars=yes,resize=no'); return false;">Tell-a-Friend</a>&nbsp;|&nbsp;<a href="/index.php?mainact=privacy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/index.php?mainact=useragreement">user agreement</a><br><a href="/index.php?mainact=copyrights">© Allnightclubs.com</a> 2000. All Rights Reserved.<br>Please Send Your <a href="/index.php?mainact=comments">Feedback, Comments and Suggestions</a> to Our Staff.<br>&nbsp;
+<div align="center"><font color="#808080">info@allnightclubs.com | 212.740.9760 (voice) | 212.202.6164 (fax) | Allnightclubs, P.O. Box 1454, New York, NY 10027</font></div>
 		</td>
 	</tr>
 </tbody></table>
-<script language="JavaScript">
-<!--
-// You may customize the values of the variables below to suit your website.
-// Simply insert your own values between the double-quotes.
-// Here are some examples:
-//   var ORDER= "D2,Business to Consumer,Pocket FM Radio,Audio Products,10,499.99;";
-//   var SERVER= "MyServerName";
-//   var CONTENTGROUP= "ContentGroupOfThisPage";
-var ORDER= "";
-var SERVER= "";
-var CONTENTGROUP= "ALLTHEPARTIES, parties, privacy";
-//-->
-</script>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+<div align="center"><!-- START OF WEBTRENDS LIVE TAG -->
+<!-- BEGIN WEBSIDESTORY CODE -->
+<!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
+<!-- webbot bot="HTMLMarkup" startspan -->
+<script language="javascript">
+var _pn="home, privacy"; //page name
+var _acct="WQ521005I7VR38EN8";   //account number
+var _pndef="title";var _hcv=65;var _mn="wf155";
+var _lp=location.protocol.indexOf('https')==0?"https://":"http://";
+var _gn="hg1.hitbox.com";function _ps(_h){if(_h.indexOf("PUT+PAGE+NAME+HER")==0) {
+if (_pndef=="title"){return document.title?document.title:_pndef;}else{
+var _g=location.pathname;_h=_g.substring(_g.lastIndexOf("/")+1,_g.length);
+if(_h==""){return _pndef};}};return _h;}var _sv=10;var _bn=navigator.appName;
+if(_bn.substring(0,9)=="Microsoft"){_bn="MSIE";};var _bv=Math.round(parseFloat(navigator.appVersion)*100);
+if((_bn=="MSIE")&&(parseInt(_bv)==2))_bv=301;var _rf=escape(document.referrer);_pn=_ps(_pn);
+var _hbfa="<a href='http://rd1.hitbox.com/rd?acct="+_acct+"' target=_top><img src='";
+var _hbfc="' border=0 width=468 height=60></a><div><font face='MS Sans Serif,Arial,Helvetica '"+
+"size=1><a href='http://counter.hitbox.com/a/hitboxfree.cgi' target='_blank'>privacy</a></font></div>";
+var _hbfb="";</script><script language="javascript1.1" id="_hbc">_sv=11;</script><script language="javascript1.1" src="http://stats.hitbox.com/js/hbf.js"></script><script language="javascript">
+if(_hbfb.length!=0){document.write(_hbfa+_hbfb+_hbfc);}else{if((_rf=="undefined")||(_rf=="")){
+_rf="bookmark";};document.write(_hbfa+_lp+_gn+"/HG?hc="+_mn+"&l=1&hb="+_acct+"&n="+escape(_pn)+
+"&cd=1&bt=2&bn="+escape(_bn)+"&bv="+_bv+"&ss=na&sc=na&dt=&sv="+_sv+"&ja=na&ln=na&pl=&rf="+_rf+_hbfc);}
+</script><a href="http://rd1.hitbox.com/rd?acct=WQ521005I7VR38EN8" target="_top"><img src="https://hg1.hitbox.com/HG?hc=wf155&amp;l=1&amp;hb=WQ521005I7VR38EN8&amp;n=home%2C%20privacy&amp;cd=1&amp;bt=2&amp;bn=Netscape&amp;bv=500&amp;ss=na&amp;sc=na&amp;dt=&amp;sv=11&amp;ja=na&amp;ln=na&amp;pl=&amp;rf=bookmark" border="0" width="468" height="60"></a><div><font face="MS Sans Serif,Arial,Helvetica " size="1"><a href="http://counter.hitbox.com/a/hitboxfree.cgi" target="_blank">privacy</a></font></div><noscript><a href="http://rd1.hitbox.com/rd?acct=WQ521005I7VR38EN8" target=_top><img
+src="http://hg1.hitbox.com/HG?hc=wf155&cd=1&ce=u&hb=WQ521005I7VR38EN8&n=PUT+PAGE+NAME+HERE&l=1"
+ border="0" width=468 height=60></a><div><font face="MS Sans Serif,Arial,Helvetica" size=1><a 
+href="http://counter.hitbox.com/a/hitboxfree.cgi" target="_blank">privacy</a></font></div>
+</noscript><!--//-->
 
-<script language="JavaScript">
-<!--
-// Modification of this code is not allowed and will permanently disable your account!
-// SiteName: Allnightclubs.com
-var W="tagver=3&SiteId=21326&Sid=003-00-8-4-170676-21326&Tz=-500&firstwkday=sunday&Edition=enterprise&Button=10";
-W+="&server="+escape(SERVER);
-W+="&order="+escape(ORDER);
-W+="&Group="+escape(CONTENTGROUP);
-W+="&browserDate="+escape( Date());
-W+="&title="+escape(document.title);
-W+="&url="+window.document.URL;
-W+="&referrer="+window.document.referrer;
-W+="&appname="+escape(navigator.appName);
-W+="&appversion="+escape(navigator.appVersion);
-W+="&cookieOK="+(navigator.cookieEnabled?"Yes":"No");
-W+="&userLanguage="+(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
-W+="&platform="+navigator.platform;
-W+="&bgColor="+escape(document.bgColor);
-if(typeof(screen)=="object")
-{
-W+="&screenResolution="+screen.width+"x"+screen.height;
-W+="&colorDepth="+screen.colorDepth;
-W+="&javaOK="+(navigator.javaEnabled()?"Yes":"No");
-W+="&NSpluginList=";
-for( var i=0; i< navigator.plugins.length; i++)
-W+=escape(navigator.plugins[i].name)+";";
-}
-document.write('<A TARGET="_blank" HREF="http://www.webtrendslive.com/redirect.asp?siteID=21326">');
-document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S003-00-8-4-170676-21326/button3.asp?'+W+'">');
-document.write('</A>');
-//-->
-</script><a target="_blank" href="http://www.webtrendslive.com/redirect.asp?siteID=21326"><img border="0" width="1" height="1" src="http://statse.webtrendslive.com/S003-00-8-4-170676-21326/button3.asp?tagver=3&amp;SiteId=21326&amp;Sid=003-00-8-4-170676-21326&amp;Tz=-500&amp;firstwkday=sunday&amp;Edition=enterprise&amp;Button=10&amp;server=&amp;order=&amp;Group=ALLTHEPARTIES%2C%20parties%2C%20privacy&amp;browserDate=Fri%20Jan%2031%202020%2010%3A21%3A35%20GMT+0000%20%28Coordinated%20Universal%20Time%29&amp;title=Allnightclubs.com%27s%20Privacy%20Policy&amp;url=https://web.archive.org/web/20011024015635id_/http%3A//alltheparties.com/index.php%3Fmainact%3Dprivacy&amp;referrer=&amp;appname=Netscape&amp;appversion=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;cookieOK=Yes&amp;userLanguage=en-US&amp;platform=Linux x86_64&amp;bgColor=%23FFFFFF&amp;screenResolution=800x600&amp;colorDepth=24&amp;javaOK=No&amp;NSpluginList="></a>
+<!-- webbot bot="HTMLMarkup" endspan -->
+<!--  END WEBSIDESTORY CODE  -->
 
-<noscript>
-<A TARGET="_blank" HREF="http://www.webtrendslive.com/redirect.asp?siteID=21326">
-<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S003-00-8-4-170676-21326/button3.asp?tagver=1&SiteId=21326&Sid=001-00-3-10-6692-7351&Tz=-500&firstwkday=sunday&Edition=enterprise&Button=10&title=NO%20SCRIPT&url=http://noscript&javaOK=No&">
-</A>
-</noscript>
-<!-- END OF WEBTRENDS LIVE TAG -->
+<!-- home, privacy -->
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</body></html>
+</div></td>
+	</tr>
+</tbody></table>
+
+</form></body></html>
