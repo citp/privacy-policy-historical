@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602200221id_/http%3A//www.safecu.org/content/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207120108id_/http%3A//www.safecu.org/content/information/privacy.asp) for the most accurate reproduction.*
 
 # SAFE Credit Union - Privacy Policy
 
