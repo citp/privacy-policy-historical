@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/privacy.html) for the most accurate reproduction.*
 
 # KegWorks.com
 
@@ -7,27 +7,32 @@
   
 |   
    
-[ • Draft Beer Equipment](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Draft%20Beer%20Equipment)  
-[ • Compact Refrigeration](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Compact%20Refrigeration)  
-[ • Commercial Equipment](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Commercial%20Equipment)  
-[ • Bar Accessories](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Bar%20Accessories)  
-[ • Bars and Bar Furniture](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Bars%20and%20Bar%20Furniture)  
-[ • Beer Books & Posters](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/art.html)  
-[ • Concession Equipment](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Concession%20Equipment)  
-[ • Professional Cookware](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/store.mgi?sec=Professional%20Cookware)  
+[ • Draft Beer Equipment](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Draft%20Beer%20Equipment)  
+[ • Compact Refrigeration](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Compact%20Refrigeration)  
+[ • Commercial Equipment](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Commercial%20Equipment)  
+[ • Bar Accessories](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Bar%20Accessories)  
+[ • Bars and Bar Furniture](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Bars%20and%20Bar%20Furniture)  
+[ • Beer Books & Posters](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/art.html)  
+[ • Concession Equipment](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Concession%20Equipment)  
+[ • Professional Cookware](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/store.mgi?sec=Professional%20Cookware)  
 [ • BBQ Grills by  
-   DeluxeGrills.com](http://www.deluxegrills.com/)  
+    DeluxeGrills.com](http://www.deluxegrills.com/)  
 |   
   
 |   
   
 |   
-[ • About Us](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/about.html)  
-[ • Affiliate Program](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/affilate.html)  
-[ • Catalog Download](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/catalog.html)  
-[ • Join Our Mailing List](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/mailinglist.html)  
-[ • Links We Like](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/links.html)  
-[ • Tutorials & Instructions](https://web.archive.org/web/20030602180056id_/http%3A//kegworks.com/cart/static_pages/tutorials.html) |   
+  
+[](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/affilate.html)
+
+|   
+[ • About Us](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/about.html)  
+[ • Affiliate Program](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/affilate.html)  
+[ • Catalog Download](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/catalog.html)  
+[ • Leasing & Financing](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/mcleasing.html)  
+[ • Join Our Mailing List](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/mailinglist.html)  
+[ • Links We Like](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/links.html)  
+[ • Tutorials & Instructions](https://web.archive.org/web/20031202234747id_/http%3A//kegworks.com/cart/static_pages/tutorials.html) |   
   
 Privacy Statement for KegWorks.com
 
