@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603151846id_/http%3A//www.oldnational.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldnational.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120211id_/http%3A//www.oldnational.com/privacy.asp) for the most accurate reproduction.*
 
 # Old National Privacy Policy
 
