@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603010052id_/http%3A//i-tech.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204110206id_/http%3A//i-tech.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Computer Hardware and Software Australia
 
@@ -54,13 +54,15 @@ We use cookies as a way to give you better service. They personalize your shoppi
   
 [](http://www.i-tech.com.au/flexirent.asp)  
   
-[Live chat hosted software](http://www.live2support.com/)
-
-Bookmark us  
-Never miss our latest prices and news again!
+[](http://au.shopping.yahoo.com/)  
+  
+[](https://secure1.wn.com.au/signup/default.aspx?resellerid=2518)
 
 [**I-Tech ADSL**](http://www.i-tech.com.au/adsl.asp)  
 ADSL Plans available from as little as $29/month.
+
+Bookmark us  
+Never miss our latest prices and news again!
 
 [**Testimonials**](http://www.i-tech.com.au/testimonial.asp)  
 Read about what our customers thought of us.
@@ -72,7 +74,7 @@ Our Lowest Price Guarantee to you.
 Learn about our insured delivery charges, for NSW and interstate purchases.
 
 [**Become an affiliate**](http://www.i-tech.com.au/affiliate.asp)  
-Start earning money from your own website.
+Earn additional income from your web site.
 
 [**Services**](http://www.i-tech.com.au/services.asp)  
 We offer services such as network setup, support and training.
@@ -88,9 +90,6 @@ Our assurance to you.
 
 [**Secure Server Info**](http://www.i-tech.com.au/ssl.asp)  
 Fully secured transaction for your peace of mind.
-
-[**I-Tech Dealer Info**](http://www.i-tech.com.au/dealerinfo.asp)  
-How and why you should become an I-Tech Dealer?
 
 [**Warranty Return**](http://www.i-tech.com.au/RA.asp)  
 Warranty statement, return procedures and policy.  
