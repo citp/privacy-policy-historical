@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carmagazine.co.uk privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409153710id_/http%3A//www.carmagazine.co.uk/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmagazine.co.uk privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216224644id_/http%3A//www.carmagazine.co.uk/terms/privacy.htm) for the most accurate reproduction.*
 
-# Parker's Online - Legal terms and Our Privacy Policy
+# parkers used car price guides - terms and conditions
 
 During your visit to the Parker’s Online website, you may be asked to provide personal information about yourself (eg name, address, email address, age etc). This would normally be for the purposes of registering for services like the message board, ‘write your own review’, online-purchasing (eg CarCheck guides) and any surveys or questionnaires we may be running. 
 
