@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1077theend.com privacy policy that was archived on 2003-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030410133614id_/http%3A//www.1077theend.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1077theend.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202163129id_/http%3A//www.1077theend.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="JAVASCRIPT">
 <!--
@@ -28,13 +28,13 @@ function doNothing() {
 }
 
 var delay = 1000; // time songmenu will stay visible after rollout
-var numberMenus = 7; // the number of song-menus (zero based) ** i is starting at 3 below **
+var numberMenus = 6; // the number of song-menus (zero based) ** i is starting at 3 below **
 var overMenus = false;
 
 // Show song Menu
 function showText(x,imgX,imgY)
 {
-	for (var i = 3; i <= numberMenus; i ++) {
+	for (var i = 2; i <= numberMenus; i ++) {
 	  if (i != x) { hideThem(i);	}
 	}
 	overMenus = true;
@@ -190,6 +190,7 @@ function getImgY(whichImg){
 </script>
 <style type="text/css">
 <!--
+	#sub2 {position:absolute; left:200; top:167; padding:0px; width:152; z-index:3; visibility:hidden}
 	#sub3 {position:absolute; left:200; top:167; padding:0px; width:152; z-index:3; visibility:hidden}
 	#sub4 {position:absolute; left:200; top:167; padding:0px; width:152; z-index:4; visibility:hidden}
 	#sub5 {position:absolute; left:200; top:167; padding:0px; width:160; z-index:5; visibility:hidden}
@@ -229,14 +230,19 @@ printoff = new Image();
 printoff.src = "/images/both_menu_print_off.gif";
 printon.src = "/images/both_menu_print_ON.gif";
 
-andysavageon = new Image();
-andysavageoff = new Image();
-andysavageoff.src = "/images/both_menu_andysavage_off.gif";
-andysavageon.src = "/images/both_menu_andysavage_ON.gif";
-musicnewson = new Image();
-musicnewsoff = new Image();
-musicnewsoff.src = "/images/both_menu_musicnews_off.gif";
-musicnewson.src = "/images/both_menu_musicnews_ON.gif";
+keytagsubmiton = new Image();
+keytagsubmitoff = new Image();
+keytagsubmitoff.src = "/images/both_button_submit_off.gif";
+keytagsubmiton.src = "/images/both_button_submit_on.gif";
+
+themarconishowon = new Image();
+themarconishowoff = new Image();
+themarconishowoff.src = "/images/both_menu_themarconishow_off.gif";
+themarconishowon.src = "/images/both_menu_themarconishow_ON.gif";
+newrocknewson = new Image();
+newrocknewsoff = new Image();
+newrocknewsoff.src = "/images/both_menu_newrocknews_off.gif";
+newrocknewson.src = "/images/both_menu_newrocknews_ON.gif";
 endconcertson = new Image();
 endconcertsoff = new Image();
 endconcertsoff.src = "/images/both_menu_endconcerts_off.gif";
@@ -280,15 +286,15 @@ meettheendon.src = "/images/both_menu_meettheend_ON.gif";
 
 
 
-Flipandysavageon = new Image();
-Flipandysavageoff = new Image();
-Flipandysavageoff.src = "/images/both_menuarrow_OFF.gif";
-Flipandysavageon.src = "/images/both_menuarrow_ON.gif";
+Flipthemarconishowon = new Image();
+Flipthemarconishowoff = new Image();
+Flipthemarconishowoff.src = "/images/both_menuarrow_OFF.gif";
+Flipthemarconishowon.src = "/images/both_menuarrow_ON.gif";
 
-Flipmusicnewson = new Image();
-Flipmusicnewsoff = new Image();
-Flipmusicnewsoff.src = "/images/both_menuarrow_OFF.gif";
-Flipmusicnewson.src = "/images/both_menuarrow_ON.gif";
+Flipnewrocknewson = new Image();
+Flipnewrocknewsoff = new Image();
+Flipnewrocknewsoff.src = "/images/both_menuarrow_OFF.gif";
+Flipnewrocknewson.src = "/images/both_menuarrow_ON.gif";
 
 Flipendconcertson = new Image();
 Flipendconcertsoff = new Image();
@@ -329,6 +335,16 @@ Flipmeettheendon = new Image();
 Flipmeettheendoff = new Image();
 Flipmeettheendoff.src = "/images/both_menuarrow_OFF.gif";
 Flipmeettheendon.src = "/images/both_menuarrow_ON.gif";
+ //End Concerts Drop Down rollover
+concertson = new Image();
+concertsoff = new Image();
+concertsoff.src = "/images/both_dropdown_button_OFF.gif";
+concertson.src = "/images/both_dropdown_button_ON.gif";
+ //End Concerts Drop Down rollover
+clubcalendaron = new Image();
+clubcalendaroff = new Image();
+clubcalendaroff.src = "/images/both_dropdown_button_OFF.gif";
+clubcalendaron.src = "/images/both_dropdown_button_ON.gif";
  //On the End Drop Down rollover
 endjockson = new Image();
 endjocksoff = new Image();
@@ -379,6 +395,11 @@ seattlemusicon = new Image();
 seattlemusicoff = new Image();
 seattlemusicoff.src = "/images/both_dropdown_button_OFF.gif";
 seattlemusicon.src = "/images/both_dropdown_button_ON.gif";
+ //Ne End Music Drop Down rollover
+newreleaseson = new Image();
+newreleasesoff = new Image();
+newreleasesoff.src = "/images/both_dropdown_button_OFF.gif";
+newreleaseson.src = "/images/both_dropdown_button_ON.gif";
  //End Events Drop Down rollover
 EndFeston = new Image();
 EndFestoff = new Image();
@@ -468,12 +489,13 @@ A {	font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14p
 .iHeadline {font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	line-height: 14px;	font-weight: bold;	color: #C5DC00;}
 .gBody {font-family: Arial, Helvetica, sans-serif;	font-size: 11px; line-height: 14px;	color: #FFFFFF;	background-color: 000000}
 .gCopyright {font-family: Arial, Helvetica, sans-serif;	font-size: 11px;	font-weight: normal;	color: #007FC4;}
-.elsAlertMsg { font-family: arial; font-size: 13px; font-weight: bold; color: #000000; line-height: normal }
+.elsAlertMsg { font-family: arial; font-size: 13px; font-weight: bold; color: #ffffff; line-height: normal }
 .elsTable { border-style: solid; border-width: 1px; border-color: #000080; }
 .elsCellField { background-color: #FFFFFF; color: #800080; font-family: arial; font-size: 13px; }
 .elsCellData { background-color: #FFFFFF; color: #000000; font-family: arial; font-size: 13px; }
 A.elsCellField { color: #800080; }
-A.elsCellData { color: #000000; }.ListingBlock { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Color: #ffffff;  }
+A.elsCellData { color: #000000; }
+.ListingBlock { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Color: #ffffff;  }
 A.ListingBlock { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #C5DC00;  }
 A.ListingBlock:hover { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Font-Weight: bold; Color: #ffffff;  }
 .ListingBlock1 { Font-Family: Arial, Helvetica, sans-serif; Font-Size: 11px; Color: #ffffff; Background-Color: #383E6F;  }
@@ -508,7 +530,10 @@ if (bV >= 4) window.print();
 <table border="0" cellpadding="0" cellspacing="0" width="750">
   <tbody><tr>
     <td width="12" align="right" valign="top"><img border="0" src="/images/trans.gif" width="8" height="8"><img border="0" src="/images/both_logo_left.gif" width="4" height="106"></td>
-    <td width="16%" align="left" valign="top">
+    <td width="16%" align="left" valign="top"><map name="both_logo">
+<area shape="RECT" coords="2,1,255,101" href="/default.asp">
+</map>
+
 <script language="javascript">
 // updated djb 12/19/00, need full url path for link to flash download
 
@@ -594,7 +619,7 @@ if ( flashenabled ) {
     </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="464">
       <tbody><tr>
-        <td background="/images/both_topmenu_back.gif" align="left" valign="top"><img border="0" src="/images/trans.gif" width="10" height="21"><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipandysavage"><a href="/andysavageandthemorningend.asp" onmouseover="imageOn('andysavage');swapOn('Flipandysavage');" onmouseout="imageOff('andysavage');swapOff('Flipandysavage');"><img border="0" src="/images/both_menu_andysavage_off.gif" name="andysavage"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipmusicnews"><a href="/musicnews.asp" onmouseover="imageOn('musicnews');swapOn('Flipmusicnews');" onmouseout="imageOff('musicnews');swapOff('Flipmusicnews');"><img border="0" src="/images/both_menu_musicnews_off.gif" name="musicnews"></a><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipendconcerts"><a href="/concertcalendar.asp" onmouseover="imageOn('endconcerts');swapOn('Flipendconcerts');" onmouseout="imageOff('endconcerts');swapOff('Flipendconcerts');"><img border="0" src="/images/both_menu_endconcerts_off.gif" name="endconcerts"></a><br><img border="0" src="/images/trans.gif" width="10" height="7"></td>
+        <td background="/images/both_topmenu_back.gif" align="left" valign="top"><img border="0" src="/images/trans.gif" width="18" height="21"><img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipthemarconishow"><a href="http://www.suckiecentral.com" onmouseover="imageOn('themarconishow');swapOn('Flipthemarconishow');" onmouseout="imageOff('themarconishow');swapOff('Flipthemarconishow');"><img border="0" src="/images/both_menu_themarconishow_off.gif" name="themarconishow"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipnewrocknews"><a href="/musicnews.asp" onmouseover="imageOn('newrocknews');swapOn('Flipnewrocknews');" onmouseout="imageOff('newrocknews');swapOff('Flipnewrocknews');"><img border="0" src="/images/both_menu_newrocknews_off.gif" name="newrocknews"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img border="0" src="/images/both_menuarrow_off.gif" width="17" height="17" name="Flipendconcerts"><a href="javascript:doNothing();" onmouseover="imageOn('endconcerts');swapOn('Flipendconcerts');showText(2,getImgX('endconcerts'),getImgY('endconcerts'))" onmouseout="imageOff('endconcerts');swapOff('Flipendconcerts');hideText(2)"><img border="0" src="/images/both_menu_endconcerts_off.gif" name="endconcerts"></a><br><img border="0" src="/images/trans.gif" width="15" height="7"><img border="0" src="/images/trans.gif" width="15" height="7"></td>
       </tr>
 </tbody></table>
     <table border="0" cellpadding="0" cellspacing="0" width="464%">
@@ -642,7 +667,7 @@ if ( flashenabled ) {
       </tr>
       <tr>
         <td align="left" valign="top">
-        <img src="http://images.radcity.net/3005/354902.jpg" border="0" width="130" align="center"></td>
+        <img src="http://images.radcity.net/3005/528867.jpg" border="0" width="130" align="center"></td>
       </tr>
       <tr>
         <td align="left" valign="top" bgcolor="#000000">
@@ -656,7 +681,7 @@ if ( flashenabled ) {
             <img border="0" src="/images/trans.gif" width="10" height="10"><br>
                   <img border="0" src="/images/trans.gif" width="5" height="5"><img border="0" src="/images/both_arrow_up.gif" width="17" height="6"><img border="0" src="/images/trans.gif" width="5" height="5"></td>
                 <td width="98" align="left" valign="top"> <img border="0" src="/images/trans.gif" width="5" height="5"><br>
-                  <a class="fLinks" href="/showdj.asp?DJID=14680">Andy Savage &amp; The Morning End</a><span class="cfText2"><br>
+                  <a class="fLinks" href="/showdj.asp?DJID=19049">The Marconi Show</a><span class="cfText2"><br>
                   is on.</span></td>
             <td width="5" align="left" valign="top">
             <img border="0" src="/images/trans.gif" width="5" height="5"></td>
@@ -735,7 +760,7 @@ if ( flashenabled ) {
         <td align="left" valign="top">
         <table border="0" cellpadding="7" cellspacing="0" width="130">
           <tbody><tr>
-                <td><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td align="left"><font class="iText"><b>Sign up for EndMail to get the latest music news, info and more from 1077 The End:</b></font></td></tr></tbody></table></td></tr>
+                <td><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td align="left"><font class="iText"><strong>Sign up for EndMail to get exclusive concert ticket pre-sales, extra chances to win End contests, weekly club listings, music news and more delivered directly to your e-mail every week!</strong> </font></td></tr></tbody></table></td></tr>
 <form action="/els/elsLoginPrc.asp" method="POST" name="els" id="els"></form><input type="hidden" value="" name="fldDestination"><input type="hidden" value="" name="Action">
 <tr><td valign="top"><span class="fText">Your Email Address:</span><br>
 <input type="text" size="7" maxlength="75" name="fldUserName" value="" class="gInputFields" onfocus="document.els.fldUserName.value=''">
@@ -754,7 +779,7 @@ if ( flashenabled ) {
         <td height="2" colspan="3">
         <table border="0" cellpadding="0" cellspacing="0" width="608">
           <tbody><tr>
-            <td align="left" valign="top"><a target="_blank" href="/ad/click.asp?adID=4478&amp;adRunID=9086"><img src="http://images.radcity.net/PublicService/adc_gs_job_468x60.gif" border="0" alt="Girls Go Tech"></a></td>
+            <td align="left" valign="top"><a target="_blank" href="/ad/click.asp?adID=7493&amp;adRunID=13516"><img src="http://images.radcity.net/ads/banner/banner_468x60.jpg" border="0" alt="Audible.com"></a></td>
             <td align="left" valign="top" width="4"><img border="0" src="/images/trans.gif" width="4" height="4"></td>
 				
 	<script language="Javascript">
@@ -852,16 +877,16 @@ if ( flashenabled ) {
             <tbody><tr>
               <td>
               </td></tr><tr>
-<td align="center"><a target="_blank" href="/ad/click.asp?adID=4476&amp;adRunID=9087"><img src="http://images.radcity.net/PublicService/adc_gs_12yearold_130x100_fm.gif" border="0" alt="Girls Go Tech"></a></td>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=4482&amp;adRunID=9087"><img src="http://images.radcity.net/PublicService/adc_nul_read2_130x100_fmw.gif" border="0" alt="Read and Rise"></a></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=8468&amp;adRunID=14750"><img src="http://images.radcity.net/ads/tiles/MortgageTile1.gif" border="0" alt="Mortgage Specialists"></a></td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" href="/ad/click.asp?adID=9003&amp;adRunID=15352"><img src="http://images.radcity.net/3005/547653.gif" border="0" alt="Cuervo Clasico"></a></td>
 </tr>
 <tr>
 <td align="center"><a target="_blank" href="/ad/click.asp?adID=1565&amp;adRunID=9094"><img src="http://images.radcity.net/4128/238248.gif" border="0" alt=""></a></td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" href="/ad/click.asp?adID=4487&amp;adRunID=9087"><img src="http://images.radcity.net/PublicService/adc_pca_stove_130x100_fmw.gif" border="0" alt="Prevent Child Abuse"></a></td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" href="/ad/click.asp?adID=1567&amp;adRunID=9095"><img src="http://images.radcity.net/4128/238242.gif" border="0" alt=""></a></td>
 </tr>
 
             
@@ -888,11 +913,9 @@ if ( flashenabled ) {
 
      <!-- <option value=""><b></option>-->
 
-      <option value="/andysavageandthemorningend.asp">And Savage and the Morning End</option>
+      <option value="/musicnews.asp">New Rock News</option>
 
-      <option value="/musicnews.asp">Music News</option>
-
-      <option value="/concertcalendar.asp">End Concerts</option>
+      <option value="javascript:doNothing();">End Concerts</option>
 
       <option value="/ontheend.asp">On the End</option>
 
@@ -927,6 +950,8 @@ if ( flashenabled ) {
       <option value="/peoplescountdown.asp">People's Choice Countdown</option>
 
       <option value="/seattlemusic.asp">Seattle Music</option>
+
+      <option value="/newreleases.asp">New Releases</option>
 
       <option value="/endfest.asp">EndFest</option>
 
@@ -965,19 +990,20 @@ if ( flashenabled ) {
     <img border="0" src="/images/trans.gif" width="16" height="10"></td>
     <td align="left" valign="top">
     <img border="0" src="/images/trans.gif" width="10" height="10"><br>
-      <a class="gCopyright" href="/privacypolicy.asp">Privacy Policy</a><br>
-      <font class="gCopyright">Copyright © 2003 Entercom and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a><br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=www.1077theend.com">Powered by First MediaWorks</a></font>
+      
+      <font class="gCopyright">Copyright © 2003 Entercom Seattle-Tacoma, LLC  and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a> - All Rights Reserved<br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=1077theend.com">Powered by First MediaWorks</a></font>
 <script language="Javascript">
 <!--
 function displayNotice()
 {
-noteWin = window.open("http://firstmediaworks.com/PopUpCopyrightNotice.asp", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
+noteWin = window.open("http://firstmediaworks.com/PopUpCopyrightNotice.asp?d=1077theend.com", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
 noteWin.focus();
 }
 //-->
 </script>
 <br>
-    <!-- START OF WEBTRENDS LIVE TAG -->
+    <a class="gCopyright" href="/privacypolicy.asp">Privacy Policy</a> | <a class="gCopyright" href="http://www.communicator.entercom.com/seattle" target="_blank">EEO</a><br>
+<!-- START OF WEBTRENDS LIVE TAG -->
 <!-- Copyright 2003 NetIQ Corporation -->
 <!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm -->
 
@@ -1092,6 +1118,38 @@ function wtl_Tag6(wtl_TagID,wtl_SID,wtl_URL,wtl_Title,CONTENTGROUP)
 
 
 
+<div id="sub2" style="width:125px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(2);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(2);"> 
+  <table width="125" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="60" align="left" valign="top" background="/images/both_dropdown_back.gif">
+       
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/concertcalendar.asp" class="gNavText">Concert Calendar</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/community/communitycalendar.asp" class="gNavText">Club Calendar</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          </td></tr>
+    <tr>
+      <td height="9" align="left" valign="top"><img src="/images/both_dropdown_bottom.gif" width="125" height="9"></td>
+    </tr>
+  </tbody></table>
+</layer></div>
 <div id="sub3" style="width:125px;height:115px;" onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(3);"><layer onmouseover="overMenus=true" onmouseout="overMenus=false;hideText(3);"> 
   <table width="125" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
@@ -1212,6 +1270,17 @@ function wtl_Tag6(wtl_TagID,wtl_SID,wtl_URL,wtl_Title,CONTENTGROUP)
                 <tbody><tr align="left" valign="middle"> 
                   <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
                   <td><a href="/seattlemusic.asp" class="gNavText">Seattle Music</a></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          </tbody></table>
+          
+         <table width="125" border="0" cellspacing="6" cellpadding="2">
+          <tbody><tr>
+            <td align="left" valign="top" bgcolor="#000B60" background="/images/trans.gif"><table width="100" border="0" cellspacing="0" cellpadding="0" background="/images/trans.gif">
+                <tbody><tr align="left" valign="middle"> 
+                  <td width="15" align="center"><img border="0" src="/images/both_dropdown_button_off.gif" width="7" height="7"></td>
+                  <td><a href="/newreleases.asp" class="gNavText">New Releases</a></td>
                 </tr>
               </tbody></table></td>
           </tr>
