@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203164334id_/http%3A//getmytime.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmytime.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606161213id_/http%3A//getmytime.com/privacy.asp) for the most accurate reproduction.*
 
 # Web Based Time Management Quickbooks Timer, GetMyTime.com _ Privacy Statement
 
@@ -50,5 +50,9 @@ While on a secure page, such as our order form, the lock icon on the bottom of W
 **Correction/Updating Personal Information**
 
 If a user's personally identifiable information changes (such as your e-mail address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done by contacting [Customer Support](mailto:customerservice@getmytime.com). 
+
+**Advertising**
+
+GetMyTime advertises on Google Adwords. Part of the Google technology allows us to know how many people found our site through Google Adwords and eventually signed up for the free trial. It does not tell us WHICH customers found us through Google.
 
 || Back to top
