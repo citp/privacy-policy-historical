@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assh.org privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212021619id_/http%3A//www.assh.org/Template.cfm%3FSection%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assh.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306152622id_/http%3A//www.assh.org/Template.cfm%3FSection%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # American Society for Surgery of the Hand | Privacy Policy
 
