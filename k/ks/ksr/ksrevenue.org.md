@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014549id_/http%3A//ksrevenue.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602210018id_/http%3A//ksrevenue.org/privacy.htm) for the most accurate reproduction.*
 
 # Kansas Department of Revenue - Privacy Statement
 
@@ -25,7 +25,7 @@ Cookies
 A cookie is a small amount of data sent from an individual browser to a Web server and stored on a computer hard drive. The Department of Revenue does not collect extended cookies from its users of our Web site. The department does however maintain session cookies that are processed during an individual interaction. These are automatically removed when the session ends. No user information is gathered through cookies except for those needed to run a specific application. Cookies are not used to track your visits to our Web site. 
 
 Secure Applications  
-Secure applications such as WebFile, PC File and Vehicle address change provide the opportunity to receive or create a password to access or submit personal information. You should not divulge your password to anyone. The Department of Revenue will never ask you for your password in an unsolicited telephone call or e-mail. When you have finished with any password protected application, we recommend you exit the page.
+Secure applications such as WebFile, the On-line Business Center and Vehicle address change provide the opportunity to receive or create a password to access or submit personal information. You should not divulge your password to anyone. The Department of Revenue will never ask you for your password in an unsolicited telephone call or e-mail. When you have finished with any password protected application, we recommend you exit the page.
 
 E-mail  
 If during your visit to the Kansas Department of Revenue's Web site you send an e-mail message, the message and e-mail address may be retained by the server. This may be used to respond to you, to address issues you identify, to further improve our Web site, or to forward the e-mail to another agency for appropriate action.
