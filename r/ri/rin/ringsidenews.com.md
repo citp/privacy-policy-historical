@@ -1,13 +1,28 @@
-> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019043622id_/http%3A//www.ringsidenews.com/html/blank%2520version/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/policy.shtml) for the most accurate reproduction.*
 
-# Wrestling News and Information
+# Wrestling News and Information - Ringsidenews.com
 
-**Privacy Policy**
-
-[](http://www.1and1.com/?k_id=7437731)  
-  
+|   
 ---  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/upcoming.shtml)  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/results.shtml)  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/schools.shtml)  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/sims.shtml)  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/wrestlingstyles.shtml)  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/movie.shtml)  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/shows.shtml)  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/matches.shtml)  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/deceased.shtml)  
+[](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/moves.shtml)  
   
+[Sign up for the RSN Newsletter](http://www.s105465004.onlinehome.us/tinc?key=SkAUfjec&RegistrationFormID=10084)
+
+[Send RSN your comments, suggestions or wrestling news.](http://s105465004.onlinehome.us/tinc?key=H3U1s9RR)
+
+[Add a RSN Banner on your website](https://web.archive.org/web/20050206113318id_/http%3A//www.ringsidenews.com/TInSearchOfHTML/HTML/blank/banners.shtml)  
+  
+[](http://www.1and1.com/?k_id=7437731)
+
 **Privacy Policy**
 
 To view our legal information, click [here](https://web.archive.org/legal.shtml). 
@@ -32,5 +47,4 @@ You can send email to steven@ringsidenews.com
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Steven David](mailto:steven@stevendavid.com)
 
 
-  
-
+| 
