@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411234441id_/http%3A//amos.catalogcity.com/cc.class/cc%3Fmain%3Dcustomer_service%26act%3D4%26ccsyn%3D173) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2002-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020410201634id_/http%3A//www.gifts.com/cc.class/cc%3Fmain%3Dcustomer_service%26act%3D4%26ccsyn%3D173) for the most accurate reproduction.*
 
 # gifts.com
 
