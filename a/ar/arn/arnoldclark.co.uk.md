@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123429id_/http%3A//www.arnoldclark.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401183646id_/http%3A//www.arnoldclark.com/privacy.htm) for the most accurate reproduction.*
 
 # Arnold Clark Automobiles Privacy Statement
 
