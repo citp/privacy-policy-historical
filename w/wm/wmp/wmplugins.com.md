@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmplugins.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602200704id_/http%3A//www.wmplugins.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmplugins.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210133344id_/http%3A//www.wmplugins.com/Privacy.aspx) for the most accurate reproduction.*
 
 # wmplugins.com - Privacy Statement
 
@@ -74,7 +74,7 @@ Questions about cookies? [Read more](http://www.microsoft.com/info/cookies.htm).
 
 ## Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should first contact WMPlugins.com using [this form](https://web.archive.org/web/20030602200704id_/http%3A//www.wmplugins.com/Contacts.aspx).
+If you have questions regarding this statement, you should first contact WMPlugins.com using [this form](https://web.archive.org/web/20031210133344id_/http%3A//www.wmplugins.com/Contacts.aspx).
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at their Web site, <http://www.truste.org/users/users_watchdog.html>. TRUSTe will serve as a liaison with WMPlugins.com to resolve your concerns.
 
@@ -84,7 +84,7 @@ WMPlugins.com will occasionally update this privacy statement. When we do, we wi
 
 ## Contact Information
 
-Microsoft welcomes your comments regarding this privacy statement; please contact us via [this form](https://web.archive.org/web/20030602200704id_/http%3A//www.wmplugins.com/Contacts.aspx) or by writing to:
+Microsoft welcomes your comments regarding this privacy statement; please contact us via [this form](https://web.archive.org/web/20031210133344id_/http%3A//www.wmplugins.com/Contacts.aspx) or by writing to:
 
 WMPlugins.com Privacy  
 Microsoft Corporation  
