@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mobipocket.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215184912id_/http%3A//www.mobipocket.com/en/MyMobi/Cnil.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobipocket.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618100314id_/http%3A//www.mobipocket.com/en/MyMobi/Cnil.asp) for the most accurate reproduction.*
 
-# Privacy policy
-
-  | 
+# Mobipocket.com - eBooks for your PDA
 
 ## PRIVACY POLICY
 
@@ -47,5 +45,3 @@ MOBIPOCKET.COM undertakes to send, by electronic mail, information regarding pro
 MOBIPOCKET.COM expressly undertakes to insure by any means the confidentiality of users' financial information and more generally any sensitive information. In this respect, statistics relating to the use of financial products and services that MOBIPOCKET.COM may communicate to possible advertisers or partners are exclusively provided on an anonymous basis and compiled, and do not contain any personally identifiable information regarding any specific user. The user may have to give its credit card number on MOBIPOCKET.COM's web site in order to carry out a sale or verification. MOBIPOCKET.COM undertakes to forward such credit card number, asked to the user, under an encrypted format, and uses for such purpose a numbering complying with applicable standards.
 
 Any question relating to the present provision shall be sent by electronic mail to MOBIPOCKET.COM : [info@mobipocket.com](mailto:info@mobipocket.com)
-
-|  
