@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601104726id_/http%3A//www.247realmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204223138id_/http%3A//www.247realmedia.com/privacy.html) for the most accurate reproduction.*
 
 # 24/7 Real Media Privacy Policy
 
-[](https://web.archive.org/web/20020601104726id_/http%3A//www.247realmedia.com/marketers/index.html "solutions for marketers")[](https://web.archive.org/web/20020601104726id_/http%3A//www.247realmedia.com/publishers/index.html "solutions for publishers") |  | 
+[](https://web.archive.org/web/20021204223138id_/http%3A//www.247realmedia.com/marketers/index.html "solutions for marketers")[](https://web.archive.org/web/20021204223138id_/http%3A//www.247realmedia.com/publishers/index.html "solutions for publishers") |  | 
 
 **24/7 Real Media, Inc.  
 Privacy Policy**
@@ -27,7 +27,9 @@ WHAT 24/7 REAL MEDIA DOES**
 
 **24/7 Website Results —** 24/7 Real Media’s Website Results division aligns keyword searches with advertisers based on the topic of the search, enabling advertisers to reach users who self-select by interest category.
 
-**24/7 Mail —** 24/7 Real Media’s Mail division, 24/7 Mail, assists Web publishers in sending marketing and promotional email messages to online users that have consented to receive promotional email messages.
+**24/7 Mail —** 24/7 Real Media sold its Mail division, 24/7 Mail, to Naviant in May, 2002. 24/7 Mail is, therefore, part of Naviant's direct marketing group, and is still called 24/7 Mail. 24/7 Mail assists Web publishers in sending marketing and promotional email messages to online users that have consented to receive promotional email messages. For more information about 24/7 Mail, contact 
+
+[_Naviant._](http://www.success@naviant.com/)
 
 **Technology Solutions —** 24/7 Real Media's technology solutions provide advertisers and publishers with a suite of ad serving solutions, entitled "Open Adstream" ("OAS"). All of the OAS products offer publishers and advertisers the option to have their own, unique cookie™ associated to their domain, enabling them to build unique relationships with their customers while preventing third party ad serving companies from profiling their users and compromising their privacy.
 
