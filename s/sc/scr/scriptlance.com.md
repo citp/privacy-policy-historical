@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2001-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010407230048id_/http%3A//scriptlance.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2003-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030424095504id_/http%3A//scriptlance.com/privacy.shtml) for the most accurate reproduction.*
 
-# ScriptLance.com - freelance programming in cgi, perl, php, asp, java, xml and more...
+# ScriptLance.com - freelance web programming, c programming, java programming, php programming, perl programming, web design and more...
 
 ##  Privacy Statement for ScriptLance.com 
 
@@ -20,7 +20,7 @@ This site contains links to other sites. **ScriptLance.com** is not responsible 
 
 ####  Special Relationships 
 
-[SmartCGIs.com]() is a partner of ScriptLance.com, but no account information is shared. 
+[SmartCGIs.com](http://www.smartcgis.com/) is a partner of ScriptLance.com, but no account information is shared. 
 
 ####  Public Forums 
 
@@ -36,5 +36,3 @@ If you have any questions about this privacy statement, the practices of this si
 
 
 [ webmaster@scriptlance.com ](mailto:webmaster@scriptlance.com)
-
-[Privacy Policy](https://web.archive.org/privacy.shtml) \- [Terms](https://web.archive.org/terms.shtml) \- [Contact](https://web.archive.org/contact.shtml)
