@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivre.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607165937id_/http%3A//vivre.com/cust_service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivre.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204160232id_/http%3A//www.vivre.com/cust_service/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Vivre - Customer Service
+# Customer Service at Vivre
 
 |    
 **First Time Shoppers**   
@@ -59,7 +59,7 @@ Vivre provides customers the opportunity to opt-out of receiving communications 
 You can send e-mail to 
 
 [_customercare@vivre.com_](mailto:customercare@vivre.com)   
-You can visit the [_My Account_](https://vivre.com/account/my_account.jsp) page (sign-in required)   
+You can visit the [_My Account_](https://www.vivre.com/account/my_account.jsp) page (sign-in required)   
 You can call the following telephone number: **800.411.6515**
 
 **Contacting Vivre**
