@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the ncaasports.com privacy policy that was archived on 2003-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031212193110id_/http%3A//ncaasports.com/story/arc_story/11829) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncaasports.com privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606071447id_/http%3A//www.ncaasports.com/story/arc_story/11829) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title> - NCAA Sports.com</title>
    <script language="JavaScript" type="text/javascript"> 
+<!-- 
 var NS4 = (document.layers) ? 1 : 0;
 var IE = (document.all) ? 1 : 0;
 var DOM = (document.getElementById) ? 1 : 0;
@@ -68,7 +69,58 @@ function readCookie(name) {
     }	
 } 
 
+//-->
+</script>
 
+<script language="JavaScript" type="text/javascript">
+<!-- 
+
+function psuedoGetElementById(elm,d){ 
+    var p,i,x; if(!d) d=document; if((p=elm.indexOf("?"))>0&&parent.frames.length) {
+        d=parent.frames[n.substring(p+1)].document; elm=elm.substring(0,p);
+        }
+    if(!(x=d[elm])&&d.all) x=d.all[elm]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][elm];
+    for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=document.getElementById(elm,d.layers[i].document);
+    return x;
+	}
+	
+function getCoordinates(obj) {
+    var point = { x: 0, y: 0 };
+    while(obj) {
+        point.x += obj.offsetLeft;
+        point.y += obj.offsetTop;
+        obj = obj.offsetParent;
+        }
+    return point;
+    }
+
+function whereami(anchorid) {
+    var locarr = new Array();
+    if(NS4) {
+        if (document.anchors[anchorid]){
+            locarr[0] = document.anchors[anchorid].x;
+            locarr[1] = document.anchors[anchorid].y;
+            }
+        }
+    else if(DOM) {
+        var myanchor = document.getElementById(anchorid);
+        var coordinates = getCoordinates(myanchor)
+        if (myanchor){
+            locarr[0] = coordinates.x;
+            locarr[1] = coordinates.y;
+            }
+        }
+    else {
+	var myanchor = psuedoGetElementById(anchorid);
+    var coordinates = getCoordinates(myanchor)
+    if(myanchor.offsetLeft&&myanchor.offsetTop){
+        locarr[0] = coordinates.x;
+        locarr[1] = coordinates.y;
+        }
+    }
+	return locarr;
+	}
+//-->
 </script>
 <style type="text/css">
 BODY {margin-bottom:0; margin-left:0; margin-right:0; margin-top:0;}
@@ -81,56 +133,36 @@ BODY, DIV, P, TD, TH, TD.P, TH.P {
 
 form {display:inline;}
 a:link {color: #002af5;}
+a:visited {color: #7A8695;}
 a:hover {color: #c62a2a;}
 
 DIV.spacer5 {font-size:5px; line-height:5px; font-family:Arial, Helvetica;}
 DIV.spacer10 {font-size:10px; line-height:10px; font-family:Arial, Helvetica;}
 
 .hnavbg {background-color:#51688c;}
-.hnav, .hnav A {font-size:11px; line-height: 16px; font-weight:bold; color:#ffffff; text-decoration:none;}
+.hnav, .hnav A, .hnav A:visited  {font-size:11px; line-height: 16px; font-weight:bold; color:#ffffff; text-decoration:none;}
 .hnav A:hover {color: #c62a2a;}
 
-.arena {
-	font-size:18px;
-	line-height: 22px;
-	font-weight:bold;
-	color:#ac0909;
-}
+.arena {font-size:18px;line-height: 22px;font-weight:bold;color:#ac0909;}
 .lrailbg {background-color:#085aa5;}
 
 .ff, .ff A {font-size:12px;line-height: 18px;font-weight:bold;}
 .ff {color:#002A5F;}
-.ff A {color:#d2d9e3;}
+.ff A, .ff A:visited {color:#d2d9e3;}
 .ff A:hover {color:#c62a2a;}
 .ffbull, .ffbull A {font-size:9px;color:#d2d9e3;}
 
-.lrail, .lrail A {
-	font-size:11px;
-	line-height: 18px;
-	font-weight:bold;
-	color:#d2d9e3;
-}
+.ffon A {text-decoration: none;}
+.ffon A:visited {color: #002A5F;}
+.ffon A:hover {color: #c62a2a;}
+
+.lrail, .lrail A, .lrail A:visited {font-size:11px;line-height: 18px;font-weight:bold;color:#d2d9e3;}
 .lrail A:hover {color: #c62a2a;}
-.lrailtitle {
-	font-size:11px;
-	line-height: 16px;
-	font-weight:bold;
-	text-transform:uppercase;
-	color:#d2d9e3;
-	background-color:#002a5f;
-}
-.lrailchamp, .lrailchamp A {
-	font-size:11px;
-	font-weight:bold;
-	color:#fcce6c;
-}
-.lrailchamp A:hover {color: #c62a2a;}
-.lnspln, .lnspln A {
-	font-size:10px;
-	font-weight: bold;
-	color:#085aa5;
-	background-color: #ffffff;
-}
+.lrailtitle {font-size:11px;line-height: 16px;font-weight:bold;text-transform:uppercase;color:#d2d9e3;background-color:#002a5f;}
+.lrail2, .lrail2 A, .lrail2 A:visited {font-size:11px;font-weight:bold;color:#fcce6c;}
+.lrail2 A:hover {color: #c62a2a;}
+.lnspln, .lnspln A {font-size:10px;font-weight: bold;color:#085aa5;background-color: #ffffff;}
+
 .crailbg {background-color:#d2d9e3;}
 .crailbg A {color:#002a5f;}
 .crailbody, .crailbody A {font-size: 12px; line-height:15px; color:#002a5f;}
@@ -215,22 +247,27 @@ A.optsel {font-weight:bold; color: #000000; text-decoration: none; }
 /* for archive content */
 .txt_headline {font-size:17px;font-weight:bold;}
 
-
+/* marketing overs */
+.marketmsgbox {border:1px solid #6B2C03; background-color:#FFFFFF;}
+.marketmsgtxt {font-family: verdana, sans-serif; font-size:11px; color:#6B2C03;}
+.marketmsgtxt A {color:#6B2C03;}
 </style>
 
 <link rel="SHORTCUT ICON" href="http://images.sportsline.com/images/ncaasports/favicon.ico">
 </head>
 <body leftmargin="0" topmargin="0" bottommargin="0" marginwidth="0" marginheight="0">	<script language="JavaScript"><!--
 	/*  */
-	var vTag = "other;arena=ros;feat=stories;type=ros;user=Anonymous;myspl=no;fteam=NFL-none;fteam=NBA-none;fteam=MLB-none;fteam=NHL-none;fteam=NCAAF-none;fteam=NCAAB-none;vip=no";
+	var vTag = "other;arena=ros;feat=stories;type=ros;user=Anonymous";
+        var vTarget = "cust=no;vip=no";
         var pTag = "dcopt=ist";
+        var adExclude = "none";
         var uID = "u=";
 	if (!_mlc) {var _mlc="/ncaasports/other;/other/news/stories";}
 	if (!_aff) {var _aff="";}else{_aff +=",";}
 	var _acct="DM51072221AE95EN3;DM530212ELEN95EN3";
 	var s_pageName="/story/arc_story/11829";
 	var s_server="www.ncaasports.com";
-	if (!s_pageType) {var s_pageType="";}
+	var s_pageType="";
         var s_hier1="Multi-Sport Features:News:Stories:/story/arc_story/11829";
 	var s_prop1="Multi-Sport Features";
 	var s_prop2="News";
@@ -248,7 +285,7 @@ A.optsel {font-weight:bold; color: #000000; text-decoration: none; }
 	var s_prop14="Unknown";
         var s_prop15="Unknown";
 	var s_prop16="Unknown";
-	var s_prop17="";
+	var s_prop17="Anonymous";
         var s_prop18="";
         var s_prop19="";
         var s_prop20="";
@@ -546,45 +583,37 @@ unn];if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)),ta)
 s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
 s_wds(un);s_ca(un);return s_gs(un)}
 s_code=s_dc(s_account);if(s_code)document.write(s_code)
-//--></script><img name="s_i_cbsncaasports" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cbsncaasports/1/G.5-Pd-F/s37136618446016?[AQB]&amp;ndh=1&amp;t=30/0/2020%2016%3A0%3A18%204%200&amp;pageName=/story/arc_story/11829&amp;server=www.ncaasports.com&amp;c1=Multi-Sport%20Features&amp;h1=Multi-Sport%20Features%3ANews%3AStories%3A/story/arc_story/11829&amp;c2=News&amp;c3=Stories&amp;c8=Multi-Sport%20Features%3ANews%3AStories%3A/story/arc_story/11829&amp;c9=Other&amp;c10=Anonymous&amp;c11=Unknown&amp;c12=Unknown&amp;c13=Unknown&amp;c14=Unknown&amp;c15=Unknown&amp;c16=Unknown&amp;g=https%3A//web.archive.org/web/20031212193110id_/http%253A//ncaasports.com/story/arc_story/11829&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
+//--></script><img name="s_i_cbsncaasports" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cbsncaasports/1/G.5-Pd-F/s03898600398537?[AQB]&amp;ndh=1&amp;t=24/1/2020%206%3A43%3A52%201%200&amp;pageName=/story/arc_story/11829&amp;server=www.ncaasports.com&amp;c1=Multi-Sport%20Features&amp;h1=Multi-Sport%20Features%3ANews%3AStories%3A/story/arc_story/11829&amp;c2=News&amp;c3=Stories&amp;c8=Multi-Sport%20Features%3ANews%3AStories%3A/story/arc_story/11829&amp;c9=Other&amp;c10=Anonymous&amp;c11=Unknown&amp;c12=Unknown&amp;c13=Unknown&amp;c14=Unknown&amp;c15=Unknown&amp;c16=Unknown&amp;c17=Anonymous&amp;g=https%3A//web.archive.org/web/20040606071447id_/http%253A//www.ncaasports.com/story/arc_story/11829&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img src="http://cbsncaasports.112.2O7.net/b/ss/cbsncaasports/1/G.3--NS/0?c1%3DMulti-Sport%20Features%26c2%3DNews%26c3%3DStories%26server%3Dwww.ncaasports.com%26pageName%3D%2Fstory%2Farc_story%2F11829%26c8%3DMulti-Sport%20Features%3ANews%3AStories%3A%2Fstory%2Farc_story%2F11829%26c9%3DOther%26c10%3DAnonymous%26c11%3DUnknown%26c12%3DUnknown%26c13%3DUnknown%26c14%3DUnknown%26c15%3DUnknown%26c16%3DUnknown" height="1" width="1" border="0" alt=""></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: G.3. --></td></tr></tbody></table></div>
-
-<a name="hdrIMG"></a><table width="770" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td height="2" colspan="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
-<tr><td><img src="http://images.sportsline.com/images/ncaasports/hdr-top.gif" width="302" height="60" alt="NCAASports.com" border="0" usemap="#hdr"></td>
-<td>
-<script language="JavaScript">
-document.write('<script src="http://ad.doubleclick.net/adj/banners.ncaasports.com/'+vTag+';'+vTarget+';'+pTag+';'+uID+';sz=468x60;tile=1;ord='+random+'?"><\/script>');
-</script><script src="http://ad.doubleclick.net/adj/banners.ncaasports.com/other;arena=ros;feat=stories;type=ros;user=Anonymous;myspl=no;fteam=NFL-none;fteam=NBA-none;fteam=MLB-none;fteam=NHL-none;fteam=NCAAF-none;fteam=NCAAB-none;vip=no;seg=nonaol;vt=null;dcopt=ist;u=;sz=468x60;tile=1;ord=6024647415838611?"></script>
-
-</td></tr>
-<tr><td colspan="2"><img src="http://images.sportsline.com/images/ncaasports/hdr-bot-SPLN.gif" width="770" height="27" alt="The Offical Web Site for NCAA Sports" border="0" usemap="#hdr_bot"></td><td></td></tr>
-</tbody></table>
-<map name="hdr_bot"><area shape="rect" coords="500,1,770,27" href="http://www.sportsline.com/" target="_blank" alt="SportsLine.com"></map>
-<table width="770" border="0" cellspacing="0" cellpadding="0">
+<!-- _pgatour_banner_ad --><table width="770" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td height="5"><spacer type="block" width="1" height="5"></spacer></td></tr><tr><td align="center"><script language="JavaScript">
+<!--//
+document.write('<script src="http://ad.doubleclick.net/adj/banners.ncaasports.com/'+vTag+';'+vTarget+';'+pTag+';'+uID+';sz=728x90;tile=1;ord='+random+'?"><\/script>');
+// -->
+</script><script src="http://ad.doubleclick.net/adj/banners.ncaasports.com/other;arena=ros;feat=stories;type=ros;user=Anonymous;seg=nonaol;cust=no;vip=no;dcopt=ist;u=;sz=728x90;tile=1;ord=4074308612902888?"></script>
+</td></tr></tbody></table>
+             <!-- _ncaasports_header --><table width="770" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="65"><img src="http://images.sportsline.com/images/ncaasports/hdr-home-SPLN.gif" width="770" height="65" alt="NCAASports.com" border="0" usemap="#hdr"></td></tr></tbody></table><a name="hdrIMG"></a><map name="hdr"><area shape="rect" coords="0,1,300,50" href="http://www.ncaasports.com/" target="_blank" alt="The Offical Web Site for NCAA Sports"><area shape="rect" coords="530,40,770,65" href="http://www.sportsline.com/" target="_blank" alt="SportsLine.com"></map><table width="770" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr class="hnavbg"><td height="20" class="hnav" align="right">
 <a href="/">Home</a> ·
+<a href="/schedules">Schedules &amp; Tickets</a> · 
 <a href="/photos">Photos</a> · 
-<a href="/story/arc_story/9936">Schools</a> · 
-<a href="/story/arc_story/9932">Broadcast Info</a>  · 
+<a href="/schools">Schools</a> · 
+<a href="/broadcast">Broadcast Info</a>  · 
 <a href="http://www.sportsline.com/redir?url=209">Shop</a>  · 
-<a href="http://www.ncaa.org">NCAA.org</a>
+<a href="http://kids.ncaasports.com" target="_kids">NCAA Kids</a>  · 
+<a href="http://www.ncaa.org" target="_ncaa">NCAA.org</a>
 &nbsp;&nbsp;
 </td></tr>
 </tbody></table>
-
-<!-- include:sn -->
 <table width="770" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top">
 <td width="150" class="hnavbg"><spacer type="block" width="1" height="1"></spacer></td>
 <td width="10" class="crailbg"><img src="http://images.sportsline.com/images/ncaasports/curve_home.gif" width="10" height="11" alt="" border="0"></td>
-<td width="480" class="crailbg"><spacer type="block" width="1" height="1"></spacer></td>
-<td width="130" class="rrailbg"><spacer type="block" width="1" height="1"></spacer></td>
+<td width="450" class="crailbg"><spacer type="block" width="1" height="1"></spacer></td>
+<td width="160" class="rrailbg"><spacer type="block" width="1" height="1"></spacer></td>
 </tr>
 </tbody></table>
-
 <table width="770" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top">
 <td width="150" class="lrailbg">
@@ -672,9 +701,7 @@ document.write('<script src="http://ad.doubleclick.net/adj/banners.ncaasports.co
 	<!-- include:on-spln -->
 </td>
 <td width="10" class="crailbg"><spacer type="block" width="1" height="1"></spacer></td>
-<td width="470" class="crailbg"><br>
-
-<!-- include:arena -->
+<td width="440" class="crailbg"><br>
 
 <font class="lead">
 <!--headline story-->
@@ -858,10 +885,10 @@ Questions regarding this statement should be directed to:
 <table cellspacing="0" cellpadding="0" width="355" border="0">
 <tbody><tr class="shopbg" valign="top">
 <td width="5">&nbsp;</td>
-<td width="75"><a href="http://www.ncaasports.com/store/special-event/sp4"><img src="http://images.sportsline.com/images/ads/storeads/ousweatshirt_75x90.jpg" width="75" height="90" alt="" border="0"></a></td>
+<td width="75"><a href="http://www.shopncaasports.com/product.asp?pid=18083&amp;sch=Uconn&amp;str=1"><img src="http://images.sportsline.com/images/ads/storeads/ncaasports_shopbox_75x90_040504.gif" width="75" height="90" alt="" border="0"></a></td>
 <td width="130">
 &nbsp;<br>
-<a href="http://www.ncaasports.com/store/special-event/sp4">Free Shipping Sweatshirts</a>
+<a href="http://www.shopncaasports.com/product.asp?pid=18083&amp;sch=Uconn&amp;str=1">Save 40% UConn Huskies Cap &amp; Tee Combo</a>
 <br>&nbsp;
 </td>
 <td width="5">&nbsp;</td>
@@ -872,30 +899,68 @@ Questions regarding this statement should be directed to:
 <td width="129">
 &nbsp;<br>
 
-<a href="http://www.shopncaasports.com/product_T.asp">Free T-Shirt with All Orders</a>
+<a href="http://www.shopncaasports.com/bySelectCat.asp?cat=apparel/jerseys">College Team Jerseys</a>
 <br><br>
 
-<a href="http://www.ncaasports.com/store/special-event/sp1">Holiday Santa Team Figurines</a>
+<a href="http://www.shopncaasports.com/byEvent.asp?evn=2004+FINAL+FOUR%2DWomens&amp;str=1">Lady Huskies 2004 Champs Gear</a>
 <br><br>
 
-<a href="http://www.shopncaasports.com/bySelectCat.asp?cat=Featured%20Product">Save 10% -Rivalry Figurines</a>
+<a href="http://www.shopncaasports.com/product.asp?pid=10291&amp;sch=&amp;str=1">Sale - CWS History Tee</a>
 <br><br>
 </td>
 <td width="5">&nbsp;</td>
 </tr>
 </tbody></table>
-</td></tr>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="40">
+<tbody><tr class="shopbtm">
+<td width="55%" align="center">Click here to shop by school</td>
+<td width="45%" align="center">
+<form id="form1" name="form1">
+<select class="formdefsm2" name="pulldown" onchange="if (value!='') window.location.href=this.options[this.selectedIndex].value">
+<option selected="">Choose Your School</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Arizona">Arizona Wildcats</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Cincinnati">Cincinnati Bearcats</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=UConn">Connecticut Huskies</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Duke">Duke Blue Devils</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Georgia+Tech">Georgia Tech Yellow Jackets</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Gonzaga">Gonzaga Bulldogs</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Illinois">Illinois Fighting Illini</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Kansas">Kansas Jayhawks</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Kentucky">Kentucky Wildcats</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Louisville">Louisville Cardinals</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Memphis">Memphis Tigers</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Michigan">Michigan Wolverines</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Michigan+State">Michigan State Spartans</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Mississippi+State">Mississippi State Bulldogs</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=North+Carolina">North Carolina Tar Heels</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=North+Carolina+State">North Carolina State Wolfpack</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Ohio+State">Ohio State Buckeyes</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Oklahoma+State">Oklahoma State Cowboys</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Pittsburgh">Pittsburgh Panthers</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Providence">Providence Friars</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=St.+Joseph's">St. Joseph's Hawks</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Stanford">Stanford Cardinal</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Texas">Texas Longhorns</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Utah+State">Utah State Aggies</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Wake+Forest">Wake Forest Demon Deacons</option>
+<option value="http://www.shopncaasports.com/bySchool.asp?rf=home_dropdown&amp;sch=Wisconsin">Wisconsin Badgers</option>
+<option value="http://www.shopncaasports.com/">More Schools</option>
+</select></form>
+</td>
+</tr>
+</tbody></table></td></tr>
 </tbody></table>
 
 	<br>&nbsp;
 </td>
 <td width="10" class="crailbg"><spacer type="block" width="1" height="1"></spacer></td>
-<td width="130" class="rrailbg" align="center">
+<td width="160" class="rrailbg" align="center">
 		<script language="JavaScript">
 <!--//
-document.write('<script src="http://ad.doubleclick.net/adj/skyscrapers.ncaasports.com/'+vTag+';'+vTarget+';'+uID+';sz=120x600;tile=7;ord='+random+'?"><\/script>');
+document.write('<script src="http://ad.doubleclick.net/adj/skyscrapers.ncaasports.com/'+vTag+';'+vTarget+';'+uID+';sz=160x600;tile=7;ord='+random+'?"><\/script>');
 // -->
-</script><script src="http://ad.doubleclick.net/adj/skyscrapers.ncaasports.com/other;arena=ros;feat=stories;type=ros;user=Anonymous;myspl=no;fteam=NFL-none;fteam=NBA-none;fteam=MLB-none;fteam=NHL-none;fteam=NCAAF-none;fteam=NCAAB-none;vip=no;seg=nonaol;vt=null;u=;sz=120x600;tile=7;ord=6024647415838611?"></script>
+</script><script src="http://ad.doubleclick.net/adj/skyscrapers.ncaasports.com/other;arena=ros;feat=stories;type=ros;user=Anonymous;seg=nonaol;cust=no;vip=no;u=;sz=160x600;tile=7;ord=4074308612902888?"></script>
 
 		<br>&nbsp;
 </td>
@@ -903,12 +968,13 @@ document.write('<script src="http://ad.doubleclick.net/adj/skyscrapers.ncaasport
 </tbody></table>
 <table width="770" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr class="ftrbg"><td height="30" class="ftr" align="center">
-© Copyright 1998-2003&nbsp; <a target="_blank" href="http://www.ncaa.org">NCAA</a> <sup>®</sup>. All rights reserved worldwide. <a href="/story/arc_story/11249">Credits and Legal Information</a> | <a href="/story/arc_story/11829">Privacy Policy</a>
+© Copyright 1998-2004&nbsp; <a target="_blank" href="http://www.ncaa.org">NCAA</a> <sup>®</sup>. All rights reserved worldwide. <a href="/story/arc_story/11249">Credits and Legal Information</a> | <a href="/story/arc_story/11829">Privacy Policy</a>
 </td></tr>
 </tbody></table>
 
 <table width="770" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr class="ftrbg"><td>
+    
     
     
 
