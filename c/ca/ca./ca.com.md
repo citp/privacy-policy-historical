@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602165137id_/http%3A//ca.com/caprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218003004id_/http%3A//ca.com/caprivacy.htm) for the most accurate reproduction.*
 
 # Computer Associates Copyright Information
 
