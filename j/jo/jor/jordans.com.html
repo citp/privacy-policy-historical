@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jordans.com privacy policy that was archived on 2003-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030408021058id_/http%3A//www.jordans.com/customer_service/web_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jordans.com privacy policy that was archived on 2003-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030812083353id_/http%3A//jordans.com/customer_service/web_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Jordan's Furniture</title>
@@ -77,6 +77,47 @@ function popupExperience(url, scroll){
 	newwin = window.open(url, "winpopup9","WIDTH=400,HEIGHT=225" + scrollable);
 	newwin.focus();
 }
+</script>
+
+<script language="Javascript">
+// flash/version detect
+var fins = 0;
+var fver = 0;
+MSDetect = "false";
+if (navigator.plugins && navigator.plugins.length) {
+	x = navigator.plugins["Shockwave Flash"];
+	if (x) { fins = 2;
+		if (x.description) { y = x.description;
+			fver = y.charAt(y.indexOf('.')-1); }
+	} else fins = 1;
+	if (navigator.plugins["Shockwave Flash 2.0"]) { fins = 2;
+		fver = 2; }
+} else if (navigator.mimeTypes && navigator.mimeTypes.length) {
+	x = navigator.mimeTypes['application/x-shockwave-flash'];
+	if (x && x.enabledPlugin) 
+		fins = 2;
+	else
+		fins = 1;
+} else
+MSDetect = "true";
+</script>
+<script language="VBScript">
+on error resume next
+
+If MSDetect = "true" Then
+For i = 2 to 6
+	If Not(IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & i))) Then
+
+	Else
+		fins = 2
+		fver = i
+	End If
+Next
+End If
+
+If fins = 0 Then
+fins = 1
+End If
 </script>
 </head>
 
@@ -166,6 +207,7 @@ document.write('<option value=none>-- Select a piece of furniture --');
 document.write('<option value=none>');
 document.write('<option value="/room.asp?room=bedroom&style=all&type=armoires">Armoires');
 document.write('<option value="/room.asp?room=bedroom&style=all&type=beds">Beds');
+document.write('<option value="/room.asp?room=dinette&style=all&type=barstoolsdn">Bar Stools, Dinette');
 document.write('<option value="/room.asp?room=kidsroom&style=all&type=bedskr">Beds, Kids');
 document.write('<option value="/room.asp?room=dinette&style=all&type=chairsdn">Chairs, Dinette');
 document.write('<option value="/room.asp?room=diningroom&style=all&type=chairsdr">Chairs, Dining');
@@ -186,15 +228,17 @@ document.write('<option value="/room.asp?room=livingroom&style=all&type=recliner
 document.write('<option value="/room.asp?room=livingroom&style=all&type=reclinersuph">Recliners, Upholstered');
 document.write('<option value="/room.asp?room=livingroom&style=all&type=seclth">Sectionals, Leather');
 document.write('<option value="/room.asp?room=livingroom&style=all&type=secuph">Sectionals, Upholstered');
+document.write('<option value="/room.asp?room=diningroom&style=all&type=sideboardsdr">Sideboards, Dining');
+document.write('<option value="/room.asp?room=diningroom&style=all&type=sideboardsdr">Sideboards, Dinette');
 document.write('<option value="/room.asp?room=livingroom&style=all&type=sofaslth">Sofas, Leather');
 document.write('<option value="/room.asp?room=livingroom&style=all&type=sofasuph">Sofas, Upholstered');
-document.write('<option value="/room.asp?room=dinette&style=all&type=tablesdn">Tables, Dinette');
+document.write('<option value="/room.asp?room=dinette&style=all&type=tablesdr">Tables, Dinette');
 document.write('<option value="/room.asp?room=diningroom&style=all&type=tablesdr">Tables, Dining');
 document.write('<option value="/room.asp?room=homeoffice&style=all&type=deskswkst">Workstations');
 document.write('</select>');
 document.write('</form>');
 // end hiding contents -->
-</script><form name="selecter1"><select name="select1" size="1" onchange="go1()"><option value="none">-- Select a piece of furniture --</option><option value="none"></option><option value="/room.asp?room=bedroom&amp;style=all&amp;type=armoires">Armoires</option><option value="/room.asp?room=bedroom&amp;style=all&amp;type=beds">Beds</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=bedskr">Beds, Kids</option><option value="/room.asp?room=dinette&amp;style=all&amp;type=chairsdn">Chairs, Dinette</option><option value="/room.asp?room=diningroom&amp;style=all&amp;type=chairsdr">Chairs, Dining</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=chairslth">Chairs, Leather</option><option value="/room.asp?room=homeoffice&amp;style=all&amp;type=ofcchairs">Chairs, Home Office</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=chairsuph">Chairs, Upholstered</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=chestskr">Chests, Kids</option><option value="/room.asp?room=dinette&amp;style=all&amp;type=chcabinetsdn">China Cabinets, Dinette</option><option value="/room.asp?room=diningroom&amp;style=all&amp;type=chcabinetsdr">China Cabinets, Dining</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=deskskr">Desks, Kids</option><option value="/room.asp?room=homeoffice&amp;style=all&amp;type=deskswkst">Desks, Office</option><option value="/room.asp?room=bedroom&amp;style=all&amp;type=dressmirs">Dressers</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=dressmirskr">Dressers, Kids</option><option value="/room.asp?room=entertainment&amp;style=all&amp;type=entcenter">Entertainment Centers</option><option value="/room.asp?room=bedroom&amp;style=all&amp;type=nightstands">Nightstands</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=nightstandskr">Nightstands, Kids</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=reclinerslth">Recliners, Leather</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=reclinersuph">Recliners, Upholstered</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=seclth">Sectionals, Leather</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=secuph">Sectionals, Upholstered</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=sofaslth">Sofas, Leather</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=sofasuph">Sofas, Upholstered</option><option value="/room.asp?room=dinette&amp;style=all&amp;type=tablesdn">Tables, Dinette</option><option value="/room.asp?room=diningroom&amp;style=all&amp;type=tablesdr">Tables, Dining</option><option value="/room.asp?room=homeoffice&amp;style=all&amp;type=deskswkst">Workstations</option></select></form>
+</script><form name="selecter1"><select name="select1" size="1" onchange="go1()"><option value="none">-- Select a piece of furniture --</option><option value="none"></option><option value="/room.asp?room=bedroom&amp;style=all&amp;type=armoires">Armoires</option><option value="/room.asp?room=bedroom&amp;style=all&amp;type=beds">Beds</option><option value="/room.asp?room=dinette&amp;style=all&amp;type=barstoolsdn">Bar Stools, Dinette</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=bedskr">Beds, Kids</option><option value="/room.asp?room=dinette&amp;style=all&amp;type=chairsdn">Chairs, Dinette</option><option value="/room.asp?room=diningroom&amp;style=all&amp;type=chairsdr">Chairs, Dining</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=chairslth">Chairs, Leather</option><option value="/room.asp?room=homeoffice&amp;style=all&amp;type=ofcchairs">Chairs, Home Office</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=chairsuph">Chairs, Upholstered</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=chestskr">Chests, Kids</option><option value="/room.asp?room=dinette&amp;style=all&amp;type=chcabinetsdn">China Cabinets, Dinette</option><option value="/room.asp?room=diningroom&amp;style=all&amp;type=chcabinetsdr">China Cabinets, Dining</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=deskskr">Desks, Kids</option><option value="/room.asp?room=homeoffice&amp;style=all&amp;type=deskswkst">Desks, Office</option><option value="/room.asp?room=bedroom&amp;style=all&amp;type=dressmirs">Dressers</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=dressmirskr">Dressers, Kids</option><option value="/room.asp?room=entertainment&amp;style=all&amp;type=entcenter">Entertainment Centers</option><option value="/room.asp?room=bedroom&amp;style=all&amp;type=nightstands">Nightstands</option><option value="/room.asp?room=kidsroom&amp;style=all&amp;type=nightstandskr">Nightstands, Kids</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=reclinerslth">Recliners, Leather</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=reclinersuph">Recliners, Upholstered</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=seclth">Sectionals, Leather</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=secuph">Sectionals, Upholstered</option><option value="/room.asp?room=diningroom&amp;style=all&amp;type=sideboardsdr">Sideboards, Dining</option><option value="/room.asp?room=diningroom&amp;style=all&amp;type=sideboardsdr">Sideboards, Dinette</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=sofaslth">Sofas, Leather</option><option value="/room.asp?room=livingroom&amp;style=all&amp;type=sofasuph">Sofas, Upholstered</option><option value="/room.asp?room=dinette&amp;style=all&amp;type=tablesdr">Tables, Dinette</option><option value="/room.asp?room=diningroom&amp;style=all&amp;type=tablesdr">Tables, Dining</option><option value="/room.asp?room=homeoffice&amp;style=all&amp;type=deskswkst">Workstations</option></select></form>
 
 
 
