@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215454id_/http%3A//www.iht.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601172433id_/http%3A//www.iht.com/privacy.htm) for the most accurate reproduction.*
 
 # IHT: Privacy
 
@@ -22,7 +22,7 @@
 [Europe](https://web.archive.org/europe.htm)  
   
 **Publishing Partners**  
-[The Daily Star, Frankfurter Allgemeine Zeitung, Ha'aretz, Italy Daily, JoongAng Ilbo and Kathimerini](https://web.archive.org/global.htm)  
+[Ha'aretz, Kathimerini, Italy Daily, Frankfurter Allgemeine Zeitung, JoongAng Ilbo, The Daily Star](https://web.archive.org/global.htm)  
 **Services**  
 [Currency Converter](https://web.archive.org/cgi-bin/cgconvert.cgi)  
 [Weather](https://web.archive.org/weather.htm)  
@@ -31,7 +31,7 @@
 [Help](https://web.archive.org/help.htm)  
 **Search**  
   
-[Advanced Search](https://web.archive.org/advancedsearch.htm)  
+  
 **Articles by Day**  
 [Monday](https://web.archive.org/week/monday.htm)  
 [Tuesday](https://web.archive.org/week/tuesday.htm)  
