@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealcoupon.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204213230id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealcoupon.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605202946id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
 
 # dealnews and Your Right to Privacy
 
@@ -8,9 +8,9 @@ dealnews.com, Inc., Privacy Policy
 
 dealnews.com, Inc., is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
 
-If users have questions or concerns regarding this statement, they should first contact Daniel de Grandpre via [this online contact form](http://dealnews.com/contact.html?dept=privacy) or via postal mail at 6767 Old Madison Pike, Suite 200, Huntsville, AL 35806\. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [ TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve user concerns.
+If users have questions or concerns regarding this statement, they should first contact Daniel de Grandpre via [this online contact form](http://dealnews.com/contact.html?dept=privacy) or via postal mail at 1500 Perimeter Parkway, Suite 225, Huntsville, AL 35806. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [ TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve user concerns.
 
-The policies below are applicable to dealnews.com, dealmac.com, dealram.com, and other sites published by dealnews.com, Inc. (dealnews), 6767 Old Madison Pike Suite 200, Huntsville, AL 35806.
+The policies below are applicable to dealnews.com, dealmac.com, dealram.com, and other sites published by dealnews.com, Inc. (dealnews), 1500 Perimeter Parkway, Suite 225, Huntsville, AL 35806.
 
 TRUSTe coverage extends to dealnews.com and its functional mirrors, dealmac.com and dealram.com. 
 
