@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmentvideo.com privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015181514id_/http%3A//www.governmentvideo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentvideo.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403215459id_/http%3A//www.governmentvideo.com/privacy.shtml) for the most accurate reproduction.*
 
 # Government Video Online
 
