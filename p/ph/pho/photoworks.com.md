@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622053441id_/http%3A//www.photoworks.com/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203210132id_/http%3A//www.photoworks.com/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |   
+|  |  |   
 **Privacy Policy for PhotoWorks**  
   
 PhotoWorks, Inc. ("PhotoWorks") is firmly committed to safeguarding the privacy of our customers. This page will inform you about our information-gathering and dissemination practices whether such information is obtained through the [www.photoworks.com](http://www.photoworks.com/) Web site or through a partner's Web site.  
@@ -43,7 +43,12 @@ If a user elects to use our referral service for informing a friend about our si
 **Does PhotoWorks collect any information automatically and how is that information used?**
 
 **Cookies & User ID**  
-A cookie is a piece of data stored on the user’s computer, which may contain information that the user has consented to provide. We use cookies to manage your PhotoWorks session. If a user rejects the cookie, they may still use our site although some functionality may be limited. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+A cookie is a piece of data stored on the user’s computer, which may contain information that the user has consented to provide. We use cookies to manage your PhotoWorks session. If a user rejects the cookie, they may still use our site although some functionality may be limited. Some of our business partners use cookies on our site (for example, advertisers). 
+
+PhotoWorks is currently using and has contracted with a third party to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our web site in order to constantly improve the web site quality. All data collected by the third party on behalf of PhotoWorks is owned and used by PhotoWorks. PhotoWorks reserves the right to publish non-personally identifiable, summary information regarding its web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. These cookies help track visitor behavior and are set on behalf of PhotoWorks which will be listed under the domain 2O7.net.
+
+**Clear GIFS**  
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users’ personally identifiable information. To help us improve visitor experience and manage site content, we utilize clear gifs (a.k.a Web Beacons) to track visitor behavior.
 
 **Internet Protocol Address**  
 We analyze Internet Protocol (IP) addresses in the aggregate for system administration purposes and to gather broad demographic information. We do not link IP addresses to your PhotoWorks User ID, with the following exception: when you place an order using our online checkout process we may record your computer's IP address along with your order to help us identify fraudulent credit card use. We may share this information with the financial institution that issued the credit card used to place an order, or with law enforcement authorities if we determine, or are notified, that the use of the credit card was fraudulent.
@@ -86,4 +91,4 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this Web site, you can send e-mail to privacy@photoworks.com.  
 
 
-|  |  |  | 
+|  |  |  |  | 
