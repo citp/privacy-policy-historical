@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the proactiv.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408170723id_/http%3A//www.proactiv.com/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiv.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201220136id_/http%3A//proactiv.com/privacy/privacy.php) for the most accurate reproduction.*
 
 # ProactivŽ - Privacy Policy
 
-|   |   
 |  |  |  |   
 ---  
-When you buy from Proactiv, either via our show or the Internet, we protect your privacy. Customer information is gathered so we can better serve you, and we make every effort to ensure its security and to treat your information responsibly. LookSmart, Ltd. is the exclusive online distributor of Guthy-Renker products.   
+When you buy from Proactiv, either via our show or the Internet, we protect your privacy. Customer information is gathered so we can better serve you, and we make every effort to ensure its security and to treat your information responsibly.   
 When you visit proactiv.com our system automatically notes which browser and Internet Provider (IP) you used for access. We collect this navigational information to help us design our pages, so we can provide the majority of our customers with the best shopping experience possible.  
   
 We share identifiable information only with those parties entrusted with the processing of your account, the fulfillment of your order, and for providing you with information and updates about our products (please see below for instructions to "opt out" of receiving these updates). We've established procedures to protect your privacy, which we vigorously uphold. Of course, this policy does not apply to information we are required to disclose by law. 
 
-From time to time, you may receive e-mail from Guthy-Renker, Proactiv or LookSmart, Ltd. in order to update your account or communicate information which we hope might be of interest to you. At any time, you may request your name be removed from our e-mail list by simply sending an e-mail to a Customer Service Representative at optout@guthy-renker.com. We want your experiences with Proactiv to be based upon your preferences.   
+From time to time, you may receive e-mail from Guthy-Renker or Proactiv in order to update your account or communicate information which we hope might be of interest to you. At any time, you may request your name be removed from our e-mail list by simply sending an e-mail to a Customer Service Representative at optout@guthy-renker.com. We want your experiences with Proactiv to be based upon your preferences.   
   
 "Cookies" are small pieces of information stored by your browser on your computer's hard drive. Cookies do not contain any personally identifying information. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. 
 
@@ -44,14 +43,6 @@ privacy@guthy-renker.com
 **or send mail to:**   
 Internet Privacy Policy   
 41-550 Eclectic Street, Suite 200   
-Palm Desert, CA 92260 
-
-**For questions regarding LookSmart, Ltd. or LookSmart, Ltd.'s e-commerce Privacy Policy send an e-mail to:**  
-buyit@looksmart.net 
-
-**LookSmart, Ltd. operates an Internet Affiliate network for Proactiv and other Guthy-Renker products. To become an Affiliate send an e-mail to:**  
-nevans@looksmart.net   
+Palm Desert, CA 92260   
   
-   
-  |   |    
-|   |  
+ 
