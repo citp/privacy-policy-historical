@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michigan-sportsman.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409011826id_/http%3A//www.michigan-sportsman.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michigan-sportsman.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214140329id_/http%3A//www.michigan-sportsman.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
