@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pba.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407150041id_/http%3A//www.pba.com//corporate/cp_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pba.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215131219id_/http%3A//www.pba.com/privacy.asp) for the most accurate reproduction.*
 
-# pba.com -- Privacy Policy
+# PBA.com - Official site of the Professional Bowlers Association
+
+pba.com Privacy Policy
 
 The Professional Bowlers Association ("PBA") recognizes the importance of protecting the privacy of all information provided by users of the PBA web site.
 
@@ -12,15 +14,15 @@ In order to access certain portions of our web site, users must register and pro
 
 The PBA will not reveal to any third party a user's personal information provided to us through the PBA web site except in the following circumstances:
 
-> We have your permission or consent to share the information;
-> 
-> We need to share your information to provide the product or service you requested;
-> 
-> We need to send the information to companies who work on behalf of the PBA to provide a product or service to you;
-> 
-> We are responding to subpoenas, court orders or other legal proceedings; or
-> 
-> We sell or acquire another business, or are acquired by another business, in which case such information may be one of the business assets transferred.
+We have your permission or consent to share the information;
+
+We need to share your information to provide the product or service you requested;
+
+We need to send the information to companies who work on behalf of the PBA to provide a product or service to you;
+
+We are responding to subpoenas, court orders or other legal proceedings; or
+
+We sell or acquire another business, or are acquired by another business, in which case such information may be one of the business assets transferred.
 
 Using email addresses provided at registration or otherwise, the PBA periodically sends out email newsletters and promotional email to our users about services and products offered by the PBA, its affiliates and those entities advertising on our web site. Users can indicate that they do not wish to receive email from PBA, its affiliates or those entities advertising on our web site by completing and submitting the form at <http://www.pba.com/ubbcgi/Ultimate.cgi?action=intro>. Third parties will not contact our users through the use of our email newsletter lists except through advertisements within the newsletters themselves.
 
