@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208234720id_/http%3A//www.eastwood.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308031959id_/http%3A//www.eastwood.com/custserv/customerservicemain.jsp%3Fcid%3D2) for the most accurate reproduction.*
 
 # Eastwood Company: Auto Tools, Body Repair, Classic Car Restoration, House of Kolor Paint, Powder Coating
 
