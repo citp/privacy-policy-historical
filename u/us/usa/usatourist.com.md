@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usatourist.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405014035id_/http%3A//www.usatourist.com/english/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatourist.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211232043id_/http%3A//www.usatourist.com/english/privacypolicy.html) for the most accurate reproduction.*
 
 # Travel USA Travel - Privacy Policy - USA Tourist
 
