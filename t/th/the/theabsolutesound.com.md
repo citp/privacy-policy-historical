@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the theabsolutesound.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theabsolutesound.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210024157id_/http%3A//www.theabsolutesound.com/privacy.html) for the most accurate reproduction.*
 
 # The Absolute Sound: Privacy Policy
 
 ---  
-[](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/index.html) | [](http://www.avguide.com/tas/current.html) | [](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/subscriptions.html) | [](https://www.avguide.com/tas/backissues.jsp) | [](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/reviews.html) | [](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/contact.html) | [](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/about.html)  
+[](https://web.archive.org/web/20021210024157id_/http%3A//www.theabsolutesound.com/index.html) | [](https://web.archive.org/current.html) | [](http://www.avguide.com/tas/subscribe.jsp) | [](https://www.avguide.com/tas/backissues.jsp) | [](https://web.archive.org/web/20021210024157id_/http%3A//www.theabsolutesound.com/reviews.html) | [](https://web.archive.org/web/20021210024157id_/http%3A//www.theabsolutesound.com/contact.html) | [](https://web.archive.org/web/20021210024157id_/http%3A//www.theabsolutesound.com/about.html)  
   
 **Privacy Policy**
 
@@ -41,7 +41,7 @@ We will make a good-faith effort to notify registered users via email if this po
 
 If you have questions about your privacy on our site, please contact our [privacy officer](mailto:privacy@nFusion.com). 
 
-[Home](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/index.html) | [Current Issue](http://www.avguide.com/tas/current.html) | [Subscriptions](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/subscriptions.html) | [Back Issues](https://www.avguide.com/tas/backissues.jsp) | [Reviews](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/reviews.html) | [Contact Us](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/contact.html) | [About Us](https://web.archive.org/web/20020604050758id_/http%3A//www.theabsolutesound.com/about.html)
+[Home](https://web.archive.org/web/20021210024157id_/http%3A//www.theabsolutesound.com/index.html) | [Current Issue](https://web.archive.org/current.html) | [Subscriptions](http://www.avguide.com/tas/subscribe.jsp) | [Back Issues](https://www.avguide.com/tas/backissues.jsp) | [Reviews](https://web.archive.org/web/20021210024157id_/http%3A//www.theabsolutesound.com/reviews.html) | [Contact Us](https://web.archive.org/web/20021210024157id_/http%3A//www.theabsolutesound.com/contact.html) | [About Us](https://web.archive.org/web/20021210024157id_/http%3A//www.theabsolutesound.com/about.html)
 
   
 
