@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetary.org privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001211643id_/http%3A//planetary.org/html/society/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetary.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607064146id_/http%3A//planetary.org/html/society/privacy-statement.html) for the most accurate reproduction.*
 
 # The Planetary Society: Privacy Policy
 
@@ -55,6 +55,6 @@ We can be reached via e-mail at [tps@planetary.org](mailto:tps@planetary.org)
 or you can reach us by telephone at 626-793-5100  
 or you can fax us at 626-793-5528.
 
-**[Site Map](https://web.archive.org/web/20031001211643id_/http%3A//planetary.org/html/sitemap.html)**  
+**[Site Map](https://web.archive.org/web/20040607064146id_/http%3A//planetary.org/html/sitemap.html)**  
 Copyright (c) 1993-2003 The Planetary Society. All rights reserved.  
 Last Updated March 12, 2003
