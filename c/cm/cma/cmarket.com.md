@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023046id_/http%3A//www.cmarket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035535id_/http%3A//www.cmarket.com/privacy.htm) for the most accurate reproduction.*
 
 # cMarket - Fundraising Auctions Made Easier
 
