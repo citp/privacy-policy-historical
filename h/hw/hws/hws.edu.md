@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202085220id_/http%3A//campus.hws.edu/doit/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206095226id_/http%3A//campus.hws.edu/doit/policy/privacy.html) for the most accurate reproduction.*
 
 # HWS Colleges: Web Privacy Policy
 
