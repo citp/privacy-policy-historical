@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairdirect.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210124810id_/http%3A//www.hairdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairdirect.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618035350id_/http%3A//www.hairdirect.com/privacy.html) for the most accurate reproduction.*
 
 # HD - Hair Direct Inc. - The World Leader in Hair Replacement Systems
 
