@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119025245id_/http%3A//www.coppercolorado.com/winter/etc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603155629id_/http%3A//www.coppercolorado.com/winter/etc/privacy) for the most accurate reproduction.*
 
 # :: Copper Mountain Resort :: Winter 0304 ::
 
-| [](http://www.coppercolorado.com/print.php?season=winter&section=etc&page=privacy&title=)  
+| [](http://www.coppercolorado.com/print.php?season=winter&section=etc&page=privacy&title=&id3=)  
 ---|---  
   
 * * *
@@ -10,16 +10,16 @@
   
 Copper Mountain is very concerned for your sense of privacy and security while on our site as well as with respect to how we care for your information. The following is our privacy pledge to you and deals with the following issues: 
 
-  1. [Security](http://www.coppercolorado.com/winter/etc/privacy#security)
-  2. [Information Collection](http://www.coppercolorado.com/winter/etc/privacy#collection)
-  3. [Cookies](http://www.coppercolorado.com/winter/etc/privacy#cookies)
-  4. [Information Use](http://www.coppercolorado.com/winter/etc/privacy#information)
-  5. [The benefits of Providing Information](http://www.coppercolorado.com/winter/etc/privacy#benefits)
-  6. [Non-Use and Disclosure](http://www.coppercolorado.com/winter/etc/privacy#nonuse)
-  7. [Changing Profile and Opting Out](http://www.coppercolorado.com/winter/etc/privacy#changing)
-  8. [Contacting Customers ](http://www.coppercolorado.com/winter/etc/privacy#contacting)
-  9. [Children's Privacy](http://www.coppercolorado.com/winter/etc/privacy#children)
-  10. [Legal Liability](http://www.coppercolorado.com/winter/etc/privacy#legal)
+  1. [Security](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#security)
+  2. [Information Collection](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#collection)
+  3. [Cookies](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#cookies)
+  4. [Information Use](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#information)
+  5. [The benefits of Providing Information](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#benefits)
+  6. [Non-Use and Disclosure](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#nonuse)
+  7. [Changing Profile and Opting Out](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#changing)
+  8. [Contacting Customers ](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#contacting)
+  9. [Children's Privacy](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#children)
+  10. [Legal Liability](http://www.coppercolorado.com/winter/etc/privacy?PHPSESSID=8d44b0dd37618a43e6e3349b12562313#legal)
 
 
 
