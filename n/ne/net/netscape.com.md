@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the netscape.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402135838id_/http%3A//netscape.com/redir.adp%3F_dci_url%3Dhttp%253a%252f%252fchannels%252enetscape%252ecom%252fns%252finfo%252fprivacy%252ejsp%26_wps_s%3Dfooter11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netscape.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011134158id_/http%3A//www.netscape.com/redir.adp%3F_dci_url%3Dhttp%253a%252f%252fchannels%252enetscape%252ecom%252fns%252finfo%252fprivacy%252ejsp%26_wps_s%3Dfooter11) for the most accurate reproduction.*
 
 # Netscape Info
 
 |   |  [](https://www.truste.org/ivalidate.php?url=www.netscape.com)  
 
 
-Thank you for visiting Netscape, an AOL Time Warner company. Netscape is committed to honoring the privacy of our members and visitors, and is a certified member of the TRUSTe program. This privacy policy, part of our overall [Terms of Service](https://web.archive.org/web/20040401225522id_/http://channels.netscape.com/ns/info/tos.jsp) covers personally identifiable information shared through Netscape's Service.
+Thank you for visiting Netscape. Netscape is committed to honoring the privacy of our members and visitors, and is a certified member of the TRUSTe program. This privacy policy, part of our overall [Terms of Service](https://web.archive.org/web/20041010173610id_/http://channels.netscape.com/ns/info/tos.jsp) covers personally identifiable information shared through Netscape's Service.
 
 When you register for Netscape and other Netscape services, we ask you for your name, contact information, preferences, and certain demographic information. This information lets us provide personalized services and communicate separately with you. We also use aggregated information about the use of our services to evaluate our users' preferences, improve our programming, and facilitate third-party reporting of internet usage. 
 
