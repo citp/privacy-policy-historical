@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newline.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602111352id_/http%3A//www.newline.com/privacy/privacy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newline.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203014701id_/http%3A//www.newline.com/privacy/privacy1.html) for the most accurate reproduction.*
 
 # New Line Cinema Privacy Policy
 
@@ -68,4 +68,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 
   
-™ & © 2001 New Line Productions, Inc. All rights reserved. [Terms of Use](http://www.newline.com/termsofuse/index.html)
+™ & © 2003 New Line Productions, Inc. All rights reserved. [Terms of Use](http://www.newline.com/termsofuse/index.html)
