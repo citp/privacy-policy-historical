@@ -1,20 +1,17 @@
-> *The following text is extracted and transformed from the octeth.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602032132id_/http%3A//www.octeth.com/pages/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octeth.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204203151id_/http%3A//www.octeth.com/pages/privacy_policy.php) for the most accurate reproduction.*
 
 # Octeth Technologies - www.octeth.com
 
-[Homepage](https://web.archive.org/index.php) > **Privacy Policy**  
----  
-**Privacy Policy ******  
-  
 Octeth Technologies will not offer any information about you to any outside company unless we receive your confirm.  
+** Privacy Policy Content**  
   
-**Privacy Policy Content**  
   1\. Information we collect or track  
   2\. What we do with the collected information  
   3\. Who can use collected information  
   4\. Deleting your informations from our database  
   5\. Contact Octeth Technologies  
-**1\. Information we collect or track**  
+  
+** Information we collect or track ******  
   
 Information on general usage and any optional personal details you provide to us will be used to provide you with enhanced features. Some examples to these usages are customized content, access to our discussion boards, contacting with customer representatives, etc.. Below, details of the information we collect are written : 
 
@@ -30,7 +27,7 @@ Information on general usage and any optional personal details you provide to us
 
 [Table of Contents]  
   
-**2\. What we do with the collected information ******  
+** What we do with the collected information? ** ********  
   
 With the collected information, we make better decisions about our services, products. Also we use these informations in improving our site. According to the informations we collect, we design and develop better products fitting your needs. 
 
@@ -38,19 +35,19 @@ Also, these informations are used in our site for personilized features. The col
 
 [Table of Contents]  
   
-**3\. Who can use collected information ******  
+** Who can use the collected information? ** ** **********  
   
 The collected information can be used only by Octeth Technologies. But please be aware that if you publish your informations on bulletin boards, discussion boards, that information can be collected by others and can be used.
 
 [Table of Contents]  
   
-**4\. Deleting your informations from our database ******  
+** Deleting your informations from our database ** ** **********  
   
 Visitors may unsubscribe their records from our database by selecting unsubscribe selection from registration forms. If you are having trouble on unsubscribing, please [click here to contact us](https://web.archive.org/pages/contact.php).
 
 [Table of Contents]  
   
-**5\. Contact Octeth Technologies ******  
+** Contact Octeth Technologies ** ** **********  
   
 [Click here to go Contact section](https://web.archive.org/pages/contact.php). In this page, you can find our fax number, email addresses and contact form.
 
