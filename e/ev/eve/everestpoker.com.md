@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everestpoker.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612052307id_/http%3A//www.everestpoker.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everestpoker.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209060644id_/http%3A//www.everestpoker.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Everest Poker
 
@@ -13,7 +13,7 @@ Use of Information:
 The information is used to protect and administer any records, accounts or data related to you; to help complete a transaction initiated by you; to comply with certain laws and regulations; to help us design and enhance our services so that we may provide you with quality services and player support; and to communicate with you about updates to our software, services, and/or website. 
 
 Keeping Information Private:  
-We do not distribute personal information. We do not license, sell, rent or trade any personal information, including contact data or specific information about your accounts or other personally identifiable information, to any third party or to any other players. 
+We do not distribute personal information. We do not licence, sell, rent or trade any personal information, including contact data or specific information about your accounts or other personally identifiable information, to any third party or to any other players. 
 
 Non-Personal Information:  
 For research or promotional purposes, we may use non-personal, non-specific information to generate statistics on general player activity, including transaction patterns, payout amounts and wager preferences, but these initiatives will never include any personally identifiable information without authorized player consent. 
