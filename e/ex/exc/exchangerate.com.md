@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203160542id_/http%3A//www.exchangerate.com/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
-  
-  
-  
-  
-  
-  
-
-
-| **SEARCH**  
----  
-**Travel & Finance**  
-|   
-  
-| 
-
-|   |  Wednesday, February 19, 2003    
+  |  Wednesday, February 19, 2003    
 ---|---  
   
 **[Home](https://web.archive.org/) >> Privacy & Security **
@@ -43,24 +28,3 @@ Visitors can choose not to have their information shared with 3rd party advertis
 
 **Questions**   
 If you have any questions about the ExchangeRate.com privacy protection policy, you should contact privacy@exchangerate.com. 
-
-* * *
-
-| 
-
-Content, information, data, material, services, or products comprising this web-site may not be published, broadcast, rewritten or redistributed without written permission from ExchangeRate.com Inc.. The information supplied by this web-site is believed to be accurate, but ExchangeRate.com Inc. does not warrant or guarantee such accuracy. Users are always advised to verify information with their financial and accounting advisors or with the appropriate government agencies before relying on any such information. Information contained in this web-site is intended for your personal, non-commercial use. All other uses are expressly unauthorized and prohibited to the maximum extent allowed by law.
-
-* * *  
-  
----  
-  
-Thanks For Visiting ExchangeRate.Com  
-Part of the CyberSurfers Network
-
-|  |   
-[](http://leader.linkexchange.com/1/X710980/clicklogo)  
-  
-* * *
-
-[About](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/about_us.html) | [Advertising](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/advertising.html) | [Investor Relations](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/investor_relations.html) | [Privacy & Security](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/privacy_security.html) | [Contact Us](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/contact_us.html)   
-[Copyright © ExchangeRate.Com Inc., 1999-2003.](mailto:webmaster@exchangerate.com) All Rights Reserved
