@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120158id_/http%3A//www.moniker.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403101443id_/http%3A//www.moniker.com/help/privacy.html) for the most accurate reproduction.*
 
 # Register a domain name and buy affordable web hosting with Moniker.com hosting provider and registrar
 
