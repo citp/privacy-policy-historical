@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619231638id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsider.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202002600id_/http%3A//www.theinsider.com/privacy.htm) for the most accurate reproduction.*
 
 # Insider Travel Guides: New York City Insider, Boston Insider, Aloha Insider, San Francisco Insider
 
-## Privacy Statement for The Insider Travel Network 
+**Privacy Statement for The Insider Travel Network**
 
 **The Insider Travel Network** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [The Insider Travel Network ](http://www.theinsider.com/)
 
 #### Information Automatically Logged 
 
-We use your IP address to gather broad demographic information. This information helps us to develop content that is most appropriate for the readers of The Insider travel guides . It also helps us attract advertisers, allowing us to provide this content to you on the web for free. Please note that we only use this information in the aggregate and do not attempt to trace individual readers via IP information.
+We use your IP address to gather broad demographic information. This information helps us to develop content that is most appropriate for the readers of The Insider travel guides. It also helps us attract advertisers, allowing us to provide this content to you on the web for free. Please note that we only use this information in the aggregate and do not attempt to trace individual readers via IP information.
 
 #### Cookies 
 
@@ -20,21 +20,23 @@ We use several different orgranizations to display ads on our site. These ads ma
 
 One of the orgranizations we work with is Flycast, a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html).
 
+Another organization we work with that serves ads to this site is Advertisig.com. You can find their privacy policy at [http://www.advertising.com/privacy/index.html](http://www.advertising.com/privacy/index.html).
+
 #### Registration Forms 
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), and demographic information (like their zip code, or profession). The Insider Travel Network works with a third party that hosts our e-mail newsletters and serves ads into this publication. To find out more about how Flycast manages the privacy of information in conjunction with hosting and serving ads into our newsletters, please go to [http://edispatch.flycast.com/privacy](http://edispatch.flycast.com/privacy). 
+Our site's registration form sometimes requires users to give us contact information (like their name, email, and postal address), and demographic information (like their zip code, or profession). The Insider Travel Network works with a third party that hosts our e-mail newsletters and serves ads into this publication. To find out more about how Flycast manages the privacy of information in conjunction with hosting and serving ads into our newsletters, please go to [http://edispatch.flycast.com/privacy](http://edispatch.flycast.com/privacy). 
 
-Contact information from the registration forms is used to ship purchases, information about our company, and to send promotional material from some of our partners to our readers. The reader's contact information is also used to get in touch with the individual when necessary and to share with other companies who may want to contact our customers. 
+Contact information from the registration forms is used to ship purchases, mail follow-up information about our company, and to send promotional material from some of our partners to our readers. The reader's contact information is also used to get in touch with the individual when necessary and to share with other companies who may want to contact our customers. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+Demographic and profile data is also sometimes collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
 #### Surveys 
 
 Our online surveys ask visitors for contact information (like email address), and demographic information (like zip code, age, or income level). 
 
-Contact information from the surveys is used to ship purchases, information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary, and to share with other companies who may want to contact our visitors. 
+Contact information from the surveys is used to ship purchases, mail follow-up information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary, and to share with other companies who may want to contact our visitors. 
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -74,7 +76,7 @@ This site gives users the following options for changing and modifying informati
 
 
 
-## Contacting the Web Site 
+#### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
