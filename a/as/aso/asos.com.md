@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202162027id_/http%3A//asos.com/Privacy.asp%3FShopperID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611063051id_/http%3A//www.asos.com/Privacy.asp%3FShopperID%3D) for the most accurate reproduction.*
 
-# As Seen on Screen - Celebrity Fashion from AsSeenonScreen.com
+# ASOS - Designer Clothes and Celebrity Fashion
 
 ASOS are totally committed to protecting the privacy of our site visitors and customers. The ASOS team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is a necessary part of providing a service to you - e.g. Arranging for a product to be sent to you. 
 
 **Your Consent**  
 We will not e-mail you in the future unless you have given us your consent. 
+
+We do not send random marketing emails to personal email addresses (spam). 
 
 When you place an order on line we will need to know your name, address, delivery address, credit or debit card number and expiry date. This will allow you to pay for the items you have ordered and ensure that they are delivered to you at the correct address. 
 
@@ -20,7 +22,7 @@ If you enter a competition on our site we will store your details in order to ad
 We may use the information you have submitted to contact you if we feel you may be interested in a product or service offered by ASOS. You will be given the option to delete your personal details from our marketing database if you do not want to be contacted again. 
 
 **Site Statistics**  
-We may disclose aggregate statistics about the number of visitors to our site or number of purchases made on the site as required by our investors. RedSheriff, an independent measurement and research company, gathers data regarding the visitors to our site on our behalf using cookies and code which is embedded in the site. Both the cookies and the embedded code provide statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. As Seen on Screen uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. Further information regarding RedSheriff's privacy statement can be found at [http://www.redsheriff.com/](http://www.redsheriff.com/6.0.0.htm). 
+We may disclose aggregate statistics about the number of visitors to our site or number of purchases made on the site as required by our investors. RedSheriff, an independent measurement and research company, gathers data regarding the visitors to our site on our behalf using cookies and code which is embedded in the site. Both the cookies and the embedded code provide statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. ASOS uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. Further information regarding RedSheriff's privacy statement can be found at [http://www.redsheriff.com/](http://www.redsheriff.com/6.0.0.htm). 
 
 **Checking your details**  
 If you wish to verify the details you have submitted to ASOS you may do so by contacting us via the e-mail address, telephone number or address given below. Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information - write it down and keep it somewhere safe. 
