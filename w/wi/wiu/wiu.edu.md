@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiu.edu privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603125102id_/http%3A//www.wiu.edu/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiu.edu privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009231405id_/http%3A//www1.wiu.edu/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Western Illinois University Web Support Services
 
