@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartwebby.com privacy policy that was archived on 2002-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209102421id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartwebby.com privacy policy that was archived on 2003-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030605082649id_/http%3A//www.smartwebby.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/template.dwt" --><head><!-- #BeginEditable "doctitle" --> 
 <title>Smart Webby Privacy Policy</title>
@@ -15,29 +15,40 @@ MM_preloadImages('/images/s_rachna_o.jpg','/images/s_anita_o.jpg','/images/email
 function fwLoadMenus() {
 // The function "MENU" has the following parameters : Menu(label, menu width, menu height, font, font size, font color, font hilight color, background color, hilight background color)
   if (window.fw_menu_0) return;
-  // Menu for Services Section
-  window.fw_menu_0 = new Menu("root",203,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
+  // Menu for Services Section ("#ffffff","#ffdda9","#ffb94f","#000000")
+  window.fw_menu_0 = new Menu("root",203,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
   fw_menu_0.addMenuItem("Web site Design &amp; Redesign","location='/web_services/design.asp'");
   fw_menu_0.addMenuItem("Dynamic Web site Development","location='/services.asp#aspdev'");
   fw_menu_0.addMenuItem("Flash Animation &amp; Programming","location='/services.asp#flashdev'");
    fw_menu_0.hideOnMouseOut=true;
   // Menu for Portfolio Section
-  window.fw_menu_1 = new Menu("root",99,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
-  fw_menu_1.addMenuItem("Design","location='/design_portfolio.asp'");
+  window.fw_menu_1 = new Menu("root",120,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
+  fw_menu_1.addMenuItem("Web Design","location='/design_portfolio.asp'");
   fw_menu_1.addMenuItem("Programming","location='/programming_portfolio.asp'");
-  fw_menu_1.addMenuItem("Flash","location='/flash_portfolio.asp'");
+  fw_menu_1.addMenuItem("Logo Design","location='/logos.asp'");
+  fw_menu_1.addMenuItem("Banner Design","location='/banners.asp'");
+  fw_menu_1.addMenuItem("Flash Animation","location='/flash_portfolio.asp'");
+  fw_menu_1.addMenuItem("Outsource Clients","location='/outsource_portfolio.asp'");
   fw_menu_1.addMenuItem("Client Quotes","location='/client_quotes.asp'");
    fw_menu_1.hideOnMouseOut=true;
   // Menu for Products Section
-  window.fw_menu_2 = new Menu("root",117,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
+   window.fw_menu_2_1 = new Menu("Web Templates",70,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
+    fw_menu_2_1.addMenuItem("Business","location='/website_templates/preview/business.asp'");
+	fw_menu_2_1.addMenuItem("Food","location='/website_templates/preview/food.asp'");
+	fw_menu_2_1.addMenuItem("Travel","location='/website_templates/preview/travel.asp'");
+	fw_menu_2_1.addMenuItem("Family","location='/website_templates/preview/family.asp'");
+	fw_menu_2_1.addMenuItem("Sports","location='/website_templates/preview/sports.asp'");
+     fw_menu_2_1.hideOnMouseOut=true;
+  window.fw_menu_2 = new Menu("root",124,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
   fw_menu_2.addMenuItem("Smart Poll","location='/web_products/flash_poll/default.asp'");
+  fw_menu_2.addMenuItem(fw_menu_2_1,"location='/website_templates/default.asp'");
   fw_menu_2.addMenuItem("Smart Survey","location='/web_products/flash_survey/default.asp'");
   fw_menu_2.addMenuItem("Smart Quote","location='/web_products/instant_quote/default.asp'");
   fw_menu_2.addMenuItem("Smart Guest Book","location='/web_products/flash_guestbook/default.asp'");
   fw_menu_2.addMenuItem("Smart Referrer","location='/web_products/smart_referrer/default.asp'");
    fw_menu_2.hideOnMouseOut=true;
   // Menu for Resources Section
-    window.fw_menu_3_1 = new Menu("Web Design Guide",190,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
+    window.fw_menu_3_1 = new Menu("Web Design Guide",190,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
     fw_menu_3_1.addMenuItem("Web Design Ideas","location='/web_site_design/design_ideas.asp'");
 	fw_menu_3_1.addMenuItem("Web Graphic Design Ideas","location='/web_site_design/web_graphic_design_tips.asp'");
 	fw_menu_3_1.addMenuItem("Fireworks Web Design Tutorial","location='/web_site_design/fireworks_tutorial.asp'");
@@ -49,7 +60,7 @@ function fwLoadMenus() {
 	fw_menu_3_1.addMenuItem("Web Site Navigation Tips","location='/web_site_design/website_navigation_tips.asp'");
 	fw_menu_3_1.addMenuItem("Fast Loading Web Sites","location='/web_site_design/fast_loading_websites.asp'");
      fw_menu_3_1.hideOnMouseOut=true;
-    window.fw_menu_3_2 = new Menu("Flash &amp; ASP Unleashed",180,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
+    window.fw_menu_3_2 = new Menu("Flash &amp; ASP Unleashed",180,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
     fw_menu_3_2.addMenuItem("Introduction","location='/Flash_and_ASP/default.asp'");
 	fw_menu_3_2.addMenuItem("Basics of Flash and ASP","location='/Flash_and_ASP/basics.asp'");
 	fw_menu_3_2.addMenuItem("Preparing the Stage","location='/Flash_and_ASP/preparing.asp'");
@@ -59,7 +70,7 @@ function fwLoadMenus() {
 	fw_menu_3_2.addMenuItem("Flash Preloader","location='/Flash_and_ASP/Flash_preloader.asp'");
 	fw_menu_3_2.addMenuItem("Flash Form Validation ","location='/Flash_and_ASP/Flash_validation_of_fields.asp'");
      fw_menu_3_2.hideOnMouseOut=true;
-    window.fw_menu_3_3 = new Menu("Simple DHTML Guide",200,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
+    window.fw_menu_3_3 = new Menu("Simple DHTML Guide",200,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
 	    fw_menu_3_3.addMenuItem("Introduction","location='/DHTML/default.asp'");
     fw_menu_3_3.addMenuItem("DHTML Basics for Beginners","location='/DHTML/basics.asp'");
     fw_menu_3_3.addMenuItem("Internet Explorer vs Netscape","location='/DHTML/internet_explorer_vs_netscape.asp'");
@@ -72,10 +83,10 @@ function fwLoadMenus() {
 	fw_menu_3_3.addMenuItem("Check boxes Check All/Clear All","location='/DHTML/check_clear_all.asp'");
 	fw_menu_3_3.addMenuItem("Text Box character Counter","location='/DHTML/textbox_characters_counter.asp'");
      fw_menu_3_3.hideOnMouseOut=true;
-    window.fw_menu_3_4 = new Menu("Flash Actionscript Guide",150,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
+    window.fw_menu_3_4 = new Menu("Flash Actionscript Guide",150,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
     fw_menu_3_4.addMenuItem("Simple Flash Preloader","location='/Flash/Flash_simple_preloader.asp'");
      fw_menu_3_4.hideOnMouseOut=true;
-	 window.fw_menu_3_5= new Menu("Web site Promotion Guide",180,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
+	 window.fw_menu_3_5= new Menu("Web site Promotion Guide",180,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
     fw_menu_3_5.addMenuItem("Web Site Promotion Basics","location='/website_promotion/promotion_basics.asp'");
 	fw_menu_3_5.addMenuItem("Web Site Promotion Tips","location='/website_promotion/promotion_tips.asp'");
 	fw_menu_3_5.addMenuItem("Meta Tags","location='/website_promotion/metatags.asp'");
@@ -87,7 +98,7 @@ function fwLoadMenus() {
 	fw_menu_3_5.addMenuItem("Google Tips &amp; Tricks","location='/website_promotion/google.asp'");
 	fw_menu_3_5.addMenuItem("Altavista  Tips &amp; Tricks","location='/website_promotion/altavista.asp'");
      fw_menu_3_5.hideOnMouseOut=true;
-  window.fw_menu_3 = new Menu("root",170,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
+  window.fw_menu_3 = new Menu("root",170,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
   	fw_menu_3.addMenuItem(fw_menu_3_1,"location='/web_site_design/default.asp'");
     fw_menu_3.addMenuItem(fw_menu_3_3,"location='/DHTML/default.asp'");
   	fw_menu_3.addMenuItem(fw_menu_3_2,"location='/Flash_and_ASP/default.asp'");
@@ -97,7 +108,7 @@ function fwLoadMenus() {
     fw_menu_3.addMenuItem("Free Traffic Analysis Tool","location='/web_products/smart_referrer/default.asp'");
 	fw_menu_3.addMenuItem("Free Flash Guest-Book","location='/web_products/flash_guestbook/default.asp'");
    	 fw_menu_3.hideOnMouseOut=true;
-  window.fw_menu_4 = new Menu("root",120,17,"Verdana, Arial, Helvetica, sans-serif",10,"#ffffff","#ffdda9","#ffb94f","#000000");
+  window.fw_menu_4 = new Menu("root",120,17,"Verdana, Arial, Helvetica, sans-serif",10,hexFColor,hexFHColor,hexBgColor,hexBgHColor);
   fw_menu_4.addMenuItem("Design Packages","location='/design_packages.asp'");
   fw_menu_4.addMenuItem("Instant Quote","location='/rates.asp#instant_quote'");
 		 
@@ -129,24 +140,25 @@ function MM_swapImage() { //v3.0
 }
  var bName = navigator.appName;
  var bVer = parseInt(navigator.appVersion);
- var NS4 = (bName == "Netscape" && bVer >= 4);
+ var NS6 = (bName == "Netscape" && bVer >= 5);
+ var NS4 = (bName == "Netscape" && bVer >= 4 && bVer < 5);
  var IE4 = (bName == "Microsoft Internet Explorer" && bVer >= 4);
- var intTop=62
- if (NS4) {intTop=61;}
- var intLeft=0
+ var NS3 = (bName == "Netscape" && bVer < 4);
+ var IE3 = (bName == "Microsoft Internet Explorer" && bVer < 4);
+ if (NS4) {intTop=intTop-1;}
 
 // SHOW MENU
 function imgPos(imgName){
  img = getImage(imgName);
  imgLeft = getImagePageLeft(img); // LEFT POSITION
- intLeft=imgLeft
- return imgLeft;
+ //intLeft=imgLeft
+ return imgLeft+intLeft;
 }
 function getImage(name) {
-  if (NS4) {
+  if (NS4 || NS6) {
     return findImage(name, document);
   }
-  if (IE4)
+  if (IE4 || NS6)
     return eval('document.all.' + name);
   return null;
 }
@@ -166,7 +178,7 @@ function findImage(name, doc) {
 
 function getImagePageLeft(img) {
   var x, obj;
-  if (NS4) {
+  if (NS4 || NS6) {
     if (img.container != null)
       return img.container.pageX + img.x - 1;
     else
@@ -187,7 +199,7 @@ function getImagePageLeft(img) {
 
 function getImagePageTop(img) {
   var y, obj;
-  if (NS4) {
+  if (NS4 || NS6) {
     if (img.container != null)
       return img.container.pageY + img.y;
     else
@@ -208,7 +220,16 @@ function getImagePageTop(img) {
 //-->
 </script><link rel="stylesheet" href="/styles.css" type="text/css"></head>
 <body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF" link="#3871A9" vlink="#3871A9" alink="#FF9900" onload="MM_preloadImages('/images/s_lady_o.jpg')">
-<script language="JavaScript1.2">fwLoadMenus();</script><table height="61" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td background="/images/f_top.gif" height="61" valign="bottom"><img name="logo" src="/images/logo.gif" width="237" height="61" border="0"><a href="/default.asp"><img name="homepage" src="/images/homepage.gif" width="55" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/services.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_0,imgPos('services'),intTop)"><img name="services" src="/images/services.gif" width="70" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/portfolio.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_1,imgPos('portfolio'),intTop)"><img name="portfolio" src="/images/portfolio.gif" width="72" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/rates.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_4,imgPos('rates'),intTop)"><img name="rates" src="/images/rates.gif" width="55" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/products.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_2,imgPos('products'),intTop)"><img name="products" src="/images/products.gif" width="73" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/resources.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_3,imgPos('resources'),intTop)"><img name="resources" src="/images/resources.gif" width="81" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/contactus.asp"><img name="contact_us" src="/images/contact_us.gif" width="79" height="20" border="0"></a></td></tr></tbody></table>
+<script language="JavaScript1.2">
+var intLeft=0
+var intTop=62
+//font color, font hilight color, background color, hilight background color
+var hexFColor="#ffffff"
+var hexFHColor="#ffdda9"
+var hexBgColor="#ffb94f"
+var hexBgHColor="#000000"
+fwLoadMenus();
+</script><table height="61" width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td background="/images/f_top.gif" height="61" valign="bottom"><img name="logo" src="/images/logo.gif" width="237" height="61" border="0"><a href="/default.asp"><img name="homepage" src="/images/homepage.gif" width="55" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/services.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_0,imgPos('services'),intTop)"><img name="services" src="/images/services.gif" width="70" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/portfolio.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_1,imgPos('portfolio'),intTop)"><img name="portfolio" src="/images/portfolio.gif" width="72" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/rates.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_4,imgPos('rates'),intTop)"><img name="rates" src="/images/rates.gif" width="55" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/products.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_2,imgPos('products'),intTop)"><img name="products" src="/images/products.gif" width="73" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/resources.asp" onmouseout="FW_startTimeout()" onmouseover="window.FW_showMenu(window.fw_menu_3,imgPos('resources'),intTop)"><img name="resources" src="/images/resources.gif" width="81" height="20" border="0"></a><img src="/images/spacer.gif" width="5" height="20"><a href="/contactus.asp"><img name="contact_us" src="/images/contact_us.gif" width="79" height="20" border="0"></a></td></tr></tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr><td width="165" valign="top" height="27"><img name="menu1" src="/images/left1.jpg" width="65" height="27" border="0"></td><td width="95%" align="right" class="textorange"><img src="/images/spacer.gif" width="10" height="27"></td><td width="40" background="/images/f_right.gif"><a href="mailto:info@smartwebby.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('email','','/images/email_o.gif',1);"><img src="/images/email.gif" width="11" height="10" border="0" name="email" alt="email us"></a><img src="/images/div.gif" width="9" height="10"><a href="/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','/images/home_o.gif',1);"><img src="/images/home.gif" width="11" height="10" border="0" name="home" alt="home"></a></td></tr>
 <tr><td width="165" valign="top" background="/images/blue.jpg" height="90%"><table width="165" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="56"><table width="100%" border="0" cellspacing="0" cellpadding="0" height="56"><tbody><tr><td width="103" align="right" background="/images/blue.jpg" valign="top"><!-- #BeginEditable "author" --><a href="mailto:info@smartwebby.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('s_rachna','','/images/s_lady_o.jpg',1)"><img name="s_rachna" src="/images/s_lady.jpg" width="52" height="51" border="0" alt="email author"></a><!-- #EndEditable --><br></td><td width="62" valign="bottom" background="/images/f_white.gif"><img name="menu2" src="/images/left2.jpg" width="32" height="29" border="0"></td></tr></tbody></table></td></tr><tr><td height="70"><table width="100%" border="0" cellspacing="0" cellpadding="0" height="70"><tbody><tr><td valign="top" height="19" background="/images/blue.jpg" width="8"><img src="/images/spacer.gif" width="8" height="10"></td><td valign="top" height="18" background="/images/blue.jpg" width="133" class="textwhite"><table width="100%" border="0" cellspacing="0" cellpadding="0" height="18"><tbody><tr><td valign="top" width="121" class="textwhite" height="18"><!-- #BeginEditable "section" --><b>Privacy 
