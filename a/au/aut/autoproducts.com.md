@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607142824id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoproducts.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217065911id_/http%3A//www.autoproducts.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Auto Products
 
@@ -86,9 +86,9 @@ Support hours - Mon to Friday 7AM - 3PM EST.
 **We at AutoProducts.com make every effort to provide the best service to all our customers, and we will honor all customers requests in a timely fashion. We respect your privacy and none of the  information that is collected by this web site is, rented or sold for any purpose whatsoever. 
 
  **   
-ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam. [SPAM POLICY](https://web.archive.org/web/20020607142824id_/http%3A//www.autoproducts.com/spam.htm)   
+ANTI SPAM  **Auto Products.com rigorously opposes UCE (unsolicited commercial email) and Spam.  [SPAM POLICY](https://web.archive.org/web/20021217065911id_/http%3A//www.autoproducts.com/spampolicy.htm)   
 Report Spam: [ support@autoproducts.com ](mailto:support@autoproducts.com)  
 
-AutoProducts.com will not be responsible for SPAMMING or any illegal activity advertisers, affiliates or clients participate in or performs. This type of action will immediately terminate any and all contracts and services with the advertisers, affiliates or clients and the Spammer will be held responsible for all damages.
+AutoProducts.com will not be responsible for SPAMMING, SPOOFING / FORGED email, or any illegal activity advertisers, affiliates clients or individuals participate in or performs. This type of action will immediately terminate any and all contracts and services with the advertisers, affiliates or clients and all Spammers will be subject to legal action and held responsible for all damages.
 
 Copyright © 1997-2002 [Auto Products.com] All rights reserved. 
