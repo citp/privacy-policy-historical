@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002040220id_/http%3A//www.whsv.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsv.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409093646id_/http%3A//www.whsv.com/unclassified/647.html) for the most accurate reproduction.*
 
-# WHSV | Home
+# WHSV | GMATV INTERACTIVE PRIVACY POLICY
 
-At Gray MidAmerica TV Interactive Media, LLC, a subsidiary of Gray MidAmerica TV, Inc. ("GMATV Interactive"), we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. This privacy policy applies to those websites that are part of the GMATV Interactive Network. For a list of those websites, click here. 
+At Gray MidAmerica TV Interactive Media, LLC, a subsidiary of Gray Television Group, Inc. ("GMATV Interactive"), we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. This privacy policy applies to those websites that are part of the GMATV Interactive Network. For a list of those websites, click here. 
 
-Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an e-mail message to [lisa.bishop@bimmail.com](mailto:lisa.bishop@bimmail.com). 
+Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an e-mail message to [lisa.bishop@gray.tv](mailto:lisa.bishop@gray.tv). 
 
 **Collection of Personal Information**
 
@@ -50,7 +50,7 @@ We take reasonable measures to protect the privacy, accuracy, and reliability of
 
 **Accessing or Deleting Your Personal information**
 
-If you have submitted personal information through a GMATV Interactive site and you would like to access that information, please send an e-mail to [rstora@gcslink.com](mailto:rstora@gcslink.com). We will use reasonable efforts to supply you with this information and to correct any factual inaccuracies that you identify. Upon your request, we also will remove your personal information from our databases. 
+If you have submitted personal information through a GMATV Interactive site and you would like to access that information, please send an e-mail to [lisa.bishop@gray.tv](mailto:lisa.bishop@gray.tv). We will use reasonable efforts to supply you with this information and to correct any factual inaccuracies that you identify. Upon your request, we also will remove your personal information from our databases. 
 
 **Collection, Use and Disclosure of Non-Personal Information**
 
@@ -82,41 +82,38 @@ By using a GMATV Interactive website, you signify your agreement to the terms of
 
 If we decide to change this privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. 
 
-If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to [lisa.bishop@bimmail.com](mailto:lisa.bishop@bimmail.com) or send a letter to the following address: 
+If you have any questions or comments about this policy or our use of personal information, you may send an e-mail to [lisa.bishop@gray.tv](mailto:lisa.bishop@gray.tv.com) or send a letter to the following address: 
 
 Gray MidAmerica TV Interactive Media  
 Attn: Lisa Bishop  
-Manager, GIM  
-2895 Greenspoint Parkway  
-Suite 250  
-Hoffman Estates, Illinois 60195
+Manager  
+126 North Washington Street  
+Atlanta, GA 31701
 
 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information. 
 
 **GMATV Interactive Network Sites:**
 
-  * [www.kauz.com](http://www.kauz.com/)
+  * [www.kwtx.com](http://www.kwtx.com/)
   * [www.kake.com](http://www.kake.com/)
-  * [www.kdlh.com](http://www.kdlh.com/)
-  * [www.kgwn.tv](http://www.kgwn.tv/)
-  * [www.khqa.com](http://www.khqa.com/)
+  * [www.kxii.com](http://www.kxii.com/)
+  * [www.kolnkgin.com](http://www.kolnkgin.com/)
+  * [www.kolotv.com](http://www.kolotv.com/)
   * [www.kktv.com](http://www.kktv.com/)
-  * [www.kmiz.com](http://www.kmiz.com/)
   * [www.wbko.com](http://www.wbko.com/)
-  * [www.hoinews.com](http://www.hoinews.com/)
   * [www.whsv.com](http://www.whsv.com/)
   * [www.wibw.com](http://www.wibw.com/)
   * [www.wifr.com](http://www.wifr.com/)
   * [www.wilx.com](http://www.wilx.com/)
-  * [www.nbc15.com](http://www.nbc15.com/)
+  * [www.wjhg.com](http://www.wjhg.com/)
   * [www.wowt.com](http://www.wowt.com/)
+  * [www.wctv6.com](http://www.wctv6.com/)
   * [www.wsaw.com](http://www.wsaw.com/)
   * [www.wtap.com](http://www.wtap.com/)
   * [www.wtok.com](http://www.wtok.com/)
   * [www.wtrf.com](http://www.wtrf.com/)
   * [www.wtvynews4.com](http://www.wtvynews4.com/)
-  * [www.wytv.com](http://www.wytv.com/)
 
 
 
-Copyright © 2003 Gray MidAmerica TV Interactive Media, LLC All rights reserved. 
+Copyright © 2004 Gray MidAmerica TV Interactive Media, LLC All rights reserved. 
