@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the texags.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texags.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/privacypolicy.asp) for the most accurate reproduction.*
 
 # TexAgs.com - Privacy Policy
 
   
-December 5, 2000|   
+June 14, 2001|   
 ---  
-[ **Home**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/main.asp)  
-[ **Articles**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/articles.asp)  
-[ **Forum**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/forum.asp)  
-[ **Chat**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/chat.asp)  
-[ **Reference**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/reference.asp)  
-[ **Recruiting**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/recruiting.asp)  
-[ **Links**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/links.asp)  
-[ **Ags & the NFL**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/agsandthenfl.asp)  
-[ **Polls**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/polls.asp)  
-[ **Photos**](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/photos_main.asp)  
-[](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/mall.asp)  
-[](https://web.archive.org/web/20001205192200id_/http%3A//texags.com/login.asp?purl=/privacypolicy.asp&nexturl=/privacypolicy.asp)  
+[ **Home**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/main.asp)  
+[ **Articles**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/articles.asp)  
+[ **Forum**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/forum.asp)  
+[ **Chat**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/chat.asp)  
+[ **Reference**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/reference.asp)  
+[ **Recruiting**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/recruiting.asp)  
+[ **Links**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/links.asp)  
+[ **Ags & the NFL**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/agsandthenfl.asp)  
+[ **Polls**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/polls.asp)  
+[ **Photos**](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/photos_main.asp)  
+[](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/mall.asp)  
+[](https://web.archive.org/web/20010614131411id_/http%3A//www.texags.com/main/login.asp?purl=/main/privacypolicy.asp&nexturl=/main/privacypolicy.asp)  
   
 [](http://allnewparts.com/)  
   
-[](http://www.texags.com/mall.asp)  
+[](http://www.texags.com/main/mall.asp)  
 | | |   
 ---|---|---  
 | | |   
