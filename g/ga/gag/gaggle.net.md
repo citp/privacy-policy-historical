@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218023700id_/http%3A//www.gaggle.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaggle.net privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406204402id_/http%3A//gaggle.net/privacy.html) for the most accurate reproduction.*
 
 # Gaggle Privacy Statement
 
@@ -119,4 +119,4 @@ admin@Gaggle.net
 800-288-7750  
 
 
-_ [SIGN UP NOW](https://web.archive.org/web/20001218023700id_/http%3A//www.gaggle.net/signup.html)
+_ [SIGN UP NOW](https://web.archive.org/web/20010406204402id_/http%3A//gaggle.net/signup.html)
