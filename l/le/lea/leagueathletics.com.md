@@ -1,13 +1,27 @@
-> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602150336id_/http%3A//leagueathletics.com/About/Privacy.asp%3Forg%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206100407id_/http%3A//leagueathletics.com/About/Privacy.asp%3Forg%3D) for the most accurate reproduction.*
 
 # LeagueAthletics.com - Feedback
 
-|  |  | 
+|   
+  
+---  
+  [ Home](http://leagueathletics.com/About/Default.asp)  
+  [ Features](http://leagueathletics.com/About/FeaturesExplained.asp?org= "Sports web hosting feaures explained")  
+  [ Kudos](http://leagueathletics.com/About/Kudos.asp?org= "See what our customers have to say")  
+  [ Pricing](http://leagueathletics.com/About/Default.asp?org=#Prices "Pricing information")  
+  [ Website Builder](https://leagueathletics.com/About/SBCustInfo.asp?org= "Create your own web site")  
+  [ Client Clubs](http://leagueathletics.com/About/Clubs.asp?org= "Find client clubs")  
+  [ Contacts](http://leagueathletics.com/About/Contacts.asp?org= "LeagueAthletics.com email, phone and address")  
+  [ Questions?](https://leagueathletics.com/About/Feedback.asp?org= "Submit your questions, comments or suggestions")  
+  [ Terms of Use](http://leagueathletics.com/About/Terms.asp?org= "Sports web hosting terms of use")  
+  [ Privacy](http://leagueathletics.com/About/Privacy.asp?org= "LeagueAthletics.com hosting privacy policy")  
+  [ Cancellation](http://leagueathletics.com/About/RefundPolicy.asp?org= "LeagueAthletics.com hosting cancellation/refund policy")  
+   
+|  | 
 
-| 
+  | 
 
-### LeagueAthletics.com  
-Privacy Policy Statement   
+### Privacy Policy Statement   
   
 ---  
   
@@ -21,7 +35,7 @@ As a user of a LeagueAthletics.com hosted World Wide Web site (the “Service”
 
 
 
-[For our Children's Privacy Policy (COPPA), click here](https://web.archive.org/web/20030602150336id_/http%3A//leagueathletics.com/About/PrivacyCOPPA.asp).
+[For our Children's Privacy Policy (COPPA), click here](https://web.archive.org/web/20031206100407id_/http%3A//leagueathletics.com/About/PrivacyCOPPA.asp).
 
 _Disclosure_
 
