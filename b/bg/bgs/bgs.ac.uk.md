@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217185832id_/http%3A//www.bgs.ac.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608203201id_/http%3A//www.bgs.ac.uk/about/privacy.html) for the most accurate reproduction.*
 
 # BGS Privacy Policy
 
