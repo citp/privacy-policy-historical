@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueline.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604043441id_/http%3A//valueline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueline.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008102234id_/http%3A//www.valueline.com/privacy.html) for the most accurate reproduction.*
 
 # Value Line
 
@@ -31,9 +31,9 @@ Some uses of your personal information are:
 
 We recognize that any information you input into the portfolio-tracking feature is of special concern to you. We keep this information confidential and do not disclose it to unaffiliated parties. 
 
-**We Will Not Sell Your Personal Information to Unaffiliated Parties:**
+**Sharing Our Subscriber and Customer Lists:**
 
-Given the government's regulation of the securities industry, we must reserve the right to disclose your personal information if we are required to do so in order to comply with applicable laws, regulatory investigations, or valid judicial or administrative process, or to protect the rights and property of Value Line Publishing, Inc. 
+As is the practice among many publishers, we may make available to unaffiliated parties information that you provide us when ordering a subscription, product, or service. If you do not want such information shared with third parties, please email us at [infoprivacy@valueline.com](mailto:infoprivacy@valueline.com) or write us at: Information Privacy Manager, c/o Value Line Publishing, 220 East 42nd Street, New York, NY 10017, and indicate your wishes in this regard. 
 
 **Data Security:**
 
@@ -61,4 +61,4 @@ You can request a copy of the personally identifiable information that we have c
 
 If you would like to contact us for any reason concerning our privacy practices, please write or email us at the following address: Information Privacy Manager, c/o Value Line Publishing, 220 East 42nd Street, New York, NY 10017. E-mail address: [infoprivacy@valueline.com](mailto:infoprivacy@valueline.com). 
 
-Updated: August 24, 2001
+Updated: June 26, 2003
