@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbusinessdaily.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622155936id_/http%3A//www.sportsbusinessdaily.com/index.cfm%3Ffuseaction%3Dpage.static%26staticID%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbusinessdaily.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209031300id_/http%3A//www.sportsbusinessdaily.com/index.cfm%3Ffuseaction%3Dpage.static%26staticID%3D10) for the most accurate reproduction.*
 
 # SportsBusinessDaily.com
 
