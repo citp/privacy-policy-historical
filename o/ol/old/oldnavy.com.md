@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldnavy.com privacy policy that was archived on 2000-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001025045044id_/http%3A//www.oldnavy.com/html/customercare/cc_privacy.asp%3F%3A%3Dl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldnavy.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417024802id_/http%3A//www.oldnavy.com/html/customercare/cc_privacy.asp) for the most accurate reproduction.*
 
 # Customer Service - Customer Privacy Policy
 
@@ -10,7 +10,7 @@ We collect information -- such as your name, email address, mailing address, pho
  top of page
 
 How does Old Navy use my information?  
-When you register with Old Navy -- online, over the phone, or at one of our retail stores -- you may choose to receive email messages from us regarding our products, services, contests, and promotions. We will then use the information you give us to communicate with you about our products, services, contests, and promotions. From time to time, we may also send you email messages to help us learn more about your shopping preferences. In addition, we maintain a record of your product interests and purchases to help us improve our site design and your shopping experience. 
+When you register with Old Navy -- online, over the phone, or at one of our retail stores -- or participate in a contest, promotion or survey you may choose whether or not to receive email messages from us regarding our products, services, contests, and promotions. We will then use the information you give us to communicate with you about our products, services, contests, and promotions. From time to time, we may also send you email messages to help us learn more about your shopping preferences. In addition, we maintain a record of your product interests and purchases to help us improve our site design and your shopping experience. 
 
 To serve you better, we may combine information you give us online and in our stores, as well as information about your product interests and purchases. In addition, we also may combine information you provide with demographic information that is publicly available. We use that combined information to enhance and personalize your shopping experience, and to communicate with you by email or postal mail about Old Navy products, services, contests, and promotions that may be of interest to you.  
 
