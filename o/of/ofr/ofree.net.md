@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204142859id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofree.net privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305042222id_/http%3A//www.ofree.net/privacy.html) for the most accurate reproduction.*
 
-# ¤ Only Free
+# Privacy Policy at ¤ Only Free
 
 **TOP  
 Freebie Sites**
 
+  
 [](http://www.thefreesite.com/)  
   
 [](http://www.freebielist.com/)  
   
-[](http://www.relmaxtop.com/)  
-|  |   | 
+[](http://www.relmaxtop.com/) |  |   | 
 
 **Privacy Policy**
 
@@ -31,34 +31,27 @@ Some of the offers listed on our site is not 100% free. You may have to pay Ship
 For questions regarding this privacy statement or the practises of this site, please contact us by [Clicking Here.](https://web.archive.org/contact.html)  
   
   
-[](https://web.archive.org/di.asp?80)|   Get a Free Cosmetics Beauty Kit. This premium Gift Set includes: Bobbi Brown Beauty Truhk, Estee Lauder WhiteLight EX Skincare Regiment, Clinique & Lancome Makeup, Pantene Daily Moisture Renewal, Chanel No5 Perfume, Bobbi Brown Brushes & Gucci Designer Sunglasses.  
----|---  
+  
    
   
-**HOT FREEBIES!**
+**HOT Freebies!**
 
-[](http://ekmas.com/c/5551/CD2251/&dp=0&l=0&p=0)
+**FREE $500 Baby Shopping Spree!**
 
-**Get a FREE 20GB iPod OR an iPod mini!**
+Get all of your baby needs!
 
-Choose your color: silver, pink, blue, gold or green...All FREE! 
+**Free Nintendo DS!**
 
-**Free MAXIM magazine!**
+Get a portable video game for free.
 
-It's truly a FREE gift for you!
+**FREE Laptop Computer!**
 
-[](http://www.rowise.com/production/serve/c.cfm?ad=5769&aff=6273)
+100% Free!
 
-**Get FREE  
-Mouse Pad!**
+**FREE Desktop Computer!**
 
-100% Free  
-NO shiping cost!
+100% Free!
 
-**STUFF magazine for FREE**
+**FREE $500 Grocery Shopping Spree!**
 
-plus Free MAXIM magazine!
-
-**Select Your FREE Desktop Computer Now!**
-
-100% FREE!!!
+Good at all supermarkets nationwide!
