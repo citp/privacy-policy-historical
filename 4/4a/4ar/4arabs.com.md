@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801161441id_/http%3A//4arabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602225025id_/http%3A//www.4arabs.com/privacy.html) for the most accurate reproduction.*
 
-# Arabic Sites and Links
+# Arabic Banner Exchange: free exposure for your arabic and islamic sites
 
 **Privacy Policy**
 
@@ -8,27 +8,35 @@
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
-Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Our site contains links to other sites. 4Arabs Internet Sites is not responsible for the privacy practices or the content of such Web sites.
+Our site contains links to other sites. 4Arabs Internet Sites is not responsible for the privacy practices or the content of such Web sites. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. 
 
 #### Adtegrity.Com
 
 We serve ads through Adtegrity.Com . Adtegrity.com's Privacy Policy can be found at [Adtegrity.com's Privacy Policy](http://www.adtegrity.com/privacy.asp)
 
+#### Third Party Advertising
+
+We use BUDS INC, MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
+
+#### Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+
 #### Public Forums
 
-We make forums, and message boards available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+We make forums, and message boards available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 #### Choice/Opt-Out
 
-We provide users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
+We provide users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
 
 We give users the following option for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. visit [http://www.4arabs.com/cgi-bin/search/subscribe.cgi ](http://www.4arabs.com/cgi-bin/search/subscribe.cgi)
+  1. visit <http://www.4arabs.com/cgi-bin/search/subscribe.cgi>
 
 
 
@@ -36,12 +44,10 @@ We give users the following option for removing their information from our datab
 
 We give users the following option for changing and modifying information previously provided. 
 
-  1. visit [http://www.4arabs.com/cgi-bin/search/modify.cgi ](http://www.4arabs.com/cgi-bin/search/modify.cgi)
+  1. visit <http://www.4arabs.com/cgi-bin/search/modify.cgi>
 
 
 
 #### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 4Arabs Internet Sites webmaster@4arabs.com   
-  
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact Us](https://web.archive.org/contact.html)
