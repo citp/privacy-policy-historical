@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608024429id_/http%3A//www.webassist.com/Company/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013185817id_/http%3A//www.webassist.com/Company/Privacy.asp) for the most accurate reproduction.*
 
 # WebAssist :: Privacy Policy
 
-Privacy Policy
-
+Privacy Policy  
 **WebAssist and your privacy**   
 At WebAssist we respect your right to privacy and we understand that, as a visitor to our web site, you prefer to control your own personal information and preferences. For this reason, we may ask you to register or to provide personal information and preferences when you visit certain areas of WebAssist.com, download software, request information, or subscribe to WebHelp Support. 
 
@@ -31,8 +30,6 @@ If WebAssist requests general demographic information, this information is limit
 
 WebAssist may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor(s), we will provide an up-front statement to that effect.
 
-**Contact us**
-
 **How to update your personal information and preferences**   
 You can help WebAssist maintain the accuracy of your personal information by notifying us when you change your name, address, title, phone number, e-mail address, or your content preferences. If at any time you wish to update your information or preferences, feel free to contact us at any time. 
 
@@ -50,7 +47,7 @@ privacy@webassist.com](mailto:privacy@webassist.com)
 **POSTAL MAIL:**   
 WebAssist.com  
 Attn: Privacy   
-2210 Encinitas Blvd. Suite P  
+227 North El Camino Real, Suite 204  
 Encinitas, CA 92024 USA 
 
 If you change your e-mail or postal address, please contact WebAssist. In order to make the appropriate corrections, please include both your old and new address.
