@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aexp.com privacy policy that was archived on 2002-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601205026id_/http%3A//home3.americanexpress.com/corp/consumerinfo/main.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aexp.com privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207171741id_/http%3A//www10.americanexpress.com/sif/cda/page/0%2C1641%2C14271%2C00.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<title>
@@ -18,73 +18,57 @@ function ChangeImage(ImgElement,ImgPath)
 	<tbody><tr>
 		<td colspan="2"><img src="/shared/navbar/images/img_clear.gif" width="735" height="1"></td>
 	</tr>
-	<tr><form action="http://www11.americanexpress.com/search/FSearch.asp" method="get" name="SearchForm" onsubmit="return SWS(document.SearchForm.q1.value)"></form>
+	<tr>
+	<!--JAVASCRIPT FOR SEARCH COMPONENT BEGINS-->
+<script type="text/javascript">
+<!--
+function SWS(sw) {
+	sw = sw.replace(/^[\s]+/,"");
+	document.SearchForm.q.value = sw;
+	if(sw==""){
+		alert("Please enter a word or phrase for the search query.")
+		document.SearchForm.q.focus();
+		return false;
+	}
+	else {
+		document.SearchForm.submit();
+		return true;
+	}
+}
+//-->															  															
+</script>
+<!--JAVASCRIPT FOR SEARCH COMPONENT ENDS-->
    		<td valign="center" width="40%">
 	       	<table border="0" cellpadding="0" cellspacing="0" width="320" align="left">
 	           	<tbody><tr>
-	          		<td valign="middle" align="left"><font face="arial, helvetica, sans-serif" color="#ffffff" size="-2">
-					&nbsp;&nbsp;<a href="http://www.americanexpress.com/"><font color="#CCCCCC">Home</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+	          		<td valign="middle" align="left">
+	          		<font face="arial, helvetica, sans-serif" color="#ffffff" size="-2">
+					&nbsp;&nbsp;<a href="http://www.americanexpress.com/">
+					<font color="#CCCCCC">Home</font></a>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
 	 		  	</tr>
 	        </tbody></table>
 		</td>
 		
 		<td align="right" valign="bottom" width="60%">
-			<script language="javascript">
-			function SWS(sw) {
-				var l1,Bfirst,Efirst,sw1,ret;
-				if(sw=="" || sw==" " )
-				{
-					alert("Please enter a word or phrase in the textbox")
-					document.SearchForm.q1.focus();
-					return false;
-				}
-				else
-				 {
-					l1 = sw.length;
-				  	Bfirst = sw.substr(0,1);
-					Efirst = sw.substr(l1-1,1);
-					if(Bfirst == "\"" && Efirst != "\"" ) 
-					{
-						sw = sw.replace("\"","")
-						if(Bfirst == "\"" && Efirst == "'" ) 
-						{
-							sw = sw.replace("'","")
-						}
-					}
-							
-					else if (Bfirst == "'" && Efirst != "'" )
-					{
-						sw = sw.replace("'","")
-						if (Bfirst == "'" && Efirst == "\"" ) 
-						{
-							sw = sw.replace("\"","")
-						}
-					}
-					if(Bfirst != "\"" && Efirst == "\"" ) 
-					{
-						sw = sw.replace("\"","")
-					}
-					if(Bfirst != "'" && Efirst == "'" )
-					{
-						sw = sw.replace("'","")
-				   		}
-						document.SearchForm.q1.value = sw;
-						document.SearchForm.rad.value= "NEW";
-						document.SearchForm.w.value = "SWS";
-						document.SearchForm.Test.value = "2";
-						document.SearchForm.Action.value = "Search";
-						return true;
-					}
-				}
-			</script>	
-			<!--SEARCH COMPONENT BEGINS-->			
 			<table border="0" cellpadding="0" cellspacing="0">
 	           	<tbody><tr>
-	          		<td valign="middle" align="right"><font face="arial, helvetica, sans-serif" color="#ffffff" size="-2">&nbsp;<a href="http://www10.americanexpress.com/sif/cda/page/0,1641,414,00.asp"><font color="#FFCCOO">Customer Service</font></a>&nbsp;<font color="#666666">|</font>&nbsp;&nbsp;<a href="http://home3.americanexpress.com/corp/index/index.shtml"><font color="#CCCCCC">Site Directory</font></a>&nbsp;</font></td>
+	          		<td valign="middle" align="right">
+	          		<font face="arial, helvetica, sans-serif" color="#ffffff" size="-2">&nbsp;<a href="http://www10.americanexpress.com/sif/cda/page/0,1641,414,00.asp"><font color="#FFCCOO">Customer Service</font></a>&nbsp;<font color="#666666">|</font>&nbsp;&nbsp;<a href="http://home3.americanexpress.com/corp/index/index.shtml">
+	          		<font color="#CCCCCC">Site Directory</font></a>&nbsp;</font></td>
 					<td valign="middle"><img src="/shared/navbar/images/img_clear.gif" width="1" height="33" alt="" border="0"></td>
-					<td valign="middle"><input maxlength="100" name="q1" size="20"><input name="rad" type="hidden"><input name="w" type="hidden"><input name="Test" type="hidden"><input name="Ref" type="hidden" value="1"><input name="Action" type="hidden"></td>
-					<td valign="middle">&nbsp;<input name="Action1" type="submit" value="Search"></td>
-	 		  	</tr>
+					<td valign="middle">
+					<form action="http://find.americanexpress.com/search" method="get" name="SearchForm" onsubmit="return SWS(document.SearchForm.q.value)">
+</form></td><td valign="bottom">
+<input maxlength="255" name="q" size="20">
+<input name="site" type="hidden" value="amerexpress">
+<input name="client" type="hidden" value="amerexpress">
+<input name="output" type="hidden" value="amerexpress">
+<input name="restrict" type="hidden" value="US"></td>
+<td valign="bottom">&nbsp;<input type="submit" value="Search"></td>
+
+<td>
+	 		  	</td></tr>
 				
 	        </tbody></table>
 		</td>
@@ -94,7 +78,9 @@ function ChangeImage(ImgElement,ImgPath)
 	
 
 </tbody></table>
-<!--/us_csseg_search.html--></td></tr></tbody></table></td></tr><tr><td align="Left" valign="Top"><table id="PA2-70015" cellspacing="0" cellpadding="0" width="100%" height="70px" border="0"><tbody><tr><td valign="Top" align="Left">				<!-- Javascript rollver code -->
+<!--/us_csseg_search.html-->
+
+</td></tr></tbody></table></td></tr><tr><td align="Left" valign="Top"><table id="PA2-70015" cellspacing="0" cellpadding="0" width="100%" height="70px" border="0"><tbody><tr><td valign="Top" align="Left">				<!-- Javascript rollver code -->
 				<script language="javascript">
 				function captionImg(imgOn) {
 						if (document.images) {
@@ -316,8 +302,10 @@ function ChangeImage(ImgElement,ImgPath)
 </font><sup><font face="arial, helvetica, sans-serif" size="-1"></font></sup></td>
 	</tr>
 </tbody></table></td></tr></tbody></table></td></tr><tr><td id="SPACER_PS2-70015"><img src="/sif3/files/cdaimages/clear.gif" width="1px" height="30px"></td></tr><tr><td align="Left" valign="Top"><table id="PC5-70015" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td id="SPACER_PS3-70015" bgcolor="#000000"><img src="/sif3/files/cdaimages/clear.gif" width="1px" height="1px"></td></tr><tr><td id="SPACER_PS4-70015"><img src="/sif3/files/cdaimages/clear.gif" width="1px" height="5px"></td></tr><tr><td align="Center" valign="Top"><table id="PA5-70015" cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td valign="Top" align="Center"><p align="Center">
-View <a href="http://www10.americanexpress.com/sif/cda/page/0,1641,14329,00.asp">Corporate Entities and Important Disclosures</a>, <a href="http://www10.americanexpress.com/sif/cda/page/0,1641,14269,00.asp">Web Site Rules and Regulations</a>, <a href="http://www10.americanexpress.com/sif/cda/page/0,1641,14270,00.asp">Trademarks</a> and <a href="http://www10.americanexpress.com/sif/cda/page/0,1641,14271,00.asp">Privacy Statement</a>. Copyright © 1995-2002 <a href="http://www.americanexpress.com/">American Express Company</a>. All Rights Reserved. Users of this site agree to be bound by the terms of the American Express Web Site Rules and Regulations.<a href="http://track.americanexpress.com/NT/shared/copyright/copyright_2002.html"></a>
-</p></td></tr></tbody></table></td></tr><tr><td id="SPACER_PS5-70015"><img src="/sif3/files/cdaimages/clear.gif" width="1px" height="10px"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>   <!-- Disclosure ends here -->
+</p><hr>
+<font style="ARIAL, HELVETICA, SAN-SERIF" size="2">
+View <a href="http://www10.americanexpress.com/sif/cda/page/0,1641,14329,00.asp">Corporate Entities and Important Disclosures</a>, <a href="http://www10.americanexpress.com/sif/cda/page/0,1641,14269,00.asp">Web Site Rules and Regulations</a>, <a href="http://www10.americanexpress.com/sif/cda/page/0,1641,14270,00.asp">Trademarks</a> and <a href="http://www10.americanexpress.com/sif/cda/page/0,1641,14271,00.asp">Privacy Statement</a>. Copyright © 1995-2002 <a href="http://www.americanexpress.com/">American Express Company</a>. All Rights Reserved. Users of this site agree to be bound by the terms of the American Express Web Site Rules and Regulations.<a href="http://track.americanexpress.com/NT/shared/copyright/copyright_2002.html"></a></font>
+</td></tr></tbody></table></td></tr><tr><td id="SPACER_PS5-70015"><img src="/sif3/files/cdaimages/clear.gif" width="1px" height="10px"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>   <!-- Disclosure ends here -->
 		<!-- Copyright starts here -->
 		       
 		
