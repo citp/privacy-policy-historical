@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actressarchives.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603043322id_/http%3A//www.creativereality.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actressarchives.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201215711id_/http%3A//www.creativereality.com/privacy) for the most accurate reproduction.*
 
 # Creative Reality Media, Inc. - Privacy Policy
 
@@ -14,7 +14,7 @@ We take strong precautions to protect your data from loss, misuse, unauthorized 
 
 Some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example) are gathered with statistics software when you access the website. This will only be used to determine demographic information to better serve our advertisers, and will only be disclosed in statistical format (e.g. - 78% of our viewers use Microsoft Windows).
 
-Creative Reality Media, Inc. works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data about your visit to this and other Web sites, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy/>.
 
   
 |  |  |  [Absolute Divas](http://www.absolutedivas.com/)  
@@ -33,10 +33,6 @@ with thousands of thumbnailed actress photographs ready for download, this truly
 [Bleeding Metal](http://www.bleedingmetal.com/)  
   
 your purest source for today's popular metalcore news, exclusive interviews, and multimedia straight from the source.   
-  
-[Celebrity Hub](http://www.celebrityhub.com/)  
-  
-centralized celebrity "hub" for celebrity news, biographical information and multimedia galleries.   
   
 [Goddess Dreams](http://www.goddessdreams.com/)  
   
