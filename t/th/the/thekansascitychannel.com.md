@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the thekansascitychannel.com privacy policy that was archived on 2002-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021126194607id_/http%3A//www.thekansascitychannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekansascitychannel.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413220017id_/http%3A//www.thekansascitychannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheKansasCityChannel.com - News
 
-|   
----|---  
-  
 [](https://web.archive.org/news//detail.html)
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheKansasCityChannel.com](http://www.thekansascitychannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
