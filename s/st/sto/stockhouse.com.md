@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212183850id_/http%3A//stockhouse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604015712id_/http%3A//www.stockhouse.com/privacy.asp) for the most accurate reproduction.*
 
 # StockHouse USA -- About Us --
 
