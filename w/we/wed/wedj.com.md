@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607125214id_/http%3A//wedj.com/wedjcom.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedj.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207014024id_/http%3A//wedj.com/wedjcom.nsf/privacy.html%21OpenPage) for the most accurate reproduction.*
 
 # WeDJ.com
 
@@ -47,9 +47,9 @@ Our service collects information from thousands of DJs, Photographers, and other
 The purpose of our site is to find DJs and Photographers for wedding receptions or special events. Anonymous visitors are considered the "customer" and visit our site to gather information and/or provide basic contact information to prospective DJs and/or Photographers. To assist the customer we ask for voluntary information which is stored on the customer's computer as a cookie. It is used to help auto-populate redundant forms. Data collected from cookie-based forms are only provided to the vendor selected, and only at the option of the customer.  
 Some of our pages contain a simple "Request more information" form which can be used to exchange information with our site vendors. Each field is stored in a cookie for 7 days and can be erased by clearing the fields and leaving a page.
 
-### Registered Visitors:
+### Named Visitors:
 
-Anonymous customers who want additional information by email may become a registered user of our site. The information collected is used internally to match their interests to DJs and Photographers in their area. Accounts may be terminated at any time by sending an email message to support@wedj.com with "remove" as the subject line.
+Visitors to our website have the opportunity to receive free information from members. We collect at their discretion, name, phone number, email address, event date, and type of event. WeDJ.com sends a single email to each named visitor summarizing the websites he/she visited and then removes the Named Visitor's data. If the Named Visitor visits WeDJ.com on a different date, another single email containing a summary will be sent should the Named Visitor provide their name for free information from vendors. 
 
 ### Payments:
 
