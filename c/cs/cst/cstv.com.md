@@ -1,89 +1,149 @@
-> *The following text is extracted and transformed from the cstv.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401140606id_/http%3A//cstv.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cstv.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206202732id_/http%3A//www.collegesports.com/ot/privacy.html) for the most accurate reproduction.*
 
-# College Sports Television - Features
+# CollegeSports.com : College Athletics
 
-CSTV’s Privacy Policy
+## Privacy Policy
 
-We are committed to protecting the privacy and security of the users of our sites.
+**About Us**   
+This is a privacy policy for College Sports Online, Inc.. Our homepage on the Web is located at [ http://www.CollegeSports.com](http://www.collegesports.com/). The full text of our privacy policy is available on the Web at [ http://www.collegesports.com/ot/privacy.html](http://www.collegesports.com/ot/privacy.html) Users may go to [ http://interact.ocsn.com/](http://interact.ocsn.com/) for information on how to opt-in or opt-out of use of their information. 
 
-This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
-If you have any questions or concerns about our privacy policy, please send an e-mail to:  [ privacy@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Privacy%20Policy) or contact us at CSTV, Chelsea Piers, Pier 62, Suite 316, New York, NY 10011 (phone: (212) 342-8700).
+> College Sports Online, Inc.  
+>  2035 Corte del Nogal  
+>  Suite 250  
+>  Carlsbad, CA 92009   
+>  United States
 
-Scope of Privacy Policy
+You may contact us by e-mail at [ webmaster@collegesports.com](mailto:webmaster@collegesports.com).   
+You may call us at 760-431-8221. 
 
-This policy applies to your use of all of the sites and services owned or operated by or affiliated with CSTV, including cstv.com and any other site that we may own or operate currently or in the future (collectively, the “Sites”). Unless we say otherwise, all references to the Sites in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. This policy covers only information collected on the Sites and does not cover any information collected offline by us.
+**Dispute Resolution and Privacy Seals**  
 
-**Personal Identification Information**
 
-We may request personal identification information from you in connection with your use of, or participation in, membership registration for cstv.com, our contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and in connection with other activities, services or resources we make available on any of our sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us. We will never intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, credit card number or e-mail address) to any third party without having received your permission.
+We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
 
-If you do provide us with personal information for any of these activities, we may use it to conduct the activity. We may also use cookie technology (discussed in detail below) to improve your experience of these activities, including to remember your preferences, customize the content and advertisements that you see or authenticate your access to your personal information. In addition, in the event your personally identifiable information is requested as part of our surveys or polls, such personally identifiable information may be added to your registration information).
+**Disputes** :  
+Users may contact Customer Service with the contact information provided to resolve disputes.  **Additional Information**  
+This policy is valid until 2 Jan, 2005 at 12:00:00 PST. Last Update: May 17, 2004. 
 
-We may also contact you to confirm your registration and about your account status (for example, when a child enters a new age group to which different policies apply), and regarding changes to the Sites’ Terms and Conditions and this Privacy Policy.
+**Data Collection**   
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 1 data group. 
 
-If you give us your permission, we may also use personal identification information for internal or external marketing and promotional purposes. On occasion, for example, we may send you e-mails to introduce a product or service that we think might be of interest to the users of our sites. For us to obtain your permission to send you this information, we will give you an opportunity to “opt-in” at the time our request for your personal information is made. If you do “opt-in,” you may choose to “opt-out” at any time, even after you have provided personal information, by following the procedures set forth below at the end of this Privacy Policy. Please note, however, that under certain circumstances, if you initially do not choose to “opt-in,” or if you later “opt-out,” you may not be eligible for certain benefits for which a name, e-mail address, telephone number or other personal identification information is needed.
+* * *
 
-We have the following exceptions to these policies: We will release specific information about you or your account to comply with any valid legal inquiry or process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Sites, or a physical or property threat to you or others. We may also transfer user information, including personally identifiable information to a successor corporate entity in connection with a corporate merger, consolidation, sale of assets or corporate division or other fundamental corporate change. 
+### Group "College Sports Online"
 
-Please note that if you give out personal information online -- for example, on one of our public forums such as a message board or chat room, -- that information can be collected and used by third parties. Although we strive to protect our users’ privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
+We collect the following information: 
 
-You are responsible for maintaining the confidentiality of your information and password. You shall be responsible for all uses of your registration, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your registration or password.
+  * Unique identifiers
 
-Non-Personal Identification Information
 
-We may collect non-personal identification information through the use of:
 
-“Cookie” technology: A “cookie” is an element of data that a web site can send to your browser, which may then store it on your system. 
+At the user's option, we may also collect the following data: 
 
-“IP address tracking”: An IP address is a number that is assigned to your computer when you are on the Internet. When you request pages from our Sites, our servers log your IP address. 
+  * Business information
+  * Click-stream data
+  * HTTP protocol elements
+  * User's interaction with a page or resource
+  * HTTP cookies
+  * Search terms
+  * Transaction history
+  * Computer information
+  * Navigation and click-stream data
+  * Interactive data
+  * State management mechanisms
+  * Preference data
+  * User's Birth Date
+  * User's Gender
+  * Purchase information
+  * Demographic data
 
-“Web beacons”: A Web beacon, or “clear gif”, is a small graphic image on a webpage or web-based document that a web site can use to determine information about a user.
 
-Non-personal identification information that we collect might include: the browser you use, the type of computer, technical information about your means of connection to our site-such as the operating systems and the Internet service providers utilized, and other similar information. We may also collect information about the areas you visit and search terms you utilize on our sites and about the links you may select from within our site to other areas of the World Wide Web or elsewhere online.
 
-We may share this aggregate statistical information with our partners, suppliers and other third parties, but we will not share any individual names, personal navigational or other personal information. For example, we may use a third-party advertising company to serve ads when you visit our Sites. We may share demographic and preference information with this company to allow them to display appropriate advertisements for you.
+This data will be used for the following purposes:
 
-Some of our advertisers may display ads on our sites, which solicit or contain technology to collect information about our users for the advertisers, but we will not permit such advertisers to collect any personal information from our users within our sites. 
+  * Completion and support of the current activity.
+  * Web site and system administration. The user is allowed to **opt-out** of this usage.
+  * Research and development. The user is allowed to **opt-out** of this usage.
+  * Anonymous user analysis. The user is allowed to **opt-out** of this usage.
 
-Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Sites, such as message boards, chats, shopping, contests and game areas, may not function properly.
 
-The Use of Cookie Technology
 
-A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Our site makes use of cookies to permit the completion of the user’s current activity on the site and for aggregate, non-personally identifiable analysis (for example we may track the number of times users visit a portion of our site, but we do not track or know who those users are). We only use cookies to collect personally identifiable information with your consent, as described above under Personal Identification Information.
+This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
 
-Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the CSTV Sites, such as message boards, chats, shopping, contests and game areas, may not function properly.
+  * Delivery services. The user must **opt-in** to this data sharing.
+  * Others following the same practices. The user must **opt-in** to this data sharing.
+  * Others following different practices. The user must **opt-in** to this data sharing.
 
-Privacy of Children
 
-We understand that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We strongly urge all parents to participate in their children’s exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
 
-We prohibit registration by children under the age of 13 for all interactive portions of the Sites including chats and message boards. We will not knowingly collect personally identifiable information from children under 13. 
+The following explanation is provided for why this data is collected:
 
-We may, at our discretion, require users under 18 to obtain the consent of a parent or guardian to view certain content, and we may limit access to certain content to users above a specified age. You agree to abide by any such restrictions, and not to help anyone avoid these restrictions.
+> > College Sports Online, Inc., has created this privacy statement in order to demonstrate our firm commitment to privacy. Data requested will be used for stated purposes only. 
+>> 
+>> **General/Site Registrants:** Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers, and demographic information. We use customer contact information from the registration form to send the user information they requested, information about our company and promotional material from some of our partners on an opt-out basis; users may opt-out of receiving future mailings. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate, NON-personally identifiable basis. 
+>> 
+>> **E-commerce/Online store transcation:** Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers, financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors on an opt-out basis. Users may opt-out of receiving future mailings. Financial information that is collected is used to bill the user for products and services. 
+> 
+> * * *
+> 
+> **Cookies**
+> 
+> Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+> 
+> Our site makes use of cookies. Cookies are used for the following purposes: 
+> 
+>   * Site administration 
+>   * Completing the user's current activity 
+>   * Pseudononymous analysis 
+>   * Research and development 
+> 
 
-Links To Other Sites
-
-Users may find advertising or other content on our sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the contents or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy (policies) at all. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information. 
-
-Security Policy
-
-Protecting your privacy and your information is a top priority. We have taken careful measures to secure both your information and our physical premises. We exercise great care in providing safe transmission of your information from your PC to our servers (unless sent by a means outside of our control, such as e-mail). 
-
-Access To/Correction of Information
-
-If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at  [ privacy@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Personal%20Information%20Request). To help us address your request, please specify which information you wish to review. Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to  [ privacy@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Personal%20Information%20Correction). You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon your request.
-
-Choice/Opt-Out
-
-If you “opt-in” to receive information from us or others, you can change your mind later. If at any time you would like to stop receiving such information or opt-out of a feature, you can let us know by sending an e-mail stating your preference to  [ optout@cstv.com](mailto:privacy@cstv.com?subject=CSTV%20-%20Opt-out). To help us address your request, please specify the feature from which you wish to opt out. You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon your request.
-
-Consent to Transfer
-
-The Sites are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
-
-Your Acceptance of These Terms
-
-By using any of the Sites, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Sites following the posting of changes to these terms will mean that you accept those changes.
-
-(Last modified on January 7, 2003.)
+> 
+> * * *
+> 
+> **Compact Policy Summary**
+> 
+> The compact policy which corresponds to this policy is:  
+>  CP="IDC DSP COR CURa ADMo DEVo PSAo OUR DELi SAMi OTRi STP PHY ONL UNI PUR COM NAV INT DEM STA PRE" 
+> 
+> The following table explains the meaning of each field in the compact policy. 
+> 
+> **Field**|  **Meaning**  
+> ---|---  
+> `CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
+> `IDC` |  Access is available to contact information.   
+> `DSP` |  The policy contains at least one dispute-resolution mechanism.   
+> `COR` |  Violations of this policy will be corrected.   
+> `CURa` |  The data is used for completion of the current activity.   
+> `ADMo` |  The data is used for site administration, unless the user chooses otherwise.   
+> `DEVo` |  The data is used for research and development, unless the user chooses otherwise.   
+> `PSAo` |  The data is used for pseudononymous analysis, unless the user chooses otherwise.   
+> `OUR` |  The data is given to ourselves and our agents.   
+> `DELi` |  The data is given to delivery services, if the user selects it.   
+> `SAMi` |  The data is given to other organizations following the same practices, if the user selects it.   
+> `OTRi` |  The data is given to other organizations with different privacy practices, if the user selects it.   
+> `STP` |  The data is kept for the stated purpose only.   
+> `PHY` |  Physical contact information is collected.   
+> `ONL` |  Online contact information is collected.   
+> `UNI` |  Unique identifiers are collected.   
+> `PUR` |  Purchase information is collected.   
+> `COM` |  Computer information is collected.   
+> `NAV` |  Navigation and clickstream data is collected.   
+> `INT` |  Interactive data is collected.   
+> `DEM` |  Demographic and socioeconomic data is collected.   
+> `STA` |  State-management data is collected   
+> `PRE` |  Preference information is collected.   
+>   
+> The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
+> 
+> * * *
+> 
+> **Policy Evaluation**
+> 
+> Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
+> 
+> **Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
+> 
+> **Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
