@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naic.org privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005213654id_/http%3A//www.naic.org/about/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naic.org privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604220752id_/http%3A//www.naic.org/about/privacy_statement.htm) for the most accurate reproduction.*
 
 # NAIC Privacy Statement
 
