@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208103754id_/http%3A//www.hottopic.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402035919id_/http%3A//www.hottopic.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
 
 # Hot Topic Privacy Policy
 
@@ -43,7 +43,7 @@ On-Line Parental Consent
 City of Industry, CA 91748   
 (626) 839-4686 Fax 
 
-[Consent form](https://web.archive.org/web/20041208103754id_/http%3A//www.hottopic.com/services/parentalconsent.pdf)
+[Consent form](https://web.archive.org/web/20050402035919id_/http%3A//www.hottopic.com/services/parentalconsent.pdf)
 
 **
 
@@ -63,5 +63,5 @@ We reserve the right at our discretion to make changes to this policy at any tim
 |   
 |   
 |  |  |   
-Copyright Hot Topic ©2004. All rights reserved.  
+Copyright Hot Topic ©2005 All Rights Reserved.  
  
