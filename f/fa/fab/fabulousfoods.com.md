@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201031004id_/http%3A//fabulousfoods.com/community/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulousfoods.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604073429id_/http%3A//fabulousfoods.com/community/privacypol.html) for the most accurate reproduction.*
 
 # FABULOUS FOODS
 
-[**Email This Page To A Friend!**](http://www.fabulousfoods.com/cgi-bin/birdcast.cgi)   
-Title   
+Privacy Statement for FabulousFoods.com
 
+**Enigma Communications** has created this privacy statement in order to demonstrate our firm commitment to privacy of the visitors to our web sites. The following discloses our information gathering and dissemination practices for this website: **FabulousFoods.com**. 
 
-### Privacy Statement for Fabulous Foods
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site has a strictly voluntary email registration form in which users give us their email address only. We use this customer contact information from the registration form to send periodic email newsletters. Users may opt-out of receiving future mailings at any time simply by requesting, via email, to be removed from the list. 
 
-**Enigma Communications** has created this privacy statement in order to demonstrate our firm commitment to privacy of the visitors to our web sites. The following discloses our information gathering and dissemination practices for this website: **Fabulous Foods**. 
+This site contains links to other sites. FabulousFoods.com is not responsible for the privacy practices or the content of such Web sites. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site has a strictly voluntary email registration form in which users give us their email address only. We use this customer contact information from the registration form to send periodic email newsletters. Users may opt-out of receiving future mailings at any time simply by requesting, via email, to be removed from the list.
+Our site uses an order form for customers to purchase products. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company. The customer's contact information is also used to get in touch with the visitor if necessary. Financial information that is collected is used to bill the user for products and services. 
 
-This site contains links to other sites. Fabulous Foods is not responsible for the privacy practices or the content of such Web sites.
+We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users promotional material from some of our partners. Users may opt-out of receiving future mailings by making this request known. 
 
-Our site uses an order form for customers to purchase products. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company. The customer's contact information is also used to get in touch with the visitor if necessary. Financial information that is collected is used to bill the user for products and services.
+Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
 
-We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users promotional material from some of our partners. Users may opt-out of receiving future mailings by making this request known.
+We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes. 
 
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis.
-
-We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site. Some customer data is shared with the advertising companies.
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companiesÕ privacy policies. 
 
 ### Security
 
@@ -38,10 +36,7 @@ P.O. Box 5041
 Playa del Rey, CA 90296  
 cheri@fabulousfoods.com 
 
-|  |   
----  
-  
-[](http://www.fabulousfoods.com/cgi-bin/ads/right120.pl?banner=greetingcards;time=1007176141;zone=right120)
+| [](http://www.fabulousfoods.com/cgi-bin/ads/right120.pl?banner=bcmedia;time=1023176123;zone=right120)
 
 [](https://web.archive.org/cgi-bin/quiz/quirex.cgi)
 
