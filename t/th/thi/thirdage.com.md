@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625235710id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208054549id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
 
 # ThirdAge - About Us - Privacy Statement
 
-|  |   | 
+|     
 
-**Privacy Policy for www.ThirdAge.com**  
 
+**Privacy Policy for www.ThirdAge.com**
 
 **1\. General**  
 ThirdAge Inc. (hereinafter "ThirdAge") respects the privacy of every individual who visits www.thirdage.com (hereinafter the "Web Site"). This Privacy Policy outlines the information ThirdAge will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared. 
@@ -20,6 +20,8 @@ When you do provide us with personally-identifiable information, ThirdAge may:
   * Disclose that information to third parties when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with the rights or property (either intentionally or unintentionally) of ThirdAge, other members or users of the Web Site, or anyone else that could be harmed by such activities;
   * Disclose that information to third parties when we believe in good faith that the law requires it; and
   * Disclose that information to third parties when we believe in good faith that such action is necessary to enforce the [Terms of Service](http://www.thirdage.com/about/terms.html). 
+
+
 
 Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, we will not provide personally-identifiable information to third parties, although certain non-personally-identifiable user information may be provided in aggregate form to third parties. 
 
@@ -61,7 +63,4 @@ If you have questions or concerns regarding this Privacy Policy, the practice of
 **12\. Ad Serving**  
 The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy). 
 
-  
-
-
-The Moon enters Libra, the Scales, at 6:49 am EDT, reminding us to live our lives harmoniously. But it may be difficult to find balance now as Mercury the Messenger forms a supportive sextile aspect with expansive Jupiter, signaling ... **[More>](https://web.archive.org/horo/forecasts/daily/index.html)**
+| 
