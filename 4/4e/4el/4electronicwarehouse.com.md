@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208043041id_/http%3A//www.4electronicwarehouse.com/service/info.php/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2005-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050114094600id_/http%3A//www.4electronicwarehouse.com/service/info.php/2) for the most accurate reproduction.*
 
-# Your Electronic Warehouse - Home Theater, Audio/Video, Speakers & More!
+# Privacy Statement: Your Electronic Warehouse
 
 Your Electronic Warehouse has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[4ElectronicWarehouse.com](http://www.4electronicwarehouse.com/)**. 
 
