@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202171029id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemd.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/privacy.php) for the most accurate reproduction.*
 
-# Residency Program Reviews, Foreign Medical Schools, USMLE, Medical Schools, Caribbean Medical Schools, Offshore Medical Schools,CSA,CSE,IMG,IMGs
+# USMLE,USMLE Step 1,USMLE,Caribbean Medical Schools,Residency Review,Foreign Medical Schools,Offshore
 
   
   
   
 | **Statistics**  
 ---  
-We have **6935** registered users  
-The newest registered user is **[ekovkarova](https://web.archive.org/web/20031202171029id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=6940&sid=7e5565fa2d2237d0c9a5ce49bd4e0cea)**
+We have **12380** registered users  
+The newest registered user is **[Spina Bifida](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/profile.php?mode=viewprofile&u=12386&sid=980f51f5717bc2f1987136b7030d48c1)**
 
-Our users have posted a total of **49489** articles within **10052** topics
+Our users have posted a total of **95718** articles within **19561** topics
 
 Last Updated On: 01/30/2020   
   
@@ -38,12 +38,23 @@ We do our best to maintain the accuracy of personal information you supply to us
 
 We will take appropriate steps to protect the information you share with us from unauthorized access or disclosure.   
   
+**Announcement: help!!!!**  
+---  
+Posted: **people** @ Sat Mar 20, 2004 6:12 pm  
+can i reschedule my prometric appointment within the eligibility period more than 3 times? i have already rescheduled it more than 3 times and need to...
+
+[ [Read Full](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/portal.php?article=0&sid=980f51f5717bc2f1987136b7030d48c1) ]  
+  
+Comments: 0 :: [View Comments](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/viewtopic.php?t=15623&sid=980f51f5717bc2f1987136b7030d48c1) ([Post your comment](https://web.archive.org/web/20040615222404id_/http%3A//www.valuemd.com/posting.php?mode=reply&t=15623&sid=980f51f5717bc2f1987136b7030d48c1))  
   
 
 
 | **Welcome Guest**  
 ---  
   
-The time now is Tue Dec 02, 2003 12:10 pm
+The time now is Tue Jun 15, 2004 6:23 pm
 
-All times are GMT - 5 Hours
+All times are GMT - 4 Hours  
+  
+Foreign Medical Schools & Caribbean Medical Schools include Ross University School of Medicine Dominica in Caribbean, American University of the Caribbean AUC Medical School on St. Maarten in Caribbean, St. George University School of Medicine on Grenada in Caribbean, St. Matthew’s University Medical School in Caribbean, St. Christopher’s Medical School, Spartan Medical School in St. Lucia of Caribbean, UNIBE in Caribbean, Saba University Medical School in Caribbean, St. Eustatius Medical School in Caribbean, Medical University of Americas Medical School in Caribbean, Windsor Medical School in Caribbean, St. Martinus University Medical School, St. James University Medical School in Caribbean. This site also includes USMLE Step 1 2 and 3 prep forums and discusses the top Foreign & Caribbean Medical Schools.   
+18 
