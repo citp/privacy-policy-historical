@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607082252id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208043803id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-Last Updated: August 9th, 2003
+Last Updated: November 11th, 2004
 
 JS&M Sales & Marketing Inc. strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -53,4 +53,4 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
  
 
-**Copyright © 2003 JS &M Sales & Marketing Inc. **
+**Copyright © 2004 JS &M Sales & Marketing Inc. **
