@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jmu.edu privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601094603id_/http%3A//www.jmu.edu/jmuweb/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jmu.edu privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203043335id_/http%3A//www.jmu.edu/jmuweb/privacy.shtml) for the most accurate reproduction.*
 
 # James Madison University - Privacy Statement
 
