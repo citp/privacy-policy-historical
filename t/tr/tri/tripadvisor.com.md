@@ -1,12 +1,29 @@
-> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606110957id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205012226id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
+
+| [About us](https://web.archive.org/pages/about_us.html)  
+---  
+    [Fact sheet](https://web.archive.org/pages/factsheet.html)  
+    [Our team](https://web.archive.org/pages/team.html)  
+    [Board](https://web.archive.org/pages/board.html)  
+    [Investors](https://web.archive.org/pages/investors.html)  
+[Press room](https://web.archive.org/pages/press_center.html)  
+    [In the news](https://web.archive.org/pages/in_the_news.html)  
+    [Press releases](https://web.archive.org/pages/press_releases.html)  
+    [Awards](https://web.archive.org/pages/awards.html)  
+[Get listed on TripAdvisor](https://web.archive.org/pages/about_listing.html)  
+[Jobs](https://web.archive.org/pages/jobs.html)  
+[Contact us](https://web.archive.org/pages/contact.html)  
+[Privacy policy](https://web.archive.org/pages/privacy.html)  
+[Terms of use](https://web.archive.org/pages/terms.html)  
+| 
 
 TripAdvisor has provided this privacy policy because we value your right to privacy. This policy describes the types of information TripAdvisor gathers from its users and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, e-mail us at [privacy@tripadvisor.com](mailto:privacy@tripadvisor.com). 
 
-**Information We Collect**
+Information we collect
 
-**1\. Unregistered Users**
+1\. Unregistered users
 
 We encourage you to register with us in order to take advantage of TripAdvisor's many personalization features. However, you may choose not to register and still have full access to our site. 
 
@@ -16,7 +33,7 @@ We also place a small file known as a "cookie" on your computer's hard drive. A 
 
 If you visit our site by "clicking-through" from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our site in order to determine what information was collected and how you agreed that our partner could use that information. Regardless of what information was transmitted to us, however, we don't keep it unless you register with us. 
 
-**2\. Registered Users**
+2\. Registered users
 
 If you choose to register with us, you'll benefit from the ability to personalize your TripAdvisor experience. The benefits of registering will increase over time as we get to know you better. Among other things, these benefits include a personalized browsing experience tailored to your profile and interests. We encourage you to register so that you can experience everything that TripAdvisor has to offer!
 
@@ -28,7 +45,7 @@ If you reach our site through one of our partners (whether or not you have regis
 
 Of course, you can ensure that the personal information you provide to us is not shared with our partners (except in accordance with this policy), by visiting us directly instead of clicking-through from one of our partners. 
 
-**How We Use the Information We Collect**
+How we use the information we collect
 
 We use the information we collect to help both of us! As we mentioned above, registering with us allows you to personalize our Web site so that it is most useful to you. It also allows you to log into our site automatically each time you visit, rather than manually typing your user name and password every time. Once you have familiarized yourself with our Web site and all it has to offer, you may decide that you would like us to provide you with additional information automatically. For example, if you are interested in information on a particular vacation locale, you may want us to notify you if we locate any additional information about it. We would do that by sending you an e-mail. We might also use the information to enable us to notify you of special offers, to tell you about opportunities available from our partners, and for similar reasons. However, we will do so only if you specifically authorize us to. You can control whether you receive such e-mails by following the instructions elsewhere on this Web site, and we will make every reasonable effort to honor your request. We may also use the information you provide to allow us to contact you for administrative purposes, for example, to tell you about changes to our privacy policy. 
 
@@ -36,7 +53,7 @@ We may also use certain information that you provide in order to present you wit
 
 You can cancel your registration with us by e-mailing [cancel@tripadvisor.com](mailto:cancel@tripadvisor.com), and placing your screen name in the subject of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation, we will remove your information from its active database, but some information may remain in our archives. We may not be able to remove your information from our partners' databases, if we have transmitted any information to them. 
 
-**Disclosure of Your Information**
+Disclosure of your information
 
 TripAdvisor does not sell or rent any personally identifiable information to any third party, other than our partners, as discussed in this policy. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a that will allow any third party to identify you personally. 
 
