@@ -1,44 +1,18 @@
-> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604144449id_/http%3A//www.cheatmasters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205011522id_/http%3A//www.cheatmasters.com/privacy.php) for the most accurate reproduction.*
 
-# Cheatmasters|Playstation cheats|ps2 cheats|Nintendo cheats|Dreamcast
+# Cheat Masters : Let us help you win all your games !
 
-18 Minos Road,  
-Lowestoft,  
-Suffolk,  
-England,  
-NR32 4BL  
-01502-513307  
-[http://www.cheatmasters.com](http://www.cheatmasters.com/)
-
-**General Policy**  
-CheatMasters respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please email [admin@cheatmasters.com](mailto:admin@cheatmasters.com).
-
-**Email Newsletters**  
-CheatMasters operates email newsletters on its site. These are free to sign up to. What we ask of you is your email address, at times we may ask you for further information, which is used for demographic purposes. We do not give our email lists out to other parties unless you choose to opt in to a scheme whereby third parties may use your details for their own purposes. Our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer. If at any time you wish to unsubscribe from our newsletter you may do so by visiting the site you signed up with and using the unsubscribe facility. You may also email the website editor although it may take a longer time before your email address is removed than with the automatic unsubscribe facility.
-
-**Registration**  
-Our site may require you to register with us. This is to allow access to extra services that we provide for you. The information is not used for sending you newsletters or promotions unless stated.
-
-**Third Party Sites**  
-Our site operates with third party sites (such as online shops). We may, on occasion, share non-personal aggregated information to these third parties.
-
-**Cookies**  
-We use ‘cookies’ to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor.
-
-**Surveys**  
-On occasion we may conduct online surveys. This is used to gauge our service, collect demographic information and other information that we may find useful. These surveys are optional. We may share non-personal, aggregated information with third parties.
-
-**Security**  
-While we strive to keep the information that you supply directly or indirectly secure please be aware that the Internet is not a fully secure medium.
-
-**Competitions**  
-From time to time we operate competitions and promotions. Participation in these is optional. Information submitted may be submitted to third parties, check individual competition rules. You may also be given an option to sign up for a free email newsletter, opting out of this does not disqualify you from a competition.
-
-**Usage of Information**  
-If requested we may submit your information to local or government authorities.
-
-**Corrections/Updates**  
-You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please email [admin@cheatmasters.com](mailto:admin@cheatmasters.com).
-
-**Policy Changes**  
-By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page. Site Advertising This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects and stores anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy](http://www.engage.com/privacy).
+> **Cheatmasters.com** , recognizes its member's rights to privacy.
+> 
+> **Cheatmasters.com** does not sell, rent, lease or allow any third parties to view or use the information collected unless the reader consents through the use of the site, or in any other way. Cheatmasters.com site does not send unsolicited emails.
+> 
+> **Cheatmasters.com** takes reasonable measures to keep the information disclosed secure. However, Cheatmasters.com assumes no responsibility for any breach of security to this data.
+> 
+> © 2000 - 2002, Cheatmasters.com 
+> 
+> **Third Party Advertising**   
+> The ads appearing on this Web site are delivered to you by Third Party Advertising. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about Third Party Advertising, and cookies, please click [here ](http://www.cheatmasters.com/contacts.shtml). 
+> 
+> **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+> 
+> Visit Adtegrity's privacy policy [ HERE: http://www.adtegrity.com/privacy.asp](http://www.adtegrity.com/privacy.asp)
