@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordclub.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603155321id_/http%3A//oxfordclub.com/Visitors/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordclub.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207054949id_/http%3A//www.oxfordclub.com/Visitors/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # The Oxford Club Privacy Policy
 
