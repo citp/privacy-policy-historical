@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the destinationcrm.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604114625id_/http%3A//destinationcrm.com/dcrm_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the destinationcrm.com privacy policy that was archived on 2001-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011205093717id_/http%3A//destinationcrm.com/dcrm_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -194,6 +194,54 @@ function km_collect_email(f)
 	if (!TextNotNull(f.zip, "zip code")) return false;	 
 }
 
+
+// for /dcrm_whitepaper.asp page
+function whitepaper_info(f)
+ {
+	if (!TextNotNull(f.email, "email")) return false;
+	if (f.email.value != "") {  
+		if (!isValidEmail(f.email.value)) {
+			alert("Please enter valid email address for example; xxx@yyy.yy");
+			return false;
+		}
+	}
+		
+	if (!TextNotNull(f.fname, "Fiest Name")) return false;  
+	if (!TextNotNull(f.lname, "Last Name")) return false;   
+ 	if (!TextNotNull(f.Company, "Company")) return false;
+	if (!TextNotNull(f.Address, "Address")) return false;
+	if (!TextNotNull(f.city, "City")) return false;
+	if (!TextNotNull(f.country, "Country")) return false;	
+ 	
+ 	if (!isSelectOther(f.country, f.state)) return false;
+	if (!TextNotNull(f.zip , "Zip Code/Postal Code")) return false;
+	 
+}
+
+// for /dcrm_chat_login.asp page
+function chat_login(f)
+ {
+	if (!TextNotNull(f.email, "email")) return false;
+	if (f.email.value != "") {  
+		if (!isValidEmail(f.email.value)) {
+			alert("Please enter valid email address for example; xxx@yyy.yy");
+			return false;
+		}
+	}
+		
+	if (!TextNotNull(f.fname, "First Name")) return false;  
+	if (!TextNotNull(f.lname, "Last Name")) return false;  
+	if (!TextNotNull(f.nickname, "Nick Name")) return false;   
+ 	 
+	 
+}
+
+
+
+
+
+
+
  function promo_format(ff)
  {
   var i,j;
@@ -248,6 +296,7 @@ function validateregform(f) {
 		alert("Please select how you heard about us")
 		return false;
 	}
+	
 	if (!TextNotNull(f.username, "User Name")) return false;
 	if (!TextNotNull(f.password, "Password")) return false;
 	
@@ -266,12 +315,19 @@ function validateeventform(f) {
 	if (!TextNotNull(f.company, "Company/Org")) return false;
 	if (!TextNotNull(f.streetaddress1, "Address")) return false;
 	if (!TextNotNull(f.city, "City")) return false;
-	if (!TextNotNull(f.country, "Country")) return false;
-	if (!isSelectOther(f.country, f.state)) return false;
+	if (!TextNotNull(f.country, "Country")) return false;	
+ 	
+ 	if (!isSelectOther(f.country, f.state)) return false;
 	if (!TextNotNull(f.zip , "Zip Code/Postal Code")) return false;
 	if (!TextNotNull(f.email , "e-mail")) return false;
 	if (!TextNotNull(f.telephone, "Telephone")) return false;
 	
+	if (f.source.value==""){
+		alert("Please select how you heard about the event")
+		return false;
+	}
+	
+		
 	if (f.email.value != "") {  
 		if (!isValidEmail(f.email.value)) {
 			alert("Please enter valid email address for example; xxx@yyy.yy");
@@ -377,6 +433,27 @@ if (!TextNotNull(f.state, "State")) return false;
 }
 
 
+
+//  for unsubscribe page 
+function validate_new(f)
+{
+if (f.newsletter_s.checked==true || f.km_newsletter_s.checked==true || f.ffa_newsletter_s.checked==true || f.new_feature_s.checked==true || f.ad_info_s.checked==true)
+{  
+if (!TextNotNull(f.email , "e-mail")) return false;
+if (f.email.value != "") {  
+		if (!isValidEmail(f.email.value)) {
+			alert("Please enter valid email address for example; xxx@yyy.yy");
+			return false;
+		}
+	}
+	
+if (!TextNotNull(f.title, "title")) return false;
+if (!TextNotNull(f.country, "Country")) return false;
+if (!isSelectOther(f.country, f.state)) return false; 
+
+}
+}
+
 // check e-mail address in the index page
 
 function validateemailform(f) {
@@ -424,11 +501,10 @@ else{
 }
 }
 </script>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" height="11">
+<table border="0" cellpadding="0" cellspacing="0" width="780">
 <tbody><tr>
-<td width="50%" background="images/dcrm_still1.gif" height="16" valign="bottom"><img border="0" src="images/dcrm_logo_top.gif"></td>
-<td width="50%" background="images/dcrm_still1.gif" align="center" height="16">
+<td width="297" background="images/dcrm_still1.gif" height="16" align="left" valign="bottom"><img border="0" src="images/dcrm_logo_top.gif"></td>
+<td width="100" background="images/dcrm_still1.gif" height="16" align="left" valign="bottom">&nbsp;</td>
 <!-- begin top navigator -->
 <script language="javascript">
 function whatiscrm() {
@@ -439,7 +515,7 @@ OpenWindow = window.open("whatcrm.html", "CRM", windowprops);
 }
 </script>
 
-</td><td width="" background="/images/dcrm_still1.gif" align="left" valign="bottom" height="16">
+<td width="" background="/images/dcrm_still1.gif" align="left" valign="bottom" height="16">
 <a href="dcrm_rg_index.asp"><img src="/images/register.gif" border="0" width="76" height="14"></a></td>
 <td width="" background="/images/dcrm_still1.gif" align="left" valign="bottom" height="16">
 <a href="dcrm_au_index.asp"><img src="/images/aboutus.gif" border="0" width="76" height="14"></a></td> 
@@ -450,23 +526,22 @@ OpenWindow = window.open("whatcrm.html", "CRM", windowprops);
 <td width="" background="/images/dcrm_still1.gif" align="left" valign="bottom" height="16">
 <a href="dcrm_mk_index.asp"><img src="/images/advertise.gif" border="0" width="78" height="14"></a></td> 
 
-<!-- end top navigator -->
-</tr>
+<!-- end top navigator --></tr>
 </tbody></table>
 <!--end top dcrm nav bar-->
 <!--begin top logo and ad bar-->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#999999"><tbody><tr bgcolor="#999999"><td width="0%" align="left" bgcolor="#999999"><img border="0" src="images/dcrm_logo_bot.gif">
-
-
+<table border="0" cellpadding="0" cellspacing="0" width="780" height="68" valign="top">
+<tbody><tr bgcolor="#999999"><td width="296" align="left" height="68"><img border="0" src="images/dcrm_logo_bot.gif"> </td>
+<td align="center" height="68">
 <!-- begin geting html tag -->
- <!-- copyright 1997-2001 AdForce, Inc.  All AdForce ad tags are the exclusive property of AdForce,Inc., and may not be used or altered without AdForce's express written permission --> <a href="http://adforce.imgis.com/?adlink|398|160852|1|1|misc=70555|key=" ;="" target="_top"><img src="http://adforce.imgis.com/?adserv|398|160852|1|1|misc=53342" border="0" height="60" width="468" naturalsizeflag="0" align="BOTTOM" alt="Destination CRM ad"></a>
+<nolayer><iframe src="http://ad.doubleclick.net/adi/dcrm.dart/aboutus;sz=468x60;tile=1;ord=200112543648C96?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=1;ord=200112543648C96?"><IMG SRC="http://ad.doubleclick.net/ad/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=1;ord=200112543648C96?" border=0 height="60" width="468"></A></iframe></nolayer><table><tbody><tr><td><ilayer id="layer1" visibility="hidden" width="468" height="60"></ilayer></td></tr></tbody></table>
 <!-- end  geting html tag -->
 
 </td></tr></tbody></table>
 <!--end top logo and ad bar-->
 <!--begin search and date row-->
 <div align="left">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="780">
 <tbody><tr>
 <td width="54%"><div align="left"><table border="0" cellpadding="0" cellspacing="0" width="584"><tbody><tr><td width="400" background="images/dcrm_still2.gif">
 <form method="post" action="topbar_search.asp" onsubmit="return validatesrform(this)">
@@ -527,9 +602,9 @@ document.write(displayDate());
 
 
 
-<!-- begin   tag -->
- <!-- copyright 1997-2001 AdForce, Inc.  All AdForce ad tags are the exclusive property of AdForce,Inc., and may not be used or altered without AdForce's express written permission --> <a href="http://adforce.imgis.com/?adlink|398|160854|1|6|misc=57952|key=" ;="" target="_top"><img src="http://adforce.imgis.com/?adserv|398|160854|1|6|misc=28956" border="0" height="125" width="125" naturalsizeflag="0" align="BOTTOM" alt="Destination CRM ad"></a>
-<!-- end    tag -->
+<!-- begin geting html tag --> 
+ <nolayer><iframe src="http://ad.doubleclick.net/adi/dcrm.dart/aboutus;sz=125x125;tile=2;ord=200112543648C96?" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dcrm.dart/aboutus;abr=!ie;sz=125x125;tile=2;ord=200112543648C96?"><IMG SRC="http://ad.doubleclick.net/ad/dcrm.dart/aboutus;abr=!ie;sz=125x125;tile=2;ord=200112543648C96?" border=0 height="125" width="125"></A></iframe></nolayer><table><tbody><tr><td><ilayer id="layer2" visibility="hidden" width="125" height="125"></ilayer></td></tr></tbody></table>
+<!-- end  geting html tag -->
 
 
 
@@ -695,19 +770,11 @@ Freedom Technology Media Group</font></b></td>
 <p align="center"></p></td>
 </tr>
 <tr>
-<td>
-<p align="center">
 
-<!-- begin geting html tag -->
- <!-- copyright 1997-2001 AdForce, Inc.  All AdForce ad tags are the exclusive property of AdForce,Inc., and may not be used or altered without AdForce's express written permission --> <a href="http://adforce.imgis.com/?adlink|398|160853|1|1|misc=30195|key=" ;="" target="_top"><img src="http://adforce.imgis.com/?adserv|398|160853|1|1|misc=77474" border="0" height="60" width="468" naturalsizeflag="0" align="BOTTOM" alt="Destination CRM ad"></a>
-<!-- end  geting html tag -->
-</p></td><td>
-<p align="center">
-
-
-<!-- begin geting html tag -->
- <!-- copyright 1997-2001 AdForce, Inc.  All AdForce ad tags are the exclusive property of AdForce,Inc., and may not be used or altered without AdForce's express written permission --> <a href="http://adforce.imgis.com/?adlink|398|162228|1|553|misc=1402|key=" ;="" target="_top"><img src="http://adforce.imgis.com/?adserv|398|162228|1|553|misc=76072" border="0" height="60" width="245" naturalsizeflag="0" align="BOTTOM" alt="Destination CRM ad"></a>
-<!-- end  geting html tag -->
+<td align="center">
+<p align="center">   
+ <nolayer><iframe src="http://ad.doubleclick.net/adi/dcrm.dart/aboutus;sz=468x60;tile=3;ord=200112543648C96?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=3;ord=200112543648C96?"><IMG SRC="http://ad.doubleclick.net/ad/dcrm.dart/aboutus;abr=!ie;sz=468x60;tile=3;ord=200112543648C96?" border=0 height="60" width="468"></A></iframe></nolayer><table><tbody><tr><td><ilayer id="layer3" visibility="hidden" width="468" height="60"></ilayer></td></tr></tbody></table>
+<!-- end  geting html tag --> 
 
 </p></td>
 </tr>
@@ -720,7 +787,7 @@ Freedom Technology Media Group</font></b></td>
 <!--end dcrm home footer include-->
 
 
-
+<layer src="http://ad.doubleclick.net/adl/dcrm.dart/aboutus;sz=468x60;tile=1;ord=200112543648C96?" width="468" height="60&quot;" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468; visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/dcrm.dart/aboutus;sz=125x125;tile=2;ord=200112543648C96?" width="125" height="125&quot;" visibility="hidden" onload="moveToAbsolute(layer2.pageX,layer2.pageY);clip.height=125;clip.width=125; visibility='show';"></layer><layer src="http://ad.doubleclick.net/adl/dcrm.dart/aboutus;sz=468x60;tile=3;ord=200112543648C96?" width="468" height="60&quot;" visibility="hidden" onload="moveToAbsolute(layer3.pageX,layer3.pageY);clip.height=60;clip.width=468; visibility='show';"></layer>
 
 
 
