@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.com.au privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122817id_/http%3A//www.jobs.com.au/about/dsp_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.com.au privacy policy that was archived on 2002-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020805004856id_/http%3A//www.jobs.com.au/about/dsp_privacy.cfm) for the most accurate reproduction.*
 
 # : : E M P L O Y M E N T . C O M . A U : :
 
@@ -40,4 +40,4 @@ We have an area on the site where you can submit feedback. Any feedback that is 
 
 ### Privacy Commitment Changes 
 
-If we decide to change our privacy commitment for our site, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our privacy commitment, please feel free to email us at [help@employment.com.au](mailto:help@employment.com.au) or call (02) 9269 1300.
+If we decide to change our privacy commitment for our site, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our privacy commitment, please feel free to email us at [help@employment.com.au](mailto:help@employment.com.au) or call (02) 8524 8500.
