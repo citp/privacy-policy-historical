@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the classmanager.com privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602203155id_/http%3A//www.classmanager.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classmanager.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205170541id_/http%3A//www.classmanager.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Class Manager</title>
@@ -43,36 +43,52 @@ img1.src = "/art/plus.gif";
 img2 = new Image();
 img2.src = "/art/minus.gif";
 
-function doOutline() {
-  var targetId, srcElement, targetElement;
-  srcElement = window.event.srcElement;
-  if (srcElement.className == "LEVEL1" || srcElement.className == "FAQ") {
-     srcElement = srcElement.id
-     //alert(srcElement);
-     //srcElement = srcElement.substr(0, srcElement.length-1);
-     srcElement = srcElement.substr(0, srcElement.length-1);
- 
-     targetId = srcElement + "s";
-  	//alert(targetId);
-	srcElement = srcElement + "i";
-
-     	srcElement = document.all(srcElement);
-     	targetElement = document.all(targetId);
-     
-  	if (targetElement.style.display == "none") {
-	
-	 targetElement.style.display = "";
-	if (srcElement.className == "LEVEL1"){
-           srcElement.src = "/art/minus.gif";}
-
-     	} else {
- 	targetElement.style.display = "none";
-	if (srcElement.className == "LEVEL1"){
-        	srcElement.src = "/art/plus.gif";}
-     }
-  }
+// for backward compatability
+if(document.all && !document.getElementById) {
+    document.getElementById = function(id) {
+         return document.all[id];
+    }
 }
 
+function doOutline(e) 
+{
+	var targetId, srcElement, targetElement;
+	if (window.event)
+		srcElement = window.event.srcElement;
+	else
+		srcElement = e.target;
+		
+	if (srcElement.className == "LEVEL1" || srcElement.className == "FAQ") 
+	{
+		srcElement = srcElement.id
+
+		srcElement = srcElement.substr(0, srcElement.length-1);
+		targetId = srcElement + "s";
+		srcElement = srcElement + "i";
+
+		srcElement = document.getElementById(srcElement);
+		targetElement = document.getElementById(targetId);
+		     
+		if (targetElement.style.display == "none") 
+		{	
+			targetElement.style.display = "";
+			if (srcElement.className == "LEVEL1")
+			{
+				srcElement.src = "/art/minus.gif";
+			}
+		} 
+		else 
+		{
+			targetElement.style.display = "none";
+			if (srcElement.className == "LEVEL1")
+			{
+				srcElement.src = "/art/plus.gif";
+			}
+		}
+	}
+}
+
+if (document.captureEvents) document.captureEvents(Event.CLICK)
 document.onclick = doOutline;
 
 </script></head>
@@ -104,7 +120,6 @@ document.onclick = doOutline;
 	</table>
 	</div>
 <p>
-
 &nbsp;<img id="OUT0i" src="/art/plus.gif" class="LEVEL1" width="12" height="12" border="0" alt="">&nbsp;<a class="LEVEL1" id="OUT1t"><font face="arial" size="2"><b>Demo Accounts&nbsp;</b></font></a><font face="arial" size="2"><br>
 </font></p><div id="OUT0s" style="display:None"><font face="arial" size="2">
 &nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a class="LEVEL2" id="OUT1t" href="/BuildDemoAccount.asp"><font face="arial" size="2">Instructor Demo</font></a><font face="arial" size="2">
@@ -121,17 +136,6 @@ document.onclick = doOutline;
 <br>&nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a class="LEVEL2" id="OUT1t" href="/about/tos.asp"><font face="arial" size="2">Terms of Service</font></a><font face="arial" size="2"><br>
 </font></font></font></font></font></font></div><font face="arial" size="2"><font face="arial" size="2"><font face="arial" size="2">
 
-<!-- Ignore the following code
-
-&nbsp;<img id=OUT2i src=/art/plus.gif CLASS=LEVEL1 width=12 height=12 border=0 alt="">&nbsp;<A CLASS=LEVEL1 id=OUT2t><font face=arial size=2><B>Advertising</B></A><BR>
-<div id=OUT2s style=display:None>
-&nbsp;<img src=/art/dot.gif width=12 height=12 border=0 alt="">&nbsp;<A CLASS=LEVEL2 id=OUT2t HREF=BlankPage.HTM><font face=arial size=2>Example</A>
-<BR>&nbsp;<img src=/art/dot.gif width=12 height=12 border=0 alt="">&nbsp;<A CLASS=LEVEL2 id=OUT2t HREF=BlankPage.HTM><font face=arial size=2>Example</A>
-<BR>&nbsp;<img src=/art/dot.gif width=12 height=12 border=0 alt="">&nbsp;<A CLASS=LEVEL2 id=OUT2t HREF=BlankPage.HTM><font face=arial size=2>Example</A><br>
-</DIV>
-
--->
-
 &nbsp;<img id="OUT3i" src="/art/plus.gif" class="LEVEL1" width="12" height="12" border="0" alt="">&nbsp;<a class="LEVEL1" id="OUT3t"><font face="arial" size="2"><b>Linking Partners</b></font></a><font face="arial" size="2"><br>
 <div id="OUT3s" style="display:None">
 &nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a class="LEVEL2" id="OUT3t" href="/about/LinkingPartnersProgramOverview.asp"><font face="arial" size="2">Program Overview</font></a><font face="arial" size="2">
@@ -147,29 +151,24 @@ document.onclick = doOutline;
 &nbsp;<img id="OUT5i" src="/art/plus.gif" class="LEVEL1" width="12" height="12" border="0" alt="">&nbsp;<a class="LEVEL1" id="OUT5t"><font face="arial" size="2"><b>Licensing Program</b></font></a><font face="arial" size="2"><br>
 <div id="OUT5s" style="display:None">
 &nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a class="LEVEL2" id="OUT5t" href="/about/LicensingProgramOverview.asp"><font face="arial" size="2">Program Overview</font></a><font face="arial" size="2">
-<br>&nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a class="LEVEL2" id="OUT5t" href="/about/LicensingPricing.asp"><font face="arial" size="2">Pricing and Terms</font></a><font face="arial" size="2">
+<!--<BR>&nbsp;<img src=/art/dot.gif width=12 height=12 border=0 alt="">&nbsp;<A CLASS=LEVEL2 id=OUT5t HREF=/about/LicensingPricing.asp><font face=arial size=2>Pricing and Terms</A>-->
 <br>&nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a class="LEVEL2" id="OUT5t" href="/about/LicensingOutsource.asp"><font face="arial" size="2">Why Outsource?</font></a><font face="arial" size="2"><br>
-</font></font></font></div><font face="arial" size="2"><font face="arial" size="2"><font face="arial" size="2">
+</font></font></div><font face="arial" size="2"><font face="arial" size="2">
 
 &nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a href="/about/privacy.asp"><font face="arial" size="2"><b>Privacy Policy</b></font></a><font face="arial" size="2"><br>
-
-<!-- Modified by Charlie 10.08.99 ******************************************************  -->
-
 &nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a href="/about/contactus.asp"><font face="arial" size="2"><b>Contact Us</b></font></a><font face="arial" size="2"><br>
-
-<!-- Added by Charlie 10.08.99 *********************************************************  -->
 
 &nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a href="/resources/suggest.asp"><font face="arial" size="2"><b>Suggest a Site</b></font></a><p><font face="arial" size="2">
 
 <!-- ***********************************************************************************  -->
 
 
-&nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a href="/default.asp?SponsorID=&amp;ProfessorID=&amp;PSW=&amp;Name="><font face="arial" size="2"><b>Return Home</b></font></a><font face="arial" size="2"><br>
+&nbsp;<img src="/art/dot.gif" width="12" height="12" border="0" alt="">&nbsp;<a href="/default.asp?ProfessorID=&amp;PSW=&amp;Name="><font face="arial" size="2"><b>Return Home</b></font></a><font face="arial" size="2"><br>
 
 
 <br>
 </font>
-</font></p></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></td>
+</font></p></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></td>
 	<td valign="top" bgcolor="#ffffff">
 <div align="center"><font face="arial" size="1">Select one of the links above to visit the <a href="../resources/default.asp">resource center.</a></font></div><br>
 
@@ -218,21 +217,21 @@ If you have any additional questions about the privacy policy at Classmanager.co
 <p>
 
 </p></td></tr>
-<tr><td bgcolor="#ffe7bd"><img alt="" border="0" height="12" src="../art/dot.gif" width="50"></td><td align="right" bgcolor="#ffffff">
-<div aligh="center"><table width="450" border="0" cellspacing="0" cellpadding="0" align="CENTER">
+<tr><td bgcolor="#ffe7bd"><img alt="" border="0" height="12" src="../art/dot.gif" width="50"></td><td align="right" bgcolor="#ffffff"><div aligh="center"><table width="450" border="0" cellspacing="0" cellpadding="0" align="CENTER">
 <tbody><tr>
 	<td bgcolor="#419C9C"><img src="/art/dot.gif" width="450" height="1" border="0" alt=""></td>
 </tr>
 <tr>
 	<td align="CENTER"><center><font face="arial" color="#ffffff" size="2">
-<a href="/default.asp">Login</a>___<font face="arial" color="#000000" size="2">|</font>___<a href="/about/contactus.asp">Contact Us</a>___<font face="arial" color="#000000" size="2">|</font>___<a href="/default.asp?SponsorID=&amp;ProfessorID=&amp;PSW=&amp;Name=">Home</a>
+<a href="/default.asp">Login</a>___<font face="arial" color="#000000" size="2">|</font>___<a href="/about/contactus.asp">Contact Us</a>___<font face="arial" color="#000000" size="2">|</font>___<a href="/default.asp?ProfessorID=&amp;PSW=&amp;Name=">Home</a>
 
 </font></center></td>
 </tr>
 <tr>
 	<td bgcolor="#419C9C"><img src="/art/dot.gif" width="450" height="1" border="0" alt=""></td>
 </tr>
-</tbody></table></div><img alt="" border="0" height="12" src="../art/bcorner.gif" width="12"></td></tr>
+</tbody></table></div>
+<img alt="" border="0" height="12" src="../art/bcorner.gif" width="12"></td></tr>
 </tbody></table>
 
 <p>
