@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laerdal.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622023526id_/http%3A//www.laerdal.com/document.asp%3FdocID%3D1564379) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laerdal.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203181333id_/http%3A//www.laerdal.com/document.asp%3FdocID%3D1564379) for the most accurate reproduction.*
 
 # Welcome to Laerdal Medical
 
