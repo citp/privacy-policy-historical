@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the beyondunreal.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603174229id_/http%3A//support.beyondunreal.com/faq.php%3Farticle%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondunreal.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004000535id_/http%3A//support.beyondunreal.com/faq.php%3Farticle%3D7) for the most accurate reproduction.*
 
 # BeyondUnreal's HelpDesk powered by DeskPRO.com
 
 **Answer:**  
 BeyondUnreal Privacy Statement 
 
-BeyondUnreal has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
+BeyondUnreal, Inc. (BeyondUnreal) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
 
 Information Automatically Logged 
 
