@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603015223id_/http%3A//news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207031304id_/http%3A//www.news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
 
 # News-Miner - Privacy Policy
 
-June 02, 2004   
+December 06, 2004   
 Fairbanks, AK
 
 | [Home Page](https://web.archive.org/Stories/0,1413,113%257E7250%257E,00.html)  
@@ -12,9 +12,11 @@ Fairbanks, AK
 [Sports](https://web.archive.org/Stories/0,1413,113%257E7248%257E,00.html)  
 [Opinion](https://web.archive.org/Stories/0,1413,113%257E7252%257E,00.html)  
 [Obituaries](https://web.archive.org/Stories/0,1413,113%257E7251%257E,00.html)  
+[Series](https://web.archive.org/Stories/0,1413,113%257E34118%257E,00.html)  
 [Health & Wellness](http://newsminer.healthology.com/)  
 [Special Sections](https://web.archive.org/Stories/0,1413,113%257E27660%257E,00.html)  
 [Photos](http://209.165.153.5/indexslideshow.htm)  
+[Historical papers](http://www.newsminer.com/historical_archive)  
 [ArcticCam](http://www.arcticcam.com/cam.html)  
 [Classifieds](https://web.archive.org/Stories/0,1413,113%257E7239%257E,00.html)  
 [Home Delivery](https://web.archive.org/Stories/0,1413,113%257E7281%257E,00.html)  
