@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigration.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603014633id_/http%3A//immigration.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigration.com privacy policy that was archived on 2001-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010801215408id_/http%3A//immigration.com/privacy.html) for the most accurate reproduction.*
 
 # Immigration.com - Privacy Policy
 
