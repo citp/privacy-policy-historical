@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621142919id_/http%3A//www.eschoolnews.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202221432id_/http%3A//www.eschoolnews.com/privacy.cfm) for the most accurate reproduction.*
 
 # eSchool News online
 
@@ -24,7 +24,7 @@ eSchool News Online is not responsible for the content or the privacy policies o
 
 **Statistical Analysis and Banner Advertising** : eSchool News Online may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. In these statistical analyses, we will disclose information to third parties only in aggregate form.
 
-**eMail** : Using the eMail addresses provided at registration, eSchool News Online periodically sends promotional e-mail to its subscribers about services offered by eSchool News Online and its advertisers. eSchool News Online may contact you regarding account status, changes to the subscriber agreement, and to confirm registration.
+**eMail** : Using the eMail addresses provided at registration, eSchool News Online periodically sends promotional e-mail to its subscribers about services offered by eSchool News Online and its advertisers. eSchool News Online may contact you regarding account status, changes to the subscriber agreement, and to confirm registration. To manage your eSchool News eMail profile please go to our [email management page.](https://web.archive.org/emailprofile/)
 
 **Data Security** : To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to protect the information we collect online.
 
@@ -38,4 +38,4 @@ eSchool News uses the information it gathers to promote special pricing and disc
 
 **Children's Guidelines:** No section of eSchool News Online is directed at children 12 and under. We collect no personally identifiable information from visitors known to be children.
 
-**Opting-Out, Corrections and Cancellations:** Upon request, eSchool News Online will a) Remove you and your personal information, from our database, thereby canceling your registration; b) Correct personal information that you state is erroneous; or c) Permit you to "opt out" of further eMail contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact [support@eschoolnews.org](mailto:support@eschoolnews.org)
+**Opting-Out, Corrections and Cancellations:** Upon request, eSchool News Online will a) Remove you and your personal information, from our database, thereby canceling your registration; b) Correct personal information that you state is erroneous; or c) Permit you to "opt out" of further eMail contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact [support@eschoolnews.org](mailto:support@eschoolnews.org) To manage your eSchool News eMail profile please go to our [email management page.](https://web.archive.org/emailprofile/)
