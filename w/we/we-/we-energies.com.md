@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209094833id_/http%3A//www.we-energies.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204011604id_/http%3A//www.we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# We Energies Business | Water Service
 
-| 
+|  | 
 
+  
+  
 We Energies delivers excellent customer service every day, and information you provide to us or that we maintain for your account helps us meet that expectation. We realize that it is essential to keep your information protected.
 
 **Here is our promise to customers:**
@@ -23,4 +25,6 @@ d) Your Social Security or tax ID information is necessary to establish utility 
 
 
 
-Effective Jan. 1, 2004. 
+Effective Jan. 1, 2004.
+
+|  | 
