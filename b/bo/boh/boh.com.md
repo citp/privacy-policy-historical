@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204065017id_/http%3A//www.boh.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boh.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403161436id_/http%3A//www.boh.com/privacy.asp) for the most accurate reproduction.*
 
 # Bank of Hawaii
 
@@ -43,9 +43,9 @@ Consumer Privacy Statement
 **View and Download**  
 
 
-Bank of Hawaii values its customers and is committed to protecting customer privacy. If you would like to view our Consumer Privacy Statement, [click here for a printable version](https://web.archive.org/web/20041204065017id_/http%3A//www.boh.com/privacy.pdf) (PDF format).
+Bank of Hawaii values its customers and is committed to protecting customer privacy. If you would like to view our Consumer Privacy Statement, [click here for a printable version](https://web.archive.org/web/20050403161436id_/http%3A//www.boh.com/privacy.pdf) (PDF format).
 
-Use the free Adobe Acrobat Reader to view and print the Consumer Privacy Statement. 
+Use the free [Adobe Acrobat Reader](https://web.archive.org/redirect/linkout_adobe.asp) to view and print the Consumer Privacy Statement. 
 
 Our postal address is P.O. Box 2900, Honolulu, HI 96846-6000.  
 [Contact us](https://www.boh.com/contact/form_gen-info.asp) for more information or you can reach us by telephone at 1-888-643-3888.
