@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the escrip.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206060742id_/http%3A//escrip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escrip.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195807id_/http%3A//www.escrip.com/privacy.html) for the most accurate reproduction.*
 
 # eScrip - privacy statement
+
+[ ](https://web.archive.org/merchants/search/index.html)  
+[ ](https://web.archive.org/supporter/index.html)  
+[ ](https://web.archive.org/program/demo/step1.html)  
+[ ](https://web.archive.org/about/index.html)  
+[ ](https://web.archive.org/about/contact.html)  
+
+
+| 
 
 **ESI Privacy Statement**  
 Electronic Scrip Incorporated has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.escrip.com](http://www.escrip.com/).
@@ -23,7 +32,7 @@ San Mateo, CA 94402-0029
 [webmaster@escrip.com](mailto:webmaster@escrip.com)
 
    
-[Home](https://web.archive.org/) |  [Family of Merchants](https://web.archive.org/merchants/search/index.html) |  [My eScrip](https://web.archive.org/supporter/index.html) |  [eScrip eXchange](https://web.archive.org/eXchange/index.html)  
+[Home](https://web.archive.org/) |  [Family of Merchants](https://web.archive.org/merchants/search/index.html) |  [My eScrip](https://web.archive.org/supporter/index.html)  
 [Program Demo](https://web.archive.org/program/demo/step1.html) |  [About ESI](https://web.archive.org/about/index.html) |  [Contact Us](https://web.archive.org/about/contact.html) |  [Privacy](https://web.archive.org/privacy.html)
 
-©2000 Electronic Scrip Incorporated. All rights reserved.
+©2000-2002 Electronic Scrip Incorporated. All rights reserved.
