@@ -1,0 +1,396 @@
+<!--The following is the downloaded HTML source of the mscdirect.com privacy policy that was archived on 2000-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205012500id_/http%3A//www.mscdirect.com/privacy.shtml) for the most accurate reproduction.-->
+
+<html><head>
+<title>MSC Industrial Supply Co.</title>
+<link href="/css/content.css" rel="stylesheet" type="text/css">
+<!--KEYVER:120-->
+</head>
+
+<body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" bgcolor="White" link="#FF2905" vlink="#9660AE">
+<script language="javascript">
+<!-- //
+function addLeadingZeros(form){
+ // Script for adding leading zeros to MSC Part Number
+ if (form.search_cat.options[form.search_cat.selectedIndex].value == 5 && form.Item_Number.value){
+  while (form.Item_Number.value.length < 8)
+ form.Item_Number.value = "0" + form.Item_Number.value;
+
+  return form.Item_Number;
+}else return form.Item_number;
+}
+
+function funQuickSearchHeader(objKeySearch)
+{
+ if (objKeySearch.search_cat.options[objKeySearch.search_cat.options.selectedIndex].value == 3){
+  objKeySearch.searchmanufpartno.value = objKeySearch.query.value;
+  objKeySearch.dispmanufpartno.value = objKeySearch.query.value;
+ }else{
+  if ((objKeySearch.search_cat.options[objKeySearch.search_cat.options.selectedIndex].value == 5 || objKeySearch.search_cat.options[objKeySearch.search_cat.options.selectedIndex].value == 9) && objKeySearch.query.value){
+   while (objKeySearch.query.value.length < 8)
+    objKeySearch.query.value = "0" + objKeySearch.query.value;
+   return objKeySearch.query;
+  }else
+   return objKeySearch.query;
+ }
+
+ return true;
+}
+// -->
+</script>
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+  <td height="6" colspan="5" bgcolor="009900"><img src="/images/blank.gif" border="0" height="1"></td>
+ </tr>
+ <tr>
+  <td colspan="2" bgcolor="000099" align="center" width="130" class="nav">
+<a href="http://www.mscdirect.com/default.htm"><img border="0" src="/images/sb_logo.gif" width="130" height="46" alt="home"></a>
+  </td>
+  <td width="5" bgcolor="#000099">
+<!-- spacing -->
+<img src="/images/blank.gif" width="5" border="0">
+  </td>
+  <td bgcolor="000099" width="100%" class="nav">
+<!-- Sub Table to Handle the layout of the top search bar area-->
+<table border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+  <td>
+<table border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+  <td bgcolor="#000099" nowrap="" class="qo">
+<img border="0" src="/images/quick_search1.gif" width="78" height="60" alt="search by MSC, mfr, competitor or customer part numbers">
+  </td>
+
+  <td bgcolor="#000099" valign="top">
+<table cellspacing="2" cellpadding="1" border="0">
+<form method="GET" name="frmKeySearch" action="http://www.mscdirect.com/mscProductSearch.process" onsubmit="return funQuickSearchHeader(this)"></form>
+ <!-- InterWorld : Search specific variable -->
+ <input type="hidden" name="RestartFlow" value="t">
+ <input type="hidden" name="RowsPerPage" value="15">
+ <input type="hidden" name="searchmanufpartno" value="">
+ <input type="hidden" name="dispmanufpartno" value="">
+ <input type="hidden" name="operator" value="AND">
+ <input type="hidden" name="QuickFlag" value="1">
+ <input type="hidden" name="Merchant_Id" value="1">
+ <tbody><tr>
+  <td valign="center">
+<input type="text" name="query" value="" size="17" class="navsrch">
+  </td>
+  <td class="qo" style="vertical-align:middle;">
+<input type="image" border="0" src="/images/hm_go_btn_trim.gif" alt="go">
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2">
+<select name="search_cat" style="font-family:arial;font-size:8pt;">
+ <option value="9">&lt;select one&gt;</option>
+ <option value="5">MSC Part #</option>
+ <option value="3">Manufacturer Part #</option>
+ <option value="7">Competitor Part #</option>
+ <option value="8">Customer Part #</option>
+</select>
+  </td>
+ </tr>
+
+</tbody></table>
+  </td>
+ </tr>
+</tbody></table>
+  </td>
+
+  <td><img src="/images/blank.gif" height="100%" width="10" border="0"></td>
+
+  <td>
+<table border="0" cellspacing="0" cellpadding="0">
+<form method="GET" action="http://www.mscdirect.com/QuickOrder.process" name="MainForm" target="" onsubmit="return addLeadingZeros(this)"></form>
+  <input type="hidden" name="RestartFlow" value="t">
+  <input type="HIDDEN" name="OMLineMerchantId" value="1">
+  <input type="hidden" name="Merchant_Id" value="1">
+  <input type="HIDDEN" name="OMBasketQOFlag" value="FALSE">
+  <input name="OMAction" type="Hidden" value="AddToBasket">
+  <tbody><tr>
+<td class="qo"><img border="0" src="/images/quick_order1.gif" alt="quick order" usemap="#quickOrderPad" width="86" height="61"><img src="/images/blank.gif" width="1" border="0">
+<map name="quickOrderPad"><area shape="rect" coords="21,50,70,61" href="http://www.mscdirect.com/OMQuickOrderPad.process?RestartFlow=t" alt="quick order pad"></map>
+</td>
+<td>
+ <table border="0" cellspacing="2" cellpadding="1">
+
+  <tbody><tr>
+<td>
+ <select name="search_cat" style="font-family:arial;font-size:8pt;">
+  <option value="5">MSC</option>
+  <option value="7">Competitor</option>
+  <option value="8">Customer</option>
+ </select>
+</td>
+<td class="qo" style="vertical-align:middle;" align="right"><input type="image" name="Submit" value="Submit" src="/images/hm_go_btn_trim.gif" border="0" alt="go"></td>
+  </tr>
+
+  <tr>
+<td><input type="text" name="Item_Number" maxlength="18" size="12" class="navqo"></td>
+<td><input type="text" name="OMQuantity" size="3" class="navqo" maxlength="5"></td>
+  </tr>
+
+
+  <tr>
+<td class="qo" style="text-align:center;"><img src="/images/text_part_no.gif" width="37" height="9" alt="part number"></td>
+<td class="qo" style="text-align:center;"><img src="/images/text_qty.gif" width="18" height="9" alt="quantity"></td>
+</tr>
+ </tbody></table>
+</td>
+
+ 
+
+          <td><img src="/images/blank.gif" height="100%" width="11" border="0">
+</td>
+
+<td>
+     <table border="0" cellspacing="0" cellpadding="0" bgcolor="#000099">
+      <form method="get" action="http://www.mscdirect.com/PDF.process"></form>
+      <tbody><tr>
+       <td class="pdfText">
+        <table cellpadding="0" cellspacing="0" border="0">
+         <tbody><tr>
+		<td><img src="/images/bb_search.gif" width="71" height="54" alt="enter a big book page number to see the catalog page"><img src="/images/blank.gif" width="1" border="0"></td>
+
+         <td>
+           	<img src="/images/blank.gif" height="4" width="1" border="0"><br>
+		<input type="image" border="0" src="/images/hm_go_btn_trim.gif" alt="go">
+          <br>
+           <input name="pdf" size="4" maxlength="4" class="navsrch"><br>
+		<img src="/images/pageno.gif" width="39" height="7">
+		</td>
+	</tr>
+	</tbody></table>
+	</td>
+	</tr>
+	
+     </tbody></table>
+
+	</td>
+  </tr>
+
+</tbody></table>
+  </td>
+ </tr>
+</tbody></table>
+</td>
+ </tr>
+
+<script language="JavaScript"><!--
+if (document.images) {
+img1aon = new Image();
+img1aon.src = "/images/sdbar_1a_on.gif"; // Active Images
+img1on = new Image();
+img1on.src = "/images/sdbar_1_on.gif";
+img2aon = new Image();
+img2aon.src = "/images/sdbar_2a_on.gif";
+img2on = new Image();
+img2on.src = "/images/sdbar_2_on.gif";
+img3aon = new Image();
+img3aon.src = "/images/sdbar_3a_on.gif";
+img3on = new Image();
+img3on.src = "/images/sdbar_3_on.gif";
+img4aon = new Image();
+img4aon.src = "/images/sdbar_4a_on.gif";
+img4on = new Image();
+img4on.src = "/images/sdbar_4_on.gif";
+img5aon = new Image();
+img5aon.src = "/images/sdbar_5a_on.gif";
+img5on = new Image();
+img5on.src = "/images/sdbar_5_on.gif";
+
+img1aoff = new Image();
+img1aoff.src = "/images/sdbar_1a_off.gif"; // Inactive Images
+img1off = new Image();
+img1off.src = "/images/sdbar_1_off.gif";
+img2aoff = new Image();
+img2aoff.src = "/images/sdbar_2a_off.gif";
+img2off = new Image();
+img2off.src = "/images/sdbar_2_off.gif";
+img3aoff = new Image();
+img3aoff.src = "/images/sdbar_3a_off.gif";
+img3off = new Image();
+img3off.src = "/images/sdbar_3_off.gif";
+img4aoff = new Image();
+img4aoff.src = "/images/sdbar_4a_off.gif";
+img4off = new Image();
+img4off.src = "/images/sdbar_4_off.gif";
+img5aoff = new Image();
+img5aoff.src = "/images/sdbar_5a_off.gif";
+img5off = new Image();
+img5off.src = "/images/sdbar_5_off.gif";
+}
+
+// Function to 'activate' images.
+function imgOn(imgName,imgNamea) {
+if (document.images){
+document[imgName].src = eval(imgName + "on.src");
+document[imgNamea].src = eval(imgNamea + "on.src");
+}
+}
+
+// Function to 'deactivate' images.
+function imgOff(imgName,imgNamea) {
+  if (document.images) {
+document[imgName].src = eval(imgName + "off.src");
+document[imgNamea].src = eval(imgNamea + "off.src");
+  }
+}
+// -->
+</script>
+<!-- Navigation buttons along the left -->
+  <tr><td bgcolor="#000099" valign="top" width="130" height="100%">
+<a href="http://www.mscdirect.com/browse.shtml" onmouseover="imgOn('img1','img1a')" onmouseout="imgOff('img1','img1a')"><img name="img1a" src="/images/sdbar_1a_off.gif" width="130" height="39" border="0" alt="browse the big book"></a><br>
+<a href="http://www.mscdirect.com/browse.shtml" onmouseover="imgOn('img1','img1a')" onmouseout="imgOff('img1','img1a')"><img name="img1" src="/images/sdbar_1_off.gif" width="130" height="39" border="0" alt="browse the big book"></a><br>
+<a href="http://www.mscdirect.com/OMBasketDetail.process?RestartFlow=t&amp;OMAction=BasketDetail" onmouseover="imgOn('img2','img2a')" onmouseout="imgOff('img2','img2a')"><img name="img2a" src="/images/sdbar_2a_off.gif" width="130" height="39" border="0" alt="to order"></a><br>
+<a href="http://www.mscdirect.com/OMBasketDetail.process?RestartFlow=t&amp;OMAction=BasketDetail" onmouseover="imgOn('img2','img2a')" onmouseout="imgOff('img2','img2a')"><img name="img2" src="/images/sdbar_2_off.gif" width="130" height="39" border="0" alt="to order"></a><br>
+<a href="https://www.mscdirect.com/members.process" onmouseover="imgOn('img3','img3a')" onmouseout="imgOff('img3','img3a')"><img name="img3a" src="/images/sdbar_3a_off.gif" width="130" height="39" border="0" alt="my account"></a><br>
+<a href="https://www.mscdirect.com/members.process" onmouseover="imgOn('img3','img3a')" onmouseout="imgOff('img3','img3a')"><img name="img3" src="/images/sdbar_3_off.gif" width="130" height="39" border="0" alt="my account"></a><br>
+<a href="http://www.mscdirect.com/custsupp/custsupp.shtml" onmouseover="imgOn('img4','img4a')" onmouseout="imgOff('img4','img4a')"><img name="img4a" src="/images/sdbar_4a_off.gif" width="130" height="39" border="0" alt="customer support"></a><br>
+<a href="http://www.mscdirect.com/custsupp/custsupp.shtml" onmouseover="imgOn('img4','img4a')" onmouseout="imgOff('img4','img4a')"><img name="img4" src="/images/sdbar_4_off.gif" width="130" height="52" border="0" alt="customer support"></a><br>
+<a href="http://www.mscdirect.com/aboutmsc/about.shtml" onmouseover="imgOn('img5','img5a')" onmouseout="imgOff('img5','img5a')"><img name="img5a" src="/images/sdbar_5a_off.gif" width="130" height="39" border="0" alt="about MSC"></a><br>
+<a href="http://www.mscdirect.com/aboutmsc/about.shtml" onmouseover="imgOn('img5','img5a')" onmouseout="imgOff('img5','img5a')"><img name="img5" src="/images/sdbar_5_off.gif" width="130" height="39" border="0" alt="about MSC"></a>
+  </td>
+<td width="22" bgcolor="#FFFFFF">
+<img src="/images/blank.gif" width="22" border="0">
+  </td>
+<td colspan="2" bgcolor="#FFFFFF">
+<br>
+
+
+<table width="455" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td>
+			<img src="/images/hd_privpol.gif">
+			<br><br>
+			Thank you for visiting MSC Industrial Supply Company! It is important to
+			us here at MSC that you know how information about you may be utilized.
+			Please take a moment to look over this privacy policy which we hope will
+			address any questions you may have. We encourage you to
+			<a href="mailto:privacy@mscdirect.com">contact us</a> any time with questions or feedback.
+
+			<p class="subhdrblue">
+			general information
+			</p>
+			At MSCdirect.com, we use a site analysis tool to help us understand how customers use our site so we
+			can enhance their browsing experience. The information we collect is not specific to an
+			individual user. The various types of generic information we collect include but are not limited to:
+			<ul>
+				<li>Previous IP address
+				</li><li>Path followed
+				</li><li>Type of browser
+				</li><li>Type of browsing platform
+				</li><li>Pages accessed
+				</li><li>Length of time spent on those pages
+				</li><li>Current IP address and location
+			</li></ul>
+
+			Registration information that is collected when customers register with our site includes:
+			<ul>
+				<li>Customer name
+				</li><li>E-mail address
+				</li><li>User ID and password
+				</li><li>Billing address and telephone number
+				</li><li>Shipping address and telephone number<br>
+				(if different from billing address)
+				</li><li>Job title
+				</li><li>Federal Tax ID or SSN (DUNS # if an open account)
+			</li></ul>
+
+			Credit card number and expiration date information is not stored on MSCdirect.com.
+			We may use stored customer data to help us administer the site by
+			analyzing statistics combined with customer feedback to provide improved
+			content and quality products.
+
+			<p class="subhdrblue">security issues</p>
+			Making sure our customers feel secure is a top priority at MSC. Although
+			customers are ultimately responsible for maintaining the secrecy of
+			their user IDs and passwords, absolute security cannot always be
+			guaranteed. MSC is committed to our customer's needs and is continually
+			working toward setting and improving the security of our sites.
+			MSCdirect.com uses a 128-bit SSL (secure socket layer) for the encryption of
+			transactions on its web site.  It encrypts all of your personal
+			information, including credit card number, name, and address, so that it
+			cannot be deciphered by anyone except the account holder. All sensitive
+			information remains on our server and will never be transmitted for any
+			reason.
+
+			<p class="subhdrblue">information use and sharing</p>
+			<img src="/images/bullet1.gif"> The information that MSC collects is used primarily for improving the
+			site, but it is also valuable when describing traffic patterns to
+			vendors who are interested in knowing who is viewing their offerings.
+			<br><br>
+			<img src="/images/bullet1.gif"> Customers may be selected to participate in one of our voluntary
+			online surveys and MSC may periodically contact its online customers- via e-mail, direct mail, or telephone- to request feedback, clarify an
+			order, describe new offerings, or provide information about upcoming
+			events that may be of interest.
+			<br><br>
+
+			<p class="subhdrblue"><a name="optout">opting out</a></p>
+			At MSC, the choice is always in the hands of our customers. Our
+			customers may have their information removed from third party and
+			internal MSC distribution at any time by simply choosing to opt out. Customers
+			may opt out using any of the following methods:
+			<br><br>
+			<ul>
+				<li><a href="https://www.mscdirect.com/members.process">log in</a> and <a href="https://www.mscdirect.com/members.process">modify your profile</a>
+				</li><li>e-mail us: <a href="mailto:privacy@mscdirect.com">privacy@mscdirect.com</a>
+				</li><li>telephone our eCustomer Service Associates: 1-800-753-7970
+				</li><li>fax us: 516-812-1169
+			</li></ul>
+
+			<i>Please include the e-mail account initially used during the registration
+			process when corresponding.</i>
+
+			<p class="subhdrblue">
+			third parties
+			</p>
+			Third parties accessed from MSCdirect.com have separate privacy and data
+			collection policies. Although MSC is interested in customer feedback
+			regarding these links, it is not responsible for any events that occur
+			as a result of visiting them.
+
+			<p class="subhdrblue">
+			consent
+			</p>
+			When customers use this site, they are consenting to this policy.  MSC
+			reserves the right to change this policy at any time, but will post any
+			and all changes on this page. Check back regularly for the latest
+			privacy policy information.
+
+
+		</td>
+	</tr><tr>
+	</tr><tr>
+		<td align="center">
+			<br><img src="/images/ltblu_line.gif" height="4" width="430">
+		</td>
+	</tr>
+</tbody></table>
+<link href="/css/content.css" rel="stylesheet" type="text/css">
+<table width="440" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td class="mandatory" align="center">
+<br>
+<a href="http://www.mscdirect.com/aboutmsc/quickstart.shtml">site tour</a> <img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/sitemap.shtml">site map</a> <img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/privacy.shtml">privacy policy</a><br>
+<a href="http://www.mscdirect.com/default.htm">msc home</a>
+<img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/browse.shtml">browse</a>
+<img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/OMBasketDetail.process?RestartFlow=t&amp;OMAction=BasketDetail">to order</a>
+<img src="/images/bullet1.gif"> <a href="https://www.mscdirect.com/members.process">my account</a>
+<img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/aboutmsc/about.shtml">about msc</a>
+<img src="/images/bullet1.gif"> <a href="http://www.mscdirect.com/custsupp/custsupp.shtml">customer support</a>
+<br><br>
+© 2000 MSC Industrial Direct Co., Inc.
+</td>
+  </tr>
+ </tbody></table>
+<br>
+</td>
+  </tr>
+</tbody></table>
+
+
+
+</body></html>
