@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204611id_/http%3A//www.skyauction.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyauction.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611110052id_/http%3A//www.skyauction.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # SkyAuction.com Travel Auctions: Privacy Policy
 
@@ -20,13 +20,11 @@ Information provided when reserving or purchasing travel services through SkyAuc
 
 THIRD PARTY ADVERTISING 
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.net/naiprivacy)
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: <http://www.maxonline.com/privacy_policy/index.php>
 
-USE OF COOKIES 
+THIRD PARTY COOKIES 
 
-Our Web site may use cookies to enhance your experience while using our Web site. Cookies are pieces of information that a Web site transfers to the computer that is browsing that Web site for record keeping purposes. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords and your personal preferences regarding your use of the particular Web site and making sure that you do not see the same ad repeatedly. Many consider the use of cookies to be an industry standard.
-
-Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Web site will not function properly when you view them.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 USE OF TRAFFIC DATA 
 
