@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macconnection.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204011900id_/http%3A//www.macconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macconnection.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408051900id_/http%3A//www.macconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.*
 
 # PC Connection : Privacy Policy
 
