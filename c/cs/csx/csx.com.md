@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208003100id_/http%3A//csx.com/aboutus/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606222322id_/http%3A//csx.com/aboutus/company/privacy.shtml) for the most accurate reproduction.*
 
 # CSX Corporation: About Us: Company Information & History: Privacy Policy
 
@@ -14,5 +14,5 @@ At times we conduct on-line surveys to better understand the needs and profile o
 
 CSX’s website may contain links to other sites such as government organizations and affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
 
-Copyright 1999 CSX Corporation  
+Copyright 2001 CSX Corporation  
 Read our [Privacy Policy](https://web.archive.org/aboutus/company/privacy.shtml) or [Contact Addresses](https://web.archive.org/aboutus/company/contact_addresses.shtml)
