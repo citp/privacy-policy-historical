@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housevalues.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623025148id_/http%3A//housevalues.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housevalues.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209133840id_/http%3A//housevalues.com/privacy.html) for the most accurate reproduction.*
 
 # House Values - Your Online source for Home Valuation
 
@@ -68,7 +68,7 @@ We use commercially reasonable efforts to store and maintain personally identify
 
 You may opt-out of receiving communications from us in the future through any of the following options: 
 
-  1. to unsubscribe to the Home Seller Tips newsletter visit: [http://www.housevalues.com/remove.aspx](https://web.archive.org/web/20030623025148id_/http%3A//housevalues.com/Remove.aspx)
+  1. to unsubscribe to the Home Seller Tips newsletter visit: [http://www.housevalues.com/remove.aspx](https://web.archive.org/web/20031209133840id_/http%3A//housevalues.com/Remove.aspx)
   2. email homesellerinfo@housevalues.com 
   3. call the following telephone number: 425-454-0088 
 
@@ -82,6 +82,29 @@ HouseValues.com gives users the following options for changing and modifying inf
 
   1. email homesellerinfo@housevalues.com 
   2. call the following telephone number: 425-454-0088 
+
+**HOUSEVALUES DO-NOT-CONTACT POLICY**
+
+If individuals do not wish to receive sales calls, marketing messages or other commercial communications from HouseValues, Inc., they can ask to be placed on the HouseValues ‘Do-Not-Contact’ List.  In compliance with federal and state laws, HouseValues will document the request promptly.  Please allow sufficient time for your name, telephone number, mailing address and email address to be removed from any sales and marketing programs that are currently underway.
+
+  1. Requests can be in writing, by phone or by email, and must include your name, mailing address, and telephone number.
+  2. Requests regarding telephone calls should include all telephone numbers that are to be included on the ‘Do-Not-Contact’ List. It may take up to 30 days for the change to take effect.
+  3. Requests to be removed from direct mailings should include your address in addition to name and phone number, and similarly may take up to 30 days to take effect.
+  4. We also will honor your request not to receive email from us. We will remove your email address from our list within three business days of your request, but some promotions may not be immediately affected by the change. Be sure to provide all email addresses that are to be removed from our list.
+  5. Names and contact information will remain on the ‘Do-Not-Contact’ List for 10 years, unless individuals ask to be removed.
+  6. Individuals must provide HouseValues with any changes to name, mailing address, phone number or email address for such new information to be included in the ‘Do-Not-Contact’ List.
+
+Current HouseValues customers who do not wish to be contacted should follow the steps above.  Current HouseValues customers on the ‘Do-Not-Contact’ List will not receive sales or marketing calls from HouseValues, but may receive non-commercial solicitation calls.  These may include surveys, billing, customer relations and other service-related matters.
+
+All ‘Do-Not-Call’ List requests can be expressed by email to HouseValues, Inc. at info@housevalues.com, or by telephone at 1-877-450-0088, or by written notice to:
+
+HouseValues, Inc.
+
+Attn. Marketing Department
+
+15 Lake Bellevue Drive, Suite 200
+
+Bellevue, WA 98005
 
 **Questions and Concerns**
 
