@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rateyourmusic.com privacy policy that was archived on 2002-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020628224807id_/http%3A//rateyourmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateyourmusic.com privacy policy that was archived on 2002-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020820002716id_/http%3A//rateyourmusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- Rate Your Music
 
@@ -83,6 +83,3 @@
 > If you have any questions about this privacy policy, or would like to make a suggestion, please click [here](http://rateyourmusic.com/suggestions/subject=Privacy%20Policy). 
 
 * * *
-
-Search For in   
-*Search Tip: just enter a few letters of the artist/album you're searching for.
