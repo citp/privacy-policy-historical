@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603210617id_/http%3A//www.milonic.com/menu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202165306id_/http%3A//www.milonic.com/privacy.php) for the most accurate reproduction.*
 
-# DHTML Cross Browser Javascript Menu, DHTML Menus & Web Site Navigation Menus. Popup Menus Sample Demos, JavaScript WebSite Menu, DHTML Help & Dynamic HTML Source Code
+# Milonic Solutions Privacy Policy
 
-**Milonic Solutions Privacy Policy  
-**  
+### Milonic Solutions Privacy Policy
+
+  
+Milonic Solutions are registered with the UK's Data Protection Registrar.  
+Our Registration number is **PZ7648184**
+
+* * *
+
+  
 **_PURPOSE_**  
 Milonic Solutions is committed to protecting your privacy. The following discloses our information collection and use practices for our Website.
 
