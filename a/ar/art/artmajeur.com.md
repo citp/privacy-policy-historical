@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artmajeur.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204073321id_/http%3A//www.artmajeur.com/%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmajeur.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305033641id_/http%3A//www.artmajeur.com/%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # Artmajeur - Online Art Gallery
 
