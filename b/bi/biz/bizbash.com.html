@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bizbash.com privacy policy that was archived on 2001-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011020220628id_/http%3A//bizbash.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bizbash.com privacy policy that was archived on 2002-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020203155503id_/http%3A//bizbash.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta name="generator" content="HTML Tidy, see www.w3.org">
@@ -7,24 +7,224 @@
       BiZBash - Privacy
     </title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
 <script type="text/javascript" language="javascript">
 <!-- //Hiding script from older browsers
 
-css_NN = "css/bizbashns.css";
-css_IE = "css/bizbash.css";
-
-if(document.layers){
-   document.write("<link rel='stylesheet' href='" + css_NN + "' type='text/css'>");
+function newWindow() { //v2.0
+  pressreleaseWindow = window.open('http://bizbash.com/usi/pr_page.html','PressRelease');
+  pressreleaseWindow.focus();
 }
 
-if(document.all){
-   document.write("<link rel='stylesheet' href='" + css_IE + "' type='text/css'>");
+function submitCompare()
+	{
+	document.frmCompare.action="http://bizbash.com:80/event/compare.asp";
+	document.frmCompare.submit();
+	}
+
+function submitResource(strAction,strResultsPage)
+	{
+	document.frmSearch.action=strAction;
+	document.frmSearch.results_page.value = strResultsPage;
+	document.frmSearch.submit();
+	}
+
+function submitKeyword()
+	{
+	document.form_keyword_search.submit();
+	}
+
+function submitPower()
+	{
+	document.form_category_select.action="results.asp";
+	document.form_category_select.submit();	
+	}
+
+function submitForm(intAction) {
+	document.frmConfirm.form_action.value=intAction;
+	document.frmConfirm.submit();
+	return;
+	}
+
+function submitConnection()
+	{
+	document.frmConnection.submit();
+	}
+
+function submitForm_f()
+	{
+	document.frmForgotPassword.submit();
+	}
+
+function chgImg(imgField,newImg) {
+	if (document.images) {
+	document[imgField].src= eval(newImg + ".src")
+	}
 }
+
+function submitPageNavigation(intPage,strAction)
+	{
+	document.frmChecklistSearch.results_page.value=intPage;
+	document.frmChecklistSearch.action=strAction;
+	document.frmChecklistSearch.submit();
+	}
+//End hiding script from old browsers -->
+
+</script>
+
+
+
+<!-- BEGIN WEBSIDESTORY CODE --> <!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT
+PENDING. Privacy notice at: http://websidestory.com/privacy -->  
+<script language="javascript">
+ var _pn="PUT+PAGE+NAME+HERE"; 	//page name(s)
+ var _mlc="CONTENT+CATEGORY";	//multi-level content category
+ var _cp="null"; 		//campaign
+ var _acct="WE511029JDZA70EN3"; 	//account number(s)
+ var _pndef="default.asp"; 		//default page name
+ var _ctdef="full"; 		//default content category
+ var _dlf="n";			//download filter
+ var _elf="n";			//exit link filter
+ var _epg="n"; 			//event page identifier
+ var _hcv=65;			//code version
+ var _mn="wp169";			//machine name
+ var _gn="phg.hitbox.com";			//gateway name
+ function _wn(_nm)
+{	if((_nm.indexOf("NAME")>0&&_nm.indexOf("PUT")>=0)||(_nm.indexOf("CONTENT")>=0&&_nm.indexOf("CATEGORY")>0))
+		return true;
+	return false;
+}
+ function _gd(_x,_w)
+{
+	_ed = (_x.lastIndexOf("/"));
+ 	_be = (_w!="full")?(_x.lastIndexOf("/",(_ed-2))):(_x.indexOf("/"));
+ 	_dn = (_be==_ed)?"/":(_x.substring(_be, _ed));
+	return _dn;
+}
+ function _gf(_x)
+{	
+	_ed = (_x.length);_be = ((_x.lastIndexOf("/"))+1);
+ 	_fn = (_x.substring(_be, _ed));
+	return _fn;
+}
+ function _vc(_ml)
+{
+	_mll=_ml.length-1;
+	if(_ml.lastIndexOf("/")==_mll)
+	{	_ml=_ml.substring(0,_mll)
+	}
+ 	if(_ml.indexOf("/")!=0)
+	{	_ml="/"+_ml;
+	}
+	return _ml;
+}
+ function _ps(_ip,_pml)
+{	if(!_ip)
+	{	_pml=(_wn(_pml))?_gd(location.pathname,_ctdef):_vc(_pml);
+	}
+ 	else
+	{	if (_wn(_pml))
+		{	if (_pndef=="title")
+			{	_pt=document.title;
+				if(_pt!="")
+				{	_pml=_pt
+				};
+			}
+			else
+			{	_pml=_gf(location.pathname);
+				if (_pml=="")
+				{	_pml=_pndef
+				};
+			}
+		};
+	}
+	return _pml;
+}
+ function _pm(_ml,_fml,_ipn)
+{	if(_ml.indexOf(";")!=-1)
+	{	_nml=_ml.substring(0,(_ml.indexOf(";")));
+		_rm=_ml.substring((_ml.indexOf(";")+1),_ml.length);
+		_fml+=_ps(_ipn,_nml)+";";
+ 		_gp=_pm(_rm,_fml,_ipn);
+		return _gp;
+	}
+	else 
+	{	_fml+=_ps(_ipn,_ml);
+		return _fml;
+	}
+}
+
+var _sv=10;
+var _bn=navigator.appName;
+if(_bn.substring(0,9)=="Microsoft"){_bn="MSIE";};
+var _bv=(Math.round(parseFloat(navigator.appVersion)*100));
+if((_bn=="MSIE")&&(parseInt(_bv)==2))
+	_bv=301;
+var _rf=escape(document.referrer);
+_mlc=_pm(_mlc,"",false);
+_pn=_pm(_pn,"",true);
+</script>
+<script language="javascript1.1" id="_hbc">_sv=11;</script>
+<script language="javascript1.1" defer="" src="http://stats.hitbox.com/js/hbp.js"></script>
+<script language="javascript">
+if (_sv==10)
+{
+	if (document.cookie.indexOf("CP=")!=-1)
+	{	_ce="y";
+	}
+	else
+	{	document.cookie="CP=null*;path=/;expires=Wed, 1 Jan 2020 00:00:00 GMT";_ce=(document.cookie.indexOf("CP=")!=-1)?"y":"n";
+	};
+	if((_rf=="undefined")||(_rf=="")){_rf="bookmark";};
+	_x2="<img src='http://"+_gn+"/HG?hc="+_mn+"&hb="+escape(_acct)+"&n="+escape(_pn);
+	_x3="&cd=1&hv=6' border=0 height=1 width=1>";
+	_ar="&bn="+escape(_bn)+"&bv="+_bv+"&ce="+_ce+"&ss=na&sc=na&dt=&sv="+_sv+"&con="+escape(_ct);
+	_ar+="&vcon="+escape(_mlc)+"&epg="+_epg+"&hp=u&cy=u&ja=na&ln=na&cp="+escape(_cp)+"&pl=&rf="+_rf;
+	document.write(_x2+_ar+_x3);
+}
+document.write("<\!--");
+</script><!--
+<noscript>
+<img src="http://phg.hitbox.com/HG?hc=wp169&cd=1&hv=6&ce=u&hb=WE511029JDZA70EN3&n=PUT+PAGE+NAME+HERE&vcon=CONTENT+CATEGORY" border='0' width='1' height='1'>
+</noscript><!--//--> 
+ <!-- END WEBSIDESTORY CODE  -->
+
+
+
+
+<script type="text/javascript" language="javascript">
+
+<!-- //Hiding script from older browsers
+
+css_NN = "/css/bizbashns.css";
+css_IE = "/css/bizbash.css";
+css_IE_MAC = "/css/bizbash_IE_MAC.css";
+
+
+if (parseInt(navigator.appVersion) >= 4) {
+         var IE4 = (navigator.appVersion.indexOf("MSIE") > 0);
+         var NN4 = (navigator.appName == "Netscape");
+         var OS;
+         if (navigator.appVersion.indexOf("Win") > 0) OS = "Windows";
+         if (navigator.appVersion.indexOf("Mac") > 0) {OS = "MacOS";}
+         switch (OS) {
+                 case "Windows":
+                         if (document.getElementById) document.write ("<LINK href='" + css_IE + "' rel='stylesheet' type='text/css'");
+                         if ((NN4 > 0) && (parseFloat(navigator.appVersion) < 5.0)) document.write ("<LINK href='" + css_NN + "' rel='stylesheet' type='text/css'");
+                 break;
+                 case "MacOS":
+                         if (IE4 > 0) document.write ("<LINK href='" + css_IE_MAC+ "' rel='stylesheet' type='text/css'");
+                         if (NN4 > 0) document.write ("<LINK href='" + css_NN + "' rel='stylesheet' type='text/css'");
+                 default:
+                         if (NN4 > 0) document.write ("<LINK href='" + css_NN + "' rel='stylesheet' type='text/css'");
+                 break;
+         }
+ }
+
 
 //End hiding script from old browsers -->
-</script>
-  </head>
-  <body bgcolor="#FFFFFF">
+</script><link href="/css/bizbashns.css" rel="stylesheet" type="text/css" <="" head="">
+  </head><body bgcolor="#FFFFFF">
     
 	<script language="javascript" type="text/javascript">
 	<!-- Hiding script from older browsers
@@ -115,7 +315,7 @@ if(document.all){
 <table width="720" border="0" cellpadding="0" cellspacing="0" align="center">
   <tbody><tr>
     <td rowspan="3" width="216"><a href="/default.asp"><img src="/images/L1_BizBash.com.gif" width="215" height="144" border="0"></a></td>
-    <td colspan="4" height="98" valign="middle" align="center"><a href="http://confetti.bizbash.com/phpAdsNew/adclick.php?n=x"><img src="http://confetti.bizbash.com/phpAdsNew/adview.php?what=cbanner&amp;n=x" width="468" height="60" alt="" border="0"></a> 
+    <td colspan="4" height="98" valign="middle" align="center"> <a href="http://confetti.bizbash.com/phpAdsNew/adclick.php?n=x"><img src="http://confetti.bizbash.com/phpAdsNew/adview.php?what=cbanner&amp;n=x" width="468" height="60" alt="" border="0"></a> 
     </td>
   </tr>
   <tr>
@@ -127,7 +327,7 @@ if(document.all){
         <tbody><tr>
           <td rowspan="2" width="102"><img src="/images/L2_IdeaCenter.gif" width="102" height="46"></td>
           <td colspan="11" height="18" class="black" align="right" valign="middle"> 
-            October 20, 2001 </td>
+            February 3, 2002 </td>
         </tr>
 		
 		
@@ -173,118 +373,20 @@ if(document.all){
 <table width="720" border="0" cellpadding="0" cellspacing="0" align="center">
   <tbody><tr> 
     <td rowspan="2" valign="top">
+<br>
+<a href="/amex"><img src="/amex/new/BizAmex_Jan2002_V3.gif" width="184" border="0" vspace="1" hspace="1" height="87"></a> 
+<br>
+<!--<br>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><a href="http://confetti.bizbash.com/phpAdsNew/adclick.php?n=feat"><img src="http://confetti.bizbash.com/phpAdsNew/adview.php?what=feature&n=feat" alt="" width="184" height="250" border="0"></a></td>
+	<td><img src="images/spacer.gif" width="10" height="1"></td>
+  </tr>
+</table>-->
 
-<br>&nbsp;
-<a href="/pttr/"><img border="0" src="/LocRefSvc1.gif" width="182" height="121"></a><br>
-<img src="/images/top_portfolio.jpg">
-<table cellpadding="0" cellspacing="0">
-  <tbody><tr>
-<td>
+<br>
 
-
-<script language="javascript">
-
-function submitLogin()
-	{
-	document.frmLogin.submit();
-	}
-
-
-</script>
-
-
-<form name="frmLogin" action="http://bizbash.com:80/xt_manage_login.asp" method="post">
-  <table width="190" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr align="left"> 
-      <td rowspan="2"> 
-        <table width="180" border="0" cellspacing="0" cellpadding="2" bgcolor="#993399" bordercolor="#993399">
-          <tbody><tr align="left"> 
-            <td> 
-              <table width="180" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr> 
-                  <td bgcolor="#F0EAF2"><img src="/images/spacer.gif" width="5" height="1"></td>
-                  <td align="left" valign="bottom" class="black" bgcolor="#F0EAF2" colspan="1"> 
-                    <p class="black"><a href="http://bizbash.com:80/member/register.asp?target=privacy.asp" class="pinkb9"><b><br>
-                      </b></a>Your BiZBash portfolio helps you <b>connect with 
-                      resources</b>, maintain contact files and compare sources. 
-                      <font class="pinkb8">Activate your FREE portfolio NOW...</font><br>
-                      <br>
-                    </p>
-                    </td>
-                  <td bgcolor="#993399" valign="top"> <img src="/images/spacer.gif" width="1" height="8"></td>
-                </tr>
-                <tr> 
-                  <td rowspan="11" bgcolor="#F0EAF2"><img src="/images/spacer.gif" width="5" height="1"></td>
-                  <td bgcolor="#F0EAF2" class="pinkb8"><a href="http://bizbash.com:80/member/register.asp?target=privacy.asp" class="pinkb9"><b>New 
-                    Users Register Here!</b></a></td>
-                  <td rowspan="11" bgcolor="#993399"><img src="/images/spacer.gif" width="2" height="1"></td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#F0EAF2"> 
-                    <hr class="pink" noshade="" align="left" width="90%">
-                  </td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#F0EAF2" class="black"> Already registered? Log 
-                    in now:
-                    <br>
-<img src="/images/spacer.gif" width="1" height="10"><br>
-                    your email address</td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#F0EAF2"> 
-                    <input type="text" id="email" name="email" value="" size="16">
-                  </td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#F0EAF2" class="black">your password</td>
-                </tr>
-                <tr> 
-                  <td valign="top" bgcolor="#F0EAF2"> 
-                    <input type="password" id="password" name="password" value="" size="12">
-                    <!--input type="password" id="password" name="password" size="12"-->
-                    &nbsp; <a href="javascript:submitLogin()"> <img src="/images/BN_LogIn_new.gif" width="64" height="20" border="0" align="top"></a></td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#F0EAF2"> <a href="http://bizbash.com:80/forgot_password.asp?target=privacy.asp" class="pink"> 
-                    Forgot your password?</a></td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#F0EAF2"><img src="/images/spacer.gif" width="1" height="1"></td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#F0EAF2" class="black"> 
-                    <input type="checkbox" id="remember" name="remember" value="1">
-                    Remember Login
-<img src="/images/spacer.gif" width="1" height="5"></td>
-                </tr>
-                <tr> 
-                  <td bgcolor="#F0EAF2" height="2"><img src="/images/spacer.gif" width="1" height="1"></td>
-                </tr>
-                <!--                 <tr> 
-                  <td align="left" valign="bottom" class="green" bgcolor="#EAEFEF"> 
-                    <a href="http://bizbash.com:80/member/register.asp?target=privacy.asp" class="green"> 
-                    Register now...it's easy!</a></td>
-                </tr> --> 
-              </tbody></table>
-            </td>
-          </tr>
-        </tbody></table>
-      </td>
-      <td align="left" valign="top" bgcolor="#993399"><img src="/images/MP_con_up.jpg" width="8" height="11"></td>
-    </tr>
-    <tr align="left"> 
-      <td valign="bottom" bgcolor="#993399"> <img src="/images/MP_con_down.jpg" width="8" height="11"></td>
-    </tr>
-    <input type="hidden" id="form_action" name="form_action" value="1">
-    <input type="hidden" id="target" name="target" value="privacy.asp">
-  </tbody></table>
- 
-</form>
- </td>
-<td><img src="/images/spacer.gif" height="1" width="10"></td>
-</tr>
-</tbody></table>
+<!--'include virtual="i_login.asp"--> 
 
  
     </td>
@@ -372,34 +474,6 @@ function submitKeywordSearch()
                stores a cookie on your computer hard drive for your email address
                and password.
             </p>
-            <p>Use of cookies for advertising: Some of the advertising displayed on our site is 
-              delivered by AdForce, Inc. In the course of serving ads, AdForce 
-              collects certain non-personally identifiable data by placing a ‘cookie’ 
-              (a small file containing a unique, randomly selected alphanumeric 
-              tag) on a consumer’s computer hard drive. The non-personally identifiable 
-              information collected in connection with a cookie includes:</p>
-            <ul>
-              <li>&nbsp;browser type (i.e., IE 3.x, etc.) </li>
-              <li>&nbsp;operating system (i.e., Macintosh, PC, etc.) </li>
-              <li>&nbsp;IP Address of the machine (browser/proxy) connecting to 
-                AdForce (this is not your email address) </li>
-              <li>&nbsp;date a particular ad was served </li>
-              <li>&nbsp;time a particular ad was served</li>
-              <li>&nbsp;advertisement tag (placed by a Web site on a Web page 
-                to call up an ad).</li>
-            </ul>
-
-
-              
-      
-            This information is used by AdForce to deliver tailored ads to you 
-            and in the aggregate for statistical purposes. We use this information 
-            for reporting purposes and to bill our advertisers. Please note that 
-            AdForce cannot collect any personal information about you (such as 
-            your name, address, phone number or email address) when it delivers 
-            ads to our Web site. If you would like to learn more about AdForce’s 
-            information gathering practices, or if you would like to “opt-out” 
-            of having a unique cookie on your hard drive, please click <a href="http://www.adforce.com/company/privacy/privacypolicy.asp">here</a>.<br>
             <p>Privacy of our email lists: <br>
               BiZBash.com maintains several email lists to keep visitors and clients 
               informed about breaking news. Individuals must affirmatively ask 
