@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204050434id_/http%3A//www.dhamma.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhamma.org privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308000015id_/http%3A//www.dhamma.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,4 +35,4 @@ If you have any questions or concerns about the privacy or any other policies of
 **Effective Date**  
 This Privacy Policy is effective as of November 1, 2001. Our vipassana organizations reserve the right to modify the terms of this policy at any time and in our sole discretion. Your use of this website constitutes a binding acceptance of the above-referrenced policies. 
 
-[](https://web.archive.org/web/20041204050434id_/http%3A//www.dhamma.org/index.htm)
+[](https://web.archive.org/web/20050308000015id_/http%3A//www.dhamma.org/index.htm)
