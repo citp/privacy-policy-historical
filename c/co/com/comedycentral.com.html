@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602035228id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2003-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031119184340id_/http%3A//comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>COMEDY CENTRAL: Privacy Policy</title>
@@ -18,10 +18,8 @@ body {
 
 
 
-<script src="http://images.comedycentral.com/global.js"></script>
-<!-- Launch users Ppl link console -->
-<!-- <script src="http://community-pool.peoplelink.com/im/clients/125000081/OwnerApplet_028/launch.php3"></script> 
- -->
+
+<script src="/global.js"></script>
 
 <!-- bluh 9 -->
 
@@ -29,30 +27,178 @@ body {
 
 
 
+<!--     nustyle header--> 
 
 	
-<script language="JavaScript">
-<!-- Begin
-function formHandler(form){
-var URL = document.form.site.options[document.form.site.selectedIndex].value;
-window.location.href = URL;
-}
-// End of what -->
+<style type="text/css">
+
+.schedtime {font-size: 11px;  color: #feba2f; font-weight: bold; text-decoration: none; font-family: sans-serif;}
+   
+.schedtitle {position: absolute; top: 0px; width: 93px; height: 38px; font-size: 11px; line-height : 115%; color: #fee380; font-weight: bold; height: 40px; overflow : hidden; text-decoration: none; font-family: sans-serif;}
+ 
+A.schedtitle:LINK {position: absolute; top: 0px; width: 93px; height: 38px; font-size: 11px; line-height : 115%; color: #fee380; font-weight: bold; overflow : hidden; text-decoration: none; font-family: sans-serif;}
+
+A.schedtitle:VISITED {position: absolute; top: 0px; width: 93px; height: 38px; font-size: 11px; line-height : 115%; color: #fee380; font-weight: bold; overflow : hidden; text-decoration: none; font-family: sans-serif;}
+
+A.schedtitle:HOVER {position: absolute; top: 0px; width: 93px; height: 38px; font-size: 11px; line-height : 115%; color: #FFFFFF; font-weight: bold; overflow : hidden; text-decoration: none; font-family: sans-serif;}
+
+A.schedtitle:ACTIVE {position: absolute; top: 0px; width: 93px; height: 38px; font-size: 11px; line-height : 115%; color: #FFFFFF; font-weight: bold; overflow : hidden; text-decoration: none; font-family: sans-serif;} -->
+
+.nticker {font-size: 11px; color: #00013B; font-family: sans-serif;}
+
+A.nticker:LINK {font-size: 11px; font-family: sans-serif; color: #00013B;}
+
+A.nticker:VISITED {font-size: 11px; color: #00013B; font-family: sans-serif;}
+
+A.nticker:HOVER {font-size: 11px; color: #000000; font-family: sans-serif;}
+
+A.nticker:ACTIVE {font-size: 11px; color: #000000; font-family: sans-serif;}
+
+
+.nshopimage {padding-left: 0px; padding-top: 1px;} 
+#nshoptitle {font-size: 11px; font-weight: bold; color: #feba2f; height: 23px; line-height : 105%; overflow : hidden; text-align: center; padding-left: 0px; padding-top: 1px; padding-right:0px; padding-bottom:1px;  font-family: sans-serif;} 
+.nshopdesc { font-size: 9px; padding-left: 2px; color: #FFFFFF; text-decoration:none; font-family: sans-serif;} 
+A.nshopdesc:LINK {font-size: 9px; color: #FFFFFF; font-family: sans-serif; text-decoration:none;}
+A.nshopdesc:VISITED {font-size: 9px; color: #FFFFFF; font-family: sans-serif; text-decoration:none;}
+A.nshopdesc:HOVER {font-size: 9px; color: #FFFFFF; font-family: sans-serif; text-decoration:none;}
+A.nshopdesc:ACTIVE {font-size: 9px; color: #FFFFFF; font-family: sans-serif; text-decoration:none;}
+.nshopprice {font-size: 11px; font-weight: bold; color: #fee380; text-decoration:none; font-family: sans-serif;} 
+A.nshopprice:LINK {font-size: 11px; font-weight: bold; color: #fee380; text-decoration:none; font-family: sans-serif;}
+A.nshopprice:VISITED {font-size: 11px; font-weight: bold; color: #fee380; text-decoration:none; font-family: sans-serif;}
+A.nshopprice:HOVER {font-size: 11px; font-weight: bold; color: #fee380; text-decoration:none; font-family: sans-serif;}
+A.nshopprice:ACTIVE {font-size: 11px; font-weight: bold; color: #fee380; text-decoration:none; font-family: sans-serif;}
+
+</style>
+
+
+	
+<script language="javascript">
+<!-- 
+
+var mep1 = "";
+var flashVersion = 0;
+/* flash detect part */
+	var agent = navigator.userAgent.toLowerCase(); 
+	
+   // NS3 needs flashVersion to be a local variable
+   if (agent.indexOf("mozilla/3") != -1 && agent.indexOf("msie") == -1) {
+      flashVersion = 0;
+   }
+   
+	// NS3+, Opera3+, IE5+ Mac (support plugin array):  check for Flash plugin in plugin array
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		var flashPlugin = navigator.plugins['Shockwave Flash'];
+		if (typeof flashPlugin == 'object') { 
+			if (flashPlugin.description.indexOf('7.') != -1) flashVersion = 7;
+			else if (flashPlugin.description.indexOf('6.') != -1) flashVersion = 6;
+			else if (flashPlugin.description.indexOf('5.') != -1) flashVersion = 5;
+			else if (flashPlugin.description.indexOf('4.') != -1) flashVersion = 4;
+			else if (flashPlugin.description.indexOf('3.') != -1) flashVersion = 3;
+		}
+	}
+
+	// IE4+ Win32:  attempt to create an ActiveX object using VBScript
+	else if (agent.indexOf("msie") != -1 && parseInt(navigator.appVersion) >= 4 && agent.indexOf("win")!=-1 && agent.indexOf("16bit")==-1) {
+	   document.write('<scr' + 'ipt language="VBScript"\> \n');
+		document.write('on error resume next \n');
+		document.write('dim obFlash \n');
+		document.write('set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.7") \n');
+		document.write('if IsObject(obFlash) then \n');
+		document.write('flashVersion = 7 \n');
+		document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.6") end if \n');
+		document.write('if flashVersion < 7 and IsObject(obFlash) then \n');
+		document.write('flashVersion = 6 \n');
+		document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.5") end if \n');
+		document.write('if flashVersion < 6 and IsObject(obFlash) then \n');
+		document.write('flashVersion = 5 \n');
+		document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.4") end if \n');
+		document.write('if flashVersion < 5 and IsObject(obFlash) then \n');
+		document.write('flashVersion = 4 \n');
+		document.write('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.3") end if \n');
+		document.write('if flashVersion < 4 and IsObject(obFlash) then \n');
+		document.write('flashVersion = 3 \n');
+		document.write('end if');
+		document.write('</scr' + 'ipt\> \n');
+  } // WebTV 2.5 supports flash 3
+	else if (agent.indexOf("webtv/2.5") != -1) { flashVersion = 3;  }
+
+	// older WebTV supports flash 2
+	else if (agent.indexOf("webtv") != -1) { flashVersion = 2;  }
+
+	// Can't detect in all other cases
+	else {
+		flashVersion = flashVersion_DONTKNOW;
+	}
+
+
+
+// next line formerly known as rep.js
+
+
+ var stringUrl=(document.location).toString();
+
+ if(stringUrl.indexOf("?")>=0){
+           var parseQuery=stringUrl.split("?");
+           stringUrl=parseQuery[0];
+ }
+ 
+ var indexTest=stringUrl.lastIndexOf("/")==(stringUrl.length-1)?1:0;
+ var splitString=stringUrl.split("/");
+ var daSite=splitString[2];
+ if(stringUrl=="http://"+daSite){indexTest=1}
+ var daPage=indexTest?"index.jhtml":splitString[(splitString.length-1)];
+ daPage=="index.html"?daPage="index.jhtml":daPage;
+ var daSections="", keyVals="", bcVals="";
+
+ var keyVals=parseQuery?"&"+parseQuery[1]:"";
+ 
+ for(i=3,y=0; i<(splitString.length-1); i++,y++){
+    daSections+="sec_"+y+"="+splitString[i]+"&";
+ }
+ 
+ var if_SiteID=1;
+ var if_nt_url="&"+daSections;
+ var splitAgent=navigator.userAgent.split("(");
+ var cutAgent=[splitAgent[1]];
+ var glueAgent=cutAgent.toString();
+ var parsedAgent = glueAgent.split(";");
+ for (i=0; i<(parsedAgent.length); i++){
+           if(parsedAgent[i]=="compatible"){
+              continue;
+           }
+           bcVals+=parsedAgent[i];
+ }
+ 
+bcVals=bcVals.indexOf(")")>=0?escape(bcVals.replace(")","")):escape(bcVals);
+bcVals=bcVals.indexOf("%20")==0?bcVals.replace("%20",""):bcVals;
+ var bc="&if_nt_useragent="+bcVals;
+ var if_nt_screen="&if_nt_screen="+screen.height + "x" + screen.width + "x" + screen.colorDepth;
+ var parseSite=daSite.split(".");
+ var site=daSite.indexOf("www")>=0?parseSite[1]:parseSite[0];
+ var flash="&if_nt_flash="+flashVersion;
+ var mep1="&"+"page="+daPage+keyVals+if_nt_screen+flash;//Add taxonomy key values to this var
+
+
+//used for dart tags
+var dartSec="";
+ for(i=3; i<(splitString.length-1); i++){
+    dartSec+="_" +splitString[i];
+ }
+ dartSec=dartSec+  "_" + daPage;
+
+ var zone=splitString[3];
+ var dcSite="comedycentral.mtvi";
+ 
+// next line formerly known as rep.js
+var br0=navigator.appName.indexOf("Microsoft")!=-1&&parseInt(navigator.appVersion)<4;var DataColl="http://"+site+".ifc.mtvi.com/data?";var if7="";var if8=";path=/";var ifb=new Date();var cid="ifs";var now=new Date();function c_c(ifd,ife){var s=ife.indexOf(ifd);if(s==-1)return "";s+=ifd.length;var e=ife.indexOf(";",s);if(e==-1)e=ife.length;return ife.substring(s,e);}function ifg(u1,u2){var ifh=(u1.indexOf("https")==0);var ifi=(u2.indexOf("https")==0);if(ifh!=ifi)return false;else if(ifh&&ifi)return true;else return (u1.indexOf("http")==0)&&(u2.indexOf("http")==0);}function r_u(url){return url.toString();} function w_c(){var _m=now.getTime();document.cookie="ifs1="+_m.toString();var v=c_c("ifs1=",document.cookie);if(v!=_m.toString())return false;now.setTime(_m+3600000);document.cookie="ifs2="+_m.toString()+";expires="+now.toGMTString()+";path=/"; v=c_c("ifs2=",document.cookie);if(v!=_m.toString())return false;now.setTime(_m-3600000);document.cookie="ifs1="+_m.toString()+";expires="+now.toGMTString()+";path=/";document.cookie="ifs2="+_m.toString()+";expires="+now.toGMTString()+";path=/";return true;} function tz(stamp){var _msg="tax24_TimeZoneOffset="+(stamp.getTimezoneOffset()*-1);return _msg;}function ifX(sys){var _msg="";if((document.referrer)&&(document.referrer!="[unknown origin]"))_msg+="&tax23_RefDocLoc="+escape(r_u(document.referrer));ifr(_msg);window.ifsq+=1;window.document.cookie=cid+"="+window.ifsq.toString()+if8+if7;}function ifr(s){var then=ifb.getTime();var delta=now.getTime()-ifb.getTime();if(window.ifw==null)window.ifw=tz(ifb);window.ifw+=s;}function ifx(tx){if(document.ePingI==null||typeof(document.ePingI)=="undefined")document.ePingI=new Image();var mep2=mep1.replace(/ /g,"%20");tx+=mep2 + "&tax25_CookieAccept="+CA+"&tax0_SiteID="+if_SiteID + "&if_nt_URL=" + "http://www." + site + ".com" + if_nt_url +"site="+site;document.ePingI.src=DataColl+tx+bc;return true;} if(!br0){var ifW=0;var CA="N";if(w_c())ifW=1;if(w_c())CA="Y";var ifY=(top!=window);var ifw=null;var ifv=null;var ifu=false;var ifR=false;var ifZ8=c_c(cid+"=",document.cookie);if(typeof window.uniq=="undefined"||window.uniq==null){window.uniq=true;ifu=true;}if(ifu){window.cid=this.cid;window.ifid="";window.ifsq="";if(window.document.cookie!=null){window.ifid=c_c(cid+"=",window.document.cookie);window.ifsq=parseInt(c_c(cid+"=",window.document.cookie));}if(window.ifid==""){window.ifsq=0;window.ifid="x"+ifb.getTime().toString();window.ifid=window.ifid+Math.random().toString().substring(2,2+20-window.ifid.length);window.document.cookie=cid+"="+window.ifid+if8+if7;window.document.cookie=cid+"=0"+if8+if7;}}ifX(true);var _msg="";if(ifu&&!(ifv==null))_msg+=ifv;if(!(ifw==null)){_msg+=ifw;ifx(_msg);ifw=null;ifv=null;}}
+
+// -->
 </script>
 
-<script language="JavaScript">
-
-function Navigate() {
-var number = NavSelect.selectedIndex;
-location.href = NavSelect.options[number].value; }
-
-</script>
 
 
 
-<script language="JavaScript">
-<!--
-
+<script language="javascript">
 function newImage(arg) {
 	if (document.images) {
 		rslt = new Image();
@@ -60,353 +206,469 @@ function newImage(arg) {
 		return rslt;
 	}
 }
+  newImage("http://images.comedycentral.com/includes/flexnav/nav_22_o.gif");
+  newImage("http://images.comedycentral.com/includes/flexnav/nav_23_o.gif");
+  newImage("http://images.comedycentral.com/includes/flexnav/nav_24_o.gif");
+  newImage("http://images.comedycentral.com/includes/flexnav/nav_25_o.gif");
+newImage("http://images.comedycentral.com/includes/flexnav/nav_26_o.gif");
+newImage("http://images.comedycentral.com/includes/flexnav/nav_27_o.gif");
+newImage("http://images.comedycentral.com/includes/flexnav/nav_28_o.gif");
+newImage("http://images.comedycentral.com/includes/flexnav/nav_29_o.gif");
+newImage("http://images.comedycentral.com/includes/flexnav/gifs/nav_buyitnow_roll.gif");
 
 function changeImages() {
 	//if (document.images && (preloadFlag == true)) {
-		if (document.images) {
+	if (document.images ) {
 		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+			document[changeImages.arguments[i]].src = 'http://images.comedycentral.com/includes/flexnav/' + changeImages.arguments[i+1];
 		}
 	}
 }
-
-var preloadFlag = false;
-
-// -->
 </script>
 
-<!-- <style type="text/css">
-.ticker { z-index:457; position:absolute; top:72; left:115;}
-</style>
-<div id="ticker" class="ticker">
-<embed src="/includes/ticker.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="342" height="18">
-  </embed> 
- </div>  --><!-- bluh -->
-
-<script language="JavaScript">
-<!--
-function reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.pgW=innerWidth; document.pgH=innerHeight; onresize=reloadPage; }}
-  else if (innerWidth!=document.pgW || innerHeight!=document.pgH) location.reload();
-}
-reloadPage(true);
-// -->
-</script>
-
-<table width="745" border="0" cellpadding="0" cellspacing="0">
+<table width="745" border="0" cellspacing="0" cellpadding="0" bgcolor="#FEBA2F">
 	<tbody><tr>
-		<td>
-			<img src="/includes/images/spacer.gif" width="90" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="26" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="61" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="87" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="75" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="12" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="47" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="40" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="20" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="47" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="8" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="41" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="14" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="13" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="26" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="5" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="124" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="6" height="1"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="3" height="1"></td>
-		<td></td>
+		<td colspan="16" bgcolor="#02023B"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="9" alt=""></td>
 	</tr>
-	<tr>
-		<td rowspan="8">
-			<a href="/redir.jhtml?/nav/^/index.jhtml"><img src="/includes/images/home-nav-01.gif" width="90" height="120" border="0"></a></td>
-		<td colspan="14" rowspan="2">
-			<img src="/includes/images/home-nav-02.gif" width="517" height="40"></td>
-		<td colspan="4">
-			<a href="/redir.jhtml?/nav/^/tv_shows/tv_schedule.jhtml"><img src="/includes/images/home-nav-03.gif" width="138" height="11" border="0"></a></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="1" height="11"></td>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<img src="/includes/images/home-nav-04.gif" width="5" height="67"></td>
-		<td colspan="2" rowspan="4" valign="top"><div style="margin-left:.1cm"><font style="face:trebuchet, arial; color:white; font-size:10px;">
+    <tr>
+        <td bgcolor="#02023B"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt=""></td>
+        <td colspan="15"><img src="http://images.comedycentral.com/includes/flexnav/frame_top.gif" width="736" height="9" alt="" border="0"></td>
+    </tr>
+    <tr>
+        <td colspan="16" align="left">
+            <table width="745" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td bgcolor="#01023B" width="9"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt="" border="0"></td>
+                    <td width="736" align="center" bgcolor="#FEBB2F">
+
+
+
+
+
+
+
+
+ 
+
+
+
 	
-         
-		<font style="font-size:9px" face="sans-serif, arial" size="1" color="#ffffff">
-	10:00 PM
-	 - The Man Show
-    </font><br>
-		<font style="font-size:9px" face="sans-serif, arial" size="1" color="#ffffff">
-	10:30 PM
-	 - The Man Show
-    </font><br>
-		<font style="font-size:9px" face="sans-serif, arial" size="1" color="#ffffff">
-	11:00 PM
-	 - South Park
-    </font><br>
-		
-			
+
+<!-- ad served = 468housead1.jhtml -->
+
+<a href="/tv_shows/colinquinn"><img src="/includes/ads/468/banners/toughcrowd_468x60.gif" alt="Tough Crowd!" border="0"></a>
 
 
 
-</font> </div></td><!-- hoof hearted ice melted -->
-		<td rowspan="4">
-			<img src="/includes/images/home-nav-06.gif" width="3" height="67"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="1" height="29"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
-		<a href="/redir.jhtml?/nav/^/tv_shows/" class="dropdown">
-				<img name="home_nav_07" src="/includes/images/home-nav-07.gif" width="87" height="22" border="0"></a></td>
-		<td>
-			<a href="/redir.jhtml?/nav/^/standup/">
-				<img name="home_nav_08" src="/includes/images/home-nav-08.gif" width="87" height="22" border="0"></a></td>
-		<td colspan="2">
-			<a href="/redir.jhtml?/nav/^/timewasters/">
-				<img name="home_nav_09" src="/includes/images/home-nav-09.gif" width="87" height="22" border="0"></a></td>
-		<td colspan="2">
-			<a href="/redir.jhtml?/nav/^/community/">
-				<img name="home_nav_10" src="/includes/images/home-nav-10.gif" width="87" height="22" border="0"></a></td>
-		<td colspan="2">
-			<a href="/redir.jhtml?/nav/^/timewasters/games.jhtml">
-				<img name="home_nav_11" src="/includes/images/home-nav-11.gif" width="67" height="22" border="0"></a></td>
-		<td colspan="2">
-			<a href="/redir.jhtml?/nav/^http://shop.comedycentral.com/" target="_blank"><img src="/includes/images/home-nav-12.gif" width="49" height="22" border="0"></a></td>
-		<td colspan="3">
-			<a href="/redir.jhtml?/nav/^/ccrecords/"><img src="/includes/images/home-nav-13.gif" width="53" height="22" border="0"></a></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="1" height="22"></td>
-	</tr>
-	<tr>
-		<td colspan="14">
-			<img src="/includes/images/home-nav-14.gif" width="517" height="9"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="1" height="9"></td>
-	</tr>
-	<tr>
-		<td rowspan="4">
-			<img src="/includes/images/home-nav-15.gif" width="26" height="49"></td>
-		<td colspan="7" rowspan="2" width="342" height="18" bgcolor="091858" align="center"><font size="1" color="ffffff" face="trebuchet, arial, san-serif"><a href="http://www.comedycentral.com/tv_shows/insomniac/"><font color="#ffffff">Join Dave Attell for more Insomniac adventures -- Thursday 10 PM | 9 C</font></a></font></td>
-		<!-- <droplet bean="/atg/dynamo/droplet/Switch">
-		  <PARAM value="bean:/atg/userprofiling/Profile.loginstatus" name="value">
-		  <OPARAM name="false">
-		  <TD COLSPAN=2 ROWSPAN=2><SETVALUE param="destination" value="`request.getRequestURI()`"><a href="javascript:openpopWindow('/redir.jhtml?/nav/^/registration/login.jhtml?destination=`java.net.URLEncoder.encode(request.getParameter("destination"))`','reg','width=444,height=600,scrollbars=yes')"><IMG SRC="/includes/images/home-nav-17.gif" WIDTH=55 HEIGHT=18 border=0></a></TD>
-		<TD COLSPAN=3 ROWSPAN=2><a href="javascript:openpopWindow('/nav/^/registration/index.jhtml?destination=`java.net.URLEncoder.encode(request.getParameter("destination"))`','reg','width=444,height=400,scrollbars=yes')"><IMG SRC="/includes/images/home-nav-18.gif" WIDTH=68 HEIGHT=18 border=0></a></TD>
-		</oparam>
-		<oparam name="true">
-      <form action="`request.getRequestURI()`">
-   <TD COLSPAN=2 ROWSPAN=2><input type="image" src="/includes/images/home-nav-17-a.gif" BEAN="/com/cc/formhandlers/CC_PLProfileFormHandler.Logout" border="0"></TD>
-<TD COLSPAN=3 ROWSPAN=2><a href="/redir.jhtml?/nav/^/community/profile_preview.jhtml"><img src="/includes/images/home-nav-18-a.gif" border="0"></a></TD>
-</form>
-</oparam>
-</droplet> -->
-		<script languge="Javascript" src="/includes/nav/generateloginregbuttons.jhtml?s=1&amp;w1=home-nav-17&amp;w2=home-nav-18&amp;destination=%2Fhelp%2Fprivacy.jhtml"></script>
-		<td rowspan="2">
-			<img src="/includes/images/home-nav-19.gif" width="26" height="18"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="1" height="7"></td>
-	</tr>
-	<tr>
-		<td colspan="4" rowspan="2">
-			<img src="/includes/images/home-nav-20.gif" width="138" height="15"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="1" height="11"></td>
-	</tr>
-	<tr>
-		<td colspan="13">
-			<img src="/includes/images/home-nav-21.gif" width="491" height="4"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="1" height="4"></td>
-	</tr>
-	<tr><form name="form" method="GET" accept-charset="iso-8859-1" action="http://search.comedycentral.com:8765/ccsearch/query.html"></form>
-		<td colspan="3">
-			<img src="/includes/images/home-nav-22.gif" width="223" height="27"></td>
-		<td colspan="2">
-			<img src="/includes/images/home-nav-23.gif" width="59" height="27"></td>
-		<td colspan="3" bgcolor="feba2f">
-                  <input type="text" size="10" name="qt">
-				  <input type="hidden" name="qs" value="">
-				  <input type="hidden" name="ht" value="0">
-<input type="hidden" name="col" value="comedy">
-<input type="hidden" name="qp" value="">
-<input type="hidden" name="qc" value="">
-<input type="hidden" name="pw" value="100%">
-<input type="hidden" name="ws" value="0">
-<input type="hidden" name="la" value="en">
-<input type="hidden" name="qm" value="0">
-<input type="hidden" name="st" value="1">
-<input type="hidden" name="nh" value="25">
-<input type="hidden" name="lk" value="1">
-<input type="hidden" name="rf" value="0">
-<input type="hidden" name="rq" value="0">
-<input type="hidden" name="si" value="0">
-		</td>
-		<td colspan="3">
-			<img src="/includes/images/home-nav-25.gif" width="63" height="27"></td>
-		<td colspan="4" bgcolor="feba2f">
-          <font size="-2"><select name="site" style="font-size: 10; height:8; width:148; padding:0; padding-bottom:0" onchange="parent.location.href=document.form.site.options[document.form.site.selectedIndex].value">
-              <option selected="">-select-</option>
-<option value="/tv_shows/" target="_parent">TV SHOWS</option>
 
-<option value="/tv_shows/absolutelyfabulous/" target="_parent">Absolutely Fabulous</option>
-<option value="/tv_shows/battlebots/" class="navlinks" target="_parent">BattleBots</option>
-<option value="/tv_shows/beatthegeeks/" class="navlinks" target="_parent">Beat the Geeks</option>
-<option value="/tv_shows/benstiller/index.jhtml" target="_parent">The Ben Stiller Show</option>
-<option value="/tv_shows/blackbooks/" class="navlinks" target="_parent">Black Books</option>
-<option value="/tv_shows/bookofdavid/" class="navlinks" target="_parent">The Book of David</option>
-<option value="/tv_shows/chappellesshow/index.jhtml" target="_parent">Chappelle's Show</option>
-<option value="/tv_shows/clerks/index.jhtml" target="_parent">Clerks</option>
-<option value="/tv_shows/comedycentralmovies/" class="navlinks" target="_parent">Comedy Central Movies</option>
-<option value="/tv_shows/comedycentralmovies/pornandchicken/" class="navlinks" target="_parent">&nbsp;&nbsp;Porn 'n Chicken</option>
-<!--<option value="/comedycentralplex/" class="navlinks" target="_parent">&nbsp;&nbsp;Comedy Centralplex</option>-->
-<!-- <option value="/comedycentralplex/" class="navlinks" target="_parent">Comedy Centralplex</option> -->
-<option value="/tv_shows/comedycentralpresents/" class="navlinks" target="_parent">Comedy Central Presents</option>
-<option value="/tv_shows/comicgroove/" class="navlinks" target="_parent">Comic Groove</option>
-<option value="/tv_shows/comicremix/" class="navlinks" target="_parent">Comic Remix</option>
-<option value="/tv_shows/contestsearchlight/" class="navlinks" target="_parent">Contest Searchlight</option>
-<option value="/tv_shows/crankyankers/" class="navlinks" target="_parent">Crank Yankers</option>
-<option value="/tv_shows/thecritic/" class="navlinks" target="_parent">The Critic</option>
-<option value="/tv_shows/thedailyshowwithjonstewart/" class="navlinks" target="_parent">The Daily Show with Jon Stewart</option>
-<option value="/tv_shows/dilbert/" class"navlinks"="" target="_parent">Dilbert</option>
-<option value="/tv_shows/duckman/" class="navlinks" target="_parent">Duckman</option>
-<option value="/tv_shows/garyandmike/" class="navlinks" target="_parent">Gary &amp; Mike</option>
-<option value="/tv_shows/wanderlust/" class="navlinks" target="_parent">Gerhard Reinke's Wanderlust</option>
-<option value="/tv_shows/heroesofcomedywomen/" class="navlinks" target="_parent">Heroes of Comedy: Women on Top</option>
-<option value="/tv_shows/insomniac/" class="navlinks" target="_parent">Insomniac with Dave Attell</option>
 
-<option value="/tv_shows/jimbreuer/" class="navlinks" target="_parent">Jim Breuer: Hardcore</option>
-<option value="/tv_shows/thekidsinthehall/" class="navlinks" target="_parent">The Kids in the Hall</option>
-<!--<option value="/tv_shows/latenight" class="navlinks">Late Night</option>-->
-<option value="/tv_shows/conan/" class="navlinks">Late Night with Conan O'Brien</option>
-<option value="/tv_shows/letsbowl/" class="navlinks" target="_parent">Let's Bowl</option>
-<option value="/tv_shows/themanshow/" class="navlinks" target="_parent">The Man Show</option>
-<option value="/tv_shows/premiumblend/" class="navlinks" target="_parent">Premium Blend</option>
-<option value="/tv_shows/primetimeglick/" class="navlinks" target="_parent">Primetime Glick</option>
-<option value="/tv_shows/roast/" class="navlinks" target="_parent">Roast of Chevy Chase</option>
-<option value="/tv_shows/saturdaynightlive/" class="navlinks" target="_parent">Saturday Night Live</option>
-<option value="/tv_shows/southpark/" class="navlinks" target="_parent">South Park</option>
-<option value="/tv_shows/sportsnight/" class="navlinks" target="_parent">Sports Night</option>
-<option value="/tv_shows/strangerswithcandy/" class="navlinks" target="_parent">Strangers with Candy</option>
-<option value="/tv_shows/stripmall/" class="navlinks" target="_parent">Strip Mall</option>
-<option value="/tv_shows/sweetspot/" class="navlinks" target="_parent">The Sweet Spot</option>
-<option value="/tv_shows/thatsmybush/" class="navlinks" target="_parent">That's My Bush!</option>
-<option value="/tv_shows/colinquinn/" class="navlinks" target="_parent">Tough Crowd with Colin Quinn</option>
-<option value="/tv_shows/onemic/" class="navlinks" target="_parent">Tracy Morgan: One Mic</option>
-<option value="/tv_shows/travelsick/" class="navlinks" target="_parent">Travel Sick</option>
-<option value="/tv_shows/triggerhappytv/" class="navlinks" target="_parent">Trigger Happy TV</option>
-<option value="/tv_shows/tvfunhouse/" class="navlinks" target="_parent">TV Funhouse</option>
-<option value="/tv_shows/undergrads/" class="navlinks" target="_parent">Undergrads</option>
-<option value="/tv_shows/wandasykes" class="navlinks" target="_parent">Wanda Sykes: Tongue Untied</option>
-<option value="/tv_shows/wanderlust/" class="navlinks" target="_parent">Wanderlust</option>
-<option value="/tv_shows/whoselineisitanyway/" class="navlinks" target="_parent">Whose Line Is It Anyway?</option>
-<option value="/tv_shows/winbensteinsmoney/" class="navlinks" target="_parent">Win Ben Stein's Money</option>
-<option value="/tv_shows/worldcomedytour/" class="navlinks" target="_parent">World Comedy Tour</option>
-<option>&nbsp;</option>
-<option value="/standup/" target="_parent">STAND-UP</option>
-<option value="/tv_shows/bookofdavid/" class="navlinks" target="_parent">The Book of David</option>
-<option value="/tv_shows/comedycentralpresents/" class="navlinks" target="_parent">Comedy Central Presents</option>
-<option value="/standup/ccstage" class="navlinks" target="_parent">Comedy Central Stage</option>
-<option value="/standup/fridaynightstandup/" class="navlinks" target="_parent">Friday Night Stand-Up</option>
-<option value="/webshows/impv/" class="navlinks" target="_parent">Improv</option>
-<!-- <option value="/standup/lightenup/" class="navlinks" target="_parent">Jim Breuer: The Lighten Up Tour</option> -->
-<option value="/laughriots/" class="navlinks" target="_parent">Laugh Riots</option>
-<option value="/tv_shows/premiumblend/" class="navlinks" target="_parent">Premium Blend</option>
-<option value="/rxlaughter/" class="navlinks" target="_parent">Rx Laughter</option>
-<option value="/webshows/spot/" class="navlinks" target="_parent">Spotlight</option>
-<option value="/standup/central/" class="navlinks" target="_parent">Stand-Up Central</option>
-<option value="/standup/templates/?s=uso" class="navlinks" target="_parent">USO</option>
-<option>&nbsp;</option>
-<option value="/timewasters/" target="_parent">TIMEWASTERS</option>
 
-<option value="/timewasters/comedycapsule/" class="navlinks" target="_parent">Comedy Capsule</option>
-<option value="/timewasters/downloads.jhtml" class="navlinks" target="_parent">Downloads</option>
-<option value="/ecards/" target="_parent">Get Carded!</option>
-<option value="/timewasters/joke-of-the-day/" class="navlinks" target="_parent">Joke of the Day</option>
-<option value="http://www.jokes.com" class="navlinks" target="_parent">Jokes.com</option>
-<option value="/timewasters/kc/" class="navlinks" target="_parent">Karma Central</option>
-<option value="/timewasters/masterwaster/" class="navlinks" target="_parent">Masterwaster Competition</option>
-<option value="/timewasters/screensavers.jhtml" class="navlinks" target="_parent">Screensavers</option>
-<option>&nbsp;</option>
-<option value="/community/" target="_parent">COMMUNITY</option>
-<option value="/community/chat.jhtml" class="navlinks" target="_parent">Chat Transcripts</option>
-<option value="/community/" class="navlinks" target="_parent">Member Directory Search</option>
-<option value="/community/index.jhtml?goto=boards" class="navlinks" target="_parent">Message Boards</option>
-<option value="/community/newsletters.jhtml" class="navlinks" target="_parent">Newsletters</option>
-<option value="/community/rick/" class="navlinks" target="_parent">R#ck's Sh#t L#st</option>
-<option>&nbsp;</option>
-<option value="/timewasters/games.jhtml" target="_parent">GAMES</option>
-<option value="/splurge/" target="_parent">ABFAB Splurge</option>
-<option value="/tv_shows/battlebots/battlebotsDCR.jhtml" target="_parent">BattleBots: Metal Breakdown</option>
-<option value="/tv_shows/beatthegeeks/index.jhtml" target="_parent">Beat the Geeks Cyber Trivia</option>
-<option value="/tv_shows/beatthegeeks/index.jhtml" target="_parent">Beat the Geeks Daily Geek Challenge</option>
-<option value="/tv_shows/crankyankers/" target="_parent">Crank Yankers Yanker Go Home!</option>
-<option value="/tv_shows/roast/game.jhtml" target="_parent">Friar Power</option>
-<option value="/tv_shows/insomniac/game/index.jhtml" target="_parent">Insomniac: Bar Hopper</option>
-<option value="/tv_shows/insomniac/paperdoll.jhtml" target="_parent">Insomniac: My Dirty Dave Attell Doll</option>
-<option value="/tv_shows/letsbowl/games.jhtml" target="_parent">Let's Bowl Ball Chuckin' Challenge </option>
-<option value="/tv_shows/letsbowl/games.jhtml" target="_parent">Let's Bowl Ten Frames of Fury </option>
-<option value="/tv_shows/comedycentralmovies/" target="_parent">Movie Trivia</option>
-<option value="/southparkgames/animal/" target="_parent">South Park Wild Animal Thumb Jam </option>
-<option value="/southparkgames/askchef/" target="_parent">South Park Ask Chef </option>
-<option value="/southparkgames/evil/" target="_parent">South Park Cartman vs. Evil Cartman </option>
-<option value="/southparkgames/dodgeball/" target="_parent">South Park Dodgeball </option>
-<option value="/southparkgames/playset/" target="_parent">South Park Mr. Hankey Construction Set</option>
-<option value="/southparkgames/mecha/" target="_parent">South Park Mecha Smash </option>
-<option value="/southparkgames/shootup/" target="_parent">South Park Jimbo's Shooting Gallery </option>
-<option value="/southparkgames/pinball/" target="_parent">South Park Pinball</option>
-<option value="/southparkgames/rescue/" target="_parent">South Park Rainforest Rescue</option> 
-<option value="/southparkgames/slider/" target="_parent">South Park Sliders</option>
-<option value="/tv_shows/southpark/timmay/" target="_parent">South Park Timmy Game</option>
-<option value="/tv_shows/sweetspot/game.jhtml" target="_parent">Sweet Spot Hack Attack!</option>
-<option value="/tv_shows/themanshow/formenonly.jhtml" target="_parent">The Man Show Bar Darts </option>
-<option value="/tv_shows/themanshow/formenonly.jhtml" target="_parent">The Man Show Decoder </option>
-<option value="/tv_shows/themanshow/formenonly.jhtml" target="_parent">The Man Show Juggy's Wild Poker </option>
-<option value="/southparkgames/whatswrong/" target="_parent">There's Something Wrong in South Park</option> 
-<option value="/tv_shows/triggerhappytv/games.jhtml" target="_parent">Trigger Happy Whack-A-Fuzzy</option>
-<option value="/tv_shows/tvfunhouse/game.jhtml" target="_parent">TV Funhouse Flush Hojo </option>
-<option value="/tv_shows/winbensteinsmoney/game/flash" target="_parent">Win Ben Stein's Cybermoney</option>
-</select></font>
+
+
+
+
+
+
 </td>
-      
-		<td colspan="2">
-			<img src="/includes/images/home-nav-27.gif" width="9" height="27"></td>
-		<td>
-			<img src="/includes/images/spacer.gif" width="1" height="27"></td>
-			
+                </tr>
+                <tr>
+                    <td bgcolor="#01023B"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt="" border="0"></td>
+                    <td bgcolor="#FEBB2F"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt="" border="0"></td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+	<tr>
+        <td bgcolor="#02023B" rowspan="10"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt=""></td>
+
+		<td colspan="15" bgcolor="#FEBA2F"><img src="http://images.comedycentral.com/spacer.gif" width="736" height="9" alt=""></td>
+
 	</tr>
+	<tr>
+		<td rowspan="8" valign="top" bgcolor="#FEBA2F"><a href="/"><img src="http://images.comedycentral.com/includes/flexnav/nav_03.gif" width="118" height="124" alt="" border="0"></a></td>
+		<td colspan="13" bgcolor="#FEBA2F"><img src="http://images.comedycentral.com/spacer.gif" width="601" height="9" alt=""></td>
+		<td>
+			<img src="http://images.comedycentral.com/includes/flexnav/nav_04.gif" width="17" height="9" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<a href="/tv_shows/" onmouseover="changeImages('nav_05', 'nav_22_o.gif'); return true;" onmouseout="changeImages('nav_05', 'nav_05.gif'); return true;">
+				<img name="nav_05" src="http://images.comedycentral.com/includes/flexnav/nav_05.gif" width="70" height="14" border="0" alt=""></a></td>
+		<td>
+			<a href="/games/" onmouseover="changeImages('nav_06', 'nav_23_o.gif'); return true;" onmouseout="changeImages('nav_06', 'nav_06.gif'); return true;">
+				<img name="nav_06" src="http://images.comedycentral.com/includes/flexnav/nav_06.gif" width="51" height="14" border="0" alt=""></a></td>
+		<td>
+			<a href="http://jokes.com/" onmouseover="changeImages('nav_07', 'nav_24_o.gif'); return true;" onmouseout="changeImages('nav_07', 'nav_07.gif'); return true;">
+				<img name="nav_07" src="http://images.comedycentral.com/includes/flexnav/nav_07.gif" width="48" height="14" border="0" alt=""></a></td>
+		<td>
+			<a href="/timewasters/" onmouseover="changeImages('nav_08', 'nav_25_o.gif'); return true;" onmouseout="changeImages('nav_08', 'nav_08.gif'); return true;">
+				<img name="nav_08" src="http://images.comedycentral.com/includes/flexnav/nav_08.gif" width="94" height="14" border="0" alt=""></a></td>
+		<td colspan="2">
+			<a href="/standup/" onmouseover="changeImages('nav_09', 'nav_26_o.gif'); return true;" onmouseout="changeImages('nav_09', 'nav_09.gif'); return true;">
+				<img name="nav_09" src="http://images.comedycentral.com/includes/flexnav/nav_09.gif" width="68" height="14" border="0" alt=""></a></td>
+		<td>
+			<a href="/community/" onmouseover="changeImages('nav_10', 'nav_27_o.gif'); return true;" onmouseout="changeImages('nav_10', 'nav_10.gif'); return true;">
+				<img name="nav_10" src="http://images.comedycentral.com/includes/flexnav/nav_10.gif" width="65" height="14" border="0" alt=""></a></td>
+		<td colspan="3">
+			<a href="/shop/" onmouseover="changeImages('nav_11', 'nav_28_o.gif'); return true;" onmouseout="changeImages('nav_11', 'nav_11.gif'); return true;">
+				<img name="nav_11" src="http://images.comedycentral.com/includes/flexnav/nav_11.gif" width="33" height="14" border="0" alt=""></a></td>
+		<td rowspan="7"><img src="/includes/flexnav/nav_12.gif" width="26" height="115" alt=""></td>
+		<td width="146" height="115" rowspan="7" bgcolor="#00013B"><div style="height: 113px; width: 146px; overflow: hidden;" id="theshop"><table width="146" border="0" cellpadding="0" cellspacing="0">
+
+
+
+
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<tbody><tr><td align="center" colspan="2"><div id="nshoptitle">THE MAN SHOW:  SEASON 1, VOLUME 2 DVD SET</div></td></tr><tr><td class="nshopimage" valign="top"><a target="_newwin_" href="http://shop.comedycentral.com/product/index.jsp?productId=1423677&amp;cp=1080341&amp;parentPage=family"><img align="left" border="0" height="75" width="75" src="/shop/tout/images/shop-ManShow-Season1v2.jpg " alt="Join in their chauvinistic celebration of all things male."></a></td><td class="nshopdesc" valign="top"><a target="_newwin_" href="http://shop.comedycentral.com/product/index.jsp?productId=1423677&amp;cp=1080341&amp;parentPage=family" class="nshopdesc">Join in their chauvinistic celebration of all things male.</a></td></tr><tr><td valign="bottom" align="right"><a target="_newwin_" href="http://shop.comedycentral.com/product/index.jsp?productId=1423677&amp;cp=1080341&amp;parentPage=family" onmouseover="changeImages('nav_buy', 'gifs/nav_buyitnow_roll.gif'); return true;" onmouseout="changeImages('nav_buy', 'gifs/nav_buyitnow.gif'); return true;"><img name="nav_buy" border="0" src="/includes/flexnav/gifs/nav_buyitnow.gif"></a></td><td class="nshopprice" valign="bottom" align="center"><a target="_newwin_" href="http://shop.comedycentral.com/product/index.jsp?productId=1423677&amp;cp=1080341&amp;parentPage=family" class="nshopprice">$29.97</a></td></tr>
+
+
+
+
+
+
+
+
+
+</tbody></table></div></td>
+		<td rowspan="7">
+			<img src="http://images.comedycentral.com/includes/flexnav/nav_13.gif" width="17" height="115" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="11">
+			<img src="http://images.comedycentral.com/includes/flexnav/nav_14.gif" width="429" height="10" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3" valign="top" bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/includes/flexnav/nav_15.gif" width="33" height="54" alt=""></td>
+		<td colspan="9" bgcolor="#00013B">
+			<img src="http://images.comedycentral.com/includes/flexnav/nav_16.gif" width="384" height="3" alt=""></td>
+		<td rowspan="3" valign="top" bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/includes/flexnav/nav_17.gif" width="12" height="54" alt=""></td>
+	</tr>
+	<tr>
+		<td bgcolor="#00013b" width="383" height="35" colspan="8"><!--SCHEDULE MODULE GOES HERE--><div id="schedule" style="position:relative;">    <table cellspacing="0" cellpadding="0" width="383" border="0">
+        <tbody><tr>
+
+
+
+
+
+
+
+
+            <td width="2" height="35"><img src="/includes/nav/spacer.gif" width="2" height="1" alt=""></td>
+            <td valign="top" width="93" height="35">
+      
+<a href="/tv_shows/crankyankers" class="schedtitle">
+
+
+                <!-- <a href="/tv_shows/`cleanString.toLowerCase()`/" class="schedtitle"> -->
+<span class="schedtime">
+8:30<small>PM</small></span><br>
+
+Crank Yankers
+  </a>
+  <!-- <span class="schedtitle"> --><!-- </span> -->
+  
+  
+  </td>
+		
+        
+
+
+            <td width="2" height="35"><img src="/includes/nav/spacer.gif" width="2" height="1" alt=""></td>
+            <td valign="top" width="93" height="35">
+      
+<a href="/tv_shows/insomniacwithdaveattell" class="schedtitle">
+
+
+                <!-- <a href="/tv_shows/`cleanString.toLowerCase()`/" class="schedtitle"> -->
+<span class="schedtime">
+9:00<small>PM</small></span><br>
+
+Insomniac with Dave Attell
+  </a>
+  <!-- <span class="schedtitle"> --><!-- </span> -->
+  
+  
+  </td>
+		
+        
+
+
+            <td width="2" height="35"><img src="/includes/nav/spacer.gif" width="2" height="1" alt=""></td>
+            <td valign="top" width="93" height="35">
+      
+<a href="/tv_shows/southpark" class="schedtitle">
+
+
+                <!-- <a href="/tv_shows/`cleanString.toLowerCase()`/" class="schedtitle"> -->
+<span class="schedtime">
+9:30<small>PM</small></span><br>
+
+South Park
+  </a>
+  <!-- <span class="schedtitle"> --><!-- </span> -->
+  
+  
+  </td>
+		
+        
+
+
+            <td width="2" height="35"><img src="/includes/nav/spacer.gif" width="2" height="1" alt=""></td>
+            <td valign="top" width="93" height="35">
+      
+<a href="/tv_shows/southpark" class="schedtitle">
+
+
+                <!-- <a href="/tv_shows/`cleanString.toLowerCase()`/" class="schedtitle"> -->
+<span class="schedtime">
+10:00<small>PM</small></span><br>
+
+South Park
+  </a>
+  <!-- <span class="schedtitle"> --><!-- </span> -->
+  
+  
+  </td>
+		
+        
+			
+        </tr>
+    </tbody></table>
+    
+</div></td>
+		<td bgcolor="#00013B"><img src="http://images.comedycentral.com/includes/flexnav/nav_18.gif" width="1" height="35" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="5" bgcolor="#00013B">
+			<img src="http://images.comedycentral.com/spacer.gif" width="276" height="13" alt=""></td>
+		<td colspan="4" bgcolor="#00013B"><a href="/tv_shows/tv_schedule.jhtml" onmouseover="changeImages('nav_19', 'nav_29_o.gif'); return true;" onmouseout="changeImages('nav_19', 'nav_19.gif'); return true;">
+				<img name="nav_19" src="http://images.comedycentral.com/includes/flexnav/nav_19.gif" width="108" height="13" border="0" alt=""></a></td>
+	</tr>
+	<tr>
+		<td colspan="11" align="center" bgcolor="#FEBA2F" class="nticker"><a href="http://ad.doubleclick.net/clk;6533647;8373484;w?http://shop.newline.com/catalog/product.xml?product_id=13902;category_id=;pcid1=;pcid2=%n" target="_blank" class="nticker">Lord Of The Rings: The Two Towers on DVD available Now!</a>
+</td>
+	</tr>
+	<tr>
+		<td colspan="11" align="center" bgcolor="#FEBA2F">
+            <table width="400" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td colspan="3"><img src="http://images.comedycentral.com/includes/flexnav/gifs/nav_drop_top.gif" width="400" height="2" alt="" border="0"></td>
+                </tr>
+                <tr>
+                      <td align="right" bgcolor="#FEE380"><form action="/includes/flexnav/" name="tvjump" id="tvjump" style="display:inline;">
+<select name="shows" onchange="window.location.href=document.forms['tvjump'].shows.options[document.forms['tvjump'].shows.selectedIndex].value" style="font-size: 10px; height:15px; width:185px; padding:0px; padding-bottom:0px; background-color:#00013b; color: #ffffff;"><option value="/tv_shows/"> TV Shows </option>
+<option value="/tv_shows/">&nbsp;</option>
+<option value="/tv_shows/">---------------------------------</option>
+<option value="/tv_shows/">TV SHOWS MAIN</option>
+<option value="/tv_shows/">---------------------------------</option>
+<option value="/tv_shows/">&nbsp;</option>
+<option value="/tv_shows/absolutelyfabulous">Absolutely Fabulous</option>
+<option value="/tv_shows/beatthegeeks">Beat the Geeks</option>
+<option value="/tv_shows/benstiller">The Ben Stiller Show</option>
+<option value="/tv_shows/bookofdavid/">The Book of David</option>
+<option value="/tv_shows/chappellesshow">Chappelle's Show</option>
+<option value="/tv_shows/clerks">Clerks</option>
+<option value="/tv_shows/comedycentralmovies">Comedy Central Movies</option>
+<option value="/tv_shows/comedycentralmovies/pornandchicken/">&nbsp;&nbsp;Porn 'n Chicken</option>
+<option value="/tv_shows/comedycentralmovies/kneehighpi/">&nbsp;&nbsp;Knee High P.I.</option>
+<option value="/tv_shows/comedycentralmovies/windycityheat/">&nbsp;&nbsp;Windy City Heat</option>
+<option value="/tv_shows/comedycentralpresents">Comedy Central Presents</option>
+<option value="/tv_shows/roast">Comedy Central Roast of Denis Leary</option>
+<option value="/tv_shows/comicgroove">Comic Groove</option>
+<option value="/tv_shows/comicremix">Comic Remix</option>
+<option value="/tv_shows/commies">The Commies</option>
+<option value="/tv_shows/contestsearchlight">Contest Searchlight</option>
+<option value="/tv_shows/crankyankers">Crank Yankers</option>
+<option value="/tv_shows/thecritic">The Critic</option>
+<option value="/tv_shows/thedailyshowwithjonstewart">The Daily Show with Jon Stewart</option>
+<option value="/tv_shows/dilbert">Dilbert</option>
+<option value="/tv_shows/duckman">Duckman</option>
+<option value="/tv_shows/heroesofcomedywomen">Heroes of Comedy: Women on Top</option>
+<option value="/tv_shows/heroesofblackcomedy">Heroes of Black Comedy</option>
+<option value="/tv_shows/heroesofjewishcomedy/">Heroes of Jewish Comedy</option>
+<option value="/standup/fridaynightstandup">Friday Night Stand-Up</option>
+<option value="/tv_shows/garyandmike">Gary &amp; Mike</option>
+<option value="/tv_shows/imwithbusey">I'm With Busey</option>
+<option value="/tv_shows/insomniac">Insomniac with Dave Attell</option>
+<option value="/tv_shows/jimbreuer">Jim Breuer: Hardcore</option>
+<option value="/tv_shows/kidnotorious">Kid Notorious</option>
+<option value="/tv_shows/thekidsinthehall">The Kids in the Hall</option>
+<option value="/tv_shows/conan">Late Night with Conan O'Brien</option>
+<option value="/tv_shows/letsbowl">Let's Bowl</option>
+<option value="/tv_shows/themanshow">The Man Show</option>
+<option value="/tv_shows/comedycentralmovies/pornandchicken/">Porn 'n Chicken</option>
+<option value="/tv_shows/premiumblend">Premium Blend</option>
+<option value="/tv_shows/primetimeglick">Primetime Glick</option>
+<option value="/tv_shows/reno911">Reno 911!</option>
+<option value="/tv_shows/roast">Roast of Denis Leary</option>
+<option value="/tv_shows/saturdaynightlive">Saturday Night Live</option>
+<option value="/tv_shows/southpark">South Park</option>
+<option value="/tv_shows/sportsnight">Sports Night</option>
+<option value="/tv_shows/strangerswithcandy">Strangers with Candy</option>
+<option value="/tv_shows/sweetspot">The Sweet Spot</option>
+<option value="/thanx2003/">ThanXgiveaway</option>
+<option value="/tv_shows/thatsmybush">That's My Bush!</option>
+<option value="/tv_shows/colinquinn/">Tough Crowd with Colin Quinn</option>
+<option value="/tv_shows/onemic">Tracy Morgan: One Mic</option>
+<option value="/tv_shows/travelsick">Travel Sick</option>
+<option value="/tv_shows/triggerhappytv">Trigger Happy TV</option>
+<option value="/tv_shows/tvfunhouse">TV Funhouse</option>
+<option value="/tv_shows/undergrads">Undergrads</option>
+<option value="/standup/templates/?s=uso">USO Comedy Tour</option>
+<option value="/tv_shows/wandasykes">Wanda Sykes: Tongue Untied</option>
+<option value="/tv_shows/wanderlust">Wanderlust</option>
+<option value="/tv_shows/whoselineisitanyway">Whose Line Is It Anyway?</option>
+<option value="/tv_shows/winbensteinsmoney">Win Ben Stein's Money</option>
+<option value="/tv_shows/worldcomedytour/">World Comedy Tour</option>
+<option value="/tv_shows/">&nbsp;</option>
+</select></form></td>
+                      <td bgcolor="#FEE380"><img src="/images/spacer.gif" width="10" height="2" alt="" border="0"></td>
+                      <td align="left" bgcolor="#FEE380"><form action="/includes/flexnav/" name="restjump" id="restjump" style="display:inline;">
+<select name="thefun" onchange="window.location.href=document.forms['restjump'].thefun.options[document.forms['restjump'].thefun.selectedIndex].value" style="font-size: 10px; height:15px; width:185px; padding:0px; padding-bottom:0px; background-color:#00013b; color: #ffffff;"><option selected=""> Games, Timewasters &amp; more</option>
+<option value="/timewasters/games.jhtml">&nbsp;</option>
+<option value="/timewasters/games.jhtml">---------------------------------</option>
+<option value="/timewasters/games.jhtml">GAMES MAIN</option>
+<option value="/timewasters/games.jhtml">---------------------------------</option>
+<option value="/timewasters/games.jhtml">&nbsp;</option>
+<option value="/splurge/">Ab Fab Splurge</option>
+<option value="http://www.comedycentral.com/tv_shows/beatthegeeks/challenge.jhtml">Beat the Geeks: Cyber Trivia</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/crankyankers/game/final04.swf">Crank Yankers: Yanker Go Home!</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/thedailyshowwithjonstewart/games/nwshunter.dcr&amp;gametype=GSHOCK">The Daily Show News Hunter</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/insomniac/game/insomniac_preloader.swf">Insomniac: Bar Hopper</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/insomniac/paperdoll.swf">Insomniac: My Dirty Dave Attell Doll</option>
+<option value="/tv_shows/letsbowl/games.jhtml">Let's Bowl Ball Chuckin' Challenge </option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/letsbowl/bowl7lite.dcr">Let's Bowl: Ten Frames of Fury </option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/themanshow/games/tms_darts.swf">The Man Show Bar Darts </option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tmspoker/TMSPoker.swf">The Man Show Juggy's Wild Poker </option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/reno911/game/shootinggallery.swf">Reno 911! Shooting Gallery</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/roast/draft.swf">Roast Game</option>
+<option value="/southparkgames/askchef/">South Park Ask Chef </option>
+<option value="/southparkgames/evil/">South Park Cartman vs. Evil Cartman </option>
+<option value="http://southparkstudios.com/games/create.html" target="_blank">South Park Create A Character</option>
+<option value="/southparkgames/dodgeball/">South Park Dodgeball </option>
+<option value="/southparkgames/shootup/">South Park Jimbo's Shooting Gallery </option>
+<option value="/southparkgames/playset/">South Park Mr. Hankey Construction Set</option>
+<option value="/southparkgames/mecha/">South Park Mecha Smash </option>
+<option value="/southparkgames/pinball/">South Park Pinball</option>
+<option value="/southparkgames/rescue/">South Park Rainforest Rescue</option> 
+<option value="/southparkgames/slider/">South Park Sliders</option>
+<option value="/tv_shows/southpark/timmay/">South Park Timmy Game</option>
+<option value="/southparkgames/animal/">South Park Wild Animal Thumb Jam </option>
+<option value="/southparkgames/whatswrong/">South Park: Something Wrong in South Park</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/sweetspot/sweetspot.swf">Sweet Spot: Hack Attack!</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/triggerhappytv/trigger_wack_v2.swf">Trigger Happy: Whack-A-Fuzzy</option>
+<option value="/tv_shows/tvfunhouse/game.jhtml">TV Funhouse: Flush Hojo </option>
+<option value="/tv_shows/winbensteinsmoney/game/flash">Win Ben Stein's Cybermoney</option>
+<option value="/timewasters/games.jhtml">&nbsp;</option>
+<option value="/timewasters/games.jhtml">---------------------------------</option>
+<option value="/timewasters/games.jhtml">QUIZZES MAIN</option>
+<option value="/timewasters/games.jhtml">---------------------------------</option>
+<option value="/timewasters/games.jhtml">&nbsp;</option>
+<option value="/tv_shows/beatthegeeks/index.jhtml">Beat the Geeks: Daily Geek Challenge</option>
+<option value="/tv_shows/chappellesshow/quiz.jhtml">Chappelle's Show: Bullsh*t Factor</option>
+<option value="/tv_shows/themanshow/games/">The Man Show Decoder </option>
+<option value="/tv_shows/reno911/quiz.jhtml">Reno 911! Psych Test</option>
+<option value="/timewasters/games.jhtml">&nbsp;</option>
+<option value="/timewasters/">---------------------------------</option>
+<option value="/timewasters/">TIMEWASTERS MAIN</option>
+<option value="/timewasters/">---------------------------------</option>
+<option value="/timewasters/">&nbsp;</option>
+<option value="/timewasters/comedycapsule/">Comedy Capsule</option>
+<option value="/ccrecords">CC Records</option>
+<option value="/timewasters/downloads.jhtml">Downloads</option>
+<option value="/ecards/">Get Carded!</option>
+<option value="/timewasters/joke-of-the-day/">Joke of the Day</option>
+<option value="http://www.jokes.com">Jokes.com</option>
+<option value="/timewasters/kc/">Karma Central</option>
+<option value="/timewasters/screensavers.jhtml">Screensavers</option>
+<option value="/thanx2003/">ThanXgiveaway</option>
+<option value="/timewasters/">&nbsp;</option>
+<option value="/community/">---------------------------------</option>
+<option value="/community/">COMMUNITY MAIN</option>
+<option value="/community/">---------------------------------</option>
+<option value="/community/">&nbsp;</option>
+<option value="/community/chat.jhtml">Chat Transcripts</option>
+<option value="/community/">Member Directory Search</option>
+<!-- <option value="/community/index.jhtml?goto=boards">Message Boards</option> -->
+<option value="/community/newsletters.jhtml">Newsletters</option>
+<option value="/community/">&nbsp;</option>
+<option value="/standup/">---------------------------------</option>
+<option value="/standup/">STAND-UP MAIN</option>
+<option value="/standup/">---------------------------------</option>
+<option value="/standup/">&nbsp;</option>
+<option value="/tv_shows/bookofdavid/">The Book of David</option>
+<option value="/cclive/">Comedy Central Live</option>
+<option value="/tv_shows/comedycentralpresents/">Comedy Central Presents</option>
+<option value="/standup/ccstage">Comedy Central Stage</option>
+<option value="/standup/fridaynightstandup/">Friday Night Stand-Up</option>
+<option value="/tv_shows/housearrest/">House Arrest</option>
+<option value="/laughriots/">Laugh Riots</option>
+<option value="/standup/noclass/">No Class Comedy Tour</option>
+<option value="/tv_shows/premiumblend/">Premium Blend</option>
+<option value="/rxlaughter/">Rx Laughter</option>
+<option value="/webshows/spot/">Spotlight</option>
+<option value="/standup/central/">Stand-Up Central</option>
+<option value="/standup/templates/?s=uso">USO</option>
+<option value="/tv_shows/worldcomedytour/">World Comedy Tour</option>
+<option value="/standup/">&nbsp;</option>
+</select>
+</form></td>
+                </tr>
+                <tr>
+                    <td colspan="3"><img src="http://images.comedycentral.com/includes/flexnav/gifs/nav_drop_bottom.gif" width="400" height="2" alt="" border="0"></td>
+                </tr>
+            </tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="15" bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="736" height="9" alt=""></td>
+	</tr>
+	<tr>
+		<td bgcolor="#02023B">
+			<img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="118" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="33" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="37" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="51" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="48" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="94" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="46" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="22" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="65" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="20" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="1" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+			<img src="http://images.comedycentral.com/spacer.gif" width="12" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+	<img src="http://images.comedycentral.com/spacer.gif" width="26" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+	<img src="http://images.comedycentral.com/spacer.gif" width="146" height="1" alt=""></td>
+		<td bgcolor="#FEBA2F">
+	<img src="http://images.comedycentral.com/spacer.gif" width="17" height="1" alt=""></td>
+   	</tr>
 </tbody></table>
 
 
 
 
-	
-
-
-
 <table width="745" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td valign="top" align="right">
+    <td valign="top" align="right"><img src="/images/spacer.gif" width="13" height="13" border="0" alt=""><br>
       <table width="617" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td><img src="/images/privacy-header.gif" width="617" height="44"></td>
@@ -627,22 +889,47 @@ To remove your name from the Comedy Central database entirely including, but not
         </tr>
       </tbody></table>
     </td>
-    <td width="125" align="right" valign="top"><br>        <!-- skyscraper include -->
-	
-		
-  
-                <a href="/tv_shows/toughcrowd/"><img src="/htmlrepos/ads/skyscraper/scrapers/toughcrowd_120x600.gif" alt="Tough Crowd!" border="0"></a>
-        
+    <td width="125" align="right" valign="top">
 
 
 
 
 
 
-	
+
+
+<a href="/tv_shows/saturdaynightlive/greatest/?_requestid=236520"><img src="/includes/ads/skyscraper/scrapers/snl_120x600.gif" alt="SNL Greatest" border="0"></a>
+
+
+
+
+
+
+
 </td>
   </tr>
 </tbody></table><br>
+<style type="text/css">
+.footer {font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; color: #000000; line-height: 150%}
+A.footer:LINK {font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; color: #01023B; text-decoration: none; line-height: 150%}
+A.footer:VISITED {font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; color: #01023B;text-decoration: none; line-height: 150%}
+A.footer:ACTIVE {font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; color: #21225B;text-decoration: none; line-height: 150%}
+A.footer:HOVER {font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; color: #21225B;text-decoration: none; line-height: 150%}
+</style>
+<table width="745" border="0" cellpadding="0" cellspacing="0">
+   <tbody><tr>
+        <td bgcolor="#01023B"><img src="http://images.comedycentral.com/includes/images/spacer.gif" width="9" height="9" alt="" border="0"></td>
+        <td valign="bottom" bgcolor="#01023B"><img src="http://images.comedycentral.com/includes/images/footer_left.gif" width="12" height="52" alt="" border="0"></td>
+        <td bgcolor="#FEBB2F" align="center" valign="middle" width="712" class="footer"><span class="footer"><a href="/index.jhtml" class="footer">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/help.jhtml" class="footer">Help/FAQ</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/privacy.jhtml" class="footer">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/terms.jhtml" class="footer">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/jobs/" class="footer">Job Postings</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/mediakit/" class="footer">Advertising</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="Javascript:openpopWindow('/g2b/intro.html','g2bwin','width=600,height=468,scrollbars=yes')" class="footer">Get Broadband</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="javascript:openpopWindow('/registration/index_expanded.jhtml?getcc=yes&amp;destination=%2Findex.jhtml','reg','width=444,height=400,scrollbars=yes')" class="footer">Get Comedy Central</a></span><br><span class="footer">Copyright © 1995–2003 Comedy Central. All rights reserved.</span>
+        </td>
+        <td valign="bottom" bgcolor="#01023B"><img src="http://images.comedycentral.com/includes/images/footer_right.gif" width="12" height="52" alt="" border="0"></td>
+    </tr>
+    <tr>
+        <td colspan="4" bgcolor="#01023B"><img src="http://images.comedycentral.com/includes/images/spacer.gif" width="1" height="13" alt="" border="0"></td>
+    </tr>
+</tbody></table>
+
+
 
 <style type="text/css">
 .footerbg {background:#feba2f}
@@ -651,50 +938,10 @@ To remove your name from the Comedy Central database entirely including, but not
 </style>
 
 
- 
-
-<table width="745" border="0" cellspacing="0" height="50" cellpadding="0" background="/includes/images/homepage-bottombar.gif">
-<tbody><tr><td align="center" valign="middle" height="25"><span class="footercopy"><a href="/index.jhtml" class="footercopy">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/help.jhtml" class="footercopy">Help/FAQ</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/privacy.jhtml" class="footercopy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/terms.jhtml" class="footercopy">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/jobs/" class="footercopy">Job Postings</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/mediakit/" class="footercopy">Advertising</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="Javascript:openpopWindow('/g2b/intro.html','g2bwin','width=600,height=468,scrollbars=yes')" class="footercopy">Get Broadband</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="javascript:openpopWindow('/registration/index_expanded.jhtml?getcc=yes&amp;destination=%2Findex.jhtml','reg','width=444,height=400,scrollbars=yes')" class="footercopy">Get Comedy Central</a></span><br><span class="copyright">Copyright © 1995–2003 Comedy Central. All rights reserved.</span></td></tr>
-</tbody></table>
-
-<!-- more DC stuff to figure subsections out -->
 
 
 
 
-
-		
-
- <!--DoubleClick  SS dart Ad BEGIN--> 
-<script language="JavaScript1.1">
-
-
-
-
-
-
-var adlink = "ccmain";
-var superpage = "homepage";
-var ransup = "1234946181";
-//var axel = Math.random() + "";
-//var rannum = axel * 1000000000000000000;
-//document.write('<script language="Javascript1.1" src="http://ad.doubleclick.net/adj/' + adlink + '.superstitial/' + superpage + ';dcopt=ist;abr=!webtv;sz=1x1;ord=' + rannum + '?"><\/script>');
-
-</script>
-
-
-
-
-
-<script src="/global.js"></script>
-
-<script>
-function SetMountainDewCookie()
-{
-	document.cookie ="mountaindew=shown";
-
-}
-</script>
 
 
 
