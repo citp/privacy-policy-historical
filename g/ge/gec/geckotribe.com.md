@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606212909id_/http%3A//www.geckotribe.com/info/policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204094717id_/http%3A//www.geckotribe.com/info/policy.php3) for the most accurate reproduction.*
 
 # Gecko Tribe, LLC Privacy & Content Policies
 
-|  [](http://doodle.geckotribe.com/postcard/)  
+[](http://doodle.geckotribe.com/doodle_gear/)[](http://www.geckotribe.com/gift_registry/)  
 ---  
   
 Gecko Tribe, LLC Policy Page   
