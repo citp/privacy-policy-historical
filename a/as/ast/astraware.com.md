@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the astraware.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609131855id_/http%3A//www.astraware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astraware.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205011946id_/http%3A//www.astraware.com/privacy) for the most accurate reproduction.*
 
 # Astraware: Privacy Policy
 
-  
 |  |    
 
 
@@ -43,4 +42,4 @@ We may disclose personal information when required by law or in the good-faith b
 If you have any questions, concerns or comments, please e-mail [privacy@astraware.com](mailto:privacy@astraware.com).
 
   
-
+| 
