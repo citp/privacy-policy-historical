@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132105id_/http%3A//www.knowledgehound.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgehound.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204233736id_/http%3A//www.knowledgehound.com/privacy.htm) for the most accurate reproduction.*
 
 # Knowledge Hound Website Privacy Policy
 
@@ -14,17 +14,16 @@ We may display advertisements from individual advertisers, third party ad networ
 
 For the privacy policies of our advertisers, see the links below: 
 
+[Google](http://www.google.com/privacy.html)  
 [Fastclick](http://www.fastclick.com/about/privacy2.html)
-
-[Pre-Paid Legal Services](http://www.prepaidlegal.com/scripts/odb-get?wit_Template=INDEX&Session=0&Content=PRIVACY_POLICY_DEFAULT)
 
 Knowledge Hound publishes a monthly newsletter called '[One Smart Puppy](https://web.archive.org/newsltr/newslett.htm)'. You may view our Newsletter Privacy Policy [here](https://web.archive.org/newsltr/nprivacy.htm). 
 
 Should changes occur at Knowledge Hound that affect this policy, we will update this document to reflect the changes. Thanks for being our visitor! 
 
-[Return to main page](https://web.archive.org/web/20041204132105id_/http%3A//www.knowledgehound.com/index.htm)
+[Return to main page](https://web.archive.org/web/20050204233736id_/http%3A//www.knowledgehound.com/index.htm)
 
 [Contact Us](mailto:khound@knowledgehound.com)
 
-© Copyright 1997-2004 by Knowledge Hound, LLC.  
+© Copyright 1997-2005 by Knowledge Hound, LLC.  
 All rights reserved.
