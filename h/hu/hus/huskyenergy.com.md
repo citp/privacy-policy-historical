@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603013956id_/http%3A//www.huskyenergy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huskyenergy.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204201034id_/http%3A//www.huskyenergy.com/privacy.asp) for the most accurate reproduction.*
 
 # Husky Energy
 
