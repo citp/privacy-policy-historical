@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dcons.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602090809id_/http%3A//dcons.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcons.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214075132id_/http%3A//www.dcons.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - www.dcons.com
+# Privacy Policy
 
   
 Datacons Private Limited recognises privacy and security as being a concern for most individuals accessing the Internet. Whether you're buying one of our quality products, or just browsing our site, we want to make you comfortable with our privacy policy and the security measures we take to protect your personal information.The following policy will give you a better understanding of what we do towards security: 
