@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603085939id_/http%3A//www.modells.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbody_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207053228id_/http%3A//www.modells.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbody_privacy_txt) for the most accurate reproduction.*
 
 # Modell's Helpdesk
 
