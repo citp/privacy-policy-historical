@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203192400id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603230219id_/http%3A//www.strang.com/statement.html) for the most accurate reproduction.*
 
 # Strang Communications Online
 
 | GET CONNECTED  
 ---  
+[Free Newsletters](http://www.strang.com/newsletters.php)  
 [Subscribe Online](http://www.strang.com/offer.htm)  
 [Chat Now!](http://www.christianlife.com/chat)  
 [Interactive Forums](http://forums.strang.com/)  
@@ -11,7 +12,6 @@
 [Today's Devotional](http://www.strang.com/devbgwin.htm)  
 [Women's Devotional](http://www.spiritledwoman.com/devotional/)  
 [ChristianLife.com](http://www.christianlife.com/)  
-[Your Local Weather](http://www.charismanews.com/weather/)  
 [Conference Listings](http://www.strang.com/conference/topics)  
   
 HELP DESK  
@@ -31,23 +31,18 @@ SPECIAL EVENTS
 ---  
   
 Updated as of   
-December 3, 2000  
+June 3, 2001  
   
-**New Man Chat Event**  
-November 21 @ 9PM ET  
-Psychologist: Dr. Gary Oliver  
-Topic: Raising Sons, and Loving It!  
-[Chat Now](http://www.newmanmag.com/chat/)
+**New Man Event 2001**  
+Sponsored by New Man magazine  
+August 17-18, 2001  
+Peabody Hotel  
+International Drive  
+Orlando, FL  
+[More Information ](http://www.newmanmag.com/newman2001/)
 
-**Charisma Women's Conference**  
-April 19-21, 2001  
-Ocean Center Arena  
-Daytona Beach, Florida
-
-[More Information ](http://www.spiritledwoman.com/womensconference/)
-
-**CharismaLife Regional Conferences 2000**  
-2000 Schedule Various Locations Nationwide
+**CharismaLife Regional Conferences 2001**  
+2001 Schedule Various Locations Nationwide
 
 [More Information ](http://www.charismalife.com/services/conferences.htm)  
 |    
@@ -59,11 +54,11 @@ At Strang Communications, we are committed to protecting your privacy. We use th
 
 **What information do we collect? How will we use it?**
 
-  * When you sign up for our newsletters, we need to know your e-mail address. This allows us to send the information you requested. After signing up, you will be transferred to a separate page asking for your name, address, phone number, e-mail address and birth date.  We gather this information only to get a better understanding of who you are and better serve you. We may use your name in order to personalize communications we have with you. 
+  * When you sign up for our newsletters, we need to know your e-mail address, first and last name.   We gather this information only to get a better understanding of who you are and better serve you. We may use your name in order to personalize communications we have with you. 
   * When you sign up for a web-based (online) or print subscription online, we collect your name, address, phone number, payment information and e-mail address. This is done so we can send the issues to you by mail or grant you access to our online subscriber’s area.
-  * Us or our partners may also use the information collected to occasionally notify you about special promotions, events and products updates, services and special offers you may find valuable. If you would rather not receive this information, please send an email to [custsvc@strang.com](mailto:custsvc@strang.com). Make sure to list each newsletter you are signed up for and the appropriate e-mail address.
-  * We do not sell your personal information to others. However, we do rent our customer list of subscribers from our print magazine versions and offer our email lists availble to our partners. We may provide aggregate statistics about our customers, traffic patterns, and related demographic information to our partners, but these statistics will include no personally identifying information.
-  * Our site's registration, order and survey forms require users to give us contact information (like their name, email, and postal address), financial information (like their bank account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the these forms are used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the customer when necessary.
+  * Us or our partners may also use the information collected to occasionally notify you about special promotions, events and products updates, services and special offers you may find valuable. You must "opt-in" at [http://www.strang.com.account.php](http://www.strang.com.account.php/) in order to receive this information via email from our partners .
+  * We do not sell your personal information to others. However, we do rent our customer list of subscribers from our print magazine versions and offer our email lists availble to our partners of those subscriber whos have "opt-in." We may provide aggregate statistics about our customers, traffic patterns, and related demographic information to our partners, but these statistics will include no personally identifying information.
+  * Our site's registration, order and survey forms require users to give us contact information (like their name, email, and postal address), financial information (like their bank account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the these forms are used to ship purchases and information about our company. The customer's contact information is also used to get in touch with the you when necessary.
 
 
 
@@ -118,28 +113,15 @@ Lake Mary, FL 32746
 [custsvc@strang.com](mailto:custsvc@strang.com)
 
 **Your consent**  
-By using our Web site, you consent to the collection and use of this information by Strang Communications. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. ****
+By using our Web site, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email. ****
 
-**In summary**   
-We are committed to protecting your privacy. If you do not want to receive any announcements or special offers from us, send us an email at [custsvc@strang.com](mailto:custsvc@strang.com) or call our customer service dept. at (407)333-0600. Remember to list each of the e-mail accounts you have given us and what newsletters you have signup for.
-
-|  |  [](http://www.strang.com/offer.htm)   
+  
+|  |  [](http://www.newmanmag.com/newman2001/)  
+[](http://www.strang.com/offer.htm)   
 | FROM THE PAGES OF. . .  
 ---  
   
-December 3, 2000  
+June 3, 2001  
   
-|   
----  
-[](http://www.charismamag.com/)**[When Heaven Invaded Scotland](http://www.charismamag.com/issues/articledisplay.pl?&d=cm12009&MonthID=cm1200)**  
-A handful of intercessors in the Hebrides, off the coast of Scotland, came together to pray in the late 1940's. When God answered their prayers, revival swept the islands, and entire communities experienced the Holy Spirit's power.  
-[](http://www.newmanmag.com/)**[Dollars& Sense](http://www.newmanmag.com/issues/articledisplay.pl?&d=nm11006&MonthID=nm1100)**  
-Would God have us place our hard-earned money at risk in the stock market, or would this be poor stewardship?  
-[](http://www.ministriestoday.com/)**[You Don't Have to Struggle Alone](http://www.ministriestoday.com/issues/articledisplay.pl?&d=mt11001&MonthID=mt1100)**  
-Are you torn between the desire for friendship or mentorship and the fear of being vulnerable? In this excerpt from his new book, _Old Man New Man_ , Stephen Strang reveals the secrets to developing solid male friendships and finding capable mentors.  
-[](http://www.vidacristiana.com/)**[Hombre Nuevo](http://www.vidacristiana.com/issues/articledisplay.pl?&d=vc11006&MonthID=vc1100)**  
-  
-[](http://www.spiritledwoman.com/)**[Yours, Mine, And Ours](http://www.spiritledwoman.com/issues/articledisplay.pl?&d=slw120015&MonthID=slw1200)**  
-Blending families when divorced or widowed parents remarry can be a challenge. Here are some steps to take to help the process go smoothly.  
   
 
