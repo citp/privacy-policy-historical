@@ -1,0 +1,563 @@
+<!--The following is the downloaded HTML source of the bridges.org privacy policy that was archived on 2001-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010616172111id_/http%3A//www.bridges.org/general/privacy_policy.html) for the most accurate reproduction.-->
+
+<html><!-- #BeginTemplate "/Templates/front.dwt" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<!-- #BeginEditable "doctitle" --> 
+<title>bridges.org - privacy policy</title>
+<!-- #EndEditable --> 
+
+<meta name="keywords" content="digital divide, digital bridges, developing world, emerging economies, information and communications technology training, ICT, ICTs, information technology policy, information technology gap, teresa peters, global south, nonprofit organization, bridges.org, digital opportunity, technology education, newsletter">
+<meta name="description" content="Bridges.org, international nonprofit public policy organization, on international digital divide, information technology in developing countries, emerging economies">
+
+<!-- Address Netscape Bug of not handling bold with small characters properly-->
+<style type="text/css"> b {font-weight: 900;} </style>
+
+<script language="JavaScript">
+<!-- 
+ie   = (document.all) ? 1 : 0;
+ns   = (navigator.appName.indexOf("Netscape") >= 0 && parseFloat(navigator.appVersion) >= 4) ? 1 : 0;
+
+if (!ns)
+{ document.write('<STYLE TYPE="text/css"> b {font-weight: bold;} </STYLE>');}
+// --> 
+</script>
+
+<link rel="STYLESHEET" type="text/css" href="/stil.css">
+</head>
+
+<body bgcolor="white">
+
+<script language="JavaScript">
+
+<!--
+num_drops=10
+dropsloaded=0
+timerID=null
+default_status=""
+
+//get platform info
+agt=navigator.userAgent.toLowerCase();
+
+JDWMinNS4   = (navigator.appName.indexOf("Netscape") >= 0 && parseFloat(navigator.appVersion) >= 4) ? 1 : 0;
+JDWMinNS6   = (navigator.appName.indexOf("Netscape") >= 0 && parseFloat(navigator.appVersion) == 6) ? 1 : 0;
+JDWMinIE4   = (document.all) ? 1 : 0;
+JDWMinIE5   = (JDWMinIE4 && navigator.appVersion.indexOf("5.")  >= 0) ? 1 : 0;
+JDWMinIE55  = (JDWMinIE5 && navigator.appVersion.indexOf("5.5") >= 0) ? 1 : 0;
+ie = JDWMinIE4;
+ns = JDWMinNS4;
+mz   = (!document.all && document.getElementById);
+
+win=( (agt.indexOf("win")!=-1) || (agt.indexOf("16bit")!=-1) )
+mac=(agt.indexOf("mac")!=-1);
+        
+if (ie || mz) {
+visible = 'visible';
+hidden = 'hidden';
+}
+else
+{
+visible = 'show';
+hidden = 'hide';
+}
+        
+// Load the Button Images for the Menu.
+// NOTE - THE CONTAINER OF THIS LIBRARY SHOULD DEFINE "selected"
+        
+function loadGraphic(filename)
+{
+	var theGraphic = "http://www.bridges.org/images/" + filename;
+	if (menu_select==filename) { theGraphic += "_sel" };
+	var theTag = '<IMG SRC= "' + theGraphic + '.gif' + '"';
+    theTag += ' WIDTH="154" HEIGHT="20" BORDER="0" ALT="' + filename + ' button image">';
+    document.write(theTag);
+}
+
+//Tim's drop down menus v0.5
+
+function SW_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function setmenu(n,makevisible) {
+ 
+ submenu = SW_findObj('drop' + n);
+// makevisible = args[1];
+  
+      if (submenu.style) 
+       { submenu=submenu.style;} 
+		 
+ if (makevisible==0) 
+  {submenu.visibility = hidden;}
+ else 
+  {submenu.visibility = visible;} 
+}
+ 
+function repositionDiv(i) {
+
+        if(dropsloaded){
+				if (ns)
+				{ newwidth = document.width; 
+				  newsleft = -1; }	
+				else if (ie)
+				{ newwidth = document.body.clientWidth;
+				  newsleft = document.body.scrollLeft;}
+
+				if (newwidth == 680) 
+				{	newleft = 168;  }
+				else
+				{	newleft = ( newwidth - 680 ) / 2  + 168; }
+
+				//alert("newwidth = " + newwidth + " newleft = " + newleft + "scrolleft = " + newsleft);
+
+				submenu = SW_findObj('drop' + i);
+
+    
+				if (mz)
+					submenu.style.left = newleft;
+				else if (ns)
+					submenu.moveTo(newleft, submenu.top);
+				else if (ie)
+					submenu.style.pixelLeft = newleft;
+	
+		 
+        }
+}
+
+
+//this one drops the menu down
+function showdrop(num){
+        if(dropsloaded){
+                clearTimeout(timerID)
+                hideall()
+				repositionDiv(num);
+				setmenu(num, 1);
+                }
+        }
+
+
+//hides menus based on timeout
+function hidedrop(){
+        if(dropsloaded){
+                timerID=window.setTimeout('hideall()',300); return;
+                }
+        }
+
+
+
+//hide all of the menus
+function hideall(){
+        if(dropsloaded){
+                for(i=1;i<=num_drops;i++){
+
+						  setmenu(i, 0);
+                        }
+                }
+        }
+
+//keep the menu open if a user is trying to use it
+function keepdrop(){
+        if(dropsloaded){
+                clearTimeout(timerID)
+                }
+        }
+// -->
+
+</script>
+
+<script><!--
+dropsloaded=1
+// -->
+</script>
+
+
+
+<div align="center">
+
+<table bgcolor="#426A7B" cellspacing="0" cellpadding="1" border="0" align="center">
+  <tbody><tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+          <td><img src="/images/logohome.gif" width="340" height="128" border="0" alt="Bridges.org logo"></td>
+          <td width="1" bgcolor="#426A7B" valign="top"> <img src="/images/klir.gif" width="1" height="125" alt="" border="0"> </td>
+          <td width="340" bgcolor="white" valign="top">
+			<table cellspacing="0" cellpadding="15" border="0" width="340">
+              <tbody><tr>
+			    <td height="128"> <!-- #BeginEditable "Summary" --> 
+      
+                    <p>Bridges.org's privacy policy<span class="summary"><span class="summary"></span>.<br>
+              </span> </p>
+         
+      <!-- #EndEditable --> 
+                </td>
+			</tr>
+			</tbody></table>
+    </td>
+</tr>
+</tbody></table>
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+    <td bgcolor="#426a7b" colspan="3" height="2"><img src="/images/klir.gif" width="1" height="3" alt="" border="0"></td>
+</tr>
+<tr>
+          <td width="137"><img src="/images/oblak.jpg" width="137" height="65" alt="picture of clouds" border="0"></td>
+    <td bgcolor="#426A7B" width="1"><img src="/images/klir.gif" width="1" height="1" alt="" border="0"></td>
+          <td width="543"><img src="/images/00banner.jpg" width="543" height="65" alt="picture of a bridge" border="0"></td>
+</tr>
+<tr>
+          <td bgcolor="white" width="137"><img src="/images/klir.gif" width="1" height="3" alt="" border="0"></td>
+	<td bgcolor="#426A7B" width="1" height="3"> <img src="/images/klir.gif" width="1" height="3" alt="" border="0"></td>
+	      <td bgcolor="white" width="543"><img src="/images/klir.gif" width="1" height="3" alt="" border="0"></td>
+</tr>
+</tbody></table>
+
+<table cellspacing="0" height="100%" cellpadding="0" border="0" width="681">
+<tbody><tr>
+    <td bgcolor="#C2D6DE" valign="top" width="143"> 
+      <!-- #BeginEditable "Menu" --><!-- #BeginLibraryItem "/Library/SiteInfoMenu.lbi" -->
+<div> 
+  <div> <img src="/images/00.gif" width="143" height="20" alt="" border="0"><br>
+    <a href="/index.html" onmouseover="showdrop(1)" onmouseout="hidedrop()"><img src="/images/home.gif" width="143" height="20" alt="home" border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="2" alt="" border="0"><br>
+    <a href="/digitaldivide/overview.html" onmouseover="showdrop(2)" onmouseout="hidedrop()"><img src="/images/digitaldivide.gif" width="143" height="20" alt="digital divide" border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="2" alt="" border="0"><br>
+    <a href="/about/mission.html" onmouseover="showdrop(3)" onmouseout="hidedrop()"><img src="/images/about.gif" width="143" height="20" alt="about bridges.org" border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="2" alt="" border="0"><br>
+    <a href="/africa/index.html" onmouseover="showdrop(10)" onmouseout="hidedrop()"><img src="/images/africa.gif" width="143" height="20" alt="projects" border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="2" alt="" border="0"><br>
+    <a href="/techguide/overview.html" onmouseover="showdrop(6)" onmouseout="hidedrop()"><img src="/images/techguide.gif" width="143" height="20" alt="tech.guide " border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="2" alt="" border="0"><br>
+    <a href="/projects/projects.html" onmouseover="showdrop(4)" onmouseout="hidedrop()"><img src="/images/projects.gif" width="143" height="20" alt="projects" border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="2" alt="" border="0"><br>
+    <a href="/newsletter/index.html" onmouseover="showdrop(5)" onmouseout="hidedrop()"><img src="/images/newsletter.gif" width="143" height="20" alt="newsletter" border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="2" alt="" border="0"><br>
+    <a href="/getinvolved/getinvolved.html" onmouseover="showdrop(7)" onmouseout="hidedrop()"><img src="/images/getinvolved.gif" width="143" height="20" alt="get involved" border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="2" alt="" border="0"><br>
+    <a href="/general/contact.html" onmouseover="showdrop(8)" onmouseout="hidedrop()"><img src="/images/contact.gif" width="143" height="20" alt="contact us" border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="2" alt="" border="0"><br>
+    <a href="/general/sitemap.html" onmouseover="showdrop(9)" onmouseout="hidedrop()"><img src="/images/siteinfo_sel.gif" width="143" height="20" alt="site info" border="0"></a><br>
+    <img src="/images/00.gif" width="143" height="15" alt="" border="0"><br>
+    <a href="/textversion/index.html"><img src="/images/textonly.gif" width="143" height="16" alt="text only" border="0"></a><br>
+    <a href="/general/privacy_policy.html"><img src="/images/privacy.gif" width="143" height="16" alt="privacy policy" border="0"></a><br>
+    <img src="/images/00edge.gif" width="143" height="20" alt="" border="0"> </div>
+</div>
+<!-- #EndLibraryItem --><!-- #EndEditable --> 
+                    <br><form method="GET" action="/cgi-bin/library/searchindex/query.pl">
+                <!-- want to mimic "swish -f swishindex -w keywords -m maxresults" --> 
+                <div align="center"><b>search this site</b> 
+                  <input type="hidden" name="swishindex" value="/usr/home/bridgeor/usr/local/swish-e/index.swish">
+                  <input style="font-weight:normal;font-size:10px;" name="keywords" size="15" maxlength="256" value="enter keywords">
+                  <br>
+                  <input type="hidden" name="detail" value="yes">
+                  <input type="hidden" name="maxresults" value="10">
+                  <input style="font-size:10px;" type="submit" value="search" name="submit">
+                  <a href="/general/search.html"><font size="-2"><i>advanced</i></font></a> 
+                  <br>
+                </div>
+              </form>
+                    
+              <br>                    <form method="POST" action="/cgi-bin/formmail.pl">
+                <div align="center"><b>newsletter</b> 
+                  <input type="hidden" name="special" value="newsletter">
+                  <input type="hidden" name="recipient" value="newsletter@bridges.org">
+                  <input type="hidden" name="subject" value="Subscription Request">
+                  <input type="hidden" name="redirect" value="/newsletter/subscribed.html">
+                  <input type="hidden" name="required" value="">
+                  <input style="font-weight:normal;font-size:10px;" name="email" size="15" value="enter email addr.">
+                  <input style="font-size:10px;" type="submit" value="subscribe">
+                  <input type="hidden" name="opener" size="10">
+                  <a href="/newsletter/index.html"><font size="-2"><i>about</i></font></a> 
+                </div>
+                <p align="center"> 
+                </p><p>&nbsp; 
+                    </p></form>
+
+</td>
+            <td bgcolor="#C2D6DE"><img src="/images/klir.gif" width="25" height="1" alt="" border="0" align="bottom"></td>
+    <td bgcolor="#C2D6DE" valign="top"> <img src="/images/klir.gif" width="513" height="1" alt="" border="0"><br>
+
+        <table bgcolor="#C2D6DE" width="100%" height="100%" cellspacing="0" cellpadding="15" border="0">
+        <tbody><tr valign="top"> 
+          <td><br>
+            <!-- #BeginEditable "Text" --> 
+                    <p align="center"><a href="search.html">search</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="sitemap.html"></a><a href="sitemap.html">sitemap</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;privacy 
+                      policy&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="copyleft.html">copyright 
+                      </a></p>
+                    <p>&nbsp;</p>
+                    <p><b>our privacy policy</b></p>
+                    <p>This website is provided as a public service by bridges.org. 
+                      The following policies apply to this website, and any newsletters, 
+                      discussion lists and announcement lists which we may own 
+                      and operate.</p>
+                    <p><b>Bridges.org does not and will not collect any information 
+                      about you through this website without your permission. 
+                      </b></p>
+                    <p>Currently, we request information from anyone who <a href="../techguide/download.html">downloads 
+                      our free tech.guide</a>. We request your name, your organization's 
+                      name, your email address, and information about your intended 
+                      use of the guide. We may ask you if it is okay to tell others 
+                      about your use of the guide. We may also ask you if it is 
+                      okay to publish or post information about your use of the 
+                      guide as an announcement in our newsletter or in a list 
+                      on our website. We will not do this without your permission, 
+                      and we will never release any other information about you 
+                      to third parties for any reason.</p>
+                    <p>When you request a subscription to the <a href="../newsletter/index.html">bridges.news</a> 
+                      newsletter, we ask for your email address so that we can 
+                      send it to you. You can also access <a href="../newsletter/index.html">bridges.news</a> 
+                      by visiting the archive page on our website. The bridges.news 
+                      mailing list is used only to mail the newsletter and to 
+                      send notices about bridges.org activities. We do not sell, 
+                      rent or share our mailing list. We will also use the list 
+                      once annually to solicit contributions during our fund-raising 
+                      drive.</p>
+                    <p>When inquiries are e-mailed to us, we store the question 
+                      and the e-mail address information so that we can respond 
+                      electronically. Unless we ask you, we do not and will not 
+                      identify publicly anyone who sends questions or comments 
+                      to our website. We will never share your information with 
+                      third parties for any reason. </p>
+                    <p>If you would like to update or delete an email address 
+                      in our possession at any time for any reason, please contact 
+                      <a href="mailto:info@bridges.org">info@bridges.org</a> and 
+                      we will make the changes.</p>
+                    <p>We do not use cookies. A "cookie" is a small piece of data 
+                      that is sent to your browser from a web server and stored 
+                      on your computer's hard drive. It is often used to customize 
+                      your web service in some way, but cookies can also be used 
+                      to track your activities as you surf the web. The bridges.org 
+                      website does not use cookies, however, many of the sites 
+                      to which we link to may. You can set your browser software 
+                      to disable cookies or to prompt you before a cookie is accepted. 
+                    </p>
+                    <p>&nbsp; </p>
+                    <p>If you have any questions about our privacy policies, please 
+                      contact <a href="mailto:info@bridges.org">info@bridges.org</a>. 
+                    </p>
+                    <p>For general information regarding privacy you can visit 
+                      the <a href="http://www.epic.org">Electronic Privacy Information 
+                      Center</a> (EPIC), the <a href="http://www.eff.org">Electronic 
+                      Frontier Foundation</a> (EFF), <a href="http://www.bbb.org">BBB 
+                      Online</a>, or the <a href="http://www.ftc.gov/">US Federal 
+                      Trade Commission</a>.</p>
+                    <!-- #EndEditable -->
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <hr>
+                  <div align="right"> <font size="-2"><i><br>
+                    This website does not collect personal information without 
+                    <br>
+                    your permission. Please see our <a href="/general/privacy_policy.html">Privacy 
+                    Policy</a> for details.<br>
+                    <br>
+                      Copyright © 2000, 2001 bridges.org. The content on 
+                      these pages can be freely copied and <br>
+                    used as is, as long as you give </i></font><font size="-2"><i>us 
+                    credit. We will also let you add to it and/or publish <br>
+                    it if you ask. See our <a href="/general/copyleft.html">"copyleft" 
+                    statement and Open Publication License</a> for details.<br>
+                    </i></font><font size="-2"><i><br>
+                    This page was designed for a 780 width window or larger, and 
+                    Netscape 4 <br>
+                    or Internet Explorer 4 or above. For a text-only version of 
+                    our site that will <br>
+                    work with older browsers and smaller screens, <a href="/textversion/index.html">please 
+                    click here</a>. </i></font> <br>
+                    <br>
+                    <font size="-2"><i>For more information or to comment on these</i></font><font size="-2"><i> 
+                    pages, <br>
+                    please contact the <a href="mailto:webmaster@bridges.org">webmaster@bridges.org</a>.<br>
+                    </i></font> </div>
+          </td>
+        </tr>
+         </tbody></table>
+
+    </td>
+</tr>
+</tbody></table>
+
+</td>
+
+
+</tr>
+<tr>
+<td height="1" bgcolor="#426A7B"></td>
+</tr>
+</tbody></table>
+
+</div>
+
+<!-- begin drop down menus --> <!-- begin home menu --> <!-- not used --> 
+
+
+<div>
+<div class="menu" id="drop1" style="position:absolute; left:168px; top:233px; visibility: hidden;" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+  <table width="129" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+    <tbody><tr> 
+      <td valign="top" bgcolor="#84ACBD"> 
+        &nbsp;&nbsp;<a href="/about/mission.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>our mission</b></a><br>
+        &nbsp;&nbsp;<a href="/index.html#update" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>update</b></a><br>
+     &nbsp;&nbsp;<a href="/index.html#headlines" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>headlines</b></a><br>
+</td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end home menu --> <!-- begin digital divide menu --> 
+<div class="menu" id="drop2" style="position:absolute; left:168px; visibility: hidden; top:255px" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+  <table width="129" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+    <tbody><tr> 
+      <td valign="top" bgcolor="#84ACBD"> 
+        &nbsp;&nbsp;<a href="/digitaldivide/overview.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>overview</b></a><br>
+        &nbsp;&nbsp;<a href="/digitaldivide/perspective.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>perspectives</b></a><br>
+        &nbsp;&nbsp;<a href="/digitaldivide/bridgebuilders/bridge_builders.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>bridge 
+        builders</b></a><br>
+          &nbsp;&nbsp;<a href="/resources/index.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>info 
+          &amp; resources</b></a><br>
+        &nbsp;&nbsp;<a href="/digitaldivide/search.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>search 
+        the web</b></a><br>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end digital divide menu --> 
+
+<!-- begin about menu --> 
+<div class="menu" id="drop3" style="position:absolute; left:168px; visibility: hidden; top:277px" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+  <table width="186" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+    <tbody><tr> 
+      <td valign="top" bgcolor="#84ACBD"> 
+        &nbsp;&nbsp;<a href="/news/news.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>update on current activities</b></a><br>
+        &nbsp;&nbsp;<a href="/about/mission.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>mission &amp; strategy</b></a><br>
+        &nbsp;&nbsp;<a href="/about/who.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>who we are</b></a><br>
+        &nbsp;&nbsp;<a href="/about/friends.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>friends of bridges.org</b></a><br>
+        &nbsp;&nbsp;<a href="/about/support.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>our supporters</b></a><br>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end about menu --> 
+
+<!-- begin africa menu --> 
+<div class="menu" id="drop10" style="position:absolute; left:168px; visibility: hidden; top:300px" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+    <table width="139" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+      <tbody><tr> 
+      <td valign="top" bgcolor="#84ACBD"> &nbsp;&nbsp;<a href="/africa/index.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>overview</b></a><br>
+ 		&nbsp;&nbsp;<a href="/africa/policy.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>IT policy dialogue</b></a><br>
+        &nbsp;&nbsp;<a href="/africa/citibridges.html" onmouseover="keepdrop()" class="popupItem" onmouseout="if(ns){hidedrop()}"><b>resource center</b></a><br>
+        &nbsp;&nbsp;<a href="/resources/regional.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>resources</b></a><br>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end africa menu -->
+
+<!-- begin tech guide menu --> 
+<div class="menu" id="drop6" style="position:absolute; left:168px; visibility: hidden; top:322px" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+  <table width="129" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+    <tbody><tr> 
+      <td valign="top" bgcolor="#84ACBD">
+        &nbsp;&nbsp;<a href="/techguide/overview.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>overview</b></a><br>
+        &nbsp;&nbsp;<a href="/techguide/contents.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>table 
+        of contents</b></a><br>
+        &nbsp;&nbsp;<a href="/techguide/download.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>download</b></a><br>
+        &nbsp;&nbsp;<a href="/techguide/feedback.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>feedback</b></a><br>
+        &nbsp;&nbsp;<a href="/techguide/copyleft.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>copyright</b></a><br>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end techguide menu --> 
+
+<!-- begin projects menu --> 
+<div class="menu" id="drop4" style="position:absolute; left:168px; visibility: hidden; top:344px" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+  <table width="188" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+    <tbody><tr> 
+      <td valign="top" bgcolor="#84ACBD"> 
+        &nbsp;&nbsp;<a href="/projects/projects.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>overview</b></a><br>
+          &nbsp;&nbsp;<a href="/africa/index.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>southern 
+          africa</b></a><br>
+        &nbsp;&nbsp;<a href="/projects/europe_projects.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>central and eastern europe</b></a><br>
+        &nbsp;&nbsp;<a href="/techguide/overview.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>technology and society guide</b></a><br>
+        &nbsp;&nbsp;<a href="/ereadiness/index.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>e-readiness assessment</b></a><br>
+        &nbsp;&nbsp;<a href="/survey/index.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>survey of digital divide initiatives</b></a><br>
+    
+  </td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end projects menu --> 
+
+<!-- begin news menu --> 
+<div class="menu" id="drop5" style="position:absolute; left:168px; visibility: hidden; top:366px" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+  <table width="129" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+    <tbody><tr> 
+        <td valign="top" bgcolor="#84ACBD"> &nbsp;&nbsp;<a href="/newsletter/index.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>our 
+          newsletter</b></a><br>
+        &nbsp;&nbsp;<a href="/newsletter/current.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>current issue</b></a><br>
+        &nbsp;&nbsp;<a href="/newsletter/backissues.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>back issues</b></a><br>
+        &nbsp;&nbsp;<a href="/newsletter/subscribe.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>subscribe</b></a><br>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end news menu --> 
+
+<!-- begin involved menu --> 
+<div class="menu" id="drop7" style="position:absolute; left:168px; visibility: hidden; top:388px" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+  <table width="129" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+    <tbody><tr> 
+      <td valign="top" bgcolor="#84ACBD">
+        &nbsp;&nbsp;<a href="/getinvolved/getinvolved.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>overview</b></a><br>
+        &nbsp;&nbsp;<a href="/getinvolved/jobs.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>jobs 
+        &amp; internships</b></a><br>
+        &nbsp;&nbsp;<a href="/getinvolved/volunteer.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>volunteering</b></a><br>
+        &nbsp;&nbsp;<a href="/getinvolved/contribute.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>contributions</b></a><br>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end involved menu --> 
+
+<!-- begin contact menu -->  
+<div class="menu" id="drop8" style="position:absolute; left:168px; visibility: hidden; top:410px" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+    <table width="129" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+      <tbody><tr> 
+        <td valign="top" bgcolor="#84ACBD"> &nbsp;&nbsp;<a href="/general/contact.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>contact us</b></a><br>
+		  &nbsp;&nbsp;<a href="/general/feedback.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>feedback</b></a><br>
+           </td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end contact menu --> 
+
+<!-- begin site menu --> 
+<div class="menu" id="drop9" style="position:absolute; left:168px; visibility: hidden; top:432px" onmouseover="keepdrop()" onmouseout="if(ie){hidedrop()}"> 
+    <table width="139" cellpadding="2" cellspacing="0" bgcolor="#426A7B" border="1">
+      <tbody><tr> 
+      <td valign="top" bgcolor="#84ACBD"> &nbsp;&nbsp;<a href="/general/search.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>search the site</b></a><br>
+ 		&nbsp;&nbsp;<a href="/general/sitemap.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>site 
+        map</b></a><br>
+        &nbsp;&nbsp;<a href="/general/privacy_policy.html" onmouseover="keepdrop()" class="popupItem" onmouseout="if(ns){hidedrop()}"><b>privacy 
+        policy</b></a><br>
+        &nbsp;&nbsp;<a href="/general/copyleft.html" class="popupItem" onmouseover="keepdrop()" onmouseout="if(ns){hidedrop()}"><b>copyright 
+        statement</b></a><br>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+
+<!-- end site menu --> 
+
+</div>
+
+<!-- #EndTemplate -->
+</body></html>
