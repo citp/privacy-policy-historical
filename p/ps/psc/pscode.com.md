@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pscode.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608150704id_/http%3A//www1.pscode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pscode.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206112322id_/http%3A//pscode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
 
 # visual basic, vb, active server pages (ASP),java, javscript,c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP,Free source code for the taking. Over five million lines of programs.
 
@@ -34,4 +34,15 @@ This site uses the services of Adtegrity for the serving and/or targeting of ads
 **Third Party Cookies**
 
   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+**Additional California Online Privacy Protection Act (OPPA) information**
+
+  * The effective date of this policy is July 1st, 2004.
+  * You can update your personal information at any time by updating your profile via the website. To begin the process, click on 'my general info' which appears under your "Buyer Account" or "Software Coder Account" menu.
+  * Categories of personal information include financial/billing, contact information and miscelleanous information.
+  * The category of all third party providers fall under the category of advertisers.
+  * This policy is subject to update and change. Notification of substantial and material changes will be posted on the site 'news' section.
+
+  
+
