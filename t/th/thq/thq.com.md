@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thq.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610003450id_/http%3A//www.thq.com/Policies/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thq.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010101228id_/http%3A//thq.com/policies.asp%3Fpolicyid%3D2) for the most accurate reproduction.*
 
-# Welcome to THQ ONLINE
+# Privacy policy | THQ®
 
-[TERMS OF USE](https://web.archive.org/Policies/index.asp) | [ PRIVACY POLICY](https://web.archive.org/Policies/privacy.asp)
+[TERMS OF USE](https://web.archive.org/web/20041010101228id_/http%3A//thq.com/policies.asp?policyid=1) | [PRIVACY POLICY](https://web.archive.org/web/20041010101228id_/http%3A//thq.com/policies.asp?policyid=2)
 
 **THQ's Online Privacy Policy**
 
@@ -29,7 +29,7 @@ How you can ask a question or file a complaint regarding this Privacy Policy
 
 **What does this Privacy Policy apply to?**
 
-The website you are currently visiting is operated by THQ located at 27001 Agoura Road, Suite 325, Calabasas, CA 91301. This Privacy Policy currently applies to the website(s) operated by THQ (collectively referred to as "THQ Websites" or "our Websites"). Please [click here](http://www.thq.com/policies/sites.asp) to see a complete list of the applicable websites. In the future, if we wish to include additional websites under this Privacy Policy, we will take reasonable steps to include them in the list and ensure that they provide a link to this Privacy Policy.
+The website you are currently visiting is operated by THQ located at 27001 Agoura Road, Suite 325, Calabasas, CA 91301. This Privacy Policy currently applies to the website(s) operated by THQ (collectively referred to as "THQ Websites" or "our Websites"). Please [click here](http://www.thq.com/policies.asp?policyid=3) to see a complete list of the applicable websites. In the future, if we wish to include additional websites under this Privacy Policy, we will take reasonable steps to include them in the list and ensure that they provide a link to this Privacy Policy.
 
 Please note that this Privacy Policy applies only to information submitted and collected online through the THQ Websites (as listed above), and does _not_ apply to information that may be collected by THQ offline. In addition, this Privacy Policy does _not_ extend to websites maintained by our international affiliates (e.g., THQ Australia, THQ UK, THQ France, etc.) or other companies or organizations to which we link. Because we cannot guarantee that the privacy policies of such sites meet the requirements of the ESRB Privacy Online Program, we encourage you to read the privacy policy of the website to which you link before you submit any personal information to that site.
 
