@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603010222id_/http%3A//www.moderndrummer.com/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderndrummer.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171306id_/http%3A//www.moderndrummer.com/private.asp) for the most accurate reproduction.*
 
 # Modern Drummer Magazine 2001
 
