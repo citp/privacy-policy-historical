@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the massgeneral.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132813id_/http%3A//massgeneral.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massgeneral.org privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205000940id_/http%3A//www.massgeneral.org/privacy.htm) for the most accurate reproduction.*
 
 # MGH Privacy Statement
 
 **  
-Privacy Notice**  
+Website Privacy Notice**  
 At Massachusetts General Hospital (MGH), we are committed to protecting the privacy and security of the users of our site. We understand that health is a very personal, private subject, and we are committed to protecting the privacy and security of visitors to our site. This Privacy Policy will tell you what information we collect, how it is used, and what your choices are. Please read this policy carefully. 
 
 **1\. What personal information does MGH collect?  
