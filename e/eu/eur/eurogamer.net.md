@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurogamer.net privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208092300id_/http%3A//www.eurogamer.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurogamer.net privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604002452id_/http%3A//eurogamer.net/privacy.php) for the most accurate reproduction.*
 
-# { Eurogamer - serving you a fresh slice of gaming morning, noon and night }
+# EuroGamer - serving you a fresh slice of gaming morning, noon and night
 
 EuroGamer Privacy Policy
 
