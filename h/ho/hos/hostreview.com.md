@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostreview.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806050527id_/http%3A//hostreview.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostreview.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610173650id_/http%3A//www.hostreview.com/privacy.htm) for the most accurate reproduction.*
 
-# HostReview.com: Web Hosting Directory and Search Engine
+# Top Web hosting directory for the web hosting industry
 
 We respect your privacy. This policy covers how DevStart.com treats personal information that is received, including your name, address, email address, or phone number, and that is not otherwise publicly available. We collect information from your browser, including your IP addresses and the page you request. We might ask for your contact information when you correspond with us, call us to request service, register to attend a seminar, or participate in an online survey.
 
