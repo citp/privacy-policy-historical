@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604112235id_/http%3A//www.cedarpoint.com/public/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021232126id_/http%3A//www.cedarpoint.com/public/general/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy Information, Cedar Point
 
