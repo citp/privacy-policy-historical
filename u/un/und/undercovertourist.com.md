@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624134137id_/http%3A//www.undercovertourist.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205004044id_/http%3A//undercovertourist.com/tickets/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Tickets - Privacy - We protect your privacy when buying Disney Tickets, Universal, Kennedy, Sea World, Busch Gardens Wet n Wild Tickets!
 
-**Contact Us** (by Phone or Email)  
-**  
-Privacy Statement**  
+Contact Us (by Phone or  [email us](mailto:info@undercovertourist.com) ) ****Privacy Statement
+
+**No spam, no mailing lists, they are your personal details, we keep them that way.**
+
 Your use of UnderCoverTourist.com is governed by the policies, terms & conditions set fourth below.
 
 UnderCoverTourist.com policy is to respect & protect the privacy of our visitors. This policy statement explains what information we gather from your visit to our Web site & how such information may be used.   
@@ -26,7 +27,7 @@ We will strive to protect your personal information, however InsiderGuide.com, L
 Once we receive your transmission, we make our best effort to ensure its security on our systems. **  
 **
 
-Back To Top **Ordering & Contact Info**  
+Back To Top ****Ordering & Contact Info  
 Our Web site uses various order forms for you to request information, products & services. 
 
 Our Sites forms & feedback sections may request that you give us contact information such as your name, mailing & or Email address, demographic information, such as your age & gender.
@@ -45,7 +46,7 @@ With your permission, we may use your contact information to send you informatio
 You can select not to have this information used as described above. **  
 **
 
-Back To Top **Cookies**  
+Back To Top ****Cookies  
 Cookies are pieces of information that a Web site transfers to an individual's computer hard drive for record keeping purposes.   
 Cookies make using our Web site easier.  
 We use cookies to keep track of your shopping cart when you visit our online store, & help identify you when you return to the Store.   
@@ -54,7 +55,7 @@ Mostbrowsers are set up to accept cookies as default
 You can reset your browser to refuse all cookies or indicate when a cookie is being sent  
 If you choose to disable your cookies setting or refuse to accept a cookie, some parts of UnderCoverTourist.com web site will not function properly or may be considerably slower.   
 Without cookies, you may have difficulty completing shopping transactions. **  
-**Back To Top **IP Address**  
+** Back To Top ****IP Address  
 An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you're surfing the Web. .   
 InsiderGuide.com, LC collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers & to audit the use of our Site.   
 We do not link IP addresses to anything personally identifiable, which means that your session will be logged, but you anonymous to us.   
@@ -62,29 +63,30 @@ We may use your IP addresses in cooperation with your Internet provider to ident
 Back To Top  
 
 
-****Contact Us**
+****Contact Us **
 
 Florida Seller of Travel License
 
 Registration # ST34485
 
-E-Mail
+E-Mail 
 
-**   
-Info@UnderCoverTourist.com   
+**
+
+Contact Us (by Phone or  [email us](mailto:info@undercovertourist.com) )
+
 **Telephone**   
-1 800 846 1302 (U.S.), 0800 081 1702 (Freephone UK), +1 386 761 0383 (International)  
+1 800 846 1302 (U.S.), 0800 081 1702 (Freephone UK), +1 386 239 8624 (International)  
 **Fax**   
-1 386 252 4461   
+1 386 252 3469  
 Please Note: We do not store the tickets at this address. We have a separate shipping department. If you have any questions or concerns, please call us and we will be happy to help you.
 
 **Address**   
-2445 S. Ridgewood Avenue  
-South Daytona Beach  
-Fl, 32119   
+642 Carswell Avenue  
+Holly Hill  
+Fl, 32117  
 **Opening Times  
-**Mon - Fri 09:00 - 17:00 (E.S.T) [U.K. Mon - Fri 2pm-10pm]  
-Sat 10:00 - 14:00 (E.S.T) [U.K. Sat 5pm-7pm]
+**Mon - Fri 09:00 - 17:00 (E.S.T) [U.K. Mon - Fri 2pm-10pm]
 
 The UnderCoverTourist.com team are dedicated to bringing you an informative & simple Web site dedicated to tourists. 
 
@@ -95,4 +97,32 @@ We have developed our Web site, drawing on our knowledge & expertise. The Web si
 If you have any questions please contact us! 
 
 Thank You & enjoy our site  
-Back To Top
+Back To Top **[](https://web.archive.org/web/20031205004044id_/http%3A//undercovertourist.com/tickets/DisneyWorld/ticketdescriptions.htm)**Tickets \- Why Buy? **
+
+[
+
+](https://web.archive.org/web/20031205004044id_/http%3A//undercovertourist.com/tickets/DisneyWorld/ticketdescriptions.htm)** We are the **LARGEST** website, selling discount theme park tickets on the web! **  
+FREE** Shipping (U.K. & U.S.), **CHEAPER** than the gates! **[](https://web.archive.org/web/20031205004044id_/http%3A//undercovertourist.com/tickets/DisneyWorld/ticketdescriptions.htm)****  
+ONE** Customer Service Number to call **ONE** booking form to fill out. **SAVE** money & time when you buy your Discount Disney Park Hopper Pass, Orlando Flex Tickets, Universal Studios & Islands of Adventure Tickets online with us! **  
+NO** Spam, **NO** Mailing Lists - they are your personal details, we keep it that way.
+
+| 
+
+**REAL** Tickets (not vouchers)  
+**NO** hidden fees from us, the price on the Order   
+Summary Page is the price you pay.  
+**FREE** Shipping  
+**NO** date restrictions on tickets   
+(start using them when _YOU_ want to)   
+_OVERSEAS ORDERS_ \- If you order with a credit card that is not issued in the U.S. your credit card issuer may add a 1%-3% fee that they keep. You still save a lot of money but please be aware of this.
+
+| 
+
+**N** o Time shares, **N** o 'welcome meetings' to sit through  
+**W** e are fully licensed & bonded with our   
+' **Sellers of Travel Certificate** '  
+Registration#: ST34485 **  
+W** e have grown our business through customer   
+referrals based on price & customer service  
+**H** onest prices and advice (our customer representatives do not work on commission)  
+**W** e ship within 2 business days
