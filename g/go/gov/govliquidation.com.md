@@ -1,71 +1,76 @@
-> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603224323id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016075428id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
 
-# Surplus items auction, discount surplus inventories marketplace, wholesale closeouts
+# Government Liquidation Government Surplus Auctions Army Surplus Vehicles Sales
 
-  1. What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Government Liquidation control 
-  7. How you can correct any inaccuracies in the information. 
+Government Liquidation, LLC, (GL) a wholly owned subsidiary of Liquidity Services, Inc. (LSI), wants you to know that we take your privacy very seriously. Because we do, we have developed the following privacy policy that states what information we collect, how that information is collected (whether it is by GL, its parent company, a vendor working for GL, or some other means), for what purposes we collect information, how that information is used, and under what circumstances that information would be released. Additionally, we want you to know when you have a choice regarding the collection or dissemination of any personal information, and how you can exercise your options. This privacy policy will also explain what steps Government Liquidation is taking to secure your private information and what steps you should take to safeguard that information. Finally, the privacy policy will tell you how to correct any inaccurate information, and who you can contact regarding questions about our privacy policy.
 
-If you have questions or concerns regarding this statement, you should first contact Customer Service by phone at 480-367-1300 or by e-mail at [support@govliquidation.com](mailto:support@govliquidation.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Government Liquidation, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: Government Liquidation.
+## What information does GL collect?
 
-We log your IP address, browser type, access times, and referring site to help diagnose potential problems with our server, and to administer our Web Site. Your IP address is used to gather broad demographic information.
+GL collects the following personal information from each person in order to establish an account with us: 
+
+  * Your name 
+  * Your company's name 
+  * Your address, city, state and zip code 
+  * Your country 
+  * Your telephone number, secondary telephone and/or fax number 
+  * Your email address 
+  * Type of business 
+  * Estimated annual surplus volume 
+  * Primary FSC code category that you are interested in 
+  * Number of employees that your company has 
+
+
+
+This information is used for purposes of contacting you regarding your account with us. We will also send you information regarding upcoming sales events, unique property offerings, and special announcements. If you choose, we will include information about specific property offerings that you designate when you register for an account with us. Finally, we ask about the size of your business in order to report our dealings with small businesses to our Government partner.
+
+When you place a bid for a lot, GL collects the following additional information: 
+
+  * Your name as it appears on your credit card 
+  * Your valid credit card number 
+  * The type of credit card (Visa™, MasterCard™ or American Express™) 
+  * The expiration date of the credit card 
+  * The billing address of the cardholder as it appears on your statement 
+  * The Card Security Code (located on the back of the card within the signature block) 
+
+
+
+This information is used for billing purposes. We only charge your credit card when you have been declared the high bidder, and the sales event has closed. For Special Commodity sales events, the card will not be billed until the End-Use-Certificate application has been completed and approved by the Government.
+
+When you have been declared the high bidder on a Special Commodity sales event, GL collects information from you via the End-Use-Certificate application (DLA Form 1822), which can also be completed online via our **Forms** section (see “End-Use Certificate” form). The information collected via this form (whether completed online or hard copy) is shared with U.S. Government officials for the purpose of clearing purchasers of restricted-end-use property (Munitions List Items or Commerce Control List Items). Government Liquidation does not use this information for any purpose other than to satisfy the Government's requirement to control the sale of restricted-end-use property.
+
+Government Liquidation also collects information about your computer when you click on the GL web site. We log your IP address, browser type, access times, and referring site to help diagnose potential problems with our server, and to administer our Web Site. Your IP address is used to gather broad demographic information.
 
 Our site uses cookies to keep track of your user account. We use cookies to deliver content specific to your interests, to save your username so you don't have to re-enter it each time you visit our site, and for other purposes. For our site to function properly, you need to have cookies enabled.
 
-Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers (like their social security number or employee identification number), and business information (such as business type, expected volume and transactions). We use customer contact information from the registration form to send the user information about our company and selected promotional material from some of our partners. Users can Opt-in to these mailings (for current deals, site updates and auction alerts). Users who no longer wish to receive these emails may Opt-out of receiving future mailings; see the choice/opt-out section below. The customer's contact information is also used to contact the visitor when necessary (for instance to verify registration information, or collect payment for transactions). Business information that is collected is used to check the users' qualifications for registration. Unique identifiers (such as social security numbers or employee identification numbers) are collected to verify the user's identity. Third parties may be used to verify the identity of the user. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+## How does GL collect information about you?
 
-This site contains links to other sites. **Government Liquidation** is not responsible for the privacy practices or the content of such Web sites.
+Most of the information GL collects about you is information that is voluntarily provided by you when you register for an account or place a bid in one of our sales events. Other information is available to us when you click on our site, and is collected electronically via our web engine.
 
-As a service to the user, the site offers a feature that allows a user to send auction details to a person via e-mail. The e-mail address of the recipient is used to send the auction details only and is not used again by the site. 
+## Why do we collect personal information?
 
-As a service to the user, the site offers a feature that allow the user to send us feedback. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site, or review and discard your comments. Your personal information is only shared with explicit permission. 
+GL collects personal information either for the purposes of establishing a business relationship (the information you give us when you register for an account on our web site), to collect payment for items you have bid on, to tailor the type of information that we provide to you regarding property that is available for purchase, or to meet a requirement established by the Government (i.e., EUC applications, FDA certificates or re-sale certificates).
 
-Auction information collected during the posting process is considered public information, with the exception of reserve price; see "Public Forums" below. The site also offers a Question and Answer message board. Any information collected in this message board is considered public information; see "Public Forums" below. Although the site facilitates communications between buyer and seller, no information about either user is exchanged with the other. 
+## How do we use the information we collect?
 
-During the transaction process, financial information (credit card or bank information) is collected from the buyer to pay for the transaction. The site uses a third party (Signio) to verify and process credit cards. All information exchanged with the credit card processor is encrypted. In addition the site will collect address information from the buyer to facilitate shipping of the goods. This address information may be exchanged with our third party shipping company (Ilink Global). The user may Opt-out of using Ilink Global as a shipper. 
+Information collected by GL is used to communicate with you when we transact business. Whether it is to notify you that you have been awarded a lot, or to notify you that you have been outbid on an item, or to contact you regarding payment, we use the information provided by you to facilitate the transactions you wish to consummate with us. We do not sell customer information to third parties. We may allow third parties to send information to you when we believe that the information may be of interest to you, but we will not release your personal information to any third party without your consent, unless we are required to by law, or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with an official investigation by a law enforcement organization.
 
-**Public Forums**  
-This site makes message boards available to its users in connection with specific auctions. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Government Liquidation may provide transaction-related information to Government or private auditors for the purpose of inspecting or validating our business practices, accounting records or financial reports. Any release of information for such a purpose will be done under standard confidentiality restrictions.
 
-**Security**  
+## What steps do we take to secure your personal information?
+
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our site uses the standard SSL (secure sockets layer) encryption for all sensitive data that is transmitted over the Internet. This includes customers adding data to the web site, and employees transmitting data off the web site. No information, including the passwords that would give access to sensitive information ever flows over the Internet un-encrypted.
 
-**Choice/Opt-Out/Deletion**  
-Our site provides users the opportunity to Opt-out of receiving communications from us or our partners at the point where we request information about the visitor, and at any time the user may contact us and request to have their information removed from the database. The following options are available:.
+## How can I protect my personal information?
 
-  1. There is a link in all mailings
-  2. For registered users, there is an Account Manager feature to unsubscribe from mailings
-  3. Email [service@govliquidation.com](mailto:service@govliquidation.com) with your request
+Never send credit card information via e-mail. Do not release information about your account to anyone who is not authorized by you to transact business with us on your behalf. Do not tell your password to anyone. Government Liquidation personnel will never ask you for your password as a means of verifying your identity.
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided.  
+## How can I correct inaccurate personal information?
 
+You can always change personal information such as your address, email address, phone or fax number through the **Profiles** section of **My Account** on the web site. Credit card information can be changed at the time you begin bidding in a sales event. If you experience difficulty in correcting personal information or have any questions regarding our privacy policy, please contact our customer service center at [info@govliquidation.com ](mailto:info@govliquidation.com)or (480) 367-1300. You can also reach us by mail at Government Liquidation, LLC, 15051 N. Kierland Blvd. , Third Floor, Scottsdale , AZ 85254 . Our webmaster can be reached at [webmaster@govliquidation.com ](mailto:webmaster@govliquidation.com)with any questions, concerns or suggestions on how we can improve our web site.
 
-  1. Email [service@govliquidation.com](mailto:service@govliquidation.com)
-  2. By logging into their account manager at [www.govliquidation.com/account/main](http://www.govliquidation.com/account/main)
-  3. Call our customer care staff at the following telephone number: 480-367-1300
+**GOVERNMENT LIQUIDATION, LLC**  
+15051 N. Kierland Blvd. , 3rd Floor • Scottsdale , AZ , 85254 • USA   
+Customer Service Hotline: (480) 367-1300 (phone) • (480) 367-1450 (fax)   
+E-mail: [info@govliquidation.com ](mailto:info@govliquidation.com)• Website: [www.govliquidation.com ](http://www.govliquidation.com/www.govliquidation.com)
 
-
-
-**Notification of Changes**  
-Government Liquidation will notify users of any changes to this privacy statement by sending them an e-mail. 
-
-**Disclaimer**  
-Government Liquidation will not share any of your information with any outside party without your consent unless we are required to by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site.
-
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-
-Web Master  
-Government Liquidation, Inc.  
-2131 K Street NW  
-Suite 400   
-Fourth Floor  
-Washington D.C. 20037  
-[webmaster@govliquidation.com](mailto:webmaster@govliquidation.com)
-
-| 
+**Revised July 9th, 2004**
