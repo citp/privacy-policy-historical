@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Poker Pages - Poker Articles, Tournaments, & Directory
 
@@ -69,42 +69,39 @@ PokerPages is committed to respecting your choices regarding privacy.
 
 
   
-| |  [](https://web.archive.org/poker-software/index.htm)
-
-[**Paradise Poker  
+| |    
+[](https://web.archive.org/poker-software/index.htm) [**Paradise Poker  
 World's Largest   
-Online Poker Room** ](http://www.pokerpages.com/adserver/click.php?bannerID=263&cachebuster=270577604)
+Online Poker Room** ](http://www.pokerpages.com/adserver/click.php?bannerID=263&cachebuster=767949507)
 
-[**BugsysClub  
-Poker Leagues  
-$15,250 in June**](http://www.pokerpages.com/adserver/htmlclick.php?bannerID=705&cachebuster=579446577&dest=http%3A%2F%2Fwww.bugsysclub.com%2Findex.htm)
+[](http://www.pokerpages.com/adserver/click.php?bannerID=705&cachebuster=780840471)[**BugsysClub  
+3 X $10,000   
+WSOP SEATS**](http://www.bugsysclub.com/club/poker/wsop-2004.htm)
 
-[**Get 25% Bonus  
-at PacificPoker  
-Click to Play **](http://www.pokerpages.com/adserver/click.php?bannerID=692&cachebuster=399410180)
+[**PokerSchool Online $25,000 WPT Sponsorship**](http://www.pokerpages.com/adserver/click.php?bannerID=428&cachebuster=647587016)
 
-[Ryder Poker Cup  
-$10,000 Free Roll  
-TruePoker.com ](http://www.pokerpages.com/adserver/click.php?bannerID=718&cachebuster=887329800)
+[PartyPoker.com  
+25,000+ Players  
+$100 EXTRA](http://www.pokerpages.com/adserver/click.php?bannerID=850&cachebuster=676764018)
 
-[**PokerSchool Online The Big One III $100,000 Sponsorships**](http://www.pokerpages.com/adserver/click.php?bannerID=428&cachebuster=665464700)
-
-[Big Bet Poker  
-$20,000 in  
-promotions](http://www.pokerpages.com/adserver/click.php?bannerID=761&cachebuster=933558327)
+[**BadBeat $6,079  
+$1,000 added daily   
+Planet Poker **](http://www.pokerpages.com/adserver/click.php?bannerID=902&cachebuster=552236528)
 
 [Play Poker  
 No Downloads  
-PokerRoom.com](http://www.pokerpages.com/adserver/click.php?bannerID=725&cachebuster=673451386)
+PokerRoom.com](http://www.pokerpages.com/adserver/click.php?bannerID=725&cachebuster=68326673)
 
-[**Current Jackpot  
-At Planet Poker  
-Is $3,968**](http://www.pokerpages.com/adserver/click.php?bannerID=393&cachebuster=58803784)
+[Multiplayer   
+Poker at   
+Ladbrokespoker](http://www.pokerpages.com/adserver/click.php?bannerID=875&cachebuster=612373996)
 
-[GRPoker  
-$22500+ in May  
-Weekend Promo's](http://www.pokerpages.com/adserver/click.php?bannerID=768&cachebuster=412955837)
+[Get Paid to Play Poker at InterCasinoPoker!](http://www.pokerpages.com/adserver/click.php?bannerID=838&cachebuster=518114490)
 
-[](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/cardgames.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/cardroomgames.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/doylebrunson.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/historypoker.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/homepokergame.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/omahapoker.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/onlinepoker.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/pokerbooks.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/pokerdigest.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/pokerhandrankings.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/pokerrules.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/pokertips.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/pokervideos.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/texasholdem.htm) [](https://web.archive.org/web/20030603213256id_/http%3A//www.pokerpages.com/legal/worldseriesofpoker.htm)
+[$3 Million  
+WSOP Shootout  
+TruePoker.com](http://www.pokerpages.com/adserver/click.php?bannerID=718&cachebuster=662974970)
+
+[](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/cardgames.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/cardroomgames.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/doylebrunson.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/historypoker.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/homepokergame.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/omahapoker.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/onlinepoker.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/pokerbooks.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/pokerdigest.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/pokerhandrankings.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/pokerrules.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/pokertips.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/pokervideos.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/texasholdem.htm) [](https://web.archive.org/web/20031207180158id_/http%3A//pokerpages.com/legal/worldseriesofpoker.htm)
 
 | 
