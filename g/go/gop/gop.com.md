@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606100359id_/http%3A//www.gop.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217035217id_/http%3A//www.gop.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # G O P.com :: Privacy Policy
 
