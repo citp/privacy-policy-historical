@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amcham.org.eg privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623031048id_/http%3A//www.amcham.org.eg/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amcham.org.eg privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202160432id_/http%3A//amcham.org.eg/Privacy.asp) for the most accurate reproduction.*
 
-# Site Privacy Statement
+# AmCham Egypt - Site Privacy Statement
 
   | 
 
@@ -20,9 +20,7 @@ AmCham may use cookies on this site. Cookies are small text files sent to, and s
 Correcting/modifying Information   
 AmCham allows users to correct or modify previously submitted information. To report problems with the site, or to send any questions or comments, e-mail us at [web@amcham.org.eg.](mailto:web@amcham.org.eg)  
 If you wish to remove your information from this site, please notify us.  
-As [amcham.org.eg](http://www.amcham.org.eg/) expands, we will regularly update this policy, without prior notice to users. 
-
-Top  
+As [amcham.org.eg](http://www.amcham.org.eg/) expands, we will regularly update this policy, without prior notice to users.  
 
 
 |  
