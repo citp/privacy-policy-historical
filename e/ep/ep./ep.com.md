@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ep.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611174055id_/http%3A//ep.com/js/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ep.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010161846id_/http%3A//ep.com/js/faq%3Fpath%3DFAQ/About_EPage%26rid%3DHF0000001036) for the most accurate reproduction.*
 
-# EPage Privacy Policy
+# FAQ/About_EPage
 
 EPage® has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: ep.com. EPage cares about the privacy of each user of its Web site ("user" or "you"), including those who trust us enough to place orders. In order to protect the privacy of its users, we have adopted the following policy: 
 
@@ -81,7 +81,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 * * *
 
 Site Security  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our web site reduce the likelihood of security problems to a level appropriate to the type of data involved.We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our web site reduce the likelihood of security problems to a level appropriate to the type of data involved. We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
 
 * * *
 
