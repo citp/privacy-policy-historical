@@ -1,153 +1,617 @@
-<!--The following is the downloaded HTML source of the powerball.com privacy policy that was archived on 2003-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030605114621id_/http%3A//powerball.com/privacy.shtm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerball.com privacy policy that was archived on 2003-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205221145id_/http%3A//www.powerball.com/pb_privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Policy</title>
-<meta name="GENERATOR" content="Arachnophilia 3.4">
-<meta name="FORMATTER" content="Arachnophilia 3.4">
+<html><head><script>
+function validateDate(obj,alertFlag)
+{
+var thisDate;
+	
+	disabledStatus = obj.disabled;
+	obj.disabled= false;
+	if(obj.value != "")
+	{
+		for(i=0;i<obj.value.length;i++)
+		{
+			if(isNaN(obj.value.charAt(i)) && obj.value.charAt(i) != "/")
+			{
+				obj.value = "";
+				if(alertFlag){alert("Please enter a valid date (MM/DD/YYYY)");}
+				obj.focus();
+				obj.disabled = disabledStatus;
+				return 1;
+			}
+		}
+		thisDate = new Date(obj.value);
+		year = thisDate.getYear();
+		if(year < 2000)
+			{year += 2000;}
+		if(isNaN(thisDate.getMonth()) || isNaN(thisDate.getMonth()) || isNaN(year))
+		{
+			obj.value = "";
+			if(alertFlag){alert("Please enter a valid date (MM/DD/YYYY)");}
+			obj.focus();
+			obj.disabled = disabledStatus;
+			return 1;
+		}
+		else
+			{obj.value=thisDate.getMonth()+1+'/'+thisDate.getDate()+'/'+year;}
+	}
+	obj.disabled = disabledStatus;
+	return;
+}
+function validateNum(obj,minNum,maxNum,alertFlag)
+{
+var i,blankFlag=1;
+	
+	disabledStatus = obj.disabled;
+	obj.disabled= false;
+	if(obj.value != "")
+	{
+		obj.value=obj.value.replace(/\,/g,"");
+		obj.value=obj.value*1;
+		for(i=0;i<obj.value.length;i++)
+		{
+			if(isNaN(obj.value.charAt(i)))
+			{
+				obj.focus();
+				obj.value = "";
+				if(alertFlag){alert("Please enter a valid number");}
+				obj.focus();
+				obj.disabled = disabledStatus;
+				return 1;
+			}
+		}
+		while(String(obj.value).length < String(maxNum).length)
+			{obj.value = "0" + obj.value;}
+		if(obj.value > maxNum || obj.value < minNum)
+		{
+			obj.focus();
+			obj.value = "";
+			if(alertFlag){alert("Please enter a valid number");}
+			obj.focus();
+			obj.disabled = disabledStatus;
+			return 1;
+		}
+		threeCnt=0;
+		newString="";
+		for(i=obj.length-1;i>=0;i--)
+		{
+			if(threeCnt++ == 3)
+			{
+				threeCnt=1;
+				newString+=",";
+			}
+			newString+=obj.charAt(i);
+		}
+		obj="";
+		for(i=newString.length-1;i>=0;i--)
+		{
+			obj+=newString.charAt(i);
+		}
+	}
+	obj.disabled = disabledStatus;
+	return;
+	
+}
+function validateDec(obj,minNum,maxNum,alertFlag)
+{
+var i,blankFlag=1;
+	
+	disabledStatus = obj.disabled;
+	obj.disabled= false;
+	if(obj.value != "")
+	{
+		obj.value = obj.value.replace(/\,/g,"");
+		obj.value=obj.value*1;
+		for(i=0;i<obj.value.length;i++)
+		{
+			if((isNaN(obj.value.charAt(i))) && obj.value.charAt(i) != ".")
+			{
+				obj.focus();
+				obj.value = "";
+				if(alertFlag){alert("Please enter a valid number");}
+				obj.focus();
+				obj.disabled = disabledStatus;
+				return 1;
+			}
+		}
+		if(String(obj.value).length < 2 && maxNum > 9)
+			{obj.value = "0" + obj.value;}
+		if(obj.value > maxNum || obj.value < minNum)
+		{
+			obj.focus();
+			obj.value = "";
+			if(alertFlag){alert("Please enter a valid number");}
+			obj.focus();
+			obj.disabled = disabledStatus;
+			return 1;
+		}
+		threeCnt=0;
+		newString="";
+		for(i=obj.length-1;i>=0;i--)
+		{
+			if(threeCnt++ == 3)
+			{
+				threeCnt=1;
+				newString+=",";
+			}
+			newString+=obj.charAt(i);
+		}
+		obj="";
+		for(i=newString.length-1;i>=0;i--)
+		{
+			obj+=newString.charAt(i);
+		}
+		obj.disabled = disabledStatus;
+		return;
+	}
+	obj.disabled = disabledStatus;
+	return;
+	
+}
+function validateMoney(obj,alertFlag)
+{
+	newString="";
+	disabledStatus = obj.disabled;
+	obj.disabled= false;
+	if(obj.value != "")
+	{		
+		obj.value = obj.value.replace(/\,/g,"");
+		obj.value = obj.value.replace(/\$/g,"");
+		obj.value=obj.value*1;
+		for(i=0;i<obj.value.length;i++)
+		{
+			if( isNaN(obj.value.charAt(i)) )
+			{
+				obj.value="";
+				if(alertFlag){alert("Please enter a valid whole dollar amount");}
+				obj.value="";
+				obj.focus();
+			}
+		}
+		threeCnt=0;
+		newString="";
+		for(i=obj.value.length-1;i>=0;i--)
+		{
+			if(threeCnt++ == 3)
+			{
+				threeCnt=1;
+				newString+=",";
+			}
+			newString+=obj.value.charAt(i);
+		}
+		obj.value="";
+		for(i=newString.length-1;i>=0;i--)
+		{
+			obj.value+=newString.charAt(i);
+		}
+	}
+	obj.disabled = disabledStatus;
+	return;
+}
+function validateEmail(obj,alertFlag)
+{
+	var disabledStatus = obj.disabled;
+	emailReg = /^[\w|\-|\.]+\@[\w|\-]+(\.[\w|\-]+)+$/;
+	
+	obj.disabled= false;
+	if(obj.value != "")
+	{		
+		if(!emailReg.test(obj.value))
+		{
+			obj.value="";
+			if(alertFlag){alert("Please enter a valid email address");}
+			obj.value="";
+			obj.focus();
+		}
+	}
+	obj.disabled = disabledStatus;
+	return;
+}
+function validateText(obj,alertFlag)
+{
+	var disabledStatus = obj.disabled;
+	textReg = /^[\w|\-|\s|\.|\:|\/]+$/;
+	
+	obj.disabled= false;
+	if(obj.value != "")
+	{		
+		if(!textReg.test(obj.value))
+		{
+			obj.value="";
+			if(alertFlag){alert("An invalid character was detected please try again");}
+			obj.value="";
+			obj.focus();
+		}
+	}
+	obj.disabled = disabledStatus;
+	return;
+}
+
+// Checks for phone number characters
+// Returns true for valid false for not
+function validatePhone(obj,alertFlag)
+{
+var textReg   = /^[\d|\-|\(|\)|\+]*$/g;
+var disabledStatus = obj.disabled;
+
+	obj.disabled= false;
+	if(!textReg.test(obj.value))
+	{
+		obj.value="";
+		if(alertFlag){alert("An invalid character was detected please try again");}
+		obj.value="";
+		obj.focus();
+	}
+
+	obj.disabled = disabledStatus;
+	return;
+}
+
+// Checks for zip code characters
+// Returns true for valid false for not
+function validateZip(obj,alertFlag)
+{
+var textReg   = /^[\d|\-|]*$/g;
+var disabledStatus = obj.disabled;
+
+	obj.disabled= false;
+	if(!textReg.test(obj.value))
+	{
+		obj.value="";
+		if(alertFlag){alert("An invalid character was detected please try again");}
+		obj.value="";
+		obj.focus();
+	}
+
+	obj.disabled = disabledStatus;
+	return;
+}
+</script>
+
+
+<title>Welcome to Powerball</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
 
+<body leftmargin="2" topmargin="2" marginwidth="2" marginheight="2">
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="50" colspan="2" valign="top" bgcolor="#003399">
+<table width="100%" cellpadding="0" cellspacing="0" bordercolor="#003399">
+	<tbody><tr>
+    	<td width="100%" align="left" valign="top">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
+          		<tbody><tr>
+            		<td height="75" bgcolor="#003399"><img src="/images/powerball/pb_logo_1.gif" width="330" height="75"></td>
+          		</tr>
+          		<tr>
+            		<td height="20" bgcolor="#003399"><img name="pb_menu" src="/menu/menu-1.gif" width="350" height="20" border="0" usemap="#m_menu2" alt=""><map name="m_menu2">
+<area shape="poly" coords="267,4,305,4,305,16,267,16,267,4" href="/2by2/2by2_main.asp" alt="">
+<area shape="poly" coords="148,4,255,4,255,16,148,16,148,4" href="/gameshow/gs_main.asp" alt="">
+<area shape="poly" coords="72,4,138,4,138,16,72,16,72,4" href="/wildcard/wc_main.asp" alt="">
+<area shape="poly" coords="5,4,61,4,61,16,5,16,5,4" href="/hotlotto/hl_main.asp" alt="">
+</map>
 
-<!-- Header --><body background="/images/grayall.gif" bgcolor="#ffffff" topmargin="0">
-<a name="TOP"></a>
-
-
-<!-- <FONT FACE="Arial">  -->
-
-<table><tbody><tr>
-   <!--This is the buttons down the side -->
-   
-    <td valign="TOP" align="LEFT" width="150"> 
-      <!-- BEGIN BAR -->
-	<a href="/"><img src="/images/musllink.gif" border="0" width="120" height="26" alt="Multi-State Lottery"></a> 
-    <a href="/powerball/"><img src="/images/pblink.jpg" border="0" width="120" height="26" vspace="10" alt=" Powerball "></a> 
-    <a href="/pbim/"><img src="/images/pbim-link.jpg" border="0" vspace="10" alt=" Powerball Instant Millionaire " width="130" height="54"></a> 
-    <a href="/wildcard2/"><img src="/images/wc2link.jpg" border="0" width="130" height="52" vspace="10" alt="WILD CARD"></a> 
-    <a href="/hotlotto/"><img src="/images/hotlottolink.jpg" border="0" vspace="10" alt="Hot Lotto" width="120" height="83"></a> 
-    <a href="/2by2/"><img src="/images/2by2link.jpg" border="0" vspace="10" alt="2by2" width="120" height="53"></a> 
-    <a href="/info.shtm"><img src="/images/infolink.gif" border="0" width="120" height="40" vspace="10" alt="News Letter, FAQ, ETC."></a> 
-    <a href="/maps.shtm"><img src="/images/maplink.gif" border="0" width="120" height="60" vspace="10" alt="Maps"></a> 
-    <a href="/lotterylinks.shtm"><img src="/images/lotterylinks.gif" border="0" width="120" height="50" vspace="10" alt="Lottery Links"></a> 
-    <a href="/info.shtm#PastGames"><img src="/images/pastgameslink.gif" border="0" width="130" height="50" vspace="10" alt="Past Games"></a><br>
-    <br>
-    <a href="/muslcontact.shtm"><img src="/images/contactus.gif" width="126" height="30" border="0"></a><br>
-    <br>
-    <a href="/muslabout.shtm"><font face="Arial" size="2" color="#000000"><b>About MUSL</b></font></a><br>
-	<br>
-    <a href="/playresponsibly.shtm"><font face="Arial" size="2" color="#000000"><b>Please Play Responsibly</b></font></a><br>
-	<br>
-    <a href="/gamesummary.asp"><font face="Arial" size="2" color="#000000"><b>Game Summary</b><br>
-   	(text only)</font></a><br>
-	<br>
-    <a href="http://www.ftc.gov/bcp/conline/edcams/crossborder"><img src="/images/FTC-Button.jpg" width="133" height="42" border="0"></a>       
-	  
-<!-- END BAR -->
-
+</td>
+          		</tr>
+        	</tbody></table>
+		</td>
+        <td align="right" valign="top" bgcolor="#003399">
+			<table width="250" border="0" cellpadding="0" cellspacing="0" bordercolor="#FFFF00">
+          		<tbody><tr>
+            		<td height="20" bgcolor="#003399"><img src="/images/estimate.gif" width="250" height="20"></td>
+          		</tr>
+          		<tr>
+				
+            	<td height="75" align="center" valign="middle" bgcolor="#003399">
+			   
+			   		<font color="#FFFFFF" size="+3" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;$ 66 Million</strong></font><br>
+					<font color="#FFFFFF" size="-1" face="Arial, Helvetica, sans-serif"><strong>&nbsp;&nbsp;&nbsp;&nbsp;$ 35.8 Million Cash Value</strong></font>
+				
+				</td>
+          		</tr>
+       	  </tbody></table>
+	  </td>
+  </tr>
+</tbody></table>
+</td>
+    <td width="124" rowspan="6" valign="top"><table width="100%" height="100%" cellspacing="1" cellpadding="0">
+  <tbody><tr>
+    <td height="1" align="middle" valign="bottom">
+	   <img src="/images/advertisment.gif">
 	</td>
+  </tr>
+<tr>
+<td>
 
-	<!--This is where the page heading and page content goes -->
-	<td valign="TOP" width="95%">
-   
-    <table width="100%"> <tbody><tr><td width="95%">
-    
-    <!-- BEGIN CONTENTS -->
+<!-- ---------- Advertising.com Banner Code -------------- --> 
+<script language="JavaScript"> 
+var bnum=new Number(Math.floor(99999999 * Math.random())+1); 
+document.write('<SCR'+'IPT LANGUAGE="JavaScript" '); 
+document.write('SRC="http://servedby.advertising.com/site=259800/size=120600/bnum='+bnum+'/optn=1"></SCR'+'IPT>'); 
+</script><script language="JavaScript" src="http://servedby.advertising.com/site=259800/size=120600/bnum=29011467/optn=1"></script> 
+<!-- ---------- Copyright 2000, Advertising.com ---------- -->
 
-<center>
-<img src="/images/pblogo-america.gif" alt="Powerball" border="0" width="317" height="107">
-</center>
-<center>
-  <table border="1" bgcolor="#FFFFCC" cellspacing="0" cellpadding="4">
-    <tbody><tr> 
-      <td nowrap="" align="center"><a href="/pbhowtoplay.shtm">How To Play</a> | <a href="/pbprizesNodds.shtm">Prizes 
-        &amp; Odds</a> | <a href="/powerball/wintiers.asp">Number of Winners</a> | <a href="/pbml/pblistmenu.shtm">Powerball Email List</a> </td>
-    </tr>
-      <tr><td nowrap="" align="center"><a href="/pbpressreleases.asp">Press Releases</a> 
-        | <a href="/tvstation.shtm">Television Stations</a> | <a href="/pbpowerplay.shtm">Power 
-        Play</a> | <a href="/privacy.shtm">Privacy Policy</a> </td>
-    </tr>
-	<tr>
-	<td nowrap="" align="center">
-	 <a href="/legal/index.shtm">Terms 
-        Of Use</a> | <a href="/pbvideos.asp">Watch the Drawings</a> | <a href="/powerball/winnums-view.asp">Winning 
-        Numbers</a> | <a href="/pbwin2003.shtm">Winners' Stories</a>
-	</td>
-	</tr>
-  </tbody></table>
-</center>
-<center>
-            <p align="center"><b>PLAYER PRIVACY . . .</b><br>
-              <b>Our Continued Commitment</b></p>
-            <table width="80%" border="0">
-	          <tbody><tr> 
-                <td>
-<p>We at the Multi-State Lottery Association place your privacy 
-                    at the utmost level of concern. We have always been committed 
-                    to keeping your information safely stored within our systems. 
-                    To ensure your trust, we have developed this privacy policy 
-                    to help you understand both what information we collect and 
-                    to whom it may be distributed.
-                  </p><p><b> COLLECTING INFORMATION<br>
-                    </b>The Multi-State Lottery Association only collects the 
-                    player-specific information that you specify on our e-mail 
-                    signup page. Non player-specific information that is collected 
-                    includes general usage information on our site (number of 
-                    page accesses, frequency of page visits, number of unique 
-                    visitors, etc.) and is used to enable us to provide the best 
-                    quality of service possible.  The Multi-State Lottery Association will also occasionally survey Multi-State Lottery Association website users for their opinions on new games, game changes and other matters of interest to lottery players.
+</td>
+</tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="/images/blank-1.gif" width="1" height="1"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" bgcolor="#6699cc"><script language="JavaScript1.2">
+/*
+Cross browser Marquee script- © Dynamic Drive (www.dynamicdrive.com)
+For full source code, 100's more DHTML scripts, and Terms Of Use, visit http://www.dynamicdrive.com
+Credit MUST stay intact
+*/
+var pauseit=1  //(0=no. 1=yes)?
+var marqueespeed=2  // (larger is faster 1-10)
+var marqueewidth="600px"  //(in pixels) ex = "300px"
+var marqueeheight="20px" 
+var marqueebgcolor="#6699CC"
 
-                  </p><p><b> MAINTAINING SECURITY PROCEDURES<br>
-                    </b>The Multi-State Lottery Association maintains strict security 
-                    procedures to protect the confidentiality of our visitor information. 
-                    Our employees must abide by our privacy policies and have 
-                    access to visitor information only for business purposes. 
-                    If an employee is found in violation of our policy, disciplinary 
-                    actions are taken. 
-                  </p><p><b>SHARING INFORMATION AMONG AFFILIATES<br>
-                    </b>Your information stays with us on our secured servers 
-                    and will not be available to anyone outside of our immediate 
-                    government lottery members. 
-                  </p><p>Should you have any questions or concerns on this policy, 
-                    please <a href="mailto:privacy@musl.com">contact</a> us.<br>
-                  </p></td>
-       </tr>
+//Specify the marquee's content (don't delete <nobr> tag)
+//Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
+//var marqueecontent='<nobr>Thank you for visiting Powerball.com  </nobr>'
+var marqueecontent='<nobr>There were no jackpot winners for Wednesday\'s drawing... The next drawing will be Saturday, December 6th, 2003</nobr>'
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+marqueespeed=(document.all)? marqueespeed : Math.max(1, marqueespeed-1) //slow speed down by 1 for NS
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:0;left:0">'+marqueecontent+'</span>')
+var actualwidth=''
+var cross_marquee, ns_marquee
+
+function populate(){
+if (iedom){
+cross_marquee=document.getElementById? document.getElementById("iemarquee") : document.all.iemarquee
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+cross_marquee.innerHTML=marqueecontent
+actualwidth=document.all? temp.offsetWidth : document.getElementById("temp").offsetWidth
+}
+else if (document.layers){
+ns_marquee=document.ns_marquee.document.ns_marquee2
+ns_marquee.left=parseInt(marqueewidth)+8
+ns_marquee.document.write(marqueecontent)
+ns_marquee.document.close()
+actualwidth=ns_marquee.document.width
+}
+lefttime=setInterval("scrollmarquee()",20)
+}
+window.onload=populate
+
+function scrollmarquee(){
+if (iedom){
+if (parseInt(cross_marquee.style.left)>(actualwidth*(-1)+8))
+cross_marquee.style.left=parseInt(cross_marquee.style.left)-copyspeed+"px"
+else
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+
+}
+else if (document.layers){
+if (ns_marquee.left>(actualwidth*(-1)+8))
+ns_marquee.left-=copyspeed
+else
+ns_marquee.left=parseInt(marqueewidth)+8
+}
+}
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0"><td>')
+if (iedom){
+write('<div style="position:relative;width:'+marqueewidth+';height:'+marqueeheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+marqueewidth+';height:'+marqueeheight+';background-color:'+marqueebgcolor+'" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">')
+write('<div id="iemarquee" style="position:absolute;left:0px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+marqueewidth+' height='+marqueeheight+' name="ns_marquee" bgColor='+marqueebgcolor+'>')
+write('<layer name="ns_marquee2" left=0 top=0 onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script><span id="temp" style="visibility:hidden;position:absolute;top:0;left:0"><nobr>There were no jackpot winners for Wednesday's drawing... The next drawing will be Saturday, December 6th, 2003</nobr></span><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><div style="position:relative;width:600px;height:20px;overflow:hidden"><div style="position:absolute;width:600px;height:20px;background-color:#6699CC" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed"><div id="iemarquee" style="position: absolute; left: 580px; top: 0px;"><nobr>There were no jackpot winners for Wednesday's drawing... The next drawing will be Saturday, December 6th, 2003</nobr></div></div></div></td></tr></tbody></table></td>
+  </tr>
+  <tr>
+    <td width="160" height="510" rowspan="3" align="center" valign="top">
+		<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+</script>
+<table border="0" cellpadding="0" cellspacing="0" width="160">
+  <tbody><tr>
+   <td><img src="/menu/powerball/spacer.gif" width="160" height="1" border="0" alt=""></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+  <tr>
+   <td><img name="menu_pb_r1_c1" src="/menu/powerball/menu_pb_r1_c1.gif" width="160" height="4" border="0" alt=""></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="4" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/powerball/pb_numbers.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('numbers_s','','/menu/powerball/numbers_s_f2.gif',1);"><img name="numbers_s" src="/menu/powerball/numbers_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/powerball/pb_stories.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('stories_s','','/menu/powerball/stories_s_f2.gif',1);"><img name="stories_s" src="/menu/powerball/stories_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/powerball/pb_howtoplay.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('how_s','','/menu/powerball/how_s_f2.gif',1);"><img name="how_s" src="/menu/powerball/how_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/powerball/pb_map.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('where_s','','/menu/powerball/where_s_f2.gif',1);"><img name="where_s" src="/menu/powerball/where_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/pb_club.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('mypb_s','','/menu/powerball/mypb_s_f2.gif',1);"><img name="mypb_s" src="/menu/powerball/mypb_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/pb_links.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('links_s','','/menu/powerball/links_s_f2.gif',1);"><img name="links_s" src="/menu/powerball/links_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/pb_info.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('news_s','','/menu/powerball/news_s_f2.gif',1);"><img name="news_s" src="/menu/powerball/news_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/pb_about.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('about_s','','/menu/powerball/about_s_f2.gif',1);"><img name="about_s" src="/menu/powerball/about_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/pb_home.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home_s','','/menu/powerball/home_s_f2.gif',1);"><img name="home_s" src="/menu/powerball/home_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><img name="bar_s" src="/menu/powerball/bar_s.gif" width="160" height="16" border="0" alt=""></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="16" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="/pb_responsible.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('play_s','','/menu/powerball/play_s_f2.gif',1);"><img name="play_s" src="/menu/powerball/play_s.gif" width="160" height="20" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><a href="http://www.musl.com" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('musl_s','','/menu/powerball/musl_s_f2.gif',1);"><img name="musl_s" src="/menu/powerball/musl_s.gif" width="160" height="33" border="0" alt=""></a></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="33" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><img name="bar_s" src="/menu/powerball/bar_s.gif" width="160" height="16" border="0" alt=""></td>
+   <td><img src="/menu/powerball/spacer.gif" width="1" height="16" border="0" alt=""></td>
+  </tr>
+   <tr>
+   <td align="center">
+      <a href="http://www.ftc.gov/bcp/conline/edcams/crossborder/"><img src="/images/FTC-Button-150.jpg" width="150" height="36" border="0"></a>
+   </td>
+  </tr>
 </tbody></table>
 
-            <p> 
-                  <!-- END CONTENTS -->
+	&nbsp;	</td>
+    <td width="677" height="370"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="20">&nbsp;</td>
+    <td><div align="center"><font size="+2"><strong>Privacy Policy</strong></font></div></td>
+    <td width="20">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td valign="top"><p>The Multi-State Lottery Association considers your privacy
+        to be extremely important. We have always
+        been committed to keeping your information safely and securely stored
+        within our systems. To ensure
+        your trust, we have developed this privacy policy to help you understand
+        both what information we collect and to whom it may be distributed. </p>
+      <p><strong>COLLECTING INFORMATION</strong><br>
+        The Multi-State Lottery Association collects demographic and  player-specific
+          information for the  "My Powerball" feature in order to provide an
+          extra service to our users. Non player-specific
+          information that is
+          also collected
+          and includes
+          general
+          usage
+          information on
+          our site (number of page accesses, frequency of page visits, number
+          of unique visitors, etc.) and is used to enable us to provide the best
+          quality of service possible. The Multi-State Lottery Association will
+          also occasionally survey Multi-State Lottery Association website users
+          for their opinions on new games, game changes and other matters of
+          interest to lottery players. </p>
+      <p><strong>MAINTAINING SECURITY PROCEDURES</strong><br>
+        The Multi-State Lottery Association maintains strict security procedures
+          to protect the confidentiality of our visitor information. Our employees
+          must abide by our privacy policies and have access to visitor information
+          only for business purposes. If an employee is found in violation of
+      our policy, disciplinary actions are taken. </p>
+      <p><strong>SHARING INFORMATION</strong><br>
+        Your information stays within the Multi-State Lottery Association and
+          is not made available to anyone outside of our immediate government
+          lottery
+      members. </p>
+      <p>Should you have any questions or concerns on this policy, please <a href="mailto:%20privacy@musl.com">contact
+        us</a>.</p>
+      <p></p></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
 
-    </p></center></td></tr></tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td height="30"><table width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center" valign="bottom"><strong><font size="-1" face="Arial, Helvetica, sans-serif">
+	   <a href="http://www.musl.com">MUSL</a> | <a href="/pb_privacy.asp">Privacy
+	   Policy</a> | <a href="/pb_terms.asp">Terms &amp; Conditions</a> | <a href="/pb_copyright.asp">Trademarks</a> | <a href="/pb_best.asp">Best
+	   Viewed</a> </font></strong>
+	   <br>
+	   <br>
+	</td>
+  </tr>
+</tbody></table>
 
-    <!--/CENTER-->
+</td>
+  </tr>
+  <tr>
+    <td height="30"><table width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center" valign="middle"><font color="#646464" size="-1" face="Arial, Helvetica, sans-serif">
+	<em>Profit from lottery ticket sales remain in the jurisdiction where the tickets are sold.<br>
+	Copyright© 1997-2003 Multi-State Lottery Association. All Rights Reserved.</em></font></td>
+  </tr>
+</tbody></table>
 
-  </td></tr>
+</td>
+  </tr>
+</tbody></table>
 
-  <!--This is an additional row in the table to make icons appear at the bottom -->
-  <tr> <td align="CENTER" valign="TOP">
-    <img src="/clear.gif" border="0" width="160" height="60" alt="">
-  </td>
-
-  <!--This is the page footer -->
-  <td align="CENTER">
-    <center>
-    <table><tbody><tr><td width="95%">
-
-    <!-- BEGIN FOOTER CONTENTS -->
-
-
-    <!-- END FOOTER CONTENTS -->
-
-    <center>
-   
-    <i><font size="2" color="#00000000"><p>Multi-State Lottery Association. </p></font></i><p><i><font size="2" color="#00000000">Powerball is a registered trademark of the Multi-State Lottery Association<br>Power Play is a trademark of the Multi-State Lottery Association</font></i>
-    </p></center>
-
-    </td></tr></tbody></table>
-    </center>
-  </td>
-</tr></tbody></table>
-
-
-
-    
 
 </body></html>
