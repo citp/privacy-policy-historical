@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219052313id_/http%3A//campusbooks.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403023438id_/http%3A//www.campusbooks.com/Privacy.asp) for the most accurate reproduction.*
 
 # CampusBooks - Your online comparison shopping site
 
