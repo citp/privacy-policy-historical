@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrocu.org privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331202606id_/http%3A//metrocu.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrocu.org privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410153303id_/http%3A//www.metrocu.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ We will share member information under the following conditions:
   
 ---|---  
   
-Respecting your privacy is critical to Metropolitan Credit Union. Please feel free to [contact us](https://web.archive.org/web/20010331202606id_/http%3A//metrocu.org/contact/contact.htm) with any questions you have regarding our Privacy Policy.
+Respecting your privacy is critical to Metropolitan Credit Union. Please feel free to [contact us](https://web.archive.org/web/20030410153303id_/http%3A//www.metrocu.org/contact/contact.htm) with any questions you have regarding our Privacy Policy.
