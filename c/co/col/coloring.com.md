@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the coloring.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203013832id_/http%3A//www.coloring.com/about/privacy.cdc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloring.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604084247id_/http%3A//www.coloring.com/about/privacy.cdc) for the most accurate reproduction.*
 
 # Coloring.com: Privacy Policy
 
 ## Privacy Policy and Terms of Use
 
 This is the web site of **Coloring.com**.   
-We can be reached via e-mail at [hello3@coloring.com](mailto:hello3@coloring.com)
+We can be reached via e-mail at [hello3@coloring.com](mailto:hello4@coloring.com)
 
 The operation of Coloring.com is very straightforward and simple. When you first visit the site, the web server automatically assigns you a unique cookie, so that in the log files we can try to distinguish one user from another. The log file also records your IP address, so that at the end of the day we can determine roughly where my visitors are coming from. Note I say "your" IP address. I don't mean you personally, just you as a visitor. With just the unique cookie and your current IP address, we can't determine who you are. But it does provide us with aggregate information that we use to promote and describe the site to advertisers. 
 
