@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610145615id_/http%3A//www.rentacoder.com/RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622095649id_/http%3A//www.rentacoder.com/RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-  
+[](https://web.archive.org/URLSEO/RentACoder/misc/BidRequests/ShowBidRequests!asp/lngBidRequestListType!3/optSortTitle!2/lngBidRequestCategoryId!-1/txtMaxNumberOfEntriesPerPage!10/optBidRequestPhase!2/lngSortColumn!-6/blnModeVerbose!True/optBiddingExpiration!1/blnURLSEO!true/anyname.htm)  
+|     
+
+
+Privacy Statement
+
+_**For those who view Rent A Coder**_ Internet user privacy and confidentiality is of the utmost importance to Rent A Coder and its owning company, [Exhedra Solutions, Inc](http://www.exhedra.com/). Its reputation and integrity is directly related to how it serves its web customers. 
+
+As a result,  Rent A Coder openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@exhedra.com](mailto:privacy@exhedra.com).
+
+**Credit Card Information, Pay Pal Account Information, Bank Account Information, Real Name, Phone#, Address Information, Social Security/EIN information and other personal information:**  
   
 The above information is gathered from either buyer or seller to facilitate payment into or from escrow accounts.  All of this information is used for internal purposes and is not sold to any external companies.
 
@@ -43,7 +53,15 @@ To find out more about how Double-click manages the privacy of information in co
   
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
+**Closing accounts**
+
+  
+At the request of any user, we will close out that user's account, disabling all future use of the account. However, we cannot delete information as we may be legally called upon by a 3rd party to report such information. Examples include (but are not limited to) an FBI investigation, an IRS audit of a user, or a credit card fraud investigation. Exhedra fully cooperates and complies with all government and private regulatory agencies under the law, so if you have an issue with such use of your information, then you should not become a member of this site. Please do not ask us to delete such information.
+
 **Other**
 
   
 Any and all postings and/or transmissions done on Exhedra systems can and are routinely monitored by staff for legal and terms of service violations. Exhedra uses the best of its ability, utilizing state of the art techniques to protect all privacy related data from external and unauthorized party access. However no security sytem is 100% full-proof, so should sensitive data be compromised, Exhedra will alert the affected parties immediately via email addresses as registered on the site. Due to the nature of security, Exhedra will not be held liable for any such security compromise, or any resulting loss or action resulting from such a compromise.
+
+|    
+
