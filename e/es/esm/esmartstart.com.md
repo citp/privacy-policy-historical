@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esmartstart.com privacy policy that was archived on 2003-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030717122608id_/http%3A//www.esmartstart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmartstart.com privacy policy that was archived on 2004-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040511151832id_/http%3A//www.esmartstart.com/privacy.php) for the most accurate reproduction.*
 
 # eSmartStart - Free Web Hosting!
 
