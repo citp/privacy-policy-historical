@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402060023id_/http%3A//homeexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001184504id_/http%3A//homeexchange.com/privacy.php) for the most accurate reproduction.*
 
 # Home Exchange (dot) com The premier international home exchange system.
 
