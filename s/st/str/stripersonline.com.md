@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203024816id_/http%3A//www.stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083922id_/http%3A//stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
 
-# StripersOnline - Privacy Promise
+# Privacy Policy - StripersOnline.com - Privacy Promise
 
 * * *
 
   
+For all [StripersOnline.com](http://www.stripersonline.com/) web pages and features.   
+For all [StripersOnline Online Catalog](http://www.stripersonline.net/cart/shop/index.html) web pages and features.   
 **Effective 8/30/2000**
 
 **Privacy Notice Table Of Contents:**
@@ -52,7 +54,7 @@
 
 **How You Can Access Or Correct Your Information  **
 
-> You can access all your personally identifiable information that we collect online by sending an email to the [**Webmaster**](mailto:webmaster@StripersOnline.com) here requesting such info. We use this procedure to better safeguard your information. Corrections to this information are largely unnecessary as the information is not stored online and is updated only through the ordering process. If you would like to change any factual personal information, please send to the above email address a request that credibly shows the error.
+> You can access all your personally identifiable information that we collect online by sending an email to the [**webmaster**](mailto:webmaster@StripersOnline.com) here requesting such info. We use this procedure to better safeguard your information. Corrections to this information are largely unnecessary as the information is not stored online and is updated only through the ordering process. If you would like to change any factual personal information, please send to the above email address a request that credibly shows the error.
 > 
 > To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
@@ -60,5 +62,19 @@
 
 >   Should you have other questions or concerns about these privacy policies, please call us at **(732) 681-3962** between 9am and 8pm or send us an email at **[webmaster@stripersonline.com](mailto:webmaster@stripersonline.com) **
 
-[**SOL Tackle Shop**](http://www.stripersonline.net/cart/shop.cgi/page=index.html/SID=PUT_SID_HERE) | [**Fishing Reports**](http://www.stripersonline.net/forms/reports_2000.htm) | [**Photo Pages**](https://web.archive.org/Pages/photo_pages/) | [**Articles**](https://web.archive.org/Pages/Articles/) | [**Tides**](https://web.archive.org/Pages/tides_monthly.shtml) | [**Archives**](https://web.archive.org/Pages/archives/) | [**e-Surf Auction**](https://web.archive.org/cgi-bin/ubb_547C/auction.pl) | [**Guest Book**](http://www.stripersonline.net/forms/guest_book.htm)  
----|---|---|---|---|---|---|---
+* * *
+
+*If you feel this information can be of value to others, please feel free to link directly to this page - the URL to link to is shown in your browser window.
+
+[**SurfTalk Fishing Forums**](https://web.archive.org/ubb547/ultimatebb.php) | [**Surf Fishing Articles**](https://web.archive.org/Pages/Articles/) | [**Photo Pages**](https://web.archive.org/Pages/photo_pages/) | [**Striped Bass Fishing - StripersOnline**](http://www.stripersonline.com/) | [**Online Tackle Store**](http://www.stripersonline.net/cart/shop/index.html) | [**SurfChat -Fishing chat!**](http://www.stripersonline.net/SurfChat/)  
+---|---|---|---|---|---  
+[**Additional Resources**](https://web.archive.org/additional_resources.shtml) | [**Rockfish Cartoons**](https://web.archive.org/Pages/rockfish/) | [**Striped Bass Archives**](https://web.archive.org/Pages/archives/) | [**e-Surf Auction**](https://web.archive.org/cgi-bin/ubb_547C/auction.pl) |  [**Fishing Reports**](http://www.stripersonline.net/forms/reports_2000.htm) | [**Tide Chart**](https://web.archive.org/Pages/tides_monthly.shtml) | [**Fishing Books**](https://web.archive.org/Pages/book_recommends/book_reviews.shtml)  
+---|---|---|---|---|---|---  
+[**Conservation**](https://web.archive.org/Pages/clubs_and_conservation/conservation_main.shtml) | [**Weather**](https://web.archive.org/Pages/weather_tide.shtml) | [**Striped Bass Length Weight Charts**](https://web.archive.org/Pages/weight_length/) | [**Guest Book**](http://www.stripersonline.net/forms/guest_book.htm) | [**Marine Forecast**](http://www.stripersonline.com/Pages/marine_forecasts.shtml) | [**Weekend Warrior**](https://web.archive.org/Pages/warrior/)  
+---|---|---|---|---|---  
+  
+Copyright © **Tim Surgent** and **www.stripersonline.com** 1999-2004. All rights reserved.  
+StripersOnline.com - We'll help you catch more fish!  
+This page was last updated on June 1, 2004   
+We take your privacy very seriously.  
+See our [**Privacy Notice**](https://web.archive.org/Pages/privacy.shtml) for details. 
