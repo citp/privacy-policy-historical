@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217235406id_/http%3A//nature.org/aboutus/misc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603171818id_/http%3A//nature.org/aboutus/misc) for the most accurate reproduction.*
 
 # About Us :: Legal
 
@@ -44,7 +44,7 @@ In general, when you visit our Web sites and access information you remain anony
 There are occasions when we will ask for additional information. We do this to better understand and respond to your needs, and provide you with services that may be valuable to you. For example, personally identifiable information will be collected in order for you to become a member of The Nature Conservancy online. 
 
 Use of Information  
-Personally identifiable information is made available to other non-profit organizations and occasionally to for-profit organizations unless you request otherwise. Whether or not you choose to share your information will have no impact on your interaction with us. Members may choose a [confidentiality option](https://web.archive.org/web/20011217235406id_/http://nature.org/aboutus/misc/art5099.html) or call Member Service Center Monday through Friday between 9:00 a.m. and 5:00 p.m. EST at (800) 628-6860. We will not provide any of your personal information to other organizations if you elect to keep your record private.
+Personally identifiable information is made available to other non-profit organizations and occasionally to for-profit organizations unless you request otherwise. Whether or not you choose to share your information will have no impact on your interaction with us. Members may choose a [confidentiality option](https://web.archive.org/web/20020603171818id_/http://nature.org/aboutus/misc/art5099.html) or call Member Service Center Monday through Friday between 9:00 a.m. and 5:00 p.m. EST at (800) 628-6860. We will not provide any of your personal information to other organizations if you elect to keep your record private.
 
 Security of Your Credit Card Information  
 We will take appropriate steps to protect your privacy. We will also protect your personal information in storage. For example, if you supply us with your credit card information to become a member or make a donation, we encrypt the card number. Contributions may also be made by printing out the online form and mailing it to
