@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamingthebeast.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034135id_/http%3A//www.tamingthebeast.net/admin/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamingthebeast.net privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004004036id_/http%3A//www.tamingthebeast.net/admin/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement for Taming the Beast.net
 
@@ -19,7 +19,7 @@ This site contains links to other sites. **Taming the Beast Online** is not resp
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  These forums are not monitored on a 24/7 basis, but if you feel that an item posted is offensive please send a description to [abuse@tamingthebeast.net](mailto:abuse@tamingthebeast.net) . The forums contained within Taming the Beast are not a part of the site, but plug in content supplied by everyone.net. To review everyone.net's privacy policy please click [here](http://www.everyone.net/main/html/p_policy.html)
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  Details of our subscribers and classified advertisers are kept in secure areas of our server and with encrypted passwords. Security of our site is controlled in part by our hosting service - [Thinkhost](https://web.archive.org/web/20020604034135id_/http%3A//www.tamingthebeast.net/admin/reghost.htm).  All activity on Taming the Beast.net is logged for security purposes. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  Details of our subscribers and classified advertisers are kept in secure areas of our server and with encrypted passwords. Security of our site is controlled in part by our hosting service - [Thinkhost](https://web.archive.org/web/20021004004036id_/http%3A//www.tamingthebeast.net/admin/reghost.htm).  All activity on Taming the Beast.net is logged for security purposes. 
 
 Any visitor signing up for any of our in-house mailing lists are assured that we do not, under any circumstances sell, rent or otherwise redistribute our mailing lists to any other company. 
 
@@ -38,7 +38,7 @@ This site gives users the following options for changing and modifying informati
 
 
 
-You can discover more by [clicking here](https://web.archive.org/web/20020604034135id_/http%3A//www.tamingthebeast.net/admin/usability.htm). Please remember to also read our Disclaimer and Terms of Service notices - [click here](https://web.archive.org/web/20020604034135id_/http%3A//www.tamingthebeast.net/admin/disclaimer.htm)
+You can discover more by [clicking here](https://web.archive.org/web/20021004004036id_/http%3A//www.tamingthebeast.net/admin/usability.htm). Please remember to also read our Disclaimer and Terms of Service notices - [click here](https://web.archive.org/web/20021004004036id_/http%3A//www.tamingthebeast.net/admin/disclaimer.htm)
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
