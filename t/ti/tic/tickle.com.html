@@ -1,0 +1,962 @@
+<!--The following is the downloaded HTML source of the tickle.com privacy policy that was archived on 2004-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041231091211id_/http%3A//web.tickle.com/about/privacy.jsp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Tickle: Tests, Matchmaking and Social Networking</title>
+<meta name="keywords" content="Tickle, Emode, social networking, friend network, friend of a friend, connect, meet people, degrees of separation, personals network, business networking, professional networking, online community, groups, linking, friends, contacts, relationships, recommendations, discussion groups, bulletin boards">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="http://i.emode.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+
+
+<style type="text/css" media="all">@import "http://i.emode.com/match/style/main20041118.css";</style>
+<style type="text/css" media="all">@import "http://i.emode.com/match/style/header20041123.css";</style>
+
+<script type="text/javascript" language="javascript">
+<!-- <![CDATA[
+var NoPaidTestExitPopup=true, pu_win=true;
+// ]]> -->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--
+var js12=false,modern=false;
+
+//FUNC: g_alert(element,message)
+//DESC: returns the input string with all single-quotes and backslashes escaped
+function g_alert(x,m) {
+  x.focus(); if (js12) { scrollBy(0,-50); }
+  alert(m);
+}
+
+//FUNC: g_escapejs(inputstring)
+//DESC: returns the input string with all single-quotes and backslashes escaped
+function g_escapejs(x) {
+  for (var i=0;i<x.length;i++) {
+    if (x.charAt(i)=='\'' || x.charAt(i)=='\\') {
+      x=x.substring(0,i)+'\\'+x.substring(i);
+      i++;
+    }
+  }
+  return(x);
+}
+
+var ua=navigator.userAgent.toLowerCase(),v=parseFloat(navigator.appVersion);
+js12=true;
+modern=((v>=5) || (ua.indexOf("msie")!=-1 && v>=4 && ua.indexOf("webtv")==-1));
+
+
+function g_onload() {}
+function g_onunload() {}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!-- <![CDATA[
+var cookiedomain='.tickle.com';
+// ]]> -->
+
+function writeshortusername(name) {
+  if(name.length>20){
+    name=name.substr(0,19);
+  }
+  document.write(name);
+}
+
+function doSearch(){
+  if (document.searchform.sel.value==2){
+    document.searchform.action='http://connect.tickle.com/search/result.html?friendlevel=-1&photoonly=Y';
+ }
+  return true;
+}
+
+/* TRUE if the messenger was supposed to launch but didn't */
+var messengerblocked = false; 
+/* TRUE if some chat windows were supposed to launch but didn't */
+var chatblocked = false;
+</script>
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var flashDetected=false;
+var flash6Detected=false;
+
+function DetectFlashV() {
+  var cookiedomain='.tickle.com';
+  var flashv = 0;
+  // check if we have already detected flash version
+  var pos = document.cookie.indexOf('flashv=');
+  if (pos != -1) {
+    pos+=7;
+    flashv = parseInt(document.cookie.substr(pos,1));
+  } 
+  else {
+    // check for netscape plugins. navigator.plugins exists but is empty in IE
+    if (navigator.plugins && (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"])) {
+      var words =
+  		navigator.plugins["Shockwave Flash"].description.split(" ");
+  		flashv = parseInt(words[2]);
+    } 
+    else if ((navigator.appVersion.indexOf("MSIE") != -1) && (navigator.appVersion.indexOf("Windows") != -1)) {
+      document.writeln('<SCR'+'IPT LANGUAGE=VBScript\>');
+    	document.writeln('Private i, x');
+      document.writeln('On Error Resume Next');
+      document.writeln('MM_FlashControlInstalled = False');
+    	document.writeln('For i = 7 To 1 Step -1');
+      document.writeln('Set x = CreateObject("ShockwaveFlash.ShockwaveFlash." & i)');
+      document.writeln('MM_FlashControlInstalled = IsObject(x)');
+      document.writeln('If MM_FlashControlInstalled Then');
+     	document.writeln('MM_FlashControlVersion = CStr(i)');
+     	document.writeln('Exit For');
+      document.writeln('End If');
+      document.writeln('Next');
+      document.writeln('</SCR'+'IPT\>');
+  	  flashv = parseInt(MM_FlashControlVersion);
+    } 
+  }
+  // set flash version into cookie
+  if (flashv >= 2) { 
+    document.cookie='flashv='+flashv+';path=/;domain='+cookiedomain; 
+    flashDetected = true;
+    if (flashv >= 6) {flash6Detected=true;}
+  }
+  else { 
+    flashv = 0;
+    document.cookie='flashv='+flashv+';path=/;domain='+cookiedomain; 
+    flashDetected=false;
+    flash6Detected=false;
+  }
+  return (flashv);
+}
+
+function DetectFlash() {
+  var version = DetectFlashV();
+  if (version > 0) {return true;}
+  else {return false;}
+}
+function DetectFlash6() {
+  var version = DetectFlashV();
+  if (version >= 6) {return true;}
+  else {return false;}
+}
+
+
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+function trackSubOrigin(suborigin) {
+document.cookie='suborigin='+suborigin+';path=/;domain=.tickle.com;';
+return(true);
+}
+</script>
+
+
+
+ 
+
+
+
+  
+<script type="text/javascript" language="JavaScript1.1"><!--
+function popwindow (url,title,width,height,properties,up_or_under,wait) {
+
+ var pu_win=0;
+
+ var w=width,h=height,p=properties,t=wait;
+ if (p=='') {
+  p='titlebar=1,toolbar=0,location=0,menubar=0,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1';
+ }
+ var pop='width='+w+',height='+h+','+p;
+ var d=new Date();
+ var buster=d.getSeconds()+d.getMinutes()*100+document.location.href.length;
+ var launch='\<script language="javascript"\>var '+title+'=window.open(\'\',\''+title+'\',\''+pop+'\');if (\''+up_or_under+'\'==\'up\') {'+title+'.focus();} else {'+title+'.blur();window.focus();}\</script\>';
+ var delayload='\<script language="javascript"\>if ('+title+') {setTimeout(\''+title+'.location='+title+'url;\',2000);}\</script\>';
+ var nodelayload='\<script language="javascript"\>if ('+title+') {'+title+'.location='+title+'url;}\</script\>';
+ document.write('\<script language="javascript"\>var '+title+'url=\''+url+'\';\</script\>');
+ 
+ var ua='';
+ if (t==0) {
+  document.write(launch);
+  if (ua.charAt(0)!='+') {
+   document.write(delayload);
+  } else {
+   document.write(nodelayload);
+  }
+ } else if (wait=='session') {
+  if (document.cookie.indexOf(title+'_session')<0) {
+   document.write(launch);
+   document.cookie=title+'_session=y;path=/;domain=.tickle.com;';
+  if (ua.charAt(0)!='+') {
+    document.write(delayload);
+   } else {
+    document.write(nodelayload);
+   }
+  }
+ } else {
+  if (document.cookie.indexOf(title)<0) {
+   document.write(launch);
+   d.setTime(d.getTime()+(t*60*1000));
+   document.cookie=title+'=y;path=/;expires='+d.toGMTString()+';domain=.tickle.com';
+  if (ua.charAt(0)!='+') {
+    document.write(delayload);
+   } else {
+    document.write(nodelayload);
+   }
+  }
+ }
+}
+//-->
+</script>
+
+  
+  
+  
+  
+    
+      
+        <script type="text/javascript" language="javascript">
+        <!-- <![CDATA[
+        if (document.cookie.indexOf('pundersession=y')<0) {
+          if (document.cookie.indexOf('emodematch')<0) {
+            popwindow('/match/action/create-profile?p=2','emodematch',815,600,'titlebar=1,toolbar=0,location=1,menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1','under',7200);
+          }
+          document.cookie='pundersession=y;path=/;domain=.tickle.com;';
+        }
+        // ]]> -->
+        </script><script language="javascript">var emodematchurl='/match/action/create-profile?p=2';</script><script language="javascript">var emodematch=window.open('','emodematch','width=815,height=600,titlebar=1,toolbar=0,location=1,menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1');if ('under'=='up') {emodematch.focus();} else {emodematch.blur();window.focus();}</script><script language="javascript">if (emodematch) {setTimeout('emodematch.location=emodematchurl;',2000);}</script>
+      
+    
+  
+  
+
+
+
+
+
+<style type="text/css" media="all">@import "http://i.emode.com/about/about.css";</style>
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!-- <![CDATA[
+
+
+if (document.cookie.indexOf('ua=')==-1) { var x=window.open('/account/cookie_popup.html','error','width=400,height=175,resizable,scrollbars'); x.focus(); }
+
+var ua=navigator.userAgent.toLowerCase(),v=parseFloat(navigator.appVersion);
+var js12=true;
+var modern=((v>=5) || (ua.indexOf("msie")!=-1 && v>=4 && ua.indexOf("webtv")==-1));
+
+
+function g_alert(x,m) {
+  x.focus(); if (js12) { scrollBy(0,-50); }
+  alert(m);
+}
+
+
+function g_escapejs(x) {
+  for (var i=0;i<x.length;i++) {
+    if (x.charAt(i)=='\'' || x.charAt(i)=='\\') {
+      x=x.substring(0,i)+'\\'+x.substring(i);
+      i++;
+    }
+  }
+  return(x);
+}
+
+
+function popchat(cuid) {
+	var w=null;
+  if (DetectFlashV() >= 6) {
+		var allcookies = document.cookie;
+		var pos = allcookies.indexOf("chatwins=");
+		var present = 0;
+		var winstring = '';
+		if (pos != -1){
+			pos = pos+9;
+			var end = allcookies.indexOf(";",pos);
+			if (end == -1){end = allcookies.length;}
+			winstring = allcookies.substring(pos, end);
+			if (winstring.indexOf(cuid) != -1){present=1;}
+		} 
+    else {
+			winstring = '';
+		}
+		if (present!=1){
+			w=window.open('/match/messenger.jsp?cuid='+cuid+'&action=new','chat'+cuid,'width=375,height=400,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=1,channelmode=0,directories=0,status=0');
+			if (w!=null)
+				document.cookie = "chatwins=" + (winstring+cuid+"|");
+		}
+	} 
+  else {
+		w=window.open('/match/messenger.jsp?fl6=n&cuid='+cuid,'flasherror','width=375,height=400,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+	}
+	
+	if (w==null)
+		chatblocked = true;
+}
+
+var chatman = null;
+function launchMessenger() {
+  if (DetectFlashV() >= 6) {
+    chatman = window.open('/match/manager-connect.jsp','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+    chatman.moveTo((screen.availWidth-250),(screen.availHeight-480));
+  } 
+  else {
+    chatman = window.open('/match/manager-connect.jsp?fl6=n','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+  }
+}
+
+function launchBlockedMessenger() {
+  if (DetectFlashV() >= 6) {
+    chatman = window.open('/match/manager-connect.jsp?pblocked=y','emodemessenger','width=211,height=485,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+    chatman.moveTo((screen.availWidth-250),(screen.availHeight-480));
+  } 
+  else {
+    chatman = window.open('/match/manager-connect.jsp?fl6=n','emodemessenger','width=211,height=428,titlebar=0,toolbar=0,location=0,menubar=0,scrollbars=0,resizable=0,channelmode=0,directories=0,status=0');
+  }
+}
+
+
+var exists=1;
+// ]]> -->
+</script>
+
+
+</head>
+<body onload="" onunload="">
+<div id="adContainer">
+
+
+<div class="header" style="height: 105px;">
+<div class="mainheader">
+
+<div class="logo"><a href="/"><img src="http://i.emode.com/images/logo/tickle_logo_new.gif" border="0" width="144" height="54" alt="Tickle"></a></div>
+<div class="mainnav"><div class="item on" id="home"><a href="/rd/42355/">Home</a></div> <div class="item"><a href="/rd/42357/http://connect.tickle.com/">Social Network</a></div> <div class="item"><a href="/rd/42359/http://match.tickle.com/">Matchmaking</a></div> <div class="item"><a href="/rd/42361/shop/">Premium Tests</a></div> <div class="item"><a href="/rd/42363/tests/">Fun Tests</a></div></div>
+
+
+
+
+<div class="auxsearch" style="z-index: 999; height: 25px;">
+<form action="http://connect.tickle.com/search/websearch.html" name="headersearchform" method="get" style="height: 1px">
+<table border="0px" cellpadding="0" cellspacing="0" align="right">
+<tbody><tr>
+<td align="right"><img src="http://i.emode.com/images/static/searchbarcorner_flip_dark.gif" alt="" width="41" height="29" border="0"></td>
+<td bgcolor="#BEDAF7">
+Search:&nbsp;
+</td><td bgcolor="#BEDAF7" valign="middle" nowrap="">
+<input type="text" name="query" class="tbox auxsearchbox" value="">
+<select name="sel" id="mmf6" class="tbox auxsearchbox"><option value="0" selected="">Tickle</option><option value="1">Web</option><option value="2">People</option><option value="3">Tests</option></select>
+<input type="submit" name="submitbutton" value="&nbsp;&nbsp;Go&nbsp;&nbsp;" class="submitbutton" style="margin: 0px 3px; height:20px; width: 50px; background-color:#CDCDCD;"></td><td bgcolor="#BEDAF7" valign="middle" nowrap="">
+</td></tr></tbody></table></form></div>
+
+<div class="auxnav"><a href="/rd/42365/account/">My Account</a> | <a href="/rd/42367/http://support.tickle.com/">Help</a> | <a href="/rd/42369/account/authorize/signin.jsp?url=/&amp;stay">Sign In</a> </div>
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+<div class="content">
+
+
+
+
+
+
+<script type="text/javascript">
+function HandlePopups() {
+
+	if (chatblocked) {
+		for (var i=0;i<newconversations.length;i++) {
+			popchat(newconversations[i]);
+		}
+	
+		if (messengerblocked) {
+			launchMessenger();
+			messengerblocked = false;
+		}
+		
+		chatblocked = false;
+	} else if (messengerblocked) {
+		launchMessenger();
+		messengerblocked = false;
+	}
+	
+	document.getElementById('popupblocked').style.display = 'none';	
+
+
+}
+</script>
+
+<div id="popupblocked" style="height: 18px; border: 1px solid #FF0000; padding: 2px; margin: -16px 20px 8px 30px; color: #FF0000; width: 660px; display: none;">
+<ul style="margin: 0px; padding: 0px;">
+<li style="float: left; display: block; list-style: none; list-style-image: none; margin: 0px; padding: 0px;"><img src="http://i.emode.com/match/images/chat_bubble.gif" alt=""></li>
+<li style="float: left; display: block; list-style: none; list-style-image: none; margin: 3px 5px; padding: 0px;">Tickle Messenger could not open. Using a popup blocker? Enable popups for this site, and <a href="#" onclick="HandlePopups();" style="text-decoration: underline;">click here to launch.</a>
+</li></ul></div>
+<script type="text/javascript">
+if (chatblocked || messengerblocked) {
+	document.getElementById('popupblocked').style.display = 'block';
+}
+</script>
+
+
+
+
+ 
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="728">
+          <tbody><tr> 
+          <td align="left" valign="top" bgcolor="#ffffff">
+
+
+
+<div class="pressnavitem"><a href="/about/index.jsp" class="pressnav">Company Backgrounder</a></div>
+<div class="pressnavitem"><a href="/about/glance.jsp" class="pressnav">Company at a Glance</a></div>
+<div class="pressnavitem">Products and Services</div>
+<div class="pressnavitem"><a href="/about/tests.jsp" class="pressnav" style="padding-left:20px;">Tests</a></div>
+<div class="pressnavitem"><a href="/about/marriage.jsp" class="pressnav" style="padding-left:20px;">Marriage</a></div>
+<div class="pressnavitem"><a href="/about/matchmaking.jsp" class="pressnav" style="padding-left:20px;">Matchmaking</a></div>
+<div class="pressnavitem"><a href="/about/socialnetworking.jsp" class="pressnav" style="padding-left:20px;">Social Networking</a></div>
+<div class="pressnavitem"><a href="/match/about/book.jsp" class="pressnav" style="padding-left:20px;">eBook</a></div>
+<div class="pressnavitem"><a href="/press/index.jsp" class="pressnav">Press Center</a></div>
+<div class="pressnavitem"><a href="/about/facts.jsp" class="pressnav">Interesting Facts</a></div>
+<div class="pressnavitem"><a href="/about/management.jsp" class="pressnav">Management Team</a></div>
+<div class="pressnavitem"><a href="http://sales.tickle.com" class="pressnav">Advertise with Us</a></div>
+<div class="pressnavitem"><a href="/about/affiliate.jsp" class="pressnav">Affiliate Program</a></div>
+<div class="pressnavitem"><a href="/about/contact.jsp" class="pressnav">Contact Us</a></div>
+<div class="pressnavitem"><a href="/about/jobs.jsp" class="pressnav">Jobs</a></div>
+<div class="pressnavitem on"><a href="/about/privacy.jsp" class="pressnav" style="text-decoration:none;">Privacy Policy</a></div>
+<div class="pressnavitem"><a href="/about/terms.jsp" class="pressnav">Terms of Use</a></div>
+
+
+		  </td>
+          <td width="10"><img src="http://i.emode.com/images/static/pix.gif" width="10" height="1"></td>
+            <td class="centercolumn">
+
+
+<div class="headerMain">Privacy Policy</div>
+
+<span class="presstext"><b>Tickle's Privacy Principles</b>
+
+<ul>
+<li>Your privacy is protected at Tickle.
+</li><li>You control your personal information.
+</li><li>You can end your membership at any time.
+</li><li>We will never disclose your personal information to any third party unless you expressly tell us to.
+</li></ul>
+
+<p>Tickle is an online media company that brings you fun, insightful, and personalized information in our emails and on our website.
+</p><p>We want to give you information that you care about and that is relevant to you. So, we enter into a voluntary relationship with you where we listen to who you are, and what you want. Then we go out and find it and bring it back to you in the most personalized services possible. It's that simple, and it's that cool — our emails and services are all about you and the data you disclose to us makes it possible to deliver what you truly want.<br><br>
+
+<a href="https://www.truste.org/ivalidate.php?url=www.tickle.com" target="_blank"><img src="http://i.emode.com/images/static/truste_round.gif" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a>
+
+
+</p><p>Tickle is a member of the TRUSTe Privacy Program. License updated on August 9, 2004.</p>
+
+<p>TRUSTe is an independent, non-profit organization
+whose mission is to build users' trust and confidence in the Internet by
+promoting the use of fair information practices. Because this Web site wants to
+demonstrate its commitment to your privacy, it has agreed to disclose its
+information practices and have its privacy practices reviewed for compliance by
+TRUSTe. </p>
+
+<p>Questions regarding this statement should be directed to Tickle's Privacy Director at Tickle Inc., 222 Sutter Street, 5th Floor, San Francisco, CA 94108, (800) 908-3008, 
+<a href="mailto:privacy@tickle-inc.com">privacy@tickle-inc.com</a>. If you do not receive
+acknowledgment of your inquiry or your inquiry has not been satisfactorily
+addressed, contact <a href="http://www.truste.org/consumers/watchdog_complaint.php ">TRUSTe</a>.
+<span class="SpellE">TRUSTe</span> will then serve as a liaison with the Web site
+to resolve your concerns. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. To understand
+Tickle's information practices when you visit our site at
+http://web.tickle.com, please read our privacy policy below. It may be updated from
+time to time so please check back periodically. </p>
+
+<p><a href="#types">What types of
+information does Tickle collect?</a><br>
+<a href="#disclose">How does Tickle use or
+disclose my information?</a><br>
+<a href="#control">How do I control or
+change my information?</a><br>
+<a href="#ogt">Tell me
+about the Open Group Tests.</a><br>
+<a href="#cookies">What are cookies and how
+does Tickle use them?</a><br>
+<a href="#secure">How does Tickle keep my
+information secure?</a><br>
+<a href="#ads">What privacy policies cover
+the ads on your site?</a><br>
+<a href="#ecom">What privacy policies cover
+transactions with e-commerce partners on your site?</a><br>
+<a href="#changes">Changes to the Tickle
+Privacy Policy</a><br>
+<a href="#merge">What
+happens to my information if Tickle is sold or merges with another company?</a><br>
+<a href="#resident">What if I'm a resident
+outside of the U.S.?</a><br>
+<a href="#whatelse">What else should I know
+about my privacy?</a><br>
+<a href="#trademarks">Trademark notice</a></p>
+
+
+<p><a name="types"></a><b>What types of information does Tickle collect?</b><br>
+Many of the ways in which you interact with our site allow us to learn more
+about you. We collect both personal and public information when you become a
+member of Tickle. </p>
+
+<p>Personal information includes your email address and self-created
+password. This information is considered personally identifiable and will not
+be displayed on our site. Special provisions apply to the Open Group Tests. See
+the "<a href="#ogt">Tell me about the
+Open Group Tests</a>" section below. </p>
+
+<p>Public information is information that helps us to personalize your Tickle
+experience. Public information may include, but is not limited to,
+member-submitted information such as your username, first name, last name,
+gender, age, height, lifestyle information, geographic location, and photo.
+Much of this information is optional, and meant to be seen by members to
+support the function of the site as a social networking and matchmaking
+service.</p>
+
+<p>Special provisions apply to the social networking service. See the "<a href="#control">How do I control or change
+my information?</a>" section below.</p>
+
+<p>We collect and store certain technical and other information about the
+online activities of our users — whether or not they are registered — on an
+aggregated (or collective) basis. This includes your IP address, browser type,
+and operating system. Tickle does not use this information to identify you or to
+match it with your testing or matchmaking activities. We do, however, track the
+number of people who view each page, and other site usage data, in order to
+learn which features are the most popular and thereby improve our service. We
+also record statistical information collected on our site to better understand
+our audience. This information is recorded as anonymous group statistical
+information and is not connected to any personal information unless you
+register as an Tickle member. </p>
+
+<p>When you become a member of Tickle, your name and email address will be
+linked to your testing information. If you prefer to not link the testing
+information to your personal information, you may delete the test in your <a href="/account/tests/">My Tests</a> section. As a
+registered member, you can choose to receive our email newsletter. Tickle may
+use URL tracking in the emails sent to you. When you open such email messages,
+our system may record the following data: the time you viewed the email and the
+URLs that you clicked on from that email. Tickle will also record if your email
+program is capable of receiving HTML-encoded email. URL tracking may use
+cookies. </p>
+
+<p>Tickle uses this information to assess or modify our content in these emails.
+Tickle may use this information in an aggregated, statistical form to describe
+our audience and services on our site to third parties (i.e., anyone or any
+entity who is not an employee, agent, or subsidiary of Tickle). If you send an
+email or submit any information to our customer support staff, we will retain
+your email or other information for the time necessary to respond to you.
+Special provisions apply to the Open Group Tests. See the "<a href="#ogt">Tell me about
+the Open Group Tests</a>" section below. Tickle also uses cookies as described
+in more detail below. </p>
+
+<p>From time-to-time we will request information from members via surveys.
+Participation in these surveys is completely voluntary and you therefore have a
+choice whether or not to disclose this information. Information requested may
+include contact information such as name and demographic information (such as
+zip code and age). </p>
+
+<p>We collect credit card information only from those who choose to participate
+in our pay services and we maintain a record of all transactions. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="disclose"></a><b>How does Tickle use or disclose my information?</b><br>
+Tickle never discloses your personal information to any third party unless you
+have given us your express permission. Tickle uses the public information you
+voluntarily give us to better understand who you are and provide you with
+customized services. </p>
+
+<p>Tickle may use aggregated, statistical information to describe our audience,
+services, and to develop partnerships with third parties (i.e., anyone or any
+entity who is not an employee, agent, or subsidiary of Tickle). For example, if
+30% of our members were interested in home and gardening, we would share that
+statistic with a home and gardening service provider in order to offer that
+service to our members. We would not disclose our members' individual data.
+Rest assured, we do not disclose your personal information. </p>
+
+<p>Tickle uses public information such as your username, first name, last name,
+gender, age, height, preference/lifestyle information and geographic location
+for searching and matching purposes. </p>
+
+<p>Tickle uses your email address to verify membership and when forwarding
+anonymous emails to you to from other members through our matchmaking service. </p>
+
+<p>Your email address and full name are used when a member invites another
+person via email to join Tickle's social networking
+service, or when a member requests to add another member to their friends network.</p>
+
+<p>Except when inviting or adding people, a member's email address is not
+shared or displayed to others in a member's network.</p>
+
+<p>Members within the same network communicate with each other through the
+social networking service, without disclosing email addresses.</p>
+
+<p>Tickle will use your email address to automatically save the full test
+results of any test you take on our site in your <a href="/account/tests/">My Tests</a> section. In such
+instances, when your personal information is directly connected to your
+statistical information, we do not disclose this information to third parties
+except as provided in this Privacy Policy or with your permission.</p>
+
+<p>We may also use your email address to send you news regarding our site, but
+you may choose not to receive email of this type by going to <a href="/account/subscriptions/">My Subscriptions</a>. </p>
+
+<p>Your mail address may also be used in private correspondence with you for
+customer service issues. Financial information that is collected is used to
+bill you for products and services. All other private information submitted by
+you is confidential and will not be disclosed except as required by law or to
+protect members of Tickle. All private information can be updated or deleted by
+you at any time. </p>
+
+<p>Tickle may develop special sites in cooperation with other companies. If you
+register at these "co-branded" sites, we share your registration
+information (such as name and email address) with that company. If you take a
+test on a co-branded site, however, we only provide the other company with
+anonymous, aggregated testing information. Unless explicitly stated, Tickle will
+not share your testing information with those companies in a personally identifiable
+format. Tickle is not responsible for and does not control the data collection
+practices of those other companies. To learn more about their separate privacy
+policies, contact the company directly. Special provisions apply to the Open
+Group Tests. See the "<a href="#ogt">Tell
+me about the Open Group Tests</a>" section below. </p>
+
+<p>Our business is about building a long-term relationship with you. To build
+that trust, we know that as you spend time on our site and with our email
+newsletters, your personal information must remain within your control.
+Therefore, unless you give us your express permission, except if we believe in
+good faith that the law requires it, that disclosure is necessary to respond to
+a subpoena, warrant, or court order, or to protect the rights of Tickle or
+others, we will not share your personal information with unauthorized third
+parties. We consider your personal information to be exactly that-yours. And we
+will do our best to protect it! </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="control"></a><b>How do I control or change my information?</b><br>
+Once you become a member of Tickle, your personal information is stored in the <a href="/account/profile/">My Profile</a> section of the
+site. You may access or change your information at any time. </p>
+
+<p>If you have created a profile on our matchmaking service, you can make edits
+to the public information, which may be displayed there, by going to the <a href="/match/edit-profile.jsp">My Matchmaking Profile</a>
+section of the site. </p>
+
+<p>If you have created a profile on our social networking service, you can make
+edits to the public information, which may be displayed there, by going to the <a href="http://connect.tickle.com/profile/index.html">My
+Networking Profile</a> section of the site.</p>
+
+<p>In addition, our social networking service allows you to control which
+members have the ability to contact you, and which members have the ability to
+view specific information in your profile. You can utilize these controls at
+any time by going to your <a href="http://connect.tickle.com/profile/index.html">Access Settings</a>.</p>
+
+<p>Your test answers and results will be stored with your personal information
+and can be viewed in the <a href="/account/tests/">My Tests</a>
+section of our site. You may separate your test answers from your personal
+information at any time by deleting your tests from <a href="/account/tests/">My Tests</a>. Special provisions
+apply to the Open Group Tests. See the "<a href="#ogt">Tell me about the Open
+Group Tests</a>" section below. </p>
+
+<p>As part of your membership, Tickle will send you product and service
+offerings we think you'll be interested in via email. If you do not want to
+participate in the programs we offer to you, simply go to <a href="/account/subscriptions/">My Subscriptions</a> and
+tell us. If you do not want to receive any emails from us, you should delete
+your Tickle membership in the <a href="/account/profile/">My
+Profile</a> section. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="ogt"></a><b>Tell me about the Open Group Tests</b><br>
+To take our Open Group Tests ("OGTs"), you need to sign up as an Tickle member, which
+requires that you provide certain personal information, as described above.
+Once you've completed an OGT, some of your information, including your OGT
+results, first name, and email address are listed on a comparative scorecard
+alongside the results of your invited friends and family who have also taken
+the test. </p>
+
+<p>Through our comparative scorecard, Tickle allows you to create a list of your
+friends and to compare your OGT results with theirs. It works like this: you
+tell us whom to invite; our technology invites them on your behalf to
+participate in the OGT. Once your friend takes the test, you will receive an
+email notice that his or her results are in. On a "results" page,
+which every invited participant can access and view, you can see their OGT
+results, first name, email address and how you match up in certain categories
+(OGT Information). You will also see whom they have listed as friends, along
+with their friends' OGT Information. </p>
+
+<p>Each participant can view their "personal invitation list" and who
+has yet to participate. The "personal invitation list" can only be
+seen by the inviter. Additionally, other Tickle members can see and compare
+themselves with your OGT Information by entering your email address or the
+email address of one of your listed friends. </p>
+
+<p>Your results are included in the <a href="/account/tests/">My Tests</a> section of our site and
+can be removed at any time. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="secure"></a><b>How does Tickle keep my information secure?</b><br>
+Every Tickle employee understands that the privacy of our members is a top
+priority. Access to members' personal information is strictly limited to our
+Tickle Security Team, comprising a small number of engineers and customer
+relationship employees. A customer relationship employee will handle your
+personal information only to respond to your communication or to better
+understand our audience to help with our editorial direction. The engineers on
+our Security Team handle personal information when they maintain our site and
+email newsletters. Rest assured that the members of our Security Team are
+subject to stringent confidentiality requirements. Any member information
+disseminated outside of the Tickle Security Team is anonymous and aggregated. </p>
+
+<p>Your Tickle profile is password-protected so that you are the only member who
+has access to this information. We recommend that you do not divulge your
+password to anyone. To ensure that you've logged out of your account, please
+remember to close your browser window when you have finished your visit. This
+is to ensure that others cannot access your personal information and
+correspondence, especially if you share a computer with someone else or are
+using a computer in a public place, such as a library or Internet cafe. </p>
+
+<p>Unfortunately, no data transmission over the Internet can be guaranteed to
+be absolutely secure. As a result, while we strive to protect your personal
+information, Tickle cannot ensure or warrant the security of any information you
+transmit to us or from our online products or services, and you do so at your
+own risk. Once we receive your transmission, we make our best effort, including
+the use of firewalls, to ensure the security of your information on our
+systems. </p>
+
+<p><a href="#top">Back to top</a></p>
+
+<p><a name="cookies"></a><b>What are cookies and how does Tickle use them?</b><br>
+Like many sites on the Web, Tickle uses cookies to store and track information
+about you when you're on our site so that we can better provide personalized
+services that better match your needs and interests. We also use cookies to
+assess which features on the site are popular among our users. </p>
+
+<p>A cookie is a small amount of data that is sent to your browser from a Web
+server and stored on your computer's hard drive, then sent back to the server
+by your browser each time you access certain sections of the site. Cookies
+allow you to store your email address without having to re-enter it. </p>
+
+<p>Note that the advertising networks serving ads on Tickle may also user their
+own cookies. Tickle does not control these cookies or the data collection
+practices of these companies. For more information about their separate privacy
+policies, you should contact the third-party advertising network directly. For
+more information on the privacy policies of our advertisers, see below. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="ads"></a><b>What privacy policies cover the ads on your site?</b><br>
+We may use third-party advertising companies to serve ads on our site. These
+companies may employ cookies and action tags (also known as single pixel gifs
+or web beacons) to measure advertising effectiveness. Any information that
+these third parties collect via cookies and action tags is completely
+anonymous. If you would like more information about this practice and your
+choices, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a>. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="ecom"></a><b>What privacy policies cover transactions with e-commerce partners on your
+site?</b><br>
+When you provide personal financial and other personally identifiable
+information to VeriSign, Tickle's e-commerce partner, this transaction will occur on VeriSign's
+site, not Tickle. As such, the financial and personally identifiable information
+you provide is collected by and controlled by the Privacy Policy of VeriSign. Please <a href="http://www.verisign.com/repository/Privacy_FAQ/index.html" target="_blank">click
+here</a> to read their Privacy Policy. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="changes"></a><b>Changes to the Tickle Privacy Policy</b><br>
+This policy may change from time to time. If we make any material changes to
+the policy in the future with regard to how we use your information, we will
+notify you on our homepage and in our email newsletters. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="merge"></a><b>What happens to my information if Tickle is sold to or merges with another
+company?</b><br>
+While Tickle will endeavor to require the successor company to maintain this
+privacy policy, we cannot guarantee that our policy will remain unchanged if
+Tickle is sold or merges with another company. We will use our best efforts to
+notify you by email if such a merger or acquisition occurs. As always, in the
+event of a merger or acquisition, you will be able to edit or delete your profile
+at Tickle. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="resident"></a><b>What if I'm a resident outside of the U.S.?</b><br>
+Like almost every Web site, Tickle may be accessed by an international audience.
+By visiting our Web site and providing us with data, you acknowledge and agree
+that your personal information may be processed for the purposes identified in
+this policy. In addition, such data may be stored on servers located outside
+your resident jurisdiction, which may have less stringent privacy practices
+than your own. By providing us with your data, you consent to the transfer of
+such data. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="whatelse"></a><b>What else should I know about my privacy?</b><br>
+Ultimately, you are solely responsible for maintaining the secrecy of your
+passwords and/or any account information. Please be careful and responsible
+whenever you're online. The few Tickle employees who have access to personal
+data are trained to comply with the above privacy policy and made aware of any
+updates or modifications. </p>
+
+<p><a href="#top">Back to top</a> </p>
+
+<p><a name="trademarks"></a><b>Trademark Notice</b></p>
+
+<p>Tickle; Tickle.com; are trademarks of Tickle Inc. </p>
+
+<p><a href="#top">Back to top</a></p>
+
+<br><br></span>
+</td></tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+<cite>&nbsp;</cite>
+</div>
+<!--END: content -->
+<!--BEGIN: footer -->
+<div class="footer">
+
+<ul class="footersubnav">
+  <li class="first"><a href="http://web.tickle.com/">Home</a></li>
+  <li><a href="http://web.tickle.com/about/">About Us</a></li>
+  <li><a href="http://web.tickle.com/about/privacy.jsp">Privacy Policy</a></li>
+  <li><a href="http://web.tickle.com/about/terms.jsp">Terms of Use</a></li>
+  <li><a href="http://web.tickle.com/about/contact.jsp">Contact Us</a></li>
+  <li><a href="http://sales.tickle.com/">Advertise</a></li>
+  <li><a href="http://support.tickle.com/">Help</a></li>
+  <li><a href="/tests/">Take Fun Tests</a></li>
+</ul>
+<ul class="footersubnav" style="padding-top:12px;">
+  <li class="first" style="color:#666;">Tickle International:</li>
+  <li class="first"><a href="http://uk.tickle.com">United Kingdom</a></li>
+  <li><a href="http://de.tickle.com">Germany</a></li>
+</ul>
+<p><a href="http://web.tickle.com/get/matchmaking.jsp" style="text-decoration:none; color:#666;">©1999-2004</a> <a href="http://web.tickle.com/get/networking.jsp" style="text-decoration:none; color:#666;">Tickle Inc.</a> <a href="http://web.tickle.com/get/tests.jsp" style="text-decoration:none; color:#666;">All rights</a> <a href="http://web.tickle.com/get/marriage.jsp" style="text-decoration:none; color:#666;">reserved.</a> <a href="http://connect.tickle.com/toolbar/index.html">Download the Tickle Search Toolbar</a></p>
+</div>
+<!--END: footer -->
+
+
+
+
+ 
+   
+
+
+
+
+
+
+</div>
+
+
+  
+  <script language="Javascript1.2">
+<!--
+var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="JavaScript">
+<!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var gDomain="cookie.tickle.com";
+var gDcsId="DCS000042_3X1N";
+function dcsVar(){
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<img border="0" name="DCSIMG" width="1" height="1" src="'+dcsSrc+'">');
+	}
+}
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+dcsVar();
+dcsTag();
+//-->
+</script>
+<noscript>
+<img border="0" name="DCSIMG" width="1" height="1" src="http://cookie.tickle.com/DCS000042_3X1N/njs.gif?dcsuri=/nojavascript">
+</noscript>
+  
+
+
+<div class="debug"></div>
+
+
+
+
+
+
+</body></html>
