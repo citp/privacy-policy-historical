@@ -1,0 +1,238 @@
+<!--The following is the downloaded HTML source of the 2roam.com privacy policy that was archived on 2001-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217215321id_/http%3A//2roam.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head><script language="javascript">
+<!--
+
+function createLog(file) 
+{
+
+location.href = "download.asp?file=" + file;
+
+}
+
+function deleteUser(ID) { 
+
+   if (window.confirm("Are you sure you want to delete this user?") == true) { 
+      window.location = "mUsers_delete.asp?ID=" + ID; 
+   } 
+} 
+function deleteResource(ID) { 
+
+   if (window.confirm("Are you sure you want to delete this resource?") == true) { 
+      window.location = "mResources_delete.asp?ID=" + ID; 
+   } 
+} 
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		var currPage = window.location.href;
+		if (currPage.indexOf("default.asp") == -1) {
+			//subpages top nav rollovers
+			home_on = newImage("images/images/home_on.gif");
+			services_on = newImage("images/services_on.gif");
+			customers_on = newImage("images/customers_on.gif");
+			partners_on = newImage("images/partners_on.gif");
+			about_on = newImage("images/about_on.gif");
+			news_on = newImage("images/press_on.gif");
+			my2Roam_on = newImage("images/nav_my_o.gif");
+		}
+		else {
+			//home top nav rollovers
+			home_on = newImage("images/homenav_home_o.gif");
+			services_on = newImage("images/homenav_solutions_o.gif");
+			customers_on = newImage("images/homenav_customers_o.gif");
+			partners_on = newImage("images/homenav_partners_o.gif");
+			about_on = newImage("images/homenav_about_o.gif");
+			news_on = newImage("images/homenav_press_o.gif");
+			my2Roam_on = newImage("images/homenav_my_o.gif");
+		
+			products_on = newImage("images/home_products_o.gif");
+			return_on = newImage("images/home_return_o.gif");
+			access_on = newImage("images/home_access_o.gif");
+		}	
+						
+		preloadFlag = true;
+	}
+}
+function changeColor(e,color){
+	if (navigator.appName == 'Microsoft Internet Explorer')
+		e.style.color=color;
+}
+
+//opens new window with URL and window options passed in
+function openNewWindow(strURL, strOptions){
+	if (navigator.appName == 'Netscape'){
+		var newWindow =	window.open(strURL, 'NewWindow', strOptions);
+		
+	}else{
+		window.open(strURL, "NewWindow", strOptions);
+	}
+}
+
+//-->
+</script>
+
+
+<title>Privacy Statment</title>
+<link rel="stylesheet" type="text/css" href="2roam.css">
+<meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
+</head>
+<body onload="preloadImages();" bgcolor="#ffffff" nowrap="">
+<table name="main" id="main" width="100%" cellpadding="0" cellspacing="0" border="0" height="480">
+<tbody><tr align="left">
+<td colspan="3" height="56" align="left"><table name="header" id="header" cellpadding="0" cellspacing="0" border="0" align="left">
+	<tbody><tr>
+		<td height="56" align="left"><a href="default.asp"><img src="images/header.jpg" border="0"></a></td>
+	</tr>
+</tbody></table></td>
+<td rowspan="6" width"10%"=""><img src="images/spacer_trans.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td colspan="3" height="23"><table width="100%" cellpadding="0" cellspacing="0" border="0" height="23"><tbody><tr>
+
+<td rowspan="3">
+	<table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+	<td><a href="default.asp" onmouseout="changeImages('home', 'images/home_off.gif'); return true;" onmouseover="changeImages('home', 'images/home_on.gif'); return true;"><img alt="home" border="0" name="home" src="images/home_off.gif"></a></td>
+	<td><a href="services.asp?SubCat=2RoamAdvantage" onmouseout="changeImages('services', 'images/service_off.gif');   return true;" onmouseover="changeImages('services', 'images/service_on.gif');    return true;"><img alt="solutions" border="0" name="services" src="images/service_off.gif"></a></td>
+	<td><a href="customers.asp?SubCat=Customers" onmouseout="changeImages('customers', 'images/customers_off.gif'); return true;" onmouseover="changeImages('customers', 'images/customers_on.gif'); return true;"><img alt="customers" border="0" name="customers" src="images/customers_off.gif"></a></td>
+	<td><a href="partners.asp?SubCat=StrategicPartners" onmouseout="changeImages('partners', 'images/partners_off.gif');   return true;" onmouseover="changeImages('partners', 'images/partners_on.gif');   return true;"><img alt="partners" border="0" name="partners" src="images/partners_off.gif"></a></td>
+	<td><a href="about.asp?SubCat=About2RoamMission" onmouseout="changeImages('about', 'images/about_off.gif');         return true;" onmouseover="changeImages('about', 'images/about_on.gif');return true;"><img alt="about" border="0" name="about" src="images/about_off.gif"></a></td><td><a href="news.asp?SubCat=AboutNewsPress" onmouseout="changeImages('news', 'images/press_off.gif'); return true;" onmouseover="changeImages('news', 'images/press_on.gif');return true;"><img alt="news" border="0" name="news" src="images/press_off.gif"></a></td><td><a href="login.asp" onmouseout="changeImages('my2Roam', 'images/nav_my.gif'); return true;" onmouseover="changeImages('my2Roam', 'images/nav_my_o.gif');return true;"><img alt="My 2Roam" border="0" name="my2Roam" src="images/nav_my.gif"></a></td></tr></tbody></table>
+</td>
+
+<td width="90%" bgcolor="#FFFFFF" valign="top"><img src="images/spacer_trans.gif" width="1" height="1"></td></tr><tr><td width="90%" bgcolor="#999999" valign="top"><img src="images/spacer_trans.gif" width="1" height="21"></td></tr><tr><td width="90%" bgcolor="#FFFFFF" valign="top"><img src="images/spacer_trans.gif" width="1" height="1"></td></tr></tbody></table></td>
+</tr>
+<tr>
+<td bgcolor="#666699" rowspan="3" valign="top" width="152" align="left"><table width="140" border="0" cellpadding="0" cellspacing="0" height="100%">
+<tbody><tr valign="top"><td height="100%" width="140"><img src="images/spacer_trans.gif"></td></tr>
+</tbody></table></td>
+</tr>
+<tr>
+	<td colspan="2" bgcolor="white" width="568" height="1"><img src="images/spacer_trans.gif" width="568" height="1"></td>
+</tr>
+<tr width="79%">
+<td bgcolor="white" width="75%">
+	
+<table id="sectable" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+<tbody><tr valign="top"><td colspan="2"><img src="images/spacer_trans.gif" width="468" height="18"></td></tr>
+<tr valign="top">
+
+	<td rowspan="3"><img src="images/spacer_trans.gif" width="20" height="1"></td>
+</tr>
+<tr>
+	<td align="left"><img src="images/privacy_head.gif"></td>
+</tr>
+<tr>
+<td><br>
+<p class="head">2Roam Privacy Policy</p>
+
+<p class="normaltext">Your privacy is important to us. We understand that when you provide 2Roam with information about yourself, you expect us to treat that information in a responsible manner. Our policy is to use any information we gather to help us serve you better. We want to make sure you understand how we use data that you explicitly provide to us, as well as how we use anonymous information gathered from our site. 
+
+</p><p class="normaltext">2Roam is the sole owner of the information collected on the 2Roam Web site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  
+
+</p><p class="normaltext"><b>Personally identifiable information.</b>   Information we collect on our Web site that allows us to identify you ("personally identifiable information") must be explicitly provided by you. We will not obtain personally identifiable information without your express consent. </p>
+
+<p class="normaltext"><b>Information you provide to us.  </b>If you provide us with information that allows us to identify you, such as your name, mailing address, and email address, we may use this information to contact you or to selectively send you communications that may be of interest to you, either by email or otherwise. At any time, you may choose to remove yourself from our database by sending an email to <a href="mailto:support@2roam.com">support@2roam.com</a>.</p>
+
+<p class="normaltext"><b>IP addresses.  </b>IP addresses may be used to identify and analyze overall trends about usage of 2Roam's Web site. They may be used to gather broad demographic information and to aggregate trends, but they cannot and will not be used to identify you individually. We may share aggregated IP address information with our partners, advertisers and investors.</p>
+
+<p class="normaltext"><b>Cookies. </b>A cookie is a piece of data stored on your hard drive containing information about you. We may use cookies to help us track which pages of our site are most often visited. This allows us to produce content that is more specifically targeted to what our site visitors are looking for. We may also use cookies to store information so that you don't have to log onto private areas of our site more than once.  If you so choose, you can configure your browser to reject cookies. If you reject cookies, you may still use our site but may be unable to access certain site sections.</p>
+<p class="normaltext"><b>Sharing. </b>We may share aggregated demographic information with our partners, advertisers and investors. Aggregated information will never contain personal information that could be used to identify you.</p>
+
+<p class="normaltext"><b>Security Precautions and Required Disclosures.  </b>The 2Roam Web site has commercially available measures in place to protect against fraudulent use of information under our control. Our server uses SSL (secure socket layer) technology that encrypts personal information so that it cannot be read as information travels over the Internet.  Note that no network security system can guarantee complete network security or prevent all unauthorized network access.  </p>
+
+<p class="normaltext">We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.</p>
+
+<p class="normaltext"><b>Updating information you have provided to us.  </b>If you would like to review or update information you have provided to 2Roam, please contact us at <a href="mailto:support@2roam.com">support@2roam.com</a>.</p>
+
+<p class="normaltext"><b>Unsubscribing from newsletters.  </b>Information about unsubscribing from any 2Roam newsletter is provided in the body of that newsletter. You will receive an e-mail confirmation once you have been unsubscribed.</p>
+<p class="normaltext"><b>Notification of Changes.  </b>If we decide to change our privacy policy, we will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email. You will have a choice as to whether or not we use your information in this different manner. If you prefer that we do not use your information in this different manner, you may remove yourself from our database by emailing us at <a href="mailto:support@2roam.com">support@2roam.com</a>.</p>
+<p class="normaltext"><b>Limitations.  </b>This privacy policy applies to information gathered when you visit our site. If you access the site of a customer of 2Roam that uses services from 2Roam to provide Web content on wireless devices, the privacy policy applicable to information gathered when you visit that site is determined by the owner of that site and not by 2Roam.  Please consult the privacy policy of that site to determine how the site owner will treat the information gathered during your visit to their site. </p>
+
+<p class="normaltext"><b>Use of Information in Disputes.  </b>If needed to resolve disputes, troubleshoot problems or enforce the use limitations of our site, we may use personally identifiable information gathered from you.</p>
+
+<p class="normaltext"><b>Questions or comments.  </b>We are committed to managing information in a responsible fashion. If you have specific questions about our privacy policy, please contact us at <a href="mailto:support@2roam.com">support@2roam.com</a>.</p>
+<br>
+</td></tr></tbody></table>
+
+
+</td>
+<td bgcolor="#ffffff" width="7%">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#666699" width="152" height="60"><img src="images/spacer_trans.gif" height="60"></td>
+<td colspan="2" bgcolor="#999999" width="90%" align="left">
+<table id="footertable" cellspacing="0" cellpadding="0" border="0" width="548">
+	<tbody><tr><td rowspan="5"><img width="20" src="images/spacer_trans.gif"></td>
+		<td><img height="13" src="images/spacer_trans.gif"></td>
+	</tr>
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr height="17">
+					<td align="left" valign="middle" nowrap=""><a class="Footer" href="sitemap.asp" onmouseover="changeColor(this,'#9999FF');" onmouseout="changeColor(this,'#FFFFFF');">Site Map<img src="images/spacer_trans.gif" width="5" height="1" border="0"></a></td>
+					<td align="left" valign="middle" class="Footer"><img src="images/whitebar.gif"></td>
+					<td align="left" valign="middle" nowrap=""><a class="FooterOn" href="privacy.asp" onmouseover="changeColor(this,'#9999FF');" onmouseout="changeColor(this,'#CC0000');"><img src="images/spacer_trans.gif" width="5" height="1" border="0">Privacy<img src="images/spacer_trans.gif" width="5" height="1" border="0"></a></td>
+					<td align="left" valign="middle" class="Footer"><img src="images/whitebar.gif"></td>
+					<td align="left" valign="middle" nowrap=""><a class="Footer" href="about.asp?SubCat=AboutContactUs" onmouseover="changeColor(this,'#9999FF');" onmouseout="changeColor(this,'#FFFFFF');"><img src="images/spacer_trans.gif" width="5" height="1" border="0">Contact Us<img src="images/spacer_trans.gif" width="5" height="1" border="0"></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr height="17">
+					<td align="left" valign="middle" nowrap=""><a class="Footer" href="default.asp" onmouseover="changeColor(this,'#9999FF');" onmouseout="changeColor(this,'#FFFFFF');">Home<img src="images/spacer_trans.gif" width="5" height="1" border="0"></a></td>
+					<td align="left" valign="middle" class="Footer"><img src="images/whitebar.gif"></td>
+					<td align="left" valign="middle" nowrap=""><a class="Footer" href="services.asp?SubCat=2RoamAdvantage" onmouseover="changeColor(this,'#9999FF');" onmouseout="changeColor(this,'#FFFFFF');"><img width="5" src="images/spacer_trans.gif" border="0">Solutions<img width="5" src="images/spacer_trans.gif" border="0"></a></td>
+					<td align="left" valign="middle" class="Footer"><img src="images/whitebar.gif"></td>
+					<td align="left" valign="middle" nowrap=""><a class="Footer" href="customers.asp?SubCat=Customers" onmouseover="changeColor(this,'#9999FF');" onmouseout="changeColor(this,'#FFFFFF');"><img width="5" src="images/spacer_trans.gif" border="0">Customers<img width="5" src="images/spacer_trans.gif" border="0"></a></td>
+					<td align="left" valign="middle" class="Footer"><img src="images/whitebar.gif"></td>
+					<td align="left" valign="middle" nowrap=""><a class="Footer" href="partners.asp?SubCat=StrategicPartners" onmouseover="changeColor(this,'#9999FF');" onmouseout="changeColor(this,'#FFFFFF');"><img width="5" src="images/spacer_trans.gif" border="0">Partners<img width="5" src="images/spacer_trans.gif" border="0"></a></td>
+					<td align="left" valign="middle" class="Footer"><img src="images/whitebar.gif"></td>
+					<td align="left" valign="middle" nowrap=""><a class="Footer" href="about.asp?SubCat=About2RoamMission" onmouseover="changeColor(this,'#9999FF');" onmouseout="changeColor(this,'#FFFFFF');"><img width="5" src="images/spacer_trans.gif" border="0">About 2Roam<img width="5" src="images/spacer_trans.gif" border="0"></a></td>
+					<td align="left" valign="middle" class="Footer"><img src="images/whitebar.gif"></td>
+					<td align="left" valign="middle" nowrap=""><a class="Footer" href="news.asp?SubCat=AboutNewsPress" onmouseover="changeColor(this,'#9999FF');" onmouseout="changeColor(this,'#FFFFFF');"><img width="5" src="images/spacer_trans.gif" border="0">Press &amp; Events<img width="5" src="images/spacer_trans.gif" border="0"></a></td>
+					
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" border="0">
+			<tbody><tr height="17">
+				<td align="left" valign="middle" nowrap="" class="Footer">(c)2000-2001 2Roam, Inc. All Rights Reserved</td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img height="13" src="images/spacer_trans.gif"></td>
+	</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+
+</body></html>
