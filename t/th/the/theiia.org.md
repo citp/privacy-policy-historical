@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the theiia.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606070815id_/http%3A//www.theiia.org/ecm/iiaglance.cfm%3Fdoc_id%3D2507) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiia.org privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014015636id_/http%3A//www.theiia.org/iia/index.cfm%3Fdoc_id%3D2507) for the most accurate reproduction.*
 
 # The IIA Privacy Policy - The Institute of Internal Auditors (IIA)
-
-  | 
 
 #### INTRODUCTION
 
@@ -73,5 +71,3 @@ The IIA reserves the right to modify or amend this Privacy Policy at any time an
 IIA members may choose to be excluded from certain mailings or other uses of their personally identifiable information by The IIA.To opt out, please complete the appropriate mailing and e-mail option fields on the Member Profile form on The IIA's Web site, or send your request via e-mail to: [privacy@theiia.org](mailto:privacy@theiia.org).
 
 However, if you choose to provide The IIA with personally identifiable information by purchasing a product, registering for an event, or requesting other services, The IIA may use that information to provide you with the purchased products or services, for billing purposes, to send immediately relevant information to you, to respond to you, and for other purposes related to the reason you provided the information even if you opt out of the use of your information by the means detailed in this Privacy Policy.
-
-|  
