@@ -1,28 +1,8 @@
-> *The following text is extracted and transformed from the hostbasket.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033136id_/http%3A//www.hostbasket.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbasket.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202070505id_/http%3A//www.hostbasket.com/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Hostbasket - Configure the hosting solution YOU need
 
-|   
----  
-[](http://www.hostbasket.com/how_it_works.shtml)  
-[](http://www.hostbasket.com/shared_hosting.shtml)  
-[](http://www.hostbasket.com/dotnet_hosting.shtml)  
-[](http://www.hostbasket.com/dedicated_hosting.shtml)  
-[](http://www.hostbasket.com/Managed_hosting.shtml)  
-[](http://www.hostbasket.com/domains)  
-[](http://www.hostbasket.com/buildandbuy/basket/basket.asp)  
-[](http://www.hostbasket.com/support.shtml)  
-[](http://www.hostbasket.com/Contact.shtml)  
-[](http://www.hostbasket.com/partner.shtml)  
-   
----  
-|   
-  
-[ ](http://server.iad.liveperson.net/hc/6194305/?cmd=file&file=visitorWantsToChat&site=6194305&byhref=1&AEPARAMS)
-
-[](http://www.hostbasket.com/7_reasons.shtml)
-
-| 
+|  | 
 
 We know that you care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting our Web site or by otherwise interacting with one of our Services, you agree to accept the practices described in this Privacy Notice. 
 
