@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401225200id_/http%3A//bulbs.com/default.asp%3Fpage%3Dhome%26pagespec%3Dyourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208060333id_/http%3A//www.bulbs.com/default.asp%3Fpage%3Dhome%26pagespec%3Dyourprivacy) for the most accurate reproduction.*
 
 # bulbs.com;Fluorescent bulbs:Halogen bulbs, Halogen light bulbs, Flourescent light bulbs, Light bulbs, Compact fluorescent bulbs, Full spectrum light bulbs
 
