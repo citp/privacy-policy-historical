@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolfunnyjokes.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163306id_/http%3A//www.coolfunnyjokes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolfunnyjokes.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606104508id_/http%3A//www.coolfunnyjokes.com/privacy.php) for the most accurate reproduction.*
 
 # Funny Jokes
 
