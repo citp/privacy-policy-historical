@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetbasedmoms.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204195306id_/http%3A//www.internetbasedmoms.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbasedmoms.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606164448id_/http%3A//www.internetbasedmoms.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,9 @@ In today's technological age, Internet Based Moms™ knows you care about how in
 
 Please note, your information may be provided to contractors who assist  Internet Based Moms™  in service delivery and it is **_only_** given as needed to perform their contractual duties. Any information you provide here _**will not be** _ given or sold to others, without your express consent or if required by law.
 
-Our newsletter is managed by [Yahoo Groups](http://groups.yahoo.com/) and use of the groups is subject to [ Yahoo's Privacy Policy](http://privacy.yahoo.com/privacy/us/). Please note our group settings do not allow other Yahoo Group members or the general public to see your email address or personal details. However, note that if you reply or post any of the Yahoo Groups we manage, your email address will be viewable to members on the list.
+Our newsletter is managed by Intellicontact and subscribers are subject to [ Intellicontact's Privacy Policy](http://www.intellicontact.com/email-privacy.pl). 
+
+We also run a few email groups from time to time and these groups are managed by [Yahoo Groups](http://groups.yahoo.com/). Use of the groups is subject to [ Yahoo's Privacy Policy](http://privacy.yahoo.com/privacy/us/). Please note our group settings do not allow other Yahoo Group members or the general public to see your email address or personal details. However, note that if you reply or post any of the Yahoo Groups we manage, your email address will be viewable to members on the list.
 
 Payments are accepted via PayPal on this website. If you are making a purchase via PayPal, you are subject to [ Pay Pal's Privacy Policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). 
 
@@ -30,12 +32,14 @@ This website provide links to websites outside of  Internet Based Moms™.  Inte
 
 **Copyright**
 
-All documents, information and logos included on this website are copyright  Internet Based Moms™ 2002-2003, except where noted. Any reproduction of other documents, information and logo is strictly prohibited without the written consent of  Internet Based Moms™.
+All documents, information and logos included on this website are copyright  Internet Based Moms™ 2002-2004, except where noted. Any reproduction of other documents, information and logo is strictly prohibited without the written consent of  Internet Based Moms™.
 
  ** Terms of Use**
 
 All advice provided on this website is for general informational purposes only.  Internet Based Moms™ is not responsible for any losses that may occur as a result of following this advice. 
 
-**Policy Changes**
+Individual services carry their own terms of use. If you are looking to purchase a service from  Internet Based Moms™, please consult the terms of service for that particular service.
+
+ **Policy Changes**
 
 Internet Based Moms™ reserve the right to make changes to these policies and encourage you to review the privacy policy frequently. By continued use of this website, you agree to accept these terms and any changes.
