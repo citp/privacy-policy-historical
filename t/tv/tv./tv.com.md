@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tv.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622092557id_/http%3A//www.cnet.com/aboutcnet/0-13611-7-811039.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206061000id_/http%3A//www.cnet.com/aboutcnet/0-13611-7-811039.html) for the most accurate reproduction.*
 
 # CNET.com - About CNET - Privacy Policy
 
@@ -56,6 +56,9 @@ CNET tracks user traffic patterns throughout all of our sites.
 
 CNET sometimes tracks and catalogs the search terms that users enter in Search.com, but this tracking is never associated with individual users. 
 
+**• Clear GIFs**  
+On occasion, CNET uses clear GIFs to track user traffic patterns. CNET does not aggregate or track personally identifiable information when using clear GIFs, only usage patterns. 
+
 **• Cookies**  
 A _cookie_ is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. CNET uses cookies to track user traffic patterns (as described above), when you register as a CNET member, and when you click an ad: 
 
@@ -91,6 +94,12 @@ In addition, the anonymous preference and interest information collected by Flyc
 
 To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please visit [Flycast's privacy page](http://www.flycast.com/about_us/about-privacy.html). 
 
+**• Third-Party Ad Servers**  
+Some of our advertisers use third-party advertising companies to serve their ads on our sites. These third-party advertising companies employ cookie technology to measure ad effectiveness. To do so, these companies may use information about your visits to our sites and other Web sites. Unless you are otherwise notified, these advertising companies do not use names, addresses, email addresses, or telephone numbers, and they do not link any online actions or cookies to an identifiable person. Use of their cookies is subject to their own privacy policies. If you would like more information about the privacy policies of the third-party advertisers on CNET's sites, including information on how to opt out of their cookies, check their sites: 
+
+[Avenue A's policy](http://www.avenuea.com/info/privacy.asp)  
+[DoubleClick's policy](http://www.doubleclick.com/us/corporate/privacy/)
+
 **2\. Use of the Information**  
 CNET uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
 
@@ -104,7 +113,11 @@ CNET uses any information voluntarily given by our users to enhance their experi
 
 
 **3\. Sharing of the Information**  
-CNET uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We do not share information about individual users with any third party, except in the case of some contests and sweepstakes\--and then, _only with a user's express consent._ CNET does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly. (CNET will divulge information only as necessary to comply with state and federal laws.) 
+CNET uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We do not share information about individual users with any third party, except in the case of some contests and sweepstakes\--and then, _only with a user's express consent._ CNET may make registration records and log files available on a confidential basis to third-party auditors and to select measurement and analysis firms. 
+
+CNET has entered into an agreement to acquire Ziff-Davis, Inc., the operator of ZDNet.com, in a merger expected to close in October 2000. To prepare for the integration of the merger, CNET may share non-personally-identifiable information with Ziff-Davis. 
+
+CNET does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly. (CNET will divulge information only as necessary to comply with state and federal laws.) 
 
 PostMasterDirect, CNET's partner in providing opt-in email announcement newsletters, has access to the information described in (2) above with respect to users who elect to receive opt-in email announcement newsletters. Neither CNET nor PostMasterDirect will share any of this information with third parties, including the companies that send announcements through PostMasterDirect. PostMasterDirect may use aggregated data regarding users' responses to the opt-in email announcement newsletters program to improve its services and to provide information to the companies sending the opt-in announcements. 
 
@@ -127,21 +140,21 @@ Currently, CNET does not offer users a means by which to completely delete perso
 
 **Click now!** Online offers from our sponsors
 
-| | |  |  | • | [**Company profile**](https://web.archive.org/aboutcnet/0-13612-7-309130.html)  
+| | |  |  | • | [**Company Profile**](https://web.archive.org/aboutcnet/0-13612-7-309130.html?nav)  
 ---|---  
-• | [**Editorial and Disclosure Policy**](https://web.archive.org/aboutcnet/0-13611-7-920000.html)  
-• | [**Press Releases**](https://web.archive.org/aboutcnet/0-13613.html)  
-• | [**Investor Relations**](https://web.archive.org/aboutcnet/0-13614.html)  
-• | [**Company Contacts**](https://web.archive.org/aboutcnet/0-13615.html)  
-• | [**Job openings**](https://web.archive.org/aboutcnet/0-13616.html)  
-• | [**Permissions**](https://web.archive.org/aboutcnet/0-13617.html)  
-• | [**How to advertise**](https://web.archive.org/aboutcnet/0-13618.html)  
-• | [**International**](https://web.archive.org/aboutcnet/0-13611-7-1461219.html)  
-• | [**Conferences**](http://www.cnet.com/Content/Builder/web.builder/)  
-• | [**Community Involvement**](https://web.archive.org/aboutcnet/0-13620.html)  
-• | [**Affiliate Program**](http://www.cnet.com/Affiliates)  
-• | [**TV and Radio Ads**](https://web.archive.org/aboutcnet/0-16094.html)  
-• | [**CNET Media Productions**](https://web.archive.org/aboutcnet/0-1422296.html)  
+• | [**Editorial and Disclosure Policy**](https://web.archive.org/aboutcnet/0-13611-7-920000.html?nav)  
+• | [**Press Releases**](https://web.archive.org/aboutcnet/0-13613.html?nav)  
+• | [**Investor Relations**](https://web.archive.org/aboutcnet/0-13614.html?nav)  
+• | [**Company Contacts**](https://web.archive.org/aboutcnet/0-13615.html?nav)  
+• | [**Job Openings**](https://web.archive.org/aboutcnet/0-13616.html?nav)  
+• | [**Permissions**](https://web.archive.org/aboutcnet/0-13617.html?nav)  
+• | [**How to Advertise**](https://web.archive.org/aboutcnet/0-13618.html?nav)  
+• | [**International**](https://web.archive.org/aboutcnet/0-13611-7-1461219.html?nav)  
+• | [**Conferences**](http://www.builder.com/Conference00/?nav)  
+• | [**Community Involvement**](https://web.archive.org/aboutcnet/0-13620.html?nav)  
+• | [**Affiliate Program**](https://web.archive.org/webbuilding/0-2633572.html?nav)  
+• | [**TV and Radio Ads**](https://web.archive.org/aboutcnet/0-16094.html?nav)  
+• | [**CNET Media Productions**](https://web.archive.org/aboutcnet/0-1422296.html?nav)  
   
   
 
