@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomrewards.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609174923id_/http%3A//www.zoomrewards.com/privacy.m%3Fco_id%3D3066897924%26u%3D%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomrewards.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207124311id_/http%3A//www.zoomrewards.com/privacy.m%3Fco_id%3D3066897924%26u%3D%26lang%3Den) for the most accurate reproduction.*
 
 # 
 
