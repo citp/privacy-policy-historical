@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the sbn.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604032347id_/http%3A//sbn.com/company/privpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbn.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/privpolicy.asp) for the most accurate reproduction.*
 
-# SBN.com Privacy Policy
+# Sbn.com - Privacy Policy
+
+   [About Us](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/about_us.asp)  
+     [Our Concept](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/concept.asp)  
+     [Contact Us](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/contact_mngmt.asp)  
+     [Employment](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/employment.asp)  
+     [Site Stats](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/site_stats.asp)  
+   [Products](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/salesinfo.asp)  
+     [Ad Rate Card](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/ad_rate.asp)  
+     [How to buy an Ad](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/how2buy.asp)  
+     [Ready to buy an Ad](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/ready2buy.asp)  
+     [Crosslinks](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/crosslinks.asp)  
+     [Licensing](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/licensing.asp)  
+   [Navigating Our Site](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/navigation.asp)  
+   [FAQ´s](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/faq.asp)  
+   [Privacy Policy](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/privpolicy.asp)  
+   [Copyright](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/copyright.asp)  
+   [Terms & Conditions](https://web.archive.org/web/20021004165001id_/http%3A//www.sbn.com/company/termscond.asp)
+
+| 
 
 **__Privacy Policy__**
 
@@ -44,13 +63,13 @@ While we use SSL encryption to protect sensitive information online, we also pro
 
 **Correction/Updating Personal Information**
 
-If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done by emailing [change@sbn.com](mailto:change@sbn.com) with Change in the subject line. 
+If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done by emailing [webmaster@sbn.com](mailto:webmaster@sbn.com) with Change in the subject line. 
 
 **Choice/Opt-out**
 
 You are given the opportunity to 'opt-out' of having your information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a listing from us, but don't want any marketing material, can keep their email address off of our lists. Your opt-out choice will be presented in the form of a check box following a statement to the effect that you do not wish to have your information retained for other purposes. If an opt-out choice is not presented at a specific location, that means that we are not using your personal information for any reason other than to process your request. 
 
-You may also opt out by emailing [remove@sbn.com](mailto:remove@sbn.com) with Remove in the subject line. 
+You may also opt out by emailing [webmaster@sbn.com](mailto:webmaster@sbn.com) with Remove in the subject line. 
 
 **Access by Children**
 
@@ -64,6 +83,6 @@ Effective August 2000.
 
 **Our Address  
 **SBN.com, Inc.  
-2392 Morse Ave.  
-Irvine, CA 92614   
+1777 Newport Blvd.  
+Costa Mesa, CA 92627   
 [http://www.sbn.com ](http://www.sbn.com/)
