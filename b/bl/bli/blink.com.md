@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the blink.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604171434id_/http%3A//blink.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blink.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215208id_/http%3A//blink.com/about/privacy) for the most accurate reproduction.*
 
 # Blink and Your Privacy
 
 **Blink Privacy Policy**
-
-[](https://www.truste.org/validate/4683)
 
 Maintaining your privacy--online and off--is of utmost importance to Blink. This policy will tell you exactly what we will and won't do with the private, personal information you provide us. Please feel free to read it in full, but here is a summary:
 
@@ -14,17 +12,11 @@ Maintaining your privacy--online and off--is of utmost importance to Blink. This
 
 If you ever have any questions about your privacy, please email us immediately at [privacy@blink.com](mailto:privacy@blink.com).
 
-**TRUSTe Privacy Program**
-
-Blink is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Blink wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Blink has agreed to notify you of: what personally identifiable information of yours is collected from you through Blink; how the information is used; any exceptional circumstance under which the information may be shared (it is the policy of Blink never to share your information); what choices are available to you regarding collection, use, and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse, or alteration of information under Blink's control; and how you can correct any inaccuracies in the information.
-
-If you have questions or concerns regarding this statement, you should first contact [privacy@blink.com](mailto:privacy@Blink.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with Blink to resolve your concerns.
-
 **Personal Information Collection**
 
-Two kinds of personal information are requested during registration: personally identifiable information and demographic information. Personally identifiable information is required for registration, but other demographic information is optional and may be given at your discretion. During registration, Blink asks for your first name, middle initial, last name, an e-mail address, and a home page, if you have one. In addition, we ask you to provide a password. Personally identifiable information is not shared with anyone, nor is it sold to anyone. The demographic information gathered includes gender, approximate age, country, language, zip code, time zone, occupation and industry. You may update any of this information at any time (except your member name) from within your Blink account by clicking the "Demographics" choice within the "Preferences" tab and changing any information you wish. The more information you provide us with, and the more accurate it is, the easier it is for us to customize your use of Blink, as well as provide information to you that you will find useful. For example, your personal profile might help us connect you with other members who share similar interests to yours. 
+Two kinds of personal information are requested during registration: personally identifiable information and demographic information. Personally identifiable information is required for registration, but other demographic information is optional and may be given at your discretion. During registration, Blink asks for your first name, middle initial, last name, an e-mail address, and a home page, if you have one. In addition, we ask you to provide a password. Personally identifiable information is not shared with anyone, nor is it sold to anyone. The demographic information gathered includes gender, approximate age, country, language, zip code, time zone, occupation and industry. The more information you provide us with, and the more accurate it is, the easier it is for us to customize your use of Blink, as well as provide information to you that you will find useful. For example, your personal profile might help us connect you with other members who share similar interests to yours. 
 
-In addition to registration we may ask you for personal information at other times, such as when you report a problem with one of our sites or services. Blink may also occasionally ask members to complete surveys that we use for internal research. Blink also tracks information about web site visitation, on an aggregated basis. Blink calculates the total number of Blink members who have bookmarked a site. Blink calculates the aggregate number of visits to a site by all Blink members together. When you are viewing a link in a public folder, Blink also tells you the last time that link was visited by any member of Blink. You can choose not to have your links and visits counted towards these aggregate totals by checking no to the question: "Add my bookmarks to the Blink Search Engine, to help other Members find great sites?" found within the "General Settings" choice within the "Preferences" tab. This aggregate information is posted on the web site, and available to our registered members to view. This information can also be used to help you find communities of members with similar interests.
+In addition to registration we may ask you for personal information at other times, such as when you report a problem with one of our sites or services. Blink may also occasionally ask members to complete surveys that we use for internal research. Blink also tracks information about web site visitation, on an aggregated basis. Blink calculates the total number of Blink members who have bookmarked a site. Blink calculates the aggregate number of visits to a site by all Blink members together. When you are viewing a link in a public folder, Blink also tells you the last time that link was visited by any member of Blink. This aggregate information is posted on the web site, and available to our registered members to view.
 
 **Personal Information Utilization**
 
@@ -44,7 +36,7 @@ Blink uses "Cookies" to identify a member's session on Blink and thereby offer c
 
 **Blink Profiles**
 
-During the Blink registration process you have the opportunity to choose whether you want your profile information to be made available to other members. This profile information includes your name, email address, and the address of your homepage, if applicable. You can change or remove your profile at any time by clicking on the "General Settings" option in the "Preferences" tab.
+During the Blink registration process you have the opportunity to choose whether you want your profile information to be made available to other members. This profile information includes your name, email address, and the address of your homepage, if applicable. You can change your profile at any time by clicking on the appropriate area on the site.
 
 **Security**
 
@@ -76,7 +68,7 @@ If you are interested in exploring privacy issues on the Internet further please
 
 
 
-The Blink website and BlinkRewards program are owned and operated by:
+The Blink and BlinkPro websites are owned and operated by:
 
 Blink.com, Inc.  
 64 Fulton Street, 5th Floor  
@@ -85,4 +77,4 @@ Tel.: (212) 619-6200
 Fax: (212) 619-0080  
 
 
-Updated 6-2000
+Updated 10-2001
