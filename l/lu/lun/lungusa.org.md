@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204081141id_/http%3A//www.lungusa.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609103819id_/http%3A//www.lungusa.org/privacy/index.html) for the most accurate reproduction.*
 
 # Registration Information/Privacy Policy
 
 The American Lung Association® is dedicated to protecting the privacy of our online visitors. You may choose to supply personal information in eight different areas on this site: 
 
 > * _**"[Site Membership](http://www.lungusa.org/join/index.html)" Registration:**_   
-> When you register as a "member" of the nationwide American Lung Association web site,[www.lungusa.org](https://web.archive.org/web/20021204081141id_/http%3A//www.lungusa.org/privacy/www.lungusa.org), you will be required to provide the following information: your name, e-mail address, zip code, age, member name and password. 
+> When you register as a "member" of the nationwide American Lung Association web site,[www.lungusa.org](https://web.archive.org/web/20030609103819id_/http%3A//www.lungusa.org/privacy/www.lungusa.org), you will be required to provide the following information: your name, e-mail address, zip code, age, member name and password. 
 > 
 > In addition, you have the option of letting the American Lung Association contact you in the future. This form also requests additional information, including: your address, household income, education, marital status and occupation. This information helps us define the demographic make-up or our visitors online.
 > 
@@ -32,7 +32,7 @@ The American Lung Association® is dedicated to protecting the privacy of our on
 > * **_Signing the "[Wall of Remembrance](http://www.lungusa.org/bin/wall/wallview.pl)" or the "[Living with Lung Disease Wall](http://www.lungusa.org/bin/living/livingview.pl)"_**   
 > When you choose to sign either one of our two _'Walls,'_ you are posting a user name, email address, and message that you define on a public forum. 
 > 
-> Should you have trouble with your posting to either of the _'Walls,'_ feel free to contact [webmaster@lungusa.org](https://web.archive.org/web/20021204081141id_/http%3A//www.lungusa.org/privacy/mailto) for assistance. 
+> Should you have trouble with your posting to either of the _'Walls,'_ feel free to contact [webmaster@lungusa.org](https://web.archive.org/web/20030609103819id_/http%3A//www.lungusa.org/privacy/mailto) for assistance. 
 > 
 > * **_Registering for "[Freedom From Smoking® Online](http://www.lungusa.org/ffs/logon.html):"_**   
 > Registrants to our free online smoking cessation program fill out a form that supplies _required_ and _unrequired_ information. The _required_ information enables the American Lung Association to better support your smoking cessation effort, allowing you to opt-in to further email contact by the American Lung Association. The _unrequired_ information mirrors questions asked in our "off-line" smoking cessation program and offers valuable demographic information on Freedom From Smoking® online users. 
