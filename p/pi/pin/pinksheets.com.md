@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinksheets.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216220223id_/http%3A//www.pinksheets.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinksheets.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604015546id_/http%3A//www.pinksheets.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement--PinkSheets.com
 
