@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217221214id_/http%3A//softscrub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308032412id_/http%3A//www.softscrub.com/privacy.html) for the most accurate reproduction.*
 
 # Soft Scrub® - Privacy Policy
 
