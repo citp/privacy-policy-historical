@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2004-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040802232504id_/http%3A//www.ewu.edu/itportfolio/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305052109id_/http%3A//www.ewu.edu/x13715.xml) for the most accurate reproduction.*
 
-# Untitled Document
+# EWU | EWU Privacy Policy
 
-  
-Thank you for visiting the Eastern Washington University website and reviewing our Privacy Notice. This statement addresses collection, use, and security of and access to information that may be obtained through use of Eastern Washington University's website. This notice covers the following topics: 
+[Home](https://web.archive.org/web/20050305052109id_/http%3A//www.ewu.edu/x336.xml)
+
+EWU Privacy Policy  
+ Thank you for visiting the Eastern Washington University website and reviewing our Privacy Notice. This statement addresses collection, use, and security of and access to information that may be obtained through use of Eastern Washington University's website. This notice covers the following topics:
 
 > • Information Collected and How it is Used  
 >  • Personal Information and Choice  
->  • Public Access to Information   
->  • Nondisclosure of Certain Personal/Private Information   
+>  • Public Access to Information  
+>  • Nondisclosure of Certain Personal/Private Information  
 >  • Review and Correction of Personally Identifiable Information  
->  • Cookies   
+>  • Cookies  
 >  • Security  
 >  • Disclaimer  
 >  • Contact Information
@@ -39,7 +41,7 @@ If during your visit to our website you participate in a survey, send an email, 
 > 
 > 3\. Information volunteered through an on-line form for any other purpose.
 
-The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us. 
+The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
 
 We use your email to respond appropriately. This may be to respond to you, to address issues you may identify, to further improve our website, or to forward the email to another agency for appropriate action.
 
@@ -48,9 +50,9 @@ We use your email to respond appropriately. This may be to respond to you, to ad
 **  
 You may choose whether to provide personal information on-line.**
 
-"Personal information" is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, and phone number. A domain name or Internet Protocol address is not considered personal information. 
+"Personal information" is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, and phone number. A domain name or Internet Protocol address is not considered personal information.
 
-We collect no personal information about you unless you voluntarily provide it to us by sending us email, participating in a survey, or completing an on-line form. You may choose not to contact us by email, participate in a survey or to provide any personal information using an online form. Your choice to not participate in these activities will not impair your ability to browse Eastern Washington University's website and read or download any information provided on the site. 
+We collect no personal information about you unless you voluntarily provide it to us by sending us email, participating in a survey, or completing an on-line form. You may choose not to contact us by email, participate in a survey or to provide any personal information using an online form. Your choice to not participate in these activities will not impair your ability to browse Eastern Washington University's website and read or download any information provided on the site.
 
 If personal information is requested on the website or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
 
@@ -63,9 +65,9 @@ Users are cautioned that the collection of personal information requested from o
   
 **Public Access to Information**
 
-In the State Of Washington, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Exceptions are provided by both state and federal laws. 
+In the State Of Washington, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Exceptions are provided by both state and federal laws.
 
-All of the information collected at this site becomes public records that may be subject to inspection and copying by members of the public, unless an exemption in law exists. RCW 42.17. 260(1) states that 
+All of the information collected at this site becomes public records that may be subject to inspection and copying by members of the public, unless an exemption in law exists. RCW 42.17. 260(1) states that
 
 > Each agency, in accordance with published rules, shall make available for public inspection and copying all public records, unless the record falls within the specific exemptions of subsection (6) of this section [RCW 42.17.260(6)], RCW 42.17.310, 42.17.315, or other statute which exempts or prohibits disclosure of specific information or records. To the extent required to prevent an unreasonable invasion of personal privacy interests protected by RCW 42.17.310 and 42.17.315, an agency shall delete identifying details in a manner consistent with RCW 42.17.310 and 42.17.315 when it makes available or publishes any public record; however, in each case, the justification for the deletion shall be explained fully in writing.
 
@@ -92,14 +94,14 @@ You can review any personally identifiable information we collect about you by u
   
 **Cookies**
 
-To better serve our users we are now using "cookies" to customize your browsing experience with Eastern Washington University. Cookies are simple text files stored on your computer by your web browser.   
+To better serve our users we are now using "cookies" to customize your browsing experience with Eastern Washington University. Cookies are simple text files stored on your computer by your web browser.  
 
 
 * * *
 
 **Security**
 
-Eastern Washington University, as developer and manager of this website, has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by Eastern Washington University. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession. 
+Eastern Washington University, as developer and manager of this website, has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by Eastern Washington University. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.
 
 This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via EWU's websites.  
 
@@ -112,7 +114,7 @@ The Eastern Washington University website has many links to other websites. Thes
 
 Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
 
-[Download the Privacy Statement in PDF format](https://web.archive.org/ITPortfolio/Overview/pdf/PrivacyStatement.pdf)  
+[Download the Privacy Statement in PDF format](http://www2.ewu.edu/ITPortfolio/Overview/pdf/PrivacyStatement.pdf)  
 
 
 * * *
@@ -136,3 +138,6 @@ To offer comments about Eastern Washington University's website, or about the in
 >  (509)359-7087  
 >  (509)359-6796  
 >  [webadmin@mail.ewu.edu](mailto:webadmin@mail.ewu.edu)
+
+  
+
