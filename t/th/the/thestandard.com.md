@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2001-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010401003500id_/http%3A//www.thestandard.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020023127id_/http%3A//www.thestandard.com/privacy) for the most accurate reproduction.*
 
-# TheStandard.com
+# The Standard: Company Index
 
-**Privacy Policy**
+  
+[Home](https://web.archive.org/) > [Company Index](https://web.archive.org/companies/0,1921,,00.html) > [Insights](https://web.archive.org/companies/insights) > Commerce
 
-**Principles**
+Privacy Policy
+
+Principles
 
   * _The Industry Standard_ will not release your personal data to anyone else without your consent. 
   * _The Industry Standard_ does not monitor individual traffic patterns on our site — only aggregate reader behavior is collected.
@@ -12,15 +15,15 @@
 
 
 
-**Gathering of Information**
+Gathering of Information
 
-  * Optional Registration 
+  * Optional Registration
 
-TheStandard.com offers free, voluntary registration to users. By registering, users can enter the site without having to log on each time; users who register will have complete access to all content and resources on the site; and users who register receive the best available subscription offer at our website. During registration the user is required to supply a username, password and email address, and must answer mandatory survey questions about age, gender, income, Internet connection, zip code, country, employment status, and other employment information. 
+TheStandard.com offers free, voluntary registration to users. By registering, users can enter the site without having to log on each time; users who register will have complete access to all content and resources on the site; and users who register receive the best available subscription offer at our website. During registration the user is required to supply a username, password and email address, and must answer mandatory survey questions about age, gender, income, Internet connection, zip code, country, employment status, and other employment information.
 
   * Electronic Newsletters 
 
-_The Industry Standard_ offers several electronic newsletters to users. _The Industry Standard_ gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page or by unsubscribing in the [newsletter subscription](http://www.standardservices.com/newsletters/UnsubNews.asp) area of our website. Users can also subscribe to the newsletters at the time of registration. 
+_The Industry Standard_ offers several electronic newsletters to users. _The Industry Standard_ gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the instructions provided in every newsletter or by unsubscribing in the [My Account](https://web.archive.org/account/newsletters/1,1758,,00.html) area of our website (requires registration). Users can also subscribe to the newsletters at the time of registration. 
 
 
 
@@ -47,7 +50,7 @@ You can refuse cookies by turning them off in your browser. You do not need to h
 
 
 
-**Use of the Information**
+Use of the Information
 
 _The Industry Standard_ uses any information voluntarily given by our users to enhance their experience, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
 
@@ -59,7 +62,7 @@ _The Industry Standard_ creates aggregate reports on user demographics and traff
 
 _The Industry Standard_ does allow select advertisers to mail promotions to registrants and newsletter recipients who have given us their permission to do so. All promotions are pre-approved by _The Industry Standard_ and all mailings are conducted by a reputable third party mail house to ensure the names are not mis-used or used more than once. Our users are asked at the time when their information is collected if they would prefer to not receive promotions from our partners. You may change this designation at anytime. 
 
-**Maintenance Policy**
+Maintenance Policy
 
 _The Industry Standard_ gives users options wherever necessary and practical. Such choices include: 
 
@@ -75,3 +78,6 @@ _The Industry Standard_ offers users the ability to correct or change the inform
 Users may unsubscribe to any of our electronic newsletters at anytime by following the instructions contained at the end of every newsletter. 
 
 Currently, _The Industry Standard_ does not offer users a means by which to completely delete personal information established at the time of registration for any site. 
+
+  
+
