@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204050127id_/http%3A//www.dll-files.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305035720id_/http%3A//www.dll-files.com/privacy.shtml) for the most accurate reproduction.*
 
-# www.dll-files.com - Privacy Policy
+# DLL-files.com - Privacy Policy
 
 | 
 
@@ -8,7 +8,7 @@ We have a special Privacy Policy at our 24/7 Livesupport. [Privacy Policy for 24
 
 This is the web site of **www.dll-files.com**.
 
-To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20041204050127id_/http%3A//www.dll-files.com/contact.php)
+To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20050305035720id_/http%3A//www.dll-files.com/contact.php)
 
 For each visitor to our Web page, our Web server automatically recognizes the following:
 
@@ -20,7 +20,7 @@ With respect to cookies: We do not set any cookies.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20041204050127id_/http%3A//www.dll-files.com/contact.php).
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20050305035720id_/http%3A//www.dll-files.com/contact.php).
 
 From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
 
@@ -36,36 +36,24 @@ Consumers can have this information corrected by writing to us at the above addr
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-|  |  |   
----|---|---  
-|  |  |  WinTasks 5 Professional
-
-Get full controll of all processes, running on your computer with WinTasks 5 Professional.  
-
-
+| DLL-files.com recommends you:  
+---  
+[](http://www.lidownloads.com/partners/sites/dll-files/wintasks/) | **WinTasks 5 Professional  
+Security Made Easy**
 * Remove and **block Spyware** , Adware, Malware, Dialers, and more...
 * Approve every process running on your computer
 * Identify all possible threats, with detailed process information
 
 With WinTasks 5, you don't have to worry about processes silently running in the background. You will easily identify and remove Spyware, using the advanced autostart controller.  
-There is not other software, that will give you full controll of your computer, like WinTasks 5. 
-
-**[Click here to get more information...](http://www.lidownloads.com/partners/sites/dll-files/wintasks/) **
-
+There is no other software, that will give you full controll of your computer, like WinTasks 5.   
+[](http://www.lidownloads.com/partners/sites/dll-files/wintasks/)  
   
-  
----|---  
-|  SpeedUpMyPC   
-\- Increase System Speed  
-and Performance Today 
+[](http://www.lidownloads.com/partners/sites/dll-files/winbackup/) | **WinBackup 2.0 Standard  
+Backup Made Easy**
 
-Are you tired of crashes, slow Internet connections and applications that run out of resources every 5 minutes? **SpeedUpMyPC is a new powerful system utility from LIUtilities Inc that helps you get the most out of your computer without being a Windows expert.**
+The home and small office backup solution that awards 100% reliability and superior performance. Awarded Best Backup Software by Computer Shopper and termed "exceptionally simple to use" by PC World, WinBackup 2.0 Standard is now the obvious choice for home and small office users. Being one of the most efficient and reliable backup solutions available WinBackup 2.0 Standard will help you save both time and money.
 
-SpeedUpMyPC can free up memory and other resources. It can optimize your internet connection, reassign CPU resources to improve performance, prevent crashes and reduce startup times considerably. Get SpeedUpMyPC today and **improve your system performance in minutes.**
-
-**[Read More About SpeedUpMyPC Now...](http://www.lidownloads.com/partners/sites/dll-files/speedup/)**  
+[](http://www.lidownloads.com/partners/sites/dll-files/winbackup/)  
   
-|  |   
-  
-[  
-](http://ads.vesperexchange.com/clickme?869427:80095:952655757)[](http://www.vesperexchange.com/signup.php3?referrer=869427)
+[](https://web.archive.org/web/20050305035720id_/http%3A//www.dll-files.com/ad_out.php?annonsId=19)  
+[](http://www.ms-links.com/)
