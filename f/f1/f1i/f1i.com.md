@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f1i.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203174421id_/http%3A//www.f1i.com/UpdateEngine%3FFUELAP_SITEDBID%3DSITE%255F%252D65%26FUELAP_OP%3DFUELOP_NewScreen%26FUELAP_TEMPLATENAME%3DPrivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f1i.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604154310id_/http%3A//www.f1i.com/UpdateEngine%3FFUELAP_SITEDBID%3DSITE%255F%252D66%26FUELAP_OP%3DFUELOP_NewScreen%26FUELAP_TEMPLATENAME%3DPrivacy%26) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
