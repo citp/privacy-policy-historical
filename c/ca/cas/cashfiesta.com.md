@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203053900id_/http%3A//cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashfiesta.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604210426id_/http%3A//cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.*
 
 # Make money online: Cashfiesta Policies
 
@@ -28,7 +28,7 @@ When you visit Cashfiesta.com, we place a text file called a "cookie" in the bro
 
 **Choice/Opt-Out**
 
-Our site provides you with the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about you. To remove your information from our database, to not receive future communications or to no longer receive our service, you can send email to cancel@cashfiesta.com. 
+Our site provides you with the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about you. To remove your information from our database, to not receive future communications or to no longer receive our service, you can send email to [cancelmyaccount@cashfiesta.com](mailto:cancelmyaccount@cashfiesta.com). 
 
 **Advertising Sources**
 
@@ -40,4 +40,4 @@ We have relationships with third-party advertising, marketing and email companie
 
 **Contacting Us**
 
-We value your trust and we are committed to your privacy. If you have any questions about this privacy statement, Cashfiesta.com practices, or feel that your privacy has been compromised in any way, please contact us at [privacy@cashfiesta.com](mailto:privacy@cashfiesta.com). 
+We value your trust and we are committed to your privacy. If you have any questions about this privacy statement, Cashfiesta.com practices, or feel that your privacy has been compromised in any way, please contact us at [support@cashfiesta.com](mailto:support@cashfiesta.com). 
