@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woio.com privacy policy that was archived on 2001-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010502155622id_/http%3A//www.woio.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woio.com privacy policy that was archived on 2001-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011120174412id_/http%3A//www.woio.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Station’s Privacy Policy
 
