@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603184500id_/http%3A//www.chooseyouritem.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204202340id_/http%3A//www.chooseyouritem.com/policy.html) for the most accurate reproduction.*
 
-# Classifieds for homes, real estate, autos, classic cars, motorcycles, rvs, business, airplanes, jobs, employment and more.
+# Classifieds. For sale and wanted. Better than ebay for used cars, classic cars, auto parts, exotic sports cars, motorcycles, RVs, airplanes, homes, and real estate.
 
-  
-|   | 
+  | 
 
 ## Use Agreement and Privacy Statement
 
@@ -25,31 +24,4 @@ Of course, information that is voluntarily presented as contact information for 
 
 If you are participating in any form of newsletter program that is being managed and hosted by this classifieds network, the email address that you provide to us will only be used by this classifieds network to send email communications that you have specifically told us you are interested in receiving. This information will never be made available to any third parties. You may remove yourself from the newsletter program at any time by sending an email to: [info@chooseyouritem.com](mailto:info@chooseyouritem.com). 
 
-|    
----|---|---  
-  
-
-
-If you have any additional questions about this classifieds network's dedication to consumer privacy, please contact us at [info@chooseyouritem.com](mailto:info@chooseyouritem.com). 
-
-  
-|   |  | **Buy, Sell  &   
-Trade On Our  
-Premium Sites!**  
----  
-    
- |  |    
-  |  |     
- |  |    
-  |  |    
- |  |    
-  |  |    
- |  |    
-  |  |    
- |  |    
-  |  |    
- |  |    
-  |  |    
- |  |    
-  |  |     
-|  |  
+|  
