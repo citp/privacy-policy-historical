@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2004-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040414020636id_/http%3A//www.macrovision.com/company/legal/legal_and_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208193700id_/http%3A//www.macrovision.com/company/legal/legal_and_privacy.shtml) for the most accurate reproduction.*
 
 # Macrovision | Legal | Legal and Privacy Notices
 
