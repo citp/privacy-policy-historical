@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the realitytvworld.com privacy policy that was archived on 2002-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020401235548id_/http%3A//www.realitytvworld.com/realitytvworld/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitytvworld.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401153838id_/http%3A//www.realitytvworld.com/realitytvworld/privacy.shtml) for the most accurate reproduction.*
 
-# RealityTVWorld.com
+# Reality TV World Privacy Policy @ Reality TV World - News, information, episode summaries, message boards, chat and games for unscripted television programs
+
+[HOME](http://www.realitytvworld.com/) > [Reality TV World Privacy Policy](http://www.realitytvworld.com/realitytvworld/privacy.shtml)
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 **Information Collection and Use**
 
-RealityTVWorld.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. SurvivorBlows.com collects information from our users at several different points on our website. 
+RealityTVWorld.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. RealityTVWorld.com collects information from our users at several different points on our website. 
 
 **Registration**
 
@@ -18,7 +20,7 @@ In order to use our message boards an valid email address must be provided to co
 
 **Third Party Advertising**
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp)
+We use DoubleClick, ValueAd.com, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). Click [here](http://www.doubleclick.com/us/corporate/privacy/) to view [DoubleClick's privacy statement](http://www.doubleclick.com/us/corporate/privacy/). Click [here](http://www.valuead.com/privacy.html) to view [ValueAd.com's privacy statement](http://www.valuead.com/privacy.html). 
 
 **Cookies**
 
