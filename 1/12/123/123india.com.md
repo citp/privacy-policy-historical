@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123india.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021021003id_/http%3A//123india.com/p/p/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123india.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603163823id_/http%3A//123india.com/p/p/pp) for the most accurate reproduction.*
 
 # 123India.com Privacy Policy
 
@@ -37,15 +37,15 @@ As part of offering and providing customizable and personalized services, 123Ind
 
 
 
-Advertising networks that serve ads onto 123India.com may also use their own cookies. 
+**Third Party Cookies :** Advertising networks that serve ads onto 123India.com may also use their own cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
   * **How does 123India.com use my information?**
 
 123India.com's primary goal in collecting personal information is to provide you, the user, with a customized experience on our network of sites. This includes personalization services, interactive communications, and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements. By knowing a little about you, 123India.com is able to deliver more relevant advertisements and content, and hence better service, to you. 
 
-In our role of delivering targeted advertisements, 123India.com plays the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, males over 35 years old). 123India.com takes the advertisement and displays it to users meeting that criteria. In this process, the advertiser never has access to individual account information. Only 123India.com has access to individuals' accounts. This kind of advertisement targeting is done with banner ads. You will only receive special offers via email from 123India.com if you have indicated in your account preferences that you would like to receive them. You can change your account preferences at any time. 
-
 123India.com does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. 123India.com may share this aggregated data with advertisers or business partners. 
+
+**Third Party Advertising** : The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here - [ http://www.doubleclick.net/us/corporate/privacy.](http://www.doubleclick.net/us/corporate/privacy/)
 
   * **Who is collecting information?**
 
@@ -54,8 +54,6 @@ When you are on a 123India.com site and are asked for personal information, you 
 Promotions that run on 123India.com may be sponsored by companies other than 123India.com or may be cosponsored by 123India.com and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don't want your data to be shared. 
 
 Please be aware that 123India.com Internet access partners, advertisers, and web sites that have links on our site may collect personally identifiable information about you. The information practices of those Internet access partners, advertisers, and web sites linked to 123India.com are not covered by this privacy statement. 
-
-123India.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [ http://www.flycast.com/about_us/about-privacy.html.](http://www.flycast.com/about_us/about-privacy.html)
 
   * **With whom does 123India.com share my information?**
 
