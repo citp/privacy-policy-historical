@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204100900id_/http%3A//www.ino.com/helpline/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602161007id_/http%3A//www.ino.com/helpline/%3Fprivacy) for the most accurate reproduction.*
 
 # INO Help
 
@@ -8,6 +8,7 @@
   
   
 ---  
+  
 **INO.com Privacy Policy**
 
 As a leading financial Internet site, INO.com is committed to protecting the personal information that you submit to us. As a consequence, we guarantee never to deliberately disclose individually identifiable information about you to any outside source without your express consent. 
