@@ -1,58 +1,80 @@
-> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206063208id_/http%3A//www.gipsymedia.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiguide.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605130758id_/http%3A//www.digiguide.com/general/privacy.shtml) for the most accurate reproduction.*
 
-# GipsyMedia Limited - Privacy Statement
+# DigiGuide: The Best TV Guide - Privacy Statement
 
-Your privacy on the Internet is important to us. Below is information regarding GipsyMedia's commitment to protect the privacy of users and to ensure the integrity of the Internet.
+[Home](https://web.archive.org/index.shtml) » Privacy Statement
 
-If we decide to change our privacy statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+Your privacy on the Internet is important to us and therefore we have created this statement to detail our commitment to protect the privacy of customers and to ensure the integrity of the Internet. If we decide to change our privacy statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
 
-GipsyMedia gathers two types of information about users: data that users provide through registration on our sites and through registration of DigiGuide; and aggregated tracking information derived mainly by tallying page views throughout our sites. Such information enables us to specify features for our products appropriate to our users, and to better tailor our web site content to readers' needs.
+## Our promise to you...
 
-GipsyMedia gathers user information in the following processes:
+### Your personal details
 
-### Voting
+The information supplied in our online Account System is to help you manage your product subscriptions and complete the payment process as quickly and painlessly as possible.
 
-> GipsyMedia offers interactive votes for users so they can easily choose the channels and features that should be developed for our products.
+We ask for your address so we can auto-complete your credit card details when purchasing, and so our technical support helpdesk can find your account should you require any help.
 
-### Forums
-
-> Users of the GipsyMedia Forums can register to interact with them. Registration is free and users can continue using these services even if they do not register. During registration the user is required to supply a username, password and email address. The user can later supply more information that he/she wants to share with others as part of their profile.
-
-### Electronic Newsletters
-
-> GipsyMedia offers free newsletters to users. GipsyMedia gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the instructions provided in every newsletter that describes how to unsubscribe.
-
-### Surveys
-
-> Occasionally GipsyMedia conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our and partners. We never share any of this information about specific individuals with any third party.
-
-### Usage Tracking
-
-> GipsyMedia tracks user traffic patterns throughout our sites. GipsyMedia breaks down overall usage statistics according to a user's browser type and MIME type by reading this information from the browser string (information contained in every user's browser).
-> 
-> GipsyMedia Limited also collects [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration purposes only.
-
-### Cookies
-
-> A [cookie](http://www.zdwebopedia.com/TERM/c/cookie.html) is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. A cookie can't read data off your hard disk or read cookie files created by other sites.
-> 
-> If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie.
-> 
-> You can refuse cookies by turning them off in your browser. However, you will need to have cookies turned on to use some GipsyMedia products.
-> 
-> More information can be found in the [Cookies Knowledgebase Article](http://www.digiguide.com/dg/faq/cookies.shtml).
-
-### Advertising
-
-> GipsyMedia sites use the services of Google for the serving and/or targeting of ads, promotions and other marketing messages on our [DigiGuide Library](http://library.digiguide.com/) web site only. To learn more about Google, go to <http://www.google.com/privacy.html>.
-
-GipsyMedia uses any information voluntarily given by our users two-fold: 
-
-  * to customise the development of our products so that it better suits their requirements
-  * to enhance their experience at our site, whether to provide interactive or personalized elements on the site or to better prepare future content based on their interests
+  
 
 
+### Your privacy
 
-GipsyMedia uses the above-described information to tailor our content to suit your needs. In the case of sites that contain advertising, GipsyMedia does not control the practices of our advertisers. If you have questions about how our advertisers use information about you when you click their ad and go to their content, please contact them directly.
+**We respect** your privacy and the data obtained and stored by us is protected under UK law by the Data Protection Act (1998).
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with the GipsyMedia web sites, you can contact [webmaster@gipsymedia.com](mailto:webmaster@gipsymedia.com).
+**We promise not to sell or share** any of your personal details obtained by our account system to any third party.
+
+**We promise not to send any unsolicited e-mail.** The only e-mails you will receive from us are subscription reminders or security notices from this account system, the newsletters you have specifically asked to receive or an occasional e-mail from members of staff.
+
+  
+
+
+### Your protection
+
+**We will only** ever communicate to you using your full name (when you have entered it).
+
+**We will never** request any bank or credit card information whatsoever.
+
+**We will never** ask you to confirm your personal details from within an e-mail.
+
+## Our usage of information...
+
+We store two types of information about customers: information customers provide through various areas of our web sites; and aggregated statistical information derived by tallying page views throughout our sites. We obtain this information by the following means:
+
+#### Online account system
+
+Visitors to the DigiGuide Online Account System are required to register their details to continue. This information is to assist you in managing your usage and subscription of our products. Certain items of information are requested and stored, like the card holder's address, so that purchasing a subscription is quick and easy. All the information is stored securely. The information is used by support, accounts and technical staff to assist you in any questions or problems you may have with using or purchasing our products. 
+
+#### Online helpdesk
+
+When creating a Helpdesk Ticket, only your e-mail address is required so that you can receive information on the status of your issue. All information within the helpdesk is used purely to answer your questions and is not used by GipsyMedia in any other way.
+
+#### Online forums
+
+Visitors to the DigiGuide Forums can register to interact with them. Registration is free and visitors can continue using these services even if they do not register. During registration the visitor is required to supply a username, password and email address. The visitor can later supply more information that he/she wants to share with others as part of their profile. This information is used purely to login to the forum system and is not used by GipsyMedia in any other way.
+
+#### Web site traffic
+
+We track visitor traffic patterns throughout our sites. This information is broken down per page and viewed by us internally to see which areas of our web sites are the most popular. The only potentially 'visitor-specific' information that we store is the [IP address](http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=define%3A+ip+address) so that our web site usage statistics are more accurate.
+
+#### Cookies
+
+A [cookie](http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&q=define%3A+cookie) is a small data file that a web site can write to your hard drive when visited. We only use cookie files to store the login information for various areas of our web sites like the [Account Management](http://accounts.digiguide.com/) system and the [Online Forums](http://forums.digiguide.com/) so that you do not need to manually login on each visit. A cookie can't read data off your hard disk or read cookie files created by other sites.
+
+If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can also refuse cookies by turning them off in your browser. However, you will need to have cookies turned on to use some some areas of our web sites fully.
+
+### Questions
+
+If you have any questions regarding our privacy statement, we are only too happy to answer them. In this regard, please contact [privacy@gipsymedia.com](mailto:privacy@gipsymedia.com).
+
+  
+
+
+* * *
+
+[Copyright ©1999-2004 GipsyMedia Ltd](http://www.gipsymedia.com/general/copyright.html). All rights reserved.  
+[Site Map](http://www.digiguide.com/general/sitemap.shtml) | [About Us](http://www.gipsymedia.com/) | [Privacy Statement](http://www.digiguide.com/general/privacy.shtml) | [Terms and Conditions](http://www.digiguide.com/general/termsoverview.shtml)
+
+Reproduction of material from this web site without prior written permission is strictly prohibited. All contributions to this site are copyright GipsyMedia Limited.
+
+  
+
