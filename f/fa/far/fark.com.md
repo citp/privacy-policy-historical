@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203220128id_/http%3A//www.fark.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607030120id_/http%3A//www.fark.com/privacy.shtml) for the most accurate reproduction.*
 
 # FARK.com: Privacy Policy
 
-|  **Fark's Privacy Policy**   
+| 
 
+## Fark's Privacy Policy
 
 **Short Version**  
 We will not give your addresses to third parties. We hate spammers. Bunch of jackasses is what they are. 
