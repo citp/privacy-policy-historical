@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whizlabs.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210045550id_/http%3A//www.whizlabs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whizlabs.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605193643id_/http%3A//whizlabs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Whizlabs: Privacy Policy
 
-| **Products**  
+| **Exam Simulators**  
 ---  
 Sun  
 IBM  
@@ -10,33 +10,38 @@ BEA
 Oracle  
 Microsoft  
 Cisco  
-Red Hat  
-CIW  
 Novell  
+Red Hat  
+ **Online Trainings**  
+Sun  
+RHCE  
+ **Certification Forums**  
  **Information**  
-Certification-Why?  
-Certification-How?  
-FREE Demos  
-Certification Forums  
-Press Releases  
 Reviews  
 Testimonials  
 Success Stories  
 Why Whizlabs  
 Tell a Friend  
-Affiliate Program  
- **Solutions**  
+Test PASS Guarantee  
+ **Whizlabs Solution Centre**  
 Corporate  
 Individual  
 User Groups  
 Publishers  
   
-All Java Certification  
+All Java Certifications  
 ---  
 SCJP 1.4, 1.2, Upgrade  
-SCWCD  
+SCWCD 1.4, 1.3  
 SCBCD  
 SCEA  
+SCMAD  
+  
+UML  
+---  
+XML  
+WebSphere  
+J2EE (484)  
   
 All Oracle Certifications  
 ---  
@@ -50,11 +55,19 @@ MCSA
 MCSD .Net  
 MCSD  
   
-CCNA  
+Cisco Certification  
 ---  
+CCNA  
 » 640-801  
 CCNP  
 » 640-604  
+  
+Online Trainings  
+---  
+Employee Evaluation  
+Recruitment Solution  
+IT Certification Preparation  
+Training Evaluation  
   
 |  |  |  Privacy Policy   
 ---|---  
