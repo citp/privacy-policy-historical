@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204101956id_/http%3A//www.nationalservice.org/privacy_pol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603202814id_/http%3A//www.nationalservice.org/privacy_pol.html) for the most accurate reproduction.*
 
 # Corporation for National Service : Privacy Policy
 
-**[About Us](https://web.archive.org/web/20021204101956id_/http%3A//www.nationalservice.org/about/index.html) : [Corporation Policies](https://web.archive.org/web/20021204101956id_/http%3A//www.nationalservice.org/about/policies.html) : Privacy Policy**
+**[About Us](https://web.archive.org/web/20030603202814id_/http%3A//www.nationalservice.org/about/index.html) : [Corporation Policies](https://web.archive.org/web/20030603202814id_/http%3A//www.nationalservice.org/about/policies.html) : Privacy Policy**
 
 **Disclaimer**  
 Some of the documents on this server may contain live references (or pointers) to information created and maintained by other organizations. Please note that the Corporation does not control and cannot guarantee the relevance, timeliness, or accuracy of these outside materials. Once you link to another site, you are subject to the privacy policy of the new site. 
