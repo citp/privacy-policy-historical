@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsnake.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402041013id_/http%3A//www.onlinehobbyist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsnake.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204184457id_/http%3A//www.onlinehobbyist.com/privacy.html) for the most accurate reproduction.*
 
 # OnlineHobbyist
 
@@ -32,9 +32,9 @@ This site gives users the following options for removing their information from 
 
   1. You can send [email](http://www.pethobbyist.com/contact/index.php) to the Legal Dept.  
 
-  2. You can send mail to the following postal address:     508 East Howard #25 Austin, Texas 78753   
+  2. You can send mail to the following postal address:     PO Box 104 Walburg, TX 78623   
 
-  3. You can call the following telephone number:     (512) 990-1092 
+  3. You can call the following telephone number:     512-791-6536 
 
 
 
@@ -44,9 +44,9 @@ This site gives users the following options for changing and modifying informati
 
   1. You can send [email](http://www.pethobbyist.com/contact/index.php) to the Legal Dept.  
 
-  2. You can send mail to the following postal address:     508 East Howard #25 Austin, Texas 78753  
+  2. You can send mail to the following postal address:     PO Box 104 Walburg, TX 78623   
 
-  3. You can call the following telephone number:     (512) 990-1092 
+  3. You can call the following telephone number:     512-791-6536 
 
 
 
