@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shure.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609184604id_/http%3A//www.shure.com/aboutus/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shure.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094937id_/http%3A//www.shure.com/aboutus/privacy/privacy.html) for the most accurate reproduction.*
 
 # About Shure Incorporated
-
-### Privacy Policy
 
 Shure Incorporated has created this policy to demonstrate our firm commitment to our Web site users' privacy, and discloses the information gathering and dissemination practices for all Shure Incorporated Web sites. The long and the short of it is that we are firm believers in keeping your information your own. We will not sell or trade your personal information to any other company. 
 
@@ -14,7 +12,7 @@ We use your IP address to help diagnose problems with our server, to administer 
 
 Our site uses cookies to keep track of your shopping cart. If you prefer to leave your cookies turned off, you will not be remembered by our shopping cart and you will need to re-identify yourself each time you shop. We reserve the right to use cookies for other purposes as well. 
 
-### User Contact Information 
+**User Contact Information**
 
 We use registration forms, order forms, and online surveys that require users to provide us their contact information such as name, address, email, etc. We may use this information to provide additional information about Shure that we feel will interest our users. We do not share or sell this data outside Shure. 
 
@@ -51,9 +49,3 @@ Attn: Webmaster
 222 Hartrey Ave.   
 Evanston, IL 60202   
 Email: webmaster@shure.com 
-
-* * *
-
-© 1996-2000 Shure Incorporated, All Rights Reserved.   
-[Copyrights/Trademarks](https://web.archive.org/copyright.html) [Privacy Policy](https://web.archive.org/aboutus/privacy.html) [ Careers at Shure](https://web.archive.org/careers/default.htm)  
-September 1, 2000
