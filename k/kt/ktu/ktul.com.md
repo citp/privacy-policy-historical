@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401120613id_/http%3A//www.ktul.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2004-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040319214211id_/http%3A//www2.ktul.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# Oklahoma's Newschannel 8 - Privacy Statement
-
-**Privacy Policy**
+# NewsChannel 8 - Privacy Statement
 
 **1\. PRIVACY PRACTICES.** This statement discloses the privacy practices for the KTUL website (the "Website") a service provided by KTUL, LLC. Questions regarding this statement should be directed to KTUL at www.ktul.com or KTUL Privacy Policy, PO Box 8, Tulsa, OK 74170. This privacy policy does not apply to data collected offline including, but not limited to, data collected via the mail, telephone or at live events.  
  **  
