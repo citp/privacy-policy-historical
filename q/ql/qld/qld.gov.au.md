@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the qld.gov.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622102358id_/http%3A//www.qld.gov.au/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qld.gov.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202152801id_/http%3A//www.qld.gov.au/privacy/privacy.html) for the most accurate reproduction.*
 
 # Queensland Government : Queensland Government Privacy Statement
-
-You are at the content. You can jump directly to the top of the page, global navigation or the sub navigation. 
 
 **Your privacy**
 
@@ -54,3 +52,5 @@ This site contains links to non-Queensland Government websites. The Queensland G
 **Contact**
 
 If you have any queries about our privacy and security practices, please contact [Government.Gateway@qld.gov.au](mailto:Government.Gateway@qld.gov.au).
+
+Last updated 24 March 2003
