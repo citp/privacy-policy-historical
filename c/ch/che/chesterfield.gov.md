@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145304id_/http%3A//www.chesterfield.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205191641id_/http%3A//www.chesterfield.gov/privacy.asp) for the most accurate reproduction.*
 
 # Chesterfield County, Virginia | Privacy Policy
 
 |  | 
 
-### Last Updated on May 1, 2002
+### Modified July 3, 2002
 
 The following information explains the Internet Privacy Policy which Chesterfield County has adopted for its website. The following is intended to explain our current Internet privacy practices but shall not be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy and Internet Privacy Policy Statement at any time without notice.
 
@@ -28,10 +28,6 @@ When you access our website, the routing information and the essential and nones
   * **Optional informatio** n - when you send us an email, your name, email address, and the content of your email; when you fill out online forms, all the data you choose to fill in or confirm.
 
 
-
-### Cookies
-
-Our website does not place any "cookies" on your computer.
 
 ### Security
 
