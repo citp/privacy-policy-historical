@@ -1,41 +1,34 @@
-> *The following text is extracted and transformed from the askme.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203185900id_/http%3A//www.askme.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askme.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621173112id_/http%3A//www3.askmecorp.com/privacy.asp) for the most accurate reproduction.*
 
-# AskMe.com -- Privacy Statement
+# 
 
-**AskMe.com Privacy Policy**
+Our postal address is:   
+AskMe Corporation   
+3290 146th Place SE, Suite D   
+Bellevue WA 98007   
+Phone: (425) 564-9000   
+Fax: (425) 564-9200 
 
-This Privacy Statement describes how AskMe Corporation Inc., collects and uses information about you when you use the AskMe.com Web Site (“Site”). 
+We can be reached via e-mail at [feedback@askme.com](mailto:feedback@askme.com), or you can reach us by telephone at 425-564-9000. 
 
-**Collection and Use of Personal Information by AskMe Corporation, its Service Providers and Affiliated Vendors**
+AskMe respects your privacy. Please read the following information about our policies for use of any of your personal information. 
 
-We request and collect information that personally identifies you or allows us to contact you when you register to use the Site and in other instances, (e.g., a Site user survey). Such information may include your name, e-mail alias, user identification password and other information collected by our cookies (described below) (collectively “Personal Information”). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. AskMe Corporation, the service providers for this Site, our advertisers and our commerce partners, and any vendor providing products or services through the Site, use your Personal Information to operate the Site, to effect your transactions initiated at the Site, to create and share reports about your transactions among themselves, and to enforce or investigate contracts formed at the Site and claims regarding them. You may correct or update your Personal Information by sending e-mail to [feedback@askme.com](mailto:feedback@askme.com) or by visiting [www.askme.com/editprofile.asp](http://www.askme.com/editprofile.asp). 
+We collect the domain names and e-mail addresses (where possible) of visitors to our Web page. We also collect the e-mail addresses of those who communicate with us via e-mail. Additionally, we aggregate information on the pages that consumers access or visit, and we collect information volunteered by the visitor, such as survey information and/or site registration. 
 
-**Cookies**
+The information we collect is used to improve the content of our Web page, to customize the content and/or layout of our page for each individual visitor, and to notify visitors about updates to our Web site. We occasionally use this information to contact visitors for marketing purposes, and may share it with other organizations for commercial purposes. 
 
-A Cookie is a very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences and transactional habits. Cookies recognize your password and help us personalize your experience at the Site by permitting our computer server to “remember” who you are. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other Web site operators or advertisers. 
+We use cookies to store visitors' preferences, record user-specific information regarding particular pages viewed, record past activity in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type, and record other information that the visitor sends. 
 
-**Personal Information Used for Promotional Purposes**
+If you do not want to receive e-mail from us in the future, please contact us via e-mail, telephone or U.S. mail using the contact information listed above. 
 
-We may send you information from time to time about AskMe Corporation promotional offerings and we may share your Personal Information with third parties who wish to send you promotional offerings. Your consent to receipt of promotional offerings may be indicated in the appropriate check boxes within the Site signifying your preferences. You may be entitled to stop the delivery of promotional information from AskMe Corporation by sending e-mail to [removeme@askme.com](mailto:removeme@askme.com) and, for third party promotional offerings, by contacting the source of that promotional offering. 
+If you supply us with your postal address or telephone number online, you may receive periodic mailings or be contacted via telephone with information about new products and services or upcoming events. If you do not wish to receive such mailings or telephone calls, please contact us via e-mail, telephone or U.S. mail using the contact information listed above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. 
 
-We do not intend to disclose any Personal Information in cases where such disclosure would be in violation of applicable law.
+We do not partner with, or have special relationships with, any ad server companies. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should periodically check our Web site for changes. 
 
-**Children's Privacy**
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us via e-mail, telephone or U.S. mail using the contact information listed above. 
 
-Children under the age of 13 are not allowed to ask or answer questions on the Site. AskMe Corporation does not knowingly collect personal information about child under the age of 13 or allow them to ask or answer questions. If AskMe Corporation learns that a child under the age of 13 is asking or answering questions, AskMe Corporation will close the child’s account and delete all information collected about the child. Notwithstanding the foregoing, AskMe Corporation may choose to retain the child's e-mail address as a means to prevent the child from re-registering with AskMe Corporation. 
+Upon request, we offer visitors the ability to correct inaccuracies in contact information, unique identifiers, and/or communications that the consumer/visitor has directed to the site. Consumers can request that this information be corrected by contacting us via e-mail, telephone, or U.S. mail using the contact information listed above. 
 
-**Security**
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. 
 
-We take reasonable steps to protect Personal Information and use technology such as encryption, access control procedures, firewalls and physical security. We urge you to use a password to protect your account from unauthorized access by others. If others, including family or household members, access and use the Site through your password, you are responsible for the actions of those individuals. 
-
-**Other Situations in which Personal Information May Be Disclosed**
-
-We may store and disclose Personal Information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary or advisable to conform to legal and regulatory requirements or processes and to protect the rights, safety and property of AskMe Corporation, users of the Site, and the public. 
-
-**Changes To The AskMe Corporation Privacy Statement**
-
-AskMe Corporation may make changes to this Privacy Statement from time to time. We will post changes to our privacy statement here, so be sure to check back periodically. We may also notify you of significant changes by e-mail or in other ways. 
-
-**Questions, Comments, Concerns**
-
-If you have any questions or comments about our use of Personal Information, please contact us at [feedback@askme.com](mailto:feedback@askme.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
