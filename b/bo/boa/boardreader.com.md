@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806235919id_/http%3A//boardreader.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardreader.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206200117id_/http%3A//www.boardreader.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ If you have questions regarding our Privacy Policy, please email them to [legal@
 **BoardReader.com  
 884 Railroad Street  
 Ypsilanti, Michigan 48197   
-(734) 480-0116**
+734.495.3706**
 
 |   
 ---|---|---
