@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paypopup.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209112717id_/http%3A//www.paypopup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypopup.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/privacy.php) for the most accurate reproduction.*
 
 # paypopup.com
 
-|  |  [](https://web.archive.org/) |  [](https://web.archive.org/web/20031209112717id_/http%3A//www.paypopup.com/adsintro.php) |  [](https://web.archive.org/web/20031209112717id_/http%3A//www.paypopup.com/pubintro.php) |  [](https://web.archive.org/web/20031209112717id_/http%3A//www.paypopup.com/contactus.php) |  [](https://web.archive.org/web/20031209112717id_/http%3A//www.paypopup.com/aboutus.php) |    
+|  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/sitemap.htm) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/index.php) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/targeted-internet-advertising.php) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/popunder_affiliate_program.php) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/contactus.php) |  [](https://web.archive.org/web/20041205001124id_/http%3A//paypopup.com/aboutus.php) |    
 ---|---|---|---|---|---|---  
   |  |  Privacy Policy   
 ---  
