@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the simslots.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806194257id_/http%3A//www.simslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simslots.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411085004id_/http%3A//www.simslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # SimSlots.com - Privacy Policy
 
 [](http://www.simslots.com/)  
   
 [Home](http://www.simslots.com/)  
-[Free Slots 1](https://web.archive.org/web/20020806194257id_/http%3A//www.simslots.com/Page1.htm)  
-[Free Slots 2](https://web.archive.org/web/20020806194257id_/http%3A//www.simslots.com/Page2.htm)  
-[Free Slots 3](https://web.archive.org/web/20020806194257id_/http%3A//www.simslots.com/Page3.htm)  
-[Free Slots 4](https://web.archive.org/web/20020806194257id_/http%3A//www.simslots.com/Page4.htm)  
-[Multi-Payline Slots](https://web.archive.org/web/20020806194257id_/http%3A//www.simslots.com/MultiPayline1.htm)  
-[Play For Real](https://web.archive.org/web/20020806194257id_/http%3A//www.simslots.com/PlayForReal.htm)  
-[Winners List](https://web.archive.org/web/20020806194257id_/http%3A//www.simslots.com/Winners.htm)  
-[FAQ](https://web.archive.org/web/20020806194257id_/http%3A//www.simslots.com/FAQ.htm)
+[Free Slots 1](https://web.archive.org/web/20030411085004id_/http%3A//www.simslots.com/Page1.htm)  
+[Free Slots 2](https://web.archive.org/web/20030411085004id_/http%3A//www.simslots.com/Page2.htm)  
+[Free Slots 3](https://web.archive.org/web/20030411085004id_/http%3A//www.simslots.com/Page3.htm)  
+[Free Slots 4](https://web.archive.org/web/20030411085004id_/http%3A//www.simslots.com/Page4.htm)  
+[Multi-Payline Slots](https://web.archive.org/web/20030411085004id_/http%3A//www.simslots.com/MultiPayline1.htm)  
+[Play For Real](https://web.archive.org/web/20030411085004id_/http%3A//www.simslots.com/PlayForReal.htm)  
+[Winners List](https://web.archive.org/web/20030411085004id_/http%3A//www.simslots.com/Winners.htm)  
+[FAQ](https://web.archive.org/web/20030411085004id_/http%3A//www.simslots.com/FAQ.htm)
 
-[](http://www.simslots.com/banman/banman.asp?Task=Click&ZoneID=3&CampaignID=4&AdvertiserID=2&BannerID=672&SiteID=0)
+[](http://www.simslots.com/banman/banman.asp?Task=Click&ZoneID=3&CampaignID=4&AdvertiserID=2&BannerID=454&SiteID=0)
 
-[](http://www.simslots.com/banman/banman.asp?Task=Click&ZoneID=4&CampaignID=4&AdvertiserID=2&BannerID=854&SiteID=0)
+[](http://www.simslots.com/banman/banman.asp?Task=Click&ZoneID=4&CampaignID=4&AdvertiserID=2&BannerID=198&SiteID=0)
 
   
 [Slotland](http://www.slotland.com/?p=560048)  
@@ -26,7 +26,7 @@
 [English Harbour Casino](http://www.englishharbour.com/index.html?ID=simslots)  
 [SuperSlots](http://www.superslots.com/index.html?ID=simslots)
 
-|  [](http://www.simslots.com/banman/banman.asp?Task=Click&ZoneID=1&CampaignID=3&AdvertiserID=2&BannerID=803&SiteID=0)
+|  [](http://www.simslots.com/banman/banman.asp?Task=Click&ZoneID=1&CampaignID=3&AdvertiserID=2&BannerID=815&SiteID=0)
 
 [Back to SimSlots Home](http://www.simslots.com/)
 
