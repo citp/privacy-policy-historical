@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifx.com privacy policy that was archived on 2002-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020415034231id_/http%3A//lifx.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifx.com privacy policy that was archived on 2002-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020805042912id_/http%3A//www.lifx.com/privacy.htm) for the most accurate reproduction.*
 
 # LifeExtensions.com- Privacy Notice
 
