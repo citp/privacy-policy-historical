@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsite.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029102733id_/http%3A//www.winsite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsite.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602111716id_/http%3A//www.winsite.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to WinSite! The place for shareware, demoware, trialware, tips, and utilities for your computer
 
@@ -10,9 +10,9 @@ Welcome to WinSite, **The Planet's Largest Software Archive for Windows sharewar
 
 As with most industry-standard web serving software, each visit to our website generates a logfile entry that indicates time of visit, the domain name of your machine (e.g., "dial-54.somewhere.com") and the file(s) (and their sizes, in bytes) that your visit generated. 
 
-WinSite uses information generated from each visitor to our website to determine popular downloads and the most often-used sections of our website. We do not collect any other information from your visit. **WinSite does not collect personal information.** We use industry standard web server logfiles to record baseline visitor information. **WinSite does not sell, trade, or rent any visitor information**. The data we collect is for internal use only and for the use of reporting to our advertisers the number of advertising impressions we deliver. 
+WinSite uses information generated from each visitor to our website to determine popular downloads and the most often-used sections of our website. **WinSite does not collect personal information.** We use industry standard web server logfiles to record baseline visitor information. **WinSite does not sell, trade, or rent any visitor information**. The data we collect is for internal use only and for the use of reporting to our advertisers the number of advertising impressions we deliver. 
 
-**Advertising.** WinSite works with two advertising companies, L90 and Flycast, who serves ads for our site. To learn about L90's policies, please visit [L90's site](http://www.l90.com/external_site/privacy_policy.html). To find out about how Flycast manages the privacy of information in conjunction with serving ads on our site, please go to [http://www.flycast.com/about_us/about-privacy.html](http://http//www.flycast.com/about_us/about-privacy.html). 
+**Advertising.** WinSite works with the advertising company, L90, who serves ads for our site. To learn about L90's policies, please visit [L90's privacy statement](http://www.l90.com/external_site/privacy_policy.html). 
 
 By using our web site, you consent to the collection and use of this industry-standard information by WinSite Group, Inc. If changes are made to this privacy policy, they will be posted here, so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
