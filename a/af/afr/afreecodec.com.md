@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611065825id_/http%3A//www.afreecodec.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209180541id_/http%3A//www.afreecodec.com/privacy_policy.php) for the most accurate reproduction.*
 
-# afree Codec - Audio and Video Codec Source!
+# afree Codec - The Worlds #1 Codec Source!
 
 | 
 
@@ -30,6 +30,5 @@ Finally, we never use or share the personally identifiable information provided 
 **Our Commitment To Data Security  
 **To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 **Our Commitment To Children's Privacy  
-**Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
- 
+**Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13
 | 
