@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rightnowtech.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229101745id_/http%3A//www.rightnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightnowtech.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220720id_/http%3A//www.rightnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | RightNow Technologies
 
 ## Privacy Statement
 
-Last revised 11/11/2004
+Last revised 2/17/2005
 
 RightNow Technologies, Inc. is committed to your right to privacy. As a visitor to our website or user of our product, you deserve the ability to control the uses of your personal information. This privacy statement discloses our privacy practices.
 
@@ -96,4 +96,12 @@ RightNow will update this policy from time to time. A "last revised" date will a
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us on [cpo@rightnow.com](mailto:cpo@rightnow.com).
 
-Last revised 11/11/2004
+### Headquarters
+
+RightNow Technologies, Inc.  
+40 Enterprise Blvd.  
+P.O. Box 9300  
+Bozeman, MT 59718-9300  
+United States
+
+Last revised 2/17/2005
