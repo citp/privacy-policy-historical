@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpb.org privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208154012id_/http%3A//www.gpb.org/gpb/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpb.org privacy policy that was archived on 2004-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040215040605id_/http%3A//www.gpb.org/gpb/about/privacy) for the most accurate reproduction.*
 
 # Georgia Public Broadcasting - Privacy Policy
 
@@ -28,9 +28,17 @@ If you have any questions about this privacy statement, the practices of this si
 
 [](https://web.archive.org/gpb/parents/)
 
-[](https://web.archive.org/gpb/membership/drives/2003/tv_december.htm)  
-[](https://web.archive.org/gpb/membership/drives/2003/tv_december.htm)
+  
 
+
+[](https://web.archive.org/gpb/features/parentscd.asp)
+
+  
+
+
+[](http://www.gpb.org/gpb/membership/drives/2004/tv_january.htm)
+
+  
   
 
 
@@ -44,4 +52,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 [](http://www.amazon.com/exec/obidos/redirect-home/video06)
 
-Support Geogia Public Broadcasting by shopping with one of our online affiliates.
+Support Public Broadcasting by shopping at one of our online affiliates.
