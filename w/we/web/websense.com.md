@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623135047id_/http%3A//www.websense.com/w3c/Visitor.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062048id_/http%3A//websense.com/w3c/Visitor.php) for the most accurate reproduction.*
 
 # Websense.com Privacy Policy
 
