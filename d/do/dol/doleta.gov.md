@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doleta.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602044143id_/http%3A//www.doleta.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doleta.gov privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810012452id_/http%3A//www.doleta.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
