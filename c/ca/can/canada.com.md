@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canada.com privacy policy that was archived on 2000-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001026091730id_/http%3A//www.canada.com/cgi-bin/go.asp%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603124906id_/http%3A//canada.com/cgi-bin/go.asp%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
 
 # canada.com | About Us | Privacy Policy
 
@@ -48,11 +48,12 @@ The canada.com Network's policy does not extend to anything that is inherent in 
 * * *
 
 **E-MAIL TO US**  
-When you send us e-mail, we will use your name and e-mail address only to respond to the concerns you write to us with. Your e-mail may be shared with appropriate people within the canada.com Network/Southam organization to help us respond to your concerns and improve the canada.com Network.
+When you send us e-mail, we will use your name and e-mail address only to respond to the concerns you write to us with. Your e-mail may be shared with appropriate people within the canada.com Network/Southam Publications organization to help us respond to your concerns and improve the canada.com Network.
 
 * * *
 
 **CHANGES TO THIS POLICY**  
-From time to time, the canada.com Network may introduce new products and services to its users and members. The canada.com Network reserves the right to modify this policy at any time by notifying customers, via the canada.com site, of a new privacy policy. You can send e-mail ([ **info@canada.com**](mailto:info@canada.com)) to us with any further questions.
+From time to time, the canada.com Network may introduce new products and services to its users and members. The canada.com Network reserves the right to modify this policy at any time by notifying customers, via the canada.com site, of a new privacy policy. You can send e-mail ([ **privacypolicy@canada.com**](mailto:privacypolicy@canada.com)) to us with any further questions.  
+
 
 | 
