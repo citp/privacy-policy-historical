@@ -1,40 +1,44 @@
-> *The following text is extracted and transformed from the downloadatoz.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204192230id_/http%3A//www.downloadatoz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadatoz.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204941id_/http%3A//www.downloadatoz.com/privacy-policy.html) for the most accurate reproduction.*
 
-# downloadAtoZ.com Privacy Policy--Privacy,Cookies,Your Consent!
+# Freeware Shareware Download
 
-**downloadAtoZ.com Privacy Statement
+  
+**INFORMATION COLLECTION AND USE**
 
-1.Privacy
+DOWNLOADATOZ.COM IS THE SOLE OWNER OF THE INFORMATION COLLECTED ON THIS SITE. WE WILL NOT SELL, SHARE, OR RENT THIS INFORMATION TO OTHERS IN WAYS DIFFERENT FROM WHAT IS DISCLOSED IN THIS STATEMENT. DOWNLOADATOZ.COM COLLECTS INFORMATION FROM OUR USERS AT SEVERAL DIFFERENT POINTS ON OUR WEBSITE.
 
-**
+**REGISTRATION**
 
-downloadAtoZ.com is dedicated to providing and promoting software products, while at the same time maintaining your privacy. We do not distribute, share, or sell any customer information to any third parties, beyond what is strictly necessary to process credit card orders. All information that is provided to us by our customers is maintained for the sole purpose of providing technical and sales services.
+ALL PROGRAMS ON THIS WEBSITE ARE FREE TO DOWNLOAD UNLESS UNLESS STATED CONTRARILY, IN ORDER TO USE THESE PROGRAMS AFTER A TRIAL PERIOD OR ACCESS TO FULL FEATURES OF THEM, A USER MAY FIRST PAY AN AMOUNT OF MONEY TO REGISTER THEM. USUALLY A USER MAY BE PROVIDED WITH AN OPTON WHETHER TO HAVE A PHYSICAL DISC OR TO DOWNLOAD AN ELECTRIC COPY. THE SHIPPING FEE OF PHYSICAL DISCS IS NOT REFUNDABLE IN ANY CHANCES.
 
-**What information does downloadAtoZ.com gather?**
+**COOKIES**
 
-downloadAtoZ.com gathers general information about visits to our Web Site. This information includes the number of total visits to our web site, which browser is used to view our Web Site (including the version number), as well as which site referred the visitor to our site (no cookies are used in this process). This information is used to help us determine the general amount of traffic and downloads on our web site. It is also used to help us determine how many referrals come from certain sites (paid advertisements). No information is sent back to the referring site. Please note: This general information is in no way linked to any personal information concerning any individual visitor.
+A COOKIE IS A PIECE OF DATA STORED ON THE USER'S HARD DRIVE CONTAINING INFORMATION ABOUT THE USER. USAGE OF A COOKIE IS IN NO WAY LINKED TO ANY PERSONALLY IDENTIFIABLE INFORMATION WHILE ON OUR SITE. ONCE THE USER CLOSES THEIR BROWSER, THE COOKIE SIMPLY TERMINATES. FOR INSTANCE, BY SETTING A COOKIE ON OUR SITE, THE USER WOULD NOT HAVE TO LOG IN A PASSWORD MORE THAN ONCE, THEREBY SAVING TIME WHILE ON OUR SITE. IF A USER REJECTS THE COOKIE, THEY MAY STILL USE OUR SITE. THE ONLY DRAWBACK TO THIS IS THAT THE USER WILL BE LIMITED IN SOME AREAS OF OUR SITE. FOR EXAMPLE, THE USER WILL NOT BE ABLE TO USE CERTAIN FEATURES OF OUR BULLETIN BOARD OR OTHER PARTS OF THE SITE THAT OFFER CUSTOMIZED SETTINGS. COOKIES CAN ALSO ENABLE US TO TRACK AND TARGET THE INTERESTS OF OUR USERS TO ENHANCE THE EXPERIENCE ON OUR SITE.
 
-When a customer purchases any of downloadAtoZ's products, we store general customer contact information ("Customer Information") provided to us in our customer database (including name, address, telephone number, and email address). This helps us provide technical support and sales services to our customers. We do not distribute, share, or sell this information to any third parties, beyond what is strictly necessary to process credit card orders.
+**SHARING**
 
-If a user chooses to purchase the software using a credit card, the credit card information is submitted using SSL (Secure Socket Layer) encryption, along with the user's contact information, for the purpose of verifying the credit card and reducing fraud. The user's credit card information is not stored in downloadAtoZ's Customer Database. 
+WE WILL SHARE AGGREGATED DEMOGRAPHIC INFORMATION WITH OUR PARTNERS AND ADVERTISERS. THIS IS NOT LINKED TO ANY PERSONAL INFORMATION THAT CAN IDENTIFY ANY INDIVIDUAL PERSON.
 
-**How is this information used?**
+WE USE AN OUTSIDE CREDIT CARD PROCESSING COMPANY TO BILL USERS FOR GOODS AND SERVICES. THESE COMPANIES DO NOT RETAIN, SHARE, STORE OR USE PERSONALLY IDENTIFIABLE INFORMATION FOR ANY SECONDARY PURPOSES. YOUR PERSONAL INFORMATION IS HIGHLY PROTECTED BY OUR E-COMMERCE PROVIDERS.
 
-We store Customer Information in order to ensure that we can provide quality technical support, sales services, software upgrades, and updated product information for our customers.
+**LINKS**
 
-**How does downloadAtoZ.com protect consumer information?**
+THIS WEB SITE CONTAINS LINKS TO OTHER SITES. PLEASE BE AWARE THAT WE DOWNLOADATOZ.COM ARE NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OF SUCH OTHER SITES. WE ENCOURAGE OUR USERS TO BE AWARE WHEN THEY LEAVE OUR SITE AND TO READ THE PRIVACY STATEMENTS OF EACH AND EVERY WEB SITE THAT COLLECTS PERSONALLY IDENTIFIABLE INFORMATION. THIS PRIVACY STATEMENT APPLIES SOLELY TO INFORMATION COLLECTED BY THIS WEB SITE.
 
-When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we take steps to protect the customer data we collect from unauthorized access, disclosure, alteration, or destruction. 
+**NEWSLETTER**
 
-**2.Cookies**
+IF A USER WISHES TO SUBSCRIBE TO OUR NEWSLETTER, WE ASK FOR CONTACT INFORMATION SUCH AS NAME AND EMAIL ADDRESS.
 
-When ordering from one of our Reseller, a cookie is stored on the user's computer for the purpose of identifying the source of the sale (which Reseller referred the customer). No personally identifiable information is stored in this cookie. Also, no personally identifiable information is sent to the referring Web Site (Reseller).
+**TELL-A-FRIEND**
 
-**3.Your Consent**
+IF A USER ELECTS TO USE OUR REFERRAL SERVICE FOR INFORMING A FRIEND ABOUT OUR SITE, WE ASK THEM FOR THE FRIEND'S NAME AND EMAIL ADDRESS. DOWNLOADATOZ.COM WILL AUTOMATICALLY SEND THE FRIEND A ONE-TIME EMAIL INVITING THEM TO VISIT THE SITE. DOWNLOADATOZ.COM DOESN'T STORE THIS INFORMATION AFTER SENDING AN INVITATION EMAIL.
 
-By using our web site, you consent to the collection and use of this information by downloadAtoZ.com. If we decide to change our privacy policies, we will post those changes on this page so that you are always kept informed of what data we collect, how we use it, and under what circumstances we disclose it. Please check this page for changes from time to time to make sure you are aware of our latest privacy policies.
+**SECURITY**
 
-**Tell us what you think**
+THIS WEBSITE TAKES EVERY PRECAUTION TO PROTECT OUR USERS' INFORMATION. WHEN USERS SUBMIT SENSITIVE INFORMATION VIA THE WEBSITE, YOUR INFORMATION IS PROTECTED BOTH ONLINE AND OFF-LINE.
 
-Our goal is to respect your privacy. To help us improve our privacy policies, please give us your [feedback](mailto:feedback@downloadatoz.com). We welcome your comments and questions.   
+WHEN OUR REGISTRATION/ORDER FORM ASKS USERS TO ENTER SENSITIVE INFORMATION (SUCH AS CREDIT CARD NUMBER AND/OR SOCIAL SECURITY NUMBER), THAT INFORMATION IS ENCRYPTED AND IS PROTECTED WITH THE BEST ENCRYPTION SOFTWARE IN THE INDUSTRY - SSL. WHILE ON A SECURE PAGE, SUCH AS OUR ORDER FORM, THE LOCK ICON ON THE BOTTOM OF WEB BROWSERS SUCH AS NETSCAPE NAVIGATOR AND MICROSOFT INTERNET EXPLORER BECOMES LOCKED, AS OPPOSED TO UN-LOCKED, OR OPEN, WHEN YOU ARE JUST 'SURFING'. TO LEARN MORE ABOUT SSL, FOLLOW THIS LINK HTTP://WWW.SSL.COM
 
+**NOTIFICATION OF CHANGES**
+
+IF WE DECIDE TO CHANGE OUR PRIVACY POLICY, WE WILL POST THOSE CHANGES ON OUR HOMEPAGE SO OUR USERS ARE ALWAYS AWARE OF WHAT INFORMATION WE COLLECT, HOW WE USE IT, AND UNDER CIRCUMSTANCES, IF ANY, WE DISCLOSE IT. IF AT ANY POINT WE DECIDE TO USE PERSONALLY IDENTIFIABLE INFORMATION IN A MANNER DIFFERENT FROM THAT STATED AT THE TIME IT WAS COLLECTED, WE WILL NOTIFY USERS BY WAY OF AN EMAIL. USERS WILL HAVE A CHOICE AS TO WHETHER OR NOT WE USE THEIR INFORMATION IN THIS DIFFERENT MANNER. WE WILL USE INFORMATION IN ACCORDANCE WITH THE PRIVACY POLICY UNDER WHICH THE INFORMATION WAS COLLECTED.
