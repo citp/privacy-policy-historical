@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206135700id_/http%3A//aaamidatlantic.com/livenew/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2001-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010414001718id_/http%3A//aaamidatlantic.com/livenew/privacy.asp) for the most accurate reproduction.*
 
 # AAA Mid-Atlantic - Privacy Statement
 
