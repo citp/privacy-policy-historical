@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shi.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603091641id_/http%3A//www.shi.com/Global/Content/About/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shi.com privacy policy that was archived on 2004-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210012642id_/http%3A//www.shi.com/Global/Content/About/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
    <title>SHI.COM - About SHI</title>
@@ -8,212 +8,343 @@
 
 
 
-<!------ Local/NonSecureHeader.inc.asp -- begin ------> 
+<!--------- Local/HeaderUtils.inc.asp -- begin ---------->
 
-<!------Asset Services Drop Down-------->
-<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" background="/Global/Images/bgnd1.gif" onload="preloadImages()"><div id="AssetServices" style="z-index:10">
-<table border="0" cellpadding="0" bgcolor="#000099" cellspacing="0"><tbody><tr>
-<td colspan="2">
-	<table border="0" cellspacing="3" cellpadding="3" bgcolor="#000099" width="100%">
-	<tbody><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" name="AssetServices0" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-    <td><a href="/Global/ReportFactory/ReportMain.asp" onmouseover="menuOver(); swapImages('AssetServices0', 2);" onmouseout="menuOut(); swapImages('AssetServices0', 1);" class="menus" target="_top"><b>Report Factory</b></a></td>
-</tr><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" name="AssetServices1" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/Ecommerce/LicenseDefault.asp" onmouseover="menuOver(); swapImages('AssetServices1', 2);" onmouseout="menuOut(); swapImages('AssetServices1', 1);" class="menus" target="_top"><b>Licensing</b></a></td>
-	</tr>
-	<tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" name="AssetServices2" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/EquipmentTracker/default.asp" onmouseover="menuOver(); swapImages('AssetServices2', 2);" onmouseout="menuOut(); swapImages('AssetServices2', 1);" class="menus" target="_top"><b>Equipment Tracker</b></a></td>
-	</tr>
+<!--------- Local/HeaderUtils.inc.asp -- end ---------->
+<!------ Local/Header.inc.asp -- begin ------> 
+<body onload="preloadImages()">
+
+<!---- Header ------>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+   <tbody><tr>
+      <td width="140" rowspan="2"><a href="/default.asp"><img src="/Global/Images/Menu/Head_Logo.gif" width="140" height="68" border="0" alt="SHI.com home page"></a></td>
+      <td background="/Global/Images/Menu/Head_bgnd_1.gif" width="54"><img src="/Global/Images/Menu/Head_Logo_rim.gif" width="54" height="41" border="0"></td>
+      <td background="/Global/Images/Menu/Head_bgnd_1.gif" align="right"><img src="/Global/Images/Menu/Head_bgnd_rim.gif" width="41" height="41" border="0"></td>
+         <!-------- Quick Search ------->
+      <form action="/productsearch/searchresults.aspx" name="QuickSearchForm" method="POST"></form>
+      <td align="right" background="/Global/Images/Menu/Head_bgnd_5.gif">
+         <table>
+            <tbody><tr>
+               <td><img src="/Global/Images/Menu/b_QuickSearch.gif" width="44" height="12" alt="Quick Search" border="0"></td>
+               <td><input type="text" name="descr" size="20" maxlength="100" style="font-size: 11px;"><input type="hidden" name="newsearch" value="Search"><input type="hidden" name="querytype" value="1"></td>
+               <td><input type="image" name="SearchBtn" src="/Global/Images/Menu/b_QuickSearch_go.gif" value="Go!" alt="GO!" border="0" width="40" height="22"></td>
+            </tr>
+         </tbody></table>
+      </td>
+      
+      <td width="3" rowspan="2"><img src="/Global/Images/Menu/Head_bgnd_3.gif" width="3" height="68" border="0"></td>
+      <!----- End Quick Search ----->
+   </tr>
+      <!-------- Navigation row ----->
    <tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" name="AssetServices3" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/ECommerce/InvoiceHistory.asp" onmouseover="menuOver(); swapImages('AssetServices3', 2);" onmouseout="menuOut(); swapImages('AssetServices3', 1);" class="menus" target="_top"><b>Invoice History</b></a></td>
+      <td colspan="3" background="/Global/Images/Menu/Head_bgnd_2.gif"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr> <td width="67"><a href="/Global/ECommerce/OrderBasketView.asp" onmouseover="showLayer('Products'); swapImages('Head_01', 2); MenuMsg('Create or place an order'); return true;" onmouseout="btnTimer(); swapImages('Head_01', 1); MenuMsg(''); return true;"><img name="Head_01" src="/Global/Images/Menu/Head_01.gif" width="67" height="27" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Head_01.gif', '/Global/Images/Menu/Head_01_over.gif')"></a></td>
+ <td width="56"><a href="/Global/ECommerce/QuoteList.asp" onmouseover="showLayer('Quotes'); swapImages('Head_02', 2); MenuMsg('Create a new quote or load a saved quote'); return true;" onmouseout="btnTimer(); swapImages('Head_02', 1); MenuMsg(''); return true;"><img name="Head_02" src="/Global/Images/Menu/Head_02.gif" width="56" height="27" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Head_02.gif', '/Global/Images/Menu/Head_02_over.gif')"></a></td>
+ <td width="55"><a href="/Global/ECommerce/OrderTrack.asp" onmouseover="showLayer('Orders'); swapImages('Head_03', 2); MenuMsg('Track the status of your orders'); return true;" onmouseout="btnTimer(); swapImages('Head_03', 1); MenuMsg(''); return true;"><img name="Head_03" src="/Global/Images/Menu/Head_03.gif" width="55" height="27" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Head_03.gif', '/Global/Images/Menu/Head_03_over.gif')"></a></td>
+ <td width="66"><a href="/Global/ECommerce/Services.asp" onmouseover="showLayer('Services'); swapImages('Head_04', 2); MenuMsg('Services'); return true;" onmouseout="btnTimer(); swapImages('Head_04', 1); MenuMsg(''); return true;"><img name="Head_04" src="/Global/Images/Menu/Head_04.gif" width="66" height="27" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Head_04.gif', '/Global/Images/Menu/Head_04_over.gif')"></a></td>
+ <td width="138"><a href="/YourHome.asp" onmouseover="swapImages('Head_05', 2); MenuMsg('Your customized home page at SHI.COM'); return true;" onmouseout="swapImages('Head_05', 1); MenuMsg(''); return true;"><img name="Head_05" src="/Global/Images/Menu/Head_05.gif" width="138" height="27" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Head_05.gif', '/Global/Images/Menu/Head_05_over.gif')"></a></td>
+<td align="right" valign="top">&nbsp;</td></tr></tbody></table></td>
+   </tr>
+      <!--- end Navigation Row ----->
+   <tr>
+   
+      <td colspan="4" valign="top" height="10" background="/global/images/menu/head_bgnd_4.gif"><img src="/global/images/menu/Head_Logo_BottomB.gif" width="140" height="10" border="0"></td>
+      
+   </tr>
+</tbody></table>
+<!--- End Header --->
+
+
+<!------Products Drop Down-------->
+<div id="Products">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" background="/global/images/menu/DD_Left.gif" width="4"><img src="/global/images/menu/DD_Left.gif" width="4" height="4"></td>
+<td>
+	<table border="0" cellspacing="5" cellpadding="0" bgcolor="#677B99" width="100%">
+	<tbody><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="Products1" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/ProductSearch/searchresults.aspx" class="Reversed" onmouseover="menuOver(); swapImages('Products1', 2);" onmouseout="menuOut(); swapImages('Products1', 1);" target="_top"><b>Advanced Search</b></a></td>
+	</tr><tr>
+      <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="Products2" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/global/ecommerce/ProductBrowse.asp" class="Reversed" onmouseover="menuOver(); swapImages('Products2', 2);" onmouseout="menuOut(); swapImages('Products2', 1);" target="_top"><b>Browse By Category</b></a></td>
+	</tr><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+   <td><img src="/Global/Images/Menu/Blip_down.gif" name="Products3" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/global/ecommerce/orderbasketview.asp" class="Reversed" onmouseover="menuOver(); swapImages('Products3', 2);" onmouseout="menuOut(); swapImages('Products3', 1);" target="_top"><b>View Order Basket</b></a></td>
 	</tr>
 	</tbody></table>
 </td>
+<td background="/Global/Images/Menu/DD_Right.gif" valign="top"><img src="Global/Images/Menu/DD_TopRight.gif" width="6" height="9" border="0"></td>
 </tr><tr>
-<td bgcolor="#000099"><img src="/Global/Images/Menu/c_bl.gif" width="5" height="5" border="0"></td>
-<td bgcolor="#000099" align="right"><img src="/Global/Images/Menu/c_br.gif" width="5" height="5" border="0"></td>
+<td width="4" height="14"><img src="/Global/Images/Menu/DD_BottomLeft.gif" width="4" height="14" border="0"></td>
+<td background="/Global/Images/Menu/DD_Bottom.gif"></td>
+<td valign="top"><img src="/Global/Images/Menu/DD_BottomRight.gif" width="6" height="14" border="0"></td>
+</tr></tbody></table>
+</div>
+<!--------End Products Drop Down--------->
+
+<!------Quotes Drop Down-------->
+<div id="Quotes">
+<table border="0  " cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" background="/global/images/menu/DD_Left.gif" width="4"><img src="/global/images/menu/DD_Left.gif" width="4" height="4"></td>
+<td>
+	<table border="0" cellspacing="5" cellpadding="0" bgcolor="#677B99" width="100%">
+	<tbody><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="Quotes0" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+    <td><a href="/Global/ECommerce/QuoteList.asp" class="Reversed" onmouseover="menuOver(); swapImages('Quotes0', 2);" onmouseout="menuOut(); swapImages('Quotes0', 1);" target="_top"><b>View Saved Quotes</b></a></td>
+   </tr><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="Quotes1" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/ProductSearch/searchresults.aspx" class="Reversed" onmouseover="menuOver(); swapImages('Quotes1', 2);" onmouseout="menuOut(); swapImages('Quotes1', 1);" target="_top"><b>Start New Quote</b></a></td>
+	</tr>
+	</tbody></table>
+</td>
+<td background="/Global/Images/Menu/DD_Right.gif" valign="top"><img src="Global/Images/Menu/DD_TopRight.gif" width="6" height="9" border="0"></td>
+</tr><tr>
+<td width="4" height="14"><img src="/Global/Images/Menu/DD_BottomLeft.gif" width="4" height="14" border="0"></td>
+<td background="/Global/Images/Menu/DD_Bottom.gif"></td>
+<td valign="top" width="6" height="14"><img src="/Global/Images/Menu/DD_BottomRight.gif" width="6" height="14" border="0"></td>
+</tr></tbody></table>
+</div>
+<!--------End Quotes Drop Down--------->
+
+<!------Orders Drop Down-------->
+<div id="Orders">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" background="/global/images/menu/DD_Left.gif" width="4"><img src="/global/images/menu/DD_Left.gif" width="4" height="4"></td>
+<td>
+	<table border="0" cellspacing="5" cellpadding="0" bgcolor="#677B99" width="100%">
+	<tbody><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="Orders0" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+    <td><a href="/Global/ECommerce/OrderTrack.asp" class="Reversed" onmouseover="menuOver(); swapImages('Orders0', 2);" onmouseout="menuOut(); swapImages('Orders0', 1);" target="_top"><b>Track Order Status</b></a></td>
+   </tr><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="Orders1" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/OrderExpediteRequest.asp" class="Reversed" onmouseover="menuOver(); swapImages('Orders1', 2);" onmouseout="menuOut(); swapImages('Orders1', 1);" target="_top"><b>Expedite an Order</b></a></td>
+	</tr>
+	</tbody></table>
+</td>
+
+<td background="/Global/Images/Menu/DD_Right.gif" valign="top"><img src="Global/Images/Menu/DD_TopRight.gif" width="6" height="9" border="0"></td>
+</tr><tr>
+<td width="4" height="14"><img src="/Global/Images/Menu/DD_BottomLeft.gif" width="4" height="14" border="0"></td>
+<td background="/Global/Images/Menu/DD_Bottom.gif"></td>
+<td valign="top"><img src="/Global/Images/Menu/DD_BottomRight.gif" width="6" height="14" border="0"></td>
+</tr></tbody></table>
+</div>
+<!--------End Orders Drop Down--------->
+
+<!------ Services Drop Down-------->
+<div id="Services" style="z-index:9">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" background="/global/images/menu/DD_Left.gif" width="4"><img src="/global/images/menu/DD_Left.gif" width="4" height="4"></td>
+<td>
+	<table border="0" cellspacing="5" cellpadding="0" bgcolor="#677B99" width="100%">
+	<tbody><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	 <td><img src="/Global/Images/Menu/Blip_down.gif" name="Services0" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>    
+    <td><a href="/Global/ECommerce/AssetServices.asp" class="Reversed" onmouseover="menuOver(); showLayer('AssetServices'); swapImages('Services0', 2); MenuMsg('Asset Services'); return true;" onmouseout="btnTimer(); menuOut(); swapImages('Services0', 1); MenuMsg(''); return true;" target="_top"><b>Asset Services</b></a></td>
+   </tr><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="Services1" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/CustomerService.asp" class="Reversed" onmouseover="menuOver(); showLayer('CustomerServices'); swapImages('Services1', 2); MenuMsg('Customer Services'); return true;" onmouseout="btnTimer(); menuOut(); swapImages('Services1', 1); MenuMsg(''); return true;" target="_top"><b>Customer Services</b></a></td>
+	</tr>
+	
+	</tbody></table>
+</td>
+<td background="/Global/Images/Menu/DD_Right.gif" valign="top"><img src="Global/Images/Menu/DD_TopRight.gif" width="6" height="9" border="0"></td>
+</tr><tr>
+<td width="4" height="14"><img src="/Global/Images/Menu/DD_BottomLeft.gif" width="4" height="14" border="0"></td>
+<td background="/Global/Images/Menu/DD_Bottom.gif"></td>
+<td valign="top"><img src="/Global/Images/Menu/DD_BottomRight.gif" width="6" height="14" border="0"></td>
+</tr></tbody></table>
+</div>
+<!--------End Services Drop Down--------->
+
+<!------Asset Services Drop Down-------->
+<div id="AssetServices">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top" background="/global/images/menu/DD_Left.gif" width="4"><img src="/global/images/menu/DD_Left.gif" width="4" height="4"></td>
+<td>
+	<table border="0" cellspacing="5" cellpadding="0" bgcolor="#677B99" width="100%">
+	<tbody><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="AssetServices0" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+    <td><a href="/Global/ReportFactory/ReportMain.asp" class="Reversed" onmouseover="menuOver(); swapImages('AssetServices0', 2);" onmouseout="menuOut(); swapImages('AssetServices0', 1);" target="_top"><b>Report Factory</b></a></td>
+   </tr><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="AssetServices1" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/Ecommerce/LicenseDefault.asp" class="Reversed" onmouseover="menuOver(); swapImages('AssetServices1', 2);" onmouseout="menuOut(); swapImages('AssetServices1', 1);" target="_top"><b>Licensing</b></a></td>
+	</tr><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="AssetServices2" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/EquipmentTracker/default.asp" class="Reversed" onmouseover="menuOver(); swapImages('AssetServices2', 2);" onmouseout="menuOut(); swapImages('AssetServices2', 1);" target="_top"><b>Equipment Tracker</b></a></td>
+	</tr><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" name="AssetServices3" width="11" height="11" border="0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/InvoiceHistory.asp" class="Reversed" onmouseover="menuOver(); swapImages('AssetServices3', 2);" onmouseout="menuOut(); swapImages('AssetServices3', 1);" target="_top"><b>Invoice History</b></a></td>
+	</tr>
+	</tbody></table>
+</td>
+<td background="/Global/Images/Menu/DD_right.gif"><img src="Global/Images/Menu/DD_TopRight.gif" width="6" height="9" border="0"></td>
+</tr><tr>
+<td width="4" height="4" valign="top"><img src="/Global/Images/Menu/DD_BottomLeft.gif" width="4" height="14" border="0"></td>
+<td background="/Global/Images/Menu/DD_Bottom.gif"></td>
+<td valign="top"><img src="/Global/Images/Menu/DD_BottomRight.gif" width="6" height="14" border="0"></td>
 </tr></tbody></table>
 </div>
 <!--------End Asset Services Drop Down--------->
 
 <!------Customer Services Drop Down-------->
-<div id="CustomerServices" style="z-index:10">
-<table border="0" cellpadding="0" cellspacing="0" bgcolor="#000099"><tbody><tr>
-<td colspan="2">
-	<table border="0" cellspacing="3" cellpadding="3" bgcolor="#000099" width="100%">
+<div id="CustomerServices">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td background="/global/images/menu/DD2_Top.gif" width="4" height="5"><img src="/global/images/menu/DD2_TopLeft.gif" width="4" height="4"></td>
+<td background="/global/images/menu/DD2_Top.gif"><img src="/global/images/pixel_clear.gif" width="5" height="5"></td>
+<td align="right" width="5" height="5"><img src="/global/images/menu/DD2_TopRight.gif" width="5" height="5"></td>
+</tr>
+<tr>
+<td valign="top" background="/global/images/menu/DD_Left.gif" width="4"><img src="/global/images/menu/DD_Left.gif" width="4" height="4"></td>
+<td>
+	<table border="0" cellspacing="5" cellpadding="0" bgcolor="#677B99" width="100%">
 	<tbody><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" width="11" height="11" border="0" name="CustomerServices0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/ECommerce/AccountTeamDetail.asp" onmouseover="menuOver(); swapImages('CustomerServices0', 2);" onmouseout="menuOut(); swapImages('CustomerServices0', 1);" class="menus" target="_top"><b>Contact Us</b></a></td>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" width="11" height="11" border="0" name="CustomerServices0" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/AccountTeamDetail.asp" class="Reversed" onmouseover="menuOver(); swapImages('CustomerServices0', 2);" onmouseout="menuOut(); swapImages('CustomerServices0', 1);" target="_top"><b>Contact Us</b></a></td>
 	</tr><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" width="11" height="11" border="0" name="CustomerServices1" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/ECommerce/FAQList.asp" onmouseover="menuOver(); swapImages('CustomerServices1', 2);" onmouseout="menuOut(); swapImages('CustomerServices1', 1);" class="menus" target="_top"><b>FAQ's</b></a></td>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" width="11" height="11" border="0" name="CustomerServices1" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/FAQList.asp" class="Reversed" onmouseover="menuOver(); swapImages('CustomerServices1', 2);" onmouseout="menuOut(); swapImages('CustomerServices1', 1);" target="_top"><b>FAQ's</b></a></td>
 	</tr><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" width="11" height="11" border="0" name="CustomerServices2" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/ECommerce/Feedback.asp?ReferringPage=default.asp" onmouseover="menuOver(); swapImages('CustomerServices2', 2);" onmouseout="menuOut(); swapImages('CustomerServices2', 1);" class="menus" target="_top"><b>Feedback</b></a></td>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" width="11" height="11" border="0" name="CustomerServices2" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/Feedback.asp?ReferringPage=default.asp" class="Reversed" onmouseover="menuOver(); swapImages('CustomerServices2', 2);" onmouseout="menuOut(); swapImages('CustomerServices2', 1);" target="_top"><b>Feedback</b></a></td>
 	</tr><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" width="11" height="11" border="0" name="CustomerServices3" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/ECommerce/LicenseProgramList.asp" onmouseover="menuOver(); swapImages('CustomerServices3', 2);" onmouseout="menuOut(); swapImages('CustomerServices3', 1);" class="menus" target="_top"><b>License Programs</b></a></td>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" width="11" height="11" border="0" name="CustomerServices3" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/LicenseProgramList.asp" class="Reversed" onmouseover="menuOver(); swapImages('CustomerServices3', 2);" onmouseout="menuOut(); swapImages('CustomerServices3', 1);" target="_top"><b>License Programs</b></a></td>
 	</tr><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" width="11" height="11" border="0" name="CustomerServices4" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/ECommerce/AccountRequestNew.asp" onmouseover="menuOver(); swapImages('CustomerServices4', 2);" onmouseout="menuOut(); swapImages('CustomerServices4', 1);" class="menus" target="_top"><b>Open New Account</b></a></td>
-	</tr><!-- TR>
-	<TD><IMG SRC="/Global/Images/Menu/Blip_blue.gif" width="11" height="11" border="0" name="CustomerServices5" onLoad="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><A href="/Global/ECommerce/AccountManage.asp" onMouseOver="menuOver(); swapImages('CustomerServices5', 2);" onMouseOut="menuOut(); swapImages('CustomerServices5', 1);" class="menus" target="_top"><B>Manage Accounts</B></A></TD>
-   </TR--><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" width="11" height="11" border="0" name="CustomerServices5" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/ECommerce/RMARequest.asp" onmouseover="menuOver(); swapImages('CustomerServices5', 2);" onmouseout="menuOut(); swapImages('CustomerServices5', 1);" class="menus" target="_top"><b>Request R.M.A.</b></a></td>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" width="11" height="11" border="0" name="CustomerServices4" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/AccountRequestNew.asp" class="Reversed" onmouseover="menuOver(); swapImages('CustomerServices4', 2);" onmouseout="menuOut(); swapImages('CustomerServices4', 1);" target="_top"><b>Open New Account</b></a></td>
 	</tr><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" width="11" height="11" border="0" name="CustomerServices6" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/ECommerce/CatalogRequest.asp?TYPE=text&amp;x=6&amp;y=3" onmouseover="menuOver(); swapImages('CustomerServices6', 2);" onmouseout="menuOut(); swapImages('CustomerServices6', 1);" class="menus" target="_top"><b>Retrieve Catalog</b></a></td>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" width="11" height="11" border="0" name="CustomerServices5" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/AccountManage.asp" class="Reversed" onmouseover="menuOver(); swapImages('CustomerServices5', 2);" onmouseout="menuOut(); swapImages('CustomerServices5', 1);" target="_top"><b>Manage Accounts</b></a></td>
+   </tr><tr>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	<td><img src="/Global/Images/Menu/Blip_down.gif" width="11" height="11" border="0" name="CustomerServices6" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	<td><a href="/Global/ECommerce/RMARequest.asp" class="Reversed" onmouseover="menuOver(); swapImages('CustomerServices6', 2);" onmouseout="menuOut(); swapImages('CustomerServices6', 1);" target="_top"><b>Request R.M.A.</b></a></td>
 	</tr><tr>
-	<td><img src="/Global/Images/Menu/Blip_blue.gif" width="11" height="11" border="0" name="CustomerServices7" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_blue.gif', '/Global/Images/Menu/Blip_green.gif');"></td>
-	<td><a href="/Global/ECommerce/ManufacturerList.asp" onmouseover="menuOver(); swapImages('CustomerServices7', 2);" onmouseout="menuOut(); swapImages('CustomerServices7', 1);" class="menus" target="_top"><b>Manufacturer List</b></a></td>
+	   <td height="2"></td><td height="2" background="/Global/Images/Menu/divider.gif"><img src="/global/images/menu/divider.gif" width="2" height="2"></td>
+   </tr><tr>
+	   <td><img src="/Global/Images/Menu/Blip_down.gif" width="11" height="11" border="0" name="CustomerServices7" onload="SetUpRollOver(this, '/Global/Images/Menu/Blip_down.gif', '/Global/Images/Menu/Blip_up.gif');"></td>
+	   <td><a href="/Global/ECommerce/ManufacturerList.asp" class="Reversed" onmouseover="menuOver(); swapImages('CustomerServices7', 2);" onmouseout="menuOut(); swapImages('CustomerServices7', 1);" target="_top"><b>Manufacturer List</b></a></td>
 	</tr>
 	</tbody></table>
 </td>
+<td background="/Global/Images/Menu/DD_Right.gif" valign="top"><img src="Global/Images/pixel_clear.gif" width="6" height="9" border="0"></td>
 </tr><tr>
-<td bgcolor="#000099"><img src="/Global/Images/Menu/c_bl.gif" width="5" height="5" border="0"></td>
-<td bgcolor="#000099" align="right"><img src="/Global/Images/Menu/c_br.gif" width="5" height="5" border="0"></td>
+<td width="4" height="4" valign="top"><img src="/Global/Images/Menu/DD_BottomLeft.gif" width="4" height="14" border="0"></td>
+<td background="/Global/Images/Menu/DD_Bottom.gif"></td>
+<td valign="top"><img src="/Global/Images/Menu/DD_BottomRight.gif" width="6" height="14" border="0"></td>
 </tr></tbody></table>
 </div>
 <!--------End Customer Services Drop Down--------->
 
-
-
-<!---- Table Layer 1 ------>
-<table height="100%" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td width="12" background="/Global/Images/Menu/H_Side.gif"><img src="/Global/Images/Menu/shim.gif" width="12" height="1" border="0"></td>
-<td valign="top">
-
-<!---- Table Layer 2------>
-<table border="0" cellpadding="0" cellspacing="0" width="793">
-  <tbody><tr>
-   <td colspan="2"><img src="/Global/Images/Menu/shim_black.gif" width="793" height="1" border="0"></td>
-  </tr>
-  
-<!-- row 1 -->
-  <tr valign="top">
-  
-   <td colspan="2" width="793" height="56">
-
-<!------Header Links------------>
-	<table border="0" cellpadding="0" cellspacing="0" width="793">
-		<tbody><tr>
-		<td><a href="/default.asp"><img src="/Global/Images/Menu/Header_Logo_1.gif" width="184" height="56" border="0" alt="SHI.com home page"></a></td>
-			 <td><a href="/Global/ECommerce/OrderBasketView.asp" onmouseover="swapImages('Header_01', 2); MenuMsg('Create or place an order'); return true;" onmouseout="swapImages('Header_01', 1); MenuMsg(''); return true;"><img name="Header_01" src="/Global/Images/Menu/Header_01.gif" width="102" height="56" border="0" alt="Create or place an order" onload="SetUpRollOver(this, '/Global/Images/Menu/Header_01.gif', '/Global/Images/Menu/Header_01_over.gif')"></a></td>
- <td><a href="/Global/ECommerce/QuoteList.asp" onmouseover="swapImages('Header_02', 2); MenuMsg('Create a new quote or load a saved quote'); return true;" onmouseout="swapImages('Header_02', 1); MenuMsg(''); return true;"><img name="Header_02" src="/Global/Images/Menu/Header_02.gif" width="80" height="56" border="0" alt="Create a new quote or load a saved quote" onload="SetUpRollOver(this, '/Global/Images/Menu/Header_02.gif', '/Global/Images/Menu/Header_02_over.gif')"></a></td>
- <td><a href="/Global/ECommerce/OrderTrack.asp" onmouseover="swapImages('Header_03', 2); MenuMsg('Track the status of your orders'); return true;" onmouseout="swapImages('Header_03', 1); MenuMsg(''); return true;"><img name="Header_03" src="/Global/Images/Menu/Header_03.gif" width="85" height="56" border="0" alt="Track the status of your orders" onload="SetUpRollOver(this, '/Global/Images/Menu/Header_03.gif', '/Global/Images/Menu/Header_03_over.gif')"></a></td>
- <td><a href="/Global/ECommerce/AssetServices.asp" onmouseover="showLayer('AssetServices'); swapImages('Header_04', 2); MenuMsg('Track or report on your assets'); return true;" onmouseout="btnTimer(); swapImages('Header_04', 1); MenuMsg(''); return true;"><img name="Header_04" src="/Global/Images/Menu/Header_04.gif" width="97" height="56" border="0" alt="Track or report on your assets" onload="SetUpRollOver(this, '/Global/Images/Menu/Header_04.gif', '/Global/Images/Menu/Header_04_over.gif')"></a></td>
- <td><a href="/Global/ECommerce/CustomerService.asp" onmouseover="showLayer('CustomerServices'); swapImages('Header_05', 2); MenuMsg('Service, Support and Company Information'); return true;" onmouseout="btnTimer(); swapImages('Header_05', 1); MenuMsg(''); return true;"><img name="Header_05" src="/Global/Images/Menu/Header_05.gif" width="109" height="56" border="0" alt="Service, Support and Company Information" onload="SetUpRollOver(this, '/Global/Images/Menu/Header_05.gif', '/Global/Images/Menu/Header_05_over.gif')"></a></td>
- <td><a href="/YourHome.asp" onmouseover="swapImages('Header_06', 2); MenuMsg('Your customized home page at SHI.COM'); return true;" onmouseout="swapImages('Header_06', 1); MenuMsg(''); return true;"><img name="Header_06" src="/Global/Images/Menu/Header_06.gif" width="109" height="56" border="0" alt="Your customized home page at SHI.COM" onload="SetUpRollOver(this, '/Global/Images/Menu/Header_06.gif', '/Global/Images/Menu/Header_06_over.gif')"></a></td>
-
-		<td><img src="/Global/Images/Menu/Header_End.gif" width="28" height="56" border="0"></td>
-		</tr>
-	</tbody></table>
-    <!---End Header Links----------->		  	  
-
-   </td>
-  </tr>
-  
-<!-- row 2 -->
-  <tr valign="top">
-   <td><a href="/default.asp"><img src="/Global/Images/Menu/Header_Logo_2.gif" width="184" height="41" border="0" alt="SHI.com home page"></a></td>
-   <td width="618">
-   		
-		<!-------- Login Here --------->
-		<table width="100%" cellpadding="2" cellspacing="2" border="0"> 
-		<tbody><tr>
-			<td><img src="/Global/Images/pixel_clear.gif" width="113" height="1" border="0"></td>
-			<td></td>
-			<td><img src="/Global/Images/pixel_clear.gif" width="125" height="1" border="0"></td>
-		</tr>
-		<tr>
-		
-		<td width="113" valign="top" align="center">
-			
-		</td>
-		<td class="login" width="450">
-			
-		</td>
-		
-		<td valign="top">
-			<!---------- Login Nav ---------->
-				<!--- <a href="https://www.shi.com/Global/Content/About/privacy.asp"><img src="/Global/images/menu/b_SSL.gif"  alt="Switch to SSL mode" border="0" width=72 height=18></a><br> -->
-			<a href="/Default.asp"><img src="/Global/Images/menu/b_home.gif" width="72" height="18" alt="SHI.com Home Page" border="0"></a><br>
-			
-			<!------ End Login Nav --------->
-		</td>
-		
-		</tr>
-		</tbody></table>		
-		<!--------- End Login --------->
-		
-   
-   </td>
-  </tr>
-</tbody></table>
-
-
-<!--------- Local/HeaderUtils.inc.asp -- begin ---------->
-
-<!--------- Local/HeaderUtils.inc.asp -- end ----------><!---------------- Local/MainAd.inc.asp -- begin --------->
-
-<!---------------- Local/MainAd.inc.asp -- end --------->
-<!------ Local/NonSecureHeader.inc.asp -- end --------><!------- Global/Content/  -- begin ----->
+<!------ Local/Header.inc.asp -- end ------> 
+<!------- Global/Content/  -- begin ----->
 
 
 <!------- Global/Content/ContentMenuUtils.inc.asp -- end ----->
+<!------- SHI/Local/ContentMenuUtils.inc.asp -- begin ----->
+
+
+<!------- End SHI/Local/ContentMenuUtils.inc.asp -- end ----->
 
 
 
-<table width="95%" cellpadding="3" cellspacing="2" border="0">
+<table width="95%" cellpadding="0" cellspacing="0" border="0">
   <tbody><tr>
-    <td rowspan="3" valign="top" width="1%"><table cellpadding="2" cellspacing="2">
+      <td rowspan="3" valign="top" width="1%">
+    <table cellpadding="0" cellspacing="0">
 <tbody><tr>
    <td valign="top">
-	 <a href="/Global/Content/FeaturedProducts/FP_index.asp" onmouseover="swapImages('c_Features', 2); MenuMsg('Featured Partners'); return true;" onmouseout="swapImages('c_Features', 1); MenuMsg(''); return true;"><img name="c_Features" src="/Global/Images/Menu/Content/c_Features.gif" width="180" height="60" border="0" alt="Featured Partners" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/c_Features.gif', '/Global/Images/Menu/Content/c_Features_over.gif')"></a><br>
- <a href="/Global/Content/Licensing/licensing.asp" onmouseover="swapImages('c_Licensing', 2); MenuMsg('Licensing information'); return true;" onmouseout="swapImages('c_Licensing', 1); MenuMsg(''); return true;"><img name="c_Licensing" src="/Global/Images/Menu/Content/c_Licensing.gif" width="180" height="60" border="0" alt="Licensing information" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/c_Licensing.gif', '/Global/Images/Menu/Content/c_Licensing_over.gif')"></a><br>
- <a href="/Global/Content/Hardware/hardware_resources.asp" onmouseover="swapImages('c_Hardware', 2); MenuMsg('Hardware Manufacturer Information'); return true;" onmouseout="swapImages('c_Hardware', 1); MenuMsg(''); return true;"><img name="c_Hardware" src="/Global/Images/Menu/Content/c_Hardware.gif" width="180" height="60" border="0" alt="Hardware Manufacturer Information" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/c_Hardware.gif', '/Global/Images/Menu/Content/c_Hardware_over.gif')"></a><br>
- <a href="/Global/Content/TechnicalServices/TechnicalServices.asp" onmouseover="swapImages('c_Professional', 2); MenuMsg('SHI Professional Services'); return true;" onmouseout="swapImages('c_Professional', 1); MenuMsg(''); return true;"><img name="c_Professional" src="/Global/Images/Menu/Content/c_Professional.gif" width="180" height="60" border="0" alt="SHI Professional Services" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/c_Professional.gif', '/Global/Images/Menu/Content/c_Professional_over.gif')"></a><br>
- <a href="/Global/Content/E-Commerce/shi_e-commerce.asp" onmouseover="swapImages('c_eCommerce', 2); MenuMsg('SHI E-Commerce'); return true;" onmouseout="swapImages('c_eCommerce', 1); MenuMsg(''); return true;"><img name="c_eCommerce" src="/Global/Images/Menu/Content/c_eCommerce.gif" width="180" height="60" border="0" alt="SHI E-Commerce" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/c_eCommerce.gif', '/Global/Images/Menu/Content/c_eCommerce_over.gif')"></a><br>
- <img name="c_AboutSHI_over" src="/Global/Images/Menu/Content/c_AboutSHI_over.gif" width="180" height="60" border="0" alt="About Software House International"><br>
- <a href="/Global/Content/Education/shieducation_openingpage.asp" onmouseover="swapImages('c_Education', 2); MenuMsg('SHI Educational information'); return true;" onmouseout="swapImages('c_Education', 1); MenuMsg(''); return true;"><img name="c_Education" src="/Global/Images/Menu/Content/c_Education.gif" width="180" height="60" border="0" alt="SHI Educational information" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/c_Education.gif', '/Global/Images/Menu/Content/c_Education_over.gif')"></a><br>
- <a href="/Global/Content/Government/shigovernment_openingpage.asp" onmouseover="swapImages('c_Government', 2); MenuMsg('SHI Government information'); return true;" onmouseout="swapImages('c_Government', 1); MenuMsg(''); return true;"><img name="c_Government" src="/Global/Images/Menu/Content/c_Government.gif" width="180" height="60" border="0" alt="SHI Government information" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/c_Government.gif', '/Global/Images/Menu/Content/c_Government_over.gif')"></a><br>
- <a href="/Global/Content/Events/SeminarSeriesList.asp" onmouseover="swapImages('c_Events', 2); MenuMsg('Special Events'); return true;" onmouseout="swapImages('c_Events', 1); MenuMsg(''); return true;"><img name="c_Events" src="/Global/Images/Menu/Content/c_Events.gif" width="180" height="60" border="0" alt="Special Events" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/c_Events.gif', '/Global/Images/Menu/Content/c_Events_over.gif')"></a><br>
+		<img src="/global/images/bgnd_left_spacer.gif" width="140" height="10" border="0"><br>
+      	 <a href="/Global/Content/FeaturedProducts/FP_index.asp" onmouseover="swapImages('cm_Features', 2); MenuMsg('Promotions and New Products from Our Partners'); return true;" onmouseout="swapImages('cm_Features', 1); MenuMsg(''); return true;"><img name="cm_Features" src="/Global/Images/Menu/Content/cm_Features.gif" width="140" height="55" border="0" alt="Promotions and New Products from Our Partners" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/cm_Features.gif', '/Global/Images/Menu/Content/cm_Features_over.gif')"></a><br>
+ <a href="/Global/Content/Licensing/licensing.asp" onmouseover="swapImages('cm_Licensing', 2); MenuMsg('Volume Purchase Options'); return true;" onmouseout="swapImages('cm_Licensing', 1); MenuMsg(''); return true;"><img name="cm_Licensing" src="/Global/Images/Menu/Content/cm_Licensing.gif" width="140" height="55" border="0" alt="Volume Purchase Options" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/cm_Licensing.gif', '/Global/Images/Menu/Content/cm_Licensing_over.gif')"></a><br>
+ <a href="/Global/Content/Hardware/hardware_resources.asp" onmouseover="swapImages('cm_Hardware', 2); MenuMsg('Hardware Services and Tech Support Information'); return true;" onmouseout="swapImages('cm_Hardware', 1); MenuMsg(''); return true;"><img name="cm_Hardware" src="/Global/Images/Menu/Content/cm_Hardware.gif" width="140" height="55" border="0" alt="Hardware Services and Tech Support Information" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/cm_Hardware.gif', '/Global/Images/Menu/Content/cm_Hardware_over.gif')"></a><br>
+ <a href="/Global/Content/ManagedITServices/ManagedITServices.asp" onmouseover="swapImages('cm_ManagedIT', 2); MenuMsg('Managed Information Technology Services'); return true;" onmouseout="swapImages('cm_ManagedIT', 1); MenuMsg(''); return true;"><img name="cm_ManagedIT" src="/Global/Images/Menu/Content/cm_ManagedIT.gif" width="140" height="55" border="0" alt="Managed Information Technology Services" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/cm_ManagedIT.gif', '/Global/Images/Menu/Content/cm_ManagedIT_over.gif')"></a><br>
+ <a href="/Global/Content/E-Commerce/shi_e-commerce.asp" onmouseover="swapImages('cm_eCommerce', 2); MenuMsg('Customized Procurement'); return true;" onmouseout="swapImages('cm_eCommerce', 1); MenuMsg(''); return true;"><img name="cm_eCommerce" src="/Global/Images/Menu/Content/cm_eCommerce.gif" width="140" height="55" border="0" alt="Customized Procurement" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/cm_eCommerce.gif', '/Global/Images/Menu/Content/cm_eCommerce_over.gif')"></a><br>
+ <img name="cm_AboutSHI_over" src="/Global/Images/Menu/Content/cm_AboutSHI_over.gif" width="140" height="55" border="0" alt="Company, Locations and Career Opportunities"><br>
+ <a href="/Global/Content/Education/shieducation_openingpage.asp" onmouseover="swapImages('cm_Education', 2); MenuMsg('Serving Academic Institutions'); return true;" onmouseout="swapImages('cm_Education', 1); MenuMsg(''); return true;"><img name="cm_Education" src="/Global/Images/Menu/Content/cm_Education.gif" width="140" height="55" border="0" alt="Serving Academic Institutions" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/cm_Education.gif', '/Global/Images/Menu/Content/cm_Education_over.gif')"></a><br>
+ <a href="/Global/Content/Government/shigovernment_openingpage.asp" onmouseover="swapImages('cm_Government', 2); MenuMsg('Serving Federal, State and Local Government'); return true;" onmouseout="swapImages('cm_Government', 1); MenuMsg(''); return true;"><img name="cm_Government" src="/Global/Images/Menu/Content/cm_Government.gif" width="140" height="55" border="0" alt="Serving Federal, State and Local Government" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/cm_Government.gif', '/Global/Images/Menu/Content/cm_Government_over.gif')"></a><br>
+ <a href="/Global/Content/Events/SeminarSeriesList.asp" onmouseover="swapImages('cm_Events', 2); MenuMsg('Upcoming InfoTech Events'); return true;" onmouseout="swapImages('cm_Events', 1); MenuMsg(''); return true;"><img name="cm_Events" src="/Global/Images/Menu/Content/cm_Events.gif" width="140" height="55" border="0" alt="Upcoming InfoTech Events" onload="SetUpRollOver(this, '/Global/Images/Menu/Content/cm_Events.gif', '/Global/Images/Menu/Content/cm_Events_over.gif')"></a><br>
 
+      <img src="/global/images/bgnd_left_bottom.gif" width="140" height="7" border="0"><br>
    </td>
 
+   <td><img src="/global/images/pixel_clear.gif" width="10" height="1"></td>
+   
 <td valign="top">
+   <img src="/global/images/pixel_clear.gif" width="75" height="15"><br>
 	<span class="PageHead">About SHI</span>
+   <img src="/global/images/pixel_clear.gif" width="10" height="16" border="0"><br>
 	
 	<table>
 		
-	<tbody><tr><td valign="top"><img src="/global/images/pixel_gray.gif" height="15" width="15"></td><td valign="top"><a href="about.asp" class="Normal">Our&nbsp;Story</a></td></tr>
-	<tr><td valign="top"><img src="/global/images/pixel_gray.gif" height="15" width="15"></td><td valign="top"><a href="authorizations.asp" class="Normal">Authorizations</a></td></tr>
-	<tr><td valign="top"><img src="/global/images/pixel_gray.gif" height="15" width="15"></td><td valign="top"><a href="Currencies.asp" class="Normal">Currencies</a></td></tr>
-	<tr><td valign="top"><img src="/global/images/pixel_gray.gif" height="15" width="15"></td><td valign="top"><a href="shi_locations.asp" class="Normal">SHI&nbsp;Locations</a></td></tr>
-	<tr><td valign="top"><img src="/global/images/pixel_gray.gif" height="15" width="15"></td><td valign="top"><a href="careers.asp" class="Normal">Careers<br>at&nbsp;SHI</a></td></tr>
-	<tr><td valign="top"><img src="/global/images/pixel_gray.gif" height="15" width="15"></td><td valign="top"><a href="communityservice.asp" class="Normal">Community<br>Service</a></td></tr>
-	<tr><td valign="top"><img src="/global/images/pixel_blue.gif" height="15" width="15"></td><td valign="top"><span class="Text">Privacy<br>Statement</span></td></tr>
+	<tbody><tr><td valign="top"><img src="/global/images/bullet_gray.gif" height="15" width="15"></td><td valign="top"><a href="about.asp" class="Normal">Our&nbsp;Story</a></td></tr>
+	<tr><td valign="top"><img src="/global/images/bullet_gray.gif" height="15" width="15"></td><td valign="top"><a href="awards.asp" class="Normal">Awards&nbsp;&amp;&nbsp;Recognition</a></td></tr>
+	<tr><td valign="top"><img src="/global/images/bullet_gray.gif" height="15" width="15"></td><td valign="top"><a href="authorizations.asp" class="Normal">Authorizations</a></td></tr>
+	<tr><td valign="top"><img src="/global/images/bullet_gray.gif" height="15" width="15"></td><td valign="top"><a href="Currencies.asp" class="Normal">Currencies</a></td></tr>
+	<tr><td valign="top"><img src="/global/images/bullet_gray.gif" height="15" width="15"></td><td valign="top"><a href="shi_locations.asp" class="Normal">SHI&nbsp;Locations</a></td></tr>
+	<tr><td valign="top"><img src="/global/images/bullet_gray.gif" height="15" width="15"></td><td valign="top"><a href="careers.asp" class="Normal">Careers<br>at&nbsp;SHI</a></td></tr>
+	<tr><td valign="top"><img src="/global/images/bullet_gray.gif" height="15" width="15"></td><td valign="top"><a href="communityservice.asp" class="Normal">Community<br>Service</a></td></tr>
+	<tr><td valign="top"><img src="/global/images/bullet_blue.gif" height="15" width="15"></td><td valign="top"><span class="Text">Privacy<br>Statement</span></td></tr>
 
 
 		<tr><td colspan="2">&nbsp;</td></tr>
-		<tr><td valign="top"><img src="/global/images/pixel_gray.gif" height="15" width="15"></td><td><a href="http://www.shes.com" class="Normal" target="_blank">Enterprise<br>Solutions</a></td></tr>
-		<!---
-		<img src="/global/images/pixel_gray.gif" height=10 width=10>&nbsp;<a href="../Education/shieducation_openingpage.asp" class="SideBar">SHI&nbsp;Education</a>
-		<img src="/global/images/pixel_gray.gif" height=10 width=10>&nbsp;<a href="../Government/shigovernment_openingpage.asp" class="SideBar">SHI&nbsp;Government</a>
-		--->
+		<tr><td valign="top"><img src="/global/images/bullet_gray.gif" height="15" width="15"></td><td><a href="/Global/Content/TechnicalServices/TechnicalServices.asp" class="Normal">Enterprise<br>Solutions</a></td></tr>
 		</tbody></table>
 
-</td></tr>
+      </td><td><img src="/global/images/pixel_clear.gif" width="18" height="1"></td>
+
+</tr>
 </tbody></table>	
-        </td>
-    <td valign="top">
-    
-        <table width="100%"><tbody><tr><td class="PageHead">Privacy Statement</td></tr></tbody></table>
+      </td>
+    <td valign="top" class="SectionText">
+         
+        <img src="/global/images/pixel_clear.gif" width="15" height="15"><br> 
+        <span class="PageHead">Privacy Statement</span><br>
+        <img src="/global/images/pixel_clear.gif" width="15" height="15"><br>
         
         <table width="100%"><tbody><tr><td class="Text">    
         
@@ -287,17 +418,25 @@ If we decide to change our privacy policy, we will post those changes on our Hom
     
    </tbody></table>
 
-<p align="center">
-&nbsp;<br>&nbsp;<br>
 
-<table width="100%"><tbody><tr><td align="center" class="note">
-	<p align="center" class="note">©2001 SHI.com - This site is owned and maintained by Software House International for the use of its customers. 
-    <br> Contact: 1-888-764-8888 &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/Global/Content/About/privacy.asp" class="normal">SHI Privacy Statement</a>
-    </p>
-</td></tr></tbody></table>
+<p>
+
+<table width="98%" cellpadding="2" cellspacing="2" border="0">
+<tbody><tr>
+<td width="136"><img src="/global/images/pixel_clear.gif" width="136" height="1"></td>
+<td valign="top" width="55">
+<a href="javascript:OpenModeLessWindow('/Global/Content/ISO9001.asp')"><img src="/global/images/ISO9001.gif" width="55" height="51" border="0"></a>
+</td>
+<td class="note">
+<img src="/global/images/pixel_clear.gif" width="100" height="3" border="0"><br>
+<b>©2004 Software House International • All Rights Reserved</b><br>
+This site is owned and maintained by Software House International for the use of its customers.<br>
+<span class="text">Contact: 1-888-764-8888 &nbsp;&nbsp;|&nbsp;&nbsp;</span> <a href="/Global/Content/About/privacy.asp" class="normal">SHI Privacy Statement</a>
+</td>
+</tr></tbody></table>
+
 </p>
 <!------------- End Table Layer 1 ----------------------->
 
-</td></tr></tbody></table>
 
 </body></html>
