@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getoutofdebt.org privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416130802id_/http%3A//myvesta.org/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getoutofdebt.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075101id_/http%3A//myvesta.org/aboutus/privacy.htm) for the most accurate reproduction.*
 
-# Myvesta - Audio & Video
+# Myvesta - Privacy Policy
 
 Myvesta has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this site. 
 
