@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603121620id_/http%3A//www3.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208211102id_/http%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy for Experts Exchange
 
