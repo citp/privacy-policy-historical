@@ -1,66 +1,102 @@
-> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603233417id_/http%3A//niketown.nike.com/includes/policies/info_policies_privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207131320id_/http%3A//niketown.nike.com/info/privacy.jhtml%3Fitem%3Dprivacy) for the most accurate reproduction.*
 
-# Nike
+# Niketown.com
 
-Privacy Policy
+|   
+Nike is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors. If you would like to review our policies specifically applicable to children, see “[Children's Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=HBKTQHZ4ZG0K4CQCGI1SFEYKAIZBKIV0?item=child)”. 
 
-Nike is committed to respecting the privacy rights of all visitors to our web site. The following policy describes how we collect, protect and use information we receive from visitors to our site. If you would like to review our policies specifically applicable to children, see "[Children's Privacy](https://web.archive.org/web/20010603233417id_/http%3A//niketown.nike.com/includes/policies/info_policies_privacy2.jhtml;jsessionid=3DZVQTYAAFTDICQBCBNCFEYKAEIF0IV0)". 
+NIKE USA, Inc. and NIKE Retail Services, Inc are responsible for this privacy policy. Please note, that when you enter any sub-sites accessible through nike.com, they may have different privacy policies specific to those sites. We encourage you to read the privacy policies of each NIKE site.
 
-What information does Nike collect and how does Nike use it?
+What information do we collect?  
+How do we use your information?  
+How do we protect visitor information?  
+Do we use “cookies”?  
+Do we disclose the information we collect to outside parties?  
+How can you opt-out, remove, or modify information that you have provided to us?  
+[Children's Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=HBKTQHZ4ZG0K4CQCGI1SFEYKAIZBKIV0?item=child)
 
-  * When you register on the site, we need you to provide your name, date of birth, gender, e-mail address, mailing address, daytime phone number, and credit card information (when ordering products only), as well as create a username and password. This allows us to keep a user profile so that we may customize preferences for each specific user, as well as provide a faster method for users to submit information to us, and receive back either the information or products desired. 
-  * When you register, you also have the discretion whether or not to submit your evening phone number, favorite athlete, favorite sport, or other requested information. This allows us to better know our visitors and possibly tailor any specific features, promotions, or other notifications to you. 
-  * Visitors will also be given a choice when registering whether they would like to be on our mailing list, or whether they would prefer to opt-out and not receive such mailings from us. 
-  * The site contains an anonymous shopping feature for visitors who desire to purchase products without registering. Those who elect to purchase products without registering will be asked only for information necessary to process the transaction and ensure compliance with our Children's Privacy Policy. Information provided by anonymous shoppers will be retained only as necessary to process the transaction and maintain our sales records and will not be used for marketing purposes. 
-  * When you enter a contest, promotion, or use certain other site features, we may again ask for your name, address, e-mail address, date of birth, username, password or other information so that we are able to better administer the contest, promotion, or feature. 
-  * We may also use the information we collect during the registration process to occasionally notify you about important functionality changes to the Web site, new products and services, and special offers we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of any other communication, simply reply to any e-mail sent to you and type UNSUBSCRIBE as the subject of your reply. 
+What information do we collect?
 
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+  * When ordering or registering, we may ask you for your name, date of birth, e-mail address, mailing address, daytime phone number, credit card information or other information. You may, however, visit our site anonymously or purchase without registering.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
+  * Like many websites, we use “cookies” to enhance your experience and gather information about visitors and visits to our websites. Please refer to the ”Do we use 'cookies'?” section below for information about cookies and how we use them. 
+  * We also receive and store click-stream data and other information about visits to our websites which may be combined with personal information you have provided. This information is used to analyze and improve the website experience. For more information see the "Do we use 'cookies'?" section below.
 
+back to top
 
-How does Nike protect visitor information?
+How do we use your information?
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems and who are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above. 
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Do We use "cookies"?
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To administer a contest, promotion, survey or other site feature.
+  * If you have opted-in to receive Nike e-mail, we may send you periodic e-mails from Nike. If you would no longer like to receive Nike e-mail, please refer to the “How can you opt-out, remove or modify information you have provided to us?”section below. If you have not opted-in to receive Nike e-mail, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-Yes. Cookies are bits of electronic information that a web site operator can transfer to your hard drive to help tailor and keep records of your visit to the site. The use of cookies is standard on the Internet and many web sites use them. Cookies allow us to better customize your visits to our site to your individual preferences. We also contract with third party service providers who assign cookies (which do not contain any personally identifiable information) to conduct site tracking for us. These companies use cookies solely to provide us with aggregate data about site traffic. Although most web browsers automatically accept cookies, you can usually change your browser to prevent that or notify you whenever you're sent a cookie. This gives you the chance to decide whether or not to accept it. Even without accepting a cookie, you can still access most of the features on our site. However, we use cookies to track shopping basket items through the order and browsing process, so you won't be able to place an on-line order if you disable cookies. If you disable cookies, you can still place orders over the telephone by calling our customer service number. 
+back to top
+
+How do we protect visitor information?
+
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above. 
+
+back to top
+
+Do we use “cookies”?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help Nike conduct and improve its business. Avenue A and Coremetrics are two such third-party service providers that Nike works with to help analyze and improve how visitors interact with our website and services. These companies use cookies to gather anonymous data about our visitors on Nike's behalf. They do not collect personally identifiable information like email, credit card number, phone number, or name. If you would rather not take part in this ongoing research and analysis then please feel free to click [here](http://www.coremetrics.com/consumer_opt_out/opt_out_options.html#instructions) to opt out of Coremetrics, and click [here](http://www.avenueainc.com/privacy/opting.asp) to opt out of Avenue A.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service number (800) 806-6453.
+
+back to top
 
 Do we disclose the information we collect to outside parties?
 
-Except for web site hosting partners and other parties who assist us in operating our web site, we do not sell, trade, or otherwise transfer to outside parties personally identifiable information that you voluntarily provide to us unless we receive your express consent in advance. For web site hosting partners and other parties who assist us in operating our site, we require them by contract to keep our customer information confidential. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include NIKE, Inc. wholly-owned companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Nike's business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
 
-However, customer information in an aggregate form may be provided to other parties for marketing, advertising, or other uses.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-A special note to parents.
+back to top
 
-We realize that many children will visit our site, and we therefore encourage children to consult with their parents before submitting any information to any web site, including ours. However, we believe that it is ultimately the parent's responsibility to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the [Direct Marketing Association](http://www.the-dma.org/) home page. 
+How can you opt-out, remove or modify information you have provided to us? 
 
-How can you remove or modify information you have provided to us? 
+To modify your e-mail subscriptions or completely opt-out of receiving Nike e-mail please let us know by modifying your preferences in the “My Account” section. Please note that due to email production schedules you may receive any emails already in production. 
 
-You may modify your information in our database by visiting the "My Account" section of our site. From there you should login and select "Profile." Then proceed to modify the information you have previously provided. To delete all of your personally identifiable information in our database click on "Take me off of your list" instead of "Profile" in the "My Account" main menu. Please Note: if you request to have your information deleted from our database, we may maintain information about an individual sales transaction. 
+To delete all of your Nike online account information from our database, sign into the "My Account" section of our site and select “De-Register.” Or you can send us a request by clicking [here](https://nike-store.custhelp.com/cgi-bin/nike_store.cfg/php/enduser/ask.php). Please fill out the required fields and include your first name, last name and e-mail address in the “Message” box before submitting. Note that if you request your account information to be deleted from our database, we may maintain information about an individual sales transaction in order to service that transaction and for record keeping. 
 
-Third party links
+back to top
 
-In an attempt to provide you with increased value, we may include third party links on our site. However, even if the third party is affiliated with Nike, we have no control over these linked sites which have separate and independent privacy and data collection practices. We therefore have no responsibility or liability for the content, including the privacy practices, of these linked sites. These linked sites are provided only for your convenience and you therefore access them at your own risk. Nonetheless, we seek to protect the integrity of our site and welcome any [feedback](http://nike-store.custhelp.com/cgi-bin/nike_store/people) about these linked sites (including if a specific link does not work). 
+A special note to parents
 
-Your consent
+We realize that many children will visit our site, and we therefore encourage children to consult with their parents before submitting any information to any website, including ours. We encourage parents to supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing their name, address, and other personal information online without parental permission. For additional information about parental control tools, please consult the “Consumer Assistance” page of the [Direct Marketing Association](http://www.the-dma.org/consumers/consumerassistance.html) home page. 
 
-By using our web site, you consent to our privacy policy. 
+back to top
 
-Changes to our policy
+Third party links 
 
-If we decide to use changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on November 10, 2000. 
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any [feedback](https://nike-store.custhelp.com/cgi-bin/nike_store/people) about these linked sites (including if a specific link does not work). 
 
-Questions and feedback
+Changes to our policy 
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all [feedback](http://nike-store.custhelp.com/cgi-bin/nike_store/people) pertaining to privacy, or any other issue. 
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on May 31, 2002.
 
-Terms and Conditions.
+Questions and feedback 
 
-Please also visit our [Terms and Conditions](http://niketown.nike.com/includes/policies/info_policies_terms.jhtml) establishing the use, disclaimers, and limitations of liability governing the use of our web site. 
+We welcome your questions, comments, and concerns about privacy. Please send us any and all [feedback](https://nike-store.custhelp.com/cgi-bin/nike_store/people) pertaining to privacy, or any other issue. 
 
-Web site operator.
+Online Policy Only
 
-This site is operated by NIKE Retail Services, Inc. 
+This online privacy policy applies only to information collected through our website and not to information collected offline. Terms and Conditions
 
-[Children's Privacy Policy](https://web.archive.org/web/20010603233417id_/http%3A//niketown.nike.com/includes/policies/info_policies_privacy2.jhtml;jsessionid=3DZVQTYAAFTDICQBCBNCFEYKAEIF0IV0)
+Please also visit our [Terms and Conditions](https://web.archive.org/info/privacy.jhtml;jsessionid=HBKTQHZ4ZG0K4CQCGI1SFEYKAIZBKIV0?item=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+
+Your consent 
+
+By using our site, you consent to our privacy policy.
+
+back to top
+
+[Children's Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=HBKTQHZ4ZG0K4CQCGI1SFEYKAIZBKIV0?item=child)
