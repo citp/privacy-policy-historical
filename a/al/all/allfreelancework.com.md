@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203033642id_/http%3A//www.allfreelancework.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402005905id_/http%3A//www.allfreelancework.com/privacy.php) for the most accurate reproduction.*
 
 # All Freelance Work : Self-Employed jobs: Contractors : Consultants : Independent Professionals
 
 |   | 
 
-[**Home**](https://web.archive.org/web/20031203033642id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
+[**Home**](https://web.archive.org/web/20040402005905id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
 
 This is the web site of **AllFreelance**.  
 
@@ -38,16 +38,16 @@ If you feel that this site is not following its stated information policy, you m
 
 | 
 
-[](http://www.allfreelancework.com/portfoliofr.php?id=92850)
+[](http://www.allfreelancework.com/portfoliofr.php?id=110407)
 
-[](http://www.allfreelancework.com/portfoliofr.php?id=38692)
+[](http://www.allfreelancework.com/portfoliofr.php?id=109637)
 
    
 
 
-[](http://www.allfreelancework.com/portfoliofr.php?id=93348)
+[](http://www.allfreelancework.com/portfoliofr.php?id=46426)
 
-[](http://www.allfreelancework.com/portfoliofr.php?id=46561)
+[](http://www.allfreelancework.com/portfoliofr.php?id=55297)
 
 [](http://www.allfreelancework.com/afwtour.php)
 
