@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oliveglobal.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208212246id_/http%3A//www.oliveglobal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliveglobal.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622060050id_/http%3A//www.oliveglobal.com/privacy.html) for the most accurate reproduction.*
 
-# OLIVE E-BUSINESS PVT LTD - PRIVACY POLICY
+# Privacy Policy: olive e-business New Delhi India Cardiff UK
 
 |    
 
