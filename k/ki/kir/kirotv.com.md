@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209181854id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614172317id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
 
 # KIROTV.com - KIRO-TV - Privacy Policy
 
