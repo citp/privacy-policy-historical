@@ -1,73 +1,62 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604022424id_/http%3A//thirdage.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004032525id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
 
 # About Us - Privacy Statement
 
-| 
+Privacy Policy for www.ThirdAge.com  
 
-ThirdAge.com Privacy Policy
 
-**Guiding Principles**  
-1\. Respecting the privacy of our members and guests is one of our deepest concerns at ThirdAge.com. We recognize that our members are our most important asset, and we strive to protect their interests at all times and in all areas of our community. 
+**1\. General**  
+ThirdAge Inc. (hereinafter "ThirdAge") respects the privacy of every individual who visits www.thirdage.com (hereinafter the "Web Site"). This Privacy Policy outlines the information ThirdAge will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared. 
 
-2\. We believe that our environment offers little value if members do not feel a sense of security and safety while participating. 
+**2\. Personally-Identifiable Information**  
+There are cases where ThirdAge may ask you for personally-identifiable information such as your name, mailing address and e-mail address. For example, we request personally-identifiable information when you register for an account on the Web Site, for online shopping or transactions, or for other services that require registration or subscription. ThirdAge will not collect any personally-identifiable information about you unless you provide it to us voluntarily. 
 
-**This privacy statement provides you with answers to the following questions:**  
-1\. What personal information does ThirdAge.com collect? Why?  
-2\. Does ThirdAge.com share this information with anyone?  
-3\. Can members and subscribers opt out of having their information shared? How?  
-4\. How can members and subscribers update the personal information they have shared with ThirdAge.com?  
-5\. Can member and subscriber information be removed from ThirdAge.com? How?  
-6\. Tell me about the ads on ThirdAge.com. Do those ads place cookies on my computer? What information do those cookies collect?
+When you do provide us with personally-identifiable information, ThirdAge may: 
 
-**1\. What personal information does ThirdAge.com collect? Why?**  
-When you register to be a member or subscribe to one or more of our newsletters, ThirdAge asks for your name and/or e-mail address. This information allows us to help members and subscribers recover information about their account should it be forgotten and to send information about products and services we think our members will find valuable. 
+  * Store and process that information to better understand your needs and how we can improve our products and services;
+  * Use that information to contact you for informational, marketing and promotional purposes;
+  * Disclose that information to third parties when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with the rights or property (either intentionally or unintentionally) of ThirdAge, other members or users of the Web Site, or anyone else that could be harmed by such activities;
+  * Disclose that information to third parties when we believe in good faith that the law requires it; and
+  * Disclose that information to third parties when we believe in good faith that such action is necessary to enforce the [Terms of Service](http://www.thirdage.com/about/terms.html). 
 
-Additionally, we may ask for personal information when you enter a sweepstakes, contest or other promotion; order merchandise from our shop; request free samples that may be offered from time to time; post a personals ad; utilize our services or the services of content providers featured on our site. 
 
-We may also collect various pieces of visitor information to track the use of the ThirdAge.com site and to improve our visitors' online experience. This information might include the visitor's domain name or IP address, and the visitor's browser and platform type. This helps ThirdAge.com to provide the best information in the best format. 
 
-ThirdAge uses a standard Internet technology called "cookies" to store and track visitor information. A cookie is a small text file that a server can automatically store on your computer and retrieve later. Cookies allow us to count the number of unique visitors to the site to measure traffic patterns, personalize a visitor's experience and facilitate the login process for registered members. If you do not wish to have your browser accept cookies, the "Help" section of most browsers has instructions for disabling cookies and/or requesting that the browser notify you when you receive a new cookie.
+Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, we will not provide personally-identifiable information to third parties, although certain non-personally-identifiable user information may be provided in aggregate form to third parties. 
 
-In the course of serving advertisements onto ThirdAge.com, DoubleClick, our third-party advertising partner, may also place or recognize a unique cookie on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/us/corporate/privacy). 
+In case you would like to remove or change some personally-identifiable information, you may do so by visiting your member services page or contacting our Customer Support Department at support@thirdage.com. (Remember, however, that removing some or all of your personally-identifiable information may limit your ability to access some or all of the features and services of the Web Site.) In addition, to keep you in control of your personally-identifiable information and the communications directed to you, we allow you to opt-out of receiving communications from ThirdAge about new Web Site features or ThirdAge services. You may opt-out of these services by contacting our Customer Support Department at support@thirdage.com. 
 
-For more information on cookies please see this [definition](https://web.archive.org/cgi-bin/glosdb.cgi?glos_name=tech&action=view&term_name=Cookie) or take the [Crumbling the Magic Cookie](https://web.archive.org/insider/tech/david/907093629.html) quiz. 
+Some of our services or promotions are offered through an affiliation with another company in what we call a "co-branded" area of our site or through a co-sponsored promotion, and visitor information may be shared with those partners and/or sponsors. If you request information about or from our partners or sponsors, or visit a co-branded or sponsor-specific area of the site, you give ThirdAge permission to provide information about you (such as your e-mail address) to the partner or sponsor. 
 
-**2\. Does ThirdAge.com share this information with anyone?**  
-ThirdAge believes that its members and users and the information they have provided to ThirdAge are important to its business. ThirdAge does not share that information with unaffiliated third parties except as set forth below. 
+**3\. Public Forums**  
+This Web Site may make chat rooms, discussion boards, news groups and/or other public forums available to its users. Please remember that any information that is disclosed to these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-Some of our services or promotions are offered through an affiliation with another company in what we call a "co-branded" area of our site or through a co-sponsored promotion, and visitor information may be shared with those partners and/or sponsors. For example, if you request information about or from our partners or sponsors, or visit a co-branded or sponsor-specific area of the site, you give ThirdAge permission to provide information about you (such as your e-mail address) to the partner or sponsor. 
+**4\. Children**  
+This Web Site is not directed at individuals under 18 years of age, and ThirdAge does not intend to collect any personally-identifiable information from such individuals. Where appropriate, ThirdAge will specifically instruct children not to submit such information on the Web Site. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the mailing address or e-mail address listed at the bottom of this Policy if he would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files. 
 
-Additionally, in the event that the operation and control of ThirdAge.com is transferred to another entity, or if ThirdAge Inc. is, or substantially all of its assets are, acquired, customer information will be one of the transferred assets. 
+**5\. Non-Personally-Identifiable Information**  
+ThirdAge may also collect information about you that is not personally-identifiable. Examples of this type of information may include your age, gender, interests and preferences, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the web site from which you linked to the Web Site. ThirdAge may share this information with advertisers, business partners, sponsors and other third parties. For example, ThirdAge may inform a sponsor that the membership of the Web Site is x percent females and y percent males. This data is used to customize the Web Site's content and advertising, and to deliver a better experience for our members and users. 
 
-We may also combine demographic information about you with similar information about other users and share such aggregated, non-personally identifiable demographic information with our advertisers, sponsors and other business partners. 
+**6\. Information We May Place Automatically on Your Computer's Hard Drive**  
+When you view the Web Site, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. Consequently, the next time you visit the Web Site, ThirdAge can recognize you. For example, Cookies are used to allow us to tailor the Web Site to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer's hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. 
 
-Finally, we must reserve the right to disclose personal information if required by law enforcement, judicial or other governmental authorities. 
+**7\. Links to Other Web Sites**  
+The Web Site allows links to various other web sites as stated in ThirdAge's [Terms of Service](http://www.thirdage.com/about/terms.html). ThirdAge assumes no responsibility for the information practices of sites you are able to access through the Web Site. These links to other sites do not imply affiliation or endorsement of a linked site in any way. 
 
-Other than as described as above, ThirdAge does not offer, give or sell personal information given to us by members, subscribers or users to a third party (other than our sponsors as described below) without individual member, subscriber or user consent. All members remain free to request anonymity at any time when participating in community areas. We do not show a member or subscriber's information to other participants unless the member or subscriber specifically authorizes us to release such information. 
+**8\. Security**  
+Please keep in mind that whenever you give out personal information online --- for example, via discussion boards or chat rooms --- that information can be collected and used by people you don't know. While ThirdAge strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
 
-**3\. Can members and subscribers opt out of having their information shared? How?**  
-Members and subscribers can request that their personal information not be shared. All newsletter subscribers may visit the [Newsstand](https://web.archive.org/news/newsstand/) at any time to check their settings. To ensure that an e-mail address is not used for anything other than newsletter delivery, the box marked "Announcements" should remain unchecked. ThirdAge members may visit [Member Preferences](https://web.archive.org/join/editlogin.html) to designate whether they would like to share their e-mail addresses with other members by clicking on the appropriate button. 
+The importance of security for all personally-identifiable information associated with our users and members is of utmost concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, while we strive to protect your personally-identifiable information, ThirdAge can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your personally-identifiable information, we will take reasonable efforts to ensure its security on our systems. 
 
-**4\. How can members and subscribers update the personal information they have shared with ThirdAge.com?**  
-Members should visit [Member Preferences](https://web.archive.org/join/editlogin.html) to update or change the personal information they provided upon registration. Specific changes in the settings of various member areas, such as Forums, Circles, HomePages and Free E-mail, must be made in the "Preferences" areas of those specific tools. 
+Your account on the Web Site is password-protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. ThirdAge will never ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to sign out of your account on the Web Site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place like a library or an Internet café. ThirdAge's policy on termination of subscribers or members who violate security provisions is set out in ThirdAge's Web Site [Terms of Service](http://thirdage.com/about/terms.html). 
 
-Newsletter subscribers should visit the [Newsstand](https://web.archive.org/news/newsstand/) to change settings or unsubscribe. 
+**9\. Business Transfers**  
+As we continue to develop our business, we might sell or buy stores or assets, or transfer a service we provide to a carefully chosen strategic partner. In such transactions, customer info generally is one of the transferred business assets. 
 
-Please note that registered members will need to visit the [Newsstand](https://web.archive.org/news/newsstand/) to make changes to newsletter subscriptions. These changes cannot be made in the Member Preferences area. 
+**10\. Your Acceptance of These Terms**  
+By using the Web Site, you signify your assent to the ThirdAge Privacy Policy and the Web Site's Terms of Service. If you do not agree to this Policy or the Terms of Service, please do not use the Web Site. Your continued use of the Web Site following the posting of changes to these terms will mean you accept those changes. 
 
-**5\. Can member and subscriber information be removed from ThirdAge.com? How?**  
-Any member or registered user may have his or her account deleted by sending an e-mail to [supporthelp@thirdage.com](mailto:supporthelp@thirdage.com) with this request. Newsletter subscribers and members who receive newsletters may simply access the [Newsstand](https://web.archive.org/news/newsstand/) to unsubscribe from any and all newsletters. 
+**11\. Whom to Contact**  
+If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact ThirdAge by mail at: ThirdAge Inc., 585 Howard Street, First Floor, San Francisco, CA 94105; or by e-mail at support@thirdage.com. 
 
-**6\. Tell me about the ads on ThirdAge.com. Do those ads place cookies on my computer? What information do those cookies collect?**  
-The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/us/corporate/privacy).
-
-In the course of serving advertisements onto ThirdAge.com, DoubleClick may place or recognize a unique cookie on your browser. 
-
-**A Commitment to Our Community**  
-As a company we are committed to keeping individual and community interests as our main focus, and we strive to maintain confidentiality of the information our users provide to us. We only ask for information that will help us to provide specific and valuable services. All members remain free to request anonymity at any time, even when participating in forums, chat, HomePages and Personals. Please remember that information displayed in chat rooms, forums and other community areas becomes public, so exercise caution when deciding to disclose your personal information in those areas. 
-
-We'd like to underscore that we encourage you to familiarize yourself with this policy and our [Terms of Service](https://web.archive.org/about/terms.html), which may change from time to time due to the dynamic nature of the Internet. 
-
-Thank you for being a part of ThirdAge.com!
-
-| 
+**12\. Ad Serving**  
+The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy). 
