@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enounce.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204053700id_/http%3A//enounce.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enounce.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603104514id_/http%3A//www.enounce.com/privacy.htm) for the most accurate reproduction.*
 
-# Enounce Incorporated - Privacy Policy
+# Enounce, Incorporated - Privacy Policy
 
 **Privacy Policy**
 
@@ -36,8 +36,8 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 **Contacting Us about Privacy**  
 If you have any questions about this privacy statement, the practices of our software or Web sites, you may contact: 
 
-> Privacy Policy Group  
->  Enounce Incorporated  
->  2666 East Bayshore Road  
->  Palo Alto, CA 94303  
->  [support@enounce.com](mailto:support@enounce.com)
+Privacy Policy Group  
+Enounce Incorporated  
+2666 East Bayshore Road  
+Palo Alto, CA 94303  
+[support@enounce.com](mailto:support@enounce.com)
