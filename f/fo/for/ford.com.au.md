@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216021644id_/http%3A//www.ford.com.au/disclaimer/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207005028id_/http%3A//www.ford.com.au/disclaimer/Privacy.asp) for the most accurate reproduction.*
 
 # Ford Australia - Disclaimer
 
@@ -57,11 +57,9 @@ Generally, you have no obligation to provide any personal information requested 
 
 
 **To whom do we disclose personal information?**   
-We engage third party service providers to perform functions for Ford. Such functions include mailing, delivery of purchases, credit card payment authorisation, trend analysis, market research and promotions. 
+We engage third party service providers (including related companies of Ford which may be located outside Australia) to perform functions for Ford. Such functions include mailing, delivery of purchases, credit card payment authorisation, trend analysis, external audits, market research, promotions and the provision of statistical sales information to industry bodies. 
 
-For our service providers to perform those functions, it is sometimes necessary for us to disclose your personal information to those suppliers. Where disclosures take place, we work with our suppliers to ensure that all personal information we provide to them is kept secure, is only used to perform the task for which we have engaged them and is handled by them in accordance with the National Privacy Principles. 
-
-From time to time, we provide statistical information about sales to industry bodies. This may comprise data collected about you and other customers to form aggregate results. However, we will not provide any information that identifies you as our customer.   
+For our service providers to perform those functions, it is sometimes necessary for us to disclose your personal information to those suppliers. Where disclosures take place, we work with these third parties to ensure that all personal information we provide to them is kept secure, is only used to perform the task for which we have engaged them and is handled by them in accordance with the National Privacy Principles.   
 
 
 **How do we protect personal information?**   
@@ -112,7 +110,7 @@ We will send you written acknowledgement of your correspondence. We will investi
 **Changes to our Privacy Policy**   
 We may change our Privacy Policy from time to time at our discretion and without notice. At any time, the latest version is available from our website at www.ford.com.au or our Customer Relationship Centre. 
 
-**Issued February 2002**   
+**Issued November 2004**   
 
 
   
