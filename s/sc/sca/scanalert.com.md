@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612083640id_/http%3A//www.scanalert.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209195405id_/http%3A//www.scanalert.com/Content.sa%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# ScanAlert - Privacy Policy
+# ScanAlert
 
 Our privacy and security policies exceed industry standards. The nature of our services dictates that we restrict our use of information to only what is needed to deliver the best services in our industry, and no more. We encourage you to read our Privacy Statement as part of your evaluation process and to read it again when we notify you of changes from time to time.
-
-If you have questions or concerns regarding this statement, please contact ScanAlert's Privacy Officer by sending an email to [privacy@scanalert.com](mailto:privacy@scanalert.com). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, please contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process.](https://web.archive.org/Link?url=http%3A%2F%2Fwww.truste.org%2Fusers%2Fusers_watchdog_new.php) TRUSTe will serve as a liaison with us to resolve your concerns.
 
 About TRUSTe
 
