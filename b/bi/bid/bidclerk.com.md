@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223233045id_/http%3A//www.bidclerk.com/projects/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidclerk.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306233550id_/http%3A//www.bidclerk.com/projects/privacy.jsp) for the most accurate reproduction.*
 
 # Construction Project Leads for 1000’s of U.S. Projects - Updated Daily
 
@@ -17,7 +17,7 @@ BidClerk PRIVACY STATEMENT This privacy statement covers the site www.BidClerk.c
 
 
 
-If users have questions or concerns regarding this statement, they should first contact BidClerk Customer Support by Email at [support@BidClerk.com](mailto:support@bidclerk.com) or by phone at 312-423-3900.
+If users have questions or concerns regarding this statement, they should first contact BidClerk Customer Support by Email at [support@bidclerk.com](mailto:support@bidclerk.com) or by phone at 312-423-3900.
 
 Information Collection and Use
 
@@ -85,18 +85,18 @@ We do partner with other third parties to provide specific services.
 
 Business Transitions
 
-In the event BidClerk.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via [suppport@BidClerk.com](mailto:support@bidclerk.com) or via a prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+In the event BidClerk.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via [support@bidclerk.com](mailto:support@bidclerk.com) or via a prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
 
 Choice/Opt-out
 
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to "Remove" in the subject line in the email or email us at [remove@BidClerk.com](mailto:remove@bidclerk.com?subject=Remove)
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to "Remove" in the subject line in the email or email us at [remove@bidclerk.com](mailto:remove@bidclerk.com?subject=Remove)
 
 -or-  
 the user may contact us at 312.423.3900  
 -or-  
-[support@BidClerk.com](mailto:support@bidclerk.com)  
+[support@bidclerk.com](mailto:support@bidclerk.com)  
 -or-  
 at: 111 W. Washington Street Suite 450 Chicago, IL. 60602 to opt-out.
 
@@ -112,7 +112,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 Tell-A-Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. BidClerk.com will automatically send the friend a one-time email inviting them to visit the site. BidClerk.com does store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact BidClerk.com at [support@BidClerk.com](mailto:support@bidclerk.com) to request the removal of this information from our database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. BidClerk.com will automatically send the friend a one-time email inviting them to visit the site. BidClerk.com does store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact BidClerk.com at [support@bidclerk.com](mailto:support@bidclerk.com) to request the removal of this information from our database.
 
 Security
 
@@ -122,11 +122,11 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added; our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment in a locked facility.
 
-If users have any questions about the security at our Web site, users can send an email to [support@BidClerk.com](mailto:support@bidclerk.com).
+If users have any questions about the security at our Web site, users can send an email to [support@bidclerk.com](mailto:support@bidclerk.com).
 
 Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the member information page or by emailing our Customer Support at [support@BidClerk.com](mailto:support@bidclerk.com). Or, contact us by telephone or postal mail at the contact information listed below.
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the member information page or by emailing our Customer Support at [support@bidclerk.com](mailto:support@bidclerk.com). Or, contact us by telephone or postal mail at the contact information listed below.
 
 Notification of Changes
 
@@ -139,9 +139,9 @@ Contact Information
 If users have any questions or suggestions regarding our privacy policy, please contact us at:  
 Phone 312-423-3900  
 Fax 312-423-7729  
-Email [support@BidClerk.com](mailto:support@bidclerk.com)  
+Email [support@bidclerk.com](mailto:support@bidclerk.com)  
 Postal Address: 111 W. Washington Street Suite 450  
 Chicago, IL. 60602  
 Attn: BidClerk Customer Support  
-Support Department ([Support@BidClerk.com](mailto:support@bidclerk.com))  
-or <http://www.bidclerk.com/contactus.jsp>
+Support Department ([support@bidclerk.com](mailto:support@bidclerk.com))  
+or <http://www.bidclerk.com/projects/contactus.jsp>
