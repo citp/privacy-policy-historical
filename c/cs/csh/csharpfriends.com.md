@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207130611id_/http%3A//www.csharpfriends.com/Members/Main/MISC/private.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604035616id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
 
-# CSharpFriends.com
+# CSharpFriends - ASP.NET & C# Tutorials
+
+|   
+---  
+  
+  
+---  
+  
+  | 
 
 Your use of the CSharpFriends.com Web site constitutes your agreement to this privacy policy and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. 
 
@@ -55,3 +63,5 @@ If you have any questions regarding this privacy policy you can contact CSharpFr
 ### Miscellaneous 
 
 CSharpFriends.com may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, CSharpFriends.com will make a link to the current privacy policy available to you on your screen when you are on our Web site. Your use of the site constitutes your agreement to this privacy policy and your assent to any modification thereto. 
+
+| 
