@@ -1,25 +1,13 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606133817id_/http%3A//www.verticalresponse.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203180718id_/http%3A//www.verticalresponse.com/about/privacy.html) for the most accurate reproduction.*
 
-# VerticalResponse: Privacy Policy
+# VerticalResponse, Inc.
 
-  
-[](http://ibuilder.verticalresponse.com/signup/user_info.html?mkt_referrer=&mkt_promotion=&affiliate_id=)
-
-Hot Tips from VerticalResponse 
-
-Sign up to receive our newsletter 
-
-**Enter email address:**  
   
 
 
-|    
-|    
-**VerticalResponse PRIVACY STATEMENT**
+This privacy statement discloses the privacy practices for [www.verticalresponse.com](http://www.verticalresponse.com/).
 
-[](https://www.truste.org/validate/11077) This privacy statement discloses the privacy practices for [**www.verticalresponse.com**](http://www.verticalresponse.com/). This confirms that VerticalResponse is a licensee of the TRUSTe Privacy Program. 
-
-**VerticalResponse has agreed to notify you of:**
+VerticalResponse has agreed to notify you of:
 
   1. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
   2. The organization collecting the information 
@@ -29,56 +17,53 @@ Sign up to receive our newsletter
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under VerticalResponse's control 
   7. How you can correct any inaccuracies in the information 
 
-If you have questions or concerns regarding this statement, you should first Janine Popick, CEO by email at [privacy@verticalresponse.com](mailto:privacy@verticalresponse.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog_intro.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
-**Information Collection and Use**  
-VerticalResponse is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. VerticalResponse collects information from our users at several different points on our website. 
 
-**Registration**  
-No registration is required to view the VerticalResponse website. There is an optional form for the VerticalResponse newsletter which captures email address, first name, last name, and other optional information such as company name, country, state, number of names in database, business type, title, number of employees. 
+If you have questions or concerns regarding this statement, please contact Janine Popick, CEO by email at privacy@verticalresponse.com.
 
-**Cookies**  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our general website. Once the user closes their browser, the cookie simply terminates. We use session-based cookies to determine general effectiveness of marketing campaigns. In such cases, we increment an aggregate number indicating success for that marketing campaign, but do not tie it to any of your personally identifiable information. If a user rejects the cookie, they may still use our entire site. 
+Information Collection and Use  
+VerticalResponse is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. VerticalResponse collects information from our users at several different points on our website.
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+Information You Upload into iBuilder  
+VerticalResponse offers self-service direct marketing solutions for small and mid-size businesses. All client data uploaded into our system is stored in a personalized and secure location. VertcalResponse will not sell or rent any client data loaded into our system and only the registered account holder can gain access to the uploaded lists. 
 
-**Sharing**  
-We will share aggregated demographic information with 3rd parties in the case they would like to know aggregate demographics of our audience. This is not linked to any personal information that can identify any individual person. We do not share personally identifiable information with 3rd parties. 
+Registration  
+No registration is required to view the VerticalResponse website. 
 
-**Links**  
-This web site contains links to other sites. Please be aware that we VerticalResponse are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by verticalresponse.com. 
+Cookies  
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our general website. Once the user closes their browser, the cookie simply terminates. We use session-based cookies to determine general effectiveness of marketing campaigns. In such cases, we increment an aggregate number indicating success for that marketing campaign, but do not tie it to any of your personally identifiable information. If a user rejects the cookie, they may still use our entire site.
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address and other non-required information such as Title and size of company. 
+Log Files  
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-**Security**  
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+Sharing  
+We will share aggregated demographic information with 3rd parties in the case they would like to know aggregate demographics of our audience. This is not linked to any personal information that can identify any individual person. We do not share personally identifiable information with 3rd parties.
 
-This security is enhanced by our use of firewalls protecting all of the VerticalResponse servers. We also do everything in our power to protect user-information off-line. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, our customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. 
+Links  
+This web site contains links to other sites. Please be aware that we VerticalResponse are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by verticalresponse.com.
 
-Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. 
+Security  
+This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only VerticalResponse network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems. 
+This security is enhanced by our use of firewalls protecting all of the VerticalResponse servers. We also do everything in our power to protect user-information off-line. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, our customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information.
 
-If you have any questions about the security at our website, you can send an email to [info@verticalresponse.com](mailto:info@verticalresponse.com). 
+Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.
 
-**Special Offers**  
-We send all new members a verification email to verify password and username. Established members who have chosen to receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only VerticalResponse network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems.
 
-**Administrative Type Email Communications**  
-You will receive administrative emails that are related to the primary usage of our service. You may not opt-out of administrative emails. These administrative emails will not have any marketing, promotional or advertising material(s) in them. 
+If you have any questions about the security at our website, you can send an email to [info@verticalresponse.com](mailto:info@VerticalResponse.com).
 
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update that user's personal data provided to us. This can be done by calling our toll-free telephone number at1-866-6VERTICAL, by emailing our Customer Support at [support@verticalresponse.com](mailto:support@verticalresponse.com), or by sending us a letter to VerticalResponse, attn: account updates, 55 New Montgomery St. Ste 720, San Francisco, CA 94105. If you would like your account deactivated please state this in your communications and we will do this. 
+Special Offers  
+We send all new members a verification email to verify password and username. Established members who have chosen to receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
 
-**Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our Newsletter signup page has an 'opt-out' mechanism so users who don't want any marketing material can keep their email address off of our lists. 
+Administrative Type Email Communications  
+You will receive administrative emails that are related to the primary usage of our service. You may not opt-out of administrative emails. These administrative emails will not have any marketing, promotional or advertising material(s) in them.
 
-Users who no longer wish to receive our newsletter may opt-out of receiving these communications by clicking on the unsubscribe link in the email or email us at [support@verticalresponse.com](mailto:support@verticalresponse.com). 
+Correction/Updating Personal Information  
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update that user's personal data provided to us. This can be done by calling our toll-free telephone number at 1-866-6VERTICAL, by emailing our Customer Support at [support@verticalresponse.com](mailto:support@verticalresponse.com), or by sending us a letter to VerticalResponse, attn: account updates, 55 New Montgomery St. Ste 720, San Francisco, CA 94105. If you would like your account deactivated please state this in your communications and we will do this.
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will prominently post those changes on our Homepage (located at [http://www.verticalresponse.com](http://www.verticalresponse.com/)) so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+Notification of Changes  
+If we decide to change our privacy policy, we will prominently post those changes on our Homepage (located at [http://www.verticalresponse.com](http://www.verticalresponse.com/)) so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-**Legal Disclaimer**  
-Though we make every effort to preserve your privacy we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site. 
+Legal Disclaimer  
+Though we make every effort to preserve your privacy we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site.
