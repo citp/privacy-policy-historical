@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013082025id_/http%3A//www.seekwellness.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621060614id_/http%3A//www.seekwellness.com/privacy.htm) for the most accurate reproduction.*
 
 # Your Privacy at SeekWellness
 
@@ -7,23 +7,23 @@ How to Protect the Privacy of Your Health Information**
 
 Privacy Resources for Consumers
 
-Q. **Do you know where your health information is going?**
+Q.  **Do you know where your health information is going?**
 
 A. When you register at and then log in to a health website, any information you provide may be stored by the owners of the website. In some cases, this information is traceable to your email address or your IP address and is available for sale or trade by the original website to other companies interested in marketing to people with your profile. Your IP address is the unique number assigned to your computer when it's connected to the Internet. Your job is to discover what happens to the information collected along with your address.
 
-Q. **What can you do to protect your information?**
+Q.  **What can you do to protect your information?**
 
 A. Before you give a website any private or health-related information, try to find a privacy policy published on the website. If you can't find one, it might be a good idea to refuse to register or to provide any information at all. The privacy policy should be easy to find (preferably from a link on the homepage), should be written in simple language, and should clearly state how your information will be used.
 
 _SeekWellness Response: This document is our privacy policy. It is available by direct link from all pages in the website._
 
-Q. **What else should you look for?**
+Q.  **What else should you look for?**
 
 A. Look for a contact address and send the website an email. If someone answers, that's a good sign.
 
 _SeekWellness Response: Our email address is available on every page in the website and our email policy is to answer all inquiries within 24-48 hours._
 
-Q. **What should you look for in a privacy policy?**
+Q.  **What should you look for in a privacy policy?**
 
 1\. Make sure it's easy to understand. If you have trouble understanding it, chances are the website doesn't want you to know what it does with your information.
 
@@ -71,9 +71,10 @@ _Currently SeekWellness uses WebTrends Live to collect information about visits 
 > **Principle 7 - Limited Use of Cookies**  
 >  WebTrends Live uses cookies to track such as the time/date of the visit, the time/date of last visit, the page viewed, the referrer, transaction information for eCommerce pages, and other data. The cookies never include personal information such as name, mailing address and phone number. We do not collect such information and visitors that we track can not provide us with personal information through normal movement across a web site. As we do not build a database of individual visitors, the data that we do collect is never stored in any individual user profile; the data collected serves only to update aggregate counts allowing our customers to monitor traffic on their site. Visitors can also reject cookies.
 > 
+> **Opting Out of Tracking Cookies**  
+>  You may elect to opt out of receiving tracking cookies for all sites using WebTrends Live services. To do so, you will need to accept a cookie indicating your choice. Please visit our [**opt out page**](http://www.webtrendslive.com/permission.asp) for more information.
+> 
 >   
->  **Opting Out of Tracking Cookies**  
->  You may elect to opt out of receiving tracking cookies for all sites using WebTrends Live services. To do so, you will need to accept a cookie indicating your choice. Please visit our [**opt out page**](http://www.webtrendslive.com/permission.asp) for more information.  
 > 
 
 5\. If the website collects personal information from you, it should tell you why it collects this information and how it plans to use it, whether or not it releases this information to others, or if it claims rights to this information in the future. If it does share your information, it should tell you how it plans to obtain your permission prior to sharing it. It should also tell you how to access this record to make changes or delete the information in the future and how secure this information is while being stored. The website should make it clear that it will retain only the information that is necessary for the original purpose and only for as long as it's needed.
