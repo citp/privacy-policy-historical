@@ -1,41 +1,28 @@
-<!--The following is the downloaded HTML source of the movietickets.com privacy policy that was archived on 2002-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020206061346id_/http%3A//www.movietickets.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the movietickets.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208041724id_/http%3A//www.movietickets.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <link rel="stylesheet" type="text/css" href="style/borders.css">
-
-<link rel="stylesheet" type="text/css" href="style/text_ns4.css">
-		
-<title>MovieTickets.com - For the online purchase of movie tickets. Privacy Policy.</title>
-<meta name="robots" content="all">
-<meta name="description" content="MovieTickets.com – The best online site to buy movie tickets, read movie reviews, see incredible movie trailers, look up movie showtimes, and find movie theaters across the US and Canada.	">
+<link rel="stylesheet" type="text/css" href="style/text_ns6.css">
+<title>MovieTickets.com. For the online purchase of movie tickets. Privacy Policy.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="description" content="MovieTickets.com. The best online site to buy movie tickets, read movie reviews, see incredible movie trailers, look up movie showtimes, and find movie theaters across the US and Canada.	">
 <meta name="keywords" content="MovieTickets, movie tickets, movietickets, movie ticketing, purchase movie tickets, buy movie tickets, order movie tickets, buy movie tickets online, online movietickets, movie showtimes, movie theaters, movies, movie times, movie listings, theater listings, movie stars, films, film stars, motion pictures, upcoming movies, coming attractions, coming soon, new movies, movie clips, movie premieres, movie releases, new movie releases, movie reviews, movie previews, trailers, movie trailers, cinemas, films, film premieres, box office, special events, new releases, family entertainment, family movies, independent films, action movies, foreign movies, classic movies, comedies, documentaries, dramas, horror movies, musicals, romantic movies, romantic comedies, science fiction movies, scifi movies, thrillers, westerns, mystery movies, suspense movies, animated movies">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta name="DC.creator" content="MovieTickets.com, Inc.">
 <meta name="DC.subject" content="MovieTickets, movie tickets, movietickets, movie ticketing, purchase movie tickets, buy movie tickets, order movie tickets, buy movie tickets online, online movietickets, movie showtimes, movie theaters, movies, movie times, movie listings, theater listings, movie stars, films, film stars, motion pictures, upcoming movies, coming attractions, coming soon, new movies, movie clips, movie premieres, movie releases, new movie releases, movie reviews, movie previews, trailers, movie trailers, cinemas, films, film premieres, box office, special events, new releases, family entertainment, family movies, independent films, action movies, foreign movies, classic movies, comedies, documentaries, dramas, horror movies, musicals, romantic movies, romantic comedies, science fiction movies, scifi movies, thrillers, westerns, mystery movies, suspense movies, animated movies">
-<meta name="DC.publisher" content="Copyright 2001 MovieTickets.com, Inc.">
-<link rev="made" href="mailto:webmaster@movietickets.com">
+<meta name="DC.publisher" content="Copyright 2002 MovieTickets.com, Inc.">
 <meta name="rating" content="SAFE FOR KIDS">
 <meta name="distribution" content="GLOBAL">
 <meta name="copyright" content="MovieTickets.com, Inc.">
 <meta name="author" content="MovieTickets.com, Inc.">
-
-<style type="text/css">
-
-body { scrollbar-face-color: #474752; scrollbar-shadow-color: #474752; scrollbar-highlight-color: #474752; scrollbar-3dlight-color: #000000; scrollbar-darkshadow-color: #000000; scrollbar-track-color: #6E6A71; scrollbar-arrow-color: #ffcc00; }
-
-</style>
-
-<script language="javascript">
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta http-equiv="imagetoolbar" content="no">
+<link rel="shortcut icon" href="favicon.ico">
+<script language="javascript" type="text/javascript">
 function OpenWindowNav(strUlr)
 {
 	var calcs = window.open(strUlr);
 }
-function Rcertify() 
-{ 
-var popupWin = window.open('http://www.bbbonline.org/cks.asp?id=101031214155115457', 'Participant','location=yes,scrollbars=yes,width=545,height=300'); 
-window.name = 'opener'; 
-} 
 
 function OpenWindow(theURL,winName,features) {
   window.open(theURL,winName,features);
@@ -61,25 +48,33 @@ function fnTrim(strIN) {
 
 //                        Gets Called from LeftNav ZipSearch "GO" Button                    //
 
+function enter_click() {
+		submit_onclick();
+}
+
 function submit_onclick() {
 
-		if (document.forms[0].SearchTitle.value == ""){
- 				fnTestforZip(document.forms[0]);
-	 	  document.forms[0].action = "http://www.movietickets.com/house_list.asp";
+		if (document.formz.SearchTitle.value == ""){
+ 			fnTestforZip(document.formz);
+	 		document.formz.action = "http://www.movietickets.com/house_list.asp";
 
 		}else{
-   		document.forms[0].SearchSort.value = 1;
-	 			document.forms[0].action = "http://www.movietickets.com/movie_list.asp";
+   			document.formz.SearchSort.value = 1;
+   				if (document.formz.SearchZip.value == ""){
+   				}else{
+   					fnTestforZip(document.formz);
+   				}
+	 		document.formz.action = "http://www.movietickets.com/movie_list.asp";
 		}
-		 		//alert(document.forms[0].SearchZip.value + " - " + document.forms[0].SearchCity.value + " - " + document.forms[0].SearchState.value)
-		 		document.forms[0].submit();
+		//alert(document.formz.SearchZip.value + " - " + document.formz.SearchCity.value + " - " + document.formz.SearchState.value)
+		document.formz.submit();
 }
 
 
 //------------------------------- CHECK FOR CITY STATE AND OR ZIP---------------------------//
 
 	function fnTestforZip(form){
-  	var strAddress = new String(document.forms[0].SearchZip.value);	  
+  	var strAddress = new String(document.formz.SearchZip.value);	  
   	//var re = new RegExp(/,/g)
   	var arCityState
   	var tmpStateAbbrev = new String("")
@@ -100,14 +95,14 @@ function submit_onclick() {
  				switch (arCityState[0].length){   
  				  case (5) :
          if(isANum(arCityState[0])){
-  									document.forms[0].SearchZip.value = fnTrim(arCityState[0]);
-	  								document.forms[0].SearchCity.value = "";
-			  						document.forms[0].SearchState.value = "";
+  									document.formz.SearchZip.value = fnTrim(arCityState[0]);
+	  								document.formz.SearchCity.value = "";
+			  						document.formz.SearchState.value = "";
  				      return
          }else{
-  									document.forms[0].SearchZip.value = "";
-	  								document.forms[0].SearchCity.value = fnTrim(arCityState[0]);
-			  						document.forms[0].SearchState.value = "";
+  									document.formz.SearchZip.value = "";
+	  								document.formz.SearchCity.value = fnTrim(arCityState[0]);
+			  						document.formz.SearchState.value = "";
            return
          }
  				  case (6) :       
@@ -121,14 +116,14 @@ function submit_onclick() {
  											    chr += arCityState[0].charAt(i) + " ";
  											  }
 												}
-            document.forms[0].SearchZip.value = chr
-	  								 document.forms[0].SearchCity.value = "";
-			  						 document.forms[0].SearchState.value = "";
+            document.formz.SearchZip.value = chr
+	  								 document.formz.SearchCity.value = "";
+			  						 document.formz.SearchState.value = "";
 												return
 										}else{
-  									 document.forms[0].SearchZip.value = "";
-	  								 document.forms[0].SearchCity.value = fnTrim(arCityState[0]);
-			  						 document.forms[0].SearchState.value = "";
+  									 document.formz.SearchZip.value = "";
+	  								 document.formz.SearchCity.value = fnTrim(arCityState[0]);
+			  						 document.formz.SearchState.value = "";
 										  return
 										}
        case (7) :
@@ -136,9 +131,9 @@ function submit_onclick() {
 										for (var i=0; i < arCityState[0].length; i++) {
 										 var chr = arCityState[0].charAt(i)
 										  if (i != 3 && (chr == " ")) {
-    									 document.forms[0].SearchZip.value = "";
-	    								 document.forms[0].SearchCity.value = fnTrim(arCityState[0]);
-			    						 document.forms[0].SearchState.value = "";
+    									 document.formz.SearchZip.value = "";
+	    								 document.formz.SearchCity.value = fnTrim(arCityState[0]);
+			    						 document.formz.SearchState.value = "";
 						  				  return
 						  				  //return "CITY"
 										  }else{
@@ -148,43 +143,43 @@ function submit_onclick() {
 										  }
 										}       
           if(isCanZip(tmpchr)){
-   									document.forms[0].SearchZip.value = fnTrim(arCityState[0]);
- 	  								document.forms[0].SearchCity.value = "";
-	 		  						document.forms[0].SearchState.value = "";
+   									document.formz.SearchZip.value = fnTrim(arCityState[0]);
+ 	  								document.formz.SearchCity.value = "";
+	 		  						document.formz.SearchState.value = "";
             return
             //return Canadian ZIP 
           }else{
-  									 document.forms[0].SearchZip.value = "";
-   								 document.forms[0].SearchCity.value = fnTrim(arCityState[0]);
-	    						 document.forms[0].SearchState.value = "";
-				  				  return
-				  				  //return "CITY"
+  								document.formz.SearchZip.value = "";
+   								document.formz.SearchCity.value = fnTrim(arCityState[0]);
+	    						document.formz.SearchState.value = "";
+				  				return
+				  				//return "CITY"
           }
 	 			  default :  
-  								document.forms[0].SearchZip.value = "";
-   							document.forms[0].SearchCity.value = fnTrim(arCityState[0]);
-	    					document.forms[0].SearchState.value = "";
+  							document.formz.SearchZip.value = "";
+   							document.formz.SearchCity.value = fnTrim(arCityState[0]);
+	    					document.formz.SearchState.value = "";
 				  				return
 				  				//return "CITY"
 	 			}
 	  }else{
 	    arCityState[1] = fnTrim(arCityState[1])
 	    if(arCityState[1].length > 2){
-   				document.forms[0].SearchZip.value = "";
-    			document.forms[0].SearchCity.value = fnTrim(arCityState[0]);
+   				document.formz.SearchZip.value = "";
+    			document.formz.SearchCity.value = fnTrim(arCityState[0]);
 	     	tmpStateAbbrev = fnGetAbbreviation(fnTrim(arCityState[1]));
 	     	  if(tmpStateAbbrev == null) {
 	     	    //alert("the silly thing was set to nUll")
-	     	   	document.forms[0].SearchState.value = "";
+	     	   	document.formz.SearchState.value = "";
 	     	  }else{
-	     	    document.forms[0].SearchState.value = tmpStateAbbrev;
+	     	    document.formz.SearchState.value = tmpStateAbbrev;
 	     	  }
 	     	//return "CITYSTATE"
        return
 	    }else{
-   				document.forms[0].SearchZip.value = "";
-    			document.forms[0].SearchCity.value = fnTrim(arCityState[0]);
-       document.forms[0].SearchState.value = fnTrim(arCityState[1]);
+   				document.formz.SearchZip.value = "";
+    			document.formz.SearchCity.value = fnTrim(arCityState[0]);
+       document.formz.SearchState.value = fnTrim(arCityState[1]);
 			 	  return
 			 	  //return "CITYSTATE"
 	    }
@@ -297,263 +292,141 @@ function fnGetAbbreviation(strFullName) {
 </script>
 </head>
 
-<body bgcolor="#6E6A71" text="#000000" leftmargin="0" topmargin="5" marginwidth="0" marginheight="5" link="#660066" vlink="#660066" alink="#660066" class="back-loading">
-		
+<body bgcolor="#6E6A71" text="#262626" style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; margin-left: 0px" link="#660066" vlink="#660066" alink="#660066">
 <center>
-
-<map name="Map"> 
-    <area shape="rect" coords="0,0,50,25" href="http://www.movietickets.com/default.asp" alt="home">
-    <area shape="rect" coords="57,0,170,26" href="https://www.movietickets.com/myaccount.asp" alt="My Account">
-    <area shape="rect" coords="176,3,223,25" href="http://movietickets.hollywood.com/news/" target="_blank" alt="News">
-    <area shape="rect" coords="229,1,288,24" href="http://www.movietickets.com/advanced_search.asp" alt="Advanced Search">
-    <area shape="rect" coords="292,1,333,25" href="http://store.hollywood.com" target="_blank" alt="Shopping">
-    <area shape="rect" coords="342,3,382,25" href="http://www.movietickets.com/help.asp" alt="Help">
-  </map>
+	<map name="Map">
+		<area shape="rect" coords="0,0,50,25" href="http://www.movietickets.com/default.asp" alt="Home">
+		<area shape="rect" coords="57,0,170,26" href="https://www.movietickets.com/myaccount.asp" alt="My Account">
+		<area shape="rect" coords="176,3,223,25" href="http://movietickets.hollywood.com/news/" target="_blank" alt="News">
+		<area shape="rect" coords="229,1,288,24" href="http://www.movietickets.com/advanced_search.asp" alt="Advanced Search">		
+		<area shape="rect" coords="292,1,338,26" href="http://store.movietickets.com" target="_blank" alt="Shop for Movies and Music">
+		<area shape="rect" coords="345,1,386,25" href="http://www.movietickets.com/help.asp" alt="Help">
+		<!-- <area shape="rect" coords="295,3,335,25" href="http://www.movietickets.com/help.asp" alt="Help"> -->
+</map>
 	
-<table width="750" align="center" border="0" cellspacing="0" cellpadding="0" height="16">
-	<tbody><tr>
-		
-		<td width="121" height="16"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/header_top_piece_left_nav4.gif" width="121" height="16"></td>
-		<td width="508" height="16"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/header_top_piece_1w_nav4.gif" width="508" height="16"></td>
-		<td width="121" height="16"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/header_top_piece_right_nav4.gif" width="121" height="16"></td>
-		
-	</tr>
-</tbody></table>
-<table width="750" height="115" align="center" border="0" cellspacing="0" cellpadding="0" class="back-113h-normal" bgcolor="#33008f">
-	<tbody><tr>
-		<td width="5" height="115"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="5" height="100"></td>
-		<!-- <td width="177" align="center" height="105" valign="middle"><a href="http://www.movietickets.com/default.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/mtlogo-177x103.gif" border="0" alt="MovieTickets.com,  To Buy A Ticket, Just Click It!" width="177" height="103"></a></td> -->
-		<td width="177" height="115" align="center" valign="middle"><a href="http://www.movietickets.com/default.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/mtlogo-177x103.gif" width="177" height="103" border="0" alt="MovieTickets.com,  To Buy A Ticket, Just Click It!"></a></td>
-		<td width="4" height="115"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="4" height="100"></td>
-		<td align="center" width="558" height="115"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="558" height="2"><br>
-			<!-- This tag 468x60 size -->
-			<nolayer>
-				<iframe src="http://ads.hollywood.com/ads/geo_admeister.asp?location=privacypolicy.asp&amp;keyword=&amp;site=movietickets&amp;adtag=MT_468x60_secure&amp;ord=2002261658" width="468" height="60" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-				</nolayer>
-				<ilayer id="mt468x60" width="468" height="60" visibility="hidden"></ilayer>
-	<!-- End of ad tag -->
-<noscript><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/ad-movetickets468x60.jpg" width="468" height="60" border"0"></noscript><br><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="298" height="14"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/text_american_english.gif" width="243" height="14"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="17" height="14"><br>
-			<table width="558" border="0" cellspacing="0" cellpadding="0" height="27">
-				<tbody><tr>
-					<td width="388" height="27"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/navbar_left_join.gif" width="388" height="27" usemap="#Map" border="0"></td>
-					<td width="37" height="27"><a href="/privacypolicy.asp?language=2"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/navbar_canadian.gif" width="37" height="27" border="0" alt="Click Here For Our Canadian Theaters."></a></td>
-					<td width="37" height="27"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/navbar_blank.gif" width="37" height="27"></td>
-					<td width="96" height="27"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/navbar_cs.gif" width="96" height="27"></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-</center>
+		<table width="750" align="center" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="121" height="16"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/header_top_piece_left.gif" width="121" height="16" alt=""></td>
+				<td width="508" height="16"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/header_top_piece_1w.gif" width="508" height="16" alt=""></td>
+				<td width="121" height="16"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/header_top_piece_right.gif" width="121" height="16" alt=""></td>
+			</tr>
+		</tbody></table>
+		<table width="750" align="center" border="0" cellspacing="0" cellpadding="0" class="back-113h-normal" bgcolor="#330067">
+			<tbody><tr>
+				<td width="5" height="115" rowspan="3"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="5" height="100" alt=""></td>
+				<td width="177" height="115" rowspan="3" align="center" valign="middle"><a href="http://www.movietickets.com/default.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/mtlogo-177x103.gif" width="177" height="103" border="0" alt="MovieTickets.com,  To Buy A Ticket, Just Click It!"></a></td>
+				<td width="5" height="115" rowspan="3"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="4" height="100" alt=""></td>
+				<td width="563" height="67" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="558" height="6" alt=""><br>
+				<a href="http://ads.hollywood.com/ads/redirector.asp?section=privacypolicy.asp&amp;site=movietickets&amp;campaign=0&amp;target=http://www.hollywood.com/links/id/1108721&amp;tmsp=20021207231725" target="_blank"><img src="http://ads.hollywood.com/ads/images/movietickets_finder.gif" border="0" alt=""></a></td>
+			</tr>
+			<tr>
+				<td height="14" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="298" height="14" alt=""><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/text_american_english.gif" width="243" height="14" alt=""><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="17" height="14" alt=""></td>
+			</tr>
+			<tr>
+				<td height="34" align="center" valign="top">
+					<table width="558" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td width="388" height="28"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/navbar_left_join.gif" width="388" height="28" usemap="#Map" border="0" alt=""></td>
+							<td width="37" height="28"><a href="/privacypolicy.asp?language=2"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/navbar_canadian.gif" width="37" height="28" border="0" alt="Click Here For Our Canadian Theaters"></a></td>
+							<td width="37" height="28"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/navbar_blank.gif" width="37" height="28" alt=""></td>
+							<td width="96" height="28"><a href="http://www.movietickets.com/customer_service.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/navbar_cs.gif" width="96" height="28" border="0" alt="Customer Service 1-888-440-8457"></a></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		</center>
 <center>
   <table width="750" border="0" cellspacing="0" cellpadding="0" bgcolor="#b2b3cc" class="borders-left-right">
-    <tbody><tr><td align="left" width="204" valign="top">
-       
+    <tbody><tr>
+		<td align="left" valign="top">
 
-<script language="javascript">
-<!-- Image Selector
-
-function RandomImageLong(images,iparams)
-{
-/* si: start index 
-** i: current index
-** ei: end index
-** cc: current count
-*/
- si = 0; 
- ci=0;
- cc=0;
- imageSet = new Array();
- ei = images.length;
-  for (i=1;i<ei;i++) {
-    if (images.charAt(i) == ' ' || images.charAt(i) == ',') {
-      imageSet[cc] = images.substring(si,i);
-      cc++;
-      si=i+1;
-      }
-    }
-  ind = Math.floor(Math.random() *cc);
-  document.write("<img "+iparams+" src="+imageSet[ind]+" alt=\""+imageSet[ind]+"\">");
-}
-
-function RandomImage(images)
-{
-  RandomImageLong(images," ");
-}
-
-function RandomImageLinkLongTarget(images,urls,iparams,hparams)
-{
-/* si: start index 
-** i: current index
-** ei: end index
-** cc: current count
-*/
- imageSet = new Array();
- urlSet = new Array();
- si = 0; 
- ci=0;
- cc=0;
- ei = images.length;
-  for (i=1;i<ei;i++) {
-    if (images.charAt(i) == ' ' || images.charAt(i) == ',') {
-      imageSet[cc] = images.substring(si,i);
-      cc++;
-      si=i+1;
-      }
-    }
-  ind = Math.floor(Math.random() *cc);
- si = 0; 
- ci=0;
- cc=0;
- ei = urls.length;
-  for (i=1;i<ei && cc <=ind ;i++) {
-    if (urls.charAt(i) == ' ' || urls.charAt(i) == ',') {
-      urlSet[cc] = urls.substring(si,i);
-      cc++;
-      si=i+1;
-      }
-    }
-
-  //document.write("<img "+iparams+" src="+imageSet[ind]+" alt=\""+imageSet[ind]+"\">");
-  document.write("<a "+hparams+" href=\""+urlSet[ind]+"\"><img "+iparams+" src="+imageSet[ind]+" alt=\""+imageSet[ind]+"\"></a>");
-}
-
-function RandomImageLinkLong(images,urls,iparams)
-{
-  RandomImageLinkLongTarget(images,urls,iparams,"");
-}
-
-function RandomImageLink(images,urls)
-{
-  RandomImageLinkLongTarget(images,urls,"border=0","");
-}
-
-// End Script -->
-</script>
-
-<table width="204" height="91" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr> 
-		<td width="204" height="91" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="204" height="1"><br>
-		<a href="http://www.movietickets.com/help.asp"><script>
-							<!---
-							RandomImageLong("http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/strykers_search_family1.jpg http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/strykers_search_dad1flag.jpg http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/strykers_search_mom2flag.jpg http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/strykers_search_son2flag.jpg http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/strykers_search_daughter2fl.jpg http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/strykers_search_dad2flag.jpg ","width=204 height=90 border=0 alt='The Strykers - We’re here to help!'");
-							// --->
-							</script><img width="204" height="90" border="0" alt="The Strykers - We’re here to help!" src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/strykers_search_family1.jpg"><noscript><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/strykers_search_family1.jpg" border="0" width="204" height="90" alt="The Strykers - We’re here to help!"></noscript></a></td>
-	</tr>
-</tbody></table>
+<table width="204" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td width="204" height="91" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="204" height="1" alt="&nbsp;"><br>
+		<a href="http://www.movietickets.com/help.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/strykers_search_1.jpg" border="0" width="204" height="90" alt="The Strykers - We are here to help!"></a></td></tr></tbody></table>
 
 <table width="204" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td width="204" height="19"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/header_showtimes_tickets.gif" width="204" height="19" alt="MovieTickets.com Showtimes and Tickets"></td>
+		<td width="204" height="19"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/header_showtimes_tickets.gif" width="204" height="19" alt="MovieTickets.com Showtimes and Tickets"></td>
 	</tr>
 	<tr>
 		<td valign="top" bgcolor="#FFCC00" width="204" align="center">
-			<table width="204" border="0" cellspacing="0" cellpadding="0" class="borders-top-bottom-right" align="center">
-			<form id="formz" name="formz" method="get" action="http://www.movietickets.com/house_list.asp"></form>
+			<!-- <form name="formz" OnSubmit="javascript:submit_onclick();" method="get" action="http://www.movietickets.com/house_list.asp" style="margin: 0px"> -->
+			<form name="formz" onsubmit="enter_click();" method="get" action="http://www.movietickets.com/house_list.asp" style="margin: 0px">
+			<table width="203" border="0" cellspacing="0" cellpadding="0" class="borders-top-bottom-right" align="center">
 				<tbody><tr>
-					<td width="10" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="7" height="5"></td>
-					<td height="10" width="183" colspan="3"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="10"></td>
-					<td width="11"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
-				</tr>
+					<td align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_step1.gif" width="170" height="22" style="margin-top: 5px" alt="Search Step 1 - Select A Date"><br>
+					
+					<select name="ShowDate" style="border: #7f9db9 1px solid; width: 170px; height: 18px; font-size: 13px; color: #000000; font-family: 'Courier New', Arial, Helvetica">
+											<option value="0" selected="">Sat, Dec. 7, 2002</option>
+						<option value="1">Sun, Dec. 8, 2002</option>
+						<option value="2">Mon, Dec. 9, 2002</option>
+						<option value="3">Tue, Dec. 10, 2002</option>
+						<option value="4">Wed, Dec. 11, 2002</option>
+						<option value="5">Thu, Dec. 12, 2002</option>
+						<option value="6">Fri, Dec. 13, 2002</option>
+						<option value="7">Sat, Dec. 14, 2002</option>
+						<option value="8">Sun, Dec. 15, 2002</option>
+						<option value="9">Mon, Dec. 16, 2002</option>
+						<option value="10">Tue, Dec. 17, 2002</option>
+						<option value="11">Wed, Dec. 18, 2002</option>
+						<option value="12">Thu, Dec. 19, 2002</option>
+						<option value="13">Fri, Dec. 20, 2002</option>
+						<option value="14">Sat, Dec. 21, 2002</option>
+						<option value="15">Sun, Dec. 22, 2002</option>
+						<option value="16">Mon, Dec. 23, 2002</option>
+						<option value="17">Tue, Dec. 24, 2002</option>
+						<option value="18">Wed, Dec. 25, 2002</option>
+						<option value="19">Thu, Dec. 26, 2002</option>
+						<option value="20">Fri, Dec. 27, 2002</option>
+						<option value="21">Sat, Dec. 28, 2002</option>
+						<option value="22">Sun, Dec. 29, 2002</option>
+						<option value="23">Mon, Dec. 30, 2002</option>
+						<option value="24">Tue, Dec. 31, 2002</option>
+						<option value="25">Wed, Jan. 1, 2003</option>
+						<option value="26">Thu, Jan. 2, 2003</option>
+						<option value="27">Fri, Jan. 3, 2003</option>
+						<option value="28">Sat, Jan. 4, 2003</option>
+						<option value="29">Sun, Jan. 5, 2003</option>
+						<option value="30">Mon, Jan. 6, 2003</option>
+						<option value="31">Tue, Jan. 7, 2003</option>
+						<option value="32">Wed, Jan. 8, 2003</option>
+						<option value="33">Thu, Jan. 9, 2003</option>
+						<option value="34">Fri, Jan. 10, 2003</option>
+						<option value="35">Sat, Jan. 11, 2003</option>
+						<option value="36">Sun, Jan. 12, 2003</option>
+						<option value="37">Mon, Jan. 13, 2003</option>
+						<option value="38">Tue, Jan. 14, 2003</option>
+						<option value="39">Wed, Jan. 15, 2003</option>
+						<option value="40">Thu, Jan. 16, 2003</option>
+						<option value="41">Fri, Jan. 17, 2003</option>
+						<option value="42">Sat, Jan. 18, 2003</option>
+						<option value="43">Sun, Jan. 19, 2003</option>
+						<option value="44">Mon, Jan. 20, 2003</option>
+						<option value="45">Tue, Jan. 21, 2003</option>
+				</select>
+<br>
+					<img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_step2.gif" width="170" height="25" style="padding: 0px; margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px" alt="Search Step 2 - Search for Theaters by Zip Code or City"></td>
+				</tr>				
 				<tr> 
-					<td width="10" height="24" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="7" height="5"></td>
-					<td height="24" align="center" width="183" colspan="3"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/search_step1.gif" width="167" height="24" alt="Search Step 1"></td>
-					<td width="11" height="24"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
-				</tr>
-				<tr> 
-					<td width="10" height="22"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="7" height="5"></td>
-					<td height="22" align="center" width="183" colspan="3" class="text-search-inputs">
-				    				<select name="ShowDate" id="ShowDate" class="text-search-inputs">
-						<option value="0" selected="">Tue, Feb. 5, 2002
-						</option><option value="1">Wed, Feb. 6, 2002
-						</option><option value="2">Thu, Feb. 7, 2002
-						</option><option value="3">Fri, Feb. 8, 2002
-						</option><option value="4">Sat, Feb. 9, 2002
-						</option><option value="5">Sun, Feb. 10, 2002
-						</option><option value="6">Mon, Feb. 11, 2002
-						</option><option value="7">Tue, Feb. 12, 2002
-						</option><option value="8">Wed, Feb. 13, 2002
-						</option><option value="9">Thu, Feb. 14, 2002
-						</option><option value="10">Fri, Feb. 15, 2002
-						</option><option value="11">Sat, Feb. 16, 2002
-						</option><option value="12">Sun, Feb. 17, 2002
-						</option><option value="13">Mon, Feb. 18, 2002
-						</option><option value="14">Tue, Feb. 19, 2002
-						</option><option value="15">Wed, Feb. 20, 2002
-						</option><option value="16">Thu, Feb. 21, 2002
-						</option><option value="17">Fri, Feb. 22, 2002
-						</option><option value="18">Sat, Feb. 23, 2002
-						</option><option value="19">Sun, Feb. 24, 2002
-						</option><option value="20">Mon, Feb. 25, 2002
-						</option><option value="21">Tue, Feb. 26, 2002
-						</option><option value="22">Wed, Feb. 27, 2002
-						</option><option value="23">Thu, Feb. 28, 2002
-						</option><option value="24">Fri, Mar. 1, 2002
-						</option><option value="25">Sat, Mar. 2, 2002
-						</option><option value="26">Sun, Mar. 3, 2002
-						</option><option value="27">Mon, Mar. 4, 2002
-						</option><option value="28">Tue, Mar. 5, 2002
-						</option><option value="29">Wed, Mar. 6, 2002
-						</option><option value="30">Thu, Mar. 7, 2002
-				</option></select>
-
-					</td>
-					<td width="11" height="22"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
-				</tr>
-				<tr> 
-					<td width="10" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="7" height="5"></td>
-					<td width="183" height="10" colspan="3"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="10"></td>
-					<td width="11" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
-				</tr>
-				<tr> 
-					<td width="10" height="27"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="7" height="5"></td>
-					<td height="27" align="center" width="183" colspan="3"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/search_step2.gif" width="167" height="27" alt="Search Step 2"></td>
-					<td width="11" height="27"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
-				</tr>
-				<tr> 
-					<td width="10" height="22"><script language="javascript"></script><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="1" height="5"></td>
-					<td height="92" rowspan="3" valign="middle"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/search_frame_left.gif" width="8" height="92"></td>
-					<td height="22" align="center" width="167" background="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/yellowblock-blackline.gif">
-						<input type="text" id="SearchZip" name="SearchZip" value="" size="20" class="text-search-inputs">
-						<input type="hidden" id="SearchCity" name="SearchCity" value="">
-						<input type="hidden" id="SearchState" name="SearchState" value="">
-						<input type="hidden" id="SearchSort" name="SearchSort" value="0">
-					</td>
-					<td height="92" valign="middle" rowspan="3"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/search_frame_right.gif" width="8" height="92"></td>
-					<td width="11" height="22"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="1" height="5"></td>
-				</tr>
-				<tr> 
-					<td width="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="5" height="7"></td>
-					<td align="center" width="167" height="48"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/search_middle.gif" width="100%" height="48"></td>
-					<td width="11"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
-				</tr>
-				<tr> 
-					<td width="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="5" height="7"></td>
-					<td align="center" width="167" height="22" background="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/yellowblock-blackline.gif">
-					<input type="text" name="SearchTitle" size="20" class="text-search-inputs"></td>
-					<td width="11"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
-				</tr>
-				<tr> 
-					<td width="10" height="15"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="7" height="5"></td>
-					<td height="15" align="center" width="183" colspan="3"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/search_nameofmovie.gif" width="71" height="15" alt="name of movie"></td>
-					<td width="11" height="15"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
+					<td valign="top" align="center" style="background-image: url(http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_or_back.gif); background-repeat: no-repeat; background-position: center center">
+					<input type="text" name="SearchZip" value="" style="border: #7f9db9 1px solid; width: 170px; font-weight: normal; font-size: 13px; color: #000000; font-family: 'Courier New', Arial, Helvetica"><input type="hidden" name="SearchCity" value=""><input type="hidden" name="SearchState" value=""><input type="hidden" name="SearchSort" value="0"><br>
+					<img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_ex.gif" width="170" height="13" style="margin-bottom: 18px" alt="example zip/postal code"><br>
+					<img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_moviebytitle.gif" width="170" height="13" alt="Search Step 2 - Search for Movie by Title"><br>
+					<input type="text" name="SearchTitle" style="border: #7f9db9 1px solid; width: 170px; font-weight: normal; font-size: 13px; color: #000000; font-family: 'Courier New', Arial, Helvetica"></td>
 				</tr>
 				<tr>
-    				<td width="10" height="24" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="5" height="5"></td>
-					<td width="183" height="24" align="center" colspan="3"><a href="javascript: submit_onclick();"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/search_step3.gif" width="167" height="24" border="0" alt="Search Step 3"></a></td>
-					<td width="11" height="24" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
+					<td align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_nameofmovie.gif" width="71" height="15" alt="(name of movie)"><br>
+					<!-- <a href="javascript: submit_onclick();"><input type="image" src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_step3.gif" style="margin-bottom: 5px" alt="Search Step 3 - GO"></a></td> -->
+					<input type="image" src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_step3.gif" style="margin-bottom: 5px" alt="Search Step 3 - GO"></td>
+					<!-- <a href="javascript: submit_onclick();"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_step3.gif" width="170" height="24" border="0" style="margin-bottom: 5px" alt="Search Step 3 - GO"></a></td> -->
 				</tr>
-				<tr> 
-					<td width="10" height="5"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="7" height="5"></td>
-					<td align="center" width="183" colspan="3" height="5"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="5"></td>
-					<td width="11" height="5"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="8" height="5"></td>
+				<tr>
+					<td align="center" height="20"><a href="advanced_search.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/search_advanced.gif" width="203" height="20" border="0" alt="Advanced Search"></a></td>
 				</tr>
-				<tr> 
-					<td colspan="5" width="204" height="20"><a href="advanced_search.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/search_advanced.gif" width="204" height="20" border="0" alt="Advanced Search"></a></td>
-				</tr>
-			
 			</tbody></table>
+			</form>
 		</td>
 	</tr>
 </tbody></table>
@@ -562,347 +435,245 @@ function RandomImageLink(images,urls)
 		<td width="204" height="15" valign="top" bgcolor="#b2b3cc">&nbsp;</td>
 	</tr>
 	<tr>
-		<td width="204" height="19" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/header_mymovietickets_204w.gif" width="204" height="19" alt="My MovieTickets"></td>
+		<td width="204" height="19" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/header_mymovietickets_204w.gif" width="204" height="19" alt="My MovieTickets"></td>
 	</tr>
 	<tr> 	
 		<td width="204" valign="top">       
-			<table width="204" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFCC00" class="borders-top-bottom-right">
+			<table width="204" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffcc00" class="borders-top-bottom-right">
 				<tbody><tr>
 					<td width="10">&nbsp;</td>
 					<td width="184" align="center" valign="top">
-						<table border="0" cellspacing="0" cellpadding="0" width="184">
-							<tbody><tr><td><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" height="5"></td></tr>
+						<table width="184" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" height="5" alt=""></td>
+							</tr>
 							<tr>
 								<td align="center">
-									<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="184" height="206">
-										<param name="movie" value="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/flash_join.swf">
-										<param name="menu" value="false">
-										<param name="quality" value="high">
-										<param name="bgcolor" value="#e6e6e6">
-										<embed src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/flash_join.swf" menu="false" quality="high" bgcolor="#e6e6e6" width="184" height="206" loop="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-										
-									</object>
+								
+									<embed src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/flash_join.swf" menu="false" quality="high" bgcolor="#e6e6e6" width="184" height="206" loop="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
 								</td>
 							</tr>
-							<tr><td><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" height="5"></td></tr>
+							<tr>
+								<td><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" height="5" alt=""></td>
+							</tr>
 						</tbody></table>
-						<table width="184" border="0" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF" class="borders-all">
+						<table width="184" border="0" cellspacing="0" cellpadding="5" bgcolor="#ffffff" class="borders-all">
 							<tbody><tr> 
 								<td>
+								<form name="formlogin" method="post" action="login.asp" style="margin: 0px">
 									<table width="100%" border="0" cellspacing="0" cellpadding="0">
-									<form id="formlogin" name="formlogin" method="post" action="login.asp"></form>
 										<tbody><tr>
-											<td align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/email_signin.gif" width="142" height="17" alt="Enter Your E-Mail Address Below To Sign-In"><br>
-												<input type="text" name="cust_email" size="22" style="background-color:#ffcc33; background-image: url('images_real/back_form_yellow.gif')" class="text-inputs-8pt">
-											</td>
+											<td align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/email_signin.gif" width="142" height="17" alt="Enter Your E-Mail Address Below To Sign-In"><br>
+											<input type="text" name="cust_email" maxlength="64" style="background-color:#ffcc33; background-image: url(http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/back_form_yellow.gif); border: #7f9db9 1px solid; width: 160px; font-size: 11px; color: #000000; font-family: 'Courier New', Arial, Helvetica; text-align: center"></td>
 										</tr>
-										<tr><td align="center" class="text-search-small"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/text_email_address.gif" width="66" height="11" alt="Email Address"><br><input type="image" src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/button_go_email2.gif" width="159" height="23" border="0" align="top" id="image1" name="image1" alt="submit email address"></td></tr>
-									 
+										<tr><td align="center" class="text-search-small"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/text_email_address.gif" width="66" height="11" alt="Email Address"><br><input type="image" src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/button_go_email2.gif" align="top" name="image1" alt="GO"></td></tr>
 									</tbody></table>
+								</form>
 								</td>
 							</tr>
 						</tbody></table>
-						
 					</td>
 					<td width="10">&nbsp;</td>
 				</tr>
 				<tr>           
-					<td width="10" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="3" height="3"></td>
-					<td width="184" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="3" height="3"></td>
-					<td width="10" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="3" height="3"></td>
+					<td width="10" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="3" height="3" alt=""></td>
+					<td width="184" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="3" height="3" alt=""></td>
+					<td width="10" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="3" height="3" alt=""></td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
-	<tr> 
-		<td width="204" height="10" align="center" valign="top" bgcolor="#b2b3cc"><a href="http://www.movietickets.com/partners.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/partners.gif" width="185" height="50" border="0" alt="Click For MovieTickets.com Partners"></a></td>
+	<tr>
+			<td width="204" height="10" align="center" valign="top" bgcolor="#b2b3cc"><a href="http://www.movietickets.com/partners.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/partners.gif" width="185" height="50" border="0" alt="Click For MovieTickets.com Partners"></a></td>
 	</tr>
 </tbody></table>
-
-      </td>
-		<td bgcolor="#b2b3cc" width="16"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real\trans1x5.gif" width="3" height="3"></td>
-		<td width="530" valign="top"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real\trans1x5.gif" width="500" height="15">
-			<!-- <table width="530" border="0" cellspacing="0" cellpadding="0" bgcolor="#b2b3cc">
-				<tr><td><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real\trans1x5.gif" width="1" height="1"></td></tr>
-				<tr align="right">
-					 <td height="27"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="27"></td>
-				</tr>
-				<tr><td><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real\trans1x5.gif" width="1" height="1"></td></tr>
-			</table> -->
+</td>
+		
+		<td bgcolor="#b2b3cc" width="16"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real\trans1x5.gif" width="3" height="3" alt=""></td>
+		<td width="530" valign="top"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real\trans1x5.gif" width="500" height="15" alt="">
 		<!-- Page Body Begin -->
 			<table width="530" border="0" cellspacing="0" cellpadding="15" bgcolor="#ffffff" class="borders-left-top-bottom">
 				<tbody><tr>
-					<td valign="top"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real\header_privacy.gif" width="500" height="39"><br><br>
-
-<table width="246" border="0" cellspacing="0" cellpadding="0" align="right">
-	<tbody><tr>
-		<td width="63"><img src="images_real/trans1x5.gif" width="63" height="1"></td>
-		<td align="center" valign="top" width="120">
-		<!--120X90g1 Ad Start-->
-		<nolayer>
-      	<iframe src="http://ads.hollywood.com/ads/geo_admeister.asp?location=privacypolicy.asp&amp;keyword=&amp;site=movietickets&amp;adtag=MT_120x90_geo_1&amp;ord=2002261658" width="120" height="90" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-      		</nolayer>
-      		<ilayer id="mt120x90geo1" width="120" height="90" visibility="hidden"></ilayer>
-      	<br>
-      	<!--120X90g1 Ad End-->
-	</td>
-		<td width="63"><img src="images_real/trans1x5.gif" width="63" height="1"></td>
-	</tr>
-	<tr>
-		<td width="246" colspan="3"><img src="images_real/trans1x5.gif" width="246" height="5"></td>
-	</tr>
-	<tr>
-		<td width="63"><img src="images_real/trans1x5.gif" width="63" height="1"></td>
-		<td align="center" valign="top" width="120">
-	<!--120X90g2 Ad Start-->
-	
-			<!-- This tag 120x600  -->
-			<nolayer>
-	      		<iframe src="http://ads.hollywood.com/ads/admeister.asp?section=privacypolicy.asp&amp;site=movietickets&amp;adtag=mt120x600&amp;ord=2002261658" width="120" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-	      	</nolayer>
-	      	<ilayer id="mt120x600" width="120" height="600" visibility="hidden"></ilayer>
+					<td valign="top"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real\header_privacy.gif" width="500" height="39" alt="Privacy Policy"><br><br>
 		
-		<!-- End of 120x600 ad tag -->
+						<table width="140" cellspacing="0" cellpadding="0" border="0" align="right">	
+							<tbody><tr>
+								<td align="center">
+								<a href="http://ads.hollywood.com/ads/redirector.asp?section=privacypolicy.asp&amp;site=movietickets&amp;campaign=2166&amp;target=http://store.movietickets.com/&amp;tmsp=20021207231725" target="_blank"><img src="http://ads.hollywood.com/ads/images/120x90_2.gif" width="120" height="90" border="0" alt=""></a><br>
+		<img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="120" height="10" border="0" alt=""><br>
 	
+	<!--120X90g2 Ad Start-->
+			<!-- 120x600 ad tag --><a href="http://ads.hollywood.com/ads/redirector.asp?section=privacypolicy.asp&amp;site=movietickets&amp;campaign=2195&amp;target=http://www.movietickets.com/movie_detail.asp?movie_id=25699&amp;afid=track5a&amp;tmsp=20021207231725" target="_blank"><img src="http://ads.hollywood.com/ads/images/120x600_arwen_20ks.jpg" border="0" alt=""></a>
+					<img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="120" height="10" border="0" alt=""><br>
+						<!-- End of 120x600 ad tag -->
 	<!--120X90g2 Ad End-->
-</td>
-		<td width="63"><img src="images_real/trans1x5.gif" width="63" height="1"></td>
-	</tr>
-	<tr>
-		<td colspan="3" align="right">
 
-<table width="246" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td colspan="2" width="246"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="246" height="10"></td>
-	</tr>
-	<tr>
-		<td width="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="10"></td>
-		<td width="236" align="center" class="text-stryker-large">Classified and Confidential! </td>
-	</tr>
-	<tr>
-		<td width="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="10"></td>
-		<td width="236" align="center" class="text-stryker-small2">Refer to our “Privacy Policy” for our methods of security and protection. </td>
-	</tr>
-	<tr>
-		<td width="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="10"></td>
-		<td width="236" height="380" valign="top" align="center"><a href="help.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/stryker_privacy_policy1.jpg" width="236" height="380" border="0" alt="The Strykers - We’re here to help!"></a></td>
-	</tr>
-</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td align="center" class="text-stryker-large"><br>Classified and Confidential! </td>
+							</tr>
+							<tr>
+								<td align="center" class="text-stryker-small2">Refer to our "Privacy Policy" for our methods of security and protection. </td>
+							</tr>
+							<tr>
+								<td valign="top" align="center"><a href="help.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/stryker_privacy_policy1.jpg" width="130" height="217" border="0" alt="The Strykers - We are here to help!"></a></td>
+							</tr>
+						</tbody></table>
+						<p class="text-arial-12boldpurple">  MovieTickets.com Privacy Statement</p><p></p>
 
-		</td>
-	</tr>
-</tbody></table>
+<span class="text-arial-12">MovieTickets.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: MovieTickets.com. </span><p>
+</p><p class="text-arial-12">We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to gather broad demographic information, such as country of origin.
 
-       <p class="text-arial-12boldpurple">
-      MovieTickets.com Privacy Statement
-      
-					</p><p></p>
-				
-				<span class="text-arial-12">MovieTickets.com, Inc. 
-      has created this privacy statement in order to demonstrate our firm 
-      commitment to privacy. The following discloses our information gathering 
-      and dissemination practices for the MovieTickets.com website. 
-      
-				</span>
-				<p>
-      
-				</p><p class="text-arial-12">
-				We use your IP address to help diagnose problems with our server, and 
-      to administer our Website. Your IP address is also used to gather broad 
-      demographic information, such as country of origin. 
-      
-				</p><p class="text-arial-12">Our site uses cookies to make sure that you do not see the same ad 
-      repeatedly. We use cookies to deliver content specific to your interests 
-      and to save your password and zip code so you do not have to re-enter them 
-      each time you visit our site. 
-      
-				</p><p class="text-arial-12">Through surveys and newsletter registration, our site may request users 
-      to give us contact, demographic, and/or financial information (such as 
-      their name, locale, gender, age, income level and email address). The 
-      demographic information is used to enhance user experience so we can be 
-      more content specific. The contact information is used to notify users of 
-      new content, to conduct surveys and to distribute newsletters, Financial information 
-      that is collected is used primarily for in-house statistics, advertising, 
-      and marketing information. Users may 
-      opt-out of receiving future mailings; see the choice/opt-out section 
-      below. 
-      
-				</p><p class="text-arial-12">
-				We run contests on our site in which we ask visitors for contact 
-      information (such as their name and email address) and demographic 
-      information (such as their zip code, age, and/or income level). The user's 
-      contact information is used to contact the visitor when necessary, such as 
-      if they win a contest or to notify users of upcoming contests. There are 
-      three primary types of contests: (1) We host solely and all information 
-      that is collected stays in-house. (2) We may share address information 
-      with a third party for shipping purposes. (3) In some rare instances, a 
-      third party may host the contest and all information is then shared. In 
-      our contest registration, we give our users the opportunity to sign up for 
-      the MovieTickets.com newsletter. However, users may opt-out of receiving 
-      future mailings by selecting the "unsubscribe" link at the bottom of the 
-      newsletter.
-      
-				</p><p class="text-arial-12">
-				MovieTickets.com products and services are directed at an adult market,
-       and therefore this site is intended for use by adults only. MovieTickets.com 
-       encourages parents to take an active role in their children's use of the 
-       Internet, and to inform them of the dangers of providing information about 
-       themselves over the Internet.  Children of any age should always ask a parent
-        for permission before sending personal information to anyone online. 
-        No information should be submitted to or posted on this Web site by users 
-        under 13 years of age without the consent of their parent or guardian.
-       
-				</p><p class="text-arial-12">Users that MovieTickets.com knows to be under the age of 13 are hereby
-        required to provide the e-mail address of their parent or guardian to 
-        <a href="mailto:webmaster@movietickets.com">webmaster@movietickets.com </a>
-				so that MovieTickets.com may alert the 
-        parent or guardian of their child’s use of this Website. The parent 
-        or guardian must consent to MovieTickets.com’s collection of their 
-        child’s personal information. A known child user will be restricted from 
-        providing personal information until such consent is received. 
-         No information collected from users known to be under age 13 will be 
-         used for any marketing or promotional purposes outside MovieTickets.com,
-          Inc.  If MovieTickets.com collects personally identifiable information 
-          from children, it will do so in compliance with the Children’s Online 
-          Privacy Protection Act of 1998 (U.S.C. 6501 et seq.).
-				</p><p class="text-arial-12">
-				This site contains links to other sites. MovieTickets.com                             
-         is not responsible for the privacy practices 
-      or the content of other websites. 
+</p><p class="text-arial-12">Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password and zip code so you don't have to re-enter it each time you visit our site. Our site also may use unique identifiers to confirm data, such as your geographical location and we use such data in the aggregate to run internal analyses to improve upon your user experience.
 
-				</p><p><span class="text-arial-12"> The ads appearing on this Web site are delivered to you by either (a) our Web advertising partner DoubleClick or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser type (for example, Netscape or Internet Explorer), the type of computer operating system you use (Macintosh or Windows, for instance) and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personal information), is used to serve advertisements to you on this site. We may use your zip code or geographical location information to serve advertisements to this site.  In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to "opt-out", please click <a href="http://www.doubleclick.net/privacy_policy/">here</a>.
+</p><p class="text-arial-12">Through surveys and newsletter registration, our site may request users to give us contact, demographic, and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used to enhance user experience so we can be more content specific. The contact information is used to notify users of new content, for surveys and newsletters, via email. Financial information that is collected is used primarily for in-house statistics, advertising, and marketing target information. MovieTickets.com collects the user's zip code to provide specific theatre show times in their area. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+</p><p class="text-arial-12">We run contests on our site in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code, age, and/or income level). The user's contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests. There are three primary types of contests: (1.) We host solely and all information that is collected stays in-house. (2.) We may share address information with third party for shipping purposes. (3.) In some rare instances, a third party may host the contest and all information is then shared. In our contest registration, we may give our users the opportunity to sign up for the MovieTickets.com newsletter. However, users may opt-out of receiving future mailings by selecting the "unsubscribe" link at the bottom of the newsletter. 
+</p><p class="text-arial-12">MovieTickets.com products and services are directed at an adult market, and therefore this site is intended for use by adults only. MovieTickets.com encourages parents to take an active role in their children's use of the Internet, and to inform them of the dangers of providing information about themselves over the Internet. Children of any age should always ask a parent for permission before sending personal information to anyone online. No information should be submitted to or posted on this Web site by users under 13 years of age without the consent of their parent or guardian. 
+</p><p class="text-arial-12">Users that MovieTickets.com knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian to <a href="mailto:webmaster@movietickets.com">webmaster@movietickets.com </a> so that MovieTickets.com may alert the parent or guardian of their child's use of this Website. The parent or guardian must consent to MovieTickets.com's collection of their child's personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside MovieTickets.com, Inc. If MovieTickets.com collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (U.S.C. 6501 et seq.). 
+</p><p class="text-arial-12">This site contains links to other sites. MovieTickets.com is not responsible for the privacy practices or the content of such websites. 
+</p><p class="text-arial-12">The ads appearing on this Web site are delivered to you by either (a) one of our Web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser type (for example, Netscape or Internet Explorer), the type of computer operating system you use (Macintosh or Windows, for instance) and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personal information), is used to serve advertisements to you on this site. We may use your zip code or geographical location information to serve advertisements to this site. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+</p><p><span class="text-arial-12"> This site uses the services of iBEAM for the serving and/or targeting of ads, promotions, and other marketing messages. To do this, iBEAM collects and stores anonymous data typically through the use of cookies. To learn more about iBEAM, go to <a href="http://www.ibeam.com/privacy.html" target="_blank">http://www.ibeam.com/privacy.html</a>. </span>
+
+
+</p><p> </p><p><span class="text-arial-12boldpurple">Security</span><br><br>
+<span class="text-arial-12">This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Shell to access our servers remotely, and all server sessions are encrypted. </span>
+      
+</p><p><span class="text-arial-12boldpurple">Choice/Opt-Out</span><br><br>
+<span class="text-arial-12">Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. </span>
+</p><ol class="text-arial-12">
+<li>Users can send email to <a href="mailto:customerservice@movietickets.com">customerservice@movietickets.com</a>
+</li><li>Users can visit the following URL: <a href="https://www.movietickets.com/myaccount.asp">https://www.movietickets.com/myaccount.asp</a>
+</li><li>Users can send mail to the following postal address: <br><br>
+<span class="text-arial-12bold">MovieTickets.com<br>
+Customer Service<br>
+2255 Glades Road, Suite 237 W<br>
+Boca Raton, FL 33431</span><br><br>
+</li><li class="text-arial-12">Users can call the following telephone number: 1-888-440-8457</li>
+</ol>
+<p><span class="text-arial-12boldpurple">Correct/Update</span><br><br><span class="text-arial-12">This site gives users the following options for changing and modifying information previously provided. </span>
+</p><ol class="text-arial-12">
+<li>Users can email <a href="mailto: customerservice@movietickets.com">customerservice@movietickets.com</a>
+</li><li>Users can visit: <a href="https://www.movietickets.com/myaccount.asp">https://www.movietickets.com/myaccount.asp</a></li><li>Users can send mail to the following postal address: <br><br>
+<span class="text-arial-12bold">MovieTickets.com<br>
+Customer Service<br>
+2255 Glades Road, Suite 237 W<br>
+Boca Raton, FL 33431</span><br><br>
+</li><li class="text-arial-12">Users can call the following telephone number: 1-888-440-8457</li>
+</ol>
+<p><span class="text-arial-12">This policy may change from time to time so please check back periodically. </span>
+</p><p>
+
+</p><p><span class="text-arial-12boldpurple">Contacting the Website</span><br><br>
+<span class="text-arial-12">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:
 </span>
-      
-				</p><p>
-      
-				</p><p><span class="text-arial-12boldpurple">
-      Security</span><br>
-				<br>
-				<span class="text-arial-12">This site has security measures in place to protect the 
-      loss, misuse and alteration of the information under our control. We protect the secure areas of our site (including our 
-      databases and intranet) by using a firewall. </span>
-      
-				</p><p>
-      <span class="text-arial-12boldpurple">Choice/Opt-Out</span><br>
-				<br>
-				<span class="text-arial-12">Our site provides users the opportunity to opt-out 
-      of receiving communications from us and our partners at the point where we 
-      request information about the visitor. 
-      
-This site gives users the following options for 
-      changing and modifying information previously provided and for removing their information from our database. 
-      
-				</span>
-				</p><ol>
-        
-					<li class="text-arial-12">   Users can email <a href="mailto:customerservice@movietickets.com">customerservice@movietickets.com </a>
-        
-					
-	</li><li class="text-arial-12">Users can visit <a href="https://www.movietickets.com/myaccount.asp">https://www.movietickets.com/myaccount.asp</a>
-	</li><li class="text-arial-12">Users can send mail to the following postal address: 
-						<address class="text-arial-12">MovieTickets.com, Customer Service, 2255 Glades Road, Suite 237 W, Boca Raton, FL 33431</address>
-					
-  </li><li class="text-arial-12">Users can call the following telephone number: 1-888-440-8457</li>
-				</ol>
-				<p><span class="text-arial-12">
-				This policy may change from time to time so please check back 
-      periodically. </span>
-      
-				</p><p>
-      <span class="text-arial-12boldpurple">Contacting the Website</span><br>
-				<br>
-				<span class="text-arial-12">If you have any questions about this 
-      privacy statement, the practices of this site, or your dealings with this 
-      Website, you can contact:</span>
-				</p><p class="text-arial-12italic">MovieTickets.com, Inc.<br>
+				</p><p class="text-arial-12bold">MovieTickets.com, Inc.<br>
 					2255 Glades Road, Suite 237 W<br>
 					Boca Raton, FL 33431
-				</p><p class="text-arial-12">or email us at <a href="mailto:feedback@movietickets.com">feedback@MovieTickets.com</a></p><br></td>
-					</tr>
+				</p><p class="text-arial-12">or email us at <a href="mailto:feedback@movietickets.com">feedback@movietickets.com</a></p>
+<br>
+					</td>
+				</tr>
 			</tbody></table><br>
-		<!-- Page Body End -->		
+			<!-- Page Body End -->		
 		</td>
 	</tr>
 </tbody></table>
+
 <!--Footer Begins-->
 
-	<table width="750" border="0" cellspacing="0" cellpadding="0" align="center" class="back-85h" bgcolor="#330090">
+		<table width="750" border="0" cellspacing="0" cellpadding="0" align="center" style="background-position: left top; background-image: url(http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/back_85h.gif); background-repeat: repeat-x">		
 	
 		<tbody><tr>
-			<td width="10" height="5" class="borders-left-top"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="5"></td>
-			<td width="90" align="center" height="5" class="borders-top"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="90" height="5"></td>
-			<td width="49" align="center" height="5" class="borders-top"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="49" height="5"></td>
-			<td width="290" align="center" height="5" class="borders-top"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="410" height="5"></td>
-			<td width="49" align="center" height="5" class="borders-top"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="49" height="5"></td>
-			<td width="90" height="5" class="borders-top"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="90" height="5"></td>
-			<td width="10" height="5" class="borders-top-right"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="5"></td>
+			<td height="5" align="center" class="borders-left-top-right" colspan="7"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="746" height="5" alt=""></td>
 		</tr>
 		<tr>
-			<td width="10" height="74" class="borders-left"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="74"></td>
-			<td width="90" height="74" align="center"><a href="javascript:Rcertify()"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/reliabilityseal41.gif" width="90" height="31" border="0" alt="BBB Online Reliability Seal"></a></td>
-			<td width="49" align="center" height="74"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="49" height="74"></td>
+			<td width="10" height="74" class="borders-left"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="10" height="74" alt=""></td>
+			<td width="90" height="74" align="center"><a href="javascript:;" onclick="OpenWindow('http://www.bbbonline.org/cks.asp?id=101031214155115457','Participant','toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=no,width=545,height=420,left=0,top=0')"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/reliabilityseal41.gif" width="90" height="31" border="0" alt="BBB Online Reliability Seal"></a></td>
+			<td width="49" align="center" height="74"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="49" height="74" alt=""></td>
 			
-			<td width="410" class="text-footer" align="center" valign="top" height="54"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="410" height="1" border="0"><br><a href="http://www.movietickets.com/default.asp">Home</a> | <a href="http://www.movietickets.com/customer_service.asp">Customer Service</a> | <a href="http://www.movietickets.com/aboutus.asp">About Us</a> | <a href="http://www.movietickets.com/contact.asp">Contact Us</a><br><a href="http://www.movietickets.com/pressreleases.asp">Press Releases</a> | <a href="http://www.movietickets.com/privacypolicy.asp">Privacy Policy</a> | <a href="https://www.movietickets.com/sign_in.asp">Registration</a> | <a href="http://www.movietickets.com/help.asp">Help</a>
+			<td width="410" class="text-footer" align="center" valign="top" height="54"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="410" height="1" border="0" alt=""><br><a href="http://www.movietickets.com/default.asp">Home</a> | <a href="http://www.movietickets.com/customer_service.asp">Customer Service</a> | <a href="http://www.movietickets.com/aboutus.asp">About Us</a> | <a href="http://www.movietickets.com/contact.asp">Contact Us</a> | <a href="http://www.movietickets.com/linktous.asp">Link to Us</a>
+			<br><a href="http://www.movietickets.com/pressreleases.asp">Press Releases</a> | <a href="http://www.movietickets.com/privacypolicy.asp">Privacy Policy</a> | <a href="https://www.movietickets.com/sign_in.asp">Registration</a> | <a href="http://www.movietickets.com/help.asp">Help</a>
 				
-				<table cellspacing="0" cellpadding="0" border="0" width="88" height="31" align="center">
+				<table width="88" cellspacing="0" cellpadding="0" border="0" align="center">
 					<tbody><tr>
-						<td colspan="3" width="88" height="10"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="88" height="10"></td>
+						<td width="88" height="10" colspan="3"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="88" height="10" alt=""></td>
 					</tr>
 					<tr>
-						<td>
-	<!-- This tag 88x31 size -->
-		<nolayer>
-			<iframe src="http://ads.hollywood.com/ads/admeister.asp?location=privacypolicy.asp&amp;site=movietickets&amp;adtag=MT_88x31&amp;ord=2002261658" width="88" height="31" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-		</nolayer>
-		<ilayer id="mt88x31" width="88" height="31" visibility="hidden"></ilayer>
-	<!-- End of  88x31 ad tag -->
-</td>
+						<td><!-- Begin 88x31 ad tag --><center><a href="http://bannerman.bige.com/ads/redirector.asp?section=privacypolicy.asp&amp;site=movietickets&amp;campaign=0&amp;target=http://www.movietickets.com&amp;tmsp=20021207231725" target="_blank"><img src="http://ads.hollywood.com/ads/images/88x31_default.gif" border="0" alt=""></a></center><!-- End of  88x31 ad tag --></td>
 					</tr>
 				</tbody></table>
 			</td>
-			<td align="center" width="49" height="74"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="49" height="74"></td>
-			<td width="90" height="74" align="center"><a href="https://digitalid.verisign.com/as2/2e212f078ef4ef391b2d106d34b03036" target="new"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/logo_verisign_text2.gif" width="90" height="41" border="0" alt="VeriSign logo"></a></td>
-			<td width="10" height="74" class="borders-right"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/trans1x5.gif" width="10" height="74"></td>
+			<td width="49" height="74" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="49" height="74" alt=""></td>
+			<td width="90" height="74" align="center"><a href="javascript:;" class="msnFL" onclick="OpenWindow('https://digitalid.verisign.com/as2/4189a01765105ac5c9e5769e22dd1a95','Secure','toolbar=no,location=yes,status=no,menubar=no,scrollbars=yes,resizable=yes,width=717,height=480,left=0,top=0')"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/logo_verisign_text2.gif" width="90" height="41" border="0" alt="VeriSign Secure Site - Click to Verify"></a></td>
+			<td width="10" height="74" class="borders-right"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/trans1x5.gif" width="10" height="74" alt=""></td>
 		</tr>
 	</tbody></table>
-	<table cellspacing="0" cellpadding="0" border="0" width="750" height="10" align="center">
-	<tbody><tr>
-		
-		<td width="100" height="10" align="left"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/footer_corner-tleft2.gif" width="100" height="10"></td>
-		<td width="550" height="10" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/block_550x10.gif" width="550" height="10"></td>
-		<td width="100" height="10" align="right"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/footer_corner_tright2.gif" width="100" height="10"></td>
-		
-	</tr>
+	<table width="750" cellspacing="0" cellpadding="0" border="0" align="center">
+		<tbody><tr>
+			
+			<td width="100" height="10" align="left"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/footer_corner-tleft2.gif" width="100" height="10" alt=""></td>
+			<td width="550" height="10" align="center"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/block_550x10.gif" width="550" height="10" alt=""></td>
+			<td width="100" height="10" align="right"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/footer_corner_tright2.gif" width="100" height="10" alt=""></td>
+			
+		</tr>
 	</tbody></table>
-	<table cellspacing="0" cellpadding="0" border="0" width="550" height="15" align="center">
-	<tbody><tr>
-		
-		<td width="550" height="15" align="center"><a href="http://www.movietickets.com/legal.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200225171225/www.movietickets.com/images_real/footer-copyright2.gif" width="550" height="15" border="0" alt="Copyright 2001 MovieTickets.com, Inc."></a></td>
-		
-	</tr>
+	<table width="550" cellspacing="0" cellpadding="0" border="0" align="center">
+		<tbody><tr>
+			
+			<td width="550" height="15" align="center"><a href="http://www.movietickets.com/legal.asp"><img src="http://a1608.g.akamai.net/7/1608/1174/200212616433/www.movietickets.com/images_real/footer-copyright2.gif" width="550" height="15" border="0" alt="Copyright 2002 MovieTickets.com, Inc."></a></td>
+			
+		</tr>
 	</tbody></table>
 
-		<layer src="http://ads.hollywood.com/ads/admeister.asp?section=privacypolicy.asp&amp;site=movietickets&amp;adtag=MT_468x60_secure&amp;ord=2002261658" width="468" height="60" visibility="hidden" onload="moveToAbsolute(mt468x60.pageX,mt468x60.pageY);clip.height=60;clip.width=468;visibility='show';"></layer>
-	
-		<layer src="http://ads.hollywood.com/ads/admeister.asp?section=privacypolicy.asp&amp;site=movietickets&amp;adtag=MT_120x90_geo_1&amp;ord=2002261658" width="120" height="90" visibility="hidden" onload="moveToAbsolute(mt120x90geo1.pageX,mt120x90geo1.pageY);clip.height=90;clip.width=120;visibility='show';"></layer>
-	
-		<layer src="http://ads.hollywood.com/ads/admeister.asp?section=privacypolicy.asp&amp;site=movietickets&amp;adtag=MT120x600&amp;ord=2002261658" width="120" height="600" visibility="hidden" onload="moveToAbsolute(mt120x600.pageX,mt120x600.pageY);clip.height=600;clip.width=120;visibility='show';"></layer>
-	
-		<layer src="http://ads.hollywood.com/ads/admeister.asp?section=privacypolicy.asp&amp;site=movietickets&amp;adtag=MT_88x31&amp;ord=2002261658" width="88" height="31" visibility="hidden" onload="moveToAbsolute(mt88x31.pageX,mt88x31.pageY);clip.height=31;clip.width=88;visibility='show';"></layer>
-	
-      <!-- Begin SS1 -->
-		<nolayer>
-		<iframe src="http://ads.hollywood.com/ads/admeister.asp?section=privacypolicy.asp&amp;site=Movietickets&amp;adtag=mt_superstitial&amp;ord=2002261658" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-		</nolayer>
-		<ilayer id="ss1x1" width="1" height="1" visibility="hidden"></ilayer>
-		<layer src="http://ads.hollywood.com/ads/admeister.asp?section=privacypolicy.asp&amp;site=Movietickets&amp;adtag=mt_superstitial&amp;ord=2002261658" width="1" height="1" visibility="hidden" onload="moveToAbsolute(ss1x1.pageX,ss1x1.pageY);clip.height=1;clip.width=1;visibility='show';"></layer>
-	<!-- End of SS1 -->
-	
+<!-- as1 -->
+<script language="javascript">
+<!-- Iframe/Ilayer -->
+window.open('http://ads.hollywood.com/ads/lotr_frodo_popup.html', '3','toolbar=no,width=250,height=250,left=50,top=50,directories=no,status=no,scrollbars=no,resizable=no,menubar=no,location=no');
+</script>
+<!-- as1 -->
+<!-- apu -->
+<!-- START TrafficMarketPlace POPUNDER r3.0 COPYRIGHT 2002 TRAFFICMARKETPLACE.COM - ALL RIGHTS RESERVED -->
+<script language="javascript1.1" type="text/javascript">
+<!--
+var siteDomain = '';	//set domain for cookie
+var forcePop = 0;	//set to 1 to force window to pop
+var delay = 7000;	//milliseconds to wait before spawning window
+var freq = 1440;	//how often to show same user spawned ad (in minutes)
+var jpWidth='720';
+var jpHeight='300';
+var jpOptions='titlebar=1,toolbar=1,location=1,menubar=1,scrollbars=1,resizable=1,channelmode=0,directories=0,status=1';
+var jpPO=838;
 
+var cDoc=document;if(cDoc.domain.indexOf(siteDomain)==-1) siteDomain='';if (siteDomain.length>0) siteDomain="'domain=."+siteDomain+"; '";var cCkEx=cDoc.cookie.indexOf('ptfc=yfki');if(cCkEx==-1){cDoc.cookie='tmpptfc=tmpyfki; path=/;';if(cDoc.cookie.indexOf('tmpptfc=tmpyfki') == -1)cCkEx = 1;}if((forcePop == 1)||(cCkEx == -1))setTimeout('runjPop()', delay);
+function runjPop(){var cDa=new Date();cDa.setTime(cDa.getTime()+(freq*60*1000));cDoc.cookie='ptfc=yfki; path=/; '+siteDomain+'expires='+ cDa.toGMTString();
+var jPop='width='+jpWidth+',height='+jpHeight+','+jpOptions;if(parseFloat(navigator.appVersion)>=4) jPop+=',top='+screen.height/2-jpHeight/2+',left='+screen.width/2-jpWidth/2;var jp=window.open("",'jPop', jPop, true);jp.blur();self.focus();jp.document.writeln("<"+"script language='javascript1.1'>");if (siteDomain.length > 0) jp.document.writeln("sDom="+siteDomain);else jp.document.writeln("sDom='';");jp.document.writeln("</" + "script>");
+jp.document.writeln("<" + "script language='javascript1.1' src='http://ad.trafficmp.com/tmpad/banner/itrack.asp?rv=1.2&amp;id="+jpPO+"'>");jp.document.writeln("</" + "script>");}
+// -->
+</script>
+<!-- END TrafficMarketPlace POPUNDER r3.0 COPYRIGHT 2002 TRAFFICMARKETPLACE.COM - ALL RIGHTS-->
+<!-- apu -->
+<!-- Footer Ends -->
+<!-- Fireclick Netflame -->
+<script language="javascript" type="text/javascript">
+function handle(){return true;}
+window.onerror=handle;
+var fc_host='www.movietickets.com';
+document.write('<'+'script '
++((navigator.userAgent.toLowerCase().indexOf('msie 4')<0)?'defer ':'')
++'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
++'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"><\/script>');
+function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
+var fcfn=window.onload;
+function fcco(){fcfn();fcce();}
+window.onload= null==fcfn ? fcce:fcco;
+</script><script defer="" src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.movietickets.com"></script>
+<!-- Fireclick Netflame -->
 
-<!--Footer Ends-->
+<!-- www6 -->
 
 </center>
+
 
 
 </body></html>
