@@ -1,0 +1,727 @@
+<!--The following is the downloaded HTML source of the cineplex.com privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207222158id_/http%3A//www.enjoytheshow.com/privacy) for the most accurate reproduction.-->
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<title>enjoy the show: showtimes</title>
+<script src="/scripts/common_scripts.js"></script>
+<link rel="stylesheet" href="/styles/comonstyles.css">
+
+   
+
+
+
+
+
+
+
+
+
+   
+   
+<script language="JavaScript">
+<!--
+
+var info = new Array(
+"state                   *city                         ",
+
+
+
+
+
+
+"AZ*city                         |Tucson",
+
+
+
+
+
+"CA*city                         |Los Angeles|Marina Del Rey|San Francisco|Santa Monica|Universal City",
+
+
+
+
+
+"CT*city                         |Danbury|Plainville",
+
+
+
+
+
+"DC*city                         |Washington",
+
+
+
+
+
+"FL*city                         |Orlando",
+
+
+
+
+
+"GA*city                         |Atlanta",
+
+
+
+
+
+"IL*city                         |Calumet City|Chicago|Chicago Ridge|Country Club Hills|Crestwood|Hodgkins|Norridge|North Riverside|Oakbrook|Schaumburg|Skokie|Streamwood|Wheaton|Woodridge",
+
+
+
+
+
+"IN*city                         |Indianapolis|Merrillville",
+
+
+
+
+
+"MA*city                         |Boston|Cambridge|Danvers|Methuen|Natick|Somerville",
+
+
+
+
+
+"MD*city                         |Baltimore|Beltsville|Gaithersburg|Lexington Park|Marlow Heights|Owings Mills|Rockville|Waldorf|Wheaton",
+
+
+
+
+
+"MI*city                         |Auburn Hills|Clinton Township|Dearborn|Grand Rapids|Holland|Lincoln Park|Madison Heights|Rochester Hills|Southfield|Taylor",
+
+
+
+
+
+"MN*city                         |Edina",
+
+
+
+
+
+"NJ*city                         |Bricktown|Cherry Hill|East Hanover|Eatontown|Edison|Elizabeth|Freehold|Jersey City|Mountainside|New Brunswick|Paramus|Ridgefield Park|Secaucus|Toms River|Wayne",
+
+
+
+
+
+"NY*city                         |Bayside|Brooklyn|Fresh Meadows|Garden City|Glen Cove|Huntington|Levittown|Middletown|New York|Rockville Center|Schenectady|Stony Brook|Vestal|Webster|West Hampton Beach|West Nyack|Westbury",
+
+
+
+
+
+"OH*city                         |North Randall|Richmond Heights",
+
+
+
+
+
+"PA*city                         |Homestead|Stroudburg",
+
+
+
+
+
+"TX*city                         |Arlington|Dallas|Ft. Worth|Houston|Spring|Stafford",
+
+
+
+
+
+"UT*city                         |Layton",
+
+
+
+
+
+"VA*city                         |Arlington|Vienna",
+
+
+
+
+
+"WA*city                         |Bellevue|Burlington|Lakewood|Lynnwood|Redmond|Seattle|Tacoma|Tukwila|Woodinville"
+
+);
+
+function stringsplit ( string, delimiter ) { 
+    if ( string == null || string == "" ) { 
+        return null; 
+    } else if ( string.split != null ) { 
+        return string.split ( delimiter ); 
+    } else { 
+        var ar = new Array(); 
+        var i = 0; 
+        var start = 0; 
+        while( start >= 0 && start < string.length ) { 
+             var end = string.indexOf( delimiter, start ) ; 
+             if( end >= 0 ) { 
+                 ar[i++] = string.substring( start, end ); 
+                 start = end+1; 
+             } else { 
+                 ar[i++] = 
+                 string.substring( start, string.length ); 
+                 start = -1; 
+             } 
+        } 
+        return ar; 
+    } 
+} 
+
+var menu1 = new Array();
+var menu2 = new Array();
+
+function createmenus () {
+
+    for ( var i=0; i < info.length; i++ ) {
+        menu1[i] = stringsplit ( info[i], '*' );
+        menu2[i] = stringsplit ( menu1[i][1], '|' );
+    }
+
+    var author = document.myform.state;
+    var book = document.myform.city;
+
+    author.length = menu1.length;
+    book.length = menu2[0].length; 
+    for ( var i=0; i < menu1.length; i++ ) {
+         author.options[i].value  = menu1[i][0];
+         author.options[i].text   = menu1[i][0];
+    }
+    document.myform.state.selected = 0;
+    for (var x=0; x < menu2[0].length; x++) {
+         book.options[x].text = menu2[0][x];
+         book.options[x].value = menu2[0][x];
+    }         
+    document.myform.city.selected = 0;
+}
+
+function updatemenus ( what ) {
+    var sel = what.selectedIndex;
+
+    if ( sel >= 0 && sel < menu1.length ) 
+        var temp = menu2[sel];
+    else
+        var temp = new Array ();
+    
+    what.form.city.length = temp.length;
+
+    for ( var i = 0; i < temp.length; i++ ) {
+        what.form.city.options[i].text  = temp[i];
+        what.form.city.options[i].value = temp[i];
+    }
+    what.form.city.selected=0;
+}
+// -->
+</script>
+  
+   
+
+</head>
+
+<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="createmenus()">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="781">
+<tbody><tr>
+<td width="1" bgcolor="#cc0000" valign="top"><img src="/spacer.gif" width="1" height="1" border="0"></td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td bgcolor="#cc0000">
+<!--start header/navigation-->
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr> 
+<td valign="top" bgcolor="#cc0000"><!-- your comment here -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><img src="/images/header_nav/headertile1.gif" width="32" height="47" border="0"></td>
+<td><a href="/showtimes/index.cfm" onmouseover="rollover(imagea,'/images/header_nav/showtimes_on.gif');" onmouseout="rollout(imagea)"><img src="/images/header_nav/showtimes_off.gif" width="160" height="47" alt="" name="imagea" border="0"></a></td>
+<td><img src="/images/header_nav/headertile3.gif" width="209" height="47" border="0"></td>
+<td><img src="/images/header_nav/headertile4.gif" width="107" height="47" border="0"></td>
+<td><img src="/images/header_nav/top2.gif" width="125" height="47" border="0"></td>
+</tr>
+</tbody></table>
+<!-- your comment here --></td>
+ 
+<td rowspan="3" align="left" valign="top" bgcolor="#cc0000"><a href="/index.cfm"><img src="http://www.enjoytheshow.com/graphics/logos/loewslogo.gif" border="0" height="116" width="145"></a></td>
+</tr>  
+<tr> 
+<td valign="top" bgcolor="#cc0000"> <table border="0" cellpadding="0" cellspacing="0" width="220">
+<tbody><tr> 
+<td><a href="/myloews/index.cfm" onmouseover="rollover(imageb,'/images/header_nav/myloews_on.gif');" onmouseout="rollout(imageb)"><img src="/images/header_nav/myloews_off.gif" width="72" height="21" border="0" name="imageb"></a></td>
+<td><a href="javascript:moviefonebig('/buyticketspopup/')" onmouseover="rollover(imaged,'/images/header_nav/buytickets_on.gif');" onmouseout="rollout(imaged)"><img src="/images/header_nav/buytickets_off.gif" width="87" height="21" border="0" name="imaged"></a></td>
+<td><a href="/theatres/index.cfm" onmouseover="rollover(imagec,'/images/header_nav/theatres_on.gif');" onmouseout="rollout(imagec)"><img src="/images/header_nav/theatres_off.gif" width="71" height="21" border="0" name="imagec"></a></td>
+<td><a href="/nowplaying/index.cfm" onmouseover="rollover(imagee,'/images/header_nav/nowshowing_on.gif');" onmouseout="rollout(imagee)"><img src="/images/header_nav/nowshowing_off.gif" width="95" height="21" border="0" name="imagee"></a></td>
+<td><a href="/comingsoon/index.cfm" onmouseover="rollover(imagef,'/images/header_nav/comingsoon_on.gif');" onmouseout="rollout(imagef)"><img src="/images/header_nav/comingsoon_off.gif" width="94" height="21" border="0" name="imagef"></a></td>
+<td><a href="/trailers/index.cfm" onmouseover="rollover(imageg,'/images/header_nav/trailers_on.gif');" onmouseout="rollout(imageg)"><img src="/images/header_nav/trailers_off.gif" width="69" height="21" border="0" name="imageg"></a></td>
+<td><a href="##" onclick="reeldeal('http://www.enjoythereeldeal.com')" onmouseover="rollover(imageh,'/images/header_nav/gift_on.gif');" onmouseout="rollout(imageh)"><img src="/images/header_nav/gift_off.gif" width="124" height="21" border="0" name="imageh"></a></td>
+<td><img src="/images/header_nav/nav_end.gif" width="23" height="21" border="0"></td>
+</tr>
+<tr> 
+<td colspan="8" bgcolor="#cc0000"><img src="/spacer.gif" width="1" height="1" border="0"></td>
+</tr>
+</tbody></table></td>
+</tr>
+<tr> 
+<td valign="top" bgcolor="#cc0000">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr> 
+<td><a href="/index.cfm"><img src="/images/header_nav/enjoy_lc.gif" width="431" height="47" border="0"></a></td>
+<td bgcolor="#000000"><img src="/spacer.gif" width="74" height="10" border="0"></td>
+<td height="47"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="130" height="47" title="trailers">
+<param name="movie" value="/images/header_nav/viewtrailers.swf">
+<param name="quality" value="high">
+<embed src="/images/header_nav/viewtrailers2.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="130" height="47"></object></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+<!-- end header/navigation --></td>
+</tr>
+<tr>
+<td><!-- start content -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td bgcolor="#cccccc"><img src="/spacer.gif" width="581" height="1" border="0"></td>
+<td rowspan="2" bgcolor="#cccccc"><img src="/spacer.gif" width="1" height="1" border="0"></td>
+<td bgcolor="#cc0000"><img src="/images/showtimes/contentspacer.gif" width="199" height="1" border="0"></td>
+</tr>
+<tr>
+<td valign="top">
+
+
+     
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+ 
+
+
+
+     
+
+<table width="581" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+
+
+
+<td><a href="/myloews/index.cfm?act=form1"><img src="/images/myloews/showtimes_myloews.gif" width="193" height="88" border="0"></a></td>
+
+<td><a href="#"><img src="http://www.enjoytheshow.com/graphics/promographics_small/superconbo.jpg" border="0" height="88" width="193"></a></td>
+<td align="right"><a href="/promotions/popsecret/"><img src="http://www.enjoytheshow.com/graphics/promographics_small/popsecret.jpg" border="0" height="88" width="193"></a></td>
+
+ </tr>
+<tr bgcolor="cccccc"><td colspan="3" height="1"><img src="/spacer.gif" width="581" height="1"></td>
+</tr>
+</tbody></table>
+
+
+
+
+<table width="581" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="10"><img src="/spacer.gif" width="10" height="1"></td>
+<td width="571" colspan="2"><img src="/privacy/privacystatement.gif"></td>
+
+</tr>
+<tr><td height="1" colspan="3" bgcolor="cccccc"><img src="/spacer.gif" alt="" height="1" width="1" border="0"></td></tr>
+</tbody></table>
+<!-- Start Content -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="top"><img src="../spacer.gif" width="10" height="100" border="0"></td>
+<td>
+<p><a name="top"></a><b><span class="graythin">TABLE OF CONTENTS</span></b></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1" class="graythinund">Introduction</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#2" class="graythinund">What Personal Information About You Do We Collect</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3" class="graythinund">Note to Parents/Children Privacy</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4" class="graythinund">Other Information We Collect</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#5" class="graythinund">How We Use the Information We Collect</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#6" class="graythinund">How to Access or Collect Your Information</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#7" class="graythinund">Third Party Content</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#8" class="graythinund">Data Security</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#9" class="graythinund">Consent to Transfer</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#10" class="graythinund">Acceptance</a></span></p>
+<p><span class="graythin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#11" class="graythinund">Contact Us</a></span></p>
+<p><span class="graythin"><br>
+<a name="1"></a><b>INTRODUCTION</b></span></p>
+<p><span class="graythin">This web site ("Web Site") is operated by Loews Cineplex Entertainment Corporation ("LCE" or "we" or "us”). This Privacy Policy only covers information collected at our Web Site, and does not cover any information collected offline by LCE (unless specifically stated), or its affiliated companies. At LCE, your privacy is important to us. We provide this notice to explain our information collection practices and the choices you have about the way your information is collected and used. All Loews Cineplex Entertainment websites, including enjoytheshow.com, CineplexOdeon.com and MagicJohnsonTheatres.com are currently covered by this Privacy Policy. Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. In addition, please review our Terms of Use that governs your use of this Web Site.</span></p>
+<p><span class="graythin">While on our Web Site, you may encounter links to other web sites or online materials. For example, enjoytheshow.com contains links to web sites that may be published and maintained by an affiliate and/or related entity of LCE. You may also encounter links from our sponsors or partners, which linked web sites may include a reference to LCE or an LCE logo as part of a co-branding agreement. Those other web sites may set their own cookies, collect data, and/or have their own privacy policies that differ from this Privacy Policy. This Privacy Policy only covers information collected by LCE on this Web Site, and we encourage you to review the privacy policy of any other web site you visit.</span></p>
+<p><span class="graythin">This Privacy Policy does not apply to any personally identifiable information ("PII") you may disclose publicly in user forums (such as chat rooms, message boards, or similar web pages). PII is information that could reasonably used to identify you personally (such as your name, address, or e-mail address). You should be aware that when you voluntarily disclose PII on message boards, chat areas or other user forums, that information can be collected and used by other people to send unsolicited messages and marketing materials. Also, please be aware that certain message boards (and similar user forums) may display IP addresses along with the message poster's name and message. We bear no responsibility for any action or policies of any third parties who collect any information users may disclose in user forums or other public areas of this Web Site.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin"><a name="2"></a><b>WHAT PERSONAL INFORMATION ABOUT YOU DO WE COLLECT? </b></span></p>
+<p><span class="graythin">Generally, you may browse our Web Site without providing any PII. However, we may ask you to provide PII at various times and places on this Web Site, such as when you register for our services, enter a sweepstakes, subscribe to a newsletter, complete a survey or participate in polls, message groups or chat areas. We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. In some cases, if you chose not to provide us with requested information, you may not be able to access all of this Web Site or participate in all of its features. We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties. We may also provide you the opportunity to e-mail a friend an article, electronic greeting card or other special feature from our Web Site.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin"><a name="3"></a><b>NOTE TO PARENTS/CHILDREN'S PRIVACY</b></span></p>
+<p><span class="graythin">Protecting children's privacy is important to us. For that reason, we do not collect or maintain information at our Web Site from those we actually know are under 13, and no part of our Web Site is targeted to attract anyone under 13. We request that all visitors under 13 to our Web Site not disclose or provide any PII. If we discover that a child under 13 has provided us with PII, we will delete the child's PII from our records.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin"><a name="4"></a><b>OTHER INFORMATION WE COLLECT</b></span></p>
+<p><span class="graythin">Log Data: When you visit this Web Site, our web servers automatically collect anonymous information that describes how our visitors use and navigate our Web Site, and which includes the number and frequency of visitors to each web page and the length of their stays, as well as the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP addresses. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page.</span></p>
+<p><span class="graythin"><b>IP Addresses:</b> An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor's IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our advertisers, and to audit the number of visits to different pages on our Web Site.</span></p>
+<p><span class="graythin"><b>Cookies:</b> Cookies are information files that our Web Site may place on your computer to provide extended functionality. We may use cookies for a number of purposes, such as tracking usage patterns on the Web Site, measuring the effectiveness of advertising, or limiting multiple responses and registrations when we conduct polls and sweepstakes. We do not store any PII in cookies, and we do not link the cookies to any PII we collect. We will not use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. Advertisers or other third parties that are serving content on some of our pages may set and access their own cookies on your computer. Such third parties' use of cookies is subject to their own privacy policies, which may differ from this one. Such third parties do not have access to our cookies. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.</span></p>
+<p><span class="graythin"><b>Web Beacons:</b> While you are on our Web Site, or while you are otherwise viewing our content, you may encounter Web beacons, which may come from LCE or from third parties, such as advertisers or content providers. A Web beacon, which is sometimes also called a Web bug or "clear gif", is a small graphic image in a Web page, a Web-based document or an e-mail message, which generally allows the party that set the Web beacon to monitor certain information about the viewer of the Web page, Web-based document or e-mail message, and it may allow access to certain cookies. Web beacons are usually invisible to the user, because they are very small (generally 1-by-1 pixel). However, in general, any electronic image viewed as part of a Web page, including an advertisement, can act as a Web beacon. Web beacons typically collect the URL of the page the Web beacon comes from, the type of browser requesting the Web beacon, the IP address of the computer that the Web beacon is sent to and the time the Web beacon was viewed. Web beacons can also be linked to PII, but LCE does not link information gathered through Web beacons to PII. LCE may use Web beacons to count visitors to our Web pages and we may include Web beacons in HTML-formatted e-mail newsletters in order to count how many newsletters (or particular articles, links, etc.) we sent were actually opened. We aggregate all information we collect through Web beacons and we do not use Web beacons to track any individuals' use of the Web Site. LCE does not have control over Web beacons used by third parties and does not have access to whatever information they may collect.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin"><a name="5"></a><b>HOW WE USE AND DISCLOSE THE INFORMATION WE COLLECT </b></span></p>
+<p><span class="graythin">We use the PII you provide about yourself to provide the information or content you have requested, to contact you about our programs, products, features or services or for other purposes disclosed at the time of collection. For instance, we may notify you that you have won a sweepstakes, send you an e-mail newsletter or send you information about an upcoming contest or movie. If you e-mail someone else an electronic greeting card or other special feature from our Web Site, we will use the information you provide about someone else to send that person the requested e-mail. If you do not wish to receive information about our programs, products, features or services, you may update your preferences at any time by returning to the registration area of the Web Site for which you registered.</span></p>
+<p><span class="graythin">We may send you information from our corporate affiliates, including Fandango, Inc. and certain movie distributors. If you do not wish to receive this information, you may opt out of such use at any time by returning to the registration area of the Web Site for which you registered.</span></p>
+<p><span class="graythin">We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services we offer. We may also share non-identifying aggregate information with third parties. For example, we may tell advertisers how many individuals visit certain areas of our Web Site, or how many men or women receive our newsletters.</span></p>
+<p><span class="graythin">We may share your PII with outside parties who sponsor sweepstakes or other promotions on our Web Site. However, we will not share your PII with outside parties unless you specifically agree to a governing set of rules that allow such disclosure or otherwise give us permission to do so.</span></p>
+<p><span class="graythin">We may employ other companies and individuals to perform functions on our behalf. For instance, we may use third parties to host message boards or other user forums, to develop software applications and databases or to send communications on our behalf. Our employees, agents and contractors who have access to PII are required to protect the information in a manner that is consistent with this Privacy Policy.</span></p>
+<p><span class="graythin">We may provide access to your PII when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights or to protect the rights, property or safety of visitors of this Web Site or the public. In those instances, the information is provided only for that purpose.</span></p>
+<p><span class="graythin">LCE may also sell, transfer or otherwise disclose user information, including PII, in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change.</span></p>
+<p><span class="graythin">We will not share your PII in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin"><a name="7"></a><b>THIRD PARTY CONTENT</b></span></p>
+<p><span class="graythin">When you are on our Web Site, certain content may be created or hosted by a third party. Such third parties may drop cookies and/or use Web beacons, which may be used to identify some of your preferences or to recognize you if you have previously been to their web site or otherwise had contact with them. We do not control the use of such technology by third parties, the information they collect, or how they use such information. We do not disclose your PII to third parties serving content on this Web Site in connection with the serving of such content.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin"><a name="8"></a><b>DATA SECURITY</b></span></p>
+<p><span class="graythin">We take physical, electronic and managerial steps to maintain the security and accuracy of PII we collect, including limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin"><a name="9"></a><b>CONSENT TO TRANSFER </b></span></p>
+<p><span class="graythin">This Web Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin"><a name="10"></a><b>ACCEPTANCE</b></span></p>
+<p><span class="graythin">By using this Web Site, you accept the policies set forth in this Privacy Policy. This Privacy Policy, like the online medium itself, is subject to change, so visitors are encouraged to review this Privacy Policy from time to time. However, we will only use the PII you provide to this Web Site in a manner consistent with this Privacy Policy, unless you give us your consent.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin"><a name="11"></a><b>CONTACT US </b></span></p>
+<p><span class="graythin">If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please contact us at the following e-mail address: <a href="mailto:webmaster@loewscpx.com" class="graythinund">webmaster@loewscpx.com</a>. This LCE Privacy Policy was last updated on April 3, 2002.<br>
+<a href="#top" class="graythinund">top</a></span></p>
+<p><span class="graythin">© 2002 Loews Cineplex Entertainment, Corporation. All rights reserved.<br>
+<br>
+</span></p>
+</td>
+</tr>
+</tbody></table>
+<!-- your comment here --></td>
+<td valign="top" background="/images/rightnav_bkgrd.gif">
+<!-- start RightNav -->
+<table border="0" cellpadding="0" cellspacing="0">
+
+<tbody><tr bgcolor="#cc0000">
+
+<td valign="top" bgcolor="#cc0000"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="170" height="89" title="spotlight">
+
+<param name="movie" value="/images/home/spotlight.swf">
+
+<param name="quality" value="high">
+
+<embed src="/images/home/spotlight.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="170" height="89"></object></td>
+
+<td bgcolor="#cc0000" valign="top"><img src="/spacer_red.gif" width="29" height="89" border="0"></td>
+
+<td bgcolor="#cc0000" valign="top"><img src="/spacer_red.gif" width="1" height="89" border="0"></td>
+
+</tr>
+
+<tr>
+
+<td valign="top" colspan="2" bgcolor="#cc0000" background="/images/showtimes/searchshowtimes_bkgrd.gif">
+
+<!-- start search showtimes from -->
+
+
+<img src="/images/showtimes/searchshowtimes_txt.gif" width="119" height="20" border="0">  
+ 
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr> 
+<td><form action="/nowplaying/index.cfm" name="myform" method="GET"></form></td>
+</tr>
+<tr> 
+<td>
+<span class="graythin">&nbsp;&nbsp;Select a:<br>
+&nbsp;&nbsp;<select name="state" size="1" onchange="updatemenus(this)">
+<option value="state                   ">state                   </option> 
+<option value="AZ">AZ</option><option value="CA">CA</option><option value="CT">CT</option><option value="DC">DC</option><option value="FL">FL</option><option value="GA">GA</option><option value="IL">IL</option><option value="IN">IN</option><option value="MA">MA</option><option value="MD">MD</option><option value="MI">MI</option><option value="MN">MN</option><option value="NJ">NJ</option><option value="NY">NY</option><option value="OH">OH</option><option value="PA">PA</option><option value="TX">TX</option><option value="UT">UT</option><option value="VA">VA</option><option value="WA">WA</option></select>
+<br><br>
+&nbsp;&nbsp;then:<br>
+&nbsp;&nbsp;<select name="city" size="1" onchange="javascript:this.form.submit();">
+<option value="city                         ">city                         </option>
+</select></span></td>
+</tr>
+<tr> 
+<td></td>
+</tr>
+</tbody></table>
+
+
+<!-- end search showtimes from -->
+
+<!-- start zip search showtimes from -->
+
+
+ 
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td>
+<form name="theaterzipsearch" action="/nowplaying/index.cfm" method="get">
+</form></td>
+</tr>
+<tr> 
+<td><br>
+<font class="graythin">&nbsp;&nbsp;or search by:<br>
+&nbsp;</font>
+<input type="text" name="zip" size="10" maxlength="5" value="zip" onfocus="clearIt(this)">
+<font class="graythin">&nbsp;</font>
+<input type="image" src="/images/showtimes/searchshowtimes_go.gif" width="12" height="12" border="0"><br>
+<font class="graythin">&nbsp;&nbsp;enter zip here.</font></td>
+</tr>
+<tr> 
+<td>
+</td></tr>
+</tbody></table>
+ 
+
+<!-- end zip search showtimes from -->
+
+</td>
+
+<td bgcolor="#cc0000"><img src="/spacer.gif" width="1" height="177" border="0"></td>
+
+</tr>
+
+<tr>
+
+<td bgcolor="#000000"><img src="/images/showtimes/searchshowtimes_dots.gif" width="170" height="1" border="0"></td>
+
+<td bgcolor="#cc0000"><img src="/spacer_red.gif" width="29" height="1" border="0"></td>
+
+<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="1" width="1" border="0"></td>
+
+</tr>
+
+<tr>
+
+<td valign="top" bgcolor="#000000"><a href="javascript:moviefonebig('/buyticketspopup/')"><img src="/graphics/logos/fandango_rightnav.gif" width="146" height="63" border="0"></a></td>
+
+<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="63" width="29" border="0"></td>
+
+<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="63" width="1" border="0"></td>
+
+</tr>
+
+<tr>
+
+<td bgcolor="#000000"><img src="/images/showtimes/searchshowtimes_dots.gif" width="170" height="1" border="0"></td>
+
+<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="1" width="29" border="0"></td>
+
+<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="1" width="1" border="0"></td>
+
+</tr>
+
+<tr bgcolor="#cc0000">
+
+<td valign="top" bgcolor="#000000"><a href="javascript:movieratings('/movieratings/index.cfm')"><img src="/images/right_nav/movieratings1.gif" width="170" height="51" border="0"></a><br>
+
+<a href="javascript:newwindow('http://mpaa.org/movieratings')"><img src="/images/right_nav/movieratings2.gif" width="170" height="14" border="0"></a></td>
+
+<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="65" width="29" border="0"></td>
+
+<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="65" width="1" border="0"></td>
+
+</tr>
+
+<tr bgcolor="#cc0000">
+
+<td bgcolor="#000000"><img src="/images/showtimes/searchshowtimes_dots.gif" width="170" height="1" border="0"></td>
+
+		<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="1" width="29" border="0"></td>
+
+		<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="1" width="1" border="0"></td>
+
+	</tr>
+
+<tr bgcolor="#cc0000">
+
+<td valign="top" bgcolor="#000000"><a href="/opencaption/index.cfm"><img src="/images/right_nav/opencaption.gif" width="170" height="110" border="0"></a></td>
+
+		<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="110" width="29" border="0"></td>
+
+		<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="110" width="1" border="0"></td>
+
+	</tr>
+
+<tr>
+
+<td bgcolor="#000000"><img src="/images/showtimes/searchshowtimes_dots.gif" width="170" height="1" border="0"></td>
+
+		<td bgcolor="#cc0000"><img src="/spacer_red.gif" width="29" height="1"></td>
+
+		<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="1" width="1" border="0"></td>
+
+	</tr>
+
+<tr>
+
+<td bgcolor="#000000"><a href="/employment/generalapplication.cfm"><img src="/images/right_nav/nowhiring.gif" width="166" height="84" border="0"></a></td>
+
+		<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="84" width="29" border="0"></td>
+
+		<td bgcolor="#cc0000"><img src="/spacer_red.gif" alt="" height="84" width="1" border="0"></td>
+
+	</tr>
+
+</tbody></table>
+<!-- End RightNav -->
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<table border="0" cellpadding="0" cellspacing="0" width="130">
+<tbody><tr>
+<td><!-- start footerpromo -->
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+
+<td><a href="javascript:reeldeal('http://www.enjoythereeldeal.com')" onclick="reeldeal('http://enjoythereeldeal.com')"><img src="/images/footerpromos/reeldeal.gif" width="279" height="58" border="0"></a></td>
+
+<td><a href="/mysteryshopper/index.cfm"><img src="/images/footerpromos/mysteryshopper.gif" width="155" height="58" border="0"></a></td>
+
+<td><a href="/promotions/popsecret/index.cfm"><img src="/images/footerpromos/popsecret.jpg" width="149" height="58" border="0"></a></td>
+
+<td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" height="58" width="169">
+<param name="movie" value="/startrek/footerpromo/promo.swf">
+<param name="quality" value="best">
+<param name="play" value="true">
+<embed height="58" pluginspage="http://www.macromedia.com/go/getflashplayer" src="/startrek/footerpromo/promo.swf" type="application/x-shockwave-flash" width="169" quality="best" play="true"> 
+</object></td>
+
+</tr>
+
+</tbody></table><!-- end footerpromo --></td>
+<td rowspan="3" valign="top" bgcolor="#cc0000"><img src="/spacer.gif" width="33" height="10" border="0"></td>
+</tr>
+<tr>
+<td><!-- start footer --><table width="100%" border="0" cellpadding="0" cellspacing="0" class="footer">
+
+<tbody><tr> 
+
+<td align="center"><br>
+
+<a href="/corpinfo/" class="footer">
+
+Corporate Info</a> | <a href="javascript:reeldeal('http://enjoythereeldeal.com')" class="footer">Corporate Discounts</a> | <a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=lcx.to&amp;script=401" class="footer" target="_blank">Press 
+
+Releases</a> | <a href="/employment/generalapplication.cfm" class="footer">Jobs</a> | <a href="/contactus/index.cfm" class="footer">Contact 
+
+Us</a> | <a href="/privacy/index.cfm" class="footer">Privacy Statement<br>
+
+</a><a href="/theatres/index.cfm" class="footer">Magic Johnson Theatres</a> | <a href="/theatres/index.cfm" class="footer">Star Theatres</a> | <a href="/theatres/index.cfm" class="footer">Loews Imax Theatre</a> | <a href="javascript:fullwindow('http://www.cineplex.com')" class="footer">Canada</a> 
+
+| <a href="/theatres/index.cfm" class="footer">International</a> | <a href="javascript:fullwindow('http://www.cinemex.com')" class="footer">Mexico</a><br>
+
+               © Loews Cineplex Entertainment Corporation. All rights reserved.<br>
+
+<br>
+
+</td>
+
+</tr>
+
+</tbody></table>
+
+
+
+<!-- START OF WEBTRENDS LIVE TAG -->
+<!-- Copyright 2002 NetIQ Corporation -->
+<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm -->
+<script language="JavaScript">
+<!--
+// Modification of this code is not allowed and will permanently disable your account!
+// SiteName:  Loews Cineplex
+function wtl_Tag5_144189()
+{
+	var SERVER= "";
+	var CONTENTGROUP= "";
+	
+	var wtl_URL= document.URL;
+	var wtl_Title= document.title;
+
+	function D8( d)
+	{
+		var fwd=1, seed= new Date('01/01/2000'), key= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+		var s= key.charAt( d.getFullYear()-2000)+key.charAt( d.getMonth()+1)+key.charAt( d.getDate());
+		s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
+		while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
+		var w= Math.floor( (d.getTime()-(seed.getTime()+86400000)) / 604800000 );
+		s+= key.charAt( (w-(w%16))/16 );
+		s+= key.charAt( w%16);
+		return s;
+	}
+	
+	function A( B, C)
+	{
+		W+="&"+B+"="+escape(C);
+	}
+
+	var t = new Date();
+	var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S144189/button5.asp?tagver=5&si=144189&fw=1";
+	A( "server", typeof(SERVER)== "string" ? SERVER : "");
+	A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
+	A( "tz", t.getTimezoneOffset());
+	A( "ch", t.getHours());
+	A( "cl", D8(t));
+	A( "ti", typeof(wtl_Title)== "string" ? wtl_Title : document.title);
+	A( "url", typeof(wtl_URL)== "string" ? wtl_URL : document.URL);
+	A( "rf", window.document.referrer);
+	A( "js", "Yes");
+	A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
+	if(typeof(screen)=="object")
+	{
+	A( "sr", screen.width+"x"+screen.height);
+	A( "cd", screen.colorDepth);
+	A( "jo", navigator.javaEnabled()?"Yes":"No");
+	}
+	if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
+		W= W.substring( 0, 2043)+"&tu=1";
+
+	document.write('<IMG ID="WTL_144189" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">');
+}
+
+wtl_Tag5_144189();
+//-->
+</script><img id="WTL_144189" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S144189/button5.asp?tagver=5&amp;si=144189&amp;fw=1&amp;server=&amp;Group=&amp;tz=0&amp;ch=5&amp;cl=K1V5B77&amp;ti=enjoy%20the%20show%3A%20showtimes&amp;url=https%3A//web.archive.org/web/20021207222158id_/http%3A//www.enjoytheshow.com/privacy/&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+<noscript>
+<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S144189/button5.asp?tagver=5&si=144189&fw=1&js=No&">
+</noscript>
+<!-- END OF WEBTRENDS LIVE TAG -->
+<!-- end footer --></td>
+</tr>
+<tr>
+<td><img src="/spacer.gif" width="751" height="1" border="0"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<!-- end content --></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+</body></html>
