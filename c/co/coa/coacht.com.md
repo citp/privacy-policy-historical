@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602123305id_/http%3A//www.coacht.com/story.cfm%3Fdoc%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207095643id_/http%3A//www.coacht.com/story.cfm%3Fdoc%3D36) for the most accurate reproduction.*
 
 # CoachT.com - Privacy Statement for coacht.com
 
   
-**Privacy Statement for coacht.com**
+**  
+Privacy Statement for coacht.com**
 
 **CoachT.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website. 
 
@@ -38,7 +39,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. email [coacht@coacht.com](mailto:coacht@coacht.com)
-  2. online form [Edit User Info](https://web.archive.org/web/20020602123305id_/http%3A//www.coacht.com/boards/join.cfm)
+  2. online form [Edit User Info](https://web.archive.org/web/20021207095643id_/http%3A//www.coacht.com/boards/join.cfm)
 
 
 
@@ -48,5 +49,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 **»[Email story to a friend...](https://web.archive.org/mail/send.cfm?story=36)**
 
-|  |   
+|  |    
 ---|---|---
