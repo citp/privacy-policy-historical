@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607050930id_/http%3A//www.homeexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206200050id_/http%3A//www.homeexchange.com/privacy.php) for the most accurate reproduction.*
 
-# Home Exchange (dot) com The premier international home exchange system.
+# The premier international home exchange and home swap service
 
 ****HomeExchange.Com Inc.
 
