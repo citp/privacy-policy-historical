@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003012400id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
 
@@ -6,14 +6,14 @@
 ---  
 **·** | 
 
-[United States](https://web.archive.org/web/20021003012400id_/http%3A//www.interment.net/us/index.htm)  
+[United States](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/us/index.htm)  
   
-**·** | [Canada](https://web.archive.org/web/20021003012400id_/http%3A//www.interment.net/can/index.htm)  
-**·** | [Australia ](https://web.archive.org/web/20021003012400id_/http%3A//www.interment.net/aus/index.htm)  
-**·** | [New Zealand ](https://web.archive.org/web/20021003012400id_/http%3A//www.interment.net/nz/index.htm)  
-**·** | [Ireland](https://web.archive.org/web/20021003012400id_/http%3A//www.interment.net/ireland/index.htm)  
-**·** | [United Kingdom ](https://web.archive.org/web/20021003012400id_/http%3A//www.interment.net/uk/index.htm)  
-**·** | [Other Countries ](https://web.archive.org/web/20021003012400id_/http%3A//www.interment.net/other/index.htm)  
+**·** | [Canada](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/can/index.htm)  
+**·** | [Australia ](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/aus/index.htm)  
+**·** | [New Zealand ](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/nz/index.htm)  
+**·** | [Ireland](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/ireland/index.htm)  
+**·** | [United Kingdom ](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/uk/index.htm)  
+**·** | [Other Countries ](https://web.archive.org/web/20030603181658id_/http%3A//interment.net/other/index.htm)  
   
   
   
@@ -48,7 +48,7 @@ Our site uses a form to submit burial records. The form asks for the users name,
 
 Our site maintains a mailing list. We will not add users to our mailing list against the consent of our users. Only users can subscribe themselves. When subscribing, they will be sent a confirmation e-mail, asking them to reply to the confirmation.
 
-Once subscribed, users can remove themselves from receiving future mailings. The e-mail addresses in our mailing list are not shared or sold to anyone. To remove yourself from our mailing list visit: [http://www.interment.net/mailinst_list.htm ](http://www.interment.net/mailinst_list.htm)
+Once subscribed, users can remove themselves from receiving future mailings. The e-mail addresses in our mailing list are not shared or sold to anyone.[ ](http://www.interment.net/mailing_list.htm)
 
 ####  External Links 
 
@@ -80,11 +80,11 @@ This site meets **** the Online Privacy Protection Act guidelines.
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-You can send email to [ steve@freudian.com ](mailto:steve@freudian.com)
+You can send email to [ stevepjohnson@mchsi.com ](mailto:stevepjohnson@mchsi.com)
 
 ### Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[ steve@freudian.com ](mailto:steve@freudian.com)
+[ stevepjohnson@mchsi.com ](mailto:stevepjohnson@mchsi.com)
