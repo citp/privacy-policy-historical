@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecolab.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204043600id_/http%3A//www.ecolab.com/webassets/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecolab.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607074822id_/http%3A//www.ecolab.com/webassets/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
