@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-archive.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607100421id_/http%3A//www.tech-archive.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-archive.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120347id_/http%3A//www.tech-archive.net/privacy) for the most accurate reproduction.*
 
 # Tech-Archive.net: Privacy Policy
 
