@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205115621id_/http%3A//www.bcfdirect.com/privacy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2003-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030324210716id_/http%3A//www.bcfdirect.com/privacy.tem) for the most accurate reproduction.*
 
 # BCF Webstore - Privacy
 
