@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601224803id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003213149id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
 
 # Game Trading Zone - Privacy
 
@@ -45,7 +45,3 @@ This site gives users the following options for changing and modifying informati
 ### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William Marrs Game Trading Zone moderators@gametz.com
-
-  
-Copyright © 1996-2003 Kenyon Hill LLC. All rights reserved.  
-[Take our Poll](http://survey.burstmedia.com/cgi-win/client.exe?readers,welcome,ad5418a,2000) \- [Privacy Statement](http://gametz.com/Privacy.html) \- [Subscribe](http://gametz.com/Subscribe.html)
