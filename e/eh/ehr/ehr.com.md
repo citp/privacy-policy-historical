@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ehr.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202162552id_/http%3A//www.ehr.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehr.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606174217id_/http%3A//www.ehr.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | eHR©.com
+# Privacy Policy | eHR®.com
 
 |  |  |   
-Privacy Policy   
   
   
-Watson Wyatt Worldwide believes strongly in protecting the privacy of its users. We collect personal information only when necessary. 
+  
+Privacy Policy Watson Wyatt Worldwide believes strongly in protecting the privacy of its users. We collect personal information only when necessary. 
 
 We do not collect any personal information about users of our web site unless they take advantage of its customization features. We collect only aggregate information about the behavior of web visitors in order to improve the quality of the site. 
 
