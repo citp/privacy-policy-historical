@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billmatrix.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608123059id_/http%3A//billmatrix.com/BM/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmatrix.com privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219031027id_/http%3A//www.billmatrix.com/BM/privacy/privacy.htm) for the most accurate reproduction.*
 
 # BillMatrix - Privacy
 
