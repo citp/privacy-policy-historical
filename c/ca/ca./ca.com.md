@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218003004id_/http%3A//ca.com/caprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ca.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604025208id_/http%3A//www.ca.com/caprivacy.htm) for the most accurate reproduction.*
 
 # Computer Associates Copyright Information
 
@@ -24,6 +24,8 @@ CA strives to keep your information and data accurate, complete and current. We 
 **Business Relationships**  
 This website contains links to other websites. CA is not responsible for the privacy practices or the content of such websites.
 
+Computer Associates uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy/).
+
 **Cookies**  
 Portions of this website use cookies to keep track of your visit, or to deliver content specific to your interests. A "Cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it. 
 
@@ -35,4 +37,4 @@ If you have any questions or comments about our privacy statement or practices, 
 
 CA reserves the right to modify or update this privacy statement at any time without notice.
 
-_Last updated December 1, 2000._
+_Last updated 02/14/2002._
