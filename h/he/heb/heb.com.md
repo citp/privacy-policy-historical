@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heb.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608045248id_/http%3A//www.heb.com/welcome/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heb.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806092650id_/http%3A//www.heb.com/welcome/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,14 +27,14 @@ We may share personal customer information with third parties with whom we have 
 H-E-B collects, stores, and uses aggregate data that does not contain personally identifiable information. This aggregated data may be shared with and used by third parties in order to help us and our business partners better serve and understand our customers.
 
 **How can I access, modify, and/or delete my information?**  
-You may at any time, review, edit and/or [remove from our database](https://web.archive.org/web/20030608045248id_/http%3A//www.heb.com/yourHEBStore/newsletter-unsubscribe.jsp) any information we maintain on you. We will promptly comply with any request to review, edit or remove your information. 
+You may at any time, review, edit and/or [remove from our database](https://web.archive.org/web/20030806092650id_/http%3A//www.heb.com/yourHEBStore/newsletter-unsubscribe.jsp) any information we maintain on you. We will promptly comply with any request to review, edit or remove your information. 
 
 **What choices do you have?**  
 You can choose to not provide personal information or only limited information.
 
 You can choose to subscribe only to certain services offered by H-E-B. 
 
-If you subscribe to the H-E-B e-newsletters or other services, you may choose to [unsubscribe](https://web.archive.org/web/20030608045248id_/http%3A//www.heb.com/yourHEBStore/newsletter-unsubscribe.jsp) at anytime. 
+If you subscribe to the H-E-B e-newsletters or other services, you may choose to [unsubscribe](https://web.archive.org/web/20030806092650id_/http%3A//www.heb.com/yourHEBStore/newsletter-unsubscribe.jsp) at anytime. 
 
 **What about the privacy rights of children?**  
 We are committed to protecting children's privacy. We do not and will not knowingly collect any personally identifiable information from children under 13 years of age. If any data entry by a visitor indicates that such visitor is under the age of 13 years, all data from that visitor is promptly deleted from our system. If a child under 13 years of age wants to participate on our Web site, we encourage the child's parents to participate in his or her experience on our site. We welcome family participation. 
@@ -53,7 +53,8 @@ H-E-B may provide links to non-H-E-B Web sites. These sites are not under the co
 By using our Web site, you consent to H-E-B's use of personally identifiable information about you as set forth in this privacy policy. If you do not agree with this privacy policy or any of its terms, you may choose to not use our site. This privacy policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. H-E-B reserves the right to amend this policy at any time by notifying users of the existence of a new privacy policy via postings on our site. Your continued use of our Web site following the posting of changes or amendments to this privacy policy constitutes acceptance of those changes and amendments. 
 
 **If you have any other questions or comments**  
-You may contact us with any other questions or comments at:  
+You may contact us with any other questions or comments at:
+
 **Direct Mail Address:**  
 H.E. Butt Grocery Company  
 Attention: Privacy Office  
@@ -64,8 +65,9 @@ San Antonio, TX 78283-3999
 [privacyoffice@heb.com](mailto:privacyoffice@heb.com)
 
 **Telephone:**  
+_Contact the Privacy Office_  
 San Antonio, Texas 210-938-4923  
 Outside of San Antonio 866-432-4318
 
-**Policy Revisions and Updates**  
-This privacy policy will continue to be reviewed and revised as changes occur in H-E-B business and technology or to laws that affect this policy. All information collected is subject to the privacy policy in effect at the time of use. Changes will be posted on this site with an updated effective date. Please check our Web site periodically to see the current policy. 
+_Contact Customer Relations_  
+San Antonio, Texas 210-93
