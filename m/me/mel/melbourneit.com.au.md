@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203215903id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621211020id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
 
 # Melbourne IT
 
-Date: August 2003 
+**Melbourne IT Privacy Policy**
+
+Date: March 2004 
 
 Melbourne IT Ltd (ABN 21 073 716 793)("Melbourne IT") respects your privacy and is committed to the protection of it. 
 
@@ -16,12 +18,14 @@ This privacy policy explains why and when we collect your personal information, 
   * Changes
   * Further information or comments
 
+
+
 **Why and when Melbourne IT collects your information**  
 Back to Top
 
   * **Personal information you give us**
 
-Melbourne IT collects the information you give us, either online or by email or facsimile. In most cases, the personal information Melbourne IT will collect from you is the personal information we are required to obtain and pass on to the relevant registry when you apply to register a domain name with us. This information includes your full name, mailing address, phone number, email address and where applicable, your facsimile number. Melbourne IT also collects your payment details from you when you apply to register a domain name, such as your credit card number or bank account details. 
+Melbourne IT collects the information you give us, either online or by email, post or facsimile. In most cases, the personal information Melbourne IT will collect from you is the personal information we are required to obtain and pass on to the relevant registry when you apply to register a domain name with or transfer a domain name to Melbourne IT. This information includes your full name, mailing address, phone number, email address and where applicable, your facsimile number. Melbourne IT also collects your payment details from you when you apply to register a domain name, such as your credit card number or bank account details. 
 
 If you purchase a digital certificate through us, we are required by the provider of those certificates to collect personal information from you to pass back to that provider. We will also collect your payment details from you such as your credit card number or bank account details. 
 
@@ -36,22 +40,20 @@ You always have the option to disable cookies by turning them off in your browse
 In addition to cookies, Melbourne IT servers register the type of web browser you are using and your IP address when you access our website. 
 
 
-
-
 **How Melbourne IT uses your information**  
 Back to Top
 
   * **Use of your information as required by ICANN or other domain administrators, or the registries**
 
-ICANN (the Internet Corporation for Assigned Names and Numbers) is the organisation which governs the functions performed by both its accredited registrars (of which Melbourne IT is one), and the registries in regulating the domain name registration process. ICANN requires that each of its registrars must make available the personal information we collect from you when you apply to register any generic top level domain names ( ie com, net, org, biz, info and name) to the public on a publicly accessible database known as the WHOIS database. In addition, it applies to some of the country code top level domains. For example, in Australia the personal information you supply to us in applying for a domain name registration for a com.au domain name, must be made public on the publicly accessible database run by the com.au registry. 
+ICANN (the Internet Corporation for Assigned Names and Numbers) is the organisation which governs the functions performed by both its accredited registrars (of which Melbourne IT is one), and the registries in regulating the domain name registration process. ICANN requires that each of its registrars must make available the personal information we collect from you when you apply to register any generic top level domain names (ie., com, net, org, biz, info and name) to the public on a publicly accessible database known as the WHOIS database. In addition, it applies to some of the country code top level domains. For example, in Australia the personal information you supply to us in applying for a domain name registration for a com.au domain name, must be made public on the publicly accessible database run by the com.au registry. 
 
 The public policy behind this requirement is that the personal details of domain name licence holders should be freely available to all other users of the Internet. This public policy is adopted by the domain name industry as a whole. The requirement means, however, that Melbourne IT will not be able to control how members of the public may use the information made available on these publicly accessible databases. 
 
-In addition, ICANN has another mandatory requirement that all its accredited registrars make the WHOIS database of personal information for com, net and org available for bulk downloads by third parties who have entered into a bulk access agreement with Melbourne IT. If you do not want your personal information to be included in these bulk downloads, you may opt out of this service by providing written notice to Melbourne IT, or by emailing us at [policy@melbourneit.com.au](mailto:policy@melbourneit.com.au?subject=Privacy%20Policy). 
+In addition, ICANN has another mandatory requirement that all its accredited registrars make the WHOIS database of personal information for com, net and org available for bulk downloads by third parties who have entered into a bulk access agreement with Melbourne IT. If you do not want your personal information to be included in these bulk downloads, you may opt out of this service by providing written notice to Melbourne IT, or by emailing us at [policy@melbourneit.com.au](mailto:policy@melbourneit.com.au?subject=Privacy%20Policy)
 
   * **Use of your information to fulfil our role as registrar**
 
-We will be contacting you using the personal details you provide to us when you apply for a domain name registration through Melbourne IT, to advise you of all relevant information relating to your domain name licence. This includes any account administration information including renewal information and billing information, as well as notices of any important system changes which will impact on your online interactions with us. Each of these functions is necessary if Melbourne IT is to effectively fulfil its role as the registrar of your domain names. 
+We will be contacting you and may use the personal details you provide to us, at the time you apply for a domain name registration with Melbourne IT or during the licence period of your domain name registration with Melbourne IT, to obtain relevant information from you with respect to your domain name application, or, to advise you of all relevant information relating to your domain name licence. This includes any account administration information including renewal information and billing information, as well as notices of any important system changes which will impact on your online interactions with us. Each of these functions is necessary if Melbourne IT is to effectively fulfil its role as the registrar of your domain names. 
 
   * **Other uses**
     * Melbourne IT may use your information to measure your experience of our services and products and to inform you of new product developments and associated services that we believe will interest you. If you do not wish to receive email notices or other communications from Melbourne IT regarding additional products and services, simply use the newsletter unsubscribe function available here to notify us that you wish to opt out of this service: <http://www.inww.com/newsletter/>
@@ -60,14 +62,24 @@ We will be contacting you using the personal details you provide to us when you 
     * We may use your IP address to contact your Internet Service Provider to let you know of any problems with payments you have made to us where we believe this is reasonably necessary to protect against fraud and credit card misuse. 
     * Where you purchase a digital certificate through us, we are required by the provider of those certificates to collect personal information from you to pass back to that provider (other than your payment details, which we hold internally). If you would like to see how your digital certificates provider will treat your personal information, you can find their privacy policy here: <http://www.esign.com.au/repository/privacy/>. 
 
-
-
 **Disclosure of your information to third parties**  
 Back to Top
 
   * **International subsidiary companies**
 
-Melbourne IT is based in Melbourne, Australia, but also has international subsidiary offices operating in San Francisco, USA and Madrid, Spain. Any information which you supply to Melbourne IT or any of its international subsidiary companies will be shared within the internal company group to facilitate our provision of products and services to you. Each of our international subsidiary companies is committed to protecting your personal information in accordance with the principles set out in this privacy policy. 
+Melbourne IT is based in Melbourne, Australia. 
+
+Melbourne IT also has international subsidiary company offices operating in: 
+
+    * Wellington, New Zealand;
+    * San Francisco, USA;
+    * Madrid, Spain; 
+    * Stockholm, Sweden;
+    * London, United Kingdom;
+    * Paris, France; and
+    * Amsterdam, The Netherlands.
+
+Any information which you supply to Melbourne IT or any of its international subsidiary companies will be shared within the internal company group to facilitate our provision of products and services to you. Each of our international subsidiary companies is committed to protecting your personal information. 
 
   * **Third party service providers**
 
@@ -81,14 +93,12 @@ On occasion, we may supply your personal information to third parties to perform
 Our relationships with such third party service providers are governed by our contracts with them. Those service providers are required to hold your personal information strictly confidential. 
 
 
-
-
 **Accuracy**  
 Back to Top
 
-You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. The procedure to do this is explained on the Help Centre on our website at [http://www.inww.com/help](http://www.inww.com/help/). 
+You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. The procedure to do this is explained on the Help Centre on our website at [http://www.inww.com/help ](http://www.inww.com/help)
 
-If you believe that Melbourne IT may hold other personal information about you which is inaccurate, please contact us by using [this web form](https://web.archive.org/web/20031203215903id_/http://www.melbourneit.com.au/privacy/comment.php) and we will take reasonable steps to ensure that it is corrected. 
+If you believe that Melbourne IT may hold other personal information about you which is inaccurate, please contact us by using this [web form](http://www.melbourneit.com.au/privacy/comment.php) and we will take reasonable steps to ensure that it is corrected. 
 
 **Security**  
 Back to Top
@@ -109,4 +119,4 @@ Melbourne IT may make changes to its privacy policy from time to time. You shoul
 **Further information or queries**  
 Back to Top
 
-If you have any queries or comments, or would like more information concerning Melbourne IT's privacy policy, please contact us by using [this web form](https://web.archive.org/web/20031203215903id_/http://www.melbourneit.com.au/privacy/comment.php). 
+If you have any queries or comments, or would like more information concerning Melbourne IT's privacy policy, please contact us by using this [web form](https://web.archive.org/privacy/comment.php). 
