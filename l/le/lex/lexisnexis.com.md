@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexisnexis.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216034413id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexisnexis.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205133048id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
 
 # LexisNexis Privacy Notice
 
@@ -10,9 +10,15 @@
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected from or submitted to the following LexisNexis Group ("LNG") Web sites, but to make this notice easier to read we will refer here only "our Web Site", meaning either lexisnexis.com, _lexis.com_ ®, nexis.comSM, lexisONE.comSM, martindale.comSM or lawyers.comSM. Other LexisNexis Group Web sites may operate under their own privacy notices.
+This notice applies to all information collected from or submitted to the following LexisNexis Group ("LNG") web sites, but to make this notice easier to read we will use the term "our Web Site", which means lexisnexis.com, _lexis.com_ ®, nexis.comSM, lexisONE.comSM, martindale.comSM and lawyers.comSM. Other LNG web sites may operate under their own privacy notices.
 
-Our Web Site contains links to other Web Sites operated by third parties. LexisNexis Group is not responsible for the privacy practices or policies of such third party Web Sites. 
+Our Web Site contains links to other web sites operated by third parties. LNG is not responsible for the privacy practices or policies of such third party web sites and this Notice does not apply to those web sites.
+
+<< Back to top
+
+**Application of This Notice**
+
+This Notice applies only to the information collected by LNG from the users of our Web Site. It does not apply to information collected by LNG in any other way, including offline. 
 
 << Back to top
 
