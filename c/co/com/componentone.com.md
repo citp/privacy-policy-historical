@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the componentone.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404112221id_/http%3A//www.componentone.com/pages.aspx%3FpagesID%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the componentone.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309011323id_/http%3A//www.componentone.com/pages.aspx%3FPagesID%3D59%26Panelindex%3D5) for the most accurate reproduction.*
 
-# 
+# ComponentOne LLC
 
 This web site is maintained by ComponentOne LLC, 4516 Henry Street, Suite 500, Pittsburgh, PA 15213, USA. By accessing or using the ComponentOne.com Web site, you agree to the terms of the ComponentOne Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. 
 
