@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theday.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203210200id_/http%3A//www.theday.com/campus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theday.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608184033id_/http%3A//www.theday.com/campus/privacy.htm) for the most accurate reproduction.*
 
 # The Day Online: Eastern Connecticut's Information Source
 
@@ -15,7 +15,7 @@ TheDay.com and The Day Publishing Compay is not responsible for the content or t
 
 **What information does TheDay.com gather/track about you?**
 
-**Registration (as applicable)** : During any registration process prior to using the site, TheDay.com requires that you supply a unique subscriber ID, e-mail address, and demographic information (country, zip code, age and sex are required; household income is optional). Subscribers must be 18 years of age and agree to the [Subscriber Agreement](https://web.archive.org/web/20001203210200id_/http%3A//www.theday.com/campus/agree.htm). On occasion, TheDay.com also collects additional personal information from subscribers in optional contest and survey forms.
+**Registration (as applicable)** : During any registration process prior to using the site, TheDay.com requires that you supply a unique subscriber ID, e-mail address, and demographic information (country, zip code, age and sex are required; household income is optional). Subscribers must be 18 years of age and agree to the [Subscriber Agreement](https://web.archive.org/web/20010608184033id_/http%3A//www.theday.com/campus/agree.htm). On occasion, TheDay.com also collects additional personal information from subscribers in optional contest and survey forms.
 
  **Cookies** : TheDay.com employs cookies to recognize you and your access privileges on TheDay.com website, as well as to track site usage. We use a third party application, WebTrends, to track ads on our site.  Some of these ads may contain cookies that are set by TheDay.com and/or third parties (i.e. advertising agencies or advertising clients). In the instance of third party cookies, we do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies.  Acceptance of cookies from domains other than TheDay.com is optional. 
 
