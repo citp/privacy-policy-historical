@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605045518id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001fonts.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208170206id_/http%3A//www.1001fonts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ 1001 Fonts .com
 
@@ -10,7 +10,7 @@ The email addresses collected from members of 1001fonts.com are not given away t
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", [please click here](http://www.doubleclick.net/us/corporate/privacy).
+We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 If you have any additional questions about 1001fonts.com's dedication to consumer privacy, please contact us at [privacy@1001fonts.com](mailto:privacy@1001fonts.com).
 
@@ -82,7 +82,6 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 
 [**Printer Supplies**](https://web.archive.org/low_on_ink.html)  
    
-[Myinks.com](http://directleads.com/ad.html?o=11506&a=cd33250)  
 [All-Ink.com](http://www.qksrv.net/click-797593-489930)  
 [00inkjets.com](http://www.qksrv.net/click-797593-5046826)  
 [123Inkjets.com](http://www.qksrv.net/click-797593-512018)  
@@ -91,11 +90,11 @@ If you have any additional questions about 1001fonts.com's dedication to consume
 
 [**Top Font Links**](https://web.archive.org/font_links.html)  
    
+[Abstract Fonts](http://www.abstractfonts.com/fonts/partners/in.htm?id=1001fonts)  
 [PCfonts.com](http://www.pcfonts.com/rankem.html?action=in&id=giotto)  
 [Top20Free.com](http://www.top20free.com/cgi-bin/rankem.cgi?action=in&id=1001font)  
 [Fonts.com](http://www.qksrv.net/click-797593-5765012)  
 [ITCFonts.com](http://www.qksrv.net/click-797593-5529320)  
-[larabiefonts.com](http://www.larabiefonts.com/)  
-[Top 50 Font Sites](http://www.topfontsites.com/cgi-bin/topsites.cgi?1001fonts)
+[larabiefonts.com](http://www.larabiefonts.com/)
 
 |  
