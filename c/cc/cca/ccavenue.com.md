@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604040021id_/http%3A//ccavenue.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202154720id_/http%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
 
 # CCAvenue :: Payment Gateway India - How it works ?.
 
