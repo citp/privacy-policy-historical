@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2002-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021002113345id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realadventures.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605021238id_/http%3A//www.realadventures.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for AtlasTravel
 
