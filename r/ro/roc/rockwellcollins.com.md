@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the rockwellcollins.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210104451id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwellcollins.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604023249id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.*
 
 # Rockwell Collins - Privacy Statement
 
-|  |  |  |   
----|---|---|---  
-[Terms of Access](https://web.archive.org/terms)  
-[Privacy Statement](https://web.archive.org/privacy)  
-[Cookie Statement](https://web.archive.org/cookie)  
-  
 **PRIVACY**
 
 This privacy statement explains our policy regarding any personal information you may supply to us when visiting any Rockwell Collins Website. 
