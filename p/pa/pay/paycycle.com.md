@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407233630id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycycle.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212194141id_/http%3A//www.paycycle.com/info/privacy.jsp) for the most accurate reproduction.*
 
-# PayCycle Privacy Policy
+# PayCycle Privacy Policy for Online Payroll Service
 
 PayCycle Privacy Policy
 
@@ -17,7 +17,7 @@ PayCycle, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an indepen
 
 
 
-If you have questions or concerns regarding this privacy policy, you should first contact [support@paycycle.com](mailto:support@paycycle.com.). You can also reach PayCycle Customer Support by telephone at (650) 852-9650 ext. 55 or at 4102 El Camino Real, Palo Alto, California 94306-4003. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>.  TRUSTe will then serve as a liaison with PayCycle to resolve your concerns. 
+If you have questions or concerns regarding this privacy policy, you should first contact [support@paycycle.com](mailto:support@paycycle.com.). You can also reach PayCycle Customer Support by telephone at (650) 852-9650 or at 210 Portage Avenue, Palo Alto, California 94306-2242. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>.  TRUSTe will then serve as a liaison with PayCycle to resolve your concerns. 
 
 ## What Information PayCycle Collects, and How It Is Used
 
