@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eforu.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009135132id_/http%3A//www.eforu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforu.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405202938id_/http%3A//eforu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Eforu.com
 
@@ -12,10 +12,12 @@ Eforu.com only stores the email addresses of the newsletter subscribers. If you 
 
 Eforu.com also links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users. 
 
-**Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.maxonline.com/privacy_policy/index.php>
+ _Third Party Advertising_
 
-**Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <http://www.networkadvertising.org/optout_nonppii.asp>
+
+_Third Party Cookies_
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
 If you have any questions concerning the privacy policies of Eforu.com which are not covered in this statement, please send email with your questions to [support@eforu.com](mailto:support@eforu.com?Subject=Privacy%20Policy) with the words "Privacy Policy" in the subject field.
