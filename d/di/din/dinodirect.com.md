@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2004-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040503032244id_/http%3A//dinodirect.com/about-privacy---security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinodirect.com privacy policy that was archived on 2004-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041227104051id_/http%3A//www.dinodirect.com/about-privacy---security.html) for the most accurate reproduction.*
 
 # About Privacy & Security :
 
@@ -9,7 +9,7 @@ As part of our commitment to you, our customers, we have published below our pri
 **TRUSTe Licensee**  
 dynadirect.com, Inc. is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for dynadirect.com. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information.
 
-Questions regarding this statement should be directed to the [Webmaster](mailto:comments@dynadirect.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/watchdog.html).
+Questions regarding this statement should be directed to the [Webmaster](mailto:comments@dynadirect.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://truste.org/consumers/watchdog_complaint.php?).
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an Email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
@@ -33,7 +33,7 @@ When you proceed to the online checkout, your browser will automatically be swit
 **Yahoo Information**  
 This site is hosted by Yahoo!. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Yahoo will also send a customer satisfaction survey to you via Email, if you select this option during checkout. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
 
-Yahoo! offers a Buyer Protection Program that protects shoppers utilizing Yahoo! Shopping. Most items purchased through Yahoo! Shopping are covered by this program, which is backed by insurance obtained through Lloyd's of London. For more information on this program [Click Here](http://shopping.yahoo.com/static/buyerprotect.html).
+Yahoo! offers a Buyer Protection Program that protects shoppers utilizing Yahoo! Shopping. Most items purchased through Yahoo! Shopping are covered by this program, which is backed by insurance obtained through Lloyd's of London. For more information on this program [Click Here](http://shopping.yahoo.com/buyer_protection.html).
 
 **Correspondence**  
 Once an order has been placed online, customers will receive a confirmation Email with a link to check order status online. If additional information is needed, customers may contact Customer Service via Email at [service@dynadirect.com](mailto:service@dynadirect.com) or by phone at  
