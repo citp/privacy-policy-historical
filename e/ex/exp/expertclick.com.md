@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the expertclick.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017040655id_/http%3A//www.expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertclick.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623064825id_/http%3A//www.expertclick.com/default.cfm%3FAction%3Dprivacy) for the most accurate reproduction.*
 
 # ExpertClick.com
+
+|  | 
 
 This site is operated by Broadcast Interview Source (Broadcast Interview Source is referred to herein as "we" or "us"). We respect the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. 
 
@@ -28,6 +30,6 @@ We may occasionally release information about our visitors when release is appro
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. 
 
-Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. 
-
-|   
+Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.   
+  
+---|---
