@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drinksmixer.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002133733id_/http%3A//www.drinksmixer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinksmixer.com privacy policy that was archived on 2004-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040408081640id_/http%3A//www.drinksmixer.com/privacy.php) for the most accurate reproduction.*
 
 # DrinksMixer.com - Privacy Policy
 
