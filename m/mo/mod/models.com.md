@@ -1,19 +1,7 @@
-> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204085925id_/http%3A//models.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306142323id_/http%3A//www.models.com/company/privacy.html) for the most accurate reproduction.*
 
 # MODELS.com - Privacy Statement
 
-| _Click on the BBBOnLine seal above to verify MODELS.com's seal_ | 
-
-MODELS.com   
-is a Certified Participant of  
-the **BBBOnLine** ® Privacy Program
-
-This confirms that the information practices of MODELS.com have been reviewed and meet the standards of the Council of **Better Business Bureaus** ' BBBOnLine Privacy Program.   
-  
-  
-  
----|---  
-  
 **PRIVACY STATEMENT**
 
 _OUR COMMITTMENT TO PRIVACY_
