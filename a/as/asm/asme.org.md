@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202021455id_/http%3A//www.asme.org/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611183756id_/http%3A//www.asme.org/terms/privacy.html) for the most accurate reproduction.*
 
 # ASME Terms of Use
 
 **ASME.ORG Privacy and Security Statement**
 
-[Terms of Use](https://web.archive.org/web/20031202021455id_/http%3A//www.asme.org/terms/index.html)
+[Terms of Use](https://web.archive.org/web/20040611183756id_/http%3A//www.asme.org/terms/index.html)
 
 Last Revised: July 16, 2003
 
