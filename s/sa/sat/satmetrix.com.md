@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608084634id_/http%3A//www.satmetrix.com/public/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210052724id_/http%3A//www.satmetrix.com/privacy.html) for the most accurate reproduction.*
 
-# Satmetrix Systems - Privacy
+# Customer Satisfaction and Business Loyalty Overview - Satmetrix
 
 This Privacy Statement explains the data practices of Satmetrix Systems, Inc. ("Satmetrix" or "Us"). Part I __describes our data practices with respect to Personal Data (as defined below) that Satmetrix processes on behalf of its clients; andPart II __describes our data practices with respect to information we collect about our business contacts and other visitors to the Satmetrix website. The general provisions inPart III __apply to our data practices in both Part I and Part II.
 
