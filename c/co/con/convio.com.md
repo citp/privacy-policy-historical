@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2002-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020616152559id_/http%3A//www.convio.com/site/PageServer%3Fpagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2002-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021019061834id_/http%3A//www.convio.com/site/PageServer%3Fpagename%3Dprivacy) for the most accurate reproduction.*
 
 # Convio, Inc.
 
