@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankmytattoos.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008151301id_/http%3A//www.rankmytattoos.com/go.php%3Fgo%3Dpolphp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankmytattoos.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609210109id_/http%3A//rankmytattoos.com/go.php%3Fgo%3Dpolphp) for the most accurate reproduction.*
 
 # 
 
