@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203002130id_/http%3A//www.astromart.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207215452id_/http%3A//www.astromart.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
-# ASTROMART - Privacy Policy
+# Astromart - Privacy Policy
 
-[](http://www.buytelescopes.com/)
-
-|  | 
+[Home](https://web.archive.org/web/20041207215452id_/http%3A//www.astromart.com/) > [About Astromart](https://web.archive.org/web/20041207215452id_/http%3A//www.astromart.com/aboutus/) > Privacy Policy
 
 ### Astromart Privacy Policy
 
@@ -33,7 +31,7 @@ Astromart users have the option of receiving ads by email, either individually o
 **To make any changes to your personal information on Astromart:**
 
 You can visit the following URL once you log in:   
-<http://www.astromart.com/user.asp>
+<http://www.astromart.com/myaccount/editaccount.asp>
 
 You can send mail to the following postal address:  
 9973 Padilla Heights Road  
@@ -50,5 +48,5 @@ c/o Anacortes Telescope and Wild Bird
 9973 Padilla Heights Road  
 Anacortes, Washington 98221  
 360-588-9000  
-support@buytelescopes.com  
+[support@astromart.com](mailto:support@astromart.com)  
 
