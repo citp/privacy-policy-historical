@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204054513id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailspace.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403174530id_/http%3A//www.trailspace.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Trailspace.com
 
 Individuals who visit the Trailspace website are important to us. Because visitors to our website are important, we do not capture personal information about them without their permission. We endeavor to collect only the minimum amount of information needed to meet the purposes for which the website was created.
 
