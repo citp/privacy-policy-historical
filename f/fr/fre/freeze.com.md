@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeze.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604072728id_/http%3A//www.freeze.com/snow/info/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeze.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401212227id_/http%3A//www.freeze.com/snow/info/policy.shtml) for the most accurate reproduction.*
 
 # F r e e z e . c o m : A new degree of free.
 
