@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the furniture.com privacy policy that was archived on 2002-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021211025514id_/http%3A//www.furniture.com/Common/CustomerService/policies/default.asp%238) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the furniture.com privacy policy that was archived on 2003-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401211027id_/http%3A//www.furniture.com/Common/CustomerService/policies/default.asp%238) for the most accurate reproduction.-->
 
 <html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="Welcome to the Web's best furniture store, where the convenience of online shopping is combined with the local service and quick delivery of the nation’s largest retailers. Shop our selection of thousands of items and get delivery in days not months!">
 <meta name="keywords" content="furniture, North Carolina furniture, fine furnishings, interiors designers, decorators, home office furniture, computer desks, affordable household, antique, upholstery, kids bunk, poster beds, bedrooms, nightstands, rococo mirrors, headboards, footboards, lofts, living rooms, sofas, tables, loungers, ottomans, sleepers, recliners, TV armoires, triple dressers, trunks, vanities, bombe, demi-lune, dining rooms, accent, chests, chinas, hutches, bakers racks, chairs, halls, highboys, lowboys, patios, outdoor furniture, Mexican furniture, rustic furniture, mission, neoclassical furniture, occasional furniture, oriental furniture, Queen Anne furniture, Shaker furniture, southwestern furniture, casual furniture, formal furniture, contemporary furniture, French furniture, country furniture, traditional furniture, transitional furniture, Victorian furniture, 18th furniture, 19th furniture, century furniture, cherry furniture, teak furniture, mahogany furniture, pine furniture, maple furniture, oak furniture, ash furniture, walnut furniture, pecan furniture, myrtle furniture, glass furniture, metal furniture, brass furniture, leather furniture, rattan furniture, wicker furniture, hand painted furniture, faux furniture, stone furniture, furniture, fernacher, fernature, fernicher, ferniture, firnature, firnicher, firniture, fornature, forniture, funiture, funriture, furiture, furnature, furneture, furnitue, furnriture, furntiure, furntiure, furniture, Seamans, Levitz,">
 <meta name="title" content="Furniture.com, the Web's best furniture store.">
@@ -13,171 +14,61 @@
 	<link rel="SHORTCUT ICON" href="http://www.furniture.com/favicon.ico">
 	<title>Furniture.com</title>	
 	<link href="http://static.furniture.com/Furniturecom/Style/global.css" rel="styleSheet" type="text/css">
-	<script language="JavaScript" type="text/javascript">
 	
-	var wPopUpWnd = null;
-var wFeaturesUpWnd = null;
-
-function jsNewWindow(jsTarget, jsWidth, jsHeight)
-{	
-	var strRndm = Math.random() * 10000;
+<script language="JavaScript" type="text/javascript">
+	// Customer
+	var Customer = new Array('Help|http://www.furniture.com/Common/CustomerService/help.asp|','Delivery and Set-up|http://www.furniture.com/Common/CustomerService/help.asp#46|','Tech Center|http://www.furniture.com/Common/CustomerService/tech.asp|','Policies|http://www.furniture.com/Common/CustomerService/policies/default.asp|','Track your Order|https://www.furniture.com/Common/Order/orders.asp|','Your Account |https://www.furniture.com/Common/Profile/account.asp|');
+	// Designe
+	var Designe =new Array('Showroom|http://www.furniture.com/Common/Advice/default.asp|','Ask a Question|http://www.furniture.com/Common/Advice/default.asp|','Room Planner|http://www.furniture.com/Common/RoomPlanner/default.asp|','Style Guide|/Common/StyleGuide/|','Advanced Search|http://www.furniture.com/Common/Search/advancedSearch.asp|');
+	// Magazine
+	var Magazine =new Array('Your Home Magazine|http://www.furniture.com/Common/Magazine/|','Reading Room|http://www.furniture.com/Common/magazine/reading_room/reading_room.asp|','Quicktips|http://www.furniture.com/Common/magazine/quicktips/quicktips.asp|');
 	
-	if (jsWidth == null)
-	{
-		jsWidth = 600;
-	}
-	if (jsHeight == null)
-	{
-		jsHeight = 400;
-	}
-	if (jsTarget.search(/\?/g) == -1)
-		{
-		jsTarget = jsTarget +  "?dft=" + strRndm;
-		}
-	else
-		{
-		jsTarget = jsTarget +  "&dft=" + strRndm;
-		}
-	window.open(jsTarget ,"","width=" + jsWidth + ",height=" + jsHeight + ",toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes");	
-
-}
-
-function jsShowPopUp(jsTarget, wndName, jsWidth, jsHeight)
-{
-	var strRndm = Math.random() * 10000
-	if (jsTarget.search(/\?/g) == -1)
-		{
-		jsTarget = jsTarget +  "?dft=" + strRndm;
-		}
-	else
-		{
-		jsTarget = jsTarget +  "&dft=" + strRndm;
-		}
-		
-	if (wndName == null)
-	{
-		wndName = "popUpWnd";
-	}
-	if (jsWidth == null)
-	{
-		jsWidth = 445;
-	}
-	if (jsHeight == null)
-	{
-		jsHeight = 600;
-	}
-
-	if (wPopUpWnd == null) {
-		wPopUpWnd = window.open(jsTarget ,wndName,"width=" + jsWidth + ",height=" + jsHeight + ",toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes");
-		wPopUpWnd.focus();
-	} 
-	else 
-	{
-		if (wPopUpWnd.closed) {
-			wPopUpWnd = null;
-			wPopUpWnd = window.open(jsTarget ,wndName,"width=" + jsWidth + ",height=" + jsHeight + ",toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes");
-			wPopUpWnd.focus();
-		} 
-		else 
-		{
-			wPopUpWnd.navigate(jsTarget );//??
-			wPopUpWnd.focus();
-		}
-	}
-}
-
-function wndViewPromotions()
-{
-	var strRndm = Math.random() * 10000;
-	var jsTarget = "/Common/Order/ViewPromotions.asp";
-	
-	if (jsTarget.search(/\?/g) == -1)
-		{
-		jsTarget = jsTarget +  "?dft=" + strRndm;
-		}
-	else
-		{
-		jsTarget = jsTarget +  "&dft=" + strRndm;
-		}
-		
-	wndViewPromotions = window.open(jsTarget,"newWnd","width=435,height=455,toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes");
-	wndViewPromotions.focus();
-	
-}
-
-function wndStore()
-{
-	var strRndm = Math.random() * 10000;
-	var jsTarget = "/Common/Search/FindStore.asp";
-	
-	if (jsTarget.search(/\?/g) == -1)
-		{
-		jsTarget = jsTarget +  "?dft=" + strRndm;
-		}
-	else
-		{
-		jsTarget = jsTarget +  "&dft=" + strRndm;
-		}
-	wndStore = window.open(jsTarget,"newWnd","width=435,height=585,toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes");
-}
-
-function wndStoreWithItem(aItemID)
-{
-	var strRndm = Math.random() * 10000;
-	var jsTarget = '/Common/Search/FindStore.asp?ItemID=' + aItemID;
-	
-	if (jsTarget.search(/\?/g) == -1)
-		{
-		jsTarget = jsTarget +  "?dft=" + strRndm;
-		}
-	else
-		{
-		jsTarget = jsTarget +  "&dft=" + strRndm;
-		}
-		
-	wndStore = window.open(jsTarget,'newWnd','width=385,height=490,toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes');
-	wndStore.focus();
-}
-
-
-
-function jsShowPopUp1(jsTarget, wndName, jsWidth, jsHeight)
-{
-	var strRndm = Math.random() * 10000;
-	
-	if (jsTarget.search(/\?/g) == -1)
-		{
-		jsTarget = jsTarget +  "?dft=" + strRndm;
-		}
-	else
-		{
-		jsTarget = jsTarget +  "&dft=" + strRndm;
-		}
- 	window.open(jsTarget,null,"width=" + jsWidth+ ",height=" + jsHeight + ",titlebar=no,toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes");
-}
-
-
-
-	<!--
-	function popUp(url) 
-	{
-	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-	self.name = "mainWin";
-	}
- 
-	function Rcertify() 
-	{
-	popupWin = window.open('http://www.bbbonline.org/cks.asp?id=102043010423276', 'Participant','location=yes,scrollbars=yes,width=450,height=300'); 
-	window.name = 'opener';
-	} 
-	//-->	
-	</script>
+	//Edge cache control
+	var searchResultURL = "http://www.furniture.com";
+	var SSLModeAbsoluteHost = "www.furniture.com";
+</script>
+	<script language="JavaScript" type="text/javascript" src="http://static.furniture.com/Furniturecom/include/default.js"></script>
 </head>
-<body topmargin="0" leftmargin="4" rightmargin="5" marginwidth="0" marginheight="0">
+<body topmargin="0" leftmargin="4" rightmargin="5" marginwidth="0" marginheight="0" onload="AddSessionToLinks('89A58B81-32DF-4D26-89CBDCF6C9CF2B5');">
 <table width="760" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>			
-			
+			<script language="JavaScript" type="text/javascript">
+<!--
+function getCookie(byname)
+{
+    byname=byname+"=";
+    nlen = byname.length;
+    fromN = document.cookie.indexOf(byname)+0;
+    cookieValue = ""
+    
+    if((fromN) != -1)
+    {
+    	fromN +=nlen
+        toN=document.cookie.indexOf(";",fromN)+0;
+        if(toN == -1) {toN=document.cookie.length;}
+        cookieValue = unescape(document.cookie.substring(fromN,toN));
+        
+        cookieValue = cookieValue.replace("+"," ");
+    }
+     
+    return cookieValue;
+}
+function documentWriteCustomerWelcome()
+{
+	var furnitureWebName = getCookie("FURNITUREWEBNAME");
+	
+	if ( furnitureWebName == "" )
+	{
+		document.write( "Welcome !");	
+	}
+	else
+	{
+		document.write( "Welcome, " + furnitureWebName);
+	}
+}
+//-->
+</script>
 <table cellpadding="0" cellspacing="0" border="0" width="761">
 	<tbody><tr>
 		<td width="21">&nbsp;</td>
@@ -191,10 +82,9 @@ function jsShowPopUp1(jsTarget, wndName, jsWidth, jsHeight)
 				<tbody><tr>
 					<td nowrap="" align="right" background="http://static.furniture.com/common/images/yellow_back.gif" height="16">
 					
-&nbsp;<b>You are shopping for ZIP:</b>&nbsp;<b>ALL</b>&nbsp;
+&nbsp;<b>You are shopping for ZIP:</b>&nbsp;ALL&nbsp;
+				<font size="1"><a href="JavaScript:jsNewWindow('http://www.furniture.com/Common/Profile/ChangeZipCode.asp', 300, 120);">Change Zip</a>&nbsp;
 
-					
-				<font size="1"><a href="JavaScript:jsNewWindow('/Common/Profile/ChangeZipCode.asp', 300, 120);">Change Zip</a>&nbsp;
 				</font></td>
 				</tr>
 				<tr height="4px">
@@ -204,12 +94,12 @@ function jsShowPopUp1(jsTarget, wndName, jsWidth, jsHeight)
 				<tr>				
 					<td>
 						<table border="0" cellpadding="0" cellspacing="0">
-						<form method="POST" action="/common/search/SearchResult.asp"></form>
+						<form method="POST" action="http://www.furniture.com/common/search/SearchResult.asp"></form>
 							<tbody><tr>				
 								<td width="100">&nbsp;</td>
 
 								<td background="http://static.furniture.com/common/images/register_back.gif" align="right" colspan="2" width="335" height="20">
-									Welcome !
+									<script language="JavaScript" type="text/javascript">documentWriteCustomerWelcome();</script>Welcome !
 									<map name="register">
 									
 										<area shape="rect" alt="Login" coords="62,0,100,13" href="https://www.furniture.com/Common/profile/login.asp">
@@ -252,118 +142,10 @@ function jsShowPopUp1(jsTarget, wndName, jsWidth, jsHeight)
 <!--this scales the entire table-->
 							<tbody><tr>
 								<td>
-									
-
-<style type="text/css">.pgtxt {
-	COLOR: #000000; FONT: 13px/15px arial,helvetica,sans-serif;
-	TEXT-DECORATION: none
-
-
-}
-A.pgtxt:hover{
-	COLOR: #111111
-}
-
-}
+									<style type="text/css">
+	.pgtxt {COLOR: #000000; FONT: 13px/15px arial,helvetica,sans-serif;TEXT-DECORATION: none}
+	A.pgtxt:hover{COLOR: #111111}
 </style>
-
-<script language="javascript"><!--
-var NS3=((navigator.appName=='Netscape')&&parseInt(navigator.appVersion)>=3&&parseInt(navigator.appVersion)<4);
-var NS4=(document.layers)?1:0; var IE=(document.all)?1:0;
-var IE4=(document.all&&!document.getElementById)?1:0;
-var IE5=(document.all&&document.getElementById)?1:0;
-var NS6=(document.getElementById&&!document.all)?1:0;
-var DHTML=(IE||NS4||NS6)?1:0;
-var DOM=(IE5||NS6)?1:0;
-var MAC=(navigator.userAgent.indexOf('Mac')!=-1)?1:0;
-var IEMAC=(MAC&&IE)?1:0;
-var IE4MAC=(IEMAC&&(navigator.appVersion.indexOf('4.',4)!=-1))?1:0;
-var IE5MAC=(IEMAC&&(navigator.appVersion.indexOf('5.')!=-1))?1:0;
-var cacheArray=new Array(0);
-function imageGroup() {  if (this.total==null) { this.add=imageGroup; if (!document.images) return; this.total=this.cached=this.rollovers=0; this.names=new Array(0); this.urls=new Array(0); this.count=new Array(0); this.i=new Object(); this.index=cacheArray.length; cacheArray[this.index]=this; this.defURL=''; } var a,j,k,args=arguments; for (j=0; j<args.length; j++) { k=this.total; a=args[j].split('|'); this.names[k]=a[0]; this.urls[k]=this.defURL+a[1]; this.total++; } }
-function loadImages() { if (document.images) { var j,c=cacheArray; for (j=0; j<c.length; j++) loadGroup(c[j]); } }
-var menuCount=0; var cSig=0; var selectorON=0; var scrollTicks=0; var st=0; var scrollTop=0; var rate=20; var dragt=0; var distYt=0; var thumbTop=0;
-function blurOut(anc) { anc.blur(); }
-
-layers = new Object(); layers.EQ=new Array();
-hidden=(NS4)?'hide':'hidden'; visible=(NS4)?'show':'visible';
-function getLayer(spec,base) { if (!NS4) return getIt(spec); var j=0,temp=null; if (!base) base=document; if (base.layers[spec]) return base.layers[spec]; for (j=0; j<base.layers.length; j++) { temp=getLayer(spec,base.layers[j].document); if (temp) return temp; } return null; }
-function equalizeLayers(n) { var k,l; var list=(n==null)?layers.EQ:arguments; for (k=0; k<list.length; k++) {l=getLayer(list[k]); if(l) equalize(l); } if (n==null) layers.EQ=new Array(); }
-function getIt(id) { if (IE) return document.all[id]; if (NS6) return document.getElementById(id); }
-function equalize(layer) { if (layers[layer.id]) return;
-  layer.vis = new Function("n","if (n!=null) { this.style.visibility=(n)?visible:hidden; if (NS6) {this.style.zIndex=(n)?this.z:eval(this.z)-1;} } return((this.style.visibility==visible)?1:0);");
-  layers[layer.id]=layer; if (NS4)layer.style=layer; if (NS6) { layer.z=layer.style.zIndex; if(layer.style.visibility==hidden)layer.vis(0); } }
-function layerTag(id,content,vis,z,l,t,w,h,extra,es) { if (!DHTML) return(''); layers.EQ[layers.EQ.length]=id; if(w==0)w=1; if(!t)t=0; if(!l)l=0; if ((vis==null)||(vis==1))vis=visible; if(vis==0)vis=hidden; if(!z)z=10; if(!extra)extra=''; if(!es)es='';
-  if (!NS4) {var stuff = '<DIV ID="'+id+'" STYLE="position:absolute; left:'+l+'px; top:'+t+'px;'+((w)?(' width:'+w+((isNaN(w))?'':'px')+';'):'')+((h)?(' height:'+h+((isNaN(h))?'':'px')+';'):'')+' visibility:'+vis+'; z-index:'+z+'; '+es+'" '+extra+'>'; }
-  if (NS4)  {var stuff = '<LAYER NAME="'+id+'" left="'+l+'" top="'+t+'"'+((w)?(' width="'+w+'"'):'')+((h)?(' height="'+h+'"'):'')+' visibility="'+vis+'" z-index="'+z+'" '+extra+'>'; } return (stuff+content+((NS4)?'</LAYER>':'</DIV>')); }
-function writeLayer(id,content,vis,z,l,t,w,h,extra,es) { this.writeln(layerTag(id,content,vis,z,l,t,w,h,extra,es)); equalizeLayers(); return(layers[id]); }
-
-//
-function PromptOff(obj)
-{
-obj.style.backgroundColor="#e1ca6f";
-}
-function PromptOn(obj)
-{
-obj.style.backgroundColor="#000000";
-}
-
-//if (DHTML) document.newLayer=writeLayer;
-
-//------------
-
-if (DHTML) document.newLayer=writeLayer;
-
-curMenu=null; hideTimer=10;
-
-nsFix=0;
-function showMenu(n) { if (NS4) { if (nsFix==1) nsFix=2; else nsFix=1; } clearTimeout(hideTimer); if (n==curMenu)return; var l=layers[n]; var m=layers[n+'nav']; if (!l)return; if (curMenu!=null){ layers[curMenu].vis(0); layers[curMenu+'nav'].vis(0); } l.vis(1); m.vis(1); curMenu=n; }
-function hideMenu(n) { if (NS4) {if (nsFix==2) {nsFix=0; return;}  nsFix=0;} clearTimeout(hideTimer); if (curMenu==null)return; if (n) { layers[curMenu].vis(0); layers[curMenu+'nav'].vis(0); curMenu=null; } else { hideTimer=setTimeout("hideMenu(1);",500); } }
-
-
-var tabletop2='<TABLE BGCOLOR="#eeeeee" BORDER="0" CELLPADDING="2" CELLSPACING="0" WIDTH="120">';
-tabletop2+='<TR><TD VALIGN="top"></TD>';
-tabletop2+='<TD BGCOLOR="#eeeeee"><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="150">';
-
-
-var tablebot='</TD></TR></TABLE>';
-tablebot+='</TD></TR></TABLE>';
-
-function buildroll(n,link,alt)
-{ var build='<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="120"><TR><TD VALIGN="top"><A HREF="'+link+'"></A></TD></TR></TABLE>'; return(build); }
-
-
-
-
-
-//------------
-
-
-//curMenu=null; hideTimer=10;
-
-//nsFix=0;
-//function showMenu(n) { if (NS4) { if (nsFix==1) nsFix=2; else nsFix=1; } clearTimeout(hideTimer); if (n==curMenu)return; var l=layers[n]; var m=layers[n+'nav']; if (!l)return; if (curMenu!=null){ layers[curMenu].vis(0); layers[curMenu+'nav'].vis(0); } l.vis(1); m.vis(1); curMenu=n; }
-//function hideMenu(n) { if (NS4) {if (nsFix==2) {nsFix=0; return;}  nsFix=0;} clearTimeout(hideTimer); if (curMenu==null)return; if (n) { layers[curMenu].vis(0); layers[curMenu+'nav'].vis(0); curMenu=null; } else { hideTimer=setTimeout("hideMenu(1);",500); } }
-
-function debug()
-{
-ss= Mainmenu.style.top;
-}
-//--></script>
-
-<script language="javascript"><!--
-// Customer
-var Customer =new Array('Help|http://www.furniture.com/Common/CustomerService/help.asp|','Delivery and Set-up|http://www.furniture.com/Common/CustomerService/help.asp#46|','Tech Center|http://www.furniture.com/Common/CustomerService/tech.asp|','Policies|http://www.furniture.com/Common/CustomerService/policies/default.asp|','Track your Order|https://www.furniture.com/Common/Order/orders.asp|','Your Account |https://www.furniture.com/Common/Profile/account.asp|');
-
-
-// Designe
-var Designe =new Array('Showroom|/Common/Advice/default.asp|','Ask a Question|/Common/Advice/default.asp|','Room Planner|/Common/RoomPlanner/default.asp|','Style Guide|/Common/StyleGuide/|','Advanced Search|/Common/Search/advancedSearch.asp|');
-
-// Magazine
-var Magazine =new Array('Your Home Magazine|/Common/Magazine/|',
-'Reading Room|/Common/magazine/reading_room/reading_room.asp|',
-'Quicktips|/Common/magazine/quicktips/quicktips.asp|');
-//--></script>
 
 <div id="Mainmenu">
 <table id="MenuBar" border="0" cellspacing="0" cellpadding="0" width="758">
@@ -390,31 +172,44 @@ var Magazine =new Array('Your Home Magazine|/Common/Magazine/|',
 		<td valign="top" width="1"><img src="http://static.furniture.com/Common/images/vertical_divider.gif" border="0" width="1" height="19"></td>
 		
 		<td valign="top" align="center" width="110">
-		<a href="http://www.furniture.com/Common/Order/shoppingcart.asp?se=50" onmouseout="hideMenu();" onmouseover="showMenu();hideMenu('Magazine');">
+		<a href="http://www.furniture.com/Common/Order/shoppingcart.asp?se=45" onmouseout="hideMenu();" onmouseover="showMenu();hideMenu('Magazine');">
 		<img src="http://static.furniture.com/common/images/shopping_nav.gif" alt="Buy now or save items for later" border="0" vspace="4" width="96" height="14"></a></td>
 		<script language="javascript">
 
 function JumpMenu()
 {
 	if (document.jumpmenu.CatID.selectedIndex > 0)
+	{
+		if (document.jumpmenu.CatID[document.jumpmenu.CatID.selectedIndex].value.toString() == '2905')
+		{
+			document.jumpmenu.action = 'http://www.furniture.com/common/search/SearchCmbBed.asp';
+		}
+		else
+		{
+			document.jumpmenu.action = 'http://www.furniture.com/common/search/SearchCombined.asp';
+		}
+		
+		
 		document.jumpmenu.submit();
+	}
 }
 
 </script>
 
-<form action="http://www.furniture.com/common/search/SearchCombined.asp" name="jumpmenu" method="get"></form>
+<form action="" name="jumpmenu" method="get"></form>
 <td width="260" valign="middle" align="right">
 <select name="CatID" onchange="JumpMenu();">
 	<option value="">Shop For ...</option>
 	<option value="15">Bedrooms</option>
+	<option value="60">Dining Rooms</option>
 	<option value="20">Upholstery </option>
 	<option value="16">Leather</option>
-	<option value="19">Occasional Tables</option>
+	<option value="21">Casual Dining</option>
 	<option value="18">Entertainment/Wall Units</option>
 	<option value="438">Motion Furniture</option>
-	<option value="60">Dining Rooms</option>
-	<option value="21">Casual Dining</option>
-	<option value="761">Kid's Furniture</option>
+	<option value="761">Kids' Furniture</option>
+	<option value="2905">Mattresses and Bedding</option>	
+	<option value="19">Occasional Tables</option>	
 	<option value="22">Home Office</option>
 	<option value="26">Lighting</option>
 </select>
@@ -422,70 +217,7 @@ function JumpMenu()
 		
 	</tr>
 </tbody></table>
-		
-
- </div>     
-<script type="text/javascript">
-<!-- Begin
-//"#e1ca6f"
-var tabletop='<TABLE BGCOLOR="#eeeeee" BORDER="0" CELLPADDING="2" CELLSPACING="0" WIDTH="120">';
-tabletop+='<TR><TD VALIGN="top"></TD>';
-//tabletop+='<TD><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">';
-//tabletop+='<TR><TD COLSPAN="4"></TD></TR>';
-//tabletop+='<TR><TD COLSPAN="4"></TD></TR>';
-//tabletop+='<TR><TD BGCOLOR="#e1ca6f">';
-tabletop+='<TD BGCOLOR="#eeeeee"><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="140">';
-//tabletop+='<TR><TD ONMOUSEOVER=this.bgColor="#999999" ONMOUSEOUT=this.bgColor="#EEEEEE">';
-
-//var tablebot='</TABLE>';
-var tablebot='</TD></TR></TABLE>';
-//tablebot+='<TD BGCOLOR="#ffffcc"></TD>';
-//tablebot+='<TD BGCOLOR="#ff9900"></TD></TR>';
-//tablebot+='</TABLE></TD></TR>';
-//tablebot+='<TR><TD COLSPAN="2" ALIGN="right"></TD></TR>';
-tablebot+='</TD></TR></TABLE>';
-
-var xx=getIt("MenuBar");
-//xx=MenuBar.offsetTop+MenuBar.offsetHeight;
-var build=buildroll('Customer','/Common/CustomerService/default.asp','Customer');
-
-document.newLayer('Customernav',build,0,1,10,xx,null,null,'ONMOUSEOVER="showMenu(\'Customer\');" ONMOUSEOUT="hideMenu();"');
-var build='';
-for (x=0; x<Customer.length; x++) { var a=Customer[x].split('|');
-build+='<TR>';
-build+='<TD ONMOUSEOVER=this.bgColor="#999999" ONMOUSEOUT=this.bgColor="#EEEEEE"><A HREF="'+a[1]+'" CLASS="pgtxt">'+a[0]+'</A>'+a[2]+'</TD></TR>'; }
-document.newLayer('Customer',tabletop+build+tablebot,0,1,82,xx,null,null,'ONMOUSEOVER="showMenu(\'Customer\');" ONMOUSEOUT="hideMenu();"');
-
-// Design
-var build=buildroll('Designe','/advice/default.asp','Designe');
-document.newLayer('Designenav',build,0,1,10,xx,null,null,'ONMOUSEOVER="showMenu(\'Designe\');" ONMOUSEOUT="hideMenu();"');
-var build='';
-for (x=0; x<Designe.length; x++) { var a=Designe[x].split('|');
-build+='<TR>';
-build+='<TD ONMOUSEOVER=this.bgColor="#999999" ONMOUSEOUT=this.bgColor="#EEEEEE"><A HREF="'+a[1]+'" CLASS="pgtxt">'+a[0]+'</A>'+ a[2]+ '</TD></TR>'; }
-document.newLayer('Designe',tabletop+build+tablebot,0,1,208,xx,null,null,'ONMOUSEOVER="showMenu(\'Designe\');" ONMOUSEOUT="hideMenu();"');
-
-// Magazine
-var build=buildroll('Magazine','/magazine/','Magazine');
-document.newLayer('Magazinenav',build,0,1,285,xx,null,null,'ONMOUSEOVER="showMenu(\'Magazine\');" ONMOUSEOUT="hideMenu();"');
-var build='';
-for (x=0; x<Magazine.length; x++) { var a=Magazine[x].split('|');
-build+='<TR>';
-build+='<TD ONMOUSEOVER=this.bgColor="#999999" ONMOUSEOUT=this.bgColor="#EEEEEE" ><A HREF="'+a[1]+'" CLASS="pgtxt" >'+a[0]+'&nbsp;&nbsp;</A>'+a[2]+'</TD></TR>'; }
-document.newLayer('Magazine',tabletop+build+tablebot,0,1,320,xx,null,null,'ONMOUSEOVER="showMenu(\'Magazine\');" ONMOUSEOUT="hideMenu();" ');
-
-//
-function buildroll(n,link,alt)
-{ var build='<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="120"><TR><TD VALIGN="top"><A HREF="'+link+'"></A></TD></TR></TABLE>'; return(build); }
-
-
-// End -->
-</script><div id="Customernav" style="position: absolute; left: 10px; visibility: hidden; z-index: 0;" onmouseover="showMenu('Customer');" onmouseout="hideMenu();"><table border="0" cellpadding="0" cellspacing="0" width="120"><tbody><tr><td valign="top"><a href="/Common/CustomerService/default.asp"></a></td></tr></tbody></table></div>
-<div id="Customer" style="position: absolute; left: 82px; visibility: hidden; z-index: 0;" onmouseover="showMenu('Customer');" onmouseout="hideMenu();"><table bgcolor="#eeeeee" border="0" cellpadding="2" cellspacing="0" width="120"><tbody><tr><td valign="top"></td><td bgcolor="#eeeeee"><table border="0" cellpadding="0" cellspacing="0" width="140"><tbody><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="http://www.furniture.com/Common/CustomerService/help.asp" class="pgtxt">Help</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="http://www.furniture.com/Common/CustomerService/help.asp#46" class="pgtxt">Delivery and Set-up</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="http://www.furniture.com/Common/CustomerService/tech.asp" class="pgtxt">Tech Center</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="http://www.furniture.com/Common/CustomerService/policies/default.asp" class="pgtxt">Policies</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="https://www.furniture.com/Common/Order/orders.asp" class="pgtxt">Track your Order</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="https://www.furniture.com/Common/Profile/account.asp" class="pgtxt">Your Account </a></td></tr></tbody></table></td></tr></tbody></table></div>
-<div id="Designenav" style="position: absolute; left: 10px; visibility: hidden; z-index: 0;" onmouseover="showMenu('Designe');" onmouseout="hideMenu();"><table border="0" cellpadding="0" cellspacing="0" width="120"><tbody><tr><td valign="top"><a href="/advice/default.asp"></a></td></tr></tbody></table></div>
-<div id="Designe" style="position: absolute; left: 208px; visibility: hidden; z-index: 0;" onmouseover="showMenu('Designe');" onmouseout="hideMenu();"><table bgcolor="#eeeeee" border="0" cellpadding="2" cellspacing="0" width="120"><tbody><tr><td valign="top"></td><td bgcolor="#eeeeee"><table border="0" cellpadding="0" cellspacing="0" width="140"><tbody><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="/Common/Advice/default.asp" class="pgtxt">Showroom</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="/Common/Advice/default.asp" class="pgtxt">Ask a Question</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="/Common/RoomPlanner/default.asp" class="pgtxt">Room Planner</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="/Common/StyleGuide/" class="pgtxt">Style Guide</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="/Common/Search/advancedSearch.asp" class="pgtxt">Advanced Search</a></td></tr></tbody></table></td></tr></tbody></table></div>
-<div id="Magazinenav" style="position: absolute; left: 285px; visibility: hidden; z-index: 0;" onmouseover="showMenu('Magazine');" onmouseout="hideMenu();"><table border="0" cellpadding="0" cellspacing="0" width="120"><tbody><tr><td valign="top"><a href="/magazine/"></a></td></tr></tbody></table></div>
-<div id="Magazine" style="position: absolute; left: 320px; visibility: hidden; z-index: 0;" onmouseover="showMenu('Magazine');" onmouseout="hideMenu();"><table bgcolor="#eeeeee" border="0" cellpadding="2" cellspacing="0" width="120"><tbody><tr><td valign="top"></td><td bgcolor="#eeeeee"><table border="0" cellpadding="0" cellspacing="0" width="140"><tbody><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="/Common/Magazine/" class="pgtxt">Your Home Magazine&nbsp;&nbsp;</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="/Common/magazine/reading_room/reading_room.asp" class="pgtxt">Reading Room&nbsp;&nbsp;</a></td></tr><tr><td onmouseover="this.bgColor=&quot;#999999&quot;" onmouseout="this.bgColor=&quot;#EEEEEE&quot;"><a href="/Common/magazine/quicktips/quicktips.asp" class="pgtxt">Quicktips&nbsp;&nbsp;</a></td></tr></tbody></table></td></tr></tbody></table></div>
+</div>     
 
 			
 								</td>
@@ -629,7 +361,7 @@ here </a> to learn how Furniture.com’s 100% Security Guarantee goes even furth
 No parties other than Furniture.com collect information on our site.  We do not sell, rent, share, trade or give away any of the information you provide to us except to the financial institutions processing your payment or your financing application and the retailers / shippers that produce and/or deliver your order. No third party will solicit you as a result of information within our control.<br><br>
 
 It is true that the information you provide is subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.  Other than these fairly extreme cases, your personal information will be shared with no one.<br><br>   
-Use the links on our Help page to contact us. In addition, you can write to us at privacy@furniture.com with comments or to ask for information about this privacy policy. Any e-mail you send us is kept confidential and will not be posted on our site without your written permission.</td>
+Use the links on our Help page to contact us. In addition, you can write to us at customerservice@furniture.com with comments or to ask for information about this privacy policy. Any e-mail you send us is kept confidential and will not be posted on our site without your written permission.</td>
 </tr>
 <tr><td colspan="2"><p>&nbsp;</p></td></tr>
 <tr>
@@ -647,7 +379,7 @@ Yes. You can set your browser not to accept cookies, but remember that cookies m
 </tr>
 <tr>
 <td colspan="2">
-To change, correct, or update information about you or your order prior to shipment, please access the “My Account” area of our website.  Alternatively, contact us at privacy@furniture.com.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </td>
+To change, correct, or update information about you or your order prior to shipment, please access the “My Account” area of our website.  Alternatively, contact us at customerservice@furniture.com.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </td>
 </tr>
 <tr><td colspan="2"><p>&nbsp;</p></td></tr>
 <tr>
@@ -823,7 +555,7 @@ For your security, Furniture.com uses the industry-standard Secure Sockets Layer
 <tbody><tr>
 	<td align="center" nowrap="" colspan="3">
 		<font size="1">
-		<a href="/">Home</a> | <nobr>
+		<a href="http://www.furniture.com/">Home</a> | <nobr>
 		<a href="http://www.furniture.com/Common/Search/advancedSearch.asp">Advanced Search</a> | </nobr><nobr>
 		<a href="http://www.furniture.com/Common/Styleguide/">Style Guide</a> |  </nobr><nobr>
 		
@@ -833,11 +565,11 @@ For your security, Furniture.com uses the industry-standard Secure Sockets Layer
 		<a href="https://www.furniture.com/Common/profile/profile.asp">Register</a> 
 
 | </nobr><nobr>
-<font size="1"><a href="JavaScript:jsNewWindow('/Common/Profile/ChangeZipCode.asp', 300, 120);">On Sale!</a>&nbsp;
+<font size="1"><a href="JavaScript:jsNewWindow('http://www.furniture.com/Common/Profile/ChangeZipCode.asp', 300, 120);">On Sale!</a>&nbsp;
 		<br>	
 		<a href="http://www.furniture.com/Common/CustomerService/help.asp">FAQ's</a> | </font></nobr><font size="1"><nobr>
-<a href="JavaScript:wndStore();">Find Store</a> | </nobr><nobr>
-	<a href='JavaScript:jsNewWindow("/Common/Messaging/feedback.asp",445,348);'>Feedback</a> | </nobr><nobr>
+<a href="JavaScript:jsNewWindow('http://www.furniture.com/Common/Search/FindStore.asp', 450, 485);">Find Store</a> | </nobr><nobr>
+	<a href='JavaScript:jsNewWindow("http://www.furniture.com/Common/Messaging/feedback.asp",445,348);'>Feedback</a> | </nobr><nobr>
 
 <!--	<a href="https://www.furniture.com/common/profile/login.asp">Feedback</a> | <nobr>-->
 	
@@ -870,12 +602,12 @@ For your security, Furniture.com uses the industry-standard Secure Sockets Layer
 			</tr>
 		</tbody></table>
 		<br>	
-		<font size="1">Copyright 2002 Furniture.com, Inc.</font>
+		<font size="1">Copyright 2002 - 2003 Furniture.com, Inc.</font>
 	</td>
-	<td align="left"><a href="javascript:popUp('https://digitalid.verisign.com/as2/4fb303b66ece42139f9b65ae3ccc4833')"><img src="http://static.furniture.com/common/images/VeriSignSealSmall.gif" border="0" alt="Click to Verify"></a></td>
+	<td align="left"><a href="javascript:popUp('https://digitalid.verisign.com/as2/026e91c4ee7da5254d3e46fd80bb7582')"><img src="http://static.furniture.com/common/images/VeriSignSealSmall.gif" border="0" alt="Click to Verify"></a></td>
 </tr>
 </tbody></table>
-<!--65.214.49.199-->
+<!--65.214.49.229-->
 			<br>						
 		</td>									
 	</tr>		
@@ -883,20 +615,6 @@ For your security, Furniture.com uses the industry-standard Secure Sockets Layer
 
 
 
-<!-- Fireclick Netflame -->
-<script language="javascript">
-function handle(){return true;}
-window.onerror=handle;
-var fc_host='www.furniture.com';
-document.write('<scr'+'ipt '
-+'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
-+'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
-function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
-var fcfn=window.onload;
-function fcco(){window.setTimeout("fcce();", 100);fcfn();}
-window.onload= null==fcfn ? fcce:fcco;
-</script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.furniture.com"></script>
-<!-- Fireclick Netflame -->
 
 
 	
