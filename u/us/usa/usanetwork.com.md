@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usanetwork.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616172211id_/http%3A//www.usanetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usanetwork.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208091716id_/http%3A//www.usanetwork.com/privacy) for the most accurate reproduction.*
 
 # USA NETWORK | Privacy Policy
 
@@ -40,7 +40,7 @@ NBC Universal may disclose user information in special cases when we have reason
 By clicking on the "Unsubscribe" link above, you may opt-out of receiving future communications by checking any box or boxes on the page and then hitting submit.
 
 **Questions:**  
-If you have any questions about this privacy policy or any matter pertaining to the use of your personal information on this site, other than how to opt-out from mailings, please send an e-mail to [feedback@usanetwork.com](mailto:feedback@usanetwork.com).
+If you have any questions about this privacy policy or any matter pertaining to the use of your personal information on this site, other than how to opt-out from mailings, please send an e-mail to [webmaster@usanetwork.com](mailto:webmaster@usanetwork.com).
 
 **Your Acceptance of These Terms:** By using NBC Universal's sites, you signify your acceptance of the NBC Universal's Privacy Policy and the privacy policy of any of the particular NBC Universal site you visit. If you do not agree to this policy, please do not use our sites. NBC Universal reserves the right to modify, alter or otherwise update this policy at any time, so visitors are encouraged to review this policy from time to time. Your continued use of the NBC Universal sites following the posting of changes to these terms will mean you accept those changes.
 
