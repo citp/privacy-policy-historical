@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinehere.ca privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206231758id_/http%3A//www.dinehere.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinehere.ca privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305060352id_/http%3A//www.dinehere.ca/privacy.asp) for the most accurate reproduction.*
 
 # dinehere.ca Privacy Policy
 
