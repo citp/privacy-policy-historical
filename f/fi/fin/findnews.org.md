@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findnews.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206224219id_/http%3A//findnews.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findnews.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603093103id_/http%3A//findnews.org/privacy-policy.html) for the most accurate reproduction.*
 
 # FindNews.org : Privacy Policy
 
