@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624124915id_/http%3A//installshield.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206203504id_/http%3A//www.installshield.com/company/privacy.asp) for the most accurate reproduction.*
 
 # InstallShield - Privacy Policy
 
