@@ -1,796 +1,50 @@
-<!--The following is the downloaded HTML source of the restaurant.com privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208083133id_/http%3A//www.restaurant.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the restaurant.com privacy policy that was archived on 2003-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030608172108id_/http%3A//www.restaurant.com/about/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>Restaurant.com Where to Eat</title>
+<html><head><title></title>
 <meta name="keywords" content="restaurant.com, meals, food, cuisine, restaurant, menu, dining, reservations, recipes, catering, vegetarian, barbecue, american, spanish, chinese, german, thai, japanese, indian, italian, french, greek, mexican, chef, bars, pubs, breakfast, brunch, lunch, dinner, bakery, buffet, deli, pizza, hamburger, bagels, catering, banquet">
 
-<script language="JavaScript">
-<!--  //
-var numOfLogos = 16; 			// The number of logo images available to randomize from 0 to (numOfLogos -1)
-var numOfFoodPics = 139;
-var numOfMainPics = 12;
-var bMmaSearch;
-bMmaSearch = false;
 
-function preload(){
-	if(document.images['my'])
-	{
-		h1 = new Image(); 	
-		h1.src = "/images/my_on.gif";
-		h2 = new Image();
-		h2.src = "/images/corp_on.gif";
-		h3 = new Image();
-		h3.src = "/images/gift_on.gif";
-		h4 = new Image();
-		h4.src = "/images/menu_on.gif";
-		logo = new Image();
-		logo.src ="/images/top_left_logos/logotype_on.gif";
-	}
-}
-
-function home_over(img) {
-  imgOver = img + "_on.gif";
-  document.images[img].src = "/images/" + imgOver;
-}       
-
-function home_out(img) {
-  imgOut = img + "_off.gif";
-  document.images[img].src = "/images/" + imgOut;
-}
-
-function logoRotate(){
-//this fuction gives a new logo everytime a page loads
-	if(document.images['logo'] )
-	{
-		var r_num = (Math.floor( Math.random() * numOfLogos) );
-		logoImg = "/images/top_left_logos/logo_" + r_num + ".gif";
-		document.images['logo'].src = logoImg;
-	}
-}  
-
-function foodRotate(){
-//this fuction gives a new food picture everytime a page loads
-//and depending on the time of day. 
-	var hour;
-	dt = new Date();
-	var hourOfDay = dt.getHours();
-	var r_numFood = (Math.floor( Math.random() * numOfFoodPics) );
-	var r_numMain = (Math.floor( Math.random() * numOfMainPics) );
-	if(hourOfDay < 10)
-		hour = "am";
-	else
-	{
-		if(hourOfDay < 14)
-			hour= "noon";
-		else
-			hour = "pm";
-	}
-	var imgMainName = "/images/home_main/home_" + hour + "_" + r_numMain + ".jpg";
-	var imgFoodName = "/images/home_food/food_" + hour +"_" + r_numFood + ".jpg";
-	if(document.images['food'] )
-	{
-		document.images['food'].src = imgFoodName;
-	}
-	if(document.images['main'] )
-	{
-		document.images['main'].src = imgMainName;
-	}
-} 
-function checkForMMA(form)
-{
-    if (form.MMA.selectedIndex == 0)
-    {
-      alert("Please select a Major Metropolitan Area.");
-      return false;
-    }
-    if (bMmaSearch == true)
-    {
-      bMmaSearch = false;
-      return false;
-	}
-
-    return true;
-} 
-
-function checkforebaymma(form)
-{
-    if (form.ebayMMA.selectedIndex == 0)
-    {
-      alert("Please select a Major Metropolitan Area.");
-      return false;
-    }
-    if (bMmaSearch == true)
-    {
-      bMmaSearch = false;
-      return false;
-	}
-
-    return true;
-} 
-
-//A. Macias
-function checkForMMARestName(form, iCheck)
-{
-  bMmaSearch = false;
-  if (iCheck == 0)
-  {
-    sASMRestoName = form.RestaurantName.value;
-    if (sASMRestoName == '')
-    {
-      alert("Please enter a Restaurant Name.");
-      bMmaSearch = true;
-    }
-    else
-    {
-      if (form.Neighborhood.selectedIndex)
-        form.Neighborhood.selectedIndex = 0;
-      if (form.CuisineType)
-        form.CuisineType.selectedIndex = 0;
-      if (form.ServiceType)
-        form.ServiceType.selectedIndex = 0;
-      if (form.Atmosphere)
-        form.Atmosphere.selectedIndex = 0;
-      if (form.Amenity)
-        form.Amenity.selectedIndex = 0;
-      if (form.MealTime)
-        form.MealTime.selectedIndex = 0;
-      if (form.SpecialNeed)
-        form.SpecialNeed.selectedIndex = 0;
-      if (form.CateringOption)
-        form.CateringOption.selectedIndex = 0;
-
-      return true;
-    }
-  }
-  else
-  {
-    if (form.Neighborhood.selectedIndex)
-    {
-	  if (form.Atmosphere)
-	  {
-        if (form.Neighborhood.selectedIndex == 0 &&
-			form.CuisineType.selectedIndex == 0 && 
-            form.ServiceType.selectedIndex == 0 &&
-            form.Atmosphere.selectedIndex == 0 &&
-            form.Amenity.selectedIndex == 0 &&
-            form.MealTime.selectedIndex == 0 &&
-            form.SpecialNeed.selectedIndex == 0)
-			  bMmaSearch = true;
-	  }
-	  else
-	  {
-        if (form.Neighborhood.selectedIndex == 0 &&
-            form.CuisineType.selectedIndex == 0 && 
-            form.ServiceType.selectedIndex == 0)
-			  bMmaSearch = true;
-	  }
-    }
-    else
-    {
-	  if (form.Atmosphere && ! form.CateringOption)
-	  {
-        if (form.CuisineType.selectedIndex == 0 && 
-            form.ServiceType.selectedIndex == 0 &&
-            form.Atmosphere.selectedIndex == 0 &&
-            form.Amenity.selectedIndex == 0 &&
-            form.MealTime.selectedIndex == 0 &&
-            form.SpecialNeed.selectedIndex == 0)
-			  bMmaSearch = true;
-	  }
-	  else if (form.Atmosphere && form.CateringOption)
-	  {
-        if (form.CuisineType.selectedIndex == 0 &&
-            form.CateringOption.selectedIndex == 0 && 
-            form.Atmosphere.selectedIndex == 0 &&
-            form.Amenity.selectedIndex == 0 &&
-            form.MealTime.selectedIndex == 0 &&
-            form.SpecialNeed.selectedIndex == 0)
-			  bMmaSearch = true;
-	  }
-	  else if (!form.Atmosphere && form.CateringOption)
-	  {
-        if (form.CateringOption.selectedIndex == 0 && 
-            form.CuisineType.selectedIndex == 0)
-              bMmaSearch = true;	    
-	  }
-	  else
-	  {
-        if (form.CuisineType.selectedIndex == 0 && 
-            form.ServiceType.selectedIndex == 0)
-              bMmaSearch = true;
-      }
-    }
-
-    if (bMmaSearch == true)
-      alert("Please select at least one criterion to search by.");
-    else
-    {
-      form.RestaurantName.value = '';
-      return true;
-    }
-  }
-}
-
-function checkForReqFields(form,selectFlag)
-{
-  //Author: Lupo Chambaka 03/03/2000
-  //Validates Form Inputs.
-  var City;
-  var ZipCode;
-  var CityLength;
-  var CityDummy;
-  var i;
-  var j;
-  
-
-//added6/1/00 to correct for using with select box instead of
-//text box for City name on oops.asp page. (sstoddard)
-  if( selectFlag )  
-  {
-  	  var indx = form.City.selectedIndex;
-	  if( indx > -1 )
-		   City = form.City.options[indx].value;
-  }
-  else
-  	City = form.City.value;
-	
-  CityLength = String(City).length;
-  ZipCode = form.ZipCode.value;
-
-//added6/1/00 to correct netscape skipping City=null case as
-//not the same as City =="" (sstoddard)
-  if(City =="null" ||City==null  ) 
-   	City="";
-	
-// City + State Validation	
-if ((City != "" && City != "City") && (ZipCode == "" || ZipCode == "Zip"))
-{
-  if (form.State.selectedIndex == 0) {
-  	  alert("Please select a State.");
-	  return false;
-	  }
-}
-
-
-  if ((City == "" || City == "City") && (ZipCode == "" || ZipCode == "Zip"))
-	   {
-	     alert("Please enter a city and state OR a zip.");
-	     return false;
-	   }
-
-  if ((ZipCode != "" && ZipCode != "Zip"))	    
-	 { 
-	     if (String(ZipCode).length != 5)
-	     {
-	       alert("Please enter a valid zip.");
-	       return false;
-	     }
-	     
-	     for (j = 0; j < String(ZipCode).length; j++)
-	     {
-	        if ((String(ZipCode).charAt(j) < "0") || (String(ZipCode).charAt(j) > "9"))
-	        {
-	           alert("Please enter a valid zip.");
-	           return false
-	        }
-	     }
-     }
-  	  
-    
-  if ((City != "" || City != "City"))
-   {
-    CityDummy = "";
-    for (i = 0; i < CityLength; i++)
-    {
-       CityDummy = String(CityDummy) + " "; 
-    }
-    
-    if (String(City) == String(CityDummy) && String(City).length > 0)
-    {
-         alert("Please enter a valid city.");
-         return false;
-    }
-   } 
-   
-   if (bMmaSearch == true)
-   {
-      bMmaSearch = false;
-      return false;
-   }
-  return true;   
-}
-
-
-function checkForReqFieldsCity(form)
-{
-  //Author: Lupo Chambaka 03/03/2000
-  //Validates Form Inputs.
-  var City;
-  var CityLength;
-  var CityDummy;
-  var i;
-  var j;
-  var indx = form.City.selectedIndex;
-  if( indx > -1 )
-		   City = form.City.options[indx].value;
-
-  CityLength = String(City).length;
-
-
-  
-  if(City =="null" ||City==null  ) 
-  {
-     City="";
-  } 	
-
-  if ((City == "" || City == "City"))
-  {
-      alert("Please select a valid city.");
-      return false;
-  } 
-    
-  if ((City != "" || City != "City"))
-   {
-    CityDummy = "";
-    for (i = 0; i < CityLength; i++)
-    {
-       CityDummy = String(CityDummy) + " "; 
-    }
-    
-    if (String(City) == String(CityDummy) && String(City).length > 0)
-    {
-         alert("Please enter a valid city.");
-         return false;
-    }
-   } 
-   
-   if (bMmaSearch == true)
-   {
-      bMmaSearch = false;
-      return false;
-   }
-  return true;   
-}
-
-
-
-function checkForReqFieldsZip(form,selectFlag)
-{
-  //Author: Lupo Chambaka 03/03/2000
-  //Validates Form Inputs.
-
-  var ZipCode;
-  var i;
-  var j;
-  
-  
-  ZipCode = form.ZipCode.value;
-
-  if ((ZipCode == "" || ZipCode == "Zip"))	    
-  {
-	       alert("Please enter a valid zip.");
-	       return false;
-  }
-  
-  if ((ZipCode != "" && ZipCode != "Zip"))	    
-	 { 
-	     if (String(ZipCode).length != 5)
-	     {
-	       alert("Please enter a valid zip.");
-	       return false;
-	     }
-	     
-	     for (j = 0; j < String(ZipCode).length; j++)
-	     {
-	        if ((String(ZipCode).charAt(j) < "0") || (String(ZipCode).charAt(j) > "9"))
-	        {
-	           alert("Please enter a valid zip.");
-	           return false
-	        }
-	     }
-     }
-  	  
-    
-  return true;   
-}
-
-function validateGiftSearch(form)
-{
-
-  var ZipCode;  
-  var ZipCodeDummy;
-  var ZipCodeLength;
-  
-  var i;
-  var j;
-
-  ZipCode = form.ZipCode.value;
-  ZipCodeLength = String(ZipCode).length;
-
-  if (ZipCode == "") 
-   {
-      alert("Zip/Postal Code must be Specified.");
-         return false;
-   }
-   ZipCodeDummy = "";
-   for (i = 0; i < ZipCodeLength; i++)
-		{
-		   ZipCodeDummy = String(ZipCodeDummy) + " "; 
-		}
-    
-   if (String(ZipCode) == String(ZipCodeDummy) && String(ZipCode).length > 0)
-		{
-		     alert("Invalid Zip/Postal Code Entered.");
-		     return false;
-		}
-
-
-  if (String(ZipCode).length != 5)
-       {
-         alert("Invalid Zip/Postal Code Entered.");
-         return false;
-       }
-       
-  for (j = 0; j < String(ZipCode.length); j++)
-       {
-          if ((String(ZipCode).charAt(j) < "0") || (String(ZipCode).charAt(j) > "9"))
-          {
-             alert("Invalid Zip/Postal Code Entered.");
-             return false
-          }
-       }
-   return true;
-}
-
-
-function validateFeedBack(form)
-{
-   var Email;
-   var EmailLength;
-   var EmailDummy;
-   
-   var FirstName;
-   var FirstNameLength;
-   var FirstNameDummy;
-   
-   var LastName;
-   var LastNameLength;
-   var LastNameDummy;
-   
-   var Comments;
-   var CommentsLength;
-   var CommentsDummy;
-   
-  FirstName = form.first_name.value;
-  FirstNameLength = String(FirstName).length;
-
-  LastName = form.last_name.value;
-  LastNameLength = String(LastName).length;
-  
-  Email = form.email.value;
-  EmailLength = String(Email).length;
-  
-  Comments = form.comments.value;
-  CommentsLength = String(Comments).length;
-  
-
-  if (Email == "") 
-   {
-      alert("Email must be Specified.");
-         return false;
-   }
-   EmailDummy = "";
-   for (i = 0; i < EmailLength; i++)
-		{
-		   EmailDummy = String(EmailDummy) + " "; 
-		}
-    
-   if (String(Email) == String(EmailDummy) && String(Email).length > 0)
-		{
-		     alert("Invalid Email Entered.");
-		     return false;
-		}
-  
-   if ((Email != "") && (String(Email).indexOf("@") != -1) && (String(Email).indexOf(".") != -1) )
-          var emailChars =  true;
-   else
-   {
-    alert( "Invalid Email Address Entered.")
-    return false;
-   }
-
-  if (FirstName == "") 
-   {
-      alert("First Name must be Specified.");
-         return false;
-   }
-   FirstNameDummy = "";
-   for (i = 0; i < FirstNameLength; i++)
-		{
-		   FirstNameDummy = String(FirstNameDummy) + " "; 
-		}
-    
-   if (String(FirstName) == String(FirstNameDummy) && String(FirstName).length > 0)
-		{
-		     alert("Invalid First Name Entered.");
-		     return false;
-		}
-
-
-
-  if (LastName == "") 
-   {
-      alert("Last Name must be Specified.");
-         return false;
-   }
-   LastNameDummy = "";
-   for (i = 0; i < LastNameLength; i++)
-		{
-		   LastNameDummy = String(LastNameDummy) + " "; 
-		}
-    
-   if (String(LastName) == String(LastNameDummy) && String(LastName).length > 0)
-		{
-		     alert("Invalid Last Name Entered.");
-		     return false;
-		}
-
-
-  if (Comments == "") 
-   {
-      alert("Comments must be Specified.");
-         return false;
-   }
-   CommentsDummy = "";
-   for (i = 0; i < CommentsLength; i++)
-		{
-		   CommentsDummy = String(CommentsDummy) + " "; 
-		}
-    
-   if (String(Comments) == String(CommentsDummy) && String(Comments).length > 0)
-		{
-		     alert("Invalid Comments Entered.");
-		     return false;
-		}
-
-  
-   return true;
-}
-
-function validateReg(form, flag)
-{
-  //Author: Lupo Chambaka 03/03/2000
-  //Validates Form Inputs.
-  var UserName;
-  var UserNameLength;
-  var UserNameDummy;
-  
-  var Password;
-  var PasswordLength;
-  var PasswordDummy;
-  
-  var repPassword;
-  var repPasswordLength;
-  var repPasswordLengthDummy;
-  
-  var newPassword;
-  var newPasswordLength;
-  var newPasswordLengthDummy;
-
-  var ZipCode;
-  var ZipCodeLength;
-  var ZipCodeDummy;
-  
-  Email = new String(form.email.value);
-  var EmailLength = Email.length;
-
-  
-  UserName = form.username.value;
-  UserNameLength = String(UserName).length
-  
-
-  Password = form.password.value;
-  PasswordLength = String(Password).length
-
-  
-  repPassword = form.verify_pass.value;
-  repPasswordLength = String(repPassword).length
-  
-  
-  ZipCode = form.zip.value;
-  ZipCodeLength = String(ZipCode).length;
-
-
-   
-   ZipCodeDummy = "";
-   
-   if (String(ZipCode).length > 0)
-   {
-		for (i = 0; i < ZipCodeLength; i++)
-				{
-				   ZipCodeDummy = String(ZipCodeDummy) + " "; 
-				}
-		 
-		if (String(ZipCode) == String(ZipCodeDummy) && String(ZipCode).length > 0)
-				{
-				     alert("Invalid Zip/Postal Code Entered.");
-				     return false;
-				}
-
-
-		if (String(ZipCode).length != 5)
-		    {
-		      alert("Invalid Zip/Postal Code Entered.");
-		      return false;
-		    }
-		    
-		for (j = 0; j < String(ZipCode.length); j++)
-		    {
-		       if ((String(ZipCode).charAt(j) < "0") || (String(ZipCode).charAt(j) > "9"))
-		       {
-		          alert("Invalid Zip/Postal Code Entered.");
-		          return false
-		       }
-		    }
-  }
-  if (flag == 1)
-  {
-	newPassword = form.newpassword.value;
-	newPasswordLength = String(newPassword).length
-  }
-  
- 
-
-  if (UserName == "") 
-   {
-      alert("User Name must be Specified.");
-         return false;
-   }
-   UserNameDummy = "";
-   for (i = 0; i < UserNameLength; i++)
-		{
-		   UserNameDummy = String(UserNameDummy) + " "; 
-		}
-    
-   if (String(UserName) == String(UserNameDummy) && String(UserName).length > 0)
-		{
-		     alert("Invalid User Name Entered.");
-		     return false;
-		}
-
-
-    if (Password == "") 
-     {
-        alert("Password must be Specified.");
-        return false;
-     }
-    PasswordDummy = "";
-    for (i = 0; i < PasswordLength; i++)
-	  {
-	    PasswordDummy = String(PasswordDummy) + " "; 
-	  }
-    
-     if (String(Password) == String(PasswordDummy) && String(Password).length > 0)
-	   {
-	     alert("Invalid Password Entered.");
-		 return false;
-	   }
-
-
-  if (flag == 1)
-  {
-		
-		if (newPassword == "") 
-		 {
-		    alert("New Password must be Specified.");
-		       return false;
-		 }
-		 newPasswordDummy = "";
-		 for (i = 0; i < newPasswordLength; i++)
-				{
-				   newPasswordDummy = String(newPasswordDummy) + " "; 
-				}
-		  
-		 if (String(newPassword) == String(newPasswordDummy) && String(newPassword).length > 0)
-				{
-				     alert("Invalid New Password Entered.");
-				     return false;
-				}
-	}			
-
-  if (repPassword == "") 
-   {
-      alert("Password Confirmation must be Specified.");
-         return false;
-   }
-   repPasswordDummy = "";
-   for (i = 0; i < repPasswordLength; i++)
-		{
-		   repPasswordDummy = String(repPasswordDummy) + " "; 
-		}
-    
-   if (String(repPassword) == String(repPasswordDummy) && String(repPassword).length > 0)
-		{
-		     alert("Invalid Password Confirmation Entered.");
-		     return false;
-		}
-   if (flag == 1)
-    {
-		if (String(repPassword) != String(newPassword))
-				 {
-				     alert("Password Confirmation Failed.");
-				     return false;
-				 }
-	}			 
-	else
-	{
-		if (String(repPassword) != String(Password))
-				 {
-				     alert("Password Confirmation Failed.");
-				     return false;
-				 }
-	}	
-
-  //check email for valid characters  
- if ((Email != "") && (Email.indexOf("@") != -1) && (Email.indexOf(".") != -1) )
-  	var emailChars =  true;
-  else
-  {
-    alert( "Email Address not in valid form.")
-    return false;
-  }
-
-  return true;
- } 
- 
- 
- 
-// -->
-</script>
 </head>
 
 <body onload="logoRotate();foodRotate();" onresize="logoRotate();foodRotate();" bgcolor="#EEEFDE" text="#000000" link="#999966" vlink="#999966" alink="#999966">
 <center><a name="top"></a>
-<!-- Start Page Container Table -->
-<table cellspacing="0" cellpadding="0" border="0" width="589">
-<tbody><tr>
-	<td align="left" valign="top">
 
-		<!-- Start Date / Tools Nav. Table -->
-		<table width="589" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-			<td><img src="/images/trans.gif" width="142" height="1" border="0"></td>
-			<td><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-			<td><img src="/images/trans.gif" width="204" height="1" border="0"></td>
-			<td><img src="/images/trans.gif" width="240" height="1" border="0"></td>
-			<td><img src="/images/trans.gif" width="1" height="1" border="0"></td>			
-		</tr>
-		<tr>
-			<td colspan="6" bgcolor="#999966"><img src="/images/trans.gif" width="589" height="1" border="0"></td>
-		</tr>
-		<tr>
-			<td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="22" border="0"></td>
-			<td align="left" valign="middle" bgcolor="#FFFFFF">
-			<center><font size="-2" face="verdana,geneva,arial" color="#999966">
-			<b>December&nbsp;8, 2002</b>
-			</font></center>
-			</td>
-			<td bgcolor="#FFFFFF"><img src="/images/trans.gif" width="1" height="22" border="0"></td>	
-			<td align="center" valign="middle" bgcolor="#FFFFFF">
+<!-- Start Date / Tools Nav. Table -->
 
-			&nbsp;   
-			</td>		
-			<td align="right" valign="middle" bgcolor="#FFFFFF">
-			<font size="-2" face="verdana,geneva,arial"><a href="http://www.restaurant.com/about/"><font color="#999966">About Us</font></a> | <a href="http://www.restaurant.com/sitemap/"><font color="#999966">Site Map</font></a> | <a href="http://www.restaurant.com/help/"><font color="#999966">Help</font></a> | <a href="http://www.restaurant.com/feedback/"><font color="#999966">Feedback</font></a></font><img src="/images/trans.gif" width="5" height="1" border="0">
-			</td>
-			<td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="6" bgcolor="#999966"><img src="/images/trans.gif" width="589" height="1" border="0"></td>
-		</tr>
-		</tbody></table>
-		<!-- End Date / Tools Nav. Table -->
+<table bgcolor="#FFFFFF" width="589" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1"></td>
+    <td bgcolor="#999966"><img src="/images/trans.gif" width="236" height="1"></td>
+    <td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1"></td>
+    <td bgcolor="#999966"><img src="/images/trans.gif" width="350" height="1"></td>
+    <td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="22"></td>
+    
+    
+		<td><img src="/images/trans.gif" width="1" height="1"></td>
+    
+	
+    <td bgcolor="#FFFFFF"><img src="/images/trans.gif" width="1" height="1"></td>
+    
+<td align="right" valign="middle" nowrap="">
+        <font face="verdana,geneva,arial" size="1">
+        <a href="/my-restaurant.asp"><font color="#999966">Registered Users</font></a>
+        | <a href="/help.asp"><font color="#999966">Help</font></a>
+        | <a href="/feedback.asp"><font color="#999966">Feedback</font></a>
+        | <a href="/opportunities.asp"><font color="#999966">Opportunities</font></a><img src="/images/trans.gif" width="5" height="1">
+        </font>
+    </td>
+    <td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#999966" colspan="5"><img src="/images/trans.gif" width="589" height="1"></td>
+  </tr>
+</tbody></table>
+
+<!-- End Date / Tools Nav. Table -->
 <script language="JavaScript">
 
 function PopGift(rname, rid)
@@ -805,53 +59,69 @@ function PopGift(rname, rid)
 
 
   <!-- Start Logo / Quick Search Table -->
-		<table width="589" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-	       <td bgcolor="#999966" width="1"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-		   <td align="left" valign="top" bgcolor="#FFFFFF" width="142">
-              <a href="http://www.restaurant.com/index.asp" onfocus="this.blur()" onmouseover="home_over('logotype')" onmouseout="home_out('logotype')">
-              <img src="/images/top_left_logos/logo_2.gif" width="142" name="logo" height="71" border="0"><br>
-              <img src="/images/logotype_off.gif" width="142" height="63" alt="Restaurant.com" name="logotype" border="0"></a></td>
-		   <td bgcolor="#999966" width="1"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-           
-    <td align="center" valign="middle" bgcolor="#FFFFFF" width="301"> 
-
-      <form action="/routetoebay.asp" method="post" name="frmRoute" onsubmit="return checkforebaymma(this)">
-        <img src="../images/trans.gif" width="301" height="1"><br>
-        
-<table width="301" border="0" cellspacing="4" cellpadding="0" height="134">
- 
-<tbody><tr valign="top" align="center" bgcolor="#CCCC99"> 
-<td height="13"><img src="../images/quicksearch-head-3.gif" width="293" height="81"> 
-<table border="0" cellspacing="0" cellpadding="0">
- 
-<tbody><tr> 
-<td colspan="3"><img src="/images/trans.gif" width="150" height="6"></td>
-</tr>
- 
-<tr> 
-<td colspan="3">
- <a href="http://halfprice.restaurant.com/gateway.asp"><img src="/images/btn-findGCs.gif" width="181" height="20" border="0" alt="Go" name="image"></a></td>
-</tr>
- 
-</tbody></table>
-</td>
-</tr>
- 
-</tbody></table>
-</form>
-
+		<table bgcolor="#FFFFFF" width="589" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td bgcolor="#999966">
+        <form method="post" action="listings.asp" onsubmit="return checkForReqFields(this)">
+        <img src="/images/trans.gif" width="1" height="1"><br>
+    </form></td>
+    
+<td valign="top">
+        <a href="/index.asp" onfocus="this.blur()" onmouseover="home_over('logotype')" onmouseout="home_out('logotype')">
+           <img name="logo" src="/images/trans.gif" width="142" height="71" border="0"><br>
+           <img name="logotype" src="/images/logotype_off.gif" width="142" height="63" border="0" alt="Restaurant.com"><br>
+        </a>
     </td>
-		   <td bgcolor="#999966" width="1"><img src="/images/trans.gif" width="1" height="1" border="0"></td>	
-           <td align="left" valign="top" bgcolor="#FFFFFF" width="142"><img name="food" src="/images/home_food/food_pm_59.jpg" width="142" height="134" border="0"></td>
-		   <td bgcolor="#999966" width="1"><img src="/images/trans.gif" width="1" height="1" border="0" alt=""></td>
-		</tr>
-		<tr>
-			<td colspan="7" align="left" valign="top" bgcolor="#999966"><img src="/images/trans.gif" width="589" height="1" border="0"></td>
-		</tr>
-		</tbody></table>
-		
-<!-- End Logo / Quick Search Table -->
+    <td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1"></td>
+<!--<td align="center" valign="middle">
+        <img src="/images/trans.gif" width="301" height="1"><br>
+        <img src="/images/quicksearch-head.gif" width="289" height="66"><br> -->
+      <td align="center" valign="top">
+        <table width="301" border="0" cellspacing="4" cellpadding="0" height="134">
+          <tbody><tr valign="top" align="center" bgcolor="#CCCC99"> 
+            
+<td height="13"><img src="/images/quicksearch-head-3.gif" width="293" height="81"> 
+              <table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr> 
+                  <td colspan="3" nowrap=""><img src="/images/trans.gif" width="150" height="6"></td>
+                </tr>
+                <tr> 
+                  <td> 
+                    <select name="selArea">
+                      <option value="" selected="">Select Restaurant Region</option>
+                       
+                      <option value="">  
+                      </option>
+                       
+                      <option value="">  
+                      </option>
+                       
+                    </select>
+                  </td>
+                  <td> <img src="/images/trans.gif" width="5" height="1"><br>
+                  </td>
+                  <td> 
+                    <input type="image" src="/images/blue_go_btn.gif" width="24" height="20" border="0" alt="Go" name="image">
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    <td bgcolor="#999966"><img src="/images/trans.gif" width="1" height="1"></td>
+    <td valign="top">
+        <img name="food" src="/images/trans.gif" width="142" height="134"><br>
+    </td>
+    <td bgcolor="#999966">
+        
+        <img src="/images/trans.gif" width="1" height="1"><br>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#999966" colspan="7"><img src="/images/trans.gif" width="589" height="1"></td>
+  </tr>
+</tbody></table><!-- End Logo / Quick Search Table -->
 		
 		
 
@@ -901,17 +171,26 @@ function PopGift(rname, rid)
                 </tr>
                 </tbody></table>
                 <!-- End Main Body Table -->
-                </td>
-        </tr>
-     </tbody></table>
+                
+        
+     
 	<!-- End Page Container Table -->
-	<br>
-<font face="verdana,geneva,arial" size="-2">
-<a href="http://www.restaurant.com/about/">About Us</a> | <a href="https://signup.cj.com/signup/brandedPublisherSignUp.do?air_refmerchantid=867296">Affiliates</a> | <a href="http://www.restaurant.com/sitemap/">Site Map</a> | <a href="http://www.restaurant.com/help/">Help</a> | <a href="http://www.restaurant.com/feedback/">Feedback</a>
+	<!-- Start Footer -->
+
+<font face="verdana,geneva,arial" size="1">
 <br>
-©2000 Restaurant.com <a href="http://www.restaurant.com/about/copyright.asp"><font color="#999966">Copyright Policy.</font></a> All rights reserved. <a href="http://www.restaurant.com/about/privacy.asp"><font color="#999966">Privacy Policy.</font></a></font>
+<a href="/affiliate.asp"></a> <a href="/about-gcp.asp"><font face="verdana,geneva,arial" size="1"></font></a><font face="verdana,geneva,arial" size="1"><a href="/my-restaurant.asp"><font color="#999966">Registered Users</font></a></font> | <a href="/owners"><font color="#999966">Restaurant Owners</font></a> | <a href="/my-restaurant.asp"></a><a href="/affiliate.asp"><font color="#999966">Web Masters</font></a><br>
+<a href="/about-gcp.asp"><font color="#999966"> Gift Certificates</font></a> | <a href="/about"><font color="#999966">Company Info</font></a> |  <a href="/help.asp"><font color="#999966">Help</font></a> | <a href="/feedback.asp"><font color="#999966">Feedback</font></a> | <a href="/opportunities.asp"><font color="#999966">Opportunities</font></a>
 <br>
+©2002 Restaurant.com
+<a href="/copyright.asp"><font color="#999966">Copyright Policy.</font></a>
+All rights reserved.
+<a href="/privacy.asp"><font color="#999966">Privacy Policy.</font></a>
+</font>
+
+<!-- End Footer -->
 
 </center>
+
 
 </body></html>
