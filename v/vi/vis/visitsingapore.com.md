@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212340id_/http%3A//www1.visitsingapore.com/sections/3a/0%2C1138%2C461%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208192300id_/http%3A//www.visitsingapore.com/sections/3a/0%2C1138%2C461%2C00.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,4 +22,13 @@
 ---  
   
   
-
+|   
+---  
+  
+[](https://web.archive.org/funbreaks)  
+  
+[](https://web.archive.org/sections/3a/0,1138,464,00.html)  
+  
+[](http://www.singaporemedicine.com/)  
+  
+[](http://www.singaporeedu.gov.sg/)
