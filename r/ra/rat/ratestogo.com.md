@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratestogo.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602210643id_/http%3A//www.ratestogo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratestogo.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203135837id_/http%3A//www.ratestogo.com/privacy.asp) for the most accurate reproduction.*
 
 # RatesToGo.com - Privacy & Security
 
@@ -52,4 +52,6 @@ We may, from time to time, use "cookies" to store your preferences, record sessi
 We at Rates To Go work hard to provide our clients with the best possible rates in all our hotels. From time to time, we will send our members newsletters, updates and specials for hotels in certain areas. You will only receive this correspondence if you have chosen to do so and we hope that you will find these items informative and useful. However, should you choose to not receive them in the future, you will have the ability to unsubscribe from the mail database by clicking on the Unsubscribe link at the bottom of each email.
 
 **How to contact us**   
-This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Rates To Go or would like more information, please contact us on [privacy@ratestogo.com](mailto:privacy@ratestogo.com). We will attempt to respond to all reasonable concerns or inquiries within three business days of receiving the message. Note - Please **DO NOT** submit booking enquiries to the above email address. If you have a question about an existing or new booking, please go to the Customer Service area of the website. 
+This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Rates To Go or would like more information, please contact us on [privacy@ratestogo.com](mailto:privacy@ratestogo.com). We will attempt to respond to all reasonable concerns or inquiries within three business days of receiving the message. 
+
+**CUSTOMERS** \- Please **DO NOT** submit booking enquiries to the above email address, as they will not be answered. If you have a question about an existing or new booking, please go to our [Customer Service Center](https://web.archive.org/CustService.asp). 
