@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208093540id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621054903id_/http%3A//www.bentleypublishers.com/privacy.htm) for the most accurate reproduction.*
 
 # BentleyPublishers.com: Privacy Notice
 
@@ -58,7 +58,7 @@ BentleyPublishers.com gives you access to the following information about you fo
   * You can add or update certain information on pages such as those listed in the "What Information Can I Access?" section above.
   * If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Profile. (If you do not want to receive legal notices from us, such as this Privacy Notice, those notices will still govern your use of BentleyPublishers.com, and it is your responsibility to review them for changes.)
   * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
-  * The Federal Trade Commission provides useful information about online privacy on its own Web site, [Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html). 
+  * The Federal Trade Commission provides useful information about online privacy on its own Web site, [Site Seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm). 
 
 
 
