@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604053112id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfamily.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022250id_/http%3A//www.azfamily.com/registration/privacy.html) for the most accurate reproduction.*
 
 # azfamily.com | News for Phoenix, Arizona | Privacy Policy
 
@@ -97,7 +97,7 @@ You may access all of the Personal Information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure.  You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1.                  Enter (or click) [http://signin. **azfamily**.com](http://signin.azfamily.com/) in your browser.
+1.                  Enter (or click) [http://www. **azfamily**.com/sharedcontent/registration/membercenter.jsp](https://web.archive.org/sharedcontent/registration/membercenter.jsp) in your browser.
 
 2.                  Sign in by entering your e-mail address and password.  Your account information will then be displayed.
 
@@ -123,10 +123,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/813476883/Position1/default/empty.gif/7a2f486f6556347956306b41416a6749?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1197375284/Position1/default/empty.gif/7a2f486f655634304d4c774141684753?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1948133391/Position4/default/empty.gif/7a2f486f6556347956306b41416a6749?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1570775224/Position4/default/empty.gif/7a2f486f655634304d4c774141684753?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1888271619/Position5/default/empty.gif/7a2f486f6556347956306b41416a6749?x)
-
-Search local ads and more!
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.azfamily.com/aboutus/1069972880/Position5/default/empty.gif/7a2f486f655634304d4c774141684753?x)
