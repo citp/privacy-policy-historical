@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscis.gov privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624195057id_/http%3A//uscis.gov/graphics/privnote.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscis.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170858id_/http%3A//uscis.gov/graphics/privnote.htm) for the most accurate reproduction.*
 
 # Privacy, Security, and General Notice
 
