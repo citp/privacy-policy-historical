@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008122750id_/http%3A//qctimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610044831id_/http%3A//www.qctimes.com/privacy%23private) for the most accurate reproduction.*
 
 # Quad-City Times Newspaper Online - the Quad-Cities Home Page
 
-QCTImes.com Privacy Policy  
+Quad-City Times Do Not Call Policy | QCTimes.com Privacy Policy
+
+  
+This newspaper uses the telephone as one important way to stay in contact with our customers and our potential customers in the community. Because a good relationship with the community is a necessary ingredient of our success, and in keeping with state and federal laws, it is the policy of this newspaper that we will not make sales-related telephone calls to any person who has indicated a desire not to receive such calls. This includes those who have registered with state or federal "Do Not Call lists," as well as those who have previously told us directly that they do not wish to receive such calls. 
+
+The Quad-City Times may at times offer subscription opportunities or solicit prospective customers by calling on private residences.
+
+You may make a request to be added to our Do Not Call list in writing or by telephone. All requests should include your name, address and telephone number. Written requests should be mailed to the address listed above and directed to the Circulation Sales Manager. Your telephone number will remain on our Do Not Call list for five years unless you specify otherwise. Of course, if your telephone number changes, you must give us your new number if you want your “Do Not Call” status to remain in effect.
+
+Please keep in mind that regulations may permit the Quad-City Times to contact you even if your telephone number is registered with your state or the national list. For instance, if you were a subscriber to the Quad-City Times in the past 18 months, we may contact you to inform you of a subscription opportunity even if your telephone number is on the state or national “do not call” list. We like to remind customers as a service that their subscriptions are expiring and to offer special advertising opportunities to selected customers.  
 Welcome to the web sites of the Quad-City Times, a media company located in eastern Iowa. We believe in your right to know what information is collected during your visit to our web sites and how the information is used and safeguarded.   
 The information gathered by the Quad-City Times website falls into two categories:   
 (1) information voluntarily supplied by visitors to our websites through optional registration  
@@ -36,5 +45,3 @@ A final note:
 The Quad-City Times is affiliated with other online companies, some of which feature our branding. This policy statement does not apply to those companies' web sites; please refer to these affiliated sites to obtain information on their privacy policies. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
 
 The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
-
-E-mail comments to Quad-City Times: [newmedia@qctimes.com](mailto:newmedia@qctimes.com)
