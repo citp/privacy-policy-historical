@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094820id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602154817id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
-[](http://www.usgs.gov/)   
+[ ](http://www.usgs.gov/)   
+  
 
 
 The following statements and disclaimers apply to all web sites managed by the U.S. Geological Survey (USGS) unless otherwise noted. 
@@ -19,11 +20,11 @@ The USGS web site which referred you to this document conforms to the general U.
 
 Like most web servers on the Internet, our servers collect and store all of the information that your web browser sends when it requests a web page, including:
 
-  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name is (none) and its numerical address is 80.67.66.42; 
+  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name is (none) and its numerical address is 80.67.66.37; 
   * the date and time you accessed our site; 
   * the Internet address of the web page that you came from (for this visit that address is (none)); 
   * the page you requested from our site and the number of characters sent to your computer; and 
-  * the information your web browser software sends as its so-called "User Agent," which typically identifies the browser software and may also indicate the operating system and type of CPU used in your personal computer. Your User Agent information is ia_archiver. 
+  * the information your web browser software sends as its so-called "User Agent," which typically identifies the browser software and may also indicate the operating system and type of CPU used in your personal computer. Your User Agent information is Scooter/3.3_SF. 
 
 
 
@@ -137,5 +138,3 @@ Mail Stop 807
 National Center  
 Reston, VA 20192  
 
-
-* * *
