@@ -1,90 +1,71 @@
-> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603023423id_/http%3A//www.webcrawler.com/Help/TRUSTe.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrawler.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202224854id_/http%3A//www.webcrawler.com/info.wbcrwl/search/help/privacy.htm) for the most accurate reproduction.*
 
-# WebCrawler's Customer Information Privacy Policy
+# Privacy Policy - WebCrawler
 
-|  |  | 
-
-* * *
-
-|  |  |  |   
+|  | |    
+---|---|---  
+ | |  **Privacy Policy**  
 ---  
-[](https://www.truste.org/validate/43) The At Home Corporation is a licensee of the TRUSTe Privacy Program. The At Home Corporation owns and operates the Excite@Home Network (and the following [Internet domains](https://web.archive.org/web/20010603023423id_/http%3A//www.webcrawler.com/Help/domain.html)). This statement discloses the privacy practices for the WebCrawler Web Site, and, in fact, also applies to each of the Web Sites of the Excite@Home Network. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: 
+   
+InfoSpace, Inc. ("InfoSpace") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"). InfoSpace is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who visit the InfoSpace Sites, how that information is used, and InfoSpace's disclosure practices. Please note that this policy applies only to the InfoSpace Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the InfoSpace Sites.  
+ **Anonymous User Information**  
+   
+InfoSpace collects some anonymous information each time you visit an InfoSpace Site so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with InfoSpace before we can collect this anonymous information. The InfoSpace Sites do not require you to share information that identifies you personally, such as your name or e-mail address, in order for you to use the InfoSpace Sites. The InfoSpace Sites assign an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited the InfoSpace Site, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. InfoSpace analyzes the information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.  
+ **Individual User Information**  
+   
+From time-to-time the InfoSpace Sites request information from you that may identify you personally in addition to the anonymous information described above. The requested information typically includes contact information (such as name, e-mail address, shipping address, and zip code), and demographic information (such as age, gender, occupation, and household income). InfoSpace will not use or disclose your individual user information except as described in this privacy policy. InfoSpace collects individual user information in the following ways from different InfoSpace Sites:   
+**Surveys or Contests**  
+   
+From time to time, InfoSpace may conduct surveys or contests on an InfoSpace Site. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose individual user information to the InfoSpace Site. Contest information will be shared with the contest or survey sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the InfoSpace Site. We may use an intermediary to conduct these surveys or contests. These companies may use your personal information to help the InfoSpace Site communicate with you about offers from the InfoSpace Site and our marketing partners. Such third parties do not have InfoSpace's permission to use your personally identifiable information for any secondary purpose.  
+ **Go2Net.com Registration**  
+   
+The InfoSpace Site located at www.go2net.com offers customization capabilities. To register, you must provide InfoSpace with your name, zip code, e-mail address, birth date, gender, and income range. While not all of this data is required for our services to function, we are better able to customize your experience if you volunteer complete and accurate information. Users who complete the registration process are given a Go2Net ID and can take full advantage of the Go2Net customization capabilities.  
+ **Directory Services**  
+   
+InfoSpace offers certain personalization services within its directory services (i.e., White Pages and Yellow Pages) that enable you to give us your geographic location so we can remember it for you when you return to use our service. For example, if we know that you are searching from Bellevue, Washington for a particular company, we will pre-populate the city and state fields with Bellevue and Washington. While you are not required to use this feature of the directory services, the information enables us to provide you with a more efficient experience on the InfoSpace Sites. In addition, InfoSpace allows you to update, correct any errors in the listings, or include yourself in the directory services. In order to make these modifications, you may provide InfoSpace with certain individual user information that InfoSpace will use, along with its affiliates and third party service providers, to modify and update your information in the directory services database. Yellow Pages listings are supplied by Verizon SuperPages. To add or update your existing free basic Yellow Pages listing, please go to the following web site: https://snap.superpages.com/NASApp/Listing/control/ViewListing. To delete your listing, please call the customer service department at 1-800-428-8722, stay on the line without pushing any prompts, and a representative will assist you. You may update or delete your White Pages listing by [searching the White Pages](http://www.webcrawler.com/info.wbcrwl/white-pages) or [e-mail search](http://www.webcrawler.com/info.wbcrwl/wp/email/index.htm) to find your listing. Once you have located it, simply click the update or remove link. To verify your request, InfoSpace will send an e-mail message to the address that you provide. Once you confirm the request, your listing will be updated or deleted. Please allow approximately 24 hours for the update to become active after we receive your confirmation.  
+ **Public Records Services**  
+   
+When you register to use the InfoSpace Public Records service, you provide InfoSpace with an e-mail address, birth date, zip code, billing address, and credit card information. If you choose not to provide the requested information, InfoSpace may not be able to offer you the Public Records services that depend on this type of information to function. The credit card information is used to process any payments authorized by you for the Public Records services.We require personal information for billing purposes only. This information is only used to complete a transaction and will not be added to any of the Public Records Search databases.Our databases are extracted from public records compiled from existing databases all over the United States. InfoSpace does not actually create these records. We simply give you the ability to search them. InfoSpace cannot add or delete records form the public databases displayed through the Public Records service. To successfully remove your information, you must remove it from the underlying public record database. If you have questions about the Public Records service please go to the following website: <http://www.webcrawler.com/info.wbcrwl/tads/help/contactus.htm>  
+**User Groups**  
+   
+When you register for a user group on any of the InfoSpace Sites, you are asked for your individual user information. The individual user information may be collected and stored by a third party partner. This partner will store your individual user information on their servers for a period of time at which InfoSpace will assume such storage responsibilities and your information will be deleted from their servers. The partner will not have InfoSpace's permission to use your individual user information for secondary purposes. If you choose to participate in a user group, your individual user information will be used to qualify you and to contact you for various projects at InfoSpace's discretion. InfoSpace may share your individual user information with a third party with whom InfoSpace has entered into an agreement to support such user group projects. You may opt out at any time by following the opt out provisions of this privacy policy.  
+ **Tell-A-Friend**  
+   
+If you elect to use our referral service for informing a friend about any of our sites, we ask you for your friend's name and e-mail address. InfoSpace will automatically send the friend a one-time e-mail inviting them to visit the InfoSpace Site. InfoSpace does not store the information related to your friends and the one-time e-mail sent pursuant to your input will be our only contact with that person for such input.  
+ **Correspondence**  
+   
+If you contact InfoSpace, we may keep a record of that correspondence and we may collect your e-mail address.  
+ **Third Party Information Gathering**  
+   
+The InfoSpace Sites include content and ads from third parties that may perform user activity tracking other than that described herein. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy The InfoSpace Sites contain links to other sites on the Web. Please be aware that InfoSpace is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.  
+ **Cookies**  
+   
+InfoSpace may set and access InfoSpace or partner cookies on your computer. A cookie is a small data file that a Web site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookie and web beacon technology to track which pages on the InfoSpace Sites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within various InfoSpace Sites in a way that may be linked to individual user information that you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. Then we track where that number shows up on our site.  
+ **Sharing**  
+   
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of InfoSpace's or such InfoSpace Site's terms of use, or as otherwise required by law. InfoSpace Sites may use third party service providers to serve ads and e-mails on our behalf. These companies may use technologies to measure the effectiveness of ads and e-mails and use information about your visits to the InfoSpace Site so that we can provide a better search experience to you. For this purpose, we may also provide these third party service providers anonymous information about your site navigation.  
+ **Mergers; Business Transitions**  
+   
+In the event InfoSpace goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.  
+ **Choice/Opt-out**  
+   
+We desire to keep you in control of your personal information. Accordingly, you can review, correct, change or remove your personal registration information and elect not to receive future communications from us by sending us an e-mail at [privacy@infospace.com](mailto:privacy@infospace.com).If you have questions about public record information available through the Public Records service, please go to the following web site for additional information: <http://www.webcrawler.com/info.wbcrwl/tads/help/contactus.htm>  
+**Notification of Changes**  
+   
+If we decide to change our privacy policy, we will post those changes to this privacy statement in places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days   
+**Special Notification with respect to Children's Privacy (Users under the age of 13)**  
+   
+In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with InfoSpace policy and COPPA regulations, we DO NOT: 
 
-  1. What personally identifiable information of yours is collected
-  2. What organization is collecting the information
-  3. How the information is used
-  4. With whom the information may be shared
-  5. What choices are available to you regarding collection, use and distribution of the information
-  6. What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control
-  7. How you can correct any inaccuracies in the information
+  1. Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or
+  2. Knowingly use or share personal information from users under 13 years of age with third parties;
 
-
-
-Questions regarding this statement should be directed to WebCrawler's Support Services by using the feedback form available [here](http://webcrawler.com/Help/Feedback.html). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/watchdog.html).
-
-To return to the Web Site, please use the "Back" button on your browser.
-
-**Our Commitments to You**
-
-WebCrawler wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide to us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
-
-Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you – a personalized online experience. Customer's who personalize our service come back more often – and it's the customers that visit us often who make us successful – so we do everything we can to make WebCrawler your service with your name all over it and give you just the content you need.
-
-Information collected online is often defined as being either anonymous or personally identifiable: 
-
-  1. **Anonymous Information:** Refers to information that cannot be tied back to a specific individual. For instance, we may know that ten thousand people visit this Privacy Policy today, but we do not necessarily know their names, where they live or their date of birth – they are "anonymous" to us, much like how your hometown's bus service knows how many people take a given route – but don't necessarily know who those people are. Many of the individuals who access our services use none of the personalization features which are available to them and are therefore anonymous to us.
-  2.  **Personally Identifiable Information:** Refers to information that lets us know the specifics of who you are such as your name, email address, or postal address. With this information, WebCrawler can provide a variety of personalized and enhanced services that are not available to anonymous users. Examples would be the award-winning "My WebCrawler Start Page," which uses your mailing address to customize TV schedules, weather reports and sports scores; our commerce-enabled services which use this same address information to allow our partners to ship to you the products that you buy; or our free Excite Mail email service which uses your name as part of a security mechanism to protect you from having others read messages addressed to you. We hope that, like many of our customers, you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you. 
-
-The choice of how much of your personally identifiable information that you choose to disclose to WebCrawler is left completely up to you. The only way we know something about you personally is if you register for a personalized service or enter one of our sweepstakes at one of the [Excite@Home Network Internet sites](https://web.archive.org/web/20010603023423id_/http%3A//www.webcrawler.com/Help/domain.html).   
----  
-**Our Commitments to Your Family**
-
-Like you, we at WebCrawler have children of our own and are concerned about their safety when they use the Internet. We want you and your family to be safe while visiting our Internet sites. That is why we have established the following guidelines for the way we interact with children when they access our services.
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. As a TRUSTe Premier Sponsor, we will place a "Children's Seal" on any page that requests information directly targeted to children under 13 informing them that parental consent is needed and we will use a secure method for confirmation of such consent.
-
-Additionally, WebCrawler offers additional levels of protection for minors beyond that which is required by law. While WebCrawler will not target registration to those under 13 without using the safeguards listed above, we recognize that some minors will utilize the registration products associated with our general release products. If a customer does register with us and their birth date indicates that they are not just under 13 but are in fact any age less than 18, we will:
-
-  1. Never knowingly send a copy of a mass emailing to them, regardless of their stated preference given at registration
-  2. Never voluntarily share their customer information with any third-party, regardless of their stated preference given at registration
-  3. Never list them in any Member Directory in a manner in which their age can be easily identified
-
-The only exceptions to the above policies regarding data distribution collected from minors will be for bona fide non-profit organizations that offer outreach and support to children. In cases where minors have volunteered information in the context of a cobranded peer counseling or mentoring environment on an Excite@Home Network domain, this information will be shared with that cobranded non-profit organization.
-
-In summary, for those who register on our site who are under 18, we'll do everything we can to make sure that their information won't leave our company for commercial use and someone using our site won't be easily able to look up their age. These protections are a start, but there are some actions that we cannot control and in these areas we need help from the child's parent or guardian as well. For instance, we can't stop a minor from giving their age in our unmoderated online chat sessions – but you can counsel them against taking actions like this. For more information about protecting the privacy and safety of minors online, we recommend you visit the [Parents and Children](http://www.truste.org/users/users_privacy_links.html#parents) portion of the TRUSTe site which contains information and links to other resources on this subject.  
-  
-**What personally identifiable information of yours is collected**
-
-So that we can provide personalization and opportunities for prizes and services, we may at times ask you to submit information such as your name, email address, or to share with us your interests and hobbies. You never have to answer these questions and you can decline this exchange of information on any site at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of such information such as a personalized stock portfolio, a sweepstakes entry, or the purchase and shipment of products and prizes to people who visit our network our service.
-
-To enable many of the features available within the Excite@Home Network, we will assign to your Internet browser (such as Netscape Navigator™ or Microsoft Internet Explorer™) a unique identification number stored in a file on your computer called a "cookie." Cookies by themselves cannot be used to find out the identity of any user. This unique identification number automatically identifies your browser – but not you – to our computers whenever you interact on one of our Internet domains. When you visit our site, a cookie in effect says to our server computers "Hello, I'm browser #655. What do you do just for me?" Only when you agree to provide information to our services directly, such as through registration, will we be able to know anything about you other than the random number that our server computers assign to your browser in the first place. 
-
-There is much confusion about cookies, how they are used, and what they can do. Cookies are very small text files written by an Internet server to a customer's browser when information is exchanged. Cookies only contain information that the server computer "knew" in the first place and can only be read by the serving domain that placed them. For instance, Yahoo!™ utilizes cookies but WebCrawler's servers can't read their contents nor can Yahoo!'s servers read ours. Cookies are an essential part of how the Internet works today and allow server computers to recognize your computer's browser when you return. If you have ever gone to a web page that automatically provides personalized content to you without you having to "log in," such as your own stock portfolio, this is almost certainly being accomplished with a cookie. As cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information or transmit it to anyone.
-
-Cookies are implemented as part of the technology implemented by your web browser. But don't just take our word for it – read what the companies who wrote the browsers have to say! 
-
-For Netscape, please visit: <http://home.netscape.com/security/basics/privacy.html#cookies>
-
-For Microsoft, please visit: <http://www.microsoft.com/INSIDER/internet/articles/security.htm#cookies>  
-  
----  
-  
-**How the information is used**
-
-Our network has been designed to enable personalized services for those people who choose to use them. Many of those services that are provided for free through the Excite@Home Network are the result of advertising revenues. Our ability to provide enhanced services and content is dependent on our ability to provide targeted advertising for our partners and clients. Below is a description of how our visitors and advertisers benefit from our use of subscriber information: 
-
-  1. We provide personalized content in the form of news, horoscopes, advertisements, weather reports, stock portfolios, movies, and television listings to our members.
-  2. We monitor the actions of the users of our site to determine what our customers want and do not want.
-  3. We provide advertisements that support our customers' specific requests for information through keyword searches and editorial content. Do a search on "cars," for instance, and you'll usually see a banner advertisement from an automobile company.
-  4. We develop summary – but not individual – reports for our advertisers. An example of a summary report might be "12,000 people clicked on Advertisement 'X' today and of those people, 35% had previously indicated they had an interest in sports." The people that make it possible for you to use WebCrawler for free – our advertisers – need this information to determine how effective their advertising investments are. We never tell our advertisers who it was that saw or clicked on their advertisements unless you have specifically told us this is acceptable.
-  5. Through our DeliverE email service, we will send registrants of the Excite@Home Network email communications on information we think they will find useful, including information about new products and services from our selected partners. It is our policy to never send messages to members who have asked us not to do so, either at initial registration or later through an unsubscribe process. In every email from any company or Web Site of the Excite@Home Network, we will remind you of your option to change your preferences regarding receipt of email communications. Additional information is provided in the What choices are available to you regarding collection, use and distribution of the information section below.
-
-  
----  
-Other companies which place advertising on our site may collect information about you when you view or click on their advertising or content through the use of cookies (using the same techniques as described above). Due to the way the Internet technically operates, we cannot control this collection of information. You should contact these advertisers or content providers directly if you have any questions about their use of the information they collect.
-
-Information that you provide while using products such as Excite Message Boards and Excite Chat is available for all to see – discretion should be used in entering personally identifiable information within such forums as it may be collected by third-parties – this is a leading source of unwanted email, for instance. The Excite@Home Network does not associate with customer records any information entered by its customers in our Excite Mail, Excite Message Boards, or Excite Chat products.
-
-And finally, the Excite@Home Network does not control the information collection and distribution policies on Internet domains other than those [Internet domains](https://web.archive.org/web/20010603023423id_/http%3A//www.webcrawler.com/Help/domain.html) that are part of the Excite@Home Network itself. We do, however, encourage our co-branding partners to adopt privacy policies similar to this one and to become licensees of TRUSTe, something which we have been relatively successful to date achieving: Look for the TRUSTe logo wherever you go on the Internet!   
-  
----
+It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers Questions regarding children's privacy should be directed to:   
+InfoSpace, Inc.   
+601 108th Avenue NE, Suite 1200   
+Bellevue, Washington 98004 USA   
+\+ (1) 425.201.6100 phone   
+\+ (1) 425.201.6150 fax   
+E-mail: [kidsprivacy@infospace.com](mailto:kidsprivacy@infospace.com)  
+   
+ 
