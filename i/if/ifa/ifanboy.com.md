@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605201153id_/http%3A//www.ifanboy.com/view.cgi/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219191143id_/http%3A//www.ifanboy.com/privacy.html) for the most accurate reproduction.*
 
-# iFanboy: iFanboy Privacy Policy
+# iFanboy: Rising Like a Phoenix
 
 #### iFanboy.com Privacy Policy
 
@@ -36,4 +36,4 @@ iFanboy.com may amend this policy from time to time. If we make any substantial 
 
 **Questions or Suggestions**
 
-If you have questions or suggestions send an email to privacypolicy@iFanboy.com. iFanboy.com is not TRUSTe-certified. 
+If you have questions or suggestions send an email to contact@iFanboy.com. iFanboy.com is not TRUSTe-certified.
