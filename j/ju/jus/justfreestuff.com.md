@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621000118id_/http%3A//www.justfreestuff.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203002400id_/http%3A//www.justfreestuff.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Just Free Stuff
 
@@ -39,7 +39,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. You can send email to [james@justfreestuff.com](mailto:james@justfreestuff.com)
-  2. You can visit the following URL: <http://www.justfreestuff.com/subscribe.htm>
+  2. You can send a BLANK email to the following address: [mailto:remove-justfreestuff@atomic.sparklist.com](mailto:remove-justfreestuff@atomic.sparklist.com)
 
 
 
