@@ -1,73 +1,109 @@
-> *The following text is extracted and transformed from the silicon.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010072243id_/http%3A//www.silicon.com/public/door%3FREQUNIQ%3D1033355865%2630001REQEVENT%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silicon.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604145456id_/http%3A//silicon.com/misc/privacy) for the most accurate reproduction.*
 
-# Silicon ~ silicon.com - the who, what, when, where and why of ebusiness
+# silicon.com - the who, what, when, where and why of ebusiness
 
-1.Commitment to User Privacy  
-silicon.com is committed to the online privacy of all of its users. This Privacy Policy Statement is designed to give a clear explanation of silicon.com's data processing practices. If you have any questions or concerns relating to silicon.com and data protection please email us at [privacy@silicon.com](mailto:privacy@silicon.com).  
+|  |  | 
 
+silicon.com Privacy Statement
 
-2.Information Collected  
-silicon.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties in ways which are not outlined in this policy statement.  
-We collect information from our users during the voluntary registration process. We automatically collect data about usage patterns every time a user visits the site to provide a personalised experience. We only use and share this data in aggregate form.
+|  |  **About silicon.com's Privacy Policy**  
+silicon.com is a a registered service mark of CNET Networks, Inc. or its subsidiary and is part of a world wide network of sites providing information about technology. As such silicon.com adheres to the policy guidelines laid down by CNET Networks, Inc. 
 
-3.Registration  
-In order to provide users with a personalised and valuable service, we operate a voluntary registration process for silicon.com. During registration a user is required to give their contact information. This information is used to provide a thoroughly personalised service. Other than name, title and email address the only personal information we request is your date of birth as identification in case you forget your password.
+**What is CNET Networks?**  
+CNET Networks, Inc. is the global source of information and commerce services for the technology industry. We connect buyers, sellers, and suppliers throughout the IT supply chain with award-winning content via the Web, wireless devices, television, radio, and print. Our respected brand portfolio includes CNET, ZDNet, mySimon, TechRepublic, GameSpot, Download.com, News.com, CNET Radio and Computer Shopper magazine as well as CNET ChannelServices, which include CNET DataServices and ChannelOnline. For more information about the company, go [here](http://www.cnet.com/aboutcnet/0-13612.html). 
 
-4.Use of Information & Information Sharing  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We may process personal data voluntarily provided to us in the registration form for the following purposes only: 
+**Overall Privacy Statement**
 
-  * Providing a rich personalised experience 
-  * Providing information changes and updates to the service 
-  * Third party auditing of the site (by ABC//electronic) 
-  * Conducting market research to provide a better user experience 
-  * From time to time providing you with details of products or services from a partner or sponsor if you have requested to be notified of such offers
+CNET Networks takes your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated by CNET, its partner or affiliate. 
 
-If you prefer not to receive information about our products or services or those of our partners and sponsors, please tick the appropriate box in the "Personalise" section of silicon.com. 
+**1\. What Personally Identifiable Information Does CNET Networks Collect?**  
+CNET's primary goal in collecting personal information is to provide you with the best and most useful content and services. Because CNET derives its revenue mainly from advertising, collecting information is essential to keeping our services free to users. 
 
-5.Cookies  
-A cookie is a piece of data stored on the user's hard drive containing information about the user.   
-silicon.com does not automatically set up cookies when a user visits the site - this is voluntary. Users are in control of setting up cookies - the advantage for them is that they do not have to log into the site every time they visit, thereby saving time. If a user wishes to set up a cookie this can be done in the "Personalise" section in the site. Usage of a cookie is in no way linked to any personally identifiable information while on our site.
+CNET collects personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for a print magazine or an e-mail newsletter, when you use certain products or services, such as our Updates software, and when you visit CNET pages and read newsletters. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our CNET sites you are no longer anonymous to us. CNET may also receive information about you from other sources and add it to the information you have provided to us. 
 
-6.Log Files  
-We use IP addresses to analyse trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+**2\. What Anonymous Information Does CNET Networks Collect?**  
+_Cookies_  
+Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to any of our sites. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit most CNET sites, although active participation in certain areas of our sites may require cookies. In addition, you may elect not to allow cookies to be collected by selecting certain options on your browser. 
 
-7.Links  
-silicon.com contains links to other sites. Please be aware that silicon.com is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this website.   
-However, if you have any concerns about privacy on partners' sites please let us as know at [privacy@silicon.com](mailto:privacy@silicon.com).  
+_Web Bugs & Servers_  
+We use electronic images known as Web bugs - sometimes called single-pixel GIFs, transparent GIFs, or clear gifs- that allow us to track general user traffic patterns. CNET also automatically receives and records information from our servers and from your browser including your IP address, the time, and information about the page you requested. 
 
+We use tracking technologies in a variety of ways, including: 
 
-8.Surveys, Competitions and Promotions  
-From time to time silicon.com runs surveys, competitions and promotions and may request information from users as part of these. Participation in these is entirely voluntary and the user therefore has a choice whether or not to disclose any information which might be required.
+  * keeping count of return visits to our site or our advertiser' or partners' sites 
+  * accumulating and report anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage 
+  * determining which features users like best 
+  * saving your password so you don't have to re-enter it each time you visit our sites 
 
-9.Email to A Friend Feature  
-If a user elects to use this service to send a silicon.com article to a friend, the user enters the friend's name and email address. silicon.com will automatically send the friend an email containing the text of the article and some information about silicon.com. The email may also contain details about offers or promotions from silicon.com or its partners and sponsors.   
-silicon.com stores this information for the sole purpose of sending this one-time email. The friend may contact silicon.com by email at [privacy@silicon.com](mailto:privacy@silicon.com) to request the removal of this information from the database.  
+_Third-Party Advertisement Servers_  
+silicon.com uses the DoubleClick DART technology for serving advertisements on its web pages. To view the DoubleClick privacy policy go to [here](http://www2.doubleclick.net/us/corporate/privacy). 
 
+Additionally, some of our advertisers use third-party companies to serve their advertisements on our sites and, in some cases, in our HTML-formatted newsletters. In both cases, these third-party advertising companies employ cookie and Web bug technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. If you would like more information about the privacy policies of the third-party advertising providers including information on how to opt out of their tracking methods, check [here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
-10.Security  
-silicon.com takes every precaution to protect users' information. When users submit sensitive information via the website, their information is protected both online and off-line. Access to all our user's information is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. The servers that we store personally identifiable information on are kept in a secure environment.   
+**3\. How Does CNET Networks Use The Information?**  
+CNET uses the information we gather for four general purposes: 
 
+  * to customise the advertising and content you see, which helps keep our services free to users 
+  * to enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you 
+  * to fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in polls, contests and forums. 
+  * to send you information you agreed to receive about topics we think will be of interest to you 
 
-11.Email Newsletters  
-We send all new members a welcoming email to verify password and user name details. Users have the option to subscribe to various email services we offer and, where appropriate, the choice to have their user name and password included. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the opt-out information below.
+**4\. How Does CNET Networks Share The Information?**  
+_Personally Identifiable Information_  
+CNET will make your personally identifiable information available to other companies or people when: 
 
-12.Site and Service Updates  
-From time to time we need to send users site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service.
+  * we have your consent to share the information 
+  * we have engaged companies to work with or on behalf of CNET to provide a product or service that you have requested, such as opt-in e-mail announcements 
+  * you use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
+  * we respond to injunctions, court orders or legal process; or we believe that your actions violate applicable laws or any usage guidelines for specific products or services, or threaten the rights, property or safety of silicon.com, our users, or others 
 
-13.Correction/Updating Personal Information  
-If a user's personally identifiable information changes or if a user no longer wishes to subscribe to the service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us as speedily as possible. This can be done by emailing us at [customersupport@silicon.com](mailto:customersupport@silicon.com).  
-.
+_Aggregate Information_  
+CNET aggregates personally identifiable information and discloses such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional and other purposes. We do not disclose to these entities any information that could be used to identify you personally. 
 
-14.Data Protection, Opt-out & Unsubscribe  
-Users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. Any queries can be directed to [privacy@silicon.com](mailto:privacy@silicon.com).  
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to them and putting "unsubscribe" in the subject line of the email.   
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.  
+_Business Transfers_  
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes. 
 
+**5\. What Are My Options?**  
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. We also give users the following options: 
 
-15.Notification of Changes  
-If we decide to change our privacy policy, we will post those changes on the main inbox of silicon.com so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+  * opting not to receive our electronic newsletters or those of third parties when registering. Users who opt-in may remove themselves from mailing lists at any time through the subscription management pages or by following the instructions at the end of the e-mail they received from us; 
+  * opting not to provide certain personal information when registering for a site. 
 
-**16\. Advertisements on Silicon.com** Our Web site uses ad servers (such as DoubleClick) to serve the advertisements that you see on pages of our Web site. That partner uses cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of DoubleClick, please click here[ http://www.doubleclick.net/privacy_policy](http://www.doubleclick.net/privacy_policy/)
+**6\. How Can I Update My Personally Identifiable Information?**  
+You can correct or change the information collected during registration for any site (see above for a description of the registration process). The instructions for doing this can be found in our member services areas. Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. Currently, we do not offer users a means by which to completely delete personal information established at the time of registration. 
 
+_Registration-management tools_
+
+  * [silicon.com](https://web.archive.org/silicon/member/500001/803.html)
+
+**7\. How Will I Know If The Privacy Policy Is Changed?**  
+Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection we will send affected users written notice of the change. 
+
+**Questions, Comments**  
+Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to or to our offices at  
+International House,  
+1\. St Katharine.s Way,  
+London,  
+E1W 1XQ 
+
+We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site and program, or review and discard the information. 
+
+_E-mail contacts for questions_
+
+  * [Customer Service](mailto:enquiries@silicon.com)
+
+  
+---  
+  
+|    
+|   
+---  
+| To personalise your silicon.com experience  
+---  
+First Name  
+Last Name  
+Email address  
+Company Size  
+Occupation  
   
 
