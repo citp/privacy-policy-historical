@@ -1,0 +1,851 @@
+<!--The following is the downloaded HTML source of the 4thegame.com privacy policy that was archived on 2002-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601185607id_/http%3A//www.4thegame.com/pages/privacy_statement.html) for the most accurate reproduction.-->
+
+<html><head>
+<title>4thegame.com Page</title>
+<link rel="stylesheet" href="http://www.4thegame.com/faprem.css">
+<script language="JavaScript" src="http://www.4thegame.com/js/home/scriptHead.js"></script>
+<script language="JavaScript">
+<!--
+
+    if (document.images) {
+
+
+            menu1On = new Image();
+            menu1On.src = "http://www.4thegame.com/graphics/home_page_files/nav_team2.gif";
+            menu1Off = new Image();
+            menu1Off.src = "http://www.4thegame.com/graphics/home_page_files/nav_teams.gif";
+
+			menu2On = new Image();
+            menu2On.src = "http://www.4thegame.com/graphics/home_page_files/nav_man2.gif";
+            menu2Off = new Image();
+            menu2Off.src = "http://www.4thegame.com/graphics/home_page_files/nav_man.gif";
+            
+            menu3On = new Image();
+            menu3On.src = "http://www.4thegame.com/graphics/navigate/nav_result2.gif";
+            menu3Off = new Image();
+            menu3Off.src = "http://www.4thegame.com/graphics/navigate/nav_results.gif";
+            
+            menu4On = new Image();
+            menu4On.src = "http://www.4thegame.com/graphics/navigate/nav_preview2.gif";
+            menu4Off = new Image();
+            menu4Off.src = "http://www.4thegame.com/graphics/navigate/nav_preview.gif";
+
+            menu5On = new Image();
+            menu5On.src = "http://www.4thegame.com/graphics/navigate/nav_stat2.gif";
+            menu5Off = new Image();
+            menu5Off.src = "http://www.4thegame.com/graphics/navigate/nav_stat.gif";
+            
+            menu6On = new Image();
+            menu6On.src = "http://www.4thegame.com/graphics/navigate/nav_archive2.gif";
+            menu6Off = new Image();
+            menu6Off.src = "http://www.4thegame.com/graphics/navigate/nav_archive.gif";
+            
+            menu7On = new Image();
+            menu7On.src = "http://www.4thegame.com/graphics/navigate/nav_feature2.gif";
+            menu7Off = new Image();
+            menu7Off.src = "http://www.4thegame.com/graphics/navigate/nav_feature.gif";
+            
+            menu8On = new Image();
+            menu8On.src = "http://www.4thegame.com/graphics/navigate/bcfc_nav2.gif";
+            menu8Off = new Image();
+            menu8Off.src = "http://www.4thegame.com/graphics/navigate/bcfc_nav.gif";
+
+            //menu8On = new Image();
+            //menu8On.src = "http://www.4thegame.com/graphics/navigate/nav_news2.gif";
+            //menu8Off = new Image();
+            //menu8Off.src = "http://www.4thegame.com/graphics/navigate/nav_news.gif";
+
+			   fans_messboardOn = new Image();
+											fans_messboardOn.src = "http://www.4thegame.com/graphics/fansforum/fans2_messboard.gif";
+											fans_messboardOff = new Image();
+											fans_messboardOff.src = "http://www.4thegame.com/graphics/fansforum/fans_messboard.gif";
+
+											competitionOn = new Image();
+											competitionOn.src = "http://www.4thegame.com/graphics/fansforum/fans2_comp.gif";
+											competitionOff = new Image();
+											competitionOff.src = "http://www.4thegame.com/graphics/fansforum/fans_comp.gif";
+
+											pollOn = new Image();
+											pollOn.src = "http://www.4thegame.com/graphics/fansforum/fans2_poll.gif";
+											pollOff = new Image();
+											pollOff.src = "http://www.4thegame.com/graphics/fansforum/fans_poll.gif";
+
+											fans_managerOn = new Image();
+											fans_managerOn.src = "http://www.4thegame.com/graphics/fansforum/fans2_mangrmnth.gif";
+											fans_managerOff = new Image();
+											fans_managerOff.src = "http://www.4thegame.com/graphics/fansforum/fans_mangrmnth.gif";
+
+											fans_playerOn = new Image();
+											fans_playerOn.src = "http://www.4thegame.com/graphics/fansforum/fans2_playermnth.gif";
+											fans_playerOff = new Image();
+											fans_playerOff.src = "http://www.4thegame.com/graphics/fansforum/fans_playermnth.gif";
+
+
+
+
+}
+
+// Functions to leap out of framesets.
+
+var appVer = navigator.appVersion;
+var NS = (navigator.appName == 'Netscape') && ((appVer.indexOf('3') != -1) || (appVer.indexOf('4') != -1));
+var MSIE = (appVer.indexOf('MSIE 4') != -1);
+
+if(top!=self) { 
+        var newURL = self.location
+        if (NS || MSIE)
+                top.location.replace(newURL);
+        else
+                top.location.href = newURL;
+}
+
+function imgOn(imgName) {
+        if (document.images) {
+            eval('document.'+imgName+'.src = '+imgName+'On.src');
+        }
+}
+function imgOff(imgName) {
+        if (document.images) {
+            eval('document.'+imgName+'.src = '+imgName+'Off.src');
+        }
+}
+            
+
+<!--change this variable mN to the number of menus-->
+
+var mN = 8 ;
+
+function showMenu(menu)
+{
+
+    if (navigator.appName == 'Netscape')
+    {
+        isNS = true
+    }
+    else
+    {
+        isNS = false
+    }
+        
+    var agt = navigator.userAgent.toLowerCase();
+    var is_gecko       = (agt.indexOf('gecko') != -1);
+
+	if( is_gecko )
+	{
+		menu = document.getElementById( menu );
+		for(i=1; i<=mN; i++)
+		{
+			mc = document.getElementById( 'menuContent'+i );
+
+			if( menu != mc )
+			{
+				mc.style.visibility='hidden';
+				imgOff( 'menu'+i );
+			}else{
+				mc.style.visibility='visible';
+				imgOn( 'menu'+i );
+			}
+		}
+		return;
+	}
+	
+    if (isNS)
+        for(i=1; i<=mN; i++)
+        if (menu != 'menuContent'+i){
+            eval('document.menuContent'+i+'.visibility="hidden"');
+            eval('document.menu'+i+'.src = menu'+i+'Off.src');
+        }else{
+            eval('document.menuContent'+i+'.visibility="visible"');
+            eval('document.menu'+i+'.src = menu'+i+'On.src');
+            }else{
+        
+//for IE below here    
+
+        for(i=1; i<=mN; i++)
+        if (menu != 'menuContent'+i){
+            eval('document.all.menuContent'+i+'.style.visibility="hidden"')
+            eval('document.menu'+i+'.src = menu'+i+'Off.src');
+        }else{
+            eval('document.all.'+menu+'.style.visibility="visible"')
+            eval('document.menu'+i+'.src = menu'+i+'On.src');
+            }
+        }
+}
+    
+
+function hideMenu(menu,imgName){
+
+    if (navigator.appName == 'Netscape'){
+        isNS = true
+    }else{
+        isNS = false
+        }
+        
+	
+    var agt = navigator.userAgent.toLowerCase();
+    var is_gecko       = (agt.indexOf('gecko') != -1);
+	if( is_gecko )
+	{
+	    mc = document.getElementById( menu );
+		mc.style.visibility='hidden';
+		for(i=1; i<=mN; i++)
+			if( 'menuContent'+i == menu )
+				imgOff( 'menu'+i );
+		return;
+	}
+
+    if(isNS){
+        eval('document.'+menu+'.visibility="hidden"')
+        eval('document.'+imgName+'.src = '+imgName+'Off.src');
+        }else{
+        eval('document.all.'+menu+'.style.visibility="hidden"')
+        eval('document.'+imgName+'.src = '+imgName+'Off.src');
+    }
+}
+
+
+function hideAll(){
+        for(i=1; i<=mN; i++){
+            if (navigator.appName == 'Netscape'){
+                isNS = true
+            }else{
+                isNS = false
+                }
+                
+
+    var agt = navigator.userAgent.toLowerCase();
+    var is_gecko       = (agt.indexOf('gecko') != -1);
+	if( is_gecko )
+	{
+		for(i=1; i<=mN; i++)
+		{
+			mc = document.getElementById( 'menuContent'+i );
+			mc.style.visibility='hidden';
+			imgOff( 'menu'+i );
+		}
+		return;
+	}
+
+
+                if(isNS){
+                    eval('document.menuContent'+i+'.visibility="hidden"')
+                    eval('document.menu'+i+'.src = menu'+i+'Off.src');
+                }else{
+                    eval('document.all.menuContent'+i+'.style.visibility="hidden"');
+                    eval('document.menu'+i+'.src = menu'+i+'Off.src');
+                    }
+                }
+}
+
+
+
+//-->
+</script>
+
+<style>
+#menuContent1 {position:absolute; width:111px; left:0; top:122; z-index:0; visibility:hidden;}
+#menuContent2 {position:absolute; width:111px; left:74; top:122; z-index:10; visibility:hidden;}
+#menuContent3 {position:absolute; width:111px; left:160; top:122; z-index:20; visibility:hidden;}
+#menuContent4 {position:absolute; width:111px; left:244; top:122; z-index:30; visibility:hidden;}
+#menuContent5 {position:absolute; width:111px; left:330; top:122; z-index:40; visibility:hidden;}
+#menuContent6 {position:absolute; width:111px; left:414; top:122; z-index:50; visibility:hidden;}
+#menuContent7 {position:absolute; width:111px; left:499; top:122; z-index:60; visibility:hidden;}
+#menuContent8 {position:absolute; width:111px; left:583; top:122; z-index:70; visibility:hidden;}
+#menuContent9 {position:absolute; width:111px; left:628; top:122; z-index:80; visibility:hidden;}
+</style>
+</head>
+
+<body border="0" topmargin="0" marginheight="0" marginwidth="0" onload="MM_preloadImages('http://www.4thegame.com/graphics/home/team_news1.gif','http://www.4thegame.com/graphics/home/team_fix1.gif','http://www.4thegame.com/graphics/home/team_stats1.gif','http://www.4thegame.com/graphics/home/team_squad1.gif','http://www.4thegame.com/graphics/home/team_ground1.gif','http://www.4thegame.com/graphics/home/team_history1.gif','http://www.4thegame.com/graphics/home/team_merch1.gif')" background="http://www.4thegame.com/graphics/home/bkground.gif" leftmargin="0" vlink="#c57525"><div id="menuContent1" style="">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td height="107" valign="top" width="150">
+        <table width="150" border="0" cellspacing="0" cellpadding="1">
+          <tbody><tr bgcolor="#000066">
+            <td>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="2"><tbody><tr bgcolor="#94BEFE"><td valign="top" class="smallBla" width="40%">
+	<a href="http://www.4thegame.com/club/afc/" class="smallBla">Arsenal</a><br>
+	<a href="http://www.4thegame.com/club/avfc/" class="smallBla">A Villa</a><br>
+	<a href="http://www.4thegame.com/club/bifc/" class="smallBla">Birmingham</a><br>
+	<a href="http://www.4thegame.com/club/brfc/" class="smallBla">Blackburn</a><br>
+	<a href="http://www.4thegame.com/club/bwfc/" class="smallBla">Bolton</a><br>
+	<a href="http://www.4thegame.com/club/cafc/" class="smallBla">Charlton</a><br>
+	<a href="http://www.4thegame.com/club/cfc/" class="smallBla">Chelsea</a><br>
+	<a href="http://www.4thegame.com/club/efc/" class="smallBla">Everton</a><br>
+	<a href="http://www.4thegame.com/club/ffc/" class="smallBla">Fulham</a><br>
+	<a href="http://www.4thegame.com/club/lfc/" class="smallBla">Liverpool</a><br>
+	<a href="http://www.4thegame.com/club/lufc/" class="smallBla">Leeds</a><br>
+	<a href="http://www.4thegame.com/club/mcfc/" class="smallBla">Man City</a><br>
+	<a href="http://www.4thegame.com/club/mfc/" class="smallBla">Middlesbro</a><br>
+	<a href="http://www.4thegame.com/club/mufc/" class="smallBla">Man United</a><br>
+	<a href="http://www.4thegame.com/club/nufc/" class="smallBla">Newcastle</a><br>
+	<a href="http://www.4thegame.com/club/safc/" class="smallBla">Sunderland</a><br>
+	<a href="http://www.4thegame.com/club/sfc/" class="smallBla">Soton</a><br>
+	<a href="http://www.4thegame.com/club/thfc/" class="smallBla">Tottenham</a><br>
+	<a href="http://www.4thegame.com/club/wbfc/" class="smallBla">West Brom</a><br>
+	<a href="http://www.4thegame.com/club/whfc/" class="smallBla">West Ham</a><br>
+</td></tr></tbody></table>
+
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td height="58" rowspan="2" valign="top" width="73"><a href="#" onmouseover="hideMenu('menuContent1','menu1');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="162" border="0"></a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="62"><a href="#" onmouseover="hideMenu('menuContent1','menu1');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="150" height="10" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="menuContent2" style="">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="58" rowspan="2" valign="top" align="right" width="10"><a href="http://www.4thegame.com" onmouseover="hideMenu('menuContent2','menu2');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="162" border="0"></a></td>
+      <td height="107" valign="top" width="150">
+        <table width="150" border="0" cellspacing="0" cellpadding="1">
+          <tbody><tr bgcolor="#000066">
+            <td>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="2"><tbody><tr bgcolor="#94BEFE"><td valign="top" class="smallBla" width="40%">
+	<a href="http://www.4thegame.com/club/afc/" class="smallBla">Arsenal</a><br>
+	<a href="http://www.4thegame.com/club/avfc/" class="smallBla">A Villa</a><br>
+	<a href="http://www.4thegame.com/club/bifc/" class="smallBla">Birmingham</a><br>
+	<a href="http://www.4thegame.com/club/brfc/" class="smallBla">Blackburn</a><br>
+	<a href="http://www.4thegame.com/club/bwfc/" class="smallBla">Bolton</a><br>
+	<a href="http://www.4thegame.com/club/cafc/" class="smallBla">Charlton</a><br>
+	<a href="http://www.4thegame.com/club/cfc/" class="smallBla">Chelsea</a><br>
+	<a href="http://www.4thegame.com/club/efc/" class="smallBla">Everton</a><br>
+	<a href="http://www.4thegame.com/club/ffc/" class="smallBla">Fulham</a><br>
+	<a href="http://www.4thegame.com/club/lfc/" class="smallBla">Liverpool</a><br>
+	<a href="http://www.4thegame.com/club/lufc/" class="smallBla">Leeds</a><br>
+	<a href="http://www.4thegame.com/club/mcfc/" class="smallBla">Man City</a><br>
+	<a href="http://www.4thegame.com/club/mfc/" class="smallBla">Middlesbro</a><br>
+	<a href="http://www.4thegame.com/club/mufc/" class="smallBla">Man United</a><br>
+	<a href="http://www.4thegame.com/club/nufc/" class="smallBla">Newcastle</a><br>
+	<a href="http://www.4thegame.com/club/safc/" class="smallBla">Sunderland</a><br>
+	<a href="http://www.4thegame.com/club/sfc/" class="smallBla">Soton</a><br>
+	<a href="http://www.4thegame.com/club/thfc/" class="smallBla">Tottenham</a><br>
+	<a href="http://www.4thegame.com/club/wbfc/" class="smallBla">West Brom</a><br>
+	<a href="http://www.4thegame.com/club/whfc/" class="smallBla">West Ham</a><br>
+</td></tr></tbody></table>
+
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td height="58" rowspan="2" valign="top" width="73"><a href="#" onmouseover="hideMenu('menuContent2','menu2');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="162" border="0"></a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="62"><a href="#" onmouseover="hideMenu('menuContent2','menu2');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="150" height="10" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+<div id="menuContent3" style="">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="72" rowspan="2" valign="top" align="right" width="10"><a href="#" onmouseover="hideMenu('menuContent3','menu3');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+      <td height="72" valign="top" width="152">
+        <table width="152" border="0" cellspacing="0" cellpadding="1">
+          <tbody><tr bgcolor="#000066" valign="top">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                <tbody><tr bgcolor="#94BEFE" valign="top">
+
+                  <td class="smallBla">
+                    <a href="http://www.4thegame.com/results/livescores" class="smallBla">Live Scores</a><br>
+                    <a href="http://www.4thegame.com/results/premiership" class="smallBla">Barclaycard Premiership</a><br>
+                    <a href="http://www.4thegame.com/results/last7days" class="smallBla"> - Last 7 Days</a><br>
+                    <a href="http://www.4thegame.com/results/season/" class="smallBla"> - This Season</a><br>
+                    <a href="http://www.4thegame.com/results/champs/" class="smallBla">Champions League</a><br>
+                    <a href="http://www.4thegame.com/results/uefa/" class="smallBla">UEFA Cup</a><br>
+                    <a href="http://www.4thegame.com/results/fac/" class="smallBla">FA Cup</a><br>
+                    <a href="http://www.4thegame.com/results/wc/" class="smallBla">Worthington Cup </a><br>
+                                      </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td height="72" rowspan="2" valign="top" width="73"><a href="#" onmouseover="hideMenu('menuContent3','menu3');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="62"><a href="#" onmouseover="hideMenu('menuContent3','menu3');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="121" height="10" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+  <div id="menuContent4">
+    <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="72" rowspan="2" valign="top" align="right" width="10"><a href="#" onmouseover="hideMenu('menuContent4','menu4');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+      <td height="72" valign="top" width="222">
+        <table width="162" border="0" cellspacing="0" cellpadding="1">
+          <tbody><tr bgcolor="#000066" valign="top">
+            <td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+				<tbody><tr bgcolor="#94BEFE" valign="top">
+					<td class="smallBla">
+						<a href="http://www.4thegame.com/previews/7daydiary/" class="smallBla">7 Day Diary</a><br>
+
+					</td>
+				</tr>
+				</tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td height="72" rowspan="2" valign="top" width="73"><a href="#" onmouseover="hideMenu('menuContent4','menu4');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="62"><a href="#" onmouseover="hideMenu('menuContent4','menu4');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="121" height="10" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="menuContent5" style="">
+   <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="72" rowspan="2" valign="top" align="right" width="10"><a href="#" onmouseover="hideMenu('menuContent5','menu5');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+      <td height="72" valign="top" width="190">
+        <table width="190" border="0" cellspacing="0" cellpadding="1">
+          <tbody><tr bgcolor="#000066" valign="top">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                <tbody><tr bgcolor="#94BEFE" valign="top">
+
+                  <td class="smallBla"><a href="http://www.4thegame.com/stats/topscorers/" class="smallBla">Top Goalscorers</a><br>
+                    <a href="http://www.4thegame.com/stats/assists/" class="smallBla">Assists</a><br>
+                    <a href="http://www.4thegame.com/stats/bookings/" class="smallBla">Player Bookings</a><br>
+                    <a href="http://www.4thegame.com/stats/attendances/" class="smallBla">Attendances</a><br>
+                    <a href="http://www.4thegame.com/stats/teambookings/" class="smallBla">Team Bookings</a><br>
+                    <a href="http://www.4thegame.com/stats/referees/" class="smallBla">Referees</a><br>
+                    <a href="http://www.4thegame.com/stats/tables/" class="smallBla">Barclaycard Premiership Tables</a><br>
+                </td></tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td height="72" rowspan="2" valign="top" width="73"><a href="#" onmouseover="hideMenu('menuContent5','menu5');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="62"><a href="#" onmouseover="hideMenu('menuContent5','menu5');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="121" height="10" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+  <div id="menuContent6">
+    <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="72" rowspan="2" valign="top" align="right" width="10"><a href="#" onmouseover="hideMenu('menuContent6','menu6');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="83" border="0"></a></td>
+      <td height="20" valign="top" width="122">
+        <table width="122" border="0" cellspacing="0" cellpadding="1">
+          <tbody><tr bgcolor="#000066" valign="top">
+            <td>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="2"><tbody><tr bgcolor="#94BEFE" valign="top"><td class="smallBla">
+	<a href="http://www.4thegame.com/archive/#2000-2001">2000 / 2001</a><br>
+	<a href="http://www.4thegame.com/archive/#1999-2000">1999 / 2000</a><br>
+	<a href="http://www.4thegame.com/archive/#1998-1999">1998 / 1999</a><br>
+	<a href="http://www.4thegame.com/archive/#1997-1998">1997 / 1998</a><br>
+	<a href="http://www.4thegame.com/archive/#1996-1997">1996 / 1997</a><br>
+	<a href="http://www.4thegame.com/archive/#1995-1996">1995 / 1996</a><br>
+</td></tr></tbody></table>
+
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td height="72" rowspan="2" valign="top" width="73"><a href="#" onmouseover="hideMenu('menuContent6','menu6');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="11" height="83" border="0"></a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="62"><a href="#" onmouseover="hideMenu('menuContent6','menu6');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="121" height="10" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+  <div id="menuContent7" style="">
+    <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td rowspan="2" valign="top" align="right" width="10"><a href="#" onmouseover="hideMenu('menuContent7','menu7');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="11" height="32" border="0"></a></td>
+      <td height="8" valign="top" width="122">
+        <table width="122" border="0" cellspacing="0" cellpadding="1">
+          <tbody><tr bgcolor="#000066" valign="top">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                <tbody><tr bgcolor="#94BEFE" valign="top">
+                  <td class="smallBla">
+					<a href="http://www.4thegame.com/lma/news/interview/" target="_blank" class="smallBla">Video</a><br>
+					<a href="http://www.4thegame.com/features/columnists/" class="smallBla">Columnists</a><br>
+                    <a href="http://www.4thegame.com/features/transfers/" class="smallBla">Transfers</a><br>
+                    <a href="http://www.4thegame.com/lma/news/interview/" target="_blank&quot;" class="smallBla">Interviews</a><br>
+<!--
+<a href="/features/otd/" class="smallBla">On This Day</a><br>
+-->
+                    <a href="http://www.4thegame.com/features/wtps/" class="smallBla">WTPS</a><br>
+                    <a href="http://www.4thegame.com/features/twtwtw/" class="smallBla">TWTWTW</a><br>
+                    <a href="http://www.4thegame.com/features/weekendeye/" class="smallBla">Weekend Eye</a><br>
+                    <a href="http://www.4thegame.com/features/offside/" class="smallBla">Offside</a>
+                                      </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td rowspan="2" valign="top" width="73"><a href="#" onmouseover="hideMenu('menuContent7','menu7');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="32" border="0"></a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="62"><a href="#" onmouseover="hideMenu('menuContent7','menu7');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="121" height="10" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+  <div id="menuContent8" style="">
+    <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td height="72" rowspan="2" valign="top" align="right" width="10"><a href="#" onmouseover="hideMenu('menuContent8','menu8');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+      <td height="72" valign="top" width="160">
+        <table width="160" border="0" cellspacing="0" cellpadding="1">
+          <tbody><tr bgcolor="#000066" valign="top">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                <tbody><tr bgcolor="#94BEFE" valign="top">
+                  <td class="smallBla"><a href="http://www.4thegame.com/barclaycardfc/register.html" class="smallBla">Register for the Football Club</a><br>
+                    <a href="http://www.4thegame.com/barclaycardfc/studentregister.html" class="smallBla">Student Promotion</a><br>
+                    <a href="http://www.4thegame.com/barclaycardfc/" class="smallBla">Members Login</a><br>
+                    <a href="http://www.4thegame.com/forums/" class="smallBla">Message Boards</a><br>
+                    <!--<a href="http://www.4thegame.com/competition/" class="smallBla">Competitions</a><br>-->
+                    <!--<a href="http://www.4thegame.com/poll/latest/102797
+" class="smallBla">Poll</a><br>-->
+                    <a href="http://www.4thegame.com/pages/manager_march2002" class="smallBla">Manager of Month</a><br>
+                    <a href="http://www.4thegame.com/pages/player_march2002" class="smallBla">Player of Month</a><br>
+                </td></tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td height="72" rowspan="2" valign="top" width="73"><a href="#" onmouseover="hideMenu('menuContent8','menu8');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="62"><a href="#" onmouseover="hideMenu('menuContent8','menu8');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="121" height="10" border="0"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<!--
+  <div id="menuContent8">
+    <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td height="72" rowspan="2" valign="top" align="right" width="10"><a href="#" onMouseOver="hideMenu('menuContent8','menu8');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+      <td height="72" valign="top" width="122">
+        <table width="122" border="0" cellspacing="0" cellpadding="1">
+          <tr bgcolor="#000066" valign="top">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="2">
+                <tr bgcolor="#94BEFE" valign="top">
+                  <td class="smallBla">
+                    <a href="javascript:openurl('http://www.4thegame.com/console/console.html')" class="smallBla">Video</a><br>
+					<a href="http://www.4thegame.com/news/bnews/" class="smallBla">Breaking</a><br>
+                  <a href="http://www.4thegame.com/news/premier/" class="smallBla">Premiership</a><br>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td height="72" rowspan="2" valign="top" width="73"><a href="#" onMouseOver="hideMenu('menuContent8','menu8');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="10" height="72" border="0"></a></td>
+    </tr>
+    <tr>
+      <td valign="top" width="62"><a href="#" onMouseOver="hideMenu('menuContent8','menu8');"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="121" height="10" border="0"></a></td>
+    </tr>
+  </table>
+</div>
+-->
+
+
+<!-- End Div's for navigation --> <!-- Div's for 3 http://www.4thegame.com/graphics --> <!-- End Div's for 3 http://www.4thegame.com/graphics -->
+
+
+  <table bgcolor="#0097FF" width="760" border="0" cellspacing="0" cellpadding="0" background="http://www.4thegame.com/graphics/home_page_files/header_ad.gif">
+    <tbody><tr valign="center">
+      <td width="242" height="68" rowspan="3"><a href="http://www.4thegame.com"><img src="http://www.4thegame.com/graphics/blank.gif" width="220" height="73" border="0" alt="Home"></a></td>
+      <td height="1"><a href="#" onmouseover="hideAll('menuContent1','menu1');"><img border="0" height="1" src="http://www.4thegame.com/graphics/spacer.gif" width="470"></a></td>
+    </tr>
+	<tr>
+      <td width="468" height="60" valign="bottom" align="left"><iframe src="http://ad.doubleclick.net/adi/eplsoccer.l90/;sz=468x60;ord=1022957708?" name="frame1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><SCRIPT language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/eplsoccer.l90/;abr=!ie;sz=468x60;ord=1022957708?"></SCRIPT><NOSCRIPT><A HREF="http://ad.doubleclick.net/jump/eplsoccer.l90/;abr=!ie;sz=468x60;ord=1022957708?"><IMG SRC="http://ad.doubleclick.net/ad/eplsoccer.l90/;abr=!ie;sz=468x60;ord=1022957708?" border=0 height="60" width="468"></A></NOSCRIPT></iframe>
+</td>
+
+    </tr>
+	<tr>
+      <td height="2"><a href="#" onmouseover="hideAll('menuContent1','menu1');"><img border="0" height="2" src="http://www.4thegame.com/graphics/spacer.gif" width="470"></a></td>
+    </tr>
+  </tbody></table>
+
+<script language="javascript" type="text/javascript">
+ <!--
+ var ID1456789235 = false;
+ //-->
+</script>
+  <table width="760" border="0" cellspacing="0" cellpadding="0" name="Navigation">
+    <tbody><tr>
+      <td width="84" height="49"><a href="http://www.4thegame.com/club/" onmouseover="showMenu('menuContent1');"><img src="http://www.4thegame.com/graphics/home_page_files/nav_teams.gif" width="84" height="49" border="0" alt="Teams" name="menu1"></a></td>
+      <td width="86" height="49"><a href="http://www.4thegame.com/lma" onmouseover="hideAll(); imgOn('menu2');" onmouseout="imgOff('menu2');"><img src="http://www.4thegame.com/graphics/home_page_files/nav_man.gif" width="86" height="49" border="0" alt="Managers" name="menu2"></a></td>
+      <td width="84" height="49"><a href="http://www.4thegame.com/results/" onmouseover="showMenu('menuContent3');"><img src="http://www.4thegame.com/graphics/navigate/nav_results.gif" width="84" height="49" border="0" alt="Results" name="menu3"></a></td>
+      <td width="85" height="49"><a href="http://www.4thegame.com/previews/" onmouseover="showMenu('menuContent4');"><img src="http://www.4thegame.com/graphics/navigate/nav_preview.gif" width="85" height="49" border="0" alt="Previews" name="menu4"></a></td>
+      <td width="85" height="49"><a href="http://www.4thegame.com/stats/" onmouseover="showMenu('menuContent5');"><img src="http://www.4thegame.com/graphics/navigate/nav_stat.gif" width="85" height="49" border="0" alt="Statistics" name="menu5"></a></td>
+      <td width="81" height="49"><a href="http://www.4thegame.com/archive/" onmouseover="showMenu('menuContent6');"><img src="http://www.4thegame.com/graphics/navigate/nav_archive.gif" width="81" height="49" border="0" alt="Archive" name="menu6"></a></td>
+      <td width="85" height="49"><a href="http://www.4thegame.com/features/" onmouseover="showMenu('menuContent7');"><img src="http://www.4thegame.com/graphics/navigate/nav_feature.gif" width="85" height="49" border="0" alt="Features" name="menu7"></a></td>
+      <td width="170" height="49"><a href="http://www.4thegame.com/barclaycardfc/" onmouseover="showMenu('menuContent8');"><img src="http://www.4thegame.com/graphics/navigate/bcfc_nav.gif" width="170" height="49" border="0" alt="Fan Zone" name="menu8"></a></td>
+<!--
+      <td width="85" height="49"><a href="http://www.4thegame.com/news/" onMouseOver="showMenu('menuContent8');"><img src="http://www.4thegame.com/graphics/navigate/nav_news.gif" width="85" height="49" border="0" alt="News" name="menu8"></a></td>
+-->
+    </tr>
+    <tr>
+      <td bgcolor="#000066" height="13" colspan="3" class="smallLight">
+        Sat, 01 June, 2002 07:55 PM BST      </td>
+      <td bgcolor="#000066" height="13"><img src="http://www.4thegame.com/graphics/navigate/blank.gif" width="1" height="1"></td>
+      <td bgcolor="#000066" height="13" colspan="5" class="smallLight" align="right">
+        <script language="JavaScript" class="smallLight">
+
+        <!-- Begin
+        if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4 ))
+        {
+                var bookmark="http://www.4thegame.com";
+                var title="4thegame";
+
+                document.write('<a href="javascript:window.external.AddFavorite(bookmark,title);" ');
+                document.write('onMouseOver=" window.status=');
+                document.write("'Add 4thegame to your bookmarks!'; return true ");
+                document.write('"onMouseOut=" window.status=');
+                document.write("' '; return true ");
+                document.write('"><font color="#94BEFE">Add site to your favourites</font></a>');
+        }
+		else
+		{
+			var msg = "Add site to your bookmarks";
+			if(navigator.appName == "Netscape") msg += " - press(CTRL-D)";
+			document.write(msg);
+		}
+
+		// End -->
+
+</script>Add site to your bookmarks - press(CTRL-D)
+</td>
+</tr>
+</tbody></table>
+
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td align="center">
+			<img src="http://www.4thegame.com/graphics/club_images/site_tag.gif" border="0" alt="Barclaycard Premiership">
+		</td>
+	</tr>
+</tbody></table>
+
+<table width="760" border="0" cellspacing="0" cellpadding="0" name="Main body">
+   <tbody><tr>
+      <td valign="top" width="49"><img src="http://www.4thegame.com/graphics/blank.gif" width="49" height="29" border="0"></td>
+      <td valign="top" width="544" height="29">
+			
+			<!--<IMG src="http://www.4thegame.com/graphics/blank.gif" width="1" height="29" border="0">-->
+		</td>
+      <td valign="top" rowspan="2"> 
+	<table width="100%" border="0" cellspacing="0" cellpadding="3" name="Search Nav">
+          <tbody><tr valign="top" align="right">
+            <td>
+               <form action="http://www.4thegame.com/search.html" method="get">
+<a href="http://www.fastsearch.com"><img src="http://www.4thegame.com/graphics/home/fast_button.gif" width="120" height="60" border="0" alt="Fast Logo"></a>
+
+<input type="text" name="query" value="" size="15"><br>
+<input border="0" type="image" src="http://www.4thegame.com/graphics/home/search_this_site.gif" width="100" height="12">
+</form>
+	    </td>
+          </tr>
+			<tr valign="top" align="right">
+			<td>
+				<!-- getting right hand side -->
+	<table border="0" cellspacing="0" cellpadding="3">
+		<tbody><tr>
+			<td>
+<table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><a href="http://www.worldcup.megasoccer.com" target="_blank"><img src="http://www.4thegame.com/graphics/right_ads/mwc_eng120x120.gif" width="120" height="120" alt="Megasoccer World Cup" border="0"></a></td></tr><tr><td align="right"><br></td></tr></tbody></table><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><a href="http://www.emagazineshop.com/main.asp?storekey=4thegame" target="_blank"><img src="http://www.4thegame.com/graphics/right_ads/4thegame_120.gif" width="120" height="120" alt="Emagazine" border="0"></a></td></tr><tr><td align="right"><br></td></tr></tbody></table><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><a href="http://www.ladbrokes.com/lbr_portal?AFF_ID=1270&amp;action=go_home&amp;id=football&amp;retURL_g=/lbr_sports?action=go_coupon~category=SOCCER~class_id=110000006~coupon_id=110000028" target="_blank"><img src="http://www.4thegame.com/graphics/right_ads/engvswed120x400.gif" width="120" height="400" alt="England V Sweden" border="0"></a></td></tr><tr><td align="right"><br></td></tr></tbody></table><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><a href="http://www.kitbag.com/stores/kitbag_3_0/worldcup/default_nike.asp?portal=KYCNSEH8" target="_blank"><img src="http://www.4thegame.com/graphics/right_ads/120x120_NikeWcup.jpg" width="120" height="120" alt="Nike World Cup" border="0"></a></td></tr><tr><td align="right"><br></td></tr></tbody></table><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><a href="http://www.kitbag.com/stores/kitbag_3_0/worldcup/default.asp?portal=KYCNSEH8" target="_blank"><img src="http://www.4thegame.com/graphics/right_ads/kitbag_worldcup120x60.gif" width="120" height="60" alt="Nike World Cup" border="0"></a></td></tr><tr><td align="right"><br></td></tr></tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+							</td>
+			</tr>
+	</tbody></table>
+        </td>
+    </tr>
+    <tr valign="top">
+      <td valign="top" width="49" tmp_height="173">&nbsp;</td>
+      <td valign="top" width="544">
+              <span class="medBlaBOLD">PRIVACY POLICY</span><p></p>
+			<p class="smallBla"><b><u>Definitions</u></b>:<br>
+				<b>Us/We:</b> FastWeb Media Ltd<br>
+				<b>You:</b> The user of 4thegame.com / member of Barclaycard Football Club<br>
+				<b>Them:</b> Barclaycard</p>
+            <p class="smallBla">Fast Web Media Ltd is committed to your right to privacy and will 
+              only use your data as set out in our privacy policy below. Please 
+              read this information carefully. By using 4thegame.com you agree 
+              to us collecting and using your personal information in accordance 
+              with the details below. </p>
+            <p class="smallBla"><b>1. What information will we collect about you?</b><br>
+              We will collect information about you when you register to join 
+              the Barclaycard Football Club, when you enter competitions and when 
+              you contact us or through the use of cookies. This may include information 
+              about how you use the Site. Though the privacy policy below has 
+              been developed to take account of the rapid development of Internet 
+              technology it is subject to change. Any such changes will be notified 
+              on this page. <br>
+              <br>
+              <b>2. What are cookies? Does 4thegame.com use cookies?</b><br>
+              When you use the 4thegame.com site we may automatically issue your 
+              computer with a small piece of code (a 'cookie'). Cookies are files 
+              we transfer to your computer's hard disk. Cookies can store information 
+              about your preferences on products and services and other information 
+              which you access when you visit the Site. We can use cookies to 
+              show us how you are using our Site and to collect demographic or 
+              statistical information about user behaviour. They allow us to analyse 
+              the popularity of the Site and to better manage and improve the 
+              service we provide to you. We also use ad servers to serve the advertisements 
+              that you see on the pages of our web site. You may also be issued 
+              with a cookie as part of this process. </p>
+            <p class="smallBla"><b>3. How will we use the information we collect about you?</b><br>
+              In order to use the 4thegame.com site you are not required to register 
+              or provide any personal information about yourself. </p>
+            <p class="smallBla">You may however choose to join the Barclaycard Football Club when 
+              you must register with us when we will collect and record the data 
+              you give us when registering or when you use the Site. Registration 
+              may also be necessary to enable you to participate in a competition, 
+              give-away or survey. As part of the registration process we may 
+              ask you to provide some limited personal information about yourself 
+              such as your name, address and e-mail and other information which 
+              we will use to better develop our Site to your needs. </p>
+            <p class="smallBla">We will use the personal information you provide: <br>
+              · to supply and manage the services you have asked us to 
+              provide to you; <br>
+              · to improve and develop the service or products we offer 
+              by analysing your information; <br>
+              · and to learn more about you so that we can identify products 
+              and services which may be of interest to you which we will tell 
+              you about if you have asked us to send you details of our products 
+              and services. </p>
+            <p class="smallBla"> <b><br>
+              4. Will we share your information with anyone else?</b><br>
+              We will share your information with Barclaycard, and may share 
+              your information with other companies, who will be able to use it 
+              for assessment and analysis (including market and product analysis). 
+              Unless you tell us that you do not wish to receive information from 
+              us or other companies, your information may be used by us or other 
+              companies to tell you (by letter, phone (including automated dialling), 
+              fax, digital television, e-mail or SMS) about products and services (including 
+              those of others) which may be of interest to you.</p>
+            <p class="smallBla">We do at times need to pass on your information to people who provide 
+              services to us and them (although this is only done on the understanding 
+              that your information is kept confidential). Data may also be disclosed 
+              to anyone who receives a transfer of any data recipients' rights 
+              or duties, if there is a legal duty to disclose or if the law allows 
+              it. </p>
+            <p class="smallBla"><b>5. How long will Fast Web Media Ltd keep your personal information 
+              on file? </b><br>
+              We will not keep your information for longer than is necessary and 
+              will take steps to ensure that it is kept up to date. You may also 
+              update your information from time to time. You have a right under 
+              the Data Protection Act 1998 to ask what information we hold about 
+              you. You can do this by writing to us at:</p>
+            <p class="smallBla">Fast Web Media Ltd,<br>
+              12th Floor, Sunlight House,<br>
+              Quay Street,<br>
+              Manchester, <br>
+              M3 3JZ </p>
+            <p class="smallBla"><b>6. Will we transfer your information outside of the UK?</b><br>
+              Please note that we may have to send your information to locations 
+              outside the UK or the EEA, such as the USA, possibly including countries 
+              whose protection of personal information may not be as high as that 
+              in the UK. If your information is transferred to a service provider 
+              or agent in another country, we will make sure that the service 
+              provider or agent agrees to apply the same levels of protection, 
+              as we are required to apply to information held in the UK. We will 
+              ensure that your information is only used for the purpose of providing 
+              a service to us. </p>
+            <p class="smallBla"> <b>7. How we communicate with you.</b><br>
+              If you contact us or we contact you by telephone, we may:<br>
+              · record the call so that we can check instructions; <br>
+              · listen to calls to help us monitor the quality of our service. 
+            </p>
+            <p class="smallBla">We will send e-mails to the e-mail address you have given us. We 
+              will not be responsible if anyone else gets access to your e-mails. 
+              If you send us an e-mail, you cannot assume that it has reached 
+              us until we return an e-mail acknowledging receipt. Please note 
+              that the Internet is not a completely secure medium. Please tell 
+              us if you find any failure, delay or error in sending or receiving 
+              e-mail. </p>
+            <p class="smallBla"> <b>8. Any queries?</b><br>
+              If you have any queries or concerns about privacy on the 4thegame.com 
+              site please contact us at </p>
+            <p class="smallBla">Fast Web Media Ltd,<br>
+              12th Floor, Sunlight House,<br>
+              Quay Street,<br>
+              Manchester, <br>
+              M3 3JZ </p>
+      </td>
+    </tr>
+<script language="javascript" type="text/javascript">
+  <!--
+  if (ID1456789235) {
+  writeActiveAdNetscape4();
+  }
+  //-->
+</script>
+
+	<tr valign="top">
+		<td></td>
+		<td colspan="2" height="32"><img src="http://www.4thegame.com/graphics/blank.gif" width="1" height="32" border="0"><a href="javascript:history.go(-1)"><img src="/graphics/back.gif" border="0"></a></td>
+	</tr>
+
+<!-- Legals Row start -->
+	<tr>
+		<td colspan="3">
+<table width="100%" cellapsacing="0" cellpadding="0" name="footer">
+	<tbody><tr>
+		<td class="footerBla" align="middle">
+This site Copyright © 1995-2002 <a href="http://www.fastsearch.com/about/locations_fastwebmedia.asp">Fast Web Media Ltd</a>.<br>
+Please read our <a href="http://www.4thegame.com/pages/terms_and_conditions.html">terms page</a>
+and <a href="http://www.4thegame.com/pages/privacy_statement.html">privacy statement</a> for conditions of use.
+<br>
+FAST Image Transfer, FAST Search, and <a href="http://www.alltheweb.com" target="_blank">All The Web</a> TM copyright © <a href="http://www.fast.no" target="_new">FAST Search and Transfer</a>.<br>
+Photographs copyright Allsport.<br>
+No reproduction without consent.<br>
+Any Comment? e-mail: <a href="mailto:feedback@4thegame.com?subject=4thegame.com Feedback">feedback@4thegame.com</a>
+		</td>
+	</tr>
+</tbody></table>
+
+		</td>
+	</tr>
+<!-- Legals Row end -->
+
+  </tbody></table>
+
+
+<!--
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" name="Titles">
+    <tr valign="top">--><!--Sub Navigation--><!--
+      <td height="32"><img src="images/blank.gif" width="1" height="32" border="0">
+      </td>
+    </tr>
+  </table>
+-->
+
+
+
+</body></html>
