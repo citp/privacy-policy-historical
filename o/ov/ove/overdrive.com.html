@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the overdrive.com privacy policy that was archived on 2002-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020402181013id_/http%3A//www.overdrive.com/contact/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the overdrive.com privacy policy that was archived on 2002-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021011102817id_/http%3A//www.overdrive.com/contact/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title> OverDrive, Inc. -- Privacy Statement </title>
@@ -8,6 +8,35 @@
 <link rel="stylesheet" href="../css/OverDrive.css" type="text/css">
 <script language="JavaScript">
 <!--
+
+function makeArray() {
+     for (i = 0; i<makeArray.arguments.length; i++)
+          this[i + 1] = makeArray.arguments[i];
+}
+
+function DayOfWeek(day,month,year) {
+    var a = Math.floor((14 - month)/12);
+    var y = year - a;
+    var m = month + 12*a - 2;
+    var d = (day + y + Math.floor(y/4) - Math.floor(y/100) +
+             Math.floor(y/400) + Math.floor((31*m)/12)) % 7;
+    return d;
+}
+
+
+function PrintDate()
+{
+	var months = new makeArray('January','February','March', 'April','May','June','July','August','September', 'October','November','December');
+	var daysofweek = new makeArray('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday');
+
+	var date = new Date();
+	var day  = date.getDate();
+	var month = date.getMonth() + 1;
+	var yy = date.getYear();
+	var year = (yy < 1000) ? yy + 1900 : yy;
+	var dayNumber = DayOfWeek(day, month, year);
+	document.write(months[month] + " "  + day + ", " + year);
+} 
 
 function newImage(arg) {
 	if (document.images) {
@@ -28,22 +57,23 @@ function changeImages() {
 var preloadFlag = false;
 function preloadImages() {
 	if (document.images) {
-		home_01_over = newImage("images/home-over.jpg");
-		contact_us_01_over = newImage("images/contact_us-over.jpg");
-		customers_01_over = newImage("images/customers-over.jpg");
-		support_01_over = newImage("images/support-over.jpg");
-		company_01_over = newImage("images/company-over.jpg");
-		resources_01_over = newImage("images/resources-over.jpg");
-		partners_01_over = newImage("images/partners-over.jpg");
-		products_01_over = newImage("images/products-over.jpg");
-		services_01_over = newImage("images/services-over.jpg");
-		epublishing_02_over = newImage("images/epublishing-over.jpg");
-		drm_solutions_05_over = newImage("images/drm_solutions-over.jpg");
-		retail_ecommerce_07_over = newImage("images/retail_ecommerce-over.jpg");
-		content_reserve_homepage_09_over = newImage("images/content_reserve_homepage-over.jpg");
-		conv_services_11_over = newImage("images/conv_services-over.jpg");
-		consulting_11_over = newImage("images/consulting-over.jpg");
-		kiosks_11_over = newImage("images/kiosks-over.jpg");
+		home_01_over = newImage("../images/home-over.jpg");
+		contact_us_01_over = newImage("../images/contact_us-over.jpg");
+		customers_01_over = newImage("../images/customers-over.jpg");
+		support_01_over = newImage("../images/support-over.jpg");
+		company_01_over = newImage("../images/company-over.jpg");
+		resources_01_over = newImage("../images/resources-over.jpg");
+		partners_01_over = newImage("../images/partners-over.jpg");
+		products_01_over = newImage("../images/products-over.jpg");
+		services_01_over = newImage("../images/services-over.jpg");
+		epublishing_02_over = newImage("../images/epublishing-over.jpg");
+		drm_solutions_05_over = newImage("../images/drm_solutions-over.jpg");
+		retail_ecommerce_07_over = newImage("../images/retail_ecommerce-over.jpg");
+		content_reserve_homepage_09_over = newImage("../images/content_reserve_homepage-over.jpg");
+		conv_services_11_over = newImage("../images/conv_services-over.jpg");
+		consulting_11_over = newImage("../images/consulting-over.jpg");
+		kiosks_11_over = newImage("../images/kiosks-over.jpg");
+		showcase_11_over = newImage("../images/showcase-over.jpg");
 		preloadFlag = true;
 	}
 }
@@ -87,7 +117,7 @@ function preloadImages() {
 						<a href="/default.asp" border="0" onmouseover="changeImages('home_01', '../images/home-over.jpg'); return true;" onmouseout="changeImages('home_01', '../images/home.jpg'); return true;"><img name="home_01" src="../images/home.jpg" width="170" height="23" border="0" alt="Home"></a></td>
 					<td><a href="/about.asp" border="0" onmouseover="changeImages('company_01', '../images/company-over.jpg'); return true;" onmouseout="changeImages('company_01', '../images/company.jpg'); return true;"><img name="company_01" src="../images/company.jpg" width="69" height="23" border="0" alt="Company"></a></td>
 					<td><a href="/prod_overview.asp" border="0" onmouseover="changeImages('products_01', '../images/products-over.jpg'); return true;" onmouseout="changeImages('products_01', '../images/products.jpg'); return true;"><img name="products_01" src="../images/products.jpg" width="85" height="23" border="0" alt="Products"></a></td>
-					<td><a href="/serv_overview.asp" border="0" onmouseover="changeImages('services_01', '../images/services-over.jpg'); return true;" onmouseout="changeImages('services_01', '../images/services.jpg'); return true;"><img name="services_01" src="../images/services.jpg" width="81" height="23" border="0" alt="Services"></a></td>
+					<td><a href="/serv_overview.asp" border="0" onmouseover="changeImages('services_01', '../images/services-over.jpg'); return true;" onmouseout="changeImages('services_01', '../images/services.jpg'); return true;"><img name="services_01" src="../images/services.jpg" width="81" height="23" border="0" alt="Solutions"></a></td>
 					<td><a href="/customers" border="0" onmouseover="changeImages('customers_01', '../images/customers-over.jpg'); return true;" onmouseout="changeImages('customers_01', '../images/customers.jpg'); return true;"><img name="customers_01" src="../images/customers.jpg" width="95" height="23" border="0" alt="Customers"></a></td>
 					<td><a href="/partners/partner-overview.asp" border="0" onmouseover="changeImages('partners_01', '../images/partners-over.jpg'); return true;" onmouseout="changeImages('partners_01', '../images/partners.jpg'); return true;"><img name="partners_01" src="../images/partners.jpg" width="84" height="23" border="0" alt="Partners"></a></td>
 					<td><a href="/resources.asp" border="0" onmouseover="changeImages('resources_01', '../images/resources-over.jpg'); return true;" onmouseout="changeImages('resources_01', '../images/resources.jpg'); return true;"><img name="resources_01" src="../images/resources.jpg" border="0" alt="Resources"></a></td>
@@ -110,6 +140,7 @@ function preloadImages() {
 		<td><img src="../images/newhomepage_pc_04.jpg" height="20" width="100" border="0"><br><img src="../images/company-bar.gif" border="0" alt="Company"><br>
 		&nbsp;&nbsp;<a href="/about.asp" class="leftnav">Company Overview</a><br>
 		&nbsp;&nbsp;<a href="/news" class="leftnav">Press Releases</a><br>
+		&nbsp;&nbsp;<a href="/testimonials.asp" class="leftnav">Testimonials</a><br>
 		&nbsp;&nbsp;<a href="/events" class="leftnav">Events</a><br>
 		&nbsp;&nbsp;<a href="/odteam.asp" class="leftnav">Team OverDrive</a><br>
 		&nbsp;&nbsp;<a href="/jobs.asp" class="leftnav">Careers</a><br>	
@@ -124,12 +155,10 @@ function preloadImages() {
 
 
 <table width="415px" align="left" cellspacing="0" cellpadding="10" border="0">
-<tbody><tr>
-	<td height="25">&nbsp;</td>
-</tr>
 
-<tr>
-	<td>
+
+<tbody><tr>
+	<td><br><br>
 
 <p>OverDrive, Inc. (OverDrive) respects your privacy.  This statement discloses the privacy
 practices for www.overdrive.com and all related websites maintained by OverDrive.  This statement
@@ -219,6 +248,17 @@ we will be happy to assist you.</p>
 
 </td>
 </tr>
+
+
+
+<tr>
+	<td><a href="javascript: window.history.back();"><img src="../images/previous.jpg" alt="Previous" border="0"></a></td>
+</tr>
+
+
+
+
+
 </tbody></table>
 
 
@@ -273,25 +313,20 @@ we will be happy to assist you.</p>
 					<td height="20px" class="date" align="center"><b>Content Reserve: <a href="http://www.contentreserve.com" target="_blank" class="rwblue">Login</a></b></td>
 					</tr>
 					<tr valign="top">
-						<td height="140" class="date"><img src="../images/spotlight-partners.jpg" border="0" alt="Spotlight Partners"><br><br>
-						<div align="center"><a href="/partners/partner-overview.asp"><img src="../images/spotlightpartners1.gif" border="0" alt="Spotlight Partners"></a></div></td>
+						<td height="190" class="date"><img src="../images/spotlight-partners.jpg" border="0" alt="Spotlight Partners"><br><br>
+						<div align="center"><a href="/partners/partner-overview.asp"><img src="../images/spotlightpartners-new.gif" border="0" alt="Spotlight Partners"></a></div></td>
 					</tr>
 					<tr valign="top">
-						<td height="235"><img src="../images/od-in-the-news.jpg" border="0" alt="OverDrive in the News">
+						<td height="280"><img src="../images/od-in-the-news.jpg" border="0" alt="OverDrive in the News">
 							<table>
 								<tbody><tr>
 									<td valign="top"><img src="../images/blue-button.jpg"></td>
-									<td><a href="/news/pr/03252002.asp" class="odnews">March 25, 2002 - Leading DRM Companies Join Forces to Broaden International Reach for eBooks and Digital Media</a></td>
-								</tr>
-
+									<td><a href="/news/pr/10082002.asp" class="odnews">October 08, 2002 - Digital Magazines, Periodicals and Newspapers Added to OverDrive Media Network</a></td>
+								</tr>	
 								<tr>
 									<td valign="top"><img src="../images/blue-button.jpg"></td>
-									<td><a href="/news/pr/03192002.asp" class="odnews">March 19, 2002 - Digital Kiosks Enable All Publishers and Retailers to Sell Protected eBook and Audio Content</a></td>
+									<td><a href="/news/pr/08282002.asp" class="odnews">August 28, 2002 - Digital Bookstore Opens on OfficeMax.com</a></td>
 								</tr>
-								
-
-								
-							
 								<tr>
 									<td valign="top"><img src="../images/blue-button.jpg"></td>
 									<td><a href="/news" class="odnews">More News</a></td>
@@ -302,27 +337,22 @@ we will be happy to assist you.</p>
 						</td>
 					</tr>
 				</tbody></table>
-					
-
-
-
-					
-
 					</td>
 				</tr>
 			</tbody></table>	
 			
 			<table width="750" valign="bottom">
 				<tbody><tr>
-					<td><br>
+					<td>
 						<table width="400" align="center">
 							<tbody><tr>
-								<td valign="middle" align="center"><img src="../images/partners/adobelogo-footer.gif"></td>
-								<td valign="middle" align="center"><img src="../images/partners/mslogo-footer.gif" border="0" alt="Microsoft"></td>
-								<td valign="middle" align="center"><img src="../images/partners/att1-footer.gif" border="0" alt="AT&amp;T"></td>
+								<td valign="middle" align="center" width="25%"><img src="../images/partners/adobelogo-footernew.gif" alt="Adobe"></td>
+								<td valign="middle" align="center" width="25%"><img src="../images/partners/mslogo-footer.gif" border="0" alt="Microsoft"></td>
+								<td valign="middle" align="center" width="25%"><img src="../images/partners/palm.jpg" border="0" alt="Palm"></td>
+								<td valign="middle" align="center" width="25%"><img src="../images/partners/att1-footer.gif" border="0" alt="AT&amp;T"></td>
 							</tr>
 							<tr>
-								<td valign="bottom" colspan="3" align="center"><br><font size="1">©2002 OverDrive Inc.  All rights reserved.<br>
+								<td valign="bottom" colspan="4" align="center"><br><font size="1">©2002 OverDrive Inc.  All rights reserved.<br>
 								<a href="/contact/privacy.asp" class="leftnav">Privacy Policy</a></font></td>
 							</tr>
 						</tbody></table>
