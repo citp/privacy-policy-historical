@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stamfordadvocate.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207222841id_/http%3A//www.stamfordadvocate.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stamfordadvocate.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607023456id_/http%3A//www.stamfordadvocate.com/go/services/privacy) for the most accurate reproduction.*
 
 # The Advocate - Privacy Policy
 
@@ -100,4 +100,4 @@ Governing law.
 
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. Users of **Stamfordadvocate.com** consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. **Stamfordadvocate.com** is controlled, operated and administered entirely within the United States. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-Copyright © 2002, Southern Connecticut Newspapers, Inc.
+Copyright © 2004, Southern Connecticut Newspapers, Inc.
