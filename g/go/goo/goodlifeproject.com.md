@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifeproject.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812183227id_/http%3A//goodlifeproject.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifeproject.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611003122id_/http%3A//www.goodlifeproject.com/privacy.htm) for the most accurate reproduction.*
 
 # The Good Life Project
 
@@ -25,7 +25,5 @@ Last Revised: July 14, 2002
   
 |  |  |   
 ---  
-  
-Become a charter member of The Good Life Project and receive a free book, The Good Life Guide to Buying Art. (Offer expires 10/16/02.) [Find out more about the benefits.](https://web.archive.org/web/20030812183227id_/http%3A//goodlifeproject.com/join.htm)  
   
 Know someone living the good life? Send us an [e-mail](mailto:goodlife@goodlifeproject.com).
