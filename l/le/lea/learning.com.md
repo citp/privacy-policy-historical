@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604000916id_/http%3A//www.learning.com/Privacy_Policy/0%2C1502%2C28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2001-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010822072929id_/http%3A//learning.com/Privacy_Policy/0%2C1502%2C28%2C00.html) for the most accurate reproduction.*
 
 # Learning.com :: Privacy Policy
 
