@@ -1,47 +1,47 @@
-> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409075454id_/http%3A//www.websitegoodies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2003-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030804234707id_/http%3A//www.websitegoodies.com/privacy.php) for the most accurate reproduction.*
 
-# WebSiteGoodies - Privacy Policy
+# Website Goodies - Privacy Policy
 
-  
-|  |  [**SiteBuilderNews**](http://www.sitebuildernews.com/)  
-Subscribe to our FREE weekly ezine for website owners!  
-[**Web Directory**](http://www.websitegoodies.com/webdirectory)  
-A directory of resources by web developers for web developers; anything from learning HTML to tools for promoting your site.[ **Learn**](http://www.websitegoodies.com/learn)  
-Articles, cheatsheets, and resources to help you learn to build your website. [**Enhance**](http://www.websitegoodies.com/enhance)  
-OnMouseOver generator, articles, free graphics, free guestbooks, and more to enhance your site![ **Promote**](http://www.websitegoodies.com/promote)  
-Promotion tips, powerful tools, and traffic-generating articles to help increase your traffic!|    
----|---|---  
-[](http://www.linkguard.com/online/websitegoodies/onlinelogin.htm)  
-Click for Free Link Check [](http://www.webtrendslive.com/redirect.asp?siteID=31167)   
-  
-**Privacy Policy**
+## Privacy Policy
 
-WebSiteGoodies has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
+This is a privacy policy for WebsiteGoodies.com. WebsiteGoodies.com respects your privacy. Below is an outline of the information that WebsiteGoodies.com gathers, how it’s used, and how you can “opt-out”:
 
-**Information Automatically Logged**
+You may contact us by email at privacy@websitegoodies.com
 
-Your IP address, referrer, browser, and operating system are automatically logged by our system. This information is kept confidential by WebSiteGoodies and is not resold or redistributed in any form.
+Site Visits:
 
- **Advertisers**
+Whenever you request a page through your browser, navigation and clickstream data such as:
 
-We use an outside ad company, Advertising.com, to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. The Advertising.com privacy policy can be found [here](http://www.advertising.com/privacy/index.html). 
+* your IP address,  
+* browser and version,  
+* operating system,  
+* date and time and  
+* the site from which you came
 
-**Personal Information**
+are stored in a log file and/or database. Any search terms that you enter into the WebsiteGoodies.com Site Search are also logged by our search provider, Atomz.com. This information cannot be used to identify specific individuals, and is only used for:
 
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. 
+* Website and system administration,  
+* research and development,  
+* anonymous user analysis, and  
+* to provide accurate statistics to advertisers in the form of aggregated data.
 
-Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
+The email addresses collected from subscriptions to the WebsiteGoodies.com newsletters are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out WebiteGoodies.com communications (for example, the WebsiteGoodies.com newsletters). The email addresses collected at WebsiteGoodies.com are stored on a server hosted by Topica. You can remove yourself from our list at any time by visiting http://www.topica.com and logging in to "My Topica".
 
-**External Links**
+Cookies are a technology which can be used to provide you with tailored information from a Website. A cookie is an element of data that a Website can send to your browser, and which your browser may then store on your system. You can set your browser to notify you when you receive a cookie. Doing this will allow you to decide on a case-by-case basis whether to accept cookies or not.
 
-This site contains links to external sites. WebSiteGoodies is not responsible for the privacy practices or the content of such Web sites.
+Cookies on this site are used by ourselves, our ad management system, and occasionally by advertisers who use 3rd party ad serving solutions. Cookies are used for:
 
- **Public Forums**
+* ad tracking,  
+* customization of content (i.e. not repeating pop-up windows),  
+* storing login information, and  
+* statistical site-traffic analysis.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+The information collected during the registration process for the WebsiteGoodies.com free tools is used to:
 
-**Contacting the Site**
+* contact members,  
+* provide you with custom code to use on your website(s) in order to use the free tools,  
+* subscribe you to our publications if you chose to do so during registration
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [feedback@websitegoodies.com](mailto:feedback@websitegoodies.com).
+Any data collected will be used by ourselves and our agents. WebsiteGoodies.com hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
 
-WebSiteGoodies uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm). 
+If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact privacy@websitegoodies.com. 
