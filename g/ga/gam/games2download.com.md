@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the games2download.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207201003id_/http%3A//www.games2download.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2download.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305144337id_/http%3A//www.games2download.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Games Download
+# Privacy Policy - Games 2 Download
 
 ## Privacy Policy
 
