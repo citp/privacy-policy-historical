@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621170321id_/http%3A//schooldude.com/infctr/infctr-privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015620id_/http%3A//www.schooldude.com/infctr/infctr-privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Info Center
 
@@ -44,9 +44,6 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 Furthermore, while we strive to protect your personal information, SchoolDude cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In addition, SchoolDude partners and third party Internet sites and services accessible through SchoolDude or parties whom we inform you are collecting data in connection with sweepstakes, promotions, etc., have separate privacy and data collection practices, independent of us. SchoolDude has no responsibility or liability for these independent policies or actions. 
 
 **The point?** You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
-
-**We use WebTrends Live**   
-to conduct anonymous web traffic analysis for our site. While WebTrends Live makes use of cookies, no personal information is ever collected or analyzed by this service. For more information on WebTrends Live, please visit their site at <http://www.webtrendslive.com/privacy_policy.htm>.
 
 **Our policy on Discussion Messages and Posts**  
 The content of these messages and posts are not necessarily those shared by SchoolDude.com, Inc. These opinions are expressly those of the online community members and their guests. SchoolDude.com makes no claims to agree with or disagree with the opinions expressed on line. SchoolDude.com will make every attempt to maintain decorum at its discretion and will remove visitors' posts if they are deemed to be unacceptable. 
