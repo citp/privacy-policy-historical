@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slyck.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209093347id_/http%3A//www.slyck.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slyck.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202014647id_/http%3A//www.slyck.com/privacy.php) for the most accurate reproduction.*
 
-# Slyck Guide To Privacy
+# Slyck Privacy Policy
 
 This Privacy Policy applies to www.slyck.com (Slyck.com). By accessing Slyck.com, you agree to be bound by the terms of this Privacy Policy. 
 
