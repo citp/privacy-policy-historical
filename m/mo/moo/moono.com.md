@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moono.com privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224021945id_/http%3A//www.moono.com/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moono.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305161654id_/http%3A//www.moono.com/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Moono.com - Ultimate Entertainment Source for movies, gossip, music, lyrics, wallpaper, celebrities, jokes, pictures and more.
 
