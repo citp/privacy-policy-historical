@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402103118id_/http%3A//velonews.gadoz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204220333id_/http%3A//velonews.com/privacy.html) for the most accurate reproduction.*
 
 # Inside Communications Privacy Policy
 
