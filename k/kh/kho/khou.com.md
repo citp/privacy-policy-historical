@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215093048id_/http%3A//www.khou.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404193312id_/http%3A//www.khou.com/privacy.html) for the most accurate reproduction.*
 
 # KHOU.com | News for Houston, Texas | Section Title
 
-[Privacy Policy](https://web.archive.org/web/20041215093048id_/http%3A//www.khou.com/...) **Updated as of March 3, 2004**
+[Privacy Policy](https://web.archive.org/web/20050404193312id_/http%3A//www.khou.com/...) **Updated as of March 3, 2004**
 
 This Privacy Policy discloses the general privacy practices for the Belo Interactive web sites, including KHOU.com. Belo Interactive, Inc. ("Belo Interactive") is a subsidiary of Belo Corp.   
 Belo Interactive is committed to respecting your privacy rights when visiting any Belo Interactive web site, such as this one. To protect your Personal Information, Belo Interactive has created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy.
