@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612022437id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115943id_/http%3A//www.architecturaldesigns.com/about/priva.asp) for the most accurate reproduction.*
 
 # House Plans & Home Designs from Architectural Designs - Privacy Policy
 
 | House plans, floor plans and home plans to suit your every need |   
 | 
 
-[](http://www.architecturaldesigns.com/index.asp)
+[](http://www.architecturaldesigns.com/)
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|  **[Home](http://www.architecturaldesigns.com/index.asp)** |  |  **About  Us** |  |  **Services** |  |  **Plans  Include** |  |  **Contact  Us** |  |  **Help** |  |  **Affiliates** |  |  **Builders** |  |  **[Site Map](http://www.architecturaldesigns.com/sitemap.asp)** |  |  |  |  |   
+|  **[House Plans](http://www.architecturaldesigns.com/)** |  |  **About  Us** |  |  **Services** |  |  **House  Plans Include** |  |  **Contact  Us** |  |  **Help** |  |  **Affiliates** |  |  **Builders** |  |  **[Site Map](http://www.architecturaldesigns.com/sitemap.asp)** |  |  |  |  |   
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
 |  |  |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---  
@@ -28,7 +28,7 @@ If you send us an email message, we may retain the content of the email, your em
   
    
 ---  
-|  |  [Home](http://www.architecturaldesigns.com/index.asp) |  Contact Us  |  Copyright  |  Privacy Policy |  [House Plans](http://static.architecturaldesigns.com/) |  [Site Map](http://www.architecturaldesigns.com/sitemap.asp)   
+|  |  [House Plans](http://www.architecturaldesigns.com/) |  Contact Us  |  Copyright  |  Privacy Policy |  [House Styles](http://static.architecturaldesigns.com/) |  [Site Map](http://www.architecturaldesigns.com/sitemap.asp)   
   
 ****Architectural Designs :: 57 Danbury Road :: Wilton, CT 06897  
 USA & Canada 1-800-854-7852 or 1-877-229-2447 :: International 262-521-4596  
