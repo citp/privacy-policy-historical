@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 1999-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991110100932id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618152832id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
 
 # BookLocker.com
 
