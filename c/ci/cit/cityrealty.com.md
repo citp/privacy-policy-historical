@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410093440id_/http%3A//www.cityrealty.com/how_cityrealty_works/privacy_policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214162144id_/http%3A//www.cityrealty.com/how_cityrealty_works/privacy_policy.page) for the most accurate reproduction.*
 
 # New York City Apartments > CITY REALTY.COM > HOW CITYREALTY WORKS > PRIVACY POLICY
 
   
-|    
- [](https://web.archive.org/) > [](https://web.archive.org/how_cityrealty_works) > PRIVACY POLICY
+| 
 
 CityRealty.com, Inc. ("CityRealty") understands and appreciates that our Web site visitors and clients are concerned about their privacy and about the confidentiality and security of information we may obtain about them online. We want you to understand the steps we have taken to safeguard the information we receive online about visitors who access or interact with the CityRealty.com Web site and related services (the "CityRealty Web Site"). 
 
