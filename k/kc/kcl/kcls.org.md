@@ -1,37 +1,41 @@
-> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604083939id_/http%3A//kcls.org/about/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcls.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204223046id_/http%3A//kcls.org/about/privacystatement.cfm) for the most accurate reproduction.*
 
 # King County Library System--Privacy Statement
 
 |  **Library Services**  
 ---  
+[Library Catalog ](http://www.kcls.org/catalog/kclswebpac.cfm)  
 [Find Your Library](http://www.kcls.org/kcls/liblist.cfm)  
 [Programs,   
 Classes & Events](http://www.kcls.org/programs/programs.cfm)  
 [Ask a Librarian](http://www.kcls.org/aall/pickerpage.cfm)  
 [Reserve a PC](http://book.kcls.org/)  
 [Library Cards](http://www.kcls.org/libcards/card.cfm)  
-[eBooks](http://www.kcls.org/ebooks/ebook.cfm)  
+[eBooks](http://ebooks.kcls.org/)  
 **Good Reads**  
-[Good Reads](http://www.kcls.org/gr/goodrds.cfm)  
-[New Reads](http://www.kcls.org/gr/newreads.cfm)  
+[Book Alert ](http://www.kcls.org/bookalert/)  
 [Book Clubs](http://www.kcls.org/bookclub/)  
+[Good Reads](http://www.kcls.org/gr/)  
+[New Reads](http://www.kcls.org/gr/newreads.cfm)  
 **Youth Services**  
 [Homework Help](http://www.kcls.org/hh/homework.cfm)  
-[Kidspage](http://www.kcls.org/webkids/kidpage.cfm)  
-[TeenZone](http://www.kcls.org/newya/ya.cfm)  
+[Kids Page](http://www.kcls.org/webkids/)  
+[TeenZone](http://www.kcls.org/newya/)  
 [Parents & Caregivers](http://www.kcls.org/pp/parents.cfm)  
 **Library Resources**  
 [eAudio](http://www.kcls.org/eaudio/eaudiofaqs.cfm)  
-[Seniors](http://www.kcls.org/tlc/links.cfm#seniors)  
 [ESL/Literacy](http://www.kcls.org/lit/esl.cfm)  
+[New Music](https://web.archive.org/newmusic/)  
+[Preview Videos & DVD's](http://www.videodetective.com/home.asp?CustomerID=59362&Ads=false&PublishedId=1530)  
+[Seniors](http://www.kcls.org/tlc/tlcsvcs.cfm)  
 [Special   
 Collections](http://www.kcls.org/sc/special.cfm)  
-[Foundation](http://www.kcls.org/foundation/foundation.cfm)  
+[Foundation](http://www.kcls.org/foundation/)  
 [Search/Site Map](http://www.kcls.org/search/search.cfm)  
 [Volunteers](http://www.kcls.org/volunteers/friendvol.cfm)  
 [KCLS   
 Employment ](http://www.kcls.org/employment/hrjobs.cfm)  
-|  [](http://www.kcls.org/) |  [](http://www.kcls.org/catalog/kclswebpac.cfm) |  [](http://www.kcls.org/erout/erout.cfm) |  [](http://www.kcls.org/findit/seeall.cfm) |  [](http://ipac.kcls.org/ipac20/ipac.jsp?&profile=dial--1--1--1&menu=account)  
+|  [](http://www.kcls.org/) |  [](http://www.kcls.org/catalog/kclswebpac.cfm) |  [](http://www.kcls.org/erout/erout.cfm) |  [](http://www.kcls.org/sws/categories.cfm) |  [](http://ipac.kcls.org/ipac20/ipac.jsp?&profile=dial--1--1--1&menu=account)  
 ---|---|---|---|---  
   
 [Print This](http://www.kcls.org/printpage.cfm?pg=/about/privacystatement.cfm?)   [Email This](http://www.kcls.org/emailpage.cfm?pg=/about/privacystatement.cfm?)
@@ -48,7 +52,7 @@ Issaquah, WA 98027
 **Web Policy**  
 Thank you for visiting the King County Library System’s Web site. This Privacy Statement demonstrates the commitment of KCLS to patron security.
 
-  King County Library Statement strives to maintain the confidentiality of patron records. It has always been against KCLS policy to share or sell Web site information. 
+  King County Library System strives to maintain the confidentiality of patron records. It has always been against KCLS policy to share or sell Web site information. 
 
 In order to improve the usefulness of the KCLS Web site for visitors, **anonymous** statistical information is automatically collected from usage reports that concern network traffic flow and volume. 
 
