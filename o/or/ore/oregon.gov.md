@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604044847id_/http%3A//www.oregon.gov/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2003-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031230193627id_/http%3A//www.oregon.gov/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # Oregon.gov - Privacy
 
