@@ -1,184 +1,125 @@
-> *The following text is extracted and transformed from the talkcity.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413083409id_/http%3A//www.talkcity.com/csa/privacy.htmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkcity.com privacy policy that was archived on 2002-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021226010252id_/http%3A//www.talkcity.com/csa/privacy.asp) for the most accurate reproduction.*
 
 # Home Pages at Talk City: Your Privacy In Our Community
 
-Talk City, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.talkcity.com. It is Talk City's policy to use its best efforts to respect the privacy of its online visitors.
+  | 
 
-**Table of Content:**
+The following outlines our policies for information gathering and dissemination. 
 
-**Information Collection and Use**  
-**Registration**  
-**Policy for Individuals Under 13**  
-**PARENTS PLEASE READ**  
-**Order**  
-**Cookies**  
-**Log Files**  
-**Sharing**  
-**Links**  
-**Newsletter**  
-**Surveys& Contests**  
-**Tell-A-Friend**  
-**Public Forums**  
-**Security**  
-**Special Offers**  
-**Choice/Opt-Out**  
-**Site and Service Updates**  
-**Correction/Updating Personal Information  
-Notification of Changes**
+#### NOTICE: Policies for Individuals Under the Age of 13
 
-**Information Collection and Use:**
+[Talk City ](http://www.talkcity.com/)is intended for individuals age 13 and over only. We do not accept registrations from children under the age of 13, as we do not provide content for children. Parents please read the statement below for a complete explanation. 
 
-Talk City, Inc is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this  
-Statement.
+__PARENTS PLEASE READ:__   
+Due to the interactive nature of our site, and in order to comply with Federal laws designed to protect your children on the Internet, we do not permit children to register on our site. However, you can easily find a variety of places on the Web that are designed with the safety and best interests of your children in mind. We suggest that you do a search in one of the search engines under the words "kids sites." This should provide a vast selection of sites where your kids will be safely entertained - making the Internet a better place for everyone 
 
-**Registration:**
+#### Member Registration:
 
-We ask our user to first complete the registration form. During registration a user is required to give their some information such as name, email address, birth date information, gender, country of residence and zip code if applicable. We do ask for your occupation and marital status but this information is optional. We encouraged our users to register so we can provide a more personalized experience on our site.
+Any visitor who wishes to chat, create a forum, own a chat room, build home pages, or use other free or premium (paid) services available on the Talk City site is asked to complete a registration form. During registration a user is required to give information such as name, email address, birth date information, gender, country of residence and zip code if applicable. Certain services may additionally require that users provide postal mailing addresses, telephone numbers, or other information. Optional data fields such as marital status, household income, interest areas, etc. may be included. Talk City DOES NOT directly collect credit card or other financial information from users for premium/paid services. This information is collected by a trusted third-party such as PayPal, Inc. (www.paypal.com) and is not disclosed to Talk City or to Talk City marketing partners. 
 
-Any visitor over a certain age can join in and chat on our server as a guest without having to register or provide us with any personally identifiable information. If a visitor wishes to join our community and take part in other features like home pages, email accounts, etc., we then ask them to register.
+We encourage our users to provide accurate and valid registration information so we can provide a more personalized experience on our site. In addition, failure to provide a valid email address may inhibit our ability to notify you of critical service information, including the renewal of subscription services or changes in service or access to the Talk City web site. 
 
-We use the information we collect from our members during the registration process to make Talk City Inc and its co-branded partners better and more responsive to users, and to help us customize the service, and target advertising, sponsorships, and email offers from us and our business partners based on our members' demographics, likes, dislikes, and affiliations. Examples of these co-branded partners would be NBC, Cox Interactive and CheckOut.com.
+Users may need to register more than once for certain services offered by Talk City and/or its marketing partners and/or previously provided registration information may be used to "pre-populate" a registration form when a user registers for a new Talk City service. . 
 
-At our discretion, we will make the information about Talk City's users available in aggregate form to help describe and identify our users to business partners, co-branded sites, the industry, and the public, as well as our advertisers. We will not share any detailed individual member information with other companies unless the member explicitly agrees to our doing so.
+#### Advertising 
 
-**Policies for Individuals Under 13:**
+We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some member data is shared with the advertising companies. 
 
-In order to let you join and enter Talk City we must receive approval from your parents or legal guardian. This is important so that you and your parents are aware of the possible risks when using the internet. The following information is a specific disclosure for parents of those under the age of 13.
+#### Third-Party Service Providers
 
-**PARENTS PLEASE READ**
+Talk City partners with a variety of service providers to bring you services and enhanced features such as email. Information collected about members during registration may be shared with these partners in order to allow us to deliver the service in question. Links to these partner sites and their respective privacy policies are included below: 
 
-Our goal is to provide you with the information you need to make an educated decision about your family's use of Talk City's web site and chat area. Only you can determine what constitutes the best online experience for your children. We will tell you what information we collect from your child, how we use that information, and our disclosure practices regarding such information.
+  * [CP Software, Inc.](http://www.cpsoftware.com/)  ( [Privacy Policy](http://www.cpsoftware.com/privacy)) 
+  * [Match.com, Inc.](http://www.match.com/)
+  * [Prospero, Inc.](http://www.prospero.com/)
 
-When someone registers on our web site we ask of them the following information:
 
-1\. First and last name  
-2\. A online screen name of their choosing  
-3\. Password for their account  
-4\. An email address where they can be reached  
-5\. Birth date  
-6\. Gender  
-7\. Country of residence  
-8\. Zip Code
 
-We also ask for their occupation and marital status but both of these are optional.
+#### Special Offers Marketing
 
-The information is gathered for the use of Talk City, Inc and its co-branded partners. Examples of these partners would be NBC, Cox Interactive and CheckOut.com. Any questions or requests for information are centralized through Talk City. The contact point for this program is K. Stirpe, COPPA Administrator. They can be written to at the following address 1919 South Bascom Avenue, Campbell CA 95008. The email address is kstirpe@corp.talkcity.com. Phone calls can be made 408-871-5481.
+Talk City uses the information we collect during the registration process(s) to allow us to deliver promotional offers of interest to you. By submitting information during the registration process, you are allowing us to share this information with some or all of these partners so they can deliver special offers that may be of interest to you. In addition, these partners may use your information for direct marketing applications, including data enhancement. By submitting your information, you agree to the terms of their respective privacy policies. 
 
-We will use the personal information in order to be able to determine the demographics of our users. This will allow us to provide a better experience for our users. The aggregate information, which does not contain any personal identifiable information, will be used for marketing and advertising purposes on our site. Some of this information will be placed in what is called a "cookie". The use of this information will allow us to better target any offerings we might have, appropriate content and ads to the specific user.
+Links to these partner sites and their respective Privacy Policies is provided below. 
 
-With the exception of the area of our registration where we offer all registrants with various good or services from various vendors, we will not share the personal identifiable information about your child with any outside source with out asking for your specific approval for. Depending on which goods or services your child may choose we will provide those chosen advertisers with the appropriate information to fulfills our child's choice. Specific examples would be as follows: George Magazine offers a free subscription. Since this is a printed magazine we ask your child for their street address. We would provide them with the name and street address so they can mail the magazine. If it's an item that can be emailed to your child we would only provide them with your child's name and email address. If you wish to review the various goods and services before going through the registration process you can click here see the list of vendors and what information is provided. Please be aware that once that information is provided its use is controlled by that third party. We have placed links to those entities privacy policy so you can review how they use the information.
+  * [MaxWorld:](http://www.maxworldwide.com/privacy_policy/index.php)
+  * [Walter Karl Interactive](http://www.wkinteractive.com/privacy.html)
+  * [Virtumundo, Inc.](https://web.archive.org/web/20021226010252id_/http%3A//www.talkcity.com/csa/www.virtumundo.com/privacy)
 
-The information we are asking your child to provide is the same that we ask of all our registrants. We are not conditioning your child's participation on any more information than what we need to be able to provide our services.
 
-Once your child has become registered they have the ability to use many interactive media. We have an are called KidzKorner which is a hosted Talk City chat rooms that is appropriate for kids. The room is open 1 to 4 PM PST on a daily basis. While in the room the Talk City host can see what all the participants are saying publicly and act accordingly if there is any violation of our rules. They cannot see or prevent private messages from being sent or received by your child. You may wish to speak to you child as to how to deal with private messages.
 
-Please be aware that your child can chat in any chat room on our servers and not just KidzKorner. They also have access to their own email account, they can create their own homepage and they can read over and participate in our discussion boards. Only you can determine what is appropriate for your own child. There maybe chats where the topic or the language is not something you wish your child to participate in, its important that you supervise your child's use of the chat area. You should teach your child to not divulge any personal information to others online. This is whether they are chatting, establishing an email penpal or creating a homepage.
+#### Links:
 
-You have a right to review and make any changes to the information provided. You are free to do so at any time by logging onto our web site at the URL http://home.talkcity.com/members.html and using the tools provided to make those changes. You will need to know the nickname your child has chosen and their password. If you wish to delete your child from our system you are free to do so at any time by email the following address unsubscribe@corp.talkcity.com. You can also write or call the COPPA administrator at the address and phone number previously provided.
+The Talk City web site also contains links to other sites. Please be aware that Talk City, Inc. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-We wish to thank you for taking the time to read over how we will use the information we are asking your child to provide us.
+#### Talk City Newsletters:
 
-**Order:**
+If a user wishes to subscribe to our newsletters, we ask for contact information such as name and email address. A user can unsubscribe from the email by writing to the following email address unsubscribe@myesp.com and requesting to be removed from the newsletter mail list. 
 
-We have an online area where users can make online purchases of various products including Talk City branded goods Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. This information is not stored or accessible for any purpose but to deliver you the products you have purchased and then bill you properly.
+#### Surveys & Contests:
 
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use  
-personally identifiable information for any secondary purposes.
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users may opt-out of receiving future mailings (see the choice/opt-out section below). 
 
-**Cookies:**
+#### Tell-A-Friend:
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. **** Talk City does not use cookie technology to obtain any information from its online visitors. Usage of a cookie is in no way linked to any personally identifiable information  
-while on our site. Once the user closes their browser, the cookie simply terminates . If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Talk City will automatically send the friend a one-time email inviting them to visit the site. Talk City, Inc stores this information for the sole purpose of sending this one-time email. The friend may contact Talk City, Inc via email at unsubscribe@corp.talkcity.com to request the removal of this information from the database. 
 
-Talk City's cookie "lives" on your hard drive and keeps track of our predefined browser settings, by setting a cookie on our site, the user would not have to log in a password  
-more than once, thereby saving time while on our site tool bar off and music on, as well as demographic information, preferred client, and Nickname. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+#### Public Forums:
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, our ad company collects cookies received with banner ads, and we do not have access to this information or control over these cookies..
+This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-**Log Files:**
+#### Talk City Downloads:
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site.
+From time to time, Talk City may include the automatic or mandatory download of new products, applets, etc. to the user's computer at the point of registration for various Talk City services. While Talk City reserves the right to include these downloads, their maintenance, and occasional upgrading, it will also provide users with the means to uninstall and/or remove these downloads at their discretion. . All downloaded products will include an "uninstall" feature or will be removable via the computer's "Add/Remove" program feature. Talk City reserves the right to change or amend its list of marketing partners at any time without notice. 
 
-We also track the total number of visitors to our site in an aggregate form (this means you're one of the bunch, your information isn't singled out) to allow us to update and improve our site, and tell other people something about the numbers of people who come to talkcity.com. Personally identifiable information is not extracted in this process.
+#### Cookies:
 
-**Sharing:**
+A cookie is a piece of data stored on the user's hard drive containing information about the user, such as nickname, age, zip code and gender. Talk City uses "cookies" to improve your experience on the site and to assist advertisers in providing you with advertisements targeted toward your interests. 
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+A user may elect to reject the cookie and still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to download or view movies, videos etc. on the Talk City Productions Video Player, nor will they be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. 
 
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the  
-third party to provide these services.
+Talk City's cookie "lives" on your hard drive and allows you to log in to all services on our site without having to enter your password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, our ad companies collects cookies received with banner ads, and we do not have access to this information or control over these cookies. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. 
 
-**Links:**
+#### Log Files:
 
-This web site contains links to other sites. Please be aware that we Talk City, Inc is not responsible for the privacy practices of such other sites. We encourage our users to be  
-aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies  
-solely to information collected by this Web site.
+We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
-**Newsletter:**
+We also track the total number of visitors to our site in an aggregate form (this means you're one of the bunch, your information isn't singled out) to allow us to update and improve our site, and tell other people something about the numbers of people who come to talkcity.com. Personally identifiable information is not extracted in this process, unless necessary to identify, communicate and take appropriate action in incidents where a member is in violation of a Talk City Terms of Service or Code of Conduct policy. In such instances, this information is used only by Talk City management in the enforcing of such policies or by external law enforcement agencies as may be requested and/or required by law. 
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. A user can unsubscribe from the email by writing to the following email address unsubscribe@corp.talkcity.com requesting to be removed from the newsletter mail list.
+#### Aggregate information:
 
-**Surveys & Contests:**
+We may also share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users may opt-out of receiving future mailings (see the choice/opt-out section below).
+#### Site and Service Updates:
 
-**Tell-A-Friend:**
+We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email. 
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Talk City will automatically send the friend a one-time email inviting them to visit the site. Talk City, Inc stores this information for the sole purpose of sending this one-time email. The friend may contact Talk City, Inc via email at unsubscribe@corp.talkcity.com to request the removal of this information from the database.
+#### Correction/Updating Personal Information:
 
-**Public Forums:**
+If any of the information you have provided us in the registration has changed you can make changes through MYINFO area on www.talkcity.com 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its  
-users. Please remember that any information that is disclosed in these areas becomes public  
-information and you should exercise caution when deciding to disclose your personal  
-information.
+#### Terms of Service and Talk City Standards/Codes of Conduct
 
-**Security:**
+All services on Talk City include Terms of Service and Talk City Standards/Code of Conduct policies to which any participating member must agree to adhere by. Talk City reserves the right to monitor all activities undertake by its users while on the Talk City site, or while using any Talk City product or service, in order to ensure that these Terms of Service and Codes of Conduct are not violated. This includes the automatic logging and review of chat room text messaging, home page content, membership in Talk City Clubs, etc. In the event that a member violates a Talk City Terms of Service or Code of Conduct, Talk City reserves the right to revoke a user's Talk City Membership or use of any free or premium service. In the event that Talk City revokes a premium service for which the member has paid a subscription fee, such revocation of service may, at Talk City's sole discretion, be without refund. In the event that a Talk City member is suspected of being in violation with a Talk City Terms of Service or Code of Conduct policy, or with any law - local, state, federal, or otherwise - Talk City reserves the right to use, and share with any such law enforcement agency, any and all user data available to it to identify, and communicate with the member in violation and/or as needed in the revocation of its membership, rights to services, or in compliance with the request of any law enforcement agency. 
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and  
-off-line.
+For a complete review of Talk City's Terms of Service and Code of Conduct policies, [click here ](http://www.talkcity.com/csa/)
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
+#### Choice/Opt-Out:
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
+You are given the opportunity to 'opt-out' ' of having your information used for purposes not directly related to our site. Opt-out/unsubscribe options are available to you at the point of registration and/or are included in the body of any email offer coming to you from Talk City. User's who select the 'opt out' feature of any promotion will have their email address removed Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, contact [privacy@myesp.com ](mailto:privacy@myesp.com)
 
-If you have any questions about the security at our website, you can send an email to postmaster@talkcity.com.
+#### Notification of Changes:
 
-**Special Offers:**
+If we change our privacy policy, we will post those changes to the privacy policy statement available on www.talkcity.com If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner by using an "opt-out/unsubscribe" feature included in the email or on the Talk City web site. Instructions for doing so will be provided. 
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals,  
-and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
+#### Security:
 
-**Choice/Opt-Out:**
+Talk City takes every precaution to protect our users' information. When users submit sensitive information via the web site, your information is protected both online and off-line. 
 
-You are given the opportunity to 'opt-in or 'opt-out' ' of having your information used for purposes not directly related to our site at the point where we ask for the information. For  
-example, you can request from George magazine or Reader's Digest a trial subscription**; or receive personalized email with news stories on topics you are interested in from Lifeminders.com. Our request form has an 'opt' mechanism so you if do not wish a product from our vendors you can can keep your email address off of our lists.
+When our registration/subscription form asks users to enter sensitive information (such as credit card number ), that information is used and stored by entrusted third-party billing and payment clearing houses such as [PayPal](http://www.paypal.com/). 
 
-** In order to be able to fulfill a request like this we would ask you for your street address so that the magazine could be sent to you
+If you have any questions about the security at our web site, you can send an email to: [privacy@myesp.com](mailto:privacy@myesp.com)
 
-Users who no longer wish to receive our newsletter or promotional materials from us may opt-out of receiving these communications by emailing us at the following email address: unsubscribe@corp.talkcity.com .
-
-If you have chosen to receive a product or service from one of our servers you can go to the web site http://www.talkcity.com/csa/opt-out.html . There you will find links to each vendors privacy policy and unsubscribe mechanism.
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they  
-should proceed with services that require an outside party, or not.
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Luis Piedrahita; Talk City, Inc.; 1919 South Bascom Avenue Campbell, CA 95008 or unsubscribe@corp.talkcity.com .
-
-**Site and Service Updates:**
-
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the  
-service. We communicate with the user to provide requested services and in regards to issues relating to their account via email.
-
-**Correction/Updating Personal Information:**
-
-If any of the information you have provided us in the registration has changed you can make changes through the following web page http://www.talkcity.com/help/. You will find a link under the section "My Info" where you can change any or all of the information you have provided us. If you no longer desires our service you can unsubscribe by sending an email to the following email address: unsubscribe@corp.talkcity.com .
-
-**Notification of Changes:**
-
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under  
-circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will  
-notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the  
-privacy policy under which the information was collected.
+|    
+---|---|---
