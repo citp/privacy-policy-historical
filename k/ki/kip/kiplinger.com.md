@@ -1,34 +1,27 @@
-> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204203id_/http%3A//www.kiplinger.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiplinger.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611013952id_/http%3A//www.kiplinger.com/about) for the most accurate reproduction.*
 
 # Kiplinger.com: Investing
 
   | 
 
-This web site is run by:
+Our Privacy Policy
 
-**Kiplinger Washington Editors, Inc.**  
-**1729 H Street NW  
-Washington, DC 20006**  
-We can be reached via e-mail at [webmaster@kiplinger.com](mailto:webmaster@kiplinger.com).  
+Kiplinger.com respects your privacy. We do not share your e-mail address with anyone or any company. Following are the specifics of how we protect your privacy.
 
+WHEN YOU VISIT KIPLINGER.COM. Our server automatically recognizes the domain name of visitors. We collect domain namesonly to keep statistics on whichof our Webpages are being accessed and how often. We share them with no one.
 
-Our server automatically recognizes the domain name of visitors. We collect domain names in an effort to keep statistics on what pages are being accessed and how often.
+WHEN YOU FILL OUT A FORM ON KIPLINGER.COM. When information is provided via feedback forms, we capture all of the information you provide, including your e-mail address and the type of browser being used. However, this information is not compiled or used for any purpose other than to communicate with you.
 
-When information is provided via feedback forms, we capture all of the information the user provides, the user's email address and the type of browser being used. However, this information is not compiled or used for any purposes other than to communicate with the user.
+WHEN YOU PARTICIPATE IN AN ONLINE SURVEY. We may share surveyinformation about our users with advertisers and business partners. However, we keep and share only aggregate numbers. For example, we will say x percent of our users are females and y percent males. We do not reveal any individual information about you.
 
-On occasion, we will put a survey on the site. This information is used primarily to help improve the site. We share information about our users with advertisers and business partners. However, we keep and share only aggregate numbers. For example, we will say x percent of our users are females and y percent males.
+WHEN YOU SIGN UP FOR E-MAIL UPDATES. Kiplinger promotions, as well as outside advertising, may appear on e-mail updates. Your e-mail address will not be shared with other companies or organizations.You can remove your name from the e-mail subscription list at any time by going to <http://www.kiplinger.com/unsubscribe/>.
 
-Users have the option of signing up for a weekly email update. Kiplinger promotions, as well as outside advertising, may appear on email updates. The email addresses are not shared with other companies or organizations. Users can remove their names from the email subscription list at any time by going to <http://www.kiplinger.com/unsubscribe/>.
+OUR POLICY ON “COOKIES.” From time to time, Kiplinger.com may place a "cookie" in a file on your computer. The cookie itself does not collect or reveal any personally identifying information about you. The company that serves ads on our Website uses cookies for various tracking purposes. You always have the option of disabling cookies via your browser preferences. 
 
-On occasion, the site will place a "cookie" in a file on your computer. The cookie itself does not contain any personally identifying information. The company that Kiplinger uses to serve ads on the site uses cookies for various tracking purposes. Users always have the option of disabling cookies via their browser preferences. 
+WHEN YOU CLICK ON A LINK TO ANOTHER WEB SITE. This Web site contains links to other sites, including advertiser sites, and content partners. These sites are not under our control and so are not covered by our Privacy Policy statement. 
 
-This web site contains links to third party sites. These include links to advertiser sites, and partners that may use Kiplinger's logo as part of a co-branding agreement. These sites are not under the control of Kiplinger Washington Editors, Inc., and are not covered under this Privacy Policy Statement. 
+This site uses third-party advertising companies to serve ads. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to this site, the third-party advertising company may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and choices you have to prevent having this information used by these companies, [click here](http://www.doubleclick.net/us/corporate/privacy/).
 
-Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address) on the forums or during a chat, that information can be collected and used by others not connected with Kiplinger Washington Editors, Inc., and may result in unsolicited messages from other posters or parties. 
+WHEN YOU PARTICIPATE IN A FORUM. You should be aware that when you voluntarily disclose personal information (e.g., user name, e-mail address) in the forums or during a chat, that information can be collected and used by others not connected with Kiplinger, and may result in unsolicited messages from them. 
 
-If you supply us with your postal address when signing up for any of Kiplinger's print publications, you should be aware that from time to time Kiplinger makes its subscriber list available to carefully screened companies. However, Kiplinger never sells email addresses. If you are a print subscriber and would rather not receive such solicitations, send your mailing label to P.O. Box 3292, Harlan, IA 51593-0472 and instruct Kiplinger to exclude your name.
-
-This site uses third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to this site, the third-party advertising company may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.net/us/corporate/privacy/). 
-
-.   
-
+IF YOU SUBSCRIBE TO A KIPLINGER PUBLICATION. Kiplinger never sells e-mail addresses, but if you supply us with your postal address when signing up for any of Kiplinger's print publications, you should be aware that from time to time we do make our subscriber list available to carefully screened companies for use in direct mail solicitations. If you are a print subscriber and would rather not receive such solicitations, send your mailing label to P.O. Box 3292, Harlan, IA 51593-0472, and instruct Kiplinger to exclude your name.
