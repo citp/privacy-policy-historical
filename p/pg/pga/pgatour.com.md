@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206125800id_/http%3A//www.pgatour.com/privacy/privacy2_gw.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatour.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409210117id_/http%3A//pgatour.com/information/privacy.html) for the most accurate reproduction.*
 
-# PGATour.com
+# GolfWeb@PGATOUR.COM
 
-  |   |    
-****
-
-## Privacy Statement for SportsLine.com
+**Privacy statement for SportsLine.com**
 
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of SportsLine.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for SportsLine.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites (including those to which the Website links and third party sites or services with which SportsLine.com) may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to [privacy@sportsline.com](mailto:privacy@sportsline.com). 
 
@@ -82,13 +79,12 @@ If you have any questions about this Statement, the practices of SportsLine.com 
 **Customer Service  
 SportsLine.com, Inc.  
 Attn: Privacy Statement  
-PO Box 101027   
-Fort Lauderdale, FL 33310**
+2200 W. Cypress Creek Road  
+Fort Lauderdale, Florida 33309**
 
-|   |    
-  
-  
-[](https://web.archive.org/about/partners/index.html)  
-[Improve Your Game](https://web.archive.org/about/partners/index.html)
-
-[](http://www.sportsline.com/)
+|   |  |   
+---  
+Visit the PGA TOUR  
+Pro Shop for great  
+deals on golf gear  
+[Click Here!](http://www.pgatour.com/proshop/)
