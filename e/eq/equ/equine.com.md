@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606034009id_/http%3A//www.equine.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204100143id_/http%3A//www.equine.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Equine.com - Privacy Policy
 
 **Information Collection and Use**
 
 Equine.com is the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Equine.com collects information from our users at several different points on our website. 
+
+Any and all Equine.com registered user or customer contact information, including but not limited to e-mail addresses, phone numbers, or mailing addresses provided on the Equine.com site, is only for use by persons or entities interested in buying the particular horse, product or service offered by the customer. Unless arranged through Equine.com as an approved and bonafide special promotion, Equine.com's registered users or its customers' contact information may not be used or provided by anyone in the sale, promotion or solicitation of their business, products or services. Any violation of this policy shall be considered theft of Equine.com's information. 
 
 **Registration**
 
