@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206213940id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622085502id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
 # LapLink Inc Privacy Policy
 
@@ -26,7 +26,7 @@ The type of information that we request in these online forms includes your name
 
 The information that you provide to us when you register to download free trial software or register a product is stored with a unique identifying number. The information contained in your personal profile is not provided to anyone outside of LapLink Inc nor is it shared with our designated agents. All of the information you provide during e-commerce transactions is stored by [Digital River](http://drhome.digitalriver.com/live/drv_00pvs_000.shtml) on a secure server which encrypts all of your personal information, including your name, address and credit card number.
 
-LapLink Inc. occasionally uses the information that customers provide to send announcements about new LapLink products and services. 
+LapLink Software Inc. occasionally uses the information that customers provide to send announcements about new LapLink products and services. 
 
 **Why do we collect it?**
 
@@ -53,12 +53,12 @@ Visitors who decide they no longer wish to receive our product mailings or promo
   * Mail us a short note to tell us you no longer wish to receive the promotional materials. For prompt handling of your request, remember to include your name, your full address and your e-mail address. Send your request to:  
 
 
-LapLink Inc.  
-18912 North Creek Parkway  
-Bothell, WA 98011  
+LapLink Software Inc.  
+10210 NE Points Drive, Suite 400  
+Kirkland, WA 98033  
 USA  
-Phone: 425.483.8088  
-Fax: 425.487.1284  
+Phone: 425.952.6000  
+Fax: 425.952.6002  
 
 
 
@@ -94,12 +94,12 @@ Cookies also help us to better understand general visitor interests and patterns
 
 Please feel free to write, call or send us an e-mail message with any questions or comments you have about our privacy policies!
 
-LapLink Inc.  
-18912 North Creek Parkway  
-Bothell, WA. 98011  
+LapLink Software Inc.  
+10210 NE Points Drive, Suite 400  
+Kirkland, WA 98033  
 USA  
-Phone: 425.483.8088  
-Fax: 425.487.1284  
+Phone: 425.952.6000  
+Fax: 425.952.6002  
 [webmaster@laplink.com](mailto:webmaster@laplink.com)  
 
 
