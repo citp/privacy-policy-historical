@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emarketer.com privacy policy that was archived on 2001-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011218010842id_/http%3A//emarketer.com/about_us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emarketer.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605051345id_/http%3A//www.emarketer.com/about_us/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy</title>
@@ -25,9 +25,9 @@
 <script language="JavaScript">
     e_Environment
     (
-        'www.emarketer.com',   // HTTP_HOST
-        '209.247.40.104', // REMOTE_ADDR
-        '2275', // REMOTE_PORT
+        'emarketer.com',   // HTTP_HOST
+        '66.28.250.171', // REMOTE_ADDR
+        '1490', // REMOTE_PORT
         'www.emarketer.com', // SERVER_NAME
         '80', // SERVER_PORT
         '(none)'           // TZ
@@ -84,7 +84,7 @@ if (e_SubDir[0] == "ereports" && e_SubDir[2] == "private") // no ads on the extr
 }
 else
 {
-    e_DynamicAdStart(468, 60, 21611);
+    e_Ad("Top1");
 }
 e_Write("<IMG SRC='/images/one_white_pixel.gif' WIDTH='625' HEIGHT='2'>");
 e_Write("    </TD>");
@@ -162,6 +162,8 @@ e_Write("<TABLE BORDER='0' WIDTH='150' CELLPADDING='0' CELLSPACING='0'>");
         }
 
         </script>
+     <!--BEGIN /include/true_impact.htm -->
+<!--END /include/true_impact.htm -->
 
     </td>
     <td><img src="/images/one_white_pixel.gif" width="4" height="10"></td>
@@ -262,7 +264,7 @@ eMarketer sells information products online. At the time of purchase, we require
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr><td>
 <script language="Javascript">
-if (e_SubDir[0] == "estatnews" || e_SubDir[0] == "ereports")
+if (e_SubDir[0] == "estatnews" || (e_SubDir[0] == "ereports" && e_SubDir[1] != "downloads"))
 {
     e_Write("<IMG SRC='/images/one_grey_pixel.gif' WIDTH='465' HEIGHT='1' BORDER='0' ALT=''>");
 }
@@ -294,7 +296,7 @@ if (e_FnFt != "advertise.html")
 
 <tr><td>
 <script language="Javascript">
-if (e_SubDir[0] == "estatnews" || e_SubDir[0] == "ereports")
+if (e_SubDir[0] == "estatnews" || (e_SubDir[0] == "ereports" && e_SubDir[1] != "downloads"))
 {
     e_Write("<IMG SRC='/images/one_grey_pixel.gif' WIDTH='465' HEIGHT='1' BORDER='0' ALT=''>");
 }
@@ -438,6 +440,14 @@ if (e_SectionDir == "ereports"
     e_Write("<BR>");
     e_ShowPrivacyNotice();
 }
+if (e_FnFt == "stat_alert.html")
+{
+    e_CreateCornerBGImageStart(125,1);
+    e_Write("<SPAN CLASS='FOOTER2'>See what's in a StatAlert. ");
+    e_Write("To read a sample, <A HREF='/statistics/stat_alert_sample.html'>click here</A>.");
+    e_Write("</SPAN>");
+    e_CreateCornerEnd();
+}
 
 
 </script>
@@ -450,8 +460,20 @@ if (e_SectionDir == "ereports"
 
 
 
-<img src="/images/one_white_pixel.gif" width="157" height="10" border="0" alt="">
+<img src="/images/one_white_pixel.gif" width="16" height="10" border="0" alt="">
 
+
+
+<img src="/images/one_white_pixel.gif" width="125" height="10" border="0" alt="">
+
+</p><p>
+<script language="Javascript">
+    e_Ad("Right1");
+</script>
+
+
+
+<img src="/images/one_white_pixel.gif" width="16" height="10" border="0" alt="">
 
 
 <!-- END /include/middle_row_right_cell_end.htm -->
@@ -463,9 +485,6 @@ if (e_SectionDir == "ereports"
 <!-- BEGIN /include/bottom_row.htm -->
 
 
-<script language="JavaScript">
-    e_DynamicAdEnd(468, 60, 21611);
-</script>
 
 <!-- END /include/bottom_row.htm -->
 
