@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdownloads.net privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203001846id_/http%3A//www.topdownloads.net/popups/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdownloads.net privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601162432id_/http%3A//www.topdownloads.net/popups/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,6 @@ Topdwonloads Networks will not disclose any of your personal information to any 
 
   
 
-* Make sure you've read the [Terms of Use](https://web.archive.org/web/20021203001846id_/http%3A//www.topdownloads.net/popups/legal/terms-of-use.php), which describes certain usage conditions. In short it says that the use of any of our services is at your own risk.
-* Topdwonloads Networks uses cookies so that you can create a personalized starpage. If you want to learn more about cookies, please read our [Cookie Statement](https://web.archive.org/web/20021203001846id_/http%3A//www.topdownloads.net/popups/legal/cookie-statement.php).
-* We are very concerned about your privacy. We don't provide any personal information to third parties. Please read our [Privacy Policy](https://web.archive.org/web/20021203001846id_/http%3A//www.topdownloads.net/popups/legal/privacy-policy.php) for more information on this subject. 
+* Make sure you've read the [Terms of Use](https://web.archive.org/web/20030601162432id_/http%3A//www.topdownloads.net/popups/legal/terms-of-use.php), which describes certain usage conditions. In short it says that the use of any of our services is at your own risk.
+* Topdwonloads Networks uses cookies so that you can create a personalized starpage. If you want to learn more about cookies, please read our [Cookie Statement](https://web.archive.org/web/20030601162432id_/http%3A//www.topdownloads.net/popups/legal/cookie-statement.php).
+* We are very concerned about your privacy. We don't provide any personal information to third parties. Please read our [Privacy Policy](https://web.archive.org/web/20030601162432id_/http%3A//www.topdownloads.net/popups/legal/privacy-policy.php) for more information on this subject. 
