@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205034440id_/http%3A//www.visitmalta.com/en/about_us/visitmaltaprivacypolicy/vpp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmalta.com privacy policy that was archived on 2005-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050326003221id_/http%3A//www.visitmalta.com/en/about_us/visitmaltaprivacypolicy/vpp.html) for the most accurate reproduction.*
 
 # ___ VISIT MALTA ___
 
@@ -58,8 +58,8 @@ If you unsubscribe from our mailing lists, we will remove your name from our dat
 Any person or organisation, who has registered with this web site, and who believes that we have gathered and stored personal information relating to them, may request  
 to view that information under the provisions of the relevant data protection laws.Any request is to be directed to: [webmaster@visitmalta.com  
 ](mailto:webmaster@visitmalta.com)  
-See [Contact Us](https://web.archive.org/web/20041205034440id_/http%3A//www.visitmalta.com/en/about_us/index.html) for our telephone and address.
+See [Contact Us](https://web.archive.org/web/20050326003221id_/http%3A//www.visitmalta.com/en/about_us/index.html) for our telephone and address.
 
-[Disclaimers](https://web.archive.org/web/20041205034440id_/http%3A//www.visitmalta.com/en/about_us/visitmaltaprivacypolicy/disc.html)  
+[Disclaimers](https://web.archive.org/web/20050326003221id_/http%3A//www.visitmalta.com/en/about_us/visitmaltaprivacypolicy/disc.html)  
   
 ---
