@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-url-submit.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409071910id_/http%3A//free-url-submit.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-url-submit.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812173118id_/http%3A//free-url-submit.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Free-URL-Submit.COM - Webmaster Tools
 
