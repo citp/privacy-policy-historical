@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the makemusic.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202123100id_/http%3A//www.codamusic.com/coda/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemusic.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603020718id_/http%3A//www.codamusic.com/coda/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy
-
-### Your Privacy is Important to Us
 
 Coda is committed to protecting your privacy. The information we gather from you enables us to process your orders and provide you with a more personalized shopping experience.
 
@@ -83,4 +81,4 @@ Click here to [Contact Coda](http://www.codamusic.com/coda/contact_us.asp).
 Click here for [Company Info](http://www.codamusic.com/coda/about_coda.asp). |  |   
 Encountering problems with this site? [webmaster@codamusic.com](mailto:webmaster@codamusic.com)
 
-©2000 Coda Music Technology.  All rights reserved.  No portion of this web site may be copied, reproduced or reused in any form without written permission by Coda Music Technology.
+©2001 Coda Music Technology.  All rights reserved.  No portion of this web site may be copied, reproduced or reused in any form without written permission by Coda Music Technology.
