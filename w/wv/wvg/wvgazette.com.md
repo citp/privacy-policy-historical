@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvgazette.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815073504id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvgazette.com privacy policy that was archived on 2001-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010424113103id_/http%3A//www.cnpapers.com/privacy) for the most accurate reproduction.*
 
 # Charleson Newspaper Privacy Policy
 
