@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204193050id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622061032id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
 
 # Franchise and Business Opportunities for Entrepreneurs
 
@@ -18,6 +18,8 @@ Franchise Gator, LLC.
 **What information is collected from me?**
 
 **Request Information:** When you use one of our franchise information forms; request information, request a brochure, we ask for information about you, including your name, email address, and phone number, as well as financial and demographic information. This information is then forwarded at your request to the respective Franchisor. Franchise Gator will only share personally identifiable information with third parties as is necessary for those third parties to provide information or perform services for you.
+
+**Franchise Gator, LLC does not Sell, Rent or Share your information without your consent. Your information goes only to the companies that you request it be sent to.**
 
 **IP Addresses:** FranchiseGator also compiles your IP address (the location of your computer on the Internet) for administrative purposes only. We do not collect any personally identifiable information through your IP addresses or the location of your computer on the Internet.
 
