@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212234100id_/http%3A//commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604092056id_/http%3A//commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
 
 # Banking-Commerce-Privacy Policy
 
-[](http://www.commerceonline.com/)   
-1-888-751-9000
-
-|  |    
+  
 **Overview**  
 At Commerce we want you to know that your relationship with us is treated with the confidentiality that you expect and deserve. Trust, privacy and confidentiality are the guiding principles upon which Commerce's relationship with you is built. Our Privacy Policy has been created to provide you with a thorough understanding of our commitment to upholding these vital principles. Because we are committed to servicing the needs of our customers, we will take all reasonable steps to protect the privacy of their relationship with us. Therefore, customers are protected not only by applicable state and federal law, but by Commerce's commitment to you as well. **Commerce Employees Are Responsible For Protecting Customer Information**   
 Commerce employees are informed of their responsibility to protect confidential customer information and are bound by this Privacy Policy. They are governed by Commerce's code of ethics which includes the responsibility to protect the confidentiality of customers' financial and other personal information. Only employees actively engaged in the discharge of their assigned duties are authorized to access or use customer information. **Information Collection**  
@@ -14,7 +11,11 @@ We will maintain and grant access to customer information only in accordance wit
 
 [](http://www.netscape.com/)   [](http://www.microsoft.com/)   [](http://www.aol.com/)
 
-Regarding the other forms in our Website, each is filled-out, submitted and serviced within a server protected by 40-bit-data encryption. These forms provide a far higher level of security for your information than that offered by standard e-mail. **Accuracy**  
+Regarding the other forms in our Website, each is filled-out, submitted and serviced within a server protected by 40-bit-data encryption. These forms provide a far higher level of security for your information than that offered by standard e-mail. 
+
+Although we provide outstanding levels of data encryption to maintain the security of our customers' information, there are certain security, corruption, transmission error and access availability risks associated with using open networks such as the Internet. Should you decide at any time that you prefer not to use our online services, please visit any branch or call us at 1-888-751-9000. 
+
+**Accuracy**  
 Commerce makes every effort to ensure that the information we collect is accurate. We strive to ensure that information we report concerning our customers is accurate. If we become aware of any inaccuracies in our records, we will take prompt steps to make appropriate corrections. **Sharing Consumer Information**  
 As part of our effort to provide customers with superior service we may use some customer information to determine whether customers might want to know about other Commerce products and services. To protect customer privacy, we will carefully control the way in which any information is shared. You may prohibit the sharing of information between Commerce affiliates. In order to do so, please send your name, address (as it appears on your account statement), Social Security Number, telephone number, account number and type to: Customer Service Department, Commerce Bank, P.O. Box 2526, Cherry Hill, New Jersey 08034-0211. Please mail your request in a separate envelope and do not include it with any other bank correspondence. 
 
@@ -31,22 +32,4 @@ An important part of the responsibility of protecting your financial information
 
 
 **Customer Inquiries**  
-Customers may contact Commerce, particularly by telephone at 1-888-751-9000, seeking information with regard to their accounts. In some of these situations, we may be unable to disclose information due to privacy concerns and customer identification issues. We reserve the right to change this policy at any time by posting a new privacy policy.    
-
-
-* * *
-
-[Home](http://www.commerceonline.com/) | [Banking](http://bank.commerceonline.com/) | [Investments](http://invest.commerceonline.com/) | [Insurance](http://insure.commerceonline.com/)  
-[Online Banking](http://bank.commerceonline.com/information/col_home/index.cfm) | [Online Trading](http://www.pcinvest.com/) | [Commerce Interactive](http://interactive.commerceonline.com/)  
-[Commerce News](http://www.commerceonline.com/commerce_news/Index.cfm) | [Investor Relations](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=cbh&script=2100) | [About Us](http://www.commerceonline.com/about_commerce/index.cfm)  
-[Wow Answer Guide](http://www.commerceonline.com/glossary/index.cfm) | [Apply for a Job](http://www.commerceonline.com/apply_for_a_job/index.cfm) | [Customer Service](http://bank.commerceonline.com/information/customer_service/Index.cfm) | [E-mail](https://secure.designfx.com/commerceonline/forms/bank/general_cb.cfm)
-
-* * *
-
-  
-1-888-751-9000
-
-###### Copyright © 1999, 2000 Commerce Bank
-
-  
-|  
+Customers may contact Commerce, particularly by telephone at 1-888-751-9000, seeking information with regard to their accounts. In some of these situations, we may be unable to disclose information due to privacy concerns and customer identification issues. We reserve the right to change this policy at any time by posting a new privacy policy. 
