@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odili.net privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607215349id_/http%3A//odili.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odili.net privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013111914id_/http%3A//odili.net/privacy.html) for the most accurate reproduction.*
 
 # Nigeriaworld: Privacy
 
