@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408170018id_/http%3A//www.aweber.com/privacy.htm%3Fid%3D99) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009230422id_/http%3A//www.aweber.com/privacy.htm%3Fid%3D99) for the most accurate reproduction.*
 
 # Privacy Policy for AWeber Systems, Inc.
 
