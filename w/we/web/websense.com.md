@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201213600id_/http%3A//www.websense.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604013546id_/http%3A//www.websense.com/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Websense Internet Privacy Policy
+# Internet Filtering by Websense
 
 **Websense Web Site  
 Privacy Policy Statement**
 
-For contact information, [click here](https://web.archive.org/web/20001201213600id_/http%3A//www.websense.com/company/contact/index.cfm). 
+For contact information, [click here](https://web.archive.org/web/20010604013546id_/http%3A//www.websense.com/company/contact/index.cfm). 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
@@ -15,7 +15,7 @@ The information we collect is used for internal review, prospective sales analys
 
 We use cookies to record past activity at a site in order to provide better service when visitors return to our site. 
 
-We occasionally send out email newsletters to our current customers to let them know about new upgrades and useful information that will help them better use our product. If you are not already a Websense customer and received a newsletter from us, you may unsubscribe at <http://www.websense.com/products/newsletter_2.cfm>. If you are a Websense customer and prefer not to get the Websense Wire newsletter, please visit <http://www.websense.com/products/newsletter.cfm> to unsubscribe. To subscribe or unsubscribe to technical support mailing lists, please visit <http://www.websense.com/support/subscribe.cfm>. 
+We occasionally send out email newsletters to our current customers to let them know about new upgrades and useful information that will help them better use our product. If you are not already a Websense customer and received a newsletter from us, you may unsubscribe at <http://www.websense.com/products/newsletter_2.cfm>. If you are a Websense customer and prefer not to get the Websense Wire newsletter, please visit <http://www.websense.com/products/newsletter.cfm> to unsubscribe. 
 
 Persons who supply us with their telephone numbers on-line will receive telephone contact from us with information regarding orders they have placed online or regarding new products that may interest them. If you do not wish to receive telephone calls, please let us know by e-mailing us at [webmaster@websense.com](mailto:webmaster@websense.com). Please provide us with your name and phone number. 
 
