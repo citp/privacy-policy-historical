@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rndsystems.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401163013id_/http%3A//www.rndsystems.com/asp/g_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rndsystems.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206190320id_/http%3A//www.rndsystems.com/asp/g_privacy.asp) for the most accurate reproduction.*
 
 # R & D Systems - Privacy Policy
 
@@ -24,11 +24,11 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the above address.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+Please provide us with your exact name and address.
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by calling us at the above telephone number.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+Please provide us with your name and phone number.
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
