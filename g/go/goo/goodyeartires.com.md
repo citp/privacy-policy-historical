@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goodyeartires.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401172107id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyeartires.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204091814id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Goodyear U. S. Legal - Privacy Policy
 
-**On-line Privacy Policy**
+**Online Privacy Policy**
 
 **Basic Confidentiality and Privacy Policy**
 
@@ -30,7 +30,7 @@ Any information provided by users in the online tire registration form will not 
 
 **Disclosure**
 
-Because Goodyear considers the individual information we maintain to be confidential, our policy is to disclose no personal information gathered on-line to third parties unless release is required by law or is pertinent to judicial or government investigations or proceedings. Goodyear does not sell, rent or transmit personal information to other organizations.
+Because Goodyear considers the individual information we maintain to be confidential, our policy is to disclose no personal information gathered online to third parties unless release is required by law or is pertinent to judicial or government investigations or proceedings. Goodyear does not sell, rent or transmit personal information to other organizations.
 
 **Other Web Sites**
 
@@ -38,10 +38,10 @@ Goodyear web sites may contain links to other sites, and we make every effort to
 
 **Children**
 
-Goodyear does not knowingly collect any personally identifiable information (such as name, address and telephone number) from children under 13 years old through its web site. Goodyear will specifically instruct children under 13 not to submit such information to this web site. We do not currently allow children under 13 to register or participate in contests orpromotions on the site. However, if the parent or guardian of a child under 13 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should [contact us](http://www.goodyear.com/cgi-bin/mail_new/mailto.pl?to=pa@goodyear.com&template=/email/mailto.html) if they want this information deleted from our files. If Goodyear obtains knowledge that it has personally identifiable information about a child under 13 in retrievable form in its files, we will delete that information from our existing files. In addition, anyone under 18 years old should seek their parent’s or guardian’s permission prior to using or disclosing any personal information on this site.
+Goodyear does not knowingly collect any personally identifiable information (such as name, address and telephone number) from children under 13 years old through its web site. Goodyear will specifically instruct children under 13 not to submit such information to this web site. We do not currently allow children under 13 to register or participate in contests orpromotions on the site. However, if the parent or guardian of a child under 13 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should [contact us](http://www.goodyear.com/cgi-bin/mail_new/mailto.pl?to=Global%20Communications&template=/email/mailto.html) if they want this information deleted from our files. If Goodyear obtains knowledge that it has personally identifiable information about a child under 13 in retrievable form in its files, we will delete that information from our existing files. In addition, anyone under 18 years old should seek their parent’s or guardian’s permission prior to using or disclosing any personal information on this site.
 
 **Disclaimer**
 
-By using a Goodyear site, you signify your assent to the Goodyear On-line Privacy Policy. If you do not agree to this policy, please do not use our sites. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of our sites following the posting of changes to these terms will mean you accept those changes.
+By using a Goodyear site, you signify your assent to the Goodyear online Privacy Policy. If you do not agree to this policy, please do not use our sites. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of our sites following the posting of changes to these terms will mean you accept those changes.
 
 **[Copyrights](https://web.archive.org/legal/copyright.html)**
