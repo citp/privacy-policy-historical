@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quizyourfriends.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401192504id_/http%3A//www03.quizyourfriends.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizyourfriends.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206224115id_/http%3A//www02.quizyourfriends.com/privacy.html) for the most accurate reproduction.*
 
-# Quiz Your Friends
+# QuizYourFriends - Privacy Policy
 
 QuizYourFriends.com is an Internet service owned and operated by QuizYourFriends LLC ("QuizYourFriends"). QuizYourFriends respects your privacy and has written this Privacy Policy so that you are aware of the information QuizYourFriends collects about you and how it is used. Please note that the terms QuizYourFriends and QuizYourFriends.com are used interchangeably within this Privacy Policy.
 
