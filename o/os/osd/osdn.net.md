@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009014525id_/https%3A//www.osdn.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630154049id_/http%3A//www.osdn.com/privacy.tmpl) for the most accurate reproduction.*
 
-# Open Source Development Network
+# Privacy
 
 The Open Source Development Network, Inc. ("OSDN"), comprised of the Internet sites osdn.com, slashdot.org, sourceforge.net, freshmeat.net, linux.com, animationfactory.com, gifworks.com, mediabuilder.com, postcardmaker.com, 3dtextmaker.com, newsforge.com, geocrawler.com and devchannel.com (the "OSDN Sites"), is committed to protecting the privacy of users of the OSDN Sites. At OSDN, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the OSDN Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
 
@@ -53,12 +53,3 @@ To update the Privacy Statement, we will post both the changed version and its e
 **While this Privacy Statement expresses OSDN's standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond OSDN's control (e.g., "script kiddies", "crackers and other malcontents") that may result in disclosure of data. As a consequence, OSDN disclaims any warranties or representations relating to maintenance or nondisclosure of private information.**
 
 **Last modified: 03/04/03**
-
-|   
-
-
-  
-[](http://ads.osdn.com/?ad_id=767&alloc_id=1760&site_id=6&request_id=5416821&op=click&page=%2fslashhead%2einc)  
-
-
-**Spotlight links**
