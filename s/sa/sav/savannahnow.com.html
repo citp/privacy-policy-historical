@@ -1,0 +1,663 @@
+<!--The following is the downloaded HTML source of the savannahnow.com privacy policy that was archived on 2001-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603162532id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
+ 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+ 		<title>Savannah Morning News on the Web</title>
+  <script language="JavaScript"><!--
+  function newImage(arg) {
+  if (document.images) {
+  rslt = new Image();
+  rslt.src = arg;
+  return rslt;
+  }
+  }
+  
+  function changeImages() {
+  if (document.images && (preloadFlag == true)) {
+  for (var i=0; i<changeImages.arguments.length; i+=2) {
+  document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+  }
+  }
+  }
+  
+  var preloadFlag = false;
+  function preloadImages() {
+  if (document.images) {
+  index_over = newImage("/testnew/images1/index_over.gif");
+  homedeliv_over = newImage("/testnew/images1/homedeliv_over.gif");
+  search_over = newImage("/testnew/images1/search_over.gif");
+  letteredit_over = newImage("/testnew/images1/letteredit_over.gif");
+  archives_over = newImage("/testnew/images1/archives_over.gif");
+  emailweb_over = newImage("/testnew/images1/emailweb_over.gif");
+  advertise_over = newImage("/testnew/images1/advertise_over.gif");
+  newsstaff_over = newImage("/testnew/images1/newsstaff_over.gif");
+  preloadFlag = true;
+  }
+  }
+    // code for - Search Selector  Randall D. Ryan 1999
+ 
+ function processSearch()
+ {
+       formObj = document.searchform;
+ 
+ // Capture the Data Entered in Text Field
+       myQuery = formObj.search.value;
+       myMaxHits = "5";
+ //      SearchEngines = document.searchform.location.value;
+ 
+   SearchEngines = "&search=" + myQuery + "&maxhits=" + myMaxHits + "&location=Yahoo&location=Excite&location=AltaVista"
+  
+ 
+ // Make Sure They Entered a search to Search For
+       if (myQuery == "") {
+          alert ("Please enter a search value first!");
+          formObj.search.focus();
+       } else {
+ 
+ // Determine Which Radio Button Was Selected
+          for (count=0;count<6;count++) {
+             if (formObj.rsearch[count].checked) {
+                 Selected = count;
+             }
+          }
+ 
+ // Perform Action Based on What Was Selected
+ // news archives
+          if (Selected == "0") {
+              myQuery ='http://savannahnow.com/search/iatoc?NS-search-type=checked&NS-max-records=100&NS-collection=smn_2001&NS-query='+myQuery;
+              location.href=(myQuery);
+          }
+          
+ // World Wide Web
+          else if (Selected == "1") {
+              myQuery = 'http://morriscomm.com/cgi-bin/search.pl?HTTP_REFERER=http://www.savannahnow.com/'+SearchEngines;
+              location.href=(myQuery);
+          }
+ 
+ // Yellow Pages
+          else if (Selected == "2") {
+              myQuery ='http://www.zip2.com/marketplacenow/scripts/search.dll?ep=0&qstate=GA&qcity=Savannah&query='+myQuery;
+              location.href=(myQuery);
+          }
+ 
+ // Stocks
+          else if (Selected == "3") {
+              myQuery ='http://www.cnetinvestor.com/savannahnow/quote.asp?Whattoget=returnquote&Symbol='+myQuery;
+              location.href=(myQuery);
+          }         
+ 
+ // Classifieds
+          else if (Selected == "4") {
+              myQuery ='http://classifieds.savannahnow.com/classifieds-bin/classifieds?classification=CLASSIFIEDS&temp_type=detail&keywords='+myQuery;
+              location.href=(myQuery);
+          }
+ 
+ 
+ // local businesses
+          else if (Selected == "5") {
+              myQuery ='http://classifieds.savannahnow.com/portals?TP=SAVANNAH+GA&TEMP_TYPE=SEARCH&PROPERTY=SAVANNAH+GA&CATEGORY=webguide&SEARCH='+myQuery;
+              location.href=(myQuery);
+          }         
+ 
+ // Community Pages
+        //  else if (Selected == "6") {
+             // myQuery ='http://cg.zip2.com/savannahnow/scripts/search.dll?ep=0&qstate=GA&qcity=Savannah&query='+myQuery;
+             // location.href=(myQuery);
+         // }         
+ 
+       }
+       return false;
+ }
+
+  
+  // -->
+  </script> 
+  <!-- End Preload Script -->
+  		<link rel="stylesheet" href="/newstyles.css" type="text/css">
+  	</head>
+  	<body bgcolor="white" link="#990000" vlink="#990000" topmargin="3" marginwidth="3" marginheight="3" leftmargin="3" onload="preloadImages();"><center>
+
+  		<table border="0" cellpadding="0" cellspacing="0" width="700"><tbody><tr height="19"><td colspan="2" rowspan="2" valign="bottom">
+  					<img src="http://www.savannahnow.com/testnew/images/banner.gif" width="490" height="78"></td><td height="19" valign="top" bgcolor="#990000" width="85">
+  					<img src="http://www.savannahnow.com/testnew/images/quicklinks.gif" width="151" height="19"></td><td width="59" height="19" bgcolor="#990000" valign="top">
+  					<img src="http://www.savannahnow.com/testnew/images/topnotch.gif" width="59" height="13"></td></tr><tr height="59"><td width="85" bgcolor="#990000" height="59" align="right" valign="middle">
+  					<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
+  								<a href="http://www.savannahnow.com/siteindex.html" onmouseover="changeImages('index', '/testnew/images1/index_over.gif'); return true;" onmouseout="changeImages('index', '/testnew/images1/index.gif'); return true;">
+  									<img name="index" src="/testnew/images1/index.gif" width="58" height="15" border="0"></a></td><td>
+  								<a href="http://www.savannahnow.com/subscribe.html" onmouseover="changeImages('homedeliv', '/testnew/images1/homedeliv_over.gif'); return true;" onmouseout="changeImages('homedeliv', '/testnew/images1/homedeliv.gif'); return true;">
+  									<img name="homedeliv" src="/testnew/images1/homedeliv.gif" width="92" height="15" border="0"></a></td></tr><tr><td>
+  								<a href="http://www.savannahmorningnews.com/search.shtml" onmouseover="changeImages('search', '/testnew/images1/search_over.gif'); return true;" onmouseout="changeImages('search', '/testnew/images1/search.gif'); return true;">
+  									<img name="search" src="/testnew/images1/search.gif" width="58" height="15" border="0"></a></td><td>
+  								<a href="mailto:letted@savannahnow.com" onmouseover="changeImages('letteredit', '/testnew/images1/letteredit_over.gif'); return true;" onmouseout="changeImages('letteredit', '/testnew/images1/letteredit.gif'); return true;">
+  									<img name="letteredit" src="/testnew/images1/letteredit.gif" width="92" height="15" border="0"></a></td></tr><tr><td>
+  								<a href="http://www.savannahmorningnews.com/smn/archives/indices/" onmouseover="changeImages('archives', '/testnew/images1/archives_over.gif'); return true;" onmouseout="changeImages('archives', '/testnew/images1/archives.gif'); return true;">
+  									<img name="archives" src="/testnew/images1/archives.gif" width="58" height="14" border="0"></a></td><td>
+  								<a href="mailto:mswendra@savannahnow.com" onmouseover="changeImages('emailweb', '/testnew/images1/emailweb_over.gif'); return true;" onmouseout="changeImages('emailweb', '/testnew/images1/emailweb.gif'); return true;">
+  									<img name="emailweb" src="/testnew/images1/emailweb.gif" width="92" height="14" border="0"></a></td></tr><tr><td>
+  								<a href="http://www.marketplacenow.com/advertise.html" onmouseover="changeImages('advertise', '/testnew/images1/advertise_over.gif'); return true;" onmouseout="changeImages('advertise', '/testnew/images1/advertise.gif'); return true;">
+  									<img name="advertise" src="/testnew/images1/advertise.gif" width="58" height="15" border="0"></a></td><td>
+  								<a href="http://www.savannahmorningnews.com/special/staff/savannahstaff.shtml" onmouseover="changeImages('newsstaff', '/testnew/images1/newsstaff_over.gif'); return true;" onmouseout="changeImages('newsstaff', '/testnew/images1/newsstaff.gif'); return true;">
+  									<img name="newsstaff" src="/testnew/images1/newsstaff.gif" width="92" height="15" border="0"></a></td></tr></tbody></table></td><td bgcolor="#990000" width="59" height="59" align="center" valign="top">
+  					<a href="http://www.savannahnow.com/cityguide/">
+  						<img height="63" width="52" src="http://www.savannahnow.com/testnew/images/visitourguide.gif" border="0"></a></td></tr></tbody></table>
+  		<table border="0" cellpadding="0" cellspacing="0" width="700" height="105"><tbody><tr height="76"><td bgcolor="#990000" width="12" height="76" valign="top">
+  					<img src="http://www.savannahnow.com/testnew/images/uppersquare.gif" width="12" height="12"></td><td bgcolor="#990000" height="76" width="179" align="left" valign="top">
+  					<div align="left">
+  						<img height="18" width="179" src="http://www.savannahnow.com/testnew/images/currcond.gif"><br>
+    <table border="0" cellpadding="1" cellspacing="1">
+<tbody><tr height="35">
+<td valign="top" align="center" width="37" height="37">
+<a href="http://www.weatherpoint.com/wpoint1?GASANE"><img border="0" width="37" height="37" src="http://www.savannahnow.com/designimages/weather/clear.jpg" alt="Partly Cloudy"></a>
+</td>
+<td valign="middle" align="center" height="35">
+<font face="GENEVA,ARIAL" color="white"><span class="weather">Clear, 85°<br>
+Humidity: 61%<br>
+Wind: WSW at 8 mph</span></font>
+</td>
+</tr>
+</tbody></table>
+
+  						<a href="http://www.weatherpoint.com/wpoint1?GASANE">
+  							<img height="18" width="179" src="http://www.savannahnow.com/testnew/images/fiveday.gif" border="0"></a>
+  					</div></td><td width="503" height="76" bgcolor="#990000" align="left" valign="middle">
+  					<table border="0" cellpadding="8" cellspacing="0" width="137" height="76"><tbody><tr><td>
+     <!-- AdSpace -->
+    <a href="http://www.savannahmorningnews.com/RealMedia/ads/click_nx.ads/www.savannahnow.com/home/index.html@TopLeft"><img src="http://www.savannahmorningnews.com/RealMedia/ads/adstream_nx.ads/www.savannahnow.com/home/index.html@TopLeft" width="234" height="60" alt="Advertisement"></a>
+
+    <!-- /AdSpace --></td><td>
+     <!-- AdSpace -->
+    <a href="http://www.savannahmorningnews.com/RealMedia/ads/click_nx.ads/www.savannahnow.com/home/index.html@TopRight"><img src="http://www.savannahmorningnews.com/RealMedia/ads/adstream_nx.ads/www.savannahnow.com/home/index.html@TopRight" width="234" height="60" alt="Advertisement"></a>
+
+
+
+    <!-- /AdSpace --></td></tr></tbody></table></td></tr><tr height="29"><td colspan="3" bgcolor="#990000" height="29" valign="bottom">
+  					<img src="http://www.savannahnow.com/testnew/images/navbar.gif" width="700" height="29" border="0" usemap="#navbarb509094f"><map name="navbarb509094f"><area href="http://www.savannahnow.com/classads/" coords="614,6,680,21" shape="rect"><area href="http://www.savannahnow.com/cityguide/" coords="539,6,603,21" shape="rect"><area href="http://www.savannahnow.com/diversions/" coords="463,6,530,22" shape="rect"><area href="http://www.savannahmorningnews.com/exchange/" coords="395,6,452,21" shape="rect"><area href="http://www.savannahmorningnews.com/CURRENT/OPEDindex.shtml" coords="336,6,387,22" shape="rect"><area href="http://www.savannahmorningnews.com/CURRENT/SPTindex.shtml" coords="283,6,327,21" shape="rect"><area href="http://www.savannahmorningnews.com/CURRENT/OBITSindex.shtml" coords="205,6,275,21" shape="rect"><area href="http://www.lowcountrynow.com/" coords="95,6,197,20" shape="rect"><area href="http://www.savannahmorningnews.com/CURRENT/LOCindex.shtml" coords="18,6,88,20" shape="rect"></map></td></tr></tbody></table>
+  		<table border="0" cellpadding="0" cellspacing="0" width="700"><tbody><tr height="11"><td width="110" height="11" valign="top" bgcolor="#990000">
+  					<table border="0" cellpadding="0" cellspacing="0" width="110"><tbody><tr align="left" valign="top"><td align="left" valign="top">
+<img height="3" width="10" src="http://www.savannahnow.com/testnew/images/spacer.gif"></td><td>
+<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><a href="http://www.savannahnow.com" class="savnav">
+HOME</a></font></td></tr><tr align="left" valign="top"><td colspan="2" valign="top">
+<br class="savnav">
+<img src="http://www.savannahnow.com/images/design/ourservices.gif" width="110" height="20" alt="our services"></td></tr><tr align="left" valign="top"><td valign="top">
+<img height="3" width="10" src="http://www.savannahnow.com/images/design/spacer.gif"></td><td>
+<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+<a href="http://homes.savannahnow.com/" class="savnav">
+home finder</a><br class="savnav">
+<a href="http://www.coastalautos.com/" class="savnav">
+auto finder
+</a><br>
+<a href="http://classifieds.savannahnow.com/classifieds-bin/classifieds?classification=EMPLOYMENT&amp;temp_type=search" class="savnav">
+job finder</a><br class="savnav"><a href="http://www.savannahnow.com/golf" class="savnav">
+golf</a><br class="savnav">
+<a href="http://savannahnow.excursia.com/" class="savnav">
+excursia travel</a>
+<br class="savnav">
+<a href="http://www.savannahnow.com/exchange/" class="savnav">
+stock quotes</a>
+<br class="savnav">
+<a class="savnav" href="http://www.savannahnow.com/index.shtml#freeemail">free e-mail</a>
+<br class="savnav">
+<a class="savnav" href="http://www.savannahnow.com/Palmpilot/">pda sync</a>
+<br class="savnav">
+<a class="savnav" href="http://www.savannahnow.com/push/form.shtml">email news</a>
+<br class="savnav">
+<a class="savnav" href="http://www.savannahnow.com/desktopnews/">desktop news</a>
+<br class="savnav">
+<a href="http://savannahnow.com/cgi-bin/ubb/Ultimate.cgi?action=intro" class="savnav">
+forums</a><br class="savnav">
+<!-- <A HREF="http://savannahnow.excursia.com" CLASS="savnav">
+excursia travel</A><BR CLASS="savnav"> -->
+<a class="savnav" href="http://www.savannahnow.com/tides/">tides</a>
+<br class="savnav">
+<a href="http://www.savannahnow.com/wwwlinks.shtml" class="savnav">
+www links</a><br class="savnav">
+
+
+</font></td></tr><tr align="left" valign="top"><td colspan="2" valign="top">
+<br class="savnav">
+<img height="20" width="110" src="http://www.savannahnow.com/images/design/marketplace.gif"></td></tr><tr align="left" valign="top"><td valign="top">
+<img height="3" width="10" src="http://www.savannahnow.com/images/design/spacer.gif"></td><td>
+<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+<a href="http://www.marketplacenow.com/" class="savnav">
+area businesses</a><br class="savnav">
+<a href="http://www.marketplacenow.com/mall/" class="savnav">
+online mall</a><br class="savnav">
+<a href="http://www.marketplacenow.com/clipit/" class="savnav">
+coupons</a><br class="savnav">
+
+
+<a href="http://design.savannahnow.com" class="savnav">
+web design</a><br class="savnav">
+
+<a href="http://www.zip2.com/marketplacenow/scripts/staticpage.dll?ep=1&amp;ck=&amp;ccity=Savannah&amp;cstate=GA&amp;adrVer=928882702&amp;ver=d3.0" class="savnav">
+yellow pages</a><br class="savnav">
+<a href="http://www.zip2.com/marketplacenow/scripts/staticpage.dll?ep=8200&amp;ck=&amp;ccity=Savannah&amp;cstate=GA&amp;adrVer=928882645&amp;ver=d3.0" class="savnav">
+get directions</a><br class="savnav">
+<a href="http://www.zip2.com/marketplacenow/scripts/staticpage.dll?ep=9002&amp;ck=&amp;ccity=Savannah&amp;cstate=GA&amp;adrVer=928882588&amp;ver=d3.0" class="savnav">
+get a map</a><br class="savnav">
+</font></td></tr><tr align="left" valign="top"><td colspan="2" valign="top">
+<br class="savnav">
+<img src="http://www.savannahnow.com/images/design/simplysavannah.gif" width="110" height="20"></td></tr><tr align="left" valign="top"><td valign="top">
+<img height="3" width="10" src="http://www.savannahnow.com/images/design/spacer.gif"></td><td>
+<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+<a href="http://www.marketplacenow.com/liveviews/" class="savnav">
+live views</a><br class="savnav">
+<a href="http://www.savannahnow.com/community" class="savnav">
+our community</a><br class="savnav">
+<a href="http://www.savannahnow.com/features/ourschools" class="savnav">
+our schools</a><br class="savnav">
+<a href="http://www.savannahnow.com/goodandevil/" class="savnav">
+'midnight'</a><br class="savnav">
+<a href="http://stpats.savannahnow.com/" class="savnav">
+st. patrick's</a><br class="savnav">
+<a href="http://www.savannahnow.com/columns/mib/" class="savnav">
+man in black</a><br class="savnav">
+<a href="http://www.savannahnow.com/columns/janefishman/" class="savnav">
+jane fishman</a><br class="savnav">
+<a href="http://www.savannahnow.com/columnists/mstreeter/" class="savnav">
+mark streeter</a><br class="savnav">
+
+</font></td></tr><tr align="left" valign="top"><td colspan="2" valign="top">
+<br class="savnav">
+<img height="20" width="110" src="http://www.savannahnow.com/images/design/ENTERTAINMENT.gif"></td></tr><tr align="left" valign="top"><td valign="top">
+<img height="3" width="10" src="http://www.savannahnow.com/images/design/spacer.gif"></td><td>
+<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+<a href="javascript:onClick=makeNewWindow('http://www.savannahnow.com/diversions/SCRNlistings.shtml');" class="savnav">
+movie times</a><br class="savnav">
+<a href="http://www.savannahnow.com/diversions/restguide.html" class="savnav" target="new">
+dining guide</a><br class="savnav">
+<a href="http://listings.clicktv.com/index.asp?cid=A29" class="savnav">
+tv listings</a><br class="savnav">
+<a href="http://www.savannahnow.com/comics/" class="savnav">
+comics</a><br class="savnav">
+<a href="http://www.savannahnow.com/freetime/Postcards/" class="savnav">
+postcards</a><br class="savnav">
+<!-- <A HREF="http://www2.uclick.com/client/smn/cx/" CLASS="savnav">
+crossword</A><BR CLASS="savnav"> -->
+<a href="http://listings.clicktv.com/feature.asp?PTToPage=feature&amp;profileID=%2472%2477%248F%2474%2491%2489%2476&amp;CID=A29&amp;WSN=WSERVER21&amp;psection=tvcrossword" class="savnav">
+tv crossword</a><br class="savnav">
+<a href="http://listings.clicktv.com/feature.asp?PTToPage=feature&amp;profileID=%2472%2477%248F%2474%2491%2489%2476&amp;CID=A29&amp;WSN=WSERVER21&amp;psection=Horoscope&amp;x=17&amp;y=9" class="savnav">
+horoscope</a><br class="savnav">
+<a href="http://chat.savannahnow.com:90/eshare/server?action=4" class="savnav">
+chat rooms</a><br class="savnav">
+<a href="http://www.datefinder.com/savannahmorn" class="savnav">
+personals</a><br>
+</font></td></tr><tr align="left" valign="top"><td colspan="2" valign="top">
+<br class="savnav">
+<img src="http://www.savannahnow.com/images/design/slideshows.gif" width="110" height="20"></td></tr><tr align="left" valign="top"><td valign="top"></td><td>
+<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+<a href="http://www.savannahnow.com/multimedia/" class="savnav">
+multimedia site</a><br class="savnav">
+<a href="javascript:loadsplite();" class="savnav">
+radio now</a><br class="savnav">
+<a href="http://www.savannahnow.com/features/slideshows/" class="savnav">
+through the lens</a><br class="savnav">
+<a href="http://www.savannahnow.com/columnists/fishman" class="savnav">
+jane's garden</a><br class="savnav">
+<a href="http://www.savannahnow.com/columnists/krueger" class="savnav">
+our backyard</a><br class="savnav">
+<a href="http://www.savannahnow.com/features/slideshows/inthenews" class="savnav">
+in the news</a><br>
+</font></td></tr><tr align="left" valign="top"><td colspan="2" valign="top">
+<br class="savnav">
+<img src="http://www.savannahnow.com/images/design/specialsections.gif" width="110" height="20"></td></tr><tr align="left" valign="top"><td valign="top"></td><td>
+<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
+<a href="http://www.e-thepeople.com/affiliates/savannahnow" class="savnav">
+town hall</a><br class="savnav">
+<a href="http://www.savannahnow.com/features/aging/" class="savnav">
+aging matters</a><br class="savnav">
+<a href="http://www.savannahnow.com/features/health/" class="savnav">
+health &amp; fitness</a><br class="savnav">
+<a href="http://www.savannahnow.com/culinary/" class="savnav">
+food section</a><br class="savnav">
+<a href="http://www.savannahmagazine.com" class="savnav">
+sav magazine</a><br class="savnav">
+<a href="http://www.coastalsenior.com" class="savnav">
+coastal senior</a><br class="savnav">
+<a href="http://www.coastalantiques.com" class="savnav">
+coastal antiques</a><br></font></td></tr></tbody></table></td><td width="8" align="left" valign="top" height="11">
+  					<img height="3" width="8" src="http://www.savannahnow.com/testnew/images/spacer.gif"></td><td width="464" align="left" valign="top" height="11">
+  					<img height="3" width="464" src="http://www.savannahnow.com/testnew/images/spacer.gif">
+  <!--START CONTENT **NO WIDER THAN 464 PIXELS**-->
+  <font size="5" face="GENEVA, ARIAL">
+
+
+Copyright Notice
+
+</font>
+
+<p> 
+Material published on the <i>SavannahNOW</i> online service is copyrighted by the <i>Savannah Morning News</i>, Morris Communications or the originating wire services, except where otherwise noted.
+</p><p>Users of this service may not reproduce, republish or redistribute material
+on the web site in any form without the express written consent of the
+<i>Savannah Morning News</i>, Morris Communications or the copyright holder.
+</p><p>The <i>Savannah Morning News</i> cannot grant permission to reuse or republish material from other information providers.
+
+</p><h3>Restrictions on use of materials.</h3>
+
+No material from <i>SavannahNOW</i> or any Web site owned, operated, licensed or controlled by <i>SavannahNOW</i>, the <i>Savannah Morning News</i>, Morris Communications, or any of its related, affiliated or subsidiary companies, may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way, without the prior written permission of the <i>Savannah Morning News</i>, except that you may download one copy of the materials on any single computer for your personal, non-commercial home use only, provided you keep intact all copyright and other proprietary notices. Modification of the
+materials or use of the materials for any other purpose is a violation of
+the <i>Savannah Morning News</i> copyright and other proprietary rights.
+<p>We thank you for your cooperation.
+
+</p><h3>SavannahNOW Privacy Policy</h3>
+
+<p>
+SavannahNOW is committed to protecting consumer privacy online. We
+believe
+that greater protection of personal privacy on the Web will not only
+protect consumers, but also increase consumer confidence and
+ultimately
+their participation in online activities. At SavannahNOW, we intend to
+give
+you as much control as possible over your personal information.
+</p>
+
+<p>
+The purpose of our policy is to inform you about the types of
+information
+we gather about you when you visit our site(s), how we may use that
+information, whether we disclose it to anyone, and the choices you
+have
+regarding our use of, and your ability to correct, the information.
+</p>
+
+<p>
+Our site(s) may contain links to other Web sites, including Web sites
+directed to children. We have no control over the privacy practices or
+the
+content of any of our business partners, advertisers, sponsors or
+other
+sites to which we provide links from our sites. You should check the
+applicable privacy policy of the Web site sponsor when linking to
+other Web
+sites.
+</p>
+
+<b>I. Information Which We Collect</b>
+
+<p>
+We may request that you voluntarily supply us with personal
+information,
+including your e-mail address, postal address, home or work telephone
+number, credit card number (only if you choose to purchase a product
+online), for purposes such as correspondence, making a purchase, or
+participating in online contests, surveys or games. If you choose to
+give
+us personal information via the Internet that we or our business
+partners
+may need -- to correspond with you, process an order or provide you
+with a
+subscription, for example -- it is our intent to let you know how we
+will
+use such information.
+</p>
+
+<p>
+Like many other commercial sites, our site(s) may utilize a standard
+technology called a "cookie" to collect information about how our site
+is
+used. Cookies were designed to help a Web site recognize a user's
+browser
+as a previous visitor and thus save and remember any preferences that
+may
+have been set while the user was browsing the site. A cookie cannot
+retrieve any other data from your hard drive, pass on a computer
+virus, or
+capture your e-mail address. Our Web site(s) may use cookies to
+enhance
+your visit. Cookies can securely store a user's password, personalize
+home
+pages, identify which parts of a site have been visited or keep track
+of
+selections, such as those selected in a "shopping cart." Our cookies
+may
+collect your domain name and track your selections through our Web
+pages.
+We only use "cookies" to gather the information indicated in this
+policy
+and do not use cookies to gather personal identifying information
+about you
+without your consent.
+</p>
+
+<p>
+We also may use cookies in connection with our chat rooms in order to
+record your preferences. These cookies store automatically information
+pertaining to the last chat room you visited, as well as certain
+comments
+that can be issues in the chat room, in order to facilitate your
+experience
+with the chat rooms. No additional identifying information is stored
+on
+these cookies. You also have the option of choosing to allow us to use
+a
+cookie to store your username, or "handle" and password on your
+computer
+for use in that chat rooms, forums and other sites as indicated on the
+particular site.
+</p>
+
+<p>
+We may require you to supply us with personal information (demographic
+information such as average age, income, education, population data,
+zip
+codes) during a "registration" process online prior to using certain
+features of our site. For example, you may be required to register to
+use
+chat rooms, forums, to access archival stories, to subscribe to our
+member
+newspapers, subscribe to an e-mail version of our site, and to access
+other
+features. We use this general information to aggregate information
+according to demographics, such as gender, geographic location, age,
+income
+or a combination of these or other demographics.
+</p>
+
+<b>II. Use of User Information</b>
+
+<p>
+We may perform statistical analyses of aggregate user behavior. This
+allows
+us to measure relative consumer interest in the various areas of our
+Web
+sites for product development purposes. Any information we collect is
+used
+for its own internal purposes to improve the content of the Web sites,
+to
+enhance users' experiences when visiting our site(s), to customize the
+content and/or layout of our pages, and to provide the services
+required by
+an individual user. We do not use personal identifying information for
+any
+reason that is not disclosed either in this Policy or at the time the
+information is requested. We never send e-mail to you unless you
+request a
+particular service, or consent to being contacted by e-mail. There are
+instances where you will have the opportunity to subscribe to an
+e-mail
+list that will send information about the site or our advertisers to
+your
+e-mail address, but this will be done only with your permission and
+consent
+</p>
+
+<b>III. Disclosure to Third Parties</b>
+
+<p>
+We do not share personal identifying information with any third party
+without your permission. We disclose only in aggregate form our
+statistical
+analyses or demographics of users to third parties, such as
+advertisers or
+other business partners. In some instances, we operate shared Web
+sites
+with businesses affiliated with us. Our privacy policy will apply to
+these
+Web sites, and our affiliates adhere to our privacy policy and will
+not
+share personal information with any third party without your
+permission.
+PLEASE BE AWARE that when you voluntarily disclose personal
+information
+(such as your name, e-mail address) in chat areas or bulletin boards
+to
+third parties, that information may be collected by others outside the
+control of us and may result in unsolicited messages from others.
+</p>
+
+<b>IV. Accuracy of User Information</b>
+
+<p>
+In order to ensure the accuracy of personal information provided for
+registration, you may return to the registration form online in order
+to
+change information you have provided at any time. Questions regarding
+our
+privacy policy, the accuracy of your personal information or the use
+of the
+information collected should be directed via e-mail to Mark Swendra, or
+you
+can reach us by telephone at 912-652-0315.
+These privacy policies are effective as of Dec. 1, 1999. We reserve
+the
+right to change this policy at any time, and will post any changes to
+this
+policy as soon as they go into effect.
+</p>
+
+<b>V. Security of Information</b>
+
+<p>
+We use our best efforts to ensure the security of personal information
+submitted by users. When collecting credit card information for online
+purchases, we offer secured-server transactions that encrypt your
+information in transit to thwart someone from intercepting it and
+misusing
+it. When we collect other information from our users, it is stored in
+an
+area where the general public does not have access to it.
+</p>
+
+<b>VI. Opting-out</b>
+
+<p>
+At any time while assessing our site(s), any user while online may
+"opt-out" of further e-mail contact from us (while still allowing
+access to
+our site(s)). For further information about opting-out, contact us at
+the
+e-mail addresses, postal addresses or telephone numbers stated above.
+</p>
+
+<b>VII. Use of Materials</b>
+
+<p>
+The right to download and store or output the materials in our site(s)
+is
+granted for the user's personal use only, and materials may not be
+reproduced in any edited form. Any other reproduction, transmission,
+performance, display or editing of these materials by any means
+mechanical
+or electronic without the express written permission of us is strictly
+prohibited. Users wishing to obtain permission to reprint or reproduce
+any
+materials appearing on these sites may contact New Media Director Mark Swendra at
+<a href="mailto:mswendra@savannahnow.com">mswendra@savannahnow.com</a>.
+</p>
+
+
+
+
+
+
+<!--/END Content Place Holder-->
+  
+
+ <!--/END  CONTENT--><br></td>
+ 					<td width="8" align="left" valign="top" height="11">
+  					<img height="3" width="8" src="/testnew/images/spacer.gif"></td><td width="110" rowspan="2" align="left" valign="top">
+     <!--SPECIAL FEATURES RIGHT RAIL INCLUDE-->  					
+ <!--power search start-->
+ <table border="0" width="110" cellpadding="0" cellspacing="0"><tbody><tr><td align="center"><hr color="#990000" width="100"><font size="3" color="#000000" face="Arial,Helvetica,Geneva"><b>Power Search</b></font><hr color="#990000" width="100"></td></tr></tbody></table><table cellpadding="3" cellspacing="0" border="0" width="110" bgcolor="#FFFFFF"><tbody><tr><td colspan="2"><font face="arial,helvetica" size="1" color="#333333">
+  Click category name for advanced search, or type in keyword on form and hit 'go' for quick search.</font></td></tr>
+ <tr><td colspan="2"><font face="arial,helvetica" size="1"><form name="searchform" onsubmit="return processSearch()" action="/archive" target="_top">
+ 
+ <input type="radio" name="rsearch" checked=""><a href="http://www.savannahmorningnews.com/search.shtml" class="rightnav">News Archive</a><br>
+ 
+ <input type="radio" name="rsearch"><a href="/cyphi/search.html" class="rightnav">World Wide Web</a><br>
+ 
+ <input type="radio" name="rsearch"><a href="http://cg.zip2.com/savannahnow/scripts/staticpage.dll?ep=101&amp;ck=&amp;ver=hb1.0.10" class="rightnav">Yellow Pages</a><br>
+ 
+ <input type="radio" name="rsearch"><a href="http://www.savannahmorningnews.com/exchange" class="rightnav">Stocks</a><br>
+ 
+ <input type="radio" name="rsearch"><a href="http://savannahnow.com/classads/" class="rightnav">Classifieds</a><br>
+ 
+ <input type="radio" name="rsearch"><a href="http://www.marketplacenow.com/" class="rightnav">Local Business</a><br>
+ 
+ <!--[[INPUT TYPE=radio NAME="rsearch"]][[A HREF="http://cg.zip2.com/savannahnow" CLASS=rightnav]]Community Pages[[/A]][[BR]]-->
+ <br><input type="text" name="search" size="8" maxlength="20">&nbsp;&nbsp;<input type="image" name="submit" value="Search" src="http://www.savannahnow.com/testnew/images/GO.gif" height="17" width="27" border="0"></form><center><a href="http://www.savannahmorningnews.com/smn/archives/indices/">Or search by date</a><hr color="#990000" width="100"></center></font></td></tr>
+ <!--/power search end--></tbody></table>
+   					<table border="0" width="110" cellpadding="0" cellspacing="0"><tbody><tr><td align="center"><font size="3" color="#000000" face="Arial,Helvetica,Geneva"><b>National News</b></font><hr color="#990000" width="100"></td></tr></tbody></table><table cellpadding="3" cellspacing="0" border="0" width="110" bgcolor="#FFFFFF"><tbody><tr><td colspan="2"><font face="arial,helvetica" size="1" color="#333333">
+   					<font size="1" face="GENEVA,ARIAL" color="black">
+   
+Updated 12:24 p.m. <br>
+
+<img src="http://www.savannahnow.com/images/design/links_arrow.gif" height="7" width="7">&nbsp;<font face="GENEVA, ARIAL"><a href="http://wire.ap.org/?PACKAGEID=crime" class="rightnav">Idaho Standoff Ends Peacefully</a><br>
+<img src="http://www.savannahnow.com/images/design/links_arrow.gif" height="7" width="7">&nbsp;<font face="GENEVA, ARIAL"><a href="http://wire.ap.org/?PACKAGEID=disease" class="rightnav">Third Case of Meningitis Confirmed</a><br>
+<img src="http://www.savannahnow.com/images/design/links_arrow.gif" height="7" width="7">&nbsp;<font face="GENEVA, ARIAL"><a href="http://wire.ap.org/?PACKAGEID=BizTires" class="rightnav">Lawyers Ask for Ford Recall</a><br>
+<img src="http://www.savannahnow.com/images/design/links_arrow.gif" height="7" width="7">&nbsp;<font face="GENEVA, ARIAL"><a href="http://wire.ap.org/?PACKAGEID=policeshootings" class="rightnav">Cincinnati Activists Lead Protest</a><br>
+</font>
+
+   					</font><hr color="#990000" width="100"></font></font></font></font></td></tr></tbody></table>
+   					<table border="0" width="110" cellpadding="0" cellspacing="0"><tbody><tr><td align="center"><font size="3" color="#000000" face="Arial,Helvetica,Geneva"><b>Special Features</b></font><hr color="#990000" width="100"></td></tr></tbody></table>
+   <center><font face="GENEVA, ARIAL">
+
+<br><a href="http://www.savannahnow.com/hurricane2001/"><img src="http://www.savannahnow.com/images/features/hurricane01_90x45.jpg" alt="Hurricane Guide 2001" width="90" height="45" vspace="5" border="0"></a> 
+<br clear="ALL">
+<!--
+<A HREF="http://valentines.savannahnow.com"><IMG SRC=
+"http://www.savannahnow.com/images/features/valentineinside.gif" ALT="Valentine's Day" WIDTH="100" HEIGHT="59" VSPACE="5" BORDER="0"></A>
+<BR CLEAR="ALL"> -->
+<a href="http://www.savannahnow.com/features/vision2010/"><img src="http://www.savannahnow.com/images/features/vision100x59.gif" alt="Vision 2010" width="100" height="59" vspace="5" border="0"></a>
+<br clear="ALL">
+<a href="http://www.savannahnow.com/features/census2000/"><img src="http://www.savannahnow.com/images/features/census100x59.gif" alt="Census 2000" width="100" height="59" vspace="5" border="0"></a>
+<br clear="ALL">
+<a href="http://www.savannahmorningnews.com/CURRENT/SAFETYindex.shtml"><img src="http://www.savannahnow.com/images/features/rsafety100x59.gif" alt="Our Safety" width="100" height="59" vspace="5" border="0"></a>
+<br clear="ALL">
+<a href="http://www.savannahnow.com/diversions/artshows/frieseke"><img src="http://www.savannahnow.com/images/features/frieseke100x59.jpg" alt="Frieseke" width="100" height="59" vspace="5" border="0"></a>
+<br clear="ALL">
+<a href="http://www.savannahnow.com/columnists/krueger/"><img src="http://www.savannahnow.com/images/features/rback100x59.gif" alt="Our Back Yard" width="100" height="59" vspace="5" border="0"></a>
+<br clear="ALL">
+<a href="http://stpats.savannahnow.com"><img src="http://www.savannahnow.com/images/features/stpats01buttonsm.gif" alt="St. Patrick's Day" width="100" height="59" vspace="5" border="0"></a>
+<a href="http://www.savannahnow.com/multimedia/"><img src="/designimages/multinow.gif" alt="MultimediaNOW" width="100" height="59" vspace="5" border="0"></a>
+<br clear="ALL"><a href="http://www.savannahnow.com/features/voices/"><img src="http://www.savannahnow.com/images/features/voices_small.gif" alt="Voices" width="100" height="59" vspace="5" border="0"></a>
+<br clear="ALL"><a href="http://www.savannahnow.com/columnists/fishman"><img src="http://www.savannahnow.com/images/features/janebutton2001.gif" alt="Jane's Garden" width="100" height="59" vspace="5" border="0"></a>
+<br clear="ALL"><a href="http://www.savannahnow.com/features/emmakelly"><img src="http://www.savannahnow.com/images/features/emmasm.gif" alt="Emma Kelly" width="100" height="59" vspace="5" border="0"></a>
+<br clear="ALL"><a href="http://www.savannahnow.com/features/150years"><img src="http://www.savannahnow.com/testnew/images/150yearssm.gif" alt="150 years" width="100" height="59" vspace="5" border="0"></a>
+        <br clear="ALL"><a href="http://www.savannahnow.com/features/aging/"><img src="http://www.savannahnow.com/designimages/feature_art/aging3.gif" width="100" alt="aging matters" height="59" vspace="5" border="0"></a>
+		<br clear="ALL"><a href="http://www.savannahnow.com/nie"><img src="http://www.savannahnow.com/designimages/feature_art/niebutton.gif" alt="Newspapers in Education" width="100" height="59" vspace="5" border="0"></a>
+		<br clear="ALL"><a href="http://www.savannahnow.com/features/ourschools/"><img src="http://www.savannahnow.com/designimages/feature_art/ourschoolsbutton.gif" alt="Our Schools" width="100" height="59" vspace="5" border="0"></a>
+		<br><a href="http://www.savannahnow.com/features/jazz"><img src="http://www.savannahnow.com/images/features/jazzinsidebutton.jpg" alt="Our Jazz History" width="100" height="59" vspace="5" border="0"></a>
+		<br clear="ALL"><a href="http://www.savannahnow.com/features/20over60"><img src="http://www.savannahnow.com/images/features/2060insidebutton.jpg" alt="20 over 60" width="100" height="59" vspace="5" border="0"></a>
+				<br clear="ALL"><a href="http://www.savannahnow.com/columnists/mstreeter/"><img src="http://www.savannahnow.com/designimages/feature_art/mstreeterbutton.gif" alt="Mark Streeter" width="100" height="59" vspace="5" border="0"></a>
+		<br clear="ALL"><a href="http://www.savannahnow.com/features/mib25years/"><img src="http://www.savannahnow.com/designimages/feature_art/maninblack2.gif" alt="25 years of Man in Black" width="100" height="59" vspace="5" border="0"></a> 
+	 	<br clear="ALL"><a href="http://www.savannahnow.com/features/centuryphotos/"><img src="http://www.savannahnow.com/designimages/feature_art/poc.gif" alt="Photos of the Century" width="100" height="59" vspace="5" border="0"></a> 
+	 	<!-- ÇBRÈÇA HREF="http://www.savannahnow.com/features/newideas/"ÈÇIMG SRC="/designimages/feature_art/newideas.gif" ALT="New Century, New Ideas" WIDTH="100" HEIGHT="59" VSPACE="5" BORDER="0"ÈÇ/AÈ 
+	 	ÇBRÈÇA HREF="http://www.savannahnow.com/features/20under40/"ÈÇIMG SRC="/designimages/feature_art/20under40.gif" ALT="20 under 40" WIDTH="100" HEIGHT="59" VSPACE="5" BORDER="0"ÈÇ/AÈ  -->
+	 	<br clear="ALL"><a href="http://www.savannahnow.com/goodandevil/"><img src="http://www.savannahnow.com/designimages/feature_art/midnight.gif" alt="Midnight" width="100" height="68" vspace="5" border="0"></a>
+
+<!-- <BR CLEAR="ALL"><A HREF="http://cg.zip2.com/savannahnow/"><IMG SRC="http://www.savannahnow.com/designimages/communitybutton.gif" ALT="Midnight" WIDTH="100" HEIGHT="59" VSPACE="5" BORDER="0"></A> -->
+</font>
+</center>
+
+   					
+   <!--/END RIGHT RAIL--></td></tr><tr><td bgcolor="#990000" valign="bottom" width="110">
+  					<img src="http://www.savannahnow.com/testnew/images/leftnavbottom.gif" width="110" height="12"></td><td width="8"></td><td width="464"></td><td width="8"></td></tr></tbody></table>
+  	
+</center>
+
+  
+</body></html>
