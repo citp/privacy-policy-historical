@@ -1,52 +1,79 @@
-<!--The following is the downloaded HTML source of the showcase.ca privacy policy that was archived on 2002-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208070111id_/http%3A//www.showcase.ca/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the showcase.ca privacy policy that was archived on 2003-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602184502id_/http%3A//www.showcase.ca/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><style type="text/css">
 <!--
-
-	.debug {
-		font-family : tahoma, Verdana, Arial, Helvetica, sans-serif;
-		font-size: 10px;
-		color: #0000cc;
-		text-align: left;
-		border-width: 1px;
-		border-style: outset;
-		padding: 4px;
-		background-color: #ffcc66;
-		margin-top: 1px;
-		margin-bottom: 1px;
-	}
-
-	.debugRS {
-		font-family : tahoma, Verdana, Arial, Helvetica, sans-serif;
-		font-size: 9px;
-		color: #333333;
-		text-align: left;
-		border-width: 1px;
-		border-style: outset;
-		padding: 4px;
-		background-color: #cccc99;
-		margin-top: 1px;
-		margin-bottom: 1px;
-	}
-
-	.debugPath {
-		font-family : tahoma, Verdana, Arial, Helvetica, sans-serif;
-		font-size: 10px;
-		color: #ffcc66;
-		text-align: left;
-		border-width: 1px;
-		border-style: outset;
-		padding: 4px;
-		background-color: #0000cc;
-		margin-top: 1px;
-		margin-bottom: 1px;
-	}
-
+.debug {
+	font-family : tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #0000cc;
+	text-align: left;
+	border-width: 1px;
+	border-style: outset;
+	padding: 4px;
+	background-color: #ffcc66;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.debugRS {
+	font-family : tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	text-align: left;
+	border-width: 1px;
+	border-style: outset;
+	padding: 4px;
+	background-color: #cccc99;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.debugPath {
+	font-family : tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #ffcc66;
+	text-align: left;
+	border-width: 1px;
+	border-style: outset;
+	padding: 4px;
+	background-color: #0000cc;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
 -->
 </style>
 
 
+
+</head><body bgcolor="#90A2AC" text="#000000" leftmargin="0" topmargin="4" marginwidth="0" marginheight="0"><iframe id="admanErrorFrame" name="admanErrorFrame" src="" width="0" height="0" frameborder="0"></iframe>
+
+<form name="admanErrorForm">
+	<input type="hidden" name="adPage" value="">
+	<input type="hidden" name="adImageSrc" value="">
+	<input type="hidden" name="adGroupID" value="">
+	<input type="hidden" name="siteID" value="">
+</form>
+  
+<script language="JavaScript">
+<!--
+	function trackClick(pSiteID,pGroupID, pClickURL) {
+		window.open("/global/adman/trackClick.asp?siteID="+pSiteID+"&groupID="+pGroupID+"&URL="+pClickURL, "advertiserWindow","")
+	}
+
+	function ImageLoadFailed(pThis, pAdGroupID, pSiteID) {
+		//----- display no image
+		window.event.srcElement.style.display = "None";
+		document.admanErrorForm.action = '/global/adman/adman_error_email.asp';
+		document.admanErrorForm.method = 'post';
+		document.admanErrorForm.target = 'admanErrorFrame';
+		document.admanErrorForm.adPage.value = "www.showcase.ca/privacy.asp";
+		document.admanErrorForm.adImageSrc.value = pThis.src;
+		document.admanErrorForm.adGroupID.value = pAdGroupID;
+		document.admanErrorForm.siteID.value = pSiteID;
+		document.admanErrorForm.submit();
+	}
+
+//-->
+</script>
 
 
 
@@ -58,6 +85,9 @@
 <link href="/css/showcase_schedule.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" src="/global/scripts/cookies.js"></script>
 <script language="JavaScript" src="/global/scripts/common.js"></script>
+
+
+
 <script language="JavaScript">
 <!--
 
@@ -84,12 +114,17 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 
+function validateUnsub(form){
+	if ((form.EMail_Address.value == "") || (form.EMail_Address.value.indexOf('@') == -1) || (form.EMail_Address.value.indexOf('.') == -1)){
+		alert("Please enter a valid email address!");
+		form.EMail_Address.focus();
+		form.EMail_Address.select();
+		return false;
+	}
+	return true;
+}
 //-->
-</script></head>
-
-
-
-<body bgcolor="#90A2AC" text="#000000" leftmargin="0" topmargin="4" marginwidth="0" marginheight="0">
+</script>
 
 
 
@@ -101,11 +136,16 @@ function MM_swapImage() { //v3.0
 	<td>
 		<table width="760" border="0" cellspacing="0" cellpadding="0" align="center" height="80" background="/images/global/bsp.gif">
 		<tbody><tr> 
-		  <td rowspan="2"><img src="/images/global/bsp.gif" width="287" height="80" border="0" alt=""></td>
-		  <td colspan="2"><img src="/images/global/bsp.gif" width="473" height="10" border="0" alt=""></td>
+			
+          <td rowspan="2"><a href="/"><img src="/images/global/bsp.gif" width="287" height="80" border="0" alt=""></a></td>
+			<td colspan="2"><img src="/images/global/bsp.gif" width="473" height="10" border="0" alt=""></td>
 		</tr><tr> 
-		  <td width="468" valign="top"><script src="http://alliance.adbureau.net/jserver/SITE=SHOWCASE/area=/aamsz=468x60"></script></td>
-		  <td width="5"><img src="/images/global/bsp.gif" width="5" height="70" border="0" alt=""></td>
+			<td width="468" valign="top">
+
+				<script src="http://alliance.adbureau.net/jserver/SITE=SHOWCASE/area=/aamsz=468x60"></script>
+
+			</td>
+			<td width="5"><img src="/images/global/bsp.gif" width="5" height="70" border="0" alt=""></td>
 		</tr>
 		</tbody></table>
 	</td>
@@ -137,9 +177,9 @@ function MM_swapImage() { //v3.0
 	<td><a href="/schedule/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navSchedule','','/images/global/b_schedule_r.gif',0)"><img name="navSchedule" border="0" src="/images/global/b_schedule.gif" width="72" height="25" alt="schedule"></a></td>
 	<td><a href="/movies/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navMovies','','/images/global/b_movies_r.gif',0)"><img name="navMovies" border="0" src="/images/global/b_movies.gif" width="64" height="25" alt="movies"></a></td>
 	<td><a href="/series/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navSeries','','/images/global/b_series_r.gif',0)"><img name="navSeries" border="0" src="/images/global/b_series.gif" width="58" height="25" alt="series"></a></td>
-		<!--no trivia or contents for launch<td><a href="/contests/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('navContests','','/images/global/b_contests_r.gif',0)"><img name="navContests" border="0" src="/images/global/b_contests.gif" width="68" height="25" alt="contests"></a></td>
-    <td><a href="/trivia/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('navTrivia','','/images/global/b_trivia_r.gif',0)"><img name="navTrivia" border="0" src="/images/global/b_trivia.gif" width="54" height="25" alt="trivia"></a></td>-->
-	<td><a href="/festivals/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navFestivals','','/images/global/b_festivals_r.gif',0)"><img name="navFestivals" border="0" src="/images/global/b_festivals.gif" width="98" height="25" alt="film festivals"></a></td>
+		<!--no trivia or contents for launch<td><a href="/contests/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('navContests','','/images/global/b_contests_r.gif',0)"><img name="navContests" border="0" src="/images/global/b_contests.gif" width="68" height="25" alt="contests"></a></td>-->
+    <td><a href="/games/trivia/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navTrivia','','/images/global/b_trivia_r.gif',0)"><img name="navTrivia" border="0" src="/images/global/b_trivia.gif" width="54" height="25" alt="trivia"></a></td>
+	<!--<td><a href="/festivals/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('navFestivals','','/images/global/b_festivals_r.gif',0)"><img name="navFestivals" border="0" src="/images/global/b_festivals.gif" width="98" height="25" alt="film festivals"></a></td>-->
 	<td><a href="/discussions/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('navDiscussions','','/images/global/b_discussions_r.gif',0)"><img name="navDiscussions" border="0" src="/images/global/b_discussions.gif" width="122" height="25" alt="discussions"></a></td>
 </tr><tr>
 	<td colspan="8" bgcolor="395D6C"><img src="/images/global/bsp.gif" width="630" height="10"></td>
@@ -176,7 +216,7 @@ function MM_swapImage() { //v3.0
     <td width="570" class="bodywh">
       <p><b>Privacy Policy</b><br>
         <b>Quick Reference: <a href="#terms" class="bodywh">Terms of Use</a> | 
-        <a href="#disclaimer" class="bodywh">Disclaimer</a> | <a href="contactus.asp" class="bodywh">Contact 
+        <a href="#disclaimer" class="bodywh">Disclaimer</a> | <a href="/contact/" class="bodywh">Contact 
         Us</a></b><br>
         <br>
         <b><br>
@@ -483,7 +523,8 @@ function MM_swapImage() { //v3.0
 	<td colspan="3" bgcolor="#CCCCCC" height="1"><img src="/images/global/bsp.gif" width="1" height="1"></td>
 </tr><tr> 
 	<td width="100">&nbsp;</td>
-	<td class="footer" align="center" width="506"><span class="footer"><font color="#FFFFFF">Copyright © 2002 Alliance Atlantis Communications Inc., All Rights Reserved</font>.</span></td>
+	  <td class="footer" align="center" width="506"><span class="footer"><font color="#FFFFFF">Copyright 
+        © 2003 Alliance Atlantis Communications Inc., All Rights Reserved</font>.</span></td>
 	<td align="center" width="150">&nbsp;</td>
 </tr>
 </tbody></table>
@@ -492,4 +533,7 @@ function MM_swapImage() { //v3.0
 
 
 
-</body></html>
+
+
+
+<!--  AAC page loaded successfully tag --></body></html>
