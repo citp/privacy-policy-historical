@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204181106id_/http%3A//liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2003-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030920150210id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36) for the most accurate reproduction.*
 
 # Privacy Policy - Security
 
@@ -6,7 +6,7 @@ Drs. Foster & Smith is very sensitive to the issues of online privacy and electr
 
 **Secure Shopping**
 
-All orders on our Live Aquaria site are encrypted using Secure Socket Layer (SSL) technology - one of the most prevalent and secure systems available online. SSL is an extremely complex form of cryptography that makes it virtually impossible for a third party to decrypt any personal information you provide. You can rest assured that your personal and credit card information is protected when transmitted online. You can find detailed information about SSL technology and how it works online using any of the search engines. A good place to start is by visiting [Webopedia's discussion on SSL](http://webopedia.internet.com/TERM/S/SSL.html). 
+All orders on our LiveAquaria.com site are encrypted using Secure Socket Layer (SSL) technology - one of the most prevalent and secure systems available online. SSL is an extremely complex form of cryptography that makes it virtually impossible for a third party to decrypt any personal information you provide. You can rest assured that your personal and credit card information is protected when transmitted online. You can find detailed information about SSL technology and how it works online using any of the search engines. A good place to start is by visiting [Webopedia's discussion on SSL](http://webopedia.internet.com/TERM/S/SSL.html). 
 
 **Privacy Policy**
 
@@ -31,7 +31,7 @@ We believe that your e-mail address is private information and you have our assu
 
 As an AOL Certified Merchant, we have agreed to abide by the principles outlined in AOL's Privacy Policy at the following URL: <http://legal.web.aol.com/policy/aolpol/privpol.html> If you have any questions regarding our privacy practices, please contact us at: 
 
-Live Aquaria  
+LiveAquaria.com  
 P.O. Box 100  
 Rhinelander WI 54501  
 1-800-776-8872  
