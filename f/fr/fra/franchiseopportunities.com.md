@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621105226id_/http%3A//www.franchiseopportunities.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205053457id_/http%3A//franchiseopportunities.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy of franchise opportunities and franchiseopportunities.com
 
@@ -23,12 +23,12 @@
 FEATURED FRANCHISES  
 [](http://www.franchiseopportunities.com/franchise.asp?fid=214501&et=3)  
 [](http://www.franchiseopportunities.com/franchise.asp?fid=10861&et=3)  
-[](http://www.franchiseopportunities.com/franchise.asp?fid=263723&et=3)  
-[](http://www.franchiseopportunities.com/franchise.asp?fid=149460&et=3)  
-[](http://www.franchiseopportunities.com/franchise.asp?fid=314516&et=3)  
-[](http://www.franchiseopportunities.com/franchise.asp?fid=2898&et=3)  
 [](http://www.franchiseopportunities.com/franchise.asp?fid=3458&et=3)  
-[](http://www.franchiseopportunities.com/franchise.asp?fid=300579&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=453229&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=2898&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=314516&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=451202&et=3)  
+[](http://www.franchiseopportunities.com/franchise.asp?fid=263723&et=3)  
 [](http://www.franchiseopportunities.com/newsletter.asp)  
 | |   
 
@@ -39,13 +39,9 @@ FranchiseOpportunities.com has created this privacy statement in order to demons
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
 
-Our site's registration form requires users to give us contact information (like their name and email address), and financial information (like their account or credit card numbers and net worth). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Financial information that is collected is used to check the users' qualifications for registration, to bill the user for products and services, and for other purposes. 
+Our site's registration form requires users to give us contact information (like their name, email address, phone number, etc.), and financial information (like the amount of capital available to invest in a franchise and their net worth). We use customer contact information from the registration form to send the user information to those franchises they have inquired about and to introduce through promotional material other franchises that might be of interest. We may, from time to time, provide this information to others we feel have a valid offer that you may find merit in. However, we believe in keeping your personal information confidential, and do not release on a wholesale level. As a registered visitor requesting information, FranchiseOpportunities.com and its sponsors may use your registered information to contact you regarding opportunities, services, to conduct surveys, provide consulting/coaching services and other related services. By registering, you agree with these practices and therefore agree to receive telephone calls and/or emails even if you are registered with any state Do Not Call Registry, and/or the National Do Not Call List. However, as requested by you, once your information is submitted by you to your franchise(s) of interest, we disclaim any responsibility for their use of the content.
 
 This site contains links to other sites. www.FranchiseOpportunities.com is not responsible for the privacy practices or the content of such Web sites.
-
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), and financial information (like their account or credit card numbers and net worth). Contact information from the order form is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Financial information that is collected is used to check the users' qualifications. Demographic and profile data is also collected at our site. 
-
-Our online surveys ask visitors for contact information (like their email address), and financial information (like their account or credit card numbers). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Financial information that is collected from our users is used to check the users' qualifications. We run contests on our site in which we ask visitors for contact information (like their email address), and financial information (like their account or credit card numbers and net worth). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Financial information that is collected from our users is used to check the users' qualifications for registration.
 
  **Supplementation Information**  
 This site supplements the information that you provide with information that is received from third parties.
