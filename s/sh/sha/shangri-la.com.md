@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shangri-la.com privacy policy that was archived on 1999-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990819102852id_/http%3A//www.shangri-la.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shangri-la.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610194123id_/http%3A//www.shangri-la.com/privacy.html) for the most accurate reproduction.*
 
 # Shangri-La Privacy Statement
 
@@ -21,4 +21,4 @@ As the information we gather is not financially sensitive i.e., we do not gather
 
 This website does not make use of cookies and non-acceptance of cookies will not affect your browsing experience of our website.
 
-[Back to Shangri-la home](https://web.archive.org/web/19990819102852id_/http%3A//www.shangri-la.com/Default.html)
+[Back to Shangri-la home](https://web.archive.org/web/20000610194123id_/http%3A//www.shangri-la.com/Default.html)
