@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the born.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203201911id_/http%3A//www.born.com/about_born/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the born.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606010719id_/http%3A//born.com/about_born/privacy.cfm) for the most accurate reproduction.*
 
 # 
 
