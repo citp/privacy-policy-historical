@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609233254id_/http%3A//naa.org/DocPage.cfm%3FDID%3DPRV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207101427id_/http%3A//www.naa.org/DocPage.cfm%3FDID%3DPRV) for the most accurate reproduction.*
 
 # NAA
 
@@ -11,16 +11,16 @@
 |   
 |   
 |   
-|   
-|   
-|   
-|   
-|   
+[](https://web.archive.org/web/20021207101427id_/http%3A//www.naa.org/InfoFor.cfm?IID=1000) |   
+[](http://www.naa.org/classified/index.html) |   
+[](http://www.newspaperlinks.com/home.cfm) |   
+[](http://www.naa.org/vendorlinks/index.asp) |   
+[](https://web.archive.org/web/20021207101427id_/http%3A//www.naa.org/NAAIndex.cfm) |   
 |   
 |   
   
 [  
-HOME](https://web.archive.org/web/20020609233254id_/http%3A//naa.org/index.cfm) -> Privacy Policy 
+HOME](https://web.archive.org/web/20021207101427id_/http%3A//www.naa.org/index.cfm) -> Privacy Policy 
 
 ### Online Privacy and Child-Protection Policy
 
