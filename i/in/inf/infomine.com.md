@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infomine.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413010916id_/http%3A//www.infomine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infomine.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204211015id_/http%3A//www.infomine.com/privacy.html) for the most accurate reproduction.*
 
 # InfoMine - The Internet's Premier Mining Information Site
 
@@ -50,4 +50,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at +1 604 683-2037 or send us an email at [info@infomine.com](mailto:info@infomine.com). 
+Should you have other questions or concerns about these privacy policies, please call us at +1 604 683-2037 or send us an email at [info@infomine.com](mailto:info@infomine.com).
