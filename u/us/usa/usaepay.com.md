@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the usaepay.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202204255id_/http%3A//usaepay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaepay.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612120917id_/https%3A//www.usaepay.com/privacy.htm) for the most accurate reproduction.*
 
-# USA ePay - Company Information
+# USA ePay : Privacy Policy
 
+                           
 **_Scope of this Privacy Policy_  
 **This Privacy Policy covers USA ePay's treatment of personally identifiable information collected from merchants (hereafter "merchant" or "you") who use the USA ePay payment gateway services, as well as consumer information that we acquire in the course of our business. This Policy also covers the treatment of personally identifiable information that USA ePay's business partners may share with it.
 
