@@ -1,118 +1,318 @@
-<!--The following is the downloaded HTML source of the parkinson.org privacy policy that was archived on 2000-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001017204932id_/http%3A//www.parkinson.org/disclaimer.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parkinson.org privacy policy that was archived on 2002-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021004152541id_/http%3A//www.parkinson.org/disclaimer.htm) for the most accurate reproduction.-->
 
 <html><head>
+   
+<script language="JavaScript">
+<!-- hide
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+/* Functions that swaps down images. */
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+
+function fwLoadMenus() {
+  if (window.fw_menu_0) return;
+  window.fw_menu_0 = new Menu("root",163,21,"Verdana, Arial, Helvetica, sans-serif",14,"#ffffff","#ffffff","#990000","#000066");
+  fw_menu_0.addMenuItem("Get to know NPF","location='/knoindex.htm'");
+  fw_menu_0.addMenuItem("Parkinson Facts","location='/eduindex.htm'");
+  fw_menu_0.addMenuItem("How to help NPF","location='/helpnpf.htm'");
+   fw_menu_0.fontWeight="bold";
+   fw_menu_0.hideOnMouseOut=false;
+  window.fw_menu_1 = new Menu("root",226,21,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#ffffff","#990000","#000033");
+  fw_menu_1.addMenuItem("Current Events","location='/events.htm'");
+  fw_menu_1.addMenuItem("Conferences &amp; Symposia","location='/symposia.htm'");
+   fw_menu_1.fontWeight="bold";
+   fw_menu_1.hideOnMouseOut=false;
+  window.fw_menu_2 = new Menu("root",249,21,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#ffffff","#990000","#000033");
+  fw_menu_2.addMenuItem("Archives","location='/newnews.htm'");
+  fw_menu_2.addMenuItem("Helpful Resources","location='/services.htm'");
+  fw_menu_2.addMenuItem("Online Libraries","location='/toread.htm'");
+  fw_menu_2.addMenuItem("Useful Links","location='/sources.htm'");
+  fw_menu_2.addMenuItem("Search &quot;Ask Dr. Lieberman&quot;","location='/wincgi/askdr.exe'");
+  fw_menu_2.addMenuItem("Search the NPF Site","location='/search.htm'");
+   fw_menu_2.fontWeight="bold";
+   fw_menu_2.hideOnMouseOut=false;
+  window.fw_menu_3 = new Menu("root",271,21,"Verdana, Arial, Helvetica, sans-serif",14,"#ffffff","#000000","#990000","#ffff00");
+  fw_menu_3.addMenuItem("Ask Dr. Lieberman","location='/drindex.htm'");
+  fw_menu_3.addMenuItem("Search &quot;Ask Dr. Lieberman&quot;","location='/wincgi/askdr.exe'");
+  fw_menu_3.addMenuItem("See Dr. Lieberman's new Book","location='/bookfaq.htm'");
+  fw_menu_3.addMenuItem("Tests for Parkinson's Disease","location='/tests.htm'");
+   fw_menu_3.fontWeight="bold";
+   fw_menu_3.hideOnMouseOut=false;
+  window.fw_menu_4 = new Menu("root",234,21,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#ffffff","#990000","#000033");
+  fw_menu_4.addMenuItem("NPF Support Groups","location='/support.htm'");
+  fw_menu_4.addMenuItem("NPF Centers of Excellence","location='/centers.htm'");
+  fw_menu_4.addMenuItem("NPF Affilliate Chapters","location='/chapters.htm'");
+   fw_menu_4.fontWeight="bold";
+   fw_menu_4.hideOnMouseOut=false;
+  window.fw_menu_5 = new Menu("root",308,21,"Verdana, Arial, Helvetica, sans-serif",14,"#cccccc","#ffffff","#990000","#000033");
+  fw_menu_5.addMenuItem("Grant Information","location='/grants.htm'");
+  fw_menu_5.addMenuItem("NPF Information on Clinical Studies","location='/clnindex.htm'");
+  fw_menu_5.addMenuItem("Acurian .com","location='http://www.acurian.com/patient/trial/results.jsp?cond=S0119&camp=assoclinknpf'");
+   fw_menu_5.addMenuItem("CenterWatch Clinical Trials","location='http://www.centerwatch.com/patient/studies/cat117.html'");
+  fw_menu_5.addMenuItem("National Institute of Health","location='http://www.clinicaltrials.gov'");
+  fw_menu_5.addMenuItem("Veritas Medicine","location='http://www.veritasmedicine.com'");
+  fw_menu_5.addMenuItem("Sponsored Programs","location='/programs.htm'");
+   fw_menu_5.fontWeight="bold";
+   fw_menu_5.hideOnMouseOut=false;
+
+  fw_menu_5.writeMenus();
+} // fwLoadMenus()
+
+// stop hiding -->
+</script>
+<script language="JavaScript1.2" src="/fw_menu.js"></script>
+
 
 <title>Privacy Policy and Disclaimer</title>
-
 </head>
-<body bgcolor="#FFFFFF">
-<blockquote> 
-  <p></p><center><b>~||{&nbsp; <font color="#FF0000" size="+1"><i>N</i></font><i>ational<font color="#FF0000"> 
-    </font></i><font color="#FF0000" size="+1"><i>P</i></font><i>arkinson<font color="#FF0000"> 
-    </font></i><font color="#FF0000" size="+1"><i>F</i></font><i>oundation&nbsp;</i> 
-    }||~</b> <img src="images/npfplaq.gif" width="125" height="75" alt="NPF" align="absmiddle"> 
-    <b>~||{ <i>&nbsp;A World Wide Organization</i> &nbsp;}||~</b></center><p></p>
-  <p align="center"><b>NATIONAL PARKINSON FOUNDATION, INC. PRIVACY POLICY</b></p>
-  <p> National Parkinson Foundation, Inc, thanks you for visiting its Web site. 
-    Because we are committed to respecting the privacy of our Web site visitors, 
-    this Web site privacy policy statement and safeguarding describes the information 
-    we collect from you during your visit to our site, how we may use it, and 
-    how we will protect the information which you may opt to provide. </p>
-  <p><b>Personally Identifiable Information</b> <br>
-    Personally identifiable information includes your name, address, zip code 
-    and telephone number, e-mail address or any other information which might 
-    reasonably be used to identify you individually. NPF collects personally identifiable 
-    information from Web site visitors only when it is voluntarily provided. NPF 
-    will not otherwise collect this information from you on our Web site. NPF 
-    offers the option of making tax deductible contribution to NPF and with a 
-    credit card and will collect the information needed to make such transactions.</p>
-  <p>At those portions of our Web site where we provide you with the option to 
-    input personally identifiable information, we notify you of the uses we intend 
-    to make of that information in any given instance. When NPF receives personally 
-    identifiable information we may use it for reasonable purposes. For example 
-    we may use this information to contact you, via e-mail or regular mail, to 
-    provide you with information we believe may be of interest. It may also be 
-    used for compiling data and analyses to understand and serve your needs. Data 
-    is also compiled to evaluate the use and utility of the services we provide 
-    on line. <b>Personally identifiable information will not be sold, rented or 
-    exchanged outside of NPF unless the user is first notified and expressly consents 
-    to such transfer.</b> </p>
-  <p><b>Collective/Aggregate Data</b><br>
-    NPF Web sites may also collect information from you that is not personally 
-    identifiable. For example, we might track information about the date and time 
-    visitors access our site, the type of web browser they used, and the Web sites 
-    from which they connected to our site. Our Web sites collect this information 
-    by depositing certain bits of information called "cookies" in a visitor's 
-    computer. This technology does not collect an individual visitor's personally 
-    identifiable information, rather this information is collected in an aggregate 
-    form. The "cookies" can tell us how and when pages in a Web site were visited 
-    and by how many people. This aggregate information will enable us to improve 
-    our Web sites to serve and inform you better. It also may allow you to shortcut 
-    accesses to point of interest on our Web sites when you reenter our system. 
-    Attaching this device to your system has no effect on how it performs.</p>
-  <p><b>Links To Other Sites</b><br>
-    As a resource to our visitors NPF may provide links to other Web sites. We 
-    try to carefully choose Web sites which we believe are useful and meet our 
-    high standards for the accuracy and utility of information. However, because 
-    Web site design and content can change so quickly we cannot guarantee the 
-    standards of every Web site to which we link. Likewise, we are not responsible 
-    for the content of any non NPF site. We also cannot guarantee the privacy 
-    policies of these other sites and suggest you check the privacy policies of 
-    those sites directly. </p>
-  <p><b>Choice</b><br>
-    If you wish to stop receiving any e-mail or other communications from NPF 
-    which might be sent to you in the future based on your request for this information 
-    or if you have submitted personally identifiable information through a NPF 
-    Web site and would like to have that information deleted please notify us 
-    and it will be done promptly.</p>
-  <p> <b>Accuracy</b><br>
-    NPF will make every effort to maintain the accuracy and confidentiality of 
-    any personal information you supply to us. If you wish to make additions or 
-    other corrections to the information you have sent in please transmit it to 
-    the National Parkinson Foundation Inc.'s data processing department.</p>
-  <p> <b>Security</b> <br>
-    All information transmitted to this NPF Web site is secure to the extent possible 
-    using existing technology. Unauthorized third parties should not be able to 
-    access it during transmission. We will store the information that you share 
-    with us securely and will take appropriate steps to protect it from unauthorized 
-    access or disclosure. While no security steps can offer 100 percent protection 
-    we utilize state-of-the-art technology and systems to prevent unauthorized 
-    access to the information we hold. We will limit access to this information 
-    to those NPF personnel with a need to know. We educate our staff about their 
-    duty to protect your privacy and provide training regarding the policy described 
-    herein. </p>
-  <p><b>Changes</b><br>
-    Any changes to this privacy policy will be communicated promptly at this location. 
-    Please check our privacy page periodically to review any changes that may 
-    have been made. </p>
-  <p><b>Thank you for visiting the NPF Web site. WE value your interest and ideas. 
-    If you have any comments or concerns regarding the use of information provided 
-    by NPF via an Internet site please <a href="contact.htm">contact us</a>.</b> 
-  </p>
-  </blockquote>
-<blockquote><hr width="75%">
-  <table align="center" height="35" bgcolor="#FFFFFF" border="1" background="images/tbg.gif">
-    <tbody><tr align="center" valign="middle"> 
-      <td><a href="javascript:history.back();" onmouseover="show2.src=&quot;images/goback2.gif&quot;" onmouseout="show2.src=&quot;images/goback.gif&quot;" onclick="show2.src=&quot;images/goback3.gif&quot;" onmousedown="show2.src=&quot;images/goback3.gif&quot;"><img align="top" alt="Go Back" name="show2" src="images/goback.gif" width="104" height="27" border="0"></a></td>
-      <td><a href="index.htm" onmouseover="show1.src=&quot;images/Home2.gif&quot;" onmouseout="show1.src=&quot;images/Home1.gif&quot;" onclick="show1.src=&quot;images/Home3.gif&quot;" onmousedown="show1.src=&quot;images/Home3.gif&quot;"><img alt="NPF Home" name="show1" src="images/Home1.gif" width="104" height="27" border="0"></a></td>
-    </tr>
-  </tbody></table>
-</blockquote>
-  <p> 
-    <script src="cr.js">
+<body link="#0000ff" bgcolor="#FFFFFF" topmargin="0" marginwidth="0" marginheight="0">
+<script language="JavaScript1.2">fwLoadMenus();</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="92" background="/images/index_r1_c21.jpg" align="top">
+  <tbody><tr>
+    <td valign="top" align="left" height="92" width="72%"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="100" align="left" height="92">
+        <script language="JavaScript">
+  <!-- hide 
+  if (document.images) {
+  index_r2_c2_f2 = new Image(97 ,31); index_r2_c2_f2.src = "/images/index_r2_c2_f2.jpg";
+  index_r2_c2_f2 = new Image(97 ,31); index_r2_c2_f2.src = "/images/index_r2_c2_f3.jpg";
+  index_r2_c2_f1 = new Image(97 ,31); index_r2_c2_f1.src = "/images/index_r2_c2.jpg";
+  index_r2_c6_f2 = new Image(81 ,31); index_r2_c6_f2.src = "/images/index_r2_c6_f2.jpg";
+  index_r2_c6_f2 = new Image(81 ,31); index_r2_c6_f2.src = "/images/index_r2_c6_f3.jpg";
+  index_r2_c6_f1 = new Image(81 ,31); index_r2_c6_f1.src = "/images/index_r2_c6.jpg";
+  index_r2_c7_f2 = new Image(91 ,31); index_r2_c7_f2.src = "/images/index_r2_c7_f2.jpg";
+  index_r2_c7_f2 = new Image(91 ,31); index_r2_c7_f2.src = "/images/index_r2_c7_f3.jpg";
+  index_r2_c7_f1 = new Image(91 ,31); index_r2_c7_f1.src = "/images/index_r2_c7.jpg";
+  index_r2_c10_f2 = new Image(81 ,31); index_r2_c10_f2.src = "/images/index_r2_c10_f2.jpg";
+  index_r2_c10_f2 = new Image(81 ,31); index_r2_c10_f2.src = "/images/index_r2_c10_f3.jpg";
+  index_r2_c10_f1 = new Image(81 ,31); index_r2_c10_f1.src = "/images/index_r2_c10.jpg";
+  index_r2_c11_f2 = new Image(150 ,31); index_r2_c11_f2.src = "/images/index_r2_c11_f2.jpg";
+  index_r2_c11_f2 = new Image(150 ,31); index_r2_c11_f2.src = "/images/index_r2_c11_f3.jpg";
+  index_r2_c11_f1 = new Image(150 ,31); index_r2_c11_f1.src = "/images/index_r2_c11.jpg";
+  index_r2_c16_f2 = new Image(139 ,31); index_r2_c16_f2.src = "/images/index_r2_c16_f2.jpg";
+  index_r2_c16_f2 = new Image(139 ,31); index_r2_c16_f2.src = "/images/index_r2_c16_f3.jpg";
+  index_r2_c16_f1 = new Image(139 ,31); index_r2_c16_f1.src = "/images/index_r2_c16.jpg";
+  }
+  // stop hiding -->
+  </script>
+        <tbody><tr> 
+          <!-- row 1 -->
+          <td colspan="7"><img name="index_r1_c1" src="/images/index_r1_c1.jpg" width="663" border="0"></td>
+		  
+        </tr>
+        <tr> 
+          <!-- row 2 -->
+
+          <td valign="top" height="30" align="left" width="97"><a href="#" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','index_r2_c2','/images/index_r2_c2_f2.jpg','/images/index_r2_c2_f3.jpg',1);" onclick="window.FW_showMenu(window.fw_menu_0,2,100);MM_nbGroup('down','navbar1','index_r2_c2','/images/index_r2_c2_f3.jpg',1);"><img name="index_r2_c2" src="/images/index_r2_c2.jpg" width="97" height="31" border="0"></a></td>
+          <td valign="top" height="30" align="left" width="81"><a href="#" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','index_r2_c6','/images/index_r2_c6_f2.jpg','/images/index_r2_c6_f3.jpg',1);" onclick="window.FW_showMenu(window.fw_menu_1,101,100);MM_nbGroup('down','navbar1','index_r2_c6','/images/index_r2_c6_f3.jpg',1);"><img name="index_r2_c6" src="/images/index_r2_c6.jpg" width="81" height="31" border="0"></a></td>
+          <td valign="top" height="30" align="left" width="91"><a href="#" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','index_r2_c7','/images/index_r2_c7_f2.jpg','/images/index_r2_c7_f3.jpg',1);" onclick="window.FW_showMenu(window.fw_menu_2,182,100);MM_nbGroup('down','navbar1','index_r2_c7','/images/index_r2_c7_f3.jpg',1);"><img name="index_r2_c7" src="/images/index_r2_c7.jpg" width="91" height="31" border="0"></a></td>
+          <td valign="top" height="30" align="left" width="81"><a href="#" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','index_r2_c10','/images/index_r2_c10_f2.jpg','/images/index_r2_c10_f3.jpg',1);" onclick="window.FW_showMenu(window.fw_menu_3,273,101);MM_nbGroup('down','navbar1','index_r2_c10','/images/index_r2_c10_f3.jpg',1);"><img name="index_r2_c10" src="/images/index_r2_c10.jpg" width="81" height="31" border="0"></a></td>
+          <td valign="top" height="30" align="left" width="150"><a href="#" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','index_r2_c11','/images/index_r2_c11_f2.jpg','/images/index_r2_c11_f3.jpg',1);" onclick="window.FW_showMenu(window.fw_menu_4,355,102);MM_nbGroup('down','navbar1','index_r2_c11','/images/index_r2_c11_f3.jpg',1);"><img name="index_r2_c11" src="/images/index_r2_c11.jpg" width="150" height="31" border="0"></a></td>
+          <td valign="top" height="30" align="left" width="139"><a href="#" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','index_r2_c16','/images/index_r2_c16_f2.jpg','/images/index_r2_c16_f3.jpg',1);" onclick="window.FW_showMenu(window.fw_menu_5,361,104);MM_nbGroup('down','navbar1','index_r2_c16','/images/index_r2_c16_f3.jpg',1);"><img name="index_r2_c16" src="/images/index_r2_c16.jpg" width="139" height="31" border="0"></a></td>
+          <td valign="top" height="30" align="left" width="97"><a href="/index.htm" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','btnhome','/images/btnhomeover.jpg','/images/btnhome.jpg',1);"><img name="btnhome" src="/images/btnhome.jpg" border="0" width="97" height="30"></a></td>
+<!--          <td valign="top" height="30" align="left" width="23"><img name="index_r2_c19" src="/images/index_r2_c19.jpg" width="23" height="31" border="0"></td> -->
+		
+        </tr>
+      </tbody></table>
+	</td>
+  </tr>
+  
+</tbody></table>
+
+<table width="90%" border="0" align="center">
+  <tbody><tr>
+    <td align="center" valign="top">
+      <h3>&nbsp;</h3>
+      </td>
+  </tr>
+  <tr> 
+    <td align="center" valign="top"> 
+      <div align="left"> <br>
+        <p align="center"><b>NATIONAL PARKINSON FOUNDATION, INC. PRIVACY POLICY</b></p>
+        <p> National Parkinson Foundation, Inc, thanks you for visiting its Web 
+          site. Because we are committed to respecting the privacy of our Web 
+          site visitors, this Web site privacy policy statement and safeguarding 
+          describes the information we collect from you during your visit to our 
+          site, how we may use it, and how we will protect the information which 
+          you may opt to provide. </p>
+        <p><b>Personally Identifiable Information</b> <br>
+          Personally identifiable information includes your name, address, zip 
+          code and telephone number, e-mail address or any other information which 
+          might reasonably be used to identify you individually. NPF collects 
+          personally identifiable information from Web site visitors only when 
+          it is voluntarily provided. NPF will not otherwise collect this information 
+          from you on our Web site. NPF offers the option of making tax deductible 
+          contribution to NPF and with a credit card and will collect the information 
+          needed to make such transactions.</p>
+        <p>At those portions of our Web site where we provide you with the option 
+          to input personally identifiable information, we notify you of the uses 
+          we intend to make of that information in any given instance. When NPF 
+          receives personally identifiable information we may use it for reasonable 
+          purposes. For example we may use this information to contact you, via 
+          e-mail or regular mail, to provide you with information we believe may 
+          be of interest. It may also be used for compiling data and analyses 
+          to understand and serve your needs. Data is also compiled to evaluate 
+          the use and utility of the services we provide on line. <b>Personally 
+          identifiable information will not be sold, rented or exchanged outside 
+          of NPF unless the user is first notified and expressly consents to such 
+          transfer.</b> </p>
+        <p><b>Collective/Aggregate Data</b><br>
+          NPF Web sites may also collect information from you that is not personally 
+          identifiable. For example, we might track information about the date 
+          and time visitors access our site, the type of web browser they used, 
+          and the Web sites from which they connected to our site. Our Web sites 
+          collect this information by depositing certain bits of information called 
+          "cookies" in a visitor's computer. This technology does not collect 
+          an individual visitor's personally identifiable information, rather 
+          this information is collected in an aggregate form. The "cookies" can 
+          tell us how and when pages in a Web site were visited and by how many 
+          people. This aggregate information will enable us to improve our Web 
+          sites to serve and inform you better. It also may allow you to shortcut 
+          accesses to point of interest on our Web sites when you reenter our 
+          system. Attaching this device to your system has no effect on how it 
+          performs.</p>
+      </div>
+      <div align="left"> 
+        <p><b>Use of Communications Forums</b><br>
+          the National Parkinson Foundation website has, will, or may contain 
+          threaded discussions, chat rooms, list servers and other communications 
+          forums. By participating in any of these, users agree to send and receive 
+          messages that are both proper and related to the forum topic. The following 
+          actions are unacceptable practices:<br>
+        </p>
+      </div>
+      <ul>
+        <li> 
+          <div align="left">Defaming, harassing, threatening, or otherwise violating 
+            the legal rights of others, including their privacy.</div>
+        </li>
+        <li> 
+          <div align="left">Misrepresenting one's person, background, or character; 
+          </div>
+        </li>
+        <li> 
+          <div align="left">Posting any defamatory, infringing, obscene, false, 
+            or unlawful material; </div>
+        </li>
+        <li> 
+          <div align="left">Selling, advertising, or exchanging any goods or services 
+            unless expressly allowed; </div>
+        </li>
+        <li>
+          <div align="left">Posting any copyrighted material owned by a third 
+            party.</div>
+        </li>
+      </ul>
+      <div align="left">
+        <p>The National Parkinson Foundation may alter or remove any messages 
+          or postings to our site which we deem inappropriate or offensive.</p>
+        <p>Also, you agree to use the National Parkinson Foundation website at 
+          your own risk. While championing the proper use of such forums, The 
+          National Parkinson Foundation cannot guarantee that violations of the 
+          above code will not occur.<br>
+        </p>
+      </div>
+      <div align="left"> 
+        <p><b>Links To Other Sites</b><br>
+          As a resource to our visitors NPF may provide links to other Web sites. 
+          We try to carefully choose Web sites which we believe are useful and 
+          meet our high standards for the accuracy and utility of information. 
+          However, because Web site design and content can change so quickly we 
+          cannot guarantee the standards of every Web site to which we link. Likewise, 
+          we are not responsible for the content of any non NPF site. We also 
+          cannot guarantee the privacy policies of these other sites and suggest 
+          you check the privacy policies of those sites directly. </p>
+        <p><b>Choice</b><br>
+          If you wish to stop receiving any e-mail or other communications from 
+          NPF which might be sent to you in the future based on your request for 
+          this information or if you have submitted personally identifiable information 
+          through a NPF Web site and would like to have that information deleted 
+          please notify us and it will be done promptly.</p>
+        <p> <b>Accuracy</b><br>
+          NPF will make every effort to maintain the accuracy and confidentiality 
+          of any personal information you supply to us. If you wish to make additions 
+          or other corrections to the information you have sent in please transmit 
+          it to the National Parkinson Foundation Inc.'s data processing department.</p>
+        <p> <b>Security</b> <br>
+          All information transmitted to this NPF Web site is secure to the extent 
+          possible using existing technology. Unauthorized third parties should 
+          not be able to access it during transmission. We will store the information 
+          that you share with us securely and will take appropriate steps to protect 
+          it from unauthorized access or disclosure. While no security steps can 
+          offer 100 percent protection we utilize state-of-the-art technology 
+          and systems to prevent unauthorized access to the information we hold. 
+          We will limit access to this information to those NPF personnel with 
+          a need to know. We educate our staff about their duty to protect your 
+          privacy and provide training regarding the policy described herein. 
+        </p>
+        <p><b>Changes</b><br>
+          Any changes to this privacy policy will be communicated promptly at 
+          this location. Please check our privacy page periodically to review 
+          any changes that may have been made. </p>
+        <p><b>Thank you for visiting the NPF Web site. WE value your interest 
+          and ideas. If you have any comments or concerns regarding the use of 
+          information provided by NPF via an Internet site please <a href="contact.htm">contact 
+          us</a>.</b> </p>
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+<hr width="75%">
+<p align="center">&nbsp;</p>
+<p> 
+  <script src="cr.js">
 <!-- Begin ------
 
 //  End ---------------------------------->
 </script>
-    <script language="JavaScript">
+  <script language="JavaScript">
 <!-- Begin ------
 
 copyright();
 
 //  End ---------------------------------->
-</script><font size="2"><i>Copyright © 1996-2000 The National Parkinson Foundation, Inc. <a href="disclaimer.htm">Privacy Policy and Disclaimer</a></i></font>
-  </p>
+</script></p><center><font size="2"><i>Copyright © 1996-2002 The National Parkinson Foundation, Inc. <br><a href="disclaimer.htm">Privacy Policy and Disclaimer</a></i></font></center>
+<p></p>
+
+
+
 
 
 
