@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606134040id_/http%3A//www.robbreport.com/Misc/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223173042id_/http%3A//www.robbreport.com/Misc/Privacy-Policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | RobbReport
+# Privacy Policy | Robb Report
 
 |   
 We at CurtCo Robb Media, LLC, publisher of Robb Report and The Robb Report Collection, want to let you know to what extent we are currently collecting information on you when you visit this Site and how we use such information. This may change as we continue to develop the Site to include additional features. If so, we will revise this Privacy Statement to let you know of those changes. 
