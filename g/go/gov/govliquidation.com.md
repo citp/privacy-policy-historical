@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016075428id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204193855id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
 
 # Government Liquidation Government Surplus Auctions Army Surplus Vehicles Sales
 
