@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202220339id_/http%3A//imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602214856id_/http%3A//imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
 
 # The Imaging Resource: Privacy Policy
 
@@ -15,6 +15,4 @@ The Imaging Resource collects some non user specific information such as the typ
 Refer it to your family and friends!**  
 
 
-###### **This document copyright © 1998 - 2003, The Imaging Resource, all rights reserved.** Visitors to this site may download this document for _local, private, non-commercial use_. Individuals who have _themselves_ downloaded this page may print a copy on their personal printers for convenience of reading and reference. Other than this explicit usage, it may not be published, reproduced, or distributed in print or electronic and/or digital media without the express written consent of 
-
-[Search](https://web.archive.org/search.html "Search The Imaging Resource") | [About Us](https://web.archive.org/ABOUTUS.HTM "Get more information on The Imaging Resource") | [Advertising](https://web.archive.org/ADINFO.HTM "Advertising information for The Imaging Resource")| [Press Kit](https://web.archive.org/PRESSKIT.HTM) | [Privacy Policy](https://web.archive.org/PRIVACY.HTM "The Imaging Resource Privacy Policy") | [Home Page](https://web.archive.org/ "The Imaging Resource Home Page")
+###### **This document copyright © 1998 - 2004, The Imaging Resource, all rights reserved.** Visitors to this site may download this document for _local, private, non-commercial use_. Individuals who have _themselves_ downloaded this page may print a copy on their personal printers for convenience of reading and reference. Other than this explicit usage, it may not be published, reproduced, or distributed in print or electronic and/or digital media without the express written consent of 
