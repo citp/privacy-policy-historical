@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232834id_/http%3A//www.alsa.org/als/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602194523id_/http%3A//www.alsa.org/als/privacy.cfm) for the most accurate reproduction.*
 
 # ALSA: About ALS and ALSA: Privacy Policy
 
-[](https://web.archive.org/index.cfm)[](https://web.archive.org/web/20031204232834id_/http%3A//www.alsa.org/als/understand.cfm)[](https://web.archive.org/web/20031204232834id_/http%3A//www.alsa.org/als/patient.cfm)[](https://web.archive.org/web/20031204232834id_/http%3A//www.alsa.org/als/about.cfm)[](https://web.archive.org/web/20031204232834id_/http%3A//www.alsa.org/als/help.cfm) [](https://web.archive.org/index.cfm)[](https://web.archive.org/als/help.cfm)[](https://web.archive.org/als/faq.cfm)[](https://web.archive.org/serving/library.cfm)[](https://web.archive.org/store.cfm)[](https://web.archive.org/search.cfm) |  |    
+[](https://web.archive.org/index.cfm)[](https://web.archive.org/web/20040602194523id_/http%3A//www.alsa.org/als/understand.cfm)[](https://web.archive.org/web/20040602194523id_/http%3A//www.alsa.org/als/patient.cfm)[](https://web.archive.org/web/20040602194523id_/http%3A//www.alsa.org/als/about.cfm)[](https://web.archive.org/web/20040602194523id_/http%3A//www.alsa.org/als/help.cfm) [](https://web.archive.org/index.cfm)[](https://web.archive.org/als/help.cfm)[](https://web.archive.org/als/faq.cfm)[](https://web.archive.org/serving/library.cfm)[](https://web.archive.org/store.cfm)[](https://web.archive.org/search.cfm) |  |    
 This is the Web site of The ALS Association, [http://www.alsa.org](http://www.alsa.org/). 
 
 Our postal address is: 
