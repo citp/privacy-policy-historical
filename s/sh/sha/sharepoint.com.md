@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharepoint.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203030933id_/http%3A//microsoft.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharepoint.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401212012id_/http%3A//www.microsoft.com/isapi/gomscom.asp%3Ftarget%3D/info/privacy.htm) for the most accurate reproduction.*
 
 # Information About Privacy on Microsoft.com
 
