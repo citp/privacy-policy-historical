@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609214922id_/http%3A//cityofpasadena.net/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207092515id_/http%3A//www.cityofpasadena.net/privacyStatement.asp) for the most accurate reproduction.*
 
 # City of Pasadena Privacy Policy
 
-| [gold line](https://web.archive.org/trans/transit/goldline/)  
+|  **[ tournament of roses](https://web.archive.org/tor.asp)**  
 ---  
-[new ARTS routes](https://web.archive.org/trans/transit/trans_arts.asp)  
-[ambassador project](https://web.archive.org/housing/developmentprojects/ambassador.asp)  
-[recommended operating budget 2004](https://web.archive.org/pdf/Transletter.pdf)  
-[hazardous waste roundup](https://web.archive.org/publicworks/smiwmII/hhw_rosebowl.asp)  
-[free workshops!](https://web.archive.org/housing/asbs/asbs.asp)  
+[northwest renaissance](https://web.archive.org/planninganddevelopment/northwest/renaissance.asp)  
+[710 mitigation ](https://web.archive.org/publicworks/Engineering/sr710/default.asp)  
+[gold line](https://web.archive.org/trans/transit/goldline/)  
+[ ARTS routes ](https://web.archive.org/trans/transit/trans_arts.asp)  
+[ambassador](https://web.archive.org/planninganddevelopment/developmentprojects/ambassador.asp)  
+[lookin' good pasadena](https://web.archive.org/publicaffairs/Lookin_Good/default.asp)  
+[ city hall project ](https://web.archive.org/publicaffairs/city%20hall%20retrofit/city%20hall%20project.asp)  
 [emergency preparedness](https://web.archive.org/emergency_prepareQA.asp)  
 [arroyo seco](https://web.archive.org/arroyoSeco.asp)  
-[pasadena tree ordinance](https://web.archive.org/publicworks/PNR/TreeOrdinance/)  
-[employment](https://web.archive.org/humanresources/CurrentOpenings.asp)  
   
 The City of Pasadena recognizes the importance of protecting the privacy of the visitors to this Web site and views this site as a tool for providing City-wide information and interactive services to its citizens. We collect no personal information about you when you visit our site unless you choose to provide that information to us.  We do not give, share, sell, or transfer any personal information to a third party. 
 
@@ -35,5 +35,12 @@ In order to provide electronic commerce capabilities, the name, address and paym
 The City of Pasadena monitors network traffic to identify unauthorized attempts to access, change or destroy information. Anyone using this website expressly consents to such monitoring.
 
 Notwithstanding the provisions listed previously in this section, information submitted to the City of Pasadena's site may be subject to disclosure to another party pursuant to various provisions of California law, including, but not limited to, the California Civil Discovery Act of 1986 and the California Public Records Act. The City of Pasadena only shares such information with another government agency if the inquiry relates to that agency, to protect the interests of others, to protect and defend the rights or property of the City of Pasadena or as otherwise required by applicable state and federal laws.
+
+The City of Pasadena is required by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) to maintain the privacy of certain confidential health care information, known as “Protected Health Information,” or “PHI,” and to provide you with a notice of the City’s legal duties and privacy practices regarding your PHI. This Notice describes your legal rights, advises you of the City’s privacy practices, and explains the circumstances under which the City is permitted to use and disclose PHI about you.     
+The HIPAA notice can be downloaded from the following links:
+
+[HIPAA notice (English)](https://web.archive.org/web/20031207092515id_/http%3A//www.cityofpasadena.net/pdf/hipaa.pdf)  
+[HIPAA notice (Spanish)](https://web.archive.org/web/20031207092515id_/http%3A//www.cityofpasadena.net/pdf/hippaSpanish.pdf)  
+
 
 |  
