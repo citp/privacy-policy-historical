@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210153851id_/http%3A//www.homesecuritystore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402005017id_/http%3A//www.homesecuritystore.com/privacy.html) for the most accurate reproduction.*
 
 # Home Security Store;home security equipment:home alarm system, wireless home security system, burglar alarm system, home security products
 
