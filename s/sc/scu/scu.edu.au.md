@@ -1,10 +1,17 @@
-> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413073034id_/http%3A//www.scu.edu.au/wwwadmin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209072034id_/http%3A//www.scu.edu.au/wwwadmin/privacy/index.html) for the most accurate reproduction.*
 
-# SCU | Privacy Statement
+# SCU - Privacy Statement
 
-Southern Cross University has created this privacy statement to demonstrate its firm commitment to the protection of privacy and personal information under the NSW Privacy and Personal Information Protection Act, 1998, in relation to the operation of its web site.
+Southern Cross University has created this privacy statement to demonstrate its firm commitment to the protection of privacy and personal information.
+
+If you would like more information on the steps taken by the University to comply with its obligations under the NSW Privacy and Personal Information Protection Act, 1998, and the Health Records and Information Privacy Act , 2002, please refer to the University’s Privacy Management Plan, which can be found at <http://www.scu.edu.au/policy/privacy>
+
+By using the web site and the related resources, you consent to the terms and conditions and the collection, use and disclosures as provided in the statement.
 
 Southern Cross University's web site contains links to other web sites, however Southern Cross University is not responsible for the content or privacy practices of any linked sites.
+
+  
+
 
 ## Information Which May Be Collected
 
@@ -22,11 +29,17 @@ The University web site may use registration forms and on-line surveys that requ
 
 Demographic and profile data may also be collected at the University's web site. The University uses this data to tailor the visitor's experience at its web site and to display content it thinks the visitor might be interested in, according to their preferences.
 
+  
+
+
 ## Security
 
 The University's web site has security measures in place to protect against loss, misuse or alteration of the personal information it collects and maintains.
 
 The University operates secure data networks protected by industry standard firewall and password protection systems. The University's data security and privacy policies are periodically reviewed and enhanced as necessary. Only authorised individuals have access to the information stored. Any particularly sensitive information, such as a credit card number collected for a commercial transaction, is encrypted during transmission and may also be stored in an encrypted format.
+
+  
+
 
 ## Disclosure to Third Parties
 
@@ -34,14 +47,51 @@ Any personal information collected from users of the University's web site will 
 
 Although unlikely, the University may be required by law enforcement or judicial authorities to provide information it holds to a third party. If requested as part of a legal proceeding, the University will provide this information only upon receipt of appropriate documentation (eg: a subpoena).
 
+  
+
+
 ## Opting-Out
 
 The University provides users with the opportunity to opt-out of receiving future communications, based on data collected from our web site, by sending an e-mail to: [web@scu.edu.au](mailto:web@scu.edu.au)
 
-## Correcting Acquired Information
+  
 
-The University allows users to change and/or modify information previously provided to our web site by sending an e-mail to: [web@scu.edu.au](mailto:web@scu.edu.au)
+
+## Accessing or Correcting Acquired Information
+
+The University allows users to access and, in some cases, change and/or modify information previously provided to our web site.
+
+To find out how to do so please send an e-mail to: [web@scu.edu.au](mailto:web@scu.edu.au)
+
+  
+
+
+## Public Forums
+
+Some University sites may have chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+  
+
+
+## Changes to the Statement
+
+The University may, at any time and for any reason, review, revise and amend the Statement as the University sees fit.
+
+  
+
 
 ## Contacting the Web Site Administrators
 
 If you have any questions about this privacy statement, the University's web site or your dealings with this site, you can contact:
+
+> Program Manager - Website  
+>  Online Services  
+>  Information Technology & Telecommunication Services  
+>  Southern Cross University  
+>  PO Box 157  
+>  LISMORE NSW 2480  
+>  Australia 
+> 
+> [web@scu.edu.au](mailto:web@scu.edu.au)
+> 
+> <http://www.scu.edu.au/admin/it/>
