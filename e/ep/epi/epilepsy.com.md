@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epilepsy.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618173720id_/http%3A//www.epilepsy.com/epilepsy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epilepsy.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204145959id_/http%3A//www.epilepsy.com/epilepsy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement : Epilepsy.com
 
@@ -17,11 +17,15 @@ Enter keywords to search.
 
   
   
+[](https://web.archive.org/epilepsy/donation.html)  
+  
 [](https://web.archive.org/who/whois.html)  
   
 [](https://web.archive.org/epilepsy/use_site.html)  
   
 [](https://web.archive.org/sitemap/sitemap.html)  
+[](http://www.epilepsy.com/epilepsy/newsletter_signup.php)[](http://www.epilepsy.com/epilepsy/newsletter_signup.php)   
+  
 |  |   
 | 
 
@@ -78,6 +82,8 @@ Epilepsy.com reserves the right to amend this Policy periodically. Any amendment
 
 **HOW TO CONTACT EPILEPSY.COM**  
 If you have any questions about this Policy, please contact us at [EpilepsyCure@aol.com](mailto:EpilepsyCure@aol.com).
+
+This Policy became effective on November 1, 2003.
 
 © 1998 - 2003 The Epilepsy Project and Epilepsy.com. All rights reserved.
 
