@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011142409id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404220508id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com: O'Reilly & Associates, Inc. Privacy Policy
 
 |  |     
   
 ---  
-[Business](https://web.archive.org/business/)  
-[Databases](https://web.archive.org/databases/)  
-[Graphics](https://web.archive.org/graphics/)  
-[Metadata](https://web.archive.org/metadata)  
-[Mobile](https://web.archive.org/mobile/)  
-[Programming](https://web.archive.org/programming/)  
-[Schemas](https://web.archive.org/schemas)  
-[Style](https://web.archive.org/style)  
-[Web](https://web.archive.org/web/)  
+[Business](http://www.xml.com/business/)  
+[Databases](http://www.xml.com/databases/)  
+[Graphics](http://www.xml.com/graphics/)  
+[Metadata](http://www.xml.com/metadata)  
+[Mobile](http://www.xml.com/mobile/)  
+[Programming](http://www.xml.com/programming/)  
+[Schemas](http://www.xml.com/schemas)  
+[Semantic Web](http://www.xml.com/semweb/)  
+[Style](http://www.xml.com/style)  
+[Web](http://www.xml.com/web/)  
 [Web Services](http://webservices.xml.com/)  
+  
   
 
 
@@ -43,6 +45,7 @@
 [Dive into XML](https://web.archive.org/pub/at/25)  
 [Hacking Congress](https://web.archive.org/pub/at/33)  
 [Hacking the Library](https://web.archive.org/pub/at/30)  
+[Java Web Services Security](https://web.archive.org/pub/at/29)  
 [Jon Udell](https://web.archive.org/pub/at/26)  
 [Perl and XML](https://web.archive.org/pub/at/15)  
 [Practical XQuery](https://web.archive.org/pub/at/28)  
@@ -50,6 +53,7 @@
 [Rich Salz](https://web.archive.org/pub/at/21)  
 [Sacré SVG](https://web.archive.org/pub/at/22)  
 [Standards Lowdown](https://web.archive.org/pub/at/31)  
+[The Restful Web](https://web.archive.org/pub/at/34)  
 [Transforming XML](https://web.archive.org/pub/at/16)  
 [XML Q&A](https://web.archive.org/pub/at/13)  
 [XML Tourist](https://web.archive.org/pub/at/32)  
@@ -60,10 +64,16 @@
   
 [Syntax Checker](https://web.archive.org/pub/a/tools/ruwf/check.html)
 
+  
+
+
 [](http://www.oreillynet.com/meerkat/?_fl=atom&t=ALL&c=47)  
 [](http://www.oreillynet.com/meerkat/?_fl=rss10&t=ALL&c=47)
 
 Traveling to a Tech Show?
+
+  
+
 
 |  February 06, 2001  
 
