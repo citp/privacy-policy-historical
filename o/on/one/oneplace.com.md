@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618042127id_/http%3A//oneplace.com/About_Us/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229114925id_/http%3A//oneplace.com/About_Us/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # OnePlace.com - Privacy Policy
 
