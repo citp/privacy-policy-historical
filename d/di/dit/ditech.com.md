@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203235329id_/http%3A//www.ditech.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215230id_/http%3A//ditech.com/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Ditech - Contact Us
 
