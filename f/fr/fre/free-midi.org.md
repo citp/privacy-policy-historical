@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-midi.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610131017id_/http%3A//free-midi.org/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-midi.org privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012022150id_/http%3A//www.free-midi.org/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
