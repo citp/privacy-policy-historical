@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the animelab.com privacy policy that was archived on 2003-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205002259id_/http%3A//animelab.com/anime.manga/s/about/policy/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animelab.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602231450id_/http%3A//animelab.com/anime.manga/s/about/policy/privacy) for the most accurate reproduction.-->
 
 <html><head><title>Animelab.com: Privacy Policy</title>
 <meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l r (n 0 s 0 v 0 l 0) &quot;http://www.classify.org/safesurf/&quot; l r (SS~~000 1))">
+<meta name="ROBOTS" content="INDEX,FOLLOW">
 
 <link rel="P3Pv1" href="/w3c/p3p.xml">
 <meta http-equiv="Content-Type" content="text-html; charset=utf-8">
-<meta name="ROBOTS" content="INDEX,FOLLOW"><link rel="SHORTCUT ICON" href="/favicon.ico">
-<script language="JavaScript" defer="">
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+<script language="JavaScript">
 <!-- // hide 
 if(top.location != location){top.location.href = location.href}
 self.focus();
-
-function addbookmark(){if(document.all){window.external.AddFavorite(location.href,document.title)}}
 function chat() { mapWindow = window.open('http://www.animelab.com/b', 'mapWin', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=550,height=350') }
+function se() { SEWindow = window.open('http://www.animelab.com/se', 'SEWin', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=780,height=425') }
 function mediakit() { mapWindow = window.open('/media.cgi', 'mediaWin', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=630,height=400') }
 function pool(inInt) { mapWindow = window.open("/pool.cgi?uid=" + inInt, 'poolWin', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=500,height=400') }
 function pacman() { mapWindow = window.open('/games/pacman/pac.html', 'mapWin', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=526,height=560')}
@@ -24,6 +24,50 @@ function overx (theobject,origcolor,newcolor) { if (currentcolor(theobject).toLo
 function outx (theobject,origcolor,newcolor) { if (currentcolor(theobject).toLowerCase() == origcolor.toLowerCase()) { } else { theobject.style.background = newcolor; } }
 function clickx (theobject,origcolor,newcolor) { if (currentcolor(theobject).toLowerCase() == origcolor.toLowerCase()) { theobject.style.background = newcolor; } else { theobject.style.background = origcolor; } }
 self.focus();
+var flashlinks=new Array()
+
+function changelinkcolor(){
+for (i=0; i< flashlinks.length; i++){
+var flashtype=document.getElementById? flashlinks[i].getAttribute("flashtype")*1 : flashlinks[i].flashtype*1
+var flashcolor=document.getElementById? flashlinks[i].getAttribute("flashcolor") : flashlinks[i].flashcolor
+if (flashtype==0){
+if (flashlinks[i].style.color!=flashcolor)
+flashlinks[i].style.color=flashcolor
+else
+flashlinks[i].style.color=''
+}
+else if (flashtype==1){
+if (flashlinks[i].style.backgroundColor!=flashcolor)
+flashlinks[i].style.backgroundColor=flashcolor
+else
+flashlinks[i].style.backgroundColor=''
+}
+}
+}
+
+function init(){
+var i=0
+if (document.all){
+while (eval("document.all.flashlink"+i)!=null){
+flashlinks[i]= eval("document.all.flashlink"+i)
+i++
+} 
+}
+else if (document.getElementById){
+while (document.getElementById("flashlink"+i)!=null){
+flashlinks[i]= document.getElementById("flashlink"+i)
+i++
+}
+}
+setInterval("changelinkcolor()", 1000)
+}
+
+if (window.addEventListener)
+window.addEventListener("load", init, false)
+else if (window.attachEvent)
+window.attachEvent("onload", init)
+else if (document.all)
+window.onload=init
 -->
 </script>
 
@@ -120,8 +164,7 @@ color: #000000;
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
 <iframe src="http://www.animelab.com:8000/ad?site=animelab.com&amp;type=468x60&amp;target=Top" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
 <script src="http://www.animelab.com:8000/js?site=animelab.com&type=468x60&target=Top"></script></center>
-</iframe>
-</td></tr></tbody></table>
+</iframe></td></tr></tbody></table>
 
 </center></td></tr><tr><td><img src="http://images.animelab.com/layout/head1_2.jpg"></td></tr></tbody></table> 
 </td><td width="1"><img src="http://images.animelab.com/layout/head2.jpg"></td></tr></tbody></table>
@@ -132,76 +175,54 @@ color: #000000;
 <td align="left" valign="bottom"><font size="2" color="#FFFFFF"><b>Search over 3000 anime sites</b></font></td>
 <td align="right" valign="bottom"><b><font size="2" color="#FFFFFF">
 
-<font size="1" color="#FFFFFF"><a href="http://survey.burstmedia.com/cgi-win/client.exe?BurstIntl,welcome,ad10363a,2000" class="sides">Survey</a> | <a href="javascript:chat()" class="sides">Anime Chat</a> | <a href="javascript:addbookmark()" class="sides">Bookmark</a> | <a href="/anime.manga/links" class="sides">Browse</a> | <a href="/anime.manga/mlinks" class="sides">Add URL</a> | <font size="1"><b>Search:</b></font> <input type="text" size="14" name="query">&nbsp;<input type="SUBMIT" value="Go"></font></font></b></td>
+<font size="1" color="#FFFFFF"><a href="http://survey.burstmedia.com/cgi-win/client.exe?BurstIntl,welcome,ad10363a,2000" class="sides">Survey</a> | <a href="javascript:chat()" id="flashlink0" class="sides" flashtype="1" flashcolor="red" style="background-color: red;">Anime Chat</a> | <a href="/anime.manga/links" class="sides">Browse</a> | <a href="/anime.manga/mlinks?post_link=1" class="sides">Add URL</a> | <font size="1"><b>Search:</b></font> <input type="text" size="14" name="query">&nbsp;<input type="SUBMIT" value="Go"></font></font></b></td>
 </tr></tbody></table>
 
 <table cellspacing="0" cellpadding="4" width="100%"><tbody><tr><td bgcolor="#F1F4F5" width="130" valign="top" nowrap=""><font size="2" face="Tahoma">
-<table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>Main Menu</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
-
-
-
-
-
-
-<a href="/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Main Page</a><br>
-<b><a href="javascript:chat()" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime Chat</a></b><br>
-<a href="irc://irc.animelab.com:#animelab" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Chat with mIRC</a><br>
-<a href="/anime.manga/s/about/policy/privacy" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Privacy Policy</a><br>
-<a href="/anime.manga/s/about/policy/parents" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Parents Warning</a><br>
-<a href="/anime.manga/s/about/policy/contact" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Contact Us</a><br>
-<a href="/anime.manga/s/about/advertising/anime" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Advertising</a><br>
-
-<b><a href="/anime.manga/forums" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Forums</a></b><br><br>
 
 <table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>Anime Stuff</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
-<a href="/anime.manga/series/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Series Selection</a><br>
-<a href="/anime.manga/links/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime Links</a><br>
-<a href="/anime.manga/reviews/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime Reviews</a><br>
-<a href="/anime.manga/fanfics/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime FanFics</a><br>
-<a href="/anime.manga/bittorrent/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime Torrents</a><br>
-<a href="/anime.manga/store/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime Shop</a><br>
-<a href="/anime.manga/pics/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Image Galleries</a><br>
-<a href="/anime.manga/midi/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Midi Archive</a><br>
-<a href="/anime.manga/topsites/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime Topsites</a><br><br>
+<a href="/anime.manga/links/" class="menu"><img src="http://images.animelab.com/images/miniglobe.gif" border="0">Anime Links</a><br>
+<a href="/anime.manga/fanfics/" class="menu"><img src="http://images.animelab.com/images/minibook.gif" border="0">Anime FanFics</a><br>
+<a href="/anime.manga/reviews/" class="menu"><img src="http://images.animelab.com/images/minichat.gif" border="0">Anime Reviews</a><br>
+<a href="/anime.manga/store/" class="menu"><img src="http://images.animelab.com/images/minicd.gif" border="0">Anime Store</a><br>
+<a href="/anime.manga/topsites/" class="menu"><img src="http://images.animelab.com/images/minipie.gif" border="0">Anime Topsites</a><br>
+<a href="/anime.manga/bittorrent/" class="menu"><img src="http://images.animelab.com/images/minicamera.gif" border="0">Anime Torrents</a><br>
+<a href="/anime.manga/wallpaper/" class="menu"><img src="http://images.animelab.com/images/miniwallpaper.gif" border="0">Anime Wallpaper</a><br>
+<a href="/anime.manga/pics/" class="menu"><img src="http://images.animelab.com/images/miniimage.gif" border="0">Image Galleries</a><br>
+<a href="/anime.manga/fanart/" class="menu"><img src="http://images.animelab.com/images/miniart.gif" border="0">Fanart Galleries</a><br>
+<a href="/anime.manga/midi/" class="menu"><img src="http://images.animelab.com/images/minimusic.gif" border="0">Midi Archive</a><br>
+<a href="/anime.manga/series/" class="menu"><img src="http://images.animelab.com/images/miniglass.gif" border="0"><b>View By Series</b></a><br><br>
 
 <table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>Japanese Tools</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
 <a href="/anime.manga/dictionary/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Dictionary</a><br>
 <a href="/anime.manga/kanji" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Kanji Guide</a><br>
 <a href="/anime.manga/translate" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Translator</a><br><br>
 
+<table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>Interaction</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
+<b><a href="/anime.manga/register" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Register!</a></b><br>
+<a href="javascript:chat()" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime Chat</a><br>
+<a href="irc://irc.animelab.com:#animelab" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Chat with mIRC</a><br>
+<a href="/anime.manga/forums" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Forums</a><br>
+<a href="/anime.manga/s/mud/game/index" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Online RPG</a><br>
+<a href="/games/ii/cgi/ii.cgi" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">II DeathMatch</a><br>
+<a href="/anime.manga/s/about/policy/doom" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Doom Online</a><br>
+<a href="javascript:se()" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Scorched Earth</a><br><br>
+
 
 <table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>My Animelab</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
-
-<a href="/anime.manga/register" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Sign Up</a><br>
+<a href="/anime.manga/register" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0"><b>Sign up for free</b></a><br>
 <a href="/anime.manga/account" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Log In</a><br>
 <a href="/anime.manga/mexchange" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Manage&nbsp;Exchange</a><br>
 <a href="/anime.manga/mlinks" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Manage Links</a><br>
 <a href="/anime.manga/mwebring" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Manage&nbsp;Webring</a><br>
 <a href="/anime.manga/logout" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Log Out</a><br><br>
 
-<table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>Submissions</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
-<a href="http://www.animelab.com/anime.manga/submission/cosplay" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Cosplay Pic</a><br>
-<a href="http://www.animelab.com/anime.manga/submission/news" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">News</a><br>
-<a href="http://www.animelab.com/anime.manga/submission/anime" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">New Anime</a><br>
-<a href="http://www.animelab.com/anime.manga/submission/fanart" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">FanArt</a><br>
-<a href="http://www.animelab.com/anime.manga/submission/fanfic" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">FanFic</a><br>
-<a href="http://www.animelab.com/anime.manga/mreview" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Review</a><br>
-<a href="http://www.animelab.com/anime.manga/submission/character" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Character</a><br>
-<a href="http://www.animelab.com/anime.manga/mlinks/?post_link=1" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Link Database</a><br>
-<a href="http://www.animelab.com/anime.manga/mexchange?post_ban=1" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">BannerXchange</a><br>
-<a href="http://www.animelab.com/anime.manga/mwebring?post_link=1" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Webring Link</a><br><br>
-
-
-<table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>Games</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
-
-<b><a href="/anime.manga/s/mud/game/index" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Online RPG</a><br></b>
-<a href="/games/ii/cgi/ii.cgi" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">II DeathMatch</a><br>
-<a href="javascript:pacman()" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Pacman</a><br>
-<a href="javascript:tux()" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Tux on the run</a><br>
-<a href="javascript:ufo()" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">UFO Attack</a><br><br>
-<table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>Products</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
-<a href="/cgi/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">DTP Topsites</a><br>
-<a href="/alircm/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">alIRCm</a><br><br>
+<table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>About Us</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
+<a href="/" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Main Page</a><br>
+<a href="/anime.manga/s/about/advertising/anime" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Advertising</a><br>
+<a href="/anime.manga/s/about/policy/privacy" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Privacy Policy</a><br>
+<a href="/anime.manga/s/about/policy/parents" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Parents Warning</a><br>
+<a href="/anime.manga/s/about/policy/contact" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Contact Us</a><br><br>
 
 
 </font></td><td valign="top" bgcolor="#FFFFFF">
@@ -225,25 +246,28 @@ In the course of serving advertisements to this site, our third-party advertiser
 <iframe src="http://www.animelab.com:8000/ad?site=animelab.com&amp;type=468x60&amp;target=Bottom" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
 <script src="http://www.animelab.com:8000/js?site=animelab.com&type=468x60&target=Bottom"></script></center>
 </iframe>
+<br><br>
 <script>
 self.focus();
 </script>
 </center>
 <br><br>
-<center><table width="95%" bgcolor="#F1F4F5" cellpadding="5" cellspacing="0"><tbody><tr><td><font size="1"><b>Currently online:</b> 
 
-kikaidernegative, siren and 51 Anonymous users for a total of 53 users online.<br>Highest was 72 on 12/03/2003 07:28:35&nbsp;PM. Page generated in 0.2077 seconds.
-
-
-</font></td></tr></tbody></table></center>
 </font></td><td bgcolor="#F1F4F5" width="125" valign="top"><font size="1">
 
 <table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>My Animelab</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
 <table border="0" cellspacing="0" cellpadding="1" width="100%"><form method="post" action="/anime.manga/login"></form>
 <tbody><tr><td><font size="1"><b>EMail:</b></font></td><td><input type="text" size="10" name="email" value=""></td></tr>
 <tr><td><font size="1"><b>Pass:</b></font></td><td><input type="hidden" name="ref" value="http://www.animelab.com/anime.manga/account"><input type="password" size="10" name="pass"></td></tr>
-<tr><td><input type="submit" value="Go!"></td><td><center><font size="1"><a href="/anime.manga/lostpw">[Lost Pass]</a><br><a href="/anime.manga/register">[Register]</a></font></center></td></tr>
+<tr><td><input type="submit" value="Go!"></td><td><center><font size="1"><a href="/anime.manga/lostpw">[Lost Pass]</a><br></font></center></td></tr>
 </tbody></table><br>
+<center><b><font size="3"><a href="/anime.manga/register">Signup Free!</a></font></b></center>
+<br>
+<table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>DVDs On Sale</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
+<center>
+<font size="1"><b>Real Bout High School DVD 4 'The Final Battle'</b><br><a href="http://store.yahoo.com/cgi-bin/clink?animenation+6qcTZY+tpdv-1432.html"><img src="http://images.animelab.com/store/animenation/animenation_1774_491309653" border="0"></a><br><b><font color="#FF0000">$26.98</font></b><br><a href="http://store.yahoo.com/cgi-bin/clink?animenation+6qcTZY+tpdv-1432.html"><b><font color="#FF0000">[order now!]</font></b></a><br>
+ <br><br>
+<a href="http://www.animelab.com/anime.manga/store/"><b>[more]</b></a><br><br></font></center><font size="1">
 <table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>Related Sites</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table>
 <center>
 <iframe src="http://www.animelab.com:8000/ad?site=animelab.com&amp;type=120x600&amp;target=Top" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
@@ -252,15 +276,17 @@ kikaidernegative, siren and 51 Anonymous users for a total of 53 users online.<b
 
 </center>
 <br><table cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://images.animelab.com/layout/ml.gif"></td><td background="http://images.animelab.com/layout/mc.gif" width="100%" align="center"><font size="2"><b>Associates</b></font></td><td><img src="http://images.animelab.com/layout/mr.gif"></td></tr></tbody></table><font size="1">
+<a href="http://www.dbzsc.com" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">DBZSC</a><br>
 <a href="http://www.theanimepitstop.com" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">The Anime Pitstop</a><br>
-<a href="http://www.otaku-chat.com" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Otaku Chat</a><br>
-<a href="http://www.otakuav.com" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Otaku AV</a><br>
-<a href="http://www.ani-master.com" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime Master</a><br><br>
+<a href="http://www.anime-vortex.com" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Anime Chat</a><br>
+<a href="http://www.otakuav.com" class="menu"><img src="http://images.animelab.com/layout/bullet.jpg" height="12" width="18" border="0">Otaku AV</a><br><br>
+
 
 
 </font>
-<br><br>
-<center><a href="http://www.eryxma.com"><img src="http://images.animelab.com/images/eryxma.gif" border="0"></a></center>
-</font></td></tr></tbody></table>
-
+</font></font></td></tr></tbody></table>
+<br><center>
+<a href="http://www.supertop100.com/aff.prg?anime,23"><img src="http://www.supertop100.com/anime/b/0/23.gif" alt="Click Here to Visit!" width="88" height="31" border="0"></a>
+<a href="http://www.ultimate50.com/aff.prg?anime,241"><img src="http://www.ultimate50.com/anime/b/0/241.gif" alt="Click Here to Visit!" width="88" height="31" border="0"></a>
+</center>
 </font></body></html>
