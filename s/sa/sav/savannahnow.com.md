@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204139id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020622id_/http%3A//www.savannahnow.com/copyNOW.shtml) for the most accurate reproduction.*
 
-# Savannah Morning News on the Web
+# SavannahNOW | Copyright Notice
 
-Copyright Notice 
+  
+**Copyright Notice**
 
 Material published on the _SavannahNOW_ online service is copyrighted by the _Savannah Morning News_ , Morris Communications or the originating wire services, except where otherwise noted. 
 
@@ -10,13 +11,13 @@ Users of this service may not reproduce, republish or redistribute material on t
 
 The _Savannah Morning News_ cannot grant permission to reuse or republish material from other information providers.
 
-Restrictions on use of materials
+**Restrictions on use of materials**
 
 No material from _SavannahNOW_ or any Web site owned, operated, licensed or controlled by _SavannahNOW_ , the _Savannah Morning News_ , Morris Communications, or any of its related, affiliated or subsidiary companies, may be copied, reproduced, republished, uploaded, posted, transmitted, or distributed in any way, without the prior written permission of the _Savannah Morning News_ , except that you may download one copy of the materials on any single computer for your personal, non-commercial home use only, provided you keep intact all copyright and other proprietary notices. Modification of the materials or use of the materials for any other purpose is a violation of the _Savannah Morning News_ copyright and other proprietary rights. 
 
 We thank you for your cooperation.
 
-SavannahNOW Privacy Policy
+**SavannahNOW Privacy Policy**
 
 SavannahNOW is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At SavannahNOW, we intend to give you as much control as possible over your personal information. 
 
