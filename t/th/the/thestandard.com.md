@@ -1,83 +1,52 @@
-> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020023127id_/http%3A//www.thestandard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021533id_/http%3A//www.idg.net/content/bonus_content/privacy.shtml) for the most accurate reproduction.*
 
-# The Standard: Company Index
+# IDG.net - Privacy
 
-  
-[Home](https://web.archive.org/) > [Company Index](https://web.archive.org/companies/0,1921,,00.html) > [Insights](https://web.archive.org/companies/insights) > Commerce
+IDG.net has created this privacy statement in order to demonstrate our firm commitment to the confidentiality of user data. IDG.net is a network of sites for Information Technology professionals, and is a business unit of International Data Group.
 
-Privacy Policy
+It is our commitment to notify you of the following:
 
-Principles
-
-  * _The Industry Standard_ will not release your personal data to anyone else without your consent. 
-  * _The Industry Standard_ does not monitor individual traffic patterns on our site — only aggregate reader behavior is collected.
-  * You may change the status of whether you wish to receive Industry Standard offers and communications at anytime. 
-
-
-
-Gathering of Information
-
-  * Optional Registration
-
-TheStandard.com offers free, voluntary registration to users. By registering, users can enter the site without having to log on each time; users who register will have complete access to all content and resources on the site; and users who register receive the best available subscription offer at our website. During registration the user is required to supply a username, password and email address, and must answer mandatory survey questions about age, gender, income, Internet connection, zip code, country, employment status, and other employment information.
-
-  * Electronic Newsletters 
-
-_The Industry Standard_ offers several electronic newsletters to users. _The Industry Standard_ gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the instructions provided in every newsletter or by unsubscribing in the [My Account](https://web.archive.org/account/newsletters/1,1758,,00.html) area of our website (requires registration). Users can also subscribe to the newsletters at the time of registration. 
+  * What personally identifiable information this web site collects from you and how the information is used. 
+  * With whom this site shares the information it collects. 
+  * How you can correct or make changes to this information. 
+  * What choices are available to you regarding the collection, use, and distribution of information. 
+  * What security procedures are in place to protect the loss, misuse, or alteration of information under IDG.net's control. 
+  * If you have questions or concerns regarding this statement, please contact us via our [feedback](https://web.archive.org/web/20020604021533id_/http%3A//www.idg.net/content/bonus_content/feedback.index.shtml) page.
 
 
 
-  * "Mail this Story to a Friend" 
+#### Ad Serving Technology
 
-_The Industry Standard_ Article Mailer service allows a reader to electronically forward a news story to someone else by clicking the appropriate link at the top of that story. The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the story. The information is not used for any other purpose. 
+IDG.net has contracted with DoubleClick to serve all advertising on www.idg.net both on the Web site itself and through our e-mail newsletters. When DoubleClick is serving ads to the user, it is also using cookies to track certain types of non-personally identifiable information such as a user's IP address, his or her browser version or type, operating system, service provider, and his or her local time. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit: [www.doubleclick.net/privacy_policy/](http://www.doubleclick.net/privacy_policy/). Although DoubleClick does share with IDG.net non-personally identifiable information such as user profiles based on click-stream profile data, such information is strictly in the aggregate. Any pages the users calls up on IDG.net will not be connected with personally-identifiable information collected either at IDG.net or elsewhere. 
 
+#### What information does IDG.net collect and how is it used?
 
+IDG.net collects optional data supplied by visitors to our web site through registration, surveys, sweepstakes and/or contests, as well as information that we gather from visitors via our server log. This information enables us to better tailor our content to your interests, and to help our advertisers better understand the audience they are reaching. Our site is completely free, and is supported by paid advertisements and it is therefore critically important for us to be able to identify our audience. Information is only shared with advertisers or any other third parties in aggregate form. We are also firmly committed to identifying whether information presented on our sites is written by our editorial staff or is contributed by a user or vendor. 
 
-  * Surveys 
+#### IP Addresses
 
-Occasionally _The Industry Standard_ conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any of this information about specific individuals with any third party. 
+For each visitor to our site, our web server automatically records the visitor's domain and IP address. We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
+#### How is our registration data used? 
 
+Some optional services that IDG.net offers require registration. Our site's registration process requests that users give us contact information (like their name and email address), unique identifiers for authentication, and demographic information that pertains to their profession such as business industry and job function. We use customer contact information from the registration form to send the user relevant information about our company and promotional material from some of our partners, but only to those who opt to receive it. These messages are delivered by us, and we never allow email addresses or other contact information out of our control. Users may opt-out of receiving future mailings; see the choice/opt-out section below. The customer's contact information is also used to contact the visitor when necessary, for the administration of prizes, rewards, or to respond to customer service requests. We also use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is only shared with advertisers on an aggregate basis. Unique identifiers such as passwords, are collected to verify the user's identity and for use as account numbers in our database. This site contains links to other sites and IDG.net is not responsible for the privacy practices or the content of such Web sites. 
 
-  * Cookies 
+#### Surveys
 
-A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited and to allow easy access to restricted areas of the website. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. _The Industry Standard_ uses cookies to simplify access to restricted areas and to track user traffic in aggregate. 
+We occasionally run surveys that are optional to participate in. We only ask participants for contact information (like their email address) and demographic information that pertains to their profession or professional interests. The customer's contact information is also used to contact the visitor when necessary, or for the delivery of prizes or rewards. Users may opt-out of receiving future survey mailings; please see the choice/opt-out section below. The survey data is only used in aggregate form and may be used to guide our editorial process or site development process. 
 
-If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. 
+#### Partner Sites
 
-You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use TheStandard.com 
+IDG.net has several partners that produce IDG.net branded services for us. Information that is shared with or collected at partner sites is used to provide the services that the user selects at that site. Communication by our partners with IDG.net customers is limited to the services that our customers select. For example, if a customer requests to be notified when information on a selected topic becomes available, the partner site may contact our customers. Customers are given the option to discontinue services at any time. Additionally a user name and password may be shared with partner sites for the purpose of logging a customer in to an IDG.net service hosted in another domain. If desired, customers may choose to exclude the sharing of this information during the registration process, or by modifying their profile and service selections.
 
+#### Public Forums
 
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
+#### Security
 
-Use of the Information
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. These hardened security systems include firewalls, authenticated access to internal databases, and audit of regular procedures. 
 
-_The Industry Standard_ uses any information voluntarily given by our users to enhance their experience, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
+#### Choice/Opt-Out
 
-As stated above, _The Industry Standard_ uses information that users voluntarily provide in order to send out electronic newsletters and to enable users to move seamlessly through the website. We send out newsletters to subscribers on a regular schedule (daily or weekly, depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. 
-
-We use tracking information to determine which areas our site users like and don't like based on traffic to those areas. _The Industry Standard_ does not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
-
-_The Industry Standard_ creates aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because _The Industry Standard_ doesn't track the usage patterns of individual users, an advertiser will never know that a specific user clicked their ad. 
-
-_The Industry Standard_ does allow select advertisers to mail promotions to registrants and newsletter recipients who have given us their permission to do so. All promotions are pre-approved by _The Industry Standard_ and all mailings are conducted by a reputable third party mail house to ensure the names are not mis-used or used more than once. Our users are asked at the time when their information is collected if they would prefer to not receive promotions from our partners. You may change this designation at anytime. 
-
-Maintenance Policy
-
-_The Industry Standard_ gives users options wherever necessary and practical. Such choices include: 
-
-  * Opting not to receive our electronic newsletters when registering.
-  * Opting not to receive correspondence from carefully chosen third-party advertisers.
-  * Opting not to provide certain personal information when registering or when participating in surveys.
-  * Opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users.
-
-
-
-_The Industry Standard_ offers users the ability to correct or change the information collected during registration for any site (see above).  Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at [richm@thestandard.com](mailto:richm@thestandard.com).
-
-Users may unsubscribe to any of our electronic newsletters at anytime by following the instructions contained at the end of every newsletter. 
-
-Currently, _The Industry Standard_ does not offer users a means by which to completely delete personal information established at the time of registration for any site. 
-
-  
-
+IDG.net gives visitors the opportunity to opt-out of receiving communications from us, at the point we request information from you.
