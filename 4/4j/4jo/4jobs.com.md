@@ -1,43 +1,25 @@
-> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605185029id_/http%3A//4jobs.com/Common/Content/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207064440id_/http%3A//www.4jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# 4Jobs - The Best in Recruiting and Staffing
+# 4Jobs Career Center
 
 If you have questions or concerns regarding this statement, please contact us. 
 
-Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms. 
-
-Background  
----  
-Collection and Use of Information  
-Viewing and Updating Your Information  
-Cookies  
-Log Files  
-Links  
-Recommend A Friend or Colleague  
-Security and Access  
-Notification of Changes  
-Contact  
-  
-* * *
-
-**Background**  
-
-
-When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. We also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. Occasionally, we send our customers special offers and promotional information via postal mail, using the shipping address provided.
-
-This network is built to establish private one-to-one relationships between its members. With prior consent, we also use your contact information as a mechanism to communicate with other members.    
-For this reason, there are areas of our site where you will be asked to agree to a meeting, interview or some other forum with one or more members.  When you agree, your contact information will be exchanged with the other parties involved so that you may effectively conduct and business transactions desired.  
-  
-Back to top
+Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use any of our services, you agree to these terms.
 
 * * *
 
 **Collection and Use of Information**  
 
 
+When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
+
 We are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
 
-We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes.  
+We also offer an Associate program, where associate members direct customers to the network through links on their Web sites. We ask associates for their site name (URL), mailing address, primary contact, pay-to address, technical contact, and other site-related information to determine whether a site will be included in our network. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes. 
+
+In some cases our software and web site are utilized by our partners in a joint venture via their web community. In these cases, the information collected on our site is available to both companies. 
+
+ 
 
 Back to top
 
@@ -87,9 +69,9 @@ Back to top
 
 **Security and Access**
 
-For transmitting your personal information to us, we use a secure server (SSL), which encrypts all of your personal information. This encryption process ensures that the information you give us is protected against unauthorized access. All personal information is password-protected so no one can access the information but you. 
-
 We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
+
+When you place an order online at Artemis HR, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Artemis HR uses a service company to process its credit card transactions.
 
 Users should not post personal information to any site if they are uncomfortable with the security of the site.  If you have any questions, please contact us.  Back to top
 
@@ -97,7 +79,7 @@ Users should not post personal information to any site if they are uncomfortable
 
 **Notification of Changes**  
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point you have questions or concerns about Artemis HR's privacy policy, please feel free to contact us. 
 
 Back to top
 
