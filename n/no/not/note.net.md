@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the note.net privacy policy that was archived on 2002-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020212031341id_/http%3A//www.note.net/index.cfm%3Finclude%3Dprivacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the note.net privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010111626id_/http%3A//www.note.net/index.cfm%3Finclude%3Dprivacypolicy.htm) for the most accurate reproduction.*
 
 # Clayton Homes, Inc.
 
