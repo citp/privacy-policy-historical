@@ -1,300 +1,213 @@
-> *The following text is extracted and transformed from the starwoodhotels.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207182652id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwoodhotels.com privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320043415id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
-|  |  |  | | [](https://web.archive.org/)| [](https://web.archive.org/corporate/company_info.html)| [](https://web.archive.org/corporate/news.html)| [](https://web.archive.org/corporate/investor_relations.html)| [](https://web.archive.org/corporate/profile_overview.html)| | [](https://web.archive.org/corporate/new_star_props.html)| [](https://web.archive.org/corporate/contact_us.html)  
----|---|---|---|---|---|---|---|---  
-| 
+|  |  | 
 
-[](https://web.archive.org/preferredguest/account/rstr_unrstr.html)
+**Our Mission**
 
-|  |  | |  |   
----  
-  
-Starwood Hotels Privacy Policy  
-  
-Starwood's mission is to consistently exceed our visitors' expectations in terms of the products and services we provide to our business and leisure travelers by creating a customized experience for each visitor. Starwood collects information about our visitors (both offline and online) so that we can provide an experience that is tailored to their preferences. Since the privacy of our visitors is of paramount importance to Starwood, we wish to protect it and maintain the trust of our visitors while collecting the information necessary to do this. Starwood is fully committed to providing information about the collection and use of personal information furnished by, or collected from, visitors while using our websites, products and services. We offer visitors the choice to decline (opt out) participation in certain services and promotional benefits provided by Starwood and/or its carefully selected third parties. Below is an explanation of the information we collect, how we use it, and why the use of this information will benefit our visitors' experience.   
-  
-WEBSITES  
-SECURITY  
-COOKIES AND INVISIBLE PIXELS  
-ACCESS TO INDIVIDUAL VISITOR PROFILES  
-EMAIL  
-DIRECT MAIL / OUTBOUND TELEMARKETING  
-SWEEPSTAKES / CONTESTS  
-RESEARCH  
-PERIODIC REVIEW AND MODIFICATIONS  
-CONTACT US  
-WEBSITES:  
-  
-The websites owned or controlled by Starwood Hotels & Resorts Worldwide, Inc., including [www.starwood.com](https://web.archive.org/),[ www.starwoodhotels.com](https://web.archive.org/), [www.sheraton.com](https://web.archive.org/sheraton), [www.stregis.com](https://web.archive.org/stregis), [www.westin.com](https://web.archive.org/westin), [www.luxurycollection.com](https://web.archive.org/luxury), [www.whotels.com](https://web.archive.org/whotels), [www.preferredguest.com](https://web.archive.org/preferredguest), [www.spg.com](https://web.archive.org/preferredguest), [www.fourpoints.com](https://web.archive.org/fourpoints) may ask for and collect personally identifiable information in order to provide a customized experience. Visitors are given notice of this request and they have the ability to choose the information they wish to share with Starwood. Visitors will be informed about how Starwood may use such information, including whether it will be shared with carefully selected third parties. In most cases, the information a visitor provides is added to our database in order for Starwood to provide personally tailored messages which are delivered online and offline. Visitors will always be offered the choice not to provide personally identifiable information or to have it shared with others. Please note that Starwood does not control and will not be responsible for the privacy policies of third party websites, including websites owned or controlled by independent franchises, third party owners of hotel properties, or websites not controlled or authorized by Starwood. Third party websites that are accessed through links on our websites have separate privacy and data collection practices, and security measures. We have no responsibility or liability for the practices, policies and security measures implemented by third parties on their websites. We encourage you to contact them to ask questions about their privacy practices, policies and security measures before disclosing personal information.
+At Starwood Hotels & Resorts Worldwide, Inc., we are dedicated to protecting your privacy and safeguarding your personally identifiable information.  Starwood's mission is to consistently exceed our guests' expectations in terms of the products and services we provide to our business and leisure travelers. We strive to create an experience that is responsive to our guests' needs by using the information you entrust us with responsibly. Starwood is committed to respecting your privacy and adhering to the principles of applicable data protection and privacy laws throughout the world. 
 
-Visitors to our websites are given the option to become Registered Online Customers. In order to become a Registered Online Customer, visitors will be asked for their name, address and other basic profile information. If visitors choose not to supply the information, their ability to perform certain transactions may be affected. For example, not providing a name may prevent the processing of online reservations. Registered Online Customers will be assigned a login ID and password in order to perform certain transactions the next time they visit our websites.
+We have provided this Privacy Statement as an explanation of the information we collect, how we use it, and how the use of this information can benefit your experience on our web sites and during your relationship with us. We wish to help you make informed decisions, so please take a moment to read the sections below. 
 
-Questions or comments about Starwood or about our privacy policy should be directed as follows: 
+  * THE WORLD OF STARWOOD:
+  * TYPES OF INFORMATION WE COLLECT:
+  * PURPOSE FOR COLLECTION, PROCESSING, AND DISCLOSURE:
+  * CONSENT:
+  * DATA TRANSFERS ACROSS INTERNATIONAL BORDERS:
+  * ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION:
+  * SECURITY SAFEGUARDS:
+  * ON-LINE TECHNOLOGIES:
+  * LINKS TO OTHER WEB SITES:
+  * MINORS:
+  * CONTACT US:
+  * UPDATES TO THE PRIVACY STATEMENT:
 
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com  
-](mailto:starwood.preferred.guest@starwoodhotels.com)by phone: 1-888-625-4988  
-by fax: 1-512-836-4002
+
+
+## THE WORLD OF STARWOOD::
+
+In order to provide multiple access points to the services and products we offer, Starwood Hotels & Resorts Worldwide, Inc. operates directly, or through its affiliates or service providers, many web sites, including [ www.starwood.com](http://www.starwood.com/), [ www.starwoodhotels.com](http://www.starwoodhotels.com/), [ www.starwoodvo.com](http://www.starwoodvo.com/), [www.sheraton.com](http://www.sheraton.com/) , [www.stregis.com](http://www.stregis.com/), [ www.westin.com](http://www.westin.com/), [ www.luxurycollection.com](http://www.luxurycollection.com/), [www.whotels.com](http://www.whotels.com/) , [www.preferredguest.com](http://www.preferredguest.com/), [ www.spg.com](http://www.spg.com/), [www.fourpoints.com](http://www.fourpoints.com/), and [www.starwoodgolf.com](http://www.starwoodgolf.com/). Any one of these web sites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.
+
+back to top
+
+## TYPES OF INFORMATION WE COLLECT::
+
+Starwood collects information about our guests and visitors to our web sites so that we can provide an experience that is responsive to our guests' and visitors' needs. Information may be collected as part of: (i) fulfilling reservation or information requests, (ii) purchasing products, (iii) registering for program membership, (iv) submitting a job application, or (v) responding to communications from us (e.g., surveys, promotional offers, or reservation confirmations). We endeavor to collect information only with your knowledge and with your permission if necessary. The types of personally identifiable information that we collect may include your name, home, work and e-mail addresses, telephone and fax numbers, credit card information, date of birth, gender, and lifestyle information such as room preferences, leisure activities, names and ages of children, and other information necessary to fulfill special requests (e.g., health conditions that require special room accommodations). 
+
+Starwood may also collect non-personally identifiable information about you, such as your use of our web sites, communication preferences, travel habits, aggregated data relative to your stays, and responses to promotional offers and surveys. 
+
+Back to Top
+
+## PURPOSE FOR COLLECTION, PROCESSING, AND DISCLOSURE::
+
+**Collection & Use**
+
+Starwood is fully committed to providing you with information about the collection and use of personally identifiable information (PII) furnished by, or collected from, visitors while using our web sites, products and services. It is our practice not to ask you for information unless we need it or intend to use it. Some of the primary purposes for collecting your PII are as follows: 
+
+  * providing services such as processing a transaction (e.g., making a reservation, fulfilling a request for information, or completing a product order) 
+
+  * marketing and communications with you in relation to the products and services offered by Starwood, our strategic marketing partners, and other trusted third parties 
+
+  * performing market research via surveys to better serve your needs, improve the effectiveness of our web sites, your hotel experience, our various types of communications, advertising campaigns, and/or promotional activities 
+
+
+
+
+You will always be offered the choice not to submit your PII or to decide what communications you want to receive from us. However, doing so may cause certain transactions to become affected. For example, not providing a name will prevent the processing of reservations. 
+
+**Processing and Disclosure**
+
+In most cases, the information you provide is added to a local or global database. In the course of processing your information, it may be necessary to transfer your PII to Starwood's affiliates, properties within the Starwood system and/or third party service providers located throughout the world for the purposes outlined within this Privacy Statement. As a general practice, Starwood does not sell, rent, or give physical possession of your PII to unaffiliated third parties outside the Starwood system. Situations in which Starwood may disclose your information to others include: 
+
+  * when we have received your consent to do so 
+
+  * in situations where sharing or disclosing your information is required in order to offer you products or services you desire (e.g., a vacation package) 
+
+  * when companies or services providers that perform business activities on behalf of Starwood require such information (e.g., credit card processing, customer support services, market research administration or database management services) 
+
+  * when a hotel or other property leaves the Starwood system and access to your PII is necessary to facilitate business operations or meet contractual obligations 
+
+  * in the event Starwood is merged or acquired by another company 
+
+  * to comply with legal or regulatory requirements or obligations in accordance with applicable law or court order 
+
+  * in case of emergency such as to safeguard the life, health, or property of an individual 
+
+
+
+
+If information is shared as mentioned above, we seek to limit the scope of information that is furnished to the amount necessary for the performance of the specific function. Unless otherwise precluded by legal process, we require third parties to protect your PII and abide by applicable privacy laws and regulations. 
+
+Back to Top
+
+## CONSENT::
+
+As part of our commitment to keep you informed, we may mail, e-mail, telephone, or contact you by other means to notify you of new Starwood products and services, or upcoming Starwood special offers, events, enhancements, or other relevant information that may be of interest to you.  You may also receive mailings or other communications from carefully selected third parties. We always offer you the option to decline any or all of these communications by following the directions included in our e-mails or other communications, or by contacting Starwood directly. 
+
+If you are a Starwood Preferred Guest (SPG) program member, you may also change your communication choices by updating your e-mail preferences in your individual membership profile. 
+
+We would like to keep all of our guests and visitors informed and equally able to take advantage of the benefits offered by Starwood and its strategic marketing partners. However, if you reside outside of the United States, certain data privacy regulations may require us to obtain your permission before we send you information that you have not requested from us. 
+
+In some cases your permission will be implied from the nature of the service requested or transaction undertaken. For example, Starwood may collect and use personally identifiable information that you volunteer, or behavioral data or information collected in the aggregate. In addition, your permission will be deemed given for communications from us that are necessary to fulfill transactions and services that you request. 
+
+In certain circumstances, we will seek your express permission when we collect information that is regarded under certain data privacy regulations to be sensitive in nature (e.g., information revealing racial or ethnic origin, political opinions, or health conditions). 
+
+Back to Top
+
+## DATA TRANSFERS ACROSS INTERNATIONAL BORDERS::
+
+As a global company, we endeavor to provide you with the same outstanding service in New York City, as you would find in Paris or Beijing. To achieve this goal, we have established a global network comprised of properties, offices, data centers, trusted marketing partners, service providers, customer contact centers, and trained associates around the globe. The nature of our business and our operations require us to transfer your information, including personally identifiable information (PII), to other group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own.  Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, Starwood will take appropriate steps to ensure that your PII is protected and handled as described in this Privacy Statement. 
+
+Back to Top
+
+## ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION::
+
+To ensure that your personally identifiable information (PII) is accurate and up to date, we encourage you to regularly review and update your information as appropriate (e.g., in the event your home or e-mail address changes, or you wish to add an additional method for us to communicate with you). If you are a Starwood Preferred Guest (SPG) program member, you can review and update your individual membership profile on-line or with the assistance of a Starwood customer service representative. If you are not a SPG program member you can review and update your PII by contacting our Consumer Affairs Privacy Office and requesting an access form. Please note that in an effort to prevent the unauthorized disclosure of your PII, you may be asked to provide proof of identity (or other authentication materials) together with the completed access request form. Access to PII from non-SPG program members cannot be provided by telephone. 
+
+If, upon review, you wish to deactivate your SPG program member profile or update your PII, we will endeavor to do so in a timely manner. Occasionally, information that you request to be removed will be retained in certain files for a period of time in order to properly resolve disputes or to troubleshoot problems. In addition, some types of information may be stored indefinitely on "back up" systems or within log files due to technical constraints, or financial or legal requirements. Therefore, you should not always expect that all of your PII will be completely removed from our databases in response to your request. 
+
+Back to Top
+
+## SECURITY SAFEGUARDS::
+
+Starwood recognizes the importance of information security, and is constantly reviewing and enhancing our technical, physical, and logical security rules and procedures.  All Starwood owned web sites and servers have security measures in place to help protect your personally identifiable information against loss, misuse, and alteration while under our control. Although "guaranteed security" does not exist either on or off the Internet, we safeguard your information using both procedural and technical safeguards, including password controls, "firewalls" and the use of up to 128-bit encryption based on a Class 3 Digital Certificate issued by VeriSign, Inc.  This allows for the use of Secure Sockets Layer (SSL), an encryption method used to help protect your data from interception and hacking while in transit. 
+
+Back to Top
+
+## ON-LINE TECHNOLOGIES::
+
+Starwood may use cookies, invisible pixels, and web beacons to obtain information about you while visiting our web sites. A cookie is a very small text file that is sent to your browser from a web server and stored on your computer's hard drive. It assigns the computer with a unique identifier, which in turn, becomes your identification card whenever you return to a Starwood web site. 
+
+Cookies are designed to save you time because they help us to provide you with a customized experience without you having to remind us of your preferences each time you return to our web pages. Starwood cookies are not designed to damage your files, nor can they read information from other files on your computer hard drive. 
+
+Cookies can also help us provide you with a personalized on-line experience in the following ways: 
+
+  * they remember your user name and password for future visits so log-in is easier and faster 
+
+  * they ensure you are provided with the appropriate frames and content 
+
+  * they ensure you obtain all requested information 
+
+  * they help us deliver communications that are relevant and responsive to your interests and location 
+
+
+
+
+Starwood cookies are limited to our web sites only, and are not designed to follow you when traveling on the Internet after leaving Starwood owned web sites. We track the usage of our web sites in order to better meet your needs and to help make it easier for you to find information in the future. Please note that in addition to Starwood cookies, various third parties may also place cookies on your computer's hard drive. Starwood is not responsible for the presence or absence of third party cookies, or for the technological capabilities or practices employed by third parties in connection with third party cookies. 
+
+If you would prefer not to have the benefits of cookies, your Internet browser can be adjusted to treat cookies in different ways. Depending upon the type of browser you are using, you may be able to configure your browser so that: (i) you are prompted to accept or reject cookies on an individual basis or (ii) you may be able to prevent your browser from accepting any cookies at all. You should refer to the supplier or manufacturer of your web browser for specific details about cookie security. However, you should also understand that rejecting cookies might affect your ability to perform certain transactions on our web sites and our ability to recognize your browser from one visit to the next. 
+
+Starwood also uses invisible pixels, sometimes called web beacons, to count how many people visit certain web pages. Information collected from invisible pixels is used and reported in the aggregate and does not contain personally identifiable information. Starwood may use this information to improve marketing programs and content. 
+
+Back to Top
+
+## LINKS TO OTHER WEB SITES::
+
+In order to anticipate your needs, Starwood provides links to other web sites for your convenience and information. Starwood is not responsible or liable for any content presented by or contained on any independent web site, including, but not limited to, any advertising claims or marketing practices. Please note that while Starwood will protect your information on Starwood owned and operated web sites, we cannot control and will not be responsible for the privacy policies of third party web sites, including web sites owned or controlled by independent franchisees, third party owners of hotel, resort, interval ownership, or residence properties that may use the name of a Starwood brand, or web sites not controlled or authorized by Starwood. Third party web sites that are accessed through links on our web sites have separate privacy and data collection practices, and security measures. We have no responsibility or liability for the practices, policies and security measures implemented by third parties on their web sites. We encourage you to contact them to ask questions about their privacy practices, policies and security measures before disclosing any personally identifiable information. We recommend that you review the privacy statements and policies of linked web sites to understand how those web sites collect, use and store information. 
+
+Back to Top
+
+## MINORS::
+
+Starwood does not seek to obtain nor does it wish to receive personally identifiable information directly from minors; however, we cannot always determine the age of persons who access and use our web sites. If a minor (as defined by applicable law) provides us with his/her data without parental or guardian consent, we encourage the parent or guardian to contact us to have this information removed and to unsubscribe the minor from future Starwood marketing communications. 
+
+Back to Top
+
+## CONTACT US::
+
+If you would like to update your information, modify your communication preferences, or if you do not want to receive marketing communications from Starwood in the future, you can contact us: 
+
+by e-mail:  
+starwood.preferred.guest@starwoodhotels.com 
+
+by telephone:  
+1-888-625-4988 
+
+by fax:  
+1-512-836-4002 
 
 by writing to us at:  
 Starwood Preferred Guest Program  
 P.O. Box 143986  
-Austin, TX 78714-3986
+Austin, Texas 78714-3986  
+USA 
 
-Non Starwood Preferred Guest members can contact us by brand below: 
+If you would like to contact our Customer Service Department, please choose the most convenient method from the following: 
 
-[Sheraton Hotels & Resorts  
-](https://web.archive.org/sheraton/contact/index.html)[Westin Hotels & Resorts  
-](https://web.archive.org/westin/contact/index.html)[Four Po](https://web.archive.org/fourpoints/contact/index.html)[ints  
-](https://web.archive.org/fourpoints/contact/index.html)[The Luxury Collection  
-](https://web.archive.org/luxury/contact/index.html)[St. Regis  
-](https://web.archive.org/stregis/contact/index.html)[W Hotels](https://web.archive.org/whotels/contact/index.html)
+by e-mail:  
+customer.care@starwoodhotels.com 
 
-Back to Top  
-  
-SECURITY:  
-  
-We respect our visitors' privacy. Personally identifiable information can be accessed and updated by the visitor during and after the registration process with the assistance of a Starwood customer service representative. Security is provided concerning credit card information, names, addresses, e-mail addresses and any other personal information that visitors may provide within the Reservation, Registered Online Customer and Preferred Guest portions of our websites. Although "guaranteed security" does not exist either on or off the Internet, we safeguard our visitors' personally identifiable information by using industry standard practices. Currently, our websites utilize a variety of different security measures designed to protect personally identifiable information from unauthorized access by users both inside and outside Starwood, including the use of 56-bit encryption based on a Class 3 Digital Certificate issued by Verisign Inc. This allows for utilization of Secure Sockets Layer, which is a method for encrypting data. This protects confidential information - such as credit card numbers, online forms, and financial data - from loss, misuse, interception and hacking. Third party websites that are accessed through links on our websites have separate privacy and data collection practices, and security measures. We have no responsibility or liability for the practices, policies and security measures implemented by third parties on their websites. We encourage you to contact them to ask questions about their privacy practices, policies and security measures before disclosing personal information. 
+by telephone:  
+1-800-328-6242 
 
-Questions or comments about Starwood or about our privacy policy should be directed as follows: 
-
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com  
-](mailto:starwood.preferred.guest@starwoodhotels.com)by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
 by writing to us at:  
 Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
+P.O. Box 141609  
+Austin, Texas 78714-1609  
+USA 
 
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts  
-](https://web.archive.org/sheraton/contact/index.html)[Westin Hotels & Resorts  
-](https://web.archive.org/westin/contact/index.html)[Four Points  
-](https://web.archive.org/fourpoints/contact/index.html)[The Luxury Collection  
-](https://web.archive.org/luxury/contact/index.html)[St. Regis  
-](https://web.archive.org/stregis/contact/index.html)[W Hotels](https://web.archive.org/whotels/contact/index.html)
+If you have comments or questions regarding Starwood's data privacy practices or this Privacy Statement, you may contact us by choosing the most convenient method from the following: 
 
-Back to Top  
-  
-COOKIES AND INVISIBLE PIXELS:  
-  
-A cookie is a very small text file that is sent to a visitor's browser from a web server and stored on the visitor's computer hard drive. It assigns the computer a unique identifier. It is essentially the visitor's identification card when s/he returns to the Starwood website. Cookies save visitors time because they help us to provide the visitor a customized experience without having to remind us of his/her preferences each time s/he returns to our web pages. Starwood cookies cannot damage visitor files, nor can they read information from the visitor's hard drive. 
+by e-mail:  
+consumer.privacy@starwoodhotels.com 
 
-Cookies help us provide our visitors with a personalized online experience in the following ways:
+by fax:  
+1-914-640-2655 
 
-· They remember visitor names and passwords for future visits so log-in is easier and faster
-
-· They ensure visitors are provided with the appropriate frames and content
-
-· They ensure visitors obtain the information requested
-
-· They help us deliver communications that are relevant and targeted to our visitors' interests
-
-Starwood cookies do not follow visitors when traveling on the Internet after leaving Starwood websites. We track the usage of our websites in order to modify it according to our visitors' needs. We pay attention to what information is requested and attempt to make it easier to find such information in the future. 
-
-If visitors do not want the benefits of these cookies they can set their browser to reject the cookies. Visitors should consult the instructions for their particular browser on how to do this. However, visitors should understand that rejecting cookies might affect their ability to perform certain transactions on our websites and our ability to recognize their browser from one visit to the next. 
-
-Starwood also uses invisible pixels, sometimes called web beacons, to count how many people visit certain web pages. Information collected from invisible pixels is used and reported in the aggregate without personally identifiable information. Starwood may use this information to improve marketing programs and content.
-
-Questions or comments about Starwood or about our privacy policy should be directed as follows: 
-
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
 by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
+Starwood Hotels & Resorts Worldwide, Inc.  
+1111 Westchester Avenue  
+White Plains, NY 10604  
+USA  
+Attention: Consumer Affairs - Privacy 
 
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points ](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
+Back to Top
 
-Back to Top  
-  
-ACCESS TO INDIVIDUAL VISITOR PROFILES:  
-  
-Within the reservation process, the Registered Online Customer process and on the Starwood Preferred Guest website, we provide a profile section. Filling in this information makes it easier for visitors to conduct certain transactions, including making hotel reservations online. We respect our visitors' privacy and maintain their profile information on a secure server. Personally identifiable information can be accessed and updated by the visitor with the assistance of a Starwood customer service representative. Starwood will not use our visitor's confidential information for purposes which are not disclosed to or authorized by the visitor. Visitors have the opportunity to review the information they provide and update it at any time. 
+## UPDATES TO THE PRIVACY STATEMENT::
 
-Occasionally, information that a visitor requests to be removed will be retained in certain files in order to properly resolve disputes or to troubleshoot problems. In addition, information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. Therefore, visitors should not expect that all of their personally identifiable information will be completely removed from our databases in response to their requests. 
+Starwood may amend this Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our guests, properties, strategic marketing partners, and service providers. Updated versions will be posted to our web site and date stamped so that you are always aware of when the Privacy Statement was last updated. 
 
-Data collected by Starwood is an asset. It is possible that Starwood, its subsidiaries, affiliates, joint venture companies, or any combination of the foregoing, could merge with or be acquired by another legal entity. In such event, visitors should expect that Starwood may share some or all of the data collected from its visitors with such other entity; provided, that such other entity will be notified of the practices which apply to personally identifiable information under Starwood's applicable privacy policy.
+Back to Top
 
-Questions or comments about Starwood or about our privacy policy should be directed as follows: 
-
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](https://web.archive.org/web/20030207182652id_/http%3A//www.starwoodhotels.com/corporate/starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
-
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
-
-Back to Top  
-  
-EMAIL:  
-  
-From time to time, Starwood asks visitors for their email address in order to provide relevant information such as reservation confirmations and offers. Email addresses may be joined with other information provided at our website and may also be augmented with other data sources. By providing their email address to us, visitors may receive email. Visitors will always have the ability to accept or decline email communications from Starwood. 
-
-Email communication is sent only to people who have consented to receive email from Starwood or by our carefully selected third parties. At the time of email capture, Starwood will advise the visitor that we will use the email address for service and product information, as well as marketing and promotional communications. At any time a visitor may opt-out of receiving email communication by following the directions posted in every email, or by following the directions at Starwood's website or by contacting a Starwood customer service representative to opt out of email communication. 
-
-Visitors may receive periodic offers and information from Starwood about our products and services, as well as offers and information from Starwood's carefully selected marketing partners. Visitors may also receive offers and information directly from these selected third parties. Visitors who do not want to receive marketing information from Starwood and/or these third parties in the future, have the option to contact us in order to decline such communication. 
-
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](https://web.archive.org/web/20030207182652id_/http%3A//www.starwoodhotels.com/corporate/starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
-
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
-
-Once a visitor has opted out, they can choose to opt-in again by changing their profile online or by contacting us in any of the above ways. 
-
-In cases when a visitor voluntarily provides personal information in response to an email (a survey or purchase form, for example, Starwood (or a third party engaged by Starwood) will inform the visitor how this information will be used. For example, information may be used so visitors can receive the goods, services or information that was requested. Starwood may also use this information in aggregate form to get a better understanding of the type of individuals responding to specific offers. 
-
-Back to Top  
-  
-DIRECT MAIL / OUTBOUND TELEMARKETING:  
-  
-As part of the service that Starwood provides its visitors, Starwood may mail or call its visitors to inform them of enhancements, changes in offerings, special events, or other relevant information responsive to the visitors' interests. Visitors who supply Starwood with their postal address or telephone number may receive periodic mailings or phone calls from us with information on new Starwood products and services or upcoming Starwood special offers/events. They may also receive mailings/calls from our carefully selected third parties. 
-
-Starwood offers our visitors the option to decline these communications. Visitors may contact us to opt-out of such communications as follows: 
-
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
-
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels ](https://web.archive.org/whotels/contact/index.html)
-
-Back to Top  
-  
-SWEEPSTAKES / CONTESTS:  
-  
-Sometimes Starwood runs sweepstakes and contests. We ask people who participate to give us their contact information (like their email address). If a visitor participates in a sweepstakes or contest, his/her contact information may be used to reach him/her in connection with the sweepstakes or contest, and for other promotional, marketing and business purposes. 
-
-All Starwood sweepstakes/contests entry forms will provide a way for participants to opt-out of any communication from the sweepstake's/contest's manager that is not related to awarding prizes for the sweepstake/contest. Entry forms will further provide contestants with a choice whether to receive email marketing materials from our carefully selected third parties. When a visitor enters a Starwood sweepstakes/contest, the information the visitor provides is not shared with any third party, unless the visitor agrees to such by checking the opt-in box on the sweepstakes/contest entry form. By accepting the prize, the winner agrees that Starwood (and those acting under its authority) may use the winner's name, picture/portrait, likeness and/or voice for advertising and other promotional purposes without further consideration, unless prohibited by law.
-
-Questions or comments about Starwood or about our privacy policy should be directed as follows: 
-
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
-
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points](https://web.archive.org/luxury/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
-
-Back to Top  
-  
-RESEARCH:  
-  
-From time to time Starwood may perform research (online and offline) via surveys. All survey responses are voluntary, and the information collected will only be used for research and reporting purposes, to help Starwood to better serve its visitors by learning more about their needs. The survey responses may also be used to determine the effectiveness of our websites, various types of communications, advertising campaigns, and/or promotional activities. 
-
-If a visitor participates in a survey, the information given by the visitor will be used along with that of other study participants (for example, Starwood might report that 50% of a survey's respondents are women). Starwood may share anonymous individual and aggregate data for research and analysis purposes. 
-
-Starwood may also contact participants through e-mail for other purposes if given permission to do so. For example, if participants indicate in the survey that they wish to join a Starwood online research panel. When a participant submits a survey, the e-mail address and the response to the "future contact" question described above, are automatically stored in a database that is intentionally separated from the participant's survey responses. Therefore, the participant's e-mail address is not tied back to the survey responses. Starwood will not share with third parties the personally identifiable information provided by a survey participant in response to survey questions. For all other purposes, only aggregate data that is devoid of all personally identifiable information will be used. 
-
-In the course of providing surveys to visitors, a cookie may be placed on their browser in order to control the research process, primarily to stop people from being asked to take the same survey twice - or being allowed to take the same survey twice. In addition, the types of advertising visitors view in emails received or on websites during the course of their web surfing, may be connected to the visitor's anonymous survey responses. 
-
-Participation in Starwood's surveys is voluntary. Participants who do not wish to receive email communications from Starwood may opt out of the receipt of such communication by notifying us as provided below. 
-
-Questions or comments about Starwood or about our privacy policy should be directed as follows: 
-
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
-
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points ](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
-
-Back to Top  
-  
-PERIODIC REVIEW AND MODIFICATIONS:  
-  
-This privacy policy was last modified on 06/05, 2001. Starwood recommends that visitors review this Privacy Statement periodically, as Starwood may revise it from time to time. 
-
-Back to Top  
-  
-CONTACT US:  
-  
-Starwood provides all visitors with the option to contact us with any further questions or concerns. 
-
-Starwood Preferred Guest members can contact us these ways:  
-by e-mail: [starwood.preferred.guest@starwoodhotels.com](mailto:starwood.preferred.guest@starwoodhotels.com)   
-by phone: 1-888-625-4988  
-by fax: 1-512-836-4002  
-by writing to us at:  
-Starwood Preferred Guest Program  
-P.O. Box 143986  
-Austin, TX 78714-3986
-
-Non Starwood Preferred Guest members can contact us by brand below:   
-[Sheraton Hotels & Resorts](https://web.archive.org/sheraton/contact/index.html)   
-[Westin Hotels & Resorts](https://web.archive.org/westin/contact/index.html)   
-[Four Points ](https://web.archive.org/fourpoints/contact/index.html)   
-[The Luxury Collection](https://web.archive.org/luxury/contact/index.html)   
-[St. Regis](https://web.archive.org/stregis/contact/index.html)   
-[W Hotels](https://web.archive.org/whotels/contact/index.html)
-
-[[Terms and Conditions](https://web.archive.org/corporate/terms_conditions.html)]
-
-Back to Top  
-  
-  
-
+_Revised:  September 26, 2004_
