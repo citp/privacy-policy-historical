@@ -1,875 +1,209 @@
-<!--The following is the downloaded HTML source of the stratfor.com privacy policy that was archived on 2002-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021216175123id_/http%3A//www.stratfor.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stratfor.com privacy policy that was archived on 2005-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305040520id_/http%3A//www.stratfor.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head></head><body onload="preloadImages();" bgcolor="#004D6B" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"><script language="JavaScript">
-<!--
-function menu(list) 
-{ 
-	location.href = list.options[list.selectedIndex].value
-}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>Stratfor</title>
+<meta name="Generator" content="EditPlus">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<link rel="stylesheet" href="global.css" type="text/css">
+<script language="JavaScript">
+<!-- 
 
-function LinkUp() 
+if (document.images)
 {
-	var number = document.DropDown.DDlinks.selectedIndex;
-	location.href = document.DropDown.DDlinks.options[number].value;
+  img0= new Image(471,67); 
+  img0.src="/images/banner_1.jpg"; 
+
+  img1= new Image(471,67); 
+  img1.src="/images/banner_2.jpg"; 
+
+  img2= new Image(471,67); 
+  img2.src="/images/banner_3.jpg"; 
+
+  img3= new Image(471,67); 
+  img3.src="/images/banner_4.jpg"; 
+
+  img4= new Image(471,67); 
+  img4.src="/images/banner_5.jpg"; 
+
+  img5= new Image(471,67); 
+  img5.src="/images/banner_6.jpg"; 
 }
 
-<!-- ImageReady Preload Script (RegionMap_nav.psd) -->
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
+images = new Array();
+images[0] = "<img src=/images/banner_1.jpg border=0 width=471 height=67>";
+images[1] = "<img src=/images/banner_2.jpg border=0 width=471 height=67>";
+images[2] = "<img src=/images/banner_3.jpg border=0 width=471 height=67>";
+images[3] = "<img src=/images/banner_4.jpg border=0 width=471 height=67>";
+images[4] = "<img src=/images/banner_5.jpg border=0 width=471 height=67>";
+images[5] = "<img src=/images/banner_6.jpg border=0 width=471 height=67>";
+
+function doit()
+{
+var pntr = Math.round(Math.random()* 5); 
+var image = images[pntr];
+
+if (document.layers)
+{
+with (document.layers["someid"].document)
+{
+open();
+write(image);
+close();
+}
+}
+else
+{
+if (document.getElementById)
+{
+document.getElementById("someid").innerHTML=image;
+}
+else
+{
+if (document.all)
+{
+document.all["someid"].innerHTML=image;
+}
+}
 }
 
-function changeImages() {
-	if (document.images && (preloadFlag == true)) {
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-		}
-	}
-}
 
-var preloadFlag = false;
-function preloadImages() {
-	if (document.images) {
-		RegionMap_nav_01_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_01-over.gif");
-		RegionMap_nav_01_RegionMap_nav_02_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_01-RegionMap_.gif");
-		RegionMap_nav_02_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_02-over.gif");
-		RegionMap_nav_02_RegionMap_nav_03_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_02-RegionMap_.gif");
-		RegionMap_nav_02_RegionMap_nav_06_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_02-RegionM-07.gif");
-		RegionMap_nav_02_RegionMap_nav_07_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_02-RegionM-08.gif");
-		RegionMap_nav_03_RegionMap_nav_02_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_03-RegionMap_.gif");
-		RegionMap_nav_03_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_03-over.gif");
-		RegionMap_nav_03_RegionMap_nav_08_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_03-RegionM-12.gif");
-		RegionMap_nav_03_RegionMap_nav_07_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_03-RegionM-13.gif");
-		RegionMap_nav_04_RegionMap_nav_03_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_04-RegionMap_.gif");
-		RegionMap_nav_04_RegionMap_nav_08_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_04-RegionM-16.gif");
-		RegionMap_nav_04_RegionMap_nav_07_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_04-RegionM-17.gif");
-		RegionMap_nav_05_RegionMap_nav_01_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_05-RegionMap_.gif");
-		RegionMap_nav_05_RegionMap_nav_09_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_05-RegionM-20.gif");
-		RegionMap_nav_06_RegionMap_nav_02_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_06-RegionMap_.gif");
-		RegionMap_nav_06_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_06-over.gif");
-		RegionMap_nav_06_RegionMap_nav_07_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_06-RegionM-24.gif");
-		RegionMap_nav_07_RegionMap_nav_03_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_07-RegionMap_.gif");
-		RegionMap_nav_07_RegionMap_nav_06_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_07-RegionM-27.gif");
-		RegionMap_nav_07_RegionMap_nav_08_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_07-RegionM-28.gif");
-		RegionMap_nav_07_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_07-over.gif");
-		RegionMap_nav_08_RegionMap_nav_03_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_08-RegionMap_.gif");
-		RegionMap_nav_08_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_08-over.gif");
-		RegionMap_nav_08_RegionMap_nav_07_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_08-RegionM-33.gif");
-		RegionMap_nav_09_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_09-over.gif");
-		RegionMap_nav_10_RegionMap_nav_09_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_10-RegionMap_.gif");
-		RegionMap_nav_10_RegionMap_nav_06_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_10-RegionM-38.gif");
-		RegionMap_nav_10_RegionMap_nav_07_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_10-RegionM-39.gif");
-		RegionMap_nav_11_RegionMap_nav_06_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_11-RegionMap_.gif");
-		RegionMap_nav_11_RegionMap_nav_07_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_11-RegionM-42.gif");
-		RegionMap_nav_12_RegionMap_nav_08_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_12-RegionMap_.gif");
-		RegionMap_nav_12_RegionMap_nav_07_over = newImage("http://www.stratfor.com/images/stratfor/regionmap/RegionMap_nav_12-RegionM-45.gif");
-		preloadFlag = true;
-	}
 }
-
-// -->
+// End -->
 </script>
-<style type="text/css">
-	FONT.FEATURE {font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
-	FONT.SMALL {font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif;}
+</head>
+<body onload="doit()" onreload="doit()">
+<div align="center">
 
-	FONT.WHITELINK 	{color: #E8E8E1; font-weight:default; 
-			font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif}
-        FONT.SEARCH 	{color: #E8E8E1; font-weight:bold; 
-			font-size: 8pt; font-family: Verdana, Arial}
-	FONT.FOOTER 	{color: #E8E8E1; font-weight:default; 
-			font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif;}
-
-	A.SEARCH:link    {color: #E8E8E1; font-weight:default; 
-			font-size: 8pt; font-family: Arial, Helvetica, sans-serif;}
-	A.SEARCH:visited {color: #E8E8E1; font-weight:default; 
-			font-size: 8pt; font-family: Arial, Helvetica, sans-serif;}
-
-	A.WHITELINK:link    {color: #E8E8E1; text-decoration: none;}
-	A.WHITELINK:visited {color: #E8E8E1; text-decoration: none;}
-
-	FONT.HOTSPOT {color:#888888; font-weight:bold; 
-			font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
-	A.HOTSPOT:link    {color:#800000; font-weight:bold; 
-			font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
-	A.HOTSPOT:visited {color:#800000; font-weight:bold; 
-			font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
-
-	A.MOREANALYSIS:link{font-weight: default; color:#0000FF;
-			font-size:8pt; font-family: Verdana, Arial, Helvetica, sans-serif;}
-	A.MOREANALYSIS:visited{font-weight: default; color:#0000FF;
-			font-size:8pt; font-family: Verdana, Arial, Helvetica, sans-serif;}
-
-
-	FONT.TITLE1 {	font-weight: bold;
-			font-size:12pt; font-family: Arial, Helvetica, sans-serif;}
-	FONT.DATE1  {   font-weight: bold;
-			font-size:10pt;	font-family: Arial, Helvetica, sans-serif;}
-	FONT.TEASER1{	font-weight: default;
-			font-size:10pt;	font-family: Arial, Helvetica, sans-serif;}
-
-
-	FONT.TITLE2 {	font-weight: bold; 
-			font-size:10pt;	font-family: Arial, Helvetica, sans-serif;}
-	FONT.DATE2  {   font-weight: bold;
-			font-size:8pt;	font-family: Verdana, Arial, Helvetica, sans-serif;}
-	FONT.TEASER2{	font-weight: default;
-			font-size:8pt;	font-family: Verdana, Arial, Helvetica, sans-serif;}
-
-
-	FONT.CONFIRM{	font-weight: default;
-			font-size:10pt; font-family: Arial, Helvetica, sans-serif;}
-
-
-	FONT.CONTACT{   font-weight: default;
-			font-size:8pt; font-family: Verdana, Arial, Helvetica, sans-serif;}
-
-
-	FONT.TITLE3 {   font-weight: bold;
-			font-size:10pt; font-family: Arial, Helvetica, sans-serif;}
-	FONT.TEXT3  {   font-weight: default;
-			font-size:10pt; font-family: Arial, Helvetica, sans-serif;}
-
-
-	FONT.TITLE4 {	font-weight: bold;
-			font-size:8pt; font-family: Verdana, Helvetica, sans-serif;}
-	FONT.TEXT4  {	font-weight: default;
-			font-size:8pt; font-family: Verdana, Helvetica, sans-serif;}
-
-
-	FONT.BIO    {	font-weight: default;
-			font-size:10pt; font-family: Verdana, Helvetica, sans-serif;}
-
-
-        FONT.SITREPARCHIVE{	font-weight: default;
-				font-size:12pt; font-family: Arial, Verdana, Helvetica, sans-serif;}
-
-
-
-	FONT.FAQHEADER1{font-weight: bold; color: #800000;
-			font-size: 13pt; font-family: Arial, Helvetica, sans-serif;}
-	FONT.FAQHEADER2{font-weight: bold; color: #800000;
-			font-size: 10pt; font-family: Arial, Helvetica, sans-serif;}
-
-
-        FONT.FORMS{	font-weight: default;
-			font-size:8pt; font-family: Verdana, Helvetica, sans-serif;}
-
-
-	FONT.RNB_TITLE{	font-weight: normal; color: #000000;
-			font-size: 7pt; 
-			font-family: Verdana, Helvetica, sans-serif;}
-	FONT.RNB_HEAD{	font-weight: normal; color: #000000;
-			font-size: 9pt; 
-			font-family: Verdana, Helvetica, sans-serif;}
-	FONT.RNB_TEXT{	font-weight: bold; color: #000000;
-			font-size: 7pt; 
-			font-family: Verdana, Helvetica, sans-serif;}
-	FONT.RNB_BTEXT{	font-weight: bold; color: #000000;
-			font-size: 9pt; 
-			font-family: Verdana, Helvetica, sans-serif;}
-
-</style>
-
-
-
-	<title>STRATFOR.com : Privacy Policy	</title>
-
-
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="keywords" content="">
-	<meta name="description" content="">
-
-	<meta name="GOOGLEBOT" content="NOARCHIVE">
-                         <meta name="ROBOTS" content="NOARCHIVE">
-
-<a name="top"></a>
-<map name="Map">
-<area href="/house/about/consulting.php" alt="Consulting" title="Consulting" shape="RECT" coords="0,0,60,16">
-<area href="/house/aboutus.php" alt="About Us" title="About Us" shape="RECT" coords="61,0,123,16">
-<area href="/house/about/subscriptions/about.php" alt="Subscriptions" title="Subscriptions" shape="RECT" coords="124,0,183,16">
-</map>
-<table width="800" height="84" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td>
-			<table width="392" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-				<tbody><tr>
-					<td colspan="2" height="68"><img src="/images/stratfor/Banner_top.gif" width="392" height="68" border="0" usemap="#Map2" alt="STRATFOR.com, Strategic Forecasting"></td>
-				</tr>
-				<tr height="20">
-					<td width="126"><img src="/images/stratfor/BannerCurve_leftbottom.gif" width="126" height="20" border="0" alt=""></td>
-					<td width="325" valign="top"><img src="/images/stratfor/Banner_bottomleft.gif" width="266" height="4" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td valign="top">
-			<table valign="top" width="408" height="88" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-				<tbody><tr>
-					<td height="68" colspan="3" bgcolor="#004D6B">
-				<!--------------------------------------------------------------------------->
-						<form action="/search/search.php" method="POST">
-							<font class="SEARCH"> 
-								<div align="right">
-									SEARCH:<input type="text" name="fSearchText" size="20" maxlength="100"><br>
-									<a class="WHITELINK" href="/standard/advanced_search_form.php"><u>Advanced SEARCH</u></a> 
-								</div>
-							</font> 
-						</form>
-				<!--------------------------------------------------------------------------->
-					</td>
-				</tr>
-				<tr>
-				<td width="59" height="20" valign="top"><img src="/images/stratfor/Banner_notab.gif" width="59" height="4" alt=""></td><td width="189" height="20" valign="top"><div valign="\'top\'"><img border="0" src="/images/stratfor/Banner_notab.gif" width="189" height="4" alt=""></div></td><td width="160" height="20" valign="top" bgcolor="#FFFFFF"><img src="/images/stratfor/Banner_notab.gif" width="160" height="4" alt=""></td>				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-	<table width="800" border="0" cellpadding="0" cellspacing="0" bgcolor="white">
-	  <tbody><tr> 
-	    <td width="110" valign="top" bgcolor="#004d6b">
-		<font color="#FFFFFF">
-			
-<a href="http://www.stratfor.com/channel.php?ID=9">
-	<img src="/images/stratfor/GE_nav.gif" width="110" height="20" border="0" alt="[ &nbsp;&nbsp;&nbsp; GeoEconomics ]"></a><br>
-<a href="http://www.stratfor.com/channel.php?ID=7">
-	<img src="/images/stratfor/GP_nav.gif" width="110" height="19" border="0" alt="[ &nbsp;&nbsp;&nbsp;&nbsp; GeoPolitics ]"></a><br>
-<a href="http://www.stratfor.com/channel.php?ID=8">
-	<img src="/images/stratfor/GS_nav.gif" width="110" height="20" border="0" alt="[ &nbsp;&nbsp;&nbsp;&nbsp; GeoSecurity ]"></a><br><br>
-
-<!-- ImageReady Slices (RegionMap_nav.psd) -->
-<table width="110" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <th colspan="4">
-	<img src="/images/stratfor/ChoosRegion_nav.gif" width="110" height="21" border="0" alt="[ Choose a Region: ]">    </th>
-  </tr>
-  <tr>
-    <td align="center">
-	<a href="/region.php?ID=8" onmouseover="changeImages('RegionMap_nav_01', '/images/stratfor/regionmap/RegionMap_nav_01-over.gif', 'RegionMap_nav_05', '/images/stratfor/regionmap/RegionMap_nav_05-RegionMap_.gif'); return true;" onmouseout="changeImages('RegionMap_nav_01', '/images/stratfor/regionmap/RegionMap_nav_01.gif', 'RegionMap_nav_05', '/images/stratfor/regionmap/RegionMap_nav_05.gif'); return true;">
-		<img name="RegionMap_nav_01" src="/images/stratfor/regionmap/RegionMap_nav_01.gif" width="41" height="20" border="0" alt="(N America)"></a></td>
-    <td align="center">
-	<a href="/region.php?ID=4" onmouseover="changeImages('RegionMap_nav_01', '/images/stratfor/regionmap/RegionMap_nav_01-RegionMap_.gif', 'RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02-over.gif', 'RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03-RegionMap_.gif', 'RegionMap_nav_06', '/images/stratfor/regionmap/RegionMap_nav_06-RegionMap_.gif'); return true;" onmouseout="changeImages('RegionMap_nav_01', '/images/stratfor/regionmap/RegionMap_nav_01.gif', 'RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02.gif', 'RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03.gif', 'RegionMap_nav_06', '/images/stratfor/regionmap/RegionMap_nav_06.gif'); return true;">
-		<img name="RegionMap_nav_02" src="/images/stratfor/regionmap/RegionMap_nav_02.gif" width="20" height="20" border="0" alt="(Europe)"></a></td>
-    <td align="center">
-	<a href="/region.php?ID=3" onmouseover="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02-RegionMap_.gif', 'RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03-over.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04-RegionMap_.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07-RegionMap_.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08-RegionMap_.gif'); return true;" onmouseout="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02.gif', 'RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08.gif'); return true;">
-		<img name="RegionMap_nav_03" src="/images/stratfor/regionmap/RegionMap_nav_03.gif" width="13" height="20" border="0" alt="(CIS)"></a></td>
-    <td align="center">
-	<a href="/region.php?ID=3" onmouseover="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02-RegionMap_.gif', 'RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03-over.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04-RegionMap_.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07-RegionMap_.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08-RegionMap_.gif'); return true;" onmouseout="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02.gif', 'RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08.gif'); return true;">
-		<img name="RegionMap_nav_04" src="/images/stratfor/regionmap/RegionMap_nav_04.gif" width="36" height="20" border="0" alt="(CIS)"></a></td>
-  </tr>
-  <tr>
-    <td align="center">
-	<img name="RegionMap_nav_05" src="/images/stratfor/regionmap/RegionMap_nav_05.gif" width="41" height="12" border="0" alt="#"></td>
-    <td align="center">
-	<a href="/region.php?ID=1" onmouseover="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02-RegionM-07.gif', 'RegionMap_nav_06', '/images/stratfor/regionmap/RegionMap_nav_06-over.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07-RegionM-27.gif', 'RegionMap_nav_10', '/images/stratfor/regionmap/RegionMap_nav_10-RegionM-38.gif', 'RegionMap_nav_11', '/images/stratfor/regionmap/RegionMap_nav_11-RegionMap_.gif'); return true;" onmouseout="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02.gif', 'RegionMap_nav_06', '/images/stratfor/regionmap/RegionMap_nav_06.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07.gif', 'RegionMap_nav_10', '/images/stratfor/regionmap/RegionMap_nav_10.gif', 'RegionMap_nav_11', '/images/stratfor/regionmap/RegionMap_nav_11.gif'); return true;">
-		<img name="RegionMap_nav_06" src="/images/stratfor/regionmap/RegionMap_nav_06.gif" width="20" height="12" border="0" alt="(Africa)"></a></td>
-    <td align="center">
-	<a href="/region.php?ID=7" onmouseover="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02-RegionM-08.gif', 'RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03-RegionM-13.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04-RegionM-17.gif', 'RegionMap_nav_06', '/images/stratfor/regionmap/RegionMap_nav_06-RegionM-24.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07-over.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08-RegionM-33.gif', 'RegionMap_nav_10', '/images/stratfor/regionmap/RegionMap_nav_10-RegionM-39.gif', 'RegionMap_nav_11', '/images/stratfor/regionmap/RegionMap_nav_11-RegionM-42.gif', 'RegionMap_nav_12', '/images/stratfor/regionmap/RegionMap_nav_12-RegionM-45.gif'); return true;" onmouseout="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02.gif', 'RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04.gif', 'RegionMap_nav_06', '/images/stratfor/regionmap/RegionMap_nav_06.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08.gif', 'RegionMap_nav_10', '/images/stratfor/regionmap/RegionMap_nav_10.gif', 'RegionMap_nav_11', '/images/stratfor/regionmap/RegionMap_nav_11.gif', 'RegionMap_nav_12', '/images/stratfor/regionmap/RegionMap_nav_12.gif'); return true;">
-		<img name="RegionMap_nav_07" src="/images/stratfor/regionmap/RegionMap_nav_07.gif" width="13" height="12" border="0" alt="(Middle East)"></a></td>
-    <td align="center">
-	<a href="/region.php?ID=2" onmouseover="changeImages('RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03-RegionM-12.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04-RegionM-16.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07-RegionM-28.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08-over.gif', 'RegionMap_nav_12', '/images/stratfor/regionmap/RegionMap_nav_12-RegionMap_.gif'); return true;" onmouseout="changeImages('RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08.gif', 'RegionMap_nav_12', '/images/stratfor/regionmap/RegionMap_nav_12.gif'); return true;">
-		<img name="RegionMap_nav_08" src="/images/stratfor/regionmap/RegionMap_nav_08.gif" width="36" height="12" border="0" alt="(Asia)"></a></td>
-  </tr>
-  <tr>
-    <td align="center">
-	<a href="/region.php?ID=5" onmouseover="changeImages('RegionMap_nav_05', '/images/stratfor/regionmap/RegionMap_nav_05-RegionM-20.gif', 'RegionMap_nav_09', '/images/stratfor/regionmap/RegionMap_nav_09-over.gif', 'RegionMap_nav_10', '/images/stratfor/regionmap/RegionMap_nav_10-RegionMap_.gif'); return true;" onmouseout="changeImages('RegionMap_nav_05', '/images/stratfor/regionmap/RegionMap_nav_05.gif', 'RegionMap_nav_09', '/images/stratfor/regionmap/RegionMap_nav_09.gif', 'RegionMap_nav_10', '/images/stratfor/regionmap/RegionMap_nav_10.gif'); return true;">
-		<img name="RegionMap_nav_09" src="/images/stratfor/regionmap/RegionMap_nav_09.gif" width="41" height="30" border="0" alt="(Latin America)"></a></td>
-    <td calign="center">
-	<a href="/region.php?ID=1" onmouseover="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02-RegionM-07.gif', 'RegionMap_nav_06', '/images/stratfor/regionmap/RegionMap_nav_06-over.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07-RegionM-27.gif', 'RegionMap_nav_10', '/images/stratfor/regionmap/RegionMap_nav_10-RegionM-38.gif', 'RegionMap_nav_11', '/images/stratfor/regionmap/RegionMap_nav_11-RegionMap_.gif'); return true;" onmouseout="changeImages('RegionMap_nav_02', '/images/stratfor/regionmap/RegionMap_nav_02.gif', 'RegionMap_nav_06', '/images/stratfor/regionmap/RegionMap_nav_06.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07.gif', 'RegionMap_nav_10', '/images/stratfor/regionmap/RegionMap_nav_10.gif', 'RegionMap_nav_11', '/images/stratfor/regionmap/RegionMap_nav_11.gif'); return true;">
-		<img name="RegionMap_nav_10" src="/images/stratfor/regionmap/RegionMap_nav_10.gif" width="20" height="30" border="0" alt="(Africa)"></a></td>
-    <td align="center">
-	<img name="RegionMap_nav_11" src="/images/stratfor/regionmap/RegionMap_nav_11.gif" width="13" height="30" border="0" alt="#"></td>
-    <td align="center">
-	<a href="/region.php?ID=2" onmouseover="changeImages('RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03-RegionM-12.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04-RegionM-16.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07-RegionM-28.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08-over.gif', 'RegionMap_nav_12', '/images/stratfor/regionmap/RegionMap_nav_12-RegionMap_.gif'); return true;" onmouseout="changeImages('RegionMap_nav_03', '/images/stratfor/regionmap/RegionMap_nav_03.gif', 'RegionMap_nav_04', '/images/stratfor/regionmap/RegionMap_nav_04.gif', 'RegionMap_nav_07', '/images/stratfor/regionmap/RegionMap_nav_07.gif', 'RegionMap_nav_08', '/images/stratfor/regionmap/RegionMap_nav_08.gif', 'RegionMap_nav_12', '/images/stratfor/regionmap/RegionMap_nav_12.gif'); return true;">
-		<img name="RegionMap_nav_12" src="/images/stratfor/regionmap/RegionMap_nav_12.gif" width="36" height="30" border="0" alt="(Asia)"></a></td>
-  </tr>
-  <!-- End ImageReady Slices -->
-  <!-- Country Popup List -->
-  <tr>
-    <td colspan="4" align="center">
-        <form name="SelectCountry" method="GET" action="/country.php">
-                <select name="ID" onchange="this.form.submit()" style="font-size: 8pt" size="1">
-<option selected="" value="" disabled="">Country</option>
-<option value="1">Afghan.</option>
-<option value="2">Albania</option>
-<option value="3">Algeria</option>
-<option value="178">Andorra</option>
-<option value="4">Angola</option>
-<option value="185">Antigua</option>
-<option value="5">Argen.</option>
-<option value="6">Armenia</option>
-<option value="7">Austral.</option>
-<option value="8">Austria</option>
-<option value="9">Azerb.</option>
-<option value="145">B. Faso</option>
-<option value="186">Bahamas</option>
-<option value="10">Bahrain</option>
-<option value="11">Bangla.</option>
-<option value="187">Barbados</option>
-<option value="12">Belarus</option>
-<option value="13">Belgium</option>
-<option value="204">Belize</option>
-<option value="144">Benin</option>
-<option value="164">Bhutan</option>
-<option value="205">Bolivia</option>
-<option value="14">Bosnia</option>
-<option value="15">Botswana</option>
-<option value="16">Brazil</option>
-<option value="165">Brunei</option>
-<option value="17">Bulgaria</option>
-<option value="18">Burundi</option>
-<option value="147">C. Verde</option>
-<option value="21">C.A.R.</option>
-<option value="19">Cambodia</option>
-<option value="146">Cameroon</option>
-<option value="20">Canada</option>
-<option value="22">Chad</option>
-<option value="23">Chile</option>
-<option value="24">China</option>
-<option value="25">Colombia</option>
-<option value="148">Comoros</option>
-<option value="26">Congo</option>
-<option value="189">Costa R.</option>
-<option value="28">Croatia</option>
-<option value="29">Cuba</option>
-<option value="30">Cyprus</option>
-<option value="31">Czech R.</option>
-<option value="33">D.R.C.</option>
-<option value="32">Denmark</option>
-<option value="149">Djibouti</option>
-<option value="34">Do. Rep.</option>
-<option value="190">Dominica</option>
-<option value="35">E. Timor</option>
-<option value="36">Ecuador</option>
-<option value="37">Egypt</option>
-<option value="38">El Sal.</option>
-<option value="150">Eq. Gui.</option>
-<option value="39">Eritrea</option>
-<option value="40">Estonia</option>
-<option value="41">Ethiopia</option>
-<option value="42">Fiji</option>
-<option value="43">Finland</option>
-<option value="44">France</option>
-<option value="51">G. Biss.</option>
-<option value="45">Gabon</option>
-<option value="46">Gambia</option>
-<option value="47">Georgia</option>
-<option value="48">Germany</option>
-<option value="49">Ghana</option>
-<option value="50">Greece</option>
-<option value="192">Grenada</option>
-<option value="193">Guatem.</option>
-<option value="151">Guinea</option>
-<option value="194">Guyana</option>
-<option value="52">Haiti</option>
-<option value="179">Holy See</option>
-<option value="195">Honduras</option>
-<option value="54">Hungary</option>
-<option value="27">I. Coast</option>
-<option value="55">Iceland</option>
-<option value="56">India</option>
-<option value="57">Indones.</option>
-<option value="58">Iran</option>
-<option value="59">Iraq</option>
-<option value="60">Ireland</option>
-<option value="61">Israel</option>
-<option value="62">Italy</option>
-<option value="196">Jamaica</option>
-<option value="64">Japan</option>
-<option value="63">Jordan</option>
-<option value="65">Kazakh.</option>
-<option value="66">Kenya</option>
-<option value="166">Kiribati</option>
-<option value="67">Kuwait</option>
-<option value="68">Kyrgyz.</option>
-<option value="69">Laos</option>
-<option value="70">Latvia</option>
-<option value="71">Lebanon</option>
-<option value="152">Lesotho</option>
-<option value="72">Liberia</option>
-<option value="73">Libya</option>
-<option value="180">Liecht.</option>
-<option value="74">Lithuan.</option>
-<option value="181">Luxem.</option>
-<option value="75">Macedo.</option>
-<option value="154">Madagas.</option>
-<option value="155">Malawi</option>
-<option value="76">Malaysia</option>
-<option value="206">Maldives</option>
-<option value="78">Mali</option>
-<option value="156">Malta</option>
-<option value="167">Marsh. I.</option>
-<option value="157">Maurita.</option>
-<option value="158">Mauriti.</option>
-<option value="79">Mexico</option>
-<option value="168">Micron.</option>
-<option value="80">Moldova</option>
-<option value="182">Monaco</option>
-<option value="81">Mongolia</option>
-<option value="82">Morocco</option>
-<option value="83">Mozamb.</option>
-<option value="84">Myanmar</option>
-<option value="92">N. Korea</option>
-<option value="88">N. Zeal.</option>
-<option value="85">Namibia</option>
-<option value="169">Nauru</option>
-<option value="86">Nepal</option>
-<option value="87">Nether.</option>
-<option value="89">Nicarag.</option>
-<option value="90">Niger</option>
-<option value="91">Nigeria</option>
-<option value="93">Norway</option>
-<option value="94">Oman</option>
-<option value="96">P.N.A.</option>
-<option value="95">Pakistan</option>
-<option value="170">Palau</option>
-<option value="197">Panama</option>
-<option value="97">Papua</option>
-<option value="141">Paraguay</option>
-<option value="98">Peru</option>
-<option value="99">Philip.</option>
-<option value="100">Poland</option>
-<option value="101">Portugal</option>
-<option value="103">Qatar</option>
-<option value="104">Romania</option>
-<option value="105">Russia</option>
-<option value="106">Rwanda</option>
-<option value="112">S. Afri.</option>
-<option value="107">S. Arab.</option>
-<option value="113">S. Korea</option>
-<option value="162">S. Leone</option>
-<option value="172">Samoa</option>
-<option value="183">San Mar.</option>
-<option value="159">Sao Tome</option>
-<option value="160">Senegal</option>
-<option value="161">Seychel.</option>
-<option value="108">Singa.</option>
-<option value="109">Slovakia</option>
-<option value="110">Slovenia</option>
-<option value="173">Sol. Is.</option>
-<option value="111">Somalia</option>
-<option value="114">Spain</option>
-<option value="115">Sri Lan.</option>
-<option value="198">St. Kit.</option>
-<option value="199">St. Lucia</option>
-<option value="200">St. Vin.</option>
-<option value="116">Sudan</option>
-<option value="201">Suriname</option>
-<option value="207">Swazi.</option>
-<option value="117">Sweden</option>
-<option value="118">Switz.</option>
-<option value="119">Syria</option>
-<option value="120">Taiwan</option>
-<option value="121">Tajik.</option>
-<option value="122">Tanzania</option>
-<option value="123">Thailand</option>
-<option value="163">Togo</option>
-<option value="175">Tonga</option>
-<option value="202">Trinidad</option>
-<option value="124">Tunisia</option>
-<option value="203">Tur. Rep.</option>
-<option value="125">Turkey</option>
-<option value="126">Turkmen.</option>
-<option value="176">Tuvalu</option>
-<option value="129">U.A.E.</option>
-<option value="130">U.K.</option>
-<option value="131">U.S.</option>
-<option value="127">Uganda</option>
-<option value="128">Ukraine</option>
-<option value="132">Uruguay</option>
-<option value="133">Uzbek.</option>
-<option value="177">Vanuatu</option>
-<option value="134">Venez.</option>
-<option value="135">Vietnam</option>
-<option value="136">W. Saha.</option>
-<option value="137">Yemen</option>
-<option value="138">Yugo.</option>
-<option value="139">Zambia</option>
-<option value="140">Zimbab.</option>
-</select>
-        </form>
-    </td>
-  </tr>
-</tbody></table>
-
-
-<!-- Hot Spots -->
-<table width="110" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <th>
-	<a href="http://www.stratfor.com/hotspots.php">
-	  <img src="/images/stratfor/HotSpots_nav.gif" width="110" height="21" border="0" alt="[ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HotSpots ]">	</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-    </td>
-  </tr>
-</tbody></table>
-<br>
-
-<!-- WorldView -->
-<table width="110" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <th>
-	<a href="http://www.stratfor.com/channel.php?ID=14">
-	  <img src="/images/stratfor/WorldView_nav.gif" width="110" height="22" border="0" alt="[ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WorldView: ]">	</a>
-    </th>
-  </tr>
-	<tr> 
-		<td valign="top">
-			<font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#e8e8e1">
-						</font>
-		</td>
-	</tr>
-</tbody></table>
-<br>
-
-
-<!-- Ask Stratfor -->
-<table width="110" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <th>
-	<a href="http://www.stratfor.com/standard/askstratfor.php">
-	<img src="/images/stratfor/AskSTRATFOR_nav.gif" width="110" height="21" border="0" alt="[ &nbsp;&nbsp;&nbsp; Ask STRATFOR ]">	</a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-    </td>
-  </tr>
-</tbody></table>
-<br>
-
-
-<table width="110" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center">
-	    </td>
-  </tr>
-</tbody></table>
-		</font>
-	    </td>
-	  <td width="690" valign="top">	<div style="margin-left:5pt; margin-right:5pt">
-<table width="98%" border="0" cellspacing="0" cellpadding="5">
-<tbody><tr><td>
-
-<!----->
-
-&nbsp;&nbsp;<img src="/images/stratfor/PrivacyPolicy_main.gif" width="200" height="18"><br><br>
-
-<table border="0" cellspacing="0" cellpadding="0" align="center" width="660">
-<tbody><tr><td>
-
-            <p style="text-align:justify"><font face="Arial" size="2">
-              Strategic Forecasting LLC., publisher of STRATFOR, and its affiliates (hereafter 
-              referred to collectively as "STRATFOR") are committed 
-              to maintaining the privacy of personal information that you provide 
-              to us when using STRATFOR. This Privacy Policy describes how we 
-              treat personal information received about you when you visit STRATFOR. 
-              We may make content or services from other Web sites including our 
-              affiliated or co-branded Web sites available to you from links located 
-              on STRATFOR. These other Web sites are not subject to this Privacy 
-              Policy. We recommend that you review the privacy policy at each 
-              such Web site to determine how that site protects your privacy.</font></p>
-            <p style="text-align:justify"><b><font size="2" face="Arial">INFORMATION 
-              WE COLLECT<o:p> </o:p> </font></b></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>General:</b> 
-              When you register, and at other times, we may collect personally 
-              identifiable information from you that may include your name, age, 
-              address, e-mail address, credit-card number and facts about your 
-              computers, profession, and similar information. We do not, however, 
-              knowingly collect personal information from children under the age 
-              of thirteen.</font></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>Surveys:</b> 
-              We may conduct occasional online surveys. For example, when you're 
-              within our Web site, you may see a pop-up window offering you the 
-              optional opportunity of participating in a survey. These surveys 
-              are entirely voluntary and you may easily decline to participate.</font></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>Web Site 
-              Usage Information:</b> We automatically collect IP addresses and 
-              Web site usage information from you when you visit our Web site. 
-              This information helps us evaluate how our visitors and subscribers 
-              use and navigate our Web sites on an aggregate basis, including 
-              the number and frequency of visitors and subscribers to each Web 
-              page, and the length of their visits.</font></p>
-            <p style="text-align:justify"><b><font size="2" face="Arial">HOW WE 
-              USE INFORMATION COLLECTED<o:p> </o:p> </font></b></p>
-            <p style="text-align:justify"><font size="2" face="Arial">We may use 
-              information in the following ways:</font></p>
-            <ul type="disc">
-              <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     text-align:justify;mso-list:l1 level1 lfo1;tab-stops:list .5in"><font size="2" face="Arial">For 
-                the purposes for which you specifically provided the information 
-                including, for example, to enable us to process, validate and 
-                verify subscriptions.</font></li>
-              <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     text-align:justify;mso-list:l1 level1 lfo1;tab-stops:list .5in"><font size="2" face="Arial">To 
-                send you e-mail notifications about our new or existing products 
-                and services, special offers, or to otherwise contact you.</font></li>
-              <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     text-align:justify;mso-list:l1 level1 lfo1;tab-stops:list .5in"><font size="2" face="Arial">To 
-                send you e-mail notifications, through companies who work on behalf 
-                of STRATFOR, about certain approved third-party products and services 
-                (Unless we tell you differently, these companies do not have any 
-                right to use the personally identifiable information we provide 
-                to them beyond what is necessary to assist us).</font></li>
-              <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     text-align:justify;mso-list:l1 level1 lfo1;tab-stops:list .5in"><font size="2" face="Arial">To 
-                enhance existing features or develop new features, products and 
-                services.</font></li>
-              <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     text-align:justify;mso-list:l1 level1 lfo1;tab-stops:list .5in"><font size="2" face="Arial">To 
-                provide advertisers and other third parties with aggregate information 
-                about our user base and usage patterns.</font></li>
-              <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     text-align:justify;mso-list:l1 level1 lfo1;tab-stops:list .5in"><font size="2" face="Arial">To 
-                allow us to personalize the content and advertising that you and 
-                others see based on personal characteristics or preferences.</font></li>
-            </ul>
-            <p style="text-align:justify"><font size="2" face="Arial">We may combine 
-              the information that we collect from you on this Web site with information 
-              that you provide to us in connection with your use of our other 
-              products, services and Web sites.</font></p>
-            <p style="text-align:justify"><font size="2" face="Arial">At times 
-              STRATFOR may use third party network advertisers to deliver ads 
-              to you on our behalf. We may also use third-party service providers 
-              to contact you on our behalf, or facilitate some aspects of our 
-              Web site services or fulfill your purchase requests. These network 
-              advertisers and service providers may be supplied with or have access 
-              to your personally identifiable information solely for the purpose 
-              of providing these services to us or on our behalf. Except as specifically 
-              set forth in this Privacy Policy, we will not share your personally 
-              identifiable information outside of STRATFOR unless you "opt 
-              in" to having your personally identifiable information shared 
-              with a company that is not affiliated with us.</font></p>
-            <p style="text-align:justify"><font size="2" face="Arial">We may disclose 
-              and use personally identifiable information in special circumstances 
-              where it is necessary to enforce our Subscriber Agreement or Terms 
-              of Use (for example, when necessary to protect our intellectual 
-              property rights). We may also disclose or use your personal information 
-              when we, in good faith, believe that the law requires us to do so.</font></p>
-            <p style="text-align:justify"><b><font size="2" face="Arial">ADDITIONAL 
-              INFORMATION<o:p> </o:p> </font></b></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>Cookies:<span style="mso-spacerun: yes">&nbsp; 
-              </span></b>We may employ cookie technology to help visitors and 
-              subscribers move faster through our site. When you sign on to our 
-              Web site or take advantage of several key features, we may pass 
-              cookies to your computer. A cookie is a string of information that 
-              is sent by a Web site and stored on your hard drive or temporarily 
-              in your computer's memory (<i>Read our <a href="#COOKIE-DISCLOSURE_STATEMENT">Cookie 
-              Disclosure Statement</a> for more information on our use of cookies)</i>.</font></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>Security:<span style="mso-spacerun: yes">&nbsp; 
-              </span></b>The personally identifiable information we collect about 
-              you is stored in limited access servers. We will maintain safeguards 
-              to protect the security of these servers and your personally identifiable 
-              information.</font></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>Policy 
-              Modifications:<span style="mso-spacerun: yes">&nbsp; </span></b>We 
-              may change this Privacy Policy from time to time. We will post any 
-              changes here, so be sure to check back periodically.</font></p>
-            <p><font size="2" face="Arial"><span style="mso-bidi-font-size: 10.0pt"><b>CHOICE/OPT-OUT</b></span><span style="mso-bidi-font-size: 18.0pt"><o:p> 
-              </o:p> </span></font></p>
-            <p><font size="2" face="Arial">STRATFOR provides its users the opportunity 
-              to opt-out of receiving communications from STRATFOR and its partners 
-              at the point where we request information about the visitor.<span style="mso-spacerun: yes">&nbsp;</span>Our 
-              site gives users the following options for removing their information 
-              from our database to not receive future communications or to no 
-              longer receive our service.</font></p>
-            <p><span style="mso-bidi-font-size:10.0pt"><font size="2" face="Arial">&nbsp;&nbsp;&nbsp; 
-              1. Use the following link: <a href="http://www.stratfor.com/home/giu/unsub.asp">unsubscribe</a></font></span></p>
-            <p><span style="mso-bidi-font-size:10.0pt"><font size="2" face="Arial">&nbsp;&nbsp;&nbsp; 
-              2. Or you can send an e-mail to: <a href="mailto:service@stratfor.com">service@stratfor.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span></p>
-            <p><font size="2" face="Arial"><span style="mso-bidi-font-size: 10.0pt"><b>CORRECT/UPDATE</b></span><span style="mso-bidi-font-size: 18.0pt"><o:p> 
-              </o:p> </span></font></p>
-            <p><span style="mso-bidi-font-size:10.0pt"><font size="2" face="Arial">STRATFOR 
-              gives users the following options for changing and modifying information 
-              previously provided.</font></span></p>
-            <p style="margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo3;
-tab-stops:list .5in"><font size="2" face="Arial">1.<span style="font-style: normal; font-variant: normal; font-weight: normal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-              </span><span style="mso-bidi-font-size:10.0pt">You can send an e-mail 
-              <a href="mailto:info@stratfor.com">info@stratfor.com</a></span></font></p>
-            <p><font size="2" face="Arial"><span style="mso-bidi-font-size: 10.0pt"><b>COMMENTS 
-              AND QUESTIONS</b></span><span style="mso-bidi-font-size: 18.0pt"><o:p> 
-              </o:p> </span></font></p>
-            <p><span style="mso-bidi-font-size:10.0pt"><font size="2" face="Arial">If 
-              you have any questions about this privacy statement, the practices 
-              of this site, or your dealings with this Web site, you can contact:</font></span></p>
-            <p><span style="mso-bidi-font-size:10.0pt"><font size="2" face="Arial">Attn: 
-              Webmaster<br>
-              STRATFOR<br>
-              700 Lavaca Street<br>
-              Suite 405<br>
-              Austin, Texas 78701<br>
-              <a href="mailto:webmaster@stratfor.com">webmaster@stratfor.com</a></font></span></p>
-            <p><span style="mso-bidi-font-size:10.0pt"><font size="2" face="Arial">If 
-              you have any questions, comments, or concerns about this Privacy 
-              Statement, please contact us at <a href="mailto:privacy@stratfor.com">privacy@stratfor.com</a>.</font></span></p>
-            <p align="center" style="text-align:center"><a href="http://www.stratfor.com/subscribe/intel_brief_sub.php"><strong><span style="mso-bidi-font-size:10.0pt"><font size="2" face="Arial">Click 
-              here to sign up for the FREE Free Intelligence Brief</font></span></strong></a></p>
-            <p align="center" style="text-align:center"><font size="2" face="Arial">This 
-              policy was last updated on January 14, 2002.<span style="mso-bidi-font-size: 12.0pt"><o:p> 
-              </o:p> </span></font></p>
-            <p align="center" style="text-align:center"><b><font size="2" face="Arial">Copyright 
-              © </font></b><font face="Arial" size="2"><b>2002 Strategic Forecasting 
-              LLC.</b></font><b><font size="2" face="Arial"> All Rights Reserved.<o:p> 
-              </o:p> </font></b></p>
-            <hr noshade="" size="1" color="#C0C0C0">
-            <p align="center" style="text-align:center"><font size="2" face="Arial"><span style="mso-bidi-font-size: 18.0pt"><b><a name="COOKIE-DISCLOSURE_STATEMENT">COOKIE-DISCLOSURE 
-              STATEMENT</a></b> </span></font></p>
-            <p style="text-align:justify"><font size="2" face="Arial">We are often 
-              asked about our use of cookie technology, which we employ at STRATFOR 
-              to allow you to move quickly through our site. Below you'll find 
-              information describing our most common uses of cookies, which are 
-              an inherent part of our production process and have enabled us to 
-              better serve you. <s><o:p> </o:p> </s></font></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>What's 
-              a cookie?<span style="mso-spacerun:
-yes">&nbsp; </span></b>A cookie is a small file that is sent to your computer 
-              by a site's server. A cookie can be a record of your visit to a 
-              site, including information such as your User Name, registration 
-              information, time of last visit, pages viewed, etc.<span style="mso-spacerun: yes">&nbsp; 
-              </span>Cookies created by the servers of one site can be retrieved 
-              only by that site’s servers. Thus, information in STRATFOR cookies 
-              is not accessible to other sites.</font></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>Why do 
-              you use cookies?<span style="mso-spacerun: yes">&nbsp; </span></b>We 
-              use cookies to allow you to move quickly through our site. We accomplish 
-              this in many ways, using several different cookies. When you first 
-              enter STRATFOR, for example, we use a test cookie to confirm your 
-              browser's ability to retain cookies. Other cookies that you will 
-              receive during your sessions are from third-party service providers 
-              or third-party network advertisers. These network advertisers may 
-              use their own cookies in order to serve ads on our Web sites, ensuring 
-              you won't see the same ads over and over again.</font></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>So, what's 
-              in it for me?<span style="mso-spacerun: yes">&nbsp; </span></b>Here's 
-              a quick rundown of what we see as the biggest advantages of cookies:</font></p>
-            <ul type="disc">
-              <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     text-align:justify;mso-list:l3 level1 lfo2;tab-stops:list .5in"><font size="2" face="Arial"><b>Faster, 
-                more convenient access.</b> We can deliver to you customized information 
-                and store your settings more efficiently.</font></li>
-              <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     text-align:justify;mso-list:l3 level1 lfo2;tab-stops:list .5in"><font size="2" face="Arial"><b>Better 
-                information. </b>We want to give you features and services in 
-                which you're interested. Through the use of cookies, we can determine 
-                which features are most popular with subscribers on an aggregate 
-                basis and thus better serve your needs by developing new features 
-                and services in response to our analysis of subscribers' usage.</font></li>
-              <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     text-align:justify;mso-list:l3 level1 lfo2;tab-stops:list .5in"><font size="2" face="Arial"><b>More 
-                efficient ad processing.</b> Cookies enable us to streamline our 
-                ad presentations.</font></li>
-            </ul>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>Will 
-              the cookies you send me go away?<span style="mso-spacerun: yes">&nbsp; 
-              </span></b>Some of our cookies are long term. Some cookies do expire 
-              after a short period of time. Remember, cookies are small files 
-              (just a few hundred bytes) and won't pose any significant disk-space 
-              concerns. You are, of course, free to clear any and all cookies 
-              from your hard drive any time you wish. Just search your system 
-              for any files named <b>cookies.txt</b> (or similar) and delete them 
-              at your discretion.</font></p>
-            <p style="text-align:justify"><font size="2" face="Arial"><b>Should 
-              I set my browser to not accept cookies or to alert me each time 
-              I receive one?</b><br>
-              You certainly could set your browser to alert you each time a cookie 
-              is passed to your machine. However, we'd recommend that you turn 
-              that feature off, perhaps after using the site for a day or so with 
-              it on, once you've seen firsthand how we use this technology. Our 
-              use of cookies ultimately helps you have a better experience here. 
-              You might find it cumbersome to be alerted to each cookie you'll 
-              encounter.</font></p>
-            <p align="center" style="text-align:center"><a href="http://www.stratfor.com/user/intel_brief_sub_form.php"><strong><span style="mso-bidi-font-size:10.0pt"><font size="2" face="Arial">Click 
-              here to sign up for the FREE intelligence Brief</font></span></strong></a></p>
-            <p align="center" style="text-align:center"><font size="2" face="Arial">This 
-              policy was last updated on January 14, 2002<span style="mso-bidi-font-size: 12.0pt"><o:p> 
-              </o:p> </span></font></p>
-            <p align="center" style="text-align:center"><b><font size="2" face="Arial">Copyright 
-              © 2002 </font></b> <font face="Arial" size="2"><b>Strategic Forecasting 
-              LLC</b></font><b><font size="2" face="Arial">. All Rights Reserved</font></b>
-
-</p></td></tr>
-</tbody></table>
-
-<!----->
-        <br>
-</td></tr></tbody></table>
-</div>
+<table cellspacing="0" cellpadding="0" border="0" width="758px" align="center">
+<tbody><tr>
+	<td colspan="3" class="logo"><a href="http://www.stratfor.com/index.php" border="0" style="border:none;"><img src="https://www.stratfor.com//images/logo_trans.gif" alt="" width="410" height="70" style="border:none;"></a></td></tr>
+<tr>
+		<td colspan="3" class="homenav" height="21px"> 
+	<!-- <a href="index.php">HOME</a> &bull;
+	<a href="about.php" class="on">ABOUT US</a> &bull;
+	<a href="services.php">SERVICES</a> &bull;
+	<a href="products.php">PRODUCTS</a> &bull;
+	<a href="subscribe.php">SUBSCRIBE </a> &bull;
+	<a href="clients.php">CLIENTS</a> &bull;
+	<a href="contact.php">CONTACT US</a>  -->
+ <a href="index.php"><img src="images/nav_home.gif" width="46" height="23" border="0"></a><img src="images/separator.gif" width="12" height="23"><a href="about.php"><img src="images/nav_aboutus.gif" width="60" height="23" border="0"></a><img src="images/separator.gif" width="12" height="23"><a href="services.php"><img src="images/nav_services.gif" width="57" height="23" border="0"></a><img src="images/separator.gif" width="12" height="23"><a href="products.php"><img src="images/nav_products.gif" width="64" height="23" border="0"></a><img src="images/separator.gif" width="12" height="23"><a href="subscribe.php"><img src="images/nav_subscribe.gif" width="64" height="23" border="0"></a><img src="images/separator.gif" width="12" height="23"><a href="clients.php"><img src="images/nav_clients.gif" width="50" height="23" border="0"></a><img src="images/separator.gif" width="12" height="23"><a href="contact.php"><img src="images/nav_contact.gif" width="72" height="23" border="0"></a>	</td></tr>
+<tr>
+<td class="bodyleft" width="142px" rowspan="2"><a href="subscribe.php"><img src="images/ad_subscribe.gif" alt="Subscribe" width="143" height="68" border="0"></a>
 </td>
-        
+
+<td width="471px" height="67px">
+
+<!--The following content is created by the JS above and is based on a random selection of images-->
+
+ <div id="someid"><img src="/images/banner_5.jpg" border="0" width="471" height="67"></div>
+
+</td>
+<td class="bodyright" width="142px" rowspan="2">&nbsp;</td>
+</tr>
+<tr>
+	<td class="bodycopy">
+<p class="subhead2">PRIVACY POLICY</p>
+<p>
+<b>Strategic Forecasting, Inc.</b>, publisher of Stratfor, and its affiliates (hereafter referred to collectively as "Stratfor") are committed to maintaining the privacy of personal information that you provide to us when using Stratfor. This Privacy Policy describes how we treat personal information received about you when you visit Stratfor. We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on Stratfor. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy.
+</p>
+<p>
+<b>INFORMATION WE COLLECT</b>
+</p><p>
+<b>General:</b> When you register, and at other times, we may collect personally identifiable information from you that may include your name, age, address, e-mail address, credit-card number and facts about your computers, profession, and similar information. We do not, however, knowingly collect personal information from children under the age of thirteen.
+</p><p>
+<b>Surveys:</b> We may conduct occasional online surveys. For example, when you're within our Web site, you may see a pop-up window offering you the optional opportunity of participating in a survey. These surveys are entirely voluntary and you may easily decline to participate.
+</p><p>
+<b>Web Site Usage Information:</b> We automatically collect IP addresses and Web site usage information from you when you visit our Web site. This information helps us evaluate how our visitors and subscribers use and navigate our Web sites on an aggregate basis, including the number and frequency of visitors and subscribers to each Web page, and the length of their visits.
+</p><p>
+<b>HOW WE USE INFORMATION COLLECTED</b>
+</p><p>
+We may use information in the following ways:
+</p><p>
+For the purposes for which you specifically provided the information including, for example, to enable us to process, validate and verify subscriptions. 
+To send you e-mail notifications about our new or existing products and services, special offers, or to otherwise contact you. 
+To send you e-mail notifications, through companies who work on behalf of Stratfor, about certain approved third-party products and services (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us). 
+To enhance existing features or develop new features, products and services. 
+To provide advertisers and other third parties with aggregate information about our user base and usage patterns. 
+To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences. 
+We may combine the information that we collect from you on this Web site with information that you provide to us in connection with your use of our other products, services and Web sites.
+</p><p>
+At times Stratfor may use third party network advertisers to deliver ads to you on our behalf. We may also use third-party service providers to contact you on our behalf, or facilitate some aspects of our Web site services or fulfill your purchase requests. These network advertisers and service providers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf. Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information outside of Stratfor unless you "opt in" to having your personally identifiable information shared with a company that is not affiliated with us.
+</p><p>
+We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Subscriber Agreement or Terms of Use (for example, when necessary to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law requires us to do so.
+</p><p>
+<b>ADDITIONAL INFORMATION</b>
+</p><p>
+Cookies:  We may employ cookie technology to help visitors and subscribers move faster through our site. When you sign on to our Web site or take advantage of several key features, we may pass cookies to your computer. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory (Read our Cookie Disclosure Statement for more information on our use of cookies).
+</p><p>
+Security:  The personally identifiable information we collect about you is stored in limited access servers. We will maintain safeguards to protect the security of these servers and your personally identifiable information.
+</p><p>
+Policy Modifications:  We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
+</p><p>
+<b>CHOICE/OPT-OUT</b>
+</p><p>
+Stratfor provides its users the opportunity to opt-out of receiving communications from Stratfor and its partners at the point where we request information about the visitor. To remove your information from our database, to not receive future communications or to no longer receive our service, please send and e-mail request to: <a href="mailto:service@stratfor.com">service@stratfor.com</a>.<!--  Our site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.>
+<p>
+<ul>
+    1. Use the following link: <a href="">unsubscribe</a><br>
+    2. Or you can send an e-mail to: <a href="mailto:service@stratfor.com">service@stratfor.com</a>     
+</ul>-->
+</p><p>
+<b>CORRECT/UPDATE</b>
+</p><p>
+Stratfor gives users the following options for changing and modifying information previously provided.
+</p><p>
+</p><ul>
+1. You can send an e-mail to <a href="mailto:service@stratfor.com">service@stratfor.com</a>
+</ul>
+<p>
+<b>COMMENTS AND QUESTIONS</b>
+</p><p>
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+</p><p>
+</p><ul>
+Attn: Marketing Department<br>
+Stratfor<br>
+700 Lavaca Street<br>
+Suite 900<br>
+Austin, Texas 78701<br>
+<a href="mailto:marketingdept@stratfor.com">marketingdept@stratfor.com</a>
+</ul>
+<p>
+If you have any questions, comments, or concerns about this Privacy Statement, please contact us at <a href="mailto:privacy@stratfor.com">privacy@stratfor.com</a>.
+</p><p>
+</p><hr>
+<p>
+<b>COOKIE-DISCLOSURE STATEMENT</b>
+</p><p>
+We are often asked about our use of cookie technology, which we employ at Stratfor to allow you to move quickly through our site. Below you'll find information describing our most common uses of cookies, which are an inherent part of our production process and have enabled us to better serve you. 
+</p><p>
+<b>What's a cookie?</b>  A cookie is a small file that is sent to your computer by a site's server. A cookie can be a record of your visit to a site, including information such as your User Name, registration information, time of last visit, pages viewed, etc.  Cookies created by the servers of one site can be retrieved only by that site’s servers. Thus, information in Stratfor cookies is not accessible to other sites.
+</p><p>
+<b>Why do you use cookies?</b>  We use cookies to allow you to move quickly through our site. We accomplish this in many ways, using several different cookies. When you first enter Stratfor, for example, we use a test cookie to confirm your browser's ability to retain cookies. Other cookies that you will receive during your sessions are from third-party service providers or third-party network advertisers. These network advertisers may use their own cookies in order to serve ads on our Web sites, ensuring you won't see the same ads over and over again.
+</p><p>
+<b>So, what's in it for me?</b>  Here's a quick rundown of what we see as the biggest advantages of cookies:
+</p><p>
+Faster, more convenient access. We can deliver to you customized information and store your settings more efficiently. 
+Better information. We want to give you features and services in which you're interested. Through the use of cookies, we can determine which features are most popular with subscribers on an aggregate basis and thus better serve your needs by developing new features and services in response to our analysis of subscribers' usage. 
+More efficient ad processing. Cookies enable us to streamline our ad presentations. 
+Will the cookies you send me go away?  Some of our cookies are long term. Some cookies do expire after a short period of time. Remember, cookies are small files (just a few hundred bytes) and won't pose any significant disk-space concerns. You are, of course, free to clear any and all cookies from your hard drive any time you wish. Just search your system for any files named cookies.txt (or similar) and delete them at your discretion.
+</p><p>
+<b>Should I set my browser to not accept cookies or to alert me each time I receive one?</b>
+You certainly could set your browser to alert you each time a cookie is passed to your machine. However, we'd recommend that you turn that feature off, perhaps after using the site for a day or so with it on, once you've seen firsthand how we use this technology. Our use of cookies ultimately helps you have a better experience here. You might find it cumbersome to be alerted to each cookie you'll encounter.
+
+
+
+	</p></td>
 </tr>
 </tbody></table>
-<br>
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="left">
-  <tbody><tr>
-    <td width="110">
-	&nbsp;
-    </td>
-    <td>
-	<table width="100%" "border="0" cellspacing="0" cellpadding="0" align="center">
-	  <tbody><tr>
-	    <td align="center">
-		<font class="FOOTER">
-			<a class="WHITELINK" href="http://www.stratfor.com/"><u>Home</u></a>&nbsp;|&nbsp;
-			<a class="WHITELINK" href="http://www.stratfor.com/channel.php?ID=9"><u>GeoEconomics</u></a>&nbsp;|&nbsp;
-			<a class="WHITELINK" href="http://www.stratfor.com/channel.php?ID=7"><u>GeoPolitics</u></a>&nbsp;|&nbsp;
-			<a class="WHITELINK" href="http://www.stratfor.com/channel.php?ID=8"><u>GeoSecurity</u></a>&nbsp;<br>
-			<a class="WHITELINK" href="http://www.stratfor.com/hotspots.php"><u>HotSpots</u></a>&nbsp;|&nbsp;
-			<a class="WHITELINK" href="http://www.stratfor.com/channel.php?ID=14"><u>WorldView</u></a>&nbsp;|&nbsp;
-			<a class="WHITELINK" href="http://www.stratfor.com/forecasts.php"><u>Forecasts</u></a>&nbsp;|&nbsp;
-			<a class="WHITELINK" href="http://www.stratfor.com/specialreports.php"><u>Special Reports</u></a>&nbsp;<br>
-			<a class="WHITELINK" href="http://www.stratfor.com/house/aboutus.php"><u>About STRATFOR</u></a>&nbsp;|&nbsp;
-			<a class="WHITELINK" href="http://www.stratfor.com/house/about/consulting.php"><u>Consulting</u></a>&nbsp;|&nbsp;
-			<!-- a class=WHITELINK href="http://www.stratfor.com/media/index.php"><u>Media</u></a>&nbsp;|&nbsp; -->
-			<a class="WHITELINK" href="http://www.stratfor.com/house/about/member_service.php"><u>Customer Service</u></a>&nbsp;|&nbsp;	
-			<a class="WHITELINK" href="http://www.stratfor.com/house/about/subscriptions/individual.php"><u>Individual Subscriptions</u></a>&nbsp;|&nbsp;<br>
- <a class="WHITELINK" href="http://www.stratfor.com/house/about/subscriptions/enterprise.php"><u>Multi User and Corporate Subscriptions</u></a>&nbsp;|&nbsp;                    
-			<a class="WHITELINK" href="http://www.stratfor.com/house/aboutus.php#contactus"><u>Contact Us</u></a>&nbsp;|&nbsp;
-			<a class="WHITELINK" href="http://www.stratfor.com/sitemap.php"><u>Site Map</u></a><br>
-			<br><b>Copyright 2002 Strategic Forecasting LLC.  All rights reserved.</b><br>
-			<a class="WHITELINK" href="http://www.stratfor.com/terms.php"><u>Terms of Use</u></a>&nbsp;|&nbsp;
-			<a class="WHITELINK" href="http://www.stratfor.com/privacy.php"><u>Privacy Policy</u></a>
-			<br><br>
-		</font>
-	    </td>
-	  </tr>
-	</tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<br><br>
-<!-- Image maps --> 
-
-<map name="Map">
-  <area shape="rect" coords="3,1,59,13" href="http://www.stratfor.com/house/about/consulting.php" alt="Consulting">
-  <area shape="rect" coords="65,2,122,14" href="http://www.stratfor.com/house/aboutus.php" alt="About Us">
-  <area shape="rect" coords="125,1,186,14" href="http://www.stratfor.com/house/about/subscriptions/single.php" alt="Subscribe">
-</map>
-<map name="Map2">
-   <area shape="rect" coords="6,8,198,60" href="http://www.stratfor.com/" alt="STRATFOR.com, Strategic Forecasting">
-</map>
-<map name="MapErrorL">
-	<area shape="rect" coords="55,8,247,59" href="http://www.stratfor.com/" alt="STRATFOR.com, Strategic Forecasting">
-</map>
-<map name="MapErrorR">
-	<area shape="rect" coords="367,50,495,61" href="http://www.stratfor.com/tour/" alt="Take Our Free Site Tour">
-</map>
-
-<map name="MapHotSpots">
-	<area shape="rect" coords="315,105,386,123" href="#" onclick="window.open('/hotspots/hotspot_afgh/hotspot_afghanistan.htm', 'newwin', config=
-'scrollbars=yes,height=420,width=620,toolbar=no,menubar=no,resizable=no,status=no,directories=no')" alt="Afghanistan">
-	<area shape="rect" coords="237,106,295,129" href="#" onclick="window.open('/hotspots/hotspot_me/hotspot_meaf.htm', 'newwin', config=
-'scrollbars=yes,height=420,width=620,toolbar=no,menubar=no,resizable=no,status=no,directories=no')" alt="The Middle East">
-</map>
-<a name="bottom"></a>
-
-<!-- #EndTemplate --> 
+<p id="copyright" align="center">
+© 2005 Strategic Forecasting Inc. All rights reserved.<br>
+<a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+</p>
+</div>
 
 
 </body></html>
