@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingone.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603014747id_/http%3A//racingone.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingone.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201165817id_/http%3A//racingone.com/privacy.asp) for the most accurate reproduction.*
 
 # NASCAR, Auto Racing News, RacingOne.com, Formula One, NASCAR Winston Cup, Stock Cars, Drag Racing
 
@@ -57,7 +57,7 @@ We also send the user site and service announcement updates. Members are not abl
 If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support.
 
 **Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. [Click here to unsubscribe](https://web.archive.org/web/20010603014747id_/http%3A//racingone.com/unsubscribe.asp).
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. [Click here to unsubscribe](https://web.archive.org/web/20011201165817id_/http%3A//racingone.com/unsubscribe.asp).
 
 Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at support@racingone.com. Please note that by removing your name from the newsletter database, you may be inelligble for certain promotions and other offers.
 
