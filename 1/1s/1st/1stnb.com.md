@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stnb.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601080240id_/http%3A//www.1stnb.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stnb.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812012545id_/http%3A//1stnb.com/general/privacy.php) for the most accurate reproduction.*
 
 # First National Bank Texas
 
