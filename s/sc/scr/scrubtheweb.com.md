@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604104742id_/http%3A//scrubtheweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2001-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010805141617id_/http%3A//scrubtheweb.com/privacy.html) for the most accurate reproduction.*
 
 # Scrub The Web Privacy Policy
 
