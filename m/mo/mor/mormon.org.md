@@ -1,43 +1,42 @@
-> *The following text is extracted and transformed from the mormon.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401112810id_/http%3A//www.mormon.org/book/0%2C9768%2C1652-1%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormon.org privacy policy that was archived on 2003-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031225021318id_/http%3A//www.mormon.org/book/0%2C9768%2C1652-1%2C00.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Mormon.org - Privacy policy
 
-We are very sensitive to concerns about the privacy of users who visit this site. The following is a list of frequently asked questions about our privacy policy:
+Privacy Policy
 
-**Do you track the activity of individual users on this site?**
+We are very sensitive to the privacy of Internet users who visit this site. The following list of frequently asked questions will help you understand our privacy policy: 
 
-No.   
-**  
-Do you use cookies to store information about users?**
+**Do I have to give personal information about myself in order to view the site?**  
+No. You can visit the site without telling us who you are or giving other personal information. If you choose to request a free video or book, you will be asked to provide your name and address in order for the item to be delivered. We regard this information as confidential and use it only for the purpose of sending you the item. 
 
+**What are “cookies?” Do you use them?**  
+A cookie is a small text file that is stored on your browser when you visit a Web site. A cookie does not identify you personally; it simply identifies your browser and tracks the settings, preferences, or features you choose on a particular site. When you return to the site, your browser sends the cookie to the Web server. A cookie is not harmful to your computer in any way. It cannot be used to spread viruses, nor can it read your hard drive to find out information about you. It is a text file that you can delete at any time. 
+
+In our continuing efforts to improve users’ site experience, we use cookies to help us provide pages and features that are most compatible with your browser and that match your preferences. 
+
+**Do you log user IP addresses?**  
+Yes. When users request pages from this site, our servers log their current IP address. An IP address is a number that is automatically assigned to a computer whenever it accesses the Internet. As with other logging devices, any information gathered in this manner may be used to improve site administration. 
+
+**Do you use statistical tracking software to record the activity of site visitors?**  
+Yes. The Church has contracted with Omniture, a third party, to track and analyze usage and volume statistical information from our site. Please note that Omniture does not collect personal information from our visitors, only general summaries of site activities. This information is owned by the Church and is used only to improve the site’s quality. 
+
+**If I ask a question, will you put my name on an e-mail list?**  
+No, not unless you specifically request to be placed on a mailing list.
+
+**If I request a free offer will you put my name on an e-mail list?**  
+Yes. We occasionally send emails to announce additional free offers.
+
+**If I send or receive an online greeting card, will my e-mail address be stored and used for other purposes?**  
+No. The e-mail addresses of both the sender and the recipient are deleted as soon as the card is sent.
+
+**Do you sell personal information gathered on this site to other organizations?**  
 No.
 
-**Do you log user IP addresses?**
+**Do you collect personal information from children?**  
+We do not knowingly collect information from children under 18. They are advised to get permission from their parents before they send any information about themselves or others.
 
-Yes. When users request pages from this site, our servers log their current IP address. An IP address is a number that is automatically assigned to a computer whenever it accesses the Internet. Any information gathered in this manner may be used to improve site administration.  
-**  
-Do you use statistical tracking software on the site?**
+**How do you protect personal information provided by visitors?**  
+This site has industry-standard security measures in place to protect against the loss, misuse, or unauthorized alteration of the information under our control. However, because no security measures are foolproof, we cannot guarantee that information will not be lost or misused. 
 
-Yes. As with most sites, we log aggregate usage statistics. This data is analyzed using statistical software designed to identify overall usage trends and issues. It does not identify individual users.  
-**  
-If I ask a question or make a request, will you put my name on an email mailing list?**
+**Please check this privacy policy frequently to view changes. We reserve the right, at our discretion, to change, modify, add, or remove portions of this privacy policy at any time.**  
 
-No, unless you specifically request to be placed on a mailing list.
-
-**If I send or receive an online greeting card, will my email address be stored and used for other purposes?**
-
-No. The email addresses of both the sender and the receiver are deleted as soon as the card is sent.
-
-**Do you sell personal information gathered on this site to other organizations?**
-
-No.  
-**  
-Do you collect personal information from children?  
-**  
-We do not knowingly collect information from children under 18. They are advised to get permission from their parents before they send any information about themselves or others.  
-**  
-How do we protect personal information that is provided by visitors?**
-
-This site has security measures in place to help protect against the loss, misuse, and unauthorized alteration of the information under our control. However, because no security measures are foolproof, we cannot guarantee that information will not be lost or misused.  
-**  
-Please check the Privacy policy frequently to view changes. We reserve the right, at our discretion, to change, modify, add, or remove portions of the Privacy policy at any time.**
