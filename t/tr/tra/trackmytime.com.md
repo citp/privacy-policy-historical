@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackmytime.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204211555id_/http%3A//www.trackmytime.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackmytime.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610194604id_/http%3A//www.trackmytime.com/Privacy.asp) for the most accurate reproduction.*
 
 # TrackMyTime.com
 
