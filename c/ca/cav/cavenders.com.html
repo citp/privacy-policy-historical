@@ -1,12 +1,28 @@
-<!--The following is the downloaded HTML source of the cavenders.com privacy policy that was archived on 2001-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011214072706id_/http%3A//www.cavenders.com/privacy.asp%3F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cavenders.com privacy policy that was archived on 2002-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603155009id_/http%3A//www.cavenders.com/privacy.asp%3F) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Privacy and Security</title>
 	<script language="JavaScript" src="rollover.js"></script>
-	<link rel="stylesheet" type="text/css" href="styles/user_text.css">
+    <script language="JavaScript">
+    <!--
+		function popUp(url) {
+		sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+		self.name = "mainWin";
+		}
+    //-->
+	</script>
 </head>
 <body topmargin="8" leftmargin="10" bgcolor="White">
+<script language="JavaScript">
+<!--
+function popUp(url) {
+sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=285,height=355');
+self.name = "mainWin";
+}
+//-->
+</script>
+
 <img src="Images/header.jpg" alt="" border="0" usemap="#navmap" width="748" height="100">
 <map name="navmap">
 <area alt="Home" coords="175,11,376,77" href="http://www.cavenders.com/default.asp?" shape="RECT">
@@ -15,14 +31,12 @@
 <area alt="Checkout" coords="579,25,650,42" href="https://www.cavenders.com/shipping.asp?" shape="RECT">
 <area alt="Specials" coords="654,25,719,42" href="specials.asp?specials=1" shape="RECT">
 <area alt="Search" coords="388,47,451,65" href="http://www.cavenders.com/find.asp?" shape="RECT">
-<!--<area alt="Account Settings" coords="456,47,574,65" href="http://www.cavenders.com/shopper_lookup.asp?" shape="RECT">-->
 <area alt="Account Settings" coords="456,47,574,65" href="https://www.cavenders.com/account.asp?" shape="RECT">
 <area alt="Site Map" coords="579,47,650,65" href="http://www.cavenders.com/sitemap.asp?" shape="RECT">
 <area alt="Help" coords="654,47,719,65" href="http://www.cavenders.com/help.asp?" shape="RECT">
 </map>
 
-
-<table width="733" border="0" cellspacing="0" cellpadding="0">
+<link rel="stylesheet" type="text/css" href="styles/user_text.css"><table width="733" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 	<td width="150" valign="top">
 		 
@@ -35,7 +49,7 @@ function popUpEmail(form){
 		return false;
 	}else{		
 		email = form.email.value;
-		if (confirm("Is this your email address: " + email + "\nIf not please click cancel and correct your email address.")){			
+		if (confirm("Is this your email address: " + email + " ?\nIf not please click cancel and correct your email address.")){			
 			url = "new_email.asp?new=" + email;
 			sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,width=275,height=300');
 			self.name = "mainWin";
@@ -59,11 +73,6 @@ function popUpEmail(form){
 		font-family : Arial, Helvetica, sans-serif;
 		font-size : 8pt;
 	}
-	td {
-		color : #8B0000;
-		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
-		font-size : 8pt;text-decoration : none;
-	}
 	Input {
 		font-family : Arial, Helvetica, sans-serif;
 		font-size : 8pt;
@@ -79,7 +88,7 @@ function popUpEmail(form){
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
 		<form action="default.asp" method="post" name="email_form" id="email_form" onsubmit="return popUpEmail(this)"></form>
 		
-			<td><table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td colspan="2">Signup to get hot deals and exclusive offers, enter E-mail address:</td></tr><tr><td valign="center"><input type="text" name="email" size="16" maxlength="50"> </td><td valign="center" align="center" width="25%"><input type="image" name="go_button" src="images/go-button.gif" alt="Go!" onclick="return popUpEmail(this.form)" width="21" height="21"></td></tr></tbody></table></td>
+			<td><table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td colspan="2" style="color:#8B0000;font-family:Verdana,Geneva,Arial,Helvetica,sans-serif;font-size:8pt;text-decoration:none;">Signup to get hot deals and exclusive offers, enter E-mail address:</td></tr><tr><td valign="center"><input type="text" name="email" size="16" maxlength="50"> </td><td valign="center" align="center" width="25%"><input type="image" name="go_button" src="images/go-button.gif" alt="Go!" onclick="return popUpEmail(this.form)" width="21" height="21"></td></tr></tbody></table></td>
 		
 		
 	</tr>	
@@ -167,7 +176,7 @@ function popUpEmail(form){
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
 		<form action="BrandProducts.asp" method="post" name="Main"></form>
 		<td>
-			<select name="vendor" size="1" onchange="this.form.submit()">
+			<select name="vendor" size="1" onchange="this.form.submit()" style="font-family:Arial,Helvetica,sans-serif;font-size:8pt;">
 				<option value="0" selected="">Select a Brand</option>
 	
 				<option value="21">Ariat®                                            </option>
@@ -188,15 +197,17 @@ function popUpEmail(form){
 	
 				<option value="32">Eddy Bros®                                        </option>
 	
+				<option value="137">Harley Davidson Boots                             </option>
+	
+				<option value="136">Justin :03.1                                      </option>
+	
 				<option value="33">Justin®                                           </option>
 	
 				<option value="34">Laredo®                                           </option>
 	
 				<option value="125">Larry Mahan® Boots                                </option>
 	
-				<option value="126">Lucchese® 2000                                    </option>
-	
-				<option value="127">Lucchese® Classics                                </option>
+				<option value="38">Lucchese®                                         </option>
 	
 				<option value="64">Milano® Hat                                       </option>
 	
@@ -208,6 +219,8 @@ function popUpEmail(form){
 	
 				<option value="48">Scully-Wahmaker®                                  </option>
 	
+				<option value="74">Sierra Pacific®                                   </option>
+	
 				<option value="50">Stetson®                                          </option>
 	
 				<option value="54">Tony Lama®                                        </option>
@@ -215,6 +228,8 @@ function popUpEmail(form){
 				<option value="110">Vogt®                                             </option>
 	
 				<option value="57">Wolverine®                                        </option>
+	
+				<option value="83">Wrangler 20X™                                     </option>
 	
 				<option value="61">Wrangler®                                         </option>
 	
@@ -228,6 +243,10 @@ function popUpEmail(form){
 	</tr>
 	<tr>
 		<td colspan="2"><img src="Images/cav_info.gif" border="0" alt="" width="160" height="30"></td>
+	</tr>
+	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td align="left"><a href="http://www.cavenders.com/fitchart.asp?">Fit Chart</a></td>
 	</tr>
 	<tr>
 		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
@@ -274,11 +293,19 @@ function popUpEmail(form){
 		<td align="left"><a href="http://www.cavenders.com/faqlist.asp?">FAQ</a></td>
 	</tr>
 	<tr>
+		<td><img src="Images/transparent.gif" width="4" height="1" border="0" alt=""></td>
+		<td>
+			<a href="javascript:popUp('https://digitalid.verisign.com/as2/58d40f85bda097dfc94a19e8d4b85aa4')">
+			<img src="Images/verisign_seal.gif" width="98" height="100" border="0"></a>
+		</td>
+	</tr>
+	<tr>
 		<td colspan="2"><img src="Images/leather_bottom.jpg" border="0" alt="" width="160" height="74"></td>
 	</tr>
 </tbody></table>
 
 	</td>
+	
 	<td valign="top">
 	<table width="90%" border="0" align="center">
 		<tbody><tr>
@@ -292,7 +319,7 @@ function popUpEmail(form){
 		<tr>
 			<td>
 				Cavenders.com does not share, sell or trade e-mail addresses. Except to verify credit card information to complete your order, we do not use or release any credit card or financial information for any purpose. We may use customer information for marketing and promotional purposes. For privacy purposes, all information relating to our customers is stored on a highly secure server that is not accessible via the Internet.<br><br>
-				E-mails from us regarding special offers and promotions are optional. To be removed from the e-mail list, <a href="https://www.cavenders.com/unsubscribe.asp?" style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; text-decoration: underline;">click here</a>.<br><br>
+				E-mails from us regarding special offers and promotions are optional. To be removed from the e-mail list, <a href="https://www.cavenders.com/unsubscribe.asp?" style="font-family:Arial,Helvetica,sans-serif; font-size:10pt; text-decoration:underline;">click here</a>.<br><br>
 			</td>
 		</tr>
 		<tr>
@@ -300,7 +327,17 @@ function popUpEmail(form){
 		</tr>
 		<tr>
 			<td>
-				The security of your credit card and personal information is a top priority at Cavenders.com. We strive to make your online shopping experience an enjoyable one by assuring you a secure transaction at any time of day or night, 365 days a year! When you place an order with us online, your order information is protected using Secure Sockets Layer (SSL) technology, which encrypts all personal information before it is transmitted over the Internet. You can rest assured that your transaction is confidential and secure.<br><br>
+				<table>
+				<tbody><tr>
+				<td>
+					The security of your credit card and personal information is a top priority at Cavenders.com. We strive to make your online shopping experience an enjoyable one by assuring you a secure transaction at any time of day or night, 365 days a year! When you place an order with us online, your order information is protected using Secure Sockets Layer (SSL) technology, which encrypts all personal information before it is transmitted over the Internet. You can rest assured that your transaction is confidential and secure.<br><br>
+				</td>
+				<td>
+					<a href="javascript:popUp('https://digitalid.verisign.com/as2/58d40f85bda097dfc94a19e8d4b85aa4')">
+					<img src="Images/verisign_seal.gif" width="98" height="100" border="0"></a>
+				</td>
+				</tr>
+				</tbody></table>
 			</td>
 		</tr>
 	</tbody></table>
