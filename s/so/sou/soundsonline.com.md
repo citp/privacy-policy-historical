@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundsonline.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205115047id_/http%3A//www.soundsonline.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundsonline.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604035900id_/http%3A//www.soundsonline.com/privacy.shtml) for the most accurate reproduction.*
 
 # SOUNDS ONLINE | Privacy Policy
 
