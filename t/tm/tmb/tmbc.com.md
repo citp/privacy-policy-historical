@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmbc.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203070553id_/http%3A//www.dynamiz.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmbc.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605123907id_/http%3A//www.dynamiz.net/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
@@ -28,4 +28,4 @@ We respect your privacy! Any and all information collected at this site will be 
 **  
 **PGP encrypted email encouraged:****
 
-> We encourage the use of encryption to communicate with the Online Privacy Alliance. You can find a copy of our [PGP public key here](https://web.archive.org/web/20021203070553id_/http%3A//www.dynamiz.net/dynamiz_networks_key.txt). 
+> We encourage the use of encryption to communicate with the Online Privacy Alliance. You can find a copy of our [PGP public key here](https://web.archive.org/web/20030605123907id_/http%3A//www.dynamiz.net/dynamiz_networks_key.txt). 
