@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005232916id_/http%3A//stats.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stats.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607005447id_/http%3A//stats.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # STATS, Inc.
 
@@ -50,7 +50,7 @@ STATS uses reasonable administrative, technical, personnel and physical measures
 
 **ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII**
 
-You may contact STATS via e-mail at helpdesk@stats.com or via fax at (847) 470-9140 in order to obtain information on how to review your PII and correct and/or delete such PII from STATS' database. 
+You may contact STATS via e-mail at support@stats.com or via fax at (847) 470-9140 in order to obtain information on how to review your PII and correct and/or delete such PII from STATS' database. 
 
 **REMEDIES AND COMPLIANCE: HOW TO CONTACT STATS ABOUT PRIVACY CONCERNS**
 
