@@ -1,11 +1,19 @@
-> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607061359id_/http%3A//www.debshops.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601153933id_/http%3A//www.debshops.com/home/Privacy.asp) for the most accurate reproduction.*
 
-# Debshops.com Privacy
+# Debshops.com Fashion
 
   
-**debshops.com Privacy Policy**
-
- ******
+[](https://web.archive.org/Home/default.asp) [](https://web.archive.org/Home/Contact.asp)   
+| [](https://web.archive.org/fashion/)  
+---  
+|  C'mon and get groovy, girl.  Check out our funky fashions in junior and plus styles.   
+[](https://web.archive.org/info)  
+|  Where is DEB? What is DEB? Get all of these answers and more.   
+[](https://web.archive.org/StoreLocator)  
+|  So, you want to see it all? Use our handy - dandy - fancy - shmancy locator and find a DEB near you.   
+|    
+  
+**debshops.com Privacy Policy** **
 
 1\. General.
 
