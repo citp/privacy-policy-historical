@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604060054id_/http%3A//www.thatsmelbourne.com.au/content.asp%3FDocument_ID%3D2000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011202206id_/http%3A//www.thatsmelbourne.com.au/content.asp%3FDocument_ID%3D2000) for the most accurate reproduction.*
 
 # That's Melbourne -
 
