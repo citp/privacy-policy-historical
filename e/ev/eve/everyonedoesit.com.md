@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208075025id_/http%3A//www.everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyonedoesit.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308195253id_/http%3A//www.everyonedoesit.com/about_EDIT/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,11 +33,7 @@ We do not share any personal data with any 3rd part organisation or institution,
 External websites   
 This privacy policy covers the usage of EveryoneDoesIT.com only. Where we have linked to external sites, a different privacy policiy may apply.
 
-| 
-
-[](https://web.archive.org/christmas_gift_ideas)
-
-|  |  |   
+|  |  |  |   
 ---|---|---  
 | 
 
@@ -48,7 +44,7 @@ This privacy policy covers the usage of EveryoneDoesIT.com only. Where we have l
   
 Password  
   
-Remember Me[](https://web.archive.org/web/20041208075025id_/http://www.everyonedoesit.com/about_EDIT/privacy_statement/return%20false;)
+Remember Me[](https://web.archive.org/web/20050308195253id_/http://www.everyonedoesit.com/about_EDIT/privacy_statement/return%20false;)
 
 The **Remember Me** feature is an automatic login process which creates a cookie on your computer containing your login ID, thereby avoiding the need to enter your login details upon subsequent visits to **EveryoneDoesIT**. For more information read our [Privacy Statement](https://web.archive.org/about_EDIT/privacy_statement/).
 
@@ -104,6 +100,4 @@ Display Currency:
 
 |   
 |  [](http://www.bodyjewelleryshop.com/) |   
-|  |   
-  
-[](http://www.webtraderuk.org.uk/)
+|  | 
