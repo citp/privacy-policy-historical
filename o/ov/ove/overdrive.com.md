@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630191642id_/http%3A//overdrive.com/contact/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207203309id_/http%3A//www.overdrive.com/contact/privacy.asp) for the most accurate reproduction.*
 
 # OverDrive, Inc. -- Privacy Statement
 
