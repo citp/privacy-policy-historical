@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204025739id_/http%3A//www.clickatell.com/brochure/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405185801id_/http%3A//www.clickatell.com/brochure/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Clickatell Bulk SMS Gateway
 
-#### Clickatell Privacy Policy
+###  Clickatell Privacy Policy
 
 **PLEASE READ THIS AGREEMENT CAREFULLY**
 
