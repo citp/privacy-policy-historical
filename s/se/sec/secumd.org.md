@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216111225id_/http%3A//www.secumd.org/html/aboutus/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210162712id_/http%3A//www.secumd.org/html/security_privacy/privacy_policy.htm) for the most accurate reproduction.*
 
-# SECU Credit Union | About Us, Privacy Statement
+# SECU Credit Union | Security/Privacy: Privacy Policy
 
-  
 **SECU Privacy Policy Notice**
 
 **SECU Member's Right to Privacy and Confidentiality   **
