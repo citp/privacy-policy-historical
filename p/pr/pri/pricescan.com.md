@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the pricescan.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206071151id_/http%3A//www.pricescan.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricescan.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209154343id_/http%3A//www.pricescan.com/privacy.asp) for the most accurate reproduction.*
 
 # PriceSCAN Privacy Policy
 
 **PRIVACY POLICY**  
 PriceSCAN is committed to keeping any information we receive from our users private and secure. We believe that you have a right to know what information we collect, how we intend to use that information, whom we intend to share it with, and what measures we take to keep that information secure.   
+**PriceSCAN Newsletter**  
+PriceSCAN will not sell or publish any e-mail addresses submitted by subscribers to the PriceSCAN Newsletter. All e-mail addresses will be kept strictly confidential.   
 **Type of Information Collected**  
 PriceSCAN users may submit their e-mail addresses to request that an e-mail message be sent to them when an item reaches a specified target price. These addresses are maintained in our database until the one-time message is sent, and for some time afterwards (not more than 60 days).   
 E-mail addresses submitted to "Recommend This Product" via forms provided on the PriceSCAN website are maintained in the database for a short period of time (not more than 60 days) and are also displayed in the e-mail message which is sent out (to discourage "spamming").   
