@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202172600id_/http%3A//www.huggies.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602193131id_/http%3A//www.huggies.com/privacy.stm) for the most accurate reproduction.*
 
 # HUGGIES Privacy Policy
 
