@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the woolworths.co.uk privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209005312id_/http%3A//www.woolworths.co.uk/ww/content/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworths.co.uk privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207073756id_/http%3A//www.woolworths.co.uk/ww/content/privacy.jhtml) for the most accurate reproduction.*
 
 # WOOLWORTHS - Well Worth It Privacy
 
 |  |  |  |   
 ---|---|---|---|---  
-|  |  |  |  |  |  [](https://web.archive.org/common/category.jhtml?CATID=cat30014)  
+|  |  |  |  |  | [](https://web.archive.org/common/feature.jhtml?fid=feat1230014)  
 ---|---|---  
 |   
 |  **  
