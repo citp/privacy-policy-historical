@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209215339id_/http%3A//frontgatetickets.com/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2005-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050219093656id_/http%3A//www.frontgatetickets.com/corp/privacy.php) for the most accurate reproduction.*
 
 # Front Gate Tickets : Privacy Policy
 
@@ -15,7 +15,7 @@ This privacy statement covers the site http://www.frontgatetickets.com.  Becaus
   7. What types of security procedures are in place to protect the loss, misuse or alteration of information under Front Gate Tickets control. 
   8. How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should contact Front Gate Tickets Customer Assistance by using the [contact form here](https://web.archive.org/corp/contact.php?SNIX=fcfc3657ae2fbb566ef3b0623cee2c78), call us at (512) 389-0315, or send an email to [hello@frontgatetickets.com](https://web.archive.org/web/20041209215339id_/http%3A//frontgatetickets.com/corp/hello@frontgatetickets.com?SNIX=fcfc3657ae2fbb566ef3b0623cee2c78). 
+If users have questions or concerns regarding this statement, they should contact Front Gate Tickets Customer Assistance by using the [contact form here](https://web.archive.org/corp/contact.php?SNIX=056bbae900df74922908fe0e2e0513f2), call us at (512) 389-0315, or send an email to [hello@frontgatetickets.com](https://web.archive.org/web/20050219093656id_/http%3A//www.frontgatetickets.com/corp/hello@frontgatetickets.com?SNIX=056bbae900df74922908fe0e2e0513f2). 
 
   
 Front Gate Solutions, Inc. d/b/a Front Gate Tickets is the sole owner of the information collected on www.frontgatetickets.com. Front Gate Tickets collects information from our users at several different points on our Web site.
@@ -84,4 +84,4 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
 
   
-If users have any questions or suggestions regarding our privacy policy, please use the [contact form here](https://web.archive.org/corp/contact.php?SNIX=fcfc3657ae2fbb566ef3b0623cee2c78), call us at (512) 389-0315, or send an email to [hello@frontgatetickets.com](https://web.archive.org/web/20041209215339id_/http%3A//frontgatetickets.com/corp/hello@frontgatetickets.com?SNIX=fcfc3657ae2fbb566ef3b0623cee2c78).
+If users have any questions or suggestions regarding our privacy policy, please use the [contact form here](https://web.archive.org/corp/contact.php?SNIX=056bbae900df74922908fe0e2e0513f2), call us at (512) 389-0315, or send an email to [hello@frontgatetickets.com](https://web.archive.org/web/20050219093656id_/http%3A//www.frontgatetickets.com/corp/hello@frontgatetickets.com?SNIX=056bbae900df74922908fe0e2e0513f2).
