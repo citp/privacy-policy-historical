@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hospitalitynet.org privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412030141id_/http%3A//www.hospitalitynet.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hospitalitynet.org privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003200713id_/http%3A//www.hospitalitynet.org/privacy.html) for the most accurate reproduction.*
 
 # Hospitality Net - Privacy Statement
 
