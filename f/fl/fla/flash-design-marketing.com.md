@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flash-design-marketing.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605172645id_/http%3A//www.russian-brides-link.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flash-design-marketing.com privacy policy that was archived on 2004-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040810100448id_/http%3A//www.russian-brides-link.com/privacy.html) for the most accurate reproduction.*
 
 # Russian Brides Link: Policy Privacy to order Russian Brides contact info
 
