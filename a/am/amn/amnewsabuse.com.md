@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnewsabuse.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603150620id_/http%3A//www.amnewsabuse.com/aaprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnewsabuse.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813154056id_/http%3A//www.amnewsabuse.com/aaprivacy.htm) for the most accurate reproduction.*
 
 # AM News Abuse Privacy Policy
 
