@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 1999-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991012065335id_/http%3A//apartments.com/LegalInfo.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2000-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000506133110id_/http%3A//apartments.com/LegalInfo.htm) for the most accurate reproduction.*
 
 # Apartments.com Legal Information and Privacy Policy
 
-| **Legal Infomation and Privacy Policy**
+| 
+
+**Legal Information and Privacy Policy**
 
 **DISCLAIMER**
 
@@ -26,7 +28,7 @@ We will not knowingly accept or permit any advertisement for real estate that is
 
 When it comes to buying, selling or leasing a home or renting an apartment, several state and federal laws were enacted to ensure the equal opportunity in housing for all people. 
 
-The Civil Rights Act of 1866 prohibits all racial discrimination in the sale or rental of property. Moreover, the Fair Housing Act declares a national policy of fair housing throughout the United States, making illegal any discrimination in the sale, lease or rental of housing, or making housing otherwise unavailable, because of race, color, religion, sex, handicap, familial status, or national origin.
+The Civil Rights Act of 1966 prohibits all racial discrimination in the sale or rental of property. Moreover, the Fair Housing Act declares a national policy of fair housing throughout the United States, making illegal any discrimination in the sale, lease or rental of housing, or making housing otherwise unavailable, because of race, color, religion, sex, handicap, familial status, or national origin.
 
 Other laws also impact the purchase, sale or lease of a home or renting an apartment. Title III of the Americans with Disabilities Act prohibits discrimination against persons with disabilities in places of public accommodations and commercial facilities. The Equal Credit Opportunity Act makes discrimination unlawful with respect to any aspect of a credit application on the basis of race, color, religion, national origin, sex, marital status, age or because all or part of the applicant’s income derives from any public assistance program.
 
@@ -42,7 +44,7 @@ As someone seeking to purchase a home or rent an apartment, you have the right t
 
 Despite our zero tolerance policy, much of the information regarding real estate and related matters in this Web Site is provided by third parties or via hyperlink to third party sites. As such, there may be an instance of potential discrimination by these third parties that we are not yet aware of. If you suspect discrimination by one of these sites, please contact our staff at [_feedback@apartments.com_](mailto:feedback@apartments.com)
 
-Complaints alleging discrimination in housing may be filed with the nearest office of the United States Department of Housing and Urban Development (HUD), or by calling HUD’s toll free number, 1-800-699-9777 (voice), or 1-800-543-8294 (TDD).
+Complaints alleging discrimination in housing may be filed with the nearest office of the United States Department of Housing and Urban Development (HUD), or by calling HUD’s toll free number, 1-800-669-9777 (voice), or 1-800-543-8294 (TDD).
 
 You can contact HUD on the internet at _<http://www.hud.gov/fhe/fheo.html>_
 
@@ -94,4 +96,6 @@ In the future, Apartments.com may share your personally identifiable information
 
 This site contains links to other sites. While we encourage our business partners to adopt privacy policies that build users’ trust and confidence in the Internet, we are not responsible for the privacy practices or the content of web sites linked to any of our sites. We may allow third parties to sponsor promotions and sweepstakes through our site. Use of any personal information provided to such a third party will be governed by that party’s privacy policy.
 
-If you have any questions about this privacy statement, please e-mail us at [_feedback@apartments.com_](mailto:feedback@apartments.com)
+If you have any questions about this privacy statement, please e-mail us at [_feedback@apartments.com_](mailto:feedback@apartments.com)  
+  
+---|---
