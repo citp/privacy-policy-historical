@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the free-webmaster-tools.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171927id_/http%3A//www.free-webmaster-tools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-webmaster-tools.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202210916id_/http%3A//www.free-webmaster-tools.com/privacy.html) for the most accurate reproduction.*
 
 # Free Webmaster Tools and Resources - Privacy
 
 **Privacy**
-
-[](http://geekvillage.com/cgi-bin/ads/redirect.cgi/0.8354134641446078)
 
 We respect your privacy. Your Email address and any other data you provide us will never be released to a third party. All our Email lists and Membership forms use the Opt-In model. These Emails always include a procedure and instructions to remove yourself from our lists.
 
