@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the bikemag.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603194730id_/http%3A//www.bikemag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikemag.com privacy policy that was archived on 2004-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041116092945id_/http%3A//bikemag.com/privacy) for the most accurate reproduction.*
 
 # BIKEMAG Privacy Statement
 
-Privacy Statement  
-  
----  
-  
+Privacy Statement
+
 **This Privacy Statement covers the following web sites: Bikemag.com, Snowboardermag.com and Surfermag.com.**
 
 Primedia and its family of consumer publications are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users and subscribers so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please note that some of our websites are subject to separate privacy policies. We encourage you to always check the privacy policy on each website you visit to be sure you understand the privacy policy governing that site. Please read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions.
@@ -161,19 +159,4 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
   * Or you can fax us at (212) 745-0131, Att: Privacy Coordinator 
   * Updated July 30, 2002
 
-
-
-  
-  
-  
----  
-|    
-During this special online offer, you can get **a TRIAL ISSUE** and receive 7 more (a total of 8 issues) for only $14.97 - **you save over $16 off the cover price!**
-
-If you choose not to subscribe, write cancel on the invoice and keep the free issue--without further obligation! 
-
-Outside the US? [Canada](https://store.primediamags.com/subscribe/bikemag/174/I3KBZD/CAN) or [International](https://store.primediamags.com/subscribe/bikemag/174/I3KBZD/INTL)
-
-|   
-  
 
