@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airportrentalcars.com privacy policy that was archived on 2002-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020707053033id_/http%3A//www.airportrentalcars.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportrentalcars.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605001308id_/http%3A//airportrentalcars.com/privacy.htm) for the most accurate reproduction.*
 
 # Guide To Airport Rental Cars Privacy Statement
 
@@ -10,4 +10,4 @@ Breezenet does not participate in or use any bulk e-mail activities that are con
 **Cookie Policy**   
 BreezeNet does not actively collect "cookie information" to keep track of user preferences etc. Whereas users should be aware that non-personal information and data may be automatically collected through the standard operation of bnm.com's internet servers or through the use of cookies, BreezeNet does not use this information for any marketing schemes and is not knowingly collecting such information. 
 
-**BreezeNet** believes that strong electronic privacy is crucial for the ongoing success of the Internet as a service. If at any time you believe that BreezeNet's Guide to Airport Rental Cars has not adhered to these principles, please notify us by e-mail at [privacy@bnm.com](mailto:privacy@bnm.com)
+**BreezeNet** believes that strong electronic privacy is crucial for the ongoing success of the Internet as a service. If at any time you believe that BreezeNet's Guide to Airport Rental Cars has not adhered to these principles, please notify us by e-mail at [privacy@bnm.com](mailto:info@bnm.com)
