@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222050210id_/http%3A//www.partypoker.com/ppolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135511id_/http%3A//www.partypoker.com/ppolicies.html) for the most accurate reproduction.*
 
 # Enjoy poker action using our free download software. Learn poker games, rank of hands and poker lingo for free
 
-**PRIVACY CODE - Protecting Your Privacy**
+**PRIVACY CODE  
+Protecting Your Privacy**
 
 **Your privacy**
 
