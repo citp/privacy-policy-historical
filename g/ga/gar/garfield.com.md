@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812175850id_/http%3A//www.garfield.com/news/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204005806id_/http%3A//garfield.com/privacy.html) for the most accurate reproduction.*
 
-# The Garfield Gazette
+# Privacy Policy
+
+**Garfield.com/uclick Network Privacy Policies**  
+_Last updated 7.02.2001_
 
 Garfield.com is a general audience entertainment site dedicated to providing the Internet-using public with the most complete and enjoyable online comic viewing experience. Garfield.com is operated by Paws, Incorporated ("Paws"), the company owned by Jim Davis, the creator of "GARFIELD," and uclick, LLC. Paws and uclick are also concerned about your privacy and we encourage you to read our Privacy Policy to learn all about how we use information about visitors to our Web site(s). 
 
-We also encourage you to read our Children's Privacy Policy - it details how we deal with personally identifiable information collected from children 13 years of age or younger. 
+We also encourage you to read our Children's Privacy Policy \- it details how we deal with personally identifiable information collected from children 13 years of age or younger. 
 
 **What does the Garfield.com Privacy Policy cover?**
 
   * This policy covers the treatment and use of personally identifiable information that is collected at Garfield.com. 
   * This policy does not cover information that may or may not be collected by companies or web sites that uclick and Paws do not own or control. This policy also does not guide the behavior of individuals not employed by uclick or Paws. 
-  * What information does Paws and uclick collect and use from Garfield.com? 
-  * Paws and uclick do not sell or provide personally identifiable information collected about you from Garfield.com. 
+  * What information does Paws and uclick collect and use from Garfield.com?
   * Garfield.com collects personally identifiable information when (i) you register for a Garfield.com account (the extent of the information collected depends upon what you provide during the registration process), (ii) when you use certain Garfield.com services, (iii) when you make purchases from Garfield.com-controlled or affiliated online stores and e-commerce sites and (iv) if you enter any special promotions or contests provided by Garfield.com for its users. 
   * When necessary to allow you to register, use services, or participate in activities at Garfield.com, we may ask for your name, e-mail address, birth date, gender, zip code, occupation, interests and other biographic data to assist us in personalizing your Garfield.com experience, and for other purposes disclosed by these policies or disclosed at the time that you submit personally identifiable information. 
   * Garfield.com also receives certain information automatically from our computer network and servers, including your IP address, certain "cookie" information, server log information and information that details which Garfield.com pages have been requested by your browser. 
@@ -26,7 +28,7 @@ We also encourage you to read our Children's Privacy Policy - it details how we 
 \- We are investigating actions by users whose actions violate our Terms of Service and Conditions of Use or any other guideline or rule we have established that controls the use of our service or products
 
 
- 
+
 
 **Collection and Use of Computer-Generated Information**
 
@@ -35,17 +37,19 @@ We also encourage you to read our Children's Privacy Policy - it details how we 
   * Paws and uclick will use server logs to track your movement through our Web sites and properties - in addition, we will use this information to customize the user experience or provide registrant continuity between our various Web sites and properties. 
   * We may also use other technologies to verify and track your use of certain services, confirm receipt of certain e-mailed products or to test the integrity of our systems, products and services. 
 
+
+
 **Third Party Advertising**
 
   * The ads appearing on this Web site are delivered to you by our Web advertising partners. Information about your visit to this site, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, one of our partners, cookies, and how to "opt-out," please click here. <http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp>
 
-**Third Party Cookies**
 
-  * In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 **Opt-Out of Advertising**
 
   * This opt-out feature removes the cookie from your browser associated with a particular network advertiser's online preference marketing practices; it does not delete other cookies placed by network advertisers, such as those that are used for aggregate ad reporting or mere ad serving purposes. Such cookies allow network advertisers to rotate ad banners sequentially and track aggregate numbers of impressions. Visit [the NAI web site](http://www.networkadvertising.org/optout_nonppii.asp) and follow the instructions to opt-out. 
+
+
 
 **How much control will you have over your account information?**  
 
@@ -53,10 +57,14 @@ We also encourage you to read our Children's Privacy Policy - it details how we 
   * Paws and uclick will provide you with the ability to edit your Garfield.com account, registration and preference information. We will also give you the option of whether you wish to receive marketing and products information from us excluding the marketing information connected with products or services specifically requested by you. For example, if you request to receive a daily Garfield comic via e-mail delivery we will, at your request attach certain marketing or advertising information to the comic you receive. 
   * You will have the ability to request the deletion of your Garfield.com registration at any time by utilizing the registration system established for this purpose. However, we may maintain certain other information as part of our internal processes to prevent accidental loss of user data or information and to prevent or discourage fraudulent activities that may involve Garfield.com registration or account information. We may also continue to maintain information about your Garfield.com registration or account and your computer access to our Web sites or services as part of our server logs. 
 
+
+
 **Security**
 
   * Paws and uclick utilize access passwords at our Web sites and other properties to help maintain your privacy and security. 
   * In certain other areas Paws and uclick may use certain other industry-standard security measures, techniques and technologies to protect the integrity of data transmissions. 
+
+
 
 **Third Party Online Affiliates.**
 
@@ -64,7 +72,7 @@ In addition, there are unrelated companies that have a presence on garfield.com 
 
 This service is brought to you by [Legal Name of Company]. This service, and any information you voluntarily provide by way of registration or otherwise, is subject to the terms of use and privacy policies of [Legal Name of Company]. 
 
-Currently, here are the parties operating on one of our sites:
+Currently, here are the parties operating on one of our sites: 
 
 E-Garfield  
 (Description: online mail program)  
@@ -97,6 +105,8 @@ This policy, in addition to the Garfield.com and uclick Privacy Policy, covers t
   * Paws and uclick may require that children under the age of 13 provide the same information required of all other users to establish a Garfield.com user account, including first and last name, e-mail address, birth date, zip code and personal interests. Paws and uclick uses this information to personalize the user experience, maintain account integrity and accounting, and to provide customized marketing and advertising information to our users. 
   * At no time will Paws or uclick, require that a child under 13 years of age, as a condition of participation in an activity or to utilize our products or services, provide more information than is reasonably necessary. This is a requirement of the Children's Online Privacy Protection Act (COPPA). Paws and uclick, strictly abide by this requirement. 
 
+
+
 **Disclosure of Information to Others**
 
   * Paws and uclick, will not sell or rent the personally identifiable information about children under 13 years of age to anyone. 
@@ -107,10 +117,14 @@ This policy, in addition to the Garfield.com and uclick Privacy Policy, covers t
 \- Explicit permission has been granted by a child's parent or legal guardian. 
 
 
+
+
 **Deleting and Updating Information**
 
   * Users under the age of 13 will have the ability to delete or update information that is part of their Garfield.com Web site account. In addition, the parents or legal guardians of children under the age of 13 will have the ability review, edit and delete information relating to their child's Garfield.com account at any time. 
   * Parents and legal guardians can send e-mail or contact Garfield.com or uclick via the information below to stop the collection or use of information about their children by Garfield.com and uclick. 
+
+
 
 **Contacting Paws and uclick about Children's Privacy or to Control a child's access**
 
@@ -120,3 +134,5 @@ Attn: Children's Privacy
 Kansas City, MO 64111
 
 [webmaster@ucomics.com](mailto:webmaster@ucomics.com?Subject=GarfieldPrivacy)
+
+© 2004 Paws. All Rights Reserved.
