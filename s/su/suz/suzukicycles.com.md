@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212015511id_/http%3A//www.suzukicycles.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403163133id_/http%3A//www.suzukicycles.com/Privacy) for the most accurate reproduction.*
 
 # The Official Site of Suzuki® Motorcycles, Quadrunner ATVs and Scooters
 
@@ -18,15 +18,17 @@ American Suzuki Privacy and Use Policy
 
 
 
-Suzuki understands your concern with privacy and the collection and use of your personal information while visiting or interacting with the Suzuki.com Website. This document describes the policy of American Suzuki Motor Corporation (hereafter "Suzuki") regarding information received about you during visits to the Suzuki Website. The amount and type of information which we receive depends on how you use the site.
+Suzuki understands your concern with privacy and the collection and use of your personal information while visiting or interacting with the Suzuki.com Website. This document describes the policy of American Suzuki Motor Corporation (hereafter "Suzuki") regarding information received about you during visits to the Suzuki Website. The amount and type of information which we receive depends on how you use the site. 
 
-This Online Privacy and Use Policy was last updated on 11/01/04. For future updates to this Online Privacy and Use Policy please book mark this page and check back or send an e-mail to [privacy@suzuki.com](mailto:privacy@suzuki.com) with the words "requesting notification of privacy policy updates" in both the subject line and body of the email.
+This Online Privacy and Use Policy was last updated on 01/27/05. The prior update occurred 11/01/04. For future updates to this Online Privacy and Use Policy please book mark this page and check back or send an e-mail to [privacy@suzuki.com](mailto:privacy@suzuki.com) with the words "requesting notification of privacy policy updates" in both the subject line and body of the email.
 
 Back To Top
 
 Limitation on Scope of Content
 
 The Suzuki Website contains information regarding Suzuki and its products and promotional programs. The Suzuki vehicles described in this site contain uniquely American specifications and equipment and are offered for sale only in the U.S.A. (excluding Hawaii). The promotional programs described in this site are available only in those states and territories of the U.S. (excluding Hawaii, Guam and Puerto Rico) specifically referred to within the description of the program. All pricing information referred to in this site is in U.S. dollars. 
+
+**The policies described in this Online Privacy and Use Policy do not apply to ASMC's offline communications, data collection practices, or other activities.**
 
 Back To Top
 
@@ -56,7 +58,7 @@ Back To Top
 
 Collection of Personally Identifiable Information to Provide a Service or Correspondence
 
-There are instances where Suzuki requests and collects information which may be personally identifiable to provide the website visitor a service or correspondence (e.g., e-newsletters, promotions, mailed brochures, and/or quick quotes). This personal information, such as name, mailing address, e-mail address, type of request, and possibly additional information, is collected and stored in a manner appropriate to the nature of the data, and may be passed on to our dealerships and fulfillment associates. Once our dealerships or fulfillment associates receive this information that data also becomes the property of the dealerships or fulfillment associates. Any request to opt out of future communications from such dealers or fulfillment associates must be made to the dealers or fulfillment associates directly. 
+There are instances where Suzuki requests and collects information which may be personally identifiable to provide the website visitor a service or correspondence (e.g., e-newsletters, promotions, mailed brochures, and/or quick quotes). This personal information, such as name, mailing address, e-mail address, type of request, and possibly additional information, is collected and stored in a manner appropriate to the nature of the data, and may be passed on to our dealerships and fulfillment associates. Once our dealerships or fulfillment associates receive this information that data also becomes the property of the dealerships or fulfillment associates. Any request to opt out of future communications from such dealers or fulfillment associates must be made to the dealers or fulfillment associates directly.
 
 Back To Top
 
@@ -86,6 +88,6 @@ Back To Top
 
 No Offer to Sell or Lease; Consent to Terms of Online Privacy and Use Policy
 
-All of the information contained in this site is for information purposes only and in no way constitutes an offer to buy or sell Suzuki products. The purchase of any Suzuki vehicle or engine shall be subject to the terms and conditions of the applicable sale, lease or retail installment contract. The MSRPs (Manufacturer's Suggested Retail Prices) listed in this site exclude destination charges, government fees and dealer charges. This site shall not be used or relied upon by you as a substitute for information that is available to you from an authorized Suzuki Automobile, Motorcycle, ATV, Utility Vehicle or Marine dealer. By using this site, you signify your assent to the Suzuki Online Privacy and Use Policy. If you do not agree to this policy, please do not use this site. We reserve the right to change any part of the Suzuki Online Privacy and Use Policy. If you have questions or comments regarding the Suzuki Online Privacy and Use Policy, please contact Webmaster@suzuki.com and note Privacy and Use in the Subject line of the e-mail or contact us via mail by sending a letter to Suzuki.com Privacy Team, P.O. Box 1100, Brea, CA 92822-1100.
+All of the information contained in this site is for information purposes only and in no way constitutes an offer to buy or sell Suzuki products. The purchase of any Suzuki vehicle or engine shall be subject to the terms and conditions of the applicable sale, lease or retail installment contract. The MSRPs (Manufacturer's Suggested Retail Prices) listed in this site exclude destination charges, government fees and dealer charges. This site shall not be used or relied upon by you as a substitute for information that is available to you from an authorized Suzuki Automobile, Motorcycle, ATV, Utility Vehicle or Marine dealer. By using this site, you signify your assent to the Suzuki Online Privacy and Use Policy. If you do not agree to this policy, please do not use this site. We reserve the right to change any part of the Suzuki Online Privacy and Use Policy. If you have questions or comments regarding the Suzuki Online Privacy and Use Policy, please contact Webmaster@suzuki.com and note Privacy and Use in the Subject line of the e-mail or contact us via mail by sending a letter to Suzuki.com Privacy Team, P.O. Box 1100, Brea, CA 92822-1100. 
 
 Back To Top
