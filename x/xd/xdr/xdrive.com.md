@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xdrive.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203160516id_/http%3A//www.xdrive.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xdrive.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616123811id_/http%3A//xdrive.com/privacy.jsp) for the most accurate reproduction.*
 
 # Xdrive | Secure Online Storage
 
