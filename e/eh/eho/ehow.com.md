@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017113228id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204150348id_/http%3A//www.ehow.com/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ This privacy statement discloses the privacy practices for [www.ehow.com](http:/
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under eHow, Inc.'s control 
   7. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should contact the Member Service department by e-mail at [memberservice@ehow.com.](mailto:memberservice@ehow.ccom)
+If you have questions or concerns regarding this statement, you should contact the Member Service department by e-mail at [member.service@ehow.com.](mailto:member.service@ehow.com)
 
 **eHow.com is a site designed by consumers for consumers.**   
 eHow, Inc. respects your privacy by adhering to the following policies with regard to information you provide to us (either at http://www.ehow.com or at offline events). Specifically, this statement informs you that: 
@@ -85,13 +85,17 @@ eHow.com provides you the opportunity to opt-out of eHow using your personally i
   * Suggest and display content we think you might be interested in 
   * Provide promotional offerings we think you might be interested in 
 
-If you wish to opt-out, please send an e-mail message to [mailto:memberservice@ehow.com](mailto:memberservice@ehow.com?subject=Opt-Out) and type "Opt-Out" in the subject line. 
+If you wish to opt-out, please send an e-mail message to [mailto:member.service@ehow.com](mailto:member.service@ehow.com?subject=Opt-Out) and type "Opt-Out" in the subject line. 
 
 eHow.com gives you the following options for removing your information from our database so as not to receive future communications or to no longer receive our service. 
 
-  1. You can send email to [memberservice@eHow.com](mailto:memberservice@ehow.com)
-  2. You can send mail to the following postal address:   
-1111 E. Brickyard Rd, Suite 102, Salt Lake City, Ut 84106
+  1. You can send email to [member.service@ehow.com](mailto:member.service@ehow.com)
+  2. You can send mail to the following postal address: 
+
+Yosemite Ventures, Inc.  
+258 Waverley St  
+Palo Alto, CA 94301 
+
 
 
 
@@ -110,7 +114,7 @@ We may periodically offer promotions or sweepstakes in conjunction with some of 
 
 **Use of Customer Information** eHow wants to provide you with useful information and a compelling reason to continually come to our site for your "How-to" needs. 
 
-As such, we use the information you provide to personalize portions of eHow that are intended to deliver the information we think you will be most interested in receiving. We analyze what our customers like and don't like about eHow's current offerings so that we can design better services and better meet their needs and lifestyles. We may send you e-mail communications to provide information which we think you will find useful, including information about new products and/or services from eHow. In every such e-mail, we will also have instructions on how to unsubscribe so that you will not receive any future e-mails from eHow, please reply directly to [memberservice@eHow.com](mailto:memberservice@ehow.com). For additional information, please see the Opt-Out Policy above. 
+As such, we use the information you provide to personalize portions of eHow that are intended to deliver the information we think you will be most interested in receiving. We analyze what our customers like and don't like about eHow's current offerings so that we can design better services and better meet their needs and lifestyles. We may send you e-mail communications to provide information which we think you will find useful, including information about new products and/or services from eHow. In every such e-mail, we will also have instructions on how to unsubscribe so that you will not receive any future e-mails from eHow, please reply directly to [member.service@ehow.com](mailto:member.service@ehow.com). For additional information, please see the Opt-Out Policy above. 
 
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), eHow will never knowingly solicit nor will it accept personally identifiable information from users known to be under thirteen (13) years of age. 
 
@@ -135,8 +139,8 @@ eHow.com has commercially reasonable security measures, including Secured Socket
 **Review/Update**   
 eHow makes every effort to ensure the accuracy of the individually identifiable information or prospect information that we a) collect online or inseparably merge with information collected online and, b) maintain. You have the right to review and update the information provided to eHow and there are two ways by which you can do it: 
 
-  1. email [memberservice@eHow.com](mailto:memberservice@ehow.com)
-  2. mail to the following address: 1111 E. Brickyard Rd., Salt Lake City, UT 84106 
+  1. email [member.service@ehow.com](mailto:member.service@ehow.com)
+  2. mail to the following address: Yosemite Ventures, Inc. 258 Waverley Street Palo Alto, CA 94301 
 
 Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an oppurtunity to opt out or otherwise prevent that use. 
 
