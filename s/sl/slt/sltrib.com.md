@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601115028id_/http%3A//www.sltrib.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206040254id_/http%3A//www.sltrib.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Search The Salt Lake Tribune
 
