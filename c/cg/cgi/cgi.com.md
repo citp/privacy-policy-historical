@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407013842id_/http%3A//www.cgi.com/web/en/global_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208145812id_/http%3A//www.cgi.com/web/en/global_privacy.htm) for the most accurate reproduction.*
 
-# CGI — Global privacy and data protection policy
+# CGI - Global privacy and data protection policy
 
   | 
 
@@ -78,7 +78,7 @@ Subject to the applicable legislation, CGI has the right to monitor any and all 
 Such monitoring may occur at any time, without notice, and without obtaining the user’s permission.
 
 Sanctions  
-Violations of this policy may result in a disciplinary action which will be proportional to the seriousness of the behaviour concerned. Vice Presidents responsible for business units or corporate functions are responsible to decide on the proper course of action in case of a breach to this policy. The Executive Vice-President and Chief Strategy Officer is the designated CGI Privacy and Data Protection Officer.
+Violations of this policy may result in a disciplinary action which will be proportional to the seriousness of the behaviour concerned. Vice Presidents responsible for business units or corporate functions are responsible to decide on the proper course of action in case of a breach to this policy. The Executive Vice-President and Chief Corporate Officer is the designated CGI Privacy and Data Protection Officer.
 
 |  |   
 
