@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012042115id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403114535id_/http%3A//www.denverpost.com/privacy) for the most accurate reproduction.*
 
 # DenverPost.com - PRIVACY POLICY
 
@@ -6,12 +6,12 @@
 ---  
 [BLOGHOUSE](https://web.archive.org/Stories/0,1413,36%257E29077%257E,00.html)  
 [BUSINESS](https://web.archive.org/Stories/0,1413,36%257E33%257E,00.html)  
-[CAMPAIGN 2004](https://web.archive.org/Stories/0,1413,36%257E30794%257E,00.html)  
 [COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E57%257E,00.html)  
 [FRONT PAGE](https://web.archive.org/Stories/0,1413,36%257E23827%257E,00.html)  
 [LOCAL NEWS](https://web.archive.org/Stories/0,1413,36%257E53%257E,00.html)  
 [NATION/WORLD](https://web.archive.org/Stories/0,1413,36%257E11676%257E,00.html)  
 [OBITUARIES](https://web.archive.org/Stories/0,1413,36%257E11777%257E,00.html)  
+[POLITICS](https://web.archive.org/Stories/0,1413,36%257E33980%257E,00.html)  
 [SPECIAL REPORTS](https://web.archive.org/Stories/0,1413,36%257E28977%257E,00.html)  
 [WEATHER](http://wp.myweather.net/wp/?pub=denv068352&page=main&loc=kapa)  
     
@@ -24,13 +24,12 @@
 [HEALTH](http://denverpost.healthology.com/)  
 [LIFESTYLES](https://web.archive.org/Stories/0,1413,36%257E45%257E,00.html)  
 [MOVIES](https://web.archive.org/Stories/0,1413,36%257E82%257E,00.html)  
-[TRAVEL](https://web.archive.org/Stories/0,1413,36%257E77%257E,00.html)  
+[TRAVEL - NEW!](https://web.archive.org/Stories/0,1413,36%257E34103%257E,00.html)  
 [TV LISTINGS](http://tvlistings.zap2it.com/partners/index.asp?partner_id=dpo)  
     
 [OPINION](https://web.archive.org/Stories/0,1413,36%257E73%257E,00.html)  
 [COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E74%257E,00.html)  
 [EDITORIALS](https://web.archive.org/Stories/0,1413,36%257E417%257E,00.html)  
-[ENDORSEMENTS](https://web.archive.org/Stories/0,1413,36%257E8382%257E,00.html)  
 [LETTERS](https://web.archive.org/Stories/0,1413,36%257E416%257E,00.html)  
 [PERSPECTIVE](https://web.archive.org/Stories/0,1413,36%257E75%257E,00.html)  
 [KEEFE CARTOON](https://web.archive.org/Stories/0,1413,36%257E161%257E,00.html)  
@@ -41,14 +40,18 @@
 [BRONCOS / NFL](https://web.archive.org/Stories/0,1413,36%257E86%257E,00.html)  
 [COLLEGES](https://web.archive.org/Stories/0,1413,36%257E87%257E,00.html)  
 [COLUMNISTS](https://web.archive.org/Stories/0,1413,36%257E101%257E,00.html)  
+[CRUSH / AFL](https://web.archive.org/Stories/0,1413,36%257E25796%257E,00.html)  
+[EXTREMES](https://web.archive.org/Stories/0,1413,36%257E34423%257E,00.html)  
 [NUGGETS / NBA](https://web.archive.org/Stories/0,1413,36%257E90%257E,00.html)  
 [PREPS](https://web.archive.org/Stories/0,1413,36%257E92%257E,00.html)  
 [RAPIDS / MLS](https://web.archive.org/Stories/0,1413,36%257E94%257E,00.html)  
 [ROCKIES / MLB](https://web.archive.org/Stories/0,1413,36%257E96%257E,00.html)  
+[SNOW SPORTS](https://web.archive.org/Stories/0,1413,36%257E97%257E,00.html)  
 [SCORES](http://www.sportsnetwork.com/default.asp?c=denverpost&page=regional/scores/live/denverpost.htm)  
 [OTHER SPORTS](https://web.archive.org/Stories/0,1413,36%257E93%257E,00.html)  
     
 [SERVICES](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
+[RIDE THE ROCKIES](http://www.ridetherockies.com/)  
 [ARCHIVES](https://web.archive.org/Stories/0,1413,36%257E25%257E,00.html)  
 [POST INTERNSHIPS](https://web.archive.org/Stories/0,1413,36%257E201%257E,00.html)  
 [ABOUT US/HELP](https://web.archive.org/Stories/0,1413,36%257E22%257E,00.html)  
@@ -59,13 +62,13 @@
     
 [ADVERTISING](http://www.post-newsmarketplace.com/)  
 [AUTOS ](http://www.postnewsautos.com/)  
+[FANTASY SPORTS](http://sportsbuff.com/partner.asp?pname=denverpost)  
 [HOMES ](http://www.postnewsrealestate.com/)  
 [JOBS](http://www.postnewsjobs.com/)  
 [MARKETPLACE](http://www.post-newsmarketplace.com/)  
 [MEMORIALS](http://www.legacy.com/denver)  
 [NEWSPAPER ADS](http://www.post-newsadsearch.com/)  
 [PERSONALS](http://www.denversingles.com/r.asp?B=297&A=20&Task=Click)  
-[PNN WEBSITES](http://www.pnn.com/)  
 [WEDDINGS](http://www.post-newscelebrations.com/)  
 [YELLOW PAGES](http://www.postnewsyellowpages.com/)  
     
@@ -148,5 +151,14 @@ Denver, Colorado 80202
 
 E-Mail: [rrisch@denverpost.com](mailto:rrisch@denverpost.com)
 
+|   
+  
+---  
+[ ](http://www.postnewsads.com/quigo/landingPage.asp)  
+  
+[](http://www.denverpost.com/)
+
+All contents Copyright 2005 The Denver Post or other copyright holders. All rights reserved. This material may not be published, broadcast, rewritten or redistributed for any commercial purpose.
+
 **Go to Section**   
-|   |   |  |   |   | 
+  |   |  |   |   | 
