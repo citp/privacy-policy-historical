@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619001913id_/http%3A//www.suntimes.com/geninfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204151040id_/http%3A//suntimes.com/geninfo/privacy.html) for the most accurate reproduction.*
 
 # Chicago Sun-Times: Privacy Policy
 
@@ -34,7 +34,7 @@
 
 |  **PRIVACY POLICY**
 
-This "Web Site" is sponsored and hosted by Digital Chicago, Inc. Click here for a list of the Web Sites governed by Digital Chicago's Privacy Policy and Terms of Use (collectively, "Digital Chicago" or "we" or "us"). Digital Chicago respects the privacy of its users. This Privacy Policy explains what information we collect, how we use your information, and your choices. This Privacy Policy only covers information collected by Digital Chicago at its Web Sites, and does not cover any information collected offline or elsewhere by Digital Chicago (unless specifically stated), Hollinger International, its or their affiliates or any other company. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20040619001913id_/http%3A//www.suntimes.com/geninfo/terms.html), which governs your use of Digital Chicago's Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
+This "Web Site" is sponsored and hosted by Digital Chicago, Inc. Click here for a list of the Web Sites governed by Digital Chicago's Privacy Policy and Terms of Use (collectively, "Digital Chicago" or "we" or "us"). Digital Chicago respects the privacy of its users. This Privacy Policy explains what information we collect, how we use your information, and your choices. This Privacy Policy only covers information collected by Digital Chicago at its Web Sites, and does not cover any information collected offline or elsewhere by Digital Chicago (unless specifically stated), Hollinger International, its or their affiliates or any other company. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/web/20041204151040id_/http%3A//suntimes.com/geninfo/terms.html), which governs your use of Digital Chicago's Web Sites. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
 
 _**Information Digital Chicago Collects**_
 
