@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crmondemand.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211201121id_/http%3A//www.crmondemand.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crmondemand.com privacy policy that was archived on 2004-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040219011842id_/http%3A//www.crmondemand.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
