@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013212558id_/http%3A//www.micron.com/content.jsp%3Fpath%3D/Legal%26edID%3D19390) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micron.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608174131id_/http%3A//micron.com/content.jsp%3Fpath%3D/Legal%26edID%3D19390) for the most accurate reproduction.*
 
 # Privacy Policy
 
