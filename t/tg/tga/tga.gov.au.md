@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601132800id_/http%3A//www.health.gov.au/copyr.htm%2312) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206090311id_/http%3A//www.health.gov.au/copyr.htm%2312) for the most accurate reproduction.*
 
-# Australian Department of Health and Ageing - Copyright
+# Australian Government Department of Health and Ageing - Copyright
 
 **Copyright**  
 Commonwealth government information and materials on this website, including data, pages, documents, online graphics, images and web pages, audio and video are protected by copyright, unless specifically notified to the contrary.
@@ -83,7 +83,7 @@ Top of Page
 **Information collection and privacy protection**  
 The Department of Health and Ageing makes every effort to adhere to the Guidelines for Federal and ACT Government World Wide Websites developed by the Australian Privacy Commissioner (available at <http://www.privacy.gov.au/internet/web/index.html>). In particular we make every effort to comply with Information Privacy Principles (see Glossary below) 1 to 3 and 10 and 11 of the Privacy Act 1988 (a copy of the Act is available at SCALEplus the legal information retrieval system owned by the Australian Attorney General's Department at [http://scaleplus.law.gov.au](http://scaleplus.law.gov.au/)). 
 
-This page explains the type of information that is collected by the Department of Health and Ageing, how such information is used and under what circumstances and to whom it may be disclosed. If you have any privacy concerns, you should direct them to the [webmaster](mailto:webmaster@health.gov.au).
+This page explains the type of information that is collected by the Department of Health and Ageing, how such information is used and under what circumstances and to whom it may be disclosed. If you have any privacy concerns, you should direct them to the [webmaster](mailto:enquiries@health.gov.au).
 
 Top of Page
 
