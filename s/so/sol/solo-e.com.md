@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606121013id_/http%3A//solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206193716id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
 
 # Solo-E.com - Privacy Policy
 
@@ -22,7 +22,7 @@ Privacy Policy
 
 **8.** How users can correct any inaccuracies in the information.
 
-If users have questions or concerns regarding this privacy policy, they should first contact customer service: [www.solo-e.com/feedback](https://web.archive.org/web/20040606121013id_/http%3A//solo-e.com/mainfiles/feedback.shtml).
+If users have questions or concerns regarding this privacy policy, they should first contact customer service: [www.solo-e.com/feedback](https://web.archive.org/web/20041206193716id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml).
 
   
   
@@ -56,7 +56,7 @@ Like most standard Web site servers, we use log files. This includes internet pr
 **Communications from the Site**
 
   
-We send all new members a welcoming e-mail(s). Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice/Opt-out section.
+We send all new members a welcoming e-mail(s). Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice/Opt-out section. (If you are not receiving the emails you requested from Solo-E.com, please visit our [FAQs](http://www.solo-e.com/FAQ/faq.shtml) for possible solutions.)
 
   
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
@@ -95,7 +95,7 @@ In submitting messages, members grant Solo-E.com a royalty-free, non-exclusive r
 
 
   
-Members are solely responsible for maintaining the privacy of their personal information and password. Members will be responsible for all uses of their account and should ensure that unauthorized use is avoided by all reasonable means. In the event of unauthorized use, a member should contact Solo-E.com immediately at [www.solo-e.com/feedback](https://web.archive.org/web/20040606121013id_/http%3A//solo-e.com/mainfiles/feedback.shtml) [security@solo-e.com](mailto:security@solo-e.com).
+Members are solely responsible for maintaining the privacy of their personal information and password. Members will be responsible for all uses of their account and should ensure that unauthorized use is avoided by all reasonable means. In the event of unauthorized use, a member should contact Solo-E.com immediately at [www.solo-e.com/feedback](https://web.archive.org/web/20041206193716id_/http%3A//www.solo-e.com/mainfiles/feedback.shtml) [security@solo-e.com](mailto:security@solo-e.com).
 
   
 This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and offline.
