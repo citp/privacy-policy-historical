@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604174826id_/http%3A//nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205012345id_/http%3A//nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
 
-# Natural Herbal Remedies for Your Health - Anxiety, ADHD, Depression Insomnia Prostate Weight Loss and More
-
-**Privacy Policy**
+# Native Remedies Privacy Policy
 
 **Open Policy on the Issue of Privacy:** We at Native Remedies adhere to a strict professional code of ethical conduct in the handling of your personal information. Read below to review how we safeguard your relationship with us.  
 **  
@@ -38,4 +36,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 You can access all your personally identifiable information that we collect online and maintain by accessing Your Account on any page. You can correct factual errors in your personally identifiable information by editing it online. To protect your privacy and security, we require that you select a password, and then log on using that password to access or change your information.  
 **  
 How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at (561) 266-8798 or send us an email at [service@nativeremedies.com](mailto:service@nativeremedies.com)
+Should you have other questions or concerns about these privacy policies, please call us at +1 (253) 620-4542 or send us an email at [service@nativeremedies.com](mailto:service@nativeremedies.com)
