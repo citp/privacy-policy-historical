@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217221356id_/http%3A//www.peacecorps.gov/policies.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacecorps.gov privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409045820id_/http%3A//www.peacecorps.gov/policies.cfm%23privacy) for the most accurate reproduction.*
 
 # Peace Corps | About Peace Corps | Policies
 
