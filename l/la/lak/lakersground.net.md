@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakersground.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202225849id_/http%3A//www.lakersground.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakersground.net privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609010205id_/http%3A//www.lakersground.net/privacy.php) for the most accurate reproduction.*
 
 # LakersGround.net - Premier Coverage of the L.A. Lakers
 
