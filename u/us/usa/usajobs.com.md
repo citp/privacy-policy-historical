@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usajobs.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217084259id_/http%3A//usajobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usajobs.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604011200id_/http%3A//usajobs.com/privacy.html) for the most accurate reproduction.*
 
 # UsaJob.com
 
