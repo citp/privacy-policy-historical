@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602044723id_/http%3A//www.jessops.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204114108id_/http%3A//www.jessops.com/privacy.cfm) for the most accurate reproduction.*
 
-# Jessops.com - No.1 in Photography
+# Camera, digital camera, digital dv camcorder and accessories - Jessops
 
 **Privacy Policy**
 
