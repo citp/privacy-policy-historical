@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602045538id_/http%3A//www.tripsmarter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201044324id_/http%3A//www.tripsmarter.com/privacy.htm) for the most accurate reproduction.*
 
 # TripSmarter.Com - About Us - Privacy Policy
 
@@ -24,33 +24,37 @@ Financial information that is collected from our users is used to bill the user 
 
 **Children's Guidelines**
 
-  * We do NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. 
-  * We do NOT collect personally identifiable offline contact information without prior parental consent. 
-  * We do NOT distribute to third parties any personally identifiable information with out prior parental consent. 
-  * We do NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent. 
-  * We do NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+  * We do NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.   
+
+  * We do NOT collect personally identifiable offline contact information without prior parental consent.   
+
+  * We do NOT distribute to third parties any personally identifiable information with out prior parental consent.   
+
+  * We do NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.   
+
+  * We do NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.   
 
 
 
-**Choice/Opt-Out**
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+**Choice/Opt-Out  
+**Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  * You can send email to removeme@tripsmarter.com.com
-
-
-
-**Change/Modify**
-
-This site gives users the following options for changing and modifying information previously provided.
-
-  * email correctme@tripsmarter.com
+  * You can send email to removeme@tripsmarter.com  
 
 
 
-**Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact :
+**Change/Modify  
+**This site gives users the following options for changing and modifying information previously provided.
+
+  * email correctme@tripsmarter.com   
+
+
+
+
+**Contacting the Web Site  
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact : 
 
 The Tourist Network   
 8317 Front Beach Rd.  
