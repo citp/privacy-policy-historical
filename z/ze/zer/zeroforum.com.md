@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeroforum.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207095712id_/http%3A//zeroforum.com/content.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeroforum.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607054826id_/http%3A//zeroforum.com/content.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # ZeroForum
 
