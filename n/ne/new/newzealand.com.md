@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newzealand.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407184638id_/http%3A//www.newzealand.com/corporate/ps.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newzealand.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203032741id_/http%3A//www.newzealand.com/corporate/ps.html) for the most accurate reproduction.*
 
 # NewZealand.com - Privacy Statement
 
@@ -68,4 +68,4 @@ This privacy statement is applicable to virtualcountries.com and all country sit
   
   
 ---  
-[](https://web.archive.org/photos/) [](https://web.archive.org/postcards/pcCategories.php3) [](https://web.archive.org/shopping/) [](https://web.archive.org/business/trade.php) [](https://web.archive.org/community/dating.php) [](https://web.archive.org/business/featuredlinks.html) [](https://web.archive.org/cgi-bin/search/search.cgi?dir=/Regional/Oceania/New_Zealand)
+[](https://web.archive.org/photos/) [](https://web.archive.org/postcards/pcCategories.php3) [](https://web.archive.org/shopping/) [](https://web.archive.org/business/trade.php) [](https://web.archive.org/business/featuredlinks.html) [](https://web.archive.org/cgi-bin/search/search.cgi?dir=/Regional/Oceania/New_Zealand)
