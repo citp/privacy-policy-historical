@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102328id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402172241id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
-# Hippie Shop - , Hippie Clothes & Gifts at discount prices!
-
-**FREE GIFT: We would like to wish everyone a Happy Hippy Holiday!  
-All orders placed in December will include a FREE Tie-Dye HippieShop.com Pen.**
+# HippieShop.com - - Hippie Clothes & Gifts
 
 **Privacy Policy**
 
