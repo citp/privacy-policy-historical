@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409060733id_/http%3A//drivewire.com/privacy.asp%3Fh%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivewire.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803225255id_/http%3A//drivewire.com/privacy.asp%3Fh%3D) for the most accurate reproduction.*
 
 # Drivewire.com
 
