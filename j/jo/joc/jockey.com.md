@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220231219id_/http%3A//www.jockey.com/templates/Legal/JCKY_legal_privacypolicy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610112735id_/http%3A//www.jockey.com/templates/Legal/JCKY_legal_privacypolicy.tem) for the most accurate reproduction.*
 
 # Jockey - Legal - Privacy Policy
 
