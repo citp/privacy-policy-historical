@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602035150id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206061207id_/http%3A//www.nlm.nih.gov/medlineplus/privacy.html) for the most accurate reproduction.*
 
 # MEDLINEplus: Privacy Policy
 
 Skip navigation  
 ---  
-[](http://medlineplus.gov/) | |   
+[](http://medlineplus.gov/) |  |   
   
-[](https://web.archive.org/medlineplus/spanish/privacy.html) [](https://web.archive.org/cgi/medlineplus/feedback.pl?from=%2Fmedlineplus%2Fprivacy%2Ehtml&lang=EN) [](https://web.archive.org/medlineplus/faq/faq.html) [](https://web.archive.org/medlineplus/sitemap.html) [](https://web.archive.org/medlineplus/aboutmedlineplus.html) [](http://medlineplus.gov/)  
+[](http://www.nlm.nih.gov/medlineplus/spanish/privacy.html) [](http://www.nlm.nih.gov/cgi/medlineplus/feedback.pl?from=http%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Fprivacy%2Ehtml&lang=EN) [](http://www.nlm.nih.gov/medlineplus/faq/faq.html) [](http://www.nlm.nih.gov/medlineplus/sitemap.html) [](http://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html) [](http://medlineplus.gov/)  
   
-[](https://web.archive.org/medlineplus/healthtopics.html) [](https://web.archive.org/medlineplus/druginformation.html) [](https://web.archive.org/medlineplus/encyclopedia.html) [](https://web.archive.org/medlineplus/mplusdictionary.html) [](https://web.archive.org/medlineplus/newsbydate.html) [](https://web.archive.org/medlineplus/directories.html) [](https://web.archive.org/medlineplus/otherresources.html)  
+[](http://www.nlm.nih.gov/medlineplus/healthtopics.html) [](http://www.nlm.nih.gov/medlineplus/druginformation.html) [](http://www.nlm.nih.gov/medlineplus/encyclopedia.html) [](http://www.nlm.nih.gov/medlineplus/mplusdictionary.html) [](http://www.nlm.nih.gov/medlineplus/newsbydate.html) [](http://www.nlm.nih.gov/medlineplus/directories.html) [](http://www.nlm.nih.gov/medlineplus/otherresources.html)  
   
 
 
