@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newenglandfilm.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621153731id_/http%3A//newenglandfilm.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newenglandfilm.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001122319id_/http%3A//newenglandfilm.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at NewEnglandFilm.com
 
@@ -44,16 +44,16 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-To unsubscribe from our monthly email, send email to [monthly-update@newenglandfilm.com](mailto:monthly-update@newenglandfilm.com) with only the word "unsubscribe" in the BODY of your email message.  If you have any problems, email [info@newenglandfilm.com](mailto:info@newenglandfilm.com). 
+To unsubscribe from our monthly email, send email to [monthly-update@newenglandfilm.com](mailto:monthly-update@newenglandfilm.com) with only the word "unsubscribe" in the BODY of your email message.  If you have any problems, [contact us](https://web.archive.org/web/20031001122319id_/http%3A//newenglandfilm.com/contact.htm). 
 
 ## Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. E-mail [info@newenglandfilm.com](mailto:info@newenglandfilm.com) with corrections.
+This site gives users the following options for changing and modifying information previously provided. [Contact us](https://web.archive.org/web/20031001122319id_/http%3A//newenglandfilm.com/contact.htm) with corrections.
 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 NewEnglandFilm.com, Inc.  
-PO Box 1033  
-Winchester, MA 01890  [info@newenglandfilm.com](mailto:info@newenglandfilm.com) 
+PO Box 20082  
+New York, NY 10014 
