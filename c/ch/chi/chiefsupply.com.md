@@ -1,215 +1,60 @@
-> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603161552id_/http%3A//chiefsupply.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2003-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030206080447id_/http%3A//www.chiefsupply.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Chief Supply's Online Privacy Policy
 
   
+|    
 
 
-## About Us
+### _Privacy Statement for Chiefsupply.com_
 
-This is a privacy policy for Chief Supply. Our homepage on the Web is located at [ http://www.chiefsupply.com](http://www.chiefsupply.com/). The full text of our privacy policy is available on the Web at [ http://www.chiefsupply.com/privacy_policy.html](http://www.chiefsupply.com/privacy_policy.html) Users may go to [ http://www.chiefsupply.com/custserve_form.html](http://www.chiefsupply.com/custserve_form.html) for information on how to opt-in or opt-out of use of their information. 
+Chief Supply Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: Chiefsupply.com. 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    Chief Supply
-    PO BOX 22610
-    2468 West 11th Ave.			
-    Eugene, OR 97402 
-    USA
-    
+Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
 
-You may contact us by e-mail at [ catalog@chiefsupply.com](mailto:catalog@chiefsupply.com). You may call us at (541) 342-7011. 
+Our site uses cookies to keep track of your shopping cart. 
 
-## Dispute Resolution and Privacy Seals
+This site contains links to other sites. **Chiefsupply.com** is not responsible for the privacy practices or the content of such Web sites. 
 
-We have the following privacy seals: 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. 
 
-  * **New Dispute** : Simply email us and we will resolve the situation. 
+Our catalog request forms and online surveys ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. The information we collect is used for internal review and is then discarded and not shared with other organizations for commercial purposes. In plain English: **we will not sell, rent, or lend your name... ever!**
 
+### Security
 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-## Additional Information
+### Choice/Opt-Out
 
-This policy is valid for 1 week from the time that it is loaded by a client. 
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
-## Data Collection
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 4 data groups. The data practices of each group will be explained seperately. 
+  1. You can send email to [webmaster@chiefsupply.com](mailto:webmaster@chiefsupply.com)
+  2. You can visit the following URL: <http://lb.bcentral.com/ex/manage/subscriberprefs?customerid=6129>
+  3. You can send mail to the following postal address:  Chief Supply Corporation  
+1400 Executive Parkway, Suite 220  
+Mail Box #26  
+Eugene, OR 97401 
+  4. You can call the following telephone number: (800) 733-9281 
+  5. You can fax (800) 329-2003 
 
-* * *
 
-### Group "Access log information"
 
-We collect the following information: 
+### Correct/Update
 
-  * Click-stream data
-  * HTTP protocol elements
+This site gives users the following options for changing and modifying information previously provided. 
 
+  1. You can send email [webmaster@chiefsupply.com](mailto:webmaster@chiefsupply.com)
+  2. You can send mail to the following postal address:  Chief Supply Corporation  
+1400 Executive Parkway, Suite 220  
+Mail Box #26  
+Eugene, OR 97401 
+  3. You can call the following telephone number: (800) 733-9281 
+  4. You can fax (800) 329-2003 
 
 
-This data will be used for the following purposes:
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+### Contacting the Web Site
 
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Our Web server collects access logs containing this information.
-
-* * *
-
-### Group "Cookies"
-
-We collect the following information: 
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes:
-
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. We also use cookies to allow our server to maintain information about the contents of your shopping cart.
-
-* * *
-
-### Group "Transaction info (required)"
-
-We collect the following information: 
-
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Purchase information
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Research and development.
-
-
-
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
-
-  * Delivery services.
-
-
-
-The following explanation is provided for why this data is collected:
-
-> Information we collect in order to process your purchase.
-
-* * *
-
-### Group "Transaction info (optional)"
-
-At the user's option, we will collect the following data: 
-
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Purchase information
-
-
-
-This data will be used for the following purposes:
-
-  * Contacting visitors for marketing of services or products.
-
-
-
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
-
-  * Delivery services.
-
-
-
-The following explanation is provided for why this data is collected:
-
-> Information we collect in order to process your purchase.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Unsatisfactory policy** : this compact policy is considered _unsatisfactory_ according to the rules defined by Internet Explorer 6. The behavior of Internet Explorer 6 regarding cookies set under this compact policy is as follows: 
-
-| **First-party usage**|  **Third-party usage**  
----|---|---  
-**Persistent Cookies** | 
-
-  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
-  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie. 
-  * **Medium High:** No opt-out is provided, so the cookie will be **blocked**. 
-  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
-
-| 
-
-  * **Low:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie. 
-  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**. 
-  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**. 
-  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
-
-  
-**Session Cookies** | 
-
-  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
-  * **Medium:** Policy satisfactory at this level; cookies will be accepted. 
-  * **Medium High:** Policy satisfactory at this level; cookies will be accepted. 
-  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
-
-| 
-
-  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
-  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**. 
-  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**. 
-  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
-
-  
-A policy which is considered unsatisfactory by Internet Explorer 6 contains certain categories of data which are used or shared in a particular manner. This policy is placed in the unsatisfactory category, because the following categories of data are associated with this policy's cookies: 
-
-  * Physical contact information is collected. 
-  * Online contact information is collected. 
-
-
-
-In addition, the data is used in the following manner, marking the policy as unsatisfactory: 
-
-  * The data is used for contacting the user. 
-
-
-
-Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Web Chief Chief Supply Corporation 1400 Executive Parkway, Suite 220 Mail Box #26 Eugene, OR 97401 [webmaster@chiefsupply.com](mailto:webmaster@chiefsupply.com)
