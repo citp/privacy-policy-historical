@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604045607id_/http%3A//nrl.com/s2002/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802083805id_/http%3A//www.nrl.com/s2002/privacy/privacy.asp) for the most accurate reproduction.*
 
 # NRL National Rugby League Official Web Site
 
