@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the respond.com privacy policy that was archived on 1999-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991127224740id_/http%3A//www.respond.com/d/common/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respond.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621041000id_/http%3A//www.respond.com/d/common/privacypolicy.html) for the most accurate reproduction.*
 
 # Respond.com | Privacy Policy
 
@@ -10,7 +10,7 @@ Questions regarding this statement should be directed to Customer Support by sen
 
   
 **Our Commitment**  
-Respond.com is committed to protecting the privacy of our Buyers and Sellers. Respond.com will never share any personal information without your permission. This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All information is for our registration and accounting purposes only. Only authorized employees of Respond.com will have access to this information. Please read below for more details on our Privacy Policy. 
+Respond.com is committed to protecting the privacy of our Buyers and Sellers. Respond.com will never share any personal information without your permission. This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All information is for our registration and accounting purposes only. Only authorized employees of Respond.com will have access to this information. If you use our services through one of our partner sites (e.g. the America Online, Inc. (AOL) "Shop By Request" service) we may share the information you submit through the partner's site with that specific partner. We are not responsible for the privacy policies of our partners. Please read below for more details on our Privacy Policy. 
 
   
 **Buyer Protection**  
@@ -18,7 +18,7 @@ In order to submit a request to our community of Sellers, Buyers are required to
 
 We also offer you the opportunity to apply for related shopping information and/or promotions from Sellers with Respond.com. These opportunities are completely optional, and you are not obligated to take advantage of them. You will always be asked before you receive any information or promotional offering. 
 
-Respond.com reserves the right to provide aggregate statistics about our customers, sales, traffic patterns and related Web site information to reputable third party vendors, but these statistics will not include any personal or identifying information. Buyers have the option to change or cancel requests at any time by contacting Customer Support at [support@respond.com](mailto:support@respond.com?subject=Privacy%20Policy). 
+Respond.com reserves the right to provide aggregate statistics about our customers, sales, traffic patterns and related Web site information to reputable third party vendors, but these statistics will not include any personal or identifying information. Respond.com reserves the right to post on its Web site the text in the "Comments" box and additional product or service information inputted by you in the request form; however, we will not post any information you input in the fields calling for personally identifiable information. Buyers have the option to change or cancel requests at any time by contacting Customer Support at [support@respond.com](mailto:support@respond.com?subject=Privacy%20Policy). 
 
   
 **Seller Protection**  
