@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203162804id_/http%3A//icbc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606222405id_/http%3A//www.icbc.com/privacy.html) for the most accurate reproduction.*
 
 # ICBC.com Privacy Statement
 
@@ -12,8 +12,8 @@ What personal information we collect
 
   * We do not collect personal information unless our Web site visitors volunteer it.
   * When you respond to games on our site, we may collect personal information such as your name and e-mail address.
-  * When you complete online transactions, job applications, or enter our online surveys or contests, we may collect personal information such as your name, address and e-mail address.
-  * When you voluntarily send us electronic mail, we collect your email address and your message so that we may reply to you.
+  * When you complete online transactions, job applications, or enter our online surveys or contests, we may collect personal information such as your name, address, e-mail address and your internet IP address.
+  * When you voluntarily send us electronic mail, we collect your email address, your internet IP address and your message so that we may reply to you.
   * We use cookies on this website only in those areas which contain an express statement regarding their use. 
 
 
