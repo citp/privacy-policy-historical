@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202182211id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603064321id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.*
 
 # National Association of Home Builders
 
@@ -25,10 +25,10 @@ We do not knowingly collect or use information from children under the age of 13
 When you visit our site, we may place a cookie on your computer to allow us to record session information and provide access to information that requires online registration.
 
 **Security**  
-If you send credit card information, we will redirect visitors to a secure serve and encrypt this information between your computer and our server. Other information that you send to this site, including e-mail messages, will not be encrypted unless we advise you otherwise. Although our site has industry standard security measures in place to protect the loss, misuse and alteration of the information that is under our control, we cannot guarantee complete security.
+If you send credit card information, we will redirect visitors to a secure server and encrypt this information between your computer and our server. Other information that you send to this site, including e-mail messages, will not be encrypted unless we advise you otherwise. Although our site has industry standard security measures in place to protect the loss, misuse and alteration of the information that is under our control, we cannot guarantee complete security.
 
 **Changes in Policy**  
 This policy may change over time. Your continued use of the site after these changes are posted constitutes your agreement to the changes with regard to information collected.
 
-**Contact us**  
+**Contact Us**  
 If you have any questions, please [contact us](https://web.archive.org/contact_us_form.aspx?sectionID=178).
