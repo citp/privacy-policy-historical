@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2001-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011022015111id_/http%3A//www.thecomedynetwork.com/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202202034id_/http%3A//www.thecomedynetwork.com/legal.asp) for the most accurate reproduction.*
 
 # Comedy Network
 
