@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zlobos.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409014446id_/http%3A//www.zlobos.com/common/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zlobos.com privacy policy that was archived on 2001-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010903194441id_/http%3A//www.zlobos.com/common/privacy.htm) for the most accurate reproduction.*
 
 # zlobos.com: Privacy Policy
 
