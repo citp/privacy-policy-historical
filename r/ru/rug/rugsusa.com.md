@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rugsusa.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201194821id_/http%3A//rugsusa.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugsusa.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009230721id_/http%3A//rugsusa.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| | [](https://web.archive.org/web/20020201194821id_/http%3A//rugsusa.com/index.html)
+| | [](https://web.archive.org/web/20021009230721id_/http%3A//rugsusa.com/index.html)
 
 Privacy We at RugsUSA.com respect the privacy of visitors to our web site. You control what personal information, if any, you share with us. You are not required to tell us who you are or to reveal any information about yourself.
 
