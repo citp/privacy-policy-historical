@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qad.com privacy policy that was archived on 2002-03-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020306201254id_/http%3A//www.qad.com/resources/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qad.com privacy policy that was archived on 2002-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205220008id_/http%3A//www.qad.com/resources/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>QAD | Privacy Statement</title>
@@ -104,10 +104,18 @@ document.write(end_table);
   <script lanugage="javascript">
 <!--
 function clearSearch() {
- if (document.searchform.words.value == "Search") {
-  document.searchform.words.value ='';
+ if (document.searchform.words.value == "Search Here") {
+ document.searchform.words.value ='';
  }
  return 0;
+}
+function searchVerifier() {
+ if ((document.searchform.words.value == "Search Here") || (document.searchform.words.value == "")) {
+ document.searchform.words.focus();
+ return false;
+ } else {
+  return true;
+ }
 }
 //-->
 </script>
@@ -115,7 +123,7 @@ function clearSearch() {
  <tbody><tr>
   <td width="145" colspan="2"><font class="heading4"><a href="/resources/search.html">Advanced Search</a></font></td>
  </tr> 
-  <form method="get" action="/cgi-bin/htdig/htsearch.cgi" name="searchform"></form>
+  <form method="get" action="/cgi-bin/htdig/htsearch.cgi" name="searchform" onsubmit="return searchVerifier();"></form>
  <tr>
   <input type="hidden" name="config" value="htdig-all">
   <input type="hidden" name="method" value="all">
@@ -123,10 +131,10 @@ function clearSearch() {
   <input type="hidden" name="method" value="score">
   <input type="hidden" name="restrict" value="">
   <input type="hidden" name="exclude" value="">
-  <td width="122" valign="middle" align="left" class="normaltxt"><input type="text" name="words" value="Search" maxlength="50" size="8" style="width:114px;border-color: #003366;border-style:solid;font-family:verdana;font-size:9pt;" onfocus="clearSearch()"></td>
-  <td width="23" valign="middle" align="center"><input type="image" src="/images/go_button.gif" width="23" height="18" border="0" title="go" name="go" value="submit"></td>
+  <td width="122" valign="middle" align="left" class="normaltxt"><input type="text" name="words" value="Search Here" maxlength="50" size="8" style="width:114px;border-color: #003366;border-style:solid;font-family:verdana;font-size:9pt;" onfocus="clearSearch()"></td>
+  <td width="23" valign="middle" align="center"><input type="image" src="/images/go_button.gif" width="23" height="18" border="0" title="go" name="go" value="Submit"></td>
  </tr>
-  
+
 </tbody></table>
   <table width="145" cellpadding="0" cellspacing="0" border="0">
    <tbody><tr>
@@ -154,17 +162,19 @@ function clearSearch() {
 	<td width="150" align="right" valign="middle"> <table width="115" cellpadding="0" cellspacing="0" border="0">
   <tbody><tr>
    <form name="findfast"></form><td width="115" align="right" valign="bottom">
-   <select name="findfast" onchange="Jump_Menu(this[this.selectedIndex].value)" style="width:115px;">
+   <select name="findfast" onchange="Jump_Menu(this[this.selectedIndex].value)" style="width:115px;" class="formtext">
    <option value="samewindow|#">Find It Fast</option>
    <option value="samewindow|/">Home</option>  
    <option value="samewindow|/company/publications/data_sheets/">Data Sheets</option> 
    <option value="samewindow|/company/publications/case_studies/">Case Studies</option>
    <option value="samewindow|/company/publications/white_papers/">White Papers</option>
-   <option value="samewindow|/solutions/applications/mfgpro/">MFG/PRO eB</option> 
-   <option value="samewindow|/solutions/applications/eq/">QAD eQ</option> 
-   <option value="samewindow|/solutions/applications/sv/">QAD SV</option>    
+   <option value="samewindow|/solutions/mfgpro/">MFG/PRO</option> 
+   <option value="samewindow|/solutions/mfgpro/edi_ecommerce.html">EDI ECommerce</option>
+   <option value="samewindow|/solutions/eq/">QAD eQ</option> 
+   <option value="samewindow|/solutions/mfgx/sv/">QAD SV</option>    
    <option value="samewindow|http://support.qad.com/documentation/">Documentation</option> 		  		    
-   <option value="newwindow|http://explore.qad.com">Explore</option></select></td>
+   <option value="newwindow|http://explore.qad.com">Explore</option>
+   <option value="newwindow|http://www.qadusers.com/">QAD Users</option></select></td>
   </tr>
  </tbody></table>
 <!--/htdig_noindex--></td>
