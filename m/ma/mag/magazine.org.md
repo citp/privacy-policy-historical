@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201203050id_/http%3A//magazine.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209031742id_/http%3A//www.magazine.org/privacy.html) for the most accurate reproduction.*
 
 # MPA Website Privacy Policy
 
-**[](https://web.archive.org/web/20020201203050id_/http%3A//magazine.org/index.asp)**
+**[](https://web.archive.org/web/20021209031742id_/http%3A//www.magazine.org/index.asp)**
 
 **MPA PRIVACY POLICY**
 
@@ -18,4 +18,4 @@ We do not share our mailing lists with any other organizations and any personal 
 
 We do our best to ensure accurate, timely, and complete information. We cannot, however, guarantee the accuracy of information obtained from external sources. If you have any questions about MPA's privacy policy, please contact us at the above phone number.
 
-[](https://web.archive.org/web/20020201203050id_/http%3A//magazine.org/index.asp)
+[](https://web.archive.org/web/20021209031742id_/http%3A//www.magazine.org/index.asp)
