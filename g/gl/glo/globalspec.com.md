@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203102826id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630220602id_/http%3A//globalspec.com/Help/Privacy) for the most accurate reproduction.*
 
 # GlobalSpec - Privacy Policy
 
-We at GlobalSpec have one primary goal: to help the engineering and technical buyer communities quickly find products and components that meet their specifications. This is a free service that we are proud to be able to offer and which is the largest of its kind. The suppliers on this site contract with GlobalSpec to be here and need to be able to correlate the correspondence they receive from you with your visit to the site in order to measure site effectiveness. For this reason we ask you for user information. We understand the reluctance users on the web have about providing user information (we share the concern) so we have instituted the following PRIVACY POLICY to address the issue: 
+We at GlobalSpec have one primary goal: to help the engineering community quickly find products and components that meet their specifications. This is a free service that we are proud to be able to offer and which is the largest of its kind. The suppliers on this site contract with GlobalSpec to be here and need to be able to correlate the correspondence they receive from you with your visit to the site in order to measure site effectiveness. For this reason we ask you for user information. We understand the reluctance users on the Web have about providing user information (we share the concern) so we have instituted the following PRIVACY POLICY to address the issue: 
 
 > GLOBALSPEC PRIVACY POLICY
 > 
@@ -18,5 +18,3 @@ We at GlobalSpec have one primary goal: to help the engineering and technical bu
 
 
 You can find out more about "cookies" on our [cookies reference page](https://web.archive.org/help/Cookies).
-
-[](https://web.archive.org/help/NeedJavaScript.html)
