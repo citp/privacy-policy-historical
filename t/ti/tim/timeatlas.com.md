@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603210941id_/http%3A//www.timeatlas.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeatlas.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030903id_/http%3A//www.timeatlas.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,7 +87,7 @@ While we use SSL encryption to protect sensitive information online, we also do 
 #####   
 _Correcting/Updating/Deleting/Deactivating Personal Information_
 
-If a user's personally identifiable information changes (such as email address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the [Support](https://web.archive.org/web/20030603210941id_/http%3A//www.timeatlas.com/support.htm) page or by emailing our [Customer Support](mailto:privacy@timeatlas.com).
+If a user's personally identifiable information changes (such as email address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the [Support](https://web.archive.org/web/20031205030903id_/http%3A//www.timeatlas.com/support.htm) page or by emailing our [Customer Support](mailto:privacy@timeatlas.com).
 
 ##### _Notification of Changes_
 
