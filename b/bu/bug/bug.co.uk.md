@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bug.co.uk privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220020501id_/http%3A//www.bug.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bug.co.uk privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404160259id_/http%3A//www.bug.co.uk/privacy.html) for the most accurate reproduction.*
 
 # BUG Privacy Policy
 
@@ -37,7 +37,7 @@ If you wish you may post hostel reviews with your own name and email address whi
 
 ### **T-shirt Promotion**
 
-BUG is running a promotion where we send a free t-shirt to users who post 20 messages to the forums or 20 hostel reviews. We will collect an address which is used to post the   
+BUG is running a promotion where we send a free t-shirt to users who post 20 messages to the forums or 20 hostel reviews. We will collect an address which is used to post the  
 t-shirt. We do not keep this address and will not use the address for any other purpose.
 
 ### **Hostel Bookings**
