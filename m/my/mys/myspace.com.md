@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myspace.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619223652id_/http%3A//www.myspace.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspace.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204233018id_/http%3A//www.myspace.com/misc/privacy.html%3Fz%3D1%26Mytoken%3D20040917113647) for the most accurate reproduction.*
 
 # MySpace.com >> Privacy Policy
 
-[](https://www.truste.org/ivalidate.php?url=www.myspace.com)MySpace is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. 
+[](http://www.truste.org/ivalidate.php?url=www.myspace.com)MySpace is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. 
 
 This privacy statement covers the site www.myspace.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-Please contact MySpace with questions regarding this statement. If the website has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/users/watchdog.html>. 
+Please contact MySpace with questions regarding this statement. If the website has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. 
 
 **Effective March 5, 2004:**
 
