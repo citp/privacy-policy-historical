@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008122124id_/http%3A//www7.gemm.com/c/info.cgi%3Ffor_spider%3D1%26doc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402130530id_/http%3A//www7.gemm.com/c/info.cgi%3Ffor_spider%3D1%26doc%3Dprivacy) for the most accurate reproduction.*
 
 # Help, Info & FAQ
 
