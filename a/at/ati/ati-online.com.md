@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ati-online.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604063142id_/http%3A//ati-online.com/ati/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ati-online.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404041813id_/http%3A//ati-online.com/ati/privacyPolicy.htm) for the most accurate reproduction.*
 
 # ATI Online
 
@@ -9,6 +9,6 @@ The only information ATI collects about visitors to our site is obtained through
 If you have any questions about this privacy statement, please contact us at: 
 
 Assessment Technology, Inc.   
-5099 E. Grant Road Suite #331   
-Tucson, Arizona 85712   
+6700 E. Speedway Blvd.  
+Tucson, Arizona 85750  
 Phone: 1-800-367-4762 
