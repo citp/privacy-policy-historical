@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidelive.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211142817id_/http%3A//www.guidelive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidelive.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402153228id_/http%3A//www.guidelive.com/privacy.htm) for the most accurate reproduction.*
 
 # GuideLive: Privacy Policy
 
