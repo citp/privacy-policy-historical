@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624133924id_/http%3A//healthywomen.org/content.cfm%3FL1%3D104) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208145527id_/http%3A//healthywomen.org/content.cfm%3FL1%3D104) for the most accurate reproduction.*
 
 # Healthywomen.org
 
@@ -170,9 +170,9 @@ Every page also offers the consumer the opportunity to contact the NWHRC with qu
 Additionally, contact information for the Center is identified in the “About NWHRC” section, under “Contact Us.” General consumer contact information is as follows:
 
 > National Women’s Health Resource Center, Inc.  
->  120 Albany Street  
->  Suite 820  
->  New Brunswick, NJ 08901  
+>  157 Broad Street  
+>  Suite 315  
+>  Red Bank, NJ 07701  
 >  1-877-98-NWHRC  
 >  [info@healthywomen.org](mailto:info@healthywomen.org)
 
