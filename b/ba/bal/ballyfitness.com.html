@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ballyfitness.com privacy policy that was archived on 2003-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604043420id_/http%3A//www.ballyfitness.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ballyfitness.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602202214id_/http%3A//ballyfitness.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Bally Total Fitness | Privacy Policy</title>
@@ -27,6 +27,7 @@ function changeImages() {
 var preloadFlag = false;
 function preloadImages() {
 	if (document.images) {
+		/*
 		menu_01_over = newImage("/images/nav_main/clubs_formula-over.gif");
 		menu_02_over = newImage("/images/nav_main/clubs_groupex-over.gif");
 		menu_03_over = newImage("/images/nav_main/clubs_locator-over.gif");
@@ -61,6 +62,14 @@ function preloadImages() {
 		menu_32_over = newImage("/images/nav_main/rr_rrchallenge-over.gif");
 		menu_33_over = newImage("/images/nav_main/rr_weightmanage-over.gif");
 		menu_34_over = newImage("/images/nav_main/rr_workouts-over.gif");
+		menu_35_over = newImage("/images/nav_main/why_bally_mission-over.gif");
+		menu_36_over = newImage("/images/nav_main/why_groupex-over.gif");
+		menu_37_over = newImage("/images/nav_main/why_mem_price-over.gif");
+		menu_38_over = newImage("/images/nav_main/why_nat_club_net-over.gif");
+		menu_39_over = newImage("/images/nav_main/why_per_train-over.gif");
+		menu_40_over = newImage("/images/nav_main/why_diet-over.gif");
+		menu_41_over = newImage("/images/nav_main/why_ultra_mem-over.gif");
+		menu_42_over = newImage("/images/nav_main/why_weight_mgt-over.gif");*/
 		preloadFlag = true;
 	}
 }
@@ -74,7 +83,7 @@ function changeDropImg(layer,imgName,imgSrc) {
 
 function FitnessLogWin() {
 	window.open("http://www.ballyfitness.com/workoutLog/default.asp","",
-						"toolbar=1,resizable=1,locationbar=0,scrollbars=1,height=480,width=640");
+						"toolbar=1,resizable=1,locationbar=1,statusbar=1,menubar=1,scrollbars=1,height=480,width=640");
 }
 function UserSettings() {
 	window.open("/include/inc_registration/user_settings1.asp","",
@@ -109,49 +118,82 @@ function ForgotPassword() {
 			    <td>
 					<table cellspacing="0" cellpadding="0" border="0">
 						<tbody><tr>
-						    <td><a href="/index.asp"><img src="/images/ballyPstamp87x98.gif" width="87" height="98" alt="Bally Total Fitness" border="0" hspace="1" vspace="1"></a><img src="/images/spacer.gif" height="1" width="22"></td>
-						    <td><img src="/images/mastheadLeft.jpg" width="226" height="55" alt="" border="0"><img src="/images/mastheadRight.jpg" width="124" height="55" alt="" border="0"><br><img src="/images/mastheadBottom.gif" width="350" height="44" alt="" border="0"></td>
-							<td><img src="/images/spacer.gif" height="1" width="25" border="0"></td>
-							
-						    <td width="80%" align="right">
+						    <td bgcolor="#000000" valign="top"><a href="/index.asp"><img src="/images/header/logo_btf.jpg" width="160" height="113" border="0" alt="Bally Total Fitness"></a><br></td>				
+						    <td width="80%" align="left" bgcolor="#000000" background="/images/header/header_bg.gif">
 							<!-- log in area -->
 								
-	<table cellspacing="0" cellpadding="0" border="0">
+
+<table width="100%" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td width="315"><img src="/images/header/call.gif" width="293" alt=""><br></td>
+
+	<td width="320" valign="bottom">
+	<!-- START MEMBER LOGIN -->
+	<table cellpadding="0" cellspacing="0" border="0">
 	<form name="formX" id="formX" action="/index.asp?mem_login=1" method="post"></form>
-		<tbody><tr>
-			<td rowspan="5"><img src="/images/spacer.gif" width="6" height="1" alt="" border="0"></td>
-			<td rowspan="5" valign="top" align="right" class="small">
-				<a href="javascript:window.RegisterWin()">
-				
-				<img src="/images/members.gif" width="135" height="57" alt="" border="0"></a>
-				
-				<br><a href="javascript:window.ForgotPassword()"><img src="/images/forgotyourpassword.gif" border="0"></a></td>
-			<td rowspan="5"><img src="/images/spacer.gif" width="6" height="1" alt="" border="0"></td>
-			<td rowspan="5" bgcolor="#999999"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
-			<td rowspan="5"><img src="/images/spacer.gif" width="6" height="1" alt="" border="0"></td>
-			<td><img src="/images/log_member.gif" width="70" height="14" alt="" border="0"></td>
-			<td rowspan="4">&nbsp;</td>
-		</tr>
-		<tr>
-		    <td><img src="/images/log_username.gif" width="50" height="9" alt="" border="0"></td>
-		</tr>
-		<tr>
-		    <td><input type="text" name="user_name" size="9" maxlength="55"></td>
-		</tr>
-		<tr>
-		    <td><img src="/images/log_password.gif" width="43" height="9" alt="" border="0"></td>
-		</tr>
-		<tr>
-		    <td><input type="password" name="user_password" size="9" maxlength="55"></td>
-		    <td valign="bottom" nowrap=""><img src="/images/spacer.gif" width="1" height="1" alt="" border="0">
-				<a href="javascript:document.formX.submit();"><input type="image" src="/images/go.gif" border="0"></a></td>
-		</tr>
+	<tbody><tr>
+		<td colspan="5" class="whitebold">Member Login</td>
+	</tr>
+	<tr>
+		<td class="white">Username</td>
+		<td class="white">&nbsp;</td>
+		<td class="white" colspan="3">Password</td>
+	</tr>
+	<tr>
+		<td><input type="text" name="user_name" size="14" maxlength="55"></td>
+		<td width="5">&nbsp;</td>
+		<td><input type="password" name="user_password" size="14" maxlength="55"></td>
+		<td width="5">&nbsp;</td>
+		<td><a href="javascript:document.formX.submit();"><input type="image" src="/images/header/loginB.gif" border="0"></a></td>
+	</tr>
+	<tr>
+		<td><a class="white" href="javascript:window.RegisterWin()">Register</a></td>
+		<td></td>
+		<td colspan="3"><a class="white" href="javascript:window.ForgotPassword()">Forgot Your Password</a></td>
+	</tr>
+	<tr>
+		<td colspan="5"><img src="/images/spacer.gif" width="1" height="15" alt=""><br></td>
+	</tr>
 	
-	</tbody></table>   
+	</tbody></table>
+	<!-- END MEMBER LOGIN -->
+	</td>
+
+	<td valign="bottom" align="left">
+	<!-- START SEARCH -->
+	<table cellpadding="0" cellspacing="0" border="0">
+	<form name="daSearch" action="http://onyx.ballyfitness.com/searchResults.asp?page=privacy" method="post"></form>
+	<tbody><tr>
+		<td class="white" colspan="3"><!--Search--></td>
+	</tr>
+	<tr>
+		<td><!--<input type="text" name="searchString" size="16" class="InputBox">--></td>
+		<td width="300">&nbsp;</td>
+		<td><!--<input type="hidden" name="action" value="Go"><input type="image" src="/images/header/searchB.gif" border="0" name="submit" onKeyPress="submit(this)" onClick="submit(this)" value="submit">--></td>
+	</tr>
+	<tr>
+		<td colspan="3" class="white">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="/images/spacer.gif" width="1" height="15" alt=""><br></td>
+	</tr>
+	
+	</tbody></table>
+	</td>
+	<!-- END SEARCH -->
+	
+
+	<td>&nbsp;</td>
+</tr>
+<tr>
+	<td colspan="4"><img src="/images/header/highlights.jpg" width="763" height="12" alt=""><br></td>
+</tr>
+</tbody></table>
+
 
 							<!-- /log in area -->
 							</td>
-							<td width="20%" align="right">&nbsp;</td>
+							<td width="20%" align="right" bgcolor="#000000" background="/images/header/header_bg.gif">&nbsp;</td>
 						</tr>
 					</tbody></table>
 				</td>
@@ -160,46 +202,1045 @@ function ForgotPassword() {
 			<!-- main nav -->
 			<tr>
 			    <td>
-										<table cellspacing="0" cellpadding="0" border="0" background="/images/top_bgTile.gif" width="100%">
-						<tbody><tr>
-						    <td><img src="/images/spacer.gif" width="8" height="27" alt="" border="0"></td>
-						    <td><img src="/images/top_search.gif" width="38" height="15" alt="" border="0"></td>
-							<td><img src="/images/spacer.gif" width="5" height="1" alt="" border="0"></td>
-						<!-- Search form -->
-							<form name="daSearch" action="http://www.ballyfitness.com/searchResults.asp?page=privacy" method="post"></form>
-							    <td><input type="text" name="searchString" size="8"></td>
-								<td><img src="/images/spacer.gif" width="3" height="1" alt="" border="0"></td>
-							    <td height="20">
-								<input type="hidden" name="action" value="Go">
-								<input type="image" src="/images/top_searchglassSm.gif" border="0" name="submit" onkeypress="submit(this)" onclick="submit(this)" value="submit"></td>
-								<td><img src="/images/spacer.gif" width="6" height="1" alt="" border="0"></td>
-							
-						<!-- /Search form -->
-						    <td><img src="/images/top_div1px.gif" width="4" height="15" alt="" border="0"></td>
+					<script language="JavaScript">
+function Menu(label, mw, mh, fnt, fs, fclr, fhclr, bg, bgh, halgn, valgn, pad, space, to, sx, sy, srel, opq, vert, idt, aw, ah) 
+{
+	this.version = "020320 [Menu; mm_menu.js]";
+	this.type = "Menu";
+	this.menuWidth = mw;
+	this.menuItemHeight = mh;
+	this.fontSize = fs;
+	this.fontWeight = "plain";
+	this.fontFamily = fnt;
+	this.fontColor = fclr;
+	this.fontColorHilite = fhclr;
+	this.bgColor = "#555555";
+	this.menuBorder = 1;
+	this.menuBgOpaque=opq;
+	this.menuItemBorder = 1;
+	this.menuItemIndent = idt;
+	this.menuItemBgColor = bg;
+	this.menuItemVAlign = valgn;
+	this.menuItemHAlign = halgn;
+	this.menuItemPadding = pad;
+	this.menuItemSpacing = space;
+	this.menuLiteBgColor = "#ffffff";
+	this.menuBorderBgColor = "#777777";
+	this.menuHiliteBgColor = bgh;
+	this.menuContainerBgColor = "#cccccc";
+	this.childMenuIcon = "arrows.gif";
+	this.submenuXOffset = sx;
+	this.submenuYOffset = sy;
+	this.submenuRelativeToItem = srel;
+	this.vertical = vert;
+	this.items = new Array();
+	this.actions = new Array();
+	this.childMenus = new Array();
+	this.hideOnMouseOut = true;
+	this.hideTimeout = to;
+	this.addMenuItem = addMenuItem;
+	this.writeMenus = writeMenus;
+	this.MM_showMenu = MM_showMenu;
+	this.onMenuItemOver = onMenuItemOver;
+	this.onMenuItemAction = onMenuItemAction;
+	this.hideMenu = hideMenu;
+	this.hideChildMenu = hideChildMenu;
+	if (!window.menus) window.menus = new Array();
+	this.label = " " + label;
+	window.menus[this.label] = this;
+	window.menus[window.menus.length] = this;
+	if (!window.activeMenus) window.activeMenus = new Array();
+}
+
+function addMenuItem(label, action) {
+	this.items[this.items.length] = label;
+	this.actions[this.actions.length] = action;
+}
+
+function FIND(item) {
+	if( window.mmIsOpera ) return(document.getElementById(item));
+	if (document.all) return(document.all[item]);
+	if (document.getElementById) return(document.getElementById(item));
+	return(false);
+}
+
+function writeMenus(container) {
+	if (window.triedToWriteMenus) return;
+	var agt = navigator.userAgent.toLowerCase();
+	window.mmIsOpera = agt.indexOf("opera") != -1;
+	if (!container && document.layers) {
+		window.delayWriteMenus = this.writeMenus;
+		var timer = setTimeout('delayWriteMenus()', 500);
+		container = new Layer(100);
+		clearTimeout(timer);
+	} else if (document.all || document.hasChildNodes || window.mmIsOpera) {
+		document.writeln('<span id="menuContainer"></span>');
+		container = FIND("menuContainer");
+	}
+
+	window.mmHideMenuTimer = null;
+	if (!container) return;	
+	window.triedToWriteMenus = true; 
+	container.isContainer = true;
+	container.menus = new Array();
+	for (var i=0; i<window.menus.length; i++) 
+		container.menus[i] = window.menus[i];
+	window.menus.length = 0;
+	var countMenus = 0;
+	var countItems = 0;
+	var top = 0;
+	var content = '';
+	var lrs = false;
+	var theStat = "";
+	var tsc = 0;
+	if (document.layers) lrs = true;
+	for (var i=0; i<container.menus.length; i++, countMenus++) {
+		var menu = container.menus[i];
+		if (menu.bgImageUp || !menu.menuBgOpaque) {
+			menu.menuBorder = 0;
+			menu.menuItemBorder = 0;
+		}
+		if (lrs) {
+			var menuLayer = new Layer(100, container);
+			var lite = new Layer(100, menuLayer);
+			lite.top = menu.menuBorder;
+			lite.left = menu.menuBorder;
+			var body = new Layer(100, lite);
+			body.top = menu.menuBorder;
+			body.left = menu.menuBorder;
+		} else {
+			content += ''+
+			'<div id="menuLayer'+ countMenus +'" style="position:absolute;z-index:1;left:10px;top:'+ (i * 100) +'px;visibility:hidden;color:' +  menu.menuBorderBgColor + ';">\n'+
+			'  <div id="menuLite'+ countMenus +'" style="position:absolute;z-index:1;left:'+ menu.menuBorder +'px;top:'+ menu.menuBorder +'px;visibility:hide;" onmouseout="mouseoutMenu();">\n'+
+			'	 <div id="menuFg'+ countMenus +'" style="position:absolute;left:'+ menu.menuBorder +'px;top:'+ menu.menuBorder +'px;visibility:hide;">\n'+
+			'';
+		}
+		var x=i;
+		for (var i=0; i<menu.items.length; i++) {
+			var item = menu.items[i];
+			var childMenu = false;
+			var defaultHeight = menu.fontSize+2*menu.menuItemPadding;
+			if (item.label) {
+				item = item.label;
+				childMenu = true;
+			}
+			menu.menuItemHeight = menu.menuItemHeight || defaultHeight;
+			var itemProps = '';
+			if( menu.fontFamily != '' ) itemProps += 'font-family:' + menu.fontFamily +';';
+			itemProps += 'font-weight:' + menu.fontWeight + ';fontSize:' + menu.fontSize + 'px;';
+			if (menu.fontStyle) itemProps += 'font-style:' + menu.fontStyle + ';';
+			if (document.all || window.mmIsOpera) 
+				itemProps += 'font-size:' + menu.fontSize + 'px;" onmouseover="onMenuItemOver(null,this);" onclick="onMenuItemAction(null,this);';
+			else if (!document.layers) {
+				itemProps += 'font-size:' + menu.fontSize + 'px;';
+			}
+			var l;
+			if (lrs) {
+				var lw = menu.menuWidth;
+				if( menu.menuItemHAlign == 'right' ) lw -= menu.menuItemPadding;
+				l = new Layer(lw,body);
+			}
+			var itemLeft = 0;
+			var itemTop = i*menu.menuItemHeight;
+			if( !menu.vertical ) {
+				itemLeft = i*menu.menuWidth;
+				itemTop = 0;
+			}
+			var dTag = '<div id="menuItem'+ countItems +'" style="position:absolute;left:' + itemLeft + 'px;top:'+ itemTop +'px;'+ itemProps +'">';
+			var dClose = '</div>'
+			if (menu.bgImageUp) dTag = '<div id="menuItem'+ countItems +'" style="background:url('+menu.bgImageUp+');position:absolute;left:' + itemLeft + 'px;top:'+ itemTop +'px;'+ itemProps +'">';
+
+			var left = 0, top = 0, right = 0, bottom = 0;
+			left = 1 + menu.menuItemPadding + menu.menuItemIndent;
+			right = left + menu.menuWidth - 2*menu.menuItemPadding - menu.menuItemIndent;
+			if( menu.menuItemVAlign == 'top' ) top = menu.menuItemPadding;
+			if( menu.menuItemVAlign == 'bottom' ) top = menu.menuItemHeight-menu.fontSize-1-menu.menuItemPadding;
+			if( menu.menuItemVAlign == 'middle' ) top = ((menu.menuItemHeight/2)-(menu.fontSize/2)-1);
+			bottom = menu.menuItemHeight - 2*menu.menuItemPadding;
+			var textProps = 'position:absolute;left:' + left + 'px;top:' + top + 'px;';
+			if (lrs) {
+				textProps +=itemProps + 'right:' + right + ';bottom:' + bottom + ';';
+				dTag = "";
+				dClose = "";
+			}
+			
+			if(document.all && !window.mmIsOpera) {
+				item = '<div align="' + menu.menuItemHAlign + '">' + item + '</div>';
+			} else if (lrs) {
+				item = '<div style="text-align:' + menu.menuItemHAlign + ';">' + item + '</div>';
+			} else {
+				var hitem = null;
+				if( menu.menuItemHAlign != 'left' ) {
+					if(window.mmIsOpera) {
+						var operaWidth = menu.menuItemHAlign == 'center' ? -(menu.menuWidth-2*menu.menuItemPadding) : (menu.menuWidth-6*menu.menuItemPadding);
+						hitem = '<div id="menuItemHilite' + countItems + 'Shim" style="position:absolute;top:1px;left:' + menu.menuItemPadding + 'px;width:' + operaWidth + 'px;text-align:' 
+							+ menu.menuItemHAlign + ';visibility:visible;">' + item + '</div>';
+						item = '<div id="menuItemText' + countItems + 'Shim" style="position:absolute;top:1px;left:' + menu.menuItemPadding + 'px;width:' + operaWidth + 'px;text-align:' 
+							+ menu.menuItemHAlign + ';visibility:visible;">' + item + '</div>';
+					} else {
+						hitem = '<div id="menuItemHilite' + countItems + 'Shim" style="position:absolute;top:1px;left:1px;right:-' + (left+menu.menuWidth-3*menu.menuItemPadding) + 'px;text-align:' 
+							+ menu.menuItemHAlign + ';visibility:visible;">' + item + '</div>';
+						item = '<div id="menuItemText' + countItems + 'Shim" style="position:absolute;top:1px;left:1px;right:-' + (left+menu.menuWidth-3*menu.menuItemPadding) + 'px;text-align:' 
+							+ menu.menuItemHAlign + ';visibility:visible;">' + item + '</div>';
+					}
+				} else hitem = null;
+			}
+			if(document.all && !window.mmIsOpera) item = '<div id="menuItemShim' + countItems + '" style="position:absolute;left:0px;top:0px;">' + item + '</div>';
+			var dText	= '<div id="menuItemText'+ countItems +'" style="' + textProps + 'color:'+ menu.fontColor +';">'+ item +'&nbsp</div>\n'
+						+ '<div id="menuItemHilite'+ countItems +'" style="' + textProps + 'color:'+ menu.fontColorHilite +';visibility:hidden;">' 
+						+ (hitem||item) +'&nbsp</div>';
+			if (childMenu) content += ( dTag + dText + '<div id="childMenu'+ countItems +'" style="position:absolute;left:0px;top:3px;"><img src="'+ menu.childMenuIcon +'"></div>\n' + dClose);
+			else content += ( dTag + dText + dClose);
+			if (lrs) {
+				l.document.open("text/html");
+				l.document.writeln(content);
+				l.document.close();	
+				content = '';
+				theStat += "-";
+				tsc++;
+				if (tsc > 50) {
+					tsc = 0;
+					theStat = "";
+				}
+				status = theStat;
+			}
+			countItems++;  
+		}
+		if (lrs) {
+			var focusItem = new Layer(100, body);
+			focusItem.visiblity="hidden";
+			focusItem.document.open("text/html");
+			focusItem.document.writeln("&nbsp;");
+			focusItem.document.close();	
+		} else {
+		  content += '	  <div id="focusItem'+ countMenus +'" style="position:absolute;left:0px;top:0px;visibility:hide;" onclick="onMenuItemAction(null,this);">&nbsp;</div>\n';
+		  content += '   </div>\n  </div>\n</div>\n';
+		}
+		i=x;
+	}
+	if (document.layers) {		
+		container.clip.width = window.innerWidth;
+		container.clip.height = window.innerHeight;
+		container.onmouseout = mouseoutMenu;
+		container.menuContainerBgColor = this.menuContainerBgColor;
+		for (var i=0; i<container.document.layers.length; i++) {
+			proto = container.menus[i];
+			var menu = container.document.layers[i];
+			container.menus[i].menuLayer = menu;
+			container.menus[i].menuLayer.Menu = container.menus[i];
+			container.menus[i].menuLayer.Menu.container = container;
+			var body = menu.document.layers[0].document.layers[0];
+			body.clip.width = proto.menuWidth || body.clip.width;
+			body.clip.height = proto.menuHeight || body.clip.height;
+			for (var n=0; n<body.document.layers.length-1; n++) {
+				var l = body.document.layers[n];
+				l.Menu = container.menus[i];
+				l.menuHiliteBgColor = proto.menuHiliteBgColor;
+				l.document.bgColor = proto.menuItemBgColor;
+				l.saveColor = proto.menuItemBgColor;
+				l.onmouseover = proto.onMenuItemOver;
+				l.onclick = proto.onMenuItemAction;
+				l.mmaction = container.menus[i].actions[n];
+				l.focusItem = body.document.layers[body.document.layers.length-1];
+				l.clip.width = proto.menuWidth || body.clip.width;
+				l.clip.height = proto.menuItemHeight || l.clip.height;
+				if (n>0) {
+					if( l.Menu.vertical ) l.top = body.document.layers[n-1].top + body.document.layers[n-1].clip.height + proto.menuItemBorder + proto.menuItemSpacing;
+					else l.left = body.document.layers[n-1].left + body.document.layers[n-1].clip.width + proto.menuItemBorder + proto.menuItemSpacing;
+				}
+				l.hilite = l.document.layers[1];
+				if (proto.bgImageUp) l.background.src = proto.bgImageUp;
+				l.document.layers[1].isHilite = true;
+				if (l.document.layers.length > 2) {
+					l.childMenu = container.menus[i].items[n].menuLayer;
+					l.document.layers[2].left = l.clip.width -13;
+					l.document.layers[2].top = (l.clip.height / 2) -4;
+					l.document.layers[2].clip.left += 3;
+					l.Menu.childMenus[l.Menu.childMenus.length] = l.childMenu;
+				}
+			}
+			if( proto.menuBgOpaque ) body.document.bgColor = proto.bgColor;
+			if( proto.vertical ) {
+				body.clip.width  = l.clip.width +proto.menuBorder;
+				body.clip.height = l.top + l.clip.height +proto.menuBorder;
+			} else {
+				body.clip.height  = l.clip.height +proto.menuBorder;
+				body.clip.width = l.left + l.clip.width  +proto.menuBorder;
+				if( body.clip.width > window.innerWidth ) body.clip.width = window.innerWidth;
+			}
+			var focusItem = body.document.layers[n];
+			focusItem.clip.width = body.clip.width;
+			focusItem.Menu = l.Menu;
+			focusItem.top = -30;
+            focusItem.captureEvents(Event.MOUSEDOWN);
+            focusItem.onmousedown = onMenuItemDown;
+			if( proto.menuBgOpaque ) menu.document.bgColor = proto.menuBorderBgColor;
+			var lite = menu.document.layers[0];
+			if( proto.menuBgOpaque ) lite.document.bgColor = proto.menuLiteBgColor;
+			lite.clip.width = body.clip.width +1;
+			lite.clip.height = body.clip.height +1;
+			menu.clip.width = body.clip.width + (proto.menuBorder * 3) ;
+			menu.clip.height = body.clip.height + (proto.menuBorder * 3);
+		}
+	} else {
+		if ((!document.all) && (container.hasChildNodes) && !window.mmIsOpera) {
+			container.innerHTML=content;
+		} else {
+			container.document.open("text/html");
+			container.document.writeln(content);
+			container.document.close();	
+		}
+		if (!FIND("menuLayer0")) return;
+		var menuCount = 0;
+		for (var x=0; x<container.menus.length; x++) {
+			var menuLayer = FIND("menuLayer" + x);
+			container.menus[x].menuLayer = "menuLayer" + x;
+			menuLayer.Menu = container.menus[x];
+			menuLayer.Menu.container = "menuLayer" + x;
+			menuLayer.style.zindex = 1;
+		    var s = menuLayer.style;
+			s.pixeltop = -300;
+			s.pixelleft = -300;
+			s.top = '-300px';
+			s.left = '-300px';
+
+			var menu = container.menus[x];
+			menu.menuItemWidth = menu.menuWidth || menu.menuIEWidth || 140;
+			if( menu.menuBgOpaque ) menuLayer.style.backgroundColor = menu.menuBorderBgColor;
+			var top = 0;
+			var left = 0;
+			menu.menuItemLayers = new Array();
+			for (var i=0; i<container.menus[x].items.length; i++) {
+				var l = FIND("menuItem" + menuCount);
+				l.Menu = container.menus[x];
+				l.Menu.menuItemLayers[l.Menu.menuItemLayers.length] = l;
+				if (l.addEventListener || window.mmIsOpera) {
+					l.style.width = menu.menuItemWidth + 'px';
+					l.style.height = menu.menuItemHeight + 'px';
+					l.style.pixelWidth = menu.menuItemWidth;
+					l.style.pixelHeight = menu.menuItemHeight;
+					l.style.top = top + 'px';
+					l.style.left = left + 'px';
+					if(l.addEventListener) {
+						l.addEventListener("mouseover", onMenuItemOver, false);
+						l.addEventListener("click", onMenuItemAction, false);
+						l.addEventListener("mouseout", mouseoutMenu, false);
+					}
+					if( menu.menuItemHAlign != 'left' ) {
+						l.hiliteShim = FIND("menuItemHilite" + menuCount + "Shim");
+						l.hiliteShim.style.visibility = "inherit";
+						l.textShim = FIND("menuItemText" + menuCount + "Shim");
+						l.hiliteShim.style.pixelWidth = menu.menuItemWidth - 2*menu.menuItemPadding - menu.menuItemIndent;
+						l.hiliteShim.style.width = l.hiliteShim.style.pixelWidth;
+						l.textShim.style.pixelWidth = menu.menuItemWidth - 2*menu.menuItemPadding - menu.menuItemIndent;
+						l.textShim.style.width = l.textShim.style.pixelWidth;	
+					}
+				} else {
+					l.style.pixelWidth = menu.menuItemWidth;
+					l.style.pixelHeight = menu.menuItemHeight;
+					l.style.pixelTop = top;
+					l.style.pixelLeft = left;
+					if( menu.menuItemHAlign != 'left' ) {
+						var shim = FIND("menuItemShim" + menuCount);
+						shim[0].style.pixelWidth = menu.menuItemWidth - 2*menu.menuItemPadding - menu.menuItemIndent;
+						shim[1].style.pixelWidth = menu.menuItemWidth - 2*menu.menuItemPadding - menu.menuItemIndent;
+						shim[0].style.width = shim[0].style.pixelWidth + 'px';
+						shim[1].style.width = shim[1].style.pixelWidth + 'px';
+					}
+				}
+				if( menu.vertical ) top = top + menu.menuItemHeight+menu.menuItemBorder+menu.menuItemSpacing;
+				else left = left + menu.menuItemWidth+menu.menuItemBorder+menu.menuItemSpacing;
+				l.style.fontSize = menu.fontSize + 'px';
+				l.style.backgroundColor = menu.menuItemBgColor;
+				l.style.visibility = "inherit";
+				l.saveColor = menu.menuItemBgColor;
+				l.menuHiliteBgColor = menu.menuHiliteBgColor;
+				l.mmaction = container.menus[x].actions[i];
+				l.hilite = FIND("menuItemHilite" + menuCount);
+				l.focusItem = FIND("focusItem" + x);
+				l.focusItem.style.pixelTop = -30;
+				l.focusItem.style.top = '-30px';
+				var childItem = FIND("childMenu" + menuCount);
+				if (childItem) {
+					l.childMenu = container.menus[x].items[i].menuLayer;
+					childItem.style.pixelLeft = menu.menuItemWidth -11;
+					childItem.style.left = childItem.style.pixelLeft + 'px';
+					childItem.style.pixelTop = (menu.menuItemHeight /2) -4;
+					childItem.style.top = childItem.style.pixelTop + 'px';
+					l.Menu.childMenus[l.Menu.childMenus.length] = l.childMenu;
+				}
+				l.style.cursor = "hand";
+				menuCount++;
+			}
+			if( menu.vertical ) {
+				menu.menuHeight = top-1-menu.menuItemSpacing;
+				menu.menuWidth = menu.menuItemWidth;
+			} else {
+				menu.menuHeight = menu.menuItemHeight;
+				menu.menuWidth = left-1-menu.menuItemSpacing;
+			}
+
+			var lite = FIND("menuLite" + x);
+			var s = lite.style;
+			s.pixelHeight = menu.menuHeight +(menu.menuBorder * 2);
+			s.height = s.pixelHeight + 'px';
+			s.pixelWidth = menu.menuWidth + (menu.menuBorder * 2);
+			s.width = s.pixelWidth + 'px';
+			if( menu.menuBgOpaque ) s.backgroundColor = menu.menuLiteBgColor;
+
+			var body = FIND("menuFg" + x);
+			s = body.style;
+			s.pixelHeight = menu.menuHeight + menu.menuBorder;
+			s.height = s.pixelHeight + 'px';
+			s.pixelWidth = menu.menuWidth + menu.menuBorder;
+			s.width = s.pixelWidth + 'px';
+			if( menu.menuBgOpaque ) s.backgroundColor = menu.bgColor;
+
+			s = menuLayer.style;
+			s.pixelWidth  = menu.menuWidth + (menu.menuBorder * 4);
+			s.width = s.pixelWidth + 'px';
+			s.pixelHeight  = menu.menuHeight+(menu.menuBorder*4);
+			s.height = s.pixelHeight + 'px';
+		}
+	}
+	if (document.captureEvents) document.captureEvents(Event.MOUSEUP);
+	if (document.addEventListener) document.addEventListener("mouseup", onMenuItemOver, false);
+	if (document.layers && window.innerWidth) {
+		window.onresize = NS4resize;
+		window.NS4sIW = window.innerWidth;
+		window.NS4sIH = window.innerHeight;
+		setTimeout("NS4resize()",500);
+	}
+	document.onmouseup = mouseupMenu;
+	window.mmWroteMenu = true;
+	status = "";
+}
+
+function NS4resize() {
+	if (NS4sIW != window.innerWidth || NS4sIH != window.innerHeight) window.location.reload();
+}
+
+function onMenuItemOver(e, l) {
+	MM_clearTimeout();
+	l = l || this;
+	a = window.ActiveMenuItem;
+	if (document.layers) {
+		if (a) {
+			a.document.bgColor = a.saveColor;
+			if (a.hilite) a.hilite.visibility = "hidden";
+			if (a.Menu.bgImageOver) a.background.src = a.Menu.bgImageUp;
+			a.focusItem.top = -100;
+			a.clicked = false;
+		}
+		if (l.hilite) {
+			l.document.bgColor = l.menuHiliteBgColor;
+			l.zIndex = 1;
+			l.hilite.visibility = "inherit";
+			l.hilite.zIndex = 2;
+			l.document.layers[1].zIndex = 1;
+			l.focusItem.zIndex = this.zIndex +2;
+		}
+		if (l.Menu.bgImageOver) l.background.src = l.Menu.bgImageOver;
+		l.focusItem.top = this.top;
+		l.focusItem.left = this.left;
+		l.focusItem.clip.width = l.clip.width;
+		l.focusItem.clip.height = l.clip.height;
+		l.Menu.hideChildMenu(l);
+	} else if (l.style && l.Menu) {
+		if (a) {
+			a.style.backgroundColor = a.saveColor;
+			if (a.hilite) a.hilite.style.visibility = "hidden";
+			if (a.hiliteShim) a.hiliteShim.style.visibility = "inherit";
+			if (a.Menu.bgImageUp) a.style.background = "url(" + a.Menu.bgImageUp +")";;
+		} 
+		l.style.backgroundColor = l.menuHiliteBgColor;
+		l.zIndex = 1;
+		if (l.Menu.bgImageOver) l.style.background = "url(" + l.Menu.bgImageOver +")";
+		if (l.hilite) {
+			l.hilite.style.visibility = "inherit";
+			if( l.hiliteShim ) l.hiliteShim.style.visibility = "visible";
+		}
+		l.focusItem.style.pixelTop = l.style.pixelTop;
+		l.focusItem.style.top = l.focusItem.style.pixelTop + 'px';
+		l.focusItem.style.pixelLeft = l.style.pixelLeft;
+		l.focusItem.style.left = l.focusItem.style.pixelLeft + 'px';
+		l.focusItem.style.zIndex = l.zIndex +1;
+		l.Menu.hideChildMenu(l);
+	} else return;
+	window.ActiveMenuItem = l;
+}
+
+function onMenuItemAction(e, l) {
+	l = window.ActiveMenuItem;
+	if (!l) return;
+	hideActiveMenus();
+	if (l.mmaction) eval("" + l.mmaction);
+	window.ActiveMenuItem = 0;
+}
+
+function MM_clearTimeout() {
+	if (mmHideMenuTimer) clearTimeout(mmHideMenuTimer);
+	mmHideMenuTimer = null;
+	mmDHFlag = false;
+}
+
+function MM_startTimeout() {
+	if( window.ActiveMenu ) {
+		mmStart = new Date();
+		mmDHFlag = true;
+		mmHideMenuTimer = setTimeout("mmDoHide()", window.ActiveMenu.Menu.hideTimeout);
+	}
+}
+
+function mmDoHide() {
+	if (!mmDHFlag || !window.ActiveMenu) return;
+	var elapsed = new Date() - mmStart;
+	var timeout = window.ActiveMenu.Menu.hideTimeout;
+	if (elapsed < timeout) {
+		mmHideMenuTimer = setTimeout("mmDoHide()", timeout+100-elapsed);
+		return;
+	}
+	mmDHFlag = false;
+	hideActiveMenus();
+	window.ActiveMenuItem = 0;
+}
+
+function MM_showMenu(menu, x, y, child, imgname) {
+	if (!window.mmWroteMenu) return;
+	MM_clearTimeout();
+	if (menu) {
+		var obj = FIND(imgname) || document.images[imgname] || document.links[imgname] || document.anchors[imgname];
+		x = moveXbySlicePos (x, obj);
+		y = moveYbySlicePos (y, obj);
+	}
+	if (document.layers) {
+		if (menu) {
+			var l = menu.menuLayer || menu;
+			l.top = l.left = 1;
+			hideActiveMenus();
+			if (this.visibility) l = this;
+			window.ActiveMenu = l;
+		} else {
+			var l = child;
+		}
+		if (!l) return;
+		for (var i=0; i<l.layers.length; i++) { 			   
+			if (!l.layers[i].isHilite) l.layers[i].visibility = "inherit";
+			if (l.layers[i].document.layers.length > 0) MM_showMenu(null, "relative", "relative", l.layers[i]);
+		}
+		if (l.parentLayer) {
+			if (x != "relative") l.parentLayer.left = x || window.pageX || 0;
+			if (l.parentLayer.left + l.clip.width > window.innerWidth) l.parentLayer.left -= (l.parentLayer.left + l.clip.width - window.innerWidth);
+			if (y != "relative") l.parentLayer.top = y || window.pageY || 0;
+			if (l.parentLayer.isContainer) {
+				l.Menu.xOffset = window.pageXOffset;
+				l.Menu.yOffset = window.pageYOffset;
+				l.parentLayer.clip.width = window.ActiveMenu.clip.width +2;
+				l.parentLayer.clip.height = window.ActiveMenu.clip.height +2;
+				if (l.parentLayer.menuContainerBgColor && l.Menu.menuBgOpaque ) l.parentLayer.document.bgColor = l.parentLayer.menuContainerBgColor;
+			}
+		}
+		l.visibility = "inherit";
+		if (l.Menu) l.Menu.container.visibility = "inherit";
+	} else if (FIND("menuItem0")) {
+		var l = menu.menuLayer || menu;	
+		hideActiveMenus();
+		if (typeof(l) == "string") l = FIND(l);
+		window.ActiveMenu = l;
+		var s = l.style;
+		s.visibility = "inherit";
+		if (x != "relative") {
+			s.pixelLeft = x || (window.pageX + document.body.scrollLeft) || 0;
+			s.left = s.pixelLeft + 'px';
+		}
+		if (y != "relative") {
+			s.pixelTop = y || (window.pageY + document.body.scrollTop) || 0;
+			s.top = s.pixelTop + 'px';
+		}
+		l.Menu.xOffset = document.body.scrollLeft;
+		l.Menu.yOffset = document.body.scrollTop;
+	}
+	if (menu) window.activeMenus[window.activeMenus.length] = l;
+	MM_clearTimeout();
+}
+
+function onMenuItemDown(e, l) {
+	var a = window.ActiveMenuItem;
+	if (document.layers && a) {
+		a.eX = e.pageX;
+		a.eY = e.pageY;
+		a.clicked = true;
+    }
+}
+
+function mouseupMenu(e) {
+	hideMenu(true, e);
+	hideActiveMenus();
+	return true;
+}
+
+function getExplorerVersion() {
+	var ieVers = parseFloat(navigator.appVersion);
+	if( navigator.appName != 'Microsoft Internet Explorer' ) return ieVers;
+	var tempVers = navigator.appVersion;
+	var i = tempVers.indexOf( 'MSIE ' );
+	if( i >= 0 ) {
+		tempVers = tempVers.substring( i+5 );
+		ieVers = parseFloat( tempVers ); 
+	}
+	return ieVers;
+}
+
+function mouseoutMenu() {
+	if ((navigator.appName == "Microsoft Internet Explorer") && (getExplorerVersion() < 4.5))
+		return true;
+	hideMenu(false, false);
+	return true;
+}
+
+function hideMenu(mouseup, e) {
+	var a = window.ActiveMenuItem;
+	if (a && document.layers) {
+		a.document.bgColor = a.saveColor;
+		a.focusItem.top = -30;
+		if (a.hilite) a.hilite.visibility = "hidden";
+		if (mouseup && a.mmaction && a.clicked && window.ActiveMenu) {
+ 			if (a.eX <= e.pageX+15 && a.eX >= e.pageX-15 && a.eY <= e.pageY+10 && a.eY >= e.pageY-10) {
+				setTimeout('window.ActiveMenu.Menu.onMenuItemAction();', 500);
+			}
+		}
+		a.clicked = false;
+		if (a.Menu.bgImageOver) a.background.src = a.Menu.bgImageUp;
+	} else if (window.ActiveMenu && FIND("menuItem0")) {
+		if (a) {
+			a.style.backgroundColor = a.saveColor;
+			if (a.hilite) a.hilite.style.visibility = "hidden";
+			if (a.hiliteShim) a.hiliteShim.style.visibility = "inherit";
+			if (a.Menu.bgImageUp) a.style.background = "url(" + a.Menu.bgImageUp +")";
+		}
+	}
+	if (!mouseup && window.ActiveMenu) {
+		if (window.ActiveMenu.Menu) {
+			if (window.ActiveMenu.Menu.hideOnMouseOut) MM_startTimeout();
+			return(true);
+		}
+	}
+	return(true);
+}
+
+function hideChildMenu(hcmLayer) {
+	MM_clearTimeout();
+	var l = hcmLayer;
+	for (var i=0; i < l.Menu.childMenus.length; i++) {
+		var theLayer = l.Menu.childMenus[i];
+		if (document.layers) theLayer.visibility = "hidden";
+		else {
+			theLayer = FIND(theLayer);
+			theLayer.style.visibility = "hidden";
+			if( theLayer.Menu.menuItemHAlign != 'left' ) {
+				for(var j = 0; j < theLayer.Menu.menuItemLayers.length; j++) {
+					var itemLayer = theLayer.Menu.menuItemLayers[j];
+					if(itemLayer.textShim) itemLayer.textShim.style.visibility = "inherit";
+				}
+			}
+		}
+		theLayer.Menu.hideChildMenu(theLayer);
+	}
+	if (l.childMenu) {
+		var childMenu = l.childMenu;
+		if (document.layers) {
+			l.Menu.MM_showMenu(null,null,null,childMenu.layers[0]);
+			childMenu.zIndex = l.parentLayer.zIndex +1;
+			childMenu.top = l.Menu.menuLayer.top + l.Menu.submenuYOffset;
+			if( l.Menu.vertical ) {
+				if( l.Menu.submenuRelativeToItem ) childMenu.top += l.top + l.parentLayer.top;
+				childMenu.left = l.parentLayer.left + l.parentLayer.clip.width - (2*l.Menu.menuBorder) + l.Menu.menuLayer.left + l.Menu.submenuXOffset;
+			} else {
+				childMenu.top += l.top + l.parentLayer.top;	
+				if( l.Menu.submenuRelativeToItem ) childMenu.left = l.Menu.menuLayer.left + l.left + l.clip.width + (2*l.Menu.menuBorder) + l.Menu.submenuXOffset;
+				else childMenu.left = l.parentLayer.left + l.parentLayer.clip.width - (2*l.Menu.menuBorder) + l.Menu.menuLayer.left + l.Menu.submenuXOffset;
+			}
+			if( childMenu.left < l.Menu.container.clip.left ) l.Menu.container.clip.left = childMenu.left;
+			var w = childMenu.clip.width+childMenu.left-l.Menu.container.clip.left;
+			if (w > l.Menu.container.clip.width)  l.Menu.container.clip.width = w;
+			var h = childMenu.clip.height+childMenu.top-l.Menu.container.clip.top;
+			if (h > l.Menu.container.clip.height) l.Menu.container.clip.height = h;
+			l.document.layers[1].zIndex = 0;
+			childMenu.visibility = "inherit";
+		} else if (FIND("menuItem0")) {
+			childMenu = FIND(l.childMenu);
+			var menuLayer = FIND(l.Menu.menuLayer);
+			var s = childMenu.style;
+			s.zIndex = menuLayer.style.zIndex+1;
+			if (document.all || window.mmIsOpera) {
+				s.pixelTop = menuLayer.style.pixelTop + l.Menu.submenuYOffset;
+				if( l.Menu.vertical ) {
+					if( l.Menu.submenuRelativeToItem ) s.pixelTop += l.style.pixelTop;
+					s.pixelLeft = l.style.pixelWidth + menuLayer.style.pixelLeft + l.Menu.submenuXOffset;
+					s.left = s.pixelLeft + 'px';
+				} else {
+					s.pixelTop += l.style.pixelTop;
+					if( l.Menu.submenuRelativeToItem ) s.pixelLeft = menuLayer.style.pixelLeft + l.style.pixelLeft + l.style.pixelWidth + (2*l.Menu.menuBorder) + l.Menu.submenuXOffset;
+					else s.pixelLeft = (menuLayer.style.pixelWidth-4*l.Menu.menuBorder) + menuLayer.style.pixelLeft + l.Menu.submenuXOffset;
+					s.left = s.pixelLeft + 'px';
+				}
+			} else {
+				var top = parseInt(menuLayer.style.top) + l.Menu.submenuYOffset;
+				var left = 0;
+				if( l.Menu.vertical ) {
+					if( l.Menu.submenuRelativeToItem ) top += parseInt(l.style.top);
+					left = (parseInt(menuLayer.style.width)-4*l.Menu.menuBorder) + parseInt(menuLayer.style.left) + l.Menu.submenuXOffset;
+				} else {
+					top += parseInt(l.style.top);
+					if( l.Menu.submenuRelativeToItem ) left = parseInt(menuLayer.style.left) + parseInt(l.style.left) + parseInt(l.style.width) + (2*l.Menu.menuBorder) + l.Menu.submenuXOffset;
+					else left = (parseInt(menuLayer.style.width)-4*l.Menu.menuBorder) + parseInt(menuLayer.style.left) + l.Menu.submenuXOffset;
+				}
+				s.top = top + 'px';
+				s.left = left + 'px';
+			}
+			childMenu.style.visibility = "inherit";
+		} else return;
+		window.activeMenus[window.activeMenus.length] = childMenu;
+	}
+}
+
+function hideActiveMenus() {
+	if (!window.activeMenus) return;
+	for (var i=0; i < window.activeMenus.length; i++) {
+		if (!activeMenus[i]) continue;
+		if (activeMenus[i].visibility && activeMenus[i].Menu && !window.mmIsOpera) {
+			activeMenus[i].visibility = "hidden";
+			activeMenus[i].Menu.container.visibility = "hidden";
+			activeMenus[i].Menu.container.clip.left = 0;
+		} else if (activeMenus[i].style) {
+			var s = activeMenus[i].style;
+			s.visibility = "hidden";
+			s.left = '-200px';
+			s.top = '-200px';
+		}
+	}
+	if (window.ActiveMenuItem) hideMenu(false, false);
+	window.activeMenus.length = 0;
+}
+
+function moveXbySlicePos (x, img) { 
+	if (!document.layers) {
+		var onWindows = navigator.platform ? navigator.platform == "Win32" : false;
+		var macIE45 = document.all && !onWindows && getExplorerVersion() == 4.5;
+		var par = img;
+		var lastOffset = 0;
+		while(par){
+			if( par.leftMargin && ! onWindows ) x += parseInt(par.leftMargin);
+			if( (par.offsetLeft != lastOffset) && par.offsetLeft ) x += parseInt(par.offsetLeft);
+			if( par.offsetLeft != 0 ) lastOffset = par.offsetLeft;
+			par = macIE45 ? par.parentElement : par.offsetParent;
+		}
+	} else if (img.x) x += img.x;
+	return x;
+}
+
+function moveYbySlicePos (y, img) {
+	if(!document.layers) {
+		var onWindows = navigator.platform ? navigator.platform == "Win32" : false;
+		var macIE45 = document.all && !onWindows && getExplorerVersion() == 4.5;
+		var par = img;
+		var lastOffset = 0;
+		while(par){
+			if( par.topMargin && !onWindows ) y += parseInt(par.topMargin);
+			if( (par.offsetTop != lastOffset) && par.offsetTop ) y += parseInt(par.offsetTop);
+			if( par.offsetTop != 0 ) lastOffset = par.offsetTop;
+			par = macIE45 ? par.parentElement : par.offsetParent;
+		}		
+	} else if (img.y >= 0) y += img.y;
+	return y;
+}
+</script>
+<script language="JavaScript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_0613120654_0) return;
+  
+  //main prospect navigation
+  window.mm_menu_0613120654_0 = new Menu("root",185,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#ffffff","#EFEFEF","#FF010C","left","middle",3,0,200,-5,7,true,true,true,0,true,true);
+     mm_menu_0613120654_0.addMenuItem("Fast&nbsp;Food&nbsp;Calculator","location='/ebns/calorieCounter/index_js.asp'");
+	//mm_menu_0613120654_0.addMenuItem("30&nbsp;Day&nbsp;Makeover","location='/rapid_results/30_day/'");
+	  //mm_menu_0613120654_0.addMenuItem("30&nbsp;Day&nbsp;Makeover&nbsp;Challenge","location='/rapid_results/rr_challenge/index.asp'");
+
+  mm_menu_0613120654_0.addMenuItem("Workouts","location='/rapid_results/workouts/'");
+  mm_menu_0613120654_0.addMenuItem("Weight&nbsp;Management","location='/rapid_results/weight_management/'");
+  //mm_menu_0613120654_0.addMenuItem("BodyGem<sup>&reg;</sup>&nbsp;Session","location='/clubs/personal_training/bodygem/'");
+  mm_menu_0613120654_0.addMenuItem("Expert&nbsp;Advice","location='/rapid_results/expert_advice/'");
+  mm_menu_0613120654_0.addMenuItem("Fitness&nbsp;Log","location='javascript:window.FitnessLogWin()'");
+    //mm_menu_0613120654_0.addMenuItem("See&nbsp;Contest&nbsp;Results","location='/rapid_results/see_results/'");
+	 mm_menu_0613120654_0.addMenuItem("Television&nbsp;Campaign","location='/ebns/videoBox.asp'");
+
+   mm_menu_0613120654_0.hideOnMouseOut=true;
+   mm_menu_0613120654_0.menuBorder=1;
+   mm_menu_0613120654_0.menuLiteBgColor='#ffffff';
+   mm_menu_0613120654_0.menuBorderBgColor='#A6A6A6';
+   mm_menu_0613120654_0.bgColor='#ffffff';
+  window.mm_menu_0613120400_0 = new Menu("root",139,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#ffffff","#EFEFEF","#FF010C","left","middle",3,0,200,-5,7,true,true,true,0,true,true);
+  //mm_menu_0613120400_0.addMenuItem("Free&nbsp;Guest&nbsp;Pass","location='/join/free_guestpass/guestpass.asp?source=twowk2003'");
+  mm_menu_0613120400_0.addMenuItem("Club&nbsp;Locator","location='javascript:window.popLocator(window.document.location)'");
+  mm_menu_0613120400_0.addMenuItem("New&nbsp;Clubs","location='/clubs/new_clubs/'");
+  mm_menu_0613120400_0.addMenuItem("Group&nbsp;Exercise","location='/clubs/group_exercise/'");
+  mm_menu_0613120400_0.addMenuItem("Personal&nbsp;Training","location='/clubs/personal_training/'");
+   mm_menu_0613120400_0.addMenuItem("BodyGem<sup>&reg;</sup>&nbsp;Session","location='/clubs/personal_training/bodygem/'");
+  mm_menu_0613120400_0.addMenuItem("Fitness&nbsp;Formula&nbsp;<sup>&reg;</sup>","location='/clubs/fitness_formula/'");
+   mm_menu_0613120400_0.hideOnMouseOut=true;
+   mm_menu_0613120400_0.menuBorder=1;
+   mm_menu_0613120400_0.menuLiteBgColor='#ffffff';
+   mm_menu_0613120400_0.menuBorderBgColor='#A6A6A6';
+   mm_menu_0613120400_0.bgColor='#ffffff';
+  window.mm_menu_0613120051_0 = new Menu("root",190,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#ffffff","#EFEFEF","#FF010C","left","middle",3,0,200,-5,7,true,true,true,0,true,true);
+  mm_menu_0613120051_0.addMenuItem("Free&nbsp;Guest&nbsp;Pass","location='/join/free_guestpass/guestpass.asp?source=twowk2003'");
+  mm_menu_0613120051_0.addMenuItem("30&nbsp;Day&nbsp;Trial&nbsp;Membership","location='/join/join_online/'");
+  mm_menu_0613120051_0.addMenuItem("Shape-Up&nbsp;Sweepstakes","location='/sweepstakes/shapeup'");
+  mm_menu_0613120051_0.addMenuItem("Membership&nbsp;Plans","location='/join/membership_plans/'");
+  mm_menu_0613120051_0.addMenuItem("Membership&nbsp;Prices","location='/join/membership_prices/index.asp?source=navBar'");
+  //mm_menu_0613120051_0.addMenuItem("30&nbsp;Day&nbsp;Makeover","location='/join/30_day/'");
+  //mm_menu_0613120051_0.addMenuItem("Pain&nbsp;in&nbsp;the&nbsp;Butt&nbsp;Workout","location='/join/pitb/index.asp'");
+  mm_menu_0613120051_0.addMenuItem("Offer&nbsp;of&nbsp;the&nbsp;Month","location='/join/offer_of_month/'");
+  mm_menu_0613120051_0.addMenuItem("Student&nbsp;Summer&nbsp;Membership","location='/join/college_membership/index.asp?source=collMem'");
+  //mm_menu_0613120051_0.addMenuItem("New&nbsp;Graduate&nbsp;Discount","location='/join/new_graduate/'");
+  mm_menu_0613120051_0.addMenuItem("Corporate&nbsp;Memberships","location='/join/corporate_membership/'");
+  mm_menu_0613120051_0.addMenuItem("Email&nbsp;Registration","location='/join/email_registrationPr/'");
+  mm_menu_0613120051_0.addMenuItem("FAQ's","location='/join/faq/'");
+  //mm_menu_0613120051_0.addMenuItem("Contact&nbsp;Us","location='/company/contact_main.asp?page=join'");
+   mm_menu_0613120051_0.hideOnMouseOut=true;
+   mm_menu_0613120051_0.menuBorder=1;
+   mm_menu_0613120051_0.menuLiteBgColor='#ffffff';
+   mm_menu_0613120051_0.menuBorderBgColor='#A6A6A6';
+   mm_menu_0613120051_0.bgColor='#ffffff';
+  window.mm_menu_0613112127_0 = new Menu("root",189,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#ffffff","#EFEFEF","#FF010C","left","middle",3,0,200,-5,7,true,true,true,0,true,true);
+  mm_menu_0613112127_0.addMenuItem("The&nbsp;Bally&nbsp;Mission","location='/join/membership_prices/index.asp?mod=1&page=whybally&section_name=theballymission&source=whybally#video'");
+  mm_menu_0613112127_0.addMenuItem("Nationwide&nbsp;Club&nbsp;Network","location='/join/membership_prices/index.asp?mod=2&page=whybally&section_name=natnet&source=whybally#video'");
+  mm_menu_0613112127_0.addMenuItem("Group&nbsp;Exercise","location='/join/membership_prices/index.asp?mod=3&page=whybally&section_name=groupexercise&source=whybally#video'");
+  mm_menu_0613112127_0.addMenuItem("Rapid&nbsp;Results&nbsp;Diet&nbsp;System","location='/join/membership_prices/index.asp?mod=4&page=whybally&section_name=rrdietsystem&source=whybally#video'");
+  mm_menu_0613112127_0.addMenuItem("Dynamic&nbsp;Personal&nbsp;Training","location='/join/membership_prices/index.asp?mod=5&page=whybally&section_name=pertrain&source=whybally#video'");
+  mm_menu_0613112127_0.addMenuItem("Weight&nbsp;Management","location='/join/membership_prices/index.asp?mod=6&page=whybally&section_name=weightmgt&source=whybally#video'");
+  mm_menu_0613112127_0.addMenuItem("Ultra/Deluxe&nbsp;Memberships","location='/join/membership_prices/index.asp?mod=7&page=whybally&section_name=ultramem&source=whybally#video'");
+  //mm_menu_0613112127_0.addMenuItem("Membership&nbsp;Prices","location='/join/membership_prices/index.asp?page=whybally&section_name=memprice&source=whybally'");
+   mm_menu_0613112127_0.hideOnMouseOut=true;
+   mm_menu_0613112127_0.menuBorder=1;
+   mm_menu_0613112127_0.menuLiteBgColor='#ffffff';
+   mm_menu_0613112127_0.menuBorderBgColor='#A6A6A6';
+   mm_menu_0613112127_0.bgColor='#ffffff';
+   
+   //rapid results --- expert advice --- VIDEO CLIPS & ARTICLES drop down
+     window.mm_menu_0710091019_0 = new Menu("root",132,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#ffffff","#e5e5e5","#FF010C","left","middle",3,0,200,-5,7,true,true,true,0,true,true);
+  mm_menu_0710091019_0.addMenuItem("Featured&nbsp;Article","location='/rapid_results/expert_advice/articles/'");
+ mm_menu_0710091019_0.addMenuItem("Cardio&nbsp;Fitness","location='/rapid_results/expert_advice/articles/articledyn.asp?article=52'");
+  mm_menu_0710091019_0.addMenuItem("Cooking&nbsp;&amp;&nbsp;Nutrition","location='/rapid_results/expert_advice/articles/articledyn.asp?article=93'");
+  mm_menu_0710091019_0.addMenuItem("Cycling","location='/rapid_results/expert_advice/articles/articledyn.asp?article=13'");
+  
+  mm_menu_0710091019_0.addMenuItem("Diet&nbsp;&amp;&nbsp;Weight&nbsp;Loss","location='/rapid_results/expert_advice/articles/articledyn.asp?article=102'");
+  mm_menu_0710091019_0.addMenuItem("Fit&nbsp;Style","location='/rapid_results/expert_advice/articles/articledyn.asp?article=19'");
+  mm_menu_0710091019_0.addMenuItem("Healthy&nbsp;Living","location='/rapid_results/expert_advice/articles/articledyn.asp?article=98'");
+  mm_menu_0710091019_0.addMenuItem("Running","location='/rapid_results/expert_advice/articles/articledyn.asp?article=30'");
+  mm_menu_0710091019_0.addMenuItem("Strength&nbsp;Training","location='/rapid_results/expert_advice/articles/articledyn.asp?article=101'");
+  mm_menu_0710091019_0.addMenuItem("Walking","location='/rapid_results/expert_advice/articles/articledyn.asp?article=36'");
+  mm_menu_0710091019_0.addMenuItem("Yoga&nbsp;&amp;&nbsp;Mind-Body","location='/rapid_results/expert_advice/articles/articledyn.asp?article=84'");
+   mm_menu_0710091019_0.hideOnMouseOut=true;
+   mm_menu_0710091019_0.menuBorder=1;
+   mm_menu_0710091019_0.menuLiteBgColor='#ffffff';
+   mm_menu_0710091019_0.menuBorderBgColor='#a6a6a6';
+   mm_menu_0710091019_0.bgColor='#ffffff';
+  window.mm_menu_0710090135_0 = new Menu("root",106,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#ffffff","#e5e5e5","#FF010C","left","middle",3,0,200,-5,7,true,true,true,0,true,true);
+  mm_menu_0710090135_0.addMenuItem("Featured&nbsp;Video","location='/rapid_results/expert_advice/video_clips/video.asp?2'");
+  mm_menu_0710090135_0.addMenuItem("Abdominals","location='/rapid_results/expert_advice/video_clips/video.asp?1'");
+  mm_menu_0710090135_0.addMenuItem("Arms","location='/rapid_results/expert_advice/video_clips/video.asp?2'");
+  mm_menu_0710090135_0.addMenuItem("Back","location='/rapid_results/expert_advice/video_clips/video.asp?11'");
+  mm_menu_0710090135_0.addMenuItem("Chest","location='/rapid_results/expert_advice/video_clips/video.asp?18'");
+  mm_menu_0710090135_0.addMenuItem("Legs","location='/rapid_results/expert_advice/video_clips/video.asp?27'");
+   mm_menu_0710090135_0.addMenuItem("Shoulders","location='/rapid_results/expert_advice/video_clips/video.asp?40'");
+   mm_menu_0710090135_0.hideOnMouseOut=true;
+   mm_menu_0710090135_0.menuBorder=1;
+   mm_menu_0710090135_0.menuLiteBgColor='#ffffff';
+   mm_menu_0710090135_0.menuBorderBgColor='#a6a6a6';
+   mm_menu_0710090135_0.bgColor='#ffffff';
+   
+    window.mm_menu_0714092401_0 = new Menu("root",173,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#ffffff","#e5e5e5","#FF010C","left","middle",3,0,200,-5,7,true,true,true,0,true,true);
+  mm_menu_0714092401_0.addMenuItem("Renew&nbsp;Your&nbsp;Membership","location='/my_membership/renew_membership/'");
+  mm_menu_0714092401_0.addMenuItem("Make&nbsp;a&nbsp;Payment","location='/my_membership/make_payment/'");
+  mm_menu_0714092401_0.addMenuItem("FAQ/Contact&nbsp;Us","location='/my_membership/faq_contact/'");
+   mm_menu_0714092401_0.addMenuItem("Membership&nbsp;Upgrade","location='/my_membership/membership_upgrade/'");
+  mm_menu_0714092401_0.addMenuItem("Contact&nbsp;Us","location='/my_membership/contact_us/'");
+  mm_menu_0714092401_0.addMenuItem("Account&nbsp;Information","location='/my_membership/account_info/'");
+  mm_menu_0714092401_0.addMenuItem("Replace&nbsp;Membership&nbsp;Card","location='/my_membership/replace_card/'");
+  mm_menu_0714092401_0.addMenuItem("Update&nbsp;Address","location='/my_membership/update_address/'");
+  mm_menu_0714092401_0.addMenuItem("Family&nbsp;Add&nbsp;On","location='/my_membership/family_addon/'");
+  //mm_menu_0714092401_0.addMenuItem("Member&nbsp;Values","location='/my_membership/member_offers/'");
+   mm_menu_0714092401_0.hideOnMouseOut=true;
+   mm_menu_0714092401_0.menuBorder=1;
+   mm_menu_0714092401_0.menuLiteBgColor='#ffffff';
+   mm_menu_0714092401_0.menuBorderBgColor='#a6a6a6';
+   mm_menu_0714092401_0.bgColor='#ffffff';
+   
+    window.mm_menu_0613120500_0 = new Menu("root",120,18,"Verdana, Arial, Helvetica, sans-serif",12,"#000000","#ffffff","#e5e5e5","#FF010C","left","middle",3,0,200,-5,7,true,true,true,0,true,true);
+  mm_menu_0613120500_0.addMenuItem("Group&nbsp;Exercise","location='/clubs/group_exercise/'");
+  mm_menu_0613120500_0.addMenuItem("Personal&nbsp;Training","location='/clubs/personal_training/'");
+  mm_menu_0613120500_0.addMenuItem("Club&nbsp;Locator","location='javascript:window.popLocator(window.document.location)'");
+  mm_menu_0613120500_0.addMenuItem("Fitness&nbsp;Formula","location='/clubs/fitness_formula/'");
+   mm_menu_0613120500_0.hideOnMouseOut=true;
+   mm_menu_0613120500_0.menuBorder=1;
+   mm_menu_0613120500_0.menuLiteBgColor='#ffffff';
+   mm_menu_0613120500_0.menuBorderBgColor='#a6a6a6';
+   mm_menu_0613120500_0.bgColor='#ffffff';
+
+  mm_menu_0613112127_0.writeMenus();
+  
+  
+  
+} // mmLoadMenus()
+
+//-->
+
+function popLocator(refpage){
+	window.open('http://bally.know-where.com/ballyfitness2/','clubLoc',
+			'toolbars=1,menubar=1,location=1,scrollbars=1,resizable=1,status=1,height=500,width=700');
+}
+</script>
+
+<table bgcolor="#cccccc" cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody><tr>
+	<td width="45" valign="top"><img src="/images/header/logo_btf_bottom.gif" width="160" height="25" alt="" border="0"></td>
 
 
-							<td><a href="#" onmouseover="showHide('top_why_bally_nav_id','','show','top_join_nav_id','','hidden','top_club_nav_id','','hidden','top_rr_nav_id','','hidden','hidden_cell_id','','show','hidden_cell1_id','','show'); return true;"><img name="Join" src="/images/top_WhyBally.gif" height="15" border="0" alt="Why Bally?"></a></td>
-							<td><img src="/images/top_div1px.gif" width="4" height="15" alt="" border="0"></td>
-						   <td><a href="#" onmouseover="showHide('top_why_bally_nav_id','','hidden','top_join_nav_id','','show','top_club_nav_id','','hidden','top_rr_nav_id','','hidden','hidden_cell_id','','show','hidden_cell1_id','','show'); return true;"><img name="Join" src="/images/top_join.gif" height="15" border="0" alt="Join"></a></td>
-							<td><img src="/images/top_div1px.gif" width="4" height="15" alt="" border="0"></td>
-							<td><a href="#" onmouseover="showHide('top_why_bally_nav_id','','hidden','top_join_nav_id','','hidden','top_club_nav_id','','show','top_rr_nav_id','','hidden','hidden_cell_id','','show','hidden_cell1_id','','show'); return true;"><img name="Clubs" src="/images/top_clubs.gif" height="15" border="0" alt="Clubs"></a></td>
-							<td><img src="/images/top_div1px.gif" width="4" height="15" alt="" border="0"></td>
-							<td><a href="#" onmouseover="showHide('top_why_bally_nav_id','','hidden','top_join_nav_id','','hidden','top_club_nav_id','','hidden','top_rr_nav_id','','show','hidden_cell_id','','show','hidden_cell1_id','','show'); return true;"><img name="Results" src="/images/top_results.gif" height="15" border="0" alt="Rapid Results"></a></td>
-							<td><img src="/images/top_div1px.gif" width="4" height="15" alt="" border="0"></td>
-							<td><a href="http://www.ballystore.com" target="_new" onmouseover="showHide('top_join_nav_id','','hidden','top_club_nav_id','','hidden','top_rr_nav_id','','hidden','hidden_cell_id','','hidden','hidden_cell1_id','','hidden'); return true;">
-							<img name="Store" src="/images/top_store.gif" height="15" border="0" alt="Ballystore.com"></a></td>
-							
+	<td align="left">
+	<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(166, 166, 166); background-color: rgb(166, 166, 166); width: 189px; height: 117px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 115px; width: 187px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 114px; width: 186px; background-color: rgb(255, 255, 255);">
+<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 185px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:4px;top:2px;color:#000000;">Fast&nbsp;Food&nbsp;Calculator&nbsp;</div>
+<div id="menuItemHilite0" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Fast&nbsp;Food&nbsp;Calculator&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 185px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:4px;top:2px;color:#000000;">Workouts&nbsp;</div>
+<div id="menuItemHilite1" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Workouts&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 185px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:4px;top:2px;color:#000000;">Weight&nbsp;Management&nbsp;</div>
+<div id="menuItemHilite2" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Weight&nbsp;Management&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 185px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:4px;top:2px;color:#000000;">Expert&nbsp;Advice&nbsp;</div>
+<div id="menuItemHilite3" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Expert&nbsp;Advice&nbsp;</div></div><div id="menuItem4" style="position: absolute; left: 0px; top: 76px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 185px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:4px;top:2px;color:#000000;">Fitness&nbsp;Log&nbsp;</div>
+<div id="menuItemHilite4" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Fitness&nbsp;Log&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 95px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 185px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:4px;top:2px;color:#000000;">Television&nbsp;Campaign&nbsp;</div>
+<div id="menuItemHilite5" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Television&nbsp;Campaign&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(166, 166, 166); background-color: rgb(166, 166, 166); width: 143px; height: 117px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 115px; width: 141px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 114px; width: 140px; background-color: rgb(255, 255, 255);">
+<div id="menuItem6" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 139px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:4px;top:2px;color:#000000;">Club&nbsp;Locator&nbsp;</div>
+<div id="menuItemHilite6" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Club&nbsp;Locator&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 139px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:4px;top:2px;color:#000000;">New&nbsp;Clubs&nbsp;</div>
+<div id="menuItemHilite7" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">New&nbsp;Clubs&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 139px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:4px;top:2px;color:#000000;">Group&nbsp;Exercise&nbsp;</div>
+<div id="menuItemHilite8" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Group&nbsp;Exercise&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 139px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:4px;top:2px;color:#000000;">Personal&nbsp;Training&nbsp;</div>
+<div id="menuItemHilite9" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Personal&nbsp;Training&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 76px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 139px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:4px;top:2px;color:#000000;">BodyGem<sup>®</sup>&nbsp;Session&nbsp;</div>
+<div id="menuItemHilite10" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">BodyGem<sup>®</sup>&nbsp;Session&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 0px; top: 95px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 139px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:4px;top:2px;color:#000000;">Fitness&nbsp;Formula&nbsp;<sup>®</sup>&nbsp;</div>
+<div id="menuItemHilite11" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Fitness&nbsp;Formula&nbsp;<sup>®</sup>&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(166, 166, 166); background-color: rgb(166, 166, 166); width: 194px; height: 193px;">
+  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 191px; width: 192px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 190px; width: 191px; background-color: rgb(255, 255, 255);">
+<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:4px;top:2px;color:#000000;">Free&nbsp;Guest&nbsp;Pass&nbsp;</div>
+<div id="menuItemHilite12" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Free&nbsp;Guest&nbsp;Pass&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:4px;top:2px;color:#000000;">30&nbsp;Day&nbsp;Trial&nbsp;Membership&nbsp;</div>
+<div id="menuItemHilite13" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">30&nbsp;Day&nbsp;Trial&nbsp;Membership&nbsp;</div></div><div id="menuItem14" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:4px;top:2px;color:#000000;">Shape-Up&nbsp;Sweepstakes&nbsp;</div>
+<div id="menuItemHilite14" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Shape-Up&nbsp;Sweepstakes&nbsp;</div></div><div id="menuItem15" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:4px;top:2px;color:#000000;">Membership&nbsp;Plans&nbsp;</div>
+<div id="menuItemHilite15" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Membership&nbsp;Plans&nbsp;</div></div><div id="menuItem16" style="position: absolute; left: 0px; top: 76px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:4px;top:2px;color:#000000;">Membership&nbsp;Prices&nbsp;</div>
+<div id="menuItemHilite16" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Membership&nbsp;Prices&nbsp;</div></div><div id="menuItem17" style="position: absolute; left: 0px; top: 95px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:4px;top:2px;color:#000000;">Offer&nbsp;of&nbsp;the&nbsp;Month&nbsp;</div>
+<div id="menuItemHilite17" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Offer&nbsp;of&nbsp;the&nbsp;Month&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 0px; top: 114px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:4px;top:2px;color:#000000;">Student&nbsp;Summer&nbsp;Membership&nbsp;</div>
+<div id="menuItemHilite18" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Student&nbsp;Summer&nbsp;Membership&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 133px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:4px;top:2px;color:#000000;">Corporate&nbsp;Memberships&nbsp;</div>
+<div id="menuItemHilite19" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Corporate&nbsp;Memberships&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 152px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:4px;top:2px;color:#000000;">Email&nbsp;Registration&nbsp;</div>
+<div id="menuItemHilite20" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Email&nbsp;Registration&nbsp;</div></div><div id="menuItem21" style="position: absolute; left: 0px; top: 171px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 190px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:4px;top:2px;color:#000000;">FAQ's&nbsp;</div>
+<div id="menuItemHilite21" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">FAQ's&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(166, 166, 166); background-color: rgb(166, 166, 166); width: 193px; height: 136px;">
+  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 134px; width: 191px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 133px; width: 190px; background-color: rgb(255, 255, 255);">
+<div id="menuItem22" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 189px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:4px;top:2px;color:#000000;">The&nbsp;Bally&nbsp;Mission&nbsp;</div>
+<div id="menuItemHilite22" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">The&nbsp;Bally&nbsp;Mission&nbsp;</div></div><div id="menuItem23" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 189px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText23" style="position:absolute;left:4px;top:2px;color:#000000;">Nationwide&nbsp;Club&nbsp;Network&nbsp;</div>
+<div id="menuItemHilite23" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Nationwide&nbsp;Club&nbsp;Network&nbsp;</div></div><div id="menuItem24" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 189px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText24" style="position:absolute;left:4px;top:2px;color:#000000;">Group&nbsp;Exercise&nbsp;</div>
+<div id="menuItemHilite24" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Group&nbsp;Exercise&nbsp;</div></div><div id="menuItem25" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 189px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText25" style="position:absolute;left:4px;top:2px;color:#000000;">Rapid&nbsp;Results&nbsp;Diet&nbsp;System&nbsp;</div>
+<div id="menuItemHilite25" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Rapid&nbsp;Results&nbsp;Diet&nbsp;System&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 76px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 189px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:4px;top:2px;color:#000000;">Dynamic&nbsp;Personal&nbsp;Training&nbsp;</div>
+<div id="menuItemHilite26" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Dynamic&nbsp;Personal&nbsp;Training&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 95px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 189px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:4px;top:2px;color:#000000;">Weight&nbsp;Management&nbsp;</div>
+<div id="menuItemHilite27" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Weight&nbsp;Management&nbsp;</div></div><div id="menuItem28" style="position: absolute; left: 0px; top: 114px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 189px; height: 18px; background-color: rgb(239, 239, 239); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:4px;top:2px;color:#000000;">Ultra/Deluxe&nbsp;Memberships&nbsp;</div>
+<div id="menuItemHilite28" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Ultra/Deluxe&nbsp;Memberships&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(166, 166, 166); background-color: rgb(166, 166, 166); width: 136px; height: 212px;">
+  <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 210px; width: 134px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 209px; width: 133px; background-color: rgb(255, 255, 255);">
+<div id="menuItem29" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:4px;top:2px;color:#000000;">Featured&nbsp;Article&nbsp;</div>
+<div id="menuItemHilite29" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Featured&nbsp;Article&nbsp;</div></div><div id="menuItem30" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:4px;top:2px;color:#000000;">Cardio&nbsp;Fitness&nbsp;</div>
+<div id="menuItemHilite30" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Cardio&nbsp;Fitness&nbsp;</div></div><div id="menuItem31" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText31" style="position:absolute;left:4px;top:2px;color:#000000;">Cooking&nbsp;&amp;&nbsp;Nutrition&nbsp;</div>
+<div id="menuItemHilite31" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Cooking&nbsp;&amp;&nbsp;Nutrition&nbsp;</div></div><div id="menuItem32" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:4px;top:2px;color:#000000;">Cycling&nbsp;</div>
+<div id="menuItemHilite32" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Cycling&nbsp;</div></div><div id="menuItem33" style="position: absolute; left: 0px; top: 76px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText33" style="position:absolute;left:4px;top:2px;color:#000000;">Diet&nbsp;&amp;&nbsp;Weight&nbsp;Loss&nbsp;</div>
+<div id="menuItemHilite33" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Diet&nbsp;&amp;&nbsp;Weight&nbsp;Loss&nbsp;</div></div><div id="menuItem34" style="position: absolute; left: 0px; top: 95px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText34" style="position:absolute;left:4px;top:2px;color:#000000;">Fit&nbsp;Style&nbsp;</div>
+<div id="menuItemHilite34" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Fit&nbsp;Style&nbsp;</div></div><div id="menuItem35" style="position: absolute; left: 0px; top: 114px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText35" style="position:absolute;left:4px;top:2px;color:#000000;">Healthy&nbsp;Living&nbsp;</div>
+<div id="menuItemHilite35" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Healthy&nbsp;Living&nbsp;</div></div><div id="menuItem36" style="position: absolute; left: 0px; top: 133px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText36" style="position:absolute;left:4px;top:2px;color:#000000;">Running&nbsp;</div>
+<div id="menuItemHilite36" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Running&nbsp;</div></div><div id="menuItem37" style="position: absolute; left: 0px; top: 152px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText37" style="position:absolute;left:4px;top:2px;color:#000000;">Strength&nbsp;Training&nbsp;</div>
+<div id="menuItemHilite37" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Strength&nbsp;Training&nbsp;</div></div><div id="menuItem38" style="position: absolute; left: 0px; top: 171px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText38" style="position:absolute;left:4px;top:2px;color:#000000;">Walking&nbsp;</div>
+<div id="menuItemHilite38" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Walking&nbsp;</div></div><div id="menuItem39" style="position: absolute; left: 0px; top: 190px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 132px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText39" style="position:absolute;left:4px;top:2px;color:#000000;">Yoga&nbsp;&amp;&nbsp;Mind-Body&nbsp;</div>
+<div id="menuItemHilite39" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Yoga&nbsp;&amp;&nbsp;Mind-Body&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(166, 166, 166); background-color: rgb(166, 166, 166); width: 110px; height: 136px;">
+  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 134px; width: 108px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 133px; width: 107px; background-color: rgb(255, 255, 255);">
+<div id="menuItem40" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 106px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText40" style="position:absolute;left:4px;top:2px;color:#000000;">Featured&nbsp;Video&nbsp;</div>
+<div id="menuItemHilite40" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Featured&nbsp;Video&nbsp;</div></div><div id="menuItem41" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 106px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText41" style="position:absolute;left:4px;top:2px;color:#000000;">Abdominals&nbsp;</div>
+<div id="menuItemHilite41" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Abdominals&nbsp;</div></div><div id="menuItem42" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 106px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText42" style="position:absolute;left:4px;top:2px;color:#000000;">Arms&nbsp;</div>
+<div id="menuItemHilite42" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Arms&nbsp;</div></div><div id="menuItem43" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 106px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText43" style="position:absolute;left:4px;top:2px;color:#000000;">Back&nbsp;</div>
+<div id="menuItemHilite43" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Back&nbsp;</div></div><div id="menuItem44" style="position: absolute; left: 0px; top: 76px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 106px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText44" style="position:absolute;left:4px;top:2px;color:#000000;">Chest&nbsp;</div>
+<div id="menuItemHilite44" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Chest&nbsp;</div></div><div id="menuItem45" style="position: absolute; left: 0px; top: 95px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 106px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText45" style="position:absolute;left:4px;top:2px;color:#000000;">Legs&nbsp;</div>
+<div id="menuItemHilite45" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Legs&nbsp;</div></div><div id="menuItem46" style="position: absolute; left: 0px; top: 114px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 106px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText46" style="position:absolute;left:4px;top:2px;color:#000000;">Shoulders&nbsp;</div>
+<div id="menuItemHilite46" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Shoulders&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer6" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(166, 166, 166); background-color: rgb(166, 166, 166); width: 177px; height: 174px;">
+  <div id="menuLite6" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 172px; width: 175px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg6" style="position: absolute; left: 1px; top: 1px; height: 171px; width: 174px; background-color: rgb(255, 255, 255);">
+<div id="menuItem47" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 173px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText47" style="position:absolute;left:4px;top:2px;color:#000000;">Renew&nbsp;Your&nbsp;Membership&nbsp;</div>
+<div id="menuItemHilite47" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Renew&nbsp;Your&nbsp;Membership&nbsp;</div></div><div id="menuItem48" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 173px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText48" style="position:absolute;left:4px;top:2px;color:#000000;">Make&nbsp;a&nbsp;Payment&nbsp;</div>
+<div id="menuItemHilite48" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Make&nbsp;a&nbsp;Payment&nbsp;</div></div><div id="menuItem49" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 173px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText49" style="position:absolute;left:4px;top:2px;color:#000000;">FAQ/Contact&nbsp;Us&nbsp;</div>
+<div id="menuItemHilite49" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">FAQ/Contact&nbsp;Us&nbsp;</div></div><div id="menuItem50" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 173px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText50" style="position:absolute;left:4px;top:2px;color:#000000;">Membership&nbsp;Upgrade&nbsp;</div>
+<div id="menuItemHilite50" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Membership&nbsp;Upgrade&nbsp;</div></div><div id="menuItem51" style="position: absolute; left: 0px; top: 76px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 173px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText51" style="position:absolute;left:4px;top:2px;color:#000000;">Contact&nbsp;Us&nbsp;</div>
+<div id="menuItemHilite51" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Contact&nbsp;Us&nbsp;</div></div><div id="menuItem52" style="position: absolute; left: 0px; top: 95px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 173px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText52" style="position:absolute;left:4px;top:2px;color:#000000;">Account&nbsp;Information&nbsp;</div>
+<div id="menuItemHilite52" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Account&nbsp;Information&nbsp;</div></div><div id="menuItem53" style="position: absolute; left: 0px; top: 114px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 173px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText53" style="position:absolute;left:4px;top:2px;color:#000000;">Replace&nbsp;Membership&nbsp;Card&nbsp;</div>
+<div id="menuItemHilite53" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Replace&nbsp;Membership&nbsp;Card&nbsp;</div></div><div id="menuItem54" style="position: absolute; left: 0px; top: 133px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 173px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText54" style="position:absolute;left:4px;top:2px;color:#000000;">Update&nbsp;Address&nbsp;</div>
+<div id="menuItemHilite54" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Update&nbsp;Address&nbsp;</div></div><div id="menuItem55" style="position: absolute; left: 0px; top: 152px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 173px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText55" style="position:absolute;left:4px;top:2px;color:#000000;">Family&nbsp;Add&nbsp;On&nbsp;</div>
+<div id="menuItemHilite55" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Family&nbsp;Add&nbsp;On&nbsp;</div></div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer7" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(166, 166, 166); background-color: rgb(166, 166, 166); width: 124px; height: 79px;">
+  <div id="menuLite7" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 77px; width: 122px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg7" style="position: absolute; left: 1px; top: 1px; height: 76px; width: 121px; background-color: rgb(255, 255, 255);">
+<div id="menuItem56" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 120px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText56" style="position:absolute;left:4px;top:2px;color:#000000;">Group&nbsp;Exercise&nbsp;</div>
+<div id="menuItemHilite56" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Group&nbsp;Exercise&nbsp;</div></div><div id="menuItem57" style="position: absolute; left: 0px; top: 19px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 120px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText57" style="position:absolute;left:4px;top:2px;color:#000000;">Personal&nbsp;Training&nbsp;</div>
+<div id="menuItemHilite57" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Personal&nbsp;Training&nbsp;</div></div><div id="menuItem58" style="position: absolute; left: 0px; top: 38px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 120px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText58" style="position:absolute;left:4px;top:2px;color:#000000;">Club&nbsp;Locator&nbsp;</div>
+<div id="menuItemHilite58" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Club&nbsp;Locator&nbsp;</div></div><div id="menuItem59" style="position: absolute; left: 0px; top: 57px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; width: 120px; height: 18px; background-color: rgb(229, 229, 229); visibility: inherit; cursor: pointer;"><div id="menuItemText59" style="position:absolute;left:4px;top:2px;color:#000000;">Fitness&nbsp;Formula&nbsp;</div>
+<div id="menuItemHilite59" style="position:absolute;left:4px;top:2px;color:#ffffff;visibility:hidden;">Fitness&nbsp;Formula&nbsp;</div></div>	  <div id="focusItem7" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+</span>
 
-							<td><img src="/images/top_div1px.gif" width="4" height="15" alt="" border="0"></td>
-							<td><img src="/images/spacer.gif" height="1" width="7"></td>
-							<td><a href="/index.asp"><img src="/images/icon_home.gif" width="60" height="15" alt="" border="0"></a></td>
-							<td width="100%"><img src="/images/spacer.gif" height="1" width="12"></td>
-						</tr>
-						<!--<tr>
-							<td colspan="4"><img src="/images/spacer.gif" height="1" width="145"></td>
-							<td colspan="10"><img src="/images/spacer.gif" height="1"></td>
-						</tr>-->
-					</tbody></table>
+	<img name="mainNav" src="/images/nav_main/global_nav.gif" width="591" height="25" border="0" usemap="#m_mainNav" alt=""><map name="m_mainNav"><br>
+	<area shape="rect" coords="0,0,95,25" href="#" onmouseup="this.blur()" hidefocus="true" alt="" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0613112127_0,0,25,null,'mainNav');">
+	<area shape="rect" coords="99,0,180,25" href="#" alt="" onmouseup="this.blur()" hidefocus="true" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0613120051_0,97,25,null,'mainNav');">
+	<area shape="rect" coords="184,0,271,25" href="#" alt="" onmouseup="this.blur()" hidefocus="true" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0613120400_0,182,25,null,'mainNav');">
+	<area shape="rect" coords="275,0,390,25" href="#" alt="" onmouseup="this.blur()" hidefocus="true" onmouseout="MM_startTimeout();" onmouseover="MM_showMenu(window.mm_menu_0613120654_0,273,25,null,'mainNav');">
+	<area shape="rect" coords="394,0,494,25" href="http://www.ballystore.com" alt="" onmouseup="this.blur()" hidefocus="true">
+	<area shape="rect" coords="498,0,587,25" href="/index.asp" alt="" onmouseup="this.blur()" hidefocus="true">
+	</map>
+	</td>
+
+
+
+		
+	</tr>
+</tbody></table>
 				</td>
 			</tr>
 			<!-- /main nav -->
@@ -209,17 +1250,19 @@ function ForgotPassword() {
 					<table cellspacing="0" cellpadding="0" border="0" width="100%">
 						<tbody><tr>
 							<!-- left nav -->
-							<td valign="top" bgcolor="#efefef" width="147">
 							
-								<table cellspacing="0" cellpadding="0" border="0" width="100%">
-									<tbody><tr>
-										<td colspan="2"><img src="/images/spacer.gif" width="1" height="20" alt="" border="0"></td>
-									</tr>
-								</tbody></table>
-							
-							</td>
-							<!-- this spacer acts as a margin before the content do not remove! -->
-							<td width="16" background="/images/lineBlue.gif"><img src="/images/spacer.gif" width="16" height="1" alt="" border="0"></td>
+
+<td width="160">
+<img src="/images/spacer.gif" width="160" height="1"><br>
+</td>
+
+
+
+<!-- this spacer acts as a margin before the content do not remove! -->
+<td valign="top" align="left" width="10"><img src="/images/spacer.gif" width="10" height="1" alt="" border="0"></td>
+
+
+
 							<!-- /left nav -->
 						
 							<!-- middle section -->
@@ -291,7 +1334,7 @@ function ForgotPassword() {
 				want us to share your e-mail address with other companies or organizations, please check here.</td>
 			</tr>
 			<tr>
-				<td colspan="2" class="default"><br>Email Address:&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" name="email" size="50" maxlength="50"></td>
+				<td colspan="2" class="default"><br>Email Address:&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" name="email" size="50" maxlength="50" value=""></td>
 			</tr>
 			<tr>
 				<td colspan="2" align="center" class="default"><br><input type="submit" value="submit" class="button"><br><br><br></td>
@@ -324,8 +1367,8 @@ function ForgotPassword() {
 							<!-- /right section -->
 						</tr>
 						<tr>
-						    <td colspan="2" bgcolor="#999999"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
-						    <td bgcolor="#999999"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+						    <td colspan="2" bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+						    <td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
 						    <td></td>
 						</tr>
 					</tbody></table>
@@ -335,204 +1378,48 @@ function ForgotPassword() {
 			<!-- footer -->
 			<tr>
 			    <td>
-					<table cellspacing="0" cellpadding="5" border="0">
-						<tbody><tr>
-						    <td>
-							<a href="/company/index.asp" class="footer">Company</a>&nbsp;|&nbsp;
-							<a href="http://www.ballyjobs.com" class="footer">Careers at Bally</a>&nbsp;|&nbsp;
-							<a href="/privacy.asp" class="footer">Privacy</a>&nbsp;|&nbsp;
-							<a href="/company/contact_main.asp" class="footer">Contact Us</a>&nbsp;|&nbsp;
-							<a href="/index.asp" class="footer">Home</a>
-							</td>
-						</tr>
-					</tbody></table>
+							<table width="100%" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr>
+			<td><img src="/images/spacer.gif" width="1" height="20" alt=""><br></td>
+		</tr>
+		<tr>
+			<td bgcolor="#cecece"><img src="/images/spacer.gif" width="1" height="2" alt=""><br></td>
+		</tr>
+		<tr>
+			<td><img src="/images/spacer.gif" width="1" height="1" alt=""><br></td>
+		</tr>
+		<tr>
+			<td bgcolor="#e9e9e9" width="920">
+			<table width="920" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td><img src="/images/spacer.gif" width="1" height="4" alt=""><br></td>
+			</tr>
+			<tr>
+				<td align="right" class="redcopy">
+				<a href="/company/index.asp" class="redlink">Company</a>&nbsp;|&nbsp;
+				<a href="/company/franchising.asp" class="redlink">Franchising</a>&nbsp;|&nbsp;
+				<a href="http://www.ballyjobs.com" class="redlink">Careers at Bally</a>&nbsp;|&nbsp;
+				<a href="/privacy.asp" class="redlink">Privacy</a>&nbsp;|&nbsp;
+				<a href="/company/contact_main.asp" class="redlink">Contact Us</a>&nbsp;|&nbsp;
+				<a href="/index.asp" class="redlink">Home</a>
 				</td>
 			</tr>
-			<!-- /footer -->
+			<tr>
+				<td><img src="/images/spacer.gif" width="1" height="6" alt=""><br></td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
 		</tbody></table>
+	</td>
+	</tr>
+	<!-- /footer -->
+	</tbody></table>
 	</td>
 </tr>
 </tbody></table>
 
 <!--DIV TAGS-->
-<script language="javascript" src="/scripts/getClubLocator.js"></script>
-<div id="top_why_bally_nav_id" class="topWhyNav">
-<table cellpadding="0" cellspacing="0" border="0" width="200">
-	<tbody><tr>
-		<td width="205"><a href="/join/membership_prices/index.asp?mod=1&amp;page=whybally&amp;section_name=theballymission&amp;source=whybally#video" onmouseover="changeDropImg('top_why_bally_nav_id','Why1', '/images/nav_main/why_bally_mission-over.gif'); return true;" onmouseout="changeDropImg('top_why_bally_nav_id','Why1', '/images/nav_main/why_bally_mission.gif'); return true;">
-		<img name="Why1" src="/images/nav_main/why_bally_mission.gif" alt="" border="0"></a></td>
-	</tr>
-	
-	<tr>
-		<td width="205"><a href="/join/membership_prices/index.asp?mod=2&amp;page=whybally&amp;section_name=natnet&amp;source=whybally#video" "="" onmouseover="changeDropImg('top_why_bally_nav_id','Why2', '/images/nav_main/why_nat_club_net-over.gif'); return true;" onmouseout="changeDropImg('top_why_bally_nav_id','Why2', '/images/nav_main/why_nat_club_net.gif'); return true;">
-		<img name="Why2" src="/images/nav_main/why_nat_club_net.gif" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/membership_prices/index.asp?mod=3&amp;page=whybally&amp;section_name=groupexercise&amp;source=whybally#video" onmouseover="changeDropImg('top_why_bally_nav_id','Why3', '/images/nav_main/why_groupex-over.gif'); return true;" onmouseout="changeDropImg('top_why_bally_nav_id','Why3', '/images/nav_main/why_groupex.gif'); return true;">
-		<img name="Why3" src="/images/nav_main/why_groupex.gif" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/membership_prices/index.asp?mod=4&amp;page=whybally&amp;section_name=rrdietsystem&amp;source=whybally#video" onmouseover="changeDropImg('top_why_bally_nav_id','Why4', '/images/nav_main/why_rr_diet-over.gif'); return true;" onmouseout="changeDropImg('top_why_bally_nav_id','Why4', '/images/nav_main/why_rr_diet.gif'); return true;">
-		<img name="Why4" src="/images/nav_main/why_rr_diet.gif" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/membership_prices/index.asp?mod=5&amp;page=whybally&amp;section_name=pertrain&amp;source=whybally#video" onmouseover="changeDropImg('top_why_bally_nav_id','Why5', '/images/nav_main/why_per_train-over.gif'); return true;" onmouseout="changeDropImg('top_why_bally_nav_id','Why5', '/images/nav_main/why_per_train.gif'); return true;">
-		<img name="Why5" src="/images/nav_main/why_per_train.gif" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/membership_prices/index.asp?mod=6&amp;page=whybally&amp;section_name=weightmgt&amp;source=whybally#video" onmouseover="changeDropImg('top_why_bally_nav_id','Why6', '/images/nav_main/why_weight_mgt-over.gif'); return true;" onmouseout="changeDropImg('top_why_bally_nav_id','Why6', '/images/nav_main/why_weight_mgt.gif'); return true;">
-		<img name="Why6" src="/images/nav_main/why_weight_mgt.gif" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/membership_prices/index.asp?mod=7&amp;page=whybally&amp;section_name=ultramem&amp;source=whybally#video" onmouseover="changeDropImg('top_why_bally_nav_id','Why7', '/images/nav_main/why_ultra_mem-over.gif'); return true;" onmouseout="changeDropImg('top_why_bally_nav_id','Why7', '/images/nav_main/why_ultra_mem.gif'); return true;">
-		<img name="Why7" src="/images/nav_main/why_ultra_mem.gif" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/membership_prices/index.asp?page=whybally&amp;section_name=memprice&amp;source=whybally" onmouseover="changeDropImg('top_why_bally_nav_id','Why8', '/images/nav_main/why_mem_price-over.gif'); return true;" onmouseout="changeDropImg('top_why_bally_nav_id','Why8', '/images/nav_main/why_mem_price.gif'); return true;">
-		<img name="Why8" src="/images/nav_main/why_mem_price.gif" alt="" border="0"></a></td>
-	</tr>
-</tbody></table>
-</div>
-
-<div id="top_join_nav_id" class="topJoinNav">
-<table cellpadding="0" cellspacing="0" border="0" width="200">
-	
-		<tbody><tr>
-		<td width="205"><a href="/join/free_guestpass/guestpass.asp?source=twowk2003" onmouseover="changeDropImg('top_join_nav_id','Join1', '/images/nav_main/join_freeguestpass-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join1', '/images/nav_main/join_freeguestpass.gif'); return true;">
-		<img name="Join1" src="/images/nav_main/join_freeguestpass.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	
-	<tr>
-		<td width="205"><a href="/join/join_online/" onmouseover="changeDropImg('top_join_nav_id','Join2', '/images/nav_main/join_joinonline-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join2', '/images/nav_main/join_joinonline.gif'); return true;">
-		<img name="Join2" src="/images/nav_main/join_joinonline.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/membership_plans/" onmouseover="changeDropImg('top_join_nav_id','Join3', '/images/nav_main/join_membershipplans-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join3', '/images/nav_main/join_membershipplans.gif'); return true;">
-		<img name="Join3" src="/images/nav_main/join_membershipplans.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/membership_prices/index.asp?source=navBar" onmouseover="changeDropImg('top_join_nav_id','Join4', '/images/nav_main/join_memPrices-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join4', '/images/nav_main/join_memPrices.gif'); return true;">
-		<img name="Join4" src="/images/nav_main/join_memPrices.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/30_day/" onmouseover="changeDropImg('top_join_nav_id','Join5', '/images/nav_main/30_day-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join5', '/images/nav_main/30_day.gif'); return true;">
-		<img name="Join5" src="/images/nav_main/30_day.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/offer_of_month/" onmouseover="changeDropImg('top_join_nav_id','Join6', '/images/nav_main/join_offerofmonth-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join6', '/images/nav_main/join_offerofmonth.gif'); return true;">
-		<img name="Join6" src="/images/nav_main/join_offerofmonth.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	
-	<tr>
-		<td width="205"><a href="/join/college_membership/index.asp?source=collMem" onmouseover="changeDropImg('top_join_nav_id','Join7', '/images/nav_main/join_collegeMem-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join7', '/images/nav_main/join_collegeMem.gif'); return true;">
-		<img name="Join7" src="/images/nav_main/join_collegeMem.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	
-	<tr>
-		<td width="205"><a href="/join/new_graduate/" onmouseover="changeDropImg('top_join_nav_id','Join8', '/images/nav_main/join_newgraduate-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join8', '/images/nav_main/join_newgraduate.gif'); return true;">
-		<img name="Join8" src="/images/nav_main/join_newgraduate.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/corporate_membership/" onmouseover="changeDropImg('top_join_nav_id','Join9', '/images/nav_main/join_corpmember-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join9', '/images/nav_main/join_corpmember.gif'); return true;">
-		<img name="Join9" src="/images/nav_main/join_corpmember.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/email_registrationPr/" onmouseover="changeDropImg('top_join_nav_id','Join10', '/images/nav_main/join_prospectemail-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join10', '/images/nav_main/join_prospectemail.gif'); return true;">
-		<img name="Join10" src="/images/nav_main/join_prospectemail.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/faq/" onmouseover="changeDropImg('top_join_nav_id','Join11', '/images/nav_main/join_faq-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join11', '/images/nav_main/join_faq.gif'); return true;">
-		<img name="Join11" src="/images/nav_main/join_faq.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/company/contact_main.asp?page=join" onmouseover="changeDropImg('top_join_nav_id','Join12', '/images/nav_main/join_contact-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','Join12', '/images/nav_main/join_contact.gif'); return true;">
-		<img name="Join12" src="/images/nav_main/join_contact.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	
-</tbody></table>
-</div>
-
-<div id="top_club_nav_id" class="topClubNav">
-<table cellpadding="0" cellspacing="0" border="0" width="200">
-	<tbody><tr>
-		<td width="205"><a href="/join/free_guestpass/guestpass.asp?page=clubs&amp;source=onewk2003" onmouseover="changeDropImg('top_club_nav_id','Club6', '/images/nav_main/join_freeguestpass-over.gif'); return true;" onmouseout="changeDropImg('top_club_nav_id','Club6', '/images/nav_main/join_freeguestpass.gif'); return true;">
-		<img name="Club6" src="/images/nav_main/join_freeguestpass.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	
-	<tr>
-		<td width="205"><a href="javascript:window.popLocator(window.document.location)" onmouseover="changeDropImg('top_club_nav_id','Club2', '/images/nav_main/clubs_locator-over.gif'); return true;" onmouseout="changeDropImg('top_club_nav_id','Club2', '/images/nav_main/clubs_locator.gif'); return true;">
-		<img name="Club2" src="/images/nav_main/clubs_locator.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/clubs/new_clubs/" onmouseover="changeDropImg('top_club_nav_id','Club1', '/images/nav_main/clubs_newclubs-over.gif'); return true;" onmouseout="changeDropImg('top_club_nav_id','Club1', '/images/nav_main/clubs_newclubs.gif'); return true;">
-		<img name="Club1" src="/images/nav_main/clubs_newclubs.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/clubs/group_exercise/" onmouseover="changeDropImg('top_club_nav_id','Club3', '/images/nav_main/clubs_groupex-over.gif'); return true;" onmouseout="changeDropImg('top_club_nav_id','Club3', '/images/nav_main/clubs_groupex.gif'); return true;">
-		<img name="Club3" src="/images/nav_main/clubs_groupex.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/clubs/personal_training/" onmouseover="changeDropImg('top_club_nav_id','Club4', '/images/nav_main/clubs_personaltr-over.gif'); return true;" onmouseout="changeDropImg('top_club_nav_id','Club4', '/images/nav_main/clubs_personaltr.gif'); return true;">
-		<img name="Club4" src="/images/nav_main/clubs_personaltr.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/clubs/fitness_formula/" onmouseover="changeDropImg('top_club_nav_id','Club5', '/images/nav_main/clubs_formula-over.gif'); return true;" onmouseout="changeDropImg('top_club_nav_id','Club5', '/images/nav_main/clubs_formula.gif'); return true;">
-		<img name="Club5" src="/images/nav_main/clubs_formula.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-</tbody></table>
-</div>
-
-<div id="top_rr_nav_id" class="topRRNav">
-<table cellpadding="0" cellspacing="0" border="0" width="200">
-	<tbody><tr>
-		<td width="205"><a href="/rapid_results/see_results/" onmouseover="changeDropImg('top_rr_nav_id','RR1', '/images/nav_main/rr_seeresults-over.gif'); return true;" onmouseout="changeDropImg('top_rr_nav_id','RR1', '/images/nav_main/rr_seeresults.gif'); return true;">
-		<img name="RR1" src="/images/nav_main/rr_seeresults.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/join/30_day/" onmouseover="changeDropImg('top_join_nav_id','RR2', '/images/nav_main/30_day-over.gif'); return true;" onmouseout="changeDropImg('top_join_nav_id','RR2', '/images/nav_main/30_day.gif'); return true;">
-		<img name="RR2" src="/images/nav_main/30_day.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/rapid_results/workouts/" onmouseover="changeDropImg('top_rr_nav_id','RR3', '/images/nav_main/rr_workouts-over.gif'); return true;" onmouseout="changeDropImg('top_rr_nav_id','RR3', '/images/nav_main/rr_workouts.gif'); return true;">
-		<img name="RR3" src="/images/nav_main/rr_workouts.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/rapid_results/weight_management/" onmouseover="changeDropImg('top_rr_nav_id','RR4', '/images/nav_main/rr_weightmanage-over.gif'); return true;" onmouseout="changeDropImg('top_rr_nav_id','RR4', '/images/nav_main/rr_weightmanage.gif'); return true;">
-		<img name="RR4" src="/images/nav_main/rr_weightmanage.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/rapid_results/expert_advice/" onmouseover="changeDropImg('top_rr_nav_id','RR5', '/images/nav_main/rr_expertadvice-over.gif'); return true;" onmouseout="changeDropImg('top_rr_nav_id','RR5', '/images/nav_main/rr_expertadvice.gif'); return true;">
-		<img name="RR5" src="/images/nav_main/rr_expertadvice.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="javascript:window.FitnessLogWin()" onmouseover="changeDropImg('top_rr_nav_id','RR6', '/images/nav_main/rr_fitnesslog-over.gif'); return true;" onmouseout="changeDropImg('top_rr_nav_id','RR6', '/images/nav_main/rr_fitnesslog.gif'); return true;">
-		<img name="RR6" src="/images/nav_main/rr_fitnesslog.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td width="205"><a href="/rapid_results/rr_challenge/" onmouseover="changeDropImg('top_rr_nav_id','RR7', '/images/nav_main/rr_rrchallenge-over.gif'); return true;" onmouseout="changeDropImg('top_rr_nav_id','RR7', '/images/nav_main/rr_rrchallenge.gif'); return true;">
-		<img name="RR7" src="/images/nav_main/rr_rrchallenge.gif" width="205" height="20" alt="" border="0"></a></td>
-	</tr>
-</tbody></table>
-</div>
-<div id="hidden_cell_id" class="topHiddenCell">
-	<table width="600" height="80" border="0">
-		<tbody><tr>
-			<td>
-				<a href="" onmouseover="showHide('top_why_bally_nav_id','','hidden','top_join_nav_id','','hidden','top_club_nav_id','','hidden','top_rr_nav_id','','hidden','hidden_cell_id','','hidden','hidden_cell1_id','','hidden'); return true;" onclick="return false"><img src="/images/spacer.gif" width="600" height="80" border="0"></a>
-			</td>
-		</tr>
-	</tbody></table>
-</div>
-
-<div id="hidden_cell1_id" class="botHiddenCell">
-	<table width="600" height="250" border="0">
-		<tbody><tr>
-			<td>
-				<a href="" onmouseover="showHide('top_why_bally_nav_id','','hidden','top_join_nav_id','','hidden','top_club_nav_id','','hidden','top_rr_nav_id','','hidden','hidden_cell_id','','hidden','hidden_cell1_id','','hidden'); return true;" onclick="return false"><img src="/images/spacer.gif" width="600" height="300" border="0"></a>
-			</td>
-		</tr>
-	</tbody></table>
-</div>
 
 <!--END OF DIV TAGS-->
 				
