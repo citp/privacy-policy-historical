@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204055400id_/http%3A//www.modernhealthcare.com/About/PrivacyPolicy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602040555id_/http%3A//www.modernhealthcare.com/About/PrivacyPolicy.php3) for the most accurate reproduction.*
 
 # - Modern Healthcare - Your Source for Weekly Healthcare Business News
 
