@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604060535id_/http%3A//www.sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202013946id_/http%3A//www.sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-> * * *
-> 
-> This is the web site of **[www.Sadoun.com](http://www.sadoun.com/)**[.](http://www.sadoun.com/)
-> 
-> **[ Products List](https://web.archive.org/web/20030604060535id_/http%3A//www.sadoun.com/Sat/list.htm) **
-> 
-> Our postal address is  
->  **4803 Westerville Run Dr.  
->  Columbus, OH 43230**
-> 
-> We can be reached via e-mail at [info@sadoun.com](mailto:info@sadoun.com) 
+> We can be reached via e-mail at [ info@sadoun.com](mailto:jamalsadoun@globalssc.com?subject=GlobalSSC%20Privacy%20Policy%20Question)
 > 
 > For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 > 
@@ -29,8 +19,6 @@
 > From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address.
 > 
 > If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-> 
-> calling us at the number provided above, writing to us at the above address.
 > 
 > Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 > 
@@ -51,3 +39,5 @@
 > With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 > 
 > If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+> 
+> ###
