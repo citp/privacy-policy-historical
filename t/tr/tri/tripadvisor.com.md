@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2001-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010321000058id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606110957id_/http%3A//www.tripadvisor.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ You can cancel your registration with us by e-mailing [cancel@tripadvisor.com](m
 
 **Disclosure of Your Information**
 
-TripAdvisor does not sell or rent any personally identifiable information to any third party, other than our partners, as discussed in this policy. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a format that will allow any third party to identify you personally. 
+TripAdvisor does not sell or rent any personally identifiable information to any third party, other than our partners, as discussed in this policy. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a that will allow any third party to identify you personally. 
 
 As you might expect, TripAdvisor must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We don't expect this to happen, but if it does, we will provide only the information required. In other words, we will not simply turn over our database in response to a specific legal requirement. We can also turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this policy, you consent to our doing so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights. 
 
