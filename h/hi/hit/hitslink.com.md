@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203002953id_/http%3A//www.toolshack.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslink.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401184542id_/http%3A//www.netapplications.com/privacy.asp) for the most accurate reproduction.*
 
-# Toolshack - web tools: hit counter, banner exchange, search engine submission, promotion, and advertising.
+# website statistics, hit counter, search engine submission, banner exchange
 
-## Privacy Statement
+Privacy Statement
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses our information gathering and dissemination practices. 
+We have created this privacy statement in order to demonstrate our firm commitment to privacy.  The following discloses our information gathering and dissemination practices.
 
 **Your Information is Private**  
 Subscribers are requested to enter limited personal information during signups.  Under no circumstance will we sell, transfer or disseminate this personal information gathered by our products to any other entity. 
@@ -40,8 +40,6 @@ This web site meets the guidelines of TRUSTe's Children's program, which means t
   5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
 
   
-**Contacting the Web SiteIf you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact support@toolshack.com ******
+**Contacting the Web SiteIf you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact support@netapplications.com **
 
-|   
-  
----
+****
