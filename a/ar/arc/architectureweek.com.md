@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610182156id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208043428id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
 
 # Great Buildings Online Privacy Statement
 
