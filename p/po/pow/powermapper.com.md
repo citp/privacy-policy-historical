@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermapper.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210124033id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermapper.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307094138id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.*
 
 # Powermapper - Privacy Policy
 
