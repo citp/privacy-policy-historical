@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the commerceonline.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202183055id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the commerceonline.com privacy policy that was archived on 2004-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604135212id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Commerce Bank - Privacy Policy</title>
@@ -120,6 +120,42 @@ window.onload = setResize;
 }
 //-->
 </script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function changePop(targetID) {
+	// window.name = "personalMain";
+	var dc = document.cookie;
+	var prefix = "nopop";
+	var begin = dc.indexOf("; " + prefix);
+
+	if (begin == -1){
+		setVariables();
+		leftmarg = innerW/2 - 225;
+		rightmarg = innerH/2 - 175;
+		var windowprops = "toolbar=0,location=0,directories=0,status=0, " +
+		"menubar=0,scrollbars=yes,resizable=0,width=450,height=185,top="+rightmarg+",left="+leftmarg;
+		
+		OpenWindow = window.open("/template/disclaimerPop.cfm?targetID=" + targetID, "photo", windowprops); // opens photo upload window
+		
+	}
+}
+	
+function setVariables() {
+	if (navigator.appName == "Netscape") {
+		
+		innerW="window.innerWidth";
+		innerH="window.innerHeight";
+		
+	}
+	else {
+		
+		innerW=document.body.clientWidth;
+		innerH=document.body.clientHeight;
+		
+	   }
+}
+//-->
+</script>
 
 <style type="text/css">
 <!--
@@ -189,7 +225,7 @@ A.##navstyle:hover 	{text-decoration: none;
 		
 		
 		
-		<a href="http://usa.visa.com/specialOffers/Commerce_Bank/offers.jsp"><img border="0" alt="Commerce Bank Ad System" src="http://bank.commerceonline.com/ads/images/visa-big-savings-sidebar-11-11-02.gif"></a>
+		<a href="http://bank.commerceonline.com/personal_banking/home_equity.cfm"><img border="0" alt="Commerce Bank Ad System" src="http://bank.commerceonline.com/ads/images/home_equity_loans_unlock_sidebar_3-4-03.gif"></a>
 		
 	
 
@@ -226,7 +262,7 @@ A.##navstyle:hover 	{text-decoration: none;
 		
 		<a href="http://bank.commerceonline.com/information/customer_service/index.cfm" onmouseover="showDDNav('document.all[\'customer\']','document.layers[\'customer\']'); m_in(btn_customer_service);" onmouseout="hideDDNav('document.all[\'customer\']','document.layers[\'customer\']'); m_out(btn_customer_service);"><img name="btn_customer_service" src="/images/btn_customer_service.gif" width="155" height="23" border="0" alt=""></a><br>
 
-		<a href="https://secure.commerceonline.com/forms/bank/feedback.cfm" onmouseover="m_in(btn_sidebar_betterIdea);" onmouseout="m_out(btn_sidebar_betterIdea);"><img name="btn_sidebar_betterIdea" src="/images/btn_sidebar_betterIdea.gif" width="155" height="23" border="0" alt=""></a><br>
+		<a href="https://secure.commerceonline.com/forms/bank/feedback.cfm" onmouseover="m_in(btn_LetUsHearFromYou);" onmouseout="m_out(btn_LetUsHearFromYou);"><img name="btn_LetUsHearFromYou" src="/images/btn_LetUsHearFromYou.gif" width="155" height="23" border="0" alt=""></a><br>
 		
 		<a href="http://www.commerceonline.com/inside_commerce/index.cfm" onmouseover="showDDNav('document.all[\'inside\']','document.layers[\'inside\']'); m_in(btn_inside_commerce);" onmouseout="hideDDNav('document.all[\'inside\']','document.layers[\'inside\']'); m_out(btn_inside_commerce);"><img name="btn_inside_commerce" src="/images/btn_inside_commerce.gif" width="155" height="23" border="0" alt=""></a><br>
 
@@ -248,7 +284,7 @@ A.##navstyle:hover 	{text-decoration: none;
 			doLayer('capmarkets',6,150,'left',200,'btn_capital_markets')
 			doLayer('persinsurance',1,150,'left',255,'btn_personal_insurance')
 			doLayer('businsurance',4,150,'left',230,'btn_business_insurance')
-			doLayer('inside',7,150,'left',323,'btn_inside_commerce')
+			doLayer('inside',7,150,'left',370,'btn_inside_commerce')
 			doLayer('customer',10,150,'left',395,'btn_customer_service')
 		}
 		else if(br=="IE"){
@@ -258,7 +294,7 @@ A.##navstyle:hover 	{text-decoration: none;
 			doDiv('capmarkets',6,155,'left',200,'btn_capital_markets')
 			doDiv('persinsurance',1,155,'left',255,'btn_personal_insurance')
 			doDiv('businsurance',4,155,'left',230,'btn_business_insurance')
-			doDiv('inside',7,155,'left',323,'btn_inside_commerce')
+			doDiv('inside',7,155,'left',370,'btn_inside_commerce')
 			doDiv('customer',10,155,'left',395,'btn_customer_service')
 		}
 		else{}
@@ -324,11 +360,11 @@ Commerce Bank takes crime prevention very seriously. For your convenience, the l
 <table>
 	<tbody><tr>
 		<td valign="top"><img src="/images/icn_red_bullet.gif" width="7" height="7" border="0" vspace="8" hspace="4"></td>
-		<td><a href="http://www.ftc.gov/bcp/conline/pubs/credit/idthieves.htm" target="_blank">How to Guard Against Identity Theft</a> <font size="-1">(Source: Federal Trade Commission)</font></td>
+		<td><a href="javascript:changePop('http://www.ftc.gov/bcp/conline/pubs/credit/idthieves.htm');">How to Guard Against Identity Theft</a> <font size="-1">(Source: Federal Trade Commission)</font></td>
 	</tr>
 	<tr>
 		<td valign="top"><img src="/images/icn_red_bullet.gif" width="7" height="7" border="0" vspace="7" hspace="4"></td>
-		<td><a href="http://www.fdic.gov/consumers/consumer/news/cnsum01/cvrstry.html" target="_blank">Advice for Safe Online Shopping</a> <font size="-1">(Source: Federal Deposit Insurance Corporation)</font></td>
+		<td><a href="javascript:changePop('http://www.fdic.gov/consumers/consumer/news/cnsum01/cvrstry.html');">Advice for Safe Online Shopping</a> <font size="-1">(Source: Federal Deposit Insurance Corporation)</font></td>
 	</tr>
 	<tr>
 		<td valign="top"><img src="/images/icn_red_bullet.gif" width="7" height="7" border="0" vspace="8" hspace="4"></td>
@@ -336,7 +372,7 @@ Commerce Bank takes crime prevention very seriously. For your convenience, the l
 	</tr>
 	<tr>
 		<td valign="top"><img src="/images/icn_red_bullet.gif" width="7" height="7" border="0" vspace="7" hspace="4"></td>
-		<td><a href="http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm" target="_blank">How to Protect Childrens' Privacy Online</a> <font size="-1">(Source: Federal Trade Commission)</font></td>
+		<td><a href="javascript:changePop('http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm');">How to Protect Childrens' Privacy Online</a> <font size="-1">(Source: Federal Trade Commission)</font></td>
 	</tr>
 </tbody></table>
 </p><p>
@@ -465,20 +501,23 @@ a:visited, span.MsoHyperlinkFollowed
 <a href="http://www.commerceonline.com">Home</a> | 
 <a href="http://my.commerceonline.com">MyCommerceOnline</a> | 
 <a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=cbh&amp;script=2100">Investor Relations</a> | 
-<a href="http://bank.commerceonline.com/information/customer_service/index.cfm">Customer Service</a><br>
+<a href="http://www.commerceonline.com/inside_commerce/index.cfm">Inside Commerce</a>
+<br>
 <a href="http://bank.commerceonline.com">Banking</a> | 
 <a href="http://invest.commerceonline.com">Investments</a> | 
 <a href="http://insure.commerceonline.com">Insurance</a> |
 <a href="http://www.commerceonline.com/financial_calculators.cfm">Calculators</a> |
 <a href="http://www.commerceonline.com/apply_for_a_job/index.cfm">Join Our Team</a><br>
+<img src="/images/footer_divider.gif" alt="" width="240" height="24" border="0"><br>
 <a href="http://bank.commerceonline.com/information/branch_locations/index.cfm">Locations &amp; Hours</a> | 
-<a href="http://www.commerceonline.com/inside_commerce/index.cfm">Inside Commerce</a> | 
+<a href="https://secure.commerceonline.com/forms/bank/feedback.cfm">Let Us Hear From You</a> | 
+<a href="http://www.commerceonline.com/glossary/index.cfm">WOW! Answer Guide</a>
+<br>
+<a href="http://bank.commerceonline.com/information/customer_service/index.cfm">Customer Service</a> | 
 <a href="http://www.commerceonline.com/general_site_map/index.cfm">Site Map</a> | 
-<a href="https://secure.commerceonline.com/forms/bank/feedback.cfm">A Better Idea</a> |
+<a href="http://www.commerceonline.com/privacy_policy/index.cfm">Privacy &amp; Security</a> | 
+<a href="http://www.commerceonline.com/privacy_policy/terms_of_use.cfm">Terms of Use</a> | 
 <a href="https://secure.commerceonline.com/forms/bank/general_cb.cfm">E-mail Us</a>
-<p>
-</p><hr width="90%">
-<div align="center"><a href="http://www.commerceonline.com/privacy_policy/index.cfm">Privacy &amp; Security</a> | <a href="http://www.commerceonline.com/privacy_policy/terms_of_use.cfm">Terms of Use</a></div>
 <p>
 1-888-751-9000
 <br></p><div align="center"><img src="/images/eol_fdic.gif" width="293" height="52" border="0" alt="Equal Opportunity Lender"></div>
@@ -498,7 +537,7 @@ a:visited, span.MsoHyperlinkFollowed
 				</tr>
 				<tr>
 					<td colspan="3" align="center"><font size="-1">
-					In the state of New York, insurance services are offered through Commerce National Insurance Brokerage Services, and Commerce National Insurance Brokerage Services/New York, Inc.
+					In the state of New York, insurance services are offered through Commerce Insurance Brokerage Services, and Commerce Insurance Brokerage Services/New York, Inc.
 					</font></td>
 				</tr>
 			</tbody></table>
@@ -509,29 +548,9 @@ a:visited, span.MsoHyperlinkFollowed
 		<td align="center"><font size="-1">Commerce Capital Markets, Inc., is a registered broker-dealer and a member<br>of the National Association of Securities Dealers (NASD) and the<br>Securities Investor Protection Corporation (SIPC).</font></td>
 	</tr>
 </tbody></table>
-
 </p><p>
-<table width="85%" border="0" cellspacing="0"><tbody><tr><td align="center"><font size="-1">
-Links to the following sites will take you out of the Commerce Bancorp website: 
-<a href="http://www.timevalue.com" target="_blank">Any calculator link</a>, 
-<a href="http://www.visa.com" target="_blank">Check Card Visa<sup><font size="-2">®</font></sup> Savings/Rewards</a>,
-<a href="http://www.fdic.gov" target="_blank">Federal Deposit Insurance Corporation</a>,
-<a href="http://www.ftc.gov" target="_blank">Federal Trade Commission</a>,
-<a href="http://www.ccbn.com" target="_blank">Investor Relations</a>, 
-<a href="http://www.seic.com" target="_blank">InvestView Logon</a>, 
-<a href="http://www.kiplinger.com" target="_blank">Kiplinger's</a>, 
-<a href="http://www.microbanker.com" target="_blank">Microbanker</a>, 
-<a href="http://www.highmarklife.com" target="_blank">Small Group Life Insurance</a>, 
-<a href="http://www.timevalue.com" target="_blank">TimeValue Software</a>, 
-<a href="http://www.pershing.com" target="_blank">Trading Logon</a> and
-<a href="http://www.us-banker.com" target="_blank">U.S. Banker</a>.
-These sites may have privacy policies that differ from Commerce's and may provide less security. Commerce is not responsible for and does not endorse or control any content or material on this list of sites.
-
-
-</font></td></tr></tbody></table>
-</p><p>
-</p><h6>Copyright ©   2002, 2003 Commerce Bank</h6><br>	
-<br>
+</p><h6>Copyright © 1997-2004 Commerce Bancorp, Inc.</h6>
+<br><br>
 </center>
 
 </td></tr></tbody></table>
