@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609155814id_/http%3A//4checks.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4checks.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206100732id_/http%3A//www.4checks.com/privacy.asp) for the most accurate reproduction.*
 
 # 4checks.com: Search Engine for Personal Checks, Business Checks and Check Designs
 
@@ -12,21 +12,12 @@ When you access 4checks.com, our server recognizes your domain name and IP addre
 
 We also record data regarding the search terms and categories our visitors access and the length of time each visitor spends on a page. This is aggregate data and not individual data. We use this data exclusively for internal purposes, as a means of continually evaluating what visitors are looking for and how well we are providing it. Once statistics are compiled, this data is discarded permanently. 
 
-Protecting your privacy is a responsibility we take seriously. You can browse and shop with 4checks.com knowing you are well protected. 
+Protecting your privacy is a responsibility we take seriously. You can browse and shop with 4checks.com knowing your information is secure. 
 
 E-mail: **[info@4checks.com](mailto:info@4checks.com)**  
 
 
-|  [**4CHECKS HOME**](https://web.archive.org/web/20020609155814id_/http%3A//4checks.com/index.html) **  
-[  
-SUGGEST A DESIGN](https://web.archive.org/web/20020609155814id_/http%3A//4checks.com/suggest.cfm)  
-  
-[FAQ](https://web.archive.org/web/20020609155814id_/http%3A//4checks.com/faq.cfm)  
-  
-[PRIVACY POLICY](https://web.archive.org/web/20020609155814id_/http%3A//4checks.com/privacy.cfm)** **  
-  
-[EMAIL US](mailto:info@4checks.com)  
-**
+| 
 
 **[](http://www.uniquechecks.com/)  
 Take a Picture....  
