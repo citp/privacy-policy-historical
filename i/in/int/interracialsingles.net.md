@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interracialsingles.net privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602223823id_/http%3A//www.interracialsingles.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracialsingles.net privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208160546id_/http%3A//www.interracialsingles.net/privacy.html) for the most accurate reproduction.*
 
-# INTERRACIAL SINGLES: Online Interracial Dating Services & Personals Network - 2004-06-02
+# INTERRACIAL SINGLES: Online Interracial Dating Services & Personals Network - 2004-12-08
 
 Privacy Policy
 
@@ -46,8 +46,9 @@ InterracialSingles.net provides users the following options for modifying inform
 3\. You can send mail to the following postal address: 
 
 InterracialSingles.net  
-P.O. Box 867  
-Orem, UT 84057-0867
+P.O. Box 739  
+Orem, UT 84059-0739  
+U.S.A.
 
 **Email Choice/Opt-out**  
 InterracialSingles.net users may use the following options if they do not wish to receive future communications.   
@@ -64,7 +65,8 @@ If we are going to use your personally identifiable information in a manner diff
 If you have any questions about this privacy statement, the practices of this site, or your dealings with the InterracialSingles.net website, you can contact: 
 
 InterracialSingles.net  
-P.O. Box 867  
-Orem, UT 84057-0867
+P.O. Box 739  
+Orem, UT 84059-0739  
+U.S.A.
 
 Or, send email via the [contact form](https://web.archive.org/contact.html) on the site. 
