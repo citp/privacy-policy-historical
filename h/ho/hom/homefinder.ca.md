@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homefinder.ca privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602125434id_/http%3A//www.homefinder.ca/_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.ca privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813112427id_/http%3A//homefinder.ca/_privacy.html) for the most accurate reproduction.*
 
 # HomeFinder.ca - Our Privacy and Security Policy
 
