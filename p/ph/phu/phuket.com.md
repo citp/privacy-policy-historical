@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phuket.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202214431id_/http%3A//www.phuket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuket.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607071005id_/http%3A//www.phuket.com/privacy.htm) for the most accurate reproduction.*
 
 # Phuket Thailand - hotel, travel and local information guide
 
