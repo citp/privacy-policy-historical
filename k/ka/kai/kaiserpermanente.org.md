@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaiserpermanente.org privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142618id_/http%3A//kaiserpermanente.org/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaiserpermanente.org privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202080258id_/http%3A//www.kaiserpermanente.org/disclaimer.html) for the most accurate reproduction.*
 
 # Kaiser Permanente Disclaimer
 
@@ -38,6 +38,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Comments or questions sent to us via "Email Us", will be shared with our customer service representatives or staff most capable or addressing your questions and concerns. We will retain your email until we have made our best effort to provide you with a complete and satisfactory response and then we either discard it, or in some cases, archive it. 
 
-Note: The email facilities at our sites do not provide a means for completely secure and private communications between us. Your email, like most non-encrypted Internet email communications, may be accessed and viewed without your knowledge or permission while in transit to us, If you consider the information you are communicating to be confidential, please do not use email. As an alternative, you may contact us by telephone at the numbers provided for various locations on our site or, in the case of members, at the [Member Services](https://web.archive.org/web/20020602142618id_/http%3A//kaiserpermanente.org/members/contact.html) number that appears on your identification card. 
+Note: The email facilities at our sites do not provide a means for completely secure and private communications between us. Your email, like most non-encrypted Internet email communications, may be accessed and viewed without your knowledge or permission while in transit to us, If you consider the information you are communicating to be confidential, please do not use email. As an alternative, you may contact us by telephone at the numbers provided for various locations on our site or, in the case of members, at the [Member Services](https://web.archive.org/web/20021202080258id_/http%3A//www.kaiserpermanente.org/members/contact.html) number that appears on your identification card. 
 
-[**RETURN TO KAISER PERMANENTE HOME PAGE**](https://web.archive.org/web/20020602142618id_/http%3A//kaiserpermanente.org/index.html)
+[**RETURN TO KAISER PERMANENTE HOME PAGE**](https://web.archive.org/web/20021202080258id_/http%3A//www.kaiserpermanente.org/index.html)
