@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018040258id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601152256id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
 
 # American Bar Association
 
@@ -21,6 +21,10 @@ Are you interested in ABA events and updates from your Sections? Would you like 
 
 Your e-mail address will only be used within the ABA and its entities. We do not sell or rent e-mail addresses to anyone outside the ABA. If you wish to be removed from our e-mail mailings, please [click here](https://web.archive.org/members/join/coa.html) and complete the form to remove your e-mail address from our list or call our Service Center at 1-800-285-2221. 
 
+The ABA is committed to providing 100 percent availability of its Internet site(s) and email aliasing service. We have implemented safeguards and alarms to notify us in the event of loss of Internet connectivity to the backbone and of hardware failures. Even with these safeguards in place, loss of connectivity or hardware failure can still occur. For this reason, the ABA cannot "guarantee" its Internet connectivity, nor can we be responsible for lost or delayed requests, email, or content. 
+
+For questions regarding our web site being down or any related service outage, please send an email to [help@abanet.org](mailto:help@abanet.org). 
+
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We also use cookies to maintain user session identity, and, in some non-member areas, to store your username and password locally for ease of access. 
 
   * "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. 
@@ -40,7 +44,7 @@ We run contests on some sections of our site in which we ask visitors for contac
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company and are used for advertisement banner rotation purposes only. 
 
-This site makes chat rooms, forums, ListServs and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Although ABANET.ORG tries to protect your personal information when using these public forums, ABANET.ORG cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. It is also not the ABANET.ORG's responsibility for maintaining the secrecy of any passwords you set up and/or any account information you have disclosed. 
+This site makes chat rooms, forums, List Serves and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Although ABANET.ORG tries to protect your personal information when using these public forums, ABANET.ORG cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. It is also not the ABANET.ORG's responsibility for maintaining the secrecy of any passwords you set up and/or any account information you have disclosed. 
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
