@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205112908id_/http%3A//www.redcross.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604153529id_/http%3A//redcross.org/privacy.html) for the most accurate reproduction.*
 
 # American Red Cross
 
 * * *
 
-This Website is owned and operated by the American Red Cross. We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. This Privacy Policy addresses those concerns. This policy may be changed or updated from time to time. 
+This Web site is owned and operated by or on behalf of the American Red Cross. We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. This Privacy Policy addresses those concerns. This policy may be changed or updated from time to time. 
 
 If you have any questions about our Privacy Policy, you can contact us at: 
 
