@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eetasia.com privacy policy that was archived on 2001-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211232117id_/http%3A//www.eetasia.com/MAGAZINE/POLICY.HTM) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eetasia.com privacy policy that was archived on 2002-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020608205148id_/http%3A//www.eetasia.com/MAGAZINE/POLICY.HTM) for the most accurate reproduction.-->
 
 <html><head><title>Electronic Engineering Times - Asia</title>
 	<meta content="text/html; charset=windows-1252" http-equiv="CONTENT-TYPE">
@@ -87,28 +87,31 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='/EETA_POPMENU.JS'><\/SCRIP
 
 <script language="JavaScript">
 
-var adImagesTop = new Array("/BANNERS/IMAGES/MICONS1.GIF","/BANNERS/IMAGES/MICRELS4.GIF","/BANNERS/IMAGES/XILINX-S2.GIF");
-var adImagesTop1 = new Array("/BANNERS/IMAGES/MICONS1.GIF","/BANNERS/IMAGES/MICRELS3.GIF","/BANNERS/IMAGES/XILINX-S1.GIF");
+var adImagesTop = new Array("/BANNERS/IMAGES/XILINX-S2.GIF","/BANNERS/IMAGES/MICRELS4.GIF");
+var adImagesTopAlt = new Array("XILINX","Micrel");
+var adImagesTop1 = new Array("/BANNERS/IMAGES/XILINX-S1.GIF","/BANNERS/IMAGES/MICRELS3.GIF");
+var adImagesTop1Alt = new Array("XILINX","Micrel");
 var adWidthTop = new Array();
-var adWidthTop1 = new Array("234","234","234");
+var adWidthTop1 = new Array("234","234");
 var adHeightTop = new Array();
-var adHeightTop1 = new Array("60","60","60");
-var adImagesSid = new Array("/BANNERS/IMAGES/AGILENT_N1.GIF","/BANNERS/IMAGES/MICRELN1.GIF","/BANNERS/IMAGES/TIN1.GIF");
-var adImagesTim = new Array("20","30","30");
-var adImagesTim1 = new Array("30","30","30");
-var adIdTop = new Array("1000044072","1000025149","1000031357");
-var adIdTop1 = new Array("1000044072","1000025148","1000031356");
-var adIdSid = new Array("1000042134","1000025150","1000048675");
-var grpIdTop = new Array("100001","100001","100001");
-var grpIdTop1 = new Array("100001","100001","100001");
-var grpIdSid = new Array("100001","100001","100001");
+var adHeightTop1 = new Array("60","60");
+var adImagesSid = new Array("/BANNERS/IMAGES/TEXAS2_E-N.GIF","/BANNERS/IMAGES/XILINX-N1.GIF","/BANNERS/IMAGES/ECADEN_N.GIF","/BANNERS/IMAGES/MENTOR_E-N.GIF","/BANNERS/IMAGES/MICRELN1.GIF");
+var adImagesSidAlt = new Array("TI","XILINX","Cadence","Mentor Graphics","Micrel");
+var adImagesTim = new Array("40","40");
+var adImagesTim1 = new Array("40","40","40","40","40");
+var adIdTop = new Array("1000031357","1000025149");
+var adIdTop1 = new Array("1000031356","1000025148");
+var adIdSid = new Array("1000063733","1000031354","1000059674","1000064173","1000025150");
+var grpIdTop = new Array("100001","100001");
+var grpIdTop1 = new Array("100001","100001");
+var grpIdSid = new Array("100001","100001","100001","100001","100001");
 var pgType = "HTML_FILE";
 var pgSource = "/MAGAZINE/POLICY.HTM";
 
 var thisAd = -1;
 var thisAd1 = -1;
-var imgCt = 3;
-var imgCt1 = 3;
+var imgCt = 2;
+var imgCt1 = 5;
 
 function rotate() {
   thisAd++;
@@ -116,9 +119,11 @@ function rotate() {
   thisAd = 0;
 if (adImagesTim[thisAd] != "") {
       document.adBannerTop.src = adImagesTop[thisAd];
+      document.adBannerTop.alt =adImagesTopAlt[thisAd];
 //      document.adBannerTop.width= adWidthTop[thisAd];
 //      document.adBannerTop.height= adHeightTop[thisAd];
       document.adBannerTop1.src = adImagesTop1[thisAd];
+      document.adBannerTop1.alt = adImagesTop1Alt[thisAd];
 //      document.adBannerTop1.width= adWidthTop1[thisAd];
 //      document.adBannerTop1.height= adHeightTop1[thisAd];
       setTimeout("rotate()", adImagesTim[thisAd] * 1000);
@@ -140,10 +145,12 @@ function imageTopHref1() {
 
 function rotate_sidebar() {
   thisAd1++;
+
   if (thisAd1 == imgCt1)
   thisAd1 = 0;
 if (adImagesTim1[thisAd1] != "") {
         document.adBannerSid.src=adImagesSid[thisAd1];
+        document.adBannerSid.alt=adImagesSidAlt[thisAd1];
         setTimeout("rotate_sidebar()", adImagesTim1[thisAd1] * 1000);
     }}
 
@@ -169,14 +176,14 @@ function getWidth(StdBanUrl) {
   <form name="search" method="post" action="/keyword.php3"></form>
   <tbody><tr><td width="230"><img src="/IMAGES/HEAD_LOGO.GIF" width="230" height="50" vspace="0" hspace="0" border="0" alt="Electronic Engineering Times - Asia"></td>
   <td align="center" nowrap="">
-<a href="javascript: imageTopHref()"><img name="adBannerTop" src="/BANNERS/IMAGES/MICONS1.GIF" border="0" width="234" height="60" alt="MICON"></a>&nbsp;<a href="javascript: imageTopHref1()"><img name="adBannerTop1" src="/BANNERS/IMAGES/MICONS1.GIF" border="0" alt="MICON"></a></td></tr></tbody></table>
+<a href="javascript: imageTopHref()"><img name="adBannerTop" src="/BANNERS/IMAGES/XILINX-S2.GIF" border="0" width="234" height="60" alt="XILINX"></a>&nbsp;<a href="javascript: imageTopHref1()"><img name="adBannerTop1" src="/BANNERS/IMAGES/XILINX-S1.GIF" border="0" alt="XILINX"></a></td></tr></tbody></table>
 <!-- End Header -->
 
 
 <!-- Start Topbar, include date, section name -->
 <table width="100%" height="26" border="00" cellspacing="0" cellpadding="0">
 
-<tbody><tr><td width="127" height="26" background="/IMAGES/LEFT_TOP.GIF"><img src="/IMAGES/BLANK.GIF" width="127" height="1" border="0"><br><img src="/IMAGES/BLANK.GIF" width="16" height="1" border="0"><span class="DATE">Dec.12, 2001</span></td>
+<tbody><tr><td width="127" height="26" background="/IMAGES/LEFT_TOP.GIF"><img src="/IMAGES/BLANK.GIF" width="127" height="1" border="0"><br><img src="/IMAGES/BLANK.GIF" width="16" height="1" border="0"><span class="DATE">Jun.09, 2002</span></td>
 	<td width="3"><img src="/IMAGES/TOP_LEFT.GIF" width="3" height="26" border="0"></td>
 	<td width="200" background="/IMAGES/TOP_BG.GIF" align="center"><span class="toptext"><img src="/IMAGES/TOP_DOT.GIF" width="7" height="7" border="0"> <a href="/HOME.HTM" class="top">Home</a></span></td>
 	<td width="5"><img src="/IMAGES/TOP_CENTER.GIF" width="5" height="26" border="0"></td>
@@ -216,7 +223,7 @@ function getWidth(StdBanUrl) {
 
 <!-- Start Banner 1 -->
 <tr><td align="center">
-<a href="javascript: imageSidebarHref()"><img name="adBannerSid" src="/BANNERS/IMAGES/AGILENT_N1.GIF" border="0" alt="Agilent" vspace="1" width="110&quot;"></a></td></tr>
+<a href="javascript: imageSidebarHref()"><img name="adBannerSid" src="/BANNERS/IMAGES/TEXAS2_E-N.GIF" border="0" vspace="1" width="110" alt="TI"></a></td></tr>
 <!-- End Banner 1 -->
 
 <tr><td><span class="lefttext"><img src="/IMAGES/BLANK.GIF" width="16" height="16" border="0"><a href="/SERVICES/SBMTPRES.HTM" class="left">Submit News</a>
@@ -331,7 +338,7 @@ Some of our services or features require cookies. If you do not accept cookies o
 </td></tr></tbody></table>
 <!-- End Main Content -->
 <center>
-<hr noshade="" width="100%" size="1"><span class="cprt">
+<hr noshade="" width="100%" size="1"><center><img src="/IMAGES/COPYRIGHT.GIF" align="CENTER"></center><br><span class="cprt">
 <a href="/MAGAZINE/TERMOFUSE.HTM">Term of Use</a> | <a href="/MAGAZINE/POLICY.HTM">Privacy Policy</a> | <a href="/MAGAZINE/SECURITY.HTM">Security Commitment</a><br>
 
 Copyright © 2001 eMedia Asia Ltd. All rights reserved. Reproduction in whole or in part <br>in any form or medium without the express written permission of eMedia Asia Ltd. is prohibited. <br>
