@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the verizon.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211074141id_/http%3A//www22.verizon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verizon.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630215945id_/http%3A//www98.verizon.com/privacy) for the most accurate reproduction.*
 
-# About Verizon - Privacy and Customer Security Policies - Internet Policy
+# Verizon | About Verizon - Privacy and Customer Security Policies - Internet Privacy
 
-[](https://www.truste.org/ivalidate.php?url=www.verizon.com) Privacy Policy January 23, 2003
+|  |    
+  
+---|---  
+  
+|  [](https://www.truste.org/ivalidate.php?url=www.verizon.com) Internet Privacy Policy  
+May 25, 2004
 
 As always, the privacy and security of your personal information is our #1 priority, and we want you to be aware of how we collect and handle information on our site.
 
@@ -12,7 +17,7 @@ When you visit verizon.com, we may collect the following information about your 
   * Personal information you knowingly give us
 
   
-For details about our general and Internet privacy policies, you may select from the topics to the left or search our privacy FAQs below:  |    
+For details about our general and Internet privacy policies, you may select from the topics to the left or search our privacy FAQs below:  |  |    
 ---|---  
 What does it mean to me for Verizon to be a licensee of the TRUSTe Privacy Program?  
 The TRUSTe seal confirms that Verizon is a licensee of the TRUSTe Privacy Program. Verizon wants you to feel confident about your privacy when using verizon.com, so we have TRUSTe review this site for compliance with their guidelines. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. [Contact us](https://web.archive.org/customersupport/contactus/index/) if you have questions or concerns regarding this statement. If your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html) who will serve as a liaison to resolve your concerns.
@@ -41,7 +46,7 @@ Back to Top
 What happens when I provide information on registration forms?  
 When you choose to register with verizon.com or any other Verizon site, we request accurate contact information and preferences that help us better serve you. You will be able to choose if your contact information is used to send you company and product information, special offers, and in some cases, newsletters. 
 
-If you're a local Verizon phone service customer, you may be given the option to register a profile with us (limited to specific areas). We would then store your name, purchase history, and billing information to make it easier for you to shop and purchase from us in the future. Customers have access to their account information on their monthly bills or by establishing an [account online](https://web.archive.org/Pages/whyregister/). 
+If you're a local Verizon phone service customer, you may be given the option to register a profile with us (limited to specific areas). We would then store your name, purchase history, and billing information to make it easier for you to shop and purchase from us in the future. Customers have access to their account information on their monthly bills or by establishing an [account online](https://web.archive.org/myaccount/signin_special/). 
 
 Anytime you register with us you may:
 
@@ -54,7 +59,7 @@ In order to improve your experience with us, we may decide to improve our site's
 Back to Top
 
 Does Verizon sell or give my information to non-Verizon companies?  
-No, we do not sell or disclose individually identifiable information obtained online about our visitors to anyone outside of Verizon. The only exceptions to this rule are the following:
+No. We do not sell or disclose individually identifiable information obtained online about our visitors to anyone outside of Verizon. The only exceptions to this rule are the following:
 
   * If you specifically authorize Verizon to share your information with another company 
   * It is required by law 
@@ -67,7 +72,7 @@ On occasion, Verizon shares non-personally identifiable information with non-Ver
 Back to Top
 
 Does Verizon accommodate links to other sites?  
-Yes, our site contains links to other Web sites. We are not responsible for the content or the privacy practices employed by other sites. However, in some instances where a service is provided through a non-Verizon partner or supplier site, such as Online Bill Pay, you can feel confident that your individually identifiable information will be protected. Verizon requires suppliers not to use the information for any purpose other than the purpose for which it was originally collected, protecting the privacy of your information.
+Yes. Our site contains links to other Web sites. We are not responsible for the content or the privacy practices employed by other sites. However, in some instances where a service is provided through a non-Verizon partner or supplier site, such as Online Bill Pay, you can feel confident that your individually identifiable information will be protected. Verizon requires suppliers not to use the information for any purpose other than the purpose for which it was originally collected, protecting the privacy of your information.
 
 Back to Top
 
@@ -86,7 +91,7 @@ Personal information you voluntarily supply when obtaining information, purchasi
 Back to Top
 
 Does Verizon use the information provided online to profile its customers?   
-No, Verizon does not combine offline information about you with the online information that you provide on our Web site. 
+No. Verizon does not combine offline information about you with the online information that you provide on our Web site. 
 
 We have made it a requirement that you will be clearly notified at the time of online data collection for the purpose of consumer profiling. When your online purchase behavior is intended to be combined with offline information, this intent will be clearly stated. You will then have the ability to choose not to have that information aggregated.
 
@@ -96,17 +101,22 @@ E-mail
 
   
 Does this site send e-mail to site visitors?   
-At times, we may utilize e-mail for any of these reasons:
+Verizon strives to continuously improve our customers' online experience by providing them with the latest information about the benefits of Verizon's products and services and in other circumstances described below. We may provide this information in any number of ways, including e-mails to our customers and online visitors who have provided their e-mail addresses to Verizon. In addition, unless you have chosen to opt out from receiving e-mail messages from Verizon, Verizon may send e-mails to:
 
-  * To conduct online surveys 
-  * To respond to a site visitor's e-mail 
-  * To confirm orders placed online 
-  * To send information that a visitor has requested 
-  * To use opt-in e-mail lists from third parties occasionally to promote our latest specials 
+  * Inform customers that their telephone bills are available for review online 
+  * Conduct online surveys 
+  * Provide marketing information about Verizon products and services 
+  * Provide information to those who have voluntarily provided their e-mail addresses to third parties in order to receive promotional material 
 
-In all of these situations, Verizon will provide you with directions on how to opt out of future e-mails of this nature.
+Moreover, in the following situations, Verizon reserves the right to communicate through e-mail with online users, including those who have opted out of receiving solicitation-based e-mails, to:
 
-Back to Top
+  * Notify customers about service or product affecting changes 
+  * Respond to an online user's e-mail 
+  * Confirm transactions, orders, payments and registrations placed online 
+  * Send information that a customer or potential customer has requested 
+  * Provide emergency, security and online account maintenance information 
+
+Verizon supports and complies with all laws governing its e-mail communications and will update this policy as needed to ensure ongoing compliance.  Back to Top
 
 Security Issues
 
@@ -132,6 +142,15 @@ Back to Top
 How do I disable cookies on my browser?  
 It's important you know that a cookie cannot be used to access or otherwise compromise the data on your hard drive. Your privacy is always protected. However, at any time you may choose to change your browser settings to disable cookies if you do not want us to establish and maintain a unique verizon.com user ID for you. Please be aware that cookies may be required to complete certain functions on this Web site, such as ordering online. We've made it easy for you to remove cookies from your browser. Simply choose from the list below and click on the name of the browser you use to access the Internet to find instructions.
 
+  
+Back to Top
+
+Online Advertising
+
+  
+What is Verizon's position regarding online advertising and third-party ad servers?  
+As an online advertiser, Verizon uses information supplied from third-party companies in several ways. This is aggregated data that does not personally identify any individual online user. This data is used to:
+
   * Evaluate and prioritize site selection when developing online media plans 
   * Geographically target advertising 
   * Deliver product and pricing information applicable to the customer's state 
@@ -141,11 +160,11 @@ Again, personally identifiable information such as name, address, phone number, 
 
 In addition, some Verizon Web sites -- for example, [www.superpages.com](http://www.superpages.com/) \-- may accept advertisements from third-party advertisers. These advertisers are carefully selected to provide information about products and services that we think may benefit you. Please check the privacy policy of these Web sites concerning what information may be collected by third-party advertisers. 
 
-Third-party advertising companies may also utilize technology in order to measure the effectiveness of ads. Some Verizon Web pages contain clear GIFs (also know as Web beacons), electronic images that allow the third party to collect anonymous information. This anonymous information about your visits to our site is used to provide advertisements about goods and services of potential interest to you. No personally identifiable information is collected during this process.
+Third-party advertising companies may also utilize technology in order to measure the effectiveness of ads. Some Verizon Web pages contain clear .gif's (also known as Web beacons), electronic images that allow the third party to collect anonymous information. This anonymous information about your visits to our site is used to provide advertisements about goods and services of potential interest to you. No personally identifiable information is collected during this process.
 
 Back to Top
 
 Whom do I contact if I am concerned, or have questions, about my Privacy at Verizon?  
-Please send an e-mail to: [privacy@verizon.com](mailto:privacy@verizon.com).
+Please visit [Contact Us](https://web.archive.org/CustomerSupport/ContactUs/Index/).
 
 Back to Top
