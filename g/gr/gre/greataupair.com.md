@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407224150id_/http%3A//greataupair.com/support.cfm/topic/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210152519id_/http%3A//www.greataupair.com/support.cfm/topic/Privacy) for the most accurate reproduction.*
 
 # Support - Privacy & Security Policy
 
@@ -6,23 +6,18 @@
 ---  
   
 Testimonial  
-I just wanted to say thank  
-you so much for providing  
-this amazing site! You guys  
-helped me such a great deal  
-to find my host family. I  
-had almost given up, then I  
-registered on your site and  
-now, only a few weeks later, I  
-am with my new family and   
-it's working out great! This  
-would not be possible without  
-your terrific service, thanks  
-again!!!   
+I appreciate how you have  
+gone the extra mile to create  
+the site that we've all been  
+waiting for. GreatAupair truly  
+empowers aupairs and fami-  
+lies to make such an impor-  
+tant decision with confidence  
+and ease.   
 
 
-Lisa Ringen, Aupair  
-Lilienthal, Germany 
+Mbao Ngula, Aupair  
+Zambia, Africa 
 
 [](https://web.archive.org/tellafriend.cfm)
 
@@ -32,7 +27,7 @@ Lilienthal, Germany
 | Privacy & Security Policy  
 ---  
 Personal Information  
-We at InteliMark Enterprises' GreatAupair have a firm commitment to safeguarding the privacy of our members' data. We collect information from our members during the registration process and, occasionally, at other times. This information collected by GreatAupair is securely stored and will not be sold or rented on an individual basis to any third party without your knowledge or permission.  
+We at InteliMark Enterprises' GreatAupair have a firm commitment to safeguarding the privacy of our members' data. We collect information from our members during the registration process and, occasionally, at other times. This information collected by GreatAupair is securely stored and will not be sold or rented on an individual basis to any third party without your knowledge or permission. Search engines may index publicly available information from your profile that is searchable by anyone on the Internet. Search engines do not have access to any personal contact information, and such information will not be available to search engines. Contact information is defined as an email address, phone number or address.  
 Uses of Registration Information  
 Your registration information is made available on the GreatAupair web site to either families or aupairs that are seeking a working relationship with you. The information you provide during registration may also be used to enable us to process, validate and verify paid memberships and to provide advertisers with aggregate - never individual - information about our member base and usage patterns. We may also use aggregated information to develop new features and services to better meet member needs.  
 Internally we may use aggregated and personally identifiable information to improve our marketing efforts, to statistically analyze site usage, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.  
