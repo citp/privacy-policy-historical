@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funbrain.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621061532id_/http%3A//funbrain.com/mission.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funbrain.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607082409id_/http%3A//www19.funbrain.com/mission.html) for the most accurate reproduction.*
 
 # FunBrain.com - Privacy Policy
 
