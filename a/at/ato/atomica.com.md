@@ -1,79 +1,97 @@
-> *The following text is extracted and transformed from the atomica.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206203300id_/http%3A//www.atomica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomica.com privacy policy that was archived on 2001-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/privacy.html) for the most accurate reproduction.*
 
 # Atomica Corporation
 
   
-[ ](https://web.archive.org/web/20001206203300id_/http%3A//www.atomica.com/index.html)  
-[ ](https://web.archive.org/web/20001206203300id_/http%3A//www.atomica.com/why_atomica.html)  
-[ ](https://web.archive.org/web/20001206203300id_/http%3A//www.atomica.com/solutions_enterprise.html)  
-[ ](https://web.archive.org/web/20001206203300id_/http%3A//www.atomica.com/new_news.html)  
-[ ](https://web.archive.org/web/20001206203300id_/http%3A//www.atomica.com/about_comp.html)  
-[ ](https://web.archive.org/web/20001206203300id_/http%3A//www.atomica.com/careers_over.html)  
-[ ](https://web.archive.org/web/20001206203300id_/http%3A//www.atomica.com/support_general.html)  
-[ ](https://web.archive.org/web/20001206203300id_/http%3A//www.atomica.com/contact_general.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/index.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/why_atomica.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/solutions_enterprise.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/services_general.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/technology.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/new_news.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/about_comp.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/careers.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/support_general.html)  
+[ ](https://web.archive.org/web/20010612162148id_/http%3A//www.atomica.com/contact_general.html)  
 |  | 
 
-We are firmly committed to your privacy. The following policy statement describes our information gathering and dissemination practices for the Atomica client, Palm version and Web-site **www.atomica.com**.
-
-  * Overview
+  * Privacy Policy Overview
   * What We Track
-  * Cookies
-  * Security
-  * Choice / Opt Out
+  * Information Sharing and Disclosure
+  * How We Track It
+  * "How Secure is my Information?"
+  * "Can I Update or Remove my Personal Information?"
+  * Changes to This Privacy Statement
+  * Children
   * Additional Information
 
 
 
 ### _Overview_
 
-Atomica's policy is to respect and protect the privacy of our users. Atomica does not willfully disclose individually identifiable information about its customers to any third party without first receiving that customer's permission. This policy statement tells you how we collect information from you and how we use it.
+Because your privacy is important to us, Atomica's Privacy Policy is based on the following principle -- **respect and protect the privacy of our users**. The Privacy Policy that follows will explain how Atomica adheres to this principle in order to serve you best.
 
-Atomica may share information about users with advertisers, business partners, sponsors, and other third parties. However, we only do so in _aggregate_ , not as individuals. For example, we may disclose how frequently the average Atomica user activates our product, or how frequently we display a given concept.
+This policy only addresses services from our servers. Other websites, such as those we link to or co-brand with, may have their own policies. 
 
-Atomica requests information from you on the registration page, and may again request information when attempting to provide customized features. All personal information upon registration is _optional_. When using certain customized features, though, additional information (e.g., e-mail) may be required. 
-
-If you ever regret providing Atomica with information, please send e-mail to [support@atomica.com](mailto:support@atomica.com) and we will delete the information from our database. 
+If you work for a firm that subscribes to our service, their privacy policies will take precedence over ours, and we may be required to share user information as requested by your corporation. 
 
 Back to Top
 
 ### _What We Track_
 
-When you download Atomica, we generate a User-ID for you. The only thing this ID tracks is your usage of Atomica. Specifically:
+Atomica tracks two types of information about our users: personal information that you voluntarily provide at registration ("Personally Identifiable Data") and information about our users' usage of the system ("Usage Data"). 
 
-  * What topics we've displayed for you 
-  * What links you've clicked on from within the Atomica window 
-
-
-
-In addition, when a user registers with us, we request the following optional information: age, gender, country, zip, e-mail.
-
-We collect this information for the following purposes:
-
-  * To help us provide you more relevant information. 
-  * To better understand how people use our product, so that we can improve their experience. 
-  * To allow third parties to view, on an _aggregate_ basis only, information regarding usage patterns. None of this information can be traced back to an individual user. 
+  1. Personally Identifiable Data includes such information as your name, your e-mail address, your mailing address, and your phone number. The provision of Personally Identifiable Data during the registration process is optional since you are not required to provide Personally Identifiable Data in order to use our product. However, providing us with this Personally Identifiable Data will enable us to provide more relevant information to you, based on your location, industry, etc. 
+  2. Usage Data includes any non-personally identifiable data relating to your use of our products or services and may include, but is not limited to, the frequency of your queries and the topics you query. When a user installs Atomica, he/she is assigned a randomly-generated unique user ID, according to which such usage information is automatically tracked. This information, though, is not associated with any Personally Identifiable Data, unless, as stated above, a user has expressly offered such information. Usage information may be associated with the user's computer IP address for strictly statistical purposes - but still not associated with a specific user's Personally Identifiable Data. This analysis will help us better understand how our users use our product, so that we can improve their experience. 
 
 
-
-We will never voluntarily transfer any personally identifiable information to a third party. 
 
 Back to Top
 
-### _Cookies_
+### _Information Sharing and Disclosure_
 
-Atomica uses cookies to store some of your preferences. For example, you may select _French_ as your preferred user interface language. You can use Atomica even if cookies are disabled, but we will then be unable to adapt our services to your preferences.
+The Usage Data (i.e. Non-Personally Identifiable Data) we track about our users may be used and shared with third parties on an aggregate basis (e.g., our corporate customers or third-party content providers) in order to provide a better or more customer-focused service to our users. 
+
+Personally Identifiable Data will not be shared externally without the user's permission, except in the following limited circumstances: 
+
+  1. Personally Identifiable Data will be shared with our contractors and agents, who are bound by confidentiality obligations, in order to provide you with services. Unless we tell you otherwise, these companies do not have a right to use the Personally Identifiable Data we share with them beyond what is essential to assist us. For example, Personally Identifiable Data may be provided to our e-mail management services firm, which helps us keep you updated about the latest features of Atomica. This e-mail management services firm will only receive Personally Identifiable Data from us for those users who have opted in to receive e-mail notifications from us. You may opt-out of these informational e-mails at any point; and
+  2. Atomica will share Personally Identifiable Data if required to do so by law or in good-faith belief that such action is necessary to a) comply with the law or respond to court orders, subpoenas, or legal process served on our site; b) protect and defend the rights or property of Atomica, our site, or our users; c) protect the personal safety of Atomica employees, our users, or the public; or d) enforce or apply our usage guidelines. 
+  3. Personally Identifiable Data will be shared externally when Atomica receives a user's consent to share the information. 
+  4. Personally Identifiable Data will be shared with a successor of interest in Atomica or to a purchaser of Atomica's assets, in the event that Atomica is involved in a merger or acquisition, provided such successor/purchaser is required to comply with the terms and conditions of this privacy policy. 
+
+
 
 Back to Top
 
-### _Security_
+### _How We Track It_
 
-Atomica operates secure data networks protected by industry standard security protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our users.
+Atomica uses either cookies and/or registry settings on your computer to store user information. You can use Atomica even if cookies are disabled, but this may impact our ability to adapt Atomica according to your preferences.
 
 Back to Top
 
-### _Choice / Opt Out_
+### _How Secure is my Information?_
 
-Upon registration, Atomica provides users the opportunity to opt out of receiving communications from us and our partners. We also allow our users to remove their information from our database to prevent future receipt of communications or to no longer receive our service. To do so, send an e-mail to [support@atomica.com](mailto:support@atomica.com).
+Atomica operates secure data networks protected by industry standard security protection systems. For example, Atomica provides SSL encrypted authentication of users at session login based on username and password. In addition, we periodically review our privacy policy to ensure we remain in full compliance as we upgrade our system. 
+
+Back to Top
+
+### _Can I Update or Remove my Personal Information?_
+
+You may update or remove your Personally Identifiable Data from our system at any time, by contacting us at [support@atomica.com](mailto:support@atomica.com). Alternatively, if you receive some communication from us, at that time, you may indicate your desired change of information.
+
+As mentioned previously, upon registration, you may opt out of providing us with your Personally Identifiable Data or from receiving communications from our partners and us. 
+
+Back to Top
+
+### _Changes to This Privacy Statement_
+
+Atomica may amend this policy from time to time. If we make any major changes in the way your Personally Identifiable Data may be used, we will notify you by posting an announcement on our website. 
+
+Back to Top
+
+### _Children_
+
+We do not specifically collect information about children. Children under the age of 13 should get their parents' consent before providing any Personally Identifiable Data to Atomica. 
 
 Back to Top
 
@@ -91,5 +109,5 @@ For more information on protecting your privacy on-line, please see the followin
 
 Back to Top
 
-   
+Note: This statement applies to the entire Suite of Atomica Products, including, but not limited to Atomica Personal, Atomica Enterprise, Atomica Enterprise for Sales, Atomica Enterprise QuickStart, Atomica ProTM, and Atomica Knowledge Warehouse.     
 
