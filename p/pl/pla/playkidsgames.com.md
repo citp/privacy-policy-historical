@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playkidsgames.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616145931id_/http%3A//www.playkidsgames.com/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playkidsgames.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217015444id_/http%3A//playkidsgames.com/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -49,4 +49,4 @@ We care about children and understand that they have special privacy needs. Ther
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[ pkgames@home.com ](mailto:pkgames@home.com)
+[ contactus@playkidsgames.com ](mailto:contactus@playkidsgames.com)
