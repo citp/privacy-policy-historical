@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the office.net privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031007id_/http%3A//office.microsoft.com/common/en-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.net privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628022606id_/http%3A//office.microsoft.com/common/en-us/privacy.aspx) for the most accurate reproduction.*
 
 # Microsoft Office Tools on the Web Privacy Statement
 
 **Microsoft Office Tools on the Web Privacy Statement**  
-_This document was last updated_ _July 24, 2001_ _._
+_This document was last updated_ _April 23, 2003_ _._
 
-At Microsoft, we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. Microsoft is a participant in the Safe Harbor Agreement between the United States and the European Union, and meets the Safe Harbor principles published by the U.S. Department of Commerce. You can travel through most of our site without giving us any information about yourself. But, sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. By using this site, you consent to the data practices described in this statement.
+At Microsoft, we are committed to helping protect your privacy and to developing technology that helps to protect your security and gives you a powerful online experience. Microsoft is a participant in the Safe Harbor Agreement between the United States and the European Union, and meets the Safe Harbor principles published by the U.S. Department of Commerce. You can travel through most of our site without giving us any information about yourself. But, sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. By using this site, you consent to the data practices described in this statement.
 
 This statement covers Office Tools on the Web, including Design Gallery Live, Template Gallery, eServices, Product Updates, Assistance Center, and Download Center.
 
@@ -43,7 +43,7 @@ Please be aware that this Privacy Statement and the choices you make on this sit
 
    
 **Security of personal information**  
-Office Tools on the Web strictly protects the security of personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Inside the company, data is stored in password-controlled servers with limited access. 
+Office Tools on the Web strictly helps to protect the security of personal information and honors your choices for its intended use. We carefully help protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Inside the company, data is stored in password-controlled servers with limited access. 
 
    
 **Use of cookies**  
@@ -64,6 +64,10 @@ Web beacons collect only a limited set of information including a cookie number,
 Office Tools on the Web allows third-party ad servers or ad networks to display advertisements on the Office Tools on the Web site. To do this, ad networks place a persistent cookie on your computer. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver advertisements that they believe will be of most interest to you. Office Tools on the Web does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks.
 
 If you want to prevent one of these third-party companies from sending and reading cookies on your computer, you can usually modify your browser setting to decline third party cookies or all cookies, or you may visit each ad network's Web site individually and request that you be removed from its system.
+
+   
+**Office Update**  
+Office Product Updates allows you to scan your computer for the Office updates you need, and then download and install the necessary updates. When you choose to scan your computer, Office sends a catalog to your computer containing a list of the potential updates that you may need, as well as an ActiveX control to run the scan. The ActiveX control compares the contents of your computer with the update list and shows you the updates that you should install. Office Product Updates then allows you to download and install the updates using the site. Office Product Updates maintains a log of successful and failed update installations. This log is anonymized and used to ensure the quality of the Office Product Update service. Office Product Updates does not maintain a record of the specific files on your machine and does not collect any personal information.
 
    
 **Changes to this statement**  
