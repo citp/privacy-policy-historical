@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalhogfarmer.com privacy policy that was archived on 2002-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020908222317id_/http%3A//www.nationalhogfarmer.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalhogfarmer.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412161016id_/http%3A//nationalhogfarmer.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # PRIMEDIA Business - Online Business Information and News for Industry Communities
 
