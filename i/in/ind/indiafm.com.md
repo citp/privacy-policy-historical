@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618064037id_/http%3A//www.indiafm.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203171108id_/http%3A//indiafm.com/privacy.shtml) for the most accurate reproduction.*
 
 # IndiaFM.com privacy statement
 
@@ -59,11 +59,11 @@ If you have any questions about this privacy statement, the practices of this si
 
 * * *
 
-| [Screensaver](http://www.indiafm.com/screensaver/index.shtml) | [Wallpaper](http://www.indiafm.com/posters/index.shtml) | [Audio](http://www.indiafm.com/audio/index.shtml) | [Video](http://www.indiafm.com/video/index.shtml) | [Jukebox](http://www.indiafm.com/audio/jukebox.shtml) | [Radio](http://radio.indiafm.com/) | [Contests](http://www.indiafm.com/promos/index.shtml) |  
-| [Movie Showcase](http://www.indiafm.com/showcase/index.shtml) | [Downloads](http://www.indiafm.com/downloads/index.shtml) | [Reviews](http://www.indiafm.com/reviews/index.shtml) | [Previews](http://www.indiafm.com/previews/index.shtml) | [Chat](http://www.indiafm.com/chatroom/index.shtml) | [Face 2 Face](http://www.indiafm.com/face2face/index.shtml) |  
+| [Screensaver](http://www.indiafm.com/screensaver/index.shtml) | [Wallpaper](http://www.indiafm.com/posters/index.shtml) | [Jukebox](http://www.indiafm.com/audio/jukebox.shtml) | [Chat](http://www.indiafm.com/chatroom/index.shtml) | [Contests](http://www.indiafm.com/promos/index.shtml) | [Net Guide](http://www.indiafm.com/netguide/index.shtml) |  
+| [Movie Showcase](http://www.indiafm.com/showcase/index.shtml) | [Downloads](http://www.indiafm.com/downloads/index.shtml) | [Reviews](http://www.indiafm.com/reviews/index.shtml) | [Previews](http://www.indiafm.com/previews/index.shtml) | [Face 2 Face](http://www.indiafm.com/face2face/index.shtml) |  
 | [Parties & Events](http://www.indiafm.com/memories/index.shtml) | [Release Dates](http://www.indiafm.com/scoop/releasedates.shtml) | [Music Reviews](http://www.indiafm.com/musicreview/index.shtml) | [Filmfare Awards](http://www.indiafm.com/filmfare/index.shtml) |  
 | [Box Office](http://www.indiafm.com/boxoffice/index.shtml) | [Stars as kids](http://www.indiafm.com/staraskids/index.shtml) | [Fun & Humour](http://www.indiafm.com/etcetera/index.shtml) | [Star Birthdays](http://www.indiafm.com/wishstars/index.shtml) | [Interviews](http://www.indiafm.com/interviews/index.shtml) |  
-| [Scoop & News](http://www.indiafm.com/scoop/index.shtml) | [Movie Stills](http://www.indiafm.com/stills/index.shtml) | [On sets](http://www.indiafm.com/onthesets/index.shtml) | [E-Cards](http://www.indiafm.com/ecards/index.shtml) | [Games](http://www.indiafm.com/games/index.shtml) | [Forum](http://pub44.ezboard.com/bindiafm) |  
+| [Scoop & News](http://www.indiafm.com/scoop/index.shtml) | [Movie Stills](http://www.indiafm.com/stills/index.shtml) | [On sets](http://www.indiafm.com/onthesets/index.shtml) | [E-Cards](http://www.indiafm.com/ecards/index.shtml) | [Games](http://www.indiafm.com/games/index.shtml) | [Broadband](http://www.indiafm.com/broadband/index.shtml) |  
 
 
 |   
