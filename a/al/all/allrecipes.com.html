@@ -1,7 +1,11 @@
-<!--The following is the downloaded HTML source of the allrecipes.com privacy policy that was archived on 2004-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040611011529id_/http%3A//allrecipes.com/privacy.asp%3Flnkid%3D159) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allrecipes.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204165106id_/http%3A//allrecipes.com/privacy.asp%3Flnkid%3D159) for the most accurate reproduction.-->
 
 <html><head>
+<base target="_top">
+
+	<link rel="Stylesheet" href="http://images.allrecipes.com/css/global/global.css" type="text/css" media="all">
+
 <style type="text/css">
 A:hover {COLOR: #cc0000; TEXT-DECORATION: underline}
 .A10 {FONT-SIZE: 10px; FONT-FAMILY: Arial, sans-serif}
@@ -29,132 +33,56 @@ A:hover {COLOR: #cc0000; TEXT-DECORATION: underline}
 .wslink { COLOR: #cc0000; TEXT-DECORATION: none;}
 .wnlink { COLOR: #ff3300; TEXT-DECORATION: none;}
 .readtxt { font-family: Arial, sans-serif; line-height: 18px; font-size: 12px;}
-</style>
-<script language="javascript">
+</style><script src="http://images.allrecipes.com/js/global.js"></script>
+
+<script type="text/javascript">
 <!--
-var iMaxRich = 2;
-var numServed = "";
-var iNumServed = parseInt(numServed);
-var sourceid = "";	
-var doPop = showPopPos();
+window.onerror = arGlobalHandleError;
 
-function arAdsHandleError() {
-	return true;
-}
+if (top.frames.length!=0)
+    top.location=self.document.location;
 
-window.onerror = arAdsHandleError;
+var globalimageserver = "http://images.allrecipes.com/";
 
-function arAdsSetRichCookie(value){
-	var exp = new Date();
-	// cookie expires in one day 
-	//	exp.setTime(exp.getTime() + 24 * 60 * 60 * 1000);
-	//new: set cookie to expire at midnight instead of 24 hours
-	var expDate = new Date(exp.getFullYear(), exp.getMonth(), exp.getDate(), 0, 0, 0);
-	//set to next day @midnight (aka midnight tonight):
-	expDate.setTime(expDate.getTime() + 24 * 60 * 60 * 1000);
-	// fix the bug in Navigator 2.0, Macintosh
-	arAdsFixDate(expDate);
-	arAdsSetCookie("richads", value, expDate, "/", "allrecipes.com");
-}
-
-function arAdsSetCLSLCookie(name, value){
-	var exp = new Date();
-	var expDate = new Date(exp.getFullYear(), exp.getMonth(), exp.getDate(), 0, 0, 0);
-	//set to next day @midnight (aka midnight tonight):
-	expDate.setTime(expDate.getTime() + 24 * 60 * 60 * 1000);
-	arAdsFixDate(expDate);
-	arAdsSetCookie(name, value, expDate, "/", "allrecipes.com");
-}
-
-function arAdsFixDate(date) {
-  var base = new Date(0);
-  var skew = base.getTime();
-  if (skew > 0)
-    date.setTime(date.getTime() - skew);
-}
-
-function arAdsSetCookie(name, value, expires, path, domain, secure) {
-  var curCookie = name + "=" + escape(value) +
-      ((expires) ? "; expires=" + expires.toUTCString() : "") +
-      ((path) ? "; path=" + path : "") +
-      ((domain) ? "; domain=" + domain : "") +
-      ((secure) ? "; secure" : "");
-  document.cookie = curCookie;
-}
-
-function showPopPos(){
-	var retVal = false;
-	var popsOK = "True";
-	
-	if (popsOK != "False"){
-		if (sourceid == "0" || sourceid == ""){	
-			if (window.navigator.cookieEnabled)	{
-				if (isNaN(iNumServed)){
-					retVal = true;
-				}else{
-					if (iNumServed < iMaxRich){
-						retVal = true;
-					}
-				}
-			}
-		}
-	}else{
-		retVal = false;
-	}
-	return retVal;
-}
-//-->
+var strCursorStyle = "pointer";
+// -->
 </script>
 
-<script language="JavaScript">
+<script language="javascript">
 <!--
-//configuration:
-bIsPartnerSite = 'False';
+var arAdsSourceid;	
+var arAdsPopsOK;
+var OAS_version;
+//-->
+</script>
+<script src="http://images.allrecipes.com/js/adsnew.js"></script>
 
+<script language="javascript">
+<!--
+arAdsSourceid = "";	
+arAdsPopsOK = "True";
+bIsPartnerSite = 'False';
 OAS_url = 'http://ads.allrecipes.com/RealMedia/ads/';
 OAS_sitepage = 'allrecipes.com';
 OAS_listpos = 'x01,x04';
-if (doPop == true && bIsPartnerSite == 'False')
-	OAS_listpos += ',x03';
-//-->
-</script>
-
-<script language="JavaScript">
-<!--
-
 OAS_query = '';
 OAS_target = '_top';
-//end configuration
 OAS_version = 10;
 OAS_rn = new String(Math.random()); OAS_rns = OAS_rn.substring(2, 11);
-
-
-function OAS_NORMAL(pos){
-	document.write('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
-	document.write('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
-}
 //-->
 </script>
+<script language="javascript">
+<!--
+if (arAdsShowRichPos(3, 1) == true && bIsPartnerSite == 'False')
+     OAS_listpos += ',x03';
+//-->
+</script>
+
 <script language="JavaScript1.1">
 <!--
 OAS_version = 11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
-	OAS_version = 10;
-if (OAS_version >= 11){
-	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"></script></head><body style="margin:8px;background-color:ffffff;" link="#ff3300" vlink="#ff9900" alink="#cc0000" text="#333333">');
-}
-//--&gt; 
-
-<script language="JavaScript">
-<!--
-document.write('');
-function OAS_AD(pos){
-	if (OAS_version >= 11)
-		OAS_RICH(pos);
-	else
-		OAS_NORMAL(pos);
-}
-//-->
+arAdsSetVersion();
+//--> 
 </script>
 
 
@@ -163,288 +91,273 @@ function OAS_AD(pos){
 
 
 
-
-
+</head>
+<body style="margin:8px;" bgcolor="#ffffff" link="#ff3300" vlink="#ff9900" alink="#cc0000">
 <script language="JavaScript">
 <!--
 OAS_AD('x01');
 //-->
-</script><a href="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/1628769436@x01,x04,x03!x01?" target="_top"><img src="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/1628769436@x01,x04,x03!x01?" border="0"></a>
-<noscript><A HREF="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/122780@x01,x04!x01?"TARGET="_top"><IMG SRC="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/122780@x01,x04!x01?"BORDER=0></A></noscript><div style="height:5px;overflow=hidden;"><span style="height:5px;"></span></div>
+</script>
+<noscript><A HREF="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/126129@x01,x04!x01?"TARGET="_top"><IMG SRC="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/126129@x01,x04!x01?"BORDER=0></A></noscript>
+	
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FF9900" id="top nav">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td valign="top" bgcolor="FF9900"><a href="http://allrecipes.com"><img alt="The home cooks' best-loved recipe, food and cooking resource" src="http://image.allrecipes.com/global/nav/topnav/ar_mainlogo_full.gif" width="155" height="92" border="0"></a></td>
-<td valign="top" bgcolor="FF9900">
+<td valign="top" colspan="2" bgcolor="#ffffff" style="margin:0px; padding:0px;"><div style="height:5px;width:754px;overflow=hidden;"><span style="height:5px;"></span></div></td>
+</tr>
+<form action="http://search.allrecipes.com/recipe/quick.asp" method="get" id="form1" name="form1"></form>
 
-	<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr> 
-	<td colspan="2" style="padding-left:18;"><img src="http://image.allrecipes.com/global/nav/topnav/area/rec/areaname_full.gif" width="156" height="51"></td>
-	</tr>
+<tr>
+<td width="346" valign="top"><div style="float:left; padding-right:10px;"><a href="http://allrecipes.com"><img src="http://images.allrecipes.com/global/nav/topnav/ar_mainlogo_full.gif" alt="Allrecipes - The home cooks' best-loved recipe, food and cooking resource" width="155" height="93" border="0"></a></div>
+
+<!-- search -->			
+<div><a name="top"><img src="http://images.allrecipes.com/global/nav/topnav/area/rec/areaname_full.gif" alt="Find Recipes Fast!" width="156" height="51" border="0"></a>
+<br>
+<input type="text" size="17" maxlength="50" name="q1" value="">
+<input name="lnkid" type="hidden" value="65">
+<input type="image" src="http://images.allrecipes.com/global/buttons/go_button_19x19.gif" alt="Go" align="absmiddle" width="19" height="19" hspace="5" border="0"></div></td>
 	
-	<form action="http://search.allrecipes.com/recipe/quick.asp" method="get" id="form1" name="form1"></form>
-	<tr>
-	<td style="padding-left:18;"><input type="text" size="17" maxlength="50" name="q1" value=""><input name="lnkid" type="hidden" value="65"></td>
-	<td style="padding-left:0;"><input type="image" src="http://image.allrecipes.com/global/buttons/go_button_19x19.gif" width="19" height="19" hspace="8" border="0" id="image1" name="image1"></td>
-	</tr>
-	</tbody></table>
 
-</td>
-<td rowspan="2" width="1" bgcolor="FF9900"><img src="http://image.allrecipes.com/global/trans.gif" width="8" height="2"></td>
-<td valign="top" width="100%" rowspan="2">
+<td style="min-width:409px;" rowspan="2" valign="bottom" align="right" bgcolor="FF9900" nowrap=""><div style="height:27px;"><a href="http://allrecipes.com/recipes/"><img src="http://images.allrecipes.com/global/nav/topnav/area/rec/recipes_link.gif" width="52" height="27" border="0" alt="Recipe Collections,Recipe Search, Recipe Directory, Top 10s, Recipe of the Day, and more..."></a><a href="http://allrecipes.com/community/default.asp?lnkid=566"><img src="http://images.allrecipes.com/global/nav/topnav/area/rec/community_link.gif" width="80" height="27" border="0" alt="Recipe Exchange, Member Home Pages, Latest Reviews..."></a><a href="http://allrecipes.com/advice/"><img src="http://images.allrecipes.com/global/nav/topnav/area/rec/advice_link.gif" width="56" height="27" border="0" alt="Cooking Help, Cooks Encyclopedia, Kitchen Reference..."></a><a href="http://shop.allrecipes.com/shop/default.asp?nplsrcid=489"><img src="http://images.allrecipes.com/global/nav/topnav/area/rec/cookbook_link.gif" width="81" height="27" border="0" alt="Buy Our Cookbooks and other Great Stuff"></a><a href="http://allrecipes.com/save/"><img src="http://images.allrecipes.com/global/nav/topnav/area/rec/offers_link.gif" width="60" height="27" border="0" alt="Coupons and Special Offers"></a><a href="http://allrecipes.com"><img src="http://images.allrecipes.com/global/buttons/home_button_31x27.gif" width="31" height="27" border="0" alt="Allrecipes Home Page"></a><a href="http://myrecipe.allrecipes.com/default.asp"><img src="http://images.allrecipes.com/global/buttons/my_button_22x27.gif" width="22" height="27" border="0" alt="Member Area and Recipe Box"></a><a href="http://allrecipes.com/help/"><img src="http://images.allrecipes.com/global/buttons/help_button_29x27.gif" width="29" height="27" border="0" alt="Help Area and Feedback"></a></div>
+		
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="FF8800">
+<tbody><tr>
+<td rowspan="2" valign="top"><img src="http://images.allrecipes.com/global/nav/topnav/area/rec/sub_corner.gif" width="12" height="102" border="0" alt=" "></td>
+<td width="100%" valign="top">
 
-	<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-	<td bgcolor="FF9900">&nbsp;</td>
-	<td width="100%" align="right" bgcolor="FF9900"><a href="http://allrecipes.com/recipes/"><img src="http://image.allrecipes.com/global/nav/topnav/area/rec/recipes_link.gif" width="52" height="27" border="0" alt="Recipe Collections,Recipe Search, Recipe Directory, Top 10s, Recipe of the Day, and more..."></a><a href="http://allrecipes.com/community/"><img src="http://image.allrecipes.com/global/nav/topnav/area/rec/community_link.gif" width="80" height="27" border="0" alt="Recipe Exchange, Member Home Pages, Latest Reviews..."></a><a href="http://allrecipes.com/advice/"><img src="http://image.allrecipes.com/global/nav/topnav/area/rec/advice_link.gif" width="56" height="27" border="0" alt="Cooking Help, Cooks Encyclopedia, Kitchen Reference..."></a><a href="http://shop.allrecipes.com/shop/default.asp?nplsrcid=489"><img src="http://image.allrecipes.com/global/nav/topnav/area/rec/cookbook_link.gif" width="81" height="27" border="0" alt="Buy Our Cookbooks and other Great Stuff"></a><a href="http://allrecipes.com/save/"><img src="http://image.allrecipes.com/global/nav/topnav/area/rec/save_link.gif" width="47" height="27" border="0" alt="Coupons and Special Offers"></a><a href="http://allrecipes.com"><img src="http://image.allrecipes.com/global/buttons/home_button_31x27.gif" width="31" height="27" border="0" alt="Allrecipes Home Page"></a><a href="http://myrecipe.allrecipes.com/default.asp"><img src="http://image.allrecipes.com/global/buttons/my_button_22x27.gif" width="22" height="27" border="0" alt="Member Area and Recipe Box"></a><a href="http://allrecipes.com/help/"><img src="http://image.allrecipes.com/global/buttons/help_button_29x27.gif" width="29" height="27" border="0" alt="Help Area and Feedback"></a></td>
-	</tr>
-	<tr>
-	<td rowspan="2" valign="top" bgcolor="FF8800"><img src="http://image.allrecipes.com/global/nav/topnav/area/rec/sub_corner_full.gif" width="12" height="95"></td>
-	<td valign="top" bgcolor="FF8800">
-
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-		<td colspan="2" bgcolor="FFFFFF"><img src="http://image.allrecipes.com/global/trans.gif" width="8" height="2"></td>
-		</tr>
-		<tr>
-		<td valign="top" bgcolor="FF8800"><a href="/default.asp"><img src="http://image.allrecipes.com/site/allrecipes/area/default/tagline.gif" width="290" height="64" alt="Allrecipes -- Your home for tried &amp; true recipes, cooking advice and meal ideas: all created and rated by millions of home cooks." border="0"></a></td>
-		<td align="right" bgcolor="FF8800"><img src="http://image.allrecipes.com/global/trans.gif" width="99" height="64"></td>
-		</tr>
-		</tbody></table>
-
-	</td>
-	</tr>
-	<tr>
-	<td valign="bottom" bgcolor="FF8800">
-
-		<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-		<td nowrap="" bgcolor="FF8800"><img src="http://image.allrecipes.com/global/nav/topnav/button_corner.gif" height="28" width="8"></td>
-		<td nowrap="" bgcolor="ffffff"><a href="http://search.allrecipes.com"><img src="http://image.allrecipes.com/site/allrecipes/area/default/search.gif" height="28" width="86" border="0" alt=""></a><img src="http://image.allrecipes.com/global/trans.gif " height="6" width="6"><a href="/recipes/browse.asp"><img src="http://image.allrecipes.com/site/allrecipes/area/default/browse.gif" height="28" width="86" border="0" alt=""></a><img src="http://image.allrecipes.com/global/trans.gif " height="6" width="6"><a href="/recipes/ideas.asp"><img src="http://image.allrecipes.com/site/allrecipes/area/default/ideas.gif" height="28" width="86" border="0" alt=""></a><img src="http://image.allrecipes.com/global/trans.gif " height="6" width="6"><a href="/recipes/favorites.asp"><img src="http://image.allrecipes.com/site/allrecipes/area/default/favorites.gif" height="28" width="86" border="0" alt=""></a></td>
-		<td bgcolor="ffffff" width="100%">&nbsp;</td>
-		</tr>
-		</tbody></table>
-
-	</td>
-	
-	</tr>
-	</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td bgcolor="#FFFFFF" colspan="2"><img src="http://images.allrecipes.com/global/trans.gif" alt="" width="8" height="2"></td>
+</tr>
+<tr>
+<td width="100%" valign="top"><a href="/default.asp"><img src="http://images.allrecipes.com/site/allrecipes/area/default/tagline.gif" alt="Allrecipes -- Your home for tried &amp; true recipes, cooking advice and meal ideas: all created and rated by millions of home cooks." width="290" height="64" border="0"></a></td>
+<td bgcolor="FF8800"><img src="http://images.allrecipes.com/global/trans.gif" width="99" height="64"></td>
+</tr>
+</tbody></table>
 
 </td>
 </tr>
-<tr> 
-<td colspan="2" bgcolor="FF9900">
+<tr>
+<td valign="bottom" style="background: url(http://images.allrecipes.com/global/white.gif) repeat-x bottom;">
 
-	<table border="0" cellpadding="0" cellspacing="0" bgcolor="FFFFFF">
-	<tbody><tr>
-	<td><img src="http://image.allrecipes.com/global/trans.gif" width="8" height="8"></td>
-	<td align="left" valign="top" bgcolor="FF9900"><img src="http://image.allrecipes.com/global/nav/topnav/tab_corner_full.gif" width="8" height="8"></td>
-	</tr>
-	<tr>
-	<td>
+<!-- buttons -->
 
-		<table border="0" cellpadding="0" cellspacing="0" bgcolor="FF6600">
-		<tbody><tr><td><img src="http://image.allrecipes.com/global/nav/topnav/member_left_corner.gif" width="7" height="22"></td><td nowrap=""><font class="V10" color="FFFFFF">Welcome! <a href="http://myrecipe.allrecipes.com/default.asp" style="text-decoration:none;color:FFFFFF;"><b><u>Login</u></b></a> or <a href="http://allrecipes.com/community/join.asp" style="text-decoration:none;color:FFFFFF;"><b><u>Join for FREE!</u></b></a></font></td><td><img src="http://image.allrecipes.com/global/nav/topnav/member_right_corner.gif" width="7" height="22"></td></tr>
-		</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 
-	</td>
-	<td><img src="http://image.allrecipes.com/global/trans.gif" width="8" height="8"></td>	
-	</tr>
-	</tbody></table>
-	
+
+<tbody><tr>
+<td width="0%" nowrap="nowrap" bgcolor="FF8800"><img src="http://images.allrecipes.com/global/nav/topnav/button_l_corner.gif" width="8" height="36" border="0" alt=""></td>
+<td nowrap="" bgcolor="#ffffff"><a href="http://search.allrecipes.com"><img src="http://images.allrecipes.com/site/allrecipes/area/default/tnbuttons/search.gif" height="36" width="86" border="0" alt=""></a><img src="http://images.allrecipes.com/global/trans.gif " height="6" width="6"><a href="/recipes/browse.asp"><img src="http://images.allrecipes.com/site/allrecipes/area/default/tnbuttons/browse.gif" height="36" width="86" border="0" alt=""></a><img src="http://images.allrecipes.com/global/trans.gif " height="6" width="6"><a href="/recipes/ideas.asp"><img src="http://images.allrecipes.com/site/allrecipes/area/default/tnbuttons/ideas.gif" height="36" width="86" border="0" alt=""></a><img src="http://images.allrecipes.com/global/trans.gif " height="6" width="6"><a href="/recipes/favorites.asp"><img src="http://images.allrecipes.com/site/allrecipes/area/default/tnbuttons/favorites.gif" height="36" width="86" border="0" alt=""></a></td>
+<td width="99%" bgcolor="#FFFFFF">&nbsp;</td>
+</tr>
+
+
+
+</tbody></table>
+
 </td>
 </tr>
 </tbody></table>
 
-<div style="height:8px;overflow=hidden;"><span style="height:8px;"></span></div>
+</td>
+</tr>
+<tr>
+<td style="background: #FF9900 url(http://images.allrecipes.com/global/white.gif) repeat-x bottom; layer-background-color: #FF9900; padding-right: 10px;">
+
+
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="FF9900">
+<form action="/privacy.asp?lnkid=159" method="POST" style="margin:0px;padding:0px;display:inline;"></form><input type="hidden" name="ac_action" value="lgo"><tbody><tr><td nowrap=""><a href="http://myrecipe.allrecipes.com/default.asp"><img src="http://images.allrecipes.com/global/nav/topnav/join.gif" alt="log in" width="59" height="36" border="0"></a><a href="http://myrecipe.allrecipes.com/default.asp"><img src="http://images.allrecipes.com/global/nav/topnav/myallrecipes.gif" alt="my allrecipes" width="113" height="36" border="0"></a><a href="http://allrecipes.com/community/clipboard/default.asp"><img name="clipbutton" id="clipbutton" src="http://images.allrecipes.com/global/nav/topnav/clipboard.gif" onmouseover="this.style.cursor='pointer'" width="156" height="36" border="0" alt="recipe clipboard"></a></td><td><img src="http://images.allrecipes.com/global/nav/topnav/button_r_corner.gif" width="8" height="36" border="0" alt=" "></td></tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
 
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td valign="top" width="154"><img src="http://image.allrecipes.com/global/trans.gif" width="154" height="1"></td>
-<td width="12"><div><img src="http://image.allrecipes.com/global/trans.gif" height="1" width="12"></div></td>
-<td width="100%"><img src="http://image.allrecipes.com/global/trans.gif" width="1" height="1"></td>
-</tr>
-<tr>
-<td valign="top" bgcolor="FCEA9D" width="154">
+<td valign="top" bgcolor="#ffffff" width="154">
 
-	<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-	<td bgcolor="FFFFFF">
+	<!-- orange block -->
+<div style="background-color:#FFCC66;">
+<div><img src="http://images.allrecipes.com/global/format/corners/tr_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" vspace="0" align="right"><img src="http://images.allrecipes.com/global/format/corners/tl_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" vspace="0" align="left"></div>
+  <div style="clear:both;padding-top:0px;padding-bottom:6px;margin-left:8px;"><a href="http://allrecipes.com/recipes/"><img src="http://images.allrecipes.com/global/boxtitles/side/recipe_collections.gif" alt="Click to view all of our recipe collections" width="136" height="19" border="0" hspace="2"></a>
+<div style="overflow-Y:scroll;overflow-X:hidden;overflow:auto;height:100px;background-color:#fcea9d;margin-right:8px;">
+<div style="width:110px;padding-left:3px;">
+<ul class="snav" style="font-size:12px;text-indent:0em;">
+<li><a href="http://appetizer.allrecipes.com/default.asp?lnkid=211">Appetizers</a></li>
+<li><a href="http://barbeque.allrecipes.com/default.asp?lnkid=211">Barbeque</a></li>
+<li><a href="http://beef.allrecipes.com/default.asp?lnkid=211">Beef</a></li>
+<li><a href="http://beverage.allrecipes.com/default.asp?lnkid=211">Beverages</a></li>
+<li><a href="http://bread.allrecipes.com/default.asp?lnkid=211">Breads</a></li>
+<li><a href="http://brunch.allrecipes.com/default.asp?lnkid=211">Brunch</a></li>
+<li><a href="http://cake.allrecipes.com/default.asp?lnkid=211">Cakes</a></li>
+<li><a href="http://chicken.allrecipes.com/default.asp?lnkid=211">Chicken</a></li>
+<li><a href="http://christmas.allrecipes.com/default.asp?lnkid=211">Christmas</a></li>
+<li><a href="http://cookie.allrecipes.com/default.asp?lnkid=211">Cookies</a></li>
+<li><a href="http://dessert.allrecipes.com/default.asp?lnkid=211">Desserts</a></li>
+<li><a href="http://healthy.allrecipes.com/default.asp?lnkid=211">Healthy Living</a></li>
+<li><a href="http://holiday.allrecipes.com/default.asp?lnkid=211">Holidays</a></li>
+<li><a href="http://italian.allrecipes.com/default.asp?lnkid=211">Italian</a></li>
+<li><a href="http://kid.allrecipes.com/default.asp?lnkid=211">Kids'</a></li>
+<li><a href="http://carbcontrol.allrecipes.com/default.asp?lnkid=211">Low-Carb</a></li>
+<li><a href="http://maindish.allrecipes.com/default.asp?lnkid=211">Main Dishes</a></li>
+<li><a href="http://mexican.allrecipes.com/default.asp?lnkid=211">Mexican</a></li>
+<li><a href="http://pasta.allrecipes.com/default.asp?lnkid=211">Pasta</a></li>
+<li><a href="http://pie.allrecipes.com/default.asp?lnkid=211">Pies</a></li>
+<li><a href="http://pork.allrecipes.com/default.asp?lnkid=211">Pork</a></li>
+<li><a href="http://QuickAndEasy.allrecipes.com/default.asp?lnkid=211">Quick &amp; Easy</a></li>
+<li><a href="http://salad.allrecipes.com/default.asp?lnkid=211">Salads</a></li>
+<li><a href="http://seafood.allrecipes.com/default.asp?lnkid=211">Seafood</a></li>
+<li><a href="http://sidedish.allrecipes.com/default.asp?lnkid=211">Side Dishes</a></li>
+<li><a href="http://soup.allrecipes.com/default.asp?lnkid=211">Soups</a></li>
+<li><a href="http://thanksgiving.allrecipes.com/default.asp?lnkid=211">Thanksgiving</a></li>
+<li><a href="http://vegetarian.allrecipes.com/default.asp?lnkid=211">Vegetarian</a></li>
+</ul>
+</div>
+</div>
+    <hr style="border-top:1px dashed #ffffff;border-bottom:hidden;border-left:none;border-right:none;color:#FFCC66;margin-right:8px;">
+<img src="http://images.allrecipes.com/global/boxtitles/side/premium.gif" alt="Premium Collections" width="136" height="18" border="0">  
+<div style="overflow-Y:scroll;padding-left:3px;overflow-X:hidden;overflow:auto;height:98px;background-color:#fcea9d;margin-right:8px;"><div style="width:110px;">  
+<ul class="snav" style="font-size:11px;width:110px;">
+<li><a href="http://clfivestar.allrecipes.com/default.asp?nplsrcid=524">cooking light five star recipes</a></li> 
+<li><a href="http://cldia.allrecipes.com/default.asp?nplsrcid=525">delicious ways to control diabetes</a> </li>
+<li><a href="http://hpcook.allrecipes.com/default.asp?nplsrcid=526">high performance cookbook</a> </li>
+<li><a href="http://recdoc.allrecipes.com/default.asp?nplsrcid=527">allrecipes light favorites</a> </li>
+<li><a href="http://lowcarb.allrecipes.com/default.asp?nplsrcid=528">lauri's low carb recipes</a> </li>
+<li><a href="http://tohfff.allrecipes.com/default.asp?nplsrcid=529">taste of home - fast family favorites</a></li> 
+<li><a href="http://perfrec.allrecipes.com/default.asp?nplsrcid=530">the perfect recipe</a> </li>
+</ul>
+</div>  	
+</div>
+    <hr style="border-top:1px dashed #ffffff;border-bottom:hidden;border-left:none;border-right:none;color:#FFCC66;margin-right:8px;">
+<img src="http://images.allrecipes.com/global/boxtitles/side/todays_top_picks.gif" alt="Today's Top Picks" width="136" height="18" border="0">    
+<ul class="list3 arlist" style="margin-top:-4px;">
+<li>• <a href="http://allrecipes.com/advice/coll/thanks/articles/756P1.asp" class="wnlink">Easy Appetizers</a></li>
+<li>• <a href="http://allrecipes.com/advice/coll/thanks/articles/255P1.asp" class="wnlink">Leftover Mania</a></li>
+<li>• <a href="http://allrecipes.com/advice/coll/christmas/articles/71P1.asp" class="wnlink">Holiday Salads</a></li>
+<li>• <a href="http://allrecipes.com/advice/coll/Christmas/articles/638P1.asp" class="wnlink">Sugar Cookies</a></li>
+</ul>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFCC66"><tbody><tr><td><img src="http://image.allrecipes.com/global/format/corners/tl_corner_9x9_light.gif" height="9" width="9"></td><td width="100%"><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td><td><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td></tr><tr><td>&nbsp;</td><td valign="top"><a href="http://allrecipes.com/recipes/"><img src="http://image.allrecipes.com/global/boxtitles/side/recipe_collection_title.gif" height="22" width="136" border="0" alt="Click to view all of our recipe collections"></a><br><div style="height:100;width:136;background-color:FCEA9D;overflow:auto;overflow-x:hidden;overflow-y:scroll;padding-left:4;"><table width="100%" border="0" cellpadding="2" cellspacing="0" style="padding-bottom:4;">
-<tbody><tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://appetizer.allrecipes.com/default.asp?lnkid=211">Appetizer Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://barbeque.allrecipes.com/default.asp?lnkid=211">Barbeque Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://beef.allrecipes.com/default.asp?lnkid=211">Beef Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://beverage.allrecipes.com/default.asp?lnkid=211">Beverage Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://bread.allrecipes.com/default.asp?lnkid=211">Bread Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://brunch.allrecipes.com/default.asp?lnkid=211">Brunch Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://cake.allrecipes.com/default.asp?lnkid=211">Cake Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://chicken.allrecipes.com/default.asp?lnkid=211">Chicken Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://christmas.allrecipes.com/default.asp?lnkid=211">Christmas Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://cookie.allrecipes.com/default.asp?lnkid=211">Cookie Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://clfivestar.allrecipes.com/default.asp?lnkid=211">Cooking Light Five Star Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://cldia.allrecipes.com/default.asp?lnkid=211">Cooking Light Diabetic Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://dessert.allrecipes.com/default.asp?lnkid=211">Dessert Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://healthy.allrecipes.com/default.asp?lnkid=211">Healthy Living Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://hpcook.allrecipes.com/default.asp?lnkid=211">The High Performance Cookbook</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://holiday.allrecipes.com/default.asp?lnkid=211">Holiday Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://kid.allrecipes.com/default.asp?lnkid=211">Kid Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://lowcarb.allrecipes.com/default.asp?lnkid=211">Lauri's Low-Carb Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://recdoc.allrecipes.com/default.asp?lnkid=211">Light Favorites</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://maindish.allrecipes.com/default.asp?lnkid=211">Main Dish Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://mexican.allrecipes.com/default.asp?lnkid=211">Mexican Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://pasta.allrecipes.com/default.asp?lnkid=211">Pasta Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://pie.allrecipes.com/default.asp?lnkid=211">Pie Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://pork.allrecipes.com/default.asp?lnkid=211">Pork Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://QuickAndEasy.allrecipes.com/default.asp?lnkid=211">Quick and Easy Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://salad.allrecipes.com/default.asp?lnkid=211">Salad Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://seafood.allrecipes.com/default.asp?lnkid=211">Seafood Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://sidedish.allrecipes.com/default.asp?lnkid=211">Side Dish Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://soup.allrecipes.com/default.asp?lnkid=211">Soup Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://tohfff.allrecipes.com/default.asp?lnkid=211">Taste of Home - Fast Family Food</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://thanksgiving.allrecipes.com/default.asp?lnkid=211">Thanksgiving Recipes</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://perfrec.allrecipes.com/default.asp?lnkid=211">The Perfect Recipe</a></font></td></tr>
-<tr><td class="wnlinkUnderlined"><font class="V10"><a class="wnlink" href="http://vegetarian.allrecipes.com/default.asp?lnkid=211">Vegetarian Recipes</a></font></td></tr>
-</tbody></table>
-</div><div><img src="http://image.allrecipes.com/global/trans.gif" height="6" width="6"></div><div style="WIDTH: 100%; LINE-HEIGHT: 7px; BORDER-BOTTOM: 1px dashed #FFFFFF"></div><div><img src="http://image.allrecipes.com/global/trans.gif" height="6" width="6"></div><img src="http://image.allrecipes.com/global/boxtitles/side/todays_top_picks_title.gif" height="22" width="136" border="0"><br>
-<table border="0" width="100%" cellspacing="0" cellpadding="2">
+	 
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <div style="background-color:#FFCC66;height:9px;"><img src="http://images.allrecipes.com/global/format/corners/bl_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" align="left"><img src="http://images.allrecipes.com/global/format/corners/br_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" align="right"></div>
+</div>
+<!-- /orange block -->
+
+<div style="clear:both;padding-top:8px;"><div style="background-color:#3399CC;"><img src="http://images.allrecipes.com/global/format/corners/tr_corner_9x9_light.gif" alt="" height="9" hspace="0" align="right" vspace="0" style="width:9px;"><img src="http://images.allrecipes.com/global/format/corners/tl_corner_9x9_light.gif" alt="" height="9" hspace="0" align="left" style="width:9px;">
+
+  <div style="padding-top:6px;padding-bottom:6px;margin-left:10px; margin-right:8px;width:136px;"><a href="http://shop.allrecipes.com/np/npsell/start/site/front/program.asp?nplsrcid=5"><img src="http://images.allrecipes.com/global/boxtitles/side/nutri_blue_136x43.gif" title="Allrecipes Nutri-Planner" alt="Allrecipes Nutri-Planner" height="43" width="136" border="0"></a>
+  <ul class="list3 arlist linkwhite" style="margin-top:-4px; color:#FFFFFF;">
+  <li>• <a href="http://shop.allrecipes.com/np/npsell/start/site/front/weight.asp?nplsrcid=170&amp;lnkid=205">Weight Management</a></li>
+  <li>• <a href="http://shop.allrecipes.com/np/npsell/start/site/front/diabetes.asp?nplsrcid=1&amp;lnkid=67">Diabetes</a></li>
+  <li>• <a href="http://shop.allrecipes.com/np/npsell/start/site/front/hearthealthy.asp?nplsrcid=4&amp;lnkid=69">High Blood Pressure</a></li>
+  <li>• <a href="http://shop.allrecipes.com/np/npsell/start/site/front/cholesterol.asp?nplsrcid=13&amp;lnkid=70">High Cholesterol</a></li>
+  <li>• <a href="http://shop.allrecipes.com/np/npsell/start/site/front/general.asp?nplsrcid=3&amp;lnkid=71">General Wellness</a></li>
+  </ul>	
+  <a href="http://nutriplanner.allrecipes.com/Login.asp"><img src="http://images.allrecipes.com//global/boxtitles/side/np_login_blue.gif" height="30" width="136" border="0" alt="Click to Log In!" title="Already Subscribed? Click to Log In!"></a>
+  </div>
+
+  <div style="background-color:#3399CC;height:9px;"><img src="http://images.allrecipes.com/global/format/corners/bl_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" align="left"><img src="http://images.allrecipes.com/global/format/corners/br_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" align="right"></div>
+
+</div></div>
+
+<!-- yellow block -->
+<div style="clear:both;padding-top:8px;">
+  <div style="background-color:#FCEA9D;width:100%;"><div style="height:9px;"><img src="http://images.allrecipes.com/global/format/corners/tl_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" align="left"><img src="http://images.allrecipes.com/global/format/corners/tr_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" align="right"></div>
+    <div style="padding-bottom:6px;margin-left:8px;">
+<a href="http://allrecipes.com/mbr/news/sub.asp"><img src="http://images.allrecipes.com//global/boxtitles/side/FREE_newsletters_title.gif" height="22" width="136" border="0" alt="Free Newsletters!"></a><br>
+
+  <form action="http://allrecipes.com/mbr/news/sub.asp" method="post" style="margin:0;padding:0;whitespace:nowrap;margin-right:8px;">
+  <input type="hidden" name="action" value="firstpass">
+  <input type="checkbox" name="recipe_notes" value="1" checked="">
+  <font class="V10" color="#ff3300">Recipe Notes</font><br>
+  <input type="checkbox" name="whats_cooking" value="1" checked="">
+  <font class="V10" color="#ff3300">What's Cooking</font><br>
+  <input type="checkbox" name="healthy_bites" value="1" checked="">
+  <font class="V10" color="#ff3300">Healthy Bites</font><br>
+	<nobr><input type="text" size="12" name="emailadd" maxlength="100" value="email address"><input type="submit" name="Submit" value="GO" style="width:30px;margin-left:4px;"></nobr>
+  </form>
+
+  <ul class="list3 arlist v10"><li>• <a href="http://allrecipes.com/mbr/news/sub.asp"><strong>More Newsletters</strong></a></li></ul>
+    <hr style="border-top:1px dashed #FF9900;border-bottom:hidden;border-left:none;border-right:none;color:#fcea9d;margin-right:8px;">
+<a href="http://bestbrand.allrecipes.com/default.asp"><img src="http://images.allrecipes.com//global/boxtitles/side/best_brand_partners_title.gif" height="22" width="136" border="0" alt="Best Brand Partners"></a>
+<div style="padding-left:3px;overflow:auto; height:470px; background-color: #ffffcc;margin-right:8px;"><div style="width:110px;">  
+<ul class="snav" style="font-size:11px;width:110px;margin-bottom:0px;">
+<li><a href="http://eaglebrand.allrecipes.com/default.asp">Eagle Brand<sup>®</sup></a></li>  	
+
+<li><a href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/advertiser.allrecipes.com/glad/1112745096/x32/OasDefault/Glad_Aug04_LinkTracking/Empty4.gif/1">Glad®</a></li>  	
+<li><a href="http://kelloggs.allrecipes.com/default.asp">KELLOGG's®</a></li>
+
+<li><a href="http://bestbrand.allrecipes.com/southbeachdiet/default.asp">South Beach Diet</a></li>
+<li><a href="http://usaweekend.allrecipes.com/default.asp">USA WEEKEND</a></li>
+
+<li><a href="http://bestbrand.allrecipes.com/weightwatchers/default.asp">Weight Watchers®</a></li>
+<li><a href="http://www.cooking.com/bin/a.asp?a=allrhplogotext">Cooking.com</a></li>
+
+<li><a href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/crisco.allrecipes.com/home/1112745096/x32/OasDefault/Smucker_1004_CriscoHub/Empty20.gif/1">Crisco®</a></li>
+<li><a href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/advertiser.allrecipes.com/fitnessmag/1112745096/x32/OasDefault/FamilyCircleMag_1104_HubHome/Empty6.gif/1">Family Circle®</a></li>
+<li><a href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/advertiser.allrecipes.com/fitnessmag/1112745096/x32/OasDefault/FitnessMag_1104_HubHome/Empty11.gif/1">Fitness® Magazine</a></li>
+	
+
+<li><a href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/foodfit.allrecipes.com/1112745096/x32/OasDefault/FoodFit.com_0904_HubHome/Empty18.gif/1">FoodFit®</a></li>
+<li><a href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/jif.allrecipes.com/1112745096/x32/OasDefault/Smucker_1004_JifHub/Empty19.gif/1">Jif®</a></li>
+<li><a href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/lindsay.allrecipes.com/1112745096/x32/OasDefault/Lindsay_1104_HubHome/Empty22.gif/1">Lindsay® Olives</a></li>
+<li><a href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/smuckers.allrecipes.com/1112745096/x32/OasDefault/Smucker_1004_SmuckerHub/Empty23.gif/1">Smucker's®</a></li>
+<li><a href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/advertiser.allrecipes.com/1112745096/x32/OasDefault/Splenda_1004_LinkTracking/Empty5.gif/1">SPLENDA®</a></li>
+<li><a href="http://bestbrand.allrecipes.com/yourselffitness/default.asp?lnkid=145">Yourself!Fitness™</a></li>	
+<li><a href="http://university.signaturewines.com/uni/code/universities/wineclub/allr/welcome.php?uni=allr&amp;c=te1&amp;v=allr">Allrecipes Wine Club</a></li>
+<li><a href="http://bestbrand.allrecipes.com/ediets/default.asp">eDiets®</a></li>
+<li><a href="http://allrecipeshopping.com/">The Grill Store</a></li>
+<li><a href="http://allrecipes.ipads.com/">iPads.com</a></li>
+<li><a href="http://tasteofhome.allrecipes.com/default.asp">Taste of Home Magazine</a></li>
+<li><a href="http://SouthernLiving.allrecipes.com/default.asp">Southern Living Magazine</a></li>
+<li><a href="http://CookingLight.allrecipes.com/default.asp">Cooking Light Magazine</a></li>    
+</ul></div></div>
+
+  <ul class="list3 arlist V10"><li>• <a href="http://bestbrand.allrecipes.com/default.asp"><strong>More Best Brands</strong></a></li></ul>
+  <hr style="border-top:1px dashed #FF9900;border-bottom:hidden;border-left:none;border-right:none;color:#fcea9d;margin-right:8px;">
+<h4>AllRecipes Feeds</h4>
+
+<table border="0" cellspacing="0" cellpadding="4">
 <tbody><tr>
-<td valign="top" class="V10"><font color="#CC0000">•</font></td>
-<td class="V10"><a href="http://allrecipes.com/advice/coll/entertain/features/graduation.asp" class="wnlink">Graduation Party Recipes</a></td>
-</tr>
-<tr>
-<td valign="top" class="V10"><font color="#CC0000">•</font></td>
-<td class="V10"><a href="http://allrecipes.com/advice/coll/all/articles/623P1.asp" class="wnlink">Best BBQ Sauces</a></td>
-</tr>
-<tr>
-<td valign="top" class="V10"><font color="#CC0000">•</font></td>
-<td class="V10"><a href="http://barbeque.allrecipes.com/directory/4160.asp" class="wnlink">Amazing Rib Recipes</a></td>
+<td style="padding-left:4;"><a href="http://allrecipes.com/rss/"><img alt="Allrecipes RSS feeds" src="http://images.allrecipes.com/global/nav/topnav/xml.gif" width="36" height="14" border="0"></a></td>
+<td style="padding-left:4;"><a href="http://allrecipes.com/rss/myyahoo.asp"><img alt="add to allrecipes to your MyYahoo page" border="0" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo.gif"></a></td>
 </tr>
 </tbody></table>
+</div>
+<div style="background-color:#FCEA9D; height:9px;"><img src="http://images.allrecipes.com/global/format/corners/bl_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" align="left"><img src="http://images.allrecipes.com/global/format/corners/br_corner_9x9_light.gif" alt="" width="9" height="9" hspace="0" align="right"></div>
+</div>
+<!-- /yellow block -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</td><td>&nbsp;</td></tr><tr><td><img src="http://image.allrecipes.com/global/format/corners/bl_corner_9x9_light.gif" height="9" width="9"></td><td width="100%"><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td><td><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td></tr></tbody></table><div><img src="http://image.allrecipes.com/global/trans.gif" height="6" width="6"></div><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#3399CC"><tbody><tr><td><img src="http://image.allrecipes.com/global/format/corners/tl_corner_9x9_light.gif" height="9" width="9"></td><td width="100%"><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td><td><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td></tr><tr><td>&nbsp;</td><td valign="top">
-<a href="http://shop.allrecipes.com/np/npsell/start/site/front/program.asp?nplsrcid=5"><img src="http://image.allrecipes.com/global/boxtitles/side/nutri_blue_136x43.gif" title="Allrecipes Nutri-Planner" alt="Allrecipes Nutri-Planner" height="43" width="136" border="0"></a><br>
-
-<table border="0" cellspacing="0" cellpadding="2">
-<tbody><tr>
-<td valign="top"><font class="V10" color="#FFFFFF">•</font></td>
-<td><a href="http://shop.allrecipes.com/np/npsell/start/site/front/weight.asp?nplsrcid=170&amp;lnkid=205"><font class="V10" color="#ffffff">Weight Management</font></a></td>
-</tr>
-<tr>
-<td valign="top"><font class="V10" color="#FFFFFF">•</font></td>
-<td><a href="http://shop.allrecipes.com/np/npsell/start/site/front/diabetes.asp?nplsrcid=1&amp;lnkid=67"><font class="V10" color="#ffffff">Diabetes</font></a></td>
-</tr>
-<tr>
-<td valign="top"><font class="V10" color="#FFFFFF">•</font></td>
-<td><a href="http://shop.allrecipes.com/np/npsell/start/site/front/hearthealthy.asp?nplsrcid=4&amp;lnkid=69"><font class="V10" color="#ffffff">High Blood Pressure</font></a></td>
-</tr>
-<tr>
-<td valign="top"><font class="V10" color="#FFFFFF">•</font></td>
-<td><a href="http://shop.allrecipes.com/np/npsell/start/site/front/cholesterol.asp?nplsrcid=13&amp;lnkid=70"><font class="V10" color="#ffffff">High Cholesterol</font></a></td>
-</tr>
-<tr>
-<td valign="top"><font class="V10" color="#FFFFFF">•</font></td>
-<td><a href="http://shop.allrecipes.com/np/npsell/start/site/front/general.asp?nplsrcid=3&amp;lnkid=71"><font class="V10" color="#ffffff">General Wellness</font></a></td>
-</tr>
-</tbody></table>
-
-<a href="http://nutriplanner.allrecipes.com/Login.asp"><img src="http://image.allrecipes.com/global/boxtitles/side/np_login_blue.gif" height="30" width="136" border="0" alt="Click to Log In!" title="Already Subscribed? Click to Log In!"></a><br>
-
-
-
-
-</td><td>&nbsp;</td></tr><tr><td><img src="http://image.allrecipes.com/global/format/corners/bl_corner_9x9_light.gif" height="9" width="9"></td><td width="100%"><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td><td><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td></tr></tbody></table><div><img src="http://image.allrecipes.com/global/trans.gif" height="6" width="6"></div><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FCEA9D"><tbody><tr><td><img src="http://image.allrecipes.com/global/format/corners/tl_corner_9x9_light.gif" height="9" width="9"></td><td width="100%"><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td><td><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td></tr><tr><td>&nbsp;</td><td valign="top">
-<a href="http://allrecipes.com/mbr/sub1.asp"><img src="http://image.allrecipes.com/global/boxtitles/side/FREE_newsletters_title.gif" height="22" width="136" border="0"></a><br>
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><form action="http://allrecipes.com/mbr/sub1.asp" method="post"></form><input type="hidden" name="action" value="firstpass">
-<td align="left" valign="top"><input type="checkbox" name="recipe_notes" value="1" checked=""></td>
-<td><font class="V10" color="ff3300">Recipe Notes</font></td>
-</tr>
-<tr>
-<td align="left" valign="top"><input type="checkbox" name="whats_cooking" value="1" checked=""></td>
-<td class="V10"><font class="V10" color="ff3300">What's Cooking</font></td>
-</tr>
-<tr>
-<td align="left" valign="top"><input type="checkbox" name="healthy_bites" value="1" checked=""></td>
-<td class="V10"><font class="V10" color="ff3300">Healthy Bites</font></td>
-</tr>
-<tr>
-<td colspan="2" align="left" valign="top" class="V6">&nbsp;&nbsp;</td>
-</tr>
-</tbody></table>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="2%"><input type="text" size="15" name="emailadd" maxlength="100" value="your email address"></td>
-<td><input type="image" src="http://image.allrecipes.com/global/buttons/go_button_15x15.gif" width="15" height="15" hspace="5" border="0"></td>
-</tr>
-<tr>
-<td colspan="2" class="V6">&nbsp;&nbsp;</td>
-</tr>
-</tbody></table>
-
-<table border="0" cellspacing="0" cellpadding="2">
-<tbody><tr>
-<td width="1%" valign="top"><font color="#CC0000" class="V10">•</font></td>
-<td><font class="V10"><a href="http://allrecipes.com/mbr/sub1.asp"><b>More Newsletters</b></a></font></td>
-</tr>
-</tbody></table><div><img src="http://image.allrecipes.com/global/trans.gif" height="6" width="6"></div><div style="WIDTH: 100%; LINE-HEIGHT: 7px; BORDER-BOTTOM: 1px dashed #ff3300"></div><div><img src="http://image.allrecipes.com/global/trans.gif" height="6" width="6"></div>
-<a href="http://bestbrand.allrecipes.com"><img src="http://image.allrecipes.com/global/boxtitles/side/best_brand_partners_title.gif" height="22" width="136" border="0"></a><br>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffcc"><tbody><tr><td>&nbsp;</td><td valign="top"><table border="0" cellpadding="0" cellspacing="0" style="padding-bottom:5;">
-
-<tbody><tr><td><font class="V10"><a class="wnlink" href="http://dole.allrecipes.com">Dole®</a></font></td></tr>
-<tr><td><font class="V10"><a class="wnlink" href="http://McCormick.allrecipes.com">McCormick®</a></font></td></tr>
-<!-- <TR><TD><font class="V10"><A class="wnlink" href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/ricearoni.allrecipes.com/1112745096/x32/RiceARoni_Apr04_LinkTracking/Empty1.gif/1">Rice-A-Roni</A></font></TD></TR> -->
-<tr><td><font class="V10"><a class="wnlink" href="http://bestbrand.allrecipes.com/southbeachdiet/default.asp">South Beach Diet</a></font></td></tr>
-<tr><td><font class="V10"><a class="wnlink" href="http://bestbrand.allrecipes.com/weightwatchers/default.asp?lnkid=145">Weight Watchers®</a></font></td></tr>
-<tr><td><font class="V10"><a class="wnlink" href="http://bushsbeans.allrecipes.com/default.asp">Bush's® Baked Beans</a></font></td></tr>
-<tr><td><font class="V10"><a class="wnlink" href="http://bestbrand.allrecipes.com/ediets/default.asp?lnkid=146">eDiets®</a></font></td></tr>
-<tr><td><font class="V10"><a class="wnlink" href="http://allrecipeshopping.com/">The Grill Store</a></font></td></tr>
-
-<tr><td><font class="V10"><a class="wnlink" href="http://allrecipes.ipads.com/">iPads.com</a></font></td></tr>
-<tr><td><font class="V10"><a class="wnlink" href="http://sunset.allrecipes.com/default.asp">Sunset Magazine</a></font></td></tr>
-<tr><td><font class="V10"><a class="wnlink" href="http://tasteofhome.allrecipes.com/default.asp">Taste of Home Magazine</a></font></td></tr>
-<tr><td><font class="V10"><a class="wnlink" href="http://SouthernLiving.allrecipes.com/default.asp">Southern Living Magazine</a></font></td></tr>
-<tr><td><font class="V10"><a class="wnlink" href="http://CookingLight.allrecipes.com/default.asp">Cooking Light Magazine</a></font></td></tr>
-</tbody></table>
-
-
-</td><td>&nbsp;</td></tr></tbody></table><div><img src="http://image.allrecipes.com/global/trans.gif" height="6" width="6"></div><div><img src="http://image.allrecipes.com/global/trans.gif" height="18" width="6"></div><table border="0" cellspacing="0" cellpadding="4">
-<tbody><tr><td colspan="2"><font class="V11" color="ff3300"><b>AllRecipes Feeds</b></font></td></tr>
-<tr><td style="padding-left:4;"><a href="http://allrecipes.com/rss/"><img alt="Allrecipes RSS feeds" src="http://image.allrecipes.com/global/nav/topnav/xml.gif" width="36" height="14" border="0"></a></td>
-<td style="padding-left:4;"><a href="http://allrecipes.com/rss/myyahoo.asp"><img alt="add to allrecipes to your MyYahoo page" border="0" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo.gif"></a></td></tr>
-</tbody></table></td><td>&nbsp;</td></tr><tr><td><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td><td width="100%"><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td><td><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td></tr></tbody></table>
-
-	</td>
-	</tr>
-	</tbody></table>
-
-</td>
-<td width="12"><div><img src="http://image.allrecipes.com/global/trans.gif" height="12" width="12"></div></td>
-<td valign="top" width="100%"><p><font class="V18" color="#cc0000"><b>Allrecipes Privacy Policy</b></font>
-</p><div><img src="http://image.allrecipes.com/global/trans.gif" height="6" width="1"></div>
+</div></td>
+<td valign="top" width="100%" style="padding-left:12px;">
+<p><font class="V18" color="#cc0000"><b>Allrecipes Privacy Policy</b></font>
+</p><div><img src="http://images.allrecipes.com/global/trans.gif" height="6" width="1"></div>
 <hr size="0" color="FF8800">
 	   
 	<table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-	<td><div><img src="http://image.allrecipes.com/global/trans.gif" height="1" width="6"></div></td>
+	<td><div><img src="http://images.allrecipes.com/global/trans.gif" height="1" width="6"></div></td>
 	<td><font class="readtxt">At Allrecipes.com we recognize the importance of your privacy. That said, 
 	it's understandable that you may be concerned with the information you provide 
 	to us or that is collected by us and how we use it. With these concerns in mind, we've developed the 
@@ -731,187 +644,197 @@ OAS_AD('x01');
 	
 </td>
 </tr>
+</tbody></table>
+
+
+
+<div class="nopad">
+
+<table cellspacing="0" cellpadding="0" style="padding-bottom: 10px; padding-top: 10px;">
+<tbody><tr>
+<td valign="top" width="30%">
+
+<div class="boxtitle">
+<div style="float: left; background-color: #ffffff;"><h3 style="margin:0;">Allrecipes Recipe Collections&nbsp;</h3></div>
+<div style="float: right;"><img height="17" alt="" src="http://images.allrecipes.com/global/format/corners/rule_terminates_1x17.gif" width="1"></div>
+</div>
+
+	<div class="ThreeSidedBorder" style="height: 125px; padding-right: 6px; padding-left: 6px;">
+
+	<div style="padding-bottom: 4px;"><a href="http://allrecipes.com/recipes/ideas.asp">Recipes of the Day</a> | <a href="http://allrecipes.com/recipes/favorites.asp">Top Ten Recipes</a></div>
+ 
+  <table cellspacing="0" style="padding-bottom: 6px;">
+  <tbody><tr valign="top">  
+
+  <td nowrap="">
+  <ul class="bnav nopad">
+  <li style="color: #bbbb2f;"><a href="http://appetizer.allrecipes.com/default.asp">appetizer</a></li> 
+  <li style="color: #cc0000;"><a href="http://barbeque.allrecipes.com/default.asp">barbeque</a></li>
+  <li style="color: #993300;"><a href="http://beef.allrecipes.com/default.asp">beef</a></li>
+  <li style="color: #e46633;"><a href="http://beverage.allrecipes.com/default.asp">beverage</a></li> 
+  <li style="color: #db9240;"><a href="http://bread.allrecipes.com/default.asp">bread</a></li> 
+  <li style="color: #cc6600;"><a href="http://brunch.allrecipes.com/default.asp">brunch</a></li> 
+  </ul>
+  </td>
+  
+  <td nowrap="">
+  <ul class="bnav nopad">
+  <li style="color: #fba32b;"><a href="http://cake.allrecipes.com/default.asp">cake</a></li> 
+  <li style="color: #e27e0a;"><a href="http://chicken.allrecipes.com/default.asp">chicken</a></li> 
+  <li style="color: #009900;"><a href="http://christmas.allrecipes.com/default.asp">christmas</a></li> 
+  <li style="color: #c36a2b;"><a href="http://cookie.allrecipes.com/default.asp">cookie</a></li> 
+  <li style="color: #b34275;"><a href="http://dessert.allrecipes.com/default.asp">dessert</a></li> 
+  <li style="color: #3ab13a;"><a href="http://healthy.allrecipes.com/default.asp">healthy living</a></li>
+  </ul>
+  </td>
+	
+  <td nowrap="">
+  <ul class="bnav nopad">
+  <li style="color: #6699cc;"><a href="http://holiday.allrecipes.com/default.asp">holiday</a></li>
+  <li style="color: #cc0000;"><a href="http://italian.allrecipes.com/default.asp">italian</a></li>	
+  <li style="color: #ff0000;"><a href="http://kid.allrecipes.com/default.asp">kids'</a></li> 
+   <li style="color: #6699cc;"><a href="http://carbcontrol.allrecipes.com/default.asp">low-carb</a></li>  
+  <li style="color: #cc0000;"><a href="http://maindish.allrecipes.com/default.asp">main dish</a></li>
+  <li style="color: #009933;"><a href="http://mexican.allrecipes.com/default.asp">mexican</a></li>  
+  </ul>
+  </td>
+
+  <td nowrap="">
+  <ul class="bnav nopad">
+  <li style="color: #fba32b;"><a href="http://pasta.allrecipes.com/default.asp">pasta</a></li>	
+  <li style="color: #cc3366;"><a href="http://pie.allrecipes.com/default.asp">pie</a></li>
+  <li style="color: #cc6633;"><a href="http://pork.allrecipes.com/default.asp">pork</a></li> 
+  <li style="color: #3ab13a;"><a href="http://QuickAndEasy.allrecipes.com/default.asp">quick &amp; easy</a></li>
+  <li style="color: #80c03f;"><a href="http://salad.allrecipes.com/default.asp">salad</a></li> 
+  <li style="color: #45a2a7;"><a href="http://seafood.allrecipes.com/default.asp">seafood</a></li> 	
+  </ul>
+  </td>
+	
+  <td nowrap="">
+  <ul class="bnav nopad">
+  <li style="color: #339933;"><a href="http://sidedish.allrecipes.com/default.asp">side dish</a></li>	
+  <li style="color: #bbbb2f;"><a href="http://soup.allrecipes.com/default.asp">soup</a></li> 
+  <li style="color: #cc6600;"><a href="http://thanksgiving.allrecipes.com/default.asp">thanksgiving</a></li> 
+  <li style="color: #80c03f;"><a href="http://vegetarian.allrecipes.com/default.asp">vegetarian</a></li> 
+  </ul>
+  </td>
+  
+  </tr>
+  </tbody></table>
+
+
+	</div>
+	</td>
+
+	<td style="padding-right: 8px;"></td>
+
+	<td valign="top" width="70%">
+
+	<div class="boxtitle">
+	<div style="float: left; background-color: #ffffff;"><h4>Premium&nbsp;Quick-Smart™&nbsp;Collections&nbsp;</h4></div>
+	<div style="float: right;"><img height="17" alt="" src="http://images.allrecipes.com/global/format/corners/rule_terminates_1x17.gif" width="1"></div>
+	</div>
+
+	<div class="ThreeSidedBorder" style="height: 126px; padding-right: 6px; padding-left: 6px;">
+
+		<div style="padding-bottom: 4px;" nowrap="">Learn more about our <a href="http://shop.allrecipes.com/shop/qs/default.asp">Premium Collections</a></div>
+
+		<ul class="bnav nopad" style="padding-left:6px;">
+		<li style="color: #336600;"><a href="http://clfivestar.allrecipes.com/default.asp?nplsrcid=524">cooking light five star recipes</a> 
+		</li><li style="color: #669900;"><a href="http://cldia.allrecipes.com/default.asp?nplsrcid=525">delicious ways to control diabetes</a> 
+		</li><li style="color: #336699;"><a href="http://hpcook.allrecipes.com/default.asp?nplsrcid=526">high performance cookbook</a> 
+		</li><li style="color: #b5be3f;"><a href="http://recdoc.allrecipes.com/default.asp?nplsrcid=527">allrecipes light favorites</a> 
+		</li><li style="color: #339966;"><a href="http://lowcarb.allrecipes.com/default.asp?nplsrcid=528">lauri's low carb recipes</a> 
+		</li><li style="color: #3366cc;"><a href="http://tohfff.allrecipes.com/default.asp?nplsrcid=529">taste of home - fast family favorites</a> 
+		</li><li style="color: #6699cc;"><a href="http://perfrec.allrecipes.com/default.asp?nplsrcid=530">the perfect recipe</a> 
+		</li></ul>
+	</div>
+</td>
+
+</tr>
+</tbody></table>
+</div>
+
+<div class="linkwhite">
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody><tr>
+<td align="left" bgcolor="#ff9900"><img height="9" alt="" src="http://images.allrecipes.com/global/format/corners/tl_corner_9x9.gif" width="9" style="margin:0px;padding:0px;margin-left:0px;padding-left:0px;"></td>
+<td align="right" bgcolor="#ff9900"><img height="9" alt="" src="http://images.allrecipes.com/global/format/corners/tr_corner_9x9.gif" width="9"></td>
+<td rowspan="3">&nbsp;&nbsp;</td>
+<td bgcolor="#ff9900"><img height="9" alt="" src="http://images.allrecipes.com/global/format/corners/tl_corner_9x9.gif" width="9"></td>
+<td width="50%" bgcolor="#ff6600" rowspan="3" style="padding-right: 12px; padding-left: 12px; padding-bottom: 0px; border-left: #ffffff 3px solid; padding-top: 0px;">
+
+	<table>
+	<tbody><tr>
+	<td><img height="34" alt="allrecipes" src="http://images.allrecipes.com/global/nav/bottomnav/arlogo_search_bottom_orangebk_75x34.gif" width="75"></td>
+	<td nowrap="">
+	<ul class="V10" style="padding-right: 10px; padding-left: 10px; padding-bottom: 0px; margin: 0px; padding-top: 0px; color: #ffffff; list-style-position: inside;">
+	<li><a href="http://allrecipes.com/help/aboutus/default.asp">The&nbsp;Allrecipes&nbsp;Story</a> 
+	</li><li><a href="http://allrecipes.com/help/aboutus/advertise.asp">Advertising</a> 
+	</li><li><a href="http://allrecipes.com/help/aboutus/contact.asp">Contact&nbsp;Us</a>
+	</li></ul></td>
+	
+	<td nowrap="">
+	<ul class="V10" style="padding-right: 20px; padding-left: 10px; list-style-position: inside; padding-bottom: 0px; margin: 0px; COLOR: #ffffff; padding-top: 0px;">
+	<li><a href="http://shop.allrecipes.com/shop/default.asp?nplsrcid=595">Shop&nbsp;Allrecipes</a> 
+	</li><li><a href="http://allrecipes.com/help/aboutus/jobs.asp">Jobs</a> 
+	</li><li><a href="http://allrecipes.com/rss/default.asp">RSS</a> 
+	</li></ul>
+	</td>
+	</tr>
+	</tbody></table>
+
+</td>
+</tr>
 <tr>
-<td><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FCEA9D"><tbody><tr><td><img src="http://image.allrecipes.com/global/format/corners/bl_corner_9x9_light.gif" height="9" width="9"></td><td width="100%"><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td><td><img src="http://image.allrecipes.com/global/trans.gif" height="9" width="9"></td></tr></tbody></table></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-
-
-
-<div style="height:6px;overflow=hidden;"><span style="height:6px;"></span></div>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr> 
-<td> 
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FF9900">
-<tbody><tr> 
-<td colspan="3" align="left" valign="top"><img src="http://image.allrecipes.com/global/nav/bottomnav/tl_orange_corner_9x9.gif" width="9" height="9" alt="receipes"></td>
-<td rowspan="2" align="right" valign="top"><img src="http://image.allrecipes.com/global/nav/bottomnav/tr_orange_corner_9x9.gif" width="9" height="9"></td>
-</tr>
-<tr> 
-<td rowspan="2" valign="bottom"><img src="http://image.allrecipes.com/global/nav/bottomnav/bl_orange_corner_9x9.gif" width="9" height="9"></td>
-<td>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <form action="http://search.allrecipes.com/recipe/quick.asp" method="get" id="form1" name="form1"></form>
-<tbody><tr> 
-<td width="1%" rowspan="2"><img src="http://image.allrecipes.com/global/trans.gif" width="4" height="7"></td>
-<td width="1%"><img src="http://image.allrecipes.com/global/nav/bottomnav/search.gif" width="139" height="23" alt="Find recipes fast!"></td>
-<td width="98%" class="V10" style="color:#FFFFFF">
-&nbsp;<!--<input type="radio" name="radiobutton" value="radiobutton"> Recipes
+<td colspan="2" bgcolor="#ff9900" style="padding-right: 16px; padding-left: 16px;" nowrap="" width="25%"><img height="23" alt="Find recipes fast!" src="http://images.allrecipes.com/global/nav/bottomnav/search.gif" width="139"><br><input type="text" size="13" maxlength="50" value="" name="q1"> <input type="image" height="19" alt="Go" hspace="5" width="19" src="http://images.allrecipes.com/global/nav/bottomnav/go_button_19x19.gif" value="Submit" name="Submit" border="0"> </td>
 
-<input type="radio" name="radiobutton" value="radiobutton">	Advice-->
-<input name="lnkid" type="hidden" value="65">
-</td>
-</tr>
-<tr> 
-<td colspan="2"><input type="text" size="16" maxlength="50" value="" name="q1"><input type="image" src="http://image.allrecipes.com/global/nav/bottomnav/go_button_19x19.gif" width="19" height="19" hspace="6" border="0"></td>
-</tr>
+<td style="padding-right: 12px; padding-left: 12px;" width="25%" bgcolor="#ff9900">
 
-</tbody></table>
-
-</td>
-<td><img src="http://image.allrecipes.com/global/trans.gif" width="1" height="55"></td>
-</tr>
-<tr> 
-<td colspan="3" align="right" valign="bottom"><img src="http://image.allrecipes.com/global/nav/bottomnav/br_orange_corner_9x9.gif" width="9" height="9"></td>
-</tr>
-</tbody></table>
-</td>
-
-<td><img src="http://image.allrecipes.com/global/trans.gif" width="7" height="1"></td>
-<td> 
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FF9900">
-<tbody><tr> 
-<td colspan="3" align="left" valign="top"><img src="http://image.allrecipes.com/global/nav/bottomnav/tl_orange_corner_9x9.gif" width="9" height="9"></td>
-<td rowspan="2" align="right" valign="top"><img src="http://image.allrecipes.com/global/trans.gif" width="9" height="9"></td>
-</tr>
-<tr> 
-<td rowspan="2" valign="bottom"><img src="http://image.allrecipes.com/global/nav/bottomnav/bl_orange_corner_9x9.gif" width="9" height="9"></td>
-<td>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-<td><img src="http://image.allrecipes.com/global/nav/bottomnav/help_41x20.gif" width="41" height="20" alt="all recipes help"></td>
-<td rowspan="2"> 
-
-<table border="0" cellspacing="0" cellpadding="2">
-<tbody><tr> 
-<td valign="top" class="V10" style="color:#FFFFFF">•</td>
-<td valign="top"><a href="http://allrecipes.com/faq/default.asp" class="V10" style="color:#FFFFFF">Answers</a></td>
-</tr>
-<tr> 
-<td valign="top" class="V10" style="color:#FFFFFF">•</td>
-<td valign="top"><a href="http://shop.allrecipes.com/shop/tnt/faq.asp" class="V10" style="color:#FFFFFF">Store FAQ</a></td>
-</tr>
-<tr> 
-<td valign="top" class="V10" style="color:#FFFFFF">•</td>
-<td valign="top"><a href="http://myrecipe.allrecipes.com/default.asp" class="V10" style="color:#FFFFFF">Membership</a></td>
-</tr>
-</tbody></table>
+	<table>
+	<tbody><tr>
+	<td><img height="20" alt="Help" src="http://images.allrecipes.com/global/nav/bottomnav/help_41x20.gif" width="41"></td>
+	<td nowrap="">
+	<ul class="V10" style="list-style-position:inside;margin:0px;color:#ffffff;">
+	<li><a href="http://allrecipes.com/faq/default.asp">FAQ's</a> 
+	</li><li><a href="http://allrecipes.com/mbr/news/default.asp">Newsletters</a>
+	</li><li><a href="http://myrecipe.allrecipes.com/default.asp">Membership</a> 
+	</li></ul>
+	</td>
+	</tr>
+	</tbody></table>
 
 </td>
 </tr>
-<tr> 
-<td>&nbsp;</td>
+<tr>
+<td align="left" bgcolor="#ff9900"><img height="9" alt="" width="9" src="http://images.allrecipes.com/global/format/corners/bl_corner_9x9.gif"></td>
+<td align="right" bgcolor="#ff9900"><img height="9" alt="" width="9" src="http://images.allrecipes.com/global/format/corners/br_corner_9x9.gif"></td>
+<td bgcolor="#ff9900"><img height="9" alt="" src="http://images.allrecipes.com/global/format/corners/bl_corner_9x9.gif" width="9"></td>
 </tr>
 </tbody></table>
 
-</td>
-<td><img src="http://image.allrecipes.com/global/trans.gif" width="1" height="55"></td>
-</tr>
-<tr> 
-<td colspan="3" align="right" valign="bottom"><img src="http://image.allrecipes.com/global/trans.gif" width="9" height="9"></td>
-</tr>
-</tbody></table>
+</div>
 
-</td>
-<td><img src="http://image.allrecipes.com/global/trans.gif" width="3" height="1"></td>
-<td> 
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FF6600">
-<tbody><tr> 
-<td colspan="3" align="left" valign="top"><img src="http://image.allrecipes.com/global/trans.gif" width="9" height="9"></td>
-<td rowspan="2" align="left" valign="top"><img src="http://image.allrecipes.com/global/trans.gif" width="9" height="9"></td>
-</tr>
-<tr> 
-<td rowspan="2" valign="bottom"><img src="http://image.allrecipes.com/global/trans.gif" width="9" height="9"></td>
-<td>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr> 
-<td><img src="http://image.allrecipes.com/global/nav/bottomnav/arlogo_search_bottom_orangebk_75x34.gif" width="75" height="34" hspace="10" alt="all recipes"></td>
-<td>
-
-<table border="0" cellspacing="0" cellpadding="2">
-<tbody><tr> 
-<td valign="top" class="V10" style="color:#FFFFFF">•</td>
-<td valign="top" nowrap=""><a href="http://allrecipes.com/help/aboutus/default.asp" class="V10" style="color:#FFFFFF">The Allrecipes Story</a></td>
-<td valign="top" class="V10" style="color:#FFFFFF">•</td>
-<td valign="top" nowrap=""><a href="http://allrecipes.com/affiliates/commissionjunction.asp" class="V10" style="color:#FFFFFF">Affiliates</a></td>
-</tr>
-<tr> 
-<td valign="top" class="V10" style="color:#FFFFFF">•</td>
-<td valign="top" nowrap=""><a href="http://allrecipes.com/help/aboutus/advertise.asp" class="V10" style="color:#FFFFFF">Advertising</a></td>
-<td valign="top" class="V10" style="color:#FFFFFF">•</td>
-<td valign="top" nowrap=""><a href="http://allrecipes.com/help/aboutus/jobs.asp" class="V10" style="color:#FFFFFF">Jobs</a></td>
-</tr>
-<tr> 
-<td valign="top" class="V10" style="color:#FFFFFF">•</td>
-<td valign="top" nowrap=""><a href="http://allrecipes.com/help/aboutus/contact.asp" class="V10" style="color:#FFFFFF">Contact Us</a></td>
-<td valign="top" class="V10" style="color:#FFFFFF">•</td>
-<td valign="top" nowrap=""><a href="http://allrecipes.com/rss/" class="V10" style="color:#FFFFFF">RSS</a></td>
-</tr>
-</tbody></table>
-
-</td>
-</tr>
-</tbody></table>
-
-</td>
-<td><img src="http://image.allrecipes.com/global/trans.gif" width="1" height="55"></td>
-</tr>
-<tr> 
-<td colspan="3" align="right" valign="bottom"><img src="http://image.allrecipes.com/global/trans.gif" width="9" height="9"></td>
-</tr>
-</tbody></table>
-
-</td>
-</tr>
-</tbody></table>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr> 
-<td align="right">
+<div align="right">
 <font class="V10">ALL RIGHTS RESERVED Copyright 2004 Allrecipes.com &nbsp;&nbsp;&nbsp; Please&nbsp;review&nbsp;our&nbsp;<a href="http://allrecipes.com/legal.asp?lnkid=158">Legal&nbsp;Notice&nbsp;</a>and&nbsp;<a href="http://allrecipes.com/privacy.asp?lnkid=159">Privacy&nbsp;Policy</a>.</font>
-</td>
-</tr>
-</tbody></table><p>
+</div>
 
-			<script language="javascript">
-			<!--
-				if (doPop == true){
-					if (isNaN(iNumServed)){
-						//set cookie to 1 and serve
-						arAdsSetRichCookie(1);
-					}else{
-						//increment iNumServed by one, reset cookie, serve
-						arAdsSetRichCookie(iNumServed + 1);
-					}
-					OAS_AD('x03');
-				}
-			//-->
-			</script><a href="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/1628769436@x01,x04,x03!x03?" target="_top"><img src="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/1628769436@x01,x04,x03!x03?" border="0"></a>
-				
+<script language="javascript">
+<!--
+if (OAS_listpos.indexOf('x03') > -1)
+     arAdsDoRichAd(3, 'x03', 1);
+//-->
+</script>
+
 <!--
 refurl = 
 senum = 0
 ReferredByGoogle = False
 SessionPageView	 = 1
-SERandom = 0.8422
+SERandom = 0.9538
 -->
 
-</p></body></html>
+
+</body></html>
