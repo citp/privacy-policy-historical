@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604053922id_/http%3A//www.earthday.net/about/privacy-policy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217203333id_/http%3A//www.earthday.net/about/privacy-policy.stm) for the most accurate reproduction.*
 
 # Earth Day Network: About Us - Privacy Policy
 
@@ -8,7 +8,7 @@ Earth Day Network respects your right to privacy. Earth Day Network will only co
 
 **Personal Information**
 
-When you visit our website, Earth Day Network does not automatically collect any information that could personally identify you. Personal information includes your name, street address, email address, billing information, credit card number and expiration date, and any other personally identifying information you may provide ("Personal Information"). Your Personal Information is only collected when you voluntarily submit it, for example, when you order products through the Earth Day Store, subscribe to our newsletter or email updates, participate in online interactive activities (such as chat rooms and bulletin boards), endorse the Clean Energy Agenda, sign up as a volunteer, list your event or group, make a donation, submit content or suggestions, or register for sweepstakes or contests. 
+When you visit our website, Earth Day Network does not automatically collect any information that could personally identify you. Personal information includes your name, street address, email address, billing information, credit card number and expiration date, and any other personally identifying information you may provide ("Personal Information"). Your Personal Information is only collected when you voluntarily submit it, for example, when you order products through the Earth Day Store, subscribe to our newsletter or email updates, participate in online interactive activities (such as chat rooms and bulletin boards), endorse our campaigns, sign up as a volunteer, list your event or group, make a donation, submit content or suggestions, or register for sweepstakes or contests. 
 
 In addition to the ways described elsewhere in this Privacy Policy or at the time information is requested, we may use Personal Information received from visitors to our website for any of the following purposes: (1) to confirm, process and fulfill product orders; (2) to award prizes; (3) to respond to specific requests made by the visitor; (4) to demonstrate public support for policy proposals; (5) to provide to other environmental groups for use in collaborative educational and mobilizing efforts seeking to promote responsible environmental attitudes and policies; (6) to obtain parental consent for visitors under eighteen (18) years of age, when necessary; or (7) to protect the security or integrity of our website when necessary.
 
@@ -26,7 +26,9 @@ We also count, track, and aggregate your activity on the website into our analys
 
 **Cookies**
 
-A "Cookie" is a small file stored on your computer by a website that assigns a numerical user ID and stores certain information about your online visit, such as which products you have selected to purchase or which topics interest you. We do not use Cookies except for the limited purpose of enhancing your visit to the Earth Day Store. Cookies help us recognize you as a prior customer and allow us to serve special features, which might be of interest to you. To personalize your online experience and better serve your personal care needs, we will store your personal Earth Day Store online visiting preferences, but we will not store any Personal Information about you using Cookies technology. 
+A "Cookie" is a short line of text stored on your computer by a website to differentiate between one anonymous visitor and another. For Grist Magazine and all parts of the Earth Day website other than the Earth Day Store, we only use Cookies for the limited purpose of counting the number of anonymous visitors to our site; we do not collect or store any personal information about you using Cookies.
+
+In the Earth Day Store, we assign Cookies to shoppers for additional purposes, such as tracking the items in your shopping cart. Cookies help us recognize you as a prior customer and allow us to serve special features, which might be of interest to you. To better serve your needs, we will store your personal Earth Day Store online visiting preferences, but we will not store any Personal Information about you using Cookies technology. 
 
 ****
 
@@ -58,13 +60,13 @@ You can unsubscribe from Earth Day News emails by following the unsubscribe inst
 
 ****
 
-**4\. Endorse the Clean Energy Agenda**
+**4\. Endorse an Earth Day Campaign Agenda**
 
-To endorse Earth Day Network's Clean Energy Agenda, you must provide us with your name and address. By choosing to endorse the Agenda, you agree that we may share your Personal Information with public officials and business leaders to demonstrate public support for our policy proposals. You also agree that we may aggregate this information to share anonymous data with the media, such as the number of endorsers, but we will not disclose your individual identity to the media without your express permission. Except for the ways described in this Privacy Policy, no other Personal Information will be shared with third parties when you endorse the Clean Energy Agenda.
+To endorse an Earth Day Campaign Agenda, you must provide us with your name and address. By choosing to endorse the Agenda, you agree that we may share your Personal Information with public officials and business leaders to demonstrate public support for our policy proposals. You also agree that we may aggregate this information to share anonymous data with the media, such as the number of endorsers, but we will not disclose your individual identity to the media without your express permission. Except for the ways described in this Privacy Policy, no other Personal Information will be shared with third parties when you endorse an agenda.
 
-If your organization chooses to endorse Earth Day Network's Clean Energy Agenda, you must provide us with the organization's name, address, and other information about the group as described on the Clean Energy Agenda's sign-up page. By choosing to endorse the Agenda, your organization agrees that we may share this information with public officials and business leaders to demonstrate public support for our policy proposals. Your organization also agrees that we may share this information with the media and that we may share the names and contact information of endorsing organizations with other organizations participating in Earth Day Network campaigns. Except for the ways described here, no other Personal Information about your organization will be shared with third parties. 
+If your organization chooses to endorse any of Earth Day Network's Agendas, you must provide us with the organization's name, address, and other information about the group as described on the sign-up page. By choosing to endorse the Agenda, your organization agrees that we may share this information with public officials and business leaders to demonstrate public support for our policy proposals. Your organization also agrees that we may share this information with the media and that we may share the names and contact information of endorsing organizations with other organizations participating in Earth Day Network campaigns. Except for the ways described here, no other Personal Information about your organization will be shared with third parties. 
 
-If you or your organization wishes to be removed as an endorser of the Clean Energy Agenda, please email [earthday@earthday.net](mailto:earthday@earthday.net). 
+If you or your organization wishes to be removed as an endorser of any Earth Day Agenda, please email [earthday@earthday.net](mailto:earthday@earthday.net). 
 
 ****
 
@@ -96,9 +98,9 @@ To make a donation to Earth Day Network, you agree to submit your Personal Infor
 
 ****
 
-**10\. Send a Green Car Postcard**
+**10\. Send a Letter or Postcard**
 
-To send a Green Car Postcard, you must submit your name, address, and email address. You then agree that we may share your Personal Information with the recipient of the postcard as listed on our website. We are not responsible for the use of your information once sent to the intended recipient of the postcard. By sending a Green Car Postcard, you also agree that your information may be shared with other organizations supporting this environmental cause, such as www.greencar.org. We encourage you to visit this website and to review its privacy policy. We are not responsible for the use of your Personal Information by such organizations.
+To send a Letter or Postcard to an outside recipient, you must submit your name, address, and email address. You then agree that we may share your Personal Information with the recipient of the postcard/letter as listed on our website. We are not responsible for the use of your information once sent to the intended recipient. By sending a letter/postcard, you also agree that your information may be shared with other organizations supporting this environmental cause. We are not responsible for the use of your Personal Information by such organizations.
 
 ****
 
