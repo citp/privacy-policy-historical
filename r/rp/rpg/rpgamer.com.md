@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031106id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606020949id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
 
 # RPGamer Privacy Policy
 
-[](http://www.rpgamer.com/) [ Games](http://www.rpgamer.com/games/upcoming.html)  
+[](http://www.rpgamer.com/) [ E3 2004](http://www.rpgamer.com/event/e3-2004/index.html "E3 2004 Coverage!")  
+[ Games](http://www.rpgamer.com/games/upcoming.html)  
 [ News](http://www.rpgamer.com/news/news.html)  
 [ Media](http://www.rpgamer.com/media.html)  
-[ Q&A](http://www.rpgamer.com/ask/googleshng5/ag120103.html "12.01 -  Centember, Millember...")  
-[ Reviews](http://www.rpgamer.com/pointsofview/updates/2003/112503.html "11.25: Turn-Based Tactical Action RPG")  
-[ Information](http://www.rpgamer.com/info/update.html "11.14: Right On!")  
-[ Japandemonium](http://www.rpgamer.com/news/japan/tm112903.html "11.29: Fill-In Update A-Go-Go")  
-[ Editorials](http://www.rpgamer.com/editor/ed112403.html "11.24: History Lecture")  
-[ Fan Art](http://www.rpgamer.com/fanart/2003/fanart112403.html "11.24: A Thousand Words")  
-[ Themes](http://www.rpgamer.com/mc/102903.html "10.29: CD Repo Man")  
-[ Music](http://www.rpgamer.com/music/2003/music191103.html "11.19: The truth about honesty")  
-[ Fan Fiction](http://www.rpgamer.com/fanfics/updates/fanfics112003.html "11.20: Season of Change")  
+[ Q&A](http://www.rpgamer.com/ask/cast/Q2-2004/aa060404.html "06.04 - Baby Back Baby Back Baby Back Ribs")  
+[ Reviews](http://www.rpgamer.com/pointsofview/updates/2004/060304.html "06.03: Alumnus Maximus")  
+[ Information](http://www.rpgamer.com/info/2004/051704.html "05.17: Another Time, Another Place")  
+[ Japandemonium](http://www.rpgamer.com/news/japan/rp052004.html "05.20 - Of Screenshots & Copyright Violation!")  
+[ Editorials](http://www.rpgamer.com/editor/ed060204.html "06.02: Splash Hop")  
+[ Fan Art](http://www.rpgamer.com/fanart/2004/fanart052504.html "05.25: Live from E3")  
+[ Themes](http://www.rpgamer.com/mc/052904.html "05.29: The Aftermath")  
+[ Music](http://www.rpgamer.com/music/2004/music040526.html "05.26: Better late than never")  
+[ Fan Fiction](http://www.rpgamer.com/fanfics/updates/fanfics060204.html "06.02: Yomigaeru")  
 [ Message Forums](http://board.rpgamer.com/)  
 [ Release Dates](http://www.rpgamer.com/games/release.cgi)  
 [ Search](http://www.rpgamer.com/games/search.cgi)  
