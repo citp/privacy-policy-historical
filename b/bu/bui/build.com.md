@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602184245id_/http%3A//www.build.com/bcom_pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2003-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031018082443id_/http%3A//www.build.com/bcom_pp.shtml) for the most accurate reproduction.*
 
 # Build.com - Get Listed
 
@@ -19,4 +19,4 @@ If you have any questions about this privacy policy statement or problems with t
 
 Daniel Auer  
 President  
-[dan@build.com](mailto:dan@build.com)
+[dauer@build.com](mailto:dauer@build.com)
