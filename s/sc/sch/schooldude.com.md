@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203162500id_/http%3A//schooldude.com/infctr/infctr-privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2001-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010629202323id_/http%3A//www.schooldude.com/infctr/infctr-privacypolicy.asp) for the most accurate reproduction.*
 
-# SchoolDude.com is the premier home on the Internet for the professionals that provide excellent school facilities.
+# Privacy Policy - Info Center
 
 Our policy is to respect and protect the privacy of our users. Our goal is to provide a "buyer centric" service to our members.  This means we strive to represent the best interest of our members rather than the suppliers and advertisers that would like to sell products and services to our members.  We will not willfully disclose individually identifiable information about our customers to any third party without first receiving that user's permission.
 
