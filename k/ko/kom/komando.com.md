@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komando.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207105030id_/http%3A//www.komando.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komando.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607205059id_/http%3A//komando.com/privacy.asp) for the most accurate reproduction.*
 
 # Komando.com, Website for The Kim Komando Radio Show®, Contact Info
 
