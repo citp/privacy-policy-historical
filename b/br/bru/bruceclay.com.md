@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bruceclay.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022822id_/http%3A//bruceclay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruceclay.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403221109id_/http%3A//www.bruceclay.com/privacy.htm) for the most accurate reproduction.*
 
 # bruceclay.com - Privacy Statement
 
@@ -14,7 +14,7 @@
 > Address   
 > Email address   
 > Phone number   
-> Credit/Debit Card Information ONLY if you are subscribing / purchasing onine   
+> Credit/Debit Card Information ONLY if you are subscribing / purchasing online   
 > Additional info appropriate to projects being managed or serviced be Bruce Clay, Inc. 
 
 **The Way We Use Information**
