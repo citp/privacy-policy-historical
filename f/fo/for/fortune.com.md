@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortune.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195251id_/http%3A//cgi.timeinc.net/cgi-bin/magsubs/privacy/cntrl/privacy_centralized.cgi/fortune) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortune.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603162158id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/fortune%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # Fortune Privacy Policy
 
@@ -55,11 +55,11 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/magsubs/privacy/cntrl/privacy_centralized.cgi/fortune?offline=yes). |    
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/fortune?offline=yes&referring_url=&dnp_source=E). |    
   
-If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/magsubs/privacy/cntrl/privacy_centralized.cgi/fortune?online=yes).
+If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/fortune?online=yes&referring_url=&dnp_source=E).
 
-Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/magsubs/privacy/cntrl/privacy_centralized.cgi/fortune?online=yes). 
+Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized.cgi/fortune?online=yes&referring_url=&dnp_source=E). 
 
 Finally, Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
@@ -87,7 +87,7 @@ We may also use small pieces of code called "web beacons" or "clear gifs" to col
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. |    
   
 **How You can Access or Correct Information**  
-For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information, please email us by clicking [here](https://secure.customersvc.com/servlet/Show?WESPAGE=fo/Services/wes_email.html&MSRSMAG=FO). 
+For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information, please email us by clicking [here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=FO). 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
@@ -97,7 +97,7 @@ To protect your privacy and security, we will take reasonable steps to help veri
 The site you are visiting is one of the Time Inc. general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested. |    
   
 **How to Contact Us**  
-If you have any questions or concerns about the Time Inc. online policy for this site or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=fo/Services/wes_email.html&MSRSMAG=FO) or at the following address:
+If you have any questions or concerns about the Time Inc. online policy for this site or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=FO) or at the following address:
 
 Time Customer Service  
 Attention: Consumer Affairs  
