@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gastateparks.org privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009175324id_/http%3A//www.gastateparks.org/page.aspx%3Fs%3D6966.0.1.5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gastateparks.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305082047id_/http%3A//www.gastateparks.org/page.aspx%3Fs%3D6966.0.1.5) for the most accurate reproduction.*
 
 # Georgia State Parks - Security and Privacy
 
@@ -66,5 +66,3 @@ The Georgia Department of Natural Resources, State Parks Division may occasional
 **Link Disclaimer**
 
 The website may contain links to other websites, including those owned or maintained by other government, private, or not-for-profit entities. Such links are provided for convenience and/or information purposes only. A link does not constitute an endorsement of content, viewpoint, policies, products or services of that website. Once you link to a website not maintained by website, you are subject to the terms and conditions of that website, including but not limited to its privacy policy.
-
-[](https://web.archive.org/page.aspx?mode=p&s=6966.0.1.5)
