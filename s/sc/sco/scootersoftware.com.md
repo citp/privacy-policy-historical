@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401171900id_/http%3A//scootersoftware.com/shop.php%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009181959id_/http%3A//www.scootersoftware.com/shop.php%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Scooter Software's On-line Shop
 
-[](http://www.scootersoftware.com/home.php) |  | [Home](https://web.archive.org/web/20040401171900id_/http%3A//scootersoftware.com/home.php)| [About BC](https://web.archive.org/web/20040401171900id_/http%3A//scootersoftware.com/moreinfo.php)| [Download](https://web.archive.org/web/20040401171900id_/http%3A//scootersoftware.com/download.php)| [Order](https://web.archive.org/web/20040401171900id_/http%3A//scootersoftware.com/shop.php)| [Support](https://web.archive.org/web/20040401171900id_/http%3A//scootersoftware.com/support.php)| [Contact](https://web.archive.org/web/20040401171900id_/http%3A//scootersoftware.com/contact.php)  
+[](http://www.scootersoftware.com/home.php) |  | [Home](https://web.archive.org/web/20041009181959id_/http%3A//www.scootersoftware.com/home.php)| [About BC](https://web.archive.org/web/20041009181959id_/http%3A//www.scootersoftware.com/moreinfo.php)| [Download](https://web.archive.org/web/20041009181959id_/http%3A//www.scootersoftware.com/download.php)| [Order](https://web.archive.org/web/20041009181959id_/http%3A//www.scootersoftware.com/shop.php)| [Support](https://web.archive.org/web/20041009181959id_/http%3A//www.scootersoftware.com/support.php)| [Contact](https://web.archive.org/web/20041009181959id_/http%3A//www.scootersoftware.com/contact.php)  
 ---|---|---|---|---|---  
   
 ## Privacy Statement
