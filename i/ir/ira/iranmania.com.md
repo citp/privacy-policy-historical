@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranmania.com privacy policy that was archived on 1999-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991221082605id_/http%3A//www.iranmania.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranmania.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608124016id_/http%3A//www.iranmania.com/privacy.asp) for the most accurate reproduction.*
 
 # privacy
 
