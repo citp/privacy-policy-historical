@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606015248id_/http%3A//www.shape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210032141id_/http%3A//www.shape.com/privacy) for the most accurate reproduction.*
 
 # Shape Magazine - Privacy Policy
 
