@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alamy.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203183359id_/http%3A//www.alamy.com/help/royalty-free-images-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alamy.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610140627id_/http%3A//www.alamy.com/help/royalty-free-images-privacy.asp) for the most accurate reproduction.*
 
 # Royalty free images Alamy Security and privacy
 
