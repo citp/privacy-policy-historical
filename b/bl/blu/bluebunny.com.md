@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210034557id_/http%3A//www.bluebunny.com/privacy/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605143657id_/http%3A//www.bluebunny.com/privacy/privacy.cfm) for the most accurate reproduction.*
 
 # Blue Bunny - Privacy Policy
 
@@ -11,7 +11,10 @@ We do not collect personally identifiable information on our web site or otherwi
 Wells’ Dairy, Inc does not sell, rent, share, or otherwise disclose mailing lists or other personally identifiable information. Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. However, we do not provide this information to anyone else unless you have given us your permission. 
 
 USE OF COOKIES    
-When you view our web site, we may store some information on your computer. This information will be in the form of a “cookie” and will help us in many ways. Cookies allow us to tailor the site to better match your interests and preferences. This technology is used only to improve your on-line experience. 
+When you view our web site, we may store some information on your computer. This information will be in the form of a "cookie" and will help us in many ways. Cookies allow us to tailor the site to better match your interests and preferences. This technology is used only to improve your on-line experience. 
+
+iScream Team    
+You must be 18 years of age or older to register for the iScream Team or any sweepstakes that require membership in the iScream Team. In addition, we knowingly collect no information whatsoever from anyone under the age of 18 for use by either BlueBunny.com or iScreamTeam.com. 
 
 ACCEPTANCE OF PRIVACY TERMS & CONDITIONS    
 Your access to and use of this site is subject to the above privacy terms and conditions and all applicable laws. By accessing and browsing this site, you accept, without limitation or qualification, these terms and conditions. Wells’ Dairy , Inc. may at any time revise these privacy terms and conditions. 
