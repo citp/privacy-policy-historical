@@ -1,0 +1,1048 @@
+<!--The following is the downloaded HTML source of the nsbank.com privacy policy that was archived on 2002-02-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020206164352id_/http%3A//www.nsbank.com/inside_NSB/privacy_statement) for the most accurate reproduction.-->
+
+<html><!-- #BeginTemplate "/Templates/site_template.dwt" --><head>
+<meta name="Keywords" content="Nevada State Bank,online banking,pc banking,money management,financial,loans,home equity,banking,checking,savings,branches,NSB,Las Vegas,Reno,Sparks,Carson City,Elko,Henderson,Lovelock,Eureka,Nevada">
+<meta name="Description" content="Helping Nevadans with all their financial needs since 1959. Online Banking now makes it easier to manage your money and plan your financial security.">
+
+<!-- #BeginEditable "doctitle" --> 
+<title>Nevada State Bank</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+//B E G I N   H E I R M E N U   S C R I P T S 
+
+window.onerror = null;
+ var bName = navigator.appName;
+ var bVer = parseInt(navigator.appVersion);
+ var NS4 = (bName == "Netscape" && bVer >= 4);
+ var IE4 = (bName == "Microsoft Internet Explorer" && bVer >= 4);
+ var NS3 = (bName == "Netscape" && bVer < 4);
+ var IE3 = (bName == "Microsoft Internet Explorer" && bVer < 4);
+ var menuActive = 0
+ var menuOn = 0
+ var onLayer
+ var timeOn = null
+
+// DOM
+
+ if (NS4 || IE4) {
+ if (navigator.appName == "Netscape") {
+ layerStyleRef="layer.";
+ layerRef="document.layers";
+ styleSwitch="";
+ }else{
+ layerStyleRef="layer.style.";
+ layerRef="document.all";
+ styleSwitch=".style";
+ }
+}
+ 
+// SHOW MENU
+function showLayer(layerName){
+if (NS4 || IE4) {
+ if (timeOn != null) {
+ clearTimeout(timeOn)
+ hideLayer(onLayer)
+ }
+ if (NS4 || IE4) {
+ eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="visible"');
+ } 
+ onLayer = layerName
+ }
+}
+// HIDE MENU
+function hideLayer(layerName){
+ if (menuActive == 0) {
+ if (NS4 || IE4) {
+ eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="hidden"');
+ }
+ }
+}
+// TIMER FOR BUTTON MOUSE OUT
+function btnTimer() {
+ timeOn = setTimeout("btnOut()",1000)
+}
+// BUTTON MOUSE OUT
+function btnOut(layerName) {
+ if (menuActive == 0) {
+ hideLayer(onLayer)
+ }
+}
+// MENU MOUSE OVER 
+function menuOver(itemName) {
+ clearTimeout(timeOn)
+ menuActive = 1
+}
+// MENU MOUSE OUT 
+function menuOut(itemName) {
+ menuActive = 0 
+ timeOn = setTimeout("hideLayer(onLayer)", 400)
+ }
+
+// J U M P   M E N U
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+<!-- #BeginEditable "css" --> 
+<link rel="stylesheet" href="../css/styles.css" type="text/css">
+<!-- #EndEditable --> 
+<style>
+.menus       { color: #FFFFFF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; 
+               text-decoration: none ; font-weight: bold; line-height: 10px; padding-left: 5px; height: 15px}
+.menus:hover { color: #CCCCCC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; 
+               text-decoration: none ; font-weight: bold; line-height: 10px; padding-left: 5px; height: 15px}
+.content {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none}
+.contentbold {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #333333; text-decoration: none}
+.littles {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #666666; text-decoration: none}
+.littleslinks { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-weight: bold; color: #666666; text-decoration: underline}
+.pulldown {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none}
+.newform {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #333333; text-decoration: none}
+</style>
+</head>
+
+<body onload="MM_preloadImages('/images/nav/nav_00-over.gif','/images/nav/nav_01-over.gif','/images/nav/nav_02-over.gif','/images/nav/nav_03-over.gif','/images/nav/nav_04-over.gif','/images/nav/nav_05-over.gif','/images/nav/nav_06-over.gif','/images/nav/nav_07-over.gif','/images/tools/help-over.gif','/images/tools/help-click.gif','/images/tools/locate-click.gif','/images/tools/locate-over.gif','/images/tools/contact-click.gif','/images/tools/contact-over.gif','/images/tools/home-click.gif','/images/tools/home-over.gif')" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="000000">
+<!-- D E F I N E  H E I R   M E N U   L A Y E R S -->
+<!--ONLINE SERVICES-->
+<div id="divOS" style="position: absolute; visibility: hidden; z-index: 1; left: 115px; top: 136px; width: 150;"> 
+  <table bgcolor="#336699" cellpadding="0" cellspacing="0" width="150" border="1" bordercolor="#000000">
+    <tbody><tr> 
+      <td height="15" class="menus">
+	  <a href="/online_services/" onmouseout="menuOut()" onmouseover="menuOver()" class="menus">Overview</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/online_services/internet_banking/" onmouseout="menuOut()" onmouseover="menuOver()">Internet Banking </a></td>
+    </tr>
+	 <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/online_services/internet_banking/quick_tour.html" onmouseout="menuOut()" onmouseover="menuOver()">» Quick Tour</a></td>
+    </tr>
+	 <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/online_services/internet_banking/enrollment_center/" onmouseout="menuOut()" onmouseover="menuOver()">» Enrollment Center</a></td>
+    </tr>
+	    <tr> 
+      <td height="16" class="menus">
+	  <a class="menus" href="/online_services/internet_bill_payment/" onmouseout="menuOut()" onmouseover="menuOver()">Internet Bill Payment</a></td>
+    </tr>
+	<tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/online_services/internet_banking/quick_tour.html" onmouseout="menuOut()" onmouseover="menuOver()">» Quick Tour</a></td>
+    </tr>
+	 <!-- <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/online_services/internet_banking/enrollment_center/" onmouseout="menuOut()" onmouseover="menuOver()">&#187 Enrollment Center</a></td>
+    </tr>-->
+	<tr> 
+      <td height="16" class="menus">
+	  <a class="menus" href="/online_services/wireless_banking/" onmouseout="menuOut()" onmouseover="menuOver()">Wireless Banking</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/online_services/pc_banking/" onmouseout="menuOut()" onmouseover="menuOver()">PC Banking </a></td>
+    </tr>
+
+	<tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/online_services/fee_changes.html" onmouseout="menuOut()" onmouseover="menuOver()">Fee Schedule</a></td>
+    </tr>
+</tbody></table>
+</div>
+<!--PERSONAL BANKING--> 
+<div id="divPB" style="position: absolute; visibility: hidden; z-index: 1; left: 115px; top: 184px; width: 150;"> 
+  <table bgcolor="#660033" cellpadding="0" cellspacing="0" width="150" border="1" bordercolor="#000000">
+    <tbody><tr> 
+      <td height="15" class="menus">
+	  <a href="/personal_banking/" onmouseout="menuOut()" onmouseover="menuOver()" class="menus">Overview</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/personal_banking/checking/" onmouseout="menuOut()" onmouseover="menuOver()">Checking Accounts</a> </td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/personal_banking/savings/" onmouseout="menuOut()" onmouseover="menuOver()">Savings Accounts</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	   <a class="menus" href="/personal_banking/bank_cards/" onmouseout="menuOut()" onmouseover="menuOver()">Bank Cards</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/personal_banking/fees/" onmouseout="menuOut()" onmouseover="menuOver()">Fee Schedule</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/personal_banking/lending/" onmouseout="menuOut()" onmouseover="menuOver()">Lending Choices</a></td>
+    </tr>
+	<tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/personal_banking/insurance/" onmouseout="menuOut()" onmouseover="menuOver()">Insurance Services</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/personal_banking/private/" onmouseout="menuOut()" onmouseover="menuOver()">Private Banking</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<!--BUSINESS BANKING--> 
+<div id="divBB" style="position: absolute; visibility: hidden; z-index: 1; left: 115px; top: 228px; width: 150;"> 
+  <table bgcolor="#666699" cellpadding="0" cellspacing="0" width="150" border="1" bordercolor="#000000">
+    <tbody><tr> 
+      <td height="15" class="menus">
+	  <a href="/business_banking/" onmouseout="menuOut()" onmouseover="menuOver()" class="menus">Overview</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/checking/" onmouseout="menuOut()" onmouseover="menuOver()">Checking Accounts</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/savings/" onmouseout="menuOut()" onmouseover="menuOver()">Savings 
+        Accounts</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/bank_cards/" onmouseout="menuOut()" onmouseover="menuOver()">Bank Cards</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/fees/" onmouseout="menuOut()" onmouseover="menuOver()">Fee Schedule</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/financing/" onmouseout="menuOut()" onmouseover="menuOver()">Financing Choices</a> 
+         </td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/cash_management/" onmouseout="menuOut()" onmouseover="menuOver()">Cash Management</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/corporate_trust/" onmouseout="menuOut()" onmouseover="menuOver()">Corporate Trust</a></td>
+    </tr>
+	  <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/retirement_planning/" onmouseout="menuOut()" onmouseover="menuOver()">Retirement Planning</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/merchant_services/" onmouseout="menuOut()" onmouseover="menuOver()">Merchant Services</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/wire_transfer/" onmouseout="menuOut()" onmouseover="menuOver()">Wire Transfer</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a href="/business_banking/wire_transfer/" class="menus" onmouseout="menuOut()" onmouseover="menuOver()">Drop Service</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/business_banking/affinity_program/" onmouseout="menuOut()" onmouseover="menuOver()">Affinity Program</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<!--INVESTOR RELATIONS--> 
+<div id="divIR" style="position: absolute; visibility: hidden; z-index: 1; left: 115px; top: 283px; width: 150;"> 
+  <table bgcolor="#666633" cellpadding="0" cellspacing="0" width="150" border="1" bordercolor="#000000">
+    <tbody><tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="http://www.zionsbancorporation.com/" onmouseout="menuOut()" onmouseover="menuOver()" target="new">Zions Bancorporation </a></td>
+    </tr>
+  </tbody></table>
+</div>
+<!--TOOLS RESOURCES--> 
+<div id="divTR" style="position: absolute; visibility: hidden; z-index: 1; left: 115px; top: 317px; width: 150;"> 
+  <table bgcolor="#996666" cellpadding="0" cellspacing="0" width="150" border="1" bordercolor="#000000">
+    <tbody><tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/tools_resources/calculators/" onmouseout="menuOut()" onmouseover="menuOver()">Calculators</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/tools_resources/browsers.html" onmouseout="menuOut()" onmouseover="menuOver()">Secure Browsers</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<!--FINANCIAL NEWS--> 
+<div id="divFN" style="position: absolute; visibility: hidden; z-index: 1; left: 115px; top: 372px; width: 150;"> 
+  <table bgcolor="#336666" cellpadding="0" cellspacing="0" width="150" border="1" bordercolor="#000000">
+      <tbody><tr><td height="15" class="menus">
+	  <a class="menus" href="http://www.usatoday.com/money/mfront.htm" onmouseout="menuOut()" onmouseover="menuOver()" target="new">Market Headlines</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<!--AROUND NEVADA--> 
+<div id="divAN" style="position: absolute; visibility: hidden; z-index: 1; left: 115px; top: 418px; width: 150;"> 
+  <table bgcolor="#CC9966" cellpadding="0" cellspacing="0" width="150" border="1" bordercolor="#000000">
+    <tbody><tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/around_nevada/communities/" onmouseout="menuOut()" onmouseover="menuOver()">Community Links</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<!--INSIDE NSB--> 
+<div id="divIN" style="position: absolute; visibility: hidden; z-index: 1; left: 115px; top: 427px; width: 150;"> 
+  <table bgcolor="#003366" cellpadding="0" cellspacing="0" width="150" border="1" bordercolor="#000000">
+    <tbody><tr> 
+      <td height="15" class="menus">
+	  <a href="/inside_NSB/" onmouseout="menuOut()" onmouseover="menuOver()" class="menus">Overview</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a href="/inside_NSB/contact_us.html" onmouseout="menuOut()" onmouseover="menuOver()" class="menus">Contact Us</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/inside_NSB/locate_branches/" onmouseout="menuOut()" onmouseover="menuOver()">Locate Branches/ATMs</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/inside_NSB/press_releases/" onmouseout="menuOut()" onmouseover="menuOver()">Press Releases</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/inside_NSB/tv_radio/" onmouseout="menuOut()" onmouseover="menuOver()">TV/Radio Ads</a></td>
+    </tr>
+    <tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/inside_NSB/financial_reports/index.html" onmouseout="menuOut()" onmouseover="menuOver()">Financial Reports</a></td>
+    </tr>
+<tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/inside_NSB/career_opportunities/" onmouseout="menuOut()" onmouseover="menuOver()">Career Opportunities</a></td>
+    </tr>
+<tr> 
+      <td height="15" class="menus">
+	  <a class="menus" href="/inside_NSB/privacy_statement/" onmouseout="menuOut()" onmouseover="menuOver()">Privacy Statement</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- / D E F I N E  H E I R   M E N U   L A Y E R S -->
+<!-- B E G I N   P A G E   H E A D --> 
+<table width="100%" border="0" cellspacing="0" height="60" bgcolor="#000000" cellpadding="0">
+  <tbody><tr> 
+    <td width="376" height="61"><a href="/index.html"><img src="/images/NSB_logotag.gif" width="359" height="45" hspace="10" vspace="0" border="0"></a></td>
+    <td height="60" align="right"> 
+<script src="/js/mixedMenu.js" language="JavaScript" type="text/javascript"></script>
+<form name="myform">
+        <img src="/images/point.gif" width="20" height="10"> 
+<select name="dest" onchange="leapto(this.form)" class="pulldown">
+<option value="frame,https://banking.nsbank.com" selected="">Access Your Accounts</option>
+<option value="frame,https://banking.nsbank.com">Personal Accounts</option>
+<option value="frame,https://banking.nsbank.com">Business Accounts</option>
+<option value="popup,http://www.zionsdirect.com">Investments</option>
+<option value="popup,http://www.planmember.com/nsb">PlanMember 401k Plan</option>
+</select>
+<img src="/images/spacer.gif" width="10" height="10"></form>
+</td>
+  </tr>
+</tbody></table>
+<!-- #BeginEditable "rotatepic" --> 
+<table background="../images/people.jpg" width="100%" height="60" border="0" cellspacing="0">
+  <tbody><tr> 
+    <td height="60">&nbsp;</td>
+  </tr>
+</tbody></table>
+<!-- #EndEditable --> 
+<!-- / P A G E   H E A D --> 
+<table cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" name="main" width="100%" height="400" border="0">
+  <tbody><tr valign="top"> 
+    <td rowspan="3" valign="top" bgcolor="#FFFFFF" height="362" width="130"> 
+      <center>
+        <img src="/images/spacer.gif" width="130" height="15">
+<!-- N A V I G A T I O N --> 
+        <table border="0" cellpadding="0" cellspacing="0" align="center" width="100" vspace="0" hspace="0">
+          <tbody><tr> 
+            <td> <a href="/online_services/" onmouseout="btnTimer();MM_swapImgRestore()" onmouseover="showLayer('divOS');MM_swapImage('zero','','/images/nav/nav_00-over.gif',1)"> 
+              <img name="zero" src="/images/nav/nav_00.gif" width="100" height="33" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td> <img src="/images/nav/spacer.gif" width="100" height="14"></td>
+          </tr>
+          <tr> 
+            <td> <a href="/personal_banking/" onmouseout="btnTimer();MM_swapImgRestore()" onmouseover="showLayer('divPB');MM_swapImage('one','','/images/nav/nav_01-over.gif',1)"><img name="one" src="/images/nav/nav_01.gif" width="100" height="34" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td> <img src="/images/nav/spacer.gif" width="100" height="11"></td>
+          </tr>
+          <tr> 
+            <td> <a href="/business_banking/" onmouseout="btnTimer();MM_swapImgRestore()" onmouseover="showLayer('divBB');MM_swapImage('two','','/images/nav/nav_02-over.gif',1)"><img name="two" src="/images/nav/nav_02.gif" width="100" height="33" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td> <img src="/images/nav/spacer.gif" width="100" height="13"></td>
+          </tr>
+          <tr> 
+            <td> <a href="http://www.zionsbancorporation.com/" onmouseout="btnTimer();MM_swapImgRestore()" onmouseover="showLayer('divIR');MM_swapImage('three','','/images/nav/nav_03-over.gif',1)" target="new"><img name="three" src="/images/nav/nav_03.gif" width="100" height="31" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td> <img src="/images/nav/spacer.gif" width="100" height="13"></td>
+          </tr>
+          <tr> 
+            <td> <a href="/tools_resources/" onmouseout="btnTimer();MM_swapImgRestore()" onmouseover="showLayer('divTR');MM_swapImage('four','','/images/nav/nav_04-over.gif',1)"><img name="four" src="/images/nav/nav_04.gif" width="100" height="32" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td> <img src="/images/nav/spacer.gif" width="100" height="15"></td>
+          </tr>
+          <tr> 
+            <td> <a href="/financial_news/" onmouseout="btnTimer();MM_swapImgRestore()" onmouseover="showLayer('divFN');MM_swapImage('five','','/images/nav/nav_05-over.gif',1)"><img name="five" src="/images/nav/nav_05.gif" width="100" height="32" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td> <img src="/images/nav/spacer.gif" width="100" height="14"></td>
+          </tr>
+          <tr> 
+            <td> <a href="/around_nevada/" onmouseout="btnTimer();MM_swapImgRestore()" onmouseover="showLayer('divAN');MM_swapImage('six','','/images/nav/nav_06-over.gif',1)"><img name="six" src="/images/nav/nav_06.gif" width="100" height="31" border="0"></a></td>
+          </tr>
+          <tr> 
+            <td> <img src="/images/nav/spacer.gif" width="100" height="12"></td>
+          </tr>
+          <tr> 
+            <td> <a href="/inside_NSB/" onmouseout="btnTimer();MM_swapImgRestore()" onmouseover="showLayer('divIN');MM_swapImage('seven','','/images/nav/nav_07-over.gif',1)"><img name="seven" src="/images/nav/nav_07.gif" width="100" height="34" border="0"></a></td>
+          </tr>
+        </tbody></table>
+<!-- / N A V I G A T I O N --> <br>
+        <a href="http://www.fdic.gov/regulations/laws/rules/2000-6000.html#2649" target="new" class="littleslinks"><img src="/images/ehl.gif" width="33" height="26" border="0"><br>
+        Equal Housing Lender</a><br>
+        <br>
+        <span class="littles"><a href="http://www.fdic.gov" class="littleslinks" target="new">Member 
+        FDIC</a></span><br>
+        <br>
+        <a href="/inside_NSB/privacy_statement/" class="littleslinks">NSB Privacy 
+        Policy</a><br>
+        <br>
+      </center>
+    </td>
+    <td valign="top" align="left" bgcolor="#FFFFFF" rowspan="3" height="362" width="100%" class="pagetitle"> 
+      <!-- #BeginEditable "content" --> 
+      <table width="95%" border="0" cellspacing="0" vspace="0" cellpadding="10" hspace="0">
+        <tbody><tr> 
+          <td class="pagetitle" valign="top" width="175"> 
+            <p><img src="../images/content_image.jpg" width="136" height="159"></p>
+          </td>
+          <td class="content" valign="top" width="100%"><span class="pagetitle"><a name="top"></a>Inside 
+            NSB : Privacy Statement</span> 
+            <p>At Nevada State Bank ("NSB") the privacy and security 
+              of our customers’ personal information is of the utmost importance. 
+              We never take for granted the trust our customers have placed in 
+              us and we honor that trust by managing our customers’ personal 
+              information with the highest level of care.</p>
+            <p>Safeguarding the privacy and security of customer information is 
+              a complex and dynamic process. This public statement is provided 
+              to help you understand what is involved in this process.<br>
+              <br>
+              From time to time we may revise and redisclose this policy to reflect 
+              changes in technology, privacy law or changes in our operations 
+              and practices. If you have any questions about this policy statement 
+              please contact us at 1-866-299-3341. </p>
+            <p><a href="privacy_download.html" class="links"><img src="/images/pdf_icon.gif" width="32" height="32" align="middle" border="0"> 
+              Download a printable PDF version here.</a></p>
+            <p>Throughout the Customer Privacy Policy, "we", "us" 
+              and "our" refer to NSB. "You" and "your" 
+              refer to the customers of NSB.</p>
+            <script language="JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+            <form>
+              <select name="Privacymenu" onchange="MM_jumpMenu('parent',this,1)" class="content">
+                <option value="#" selected="">Jump to Policy Topic</option>
+<option value="#pp">Privacy Principles</option>
+<option value="#pp-recognize">&nbsp;&nbsp;Recognize Customer's 
+                Expectation of Privacy</option>
+<option value="#pp-collect">&nbsp;&nbsp;Collect, Use, and Retain 
+                Information</option>
+<option value="#pp-maintain">&nbsp;&nbsp;Maintain Accurate Information</option>
+<option value="#pp-limit">&nbsp;&nbsp;Limit Employee Access</option>
+<option value="#pp-protect">&nbsp;&nbsp;Protect Information</option>
+<option value="#pp-restrict">&nbsp;&nbsp;Restrict Disclosure of 
+                Account Information</option>
+<option value="#pp-maintaincustomer">&nbsp;&nbsp;Maintain Customer 
+                Privacy with 3rd Parties</option>
+<option value="#pp-make">&nbsp;&nbsp;Make Privacy Policy Known</option>
+<option value="#">&nbsp;</option>
+<option value="#icu">Information Collection and Use</option>
+<option value="#is">Information Sharing</option>
+<option value="#is-info">&nbsp;&nbsp;Information Sharing at NSB</option>
+<option value="#is-fair">&nbsp;&nbsp;Fair Credit Reporting Act</option>
+<option value="#is-trust">&nbsp;&nbsp;Trust Accounts</option>
+<option value="#is-3rd">&nbsp;&nbsp;3rd Parties</option>
+<option value="#is-other">&nbsp;&nbsp;Other Situations</option>
+<option value="#is-former">&nbsp;&nbsp;Former Customers</option>
+<option value="#">&nbsp;</option>
+<option value="#eaci">Employee Access to Customer Information</option>
+<option value="#ia">Information Accuracy</option>
+<option value="#ryp">Respecting Your Preferences</option>
+<option value="#oips">Online Information Privacy and Security</option>
+<option value="#oips-userid">&nbsp;&nbsp;User ID and Password</option>
+<option value="#oips-secure">&nbsp;&nbsp;Secure Server</option>
+<option value="#oips-account">&nbsp;&nbsp;Account Numbers</option>
+<option value="#oips-cookies">&nbsp;&nbsp;Cookies</option>
+<option value="#oips-email">&nbsp;&nbsp;E-Mail</option>
+<option value="#oips-survey">&nbsp;&nbsp;Online Surveys</option>
+<option value="#oips-info">&nbsp;&nbsp;Information Collection 
+                and Use</option>
+<option value="#oips-children">&nbsp;&nbsp;Children Under Age 
+                13</option>
+<option value="#">&nbsp;</option>
+</select>
+            </form>
+            <hr>
+            <p><span class="subtitle"><a name="pp"></a>Privacy Principles</span><br>
+              Nevada State Bank has adopted the Privacy Principles that were cooperatively 
+              established by the leading U.S. banking industry trade associations. 
+              Therefore, we pledge to:</p>
+            <p><span class="contentbold"><a name="pp-recognize"></a>Recognize 
+              a customer’s expectation of privacy. </span><br>
+              We recognize and respect the privacy expectations of our customers 
+              and want to explain principles of financial privacy to our customers 
+              in an appropriate fashion. These principles and the accompanying 
+              policy statement are provided to explain how we continuously work 
+              to meet our customers’ expectation of privacy.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="pp-collect"></a>Collect, use 
+              and retain a customer’s information only if we believe that 
+              the customer will benefit.</span><br>
+              We collect, retain and use information about individual customers 
+              only where required by law, regulation or we reasonably believe 
+              it is useful and allowed by law in order to administer our business 
+              and to provide products, services and other opportunities to our 
+              customers. </p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="pp-maintain"></a>Maintain accurate 
+              information.</span><br>
+              We have established procedures so that the customer's financial 
+              information we collect is accurate, current and complete in accordance 
+              with reasonable commercial standards. We will respond to requests 
+              from our customers to correct inaccurate information under our control 
+              in a timely manner. </p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="pp-limit"></a>Limit employee 
+              access.</span><br>
+              We limit employee access to personally identifiable information 
+              to those with a business reason for knowing such information. Our 
+              employees are trained to understand the importance of confidentiality 
+              and customer privacy and security. We have employee privacy and 
+              security guidelines in place and will take the appropriate disciplinary 
+              measures to enforce these guidelines. </p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="pp-protect"></a>Protect information 
+              via established security procedures.</span><br>
+              We have adopted appropriate security standards and procedures to 
+              guard against unauthorized access to customer information.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="pp-restrict"></a>Restrict the 
+              disclosure of account information.</span><br>
+              We will not reveal specific information about customer accounts 
+              or other personally identifiable data to unaffiliated third parties 
+              for their independent use with the following exceptions:1) the information 
+              is provided to help complete a customer initiated transaction; 2) 
+              the customer requests it; 3) the disclosure is required by/or allowed 
+              by law (e.g., subpoena, investigation of fraudulent activity, etc.); 
+              4) the customer has been informed about the possibility of disclosure 
+              for marketing or similar purposes through a prior communication 
+              and has not exercised the right to opt out; 5) the information is 
+              exchanged with reputable information reporting agencies to maximize 
+              the accuracy and security of such information; or 6) in the performance 
+              of bona fide corporate due diligence for merger or asset sales.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="pp-maintaincustomer"></a>Maintain 
+              customer privacy in business relationships with third parties.</span><br>
+              At times, we rely on third parties to help us do business. Examples 
+              include check printers and processors. Each of these companies is 
+              bound by contract to honor these Privacy Principles. If personally 
+              identifiable customer information is provided to other third parties, 
+              we will require them to keep our customer information private and 
+              secure.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="pp-make"></a>Make our privacy 
+              principles and policies known to the customer.</span><br>
+              We will always provide our customers with reasonable access to our 
+              privacy policy. </p>
+            <p>With the above stated privacy principles as a foundation, the policy 
+              language that follows is a detailed explanation of how and why we 
+              collect, use and share information. </p>
+            <p><a href="#top" class="top">[Top]</a>
+            </p><hr>
+            <p><span class="subtitle"><a name="icu"></a>Information Collection 
+              and Use</span><br>
+              We collect the information we believe necessary to deliver our products 
+              and services according to your specifications and expectations. 
+              Due to the complex nature of the financial services business, we 
+              must collect certain types of nonpublic personal information about 
+              you in order for us to deliver the products and services you request. 
+              We collect nonpublic personal information about you in a variety 
+              of ways, including:</p>
+            <blockquote> 
+              <p>Information we receive from you on applications or other forms 
+                to open a deposit or investment account or to obtain insurance 
+                or information necessary to evaluate a loan request. Depending 
+                on the product or service requested, the information we may request 
+                could include (but is not limited to) your name, address, employment, 
+                taxpayer identification number, telephone and fax numbers, email 
+                address, income, assets and liabilities, deposit account balances, 
+                tax returns and financial statements.</p>
+              <p>Information about your transactional experience and account history 
+                with us, our affiliates, or others. This information helps us 
+                to identify and protect your account against unauthorized access 
+                as well as identify additional products and services that may 
+                benefit you. </p>
+              <p>Information from a consumer reporting agency, such as that which 
+                establishes your creditworthiness or verifies your employment. 
+                This information enables us to determine eligibility for a requested 
+                product.</p>
+              <p>When you visit our company web sites, we may collect transaction, 
+                site navigation, customer contact and optional survey information. 
+                We use this information to enhance and personalize our online 
+                services. Refer to the "Online Information Privacy and Security" 
+                section below for more information regarding online privacy.</p>
+              <p>If you choose not to provide the information necessary for us 
+                to fulfill a request for a specific product or service, we may 
+                not be able to process your request. </p>
+            </blockquote>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <hr>
+            <p><span class="subtitle"><a name="is"></a>Information Sharing</span><br>
+              NSB does not disclose any nonpublic personal information about our 
+              customers or former customers to anyone, except as permitted or 
+              required by law or as described below. </p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="is-info"></a>Information sharing 
+              at NSB</span><br>
+              The parent company of Nevada State Bank is Zions Bancorporation, 
+              a holding company that owns and operates a family of banks and other 
+              financial service providers. Our organization offers traditional 
+              banking services, mortgages, personal loans, student loans, credit 
+              cards, investment services and insurance products through bank branches, 
+              automated teller machines, and the Internet. This policy statement 
+              covers all our consumers who use any of these channels of product 
+              delivery, or customers who have an established relationship with 
+              any of the companies affiliated with NSB.<br>
+              <br>
+              The companies affiliated with NSB, as of December 31, 2000, include:</p>
+              
+            <table width="100%" border="0" cellspacing="0" cellpadding="5" align="center">
+              <tbody><tr> 
+                <td valign="top" class="littles2" width="50%"> 
+                  <p>California Bank &amp; Trust </p>
+                </td>
+                <td valign="top" class="littles2" width="50%">Zions Credit Corporation 
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" class="littles2" width="50%">Digital Signature 
+                  Trust</td>
+                <td valign="top" class="littles2" width="50%">Zions First National 
+                  Bank</td>
+              </tr>
+              <tr>
+                <td valign="top" class="littles2" width="50%">Enterprise Vault</td>
+                <td valign="top" class="littles2" width="50%">Zions Insurance 
+                  Agency</td>
+              </tr>
+              <tr>
+                <td valign="top" class="littles2" width="50%">National Bank of 
+                  Arizona</td>
+                <td valign="top" class="littles2" width="50%">Zions Investment 
+                  Securities, Inc.</td>
+              </tr>
+              <tr>
+                <td valign="top" class="littles2" width="50%">Regency Investment 
+                  Advisors, Inc.</td>
+                <td valign="top" class="littles2" width="50%">Zions Life Insurance 
+                  Company </td>
+              </tr>
+              <tr>
+                <td valign="top" class="littles2" width="50%">The Commerce Bank 
+                  of Washington</td>
+                <td valign="top" class="littles2" width="50%">Zions Management 
+                  Services Company</td>
+              </tr>
+              <tr>
+                <td valign="top" class="littles2" width="50%">Vectra Bank Colorado, 
+                  N.A.</td>
+                <td valign="top" class="littles2" width="50%">Zions Small Business 
+                  Finance</td>
+              </tr>
+            </tbody></table>
+            <p>
+            </p><p>From time-to-time we may share customer information within the 
+              NSB family of banks and financial services companies for a variety 
+              of reasons:</p>
+            <ul>
+              <li> Your protection. The information we maintain about your accounts 
+                enables us to identify you and to prevent unauthorized access 
+                to your account information.<br>
+              </li><li> Product development and enhancement. Your information helps 
+                us to understand your needs and to continually improve our products 
+                and services. By understanding your needs we are able to recommend 
+                other products or services offered through our company which may 
+                help you to achieve your financial goals.<br>
+              </li><li> Conducting transactions. In order to serve you better, many 
+                specialized banking services are performed by one affiliate on 
+                behalf or another. In particular, wire services, international 
+                transactions and corporate services may be conducted by one affiliate 
+                for the customer of others.<br>
+              </li><li> Support and administrative functions. Service units within 
+                our family of companies that perform vital support functions such 
+                as servicing your accounts. 
+            </li></ul>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="is-fair"></a>Fair Credit Reporting 
+              Act Requirements</span><br>
+              Under the federal Fair Credit Reporting Act (FCRA), NSB is permitted 
+              by law to share certain credit information with our affiliates. 
+              The information which can be shared includes account history and 
+              customer experience. In addition, although we are permitted under 
+              the FCRA to share non-experience credit information (e.g., credit 
+              report information obtained from a credit bureau) with our affiliates, 
+              consumers must be informed of this information sharing and provided 
+              a reasonable opportunity to opt out of such sharing.</p>
+            <p>In situations where an affiliate of the company plans to share 
+              non-experience credit information with another affiliate, NSB will 
+              honor your request not to share this information. It is important 
+              to remember that a FCRA request to not share applies to certain 
+              information about your applications with us, such as your account 
+              number, and information about your credit report or similar information 
+              obtained from credit bureaus and other sources outside NSB. </p>
+            <p>Refer to "Respecting Your Preferences" section below 
+              for more information on how to opt out of affiliate sharing of credit 
+              information.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="is-trust"></a>Trust Accounts</span><br>
+              Information on trust accounts where an affiliate of NSB is acting 
+              as a trustee or fiduciary is subject to more restrictive information 
+              sharing protection, both within and outside of our company.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="is-3rd"></a>Information sharing 
+              with unaffiliated third parties</span><br>
+              In order to provide the products and services you request, we may 
+              disclose the following information to reputable companies that perform 
+              outsourced operational support, provide marketing services on our 
+              behalf or other financial institutions with which we have joint 
+              marketing agreements:</p>
+            <ul>
+              <li> Information we receive from you on applications or other forms, 
+                such as your name, address, social security number, assets, and 
+                income;<br>
+              </li><li> Information about your transactions with us, our affiliates, 
+                or others, such as your account balance, payment history, parties 
+                to transactions, and credit card usage; and<br>
+              </li><li> Information we receive from a consumer reporting agency, such 
+                as your credit worthiness and credit history.<br>
+              </li><li> The information we furnish to outside companies can only be 
+                used for providing the specific services they are hired to perform. 
+            </li></ul>
+            <p>The types of companies that we contract with include payment processing 
+              specialists, insurance companies, mail fulfillment companies, check 
+              printers and data processing companies. All outside companies hired 
+              to perform specific services on our behalf are prohibited by contract 
+              from disclosing or using the information in any manner other than 
+              to fulfill the products or services requested by our customers.</p>
+            <p>At times we may become aware of companies that offer products and 
+              services that may be of interest to you. If so, we may share your 
+              name, address, transaction experience and other identifying information 
+              with these companies for purposes of marketing their products or 
+              services to you. If you do not want us to share your information 
+              with non-affiliated companies for their marketing purposes, refer 
+              to "Respecting Your Preferences" section below for more 
+              information on preventing such sharing.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="is-other"></a>Information sharing 
+              with outside parties – other situations</span><br>
+              There are certain situations where we may, in good faith, disclose 
+              information requested by government agencies, consumer reporting 
+              agencies and other outside parties as permitted or required by law. 
+              Examples include:</p>
+            <ul>
+              <li> Responding to legal process or to comply with federal, state 
+                or local laws, rules and other applicable legal requirements (e.g., 
+                a court order or subpoena for information);<br>
+              </li><li> Providing information to facilitate a fraud investigation;<br>
+              </li><li> Making information a matter of public record (e.g., recording 
+                a mortgage or filing a financing statement);<br>
+              
+              </li><li> Facilitating an audit or examination by a government regulatory 
+                agency or other request in accordance with the Right to Financial 
+                Privacy Act;<br>
+              </li><li> Enforcing an obligation, including filing lawsuits or bankruptcy 
+                claims;<br>
+              </li><li> Providing information to a consumer reporting agency in accordance 
+                with the Fair Credit Reporting Act;<br>
+              </li><li> Obtaining credit enhancements for loans (such as SBA guarantees);<br>
+              </li><li> Providing information necessary to fulfill customer expectations 
+                (e.g., enabling a connection to a national ATM or debit card network); 
+                and<br>
+              </li><li> The proposed or actual sale, merger or transfer of accounts 
+                to another financial institution.<br>
+            </li></ul>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="is-former"></a>Former customers</span><br>
+              NSB provides the same private and secure treatment for the nonpublic 
+              personal information of applicants and former customers as it provides 
+              for existing customers. Information previously collected from former 
+              customers is maintained on file in accordance with state and federal 
+              regulatory requirements for record retention. </p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <hr>
+            <p><span class="subtitle"><a name="eaci"></a>Employee Access to Customer 
+              Information</span><br>
+              NSB trains its employees to adhere to policies regarding customer 
+              information privacy and security. Each of our employees must sign 
+              an agreement that carries with it the responsibility to protect 
+              the privacy and security of our customers’ information. In 
+              addition, all NSB employees are bound by this policy and are trained 
+              on privacy requirements. Only employees having an appropriate business 
+              reason have authorized access to customer information.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <hr>
+            <p><span class="subtitle"><a name="ia"></a>Information Accuracy</span><br>
+              NSB strives to maintain the accuracy of the information you provide. 
+              If you have reason to believe that the information we have about 
+              you and your account is inaccurate or incomplete, please contact 
+              us toll free at 1-866-299-3341. We will take immediate action to 
+              correct any inaccuracy under our control. </p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <hr>
+            <p><span class="subtitle"><a name="ryp"></a>Respecting Your Preferences</span><br>
+              NSB offers a wide range of financial products and services to help 
+              you meet your needs and achieve your financial goals. On occasion 
+              we may want to contact you to offer information on products and 
+              services that could benefit you. We recognize, however, that you 
+              may have a preference about how we contact you. Furthermore, you 
+              may also prefer for us not to share your non-transaction related 
+              information among our family of affiliated companies. We also want 
+              you to know that if you apply for credit through any of NSB’s 
+              affiliates, we will not treat your application differently (for 
+              example, provide you less favorable pricing terms or apply more 
+              stringent credit underwriting standards) if you should decide to 
+              opt out of having your personal information shared with any of our 
+              affiliate companies. A request by one joint account holder will 
+              apply to all other associated account holders.</p>
+            <p>To learn more about your options and to express your contact preferences, 
+              call our Customer Service toll free at 1-866-299-3341 between 8:00 
+              am and 8:00 pm (Mountain Standard Time) Monday through Saturday. 
+            </p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <hr>
+            <p><span class="subtitle"><a name="oips"></a>Online Information Privacy 
+              and Security</span><br>
+              Whether you are an established NSB customer or casually shopping 
+              for financial services online we want to assure you that you are 
+              in a safe, secure and confidential environment. Safeguarding the 
+              privacy and confidentiality of your information is of the utmost 
+              importance whether you interact with us over the Internet, at a 
+              branch, through an electronic terminal, or by telephone. Due to 
+              the technological nature of the Internet, however, there is additional 
+              information you should know when you access our products and services 
+              online. </p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="oips-userid"></a>User identification 
+              and password</span><br>
+              NSB requires you to select a user ID and password, which you can 
+              change at your convenience, to serve as your secure identification 
+              when using our online account information services. Together, these 
+              two pieces of information provide you online protection and enable 
+              you to view your account information quickly, easily and safely.</p>
+            <p>Your user ID and password should be kept secret. If you must maintain 
+              a written record of this information, you are strongly advised to 
+              store such record away from your computer or any other place it 
+              could be easily accessed. Never allow anyone to observe you inputting 
+              your user ID and password and always log off of our web site when 
+              you are away from your computer. If you feel either your user ID 
+              or password may have been lost or compromised, please notify us 
+              immediately at 1-888-835-0551.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="oips-secure"></a>Secure server</span><br>
+              For your protection, NSB utilizes Internet servers that require 
+              you to use a forms-capable browser such as Netscape’s Navigator, 
+              Microsoft’s Internet Explorer and America Online. When your 
+              browser communicates with our server, the application information 
+              is encrypted for security while traveling over the Internet. What 
+              this means is that while your information is traveling over the 
+              Internet it is scrambled until it reaches our server where it is 
+              unscrambled. This process is applicable to information flows to 
+              and from NSB’s servers.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="oips-account"></a>Account numbers</span><br>
+              To further protect your information, NSB takes steps to prevent 
+              disclosure of account numbers when sending information about accounts 
+              to you by email.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="oips-cookies"></a>Cookies</span><br>
+              In an ongoing effort to provide better service we utilize a technology 
+              commonly referred to as "cookies" when we interact with 
+              the browser on your computer. A cookie is a text file placed on 
+              your hard drive by our server and functions as a unique identifier 
+              and can be used for anonymously tracking individual data. </p>
+            <p>What is most important for you to know is that cookies do not collect 
+              personally identifiable information, and we do not align information 
+              collected through cookies with other personally identifiable information 
+              to reveal your identity. Cookies can be deleted from your browser 
+              and you can set your browser so that it will not accept cookies.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="oips-email"></a>Email</span><br>
+              If you send us email, the content of your message, your email address 
+              and any limited, or one time response that we may provide, is archived 
+              in accordance with legal and government regulatory record retention 
+              requirements. If we collect your email address in this manner, we 
+              will not use it to notify you about NSB’s products and services 
+              unless you have granted us permission. </p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="oips-survey"></a>Online surveys</span><br>
+              Any information you voluntarily provide on surveys through our company 
+              web sites will be used for internal marketing purposes only. On 
+              occasion we may inform you of new products and services based on 
+              the information you provide.</p>
+            <p><a href="#top" class="top">[Top]</a></p>
+            <p><span class="contentbold"><a name="oips-info"></a>Online information 
+              collection and use</span><br>
+              Our company web sites require certain types of information, such 
+              as your email address or your account number. These information 
+              requirements are necessary to enable you to perform certain tasks 
+              like reviewing your account information. However, if you visit our 
+              web sites and anonymously browse, no personally identifiable information 
+              will be collected. On an aggregate basis, we periodically gather 
+              usage data such as number of hits, pages visited and length of user 
+              sessions in order to evaluate the effectiveness of our web site 
+              designs.</p>
+            <p><span class="contentbold"><a href="#top" class="top">[Top]</a></span></p>
+            <p><span class="contentbold"><a name="oips-children"></a>Children 
+              under age 13</span><br>
+              NSB may offer financial products and services designed to educate 
+              children in the fundamental aspects of financial management. If 
+              we do, we recognize our responsibility to protect the privacy and 
+              security of the information we collect from children. In accordance 
+              with the Children’s Online Privacy Protection Act of 1998, 
+              if we provide this kind of service, Nevada State Bank:<br>
+            </p>
+            <ul>
+              <li> Provides notice on the web site of what information is collected 
+                from children, how information is used and the disclosure practices 
+                for such information;<br>
+              </li><li> Obtains verifiable parental consent;<br>
+              </li><li> Upon request, provides parents with a description of the types 
+                of information collected from their child, or the actual information 
+                obtained from their child, and an opportunity to refuse to permit 
+                further use or future collection of such information;<br>
+              </li><li> Does not condition the child’s participation in games, 
+                contests or any other activity upon the disclosure of more information 
+                than is reasonably necessary to participate; and<br>
+              </li><li> Maintains reasonable procedures to protect the confidentiality, 
+                security and integrity of personal information collected from 
+                children. 
+            </li></ul>
+            <p><br>
+              If you have any questions regarding our information collection, 
+              use and sharing practices for information collected from children 
+              under the age of 13, please call us at 1-866-299-3341.</p>
+            <p>Posted as of 5/1/2001<br>
+              <a href="#top" class="top"><br>
+              [Top] </a></p>
+          </td>
+        </tr>
+      </tbody></table>
+      <!-- #EndEditable --> 
+      <p class="content">&nbsp;</p>
+    </td>
+  </tr>
+  <tr valign="top"> </tr>
+</tbody></table>
+<!-- B E G I N   T O O L S  --> 
+<table width="100%" border="0" cellspacing="0" height="60" bgcolor="#000000">
+  <tbody><tr> 
+    <td width="50%"> 
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td><a href="/help/"></a><a href="/help/" onclick="MM_nbGroup('down','group1','help','/images/tools/help-click.gif',1)" onmouseover="MM_nbGroup('over','help','/images/tools/help-over.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="help" src="/images/tools/help.gif" width="43" height="54" border="0" onload=""></a></td>
+          <td><a href="/inside_NSB/locate_branches/"></a><a href="/inside_NSB/locate_branches/" onclick="MM_nbGroup('down','group1','locate','/images/tools/locate-click.gif',1)" onmouseover="MM_nbGroup('over','locate','/images/tools/locate-over.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="locate" src="/images/tools/locate.gif" width="48" height="54" border="0" onload=""></a></td>
+          <td><a href="/inside_NSB/contact_us.html"></a><a href="/inside_NSB/contact_us.html" onclick="MM_nbGroup('down','group1','contact','/images/tools/contact-click.gif',1)" onmouseover="MM_nbGroup('over','contact','/images/tools/contact-over.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="contact" src="/images/tools/contact.gif" width="51" height="54" border="0" onload=""></a></td>
+          <td><a href="/index.html"></a><a href="/index.html" onclick="MM_nbGroup('down','group1','home','/images/tools/home-click.gif',1)" onmouseover="MM_nbGroup('over','home','/images/tools/home-over.gif','',1)" onmouseout="MM_nbGroup('out')"><img name="home" src="/images/tools/home.gif" width="42" height="54" border="0" onload=""></a></td>
+        </tr>
+      </tbody></table>
+      <!-- E N D   T O O L S --> </td>
+    <td width="50%" class="links"> 
+      <div align="right"><a href="mailto:nvinfo@nsbank.com?Subject=Web_Inquiry" class="menus">nvinfo@nsbank.com</a> 
+        <!--  <script src="/js/MotiveHelp.js" language=JavaScript type="text/javascript">
+	  </script>
+	  <a href="#" onClick='launchMotive5();' class=menus>Customer Service</a>-->
+        <img src="/images/spacer.gif" width="10" height="5" border="0"> </div>
+    </td>
+  </tr>
+</tbody></table>
+<center>
+  <span class="littles">©2001 Nevada State Bank<br>
+  All Rights Reserved.</span> 
+</center>
+
+<!-- #EndTemplate -->
+
+
+</body></html>
