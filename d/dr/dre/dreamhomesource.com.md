@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603144653id_/http%3A//www.dreamhomesource.com/Security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhomesource.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206060401id_/http%3A//www.dreamhomesource.com/Security.asp) for the most accurate reproduction.*
 
-# Dream Home Source - Over 10,250 house plans - Privacy And Security
+# Dream Home Source - Over 12,000 house plans - Privacy And Security
 
 At Dream Home Source, Inc., user privacy is of utmost concern. We are committed to your privacy and security, and to providing you the best possible user experience. This policy may be updated from time to time, so please check here frequently.
 
