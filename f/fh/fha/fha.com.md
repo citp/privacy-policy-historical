@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204202006id_/http%3A//fha.com/pp.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201210140id_/http%3A//www.fha.com/pp.cfm) for the most accurate reproduction.*
 
 # US Department of Housing and Urban Development HUD - FHA Home Loan program for FHA mortgages, first time home buyers, fha loans, HUD insured loans, fha streamline loans, hud homes, fha, hud.gov and all HUD programs. Apply for a HUD FHA home loan from FHALoan.com.
 
