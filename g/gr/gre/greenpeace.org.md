@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpeace.org privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202212313id_/http%3A//www.greenpeace.org/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpeace.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621085243id_/http%3A//www.greenpeace.org/policies) for the most accurate reproduction.*
 
 # Greenpeace Privacy Policy
 
@@ -51,6 +51,6 @@ Greenpeace International
 Keizersgracht 176   
 1016 DW Amsterdam, The Netherlands   
 +31 20 523 6222   
-or write to [webmaster@greenpeace.org](mailto:webmaster@greenpeace.org)
+or write to [supporter.services@greenpeace.org](mailto:supporter.services@ams.greenpeace.org)
 
 May 2002 
