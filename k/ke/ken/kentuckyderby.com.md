@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kentuckyderby.com privacy policy that was archived on 2000-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000502223931id_/http%3A//www.kentuckyderby.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentuckyderby.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204175500id_/http%3A//kentuckyderby.com/about/privacy.html) for the most accurate reproduction.*
 
 # Churchill Downs | About Churchill Downs | Privacy Policy |
 
