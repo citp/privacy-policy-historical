@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607201712id_/http%3A//www.wilx.com/benedek/HomePage/SubTopic/index.html%3Fbody_file%3Dprivacy.html%26topicintid%3D5%26subtopicintid%3D110) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004121413id_/http%3A//www.wilx.com/unclassified/647.html) for the most accurate reproduction.*
 
-# Welcome to WILX
+# WILX | BENEDEK INTERACTIVE MEDIA ONLINE PRIVACY POLICY
 
-  
-**BENEDEK INTERACTIVE MEDIA  
-ONLINE PRIVACY POLICY **
-
-At Benedek Interactive Media, LLC, a subsidiary of Benedek Broadcasting Corporation ("Benedek Interactive"),we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. This privacy policy applies to those websites that are part of the Benedek Interactive Media Network. For a list of those websites, click here. 
+|  At Benedek Interactive Media, LLC, a subsidiary of Benedek Broadcasting Corporation ("Benedek Interactive"),we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. This privacy policy applies to those websites that are part of the Benedek Interactive Media Network. For a list of those websites, click here. 
 
 Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an e-mail message to [rstora@benedek.com](mailto:rstora@benedek.com). 
 
@@ -104,6 +100,7 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
   * [www.kauz.com](http://www.kauz.com/)
   * [www.kake.com](http://www.kake.com/)
   * [www.kdlh.com](http://www.kdlh.com/)
+  * [www.kgwn.tv](http://www.kgwn.tv/)
   * [www.khqa.com](http://www.khqa.com/)
   * [www.kktv.com](http://www.kktv.com/)
   * [www.kmiz.com](http://www.kmiz.com/)
@@ -113,7 +110,6 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
   * [www.wibw.com](http://www.wibw.com/)
   * [www.wifr.com](http://www.wifr.com/)
   * [www.wilx.com](http://www.wilx.com/)
-  * [www.15wmtv.com](http://www.15wmtv.com/)
   * [www.nbc15.com](http://www.nbc15.com/)
   * [www.wowt.com](http://www.wowt.com/)
   * [www.wsaw.com](http://www.wsaw.com/)
@@ -125,6 +121,7 @@ We will use reasonable efforts to promptly investigate any complaint you may hav
 
 
 
-Copyright © 2001 Benedek Interactive Media, LLC All rights reserved. 
+Copyright © 2002 Benedek Interactive Media, LLC All rights reserved.
 
-| 
+|   
+---|---|---
