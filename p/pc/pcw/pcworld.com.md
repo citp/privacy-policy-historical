@@ -1,25 +1,20 @@
-> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
 
-# PC World.com |
+# PCWorld.com -
 
-PCWorld.com Privacy Policy
-
-* * *
-
-  
 [](https://www.truste.org/validate/554)
 
 This confirms that PCWorld.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
-  1. [What information does PCWorld.com collect, and how is it used?](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp#info)
-  2. [What are _cookies,_ and how are they used?](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp#cookies)
-  3. [What is PCWorld.com's relationship with the DoubleClick advertising network?](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp#doubleclick)
-  4. [Does PCWorld.com share the information it collects with others?](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp#share)
-  5. [How can I make changes to my personal information?](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp#changes)
-  6. [What else should I know about my privacy and PCWorld.com?](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp#privacy)
-  7. [What security procedures are in place to protect the loss, misuse, or alteration of my information?](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp#security)
-  8. [What about children? ](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp#children)
-  9. [How will I be notified of changes to this privacy policy?](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/privacy.asp#notify)
+  1. [What information does PCWorld.com collect, and how is it used?](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp#info)
+  2. [What are _cookies,_ and how are they used?](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp#cookies)
+  3. [What is PCWorld.com's relationship with the DoubleClick advertising network?](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp#doubleclick)
+  4. [Does PCWorld.com share the information it collects with others?](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp#share)
+  5. [How can I make changes to my personal information?](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp#changes)
+  6. [What else should I know about my privacy and PCWorld.com?](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp#privacy)
+  7. [What security procedures are in place to protect the loss, misuse, or alteration of my information?](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp#security)
+  8. [What about children? ](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp#children)
+  9. [How will I be notified of changes to this privacy policy?](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/privacy.asp#notify)
 
 
 
@@ -29,7 +24,7 @@ If you have questions or concerns regarding this statement, you should contact:
 >  PC World.com  
 >  501 Second Street  
 >  San Francisco, CA 94107  
->  e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20001203113800id_/http%3A//www.pcworld.com/resource/webmaster@pcworld.com)
+>  e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20010603085542id_/http%3A//www3.pcworld.com/resource/webmaster@pcworld.com)
 
 If you do not receive acknowledgment of your inquiry, or your questions have not been satisfactorily addressed, you should then contact TRUSTe: <http://www.truste.org/users/users_watchdog.html>
 
@@ -51,9 +46,9 @@ PCWorld.com also uses cookies to enhance site content by compiling aggregate inf
 
 What is PCWorld.com's relationship with the DoubleClick advertising network? 
 
-PCWorld.com has contracted with DoubleClick to serve all advertising on www.pcworld.com, both on the Web site itself and through its e-mail newsletters. When DoubleClick is serving ads to the user, it is also using cookies to track certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider, and time zone. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit [www.doubleclick.net:8080/privacy_policy/](http://www.doubleclick.net:8080/privacy_policy).
+PCWorld.com has contracted with DoubleClick to serve all advertising on www.pcworld.com, both on the Web site itself and through its e-mail newsletters. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider, and time zone. DoubleClick also uses cookies to note the general content of the sites you visit over time in order to serve ads on this site and other sites. Furthermore, PCWorld.com uses so-called "web beacons" (also referred to as "clear gifs" or "pixel tags") provided by Doubleclick to help manage our on-line advertising. These web beacons allow Doubleclick to recognize a browser's cookie when a browser visits this site. Although DoubleClick does share with PCWorld.com the non-personally identifiable information described above, such information is strictly in the aggregate.
 
-Although DoubleClick does share with PCWorld.com non-personally identifiable information such as user profiles based on clickstream profile data, such information is strictly in the aggregate. Any pages a user calls up on PCWorld.com are not connected with personally identifiable information collected either at PCWorld.com or elsewhere. 
+The pages a user calls up on PCWorld.com and are noted by Doubleclick are not connected with personally identifiable information collected either at PCWorld.com or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit <http://www.doubleclick.net/naiprivacy>.
 
 Does PCWorld.com share the information it collects with others? 
 
