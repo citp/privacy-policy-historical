@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208102237id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621151106id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
 
 # Lippincott Williams & Wilkins
 
@@ -36,9 +36,9 @@ Contacting LWW.com
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
 
-_Frank Roldan  
-Senior Director, Internet Database Marketing  
+_Marc Bouchard  
+Internet Sales & Marketing  
 Lippincott Williams & Wilkins  
-[froldan@lww.com](mailto:froldan@lww.com) _
+[mbouchar@lww.com](mailto:mbouchar@lww.com) _
 
 __
