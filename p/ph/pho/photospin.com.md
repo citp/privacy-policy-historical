@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the photospin.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204221512id_/http%3A//www.photospin.com/about/index.cfm%3Fpid%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photospin.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602223920id_/http%3A//photospin.com/about/index.cfm%3Fpid%3D7) for the most accurate reproduction.*
 
 # PhotoSpin | About - Privacy
 
-PhotoSpin values the privacy and loyalty of our customers.
+Privacy  
+PhotoSpin values the privacy and loyalty of our customers. 
 
 The email addresses of those who communicate with us via email are gathered only if they are volunteered by the consumer, such as via survey and/or site registration, or other PhotoSpin marketing promotion. The information we collect is used to improve the content of our website, customize the content and/or layout of our web pages, notify consumers about updates to our website, or contact consumers for marketing purposes. We will not share your email address with other organizations for commercial purposes without your consent. 
 
