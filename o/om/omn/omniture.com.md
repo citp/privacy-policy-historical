@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omniture.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627072035id_/http%3A//www.omniture.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omniture.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231043753id_/http%3A//www.omniture.com/policy.html) for the most accurate reproduction.*
 
 # Omniture - the leading provider of web analytics for large, complex sites
 
