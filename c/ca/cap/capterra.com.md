@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the capterra.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601111828id_/http%3A//www.capterra.com/privacy.tcl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capterra.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204204222id_/http%3A//www.capterra.com/privacy) for the most accurate reproduction.*
 
 # Capterra - Privacy Policy
-
-**Privacy Policy**
 
 Capterra.com is committed to protecting the privacy of our visitor’s personally identifiable information.  To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is used at the site. 
 
@@ -36,9 +34,9 @@ We may disclose personally identifiable information in response to legal process
 
 **_Choices/Opt-Out_**
 
-Capterra may contact you to provide you with opportunities to purchase those products or services that may be of interest to you.  If you prefer not to receive marketing information from this site, just let us know by responding directly to the email or contacting [membership@capterra.com](mailto:membership@capterra.com). 
+Capterra may contact you to provide you with opportunities to purchase those products or services that may be of interest to you.  If you prefer not to receive marketing information from this site, just let us know by responding directly to the email or contacting [_membership@capterra.com_](mailto:membership@capterra.com). 
 
-We may also share personally identifiable information with select third parties to enable you to learn about other products or services that may be of interest to you.  If you prefer not to receive marketing information from these third parties, just let us know by responding directly to the email or contacting [membership@capterra.com](mailto:membership@capterra.com). ****
+We may also share personally identifiable information with select third parties to enable you to learn about other products or services that may be of interest to you.  If you prefer not to receive marketing information from these third parties, just let us know by responding directly to the email or contacting [_membership@capterra.com_](mailto:membership@capterra.com). ****
 
 **_Cookies_**
 
@@ -58,4 +56,4 @@ We have appropriate security measures in place to prevent against unauthorized a
 
 **_Contact Us_**
 
-If you have any questions regarding this statement or would like more information on our privacy practices, please contact us at [info@capterra.com](mailto:info@capterra.com). 
+If you have any questions regarding this statement or would like more information on our privacy practices, please contact us at [_info@capterra.com_](mailto:info@capterra.com).
