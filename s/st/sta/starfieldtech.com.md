@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207034151id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405213132id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Starfield Technologies, Inc. - STARFIELD TECHNOLOGIES, INC. PRIVACY POLICY
 
 Starfield Technologies, Inc. respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for this site, www.starfieldtech.com.
 
-Starfield Technologies is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this statement, you should first contact Starfield Technologies at [webteam@starfieldtech.com](mailto:webteam@starfieldtech.com) or call (480) 505-8800. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Starfield Technologies is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this statement, you should first contact Starfield Technologies at [webteam@starfieldtech.com](mailto:webteam@starfieldtech.com) or call (480) 505-8800. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 I. What information is collected?
 
 **Personal Information:**  
 In order to make suggestions or request product or partnership information, we require personal information from you, including your name, address, phone number, and e-mail address. If you are enrolling for a Starfield SSL Certificate, we will use your personal information for authenticating your identify in order to create and issue to you a Certificate, and to provide the accompanying Certificate Service. We do not provide your personal information from the Certificate to any third parties that are not part of the Certificate Service. For more information on our SSL Certificates, please visit [Starfield’s Certificate Repository](https://web.archive.org/repository/).
 
-**Clear Gifs (Web beacons/Web bugs)**  
-Our site does not use clear gifs.
+**Clear GIFs (Web beacons/Web bugs)**  
+Our site does not use clear GIFs.
 
 **Cookies**  
 Our site does not use cookies, unless you are enrolling for one of our Starfield SSL Certificates, and then only for the limited purpose of establishing that you have been authenticated. It is a temporary cookie and does not include any personally identifiable information. The information is erased when you close your browser window. If you refuse to accept the cookie, you will not be able to apply for an SSL Certificate.
@@ -90,4 +90,4 @@ Sincerely, Starfield Technologies Webmaster
 
 Effective October 16, 2004
 
-Copyright © 2003-2004 Starfield Technologies, Inc. All Rights Reserved.
+Copyright © 2003-2005 Starfield Technologies, Inc. All Rights Reserved.
