@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the fulltilt.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202154633id_/http%3A//fulltilt.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltilt.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602185719id_/http%3A//www.fulltilt.com/privacy.asp) for the most accurate reproduction.*
 
-# FullTilt Solutions, Inc. | Privacy Statement
+# FullTilt - Collaborative Information Management
 
-|  |   
-**Privacy Statement**
+| Privacy Statement
 
-The goal of FullTilt Solutions, Inc. and its subsidiaries and affiliates, (collectively referred to as "FullTilt") is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we may collect information during your visits to understand what differentiates you from each of our other users. This Privacy Statement discloses information gathering and dissemination practices of FullTilt in connection with www.fulltilt.com and all other World Wide Web sites owned or operated by FullTilt (collectively, the "Site"). FullTilt can be contacted by mail at 2010 Renaissance Boulevard, King of Prussia, PA 19406, by phone at (800) 859-5037 or (610) 277-1400, by fax at (610) 277-1220, or by e-mail at [infophl@fulltilt.com](mailto:infophl@fulltilt.com).
+The goal of FullTilt Solutions, Inc. and its subsidiaries and affiliates, (collectively referred to as "FullTilt") is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we may collect information during your visits to understand what differentiates you from each of our other users. This Privacy Statement discloses information gathering and dissemination practices of FullTilt in connection with www.fulltilt.com and all other World Wide Web sites owned or operated by FullTilt (collectively, the "Site"). FullTilt can be contacted contact FullTilt by mail at 1400 Liberty Ridge Drive Suite 100, Wayne, PA 19087, by phone at 610-727-5200 or by fax at 610-727-3523, or by e-mail at [infophl@fulltilt.com](mailto:infophl@fulltilt.com).
 
   1. YOU ARE NOT REQUIRED TO VOLUNTARILY SUBMIT YOUR PERSONALLY IDENTIFIABLE INFORMATION
 
@@ -13,7 +12,7 @@ DO NOT DISCLOSE ANY INFORMATION ON THIS SITE THAT YOU DO NOT WANT USED BY FULL T
 
   2. Collection of Personal Information from Site Visitor
 
-FullTilt may collect and track: (a) User-Supplied Information \- When you request more information from FullTilt through our online Demonstration Request Form, Seminar Sign-up Form, Contact Form or other forms on the Site, we may ask you to supply your name, e-mail address, and other personal information; (b) Server Log Information - When you visit an Internet Web site, certain information is disclosed to us about you, such as your Internet Protocol (IP) address, the time of your visit, and the referring location (e.g., the Site or page that offered a link to a FullTilt page); (c) Statistical Data - In order to solve technical problems with the Site and to calculate overall usage statistics, we collect aggregate information on which pages you access; and (d) Cookies and Bugs - In order to offer and provide a customized, personal service, FullTilt may use cookies or bugs to store and help track your information. Internet "cookies" save data about individual visitors, such as your name, password, screen preferences, and the pages of a site you viewed. A Web bug is a file object, usually a graphic image such as a transparent one pixel-by-one pixel GIF, which is placed on a Web page or in an e-mail message to monitor user behavior. A Web bug can gather the following statistics, among others, the IP address of your computer, the time the Web bug was viewed, and the type of browser used. When you revisit the Site, FullTilt may recognize you using Internet cookies or Web bugs and customize your experience accordingly. You may decline Internet cookies, if any, by using the appropriate feature of your Web browser software, if available.
+FullTilt may collect and track: (a) User-Supplied Information - When you request more information from FullTilt through our online Demonstration Request Form, Seminar Sign-up Form, Contact Form or other forms on the Site, we may ask you to supply your name, e-mail address, and other personal information; (b) Server Log Information - When you visit an Internet Web site, certain information is disclosed to us about you, such as your Internet Protocol (IP) address, the time of your visit, and the referring location (e.g., the Site or page that offered a link to a FullTilt page); (c) Statistical Data - In order to solve technical problems with the Site and to calculate overall usage statistics, we collect aggregate information on which pages you access; and (d) Cookies and Bugs - In order to offer and provide a customized, personal service, FullTilt may use cookies or bugs to store and help track your information. Internet "cookies" save data about individual visitors, such as your name, password, screen preferences, and the pages of a site you viewed. A Web bug is a file object, usually a graphic image such as a transparent one pixel-by-one pixel GIF, which is placed on a Web page or in an e-mail message to monitor user behavior. A Web bug can gather the following statistics, among others, the IP address of your computer, the time the Web bug was viewed, and the type of browser used. When you revisit the Site, FullTilt may recognize you using Internet cookies or Web bugs and customize your experience accordingly. You may decline Internet cookies, if any, by using the appropriate feature of your Web browser software, if available.
 
   3. Use of Personal Data Collected; Disclosure of Personal Data to Third Parties
 
@@ -27,7 +26,7 @@ This Site may also contain links to other sites or advertisements for or placed 
 
   5. Security Measures
 
-FullTilt has implemented security features to prevent the unauthorized release of or access to personal information. For example, the server hosting the Site is located off-site in a secure faciltity, where only certain personnel have access. The server also has firewalls designed to protect it from outside access and to detect any intruders. Any remote access requires password and browser security. Please be advised, however, that the confidentiality of any communication or material transmitted to or from FullTilt via this Site or e-mail cannot be guaranteed. Accordingly, FullTilt is not responsible for the security of information transmitted via the Internet. For more private communication, you may contact FullTilt by mail at 2010 Renaissance Boulevard, King of Prussia, PA 19406, by phone at (800) 859-5037 or (610) 277-1400, or by fax at (610) 277-1220.
+FullTilt has implemented security features to prevent the unauthorized release of or access to personal information. For example, the server hosting the Site is located off-site in a secure faciltity, where only certain personnel have access. The server also has firewalls designed to protect it from outside access and to detect any intruders. Any remote access requires password and browser security. Please be advised, however, that the confidentiality of any communication or material transmitted to or from FullTilt via this Site or e-mail cannot be guaranteed. Accordingly, FullTilt is not responsible for the security of information transmitted via the Internet. For more private communication, you may contact FullTilt by mail at 1400 Liberty Ridge Drive Suite 100, Wayne, PA 19087, by phone at 610-727-5200 or by fax at 610-727-3523.
 
   6. FullTilt's Right to Change Privacy Statement
 
@@ -36,8 +35,5 @@ FullTilt reserves the unilateral right to change this Privacy Statement at any t
 
 
 
-This page was last modified on: February 04, 2002 - 4:00 p.m. EST  
-  
+This page was last modified on: March 24, 2004 - 4:00 p.m. EST  
 
-
-| 
