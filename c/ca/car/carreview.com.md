@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carreview.com privacy policy that was archived on 1999-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991127081616id_/http%3A//www.consumerreview.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carreview.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619131939id_/http%3A//www.consumerreview.com/privacy.html) for the most accurate reproduction.*
 
-# ConsumerREVIEW.com - Product Reviews by Consumers for Consumers
+# Consumer Product Reviews - ConsumerREVIEW.com
 
 |  |  Privacy Policy ConsumerREVIEW, Inc., owner and operator of this Web site, is firmly committed to respecting the privacy of our viewers (people who visit and/or use the site). The following policy explains how your personal information will be treated. Please check back periodically, as this policy may change from time to time. 
 
@@ -32,4 +32,4 @@ We gather information on site activity, such as how many viewers access the site
 
 Other companies which place advertising or offer products on our site may collect information about you when you view or click on their advertising or content. We do not control their privacy and data collection policies and practices and we cannot be responsible for their policies.
 
-Questions regarding this policy should be directed to [greg@consumerreview.com](mailto:greg@consumerreview.com)
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
