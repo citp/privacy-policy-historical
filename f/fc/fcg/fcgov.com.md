@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204204926id_/http%3A//www.fcgov.com/legal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403155202id_/http%3A//www.fcgov.com/legal.php%23privacy) for the most accurate reproduction.*
 
 # City of Fort Collins: copyright notice and disclaimer
 
@@ -27,4 +27,4 @@ As a governmental agency, we are governed by public records laws. Any informatio
 Any changes to our privacy policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
 **Tell us what you think**   
-We at the City of Fort Collins welcome your questions and comments about our privacy policy. Please send e-mail to [webmaster](https://web.archive.org/formmail.php?id=62f5f49b60971cc4ce0fb08b95879be2&edid=100&PHPSESSID=3570d58d1c6c81be4319db11fe451875)
+We at the City of Fort Collins welcome your questions and comments about our privacy policy. Please send e-mail to [webmaster](https://web.archive.org/formmail.php?id=d2VibWFzdGVyQGZjZ292LmNvbQ%3D%3D)
