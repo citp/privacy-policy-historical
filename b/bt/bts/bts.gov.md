@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206094259id_/http%3A//www.bts.gov/footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603163232id_/http%3A//www.bts.gov/footer/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -27,3 +27,9 @@ You may choose to provide BTS with personal information, as in e-mail with a com
 #### Links to Other Sites
 
 The BTS website has many links to our partners, especially other federal agencies. In a few cases BTS links to private organizations. When you link to another site, you are no longer on the BTS website and are subject to the privacy policy of the new site.
+
+Bureau of Transportation Statistics  
+400 7th Street, SW • Room 3103 • Washington, DC 20590  
+L'Enfant Plaza Metrorail Station (7th and D Streets exit)   
+800-853-1351 • [answers@bts.gov](mailto:answers@bts.gov?subject=Feedback_on_https://web.archive.org/web/20030603163232id_/http%3A//www.bts.gov/footer/Privacy.htm)   
+[Directions](https://web.archive.org/about/directions.html)
