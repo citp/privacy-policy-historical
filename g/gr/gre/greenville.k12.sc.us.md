@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601183716id_/http%3A//greenville.k12.sc.us/district/web/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203015821id_/http%3A//www.greenville.k12.sc.us/district/web/policy/privacy.asp) for the most accurate reproduction.*
 
 # SDGC Privacy Policy
 
-Wednesday, February 19, 2020
-
+Tuesday, December 02, 2003 |  [](https://web.archive.org/district/web/policy/privacy.asp?print_view=true)  
+---|---  
+  
 [ Download Print Version  
-](https://web.archive.org/web/20030601183716id_/http%3A//greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
+](https://web.archive.org/web/20031203015821id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
 
 ##  Web Site Privacy
 
@@ -71,7 +72,8 @@ The District uses Internet Protocol ("IP") addresses to help diagnose problems w
 
 ### Security
 
-The School District of Greenville County takes reasonable precautions to protect your personal information. When you submit information via the web site, it is protected both online and off-line. When personal information is required, that information is stored in a secure file on our server. This information is not accessible from the web.  
+The Greenville County Schools takes reasonable precautions to protect your personal information. When you submit information via the web site, it is protected both online and off-line. When personal information is required, that information is stored in a secure file on our server. This information is not accessible from the web.
+
 We also take precautions to protect user information off-line. All user information is restricted to authorized employees. Only employees who need the information to perform a specific task, for example, a Human Resources Job Specialist, are granted access to personal information. The server used to store personal information is kept in a secure environment.
 
 ### Contact Information
@@ -90,4 +92,4 @@ Greenville, South Carolina
 
 Updated on May 23, 2002
 
-[ Download Print Version](https://web.archive.org/web/20030601183716id_/http%3A//greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)
+[ Download Print Version](https://web.archive.org/web/20031203015821id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)
