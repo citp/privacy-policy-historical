@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211131738id_/http%3A//gatorzone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2002-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020223152533id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
 
 # University of Florida Athletics ***Gatorzone.com***
 
@@ -29,7 +29,7 @@ This site supplements the information that you provide with information that is 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.   
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  * You can send email to gatorlist@airmotion.com
+  * You can send email to webadmin@gatorzone.com
   * You can send mail to the following postal address:  
 2500 Maitland Center Pkwy., Suite 407  
 Maitland, FL 32751  
