@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikemag.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207165732id_/http%3A//www.bikemag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikemag.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603194730id_/http%3A//www.bikemag.com/privacy) for the most accurate reproduction.*
 
 # BIKEMAG Privacy Statement
 
@@ -161,4 +161,19 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
   * Or you can fax us at (212) 745-0131, Att: Privacy Coordinator 
   * Updated July 30, 2002
 
+
+
+  
+  
+  
+---  
+|    
+During this special online offer, you can get **a TRIAL ISSUE** and receive 7 more (a total of 8 issues) for only $14.97 - **you save over $16 off the cover price!**
+
+If you choose not to subscribe, write cancel on the invoice and keep the free issue--without further obligation! 
+
+Outside the US? [Canada](https://store.primediamags.com/subscribe/bikemag/174/I3KBZD/CAN) or [International](https://store.primediamags.com/subscribe/bikemag/174/I3KBZD/INTL)
+
+|   
+  
 
