@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysask.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616213211id_/http%3A//mysask.com/info/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysask.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206065400id_/http%3A//www.mysask.com/info/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Mysask - Privacy Policy
 
