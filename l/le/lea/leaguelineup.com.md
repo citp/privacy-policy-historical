@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142003id_/http%3A//leaguelineup.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209050927id_/http%3A//leaguelineup.com/privacy.asp) for the most accurate reproduction.*
 
 # LeagueLineup.com - The Youth Sports and Amateur Sports Portal (Free Web Sites and more)
 
@@ -67,3 +67,6 @@ If you have any questions about this privacy statement, the practices of this si
     LeagueLineup.com  
     P.O. Box 1016  
     Belle Mead, NJ 08502
+
+  
+To view our advertising partner's (adtegrity.com) privacy policy, [click here](http://www.adtegrity.com/privacy.asp).
