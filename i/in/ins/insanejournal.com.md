@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the insanejournal.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603025738id_/http%3A//insanejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanejournal.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208170224id_/http%3A//www.insanejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  
+  
   
   
   
@@ -37,9 +39,3 @@ Your email address is never given away or sold to third-parties. One exception i
 **Anything else?**
 
 Are we forgetting anything? Do you have any other questions we can answer for you and place on this page so others don't have the same questions? Contact us [here](https://web.archive.org/support/submit.bml).
-
-  
-  
-  
-  
-
