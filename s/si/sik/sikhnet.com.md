@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614132211id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2000-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000818081445id_/http%3A//www.sikhnet.com/s/PrivacyPolicy) for the most accurate reproduction.*
 
 # Sikhnet's Privacy Policy
 
@@ -73,5 +73,3 @@ _Espanola, NM. 87532_
 _USA_  
 [_SikhnetDev@sikhnet.com_](mailto:SikhnetDev@sikhnet.com)   
 
-
-[](https://web.archive.org/Sikhnet/Register.nsf/ClickThrough?OpenAgent&Site=PeacePrayerDay&Url=http://www.peacecereal.com/)
