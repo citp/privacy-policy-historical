@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the popmatters.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604151315id_/http%3A//popmatters.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmatters.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204234821id_/http%3A//popmatters.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # PopMatters | Privacy Policy
+
+**Privacy Policy**
+
+  
+
 
 **Last Updated: February 2003**
 
@@ -32,8 +37,8 @@ PopMatters.com does not knowingly collect or solicit Personally Identifiable Inf
 **Contacting us.**   
 We can be reached by contacting:   
 PopMatters.com   
-P.O. Box 11015   
-Chicago, IL 60611-0015   
+1555 Sherman Ave. #324   
+Evanston, IL 60201   
 Email: Info@PopMatters.com 
 
 **Changes to this policy.**   
