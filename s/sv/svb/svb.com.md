@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207005626id_/http%3A//www.svb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207194942id_/http%3A//www.svb.com/privacy.html) for the most accurate reproduction.*
 
 # Silicon Valley Bank: Privacy Policy
 
