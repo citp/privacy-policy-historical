@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608093351id_/http%3A//www.winability.com/miva/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008181121id_/http%3A//winability.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # WinAbility.Com - Privacy Statement
 
