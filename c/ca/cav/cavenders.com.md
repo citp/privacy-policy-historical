@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cavenders.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004180704id_/http%3A//www.cavenders.com/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavenders.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606052444id_/http%3A//www.cavenders.com/privacy.asp%3F) for the most accurate reproduction.*
 
 # Privacy and Security
 
 |  |   
 ---  
 Privacy  
-Cavenders.com does not share, sell or trade e-mail addresses. Except to verify credit card information to complete your order, we do not use or release any credit card or financial information for any purpose. We may use customer information for marketing and promotional purposes. For privacy purposes, all information relating to our customers is stored on a highly secure server that is not accessible via the Internet.
+Cavenders.com does not share, sell or trade customer information, including e-mail addresses. Customer credit card information is used to complete the order only. We do not use or release any credit card or financial information for any purpose. We may use customer information for marketing and promotional purposes. For privacy purposes, all information relating to our customers is stored on a highly secure server that is not accessible via the Internet.
 
 E-mails from us regarding special offers and promotions are optional. To be removed from the e-mail list, [click here](https://www.cavenders.com/unsubscribe.asp?).  
   
