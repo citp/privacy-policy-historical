@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the permissionmedia.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005253id_/http%3A//emailuniverse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permissionmedia.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604192007id_/http%3A//emailuniverse.com/privacy) for the most accurate reproduction.*
 
-# EmailUniverse.com's Privacy Policy and Procedures
+# EmailUniverse.com Privacy Statement
+
+EmailUniverse.com Privacy Statement
 
 Subscription Forms
 
@@ -75,6 +77,6 @@ If you have any questions about this privacy statement, the practices of this si
 EmailUniverse.com Privacy Team  
 c/o Christopher Knight  
 [http://EmailUniverse.com/](https://web.archive.org/)  
-PO Box 12703  
+PO Box 12740  
 Green Bay, WI 54307  
 [privacy@emailuniverse.com](mailto:privacy@emailuniverse.com)
