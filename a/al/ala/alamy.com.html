@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the alamy.com privacy policy that was archived on 2003-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621150127id_/http%3A//www.alamy.com/help/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alamy.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203183359id_/http%3A//www.alamy.com/help/royalty-free-images-privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
-<title>Alamy Images - Security and privacy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<html><!-- Royalty free images --><head>
+<title>Royalty free images Alamy Security and privacy</title>
+<meta name="keywords" content="Royalty free images, stock photo, photos, images, royalty free photos,  Alamy Images">
+<meta name="description" content="Royalty free images, Alamy Images, RF images and licenced from the best picture agencies and photographers in the world">
+
 <link rel="stylesheet" href="/style/1b.css" type="text/css">
 
 <script language="javascript" src="/script/client-execcmd.js"></script>
@@ -21,6 +23,16 @@ function MM_reloadPage(init) {  //reloads the window if Nav4 resized
   else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
 }
 MM_reloadPage(true);
+
+function OnAdvSearchOff() {
+
+	document.cookie="advs=";
+
+	window.location.href = "http://www.alamy.com/search-results.asp?qt=" + document.frmSearch.qt.value;
+	return true;
+}
+
+
 //-->
 </script>
 
@@ -29,26 +41,26 @@ MM_reloadPage(true);
 <script language="javascript" type="text/javascript">
 var sLogonURL = 'https://secure.alamy.com/logon.asp';
 </script>
-					
+
 <table width="100%" height="22" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		
-			<td width="7%" height="22"><img src="/images/ALAMY.GIF" width="94" height="15" alt="Stock photography" border="0"></td>			
-			<td width="55%" height="22" nowrap="">Stock photography, both royalty free &amp; licensed | <a href="http://www.alamy.com/aboutushelpmenu.asp">About us</a> | <a href="http://www.alamy.com/help/default.asp">Help</a></td>
+			<td width="7%" height="22"><img src="/images/ALAMY.GIF" width="94" height="15" alt="Stock photography" border="0"></td>
+			<td width="55%" height="22" nowrap="">Royalty free &amp; licensed stock photography | <a href="http://www.alamy.com/stock-photography-aboutushelpmenu.asp">About us</a> | <a href="http://www.alamy.com/stock-photography-contactus.asp">Contact us</a> | <a href="http://www.alamy.com/help/default.asp">Help</a></td>
 		
 		<td width="38%" height="22" align="right" valign="bottom">
 			<table width="270" height="23" border="0" cellspacing="0" cellpadding="0" class="bg5">
 				<tbody><tr>
 					<td width="26" valign="top"><img src="/images/45.gif" width="26" height="22"></td>
-					<td width="119"><a href="http://www.alamy.com/my-account.asp?srch=" title="View previous orders, update account details and download images."><strong>Your account</strong></a></td>
+					<td width="119"><a href="http://www.alamy.com/royalty-free-images-my-account.asp?srch=" title="View previous orders, update account details and download images."><strong>Your account</strong></a></td>
 					
-						<td width="150" align="right"><a href="https://secure.alamy.com/logon.asp?returnurl=http%3A%2F%2Fwww%2Ealamy%2Ecom%2Fhelp%2Fprivacy%2Easp%3F">Log in</a> or <a href="https://secure.alamy.com/register.asp?returnurl=http%3A%2F%2Fwww%2Ealamy%2Ecom%2Fhelp%2Fprivacy%2Easp%3F">Register</a></td>
+						<td width="150" align="right"><a href="https://secure.alamy.com/royalty-free-images-logon.asp?returnurl=http%3A%2F%2Fwww%2Ealamy%2Ecom%2Fhelp%2Froyalty%2Dfree%2Dimages%2Dprivacy%2Easp%3F">Log in</a> or <a href="https://secure.alamy.com/register.asp?returnurl=http%3A%2F%2Fwww%2Ealamy%2Ecom%2Fhelp%2Froyalty%2Dfree%2Dimages%2Dprivacy%2Easp%3F">Register</a></td>
 					
 					<td width="5"><img src="/images/s.gif" width="5" height="1"></td>
 				</tr>
 				<tr>
-					<td height="1" colspan="4" bgcolor="#999999"><img src="s.gif" width="1" height="1"></td>
-				</tr>					
+					<td height="1" colspan="4" bgcolor="#999999"><img src="/images/s.gif" width="1" height="1"></td>
+				</tr>
 			</tbody></table>
 		</td>
 	</tr>
@@ -69,7 +81,7 @@ var sLogonURL = 'https://secure.alamy.com/logon.asp';
 				<tbody><tr valign="top">
 
 					
-						<td width="84" rowspan="3" align="center"><a href="http://www.alamy.com/default.asp"><img src="/images/a.gif" alt="Stock photography from Alamy images" width="64" height="65" hspace="10" border="0"></a><a></a></td>
+						<td width="84" rowspan="3" align="center"><a href="http://www.alamy.com/"><img src="/images/a.gif" alt="Stock photography from Alamy images" width="64" height="65" hspace="10" border="0"></a><a></a></td>
 					
 
 					<td width="315" colspan="4"><script language="javascript">
@@ -81,45 +93,43 @@ var sLogonURL = 'https://secure.alamy.com/logon.asp';
 					<td width="70"><input type="submit" value="Search"></td>
 				</tr>
 				<tr>
-					<td width="22"><input type="checkbox" name="lic" value="1" checked=""></td>
-					<td width="103" nowrap="">Royalty free - RF</td>
+					<td width="22"><input type="checkbox" id="rf" name="lic" value="1" checked=""></td>
+					<td width="103" nowrap=""><label for="rf">Royalty free - RF</label></td>
 
 					
 							<td width="22"></td><td width="168"></td>
 					
 					
-					<td width="70"></td>
+					<td width="70"><a href="http://www.alamy.com/help/stock-photography-search-help.asp?srch=">Search tips</a></td>
 				</tr>
 				<tr>
-					<td width="22"><input type="checkbox" name="lic" value="6" checked=""></td>
-					<td width="103" nowrap="">Licensed - L</td>
+					<td width="22"><input type="checkbox" id="l" name="lic" value="6" checked=""></td>
+					<td width="103" nowrap=""><label for="l">Licensed - L</label></td>
 					
 							<td width="22"></td><td width="168"></td>
 					
-					<td nowrap=""><a href="http://www.alamy.com/help/search_help.asp?srch=">Search tips</a></td>
+					<td nowrap=""><a href="http://www.alamy.com/stock-photography-adv-search.asp">Advanced Search</a></td>
 				</tr>
 			</tbody></table>
 		</td><td align="RIGHT">
 			<table width="270" height="65" border="0" cellspacing="0" cellpadding="0"><form name="frmSetCurrentLightbox"></form>
 				<tbody><tr>
 					<td width="26"><a href="http://www.alamy.com/order-view.asp?srch="><img src="/images/cba.gif" width="17" height="17" border="0" alt="Your shopping cart"></a></td>
-					<td width="119" nowrap=""><a href="http://www.alamy.com/order-view.asp?srch=">Your shopping cart</a></td>
-					<td width="120" align="right"></td>
+					<td width="239" nowrap=""><a href="http://www.alamy.com/order-view.asp?srch=">Your shopping cart</a></td>
 					<td width="5" rowspan="5"><img src="/images/s.gif" width="5" height="1"></td>
 				</tr>
 				<tr>
-					<td height="5" colspan="3"><img src="/images/s.gif" width="1" height="5"></td>
+					<td height="5" colspan="2"><img src="/images/s.gif" width="1" height="5"></td>
 				</tr>
 				<tr>
-					<td width="26"><a href="http://www.alamy.com/my-lightbox.asp?srch="><img src="/images/elb.gif" width="17" height="17" border="0" alt="View lightbox"></a></td>
-					<td nowrap=""><a href="http://www.alamy.com/my-lightbox.asp?srch=">View lightbox</a></td>
-					<td align="right"></td>
+					<td width="26"><a href="http://www.alamy.com/royalty-free-images-my-lightbox.asp?srch="><img src="/images/elb.gif" width="17" height="17" border="0" alt="View lightbox"></a></td>
+					<td nowrap=""><a href="http://www.alamy.com/royalty-free-images-my-lightbox.asp?srch=">Your lightbox<span class="nouline">: </span>View</a> | <a href="http://www.alamy.com/my-lightbox-create.asp?srch=">Create</a> | <a href="http://www.alamy.com/my-lightbox-email.asp?srch=">Email</a></td>
 				</tr><tr>
 				</tr><tr>
-					<td height="5" colspan="3"><img src="/images/s.gif" width="1" height="5"></td>
+					<td height="5" colspan="2"><img src="/images/s.gif" width="1" height="5"></td>
 				</tr>
 				<tr>
-					<td colspan="3">&nbsp;</td>
+					<td colspan="2">&nbsp;</td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -129,7 +139,7 @@ var sLogonURL = 'https://secure.alamy.com/logon.asp';
 		</tr>
 		<tr bgcolor="#999999">
 			<td colspan="2"><img src="/images/s.gif" width="1" height="1"></td>
-		</tr>		
+		</tr>
 		<tr class="bgw">
 			<td colspan="2"><img src="/images/s.gif" width="1" height="1"></td>
 		</tr>
@@ -137,7 +147,7 @@ var sLogonURL = 'https://secure.alamy.com/logon.asp';
 
 <table width="100%" cellpadding="3" cellspacing="0" border="0" class="bg8">
 	<tbody><tr valign="top">
-		<td class="s"><img src="/images/s.gif" width="7" height="1"><a href="http://www.alamy.com/default.asp">Home</a> &gt; <a href="/help/default.asp"> Help</a>  &gt; Security and privacy</td>
+		<td class="s"><img src="/images/s.gif" width="7" height="1"><a href="http://www.alamy.com/">Home</a> &gt; <a href="/help/default.asp"> Help</a>  &gt; Security and privacy</td>
 	</tr>
 </tbody></table>
 
@@ -173,12 +183,7 @@ var sLogonURL = 'https://secure.alamy.com/logon.asp';
 
 <p>We use information on your previous habits &amp; purchases to personalise your shopping experience, and to show you products and promotions that we think will appeal to you. This information is collected by a 'cookie' which is stored on your computer’s hard drive and enables us to automatically link our customers to their personalised accounts. If you want to, most web-browsers allow you to turn off the automatic acceptance of cookies on your PC. We also monitor the usage of our site and customer traffic patterns to help us improve the layout and functionality of the site.</p>
 
-<p>When you enter a competition or other promotion, we may ask for your name, address and email address so we can administer the contest and notify winners. Your details will then be added to our mailing list for future offers and other information we may provide to our users. The information you provide to us may be transferred outside the United Kingdom for the purposes of operating our site or to maintain your customer account.</p>
-</blockquote>
-
-<p class="big"><strong>Will we ever share your information?</strong></p>
-
-<blockquote>No. Other than as described in this privacy policy, Alamy will not sell, rent, share, trade or give away any of your personal information. Primarily we collect information about you in order to provide excellent customer service and a highly personalised experience of our site. We may share the personal information you provide with other members of our group of companies.</blockquote>
+<p>When you enter a competition or other promotion, we may ask for your name, address and email address so we can administer the contest and notify winners. Your details will then be added to our mailing list for future offers and other information we may provide to our users. The information you provide to us may be transferred outside the United Kingdom for the purposes of operating our site or to maintain your customer account.</p></blockquote>
 
 <p class="big"><strong>What if I don't want to receive any correspondence from you?</strong></p>
 
@@ -231,7 +236,7 @@ var sLogonURL = 'https://secure.alamy.com/logon.asp';
 		<td height="5"><img src="/images/s.gif" width="1" height="5"></td>
 	</tr>	
 	<tr>
-		<td class="s"><span class="grey"><a class="grey" href="http://www.alamy.com/default.asp">Stock photography - Alamy HOME</a> | <a class="grey" href="http://www.alamy.com/stock-photography.asp">Stock photography on Alamy</a> | <a class="grey" href="http://www.alamy.com/royalty-free-images.asp">Royalty free images</a> | <a class="grey" href="http://www.alamy.com/licensed-images.asp">Licensed images</a> | <a class="grey" href="http://www.alamy.com/site-map.asp">Site map</a><br><a class="grey" href="http://www.alamy.com/stock-photos.asp">Choosing the right file size for your stock photos</a> | <a class="grey" href="http://www.alamy.com/stock-photo.asp">Stock photo usage - a glossary of terms</a><br>Alamy and its logo are trademarks of Alamy Ltd, and are registered in certain countries<br>Powered by PLS from <a class="grey" target="_blank" href="http://www.aol.com">AOL</a> | <a class="grey" href="http://www.alamy.com/help/privacy.asp">Security and privacy</a> | <a class="grey" href="http://www.alamy.com/terms_and_cond.asp">Terms and conditions</a> | <a class="grey" href="http://www.alamy.com/contactus.asp">Contact us</a><br>Copyright © 2003 Alamy Ltd. All rights reserved.</span></td>		
+		<td class="s"><span class="grey"><a class="grey" href="http://www.alamy.com/default.asp">Stock photography - Alamy HOME</a> | <a class="grey" href="http://www.alamy.com/stock-photography.asp">Stock photography on Alamy</a> | <a class="grey" href="http://www.alamy.com/royalty-free-images.asp">Royalty free images</a> | <a class="grey" href="http://www.alamy.com/licensed-images.asp">Licensed images</a> | <a class="grey" href="http://www.alamy.com/royalty-free-images-site-map.asp">Site map</a><br><a class="grey" href="http://www.alamy.com/stock-photos.asp">Choosing the right file size for your stock photos</a> | <a class="grey" href="http://www.alamy.com/stock-photo.asp">Stock photo usage - a glossary of terms</a><br>Alamy and its logo are trademarks of Alamy Ltd, and are registered in certain countries<br>Powered by PLS from <a class="grey" target="_blank" href="http://www.aol.com">AOL</a> | <a class="grey" href="http://www.alamy.com/help/royalty-free-images-privacy.asp">Security and privacy</a> | <a class="grey" href="http://www.alamy.com/royalty-free-images-terms-and-cond.asp">Terms and conditions</a> | <a class="grey" href="http://www.alamy.com/stock-photography-contactus.asp">Contact us</a><br>Copyright © 2003 Alamy Ltd. All rights reserved.</span></td>		
 	</tr>
 	<tr>
 		<td height="5"><img src="/images/s.gif" width="1" height="5"></td>
@@ -243,6 +248,7 @@ var sLogonURL = 'https://secure.alamy.com/logon.asp';
 
 
 
+<!-- Royalty free images -->
 
 
 
