@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207151900id_/http%3A//silive.com/userguide/index.ssf%3Fprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2001-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010804020309id_/http%3A//silive.com/userguide/index.ssf%3F/userguide/privacy.html) for the most accurate reproduction.*
 
 # Staten Island Live - User Guide
 
 **Staten Island Live Privacy Policy**
 
-The Staten Island Live Web site is maintained by Staten Island Live, 1200 South Avenue, Suite 101, Staten Island, NY 10314. We can be reached by e-mail at [feedback@silive.com](mailto:feedback@silive.com).
+The Staten Island Live Web site is maintained by Staten Island Live, 900 South Avenue, Suite 201, Staten Island, NY 10314. We can be reached by e-mail at [feedback@silive.com](mailto:feedback@silive.com).
 
 **HOW STATEN ISLAND LIVE USES INFORMATION PROVIDED BY YOU:** This site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifiable information may be used by Staten Island Live and its affiliates for editorial purposes. Staten Island Live may also use such information for marketing and promotional purposes. We may share your personally identifiable information with other companies with which it conducts business. For example, if you enter our contests, make a purchase or use our e-mail services, we sometimes rely on outside companies to provide these services to you. In such cases, we need to provide your personally identifiable information to them. Or if you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment. We also sometimes provide your information to our advertisers, so that they can serve ads to you that meet your needs. While Staten Island Live will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it was provided, Staten Island Live does not bear any responsibility for any actions or policies of any third parties.
 
