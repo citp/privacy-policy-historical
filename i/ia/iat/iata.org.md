@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603085428id_/http%3A//www1.iata.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204175835id_/http%3A//www.iata.org/privacy) for the most accurate reproduction.*
 
-# IATA - Privacy Policy
+# IATA - IATA - Privacy Policy
 
 Privacy Policy
 
