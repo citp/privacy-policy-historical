@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204001630id_/http%3A//www3.thomasville.com/Home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607120816id_/http%3A//www3.thomasville.com/Home/privacy.asp) for the most accurate reproduction.*
 
 # Thomasville Furniture Ind. - Privacy Policy
 
@@ -23,7 +23,7 @@ For each visitor to the Sites, our web servers automatically recognize only info
 
 
 
-It is Thomasville's policy to keep Personal Information only for so long as needed for such purposes. Thomasville does not sell, rent or otherwise distribute to third parties Personal Information about its customers or visitors to the Sites. At any time, you may obtain a summary of the Personal Information on record with Thomasville which has been collected about you via this Site. Except for the Personal Information we need to complete your purchase of products, you may request at any time that Thomasville dispose of any or all Personal Information about you. In addition, at any time you may request (i) that Thomasville correct any such Personal Information; or (ii) that such Personal Information be removed from Thomasville's marketing databases. To make any request described above, either:
+It is Thomasville's policy to keep Personal Information only for so long as needed for such purposes. Thomasville does not sell or rent to third parties Personal Information about its customers or visitors to the Sites. At any time, you may obtain a summary of the Personal Information on record with Thomasville which has been collected about you via this Site. Except for the Personal Information we need to complete your purchase of products, you may request at any time that Thomasville dispose of any or all Personal Information about you. In addition, at any time you may request (i) that Thomasville correct any such Personal Information; or (ii) that such Personal Information be removed from Thomasville's marketing databases. To make any request described above, either: 
 
 | send an email to: | [maillist@thomasville.com](mailto:maillist@thomasville.com)  
 ---|---  
