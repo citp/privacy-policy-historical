@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607192806id_/http%3A//moving.com/footer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810015203id_/http%3A//www.moving.com/footer/privacy.asp) for the most accurate reproduction.*
 
 # Moving.com - Find Moving Companies, Real Estate Agents, Mortgage Quotes and more
 
-|  |  |   
----|---|---  
-  
-|   
----  
 The information presented on this page covers Moving.com's usage of information gathered for our website, [www.moving.com](http://www.moving.com/). 
 
 Moving.com contains links to other sites. 
@@ -16,8 +11,9 @@ Moving.com is not responsible for the privacy practices, business operations, or
 **Demographic Information**  
 Moving.com currently surveys its visitors for certain demographical information. This information typically includes contact information (e-mail address, zip code, phone number).
 
-|   
-The contact information provided by users to Moving.com is used solely for the purposes of:
+| 
+
+|  The contact information provided by users to Moving.com is used solely for the purposes of:
 
   * contacting our users if necessary.
   * allowing reputable and professional companies to contact users in order to offer them a service that the users had voluntarily requested.
@@ -37,7 +33,7 @@ Moving.com meets the guidelines of TRUSTe's Children's program. These guidelines
 **Unsubscribing/Correcting**  
 Moving.com provides its users with the opportunity to unsubscribe from receiving communication from Moving.com or its partners. In addition, Moving.com allows its users to modify any information that they had provided. Unsubscribing or correcting can be done in one of two ways:
 
-  * A notification can be sent via email to Moving.com at sales@moving.com.
+  * A notification can be sent via email to Moving.com at advertising@moving.com.
   * A notification can be sent vial postal mail to **Moving.com** at the following address:
 
 
@@ -52,5 +48,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 **Contacting the Web Site**  
 If you have any questions regarding this privacy statement, the practices of this site, or your personal matters involving Moving.com, please contact us using the information provided below:
 
-Moving.com 11 Broadway Suite 1131 New York, NY 10004 move@moving.com  
-| 
+Moving.com 11 Broadway Suite 1131 New York, NY 10004 UserSupport@moving.com
