@@ -1,0 +1,538 @@
+<!--The following is the downloaded HTML source of the wamu.com privacy policy that was archived on 2002-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215155020id_/http%3A//www.wamu.com/servlet/wamu/public/eng/pages/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+
+<title>Washington Mutual - Your Privacy</title>
+
+<meta name="" content="">
+
+
+
+
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache"><script language="JavaScript">
+<!--
+//names of dropdowns stored here NS
+f7_droplayer=new Array()
+f7_droplayer[0]="drop0"
+f7_droplayer[1]="drop1"
+f7_droplayer[2]="drop2"
+f7_droplayer[3]="drop3"
+f7_droplayer[4]="drop4"
+
+var readytoroll = 0;
+var allDivs;
+var f7_mousex;
+var f7_mousey;
+var f7_x_min;
+var f7_x_max;
+var f7_y_min;
+var f7_y_max;
+MyTimeOut = "";
+MyTimeOut2 = "";
+
+//simple browser check
+var f7_v4=(parseInt(navigator.appVersion)>=4)?1:0
+var mozilla = navigator.appName;
+var f7_ie=(document.all && f7_v4)?1:0
+var f7_ns=(document.layers && f7_v4)?1:0
+var f7_ns6=(document.getElementById && f7_v4 && (mozilla == "Netscape"))?1:0
+
+
+//code for drops
+function clearIt(){
+	clearTimeout(MyTimeOut);
+	MyTimeOut = "";
+	clearTimeout(MyTimeOut2);
+	MyTimeOut2 = "";
+}
+
+function f7_showdrop(thelayer){
+	if (readytoroll != 0){
+	f7_keep=thelayer; f7_hideall(); f7_showitnow=1;	f7_showit(thelayer)}
+}
+function f7_showit(thelayer){
+	if(f7_ie){ eval(f7_droplayer[thelayer]+'.style.visibility="visible"') }
+	if(f7_ns){ eval('document.'+f7_droplayer[thelayer]+'.visibility="show"');}
+	if(f7_ns6){ eval('document.getElementById("drop'+thelayer+'").style.visibility="visible"') }
+}
+function f7_hidedrop(){
+	if (readytoroll != 0){
+	f7_keep=-1; MyTimeOut = setTimeout("f7_hideall()",350)}
+}
+
+f7_keep=-1
+
+function f7_hideall(){
+	if (readytoroll != 0){
+		for(i=0;i<f7_droplayer.length;i++){  
+			f7_hideit=0; f7_checkmousepos(i)
+			if(f7_ie && f7_keep!=i){ 
+				if(f7_hideit){ 
+					eval(f7_droplayer[i]+'.style.visibility="hidden"') 
+				} 
+			}
+			if(f7_ns && f7_keep!=i){
+				if(f7_hideit){ 
+					eval('document.'+f7_droplayer[i]+'.visibility="hide"') 
+				}
+			}
+			if(f7_ns6 && f7_keep!=i){
+				if(f7_hideit){ 
+					eval('document.getElementById("drop'+i+'").style.visibility="hidden"') 
+				} 
+			}
+		}
+		clearIt()
+	}
+}
+
+//deal with cursor over layer
+
+document.onmousemove = f7_getmousepos
+if (f7_ns || f7_ns6) {document.captureEvents(Event.MOUSEMOVE)}
+
+function f7_getmousepos(e){
+	if(f7_ns || f7_ns6){f7_mousex=e.pageX; f7_mousey=e.pageY}
+	if(f7_ie){f7_mousex=event.clientX; f7_mousey=event.clientY;}
+}
+
+function f7_checkmousepos(i){
+	if(f7_ns){     
+		f7_x_min=eval('document.'+f7_droplayer[i]+'.left')
+		f7_x_max=f7_x_min+eval('document.'+f7_droplayer[i]+'.clip.width')
+		f7_y_min=eval('document.'+f7_droplayer[i]+'.top')
+		f7_y_max=f7_y_min+eval('document.'+f7_droplayer[i]+'.clip.height')
+	}    
+	if(f7_ie){     
+		f7_x_min=eval(f7_droplayer[i]+'.style.pixelLeft')
+		f7_x_max=f7_x_min+eval(f7_droplayer[i]+'.style.pixelWidth')
+		f7_y_min=eval(f7_droplayer[i]+'.style.pixelTop')
+		f7_y_max=f7_y_min+eval(f7_droplayer[i]+'.style.pixelHeight')
+	}
+	if(f7_ns6){
+		f7_x_min=eval('document.getElementById("drop'+i+'").style.left')
+		f7_x_max=f7_x_min+eval('document.getElementById("drop'+i+'").style.width')
+		f7_y_min=eval('document.getElementById("drop'+i+'").style.top')
+		f7_y_max=f7_y_min+eval('document.getElementById("drop'+i+'").style.height')
+	}
+	if (f7_mousex>=f7_x_min && f7_mousex<=f7_x_max && f7_mousey>=f7_y_min && f7_mousey<=f7_y_max){
+		f7_hideit=0; MyTimeOut2 = setTimeout('f7_hideall()',350)
+	}
+	else { f7_hideit=1 }
+	return f7_hideit
+}
+
+// Resize fix for Netscape 4.x browsers
+if(!window.orig_width) {
+  window.onresize = reset_layers;
+  window.orig_width = window.innerWidth;
+  window.orig_height = window.innerHeight;
+}
+
+function reset_layers() {
+    if (window.innerWidth != orig_width || window.innerHeight != orig_height) {
+      location.reload();
+    }
+}
+
+function printerFriendly(pageTitle,pfNum) {
+  
+	 	popupPageName = "?PopupPageName="+pageTitle+"&pfNum="+pfNum;
+	
+	window.open("popup-printerfriendly.html"+popupPageName, "pf", "toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=1,resizable=0,width=600,height=475");
+}
+
+//-->
+</script><!-- Win Netscape Styles -->
+<style> 
+body {background:#ffffff url(/wamu/images/bg.gif); background-repeat: repeat-x;} 
+<!-- Main body information --> 
+
+a:hover{color: #339900; text-decoration: none}
+
+.mainfont{font-family: Verdana, Arial; color:#000099; font-size:75%;}
+.mainfontred {font-family: Verdana, Arial; color:#ff0000; font-size:75%; font-weight:bold;}
+.mainfontorange {font-family: Verdana, Arial; color:#ff6600; font-size:75%; font-weight:bold;}
+.mainfontviolet {font-family: Verdana, Arial; color:#993399; font-size:75%; font-weight:bold;}
+.mainfontblue {font-family: Verdana, Arial; color:#3366ff; font-size:75%; font-weight:bold;}
+.mainfontgreen {font-family: Verdana, Arial; color:#669900; font-size:75%; font-weight:bold;}
+.mainfontbold{font-family: Verdana, Arial; font-size: 75%; color:#000099; font-weight:bold;}
+.mainfontBold{font-family: Verdana, Arial; font-size:75%; color:#000099; font-weight:bold;}
+.mainfontbold2{font-family: Verdana, Arial; font-size: 75%; color:#ffffff; font-weight:bold;}
+.mainfontwhiteBold{font-family: Verdana, Arial; font-size: 75%; color:#ffffff; background-color:#000099; font-weight:bold;}	
+
+.requiredfont{text-decoration:none; font-family: Verdana, Arial; color:#000099; font-size:9.5px;}
+.requiredfontred{text-decoration:none; font-family: Verdana, Arial; color:#ff0000; font-size:9.5px;}
+.minifont{text-decoration:none; font-family: Verdana, Arial; color:#000099; font-size:70%;}
+.minifontwhite {text-decoration:none; font-family: Verdana, Arial; color:#ffffff; font-size:70%;}
+
+a.link{font-family: Verdana, Arial; font-size:9.5px; color:#ffffff; font-weight: bold; text-decoration: none}
+a.link:hover{color:#000099;} 
+a.link2{font-family: Verdana, Arial; font-size:11px; color:#ffffff; font-weight: bold; text-decoration: none}
+a.link2:hover{color:#000099;} 
+a.link2true{text-decoration:none; font-size:11px; color:#000099;}
+a.link2true:hover{color:#000099;}
+a.topnav{text-decoration:none;} 
+a.topnav:hover{background-color:#ffcc00; color:#000099;}
+a.topnavtrue{text-decoration:none;}
+a.topnavtrue:hover{background-color:#ffcc00; color:#000099;}
+a.quicklink{font-family: Verdana, Arial; font-size:9.5px; font-weight:bold}
+a.overview{color:#0000ff;}
+
+.link{font-family: Verdana, Arial; font-size:9.5px; color:#cc33cc;}
+.link2true{font-family: Verdana, Arial, San-Serif; color:#000099; font-size:9.5px; font-weight: bold}
+.topnav{font-family: Verdana, Arial, San-Serif; color:#000099; font-size:9.5px; font-weight: bold}
+.topnavtrue{font-family: Verdana, Arial, San-Serif; color:#000099; font-size:9.5px; font-weight: bold; background-color:#ffcc00;}
+
+.footer{text-decoration:none; font-family: Verdana, Arial; color:#ffffff; font-size:12px; font-weight:bold}
+a.footer{text-decoration:none; font-family: Verdana, Arial; color:#ffffff; font-size:9.5px; font-weight:bold}
+a.footer:hover{color:#000099;}
+a.footernobold{text-decoration:none; font-family: Verdana, Arial; color:#ffffff; font-size:9.5px;}
+a.footernobold:hover{color:#000099;}
+a.footer2{text-decoration:none; font-family: Verdana, Arial; color:#ffffff; font-size:9.5px; font-weight:bold}
+a.footer2:hover{background-color:#ffcc00; color:#000099;}
+a.footer3{text-decoration:none; font-family: Verdana, Arial; color:#ffffff; font-size:9.5px; font-weight:bold}
+a.footer3:hover{color:#ffcc00;}
+
+a.footerselected{text-decoration:none; font-family: Verdana, Arial; color:#000099; font-size:9.5px; font-weight:bold}
+a.footerselected:hover{color:#000099;}
+a.footernoboldselected{text-decoration:none; font-family: Verdana, Arial; color:#000099; font-size:9.5px; font-weight:bold}
+a.footernoboldselected:hover{color:#000099;}
+a.footer2selected{text-decoration:none; font-family: Verdana, Arial; color:#000099; background-color:#ffcc00; font-size:9.5px; font-weight:bold}
+a.footer2selected:hover{color:#000099;}
+a.footer3selected{text-decoration:none; font-family: Verdana, Arial; color:#000099; font-size:9.5px; font-weight:bold}
+a.footer3selected:hover{color:#000099;}
+a.footer3true{text-decoration:none; font-family: Verdana, Arial; color:#ffcc00; font-size:9.5px; font-weight:bold}
+a.footer3true:hover{color:#ffcc00;}
+
+.state{text-decoration:none; font-family: Verdana, Arial; color:#000000; font-size:10px}
+
+.footercopy{text-decoration:none; font-family: Verdana, Arial; color:#ffffff; font-size:9.5px;}
+.footercopy2{text-decoration:none; font-family: Verdana, Arial; color:#000099; font-size:9.5px;} 
+a.terms{text-decoration:none; font-family: Verdana, Arial; color:#ffffff; font-size:10px; font-weight:bold}
+a.terms:hover{color:#ffffff;}
+
+.LtColorData{font-family: Verdana, Arial; font-size: 75%; color: #000099; background-color: #ffffff;} 
+.DkColorData{font-family: Verdana, Arial; font-size: 75%; color: #000099; background-color: #e0e0ff;}
+.LtColorData2{font-family: Verdana, Arial; font-size: 70%; color: #000099; background-color: #ffffff;} 
+.DkColorData2{font-family: Verdana, Arial; font-size: 70%; color: #000099; background-color: #e0e0ff;}
+.DkColorDataBold{font-family: Verdana, Arial; font-size: 75%; font-weight: bold; color: #000099; background-color: #e0e0ff;} 
+.DkColorDataBold2{font-family: Verdana, Arial; font-size: 70%; font-weight: bold; color: #000099; background-color: #e0e0ff;} 
+
+.columnheader{font-family:Verdana, Arial; font-size: 75%; color: #ffffff; font-weight: bold; background-color:#000099;}
+.columnheader2{font-family:Verdana, Arial; font-size: 70%; color: #ffffff; font-weight: bold; background-color:#000099;}
+a.columnheaderlink{font-family:Verdana, Arial; font-size: 75%; color: #ffffff; font-weight: bold; background-color:#000099;}
+
+.contentData14{font-family: Verdana, Arial; color:#000099; font-size: 100%; font-weight: normal}
+.contentData14Bold{font-family: Verdana, Arial; color:#000099; font-size: 100%; font-weight: bold}
+.contentHdr14MainBlue{font-family: Verdana, Arial; color:#000099; font-size: 100%;  font-weight: bold}
+.contentHdr14Green{font-family: Verdana, Arial; color:#669900; font-size: 100%;  font-weight: bold}
+.contentHdr14Blue{font-family: Verdana, Arial; color:#3366ff; font-size: 100%;  font-weight: bold}
+.contentHdr14Orange{font-family: Verdana, Arial; color:#ff6600; font-size: 100%;  font-weight: bold}
+.contentHdr14Violet{font-family: Verdana, Arial; color:#993399; font-size: 100%;  font-weight: bold}
+.contentHdr14Red{font-family: Verdana, Arial; color:#cc3300; font-size: 100%;  font-weight: bold}
+.radiocolorwhite{background-color: #feffff;} 
+
+.mainbluebg{background-color: #000099;}
+.mainbluebgtrue{background-color: #ccccff;}
+.greenbg{background-color: #669900;}
+.greenbgtrue{background-color: #d1e0b2;}
+.orangebg{background-color: #ff6600;}
+.orangebgtrue{background-color: #ffd1b2;}
+.bluebg{background-color: #3366ff;}
+.bluebgtrue{background-color: #c1d1ff;}
+.violetbg{background-color: #993399;}
+.violetbgtrue{background-color: #e0c1e0;}
+.redbg{background-color: #cc3300;}
+.redbgtrue{background-color: #f0c1b2;}
+
+.chpHdr14Orange{font-family: Verdana, Arial; color:#ff6600; font-size: 100%;}
+.chpText{font-family: Verdana, Arial; font-size: 60%; color:#000099; line-height: 0.9;}
+a.chpNews{font-family: Verdana, Arial; font-size: 60%; line-height: 0.9;}
+a.chpMore{text-decoration:none; font-family: Verdana, Arial; color:#000099; font-weight:bold; font-size:60%;}
+a.chpEasy{font-family: Verdana, Arial; color:#0000ff; line-height: 0.9;}
+a.chpDrop{font-family: Verdana, Arial; text-decoration:none; font-size:11px; font-weight:bold; color:#000099; line-height: 1.4;}
+
+.dropdown{position:absolute; width:138px; top:94px; z-index:10; visibility:hidden;}
+</style> 
+</head>
+
+
+
+
+
+
+
+<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" link="#0000ff" alink="#339900" vlink="#339900">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<!-- Logo/Global Nav -->
+	<tbody><tr>
+		<td width="197" valign="top"><a href="http://www.wamu.com/servlet/wamu/index.html"><img src="/wamu/images/wamu_logo.gif" width="197" height="29" alt="Washington Mutual, Inc." border="0"></a></td>
+		<td width="194"><img src="/wamu/images/1px_white.gif" border="0" width="194" height="1" alt=""></td>
+		<td valign="middle" align="right">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr><td><img src="/wamu/images/1px_white.gif" border="0" width="1" height="1" alt=""></td></tr>
+				<tr valign="middle">
+					<td class="topnav"><a href="https://www.wamu.com/servlet/ecareinit/online/eng/pages/ecareinit.html?SuccessURL=/servlet/ecare/public/eng/pages/applynow.html" class="topnav"><nobr>&nbsp;&nbsp;Apply Now&nbsp;&nbsp;</nobr></a></td>
+					<td class="topnav"><img src="/wamu/images/blueline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+					<td class="topnav"><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/redirect.html?RedirectURL=http://clients.mapquest.com/wamu/mqlocator?link=findusmain" class="topnav"><nobr>&nbsp;&nbsp;Find Us&nbsp;&nbsp;</nobr></a></td>
+					<td class="topnav"><img src="/wamu/images/blueline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+					<td class="topnav"><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/ecare/ways.html" class="topnav"><nobr>&nbsp;&nbsp;Contact Us&nbsp;&nbsp;</nobr></a></td>
+					<td class="topnav"><img src="/wamu/images/blueline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+					<td class="topnav"><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/help.html" class="topnav"><nobr>&nbsp;&nbsp;Help&nbsp;&nbsp;</nobr></a></td>
+					<td class="topnav"><img src="/wamu/images/blueline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+					<td class="topnav"><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/search.html" class="topnav"><nobr>&nbsp;&nbsp;Search&nbsp;&nbsp;</nobr></a></td>
+					<td class="topnav"><img src="/wamu/images/blueline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+					<td class="topnav"><a href="http://www.wamu.com/servlet/wamu/index.html" class="topnav"><nobr>&nbsp;&nbsp;Home&nbsp;&nbsp;</nobr></a></td>
+					<td><img src="/wamu/images/1px_white.gif" border="0" width="5" height="1" alt=""></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" colspan="3" bgcolor="#000099">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="198"><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/index.html"><img src="/wamu/images/personalbanking.gif" width="198" height="48" alt="Personal Banking" border="0"></a></td>
+					<td valign="bottom"><a href="/servlet/wamu/online/eng/pages/logon.html"><img src="/wamu/images/onlinebanking_tab.gif" width="123" height="29" alt="Online Banking" border="0"></a></td>
+					<td width="4"><img src="/wamu/images/1px_clear.gif" width="4" height="1" alt="" border="0"></td>
+					<td valign="bottom"><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/accounts.html"><img src="/wamu/images/accountchoices_tab.gif" width="123" height="29" alt="New Account Choices" border="0"></a></td>
+					<td width="4"><img src="/wamu/images/1px_clear.gif" width="4" height="1" alt="" border="0"></td>
+					<td valign="bottom"><a href="http://www.wamu.com/clending/loansCredit.jsp"><img src="/wamu/images/loanscreditcards_tab.gif" width="123" height="29" alt="Loans &amp; Credit Cards" border="0"></a></td>
+					<td width="4"><img src="/wamu/images/1px_clear.gif" width="4" height="1" alt="" border="0"></td>
+					<td valign="bottom"><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/ecare.html"><img src="/wamu/images/customerservice_tab.gif" width="123" height="29" alt="Customer Service" border="0"></a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+<!--Sub Nav Bar -->
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="144"><img src="/wamu/images/1px_white.gif" width="4" height="1" alt="" border="0"><a href="https://www.wamu.com/LogonWizard/SignOn/Logon.jsp"><img src="/wamu/images/logon_button.gif" width="138" height="23" alt="Log On" border="0"></a></td>
+	</tr>
+	<tr><td><img src="/wamu/images/1px_white.gif" width="1" height="4" alt="" border="0"></td></tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+ <tbody><tr>
+	<td valign="top" align="left">
+		<table border="0" cellspacing="0" cellpadding="0" width="100%" valign="top">
+        	<tbody><tr>
+            	<td width="144" align="left" valign="top">
+                <!-- ad column -->
+                			
+	<table border="0" cellpadding="0" cellspacing="0" width="142">
+		<tbody><tr class="mainbluebgtrue">
+			<td width="4" rowspan="20" bgcolor="#ffffff"><img src="/wamu/images/1px_white.gif" width="4" height="1" alt="" border="0"></td>
+			<td width="10" valign="bottom"><img src="/wamu/images/subnav_ltmainblue_topleftcorner.gif" width="10" alt="" border="0"></td>
+			<td width="118"><a href="privacy.html" class="footer3selected">Your Privacy</a></td>
+			<td width="10" valign="bottom"><img src="/wamu/images/subnav_ltmainblue_toprightcorner.gif" width="10" alt="" border="0"></td>
+		</tr>		
+		<tr><td colspan="3" class="mainbluebgtrue"><img src="/wamu/images/1px_ltmainblue.gif" width="1" height="1" alt="" border="0"></td></tr>
+		<tr class="mainbluebg">
+			<td width="10" valign="bottom"><img src="/wamu/images/subnav_mainblue_botleftcorner.gif" width="10" alt="" border="0"></td>
+			<td width="118"><a href="security.html" class="footer3">Your Security</a></td>
+			<td width="10" valign="bottom"><img src="/wamu/images/subnav_mainblue_botrightcorner.gif" width="10" alt="" border="0"></td>
+		</tr>
+		<tr>
+			<td width="10"><img src="/wamu/images/1px_white.gif" width="10" height="4" alt="" border="0"></td>
+			<td width="118"><img src="/wamu/images/1px_white.gif" width="118" height="4" alt="" border="0"></td>
+			<td width="10"><img src="/wamu/images/1px_white.gif" width="10" height="4" alt="" border="0"></td>
+		</tr>
+	</tbody></table>
+
+                </td>
+
+     			<td width="31"><img src="/wamu/images/1px_white.gif" border="0" width="31" height="1"></td>
+
+                <td valign="top" align="left" width="100%">
+                	<table border="0" cellspacing="0" cellpadding="0" width="100%" valign="top">
+
+                      	<tbody><tr>
+	<td colspan="2"><img border="0" width="1" height="13" src="/wamu/images/1px_white.gif"></td>
+</tr>
+                        <tr>
+						<!-- Header Graphics -->
+             					<td width="100%" align="left" valign="top" class="contentHdr14MainBlue">Your Privacy</td>
+
+                        </tr>
+                        <tr>
+	<td colspan="2"><img border="0" width="1" height="13" src="/wamu/images/1px_white.gif"></td>
+</tr>
+
+                        <tr>
+                        	<td width="100%" align="left" valign="top" colspan="2">
+							<!-- Main Content -->                                                                             
+                    		<span class="mainfont"><b>Your Privacy</b>
+<br>At Washington Mutual, respecting the privacy and security of your personal information is important to us.  We know, however, that not everyone who takes their privacy seriously is necessarily well-versed in "legal or regulatory-ese." There are plenty of legal terms in Washington Mutual's own privacy policy, which you will find on the following pages.  We urge you to read it carefully, and make note of your rights under this policy.  We've tried to provide easy-to-understand  explanations of the most frequently used legal terms -- terms we are required to use to ensure clarity and consistency.  We want to make sure that your personal information is protected, and that you understand the policies that protect you.  You'll find the same terms used in many companies' privacy policies.
+<br>
+<p><b>Cookies &amp; Browsers</b><br>
+This site uses a feature of your browser called a "cookie" to assign a "User I.D.".  Cookies, by themselves, cannot be used to find out the identity of any user.  Your Washington Mutual User ID automatically identifies your computer - but not you - to our servers when you visit wamu.com or other Washington Mutual Web sites.  Unless you specifically tell us who you are (for example by completing an application), if you are just browsing our site, we will never know who you are even though we assign you a cookie. This site contains links to other sites.  If you use a link to visit the site of another company, we cannot be responsible for the privacy practices or the content of that company or its site.</p>
+<p><b>Safeguarding Customer Information</b><br>
+We only grant access to nonpublic personal information about you (such as your name, address, social security number and credit history) to company employees and affiliated and non-affiliated service providers so that they can provide or offer products and services to you, process and service your accounts, and administer our business.</p>
+<p>Our Code of Conduct requires that your information remain confidential. Even if you are no longer our customer, we will continue to treat your nonpublic personal information in the same way as if you were still a customer. In addition, we maintain physical, electronic and procedural safeguards that comply with federal standards to guard this personal information.  Some state laws may further restrict the sharing of your nonpublic personal information.</p>
+<p><b>Collection of Information</b><br>
+We collect nonpublic personal information about you from the following sources: 
+</p><ul>
+<li>From you, on forms, via the Internet, by telephone or otherwise. Examples of this type of information include your name, address, social security number, credit history and other financial information.</li>
+<li>From transactions with us, our affiliates or with others. For example, your payment histories, account balances, and other transaction records.</li>
+<li>From credit reporting agencies, such as information relating to your creditworthiness, your credit score and credit usage.</li>
+<li>From third parties to verify information you have given us.</li>
+</ul>
+<b>Uses of Shared Information</b><br>
+We may share all the information that we collect, as described above, for the following purposes: 
+<ul>
+<li>To provide you with the products and services you requested.</li>
+<li>To offer you additional products and services, from us or from others, that may be of interest to you.</li>
+<li>To comply with reporting and other legal requirements.</li>
+<li>To otherwise conduct business.</li>
+</ul>
+
+<b>Information Sharing Among Our Family of Affiliated Companies*</b><br>
+Washington Mutual, Inc. is the holding company for a group of companies which includes financial services providers such as depository institutions, insurance agencies, mortgage companies, consumer finance companies and securities broker-dealers. Any company that is owned or controlled by Washington Mutual, Inc. is an "affiliate" or an "affiliated company" of all of the other companies owned by Washington Mutual, Inc.
+<p>Under the Federal Fair Credit Reporting Act, we are permitted to share your name, address and facts about your transactions and experience with us (such as your payment history and other transactions on your accounts with us) among our affiliated companies. That information is referred to in this Privacy Policy as "transaction information."</p>
+<p>Unless you request otherwise, we also share all of the <em>other</em> information we collect among our affiliated companies. This information - that is, information other than transaction and experience information - is referred to in this Privacy Policy as "other information." You have the right to ensure that other information is not shared with our affiliates.  <u>If you don't want us to share this information with our affiliates, please call our Customer Contact Center at 800-533-3534 to opt out.</u></p>
+<p>Once we receive your opt out request, we will stop sharing this information as soon as reasonably practical.  Your opt out will apply to all accounts you hold individually and to all accounts you hold jointly with other persons. Your opt out will not apply, however, to any accounts your joint account holders hold individually or jointly with persons other than you. If your joint account holders wish to opt out as to such other accounts, they will need to submit a separate opt out request.</p>
+
+<p><b>Information Sharing with Nonaffiliated Third Parties as Permitted by Law</b><br>
+We are permitted by law to share all the information we collect, as described above, with (1) companies that perform marketing services on our behalf and (2) with other financial institutions with whom we have joint marketing arrangements. For example, we may share information with financial services providers with which we offer products such as credit cards or accelerated loan payment programs.</p>
+<p>We may also share all the information we collect, as described above, with other nonaffiliated third parties that assist us with preparing monthly statements and with the processing and printing of checks. These other nonaffiliated third parties also include credit reporting agencies to whom we report information about your transactions with us.</p>
+<p><em>Please be advised that the opt out rights described below will not apply to the sharing of information with these third parties or to the sharing of information with marketing service providers and joint marketers as described above.</em></p>
+
+<p><b>Information Sharing with Other Nonaffiliated Third Parties and Your Opt Out Rights</b><br>
+Unless you request otherwise, we may share all the information we collect, as described above, with additional types of nonaffiliated third parties, such as:
+</p><ul>
+<li>Financial service providers, such as life insurance companies for whom one or more of our affiliates acts as agents.</li>
+<li>Nonaffiliated companies, such as firms that offer value-added packages of products and services (including discounted travel services, discounted hotel accommodations and shopping services.)</li>
+</ul>
+<p><u>If you prefer that we not share nonpublic personal information with these nonaffiliated third parties, you may opt out of those disclosures (other than those permitted by law) by calling our Customer Contact Center at 800-533-3534.</u></p>
+<p>We will stop sharing this information as soon as reasonably practical. Again, your opt out will apply to all accounts you hold individually and to all accounts you hold jointly with other persons. Your opt out will not apply, however, to any accounts your joint account holders hold individually or jointly with persons other than you. If your joint account holders wish to opt out as to such other accounts, they will need to submit a separate opt out request.</p>
+
+<p><b>Sharing of Nonpublic Personal Health Information</b><br>
+If you engage in an insurance transaction with or through us, we may collect nonpublic personal health information about you. We <b>do not</b> share nonpublic personal health information with any nonaffiliated third party unless you have authorized the disclosure, the disclosure is made in connection with an insurance transaction that was initiated by you or the disclosure is otherwise permitted by law.</p>
+
+<p><b>Your Opt-Out Options</b><br>
+If you wish to direct Washington Mutual to stop sharing certain nonpublic personal information about you with our affiliated companies and nonaffiliated third parties, please call our Customer Contact Center at 800-533-3534 to opt out, or you may send your instructions to Washington Mutual, PO Box 2430, Chatsworth, CA  91313-2430.  <b>If you have previously opted out, you will <u>not</u> need to do so again, unless you are establishing a new customer relationship with us.</b>  <em>If you are calling to opt out of a newly established WM Financial Services relationship, please wait 10 days before calling to give us your opt out preferences.  We will not share your nonpublic personal information (except as permitted by law) during this 10-day period.</em></p>
+<p><b>Option 1:</b>&nbsp; Directs Washington Mutual not to share nonpublic personal information with <b>nonaffiliated third parties</b>.</p>
+<p><u>What this means:<br></u>You direct Washington Mutual not to share nonpublic personal information about you with nonaffiliated third parties except as permitted by law.  These exceptions include companies that perform marketing services on our behalf, other financial institutions with whom we have joint marketing arrangements, other nonaffiliated service providers  (such as those that assist us with monthly statement preparation and check printing and processing), and credit reporting agencies to whom we report information about your transactions with us.</p>
+<p><b>Option 2:</b>&nbsp; Directs Washington Mutual not to share nonpublic personal information with Washington Mutual's <b>affiliated companies</b>.</p>
+<p><u>What this means:<br></u>You direct Washington Mutual not to share nonpublic personal information about you among its affiliated companies except as permitted by law. You will continue to receive mailings and advertisements from the Washington Mutual company/companies with which you do business.</p>
+<p><b>Option 3:</b>&nbsp; Directs Washington Mutual not to share nonpublic personal information with nonaffiliated third parties or among its affiliates, except as permitted by law.</p>
+<p><u>What this means:<br></u>Washington Mutual will not share your nonpublic personal information with either nonaffiliated third parties or among its affiliates, unless permitted by law.</p>
+<p>Please note that, even if you opt out, you may still receive advertising and other marketing materials if those materials can be provided without violating your opt out instructions.</p>
+<p>Please note that, even if you opt out, you may still receive advertising and other marketing materials if those materials can be provided without violating your opt out instructions. </p>
+</span>
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+	<tr>
+		<td class="minifont"><em>*This Privacy Policy applies to the following Washington Mutual companies and divisions:  Long Beach Mortgage Company, Washington Mutual Bank, Washington Mutual Bank fsb, Washington Mutual Bank, FA, WMBFA Insurance Agency, Inc, Washington Mutual Finance, Washington Mutual Finance Group, LLC, Washington Mutual Finance of Florida, LLC, Washington Mutual Finance of Mississippi, LLC, Washington Mutual Finance of North Carolina, LLC, Washington Mutual Finance of Virginia, LLC, Washington Mutual Finance, Inc., Washington Mutual Finance, LLC, WMFS Insurance Services of Idaho, Inc., WMFS Insurance Services of Nevada, Inc., WMFS Insurance Services, Inc., WM Financial Services, Inc., WM Insurance Agency, Inc., Washington Mutual Insurance Agency, Washington Mutual Insurance Services, Inc., Western Bank, Washington Mutual Finance Inc. of Kansas, Washington Mutual Finance, LP, Commerce Service Corporation, WM Insurance Services, Norstar Mortgage Corp, WM Specialty Mortgage LLC, North American Mortgage Company.</em></td></tr>
+</tbody>
+</table>
+<br>
+<span class="mainfont">
+<p><b>Other Ways to Protect Your Privacy</b></p>
+<p><u>Marketing Lists</u><br>You can reduce the amount of marketing material and credit applications you receive via mail, telephone or e-mail by writing the Direct Marketing Association at the addresses listed below. You must provide your name, address and telephone number with your request.<br>
+</p><p>Mail Preference Service<br>
+c/o Direct Marketing Assn.<br>
+P.O. Box 9008<br>
+Farmingdale, NY&nbsp; 11735-9008</p>
+
+<p>Telephone Preference Service<br>
+c/o Direct Marketing Assn.<br>
+P.O. Box 9014<br>
+Farmingdale, NY&nbsp; 11735-9014</p>
+
+<p>E-mail Preference Service<br>
+<a href="http://www.e-mps.org">www.e-mps.org</a></p>
+
+<p><u>Identity Theft</u><br>
+Identity theft is a serious and growing problem. If someone has fraudulently used your identification to establish credit, report the incident as quickly as possible to each of the credit reporting agencies listed below and ask that a fraud report be placed on your file.</p>
+<p>Experian&nbsp;888-397-3742<br>
+Equifax&nbsp;&nbsp;800-525-6285<br>
+Trans Union&nbsp;800-680-7289 </p>
+
+<p>You may also check to see if any additional credit accounts have been opened without your consent or whether unauthorized charges were billed to your accounts. Contact these credit reporting agencies to obtain a copy of your credit report.</p>
+
+<p>Experian&nbsp;888-397-3742<br>
+<a href="http://www.wamu.com/clending/orderCredit.jsp">Equifax</a>&nbsp;&nbsp;800-685-1111<br>
+Trans Union&nbsp;800-916-8800 </p>
+<p>Please note that this contact information is being provided as a service to you.  Washington Mutual is not affiliated with any of these services and cannot guarantee their effectiveness.<br></p></span>
+<br>
+							</td>
+                        </tr>
+                    </tbody></table>
+                </td>
+                <td width="31"><img src="/wamu/images/1px_white.gif" border="0" width="31" height="1"></td>
+            </tr>
+        </tbody></table> 
+    </td>
+</tr>
+
+	<tr>
+		<td width="100%" align="left" valign="top"><img src="/wamu/images/space.gif" border="0" width="1" height="72"></td>
+	</tr>
+<!-- Footer Nav -->
+	<tr>
+		<td valign="top">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#000099" height="40">
+				<tbody><tr>
+					<td width="14"><img src="/wamu/images/1px_mainblue.gif" border="0" width="14" height="39"></td>
+					<td width="50%" valign="middle">
+						<table cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/index.html" class="footer2selected"><nobr>&nbsp;&nbsp;Personal Banking&nbsp;&nbsp;</nobr></a></td>
+								<td><img src="/wamu/images/whiteline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+								<td><a href="http://business.wamu.com" class="footer2"><nobr>&nbsp;&nbsp;Business Banking&nbsp;&nbsp;</nobr></a></td>
+								<td><img src="/wamu/images/whiteline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+								<td><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/redirect.html?RedirectURL=http://www.wmfinancial.com/wmfs/wm-index.html" class="footer2"><nobr>&nbsp;&nbsp;Investments&nbsp;&nbsp;</nobr></a></td>
+							</tr>
+							<tr><td><img src="/wamu/images/1px_mainblue.gif" border="0" width="1" height="1"></td></tr>
+						</tbody></table>
+						<table cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/redirect.html?RedirectURL=http://www.wamuhomeloans.com" class="footer2"><nobr>&nbsp;&nbsp;Home Loans&nbsp;&nbsp;</nobr></a></td>
+								<td><img src="/wamu/images/whiteline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+								<td><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/redirect.html?RedirectURL=http://www.wamuins.com" class="footer2"><nobr>&nbsp;&nbsp;Insurance&nbsp;&nbsp;</nobr></a></td>
+								<td><img src="/wamu/images/whiteline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+								<td><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/about/index.html" class="footer2"><nobr>&nbsp;&nbsp;About WaMu&nbsp;&nbsp;</nobr></a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td width="50%" valign="middle" align="right">
+						<table cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td class="link"><nobr><a href="http://www.wamu.com/servlet/wamu/public/eng/pages/terms.html" class="footer3"><u>Terms of Use</u></a>&nbsp;&nbsp;</nobr></td>
+								<td class="link"><img src="/wamu/images/whiteline_vertical.gif" width="1" height="10" alt="" border="0"></td>
+								<td class="link"><nobr>&nbsp;&nbsp;<a href="http://www.wamu.com/servlet/wamu/public/eng/pages/privacy.html" class="footer3true"><u>Your Privacy</u></a></nobr></td>
+								<td width="14"><img src="/wamu/images/1px_mainblue.gif" border="0" width="14" height="1"></td>
+							</tr>
+						</tbody></table>
+						<table cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr><td><img src="/wamu/images/1px_mainblue.gif" border="0" width="1" height="1"></td></tr>
+							<tr>
+								<td class="footercopy" align="right" colspan="3"><nobr>©&nbsp;Copyright 2002, Washington Mutual, Inc. All Rights Reserved</nobr></td>
+								<td width="14"><img src="/wamu/images/1px_mainblue.gif" border="0" width="14" height="1"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td width="697" colspan="3"><img src="/wamu/images/1px_mainblue.gif" border="0" width="697" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+</tbody></table>
+<!-- Layers etc -->
+
+
+
+
+
+			</body></html>
