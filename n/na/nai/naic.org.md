@@ -1,0 +1,38 @@
+> *The following text is extracted and transformed from the naic.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401170426id_/http%3A//www.naic.org/about/privacy_statement.htm) for the most accurate reproduction.*
+
+# NAIC Privacy Statement
+
+**NAIC Privacy Statement**
+
+Welcome to the National Association of Insurance Commissioners ("NAIC") Web Site. Because your privacy on-line is very important to us, we want you to understand the NAIC’s practices with regard to collecting and using your information. This privacy statement explains the privacy practices for the following NAIC Web Sites: [www.naic.org;](http://www.naic.org/) [www.serff.com](http://www.serff.com/) [www.carfra.org](http://www.carfra.org/). The NAIC’s Privacy Statement is not intended to supercede or modify the terms of any license agreement between NAIC and a third party and where inconsistent, the terms of the license agreement control.
+
+**_Collection, Use and Disclosure of Information  
+_**You do not need to reveal any personally identifiable information to browse the NAIC Web Sites.
+
+**_Customer Information  
+_**If you order an NAIC product or register for an education or training course or a meeting online, the NAIC collects your name, address, telephone number, e-mail address, company name, and company size. The NAIC collects this information for purposes of fulfilling orders for products, registering for courses and NAIC meetings, and billing. The NAIC may also use this information to create general mailing lists to send customers marketing and other promotional material. The NAIC also collects credit card information if you are making an online purchase. The NAIC uses this information for billing purposes only.
+
+If you subscribe or utilize an NAIC online service including the I-SITE System (accessible only by State Insurance Departments); the Automated Valuation System; the ATF and the System for Electronic Rate and Form Filing, the NAIC collects your name, address, telephone number, facsimile number, and e-mail address. The NAIC collects this information for the following purposes: problem resolution, security/authentication, aggregate usage reports. The NAIC may also use this information to create general mailing lists to send user notices as well as marketing and other relevant information to customers.
+
+The NAIC collects and stores the Internet protocol (the IP address) of the computer you are using, and the date and time you accessed the NAIC site. The NAIC also tracks the pages or documents accessed within its site. This information is collected for systems administration and for analyzing and improving the value of the material available on the NAIC Web Sites.
+
+The main NAIC Web Site is portal based and relies upon "cookies" to tailor the information delivered to the user. Cookies are small web-generated files that are stored on your computer hard drive in order to collect information about your activities on a particular web site. The NAIC utilizes cookies to monitor security, navigation and usage of the NAIC Web Sites.
+
+The NAIC uses information collected over the Internet to process your requests, communicate back to you and improve our web sites. The NAIC may share the information mentioned above with its non-profit affiliate the National Insurance Producer Registry ("NIPR") for these purposes. The NAIC does not provide customer information collected over the Internet to third parties other than in aggregated form.
+
+**_Information Submitted in an Online Application  
+_**Certain NAIC online applications collect information for purposes of transmitting the information to state insurance departments (e.g., SERFF) and/or processing the information for the user (e.g. AVS). These online applications require the user to enter into a license agreement with the NAIC. The license agreement governs the collection, use and disclosure of information while in these applications and where the terms of this Privacy Statement are inconsistent, the license agreement supercedes.
+
+Insurance companies electronically file annual and quarterly statements as well as other filing information with the NAIC. The NAIC compiles this information into a proprietary database for purposes of assisting its members, state insurance regulators, in carrying out their respective regulatory functions. The NAIC also sells non-confidential information from this proprietary database to customers subject to a license agreement.
+
+**_Security of Information  
+_**The NAIC views security of confidential and private information as a top priority. The NAIC provides secure transmission of sensitive and personal information from your computers to the NAIC’s Web Servers. For instance, when credit card information is transmitted, the NAIC uses the industry standard SSL (security socket layer) encryption. SSL encryption is a state-of-the-art technology by which information is encrypted while being transmitted over the Internet. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure and the NAIC does not ensure or warrant the security of the transmission of information. Once the information is received by the NAIC via the web site, it is stored behind a firewall. The NAIC also maintains access control procedures. All NAIC and NIPR employees are aware of the privacy and security policies. Your information is only accessible to those employees who have a legitimate need for the information in order to perform their jobs.
+
+**_Correction and Opt-Out Procedures  
+_**If your personally identifiable customer information changes, we will endeavor to correct, update or remove the personal data provided to us. Please visit the Web page www.naic.org/1misc/webinfo.htm to find the contact information or send your request for change to the Help Desk at help@naic.org. If you no longer wish to receive NAIC newsletters, promotional materials or other electronic communications, you may opt-out by replying to the NAIC e-mail and inserting the term "unsubscribe" in the subject line or by sending an e-mail to the Help Desk at help@naic.org
+
+**_Links to Other Web Sites  
+_**The NAIC provides links to third-party web sites as a convenience to its users. The inclusion of any link does not imply an endorsement or recommendation of the third-party organization, its web site, or its products and services. The NAIC has not reviewed and is not responsible for the privacy practices or content of such web sites.
+
+**_Notification of Change  
+_**The NAIC reserves the right to change its privacy policy. The most current privacy policy will be posted on the NAIC Web Sites so you are always aware of what information the NAIC collects, how it is used, and under what circumstances, if any, it is disclosed. If at any point the NAIC decides to use personally identifiable information in a manner different from that stated at the time it was collected, the NAIC will notify users by way of an e-mail. The NAIC will provide a method for a user to opt-out of using their information in this different manner.
