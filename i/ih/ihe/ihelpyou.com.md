@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihelpyou.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202414id_/http%3A//www.ihelpyou.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihelpyou.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204041938id_/http%3A//www.ihelpyou.com/privacy.htm) for the most accurate reproduction.*
 
-# A free money and web site submission services site!
+# Privacy Policy - ihelpyou, Inc.
 
 ihelpyou, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: ihelpyou, Inc.
 
@@ -44,14 +44,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Doug Heil  
 ihelpyou, Inc.  
-1481 Center Street Extension Suite #1605  
+1182 Rosemead Road  
 Mount Pleasant, South Carolina 29464   
 doug at ihelpyou.com  
-(843) 200-5705  
-  
-ihelpyou, Inc.  
-1481 Center Street Extension | Suite #1605 | Mount Pleasant, South Carolina 29464  
-| Two miles from the Atlantic Ocean! |  
-**Toll-Free (888) 795-3154 | International (843) 200-5705**  
-Copyright © 1998-2004 ihelpyou, Inc., All rights reserved.  
-"search engine optimization - registration - placement - web site submission" 
+(843) 200-5705
