@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlead.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604211041id_/http%3A//www.carlead.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlead.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213021818id_/http%3A//carlead.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CarSmart
 
@@ -109,3 +109,5 @@ If you have any questions, concerns or suggestions regarding our privacy and sec
 For any other issues, please contact our customer service department at ConsumerCare@carsmart.com. Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400 
 
 For the Carsmart.com Usage Terms and Conditions please [click here](https://web.archive.org/content/home/help/index.cfm?id=10007;CRSM&action=terms). 
+
+Effective Date: July 23, 2003 
