@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yolinux.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211190153id_/http%3A//www.yolinux.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolinux.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205062349id_/http%3A//yolinux.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -8,7 +8,7 @@ Our postal address is
 **151 S. W. Plaza #319  
 Arlington, TX, 76016-4453**
 
-We can be reached via [e-mail](mailto:y11302004@yo-linux.com)
+We can be reached via [e-mail](mailto:y02012005@yo-linux.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
