@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budget.com.au privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602191402id_/http%3A//www.budget.com.au/about_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budget.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203030826id_/http%3A//www.budget.com.au/about_privacy.php) for the most accurate reproduction.*
 
 # Budget Australia >> Privacy Policy
 
