@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621204918id_/http%3A//www.infospace.com/home/about/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208124520id_/http%3A//www.infospace.com/home/about/corporate/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - InfoSpace
 
@@ -36,7 +36,7 @@ InfoSpace Sites may use third party service providers to serve ads and e-mails o
 
 **Mergers; Business Transitions**  
 In the event InfoSpace goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. **Choice/Opt-out**  
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communcations from us, please email us at [privacy@infospace.com](mailto:privacy@infospace.com). 
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please email us at [privacy@infospace.com](mailto:privacy@infospace.com). 
 
 If you have questions about public record information available through the Public Records service, please go to the following web site for additional information: <http://www.infospace.com/home/tads/help/contactus.htm>. 
 
