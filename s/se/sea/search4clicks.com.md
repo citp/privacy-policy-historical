@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search4clicks.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608003358id_/http%3A//www.search4clicks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search4clicks.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013055536id_/http%3A//www.search4clicks.com/privacy.asp) for the most accurate reproduction.*
 
 # Search4Clicks.com - Privacy Policy
 
