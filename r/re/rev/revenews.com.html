@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the revenews.com privacy policy that was archived on 2001-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217064921id_/http%3A//www.revenews.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the revenews.com privacy policy that was archived on 2002-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604011045id_/http%3A//www.revenews.com/about/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>ReveNews.com - Privacy Statement</title>
@@ -43,8 +43,50 @@ window.open(RS_URL,"RSWindow",'toolbar=0,location=0,directories=0,status=0,menub
 <td width="100%" valign="bottom" align="right">
 <img src="image/trans_spacer.gif" height="26" width="2" border="0" align="right">
 <font face="Verdana, Arial, Geneva, Futura" size="1" color="#000000"><b>
-<a href="about/firstime.html"><font color="#000000">first time visitor?</font></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="cgi-bin/restack/digest/edit.cgi"><font color="#000000">change your settings?</font></a>
-<br>
+<!-- <a href="about/firstime.html"><font color="#000000">first time visitor?</font></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="cgi-bin/restack/digest/edit.cgi"><font color="#000000">change your settings?</font></a> -->
+
+<script language="JavaScript">
+function getCookie(cname) {
+   var pfx = cname + "=";
+   var cook = document.cookie;
+   var sidx = cook.indexOf("; " + pfx);
+   var def = "NoCookie";
+
+   if (sidx == -1) {
+      sidx = cook.indexOf(pfx);
+      if (sidx != 0) return def;
+   }else{
+      sidx += 2;
+   }
+
+   var eidx = document.cookie.indexOf(";", sidx);
+
+   if (eidx == -1) eidx = cook.length;
+ 
+   unesc_cook = unescape(cook.substring(sidx + pfx.length, eidx)); 
+   return unesc_cook;
+}
+
+
+   var def = "NoCookie";
+
+   var name = getCookie("REV_Name");
+   var email = getCookie("REV_Email");
+   var pwd = getCookie("REV_Pwd");
+
+   if (email != "" && email != def && pwd != "" && pwd != def){
+      // Logged in
+      // document.writeln("<p>");
+      document.writeln("Welcome back, " + name + ": <a href='http://www.revenews.com/cgi-bin/restack/edit.cgi?mode=Auto_Login'><font color='#000000'>your settings</font></a> | <a href='http://www.revenews.com/cgi-bin/restack/logout.cgi'><font color='#000000'>logout</font></a>");
+      // document.writeln("<p>");
+   }else{
+      // Logged out
+      // document.writeln("<p>");
+      document.writeln("You are not logged in: <a href='http://www.revenews.com/cgi-bin/restack/login.cgi'><font color='#000000'>login here</font></a>");
+      // document.writeln("<p>");
+}
+</script>You are not logged in: <a href="http://www.revenews.com/cgi-bin/restack/login.cgi"><font color="#000000">login here</font></a>
+
 </b></font>
 </td>
 </tr><tr>
@@ -63,9 +105,9 @@ window.open(RS_URL,"RSWindow",'toolbar=0,location=0,directories=0,status=0,menub
 <td align="center">
 <a href="/archives/"><font face="Arial, Geneva, Futura" size="3" color="#FFFF00"><b>NEWS</b></font></a>
 </td>
-<td align="center">
-<a href="/research/"><font face="Arial, Geneva, Futura" size="3" color="#FFFF00"><b>RESEARCH</b></font></a>
-</td>
+<!-- <td align=center>
+<a href="/research/"><font face="Arial, Geneva, Futura" size=3 color="#FFFF00"><b>RESEARCH</b></font></a>
+</td> -->
 <td align="center">
 <a href="/advice/"><font face="Arial, Geneva, Futura" size="3" color="#FFFF00"><b>ADVICE</b></font></a>
 </td>
@@ -324,9 +366,7 @@ A few of the most recent posts to the <a href="/opinion/"><font color=#FFFF00><B
 <td width="100%" valign="top">
 
 <center>
-<!--NUWM code starts now-->
-<a href="http://www.myaffiliateprogram.com/u/nuwealth/up.asp?i=1019">
-<img src="http://www.myaffiliateprogram.com/u/nuwealth/showban.asp?id=1019&amp;img=2_468x60_gift.gif" border="0"></a>
+<a href="http://www.revenews.com/cgi-bin/ams/ams_ssi.cgi?mode=REDIR&amp;ad=ReveNews_Signup_468x60" target="New"><img src="/ads/revebanner.gif" alt="Become a ReveNews Member Today! It's Free!" height="60" width="468" border="0"></a> 
 
 </center><p>
 
@@ -425,7 +465,7 @@ If you have any questions about this privacy statement, ReveNews.com practices, 
 <td bgcolor="#66FF00" width="100%" align="center" valign="top">
 <font face="Verdana, Arial, Geneva, Futura" size="1" color="#000000">
 <img src="image/bright_spacer.gif" height="12" width="2" border="0" align="left">
-Copyright © 1998-2001, <a href="http://www.gmdstudios.com" target="outside"><b><font color="#000000">GMD Studios</font></b></a> (unless otherwise noted). All rights reserved.</font><br>
+Copyright © 1998-2002, <a href="http://www.gmdstudios.com" target="outside"><b><font color="#000000">GMD Studios</font></b></a> (unless otherwise noted). All rights reserved.</font><br>
 </td>
 </tr><tr>
 <td width="100%" valign="bottom" align="right">
@@ -433,6 +473,7 @@ Copyright © 1998-2001, <a href="http://www.gmdstudios.com" target="outside"><b>
 </td>
 </tr>
 </tbody></table>
+
 
 
 </p></body></html>
