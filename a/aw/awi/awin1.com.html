@@ -1,0 +1,439 @@
+<!--The following is the downloaded HTML source of the awin1.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605041525id_/http%3A//www.affiliatewindow.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>affiliate software with all of the advantages of an affiliate network</title>
+<meta name="description" content="affiliate software with all of the advantages of an affiliate network without the restrictions. Affiliate tracking and management solution for running an affiliate program">
+<meta name="keywords" content="affiliate software, program, marketing, network, tracking, commission, advertising, banner ads, text links">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="StyleSheet" href="/stylesheet.css" type="text/css" media="screen">
+
+<script src="/merchants/sm1.js" language="JavaScript1.2">
+</script>
+
+
+
+<script language="javascript1.2" type="text/javascript">
+<!--
+var barText="MENU: ID"; 
+//-->
+</script>
+
+<script language="javascript" type="text/javascript">
+
+
+function popup( daLink ) {
+	var comwin = window.open(daLink,'popup','width=700,height=450,scrollbars=yes,resizable=yes');
+	    comwin.focus() ;	    
+}
+
+function findObj(n, d) { 
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+  d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function show(n){
+	urlObject = findObj ('urlForm');
+	webObject = findObj ('webForm');
+
+	su="none"; sw="none"
+	if (n=='url') {
+	  su="";
+	} 
+	else { 
+		sw="";
+	}
+	if (urlObject)   urlObject.style.display=su; 
+	if (webObject)   webObject.style.display=sw;
+}
+
+function showpayment(n){
+	urlObject = findObj ('bankSortCode');
+	acNumObject = findObj ('bankAccountNumber');
+	acNameObject = findObj ('bankName');
+	acAccountNameObject = findObj ('bankAccountName');
+	webObject = findObj ('chequeForm');
+
+	su="none"; sw="none"
+	if (n==1 ||n==0) {
+	  su="";
+	} 
+	else { 
+		sw="";
+	}
+	if (urlObject)   urlObject.style.display=su;
+	if (acNumObject)   acNumObject.style.display=su;
+	if (acNameObject)   acNameObject.style.display=su;
+	if (acAccountNameObject)   acAccountNameObject.style.display=su;
+
+	if (webObject)   webObject.style.display=sw;
+}
+
+
+
+function exampleDelete(){
+	//alert(addForm.linkurl.value);
+	if (messageform.message.value == "eg, Hi !!!name!!!"){
+	messageform.message.value = "";
+	}
+}
+
+function searchCheck(sortForm){
+	//alert (sortForm.search_type.value)
+	var error = "";
+	if (sortForm.search_type.value == "id"){
+		var digits = "0123456789 ";
+		for (var i = 0; i < sortForm.searchit.value.length; i++){
+		temp = sortForm.searchit.value.substring(i, i+1);
+			if (digits.indexOf(temp) == -1 && sortForm.searchit.value != ""){
+			  error += "Please use numbers only to search by id.\n";
+			  break;
+			}
+		}
+	}
+	if (error != ""){
+		alert(error);
+		return (false);
+	} 
+	else {
+		return (true);
+	}
+}
+var submission;
+submission = 0;
+function manCommissionSubmit(){
+	submission++;
+	if (submission >1){
+	alert("Commission is being added, please wait...");
+	return false;
+	}
+	else{
+		return true;
+	}
+}
+function emailFormwin(winHeight,winWidth){
+	windowUrl = "emailaffiliates.php";
+	msgWindow=window.open(windowUrl,"displayWindow","toolbar=no,width="+winWidth+",height="+winHeight+",directories=no,status=no,scrollbars=yes,resizable=yes,menubar=no");
+}
+
+function goto(goToUrl){
+	window.location.href=goToUrl
+}
+function statusWin(winHeight,winWidth){
+	var f = document.validateform;
+	var validateNumber;
+	validateNumber = 0;
+	for(var i = 0; i < f.elements.length; i++) {
+		//	  alert (f.elements[i].type);
+		if(f.elements[i].type == "radio" && f.elements[i].value == 1 && f.elements[i].checked == true)
+		validateNumber++;
+	}
+	if (validateNumber > 5) {
+		windowUrl = "validatewait.php?validatenumber="+validateNumber;	msgWindow=window.open(windowUrl,"displayWindow","toolbar=no,width="+winWidth+",height="+winHeight+",directories=no,status=yes,scrollbars=yes,resizable=no,menubar=no");
+	}
+}
+function closeWaitWin(){
+	msgWindow.close()
+}
+
+function maxreload(){
+	var maxperscreen = document.validateform.maxperscreen.options[document.validateform.maxperscreen.selectedIndex].value;
+    location.href = "/privacy.php?startno=&sortby=&maxperscreen="+maxperscreen
+} // end func
+
+
+function clearSearchit(){
+	if (document.sortForm.searchit.value != ""){
+		document.sortForm.searchit.value = ""	
+    }
+	document.sortForm.search_type.selectedIndex = 0;
+} 
+
+function clearFilterForm(){
+	document.sortForm.sort_type.selectedIndex = 0;
+	document.sortForm.vmonth.selectedIndex = 0;
+	document.sortForm.vyear.selectedIndex = 0;
+}
+
+function validateAll(submitNow) {
+	var f = document.validateform;
+	var message_exists = 0;
+	// Check all of the articles.
+	for(var i = 0; i < f.elements.length; i++) {
+		//	  alert (f.elements[i].type);
+		if(f.elements[i].type == "radio" && f.elements[i].value == 1)
+		f.elements[i].checked = 1;
+	}
+	if (submitNow == 1){
+		var where_to= confirm("Do you really want to approve all commissions on this page?\nNB. This action is irreversible");
+		if (where_to== true){
+			statusWin(200,550);
+			document.validateform.submit();
+		}  
+	}
+}
+
+function dAL(){
+	if (document.readyState == "complete") {
+	    closeWaitWin()
+	}
+	else {
+		setTimeout("dAL()",100);
+	}
+    
+} // end func
+
+
+function joinValidator(theForm) {
+	 var error = ""; 
+	//   
+	//  if (theForm.dd.options[0].selected == true)
+	//  {
+	//    error += "Please select from the drop-down list.\n";
+	//  }  
+
+	 
+	if (theForm.company.value == ""){
+		error += "Please enter your company name.\n";
+	}  
+	 
+	if (theForm.name2.value == ""){
+		error += "Please provide a contact name.\n";
+	}
+	if (theForm.email.value == ""){
+		error += "Please provide an email address.\n";
+	}
+	if (theForm.phone.value == ""){
+		error += "Please provide a phone number.\n";
+	}
+	if ((theForm.email.value.indexOf ('@',0) == -1 || theForm.email.value.indexOf ('.',0) == -1) && theForm.email.value != ""){
+		error += "Please check that your email address is valid.\n";
+	}
+	if (theForm.address.value == ""){
+		error += "Please enter your address before proceeding.\n";
+	}
+	if (theForm.city.value == ""){
+		error += "Please provide a city for your company.\n";
+	}
+	if (theForm.country.value == ""){
+		error += "Please tell us which country your company is in.\n";
+	}	 
+	if (theForm.post_code.value == ""){
+		error += "Please provide your postcode/zip code.\n";
+	}
+	if (theForm.name_on_card.value == ""){
+		error += "Please provide the name on your credit card.\n";
+	}
+	if (theForm.card_number.value == ""){
+		error += "Please provide a credit card number for payment.\n";
+	}
+	if (theForm.bank_name.value == ""){
+		error += "Please tell us which bank issued your credit card.\n";
+	}
+	  var digits = "0123456789 ";
+
+	if (theForm.phone.value == ""){
+		error += "Please enter your telephone number before proceeding.\n";
+	}
+	for (var i = 0; i < theForm.phone.value.length; i++){
+		temp = theForm.phone.value.substring(i, i+1)
+		if (digits.indexOf(temp) == -1 && theForm.phone.value != ""){
+		  error += "Please use numbers only in the telephone number field.\n";
+		  break;
+		}
+	}
+
+	if (error != ""){
+		alert(error);
+		return (false);
+	} 
+	else {
+		theForm.submit();
+	}  
+}
+
+</script></head>
+
+<body><form action="/index.php" method="POST">  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td background="/images/affiliate-bg.gif"><a href="/"><img src="/images/top.gif" width="539" height="86" border="0"></a></td>
+      <td background="/images/affiliate-bg.gif" class="txt" valign="bottom">&nbsp;          
+</td>
+    </tr>
+    <tr bgcolor="#5D5D5D"> 
+      <td align="right" colspan="2" height="40">
+        <table width="350" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+            
+			            <td>&nbsp;</td>
+			<td valign="top"> <span class="txtwhite">login id </span><input class="formtext" size="8" name="user"></td>
+            <td valign="top"> <span class="txtwhite">password </span><input class="formtext" type="password" name="password" size="8" maxlength="20"></td>
+            <td valign="top"> <input type="image" src="/images/login2.gif" border="0" width="44" height="15" name="image2"></td>          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+</form>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> <td>&nbsp;</td>
+      <td align="left" width="54%" height="20"> <a href="/"><span class="link">HOME</span></a><span class="link"> 
+        <!-- | <a href="/cgi-bin-local/Ultraboard/UltraBoard.cgi">FORUM</a> --> 
+        | <a href="/resources/">RESOURCES</a> 
+        | <a href="/faq.php">FAQ</a> 
+        | <a href="/testimonials.php" class="link">TESTIMONIALS</a> 
+		| <a href="/merchants/" class="link">MERCHANTS</a>
+        <!-- | <a href="help.php"><font color="#FF6600">HELP</font></a></span></td> -->
+      </span></td><td align="right" width="46%" height="20"><span class="txtsmall">To retrieve lost details click <a href="/lostlogin.php">here</a>. Not a member? <a href="http://www.awin1.com/signup.php">Join Now</a>! </span><span class="txt"></span></td>
+    </tr>
+    <tr bgcolor="#CCCCCC"> 
+      <td align="left" colspan="5" height="1"></td>
+    </tr>
+  </tbody></table>
+   <table width="90%">
+<tbody><tr><td width="35">&nbsp;</td>
+	<td>
+<p><span class="header">Privacy on this site</span><br>
+<!--headline ends-->
+<!--main page content begins-->
+<br>
+<b>What personally identifiable information is collected on this site?</b><br>
+Visitors may supply personally identifiable information (such as name, address
+or telephone numbers) for various purposes on this site. These purposes include
+registering to receive e-mail newsletters, requesting further information about
+our products, or simply asking a question about Affiliate Window. Affiliate Window
+does not collect personal information from you unless you provide it to us. This
+means that you can visit our site without telling us who you are or revealing
+any personally identifiable information about yourself.<br>
+<br>
+<b>How is it used?</b><br>
+When you supply information about yourself for a specific purpose, we use the
+information for only that purpose (such as to provide the service or information
+you have requested). For example, you may be asked to give us individual
+information to receive information, manage online services, or apply for a job.<br>
+<br>
+Should any material changes be made to the ways in which we use personally
+identifiable information, Affiliate Window will take commercially reasonable
+measures to obtain e-mail consent from you. We will also post the changes to our
+use of personally identifiable information on our site at least 30 days prior to
+a change.<br>
+<br>
+<b>Security</b><br>
+Personally identifiable information is stored on our Web server and is not
+publicly accessible. Further, personally identifiable information is only
+accessed by Affiliate Window employees on a "need to know" basis. All Affiliate Window
+employees must go through privacy training upon starting with Affiliate Window. Affiliate Window
+meets or exceeds all industry standards for the protection of personally
+identifiable information.<br>
+<br>
+<b>Choice/Opt-out</b><br>
+If you have registered to receive e-mail communications from us and later change
+your mind, you may contact us to have your name removed from our distribution
+lists. You have the following options to do this:<br>
+<br>
+You can send an e-mail to <a href="mailto:privacy@affiliatewindow.com">privacy@affiliatewindow.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<br>
+You can send mail to the following address:<br>
+<br>
+Director of Privacy<br>
+Affiliate Window Ltd<br>
+Office 5C2, Juniper House<br>
+Seager Building<br>
+Brookmill Rd<br>
+London<br>
+SE8 4JT<br>
+<br>
+<b>Correct/Update</b><br>
+If you would like to verify the data we have received from you or to make
+corrections to it, you may contact us directly at the e-mail and mail addresses
+provided above.<br>
+<br>
+<b>What anonymous information is collected on this site?</b><br>
+Anonymous numeric information is collected for every visitor to this site. This
+includes pages viewed, date and time, and browser type. IP numbers are not
+stored, but are temporarily used to determine domain type and in some cases,
+geographic region. We do not make any association between this information and a
+visitor's identity.<br>
+<br>
+<b>How is it used?</b><br>
+The information is used by Affiliate Window to build anonymous behavioral
+profiles, which are written to the Affiliate Window database -- securely housed
+at the Affiliate Window data centre. These profiles are accessed by Affiliate Window-enabled
+Web sites to offer you personalized content and promotions, and to target
+relevant, more interesting ads -- all without knowing your identity. Again,
+there is no association between an Affiliate Window profile and a visitor's
+identity.<br>
+<br>
+<b>How does this site use cookies?</b><br>
+Affiliate Window uses cookies to identify your browser as you visit pages on the
+Affiliate Window site or sites in the Affiliate Window media network. Cookies
+allow Affiliate Window to gather anonymous numeric information, track clicks,
+sales and lead commissions.<br>
+<br>
+<b>Links</b><br>
+This site may contain links to other Web sites. Please note that when you click
+on one of these links, you are entering another site. We encourage you to read
+the privacy statements of these linked sites as their privacy policy may differ
+from ours.<br>
+<br>
+<b>E-mail Links</b><br>
+We use e-mail links located on this site to allow you to contact us directly via
+e-mail. We use the information provided in your e-mail to respond to your
+questions or comments. We may also store your comments for future reference.
+Your personal information is only shared with third parties with your explicit
+permission.<br>
+<br>
+<b>Legal Disclaimer</b><br>
+We may disclose personal information when required by law or in the good-faith
+belief that such action is necessary in order to conform to the edicts of the
+law or comply with legal process served on Affiliate Window.<br>
+<br>
+<b>For more information</b><br>
+If you have any questions, concerns or comments, please e-mail
+<a href="mailto:privacy@affiliatewindow.com">privacy@affiliatewindow.com</a>
+
+</p><p></p>
+
+  
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr> 
+      <td bgcolor="#666666" height="1" class="txtwhite"></td>
+    </tr>
+
+    <tr> 
+      <td bgcolor="#333333" height="1" class="txt"></td>
+    </tr>
+    <tr> 
+      <td height="15" class="txtwhite" align="center"> 
+      </td>
+    </tr>
+    <tr> 
+      <td height="15" class="txtwhite" align="center">
+	  <a href="/"><span class="link">HOME</span></a><span class="link">&nbsp;   | &nbsp;
+<!-- 		<a href="/faq.php">FAQS</a>&nbsp;&nbsp; | &nbsp; -->
+		<a href="/newsletter/index.php">NEWSLETTERS</a>&nbsp;&nbsp;  | &nbsp;
+		<a href="/contact.php">CONTACT US</a>&nbsp;&nbsp; | &nbsp;
+		<!-- <a href="/help.php">HELP</a>  | &nbsp; -->
+<!-- 		<a href="/testimonials.php">TESTIMONIALS</a> |  -->
+		<a href="/about.php">ABOUT US </a>&nbsp;|&nbsp; 
+        <a href="/privacy.php">PRIVACY</a>|&nbsp; 
+		<a href="/terms.php">TERMS &amp;  CONDITIONS </a></span></td>
+    </tr>
+    <tr>
+      <td height="15" class="txtwhite" align="center">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td bgcolor="#5D5D5D" height="1" class="txtwhite"></td>
+    </tr>
+  </tbody></table>
+<p class="txt">© 1999-2002 affiliatewindow.com Ltd. All rights reserved. </p>
+</td>
+</tr> 
+      
+  </tbody></table>
+ 
+
+</body></html>
