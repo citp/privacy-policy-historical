@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reporternews.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204091600id_/http%3A//www.texnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reporternews.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604085756id_/http%3A//www.texnews.com/privacy.html) for the most accurate reproduction.*
 
 # www.texnews.com: Summary of Privacy Policy
 
@@ -75,3 +75,8 @@ telephone number stated above.
 The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials  
 may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these  
 materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **[ctinter@scripps.com](mailto:ctinter@scripps.com)**. To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please **[click here](http://texnews.com/user.html)**.
+
+ Part of the [Abilene Reporter-News](http://www.reporternews.com/) / [Texnews](http://www.texnews.com/arn/) network  
+Copyright © 1995- 2020, _[E.W. Scripps Publications](http://texnews.com/scripps.html)_ ,  
+All Rights Reserved.  
+Site users are subject to our _[User Agreement](http://texnews.com/user.html)_.
