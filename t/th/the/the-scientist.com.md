@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2001-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010412012630id_/http%3A//www.the-scientist.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211121435id_/http%3A//www.the-scientist.com/privacy.htm) for the most accurate reproduction.*
 
 # The Scientist - Privacy Statement
 
@@ -31,7 +31,7 @@ Like all Web sites, we keep a log of all page visits by our users. However, this
 
 We use cookies for the convenience of our readers. Our Web site places a simple cookie containing no personal information on your machine. This allows you free access to all the articles on our Web site without your having to re-enter your identifying e-mail address.
 
-For further information about cookies and how to protect your privacy on the web go to our [Cookie Information Page](https://web.archive.org/web/20010412012630id_/http%3A//www.the-scientist.com/fixcookies.htm)
+For further information about cookies and how to protect your privacy on the web go to our [Cookie Information Page](https://web.archive.org/web/20011211121435id_/http%3A//www.the-scientist.com/fixcookies.htm)
 
 ## Who has access to my data?
 
