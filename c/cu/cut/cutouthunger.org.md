@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the cutouthunger.org privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217093542id_/http%3A//www.cutouthunger.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutouthunger.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607051230id_/http%3A//cutouthunger.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Cut your grocery bill in half and feed the hungry with cutouthunger.org. Money saving coupons from Smartsource, Coolsavings, and money saving offers from local grocery stores, Upromise and Babymint.
 
-**Cut Out Hunger, Inc. Privacy Policy**
+**[](https://web.archive.org/web/20040607051230id_/http%3A//cutouthunger.org/index.html)  
+** Cut Out Hunger, Inc. Privacy Policy 
 
 **Our Commitment to Privacy**  
 Cut Out Hunger, Inc. is committed to protecting your personal privacy. We provide this notice to explain the type of information we collect on the **www.cutouthunger.org** website and how we use this information. This Policy also explains the choices that you can make about the way your information is collected and used. Our Privacy Policy is available for you to review on our homepage and at every site where we have requested personally identifiable information. 
@@ -25,7 +26,7 @@ Occasionally, you will have the opportunity to forward pages or information on t
 **Unsubscribe/Delete**  
 Cutouthunger.org gives users the following options for managing or removing their information from our database: 
 
-1\. Send us an email: Send an email to [info@cutouthunger.org](mailto:info@cutouthunger.org). Be sure to include your name and clear instructions on what you would like us to do. 
+1\. Send us an email: Send an email to [postmaster@cutouthunger.org](mailto:postmaster@cutouthunger.org). Be sure to include your name and clear instructions on what you would like us to do. 
 
 2\. Manage Your Cutouthunger.org Profile: Within the Registration section of Cutouthunger.org you have the option to Manage Your Cutouthunger.org Profile. The Cutouthunger.org management system allows you to update or delete your information from our database. We also allow you to subscribe or unsubscribe to any of the promotional email updates we send out. 
 
@@ -47,5 +48,5 @@ We reserve the right to change or remove this Privacy Policy at our discretion. 
 By using this website, you signify your assent to the Cutouthunger.org, Inc. Privacy Policy. If you do not agree with any term in this Policy, please do not use this site or submit any personally identifiable information. 
 
 **How to Contact Us**  
-Should you have any questions or concerns about this Privacy Policy or the collection of information, please e-mail us at: [info@cutouthunger.org](mailto:info@cutouthunger.org)   
+Should you have any questions or concerns about this Privacy Policy or the collection of information, please e-mail us at: [postmaster@cutouthunger.org](mailto:info@cutouthunger.org)   
 
