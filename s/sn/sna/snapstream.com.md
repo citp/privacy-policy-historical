@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapstream.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217040200id_/http%3A//www.snapstream.com/privacy/Default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapstream.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331014446id_/http%3A//www.snapstream.com/privacy/Default.htm) for the most accurate reproduction.*
 
 # SnapStream Media: Privacy Policy
 
