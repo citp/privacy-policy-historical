@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alamy.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621150127id_/http%3A//www.alamy.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alamy.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203183359id_/http%3A//www.alamy.com/help/royalty-free-images-privacy.asp) for the most accurate reproduction.*
 
-# Alamy Images - Security and privacy
+# Royalty free images Alamy Security and privacy
 
 At Alamy Images we take your security and privacy very seriously and we aim to make your experience with us entirely safe and problem free. Please see below for details of our policies.
 
