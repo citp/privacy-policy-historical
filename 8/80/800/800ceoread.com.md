@@ -1,35 +1,8 @@
-> *The following text is extracted and transformed from the 800ceoread.com privacy policy that was archived on 2003-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 800ceoread.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208151726id_/http%3A//www.1800ceoread.com/privacy.asp) for the most accurate reproduction.*
 
 # 800CEOREAD.com
 
-|   
-  
----  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/ayr_list.asp?catid=BHFW)  
-  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/ayr_list.asp?catid=CARE)  
-  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/ayr_list.asp?catid=GAZE)  
-  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/ayr_list.asp?catid=GMNG)  
-  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/ayr_list.asp?catid=LEAD)  
-  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/ayr_list.asp?catid=PERD)  
-  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/ayr_list.asp?catid=PERF)  
-  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/ayr_list.asp?catid=SMKT)  
-  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/ayr_list.asp?catid=TRAN)  
-  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/top25.asp)  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/we_recommend.asp)  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/new_releases.asp)  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/newsletter.asp)  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/auth_interview.asp)  
-[](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/auth_corner.asp)  
-| 
+|  | 
 
 **Information You Provide**  
 There are a few activities on our site where the collection of personally identifiable information is necessary. Those activities include things like registering for a contest, making a purchase, or contacting us. When personally identifiable information is collected, you will know because you will have to fill out a form. For most activities, we collect only the most basic contact information. 
@@ -64,12 +37,30 @@ Phone: 800-236-7323
 Email: [Click to Email](mailto:info@800ceoread.com)   
 
 
-|  |  |  |  |   
----|---|---  
-|  [](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/details.asp?productid=0375509127)   
-**[Adventure Capitalist](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/details.asp?productid=0375509127)**  
-_by Jim Rogers_ |   
+|  |  | [](https://web.archive.org/web/20041208151726id_/http%3A//www.1800ceoread.com/cart.asp)[](https://www.1800ceoread.com/check_out_secure.asp)  
+---  
+  
+
+
+**Featured Title**
+
+  
+**[Purple Cow   
+Collectable Milk Carton](http://www.1800ceoread.com/details.asp?productid=097030997X) **   
+
+
+* * *
+
+**Welcome to America's best supplier of business resources!
+
+If you don't find what you're looking for on our site, please call us today at  
+800-236-7323!
+
+**
+
+ **   
+**  
   
 _Book data provided by  
-Copyright April 1995-2003, for personal non-commercial use only. All rights reserved._  
-[Privacy Policy](https://web.archive.org/web/20031226150645id_/http%3A//www.1800ceoread.com/privacy.asp)
+Copyright April 1995-2004, for personal non-commercial use only. All rights reserved._  
+[Privacy Policy](https://web.archive.org/web/20041208151726id_/http%3A//www.1800ceoread.com/privacy.asp)
