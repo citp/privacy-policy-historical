@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621170906id_/http%3A//lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205045604id_/http%3A//lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Lake-Link.com Online Privacy Policy
 
@@ -10,8 +10,8 @@ Wisconsin
 [Live Chat](https://web.archive.org/chat/) |   
 [Fishing Guides](https://web.archive.org/guides/) |   
 [Great Lakes Charters](https://web.archive.org/charters/) |   
+[Check Email](https://web.archive.org/mylakelink/email/autologin/) |   
 [Email](https://web.archive.org/email/) |   
-[Home Page](https://web.archive.org/) |   
 [Gift Certificates](https://web.archive.org/store/giftcertificates/) |   
 [Member Info](https://web.archive.org/memberinfo/) |   
 [Advantage Program](https://web.archive.org/advantage/) |   
@@ -21,10 +21,9 @@ Wisconsin
 [Press Releases](https://web.archive.org/pressreleases/) |   
 [Outdoor Links](https://web.archive.org/links/) |   
 [Web Site Hosting](https://web.archive.org/hosting/) |   
-[Investor Information](https://web.archive.org/info/investor.cfm) |   
 [Sign Guestbook](https://web.archive.org/guestbook/) |   
   
-[](https://web.archive.org/ads/do_direct.cfm?AdID=26&SiteURL=/store/ "Visit the Lake-Link.com Outlet")
+[](https://web.archive.org/ads/do_direct.cfm?AdID=40&SiteURL=http://www.akbearpawlodge.com/ "Alaska Like You Wouldn't Believe!")
 
 Lake-Link.com is committed to safeguarding your privacy online. Set forth below are the guidelines we use for protecting the information you provide us during a visit to Lake-Link.com (the "Site"). 
 
