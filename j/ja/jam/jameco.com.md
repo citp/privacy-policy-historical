@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jameco.com privacy policy that was archived on 2002-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020613152016id_/http%3A//www.jameco.com/cgi-bin/ncommerce3/ExecMacro/Jameco/pageDisplay.d2w/report%3Fcontent%3Dprivacy%26cgrfnbr%3D501%26ctgys%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jameco.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618124255id_/http%3A//www.jameco.com/cgi-bin/ncommerce3/ExecMacro/Jameco/pageDisplay.d2w/report%3Fcontent%3Dprivacy%26cgrfnbr%3D501%26ctgys%3D) for the most accurate reproduction.*
 
-# Jameco
+# jameco
 
 |  |  _**Privacy Statement**_
 
