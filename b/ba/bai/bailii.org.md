@@ -1,22 +1,7 @@
-> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623081506id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015617id_/http%3A//www2.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
 
 # BAILII - Privacy Policy
 
-[](https://web.archive.org/ "BAILII Home Page") |  [[Home](https://web.archive.org/)] [[Databases](https://web.archive.org/databases.html)] [[World Law](http://www.worldlii.org/)] [[Search](https://web.archive.org/form/search1.html)] [[Help](https://web.archive.org/bailii/help/)] [[Feedback](https://web.archive.org/bailii/feedback.html)]  |  **Related Links**  
----|---|---  
-|  [Disclaimers of Liability](https://web.archive.org/bailii/disclaimers.html)  
-  
-  
-* * *
-
-**You are here:** [BAILII](https://web.archive.org/) >> [About BAILII](https://web.archive.org/bailii/) >> Privacy Policy 
-
-* * *  
-  
-Please fill in our [short survey](https://web.archive.org/survey/) to help us find out more about our user base.
-
-* * *  
-  
 BAILII's privacy policies are based on respect for international standards of information privacy protection. 
 
 ## A. Information concerning usage of BAILII
@@ -39,9 +24,9 @@ BAILII also monitors whether any robots attempt to index these databases in disr
 
 **BAILII reserves the right to exclude access to its databases by users or sites that are in apparent breach of any such legal requirements.**
 
-If you have any comments or suggestions in relation to this policy, please [send us some mail](https://web.archive.org/web/20030623081506id_/http%3A//www.bailii.org/bailii/feedback.html).
+If you have any comments or suggestions in relation to this policy, please [send us some mail](https://web.archive.org/web/20031202015617id_/http%3A//www2.bailii.org/bailii/feedback.html).
 
 * * *
 
-**BAILII:** [Copyright Policy](https://web.archive.org/bailii/copyright.html) **|** [Disclaimers](https://web.archive.org/bailii/disclaimers.html) **|** [Privacy Policy](https://web.archive.org/bailii/privacy.html) **|** [Feedback](https://web.archive.org/bailii/feedback.html)   
+**BAILII:** [Copyright Policy](https://web.archive.org/bailii/copyright.html) **|** [Disclaimers](https://web.archive.org/bailii/disclaimers.html) **|** [Privacy Policy](https://web.archive.org/bailii/privacy.html) **|** [Feedback](https://web.archive.org/bailii/feedback.html) **|** [Donate to BAILII](http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&PID=512038&SearchString=British+%26+Irish+Legal+Information+Institute&page=quick&orgname=British+%26+Irish+Legal+Information+Institute)   
 URL: _http://www.bailii.org/bailii/privacy.html_
