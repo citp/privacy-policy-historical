@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816002353id_/http%3A//www.babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604175925id_/http%3A//www.babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,14 +12,14 @@ BabyCentre respects your privacy. Any personal information you give us is held w
 
 BabyCentre will not collect any personal information about you except when you specifically and knowingly provide such information. For example, if you would like to register on our site to take advantage of certain features, like a customised personal page, then we ask for your e-mail address.
 
-If you register, you can also sign up to receive other offers and information from BabyCentre and other qualified companies. These qualified suppliers are prescreened organisations or companies whose products or services we believe are of interest to parents and parents-to-be. If you sign up to receive the offers but later decide you don't want them, then follow this [link ](https://web.archive.org/unsubscribe) to unsubscribe to any mailings. Obviously we will not give your email address to these companies unless we obtain your consent.
+If you register, you can also sign up to receive other offers and information from BabyCentre and other qualified companies. These qualified suppliers are prescreened organisations or companies whose products or services we believe are of interest to parents and parents-to-be. If you sign up to receive the offers but later decide you don't want them, then follow this [link](https://web.archive.org/register/unsubscribe) to unsubscribe to any mailings. Obviously we will not give your email address to these companies unless we obtain your consent.
 
 Our site has public areas such as message boards. Please remember that any information you share in these areas becomes public, so you should exercise caution when deciding to disclose your personal information. If you post comments about BabyCentre products or services on our site, there's a chance we may publish them for editorial purposes or in promotional advertising and/or marketing materials (especially if you say nice things about us).
 
 **E-mail Services** Sign up [here ](https://web.archive.org/register) for free e-mail newsletters at BabyCentre including:
 
-· BabyCentre Newsletter – our general newsletter with updates, news and polls  
-· My Baby this Week – a personalised newsletter, written for your stage of pregnancy or your baby’s age.
+7 BabyCentre Newsletter  our general newsletter with updates, news and polls  
+7 My Baby this Week  a personalised newsletter, written for your stage of pregnancy or your babys age.
 
 To unsubscribe to any of our e-mail newsletters, follow the instructions at the end of the newsletter(s) or click [ here.](https://web.archive.org/register/unsubscribe)
 
@@ -53,4 +53,4 @@ By using our Web site, you consent to our Terms of Use policy. To review that no
 
 **Your Questions and Comments**
 
-Feel free to contact us any time and we'll answer any additional questions you may have. Our telephone number is 020 7968 0000. Our email address is comments@babycentre.co.uk. Our mailing address is 10 St Alban's Street, London SW1Y 4SQ. See [About BabyCentre ](https://web.archive.org/about)to find out more about our company and our policies. 
+Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is comments@babycentre.co.uk. See [About BabyCentre ](https://web.archive.org/about)to find out more about our company and our policies. 
