@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the natinst.com privacy policy that was archived on 2000-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000620093222id_/http%3A//www.ni.com/legal/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the natinst.com privacy policy that was archived on 2000-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205024500id_/http%3A//www.ni.com/legal/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>National Instruments Online Privacy Statement
@@ -28,11 +28,13 @@
     <td width="16" height="45">
     <img src="/images/black.gif" width="16" height="45" border="0"></td>
     	<td>
-	<a href="http://www.ni.com/cgi-bin/getinfo.cgi/banner_esupport.gif" class="black"><img src="http://www.ni.com/graphics/banners/global/banner_esupport.gif" width="225" height="45" alt="" border="0"></a></td>
+	<!-- 1:banner_lookout45_preview.gif   2:banner_buy_anim2.gif   3:/ssi/legal/banner.htm -->
+	<!-- 4a:   4b:ssi 4c:legal -->
+    <a href="/cgi-bin/getinfo.cgi/banner_lookout45_preview.gif" class="black"><img src="/graphics/banners/global/banner_lookout45_preview.gif" width="225" height="45" alt="" border="0"></a></td>
 	<td>
 	<img src="/graphics/core/m_vert_bar.gif" width="7" height="45" border="0"></td>
 	<td>
-	<a href="http://www.ni.com/cgi-bin/getinfo.cgi/banner_niweek.gif" class="black"><img src="http://www.ni.com/graphics/banners/global/banner_niweek.gif" width="225" height="45" alt="" border="0"></a></td>
+	<a href="/cgi-bin/getinfo.cgi/banner_buy_anim2.gif" class="black"><img src="/graphics/banners/global/banner_buy_anim2.gif" width="225" height="45" alt="" border="0"></a></td>
 
 	<!--td>
 	<a href="/cgi-bin/getinfo.cgi/(first_ad_name)" class="black"><img src="/graphics/banners/(specific directory)/(first_ad_name)" width=225 height=45 alt="" border=0></a></td>
@@ -78,31 +80,23 @@
         <p>
         <a href="/contact.htm"><font color="#ffffff" class="news">Contact Us</font></a>
         </p>
-		<form name="seek" method="GET" action="http://search.ni.com/query.html" class="blackbg">
-		<font color="#ffffff" class="news"><b>Search Site:</b><br>
-			<!--&nbsp;<input type="radio" name="p_0" value="kw" checked>Data Acquisition</input>
-			<br>
-			&nbsp;<input type="radio" name="p_0" value="mn">Entire Site</input>
-			<br-->
-			<br>
-			<div class="sidesearch">
-               	<input type="hidden" name="rq" value="0" checked="" onclick="setCols(true)"> <!-- This tells it to search the collections --> <input type="hidden" name="col" value="alldocs" checked="" onclick="document.seek.rq[0].checked=true">
-                	<input type="hidden" name="qp" value="">
-                	<input type="hidden" name="qs" value="">
-                	<input type="hidden" name="qc" value="">
-                	<input type="hidden" name="ws" value="0">
-                	<input type="hidden" name="qm" value="0">
-                	<input type="hidden" name="st" value="1">
-                	<input type="hidden" name="nh" value="10">
-                	<input type="hidden" name="lk" value="1">
-                	<input type="hidden" name="rf" value="0">
-                	<input type="hidden" name="oq" value="">
-                	<input type="hidden" name="rq" value="0">
-				<input type="Text" name="qt" size="14" maxlength="2047" tabindex="0" class="mainsearch">
-				<input type="image" src="/graphics/blue_seek.gif" align="right" alt="Seek" width="44" height="19" border="0">
-			</div>
-		</font>
-		</form>
+		
+
+		<form name="search" action="/cgi-bin/search/search.cgi" class="blackbg">
+
+
+                <font color="#ffffff" class="news">
+                <b>Search Site:</b><br>
+                
+				
+				<input type="hidden" name="scope" value="site">
+                
+                
+                <div class="sidesearch"><input type="text" name="query" size="15"><br>
+                <input type="image" src="/graphics/blue_seek.gif" align="right" alt="Seek" width="44" height="19" border="0">
+                </div>
+                </font>
+                </form>
 		<br>
 		</font>
         </td>
@@ -229,7 +223,6 @@ phone: 512-794-0100<br>
 <p></p>
 </div>
 </font>
-
 
 
 </body></html>
