@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209111533id_/http%3A//www.timeoutny.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutny.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603193741id_/http%3A//www.timeoutny.com/privacy.html) for the most accurate reproduction.*
 
 # Time Out New York []
 
