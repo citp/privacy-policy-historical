@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the how-to.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210150321id_/http%3A//www.how-to.com/Privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how-to.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622044414id_/http%3A//how-to.com/Privacypolicy.htm) for the most accurate reproduction.*
 
 # Internet marketing web design privacy policy
 
