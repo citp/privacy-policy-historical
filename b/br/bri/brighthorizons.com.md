@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206024651id_/http%3A//www.brighthorizons.com/Site/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607074234id_/http%3A//www.brighthorizons.com/site/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Bright Horizons Privacy Policy
 
@@ -54,7 +54,7 @@ Links to Other Web Sites
 This site may contain links or references to other Web sites. Please be aware that we do not control other Web sites and that, in any case, this Privacy Policy does not apply to those Web sites. We encourage you to read the privacy policy of every Web site you visit. 
 
 Other Terms   
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20031206024651id_/http%3A//www.brighthorizons.com/Site/pages/legal.aspx).
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20040607074234id_/http%3A//www.brighthorizons.com/site/pages/legal.aspx).
 
 How to Contact Us   
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows:
