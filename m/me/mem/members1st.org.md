@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209184624id_/http%3A//www.members1st.org/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417033018id_/http%3A//www.members1st.org/privacystatement.asp) for the most accurate reproduction.*
 
 # Members 1st Federal Credit Union - Privacy Statement
 
@@ -39,4 +39,4 @@ Members 1st FCU
 Attention: TeleBranch  
 P.O. Box 40  
 Mechanicsburg, PA 17055 
-Or email us at [accountinquiries@members1st.org](mailto:accountinquiries@members1st.org) and include their full name, address, and account number. 
+Or email us at [accountinquiries@members1st.org](mailto:accountinquiries@members1st.org) and include their full name and address. 
