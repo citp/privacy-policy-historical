@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217201055id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051445id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
-**PRIVACY NOTICE**
+This Privacy Policy applies to our online practices only.
 
 The following policy applies to the SCHOLASTIC.COM site.
 
@@ -24,7 +24,7 @@ There are many activities on the Scholastic site that children can participate i
 
 For those activities that require personally identifiable information, such as contests and sweepstakes (in compliance with the Federal Trade Commission's Children's Online Privacy Protection Act), Scholastic will not condition a child's participation in an activity on that child disclosing more personally identifiable information than is reasonably necessary to administer the activity. For certain online activities, we require verifiable parental consent before collecting or using a child's personally identifiable information. With these activities, Scholastic will notify the respective parent of our privacy policy and obtain verifiable parental consent before collecting personally identifiable information from a child, unless one of the exceptions discussed above applies.
 
-Parents can request to review or have deleted their child's personally identifiable information from Scholastic's records, and refuse to permit further use of a child's information by printing, completing, and returning [this letter](https://web.archive.org/parents/inforequest/index.htm) by fax or regular mail to the specified address.
+Parents can request to review or have deleted their child's personally identifiable information from Scholastic's records, and refuse to permit further use of a child's information by printing, completing, and returning [this letter](https://web.archive.org/inforequest/index.htm) by fax or regular mail to the specified address.
 
 In some areas of our site, we collect personally identifiable information from parents. We use the personally identifiable information that parents provide to us to customize the content on Scholastic.com to parents' current and future needs. We also use this personally identifiable information to provide parents, via e-mail or other means, with information about materials, activities, or other things that may be of interest to parents or their children, including products or services of third parties. For these reasons, we may share such information with third parties who provide services to our site. However, parents always have the opportunity to unsubscribe from any communication via e-mail if they choose to do so.
 
@@ -32,7 +32,7 @@ In some areas of our site, we collect personally identifiable information from p
 
 There are many activities on the Scholastic site that are for teachers, which enable teachers to add another dimension to their classroom and students' activities. In order to create such online classroom activities, we will collect personally identifiable information from teachers and have teachers provide a password to their students so that students can publish materials online and do other activities online in connection with their class through the use of such password. We will only enable such passwords with the verifiable consent provided by teachers acting on behalf of parents. We also have classroom activities such as Scholastic Global Classport ([click here](https://web.archive.org/toolkit/classport/privacy.htm) for further details) where we collect prior consent from teachers on behalf of parents in order for children 12 years old and under to participate.
 
-A teacher may revoke the consent she has provided on behalf of her students' parents, or inquire about personally identifiable information that has been collected from a student on Scholastic Global Classport, by returning [this letter](https://web.archive.org/web/20011217201055id_/http%3A//www.scholastic.com/parents/inforequest/tchrequest.htm) to the specified address.
+A teacher may revoke the consent she has provided on behalf of her students' parents, or inquire about personally identifiable information that has been collected from a student on Scholastic Global Classport, by returning [this letter](https://web.archive.org/inforequest/tchrequest.htm) to the specified address.
 
 When teachers register with our site, we use their sign-in information, which contains personally identifiable information, to ensure that only the teacher who has signed in has access to his or her personal areas of the site. For example, only registered teachers are permitted to administer Class Homepages. Access to administer a teacher's Class Homepage is controlled via that teacher's personal username and password, which was established during the registration process.
 
@@ -58,9 +58,17 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **SECURITY**
 
-Scholastic ensures that all information, personally and non-personally identifiable information, that it receives via the Internet is secure against unauthorized access. This information is kept in a safe and secure system isolated from direct connection to the Internet. This means that no eyes but ours will ever see the information that our visitors send to us, unless we indicate otherwise.
+Scholastic ensures that all personally and non-personally identifiable information that it receives via the Internet is secure against unauthorized access. This information is kept in a safe and secure system isolated from direct connection to the Internet. This means that no eyes but ours will ever see the information that our visitors send to us, unless we indicate otherwise.
 
-In some places on our sites, parents and teachers may be able to purchase items with the use of a credit card. In such instances, Scholastic uses secure server software over a Secure Socket Layer (SSL) line, the latest technology to protect your credit card information. SSL is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your credit card information so that the information from your credit card cannot be read as it travels over the Internet.
+**SCHOLASTIC SHOPPING GUARANTEE**
+
+The Scholastic Shopping Guarantee protects you while you shop at Scholastic.com, so that you never have to worry about credit card safety. You pay nothing if unauthorized charges are made to your card as a result of shopping at Scholastic's online stores. 
+
+**Why are we so safe?**  
+Scholastic uses secure server software over a Secure Socket Layer (SSL) line to protect your credit card information. It encrypts all of your personal and credit card information so that this information cannot be read as it travels to our ordering system, and once it is received, it is stored in a location not accessible via the Internet. 
+
+**More Guarantee Details**  
+Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of unauthorized charges. If your bank does hold you liable for any of this $50, Scholastic will cover the entire liability for you, up to the full $50. Note that, in the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
 **LINKS TO OTHER SITES**
 
@@ -70,8 +78,4 @@ Please note that we may revise our above policy as the content on our sites cont
 
 We hope that you enjoy exploring our sites.
 
-Scholastic.com is owned and operated by Scholastic Inc., 555 Broadway New York, NY, 10012. We can be reached by phone at 1-800-Scholastic and by e-mail at custserv@scholastic.com. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address.
-
-**GetNetWise**
-
-GetNetWise is an online resource that provides information and tools that parents and teachers can use to guide children to a safe online experience. You can access this content by clicking on the GetNetWise logo below. This initiative is part of an industry effort to create an online environment where adults feel empowered with tools, information and resources to safeguard children online.
+Scholastic.com is owned and operated by Scholastic Inc., 557 Broadway New York, NY, 10012. We can be reached by phone at 1-800-SCHOLASTIC and by e-mail at [custserv@scholastic.com](mailto:custserv@scholastic.com). If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify the information on file, or to notify us that you want your information deleted from our files, please contact us at this address.
