@@ -1,307 +1,302 @@
-<!--The following is the downloaded HTML source of the weather.com privacy policy that was archived on 2001-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011218010529id_/http%3A//www.weather.com/common/home/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weather.com privacy policy that was archived on 2002-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020609210248id_/http%3A//www.weather.com/common/home/privacy.html%3Ffrom%3Dfooter) for the most accurate reproduction.-->
 
 <html><head>
 	<title>weather.com - Privacy Statement</title>
-	<!-- externals version 12.11.01.a modified by Joe Pearson -->
-	<link rel="stylesheet" type="text/css" href="/common/header/style_sheet.css" title="default">
-	<link rel="stylesheet" type="text/css" href="/common/header/globalnav.css" title="default">
-	<meta http-equiv="MSThemeCompatible" content="Yes">
-	<meta http-equiv="imagetoolbar" content="no">
-	<script language="javascript1.2">
-	<!-- start
-	// This section is for the layer src loading
-		var isMinNS4 = (document.layers) ? 1 : 0;
-		var isMinIE4 = (document.all) ? 1 : 0;
-		var isNS6 = (document.getElementById&&!document.all) ? 1 : 0;
-		var thisX = 0;
-		var thisY = 0;
-		var thistdX = 0;
-		var thistdY = 0;
-		var thisElement;
-		var thistdElement;
-
-		function goWhatWhere(thisWhat) {
-			if (document.whatwhere.where.value == "") {
-				return true;
-			} else {
-				document.whatwhere.what.value = thisWhat;
-				document.whatwhere.submit();
-				return false;
-			}
-		}	
-
-		// Smart Links generic function
-		function goSmartLinks(thisLink) {
-			var thisCookie = GetCookie("LocID");
-			if (thisCookie.length < 1) {
-				return true;
-			} else {
-				document.location = (thisLink + thisCookie + "?from=smartlinks");
-				return false;
-			}
-		}	
-		// Smart Link used in header and footer
-		function goSmartLink(thisLink, thisTrackingString) {
-			var thisCookie = GetCookie("LocID");
-			var thisUPLocID = getUserPreferences("11");
-			if (thisUPLocID.length >= 5) {
-				document.location = (thisLink + thisUPLocID + "?from=" + thisTrackingString);
-				return false;
-			} else if (thisCookie.length >= 5) {
-				document.location = (thisLink + thisCookie + "?from=" + thisTrackingString);
-				return false;
-			} else {
-				return true;
-			}
-		}	
-
-		// Video Intercept function
-		function doIntercept(mapUrl,mapHandle,mapParams) {
-			getUP = GetCookie("UserPreferences");
-			splitUP = getUP.split("|");
-			if (!splitUP[3]) {
-				mapWindowOpen(mapUrl,mapHandle,mapParams);
-			} else if (!splitUP[4]) {
-				mapWindowOpen(mapUrl,mapHandle,mapParams);
-			} else if ((splitUP[3].length < 1)||(splitUP[3] == "null")) {
-				mapWindowOpen(mapUrl,mapHandle,mapParams);
-			} else if ((splitUP[4].length < 1)||(splitUP[4] == "null")) {
-				mapWindowOpen(mapUrl,mapHandle,mapParams);
-			} else {
-				var vertLocation = mapUrl.split("?");
-				location.href = vertLocation[1];
-			}
-			return false;
-		}
-		
-		function getUserPreferences (itemno) {
-			getUP = GetCookie("UserPreferences");
-			splitUP = getUP.split("|");
+	<!-- externals version 05.30.02.a modified by Joe Pearson -->
+<link rel="stylesheet" type="text/css" href="http://image.weather.com/common/header/style_sheet.css" title="default">
+<meta http-equiv="MSThemeCompatible" content="Yes">
+<meta http-equiv="imagetoolbar" content="no">
+<script language="JavaScript1.2">
+<!--
+var isMinNS4 = (document.layers) ? 1 : 0;
+var isMinIE4 = (document.all) ? 1 : 0;
+var isMinIE5 = (document.getElementById&&document.all) ? 1 : 0;
+var isNS6 = (document.getElementById&&!document.all) ? 1 : 0;
+var thisX = 0;
+var thisY = 0;
+var thistdX = 0;
+var thistdY = 0;
+var thisElement;
+var thistdElement;
+function goSmartLinks(thisLink) {
+	var thisCookie = GetCookie("LocID");
+	if (thisCookie.length < 1) {
+		return true;
+	} else {
+		document.location = (thisLink + thisCookie + "?from=smartlinks");
+		return false;
+	}
+}	
+function goSmartLink(thisLink, thisTrackingString) {
+	var thisCookie = GetCookie("LocID");
+	var thisUPLocID = getUserPreferences("11");
+	if (thisUPLocID.length >= 5) {
+		document.location = (thisLink + thisUPLocID + "?from=" + thisTrackingString);
+		return false;
+	} else if (thisCookie.length >= 5) {
+		document.location = (thisLink + thisCookie + "?from=" + thisTrackingString);
+		return false;
+	} else {
+		return true;
+	}
+}	
+function doIntercept(mapUrl,mapHandle,mapParams) {
+	getUP = GetCookie("UserPreferences");
+	splitUP = getUP.split("|");
+	if (!splitUP[3]) {
+		mapWindowOpen(mapUrl,mapHandle,mapParams);
+	} else if (!splitUP[4]) {
+		mapWindowOpen(mapUrl,mapHandle,mapParams);
+	} else if ((splitUP[3].length < 1)||(splitUP[3] == "null")) {
+		mapWindowOpen(mapUrl,mapHandle,mapParams);
+	} else if ((splitUP[4].length < 1)||(splitUP[4] == "null")) {
+		mapWindowOpen(mapUrl,mapHandle,mapParams);
+	} else {
+		var vertLocation = mapUrl.split("?");
+		var newLoc = unescape(vertLocation[1]);
+		location.href = newLoc;
+	}
+	return false;
+}
+function getUserPreferences (itemno) {
+	getUP = GetCookie("UserPreferences");
+	if (getUP.length > 4) {
+		splitUP = getUP.split("|");
+		if (splitUP[itemno]) {
 			return splitUP[itemno];
+		} else {
+			return "";
 		}
-	
-		function setUserPreferences (itemno, itemval) {
-			var expdate = new Date ();
-			FixCookieDate (expdate);
-			expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 365));
-			getUP = GetCookie("UserPreferences");
-			splitUP = getUP.split("|");
-			if (!splitUP[1]) {
-				splitUP[1] = "Undecided";
-			} else {
-				if (splitUP[1].length < 1) {
-					splitUP[1] = "Undecided";
-				}
-			}
-			splitUP[itemno] = itemval;
-			vertCookie = splitUP.join("|");
-			SetCookie ("UserPreferences", vertCookie, expdate, "/", ".weather.com");
-			return true;
+	} else {
+		return "";
+	}
+}
+function setUserPreferences (itemno, itemval) {
+	var expdate = new Date ();
+	FixCookieDate (expdate);
+	expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 365));
+	getUP = GetCookie("UserPreferences");
+	splitUP = getUP.split("|");
+	if (!splitUP[1]) {
+		splitUP[1] = "Undecided";
+	} else {
+		if (splitUP[1].length < 1) {
+			splitUP[1] = "Undecided";
 		}
+	}
+	splitUP[itemno] = itemval;
+	vertCookie = splitUP.join("|");
+	SetCookie ("UserPreferences", vertCookie, expdate, "/", ".weather.com");
+	return true;
+}
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf (";", offset);
+	if (endstr == -1)
+		endstr = document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
+}
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i, j) == arg)
+			return getCookieVal (j);
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i == 0) break; 
+	}
+	return "";
+}
+function DeleteCookie (name,path,domain) {
+	if (GetCookie(name)) {
+		document.cookie = name + "=" +
+			((path) ? "; path=" + path : "") +
+			((domain) ? "; domain=" + domain : "") +
+			"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+	}
+}
+function FixCookieDate (date) {
+	var base = new Date(0);
+	var skew = base.getTime(); // dawn of (Unix) time - should be 0
+	if (skew > 0)  // Except on the Mac - ahead of its time
+		date.setTime (date.getTime() - skew);
+}
+function SetCookie (name,value,expires,path,domain,secure) {
+	document.cookie = name + "=" + escape (value) +
+		((expires) ? "; expires=" + expires.toGMTString() : "") +
+		((path) ? "; path=" + path : "") +
+		((domain) ? "; domain=" + domain : "") +
+		((secure) ? "; secure" : "");
+}
+function smartTrack(URL,TS) {
+	if (TS.length >= 1) {
+		if (URL.indexOf('?') > 1) {
+			URL = URL + '&from=' + TS;
+		} else {
+			URL = URL + '?from=' + TS;
+		}
+	}
+	var thisUP = getUserPreferences(11);
+	var thisLID = GetCookie('LocID');
+	if (thisUP.length >= 5) {
+		URL = URL.replace(/%uploc%/g,thisUP);
+	} else if (thisLID.length >= 5) {
+		URL = URL.replace(/%uploc%/g,thisLID);
+	} else {
+		URL = URL.replace(/%uploc%/g,'');
+	}
+	if (thisLID.length >= 5) {
+		URL = URL.replace(/%locid%/g,thisLID);
+	} else {
+		URL = URL.replace(/%locid%/g,'');
+	}
+	document.location = URL;
+	return false;
+}
+function goWhatWhere(thisWhat) {
+	if (document.whatwhere.where.value == "") {
+		return true;
+	} else {
+		document.whatwhere.what.value = thisWhat;
+		document.whatwhere.submit();
+		return false;
+	}
+}	
+function mapSwap(url) {
+	if (url != "") {
+		if (url == "special") {
+			location.href = "/maps/";
+		} else {
+			if (isMinIE4) document.all.mapI.src = url;
+			if (isMinNS4) thisElement.src = url;
+			if (isNS6) document.getElementById("mapI").src = url;
+		}
+	}
+	return false;
+}
+function tdSwap(url) {
+	if (url != "") {
+		if (isMinIE4) document.all.tdI.src = url;
+		if (isMinNS4) thistdElement.src = url;
+		if (isNS6) document.getElementById("tdI").src = url;
+	}
+	return false;
+}
+// This section is for all popup windows
+function mapWindowOpen(mapUrl,mapHandle,mapParams) {
+	window.open(mapUrl,mapHandle,mapParams);
+	return false;
+}
+// This section is for all image rollovers
+function imgReplace(imgName,newImgSrc) {
+	if (document.images) {
+		eval("document."+imgName+".src = newImgSrc");
+	}
+}
+// This is a stub for the Severe Weather Alert dHTML
+function regenerate2() {
+	return;
+}
+// This is a stub for the NS6 Severe Weather Alert dHTML
+function initialize_dom_severe_scroll() {
+	return;
+}
+// This is a function for all locators to use.
+function goLocation( loc, trgt)	{
+	if( loc != null){
+		if( (loc.length > 0) && (loc.toLowerCase() != 'default'))
+			window.open( loc, trgt);
+	}	
+}
+function makeObjectNS4 () {
+	var ItemElement = new Layer(306);
+	ItemElement.name = "mapN";
+	ItemElement.src = mapNURL;
+	ItemElement.visibility = "show";
+	ItemElement.pageY = thisY;
+	ItemElement.pageX = thisX;
+	ItemElement.zIndex = "300";
+	return ItemElement;
+}
+function maketdObjectNS4 () {
+	var ItemtdElement = new Layer(306);
+	ItemtdElement.name = "tdN";
+	ItemtdElement.src = tdNURL;
+	ItemtdElement.visibility = "show";
+	ItemtdElement.pageY = thistdY;
+	ItemtdElement.pageX = thistdX;
+	ItemtdElement.zIndex = "300";
+	return ItemtdElement;
+}
+function loadTenday() {
+	thistdX = document.tdholdspace.x;
+	thistdY = document.tdholdspace.y;
+	thistdElement = maketdObjectNS4();
+}
+function onPageStart() {
+	regenerate2();
+	if (isMinNS4) {
+		if (document.images["holdspace"]) {
+			thisX = document.images["holdspace"].x;
+			thisY = document.images["holdspace"].y;
+			thisElement = makeObjectNS4();
+		}
+	}
+	if(document.getElementById){
+		initialize_dom_severe_scroll();
+	}
+}
+window.onload = onPageStart;
+//-->
+</script>
 
-		function mapSwap(url) {
-			if (url != "") {
-				if (url == "special") {
-					location.href = "/maps/";
-				} else {
-					if (isMinIE4) document.all.mapI.src = url;
-					if (isMinNS4) thisElement.src = url;
-					if (isNS6) document.getElementById("mapI").src = url;
-				}
-			}
-			return false;
-		}
-
-		function tdSwap(url) {
-			if (url != "") {
-				if (isMinIE4) document.all.tdI.src = url;
-				if (isMinNS4) thistdElement.src = url;
-				if (isNS6) document.getElementById("tdI").src = url;
-			}
-			return false;
-		}
-
-	// This section is for all popup windows
-		function mapWindowOpen(mapUrl,mapHandle,mapParams) {
-			window.open(mapUrl,mapHandle,mapParams);
-			return false;
-		}
-		
-	// This section is for all image rollovers
-		function imgReplace(imgName,newImgSrc) {
-			if (document.images) {
-				eval("document."+imgName+".src = newImgSrc");
-			}
-		}
-	// This is a stub for the Severe Weather Alert dHTML
-		function regenerate2() {
-			return;
-		}
-	// This is a stub for the NS6 Severe Weather Alert dHTML
-		function initialize_dom_severe_scroll() {
-			return;
-		}
-	// This is a function for all locators to use.
-	function goLocation( loc, trgt)
-	{
-		if( loc != null)
-			{
-			if( (loc.length > 0) && (loc.toLowerCase() != 'default'))
-				window.open( loc, trgt);
-			}	
-	}
-	
-	// Generic cookie reading functions
-	function getCookieVal (offset) {
-	  var endstr = document.cookie.indexOf (";", offset);
-	  if (endstr == -1)
-	    endstr = document.cookie.length;
-	  return unescape(document.cookie.substring(offset, endstr));
-	}
-	function GetCookie (name) {
-	  var arg = name + "=";
-	  var alen = arg.length;
-	  var clen = document.cookie.length;
-	  var i = 0;
-	  while (i < clen) {
-	    var j = i + alen;
-	    if (document.cookie.substring(i, j) == arg)
-	      return getCookieVal (j);
-	    i = document.cookie.indexOf(" ", i) + 1;
-	    if (i == 0) break; 
-	  }
-	  return "";
-	}
-	// Sample invocation
-	// GetCookie("ccpath");
-	function DeleteCookie (name,path,domain) {
-	  if (GetCookie(name)) {
-	    document.cookie = name + "=" +
-	      ((path) ? "; path=" + path : "") +
-	      ((domain) ? "; domain=" + domain : "") +
-	      "; expires=Thu, 01-Jan-1970 00:00:01 GMT";
-	  }
-	}
-	function FixCookieDate (date) {
-	  var base = new Date(0);
-	  var skew = base.getTime(); // dawn of (Unix) time - should be 0
-	  if (skew > 0)  // Except on the Mac - ahead of its time
-	    date.setTime (date.getTime() - skew);
-	}
-	function SetCookie (name,value,expires,path,domain,secure) {
-	  document.cookie = name + "=" + escape (value) +
-	    ((expires) ? "; expires=" + expires.toGMTString() : "") +
-	    ((path) ? "; path=" + path : "") +
-	    ((domain) ? "; domain=" + domain : "") +
-	    ((secure) ? "; secure" : "");
-	}
-
-	// stuff for date and timestamp
-	function makeArray() {
-		for (i = 0; i<makeArray.arguments.length; i++)
-		this[i + 1] = makeArray.arguments[i];
-	}
-	
-	var TSmonths = new makeArray('January','February','March','April','May','June','July','August','September','October','November','December');
-	var TSdate = new Date();
-	var TSday  = TSdate.getDate();
-	var TSmonth = TSdate.getMonth() + 1;   
-	var TSyy = TSdate.getYear();
-	var TSyear = (TSyy < 1000) ? TSyy + 1900 : TSyy;
-	// end of stuff for date and timestamp
-	
-	function makeObjectNS4 () {
-		var ItemElement = new Layer(306);
-		ItemElement.name = "mapN";
-		ItemElement.src = mapNURL;
-		ItemElement.visibility = "show";
-		ItemElement.pageY = thisY;
-		ItemElement.pageX = thisX;
-		ItemElement.zIndex = "300";
-		return ItemElement;
-	}
-	
-	function maketdObjectNS4 () {
-		var ItemtdElement = new Layer(306);
-		ItemtdElement.name = "tdN";
-		ItemtdElement.src = tdNURL;
-		ItemtdElement.visibility = "show";
-		ItemtdElement.pageY = thistdY;
-		ItemtdElement.pageX = thistdX;
-		ItemtdElement.zIndex = "300";
-		return ItemtdElement;
-	}
-
-	function loadTenday() {
-		thistdX = document.tdholdspace.x;
-		thistdY = document.tdholdspace.y;
-		thistdElement = maketdObjectNS4();
-	}
-
-	function onPageStart() {
-		regenerate2();
-		// regenerate4();
-		if (isMinNS4) {
-			if (document.images["holdspace"]) {
-				thisX = document.images["holdspace"].x;
-				thisY = document.images["holdspace"].y;
-				thisElement = makeObjectNS4();
-			}
-			// if (document.images["tdholdspace"]) {
-			// 	setTimeout("loadTenday()", 550);
-			// }
-		}
-		if(document.getElementById){
-			// if(!document.all){
-			// 	initialize_dom_features_scroll();
-			// }
-			initialize_dom_severe_scroll();
-		}
-	}
-	
-	window.onload = onPageStart;
-	//-->
-	</script>
 
 </head>
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 <!-- begin cobranding -->
-<!-- header version 11.14.01.a last modified by Joe Pearson -->
+<!-- header version 05.22.02.a last modified by Joe Pearson -->
+<!-- center -->
+<script language="JavaScript1.2">
+<!--
+if (document.referrer) {
+	thisDF = document.referrer;
+} else {
+	thisDF = "";
+}
+if (thisDF.search(/usatoday.com/) != -1) {
+	midstring = " contains ";
+	document.write ("<MAP NAME=\"weather_nav_Map\">\n<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"657,0,768,27\" HREF=\"http://www.usatoday.com/weather/wfront.htm\">\n<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"536,0,652,27\" HREF=\"http://www.usatoday.com/life/cyber/cyber1.htm\">\n<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"418,0,534,27\" HREF=\"http://www.usatoday.com/life/lfront.htm\">\n<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"300,0,414,27\" HREF=\"http://www.usatoday.com/sports/sfront.htm\">\n<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"184,0,296,27\" HREF=\"http://www.usatoday.com/money/mfront.htm\">\n<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"67,0,180,27\" HREF=\"http://www.usatoday.com/news/nfront.htm\">\n<AREA SHAPE=\"rect\" ALT=\"\" COORDS=\"0,0,65,27\" HREF=\"http://www.usatoday.com/usafront.htm\">\n</MAP>\n<IMG SRC=\"http://image.weather.com/web/common/logos/usatodayback.gif\" WIDTH=774 HEIGHT=28 BORDER=0 USEMAP=\"#weather_nav_Map\">");
+}
+//-->
+</script>
 
 <!-- end cobranding -->
-
+<!-- normal.css -->
 <img src="http://image.weather.com/web/blank.gif" width="1" height="2" alt="" border="0"><br>
 
 <table border="0" cellspacing="0" cellpadding="0" width="768">
 	<tbody><tr>
-		<!-- TD WIDTH=4 VALIGN="MIDDLE" NOWRAP><IMG SRC="http://image.weather.com/web/common/global/tab_1.gif" WIDTH=4 HEIGHT=20 ALIGN="absmiddle" alt=""></TD -->
-		<td width="768" bgcolor="#003399" class="globalNav" align="LEFT" valign="MIDDLE" nowrap="">
+		<td width="768" class="globalNav" align="LEFT" valign="MIDDLE" nowrap="">
 		&nbsp;<a href="/?from=globalnav" class="globalNav" onmouseover="this.className='globalNavHover';" onmouseout="this.className='globalNav';">Home</a> 
 			<img src="http://image.weather.com/web/common/pixel/ffffff.gif" width="2" height="20" border="0" align="ABSMIDDLE">  
 <a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/weather/local/?from=globalnav" onclick="return goSmartLink('/weather/local/','globalnav');">Local</a> | 
-			<a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/outlook/health/?from=globalnav">Health</a> | 
-			<a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/outlook/travel/?from=globalnav">Travel</a> | 
+			<a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/activities/health/?from=globalnav">Health</a> | 
+			<a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/activities/travel/?from=globalnav">Travel</a> | 
 			<a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/activities/sports/?from=globalnav">Sporting Events</a> | 
-			<a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/outlook/recreation/?from=globalnav">Recreation</a> | 
-			<a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/outlook/homeandgarden/?from=globalnav">Home &amp; Garden</a>				
+			<a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/activities/recreation/?from=globalnav">Recreation</a> | 
+			<a class="globalNav" onmouseover="this.className='globalNavHover2';" onmouseout="this.className='globalNav';" href="/activities/homeandgarden/?from=globalnav">Home &amp; Garden</a>				
 			<img src="http://image.weather.com/web/common/pixel/ffffff.gif" width="2" height="20" border="0" align="ABSMIDDLE">  
 <a class="globalNav" onmouseover="this.className='globalNavHover3';" onmouseout="this.className='globalNav';" href="/common/welcomepage/world.html?from=globalnav">World</a> | 
 			<a class="globalNav" onmouseover="this.className='globalNavHover3';" onmouseout="this.className='globalNav';" href="/newscenter/?from=globalnav">News</a> | 
 			<a class="globalNav" onmouseover="this.className='globalNavHover3';" onmouseout="this.className='globalNav';" href="/maps/?from=globalnav">Maps</a> | 
 			<a class="globalNav" onmouseover="this.className='globalNavHover3';" onmouseout="this.className='globalNav';" href="/services/?from=globalnav">My Weather</a>				
 			<img src="http://image.weather.com/web/common/pixel/ffffff.gif" width="2" height="20" border="0" align="ABSMIDDLE">  
-<a class="globalNav" onmouseover="this.className='globalNavHover3';" onmouseout="this.className='globalNav';" href="/activities/sports/ski/?from=globalnav">Ski</a>				
+<a class="globalNav" onmouseover="this.className='globalNavHover3';" onmouseout="this.className='globalNav';" href="/activities/recreation/golf/?from=globalnav">Golf</a>				
 		</td>
-		<!-- TD WIDTH=4 VALIGN="MIDDLE" NOWRAP><IMG SRC="http://image.weather.com/web/common/global/tab_2.gif" WIDTH=4 HEIGHT=20 ALIGN="ABSMIDDLE" alt=""></TD -->
-		<!-- TD WIDTH=304 BGCOLOR="#4066b3" CLASS="globalNav" ALIGN="LEFT" VALIGN="MIDDLE" NOWRAP> 
-		</TD -->
-		<!-- TD WIDTH=4 VALIGN="MIDDLE" NOWRAP><IMG SRC="http://image.weather.com/web/common/global/tab_3.gif" WIDTH=4 HEIGHT=20 ALIGN="absmiddle" alt=""></TD -->
-		<!-- TD WIDTH=117 BGCOLOR="#7A94CA" CLASS="globalNav" VALIGN="MIDDLE" NOWRAP>
-		</TD -->
-		<!-- TD WIDTH=4 VALIGN="MIDDLE" NOWRAP><IMG SRC="http://image.weather.com/web/common/global/tab_4.gif" WIDTH=4 HEIGHT=20 AlIGN="absmiddle" alt=""></TD -->
-		<!-- TD WIDTH=78 BGCOLOR="#FFFFFF" NOWRAP>&nbsp;</TD -->
 	</tr>   
 	<tr> 
 		<td bgcolor="#FFFFFF" nowrap=""><img src="http://image.weather.com/web/blank.gif" width="768" border="0" height="1" alt=""></td>
@@ -313,15 +308,27 @@
 
 
 
-<!-- tabs version 12.11.01.a last modified by Joe Pearson -->
+<!-- tabs version 02.08.02.a last modified by Joe Pearson -->
 <a name="atabs">
 
-<table width="768" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-    	<td><a href="/"><img src="http://image.weather.com/web/common/global/head_lbi_sun.jpg" width="768" height="60" alt="weather.com" border="0"></a></td>
-	</tr>
-</tbody></table>
-</a><a name="awhatwhere">
+
+	
+	<jsp:include page="/common/tabs/modules/peda.jsp" flush="true">
+<!-- banner version 02.07.02.a last modified by Joe Pearson -->
+<!-- script language="JavaScript1.2" src="/common/header/externals12.14.01.a.js"></script -->
+<!-- LINK REL="stylesheet" TYPE="text/css" HREF="/common/header/normal12.14.01.a.css" TITLE="default" -->
+<!-- begin ad -->
+                        <!-- Spoof: www.weather.com/generic -->
+                        <!-- Position: HeaderSpon -->
+                        <!-- Campaign: Weather_Content_HeaderSpon -->
+                        <!-- no image map here -->
+                        </jsp:include></a><a href="/" target="_top"><img src="http://image.weather.com/web/common/global/generic_header_banner.jpg" alt="weather.com - Click to return to the home page" width="768" height="60" border="0"></a><br>
+                        <!-- end ad -->
+
+
+	
+
+<a name="awhatwhere">
 <script language="JavaScript1.2">
 <!--
 function checkForm() {
@@ -338,18 +345,18 @@ function checkForm() {
 		<td><table width="768" border="0" cellspacing="0" cellpadding="0"><form action="/search/search" method="post" name="whatwhere" onsubmit="return checkForm();"></form><tbody><tr>
 				<td colspan="3" bgcolor="#000000"><img src="http://image.weather.com/web/blank.gif" width="1" height="1" border="0"></td>
 			</tr>
-			<tr>
-				<td colspan="3" bgcolor="#F6DD42"><img src="http://image.weather.com/web/blank.gif" width="1" height="3" border="0"></td>
+			<tr class="searchBar">
+				<td colspan="3"><img src="http://image.weather.com/web/blank.gif" width="1" height="3" border="0"></td>
 			</tr>
-			<tr>
-				<td bgcolor="#F6DD42" width="1"><img src="http://image.weather.com/web/blank.gif" width="1" height="30" border="0" alt=""></td>
-				<td valign="middle" bgcolor="#F6DD42" class="captionText" width="300"> &nbsp; 
+			<tr class="searchBar">
+				<td width="1"><img src="http://image.weather.com/web/blank.gif" width="1" height="30" border="0" alt=""></td>
+				<td valign="middle" class="captionText" width="300"> &nbsp; 
 					<input type="TEXT" size="30" name="where" value="Enter city or US zip code" onfocus="this.value='';"><input type="hidden" name="what" value="WeatherCity">
 					<input type="submit" name="GO" value="GO" height="15" width="15">
 					</td>
-				<td align="LEFT" valign="middle" bgcolor="#F6DD42" width="467"><script language="JavaScript1.2">
+				<td align="LEFT" valign="middle" width="467"><script language="JavaScript1.2">
 				<!--
-				if (getUserPreferences("11")) {
+				if (getUserPreferences("11") && getUserPreferences("11").length > 1) {
 					thisUPLocID = getUserPreferences("11");
 					if (getUserPreferences("10")) { 
 						thisVar = unescape(getUserPreferences("10"));
@@ -378,73 +385,6 @@ function checkForm() {
 </tbody></table>
 <img src="http://image.weather.com/web/blank.gif" width="1" height="2" border="0" alt=""><br>
 </a><a name="abanner">
-<table width="768" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td width="614" align="center" valign="middle" bgcolor="#EEEEFF">&lt;%= adData.getAd("TopBanner")%&gt;<!-- ad.doubleclick.net/jump/N1684.weather/B49597;abr=!ie4;abr=!ie5;sz=468x60;ord=__QUERY__? -->
-<iframe src="http://ad.doubleclick.net/adi/N1684.weather/B49597;sz=468x60;ord=2001.12.18.01.05.40?" width="470" height="62" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
-<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N1684.weather/B49597;abr=!ie;sz=468x60;ord=2001.12.18.01.05.40?">
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.weather.com/RealMedia/ads/click_lx.ads/www.weather.com/generic/669825667/TopBanner/Casino_on_Net_1201_01/con_TB_01_1204.html/64316637323836383363316539363630?2001.12.18.01.05.40">
-<IMG SRC="http://ad.doubleclick.net/ad/N1684.weather/B49597;abr=!ie4;abr=!ie5;sz=468x60;ord=2001.12.18.01.05.40?" BORDER=0 WIDTH=468 HEIGHT=60 ALT="Click Here!"></A>
-</NOSCRIPT>
-</iframe>
-</td>
-		<td width="2"><img src="http://image.weather.com/web/blank.gif" width="2" height="1" border="0" alt=""></td>
-		<td width="152" align="CENTER" valign="top">
-
-<table width="152" cellpadding="0" cellspacing="0" border="1">
-	<tbody><tr>
-		<td valign="TOP" width="152" class="fotwTitle" align="CENTER" bgcolor="#003399">Features of the Week</td>
-	</tr>
-	<tr>
-		<td valign="TOP"><table border="0" cellpadding="2" cellspacing="0">
-
-			<tbody><tr>
-				<td width="2"><img src="http://image.weather.com/web/blank.gif" width="2" height="1" border="0" alt=""></td>
-				<td width="2"><li><img src="http://image.weather.com/web/blank.gif" width="1" height="1" border="0" alt=""></li></td>
-				<td width="140" class="captionText">
-
-	<a href="/activities/health/coldandflu/?from=featuresoftheweek" class="featuresLinks1">Flu Report</a>
-
-				</td>
-				<td width="2"><img src="http://image.weather.com/web/blank.gif" width="2" height="1" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td width="2"><img src="http://image.weather.com/web/blank.gif" width="2" height="1" border="0" alt=""></td>
-				<td width="2"><li><img src="http://image.weather.com/web/blank.gif" width="1" height="1" border="0" alt=""></li></td>
-				<td width="140" class="captionText">
-
-	<a href="/multimedia/videolist.html?from=featuresoftheweek" class="featuresLinks1">Video Features</a>
-
-				</td>
-				<td width="2"><img src="http://image.weather.com/web/blank.gif" width="2" height="1" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td width="2"><img src="http://image.weather.com/web/blank.gif" width="2" height="1" border="0" alt=""></td>
-				<td width="2"><li><img src="http://image.weather.com/web/blank.gif" width="1" height="1" border="0" alt=""></li></td>
-				<td width="140" class="captionText">
-
-	<a href="/activities/sports/ski/?from=featuresoftheweek?from=featuresoftheweek" class="featuresLinks1">Ski Report</a>
-
-				</td>
-				<td width="2"><img src="http://image.weather.com/web/blank.gif" width="2" height="1" border="0" alt=""></td>
-			</tr>
-		</tbody></table></td>
-	</tr>
-</tbody></table>
-&lt;% 
-	int seconds = new java.util.Date().getSeconds();
-	if ( seconds &lt;= 20 )  {
-		%&gt;&lt;%@include file="/common/header/fotw0.html"%&gt;&lt;%
-	} else if ( seconds &lt;=40 ) {
-		%&gt;&lt;%@include file="/common/header/fotw1.html"%&gt;&lt;%
-	} else {
-		%&gt;&lt;%@include file="/common/header/fotw2.html"%&gt;&lt;%
-	}
-%&gt;</td>
-	</tr>
-</tbody></table>
 
 </a><a name="bbanner">
 
@@ -542,39 +482,43 @@ function checkForm() {
 </tr>
 </tbody></table>
 
-<!-- footer version 12.03.01.a Joe Pearson -->
+<!-- footer version 05.08.02.a last modified by Joe Pearson -->
 
 <!-- begin footer -->
 <table width="768" cellspacing="0" cellpadding="0" border="0">
-	<!-- feedback | bookmark | email -->
-	<tbody><tr><td colspan="2"><img src="http://image.weather.com/web/blank.gif" width="768" height="5" border="0"></td></tr>
+	<tbody><tr><td width="768"><img src="http://image.weather.com/web/blank.gif" width="768" height="5" border="0"></td></tr>
 	<tr>
-		<td width="616" align="center" class="normalText">
-			<a href="/interact/feedback.html?from=footer" class="11pxLink">Please Tell Us What You Think</a>
+		<td align="left">&nbsp;&nbsp;
+			<a href="/interact/feedback.html?from=footer" class="contentLinkSub">Tell Us What You Think</a>
 			<script language="javascript1.2">
 			<!--
 			if (isMinIE4) {
 				document.write(" | <a href=\"?\" onClick=\"window.external");
 				document.write(".AddFavorite (location.");
 				document.write("href,document.");
-				document.write("title);return false;\" class=\"11pxLink\">Add This Page To Your Favorites</a> | ");
+				document.write("title);return false;\" class=\"contentLinkSub\">Add This Page To Your Favorites</a> | ");
 				document.write("<a href=\"mailto:Type your friend's email address here?subject=");
 				document.write(location.href);
-				document.write("\" class=\"11pxLink\">Email This Page To A Friend</a>");
+				document.write("\" class=\"contentLinkSub\">Email This Page To A Friend</a>");
+			}
+			var isMinIE5 = (document.getElementById&&document.all) ? 1 : 0;
+			if (isMinIE5) {
+				document.write(" | <a href=\"#\" class=\"contentLinkSub\" onClick=\"this.style.behavior='url(#default#homepage)';this.setHomePage('");
+				document.write(location.href);
+				document.write("');return false;\">Make This Page Your Home Page</a>");
 			}
 			// -->
 			</script>
 		</td>
-		<td width="152"><img src="http://image.weather.com/web/blank.gif" width="152" height="1" border="0"></td>
 	</tr>
-	<tr><td colspan="2"><img src="http://image.weather.com/web/blank.gif" width="768" height="20" border="0"></td></tr>
+	<tr><td><img src="http://image.weather.com/web/blank.gif" width="768" height="20" border="0"></td></tr>
 </tbody></table>
 
 <!-- content linker -->
 <!-- module header -->
 <table width="768" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr> 
-		<td bgcolor="#F6DD42" class="moduleTitleText"><img src="http://image.weather.com/web/blank.gif" width="4" height="1" border="0" alt=""><img src="http://image.weather.com/web/blank.gif" width="10" height="1" border="0" alt="">How Weather Affects Your Life</td>
+		<td class="footerBar"><img src="http://image.weather.com/web/blank.gif" width="4" height="1" border="0" alt=""><img src="http://image.weather.com/web/blank.gif" width="10" height="1" border="0" alt="">How Weather Affects Your Life</td>
 	</tr>
 	<tr> 
 		<td bgcolor="#CFCF7C"><img src="http://image.weather.com/web/blank.gif" width="768" height="5" border="0" alt=""></td>
@@ -590,47 +534,43 @@ function checkForm() {
 				<tbody><tr>
 					<td width="115" class="contentLink"><a href="/weather/local/?from=footer" onclick="return goSmartLink('/weather/local/','footer');" class="contentLink">Local</a></td>
 					<td width="645"><a href="/weather/local/?from=footer" onclick="return goSmartLink('/weather/local/','footer');" class="contentLinkSub">Local Weather</a>, 
-						<a href="/outlook/schoolday/?from=footer" class="contentLinkSub">Schoolday</a>, 
+						<a href="/activities/dailyplanner/schoolday/?from=footer" class="contentLinkSub">Schoolday</a>, 
 						<a href="/outlook/workoutside/?from=footer" class="contentLinkSub">Workday</a>, 
-						<a href="/activities/events/?from=footer" class="contentLinkSub">Events</a>, 
-						<a href="/activities/holidays/?from=footer" class="contentLinkSub">Holidays</a></td>
+						<a href="/activities/events/?from=footer" class="contentLinkSub">Events</a></td>
 				</tr>
 				<tr>
-					<td width="115" class="contentLink"><a href="/outlook/health/?from=footer" class="contentLink">Health</a></td>
-					<td width="645"><a href="/outlook/health/?from=footer" class="contentLinkSub">Health Outlook</a>, 
-						<a href="/outlook/health/allergies/?from=footer" class="contentLinkSub">Allergies</a>, 
+					<td width="115" class="contentLink"><a href="/activities/health/?from=footer" class="contentLink">Health</a></td>
+					<td width="645"><a href="/activities/health/allergies/?from=footer" class="contentLinkSub">Allergies</a>, 
 						<a href="/activities/health/skin/?from=footer" class="contentLinkSub">Skin Protection</a>, 
-						<a href="/outlook/health/breathing/?from=footer" class="contentLinkSub">Air Quality</a>, 
+						<a href="/activities/health/airquality/?from=footer" class="contentLinkSub">Air Quality</a>, 
 						<a href="/activities/health/achesandpains/?from=footer" class="contentLinkSub">Aches &amp; Pains</a>, 
 						<a href="/activities/health/coldandflu/?from=footer" class="contentLinkSub">Cold &amp; Flu</a></td>
 				</tr>
 				<tr>
-					<td width="115" class="contentLink"><a href="/outlook/travel?from=footer" class="contentLink">Travel</a></td>
-					<td width="645"><a href="/outlook/travel/?from=footer" class="contentLinkSub">Travel Outlook</a>, 
-						<a href="/outlook/travel/flights/citywx/?from=footer" class="contentLinkSub">Daily Traveler</a>, 
+					<td width="115" class="contentLink"><a href="/activities/travel/?from=footer" class="contentLink">Travel</a></td>
+					<td width="645"><a href="/activities/travel/?from=footer" class="contentLinkSub">Daily Traveler</a>, 
 						<a href="/activities/travel/averages.html?from=footer" class="contentLinkSub">Vacation Planner</a>, 
-						<a href="/outlook/driving/?from=footer" class="contentLinkSub">Driving</a>, 
+						<a href="/activities/travel/driving/?from=footer" class="contentLinkSub">Driving</a>, 
 						<a href="/activities/aviation/?from=footer" class="contentLinkSub">Aviation</a></td>
 				</tr>
 				<tr>
 					<td width="115" class="contentLink"><a href="/activities/sports/?from=footer" class="contentLink">Sporting Events</a></td>
-					<td width="645"><a href="/activities/sports/?from=footer" class="contentLinkSub">Sporting Events Outlook</a>, 
-						<a href="/activities/events/nascar/winston.html?from=footer" class="contentLinkSub">Racing</a>, 
-						<a href="/outlook/recreation/golf/?from=footer" class="contentLinkSub">Golf</a></td>
+					<td width="645"><a href="/activities/sports/progolf/pga.html?from=footer" class="contentLinkSub">Pro Golf</a>, 
+						<a href="/activities/sports/racing/winston.html?from=footer" class="contentLinkSub">Racing</a>, 
+						<a href="/activities/sports/tennis/atp.html?from=footer" class="contentLinkSub">Tennis</a>, 
+						<a href="/activities/sports/baseball/stadiumwx.html?from=footer" class="contentLinkSub">Baseball</a></td>
 				</tr>
 				<tr>
-					<td width="115" class="contentLink"><a href="/outlook/recreation?from=footer" class="contentLink">Recreation</a></td>
-					<td width="645"><a href="/outlook/recreation/?from=footer" class="contentLinkSub">Recreation Outlook</a>, 
-						<a href="/outlook/recreation/golf/?from=footer" class="contentLinkSub">Golf</a>, 
+					<td width="115" class="contentLink"><a href="/activities/recreation?from=footer" class="contentLink">Recreation</a></td>
+					<td width="645"><a href="/activities/recreation/golf/?from=footer" class="contentLinkSub">Golf</a>, 
 						<a href="/activities/sports/ski/?from=footer" class="contentLinkSub">Ski</a>, 
-						<a href="/outlook/recreation/boatandbeach/?from=footer" class="contentLinkSub">Boat &amp; Beach</a>, 
-						<a href="/activities/outdoors/parks/?from=footer" class="contentLinkSub">National Parks</a></td>
+						<a href="/activities/recreation/nationalparks/?from=footer" class="contentLinkSub">National Parks</a>, 
+						<a href="/activities/recreation/boatandbeach/?from=footer" class="contentLinkSub">Boat &amp; Beach</a></td>
 				</tr>
 				<tr>
-					<td width="115" class="contentLink"><a href="/outlook/homeandgarden/?from=footer" class="contentLink">Home &amp; Garden</a></td>
-					<td width="645"><a href="/outlook/homeandgarden/?from=footer" class="contentLinkSub">Home &amp; Garden Outlook</a>, 
-						<a href="/outlook/homeandgarden/home/?from=footer" class="contentLinkSub">Home</a>, 
-						<a href="/outlook/homeandgarden/garden/?from=footer" class="contentLinkSub">Garden</a></td>
+					<td width="115" class="contentLink"><a href="/activities/homeandgarden/?from=footer" class="contentLink">Home &amp; Garden</a></td>
+					<td width="645"><a href="/activities/homeandgarden/home/?from=footer" class="contentLinkSub">Home</a>, 
+						<a href="/activities/homeandgarden/garden/?from=footer" class="contentLinkSub">Garden</a></td>
 				</tr>
 				<tr>
 					<td width="115" class="contentLink"><a href="/common/welcomepage/world.html?from=footer" class="contentLink">World</a></td>
@@ -663,12 +603,21 @@ function checkForm() {
 						<a href="/interact/contactus/?from=footer" class="contentLinkSub">Contact Us</a></td>
 				</tr>
 				<tr>
-					<td width="115" class="contentLink"><a href="/multimedia/?from=footer" class="contentLink">Weather Video</a></td>
-					<td width="645"><a href="/multimedia/videolist.html?from=footer" class="contentLinkSub">Video Forecast</a>, 
+					<td width="115" class="contentLink"><a href="/education/?from=footer" class="contentLink">Education</a></td>
+					<td width="645"><a href="/education/?from=footer" class="contentLinkSub">Weather Classroom</a>, 
+						<a href="/learn/dave/?from=footer" class="contentLinkSub">Dave's Dictionary</a>, 
+						<a href="/encyclopedia/?from=footer" class="contentLinkSub">Weather Encyclopedia</a>, 
+						<a href="/glossary/?from=footer" class="contentLinkSub">Weather Glossary</a>, 
+						<a href="/safeside/?from=footer" class="contentLinkSub">Safeside</a>, 
+						<a href="/learn/raysawareness/?from=footer" class="contentLinkSub">Rays Awareness</a></td>
+				</tr>
+				<tr>
+					<td width="115" class="contentLink"><a href="/multimedia/?from=footer" class="contentLink">Multimedia</a></td>
+					<td width="645"><a href="/multimedia/?from=footer" class="contentLinkSub">Video Forecast</a>, 
 						<a href="/multimedia/audio/national.html?from=footer" class="contentLinkSub">Audio Forecast</a></td>
 				</tr>
 				<tr>
-					<td width="115" class="contentLink"><a href="http://shop.ecompanystore.com/weather/TWC_shop.asp?from=footer" class="contentLink">Shopping</a></td>
+					<td width="115" class="contentLink"><a href="/common/errorpage/store_underconstruction.html?from=footer" class="contentLink">Shopping</a></td>
 					<td width="645"><a href="/common/errorpage/store_underconstruction.html?from=footer" class="contentLinkSub">The Weather Channel Store</a></td>
 				</tr>
 				<tr>
@@ -685,16 +634,18 @@ function checkForm() {
 <!-- international links -->
 <table width="768" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr> 
-		<td colspan="2" bgcolor="#F6DD42"><img src="http://image.weather.com/web/blank.gif" width="4" height="1" border="0" alt=""><img src="http://image.weather.com/web/blank.gif" width="10" height="1" border="0" alt=""><span class="moduleTitleText">International</span></td>
+		<td colspan="2" class="footerBar"><img src="http://image.weather.com/web/blank.gif" width="4" height="1" border="0" alt=""><img src="http://image.weather.com/web/blank.gif" width="10" height="1" border="0" alt="">International</td>
 	</tr>
 	<tr> 
 		<td colspan="2" bgcolor="#CFCF7C"><img src="http://image.weather.com/web/blank.gif" width="768" height="5" border="0" alt=""></td>
 	</tr>
 	<tr> 
 		<td width="14"><img src="http://image.weather.com/web/blank.gif" width="14" height="1" border="0"></td>
-		<td width="754" class="obsText">&nbsp;<a href="http://tiempo.weather.com/" class="contentLinkSub">Latin America</a> | 
-		<a href="http://br.weather.com/" class="contentLinkSub">Brazil</a> | 
-		<a href="http://www.weather.co.uk/" class="contentLinkSub">United Kingdom</a></td>
+		<td width="754" class="obsText">&nbsp;<a href="http://www.weather.com/brasil" class="contentLinkSub">Brazil</a> | 
+		<a href="http://www.weather.com/france" class="contentLinkSub">France</a> | 
+		<a href="http://www.weather.com/germany" class="contentLinkSub">Germany</a> | 
+		<a href="http://www.weather.com/espanol" class="contentLinkSub">Latin America</a> | 
+		<a href="http://www.weather.com/uk" class="contentLinkSub">United Kingdom</a></td>
 	</tr>
 	<tr> 
 		<td colspan="2"><img src="http://image.weather.com/web/blank.gif" width="768" height="10" border="0"></td>
@@ -727,7 +678,7 @@ _version=10;
 <script language="JavaScript1.1">
 <!--
 _version=11;
-if (window.location.href == "http://www.weather.com/" && window.location.href.length == 23) {
+if (window.location.href.indexOf("http://www.weather.com/") == 0 && (window.location.href.length == 23 || window.location.href.charAt(23) == '?')) {
 	document.write("<SCRI");
 	document.write("PT LANGUAGE=\"JavaScript1.1\" SRC=\"http://www.weather.com/RealMedia/ads/adstream_jx.ads/track.weather.com/mci_homepage@Hidden1\">");
 	document.write("</SCR");
@@ -737,7 +688,7 @@ if (window.location.href == "http://www.weather.com/" && window.location.href.le
 </script>
 <script language="JavaScript">
 <!--
-if (window.location.href == "http://www.weather.com/" && window.location.href.length == 23) {
+if (window.location.href.indexOf("http://www.weather.com/") == 0 && (window.location.href.length == 23 || window.location.href.charAt(23) == '?')) {
 	if (navigator.appVersion.indexOf('MSIE 3') != -1){
 		document.write('<IFRAME WIDTH=155 HEIGHT=60 MARGINWIDTH=50 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=NO BORDERCOLOR=#000000 SRC="http://www.weather.com/RealMedia/ads/adstream_sx.ads/track.weather.com/mci_homepage@Hidden1"></IFRAME>');
 	} else if (_version < 11) {
@@ -748,9 +699,9 @@ if (window.location.href == "http://www.weather.com/" && window.location.href.le
 </script>
 </td>
 		<td width="580" align="center" valign="top" class="captionText"><img src="http://image.weather.com/web/blank.gif" width="580" height="1" border="0" alt=""><br>
-			Copyright © 1995-2001, The Weather Channel Enterprises, Inc.<br>
+			Copyright © 1995-2002, The Weather Channel Enterprises, Inc.<br>
 			Your use of this site constitutes your acceptance of<br>
-			the <a href="/common/home/legal.html?from=footer" class="10pxLink">LEGAL RESTRICTIONS AND TERMS OF USE</a><p>
+			the <a href="/common/home/legal.html?from=footer" class="10pxLink">LEGAL RESTRICTIONS AND TERMS OF USE</a><br> last updated May 5th, 2002<p>
 			weather.com <a href="/common/home/privacy.html?from=footer" class="10pxLink">Privacy Statement</a> - Licensed by TRUSTe
 		</p></td>
 		<td width="94" align="right" valign="top"><img src="http://image.weather.com/web/blank.gif" width="94" height="1" border="0" alt=""><br>
@@ -762,19 +713,39 @@ if (window.location.href == "http://www.weather.com/" && window.location.href.le
 	</tr>
 </tbody></table>
 <!-- end footer -->
-<!-- Copyright 2001.  The SUPERSTITIAL(R); Tag is the sole property of 
-Unicast Communications Corporation and is protected under United States 
-Copyright law.  All rights reserved.-->
-<script language="JavaScript1.2">
-  var adURL= "/nxtl/your/RunId_7442_SiteId_44_ProfileId_43_AdId_15803.txt";
-  var fqCapDur= "";
-  var fqCapDaily= "3";
-  var playOn="entry";
-  var timeBetweenAds="600";
+<!-- campaign: 1015_Trip_Network_1100 page: www.weather.com/generic position: Hidden1 -->
+<script language="JavaScript">
+pCounter = GetCookie('pCounter')
+if (!pCounter) { pCounter = 0 };
+++pCounter;
+var expdate = new Date ();
+FixCookieDate (expdate);
+expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 1));
+SetCookie ('pCounter', pCounter, expdate, '/', '.weather.com');
 </script>
-<script language="JavaScript1.2" src="http://adcontroller.unicast.com/java32/wrapper/wrapper.js"></script>
-
-
+<script language="Javascript">
+<!-- begin hiding
+// --- begin cookie functions
+var expiration_date = new Date();
+//set the cookie expiration date 1 day from now
+var one_day_from_now = expiration_date.getTime() + (1 * 24 * 60 * 60 * 1000);
+expiration_date.setTime(one_day_from_now);
+var ex_date = expiration_date;
+function MakeCookie(name,value,expires) {
+document.cookie = name + "=" + escape(value) + ";expires=" + expires.toGMTString() + ";path=/";
+}
+MakeCookie("oatmeal_ck","yum_yum",ex_date);
+// -->
+</script>
+<!-- campaign: 1015_Trip_Network_1100 page: www.weather.com/generic position: Hidden1 -->
+<!-- ad.doubleclick.net/jump/N339.bi.weather/B939866.8;abr=!ie4;abr=!ie5;sz=720x300;ord=__QUERY__? -->
+<iframe src="http://ad.doubleclick.net/adi/N339.bi.weather/B939866.8;sz=720x300;ord=2002.06.09.21.02.51?" width="722" height="302" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
+<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N339.bi.weather/B939866.8;abr=!ie;sz=720x300;ord=2002.06.09.21.02.51?"></SCRIPT>
+<NOSCRIPT>
+<A target="_top" HREF="http://www.weather.com/RealMedia/ads/click_lx.ads/www.weather.com/generic/1302407114/Hidden1/1015_Trip_Network_1100/trip_pu1_0430.html/34323163666161633364303363323730?2002.06.09.21.02.51">
+<IMG SRC="http://ad.doubleclick.net/ad/N339.bi.weather/B939866.8;abr=!ie4;abr=!ie5;sz=720x300;ord=2002.06.09.21.02.51?" BORDER=0 WIDTH=720 HEIGHT=300></A>
+</NOSCRIPT>
+</iframe>
 <script language="JavaScript1.2">
 <!--
 if (document.referrer) {
@@ -790,7 +761,14 @@ if (thisDF.search(/yahoo.com/) != -1) {
 </script>
 
 
-
+<script language="JavaScript1.2">
+<!--
+//	if (GetCookie("RMID") && !GetCookie("segment")) {
+//		document.write("<img src=\"http://fastcgi.weather.com/fcgi-bin/segment/"+GetCookie("RMID")+"\" alt=\"\" width=1 height=1 border=0>");
+//	}
+//-->
+</script>
+<!-- /center -->
 
 
 
