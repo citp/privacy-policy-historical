@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levitra.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095157id_/http%3A//www.levitra.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levitra.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605144926id_/http%3A//www.levitra.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # LEVITRA - Privacy Statement
 
@@ -28,6 +28,6 @@ This BAYER and GSK website is not intended or designed to attract children under
 
 As a convenience to our visitors, BAYER and GSK's sites currently contain links to a number of websites that we believe may offer useful information. The privacy policy and provisions described here do not apply to those sites. We suggest contacting those sites directly for information on their data collection and distribution policies.
 
-You may stop receiving future communications from this Web site, or any further BAYER or GSK communications, at any time. To cancel further communications, please complete the following form: [Levitra.com Opt-out](https://web.archive.org/web/20031206095157id_/http%3A//www.levitra.com/consumer/opt_out.jsp).
+You may stop receiving future communications from this Web site, or any further BAYER or GSK communications, at any time. To cancel further communications, please complete the following form: [Levitra.com Opt-out](https://web.archive.org/web/20040605144926id_/http%3A//www.levitra.com/consumer/opt_out.jsp).
 
 From time to time, BAYER and GSK may decide to modify its practices and policies, and we reserve the right to revise this BAYER and GSK Internet Privacy Statement as necessary to disclose such changes in our practices and policies. Any such changes to this BAYER and GSK Internet Privacy Statement will be promptly communicated on this page. Any information that you submit before the change in policy will be used by BAYER and GSK and/or the companies we hire in a manner that is consistent with the BAYER and GSK Internet Privacy Statement in effect at the time you submitted your information. Continued use of our sites after receiving notice of a change in our privacy statement shall indicate your consent to the use of newly-submitted information in accordance with the changed, amended, or updated BAYER and GSK Internet Privacy Statement. 
