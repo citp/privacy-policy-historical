@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054123id_/http%3A//bidnapper.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603052220id_/http%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
 
-# Bidnapper : eBay auction sniper that wins online auctions, free trial. Snipe and try our sniping software.
+# Bidnapper : eBay auction sniper that wins online auctions, free trial. Snipe and try our eBay sniping software.
 
 **_Privacy/Security Policy_**
 
