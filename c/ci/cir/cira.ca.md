@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402174218id_/http%3A//cira.ca/en/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208032359id_/http%3A//www.cira.ca/en/privacypolicy.html) for the most accurate reproduction.*
 
 # CIRA - l'Autorité canadienne pour les enregistrements Internet
 
@@ -150,7 +150,7 @@ Contractors and partners:
 
 **6\. Disclosure of Personal Information** (back to Index)
 
-Our business is to operate and administer the dot-ca Internet domain name registry and any ancillary matters related and/or linked thereto. We do not use information for marketing purposes, and do not share or disclose the information to other parties unless specifically stated in this policy. We do provide, to a person who, in accordance with our "Registration Information Access Rules and Procedures" (at [www.cira.ca/en/cat_Registrar.html](https://web.archive.org/en/cat_Registrar.html)) requests in writing, a list of the dot-ca domain names registered in the name of a Registrant. This is done to facilitate bona fide rights holders to determine infringements of intellectual property rights. 
+Our business is to operate and administer the dot-ca Internet domain name registry and any ancillary matters related and/or linked thereto. We do not use information for marketing purposes, and do not share or disclose the information to other parties unless specifically stated in this policy. We do provide, to a person who, in accordance with our "Registration Information Access Rules and Procedures" (at [www.cira.ca/en/cat_Registrar.html](http://www.cira.ca/en/cat_Registrar.html)) requests in writing, a list of the dot-ca domain names registered in the name of a Registrant. This is done to facilitate bona fide rights holders to determine infringements of intellectual property rights. 
 
 In the event that a law enforcement agency, court of competent jurisdiction, or any other judicial body of competent jurisdiction requests personal information, we will only disclose personal information if we are obligated to do so by law or if we have received a warrant, subpoena, court order, or an order from another lawful authority. All such disclosures are documented unless prohibited by law.
 
