@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616091753id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterycanada.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205075656id_/http%3A//www.lotterycanada.com/lottery/%3Fjob%3Dprivacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - Lottery Canada
 
   
-  
-
-
-[](http://hop.clickbank.net/?panthassoc/kensilver)
-
   
 |  | 
 
@@ -45,8 +40,9 @@ Contact Information
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with our Web site, you can contact 
 
-Lottery Canada Email: [privacy@lotterycanada.com](mailto:privacy@lotterycanada.com) |  |  [ ](http://www.retailcanada.com/contest.html?ref=lotterycanada)   
-  
+Lottery Canada Email: [privacy@lotterycanada.com](mailto:privacy@lotterycanada.com) |  | 
+
+[](http://hop.clickbank.net/?panthassoc/kensilver)  
   
 All lottery results are unofficial. Please check with your local lottery retailer for confirmation.  
 Application & Design by Q9 Media. Copyright © 2000-2004 LotteryCanada.com. All rights reserved.  
