@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxnetworks.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402020322id_/http%3A//www.fxnetworks.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxnetworks.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017021928id_/http%3A//www.fxnetworks.com/registration/privacy.html) for the most accurate reproduction.*
 
 # FX Networks
 
