@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206065922id_/http%3A//www.canadiancontent.net/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208085501id_/http%3A//www.canadiancontent.net/corp/privacy.html) for the most accurate reproduction.*
 
 # Canadian Content - Privacy Policy
 
-     We created this privacy policy to ensure our users that any information obtained is kept 100% confidential. We have never released any information to outside companies and never plan to. We have strong values against SPAMMERS (see Commentary about SPAM). 
+## Our commitment
 
-## Information Automatically Logged 
+     We created this privacy policy to ensure that any information obtained from our users is kept 100% confidential. We have never released any information to outside companies and never plan to. We have strong values against SPAMMERS (see Commentary about SPAM). Any users using our forum can be assured that their email address will not be given out to anybody. **Please use this privacy policy as a guarantee of our commitment to you**. 
+
+## **Information Automatically Logged**
 
 We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your shopping cart. Your IP address is also used to gather broad demographic information, and for other purposes. __
 
@@ -24,7 +26,7 @@ Since we do not collect any personal information on this Web site, we do not sha
 
 ####  External Links 
 
-This site contains links to other sites. **Canadian Content, Andem Global Solutions INC.** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **Canadian Content Interactive Media** is not responsible for the privacy practices or the content of such Web sites. 
 
 **Public Forums**
 
