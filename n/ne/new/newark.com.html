@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newark.com privacy policy that was archived on 2004-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604163041id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newark.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208110551id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Newark InOne</title>
@@ -76,18 +76,15 @@ function bgColorChange(obj, bgColor) { //v2
 	null
 }
 
-function layerMenuSwaper() { //v2
- var g,b,k,f,args=layerMenuSwaper.arguments;
+function layerMenuSwap() { //v2
+ var g,b,k,f,args=layerMenuSwap.arguments;
  if(bMenuActive){
-// 	alert("pre woo");
 	 if(!document.setArrayCreated) {menuItems=new Array();document.setArrayCreated=true;} //create the array, adn make sure not to recreate
-//	alert("woo");
 	 for(k=0; k<menuItems.length; k++)
 	 	{
 		if((g=findObject(menuItems[k]))!=null) { //as long as not null
 		 b=(document.layers)?g:g.style; //if layers work then set b to array item   (Style for ie, just name for NS )
 		 b.visibility="hidden";} //hide b which is array item which is everything in the array which leeds us to...
-//		alert("woo2 "+ k);
 		 }
 	 for(k=0; k<args.length; k++) {
 		if((g=findObject(args[k])) != null) { //set g to whatever the layer name is
@@ -97,11 +94,9 @@ function layerMenuSwaper() { //v2
 		 for(j=0;j<menuItems.length;j++) {
 			if(args[k]==menuItems[j]) {f=true;}} // mechanism to only run this once
 		if(!f) {menuItems[menuItems.length++]=args[k];}}} //
-//		alert("woo3 "+ k);
  }
 }
 
-//tmtC_NNresizeFix
 if (document.layers)
   {
   origWidth = innerWidth;
@@ -188,7 +183,7 @@ MM_reloadPage(true);
 var preloadFlag = 1;
 var imageBase ="http://www.newark.com/r2a_base/images/"
 var bMenuActive = false;
-newImages('products','about','order','contact','services');
+newImages('products','about','order','contact','services','myaccount');
 
 </script>
 
@@ -460,22 +455,6 @@ if ( ((OtherStateValue != "XX") && (theFeild.value.length != 0)) && Country.sele
 
 
 
-<script language="JavaScript1.1">
-
-// livehelp simpley creates a widnow to start up the live help text chat app...
-
-function livehelp() { 
-	var browserName = navigator.appName; 
-	browserVer = parseInt ( navigator.appVersion ); 
-	if (browserName == 'Netscape' && browserVer < 4) { 
-		window.open('http://www.newark.com/custsrv/newark_service_form.html','getting_started','width=410,height=320,resizable=yes'); 
-	} else { 
-		window.open('http://www.newark.com/custsrv/newark_service_form.html?'+document.url,'getting_started','width=410,height=320,resizable=yes'); 
-	} 
-} 
-
-</script>
-
 
 
 
@@ -484,9 +463,9 @@ function livehelp() {
 	
 
 <div id="men1trigger" style="Z-INDEX: 4; LEFT: 192px; WIDTH: 65px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
-<a href="/NewarkWebCommerce/newark/en_US/support/checkout/buyBulk.jsp" onclick="bMenuActive=true;turnOn('order');turnOff('products','services','about','contact');layerMenuSwaper('men1sub','menucloser');" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men1sub','menucloser');turnOn('order');turnOff('products','services','about','contact');return false"><img src="http://www.newark.com/r2a_base/images/order_off.gif" border="0" width="65" height="26" name="order"></a>
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('order');turnOff('products','services','about','contact','myaccount');layerMenuSwap('men1sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men1sub','menucloser');turnOn('order');turnOff('products','services','about','contact','myaccount');return false"><img src="http://www.newark.com/r2a_base/images/order_off.gif" border="0" width="65" height="26" name="order"></a>
   <map name="Map"> 
-    <area onmouseover="layerMenuSwaper('men1sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men1sub','menucloser');return false" shape="RECT" coords="0,0,65,27" href="#">
+    <area onmouseover="layerMenuSwap('men1sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwap('men1sub','menucloser');return false" shape="RECT" coords="0,0,65,27" href="#">
   </map>
 </div>
 <div id="men1sub" style="Z-INDEX: 7; LEFT: 192px; VISIBILITY: hidden; WIDTH: 120px; POSITION: absolute; TOP: 83px"> 
@@ -494,14 +473,27 @@ function livehelp() {
     <tbody><tr> 
       <td class="menuout"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="1" width="120"></td>
     </tr>
-  </tbody></table>  
+<tr><td>
+  <table cellspacing="2" cellpadding="2" width="170" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/checkout/shoppingCart.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men1sub','menucloser')">Shopping Cart</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/checkout/buyBulk.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men1sub','menucloser')">Bulk Order Form</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/checkout/billOfMaterials.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men1sub','menucloser')">BOM Upload</a></td>
+    </tr>	
+  </tbody></table> 
+</td></tr></tbody></table> 
 </div>
 <div id="men2trigger" style="Z-INDEX: 4; LEFT: 258px; WIDTH: 113px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
-<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('products');turnOff('order','services','about','contact');layerMenuSwaper('men2sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','menucloser');turnOn('products');turnOff('order','services','about','contact');return false"><img src="http://www.newark.com/r2a_base/images/products_off.gif" border="0" width="113" height="26" name="products"></a>
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('products');turnOff('order','services','about','contact','myaccount');layerMenuSwap('men2sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men2sub','menucloser');turnOn('products');turnOff('order','services','about','contact','myaccount');return false"><img src="http://www.newark.com/r2a_base/images/products_off.gif" border="0" width="113" height="26" name="products"></a>
   <map name="Map"> 
-    <area onmouseover="layerMenuSwaper('men2sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men2sub','menucloser');return false" shape="RECT" coords="0,0,113,27" href="#">
+    <area onmouseover="layerMenuSwap('men2sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwap('men2sub','menucloser');return false" shape="RECT" coords="0,0,113,27" href="#">
   </map>
 </div>
+
 <div id="men2sub" style="Z-INDEX: 7; LEFT: 258px; VISIBILITY: hidden; WIDTH: 170px; POSITION: absolute; TOP: 83px"> 
   <table cellspacing="0" cellpadding="0" width="130" border="0" class="menuout">
     <tbody><tr> 
@@ -510,19 +502,19 @@ function livehelp() {
 <tr><td>
   <table cellspacing="2" cellpadding="2" width="170" border="0">
     <tbody><tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/index.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','men2opt1','menucloser')">Catalog Browse</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="49"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/index.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men2sub','men2opt1','menucloser')">Catalog Browse</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="49"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
     </tr>
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/mfr/list.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','men2opt2','menucloser')">Manufacturers List</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="30"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/mfr/list.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men2sub','menucloser')">Manufacturers List</a></td>
     </tr>    
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="/NewarkWebCommerce/newark/en_US/manufacturers/smp/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','menucloser')">Manufacturers Spotlight</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="/NewarkWebCommerce/newark/en_US/manufacturers/smp/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men2sub','menucloser')">Manufacturers Spotlight</a></td>
     </tr>
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/excess/excess.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','menucloser')">Excess &amp; Obsolete</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/excess/excess.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men2sub','menucloser')">Excess &amp; Obsolete</a></td>
     </tr>
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.spctechnology.com/asp/index.asp" class="menutxt" target="_blank" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','menucloser')">SPC Technology</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.spctechnology.com/asp/index.asp" class="menutxt" target="_blank" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men2sub','menucloser')">SPC Technology</a></td>
     </tr>    			
   </tbody></table></td>
     </tr>
@@ -534,61 +526,60 @@ function livehelp() {
   <table cellspacing="0" cellpadding="0" width="190" border="0" class="menuout">
 <tbody><tr><td>
   <table cellspacing="2" cellpadding="2" width="190" border="0">
-    <tbody><tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/5.html" class="menutxt" onfocus="if(this.blur)this.blur()">Passives</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/7.html" class="menutxt" onfocus="if(this.blur)this.blur()">Semis &amp; Prototyping</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/4.html" class="menutxt" onfocus="if(this.blur)this.blur()">Optoelectronics</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/1.html" class="menutxt" onfocus="if(this.blur)this.blur()">EM Industrial Controls</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/0.html" class="menutxt" onfocus="if(this.blur)this.blur()">Electrical &amp; Protection</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/6.html" class="menutxt" onfocus="if(this.blur)this.blur()">Power Products</a></td>
-    </tr>     
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/3.html" class="menutxt" onfocus="if(this.blur)this.blur()">Interconnect &amp; Wire/Cable</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/9.html" class="menutxt" onfocus="if(this.blur)this.blur()">Tools &amp; Production</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/8.html" class="menutxt" onfocus="if(this.blur)this.blur()">Test &amp; Measurement</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/2.html" class="menutxt" onfocus="if(this.blur)this.blur()">Enclosures &amp; Datacom</a></td>
-    </tr>                               
-  </tbody></table></td>
-    </tr>
+  <tbody><tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Electrical" class="menutxt" onfocus="if(this.blur)this.blur()">Electrical &amp; Protection</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Electromechanical" class="menutxt" onfocus="if(this.blur)this.blur()">EM &amp; Industrial Control</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Enclosures" class="menutxt" onfocus="if(this.blur)this.blur()">Enclosures &amp; Datacom</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Interconnect" class="menutxt" onfocus="if(this.blur)this.blur()">Interconnect &amp; Wire/Cable</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Optoelectronics" class="menutxt" onfocus="if(this.blur)this.blur()">Optoelectronics</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Passives" class="menutxt" onfocus="if(this.blur)this.blur()">Passives</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Power" class="menutxt" onfocus="if(this.blur)this.blur()">Power Products</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Semiconductors" class="menutxt" onfocus="if(this.blur)this.blur()">Semis &amp; Prototyping</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Test" class="menutxt" onfocus="if(this.blur)this.blur()">Test &amp; Measurement</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Tools" class="menutxt" onfocus="if(this.blur)this.blur()">Tools &amp; Production</a></td>
+  </tr>
+  <tr> 
+	<td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> 
+	<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/endecaSearch/searchPage2.jsp?N=4&amp;name=Other" class="menutxt" onfocus="if(this.blur)this.blur()">Other</a></td>
+  </tr>
+   
   </tbody></table>
+</td></tr></tbody></table>
 </div>
 
-
-<div id="men2opt2" style="Z-INDEX: 10; LEFT: 426px; VISIBILITY: hidden; WIDTH: 145px; POSITION: absolute; TOP: 104px"> 
-  <table cellspacing="0" cellpadding="0" width="145" border="0" class="menuout">
-<tbody><tr><td>
-  <table cellspacing="2" cellpadding="2" width="145" border="0">
-    <tbody><tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/mfr/list.html" class="menutxt" onfocus="if(this.blur)this.blur()">Alphabetical</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/mfr/category.html" class="menutxt" onfocus="if(this.blur)this.blur()">Product Category</a></td>
-    </tr>		
-  </tbody></table></td>
-    </tr>
-  </tbody></table>
-</div>
 
 <div id="men3trigger" style="Z-INDEX: 4; LEFT: 372px; WIDTH: 76px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
-<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('services');turnOff('products','order','about','contact');layerMenuSwaper('men3sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','menucloser');turnOn('services');turnOff('products','order','about','contact');return false"><img src="http://www.newark.com/r2a_base/images/services_off.gif" border="0" width="76" height="26" name="services"></a>
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('services');turnOff('products','order','about','contact','myaccount');layerMenuSwap('men3sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men3sub','menucloser');turnOn('services');turnOff('products','order','about','contact','myaccount');return false"><img src="http://www.newark.com/r2a_base/images/services_off.gif" border="0" width="76" height="26" name="services"></a>
   <map name="Map"> 
-    <area onmouseover="layerMenuSwaper('men3sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men3sub','menucloser');return false" shape="RECT" coords="0,0,76,27" href="#">
+    <area onmouseover="layerMenuSwap('men3sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwap('men3sub','menucloser');return false" shape="RECT" coords="0,0,76,27" href="#">
   </map>
 </div>
 <div id="men3sub" style="Z-INDEX: 7; LEFT: 372px; VISIBILITY: hidden; WIDTH: 169px; POSITION: absolute; TOP: 83px"> 
@@ -599,33 +590,27 @@ function livehelp() {
 <tr><td>
   <table cellspacing="2" cellpadding="2" width="169" border="0">
     <tbody><tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/ProductLines.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','menucloser')">Millions of Products</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/TimesavingServices.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men3sub','men3opt1','menucloser')">Timesaving Services</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="14"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
     </tr>
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/TimesavingServices.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','men3opt2','menucloser')">Timesaving Services</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="14"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/fedgov/index.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men3sub','menucloser')">Federal Government</a></td>
     </tr>
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/fedgov/index.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','men3opt3','menucloser')">Federal Government</a><img src="/r2a_base/images/spacer.gif" height="12" border="0" width="15"><img src="/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/design/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men3sub','menucloser')">Design Engineer</a></td>
     </tr>
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/design/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','menucloser')">Design Engineer</a></td>
-    </tr>
-    <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/eprocurement/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','men3opt6','menucloser')">e-procurement<img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="53"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/eprocurement/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men3sub','men3opt4','menucloser')">e-procurement<img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="53"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></a></td>
     </tr>  
   </tbody></table></td>
     </tr>
   </tbody></table>
 </div>
 
-<div id="men3opt2" style="Z-INDEX: 10; LEFT: 539px; VISIBILITY: hidden; WIDTH: 145px; POSITION: absolute; TOP: 104px"> 
+<div id="men3opt1" style="Z-INDEX: 10; LEFT: 539px; VISIBILITY: hidden; WIDTH: 145px; POSITION: absolute; TOP: 84px"> 
   <table cellspacing="0" cellpadding="0" width="145" border="0" class="menuout">
 <tbody><tr><td>
   <table cellspacing="2" cellpadding="2" width="145" border="0">
     <tbody><tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/itracker.html" class="menutxt" onfocus="if(this.blur)this.blur()"><i>i</i>-tracker resources</a></td>
-    </tr>
-    <tr> 
       <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/stockroom/products/" class="menutxt" onfocus="if(this.blur)this.blur()">Stockroom Products</a></td>
     </tr>		
   </tbody></table></td>
@@ -657,7 +642,7 @@ function livehelp() {
   </tbody></table>
 </div>
 
-<div id="men3opt6" style="Z-INDEX: 10; LEFT: 539px; VISIBILITY: hidden; WIDTH: 120px; POSITION: absolute; TOP: 164px"> 
+<div id="men3opt4" style="Z-INDEX: 10; LEFT: 539px; VISIBILITY: hidden; WIDTH: 120px; POSITION: absolute; TOP: 144px"> 
   <table cellspacing="0" cellpadding="0" width="120" border="0" class="menuout">
 <tbody><tr><td>
   <table cellspacing="2" cellpadding="2" width="120" border="0">
@@ -683,9 +668,9 @@ function livehelp() {
 
 
 <div id="men4trigger" style="Z-INDEX: 4; LEFT: 449px; WIDTH: 84px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
-<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('about');turnOff('products','order','services','contact');layerMenuSwaper('men4sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','menucloser');turnOn('about');turnOff('products','order','services','contact');return false"><img src="http://www.newark.com/r2a_base/images/about_off.gif" border="0" width="84" height="26" name="about"></a>
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('about');turnOff('products','order','services','contact','myaccount');layerMenuSwap('men4sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men4sub','menucloser');turnOn('about');turnOff('products','order','services','contact','myaccount');return false"><img src="http://www.newark.com/r2a_base/images/about_off.gif" border="0" width="84" height="26" name="about"></a>
   <map name="Map"> 
-    <area onmouseover="layerMenuSwaper('men4sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men4sub','menucloser');return false" shape="RECT" coords="0,0,84,27" href="#">
+    <area onmouseover="layerMenuSwap('men4sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwap('men4sub','menucloser');return false" shape="RECT" coords="0,0,84,27" href="#">
   </map>
 </div>
 <div id="men4sub" style="Z-INDEX: 7; LEFT: 449px; VISIBILITY: hidden; WIDTH: 130px; POSITION: absolute; TOP: 83px"> 
@@ -696,16 +681,16 @@ function livehelp() {
 <tr><td>
   <table cellspacing="2" cellpadding="2" width="130" border="0">
     <tbody><tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/profile.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','menucloser')">Corporate Profile</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/profile.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men4sub','menucloser')">Corporate Profile</a></td>
     </tr>        
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/history.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','menucloser')">History</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/history.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men4sub','menucloser')">History</a></td>
     </tr>    
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/press/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','men4opt3','menucloser')">Press Releases<img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" width="12" border="0"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/press/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men4sub','men4opt3','menucloser')">Press Releases<img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" width="12" border="0"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></a></td>
     </tr>  
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://newark.kenexa.com/newarkv36/external/" class="menutxt" target="_blank" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','menucloser')">Careers</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://newark.kenexa.com/newarkv36/external/" class="menutxt" target="_blank" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men4sub','menucloser')">Careers</a></td>
     </tr>             		
   </tbody></table></td>
     </tr>
@@ -724,9 +709,9 @@ function livehelp() {
 </div>
 
 <div id="men5trigger" style="Z-INDEX: 4; LEFT: 534px; WIDTH: 94px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
-<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('contact');turnOff('products','order','services','about');layerMenuSwaper('men5sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser');turnOn('contact');turnOff('products','order','services','about');return false"><img src="http://www.newark.com/r2a_base/images/contact_off.gif" border="0" width="94" height="26" name="contact"></a>
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('contact');turnOff('products','order','services','about');layerMenuSwap('men5sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men5sub','menucloser');turnOn('contact');turnOff('products','order','services','about','myaccount');return false"><img src="http://www.newark.com/r2a_base/images/contact_off.gif" border="0" width="94" height="26" name="contact"></a>
   <map name="Map"> 
-    <area onmouseover="layerMenuSwaper('men5sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men5sub','menucloser');return false" shape="RECT" coords="0,0,94,27" href="#">
+    <area onmouseover="layerMenuSwap('men5sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwap('men5sub','menucloser');return false" shape="RECT" coords="0,0,94,27" href="#">
   </map>
 </div>
 <div id="men5sub" style="Z-INDEX: 7; LEFT: 534px; VISIBILITY: hidden; WIDTH: 185px; POSITION: absolute; TOP: 83px"> 
@@ -737,26 +722,57 @@ function livehelp() {
 <tr><td>
   <table cellspacing="2" cellpadding="2" width="185" border="0"> 
     <tbody><tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/contact.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">Contact Information</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/contact.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men5sub','menucloser')">Contact Information</a></td>
     </tr>  
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/locations.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">US Sales Offices</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/locations.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men5sub','menucloser')">US Sales Offices</a></td>
     </tr>              		
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/nwkintl.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">Worldwide Sales Offices</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/nwkintl.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men5sub','menucloser')">Worldwide Sales Offices</a></td>
     </tr> 
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/sendmail.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">Send an Email</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/sendmail.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men5sub','menucloser')">Send an Email</a></td>
     </tr> 
     <tr> 
-      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/webApps/webForms/SurveyRequest.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">Request a Catalog</a></td>
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/webApps/webForms/SurveyRequest.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men5sub','menucloser')">Request a Catalog</a></td>
     </tr>                      		
   </tbody></table></td>
     </tr>
   </tbody></table>
 </div>
+<div id="men6trigger" style="Z-INDEX: 4; LEFT: 629px; WIDTH: 96px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('myaccount');turnOff('products','order','services','about','contact','myaccount');layerMenuSwap('men6sub','menucloser');return false" onfocus="if(this.blur)this.blur();" onmouseover="layerMenuSwap('men6sub','menucloser');turnOn('myaccount');turnOff('products','order','services','about','contact');return false"><img src="http://www.newark.com/r2a_base/images/myaccount_off.gif" border="0" width="96" height="26" name="myaccount"></a>
+  <map name="Map"> 
+    <area onmouseover="layerMenuSwap('men6sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwap('men6sub','menucloser');return false" shape="RECT" coords="0,0,96,27" href="#">
+  </map>
+</div>
+<div id="men6sub" style="Z-INDEX: 7; LEFT: 629px; VISIBILITY: hidden; WIDTH: 185px; POSITION: absolute; TOP: 83px"> 
+<table cellspacing="0" cellpadding="0" width="185" border="0" class="menuout">
+    <tbody><tr> 
+      <td class="menuout"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="1" width="185"></td>
+    </tr>
+<tr><td>
+  <table cellspacing="2" cellpadding="2" width="185" border="0"> 
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/profile/editProfile.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men6sub','menucloser')">Edit My Profile</a></td>
+    </tr>  
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/profile/addressManager.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men6sub','menucloser')">Address Manager</a></td>
+    </tr>  
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/OrderQuery/OrdHistory.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men6sub','menucloser')">Order Status / History</a></td>
+    </tr>  
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/checkout/listSavedCart.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap('men6sub','menucloser')">Saved Shopping Carts</a></td>
+    </tr>  
 
-<div id="menucloser" style="Z-INDEX: 3; LEFT: 0px; VISIBILITY: hidden; WIDTH: 98%; POSITION: absolute; TOP: 0px; HEIGHT: 400px"><a href="/NewarkWebCommerce/newark/en_US/common/javascript:;" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper();turnOff('products','order','services','about','contact');bMenuActive=false;"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="400" width="100%" border="0"></a></div>
+
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="menucloser" style="Z-INDEX: 3; LEFT: 0px; VISIBILITY: hidden; WIDTH: 98%; POSITION: absolute; TOP: 0px; HEIGHT: 400px"><a href="/NewarkWebCommerce/newark/en_US/common/javascript:;" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwap();turnOff('products','order','services','about','contact','myaccount');bMenuActive=false;"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="400" width="100%" border="0"></a></div>
 
 
 
@@ -851,19 +867,9 @@ function livehelp() {
 	
 	<table width="567" cellpadding="0" cellspacing="0" border="0" class="table-body-blue"><tbody><tr><td class="table-body-blue" align="right">
 
-	<a href="/NewarkWebCommerce/newark/en_US/support/checkout/shoppingCart.jsp"><img src="http://www.newark.com/r2a_base/images/btn_cartbb.gif" width="24" height="21" border="0" align="middle" alt="Cart"></a>
-	 	
-		
-		
-		
-	 	
-		
-					
-			<a href="/NewarkWebCommerce/newark/en_US/common/redirectFromHome.jsp"><img src="http://www.newark.com/r2a_base/images/btn_myaccount_greybb.gif" width="91" height="19" border="0" align="middle" alt="My Account"></a>
-		
-		
-	
-	<img src="http://www.newark.com/r2a_base/images/spacer.gif" align="middle" width="1" height="25"><br>
+	<img src="http://www.newark.com/r2a_base/images/spacer.gif" align="middle" width="1" height="25">
+	<a href="/NewarkWebCommerce/newark/en_US/support/checkout/shoppingCart.jsp"><img src="http://www.newark.com/r2a_base/images/btn_cartbb.gif" hspace="3" width="24" height="21" border="0" align="middle" alt="Cart"></a>
+	<br>
 	</td></tr></tbody></table> 
 	</td></tr></tbody></table> 
 	
@@ -871,10 +877,6 @@ function livehelp() {
 </tr>
 <tr>
 	<td class="txtgreyHEADER" align="right">
-		 	
-			
-			
-				
 		<img src="http://www.newark.com/r2a_base/images/spacer.gif" width="5" height="12">
 	</td>
 </tr>
@@ -1129,7 +1131,7 @@ function livehelp() {
 		
 	
 		<div class="txtwhiteSMALL" align="center">Don't know what to do?<br>
-		<a href="javascript:livehelp();"><img src="http://www.newark.com/r2a_base/images/btn_livehelpbb.gif" border="0" alt="Live Help" vspace="3"></a>
+		<a href="https://server.iad.liveperson.net/hc/70921224/?cmd=file&amp;file=visitorWantsToChat&amp;site=70921224&amp;byhref=1" target="chat70921224" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/70921224/?cmd=file&amp;file=visitorWantsToChat&amp;site=70921224&amp;referrer='+escape(document.location),'chat70921224','width=472,height=320');return false;"><img src="http://www.newark.com/r2a_base/images/btn_livehelpbb.gif" border="0" alt="Live Help" vspace="3"></a>
 		</div>
 		
 	
@@ -1288,18 +1290,20 @@ function livehelp() {
         Statement, please contact <a href="http://www.newark.com/custsrv/sendmail.html">our websupport team</a>. 
       </p><p class="stdbig"><b>Traffic Data</b><br>
         <br>
-      </p><p span="" class="std"> Each time a visitor comes to Newark InOne's site, 
-        information is collected including your domain name / IP address, referring 
-        URL, browser and platform, time of visit, pages visited and searches performed, 
-        if any. These statistics are used to help us improve the performance of 
-        our website.<br><br>Aggregated traffic data may be shared with potential advertisers, research firms, and business partners for demographic purposes. When used in this aggregated form no one will be able to identify or contact you.
+      </p><p span="" class="std"> We collect click-stream data such as referring URL, 
+      browser and platform, time of visit, pages visited and searches performed. 
+      These statistics are used to help us improve the performance of our website 
+      and better serve our customers. We analyze this data to establish trends and 
+      help us improve your online experience.<br><br>Aggregated traffic data may be 
+      shared with potential advertisers, research firms, and business partners for 
+      demographic purposes. When used in this aggregated form no one will be able 
+      to identify or contact you. 
       </p><p class="stdbig"><b>Use of E-mail Addresses</b><br>
         <br>
-      </p><p span="" class="std"> Registered Newark InOne users may "opt out" 
-        of the e-mail communications offered in the "My Profile" section 
-        of the site. If you change your mind you can always reverse your decision 
-        later. E-mails that confirm business transactions will always be sent 
-        to you.
+      </p><p span="" class="std"> Any e-mail sent by Newark InOne will contain unsubscribe 
+      information so that you may opt-out of future e-mails at any time. E-mails that 
+      confirm business transactions will always be sent to you. 
+
       </p><p class="stdbig"><b>Use of Cookies</b><br>
         <br>
       </p><p span="" class="std"> A "cookie" is a piece of information 
@@ -1333,7 +1337,7 @@ function livehelp() {
       </p><p class="stdbig"><b>Security</b><br>
         <br>
       </p><p span="" class="std"> Find out how we maintain a high level of <a href="security.jsp">security</a> on our site.
-
+       <a name="1"></a>
       </p><p class="stdbig"><b>Terms of Use</b><br>
         <br>
       </p><p span="" class="std">The Newark InOne website may contain links to third-party sites. The linked sites are not under the control of Newark InOne, and the Newark InOne is not responsible for the contents of any linked site, any link contained in a linked site, any changes or updates to such linked sites, or any transmission from any linked site. Newark InOne is providing these links to third-party sites only as a convenience, and the inclusion of any link does not imply endorsement by Newark InOne of the site.
@@ -1392,18 +1396,21 @@ function livehelp() {
 	
 
 		<table width="760" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr><td class="blackBGNAV"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="760" height="2"></td>
-		</tr>
+		<tbody><tr><td bdcolor="999999" style="background:999999;"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="760" height="2"></td></tr>
+		<tr><td bgcolor="CECFCE"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="10" height="1"></td></tr>
 		<tr align="center">
-			<td class="greyTEXTFOOTER" nowrap=""><span class="greyTEXTFOOTER"><a href="/products/browse/index.html" class="blueTEXTFOOTER">Catalog Browse</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/common/javascript:livehelp();" class="blueTEXTFOOTER">Live&nbsp;Help</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/" class="blueTEXTFOOTER">Help&nbsp;Center</a> |&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp" class="blueTEXTFOOTER">Privacy Policy</a>&nbsp;|&nbsp;<a href="/sitemap.html" class="blueTEXTFOOTER">Site Map</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/terms.jsp" class="blueTEXTFOOTER">Terms and Conditions</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp" class="blueTEXTFOOTER">Terms of Use</a></span></td>
+		</tr><tr> <td bgcolor="CECFCE"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="1" height="10"></td></tr>
+			<tr><td class="greyTEXTFOOTER" nowrap=""><span class="greyTEXTFOOTER"><a href="/products/browse/index.html" class="blueTEXTFOOTER">Catalog Browse</a>&nbsp;|&nbsp;<a href="https://server.iad.liveperson.net/hc/70921224/?cmd=file&amp;file=visitorWantsToChat&amp;site=70921224&amp;byhref=1" target="chat70921224" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/70921224/?cmd=file&amp;file=visitorWantsToChat&amp;site=70921224&amp;referrer='+escape(document.location),'chat70921224','width=472,height=320');return false;" class="blueTEXTFOOTER">Live&nbsp;Help</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/" class="blueTEXTFOOTER">Help&nbsp;Center</a> |&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp" class="blueTEXTFOOTER">Privacy Policy</a>&nbsp;|&nbsp;<a href="/sitemap.html" class="blueTEXTFOOTER">Site Map</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/terms.jsp" class="blueTEXTFOOTER">Terms and Conditions</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp#1" class="blueTEXTFOOTER">Terms of Use</a></span></td>
 		</tr>
+		<tr><td bgcolor="CECFCE" style="background:CECFCE;"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="10" width="1"></td></tr>
 		<tr align="center">
 			<td class="greyTEXTFOOTER">
 			<table width="300" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr><td align="center" nowrap=""><span class="helpTITLE">Web Site Support:<br>1-800-NEWARK-T</span><br><span class="greyTEXTFOOTER">(1-800-639-2758)</span></td><td><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="15" height="2"></td><td align="center" nowrap=""><span class="helpTITLE">Contact Newark InOne:<br>1-800-4-NEWARK</span><br><span class="greyTEXTFOOTER">(1-800-463-9275)</span></td></tr>
 			</tbody></table>
 			</td>
-		</tr>		
+		</tr>
+		<tr> <td bgcolor="CECFCE" style="background:CECFCE;"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="71" height="10"></td></tr>		
 		<tr align="center">
 			<td class="greyTEXTFOOTER"><a href="/NewarkWebCommerce/newark/en_US/support/help/copyright.jsp" class="greyTEXTFOOTER"><span class="greyTEXTFOOTER">© 2004 Newark InOne</span></a>
 
@@ -1456,9 +1463,9 @@ var _acct="DM53050759EA93EN3"; 	//account number(s)
 var _pn="PUT+PAGE+NAME+HERE"; 	//page name(s)
 var _mlc="CONTENT+CATEGORY";	//multi-level content category
 var _seg=""; // visitor segmentation
-var _cmp="null"; // campaign id
+var _cmp=""; // campaign id
 var _gp="null";  // campaign goal
-var _cmpn="";// campaign id in query
+var _cmpn="CMP";// campaign id in query
 var _gpn=""; // campaign goal in query
 var _fnl=""; // funnels
 var _pec=""; // error codes
@@ -1471,7 +1478,7 @@ var _hcv=""; // conversion value
 var _hlt=""; // lead tracking
 var _hla=""; // lead attribute
 var _hqsr="";// response attribute in referral query
-var _hqsp="";// response attribute in query
+var _hqsp="QTEXT";// response attribute in query
 var _hc1=""; // custom 1
 var _hc2=""; // custom 2
 var _hc3=""; // custom 3
@@ -1540,6 +1547,7 @@ src="http://ehg-newarkinone.hitbox.com/HG?hc=we36&cd=1&hv=6&ce=u&hb=DM53050759EA
 
 
 
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="https://server.iad.liveperson.net/hc/70921224/x.js?cmd=file&amp;file=chatScript3&amp;site=70921224&amp;&amp;category=en;woman;3"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 
 
 
