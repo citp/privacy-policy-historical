@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksonboard.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416235045id_/http%3A//www.moniker.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksonboard.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206060609id_/http%3A//www.moniker.com/help/privacy.html) for the most accurate reproduction.*
 
 # Moniker.com - more than a name
 
