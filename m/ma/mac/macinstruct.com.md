@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macinstruct.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607225020id_/http%3A//www.macinstruct.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macinstruct.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604020645id_/http%3A//www.macinstruct.com/privacy) for the most accurate reproduction.*
 
-# MacInstruct: Privacy Policy
+# MacInstruct : : Privacy Policy
 
 [Home](http://www.macinstruct.com/) |  [Tutorials](http://www.macinstruct.com/tutorials/index.html) |  [Tips](http://www.macinstruct.com/tips/index.html) |  [Ask](http://www.macinstruct.com/ask/index.html) |  [Reviews](http://www.macinstruct.com/reviews/index.html) |  [Interviews](http://www.macinstruct.com/interviews/index.html) |  [Forums](http://www.macinstruct.com/cgi-bin/Ultimate.cgi?action=intro) |  [About Us](http://www.macinstruct.com/about.html)
 
@@ -25,7 +25,7 @@ In the event that MacInstruct starts to use Cookies more widely, they will never
 **Contests**  
 MacInstruct may sponsor sweepstakes, contests or other events from time to time which require the collection, processing and storage of certain contact and demographic information (e.g., place of residence) for use as part of the contest. Sometimes these contests may be jointly-sponsored with companies. In that case the user's contact and other information will be shared with the other company only if it is expressly stated in the rules of the contest. 
 
-However, such contests will include the option to receive e-mail from our partners regarding their products or services. If you sign up for such an e-mail list, we will release your e-mail address to our partner for the purpose of such mailings, and only for that purpose. We will not release any of your other personal information to that partner. If you do not sign up for such an e-mail list, our partners will receive no information on you ­ including your e-mail address ­ even if you enter the associated contest or promotion. 
+However, such contests will include the option to receive e-mail from our partners regarding their products or services. If you sign up for such an e-mail list, we will release your e-mail address to our partner for the purpose of such mailings, and only for that purpose. We will not release any of your other personal information to that partner. If you do not sign up for such an e-mail list, our partners will receive no information on you - including your e-mail address - even if you enter the associated contest or promotion. 
 
 **Surveys**  
 MacInstruct may conduct voluntary surveys of visitors to the site to collect certain demographic information about visitors to its site. This information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific readers. 
@@ -44,7 +44,3 @@ If you would like to unsubscribe from a MacInstruct newsletter, please follow th
 
 **Who Can I Ask if I Have Any Additional Questions?**  
 If you have any further questions or concerns about MacInstruct's privacy policies and use of personal information, please send them to [matt@macinstruct.com](mailto:matt@macinstruct.com). 
-
-[Home](http://www.macinstruct.com/) |  [Tutorials](http://www.macinstruct.com/tutorials/index.html) |  [Tips](http://www.macinstruct.com/tips/index.html) |  [Ask](http://www.macinstruct.com/ask/index.html) |  [Reviews](http://www.macinstruct.com/reviews/index.html) |  [Interviews](http://www.macinstruct.com/interviews/index.html) |  [Forums](http://www.macinstruct.com/cgi-bin/Ultimate.cgi?action=intro) |  [About Us](http://www.macinstruct.com/about.html)
-
-Copyright © 2000 [MacInstruct](http://www.macinstruct.com/). All rights reserved. Unauthorized duplication is a violation of applicable laws. 
