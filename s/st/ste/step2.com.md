@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604065058id_/http%3A//step2.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204200258id_/http%3A//step2.com/about/privacy.html) for the most accurate reproduction.*
 
 # Welcome to The Step2 Company Web Site!
 
-[](https://web.archive.org/web/20010604065058id_/http%3A//step2.com/index.html) | 
+[](https://web.archive.org/web/20011204200258id_/http%3A//step2.com/index.html) | 
 
 **On-Line Privacy Policy**
 
@@ -23,13 +23,13 @@ When you send us personal information such as your email address, street address
 >  Streetsboro, Ohio 44241  
 >  U.S.A. 
 > 
-> 3\. If you are registering a Sidewalk CruisersTM battery-operated vehicle, we will log the requested information in a database which will be used in the unlikely event that we need to contact you regarding the care or use of the product you registered. 
+> 3\. If you are registering a ThunderVoltzTM battery-operated vehicle, we will log the requested information in a database which will be used in the unlikely event that we need to contact you regarding the care or use of the product you registered. 
 
 _Special Notice for Parents: Personal Information About Your Child_
 
 We do not knowingly collect personally identifiable information directly from children, and we do not knowingly place children on our mailing list. 
 
-The only time we request information about your child is when you register a Sidewalk CruisersTM battery-operated vehicle. This information is used, in aggregate only, solely for the purpose of analyzing trends that help us develop new products or make adjustments to existing products. _Under no circumstances is this information used to knowingly market directly to your child or contact your child._
+The only instances in which we request information about your child are when you register a ThunderVoltzTM battery-operated vehicle or when you register to receive information by email in our "What's New" area. This information is used, in aggregate only, solely for the purpose of analyzing trends that help us develop new products or make adjustments to existing products. _Under no circumstances is this information used to knowingly market directly to your child or to contact your child._
 
 _Third Parties_
 
@@ -42,3 +42,5 @@ When you visit our websites we detect and may record how you got here and where 
 _Your Acceptance Of This Policy_
 
 When you use our websites, you acknowledge your acceptance of this privacy policy. If you do not agree with this policy, please do not use our websites. 
+
+> 
