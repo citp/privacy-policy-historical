@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402005905id_/http%3A//www.allfreelancework.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelancework.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204070515id_/http%3A//www.allfreelancework.com/privacy.php) for the most accurate reproduction.*
 
 # All Freelance Work : Self-Employed jobs: Contractors : Consultants : Independent Professionals
 
 |   | 
 
-[**Home**](https://web.archive.org/web/20040402005905id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
+[**Home**](https://web.archive.org/web/20041204070515id_/http%3A//www.allfreelancework.com/indexx.html) **PRIVACY POLICY**
 
 This is the web site of **AllFreelance**.  
 
@@ -36,69 +36,46 @@ With respect to security: We always use industry-standard encryption technologie
 
 If you feel that this site is not following its stated information policy, you may **[contact us](mailto:allfreelance@comcast.net)**.
 
-| 
-
-[](http://www.allfreelancework.com/portfoliofr.php?id=110407)
-
-[](http://www.allfreelancework.com/portfoliofr.php?id=109637)
-
-   
-
-
-[](http://www.allfreelancework.com/portfoliofr.php?id=46426)
-
-[](http://www.allfreelancework.com/portfoliofr.php?id=55297)
-
-[](http://www.allfreelancework.com/afwtour.php)
-
 |  |  |  |  |  |   
 ---|---|---|---|---  
 |  |  |  |  |   
 ---|---|---|---|---|---  
-  
-****  
-  
 |  |  |  |  |   
 | 
 
 | 
 
-Please suggest a site [**here**](http://www.allfreelancework.com/submit.php)\- 
-
-[](http://www.allfreelance.com/contractedwork.html)
-
 **THE WEB DESIGN BUSINESS KIT  
   
   
-**Everything you need to start a Web Design Business or Grow your Existing One:
-
-  * Strategies for leveraging yourself to increase income
-  * How to use surveys to develop your marketing plans
-  * Ways to manage 10+ Projects at once
-  * How to open offices, hire and manage employees
-
-
-
-[**Download FREE Sample Chapters**](http://www.sitepoint.com/launch/cc41c7/3/4)  
-****
-
-[](http://www.qksrv.net/click-536746-4003080)
-
-[  
-](http://allfreelance.billingorchard.com/)  
-BillingOrchard is a complete, online billing application for freelance developers, web design firms, and contract employees. [**15-Day Free Trial**](http://allfreelance.billingorchard.com/)
-
-**[Designer's Contracts and Pricing Guides](http://www.creativepublic.com/)** Quality contracts, pricing guides, and articles for designers.
+**Everything you need to start a Web Design Business [**Download FREE Sample Chapters**](http://www.sitepoint.com/launch/cc41c7/3/4)
 
 **[Art Institute Online](http://quinst.com/c.jsp?area=longfangtaimucheng)**  
 Learn Graphic Design or Web Design with Art Institute Online.
 
+****[](http://www.allfreelancework.com/click.php?action=go&to=contract)****
+
+[](http://www.tkqlhce.com/4m115vpyvpxCIGJKHJCEEHGJMD)
+
+[](http://www.elance.com/c/cats/main/sellers.pl?&rid=12BN)
+
+[ ](http://www.freetrademagazinesource.com/referralsin.aspx?AffiliateID=84798074)[](http://allfreelance.tradepub.com/) 
+
+[](http://click.linksynergy.com/fs-bin/click?id=kaYZeWJa*z8&offerid=61127.10000041&subid=0&type=4)
+
+[](http://hop.clickbank.net/hop.cgi?afwork2%20/howtopub)
+
+**[](http://allfreelance.billingorchard.com/)******
+
+**[Designer's Contracts and Pricing Guides](http://www.creativepublic.com/)** Quality contracts, pricing guides, and articles for designers.
+
 [**Resume Writing Services**](http://allfreelance.employment911.com/?a=50&b=5000)
 
-sister sites : **  
+**sister sites / partners:** **  
 [AllFreelance.com](http://www.allfreelance.com/indexx.html)  
 [Design Resources  
-](http://www.deezin.com/)**[**AllFreecruit**](http://www.allfreecruit.com/) ****
+](http://www.deezin.com/)****[Blue Gecko](http://www.bluegeckonetwork.com/) **
 
 |  |  |   
+   
  
