@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2003-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030216063215id_/http%3A//novinite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202214442id_/http%3A//novinite.com/privacy.html) for the most accurate reproduction.*
 
-# novinite.com
+# novinite.com - Privacy
 
 **What this Privacy Policy Covers**
 
@@ -9,7 +9,8 @@ This Privacy Policy covers Novinite.com treatment of personally identifiable inf
 **Information Collection and Use**
 
 We collect personal information from you through:  
-\- the use of the registration form for The News service,  
+\- the use of the registration form for Sofia Morning News service,  
+\- the use of the registration form for Novinite.com News Alert,  
 \- the forms for sending news to a friend,   
 \- every time you e-mail us your details.  
 When you register with Тhe News services or when you send news to a friend, we ask ONLY for email address and name. Once you register with Novinite.com and sign in to our services or you send news to a friend, your name and e-mail address are not anonymous to us. 
