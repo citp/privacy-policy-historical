@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secure-res.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622114806id_/http%3A//www.secure-res.com/hotel-services/Customer-Service/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure-res.com privacy policy that was archived on 2003-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031221004554id_/http%3A//secure-res.com/hotel-services/Customer-Service/privacy-policy.htm) for the most accurate reproduction.*
 
-# Secure-Res.com - Privacy Policy
+# secure online reservations privacy policy - secure-res.com
 
 **SECURE-RES.COM privacy policy**  
 At SECURE-RES.COM, we understand that privacy on the Internet is important to you and your guests. We are providing this Privacy Statement to help you understand how we collect and use information. **Information Automatically Logged**  
