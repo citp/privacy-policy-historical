@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618183516id_/http%3A//www.dawnsign.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203001902id_/http%3A//dawnsign.com/general/privacy.html) for the most accurate reproduction.*
 
 # DawnSign Press.com Privacy Policy
 
 * **Privacy Notice**
-* [Conditions Of Use](https://web.archive.org/web/20030618183516id_/http%3A//www.dawnsign.com/general/conditionsofuse.html)
+* [Conditions Of Use](https://web.archive.org/web/20031203001902id_/http%3A//dawnsign.com/general/conditionsofuse.html)
 | 
 
 ## **The following policy applies to the DAWNSIGN.COM site.**
@@ -43,5 +43,3 @@ Visitors will find links from DAWNSIGN.COM to independently owned, controlled, a
 We may revise our above policy as the content on our site continues to change.
 
 DAWNSIGN.COM is owned and operated by DawnSignPress, 6130 Nancy Ridge Drive, San Diego, CA 92121-3223. We can be reached by telephone or TTY at 800-549-5350 or by email at [info@dawnsign.com](mailto:info@dawnsign.com). If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify your personal information, or notify us that you want your information deleted from our files, please contact us.
-
-|  
