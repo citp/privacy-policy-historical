@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206090000id_/http%3A//www.excite.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excite.co.uk privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603235857id_/http%3A//www.excite.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Excite UK Help - Privacy Policy
 
@@ -14,7 +14,7 @@
 ---  
 Excite UK wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide to us and to control how we use that information. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have. 
 
-This statement discloses the privacy policy for the Excite UK Network of sites, which encompasses the site [http://www.excite.co.uk](http://www.excite.co.uk/) and all co-branded versions of this site (http://btclick.excite.co.uk, http://btclickfam.excite.co.uk, http://btclickbus.excite.co.uk, http://business-barclays.excite.co.uk, http://personal-barclays.excite.co.uk, http://cpw.excite.co.uk, http://uunet.excite.co.uk, http://dellnet.excite.co.uk) that collectively form and are referred to as the Excite UK Network. This statement does not extend to sites that are linked to the Excite UK Network but which are not part of the Excite UK Network. 
+This statement discloses the privacy policy for the Excite UK Network of sites, which encompasses the site [http://www.excite.co.uk](http://www.excite.co.uk/) and all co-branded versions of this site (http://cpw.excite.co.uk, http://uunet.excite.co.uk, http://dellnet.excite.co.uk) that collectively form and are referred to as the Excite UK Network. This statement does not extend to sites that are linked to the Excite UK Network but which are not part of the Excite UK Network. 
 
 The Excite UK Network recognises it has an important mission to build users? trust and confidence in the Internet by promoting the principles of disclosure and informed consent. This privacy policy answers the following questions: 
 
@@ -52,4 +52,14 @@ You may, however, elect to tell us things that you want the Excite UK Network to
 
 The choice of how much personally identifiable information about yourself to disclose to the Excite UK Network is left completely up to you, our customer. But however you choose to interact with the Excite UK Network, you have our guarantee of privacy:
 
- **The Excite UK Network will never willfully disclose individually identifiable information about its customers to any party outside the Excite UK Network without first receiving that customer's permission.**
+ **The Excite UK Network will never willfully disclose individually identifiable information about its customers to any party outside the Excite UK Network without first receiving that customer's permission.**  
+  
+The individually identifiable information that you provide will be used extensively within the Excite UK Network to provide a personalised experience to you. It will also be shared with Excite UK's partners that provide some of the personalized content on our site (see "Use of the Information" above for some examples) and other third parties unrelated to offerings on the Excite UK Network. This information will only be shared if you have given your permission for this to occur. Our privacy guarantee to you remains unchanged: 
+
+**The Excite UK Network will never willfully disclose individually identifiable information about any customer to any party outside the Excite UK Network without first receiving that customer's permission.**
+
+Other companies that place advertising on our site may collect information about you when you view or click on their advertising or content. The Excite UK Network does not control this collection of information. You should contact these advertisers or content providers directly if you have any questions about their use of this information. Additionally, the Excite UK Network does not control the information collection and distribution policies on sites outside the Excite UK Network, although we do encourage our co-branding partners to adopt privacy policies similar to this one. 
+
+Please note that all the information you provide us will be transferred to, stored and processed in the United States. By using Excite, you agree to such transfer, storage and processing.   
+  
+---
