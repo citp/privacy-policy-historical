@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cpaaustralia.com.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205054127id_/http%3A//www.cpaaustralia.com.au/global/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaaustralia.com.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606201040id_/http%3A//cpaaustralia.com.au/global/privacy.asp) for the most accurate reproduction.*
 
 # Privacy statement
 
 ##   
 Background
 
-From 21 December 2001, the Privacy Act 1988 ('the Act') has extended to private sector organisations, including CPA Australia (ABN 64 008 392 452) ('CPA'). The Act requires private sector organisations like us to comply with 10 National Privacy Principles (NPPs). The NPPs establish minimum standards in relation to the collection, holding, use disclosure, management, access, correction and disposal of Personal Information about natural persons. For a summary of the NPPs, [click here](https://web.archive.org/11_business_tools/14_privacy/11_14_0_17_npps.asp).
+From 21 December 2001, the Privacy Amendment (private Sector) Act 2000 ("The Act") applies to private sector organisations, including CPA Australia (ABN 64 008 392 452) ('CPA'). The Act requires private sector organisations like us to comply with 10 National Privacy Principles (NPPs). The NPPs establish minimum standards in relation to the collection, holding, use disclosure, management, access, correction and disposal of Personal Information about natural persons. For a summary of the NPPs, [click here](https://web.archive.org/11_business_tools/14_privacy/11_14_0_17_npps.asp).
 
 ##   
 Scope
