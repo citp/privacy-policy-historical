@@ -1,415 +1,208 @@
-> *The following text is extracted and transformed from the onhealth.com privacy policy that was archived on 2000-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001110122700id_/http%3A//onhealth.webmd.com/home/info/item%2C3678.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onhealth.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610153304id_/http%3A//my.webmd.com/privacy_policy) for the most accurate reproduction.*
 
-# OnHealth: Privacy Policy
-
-[< About OnHealth ](https://web.archive.org/web/20000622054703id_/http%3A//onhealth.com/home/info/index.asp)
-
-**OnHealth's Privacy Policy**
-
-Your privacy is a top concern for us. We aim to have the strongest privacy policy of any health Web site.
-
-We want you to get the most out of OnHealth. Having a truly personal experience entails sharing some personal information with us and we want you to feel comfortable and trust that we make every effort to protect your confidentiality. Please take a few minutes to read our complete policy so you can understand how information is used and the specific measures we take to protect your personal information.
-
-**Our Pledge to You**
-
-  * We will do our very best to protect your personal privacy.
-  * We will never sell your personal information to anyone. 
-  * We will never individually identify you to third parties. However, to defer the costs of publishing OnHealth, we may at times distribute general information about our users to advertisers or business associates. This information typically includes the total number of people who visit our site, the percentage of women vs. men, etc., but we will never individually identify you. 
-  * We will clearly state why we are collecting personal information and how it will be used.
-  * We will keep this policy, as well as our privacy practices and systems, up to date. You can choose to be notified of changes to the policy.
-  * You have control over how your personal information is used.
-  * You can inspect and edit your complete personal profile.
-
-**Security**  
-We have installed a number of security measures to protect the confidentiality of your personal information.
-
-  1. We have a firewall to prevent unauthorized access to our systems.
-  2. Your membership information lives on a separate database server that sits behind this firewall. We safeguard your information with an encryption technology called Secure Socket Layer (SSL). SSL encryption protects any personal information you send over the Internet by making it impossible for that information to be deciphered by any systems other than the ones we use at OnHealth.
-  3. OnHealth has developed a registration/login process so that your personal profile is password protected. You are the only one who has access to your personal information. You should always log out when you're done with your session to ensure that others cannot access your account.
-
-**IP Addresses**  
-An Internet Protocol address is a unique string of numbers assigned to your computer by your Internet Service Provider (ISP). All computers must have an IP address in order to connect to the Internet. This address may be the same every time you log on or a different number may be assigned each time you connect. OnHealth may use your IP address in an effort to determine the quickest route for your computer to use when connecting to our site's servers. User IP addresses are used by our Web server logs to count the number of users who visit different pages. We do not use this IP information in any other system.
-
-**Cookies**  
-A “cookie” is a small line of text that is stored with your Web browser when you visit a cookie-enabled Web site. The text can contain an identification code (such as "userID=28347234") or user preferences (such as "myFont=Helvetica"). As you browse the Web, cookie-enabled sites will send cookies to your browser along with Web pages; your browser has options that will let you control whether the browser accepts cookies, rejects cookies, or notifies you each time a cookie is sent to you.
-
-If your browser is set to reject cookies, cookie-enabled Web sites will not recognize you when you return. This provides you with anonymity, but it also makes it very difficult to offer you customized services. It is also less secure than using cookies, because all of your specific data must be sent to the Web site each time you view a page. Accepting cookies means your private data can stay at the Web server, and the only information going over the Internet is your ID cookie.
-
-If your browser is set to accept cookies, any cookies that are sent to your browser are stored in your computer for a period of time. A "session" cookie is stored only in your computer's working memory ("RAM"), and only lasts for your browsing session. When you close all of your browser's windows, or when you shut down your computer, the session cookie disappears forever. A "permanent" cookie is stored on your computer's hard drive until a specified date (could be tomorrow, next week or 10 years from now). Permanent cookies stay on your computer until either a) they expire, b) they are overwritten with newer cookies, or c) you manually remove them.
-
-OnHealth uses cookies in the following ways:
-
-  1. To collect general information related to how many people are using OnHealth. 
-  2. To record your participation in online polls we may offer. The cookie only notes that you have responded and are ready to see the poll results. Your specific response is not stored in the cookie.
-  3. Our community boards use session cookies to identify you by your login user name, and to have your e-mail address handy rather than look it up on each page view. The boards also use a persistent cookie to tell when you last logged on to the boards. This way the boards can indicate to you which messages are new to you. Our chat system uses a persistent cookie to save your chat settings, such as whether you are using the HTML chat client or the Java chat client.
-  4. To let you easily move through “members-only” pages after login once per session. Without cookies, you would need to log in each time you browse to another members-only page.
-  5. We run our own ad server, powered by NetGravity technology. Our ad server uses a cookie in order to limit the number of exposures a person has to a particular ad during their visit to OnHealth. The cookie expires when you terminate your visit.
-  6. In some cases OnHealth's advertisers utilize third-party advertising companies to serve banners or links on the OnHealth site. These parties may collect information by placing a cookie on your hard drive. See Third-Party Ads for more information.
-
-**Information Collected by OnHealth**  
-You are not required to submit any personal information to use the OnHealth Web site. However, you may choose to join OnHealth to receive special benefits and services that will provide you with a more personalized experience. If you wish to take advantage of these membership services, we will ask you to provide us with some personal information.
-
-| **We collect information in the following areas:**  
----  
-**Registration**  
-**What Information Is Collected**  
-We collect member name, password, first name, last name, e-mail address, birth date, gender, ZIP code (for U.S. residents only), country. In addition, you can choose to supply optional information, including education, marital status, occupation, income, children 12 and under and children 13 to 18.
-
-**How the Information Is Used**  
-Registration information is primarily used to provide you with a more personalized experience and to create a secure environment for you to share personal information. The information may be used for general reporting, but you will never be personally identified.  
-      Member name is required for login and is used to personalize the site.  
-      Password is required for login. It's your key to access your personal information on OnHealth. You are the only one who has access to your password. We recommend that you keep any references to it in a safe place, choose a password that would be hard for others to guess (don't use anything obvious, like your birthday), and change it often.  
-      E-mail address is used to send you a registration confirmation message or to contact you when necessary. Otherwise it's only used when you specifically request information from us (such as a newsletter or reminder).   
-  
-**Wellness Manager**  
-**What Information Is Collected**  
-Collects information on your favorites, such as your favorite OnHealth pages, Web sites, tools, columnists and discussions.
-
-**How the Information Is Used**  
-To customize your Wellness Manager page.  
-  
-**Diet and Fitness Journal**  
-**What Information Is Collected**  
-In order to create your personal Diet and Fitness journal you must enter your weight, height, activity level, weight goal and whether or not you are pregnant or nursing. We also require your birth date, which you provide when you register for OnHealth.
-
-**How the Information Is Used**  
-This information is only used to customize the Diet and Fitness Journal.  
-  
-**BabyData**  
-**What Information Is Collected**  
-Due date, conception date or first day of last menstrual period, length of cycle, user name, password, password description and e-mail address. Optional information includes, first name, last name, age, country, state (U.S. only).
-
-**How the Information Is Used**  
-The information is used to create your conception or pregnancy calendar and pregnancy timetable.  
-  
-**Discussion Boards**  
-**What Information Is Collected**  
-No additional information is asked for.
-
-**How the Information Is Used**  
-Your OnHealth member name is your community identity and is displayed when you post or reply to a message.  
-  
-**NurseConnect**  
-**What Information Is Collected**  
-No information is collected online. To read our separate privacy policy that concerns NurseConnect, [click here](http://onhealth.com/home/general/helpdesk/privacy.asp).  
-**Ask OnHealth**  
-**What Information Is Collected**  
-Your e-mail comments and questions
-
-**How the Information Is Used**  
-All user comments and questions are the property of OnHealth. They are archived and available for employees to read and learn from. Our Help Desk staff may redirect your questions to the OnHealth experts or staff best suited to answer them. We may quote a user publicly, but only with prior consent from the user.  
-  
-**Ask Our Experts**  
-**What Information Is Collected**  
-Your e-mail comments and questions
-
-**How the Information Is Used**  
-All user comments and questions are the property of OnHealth. Our Help Desk staff may redirect your questions to OnHealth experts best suited to answer them. Your questions and comments may be published and available for a general audience to read and learn from. We do not individually identify users when we publish comments and questions.  
-  
-**Home Delivery**  
-**What Information Is Collected**  
-By indicating topics of interest, we can send you regular information via e-mail 
-
-**How the Information Is Used**  
-To provide you with information on the topics you've requested. Your selections are private.  
-  
-**Symptom Checker, Drug Interactions and Find a Physician**  
-**What Information Is Collected**  
-Information asked for varies
-
-**How the Information Is Used**  
-Used only to provide you with the information or feedback you requested. None of these tools store information about the user.  
-      Although the URL for the Symptom Checker implicitly says what your answers are (i.e., onhealth.com/ch1/symptom,12345.asp which might mean back pain, work-related, tingling in arms and legs, etc.). But this is not stored information.  
-  
-**Calculators and Quizzes**  
-**What Information Is Collected**  
-Information asked for varies
-
-**How the Information Is Used**  
-Used only to provide you with immediate feedback. The information you input is not saved.  
-  
-**Weekly Newsletter and Daily Briefing**  
-**What Information Is Collected**  
-E-mail address is the only required information to receive the weekly OnHealth Newsletter and Daily Briefing. If you choose to sign up for the weekly newsletter you can also provide optional information, including first name, last name, street address, city, state, ZIP code, special interests, and the option to receive special offers from OnHealth which may be of interest to you.
-
-**How the Information Is Used**  
-E-mail address is used to send you the information you requested. Other demographic information is used to help us better understand user needs and interests without individually identifying you.  
-  
-**Surveys**  
-**What Information Is Collected**  
-The information collected via online surveys varies. Generally, we collect some demographic information, such as age and gender. We also ask questions about your preferences and behaviors.
-
-**How the Information Is Used**  
-OnHealth conducts online surveys to learn more about our users' demographics, interests and preferences so we can better serve you. The research is compiled and analyzed without individually identifying you.  
-  
-**Sweepstakes and Contests**  
-**What Information Is Collected**  
-When you enter our online contests or sweepstakes, we collect some demographic information, such as age and gender. The information collected varies from promotion to promotion.
-
-**How the Information Is Used**  
-The personal information you supply may be used by sponsoring parties for marketing purposes. You have the option to participate in these promotions. All rules and guidelines will be clearly posted. The rules and guidelines vary for each promotion.  
-  
-**Shopping**  
-For your convenience OnHealth provides you with health-related shopping opportunities. Purchases do not occur on the OnHealth site. While we choose our store partners carefully and with your best interests in mind, we cannot be responsible for the privacy practices, products or content of third-party sites. We recommend that you carefully read their privacy policies.
-
-**Public Forums**  
-The personal information you choose to reveal in chat and discussions is visible to the public. Information disclosed in these forums becomes public information and it's up to you to decide what personal information you wish to share.
-
-**External Links**  
-OnHealth contains links to other Web sites for your benefit. We are not responsible for the privacy practices or the content of other sites. We recommend that you carefully read their privacy policies, especially if you're asked to supply personal information.
-
-**Partner Relationships**  
-We don't currently share data with anyone. If we partner with another company, then:
-
-  1. Your information will not be shared with them unless you explicitly opt-in to the program. 
-  2. Their use of your information will be governed by this privacy policy. 
-  3. This privacy policy will be updated to reflect the new relationship.
-
-**Third-Party Ads**  
-In some cases OnHealth's advertisers use companies other than OnHealth to serve their banners or links that appear on the OnHealth site. These companies may collect information by placing a cookie on your hard drive. The collected data could be used to build a profile of you for marketing and advertising purposes. If you have ever provided information on another Web site, this information could be cross-referenced with such a cookie and associated with a particular user profile. For this reason you should be familiar with the privacy policies of other sites before you provide any personal information. We cannot be responsible for the privacy policies and practices of other sites, but will do our best to protect your privacy while you are visiting OnHealth.
-
-**Choices/Opt-In and Opt-Out**  
-You can choose whether or not you wish to receive communications from OnHealth or our partners. We do not send you any information you don't specifically request, other than an initial welcome message we e-mail when you join OnHealth. 
-
-It's up to you to decide what, if any, information you wish to provide OnHealth. If you do provide us with personal information, we allow you to update or modify that information at any time. 
-
-All you have to do is go to your Wellness Manager and click on “Edit Your Profile” at the top of the page.
-
-If you have signed up for other personal tools such as the Diet and Fitness Journal or Home Delivery, you can change the information within the respective tools in the profile section.
-
-If you want to have your main profile or specific personal information deleted, e-mail us at [privacy@onhealth.com](mailto:privacy@onhealth.com). Or send mail to:
-
-      Privacy and Security  
-      OnHealth Network  
-      808 Howell, Suite 400  
-      Seattle, WA 98101
-
-****  
-Contact Us If you have questions about our privacy policy and practices contact us at[ privacy@onhealth.com](mailto:privacy@onhealth.com). Or send mail to:
-
-      Privacy and Security  
-      OnHealth Network  
-      808 Howell, Suite 400  
-      Seattle, WA 98101
-
-Please also see OnHealth's [Terms and Conditions](http://onhealth.com/home/info/item,3677.asp). 
+# WebMD - Privacy
 
 | 
-[< About OnHealth ](https://web.archive.org/web/20001110122700id_/http%3A//onhealth.webmd.com/home/info/index.asp)
 
-**OnHealth's Privacy Policy**
-
-Your privacy is a top concern for us. We aim to have the strongest privacy policy of any health Web site.
-
-We want you to get the most out of OnHealth. Having a truly personal experience entails sharing some personal information with us and we want you to feel comfortable and trust that we make every effort to protect your confidentiality. Please take a few minutes to read our complete policy so you can understand how information is used and the specific measures we take to protect your personal information.
-
-**Our Pledge to You**
-
-  * We will do our very best to protect your personal privacy.
-  * We will never sell, rent or trade your personal information to anyone. 
-  * We will never individually identify you to third parties. However, to defer the costs of publishing OnHealth, we may at times distribute general information about our users to advertisers or business associates. This information typically includes the total number of people who visit our site, the percentage of women vs. men, etc., but we will never individually identify you. 
-  * We will clearly state why we are collecting personal information and how it will be used.
-  * We will keep this policy, as well as our privacy practices and systems, up to date.
-  * We will notify you of any substantial changes to the policy. You will have the option to decline any proposed use of your personal information including, if any, transfer of your information to third parties.
-  * You have control over how your personal information is used.
-  * You can inspect and edit your complete personal profile.
-
-**Security**  
-We have installed a number of security measures to protect the confidentiality of your personal information.
-
-  1. We have a firewall to prevent unauthorized access to our systems.
-  2. Your membership information lives on a separate database server that sits behind this firewall. We safeguard your information with an encryption technology called Secure Socket Layer (SSL). SSL encryption protects any personal information you send over the Internet by making it impossible for that information to be deciphered by any systems other than the ones we use at OnHealth.
-  3. OnHealth has developed a registration/login process so that your personal profile is password protected. You are the only one who has access to your personal information. You should always log out when you're done with your session to ensure that others cannot access your account.
-
-**IP Addresses**  
-An Internet Protocol address is a unique string of numbers assigned to your computer by your Internet Service Provider (ISP). All computers must have an IP address in order to connect to the Internet. This address may be the same every time you log on or a different number may be assigned each time you connect. OnHealth may use your IP address in an effort to determine the quickest route for your computer to use when connecting to our site's servers. User IP addresses are used by our Web server logs to count the number of users who visit different pages. We do not use this IP information in any other system.
-
-**Cookies**  
-A “cookie” is a small line of text that is stored with your Web browser when you visit a cookie-enabled Web site. The text can contain an identification code (such as "userID=28347234") or user preferences (such as "myFont=Helvetica"). As you browse the Web, cookie-enabled sites will send cookies to your browser along with Web pages; your browser has options that will let you control whether the browser accepts cookies, rejects cookies, or notifies you each time a cookie is sent to you.
-
-If your browser is set to reject cookies, cookie-enabled Web sites will not recognize you when you return. This provides you with anonymity, but it also makes it very difficult to offer you customized services. It is also less secure than using cookies, because all of your specific data must be sent to the Web site each time you view a page. Accepting cookies means your private data can stay at the Web server, and the only information going over the Internet is your ID cookie.
-
-If your browser is set to accept cookies, any cookies that are sent to your browser are stored in your computer for a period of time. A "session" cookie is stored only in your computer's working memory ("RAM"), and only lasts for your browsing session. When you close all of your browser's windows, or when you shut down your computer, the session cookie disappears forever. A "permanent" cookie is stored on your computer's hard drive until a specified date (could be tomorrow, next week or 10 years from now). Permanent cookies stay on your computer until either a) they expire, b) they are overwritten with newer cookies, or c) you manually remove them.
-
-OnHealth uses cookies in the following ways:
-
-  1. To collect general information related to how many people are using OnHealth. 
-  2. To record your participation in online polls we may offer. The cookie only notes that you have responded and are ready to see the poll results. Your specific response is not stored in the cookie.
-  3. Our community boards use session cookies to identify you by your login user name, and to have your e-mail address handy rather than look it up on each page view. The boards also use a persistent cookie to tell when you last logged on to the boards. This way the boards can indicate to you which messages are new to you. Our chat system uses a persistent cookie to save your chat settings, such as whether you are using the HTML chat client or the Java chat client.
-  4. To let you easily move through “members-only” pages after login once per session. Without cookies, you would need to log in each time you browse to another members-only page.
-  5. We run our own ad server, powered by NetGravity technology. Our ad server uses a cookie in order to limit the number of exposures a person has to a particular ad during their visit to OnHealth. The cookie expires when you terminate your visit.
-  6. In some cases OnHealth's advertisers utilize third-party advertising companies to serve banners or links on the OnHealth site. These parties may collect information by placing a cookie on your hard drive. See Third-Party Ads for more information.
-
-**Information Collected by OnHealth**  
-You are not required to submit any personal information to use the OnHealth Web site. However, you may choose to join OnHealth to receive special benefits and services that will provide you with a more personalized experience. If you wish to take advantage of these membership services, we will ask you to provide us with some personal information.
-
-| **We collect information in the following areas:**  
----  
-**Registration**  
-**What Information Is Collected**  
-We collect member name, password, first name, last name, e-mail address, birth date, gender, ZIP code (for U.S. residents only), country. In addition, you can choose to supply optional information, including education, marital status, occupation, income, children 12 and under and children 13 to 18.
-
-**How the Information Is Used**  
-Registration information is primarily used to provide you with a more personalized experience and to create a secure environment for you to share personal information. The information may be used for general reporting, but you will never be personally identified.  
-      Member name is required for login and is used to personalize the site.  
-      Password is required for login. It's your key to access your personal information on OnHealth. You are the only one who has access to your password. We recommend that you keep any references to it in a safe place, choose a password that would be hard for others to guess (don't use anything obvious, like your birthday), and change it often.  
-      E-mail address is used to send you a registration confirmation message or to contact you when necessary. Otherwise it's only used when you specifically request information from us (such as a newsletter or reminder).   
   
-**Wellness Manager**  
-**What Information Is Collected**  
-Collects information on your favorites, such as your favorite OnHealth pages, Web sites, tools, columnists and discussions.
 
-**How the Information Is Used**  
-To customize your Wellness Manager page.  
+
   
-**Diet and Fitness Journal**  
-**What Information Is Collected**  
-In order to create your personal Diet and Fitness journal you must enter your weight, activity level, weight goal and whether or not you are pregnant or breastfeeding. We also require your birth date, which you provide when you register for OnHealth.
+[_Email us: privacy@webmd.net_](mailto:privacy@webmd.net)
 
-**How the Information Is Used**  
-This information is only used to customize the Diet and Fitness Journal.  
   
-**BabyData**  
-**What Information Is Collected**  
-Due date, conception date or first day of last menstrual period, length of cycle, user name, password, password description and e-mail address. Optional information includes, first name, last name, age, country, state (U.S. only).
 
-**How the Information Is Used**  
-The information is used to create your conception or pregnancy calendar and pregnancy timetable.  
+
+Your privacy is important to WebMD. We understand that health is a very personal, private subject, and we want you to feel as comfortable as possible visiting our website and using its services. Perhaps you are visiting WebMD to learn about health for yourself, perhaps on behalf of someone else. This Privacy Policy and Agreement ("Privacy Policy") will tell you what information we collect about you and about your use of our website. It will explain how we protect that information and what choices you have about how it is used. We urge you to read this Privacy Policy carefully so that you will understand clearly both our commitment to you and your privacy, and how we may collect and use information. By using the WebMD site, you agree to the terms of this Privacy Policy.
+
+[](https://web.archive.org/click?url=https://www.truste.org/validate/2963)
+
+WebMD is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose goal is to build users' trust and confidence in the Internet by promoting the use of fair information practices. As required of TRUSTe licensees, we will inform you of the following in this privacy policy: 
+
+  * What personally identifiable information of yours is collected; 
+  * What organization is collecting the information; 
+  * How the information is used; 
+  * With whom the information may be shared; 
+  * What choices are available regarding collection, use and distribution of the information; 
+  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; and, 
+  * How you can correct any inaccuracies in the information.
+
+
+
+WebMD is a founding Member of Hi-Ethics, an alliance of health websites committed to a set of ethical principles designed to ensure that consumers can confidently realize the full benefit of the Internet to improve their health and the health of their families. The [Hi-Ethics Principles](https://web.archive.org/privacy_content/article/1761.50193) are described in detail on our website.
+
+WebMD also complies with the standards set by [Health on the Net](https://web.archive.org/click?url=http://www.hon.ch/HONcode/Conduct.html?HONConduct298987) [HON], as is indicated by the presence of the seal below. 
+
+**Please remember that any information (including personal and medical information) that you reveal in a WebMD public forum (such as a bulletin board, mail list, chat room/event) is not protected by this Privacy Policy. Such postings will be seen by third parties not related to WebMD. What you've written could be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. Also, if you access a third party site from a link on WebMD, any information you reveal on that site is not subject to this Privacy Policy. You should consult the privacy policies of each site you visit.**
+
+The following are links to the provisions of our Privacy Policy that describe the information we collect from or about you; ways we disclose, use and protect that information; choices you have, and how you can update your information or contact us with questions. We hope that reading our Privacy Policy gives you a clear idea of how we manage information about you. For immediate access to a particular topic, click on the title of that Article. 
+
+| ARTICLE 1:   |  _Information We Collect_  
+---|---  
+| _Registration and Member Profile_  
+| _Interactive Tools_  
+| _Cookies_  
+| _Children_  
+| _Public Forums_  
+ARTICLE 2:  | _Disclosure of Your Information_  
+| _Disclosure to WebMD Subsidiaries_  
+| _Disclosure to WebMD Operations and Maintenance Contractors_  
+| _Disclosure to Website Service and Content Contractors_  
+| _Disclosure to or by Co-branded Channel Partners_  
+| _Disclosure to Linked Sites_  
+| _Disclosure of Aggregate Information_  
+| _My Health Record_  
+ARTICLE 3:  | _How WebMD Handles Privacy Internally_  
+ARTICLE 4:  | _Your Privacy Choices_  
+ARTICLE 5:  | _Updating Your Personal Information and Contacting WebMD_  
   
-**Discussion Boards**  
-**What Information Is Collected**  
-No additional information is asked for.
+**ARTICLE 1**
 
-**How the Information Is Used**  
-Your OnHealth member name is your community identity and is displayed when you post or reply to a message.  
+**Information We Collect**
+
+Personal Information is information that can be used to identify or contact you. WebMD collects only the personal information you provide to us. We collect the Personal Information that you provide to us in two general and distinct ways: (1) When you register as a Member and/or when you update your Member Profile, and (2) When you choose to use various WebMD Interactive Tools and Services or participate in surveys. We also collect non-personal information through the use of "[cookies](http://my.webmd.com/privacy_content/article/1761.50190#3)." WebMD does not store any personally identifiable information [(PII)](http://my.webmd.com/privacy_content/article/1761.50190#2) in any cookies on your computer. All of these are described in more detail below.
+
+_Registration and Member Profile_
+
+ __
+
+You may use our website without registering or submitting any Personal Information. In that case, the only information we collect will be non-personal information collected through the use of cookies (see details below). However, in order to have access to certain services and content available on our site (e.g., MyHealthRecord), you are required to complete a registration form. We use the Personal Information that you provide through registration to respond to questions from you and/or inform you of significant changes to this Privacy Policy. We may also use this information to send you emails with special promotions or newsletters with content that we think may be of interest to you. You can always [opt-out](http://my.webmd.com/privacy_content/article/1761.50190#5) of receiving such emails or unsubscribe to newsletters at the time you register or at any time – see Article 4 below for more detail about opting-out of receiving emails and newsletters. 
+
+The information we collect in the Registration form and Member Profile is set forth below. Required information is indicated by an asterisk*. Provision of all other information is optional.
+
+_Registration  
+_ Member Nickname*  
+Password*/Hint  
+Email Address*  
+Zip Code*
+
+| 
+
+_Member Profile  
+_Name  
+Street Address  
+Gender  
+Age Range (18-24, 25-34, 34-54, or 55+)  
+Health Topics of Interest  
+Health Plan  
   
-**NurseConnect**  
-**What Information Is Collected**  
-No information is collected online. To read our separate privacy policy that concerns NurseConnect, [click here](http://onhealth.webmd.com/home/general/helpdesk/privacy.asp).  
-**Ask OnHealth**  
-**What Information Is Collected**  
-Your e-mail comments and questions
-
-**How the Information Is Used**  
-All user comments and questions are the property of OnHealth. They are archived and available for employees to read and learn from. Our Help Desk staff may redirect your questions to the OnHealth experts or staff best suited to answer them. We may quote a user publicly, but only with prior consent from the user.  
+---|---  
   
-**Ask Our Experts**  
-**What Information Is Collected**  
-Your e-mail comments and questions
+_Interactive Tools_
 
-**How the Information Is Used**  
-All user comments and questions are the property of OnHealth. OnHealth staff may redirect your questions to the OnHealth experts, or to their assistants for screening. Your questions and comments may be published and available for a general audience to read and learn from. We do not individually identify users when we publish comments and questions.  
+ __
+
+We also collect other information, some of which may be Personal Information, that you voluntarily provide to us when you choose to use some of the WebMD Interactive Tools and Services, such as MyHealthRecord, Ask Our Experts or Health Risk Appraisal. We also collect information you provide voluntarily through responses to surveys, questionnaires and the like. Some of the free Interactive Tools on our site ask you for health-related Personal Information.
+
+For example, MyHealthRecord is a special Interactive Service that allows you to record limited amounts of health-related Personal Information on a voluntary basis on secure servers maintained by WebMD or by a third party on WebMD's behalf. Please see the description of MyHealthRecord below in Article 2, and please read the Security and Confidentiality Statement posted on the MyHealthRecord pages for more information regarding what information is collected when you use this service.
+
+While we collect Personal Information about you if you use our service called the Health Risk Appraisal (HRA), we do not store this information unless you request it. Therefore, you can use HRA and if you do not choose to store the information, it is deleted and no longer accessible to WebMD. If you choose to store the information, it is collected by WebMD and subject to this Privacy Policy. HRA is an educational tool that is designed to help you better understand how to maintain your health and the health of your family. HRA interacts with MyHealthRecord to give you a central place to store your and your family's health risk information. Over time, as you and your family members learn more about their health status, the HRA tool can track your progress and their progress in reducing the risk of illness. 
+
+_Cookies_
+
+ __
+
+We also collect anonymous, non-personal information about your use of our site through the use of "[Cookies](http://my.webmd.com/privacy_content/article/1761.50190#3)". Cookies are small computer files that we transfer to your computer's hard drive that allow us to know how often someone visits our site and the activities they conduct while on our site (such as the chatrooms you visited, etc.). Every computer is assigned a different cookie by WebMD. The information collected by cookies helps us dynamically generate advertising and content on web pages specifically designed for you and also allows us to statistically monitor how many people are using our site and for what purpose. We may use cookie information to target certain advertisements to your browser or to determine the popularity of certain content.
+
+Your browser software can be set to reject all cookies. Most browsers offer instructions on how to reset the browser to reject cookies in the "Help" section of the toolbar. If you reject our cookie, certain of the functions and conveniences of our site may not work properly but you do not have to accept our cookie in order to productively use our site. While it may be possible to link non-personal cookie information to Personal Information collected in other ways, we want you to know that if you accept our cookie we will not, without your consent, link the cookie information we collect to Personal Information you provide to us on our site. 
+
+Sponsors, partners or advertisers on WebMD may also use their own cookies when you click on their advertisement or link to their site or service, or even if the advertisement simply appears on a page that you are viewing. Some advertisers use companies other than WebMD to serve their ads and these companies ("Ad Servers") may also collect non-personal information through the use of cookies on our website. We do not control these third parties' use of Cookies, or how they manage the non-personal information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie information through our website to agree that they will not collect any Personal Information from our site without your consent. They have promised us they will not link any non-personal cookie information collected by them on our site to Personal Information they or others collect in other ways or from other sites. You should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies on their own sites. In addition, WebMD’s Advertising Policy is posted on our website and will provide additional detail about our relationship with advertisers and the companies that serve ads.
+
+_Children_
+
+ __
+
+We are committed to protecting the privacy of children. This website is not designed or intended to attract children under the age of 13. We do not collect Personal Information from any person we actually know is under the age of 13.
+
+_Public Forums_
+
+ __
+
+This Privacy Policy does not protect you when you use WebMD public forums. As a service to our users, WebMD features chat rooms and bulletin boards where users with similar medical conditions can share information and support one another. In addition, we offer online discussions on a variety of topics moderated by medical experts. You should be aware that any information shared in a chat room, bulletin board or online discussion is public information and may be seen or collected by third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any personal information in any public forum.
+
+**ARTICLE 2**
+
+**Disclosure of Your Information**
+
+Except as set forth in this Article or as specifically agreed to by you, WebMD will not disclose any Personal Information it gathers from you on our website. We may release Personal Information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others. In the event that we are legally compelled to disclose your Personal Information to a third party, we will notify you unless doing so would violate the law or court order.
+
+_Disclosure to WebMD Subsidiaries_
+
+ __
+
+WebMD may disclose Personal Information to its corporate subsidiaries. Any Personal Information provided to subsidiaries of WebMD will be treated by those subsidiaries in accordance with the terms of this Privacy Policy.
+
+_Disclosure to WebMD Operations and Maintenance Contractors_
+
+WebMD operations and maintenance contractors sometimes have limited access to your Personal Information in the course of providing products or services to WebMD. These contractors include vendors and suppliers that provide us with technology, services, and/or content related to better operation and maintenance of our website. Unless you have opted out of receiving emails and newsletters from WebMD, these contractors also may have access to your email address to send newsletters to you on our behalf or to send emails to you for purposes such as conducting market research on our behalf. Access to your Personal Information by these contractors is limited to the information reasonably necessary in order for the contractor to perform its limited function for WebMD. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your Personal Information consistent with this Privacy Policy, and 2) not use or disclose your Personal Information for any purpose other than providing us with products and services. 
+
+_Disclosure to Website Service and Content Contractors_
+
+ __
+
+Certain content and services offered to you through our website are served on websites hosted and operated by a company other than WebMD ("Third Party Contractor Websites"). One example of this is Find A Physician, which is hosted and served by Health Pages, LLC. Similarly, if you purchase an item through one of WebMD's co-branded stores (e.g., from the Sports and Fitness Store, from SimplyHealth or from CVS/pharmacy), you will be purchasing it from the Third Party Contractor Website (i.e, Global Sports, SimplyHealth or CVS) and not WebMD. WebMD does not disclose your Personal Information to these Third Party Contractor Websites without your consent, but you should be aware that any information you disclose once you access these other sites is not subject to this Privacy Policy. WebMD does not endorse and is not responsible for the privacy practices of these Third Party Contractor Websites. You should review the privacy policy posted on the other site to understand how that Third Party Contractor Website collects and uses your Personal Information. WebMD makes an effort to make it obvious to you when you leave our website and enter a Third Party Contractor Website, either by requiring you to click on a link or by notifying you on the site. In addition, if you see a phrase such as "Powered by" or "in association with" followed by the name of a company other than WebMD, then you are on a website hosted by a company other than WebMD.
+
+_Disclosure to or by Co-branded Channel Partners_
+
+ __
+
+WebMD is a contractor and provides co-branded content and services to websites hosted and operated by companies other than WebMD ("Channel Partner Websites"). You can only access these co-branded content and services through the Channel Partner Website, and usually from the health section of these other websites. Our current Channel Partners include: Lycos, MSN, and Excite. The co-branded WebMD pages that you may access through a Channel Partner Website have different registration processes and opportunities for information collection, and Personal Information that you provide on these pages may be shared with the Channel Partners. Each of these co-branded WebMD sites has its own privacy policy posted on that site, which explains what information is disclosed by WebMD to the Channel Partner and vice versa. If you visit one of these co-branded WebMD sites, please read the privacy policy that is posted on that site, as well as the individual privacy policy of the Channel Partner Website. 
+
+_Disclosure to Linked Sites_
+
+ __
+
+In addition to the Third Party Contractor Websites that you may access as described above, for your convenience there are links to websites operated by companies other than WebMD ("Third Party Websites") that are not contractors who provide content or services through our website. These links may be found in advertisements, referenced within content, or placed beside the names or logos of sponsors. WebMD does not disclose your Personal Information to these Third Party Websites and WebMD does not endorse and is not responsible for the privacy practices of these sites. If you choose to link to one of these Third party Websites, you should review the privacy policy posted on this other site to understand how that Third Party Website collects and uses your Personal Information.
+
+_Disclosure of Aggregate Information_
+
+ __
+
+WebMD may provide to third parties non-personal information about you that does not allow you to be identified or contacted and that is combined with the non-personal information of other users ("[Aggregate Information](http://my.webmd.com/privacy_content/article/1761.50190#1)"). For example, we might inform third parties regarding the number of users of our site and the activities they conduct while on our site. We might also inform a pharmaceutical company (that may or may not be an advertiser on our site) that "30% of our users live east of the Mississippi" or that "25% of our users have tried alternative medicine." Depending on the circumstances, we may or may not charge third parties for this Aggregate Information. We also may not limit the third parties’ use of the Aggregate Information, except that we do require third parties to whom we disclose Aggregate Information to agree that they will not attempt to make this information personally identifiable by combining it with other databases or otherwise.
+
+_MyHealthRecord_
+
+ __
+
+All information that is received, used, or disclosed in connection with MyHealthRecord is encrypted.
+
+WebMD collects the information you voluntarily store in MyHealthRecord. The information MyHealthRecord currently is designed to store includes the following categories: (1) Patient Contact Information; (2) Health Plan Information; (3) Emergency Contact Information; (4) Medications; (5) Allergy; (6) Condition or Illness Information; (7) Procedure/Surgical History; (8) Doctor or Health Professional Information; (9) Clinic and Hospital; (10) Immunization History; (11) Location Information; (12) Health Risk Assessment Information; and (13) Any other information you voluntarily store. For more information on what types of information are collected in each category, please review the MyHealthRecord Security and Confidentiality Statement.
+
+WebMD does not use the information stored in MyHealthRecord for any purpose except to provide members with a readily accessible, easy-to-update means of collecting and storing family health/medical history. The only entities that will have access to MyHealthRecord information are WebMD itself and any third parties hired by WebMD to assist us in operating, maintaining, and improving the site. These third parties are required by us to hold your information in the strictest of confidence and may not use or disclose it except to fulfill the service we hired them to perform. WebMD will not share any of the personally identifiable information that is stored in MyHealthRecord -- even in an aggregated form -- with any other third parties without your express permission.
+
+**ARTICLE 3**
+
+**How WebMD Handles Privacy and Security Internally**
+
+WebMD wants your Personal Information to remain as secure as possible. That is why we have a two-tier security system at WebMD that combines leading technical safeguards and a code of conduct for those employees that are permitted to access our customers' Personal Information. On the technical side, WebMD uses Secure Socket Layer (SSL) encryption technology in transmitting your personal information to our servers to help ensure the integrity and privacy of the Personal Information you provide to us via the Internet. Encryption involves systematically scrambling numbers and letters, so that even if someone managed to intercept the information, they would not be able to make sense of it. In order to take advantage of this encryption technology, you need to have an Internet browser that will support 128-bit encryption, such as Netscape or Microsoft Explorer. As an additional security measure, your Personal Information is also kept physically separate on a separate server where your password is encrypted and stored on a database. On the employee side, only a limited number of WebMD employees are authorized to access your Personal Information. All WebMD employees must abide by our Privacy Policy and those who violate our Privacy Policy are subject to disciplinary action, up to and including termination. Access by authorized personnel is controlled by two-factor authentication (i.e., a token and a thumbprint). Although we will make every reasonable effort to protect your Personal Information from loss, misuse, or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that thieves could find a way to thwart our security systems.
+
+**ARTICLE 4**
+
+**Your Privacy Choices**
+
+When you complete Registration or update your Member Profile, you will be given the option of receiving recurring informational/promotional emails from WebMD and/or third parties. You may [opt out](http://my.webmd.com/privacy_content/article/1761.50190#5) of receiving emails from or on behalf of WebMD at Registration by removing the automatic check mark from the statement that expresses a preference for receiving these emails and newsletters. You may also opt out of receiving these emails and newsletters at any time by changing your preferences within your Member Profile.
+
+We ask for contact information (such as name and email address) if you wish to subscribe to various newsletters. You can unsubscribe from such newsletters very easily. When you have received a newsletter you wish to stop, click on the "reply" button in your mail program, then type in the word "UNSUBSCRIBE" in the "Subject" field and send. WebMD Customer Service will unsubscribe you from that newsletter in two to three business days. 
+
+At Registration and at various times as you use the site, you may have the option of receiving emails or newsletters from third parties, participating in research or marketing surveys and participating in other activities. You may exercise these options by placing a check mark beside a statement that expresses a preference for receiving these communications or participating in these activities. You may change your decision at any time by changing your preferences within your Member Profile or by following other directions provided in association with the individual communication or activity.
+
+This privacy statement applies only to the WebMD website. The WebMD site does contain links to other sites. Once you enter another website (whether through an advertisement, service, or content link), be aware that WebMD is not responsible for the privacy practices of such other sites. We encourage you to look for and review the privacy statements of each and every web site that you visit through a link or advertisement on WebMD's site or any site that collects Personal Information from you.
+
+**Article 5**
+
+**Updating Your Personal Information and Contacting WebMD**
+
+You can always contact us in order to (1) delete your Personal Information from our systems, (2) update the Personal Information that you have provided to us, and (3) change your preferences with respect to marketing contacts or other activities, by emailing us at privacy@webmd.net. Such changes will not have any effect on other information that WebMD maintains. 
+
+You should be aware that it is not technologically possible to remove each and every record of the information you have provided to WebMD from our servers. The need to back-up our systems to protect information from inadvertent loss means that a copy of your personal information may exist in a non-erasable form that will be difficult or impossible for us to locate. Nevertheless, we promise that upon receiving your request, all personal information stored in the databases we actively use for research and daily business activities, and other readily searchable media, will be deleted. 
+
+Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future, we may make significant changes to our privacy policy affecting the use of the Personal Information we collect. We will notify you by email of any significant changes and obtain your "opt-in" consent to any significant new uses of your Personal Information, if it was collected from you prior to a significant change in this policy. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personal Information. You should also check this posted Privacy Policy for any future changes. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately. 
+
+Revised May, 2001
+
   
-**Home Delivery**  
-**What Information Is Collected**  
-By indicating topics of interest, we can send you regular information via e-mail.
 
-**How the Information Is Used**  
-To provide you with information on the topics you've requested. Your selections are private.  
-  
-**Symptom Checker and Drug Interactions**  
-**What Information Is Collected**  
-Information asked for varies
 
-**How the Information Is Used**  
-Used only to provide you with the information or feedback you requested. Neither of these tools store information about the user.  
-      Although the URL for the Symptom Checker implicitly says what your answers are (i.e., onhealth.com/ch1/symptom,12345.asp which might mean back pain, work-related, tingling in arms and legs, etc.). But this is not stored information.  
-  
-**Find a Physician**  
-**What Information Is Collected**  
-ZIP code and physician specialty are collected at OnHealth.com and passed to healthgrades.com. OnHealth contracts with HealthGrades to assist you in finding leading physicians in more than 50 medical specialties.
-
-**How the Information Is Used**  
-OnHealth uses the information only to provide you with the ability to locate leading physicians in the area you selected. OnHealth does not store your personal information. Also see [HealthGrades' Privacy Policy](http://www.healthgrades.com/Information/AboutUs/Legal/PrivacyPolicy.cfm).  
-  
-  
-**Calculators and Quizzes**  
-**What Information Is Collected**  
-Information asked for varies
-
-**How the Information Is Used**  
-Used only to provide you with immediate feedback. The information you input is not saved.  
-  
-**Weekly Newsletter and Daily Briefing**  
-**What Information Is Collected**  
-E-mail address is the only required information to receive the weekly OnHealth Newsletter and Daily Briefing.
-
-**How the Information Is Used**  
-E-mail address is used to send you the information you requested. Other demographic information is used to help us better understand user needs and interests without individually identifying you.  
-  
-**Surveys**  
-**What Information Is Collected**  
-The information collected via online surveys varies. Generally, we collect some demographic information, such as age and gender. We also ask questions about your preferences and behaviors.
-
-**How the Information Is Used**  
-OnHealth conducts online surveys to learn more about our users' demographics, interests and preferences so we can better serve you. The research is compiled and analyzed without individually identifying you.  
-  
-**Sweepstakes and Contests**  
-**What Information Is Collected**  
-When you enter our online contests or sweepstakes, we collect some demographic information, such as age and gender. The information collected varies from promotion to promotion.
-
-**How the Information Is Used**  
-The personal information you supply may be analyzed to learn more about our users' demographics, interests and preferences so we can better serve you. The research is compiled and analyzed without individually identifying you. All rules and guidelines will be clearly posted. The rules and guidelines vary for each promotion.  
-  
-**Shopping**  
-For your convenience OnHealth provides you with health-related shopping opportunities. Purchases do not occur on the OnHealth site. While we choose our store partners carefully and with your best interests in mind, we cannot be responsible for the privacy practices, products or content of third-party sites. We recommend that you carefully read their privacy policies.
-
-**Public Forums**  
-The personal information you choose to reveal in chat and discussions is visible to the public. Information disclosed in these forums becomes public information and it's up to you to decide what personal information you wish to share.
-
-**External Links**  
-OnHealth contains links to other Web sites for your benefit. We are not responsible for the privacy practices or the content of other sites. We recommend that you carefully read their privacy policies, especially if you're asked to supply personal information.
-
-**Partner Relationships**  
-We don't currently share data with anyone. If we partner with another company, then:
-
-  1. Your information will not be shared with them unless you explicitly opt-in to the program. 
-  2. This privacy policy will be updated to reflect the new relationship.
-
-**Third-Party Ads**  
-In some cases OnHealth's advertisers use companies other than OnHealth to serve their banners or links that appear on the OnHealth site. These companies may collect information by placing a cookie on your hard drive. The collected data could be used to build a profile of you for marketing and advertising purposes. If you have ever provided information on another Web site, this information could be cross-referenced with such a cookie and associated with a particular user profile. For this reason you should be familiar with the privacy policies of other sites before you provide any personal information. We cannot be responsible for the privacy policies and practices of other sites, but will do our best to protect your privacy while you are visiting OnHealth.
-
-**Changes to This Policy**  
-We will notify you of any substantial changes to this policy. In the event of changes to the way OnHealth handles your personal information, you will have the option to accept or decline any proposed collection or use of your personal information including, if any, transfer of your information to third parties.
-
-**Choices/Opt-In and Opt-Out**  
-You can choose whether or not you wish to receive communications from OnHealth or our partners. We do not send you any information you don't specifically request, other than an initial welcome message we e-mail when you join OnHealth or to notify you of any substantial changes to our privacy policy. 
-
-It's up to you to decide what, if any, information you wish to provide OnHealth. If you do provide us with personal information, we allow you to update or modify that information at any time. 
-
-All you have to do is go to your Wellness Manager and click on “Edit Your Profile” at the top of the page.
-
-If you have signed up for other personal tools such as the Diet and Fitness Journal or Home Delivery, you can change the information within the respective tools in the profile section.
-
-If you want to have your main profile or specific personal information deleted, e-mail us at [privacy@onhealth.com](mailto:privacy@onhealth.com). Or send mail to:
-
-      Privacy and Security  
-      OnHealth Network  
-      808 Howell, Suite 400  
-      Seattle, WA 98101
-
-****  
-Contact Us If you have questions about our privacy policy and practices contact us at[ privacy@onhealth.com](mailto:privacy@onhealth.com). Or send mail to:
-
-      Privacy and Security  
-      OnHealth Network  
-      808 Howell, Suite 400  
-      Seattle, WA 98101
-
-Please also see OnHealth's [Terms and Conditions](http://onhealth.webmd.com/home/info/item,3677.asp). 
-
-**Privacy  & Security Resources**  
-[Electronic Frontier Foundation](http://www.eff.org/)  
-[Electronic Privacy Information Center](http://www.epic.org/)  
-[CERT Coordination Center](http://www.cert.org/)  
-[Junkbuster](http://www.junkbuster.com/)  
-[Kidz Privacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/)  
-[FTC Privacy Initiatives](http://www.ftc.gov/privacy/index.html)  
-[Privacy Rights Clearinghouse](http://www.privacyrights.org/)  
-[Privacy International](http://www.privacyinternational.org/)  
-[Global Internet Liberty Campaign](http://www.gilc.org/)  
-[Online Privacy Alliance](http://www.privacyalliance.org/)  
-[PrivacyChoices.org](http://www.privacychoices.org/)  
-
+© 2001 WebMD Corporation. All rights reserved.
 
 | 
