@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2000-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000118134139id_/http%3A//www.americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205052500id_/http%3A//americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ AmericasBest.com does not specifically collect information about children. If yo
 
 What about privacy commitment changes?
 
-If AmericasBest.com decides to change our privacy commitment, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our privacy commitment, please feel free to email us at privacy@americasbest.com or call 1-800-550-8739
+If AmericasBest.com decides to change our privacy commitment, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our privacy commitment, please feel free to email us at privacy@americasbest.com or call 1-888-550-8739
 
 What else should I know about my privacy? 
 
