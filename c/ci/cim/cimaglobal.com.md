@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207155849id_/http%3A//www.cimaglobal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602183332id_/http%3A//www.cimaglobal.com/privacy.htm) for the most accurate reproduction.*
 
 # CIMA - Privacy statement
 
