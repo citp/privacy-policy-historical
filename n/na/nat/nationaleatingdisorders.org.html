@@ -1,0 +1,1306 @@
+<!--The following is the downloaded HTML source of the nationaleatingdisorders.org privacy policy that was archived on 2004-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040621191328id_/http%3A//www.nationaleatingdisorders.org/p.asp%3FWebPage_ID%3D696) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+	<title>Privacy Policy</title>
+	<!-- [/include/getRoot] -->
+<!-- [/include/viewCheck] -->
+<!-- [/include/isSecure] -->
+<!-- [/include/formKit] -->
+<!-- [/include/scripts] -->
+<!-- [/include/formLink] -->
+
+<script type="text/javascript">
+	function checkLength( text, length){
+		if(text.length > length)
+			return false;
+		return true;
+	}
+	
+	function maxSize(message,text,length){
+		if(!checkLength(text,length))
+		{
+			alert(message);
+			text = text.substr(0,length);
+			return text;
+		}
+		else{
+			return text;
+		}
+	}
+
+</script><!-- [/include/validate] -->
+
+<script type="text/javascript">
+
+var arrMonths = new Array("January",
+                          "February",
+                          "March",
+                          "April",
+                          "May",
+                          "June",
+                          "July",
+                          "August",
+                          "September",
+                          "October",
+                          "November",
+                          "December");
+
+
+function validate(formName, isAffiliation)
+{
+	//the modified parameter isAffiliation is used so that it signifies
+	//that an affiliation button is calling validate.  If this is the case,
+	//kindly ignore all required affiliation buttons, since in order
+	//to give them values, you must click on them.
+	var DEBUG = false;
+	if (DEBUG) alert("validate() called"); //DEBUG
+	
+	var s = "Please correct your errors as indicated:\n\n";
+	var errMsg = "", fldName = "", fldValue = "", fldType = "", fldValue = "";
+	var tmpArr, element = new Object();
+	var myForm = document.forms[formName];
+	var valid = true;
+	var isReq = false;   // is this field required?
+	var isEmpty = false;  // did the user enter anything?
+	var reqErr = false;
+	
+	for (var i = 0; i < myForm.length; i++)
+	{
+
+		element = myForm.elements[i];
+		fldName = String(element.name);
+		
+		fldValue = String(element.value);
+
+		//alert(element.name + " "+element.type+" "+element.value+" " +element.options);
+
+		
+		if(String(fldValue) != 'null' && String(fldValue) != "")
+		{
+			fldValue = trim(fldValue)
+			element.value = fldValue
+		}
+
+		// Check required fields for being empty
+		isReq = Boolean(fldName.search("isReq")>=0);
+		if( String(isAffiliation) != "undefined"){
+			isReq = false
+		}
+		//alert("isReq found in "+fldName+" = "+isReq)
+		isEmpty = Boolean(fldValue == "" || fldValue == "null");
+		
+		//This is a fix for checkboxes (Jeff 11.28.2001)
+		if( element.type == "checkbox" ){ 
+			isEmpty = Boolean(!element.checked); 
+		}//if
+		if( element.type == "select-one" &&  element.name.search("Affiliation") > -1 && element.options.length > 0){
+			//alert(element.options.length);
+			isEmpty = false;
+		}//if		
+		if(element.name.search("Affiliation") > -1 && String(isAffiliation) != "undefined"){
+			isEmpty = false
+		}
+		if( element.type == "select-one" &&  element.name.search("Affiliation") == -1 && element.options.length > 0 ){
+			//alert("isEmpty = "+isEmpty)
+			if( element.selectedIndex != -1 ) {
+				selectedOption = element.options[element.selectedIndex]
+				selectedOptionValue = String(selectedOption.value)
+				//alert(element.name+" has a selected option value of "+selectedOptionValue)
+				if(selectedOptionValue == "" || selectedOptionValue == "null" || selectedOptionValue=="undefined"){
+					//alert("selectedOptionValue = blank or null its value is "+selectedOptionValue)
+					isEmpty = true
+				}	
+				else{
+					isEmpty = false
+				}					
+			}
+			else{
+				//alert("selectedIndex = -1, therefore nothing has been selected")
+				isEmpty = true
+			}	
+			//alert("isEmpty = "+isEmpty)		
+		}//if		
+		if( element.type == "radio"){
+			radioNotChecked = true
+			radioName = String(fldName)
+			while(element.type == "radio" && element.name == radioName){
+				//loop through and examine each and every radio button of this name
+				//to determine if any are checked						
+				radioNotChecked = radioNotChecked && Boolean(!element.checked)
+				i++
+				element = myForm.elements[i];
+				fldName = String(element.name);		
+			}//while
+			isEmpty = radioNotChecked
+			i--
+			element = myForm.elements[i];
+			fldName = String(element.name);					
+		}
+		
+		//alert("isEmpty = "+isEmpty+" and isReq="+isReq)
+		reqErr = Boolean(isReq && isEmpty);
+		//alert("reqErr = "+reqErr)
+		
+		if (reqErr) // required and empty
+		{
+			//alert(element.name + "must have an entry and it's type is"+ element.type)
+			var tempMsg = element.id + " must have an entry\n";
+			//This is a fix for checkboxes (Jeff 11.28.2001)			
+			if( element.type == "checkbox" ){ 
+				tempMsg = element.id + " must be checked\n"; 
+			}//if
+			
+			s += tempMsg
+			valid = false;
+		}
+		else
+		{
+			tmpArr = fldName.split(".");
+			if (tmpArr.length > 2)  // if this field has a special field type
+			{
+
+			//alert("fldName is '"+fldName+"'"); //DEBUG
+			
+				fldType = tmpArr[2];
+				
+				//if(DEBUG && Boolean(fldName.indexOf("Date")+1)){
+				if(DEBUG && (fldType == "Time" || fldType == "Date" || fldType == "Number" 
+						|| fldType == "Currency" || fldType == "email")) {
+					if(!(confirm("field name="+fldName+", value="+fldValue+", label="+element.id
+								+"\n isReq="+isReq+", isEmpty="+isEmpty+", reqErr="+reqErr+", valid="+valid
+								+"\n error message so far = \n"+s
+								+"\n\nDo you want to continue?"))){
+						return false;
+					}
+				}
+
+				switch (fldType) 
+				{ 
+					case "Time" :
+						if (DEBUG) alert("checking time entry"); 
+						errMsg = validTime(element);
+						if (errMsg.length > 0)
+						{
+							valid = false;
+							s += errMsg + "\n"
+						} 
+						break;
+					case "Date" :
+						if (DEBUG) alert("checking date entry"); 
+						errMsg = validDate(element);
+						if (errMsg.length > 0)
+						{
+							valid = false;
+							s += errMsg + "\n"
+						} 
+						break;
+					case "Number" :
+						if (DEBUG) alert("checking number entry"); 
+						errMsg = validNumber(element);
+						if (errMsg.length > 0)
+						{
+							valid = false;
+							s += errMsg + "\n"
+						} 
+						break;
+					case "Currency" :
+						if (DEBUG) alert("checking currency entry"); 
+						errMsg = validCurrency(element);
+						if (errMsg.length > 0)
+						{
+							valid = false;
+							s += errMsg + "\n"
+						} 
+						break;
+					case "email" :
+						if (DEBUG) alert("checking email entry"); 
+						errMsg = validEmail(element);
+						if (errMsg.length > 0)
+						{
+							valid = false;
+							s += errMsg + "\n"
+						} 
+						break;
+				}// end switch on field type
+			}// if this field has a special field type
+		} // if else an empty required field
+	}// end for each element in the form
+	//alert("meet a: "+a)
+	//alert("valid="+valid)
+	//alert("s = "+s)
+	if (!valid){
+		if( s.search(/undefined/i) == -1){
+			alert(s);  // Pop up error messages
+		}
+		else{
+			alert("Please fill in all required fields and ensure you have entered information in the correct format.")
+		}	
+	}	
+	return valid;
+
+}
+
+/*******************************************************************************
+    VALIDATE A TIME ENTRY
+    Takes a form element (an INPUT 'object')
+    Returns an error message (empty string means no error)
+*/
+function validTime(element)
+	{
+	var err = "";
+	var msgUnkErr  = "Enter a valid time hh:mm (am|pm)"
+	var msgHours   = "Valid Hours are 0-23"
+	var msgMinutes = "Valid Minutes are 1-59";
+	var val = new String(element.value);  // Get user input
+	//alert("val="+val); // DEBUG	
+	// if no user input, skip time checking
+	if (String(val) != "" && String(val) != 'undefined')
+	{
+		var hrs =0, mins = 0;
+		var valid = true;
+		var str0="", str1="", str2="";
+		
+		
+		val = val.replace(/[\. ]/g,"");  //strip out any periods and spaces
+		
+		//check for only valid characters and no more than 2 alpha characters
+		valid = Boolean(val.search(/[^apm:\d]/ig)==-1 && val.search(/[a-z]{3,}/i)==-1);
+		//alert("valid="+valid); //DEBUG
+		//alert("not valid character found at "+val.search(/[^\d:apm]/ig)); //DEBUG
+
+		// This breaks up the input into an array of hours, minutes and am/pm
+	
+		results = val.match(/^[12]?\d:|\d{1,2}| *[pa]m?$/ig);
+		
+		//alert("parsed entry is "+String(results)+ "\nlength is "+results.length
+		//			+"\nValid is "+valid); //DEBUG
+		
+		// if user didn't put in anything recognizable as a time,
+		// skip parsing and processing it
+		if(results==null || !valid)
+		{
+			err = element.id +" - " + msgUnkErr;
+			valid = false;
+		}
+		else
+		{
+			for (var i = 0; i < results.length; i++)
+			{
+				//alert("resutls[i]="+results[i]); // DEBUG
+				// format am/pm: [space][A|P]M
+				if(results[i].search(/^[ap]/i)>-1) { results[i] = " "+ results[i].toUpperCase(); }  // if no leading space, add one
+				if(results[i].search(/[ap]$/i)>-1) { results[i] = results[i] + "M"; } // if no trailing M, add one
+				if(results[i].search(/a-z/i)>-1 && !(results[i] == "AM" || results[i] == "PM"))
+				{
+					results[i]="ERR"
+				}
+				eval("var str"+i+" = results[i]");  //save part (hours, minutes or am/pm) to variables
+				
+				//alert("resutls[i]="+results[i]); // DEBUG
+			}
+			
+			// paste parts together again
+			val = new String(str0+str1+str2) 
+			
+			// attempt to make a date object from it
+			var myTime = new Date(Date.parse('01/01/1970 '+val)); // 01/01/1970 is default date for SQL Server
+			
+			//alert("myTime is "+typeof(myTime)); //DEBUG
+			
+			// If date object creation failed, try to fix it.
+			if (isNaN(myTime))
+			{
+				var numOfParts = results.length;
+				
+				if (numOfParts > 0)
+				{
+					// first part should be hours
+					if ((str0).search(/:/)>-1)
+					{
+						hrs = parseInt(str0.replace(/:/,""), 10); //strip off the colon for parsing
+					}
+					else
+					{
+						hrs = parseInt(str0, 10);
+						//alert("hrs="+hrs); //DEBUG
+					}
+					if (isNaN(hrs))
+					{
+						err = element.id +" - " + msgUnkErr;
+						valid = false
+					}
+					else
+					{
+						if (hrs > 23 || hrs <0 )
+						{
+							err = element.id +" - " + msgHours;
+							valid = false;
+						}
+						else
+						// add a colon to hours
+						{
+							str0 = String(hrs)+":";
+						}
+					}// is (not) a number
+					
+					// second part should be minutes, or am/pm 
+					// (don't bother with this check if an error already encountered)
+					if (valid && numOfParts > 1)
+					{
+						mins = parseInt(str1,10);
+						
+						// if user entered non-numeric (even am or pm)...
+						if (isNaN(mins))
+						{
+							if ( (str1.search( /^ AM$/)== -1) && (str1.search( /^ PM$/)== -1) )
+							{
+								err = element.id +" - " + msgUnkErr;
+								valid = false;
+							}
+							if (valid && hrs > 12)
+							{
+								str1 = "";  // don't want AM or PM with 24-clock hours
+							}
+						}
+						// only allow 1-59 to be entered for minutes
+						else 
+						{
+							if (mins > 59 || mins <0)
+							{
+								err = element.id +" - " + msgMinutes;
+								valid = false;
+							}
+						}// if isNaN(mins)
+					}// num of parts > 1
+				}// num of parts > 0
+				
+				// paste parts together again
+				val = new String(str0+str1+str2)
+				myTime = new Date(Date.parse('01/01/1970 '+val)); // 01/01/1970 is default date for SQL Server
+				if (isNaN(myTime))
+				{
+					err = element.id +" - " + msgUnkErr;
+					valid = false;
+				}
+			}// if there was an error
+		}// if (no) results from parsing
+		if (valid)
+		{
+			val = new String((myTime.toString()).slice(10,15));
+			element.value = val;
+		}
+	} //is val is undefined
+	return err;
+}// function validTime
+
+/*******************************************************************************
+    VALIDATE A DATE ENTRY
+    Takes a form element (an INPUT 'object')
+    Returns an error message (empty string means no error)
+    If no year entered, the default is this year
+*/
+function validDate(element)
+{
+	var err = "";
+	var msgUnkErr  = "Enter a valid date mm/dd/yy(yy)"
+	var msgMonth   = "Valid Months are 1-12"
+	var msgDay = "Valid Days for ";  // append range based on month
+	var strMnth = "";
+	var myDate;
+	var mnth =0, day = 0, year =0;
+	var valid = true;
+	var str0="", str1="", str2="";
+	var val = new String(element.value);  // Get user input
+	
+
+	
+	// if no user input, skip date checking
+	if (String(val) != "" && String(val) != 'undefined')
+	{
+		
+		var test = val.search(/[^0-9\/]/ig);
+		//alert("test is "+String(test)); //DEBUG
+		
+		// if user didn't put in anything recognizable as a date,
+		// skip parsing and processing it
+		if(val.indexOf("/")== -1 || val.search(/[^0-9\/g]/i) != -1)
+		{
+			err = element.id +" - " + msgUnkErr;
+			valid = false;
+		}
+
+		if( val.length < 6){
+			err = element.id +" - " + msgUnkErr;
+			valid = false;	
+		}
+
+			
+		if (valid) // it passed the "/"  and no alpha's test
+		{
+			// This breaks up the input into an array of month, day, year
+			var results = val.split("/");
+			
+			for (var i = 0; i < results.length; i++)
+			{
+				eval("var str"+i+" = results[i]");  //save part (month, day or year) to variables
+			}
+			
+			var numOfParts = results.length;
+			
+			if (numOfParts < 2)
+			{
+				err = element.id +" - " + msgUnkErr;
+				valid = false;
+			}
+			
+			if (valid)
+			{
+				//alert("year entered is "+str2);  //DEBUG
+				// Get the year
+				var len2 = str2.length
+
+				if (len2 != 0)
+				{
+					if (len2 == 2 || len2 == 4)
+					{
+						myDate = new Date("1/1/"+str2);
+					}
+					else
+					{
+						err = element.id +" - " + msgUnkErr;
+						valid = false;
+					}				
+				}
+				else
+				{
+					myDate = new Date();
+					//alert("today is "+myDate.toString());  //DEBUG
+				}
+			}// valid?
+				
+				if (valid)
+				{
+				if (len2 == 4 || len2 == 0)
+				{
+					year = myDate.getFullYear();
+				}
+				else
+				{
+					year = parseInt(str2,10); 
+				
+					// because getFullYear converts 01 to 1901
+					if (year >= 0 && year< 50)
+					{
+						year += 2000
+				}
+					else if (year >= 50 && year <100)
+					{
+						year += 1900
+					}
+				}// 4 digit vs 2 digit year
+			}// valid?
+				
+			//alert("year is "+String(year));  //DEBUG
+			//alert("year is "+String(year));  //DEBUG
+		
+		// if this is a valid year		
+		if (valid)
+		{
+				// first part should be a month number
+				mnth = parseInt(str0,10);
+				//alert("Entry is "+str0+", month is "+String(mnth));  //DEBUG
+				if (isNaN(mnth))
+				{
+					err = element.id +" - " + msgUnkErr;
+					valid = false;
+				}
+				else
+				{
+					//alert("mnth is a number");  //DEBUG
+					if (mnth > 12 || mnth <1 )
+					{
+					err = element.id +" - " + msgMonth;
+					valid = false;
+					}
+				}// is (not) a number
+				
+				// second part should be the day number 
+				// (don't bother with this check if an error already encountered)
+				if (valid && numOfParts > 1)
+				{
+					day = parseInt(str1, 10);
+					
+					// if user entered non-numeric (even am or pm)...
+					if (isNaN(day))
+					{
+						err = element.id +" - " + msgUnkErr;
+						valid = false;
+					}
+					// only allow 1-[28-31] to be entered for months
+					else 
+					{
+						switch (mnth) 
+						{ 
+						   case 1 :
+						   case 3 :
+						   case 5 :
+						   case 7 :
+						   case 8 :
+						   case 10 :
+						   case 12 :
+									//alert("A month with 31 days"); //DEBUG
+						      if(day > 31)
+						      {
+										strMnth = arrMonths[mnth-1];
+										err = element.id +" - " + msgDay + strMnth + " are 1-31";
+										valid = false; 
+									}
+						      break; 
+						   case 4 :
+						   case 6 :
+						   case 9 :
+						   case 11 : 
+									//alert("A month with 30 days"); //DEBUG
+						      if(day > 30)
+						      {
+										strMnth = arrMonths[mnth-1];
+										err = element.id +" - " + msgDay + strMnth + " are 1-30"; 
+										valid = false; 
+									}
+						      break; 
+						   case 2 : 
+						      if (day > 28)
+						      {
+										// figure out if "year" is a leap year; don't forget that
+										// century years are only leap years if divisible by 400
+										
+										var isleap=((year%4==0 && year%100!=0) || year%400==0);
+										
+										/*alert ("year%4==0 is "+String(year%4==0)
+														+"\nyear%100!=0 is "+String(year%100!=0)
+														+"\nyear%400==0 is "+String(year%400==0)
+														);  //DEBUG */
+										//alert ("leap year is "+String(isleap));  //DEBUG
+										
+										strMnth = arrMonths[mnth-1];
+										
+										if (isleap )
+										{
+											if (day > 29)
+											{
+												err = element.id +" - " + msgDay + strMnth + " in a leap year are 1-29"
+												valid = false; 
+											}
+										}
+										// Not leap year
+										else
+										{
+											err = element.id +" - " + msgDay + strMnth + " are 1-28"; 
+											valid = false; 
+										}
+									}
+						      break;
+						    default:
+										//alert(String(mnth)+" was not processed");  //DEBUG
+						 }// end switch
+					}// if isNaN(day)
+				}// num of parts > 1
+			}// num of parts > 0
+		}// if contains "/"	
+		if (valid)
+		{
+			val = String(mnth) + "/" + String(day) + "/" + String(year)
+			//alert("new value is "+val); //DEBUG
+			element.value = val;
+		}
+	} //is val is undefined
+	return err;
+}// function validDate
+
+/*******************************************************************************
+    VALIDATE A NUMBER ENTRY
+    Takes a form element (an INPUT 'object')
+    Returns an error message (empty string means no error)
+*/
+function validNumber(element)
+{
+	var err = "";
+	var msgNaNErr  = "Enter a valid number (only numbers, and properly placed minus sign, commas, and decimal points)"
+	var valid = true;
+	var val = new String(element.value);  // Get user input
+	
+	// if no user input, skip number checking
+	if (String(val) != "" && String(val) != 'undefined')
+	{
+		var test = val.search(/[^0-9\-\,\.]/ig);
+		//alert("test is "+String(test));  //DEBUG
+		
+		// if user didn't put in anything recognizable as a number,
+		// skip parsing and processing it
+		if(test != -1)
+		{
+			err = element.id +" - " + msgNaNErr;
+			valid = false;
+		}
+			
+		if (valid) // it passed acceptable characters test
+		{
+			val = val.replace(/,/g,""); //strip out commas
+			if ( isNaN(val) )
+			{
+				err = element.id +" - " + msgNaNErr;
+				valid = false;
+			}
+			decimalAndToRight = ""
+			if(val.indexOf(".") != -1){
+				//there is a decimal point.  remove it and all to right then add
+				//commas then add them back in again...
+				decimalAndToRight = val.substring(val.indexOf("."),val.length)
+				val = val.substring(0,val.indexOf("."))
+			}
+			//this now adds commas
+			val = addCommas(val)
+			val += decimalAndToRight			
+			element.value = val
+		}// passed acceptable characters test	
+	} //is val is undefined
+	return err;
+}// function validNumber
+
+
+/*******************************************************************************
+    VALIDATE A CURRENCY ENTRY
+    Takes a form element (an INPUT 'object')
+    Returns an error message (empty string means no error)
+*/
+function validCurrency(element)
+{
+	var err = "";
+	var msgNaNErr  = "Enter a valid currency (only numbers, and properly placed minus sign, commas, and decimal points)"
+	var valid = true;
+	var val = new String(element.value);  // Get user input
+	
+	// if no user input, skip currency checking
+	if (String(val) != "" && String(val) != 'undefined')
+	{
+		var test = val.search(/[^0-9\$\-\,\.]/ig);
+		//alert("[validCurrency] test (for illegal chars) is "+String(test)+" for "+element.id+" with value of "+val);//DEBUG	
+		
+		// if user didn't put in anything recognizable as a currency,
+		// skip parsing and processing it
+		if(test != -1)
+		{
+			err = element.id +" - " + msgNaNErr;
+			valid = false;
+		}
+			
+		if (valid) // it passed acceptable characters test
+		{
+			val = val.replace(/[,\$]/g,"")  //strip out commas & dollar signs		
+			
+			if(val.indexOf(".") == -1){
+				//there is no '.' in the string, put one in
+				val = val + ".00"
+			}				
+			else if(val.length - val.indexOf(".") == 2){
+				val = val + "0"
+			}	
+			else{
+				val = val.substring(0, val.indexOf(".")+3)
+			}
+			if ( isNaN(val) )
+			{
+				err = element.id +" - " + msgNaNErr;
+				valid = false;
+			}
+			val = addCurrency(val)			
+			element.value = val
+		}// passed acceptable characters test	
+	} //is val is undefined
+	return err;
+}// function validCurrency
+
+/*******************************************************************************
+    VALIDATE A EMAIL ENTRY
+    Takes a form element (an INPUT 'object')
+    Returns an error message (empty string means no error)
+*/
+function validEmail(element)
+{	
+	var err = "";
+	var msgEmailErr  = "Enter a valid email address (user@domain[.subdomain ...].ext)"
+	//var regXemail = "^[\\w-\|\'\\.]*[\\w-]+\\@[\\w-]+(\\.[\\w-|']+)*\\.[a-z]{2,3}$";
+	//var regex = new RegExp(regXemail, "i");
+	var regex = /^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/i
+	var valid = true;
+	var val = new String(element.value);  // Get user input
+	
+	// if no user input, skip currency checking
+	if (String(val) != "" && String(val) != 'undefined')
+	{
+    valid = regex.test(val);
+
+		if (!valid) // it failed acceptable characters test
+		{
+			err = element.id +" - " + msgEmailErr;
+			//alert("[validEmail] failed validation for "+element.id); //DEBUG
+		}
+	} //is val is undefined
+	return err;
+}// function validCurrency
+
+
+/*******************************************************************************
+    TRIM A STRING
+    Strips off all leading and trailing spaces
+    Takes a string
+    Returns a string
+*/
+function trim(val)
+{
+	var len = val.length;
+	
+	//RTRIM
+	while(val.charAt(len-1) == ' ')
+	{
+		len = len-1;
+		val = val.substr(0,len);
+	}
+	//LTRIM
+	while(val.charAt(0) == ' ')
+	{
+		val = val.substr(1);
+	}
+	return val;
+}//end function trim
+
+function addCurrency( strValue ) {
+/************************************************
+DESCRIPTION: Formats a number as currency.
+
+PARAMETERS: 
+  strValue - Source string to be formatted
+
+REMARKS: Assumes number passed is a valid 
+  numeric value in the rounded to 2 decimal 
+  places.  If not, returns original value.
+*************************************************/
+  var objRegExp = /-?[0-9]+\.[0-9]{2}$/;
+  
+  
+//'   /(-?[0-9]+)(\.[0-9]{1,5})?$/
+    if( objRegExp.test(strValue)) {
+      objRegExp.compile('^-');
+      var negSign = '';
+      strValue = addCommas(strValue);
+      if (objRegExp.test(strValue)){
+        strValue = strValue.replace(objRegExp,'');
+        negSign = '-';
+      }
+      return negSign + '$' + strValue;
+      
+    }
+    else{
+      return strValue;
+     }
+}
+
+function addCommas( strValue ) {
+/************************************************
+DESCRIPTION: Inserts commas into numeric string.
+
+PARAMETERS: 
+  strValue - source string containing commas.
+  
+RETURNS: String modified with comma grouping if
+  source was all numeric, otherwise source is 
+  returned.
+  
+REMARKS: Used with integers or numbers with
+  2 or less decimal places.
+*************************************************/
+  var objRegExp  = new RegExp('(-?[0-9]+)([0-9]{3})'); 
+
+    //check for match to search criteria
+    while(objRegExp.test(strValue)) {
+       //replace original string with first group match, 
+       //a comma, then second group match
+       strValue = strValue.replace(objRegExp, '$1,$2');
+    }
+  return strValue;
+}
+
+
+
+
+
+</script>
+
+<!-- /include/webFunctions -->
+
+ 
+<meta name="Keywords" content="eating disorders,anorexia, bulimia, binge eating, national eating disorders association, national eating disorders,national eating disorder association, national eating disorder, nationaleatingdisorders.org  
+www.nationaleatingdisorders.org,compulsive overeating, nationaleatingdisorders, eating disorder, eating disorders association, pro anorexia, pro-anorexia, national eating disorders awareness week, media affecting eating disorders, nationaleatingdisorders.org, social workers role in the prevention of eating disorders, national eating disorders association, www.nationaleatingdisorders.org, eating, disorders, national, association, disorder, nationaleatingdisorders.org, www.nationaleatingdisorders.org, nationaleatingdisorders, information, eating, disorders, anorexia, pro, national, media, body, week">
+<!-- [tools/executeSearch] -->
+<!-- [/include/scripts] -->
+
+<!-- [tools/Profile/searchProfileForm] -->
+<!-- [/include/scripts] -->
+<!-- /tools/Profile/displayProfiles -->
+<!-- [/tools/Profile/editProfile] -->
+
+
+
+<script type="text/javaScript">
+
+	function openAffiliationLink(newWebPageId, formName, selectName){
+		var currDD = document.forms[formName].elements[selectName];
+		var currProf =  currDD.selectedIndex;
+		if(currDD.selectedIndex != -1){
+			if(currDD.options[currProf] != null){
+				selectedProfile = currDD.options[currProf].value;			
+				if(selectedProfile != "" && selectedProfile != "undefined" && newWebPageId != ""){
+					window.open("../../p.asp?WebPage_ID="+newWebPageId+"&Profile_ID="+selectedProfile,selectedProfile,"resizable=yes,scrollbars=yes,menubar=no,width=800,height=600")
+					//null,"width=800,height=600"
+				}
+				else{
+					alert("There is no page defined for this function. Configure at the 'Field' level for this profile add/edit.")
+				}
+			}
+			else{
+				alert("Double clicking in the scrolling portion of the select box is not supported in this browser.")
+			}
+		}//end if
+	}//end function
+
+
+
+function addAffToNew(id,name,currentFormName, webProfileFieldId ){	
+	currentForm = document.forms[currentFormName]
+	currentForm.elements["popup.FieldName_ID"].value=id
+	currentForm.elements["popup.webProfileField_ID"].value=webProfileFieldId
+	currentForm.elements["popup.fieldName"].value=name
+	currentForm.elements["popup.page_ID"].value=696
+	currentForm.submit();
+}
+
+
+function BreakItUp(theForm)
+{
+  //Set the limit for field size.
+  var FormLimit = 102399
+	currentForm = document[theForm.name];
+  for(var i=0;i<currentForm.length;i++){
+		currentElement =currentForm.elements[i];
+		if(currentElement.type == "textarea")
+			{
+			//Get the value of the large input object.
+			var TempVar = new String
+			TempVar = currentElement.value
+
+			//If the length of the object is greater than the limit, break it
+			//into multiple objects.
+			if (TempVar.length > FormLimit)
+			{
+			  currentElement.value = TempVar.substr(0, FormLimit)
+			  TempVar = TempVar.substr(FormLimit)
+
+			  while (TempVar.length > 0)
+			  {
+			    var objTEXTAREA = document.createElement("TEXTAREA")
+			    objTEXTAREA.name = currentElement.name
+			    objTEXTAREA.value = TempVar.substr(0, FormLimit)
+			    currentForm.appendChild(objTEXTAREA)
+			    TempVar = TempVar.substr(FormLimit)
+			  }
+
+			}
+		}
+	}
+}
+
+function makeAffSelected(){
+	//this function goes through the entire form array and 
+	//makes sure that all affiliation select boxes have all their
+	//options selected.
+	for(var i=0;i<document.forms[0].elements.length;i++){
+		formElement = document.forms[0].elements[i]
+		formElementName = String(formElement.name);
+		if(formElementName.indexOf(".Affiliation") != -1){
+			//this is an affiliation type go through all it's options and select them
+			for(var j=0;j<formElement.options.length;j++){
+				formElement.options[j].selected = true;
+			}//for			
+		}//end if		
+	}//for	
+	return(true);	
+}//function
+</script>
+
+
+<script language="JavaScript">
+
+
+function openNCpage(){
+	address="http://www.netcorps.org";
+	window.open(address,"NCpage",'toolbar=yes,status=yes,menubar=yes,scrollbars=yes,location=yes,width=800,height=500')	
+}
+
+
+function WM_netscapeCssFix() { 
+	if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) { 
+		location.href = location.href; 
+	} 
+} 
+ 
+function WM_netscapeCssFixCheckIn() { 
+	if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) { 
+		if (typeof document.WM == 'undefined') { 
+			document.WM = new Object; 
+		} 
+		if (typeof document.WM.WM_scaleFont == 'undefined') { 
+			document.WM.WM_netscapeCssFix = new Object; 
+			document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth; 
+			document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight; 
+		} 
+		window.onresize = WM_netscapeCssFix; 
+	} 
+} 
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+<!-- Begin
+function leapto(form) {
+var myindex=form.dest.selectedIndex
+parent.location.href=(form.dest.options[myindex].value);
+// You can output to ANY frame using:  parent.[framename].location.href
+}
+// End -->
+</script><style type="text/css">
+    .topNav
+    {
+    	FONT-WEIGHT: bold;
+    	FONT-SIZE: 12px;
+    	COLOR: #003399;
+    	FONT-FAMILY: "Times New Roman", "Arial";
+    	LETTER-SPACING: 1px;
+    	TEXT-DECORATION: none
+    }
+    .footer
+    {
+    	FONT-WEIGHT: lighter;
+    	FONT-SIZE: 11px;
+    	FONT-FAMILY: "Times New Roman", "Arial";
+    	LETTER-SPACING: 1px
+    }
+    BODY
+    {
+    	FONT-FAMILY: "Times New Roman","Arial"
+    }
+    	A:link
+    {
+    	COLOR: blue
+    }
+    	A:active
+    {
+    	COLOR: blue
+    }
+    .leftNav
+    {
+    	FONT-SIZE: x-small;
+    	COLOR: #ffffff;
+    	FONT-FAMILY: "Times New Roman", "Arial";
+    	TEXT-DECORATION: none
+    }
+    	A.leftNav:active
+    {
+    	COLOR: #b8e585
+    }
+    	A.leftNav:link
+    {
+    	COLOR: #ffffff
+    }
+    	A.leftNav:hover
+    {
+    	BACKGROUND: #b8e585;
+    	COLOR: #003399
+    }
+    .mainbody  {
+	color : black;
+	font-size : 16px;
+	font-family : "Times New Roman", Times, serif;
+}
+    .header  {
+    	color : 003399;
+    	font-size : 24px;
+    	font-family : "Arial", Times, serif;
+    }
+    .subheading  {
+    	color : black;
+    	font-size : 20px;
+    	font-family : "Times New Roman", Times, serif;
+    }
+    .ital  {
+    	color : black;
+    	font-size : 16px;
+    	font-family : "Times New Roman", Times, serif;
+    	font-style : italic;
+    }
+    .blheader  {
+    	color : black;
+    	font-size : 24px;
+    	font-family : "Times New Roman", Times, serif;
+    }
+    .bluesub  {
+    	color : 003399;
+    	font-size : 16px;
+    	font-family : "Arial", Times New Roman, Times, serif;
+		font-weight : bold
+      }
+    .bllink  {
+    	color : 003399;
+    	font-size : 16px;
+    	font-family : "Arial", Times New Roman, Times, serif;
+		font-weight : bold;
+		text-decoration: none;
+	}
+	 .a.bllink:hover  {
+	color : 003399;
+	font-size : 16px;
+	font-family : "Arial", Times New Roman, Times, serif;
+	font-weight : bold;
+	text-decoration: underline;
+	
+}
+</style>
+<script type="text/javascript">
+WM_netscapeCssFixCheckIn();
+</script>
+
+</head>
+
+
+	<body bgcolor="#ffffff" vlink="blue" alink="BLUE" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" text="#000000" onload="MM_preloadImages('nedaDir/template/top_r002_c11_f3.gif','nedaDir/template/top_r002_c11_f2.gif','nedaDir/template/top_r02_c02_f3.gif','nedaDir/template/top_r02_c02_f2.gif','nedaDir/template/top_r02_c02_f4.gif','nedaDir/template/top_r03_c13_f3.gif','nedaDir/template/top_r03_c13_f2.gif','nedaDir/template/top_r03_c13_f4.gif','nedaDir/template/top_r03_c17_f3.gif','nedaDir/template/top_r03_c17_f2.gif','nedaDir/template/top_r03_c17_f4.gif','nedaDir/template/top_r04_c04_f3.gif','nedaDir/template/top_r04_c04_f2.gif','nedaDir/template/top_r04_c04_f4.gif','nedaDir/template/top_r04_c06_f3.gif','nedaDir/template/top_r04_c06_f2.gif','nedaDir/template/top_r04_c06_f4.gif','nedaDir/template/top_r04_c08_f3.gif','nedaDir/template/top_r04_c08_f2.gif','nedaDir/template/top_r04_c08_f4.gif','nedaDir/template/top_r04_c10_f3.gif','nedaDir/template/top_r04_c10_f2.gif','nedaDir/template/top_r04_c10_f4.gif','nedaDir/template/top_r07_c11_f3.gif','nedaDir/template/top_r07_c11_f2.gif','nedaDir/template/top_r07_c11_f4.gif','nedaDir/template/top_r07_c15_f3.gif','nedaDir/template/top_r07_c15_f2.gif','nedaDir/template/top_r07_c15_f4.gif')"><a name="#top"></a><table border="0" cellpadding="0" cellspacing="0" width="50%" bgcolor="#003399">
+	
+
+
+
+
+	 <tbody><tr><td colspan="3">    
+	<img name="top" src="nedaDir/template/top.gif" width="800" height="130" border="0" usemap="#m_top">
+	<map name="m_top">
+
+	<!-- donate now -->
+	<area shape="rect" coords="618,99,725,123" href="http://cart.nationaleatingdisorders.org/membership.asp">
+	<area shape="rect" coords="486,99,593,123" href="p.asp?WebPage_ID=347">
+	<area shape="rect" coords="642,43,721,85" href="p.asp?WebPage_ID=345">
+	<area shape="rect" coords="544,43,623,85" href="p.asp?WebPage_ID=346">
+	<area shape="rect" coords="447,44,526,86" href="p.asp?WebPage_ID=294">
+	<area shape="rect" coords="350,44,429,86" href="p.asp?WebPage_ID=303">
+	<area shape="rect" coords="250,43,329,85" href="p.asp?WebPage_ID=331">
+	<area shape="rect" coords="150,43,229,85" href="p.asp?WebPage_ID=337">
+	<area shape="rect" coords="23,5,88,123" href="p.asp?WebPage_ID=337">
+	</map>
+	</td></tr>
+	<tr>
+	<td colspan="1" align="top" valign="top" bgcolor="#003399">
+	<img src="nedaDir/template/shim.gif" width="112" height="1">
+	
+<!-- DYNAMIC left menu content -->   
+
+<!-- [/include/webFunctions.asp]doWebMenu(rs) -->
+<!--HERE--></td></tr><tr width="105"><td width="105" valign="top" class="leftNav" bgcolor="#003399"><p>&nbsp;</p><a class="leftNav" href="p.asp?WebPage_ID=601"><center>2004<br>Conference</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=738"></a><center><a class="leftNav" href="p.asp?WebPage_ID=738">Get Real<br><br></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=677"><center>NEDAW</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=664"><center>Press Room</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=547"><center>Join Now</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=712"><center>Research</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=406"><center>Advocacy</center></a><p></p><a class="leftNav" href="http://www.gurze.net/indexNEDA.htm">Gürze Books</a><p></p><a class="leftNav" href="p.asp?WebPage_ID=384"><center>Links and<br>Resources</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=394"><center>Employment Opportunities</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=446"><center>Sponsors</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=562"><center>Parents and Family Network</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=717"><center>NEDA Long Island</center></a><p></p><a class="leftNav" href="p.asp?WebPage_ID=595"></a><center><a class="leftNav" href="p.asp?WebPage_ID=595"></a><a href="http://www.nationaleatingdisorders.org/p.asp?WebPage_ID=595"><img src="nedaDir\files\images/home_page/MyNEDAsm.gif" border="0"></a></center><p></p><p>&nbsp;</p><p><img style="WIDTH: 105px; HEIGHT: 24px" height="24" src="../../images/vpageImages/shim.gif" width="24"></p></center></td>	
+
+<!-- Vertical Wave content --> 
+
+<td bgcolor="#FFFFFF" valign="top">
+<img src="nedaDir/template/shim.gif" width="650" height="1" align="top">
+<table width="555" cellspacing="3" cellpadding="4">
+
+
+<!--pageOpenRow-->
+    <tbody><tr>
+     <td valign="top">
+      <table border="0" cellspacing="0" cellpadding="0" background="">
+       <tbody><tr>
+<!--end pageOpenRow-->
+
+<!--pageopenTableCell-->
+        <td><table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+           <td><font>
+<!--end pageopenTableCell-->
+<hr><div align="center"><font class="header">Privacy Policy</font></div><hr>
+
+<p><font class="mainbody">
+The National Eating Disorders Association wants you to be aware of how personal information about you may be used when you visit our web site.
+</font></p><p><font class="mainbody">
+We respect your privacy.  We want you to know how much control you have over your personal information when you use our site.
+</font></p><p><font class="mainbody">
+We also want you to know that your personal information sometimes goes outside your control or our control.
+</font></p><p><font class="mainbody">
+We hope you will take time to educate yourself about how your personal information is used when you visit here.
+</font></p><p><font class="mainbody">
+<strong>Giving Your Personal Information</strong>
+</font></p><p><font class="mainbody">
+You give us your personal information in several ways.  For example:
+</font></p><p><font class="mainbody">
+</font></p><ul><font class="mainbody">
+<li>If you join the National Eating Disorders Association, you tell us your name, details about where you live and how to contact you, and other personal information.  You also give us information about your credit card or checking account.
+</li><li>The same is true if you become a Professional Member of the Association to participate in our referrals program.  In addition, Professional Members give us information about their credentials.
+</li><li>If you donate to the National Eating Disorders Association, you send us the same kind of personal information as someone who joins.
+</li><li>If you order learning or teaching materials on this site from the National Eating Disorders Association, you furnish us with your contact and credit card or checking account information.
+</li><li>If you participate in our Ask the Expert Program, you may voluntarily tell us information about you and your personal life.
+</li><li>If you participate in our Information and Referral Program, you may voluntarily tell our helpline staff or volunteers personal information about you.
+</li><li>When you visit this site, our computer system automatically receives information from your computer that may sometimes identify you or transmit information about you.
+</li><li>When you use one of the links on the National Eating Disorders Association site to visit another site that we do not operate, information about you or about your computer may be given automatically to the new site.
+</li><li>If you order learning or teaching materials from one of these other sites, you may furnish the operator of that other site with your contact and credit card or checking account information.
+</li><li>There may be other ways that your use of this site may give us your personal information.  For example, you give us your personal information when you use this site to register for one of our meetings or conferences, or when you give us feedback.
+</li></font></ul><p><font class="mainbody">
+<strong>Our Use of Your Personal Information</strong>
+</font></p><p><font class="mainbody">
+We use reasonable means to protect your personal information.  We have internal procedures that regulate how our staff and volunteers may access and use your personal information.  We also take reasonable precautions to protect our computer systems from hackers or others who may seek unauthorized access.  However, no computer system can be completely secure, so there is some risk that someone could gain unauthorized access, or make unauthorized use, of the personal information on our computer system.
+</font></p><p><font class="mainbody">
+
+<!--pagecloseTableCell-->
+</font></p></font></td>
+          </tr>
+         </tbody></table></td>
+<!--end pagecloseTableCell-->
+
+<!--pagecloseRow-->
+       </tr>
+      </tbody></table></td>
+    </tr>
+<!--end pageCloseRow-->
+
+<!--pageOpenRow-->
+    <tr>
+     <td valign="top">
+      <table border="0" cellspacing="0" cellpadding="0" background="">
+       <tbody><tr>
+<!--end pageOpenRow-->
+
+<!--pageopenTableCell-->
+        <td><table border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+           <td><font>
+<!--end pageopenTableCell-->
+We hire people who are not on our staff, and outside firms, to help us with our web site.  Those people and firms are obligated to treat all personal information on our web site in confidence.
+<p>
+The National Eating Disorders Association offers you the opportunity to participate in various programs on this site.  You may also chose to be on a list to receive information from us, or to be contacted by us.  For example, you may want to receive newsletters or surveys from us.  In each case, you must make the choice to participate.  This choice is called "opting in."
+</p><p>
+At any time, you may decide to stop participating in an activity.  You may also at any time decide you no longer want to be on a particular list, or on all the lists, on this site.  If you notify us in writing of this choice by clicking <a href="mailto:info@nationaleatingdisorders.org">here</a> or by U.S. mail, we will make reasonable efforts to remove you promptly.  Usually we can remove you within 10 business days.
+</p><p>
+Even if we remove your personal information from all our computer systems, your personal information may still be somewhere on our computer system.  For example, it may be on a backup system.  It may also be in our old computer or paper records, called "archives."  However, your personal information will not be on the parts of the computer system that we use actively, day by day, to run the National Eating Disorders Association.
+</p><p>
+The National Eating Disorders Association does not use any "cookies."  Cookies are computer codes that some sites use to get back information from the user's computer.  A Cookie on the user's computer sends information back to the site about how the users acts or uses the site.  The National Eating Disorders Association does not do this.
+</p><p>
+We may change our privacy policy from time to time.  We suggest that you look at our privacy policy from time to time to keep yourself informed about how we use your personal information.
+</p><p>
+<strong>Use of Your Personal Information by Others</strong>
+</p><p>
+You may use links on our web site to leave the National Eating Disorders Association's site and go to other web sites.  The National Eating Disorders Association does not control or monitor any of these other sites.  
+</p><p>
+By using a link, you will make a computer connection to the new site.  Some personal information from your computer will go automatically to the new site when the connection is made.  You also may decide to give the new site additional personal information.  The National Eating Disorders Association does not know what the new site will do with any of the personal information that you give to the new site.  We cannot control what they do.  It is important for you to learn about the privacy policy of each new site before you give the site any personal information.
+</p><p>
+<strong>Parents and Children</strong>
+</p><p>
+The National Eating Disorders Association web site is directed to adults and to children 13 and older.  We suggest that children under 13 use this site only with the active supervision of a parent or another adult who is responsible for the child.
+</p><p>
+<strong>Questions or Complaints</strong>
+</p></font><p><font>
+If you have questions about how we handle your personal information, or complaints, please contact us at 1-206-382-3587 and ask to speak to our Administrative Assistant.
+
+
+<!--pagecloseTableCell-->
+</font></p></td>
+          </tr>
+         </tbody></table></td>
+<!--end pagecloseTableCell-->
+
+<!--pagecloseRow-->
+       </tr>
+      </tbody></table></td>
+    </tr>
+<!--end pageCloseRow-->
+
+<tr><td align="center"><a href="#top">back to top</a></td></tr>
+  </tbody></table> 
+  </td></tr><tr bgcolor="003399">   
+    <td width="1" height="75" align="center" valign="center" colspan="2">    
+<img id="IMG3" height="40" src="nedaDir/template/logoWave2.gif" width="553" align="absMiddle">    
+    </td>
+  </tr> 
+</tbody></table>
+<br>
+<table width="785" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+    <td width="140" height="114" valign="center" align="middle"><font size="2"> 
+      </font></td>
+    <td width="516" valign="top"><font color="#000000"><font color="#000000"> 
+      <p align="center"> <font size="2">For more information, contact the National 
+        Eating Disorders Association at<br>
+        603 Stewart St., Suite 803, Seattle, WA 98101<br>
+        (206) 382-3587<br>
+        </font><a href="mailto:info@NationalEatingDisorders.org"><font size="2">info@NationalEatingDisorders.org</font></a><br>
+        <font size="2"><font size="1">©2002, National Eating Disorders Association. 
+        All Rights Reserved.</font> </font></p>
+      </font> 
+      <p align="center"><font color="#000000"></font> </p>
+      </font> 
+    </td><td width="138" valign="middle" align="left">
+<a href="javascript:openNCpage();"><img id="IMG2" height="32" src="/images/adminimages/ani.gif" width="101" border="0" align="absmiddle"></a> 
+      <img height="10" src="../../images/vpageImages/shim.gif" width="10" border="0"> 
+  </td></tr>
+</tbody></table>
+
+</body></html>
