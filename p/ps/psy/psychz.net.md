@@ -1,43 +1,42 @@
-> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Customer_Support/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Customer_Support/privacy_policy.htm) for the most accurate reproduction.*
 
 # Psychz: Customer Support - Privacy Policy
 
   
-[](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Services/webhosting.htm)  
-[](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Services/dedicatedservers.htm)  
-[](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Services/colocation.htm)  
-[](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Services/shell.htm)  
-[](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Services/gameserver.htm)  
-[](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Services/shoutcast.htm)  
-[](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Services/order_services.htm)  
-[](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Customer_Support/index.htm)  
+[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/webhosting.htm)  
+[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/dedicatedservers.htm)  
+[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/colocation.htm)  
+[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/shell.htm)  
+[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/gameserver.htm)  
+[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/shoutcast.htm)  
+[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/order_services.htm)  
+[](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Customer_Support/index.htm)  
 [](https://www.secure.psychz.net/order/)  
 
 
-**[Web Hosting Packages ](file:///C:/Backup/Web%20Projects/Psychz%20Main/Services/webhosting.htm)**
+_**Budget**_ **[Web Hosting Package ](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/webhosting.htm)**
 
   * ** [ Psychz Control Panel](http://demo:demo@dasher.psychz.net:2082/)**
-  * **[Package Comparison](https://web.archive.org/web/20030621174910id_/http%3A//www.psychz.net/Services/tour.htm)**
   * 50 MB of space
-  * 5 GB Monthly Bandwidth limit.
-  * 300 POP3
+  * 5 GB  Monthly Bandwidth limit.
+  * 300 POP3 Accounts
   * Email Aliases
-  * Unlimited Email responder
-  * 2 Sub domains
+  * Auto Responder
+  * 2 Sub Domain
   * CGI usage
   * FTP access
   * Microsoft® FrontPage® Server Extension
   * 2 MySql Database, PhpAdmin
   * Perl
-  * Web Mail (Squirrel Mail)                       
+  * Web Mail                     
   * Server Sides Include
   * support .php, .html, .shtml, and more
   * 99.99% uptime
-  * _**$ 2.95**_
+  * [**T otal - $ 2.95**](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/webhosting.htm)
 
 
 
-_[**MORE INFO**](file:///C:/Backup/Web%20Projects/Psychz%20Main/Services/webhosting.htm)_[   ](file:///C:/Backup/Web%20Projects/Psychz%20Main/Services/webhosting.htm)
+_**[MORE INFO](https://web.archive.org/web/20031205040013id_/http%3A//psychz.net/Services/webhosting.htm)**_[  ](file:///C:/Backup/Web%20Projects/Psychz%20Main/Services/webhosting.htm)
 
 | | 
 
