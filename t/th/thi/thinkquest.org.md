@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210103652id_/http%3A//www.thinkquest.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkquest.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403155437id_/http%3A//www.thinkquest.org/privacy.html) for the most accurate reproduction.*
 
 # ThinkQuest Privacy Policy
 
