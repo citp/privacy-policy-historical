@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202031053id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610095246id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # Arizona State University | Privacy Statement
 
@@ -40,7 +40,7 @@ ASU does not sell or distribute confidential information it collects online to i
 
 University and Arizona Board of Regents policies protect the confidentiality of student educational records and employee personnel information. These policies explain what information may be shared with the public or anyone who requests it. They also explain what information is protected as confidential; confidential information will not be disclosed without the consent of the student or employee, except under subpoena or court order or in case of an emergency.
 
-**Student records.** Student records are protected by the federal Family Education Rights and Privacy Act (FERPA), Arizona law, and university policy. Information about student access to education records and protection of education records is available in [STA 105-01](http://www.asu.edu/aad/manuals/sta/sta105-01.html) (Release of Student Information): <http://www.asu.edu/aad/manuals/sta/sta105-01.html>. That policy also provides information on a student’s right to limit access to otherwise public directory information. The ASU Office of General Counsel (OGC) briefing paper on FERPA also provides general information: <http://www.asu.edu/counsel/brief/ferpa.html>.
+**Student records.** Student records are protected by the federal Family Education Rights and Privacy Act (FERPA), Arizona law, and university policy. Information about student access to education records and protection of education records is available in [SES 101-01](http://www.asu.edu/aad/manuals/ses/ses101-01.html) (Release of Student Information): <http://www.asu.edu/aad/manuals/ses/ses101-01.html>. That policy also provides information on a student’s right to limit access to otherwise public directory information. The ASU Office of General Counsel (OGC) briefing paper on FERPA also provides general information: <http://www.asu.edu/counsel/brief/ferpa.html>.
 
 **Chat rooms, forums, message boards, and news groups.** ASU does not routinely retain logs or copies of chat rooms, forums, message boards or news groups available to its users. Information disclosed in these areas is public, however. Academic chat rooms and discussions conducted in connection with ASU classes may be logged but may be treated as confidential educational records under FERPA.
 
