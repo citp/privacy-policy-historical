@@ -1,194 +1,378 @@
-<!--The following is the downloaded HTML source of the noggin.com privacy policy that was archived on 2000-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001207044300id_/http%3A//noggin.com/pages/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the noggin.com privacy policy that was archived on 2003-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401201635id_/http%3A//www.noggin.com/info/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>Untitled</title>
-<script language="JavaScript">
+    <link rel="StyleSheet" href="/css/style_main.css" type="text/css" media="screen">
+    <script src="/inc/navbar.js"></script>
+    <script language="javascript">
+    <!--
+      var tr_title = "Info: Kids Privacy Policy";
+      document.write ("<title>N O G G I N: " + tr_title + "</title>");
+    !-->
+    </script>
+
+    <script language="javascript">
 <!--
-var agt=navigator.userAgent.toLowerCase();
-var is_mac = (agt.indexOf("mac")!=-1);
-function sheetChooser() { 
-	if (is_mac) { 
-		document.write('<link rel="stylesheet" href="style_mac.css">');
-	} else { 
-		document.write('<link rel="stylesheet" href="style_pc.css">'); 
-	} 
-} 
-sheetChooser();
+var tr_section      = "info";
+var tr_portal       = "parents";
+var tr_content_type = tr_section;
 
-// -->
- </script><link rel="stylesheet" href="style_pc.css">
-</head>
-<body bgcolor="#330099" text="ffffff" link="ccff00" vlink="ccff00" alink="ccff00">
-<!-- #bbinclude "content.incl" -->
-<!--THIS SCRIPT MUST ALWAYS BE HERE AND ALWAYS FOLLOW THE BODY TAG--> 
-<script type="text/javascript" language="JavaScript">
 
-<!--
+var pathname   = location.pathname;
+var path       = pathname.split("/");
+var fileName   = path[path.length-1];
 
-//don't use an included javascript here, it won't define the parent content_bgcolor variable the first time through
-function checkBgColor()
+
+var aboutSectionPattern = new RegExp("^(about|businesses|parents|teachers|affiliates|press)\.html$");
+if (aboutSectionPattern.test(fileName))
 {
-	if(top.content_bgcolor != document.bgColor){
-		//get my bgcolor
-		top.content_bgcolor = document.bgColor;
-		
-		//reload the frames so they can get their new background
-		top.frames[0].location = top.frames[0].location;
-		top.frames[1].location = top.frames[1].location;
-		top.frames[3].location = top.frames[3].location;
-	}
+	var tr_subsection1  = "about";
+    if (fileName == "about.html")
+        tr_content_type ="index";
+    else
+        var tr_content_type ="info";
+}
+else if (path[1] == "getnoggin")
+{
+	tr_subsection1  = "getnoggin";
+	tr_content_type = "utility";
+}
+//!-->
+</script>
+    <script language="javascript" type="text/javascript" src="/inc/if/sectionsetup.js"></script>
+  </head>
+
+<body bgcolor="#ffb34f" background="../img/bg_orng_1.jpg" text="#ffffff" link="#B4FF54" alink="#B4FF54" vlink="#B4FF54" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" border="0">
+
+
+<!-- ********** HEADER STARTS HERE *********** -->
+
+<script language="javascript">
+<!--
+function readCookie(name)
+{
+    if (document.cookie == '')
+        {return false;}                        //there's no cookie, so go no further
+    else
+    {                                       // there is a cookie
+        var firstChar, lastChar;
+        var theBigCookie = document.cookie;
+        firstChar = theBigCookie.indexOf(name);  // find the start of 'name'
+        if(firstChar != -1)// if you found the cookie
+        {
+            firstChar += name.length + 1;            // skip 'name' and '='
+            lastChar = theBigCookie.indexOf(';', firstChar);
+            if(lastChar == -1)// Find the end of the value string (i.e. the next ';').
+                {lastChar = theBigCookie.length;}
+            return unescape(theBigCookie.substring(firstChar, lastChar));
+        }
+        else      //If there was no cookie of that name, return false.
+            {return false;}
+    }
+}
+var log_status;
+var username = readCookie('ngnickname');
+if (username && (username != ' ngnickname'))
+{
+    username = username.charAt(0).toUpperCase() + username.substr(1);
+	log_status=
+	'<td width="66">'+
+	  '<a href="javascript:logout();" >'+
+	    '<img src="/img/button_logout.gif" width="66" height=28 border=0>'+
+	  '</a></td>'+
+	'<td width="74" height="28" align="center">'+
+	  '<img align="left" src="/img/pixel.gif" width="0" height="0">'+
+	  '<a class="header" href="/portfolio/">Hi '+ username + '!</a>'+
+    '</td>';
+}
+else
+{
+	log_status=
+	'<td width=66><a href="/registration/login.html">'+
+	  '<img src="/img/button_login.gif" width=66 height=28 border=0></a></td>'+
+	'<td width=74>'+
+	  '<a href="/cgi-bin/WebObjects/NogginGate.woa/wa/RegistrationActions/registration">'+
+	    '<img src="/img/button_register.gif" width=74 height=28 border=0></a>'+
+	'</td>';
 }
 
-checkBgColor();
-
-//-->
-
+//!-->
 </script>
-<!-- end bbinclude -->
-	<table border="0" cellspacing="0" cellpadding="0" width="594">
-		<tbody><tr>
-			<td width="24" height="1"><img src="commonimages/spacer.gif" alt="" border="0" width="24" height="1"></td>
-			<td width="2" height="1"><img src="commonimages/spacer.gif" alt="" border="0" width="2" height="1"></td>
-			<td width="28" height="1"><img src="commonimages/spacer.gif" alt="" border="0" width="28" height="1"></td>
-			<td width="128" height="1"><img src="commonimages/spacer.gif" alt="" border="0" width="128" height="1"></td>
-			<td width="20" height="1"><img src="commonimages/spacer.gif" alt="" border="0" width="20" height="1"></td>
-			<td width="352" height="1"><img src="commonimages/spacer.gif" alt="" border="0" width="352" height="1"></td>
-			<td width="35" height="1"><img src="commonimages/spacer.gif" alt="" border="0" width="35" height="1"></td>
-			<td width="2" height="1"><img src="commonimages/spacer.gif" alt="" border="0" width="2" height="1"></td>
-			<td width="3" height="1"><img src="commonimages/spacer.gif" alt="" border="0" width="3" height="1"></td>
-		</tr>
-		<tr>
-			<td colspan="5" width="202" align="left" valign="bottom"><img src="staticimages/boxcorner_topleft.gif" alt="" border="0" width="202" height="25"></td>
-			<td width="352" align="left" valign="bottom"><img src="staticimages/boxtop_nonum.gif" alt="" border="0" width="352" height="25"></td>
-			<td colspan="3" width="40" valign="bottom"><img src="staticimages/boxcorner_topright.gif" alt="" border="0" width="40" height="25"></td>
-		</tr>
-		<tr>
-			<td colspan="4" width="182" align="left" valign="bottom"><img src="staticimages/privacy.gif" alt="" border="0" width="182" height="54"></td>
-			<td width="20" align="left" valign="bottom">
-				<table cellspacing="0" cellpadding="0" border="0" width="20">
-					<tbody><tr><td><img src="staticimages/boxcorner_insidetop.gif" alt="" border="0" width="20" height="15"></td></tr>
-					<tr><td><img src="staticimages/boxcorner_insidebottom.gif" alt="" border="0" width="20" height="39"></td></tr>
-				</tbody></table>
-			</td>
-			<td bgcolor="3366CC" width="350" height="54"><img src="commonimages/spacer.gif" alt="" border="0" width="350" height="54"></td>
-			<td colspan="3" width="40" align="left" valign="bottom"><img src="staticimages/boxright.gif" alt="" border="0" width="40" height="54"></td>
-		</tr>
-		<tr>
-			<td colspan="5" width="202" align="left" valign="bottom"><img src="staticimages/boxcorner_middle.gif" alt="" border="0" width="202" height="22"></td>
-			<td bgcolor="3366CC" width="350" height="22"><img src="commonimages/spacer.gif" alt="" border="0" width="350" height="22"></td>
-			<td colspan="3" width="40" align="left" valign="bottom"><img src="staticimages/boxright.gif" alt="" border="0" width="40" height="22"></td>
-		</tr>
-		<tr>
-			<td width="24" height="200"><img src="commonimages/spacer.gif" alt="" border="0" width="24" height="200"></td>
-			<td width="2" bgcolor="#66CCFF" height="200"><img src="commonimages/spacer.gif" alt="" border="0" width="2" height="200"></td>
-			
-    <td width="28" bgcolor="#3366CC" height="200"><img src="commonimages/spacer.gif" alt="" border="0" width="28" height="200"></td>
-			
-    <td colspan="3" width="500" bgcolor="3366CC" align="left" valign="top"> 
-<!--span class="main2title">
-NOGGIN ONLINE PRIVACY POLICY
-</span-->
-<p>
-<span class="main1text">
-     Noggin is the place in cyberspace where Noggin fans can come to find out more about Noggin, play games and have their opinions heard. Noggin believes in the power of kids and we urge both them and their parents to use and enjoy our website. While we encourage the interactive nature of online media, we strive to educate parents and kids about how to appropriately safeguard their privacy when traveling on the web. Noggin is committed to complying fully with the Children's Online Privacy Protection Act of 1998. Our information collection practices are described below. We urge kids to check with their parents before entering any information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know. 
-</span> 
-      </p><p>
-			<span class="main2title">What Information Is Collected</span></p><p>
-			<span class="main1text">
-At Noggin, it is our policy to create website content that requires minimal collection of information from our visitors. Consequently, Noggin generally limits the collection of information from kids to what is known as non-personally identifiable information (e.g. an online nickname). From time to time, however, Noggin may request limited personally identifiable information (e.g. an e-mail address), as explained below, in order to conduct online contests or sweepstakes or offer other activities. Noggin does not condition a kid's participation in any games, the offering of prizes, or other online activities on the disclosure of more information than is reasonably necessary to participate in the activity.  </span>
 
-</p><ul>
+<table cellpadding="0" cellspacing="0" width="100%" height="102" bgcolor="#33196F" border="0">
+  <tbody><tr>
+    <td height="100">
+    <table cellpadding="0" cellspacing="0" border="0" height="100">
+      <tbody><tr>
+        <td width="3"><img src="/img/pixel.gif" width="3"></td>
+	<!-- rollover -->
 
-<li> <span class="main2strong">General Activities.</span> 
-<span class="main1text"> Kids can take part in a large number of the exciting activities we offer on Noggin without submitting any personally identifiable information about themselves. These activities include playing certain games, sending electronic material (e.g. comics, animations, drawings, music and text) routed through the Noggin server, and making things on our site (e.g. drawings and music).  </span>
-</li><br><br>
-<li> <span class="main2strong">Sending Electronic Material.</span>
-<span class="main1text"> Noggin does not require kids to submit personally identifiable information about themselves in order to send electronic materials to a friend, but to send it we do ask them to submit their friend's e-mail address. These e-mail addresses are used only to send the message, and are retained by our server for several hours and then deleted from our system. They are not stored in retrievable form. Noggin also does not require kids to submit personally identifiable information to send electronic materials to Noggin, just their first name, their city or state, and in some cases their age or date of birth.</span>
-</li><br><br>
-<li> <span class="main2strong">Registered Users.</span> 
-<span class="main1text"> Kids are required to become registered users of Noggin to use our web site's many advanced activities. For some activities, such as playing multi-session games, saving high scores from games, or creating a personal library on Noggin, we do not request any personally identifiable information, but just an online nickname, a password, and in some cases their first name, city or state, and age or date of birth. For other activities, such as making a personal home page or submitting things to Noggin which may be used online, on air, or in 
-other media, kids are also asked to provide their first name, state, date of birth, and their parent's or guardian's e-mail address. We notify the parent or guardian via e-mail and ask them for, among other things, their consent to allow their kid to participate in these activities. Kids that do not submit this information will not be able to participate in these activities. </span>
-</li><br><br>
+<script language="JavaScript">
+<!--
 
-<li> <span class="main2strong">Contests and Sweepstakes.</span> 
-<span class="main1text"> Kids can also enter online to win prizes in Noggin contests and sweepstakes by providing minimal personal identifying information.  Noggin will ask only for the child's first name, his or her e-mail address, and the e-mail address of a parent or guardian, who will be notified of the kid's entry via e-mail and be given the opportunity to withdraw the child from the contest or sweepstakes. </span>
-</li>
-</ul>
+var logo_off = new Image();
+var logo_roll = new Image();
 
+logo_off.src = "/img/noggin_logo.gif";
+logo_roll.src = "/img/noggin_logo_roll.gif";
 
+function logoOver() {
+   document.logo.src = logo_roll.src;
+   return true;
+}
 
+function logoOut() {
+    document.logo.src = logo_off.src;
+    return true;
+}
 
+// -->
+</script>
 
-<p>
-<span class="main2title">Use of Information</span></p><p>
-<span class="main1text">
-Noggin uses or may use personally identifiable information that kids provide for contacting them or their parents for marketing purposes, fulfilling online transactions, or conducting contests or sweepstakes, or for record keeping, programming, or otherwise operating its website. Noggin currently does not disclose to third parties personally identifiable information that kids provide. In the event that all or substantially all of Noggin's stock and/or assets are transferred or sold to another entity, Noggin may transfer personally identifiable information to the acquiring entity.
-</span>
-</p><p>
-<span class="main2title">Cookies and Log Data</span></p><p> 
-<span class="main1text">
-"Cookies" are information files which your web browser places on your computer when you visit a site. Noggin is able to access only the cookies that it sets on your computer and we are only able to determine the type of computer operating system and browser that you and other visitors are using. Noggin collects this information in the aggregate in order to improve access to our content based on our visitors' browsers and operating system types thereby making our content available to as many kids as possible. Cookies are also used to record whether a visitor has indicated that they have certain plug-in software applications installed on their browser, and to assist in site navigation. We do not link the information collected through cookies to any personal information that kids may submit online when participating in our activities. You can, 
-of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. "Log data" collected on web servers provides Noggin with aggregate information about the number of visits to different pages on our site. We do not link log data to any personal information that kids may submit online when participating in our activities.
+        <td><a href="/" onmouseover="logoOver()" onmouseout="logoOut()"><img name="logo" src="/img/noggin_logo.gif" width="79" height="92" border="0"></a></td>
+        <td width="4"><img src="/img/pixel.gif" width="4"></td>
+        <td width="690" height="60">
+        <table border="0" cellpadding="0" cellspacing="0" width="690" height="92">
+          <tbody><tr>
+            <td width="205" height="60">
+<a href="/activities/pwms/"><img src="/whatson/whatson_pwms.gif" width="205" height="60" border="0"></a>
 
-</span>
-</p><p>
-<span class="main2title">Security &amp; Parental Access</span></p><p>
-<span class="main1text">
-At Noggin, our goal is to help parents ensure that their kids have a safe and fun online experience. That's why we've set up a system by which parents can print out and mail or fax us a signed form that allows them to review any personally identifiable information collected about their child and ask us to correct any factual inaccuracies, delete this information, and/or request that we refrain from further collection or use of their child's information.  <a href="/pages/infoinquiryform.htm" target="_blank">You can link to the form from here</a>. 
+	</td>
+            <td width="7" height="60"><img src="/img/pixel.gif" width="7"></td>
+            <td width="10" height="60"><img src="/img/advertisement_title.gif" width="10" height="60" border="0"></td>
+            <td width="468" height="60"><script language="javascript1.1">
+<!--
+if (!(rdm_num))
+    var rdm_num = Math.round(1 + (99999)*Math.random());
 
-<br><br>
-Noggin has taken steps to ensure that any information we collect is secure by, among other things, limiting the number of people who have physical access to our database servers, utilizing electronic security systems, and password protections which guard against unauthorized access. 
-</span>
-</p><p>
-<span class="main2title">To Parents</span></p><p> 
-<span class="main1text">
-Noggin urges parents to talk with their kids about online safety and to monitor their kids' activities online.  Noggin participates in the Better Business Bureau ("BBB") Online Privacy Seal Program, and the BBB Online Kids Privacy Seal Program.  More information about these programs can be obtained at  <a href="http://www.bbonline.org" target="_blank">www.bbbonline.org</a>.
-<br><br>
-The Noggin website is intended for domestic visitors and is, consequently, specifically directed towards residents of the United States. 
-</span>
-</p><p>
-<span class="main2title">Questions/Concerns?</span></p><p> 
-<span class="main1text">
-If you have any questions, comments or concerns regarding Noggin's privacy policy, please contact us at: </span>
-</p><blockquote class="main1text">
-Privacy Coordinator<br> 
-Noggin LLC<br>
-1515 Broadway<br> 
-New York, NY 10036<br> 
-(212) 846-2543<br>
-<a href="mailto:noggin.privacy@noggin.com">noggin.privacy@noggin.com</a> 
-</blockquote>
-<span class="main1text">
-This policy, like the online medium itself, is subject to change.
-<br><br>
-This page was last updated on September 11, 2000.
+var banner, key_word;
+(key_word)? banner = '<SCRIPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/noggin.com;kw=' + key_word +' sz=468x60;ord=' + rdm_num + '?"><\/SCRIPT>':
+            banner = '<SCRIPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/noggin.com;sz=468x60;ord=' + rdm_num + '?"><\/SCRIPT>';
+            
+document.write(banner);
 
-				</span>
-			</td>
-			
-    <td width="35" bgcolor="#3366CC" height="200"><img src="commonimages/spacer.gif" alt="" border="0" width="35" height="200"></td>
-			<td width="2" bgcolor="#66CCFF" height="200"><img src="commonimages/spacer.gif" alt="" border="0" width="2" height="200"></td>
-			<td width="3" height="200"><img src="commonimages/spacer.gif" alt="" border="0" width="3" height="200"></td>
-		</tr>
-		<tr>
-			<td colspan="3" width="54" align="left" valign="bottom"><img src="staticimages/boxcorner_bottomleft.gif" alt="" border="0" width="54" height="21"></td>
-			<td colspan="3" width="500" align="left" valign="bottom"><img src="staticimages/boxbottom.gif" alt="" border="0" width="500" height="21"></td>
-			<td colspan="3" width="40" align="left" valign="bottom"><img src="staticimages/boxcorner_bottomright.gif" alt="" border="0" width="40" height="21"></td>
-		</tr>
-	</tbody></table>
-<br>
-<br>
+//!-->
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/noggin.com;sz=468x60;ord=55924?"></script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/noggin.com;sz=468x60;ord=1634536050?">
+<IMG SRC="http://ad.doubleclick.net/ad/noggin.com;sz=468x60;ord=1634536050?" border="0" width=468 height=60></A>
+</noscript></td>
+          </tr>
+          <tr>
+            <td colspan="4" width="690" height="4"><img src="/img/pixel.gif" width="690" height="4"></td>
+          </tr>
+          <tr>
+            <td colspan="4" width="690" height="28">
+              <table border="0" cellpadding="0" cellspacing="0" width="690">
+                <tbody><tr>
+                <td width="311">
 
+                <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="311" height="28">
+ 			<param name="movie" value="/flash/flash_ticker_v4.swf">
+			<param name="quality" value="high">
+			<param name="bgcolor" value="#00FF00">
+			<embed src="/flash/flash_ticker_v4.swf" quality="high" bgcolor="#00FF00" width="311" height="28" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+		</object>
 
+                </td>
+                <td width="4"><img src="/img/pixel.gif" width="4"></td>
+                <script language="javascript">
+                <!--
+                document.write(log_status);
+                //!-->
+                </script><td width="66"><a href="/registration/login.html"><img src="/img/button_login.gif" width="66" height="28" border="0"></a></td><td width="74"><a href="/cgi-bin/WebObjects/NogginGate.woa/wa/RegistrationActions/registration"><img src="/img/button_register.gif" width="74" height="28" border="0"></a></td>
 
-<br clear="all"><table width="643" border="0">
-<tbody><tr>
-<td align="center"><a href="http://classic.noggin.com/noggintv/preschool/" class="link1sub"><img src="/pages/staticimages/button_littlekids.gif" width="163" height="37" border="0" alt="Noggin for Little Kids"></a><br><br><a href="http://classic.noggin.com/nav/whatsnog/index.tin" class="link1sub">About</a> &nbsp; <a href="/pages/privacy.htm" class="main2median">KIDS PRIVACY POLICY</a> &nbsp; <a href="/pages/credits.htm" class="link1sub">Credits</a><br><a href="/pages/termsconditions.htm" class="link1sub">(c)1999-2000 NOGGIN L.L.C.</a><br><br><a href="/pages/info_main.htm" class="link1sub">I'm not a kid, but I have a question</a></td>
-</tr>
+                <td width="4"><img src="/img/pixel.gif" width="4"></td>
+                <td width="57"><a href="/info/parents.html"><img src="/img/button_parentinfo2.gif" width="57" height="28" border="0"></a></td>
+                <td width="4"><img src="/img/pixel.gif" width="4"></td>
+                <td width="80"><a href="/info/schedule.php"><img src="/img/button_tvschedule2.gif" width="80" height="28" border="0"></a></td>
+                <td width="4"><img src="/img/pixel.gif" width="4"></td>
+                <td width="86"><a href="/getnoggin/"><img src="/img/button_getnoggin2.gif" width="86" height="28" border="0"></a></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+        </td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#33196F" height="2"><img src="/img/pixel.gif"></td>
+  </tr>
 </tbody></table>
 
-<p>&nbsp;</p>
+
+<!-- ********** HEADER ENDS HERE *********** -->
+
+<br>
+
+
+<form>
+<table border="0" cellpadding="0" cellspacing="8">
+  <tbody><tr><td>
+
+<table border="0" cellpadding="0" cellspacing="0" width="744">
+  <tbody><tr>
+    <td width="214" height="61"><img src="img/privacy.gif" width="214" height="61" border="0"></td>
+    <td width="530" height="61" valign="top" align="right">
+
+    <table border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+    <td><img src="../img/nav_choose_blue.gif" width="98" height="31" border="0"></td>
+    <td bgcolor="#0099FF" width="6" height="31"><img src="../img/pixel.gif" width="6" height="31" border="0"></td>
+    <td bgcolor="#0099FF" width="177" height="31">
+<script language="javascript">
+<!--
+writeMenu();
+//!-->
+</script>
+    </td>
+    <td width="6" height="31"><img src="../img/nav_end_blue.gif" width="6" height="31" border="0"></td>
+    </tr>
+    </tbody></table>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="744" colspan="2" align="right">
+      <table border="0" cellpadding="0" cellspacing="0" width="726">
+        <tbody><tr>
+          <td width="726" height="9"><img src="img/credits_top.gif" width="726" height="9" border="0"></td>
+        </tr>
+        <tr>
+          <td width="726" bgcolor="#0066CC">
+
+          <table border="0" cellpadding="15" cellspacing="0">
+            <tbody><tr>
+              <td>
+	      <!-- CONTENT STARTS HERE -->
+              <div class="infoPages">
+	      <p>NOGGIN.COM is a site where preschoolers and their parents can play games, make stuff and find out more about the shows on Noggin. While we encourage the interactive nature of online media, we strive to educate preschoolers and their parents about how to appropriately safeguard their privacy when traveling on the web. We are committed to complying fully with the Children's Online Privacy Protection Act of 1998.  Our information collection practices are described below. We urge kids to check with their parent or guardian before entering any information on any website and we urge parents and guardians to discuss with their preschoolers restrictions regarding the online release of personal information to anyone they don't know. </p>
+
+
+	      <p><span class="infoHeader">What Information Is Collected</span><br>
+	      At Noggin.com, it is our policy to create website content that requires minimal collection of information from our visitors. Consequently, Noggin.com generally limits its collection of information to what is known as non-personal information (e.g. an online username and password). This information is collected when users register to participate in certain online activities (e.g. creating digital works).   Registered users may set up personalized portfolio pages to save and view digital works which they make on Noggin.com, and to do so we do not ask for unnecessary personal information, all we ask from users is their username and password.  From time to time, however, Noggin.com may request limited personal information (e.g. an e-mail address), as explained below, in order to let users send electronic materials to family and friends, conduct online contests or sweepstakes or to get a parent or guardian's permission for Noggin.com to display and use digital works preschoolers made on Noggin.com.  Noggin.com does not condition a user's participation in an activity on the preschooler's disclosure of more information than is reasonably necessary to participate in the activity.  </p>
+
+	      <menu>
+	      <li><span class="infoHeader">Sending Electronic Materials.</span>  Noggin.com may provide users the opportunity to send certain electronic materials, such as electronic postcards featuring original artwork created by Noggin.com, or digital works registered users created themselves, to friends and family via e-mail.  We may ask for first name, but do not require users to submit personally identifiable information about themselves in order to send electronic materials via email.  We do, however, ask users to submit the email address of the recipient of the electronic materials.  These e-mail addresses are used only to send the electronic materials, are retained by our server for several hours, and then deleted from our system. <br><br>
+
+	      </li><li><span class="infoHeader">Use of Digital Works Made by Kids on Noggin.com.</span> Preschoolers and their parents who have registered with a nickname and password can make digital works on Noggin.com and save and view them in their own personalized portfolio pages. Users who want to have Noggin.com display or use digital works created by them on-air and in other media may send a request to Noggin.com by providing us with the email address of the parent or guardian of the preschooler.   We email the parent or guardian to obtain their permission to display or use their preschooler's digital work on-air and in other media.  Other than within the preschooler's personalized portfolio pages on Noggin.com, which only the preschooler and their parents can view, Noggin.com will not use or display the digital works of preschoolers on-air or in other media whose parents do not respond, or who decline consent.  The parent's or guardian's email address is only used for the purpose of obtaining their permission for the right to use and display the digital works as described above and is deleted from our system sometime after the email seeking permission is sent to the parent or guardian.  <br><br>
+
+	      </li><li><span class="infoHeader">Contests and Sweepstakes.</span>  Noggin.com may offer parent's of preschoolers the opportunity to enter contests and sweepstakes. Noggin.com may ask for the parent or guardian's first name and the e-mail address of a parent or guardian.  All the information collected by Noggin.com is used only for the purpose of conducting the contest or sweepstakes.  Once the contest or sweepstakes is finished, we then delete any personal information collected.  The information collected in our contest or sweepstakes may be passed to a fulfillment house that helps run the contest or sweepstakes, who may not use such information for any other purpose and has agreed to maintain the confidentiality of any information that it receives from Noggin.com.<br><br>
+
+	      </li></menu>
+	      <p><span class="infoHeader">Use of Information</span><br>
+	      Noggin.com uses or may use personal information for contacting parents or guardians of preschoolers in connection with its website activities, such as conducting contests or sweepstakes and seeking permission from parents or guardians of preschooler's to display and use on-air and in other media the digital works made by the preschoolers and their parents or guardians on Noggin.com. Noggin.com currently does not disclose to third parties personally identifiable information that users provide except, from time to time however, we may transfer, disclose or share such information with third parties who may be engaged by us specifically to handle and deliver certain online activities (e.g. conducting contests and sweepstakes).  Such third parties have access to personal information needed to perform their functions, but may not use it for other purposes.  Additionally, in the event that all or substantially all of Noggin's stock and/or assets are transferred or sold to another entity, Noggin may transfer such information and information collected from parents or guardians to the acquiring entity.  Finally, we may also disclose personally identifiable information to third parties when required by law or is pertinent to judicial or government investigations or proceedings, or otherwise necessary to protect our website or the safety of its users.</p>
+
+	      <p><span class="infoHeader">Cookies and Log Data</span><br>
+"Cookies" are information files that your web browser places on the hard
+drive of your computer when you visit a site. Cookies cannot damage user
+files, nor can they read information from a user's hard drive. Cookies are
+used to record whether a visitor has indicated that they have certain
+plug-in software applications installed on their browser. Cookies also allow
+websites to "remember" user activities on a website as well as user's visits
+to a site. At Noggin.com cookies are used to determine the number of unique
+visitors to our website over a given period and to remember non-personally
+identifiable user-names so that the need for multiple log-ins is eliminated.
+We do not store any personal information into cookies nor do we link or
+combine information collected through cookies to any personal information
+that kids submit online when participating in our activities. You can, of
+course, disable cookies on your computer by indicating this in the
+preferences or options menus in your browser.</p>
+<p>
+The ads appearing on Noggin.com are delivered to you by a third party ad
+service provider. In the course of serving ads, the ad service provider may
+place or recognize their own unique cookie on your browser, and may use
+non-personally identifiable information about your visit to Noggin.com, such
+as the number of times that you have viewed an ad. For more information
+about the third party ad service provider and how to "opt out" of the ad
+serving cookie, please <a href="javascript:externalURL('http://www.doubleclick.com/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&amp;')"> click here.</a></p>
+
+<p>
+Log data collected on web servers both within Noggin's control and under the
+control of Noggin's third party ad service provider, who is required to
+maintain such data on a confidential basis, supplies Noggin with aggregate
+information about the number of visits to different pages on our site.
+Noggin uses such aggregate information to improve access to content based on
+visitor's browsers and operating system types to make our content available
+to as many kids as possible. We do not link the log data collected to the
+personal information that kids submit online when participating in our
+activities.
+</p>
+
+	      <p><span class="infoHeader">Security &amp; Parental Access</span><br>
+	      At Noggin, our goal is to help parents ensure that their preschoolers have a safe and fun online experience. That's why we've set up a system by which parents can print out and mail or fax us a signed form that allows them to review any personal information collected about their child and ask us to correct any factual inaccuracies, delete this information, and/or request that we refrain from further collection or use of their child's information. <a href="/info/personalinfoaccess.html" target="access_form">Click here for the form</a></p>
+
+	       <p>Noggin.com provides a "bumper page" when linking from Noggin.com to an advertiser's site, which lets preschoolers know they are going to an advertiser's site and reminds them not to give out information online without getting permission from their parent or guardian. </p>
+
+	       <p>Noggin.com provides links to other websites that may have their own information collection practices. Noggin.com provides internal "bumper pages" that inform preschoolers that they have linked to another site and instructs them not to give out information online before checking with their parents. These other websites are governed by their own privacy policies or information collection practices, which may be substantially different from ours. We encourage visitors to other websites to review the privacy policies and information collection practices of those websites. </p>
+
+	       <p><span class="infoHeader">Questions/Concerns?</span><br>
+	       If you have any questions, comments or concerns regarding Noggin's privacy policy, please contact us at:
+	       </p><blockquote>
+	       Privacy Coordinator<br>
+	       Noggin LLC<br>
+	       1633 Broadway <br>
+	       New York, NY 10019<br>
+	       (212) 846-2543<br>
+	       <a href="mailto:noggin.privacy@noggin.com">noggin.privacy@noggin.com</a>
+	       </blockquote>
+	       <br>
+	       <p>This policy, like the online medium itself, is subject to change.
+	       <br><br>
+	       The Noggin.com website is intended for domestic visitors and is, consequently, specifically directed towards residents of the United States.
+	       <br><br>
+	       This page was last updated on. April 1, 2002
+	       </p>
+	       </div>
+	      <!-- CONTENT ENDS HERE -->
+              </td>
+
+            </tr>
+
+          </tbody></table>
+
+          </td>
+        </tr>
+        <tr>
+          <td width="726" height="9"><img src="img/credits_bottom.gif" width="726" height="9" border="0"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+
+
+
+</tbody></table>
+
+</td></tr></tbody></table>
+</form>
+
+
+<br>
+
+<!-- ********** FOOTER STARTS HERE *********** -->
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><img src="/img/pixel.gif" height="1" width="110"></td>
+    <td><span class="footer"><a href="/info/about.html">ABOUT</a></span></td>
+    <td><img src="/img/pixel.gif" width="47"></td>
+    <td><span class="footer"><a href="/info/credits.html">CREDITS</a></span></td>
+    <td><img src="/img/pixel.gif" width="47"></td>
+    <td><span class="footer"><a href="/info/privacy.html">KIDS PRIVACY POLICY</a></span></td>
+    <td><img src="/img/pixel.gif" width="47"></td>
+    <td><span class="footer"><a href="/info/terms.html">© 1999-2003 NOGGIN, L.L.C.</a></span></td>
+  </tr>
+</tbody></table>
+
+
+
+
+<!-- ********** FOOTER ENDS HERE *********** -->
 
 
 
