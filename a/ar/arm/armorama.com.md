@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the armorama.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611221945id_/http%3A//www.armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorama.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217115534id_/http%3A//www.armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.*
 
 # Armorama.com :: For Military Scale Modelers
 
-|  |  |   
----|---|---  
+  
+|  |   
+---  
   
   
   
-[](http://tms.crozetvirginia.com/in.php?site=1015090920) |  | 
-
-  
-  
-What is Your Privacy Statement?Category: [Main](https://web.archive.org/web/20020611221945id_/http%3A//www.armorama.com/modules.php?op=modload&name=FAQ&file=index) >> What is Your Privacy Statement?   
+What is Your Privacy Statement?Category: [Main](https://web.archive.org/web/20021217115534id_/http%3A//www.armorama.com/modules.php?op=modload&name=FAQ&file=index) >> What is Your Privacy Statement?   
 | Answer  
 ---  
  **·**   What about my privacy?
@@ -59,15 +56,4 @@ Top
   
   
   
-  
-
-
-[](https://web.archive.org/web/20020611221945id_/http%3A//www.armorama.com/phpAdsNew/adclick.php?n=ban1)  
-  
----  
-  
-Armorama.com is an interactive community for scale model enthusiasts interested in armor, aircraft, figures, and ships. This site does not glorify war or the military forces of any one nation. We recommend using at least **Internet Explorer 5.0** or **Netscape 6.1** for viewing this site. 
-
-Copyright ©2002 Armorama.com and [Wandering Knights LLC](http://wanderingknights.com/). All Rights Reserved. Read our [privacy statement](https://web.archive.org/web/20020611221945id_/http%3A//www.armorama.com/modules.php?op=modload&name=FAQ&file=index&myfaq=yes&id_cat=3&categories=What+is+Your+Privacy+Statement%3F&parent_id=0). [Advertise on Armorama](https://web.archive.org/web/20020611221945id_/http%3A//www.armorama.com/modules.php?op=modload&name=Contact&file=index).
-
-[](http://www.webtrendslive.com/wtl_marcom/redirect.asp?siteID=138653)
+ 
