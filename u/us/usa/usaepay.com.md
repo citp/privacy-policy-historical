@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaepay.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612120917id_/https%3A//www.usaepay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaepay.com privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806063042id_/https%3A//www.usaepay.com/privacy.htm) for the most accurate reproduction.*
 
 # USA ePay : Privacy Policy
 
