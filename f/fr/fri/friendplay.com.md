@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendplay.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619212728id_/http%3A//friendplay.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendplay.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204110053id_/http%3A//friendplay.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Friendplay.com
 
