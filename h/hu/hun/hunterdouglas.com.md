@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunterdouglas.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622074713id_/http%3A//hunterdouglas.com/about/hd_about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunterdouglas.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205013033id_/http%3A//hunterdouglas.com/about/hd_about_privacy.html) for the most accurate reproduction.*
 
 # Hunter Douglas - Privacy Policy
 
@@ -46,7 +46,7 @@ General Counsel
 1-201-327-8200 (Phone) 1-201-327-5749 (Fax)   
   
   
-[Home](https://web.archive.org/web/20030622074713id_/http%3A//hunterdouglas.com/index.html) > About Hunter Douglas > Privacy Policy   
+[Home](https://web.archive.org/web/20031205013033id_/http%3A//hunterdouglas.com/index.html) > About Hunter Douglas > Privacy Policy   
   
-©2003 Hunter Douglas. All rights reserved. See [Privacy Policy.](https://web.archive.org/web/20030622074713id_/http%3A//hunterdouglas.com/about/hd_about_privacy.html) See [Copyright Information.](https://web.archive.org/web/20030622074713id_/http%3A//hunterdouglas.com/about/hd_about_copyright.html)  
+©2003 Hunter Douglas. All rights reserved. See [Privacy Policy.](https://web.archive.org/web/20031205013033id_/http%3A//hunterdouglas.com/about/hd_about_privacy.html) See [Copyright Information.](https://web.archive.org/web/20031205013033id_/http%3A//hunterdouglas.com/about/hd_about_copyright.html)  
 ©2003 Styleclick Inc. All rights reserved.
