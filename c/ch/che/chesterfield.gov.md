@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409214211id_/http%3A//www.chesterfield.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesterfield.gov privacy policy that was archived on 2001-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011015095437id_/http%3A//chesterfield.gov/privacy.asp) for the most accurate reproduction.*
 
-# Chesterfield Connections | Chesterfield County, Virginia
+# Chesterfield County, Virginia | Privacy Policy
 
 |  | 
 
