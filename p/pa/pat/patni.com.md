@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patni.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618180357id_/http%3A//www.patni.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patni.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723120736id_/http%3A//www.patni.com/privacy.htm) for the most accurate reproduction.*
 
 # Patni - Site Map
 
