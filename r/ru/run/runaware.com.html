@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the runaware.com privacy policy that was archived on 2001-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010607093743id_/http%3A//www.runaware.com/service%3Drunaware/owner%3Dsys/action%3Dshow_page%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the runaware.com privacy policy that was archived on 2001-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211201233id_/http%3A//runaware.com/action%3Dshow_page%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
-<base href="http://www.runaware.com/service=runaware/owner=sys/action=show_page?page=privacy">
+
 <title>Runaware - Privacy</title>
 <meta name="title" content=" The world’s first true, on-line software evaluation site. We take the guesswork out of purchasing software by offering you the opportunity to test and compare software applications BEFORE making a purchase decision by providing access to full-featured software demonstrations over the Internet. Information">
 <meta name="description" content=" Runaware offers free unlimited software testing in your browser with no downloads.  Runaware also has all the information, reviews and guidelines for you to find, test, demo, use and compare software.  We also offer Linux and Windows software applications.  Our goal is to allow you to try out top software products from Macromedia, Corel, ACT!, Intuit, Quicken, Quickbooks, Borland, and many others.">
@@ -14,6 +14,13 @@
 <meta http-equiv="reply-to" content="webmaster@runaware.com">
 
 <script language="JavaScript">
+
+function scrollon() {
+        document.body.scroll = 'yes';
+}
+function scrolloff() {
+        document.body.scroll = 'no';
+}
 
 function BrowserDetector(ua) {
 
@@ -38,8 +45,6 @@ var ns6 = (bd.browser == "Netscape" && bd.majorver > 4)?true:false;
 var ie5 = (bd.browser == "IE" && bd.majorver > 4)?true:false;
 var opera = (navigator.userAgent.indexOf("Opera") != -1)?true:false;
 
-
-
 if(ns){
 	if(bd.platform =='Win')
 		document.write('<link rel=\"stylesheet\" href=\"/runaware2/ns_pc.css\">');
@@ -51,6 +56,7 @@ if(ns){
 } else {
 document.write('<link rel=\"stylesheet\" href=\"/runaware2/standard.css\">');
 }
+
 
 function rCookie(name) { // Include
 	name = name+'runaware';
@@ -74,7 +80,7 @@ function rCookie(name) { // Include
 
 function setCookieT (name,value) { // Include
 	name = name+'runaware';
-	document.cookie = name + '=' + escape(value) + '; path=/';
+	document.cookie = name + '=' + escape(value) + '; path=/' + '; domain=.runaware.com';
 }  
 
 if(!rCookie('ref')) {
@@ -85,6 +91,7 @@ if(!rCookie('ref')) {
     setCookieT('ref', 'foo');
 }
 </script><link rel="stylesheet" href="/runaware2/standard.css">
+
 <script src="/runaware2/js_tabs_lib.js" language="JavaScript1.1"></script>
 <script language="JavaScript">
 
@@ -227,8 +234,8 @@ function fillOSTabs()
 	addTab(10,'Windows','ostabs_0',false,'ostabs_mid1_0',false,false,'/runaware2/graphics/ostabs_inactive_to_inactive.gif','/runaware2/graphics/ostabs_active_to_inactive.gif','OStabs',false,'/runaware2/graphics/ostabs_0_off.gif','/runaware2/graphics/ostabs_0_on.gif');
 	addTab(11,'Linux','ostabs_1','ostabs_mid1_0',false,'/runaware2/graphics/ostabs_inactive_to_inactive.gif','/runaware2/graphics/ostabs_inactive_to_active.gif',false,false,'OStabs',false,'/runaware2/graphics/ostabs_1_off.gif','/runaware2/graphics/ostabs_1_on.gif');
 
-addCategory('Windows',341,'Business', 0);addCategory('Windows',382,'CAD', 381);addCategory('Windows',383,'Clip Art & Fonts', 381);addCategory('Windows',353,'Database', 341);addCategory('Windows',384,'Design & Illustration', 381);addCategory('Windows',386,'Desktop publishing', 381);addCategory('Windows',425,'Family trees', 421);addCategory('Windows',343,'Finance & Accounting', 341);addCategory('Windows',344,'Forms and Labels', 341);addCategory('Windows',381,'Graphics', 0);addCategory('Windows',421,'Hobbies', 0);addCategory('Windows',366,'Language', 361);addCategory('Windows',346,'Office suites', 341);addCategory('Windows',321,'Other', 0);addCategory('Windows',347,'PIMs & Contact Mgrs', 341);addCategory('Windows',345,'Payroll & HR', 341);addCategory('Windows',385,'Photo editing', 381);addCategory('Windows',348,'Presentations', 341);addCategory('Windows',349,'Project & Time management', 341);addCategory('Windows',361,'Reference', 0);addCategory('Windows',401,'Utilities', 0);addCategory('Windows',387,'Web development', 381);addCategory('Windows',352,'Word Processing', 341);
-addCategory('Linux',341,'Business', 0);addCategory('Linux',384,'Design & Illustration', 381);addCategory('Linux',386,'Desktop publishing', 381);addCategory('Linux',381,'Graphics', 0);addCategory('Linux',346,'Office suites', 341);addCategory('Linux',321,'Other', 0);
+addCategory('Windows',341,'Business', 0);addCategory('Windows',382,'CAD', 381);addCategory('Windows',383,'Clip Art & Fonts', 381);addCategory('Windows',384,'Design & Illustration', 381);addCategory('Windows',386,'Desktop publishing', 381);addCategory('Windows',343,'Finance & Accounting', 341);addCategory('Windows',344,'Forms and Labels', 341);addCategory('Windows',425,'Genealogy', 421);addCategory('Windows',381,'Graphics', 0);addCategory('Windows',421,'Hobbies', 0);addCategory('Windows',346,'Office suites', 341);addCategory('Windows',321,'Other', 0);addCategory('Windows',347,'PIMs & Contact Mgrs', 341);addCategory('Windows',345,'Payroll & HR', 341);addCategory('Windows',385,'Photo editing', 381);addCategory('Windows',482,'Process Management', 341);addCategory('Windows',401,'Utilities', 0);addCategory('Windows',387,'Web development', 381);
+addCategory('Linux',341,'Business', 0);addCategory('Linux',384,'Design & Illustration', 381);addCategory('Linux',381,'Graphics', 0);addCategory('Linux',346,'Office suites', 341);
 }
 fillOSTabs();
 function fillmostPopTabs() {
@@ -301,13 +308,13 @@ function init() {
     <td rowspan="5" width="10" valign="top"><img height="70" src="/runaware2/graphics/header_edge_right.gif" width="10"></td>
   </tr>
   <tr> 
-    <td width="730" bgcolor="#edece9" height="32"><a href="/action=frontpage"><img height="16" border="0" src="/runaware2/graphics/logotype_header.gif" width="124"></a><img height="8" src="/runaware2/graphics/spacer.gif" width="15"><img height="18" src="/runaware2/graphics/payoff_header.gif" width="211"></td>
+    <td width="730" bgcolor="#edece9" height="32"><a href="/action=frontpage"><img height="16" border="0" src="/runaware2/graphics/logotype_header.gif" width="124"></a><img height="8" src="/runaware2/graphics/spacer.gif" width="15"><img height="18" src="/runaware2/graphics/payoff_header.gif" width="211"><img height="8" src="/runaware2/graphics/spacer.gif" width="260"><img height="25" src="/runaware2/graphics/citrix_header.gif" width="119"></td>
   </tr>
   <tr> 
     <td width="730" height="4"><img height="4" src="/runaware2/graphics/header_menushadow.gif" width="730"></td>
   </tr>
   <tr> 
-    <td width="730" bgcolor="#4a8db6" height="21" valign="top"><table width="730" height="21" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="21" valign="top"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"><br><a href="/action=frontpage" onmouseover="swapImg(1,'mainmenu_home','0')" onmouseout="swapImg(0,'mainmenu_home','0')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_home_off.gif" border="0" width="50" name="mainmenu_home"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=show_page?page=about" onmouseover="swapImg(1,'mainmenu_about','0')" onmouseout="swapImg(0,'mainmenu_about','0')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_about_off.gif" width="85" border="0" name="mainmenu_about"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=show_page?page=faq" onmouseover="swapImg(1,'mainmenu_faq','0')" onmouseout="swapImg(0,'mainmenu_faq','0')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_faq_off.gif" width="45" border="0" name="mainmenu_faq"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=show_page?page=link2us" onmouseover="swapImg(1,'mainmenu_linktous','0')" onmouseout="swapImg(0,'mainmenu_linktous','0')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_linktous_off.gif" width="66" border="0" name="mainmenu_linktous"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="javascript:openWindow('/runaware2/flash/main.html','flashdemo',520,520);" onmouseover="swapImg(1,'mainmenu_sitetour','0')" onmouseout="swapImg(0,'mainmenu_sitetour','0')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_sitetour_off.gif" width="64" border="0" name="mainmenu_sitetour"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=pav_codie" onmouseover="swapImg(1,'mainmenu_codie','0')" onmouseout="swapImg(0,'mainmenu_codie','0')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_codie_off.gif" width="76" border="0" name="mainmenu_codie"></a></td><td align="right" height="21" valign="top"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"><br><a href="http://business.runaware.com" target="_blank" onmouseover="swapImg(1,'mainmenu_addsoft','0')" onmouseout="swapImg(0,'mainmenu_addsoft','0')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_addsoft_off.gif" width="102" border="0" name="mainmenu_addsoft"></a></td></tr></tbody></table></td>
+    <td width="730" bgcolor="#4a8db6" height="21" valign="top"><table width="730" height="21" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="21" valign="top"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"><br><a href="/action=frontpage" onmouseover="swapImg(1,'mainmenu_home','0'); showContextPopUp('visible','Frontpage')" onmouseout="swapImg(0,'mainmenu_home','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_home_off.gif" border="0" width="50" name="mainmenu_home"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=show_page?page=about" onmouseover="swapImg(1,'mainmenu_about','0'); showContextPopUp('visible','Information about Runaware')" onmouseout="swapImg(0,'mainmenu_about','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_about_off.gif" width="85" border="0" name="mainmenu_about"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=show_page?page=faq" onmouseover="swapImg(1,'mainmenu_faq','0'); showContextPopUp('visible','Common questions about Runaware')" onmouseout="swapImg(0,'mainmenu_faq','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_faq_off.gif" width="45" border="0" name="mainmenu_faq"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=show_page?page=link2us" onmouseover="swapImg(1,'mainmenu_linktous','0'); showContextPopUp('visible','Promote Runaware!')" onmouseout="swapImg(0,'mainmenu_linktous','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_linktous_off.gif" width="66" border="0" name="mainmenu_linktous"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="javascript:openWindow('/runaware2/flash/main.html','flashdemo',520,520);" onmouseover="swapImg(1,'mainmenu_sitetour','0'); showContextPopUp('visible','Take a tour of the site and learn about Runaware!')" onmouseout="swapImg(0,'mainmenu_sitetour','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_sitetour_off.gif" width="64" border="0" name="mainmenu_sitetour"></a><img height="10" src="/runaware2/graphics/spacer.gif" width="10"><a href="/action=pav_codie" onmouseover="swapImg(1,'mainmenu_codie','0')" onmouseout="swapImg(0,'mainmenu_codie','0')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_codie_off.gif" width="76" border="0" name="mainmenu_codie"></a></td><td align="right" height="21" valign="top"><img height="1" src="/runaware2/graphics/spacer.gif" width="1"><br><a href="http://business.runaware.com" target="_blank" onmouseover="swapImg(1,'mainmenu_addsoft','0'); showContextPopUp('visible','Want to add your software? CLICK HERE')" onmouseout="swapImg(0,'mainmenu_addsoft','0'); showContextPopUp('hidden')" onfocus="this.blur()"><img height="17" src="/runaware2/graphics/mainmenu_addsoft_off.gif" width="102" border="0" name="mainmenu_addsoft"></a></td></tr></tbody></table></td>
   </tr>
   <tr>
     <td width="730" height="1" bgcolor="#4a8db6"><img height="1" src="/runaware2/graphics/blackdot.gif" width="730"></td>
@@ -512,40 +519,66 @@ All information you submit to Runaware is protected with the highest security av
     <td width="10"><img src="/runaware2/graphics/spacer.gif" width="10" height="10"></td>
     <td width="220" valign="top"><img src="/runaware2/graphics/spacer.gif" width="10" height="5"><br>
 		<!-- My-mini-runaware area  -->    
-		<table width="220" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
+		<table width="220" border="0" cellspacing="0" cellpadding="0" name="Mini-MyRunaware">
+        <tbody><tr> 
+          <td width="6" height="6" colspan="2"><img height="6" src="/runaware2/graphics/window_lightgrey_corner_topleft.gif" width="6"></td>
+          <td width="208" height="6" valign="top" bgcolor="#edece9" colspan="2"><img height="1" src="/runaware2/graphics/darkgreydot.gif" width="208"></td>
+          <td width="6" height="6" colspan="2"><img height="6" src="/runaware2/graphics/window_lightgrey_corner_topright.gif" width="6"></td>
+        </tr>
+
+	<tr height="1">
+		<td bgcolor="#666666" width="1" rowspan="3"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>
+		<td bgcolor="#edece9" width="5" rowspan="3"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>
+		<td colspan="2" bgcolor="#edece9"><span class="BoldHeadline">FREE Member Services</span></td>
+		<td bgcolor="#edece9" width="5" rowspan="3"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>
+		<td bgcolor="#666666" width="1" rowspan="3"><img height="5" src="/runaware2/graphics/spacer.gif" width="1"></td>
+	</tr>
+	<tr> 
+		<td width="100" bgcolor="#edece9" valign="top">
+				<span class="SmallText">
+				<img height="5" src="/runaware2/graphics/spacer.gif" width="10"><br>
+				<img border="0" height="7" src="/runaware2/graphics/arrow_orange_small.gif" width="4">&nbsp;<a class="OrangeLink" href="action=register_form"><span class="OrangeText">Join now!</span></a><br>
+				<img height="5" src="/runaware2/graphics/spacer.gif" width="10"><br>
+				<img border="0" height="7" src="/runaware2/graphics/arrow_grey_small.gif" width="4">&nbsp;<a href="action=show_page?page=benefits">Member benefits</a><br>
+				<img height="5" src="/runaware2/graphics/spacer.gif" width="10"><br>
+				<img border="0" height="7" src="/runaware2/graphics/arrow_grey_small.gif" width="4">&nbsp;<a href="action=show_page?page=privacy">Your privacy</a><br>
+				<img height="5" src="/runaware2/graphics/spacer.gif" width="10"><br>
+				<img border="0" height="7" src="/runaware2/graphics/arrow_grey_small.gif" width="4">&nbsp;<a href="action=show_page?page=passprob">Password problems?</a>
+			</span>
+		</td>
 		<form name="formlogin" action="action=login_submit" method="post" onsubmit="return doLogin(this)"></form> 
-			<td valign="top"><span class="SmallText">
-				<img src="/runaware2/graphics/spacer.gif" width="10" height="5"><br>
-				<img height="7" src="/runaware2/graphics/arrow_orange_small.gif" width="4" border="0">&nbsp;<a href="action=register_form" class="OrangeLink"><span class="OrangeText">Join now!</span></a><br>
-				<img src="/runaware2/graphics/spacer.gif" width="10" height="5"><br>
-				<img height="7" src="/runaware2/graphics/arrow_grey_small.gif" width="4" border="0">&nbsp;<a href="action=show_page?page=benefits">Member benefits</a><br>
-				<img src="/runaware2/graphics/spacer.gif" width="10" height="5"><br>
-				<img height="7" src="/runaware2/graphics/arrow_grey_small.gif" width="4" border="0">&nbsp;<a href="action=show_page?page=privacy">Your privacy</a><br>
-				<img src="/runaware2/graphics/spacer.gif" width="10" height="5"><br>
-				<img height="7" src="/runaware2/graphics/arrow_grey_small.gif" width="4" border="0">&nbsp;<a href="action=show_page?page=passprob">Password problems?</a>
-			</span></td>
-			<td align="right" width="100"><span class="SmallText">
+		<td bgcolor="#edece9" width="100" align="right">
+				<span class="SmallText">
 				<img height="1" src="/runaware2/graphics/spacer.gif" width="100"><br>
-				Member login<br>
-				<input name="c_login" type="text" size="12">
-				<input type="hidden" name="error_page" value="show_page&amp;page=passprob">
-				<input type="hidden" name="org_ref" value="">
-				<input type="hidden" name="ref" value="">
-				<br>
+				e-Mail Address<br>
+				<input name="c_login" size="12"><br>
+			
+				<input type="hidden" name="error_page" value="show_page&amp;page=passprob" width="12" style="HEIGHT: 22px; WIDTH: 97px">
+				<input type="hidden" name="org_ref" value="" width="12" style="HEIGHT: 22px; WIDTH: 95px">
+				<input type="hidden" name="ref" value="" width="12" style="HEIGHT: 22px; WIDTH: 95px">
+			
 				Password<br>
 				<input name="c_password" type="password" size="12">
 				<br>
 				<img height="5" src="/runaware2/graphics/spacer.gif" width="1">
-			</span></td>
+			</span>
+		</td>
 	</tr>
-	<tr align="right"> 
-			<td colspan="2"><span class="SmallText">
+		<tr align="right"> 
+			<td bgcolor="#edece9" colspan="2"><span class="SmallText">
 				Remember me 
-				<input type="checkbox" name="c_remember" value="yes" checked="">
+				<input class="GreyBackground" type="checkbox" name="c_remember" value="yes" checked="">
 				<input type="image" src="/runaware2/graphics/button_frontlogin_off.gif" align="absBottom" border="0" name="button_frontlogin" onmouseover="return ShowStatus('Login')">
 				</span></td>
-		
+	</tr>
+</tbody></table>
+
+
+<table width="220" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	    <td valign="bottom" width="6" height="6"><img height="6" src="/runaware2/graphics/window_lightgrey_corner_bottomleft.gif" width="6"></td>
+	    <td valign="bottom" width="208" bgcolor="#edece9" height="6"><img height="1" src="/runaware2/graphics/darkgreydot.gif" width="208"></td>
+	    <td valign="bottom" width="6" height="6"><img height="6" src="/runaware2/graphics/window_lightgrey_corner_bottomright.gif" width="6"></td>
 	</tr>
 </tbody></table>
 		<img src="/runaware2/graphics/spacer.gif" width="10" height="10"><br>
@@ -656,6 +689,7 @@ All information you submit to Runaware is protected with the highest security av
 <td width="628"><img src="/runaware2/graphics/spacer.gif" width="628" height="1"></td>
 <td width="122"><img src="/runaware2/graphics/spacer.gif" width="122" height="1"></td>
 </tr></tbody></table>
+<div id="contextLayer"></div>
 
 
 
