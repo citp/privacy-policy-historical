@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208171155id_/http%3A//www.afp.gov.au/page.asp%3Fref%3D/Site/Privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2003-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030619023430id_/http%3A//www.afp.gov.au/page.asp%3Fref%3D/Site/Privacy.xml) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,7 +23,7 @@ Session level cookies are used in forms based transactions where needed to corre
 
 ##  email Addresses 
 
-The Australian Federal Police will only record your email address if you send us a message. The address will be used only for the purpose for which you have provided it, and will not be disclosed without your consent. You are reminded that email sent over the Internet is not secure. For further information on the Internet and security, you should read the [Disclaimer. ](https://web.archive.org/web/20021208171155id_/http%3A//www.afp.gov.au/page.asp%3Fref%3D/Site/page.asp?ref=/Site/Disclaimer.xml)
+The Australian Federal Police will only record your email address if you send us a message. The address will be used only for the purpose for which you have provided it, and will not be disclosed without your consent. You are reminded that email sent over the Internet is not secure. For further information on the Internet and security, you should read the [Disclaimer. ](https://web.archive.org/web/20030619023430id_/http%3A//www.afp.gov.au/page.asp%3Fref%3D/Site/page.asp?ref=/Site/Disclaimer.xml)
 
 ## Further enquiries 
 
