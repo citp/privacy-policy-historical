@@ -1,0 +1,454 @@
+<!--The following is the downloaded HTML source of the pigsback.com privacy policy that was archived on 2000-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001211231100id_/http%3A//pigsback.com/members/privacy_first.asp) for the most accurate reproduction.-->
+
+<html><head>
+<link rel="stylesheet" href="../include/pigsback.css" type="Text/css">
+<title>P i g s b a c k.com - Privacy Policy</title>
+<meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
+<script language="JavaScript">
+<!--
+
+//This function is called from the page's onLoad event (defined in the body tag).
+//It creates a new image object in the document and sets its source to be the
+//value of the argument passed to the function - ie an image file.
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+//This function is called from the onMouseOver and onMouseOut events
+//to give rollover functionality to the menu bar elements in the banners.
+//A list of arguments consisting of pairs of image tag names and image file
+//names is accepted and processed by this function.
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+//-->
+</script><script language="JavaScript">
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script><script language="JavaScript">
+//function to check if browser version is IE5 (need to know this to use print method if IE5)
+// taken by Bryan McEleney from a JS website.
+	function isIE5() 
+	{
+	// Ultimate client-side JavaScript client sniff. 
+	// (C) Netscape Communications 1999.  Permission granted to reuse and distribute. 
+	// Revised 17 May 99 to add is_nav5up and is_ie5up (see below). 
+	// Everything you always wanted to know about your JavaScript client 
+	// but were afraid to ask. Creates "is_" variables indicating: 
+	// (1) browser vendor: 
+	//     is_nav, is_ie, is_opera 
+	// (2) browser version number: 
+	//     is_major (integer indicating major version number: 2, 3, 4 ...) 
+	//     is_minor (float   indicating full  version number: 2.02, 3.01, 4.04 ...) 
+	// (3) browser vendor AND major version number 
+	//     is_nav2, is_nav3, is_nav4, is_nav4up, is_nav5, is_nav5up, is_ie3, is_ie4, is_ie4up 
+	// (4) JavaScript version number: 
+	//     is_js (float indicating full JavaScript version number: 1, 1.1, 1.2 ...) 
+	// (5) OS platform and version: 
+	//     is_win, is_win16, is_win32, is_win31, is_win95, is_winnt, is_win98 
+	//     is_os2 
+	//     is_mac, is_mac68k, is_macppc 
+	//     is_unix 
+	//        is_sun, is_sun4, is_sun5, is_suni86 
+	//        is_irix, is_irix5, is_irix6 
+	//        is_hpux, is_hpux9, is_hpux10 
+	//        is_aix, is_aix1, is_aix2, is_aix3, is_aix4 
+	//        is_linux, is_sco, is_unixware, is_mpras, is_reliant 
+	//        is_dec, is_sinix, is_freebsd, is_bsd 
+	//     is_vms 
+	// 
+	// See http://www.it97.de/JavaScript/JS_tutorial/bstat/navobj.html and 
+	// http://www.it97.de/JavaScript/JS_tutorial/bstat/Browseraol.html 
+	// for detailed lists of userAgent strings. 
+	// 
+	// Note: you don't want your Nav4 or IE4 code to "turn off" or 
+	// stop working when Nav5 and IE5 (or later) are released, so 
+	// in conditional code forks, use is_nav4up ("Nav4 or greater") 
+	// and is_ie4up ("IE4 or greater") instead of is_nav4 or is_ie4 
+	// to check version in code which you want to work on future 
+	// versions.
+
+	    // convert all characters to lowercase to simplify testing 
+	    var agt=navigator.userAgent.toLowerCase();
+
+	    // *** BROWSER VERSION *** 
+	    // Note: On IE5, these return 4, so use is_ie5up to detect IE5. 
+	    var is_major = parseInt(navigator.appVersion); 
+	    var is_minor = parseFloat(navigator.appVersion);
+
+	    // Note: Opera and WebTV spoof Navigator.  We do strict client detection. 
+	    // If you want to allow spoofing, take out the tests for opera and webtv. 
+	    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) 
+	                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1) 
+	                && (agt.indexOf('webtv')==-1)); 
+	    var is_nav2 = (is_nav && (is_major == 2)); 
+	    var is_nav3 = (is_nav && (is_major == 3)); 
+	    var is_nav4 = (is_nav && (is_major == 4)); 
+	    var is_nav4up = (is_nav && (is_major >= 4)); 
+	    var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) || 
+	                          (agt.indexOf("; nav") != -1)) ); 
+	    var is_nav5 = (is_nav && (is_major == 5)); 
+	    var is_nav5up = (is_nav && (is_major >= 5));
+
+	    var is_ie   = (agt.indexOf("msie") != -1); 
+	    var is_ie3  = (is_ie && (is_major < 4)); 
+	    var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) ); 
+	    var is_ie4up  = (is_ie  && (is_major >= 4)); 
+	    var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) ); 
+	    var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4);
+
+	    // KNOWN BUG: On AOL4, returns false if IE3 is embedded browser 
+	    // or if this is the first browser window opened.  Thus the 
+	    // variables is_aol, is_aol3, and is_aol4 aren't 100% reliable. 
+	    var is_aol   = (agt.indexOf("aol") != -1); 
+	    var is_aol3  = (is_aol && is_ie3); 
+	    var is_aol4  = (is_aol && is_ie4);
+
+	    var is_opera = (agt.indexOf("opera") != -1); 
+	    var is_webtv = (agt.indexOf("webtv") != -1);
+
+	    // *** JAVASCRIPT VERSION CHECK *** 
+	    // Useful to workaround Nav3 bug in which Nav3 
+
+	    var is_js; 
+	    if (is_nav2 || is_ie3) is_js = 1.0 
+	    else if (is_nav3 || is_opera) is_js = 1.1 
+	    else if ((is_nav4 && (is_minor <= 4.05)) || is_ie4) is_js = 1.2 
+	    else if ((is_nav4 && (is_minor > 4.05)) || is_ie5) is_js = 1.3 
+	    else if (is_nav5) is_js = 1.4 
+	    // NOTE: In the future, update this code when newer versions of JS 
+	    // are released. For now, we try to provide some upward compatibility 
+	    // so that future versions of Nav and IE will show they are at 
+	    // *least* JS 1.x capable. Always check for JS version compatibility 
+	    // with > or >=. 
+	    else if (is_nav && (is_major > 5)) is_js = 1.4 
+	    else if (is_ie && (is_major > 5)) is_js = 1.3 
+	    // HACK: no idea for other browsers; always check for JS version with > or >= 
+	    else is_js = 0.0; 
+
+		return is_ie5;
+	}
+
+
+</script><script language="javascript">function BodyOnLoad() {}</script><script language="JavaScript">
+<!--
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		mtn_left_row2_ntn_home_over = newImage("images/mem_banner/mtn_left_row2-ntn_home_over.gif");
+		ntn_home_over = newImage("images/mem_banner/ntn_home-over.gif");
+		ntn_join_over = newImage("images/mem_banner/ntn_join-over.gif");
+		ntn_about_over = newImage("images/mem_banner/ntn_about-over.gif");
+		ntn_about_ntn_join_over = newImage("images/mem_banner/ntn_about-ntn_join_over.gif");
+		mtn_how_mtn_tour_over = newImage("images/mem_banner/mtn_how-mtn_tour_over.gif");
+		mtn_how_over = newImage("images/mem_banner/mtn_how-over.gif");
+		mtn_contact_over = newImage("images/mem_banner/mtn_contact-over.gif");
+		mtn_left_row3_mtn_tour_over = newImage("images/mem_banner/mtn_left_row3-mtn_tour_over.gif");
+		mtn_left_row3_mtn_how_over = newImage("images/mem_banner/mtn_left_row3-mtn_how_over.gif");
+		mtn_tour_over = newImage("images/mem_banner/mtn_tour-over.gif");
+		mtn_tour_mtn_how_over = newImage("images/mem_banner/mtn_tour-mtn_how_over.gif");
+		mtn_tour_ntn_about_over = newImage("images/mem_banner/mtn_tour-ntn_about_over.gif");
+		mtn_faq_mtn_how_over = newImage("images/mem_banner/mtn_faq-mtn_how_over.gif");
+		mtn_faq_over = newImage("images/mem_banner/mtn_faq-over.gif");
+		mtn_faq_ntn_about_over = newImage("images/mem_banner/mtn_faq-ntn_about_over.gif");
+		mtn_user_mtn_how_over = newImage("images/mem_banner/mtn_user-mtn_how_over.gif");
+		mtn_user_ntn_about_over = newImage("images/mem_banner/mtn_user-ntn_about_over.gif");
+		mtn_user_over = newImage("images/mem_banner/mtn_user-over.gif");
+		mtn_piggypoints_mtn_how_over = newImage("images/mem_banner/mtn_piggypoints-mtn_how_ove.gif");
+		mtn_piggypoints_ntn_about_over = newImage("images/mem_banner/mtn_piggypoints-ntn_about_o.gif");
+		mtn_piggypoints_over = newImage("images/mem_banner/mtn_piggypoints-over.gif");
+		mtn_left_row4_mtn_how_over = newImage("images/mem_banner/mtn_left_row4-mtn_how_over.gif");
+		mtn_left_row4_mtn_whats_init_over = newImage("images/mem_banner/mtn_left_row4-mtn_whats_ini.gif");
+		mtn_whats_init_mtn_how_over = newImage("images/mem_banner/mtn_whats_init-mtn_how_over.gif");
+		mtn_whats_init_over = newImage("images/mem_banner/mtn_whats_init-over.gif");
+		mtn_privacy_mtn_how_over = newImage("images/mem_banner/mtn_privacy-mtn_how_over.gif");
+		mtn_privacy_mtn_terms_over = newImage("images/mem_banner/mtn_privacy-mtn_terms_over.gif");
+		mtn_privacy_over = newImage("images/mem_banner/mtn_privacy-over.gif");
+		mtn_terms_mtn_how_over = newImage("images/mem_banner/mtn_terms-mtn_how_over.gif");
+		mtn_terms_over = newImage("images/mem_banner/mtn_terms-over.gif");
+		preloadFlag = true;
+	}
+}
+
+// -->
+</script></head>
+
+
+
+
+
+<!-- JS functions for rollovers on left pane links-->	
+
+
+
+
+
+
+
+
+
+
+
+<body bgcolor="#FFFFFF" onload="preloadImages();BodyOnLoad();" topmargin="0" leftmargin="0" marginheight="0">
+
+
+        <div align="center">
+        <table width="620" border="0" cellspacing="0" cellpadding="0" bgcolor="#CC0099">
+		<tbody><tr>
+			<td><img src="images/mem_banner/spacer.gif" width="170" height="1"></td>
+			<td><img src="images/mem_banner/spacer.gif" width="141" height="1"></td>
+			<td><img src="images/mem_banner/spacer.gif" width="44" height="1"></td>
+			<td><img src="images/mem_banner/spacer.gif" width="24" height="1"></td>
+			<td><img src="images/mem_banner/spacer.gif" width="21" height="1"></td>
+			<td><img src="images/mem_banner/spacer.gif" width="49" height="1"></td>
+			<td><img src="images/mem_banner/spacer.gif" width="28" height="1"></td>
+			<td><img src="images/mem_banner/spacer.gif" width="17" height="1"></td>
+			<td><img src="images/mem_banner/spacer.gif" width="46" height="1"></td>
+			<td><img src="images/mem_banner/spacer.gif" width="80" height="1"></td>
+		</tr>
+		<tr>
+			<td><img name="mtn_logo" src="images/mem_banner/mtn_logo.gif" width="170" height="50"></td>
+			<td colspan="9"><img src="images/mem_banner/ntn_top_right.gif" width="450" height="50"></td>
+		</tr>
+		
+		<tr>
+		<td>
+		<img name="mtn_left_row2" src="images/mem_banner/mtn_left_row2.gif" width="170" height="20"></td>
+		
+		<td><a href="memSiteHome.asp" onmouseover="changeImages('mtn_left_row2', 'images/mem_banner/mtn_left_row2-ntn_home_over.gif', 'ntn_home', 'images/mem_banner/ntn_home-over.gif'); return true;" onmouseout="changeImages('mtn_left_row2', 'images/mem_banner/mtn_left_row2.gif', 'ntn_home', 'images/mem_banner/ntn_home.gif'); return true;"><img name="ntn_home" src="images/mem_banner/ntn_home.gif" width="141" height="20" border="0" alt="home"></a></td>
+ 
+			<td colspan="2"><a href="memRegister.asp" onmouseover="changeImages('ntn_join', 'images/mem_banner/ntn_join-over.gif', 'ntn_about', 'images/mem_banner/ntn_about-ntn_join_over.gif'); return true;" onmouseout="changeImages('ntn_join', 'images/mem_banner/ntn_join.gif', 'ntn_about', 'images/mem_banner/ntn_about.gif'); return true;"><img name="ntn_join" src="images/mem_banner/ntn_join.gif" width="68" height="20" border="0" alt="join now"></a></td>
+			
+             <td colspan="2"><a href="about_first.asp" onmouseover="changeImages('ntn_about', 'images/mem_banner/ntn_about-over.gif'); return true;" onmouseout="changeImages('ntn_about', 'images/mem_banner/ntn_about.gif'); return true;"><img name="ntn_about" src="images/mem_banner/ntn_about.gif" width="70" height="20" border="0" alt="about us"></a></td>
+
+			<td colspan="3"><a href="how_works_first.asp"><img name="mtn_how" src="images/mem_banner/mtn_how-over.gif" width="91" height="20" border="0" alt="how it works"></a></td>            
+						
+			
+			<td><a href="contact_first.asp" onmouseover="changeImages('mtn_contact', 'images/mem_banner/mtn_contact-over.gif'); return true;" onmouseout="changeImages('mtn_contact', 'images/mem_banner/mtn_contact.gif'); return true;"><img name="mtn_contact" src="images/mem_banner/mtn_contact.gif" width="80" height="20" border="0" alt="contact us"></a></td>            			            
+			
+       </tr>  
+         
+         
+	    <!-- following section is the How It Works sub-nav system -->   
+	   <tr>
+			<td>
+				
+						<img name="mtn_left_row3" src="images/mem_banner/mtn_left_row3-mtn_how_over.gif" width="170" height="18"></td>
+						 
+							
+	    <td colspan="2"> <a href="tour_first.asp" onmouseover="changeImages('mtn_left_row3', 'images/mem_banner/mtn_left_row3-mtn_tour_over.gif', 'mtn_tour', 'images/mem_banner/mtn_tour-over.gif', 'mtn_faq', 'images/mem_banner/mtn_faq-mtn_how_over.gif', 'mtn_user', 'images/mem_banner/mtn_user-mtn_how_over.gif', 'mtn_piggypoints', 'images/mem_banner/mtn_piggypoints-mtn_how_ove.gif', 'mtn_left_row4', 'images/mem_banner/mtn_left_row4-mtn_how_over.gif', 'mtn_whats_init', 'images/mem_banner/mtn_whats_init-mtn_how_over.gif', 'mtn_privacy', 'images/mem_banner/mtn_privacy-down.gif', 'mtn_terms', 'images/mem_banner/mtn_terms-mtn_how_over.gif'); return true;" onmouseout="changeImages('mtn_left_row3', 'images/mem_banner/mtn_left_row3-mtn_how_over.gif', 'mtn_tour', 'images/mem_banner/mtn_tour-mtn_how_over.gif'); return true;">
+	      <img name="mtn_tour" src="images/mem_banner/mtn_tour-mtn_how_over.gif" width="185" height="18" border="0" alt="take the tour"></a></td>
+	      		 
+			
+	    <td colspan="2"> <a href="faq_first.asp" onmouseover="changeImages('mtn_left_row3', 'images/mem_banner/mtn_left_row3-mtn_how_over.gif', 'mtn_tour', 'images/mem_banner/mtn_tour-mtn_how_over.gif', 'mtn_faq', 'images/mem_banner/mtn_faq-over.gif', 'mtn_user', 'images/mem_banner/mtn_user-mtn_how_over.gif', 'mtn_piggypoints', 'images/mem_banner/mtn_piggypoints-mtn_how_ove.gif', 'mtn_left_row4', 'images/mem_banner/mtn_left_row4-mtn_how_over.gif', 'mtn_whats_init', 'images/mem_banner/mtn_whats_init-mtn_how_over.gif', 'mtn_privacy', 'images/mem_banner/mtn_privacy-down.gif', 'mtn_terms', 'images/mem_banner/mtn_terms-mtn_how_over.gif'); return true;" onmouseout="changeImages('mtn_faq', 'images/mem_banner/mtn_faq-mtn_how_over.gif'); return true;">
+	      <img name="mtn_faq" src="images/mem_banner/mtn_faq-mtn_how_over.gif" width="45" height="18" border="0" alt="F.A.Q."></a></td>
+	      			 
+			
+	    <td colspan="2"> <a href="user_story_first.asp" onmouseover="changeImages('mtn_left_row3', 'images/mem_banner/mtn_left_row3-mtn_how_over.gif', 'mtn_tour', 'images/mem_banner/mtn_tour-mtn_how_over.gif', 'mtn_faq', 'images/mem_banner/mtn_faq-mtn_how_over.gif', 'mtn_user', 'images/mem_banner/mtn_user-over.gif', 'mtn_piggypoints', 'images/mem_banner/mtn_piggypoints-mtn_how_ove.gif', 'mtn_left_row4', 'images/mem_banner/mtn_left_row4-mtn_how_over.gif', 'mtn_whats_init', 'images/mem_banner/mtn_whats_init-mtn_how_over.gif', 'mtn_privacy', 'images/mem_banner/mtn_privacy-down.gif', 'mtn_terms', 'images/mem_banner/mtn_terms-mtn_how_over.gif'); return true;" onmouseout="changeImages('mtn_user', 'images/mem_banner/mtn_user-mtn_how_over.gif'); return true;"> 
+	      <img name="mtn_user" src="images/mem_banner/mtn_user-mtn_how_over.gif" width="77" height="18" border="0" alt="user story"></a></td>
+	      			
+		  
+	    <td colspan="3"> <a href="points_first.asp" onmouseover="changeImages('mtn_left_row3', 'images/mem_banner/mtn_left_row3-mtn_how_over.gif', 'mtn_tour', 'images/mem_banner/mtn_tour-mtn_how_over.gif', 'mtn_faq', 'images/mem_banner/mtn_faq-mtn_how_over.gif', 'mtn_user', 'images/mem_banner/mtn_user-mtn_how_over.gif', 'mtn_piggypoints', 'images/mem_banner/mtn_piggypoints-over.gif', 'mtn_left_row4', 'images/mem_banner/mtn_left_row4-mtn_how_over.gif', 'mtn_whats_init', 'images/mem_banner/mtn_whats_init-mtn_how_over.gif', 'mtn_privacy', 'images/mem_banner/mtn_privacy-down.gif', 'mtn_terms', 'images/mem_banner/mtn_terms-mtn_how_over.gif'); return true;" onmouseout="changeImages('mtn_piggypoints', 'images/mem_banner/mtn_piggypoints-mtn_how_ove.gif'); return true;"> 
+	      <img name="mtn_piggypoints" src="images/mem_banner/mtn_piggypoints-mtn_how_ove.gif" width="143" height="18" border="0" alt="how PiggyPoints work"></a></td>
+	      			 
+
+		</tr>
+		<tr>
+			<td>
+				
+					<img name="mtn_left_row4" src="images/mem_banner/mtn_left_row4-mtn_how_over.gif" width="170" height="21"></td>
+						
+			
+	    <td colspan="4"> <a href="what_pigsback_first.asp" onmouseover="changeImages('mtn_left_row3', 'images/mem_banner/mtn_left_row3-mtn_how_over.gif', 'mtn_tour', 'images/mem_banner/mtn_tour-mtn_how_over.gif', 'mtn_faq', 'images/mem_banner/mtn_faq-mtn_how_over.gif', 'mtn_user', 'images/mem_banner/mtn_user-mtn_how_over.gif', 'mtn_piggypoints', 'images/mem_banner/mtn_piggypoints-mtn_how_ove.gif', 'mtn_left_row4', 'images/mem_banner/mtn_left_row4-mtn_whats_ini.gif', 'mtn_whats_init', 'images/mem_banner/mtn_whats_init-over.gif', 'mtn_privacy', 'images/mem_banner/mtn_privacy-down.gif', 'mtn_terms', 'images/mem_banner/mtn_terms-mtn_how_over.gif'); return true;" onmouseout="changeImages('mtn_left_row4', 'images/mem_banner/mtn_left_row4-mtn_how_over.gif', 'mtn_whats_init', 'images/mem_banner/mtn_whats_init-mtn_how_over.gif'); return true;">
+	      <img name="mtn_whats_init" src="images/mem_banner/mtn_whats_init-mtn_how_over.gif" width="230" height="21" border="0" alt="what's in it for Pigsback.com?"></a></td>
+	      			 
+			
+	    <td colspan="3"> <a href="privacy_first.asp"><img name="mtn_privacy" src="images/mem_banner/mtn_privacy-down.gif" width="94" height="21" border="0" alt="privacy policy"></a></td>
+			 
+			
+	    <td colspan="2"> <a href="terms_first.asp" onmouseover="changeImages('mtn_left_row3', 'images/mem_banner/mtn_left_row3-mtn_how_over.gif', 'mtn_tour', 'images/mem_banner/mtn_tour-mtn_how_over.gif', 'mtn_faq', 'images/mem_banner/mtn_faq-mtn_how_over.gif', 'mtn_user', 'images/mem_banner/mtn_user-mtn_how_over.gif', 'mtn_piggypoints', 'images/mem_banner/mtn_piggypoints-mtn_how_ove.gif', 'mtn_left_row4', 'images/mem_banner/mtn_left_row4-mtn_how_over.gif', 'mtn_whats_init', 'images/mem_banner/mtn_whats_init-mtn_how_over.gif', 'mtn_privacy', 'images/mem_banner/mtn_privacy-down.gif', 'mtn_terms', 'images/mem_banner/mtn_terms-over.gif'); return true;" onmouseout="changeImages('mtn_terms', 'images/mem_banner/mtn_terms-mtn_how_over.gif'); return true;">  
+	      <img name="mtn_terms" src="images/mem_banner/mtn_terms-mtn_how_over.gif" width="126" height="21" border="0" alt="terms and conditions"></a></td>
+	      			
+		</tr>
+		<tr>
+			<td colspan="10">
+				<img name="mtn_page_title" src="images/mem_titles/pt_privacypolicy.gif" width="620" height="38"></td>
+		</tr>        
+      
+
+        </tbody></table>
+    
+<!--This is the begining of the main structural table for the Pigsback member site --> 
+<table width="620" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr valign="top"> 
+    <td width="148"> <!--This is the begining of the left navigation table --> 
+      <table width="140" border="0" cellpadding="2" cellspacing="0">
+        <tbody><tr valign="top"> 
+          <td width="140"><a href="tour_first.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tour','','images/butt_purp_tour_R.gif',1)"><img name="tour" border="0" src="images/butt_purp_tour.gif" width="140" height="25" alt="Take the Tour"></a></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="140"><a href="faq_first.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('faq','','images/butt_purp_faq_R.gif',1)"><img name="faq" border="0" src="images/butt_purp_faq.gif" width="140" height="25" alt="Frequently Asked Questions"></a></td>
+        </tr>
+        <tr valign="top"> 
+          <td width="140"><img src="images/butt_purp_privacy_policy.gif" width="140" height="25" alt="Privacy Policy"></td>
+        </tr>
+      </tbody></table>
+      <!--This is the end of the left navigation table --> </td>
+    <td width="342"> <!--This is the begining of the main content table --> 
+      <table width="336" border="0" cellspacing="2" cellpadding="0" align="center">
+        <tbody><tr> 
+          <td> 
+            <p class="subtitle">Safeguarding your privacy <br>
+              is our number one priority. </p>
+            <p class="normal">Because we gather some information about Pigsback.com 
+              members, we believe you should understand how that information might 
+              be used. </p>
+            <p class="subsmall">Here is our commitment to you:</p>
+            <ul class="list">
+              <li> We will protect your confidentiality.</li>
+              <li> We will NEVER release or sell your personal information to 
+                any other party. When we give information to the companies that 
+                participate in the Programme, it is in the form of grouped statistics 
+                based on members' information while participating in the Programme. 
+                The information typically includes the total number of visits, 
+                where are they coming from, what do they do on the website, etc.</li>
+              <li> The Programme is designed to make it impossible for outside 
+                companies to extract personal information without your consent. 
+              </li>
+              <li> We follow rigorous security protocols within our company to 
+                safeguard any personal information you share with us. </li>
+            </ul>
+            <p class="subsmall">Security Guarantee</p>
+            <p class="normal">We have a firewall to prevent anyone without your 
+              keyword to access our systems.</p>
+            <p class="subsmall">Cookie</p>
+            <p class="normal">A cookie is a piece of data stored on the user's 
+              hard drive containing information about the user. Usage of cookies 
+              is in no way linked to any personally identifiable information while 
+              on our site. </p>
+            <p class="subsmall">Registration</p>
+            <p class="normal">In order to use this website, a user must first 
+              complete the registration form to become a Pigsback.com member. 
+              During the registration, the user is required to give their contact 
+              information (e-mail address, name, country). This information is 
+              used to contact the user about the services (special offers and 
+              rewards) on our site, in which they have expressed interest.</p>
+            <p class="subsmall">External Links and Partners</p>
+            <p class="normal">Pigsback.com contains links to other websites. We 
+              are not responsible for the privacy issues or the content of other 
+              sites. We recommend that you review their privacy policy, especially 
+              if you need to give personal information.</p>
+            <p class="subsmall">Cancel your membership</p>
+            <p class="normal">It's up to you to cancel your membership. All you 
+              have to do is go to <b><font color="#000000" class="titlecatbody"><span class="titlereg2b"><span class="titlereg2a"><span class="titlereg"><span class="titlecatbody"><span class="titlereg2b"><span class="formtext"><span class="normal">Cancel 
+              my account</span></span></span></span></span></span></span></font></b> 
+              in the <b><font color="#000000">Update my profile</font></b> section. 
+              We will delete all your personal information</p>
+            <p class="subsmall">Modify your information</p>
+            <p class="normal">You can modify or add your information at any time. 
+              All you have to do is go to the <b><font color="#000000">Update 
+              my profile</font></b> section and choose whether you want to modify 
+              your login information, your categories or your personal information.</p>
+            <p class="subsmall">Surveys &amp; Contests</p>
+            <p class="normal">From time to time we may ask members for information 
+              via surveys and contests. Participation in these surveys or contests 
+              is completely voluntary and the user therefore has a choice whether 
+              or not to disclose the information. </p>
+            <p class="subsmall">Tell a friend</p>
+            <p class="normal">If a user elects to use our referral service for 
+              informing a friend about our site, an email will be sent to the 
+	      friend by the user, using the Pigsback.com email service as the mail engine
+              . Under no circumstances will the friends email address or any other details
+               be stored by Pigsback.com until the friend becomes a member and enters this information themselves.</p>
+            <p class="subsmall">Empathy Marketing Ltd</p>
+            <p class="normal">The Pigsback.com Programme and website are owned 
+              and operated by: Empathy Marketing Ltd, Lake Drive 3010, City West 
+              Campus, Saggart, Co Dublin, Rep of Ireland.</p>
+            <p class="subsmall">Contact Pigsback.com about the privacy policy</p>
+            <p class="normal">We welcome questions and comments about our Privacy 
+              Policy. If you want to contact us, e-mail us at <a href="mailto:postmaster@pigsback.com">postmaster@pigsback.com</a>. 
+              Or send mail to:</p>
+            <blockquote>
+              Pigsback.com<br>
+                Empathy Marketing Ltd<br>
+                Lake Drive 3010<br>
+                City West Campus<br>
+                Saggart, Co Dublin<br>
+                Rep of Ireland 
+            </blockquote>
+          </td>
+        </tr>
+      </tbody></table>
+      
+      <p class="subtitle">&nbsp;</p>
+      <!--This is the end of the main content table --> 
+    </td>
+    <td width="130"> <!--This is the begining of the right hand  mega offer table --> 
+      <img src="images/pig_privacy.gif" width="80" height="80"><!--This is the end of the right hand  mega offer table --> 
+    </td>
+  </tr>
+</tbody></table>
+<!--This is the end of the main structural table for the Pigsback member site --> 
+
+		<table width="620" border="0" cellspacing="0" cellpadding="2" align="center">
+			<tbody><tr> 
+			  <td colspan="3"> 
+			    <hr>
+			    <div class="tiny" align="center"> 
+			    <a href="points_first.asp">PiggyPoints</a> 
+			      | <a href="privacy_first.asp">Privacy Policy</a> 
+			      | <a href="how_works_first.asp">How it Works</a> 
+			      | <a href="about_first.asp">About Us</a> 
+			      | <a href="faq_first.asp">FAQ</a> 
+			      | <a href="contact_first.asp">Contact Us</a></div>
+			    <p>&nbsp; </p>
+			  </td>
+			</tr>
+			<tr> 
+			  <td width="140"><a href="privacy_first.asp"><img src="images/butt_no_junk_email.gif" width="140" height="40" border="0" alt="No Junk Mail - Guarantee"></a></td>
+			  <td> 
+			    <p align="center" class="tiny">Pigsback.com™, Lake Drive 3010,<br>
+			      City West Campus, Saggart, Co. Dublin, Ireland.<br>
+			      <a href="copyright_first.asp">Copyright and Disclaimer</a> ©2000 
+			      Empathy Marketing Ltd!</p>
+			  </td>
+			  <td width="130">&nbsp;</td>
+			</tr>
+		</tbody></table>
+	
+
+
+
+</div></body></html>
