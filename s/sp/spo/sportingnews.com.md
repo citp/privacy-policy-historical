@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207112800id_/http%3A//sportingnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603070637id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
 
-# The Sporting News: Privacy Policy
+# The Sporting News Privacy Policy
 
-** The Sporting News Privacy Policy **
+The Sporting News Privacy Policy
 
 The site you are about to view follows the The Sporting News Privacy Policy. The site is maintained by The Sporting News of St. Louis, Missouri. 
 
@@ -23,6 +23,3 @@ PARENTS: Any such information collected by The Sporting News from children is us
 Suite 200   
 St. Louis, MO 63132   
 (314) 997-7111 
-
-  
-
