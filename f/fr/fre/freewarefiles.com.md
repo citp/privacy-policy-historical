@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601103815id_/http%3A//www.freewarefiles.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206215330id_/http%3A//www.freewarefiles.com/privacy.htm) for the most accurate reproduction.*
 
 # Freeware Files.com - Privacy Policy
 
@@ -30,19 +30,13 @@ You may request deletion of your FreewareFiles.com account by contacting Custome
 
 Individuals who are subscribers to our newsletter or requested to receive information from our marketing partners who wish to remove their Demographic or Personally Identifiable information collected by us, may do so by contacting: [**lists@freewarefiles.com**](mailto:lists@freewarefiles.com)
 
-**Third Party Privacy**
+**Third Party Advertising**
 
-Freeware Files.com works with a third-party that serves ads to this site. In the course of serving advertisements to this site, our third-party advertisers may place or recognize unique "cookies" on your browser and may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements on this and other web sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, following are the third-party advertisers which currently serve ads to this site. 
+We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: [ **Maxworldwide**](http://www.networkadvertising.org/optout_nonppii.asp)
 
-  * [**DoubleClick**](http://www.doubleclick.net/us/corporate/privacy)
-  * [**Advertising.com**](http://www.advertising.com/privacy/index.html)
-  * [**Engage**](http://www.engage.com/privacy/site_privacy.cfm)
+**Third Party Cookies**
 
-
-
-Please visit these providers individually to learn more about how they handle your privacy. 
-
-WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [**click here**](http://www.webtrendslive.com/privacy_policy.htm).
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **How to Contact Us**
 
