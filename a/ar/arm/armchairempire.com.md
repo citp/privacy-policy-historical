@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015010253id_/http%3A//www.armchairempire.com/Miscellaneous/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armchairempire.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610110759id_/http%3A//www.armchairempire.com/Miscellaneous/privacy_statement.htm) for the most accurate reproduction.*
 
 # The Armchair Empire - Privacy Statement
 
-**Privacy Statement**
+**Be notified of site updates. Sign-up for the Newsletter sent out twice weekly.**
+
+**Enter E-Mail Address Below:**
+
+| 
 
 The Armchair Empire understands and respects the privacy of its visitors.  As such we have provided the following information regarding our privacy policies.
 
@@ -24,7 +28,6 @@ Parents of our younger users may at any time, revoke their consent, and may requ
 
 Though The Armchair Empire will take reasonable measures to ensure that users under the age of 13 do not disclose their private information without first obtaining parental consent, the site cannot guarantee the protection of young users who choose not to disclose their age and who do not follow the requirements set forth by COPA.
 
-> RR9  740 Creekside Crescent  
->  Gibsons, BC  
->  Canada  V0N 1V9  
-> 
+> Suite 1 - 40 Gostick Place  
+>  North Vancouver, BC  
+>  V7M 3G2
