@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204202544id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210155340id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
 
-# Rodale - Meet RODALE - Online Privacy Policy
+# Rodale - Meet RODALE - Privacy Policy
 
-**Online Privacy Policy**
+**Privacy Policy**
 
 ****_Protecting Your Privacy and Servicing Your Needs._  
 _December 2000_
@@ -27,19 +27,18 @@ In order to provide better service when visitors return to our site, Rodale may 
 If you want to disable cookies, there is a simple procedure in most Internet browsers that allow you to turn off cookies. Please remember however, that cookies may be required to allow you to use certain features of our sites. 
 
 **With whom do you share information about me?**   
-From time to time, we make our customer e-mail addresses, postal addresses and telephone numbers available to other reputable business associates whose products or services might be of value to you. If you do not want us to share your information with other companies or organizations, please let us know by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html),   
-by calling us at (800) 914-9363, or writing to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. 
+From time to time, we make our customer e-mail addresses, postal addresses and telephone numbers available to other reputable business associates whose products or services might be of value to you. If you do not want us to share your information with other companies or organizations, please let us know by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), or writing to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. 
 
 _**In addition...**_   
 In our desire to serve you better, we allow reputable business associates to place ads on our web pages. As a result of your visit to our site, these companies may collect general information such as the type of computer user you are and the web sites and pages you visit. You may wish to consult their privacy policies. 
 
 **What if I don't want e-mail from Rodale?**   
-Easy. If you do not want to receive e-mail from Rodale, please let us know by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), by calling us at (800) 914-9363, or writing to us at: Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. 
+Easy. If you do not want to receive e-mail from Rodale, please let us know by accessing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), or writing to us at: Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 18098. 
 
 **May I see the information you collect about me?**   
-_Yes!_ Upon request, we provide our customers with access to personal account information (e.g., customer number)...account status (outstanding balance)...and contact information (i.e., name, address, phone number). You may access the information by completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html) or by calling us at (800) 914-9363. 
+_Yes!_ Upon request, we provide our customers with access to personal account information (e.g., customer number)...account status (outstanding balance)...and contact information (i.e., name, address, phone number). You may access the information by completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html). 
 
-In addition, we offer web visitors the ability to correct any inaccuracies in their contact information, simply by accessing the appropriate [Customer Service](http://www.rodale.com/corp/sub/1,1874,5-30,00.html) site, completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html), or by calling us at (800) 914-9363. If you prefer you may write to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 19098. 
+In addition, we offer web visitors the ability to correct any inaccuracies in their contact information, simply by accessing the appropriate [Customer Service](http://www.rodale.com/corp/sub/1,1874,5-30,00.html) site, completing the form at [privacy@rodale.com](http://www.rodale.com/cs/privacy.html). If you prefer you may write to us at Customer Service, Rodale, 400 South Tenth Street, Emmaus, PA 19098. 
 
 **Changes ...**   
 Rodale may need to change this privacy policy from time to time in order to address new issues, evolving technologies and changes on our sites. Rodale will post those changes so you will always know what information we gather, how we might use that information, and whether we disclose that information to third parties. Please refer back to this policy regularly. 
@@ -48,7 +47,7 @@ Rodale may need to change this privacy policy from time to time in order to addr
 To ensure the security of your data- including address information and credit card numbers- Rodale always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures which protect against the loss, misuse or alteration of information that we have collected from you. 
 
 **We appreciate the opportunity to serve you!**   
-If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 33 East Minor Street, Emmaus, PA 18098 and we can be reached via e-mail at: [info@rodale.com](mailto:info@rodale.com). You can reach us by telephone at (610) 967-5171 or (800) 914-9363. 
+If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 33 East Minor Street, Emmaus, PA 18098 and we can be reached via e-mail at: [info@rodale.com](mailto:info@rodale.com). You can reach us by telephone at (610) 967-5171. 
 
 Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), the [Better Business Bureau](http://www.bbb.org/), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01). 
 
