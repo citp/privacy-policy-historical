@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331124149id_/http%3A//primarygames.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217233753id_/http%3A//primarygames.com/privacy.htm) for the most accurate reproduction.*
 
 # PrimaryGames.com - Privacy Statement
 
