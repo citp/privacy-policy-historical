@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212110220id_/http%3A//www.myfico.com/myfico/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606102316id_/http%3A//www.myfico.com/myfico/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # myFICO - Privacy Policy
 
@@ -9,7 +9,7 @@ We understand and respect your desire to know how information about you will be 
 
 We collect nonpublic personal information about you from the following sources:
 
-  * Information we receive from you, such as when you register for and order the services we provide, whether alone or in conjunction with other companies (the "Services"), or such as when you send us e-mail, applications and other forms. 
+  * Information we receive from you, such as when you register for and order the services we provide, whether alone or in conjunction with other companies (the "Services"), or such as when you send us E-mail, applications and other forms. 
   * Information about your transactions with us, our affiliates and others. 
   * Information we receive from third parties, such as consumer reporting agencies and companies that provide demographic information.
 
@@ -29,7 +29,7 @@ We may disclose any and all of the information we collect, as described above, t
 
 
 
-We may also disclose any and all of the information we collect to companies that are related to us by common ownership or affiliated with us by common control. We may disclose as described above whether you are a consumer who purchases a one-time service, a customer with whom we have an ongoing relationship, or a former customer. However, we will not disclose to third parties the consumer report or credit score calculated in providing any Service without your prior specific approval. If Fair Isaac is acquired by or merges with another company, information will be transferred to the acquiring company. Fair Isaac will also share information in order to comply with the law, e.g., in response to subpoenas, to assert or defend legal claims, and in order to investigate or respond to actual or suspected illegal activities, fraud, and threats of physical harm.
+We may also disclose any and all of the information we collect to companies that are related to us by common ownership or affiliated with us by common control. We may disclose as described above whether you are a consumer who purchases a one-time service, a customer with whom we have an ongoing relationship, or a former customer. However, we will not disclose to third parties the consumer report or credit score calculated in providing any Service without your prior specific approval nor will we will disclose your E-mail address to any third party. If Fair Isaac is acquired by or merges with another company, information will be transferred to the acquiring company. Fair Isaac will also share information in order to comply with the law, e.g., in response to subpoenas, to assert or defend legal claims, and in order to investigate or respond to actual or suspected illegal activities, fraud, and threats of physical harm.
 
 **Your Right to Choose**  
 
