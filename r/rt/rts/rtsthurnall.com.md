@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtsthurnall.com privacy policy that was archived on 2003-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031229130726id_/http%3A//www.rts-group.com/disc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtsthurnall.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305045220id_/http%3A//www.rts-group.com/disc.html) for the most accurate reproduction.*
 
 # RTS Website Terms and Conditions
 
@@ -9,9 +9,7 @@ Robotic Technology Systems PLC ("RTS") is a company incorporated in England and 
 
 • RTS Thurnall Limited   
 • RTS Innovation Limited   
-• RTS Advanced Robotics Limited   
-• RTS Wright Industries, LLC   
-• RTS Enabling Technology LLC 
+• RTS Advanced Robotics Limited 
 
 RTS takes the privacy of all its customers and website users very seriously and takes great care with customer and user information. This Privacy Policy outlines how your personal information will be treated. 
 
@@ -57,4 +55,4 @@ Mail: John Potier, CIO, RTS PLC, Northbank, Irlam, Manchester, M44 5AY United Ki
 
 Fax: +44 161 777 2095 
 
-RTS Group © 2002 
+RTS Group © 2004 
