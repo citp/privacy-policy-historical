@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saturn.com privacy policy that was archived on 1999-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991127211225id_/http%3A//saturn.com/quick_links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saturn.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614101652id_/http%3A//saturn.com/quick_links/privacy.html) for the most accurate reproduction.*
 
 # Saturn: Privacy Policy
 
