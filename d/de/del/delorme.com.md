@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delorme.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206203426id_/http%3A//www.delorme.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delorme.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225806id_/http%3A//www.delorme.com/help/privacy.htm) for the most accurate reproduction.*
 
 # DeLorme | Privacy Statement
 
