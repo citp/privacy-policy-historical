@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020004732id_/http%3A//nhtsa.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207065149id_/http%3A//nhtsa.gov/Privacy.html) for the most accurate reproduction.*
 
 # DOT Privacy Notice
 
-### 
+**United States Department of Transportation  
+Privacy and Disclaimer Notice**   
 
-** United States Department of Transportation  
-**Privacy and Disclaimer Notice****
 
- ********  
----  
-  
 * * *
 
 **PRIVACY NOTICE**
@@ -56,5 +52,7 @@ Information presented on this website is considered public information and may b
 
 * * *
 
-update1  [](http://www.nhtsa.dot.gov/_vti_bin/shtml.exe/index.asp/map2)   
-[Send mail to the Web Master](mailto:webmaster@nhtsa.dot.gov)
+  
+[Home](http://www.nhtsa.dot.gov/) | [General Info](http://www.nhtsa.dot.gov/nhtsa/) | [Cars](http://www.nhtsa.dot.gov/cars/) | [People](http://www.nhtsa.dot.gov/people/) | [Hot](http://www.nhtsa.dot.gov/hot/) | [New](http://www.nhtsa.dot.gov/new/) | [Site Map](http://www.nhtsa.dot.gov/toc.html) | [Search](http://www.nhtsa.dot.gov/search/) | [Tools](http://www.nhtsa.dot.gov/tools/)
+
+[Send Email to NHTSA](http://www.nhtsa.dot.gov/email.cfm)
