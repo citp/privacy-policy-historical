@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621165606id_/http%3A//www.harristeeter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204230611id_/http%3A//www.harristeeter.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Harris Teeter -- Privacy Policy
 
 [](http://www.harristeeter.com/weekly_specials/index.php)  
 [ValuPage Coupons](http://www.harristeeter.com/weekly_specials/valu_page.php)  
-[Loyalty Rewards](http://www.harristeeter.com/weekly_specials/loyalty_rewards.php)  
   
 [](http://www.harristeeter.com/shopping/index.php)  
 [Express Lane Online Shopping](http://www.mywebgrocer.com/store/harristeeter.html)  
 [Party To Go](http://www.harristeeter.com/cart/home.php)  
-[Special Item Request](http://www.harristeeter.com/special_item_request.php)  
 [Security](http://www.harristeeter.com/shopping/online_security.php)  
   
 [](http://www.harristeeter.com/vic_card/index.php)  
+[Update Your VIC Card Info](https://www.harristeeter.com/vic_card/vic_change.php)  
 [Apply Now](https://www.harristeeter.com/vic_card/vic_application.php)  
+[e-VIC](https://www.harristeeter.com/vic_card/eVic.php)  
 [Sweepstakes & Promotions](http://www.harristeeter.com/vic_card/sweeps_promotions.php)  
+[Loyalty Rewards](http://www.harristeeter.com/weekly_specials/loyalty_rewards.php)  
   
 [](http://www.harristeeter.com/in_the_stores/index.php)  
 [Fresh Foods](http://www.harristeeter.com/in_the_stores/food_to_go.php)  
 [Our Own Brands](http://www.harristeeter.com/in_the_stores/our_brands.php)  
+[In-Store Promotions](http://www.harristeeter.com/in_the_stores/promo_HTphonecards.php)  
   
 [](http://www.harristeeter.com/consumer_info/index.php)  
 [Food Safety](http://www.harristeeter.com/consumer_info/food_safety.php)  
@@ -30,9 +32,11 @@
 [HT Giving Program](http://www.harristeeter.com/community/giving_program.php)  
   
 [](http://www.harristeeter.com/pharmacy/index.php)  
-[Pharmacy Health-Line](http://www.harristeeter.com/pharmacy/health_line.php)  
+[Pharmacy Health-Line](http://www.harristeeter.com/pharmacy/rxNews.php)  
 [HIPAA Privacy Policies](http://www.harristeeter.com/pharmacy/hipaa_policies.php)  
 [Stores With Pharmacies](http://www.harristeeter.com/pharmacy/pharmacy_locator.php)  
+  
+[](http://www.harristeeter.com/pressroom/index.php)  
   
 |   
 |  |   
@@ -55,8 +59,8 @@ If you have questions about our commitment to privacy, [Contact Us](http://www.h
 
 **Our mailing address is:**  
 Harris Teeter, Inc.  
-701 Crestdale Drive  
-Matthews, NC 28105
+P.O. Box 10100  
+Matthews, NC 28106-0100
 
   
   
