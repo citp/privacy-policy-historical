@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204025228id_/http%3A//www.teachtci.com/services/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604080029id_/http%3A//www.teachtci.com/services/privacy.asp) for the most accurate reproduction.*
 
 # History Alive! Site Security
 
