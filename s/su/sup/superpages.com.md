@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210014100id_/http%3A//superpages.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603060839id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
 
 # SuperPages.com: About Us & Help: Privacy Policy
 
