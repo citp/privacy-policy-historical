@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406152131id_/http%3A//www.tamu.edu/00/data/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamu.edu privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218111139id_/http%3A//www.tamu.edu/00/data/privacy.html) for the most accurate reproduction.*
 
 # Texas A&M University - Historical Photographs
 
