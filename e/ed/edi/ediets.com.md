@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602024714id_/http%3A//www.ediets.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204194225id_/http%3A//www.ediets.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # eDiets: Personalized diet and weight loss programs
 
-|  [Investor Relations](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=edet&script=2100)   
+[Investor Relations](http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=edet&script=2100)   
 [Own The Stock](https://web.archive.org/investing/investing.cfm)   
 [ Contact Us](https://web.archive.org/company/contact.cfm)   
 [Advertising](https://web.archive.org/company/advertising_opps.cfm)   
@@ -49,9 +49,19 @@ You are solely responsible for maintaining the secrecy of your passwords and/or 
 Any changes in this privacy policy will be promptly disclosed in these pages.
 
   
+Third Party Advertising
+
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information ( not including your name, address, email or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information use by these companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+  
 Cookies
 
 We may track your visit to our Web site by giving you a "cookie" when you enter. Cookies are pieces of information that Web sites transfer to your computer's hard drive for record-keeping purposes. eDiets.com uses cookies to make visiting our Web sites easier. Cookies help us track user trends and patterns. In addition, third party advertising networks may issue cookies when serving advertisements. The use of cookies is now an industry standard, and you'll find them used on almost every major Web site.
+
+  
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
 
   
 A Special Note to Parents and Caregivers
@@ -74,6 +84,4 @@ F: (954) 360-9095
 
 Copyright © 1999 eDiets.com, Inc. All rights reserved.
 
-Not all exercises or diets are suitable for everyone. Before you begin this program, you should have permission from your doctor to participate in vigorous exercise and change of diet. If you feel discomfort or pain when you exercise, do not continue. The instructions and advice presented are in no way intended as a substitute for medical counseling. The creators, producers, participants and distributors of this Web site reserve the right to refuse membership at their discretion and disclaim any liability or loss in connection with the exercise and advice provided herein.  
-  
----|---|---
+Not all exercises or diets are suitable for everyone. Before you begin this program, you should have permission from your doctor to participate in vigorous exercise and change of diet. If you feel discomfort or pain when you exercise, do not continue. The instructions and advice presented are in no way intended as a substitute for medical counseling. The creators, producers, participants and distributors of this Web site reserve the right to refuse membership at their discretion and disclaim any liability or loss in connection with the exercise and advice provided herein.
