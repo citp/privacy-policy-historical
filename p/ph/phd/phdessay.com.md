@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phdessay.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205000939id_/http%3A//www.essayedge.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phdessay.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403152741id_/http%3A//www.essayedge.com/privacy.shtml) for the most accurate reproduction.*
 
 # EssayEdge.com: Personal Statement and Admissions Essay Help, Application Essay Editing
 
