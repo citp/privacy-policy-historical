@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204103520id_/http%3A//www.sandisk.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403155916id_/http%3A//www.sandisk.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # SanDisk | Corporate | About Us | Privacy Policy
 
@@ -91,7 +91,7 @@ Inquiries relating to updating or changing information you provided when purchas
 
 Generally, when we contact you, we will try to provide you with an easy and convenient way to notify us if you would not like further similar communications. 
 
-If you have provided us with personal information not related to your purchase or registration of our products and would like to change or update your personal information, please click [here](https://web.archive.org/web/20041204103520id_/http%3A//www.sandisk.com/corporate/privacy2.asp).
+If you have provided us with personal information not related to your purchase or registration of our products and would like to change or update your personal information, please click [here](https://web.archive.org/web/20050403155916id_/http%3A//www.sandisk.com/corporate/privacy2.asp).
 
 **CONTACTING SANDISK**  
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at [privacy@sandisk.com](mailto:privacy@sandisk.com)
