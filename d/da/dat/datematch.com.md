@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datematch.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216001601id_/http%3A//www.datematch.com/home.php%3Fshow%3Dprivacy%26ref%3D/home.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datematch.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621001945id_/http%3A//www.datematch.com/home.php%3Fshow%3Dprivacy%26ref%3D/home.php) for the most accurate reproduction.*
 
 # Find True Romance - Safe, Fun and Free at DateMatch.com.
 
