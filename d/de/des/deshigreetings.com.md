@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621114341id_/http%3A//www.deshigreetings.com/privacy_polcy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208233525id_/http%3A//www.deshigreetings.com/privacy_polcy.htm) for the most accurate reproduction.*
 
-# >>>DeshiGreetings.Com<<<
+# >>>Deshi Greetings.Com<<< - send gifts to Bangladesh, Bangladeshi best e-commerce site : online shopping of Bangladesh, send gifts to Dhaka, Chittagong, Khulna, Sylhet, Rajshahi, send flowers cakes sharee saree roses fruits greeting cards to Bangladesh, B
 
-**We respect your privacy** At  Deshigreetings.com, we are committed to protecting the privacy of all our customers. Deshigreetings.com does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. Any information you give us is held with the utmost care and security. This information is collected primarily to ensure that we are able to fulfill your requirements and to deliver you a truly personalized shopping experience.
+  
+At [**Deshigreetings.com**](http://www.deshigreetings.com/), we are committed to protecting the privacy of all our customers. [**Deshigreetings.com**](http://www.deshigreetings.com/) does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. Any information you give us is held with the utmost care and security. This information is collected primarily to ensure that we are able to fulfill your requirements and to deliver you a truly personalized shopping experience. 
 
-When you purchase products from Deshigreetings.com or register with us for any services, you have the option of receiving E-mails regarding updates about special offers, new products, and new services including any significant upgrades to the Store.
+When you purchase products from [**Deshigreetings.com**](http://www.deshigreetings.com/) or register with us for any services, you have the option of receiving E-mails regarding updates about special offers, new products, and new services including any significant upgrades to the Store.
 
 We are also bound to co-operate fully should a situation arise where we are required by law or legal process to provide information about a customer. We may share non-personal, non-individual statistical or demographic information in aggregate form with our marketing partners, advertisers or other third parties for research and advertising purposes. In other words, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
 
-For example, 31% of Deshigreetings.com members are female and 66% are between the ages of 25 and 35. This information does not have enough information to personally identify you.
+For example, 31% of [****](http://www.deshigreetings.com/)[**Deshigreetings.com**](http://www.deshigreetings.com/) [****](http://www.deshigreetings.com/) members are female and 66% are between the ages of 25 and 35. This information does not have enough information to personally identify you.
 
 **How do we use "cookies"?**
 
