@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the no-ip.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613155815id_/http%3A//no-ip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no-ip.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212081705id_/http%3A//www.no-ip.com/privacy.php) for the most accurate reproduction.*
 
 # 
-
-  
-  
-| 
-
-[](http://kansas.valueclick.com/redirect?host=hs0163106&b=privacy&v=0)
-
-  
-
 
 ## No-IP.com Privacy Policy
 
@@ -76,9 +67,3 @@ info@no-ip.com
 858-362-7973 fax  
 
 
-
-|    
-  
-  
-  
-[](http://www.audiorealm.com/)
