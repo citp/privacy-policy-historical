@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makingcosmetics.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/homemade_cosmetics/06_privacy_homemade_cosmetics.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingcosmetics.com privacy policy that was archived on 2004-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/homemade_cosmetics/06_privacy_homemade_cosmetics.htm) for the most accurate reproduction.*
 
 # Homemade Cosmetics for Your Spa & Bath: Privacy Statement
 
@@ -8,43 +8,43 @@
   
 ---  
   
-**    [FAQ's](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/01_faq_soapmaking.htm)**  
+**    [FAQ's](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/01_faq_soapmaking.htm)**  
   
-**    [Glossary](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/02_glossary_soapmaking.htm)**  
+**    [Glossary](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/02_glossary_soapmaking.htm)**  
   
-**    [Basic Methods](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/03_basic_methods_soapmaking.htm)**  
+**    [Basic Methods](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/03_basic_methods_soapmaking.htm)**  
   
-**    [Free Recipes](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/04_free_recipes_soapmaking.htm)**  
+**    [Free Recipes](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/04_free_recipes_soapmaking.htm)**  
   
-**    [Mixing Colors](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/05_colors_pigments_soapmaking.htm)**  
+**    [Mixing Colors](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/05_colors_pigments_soapmaking.htm)**  
   
-**    [Sunscreens](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/06_suncreens_tanning_lotions.htm)**  
+**    [Sunscreens](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/06_suncreens_tanning_lotions.htm)**  
   
-**    [Troubleshooting](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/07_troubleshooting_soapmaking.htm)**  
+**    [Troubleshooting](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/07_troubleshooting_soapmaking.htm)**  
   
-**    [Safety Rules](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/08_safety_rules_soapmaking.htm)**  
+**    [Safety Rules](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/08_safety_rules_soapmaking.htm)**  
   
-**    [Unsafe Agents](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/09_unsafe_ingredients_cosmetics.htm)**  
+**    [Unsafe Agents](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/09_unsafe_ingredients_cosmetics.htm)**  
   
-**    [Useful Links](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/make_cosmetics_soaps/10_useful_links_soapmaking.htm)**  
+**    [Useful Links](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/make_cosmetics_soaps/10_useful_links_soapmaking.htm)**  
   
    
   
 **    General Info**  
   
-**    [About Us](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/homemade_cosmetics/01_aboutus_homemade_cosmetics.htm)**  
+**    [About Us](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/homemade_cosmetics/01_aboutus_homemade_cosmetics.htm)**  
   
-**    [Contact Us](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/homemade_cosmetics/02_contact_homemade_cosmetics.htm)**  
+**    [Contact Us](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/homemade_cosmetics/02_contact_homemade_cosmetics.htm)**  
   
-**    [Free Catalog](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/homemade_cosmetics/03_catalog_homemade_cosmetics.htm)**  
+**    [Free Catalog](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/homemade_cosmetics/03_catalog_homemade_cosmetics.htm)**  
   
-**    [Quick Pricelist](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/homemade_cosmetics/04_pricelist_homemade_cosmetics.htm)**  
+**    [Quick Pricelist](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/homemade_cosmetics/04_pricelist_homemade_cosmetics.htm)**  
   
-**    [Terms](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/homemade_cosmetics/05_terms_homemade_cosmetics.htm)**  
+**    [Terms](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/homemade_cosmetics/05_terms_homemade_cosmetics.htm)**  
   
-**    [Privacy](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/homemade_cosmetics/06_privacy_homemade_cosmetics.htm)**  
+**    [Privacy](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/homemade_cosmetics/06_privacy_homemade_cosmetics.htm)**  
   
-**    [Site Map](https://web.archive.org/web/20040626081217id_/http%3A//makingcosmetics.com/homemade_cosmetics/07_sitemap_homemade_cosmetics.htm)**  
+**    [Site Map](https://web.archive.org/web/20040918084225id_/http%3A//www.makingcosmetics.com/homemade_cosmetics/07_sitemap_homemade_cosmetics.htm)**  
   
    
    
