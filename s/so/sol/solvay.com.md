@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405095920id_/http%3A//www.solvay.com/privacypolicy/0%2C7640%2C985-2-0%2C00.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208073424id_/http%3A//www.solvay.com/privacypolicy/0%2C%2C985-2-0%2C00.htm) for the most accurate reproduction.*
 
 # Solvay Privacy Policy
 
