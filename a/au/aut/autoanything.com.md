@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203004236id_/http%3A//www.autoanything.com/help/help.asp%3Ftopic%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402052022id_/http%3A//www.autoanything.com/help/help.asp%3Ftopic%3Dprivacypolicy) for the most accurate reproduction.*
 
 # AutoAnything Help and Frequently Asked Questions
+
+AutoAnything is sensitive to your concerns about privacy and committed to protecting your online shopping experience. We want to assure you that we respect your privacy and handle your personal information with the highest standards of safety, security and confidentiality. If you have questions regarding our Privacy Policy, you may direct them to [privacypolicy@autoanything.com](mailto:privacypolicy@autoanything.com). 
+
+AutoAnything provides the use of a secure server (SSL) when you place your order with us. All personal information is encrypted by software before it is sent to us. 
+
+We guarantee your transaction to be 100% safe and secure. 
 
 Information collected by AutoAnything
 
