@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622150156id_/http%3A//www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212190746id_/http%3A//www.ehealthinsurance.com/ehealthinsurance/PrivacyPolicy/DirectPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ eHealthInsurance's Privacy Pledge
 
 [](https://www.truste.org/validate/4605)
 
-At eHealthInsurance, we are strongly committed to protecting your privacy. **We do not sell, trade or give away your personal information to anyone.** Additionally, we use industry-leading technologies to ensure the security and confidentiality of the personal information you provide us.
+At eHealthInsurance, we are strongly committed to protecting your privacy. To serve as your state-licensed insurance agent, we will ask you to provide us with personal information about you. We only use your personal information to help you find and, if you choose to do so, apply for health insurance and complementary products that may be of interest to you and your family. **We do not sell, trade or give away your personal information to anyone.** Additionally, we use industry-leading technologies to ensure the security and confidentiality of the personal information you provide us. 
 
 We are also a registered licensee of TRUSTe. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of full disclosure and informed consent. To demonstrate our commitment to your privacy, we regularly have our information privacy practices reviewed and audited for compliance by TRUSTe.
 
@@ -20,18 +20,18 @@ eHealthInsurance's Privacy Policy
 
 This eHealthInsurance Privacy Policy discloses the information privacy practices for the website you are currently visiting.
 
-Throughout the policy, we refer to information that can identify you as a specific individual, such as your name, phone number, email address, Social Security number or credit card number as "personal information." Further, personal information includes any information involving your health or medical history.
+Throughout the policy, we refer to information that can identify you as a specific individual, such as your name, phone number, email address, Social Security number or credit card number, as "personal information." Further, personal information includes any information involving your health or medical history.
 
   1. **We do not sell, trade or give away your personal information to anyone.**
-  2. **We do not disclose personal information to third parties, unless one of the following limited exceptions applies.**
-    * **_Health Insurance Company._** We disclose personal information directly to your chosen health insurance company to process your application. Additionally, your personal information may be used by your chosen health insurance company to bill you if your application is approved.
-    * **_Service Providers._** We may disclose personal information to other companies that help us process or service your health insurance application or correspond with you. For example, we may provide your personal information to a service provider to verify the validity or credit limit of your credit card. Please be assured that the companies we hire to process or service your health insurance application or correspond with you are not allowed to use your personal information for their own purposes and are contractually obligated to maintain strict confidentiality.
-    * **_Legal Obligations._** We may disclose or report personal information when we believe, in good faith, that the disclosure is required or permitted under law, for example, to cooperate with regulators or law enforcement authorities or to resolve consumer disputes.
+  2. **We do not disclose your personal information to third parties, unless one of the following limited exceptions applies.**
+    * **_Insurance Companies and Licensed Agents._** If you submit an application for an insurance product offered by us, then we will disclose your personal information to your chosen insurance company to process your application. If you submit an application for an insurance product offered through an insurance agent or agency with whom we have associated, then we may disclose your personal information to that agent or agency to process your requested quote or application. Please be assured that the agent or agency is only allowed to use your personal information to process your requested quote or application and is contractually obligated to maintain strict confidentiality.
+    * **_Service Providers._** We may disclose your personal information to other companies that help us process or service your insurance application or correspond with you. For example, we may provide your personal information to a service provider to verify the validity or credit limit of your credit card. Please be assured that the companies we hire to process or service your insurance application or correspond with you are not allowed to use your personal information for their own purposes and are contractually obligated to maintain strict confidentiality.
+    * **_Legal Obligations._** We may disclose or report your personal information when we believe, in good faith, that the disclosure is required or permitted under law, for example, to cooperate with regulators or law enforcement authorities or to resolve consumer disputes.
 **Outside of these exceptions, we will not share your personal information with third parties.**
-  3. **We collect personal information in the normal course of business in order to process your health insurance application and to serve you better.**
-    * **Creating an account.** We begin collecting personal information from you after you create your account by entering your email address and choosing your password. Under our current process, you must create an account before (i) starting an application for an individual or family plan or for a Medicare Supplement plan, or (ii) obtaining a quote for a small business plan. 
+  3. **We collect personal information in the normal course of business in order to process your insurance application and to serve you better.**
+    * **Registering With Us.** We begin collecting personal information from you when you register with us. You may register with us through our website by entering your email address and, if you are creating an account, choosing your password. Under our current process, you must create an account before (i) starting an application for an individual or family plan or for a Medicare Supplement plan, or (ii) obtaining a quote for a small business plan. You may register with us through our Customer Care Center by providing certain personal or contact information (e.g., email address, phone number, gender, date of birth) to one of our customer service representatives.
     * **Providing you with a quote or processing your application.** We may use your personal information to get in touch with you when necessary to process your application or to provide you with a quote. For example, emails will be sent to you throughout the application process to inform you of the status of your application and to seek additional information that is requested as part of the application.
-    * **Customer satisfaction and other products.** We or our wholly-owned subsidiaries may contact you to survey your satisfaction of our service and/or to inform you of additional products and services offered by us or our wholly-owned subsidiaries. You may opt out of receiving these additional communications from us by following the opt-out procedures below.
+    * **Customer satisfaction and other products.** We or our wholly-owned subsidiaries may contact you to survey your satisfaction of our service and/or to inform you of additional products and services offered by us or our wholly-owned subsidiaries. You may opt out of receiving these additional communications from us by following the opt-out procedures below. 
   
 
   4. **We gather anonymous information about you for our internal purposes, and we may share this anonymous information with third parties.**
@@ -43,7 +43,7 @@ Throughout the policy, we refer to information that can identify you as a specif
   5. **We protect the confidentiality and security of your personal information.**
     * We maintain physical, electronic and procedural safeguards to protect your personal information. For a more detailed discussion of the electronic safeguards on our website, please see below.
   6. **We continue to evaluate our efforts to protect your personal information and make every effort to keep your personal information accurate and up to date.**
-    * If you want to correct or update your contact information, you may contact us by email at customerservice@ehealthinsurance.com or by mail at Customer Service, eHealthInsurance.com, 1150 Iron Point Road, Suite 100 Folsom, CA 95630. 
+    * If you want to correct or update your contact information, you may contact us by email at [customerservice@ehealthinsurance.com](mailto:customerservice@ehealthinsurance.com) or by mail at Customer Service, eHealthInsurance.com, 1150 Iron Point Road, Suite 100 Folsom, CA 95630. 
     * Please note that once your application has been submitted to your chosen health insurance company, you may have to contact the insurance company directly to update your application.
   7. **We will provide notice of changes in our information privacy practices.**
     * If we are going to use your personal information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your personal information in this different manner. In addition, if we make any material changes to our information privacy practices that do not affect the personal information already stored in our database, we will post a prominent notice in the privacy portion of our website notifying users of the change.
@@ -77,7 +77,7 @@ Links to Other Websites
 
 Browsers and Internet Security
 
-Any time you enter or provide personal information in our website, we encrypt it using Secure Socket Layer ("SSL") technology. SSL protects information as it crosses the Internet. To support this technology, you need an SSL-capable browser. eHealthInsurance recommends using a strong encryption, 128-bit browser such as Microsoft's Internet Explorer 4.01 or higher or Netscape Navigator 4.06 or higher. These browsers will activate SSL automatically whenever you begin shopping for a health plan on our website and when you return to our website to complete an application.
+Any time you enter or provide personal information in our website, we encrypt it using Secure Socket Layer ("SSL") technology. SSL protects information as it crosses the Internet. To support this technology, you need an SSL-capable browser. eHealthInsurance recommends using a strong encryption, 128-bit browser such as Microsoft's Internet Explorer 4.01 or higher or Netscape Navigator 4.06 or higher. These browsers will activate SSL automatically whenever you begin shopping for plan on our website and when you return to our website to complete an application.
 
 You can tell if you are visiting a secure area within a website by looking at the symbol on the bottom of your browser screen. If you are using Internet Explorer or Netscape Navigator, you will see either a lock or a key. When the padlock is in the locked position, your session connection is taking place via a secure server.
 
@@ -99,6 +99,6 @@ Links to Other Websites
 
 Our website contains links to other websites. Please note that when you click on one of these links you are "clicking" to another website. eHealthInsurance is not responsible for the information privacy practices or the content of such websites. We encourage you to read the privacy policies of these linked websites as their information privacy practices may differ from ours.
 
-Last updated: July 25, 2002   
+Last updated: July 1, 2003   
   
 ---|---
