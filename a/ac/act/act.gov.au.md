@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013053511id_/http%3A//www.act.gov.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602140922id_/http%3A//www.act.gov.au/privacy.cfm) for the most accurate reproduction.*
 
 # ACT Government - Privacy Statement for ACT Government
 
@@ -45,5 +45,5 @@ Department of Urban Services
 PO Box 249  
 CIVIC SQUARE ACT 2608  
 _Phone:_ +61 2 6205 0480  
-_Email:_ [webmaster@www.act.gov.au](mailto:webmaster@www.act.gov.au)   
+_Email:_ [webmaster@act.gov.au](mailto:webmaster@www.act.gov.au)   
 
