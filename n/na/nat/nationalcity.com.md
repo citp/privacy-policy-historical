@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623171413id_/http%3A//www.nationalcity.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcity.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215113806id_/http%3A//www.nationalcity.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Notice - About National City - National City Corporation
 
@@ -39,6 +39,17 @@
 |  |  |  |   
 ---  
 The basis of each customer relationship at National City is built on trust. You have chosen to do business with National City, and we guard that relationship with great care, beginning with the information you have chosen to share with us.   
+   
+Jump to ...  
+Overview  
+Information we collect  
+Security procedures  
+Information we disclose  
+Fair Credit Reporting Act Disclosure   
+|  | National City's Pledge  
+Effective date and changes  
+National City companies  
+Frequently asked questions  
 |  |   
 ---|---  
 |   
@@ -47,36 +58,35 @@ The basis of each customer relationship at National City is built on trust. You 
 |  |  | [Learn more ](http://www.nationalcity.com/about/termsandconditions.asp) |   
 |  |  |  |   
 |   
+|   
+---|---  
+|   
+|  |  | Email fraud: Phishing scams |  |   
+|  |  | Learn how to avoid becoming a victim of bogus emails. |   
+|  |  | [Learn more ](https://web.archive.org/web/20041215113806id_/http%3A//www.nationalcity.com/personal/onlineservices/onlinebanking/FinancialIdentity/Default.asp) |   
+|  |  |  |   
+|   
 |  |  |  |   
 ---|---  
-| Jump to ...  
-Overview  
-Information we collect  
-Security procedures  
-Information we disclose  
-Fair Credit Reporting Act Disclosure  
-National City's Pledge  
-National City companies  
-Frequently asked questions  
-|  |     
+|   
+|  |  OPT-OUT: We will not share your nonpublic personal information with others as defined below. National City, on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.   
 ---  
-OPT-OUT: We will not share your nonpublic personal information with others as defined below. National City, on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.   
    
 Overview  
   
 National City does not share information about you outside of our National City companies unless permitted by Title V of the Gramm-Leach-Bliley Act of 1999 and other applicable laws and regulations.
 
-National City Corporation, its family of financial services companies (“affiliates”) and employees, are dedicated to protecting the privacy of your nonpublic personal information. We maintain information about you in order to provide you with the most effective and convenient access to our broad range of financial products and services. We want you to understand what information we collect, and how we use and store protect it. This notice serves as a standard for all National City employees for collection, use, retention and security of nonpublic personal consumer information.   
+National City Corporation, its family of financial services companies (“affiliates”) and employees, are dedicated to protecting the privacy of your nonpublic personal information. We maintain information about you in order to provide you with the most effective and convenient access to our broad range of financial products and services. We want you to understand what information we collect, and how we use and protect it. This notice serves as a standard for all National City employees for collection, use, retention and security of nonpublic personal consumer information.   
   
 Information we collect  
   
-“Nonpublic personal information” is information about you that we obtain in connection with providing a financial product or service. Such information includes for example, account balance, income , assets, insurance premiums, payment history and overdraft history. 
+“Nonpublic personal information” is information about you that we obtain in connection with providing a financial product or service. Such information includes for example, account balance, income, assets, insurance premiums, payment history and overdraft history. 
 
 We may collect nonpublic personal information about you from the following sources: 
 
-  * Information that you provide to us, such as on applications or other forms Applications or forms you fill out in relation to your financial accounts 
-  * Information about your transactions with us, our affiliates or others, and/or 
-  * Information from others, such as credit bureaus, real estate appraisers, and employers Third parties such as credit bureaus. 
+  * Information that you provide to us, such as on applications or other forms 
+  * Information about your transactions with us, our affiliates or others, or 
+  * Information from others, such as credit bureaus, real estate appraisers, and employers
 
   
    
@@ -106,13 +116,21 @@ National City’s Pledge to You
 We believe that your privacy should never be compromised. At the same time, we want to offer you the array of financial products and services you need to accomplish your financial goals. We believe we can do both by adhering to the provisions of this privacy notice.   
 Back to top  
    
-National City companies  
-National City Bank, National City Bank of Kentucky, Churchill Insurance Agency, Inc., National City Insurance Agency of Kentucky, Inc., NatCity Investments, Inc., National City Bank of Pennsylvania, National City Insurance Agency of Pennsylvania, Inc., National City Bank of Southern Indiana, Sterling Private Investments, Inc., National City Bank of Indiana, National City Mortgage Co., National City Home Loan Services, Inc., First Franklin Financial Corporation, The Madison Bank & Trust Company, National City Bank of the Midwest, Allegiant Insurance Services, Allegiant Investment Counselors, NatCity Insurance Services, Inc., National City Insurance Group, Inc., National City Investment Management Company®, National City Mortgage Services Co., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC  
+Effective date and changes  
+The effective date of this Privacy Notice is provided below. Any updates or changes to the Notice will be posted on this web site. Consumers who are National City customers will be notified of updates and changes in accordance with federal law.  
 Back to top  
    
-*Vermont Residents Only: In Vermont the information we disclose under joint marketing agreements must be limited to your name, contact information, and information about our own transactions and experiences with you. Your consent is required before we can share certain credit information about you with our affiliates. We are permitted to share information which is not a credit report under Vermont law without your consent, such as information related solely to our transactions and experiences with you.  
+National City companies  
+  
+National City Bank, National City Bank of Kentucky, Inc., National City Insurance Agency of Kentucky, Inc., NatCity Investments, Inc., National City Bank of Pennsylvania, National City Insurance Agency of Pennsylvania, Inc., National City Bank of Southern Indiana, Sterling Private Investments, Inc., National City Bank of Indiana, National City Mortgage Co., National City Home Loan Services, Inc., First Franklin Financial Corporation, The Madison Bank & Trust Company, National City Bank of the Midwest, Allegiant Insurance Services, Allegiant Investment Counselors, Inc., Allegiant Investment Company, NatCity Insurance Services, Inc., National City Insurance Group, Inc., National City Investment Management Company®, National City Mortgage Services Co., Alliance Title Agency, LLC, New England Trust Company, N.A., National City Abstract, LLC, Access Financial Corp., Red Capital Markets, Inc., Capstone Realty Advisers, LLC, Provident Auto Leasing Company, Provident Auto Rental Company, LLC, NatCity Trust Company of Delaware   
+  
+   
+*Vermont Residents Only: In Vermont the information we disclose under joint marketing agreements must be limited to your name, contact information, and information about our own transactions and experiences with you. Your consent is required before we can share certain credit information about you with our affiliates. We are permitted to share information which is not a credit report under Vermont law without your consent, such as information related solely to our transactions and experiences with you. 
+
+**California Residents:** We will not disclose or share information about California residents without first providing you with a California Privacy Notice and honoring your choice unless such sharing or disclosure is permitted by applicable law.  
 Back to top  
-(rev 6/2004)  
+  
+(rev 12/2004)  
    
 **Frequently Asked Questions**  
   
@@ -189,9 +207,8 @@ Back to top
 
 Please contact your National City representative, branch, office or call center if any of your information is incorrect or if any information changes, such as your name or address. National City will research your concern and make any necessary corrections.   
 Back to top  
-|  |   |   
+|  |  |   
 ---|---  
-|   
 | Identity theft information   
 |   
 |   
