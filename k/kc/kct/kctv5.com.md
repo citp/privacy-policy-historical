@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kctv5.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622143327id_/http%3A//www.kctv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kctv5.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206103900id_/http%3A//kctv5.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -41,7 +41,7 @@ Aggregated Information: We aggregate information on the user base for our site a
 
 Security and Passwords: The personally identifiable information we collect is stored within our controlled database and we use standard, industry-wide procedures, such as firewalls and SSL (Secure Socket Layers) for credit card information. As effective as our security measures may be, no data transmission over the Internet can be guaranteed complete security. When you register on our site, you will select a password. You will need your password to gain access to your personal information. 
 
-Terms of Use: Your use of this website is controlled by the [User Agreement ](https://web.archive.org/web/20000622143327id_/http%3A//www.kctv.com/usera.html). Please read them carefully before registering at our website. 
+Terms of Use: Your use of this website is controlled by the [User Agreement ](https://web.archive.org/web/20001206103900id_/http%3A//kctv5.com/usera.html). Please read them carefully before registering at our website. 
 
 Policy Statement Changes: We reserve the right to change our Privacy Policy from time to time without prior notice. 
 
