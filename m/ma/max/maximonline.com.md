@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximonline.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603223026id_/http%3A//www.maximonline.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximonline.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813111820id_/http%3A//www.maximonline.com/legal/privacy.html) for the most accurate reproduction.*
 
 # MAXIM ONLINE: Privacy Policy
 
@@ -38,7 +38,7 @@ In cyberspace, cookies are pieces of information that a Web site transfers to an
 
 Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you're at a site. The use of cookies is an industry standard -- you'll find them at most major Web sites.
 
-By showing how and when guests use the site, cookies help us see which areas are popular and which are not and help in targeting ads based guest interests. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies.
+By showing how and when guests use the site, cookies help us see which areas are popular and which are not and help in targeting ads based on guest interests. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies.
 
 A cookie lets the computers remember that you've registered, which allows us to speed up your future activities at our sites. Similarly, the stores hosted by us usually use a cookie to track which products you've chosen to purchase while shopping. Letting it do the record-keeping saves you the trouble of entering information over and over again. We never use cookies to retrieve information from your computer that was not originally sent in a cookie.
 
