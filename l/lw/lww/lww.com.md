@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624184637id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lww.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204165547id_/http%3A//www.lww.com/static/html/privacy.html) for the most accurate reproduction.*
 
-# Lippincott Williams & Wilkins Privacy Policy & Statement
+# Lippincott Williams & Wilkins Privacy Policy & Statement, permission marketing
 
 **LWW.com does not share or sell any individual's contact information, financial information, or unique identifiers to any advertiser or third party.**
 
@@ -53,11 +53,11 @@ LWW.com often contains **links** to other web sites. Lippincott Williams & Wilki
 
 LWW.com has **security** measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
+Sincerely,
 
 _Marc Bouchard  
 Associate Director, Internet Sales & Marketing  
 Lippincott Williams & Wilkins  
-__[mbouchar@lww.com](mailto:mbouchar@lww.com) _
+_
 
 __
