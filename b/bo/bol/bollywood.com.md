@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2001-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010417121811id_/http%3A//www.bollywood.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207012429id_/http%3A//www.bollywood.com/content/privacy.html) for the most accurate reproduction.*
 
-# Bollywood.com Forums - Important Privacy Notice
+# Bollywood.com Forums - Privacy Notice
 
-**Privacy Statement & Terms of Use**
+**Privacy Statement & Terms of Service**
 
-**Terms of Use**
+**Terms of Service**
 
-Registered and New users: Please read this notice before using our site. By using the site, you agree to abide by these Terms of Use. Please do not use our site if you do not agree with the Terms of Use outlined below. We reserve the right to modify the Terms of Use at its sole discretion, and by using this site, you agree to be bound by the modifications or updates to the Terms of Use.
+Registered and New users: Please read this notice before using our site. By using the site, you agree to abide by these [Terms of Service](http://www.bollywood.com/content/tos.html) . Please do not use our site if you do not agree with the [Terms of Service](http://www.bollywood.com/content/tos.html). We reserve the right to modify the Terms of Service at our sole discretion, and by using this site, you agree to be bound by the modifications or updates to the [Terms of Service](http://www.bollywood.com/content/tos.html) .
 
 If you are aged 13 and under, click here for rules applicable to you. 
 
@@ -20,11 +20,13 @@ Generally, personal information is not collected from visitors to this website. 
 
 _Bulletin Board Registration_
 
+Update February 5, 2002: Registration for new users is currently disabled as we are updating software.
+
 We require a valid e-mail address for users who want to participate in the forums. This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise. At any time, you have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile.
 
 Also in the forum registration, you have the option of providing some additional information such as occupation, interests, and homepage URL. This information is made available to other bulletin board users to foster a sense of community. If you have any concerns about providing this information, simply leave the fields blank and your registration will still be processed.
 
-_IF YOU ARE 13 YEARS OF AGE OR YOUNGER_ and would like to participate in the Bollywood.com forums, you will need to print the [Parental Consent form](http://www.bollywood.com/cgi-bin/ubbmisc.cgi?action=showcoppaform) and have your parent or legal guardian sign it, scan it and email it to webmaster@bollywood.com, or mail it to Attn: K. C. Varshney, PO Box 9111, Brea, CA 92822-9111, prior to posting on the forums.
+_IF YOU ARE 13 YEARS OF AGE OR YOUNGER_ and would like to participate in the Bollywood.com forums, you will need to print the [Parental Consent form](http://www.bollywood.com/cgi-bin/ubb/ubbmisc.cgi?action=showcoppaform) and have your parent or legal guardian sign it, scan it and email it to webmaster@bollywood.com, or mail it to Attn: K. Varshney, PO Box 194, Beverly Hills, CA 90213-0194, prior to posting on the forums.
 
 _Cookies_
 
@@ -38,19 +40,21 @@ It’s important to be aware that when you voluntarily provide personal informat
 
 Our websites are targeted at a general adult audience. As required by law, the participation of younger users below age 13 is only allowed with their parents’ consent. We strongly recommend that users 13 and under refrain from offering any personal information either in their user profile or in the message boards themselves, and we encourage parents to stay involved in the online life of their children.
 
-Please view a copy of the [parental permission form](http://www.bollywood.com/cgi-bin/ubbmisc.cgi?action=showcoppaform). Prior to a child’s registration on the bulletin board, this form must be printed, signed by the child’s parent or legal guardian and scanned and emailed to webmaster@bollywood.com or a print copy should be mailed to the following address: Attn: K. Varshney, PO Box 9111, Brea, CA 92822-9111, USA.
+Update February 5, 2002: Registation for new users is currently disabled as we are updating software.
+
+Please view a copy of the [parental permission form](http://www.bollywood.com/cgi-bin/ubb/ubbmisc.cgi?action=showcoppaform). Prior to a child’s registration on the bulletin board, this form must be printed, signed by the child’s parent or legal guardian and scanned and emailed to webmaster@bollywood.com or a print copy should be mailed to the following address: Attn: K. Varshney, PO Box 194, Beverly Hills, CA 90213-0194, USA.
 
 We are prohibited from conditioning a child’s participation in an activity on the child’s disclosing more personal information than is reasonably necessary to participate in such activity.
 
 Parents can review and request deletion of their child’s personal information, and can refuse to permit further collection or use of their child’s information. In order to request such a review, to revoke previously offered parental consent, or to express any concerns regarding a child’s privacy on our website, please send a signed written request to:
 
-**Attn: K. Varshney, PO Box 9111  
-Brea, CA 92822-9111. USA.**
+Attn: K. Varshney, PO Box 194  
+Beverly Hills, CA 90213-0194. USA.
 
 **Changing or Updating Personal Information**
 
-If you would like to update or change your user profile on the Bollywood.com Forums, just click [here](http://www.bollywood.com/cgi-bin/ubbmisc.cgi?action=editbio&Browser=&DaysPrune=20&LastLogin=).
+If you would like to update or change your user profile on the Bollywood.com Forums, just click [here](http://www.bollywood.com/forums) and select "USER CP".
 
-If you have questions regarding your information, you can contact our **Privacy Administrator** at [privacy@bollywood.com](mailto:privacy@infopop.com).
+If you have questions regarding your information, you can contact our **Privacy Administrator** at [privacy@bollywood.com](mailto:privacy@bollywood.com).
 
 [HOME](http://www.bollywood.com/)
