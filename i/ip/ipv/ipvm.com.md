@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipvm.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212070858id_/http%3A//www.redwire.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipvm.com privacy policy that was archived on 2005-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050321093737id_/http%3A//www.redwire.net/privacy) for the most accurate reproduction.*
 
 # RedWire Broadband - Southern California's Onsite Broadband Provider
 
