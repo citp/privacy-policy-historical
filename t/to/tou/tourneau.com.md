@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801143627id_/http%3A//www.tourneau.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourneau.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630192224id_/http%3A//tourneau.com/privacy-security.html) for the most accurate reproduction.*
 
 # Tourneau | Privacy and Security Policy
 
@@ -76,7 +76,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the option to stop receiving future communications by stating which communications are to be stopped and:
 
-  1. Sending email to [ehelp@tourneau.com](mailto:ehelp@tourneau.com) or 
+  1. Sending email to [pdeleon@tourneau.com](mailto:pdeleon@tourneau.com) or 
 
   2. Sending mail to the following postal address:
 
@@ -114,7 +114,7 @@ How To Contact Us
 
 **
 
-If you have any questions about this privacy policy, the practices of this web site or your dealings with this web site, you can call us at 800.348.3332; e-mail us at ehelp@tourneau.com or write to us at:
+If you have any questions about this privacy policy, the practices of this web site or your dealings with this web site, you can call us at 800.348.3332; e-mail us at pdeleon@tourneau.com or write to us at:
 
 Tourneau  
 3 East 54th Street — 3rd Floor  
