@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211222346id_/http%3A//www.vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dbusiness%26hd%3Dbusabout_vodafone%26st%3Dbuslegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628073809id_/http%3A//www.vodafone.com.au/rep/about/legal/privacy_policy.jsp%3Fgs%3Dbusiness%26hd%3Dbusabout_vodafone%26st%3Dbuslegal) for the most accurate reproduction.*
 
 # About Us > Legal > Privacy Policy
 
 |  |   
 ---  
 |   
+| Ask Us a Question  
+| [View My Bill](https://www.myvodafone.com.au/knox/login_handler.jsp?pcode=mybill&url=https%3A%2F%2Fmyaccount.vodafone.com.au%2Fservlet%2Fvodafone.ocsb.commsModule%3Fop%3Dcheck_auth)  
 | Contact Us  
 |  [Coverage](https://web.archive.org/rep/coverage.jsp?gs=business&hd=buscoverage)  
-| [Business Choice](https://web.archive.org/business/mobiles/business_choice.jsp?gs=business&hd=business_mobiles&st=busplan)  
-| [GPRS Data Plans](https://web.archive.org/business/mobiles/gprs.jsp?gs=business&hd=business_mobiles&st=busplan)  
+| [GPRS Data Plans](https://web.archive.org/business/mobiles/gprsdata.jsp?gs=business&hd=business_mobiles&st=busplan)  
 | [ GPRS Solutions](https://web.archive.org/rep/gprs.jsp?gs=business&hd=business_services&st=data_soln&ss=business_gprs)  
 | Wireless Share Trading  
 | [TXT](https://web.archive.org/rep/txt/txt.jsp?gs=business&hd=business_services&st=msg_soln&ss=business_text_messages)  
 | Mobile & PDA Set-up  
-| Ask Us a Question  
 |  | 
 
 ### Your Privacy  
@@ -74,7 +74,5 @@ If you have any queries or concerns, please contact Customer Care by phoning con
 | 
 
 [](https://web.archive.org/rep/123.jsp?gs=business&hd=business_services)
-
-[](https://web.archive.org/rep/mclub/mclub.jsp?gs=business&hd=business_services&st=msg_soln&ss=business_text_messages)
 
 | 
