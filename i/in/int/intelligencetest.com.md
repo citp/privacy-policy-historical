@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017031133id_/http%3A//www.intelligencetest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603221838id_/http%3A//intelligencetest.com/privacy.htm) for the most accurate reproduction.*
 
-# iq test labs - privacy policy
+# IQ Test Labs - free online testing.
 
-**  
-** **IQ Test Labs** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: IQ Test Labs.
+IQ Test Labs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website:
 
+http://www.IntelligenceTest.com
+
+  
 Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
 This site contains links to other sites. IQ Test Labs is not responsible for the privacy practices or the content of such Web sites.
@@ -15,18 +17,15 @@ Our online surveys ask visitors for contact information (like their email addres
 
 We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-**Public Forums**  
-Our site makes or will make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Public Forums  
+Our site makes or will make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This can be achieved in two ways. Either wait for the first communication from us and look for the instructions to opt-out or use this 
+Choice/Opt-Out  
+Our site provides users the opportunity to opt-out of receiving communications from us.  
+This can be achieved by following the instructions to opt-out which will be placed in our communications.
 
-**[contact form](http://www.intelligencetest.com/contact.htm) **if you wish to opt-out now.
+Correct/Update  
+This site gives users the option for changing and modifying information previously provided. Use this [contact form](http://www.intelligencetest.com/contact.htm) if you wish to change any of the information which you have previously given us.
 
   
-**Correct/Update**  
-This site gives users the option for changing and modifying information previously provided. Use this  **[contact form](http://www.intelligencetest.com/contact.htm) **if you wish to change any of the information which you have previously given us.
-
- **Contacting us regarding our privacy policy  
-**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use this  **[contact form](http://www.intelligencetest.com/contact.htm).**
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use this [contact form](http://www.intelligencetest.com/contact.htm).
