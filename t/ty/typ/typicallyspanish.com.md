@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611095351id_/http%3A//typicallyspanish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typicallyspanish.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208040822id_/http%3A//www.typicallyspanish.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Typically Spanish.com
 
@@ -89,4 +89,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ info@typicallyspanish.com](mailto:info@typicallyspanish.com)
 
   
-[](http://www.typicallyspanish.com/cgi-bin/tclick.cgi?grp=outsidedirectorypages&pg=3754)| 
+[](http://www.typicallyspanish.com/cgi-bin/tclick.cgi?grp=outsidedirectorypages&pg=4540)| 
