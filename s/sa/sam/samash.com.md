@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085059id_/http%3A//www.samash.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603150537id_/http%3A//www.samash.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Sam Ash 1-800-4-SAMASH
 
