@@ -1,69 +1,11 @@
-> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2000-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001009061442id_/http%3A//www.wenworld.com/Contactus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404233450id_/http%3A//www.wenworld.com/Contactus/privacy.html) for the most accurate reproduction.*
 
-# Wenatchee World Online Copyright notice
+# Wenatchee World Online
 
-[](http://www.wenworld.com/home.html)
-
-**Local news**  
-[Top Stories](http://www.wenworld.com/news/newsindex.html)  
-[Sports](http://www.wenworld.com/news/sportsindex.html)  
-[Features](http://www.wenworld.com/news/features/index.html)  
-[Business](http://www.wenworld.com/news/business/index.html)  
-[Opinion](http://www.wenworld.com/news/opinion/index.html)  
-[Obituaries](http://www.wenworld.com/obits/index.html)  
-[Weather](http://www.rainorshine.com/wenatchee/index.ssf?$$ZIPCITY=98801)  
-[News of record](http://www.wenworld.com/news/norindex.html)  
+[](http://www.wenworld.com/home.html)  
 
 
-**Recreation**  
-[Golf](http://www.wenworld.com/recreation/golf/index.html)  
-[Hiking, Etc.](http://www.wenworld.com/recreation/hiking/index.html)  
-[National parks](http://www.wenworld.com/recreation/camping/natparks.html)  
-[State parks](http://www.wenworld.com/recreation/camping/stparks.html)  
-[Skiing](http://www.wenworld.com/recreation/skiing/index.html)  
-[Rec calendar](http://www.wenworld.com/recreation/calendar.html)
-
-**A & E**  
-[Movies](http://www.wenworld.com/arts/movies/index.html)  
-[Restaurants](http://www.wenworld.com/arts/restaurants/index.html)  
-[Local events](http://www.wenworld.com/arts/artsetc.html)  
-[TV listings](http://www.clicktv.com/index.ASP?cid=F4J)  
-[A & E calendar](http://www.wenworld.com/arts/calendar.html)
-
-**Community**  
-[Virtual tour](http://www.wenworld.com/community/tour/index.html)  
-[Build a web page](http://www.wenatchee.net/wenworld/usbin/userpriv.usm?userlogin=t)  
-[Browse local pages](http://www.wenatchee.net/wenworld/usbin/SiteCreator.usm?ReqObject=category&ReqAction=browse)  
-[Forums](http://www.wenatchee.net/wenworld/usbin/Forums.usm?ReqObject=topic&ReqAction=browse)  
-[Transportation](http://www.wenworld.com/community/transportation/index.html)  
-[Lodging](http://www.wenworld.com/community/lodging.html)  
-[Special directories](http://www.wenworld.com/community/directories/index.html)  
-[Services in NCW](http://www.wenworld.com/community/services/index.html)
-
-**Classifieds**  
-[Classified ads](http://www.wenworld.com/classindex/classifieds.html)  
-[HomeFinder](http://www.wenworld.com/homefinder/hf.html)  
-[Personals](http://www.date-finder.com/wenatchee)  
-[Coupons](http://www.wenworld.com/coupons/index.html)
-
-**WebCams**  
-[Local webcams](http://www.wenworld.com/webcam/webcam.html)
-
-**Hobbies & Fun**  
-[Genealogy](http://www.wenworld.com/fun/genealogy/index.html)  
-[Headbone Zone](http://hbz.wenworld.com/)  
-[Pet of the week](http://www.wenworld.com/Pet/pet.html)  
-
-
-**Contact Us**  
-[World Online](http://www.wenworld.com/contactus/online.html)  
-[Wenatchee World](http://www.wenworld.com/contactus/staff.html)  
-[Resources for teachers](http://www.wenworld.com/contactus/nie/index.html)
-
-**Our Partners**  
-[Our Partners](http://www.wenworld.com/partners/index.html)
-
-|  |  [](http://www.wenworld.com/arts/movies/index.html)
+|  |  [](http://www.wenworld.com/webcam/webcam.html)
 
   
 | 
@@ -135,33 +77,33 @@ The Wenatchee World, publisher of The World Online, has a firm commitment to pri
 |   |   |   | 
 
 **Wenatchee World online forms**  
-[Subscribe to The World](http://www.wenworld.com/Contactus/subscribe2.html)  
-[Place a classified](http://www.wenworld.com/Contactus/classform.html)  
-[Letter to the editor](http://www.wenworld.com/Contactus/safetyvalve.html)  
-[Engagement](http://www.wenworld.com/Contactus/engagement.html)  
-[Wedding](http://www.wenworld.com/Contactus/wedding.html)  
-[Anniversary](http://www.wenworld.com/Contactus/anniversary.html)  
-[Business news](http://www.wenworld.com/Contactus/biznews.html)  
-[Baseball](http://www.wenworld.com/Contactus/baseball.html)  
-[Bowling](http://www.wenworld.com/Contactus/bowling.html)  
+[Subscribe to The World](https://web.archive.org/Contactus/subscribe2.html)  
+[Place a classified](https://web.archive.org/Contactus/classform.html)  
+[Letter to the editor](https://web.archive.org/Contactus/safetyvalve.html)  
+[Engagement](https://web.archive.org/Contactus/engagement.html)  
+[Wedding](https://web.archive.org/Contactus/wedding.html)  
+[Anniversary](https://web.archive.org/Contactus/anniversary.html)  
+[Business news](https://web.archive.org/Contactus/biznews.html)  
+[Baseball](https://web.archive.org/Contactus/baseball.html)  
+[Bowling](https://web.archive.org/Contactus/bowling.html)  
 
 
 * * *
 
-[**Feedback form**](http://www.wenworld.com/Contactus/comment.html)  
+[**Feedback form**](https://web.archive.org/Contactus/comment.html)  
 
 
 * * *
 
-**[How to find us](http://www.wenworld.com/Contactus/findus.html)**  
+**[How to find us](https://web.archive.org/Contactus/findus.html)**  
 
 
 * * *
 
 **[Online banner  
-ad rates](http://www.wenworld.com/Contactus/adrates.html)**
+ad rates](https://web.archive.org/Contactus/adrates.html)**
 
-[](http://www.wenatchee.net/wenworld/usbin/userpriv.usm?userlogin=t)  
+[](http://206.29.196.122/wenworld/usbin/userpriv.usm?userlogin=t)  
   
 ---|---|---|---|---  
   
@@ -169,8 +111,7 @@ ad rates](http://www.wenworld.com/Contactus/adrates.html)**
 
 * * *
 
-[Home](http://www.wenworld.com/Home.html) | [Classifieds](http://www.wenworld.com/classindex/classifieds.html) | [Obituaries](http://www.wenworld.com/obits/index.html) | [Weather](http://www.rainorshine.com/wenatchee/index.ssf?$$ZIPCITY=98801) | [Local news](http://www.wenworld.com/news/newsindex.html) | [Local sports](http://www.wenworld.com/news/sportsindex.html) | [Build your own website](http://www.wenatchee.net/wenworld/usbin/userpriv.usm?userlogin=t)   
-[Movies](http://www.wenworld.com/arts/movies/index.html) | [WebCams](http://www.wenworld.com/WebCam/WebCam.html) | [Kid's Stuff](http://hbz.wenworld.com/) | [Contact Us](http://www.wenworld.com/contactus/staff.html) | [Homefinder](http://www.wenworld.com/homefinder/hf.html) © [Copyright](http://www.wenworld.com/Contactus/copyright.html) 2000 The Wenatchee World  
+[Home](https://web.archive.org/Home.html) | [Classifieds](https://web.archive.org/classindex/classifieds.html) | [Obituaries](https://web.archive.org/obits/index.html) | [Weather](http://www.rainorshine.com/wenatchee/index.ssf?$$ZIPCITY=98801) | [Local news](https://web.archive.org/news/newsindex.html) | [Local sports](https://web.archive.org/news/sportsindex.html) | [Build your own website](http://206.29.196.122/wenworld/usbin/userpriv.usm?userlogin=t) | [Movies](https://web.archive.org/arts/movies/index.html) | [WebCams](https://web.archive.org/WebCam/WebCam.html) | [Kid's Stuff](http://hbz.wenworld.com/) | [Contact Us](https://web.archive.org/contactus/staff.html) | [Homefinder](https://web.archive.org/homefinder/hf.html) © [Copyright](https://web.archive.org/Contactus/copyright.html) 2001 The Wenatchee World  
 P.O. Box 1511, Wenatchee, WA 98807-1511  
-[User agreement](http://www.wenworld.com/Contactus/user.html) | [Privacy policy](http://www.wenworld.com/Contactus/privacy.html) | [Advertising](http://www.wenworld.com/Contactus/advertising.html)  
-Send [comments](http://www.wenworld.com/contactus/Comment.html) or questions about www.wenworld.com to the [webmaster](mailto:webmaster@wenworld.com)
+[User agreement](https://web.archive.org/Contactus/user.html) | [Privacy policy](https://web.archive.org/Contactus/privacy.html) | [Advertising](https://web.archive.org/Contactus/advertising.html)  
+Send [comments](https://web.archive.org/contactus/Comment.html) or questions about wenworld.com to the [webmaster](mailto:webmaster@wenworld.com)
