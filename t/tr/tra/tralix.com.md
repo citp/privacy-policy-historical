@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tralix.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207171331id_/http%3A//www.tralix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tralix.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417154555id_/http%3A//www.tralix.com/privacy.html) for the most accurate reproduction.*
 
 # - Tralix, way beyond email
 
