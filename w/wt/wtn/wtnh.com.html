@@ -1,0 +1,654 @@
+<!--The following is the downloaded HTML source of the wtnh.com privacy policy that was archived on 2000-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001203175800id_/http%3A//www.wtnh.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.-->
+
+<html><head>
+<title>This Station’s Privacy Policy</title>
+<script language="Javascript">
+<!--
+
+if (document.images) {
+
+		var menu1_off = new Image();
+		menu1_off.src = "/images/static/nav/home_hm_off.gif";
+
+		var menu1_on = new Image();
+		menu1_on.src = "/images/static/nav/home_hm_on.gif";
+	
+		var menu2_off = new Image();
+		menu2_off.src = "/images/static/nav/news_hm_off.gif";
+
+		var menu2_on = new Image();
+		menu2_on.src = "/images/static/nav/news_hm_on.gif";
+	
+		var menu3_off = new Image();
+		menu3_off.src = "/images/static/nav/weather_hm_off.gif";
+
+		var menu3_on = new Image();
+		menu3_on.src = "/images/static/nav/weather_hm_on.gif";
+	
+		var menu4_off = new Image();
+		menu4_off.src = "/images/static/nav/sports_hm_off.gif";
+
+		var menu4_on = new Image();
+		menu4_on.src = "/images/static/nav/sports_hm_on.gif";
+	
+		var menu5_off = new Image();
+		menu5_off.src = "/images/static/nav/health_hm_off.gif";
+
+		var menu5_on = new Image();
+		menu5_on.src = "/images/static/nav/health_hm_on.gif";
+	
+		var menu6_off = new Image();
+		menu6_off.src = "/images/static/nav/entertain_hm_off.gif";
+
+		var menu6_on = new Image();
+		menu6_on.src = "/images/static/nav/entertain_hm_on.gif";
+	
+		var menu7_off = new Image();
+		menu7_off.src = "/images/static/nav/community_hm_off.gif";
+
+		var menu7_on = new Image();
+		menu7_on.src = "/images/static/nav/community_hm_on.gif";
+	
+		var menu8_off = new Image();
+		menu8_off.src = "/images/static/nav/tvsched_hm_off.gif";
+
+		var menu8_on = new Image();
+		menu8_on.src = "/images/static/nav/tvsched_hm_on.gif";
+	
+		var menu9_off = new Image();
+		menu9_off.src = "/images/static/nav/contests_hm_off.gif";
+
+		var menu9_on = new Image();
+		menu9_on.src = "/images/static/nav/contests_hm_on.gif";
+	
+		var menu10_off = new Image();
+		menu10_off.src = "/images/static/nav/inside8_hm_off.gif";
+
+		var menu10_on = new Image();
+		menu10_on.src = "/images/static/nav/inside8_hm_on.gif";
+	
+		var menu11_off = new Image();
+		menu11_off.src = "/images/static/nav/advert_hm_off.gif";
+
+		var menu11_on = new Image();
+		menu11_on.src = "/images/static/nav/advert_hm_on.gif";
+	}
+
+function hot ( imgName ) {
+ if (document.images)
+ document.images[imgName].src = eval ( imgName + '_on.src');
+ return true;
+}
+
+function cold ( imgName ) {
+ if (document.images)
+ document.images[imgName].src = eval ( imgName + '_off.src');
+ return true;
+}
+
+function goTo () {
+	var url = window.document.formNav.menuNews.options[document.formNav.menuNews.selectedIndex].value;
+	self.location = url;
+}
+
+var URLPOS = 0, NAMEPOS = 1, PROPERTYPOS = 2;
+
+function OpenWin(props)
+{
+	var lsProperties, myWin, lsURLPrefix;
+
+	if ( props.split )
+		lsProperties = props.split( "|" );
+	else
+		lsProperties = OldBrowserSplit( props, "|" );
+
+	if ( lsProperties[URLPOS] != null )
+	{
+		if ( lsProperties[NAMEPOS] == null )
+			lsProperties[NAMEPOS] = "";
+
+		if ( lsProperties[PROPERTYPOS] == null )
+			lsProperties[PROPERTYPOS] = "";
+
+		lsURLPrefix = ""
+		if ( lsProperties[URLPOS].substring( 0, 3 ) != "http" )
+		{
+			if (lsProperties[URLPOS].substring( 0, 1 ) != "/" )
+				lsURLPrefix = "http://";
+		}
+
+		myWin = window.open( lsURLPrefix + lsProperties[URLPOS], lsProperties[NAMEPOS], lsProperties[PROPERTYPOS] );
+	}
+}
+
+function OldBrowserSplit( OrigStr, tok )
+{
+	var it = new Array();
+	var counter = 0, cur = 0, prev = 0;
+	var str = OrigStr;
+
+	cur = str.indexOf( tok, prev );
+	while ( cur != -1 )
+	{
+		it[counter] = str.substring( prev, cur );
+		counter += 1;
+		str = str.substring(cur+1);
+		prev = 0;
+		cur = str.indexOf( tok );
+	}
+	it[counter] = str.substring(prev);
+	return it;
+}
+
+
+// check advanced search box
+
+function doit()
+{
+	if ( document.SearchForm.qu.value.length < 4 )
+	{
+		alert("You must enter a phrase to search for with at least 4 characters!");
+		return false;
+	}
+}
+
+// Writes query string for on demand video clips
+function playVideoClip( intClipID, intShowCC, strTargetAdsTag )
+{
+	selectVideoPlayer( "ClipID=" + intClipID + "&ShowCC=" + intShowCC
+			 + "&TargetAdsTag=" + escape(strTargetAdsTag), intShowCC );
+}
+
+// Writes query string for live streaming video
+function playLiveVideo( strLiveURI, strTargetAdsTag )
+{
+	selectVideoPlayer( "LiveURI=" + escape(strLiveURI) + "&ShowCC=0"
+			 + "&TargetAdsTag=" + escape(strTargetAdsTag), 0 );
+}
+
+// Launches appropriate player for video
+function selectVideoPlayer( strQueryString, intShowCC )
+{
+	var winPopup;
+	var intWidth;
+	var intHeight;
+	var strBrowser;
+	var intVersion;
+	var strUserAgent;
+
+	//Determine current browser details
+	strBrowser = navigator.appName;
+	strUserAgent = navigator.userAgent;
+	intVersion = parseInt( navigator.appVersion );
+
+	//Only launch popup player for Nav 4+ and IE 4+ on Windows
+	if( ( (strBrowser == "Netscape") || (strBrowser == "Microsoft Internet Explorer") )
+		&& ((strUserAgent.indexOf( "Win" ) >= 0) && (intVersion >= 4)) )
+	{
+		//Determine dimensions for player
+		if( intShowCC == 0 ) intHeight = 334;
+		else intHeight = 426;
+		intWidth = 582;
+
+		winPopup = window.open( "/global/video/popup/pop_index.asp?"
+					  + strQueryString, "popupPlayer", "width=" + intWidth
+					  + ",height=" + intHeight + ",resizable=no" );
+		winPopup.focus();
+	}
+	else
+	{
+		//For all other browsers launch native player directly
+		location.href = "/global/video/WorldNowASX.asp?" + strQueryString;
+	}
+}
+
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" marginwidth="1" marginheight="1" leftmargin="1" topmargin="1">
+<!-- WIDTH 742 -->
+<!-- ROW 1 , OPENING PIXELS DELINIATE THE COLUMNS FOR THE ENTIRE TABLE BELOW -->
+<table border="0" height="100%" width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr valign="TOP" bgcolor="#FFFFFF">
+<td width="6"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="6" height="1" border="0"></td>
+<td width="126"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="126" height="1" border="0"></td>
+<td width="6"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="6" height="1" border="0"></td>
+<td width="100%"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="468" height="1" border="0"></td>
+<td width="6"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="6" height="1" border="0"></td>
+<td width="119"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="119" height="1" border="0"></td>
+<td width="5"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="5" height="1" border="0"></td>
+<td width="1"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="1" height="1" border="0"></td>
+<td width="5"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="5" height="1" border="0"></td>
+</tr>
+<!-- ROW 2 , BRANDING ROW BELOW -->
+<tr valign="TOP">
+<td colspan="9" width="100%">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr valign="TOP">
+<td rowspan="7" width="105" bgcolor="#FFFFFF"><img src="/images/static/branding/news8_logo.gif" alt="NEWS CHANNEL 8" width="105" height="90" border="0"></td><td rowspan="7" width="490"><img src="/images/static/branding/rw1_branding2_hm.gif" alt="NEWS CHANNEL 8" width="490" height="90" border="0"></td>
+<td width="100%" bgcolor="#FFFFFF"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="8" height="2" border="0"></td>
+<td rowspan="7" width="139" align="RIGHT" bgcolor="#FFFFFF">
+<table width="139" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="3" width="139"><img src="/images/static/branding/rw1_branding2_top_hm.gif" alt="" width="139" height="14" border="0"></td>
+</tr>
+<tr>
+<td width="9"><img src="/images/static/branding/rw1_branding2_lft_hm.gif" alt="" width="9" height="63" border="0"></td>
+<td width="119">
+<!-- ADD 199 X 63 UPPER RIGHT INFO GRAPHIC HERE -->
+<a href="/global/category.asp?c=1211"><img src="/images/2446_G.gif" alt="INFO" width="119" height="63" border="0"></a></td>
+<td width="11"><img src="/images/static/branding/rw1_branding2_rt_hm.gif" alt="" width="11" height="63" border="0"></td>
+</tr>
+<tr>
+<td colspan="3" width="139"><img src="/images/static/branding/rw1_branding2_btm_hm.gif" alt="" width="139" height="13" border="0"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#2259ED"><img src="/images/static/pxl/pxl_brandblu1_hm.gif" alt="" width="8" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#2452D7"><img src="/images/static/pxl/pxl_brandblu2_hm.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#1B46BF"><img src="/images/static/pxl/pxl_brandblu3_hm.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#163DAE"><img src="/images/static/pxl/pxl_brandblu_hm.gif" alt="" width="1" height="83" border="0"></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#A6BCE9"><img src="/images/static/pxl/pxl_ltblu1_hm.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#6E92DB"><img src="/images/static/pxl/pxl_ltblu2_hm.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<!-- ROW 3 , BRANDING ROW CONT BELOW, CONTAINS DATE SCRIPT -->
+<tr valign="TOP">
+<td colspan="8" width="100%">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td rowspan="6" valign="TOP" width="283" bgcolor="#FFFFFF"><img src="/images/static/branding/branding_row2_hm.gif" alt="" width="283" height="21" border="0"></td>
+<td width="100%" valign="MIDDLE" bgcolor="#557FD5" align="RIGHT"><!-- DATE -->
+<table width="453" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="1"><img src="/images/static/pxl/pxl_blu5_hm.gif" alt="" width="1" height="13" border="0"></td>
+<td width="452" align="RIGHT" valign="MIDDLE"><b><font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+<!-- -->December 3, 2000<!-- -->
+</font></b></td>
+</tr>
+</tbody></table></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#38548D"><img src="/images/static/pxl/pxl_blu6_hm.gif" alt="" width="453" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#162238"><img src="/images/static/pxl/pxl_blu7_hm.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#EEEEEE"><img src="/images/static/pxl/pxl_gry1_hm.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#E2E2E2"><img src="/images/static/pxl/pxl_gry2_hm.gif" alt="" width="1" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" valign="TOP" bgcolor="#CDCDCD"><img src="/images/static/pxl/pxl_gry3_hm.gif" alt="" width="1" height="4" border="0"></td>
+</tr>
+</tbody></table></td><td width="6" rowspan="2" valign="TOP" bgcolor="#100F82"><img src="/images/static/branding/branding2_row2_hm2.gif" alt="" width="6" height="48" border="0"></td>
+</tr>
+<!-- ROW 4 , BRANDING ROW CONT BELOW, CONTAINS SEARCH AND PULL DOWN -->
+<tr valign="TOP">
+<td width="6" bgcolor="#CAC9C9"><img src="/images/static/gfx/rw4_left_hm.gif" alt="" width="6" height="27" border="0"></td><td align="LEFT" width="100%" colspan="7" bgcolor="#CAC9C9"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#CAC9C9">
+<tbody><tr><form action="/Global/SearchResults.asp" method="GET" name="SimpleSearchForm"></form>
+<td width="101" valign="TOP" bgcolor="#CAC9C9"><img src="/images/static/branding/wtnh_hm.gif" alt="WTNH" width="101" height="22" border="0"></td>
+<td valign="MIDDLE" bgcolor="#CAC9C9"><input type="TEXT" size="10" name="qu">
+<input type="IMAGE" src="/images/static/btn/btn_search_hm.gif" alt="SEARCH" width="54" height="14" border="0"></td>
+<td align="CENTER"><a href="http://www.wtnh.com/global/category.asp?c=1199"><b><font face="Futura, Arial,Helvetica,Sans-Serif" color="#000000" size="1">
+<!-- -->FEEDBACK<!-- -->
+</font></b></a></td>
+<td align="CENTER"><a href="http://www.wtnh.com/global/category.asp?c=1200"><b><font face="Futura, Arial,Helvetica,Sans-Serif" color="#000000" size="1">
+<!-- -->CHAT &amp; FORUM<!-- -->
+</font></b></a></td>
+<td align="CENTER"><a href="http://www.wtnh.com/global/story.asp?s=27039"><b><font face="Futura, Arial,Helvetica,Sans-Serif" color="#000000" size="1">
+<!-- -->E-NEWS NOTIFIER<!-- -->
+</font></b></a></td>
+
+<td bgcolor="#CAC9C9"><!-- --> &nbsp;&nbsp;&nbsp;&nbsp;<!-- --></td>
+<form action="" method="POST" name="formNav"></form>
+<td valign="MIDDLE" bgcolor="#CAC9C9">
+<!-- NAVIGATE PULL DOWN BEGINS BELOW -->
+<select name="menuNews" size="1" onchange="goTo()">
+<option>
+<!-- --> &gt;&gt;<!-- --> Features</option>
+<option value="/global/category.asp?c=1241">
+Cool Stuff
+</option>
+<option value="/global/category.asp?c=1228">
+Pet of the Week
+</option>
+<option value="/global/category.asp?c=1326">
+Consumer Team 8
+</option>
+<option value="/global/category.asp?c=1242">
+Recipes
+</option>
+<option value="/global/category.asp?c=1234">
+Job Listings
+</option>
+<option value="/global/category.asp?c=1351">
+Biographies
+</option>
+<option value="/global/category.asp?c=1206">
+Travel
+</option>
+<option value="/global/category.asp?c=1205">
+Shopping
+</option>
+<option value="/global/category.asp?c=1204">
+Yellow Pages
+</option>
+<option value="/global/category.asp?c=1529">
+Connecticut Spotlight
+</option>
+</select></td></tr></tbody></table></td>
+</tr>
+<!-- ROW 5 -->
+<tr>
+<td colspan="9" width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td rowspan="9" width="138" bgcolor="#FFFFFF"><img src="/images/static/gfx/rw5_left_hm.gif" alt="" width="138" height="12" border="0"></td>
+<td width="100%" bgcolor="#979595"><img src="/images/static/pxl/pxl_rw5_0_hm.gif" alt="" width="468" height="2" border="0"></td>
+<td align="LEFT" rowspan="9" width="136" bgcolor="#FFFFFF"><img src="/images/static/gfx/rw5_right_hm.gif" alt="" width="136" height="12" border="0"></td>
+</tr>
+<tr>
+<td width="100%" bgcolor="#6C6B6B"><img src="/images/static/pxl/pxl_rw5_1_hm.gif" alt="" width="12" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" bgcolor="#373737"><img src="/images/static/pxl/pxl_rw5_3_hm.gif" alt="" width="12" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" bgcolor="#000000"><img src="/images/static/pxl/pxl_blk_hm.gif" alt="" width="12" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" bgcolor="#1E1DC7"><img src="/images/static/pxl/pxl_rw5_5_hm.gif" alt="" width="12" height="2" border="0"></td>
+</tr>
+<tr>
+<td width="100%" bgcolor="#201FEC"><img src="/images/static/pxl/pxl_rw5_6_hm.gif" alt="" width="12" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" bgcolor="#1919C8"><img src="/images/static/pxl/pxl_rw5_7_hm.gif" alt="" width="12" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" bgcolor="#10108D"><img src="/images/static/pxl/pxl_rw5_8_hm.gif" alt="" width="12" height="1" border="0"></td>
+</tr>
+<tr>
+<td width="100%" bgcolor="#08084B"><img src="/images/static/pxl/pxl_rw5_9_hm.gif" alt="" width="12" height="1" border="0"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<!-- ROW 6 MENU HERE -->
+<tr>
+<td rowspan="3" colspan="2" width="132" bgcolor="#6699CC" valign="TOP" align="CENTER">
+<table border="0" width="132" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="6" valign="BOTTOM" bgcolor="#1B1AC1"><img src="/images/static/gfx/menu_lft_hm.gif" alt="" width="6" height="179" border="0"></td>
+<td width="120" valign="TOP" bgcolor="#1E1DD5">
+<table border="0" width="120" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td valign="TOP">
+<a href="/default.asp" onmouseover="hot('menu1')" onmouseout="cold('menu1')"><img border="0" src="/images/static/nav/home_hm_off.gif" name="menu1"></a><br>
+<a href="/global/category.asp?c=1170" onmouseover="hot('menu2')" onmouseout="cold('menu2')"><img border="0" src="/images/static/nav/news_hm_off.gif" name="menu2"></a><br>
+<a href="/global/category.asp?c=1169" onmouseover="hot('menu3')" onmouseout="cold('menu3')"><img border="0" src="/images/static/nav/weather_hm_off.gif" name="menu3"></a><br>
+<a href="/global/category.asp?c=1193" onmouseover="hot('menu4')" onmouseout="cold('menu4')"><img border="0" src="/images/static/nav/sports_hm_off.gif" name="menu4"></a><br>
+<a href="/global/category.asp?c=1194" onmouseover="hot('menu5')" onmouseout="cold('menu5')"><img border="0" src="/images/static/nav/health_hm_off.gif" name="menu5"></a><br>
+<a href="/global/category.asp?c=1195" onmouseover="hot('menu6')" onmouseout="cold('menu6')"><img border="0" src="/images/static/nav/entertain_hm_off.gif" name="menu6"></a><br>
+<a href="/global/category.asp?c=1172" onmouseover="hot('menu7')" onmouseout="cold('menu7')"><img border="0" src="/images/static/nav/community_hm_off.gif" name="menu7"></a><br>
+<a href="/global/category.asp?c=1284" onmouseover="hot('menu8')" onmouseout="cold('menu8')"><img border="0" src="/images/static/nav/tvsched_hm_off.gif" name="menu8"></a><br>
+<a href="/global/category.asp?c=1196" onmouseover="hot('menu9')" onmouseout="cold('menu9')"><img border="0" src="/images/static/nav/contests_hm_off.gif" name="menu9"></a><br>
+<a href="/global/category.asp?c=1197" onmouseover="hot('menu10')" onmouseout="cold('menu10')"><img border="0" src="/images/static/nav/inside8_hm_off.gif" name="menu10"></a><br>
+<a href="/global/category.asp?c=1198" onmouseover="hot('menu11')" onmouseout="cold('menu11')"><img border="0" src="/images/static/nav/advert_hm_off.gif" name="menu11"></a><br>
+</td>
+</tr>
+</tbody></table>
+</td>
+<td width="6" valign="BOTTOM" bgcolor="#2523FB"><img src="/images/static/gfx/menu_rt_hm.gif" alt="" width="6" height="179" border="0"></td>
+</tr>
+<tr>
+<td width="132" colspan="3" bgcolor="#1B1AC1"><img src="/images/static/gfx/menu_btm_hm3.gif" alt="" width="132" height="14" border="0"></td>
+</tr>
+</tbody></table>
+<br>
+<!-- --><br><!-- -->
+<br>
+<!-- COLUMN ONE A -->
+</td>
+<!-- BLU LEFT TOP CURVE HERE -->
+<td rowspan="3" bgcolor="#FFFFFF" valign="TOP"><img src="/images/static/gfx/curve_topblu_hm.gif" alt="" width="6" height="17" border="0"></td>
+<!-- BIG NEWS STARTS HERE WITH 468 ADVERT -->
+<td width="100%" align="CENTER" valign="TOP">
+<!-- NEWS TABLE -->
+<table bgcolor="#FFFFFF" border="0" width="100%" cellspacing="3" cellpadding="0">
+<tbody><tr>
+<td valign="TOP">
+</td>
+</tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="6">
+<!-- DISPLAY STORY -->
+<tbody><tr>
+<td>
+<font face="Arial,Helvetica,Sans-Serif" size="2" color="#0000FF">
+<b><!-- -->This Station’s Privacy Policy<!-- --></b>
+</font><br>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr>
+<td valign="TOP" align="LEFT" width="50%">
+<!-- -->&nbsp;<!-- --></td>
+<td valign="MIDDLE" align="RIGHT" width="50%">
+<nobr><a href="javascript: var headline = escape(&quot;This Station’s Privacy Policy&quot;); OpenWin( '/Global/Create_Email_Story.asp?s=18990&amp;amp;Headline=' + headline +  '||width=635,height=400,toolbar=no,scrollbars=no')">
+<img src="/global/images/icon_email.gif" width="20" height="14" border="0" valign="BOTTOM"></a>
+<a href="javascript: var headline = escape(&quot;This Station’s Privacy Policy&quot;); OpenWin( '/Global/Create_Email_Story.asp?s=18990&amp;amp;Headline=' + headline +  '||width=635,height=400,toolbar=no,scrollbars=no')">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#111111">
+Email story to a friend
+							</font></a></nobr></td>
+</tr>
+</tbody></table>
+<font face="Arial,Helvetica,Sans-Serif" size="2" color="#111111">
+<!-- --><b><font face="Tahoma" size="5"></font></b>  <p align="justify"> This station provides a variety of online services, from   interactive entertainment to electronic commerce via its relationship with   WorldNow, Inc. ("WorldNow"). WorldNow is the host of the this station's site   (the "Web site"). Because the success of this station is dependent on building   and maintaining goodwill with our customers, this station and WorldNow   (hereinafter collectively referred to as "we" or "our") are committed to   implementing measures designed to protect the privacy of those using our   services. Moreover, we see it as our responsibility to set examples and help   establish the standards for privacy on the Internet.</p>  <p align="justify"></p>  <p align="justify">    Although we respect the privacy of all those who visit the Web   site and use our online services, we do collect information from our Web site's   members and visitors. This Privacy Policy governs your interaction with the Web   site, and your registration for and use of this station's online services.   Except as set forth within this Privacy Policy and this Web Site's Terms of   Service and/or other published guidelines, WorldNow does not release personally   identifiable information about this Web site's members and visitors without   their permission.</p>  <p align="justify"></p>  <p align="justify">  Please note that WorldNow reviews these privacy practices from   time to time, and that these practices are therefore subject to change. We ask   that you periodically review this page to ensure continuing familiarity with the   most current version of this Web site's Privacy Policy. To contact WorldNow   about privacy issues, to report a violation of this Web site's Privacy Policy,   or to raise any other issue regarding the Web site, please e-mail us at <font color="#0000ff"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></font>.</p><b><font size="5">  <p align="justify"><font size="4">The information we   gather</font>   </p></font></b>  <p align="justify"> WorldNow gathers two types of information about this Web site's   users:</p>  <p align="justify">(1) <b>Non-personally identifiable information:</b>  When   visitors come to the Web site, WorldNow collects and aggregates information   indicating, among other things, which pages were visited, the order in which   they were visited, and which hyperlinks were "clicked." Collecting such   information involves the logging of IP addresses, operating system and browser   software used by each visitor to the Web site. Although such information is not   personally identifiable, WorldNow can determine from the IP address a visitor's   Internet Service Provider and the geographic location of his or her point of   connectivity.</p>  <p align="justify"></p>  <p align="justify"> The non-personally identifiable information WorldNow collects   helps WorldNow diagnose problems with the WorldNow server, administer the Web   site, identify the most popular areas of the Web site, and determine the   effectiveness of WorldNow's promotional activities. In addition, WorldNow may   disclose some of this information to advertisers to inform them of the number of   people who have seen and/or clicked through their advertisements.</p>  <p align="justify"></p>  <p align="justify">     For the same purposes, WorldNow uses "cookies"---that   is, small text files placed on your computer's hard drive---to help WorldNow determine the   type of content and sites to which you link, the length of time you spend at any   particular area of the Web site, and your usage of WorldNow services offered via   the Web site. Cookies also tell WorldNow which advertising you have seen on the   Web site. WorldNow uses an outside advertising company to display advertisements   on the Web site which may contain cookies ("banner ads"). These banner ads   collect information stored by the advertising company and WorldNow does not have   access to this information.</p>  <p align="justify"></p>  <p align="justify">Essentially, cookies are your identification cards for the   WorldNow computers, or servers, that placed them there. Cookies are only read by   the server that placed them, and are unable to execute any code or virus.   Cookies allow WorldNow to serve you better and more efficiently, and to   personalize your experience at the Web site. Nevertheless, you should be able to   control how and whether cookies will be accepted by your web browser. For more   information on how to do so, please refer to the documentation accompanying your   browser.</p>  <p align="justify">(2) <b>Personally identifiable information:</b> In certain areas of the Web site, such as online   surveys and contests, the Web site requests---but does not require---that you   provide this station with personally identifiable information (including, for   example, zip code, age, income, and e-mail address, and when applicable, credit   card information). WorldNow, as host of the Web site, has access to this   information. In addition, when registering to set up an account to use certain   services of the Web site such as e-mail, chat rooms, and forums, or to receive   certain newsletters or specifically targeted information ("Services"), we do   require that you provide both your name and your current, valid e-mail address.</p><b>  <p align="justify"></p></b>  <p align="justify">WorldNow does not knowingly collect personally identifiable   information from children (defined herein as minors younger than 13 years of   age) without obtaining parental consent. Before registering for an account to   use the Services of the Web site, we ask that children have their parents read   our Privacy Policy. Before and during the registration process, we encourage   children to include a parent or guardian in the process.</p>  <p align="justify"></p>  <p align="justify"> WorldNow does not control the acts of this Web site's members   or visitors. All members and visitors should be aware that, when they disclose   personally identifiable information in a bulletin board, chat room, guestbook,   or other forum, the information may be collected and used by others to send that   person unsolicited e-mail from other parties outside this station or WorldNow.   In the event that you encounter any user from this station and WorldNow user who   is improperly collecting or using information about you or other users, please   contact <font color="#0000ff"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></font>.</p><b><font size="5">  <p align="justify"><font size="4">How we use (and do not use)   the information we gather</font>            </p></font></b>  <p align="justify">Please take some time to familiarize   yourself with the different ways WorldNow uses the information that it gathers.   Keep in mind that, while WorldNow encourages all third parties   involved---including its affiliates and advertisers---to adhere to WorldNow policies regarding the privacy of   this Web site's visitors and members and to otherwise handle personal   information in a responsible manner, we cannot and do not assume any   responsibility for any actions or omissions of third parties, including the   manner in which they use information received either from WorldNow or   independently. Nevertheless, in the event you encounter any third party   associated with, or who claims association with WorldNow who you feel is   improperly collecting or using information about you, please contact <font color="#0000ff"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></font>; WorldNow will be happy to forward your   message to the third party.</p>  <p align="justify">(1) <b>How we use (and do not use) non-personally identifiable   information:</b>  WorldNow uses non-personally identifiable information in   aggregate form to build higher quality, more useful online services by   performing statistical analyses of the collective characteristics and behavior   of the Web site's members and visitors, and by measuring demographics and   interests regarding specific areas of the Web site. WorldNow provides   statistical information based on this data to advertisers, affiliates, and other   current and potential business partners. WorldNow also uses the aggregate data   to inform these third parties as to the number of people who have seen and   clicked on links to their web sites.</p>  <p align="justify"></p>  <p align="justify">The Web site may contain links to other Internet web sites,   including co-branded or other affiliated sites which may or may not be owned or   operated by WorldNow. Unless otherwise explicitly stated, WorldNow is not   responsible for the privacy practices or the content of such web sites,   including such sites' use of any information (such as IP number, browser type,   or operating system) collected when visitors to the web site click through links   to those sites. Even though such information might not identify you personally,   we strongly encourage you to become familiar with the privacy practices of those   sites.</p>  <p align="justify">(2) <b>How we use (and do not use) personally identifiable   information:</b> WorldNow provides notice to potential registrants of this Web   site whose personally identifiable information will be collected during the   registration process. Such notice is provided simultaneously with your   registration with this website; moreover, this Privacy Policy itself serves as   notice that such information is collected under those circumstances. Although   you may not "opt out" of the registration process if you wish to have access to   Services, you may choose to "opt out" of receiving promotional materials from   WorldNow and/or its affiliates, advertisers, or other business partners. If you   do not "opt out" of receiving such promotional materials, WorldNow reserves the   right to release any personally identifiable registration information regarding   you to third parties who provide goods or services that we believe may be of   interest to you. WorldNow will not release your credit card information to third   parties unless necessary to complete a transaction between you and such a third   party. If you decide that you would like to discontinue receiving promotional   information from such third parties, please contact those third parties   directly, or contact WorldNow at <font color="#0000ff"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></font>.</p>  <p align="justify"></p>  <p align="justify">WorldNow limits its own e-mail contact and solicitations to   those customers who have not "opted out" of receiving such communications. The   solicitations are limited in that they, among other things, will clearly   indicate the originator of the e-mail and provide the customer with a method of   "opting out" of receiving future communications of a similar nature.</p>  <p align="justify"></p>  <p align="justify">  In addition, WorldNow sometimes uses individual data   to "target" advertising to decide which advertisements and sponsor messages to   show to which members. As an example, if Sponsor XYZ wishes to display their   advertising only to female members of this Web site, WorldNow uses member   registration data to ensure that Sponsor XYZ's ads are displayed only to female   members.</p>  <p align="justify"></p>  <p align="justify">  Finally, WorldNow may use individual members'   data to "pre-populate" forms which are displayed for the purpose   of collecting individual data by WorldNow and/or its sponsors. In no case   does pre-populating a form transfer any data to any advertiser or third party. Only if   the member voluntarily requests that such data be transferred will any transfer   take place---for example, if/when a member clicks a "submit form" button or other   button.</p>  <p align="justify"></p>  <p align="justify">We reserve the right to release any and all information   contained within our access logs concerning any visitor or member when that   visitor or member is in violation of our Terms of Service or other published   guidelines, or partakes (or is reasonably suspected of partaking) in any illegal   activity, even without a subpoena, warrant, or other court order, and to release   such information in response to discovery requests, or in response to any   circumstance which WorldNow, in its sole discretion, deems an emergency. We   cooperate with law enforcement agencies in identifying those who may be using   our servers or services for illegal activities. We also reserve the right to   report any suspected illegal activity to law enforcement for investigation or   prosecution.</p>  <p align="justify"></p>  <p align="justify">If and when WorldNow sponsors promotions or sweepstakes, or   third parties sponsor promotions or sweepstakes in conjunction with WorldNow,   either WorldNow or the third party will post relevant privacy information in the   official rules and/or registration area for the promotion or sweepstakes. That   privacy information, to the extent it conflicts with this Privacy Policy, will   govern that particular promotion or sweepstakes.</p><b><font size="5">  <p align="justify"><font size="4">Security</font></p></font></b>  <p align="justify">  All information gathered on the Web site is stored within a   WorldNow controlled database accessible only to WorldNow and this station to   protect the loss, misuse, or alteration of the information under WorldNow's   control. However, as effective as any security measure implemented by WorldNow   may be, no security system is impenetrable. WorldNow cannot guarantee the   security of WorldNow's database, nor can WorldNow guarantee that information you   supply will not be intercepted while being transmitted to WorldNow over the   internet. Questions regarding this Privacy Policy should be directed to WorldNow   at <font color="#0000ff"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></font>.</p><b><font size="5">  <p align="justify"><font size="4">Changing/deleting personal   information</font>  </p></font></b>  <p align="justify"> If you would like to have your personally identifiable   information changed or removed from WorldNow's database, please contact WorldNow   at <font color="#0000ff"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></font>, and WorldNow will use   reasonable efforts to comply with your request. <b></b>Keep in mind, however,   that there will be residual information that will remain within WorldNow   databases, access logs, and other records, which may or may not contain such   personally identifiable information. The residual information will not be used   for commercial purposes; however WorldNow reserves the right, from time to time,   to recontact former customers or users of this Web site.</p><b><font size="5">  <p align="justify"><font size="4">Questions?</font></p></font></b>  <p align="justify">Questions regarding this Privacy Policy should be directed to   WorldNow at <font color="#0000ff"><a href="mailto:Info@WorldNow.com">Info@WorldNow.com</a></font>.</p>
+<!-- -->
+</font>
+</td>
+</tr>
+</tbody></table>
+<table bgcolor="#FFFFFF" border="0" width="100%" cellspacing="0" cellpadding="6">
+<tbody><tr>
+<td valign="TOP">
+<!-- DISPLAY COLUMN TWO A, COLUMN TWO B AND XML BLOCK A  -->
+</td>
+</tr>
+<!-- DISPLAY TOP STORY -->
+<!-- DISPLAY FULL HORIZONTALS -->
+</tbody></table>
+<!-- DISPLAY NESTED CATEGORIES -->
+<!-- DISPLAY COLUMN TWO C, XML BLCOK B, AND XML BLOCK C -->
+<table bgcolor="#FFFFFF" border="0" width="100%" cellspacing="0" cellpadding="6">
+<tbody><tr>
+<td valign="TOP">
+</td>
+</tr>
+</tbody></table>
+<!-- END OF NEWS TABLE -->
+</td>
+<td width="6" rowspan="2" valign="TOP" align="RIGHT"><img src="/images/static/pxl/pxl_wht_hm.gif" alt="" width="6" height="17" border="0"></td>
+<td width="136" colspan="4" rowspan="2" valign="TOP" align="RIGHT">
+<table border="0" width="136" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="6" rowspan="4" valign="TOP"><img src="/images/static/gfx/curve_top_rt_hm.gif" alt="" width="9" height="17" border="0"></td>
+<td width="130"><a href="http://www.wtnh.com/images/3006_G.html"><img src="/images/static/btn/btn_doppler2.gif" alt="Doppler 8" width="130" height="99" border="0"></a></td>
+</tr>
+<tr>
+<td width="130"><a href="javascript:OpenWin('/trafficcam/wtnhtraffic.asp||width=600,height=376,menubar=yes,toolbar=no,scrollbars=auto,location=yes,resizable=true,resizable=yes') "><img src="/images/static/btn/btn_trafficam.gif" alt="Trafficam8" width="130" height="99" border="0"></a></td>
+</tr>
+<tr>
+<td width="130"><a href="/global/story.asp?s=27039"><img src="/images/static/btn/btn_enewsnow.gif" alt="E-News Now" width="130" height="87" border="0"></a></td>
+</tr>
+<tr>
+<td align="CENTER" width="130" valign="TOP"><br>
+<!-- COLUMN THREE B -->
+<!-- ADS BEGIN HERE -->
+<br>
+<!-- --><br><!-- -->
+<br>
+<br>
+<!-- --><br><!-- -->
+<br><br>
+<!-- --><!--Inserted HTML code from MSASv1.0-->
+<a href="/Global/Ads/adredirwn.asp?ciid=187&amp;url=http://www.dollarsonthenet.com/cgi-bin/track/3392/189%3F0=dollars%26sourceid=" target="_top"><img src="/global/ads/CS_120X60_04.gif" width="125" height="60" border="0" alt="CardSearch"></a><!-- -->
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="BOTTOM" align="CENTER">
+<table cellpadding="0" cellspacing="10" border="0">
+<tbody><tr>
+<td align="CENTER" colspan="2">
+<!-- MAIN 468 AD BELOW -->
+<!-- --><!--Inserted HTML code from MSASv1.0-->
+<img src="http://service.bfast.com/bfast/serve?bfmid=26993801&amp;siteid=35387118&amp;bfpage=lga_harrypotterbroom" border="0" width="1" height="1" nosave=""><a href="http://service.bfast.com/bfast/click?bfmid=26993801&amp;siteid=35387118&amp;bfpage=lga_harrypotterbroom" target="_blank"><img src="http://www.booksonline.com/bookclubs/images/partners/bf/lga_harrypotterbroom_468x60.gif" border="0" width="468" height="60" alt=""></a><!-- -->
+</td>
+</tr>
+<tr>
+<td align="CENTER" width="40%"><a href="http://www.abcnews.go.com/"><img src="/images/static/gfx/hp_abc_900.gif" alt="ABC News" border="0" width="147" height="35"></a></td>
+<td align="CENTER" width="60%"><font face="Arial,Helvetica,Sans-Serif" color="#000000" size="1">
+<!-- -->Content © Copyright 2000, WorldNow, WTNH, <br>and Associated Press. All Rights Reserved.<br>This material may not be published, broadcast, rewritten, or redistributed.<br>For more information on this site, please read our<br><a href="/global/story.asp?s=18990">Privacy Policy</a> and <a href="/global/story.asp?s=18991">Terms of Service</a>.
+<!-- -->
+</font></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<!-- BOTTOM ROW -->
+<tr>
+<td colspan="9" width="100%" align="CENTER" bgcolor="#000000" background="">
+<!-- BOTTOM NAV TABLE -->
+<table cellpadding="5" cellspacing="0" border="0">
+<tbody><tr>
+<td align="CENTER">
+<!-- -->
+<a target="_top" href="/default.asp">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+Home</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1170">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+News</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1169">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+Weather</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1193">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+Sports</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1194">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+Health</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1195">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+Entertainment</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1172">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+Community</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1284">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+What's on 8</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1196">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+Contests</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1197">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+Inside 8</font></a>
+<!-- -->
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+
+				|
+			</font>
+<!-- -->
+<a target="_top" href="/global/category.asp?c=1198">
+<font face="Arial,Helvetica,Sans-Serif" size="1" color="#FFFFFF">
+Advertising</font></a>
+<!-- -->
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody></table>
+
+
+</body></html>
