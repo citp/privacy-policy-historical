@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landstaronline.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610064701id_/http%3A//www.landstar.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landstaronline.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211212410id_/http%3A//www.landstar.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Landstar Privacy Policy
 
