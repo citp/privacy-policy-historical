@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601102425id_/http%3A//www.thermo.com/eThermo/CDA/Footer/Privacy_Statement/1%2C1290%2C1-8%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204080542id_/http%3A//www.thermo.com/eThermo/CDA/Footer/Privacy_Statement/1%2C1290%2C1-8%2C00.html) for the most accurate reproduction.*
 
 # Privacy Statement - Thermo
 
@@ -23,4 +23,5 @@ Thermo Electron is committed to ensuring the security of your information. To pr
 If you have comments or questions about our privacy policy, please complete the feedback form found on the contact us page. 
 
   
+© 2002 Thermo Electron Corporation. All rights reserved. | [Terms and Conditions](http://www.thermo.com/eThermo/CDA/Footer/Terms_and_Conditions/1,1290,1-5,00.html) | [Disclaimer](http://www.thermo.com/eThermo/CDA/Footer/Disclaimer/1,1290,1-6,00.html)  
 
