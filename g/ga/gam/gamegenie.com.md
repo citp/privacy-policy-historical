@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegenie.com privacy policy that was archived on 1999-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991115000341id_/http%3A//danworld.net/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegenie.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611224217id_/http%3A//danworld.net/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Danworld, Inc.
 
@@ -26,10 +26,10 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This site gives users the following options for correcting and/or removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [dan@danworld.com](mailto:dan@danworld.com)
+  1. You can send email to [dan@danworld.net](mailto:dan@danworld.net)
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Dan Piparo Danworld, Inc. 3614 Azeele Street Tampa, FL. 33609 dan@danworld.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Dan Piparo Danworld, Inc. 3614 Azeele Street Tampa, FL. 33609 dan@danworld.net
