@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205115926id_/http%3A//kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010222031id_/http%3A//www.kidzworld.com/kidzworld/privacy.html) for the most accurate reproduction.*
 
-# Kids World | Privacy | Science Fair Project | Chat Room | Message Forum | Parents COPPA
+# Kidzworld Media | Privacy Policy | COPPA | Security & Guidelines
 
 Privacy 
 
