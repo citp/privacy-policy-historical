@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanterror.net privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407180107id_/http%3A//www.urbanterror.net/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanterror.net privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604033646id_/http%3A//www.urbanterror.net/priv.html) for the most accurate reproduction.*
 
 # Urban Terror Forums Privacy Policy
 
