@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the 123movers.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001181524id_/http%3A//123movers.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123movers.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222853id_/http%3A//123movers.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # 
 
-| [](https://web.archive.org/) |   |   
----|---|---  
-|   
 ---  
   
 123 Netgroup LLC connects consumers to advertisers and providers of services through our websites. This privacy policy applies to our websites: www.123movers.com, www.123movers.net, www.123netgroup.com, and www.123 Netgroup.net  
@@ -61,5 +58,4 @@ Users who would rather not provide any of the personally identifiable data reque
    
 Any modifications to our privacy practices will be reflected within the Privacy Policy Statement.  
    
-Questions regarding this privacy statement should be sent via e-mail to: [inquires@123movers.com](mailto:inquires@123movers.com)  
----
+Questions regarding this privacy statement should be sent via e-mail to: [inquires@123movers.com](mailto:inquires@123movers.com)
