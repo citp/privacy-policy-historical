@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pod1.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605022110id_/http%3A//www.pod1.com/privacy_pol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pod1.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205215455id_/http%3A//www.pod1.com/privacy_pol.htm) for the most accurate reproduction.*
 
 # -: Pod1 Media Solutions :- Terms & Conditions
 
