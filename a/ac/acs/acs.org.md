@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acs.org privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601113508id_/http%3A//www.acs.org/portal/Chemistry%3FPID%3Dacsdisplay.html%26DOC%3Dsiteinfo%5Cprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs.org privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015130623id_/http%3A//www.acs.org/portal/Chemistry%3FPID%3Dacsdisplay.html%26DOC%3Dsiteinfo%5Cprivacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# 
 
 Privacy Statement
 
