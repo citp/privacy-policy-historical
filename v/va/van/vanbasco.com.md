@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the vanbasco.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202011642id_/http%3A//www.vanbasco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanbasco.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206003754id_/http%3A//www.vanbasco.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy  
-(last updated March 13th, 2002)  
-  
- **General**
 
 vanBasco Software (referred to as "vanBasco", "we", "our" and "us") respects the privacy of every individual (referred to as "you" and "your") who visits our website. This privacy statement outlines the nature of any personally identifiable information which vanBasco may collect and retain on its network files. We will also outline how we propose to use that information.
 
 When you visit our website, we will not collect any personally identifiable information about you unless you provide it to us voluntarily (such as your name, address, or e-mail address). Such data is known as personal data. If you do give us your consent, this personal data may be stored and processed by us so that we can better understand your needs, improve our products and services and also provide you with an efficient and pleasant experience while visiting our website and using our services. The personal data may for these purposes, be transferred internationally to affiliates of vanBasco.
 
-Sometimes we invite visitors to submit names or e-mail addresses in connection with certain promotions, such as competitions or information on product updates. You may decide not to provide us with personal data which means you may be unable to participate in certain promotions, or receive product information, offered through the vanBasco website. If requested by you, we may use your personal data to contact you about offers or information on products and services of vanBasco or of other parties which you may be interested in. Any information relating to such products or services will be sent from vanBasco. If you want to stop receiving promotion-related e-mail and other promotion materials, [click here](https://web.archive.org/web/20040202011642id_/http%3A//www.vanbasco.com/unsubscribe.html) to remove your e-mail address from our mailing list.
+Sometimes we invite visitors to submit names or e-mail addresses in connection with certain promotions, such as competitions or information on product updates. You may decide not to provide us with personal data which means you may be unable to participate in certain promotions, or receive product information, offered through the vanBasco website. If requested by you, we may use your personal data to contact you about offers or information on products and services of vanBasco or of other parties which you may be interested in. Any information relating to such products or services will be sent from vanBasco. If you want to stop receiving promotion-related e-mail and other promotion materials, [click here](https://web.archive.org/web/20041206003754id_/http%3A//www.vanbasco.com/unsubscribe.html) to remove your e-mail address from our mailing list.
 
 We may also enhance or merge your personal data with other data obtained from third parties for the reasons outlined above. vanBasco will not give, loan, trade, rent or sell your personal data to any outside organisation for their use or control without your consent, subject to local regulatory laws. However, your information may be shared with reputable agents or contractors of vanBasco to facilitate certain services that these individuals or entities perform on behalf of vanBasco.
 
@@ -19,16 +14,10 @@ From time to time, vanBasco may provide general transactional data to third part
 
 In addition, when you view our website, we may store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies help us to tailor a website or advertisement to match your interests and preferences. Cookies are stored on your hard-drive, not on our site and most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. You are always free to decline our cookies if your browser permits, although in that case it may not be possible to use certain features available on our site. Please refer to your browser instructions or help screen to learn more about these functions. We encourage you to familiarise yourself with the concept of cookies and privacy on the Internet.
 
- **Security**
-
 vanBasco is committed to keeping your personally identifiable data secure and we will take reasonable precautions to protect your personally identifiable information from loss, misuse or alteration. Any agents or contractors appointed by vanBasco who have access to your personally identifiable information in connection with vanBasco in administering the site or the services, are required to keep the information confidential and are not permitted to use this information for any other purpose. vanBasco takes reasonable precautions to protect your information from loss, misuse or alteration.
-
- **Our Disclosure of Your Information**
 
 Because of the existing data regulatory environment, there are some circumstances where we are obliged to disclose your personal data in ways which are not set out in this privacy policy. These include disclosure of personal data to the police, the government or third parties under certain circumstances. The nature of the Internet is such that the data may flow over networks without appropriate security measures and may be accessed and used by unauthorised persons who may unlawfully intercept or access transmissions or private communications.
 
 We can (and by registering with us, you authorise us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of crime, terrorism, fraud, intellectual property infringements, or other activity that is illegal or which we consider may expose us to legal liability.
-
- **Amendments to this Privacy Policy**
 
 The privacy policy statement as it appears on our site accurately reflects our position at this time. Based on your comments we may decide to improve the policy from time to time which will require an amendment to this statement. Future developments in the services which vanBasco offers and future developments in the law mean that vanBasco may need to amend its privacy policy. In such cases, we will post an updated version of this privacy statement, which will become effective immediately upon its posting.
