@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitchell1.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012033932id_/http%3A//www.mitchell1.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitchell1.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628095909id_/http%3A//www.mitchell1.com/privacy.asp) for the most accurate reproduction.*
 
 # Mitchell 1 - The First Choice of Automotive Professionals
 
@@ -51,7 +51,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 How You Can Access or Correct Your Information
 
-You can access and correct all you personally-identifiable information that we collect online and maintain by clicking on Your Account and entering you user id and password. You are solely responsible for the maintenance and security of your user id and password. For other questions related to updating or changing your account information, please send an e-mail to [CustomerSupport@mitchell1.com](mailto:CustomerSupport@mitchell1.com). We use this procedure to better safeguard your information. 
+You can access and correct all your personally-identifiable information that we collect online and maintain by clicking on Your Account and entering your user id and password. You are solely responsible for the maintenance and security of your user id and password. For other questions related to updating or changing your account information, please send an e-mail to [CustomerSupport@mitchell1.com](mailto:CustomerSupport@mitchell1.com). We use this procedure to better safeguard your information. 
 
 If any errors in your personally identifiable information cannot be corrected by accessing Your Account, please contact us using the contact information below. 
 
