@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the clipboard.com privacy policy that was archived on 2000-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000519222751id_/http%3A//www.thatweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipboard.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816210949id_/http%3A//www.thatweb.com/privacy.htm) for the most accurate reproduction.*
 
 # ThatWeb '99 V3.0: Privacy
 
 **TRUSTe Licensee**  
 ThatWeb.Com is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices of ThatWeb.Com. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding the collection of information; use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control; and how you can correct any inaccuracies in the information.
 
-Any questions regarding ThatWeb.Com's privacy policy should be directed to the webmaster of ThatWeb.Com via email,  [webmaster@thatweb.com](https://web.archive.org/web/20000620143237id_/http://www.thatweb.com/mail/contact.asp?ContactMail=webmaster@thatweb.com) or via snail mail to ThatWeb.Com Private Limited, 31 Ubi Road 1, Aztech Building, Singapore 408694. If your inquiry has not been satisfactorily addressed, please contact the [TRUSTe Watchdog](http://www.truste.org/users/users_watchdog.html).
+Any questions regarding ThatWeb.Com's privacy policy should be directed to the webmaster of ThatWeb.Com via email,  [webmaster@thatweb.com](https://web.archive.org/web/20000815212248id_/http://www.thatweb.com/mail/contact.asp?ContactMail=webmaster@thatweb.com) or via snail mail to ThatWeb.Com Private Limited, 31 Ubi Road 1, Aztech Building, Singapore 408694. If your inquiry has not been satisfactorily addressed, please contact the [TRUSTe Watchdog](http://www.truste.org/users/users_watchdog.html).
 
 **ThatWeb.Com’s Privacy Policy**  
 ThatWeb.Com firmly believes in protecting the privacy of our users. 
