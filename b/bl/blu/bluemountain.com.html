@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the bluemountain.com privacy policy that was archived on 2003-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401122935id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluemountain.com privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202024232id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<meta name="agmips" content="1.801837">
+<meta name="agmips" content="1.845333">
  
 <title>Blue Mountain- Privacy Policy</title>
  <script language="JavaScript">
 <!-- HIDE FROM OLD BROWSERS
-
 glbStdFeatures = "width=400,height=320,resizable=yes,scrollbars=yes,toolbar=no";
 glbStdFeaturesExcSize = "resizable=yes,scrollbars=yes,toolbar=no";
 
 var newwin;
-
 function encodePurl(purl){
   purl=purl.replace(/http:\/\//,"");
   purl=purl.replace(/\&/g,"|");
   purl=purl.replace(/\?/g,"_");
   purl=purl.replace(/\=/g,":");
+  purl=purl.replace(/\%20/g,"perc20");
+  purl=purl.replace(/ /g,"perc20");
   purl=purl.replace(/\+/g,"%20");
   purl=purl.replace(/#.*$/,"");  
   purl=purl.replace(/%(\d+)/g,"perc$1");
@@ -35,21 +35,6 @@ function decodePurl(purl){
     purl="http://"+purl;
   }
   return purl;
-}
-
-
-function setMyFocus()
-{
-// Keep subscription popup window on top.
-  if (newwin && !newwin.closed) 
-  {
-    newwin.focus(); 
-  }
-// Keep gift partner popup window on top.
-  else if (typeof(popupWindow)!="undefined" && !popupWindow.closed) 
-  {
-    popupWindow.focus(); 
-  } 
 }
 
 //Join Now
@@ -102,37 +87,6 @@ function openJoin(url, purl, width, height, windowname, intX, intY) {
   }
 }
 
-//THESE WERE HARCODED ON INDEX PAGE
-function openTips()
- {
-  aWindow=window.open("/popup/search.html","SearchTips","height=320,width=400,scrollbars=yes,status=yes");
-  aWindow.focus();
-}
-// registration popup
-function openRegisterPop()
-  {
-  aWindow=window.open("/popup/register.html", "RegisterToday",
-    glbStdFeatures);
-  aWindow.focus();
-    }
-// signin popup
-function openSignInPop()
-{
-  var url = "/popup/signin.pd?refresh=1";
-  openJoin(url);
-}
-// signout popup
-function openSignOutPop()
-{
-  var url = "/popup/signout.pd?popup=1";
-  openJoin(url);
-}
-// Flooz stuff
-function openPopup(pageUrl)
-{
-aWindow=window.open("/"+pageUrl, "thewindow",glbStdFeatures);
-  aWindow.focus();
-}
 // Offer Popup
 function openOfferPop(host) {
   var url = "/popup/offer.pd?";
@@ -149,32 +103,9 @@ function openOfferPop(host) {
   openJoin(url,0,0,0,0,intX,0);  
 }
 
-//THIS WAS IN POPUP.JS
-function loadParent(url){
-  if(window.opener.closed == false){
-    window.opener.location.href = url;
-    window.close();  
-  }else{
-    newwin = window.open(url,"","resizable=yes,scrollbars=yes,status=yes,location=yes,toolbar=yes,menubar=yes");
-    newwin.focus();
-    window.close();
-  }
-}
-
-//THIS WAS IN MEMBERS
-function showLogin(strHost)
-{
-  //var url = "/popup/signin.pd?refresh=1";
-  var url = "/popup/offer.pd?"
-  openJoin(url);
-}
-
 function showLoginUpdate(strHost) {
         var url = "/popup/offer.pd?";
         openJoin(url);
-	//winLogin = window.open(strHost + "/popup/offer.pd", "SignIn",
-	//	    glbStdFeatures);
-	//winLogin.focus();
      }
 
 function showLoginWithVars(strHost, strVars) {
@@ -183,47 +114,18 @@ function showLoginWithVars(strHost, strVars) {
       url = strHost + url;
     }
     openJoin(url);  
-    //strVarsA = ""
-    //if (strVars) {
-    //    strVarsA = "&"+strVars
-    //}
-//	winLogin = window.open(strHost + "/popup/offer.pd?refresh=1" + strVarsA,
-//		    "SignIn", glbNonStdFeatures);
-//	winLogin.focus();
      }
-
-function Go(host, value) {
-  var strUrl =  host + value + ".pd";
-  window.self.location.protocol = "http";
-  window.self.location.href = strUrl;
-}
-
-//REMOVED MEMBERS SIGNOUT POPUP SCRIPT THAT WAS HERE IN MEMBERS.JS
-
-function checkRegistration(strHost, mstatus, func) {
-  if(mstatus == "PAID" || mstatus == "PAIDFORGET" || mstatus == "PAIDSUB" || mstatus == "PAIDSUBFORGET" || mstatus == "FREE" || mstatus == "FORGET"){
-    //  user is registered, call passed-in function
-    func();
-  }else{
-    //  open registration pop-up
-    showLogin(strHost)
-  }  
   
-  
-          
-}
-  
+//Generic Open Window  
 function OpenNewWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
-
-function OpenNewKitWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'kit','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
 
 // NO MORE HIDING -->
 </script>
  
 <style type="text/css">
-.hdrP {font-family: arial; font-size: 13px; font-weight: bold; color:#336600;}
+.hdrP {font-family: arial; font-size: 13px; font-weight: bold; color:#990000;}
 .hdrF {font-family: arial; font-size: 13px; font-weight: bold; color:#4E4E22;}
-.textlink {font-family: verdana; font-size: 11px; color:#FFFFFF;}
+.textlink {font-family: verdana; font-size: 11px; color:#333399;}
 .spcr {font-family: arial; font-size: 8px;}
 .text {font-family: verdana; font-size: 11px;}
 .header {font-family: verdana; font-size: 15px; font-weight:bold;}
@@ -241,28 +143,34 @@ font-family: verdana, Arial, Helvetica, sans-serif}
 .uber {font-family: verdana; font-size: 12px;}
 .bread, a.bread, a.bread:visited, a.bread:active { color: #000066; font-weight: bold; font-size: 10px; font-family: verdana,Arial,Helvetica,sans-serif; }
 .ad, a.ad:link, a.ad:visited, a.ad:active {font-family: verdana, Arial, helvetica, sans-serif; font-size: 11px;}
+.siteerror {COLOR: #ff0000;  font-weight: bold; font-size: 12px; font-family:  Arial, Helvetica, sans-serif; text-decoration: none}
 </style> 
 </head> 
  
 <body bgcolor="#FEFDEF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#333399" vlink="#333399"> 
 <a name="top"></a> 
 <center> 
+<table border="0" cellpadding="3" cellspacing="0" width="770">
+<tbody><tr>
+  <td align="center"><iframe width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.adsag.com/html.ng/adsize=728x90&amp;page=warrants.pd&amp;memstat=afu&amp;site=bma&amp;cat=DFLT&amp;subcat=DFLT&amp;product="><SCRIPT LANGUAGE="JavaScript" SRC="http://ads.adsag.com/js.ng/Params.richmedia=yes&adsize=728x90&page=warrants.pd&memstat=afu&site=bma&cat=DFLT&subcat=DFLT&product="></SCRIPT></iframe></td>
+</tr>
+</tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr>
-  <td width="185" align="center"><a href="http://www.bluemountain.com/index.pd"><img src="http://www.imgag.com/bma/header/bma_logo2.gif" width="175" height="50" alt="Blue Mountain" border="0"></a></td>
+  <td width="175" align="center"><a href="http://www.bluemountain.com/index.pd"><img src="http://www.imgag.com/bma/header/bma_logo2.gif" width="175" height="50" alt="Blue Mountain" border="0"></a></td>
   <td width="79" rowspan="2" valign="bottom"><a href="http://www.bluemountain.com/index.pd"><img src="http://www.imgag.com/bma/header/tab_ecards_up.gif" width="79" height="34" alt="eCards" border="0"></a></td>
   <td width="79" rowspan="2" valign="bottom"><a href="http://www.bluemountain.com/cnp/index.pd"><img src="http://www.imgag.com/bma/header/tab_cnp_dn.gif" width="79" height="34" alt="Create &amp; Print" border="0"></a></td>
-  <td width="79" rowspan="2" valign="bottom"><a href="http://www.bluemountain.com/giftcenter.pd"><img src="http://www.imgag.com/bma/header/tab_gc_dn.gif" width="79" height="34" alt="Gift Center" border="0"></a></td>
+  <td width="79" rowspan="2" valign="bottom"><a href="http://www.bluemountain.com/downloads.pd"><img src="http://www.imgag.com/bma/header/tab_dl_dn.gif" width="79" height="34" alt="Downloads" border="0"></a></td>
   <td width="79" rowspan="2" valign="bottom"><a href="http://www.bluemountain.com/whatsnew.pd"><img src="http://www.imgag.com/bma/header/tab_new_dn.gif" width="79" height="34" alt="What's New" border="0"></a></td>
    
   <td width="54" rowspan="2" valign="bottom"><a href="http://www.bluemountain.com/customer/index.pd"><img src="http://www.imgag.com/bma/header/tab_help.gif" width="54" height="34" alt="Help" border="0"></a></td>
-  <td width="146"><img src="http://www.imgag.com/bma/space.gif" width="146" height="1"></td>
-  <td width="69" align="center"><a href="http://www.bluemountain.com/members/signin.pd?referer="><img src="http://www.imgag.com/bma/header/b_signin.gif" width="52" height="20" alt="sign in" border="0"></a><br><a href="javascript:openJoin('http://ads.adsag.com/html.ng/adsize=text&amp;page=join&amp;site=bma&amp;ahost=http://www.bluemountain.com&amp;Params.styles=MKTjoin', '')"><img src="http://www.imgag.com/bma/header/b_join.gif" width="52" height="20" alt="join" border="0"></a></td>
+  <td width="162"><img src="http://www.imgag.com/bma/space.gif" width="162" height="1"></td>
+  <td width="63" align="center"><a href="http://www.bluemountain.com/members/signin.pd?referer="><img src="http://www.imgag.com/bma/header/b_signin.gif" width="52" height="20" alt="sign in" border="0"></a><br><a href="http://www.bluemountain.com/fom.pd"><img src="http://www.imgag.com/bma/header/b_join.gif" width="52" height="20" alt="join" border="0"></a></td>
 </tr>
 <tr>
-  <td width="185" bgcolor="#CCCDCD"><img src="http://www.imgag.com/bma/space.gif" width="185" height="1"></td>
-  <td width="67" bgcolor="#CCCDCD"><img src="http://www.imgag.com/bma/space.gif" width="67" height="1"></td>
-  <td width="69" bgcolor="#CCCDCD"><img src="http://www.imgag.com/bma/space.gif" width="69" height="1"></td>
+  <td width="175" bgcolor="#CCCDCD"><img src="http://www.imgag.com/bma/space.gif" width="175" height="1"></td>
+  <td width="162" bgcolor="#CCCDCD"><img src="http://www.imgag.com/bma/space.gif" width="162" height="1"></td>
+  <td width="63" bgcolor="#CCCDCD"><img src="http://www.imgag.com/bma/space.gif" width="63" height="1"></td>
 </tr> 
 </tbody></table>
 
@@ -276,11 +184,6 @@ font-family: verdana, Arial, Helvetica, sans-serif}
   <td width="1"><img src="http://www.imgag.com/bma/space.gif" width="1" height="1"></td>
   <td><img src="http://www.imgag.com/bma/space.gif" width="768" height="1"></td>
   <td width="1"><img src="http://www.imgag.com/bma/space.gif" width="1" height="1"></td>
-</tr>
-</tbody></table>
-<table border="0" cellpadding="3" cellspacing="0" width="770">
-<tbody><tr>
-  <td align="center"></td>
 </tr>
 </tbody></table> 
  
@@ -322,7 +225,8 @@ If you want to prevent a third-party advertiser from setting and/or reading cook
 From time-to-time, outside third party research companies may set cookies on your browser regarding exposure to certain ad placements.  These cookies may be used later for research purposes if you later opt-in to take a survey.  If you choose to take the survey, these companies may examine your browser to see if a one of their cookies has been set. If the company detects the cookie in your browser, it will gather only 2 pieces of information from it: where you have seen a particular ad and; how many times you have seen it. If you do not want these kinds of cookies to be set to your browser, you can opt-out by <a href="http://ch.questionmarket.com/site/subnav/optout.html">clicking here</a>.<br><br> 
  
 <b><em>IP Addresses</em></b><br> 
-We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors for thirty days. An IP address is a unique number assigned to your computer when you are using your browser on the Internet. We log this information so that we can monitor things like the number of visitors visiting the web site; however, we do not link your IP address to any personally identifying information.<br><br>  
+We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet.  An IP address, by itself, cannot identify you personally.  However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.<br><br> 
+BLUE MOUNTAIN INCLUDES THE SENDER IP ADDRESS IN THE HEADER INFORMATION OF EACH GREETINGS NOTIFICATION E-MAIL IT SENDS.  IT IS AVAILABLE TO THE GREETINGS RECIPIENT AND ANYONE ELSE WHO IS FORWARDED THE NOTIFICATION E-MAIL.  THIS LIMITS YOUR ABILITY TO COMMUNICATE ANONYMOUSLY USING ELECTRONIC GREETINGS.  ELECTRONIC GREETINGS ARE NEITHER INTENDED NOR APPROPRIATE FOR ANONYMOUS COMMUNICATIONS, AND SUCH ACTIVITY IS EXPRESSLY PROHIBITED BY THE ACCEPTABLE USE POLICY IN OUR <a href="http://www.bluemountain.com/legal.pd" target="_new">TERMS OF SERVICE</a>.<br><br> 
  
 <b><em>When You Send A Greeting</em></b><br> 
 If you use our web site to send an online greeting or any other content, we collect your e-mail address and your recipient's e-mail address. This information is necessary to send the content and provide confirmation that it has been received. We will not use your recipient's e-mail address for any purpose other than to send the greeting. We may also use your e-mail address to contact you if you have chosen to receive communications from Blue Mountain or its Partners. (See Opt-Out/Changing Your Status, below). <br><br> 
@@ -343,7 +247,7 @@ Blue Mountain also offers you the opportunity to receive money-saving offers, di
 This program is conducted strictly on an opt-in basis. In order to receive the offers, you must affirmatively check the clearly marked box on our "Personalize Your Greeting" pages and registration pages on our site. If you leave the box unchecked, you will not receive any offers. If you do sign up for the program but later change your mind, you are free at any time to opt-out by following the procedures outlined in Opt-Out/Changing Your Status, below. <br><br> 
  
 <b><em>Mandatory Communications</em></b><br> 
-Blue Mountain reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our Terms of Service. These communications are mandatory.<br><br>  
+Blue Mountain reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our <a href="http://www.bluemountain.com/legal.pd" target="_new&quot;">Terms of Service</a>. These communications are mandatory.<br><br>  
  
 <b><em>Information Gathered From Members</em></b><br> 
 If you elect to purchase a Membership on Blue Mountain, you will be required to provide us with certain personal information, including your name, e-mail address, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.<br><br> 
@@ -374,13 +278,16 @@ From time to time, you may be given the opportunity to order products and servic
 We treat all of our greetings products as private correspondence between the sender and the recipient and will not disclose the contents of any greeting other than to the intended recipient, except under the specific situations outlined in Disclosure Exceptions, below.  
 This policy applies to all aspects of our greetings, including your personalized messages. Under normal circumstances, we will not monitor or edit the contents of the online greetings you send. On occasion, however, we may need to view your message in connection with the technical processing of your greeting or the maintenance of our network. Also, if you ask one of our customer service representatives to help you send a greeting or to verify that a greeting was sent, that representative will be able to access all information about the card, including the recipient's e-mail address and the message. <br><br> 
  
-<b>Disclosure Exceptions</b><br> 
-Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary:  
-<ul><li>To comply with legal process such as a search warrant, subpoena or court order;  
-</li><li>To protect the company's rights and property;  
-</li><li>To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;  
-</li><li>To protect against misuse or unauthorized use of our web site and/or the Blue Mountain service; or  
-</li><li>During emergencies, such as when we believe someone's physical safety is at risk. </li></ul> 
+<b><em>Disclosure Exceptions</em></b><br> 
+Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third-parties if we are required to do so by law or we believe that such action is necessary: 
+<ul> 
+  <li>To comply with legal process such as a search warrant, subpoena or court order; 
+  </li><li>To protect the company's rights and property; 
+  </li><li>To investigate reports of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages; 
+  </li><li>To protect against misuse or unauthorized use of our web site and/or the Blue Mountain service; or  
+  </li><li>During emergencies, such as when we believe someone's physical safety is at risk.  
+</li></ul> 
+Your IP address can be accessed by greetings recipients in the header of the notification e-mail.  Under certain circumstances, recipients, their legal representatives, and/or law enforcement authorities may be able to combine this with information disclosed by ISPs to determine the source of a particular communication.  By using this service, you knowingly and voluntarily assume any risks associated with such disclosure.<br><br> 
  
 <b>YOUR CONTROL OVER YOUR PERSONAL INFORMATION <br> 
 Opt-Out/Changing Your Status</b><br> 
@@ -438,13 +345,13 @@ As always, if you have any questions, please feel free to contact us at <a href=
  
 <br>&nbsp;<br><table border="0" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr>
-  <td align="center" class="text"><a href="http://www.bluemountain.com/customer/index.pd">Help - Customer Service</a> |  <a href="JavaScript:OpenNewWindow('/advertise.pd','500','300','no')">Advertise on Blue Mountain</a><br>&nbsp;<br>© 1996-2003 EGCB, Inc. All rights reserved. Blue Mountain, Blue Mountain Arts, and the Blue Mountain logo are service marks or registered service marks of BMA Holdings, LLC in the United States and other countries.<br>&nbsp;<br><a href="http://www.bluemountain.com/legal.pd">Terms of Service</a> |  updated:<a href="http://www.bluemountain.com/warrants.pd">Privacy Policy</a><br>&nbsp;<br></td>
+  <td align="center" class="text"><a href="http://www.bluemountain.com/customer/index.pd">Help - Customer Service</a> |  <a href="JavaScript:OpenNewWindow('/advertise.pd','500','300','no')">Advertise on Blue Mountain</a><br>&nbsp;<br>© 1996-2003 EGCB, Inc. All rights reserved. Blue Mountain, Blue Mountain Arts, and the Blue Mountain logo are service marks or registered service marks of BMA Holdings, LLC in the United States and other countries.<br>&nbsp;<br><a href="http://www.bluemountain.com/legal.pd">Terms of Service</a> |  <a href="http://www.bluemountain.com/warrants.pd">Privacy Policy</a><br>&nbsp;<br></td>
 </tr>
 </tbody></table> 
 <br><br><br><br> 
 </center> 
  
-<img height="1" width="1" border="0" src="http://ads.bluemountain.com/impression.gif?path=/warrants.pd&amp;uid=3e898b30d1edee9f5727563b&amp;mstatus=AFU&amp;memnum=0&amp;source=bma">
+<!-- page generated: Mon Dec  1 21:42:33 2003 -->
  
  
  
