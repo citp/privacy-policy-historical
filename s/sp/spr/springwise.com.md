@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190044id_/http%3A//www.springwise.com/privacyandsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207072244id_/http%3A//www.springwise.com/privacyandsecurity.html) for the most accurate reproduction.*
 
-# Springwise: Instant inspiration from the world's best new business ideas
+# Instant inspiration from the world's best new business ideas
 
   
 
@@ -18,7 +18,7 @@ Springwise collects data through registration from our subscribers. Additionally
 
 Your computer reaches us via a particular IP (Internet Protocol) address. This can tell us things like what part of the world you're connecting from. Or what service provider you are using. We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may be used to help identify you and to gather broad demographic information.
 
-Your browser offers "cookies" which - if you allow their use -- store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our offerings you like best. And when we make this function available in the future, cookies will enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information. 
+Your browser offers "cookies" which -- if you allow their use -- store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our offerings you like best. And when we make this function available in the future, cookies will enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information. 
 
 Surveys may ask for contact information or unique identifying information to increase the value of the results. Contests may require contact information or other demographic/personal information in order to determine your eligibility. 
 
