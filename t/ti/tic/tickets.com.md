@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2000-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001115103900id_/http%3A//www.tickets.com/privacy_statement.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413043646id_/http%3A//www.tickets.com/privacy_statement.cgi) for the most accurate reproduction.*
 
 # Tickets.com - Privacy Statement
+
+|  |  **ticket·privacy** SM
 
 Tickets.com, Inc., a Delaware corporation with its principal place of business in California (the "Company"), created **ticket·privacy** SM in order to demonstrate the Company's firm commitment to your privacy and privacy-related concerns. The following sets forth the Company's information gathering, use, and dissemination practices. 
 
@@ -81,26 +83,13 @@ Privacy Principles for Non USA Based Business
 
 Privacy in the United Kingdom 
 
-Back to [United Kingdom](http://www.uk.tickets.com/)
+Back to [United Kingdom's homepage](http://www.uk.tickets.com/)
 
-At present the Data Protection Act 1984 remains in force in the UK until the new Data Protection Act of 1998 is implemented to enforce the European Directive on Data Protection. The new Data Protection Act that implements the EU Data Protection directive within the UK will repeal the 1984 Act. The EU Directive set October 1998 as the date by which Member States are required to have their national law operational. The new law is now an official law but is not yet fully implemented. The current law is based on eight common sense principles that cover the collection and processing of personal data. The 1984 Act also requires all data users to register the purposes for which they intend to process personal data. The basic principles of Data Protection from the 1984 Act can be summarized as follows:
-
-  1. The First Principle: The information to be contained in personal data shall be obtained, and personal data shall be processed, fairly and lawfully.
-  2. The Second Principle: Personal data shall be held only for one or more specified and lawful purposes.
-  3. The Third Principle: Personal data held for any purpose or purposes shall not be used or disclosed in any manner incompatible with that purpose or those purposes.
-  4. The Fourth Principle: Personal data for any purpose or purposes shall be adequate, relevant and not excessive in relation to that purpose or those purposes.
-  5. The Fifth Principle: Personal data shall be accurate and, where necessary, kept up to date. 
-  6. The Sixth Principle: Personal data held for any purpose or purposes shall not be kept for longer than necessary for that purpose or those purposes.
-  7. The Seventh Principle: An individual shall be entitled - 
-    1. at reasonable intervals and without undue delay or expense to be informed by any data user whether he holds personal data of which that individual is the subject; and to allow access to any such data held by a data user
-    2. where appropriate, to have such data corrected or erased. 
-  8. The Eighth Principle: Appropriate security measures shall be taken against unauthorized access to, or alteration, disclosure or destruction of, personal data and against accidental loss or destruction of personal data.
-
-
+By submitting your information, you agree to the following: Tickets.com is a US company (Tickets.com) which sells tickets for venues across the world. In the UK our company is Dataculture Ltd - a Tickets.com company (address: Dataculture, 405 Midsummer Boulevard, Milton Keynes MK9 3BN). Your data will be kept on our database in the US and we will only supply it to a venue from which you choose to purchase tickets. The venue will only share your details with their promoter or visiting company or artist in order for them to contact with you with further information. From time to time we may contact you with details of special offers or other promotions which we think will be of interest to you. 
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
-[privacy@tickets.com](mailto:%20privacy@tickets.com)
+[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
 
 or the Data Protection Office at:
 
@@ -133,13 +122,13 @@ DX
 
 Data Protection in Australia
 
-Back to [Australia](https://web.archive.org/australia)
+Back to [Australia's home page](https://web.archive.org/australia)
 
 The Commonwealth Privacy Act 1998 implements strict privacy protection which Commonwealth and government agencies must observe when collecting, storing, using and disclosing personal information. Other Commonwealth laws contain privacy provisions relating to information about health insurance claims, data matching, information about old criminal convictions and personal information disclosed by telecommunications companies. The Privacy Act applies to the private sector only with respect to tax file numbers and consumer credit information. The Federal Privacy Commissioner has encouraged Australian businesses to develop voluntary industry codes of conduct to meet privacy standards. In February 1998, the Commissioner issued a document entitled "National Principles for the Fair Handling of Personal Information." The National Principles are based on the OECD Guidelines. These Principles address the collection, use, and disclosure of data; data quality and security; openness, access and correction; identifiers, anonymity, trans-border data flows and sensitive information. In December 1998, the Federal Government announced that it intends to enact legislation to strengthen self-regulatory privacy protection in the private sector. They also announced that the legislation that will be introduced would be based on the National Principles. The Company is committed to adherence to industry codes of conduct and/or legislation that will be required to process data in Australia and respects the privacy rights of the citizens of Australia.
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
-[privacy@tickets.com](mailto:%20privacy@tickets.com)
+[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
 
 or the Privacy Commissioner's Office at:
 
@@ -164,7 +153,7 @@ URL: [www.privacy.gov.au](http://www.privacy.gov.au/)
 
 Privacy in the Netherlands
 
-Back to [Netherlands](http://www.nl.tickets.com/)
+Back to [Netherlands' homepage](http://www.nl.tickets.com/)
 
 The Netherlands enacted the Data Protection Act (DPA or the Act) on July 1, 1989\. The DPA promotes self-regulation, and provides consumers with certain rights, including notice, access to information, disclosure and correction of inaccuracies. It requires those in control of personal data files to take measures to assure only authorized disclosures and ensure informational accuracy. Lastly, the DPA allows consumers to seek and obtain compensation for damages. The Act applies to personal data files relating to living individuals. Collection of data for personal or private use is excluded from its provisions. When certain requirements are met, a corporation may bring an action under the Act's provisions, however, the Act itself does not apply to data concerning corporations. 
 
@@ -193,7 +182,7 @@ Information bureaus may gather information that affects the rights of consumer's
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
-[privacy@tickets.com](mailto:%20privacy@tickets.com)
+[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
 
 or the Registratiekamer at:
 
@@ -218,7 +207,7 @@ Fax: +(31) 70 381 1301
 
 Privacy in Canada
 
-Back to [Canada](https://web.archive.org/canada)
+Back to [Canada's homepage](https://web.archive.org/canada)
 
 The Canadian government passed two acts, the Access to Information Act ("AIA") and the Privacy Act on July 1, 1983 to balance the need for data processing with the competing interests of Canadian citizens for protection of their privacy. Although the AIA received more media attention, it is the Privacy Act that guarantees citizens the right to privacy.
 
@@ -247,7 +236,7 @@ Personal information is deemed to include:
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
-[privacy@tickets.com](mailto:%20privacy@tickets.com)
+[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
 
 or the Privacy Commissioner of Canada at:
 
@@ -290,7 +279,7 @@ Data transferred to Hong Kong from other jurisdictions will generally become sub
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
-[privacy@tickets.com](mailto:%20privacy@tickets.com)
+[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
 
 or the Privacy Commissioner for Personal Data at:
 
@@ -323,7 +312,7 @@ Fax: 852 2877 7026
 
 Privacy in Germany
 
-Back to [Germany](http://www.de.tickets.com/)
+Back to [Germany's homepage](http://www.de.tickets.com/)
 
 Data protection in Germany has come in two phases. The Federal Data Protection Act (BDSG) was adopted January 27, 1977. The major provisions came into force January 1, 1978 and the technical and organizational measures became effective on January 1, 1979. The BDSG was then replaced in 1991 by a new data protection act which took advantage of the experiences and technical improvements of the previous years as well as judicial opinions of the Federal Constitutional court.. Data protection in Germany centers around important concepts of general privacy, human rights and the balance between access to information and privacy concerns. Basically, the German data protection law embodies "informationelles Selbstbestimmungsrecht" -- the basic right of the individual to decide on the use and communication of his or her personal data. This tenet is paramount, with the caveat of overriding social or public concerns. The main purpose of the Act is to "protect the individual against his right to privacy being impaired through the handling of his personal data." The Act states that the "processing and use of personal data shall be admissible only if this Act or any other legal provision permits or prescribes them or the consumer's has consented." But the Act may be superseded by the interests of the state. The Act states that insofar as "other legal provisions of the Federation are applicable to personal data, including their publication, such provisions shall take precedence over the provisions of this Act." 
 
@@ -333,7 +322,7 @@ A consumer has the right of notification of collection of data, notification of 
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
-[privacy@tickets.com](mailto:%20privacy@tickets.com)
+[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
 
 or the Der Bundesbeauftragte für den Datenschutz at:
 
@@ -356,7 +345,7 @@ Fax: +(49) 228 819 95 50
 
 Privacy in Belgium
 
-Back to [Belgium](http://www.be.tickets.com/)
+Back to [Belgium's homepage](http://www.be.tickets.com/)
 
 Belgium enacted the Belgium Data Protection Act (BDPA) on December 8, 1992, to ensure that personal data may only be processed for clearly described and justified purposes and may not be used in a manner incompatible with these purposes. 
 
@@ -368,7 +357,7 @@ The consumer's has the right to access information directly or through the Priva
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
-[privacy@tickets.com](mailto:%20privacy@tickets.com)
+[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
 
 or the Commission de la Protection de la Vie Privée at:
 
@@ -417,7 +406,7 @@ A consumer has certain rights in regard to the collection of data including:
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
-[privacy@tickets.com](mailto:%20privacy@tickets.com)
+[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
 
 or the Data Protection Authority at:
 
@@ -476,7 +465,7 @@ We are committed to protecting your right to privacy. We have demonstrated this 
 
 For more information on our privacy practices or the privacy regulations in your country, you may contact:
 
-[privacy@tickets.com](mailto:%20privacy@tickets.com)
+[webfeedback@tickets.com](mailto:%20webfeedback@tickets.com)
 
 or the Registertilsynet at: 
 
