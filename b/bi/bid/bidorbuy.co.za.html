@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bidorbuy.co.za privacy policy that was archived on 2003-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030618131034id_/http%3A//bidorbuy.co.za/static/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bidorbuy.co.za privacy policy that was archived on 2003-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031205040156id_/http%3A//www.bidorbuy.co.za/static/Privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>bidorbuy Privacy Statement</title>
@@ -34,17 +34,37 @@
 <!-- Start of popunder Javascript-->
 <script language="JavaScript">
 
-var cookieName = "EgoliPop";
+randBinary = eval(Math.round(Math.random()));
+
+if (randBinary == 1) {
+ cookieName1 = "EgoliPop";
+ cookieName2 = "SunsetPalacePop";
+}
+else {
+ cookieName1 = "SunsetPalacePop";
+ cookieName2 = "EgoliPop";
+}
 
 function popup(){
 
- times_viewed = eval(getCookie(cookieName)) + 1;
- setCookie(cookieName, times_viewed); 
- if (times_viewed <= 1) openPopup();
+ times_viewed1 = eval(getCookie(cookieName1)) + 1;
+
+ if (times_viewed1 <= 1) {
+   setCookie(cookieName1, times_viewed1);
+   openPopup(cookieName1);
+ }
+ else {
+   times_viewed2 = eval(getCookie(cookieName2)) + 1;
+   if (times_viewed2 <= 1) {
+     setCookie(cookieName2, times_viewed2);
+     openPopup(cookieName2);
+   }
+ }
+
 }
 
-function openPopup(){
-window.open("/html/EgoliPop.html","popup","height=250,width=250,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no,directories=no").blur(); window.focus();
+function openPopup(NameOfCookie){
+window.open("/html/" + NameOfCookie + ".html","popup","height=250,width=250,location=no,menubar=no,resizable=no,scrollbars=no,status=no,titlebar=no,toolbar=no,directories=no").blur(); window.focus();
 }
 
 function getCookie(NameOfCookie) {
@@ -69,6 +89,7 @@ function setCookie(NameOfCookie, value) {
 	ExpireDate.setTime(ExpireDate.getTime() + (hours_to_expire * 3600 * 1000));
 	document.cookie = NameOfCookie + "=" + escape(value) + ";expires=" + ExpireDate.toGMTString() + ";path=/" + ";domain=bidorbuy.co.za";
 }
+
 </script>
 <!-- End of popunder Javascript-->
 
