@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buckle.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205100500id_/http%3A//www.buckle.com/static/landinglaunching/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckle.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404235024id_/http%3A//www.buckle.com/static/landinglaunching/privacypolicy.htm) for the most accurate reproduction.*
 
 # Security/Privacy Polcy
 
@@ -9,11 +9,11 @@ We value our relationship with our guests of all ages. We welcome parents and th
 
 If you have any questions regarding our Privacy Policy or any other aspect of our site, please contact us. The following is the name and contact information of our Webmaster who is responsible for collecting and maintaining our database of information:
 
-Lydia Hardy  
+Lydia Pierson  
 2407 West 24th Street  
 Kearney, NE 68845  
 (800) 626-1255 Ext. 4416  
-[lydia.hardy@buckle.com](mailto:lydia.hardy@buckle.com)
+[lydia.pierson@buckle.com](mailto:lydia.hardy@buckle.com)
 
 We have made every effort to ensure that the information transmitted to us online is secure through the use of a secure server. With respect to online sales, the person whose name appears on the card must be the one who places the order.  
   
