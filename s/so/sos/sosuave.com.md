@@ -1,11 +1,25 @@
-> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605143440id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosuave.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213203732id_/http%3A//www.sosuave.com/home/privacy.htm) for the most accurate reproduction.*
 
 # The Don Juan Center's Privacy Policy
 
-[  
-_Learn the secrets about women that only women know_](http://hop.clickbank.net/hop.cgi?djcenter/guygirl)
-
-| 
+  
+| [](http://www.sosuave.com/)  
+---  
+[](http://www.sosuave.com/articles/new.htm)  
+[](http://www.sosuave.net/forum/index.php)  
+[](http://www.sosuave.com/articles/default.htm)  
+[](http://www.sosuave.com/quick/default.htm)  
+[](http://www.sosuave.com/halloffame/default.htm)  
+[](http://www.sosuave.com/doclove/default.htm)  
+[](http://www.sosuave.com/rondavid/default.htm)  
+[](http://www.sosuave.com/home/default.htm)  
+[](http://www.sosuave.com/home/respond/default.htm)  
+[](http://www.sosuave.com/romance/default.htm)  
+[](http://www.sosuave.com/niceguys/default.htm)  
+[](http://www.sosuave.com/home/links.htm)  
+[](mailto:djnewslet@aol.com)  
+[](mailto:djnewslet@aol.com)  
+ 
 
 ### Privacy Policy 
 
@@ -25,4 +39,13 @@ Our site, as well as most sites on the Internet, use "cookies" to enhance your e
 
 If you would like to "opt out," that is, to prevent any data from being stored by us, simply not signing up for any of our voluntary mailing lists or participating in discussion forums is sufficient.
 
-| 
+**    Want More Great Tips?**
+
+**               Subscribe to  
+  _The Don Juan Tip of the Day!_**
+
+[  
+](http://www.sosuave.com/cgi-bin/absolute/redirect.cgi?link=http://www.seductionscience.com/jump.php?a=2360)
+
+|   
+ 
