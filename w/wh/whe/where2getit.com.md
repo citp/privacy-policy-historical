@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204173554id_/http%3A//where2getit.com/whoweare/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173635id_/http%3A//where2getit.com/whoweare/privacy.php) for the most accurate reproduction.*
 
 # where2getit: Who We Are
 
