@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizrt.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211192642id_/http%3A//www.vizrt.com/db/70/document211.ehtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizrt.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417012315id_/http%3A//vizrt.com/db/1/116/document245.ehtml) for the most accurate reproduction.*
 
 # vizrt
 
@@ -10,4 +10,5 @@ Any information you provide to **vizrt** over this website will be maintained an
 
 Some portions of the site may allow you to upload information that will identify you. If you decide to use those portions of the site and post information, the information you post will be made public. **vizrt** intends to cooperate with any order or request from law enforcement officials or a court of competent jurisdiction for information as to the identity of individuals submitting or posting information to **vizrt** or to its website.
 
-It is important to us that your experience of the **vizrt** website be positive. Toward this end, we promise to do everything to respect your rights.
+It is important to us that your experience of the **vizrt** website be positive. Toward this end, we promise to do everything to respect your rights.  
+
