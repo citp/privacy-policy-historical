@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizbox.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205051500id_/http%3A//quizbox.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizbox.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603003446id_/http%3A//quizbox.com/privacy.htm) for the most accurate reproduction.*
 
 # QuizBox.com Statement of Privacy
 
@@ -8,8 +8,8 @@ QuizBox.com is committed to protecting your online privacy. We are also committe
 
 ### What information do we collect?
 
-  * **PERSONALITY TESTS, QUIZZES, RIDDLES AND PUZZLES**  
-We do not collect answers to any of the personality tests, quizzes, riddles, and puzzles on this site for any purpose. All of your answers are **completely anonymous and private**.
+  * **PERSONALITY TESTS, RIDDLES AND PUZZLES**  
+We do not collect answers to any of the [personality tests](https://web.archive.org/personality/), riddles, and [puzzles](https://web.archive.org/puzzles/) on this site for any purpose. All of your answers are **completely anonymous and private**.
   *  **OPTIONAL REGISTRATION**  
 We offer free, voluntary registration to users. By registering, users gain access to the [Quiz Builder](https://web.archive.org/builder) area, and they can take advantage of storing their own quizzes on this site.
 
@@ -33,7 +33,7 @@ QuizBox.com does not sell, rent, or trade your personal information with others.
 
 ### Forums
 
-When disclosing personal information such as your actual name, e-mail address, etc in a discussion forum, that information may be collected and used by others. Although QuizBox.com respects the privacy of your messages, it makes no representation, warranties or commitments concerning our ability to keep your messages private in a discussion forum.
+When disclosing personal information such as your actual name, e-mail address, etc in a [discussion forum](https://web.archive.org/builder/forums/), that information may be collected and used by others. Although QuizBox.com respects the privacy of your messages, it makes no representation, warranties or commitments concerning our ability to keep your messages private in a discussion forum.
 
 ### External links
 
