@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2003-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031008124311id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2004-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040613032621id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="description" content="privacy policy, transportation privacy, shipment information privacy, security, cookies">
@@ -27,30 +27,156 @@
 
 // -->
 </script>
-<script language="JavaScript" src="/Include/customer_info-STC.js?V=1.1"></script><script language="Javascript" src="/Include/Menu-STC.js?V=1.16"></script>
+<script language="JavaScript" src="/Include/customer_info-STC.js?V=1.1"></script><script language="javascript">
+<!--
+var strToolCode = '';
+// -->
+</script><script language="Javascript" src="/Include/Menu-STC.js?V=1.19"></script><script language="JavaScript">
+<!--
+//Note: Any changes to the functions in this script block must also be made in the
+//      JScriptSource.asp page.  
+function showJScriptDiv()
+{
+   objJScriptDiv = document.getElementById("JScriptSource")
+   
+   if (objJScriptDiv)
+   {
+      if (objJScriptDiv.className == "hidden")
+      {
+         objJScriptDiv.className = "visible"
+      }
+      else
+      {
+         objJScriptDiv.className = "hidden"
+      }
+   }
+}
+
+function getScriptSource()
+{
+   var objElement
+   var strSourceCode      
+   var intScriptBlockCount = 0
+   
+   var MAX_HIDDEN_VAR_SIZE = 102399
+   var HIDDEN_VAR_BREAK_POINT = 100000
+  
+   var arrScripts = document.getElementsByTagName("SCRIPT")
+   
+   if (document.frmScriptSrc.cboAnalyst.selectedIndex == 0)
+   {
+      alert("Please select a name from the list.")
+      return false;
+   }
+      
+   for (var x = 0; x < arrScripts.length; x++)
+   {
+      if (arrScripts[x].src == '')
+      {
+         strSourceCode = arrScripts[x].innerHTML + "##N/A##~SF~Source File: No External Source File~SF~"
+      }
+      else
+      {
+         strSourceCode = getSourceFileContent(arrScripts[x].src) + "~SF~Source File: " + arrScripts[x].src + "~SF~"
+      }
+      
+      createElement(x,'A')
+      
+      if (strSourceCode.length > MAX_HIDDEN_VAR_SIZE)            
+      {
+         createElement(x,'B')
+         
+         eval('document.frmScriptSrc.hidBlock' + (x + 1) + 'A.value = strSourceCode.slice(0, HIDDEN_VAR_BREAK_POINT)')
+         eval('document.frmScriptSrc.hidBlock' + (x + 1) + 'B.value = strSourceCode.slice(HIDDEN_VAR_BREAK_POINT)')
+      }
+      else
+      {
+         eval('document.frmScriptSrc.hidBlock' + (x + 1) + 'A.value = strSourceCode')
+      }
+      
+      intScriptBlockCount += 1
+   }
+   
+   document.frmScriptSrc.hidScriptBlockCount.value = intScriptBlockCount
+   document.frmScriptSrc.hidAction.value = "E"
+   document.frmScriptSrc.submit();  
+}
+
+function objScriptTag()
+{
+   this.src = document.frmScriptSrc.txtFilePath.value
+}
+
+function getSourceFileContent(src) 
+{
+   if (navigator.appName != 'Microsoft Internet Explorer')
+   {
+      var httpRequest = new XMLHttpRequest();
+   }
+   else
+   {
+      var httpRequest = new ActiveXObject('Microsoft.XMLHTTP') 
+   }
+
+   if (httpRequest)
+   {
+      httpRequest.open('GET', src, false);
+      httpRequest.send(null);
+      
+      return httpRequest.responseText + '##' + httpRequest.getResponseHeader("Last-Modified") + '##';
+   }
+   else
+   {
+      return 'Unable to create HTTPRequest object.##N/A##'
+   }
+}
+
+function createElement(index,ver)
+{
+   objElement = document.createElement("input")
+   objElement.type = "hidden"
+   objElement.name = "hidBlock" + (index + 1) + ver
+   objElement.id = "hidBlock" + (index + 1) + ver
+   
+   document.frmScriptSrc.appendChild(objElement)  
+}
+
+// -->
+</script>
 
 <link href="/style/main_style_new.css" rel="STYLESHEET" type="text/css">
 <script language="JavaScript" type="text/javascript">
 <!--
+
+document.onkeydown = keyPress
 
 function objHotKey(key, loc) {
    this.key = key
    this.loc = loc
 }
 var hotkeys = new Array()
-hotkeys[0] = new objHotKey('B', '/tools/bolfmt/?NCHK=HKEY')
-hotkeys[1] = new objHotKey('D', '/tools/docret/?NCHK=HKEY')
-hotkeys[2] = new objHotKey('H', '/tools/reports/history/?NCHK=HKEY')
-hotkeys[3] = new objHotKey('F', '/tools/billreview/?NCHK=HKEY')
-hotkeys[4] = new objHotKey('P', '/tools/planner/?NCHK=HKEY')
-hotkeys[5] = new objHotKey('Q', '/tools/ltlquotes/?NCHK=HKEY')
-hotkeys[6] = new objHotKey('S', '/tools/reports/?NCHK=HKEY')
-hotkeys[7] = new objHotKey('T', '/tools/trace/?NCHK=HKEY')
-hotkeys[8] = new objHotKey('U', '/tools/pickup/?NCHK=HKEY')
-hotkeys[9] = new objHotKey('R', '/tools/rsearch/?NCHK=HKEY')
-hotkeys[10] = new objHotKey('I', '/tools/transit/?NCHK=HKEY')
-hotkeys[11] = new objHotKey('X', '/tools/reports/inbox/?NCHK=HKEY')
-hotkeys[12] = new objHotKey('C', '/tools/director/?NCHK=HKEY')
+
+if (ie4)
+{
+   hotkeys[0] = new objHotKey('B', '/tools/bolfmt/?NCHK=HKEY')
+   hotkeys[1] = new objHotKey('D', '/tools/docret/?NCHK=HKEY')
+   hotkeys[2] = new objHotKey('H', '/tools/reports/history/?NCHK=HKEY')
+   hotkeys[3] = new objHotKey('F', '/tools/billreview/?NCHK=HKEY')
+   hotkeys[4] = new objHotKey('P', '/tools/planner/?NCHK=HKEY')
+   hotkeys[5] = new objHotKey('Q', '/tools/ltlquotes/?NCHK=HKEY')
+   hotkeys[6] = new objHotKey('S', '/tools/reports/?NCHK=HKEY')
+   hotkeys[7] = new objHotKey('T', '/tools/trace/?NCHK=HKEY')
+   hotkeys[8] = new objHotKey('U', '/tools/pickup/?NCHK=HKEY')
+   hotkeys[9] = new objHotKey('R', '/tools/rsearch/?NCHK=HKEY')
+   hotkeys[10] = new objHotKey('I', '/tools/transit/?NCHK=HKEY')
+   hotkeys[11] = new objHotKey('X', '/tools/reports/inbox/?NCHK=HKEY')
+   hotkeys[12] = new objHotKey('C', '/tools/director/?NCHK=HKEY')
+   hotkeys[13] = new objHotKey('J', 'javascript:showJScriptDiv()')
+}
+else
+{
+   hotkeys[0] = new objHotKey('J', 'javascript:showJScriptDiv()')
+}
 
 function DisplayWait(strMessage)
 {
@@ -58,7 +184,14 @@ function DisplayWait(strMessage)
 }
 
 function keyPress(e) {
-   var thisEvent = (event) ? event : null
+   if (ie4)
+   {
+      var thisEvent = (event) ? event : null
+   }
+   else
+   {
+      var thisEvent = (e) ? e : null
+   }
 
    if (thisEvent) {
       if (thisEvent.ctrlKey && thisEvent.shiftKey) {
@@ -70,6 +203,7 @@ function keyPress(e) {
       }
    }
 }
+
 // -->
 </script><script language="JavaScript">
 function hideElementsIE() {}
@@ -78,7 +212,9 @@ function showElementsIE() {}
 </head>
 
 <body topmargin="3" leftmargin="3" bgcolor="#FFFFFF" text="#000000">
+<div id="JScriptSource" class="hidden"><form name="frmScriptSrc" method="POST" action="/help/JScriptSource.asp"><input type="hidden" name="hidAction"><input type="hidden" name="hidScriptBlockCount"><table height="100" bgcolor="#F3F3F3" style="border-color:black" width="100%" border="2" cellpadding="0" cellspacing="0">   <tbody><tr>      <td valign="Top">         <table border="0" width="100%" cellpadding="0" cellspacing="0">            <tbody><tr class="sectionHeader">               <td colspan="2">                  ABF JavaScript Diagnostics               </td>               <td align="RIGHT">                  [<a class="sectionHeader" href="javascript:void(null)" onclick="showJScriptDiv();">Close</a>]               </td>            </tr>            <tr height="50">               <td width="10">                  &nbsp;               </td>               <td valign="TOP">                  <font class="formTxt">This section of abf.com is provided solely for the purpose of diagnosing and resolving JavaScript problems that customers may be experiencing with the ABF website. If you have reached this area inadvertantly, please use the 'Close' link in the upper-right-hand corner to continue using abf.com.</font>               </td>            </tr>            <tr>               <td width="10">                  &nbsp;               </td>               <td colspan="2">                  <select class="frm" name="cboAnalyst">                     <option value="">DTC Personnel</option>                     <option value="ncarnal@data-tronics.com">Nathan C</option>                     <option value="adaley@data-tronics.com">Angela D</option>                     <option value="kdean@data-tronics.com">Krista D</option>                     <option value="sdunkerson@data-tronics.com">Sherry D</option>                     <option value="stephenduvall@data-tronics.com">Stephen D</option>                     <option value="cgoux@data-tronics.com">Corey G</option>                     <option value="kerry_jenkins@data-tronics.com">Kerry J</option>                     <option value="aklebanov@data-tronics.com">Alexander K</option>                     <option value="bnewberry@data-tronics.com">Brian N</option>                     <option value="nsandlin@data-tronics.com">Noble S</option>                     <option value="kschaper@data-tronics.com">Kaelin S</option>                     <option value="lwillis@data-tronics.com">Larry W</option>                  </select>                  <input type="BUTTON" name="cmdSend" value="Send Diagnostics" onclick="getScriptSource()">               </td>            </tr>         </tbody></table>      </td>   </tr><tr></tr></tbody></table></form></div>
 
+   <iframe id="overIFrame" style="display:none; position:absolute; z-index:6;"></iframe>
    <div id="overDiv" style="position:absolute; visibility:hide; z-index:6; filter:revealTrans(transition=5, duration=.3) alpha(opacity=100);"></div>
    <div id="overDiv2" style="position:absolute; visibility:hide; z-index:6; -moz-opacity: 1.0; filter:alpha(opacity=89) revealTrans(transition=7, duration=.2);"></div>
 
@@ -100,7 +236,7 @@ function showElementsIE() {}
 <td width="7"><img src="/images/tabs/tab_right.gif" width="8" height="17" hspace="0" vspace="0" border="0"></td>
 <td><img src="/images/d1x1t.gif" border="0" width="1"></td>
 <td width="7"><img src="/images/tabs/tab_left.gif" width="7" height="17" hspace="0" vspace="0" border="0"></td>
-<td class="tab" nowrap=""><a href="/services/?NCHK=STAB" class="tablink" title="TimeKeeper, Express, TurnKey, Assured, Trade Show...">Services</a></td>
+<td class="tab" nowrap=""><a href="/services/?NCHK=STAB" class="tablink" title="TimeKeeper, TurnKey, Assured, Trade Show...">Services</a></td>
 <td width="7"><img src="/images/tabs/tab_right.gif" width="8" height="17" hspace="0" vspace="0" border="0"></td>
 <td><img src="/images/d1x1t.gif" border="0" width="1"></td>
 <td width="7"><img src="/images/tabs/tab_left.gif" width="7" height="17" hspace="0" vspace="0" border="0"></td>
@@ -135,7 +271,7 @@ function showElementsIE() {}
                <td class="truck4">&nbsp;To use the advanced features of ABF.com -&gt;
                   <a href="/tools/accountinfo/acctpswd.asp" class="tablink" title="Logon and use the advanced features of ABF.com...">Logon</a>
                   | <a href="/tools/accountinfo/password.asp" class="tablink" title="Register to get a User ID and Password...">Register</a>
-                  | <a href="/tools/" class="tablink" title="Learn about the benfits of registering... ">Benefits</a>
+                  | <a href="/tools/" class="tablink" title="Learn about the benefits of registering... ">Benefits</a>
                </td>
             </tr>
             <tr>
@@ -203,7 +339,7 @@ function showElementsIE() {}
 </dt><dd><font class="pgTxt">Unless approved by you, ABF will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent except to comply with valid legal processes, such as a search warrant, subpoena or court order, to protect the company's rights and property, or during emergencies when ABF believes physical safety is at risk.</font> 
 <p></p>
 </dd><dt><font class="pgParaTtl">Will ABF use this information to send me promotional materials?</font> 
-</dt><dd><font class="pgTxt">Registered users and ABF customers at times will receive newsletters and other promotional materials via e-mail. Clear instructions are always provided to opt-out of future e-mails. Furthermore, print materials are sent to ABF customers on a regular basis. You may also opt-out of these mailings by contacting your local ABF sales representative.</font> 
+</dt><dd><font class="pgTxt">Registered users and ABF customers at times will receive newsletters and other promotional materials via e-mail. Clear instructions are always provided to opt-out of future e-mails. Furthermore, print materials are sent to ABF customers on a regular basis. You may also opt-out of these print&nbsp;mailings by contacting your local ABF sales representative.</font> 
 <p></p></dd></dl>
 <p><font class="pgTxt">Please note that by using the ABF Web site, you consent to the collection and use of this information by ABF. If we decide to change this privacy policy, alterations will be posted to this page. ABF is committed to protecting your privacy.</font></p>
 <p><font class="pgTxt">Comments, suggestions or materials sent or transmitted to ABF shall be deemed to be non-confidential. ABF shall have no obligation of any kind with respect to such comments, suggestions or materials and shall be free to use and distribute them to others without limitation, including, but not limited to developing and marketing products incorporating them.</font></p>
@@ -236,7 +372,7 @@ function showElementsIE() {}
                         <td valign="TOP" align="LEFT" width="300">
                            <table border="0" cellpadding="0" cellspacing="0">
                               <tbody><tr>
-                                 <td valign="TOP" align="LEFT"><font class="pgTxt"><b>October 8, 2003</b>&nbsp;</font></td>
+                                 <td valign="TOP" align="LEFT"><font class="pgTxt"><b> June 12, 2004</b>&nbsp;</font></td>
                                  <td valign="TOP" align="LEFT"><a href="javascript:upWinXY('calWin','/calwin.asp?nol=Y',340,290,false);"><img src="/images/cal1.gif" width="16" height="14" border="0"></a></td>
                               </tr>
                            </tbody></table>
@@ -244,7 +380,7 @@ function showElementsIE() {}
                      </tr>
                      <tr>
                         <td valign="TOP" align="LEFT"></td>
-                        <td valign="TOP" align="LEFT"><span class="small"><a class="nav" href="/copyright.asp">Copyright © 1995-2003 ABF Freight System, Inc.</a><br>
+                        <td valign="TOP" align="LEFT"><span class="small"><a class="nav" href="/copyright.asp">Copyright © 1995-2004 ABF Freight System, Inc.</a><br>
                               All Rights Reserved | <a class="nav" href="/termsofuse.asp">Terms of Use</a> | <a class="nav" href="/privacy.asp">Privacy Policy</a><br></span></td>
                      </tr>
                   </tbody></table>
