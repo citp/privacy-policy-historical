@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604031029id_/http%3A//teletextholidays.co.uk/privacy.asp%3Farea%3Doverseas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210045412id_/http%3A//www.teletextholidays.co.uk/privacy.asp%3Farea%3Doverseas) for the most accurate reproduction.*
 
 # Teletext Holidays
 
