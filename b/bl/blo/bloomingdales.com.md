@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206061233id_/http%3A//www.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624103537id_/http%3A//www.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| |  |   
+| 
+
+|   
 ---  
 |  | 
 
 At Bloomingdale's, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. We also have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information and how you may access some of the data you provide to us.
 
-As we continue to develop our web site and take advantage of technologies to improve the services we provide, this policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. This policy last was updated on April l, 2002.
+As we continue to develop our web site and take advantage of technologies to improve the services we provide, this policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. This policy last was updated on January 8, 2004.
 
 If you have any questions about this policy you can [click here](https://web.archive.org/customerservice/index.jsp), contact us by phone at 1-888-529-2254 or write to:
 
@@ -31,7 +33,7 @@ If you have any questions regarding your credit account(s) with Bloomingdale's.[
 8| what about information about children?  
 9| we want you to trust us  
   
-What Information Do We Collect?
+
 
 We collect various types of information depending upon how you use our site.
 
@@ -54,7 +56,7 @@ When you register with us we also may ask for additional information (e.g., abou
 
 back to top  
   
-What Are Cookies and Do We Use Them?
+
 
 A cookie is a small piece of information sent by a website that is saved on your hard disk by your computer's browser. It holds information a site may need to interact with you and personalize your experience. At bloomingdales.com, we use two kinds of cookies, session cookies and persistent cookies.
 
@@ -68,7 +70,7 @@ Bloomingdales.com uses pixels, or transparent GIF files, to help manage online a
 
 back to top  
   
-How Do We Use Your Information?
+
 
 We may use your information in a number of ways, including the following:
 
@@ -79,7 +81,7 @@ We may use your information in a number of ways, including the following:
 
 back to top  
   
-Do We Share Your Information?
+
 
 The information gathered will be shared with the Federated Department Stores' family of companies. We also may share this information with other third parties, including companies with which we have a relationship. For example:
 
@@ -102,7 +104,7 @@ And in the event that some or all of the business assets of Bloomingdale's are s
 Finally, Bloomingdale's may share your personal information with unrelated outside companies so that they can directly market their products or services to you if we feel that a company offers products or services that may be of interest to you. We also may provide you with the opportunity to sign-up on our web site to receive such e-mail offers.  
   
   
-What Choices Do You Have Regarding the Use of Your Information?
+
 
 We provide you with a number of choices regarding our handling of your personal information online and offline.
 
@@ -110,9 +112,9 @@ Online your choices are:
 
 If you do not want to receive e-mail from bloomingdales.com or do not want us to share your e-mail address and related personal information with unrelated third parties for marketing purposes, please follow the steps outlined below to submit a request electronically:
 
-  * If you do not want to receive email, please use the [Contact Us](https://web.archive.org/service/contact/index.ognc) Form and select the subject line "CUSTOMER SERVICE" from the drop down menu. In the message area, please type "UNSUBSCRIBE FROM EMAIL", along with the email address you want unsubscribed. (Please note that every time we send you an email, we will give you the option to unsubscribe from our e-mail list, so you'll be able to stop our e-mails at any time).
-  * If you do not wish your e-mail address and related personal information to be shared with unrelated third parties for marketing purposes, please use the same [Contact Us](https://web.archive.org/service/contact/index.ognc) form and select the subject line "CUSTOMER SERVICE" from the drop down menu. In the message area, please type "KEEP PRIVATE", along with your name and email address.
-  * If you wish both steps to be taken, please use the [Contact Us](https://web.archive.org/service/contact/index.ognc) form. Follow the same step as above, but type in the message area, "NO EMAIL/KEEP PRIVATE", along with your name and email address.
+  * If you do not want to receive email, please use the [Contact Us](https://web.archive.org/service/contact/index.jsp) Form and select the subject line "CUSTOMER SERVICE" from the drop down menu. In the message area, please type "UNSUBSCRIBE FROM EMAIL", along with the email address you want unsubscribed. (Please note that every time we send you an email, we will give you the option to unsubscribe from our e-mail list, so you'll be able to stop our e-mails at any time).
+  * If you do not wish your e-mail address and related personal information to be shared with unrelated third parties for marketing purposes, please use the same [Contact Us](https://web.archive.org/service/contact/index.jsp) form and select the subject line "CUSTOMER SERVICE" from the drop down menu. In the message area, please type "KEEP PRIVATE", along with your name and email address.
+  * If you wish both steps to be taken, please use the [Contact Us](https://web.archive.org/service/contact/index.jsp) form. Follow the same step as above, but type in the message area, "NO EMAIL/KEEP PRIVATE", along with your name and email address.
 
 
 
@@ -124,7 +126,7 @@ BLOOMINGDALE'S CUSTOMER SERVICE
 P.O. Box 8215  
 Mason, OH 45040
 
-  * · If you shop at our Bloomingdale's stores or through the Bloomingdale's By Mail catalog and wish to be removed from the list of customers that receive direct mail or from our telemarketing lists, please either: (i) write to Bloomingdale's Customer Service, P.O. Box 8215, Mason, OH 45040, or (ii) call Customer Service toll-free at 1-888-529-2254.
+  * If you shop at our Bloomingdale's stores or through the Bloomingdale's By Mail catalog and wish to be removed from the list of customers that receive direct mail or from our telemarketing lists, please either: (i) write to Bloomingdale's Customer Service, P.O. Box 8215, Mason, OH 45040, or (ii) call Customer Service toll-free at 1-888-529-2254.
 
 
 
@@ -138,10 +140,10 @@ If you choose to write us, please include your name, address, phone number and B
 
 Since customer lists often are prepared well in advance of an offering (sometimes 3-4 months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request.
 
-You also may use the address and phone number above to request that we not disclose your personal information to unrelated third parties for marketing purposes. If you choose to write to us, please include your name, address and Bloomingdaleâ€™s credit card account number (if you have one) and state â€œNO THIRD PARTY SHARINGâ€ in your request.  
+You also may use the address and phone number above to request that we not disclose your personal information to unrelated third parties for marketing purposes. If you choose to write to us, please include your name, address and Bloomingdale's credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request.  
   
   
-Is My Information Secure?
+
 
 Bloomingdale's is committed to doing its best to maintain the security of information collected on its site. To try to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place the appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
@@ -150,7 +152,7 @@ To the extent customer information is maintained, it is located on a secured ser
 Encryption is a process by which a message or information is scrambled while it is in transit to bloomingdales.com. It is based on a key that has two different parts, public and private. The public part of the key is distributed to those with whom you want to communicate. The private part is for the recipient's use only. So long as you use a browser that allows for encryption, when you send personal information to us, you use a public key to encrypt your personal information. If your information is intercepted during the transmission, it is scrambled and very difficult to decrypt. Once we receive your encrypted personal information, we use the private part of our key to decode it.  
   
   
-Can I Access My Information?
+
 
 If you are a registered user of bloomingdales.com, you can update your information. 
 
@@ -159,13 +161,13 @@ If you would like to email our Customer Service Department please use the Contac
 Questions regarding your charge account can be forwarded to our Credit Customer Service Department. Please use the Contact Us Form and select the appropriate subject line from the drop down menu.  
   
   
-What About Information About Children?
+
 
 The Children's Online Privacy Protection Act took effect on April 21, 2000 and imposes certain requirements on websites directed toward children under 13 that collect information on those children, or on web sites that know they are collecting information on children under the age of 13. We want to let you know that it currently is bloomingdales.com's policy not to collect personal information on any person under 13. For this reason, our online sweepstakes are restricted to entrants who, at a minimum, are at least 13.
 
 If this policy changes, Bloomingdale's will revise this portion of its privacy policy and will comply with the requirements of the Children's Online Privacy Protection Act, which include providing notice and choice to each child's parent or guardian before collecting personal information.  
   
   
-We Want You to Trust Us
 
-Your confidence in the bloomingdales.com shopping experience is our highest priority. If you have any concerns about privacy and security that have not been answered in the above policy, please [contact us](https://web.archive.org/service/contact/index.ognc) and we'll do our best to answer your questions and put your mind at ease
+
+Your confidence in the bloomingdales.com shopping experience is our highest priority. If you have any concerns about privacy and security that have not been answered in the above policy, please [contact us](https://web.archive.org/service/contact/index.jsp) and we'll do our best to answer your questions and put your mind at ease
