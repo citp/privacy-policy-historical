@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackworld.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207081852id_/http%3A//www.blackworld.com/policystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackworld.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606000437id_/http%3A//www.blackworld.com/policystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -48,7 +48,13 @@ This site contains links to other sites. **Blackworld™** is not responsible fo
 #### As a general rule, Blackworld™ will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please refer to the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed. _Business Partners & Sponsors: _  
 Blackworld™ may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data. Details of shared use can be found in specific Terms of Service or Use Agreements, and sweepstakes and promotions rules. Some or all data collected during a Blackworld™ promotion may be shared with a sponsor. If personally identifying data about you will be shared, we will tell you before we collect or transfer the data. Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give Blackworld™ permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer. 
 
-####  Blackworld.com works with a third party that serves ads to this site. The ads appearing on this Web site are delivered to you by DoubleClick's Sonar Network, our Web advertising partner. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. Information about your visit to this site (but not your name, address, or other personal information) is used to serve ads to you on this site. This information is not collected by Sonar and DoubleClick for profiling. For more information about Sonar, cookies, and your right to "opt-out" please click here: <http://www.sonar.com/content/privacy.htm>
+####  _Third Party Advertising_  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here:
+
+<http://www.maxonline.com/privacy_policy/index.php>
+
+**_Third Party Cookies_**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 ####  Public Forums 
 
@@ -62,7 +68,7 @@ Naturally, the safety of children is very important to us. Blackworld™ recomme
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us . 
 
-  1. You can send email to [ dir@blackworld.com ](mailto:dir@blackworld.com)
+  1. You can send email to [ info@blackworld.com ](mailto:info@blackworld.com)
 
 
 
@@ -70,7 +76,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can send email to [ dir@blackworld.com ](mailto:dir@blackworld.com)
+  1. You can send email to [ ](mailto:dir@blackworld.com)[info@blackworld.com ](mailto:info@blackworld.com)
 
 
 
@@ -79,9 +85,9 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[ dir@blackworld.com ](mailto:dir@blackworld.com)  
+[ ](mailto:dir@blackworld.com)[info@blackworld.com ](mailto:info@blackworld.com)   
 
 
 * * *
 
-Copyright 1996-2000.Blackworld **™** All Rights Reserved 
+Copyright 1996-2004.Blackworld **™** All Rights Reserved 
