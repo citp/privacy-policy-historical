@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaq.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204011200id_/http%3A//cbs.sportsline.com/u/userservices/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaq.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603120727id_/http%3A//cbs.sportsline.com/u/userservices/privacy.htm) for the most accurate reproduction.*
 
 # Member Services - CBS.SportsLine.com
 
@@ -6,7 +6,7 @@
 
 * * *
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of SportsLine.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for SportsLine.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites (including those to which the Website links and third party sites or services with which SportsLine.com) may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to [privacy@sportsline.com](mailto:%20privacy@sportsline.com)
+Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of SportsLine.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for SportsLine.com (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other sites (including those to which the Website links and third party sites or services with which SportsLine.com) may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to [privacy@sportsline.com](http://www.sportsline.com/u/userhelp/helpcenter/contactus.htm)
 
 **General Privacy Information**   
 SportsLine.com's network of sites contain links to partners, advertisers and third party Internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of SportsLine.com and SportsLine.com has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such Web sites. Please keep in mind that whenever you voluntarily and publicly disclose personal information on any online service or Web site - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Further, while we strive to protect your personal information, SportsLine.com cannot ensure or warrant the [security](https://web.archive.org/u/userservices/privacy.htm#security) of any information you transmit to us, and you do so at your own risk. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.
@@ -15,14 +15,14 @@ SportsLine.com's network of sites contain links to partners, advertisers and thi
 All of the information SportsLine.com collects, both what you tell us and what we collect through the use of [cookies](https://web.archive.org/u/userservices/privacy.htm#cookies), is "aggregated" -- meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. We may use this aggregated information to evaluate which products and services are successful and which ones are not, and in order to evaluate which new services we should make available on our Web sites. We may use only the anonymous click stream data to help our advertisers deliver better-targeted advertisements. SportsLine.com will not disclose any information about any individual without the individual's consent, except to comply with applicable law or valid legal process. There may be cases in which some of your personal information may be used by SportsLine.com to target e-commerce promotions and telemarketing activities. In addition, it may be shared with [Third Parties](https://web.archive.org/u/userservices/privacy.htm#others) who assist SportsLine.com in producing its Web sites or provide a service to SportsLine.com's users.
 
 **Contacting the Web Site**   
-If you have any questions about this Statement, the practices of SportsLine.com with respect to personal information or your dealings with this Web site, you can contact [Member Services](mailto:memberservice@sportsline.com) or write to: 
+If you have any questions about this Statement, the practices of SportsLine.com with respect to personal information or your dealings with this Web site, you can contact [Member Services](http://www.sportsline.com/u/userhelp/helpcenter/contactus.htm) or write to: 
 
 Customer Service  
 SportsLine.com, Inc.  
 Attn.: Privacy Statement  
-PO Box 101027  
-Fort Lauderdale, FL 33310  
-Fax: 800.771.7209  
+2200 W. Cypress Creek Road  
+Fort Lauderdale, FL 33309  
+Fax: 954-429-4199  
 
 
 
@@ -62,9 +62,9 @@ SportsLine.com's technology department conducts frequent site security audits an
 **Personal Options**   
 You have the following options to deactivate your information from SportsLine.com's database. This will cease deployment of future communications and/or SportsLine.com's services. 
 
-  1. You can send an email to [Member Services](mailto:memberservice@sportsline.com)
+  1. You can send an email to [Member Services](http://www.sportsline.com/u/userhelp/helpcenter/contactus.htm)
   2. You can contact customer service at 800-771-4616 
-  3. You can [change/modify](https://web.archive.org/u/userservices/privacy.htm#options) your personal options 
+  3. You can [change/modify](http://cbs.sportsline.com/u/contests/register/update.htm) your personal options 
 
 **WARNING:** Deactivating your account will result in the loss of access to Members-Only areas.
 
