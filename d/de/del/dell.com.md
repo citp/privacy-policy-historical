@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603091243id_/http%3A//www1.us.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26cs%3D%26l%3Den%26s%3Dgen%26%7Eck%3Dlf%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210085927id_/http%3A//www1.us.dell.com/content/topics/global.aspx/policy/en/policy%3Fc%3Dus%26l%3Den%26s%3Dgen%26%7Eck%3Dlf%26%7Esection%3D000) for the most accurate reproduction.*
 
 # Dell's Online Policies
 
-Dell respects your privacy. Across our business, around the world, we will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, and share product, service and company news and offerings with you. We do not sell your personal information. We only share your personal data outside the Dell family of companies with your consent, as required by law or to protect Dell, its customers, or the public, or with companies that help Dell fulfill its obligations with you, and then only with partners who share Dell's commitment to protecting your privacy and data. At any time you may contact Dell with any privacy questions or concerns you may have. You also may ask at any time to see the data you have given us and request correction or deletion. We strive to ensure a high level of security and confidentiality. 
+Dell respects your privacy. Across our business, around the world, we will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, and share product, service and company news and offerings with you. We do not sell your personal information. We only share your personal data outside the Dell family of companies with your consent, as required by law or to protect Dell, its customers, or the public, or with companies that help Dell fulfill its obligations with you, and then only with partners who share Dell's commitment to protecting your privacy and data. At any time you may contact Dell with any privacy questions or concerns you may have. You also may ask at any time to see the personal data you have given us and request correction or deletion. We strive to protect the security of your personal data by use of appropriate measures and processes. 
 
 Privacy and Data Security
 
@@ -16,7 +16,7 @@ Dell's Privacy statement discloses the privacy guidelines for the entire domesti
 
 Dell only asks for specific types of personal information
 
-In a few areas on our Web site and online customer support tools, we ask you to provide information that will enable us to enhance your site visit, to assist you with technical support issues or to follow up with you after your visit. It is completely optional for you to participate. 
+In a few areas on our Web site and online customer support tools, we ask you to provide information that will enable us to enhance your site visit, to assist you with purchase and technical support issues or to follow up with you after your visit. It is completely optional for you to participate. 
 
 For example, we request information from you when you: 
 
@@ -32,7 +32,7 @@ For example, we request information from you when you:
 
 
 
-In each of the instances above, we may ask for your name, e-mail address, phone number, address, type of business, customer preference information, customer number and service tag number, as well as other similar personal information that is needed to register or subscribe you to services or offers. If we ever ask for significantly different information we will inform you. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time. 
+Information we may request includes your name, e-mail address, phone number, address, type of business, credit card details, customer preference information, customer number and service tag number, as well as other similar personal information. Should you choose to apply for credit through our financial service providers, we may also ask for your social security number and other information to process your credit request. If we ever ask for significantly different information we will inform you. 
 
 Dell only uses your personal information for specific purposes
 
@@ -40,9 +40,9 @@ The information you provide will be kept confidential and used to support your c
 
 In addition, Dell may be required to disclose personal information in connection with law enforcement, fraud prevention, regulation, and other legal action or if Dell reasonably believes it is necessary to do so to protect Dell, its customers, or the public. 
 
-You can opt-out of receiving further marketing from Dell at any time
+You can opt-out of Dell's marketing list at any time
 
-Periodically, we may send you information about our various products and services, or other products and services we feel may be of interest to you. Only Dell (or agents working on behalf of Dell and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt-out of receiving further marketing from Dell by [clicking here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=009). 
+Periodically, we may send you information about our various products and services, or other products and services we feel may be of interest to you. Only Dell (or agents working on behalf of Dell and under confidentiality agreements) will send you these direct mailings. If you do not want to be included on Dell's marketing list, simply tell us when you give us your personal information. Or, at any time you can easily opt-out of Dell's marketing list or update your information by [clicking here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=009). 
 
 Dell will not disclose your personal information to any outside organization for its use in marketing without your consent
 
@@ -80,7 +80,7 @@ Contact Dell
 
 Dell is the sole operator of the Dell Web site. If you would like to contact us for any reason regarding our privacy practices, please write us at the following address: 
 
-Dell Computer Corporation
+Dell Inc.
 
 Attention: Privacy
 
@@ -88,10 +88,14 @@ One Dell Way
 
 Round Rock, Texas 78682
 
-You may also click [here](http://support.dell.com/us/en/emaildell/webmaster.asp) and fill out the e-mail form under the topic: "Privacy Info: Request" 
+You may also click [here](http://support.dell.com/support/topics/global.aspx/support/en/site_feedback?c=us&cs=19&l=en&s=gen) and fill out the e-mail form under the topic: "Privacy Info: Request" 
 
 Dell wants to help you keep your personal information accurate
 
-You can request the individual information that Dell has collected by submitting a request [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=009). To view or edit the information that has been stored online, please visit the [My Account section](http://membership.dell.com/dellportal/signin.aspx?c=us&l=en&s=dhs) of the Dell Web site.
+You can request the individual information that Dell has collected by submitting a request [here](https://web.archive.org/content/topics/global.aspx/policy/en/policy?c=us&l=en&s=gen&~section=009). To view or edit the information that has been stored online, please visit the [My Account section](https://membership.dell.com/dellportal/signin.aspx?c=us&l=en&s=dhs) of the Dell Web site.
 
-Effective Date: Oct. 11, 2003
+Changes to the Policy
+
+Privacy Statement Effective Date: July 1, 2004
+
+Material changes to this policy will be posted on Dell's Web site for 30 days.
