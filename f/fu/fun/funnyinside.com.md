@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyinside.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605082202id_/http%3A//www.funnyinside.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyinside.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217100044id_/http%3A//www.funnyinside.com/policy.shtml) for the most accurate reproduction.*
 
 # Policy, Dirty Jokes, Adult Comics, Dirty Cartoons, Adult Funny Pictures
 
@@ -22,4 +22,4 @@ Sitemeter is our third party tracking system to track the usage of our site. For
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us: 
 
-[ **Click here to get our e-mail address**](http://funnyinside.com/email-address.shtml)
+[ **Click here to get our e-mail address**](http://www.funnyinside.com/email-address.shtml)
