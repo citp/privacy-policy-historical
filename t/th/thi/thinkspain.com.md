@@ -1,0 +1,20 @@
+> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610004536id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
+
+# Thinkspain - Privacy Policy
+
+GPI is committed to maintaining your personal details confidential, and has taken the appropriate technical, security and administrative measures to avoid unauthorised access, removal or modification of these details in accordance with the data protection law 15/1999 of December 13 of Spain. 
+
+Where the personal details collected are for a third party (eg. An enquiry about a Property, Car/Bike/Boat, Classified Advert, Personal Contact), GPI will only provide the third party with the information as provided by you and with the sole objective of enabling the advertiser to contact the enquirer. Your information will not be stored by GPI for the purposes of our contacting you.
+
+We may use the information we collect relating to ThinkSpain (eg. E-newsletter subscriptions, Advertising applications), but not the information that is destined only to third-parties, to occasionally send you information we believe may be of interest. If you do not wish to receive such information, write to ThinkSpain.com, Calle Sandunga 52, 03700 Denia, Alicante, Spain or send an e-mail to [unsubscribe@thinkspain.com](mailto:unsubscribe@thinkspain.com), specifying the e-mail address where you no longer wish to receive such information.
+
+GPI will not sell, trade or rent your personal information to others unless you have given us your permission or as required by law or legal process.
+
+GPI may provide aggregate statistics about our customers, sales, traffic patterns and related site information to our clients, but these statistics will include no personally identifying information.
+
+Should we elect to change our privacy policy we will post the changes here.
+
+GPI reserves the right to remove your details and/or not provide requested information without explanation.  
+
+
+ThinkSpain.com © - Grup de Premsa Independent S.L, Calle Sandunga 52, 03700 Denia, Alicante, Spain. Co. Reg. No. B-96610332. Contact [thinkspain@thinkspain.com](mailto:thinkspain@thinkspain.com)
