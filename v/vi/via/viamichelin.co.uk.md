@@ -1,76 +1,34 @@
-> *The following text is extracted and transformed from the viamichelin.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204221538id_/http%3A//www.viamichelin.com/viamichelin/gbr/htm/div/MaTermsOfUse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viamichelin.co.uk privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320015845id_/http%3A//www.viamichelin.co.uk/viamichelin/gbr/tpl/psg/divers/htm/privacypolicy.htm) for the most accurate reproduction.*
 
-# ViaMichelin : Charter of Confidence
+# ViaMichelin - Privacy Policy
 
-|   
-|   
----  
-| 
+When exchanging e-mails  
+The information supplied by you when you send us an e-mail is only used to ensure the best response to your question or to act in line with your instructions (for example, sending a printed catalogue of Michelin publications to your postal address). 
 
-MICHELIN wants to build up a relationship of confidence with its customers. That's why we have taken the initiative of drawing up this Charter of Confidence - a Charter that we will always apply meticulously.   
+You will not be sent any unsolicited e-mail advertising without your prior consent. In this respect, if you wish to receive promotional offers and information on ViaMichelin products and services by e-mail, you can tick the box intended for this purpose on the My ViaMichelin registration form.
 
+Your personal information will not be sent to third-party companies (within the Michelin Group, our partners, etc.) for marketing purposes without your prior consent. If you wish to receive promotional offers by e-mail from third parties, you can tick the box intended for this purpose on the My ViaMichelin registration form.
 
-Any personal information supplied is always the result of a deliberate decision taken by you. 
+In accordance with current French legislation (Art. 40 of the Data Protection and Freedom of Information law of 6th January 1978, amended by the law of 6th August 2004), you have the right to access, modify, correct and delete your personal information. 
 
-We do not have any hidden means of obtaining personal information without your consent. Today, there are two areas on the website that ask you for personal information:
-
-|   
-|  | 
-
- My ViaMichelin:   
-\- the newsletter: if you have "subscribed", you will receive an e-mail summary of the magazine when each issue is published. You can cancel your subscription at any time by clicking on the link at the end of the newsletter  
-\- My ViaMichelin personalised services: this service allows you to create your own personalized area in the ViaMichelin website. You can access, modify or delete your personal data at any time in the area which you have created.
+To exercise this right, please write to:
 
 |   
-|  | 
-
-The exchange of e-mails: the information that you supply when you contact us by e-mail is only used to ensure the best response to your question or to act in line with your instructions (for example, sending a printed catalogue of our publications to your postal address). You will not receive any unsolicited e-mail messages without your previous consent.  
-
-
-|   
-| 
-
-The personal information that you provide is used:  
-  
-1\. To offer you products adapted to your needs and requirements during your visit to our website. 
-
-2\. To inform you by e-mail about the new services and/or new products that we develop.
-
-We would, on occasion, like to communicate information to you concerning our commercial partners and companies within the Michelin Group, particularly in connection with promotional offers. If you wish to receive this information, tick the box "I wish to receive promotional offers from ViaMichelin partners" in the "My ViaMichelin" form.
-
-Furthermore, and in keeping with current French legislation (art. 34 of the "Informatique et Libertés" law (Information technology and civil liberties) of January 6th 1978), you have the right to access, modify, rectify or suppress your personal data. To exercise this right, write to us at the following address:
-
-|   
-  |  |  |   
-
-
 **  ViaMichelin  
  Customer Service  
  110 Avenue Victor Hugo  
  92514 Boulogne-Billancourt Cedex  
  France**  
-  
 ---|---  
-   
-  | 
+  
+Our website has been designed to meet your needs. It uses cookies. Cookies are small chunks of data sent to your browser by a web server which then installs it on your computer hard drive. Generally speaking, it records data about your computer's navigation within our website (pages viewed, date and time of your visit, etc.), which are read during your next visits. For example, this means that you will not have to fill out a My ViaMichelin registration form again during subsequent visits in order to benefit from our personalised services.
 
-Knowing more about you enables us to provide you with the information you really need. Our website has been designed to meet your needs.
+If your internet browser is configured to not accept cookies, we cannot guarantee that the services available to you on our website will work correctly. 
 
-This is one of the reasons why we use cookies. Cookies are small chunks of data sent to your browser by a web server. This data is installed on your computer's hard disk. The cookie will not identify who you are. It will simply record data about your computer's navigation within our website (the pages consulted, the date and time of your visit, etc.). The cookie will then help us to offer more adapted and personalised services for you during your next visits.
+Our website uses the AdLINK ad server to display the advertisements seen on our website pages. This partner uses cookies to help target the advertisements shown. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of AdLINK, please [click here](http://www.doubleclick.net/privacy_policy). 
 
-The ViaMichelin website uses cookies. As a result, if your computer is configured to not accept cookies, you may not be able to see some website pages or take advantage of various personalisation features that ViaMichelin offers on its website.
+As this privacy policy is designed to become more comprehensive over time, we will ensure that it develops in line with your requirements and expectations.
 
-Our Website uses ad servers (such as DoubleClick) to serve the advertisments that you see on pages of our Website. That partner uses cookies to help target ads to you. To find out more about cookies and the information-gathering practices and opt-out precedures of DoubleClick, please [ click here](http://www.doubleclick.net/privacy_policy). 
+We are therefore open to all questions and suggestions related to our privacy policy. Please feel free to send us your comments in the [Contact us](https://web.archive.org/web/20050320015845id_/http%3A//www.viamichelin.co.uk/viamichelin/gbr/dyn/controller/contact) section. 
 
-|    
-|  |   
-  |   
-
-
-As this Charter is designed to become more complete over time, we fully intend to ensure that it develops in line with your requirements and expectations.
-
-Dans cette perspective nous sommes à votre disposition pour We are open to all questions and suggestions related to the Charter of Confidence. Please do not hesitate to send us your comments in the ["Contact us"](https://web.archive.org/web/20041204221538id_/http%3A//www.viamichelin.com/viamichelin/gbr/dyn/controller/contact) section. 
-
-You have other questions: please consult our FAQ, we may have already answered them.
-
-|  
+If you have any other questions, please check with our online Help-FAQ section as we may have already answered them.
