@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kohler.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607132746id_/http%3A//www.kohler.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kohler.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207104400id_/http%3A//www.kohler.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Kohler Co.
 
