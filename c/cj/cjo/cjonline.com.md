@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cjonline.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033245id_/http%3A//www.cjonline.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjonline.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206093507id_/http%3A//www.cjonline.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # CJOnline.com | The Topeka Capital-Journal
 
@@ -29,13 +29,13 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [Rob Curley](mailto:rcurley@cjonline.com), or you can reach us by telephone at 785-295-1200. 
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [Corey Shoup](mailto:cshoup@cjonline.com), or you can reach us by telephone at 785-295-1621. 
 
 You can also write us at: 
 
 CJOnline.com  
 The Topeka Capital-Journal  
-616 SE Jefferson  
+616 S.E. Jefferson  
 Topeka, KS 66607
 
 These privacy policies are effective as of Jan. 19, 2000. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect. 
@@ -50,4 +50,4 @@ At any time while assessing our sites, any user while online may "opt-out" of fu
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [**rcurley@cjonline.com.**](mailto:rcurley@cjonline.com)
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [**cshoup@cjonline.com.**](mailto:cshoup@cjonline.com)
