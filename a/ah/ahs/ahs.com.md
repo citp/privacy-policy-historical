@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahs.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604214232id_/http%3A//www.ahs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahs.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210042640id_/http%3A//www.ahs.com/privacy.asp) for the most accurate reproduction.*
 
 # American Historic Society (ver 0.9)
 
