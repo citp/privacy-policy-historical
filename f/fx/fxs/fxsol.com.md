@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsol.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192937id_/http%3A//fxsol.com/legal/privacy_policy.fx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsol.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206155715id_/http%3A//www.fxsol.com/legal/privacy_policy.fx) for the most accurate reproduction.*
 
 # FX Solutions | GTS Platform | Privacy Policy
 
