@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2003-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030208015909id_/http%3A//minyanville.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008125614id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Minyanville : Company : Privacy Statement
 
