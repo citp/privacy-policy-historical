@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalplanet.co.za privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622071643id_/http%3A//www.digitalplanet.co.za/dp/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalplanet.co.za privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215145200id_/http%3A//www.digitalplanet.co.za/DP/about/default.asp%3FID%3D10) for the most accurate reproduction.*
 
-# Digital Planet - Privacy Policy
+# Digital Planet - About Us
 
 **Digital Planet respects your privacy** This statement discloses the privacy practices for both our Web site and email system. 
 
@@ -37,5 +37,3 @@ Digital Planet uses software tags called "cookies" to identify customers when th
 **Updating Customer Information**
 
 At any time you may update your Digital Planet customer account information by going to the customer zone and clicking on "Edit Personal Details". Here you may update your name, password, billing address, shipping address, and telephone number. 
-
-Click on the links below to view further information 
