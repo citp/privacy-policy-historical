@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621124035id_/http%3A//www.gagirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234829id_/http%3A//gagirl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -26,6 +26,6 @@ following information about your visit:
 
 This site uses the services of Fastclick.com, Inc. for the serving and/or targeting of ads, promotions and   
 other marketing messages. To learn more about Fastclick, including your ability to opt out of the Fastclick   
-system, go to <http://www.fastclick.com/about/privacy.html>.
+system, go to <http://www.fastclick.com/co_privacy.html>.
 
 If you have any questions about our dedication to privacy, please [contact us.](http://www.gagirl.com/mail.html)
