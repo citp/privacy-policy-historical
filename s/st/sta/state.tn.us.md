@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the state.tn.us privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205055604id_/http%3A//www.tennesseeanytime.org/main/supplements/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.tn.us privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603163108id_/http%3A//www.tennesseeanytime.org/main/supplements/privacy.html) for the most accurate reproduction.*
 
 # TennesseeAnytime: Privacy Policy
 
-## PRIVACY STATEMENT
+### PRIVACY STATEMENT
 
 **State of Tennessee Web Site Privacy Statement**  
 The privacy, confidence, and trust of individuals who visit the State of Tennessee web site are important to us. No personal information is collected at this site unless it is provided voluntarily by an individual while participating in an activity that asks for the information. The following paragraphs disclose the information gathering and usage practices for the web site. 
@@ -37,4 +37,4 @@ The State welcomes comments regarding this privacy statement. Please convey any 
 Bonnie Heithcock, State Portal Manager  
 Department of Finance and Administration  
 Office for Information Resources   
-(615) 741-3704 E-mail: [Bonnie Heithcock ](mailto:bheithcock@mail.state.tn.us)
+(615) 741-3704 E-mail: [Bonnie.Heithcock@state.tn.us](mailto:bonnie.heithcock@state.tn.us)
