@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxsteel.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212060500id_/http%3A//www.maxsteel.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxsteel.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603223721id_/http%3A//www.maxsteel.com/policy.asp) for the most accurate reproduction.*
 
 # Mattel, Inc. Website Policies
 
@@ -9,7 +9,7 @@ Mattel, Inc. Online Privacy Policy
 **
 
 **  
-** Mattel is committed to protecting your on-line privacy when visiting any web sites operated by us or our family of companies, such as The Learning Company. We do not collect and keep any personal information from you unless you volunteer it and you are 13 or older. We also do not collect and keep personal information on-line from children under the age of 13 without their parent’s consent. Please review the information below to familiarize yourself with our policies on web site privacy, so that you can take full advantage of all the fun stuff available at our sites for you and your family. 
+** Mattel is committed to protecting your on-line privacy when visiting any web sites operated by us or our family of companies. We do not collect and keep any personal information from you unless you volunteer it and you are 13 or older. We also do not collect and keep personal information on-line from children under the age of 13 without their parent’s consent. Please review the information below to familiarize yourself with our policies on web site privacy, so that you can take full advantage of all the fun stuff available at our sites for you and your family. 
 
 ****
 
