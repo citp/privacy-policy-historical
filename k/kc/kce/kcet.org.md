@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610141426id_/http%3A//kcet.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228070854id_/http%3A//www.kcet.org/privacy-policy.php) for the most accurate reproduction.*
 
 # KCET Online - Privacy Policy.ph - Community Television of Southern California
 
