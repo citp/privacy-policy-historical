@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the vr-zone.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204012830id_/http%3A//www.vr-zone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vr-zone.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305163157id_/http%3A//www.vr-zone.com/privacy.php) for the most accurate reproduction.*
 
 # New Page 3
+
+  
+**Warning** : main(http://www.vr-zone.com/sitepics/sidebar.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found in **/home/vr-zone.com/privacy.php** on line **115**
+
+**Warning** : main(): Failed opening 'http://www.vr-zone.com/sitepics/sidebar.php' for inclusion (include_path='.:/usr/share/pear') in **/home/vr-zone.com/privacy.php** on line **115**
 
 **VR -Zone Privacy Policy**
 
