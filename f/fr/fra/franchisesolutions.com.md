@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413053625id_/http%3A//franchisesolutions.com/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605033216id_/http%3A//www.franchisesolutions.com/index.cfm/fa/privacy) for the most accurate reproduction.*
 
-# Franchise & business opportunities
+# Looking to start a business? Get ideas from our franchise, restaurant, and small business opportunities guide.
 
-**Our Privacy Policy is Simple…**
+|  | 
 
+|  |  Privacy Policy   
+|  **Our Privacy Policy is Simple…** |   
+---|---  
+  
 * * *
 
   
