@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202201723id_/http%3A//aten-usa.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209085509id_/http%3A//aten-usa.com/main.php%3Floc%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Statement for ATEN-USA
+# ATEN Technology, Inc. - Simply Better Connections
 
-**Protecting your privacy is important to ATEN. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the ATEN Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.** ****
+Protecting your privacy is important to ATEN. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the ATEN Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
- **Why we collect personal information**
+Why we collect personal information
 
 ATEN collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, software updates, special offers, and other information we think you'd like to hear about. This may occasionally include information from other technology companies about products and services that can add value to your ATEN products. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge customer satisfaction and develop better products. 
 
-**How we collect personal information**
+How we collect personal information
 
 We collect information about you in several ways. For example, we might ask for your contact information when you correspond with us, call us to make a purchase or request service, register to attend a seminar, or participate in an online survey. In addition, when you register a new ATEN product, sign up for ATEN Internet services, or ask to be included in an email mailing list, we collect and store the information you provide in a secure database. 
 
 To save you time and make our web services even easier to use, some areas of the ATEN website allow you to create an "ATEN ID" using your personal information. Here's how it works: Simply fill out a brief profile-your name, phone number, and email address-then choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal ATEN ID. Next time you order something from the ATEN Direct Store or use ATEN University, you can simply enter your required information and the system will recall it for you.
 
-**When we disclose personal information**
+When we disclose personal information
 
-Because ATEN is a global company, your personal information may be shared with other ATEN business units around the world. They will protect your personal information in accordance with the ATEN Customer Privacy Policy. ATEN may occasionally share your personal contact information with carefully selected technology companies, to keep you informed about related products and services. For example, when new software or hardware is released, we may work with other developers to ensure that you're aware of the latest software or hardware available for your computer. If you do not want to receive promotional information from ATEN or these technology companies, click [privacy@aten-usa.com](mailto:privacy@aten-usa.com) and send us a message stating that you would like to not be included in such updates.
+Because ATEN is a global company, your personal information may be shared with other ATEN business units around the world. They will protect your personal information in accordance with the ATEN Customer Privacy Policy. ATEN may occasionally share your personal contact information with carefully selected technology companies, to keep you informed about related products and services. For example, when new software or hardware is released, we may work with other developers to ensure that you're aware of the latest software or hardware available for your computer. If you do not want to receive promotional information from ATEN or these technology companies, click privacy@aten-usa.com and send us a message stating that you would like to not be included in such updates.
 
 ATEN works with other companies that help us provide ATEN products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with ATEN's policies. 
 
 At times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe that disclosure is necessary for the public interest. 
 
-**How we protect your personal information**
+How we protect your personal information
 
 ATEN safeguards the security of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet. When using ATEN University or ATEN Direct, change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
 
 The ATEN Direct Store uses industry-standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. To make purchases from the ATEN Direct Store, you must use an SSL-enabled browser such as Netscape Navigator 3.0 or later, or Internet Explorer. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet. 
 
-**Access to your personal information**
+Access to your personal information
 
-You always have access to the information we have about you. To review and update your personal contact information, simply email your request to [privacy@aten-usa.com](mailto:privacy@aten-usa.com), be sure to include your previous information so can locate you in our database. If you would like to review other personal information that ATEN may have about you, email us at [privacy@aten-usa.com.](mailto:privacy@aten-usa.com)
+You always have access to the information we have about you. To review and update your personal contact information, simply email your request to privacy@aten-usa.com, be sure to include your previous information so can locate you in our database. If you would like to review other personal information that ATEN may have about you, email us at [privacy@aten-usa.com](mailto:privacy@aten-usa.com). 
 
-**Collecting other personal information**
+Collecting other personal information
 
 When you browse ATEN's website, you are able to do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
 
@@ -40,7 +40,7 @@ Like many websites, the ATEN website uses "cookie" technology. When you first co
 
 In some of our email to you, we use a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the website that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications. 
 
-**Our companywide commitment to privacy**
+Our company wide commitment to privacy
 
 To make sure your personal information remains confidential, we communicate these privacy guidelines to every ATEN employee. In addition, ATEN adheres to industry initiatives such as the Online Privacy Alliance ([http://www.privacyalliance.org](http://www.privacyalliance.org/)) to preserve privacy rights on the Internet and in all aspects of electronic commerce. Though not a member, ATEN works to maintain the same standards outlined by the organization.
 
@@ -50,8 +50,8 @@ ATEN's website contains links to other sites. ATEN does not share your personal 
 
 If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner. 
 
-**The ATEN Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.**
+The ATEN Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes. 
 
-  
 Last updated January 21, 2002  
-© 2002 ATEN, Inc. All rights reserved. 
+© 2002 ATEN, Inc. All rights reserved.   
+
