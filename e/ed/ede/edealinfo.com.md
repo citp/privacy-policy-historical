@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411084826id_/http%3A//www.edealinfo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204174122id_/http%3A//www.edealinfo.com/privacy.shtml) for the most accurate reproduction.*
 
 # eDealinfo.com Privacy Policy
 
-[](https://web.archive.org/index.shtml) |  **January 30, 2020**  
----|---  
-  
 eDealinfo.com is committed to the security and privacy of our visitors.
 
 Personal Information
@@ -27,4 +24,4 @@ Questions?
 
 eDealinfo.com welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. Any revisions to our policy will be posted to this site. Questions regarding this statement should be directed to [admin@edealinfo.com](mailto:admin@edealinfo.com?subject=eDealinfo.com%20Privacy%20Policy).
 
-© Copyright 2002 eDealinfo LLC. All Rights Reserved.
+© Copyright 2000-2003 eDealinfo.com Inc. All Rights Reserved.
