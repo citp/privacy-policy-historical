@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404000748id_/http%3A//nsf.gov/home/pubinfo/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207173654id_/http%3A//www.nsf.gov/home/pubinfo/privacy.htm) for the most accurate reproduction.*
 
 # NSF - Information - About NSF's Privacy Policy and Web Site
 
@@ -24,4 +24,4 @@ If you conduct business with NSF electronically, such as through FastLane, any i
 
 If you have questions or concerns about NSF's privacy policy, please contact Leslie Jensen, Office of the General Counsel, phone: 703-292-5065, email: [ljensen@nsf.gov](mailto:ljensen@nsf.gov). 
 
-Back to [Web and Other Policies](https://web.archive.org/web/20040404000748id_/http%3A//nsf.gov/home/pubinfo/webpolicy.htm)
+Back to [Web and Other Policies](https://web.archive.org/web/20041207173654id_/http%3A//www.nsf.gov/home/pubinfo/webpolicy.htm)
