@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fxtrek.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021020202id_/http%3A//fxtrek.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxtrek.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208172608id_/http%3A//www.fxtrek.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy -- FXtrek.com
 
 _**Voluntary Submissions**_  
-FXtrek.com’s registration form asks users to voluntarily provide us with contact information such as street address, e-mail, telephone number, as well as demographic information. The mailing address and credit card numbers are required only for Silver Package and Gold Package subscribers for credit card processing purposes, and NO secondary correspondences will be sent to them via US mail. We use the information to help us improve our services, to provide you with products and services you have requested, and to inform you about additional products or services that may be of interest to you (see the E-mail Communications section). We will not disclose or share the information with any third party without your permission. Users may opt-out of receiving future e-mails (see the choice/opt-out section below). 
+FXtrek.com’s registration form asks users to voluntarily provide us with contact information such as street address, e-mail, telephone number, as well as demographic information. The mailing address and credit card numbers are required only for FXtrek subscribers for credit card processing purposes, and NO secondary correspondences will be sent to them via US mail. We use the information to help us improve our services, to provide you with products and services you have requested, and to inform you about additional products or services that may be of interest to you (see the E-mail Communications section). We will not disclose or share the information with any third party without your permission. Users may opt-out of receiving future e-mails (see the choice/opt-out section below). 
 
 Our online surveys ask visitors for financial information and demographic information (like their age, or income level). This information is used on an aggregate basis only. Complying with the recently passed Children’s Online Privacy Protection Act (COPPA), we do not collect personal information for children under 13. For details of COPPA, please visit <http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm> and  
 <http://www.ftc.gov/opa/1999/9910/childfinal.htm>
@@ -31,7 +31,7 @@ FXtrek.com has security measures in place to protect the loss, misuse, and alter
 A good understanding of our security policy is required for each employee of FXtrek.com and we review our security policy and measures on weekly basis. 
 
 _**Billing and Credit Card Information**_  
-The secured servers of AuthorizeNet.com handle the billing transactions for the Silver Package and Gold Package subscriptions. For more information, please visit its website at [http://www.authorizenet.com](http://www.authorizenet.com/). 
+The secured servers of AuthorizeNet.com handle the billing transactions for the FXtrek subscriptions. For more information, please visit its website at [http://www.authorizenet.com](http://www.authorizenet.com/). 
 
 _**Choice/ Opt-Out**_  
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. Users can also send email to [webmaster@FXtrek.com](mailto:webmaster@FXTrek.com) for removing their information from our database to not receive future communications or to no longer receive our service. 
