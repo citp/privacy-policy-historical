@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wctravel.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624175622id_/http%3A//wctravel.com/corp/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wctravel.com privacy policy that was archived on 2004-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041126041035id_/http%3A//www.wctravel.com/corp/privacyStatement.html) for the most accurate reproduction.*
 
 # World Choice Travel - Online Privacy Statement
 
