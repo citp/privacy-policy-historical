@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181114id_/http%3A//www.ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansi.org privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008084642id_/http%3A//ansi.org/about_ansi/privacy_policy/privacy.aspx%3Fmenuid%3D1) for the most accurate reproduction.*
 
 # Privacy Statement for ANSI Online
 
@@ -37,6 +37,6 @@ Members/Constituents who have questions or concerns relative to the disclosure o
 
 **Questions/Comments**
 
-Questions or comments about this privacy statement or our practices may be submitted via e-mail to the web site administrator via [**our Feedback Page**](https://web.archive.org/web/20030603181114id_/http%3A//www.ansi.org/contact_us/contact_us.aspx?)
+Questions or comments about this privacy statement or our practices may be submitted via e-mail to the web site administrator via [**our Feedback Page**](https://web.archive.org/web/20031008084642id_/http%3A//ansi.org/contact_us/contact_us.aspx?)
 
 ANSI Online contains links to other web sites. ANSI makes no claim regarding nor accepts responsibility for the privacy practices or the content of such other web sites to which it may link except in cases where ANSI manages the linked web site in which case the privacy practices for that site will be disclosed thereon. 
