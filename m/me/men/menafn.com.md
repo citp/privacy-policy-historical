@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207100202id_/http%3A//menafn.com/mf_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603073321id_/http%3A//www.menafn.com/mf_privacy.asp) for the most accurate reproduction.*
 
-# MENAFN.COM - Middle East North Africa - Financial Network
+# MENAFN - Middle East North Africa . Financial Network
 
-| 
-
-| ** **  
+|   
 ---  
 Whether you are a brokerage customer, a visitor to our Site or a participant in one of our retail promotions, we understand the importance you place on the privacy and security of personal information that identifies you or your account information you disclose to us. 
 
@@ -136,13 +134,4 @@ Additional Information:**
 >> 
 >> **Links**
 >> 
->> When we include links to services or products on other web pages we may embed a code that allows us to know whether you clicked on that link. We do this so that we can personalize your experience, such as recognizing you when you reach the web page you clicked to, or by displaying information and content we believe will be relevant to you. We also do this to measure the effectiveness and usefulness of our advertisements and the messages we send, and we use this information to continually improve the way we communicate.  
-  
-Copyright ©2000 [](http://www.menafn.com/) All Rights Reserved.  
-__________________________________________________  
-[Terms of Service](https://web.archive.org/mf_terms.asp)  |   [Privacy Policy](https://web.archive.org/mf_privacy.asp)  |   [Contact Us](https://web.archive.org/mf_contact.asp) |   [Advertise ](https://web.archive.org/mf_advertise.asp)  
-[About MENAFN](https://web.archive.org/mf_about.asp)  |   [Career Opportunities](https://web.archive.org/mf_jobs.asp)  |   [Feedback](https://web.archive.org/mf_feedback.asp)  |   Help  
-  
-id="main" onmouseOut='hideLayer()'> |  id="Homeid" onmouseOver='showLayer("Homeid","")' >[](http://www.menafn.com/) | |  id="Qutesid" onmouseOver='showLayer("Qutesid","")' >[](https://web.archive.org/qn_quotes.asp) | |  id="Marketid" onmouseOver='showLayer("Marketid","")' >[](https://web.archive.org/qn_market.asp) | |  id="Financialid" onmouseOver='showLayer("Financialid","")' >[](https://web.archive.org/menafnmobile.asp) | |  id="Community" onmouseOver='showLayer("Community","")' > | |  id="Toolsid" onmouseOver='showLayer("Toolsid","")' > | |  id="Shopid" onmouseOver='showLayer("Shopid","")' >[](https://web.archive.org/research) | |  id="Cartid" onmouseOver='showLayer("Cartid","")' >[](https://web.archive.org/research/research_login.asp?type=payment)  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-id="subQutesid" onmouseOut='hideLayer()' onmouseOver='showLayer("Qutesid","")'> id="subMarketid" onmouseOut='hideLayer()' onmouseOver='showLayer("Marketid","")'> id="subFinancialid" onmouseOut='hideLayer()' onmouseOver='showLayer("Financialid","")'> id="subCommunity" onmouseOut='hideLayer()' onmouseOver='showLayer("Community","")'> id="subToolsid" onmouseOut='hideLayer()' onmouseOver='showLayer("Toolsid","")'> id="subShopid" onmouseOut='hideLayer()' onmouseOver='showLayer("Shopid","")'>
+>> When we include links to services or products on other web pages we may embed a code that allows us to know whether you clicked on that link. We do this so that we can personalize your experience, such as recognizing you when you reach the web page you clicked to, or by displaying information and content we believe will be relevant to you. We also do this to measure the effectiveness and usefulness of our advertisements and the messages we send, and we use this information to continually improve the way we communicate.
